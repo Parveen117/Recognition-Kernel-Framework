@@ -2,6 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21760119.svg)](https://doi.org/10.5281/zenodo.21760119)
 
+**Author:** Monty Dabas  
+**ORCID:** 0009-0005-6948-209X
+
 **Mathematical proof transport, lawful-transition accounting, open-residue classification, and reproducible certificates**
 
 The Recognition Kernel Framework is a technical and mathematical architecture for evaluating whether a recognized structure survives a transformation after lawful transport and declared memory have been accounted for. The remaining open residue is classified and recorded in a reproducible certificate.
