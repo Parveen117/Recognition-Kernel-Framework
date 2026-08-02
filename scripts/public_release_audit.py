@@ -2,14 +2,13 @@ from __future__ import annotations
 
 """Fail-closed public-release text and privacy audit.
 
-This script is intentionally conservative. It scans tracked text files for
-private paths, credential-like strings, loaded language that is disallowed in
-the public reviewer repository, and explicit RH overclaims.
+The audit scans tracked text files for private paths, credential-like strings,
+disallowed loaded rhetoric, and explicit RH overclaims. Pattern fragments are
+assembled at runtime so the audit does not flag its own rule definitions.
 """
 
 import re
 import subprocess
-import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -26,9 +25,19 @@ TEXT_SUFFIXES = {
     ".cff",
 }
 
+# Keep the public repository free of loaded or promotional phrasing while
+# avoiding literal self-matches inside this audit source.
+_LOADED_TERMS = (
+    "contam" + r"inat\w*",
+    "poll" + r"ut\w*",
+    "viol" + r"ent\s+proof",
+    "ene" + r"my\s+theorem",
+    "tru" + r"th\s+machine",
+)
+
 PATTERNS: dict[str, re.Pattern[str]] = {
     "loaded_language": re.compile(
-        r"\b(?:contaminat\w*|pollut\w*|violent\s+proof|enemy\s+theorem|truth\s+machine)\b",
+        r"\b(?:" + "|".join(_LOADED_TERMS) + r")\b",
         re.IGNORECASE,
     ),
     "rh_overclaim": re.compile(
@@ -38,12 +47,14 @@ PATTERNS: dict[str, re.Pattern[str]] = {
         re.IGNORECASE,
     ),
     "windows_user_path": re.compile(r"[A-Za-z]:\\Users\\[^\\\s]+"),
-    "github_token": re.compile(r"(?:ghp_[A-Za-z0-9]{20,}|github_pat_[A-Za-z0-9_]{20,})"),
+    "github_token": re.compile(
+        r"(?:ghp_[A-Za-z0-9]{20,}|github_pat_[A-Za-z0-9_]{20,})"
+    ),
     "openai_like_key": re.compile(r"\bsk-[A-Za-z0-9_-]{20,}\b"),
     "aws_access_key": re.compile(r"\bAKIA[A-Z0-9]{16}\b"),
     "private_address_marker": re.compile(
-        r"\b(?:Correspondence\s+Address|House\s+No\.?[- ]?\d+|Pocket[- ]?\d+|"
-        r"Sector[- ]?\d+.*Rohini)\b",
+        r"\b(?:Correspondence\s+Address|House\s+No\.?[- ]?\d+|"
+        r"Pocket[- ]?\d+|Sector[- ]?\d+.*Rohini)\b",
         re.IGNORECASE,
     ),
 }
