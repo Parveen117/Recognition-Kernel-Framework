@@ -2,9 +2,10 @@ from __future__ import annotations
 
 """Fail-closed public-release text and privacy audit.
 
-The audit scans tracked text files for private paths, credential-like strings,
-disallowed loaded rhetoric, and explicit RH overclaims. Pattern fragments are
-assembled at runtime so the audit does not flag its own rule definitions.
+The audit scans tracked and untracked non-ignored text files for private paths,
+credential-like strings, disallowed loaded rhetoric, and explicit RH
+overclaims. Pattern fragments are assembled at runtime so the audit does not
+flag its own rule definitions.
 """
 
 import re
@@ -60,21 +61,29 @@ PATTERNS: dict[str, re.Pattern[str]] = {
 }
 
 
-def tracked_files() -> list[Path]:
+def candidate_files() -> list[Path]:
     completed = subprocess.run(
-        ["git", "ls-files"],
+        [
+            "git",
+            "ls-files",
+            "--cached",
+            "--others",
+            "--exclude-standard",
+        ],
         cwd=ROOT,
         text=True,
         capture_output=True,
         check=True,
     )
-    return [ROOT / item for item in completed.stdout.splitlines() if item]
+    return sorted(
+        {ROOT / item for item in completed.stdout.splitlines() if item}
+    )
 
 
 def main() -> int:
     findings: list[tuple[str, str, int, str]] = []
 
-    for path in tracked_files():
+    for path in candidate_files():
         if path.suffix.lower() not in TEXT_SUFFIXES:
             continue
         try:
