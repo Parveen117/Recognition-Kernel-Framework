@@ -2,7 +2,7 @@
 
 Copyright © 2026 Parveen. All rights reserved except where a file states otherwise.
 
-This repository is made publicly available for scientific, engineering, reproducibility, and reviewer inspection.
+This repository is made available for scientific, engineering, reproducibility, and reviewer inspection.
 
 Public availability of source code, theorem text, certificate artifacts, or documentation does not by itself grant:
 
@@ -16,6 +16,6 @@ a representation that any patent claim is valid, granted, infringed, or enforcea
 
 Reviewers may clone and execute the repository for verification under applicable law and platform terms. Contact the repository owner before redistribution, commercial use, integration into a product, or publication of a modified certificate bearing the framework name.
 
-The repository does not include the inventor's private integrated filing drafts, correspondence address, application-priority list, or confidential drafting records.
+The repository excludes private integrated filing drafts, personal contact details, application-priority lists, and confidential drafting records.
 
 This notice is a technical repository notice, not legal advice. A final public licensing policy should be reviewed by qualified counsel in light of the inventor's filing strategy.
