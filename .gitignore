@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+Untitled*.ipynb
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Generated reproduction outputs
+**/result_reproduced.json
+certificates/foundation/campaign_result_reproduced.json
+
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
