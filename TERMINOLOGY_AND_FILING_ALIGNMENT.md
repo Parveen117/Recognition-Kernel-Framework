@@ -63,7 +63,7 @@ with:
 
 ## Preferred public wording
 
-Use:
+Use precise technical expressions such as:
 
 ```text
 undeclared dependency
@@ -78,16 +78,7 @@ computational audit
 proof-transport certificate
 ```
 
-Avoid rhetorical or adversarial wording such as:
-
-```text
-contamination
-pollution
-warfare
-violent proof
-truth machine
-enemy theorem
-```
+Avoid loaded, adversarial, or promotional rhetoric. Public claims should describe the exact dependency, residue, failed obligation, or certificate boundary instead of assigning moral or dramatic labels to mathematical objects.
 
 ## Historical identifiers
 
