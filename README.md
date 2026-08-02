@@ -1,5 +1,7 @@
 # Recognition Kernel Framework
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21760119.svg)](https://doi.org/10.5281/zenodo.21760119)
+
 **Mathematical proof transport, lawful-transition accounting, open-residue classification, and reproducible certificates**
 
 The Recognition Kernel Framework is a technical and mathematical architecture for evaluating whether a recognized structure survives a transformation after lawful transport and declared memory have been accounted for. The remaining open residue is classified and recorded in a reproducible certificate.
@@ -23,6 +25,13 @@ state
 -> technical action
 -> certificate
 ```
+
+## Archival record
+
+Reviewer-oriented release: **Version 0.1.0-review**  
+Zenodo DOI: **10.5281/zenodo.21760119**
+
+Cite the exact release or commit and the certificate package actually reviewed.
 
 ## First public verification cartridge
 
@@ -77,7 +86,7 @@ eta-zero endpoint positivity;
 the Riemann Hypothesis.
 ```
 
-Those items remain `NOT CERTIFIED` or `OPEN`.
+Those items remain `NOT CERTIFIED` or `OPEN` in this software release.
 
 ## Reviewer route
 
@@ -88,16 +97,14 @@ Those items remain `NOT CERTIFIED` or `OPEN`.
 5. Compare generated JSON hashes with the archived certificate artifacts.
 6. Inspect theorem sources, verifier obligations, and negative controls directly.
 
-## Filing-aligned terminology
+## Terminology
 
 The public umbrella name is **Recognition Kernel Framework**. The operational engine is **Recognition–Null Kernel Engine (RNKE)**. Recognition-Seam Calculus, EMK, UGD, RMG, and ECL are mathematical, geometric, computational, dynamic, and certificate-runtime layers or representations used within the broader architecture.
-
-See [`TERMINOLOGY_AND_FILING_ALIGNMENT.md`](TERMINOLOGY_AND_FILING_ALIGNMENT.md).
 
 ## Provenance policy
 
 Certified source files are preserved byte-for-byte under their historical paths and namespaces. Historical names such as `rh_framework` remain inside the imported cartridge because changing them would change source hashes and invalidate the archived certificate identity.
 
-## Public-review notice
+## Public-review scope
 
-This repository publishes technical material for scientific and engineering review. It does not reproduce confidential filing materials, define legal claim scope, or represent that any patent claim is valid, granted, or infringed. Public availability does not imply that every research claim in related private repositories has been verified.
+This repository publishes technical material for scientific and engineering review. It certifies only the packages, source pins, obligations, tolerances, and artifacts listed in the certificate index. Public availability does not imply that every research claim in related repositories has been verified.
