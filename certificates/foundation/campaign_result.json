@@ -1,0 +1,39 @@
+{
+  "canonical_summary_sha256": "8728ab0319afe5fb6e6329deaee479cfa93f50bb4422ee863aaaf4f911dd9582",
+  "implemented_package_count": 2,
+  "missing_planned_packages_are_not_passes": true,
+  "packages": [
+    {
+      "package": "F00GHI_LOG_ARITHMETIC_ZETA_V0_1",
+      "parse_error": null,
+      "passed": true,
+      "reported_status": "PASS_F00GHI_LOG_ARITHMETIC_ZETA_AUDIT",
+      "result": "certificates/foundation/F00GHI_LOG_ARITHMETIC_ZETA_V0_1/result.json",
+      "result_sha256": "b5eff18191bc1834d57b8783a0f35c7214123d544d0ba6431d241e4227e150b6",
+      "returncode": 0,
+      "stderr": "",
+      "stdout": "PASS_F00GHI_LOG_ARITHMETIC_ZETA_AUDIT\n672865d994b1111a876b160a80858f78d3133f400351f0792715a8d8bee142bd\n",
+      "verifier": "certificates/foundation/F00GHI_LOG_ARITHMETIC_ZETA_V0_1/verify.py"
+    },
+    {
+      "package": "F00_F00E_EULER_V0_1",
+      "parse_error": null,
+      "passed": true,
+      "reported_status": "PASS_F00_F00E_RIGOROUS_COMPUTATIONAL_AUDIT",
+      "result": "certificates/foundation/F00_F00E_EULER_V0_1/result.json",
+      "result_sha256": "c8db07cc20bb532ddf483bb56483ab43e3d717b765e7f9525fd8dafc2f380a41",
+      "returncode": 0,
+      "stderr": "",
+      "stdout": "PASS_F00_F00E_RIGOROUS_COMPUTATIONAL_AUDIT\nedc07e6bed39874251c0b75bb0e806a393a9b61343351fb40d70034fa66a2af5\n",
+      "verifier": "certificates/foundation/F00_F00E_EULER_V0_1/verify.py"
+    }
+  ],
+  "schema": "rh-framework-foundation-campaign-v0.1",
+  "scientific_boundary": {
+    "active_band_source_positivity": "OPEN",
+    "eta_zero_endpoint": "OPEN",
+    "implemented_packages_only": true,
+    "riemann_hypothesis": "OPEN"
+  },
+  "status": "PASS_IMPLEMENTED_FOUNDATION_CERTIFICATE_CAMPAIGN"
+}

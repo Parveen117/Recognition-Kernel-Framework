@@ -1,0 +1,80 @@
+{
+  "schema": "rh-framework-foundational-certificate-spec-v0.1",
+  "certificate_class": "F",
+  "certificate_id": "F00GHI_LOG_ARITHMETIC_ZETA_V0_1",
+  "theorems": [
+    "F00-G",
+    "F00-H",
+    "F00-I"
+  ],
+  "authoritative_sources": [
+    {
+      "path": "theorems/foundation/F00G_NATIVE_LOGARITHM_AND_POWERS.md",
+      "expected_git_blob_sha1": "04e67b84d2b21b87380a0373c99f70a7af19aab6"
+    },
+    {
+      "path": "theorems/foundation/F00H_NATIVE_NATURAL_ARITHMETIC_AND_PRIME_FACTORIZATION.md",
+      "expected_git_blob_sha1": "5fc483464b3a14ba5bb8e9a9e3c6233173ed3cd6"
+    },
+    {
+      "path": "theorems/foundation/F00I_NATIVE_DIRICHLET_ZETA_EULER_PRODUCT.md",
+      "expected_git_blob_sha1": "0b50bdebfc6c8e52a1c6918b3bf81bb4c77a9747"
+    },
+    {
+      "path": "certificates/foundation/NUMERICAL_PROOF_PROTOCOL.md",
+      "expected_git_blob_sha1": "f5784526dff9bb1287d3e228b8383ef0e5bfe4cf"
+    }
+  ],
+  "audit_packet": {
+    "positive_rationals": [
+      "1/2",
+      "2/3",
+      "1",
+      "4/3",
+      "3/2",
+      "2"
+    ],
+    "log_series_terms": 16,
+    "exp_series_terms": 32,
+    "interval_width_threshold": "1/1000000000000000",
+    "arithmetic_maximum": 120,
+    "euclid_prime_prefix": 8,
+    "zeta_sigma_values": [
+      2,
+      3,
+      4
+    ],
+    "dyadic_block_index_max": 10,
+    "zeta_tail_power": 12,
+    "euler_prime_counts": [
+      3,
+      5,
+      8
+    ],
+    "polynomial_geometric_degree_max": 4
+  },
+  "required_obligations": [
+    "C00GHI-01",
+    "C00G-01",
+    "C00G-02",
+    "C00G-03",
+    "C00G-04",
+    "C00H-01",
+    "C00H-02",
+    "C00H-03",
+    "C00H-04",
+    "C00H-05",
+    "C00H-06",
+    "C00H-07",
+    "C00I-01",
+    "C00I-02",
+    "C00I-03",
+    "C00I-04",
+    "C00I-05",
+    "C00I-06",
+    "C00I-07",
+    "C00GHI-NEG"
+  ],
+  "passing_status": "PASS_F00GHI_LOG_ARITHMETIC_ZETA_AUDIT",
+  "claim_boundary": "Foundational exact and interval audit on declared packets; no analytic continuation, completed-Weil sign, endpoint sign, or RH promotion."
+}

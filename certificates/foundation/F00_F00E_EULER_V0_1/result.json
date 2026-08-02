@@ -1,0 +1,269 @@
+{
+  "arithmetic": {
+    "engine": "fractions.Fraction",
+    "floating_proof_margins": false,
+    "mode": "exact"
+  },
+  "canonical_result_sha256": "edc07e6bed39874251c0b75bb0e806a393a9b61343351fb40d70034fa66a2af5",
+  "certificate_class": "F",
+  "certificate_id": "F00_F00E_EULER_V0_1",
+  "checks": {
+    "C00-01": {
+      "data": {
+        "import_error": null,
+        "sources": [
+          {
+            "bytes": 13787,
+            "expected_git_blob_sha1": "77011e37ebfe42d916ab465cfe5666038a4ad7cb",
+            "git_blob_sha1": "77011e37ebfe42d916ab465cfe5666038a4ad7cb",
+            "path": "src/rh_framework/native_summability.py",
+            "pin_matches": true,
+            "sha256": "c35b67e5eeedcb4dfc3532cc7073c30d889113cbf1421cef1cfc753d9d3843b7"
+          },
+          {
+            "bytes": 13721,
+            "expected_git_blob_sha1": "9ea9c78aa12d8fa0db5b4c87b9463d64a4751f41",
+            "git_blob_sha1": "9ea9c78aa12d8fa0db5b4c87b9463d64a4751f41",
+            "path": "theorems/foundation/F00E_NATIVE_EULER_FROM_IOTA_COMPLEX.md",
+            "pin_matches": true,
+            "sha256": "2654b5cab54e5f103b01471ffc06ca5e32eb56b11444744ffdf7edadb27daf8c"
+          },
+          {
+            "bytes": 4917,
+            "expected_git_blob_sha1": null,
+            "git_blob_sha1": "f5784526dff9bb1287d3e228b8383ef0e5bfe4cf",
+            "path": "certificates/foundation/NUMERICAL_PROOF_PROTOCOL.md",
+            "pin_matches": true,
+            "sha256": "88b42ab7316de31f5adbd777272acd446a1f620698675da9b10118407c1ea008"
+          }
+        ]
+      },
+      "detail": "Implementation import and source-pin audit.",
+      "passed": true
+    },
+    "C00-02": {
+      "data": {},
+      "detail": "Exact unit and quarter-turn table.",
+      "passed": true
+    },
+    "C00-03": {
+      "data": {},
+      "detail": "Associativity and commutativity on the bilinear basis.",
+      "passed": true
+    },
+    "C00-04": {
+      "data": {},
+      "detail": "Dagger involution and product reversal.",
+      "passed": true
+    },
+    "C00-05": {
+      "data": {
+        "scalar_points": 121
+      },
+      "detail": "Exact positivity on the rational audit lattice.",
+      "passed": true
+    },
+    "C00-06": {
+      "data": {
+        "product_checks": 14641
+      },
+      "detail": "Exact norm-square multiplicativity.",
+      "passed": true
+    },
+    "C00E-01": {
+      "data": {
+        "maximum_degree": 64
+      },
+      "detail": "Exact factorial/binomial convolution coefficients.",
+      "passed": true
+    },
+    "C00E-02": {
+      "data": {
+        "ratio": "2/9",
+        "upper": "524288/8442559125"
+      },
+      "detail": "Exact geometric factorial-tail enclosure.",
+      "passed": true
+    },
+    "C00E-03": {
+      "data": {
+        "threshold": "1/15",
+        "upper": "3/46"
+      },
+      "detail": "Exact unit-tangent remainder enclosure.",
+      "passed": true
+    },
+    "C00E-04": {
+      "data": {},
+      "detail": "Exact even/odd factorial splitting.",
+      "passed": true
+    },
+    "C00E-05": {
+      "data": {
+        "packets": [
+          {
+            "residual": "104866704742348/25896127351262035290329138203125",
+            "t": "-2",
+            "upper": "327910998837859661152/9468271562805181653026591155517578125"
+          },
+          {
+            "residual": "40677608857960866258671/384956219213331276939737002152967117209600000000",
+            "t": "-1",
+            "upper": "527048004977475735683670319/1445899260867380096678699677557719040000000000000000"
+          },
+          {
+            "residual": "38505095703392807756147137651/21671108567538921395586195614440821329476069323461099520000000",
+            "t": "-1/2",
+            "upper": "248656788158886688560211671343501/38493330272186908974759406955556556133882796322062336000000000000"
+          },
+          {
+            "residual": "0",
+            "t": "0",
+            "upper": "0"
+          },
+          {
+            "residual": "38505095703392807756147137651/21671108567538921395586195614440821329476069323461099520000000",
+            "t": "1/2",
+            "upper": "248656788158886688560211671343501/38493330272186908974759406955556556133882796322062336000000000000"
+          },
+          {
+            "residual": "40677608857960866258671/384956219213331276939737002152967117209600000000",
+            "t": "1",
+            "upper": "527048004977475735683670319/1445899260867380096678699677557719040000000000000000"
+          },
+          {
+            "residual": "104866704742348/25896127351262035290329138203125",
+            "t": "2",
+            "upper": "327910998837859661152/9468271562805181653026591155517578125"
+          }
+        ]
+      },
+      "detail": "Circular residual enclosed by exact tails.",
+      "passed": true
+    },
+    "C00E-06": {
+      "data": {
+        "generator_difference": [
+          "-1",
+          "0"
+        ]
+      },
+      "detail": "Exact flow composition and generator sign.",
+      "passed": true
+    },
+    "C00E-07": {
+      "data": {},
+      "detail": "Static no-import/source-order audit.",
+      "passed": true
+    },
+    "C00E-08": {
+      "data": {
+        "additive_fake_exp": {
+          "data": {},
+          "detail": "Fake additive exponential rejected.",
+          "passed": true
+        },
+        "classical_primitive": {
+          "data": {},
+          "detail": "Classical primitive injection detected.",
+          "passed": true
+        },
+        "removed_factorial": {
+          "data": {},
+          "detail": "Removed n! detected.",
+          "passed": true
+        },
+        "wrong_dagger": {
+          "data": {},
+          "detail": "Wrong dagger detected.",
+          "passed": true
+        },
+        "wrong_flow_sign": {
+          "data": {},
+          "detail": "Wrong flow sign detected.",
+          "passed": true
+        },
+        "wrong_iota_square": {
+          "data": {},
+          "detail": "Wrong radial sign detected.",
+          "passed": true
+        }
+      },
+      "detail": "All negative controls detected.",
+      "passed": true
+    }
+  },
+  "claim_boundary": "Foundational computational audit only; no completed-Weil sign, endpoint sign, or RH promotion.",
+  "missing_obligations": [],
+  "negative_controls": {
+    "additive_fake_exp": {
+      "data": {},
+      "detail": "Fake additive exponential rejected.",
+      "passed": true
+    },
+    "classical_primitive": {
+      "data": {},
+      "detail": "Classical primitive injection detected.",
+      "passed": true
+    },
+    "removed_factorial": {
+      "data": {},
+      "detail": "Removed n! detected.",
+      "passed": true
+    },
+    "wrong_dagger": {
+      "data": {},
+      "detail": "Wrong dagger detected.",
+      "passed": true
+    },
+    "wrong_flow_sign": {
+      "data": {},
+      "detail": "Wrong flow sign detected.",
+      "passed": true
+    },
+    "wrong_iota_square": {
+      "data": {},
+      "detail": "Wrong radial sign detected.",
+      "passed": true
+    }
+  },
+  "schema": "rh-framework-foundational-certificate-result-v0.1",
+  "scientific_boundary": {
+    "completed_weil_sign": "OPEN",
+    "eta_zero_endpoint": "OPEN",
+    "foundational_alignment": "CERTIFIED",
+    "riemann_hypothesis": "OPEN"
+  },
+  "source_records": [
+    {
+      "bytes": 13787,
+      "expected_git_blob_sha1": "77011e37ebfe42d916ab465cfe5666038a4ad7cb",
+      "git_blob_sha1": "77011e37ebfe42d916ab465cfe5666038a4ad7cb",
+      "path": "src/rh_framework/native_summability.py",
+      "pin_matches": true,
+      "sha256": "c35b67e5eeedcb4dfc3532cc7073c30d889113cbf1421cef1cfc753d9d3843b7"
+    },
+    {
+      "bytes": 13721,
+      "expected_git_blob_sha1": "9ea9c78aa12d8fa0db5b4c87b9463d64a4751f41",
+      "git_blob_sha1": "9ea9c78aa12d8fa0db5b4c87b9463d64a4751f41",
+      "path": "theorems/foundation/F00E_NATIVE_EULER_FROM_IOTA_COMPLEX.md",
+      "pin_matches": true,
+      "sha256": "2654b5cab54e5f103b01471ffc06ca5e32eb56b11444744ffdf7edadb27daf8c"
+    },
+    {
+      "bytes": 4917,
+      "expected_git_blob_sha1": null,
+      "git_blob_sha1": "f5784526dff9bb1287d3e228b8383ef0e5bfe4cf",
+      "path": "certificates/foundation/NUMERICAL_PROOF_PROTOCOL.md",
+      "pin_matches": true,
+      "sha256": "88b42ab7316de31f5adbd777272acd446a1f620698675da9b10118407c1ea008"
+    }
+  ],
+  "spec_sha256": "f66d4f30118d7cceffd5cd6789d56298a98bcc6757f523ec736d9f315140eeba",
+  "status": "PASS_F00_F00E_RIGOROUS_COMPUTATIONAL_AUDIT",
+  "theorems": [
+    "F00",
+    "F00-E"
+  ]
+}
