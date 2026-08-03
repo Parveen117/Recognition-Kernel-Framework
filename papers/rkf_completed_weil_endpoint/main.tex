@@ -337,4 +337,136 @@ K_0\ge0.
 \]
 The Recognition Kernel Framework is needed because the endpoint is a target-faithful completion problem, not merely a raw spectral estimate.  Once source restriction, blind kernels, normalization ambiguity, sector terminality and zero-cut support are all typed, the terminal object is the zero-cut projection defect.
 
+\appendix
+
+\section{Independent odd boundary-burden certificate: T18--T20}
+
+This appendix records the best supporting theorem which is not in the main playing eleven.  It is not the terminal T03 route used in the body, but it is too strong to leave in the dressing room.  Its role is to give an independent odd-sector burden certificate.
+
+\subsection{Boundary-burden equivalence}
+
+The T18 theorem identifies the odd completed-Weil sign with the cut boundary burden:
+\[
+\text{full odd sign}
+\quad\Longleftrightarrow\quad
+\beta_{\partial}^{\rm cut}\le1.
+\]
+Equivalently, for the complete unshifted odd source and the odd completion-boundary functional,
+\[
+\Sminus-L_\partial^\dagger L_\partial\ge0
+\]
+once the boundary burden is at most one.
+
+\subsection{T19 refined endpoint inequality}
+
+T19 evaluates the endpoint burden by retaining the full cut refinement.  For positive cut events with source energies \(s_j\) and boundary masses \(m_j\), the exact identity is
+\[
+\beta_0-\beta_\eta
+=
+\sum_j m_j\frac{\eta}{s_j(s_j+\eta)}.
+\]
+Directed source-floor lower bounds and boundary-mass upper bounds then give an outward endpoint inequality.
+
+The reconstructed Arb profile used \(2400\) active cells at step \(0.005\), with \(78734\) prime-power events.  At
+\[
+\eta=1.5625\cdot10^{-5},
+\qquad
+\beta_\eta^+=0.999773667408463,
+\]
+the correction ledger gives
+\[
+\beta_{\partial}^{\rm cut}
+\le
+0.9998319617060448<1.
+\]
+Thus, by T18,
+\[
+\Sminus-L_\partial^\dagger L_\partial\ge0.
+\]
+In the language of the source packet, the full odd completed-Weil sign is closed on the declared native source carrier.
+
+\subsection{T20 strict odd positivity}
+
+T20 adds the strictness mechanism.  The unshifted covariant cut flow, endpoint \(C^1\) regularization and Hardy active-band no-blindness exclude an attained zero vector:
+\[
+\ker \Sminus=\{0\}.
+\]
+Combining this source injectivity with the T19 strict reserve
+\[
+1-eta_{\partial}^{\rm cut}\ge0.0001680382939552
+\]
+gives strict positivity on every nonzero odd core state:
+\[
+\langle F,W_3^-F\rangle>0,
+\qquad F\ne0.
+\]
+
+\subsection{Relation to the main route}
+
+The T19--T20 route is an independent odd certificate.  It is not used as the main endpoint theorem in this draft because the body uses the zero-cut T03 source-Gram route.  The distinction is:
+\[
+\begin{array}{ll}
+\text{T03 route} & \text{invariant source-Gram identity }\Rightarrow K_0\ge0,\\
+\text{T19--T20 route} & \beta_{\partial}^{\rm cut}<1 \Rightarrow \text{strict odd sign}.
+\end{array}
+\]
+Both routes are useful.  The main text keeps T03 as the terminal spine and records T19--T20 here as a strong independent odd-sector certificate.
+
+\section{Other best supporting players}
+
+The following transferred results are intentionally outside the main proof chain.  They are retained because they prevent future proof-lab regression.
+
+\subsection{Channel-Hermite no-escape}
+
+The \(X_3\) channel-Hermite Parseval frame gives an exact analysis map
+\[
+C_3f=\left(e^{3|x|/2}f,\ (2\pi)^{-1/2}\sqrt{1+|G|}\,\widehat f\right)
+\]
+with
+\[
+\|C_3f\|^2=\|f\|_{X_3}^2.
+\]
+It proves parity-resolved global no-escape and projected-frame completeness after accepted-memory removal.  This is support machinery, not the terminal endpoint theorem.
+
+\subsection{Channel compatibility projection}
+
+The native analysis range is the closed graph of
+\[
+T=B_0A_0^{-1}.
+\]
+Raw split-channel packets must be projected to the compatible graph before they can update native couplings.  The finite warning
+\[
+\text{raw channel pairing}=15/4>0,
+\qquad
+\text{native compatible pairing}=-1/4<0
+\]
+prevents a false sign promotion.
+
+\subsection{Curvature-to-seam index law}
+
+The lawful curvature relation is spectral-flow typed:
+\[
+\kSigma(\eta;u_1)-\kSigma(\eta;u_0)
+=-\operatorname{sf}(I-K_\eta(u_s);0).
+\]
+A scalar thermodynamic ratio is not canonically equal to the integer seam charge.  It can influence the seam only through an explicit compact-operator path.
+
+\subsection{Unified seam block-Krylov machinery}
+
+For a finite-rank seed map \(S\), the response-generated Krylov space is
+\[
+V_m=\operatorname{span}\{K_{\Sigma,\eta}^j\operatorname{Ran}S:0\le j\le m\}.
+\]
+The same-projection two-block bound gives
+\[
+\sup\sigma(K)
+\le
+\frac{a+d+\sqrt{(a-d)^2+4b^2}}{2}
+\]
+when \(a,b,d\) are computed against the same projection.  This is future compact-operator machinery, not a substitute for the T03 endpoint.
+
+\section{Repository provenance}
+
+The main theorem capsules live in \texttt{theorum/}.  The supporting results in this appendix are summarized in \texttt{mp\_gold/}.  The source PRs are recorded in \texttt{theorum/provenance.json} and \texttt{mp\_gold/gold\_manifest.json}.  Raw verifier scripts, state capsules and large numerical ledgers remain outside this public paper draft unless explicitly archived.
+
 \end{document}
