@@ -1,0 +1,31 @@
+{
+  "claim_boundary": {
+    "open_items_are_not_silently_promoted": true,
+    "rh": "NOT_CLAIMED",
+    "source_pins_are_provenance_records": true
+  },
+  "pins": {
+    "boundary_envelope_from_actual_boundary_Riesz_state": {
+      "formula": "|b_partial(xi)| <= min(|xi|/9, 1/(3 sqrt(2)))",
+      "status": "PINNED_SOURCE_MANUSCRIPT"
+    },
+    "exact_boundary_pairing_in_same_chart_displayed": {
+      "formula": "L_partial(f) = integral <b_partial(xi), J_Weil f(xi)> dxi",
+      "status": "OPEN"
+    },
+    "recognition_complete_chart_transport_displayed": {
+      "formula": "J_Weil,N -> J_Weil and b_partial,N -> b_partial on one recovered carrier",
+      "status": "OPEN"
+    },
+    "source_floor_profile_from_actual_two_sheet_symbol": {
+      "formula": "Omega_0(xi) >= s_0(xi) I on the declared two-sheet source chart",
+      "status": "PINNED_SOURCE_MANUSCRIPT_AND_T21_PACKET"
+    },
+    "source_gram_identity_Xi0_star_Xi0": {
+      "formula": "Xi_0^* Xi_0 = S_(0,-)^full",
+      "status": "PINNED_SOURCE_MANUSCRIPT"
+    }
+  },
+  "schema": "rkf.native-weil-common-chart-source-pins.v1",
+  "source_manuscript": "Recognition_Kernel_Native_Completed_Weil_Cut_Burden_Monty_Dabas (1).pdf"
+}
