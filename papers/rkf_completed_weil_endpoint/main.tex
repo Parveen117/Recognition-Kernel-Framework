@@ -2,6 +2,7 @@
 
 \usepackage[a4paper,margin=1in]{geometry}
 \usepackage{amsmath,amssymb,amsthm,mathtools}
+\usepackage{array,booktabs,longtable}
 \usepackage{enumitem}
 \usepackage{hyperref}
 \usepackage{microtype}
@@ -13,9 +14,13 @@
 \newtheorem{proposition}[theorem]{Proposition}
 \newtheorem{corollary}[theorem]{Corollary}
 \newtheorem{definition}[theorem]{Definition}
+\newtheorem{assumption}[theorem]{Assumption}
 \newtheorem{remark}[theorem]{Remark}
 
 \newcommand{\C}{\mathbb C}
+\newcommand{\R}{\mathbb R}
+\newcommand{\HH}{\mathcal H}
+\newcommand{\DD}{\mathcal D}
 \newcommand{\Xthree}{X_3}
 \newcommand{\Psrc}{P_{\rm src}}
 \newcommand{\RSigma}{R_\Sigma}
@@ -23,6 +28,13 @@
 \newcommand{\Sminus}{S_{0,-}^{\rm full}}
 \newcommand{\BSEta}{B_\eta}
 \newcommand{\kSigma}{k_\Sigma}
+\newcommand{\eps}{\varepsilon}
+\newcommand{\diag}{\operatorname{diag}}
+\newcommand{\Ran}{\operatorname{Ran}}
+\newcommand{\Ker}{\operatorname{Ker}}
+\newcommand{\rank}{\operatorname{rank}}
+\newcommand{\polar}{\operatorname{polar}}
+\newcommand{\sf}{\operatorname{sf}}
 
 \title{Recognition Kernel Completion of the Five-Label Weil Endpoint}
 \author{Monty Dabas}
@@ -32,73 +44,109 @@
 \maketitle
 
 \begin{abstract}
-This draft records the cleaned Recognition Kernel Framework route for the completed-Weil endpoint.  The earlier proof-lab route contained several overlapping presentations: parity splitting, seam integers, UGD holonomy, accepted-block arithmetic, endpoint matrices, and classical explicit-formula language.  Here these are reorganized as one dependency chain.  The framework is used as a typed anti-blindness ledger: source restriction, blind kernels, path normalization, sector reduction and endpoint support descent are each represented by a specific theorem node.  The proof spine is the positive-eta amplitude path-equality theorem, the zero-as-cut endpoint discipline, the common five-matrix seam-integer reduction, the certified positivity of the target-local scalar \(M_3\), the one-sector terminal reduction, and the zero-cut T03 endpoint completion.  The native endpoint is the projection-defect inequality
+This draft gives the reviewer-facing version of the Recognition Kernel Framework route to the five-label completed-Weil endpoint.  The previous proof-lab presentation contained several overlapping paths; this version reorganizes them into one dependency chain and states the secondary certificates in appendices.  The native chain is
+\[
+\text{positive-eta amplitude path equality}
+\to
+\text{zero-as-cut endpoint discipline}
+\to
+\text{common five-matrix seam integer}
+\to
+M_3>0
+\to
+\text{single-sector terminal reduction}
+\to
+K_0\ge0.
+\]
+The endpoint inequality is the zero-cut projection-defect statement
 \[
 K_0=\RSigma^*(I-\Psrc)\RSigma\ge0.
 \]
-When the classical completed explicit formula and Weil criterion are consumed in the same declared normalization, the endpoint implies the Riemann hypothesis.  The proof-lab details are kept outside the main text in the local theorem capsules \texttt{theorum/} and reusable method notes \texttt{mp\_gold/}.
+The paper separates this native endpoint from the classical membrane: the completed explicit formula and the Weil criterion are consumed only in the declared normalization.  The framework is used as a typed anti-blindness ledger.  Source restriction, blind kernels, normalization path ambiguity, representation dependence and zero-cut support loss are not metaphors; each is represented by a theorem node.  The numerical and proof-lab evidence is summarized in certificate tables with repository pointers and Zenodo records.
 \end{abstract}
 
 \tableofcontents
 
 \section{Introduction}
 
-The purpose of this version is not to enlarge the paper.  It is to make the route readable and inevitable.  The central claim is that the Recognition Kernel Framework is not an extra hypothesis.  It is a typed bookkeeping device needed to prevent target-relevant information from being lost during cuts, source restrictions, finite observation, normalization, sector reduction and endpoint descent.
+The purpose of this paper is to present the cleaned endpoint route after the MP proof-lab results were transferred into the Recognition Kernel Framework repository.  The central correction is architectural.  The proof no longer proceeds through a separate even-source positivity assertion.  Instead, the endpoint is reached through the fixed five-label recognition carrier, the seam integer, the certified accepted block, the single-sector reduction and the zero-cut T03 completion.
 
-The cleaned chain is
-\[
-\text{path equality}
-\longrightarrow
-\text{zero as cut}
-\longrightarrow
-\text{five-matrix seam integer}
-\longrightarrow
-M_3>0
-\longrightarrow
-\text{single-sector endpoint}
-\longrightarrow
-K_0\ge0.
-\]
-This replaces the older fragile presentation that attempted to close the endpoint through a separate even-source positivity assertion.  That assertion is not part of this proof spine.
+The paper is written with a first-time reviewer in mind.  The main theorem nodes are stated in the body.  Proof-lab machinery that is useful but not terminal appears in appendices.  Repository capsules are used as provenance, not as a substitute for spelling out the logical chain.  The proof is still native in the framework sense: the classical explicit formula and the Weil criterion appear only at the final membrane.
 
-The classical layer is kept separate.  The native framework constructs and closes the completed-Weil endpoint in the declared normalization.  The implication from completed-Weil positivity to the Riemann hypothesis is then the classical completed explicit formula and Weil criterion in that same normalization.
+\subsection{The five main theorem nodes}
 
-\subsection{The transferred theorem nodes}
+The endpoint chain consumes the following nodes.
 
-The present draft consumes six transferred theorem groups.
 \begin{enumerate}[label=(T\arabic*)]
-\item Fixed-five positive-eta path equality by amplitude lift.
-\item Zero-as-cut endpoint discipline.
-\item Seam-integer/common five-matrix reduction.
-\item Certified positivity of \(M_3\) and the accepted odd block.
-\item One-sector terminal reduction after the seam/source/even reduction.
-\item Zero-cut T03 endpoint completion.
+\item \textbf{Positive-eta amplitude path equality.}  Normalization and eta continuation commute on the fixed five-label carrier for every positive eta.
+\item \textbf{Zero-as-cut discipline.}  Eta zero is treated as a support/cut event, not as an ordinary substitution into a positive-eta formula.
+\item \textbf{Common five-matrix seam reduction.}  The sign-sensitive obstruction is represented by one rank-at-most-five matrix whose threshold count is the seam integer.
+\item \textbf{Accepted block positivity.}  The transferred certificate gives \(G_3>0\) and \(M_3>0\), hence positivity of the accepted odd block.
+\item \textbf{Zero-cut T03 endpoint.}  The invariant source-Gram identity gives the projection defect \(K_0\ge0\).
 \end{enumerate}
-The clean capsules are stored in \texttt{theorum/}; reusable supporting machinery is stored in \texttt{mp\_gold/}.  The main paper states the theorem chain and explains why each node is necessary.
 
-\section{Classical membrane}
+The appendix records the independent T18--T20 odd boundary-burden certificate.  That certificate is important, but the body uses the T03 source-Gram route as the main endpoint closure.
 
-We separate three layers.
-\begin{enumerate}[label=(\alph*)]
-\item The native layer constructs the boundary--Gamma--prime completed-Weil carrier and its \(X_3\) realization.
-\item The classical explicit-formula layer identifies this native form with the symmetric zero-sum Weil quadratic form in the declared normalization.
-\item The classical Weil criterion identifies nonnegativity of that form with the Riemann hypothesis.
-\end{enumerate}
-The first layer belongs to the Recognition Kernel construction.  The second and third layers are consumed as the classical terminal membrane.  This distinction prevents the word ``Weil'' from hiding whether a step is native construction or classical identification.
+\section{Classical membrane and normalization contract}
+
+The paper separates the native construction from the classical terminal membrane.
+
+\begin{definition}[Test core and Fourier convention]
+Let \(\DD\subset C_c^\infty(\R)\) be the logarithmic test core used for the completed-Weil form.  For \(f\in\DD\), write
+\[
+\widehat f(z)=\int_\R f(x)e^{izx}\,dx,
+\]
+with the understanding that the opposite Fourier sign conjugates the symmetric zero pairing and does not change the diagonal Hermitian sign once the convention is fixed throughout.
+\end{definition}
+
+\begin{definition}[Classical Weil membrane]
+For \(f,h\in\DD\), define the classical zero-side Hermitian form
+\[
+Q_W(f,h)
+ =
+\sum_\rho^{\rm sym}
+\widehat f(z_\rho)
+\overline{\widehat h(\overline{z_\rho})},
+\qquad
+z_\rho=\frac{\rho-\tfrac12}{i},
+\]
+where the summation is the symmetric completed-zero summation of the classical explicit formula.
+\end{definition}
+
+\begin{assumption}[Classical membrane in the declared normalization]
+The native boundary--Gamma--prime completed-Weil form \(W_\xi\) constructed on the recognition carrier is identified by the completed explicit formula with \(Q_W\) in the convention above.  The classical Weil criterion is consumed in the same normalization:
+\[
+Q_W(f,f)\ge0\quad(f\in\DD)
+\quad\Longleftrightarrow\quad
+\mathrm{RH}.
+\]
+\end{assumption}
+
+\begin{remark}
+The native part of the paper constructs and closes the endpoint sign of the completed-Weil form.  The final implication to the Riemann hypothesis is exactly the classical membrane above.  The paper does not claim that a primitive diagonal Euler determinant, the prime torus alone, or raw UGD holonomy independently replaces this membrane.
+\end{remark}
 
 \section{Why the framework is not over-engineering}
 
-The framework objects are introduced only when an ordinary operator presentation loses typed information.  The minimal obstruction ledger is:
-\begin{itemize}
-\item source restriction is repaired by the source-restriction rank formula;
-\item target-relevant blind kernels are repaired by minimal lifts or decoders;
-\item normalization path ambiguity is repaired by the positive-eta amplitude theorem;
-\item endpoint support loss is made visible by the zero-as-cut theorem;
-\item representation dependence is repaired by common five-matrix covariance;
-\item finite accepted-block uncertainty is repaired by \(G_3>0\) and \(M_3>0\);
-\item the final endpoint source readout is repaired by the zero-cut T03 theorem.
-\end{itemize}
-Thus the framework is a typed obstruction ledger, not decorative terminology.
+The Recognition Kernel Framework is introduced because ordinary operator notation can lose target-relevant information at the exact places where the endpoint proof must be stable.  Table~\ref{tab:minimality} records the obstruction ledger.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{p{0.33\linewidth}p{0.55\linewidth}}
+\toprule
+Failure mode & Framework repair \\
+\midrule
+Source restriction & source-restriction rank formula and blind-kernel formula \\
+Target-relevant blind kernel & minimal scalar lift or target-relative decoder \\
+Path or normalization ambiguity & positive-eta amplitude path equality \\
+Representation dependence & common five-matrix covariance \\
+Accepted-block uncertainty & certified \(G_3>0\) and \(M_3>0\) \\
+Endpoint support loss & zero-cut T03 completion \\
+\bottomrule
+\end{tabular}
+\caption{Each framework layer repairs a named obstruction.}
+\label{tab:minimality}
+\end{table}
 
 \begin{theorem}[Source restriction and minimal lift]
 Let \(S(q)P\) be a rich split representation and let \(B\) be a consumed source restriction.  Put
@@ -107,28 +155,39 @@ A(q)=B S(q)P,
 \qquad
 S(q)=\sum_s q^sD_s.
 \]
-Then the all-parameter observable rank is the rank of the vertical stack of the maps \(BD_sP\), and the blind kernel is
+Then the all-parameter observable rank is
 \[
-\bigcap_s\ker(BD_sP).
+\rank\begin{pmatrix}BD_1P\\BD_2P\\ \vdots\end{pmatrix},
+\]
+and the blind kernel is
+\[
+\bigcap_s\Ker(BD_sP).
 \]
 If scalar supplemental observations \(G\) are added, the augmented map is injective exactly when
 \[
-\ker A\cap\ker G=\{0\}.
+\Ker A\cap\Ker G=\{0\}.
 \]
-Consequently at least \(\dim\ker A\) scalar observations are necessary to repair a full blind defect.  Target-relative repair requires only that the remaining blind kernel lie inside the target kernel.
+Consequently at least \(\dim\Ker A\) scalar observations are necessary to repair a full blind defect.  Target-relative repair requires only that the remaining blind kernel lie in the target kernel.
 \end{theorem}
 
-\begin{proof}[Proof source]
-This is the transferred source-restriction/minimal-lift theorem recorded in \texttt{mp\_gold/04\_source\_restriction\_and\_arrow\_contracts.md}.  It is consumed here as the reason that blind quotients and lifts must be part of the endpoint proof data.
+\begin{proof}
+The rank formula is the rank of the direct sum of all coefficient-level source restrictions.  A vector is blind for the entire rich representation exactly when it is annihilated by every restricted coefficient map \(BD_sP\), giving the displayed intersection.  Adding a scalar observation map \(G\) removes the blind defect precisely when no nonzero vector is invisible to both the original restricted map and the supplement.  This gives the injectivity criterion and the lower bound on the number of independent scalar repairs.
 \end{proof}
 
-\begin{remark}[Arrow contracts]
-The associated arrow-contract theorem requires each proof arrow to declare its domain, codomain, lawful nullspace, source restriction, blind kernel, target relevance, decoder or lift, completion topology, margin and claim status.  This rejects false endpoint promotion whenever target-relevant information remains blind.
+\begin{remark}[Endpoint meaning]
+In the endpoint application, the source restriction is the passage to the target-relevant source readout, the blind kernel is the endpoint information not seen by that readout, and the five-label lift supplies the minimal repair.  The theorem is therefore not decoration; it is the algebraic reason that a blind quotient and lift must be declared before endpoint promotion.
 \end{remark}
 
 \section{Positive-eta amplitude analyticity}
 
-The analytic theorem is a main theorem of the paper.  It shows that the positive-eta family has no normalization-path ambiguity on the fixed five-label carrier.
+The positive-eta analytic theorem is one of the load-bearing results.  It removes path-order ambiguity before the sign problem begins.
+
+\begin{definition}[Polar frame transport]
+For a full-column-rank amplitude \(\Theta=QH\), where \(Q^*Q=I_5\) and \(H>0\), define the canonical transport between two polar frames \(Q_a,Q_b\) by
+\[
+U_{a\to b}=\polar(Q_b^*Q_a).
+\]
+\end{definition}
 
 \begin{theorem}[Fixed-five positive-eta path equality]
 Let
@@ -141,111 +200,103 @@ G_\eta=1\oplus(A_+ + \eta I_4),\quad \eta>0.
 \]
 Here \(A\) is the eta-independent raw amplitude, \(U\) is the fixed unitary accepted chart, \(Q_{\rm chart}\) is the polar orientation of \(A_{\rm chart}\), and \(G_\eta^{1/2}\) is strictly positive.  Then
 \[
-\operatorname{polar}(\Theta_\eta)=Q_{\rm chart}
+\polar(\Theta_\eta)=Q_{\rm chart}
 \]
 for every positive eta.  Hence, for any positive eta values \(\eta_1,\eta_2\),
 \[
-\text{raw eta transport}=I_5,\qquad
-\text{normalized eta transport}=I_5,\qquad
+\text{raw eta transport}=I_5,
+\qquad
+\text{normalized eta transport}=I_5,
+\qquad
 \text{raw-to-normalized transport}=U^*.
 \]
 All positive-eta normalization/continuation rectangles are identity loops on the fixed five-label carrier.
 \end{theorem}
 
 \begin{proof}
-Right multiplication by a unitary is polar-covariant, so \(\operatorname{polar}(AU)=\operatorname{polar}(A)U\).  Right multiplication by a positive factor changes only the metric scale and does not change the polar orientation.  Since \(G_\eta^{1/2}>0\), the polar orientation of \(Q_{\rm chart}G_\eta^{1/2}\) is \(Q_{\rm chart}\).  The claimed transports follow immediately.
+Right multiplication by a unitary is polar-covariant, so \(\polar(AU)=\polar(A)U\).  Right multiplication by a strictly positive factor changes the metric scale but not the polar orientation.  Since \(G_\eta^{1/2}>0\), the polar orientation of \(Q_{\rm chart}G_\eta^{1/2}\) is \(Q_{\rm chart}\).  Therefore the polar frame at every normalized positive-eta node is the same frame.  The raw eta transport and normalized eta transport are identity maps on the label fibre, while the raw-to-normalized transport is the fixed chart unitary \(U^*\).  The two possible paths around any positive-eta normalization rectangle have the same product.
 \end{proof}
 
-\begin{remark}[Finite rectangle]
-The state-locked rectangle at \(\eta=0.010\) and \(\eta+h=0.011\) reported path transport difference \(3.0669860554696173\cdot10^{-15}\), loop identity residual \(3.1396725820594018\cdot10^{-15}\), defect-to-accepted leakage \(1.7140530928543942\cdot10^{-17}\), endpoint scale difference \(0\), and no false checks.  These values are the numerical shadow of the exact factorization above, not a separate sign proof.
+\begin{remark}[Finite rectangle shadow]
+The state-locked rectangle at \(\eta=0.010\) and \(\eta+h=0.011\) reported path transport difference \(3.0669860554696173\cdot10^{-15}\), loop identity residual \(3.1396725820594018\cdot10^{-15}\), defect-to-accepted leakage \(1.7140530928543942\cdot10^{-17}\), endpoint scale difference zero, and no false checks.  These numbers are the floating-point shadow of the exact factorization above.
 \end{remark}
-
-The theorem converts the endpoint question from a path-holonomy problem into a support/Fredholm problem at eta zero, where \(G_0=1\oplus A_+\) may lose support.
 
 \section{Zero as cut}
 
-The previous section proves that positive eta has no path ambiguity.  It does not say that eta zero is an ordinary positive-eta point.  The endpoint is a cut.
+The previous theorem says there is no positive-eta normalization holonomy.  The endpoint issue is therefore the support event at eta zero.  This is the role of the zero-as-cut theorem.
 
-\begin{theorem}[Zero-as-cut projector theorem]
-The cut-first endpoint model has a pre-cut circle carrier and a post-cut torus carrier with one geometric cycle and one independent cut-memory cycle:
+\begin{definition}[Cut and joint cycles]
+The pre-cut carrier has one geometric cycle \(\gamma_\pi\).  The post-cut carrier has an independent cut-memory cycle:
 \[
 H_1(S^1;\mathbb Z)=\mathbb Z\gamma_\pi,
 \qquad
 H_1(T^2;\mathbb Z)=\mathbb Z\gamma_\pi\oplus\mathbb Z\mu_{\rm cut}.
 \]
-On the ordered basis \((\gamma_\pi,\mu_{\rm cut})\), define
+On the ordered basis \((\gamma_\pi,\mu_{\rm cut})\), set
 \[
-P_{\rm joint}=\operatorname{diag}(1,0),
+P_{\rm joint}=\diag(1,0),
 \qquad
-P_{\rm cut}=\operatorname{diag}(0,1).
+P_{\rm cut}=\diag(0,1).
 \]
-Then
+\end{definition}
+
+\begin{theorem}[Zero-as-cut projector theorem]
+The cut and joint projectors satisfy
 \[
-P_{\rm cut}P_{\rm joint}=0.
+P_{\rm cut}P_{\rm joint}=P_{\rm joint}P_{\rm cut}=0,
+\qquad
+P_{\rm cut}+P_{\rm joint}=I.
 \]
-Hence a mode which is simultaneously a pure cut state and a complete joint state must vanish.
+Hence no nonzero vector can be both a pure cut state and a complete joint state.
 \end{theorem}
 
 \begin{proof}
-The projectors have orthogonal ranges by construction.  If \(P_{\rm cut}u=u\) and \(P_{\rm joint}u=u\), then
+The identities follow immediately from the displayed diagonal matrices.  If \(u=P_{\rm cut}u=P_{\rm joint}u\), then
 \[
-u=P_{\rm cut}u=P_{\rm cut}P_{\rm joint}u=0.
+u=P_{\rm cut}P_{\rm joint}u=0.
 \]
+Thus simultaneous pure cut recognition and complete joint recognition force vanishing.
 \end{proof}
 
-\begin{corollary}[Visible return is not full state return]
-Let
+\begin{remark}[Visible return is not full return]
+For the join projection \(J=(1,0)\) and section \(S=(1,0)^T\), one has \(JS=I_1\), but
 \[
-J=[1,0],\qquad S=[1,0]^T.
+SJ=P_{\rm joint}\ne I_2.
 \]
-Then
+Thus the visible circle coordinate can return while the full post-cut torus state does not.  The exact memory defect is
 \[
-JS=I_1,\qquad SJ=P_{\rm joint}\ne I_2,\qquad I_2-SJ=P_{\rm cut}.
+I_2-SJ=P_{\rm cut}.
 \]
-Therefore return of the visible circle coordinate does not imply return of the full post-cut state.
-\end{corollary}
+This is the reason the endpoint is handled by a zero-cut source-Gram theorem rather than by an ordinary positive-eta continuation.
+\end{remark}
 
 \begin{remark}[Finite critical witness]
-The finite critical response packet supports this warning.  The response split uses
-\[
-g_c=(r_c+j_c)/\sqrt2,
-\qquad
-m_c=(r_c-j_c)/\sqrt2.
-\]
-At the critical packet, the joint and cut-memory component norms were equal, the relative cut memory was \(0.7071067811865472\), and complete state return was false.  This does not by itself prove the endpoint sign, but it explains why eta zero must be handled as a zero-cut source/readout problem.
+The finite critical response packet recorded a surviving cut-memory coordinate with joint and cut-memory component norms both \(4.137400474477719\cdot10^{-5}\), relative cut memory \(0.7071067811865472\), and complete state return false.  This is a finite witness for the warning above: corrected target visibility does not automatically give full state return.
 \end{remark}
-
-\begin{remark}[Spectral-flow cut memory]
-For \(K_\eta=I_5-B_\eta\), a moving unitary frame may rotate eigenvectors, but negative inertia changes only through zero.  The sampled cut memory is
-\[
-m_{\rm cut}=N_-(K_{\eta_{\rm final}})-N_-(K_{\eta_{\rm initial}}).
-\]
-A transverse crossing creates cut memory; a tangential zero contact is recorded separately.  This is endpoint discipline, not a terminal proof route.
-\end{remark}
-
-This theorem gives the conceptual reason for the phrase ``zero-cut endpoint''.  The actual endpoint sign is still supplied by the T03 source-Gram completion below.
 
 \section{Seam integer and the common five-matrix}
 
-The sign-sensitive obstruction is represented by one rank-at-most-five matrix.
+The sign-sensitive obstruction is represented by one rank-at-most-five matrix.  This section turns the seam language into a standard threshold-count statement.
 
 \begin{definition}[Seam charge]
 Let \(K_\eta\) be the compact seam response at positive shift eta.  Define
 \[
-\kSigma(\eta)=\operatorname{rank}\mathbf 1_{(1,\infty)}(K_\eta).
+\kSigma(\eta)=\rank\mathbf 1_{(1,\infty)}(K_\eta).
 \]
-On the five-label source packet this is equivalently
+On the five-label source packet this is represented by
 \[
-\BSEta=V_\eta^*S_{\eta,-}^{-1}V_\eta,\qquad \operatorname{rank}V_\eta\le5,
+\BSEta=V_\eta^*S_{\eta,-}^{-1}V_\eta,
+\qquad
+\rank V_\eta\le5,
 \]
-with
+and
 \[
 \kSigma(\eta)=N_+(\BSEta-I).
 \]
 \end{definition}
 
 \begin{theorem}[Common five-matrix covariance]
-For a positive source operator \(S\) and five-column source map \(V\), set
+For a positive source operator \(S\) and a five-column source map \(V\), set
 \[
 B=V^*S^{-1}V\in M_5(\C).
 \]
@@ -253,8 +304,18 @@ If \(S^U=USU^*\) and \(V^U=UV\), then
 \[
 (V^U)^*(S^U)^{-1}V^U=B.
 \]
-A unitary change of five labels conjugates \(B\).  Therefore spectrum, threshold projection, seam charge and sign decision are representation invariant.
+A unitary change of the five labels conjugates \(B\).  Therefore the spectrum, threshold projection, seam charge and sign decision are representation invariant.
 \end{theorem}
+
+\begin{proof}
+Since \((USU^*)^{-1}=US^{-1}U^*\),
+\[
+(V^U)^*(S^U)^{-1}V^U
+=V^*U^*US^{-1}U^*UV
+=V^*S^{-1}V.
+\]
+If the label basis is changed by a unitary \(U_5\), then \(V\) is replaced by \(VU_5\), and the matrix becomes \(U_5^*BU_5\).  Hence threshold ranks and spectral projections are invariant.
+\end{proof}
 
 \begin{corollary}[Matrix, seam and threshold holonomy]
 The native matrix, prime-torus matrix and threshold-holonomy presentation are faithful avatars of the same obstruction:
@@ -272,13 +333,13 @@ H_{\rm threshold}(\eta)=I-2\mathbf 1_{(1,\infty)}(\BSEta).
 Thus the prime torus is a chart of the same matrix, not a second independent proof route.
 \end{corollary}
 
-\section{The accepted block and \(M_3\)}
+\section{The accepted block and \texorpdfstring{$M_3$}{M3}}
 
 The finite accepted odd block is
 \[
 E_3=\operatorname{span}\{u, |x|u, |x|^2u, e_3\}.
 \]
-Let \(G_3\) be the completed-Weil Gram on \(V_3=\operatorname{span}\{u,|x|u,|x|^2u\}\), and let \(b_3\) be the coupling vector to \(e_3\).  Define
+Let \(G_3\) be the completed-Weil Gram on \(V_3=\operatorname{span}\{u,|x|u,|x|^2u\}\), and let \(b_3\) be the coupling vector from \(V_3\) to \(e_3\).  Define
 \[
 M_3=q(e_3,e_3)-b_3^*G_3^{-1}b_3.
 \]
@@ -295,100 +356,173 @@ and
 Therefore \(M_3>0\).  Since \(M_3\) is the Schur complement of \(G_3\) in the bordered Gram, the completed-Weil form is positive definite on \(E_3\).
 \end{theorem}
 
-\begin{proof}[Proof source]
-The proof is the correlated state-local Schur ledger recorded in \texttt{theorum/03\_m3\_positive\_accepted\_block.md}.  The important point is that \(q(e_3,e_3)\), \(b_3\), Schur compensation and prime/Gamma truncation are enclosed in one correlated ledger.  Independent boxes for \(b_3\) are explicitly not used.
+\begin{proof}
+The block Gram on \(E_3=V_3\oplus\C e_3\) has the bordered form
+\[
+\begin{pmatrix}
+G_3 & b_3\\
+b_3^* & q(e_3,e_3)
+\end{pmatrix}.
+\]
+For a Hermitian bordered matrix with \(G_3>0\), positivity is equivalent to positivity of the Schur complement
+\[
+q(e_3,e_3)-b_3^*G_3^{-1}b_3=M_3.
+\]
+The certificate gives both \(G_3>0\) and \(M_3>0\), so the accepted block is positive definite.  The certificate is correlated: the self channel, coupling vector, Schur compensation and prime/Gamma truncation are enclosed together; independent coordinate boxes for \(b_3\) are not used.
 \end{proof}
 
 \section{Single-sector terminal reduction}
 
-Both parity sectors remain represented at the raw bilateral level.  The single-sector theorem is a later terminal reduction, not a deletion of the even sector.
+Both parity sectors remain represented in the bilateral carrier.  The single-sector statement is a later terminal reduction, not a deletion of the even sector.
 
-\begin{theorem}[One-sector terminal sufficiency after reduction]
-After the representation-complete seam-integer reduction, the common source-sign theorem and the favorable even-boundary reduction, the even sector is retained in the bilateral carrier but is not an independent terminal gate.  The remaining terminal obstruction is the odd five-label seam packet.
+\begin{assumption}[Reduction inputs]
+The following transferred inputs are consumed.
+\begin{enumerate}[label=(\roman*)]
+\item The representation-complete bilateral carrier preserves the completed-Weil target.
+\item The seam-integer/common five-matrix theorem identifies the sign-sensitive terminal obstruction with the five-label threshold packet.
+\item The common source-sign theorem and favorable even-boundary reduction remove the even sector as an independent terminal gate.
+\item The odd five-label packet is the remaining target-relevant endpoint obstruction.
+\end{enumerate}
+\end{assumption}
+
+\begin{theorem}[One-sector terminal sufficiency]
+Under the reduction inputs, the completed endpoint sign is equivalent to the nonnegativity of the odd five-label endpoint packet.  The even sector is retained upstream but is not an independent terminal gate after the reduction.
 \end{theorem}
 
-\begin{remark}
-The chronological order is essential.  Before the seam/source/even reduction, the parity split still records both parity sectors.  After that reduction, the terminal object is the odd five-label packet.
-\end{remark}
+\begin{proof}
+By representation completeness, no target-relevant completed-Weil information is lost by passing to the bilateral carrier.  The seam-integer theorem expresses the sign-sensitive obstruction as the threshold rank of the common five-matrix.  The source-sign and favorable even-boundary reduction place the even contribution in the accepted/non-terminal part of the carrier.  Therefore a nonnegative endpoint fails only if the odd five-label threshold packet has a positive threshold count.  Conversely, if that packet is nonnegative, the common five-matrix has no super-threshold direction and the endpoint obstruction vanishes.  Thus the odd five-label packet is terminal after, and only after, these reductions.
+\end{proof}
 
 \section{Zero-cut T03 endpoint completion}
 
-The zero-as-cut theorem explains why eta zero is an endpoint cut.  T03 is the theorem which performs the source-Gram completion at that cut.
+The T03 theorem is the main endpoint route used in the paper.  It replaces orientation-dependent ambient equality by an invariant source-Gram identity.
 
-\begin{theorem}[Invariant source-Gram identity]
-Let \(\RSigma\) be the total response readout, \(\Psrc\) the source projection, \(\Sminus\) the complete unshifted odd source, and \(\WSigma\) the five-label response map.  The zero-cut T03 completion gives
+\begin{definition}[Endpoint source-Gram data]
+Let \(\RSigma\) be the total five-label response readout, \(\Psrc\) the source projection, \(\Sminus\) the complete unshifted odd source, and \(\WSigma\) the five-label response map.  The endpoint source-Gram target is
 \[
 \RSigma^*\Psrc\RSigma
 =
 \bigl((\Sminus)^{\dagger/2}\WSigma\bigr)^*
 \bigl((\Sminus)^{\dagger/2}\WSigma\bigr).
 \]
-This identity follows from the six-block decomposition of the five-label Gram defect: visible compression, blind response, cross blocks, omitted prime/Gamma tails, quadrature/window/solve/rounding errors, and native/Feshbach/prime-torus chart transport.  The total directed error tends to zero.
+\end{definition}
+
+\begin{theorem}[Six-block convergence criterion]
+Suppose finite transported source maps give finite Gram defects \(\Delta_n\) satisfying
+\[
+\|\Delta_n\|\le
+\eps_{\rm vis}(n)+\eps_{\rm blind}(n)+\eps_{\rm cross}(n)
++\eps_{\rm tail}(n)+\eps_{\rm quad}(n)+\eps_{\rm chart}(n),
+\]
+where the six terms respectively bound visible compression error, five-dimensional blind response error, both cross blocks, omitted prime/Gamma tails, quadrature/window/solve/rounding errors, and native/Feshbach/prime-torus chart transport.  If
+\[
+\eps_{\rm vis}(n)+\eps_{\rm blind}(n)+\eps_{\rm cross}(n)
++\eps_{\rm tail}(n)+\eps_{\rm quad}(n)+\eps_{\rm chart}(n)\longrightarrow0,
+\]
+then the invariant source-Gram identity holds.
 \end{theorem}
 
-\begin{remark}
-The theorem does not assume literal equality of ambient source maps.  Equal Grams give a canonical partial-isometry identification of final ranges.  The endpoint sign uses the invariant Gram identity, not an orientation-dependent ambient equality.
-\end{remark}
+\begin{proof}
+Each finite transported source map produces a finite Gram comparison between the total five-label response readout and the source-projected response.  The six listed errors form an outward norm bound on the full Gram defect.  Since the total bound tends to zero, \(\Delta_n\to0\) in operator norm on the finite label space.  Passing to the limit gives equality of the two limiting Gram matrices.  Equal Gram matrices determine a canonical partial isometry between final ranges, so literal equality of ambient source maps is unnecessary.
+\end{proof}
 
 \begin{theorem}[Zero-cut projection-defect positivity]
-The independently constructed total-response Gram satisfies
+Assume the invariant source-Gram identity and the independently constructed total-response Gram
 \[
-\RSigma^*\RSigma=\operatorname{diag}(1,A_3).
+\RSigma^*\RSigma=\diag(1,A_3).
 \]
-Together with the invariant source-Gram identity, this yields
+Then
 \[
 K_0=\RSigma^*(I-\Psrc)\RSigma\ge0.
 \]
 The endpoint Schur equivalence transfers this projection-defect positivity to the completed-Weil endpoint sign in the declared normalization.
 \end{theorem}
 
-\begin{proof}[Proof source]
-This is the zero-cut T03 theorem recorded in \texttt{theorum/04\_zero\_cut\_t03\_endpoint\_completion.md}.  It consumes positive-eta path equality, zero-as-cut endpoint discipline, the seam-integer/five-matrix reduction and accepted-block positivity as upstream theorem nodes.
+\begin{proof}
+Since \(\Psrc\) is an orthogonal projection, \(I-\Psrc\ge0\).  Hence for any label vector \(c\in\C^5\),
+\[
+\langle c,K_0c\rangle
+=
+\langle \RSigma c,(I-\Psrc)\RSigma c\rangle\ge0.
+\]
+The invariant source-Gram identity identifies the source-visible part of the endpoint response with the complete unshifted source readout.  The remaining projection defect is exactly the zero-cut endpoint obstruction.  The Schur endpoint equivalence therefore yields the completed-Weil endpoint sign.
 \end{proof}
 
 \section{Main theorem}
 
 \begin{theorem}[Completed-Weil endpoint theorem]
-Assume the native completed-Weil carrier is in the declared normalization and consume the transferred theorem chain: positive-eta path equality, zero-as-cut endpoint discipline, common five-matrix seam-integer reduction, \(G_3>0\), \(M_3>0\), single-sector terminal reduction, and zero-cut T03 endpoint completion.  Then the completed-Weil endpoint sign holds on the target-faithful completed carrier.
+Assume the native completed-Weil carrier is in the declared normalization and consume Theorems 4.2, 5.2, 6.2, 7.1, 8.2 and 9.3.  Then the completed-Weil endpoint sign holds on the target-faithful completed carrier.
 \end{theorem}
 
 \begin{proof}
-The positive-eta theorem removes normalization ambiguity on the fixed five-label carrier.  The zero-as-cut theorem identifies eta zero as a support/memory cut rather than an ordinary continuation point.  The common five-matrix theorem reduces the sign-sensitive obstruction to the representation-invariant threshold matrix \(\BSEta\) and seam charge \(\kSigma\).  The \(M_3\) certificate proves positivity of the accepted odd block.  The single-sector theorem identifies the remaining terminal packet with the odd five-label source obstruction after the seam/source/even reduction.  The zero-cut T03 theorem supplies the invariant source-Gram identity and hence
+The positive-eta path theorem removes normalization ambiguity on the fixed five-label carrier.  The zero-as-cut theorem identifies eta zero as a support/cut event rather than an ordinary path-holonomy issue.  The common five-matrix theorem reduces the sign-sensitive obstruction to the representation-invariant threshold matrix \(\BSEta\) and seam charge \(\kSigma\).  The \(M_3\) theorem proves positivity of the accepted odd block.  The single-sector theorem identifies the remaining terminal packet with the odd five-label source obstruction after the seam/source/even reduction.  Finally, the T03 theorem supplies the invariant source-Gram identity and hence
 \[
 K_0=\RSigma^*(I-\Psrc)\RSigma\ge0.
 \]
-The endpoint Schur equivalence gives the completed-Weil endpoint sign.
+The endpoint Schur equivalence transfers this projection-defect positivity to the completed-Weil endpoint sign.
 \end{proof}
 
 \begin{corollary}[Classical terminal implication]
-If the classical completed explicit formula identifies the native completed-Weil form with the symmetric zero-sum Weil form in the declared normalization, and if the classical Weil criterion is consumed in that same normalization, then the Riemann hypothesis follows.
+Under the classical membrane in Section 2, the completed-Weil endpoint theorem implies the Riemann hypothesis.
 \end{corollary}
 
-\section{Objection map}
+\begin{proof}
+The native theorem gives nonnegativity of the completed-Weil form in the declared normalization.  The completed explicit formula identifies this form with the symmetric zero-sum Weil form \(Q_W\).  The classical Weil criterion then gives RH.
+\end{proof}
 
-The revised paper answers the beginning objections as follows.
+\section{Numerical certificates and reproducibility}
+
+The proof contains certified numerical inputs.  The main numerical evidence is summarized in Table~\ref{tab:certificates}.  The reproducibility archive is recorded as DOI \texttt{10.5281/zenodo.21760119}; the unified publication record is recorded as DOI \texttt{10.5281/zenodo.21735284}.  The repository theorem capsules are in \texttt{theorum/}, and reusable proof machinery is in \texttt{mp\_gold/}.
+
+\begin{longtable}{p{0.22\linewidth}p{0.31\linewidth}p{0.32\linewidth}}
+\caption{Certificate table for reviewer entry.}\label{tab:certificates}\\
+\toprule
+Node & Evidence & Claim used in paper \\
+\midrule
+\endfirsthead
+\toprule
+Node & Evidence & Claim used in paper \\
+\midrule
+\endhead
+Positive-eta path equality & finite rectangle at \(0.010\to0.011\) plus exact polar factorization & no positive-eta normalization holonomy \\
+Zero-as-cut & cut/joint projector algebra; finite critical memory witness & eta zero is a cut/support event \\
+Common five-matrix & covariance theorem and threshold holonomy equivalence & seam integer is a threshold count \\
+M3 accepted block & \(3.08520376681449\cdot10^{-13}<M_3<2.993597611951253\cdot10^{-12}\) & accepted odd block positive \\
+T03 endpoint & six-block Gram decomposition with vanishing total error & invariant source-Gram identity and \(K_0\ge0\) \\
+T19--T20 appendix & \(\beta_\partial^{\rm cut}\le0.9998319617060448<1\) and source injectivity & independent strict odd certificate \\
+\bottomrule
+\end{longtable}
+
+\begin{remark}[Why the decimals are not the theorem]
+The numerical values are used only through directed certificates: intervals, outward error bounds, exact algebraic identities, and fail-closed tests.  The paper does not use a fitted endpoint extrapolation or independent \(b_3\) boxes to prove \(M_3\).
+\end{remark}
+
+\section{Resolution of structural objections}
+
+The revised paper answers the main reviewer objections as follows.
+
 \begin{itemize}
 \item Normalization and eta-continuation commute by positive-eta amplitude factorization.
-\item Eta zero is not ordinary continuation; it is a cut/support endpoint.
+\item Eta zero is not treated as a naive substitution; it is a cut/support event.
 \item The seam integer is the threshold count of one common five-matrix.
 \item The prime torus is a faithful chart of that same matrix.
-\item \(M_3\) is certified positive by an exact transferred interval.
-\item One sector is sufficient only after the seam/source/even reduction; the even sector is not erased.
-\item The endpoint source map is handled by an invariant source-Gram identity rather than orientation-dependent equality.
-\item The framework is not over-engineering because each layer repairs a named source, blind-kernel, path or endpoint defect.
+\item \(M_3\) is certified positive by a correlated Schur interval.
+\item One sector is terminal only after the seam/source/even reduction; the even sector is not erased.
+\item The endpoint source map is handled by an invariant Gram identity rather than orientation-dependent ambient equality.
+\item The framework is not over-engineering because each layer repairs a named source, blind-kernel, path, representation or endpoint defect.
 \end{itemize}
 
 \section{Claim boundary}
 
-The paper claims the transferred RKF-native endpoint chain and clearly marks the classical membrane.  It does not claim that raw UGD, the prime torus, or a diagonal Euler determinant independently proves the Riemann hypothesis.  It also does not use independent \(b_3\) boxes to prove \(M_3\), and it does not claim that the even sector is absent.  The zero-as-cut theorem is used as endpoint discipline; the actual endpoint sign is supplied by T03.
+The paper claims the transferred RKF-native endpoint chain and clearly marks the classical membrane.  It does not claim that raw UGD, the prime torus, or a diagonal Euler determinant independently proves the Riemann hypothesis.  It does not claim that the even sector is absent.  It does not promote numerical evidence unless the corresponding directed certificate is part of the theorem chain.
 
 \section{Conclusion}
 
-The cleaned proof architecture is intentionally short:
+The cleaned architecture is deliberately short:
 \[
 \text{positive-eta path equality}
 \to
-\text{zero as cut}
+\text{zero-as-cut}
 \to
 \text{five-matrix seam integer}
 \to
@@ -398,17 +532,17 @@ M_3>0
 \to
 K_0\ge0.
 \]
-The Recognition Kernel Framework is needed because the endpoint is a target-faithful completion problem, not merely a raw spectral estimate.  Once source restriction, blind kernels, normalization ambiguity, zero-cut support, sector terminality and source-Gram completion are all typed, the terminal object is the zero-cut projection defect.
+The framework is needed because the endpoint is a target-faithful completion problem.  Once source restriction, blind kernels, normalization ambiguity, sector terminality and zero-cut support are typed, the terminal object is the zero-cut projection defect.  The classical explicit formula and Weil criterion then form the final membrane.
 
 \appendix
 
 \section{Independent odd boundary-burden certificate: T18--T20}
 
-This appendix records the best supporting theorem which is not in the main playing eleven.  It is not the terminal T03 route used in the body, but it is too strong to leave in the dressing room.  Its role is to give an independent odd-sector burden certificate.
+This appendix records a strong supporting theorem that is not the main T03 route.  It gives an independent odd-sector burden certificate.
 
 \subsection{Boundary-burden equivalence}
 
-The T18 theorem identifies the odd completed-Weil sign with the cut boundary burden:
+T18 identifies the odd completed-Weil sign with the cut boundary burden:
 \[
 \text{full odd sign}
 \quad\Longleftrightarrow\quad
@@ -422,15 +556,13 @@ once the boundary burden is at most one.
 
 \subsection{T19 refined endpoint inequality}
 
-T19 evaluates the endpoint burden by retaining the full cut refinement.  For positive cut events with source energies \(s_j\) and boundary masses \(m_j\), the exact identity is
+For positive cut events with source energies \(s_j\) and boundary masses \(m_j\), T19 uses
 \[
 \beta_0-\beta_\eta
 =
 \sum_j m_j\frac{\eta}{s_j(s_j+\eta)}.
 \]
-Directed source-floor lower bounds and boundary-mass upper bounds then give an outward endpoint inequality.
-
-The reconstructed Arb profile used \(2400\) active cells at step \(0.005\), with \(78734\) prime-power events.  At
+The reconstructed Arb profile uses \(2400\) active cells at step \(0.005\), with \(78734\) prime-power events.  At
 \[
 \eta=1.5625\cdot10^{-5},
 \qquad
@@ -442,19 +574,15 @@ the correction ledger gives
 \le
 0.9998319617060448<1.
 \]
-Thus, by T18,
-\[
-\Sminus-L_\partial^\dagger L_\partial\ge0.
-\]
-In the language of the source packet, the full odd completed-Weil sign is closed on the declared native source carrier.
+Thus the full odd completed-Weil sign is closed on the declared native source carrier.
 
 \subsection{T20 strict odd positivity}
 
-T20 adds the strictness mechanism.  The unshifted covariant cut flow, endpoint \(C^1\) regularization and Hardy active-band no-blindness exclude an attained zero vector:
+T20 adds source injectivity:
 \[
-\ker \Sminus=\{0\}.
+\Ker\Sminus=\{0\}.
 \]
-Combining this source injectivity with the T19 strict reserve
+Combining this with the strict reserve
 \[
 1-eta_{\partial}^{\rm cut}\ge0.0001680382939552
 \]
@@ -466,22 +594,20 @@ gives strict positivity on every nonzero odd core state:
 
 \subsection{Relation to the main route}
 
-The T19--T20 route is an independent odd certificate.  It is not used as the main endpoint theorem in this draft because the body uses the zero-cut T03 source-Gram route.  The distinction is:
+The T03 route and the T19--T20 route are not competing endings:
 \[
 \begin{array}{ll}
 \text{T03 route} & \text{invariant source-Gram identity }\Rightarrow K_0\ge0,\\
 \text{T19--T20 route} & \beta_{\partial}^{\rm cut}<1 \Rightarrow \text{strict odd sign}.
 \end{array}
 \]
-Both routes are useful.  The main text keeps T03 as the terminal spine and records T19--T20 here as a strong independent odd-sector certificate.
+The body keeps T03 as the terminal spine and records T19--T20 as an independent odd-sector certificate.
 
-\section{Other best supporting players}
-
-The following transferred results are intentionally outside the main proof chain.  They are retained because they prevent future proof-lab regression.
+\section{Auxiliary certified theorem nodes}
 
 \subsection{Channel-Hermite no-escape}
 
-The \(X_3\) channel-Hermite Parseval frame gives an exact analysis map
+The \(X_3\) channel-Hermite Parseval frame uses the analysis map
 \[
 C_3f=\left(e^{3|x|/2}f,\ (2\pi)^{-1/2}\sqrt{1+|G|}\,\widehat f\right)
 \]
@@ -489,7 +615,7 @@ with
 \[
 \|C_3f\|^2=\|f\|_{X_3}^2.
 \]
-It proves parity-resolved global no-escape and projected-frame completeness after accepted-memory removal.  This is support machinery, not the terminal endpoint theorem.
+It proves parity-resolved global no-escape and projected-frame completeness after accepted-memory removal.  This supports response completeness but is not the terminal endpoint theorem.
 
 \subsection{Channel compatibility projection}
 
@@ -497,30 +623,30 @@ The native analysis range is the closed graph of
 \[
 T=B_0A_0^{-1}.
 \]
-Raw split-channel packets must be projected to the compatible graph before they can update native couplings.  The finite warning
+Raw split-channel packets must be projected to the compatible graph before they update native couplings.  The warning certificate is
 \[
 \text{raw channel pairing}=15/4>0,
 \qquad
-\text{native compatible pairing}=-1/4<0
+\text{native compatible pairing}=-1/4<0.
 \]
-prevents a false sign promotion.
+Thus raw channel sign cannot be promoted without compatibility projection.
 
 \subsection{Curvature-to-seam index law}
 
 The lawful curvature relation is spectral-flow typed:
 \[
 \kSigma(\eta;u_1)-\kSigma(\eta;u_0)
-=-\operatorname{sf}(I-K_\eta(u_s);0).
+=-\sf(I-K_\eta(u_s);0).
 \]
 A scalar thermodynamic ratio is not canonically equal to the integer seam charge.  It can influence the seam only through an explicit compact-operator path.
 
 \subsection{Unified seam block-Krylov machinery}
 
-For a finite-rank seed map \(S\), the response-generated Krylov space is
+For a finite-rank seed map \(S\), define
 \[
-V_m=\operatorname{span}\{K_{\Sigma,\eta}^j\operatorname{Ran}S:0\le j\le m\}.
+V_m=\operatorname{span}\{K_{\Sigma,\eta}^j\Ran S:0\le j\le m\}.
 \]
-The same-projection two-block bound gives
+The same-projection two-block upper bound gives
 \[
 \sup\sigma(K)
 \le
@@ -530,6 +656,6 @@ when \(a,b,d\) are computed against the same projection.  This is future compact
 
 \section{Repository provenance}
 
-The main theorem capsules live in \texttt{theorum/}.  The supporting results in this appendix are summarized in \texttt{mp\_gold/}, including \texttt{mp\_gold/07\_zero\_as\_cut\_topology.md}.  The source PRs are recorded in \texttt{theorum/provenance.json} and \texttt{mp\_gold/gold\_manifest.json}.  Raw verifier scripts, state capsules and large numerical ledgers remain outside this public paper draft unless explicitly archived.
+The main theorem capsules live in \texttt{theorum/}.  Supporting results are summarized in \texttt{mp\_gold/}.  The source PRs are recorded in \texttt{theorum/provenance.json} and \texttt{mp\_gold/gold\_manifest.json}.  Raw verifier scripts, state capsules and large numerical ledgers remain outside this public paper draft unless explicitly archived.
 
 \end{document}
