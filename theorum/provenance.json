@@ -1,0 +1,94 @@
+{
+  "schema": "rkf-theorum-transfer-from-mp-v0.1",
+  "source_repository": "Parveen117/MP",
+  "destination_repository": "Parveen117/Recognition-Kernel-Framework",
+  "destination_folder": "theorum",
+  "transfer_branch": "agent/transfer-certified-theorum-from-mp",
+  "items": [
+    {
+      "file": "theorum/01_positive_eta_path_independence.md",
+      "source_prs": [246],
+      "source_branches": ["agent/rh-rotation-metric-topology-reset"],
+      "certified_claims": [
+        "finite actual eta-normalization rectangle passed for eta=0.010 to 0.011",
+        "positive-eta family path-independence theorem by polar/amplitude factorization",
+        "no rank-one seam compensation needed for positive eta"
+      ],
+      "not_claimed": [
+        "eta-zero support descent",
+        "continuum Fredholm product",
+        "RH"
+      ]
+    },
+    {
+      "file": "theorum/02_seam_integer_single_sector_reduction.md",
+      "source_prs": [235, 242, 247, 255, 277],
+      "certified_claims": [
+        "native seam integer reduction",
+        "rank-at-most-five Birman-Schwinger obstruction",
+        "common five-matrix covariance",
+        "prime-torus transport of same matrix",
+        "threshold holonomy equivalent to seam charge",
+        "single-sector terminal focus after source/even sign reduction"
+      ],
+      "not_claimed": [
+        "UGD terminal holonomy equals threshold holonomy unless separately identified",
+        "unconditional RH from seam integer capsule alone"
+      ]
+    },
+    {
+      "file": "theorum/03_m3_positive_accepted_block.md",
+      "source_prs": [181, 182, 196, 198, 199, 200, 202],
+      "certified_claims": [
+        "exact native b3 signs (-,+,+)",
+        "correlated Schur ledger required for M3",
+        "state-local ledger separation",
+        "exact target-local M3 interval positive",
+        "odd accepted block E3 positive"
+      ],
+      "key_interval": {
+        "M3_lower": "3.08520376681449e-13",
+        "M3_upper": "2.993597611951253e-12"
+      },
+      "not_claimed": [
+        "signed infinite complement",
+        "global Weil sign from M3 alone"
+      ]
+    },
+    {
+      "file": "theorum/04_zero_cut_t03_endpoint_completion.md",
+      "source_prs": [254, 256],
+      "certified_claims": [
+        "zero-cut quotient fixed before lift",
+        "Spectral I five-dimensional defect and minimal repair",
+        "Spectral II target-relative lift and strong completion",
+        "six-block Gram decomposition with vanishing total error",
+        "invariant source-Gram identity",
+        "K0 = R_Sigma^*(I-P_src)R_Sigma >= 0"
+      ],
+      "terminal_interface": [
+        "classical completed explicit formula",
+        "classical Weil criterion in declared normalization"
+      ]
+    },
+    {
+      "file": "theorum/05_transfer_boundary_and_next_gate.md",
+      "source_prs": [181, 182, 196, 200, 242, 246, 247, 254, 277],
+      "purpose": "clean boundary for what should not be reopened and how MP cleanup should proceed"
+    }
+  ],
+  "mp_cleanup_policy": {
+    "safe_to_remove_from_mp": [
+      "human-readable theorem capsules duplicated in theorum",
+      "status summaries duplicated in theorum",
+      "old manuscript theorem surfaces superseded by theorum"
+    ],
+    "do_not_remove_without_archival_copy": [
+      "raw verifier scripts",
+      "state capsules",
+      "large numerical packets",
+      "source audit scripts",
+      "artifacts needed to regenerate theorem evidence"
+    ]
+  }
+}
