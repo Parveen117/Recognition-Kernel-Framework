@@ -1,0 +1,153 @@
+{
+  "checks": {
+    "madhava_smriti_all_checks": true,
+    "morphic_stabilization_all_checks": true,
+    "no_external_clock_anywhere": true,
+    "recognition_complete_limit_all_checks": true,
+    "recovered_middle_all_checks": true,
+    "shadow_vs_recognition_cauchy_all_checks": true
+  },
+  "claim_boundary": {
+    "not_claimed": [
+      "native completed-Weil event lift",
+      "RH refinement family",
+      "RH target faithfulness",
+      "RH positivity or RH"
+    ],
+    "proved_by_exact_generalized_examples": [
+      "shadow middle equality does not imply recovered middle identity",
+      "predeclared alignment can restore lawful composition",
+      "shadow-Cauchy does not imply recognition-Cauchy",
+      "finite recursion plus correction plus Smriti tail closes exactly",
+      "objects can be represented as stabilized recovered path classes",
+      "vanishing faithfulness residual removes the hidden memory complement",
+      "an outward finite seam-matrix margin certifies the generalized limit"
+    ]
+  },
+  "madhava_smriti": {
+    "checks": {
+      "exact_finite_plus_correction_plus_tail": true,
+      "retrospective_fit_rejected": true,
+      "tail_strictly_decreases": true
+    },
+    "clock_used": false,
+    "last_tail": "1/39366",
+    "ratio": "1/3",
+    "recognized_limit": "3/2",
+    "retrospective_full_residual": "1/13122",
+    "retrospective_rejected": true,
+    "rows": [
+      {"declared_correction":"1/3","n":"0","partial":"1","reconstructed_limit":"3/2","smriti_tail":"1/6"},
+      {"declared_correction":"1/9","n":"1","partial":"4/3","reconstructed_limit":"3/2","smriti_tail":"1/18"},
+      {"declared_correction":"1/27","n":"2","partial":"13/9","reconstructed_limit":"3/2","smriti_tail":"1/54"},
+      {"declared_correction":"1/81","n":"3","partial":"40/27","reconstructed_limit":"3/2","smriti_tail":"1/162"},
+      {"declared_correction":"1/243","n":"4","partial":"121/81","reconstructed_limit":"3/2","smriti_tail":"1/486"},
+      {"declared_correction":"1/729","n":"5","partial":"364/243","reconstructed_limit":"3/2","smriti_tail":"1/1458"},
+      {"declared_correction":"1/2187","n":"6","partial":"1093/729","reconstructed_limit":"3/2","smriti_tail":"1/4374"},
+      {"declared_correction":"1/6561","n":"7","partial":"3280/2187","reconstructed_limit":"3/2","smriti_tail":"1/13122"},
+      {"declared_correction":"1/19683","n":"8","partial":"9841/6561","reconstructed_limit":"3/2","smriti_tail":"1/39366"}
+    ],
+    "schema": "rkf.madhava_smriti.v1"
+  },
+  "morphic_stabilization": {
+    "checks": {
+      "distinct_paths_same_recovered_object": true,
+      "memory_blocks_false_stabilization": true,
+      "negative_path_same_shadow": true,
+      "positive_paths_locally_closed": true
+    },
+    "clock_used": false,
+    "negative_path": ["bad"],
+    "path_a": ["a1", "a2"],
+    "path_b": ["b1"],
+    "schema": "rkf.morphic_stabilization.v1",
+    "stabilized_state": {"memory":0,"phase":"0","scale":"1","shadow":["2"]}
+  },
+  "recognition_complete_limit": {
+    "checks": {
+      "faithfulness_residual_contracts": true,
+      "finite_matrix_cut_derived": true,
+      "limit_gap_is_19_over_100": true,
+      "limit_memory_rank_five": true,
+      "limit_target_faithful": true,
+      "memory_tail_contracts": true,
+      "outward_limit_subcritical": true,
+      "outward_top_recovers_limit_top": true,
+      "recognized_channel_exactly_cauchy": true,
+      "signed_limit_positive": true,
+      "uniform_reference_floor_one": true
+    },
+    "clock_used": false,
+    "exact_limit_top": "81/100",
+    "faithfulness_residual_m": "1/18",
+    "faithfulness_residual_n": "1/10",
+    "finite_seam_matrix_m": [
+      ["720801/2890000","0","0","0","0"],
+      ["0","11539609/26010000","0","0","0"],
+      ["0","0","405769/722500","0","0"],
+      ["0","0","0","1846881/2890000","0"],
+      ["0","0","0","0","2337841/2890000"]
+    ],
+    "finite_seam_matrix_n": [
+      ["201601/810000","0","0","0","0"],
+      ["0","358801/810000","0","0","0"],
+      ["0","0","113569/202500","0","0"],
+      ["0","0","0","516961/810000","0"],
+      ["0","0","0","0","654481/810000"]
+    ],
+    "finite_top_n": "654481/810000",
+    "form_error_bound_n": "1/100",
+    "limit_memory_rank": 5,
+    "limit_relative_gap": "19/100",
+    "limit_seam_matrix": [
+      ["1/4","0","0","0","0"],
+      ["0","4/9","0","0","0"],
+      ["0","0","9/16","0","0"],
+      ["0","0","0","16/25","0"],
+      ["0","0","0","0","81/100"]
+    ],
+    "memory_tail_m": "1/18",
+    "memory_tail_n": "1/10",
+    "outward_matrix_error_n": "1619/810000",
+    "outward_top_n": "81/100",
+    "refinements": {"m":16,"n":8},
+    "schema": "rkf.recognition_complete_limit.v1",
+    "signed_limit": [
+      ["3/4","0","0","0","0"],
+      ["0","5/9","0","0","0"],
+      ["0","0","7/16","0","0"],
+      ["0","0","0","9/25","0"],
+      ["0","0","0","0","19/100"]
+    ]
+  },
+  "recovered_middle": {
+    "aligned_recovered": true,
+    "checks": {
+      "declared_alignment_restores": true,
+      "retrospective_cancellation_rejected": true,
+      "same_shadow_not_recovered": true,
+      "unaligned_composition_rejected": true
+    },
+    "clock_used": false,
+    "raw_recovered": false,
+    "retrospective_rejected": true,
+    "schema": "rkf.recovered_middle.v1",
+    "shadow_equal": true
+  },
+  "schema": "rkf.clock_free_cut_memory_stage15.v1",
+  "shadow_vs_recognition_cauchy": {
+    "checks": {
+      "constant_shadow_cauchy": true,
+      "drifting_memory_blocks_recognition_cauchy": true,
+      "predeclared_quotient_closes": true
+    },
+    "clock_used": false,
+    "declared_memory_model": "k_n=n",
+    "quotient_memory": [0,0,0,0,0,0,0,0],
+    "quotient_recognition_cauchy": true,
+    "raw_recognition_cauchy": false,
+    "schema": "rkf.shadow_recognition_cauchy.v1",
+    "shadow_cauchy": true
+  },
+  "status": "PASS_CLOCK_FREE_CUT_MEMORY_STAGE15"
+}
