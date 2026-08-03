@@ -1,0 +1,60 @@
+{
+  "claim_boundary": {
+    "actual_cut_covariance": "CLOSED_STAGE3F",
+    "actual_decoder_bound": "CLOSED_STAGE3F",
+    "actual_form_range_transfer": "CLOSED_STAGE3F",
+    "actual_source_domination": "CLOSED_STAGE3F",
+    "actual_strict_odd_positivity": "OPEN_STAGE3G",
+    "rh": "NOT_CLAIMED"
+  },
+  "numerical_pins": {
+    "active_cells": 2400,
+    "prime_power_events": 78734,
+    "t21_beta_zero_upper": "0.8290856201657449",
+    "t21_relative_reserve": "0.1709143798342551"
+  },
+  "pins": {
+    "actual_source_kernel_injectivity": {
+      "required": "attach Hardy active-band no-blindness to ker Xi_0 on the exact Stage 3F carrier",
+      "status": "OPEN_STAGE3G"
+    },
+    "ambient_compatibility_range": {
+      "correction": "b in Ran(C_comp*) is stronger than needed and its equivalence with b orthogonal to ker C requires closed range",
+      "status": "NOT_REQUIRED_FORM_RANGE"
+    },
+    "boundary_riesz_density_recognition_class": {
+      "formula": "r_partial=M_X^-1 q_b; w_partial=e^(-3|x|/2)r_partial; its two-sheet/Fourier representative generates L_partial",
+      "source": "completed-Weil source manuscript Sections 27.1 and 27.5 plus RKF Stage 3C/3E",
+      "status": "PROVED_SOURCE"
+    },
+    "physical_prime_gamma_debt_source_symbol": {
+      "formula": "A_0(xi)=(G(xi)+m_Gamma+m_p)I_2-Q(xi); Xi_0^*Xi_0 is its completed source form",
+      "source": "MP PR #243 prime/Gamma mismatch and compatibility-debt factorization",
+      "status": "PROVED_SOURCE"
+    },
+    "recognition_complete_profile_transport": {
+      "formula": "nested cut refinements pass to the recognition completion and preserve the source/boundary class",
+      "source": "completed-Weil source manuscript Section 27.4 and RKF Recognition-Complete Cut Theorem",
+      "status": "PROVED_SOURCE"
+    },
+    "stage3d_source_adapter": {
+      "reported_hash": "871337671eed453743464e2bfd9bc126e75f55a78d26139be01db064a17e79c6",
+      "status": "USER_PASS_HASH_STABLE"
+    },
+    "stage3e_two_sheet_boundary_attachment": {
+      "reported_hash": "21dc9870ba3fd392d99a6bd2704b99956002d530175dc37e182fea98a782eead",
+      "status": "USER_PASS_HASH_STABLE"
+    },
+    "t21_cumulative_lower_profile": {
+      "formula": "A_0(xi)>=s_T21(xi)I_2; first cut s>=gamma_0 xi^2/2; active floors are cumulative derivative-gap lowers",
+      "source": "MP PR #278 and T21 direct unshifted cut-burden packet",
+      "status": "PROVED_SOURCE"
+    }
+  },
+  "schema": "rkf.native_compatibility_form_source_pins.v1",
+  "source_repositories": {
+    "mp": "Parveen117/MP",
+    "rkf": "Parveen117/Recognition-Kernel-Framework"
+  },
+  "terminal_promotion_allowed": false
+}
