@@ -31,15 +31,19 @@ No RH data, external clock, floating eigensolver, fitted correction, or post-hoc
 
 !python -m unittest -v proof_lab.test_clock_free_cut_memory_stage15
 
-!python -m proof_lab.clock_free_cut_memory_stage15_examples \
+!python -m proof_lab.write_stage15_certificate \
     --output proof_lab/CLOCK_FREE_CUT_MEMORY_STAGE15_ACTUAL.json
 ```
 
-Expected terminal status:
+Expected terminal results:
 
 ```text
+Ran 7 tests
+OK
 PASS_CLOCK_FREE_CUT_MEMORY_STAGE15
 ```
+
+The dedicated writer uses canonical UTF-8 bytes with LF newlines, so Windows and Linux produce the same certificate file.
 
 ## Byte-level deterministic comparison
 
@@ -57,6 +61,25 @@ Expected:
 BYTE_STABLE True
 ```
 
+## Semantic diagnostic
+
+When investigating an old certificate generated before the canonical writer was added:
+
+```python
+import json
+from pathlib import Path
+
+expected_obj = json.loads(
+    Path("proof_lab/CLOCK_FREE_CUT_MEMORY_STAGE15_EXPECTED.json").read_text(encoding="utf-8")
+)
+actual_obj = json.loads(
+    Path("proof_lab/CLOCK_FREE_CUT_MEMORY_STAGE15_ACTUAL.json").read_text(encoding="utf-8")
+)
+print("SEMANTIC_EQUAL", expected_obj == actual_obj)
+```
+
+A semantic pass with a byte failure indicates serialization or newline mismatch, not a theorem failure.
+
 ## Claim boundary
 
-A pass certifies the generalized exact examples only. It does not certify a completed-Weil event lift, RH target faithfulness, completed-Weil positivity, or RH. The next stage begins only after both the six tests and byte-stable certificate comparison pass.
+A pass certifies the generalized exact examples only. It does not certify a completed-Weil event lift, RH target faithfulness, completed-Weil positivity, or RH. The next stage begins only after the seven tests and byte-stable certificate comparison pass.
