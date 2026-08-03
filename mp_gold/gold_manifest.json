@@ -1,0 +1,57 @@
+{
+  "schema": "rkf-mp-gold-manifest-v0.1",
+  "source_repository": "Parveen117/MP",
+  "destination_repository": "Parveen117/Recognition-Kernel-Framework",
+  "destination_folder": "mp_gold",
+  "branch": "agent/transfer-certified-theorum-from-mp",
+  "policy": {
+    "future_new_work_repo": "Parveen117/Recognition-Kernel-Framework",
+    "mp_status": "source archive only after salvage",
+    "raw_private_material_policy": "do not copy raw verifier scripts, state capsules or large numerical ledgers into public RKF unless explicitly approved"
+  },
+  "gold_items": [
+    {
+      "file": "mp_gold/01_method_seeds.md",
+      "source_prs": [30, 31, 32],
+      "kind": "method seeds",
+      "use": "Fredholm, index and arithmetic determinant discipline"
+    },
+    {
+      "file": "mp_gold/02_x3_channel_no_escape.md",
+      "source_prs": [171],
+      "kind": "analytic scaffold",
+      "use": "X3 channel-Hermite Parseval frame and no-escape"
+    },
+    {
+      "file": "mp_gold/03_channel_compatibility_projection.md",
+      "source_prs": [178],
+      "kind": "compatibility guard",
+      "use": "closed graph projection and raw channel no-go"
+    },
+    {
+      "file": "mp_gold/04_source_restriction_and_arrow_contracts.md",
+      "source_prs": [204, 205],
+      "kind": "proof governance",
+      "use": "source restriction, minimal lift, blind-kernel and arrow-contract validator"
+    },
+    {
+      "file": "mp_gold/05_curvature_to_seam_index.md",
+      "source_prs": [239],
+      "kind": "typed curvature bridge",
+      "use": "curvature path to spectral-flow/seam-index law"
+    },
+    {
+      "file": "mp_gold/06_unified_seam_block_krylov.md",
+      "source_prs": [240],
+      "kind": "numerical proof machinery",
+      "use": "same-projection compact seam response certificate"
+    }
+  ],
+  "not_transferred_yet": [
+    "raw code implementations",
+    "state capsules",
+    "large numerical ledgers",
+    "duplicate manuscript trees",
+    "private proof-lab artifacts requiring publication review"
+  ]
+}
