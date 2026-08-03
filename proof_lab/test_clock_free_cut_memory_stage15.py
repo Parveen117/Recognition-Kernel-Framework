@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import json
+from pathlib import Path
 import unittest
 
 from proof_lab.clock_free_cut_memory_stage15_examples import (
@@ -44,6 +46,16 @@ class Stage15Tests(unittest.TestCase):
         result = build_certificate()
         self.assertEqual(result["status"], "PASS_CLOCK_FREE_CUT_MEMORY_STAGE15")
         self.assertTrue(all(result["checks"].values()))
+
+    def test_expected_certificate_is_byte_stable(self) -> None:
+        expected_path = Path(__file__).with_name(
+            "CLOCK_FREE_CUT_MEMORY_STAGE15_EXPECTED.json"
+        )
+        expected = expected_path.read_bytes()
+        actual = (
+            json.dumps(build_certificate(), indent=2, sort_keys=True) + "\n"
+        ).encode("utf-8")
+        self.assertEqual(expected, actual)
 
 
 if __name__ == "__main__":
