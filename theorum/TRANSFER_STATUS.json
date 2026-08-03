@@ -1,0 +1,18 @@
+{
+  "schema": "rkf-theorum-transfer-status-v0.1",
+  "status": "TRANSFERRED_TO_RKF_BRANCH",
+  "destination_branch": "agent/transfer-certified-theorum-from-mp",
+  "destination_folder": "theorum",
+  "created_files": [
+    "theorum/README.md",
+    "theorum/01_positive_eta_path_independence.md",
+    "theorum/02_seam_integer_single_sector_reduction.md",
+    "theorum/03_m3_positive_accepted_block.md",
+    "theorum/04_zero_cut_t03_endpoint_completion.md",
+    "theorum/05_transfer_boundary_and_next_gate.md",
+    "theorum/provenance.json"
+  ],
+  "mp_source_prs": [181, 182, 196, 198, 199, 200, 202, 235, 242, 246, 247, 254, 255, 256, 277],
+  "mp_deletion_status": "CLEANUP_BRANCH_REQUIRED_BECAUSE_SOURCE_FILES_LIVE_ON_MULTIPLE_OPEN_MP_BRANCHES",
+  "next_cleanup_step": "create MP export-removal branch that deletes only duplicated theorem/status surfaces, not verifier scripts or state capsules"
+}
