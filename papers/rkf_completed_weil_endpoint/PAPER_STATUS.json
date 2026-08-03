@@ -1,0 +1,21 @@
+{
+  "schema": "rkf-current-paper-status-v0.1",
+  "paper": "Recognition Kernel Completion of the Five-Label Weil Endpoint",
+  "source": "papers/rkf_completed_weil_endpoint/main.tex",
+  "status": "UPDATED_AROUND_CLEANED_THEORUM_CHAIN",
+  "main_chain": [
+    "positive-eta path equality",
+    "common five-matrix seam integer",
+    "M3 positive accepted block",
+    "single-sector terminal reduction",
+    "zero-cut T03 endpoint projection defect",
+    "classical explicit-formula / Weil-criterion membrane"
+  ],
+  "removed_dependency": "independent even-source positivity route",
+  "local_dependencies": {
+    "terminal_theorems": "theorum/",
+    "reusable_methods": "mp_gold/"
+  },
+  "compile_expectation": "pdflatex main.tex twice; no bibliography required",
+  "claim_boundary": "native endpoint chain separated from classical membrane"
+}
