@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import hashlib
 from pathlib import Path
 import unittest
 
@@ -55,11 +56,12 @@ class CutCovarianceEventRealizationTests(unittest.TestCase):
         )
         self.assertTrue(all(result["checks"].values()))
 
-    def test_expected_certificate_is_byte_stable(self) -> None:
-        expected = Path(__file__).with_name(
-            "CUT_COVARIANCE_EVENT_REALIZATION_EXPECTED.json"
-        ).read_bytes()
-        self.assertEqual(expected, canonical_bytes())
+    def test_expected_certificate_hash_is_stable(self) -> None:
+        expected_hash = Path(__file__).with_name(
+            "CUT_COVARIANCE_EVENT_REALIZATION_EXPECTED.sha256"
+        ).read_text(encoding="ascii").strip()
+        actual_hash = hashlib.sha256(canonical_bytes()).hexdigest()
+        self.assertEqual(expected_hash, actual_hash)
 
 
 if __name__ == "__main__":
