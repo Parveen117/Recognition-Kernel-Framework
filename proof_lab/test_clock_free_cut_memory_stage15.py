@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import json
 from pathlib import Path
 import unittest
 
@@ -12,6 +11,7 @@ from proof_lab.clock_free_cut_memory_stage15_examples import (
     recovered_middle_example,
     shadow_recognition_cauchy_example,
 )
+from proof_lab.write_stage15_certificate import canonical_bytes
 
 
 class Stage15Tests(unittest.TestCase):
@@ -51,11 +51,7 @@ class Stage15Tests(unittest.TestCase):
         expected_path = Path(__file__).with_name(
             "CLOCK_FREE_CUT_MEMORY_STAGE15_EXPECTED.json"
         )
-        expected = expected_path.read_bytes()
-        actual = (
-            json.dumps(build_certificate(), indent=2, sort_keys=True) + "\n"
-        ).encode("utf-8")
-        self.assertEqual(expected, actual)
+        self.assertEqual(expected_path.read_bytes(), canonical_bytes())
 
 
 if __name__ == "__main__":
