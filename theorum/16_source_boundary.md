@@ -1,0 +1,9 @@
+# Source Boundary
+
+This folder is source-derived from the MP PR journey. It does not silently add new mathematical content beyond the transferred theorem capsules.
+
+Where the source PRs marked a theorem as certified, this folder records it as certified.
+
+Where the source PRs marked an interface as classical, assumed, conditional, terminal-open or not promoted, this folder preserves that boundary.
+
+The purpose is cleanup and consumption, not embellishment. Astonishingly, writing that down prevents future confusion, which says plenty about the glamorous state of human proof management.
