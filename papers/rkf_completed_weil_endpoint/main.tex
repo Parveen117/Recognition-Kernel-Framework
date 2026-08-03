@@ -1,0 +1,432 @@
+\documentclass[11pt]{article}
+
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{amsmath,amssymb,amsthm,mathtools}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{microtype}
+
+\hypersetup{colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue}
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{remark}[theorem]{Remark}
+
+\newcommand{\C}{\mathbb C}
+\newcommand{\R}{\mathbb R}
+\newcommand{\HH}{\mathcal H}
+\newcommand{\Xthree}{X_3}
+\newcommand{\WSigma}{W_\Sigma}
+\newcommand{\KSigma}{K_\Sigma}
+\newcommand{\kSigma}{k_\Sigma}
+\newcommand{\BSEta}{B_\eta}
+\newcommand{\Tsrc}{T_{\rm src}}
+\newcommand{\Psrc}{P_{\rm src}}
+\newcommand{\RSigma}{R_\Sigma}
+\newcommand{\Sminus}{S_{0,-}^{\rm full}}
+\newcommand{\QW}{Q_W}
+
+\title{Recognition Kernel Completion of the Five-Label Weil Endpoint}
+\author{Monty Dabas}
+\date{August 2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+This paper records the cleaned Recognition Kernel Framework route for the completed-Weil endpoint.  The argument separates three layers that were previously interleaved: the native construction of the completed-Weil carrier, the recognition-theoretic reduction to a five-label seam obstruction, and the classical explicit-formula membrane which identifies completed-Weil positivity with the Riemann hypothesis in the declared normalization.  The framework is used as an anti-blindness device: each additional object repairs a specific loss of target information caused by source restriction, blind kernels, path normalization, sector reduction, or endpoint support descent.  The proof spine consists of a positive-eta amplitude path-equality theorem, a seam-integer/common five-matrix reduction, the certified positivity of the target-local scalar \(M_3\), a single-sector terminal reduction, and the zero-cut T03 endpoint completion.  The main native endpoint is the projection-defect identity
+\[
+K_0=\RSigma^*(I-\Psrc)\RSigma\ge0,
+\]
+obtained from the invariant source-Gram identity at the zero cut.  When combined with the classical completed explicit formula and Weil criterion in the same normalization, this endpoint gives the Riemann hypothesis.  Numerical and proof-lab details are not expanded in the main text; they are referenced as theorem capsules in the repository folders \texttt{theorum/} and \texttt{mp\_gold/}.
+\end{abstract}
+
+\tableofcontents
+
+\section{Introduction}
+
+The purpose of this draft is to present the cleaned theorem chain after the MP proof-lab results have been transferred into the Recognition Kernel Framework repository.  The earlier manuscript carried too many simultaneous routes: parity splitting, finite Schur blocks, UGD holonomy, seam integers, M3 arithmetic, endpoint matrices, and classical explicit-formula language.  In the present version these are not treated as parallel arguments.  They are organized as one dependency chain.
+
+The central point is that the framework is not an additional mathematical assumption.  It is a typed obstruction ledger.  The completed-Weil problem loses target-relevant information at several places unless those losses are explicitly represented:
+\[
+\text{source restriction},\quad
+\text{blind kernel},\quad
+\text{path normalization},\quad
+\text{sector reduction},\quad
+\text{endpoint support descent}.
+\]
+Each Recognition Kernel object used below repairs one of these losses.  Removing the object reintroduces a precise obstruction rather than merely simplifying notation.
+
+The native theorem chain is
+\[
+\begin{array}{c}
+\text{positive-eta path equality}\
+\Downarrow\\
+\text{seam integer/common five-matrix reduction}\
+\Downarrow\\
+\text{certified accepted block }(G_3>0,\ M_3>0)\
+\Downarrow\\
+\text{single-sector terminal reduction}\
+\Downarrow\\
+\text{zero-cut T03 endpoint completion.}
+\end{array}
+\]
+The classical terminal membrane is kept separate:
+\[
+\text{completed-Weil positivity}
+\quad\Longleftrightarrow\quad
+\text{Riemann hypothesis}
+\]
+through the classical completed explicit formula and Weil criterion in the declared normalization.
+
+\subsection{What changed from the older route}
+
+The older route attempted to close the endpoint by combining an even-sector positivity assertion with an odd boundary-burden calculation.  That presentation is not used here.  The present route consumes later certified theorem nodes from the MP journey:
+\begin{enumerate}[label=(\roman*)]
+\item positive-eta path equality by amplitude lift;
+\item seam-integer reduction to one rank-at-most-five decision matrix;
+\item exact target-local positivity of \(M_3\);
+\item one-sector terminal sufficiency after the seam/source/even reduction;
+\item zero-cut T03 completion of the endpoint source-Gram identity.
+\end{enumerate}
+Thus the paper is strengthened by deleting the fragile branch and foregrounding the theorem nodes that actually close the endpoint.
+
+\subsection{Repository sources}
+
+The main transferred theorem capsules are stored in \texttt{theorum/}.  Reusable proof machinery that supports the framework but is not part of the terminal proof chain is stored in \texttt{mp\_gold/}.  The role of these folders is structural: the paper cites clean theorem capsules rather than requiring the reader to reconstruct the proof path from the private MP development history.
+
+\section{Classical membrane and native boundary}
+
+We distinguish three statements.
+
+\begin{enumerate}[label=(\alph*)]
+\item \emph{Native carrier.}  The framework constructs the completed-Weil boundary--Gamma--prime form on the native completed carrier and transports it to the \(X_3\) Hilbert envelope.
+\item \emph{Classical explicit-formula identification.}  The completed explicit formula identifies this form, in the declared Fourier and reflection normalization, with the symmetric zero-sum Weil quadratic form.
+\item \emph{Classical terminal criterion.}  The Weil positivity criterion identifies nonnegativity of the completed Weil form with the Riemann hypothesis.
+\end{enumerate}
+The first layer is the native construction.  The second and third layers are the classical membrane.  This separation is kept visible throughout the paper.
+
+\begin{definition}[Completed-Weil endpoint target]
+Let \(W_\xi\) denote the completed-Weil form in the declared normalization, transported to the native completed carrier and then to the \(X_3\) envelope.  The endpoint target is the nonnegativity of the completed-Weil representative on the target-faithful completed carrier.
+\end{definition}
+
+The paper does not use a primitive diagonal Euler determinant as a substitute for the completed-Weil carrier.  The prime-torus and arithmetic Fredholm objects are faithful charts or method seeds only after the completed boundary, Gamma and prime contributions have been placed in the same target-normalized framework.
+
+\section{Framework minimality}
+
+The Recognition Kernel Framework is introduced to keep source, observer and target data typed.  Its minimality principle is summarized in Table~\ref{tab:minimality}.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{p{0.34\linewidth}p{0.52\linewidth}}
+\hline
+Failure mode & RKF repair \\
+\hline
+Source restriction & source-restriction rank formula and blind-kernel formula \\
+Target-relevant blind kernel & minimal scalar lift / target-relative decoder \\
+Path or normalization ambiguity & positive-eta amplitude path equality \\
+Representation dependence & common five-matrix covariance \\
+Finite accepted-block uncertainty & certified \(G_3>0\), \(M_3>0\) \\
+Endpoint support loss & zero-cut T03 completion \\
+\hline
+\end{tabular}
+\caption{Each framework layer repairs a specific obstruction.}
+\label{tab:minimality}
+\end{table}
+
+\begin{theorem}[Source-restriction and minimal lift]
+For a rich split representation \(S(q)P\) and a consumed source restriction \(B\), define
+\[
+A(q)=B S(q)P,\qquad S(q)=\sum_s q^sD_s.
+\]
+Then the all-parameter observable rank is
+\[
+\operatorname{rank}\begin{pmatrix}BD_1P\\BD_2P\\ \vdots\end{pmatrix},
+\]
+and the blind kernel is
+\[
+\bigcap_s\ker(BD_sP).
+\]
+If supplemental scalar observations \(G\) are added, the augmented map is injective exactly when
+\[
+\ker A\cap\ker G=\{0\}.
+\]
+Consequently at least \(\dim\ker A\) scalar observations are necessary to repair a full blind defect, while a target-relative repair only requires the residual blind kernel to lie inside the target kernel.
+\end{theorem}
+
+\begin{proof}[Proof source]
+This is the transferred source-restriction/minimal-lift theorem in \texttt{mp\_gold/04\_source\_restriction\_and\_arrow\_contracts.md}, originally from MP PR \#204.  The present paper consumes it as the formal reason that a blind quotient and lift must be declared before endpoint promotion.
+\end{proof}
+
+\begin{remark}[Arrow contracts]
+The corresponding machine-readable arrow contract requires every proof arrow to declare domain, codomain, lawful nullspace, source module, source restriction, blind kernel, target relevance, decoder or lift, completion topology, uniform margin and claim status.  This rejects false terminal promotion when a target-relevant blind kernel remains unlifted.
+\end{remark}
+
+\section{Positive-eta amplitude analyticity}
+
+The first analytic theorem removes normalization-path ambiguity from the fixed five-label carrier.
+
+\begin{theorem}[Fixed-five positive-eta path equality]
+Let
+\[
+A_{\rm chart}=AU,\qquad
+\Theta_\eta=Q_{\rm chart}G_\eta^{1/2},\qquad
+G_\eta=1\oplus(A_+ + \eta I_4),\quad \eta>0.
+\]
+Assume \(U\) is the fixed unitary accepted chart, \(A\) is eta-independent, \(Q_{\rm chart}\) is the polar orientation of \(A_{\rm chart}\), and \(G_\eta^{1/2}\) is strictly positive.  Then
+\[
+\operatorname{polar}(\Theta_\eta)=Q_{\rm chart}
+\]
+for every positive eta.  Hence for any positive eta values \(\eta_1,\eta_2\),
+\[
+\text{raw eta transport}=I_5,\qquad
+\text{normalized eta transport}=I_5,\qquad
+\text{raw-to-normalized transport}=U^*.
+\]
+In particular all positive-eta normalization/continuation rectangles are identity loops on the fixed five-label carrier.
+\end{theorem}
+
+\begin{proof}
+Right multiplication by a unitary is polar-covariant, so
+\[
+\operatorname{polar}(AU)=\operatorname{polar}(A)U.
+\]
+Right multiplication by a positive factor changes only the metric scale, not the polar orientation.  Since \(G_\eta^{1/2}>0\) for \(\eta>0\),
+\[
+\operatorname{polar}(Q_{\rm chart}G_\eta^{1/2})=Q_{\rm chart}.
+\]
+Therefore both eta-direction transports are the identity on the fixed polar frame, and the normalization transport is the same fixed \(U^*\) at every positive eta.
+\end{proof}
+
+\begin{remark}[Finite rectangle]
+The state-locked rectangle at \(\eta=0.010\), \(\eta+h=0.011\) reported loop identity residual \(3.1396725820594018\cdot10^{-15}\), defect-to-accepted leakage \(1.7140530928543942\cdot10^{-17}\), endpoint scale difference zero, and no false checks.  These numbers are the floating-point shadow of the exact factorization theorem, not an independent sign proof.
+\end{remark}
+
+The remaining eta problem is therefore not path-order ambiguity.  At eta zero,
+\[
+G_0=1\oplus A_+,
+\]
+and possible loss of support must be handled by the endpoint zero-cut theorem.
+
+\section{Seam integer and common five-matrix reduction}
+
+For positive eta, the compact seam response is represented by a finite threshold obstruction.
+
+\begin{definition}[Seam charge]
+Let \(K_\eta\) be the compact seam response at shift eta.  Define
+\[
+\kSigma(\eta)=\operatorname{rank}\mathbf 1_{(1,\infty)}(K_\eta).
+\]
+Equivalently, on the terminal five-label source packet, define
+\[
+\BSEta=V_\eta^*S_{\eta,-}^{-1}V_\eta,\qquad \operatorname{rank}V_\eta\le5,
+\]
+and set
+\[
+\kSigma(\eta)=N_+(\BSEta-I).
+\]
+\end{definition}
+
+\begin{theorem}[Common five-matrix covariance]
+For a positive source operator \(S\) and five-column source map \(V\), put
+\[
+B=V^*S^{-1}V\in M_5(\C).
+\]
+If \(S^U=USU^*\) and \(V^U=UV\), then
+\[
+(V^U)^*(S^U)^{-1}V^U=B.
+\]
+A unitary change of the five labels conjugates \(B\).  Thus spectrum, threshold projection, seam charge and sign decision are representation invariant.
+\end{theorem}
+
+\begin{corollary}[Matrix, seam and threshold holonomy]
+The native five-matrix, prime-torus five-matrix and threshold-holonomy presentation are faithful avatars of the same obstruction:
+\[
+\BSEta\le I
+\iff
+\kSigma(\eta)=0
+\iff
+H_{\rm threshold}(\eta)=I
+\iff
+\text{the shifted completed parity/Feshbach packet is nonnegative},
+\]
+where
+\[
+H_{\rm threshold}(\eta)=I-2\mathbf 1_{(1,\infty)}(\BSEta).
+\]
+\end{corollary}
+
+The prime torus is therefore an exact multicircle chart of the finite obstruction after the native source and five columns have been transported.  It is not a second independent route.
+
+\section{Accepted block and the scalar \texorpdfstring{$M_3$}{M3}}
+
+The accepted finite block is the four-dimensional odd block
+\[
+E_3=\operatorname{span}\{u, |x|u, |x|^2u, e_3\}.
+\]
+Let \(G_3\) be the completed-Weil Gram on \(V_3=\operatorname{span}\{u,|x|u,|x|^2u\}\).  Let \(b_3\) be the coupling vector to \(e_3\).  The reduced anti-seam scalar is
+\[
+M_3=q(e_3,e_3)-b_3^*G_3^{-1}b_3.
+\]
+
+\begin{theorem}[Certified accepted block]
+The transferred M3 certificate gives
+\[
+\lambda_{\min}(G_3)=2.0838177120437723\cdot10^{-13}>0
+\]
+and
+\[
+3.08520376681449\cdot10^{-13}
+< M_3 <
+2.993597611951253\cdot10^{-12}.
+\]
+Therefore \(M_3>0\).  Since \(M_3\) is the Schur complement of \(G_3\) in the bordered Gram, the completed-Weil form is positive definite on \(E_3\).
+\end{theorem}
+
+\begin{proof}[Proof source]
+The proof is the correlated state-local Schur ledger transferred in \texttt{theorum/03\_m3\_positive\_accepted\_block.md}, sourced from MP PRs \#181, \#182, \#196, \#198, \#199, \#200 and \#202.  The important structural point is that \(q(e_3,e_3)\), \(b_3\), the Schur compensation and prime/Gamma truncation are enclosed in one correlated ledger; independent coordinate boxes for \(b_3\) are not used.
+\end{proof}
+
+\section{Single-sector terminal reduction}
+
+At the raw parity-split level, both parity sectors are represented.  This remains true.  The single-sector conclusion enters only after the seam-integer/source-sign/favorable-even reduction.
+
+\begin{theorem}[One-sector terminal sufficiency after reduction]
+After the representation-complete seam-integer reduction, the common source-sign theorem and the favorable even-boundary reduction, the even sector is retained in the bilateral carrier but is not an independent terminal gate.  The remaining terminal obstruction is the odd five-label seam packet.
+\end{theorem}
+
+\begin{remark}
+This theorem does not say that the even sector is absent.  It says that the endpoint decision has been reduced to the target-relevant odd five-label obstruction.  The chronological order matters: older parity-split formulations remain correct before the reduction, while the single-sector statement is lawful only after the reduction.
+\end{remark}
+
+\section{Zero-cut T03 endpoint completion}
+
+The endpoint theorem fixes the target-relevant blind quotient at the zero cut before choosing a lift.
+
+\begin{theorem}[Invariant source-Gram identity]
+Let \(\RSigma\) be the total response readout, \(\Psrc\) the source projection, \(\Sminus\) the complete unshifted odd source, and \(\WSigma\) the five-label response map.  The zero-cut T03 completion gives the invariant source-Gram identity
+\[
+\RSigma^*\Psrc\RSigma
+=
+(\Sminus^{\dagger/2}\WSigma)^*
+(\Sminus^{\dagger/2}\WSigma).
+\]
+This identity is obtained by decomposing the five-label Gram defect into visible compression, five-dimensional blind response, both cross blocks, omitted prime/Gamma tails, quadrature/window/solve/rounding errors and native/Feshbach/prime-torus chart transport, with total directed error tending to zero.
+\end{theorem}
+
+\begin{remark}
+The theorem does not require literal equality of ambient source maps.  Equal Grams give a canonical partial-isometry identification of the final ranges.  The endpoint sign needs the invariant Gram identity, not an orientation-dependent ambient equality.
+\end{remark}
+
+\begin{theorem}[Zero-cut projection-defect positivity]
+The independently constructed total-response Gram satisfies
+\[
+\RSigma^*\RSigma=\operatorname{diag}(1,A_3).
+\]
+Together with the invariant source-Gram identity, this yields
+\[
+K_0=\RSigma^*(I-\Psrc)\RSigma\ge0.
+\]
+The endpoint Schur equivalence then gives the completed-Weil endpoint sign in the declared normalization.
+\end{theorem}
+
+\begin{proof}[Proof source]
+This is the transferred zero-cut T03 theorem in \texttt{theorum/04\_zero\_cut\_t03\_endpoint\_completion.md}, sourced from MP PR \#254 and the associated endpoint closure branch.  The theorem consumes the earlier positive-eta path equality, seam-integer/five-matrix reduction and accepted-block positivity as upstream nodes.
+\end{proof}
+
+\section{Main theorem}
+
+\begin{theorem}[Completed-Weil endpoint theorem]
+Assume the native completed-Weil carrier is in the declared normalization and consume the transferred theorem chain:
+\begin{enumerate}[label=(\roman*)]
+\item fixed-five positive-eta path equality;
+\item common five-matrix seam-integer reduction;
+\item certified accepted block \(G_3>0\), \(M_3>0\);
+\item single-sector terminal reduction;
+\item zero-cut T03 source-Gram endpoint completion.
+\end{enumerate}
+Then the completed-Weil endpoint sign holds on the target-faithful completed carrier.
+\end{theorem}
+
+\begin{proof}
+The positive-eta path theorem removes normalization-path ambiguity on the fixed five-label carrier.  The common five-matrix theorem reduces the sign-sensitive obstruction to the representation-invariant threshold matrix \(\BSEta\) and seam charge \(\kSigma\).  The \(M_3\) certificate proves positivity of the accepted odd block.  The single-sector reduction identifies the remaining terminal packet with the odd five-label source obstruction rather than an independent even-sector gate.  The zero-cut T03 theorem supplies the invariant source-Gram identity and hence the projection defect
+\[
+K_0=\RSigma^*(I-\Psrc)\RSigma\ge0.
+\]
+The endpoint Schur equivalence transfers this projection-defect positivity to the completed-Weil endpoint sign.
+\end{proof}
+
+\begin{corollary}[Classical terminal implication]
+If the classical completed explicit formula identifies the native completed-Weil form with the symmetric zero-sum Weil form in the declared normalization, and if the classical Weil criterion is consumed in that same normalization, then the Riemann hypothesis follows.
+\end{corollary}
+
+\begin{proof}
+By the completed-Weil endpoint theorem, the completed-Weil form is nonnegative on the target-faithful completed carrier.  Under the classical explicit-formula identification, this is the Weil quadratic form in the declared normalization.  The Weil criterion then gives the Riemann hypothesis.
+\end{proof}
+
+\section{Objection map}
+
+The revised paper addresses the main structural objections as follows.
+
+\begin{center}
+\begin{tabular}{p{0.32\linewidth}p{0.56\linewidth}}
+\hline
+Objection & Resolution in this draft \\
+\hline
+Normalization and eta-continuation may not commute & positive-eta amplitude path equality \\
+Seam integer lacks meaning & seam integer is threshold count of one common five-matrix \\
+Prime torus is a separate route & prime torus is a faithful chart of the same matrix \\
+M3 is missing & exact interval proves \(M_3>0\) \\
+One sector cannot suffice & suffices only after seam/source/even reduction; even sector remains represented upstream \\
+Endpoint source map is orientation-dependent & T03 uses invariant Gram identity and projection defect \\
+Framework is over-engineered & each layer repairs a named blind kernel, source restriction, path ambiguity or endpoint support defect \\
+\hline
+\end{tabular}
+\end{center}
+
+\section{Claim boundary}
+
+The following claims are made in this draft.
+\[
+\begin{array}{ll}
+\text{positive-eta path equality} & \text{proved by amplitude factorization},\\
+\text{seam-integer/five-matrix reduction} & \text{transferred theorem capsule},\\
+\text{\(M_3>0\)} & \text{certified transferred interval},\\
+\text{accepted odd block positive} & \text{Schur complement consequence},\\
+\text{single-sector terminal reduction} & \text{after seam/source/even reduction},\\
+\text{zero-cut T03 endpoint} & \text{transferred theorem capsule},\\
+\text{classical RH implication} & \text{classical membrane in declared normalization}.
+\end{array}
+\]
+
+The following claims are not made by the standalone text without its referenced theorem capsules and classical membrane:
+\[
+\begin{array}{ll}
+\text{raw diagonal Euler determinant proves RH} & \text{not claimed},\\
+\text{UGD by itself is a sign detector} & \text{not claimed},\\
+\text{the even sector is absent} & \text{not claimed},\\
+\text{independent \(b_3\) boxes prove \(M_3\)} & \text{explicitly rejected},\\
+\text{the framework is an extra hypothesis} & \text{not claimed; it is an obstruction ledger}.
+\end{array}
+\]
+
+\section{Conclusion}
+
+The cleaned proof architecture is deliberately short:
+\[
+\text{path equality}
+\to
+\text{five-matrix seam integer}
+\to
+M_3>0
+\to
+\text{single-sector endpoint}
+\to
+K_0\ge0.
+\]
+The Recognition Kernel Framework is needed because the endpoint is not a raw spectral estimate alone.  It is a target-faithful completion problem: source restrictions, blind kernels, path normalizations and support descent must all be typed before a finite endpoint can be promoted.  Once those typed obstructions are handled, the terminal object is the zero-cut projection defect.
+
+\end{document}
