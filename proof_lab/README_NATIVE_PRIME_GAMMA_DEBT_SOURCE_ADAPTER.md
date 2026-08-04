@@ -68,11 +68,11 @@ cut covariance is positive definite.
 ## Pull and run in Jupyter
 
 ```python
-%cd "C:\Users\abc\Desktop\New Folder (2)\New folder\PROVISNAL RELATED\RH framework\Recognition-Kernel-Framework"
+%cd "<LOCAL_PATH>/Recognition-Kernel-Framework"
 
 !git fetch origin
-!git switch agent/cut-memory-spectral-isomorphism
-!git pull --ff-only origin agent/cut-memory-spectral-isomorphism
+!git switch main
+!git pull --ff-only origin main
 ```
 
 Run the tests:
