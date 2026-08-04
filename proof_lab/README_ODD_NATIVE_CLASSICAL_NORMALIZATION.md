@@ -17,8 +17,9 @@ Stage 3G strict odd native positivity
 -> pinned classical symmetric-zero-sum membrane.
 ```
 
-Stage 3H does not rederive the classical explicit formula and does not yet
-consume the parity-restricted Weil implication.
+Stage 3H does not rederive the classical explicit formula. The official paper
+uses the full even-plus-odd Weil route, so a parity-restricted implication is an
+optional audit rather than a load-bearing dependency.
 
 ## Files
 
@@ -54,11 +55,11 @@ Stage 3H requires a generated, hash-stable Stage 3G actual certificate. If
 Stages 3F and 3G have not yet been run, execute their commands first.
 
 ```python
-%cd "C:\Users\abc\Desktop\New Folder (2)\New folder\PROVISNAL RELATED\RH framework\Recognition-Kernel-Framework"
+%cd "<LOCAL_PATH>/Recognition-Kernel-Framework"
 
 !git fetch origin
-!git switch agent/cut-memory-spectral-isomorphism
-!git pull --ff-only origin agent/cut-memory-spectral-isomorphism
+!git switch main
+!git pull --ff-only origin main
 ```
 
 Generate Stage 3F if necessary:
@@ -117,8 +118,8 @@ RH_PROMOTION_ALLOWED False
 ```
 
 The last three `False` values are deliberate. The classical explicit formula is
-pinned rather than rederived; the odd Weil implication is reserved for Stage
-3I; RH is not promoted in Stage 3H.
+pinned rather than rederived; no optional odd-only theorem is consumed here;
+and RH is not promoted by this standalone normalization cartridge.
 
 ## Canonical hash
 
@@ -153,15 +154,10 @@ Pinned hash:
 f0d18ba798f6aa6bc058fe07d86f351419e2ebd475a02373cd218db4cb43df18
 ```
 
-## Next stage
-
-Stage 3I is the Parity-Restricted Classical Weil Implication Audit. It must pin
-the exact theorem, test-function class, Fourier convention and strictness
-hypothesis, then show that the Stage 3G strict odd form and Stage 3H
-normalization satisfy those hypotheses.
-
 ## Claim boundary
 
 A Stage 3H pass proves the actual termwise odd native/classical normalization
-interface. It does not reprove the classical explicit formula, consume the
-odd-only Weil implication, or prove RH.
+interface. It does not reprove the classical explicit formula or, by itself,
+prove RH. The manuscript's official terminal route combines the separately
+proved even and odd restrictions and then consumes the standard full Weil
+criterion.
