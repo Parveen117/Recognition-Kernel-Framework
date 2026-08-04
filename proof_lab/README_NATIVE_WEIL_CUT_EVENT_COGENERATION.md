@@ -46,11 +46,11 @@ The exact calibrations verify:
 ## Pull and run in Jupyter
 
 ```python
-%cd "C:\Users\abc\Desktop\New Folder (2)\New folder\PROVISNAL RELATED\RH framework\Recognition-Kernel-Framework"
+%cd "<LOCAL_PATH>/Recognition-Kernel-Framework"
 
 !git fetch origin
-!git switch agent/cut-memory-spectral-isomorphism
-!git pull --ff-only origin agent/cut-memory-spectral-isomorphism
+!git switch main
+!git pull --ff-only origin main
 
 !python -m unittest -v proof_lab.test_native_weil_cut_event_cogeneration
 
