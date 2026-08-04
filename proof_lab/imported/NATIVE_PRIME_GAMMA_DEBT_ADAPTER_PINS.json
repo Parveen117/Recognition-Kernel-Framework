@@ -1,0 +1,66 @@
+{
+  "claim_boundary": {
+    "actual_completed_weil_cut_covariance": "OPEN",
+    "actual_decoder_bound": "OPEN",
+    "actual_source_adapter": "CONSTRUCTED",
+    "rh": "NOT_CLAIMED"
+  },
+  "numerical_pins": {
+    "boundary_residual_budget_if_source_exact": "0.0894586115031646185021330388488233134",
+    "t21_beta_zero_upper": "0.8290856201657449",
+    "t21_relative_reserve": "0.1709143798342551"
+  },
+  "pins": {
+    "actual_boundary_common_chart": {
+      "required": "L_partial(f)=integral <b_partial,J_2sh f>",
+      "status": "OPEN"
+    },
+    "actual_two_sheet_source_domination": {
+      "required": "||Xi_0 f||^2 >= integral <J_2sh f,A_0 J_2sh f>",
+      "status": "OPEN"
+    },
+    "canonical_graph_adapter": {
+      "formula": "D_Sigma^0=Xi_0 J_X^*; Xi_0=D_Sigma^0 J_X",
+      "status": "DERIVED_STAGE3D"
+    },
+    "compatibility_defect": {
+      "formula": "D_comp=(I-d_0 M_mis^-1)^(1/2)",
+      "source": "MP PR #243, NATIVE_COMPATIBILITY_DEBT_DEFECT_AMPLITUDE.md",
+      "status": "PROVED"
+    },
+    "diagonal_debt_accounting": {
+      "formula": "d_0=m_Gamma+m_p",
+      "source": "MP PR #243",
+      "status": "PROVED"
+    },
+    "gamma_oscillator_factorization": {
+      "source": "MP PR #243, NATIVE_PRIME_GAMMA_RESPONSE_FACTORIZATION.md",
+      "status": "PROVED"
+    },
+    "native_metric_graph": {
+      "formula": "J_X f=(f,Cf); p_X=(r_partial,Cr_partial)",
+      "reported_hash": "dce944ee8ee33cbb6fc5cb86794622a9f2293135e8bef652dca8b85ed5c7df32",
+      "source": "RKF Stage 3C",
+      "status": "USER_PASS_HASH_STABLE"
+    },
+    "prime_mismatch_factorization": {
+      "source": "MP PR #243, NATIVE_PRIME_GAMMA_RESPONSE_FACTORIZATION.md",
+      "status": "PROVED"
+    },
+    "t21_direct_unshifted_envelope": {
+      "required_for_promotion": "attach source and boundary to the same actual two-sheet chart",
+      "status": "IMPORTED_SCALAR_ENVELOPE_ONLY"
+    },
+    "xi0_source_gram": {
+      "formula": "Xi_0=A_mis D_comp; Xi_0^*Xi_0=S_(0,-)^full",
+      "source": "MP PR #243 and completed-Weil source manuscript",
+      "status": "PROVED"
+    }
+  },
+  "schema": "rkf.native_prime_gamma_debt_adapter_pins.v1",
+  "source_repositories": {
+    "mp": "Parveen117/MP",
+    "rkf": "Parveen117/Recognition-Kernel-Framework"
+  },
+  "terminal_promotion_allowed": false
+}

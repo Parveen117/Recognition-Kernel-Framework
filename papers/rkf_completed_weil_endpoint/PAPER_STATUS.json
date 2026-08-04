@@ -1,0 +1,46 @@
+{
+  "schema": "rkf-current-paper-status-v0.2",
+  "paper": "Recognition Kernel Completion of the Five-Label Weil Endpoint",
+  "source": "papers/rkf_completed_weil_endpoint/main.tex",
+  "reviewer_guide": "papers/rkf_completed_weil_endpoint/REVIEWER_GUIDE.md",
+  "status": "EXPANDED_FOR_REVIEWER_READABILITY_AND_CERTIFICATE_VISIBILITY",
+  "main_chain": [
+    "positive-eta amplitude path equality",
+    "zero-as-cut endpoint discipline",
+    "common five-matrix seam integer",
+    "M3 positive accepted block",
+    "single-sector terminal reduction",
+    "zero-cut T03 endpoint projection defect",
+    "classical explicit-formula / Weil-criterion membrane"
+  ],
+  "expanded_sections": [
+    "classical normalization contract",
+    "source-restriction and minimal-lift proof skeleton",
+    "positive-eta polar-frame proof",
+    "zero-as-cut projector proof",
+    "common five-matrix covariance proof",
+    "M3 Schur-complement proof",
+    "formal one-sector reduction theorem",
+    "T03 six-block convergence criterion",
+    "T03 projection-defect positivity proof",
+    "numerical certificates and reproducibility",
+    "T18-T20 independent odd boundary-burden appendix",
+    "auxiliary theorem-node appendix"
+  ],
+  "visible_numerical_certificates": {
+    "M3_interval": ["3.08520376681449e-13", "2.993597611951253e-12"],
+    "T19_beta_partial_cut_upper": "0.9998319617060448",
+    "T20_strict_reserve_lower": "0.0001680382939552"
+  },
+  "reproducibility_records": {
+    "reviewer_reproducibility_archive_doi": "10.5281/zenodo.21760119",
+    "unified_publication_record_doi": "10.5281/zenodo.21735284"
+  },
+  "removed_dependency": "independent even-source positivity route",
+  "local_dependencies": {
+    "terminal_theorems": "theorum/",
+    "reusable_methods": "mp_gold/"
+  },
+  "compile_expectation": "pdflatex main.tex twice; no bibliography required",
+  "claim_boundary": "native endpoint chain separated from classical membrane"
+}
