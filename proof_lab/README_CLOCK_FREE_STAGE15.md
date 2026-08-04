@@ -23,11 +23,11 @@ No RH data, external clock, floating eigensolver, fitted correction, or post-hoc
 ## Run from Jupyter
 
 ```python
-%cd "C:\Users\abc\Desktop\New Folder (2)\New folder\PROVISNAL RELATED\RH framework\Recognition-Kernel-Framework"
+%cd "<LOCAL_PATH>/Recognition-Kernel-Framework"
 
 !git fetch origin
-!git switch agent/cut-memory-spectral-isomorphism
-!git pull --ff-only origin agent/cut-memory-spectral-isomorphism
+!git switch main
+!git pull --ff-only origin main
 
 !python -m unittest -v proof_lab.test_clock_free_cut_memory_stage15
 
