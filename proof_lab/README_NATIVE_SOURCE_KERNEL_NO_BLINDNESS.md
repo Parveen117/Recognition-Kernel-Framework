@@ -68,11 +68,11 @@ minimum strict floor at N=12                    1/60
 First generate and verify Stage 3F if it has not yet been run:
 
 ```python
-%cd "C:\Users\abc\Desktop\New Folder (2)\New folder\PROVISNAL RELATED\RH framework\Recognition-Kernel-Framework"
+%cd "<LOCAL_PATH>/Recognition-Kernel-Framework"
 
 !git fetch origin
-!git switch agent/cut-memory-spectral-isomorphism
-!git pull --ff-only origin agent/cut-memory-spectral-isomorphism
+!git switch main
+!git pull --ff-only origin main
 
 !python -m unittest -v proof_lab.test_native_compatibility_form_source_domination
 
