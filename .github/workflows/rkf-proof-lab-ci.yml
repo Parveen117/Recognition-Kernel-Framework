@@ -40,6 +40,24 @@ jobs:
       - name: Run proof-lab tests
         run: python -m unittest discover -v -s proof_lab -p 'test_*.py'
 
+      - name: Reproduce semantic Paninian normal-form certificate
+        run: |
+          python -m proof_lab.semantic_paninian_normal_form \
+            --output proof_lab/SEMANTIC_PANINIAN_NORMAL_FORM_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/SEMANTIC_PANINIAN_NORMAL_FORM_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/SEMANTIC_PANINIAN_NORMAL_FORM_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_SEMANTIC_PANINIAN_NORMAL_FORM_HASH', actual)
+          PY
+
       - name: Reproduce bilateral jet-flow capstone certificate
         run: |
           python -m proof_lab.bilateral_jet_flow_capstone \
