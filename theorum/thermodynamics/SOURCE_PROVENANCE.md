@@ -7,6 +7,7 @@ The theorem capsules in this folder were extracted from the private proof labora
 ```text
 repository: Parveen117/MP
 primary direct-thermodynamics PRs: #239 and #243
+native cut-square specialization inputs: #274 and #275
 earlier lambda-geometry PR chain: #52 through #61
 primary response branch: agent/clock-free-recognition-proof
 ```
@@ -79,6 +80,39 @@ proof_lab/clock_free_recognition/ONSAGER_GEOMETRIC_O1_O2_AUDIT.md
 blob: 456827539ed384a7227e76059860a3aef1d6dc36
 ```
 
+## Native cut-square and minimum-decoder provenance: PRs #274 and #275
+
+The thermodynamic cut-square capsule is a typed specialization of the native event-decoder theorem to the positive thermodynamic response metric supplied by the direct thermodynamic archive.
+
+```text
+PR #274
+proof_lab/clock_free_recognition/T17_NATIVE_BOUNDARY_EVENT_DECODER_THEOREM.md
+blob: 8697ee2d81afe104dc2eb29601c7e9811c54fcdd
+
+PR #275
+proof_lab/clock_free_recognition/T18_NATIVE_DECODER_BURDEN_NONATTAINED_MEMORY_THEOREM.md
+blob: 54aa4e18245a9ca2f9dc98bf37e729907aa2185a
+```
+
+Specialized results recorded in
+
+```text
+theorum/thermodynamics/10_thermodynamic_cut_square_response_decomposition.md
+```
+
+are:
+
+- positive-metric thermodynamic Lagrange/cut-square identity;
+- contractive scalar-channel no-leakage decomposition;
+- six-minor expansion of the \((p,v,s,t)\) response tetrad after metric whitening;
+- equality and complete response-alignment classification;
+- sharp thermodynamic decoder burden criterion;
+- symmetric Onsager entropy-production specialization;
+- rank-one channel domination of the canonical response cost;
+- explicit separation from the nonlinear barrier theorem.
+
+This transfer does not assert that a particular thermodynamic decoder is physically realized. It proves the decomposition once the response metric and decoder are lawfully declared.
+
 ## Previously missing lambda-geometry chain: PRs #52–#61
 
 Transferred into
@@ -139,7 +173,7 @@ Numerical fits, speculative physical extensions, and RH conclusions are not prom
 
 ```text
 repository: Parveen117/Recognition-Kernel-Framework
-branch: agent/broaden-thermodynamic-pr-archive
+branch: agent/thermodynamic-cut-square-theorem
 base: main
 folders:
   theorum/thermodynamics/
