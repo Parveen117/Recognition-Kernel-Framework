@@ -15,8 +15,9 @@ The MP source files remain in place as historical and hash-bound provenance. Thi
 7. `07_thermo_weil_provenance_five_source_schur.md`
 8. `08_canonical_connection_physical_flux.md`
 9. `09_scope_exclusions.md`
-10. `lambda_geometry/README.md`
-11. `SOURCE_PROVENANCE.md`
+10. `10_thermodynamic_cut_square_response_decomposition.md`
+11. `lambda_geometry/README.md`
+12. `SOURCE_PROVENANCE.md`
 
 ## Direct thermodynamic-response chain
 
@@ -26,10 +27,13 @@ signed thermodynamic response tetrad
 -> response one-form and curvature
 -> canonical response-frame whitening
 -> positive response cost
+-> thermodynamic cut-square channel decomposition
 -> bounded response defect / barrier
 -> Onsager-Hodge splitting and no-leakage
 -> provenance-gated finite thermo-Weil realization.
 ```
+
+The cut-square capsule specializes the native minimum-decoder identity to the positive thermodynamic response metric. It separates one recognized scalar channel from the contractive reserve and the six pairwise tetrad mismatch squares. It is finer than the single flat relation `Gamma_c Gamma_m = 1` and does not identify a physical decoder without a source theorem.
 
 ## Earlier thermodynamic-lambda geometry chain
 
@@ -46,7 +50,7 @@ thermodynamic-lambda response hierarchy
 -> primitive flux witnesses and minimizer obstruction.
 ```
 
-It does not duplicate the direct response-cost, Onsager, source-overlap, thermo-Weil, or physical-flux capsules already present in this folder.
+It does not duplicate the direct response-cost, cut-square, Onsager, source-overlap, thermo-Weil, or physical-flux capsules already present in this folder.
 
 ## Global claim boundary
 
@@ -55,6 +59,8 @@ THERMODYNAMIC RESPONSE TETRAD                     PROVED / EXTRACTED
 FLAT CALORIC-MECHANICAL CLOSURE                   PROVED
 CURVATURE-PATH / SEAM-INDEX SPECTRAL FLOW        PROVED
 CANONICAL POSITIVE RESPONSE COST                  PROVED
+THERMODYNAMIC CUT-SQUARE DECOMPOSITION            PROVED IN FINITE POSITIVE RESPONSE FIBRE
+SHARP THERMODYNAMIC DECODER BURDEN CRITERION      PROVED IN FINITE POSITIVE RESPONSE FIBRE
 BOUNDED THERMODYNAMIC RESPONSE DEFECT             PROVED
 FINITE PROJECTION / OVERLAP IDENTITIES            PROVED
 ONSAGER COMPASS AND CONSTITUTIVE NO-GO            PROVED
@@ -65,6 +71,7 @@ REFINEMENT-STABLE NATIVE LENGTH                   PROVED UP TO SCALE
 CURVATURE-FLUX NO-COLLAPSE                       PROVED ON COMPACT STRIPS
 
 PHYSICAL THERMO -> NATIVE ARITHMETIC SOURCE MAP   OPEN
+PHYSICAL IDENTIFICATION OF CUT-SQUARE DECODER     OPEN
 CONTINUUM SOURCE-RANGE INTERTWINER                 OPEN
 CANONICAL ABSOLUTE LENGTH NORMALIZATION            OPEN
 GLOBAL FLUX-SPECTRUM CLASSIFICATION                OPEN
