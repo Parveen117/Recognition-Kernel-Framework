@@ -6,8 +6,9 @@ The theorem capsules in this folder were extracted from the private proof labora
 
 ```text
 repository: Parveen117/MP
-primary PRs: #239 and #243
-primary source branch: agent/clock-free-recognition-proof
+primary direct-thermodynamics PRs: #239 and #243
+earlier lambda-geometry PR chain: #52 through #61
+primary response branch: agent/clock-free-recognition-proof
 ```
 
 The source files remain in MP. This RKF folder is a clean theorem-level transfer, not a deletion of the original laboratory history.
@@ -78,6 +79,50 @@ proof_lab/clock_free_recognition/ONSAGER_GEOMETRIC_O1_O2_AUDIT.md
 blob: 456827539ed384a7227e76059860a3aef1d6dc36
 ```
 
+## Previously missing lambda-geometry chain: PRs #52–#61
+
+Transferred into
+
+```text
+theorum/thermodynamics/lambda_geometry/
+```
+
+Source map:
+
+```text
+PR #52  adapters/common/LAMBDA_HOLONOMY_SPECTRAL_OPERATOR.md
+PR #53  adapters/common/NONCOMMUTATIVE_PATH_ORDERED_HOLONOMY.md
+PR #54  adapters/common/ADMISSIBLE_SECTOR_FACTORIZATION.md
+PR #55  adapters/common/REFINEMENT_INVARIANT_NATIVE_LENGTH.md
+PR #56  adapters/common/CONTINUUM_HOMOTOPY_DESCENT.md
+PR #57  adapters/common/CONSTRAINED_HOMOTOPY_GROUPOID.md
+PR #58  adapters/common/CUT_METRIC_NO_COLLAPSE.md
+PR #59  adapters/common/PRIMITIVE_FLUX_SPECTRUM.md
+PR #60  adapters/common/PRIMITIVE_FLUX_MINIMIZER_CLASSIFICATION.md
+PR #61  adapters/common/PRIMITIVE_FLUX_STRIP_VARIATION.md
+```
+
+Extracted missing results:
+
+- lambda holonomy-rate self-adjointness;
+- static logarithm branch memory;
+- winding / spectral-flow identity;
+- noncommutative path-order collision;
+- small-square commutator curvature;
+- common-commutant irreducibility;
+- admissible factorization with cross-curvature memory;
+- composition-primitivity;
+- refinement-stable length rigidity;
+- continuum and reparameterization descent;
+- unrestricted homotopy obstruction;
+- constrained variational lower bound;
+- curvature-flux minimizer existence and no-collapse;
+- integer flux witnesses;
+- restricted rectangular minimizer formula;
+- endpoint-variation obstruction to canonicality.
+
+The PR #239 entropy-scaled tetrad is authoritative for thermodynamic typing; the historical PR #52 derivative coordinates are preserved only as lineage and are not silently equated with the corrected tetrad.
+
 ## Transfer rule
 
 Each RKF capsule retains only:
@@ -94,7 +139,9 @@ Numerical fits, speculative physical extensions, and RH conclusions are not prom
 
 ```text
 repository: Parveen117/Recognition-Kernel-Framework
-branch: agent/thermodynamic-theorem-archive
+branch: agent/broaden-thermodynamic-pr-archive
 base: main
-folder: theorum/thermodynamics/
+folders:
+  theorum/thermodynamics/
+  theorum/thermodynamics/lambda_geometry/
 ```
