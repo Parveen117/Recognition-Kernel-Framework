@@ -1,6 +1,10 @@
 name: RKF proof-lab CI
 
 on:
+  push:
+    branches:
+      - agent/bilateral-jet-flow-capstone
+      - main
   pull_request:
   workflow_dispatch:
 
