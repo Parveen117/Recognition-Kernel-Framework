@@ -169,13 +169,16 @@ Each RKF capsule retains only:
 
 Numerical fits, speculative physical extensions, and RH conclusions are not promoted by this transfer.
 
-## Current RKF transfer branch
+## Canonical RKF location
 
 ```text
 repository: Parveen117/Recognition-Kernel-Framework
-branch: agent/thermodynamic-cut-square-theorem
-base: main
+canonical branch: main
 folders:
   theorum/thermodynamics/
   theorum/thermodynamics/lambda_geometry/
+branch audit:
+  theorum/BRANCH_CONSOLIDATION_AUDIT.md
 ```
+
+The historical transfer branches remain as provenance labels, but after the 2026-08-05 consolidation they are synchronized with `main`. New thermodynamic development should branch from current `main`, preserve the source map, and return through a verified merge or fast-forward.
