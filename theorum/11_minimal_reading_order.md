@@ -16,9 +16,11 @@ For the generator-to-physical-adapter spine, read:
 41_cut_graded_universal_generator_theorem.md
 42_cut_graded_lambda_jacobian_tower_theorem.md
 43_bilateral_jet_flow_recognition_capstone_theorem.md
+44_madhava_smriti_bilateral_jet_flow_closure_theorem.md
 proof_lab/README_CUT_GRADED_UNIVERSAL_GENERATOR.md
 proof_lab/README_CUT_GRADED_LAMBDA_JACOBIAN_TOWER.md
 proof_lab/README_BILATERAL_JET_FLOW_CAPSTONE.md
+proof_lab/README_MADHAVA_SMRITI_BILATERAL_JET_FLOW.md
 ```
 
 Then read:
