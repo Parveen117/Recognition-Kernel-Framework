@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - agent/bilateral-jet-flow-capstone
+      - agent/madhava-smriti-jet-flow-closure
       - main
   pull_request:
   workflow_dispatch:
@@ -55,4 +56,24 @@ jobs:
           ).read_text(encoding='utf-8').strip()
           assert actual == expected, (actual, expected)
           print('PASS_BILATERAL_JET_FLOW_CAPSTONE_HASH', actual)
+          PY
+
+      - name: Reproduce Madhava-Smriti closure certificate
+        run: |
+          python -m proof_lab.madhava_smriti_bilateral_jet_flow \
+            --output proof_lab/MADHAVA_SMRITI_BILATERAL_JET_FLOW_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path(
+                  'proof_lab/MADHAVA_SMRITI_BILATERAL_JET_FLOW_ACTUAL.json'
+              ).read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/MADHAVA_SMRITI_BILATERAL_JET_FLOW_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_MADHAVA_SMRITI_BILATERAL_JET_FLOW_HASH', actual)
           PY
