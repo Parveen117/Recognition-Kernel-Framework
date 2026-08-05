@@ -91,14 +91,33 @@ the Riemann Hypothesis.
 
 Those items remain `NOT CERTIFIED` or `OPEN` in this software release.
 
+## Consolidated theorem archive
+
+The reviewer-facing theorem surface is under [`theorum/`](theorum/). It contains the transferred RH-framework capsules, native cut/completion results, the current generator-to-jet capstone chain, and the thermodynamic theorem archive.
+
+The current advanced reading chain is:
+
+```text
+theorum/41_cut_graded_universal_generator_theorem.md
+-> theorum/42_cut_graded_lambda_jacobian_tower_theorem.md
+-> theorum/43_bilateral_jet_flow_recognition_capstone_theorem.md
+-> theorum/44_madhava_smriti_bilateral_jet_flow_closure_theorem.md
+-> theorum/thermodynamics/README.md
+```
+
+Use [`theorum/README.md`](theorum/README.md) for the complete map, [`theorum/SOURCE_PR_INDEX.md`](theorum/SOURCE_PR_INDEX.md) for source ancestry, and [`theorum/BRANCH_CONSOLIDATION_AUDIT.md`](theorum/BRANCH_CONSOLIDATION_AUDIT.md) for the repository-wide branch verification.
+
+The theorem capsules retain their own evidence labels and claim boundaries. Their inclusion in `main` does not silently upgrade `LOCAL PASS`, `USER-REPORTED PASS`, or `IMPLEMENTED / USER RUN REQUIRED` into a stronger certification state. Apparently even repositories need adults in the room.
+
 ## Reviewer route
 
 1. Read [`REVIEWER_GUIDE.md`](REVIEWER_GUIDE.md).
 2. Read [`CLAIM_BOUNDARY.md`](CLAIM_BOUNDARY.md).
 3. Inspect [`CERTIFICATE_INDEX.md`](CERTIFICATE_INDEX.md).
-4. Reproduce the campaign using [`REPRODUCE.md`](REPRODUCE.md).
-5. Compare generated JSON hashes with the archived certificate artifacts.
-6. Inspect theorem sources, verifier obligations, and negative controls directly.
+4. Read the consolidated theorem map in [`theorum/README.md`](theorum/README.md).
+5. Reproduce the campaign using [`REPRODUCE.md`](REPRODUCE.md).
+6. Compare generated JSON hashes with the archived certificate artifacts.
+7. Inspect theorem sources, verifier obligations, and negative controls directly.
 
 ## Terminology
 
