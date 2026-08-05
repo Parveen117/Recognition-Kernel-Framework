@@ -34,3 +34,21 @@ jobs:
 
       - name: Run proof-lab tests
         run: python -m unittest discover -v -s proof_lab -p 'test_*.py'
+
+      - name: Reproduce bilateral jet-flow capstone certificate
+        run: |
+          python -m proof_lab.bilateral_jet_flow_capstone \
+            --output proof_lab/BILATERAL_JET_FLOW_CAPSTONE_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/BILATERAL_JET_FLOW_CAPSTONE_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/BILATERAL_JET_FLOW_CAPSTONE_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_BILATERAL_JET_FLOW_CAPSTONE_HASH', actual)
+          PY
