@@ -86,9 +86,19 @@ The most advanced abstract development currently present is:
    - strict outward threshold promotion;
    - raw nearest-rounded float rejected as proof without a validated radius.
 
+6. `46_first_visible_jet_seam_quotient_theorem.md`
+   - raw algebraic `1/0` and `0/0` remain invalid;
+   - finite first-visible jet classification of seam-relative `0/0` limits;
+   - equal-order quotient equals the leading-coefficient ratio;
+   - unequal orders classify zero versus divergence;
+   - regular seam reparameterization preserves the finite quotient;
+   - denominator-separation condition gives an explicit outward quotient radius;
+   - all-zero finite jets remain incomplete rather than assigned a value;
+   - phase compatibility is secondary to quotient existence.
+
 ### Supersession note
 
-Theorem 43 contains a historical claim-boundary line saying that Madhava-named calculus was not then present in the repository. That was accurate at the creation of Theorem 43 and is superseded by Theorem 44. Theorem 43's mathematical statements remain unchanged; Theorem 44 is its later typed extension. Theorem 45 then adds a numerical enclosure layer without identifying arithmetic error with the analytic tail.
+Theorem 43 contains a historical claim-boundary line saying that Madhava-named calculus was not then present in the repository. That was accurate at the creation of Theorem 43 and is superseded by Theorem 44. Theorem 43's mathematical statements remain unchanged; Theorem 44 is its later typed extension. Theorem 45 then adds a numerical enclosure layer without identifying arithmetic error with the analytic tail. Theorem 46 consumes the tower, remainder, tail, and enclosure machinery to classify a finite-jet class of seam-relative indeterminate quotients without redefining field division by zero.
 
 ## 4. Thermodynamic theorem archive
 
@@ -135,21 +145,24 @@ Read `thermodynamics/README.md` and `thermodynamics/SOURCE_PROVENANCE.md` before
 -> 43 bilateral jet-flow capstone
 -> 44 Madhava-Smriti closure
 -> 45 directed arithmetic-analytic closure
+-> 46 first-visible-jet seam quotient closure
 -> thermodynamics/10 cut-square response decomposition
 -> domain-specific atomic or nuclear adapter.
 ```
 
-The next adapter must declare its state carrier, cut, generator, observer, target, source provenance, measurable residual, arithmetic carrier, and outward error ledger before borrowing the capstone vocabulary.
+The next adapter must declare its state carrier, cut, generator, observer, target, source provenance, measurable residual, arithmetic carrier, outward error ledger, and any seam/asymptotic structure it consumes before borrowing the capstone vocabulary.
 
 ## 7. Global claim boundary
 
 ```text
 THEOREM-BRANCH HISTORY PRESENT ON MAIN          VERIFIED
-ADVANCED FILES 41-45                            PRESENT ON THIS DEVELOPMENT
+ADVANCED FILES 41-46                            PRESENT ON THIS DEVELOPMENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY     PRESENT
 BRANCH-ONLY UNIQUE COMMITS                      NONE AT LAST CONSOLIDATION
 INDIVIDUAL CAPSULE CLAIM BOUNDARIES              RETAINED
 RAW FLOAT AS PROOF WITHOUT OUTWARD ENCLOSURE     REJECTED BY THEOREM 45
+RAW ALGEBRAIC 1/0 OR 0/0 AS FINITE NUMBER        REJECTED BY THEOREM 46
+FINITE-JET FLAT 0/0 ASSIGNED A VALUE             REJECTED BY THEOREM 46
 PHYSICAL UNIVERSAL-GENERATOR IDENTIFICATION      NOT CLAIMED
 NUCLEAR OR ATOMIC ADAPTER                        NEXT DEVELOPMENT
 GLOBAL RH CLAIM FROM REPOSITORY CONSOLIDATION    NOT CREATED
