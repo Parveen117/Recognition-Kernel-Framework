@@ -72,6 +72,37 @@ theorems/foundation/F00I_NATIVE_DIRICHLET_ZETA_EULER_PRODUCT.md
 certificates/foundation/NUMERICAL_PROOF_PROTOCOL.md
 ```
 
+## Theorem 45 directed arithmetic-analytic closure packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Exact finite arithmetic / enclosure algebra audit |
+| Scope | finite-decimal exact rationalization, zero-radius exact embedding, outward threshold composition, refinement identity, certified-ball overlap |
+| Status | `PASS_DIRECTED_ARITHMETIC_ANALYTIC_CLOSURE_CANDIDATE` |
+| Canonical result SHA-256 | `294f5da69567086e869953ee0374fced3b4ea5f745138673b8025fb6d615ca5a` |
+| Branch proof-lab CI | `PASS` |
+
+Files:
+
+```text
+theorum/45_directed_arithmetic_analytic_closure_theorem.md
+proof_lab/directed_arithmetic_analytic_closure.py
+proof_lab/test_directed_arithmetic_analytic_closure.py
+proof_lab/DIRECTED_ARITHMETIC_ANALYTIC_CLOSURE_EXPECTED.sha256
+```
+
+This packet is intentionally exact and finite. It proves the arithmetic/enclosure identities used by Theorem 45. Correctness of an arbitrary external interval/ball implementation remains a separate dependency and raw nearest-rounded floating point without an outward enclosure remains non-proof-bearing.
+
+Theorem lineage:
+
+```text
+theorum/43_bilateral_jet_flow_recognition_capstone_theorem.md
+theorum/44_madhava_smriti_bilateral_jet_flow_closure_theorem.md
+theorum/45_directed_arithmetic_analytic_closure_theorem.md
+theorum/28_recognition_complete_finite_to_infinite_cut_theorem.md
+certificates/foundation/NUMERICAL_PROOF_PROTOCOL.md
+```
+
 ## Planned but not certified
 
 The following package names describe intended future audits. Their absence or design status must not be counted as a PASS:
