@@ -44,7 +44,7 @@ Each capsule states its own proof status and import boundary. This sequence shou
 
 ## 3. Current advanced capstone chain
 
-The most advanced abstract development currently present on `main` is:
+The most advanced abstract development currently present is:
 
 1. `41_cut_graded_universal_generator_theorem.md`
    - unique cut-even/cut-odd generator decomposition;
@@ -77,9 +77,18 @@ The most advanced abstract development currently present on `main` is:
    - bilateral tail parity;
    - exact nilpotent termination.
 
+5. `45_directed_arithmetic_analytic_closure_theorem.md`
+   - exact finite-decimal to rational carrier;
+   - zero-radius embedding into validated ball arithmetic;
+   - separate arithmetic-radius and analytic-tail ledgers;
+   - directed precision/refinement convergence;
+   - certified independent-path overlap test;
+   - strict outward threshold promotion;
+   - raw nearest-rounded float rejected as proof without a validated radius.
+
 ### Supersession note
 
-Theorem 43 contains a historical claim-boundary line saying that Madhava-named calculus was not then present in the repository. That was accurate at the creation of Theorem 43 and is superseded by Theorem 44. Theorem 43's mathematical statements remain unchanged; Theorem 44 is its later typed extension.
+Theorem 43 contains a historical claim-boundary line saying that Madhava-named calculus was not then present in the repository. That was accurate at the creation of Theorem 43 and is superseded by Theorem 44. Theorem 43's mathematical statements remain unchanged; Theorem 44 is its later typed extension. Theorem 45 then adds a numerical enclosure layer without identifying arithmetic error with the analytic tail.
 
 ## 4. Thermodynamic theorem archive
 
@@ -125,20 +134,22 @@ Read `thermodynamics/README.md` and `thermodynamics/SOURCE_PROVENANCE.md` before
 -> 42 lambda-Jacobian tower
 -> 43 bilateral jet-flow capstone
 -> 44 Madhava-Smriti closure
+-> 45 directed arithmetic-analytic closure
 -> thermodynamics/10 cut-square response decomposition
 -> domain-specific atomic or nuclear adapter.
 ```
 
-The next adapter must declare its state carrier, cut, generator, observer, target, source provenance, and measurable residual before borrowing the capstone vocabulary.
+The next adapter must declare its state carrier, cut, generator, observer, target, source provenance, measurable residual, arithmetic carrier, and outward error ledger before borrowing the capstone vocabulary.
 
 ## 7. Global claim boundary
 
 ```text
 THEOREM-BRANCH HISTORY PRESENT ON MAIN          VERIFIED
-ADVANCED FILES 41-44                            PRESENT
+ADVANCED FILES 41-45                            PRESENT ON THIS DEVELOPMENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY     PRESENT
-BRANCH-ONLY UNIQUE COMMITS                      NONE AT CONSOLIDATION
+BRANCH-ONLY UNIQUE COMMITS                      NONE AT LAST CONSOLIDATION
 INDIVIDUAL CAPSULE CLAIM BOUNDARIES              RETAINED
+RAW FLOAT AS PROOF WITHOUT OUTWARD ENCLOSURE     REJECTED BY THEOREM 45
 PHYSICAL UNIVERSAL-GENERATOR IDENTIFICATION      NOT CLAIMED
 NUCLEAR OR ATOMIC ADAPTER                        NEXT DEVELOPMENT
 GLOBAL RH CLAIM FROM REPOSITORY CONSOLIDATION    NOT CREATED
