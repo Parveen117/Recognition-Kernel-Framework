@@ -5,6 +5,7 @@ on:
     branches:
       - agent/bilateral-jet-flow-capstone
       - agent/madhava-smriti-jet-flow-closure
+      - agent/directed-arithmetic-analytic-closure
       - main
   pull_request:
   workflow_dispatch:
@@ -76,4 +77,24 @@ jobs:
           ).read_text(encoding='utf-8').strip()
           assert actual == expected, (actual, expected)
           print('PASS_MADHAVA_SMRITI_BILATERAL_JET_FLOW_HASH', actual)
+          PY
+
+      - name: Reproduce directed arithmetic-analytic closure certificate
+        run: |
+          python -m proof_lab.directed_arithmetic_analytic_closure \
+            --output proof_lab/DIRECTED_ARITHMETIC_ANALYTIC_CLOSURE_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path(
+                  'proof_lab/DIRECTED_ARITHMETIC_ANALYTIC_CLOSURE_ACTUAL.json'
+              ).read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/DIRECTED_ARITHMETIC_ANALYTIC_CLOSURE_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_DIRECTED_ARITHMETIC_ANALYTIC_CLOSURE_HASH', actual)
           PY
