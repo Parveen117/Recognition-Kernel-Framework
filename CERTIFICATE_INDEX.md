@@ -103,6 +103,37 @@ theorum/28_recognition_complete_finite_to_infinite_cut_theorem.md
 certificates/foundation/NUMERICAL_PROOF_PROTOCOL.md
 ```
 
+## Theorem 46 first-visible-jet seam quotient packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Exact finite-jet indeterminate-limit classification audit |
+| Scope | raw division-by-zero rejection, first-visible-order classification, equal-order seam quotient, regular reparameterization invariance, denominator separation, exact quotient enclosure |
+| Status | `PASS_FIRST_VISIBLE_JET_SEAM_QUOTIENT_CANDIDATE` |
+| Canonical result SHA-256 | `9d4ad6ef6ff7a798d2e169b09dda170e166d13ec5b233801c9c8cf7e20a2d1ad` |
+| Branch proof-lab CI | `PASS` on Python 3.11 and 3.12 |
+
+Files:
+
+```text
+theorum/46_first_visible_jet_seam_quotient_theorem.md
+proof_lab/first_visible_jet_seam_quotient.py
+proof_lab/test_first_visible_jet_seam_quotient.py
+proof_lab/FIRST_VISIBLE_JET_SEAM_QUOTIENT_EXPECTED.sha256
+```
+
+The packet verifies the exact finite algebra used by Theorem 46. It deliberately rejects raw algebraic `1/0` and `0/0`; it treats all-zero finite denominator jets as unresolved; and it verifies the explicit denominator-separation quotient radius with exact rational arithmetic. Flat-function or genuinely different-seam cases remain outside this finite-jet certificate.
+
+Theorem lineage:
+
+```text
+theorum/42_cut_graded_lambda_jacobian_tower_theorem.md
+theorum/43_bilateral_jet_flow_recognition_capstone_theorem.md
+theorum/44_madhava_smriti_bilateral_jet_flow_closure_theorem.md
+theorum/45_directed_arithmetic_analytic_closure_theorem.md
+theorum/46_first_visible_jet_seam_quotient_theorem.md
+```
+
 ## Planned but not certified
 
 The following package names describe intended future audits. Their absence or design status must not be counted as a PASS:
