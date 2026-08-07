@@ -7,6 +7,7 @@ on:
       - agent/madhava-smriti-jet-flow-closure
       - agent/directed-arithmetic-analytic-closure
       - agent/first-visible-jet-seam-quotient
+      - agent/source-bound-numerical-validation
       - main
   pull_request:
   workflow_dispatch:
@@ -118,4 +119,24 @@ jobs:
           ).read_text(encoding='utf-8').strip()
           assert actual == expected, (actual, expected)
           print('PASS_FIRST_VISIBLE_JET_SEAM_QUOTIENT_HASH', actual)
+          PY
+
+      - name: Reproduce source-bound proof-carrying numerical certificate
+        run: |
+          python -m proof_lab.source_bound_numerical_validation \
+            --output proof_lab/SOURCE_BOUND_PROOF_CARRYING_NUMERICAL_VALIDATION_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path(
+                  'proof_lab/SOURCE_BOUND_PROOF_CARRYING_NUMERICAL_VALIDATION_ACTUAL.json'
+              ).read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/SOURCE_BOUND_PROOF_CARRYING_NUMERICAL_VALIDATION_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_SOURCE_BOUND_PROOF_CARRYING_NUMERICAL_VALIDATION_HASH', actual)
           PY
