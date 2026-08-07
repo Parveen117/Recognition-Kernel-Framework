@@ -96,9 +96,19 @@ The most advanced abstract development currently present is:
    - all-zero finite jets remain incomplete rather than assigned a value;
    - phase compatibility is secondary to quotient existence.
 
+7. `47_source_bound_proof_carrying_numerical_validation_theorem.md`
+   - source-bound exact rational interval proof DAG;
+   - local enclosure verification implies global root enclosure;
+   - division is rejected when a denominator enclosure contains zero;
+   - participant-asserted radii/tails are not self-validating;
+   - rational geometric and exponential-tail upper rules;
+   - exact-rational Theorem-43 tail adapter conditional on validated norm bounds;
+   - certainty-aware strict-threshold classification;
+   - implementation-manifest integrity commitment and external-authenticity boundary.
+
 ### Supersession note
 
-Theorem 43 contains a historical claim-boundary line saying that Madhava-named calculus was not then present in the repository. That was accurate at the creation of Theorem 43 and is superseded by Theorem 44. Theorem 43's mathematical statements remain unchanged; Theorem 44 is its later typed extension. Theorem 45 then adds a numerical enclosure layer without identifying arithmetic error with the analytic tail. Theorem 46 consumes the tower, remainder, tail, and enclosure machinery to classify a finite-jet class of seam-relative indeterminate quotients without redefining field division by zero.
+Theorem 43 contains a historical claim-boundary line saying that Madhava-named calculus was not then present in the repository. That was accurate at the creation of Theorem 43 and is superseded by Theorem 44. Theorem 43's mathematical statements remain unchanged; Theorem 44 is its later typed extension. Theorem 45 adds a numerical enclosure layer without identifying arithmetic error with the analytic tail. Theorem 46 consumes the tower, remainder, tail, and enclosure machinery to classify a finite-jet class of seam-relative indeterminate quotients without redefining field division by zero. Theorem 47 then closes the next trust membrane: a numerical radius or tail can be consumed only after a declared source/derivation validator establishes it.
 
 ## 4. Thermodynamic theorem archive
 
@@ -146,6 +156,7 @@ Read `thermodynamics/README.md` and `thermodynamics/SOURCE_PROVENANCE.md` before
 -> 44 Madhava-Smriti closure
 -> 45 directed arithmetic-analytic closure
 -> 46 first-visible-jet seam quotient closure
+-> 47 source-bound proof-carrying numerical validation
 -> thermodynamics/10 cut-square response decomposition
 -> domain-specific atomic or nuclear adapter.
 ```
@@ -155,15 +166,17 @@ The next adapter must declare its state carrier, cut, generator, observer, targe
 ## 7. Global claim boundary
 
 ```text
-THEOREM-BRANCH HISTORY PRESENT ON MAIN          VERIFIED
-ADVANCED FILES 41-46                            PRESENT ON THIS DEVELOPMENT
-THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY     PRESENT
-BRANCH-ONLY UNIQUE COMMITS                      NONE AT LAST CONSOLIDATION
-INDIVIDUAL CAPSULE CLAIM BOUNDARIES              RETAINED
-RAW FLOAT AS PROOF WITHOUT OUTWARD ENCLOSURE     REJECTED BY THEOREM 45
-RAW ALGEBRAIC 1/0 OR 0/0 AS FINITE NUMBER        REJECTED BY THEOREM 46
-FINITE-JET FLAT 0/0 ASSIGNED A VALUE             REJECTED BY THEOREM 46
-PHYSICAL UNIVERSAL-GENERATOR IDENTIFICATION      NOT CLAIMED
-NUCLEAR OR ATOMIC ADAPTER                        NEXT DEVELOPMENT
-GLOBAL RH CLAIM FROM REPOSITORY CONSOLIDATION    NOT CREATED
+THEOREM-BRANCH HISTORY PRESENT ON MAIN                 VERIFIED
+ADVANCED FILES 41-47                                   PRESENT ON THIS DEVELOPMENT
+THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
+BRANCH-ONLY UNIQUE COMMITS                              NONE AT LAST CONSOLIDATION
+INDIVIDUAL CAPSULE CLAIM BOUNDARIES                     RETAINED
+RAW FLOAT AS PROOF WITHOUT OUTWARD ENCLOSURE            REJECTED BY THEOREM 45
+RAW ALGEBRAIC 1/0 OR 0/0 AS FINITE NUMBER               REJECTED BY THEOREM 46
+FINITE-JET FLAT 0/0 ASSIGNED A VALUE                    REJECTED BY THEOREM 46
+PARTICIPANT-ASSERTED RADIUS/TAIL AS SELF-PROVING BOUND  REJECTED BY THEOREM 47
+UNVALIDATED SOURCE COMPLETENESS                         REMAINS OPEN BY THEOREM 47
+PHYSICAL UNIVERSAL-GENERATOR IDENTIFICATION             NOT CLAIMED
+NUCLEAR OR ATOMIC ADAPTER                               LATER DOMAIN DEVELOPMENT
+GLOBAL RH CLAIM FROM REPOSITORY CONSOLIDATION           NOT CREATED
 ```
