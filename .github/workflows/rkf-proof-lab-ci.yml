@@ -6,6 +6,7 @@ on:
       - agent/bilateral-jet-flow-capstone
       - agent/madhava-smriti-jet-flow-closure
       - agent/directed-arithmetic-analytic-closure
+      - agent/first-visible-jet-seam-quotient
       - main
   pull_request:
   workflow_dispatch:
@@ -97,4 +98,24 @@ jobs:
           ).read_text(encoding='utf-8').strip()
           assert actual == expected, (actual, expected)
           print('PASS_DIRECTED_ARITHMETIC_ANALYTIC_CLOSURE_HASH', actual)
+          PY
+
+      - name: Reproduce first-visible-jet seam quotient certificate
+        run: |
+          python -m proof_lab.first_visible_jet_seam_quotient \
+            --output proof_lab/FIRST_VISIBLE_JET_SEAM_QUOTIENT_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path(
+                  'proof_lab/FIRST_VISIBLE_JET_SEAM_QUOTIENT_ACTUAL.json'
+              ).read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/FIRST_VISIBLE_JET_SEAM_QUOTIENT_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_FIRST_VISIBLE_JET_SEAM_QUOTIENT_HASH', actual)
           PY
