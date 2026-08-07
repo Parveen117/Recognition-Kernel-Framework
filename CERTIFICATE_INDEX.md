@@ -134,6 +134,42 @@ theorum/45_directed_arithmetic_analytic_closure_theorem.md
 theorum/46_first_visible_jet_seam_quotient_theorem.md
 ```
 
+## Theorem 47 source-bound proof-carrying numerical validation packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Exact source-bound interval-DAG and theorem-tail validation audit |
+| Scope | source-bound exact leaves, interval DAG enclosure, zero-denominator gate, forged-radius rejection, geometric tail, rational exponential upper bound, Theorem-43 tail adapter, certainty-aware strict boundary, implementation-manifest integrity |
+| Status | `PASS_SOURCE_BOUND_PROOF_CARRYING_NUMERICAL_VALIDATION_CANDIDATE` |
+| Canonical result SHA-256 | `acb63d3854cdf6b7efe0e6abf07150690f5a5fb3ed609fb706a9bcb48146d7bb` |
+| Proof arithmetic | exact `fractions.Fraction`; no binary float needed in the proof packet |
+
+Files:
+
+```text
+theorum/47_source_bound_proof_carrying_numerical_validation_theorem.md
+proof_lab/source_bound_numerical_validation.py
+proof_lab/test_source_bound_numerical_validation.py
+proof_lab/SOURCE_BOUND_PROOF_CARRYING_NUMERICAL_VALIDATION_EXPECTED.sha256
+```
+
+The packet proves the local-to-global enclosure induction for an admitted exact rational proof DAG. It rejects a node interval narrower than the verifier-computed enclosure, rejects interval division when the denominator enclosure contains zero, holds unsupported source classes or an open source-completeness obligation at `OPEN`, and computes theorem-tail examples by exact rational arithmetic. A participant-supplied radius or tail is therefore not proof-bearing merely because it is syntactically valid.
+
+Theorem lineage:
+
+```text
+theorum/34_native_common_chart_decoder_transfer.md
+theorum/38_native_compatibility_form_range_source_domination.md
+theorum/39_native_source_kernel_no_blindness_strict_odd.md
+theorum/43_bilateral_jet_flow_recognition_capstone_theorem.md
+theorum/44_madhava_smriti_bilateral_jet_flow_closure_theorem.md
+theorum/45_directed_arithmetic_analytic_closure_theorem.md
+theorum/46_first_visible_jet_seam_quotient_theorem.md
+theorum/47_source_bound_proof_carrying_numerical_validation_theorem.md
+```
+
+External backend authenticity, arbitrary real-world source truth, universal source completeness, and endpoint resource-exhaustion controls remain separate obligations.
+
 ## Planned but not certified
 
 The following package names describe intended future audits. Their absence or design status must not be counted as a PASS:
