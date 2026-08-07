@@ -141,8 +141,9 @@ theorum/46_first_visible_jet_seam_quotient_theorem.md
 | Certificate class | Exact source-bound interval-DAG and theorem-tail validation audit |
 | Scope | source-bound exact leaves, interval DAG enclosure, zero-denominator gate, forged-radius rejection, geometric tail, rational exponential upper bound, Theorem-43 tail adapter, certainty-aware strict boundary, implementation-manifest integrity |
 | Status | `PASS_SOURCE_BOUND_PROOF_CARRYING_NUMERICAL_VALIDATION_CANDIDATE` |
-| Canonical result SHA-256 | `acb63d3854cdf6b7efe0e6abf07150690f5a5fb3ed609fb706a9bcb48146d7bb` |
+| Canonical result SHA-256 | `318511a662326234894bd264a9c428902262560aa7df066d5b3982d17254bbd8` |
 | Proof arithmetic | exact `fractions.Fraction`; no binary float needed in the proof packet |
+| Branch proof-lab CI | `PASS` on Python 3.11 and 3.12 |
 
 Files:
 
