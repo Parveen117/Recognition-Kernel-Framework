@@ -5,8 +5,10 @@ import unittest
 
 from proof_lab.singularity_calculus.verify import (
     axis_swap_determinant,
+    closed_period_after_gauge,
     defining_function_positive_rescale_factor,
     exact_potential_mixed_partials,
+    master_closure,
     maxwell_defect,
     piecewise_enthalpy_channels,
     rectangle_seam_stokes,
@@ -59,6 +61,20 @@ class SingularityCalculusTests(unittest.TestCase):
             ),
             (Fraction(0), Fraction(0), Fraction(4, 3)),
         )
+
+    def test_closed_cycle_period_is_gauge_invariant(self):
+        self.assertEqual(
+            closed_period_after_gauge(
+                Fraction(17, 5), Fraction(9, 7), Fraction(9, 7)
+            ),
+            Fraction(17, 5),
+        )
+
+    def test_master_closure_requires_all_channels(self):
+        self.assertTrue(master_closure(Fraction(0), Fraction(0), Fraction(0)))
+        self.assertFalse(master_closure(Fraction(3), Fraction(0), Fraction(-3)))
+        self.assertFalse(master_closure(Fraction(0), Fraction(2), Fraction(0)))
+        self.assertFalse(master_closure(Fraction(0), Fraction(0), Fraction(5)))
 
     def test_full_calibration(self):
         self.assertEqual(
