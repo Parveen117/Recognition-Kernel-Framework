@@ -10,13 +10,17 @@ from proof_lab.singularity_calculus.verify import (
     exact_potential_mixed_partials,
     integer_bad_cocycle_interaction,
     integer_bilinear_cocycle_defect,
+    junction_bianchi_residue,
+    junction_double_delta_balance,
     master_closure,
     maxwell_defect,
+    mixed_jump_routes,
     multi_seam_rectangle_stokes,
     piecewise_enthalpy_channels,
     rectangle_seam_stokes,
     run_calibration,
     seam_singular_coefficient,
+    stratified_bianchi_closure,
     typed_closure,
 )
 
@@ -96,6 +100,60 @@ class SingularityCalculusTests(unittest.TestCase):
         self.assertEqual(defect, 60)
         self.assertEqual(bulk_flux, -60)
         self.assertEqual(defect + bulk_flux, 0)
+
+    def test_normal_crossing_mixed_jump_routes_agree(self):
+        route_1, route_2 = mixed_jump_routes(
+            Fraction(2, 5), Fraction(11, 7), Fraction(-3, 4), Fraction(19, 6)
+        )
+        self.assertEqual(route_1, route_2)
+
+    def test_no_spurious_double_delta_junction_term(self):
+        route_1, _ = mixed_jump_routes(
+            Fraction(2, 5), Fraction(11, 7), Fraction(-3, 4), Fraction(19, 6)
+        )
+        from_sigma1, from_sigma2, total = junction_double_delta_balance(route_1)
+        self.assertEqual(from_sigma1, -from_sigma2)
+        self.assertEqual(total, 0)
+
+    def test_junction_bianchi_residue_detects_independent_mismatch(self):
+        route_1, route_2 = mixed_jump_routes(
+            Fraction(2, 5), Fraction(11, 7), Fraction(-3, 4), Fraction(19, 6)
+        )
+        self.assertEqual(junction_bianchi_residue(route_1, route_2), 0)
+        self.assertNotEqual(
+            junction_bianchi_residue(Fraction(7, 5), Fraction(2, 3)),
+            0,
+        )
+
+    def test_stratified_bianchi_closure_is_componentwise(self):
+        self.assertTrue(
+            stratified_bianchi_closure(
+                (Fraction(0), Fraction(0), Fraction(0), Fraction(0)),
+                (Fraction(0), Fraction(0)),
+                Fraction(0),
+            )
+        )
+        self.assertFalse(
+            stratified_bianchi_closure(
+                (Fraction(0), Fraction(0), Fraction(0), Fraction(0)),
+                (Fraction(0), Fraction(0)),
+                Fraction(5, 9),
+            )
+        )
+        self.assertFalse(
+            stratified_bianchi_closure(
+                (Fraction(0), Fraction(3, 8), Fraction(0), Fraction(0)),
+                (Fraction(0), Fraction(0)),
+                Fraction(0),
+            )
+        )
+        self.assertFalse(
+            stratified_bianchi_closure(
+                (Fraction(0), Fraction(0), Fraction(0), Fraction(0)),
+                (Fraction(-2, 7), Fraction(0)),
+                Fraction(0),
+            )
+        )
 
     def test_full_calibration(self):
         self.assertEqual(
