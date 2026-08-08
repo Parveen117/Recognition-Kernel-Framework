@@ -1,231 +1,243 @@
 # Singularity Calculus
 
-This folder contains the certified mathematical core extracted from an audited source draft and rebuilt as a theorem-grade Recognition layer.
+This folder contains the audited and theorem-grade Singularity Calculus layer of
+the Recognition Kernel Framework.
 
-The raw source was **not** imported as a theorem manuscript. False or unsupported claims were rejected during audit. The retained development is a calculus of piecewise-smooth differential forms, Recognition seams, seam memory, multi-seam composition, transverse junction compatibility, and higher normal-crossing obstruction.
+The raw source draft was not imported wholesale. False or unsupported claims were
+rejected. The surviving mathematics has been rebuilt as a piecewise-smooth,
+distributional, and normal-crossing calculus with explicit claim boundaries and
+machine-checkable exact controls.
 
-Current theory status:
+Current status:
 
 ```text
-RNKE_VERIFIED_SINGULARITY_THEORY_V4_WITH_EXCLUSIONS
+RNKE_VERIFIED_SINGULARITY_THEORY_V5_WITH_EXCLUSIONS
 ```
 
 ## Development chain
 
 ```text
 smooth process form
--> bulk curvature d alpha
+-> bulk curvature
 -> seam-supported distributional curvature
--> tangential jump residue
--> Stokes memory
--> gauge/period memory
--> typed closure
+-> tangential seam residue
+-> Stokes and gauge-period memory
+-> typed single-seam closure
 -> finite multi-seam additivity
--> seam-memory cocycle / bulk interaction
--> transverse two-seam compatibility
--> stratified Bianchi junction residue
+-> seam-memory cocycle / bulk associator interaction
+-> transverse two-seam junction Bianchi law
 -> transverse three-seam alternating compatibility
--> codimension-three realizability obstruction.
+-> general finite normal-crossing jump complex D_Delta^2=0
+-> total stratified differential mathbb D^2=0
+-> general realizability/cohomology obstruction.
 ```
 
 ## Certified theorem chain
 
-1. `01_orientation_reversal_no_singularity.md`
-   - smooth `(T,V)->(V,T)` has determinant `-1`, not `0`;
-   - orientation reversal alone does not create a singular current.
-
-2. `02_process_form_curvature_and_maxwell_defect.md`
-   - rejects nonzero `d(d Phi)` for smooth scalar `Phi`;
-   - defines lawful process-form curvature `Omega=d alpha`;
-   - proves the Maxwell-defect coefficient in the enthalpy chart.
-
-3. `03_distributional_seam_curvature.md`
-   - proves the distributional seam-jump curvature formula.
-
-4. `04_tangential_jump_removability_and_gauge.md`
-   - seam curvature vanishes exactly when the tangential jump vanishes;
-   - coherent side-gauge changes preserve the seam residue.
-
-5. `05_seam_stokes_memory.md`
-   - proves the Stokes formula with an explicit seam-memory term;
-   - flat bulk can still retain nonzero seam memory.
-
-6. `06_regular_singular_typed_non_cancellation.md`
-   - bulk and seam curvature occupy mutually singular measure channels;
-   - scalar cancellation is not typed closure.
-
-7. `07_piecewise_enthalpy_seam_law.md`
-   - separates smooth Maxwell defects from interface-supported seam curvature.
-
-8. `08_seam_gauge_class_and_period_memory.md`
-   - proves the gauge class of the seam residue modulo exact seam forms;
-   - closed-cycle seam periods are gauge invariant.
-
-9. `09_master_singularity_closure_theorem.md`
-   - proves
-     \[
-     d\alpha=0
-     \iff
-     (\Omega_-,\Omega_+,R_\Sigma)=(0,0,0).
-     \]
-
-10. `10_finite_multi_seam_additivity_and_closure.md`
-    - finite pairwise-disjoint seams contribute additively;
-    - multi-seam closure is componentwise.
-
-11. `11_seam_filler_cocycle_and_curvature_interaction.md`
-    - proves
-      \[
-      \delta\omega_\Sigma=-\mathcal B_{\rm associator};
-      \]
-    - flat bulk gives an MR-03 cocycle;
-    - curved bulk produces an explicit typed interaction channel.
-
-12. `12_normal_crossing_no_spurious_double_delta.md`
-    - for two transverse seams, mixed-jump routes agree;
-    - `d alpha` contains no independent `delta(rho1)delta(rho2)` term;
-    - potential codimension-two terms cancel in `d^2 alpha`.
-
-13. `13_stratified_bianchi_junction_residue.md`
-    - defines
-      \[
-      J_{12}=\Delta_1\beta_2-\Delta_2\beta_1;
-      \]
-    - proves the bulk/seam/junction Bianchi decomposition and componentwise closure law.
-
-14. `14_triple_normal_crossing_alternating_junction.md`
-    - for three transverse seams defines
-      \[
-      T_{123}=\Delta_1J_{23}-\Delta_2J_{13}+\Delta_3J_{12};
-      \]
-    - proves `T_123=0` for compatible seam-derived junction data.
-
-15. `15_codimension_three_realizability_obstruction.md`
-    - proves the no-go implication
-      \[
-      T_{123}\neq0
-      \Rightarrow
-      \text{no compatible lower-stratum seam realization};
-      \]
-    - explicitly does not claim the converse global reconstruction theorem.
+1. `01_orientation_reversal_no_singularity.md` — smooth orientation reversal is
+   not a rank singularity.
+2. `02_process_form_curvature_and_maxwell_defect.md` — lawful process-form
+   curvature and Maxwell defect.
+3. `03_distributional_seam_curvature.md` — seam-supported distributional
+   curvature.
+4. `04_tangential_jump_removability_and_gauge.md` — removable seam criterion and
+   coherent-gauge law.
+5. `05_seam_stokes_memory.md` — exact Stokes memory with seam contribution.
+6. `06_regular_singular_typed_non_cancellation.md` — bulk and seam channels do
+   not scalar-cancel.
+7. `07_piecewise_enthalpy_seam_law.md` — thermodynamic specialization.
+8. `08_seam_gauge_class_and_period_memory.md` — gauge class and closed-period
+   memory.
+9. `09_master_singularity_closure_theorem.md` — complete single-seam closure.
+10. `10_finite_multi_seam_additivity_and_closure.md` — disjoint multi-seam
+    additivity and componentwise closure.
+11. `11_seam_filler_cocycle_and_curvature_interaction.md` — seam-memory cocycle
+    in flat bulk and explicit curvature interaction otherwise.
+12. `12_normal_crossing_no_spurious_double_delta.md` — two-seam mixed-jump
+    compatibility and no spurious double-delta term in first curvature.
+13. `13_stratified_bianchi_junction_residue.md` — pairwise junction Bianchi
+    residue.
+14. `14_triple_normal_crossing_alternating_junction.md` — triple alternating
+    compatibility residue.
+15. `15_codimension_three_realizability_obstruction.md` — nonzero triple residue
+    forbids compatible lower-stratum realization.
+16. `16_general_normal_crossing_jump_complex.md` — defines the general
+    normal-crossing cochain complex and proves
+    \[
+    \boxed{D_\Delta^2=0.}
+    \]
+17. `17_total_stratified_differential.md` — defines
+    \[
+    \boxed{\mathbb D=d+(-1)^pD_\Delta}
+    \]
+    and proves \(\mathbb D^2=0\) under the declared commutation laws.
+18. `18_general_realizability_obstruction_and_cohomology.md` — proves the general
+    fail-closed realizability gate and defines jump/total cohomology.
 
 ## Theory documents
 
-- `VERIFIED_THEORY.md` — SC-01 through SC-09 integrated single-seam theory.
-- `VERIFIED_THEORY_MULTI_SEAM_EXTENSION.md` — SC-10/SC-11 multi-seam composition extension.
-- `VERIFIED_THEORY_JUNCTION_EXTENSION.md` — SC-12/SC-13 transverse two-seam junction extension.
-- `VERIFIED_THEORY_TRIPLE_EXTENSION.md` — SC-14/SC-15 transverse three-seam compatibility extension.
+- `VERIFIED_THEORY.md` — SC-01 through SC-09.
+- `VERIFIED_THEORY_MULTI_SEAM_EXTENSION.md` — SC-10/SC-11.
+- `VERIFIED_THEORY_JUNCTION_EXTENSION.md` — SC-12/SC-13.
+- `VERIFIED_THEORY_TRIPLE_EXTENSION.md` — SC-14/SC-15.
+- `VERIFIED_THEORY_GENERAL_COMPLEX_EXTENSION.md` — SC-16/SC-18 and the v5
+  general normal-crossing closure.
 
-Certificates and status files are versioned rather than silently overwritten:
+Certificates remain versioned:
 
-- `THEORY_CERTIFICATE.json`, `THEORY_STATUS.md`
-- `THEORY_CERTIFICATE_V2.json`, `THEORY_STATUS_V2.md`
-- `THEORY_CERTIFICATE_V3.json`, `THEORY_STATUS_V3.md`
-- `THEORY_CERTIFICATE_V4.json`, `THEORY_STATUS_V4.md`
+- `THEORY_CERTIFICATE.json`
+- `THEORY_CERTIFICATE_V2.json`
+- `THEORY_CERTIFICATE_V3.json`
+- `THEORY_CERTIFICATE_V4.json`
+- `THEORY_CERTIFICATE_V5.json`
 
-## Central typed packets
+## General normal-crossing complex
 
-Single seam:
+For the finite seam index set \(N=\{1,\ldots,n\}\), let
+
+\[
+C^k_\Delta=\bigoplus_{|I|=k}A_I.
+\]
+
+The alternating jump differential is
 
 \[
 \boxed{
-\mathfrak C_{\rm sing}=(\Omega_-,\Omega_+,R_\Sigma).
+(D_\Delta c)_I
+=
+\sum_r(-1)^r\Delta_{i_r}c_{I\setminus\{i_r\}}.
 }
 \]
 
-Finite disjoint seams:
+Commuting normal-crossing jump squares imply
+
+\[
+\boxed{D_\Delta^2=0.}
+\]
+
+Thus the earlier pairwise and triple formulas are low-degree instances of one
+finite complex rather than separate rules.
+
+## Total stratified differential
+
+For a differential-graded coefficient system \(B_I^p\), assume
+
+\[
+d^2=0,
+\qquad D_\Delta^2=0,
+\qquad dD_\Delta=D_\Delta d.
+\]
+
+Then
 
 \[
 \boxed{
-\mathfrak C_{\rm multi}
-=(\Omega_0,\ldots,\Omega_m;R_1,\ldots,R_m).
+\mathbb D=d+(-1)^pD_\Delta,
+\qquad
+\mathbb D^2=0.
 }
 \]
 
-Transverse two-seam Bianchi hierarchy:
+This combines within-stratum and between-stratum closure without collapsing their
+types.
+
+## General realizability gate
+
+If a declared packet \(c\) is claimed to be generated from lower-stratum data,
+then
+
+\[
+c=D_\Delta b
+\]
+
+requires
+
+\[
+\boxed{D_\Delta c=0.}
+\]
+
+Therefore
 
 \[
 \boxed{
-\mathfrak B_{\rm strat}
-=(d\Omega_{\rm bulk};B_1,B_2;J_{12}).
+D_\Delta c\neq0
+\Rightarrow
+\text{no compatible lower-stratum realization}.
 }
 \]
 
-Transverse triple-junction compatibility:
+Passing this gate is not enough for global exactness. Closed-but-nonexact packets
+are measured by
 
 \[
-\boxed{
-\mathfrak J_3=(J_{12},J_{13},J_{23};T_{123}).
-}
+H^k_\Delta=\ker D_\Delta/\operatorname{im}D_\Delta.
 \]
 
-These packets have different semantics. Pairwise junction closure, triple compatibility, path-composition cocycle closure, and bulk curvature closure are not interchangeable scalar tests.
+## Verification
+
+Validated v5 theorem/proof head:
+
+```text
+6e113dec673920a9c201041542e125d26777025f
+```
+
+GitHub Actions run:
+
+```text
+31262484822
+```
+
+Results:
+
+```text
+SC-01..SC-15 legacy tests       23/23 PASS
+SC-16..SC-18 general tests       7/7 PASS
+combined                         30/30 PASS
+combined exact controls             27 PASS
+D_Delta^2 cases n=2..8              28 PASS
+Python 3.11                        PASS
+Python 3.12                        PASS
+```
+
+Negative controls detect missing alternating signs, wrong total-complex signs,
+and corrupted derived packets.
+
+## Vertical freeze
+
+The finite transverse normal-crossing hierarchy is now structurally complete at
+the abstract level. SC-16 subsumes manual codimension-four, codimension-five, and
+higher formulas.
+
+Future Singularity Calculus work should require genuinely new assumptions or
+phenomena, such as nontransverse strata, infinite/accumulating seams, analytic
+convergence, or a concrete physical/operator adapter.
 
 ## Interface to the Recognition Framework
 
-This folder complements rather than replaces:
+This layer complements:
 
-- `theorum/24_clock_free_recognition_seam_cut_calculus.md` for clock-free transition calculus;
-- `theorum/morphic_recognition/` for typed non-cancellation, blindness, and MR-03 cocycle memory;
-- `theorum/recognition_topology/` for winding, holonomy, branch memory, and topological seam events;
-- `theorum/thermodynamics/02_curvature_to_seam_spectral_flow.md` for the operator threshold interface once an operator representation is supplied.
+- `theorum/24_clock_free_recognition_seam_cut_calculus.md`;
+- `theorum/morphic_recognition/`;
+- `theorum/recognition_topology/`;
+- `theorum/thermodynamics/02_curvature_to_seam_spectral_flow.md`.
 
-Important separations remain:
-
-```text
-singular seam current != automatic topological transition
-junction residue       != automatic physical defect
-T_123 obstruction      != automatic microscopic event
-curvature threshold    != automatic winding jump
-```
-
-A domain adapter must prove any such identification.
-
-## Current verification
-
-The v4 theorem/proof head is:
-
-```text
-e392b4ae69aa3b058ec88ff66bc7635857922e0b
-```
-
-Verification:
-
-```text
-legacy suite 19/19 PASS
-triple suite 4/4 PASS
-combined 23/23 PASS
-legacy exact controls 18 PASS
-triple exact controls 3 PASS
-combined exact controls 21 PASS
-Python 3.11 PASS
-Python 3.12 PASS
-GitHub Actions run 31260404317 PASS
-```
-
-The first v4 candidate run failed only because two expected calibration values used stale table-index ordering. The theorem formula and alternating sign were unchanged; the corrected exact values then passed both Python versions. This audit is retained in `THEORY_CERTIFICATE_V4.json`.
+The next useful development is integration: a general **Stratified Recognition
+Faithfulness Theorem** saying that any observer/representation must preserve every
+target-relevant obstruction channel across path, bulk, seam, junction, and higher
+strata.
 
 ## Claim boundary
 
 ```text
-SMOOTH ORIENTATION REVERSAL AS SINGULARITY             REJECTED
-NONZERO d(d Phi) FOR SMOOTH Phi                        REJECTED
-PROCESS-FORM / DISTRIBUTIONAL SEAM CURVATURE            PROVED
-GAUGE-PERIOD SEAM MEMORY                                PROVED
-SINGLE-SEAM MASTER CLOSURE                              PROVED
-FINITE DISJOINT MULTI-SEAM ADDITIVITY                   PROVED
-FLAT-BULK SEAM MEMORY AS MR-03 COCYCLE                  PROVED
-CURVED-BULK ASSOCIATOR INTERACTION                      PROVED
-NO SPURIOUS DOUBLE-DELTA TERM IN d alpha                PROVED
-TRANSVERSE TWO-SEAM JUNCTION BIANCHI LAW                PROVED
-TRANSVERSE THREE-SEAM T_123 COMPATIBILITY               PROVED
-T_123 != 0 REALIZABILITY OBSTRUCTION                    PROVED
-
-T_123 = 0 => GLOBAL RECONSTRUCTION                      NOT CLAIMED
-NONTRANSVERSE JUNCTIONS                                 OPEN
-QUADRUPLE / GENERAL HIGHER NORMAL-CROSSING HIERARCHY    OPEN
-GLOBAL POTENTIAL RECONSTRUCTION FROM CLOSED DATA        OPEN
-AUTOMATIC TOPOLOGICAL / MICROSCOPIC IDENTIFICATION      NOT CLAIMED
-ATOMIC / PERIODIC-TABLE / CHEMICAL-BOND CLAIMS          NOT PROMOTED
-DEVICE PERFORMANCE CLAIMS                               NOT PROMOTED
+FINITE TRANSVERSE NORMAL-CROSSING COMPLEX             PROVED
+D_DELTA^2 = 0                                         PROVED
+TOTAL STRATIFIED DIFFERENTIAL mathbb D^2 = 0          PROVED UNDER DECLARED COMMUTATION
+GENERAL NONREALIZABILITY GATE                         PROVED
+JUMP / TOTAL COHOMOLOGY                               DEFINED
+ACYCLICITY                                             NOT CLAIMED
+GLOBAL POTENTIAL RECONSTRUCTION                       NOT CLAIMED
+NONTRANSVERSE JUNCTION THEORY                         OPEN
+INFINITE / ACCUMULATING SEAM FAMILIES                 OPEN
+AUTOMATIC TOPOLOGICAL OR PHYSICAL IDENTIFICATION      NOT CLAIMED
+ATOMIC / CHEMICAL / DEVICE CLAIMS                     NOT PROMOTED
 ```
