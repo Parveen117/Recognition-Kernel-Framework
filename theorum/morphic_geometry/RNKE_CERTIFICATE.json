@@ -1,0 +1,207 @@
+{
+  "kind": "RNKE_MORPHIC_MANUSCRIPT_CERTIFICATE",
+  "manuscript": "morphic_geometry",
+  "title": "Morphic Operator Geometry",
+  "status": "RNKE_VERIFIED_WITH_OPEN_OBLIGATIONS",
+  "source_label": "Morphic operator geometry..tex",
+  "source_git_blob_sha1": "ebb8ef8c6fefdbcaaff8186cc3d470259dfbbb37",
+  "source_sha256": "c810ae640cab85ca9eda6927a3512421de74fefd316bb9f220b5231f8cd36cea",
+  "main_tex_sha256": "bb376c2e0ace5d531d8a99ba845897f54b75583b1b2e0df12802e59497799702",
+  "latex_build_pass": true,
+  "page_count": 20,
+  "claim_count": 22,
+  "axiom_count": 5,
+  "status_groups": {
+    "CERTIFIED_OR_CERTIFIED_AFTER_CORRECTION": 3,
+    "CONDITIONAL": 1,
+    "INCOMPLETE_OR_OVERBROAD": 11,
+    "META_GUARD": 1,
+    "REJECTED_AND_REPLACED": 1,
+    "REPLACED_BY_PROVED_OR_PRECISE_STATEMENT": 5
+  },
+  "claims": [
+    {
+      "index": 1,
+      "env": "theorem",
+      "title": "Rewrite Confluence ⇔ Vanishing Curvature",
+      "proof_present": true,
+      "rnke_status": "REPLACED_BY_DIAMOND_FLATNESS_THEOREM",
+      "verified_main_replacement": "Diamond Flatness from Coherent Class Holonomy"
+    },
+    {
+      "index": 2,
+      "env": "theorem",
+      "title": "Twist–Spectrum Correspondence",
+      "proof_present": true,
+      "rnke_status": "REPLACED_BY_UNITARY_TWIST_ISOSPECTRALITY_THEOREM",
+      "verified_main_replacement": "Unitary Twist Isospectrality"
+    },
+    {
+      "index": 3,
+      "env": "theorem",
+      "title": "Holonomy Accumulation",
+      "proof_present": true,
+      "rnke_status": "CERTIFIED_AFTER_SCALING_CORRECTION",
+      "verified_main_replacement": "Holonomy Accumulation — Corrected Scaling"
+    },
+    {
+      "index": 4,
+      "env": "theorem",
+      "title": "Collapse–Metric Compatibility",
+      "proof_present": true,
+      "rnke_status": "REPLACED_BY_QUOTIENT_SEMINORM_CRITERION",
+      "verified_main_replacement": "Quotient Spectral-Metric Criterion"
+    },
+    {
+      "index": 5,
+      "env": "theorem",
+      "title": "Heat Trace Rigidity",
+      "proof_present": true,
+      "rnke_status": "REPLACED_BY_HEAT_TRACE_ISOSPECTRALITY_WITH_BLINDNESS_BOUNDARY",
+      "verified_main_replacement": "Heat-Trace Isospectrality and the Blindness Boundary"
+    },
+    {
+      "index": 6,
+      "env": "theorem",
+      "title": "Stable Geometry Sector",
+      "proof_present": false,
+      "rnke_status": "INCOMPLETE_EXISTENCE_AND_REPRESENTATION_INDEPENDENCE",
+      "verified_main_replacement": null
+    },
+    {
+      "index": 7,
+      "env": "theorem",
+      "title": "Smooth-Manifold Reduction",
+      "proof_present": false,
+      "rnke_status": "CONDITIONAL_REQUIRES_DIRAC_LIPSCHITZ_HYPOTHESES",
+      "verified_main_replacement": null
+    },
+    {
+      "index": 8,
+      "env": "theorem",
+      "title": "Spectral Triple Emergence",
+      "proof_present": false,
+      "rnke_status": "INCOMPLETE_MISSING_COMPACT_RESOLVENT_OR_LOCAL_COMPACTNESS",
+      "verified_main_replacement": null
+    },
+    {
+      "index": 9,
+      "env": "theorem",
+      "title": "Entropy-Clock → Fisher Geometry",
+      "proof_present": false,
+      "rnke_status": "INCOMPLETE_REQUIRES_STATISTICAL_MODEL_HYPOTHESES",
+      "verified_main_replacement": null
+    },
+    {
+      "index": 10,
+      "env": "theorem",
+      "title": "Wasserstein Geometry Emergence",
+      "proof_present": false,
+      "rnke_status": "INCOMPLETE_REQUIRES_OPTIMAL_TRANSPORT_METRIC_STRUCTURE",
+      "verified_main_replacement": null
+    },
+    {
+      "index": 11,
+      "env": "theorem",
+      "title": "Graph Laplacian Reduction",
+      "proof_present": false,
+      "rnke_status": "CERTIFIED_AFTER_FINITE_SYMMETRIC_SECTOR_CORRECTION",
+      "verified_main_replacement": "Finite Symmetric Graph Reduction"
+    },
+    {
+      "index": 12,
+      "env": "theorem",
+      "title": "Kernel Geometry Reduction",
+      "proof_present": false,
+      "rnke_status": "INCOMPLETE_METRIC_IDENTIFICATION_NOT_AUTOMATIC",
+      "verified_main_replacement": null
+    },
+    {
+      "index": 13,
+      "env": "theorem",
+      "title": "Universal Geometry Theorem",
+      "proof_present": false,
+      "rnke_status": "INCOMPLETE_UNIVERSALITY_NOT_PROVED",
+      "verified_main_replacement": null
+    },
+    {
+      "index": 14,
+      "env": "theorem",
+      "title": "Flat Classification",
+      "proof_present": false,
+      "rnke_status": "INCOMPLETE_OR_FALSE_AS_STATED",
+      "verified_main_replacement": null
+    },
+    {
+      "index": 15,
+      "env": "theorem",
+      "title": "Curved Obstruction",
+      "proof_present": false,
+      "rnke_status": "INCOMPLETE_REQUIRES_REPRESENTATION_AND_SPECTRAL_FAITHFULNESS",
+      "verified_main_replacement": null
+    },
+    {
+      "index": 16,
+      "env": "theorem",
+      "title": "Rigidity Criterion",
+      "proof_present": false,
+      "rnke_status": "INCOMPLETE_INVARIANT_DETERMINACY_DOES_NOT_CONTROL_ALL_DEFORMATIONS",
+      "verified_main_replacement": null
+    },
+    {
+      "index": 17,
+      "env": "theorem",
+      "title": "Deformation Space",
+      "proof_present": false,
+      "rnke_status": "INCOMPLETE_H2_GIVES_CANDIDATES_NOT_UNOBSTRUCTED_MODULI",
+      "verified_main_replacement": null
+    },
+    {
+      "index": 18,
+      "env": "theorem",
+      "title": "Phase Separation",
+      "proof_present": false,
+      "rnke_status": "INCOMPLETE_WEAK_EQUIVALENCE_CAN_IGNORE_COLLAPSE_CLASS",
+      "verified_main_replacement": null
+    },
+    {
+      "index": 19,
+      "env": "theorem",
+      "title": "Spectral Completeness Window",
+      "proof_present": false,
+      "rnke_status": "REPLACED_BY_SPECTRAL_SIGNATURE_INJECTIVITY_CRITERION",
+      "verified_main_replacement": "Spectral Signature Injectivity Criterion"
+    },
+    {
+      "index": 20,
+      "env": "theorem",
+      "title": "Master Classification",
+      "proof_present": false,
+      "rnke_status": "CERTIFIED_PARTITION_ONLY_WEAK_EQUIVALENCE_INVARIANCE_OPEN",
+      "verified_main_replacement": null
+    },
+    {
+      "index": 21,
+      "env": "theorem",
+      "title": "No-Go",
+      "proof_present": false,
+      "rnke_status": "REJECTED_AND_REPLACED_BY_PATH_BLINDNESS_THEOREM",
+      "verified_main_replacement": "Spectral-Blind Curvature / Path-Memory Criterion"
+    },
+    {
+      "index": 22,
+      "env": "theorem",
+      "title": "Self-Consistency",
+      "proof_present": true,
+      "rnke_status": "META_GUARD_NOT_MATHEMATICAL_CONSISTENCY_PROOF",
+      "verified_main_replacement": null
+    }
+  ],
+  "native_terminology_preserved": true,
+  "formal_proof_assistant": false,
+  "full_manuscript_mathematical_certification": false,
+  "spectral_blindness_reconciled_with_mr02": true,
+  "cocycle_path_memory_compatible_with_mr03": true,
+  "proof_boundary": "corrected elementary operator statements + exact source/build/status contract; reduction, rigidity, universality and several representation claims remain open",
+  "certificate_sha256": "dc169404ab9dfe232d5fdd316b9e2fb17f19b0328c3cb610cbe54077b365ad46"
+}
