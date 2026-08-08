@@ -21,34 +21,69 @@ holonomy
 clock recovery as representation choice
 ```
 
-Verification may correct proof status or a source defect, but does not silently replace this language with application-specific terminology.
+Verification may correct proof status or a source defect, but it does not silently replace this language with application-specific terminology.
 
-## Source gate
+## Canonical source and verified publication copy
 
-Uploaded canonical source candidate:
+Uploaded canonical source:
 
 `Morphic calculus complete(1).tex`
+
+Exact source snapshot:
+
+`source_original.tex`
 
 Source SHA-256:
 
 `ccc376bd423bb7266f9d66c2fb163596d35373f92790666767d60a01d115ffc1`
 
-The untouched uploaded source remains provenance. A verified publication copy will be transferred here only after source-integrity, LaTeX, theorem-obligation, and RNKE certification gates are recorded.
+Audited publication copy:
 
-## Current status
+`main.tex`
+
+Verified `main.tex` SHA-256:
+
+`b8179549dc097417b10bde505c4025924c591702052fb1ef9b294d6077570c17`
+
+`source_original.tex` preserves the supplied manuscript as provenance. `main.tex` is the compile-clean, audited publication copy. The source vocabulary and the Śūnya/Cut/Morphisum/Recognition architecture are retained.
+
+## RNKE certification status
 
 ```text
-SOURCE IDENTIFIED                         PASS
-SOURCE HASH PINNED                       PASS
-NATIVE TERMINOLOGY PRESERVATION          REQUIRED
-RAW LATEX COMPILE                        FAIL
-FULL MATHEMATICAL CERTIFICATION          INCOMPLETE
-RNKE FULL-MANUSCRIPT CERTIFICATE         NOT YET ISSUED
-TRANSFER AS VERIFIED MAIN.TEX            BLOCKED UNTIL ABOVE GATES CLOSE
+SOURCE IDENTIFIED                                  PASS
+EXACT SOURCE SHA PINNED                            PASS
+EXACT SOURCE TRANSFERRED                           PASS
+NATIVE TERMINOLOGY PRESERVED                       PASS
+VERIFIED MAIN.TEX GENERATED                        PASS
+LATEX BUILD                                        PASS
+COMPILED PAGES                                     55
+CLAIM ENVIRONMENTS                                 12
+AXIOM ENVIRONMENTS                                  0
+RNKE STATUS                                        RNKE_VERIFIED_WITH_OPEN_OBLIGATIONS
+FULL MANUSCRIPT MATHEMATICAL CERTIFICATION         FALSE
+FORMAL PROOF-ASSISTANT CERTIFICATION               FALSE
 ```
 
-The current raw compile reaches the body and then fails on an unconfigured Unicode implication symbol `⇒`. This is a LaTeX source defect, not by itself a mathematical refutation.
+Claim-status ledger:
 
-The older flat-clock wording must also be audited carefully: loss of resolution of the selected clock is not automatically proof that the native transition/seam is zero.
+```text
+CERTIFIED_ALGEBRAIC                                 5
+CONDITIONAL_ON_DECLARED_REPRESENTATION              2
+INCOMPLETE_OR_OVERBROAD_IN_SOURCE                   4
+META_GUARD_NOT_MATHEMATICAL_CONSISTENCY_PROOF       1
+```
 
-See `CERTIFICATION_STATUS.md` for the gate record.
+RNKE certificate SHA-256:
+
+`36236e50b166c5c0ef13be3dc6c3fa4b56271bc0c45274440aea0b1b8d029c25`
+
+The verified publication copy also keeps an important hardened distinction from Recognition-Seam Calculus: a flat or singular clock is failure of that chosen rate presentation, not automatic proof that the underlying native transition or seam is zero. Broad foundational-closure and universality statements remain open unless separately proved.
+
+See:
+
+- `CERTIFICATION_STATUS.md` — compact gate state
+- `CERTIFICATION_SUMMARY.md` — build and claim-count summary
+- `RNKE_CERTIFICATE.json` — machine-readable theorem-status ledger
+- `PREPARE_MANIFEST.json` — source/materialization manifest
+- `source_original.tex` — untouched source provenance
+- `main.tex` — verified publication copy
