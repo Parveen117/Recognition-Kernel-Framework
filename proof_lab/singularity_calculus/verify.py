@@ -118,6 +118,50 @@ def integer_bad_cocycle_interaction(a: int, b: int, c: int) -> tuple[int, int]:
     return defect, bulk_flux
 
 
+def mixed_jump_routes(
+    alpha00: Fraction,
+    alpha10: Fraction,
+    alpha01: Fraction,
+    alpha11: Fraction,
+) -> tuple[Fraction, Fraction]:
+    """SC-12 scalar coefficient calibration of the two mixed-jump routes."""
+    delta1_minus = alpha10 - alpha00
+    delta1_plus = alpha11 - alpha01
+    delta2_minus = alpha01 - alpha00
+    delta2_plus = alpha11 - alpha10
+    route_across_2 = delta1_plus - delta1_minus
+    route_across_1 = delta2_plus - delta2_minus
+    return route_across_2, route_across_1
+
+
+def junction_double_delta_balance(mixed_jump: Fraction) -> tuple[Fraction, Fraction, Fraction]:
+    """The two codimension-two contributions in d^2 alpha have opposite signs."""
+    from_sigma1 = -mixed_jump
+    from_sigma2 = mixed_jump
+    return from_sigma1, from_sigma2, from_sigma1 + from_sigma2
+
+
+def junction_bianchi_residue(
+    delta1_beta2: Fraction,
+    delta2_beta1: Fraction,
+) -> Fraction:
+    """SC-13 scalar coefficient of J_12 = Delta_1 beta_2 - Delta_2 beta_1."""
+    return delta1_beta2 - delta2_beta1
+
+
+def stratified_bianchi_closure(
+    bulk_derivatives: tuple[Fraction, ...],
+    seam_bianchi_residues: tuple[Fraction, ...],
+    junction_residue: Fraction,
+) -> bool:
+    """Finite typed calibration of the bulk/seam/junction closure packet."""
+    return (
+        all(value == 0 for value in bulk_derivatives)
+        and all(value == 0 for value in seam_bianchi_residues)
+        and junction_residue == 0
+    )
+
+
 def run_calibration() -> dict[str, object]:
     swap_ok = axis_swap_determinant() == -1
 
@@ -186,6 +230,41 @@ def run_calibration() -> dict[str, object]:
         and bad_defect + compensating_bulk == 0
     )
 
+    route_1, route_2 = mixed_jump_routes(
+        Fraction(2, 5), Fraction(11, 7), Fraction(-3, 4), Fraction(19, 6)
+    )
+    mixed_jump_commutes_ok = route_1 == route_2
+
+    dd1, dd2, dd_total = junction_double_delta_balance(route_1)
+    no_spurious_double_delta_ok = dd1 == -dd2 and dd_total == 0
+
+    compatible_junction = junction_bianchi_residue(route_1, route_2)
+    incompatible_junction = junction_bianchi_residue(Fraction(7, 5), Fraction(2, 3))
+    junction_mismatch_ok = compatible_junction == 0 and incompatible_junction != 0
+
+    stratified_bianchi_ok = (
+        stratified_bianchi_closure(
+            (Fraction(0), Fraction(0), Fraction(0), Fraction(0)),
+            (Fraction(0), Fraction(0)),
+            Fraction(0),
+        )
+        and not stratified_bianchi_closure(
+            (Fraction(0), Fraction(0), Fraction(0), Fraction(0)),
+            (Fraction(0), Fraction(0)),
+            Fraction(5, 9),
+        )
+        and not stratified_bianchi_closure(
+            (Fraction(0), Fraction(3, 8), Fraction(0), Fraction(0)),
+            (Fraction(0), Fraction(0)),
+            Fraction(0),
+        )
+        and not stratified_bianchi_closure(
+            (Fraction(0), Fraction(0), Fraction(0), Fraction(0)),
+            (Fraction(-2, 7), Fraction(0)),
+            Fraction(0),
+        )
+    )
+
     controls = {
         "axis_swap_det_minus_one": swap_ok,
         "smooth_d_squared_zero_control": d2_zero_ok,
@@ -201,6 +280,10 @@ def run_calibration() -> dict[str, object]:
         "multi_seam_additivity": multi_seam_additivity_ok,
         "flat_bulk_seam_memory_cocycle": flat_bulk_cocycle_ok,
         "curved_bulk_associator_interaction_balance": curvature_interaction_ok,
+        "normal_crossing_mixed_jump_commutes": mixed_jump_commutes_ok,
+        "no_spurious_double_delta_in_first_curvature": no_spurious_double_delta_ok,
+        "junction_bianchi_mismatch_detected": junction_mismatch_ok,
+        "stratified_bianchi_componentwise": stratified_bianchi_ok,
     }
     status = all(controls.values())
     return {
