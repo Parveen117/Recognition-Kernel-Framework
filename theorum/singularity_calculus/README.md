@@ -1,162 +1,194 @@
 # Singularity Calculus
 
-This folder contains the certified mathematical core extracted from a conversation-supplied
-LaTeX draft on singularity, thermodynamics, topology, chemistry, and materials.
+This folder contains the certified mathematical core extracted from an audited source draft and then rebuilt as a theorem-grade Recognition layer.
 
-The source draft is **not** imported as a theorem manuscript. Several of its central claims
-are false or overbroad as written. The useful surviving structure is narrower and stronger:
+The raw source was **not** imported as a theorem manuscript. False or unsupported claims were rejected during audit. The retained development is a calculus of piecewise-smooth differential forms, Recognition seams, seam memory, multi-seam composition, and transverse junction compatibility.
+
+Current theory status:
+
+```text
+RNKE_VERIFIED_SINGULARITY_THEORY_V3_WITH_EXCLUSIONS
+```
+
+## Development chain
 
 ```text
 smooth process form
 -> bulk curvature d alpha
--> piecewise-smooth gluing across a seam
 -> seam-supported distributional curvature
 -> tangential jump residue
 -> Stokes memory
--> gauge-period memory
--> typed separation of regular and singular curvature
--> master closure theorem.
+-> gauge/period memory
+-> typed closure
+-> finite multi-seam additivity
+-> seam-memory cocycle / bulk interaction
+-> transverse normal-crossing compatibility
+-> stratified Bianchi junction residue.
 ```
-
-The resulting object is a calculus of **piecewise-smooth differential forms with
-Recognition seams**, not a claim that a smooth coordinate swap itself creates a
-singularity.
-
-The integrated theory statement is in `VERIFIED_THEORY.md`.
 
 ## Certified theorem chain
 
 1. `01_orientation_reversal_no_singularity.md`
-   proves that the smooth swap `(T,V) -> (V,T)` has determinant `-1`, not `0`,
-   and that smooth orientation reversal alone does not create a singular curvature
-   current.
+   - smooth `(T,V)->(V,T)` has determinant `-1`, not `0`;
+   - orientation reversal alone does not create a singular current.
 
 2. `02_process_form_curvature_and_maxwell_defect.md`
-   replaces the invalid formula `d(d Phi) != 0` by a lawful process 1-form
-   curvature `Omega = d alpha`. In the enthalpy chart
-   `alpha = T dS + V dP`, the coefficient is the Maxwell defect
-   `partial_P T - partial_S V`.
+   - rejects nonzero `d(d Phi)` for smooth scalar `Phi`;
+   - defines lawful process-form curvature `Omega=d alpha`;
+   - proves the Maxwell-defect coefficient in the enthalpy chart.
 
 3. `03_distributional_seam_curvature.md`
-   proves the jump formula for a piecewise-smooth 1-form across a regular
-   hypersurface:
-   \[
-   d\alpha
-   =
-   d\alpha_- + H(\rho)(d\alpha_+-d\alpha_-)
-   +\delta(\rho)d\rho\wedge(\alpha_+-\alpha_-).
-   \]
+   - proves
+     \[
+     d\alpha=(1-H)d\alpha_-+Hd\alpha_+
+     +\delta(\rho)d\rho\wedge(\alpha_+-\alpha_-).
+     \]
 
 4. `04_tangential_jump_removability_and_gauge.md`
-   proves that the seam-supported curvature vanishes exactly when the tangential
-   jump of the process form vanishes, and proves invariance under gauge changes whose
-   traces agree on the seam.
+   - seam curvature vanishes exactly when the tangential jump vanishes;
+   - coherent side-gauge changes preserve the seam residue.
 
 5. `05_seam_stokes_memory.md`
-   proves that the seam residue contributes an exact Stokes term. When both bulk
-   sectors are flat, closed-loop memory can be entirely seam-supported.
+   - proves the Stokes formula with an explicit seam-memory term;
+   - flat bulk can still retain nonzero seam memory.
 
 6. `06_regular_singular_typed_non_cancellation.md`
-   proves that absolutely-continuous bulk curvature and hypersurface-supported
-   seam curvature are mutually singular measure channels and therefore cannot
-   legitimately cancel each other into a single zero residue.
+   - bulk and seam curvature occupy mutually singular measure channels;
+   - scalar cancellation is not typed closure.
 
 7. `07_piecewise_enthalpy_seam_law.md`
-   specializes the distributional formula to
-   \[
-   \alpha_\pm=T_\pm\,dS+V_\pm\,dP,
-   \]
-   separating ordinary Maxwell defect from a singular seam jump.
+   - separates smooth Maxwell defects from interface-supported seam curvature.
 
 8. `08_seam_gauge_class_and_period_memory.md`
-   proves that the seam residue is invariant modulo exact seam forms under
-   independent side-gauge changes and that all closed-cycle seam periods are
-   gauge invariant. If the residue is closed, it defines a de Rham class.
+   - proves the gauge class
+     \[
+     [R_\Sigma]\in\Omega^1(\Sigma)/d_\Sigma\Omega^0(\Sigma);
+     \]
+   - closed-cycle seam periods are gauge invariant.
 
 9. `09_master_singularity_closure_theorem.md`
-   proves the complete closure criterion
-   \[
-   d\alpha=0
-   \iff
-   d\alpha_-=0,\quad d\alpha_+=0,\quad R_\Sigma=0.
-   \]
-   This is the master theorem of the current theory layer.
+   - proves
+     \[
+     d\alpha=0
+     \iff
+     (\Omega_-,\Omega_+,R_\Sigma)=(0,0,0).
+     \]
 
-## Verified theory layer
+10. `10_finite_multi_seam_additivity_and_closure.md`
+    - finite pairwise-disjoint seams contribute additively;
+    - multi-seam closure is componentwise.
 
-`VERIFIED_THEORY.md` integrates SC-01 through SC-09 into the single typed closure packet
+11. `11_seam_filler_cocycle_and_curvature_interaction.md`
+    - seam filler memory has cocycle defect
+      \[
+      \delta\omega_\Sigma=-\mathcal B_{\rm associator};
+      \]
+    - flat bulk gives an MR-03 cocycle;
+    - curved bulk produces an explicit typed interaction channel.
+
+12. `12_normal_crossing_no_spurious_double_delta.md`
+    - for two transverse seams, the two mixed-jump routes agree;
+    - `d alpha` contains no independent `delta(rho1)delta(rho2)` term;
+    - potential codimension-two terms cancel in `d^2 alpha`.
+
+13. `13_stratified_bianchi_junction_residue.md`
+    - for independently declared stratified curvature data, defines
+      \[
+      J_{12}=\Delta_1\beta_2-\Delta_2\beta_1;
+      \]
+    - proves the bulk/seam/junction Bianchi decomposition and componentwise closure law.
+
+## Theory documents
+
+- `VERIFIED_THEORY.md` — SC-01 through SC-09 integrated single-seam theory.
+- `VERIFIED_THEORY_MULTI_SEAM_EXTENSION.md` — SC-10/SC-11 multi-seam composition extension.
+- `VERIFIED_THEORY_JUNCTION_EXTENSION.md` — SC-12/SC-13 transverse junction extension.
+
+Certificates and status files are versioned rather than silently overwritten:
+
+- `THEORY_CERTIFICATE.json`, `THEORY_STATUS.md`
+- `THEORY_CERTIFICATE_V2.json`, `THEORY_STATUS_V2.md`
+- `THEORY_CERTIFICATE_V3.json`, `THEORY_STATUS_V3.md`
+
+## Central closure packets
+
+Single seam:
 
 \[
 \boxed{
-\mathfrak C_{\rm sing}
-=
-(\Omega_-,\Omega_+,R_\Sigma).
+\mathfrak C_{\rm sing}=(\Omega_-,\Omega_+,R_\Sigma).
 }
 \]
 
-The theory declares complete closure exactly when
+Finite disjoint seams:
 
 \[
 \boxed{
-\mathfrak C_{\rm sing}=0.
+\mathfrak C_{\rm multi}
+=(\Omega_0,\ldots,\Omega_m;R_1,\ldots,R_m).
 }
 \]
 
-## Interface to the existing framework
+Transverse two-seam Bianchi hierarchy:
 
-This folder does not replace:
+\[
+\boxed{
+\mathfrak B_{\rm strat}
+=(d\Omega_{\rm bulk};B_1,B_2;J_{12}).
+}
+\]
 
-- `theorum/24_clock_free_recognition_seam_cut_calculus.md`, which gives the
-  clock-free transition calculus and composition residues;
-- `theorum/recognition_topology/`, which proves winding-sector stability,
-  holonomy variation, branch-memory blindness, and phase-crossing results;
-- `theorum/thermodynamics/02_curvature_to_seam_spectral_flow.md`, which gives
-  the operator threshold/spectral-flow interface once an operator representation is supplied.
+Each packet closes only componentwise.
 
-The new layer contributes something those folders did not yet isolate explicitly:
-**distributional curvature generated by non-smooth seam gluing**, together with its
-removability, gauge-period memory, and complete typed closure criterion.
+## Interface to the Recognition Framework
 
-## Important separation from Recognition Topology
+This folder complements rather than replaces:
 
-A singularity-calculus seam and a topological sector transition are not automatically
-the same event.
+- `theorum/24_clock_free_recognition_seam_cut_calculus.md` for clock-free transition calculus;
+- `theorum/morphic_recognition/` for typed non-cancellation, blindness, and MR-03 cocycle memory;
+- `theorum/recognition_topology/` for winding, holonomy, branch memory, and topological seam events;
+- `theorum/thermodynamics/02_curvature_to_seam_spectral_flow.md` for the operator threshold interface once an operator representation is supplied.
+
+Important separations remain:
 
 ```text
-distributional jump of a process 1-form
-    does not by itself imply
-change of winding number.
-
-change of winding number
-    still requires
-exit from the admitted nonvanishing/gapped phase carrier.
+singular seam current != automatic topological transition
+junction residue       != automatic physical defect
+curvature threshold    != automatic winding jump
 ```
 
-A domain adapter may prove that the two events coincide in a particular physical
-model. That identification is not built into the abstract calculus.
+A domain adapter must prove any such identification.
+
+## Current verification
+
+The SC-12/SC-13 theorem head passed:
+
+```text
+19/19 unit tests
+18 exact calibration controls
+Python 3.11
+Python 3.12
+GitHub Actions run 31259516097
+```
 
 ## Claim boundary
 
 ```text
-SMOOTH AXIS SWAP HAS DET = -1                         PROVED
-SMOOTH ORIENTATION REVERSAL ALONE CREATES SINGULARITY REJECTED
-d(d Phi) != 0 FOR SMOOTH Phi                          REJECTED
-PROCESS-FORM CURVATURE Omega = d alpha                PROVED
-MAXWELL DEFECT COEFFICIENT                            PROVED
-DISTRIBUTIONAL SEAM-JUMP CURVATURE                    PROVED
-TANGENTIAL-JUMP REMOVABILITY                          PROVED
-COHERENT-GAUGE SEAM RESIDUE INVARIANCE                PROVED
-GAUGE CLASS MODULO EXACT SEAM FORMS                   PROVED
-CLOSED-CYCLE SEAM PERIOD INVARIANCE                   PROVED
-SEAM STOKES MEMORY                                    PROVED
-REGULAR/SINGULAR TYPED NON-CANCELLATION               PROVED
-PIECEWISE ENTHALPY SEAM LAW                           PROVED
-MASTER DISTRIBUTIONAL CLOSURE CRITERION                PROVED
+SMOOTH ORIENTATION REVERSAL AS SINGULARITY             REJECTED
+NONZERO d(d Phi) FOR SMOOTH Phi                        REJECTED
+PROCESS-FORM / DISTRIBUTIONAL SEAM CURVATURE            PROVED
+GAUGE-PERIOD SEAM MEMORY                                PROVED
+SINGLE-SEAM MASTER CLOSURE                              PROVED
+FINITE DISJOINT MULTI-SEAM ADDITIVITY                   PROVED
+FLAT-BULK SEAM MEMORY AS MR-03 COCYCLE                  PROVED
+CURVED-BULK ASSOCIATOR INTERACTION                      PROVED
+NO SPURIOUS DOUBLE-DELTA TERM IN d alpha                PROVED
+TRANSVERSE TWO-SEAM JUNCTION BIANCHI LAW                PROVED
 
-GENERALIZED ONSAGER FORMULA FROM SOURCE               NOT PROMOTED
-CLOCK-DEPENDENT SEAM ANGLE RATE AS NATIVE DERIVATIVE  NOT PROMOTED
-CURVATURE THRESHOLD => TOPOLOGICAL JUMP               NOT PROMOTED
-ATOMIC/PERIODIC-TABLE DERIVATIONS                     NOT PROMOTED
-CHEMICAL-BOND/VALENCE THEOREMS                        NOT PROMOTED
-DEVICE PERFORMANCE CLAIMS                             NOT PROMOTED
+NONTRANSVERSE JUNCTIONS                                 OPEN
+TRIPLE/HIGHER NORMAL-CROSSING JUNCTION HIERARCHY        OPEN
+GLOBAL POTENTIAL RECONSTRUCTION FROM CLOSED DATA        OPEN
+AUTOMATIC TOPOLOGICAL / MICROSCOPIC IDENTIFICATION      NOT CLAIMED
+ATOMIC / PERIODIC-TABLE / CHEMICAL-BOND CLAIMS          NOT PROMOTED
+DEVICE PERFORMANCE CLAIMS                               NOT PROMOTED
 ```
