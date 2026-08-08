@@ -1,7 +1,7 @@
 # Singularity Calculus Theory v5 — General Normal-Crossing Complex
 
 ```text
-STATUS: CANDIDATE_PENDING_CI
+STATUS: CANDIDATE_REMOTE_CI_RUNNING
 ```
 
 The v5 extension adds:
