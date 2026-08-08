@@ -1,0 +1,109 @@
+{
+  "kind": "RNKE_MORPHIC_MANUSCRIPT_CERTIFICATE",
+  "manuscript": "morphic_calculus",
+  "status": "RNKE_VERIFIED_WITH_OPEN_OBLIGATIONS",
+  "source_label": "Morphic calculus complete(1).tex",
+  "source_sha256": "ccc376bd423bb7266f9d66c2fb163596d35373f92790666767d60a01d115ffc1",
+  "main_tex_sha256": "b8179549dc097417b10bde505c4025924c591702052fb1ef9b294d6077570c17",
+  "latex_build_pass": true,
+  "page_count": 55,
+  "claim_count": 12,
+  "axiom_count": 0,
+  "status_counts": {
+    "CERTIFIED_ALGEBRAIC": 5,
+    "CONDITIONAL_ON_DECLARED_REPRESENTATION": 2,
+    "INCOMPLETE_OR_OVERBROAD_IN_SOURCE": 4,
+    "META_GUARD_NOT_MATHEMATICAL_CONSISTENCY_PROOF": 1
+  },
+  "claims": [
+    {
+      "index": 1,
+      "env": "theorem",
+      "title": "Holonomy Factorization",
+      "proof_present": true,
+      "rnke_status": "CERTIFIED_ALGEBRAIC"
+    },
+    {
+      "index": 2,
+      "env": "theorem",
+      "title": "Gauge-Invariance",
+      "proof_present": true,
+      "rnke_status": "CERTIFIED_ALGEBRAIC"
+    },
+    {
+      "index": 3,
+      "env": "theorem",
+      "title": "",
+      "proof_present": true,
+      "rnke_status": "CERTIFIED_ALGEBRAIC"
+    },
+    {
+      "index": 4,
+      "env": "theorem",
+      "title": "",
+      "proof_present": true,
+      "rnke_status": "CERTIFIED_ALGEBRAIC"
+    },
+    {
+      "index": 5,
+      "env": "theorem",
+      "title": "",
+      "proof_present": true,
+      "rnke_status": "CERTIFIED_ALGEBRAIC"
+    },
+    {
+      "index": 6,
+      "env": "theorem",
+      "title": "",
+      "proof_present": false,
+      "rnke_status": "CONDITIONAL_ON_DECLARED_REPRESENTATION"
+    },
+    {
+      "index": 7,
+      "env": "theorem",
+      "title": "",
+      "proof_present": false,
+      "rnke_status": "INCOMPLETE_OR_OVERBROAD_IN_SOURCE"
+    },
+    {
+      "index": 8,
+      "env": "theorem",
+      "title": "",
+      "proof_present": false,
+      "rnke_status": "INCOMPLETE_OR_OVERBROAD_IN_SOURCE"
+    },
+    {
+      "index": 9,
+      "env": "theorem",
+      "title": "FTC as Representation Theorem",
+      "proof_present": false,
+      "rnke_status": "CONDITIONAL_ON_DECLARED_REPRESENTATION"
+    },
+    {
+      "index": 10,
+      "env": "theorem",
+      "title": "Foundational Closure",
+      "proof_present": false,
+      "rnke_status": "INCOMPLETE_OR_OVERBROAD_IN_SOURCE"
+    },
+    {
+      "index": 11,
+      "env": "theorem",
+      "title": "Complete Universality",
+      "proof_present": false,
+      "rnke_status": "INCOMPLETE_OR_OVERBROAD_IN_SOURCE"
+    },
+    {
+      "index": 12,
+      "env": "theorem",
+      "title": "Self-Consistency",
+      "proof_present": true,
+      "rnke_status": "META_GUARD_NOT_MATHEMATICAL_CONSISTENCY_PROOF"
+    }
+  ],
+  "native_terminology_preserved": true,
+  "formal_proof_assistant": false,
+  "full_manuscript_mathematical_certification": false,
+  "proof_boundary": "algebraic proofs + explicit conditional/open obligations; RNKE verifies source/build/status contracts and exact negative controls, not all historical universality claims",
+  "certificate_sha256": "36236e50b166c5c0ef13be3dc6c3fa4b56271bc0c45274440aea0b1b8d029c25"
+}

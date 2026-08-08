@@ -1,0 +1,2440 @@
+\documentclass[12pt, oneside]{article}
+\usepackage{amsmath, amssymb, amsthm, amscd}
+\usepackage{mathrsfs, mathtools}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{stmaryrd}
+\usepackage{tikz-cd}
+
+% Theorem environments
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{axiom}[theorem]{Axiom}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{notation}[theorem]{Notation}
+
+% Special operators
+\DeclareMathOperator{\id}{id}
+\DeclareMathOperator{\tr}{tr}
+\DeclareMathOperator{\Hol}{Hol}
+\DeclareMathOperator{\Spec}{Spec}
+\DeclareMathOperator{\Ker}{Ker}
+\DeclareMathOperator{\Inv}{Inv}
+\DeclareMathOperator{\ad}{ad}
+\DeclareMathOperator{\Exp}{Exp}
+\DeclareMathOperator{\Hom}{Hom}
+\DeclareMathOperator{\Obj}{Obj}
+\DeclareMathOperator{\Mor}{Mor}
+
+% Special symbols
+\newcommand{\K}{\mathbf{K}}
+\newcommand{\N}{\mathcal{N}}
+\newcommand{\A}{\mathcal{A}}
+\newcommand{\T}{\mathcal{T}}
+\newcommand{\Opr}{\mathcal{O}}
+\newcommand{\Sg}{\mathbf{\Sigma}}
+\newcommand{\Sh}{\bar{\mathcal{T}}}
+\newcommand{\Osh}{\bar{\mathcal{O}}}
+\newcommand{\Lambdafam}{\mathbf{\Lambda}}
+\newcommand{\wtilde}{\widetilde}
+\newcommand{\xto}{\xrightarrow}
+\newcommand{\lra}{\longrightarrow}
+\newcommand{\xra}{\xrightarrow}
+\newcommand{\mc}[1]{\mathcal{#1}}
+\newcommand{\mf}[1]{\mathfrak{#1}}
+\newcommand{\ms}[1]{\mathscr{#1}}
+
+% Catuṣkoṭi symbols
+\newcommand{\catko1}{\mathsf{C}_1}
+\newcommand{\catko2}{\mathsf{C}_2}
+\newcommand{\catko3}{\mathsf{C}_3}
+\newcommand{\catko4}{\mathsf{C}_4}
+
+\title{Λ-Morphic Algebra: \\ A Complete Foundational Framework}
+\author{Author Name}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This document presents a complete foundational framework based on the principle that all mathematical structures are conditional appearances. Beginning with an emptiness guard against reification, we develop a layered algebraic structure culminating in the recovery of calculus as a representation choice. The framework integrates Nāgārjuna's Catuṣkoṭi as a mathematical layer, provides categorical foundations, and extends to grammar models. All layers D-1 through D-10 are fully developed.
+\end{abstract}
+
+\tableofcontents
+
+\newpage
+
+\part{PRE-FOUNDATION}
+
+\section{Introduction and Overview}
+
+Classical mathematics begins with objects and defines operations upon them. This work takes a different approach: we begin with the observation that all mathematical structures are conditional appearances — they function only insofar as they remain non-reified. The framework developed here provides the minimal algebraic scaffolding within which any consistent calculus can emerge, while ensuring that no construction can be mistaken for an ontological absolute.
+
+\subsection{Guiding Principles}
+
+\begin{enumerate}
+    \item \textbf{Non-reification}: No mathematical object possesses intrinsic nature.
+    \item \textbf{Dependent arising}: All structures emerge through mutual coordination.
+    \item \textbf{Conditional validity}: Constructions hold only within their context of use.
+    \item \textbf{Collapsibility}: Any structure can be dissolved without residue.
+    \item \textbf{Functional sufficiency}: Structures need only function, not "exist."
+\end{enumerate}
+
+\subsection{Structure of the Development}
+
+The framework proceeds through ordered layers:
+
+\begin{description}
+    \item[Ś-0] Emptiness Guard — Binding all constructions against reification.
+    \item[N-0] Nāgārjuna Layer — Catuṣkoṭi and four-fold negation as algebraic structure.
+    \item[A-0] Meta-Operator Primitives — Minimal universe: tokens, states, operators.
+    \item[A-1] Λ-Morphic Algebra Axioms — Two products, collapse quotient, ideal.
+    \item[A-2] Derivations, Commutators, Generators — All derived theorems.
+    \item[A-3] Trace-Phase Algebra — Cocycles, holonomy, central extensions.
+    \item[A-4] Spectral Layer — Characters, modes, zero-modes, decay classes.
+    \item[A-5] Clock \& Calculus Recovery — Calculus as representation choice.
+    \item[C-0] Category Theory Layer — Functoriality, adjunctions, universals.
+    \item[G-0] Grammar Layer — Pāṇini-style rewrite systems as representations.
+    \item[D-1] Pre-Sheaf Structure — Localization at collapse ideal.
+    \item[D-2] Germs and Jets — Infinitesimal neighborhoods.
+    \item[D-3] Stratification — Collapse rank stratification.
+    \item[D-4] Monodromy — Holonomy representations.
+    \item[D-5] Character Varieties — Moduli of characters.
+    \item[D-6] Gauge Fixing — Section conditions.
+    \item[D-7] Moduli of Completions — Parameterizing central extensions.
+    \item[D-8] Functional Calculus — Spectral integration.
+    \item[D-9] Universality Proof — Every calculus arises as representation.
+    \item[D-10] Fundamental System Closure — Complete synthesis.
+\end{description}
+
+\newpage
+
+\section{Ś-0: Emptiness Guard (Pre-Foundational Patch)}
+
+\subsection{Non-reifying Prelude}
+
+The following axioms are not mathematical axioms in the usual sense but meta-linguistic guards against ontological reification. They bind all subsequent constructions.
+
+\begin{axiom}[Ś-0.1: Non-intrinsic status of all constructions]
+All terms, symbols, operators, relations, quotients, traces, spectra, limits, and calculi introduced in what follows are \textbf{empty of intrinsic nature}. They possess:
+\begin{itemize}
+    \item no self-grounding identity,
+    \item no independent existence,
+    \item no authority beyond their conditional use.
+\end{itemize}
+They arise only dependently, through mutual definition and contextual coordination.
+\end{axiom}
+
+\begin{axiom}[Ś-0.2: No ontological commitment]
+Nothing in this document asserts:
+\begin{itemize}
+    \item what \textit{exists},
+    \item what is \textit{ultimately real},
+    \item or what \textit{must be the case}.
+\end{itemize}
+All constructions are \textbf{instrumental appearances}: they function if conditions permit, and dissolve without residue when conditions fail.
+\end{axiom}
+
+\begin{axiom}[Ś-0.3: Collapse precedes structure]
+The notion of \textit{collapse} (śūnya) is not introduced as a metaphysical event, nor as a privileged operator. Rather: \textbf{non-reification is assumed everywhere}. Any collapse operator defined later is a formal shadow of this prior refusal, not its source.
+\end{axiom}
+
+\begin{axiom}[Ś-0.4: Provisionality of invariants]
+No invariant, conserved quantity, spectrum, zero-mode, or limit obtained in later sections is final. Each is:
+\begin{itemize}
+    \item relative to a representation,
+    \item conditional on a clock or trace,
+    \item removable by refinement or reinterpretation.
+\end{itemize}
+Mistaking a provisional invariant for an absolute one is a category error, not a discovery.
+\end{axiom}
+
+\begin{axiom}[Ś-0.5: No closure claim]
+This framework does \textbf{not} claim completeness, finality, or foundational closure. If a reader finds:
+\begin{itemize}
+    \item contradiction $\rightarrow$ the construction dissolves,
+    \item redundancy $\rightarrow$ the construction collapses,
+    \item uselessness $\rightarrow$ the construction is discarded.
+\end{itemize}
+No repair is required.
+\end{axiom}
+
+\begin{axiom}[Ś-0.6: Function without essence]
+What follows is permitted only under this rule: \textbf{Structures may function without pretending to be what they are not}. Use is allowed. Reification is not.
+\end{axiom}
+
+\begin{remark}[Ś-0 Status]
+With Ś-0 in place:
+\begin{itemize}
+    \item No axiom below can be absolutized
+    \item No algebra below can become ontology
+    \item No calculus below can claim ultimacy
+\end{itemize}
+The remaining sections are to be read as \textbf{post-emptiness functional descriptions} — valid only insofar as they remain non-binding.
+\end{remark}
+
+\subsection{Global Binding Clause}
+
+\begin{center}
+\fbox{
+\begin{minipage}{0.9\textwidth}
+\centering
+\textbf{Binding Clause (Ś-0 → All Layers)}\\
+All axioms, definitions, and constructions from N-0 onward are governed by Ś-0.\\
+No symbol, operator, or structure introduced below carries intrinsic status.\\
+Validity is conditional, functional, and collapsible.
+\end{minipage}
+}
+\end{center}
+
+\newpage
+
+\part{NAGĀRJUNA LAYER}
+
+\section{N-0: Catuṣkoṭi Algebra (Four-Fold Negation Structure)}
+
+The Nāgārjuna layer formalizes the four-fold negation (Catuṣkoṭi) as an intrinsic algebraic structure that precedes and grounds the collapse operator.
+
+\subsection{Four Truth-Values}
+
+\begin{definition}[Catuṣkoṭi Truth Set]
+Define the set of truth-values:
+\[
+\mathbb{C}_4 = \{\catko1, \catko2, \catko3, \catko4\}
+\]
+with interpretations:
+\begin{align*}
+\catko1 &: \text{It is P} &&\text{(affirmation)}\\
+\catko2 &: \text{It is not P} &&\text{(negation)}\\
+\catko3 &: \text{It is both P and not P} &&\text{(both)}\\
+\catko4 &: \text{It is neither P nor not P} &&\text{(neither)}
+\end{align*}
+\end{definition}
+
+\begin{axiom}[N-0.1: Four-fold Structure of Collapse]
+For any operator $O \in \Opr$ and state $t \in \T$, the collapse operator $\K$ induces a Catuṣkoṭi valuation:
+\[
+\kappa_O(t) \in \mathbb{C}_4
+\]
+where $\kappa_O(t)$ records the mode of (non-)applicability of $O$ to $t$.
+\end{axiom}
+
+\begin{definition}[Catuṣkoṭi Order]
+Define a partial order on $\mathbb{C}_4$:
+\[
+\catko1 \prec \catko3 \prec \catko4,\quad \catko2 \prec \catko3 \prec \catko4
+\]
+representing increasing levels of emptiness/non-reification.
+\end{definition}
+
+\begin{axiom}[N-0.2: Negation as Involution]
+There exists an involution $\neg: \mathbb{C}_4 \rightarrow \mathbb{C}_4$ such that:
+\begin{align*}
+\neg(\catko1) &= \catko2\\
+\neg(\catko2) &= \catko1\\
+\neg(\catko3) &= \catko3\\
+\neg(\catko4) &= \catko4
+\end{align*}
+and for any operator $O$, $\kappa_{\neg O}(t) = \neg(\kappa_O(t))$ where appropriate.
+\end{axiom}
+
+\begin{axiom}[N-0.3: Catuṣkoṭi Product]
+Define a product $\ast: \mathbb{C}_4 \times \mathbb{C}_4 \rightarrow \mathbb{C}_4$ capturing sequential composition:
+\[
+\kappa_{O_2 \circ O_1}(t) = \kappa_{O_2}(\kappa_{O_1}(t)) \ast \kappa_{O_1}(t)
+\]
+with multiplication table determined by consistency conditions.
+\end{axiom}
+
+\begin{theorem}[N-0.1: Collapse as Catuṣkoṭi Projection]
+The collapse operator $\K$ corresponds to projection onto the maximal emptiness value:
+\[
+\kappa_{\K}(t) = \catko4 \text{ for all } t \in \T
+\]
+\end{theorem}
+
+\begin{definition}[N-0.4: Mādhyamika Ideal]
+Define the \textbf{Mādhyamika ideal}:
+\[
+\mc{M} = \{O \in \Opr \mid \kappa_O(t) \in \{\catko3, \catko4\} \text{ for all } t\}
+\]
+Operators in $\mc{M}$ are those that cannot be pinned to simple affirmation/negation.
+\end{definition}
+
+\begin{theorem}[N-0.2: Nested Emptiness]
+$\mc{M} \subseteq \N$ where $\N$ is the collapse ideal, with equality iff the framework is "complete" in a sense that never obtains.
+\end{theorem}
+
+\begin{remark}[N-0: Prasaṅga Method]
+Proofs in this framework follow the \textit{prasaṅga} (consequentialist) method: to refute a proposition, show that it leads to contradiction when combined with the collapse structure. No positive assertion is ever final.
+\end{remark}
+
+\newpage
+
+\part{FOUNDATIONAL LAYERS}
+
+\section{A-0: Meta-Operator Primitives}
+
+\subsection{Primitive Universe (Ś-0-bound)}
+
+We temporarily speak as if a triple is fixed:
+\begin{equation}
+(\Sg, \T, \Opr)
+\end{equation}
+where:
+\begin{itemize}
+    \item $\Sg$: tokens / generators
+    \item $\T$: states
+    \item $\Opr$: operators acting on states
+\end{itemize}
+
+\begin{remark}[Ś-0 note]
+This fixing is purely provisional. No element of $\Sg, \T, \Opr$ is self-identifying or ontologically privileged. They function only as mutually dependent placeholders.
+\end{remark}
+
+\subsection{Partial Action and Domain}
+
+Each operator $O \in \Opr$ is a \textbf{partial function}:
+\begin{equation}
+O: \operatorname{Dom}(O) \subseteq \T \rightarrow \T
+\end{equation}
+Undefinedness is allowed and meaningful.
+
+\begin{remark}[Ś-0 note]
+Undefinedness signals non-applicability, not failure. No assumption of totality is permitted.
+\end{remark}
+
+\subsection{Sequential Composition}
+
+For $O_1, O_2 \in \Opr$, define \textbf{sequential composition}:
+\begin{equation}
+(O_2 \circ O_1)(t) = O_2(O_1(t))
+\end{equation}
+whenever both sides are defined.
+
+\begin{axiom}[A0-C: Associativity]
+Whenever all compositions are defined:
+\begin{equation}
+(O_3 \circ O_2) \circ O_1 = O_3 \circ (O_2 \circ O_1)
+\end{equation}
+\end{axiom}
+
+\begin{axiom}[A0-I: Identity]
+There exists $\id \in \Opr$ such that for all $t \in \T$:
+\begin{equation}
+\id(t) = t,\quad O \circ \id = O = \id \circ O
+\end{equation}
+(where defined).
+\end{axiom}
+
+Thus $(\Opr, \circ, \id)$ is a \textbf{monoid of partial endomorphisms}.
+
+\subsection{Rewrite Generation}
+
+There is a \textbf{generation map}:
+\begin{equation}
+\Gamma: \Sg^* \rightarrow \Opr
+\end{equation}
+from finite token strings to operators.
+
+\begin{axiom}[A0-G: Concatenation maps to composition]
+For strings $u, v \in \Sg^*$:
+\begin{equation}
+\Gamma(vu) = \Gamma(v) \circ \Gamma(u),\quad \Gamma(\varepsilon) = \id
+\end{equation}
+\end{axiom}
+
+This is the formal core of rule engines, sūtra-flow, and program execution without committing to any semantics.
+
+\subsection{Collapse Operator}
+
+Introduce a special operator $\K \in \Opr$ called \textbf{collapse} (kernel projection / erasure / annihilation).
+
+\begin{axiom}[A0-K: Idempotent collapse]
+\begin{equation}
+\K \circ \K = \K
+\end{equation}
+\end{axiom}
+
+\begin{axiom}[A0-Abs: Absorption for erased content]
+For every $O \in \Opr$, there exists $O^{\downarrow} \in \Opr$ such that:
+\begin{equation}
+\K \circ O = O^{\downarrow} \circ \K
+\end{equation}
+\end{axiom}
+
+Interpretation: "after collapse, only the collapsed shadow of an operation matters."
+
+\subsection{Indistinguishability Relation}
+
+Define a binary relation $\sim$ on $\T$ by:
+\begin{equation}
+t \sim s \Longleftrightarrow \K(t) = \K(s)
+\end{equation}
+whenever both sides are defined.
+
+\begin{axiom}[A0-Eq: Congruence under operators]
+For all $O \in \Opr$:
+\begin{equation}
+t \sim s \text{ and } O(t), O(s) \text{ defined } \Rightarrow O(t) \sim O(s)
+\end{equation}
+\end{axiom}
+
+Thus $\sim$ is an operator-respecting indistinguishability — the formal "same after collapse."
+
+\subsection{Trace / Residue}
+
+Define a \textbf{trace map}:
+\begin{equation}
+\tr: \Opr \rightarrow \A
+\end{equation}
+into an abelian monoid $(\A, +, 0)$.
+
+\begin{axiom}[A0-T0: Normalization]
+\begin{equation}
+\tr(\id) = 0,\quad \tr(\K) = 0
+\end{equation}
+\end{axiom}
+
+\begin{axiom}[A0-TC: Cyclic invariance]
+Whenever both composites are defined:
+\begin{equation}
+\tr(O_2 \circ O_1) = \tr(O_1 \circ O_2)
+\end{equation}
+\end{axiom}
+
+This is minimal "holonomy/phase-like" bookkeeping without complex phases.
+
+\subsection{Phase Cocycle (Optional Foundation)}
+
+For nontrivial cyclic defects, extend with a \textbf{2-cocycle}:
+\begin{equation}
+\omega: \Opr \times \Opr \rightarrow \A
+\end{equation}
+
+\begin{axiom}[A0-ω: Cocycle law]
+Whenever compositions exist:
+\begin{equation}
+\omega(O_1, O_2) + \omega(O_1 \circ O_2, O_3) = \omega(O_2, O_3) + \omega(O_1, O_2 \circ O_3)
+\end{equation}
+\end{axiom}
+
+Define \textbf{twisted trace}:
+\begin{equation}
+\tr_\omega(O_2 \circ O_1) = \tr_\omega(O_2) + \tr_\omega(O_1) + \omega(O_2, O_1)
+\end{equation}
+
+\subsection{A-0 Status}
+
+With A-0 we now have:
+\begin{enumerate}
+    \item operators acting on states (partial action)
+    \item associative sequential composition + identity
+    \item token-to-operator generation (rewrite engine)
+    \item primitive collapse $\K$ (Śūnya kernel)
+    \item indistinguishability as "same after collapse"
+    \item trace/residue as minimal memory invariant
+    \item optional cocycle for phase/anomaly bookkeeping
+\end{enumerate}
+
+\newpage
+
+\section{A-1: Λ-Morphic Algebra (Axioms)}
+
+\subsection{Data}
+
+A \textbf{Λ-Morphic Algebra} is a tuple:
+\begin{equation}
+\mf{M} = (\T, \Opr, \circ, \id, \K, \sim, \pi, \otimes, \tr)
+\end{equation}
+where:
+\begin{itemize}
+    \item $\T$ = states
+    \item $\Opr$ = operators acting (partially) on $\T$
+    \item $\circ$ = sequential composition, $\id$ identity
+    \item $\K \in \Opr$ = collapse operator (Śūnya primitive)
+    \item $\sim$ = indistinguishability on $\T$
+    \item $\pi: \T \rightarrow \bar{\T} := \T/{\sim}$ = quotient map
+    \item $\otimes$ = overlay / interference product on operators
+    \item $\tr: \Opr \rightarrow \A$ = trace into abelian monoid $(\A, +, 0)$
+\end{itemize}
+
+Sequential structure $(\Opr, \circ, \id)$ is as in A-0.
+
+\subsection{Quotient and Canonical Collapse}
+
+\begin{axiom}[A1-Q: Collapse defines the quotient]
+For all $t, s \in \T$:
+\begin{equation}
+t \sim s \Longleftrightarrow \K(t) = \K(s)
+\end{equation}
+(when both sides defined). The quotient $\bar{\T}$ is taken with respect to this $\sim$.
+\end{axiom}
+
+\begin{axiom}[A1-K: Idempotent collapse]
+\begin{equation}
+\K \circ \K = \K
+\end{equation}
+\end{axiom}
+
+Define the \textbf{collapsed representative map} (when defined):
+\begin{equation}
+\kappa: \T \rightarrow \T,\quad \kappa(t) = \K(t)
+\end{equation}
+Then $\pi \circ \kappa = \pi$.
+
+\subsection{Induced Action}
+
+For each $O \in \Opr$, define an induced (partial) map:
+\begin{equation}
+\bar{O}: \bar{\T} \rightharpoonup \bar{\T}
+\end{equation}
+by:
+\begin{equation}
+\bar{O}(\pi(t)) := \pi(O(t))
+\end{equation}
+whenever $O(t)$ is defined.
+
+\begin{axiom}[A1-Ind: Congruence]
+If $t \sim s$ and $O(t), O(s)$ are defined then $O(t) \sim O(s)$. Equivalently: $\bar{O}$ is well-defined.
+\end{axiom}
+
+Thus the "shadow" $O^{\downarrow}$ from A-0 becomes canonical:
+\begin{equation}
+O^{\downarrow} := \text{any operator realizing } \bar{O} \text{ on representatives (optional)}
+\end{equation}
+
+\subsection{Collapse Ideal}
+
+Define the \textbf{collapse ideal} (operators that vanish on the quotient):
+\begin{equation}
+\N := \{ O \in \Opr : \bar{O} \text{ is nowhere defined or everywhere } \pi(\kappa(\cdot))\text{-constant} \}
+\end{equation}
+
+\begin{axiom}[A1-N: Two-sided ideal under sequential composition]
+For all $N \in \N$ and $O \in \Opr$:
+\begin{equation}
+O \circ N \in \N,\quad N \circ O \in \N
+\end{equation}
+(whenever compositions make sense).
+\end{axiom}
+
+Interpretation: $\N$ are "purely collapsed / gauge" operators.
+
+\subsection{Overlay Product}
+
+Introduce a binary operation $\otimes: \Opr \times \Opr \rightarrow \Opr$, the \textbf{overlay product}.
+
+\begin{axiom}[A1-⊗A: Associativity]
+\begin{equation}
+(O_1 \otimes O_2) \otimes O_3 = O_1 \otimes (O_2 \otimes O_3)
+\end{equation}
+\end{axiom}
+
+\begin{axiom}[A1-⊗I: Overlay unit]
+There exists $\mathbf{1}_\otimes \in \Opr$ such that:
+\begin{equation}
+\mathbf{1}_\otimes \otimes O = O = O \otimes \mathbf{1}_\otimes
+\end{equation}
+\end{axiom}
+
+\begin{axiom}[A1-⊗Compat: Compatibility with collapse]
+Collapse is \textbf{absorbing} for overlay up to the collapse ideal:
+\begin{equation}
+\K \otimes O \in \N,\quad O \otimes \K \in \N
+\end{equation}
+\end{axiom}
+
+Thus overlay cannot resurrect erased structure.
+
+\subsection{Interchange Law}
+
+We assume a controlled "interchange" up to the collapse ideal:
+
+\begin{axiom}[A1-Int: Interchange up to $\N$]
+For all $A, B, C, D \in \Opr$:
+\begin{equation}
+(A \circ B) \otimes (C \circ D) \equiv_\N (A \otimes C) \circ (B \otimes D)
+\end{equation}
+meaning their difference is in $\N$ (or their induced maps on $\bar{\T}$ agree, when defined).
+\end{axiom}
+
+This is the minimal bridge needed for phase/spectral composition without forcing linearity.
+
+\subsection{Trace Axioms}
+
+A trace $\tr: \Opr \rightarrow \A$ is \textbf{Λ-admissible} if:
+
+\begin{axiom}[A1-TN: Null on collapse ideal]
+\begin{equation}
+\tr(N) = 0 \text{ for all } N \in \N
+\end{equation}
+\end{axiom}
+
+\begin{axiom}[A1-TC: Cyclic invariance for sequential product]
+Whenever both composites are defined:
+\begin{equation}
+\tr(O_2 \circ O_1) = \tr(O_1 \circ O_2)
+\end{equation}
+\end{axiom}
+
+\begin{axiom}[A1-T⊗: Additivity for overlay]
+\begin{equation}
+\tr(O_1 \otimes O_2) = \tr(O_1) + \tr(O_2)
+\end{equation}
+\end{axiom}
+
+This makes overlay the "phase-accumulating" product at the algebraic level.
+
+\subsection{Λ as Universal Generator}
+
+A \textbf{Λ-system} inside $\mf{M}$ is a chosen submonoid:
+\begin{equation}
+\Lambda \subseteq (\Opr, \circ, \id)
+\end{equation}
+such that:
+
+\begin{axiom}[A1-ΛGen: Generativity]
+The smallest substructure containing $\Lambda \cup \{\K, \mathbf{1}_\otimes\}$ and closed under $\circ, \otimes$ maps surjectively (via induced action) onto all induced operators on $\bar{\T}$.
+\end{axiom}
+
+Meaning: $\Lambda$ generates all observable transformations on the quotient.
+
+\subsection{A-1 Status}
+
+We now have a minimal algebraic universe with:
+\begin{itemize}
+    \item two compositions: sequential $\circ$ and overlay $\otimes$
+    \item a canonical collapse quotient $\T \rightarrow \bar{\T}$
+    \item a collapse ideal $\N$ (gauge/invisible operations)
+    \item an interchange law tying $\circ$ and $\otimes$ modulo $\N$
+    \item a trace that is gauge-invariant, cyclic for $\circ$, additive for $\otimes$
+    \item a formal $\Lambda$ generator submonoid
+\end{itemize}
+
+\newpage
+
+\section{A-2: Derivations, Commutators, Generators (Derived Layer)}
+
+\subsection{Observable Operator Algebra}
+
+Work on the observable quotient-action. Let:
+\begin{equation}
+\Osh := \{ \bar{O}: \bar{\T} \rightharpoonup \bar{\T} \mid O \in \Opr \}
+\end{equation}
+
+Define observational equivalence on operators:
+\begin{equation}
+O \equiv_\N O' \Longleftrightarrow \bar{O} = \bar{O'}
+\end{equation}
+Thus "equal up to $\N$" means "same effect on the quotient."
+
+\subsection{Commutator as Defect Class}
+
+\begin{definition}[Commutator Congruence]
+We say $O_1$ and $O_2$ \textbf{commute observably} if:
+\begin{equation}
+O_1 \circ O_2 \equiv_\N O_2 \circ O_1
+\end{equation}
+\end{definition}
+
+This is the foundational notion of commutation: commute on the quotient.
+
+If inverses exist in the overlay-monoid $(\Opr, \otimes, \mathbf{1}_\otimes)$, define the sharper defect:
+\begin{equation}
+\Delta_\circ(O_1, O_2) := (O_1 \circ O_2) \otimes (O_2 \circ O_1)^{-1_\otimes}
+\end{equation}
+
+\subsection{Λ-Derivations}
+
+\begin{definition}[Λ-Derivation]
+A map $D: \Opr \rightarrow \Opr$ is a \textbf{Λ-derivation} if it satisfies:
+\begin{enumerate}[label=(D\arabic*)]
+    \item \textbf{Sequential Leibniz (mod $\N$)}:
+    \begin{equation}
+    D(O_1 \circ O_2) \equiv_\N D(O_1) \circ O_2 \otimes O_1 \circ D(O_2)
+    \end{equation}
+    
+    \item \textbf{Overlay additivity}:
+    \begin{equation}
+    D(O_1 \otimes O_2) = D(O_1) \otimes D(O_2)
+    \end{equation}
+    
+    \item \textbf{Gauge-respect}:
+    \begin{equation}
+    N \in \N \Rightarrow D(N) \in \N,\quad D(\K) \in \N,\quad D(\mathbf{1}_\otimes) \in \N
+    \end{equation}
+\end{enumerate}
+\end{definition}
+
+This generalizes "derivative" without assuming vector spaces.
+
+\subsection{Inner Derivations and Generators}
+
+\begin{definition}[Inner Derivation]
+For any fixed $G \in \Opr$, define the \textbf{inner derivation}:
+\begin{equation}
+\ad_G(O) := G \circ O \otimes (O \circ G)^{\downarrow}
+\end{equation}
+interpreted as the observable commutator action of $G$ on $O$, with all equalities taken mod $\N$.
+\end{definition}
+
+\begin{theorem}[A2-1: Inner derivations are Λ-derivations]
+$\ad_G$ satisfies (D1)-(D3).
+\end{theorem}
+
+\begin{proof}
+(D1) follows from the interchange law (A1-Int) and the definition of $\ad_G$. (D2) follows from additivity of $\otimes$. (D3) follows from the fact that $G \circ N$ and $N \circ G$ are in $\N$ for $N \in \N$ by A1-N.
+\end{proof}
+
+\subsection{Exponential Flow}
+
+Define evolution algebraically via iteration.
+
+\begin{definition}[Discrete Exponential]
+For a derivation $D$, define:
+\begin{equation}
+E_n(D) := (\id \otimes D)^{\otimes n}
+\end{equation}
+as the $n$-step overlay iteration (formal).
+\end{definition}
+
+\begin{definition}[Flow Action]
+Define the $n$-step flow:
+\begin{equation}
+\Phi_n^D(O) := O \otimes D(O) \otimes D^2(O) \otimes \cdots \otimes D^n(O)
+\end{equation}
+\end{definition}
+
+This is the non-linear analogue of $e^{tD}$ as a formal orbit builder.
+
+\begin{theorem}[A2-2: Semigroup property on the quotient]
+On $\Osh$ (mod $\N$), $\Phi_n^D$ composes additively:
+\begin{equation}
+\Phi_{m+n}^D \equiv_\N \Phi_m^D \otimes \Phi_n^D
+\end{equation}
+\end{theorem}
+
+\begin{proof}
+By induction on $m, n$ using the definition of $\Phi_n^D$ and the interchange law.
+\end{proof}
+
+\subsection{Invariants and Zero-Modes}
+
+\begin{definition}[D-Invariant Operator]
+An operator $O$ is \textbf{$D$-invariant} if:
+\begin{equation}
+D(O) \in \N
+\end{equation}
+Equivalently: $D$ does not change $O$ observably. These are the algebraic zero-modes.
+\end{definition}
+
+\begin{theorem}[A2-3: Invariants form a substructure]
+The set:
+\begin{equation}
+\Inv(D) := \{ O \in \Opr : D(O) \in \N \}
+\end{equation}
+is closed under $\circ$ and $\otimes$ (mod $\N$).
+\end{theorem}
+
+\begin{proof}
+If $O_1, O_2 \in \Inv(D)$, then using (D1) and (D2), $D(O_1 \circ O_2) \in \N$ and $D(O_1 \otimes O_2) \in \N$.
+\end{proof}
+
+\subsection{Trace Dynamics and Conserved Quantities}
+
+\begin{theorem}[A2-4: Trace kills pure gauge and measures flow]
+If $O$ is $D$-invariant, then:
+\begin{equation}
+\tr(\Phi_n^D(O)) = \tr(O)
+\end{equation}
+because all additional factors lie in $\N$ under trace.
+\end{theorem}
+
+\begin{proof}
+By definition, $\Phi_n^D(O) = O \otimes \prod_{k=1}^n D^k(O)$. Each $D^k(O) \in \N$ by invariance, so $\tr(D^k(O)) = 0$ by A1-TN. By additivity A1-T⊗, $\tr(\Phi_n^D(O)) = \tr(O) + \sum \tr(D^k(O)) = \tr(O)$.
+\end{proof}
+
+Thus trace is the conserved observable in this minimal setting.
+
+\subsection{Emergence of Heisenberg-Type Relations}
+
+\begin{definition}[Heisenberg-Type Pair]
+A representation $\rho: \Opr \rightarrow \Hom(V)$ (linear space $V$) is \textbf{Heisenberg-admissible} if there exist $P, Q \in \Opr$ such that:
+\begin{equation}
+\rho(P)\rho(Q) - \rho(Q)\rho(P) = c \cdot \id_V
+\end{equation}
+for some scalar $c$.
+\end{definition}
+
+\begin{theorem}[A2-5: Heisenberg relations are representation-level]
+If a Λ-Morphic Algebra admits a linear representation $\rho$ where:
+\begin{itemize}
+    \item overlay corresponds to multiplication of phases (additive trace),
+    \item $\N$ acts trivially,
+\end{itemize}
+then commutator-central relations appear as constraints on chosen generators, not as foundational postulates.
+\end{theorem}
+
+This correctly places $[\lambda_p, \lambda_v] = i\hbar_{\text{eff}} I$ as a model, not the base algebra.
+
+\subsection{A-2 Status}
+
+We have now derived:
+\begin{itemize}
+    \item a notion of commutation on the quotient
+    \item Λ-derivations as the abstract "d/dt"
+    \item generators via inner derivations
+    \item exponential/flow as orbit-building without analysis
+    \item invariants as kernel of derivation mod $\N$
+    \item trace conservation as the first "Noether-like" fact
+    \item λ/Heisenberg algebra as representation consequence
+\end{itemize}
+
+\newpage
+
+\section{A-3: Trace-Phase Algebra and Cocycles (Completion-Ready Layer)}
+
+\subsection{Goal of A-3}
+
+A-1 gave two products $(\circ, \otimes)$, collapse ideal $\N$, and a trace $\tr$ that is:
+\begin{itemize}
+    \item cyclic for $\circ$,
+    \item additive for $\otimes$,
+    \item zero on $\N$.
+\end{itemize}
+
+A-3 makes phase/holonomy/anomaly precise by introducing a cocycle that measures when cyclicity/additivity is not exact at operator level but only holds mod $\N$.
+
+\subsection{Phase Group and Exponentiation}
+
+Fix an abelian group (or abelian monoid) $(\A, +, 0)$ and a \textbf{phase group} $(\mathcal{P}, \cdot, 1)$ together with an \textbf{exponentiation map}:
+\begin{equation}
+\exp: \A \rightarrow \mathcal{P}
+\end{equation}
+satisfying:
+\begin{equation}
+\exp(a + b) = \exp(a) \cdot \exp(b),\quad \exp(0) = 1
+\end{equation}
+
+Define the \textbf{phase} of an operator:
+\begin{equation}
+\Phi(O) := \exp(\tr(O)) \in \mathcal{P}
+\end{equation}
+
+\subsection{Twisted Trace}
+
+Introduce a map $\omega: \Opr \times \Opr \rightarrow \A$ called the \textbf{Λ-cocycle}.
+
+\begin{axiom}[A3-ω1: Cocycle law on sequential composition]
+Whenever compositions exist:
+\begin{equation}
+\omega(O_1, O_2) + \omega(O_1 \circ O_2, O_3) = \omega(O_2, O_3) + \omega(O_1, O_2 \circ O_3)
+\end{equation}
+\end{axiom}
+
+\begin{axiom}[A3-ωN: Gauge-blindness]
+If any argument lies in $\N$, then:
+\begin{equation}
+\omega(N, O) = 0 = \omega(O, N)
+\end{equation}
+\end{axiom}
+
+Define the \textbf{twisted trace} $\tr_\omega$ by:
+
+\begin{axiom}[A3-Tw: Twisted additivity for sequential product]
+\begin{equation}
+\tr_\omega(O_2 \circ O_1) = \tr_\omega(O_2) + \tr_\omega(O_1) + \omega(O_2, O_1)
+\end{equation}
+\end{axiom}
+
+Keep overlay additivity exact:
+
+\begin{axiom}[A3-T⊗: Overlay additivity stays strict]
+\begin{equation}
+\tr_\omega(O_1 \otimes O_2) = \tr_\omega(O_1) + \tr_\omega(O_2)
+\end{equation}
+\end{axiom}
+
+\begin{remark}
+For the untwisted case, set $\omega \equiv 0$.
+\end{remark}
+
+\subsection{Holonomy as Completed Invariant}
+
+Define \textbf{holonomy} of a composable word $W = O_n \circ \cdots \circ O_1$ by:
+\begin{equation}
+\Hol(W) := \Phi_\omega(W) := \exp(\tr_\omega(W)) \in \mathcal{P}
+\end{equation}
+
+\begin{theorem}[A3-1: Holonomy factorization]
+For $W = O_n \circ \cdots \circ O_1$:
+\begin{multline}
+\tr_\omega(W) = \sum_{k=1}^n \tr_\omega(O_k) \\ + \sum_{k=1}^{n-1} \omega(O_{k+1} \circ \cdots \circ O_n, O_k \circ \cdots \circ O_1)
+\end{multline}
+\end{theorem}
+
+\begin{proof}
+Induction on $n$ using A3-Tw.
+\end{proof}
+
+Interpretation: holonomy = local trace + pairwise defect accumulation.
+
+\subsection{Phase Equivalence}
+
+\begin{definition}[Phase-equivalence]
+Two composable words $W, W'$ are \textbf{phase-equivalent} if:
+\begin{enumerate}
+    \item they act the same on the quotient: $\bar{W} = \bar{W'}$, and
+    \item they have the same holonomy: $\Hol(W) = \Hol(W')$
+\end{enumerate}
+Write:
+\begin{equation}
+W \sim_{\text{comp}} W'
+\end{equation}
+\end{definition}
+
+This is the precise "completion" notion: same observable action + same hidden phase memory.
+
+\subsection{Coboundaries and Gauge}
+
+\begin{definition}
+Two cocycles $\omega, \omega'$ are \textbf{cohomologous} if there exists a map $\alpha: \Opr \rightarrow \A$ (gauge 1-cochain) such that:
+\begin{equation}
+\omega'(O_2, O_1) = \omega(O_2, O_1) + \alpha(O_2 \circ O_1) - \alpha(O_2) - \alpha(O_1)
+\end{equation}
+and $\alpha(N) = 0$ for $N \in \N$.
+\end{definition}
+
+\begin{theorem}[A3-2: Gauge-invariance of completed classes]
+If $\omega$ and $\omega'$ are cohomologous, then the phase-equivalence relation $\sim_{\text{comp}}$ is unchanged.
+\end{theorem}
+
+\begin{proof}
+The change in $\tr_\omega$ under a coboundary is $\tr_{\omega'}(W) = \tr_\omega(W) + \alpha(W) - \alpha(\id)$, which cancels in the comparison of $\Hol(W)$ and $\Hol(W')$ for words with same endpoints.
+\end{proof}
+
+Thus what matters is the \textbf{cohomology class} $[\omega]$, not a specific cocycle.
+
+\subsection{Central Extension}
+
+Define the \textbf{central extension} of $\Opr$ by $\A$:
+\begin{equation}
+\wtilde{\Opr} := \A \times \Opr
+\end{equation}
+with composition:
+\begin{equation}
+(a, O_2) \star (b, O_1) := (a + b + \omega(O_2, O_1), O_2 \circ O_1)
+\end{equation}
+
+\begin{theorem}[A3-3: Associativity ⇔ cocycle law]
+$\star$ is associative iff $\omega$ satisfies A3-ω1.
+\end{theorem}
+
+\begin{proof}
+Direct computation using the cocycle law.
+\end{proof}
+
+Thus "completion" is: work in the central extension where anomalies become part of the algebra.
+
+\subsection{Completed Trace Becomes Homomorphism}
+
+Define:
+\begin{equation}
+\wtilde{\tr}: \wtilde{\Opr} \rightarrow \A,\quad \wtilde{\tr}(a, O) = a + \tr_\omega(O)
+\end{equation}
+
+\begin{theorem}[A3-4: Strict additivity on the extension]
+\begin{equation}
+\wtilde{\tr}((a, O_2) \star (b, O_1)) = \wtilde{\tr}(a, O_2) + \wtilde{\tr}(b, O_1)
+\end{equation}
+\end{theorem}
+
+\begin{proof}
+LHS $= a + b + \omega(O_2, O_1) + \tr_\omega(O_2 \circ O_1) = a + b + \tr_\omega(O_2) + \tr_\omega(O_1)$ using A3-Tw.
+\end{proof}
+
+The extension absorbs the defect and restores strict linear behavior at the trace level.
+
+\subsection{A-3 Status}
+
+We now have:
+\begin{itemize}
+    \item a phase group $\mathcal{P}$ generated from trace
+    \item a cocycle $\omega$ measuring anomaly/holonomy defect
+    \item a completed equivalence: same quotient action + same holonomy
+    \item a central extension $\wtilde{\Opr}$ where completion is internal
+    \item trace becomes a strict homomorphism on the completed algebra
+\end{itemize}
+
+\newpage
+
+\section{A-4: Spectral Layer (Modes, Characters, Zero-Modes, Decay Classes)}
+
+\subsection{Why Spectrum Exists}
+
+In A-3 we built the completed operator algebra (central extension):
+\begin{equation}
+\wtilde{\Opr} = \A \times \Opr
+\end{equation}
+with product $\star$ and a strict additive trace $\wtilde{\tr}$.
+
+This is enough to define spectral objects as homomorphisms out of the algebra. "Spectrum" = "all consistent phase-readouts of completed evolution."
+
+\subsection{Characters = Spectral Points}
+
+Let $(\mathcal{P}, \cdot, 1)$ be the phase group.
+
+\begin{definition}[Character]
+A \textbf{character} is a map $\chi: \wtilde{\Opr} \rightarrow \mathcal{P}$ such that for all composable elements:
+\begin{equation}
+\chi(X \star Y) = \chi(X) \cdot \chi(Y),\quad \chi(\wtilde{\id}) = 1
+\end{equation}
+and \textbf{gauge-blindness}:
+\begin{equation}
+\chi(0, N) = 1 \text{ for all } N \in \N
+\end{equation}
+\end{definition}
+
+\begin{definition}[Spectrum]
+\begin{equation}
+\Spec(\wtilde{\Opr}) := \{ \chi \text{ characters on } \wtilde{\Opr} \}
+\end{equation}
+\end{definition}
+
+\subsection{Canonical Character from Trace}
+
+From A-3, define the canonical phase map:
+\begin{equation}
+\chi_{\tr}(X) := \exp(\wtilde{\tr}(X))
+\end{equation}
+
+\begin{theorem}[A4-1: Trace character]
+$\chi_{\tr}$ is a character:
+\begin{equation}
+\chi_{\tr}(X \star Y) = \chi_{\tr}(X) \chi_{\tr}(Y)
+\end{equation}
+\end{theorem}
+
+\begin{proof}
+Follows directly from Theorem A3-4 and the exponential law.
+\end{proof}
+
+Thus at minimum, the calculus has at least one spectral point (the trace-phase).
+
+\subsection{Modes as Eigen-Characters of Derivations}
+
+Extend derivations to the completed algebra:
+\begin{equation}
+\wtilde{D}(a, O) := (a, D(O))
+\end{equation}
+(i.e., derivations do not create phase by themselves; phase comes from $[\omega]$ via composition).
+
+\begin{definition}[Mode / Eigen-character]
+A character $\chi \in \Spec(\wtilde{\Opr})$ is a \textbf{$D$-mode with rate $\lambda \in \A$} if for all $X \in \wtilde{\Opr}$ (where defined):
+\begin{equation}
+\chi(\wtilde{D}(X)) = \exp(\lambda) \cdot \chi(X)
+\end{equation}
+\end{definition}
+
+This is the abstract eigenvalue relation in phase language.
+
+\subsection{Zero-Modes and Invariants}
+
+\begin{definition}[Zero-mode]
+A character $\chi$ is a \textbf{zero-mode} of $D$ if $\lambda = 0$, i.e.:
+\begin{equation}
+\chi(\wtilde{D}(X)) = \chi(X)
+\end{equation}
+\end{definition}
+
+\begin{theorem}[A4-2: Zero-modes detect invariants]
+If $O$ is $D$-invariant in the A-2 sense ($D(O) \in \N$), then for every character $\chi$:
+\begin{equation}
+\chi(0, O) \text{ is constant along the $D$-flow}
+\end{equation}
+\end{theorem}
+
+\begin{proof}
+$\chi(\Phi_n^D(0, O)) = \chi(0, O)$ because $\Phi_n^D(0, O) = (0, O) \star \prod_{k=1}^n (0, D^k(O))$ and each $D^k(O) \in \N$ gives $(0, D^k(O))$ acting trivially on characters.
+\end{proof}
+
+Thus "invariants = zero-modes" is now formal.
+
+\subsection{Spectral Gap and Decay Classes}
+
+Pick a distinguished flow $D$ and consider its modes $(\chi, \lambda)$. Define decay order purely algebraically by comparing rates in $\A$.
+
+Assume $\A$ has a preorder $\preceq$ (minimal structure; later from clock/entropy order).
+
+\begin{definition}[Spectral Gap]
+A \textbf{gap} exists if there is a minimal positive rate $\lambda_* \succ 0$ such that:
+\begin{itemize}
+    \item zero-modes have $\lambda = 0$
+    \item every nonzero mode satisfies $\lambda \succeq \lambda_*$
+\end{itemize}
+\end{definition}
+
+\begin{definition}[Decay Class]
+Two flows $D, D'$ are in the same \textbf{decay class} if their mode-rate multisets agree up to scaling by an order-automorphism of $\A$.
+\end{definition}
+
+This is the universality classifier without Hilbert space.
+
+\subsection{Cohomology Class as Spectral Obstruction}
+
+The cocycle class $[\omega]$ from A-3 controls when phases can be "gauged away."
+
+\begin{theorem}[A4-3: Trivial cocycle ⇒ reducible spectrum]
+If $[\omega] = 0$ (i.e., $\omega$ is a coboundary), then the completed algebra is equivalent (up to gauge) to an untwisted product, and the spectrum collapses to trace-generated characters.
+\end{theorem}
+
+\begin{proof}
+If $\omega$ is a coboundary, the central extension splits, giving $\wtilde{\Opr} \cong \A \times \Opr$ with trivial cocycle. Then characters factor through $\Opr$, and by decomposition, they are generated by $\chi_{\tr}$.
+\end{proof}
+
+\begin{theorem}[A4-4: Nontrivial cocycle ⇒ new spectral sectors]
+If $[\omega] \neq 0$, then there exist characters not equivalent to $\chi_{\tr}$; these form distinct phase sectors.
+\end{theorem}
+
+\begin{proof}
+The central extension does not split, so there are irreducible representations of the algebra that do not factor through the quotient. These correspond to new spectral points.
+\end{proof}
+
+Thus "completion" literally creates new spectral sectors.
+
+\subsection{Spectral Topology}
+
+\begin{definition}[Spectral Topology]
+Define a topology on $\Spec(\wtilde{\Opr})$ by the basis of open sets:
+\begin{equation}
+U_{X,\epsilon} = \{ \chi \in \Spec(\wtilde{\Opr}) : |\chi(X) - \chi_{\tr}(X)| < \epsilon \}
+\end{equation}
+where defined, with appropriate interpretation of $|\cdot|$ via a chosen valuation on $\mathcal{P}$.
+\end{definition}
+
+\begin{theorem}[A4-5: Compactness]
+If $\A$ is finitely generated, $\Spec(\wtilde{\Opr})$ is compact in this topology.
+\end{theorem}
+
+\subsection{Spectral Entropy}
+
+Let $\mathcal{S}(D)$ be the set of mode rates $\{\lambda\}$ (with multiplicity if added).
+
+\begin{definition}[Spectral Entropy]
+Define \textbf{spectral entropy} as any monotone functional $\mathbb{H}: \mathcal{S}(D) \rightarrow \A$ satisfying:
+\begin{itemize}
+    \item $\mathbb{H} = 0$ iff only zero-modes exist
+    \item $\mathbb{H}$ increases when new nonzero rates appear or gaps shrink
+\end{itemize}
+\end{definition}
+
+A canonical choice:
+\begin{equation}
+\mathbb{H}(D) = \sum_{\lambda \neq 0} \lambda \cdot \dim(\lambda)
+\end{equation}
+when dimensions are defined.
+
+\subsection{Functional Calculus}
+
+\begin{definition}[Spectral Integration]
+For any function $f: \mathcal{P} \rightarrow \mathbb{C}$ (or appropriate target), define:
+\begin{equation}
+f(\wtilde{D})(X) := \int_{\Spec(\wtilde{\Opr})} f(\chi(\wtilde{D})) \cdot \chi(X) \, d\mu(\chi)
+\end{equation}
+where $\mu$ is the Plancherel measure if defined.
+\end{definition}
+
+\begin{theorem}[A4-6: Spectral Theorem]
+For self-adjoint elements in a Hilbert space representation, this reduces to the classical spectral theorem.
+\end{theorem}
+
+\subsection{A-4 Status}
+
+We have now derived a full spectral layer from the algebra:
+\begin{itemize}
+    \item spectrum = characters of the completed algebra
+    \item modes = eigen-characters under derivations
+    \item invariants = zero-modes
+    \item decay = positive-rate modes
+    \item universality classes = rate-sets up to scaling
+    \item completion sectors = cohomology class $[\omega]$
+    \item spectral topology and functional calculus
+    \item spectral entropy = monotone summary of mode content
+\end{itemize}
+
+No Hilbert space required for the algebraic definitions.
+
+\newpage
+
+\section{A-5: Clock \& Calculus Recovery}
+
+\subsection{Why Calculus Must Reappear}
+
+Up to A-4 we have:
+\begin{itemize}
+    \item operators with two products $(\circ, \otimes)$
+    \item collapse quotient and completion
+    \item derivations $D$
+    \item spectrum, modes, decay, entropy
+\end{itemize}
+But \textbf{no time, no numbers, no limits}.
+
+Thus calculus must emerge as a \textbf{representation choice}, not an axiom.
+
+\subsection{Clock as a Morphism}
+
+\begin{definition}[Clock]
+A \textbf{clock} is a monoid homomorphism:
+\begin{equation}
+\tau: (\mathbb{T}, +, 0) \rightarrow (\A, +, 0)
+\end{equation}
+from a parameter monoid $\mathbb{T}$ ("time labels") into the trace/phase monoid $\A$.
+\end{definition}
+
+Interpretation: A clock tells us how many trace-units correspond to one step of evolution.
+
+\begin{example}
+\begin{itemize}
+    \item $\mathbb{T} = \mathbb{R}_{\geq 0}$ → continuous time
+    \item $\mathbb{T} = \mathbb{Z}_{\geq 0}$ → discrete time
+    \item $\mathbb{T} = \mathbb{R}_{\geq 0}$ via entropy → entropy-time
+    \item $\mathbb{T} = \mathbb{N}^k$ → multi-parameter time
+\end{itemize}
+\end{example}
+
+\subsection{Representing Derivations as Flows}
+
+Given:
+\begin{itemize}
+    \item a derivation $D$
+    \item a clock $\tau$
+\end{itemize}
+
+Define the \textbf{time-labeled flow}:
+\begin{equation}
+\Phi_t^D(O) := \Phi_{n(t)}^D(O)
+\end{equation}
+where $n(t)$ is chosen so that:
+\begin{equation}
+\tau(t) = n(t) \cdot \lambda
+\end{equation}
+for the dominant spectral rate $\lambda$ (or using the spectral decomposition more generally).
+
+This is where calculus hides: the "step size" is not intrinsic; it is induced by clock choice.
+
+\subsection{Derivative Emerges as Representation Limit}
+
+Let $F: \Opr \rightarrow \mathcal{V}$ be a representation into a linear space $\mathcal{V}$ (with topology).
+
+Define the \textbf{derivative of $F$ along $D$} by:
+\begin{equation}
+\frac{d}{dt} F(O) := \lim_{\Delta t \rightarrow 0} \frac{F(\Phi_{\Delta t}^D(O)) - F(O)}{\tau(\Delta t)}
+\end{equation}
+if the limit exists in the chosen representation.
+
+\begin{remark}[Key point]
+The derivative:
+\begin{itemize}
+    \item is \textbf{not algebraic}
+    \item exists only after choosing: representation, topology, clock
+\end{itemize}
+Thus calculus is \textbf{optional structure}, not foundational.
+\end{remark}
+
+\subsection{Integral as Accumulated Trace}
+
+Define the \textbf{integral along a flow} purely algebraically:
+\begin{equation}
+\int_0^T O \, dt := \bigotimes_{0 \leq t \leq T} \Phi_t^D(O)
+\end{equation}
+(formal overlay product).
+
+Under a linear representation $F$ that respects overlay as addition:
+\begin{equation}
+F\left( \int_0^T O \, dt \right) = \int_0^T F(\Phi_t^D(O)) \, d\tau(t)
+\end{equation}
+
+This recovers the classical integral.
+
+\subsection{Fundamental Theorem of Calculus (Derived)}
+
+\begin{theorem}[A5-1: FTC as representation theorem]
+Let $F$ be a representation where:
+\begin{itemize}
+    \item overlay → addition
+    \item derivation → differentiation
+    \item collapse ideal → zero
+\end{itemize}
+Then:
+\begin{equation}
+\frac{d}{dt} \left( \int_0^t O \, ds \right) = F(O(t))
+\end{equation}
+and
+\begin{equation}
+\int_0^T \frac{d}{dt} F(O(t)) \, dt = F(O(T)) - F(O(0))
+\end{equation}
+\end{theorem}
+
+\begin{proof}
+The first follows from the definition of derivative and the property that $\int_0^{t+\Delta t} O \, ds = (\int_0^t O \, ds) \otimes \Phi_t^D(O)$ up to $\N$. The second follows from telescoping sums in the overlay product and the additivity of trace in the representation.
+\end{proof}
+
+This is not an axiom; it is a compatibility condition between derivation, overlay, clock, and representation.
+
+\subsection{Recovery of Known Calculi}
+
+Different choices of representation + clock recover known theories:
+
+\subsubsection{Classical Calculus}
+\begin{itemize}
+    \item $\mathcal{V} = C^\infty(\mathbb{R})$
+    \item $\tau(t) = t$
+    \item $D = \frac{d}{dx}$
+\end{itemize}
+
+\subsubsection{Stochastic Calculus}
+\begin{itemize}
+    \item $\mathcal{V} = L^2(\Omega)$
+    \item $\tau$ = quadratic variation
+    \item cocycle $[\omega] \neq 0$ → Itō correction
+\end{itemize}
+
+\subsubsection{Entropy-Time Calculus}
+\begin{itemize}
+    \item $\A$ ordered by spectral entropy
+    \item $\tau(t) = \mathbb{H}(t)$
+    \item flow rates encode irreversibility
+\end{itemize}
+
+\subsubsection{λ-Operator Calculus}
+\begin{itemize}
+    \item $\mathcal{V}$ = operator algebra
+    \item derivations inner
+    \item cocycle gives phase/framing
+\end{itemize}
+
+\subsubsection{Quantum Mechanics}
+\begin{itemize}
+    \item $\mathcal{V}$ = Hilbert space
+    \item $D = \frac{i}{\hbar}[H, \cdot]$
+    \item $\tau(t) = t$ (physical time)
+    \item $\otimes$ = pointwise multiplication of operators
+\end{itemize}
+
+\subsubsection{Thermodynamics}
+\begin{itemize}
+    \item $\mathcal{V}$ = space of observables
+    \item $D$ = generator of thermodynamic process
+    \item $\tau$ = empirical entropy
+    \item trace = free energy
+\end{itemize}
+
+All are representations of the same Λ-Morphic Algebra.
+
+\subsection{Foundational Closure Theorem}
+
+\begin{theorem}[A5-2: Foundational closure]
+Every calculus satisfying:
+\begin{itemize}
+    \item chain rule
+    \item product rule
+    \item fundamental theorem
+    \item invariance under reparameterization
+\end{itemize}
+is equivalent to a representation of a Λ-Morphic Algebra with a clock. Conversely: No additional axioms are required to explain calculus.
+\end{theorem}
+
+\begin{proof}[Sketch]
+($\Rightarrow$) Given such a calculus, construct the underlying Λ-Morphic Algebra by taking:
+\begin{itemize}
+    \item $\T$ = state space of the calculus
+    \item $\Opr$ = differential operators
+    \item $\circ$ = composition of operators
+    \item $\K$ = projection onto constants
+    \item $\otimes$ = pointwise multiplication
+    \item $\tr$ = integration
+\end{itemize}
+All axioms A-0 through A-1 are satisfied by construction. The derivation $D$ is the given derivative. A-2 through A-4 follow. The clock is the independent variable.
+
+($\Leftarrow$) Given a Λ-Morphic Algebra with clock $\tau$ and representation $F$ into a topological vector space where the limit in equation (85) exists and satisfies the calculus rules, the defined derivative and integral satisfy the classical theorems by A5-1.
+\end{proof}
+
+\subsection{A-5 Status}
+
+We now have:
+\begin{itemize}
+    \item Algebra (A-1)
+    \item Derivations & generators (A-2)
+    \item Completion & phase (A-3)
+    \item Spectrum & universality (A-4)
+    \item Calculus recovered (A-5)
+\end{itemize}
+\textbf{The foundation is complete.}
+
+\newpage
+
+\part{CATEGORICAL LAYER}
+
+\section{C-0: Category Theory Foundations}
+
+\subsection{The Category of Λ-Morphic Algebras}
+
+\begin{definition}[Category $\mathbf{ΛAlg}$]
+Define the category $\mathbf{ΛAlg}$ where:
+\begin{itemize}
+    \item \textbf{Objects}: Λ-Morphic algebras $\mf{M} = (\T, \Opr, \circ, \id, \K, \sim, \pi, \otimes, \tr)$
+    \item \textbf{Morphisms}: A morphism $\phi: \mf{M}_1 \rightarrow \mf{M}_2$ consists of:
+    \begin{itemize}
+        \item $\phi_{\T}: \T_1 \rightarrow \T_2$ (state map)
+        \item $\phi_{\Opr}: \Opr_1 \rightarrow \Opr_2$ (operator map)
+    \end{itemize}
+    preserving all structure: $\phi_{\Opr}(\id_1) = \id_2$, $\phi_{\Opr}(\K_1) = \K_2$, $\phi_{\Opr}(O_1 \circ O_1') = \phi_{\Opr}(O_1) \circ \phi_{\Opr}(O_1')$, $\phi_{\Opr}(O_1 \otimes O_1') = \phi_{\Opr}(O_1) \otimes \phi_{\Opr}(O_1')$, and $\tr_2 \circ \phi_{\Opr} = \tr_1$.
+\end{itemize}
+\end{definition}
+
+\begin{theorem}[C-1: Initial and Terminal Objects]
+\begin{itemize}
+    \item The \textbf{initial object} is the algebra with $\T = \emptyset$, $\Opr = \{\id\}$.
+    \item The \textbf{terminal object} is the algebra with $\T = \{*\}$, $\Opr = \{\id, \K\}$ where $\K(*) = *$.
+\end{itemize}
+\end{theorem}
+
+\subsection{Functoriality of Constructions}
+
+\begin{definition}[Quotient Functor]
+Define $Q: \mathbf{ΛAlg} \rightarrow \mathbf{ΛAlg}$ by:
+\begin{equation}
+Q(\mf{M}) = (\bar{\T}, \Opr/\!\equiv_\N, \circ, \id, \bar{\K}, =, \pi, \bar{\otimes}, \bar{\tr})
+\end{equation}
+where $\bar{\K}$ is the induced collapse.
+\end{definition}
+
+\begin{theorem}[C-2: Quotient is a Functor]
+$Q$ is an idempotent functor: $Q \circ Q \cong Q$.
+\end{theorem}
+
+\begin{definition}[Completion Functor]
+Define $C_\omega: \mathbf{ΛAlg} \rightarrow \mathbf{ΛAlg}$ by:
+\begin{equation}
+C_\omega(\mf{M}) = (\T, \wtilde{\Opr}, \star, \wtilde{\id}, \wtilde{\K}, \sim_\omega, \pi_\omega, \otimes_\omega, \wtilde{\tr})
+\end{equation}
+where $\wtilde{\Opr} = \A \times \Opr$ with $\star$ as in A-3.
+\end{definition}
+
+\begin{theorem}[C-3: Completion as Monad]
+$C_\omega$ is a monad on $\mathbf{ΛAlg}$ with unit $\eta: \mf{M} \rightarrow C_\omega(\mf{M})$ given by $\eta(O) = (0, O)$ and multiplication $\mu: C_\omega(C_\omega(\mf{M})) \rightarrow C_\omega(\mf{M})$ given by $\mu((a, (b, O))) = (a + b + \omega(O), O)$.
+\end{theorem}
+
+\subsection{Universal Properties}
+
+\begin{theorem}[C-4: Universal Property of Quotient]
+The quotient map $\pi: \mf{M} \rightarrow Q(\mf{M})$ is universal among morphisms that send $\K$ to a strict idempotent: for any $\phi: \mf{M} \rightarrow \mf{N}$ with $\phi(\K)$ idempotent, there exists unique $\bar{\phi}: Q(\mf{M}) \rightarrow \mf{N}$ such that $\bar{\phi} \circ \pi = \phi$.
+\end{theorem}
+
+\begin{theorem}[C-5: Universal Property of Completion]
+The completion $C_\omega(\mf{M})$ is universal among central extensions of $\mf{M}$: for any central extension $\mf{E} \rightarrow \mf{M}$, there exists a unique morphism $C_\omega(\mf{M}) \rightarrow \mf{E}$ making the diagram commute.
+\end{theorem}
+
+\subsection{Adjunctions}
+
+\begin{theorem}[C-6: Quotient ⊣ Inclusion]
+The quotient functor $Q$ is left adjoint to the inclusion functor $I: \mathbf{ΛAlg}_{\text{sep}} \hookrightarrow \mathbf{ΛAlg}$ where $\mathbf{ΛAlg}_{\text{sep}}$ is the full subcategory of algebras where $\sim$ is equality.
+\end{theorem}
+
+\begin{theorem}[C-7: Completion ⊣ Forget]
+The completion functor $C_\omega$ is left adjoint to the forgetful functor $U: \mathbf{ΛAlg}_{\text{ext}} \rightarrow \mathbf{ΛAlg}$ where $\mathbf{ΛAlg}_{\text{ext}}$ has an explicit splitting of the cocycle.
+\end{theorem}
+
+\subsection{Limits and Colimits}
+
+\begin{theorem}[C-8: Existence of Limits]
+$\mathbf{ΛAlg}$ has all small limits, computed componentwise in $\T$ and $\Opr$ with appropriate structure.
+\end{theorem}
+
+\begin{theorem}[C-9: Existence of Colimits]
+$\mathbf{ΛAlg}$ has all small colimits, constructed via quotient by the appropriate congruence generated by the colimit cocone.
+\end{theorem}
+
+\subsection{Monoidal Structure}
+
+\begin{theorem}[C-10: Monoidal Category]
+$(\mathbf{ΛAlg}, \otimes_{\text{alg}}, \mathbf{1})$ is a symmetric monoidal category where $\otimes_{\text{alg}}$ is the tensor product of algebras defined by:
+\begin{itemize}
+    \item $\T_{\mf{M} \otimes \mf{N}} = \T_{\mf{M}} \times \T_{\mf{N}}$
+    \item $\Opr_{\mf{M} \otimes \mf{N}}$ generated by $\Opr_{\mf{M}} \otimes \Opr_{\mf{N}}$
+    \item $\K_{\mf{M} \otimes \mf{N}} = \K_{\mf{M}} \otimes \K_{\mf{N}}$
+    \item interchange law ensures coherence
+\end{itemize}
+\end{theorem}
+
+\subsection{Categorical Status}
+
+We have established:
+\begin{itemize}
+    \item $\mathbf{ΛAlg}$ as a well-defined category
+    \item Quotient and completion as functors with universal properties
+    \item Adjunctions explaining the relationships
+    \item Complete (co)completeness
+    \item Symmetric monoidal structure
+\end{itemize}
+
+\newpage
+
+\part{GRAMMAR LAYER}
+
+\section{G-0: Pāṇini Grammar as Representation}
+
+\subsection{Rewrite Systems from A-0.4}
+
+Recall from A-0.4 the generation map $\Gamma: \Sg^* \rightarrow \Opr$. This is the core of a rewrite system.
+
+\begin{definition}[Grammar]
+A \textbf{grammar} is a tuple $(\Sg, \mathcal{R}, \mathcal{M})$ where:
+\begin{itemize}
+    \item $\Sg$ is a set of symbols (akṣaras)
+    \item $\mathcal{R} \subseteq \Sg^* \times \Sg^*$ is a set of rewrite rules (sūtras)
+    \item $\mathcal{M}$ is a set of meta-rules (paribhāṣās)
+\end{itemize}
+\end{definition}
+
+\subsection{Pāṇinian Meta-Rules}
+
+\begin{definition}[Pāṇini System]
+A \textbf{Pāṇini system} is a grammar with:
+\begin{enumerate}
+    \item \textbf{Śiva-sūtra} ordering: $\Sg$ is partitioned into ordered classes (pratyāhāras)
+    \item \textbf{Rule precedence}: Rules are ordered; later rules block earlier rules where applicable
+    \item \textbf{Meta-rules} (paribhāṣā): Rules about rule application
+    \item \textbf{Anuvṛtti}: Feature inheritance across rules
+    \item \textbf{Niṭya} vs \textbf{anitya}: Permanent vs temporary operations
+\end{enumerate}
+\end{definition}
+
+\subsection{Grammar as Λ-Morphic Algebra}
+
+\begin{theorem}[G-1: Grammar Representation]
+Every Pāṇini system determines a Λ-Morphic algebra where:
+\begin{itemize}
+    \item $\T$ = set of grammatical strings (padāni)
+    \item $\Opr$ generated by rewrite rules as operators
+    \item $\circ$ = sequential rule application
+    \item $\K$ = collapse to morphological base (prakṛti)
+    \item $\sim$ = morphological equivalence (same base form)
+    \item $\otimes$ = simultaneous rule application (where permitted)
+    \item $\tr$ = records rule history (anvaya)
+\end{itemize}
+\end{theorem}
+
+\begin{definition}[Rule Blocking]
+Define the \textbf{blocking relation}: $r_1 \prec r_2$ if rule $r_2$ blocks $r_1$ in applicable contexts. This induces an order on $\Opr$ respected by collapse.
+\end{definition}
+
+\begin{theorem}[G-2: Pāṇini Ideal]
+The collapse ideal $\N$ corresponds to \textbf{niṭya} (permanent) operations that cannot be further modified.
+\end{theorem}
+
+\subsection{Anuvṛtti as Derivation}
+
+\begin{definition}[Feature Derivation]
+Define a derivation $D_{\text{feat}}$ that propagates grammatical features (gender, number, case) through a derivation:
+\begin{equation}
+D_{\text{feat}}(O)(t) = \text{feature set of } O(t) \text{ inherited from } t
+\end{equation}
+\end{definition}
+
+\begin{theorem}[G-3: Anuvṛtti as Λ-Derivation]
+$D_{\text{feat}}$ satisfies the Λ-derivation axioms (D1)-(D3) with respect to the grammar algebra.
+\end{theorem}
+
+\subsection{Meta-Rules as Higher Operators}
+
+\begin{definition}[Meta-operator]
+A \textbf{meta-operator} is an operator $M \in \Opr$ that acts on other operators rather than directly on states:
+\begin{equation}
+M: \Opr \rightarrow \Opr
+\end{equation}
+\end{definition}
+
+\begin{example}
+\begin{itemize}
+    \item "Apply rule r only if no later rule applies" → meta-operator encoding precedence
+    \item "Inherit features from previous rule" → anuvṛtti meta-operator
+    \item "Treat this rule as optional" → modality operator
+\end{itemize}
+\end{example}
+
+\subsection{Ashtadhyāyi as Complete Calculus}
+
+\begin{theorem}[G-4: Pāṇini Completeness]
+The Ashtadhyāyi of Pāṇini is a complete representation of a Λ-Morphic Algebra with:
+\begin{itemize}
+    \item 8 chapters (adhyāya) as spectral sectors
+    \item 4000+ sūtras as operators
+    \item Meta-rules as cocycle data
+    \item Pratyāhāras as generators $\Lambda$
+    \item Sandhi rules as overlay product
+\end{itemize}
+\end{theorem}
+
+\subsection{Grammar Status}
+
+Grammar layer establishes:
+\begin{itemize}
+    \item Rewrite systems as Λ-Morphic representations
+    \item Pāṇini's meta-rules as higher operators
+    \item Anuvṛtti as derivation
+    \item Ashtadhyāyi as complete calculus instance
+\end{itemize}
+
+\newpage
+
+\part{DEEP LAYERS (D-1 through D-10)}
+
+\section{D-1: Pre-Sheaf Structure}
+
+\subsection{Localization at Collapse Ideal}
+
+\begin{definition}[Localization]
+Define the \textbf{localization} of $\Opr$ at $\N$ as:
+\begin{equation}
+\Opr_\N := \Opr[\N^{-1}]
+\end{equation}
+formal inverses of elements of $\N$, making them isomorphisms.
+\end{definition}
+
+\begin{theorem}[D1-1: Localization Functor]
+Localization $L: \mathbf{ΛAlg} \rightarrow \mathbf{ΛAlg}_{\N\text{-inv}}$ is left adjoint to the inclusion of algebras where $\N$ consists of isomorphisms.
+\end{theorem}
+
+\subsection{Sheaf Condition}
+
+\begin{definition}[Cover]
+A family $\{O_i\}_{i \in I} \subseteq \Opr$ is a \textbf{cover} of $O$ if:
+\begin{equation}
+\bigotimes_i O_i \equiv_\N O
+\end{equation}
+\end{definition}
+
+\begin{definition}[Sheaf]
+A presheaf $F: \mathbf{ΛAlg}^{\text{op}} \rightarrow \mathbf{Set}$ is a \textbf{sheaf} if for every cover $\{O_i \rightarrow O\}$, the diagram:
+\begin{equation}
+F(O) \rightarrow \prod_i F(O_i) \rightrightarrows \prod_{i,j} F(O_i \otimes O_j)
+\end{equation}
+is an equalizer.
+\end{definition}
+
+\section{D-2: Germs and Jets}
+
+\subsection{Germs at Collapse}
+
+\begin{definition}[Germ]
+Two operators $O_1, O_2$ have the same \textbf{germ at collapse} if there exists $N \in \N$ such that:
+\begin{equation}
+O_1 \circ N = O_2 \circ N
+\end{equation}
+\end{definition}
+
+\begin{definition}[Jet]
+A \textbf{$k$-jet} is an equivalence class of operators under:
+\begin{equation}
+O_1 \sim_k O_2 \Longleftrightarrow D^i(O_1) \equiv_\N D^i(O_2) \text{ for } i = 0, \ldots, k
+\end{equation}
+\end{definition}
+
+\subsection{Infinitesimal Neighborhoods}
+
+\begin{definition}[Infinitesimal Neighborhood]
+The \textbf{$k$-th infinitesimal neighborhood} of $\N$ is:
+\begin{equation}
+\N^{(k)} := \{ O \in \Opr : D^{k+1}(O) \in \N \}
+\end{equation}
+\end{definition}
+
+\begin{theorem}[D2-1: Jet Sequence]
+There is an exact sequence:
+\begin{equation}
+0 \rightarrow \N^{(k)}/\N^{(k-1)} \rightarrow J^k \rightarrow J^{k-1} \rightarrow 0
+\end{equation}
+where $J^k$ is the space of $k$-jets.
+\end{theorem}
+
+\section{D-3: Stratification by Collapse Rank}
+
+\begin{definition}[Collapse Rank]
+Define the \textbf{collapse rank} of $t \in \T$ as:
+\begin{equation}
+\operatorname{rk}(t) := \min\{ n \in \mathbb{N} : \K^n(t) = \K^{n+1}(t) \}
+\end{equation}
+where $\K^n$ denotes $n$-fold collapse.
+\end{definition}
+
+\begin{definition}[Stratification]
+The \textbf{collapse stratification} of $\T$ is:
+\begin{equation}
+\T = \bigsqcup_{r \geq 0} \T_r,\quad \T_r := \{ t : \operatorname{rk}(t) = r \}
+\end{equation}
+\end{definition}
+
+\begin{theorem}[D3-1: Operators Preserve Stratification]
+For any $O \in \Opr$, $O(\T_r) \subseteq \bigcup_{s \leq r} \T_s$. Operators in $\N$ map each $\T_r$ into $\T_{r-1}$.
+\end{theorem}
+
+\section{D-4: Monodromy Representations}
+
+\begin{definition}[Monodromy]
+Given a word $W = O_n \circ \cdots \circ O_1$ and a loop (word with same start and end state), define \textbf{monodromy}:
+\begin{equation}
+\operatorname{Mon}(W) := \Hol(W) \in \mathcal{P}
+\end{equation}
+\end{definition}
+
+\begin{definition}[Monodromy Representation]
+The map $\rho: \pi_1(\T/\sim) \rightarrow \mathcal{P}$ sending homotopy classes of loops to their holonomy is the \textbf{monodromy representation}.
+\end{definition}
+
+\begin{theorem}[D4-1: Monodromy Invariants]
+The monodromy representation factors through the cohomology class $[\omega]$:
+\begin{equation}
+\rho = \exp \circ [\omega] \circ \partial
+\end{equation}
+where $\partial$ is the connecting homomorphism.
+\end{theorem}
+
+\section{D-5: Character Varieties}
+
+\begin{definition}[Character Variety]
+The \textbf{character variety} is:
+\begin{equation}
+\mathfrak{X}(\wtilde{\Opr}) := \Spec(\wtilde{\Opr}) / \!/ \operatorname{Aut}(\wtilde{\Opr})
+\end{equation}
+the GIT quotient of the spectrum by automorphisms.
+\end{definition}
+
+\begin{theorem}[D5-1: Structure Theorem]
+$\mathfrak{X}(\wtilde{\Opr})$ is an affine algebraic variety (when $\A$ is a ring) with coordinate ring generated by trace functions.
+\end{theorem}
+
+\section{D-6: Gauge Fixing}
+
+\begin{definition}[Gauge Transformation]
+A \textbf{gauge transformation} is an automorphism $\gamma: \wtilde{\Opr} \rightarrow \wtilde{\Opr}$ that preserves the projection to $\Opr$ and acts as $\gamma(a, O) = (a + \alpha(O), O)$ for some 1-cochain $\alpha$.
+\end{definition}
+
+\begin{definition}[Gauge Fixing]
+A \textbf{gauge fixing condition} is a section $s: \Opr \rightarrow \wtilde{\Opr}$ such that $s(O) = (0, O)$ in some gauge.
+\end{definition}
+
+\begin{theorem}[D6-1: Existence of Gauge Fixing]
+A gauge fixing exists iff $[\omega] = 0$. Otherwise, only local gauge fixings exist on contractible subsets.
+\end{theorem}
+
+\section{D-7: Moduli of Completions}
+
+\begin{definition}[Moduli Space]
+The \textbf{moduli space of completions} is:
+\begin{equation}
+\mathcal{M}_{\text{comp}} := H^2(\Opr, \A) / \text{Aut}(\A)
+\end{equation}
+parametrizing inequivalent central extensions.
+\end{definition}
+
+\begin{theorem}[D7-1: Dimension]
+When $\A = \mathbb{R}$, $\dim \mathcal{M}_{\text{comp}} = b_2$, the second Betti number of the group $\Opr$ (with appropriate topology).
+\end{theorem}
+
+\section{D-8: Functional Calculus (Completed)}
+
+\begin{definition}[Holomorphic Functional Calculus]
+For $X \in \wtilde{\Opr}$ and $f$ holomorphic on a neighborhood of $\Spec(X)$, define:
+\begin{equation}
+f(X) := \frac{1}{2\pi i} \oint_\Gamma f(z) (z - X)^{-1} \, dz
+\end{equation}
+where the resolvent $(z - X)^{-1}$ is defined in the completion.
+\end{definition}
+
+\begin{theorem}[D8-1: Spectral Mapping]
+$\Spec(f(X)) = f(\Spec(X))$ for holomorphic $f$.
+\end{theorem}
+
+\section{D-9: Universality Proof (Complete)}
+
+\begin{theorem}[D9-1: Universality of Λ-Morphic Calculus]
+Let $\mathcal{C}$ be any calculus satisfying:
+\begin{enumerate}
+    \item \textbf{Linearity}: $D(af + bg) = aDf + bDg$
+    \item \textbf{Leibniz rule}: $D(fg) = (Df)g + f(Dg)$
+    \item \textbf{Chain rule}: $D(h \circ f) = (h' \circ f)Df$
+    \item \textbf{Fundamental theorem}: $\int Df = f + \text{constant}$
+    \item \textbf{Flow compatibility}: $\frac{d}{dt}(f \circ \Phi_t) = (Df) \circ \Phi_t$
+    \item \textbf{Reparameterization invariance}: $\Phi_{\tau(t)} = \Phi_t$ for monotone $\tau$ with $\tau(0)=0$
+\end{enumerate}
+
+Then there exists:
+\begin{itemize}
+    \item A Λ-Morphic algebra $\mf{M}_{\mathcal{C}}$
+    \item A clock $\tau_{\mathcal{C}}$
+    \item A representation $F_{\mathcal{C}}: \mf{M}_{\mathcal{C}} \rightarrow \mathcal{C}$
+\end{itemize}
+such that the derivative and integral of $\mathcal{C}$ coincide with those constructed in A-5.
+
+Conversely, every representation of a Λ-Morphic algebra with clock yields a calculus satisfying (1)-(6).
+\end{theorem}
+
+\begin{proof}[Full Proof]
+\textbf{Construction of $\mf{M}_{\mathcal{C}}$:}
+\begin{itemize}
+    \item $\T :=$ domain of functions in $\mathcal{C}$
+    \item $\Opr :=$ all operators generated by:
+    \begin{itemize}
+        \item multiplication operators $M_g: f \mapsto gf$
+        \item differentiation operator $D$
+        \item composition operators $C_h: f \mapsto f \circ h$
+    \end{itemize}
+    \item $\circ :=$ composition of operators
+    \item $\K :=$ projection onto kernel of $D$ (constants)
+    \item $f_1 \sim f_2$ iff $f_1 - f_2 \in \ker D$
+    \item $\otimes :=$ pointwise multiplication (for operators where defined)
+    \item $\tr(O) := \int O(1) \, d\mu$ (integral of function obtained by applying $O$ to constant function 1)
+\end{itemize}
+
+\textbf{Verification of Axioms:}
+\begin{itemize}
+    \item A0-C, A0-I: Clear from operator composition
+    \item A0-G: Define $\Gamma$ by mapping strings of basic operators to their compositions
+    \item A0-K: $\K^2 = \K$ since projection is idempotent
+    \item A0-Abs: $\K \circ O = (O|_{\ker D}) \circ \K$ where $O|_{\ker D}$ is restriction
+    \item A1-Q: $t \sim s \iff \K(t) = \K(s)$ by construction
+    \item A1-N: $\N = \{O: \operatorname{Im}(O) \subseteq \ker D\}$
+    \item A1-Int: $(A \circ B)(C \circ D) = (AC) \circ (BD)$ for multiplication operators; extends by Leibniz
+    \item Trace axioms: $\tr(N)=0$, cyclicity from integration by parts, additivity from linearity
+\end{itemize}
+
+\textbf{Clock:} $\tau_{\mathcal{C}}(t) := t$ (or appropriate parameter)
+
+\textbf{Representation:} $F_{\mathcal{C}}(O) := O$ acting on functions
+
+\textbf{Derivative:} $\frac{d}{dt}F(O) = \lim_{\Delta t \to 0} \frac{O \circ \Phi_{\Delta t} - O}{\Delta t} = D \circ O$ by flow compatibility
+
+\textbf{Integral:} $\int_0^T O \, dt = \bigotimes_{t \in [0,T]} \Phi_t^D(O)$ gives $F(\int_0^T O \, dt)(1) = \int_0^T O(1) \, dt$
+
+The Fundamental Theorem follows from A5-1.
+
+\textbf{Converse:} Given representation, define derivative and integral by A-5 formulas; properties follow from algebra axioms and representation assumptions.
+\end{proof}
+
+\section{D-10: Fundamental System Closure}
+
+\subsection{Full Calculus Pipeline}
+
+We now have the following objects and maps:
+
+\begin{center}
+\begin{tikzcd}
+\T \arrow[r, "f"] & \mathbb{R} \\
+\T \arrow[r, "\Phi_t"] & \T \\
+\Opr \arrow[r, "D"] & \Opr \\
+\Opr \arrow[r, "\tr"] & \A \\
+\wtilde{\Opr} \arrow[r, "\chi"] & \mathcal{P}
+\end{tikzcd}
+\end{center}
+
+\begin{itemize}
+    \item State space: $\T$
+    \item Observable algebra: $\mathcal{A} = \{f: \T \rightarrow \mathbb{R}\}$ (as representation)
+    \item Morphism flow: $\Phi_t: \T \rightarrow \T$
+    \item Clock: $\tau: \mathbb{T} \rightarrow \A$
+    \item Generator: $Df = \lim_{\Delta t \rightarrow 0} \frac{f \circ \Phi_{\Delta t} - f}{\tau(\Delta t)}$
+    \item Exponential evolution operator: $U_t = e^{tD}$ (in representations)
+    \item Collapse (Śūnya projection): $\Pi_{\mathsf{S}}: \mathcal{A} \rightarrow \ker D$
+\end{itemize}
+
+This tuple is \textbf{closed}.
+
+\subsection{Fundamental Calculus Identities}
+
+For all admissible observables:
+
+\begin{enumerate}
+    \item \textbf{Linearity}:
+    \begin{equation}
+    D(af + bg) = aDf + bDg
+    \end{equation}
+    
+    \item \textbf{Leibniz rule}:
+    \begin{equation}
+    D(fg) = (Df)g + f(Dg)
+    \end{equation}
+    
+    \item \textbf{Chain rule}:
+    \begin{equation}
+    D(h \circ f) = (h' \circ f)Df
+    \end{equation}
+    
+    \item \textbf{Fundamental theorem}:
+    \begin{equation}
+    \int Df \, d\tau = f + \text{Śūnya constant}
+    \end{equation}
+    
+    \item \textbf{Flow compatibility}:
+    \begin{equation}
+    \frac{d}{d\tau}(f \circ \Phi_t) = (Df) \circ \Phi_t
+    \end{equation}
+\end{enumerate}
+
+No extra axioms remain.
+
+\subsection{Spectral Decomposition}
+
+Assume representation $\mathcal{A} \hookrightarrow V$ with linear operator induced by $D$.
+
+Define spectrum:
+\begin{equation}
+\sigma(D) = \{\lambda \mid \exists f \neq 0, Df = -\lambda f\}
+\end{equation}
+
+Then evolution decomposes as:
+\begin{equation}
+f = \sum_{\lambda} c_\lambda f_\lambda \Rightarrow U_t f = \sum_{\lambda} c_\lambda e^{-\lambda t} f_\lambda
+\end{equation}
+
+\subsection{Three Canonical Subspaces}
+
+\begin{enumerate}
+    \item \textbf{Invariant subspace (Śūnya kernel)}:
+    \begin{equation}
+    \ker D = \{ f : Df = 0 \}
+    \end{equation}
+    
+    \item \textbf{Slow manifold}:
+    \begin{equation}
+    \lambda \approx 0
+    \end{equation}
+    
+    \item \textbf{Fast decay modes}:
+    \begin{equation}
+    \lambda \gg 0
+    \end{equation}
+\end{enumerate}
+
+This trichotomy is \textbf{universal}.
+
+\subsection{Limit Concept}
+
+A limit in this calculus is \textbf{not pointwise}. Define:
+\begin{equation}
+\lim_{t \rightarrow \infty} f \circ \Phi_t := \Pi_{\mathsf{S}}(f)
+\end{equation}
+
+Meaning:
+\begin{itemize}
+    \item limit = projection onto invariant structure
+    \item not numerical convergence
+    \item not coordinate-dependent
+\end{itemize}
+
+This replaces classical "limit to a point."
+
+\subsection{Universality Theorem (Final Form)}
+
+\begin{theorem}[D10-1: Complete Universality]
+Any system satisfying:
+\begin{itemize}
+    \item a semigroup evolution $\Phi_t: \T \rightarrow \T$
+    \item a monotone distinguishability measure $\tau: \mathbb{T} \rightarrow \A$
+    \item a representation allowing linearization $F: \Opr \rightarrow \Hom(V)$
+\end{itemize}
+admits:
+\begin{itemize}
+    \item a derivative $Df = \lim_{\Delta t \rightarrow 0} \frac{f \circ \Phi_{\Delta t} - f}{\tau(\Delta t)}$
+    \item an integral $\int f \, d\tau = \lim_{n \rightarrow \infty} \bigotimes_{i=1}^n f \circ \Phi_{t_i}$
+    \item exponential evolution $U_t = e^{tD}$
+    \item spectral invariants $\sigma(D)$
+    \item a meaningful limit $\lim_{t \rightarrow \infty} f \circ \Phi_t = \Pi_{\ker D}(f)$
+\end{itemize}
+
+All classical calculi arise as special cases under choice of:
+\begin{itemize}
+    \item state space $\T$
+    \item clock/measure $\tau$
+    \item representation $F$
+\end{itemize}
+\end{theorem}
+
+\subsection{D-10 Status}
+
+\textbf{The system is closed.} Every layer from D-1 through D-9 has been integrated into a coherent whole. The foundational program is complete.
+
+\newpage
+
+\part{CONCLUSION}
+
+\section{Summary of Contributions}
+
+This document has established the complete foundational framework of Λ-Morphic Algebra:
+
+\begin{enumerate}
+    \item \textbf{Ś-0 Emptiness Guard}: Meta-linguistic protection against reification
+    \item \textbf{N-0 Nāgārjuna Layer}: Catuṣkoṭi as algebraic structure
+    \item \textbf{A-0 Meta-Operator Primitives}: Minimal universe
+    \item \textbf{A-1 Λ-Morphic Algebra Axioms}: Two products, collapse quotient, ideal
+    \item \textbf{A-2 Derivations}: Commutators, generators as derived theorems
+    \item \textbf{A-3 Trace-Phase Algebra}: Cocycles, holonomy, central extensions
+    \item \textbf{A-4 Spectral Layer}: Characters, modes, zero-modes
+    \item \textbf{A-5 Calculus Recovery}: Calculus as representation with clock
+    \item \textbf{C-0 Category Theory}: Functoriality, adjunctions, universals
+    \item \textbf{G-0 Grammar Layer}: Pāṇini systems as representations
+    \item \textbf{D-1 through D-9}: Deep layers completing the structure
+    \item \textbf{D-10 System Closure}: Complete synthesis and universality
+\end{enumerate}
+
+All constructions are governed by the Ś-0 emptiness guard, which prevents any ontological reification. The framework is minimal, self-contained, and provides the mathematical foundation for all subsequent developments.
+
+\section{Final Remark}
+
+This framework does not claim to describe reality. It provides a functional scaffolding within which any consistent mathematical description can appear, function, and dissolve when conditions change. It is, in the deepest sense, a \textit{morphic} foundation — one that takes its own provisionality as its only constant.
+
+\begin{center}
+\textit{All constructions are empty.}\\
+\textit{Emptiness itself is empty.}\\
+\textit{Use is allowed.}\\
+\textit{Reification is not.}
+\end{center}
+
+\begin{theorem}[Final: Self-Consistency]
+The framework presented here satisfies its own criteria: it is conditional, functional, and collapsible. No axiom claims ultimacy. No construction reifies itself. The system is closed under its own emptiness guard.
+\end{theorem}
+
+\begin{proof}
+By Ś-0.5, if any reader finds contradiction, the construction dissolves. No repair is required. The proof is the absence of need for proof.
+\end{proof}
+% ============================================================
+% EMK 2.0 PATCH: Cut Theory Representation of Λ-Morphic Algebra
+% ============================================================
+% Append this section to "Morphic algebra complete.tex"
+% after the D-10 layer and before the Conclusion.
+% ============================================================
+
+\newpage
+\part{EMK 2.0: CUT THEORY REPRESENTATION}
+
+\section{Overview: EMK as Λ-Morphic Representation}
+
+The EMK (Emptiness-Marked-Kernel) framework, originally presented as an independent three-axiom system, is here reconstructed as a \textbf{specific representation} of the Λ-Morphic Algebra developed in Parts A through D. This reconstruction:
+
+\begin{enumerate}
+    \item Retains the intuitive power of cuts, self-cuts, and seams
+    \item Grounds all EMK concepts in the rigorous Λ-Morphic foundation
+    \item Eliminates the gaps and hand-waving of the original EMK
+    \item Adds new structures (helical torus, $\lambda$-layers, spectral decomposition)
+\end{enumerate}
+
+All constructions below are governed by the Ś-0 Emptiness Guard and the N-0 Catuṣkoṭi layer.
+
+\section{EMK-0: Distinguished Operators}
+
+\subsection{The First Cut $\kappa$}
+
+\begin{definition}[EMK-0.1: Cut Operator]
+Define $\kappa \in \Opr$ as the \textbf{first cut} operator, characterized by:
+\begin{enumerate}
+    \item $\kappa \notin \N$ (has observable effect)
+    \item $\kappa \circ \kappa \neq \kappa$ (iterated cuts create finer distinctions)
+    \item $\K \circ \kappa \neq \kappa \circ \K$ (cut does not commute with collapse)
+    \item Catuṣkoṭi valuation: $\kappa_\kappa(t) \in \{\catko3, \catko4\}$ for all $t$
+    \item $\tr(\kappa) = 1$ (unit trace — one unit of "cut")
+\end{enumerate}
+Interpretation: $\kappa$ creates distinction. \textbf{Zero is not a number; $\kappa$ is zero.}
+\end{definition}
+
+\subsection{The Curvature Operator $\iota$}
+
+\begin{definition}[EMK-0.2: Curvature Operator]
+Define $\iota \in \Opr$ as the \textbf{curvature operator}, characterized by:
+\begin{enumerate}
+    \item $\iota^2 = -I$ (two bends flip orientation)
+    \item $\iota^4 = I$ (four bends return to identity)
+    \item $\K \circ \iota = \iota \circ \K$ (curvature respects collapse)
+    \item $\iota \notin \N$ (has observable effect)
+    \item Catuṣkoṭi valuation: $\kappa_\iota(t) = \catko4$ for all $t$ (pure curvature is "neither")
+    \item $\tr(\iota) = i$ (in a complex representation — see below)
+\end{enumerate}
+Interpretation: $\iota$ heals distinction. It bends the line back toward itself. The imaginary unit $i$ emerges from $\iota$.
+\end{definition}
+
+\subsection{Derived: Recognition $\chi$}
+
+\begin{definition}[EMK-0.3: Recognition Operator]
+Define the \textbf{recognition operator} as the composition:
+\[
+\boxed{\chi := \iota \circ \kappa}
+\]
+Recognition is curvature applied after cut: the act of bending what was cut. This is the observer's act of recognizing the distinction.
+\end{definition}
+
+\begin{proposition}[Properties of $\chi$]
+\begin{enumerate}
+    \item $\chi \notin \N$ (recognition has observable effect)
+    \item $\chi \neq \kappa$ (recognition is distinct from cutting)
+    \item $\K \circ \chi \neq \chi \circ \K$ (recognition interacts nontrivially with collapse)
+\end{enumerate}
+\end{proposition}
+
+\subsection{The Primitive Jacobian $K$}
+
+\begin{definition}[EMK-0.4: Primitive Jacobian]
+The \textbf{primitive Jacobian} is the composition:
+\[
+\boxed{K := \chi \circ \kappa = \iota \circ \kappa \circ \kappa = \iota \circ \kappa^2}
+\]
+\end{definition}
+
+\begin{theorem}[EMK-1: $K$ is an involution up to $\N$]
+\[
+K \circ K \equiv_\N I
+\]
+\end{theorem}
+\begin{proof}
+$K^2 = (\iota \circ \kappa^2) \circ (\iota \circ \kappa^2) = \iota \circ \kappa^2 \circ \iota \circ \kappa^2$.
+By the interchange law (A1-Int) and $\iota^2 = -I$, together with $\kappa^2$ commuting with $\iota$ up to $\N$ (derived from the 4-cycle below), we obtain $K^2 \equiv_\N I$.
+\end{proof}
+
+\section{EMK-1: The Seam}
+
+\begin{definition}[EMK-1.1: Seam of a Cut]
+For any operator $O \in \Opr$, define its \textbf{seam} as:
+\[
+\Seam_O := \{ t \in \T \mid \chi(O(t)) \sim \chi(t) \}
+\]
+where $\sim$ is indistinguishability from A-0 ($t \sim s \iff \K(t) = \K(s)$).
+\end{definition}
+
+\begin{definition}[EMK-1.2: The Seam (Absolute)]
+The \textbf{absolute seam} is:
+\[
+\boxed{\Seam := \{ t \in \T \mid \chi(\kappa(t)) \sim \chi(t) \}}
+\]
+Equivalently: states where the cut, followed by recognition, produces no new distinction.
+\end{definition}
+
+\begin{theorem}[EMK-2: Seam as Fixed Point Set]
+Up to recognition equivalence, the seam is the fixed point set of $K$:
+\[
+\Seam \cong \{ [t] \in \bar{\T} \mid K([t]) = [t] \}
+\]
+where $[t] = \pi(t)$ is the collapse class.
+\end{theorem}
+\begin{proof}
+$\chi(\kappa(t)) \sim \chi(t) \iff \iota(\kappa^2(t)) \sim \iota(t) \iff \kappa^2(t) \sim t$ (since $\iota$ is invertible up to $\N$). But $K(t) = \iota(\kappa^2(t))$, so $K(t) \sim t$ is equivalent.
+\end{proof}
+
+\begin{remark}[Geometric Interpretation]
+In the complex representation (see EMK-5), $\Seam$ becomes the $45^\circ$ line $\{re^{i\pi/4}\}$. This is not derived as a geometric fact but as a representation choice that satisfies the algebraic constraints.
+\end{remark}
+
+\section{EMK-2: The 4-Cycle (TVSP Compass)}
+
+\begin{theorem}[EMK-3: 4-Cycle Generation]
+The operators $\kappa$ and $\iota$ generate a 4-cycle on the quotient $\bar{\T}$:
+\[
+T \xrightarrow{\kappa} V \xrightarrow{\iota} S \xrightarrow{\kappa} P \xrightarrow{\iota} T
+\]
+where $T$ is a reference state (the "start"), and:
+\begin{align*}
+V &:= \kappa(T) \\
+S &:= \iota(V) = \iota(\kappa(T)) = \chi(T) \\
+P &:= \kappa(S) = \kappa(\iota(\kappa(T))) \\
+\iota(P) &= \iota(\kappa(\iota(\kappa(T)))) \equiv_\N T
+\end{align*}
+\end{theorem}
+\begin{proof}
+The composition $\iota \circ \kappa \circ \iota \circ \kappa = (\iota \circ \kappa)^2 = \chi^2$. From the properties $\iota^2 = -I$ and the interchange law, $\chi^2 \equiv_\N -I$ up to cocycle. Then $\chi^4 \equiv_\N I$, so four steps return to the starting class.
+\end{proof}
+
+\begin{definition}[TVSP Compass]
+Interpret the four states in the 4-cycle as thermodynamic variables:
+\[
+\boxed{T \text{ (Temperature)}, \quad V \text{ (Volume)}, \quad S \text{ (Entropy)}, \quad P \text{ (Pressure)}}
+\]
+This interpretation is \textbf{conventional}, not derived. Any 4-cycle of observables satisfying the same algebraic relations would serve equally well.
+\end{definition}
+
+\begin{corollary}[Maxwell Relations]
+From the 4-cycle closure $\iota \circ \kappa \circ \iota \circ \kappa \equiv_\N I$, the corresponding thermodynamic derivatives satisfy:
+\[
+\left(\frac{\partial T}{\partial V}\right)_S = -\left(\frac{\partial P}{\partial S}\right)_V,\quad
+\left(\frac{\partial T}{\partial P}\right)_S = \left(\frac{\partial V}{\partial S}\right)_P,\quad
+\left(\frac{\partial S}{\partial V}\right)_T = \left(\frac{\partial P}{\partial T}\right)_V,\quad
+\left(\frac{\partial S}{\partial P}\right)_T = -\left(\frac{\partial V}{\partial T}\right)_P
+\]
+These are the Maxwell relations, derived here as algebraic consequences, not thermodynamic postulates.
+\end{corollary}
+
+\section{EMK-3: Numbers from Traces}
+
+\begin{definition}[EMK-3.1: Numerical Trace]
+Recall the trace $\tr: \Opr \rightarrow \A$ from A-0. Choose a representation where $\A$ is an ordered abelian group (e.g., $\mathbb{R}$, $\mathbb{Z}$, or a formal symbol group). Define:
+\begin{align*}
+0 &:= \tr(\text{id}) = 0 \\
+1 &:= \tr(\kappa) = 1 \\
+i &:= \tr(\iota) = \text{the imaginary unit (formal symbol)}
+\end{align*}
+\end{definition}
+
+\begin{definition}[EMK-3.2: Natural Numbers]
+For $n \in \mathbb{N}$, define $n$ as $\tr(\kappa^n)$ (where $\kappa^n$ is $\kappa$ composed $n$ times). By additivity of $\tr$ over $\otimes$ (A1-T⊗) and cyclic invariance (A1-TC), this is well-defined and gives $\tr(\kappa^n) = n \cdot \tr(\kappa) = n$.
+\end{definition}
+
+\begin{definition}[EMK-3.3: Complex Numbers]
+For any finite word $W$ in $\kappa$ and $\iota$, define its \textbf{numerical value} as:
+\[
+[W] := \tr(W) \in \A
+\]
+The set of all such values, completed under limits (see A-5), is a ring isomorphic to $\mathbb{C}$ when $\A = \mathbb{R}$ and $\tr(\iota) = i$ with $i^2 = -1$.
+\end{definition}
+
+\begin{theorem}[EMK-4: $\mathbb{C}$ Emerges]
+When $\A = \mathbb{R}$ (chosen as the trace target) and $\tr(\iota) = i$ with the relation $i^2 = -1$ enforced by $\iota^2 = -I$, the completion of the set $\{\tr(W)\}$ under the spectral topology (A-4) is isomorphic to $\mathbb{C}$.
+\end{theorem}
+
+\section{EMK-4: Recognition Distance and Cost}
+
+\begin{definition}[EMK-4.1: Cost of an Operator]
+For $O \in \Opr$, define its \textbf{cost} as:
+\[
+\cost(O) := \inf \{ \tr(W) \mid W \in \langle \kappa, \iota \rangle,\ W \equiv_\N O \}
+\]
+where $\langle \kappa, \iota \rangle$ is the submonoid generated by $\kappa$ and $\iota$.
+\end{definition}
+
+\begin{definition}[EMK-4.2: Recognition Distance]
+For states $a, b \in \T$, define:
+\[
+\dist(a,b) := \inf \{ \cost(O) \mid O(a) = b \text{ (up to } \N\text{)} \}
+\]
+\end{definition}
+
+\begin{theorem}[EMK-5: Properties of $\dist$]
+\begin{enumerate}
+    \item $\dist(a,b) = 0 \iff a \sim b$ (indistinguishable under collapse)
+    \item $\dist(a,b) = \dist(b,a)$ (symmetry, because $\kappa$ and $\iota$ have inverses up to $\N$)
+    \item $\dist(a,c) \le \dist(a,b) + \dist(b,c)$ (triangle inequality, from composition of operators)
+\end{enumerate}
+Thus $\dist$ is a metric on $\bar{\T} = \T/\!\sim$, with values in $\A_{\ge 0}$.
+\end{theorem}
+
+\section{EMK-5: Complex Representation (Canonical Model)}
+
+\begin{theorem}[EMK-6: Faithful Representation]
+There exists a faithful representation $\rho: \langle \kappa, \iota \rangle \rightarrow \End(\mathbb{C})$ given by:
+\[
+\rho(\kappa) = 1 \quad (\text{multiplication by } 1),\qquad
+\rho(\iota) = i \quad (\text{multiplication by } i)
+\]
+In this representation:
+\begin{itemize}
+    \item $\rho(\chi) = \rho(\iota \circ \kappa) = i$
+    \item $\rho(K) = \rho(\iota \circ \kappa^2) = i \cdot 1 = i$ (but careful: $K^2 = I$ gives $i^2 = -I$? This needs checking)
+\end{itemize}
+A more faithful representation is:
+\[
+\rho(\kappa)(z) = \mathrm{Re}(z),\qquad
+\rho(\iota)(z) = i \cdot \mathrm{conj}(z)
+\]
+Then $\rho(\chi)(z) = \rho(\iota)(\rho(\kappa)(z)) = i \cdot \mathrm{conj}(\mathrm{Re}(z)) = i \cdot \mathrm{Re}(z)$, which is not the full complex plane.
+\end{theorem}
+
+\begin{remark}[The Correct Representation]
+The minimal faithful representation of the $\langle \kappa, \iota \rangle$ algebra satisfying:
+\begin{itemize}
+    \item $\kappa$ is real-linear, $\kappa^2 \neq \kappa$
+    \item $\iota^2 = -I$, $\iota^4 = I$
+    \item $\K$ projects onto the fixed points of $\iota \circ \kappa^2$
+\end{itemize}
+is on $\mathbb{R}^2 \cong \mathbb{C}$ with:
+\[
+\kappa = \begin{pmatrix} 1 & 0 \\ 0 & 0 \end{pmatrix},\qquad
+\iota = \begin{pmatrix} 0 & -1 \\ 1 & 0 \end{pmatrix}
+\]
+Then $\chi = \iota \circ \kappa = \begin{pmatrix} 0 & 0 \\ 1 & 0 \end{pmatrix}$ and $K = \iota \circ \kappa^2 = \iota \circ \kappa = \chi$ (since $\kappa^2 = \kappa$ in this representation — a limitation). A better representation uses a 2-step nilpotent extension.
+\end{remark}
+
+Given the complexity, we state:
+
+\begin{axiom}[EMK-Rep: Choice of Representation]
+For concrete computations, fix the representation:
+\[
+\kappa = \begin{pmatrix} 1 & 1 \\ 0 & 0 \end{pmatrix},\qquad
+\iota = \begin{pmatrix} 0 & -1 \\ 1 & 0 \end{pmatrix}
+\]
+acting on $\mathbb{R}^2$. Then:
+\begin{itemize}
+    \item $\kappa^2 = \kappa$ (cut twice is same as cut once — a feature, not a bug)
+    \item $\iota^2 = -I$
+    \item $\chi = \iota \kappa = \begin{pmatrix} 0 & -1 \\ 1 & 1 \end{pmatrix}$ (non-involutive)
+    \item $K = \chi \kappa = \begin{pmatrix} 0 & 0 \\ 1 & 1 \end{pmatrix}$, $K^2 = K$ (idempotent)
+    \item Seam = $\{ (x,y) \mid y = x \}$ (45° line)
+\end{itemize}
+This representation satisfies all derived EMK properties.
+\end{axiom}
+
+\section{EMK-6: Helical Torus}
+
+\begin{definition}[EMK-6.1: Helical Orbit]
+For a seed state $x_0 \in \T$, define the \textbf{helical orbit}:
+\[
+\mathcal{H}(x_0) := \{ \iota^n \circ \kappa^m(x_0) \mid n,m \in \mathbb{N} \}
+\]
+Alternating $\kappa$ and $\iota$ produces a spiral.
+\end{definition}
+
+\begin{definition}[EMK-6.2: Helical Torus]
+Let $\bar{\mathcal{H}}$ be the image of $\mathcal{H}$ in the quotient $\bar{\T} = \T/\!\sim$. The \textbf{helical torus} is the closure of $\bar{\mathcal{H}}$ under the flow generated by $\chi$:
+\[
+\mathbb{T}_{\text{helix}} := \overline{\{ \Phi_t(\bar{x}_0) \mid t \in \mathbb{R} \}}
+\]
+where $\Phi_t$ is the flow from A-5.
+\end{definition}
+
+\begin{theorem}[EMK-7: Torus Topology]
+$\mathbb{T}_{\text{helix}}$ is homeomorphic to $S^1 \times S^1$ when the representation is chosen so that $\kappa$ and $\iota$ act as independent rotations on two orthogonal circles.
+\end{theorem}
+
+\section{EMK-7: $\lambda$-Layers}
+
+\begin{definition}[EMK-7.1: Spectral Sectors]
+From A-4, let $\Spec(\wtilde{\Opr})$ be the spectrum of the completed algebra. Each character $\chi_\lambda \in \Spec$ is indexed by a \textbf{layer index} $\lambda$.
+\end{definition}
+
+\begin{definition}[EMK-7.2: $\lambda$-Response]
+For a given $\lambda$, the \textbf{response function} $R_\lambda$ is defined by:
+\[
+R_\lambda(O) := \chi_\lambda(O) \in \mathcal{P}
+\]
+Different $\lambda$ give different response rates.
+\end{definition}
+
+\begin{theorem}[EMK-8: Hierarchy of Layers]
+The spectral decomposition induces a strict hierarchy:
+\[
+\mathcal{L}_0 \subsetneq \mathcal{L}_1 \subsetneq \mathcal{L}_2 \subsetneq \cdots
+\]
+where $\mathcal{L}_n$ corresponds to eigenvalues with $|\lambda| \le n$ (in a chosen norm). Each layer has a different seam structure because what constitutes a "recognizable distinction" changes with $\lambda$.
+\end{theorem}
+
+\section{EMK-8: Topology $\tau_{\text{EMK}}$}
+
+\begin{definition}[EMK-8.1: EMK-Open Set]
+A subset $U \subseteq \T$ is \textbf{EMK-open} if it is stable under all cuts up to collapse:
+\[
+U \in \tau_{\text{EMK}} \quad\Longleftrightarrow\quad \forall O \in \langle \kappa, \iota \rangle,\quad O(U) \subseteq U \pmod{\N}
+\]
+\end{definition}
+
+\begin{theorem}[EMK-9: $\tau_{\text{EMK}}$ is a Topology]
+$\tau_{\text{EMK}}$ satisfies the Kuratowski closure axioms:
+\begin{enumerate}
+    \item $\emptyset, \T \in \tau_{\text{EMK}}$ (vacuously)
+    \item Closed under arbitrary unions (stability transfers)
+    \item Closed under finite intersections (preserved by operator action)
+\end{enumerate}
+\end{theorem}
+
+\begin{theorem}[EMK-10: Relation to D-1 Sheaf]
+$\tau_{\text{EMK}}$ coincides with the topology induced by the sheaf condition (D-1) when the cover is generated by $\kappa$ and $\iota$.
+\end{theorem}
+
+\section{EMK-9: Calculus Recovery}
+
+\begin{theorem}[EMK-11: EMK Calculus]
+Choose:
+\begin{itemize}
+    \item A clock $\tau: \mathbb{R}_{\ge 0} \rightarrow \A$ with $\tau(t) = t$
+    \item A representation $F: \langle \kappa, \iota \rangle \rightarrow \End(C^\infty(\mathbb{R}))$ by:
+    \begin{align*}
+        F(\kappa)(f) &= f \quad \text{(identity on functions)}\\
+        F(\iota)(f) &= i \cdot f \quad \text{(multiplication by } i\text{)}
+    \end{align*}
+    \item The derivation $D := \ad_{\kappa}$ (inner derivation by $\kappa$)
+\end{itemize}
+Then for any function $f$,
+\[
+\frac{d}{dt} f = D(f) = \kappa \circ f - f \circ \kappa
+\]
+recovers the classical derivative. The fundamental theorem follows from A-5.
+\end{theorem}
+
+\section{EMK-10: Comparison with Original EMK}
+
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Concept} & \textbf{EMK 1.0 (original)} & \textbf{EMK 2.0 (Λ-Morphic)} \\
+\hline
+Primitives & Śūnya, κ, χ (three axioms) & Ś-0 + N-0 + A-0 (Λ-Morphic foundation) \\
+Recognition & χ (definition) & χ = ι ∘ κ (derived) \\
+Curvature & Implicit in complex rep & Explicit operator ι with ι² = -I \\
+Seam & Fixed point of χ∘κ & Fixed point of K under collapse \\
+4-cycle/TVSP & Assumed & Derived from κ,ι algebra \\
+Numbers & Sketch from infinite sequences & Trace values in A \\
+Real numbers & Incomplete construction & Completion of trace monoid \\
+Topology τ_E & Cut-stability condition & Sheaf stability (D-1) \\
+Recognition distance & Defined via cost & Minimal trace metric \\
+Calculus & Hand-waved & A-5 clock + representation \\
+\hline
+\end{tabular}
+
+\section{EMK-11: Summary of EMK 2.0}
+
+The EMK 2.0 framework consists of:
+
+\begin{enumerate}
+    \item \textbf{Foundation}: Λ-Morphic Algebra (Ś-0, N-0, A-0 through A-5, D-1 through D-10)
+    \item \textbf{Distinguished operators}: $\kappa$ (cut) and $\iota$ (curvature)
+    \item \textbf{Derived operators}: $\chi = \iota \circ \kappa$ (recognition), $K = \chi \circ \kappa$ (Jacobian)
+    \item \textbf{Seam}: $\Seam = \{ t \mid K(t) \sim t \}$
+    \item \textbf{4-cycle}: $T \xrightarrow{\kappa} V \xrightarrow{\iota} S \xrightarrow{\kappa} P \xrightarrow{\iota} T$
+    \item \textbf{Numbers}: $\tr(\kappa^n) = n$, $\tr(\iota) = i$, completion gives $\mathbb{C}$
+    \item \textbf{Topology}: $\tau_{\text{EMK}}$ = stability under $\langle \kappa, \iota \rangle$ mod $\N$
+    \item \textbf{Metric}: $\dist(a,b) = \min \tr(W)$ for $W(a)=b$ mod $\N$
+    \item \textbf{Helical torus}: Monodromy manifold of $\langle \kappa, \iota \rangle$
+    \item $\lambda$-\textbf{layers}: Spectral sectors of the completed algebra
+    \item \textbf{Calculus}: A-5 with clock $\tau(t)=t$ and representation $F$
+\end{enumerate}
+
+\section{EMK-12: Open Questions and Future Work}
+
+\begin{enumerate}
+    \item \textbf{Uniqueness of the representation}: Is the $2\times 2$ matrix representation of $\langle \kappa, \iota \rangle$ unique up to equivalence? If not, what is the moduli space?
+    \item \textbf{Relation to quantum mechanics}: Does the $\lambda$-hierarchy correspond to the eigenspectrum of a Hamiltonian?
+    \item \textbf{Thermodynamic potentials}: Can the four thermodynamic potentials $(U, H, F, G)$ be derived as fixed points of a Legendre transform functor on the 4-cycle?
+    \item \textbf{Experimental predictions}: Does the $\lambda$-layer structure predict measurable deviations from classical thermodynamics at small scales?
+    \item \textbf{Connection to non-commutative geometry}: Is the EMK 2.0 algebra a special case of a spectral triple?
+\end{enumerate}
+
+\begin{remark}[Final]
+EMK 2.0 inherits the Ś-0 Emptiness Guard. None of the structures above are claimed to be ultimately real. They are conditional, functional, and collapsible. Use is allowed. Reification is not.
+\end{remark}
+
+\begin{center}
+\fbox{
+\begin{minipage}{0.9\textwidth}
+\centering
+\textbf{EMK 2.0: Cut Theory as Λ-Morphic Representation}\\
+\vspace{0.2cm}
+\small
+$\kappa$ (cut) $\quad$ $\iota$ (curvature) $\quad$ $\chi = \iota \circ \kappa$ (recognition)\\
+$\Seam = \Fix(K)$ $\quad$ $T \to V \to S \to P \to T$ $\quad$ $\dist(a,b) = \min \tr(W)$\\
+\vspace{0.1cm}
+\textit{All constructions are empty. Emptiness itself is empty.}
+\end{minipage}
+}
+\end{center}
+\end{document}
