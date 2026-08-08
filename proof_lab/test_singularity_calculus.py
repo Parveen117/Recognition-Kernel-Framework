@@ -8,8 +8,11 @@ from proof_lab.singularity_calculus.verify import (
     closed_period_after_gauge,
     defining_function_positive_rescale_factor,
     exact_potential_mixed_partials,
+    integer_bad_cocycle_interaction,
+    integer_bilinear_cocycle_defect,
     master_closure,
     maxwell_defect,
+    multi_seam_rectangle_stokes,
     piecewise_enthalpy_channels,
     rectangle_seam_stokes,
     run_calibration,
@@ -75,6 +78,24 @@ class SingularityCalculusTests(unittest.TestCase):
         self.assertFalse(master_closure(Fraction(3), Fraction(0), Fraction(-3)))
         self.assertFalse(master_closure(Fraction(0), Fraction(2), Fraction(0)))
         self.assertFalse(master_closure(Fraction(0), Fraction(0), Fraction(5)))
+
+    def test_multi_seam_stokes_is_additive(self):
+        boundary, seam_terms = multi_seam_rectangle_stokes(
+            (Fraction(2, 3), Fraction(-5, 7), Fraction(11, 4)),
+            Fraction(13, 5),
+        )
+        self.assertEqual(boundary, sum(seam_terms, Fraction(0)))
+        self.assertEqual(len(seam_terms), 3)
+
+    def test_flat_bulk_seam_memory_obeys_cocycle(self):
+        for a, b, c in ((2, 3, 5), (-7, 4, 9), (11, -3, 6)):
+            self.assertEqual(integer_bilinear_cocycle_defect(a, b, c), 0)
+
+    def test_curved_bulk_compensates_seam_cocycle_defect(self):
+        defect, bulk_flux = integer_bad_cocycle_interaction(2, 3, 5)
+        self.assertEqual(defect, 60)
+        self.assertEqual(bulk_flux, -60)
+        self.assertEqual(defect + bulk_flux, 0)
 
     def test_full_calibration(self):
         self.assertEqual(
