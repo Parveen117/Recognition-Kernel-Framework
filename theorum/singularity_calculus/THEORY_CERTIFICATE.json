@@ -1,0 +1,91 @@
+{
+  "kind": "RNKE_VERIFIED_SINGULARITY_THEORY_CERTIFICATE",
+  "status": "RNKE_VERIFIED_SINGULARITY_THEORY_WITH_EXCLUSIONS",
+  "theory_file": {
+    "path": "theorum/singularity_calculus/VERIFIED_THEORY.md",
+    "git_blob_sha": "80fff9172a5468f28798dd9cb846fd9ed6f4b98c"
+  },
+  "validated_head": {
+    "branch": "agent/morphic-path-recognition-theorems",
+    "commit": "2f694a4e160e9e17c306fe1e3bfebd8f60d79095"
+  },
+  "theorem_chain": [
+    {
+      "id": "SC-01",
+      "path": "theorum/singularity_calculus/01_orientation_reversal_no_singularity.md",
+      "git_blob_sha": "9ffb154254a09a8ce8ea59577382a799e2628e82",
+      "status": "PROVED"
+    },
+    {
+      "id": "SC-02",
+      "path": "theorum/singularity_calculus/02_process_form_curvature_and_maxwell_defect.md",
+      "git_blob_sha": "1bd81b3d8b65e25cd09f818a5162c31ff4c6ffcd",
+      "status": "PROVED"
+    },
+    {
+      "id": "SC-03",
+      "path": "theorum/singularity_calculus/03_distributional_seam_curvature.md",
+      "git_blob_sha": "3e36fc395087642a5c5a0b792e5da63634e9ba86",
+      "status": "PROVED_DISTRIBUTIONAL"
+    },
+    {
+      "id": "SC-04",
+      "path": "theorum/singularity_calculus/04_tangential_jump_removability_and_gauge.md",
+      "git_blob_sha": "f144623a3c57092e0a282c654352b4f145f4f91a",
+      "status": "PROVED"
+    },
+    {
+      "id": "SC-05",
+      "path": "theorum/singularity_calculus/05_seam_stokes_memory.md",
+      "git_blob_sha": "923ba3eded5c5dfd798c3b3aa911e0ad02825a81",
+      "status": "PROVED"
+    },
+    {
+      "id": "SC-06",
+      "path": "theorum/singularity_calculus/06_regular_singular_typed_non_cancellation.md",
+      "git_blob_sha": "97afeca01c032e96cde31387958b9040fd223366",
+      "status": "PROVED"
+    },
+    {
+      "id": "SC-07",
+      "path": "theorum/singularity_calculus/07_piecewise_enthalpy_seam_law.md",
+      "git_blob_sha": "d2d19e0f6ca37cadac541b5092c9e805d3151685",
+      "status": "PROVED_APPLICATION"
+    },
+    {
+      "id": "SC-08",
+      "path": "theorum/singularity_calculus/08_seam_gauge_class_and_period_memory.md",
+      "git_blob_sha": "ab6e5715ccffe58f3c05aaad5762efc4b7ca9e0f",
+      "status": "PROVED"
+    },
+    {
+      "id": "SC-09",
+      "path": "theorum/singularity_calculus/09_master_singularity_closure_theorem.md",
+      "git_blob_sha": "8ef1a450126febb08c70d4ef0c47df0e47537ad8",
+      "status": "PROVED_MASTER_CLOSURE"
+    }
+  ],
+  "central_closure_packet": "C_sing=(Omega_minus,Omega_plus,R_Sigma)",
+  "central_theorem": "d alpha = 0 iff Omega_minus = 0, Omega_plus = 0, and R_Sigma = 0",
+  "proof_lab": {
+    "verifier_blob_sha": "1bf41492d81c3b96f54d4609d60751dfd37a3f61",
+    "test_blob_sha": "03ad95ec78dc3351f7a2e70f30e383e9d082bc6a",
+    "unit_tests": "12/12 PASS",
+    "exact_controls": 11,
+    "calibration_status": "PASS_SINGULARITY_CALCULUS_CALIBRATION",
+    "ci_workflow": "Singularity Calculus Certification",
+    "ci_run_id": 31258495202,
+    "ci_python_3_11": "success",
+    "ci_python_3_12": "success"
+  },
+  "claim_boundary": {
+    "formal_proof_assistant": false,
+    "universal_physical_theory": false,
+    "automatic_topological_transition": false,
+    "generalized_onsager_without_adapter": false,
+    "atomic_periodic_table_claims": false,
+    "chemical_bond_valence_claims": false,
+    "device_performance_claims": false,
+    "statement": "Verified piecewise-smooth/distributional Recognition-seam theory; domain-specific physical, topological, microscopic, operator, chemical, and device identifications require separate adapters."
+  }
+}
