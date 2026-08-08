@@ -1,0 +1,80 @@
+{
+  "kind": "RNKE_VERIFIED_STRATIFIED_RECOGNITION_CERTIFICATE",
+  "status": "RNKE_VERIFIED_STRATIFIED_RECOGNITION_LINEAR_CORE",
+  "dependencies": {
+    "morphic_recognition_mr02": {
+      "path": "theorum/morphic_recognition/02_path_blindness_minimal_memory_repair.md",
+      "git_blob_sha": "26e126d3740a72a9e1a20876f6e6058e7981bfc7"
+    },
+    "singularity_theory_v5": {
+      "path": "theorum/singularity_calculus/THEORY_CERTIFICATE_V5.json",
+      "git_blob_sha": "ff825f5e5e9427d7eec2947f037a647460a4cc4d"
+    }
+  },
+  "validated_head": {
+    "branch": "agent/stratified-recognition-faithfulness-v1",
+    "commit": "7915fc739611370a0ef4befa63dcab0da9dcb23f",
+    "ci_run_id": 31262853402,
+    "python_3_11": "success",
+    "python_3_12": "success"
+  },
+  "theorems": [
+    {
+      "id": "SR-01",
+      "path": "theorum/stratified_recognition/01_stratified_target_faithfulness_and_decoder.md",
+      "git_blob_sha": "cb30edae44f327b0805546e83734d0eaa0a4ae6a",
+      "status": "PROVED_FAITHFULNESS_DECODER_AND_MINIMUM_REPAIR"
+    },
+    {
+      "id": "SR-02",
+      "path": "theorum/stratified_recognition/02_stratum_truncation_blindness_and_repair.md",
+      "git_blob_sha": "3c848b7f7deecd2c3cb9c385485dfe38df40b9ea",
+      "status": "PROVED_TRUNCATION_BLINDNESS_AND_REPAIR"
+    },
+    {
+      "id": "SR-03",
+      "path": "theorum/stratified_recognition/03_differential_obstruction_false_commit_no_go.md",
+      "git_blob_sha": "8013e188561a9c518745f7abe9969e23ac0498d1",
+      "status": "PROVED_DIFFERENTIAL_OBSTRUCTION_FALSE_COMMIT_NO_GO"
+    }
+  ],
+  "central_results": {
+    "faithfulness": "ker(E) subseteq ker(Pi_star)",
+    "decoder": "Pi_star = L E on ran(E) iff E is target-faithful",
+    "blind_dimension": "rank([E;Pi_star]) - rank(E) = rank(Pi_star restricted to ker(E))",
+    "minimum_repair": "m_min = rank(Pi_star restricted to ker(E))",
+    "truncation": "P_<=r is Pi-faithful iff Pi restricted to V_>r is zero",
+    "compatibility_target": "for partial=D_Delta or mathbb_D, false closure is excluded when ker(E) subseteq ker(partial)",
+    "blind_witness": "failure of faithfulness guarantees v with E v=0 and partial v != 0"
+  },
+  "proof_lab": {
+    "verifier_blob_sha": "998069463a36fb08fccdadfca309aa9993ebcd0e",
+    "test_blob_sha": "915122cb839f813ce3e5da3b94371fe096554a0e",
+    "stratified_recognition_unit_tests": "8/8 PASS",
+    "exact_controls": 9,
+    "calibration_status": "PASS_STRATIFIED_RECOGNITION_CALIBRATION",
+    "singularity_v5_recheck": "30/30 PASS",
+    "controls": [
+      "faithfulness decoder rank control",
+      "exact blind dimension",
+      "target-relevant truncation blindness",
+      "one-channel truncation repair",
+      "target-irrelevant omitted stratum remains faithful",
+      "differential-obstruction blindness",
+      "differential minimum repair",
+      "explicit observer-zero / obstruction-nonzero witness",
+      "typed scalar cancellation rejected"
+    ]
+  },
+  "claim_boundary": {
+    "formal_proof_assistant": false,
+    "finite_dimensional_linear_scope": true,
+    "computational_hardness": false,
+    "cryptographic_security": false,
+    "infinite_dimensional_minimum_rank": false,
+    "nonlinear_topological_faithfulness": false,
+    "physical_sensor_faithfulness_without_adapter": false,
+    "global_exactness_from_differential_closure": false,
+    "statement": "Verified finite-dimensional linear bridge from typed stratified obstructions to target-faithful observation and exact minimum repair. Nonlinear, infinite-dimensional, physical-sensor, hardness, and global-reconstruction claims require separate theorems."
+  }
+}
