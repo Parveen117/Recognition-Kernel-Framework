@@ -2,16 +2,32 @@
 
 ## 1. Bigraded normal-crossing carrier
 
-Let the finite normal-crossing jump complex of SC-16 carry differential forms on
-each stratum. Write
+Let the finite normal-crossing jump complex of SC-16 be enriched by a differential
+graded coefficient module on every stratum. For each normal-crossing stratum
+indexed by \(I\subseteq\{1,\ldots,n\}\), let
 
 \[
-C^{p,q}
-=
-\bigoplus_{|I|=q}\Omega^p(A_I),
+B_I^p
 \]
 
-where \(p\) is ordinary form degree and \(q\) is codimension/jump degree.
+be the degree-\(p\) coefficient group. In the geometric realization one may take
+
+\[
+B_I^p=\Omega^p(S_I;E),
+\]
+
+where \(S_I\) is the codimension-\(|I|\) stratum and \(E\) is a fixed coefficient
+space.
+
+Define the bigraded carrier
+
+\[
+\boxed{
+C^{p,q}
+=
+\bigoplus_{|I|=q}B_I^p.
+}
+\]
 
 Let
 
@@ -19,22 +35,29 @@ Let
 d:C^{p,q}\to C^{p+1,q}
 \]
 
-be the stratumwise exterior derivative and
+be the stratumwise differential, with
+
+\[
+\boxed{d^2=0.}
+\]
+
+Let
 
 \[
 D_\Delta:C^{p,q}\to C^{p,q+1}
 \]
 
-be the alternating jump differential of SC-16.
+be the alternating jump differential of SC-16, now acting degreewise on the
+modules \(B_I^p\).
 
-Assume jump/restriction commutes with exterior differentiation on every
-normal-crossing square:
+Assume every jump/restriction map commutes with the stratumwise differential:
 
 \[
 \boxed{dD_\Delta=D_\Delta d.}
 \]
 
-This is the ordinary compatibility of pullback/trace with \(d\).
+For ordinary differential forms this is the familiar compatibility of pullback
+or trace with the exterior derivative.
 
 ## 2. Total differential
 
@@ -70,7 +93,7 @@ one has
 
 ### Proof
 
-Let \(c\in C^{p,q}\). Since \(dc\) has form degree \(p+1\),
+Let \(c\in C^{p,q}\). Since \(dc\) has differential degree \(p+1\),
 
 \[
 \mathbb D(dc)
@@ -78,7 +101,7 @@ Let \(c\in C^{p,q}\). Since \(dc\) has form degree \(p+1\),
 d^2c+(-1)^{p+1}D_\Delta dc.
 \]
 
-Since \(D_\Delta c\) still has form degree \(p\),
+Since \(D_\Delta c\) still has differential degree \(p\),
 
 \[
 \mathbb D((-1)^pD_\Delta c)
@@ -98,7 +121,7 @@ Therefore
 Using \(dD_\Delta=D_\Delta d\), the two cross terms cancel, so
 
 \[
-\mathbb D^2c=0.
+\boxed{\mathbb D^2c=0.}
 \]
 
 ∎
@@ -115,20 +138,20 @@ The total complex
 }
 \]
 
-with differential \(\mathbb D\) packages ordinary differential closure and
+with differential \(\mathbb D\) packages stratumwise differential closure and
 normal-crossing compatibility into one nilpotent operator.
 
 Thus the chain
 
 ```text
-bulk exterior derivative
+bulk differential
 + seam jump
 + junction jump
 + higher normal-crossing jumps
 ```
 
-is not a collection of unrelated rules. It is a single total complex under the
-declared compatibility hypotheses.
+is not a collection of unrelated rules. Under the declared hypotheses it is a
+single total complex.
 
 ## 3. Sign necessity
 
@@ -138,11 +161,13 @@ The sign \((-1)^p\) is structural. If one instead uses
 \mathbb D_{\rm bad}=d+D_\Delta,
 \]
 
-then for a form of even degree the cross terms add:
+then, because \(d\) and \(D_\Delta\) commute,
 
 \[
-\mathbb D_{\rm bad}^2c
-=2dD_\Delta c
+\boxed{
+\mathbb D_{\rm bad}^2
+=2dD_\Delta
+}
 \]
 
 in characteristic different from two, which is generally nonzero.
@@ -156,21 +181,21 @@ compatibility:
 
 \[
 \boxed{
-\text{smooth nonclosure}
+\text{within-stratum nonclosure}
 \quad\text{and}\quad
-\text{stratified nonclosure}.
+\text{between-stratum nonclosure}.
 }
 \]
 
-A valid representation must preserve both components. A vanishing scalar summary
-cannot replace \(\mathbb D\)-closure.
+A faithful representation must preserve both components. A vanishing scalar
+summary cannot replace \(\mathbb D\)-closure.
 
 ## 5. Boundary
 
 This theorem is algebraic/differential-geometric. It does not assert:
 
 - that every closed total cochain comes from a global process potential;
-- exactness of the total complex;
+- exactness or acyclicity of the total complex;
 - a universal physical meaning for total cohomology;
 - validity at nontransverse singular intersections;
 - infinite-dimensional analytic closure without extra hypotheses.
@@ -178,10 +203,10 @@ This theorem is algebraic/differential-geometric. It does not assert:
 ## Status
 
 ```text
-BIGRADED STRATIFIED CARRIER                    DEFINED
-STRATUMWISE d                                  STANDARD
+BIGRADED STRATIFIED COEFFICIENT MODULES        DEFINED
+STRATUMWISE DIFFERENTIAL d                     ASSUMED NILPOTENT
 JUMP DIFFERENTIAL D_DELTA                      SC-16
-COMMUTATION d D_DELTA = D_DELTA d              ASSUMED NORMAL-CROSSING COMPATIBILITY
+COMMUTATION d D_DELTA = D_DELTA d             ASSUMED NORMAL-CROSSING COMPATIBILITY
 TOTAL DIFFERENTIAL mathbb D                    DEFINED
 mathbb D^2 = 0                                 PROVED
 WRONG-SIGN TOTALIZATION                        REJECTED / NEGATIVE CONTROL
