@@ -1,0 +1,76 @@
+{
+  "kind": "RNKE_VERIFIED_SINGULARITY_THEORY_V4_TRIPLE_CROSSING_CERTIFICATE",
+  "status": "RNKE_VERIFIED_SINGULARITY_THEORY_V4_WITH_EXCLUSIONS",
+  "base_theory": {
+    "certificate_path": "theorum/singularity_calculus/THEORY_CERTIFICATE_V3.json",
+    "scope": "SC-01 through SC-13"
+  },
+  "extension_file": {
+    "path": "theorum/singularity_calculus/VERIFIED_THEORY_TRIPLE_EXTENSION.md",
+    "git_blob_sha": "749dfa7b7b351ab10c74e23859d352b01fb3a7a0"
+  },
+  "validated_theorem_head": {
+    "branch": "agent/singularity-triple-crossing-v4",
+    "commit": "e392b4ae69aa3b058ec88ff66bc7635857922e0b"
+  },
+  "new_theorems": [
+    {
+      "id": "SC-14",
+      "path": "theorum/singularity_calculus/14_triple_normal_crossing_alternating_junction.md",
+      "git_blob_sha": "9c460f359a9984a36af1eb3e4a687c33cfb5e43b",
+      "status": "PROVED_TRIPLE_NORMAL_CROSSING_COMPATIBILITY"
+    },
+    {
+      "id": "SC-15",
+      "path": "theorum/singularity_calculus/15_codimension_three_realizability_obstruction.md",
+      "git_blob_sha": "81d34a98ea21215567efea0a0c17d6552ee55e16",
+      "status": "PROVED_CODIMENSION_THREE_REALIZABILITY_OBSTRUCTION"
+    }
+  ],
+  "central_results": {
+    "pairwise_junctions": "J_12=Delta_1 beta_2-Delta_2 beta_1; J_13=Delta_1 beta_3-Delta_3 beta_1; J_23=Delta_2 beta_3-Delta_3 beta_2",
+    "triple_residue": "T_123=Delta_1 J_23-Delta_2 J_13+Delta_3 J_12",
+    "derived_compatibility": "compatible normal-crossing seam data imply T_123=0",
+    "obstruction": "T_123 != 0 implies no compatible lower-stratum seam realization exists",
+    "recognition_packet": "J_3=(J_12,J_13,J_23;T_123)",
+    "converse_boundary": "T_123=0 is necessary local compatibility only; global realizability is not claimed"
+  },
+  "proof_lab": {
+    "legacy_verifier_blob_sha": "e45316160aa1a8e4536041bf08300cc172c56fce",
+    "legacy_test_blob_sha": "e7da6eb263cab086224373ea1c482bf2de0e9975",
+    "triple_verifier_blob_sha": "94859f7d1d1b3c4efc1131c2a302c954abf453b3",
+    "triple_test_blob_sha": "e9b6232c6bfa81af69e5db518150f71c5d7c818d",
+    "legacy_unit_tests": "19/19 PASS",
+    "triple_unit_tests": "4/4 PASS",
+    "combined_unit_tests": "23/23 PASS",
+    "legacy_exact_controls": 18,
+    "triple_exact_controls": 3,
+    "combined_exact_controls": 21,
+    "legacy_calibration_status": "PASS_SINGULARITY_CALCULUS_CALIBRATION",
+    "triple_calibration_status": "PASS_TRIPLE_NORMAL_CROSSING_CALIBRATION",
+    "ci_workflow": "Singularity Calculus Certification",
+    "ci_run_id": 31260404317,
+    "ci_python_3_11": "success",
+    "ci_python_3_12": "success"
+  },
+  "audit_note": {
+    "first_candidate_run": 31260326296,
+    "first_candidate_status": "FAILED_EXPECTED_VALUE_INDEX_ORDERING",
+    "mathematical_formula_changed": false,
+    "correction": "updated stale expected J_13/J_23 calibration values to match the declared beta-table indexing"
+  },
+  "claim_boundary": {
+    "formal_proof_assistant": false,
+    "transverse_three_seam_normal_crossing": true,
+    "triple_delta_in_first_curvature": false,
+    "T123_zero_implies_global_realizability": false,
+    "nontransverse_triple_junctions": false,
+    "quadruple_or_higher_junctions": false,
+    "automatic_topological_transition": false,
+    "universal_physical_identification": false,
+    "atomic_periodic_table_claims": false,
+    "chemical_bond_valence_claims": false,
+    "device_performance_claims": false,
+    "statement": "Verified transverse three-seam local compatibility and codimension-three obstruction layer. Higher, nontransverse, global-reconstruction, and domain-specific identifications remain outside the certified scope."
+  }
+}

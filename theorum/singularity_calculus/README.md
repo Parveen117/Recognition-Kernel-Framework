@@ -1,13 +1,13 @@
 # Singularity Calculus
 
-This folder contains the certified mathematical core extracted from an audited source draft and then rebuilt as a theorem-grade Recognition layer.
+This folder contains the certified mathematical core extracted from an audited source draft and rebuilt as a theorem-grade Recognition layer.
 
-The raw source was **not** imported as a theorem manuscript. False or unsupported claims were rejected during audit. The retained development is a calculus of piecewise-smooth differential forms, Recognition seams, seam memory, multi-seam composition, and transverse junction compatibility.
+The raw source was **not** imported as a theorem manuscript. False or unsupported claims were rejected during audit. The retained development is a calculus of piecewise-smooth differential forms, Recognition seams, seam memory, multi-seam composition, transverse junction compatibility, and higher normal-crossing obstruction.
 
 Current theory status:
 
 ```text
-RNKE_VERIFIED_SINGULARITY_THEORY_V3_WITH_EXCLUSIONS
+RNKE_VERIFIED_SINGULARITY_THEORY_V4_WITH_EXCLUSIONS
 ```
 
 ## Development chain
@@ -22,8 +22,10 @@ smooth process form
 -> typed closure
 -> finite multi-seam additivity
 -> seam-memory cocycle / bulk interaction
--> transverse normal-crossing compatibility
--> stratified Bianchi junction residue.
+-> transverse two-seam compatibility
+-> stratified Bianchi junction residue
+-> transverse three-seam alternating compatibility
+-> codimension-three realizability obstruction.
 ```
 
 ## Certified theorem chain
@@ -38,11 +40,7 @@ smooth process form
    - proves the Maxwell-defect coefficient in the enthalpy chart.
 
 3. `03_distributional_seam_curvature.md`
-   - proves
-     \[
-     d\alpha=(1-H)d\alpha_-+Hd\alpha_+
-     +\delta(\rho)d\rho\wedge(\alpha_+-\alpha_-).
-     \]
+   - proves the distributional seam-jump curvature formula.
 
 4. `04_tangential_jump_removability_and_gauge.md`
    - seam curvature vanishes exactly when the tangential jump vanishes;
@@ -60,10 +58,7 @@ smooth process form
    - separates smooth Maxwell defects from interface-supported seam curvature.
 
 8. `08_seam_gauge_class_and_period_memory.md`
-   - proves the gauge class
-     \[
-     [R_\Sigma]\in\Omega^1(\Sigma)/d_\Sigma\Omega^0(\Sigma);
-     \]
+   - proves the gauge class of the seam residue modulo exact seam forms;
    - closed-cycle seam periods are gauge invariant.
 
 9. `09_master_singularity_closure_theorem.md`
@@ -79,7 +74,7 @@ smooth process form
     - multi-seam closure is componentwise.
 
 11. `11_seam_filler_cocycle_and_curvature_interaction.md`
-    - seam filler memory has cocycle defect
+    - proves
       \[
       \delta\omega_\Sigma=-\mathcal B_{\rm associator};
       \]
@@ -87,30 +82,48 @@ smooth process form
     - curved bulk produces an explicit typed interaction channel.
 
 12. `12_normal_crossing_no_spurious_double_delta.md`
-    - for two transverse seams, the two mixed-jump routes agree;
+    - for two transverse seams, mixed-jump routes agree;
     - `d alpha` contains no independent `delta(rho1)delta(rho2)` term;
     - potential codimension-two terms cancel in `d^2 alpha`.
 
 13. `13_stratified_bianchi_junction_residue.md`
-    - for independently declared stratified curvature data, defines
+    - defines
       \[
       J_{12}=\Delta_1\beta_2-\Delta_2\beta_1;
       \]
     - proves the bulk/seam/junction Bianchi decomposition and componentwise closure law.
 
+14. `14_triple_normal_crossing_alternating_junction.md`
+    - for three transverse seams defines
+      \[
+      T_{123}=\Delta_1J_{23}-\Delta_2J_{13}+\Delta_3J_{12};
+      \]
+    - proves `T_123=0` for compatible seam-derived junction data.
+
+15. `15_codimension_three_realizability_obstruction.md`
+    - proves the no-go implication
+      \[
+      T_{123}\neq0
+      \Rightarrow
+      \text{no compatible lower-stratum seam realization};
+      \]
+    - explicitly does not claim the converse global reconstruction theorem.
+
 ## Theory documents
 
 - `VERIFIED_THEORY.md` — SC-01 through SC-09 integrated single-seam theory.
 - `VERIFIED_THEORY_MULTI_SEAM_EXTENSION.md` — SC-10/SC-11 multi-seam composition extension.
-- `VERIFIED_THEORY_JUNCTION_EXTENSION.md` — SC-12/SC-13 transverse junction extension.
+- `VERIFIED_THEORY_JUNCTION_EXTENSION.md` — SC-12/SC-13 transverse two-seam junction extension.
+- `VERIFIED_THEORY_TRIPLE_EXTENSION.md` — SC-14/SC-15 transverse three-seam compatibility extension.
 
 Certificates and status files are versioned rather than silently overwritten:
 
 - `THEORY_CERTIFICATE.json`, `THEORY_STATUS.md`
 - `THEORY_CERTIFICATE_V2.json`, `THEORY_STATUS_V2.md`
 - `THEORY_CERTIFICATE_V3.json`, `THEORY_STATUS_V3.md`
+- `THEORY_CERTIFICATE_V4.json`, `THEORY_STATUS_V4.md`
 
-## Central closure packets
+## Central typed packets
 
 Single seam:
 
@@ -138,7 +151,15 @@ Transverse two-seam Bianchi hierarchy:
 }
 \]
 
-Each packet closes only componentwise.
+Transverse triple-junction compatibility:
+
+\[
+\boxed{
+\mathfrak J_3=(J_{12},J_{13},J_{23};T_{123}).
+}
+\]
+
+These packets have different semantics. Pairwise junction closure, triple compatibility, path-composition cocycle closure, and bulk curvature closure are not interchangeable scalar tests.
 
 ## Interface to the Recognition Framework
 
@@ -154,6 +175,7 @@ Important separations remain:
 ```text
 singular seam current != automatic topological transition
 junction residue       != automatic physical defect
+T_123 obstruction      != automatic microscopic event
 curvature threshold    != automatic winding jump
 ```
 
@@ -161,15 +183,27 @@ A domain adapter must prove any such identification.
 
 ## Current verification
 
-The SC-12/SC-13 theorem head passed:
+The v4 theorem/proof head is:
 
 ```text
-19/19 unit tests
-18 exact calibration controls
-Python 3.11
-Python 3.12
-GitHub Actions run 31259516097
+e392b4ae69aa3b058ec88ff66bc7635857922e0b
 ```
+
+Verification:
+
+```text
+legacy suite 19/19 PASS
+triple suite 4/4 PASS
+combined 23/23 PASS
+legacy exact controls 18 PASS
+triple exact controls 3 PASS
+combined exact controls 21 PASS
+Python 3.11 PASS
+Python 3.12 PASS
+GitHub Actions run 31260404317 PASS
+```
+
+The first v4 candidate run failed only because two expected calibration values used stale table-index ordering. The theorem formula and alternating sign were unchanged; the corrected exact values then passed both Python versions. This audit is retained in `THEORY_CERTIFICATE_V4.json`.
 
 ## Claim boundary
 
@@ -184,9 +218,12 @@ FLAT-BULK SEAM MEMORY AS MR-03 COCYCLE                  PROVED
 CURVED-BULK ASSOCIATOR INTERACTION                      PROVED
 NO SPURIOUS DOUBLE-DELTA TERM IN d alpha                PROVED
 TRANSVERSE TWO-SEAM JUNCTION BIANCHI LAW                PROVED
+TRANSVERSE THREE-SEAM T_123 COMPATIBILITY               PROVED
+T_123 != 0 REALIZABILITY OBSTRUCTION                    PROVED
 
+T_123 = 0 => GLOBAL RECONSTRUCTION                      NOT CLAIMED
 NONTRANSVERSE JUNCTIONS                                 OPEN
-TRIPLE/HIGHER NORMAL-CROSSING JUNCTION HIERARCHY        OPEN
+QUADRUPLE / GENERAL HIGHER NORMAL-CROSSING HIERARCHY    OPEN
 GLOBAL POTENTIAL RECONSTRUCTION FROM CLOSED DATA        OPEN
 AUTOMATIC TOPOLOGICAL / MICROSCOPIC IDENTIFICATION      NOT CLAIMED
 ATOMIC / PERIODIC-TABLE / CHEMICAL-BOND CLAIMS          NOT PROMOTED

@@ -4,7 +4,7 @@
 
 ```text
 THEORY EXTENSION STATUS:
-RNKE_SINGULARITY_THEORY_V4_TRIPLE_CROSSING_CANDIDATE
+RNKE_VERIFIED_SINGULARITY_THEORY_V4_WITH_EXCLUSIONS
 ```
 
 This extension consumes SC-01 through SC-13 and adds the first transverse
@@ -48,8 +48,8 @@ J_{13}=\Delta_1\beta_3-\Delta_3\beta_1,
 J_{23}=\Delta_2\beta_3-\Delta_3\beta_2.
 \]
 
-These are exactly the pairwise junction channels already suggested by SC-13,
-now retained simultaneously in a three-seam geometry.
+These are the pairwise junction channels from the SC-13 hierarchy, now retained
+simultaneously in a three-seam geometry.
 
 ## 3. Triple alternating residue
 
@@ -73,7 +73,7 @@ SC-14 proves that for compatible seam-derived junction data,
 \boxed{T_{123}=0.}
 \]
 
-The proof is exact cancellation of mixed jumps:
+The proof is exact cancellation of mixed jumps using
 
 \[
 \Delta_i\Delta_j=\Delta_j\Delta_i.
@@ -91,14 +91,14 @@ triple alternating compatibility T_123.
 
 ## 4. Where the triple object lives
 
-There is still **no independent triple-delta term in the first curvature**
+There is still no independent triple-delta term in the first curvature
 \(d\alpha\).
 
 For a genuine piecewise process form, the first derivative produces bulk and
-codimension-one seam terms. The second stratified derivative can produce
-pairwise codimension-two junction terms. Differentiating those junction terms
-through the third seam gives the potential codimension-three coefficient
-\(T_{123}\), which cancels for compatible derived data.
+codimension-one seam terms. The next stratified derivative can produce pairwise
+codimension-two junction terms. Differentiating those junction terms through the
+third seam gives the potential codimension-three coefficient \(T_{123}\), which
+cancels for compatible derived data.
 
 So the theory does not manufacture a new singularity merely because three seams
 cross. It identifies the compatibility law that prevents a false one.
@@ -116,13 +116,8 @@ T_{123}\neq0
 }
 \]
 
-The converse is intentionally not claimed:
-
-\[
-T_{123}=0
-\]
-
-passes this local compatibility gate but does not prove global reconstruction.
+The converse is intentionally not claimed. The condition \(T_{123}=0\) passes
+this local compatibility gate but does not prove global reconstruction.
 
 ## 6. Recognition packet
 
@@ -151,45 +146,41 @@ T_{123}\neq0
 
 ## 7. Relation to previous versions
 
-Version 1:
-
 ```text
-single seam -> distributional curvature -> typed closure.
-```
-
-Version 2:
-
-```text
-finite disjoint seams -> additive memory -> cocycle / bulk interaction.
-```
-
-Version 3:
-
-```text
-two transverse seams -> pairwise junction Bianchi residue.
-```
-
-Version 4 candidate:
-
-```text
-three transverse seams -> alternating triple compatibility obstruction.
+v1: single seam -> distributional curvature -> typed closure
+v2: disjoint seams -> additive memory -> cocycle / bulk interaction
+v3: two transverse seams -> pairwise junction Bianchi residue
+v4: three transverse seams -> alternating triple compatibility obstruction
 ```
 
 The composition/filler cocycle of SC-11 and the geometric junction hierarchy of
 SC-12 through SC-15 remain separate typed structures.
 
-## 8. Verification contract
+## 8. Verification
 
-The triple proof lab must check all of the following exactly:
+The v4 theorem/proof head is
 
-1. compatible seam tables can have nonzero \(J_{ij}\) while \(T_{123}=0\);
-2. the structural alternating sign is necessary, with a wrong-sign negative
-   control failing on the same compatible data;
-3. an independently corrupted pairwise junction table produces
-   \(T_{123}\neq0\) and is rejected.
+```text
+e392b4ae69aa3b058ec88ff66bc7635857922e0b
+```
 
-The legacy SC-01 through SC-13 verifier is not modified by this extension. CI
-runs both suites.
+GitHub Actions run `31260404317` passes on Python 3.11 and 3.12.
+
+Combined executable verification:
+
+```text
+23/23 unit tests PASS
+21 exact controls PASS
+legacy calibration PASS
+triple normal-crossing calibration PASS
+```
+
+The triple controls include:
+
+1. nonzero pairwise \(J_{ij}\) with exact \(T_{123}=0\);
+2. a wrong-sign alternating formula that fails on the same compatible data;
+3. independently corrupted pairwise junction data with \(T_{123}=5\), correctly
+   rejected.
 
 ## 9. Boundary
 
