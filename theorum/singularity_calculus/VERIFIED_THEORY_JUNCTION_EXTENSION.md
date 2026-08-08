@@ -4,7 +4,7 @@
 
 ```text
 THEORY EXTENSION STATUS:
-RNKE_VERIFIED_SINGULARITY_THEORY_V3_JUNCTION_PENDING_CI
+RNKE_VERIFIED_SINGULARITY_THEORY_V3_WITH_EXCLUSIONS
 ```
 
 This extension consumes SC-01 through SC-11 and adds the first transverse
@@ -181,7 +181,25 @@ are distinct typed obligations.
 The first is a filler/associator statement. The second is a normal-crossing
 Bianchi statement.
 
-## 6. What is not claimed
+## 6. Verification
+
+Validated theorem head:
+
+```text
+431408ff4dadfe13cb917c96e0c46dd3cd8ab048
+```
+
+Exact verification:
+
+```text
+19/19 unit tests PASS
+18 exact calibration controls PASS
+Python 3.11 PASS
+Python 3.12 PASS
+GitHub Actions run 31259516097 PASS
+```
+
+## 7. What is not claimed
 
 This extension does not claim:
 
