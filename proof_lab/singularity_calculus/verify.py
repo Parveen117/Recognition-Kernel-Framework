@@ -67,6 +67,24 @@ def piecewise_enthalpy_channels(
     )
 
 
+def closed_period_after_gauge(
+    base_period: Fraction,
+    gauge_start: Fraction,
+    gauge_end: Fraction,
+) -> Fraction:
+    # Integral_C (R + dg) = Integral_C R + g(end)-g(start).
+    return base_period + gauge_end - gauge_start
+
+
+def master_closure(
+    bulk_minus: Fraction,
+    bulk_plus: Fraction,
+    seam: Fraction,
+) -> bool:
+    # SC-09 finite scalar calibration of the typed closure packet.
+    return bulk_minus == 0 and bulk_plus == 0 and seam == 0
+
+
 def run_calibration() -> dict[str, object]:
     swap_ok = axis_swap_determinant() == -1
 
@@ -105,6 +123,18 @@ def run_calibration() -> dict[str, object]:
         == (Fraction(0), Fraction(0), Fraction(4, 3))
     )
 
+    closed_period_gauge_ok = (
+        closed_period_after_gauge(Fraction(17, 5), Fraction(9, 7), Fraction(9, 7))
+        == Fraction(17, 5)
+    )
+
+    master_closure_ok = (
+        master_closure(Fraction(0), Fraction(0), Fraction(0))
+        and not master_closure(Fraction(3), Fraction(0), Fraction(-3))
+        and not master_closure(Fraction(0), Fraction(2), Fraction(0))
+        and not master_closure(Fraction(0), Fraction(0), Fraction(5))
+    )
+
     controls = {
         "axis_swap_det_minus_one": swap_ok,
         "smooth_d_squared_zero_control": d2_zero_ok,
@@ -115,6 +145,8 @@ def run_calibration() -> dict[str, object]:
         "positive_defining_function_rescaling": defining_function_ok,
         "typed_regular_singular_non_cancellation": typed_non_cancellation_ok,
         "flat_bulk_piecewise_enthalpy_seam": piecewise_enthalpy_ok,
+        "closed_period_gauge_invariance": closed_period_gauge_ok,
+        "master_closure_componentwise": master_closure_ok,
     }
     status = all(controls.values())
     return {
