@@ -58,6 +58,22 @@ D_Delta / mathbb D compatibility targets.
    - unfaithful observer guarantees such a blind direction;
    - exact minimum repair rank.
 
+4. `04_physical_observer_minimum_sensor_repair.md`
+   - device-facing specialization of the observer theorem;
+   - installed sensor map \(S\) is target-faithful iff
+     \[
+     \ker S\subseteq\ker\Pi;
+     \]
+   - physical blind dimension
+     \[
+     b_{\rm phys}=\operatorname{rank}(\Pi|_{\ker S});
+     \]
+   - exact minimum independent sensor repair
+     \[
+     \boxed{m_{\min}=b_{\rm phys}};
+     \]
+   - differential-obstruction and higher-stratum truncation corollaries.
+
 ## Core integration theorem
 
 Singularity Calculus supplies typed obstruction channels. Morphic Recognition
@@ -114,7 +130,7 @@ with dimension
 That same number is the minimum number of added scalar linear channels required
 to repair the observer.
 
-## Red-team interface
+## Red-team and device interface
 
 The canonical falsification witness is
 
@@ -136,31 +152,47 @@ Ev=0,
 }
 \]
 
-This gives a clean public challenge architecture:
+For a physical sensor map \(S\):
+
+\[
+\boxed{
+Sv=0,
+\qquad
+\Pi v\neq0.
+}
+\]
+
+This gives a clean challenge and bench architecture:
 
 ```text
-intentionally incomplete observer
+intentionally incomplete observer/sensor
 -> guaranteed target-blind direction
--> red team discovers witness
+-> witness discovered experimentally or adversarially
 -> theorem computes exact minimum repair
--> attack repaired observer again.
+-> same target re-tested with repaired observer.
 ```
 
 No absence-of-search-hit is treated as a proof of faithfulness; faithfulness is a
 kernel theorem.
 
+## Public theorem / private proof policy
+
+`theorum/PUBLIC_THEOREM_REGISTER_2026_08_08.md` records the public theorem surface.
+Canonical proof archives for the SC/SR chain developed in this cycle are retained
+in the private `IEL3_FINAL_UPGRADED` proof vault on branch
+`agent/recognition-private-proof-vault-2026-08-08`.
+
+Earlier development commits may contain historical proof text. Going forward, new
+public theorem files should expose theorem statement, assumptions, consequences,
+claim boundary, and proof/certificate digest rather than the canonical derivation.
+
 ## Verification
 
-Validated theorem/proof head:
+The SR-01 through SR-03 linear core was validated at:
 
 ```text
 7915fc739611370a0ef4befa63dcab0da9dcb23f
-```
-
-GitHub Actions run:
-
-```text
-31262853402
+GitHub Actions run 31262853402
 ```
 
 ```text
@@ -170,6 +202,10 @@ Singularity v5 recheck          30/30 PASS
 Python 3.11                      PASS
 Python 3.12                      PASS
 ```
+
+The SR-04 public theorem surface was added at commit
+`ecf25adbe0420164ec65f003e9384fc7bf49ffb1` and the same public certification
+workflow completed successfully in run `31264426930`.
 
 ## Certificate
 
