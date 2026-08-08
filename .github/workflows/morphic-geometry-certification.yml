@@ -5,9 +5,9 @@ on:
     branches:
       - agent/morphic-path-recognition-theorems
     paths:
-      - 'theorum/morphic_calculus/Morphic operator geometry..tex'
-      - 'theorum/morphic_geometry/**'
+      - 'theorum/morphic_geometry/source_original.tex'
       - 'scripts/certify_morphic_geometry.py'
+      - 'scripts/certify_morphic_geometry_canonical.py'
       - 'scripts/patch_morphic_geometry_transport.py'
       - '.github/workflows/morphic-geometry-certification.yml'
       - '.gitattributes'
@@ -29,8 +29,8 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Prepare exact source and audited main.tex
-        run: python scripts/certify_morphic_geometry.py prepare
+      - name: Prepare canonical source and audited main.tex
+        run: python scripts/certify_morphic_geometry_canonical.py prepare
 
       - name: Complete IAST and Sanskrit LaTeX transport
         run: python scripts/patch_morphic_geometry_transport.py
@@ -46,10 +46,10 @@ jobs:
           latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex
 
       - name: Finalize RNKE certificate
-        run: python scripts/certify_morphic_geometry.py finalize
+        run: python scripts/certify_morphic_geometry_canonical.py finalize
 
       - name: Verify all Geometry gates
-        run: python scripts/certify_morphic_geometry.py verify
+        run: python scripts/certify_morphic_geometry_canonical.py verify
 
       - name: Upload compiled manuscript and certificate
         uses: actions/upload-artifact@v4
@@ -61,7 +61,7 @@ jobs:
             theorum/morphic_geometry/CERTIFICATION_SUMMARY.md
             theorum/morphic_geometry/CERTIFICATION_STATUS.md
 
-      - name: Commit exact source, audited main.tex, and certificates
+      - name: Commit audited Geometry outputs when changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
