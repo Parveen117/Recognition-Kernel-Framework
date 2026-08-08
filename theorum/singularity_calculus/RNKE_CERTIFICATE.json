@@ -4,8 +4,14 @@
   "full_source_manuscript_certification": false,
   "kind": "RNKE_SINGULARITY_CALCULUS_CERTIFICATE",
   "proof_lab": {
-    "ci_status": "PENDING_FIRST_REMOTE_RUN",
+    "ci_status": "PASS_REMOTE_CI",
     "ci_workflow": "Singularity Calculus Certification",
+    "ci_run_id": 31258128148,
+    "ci_head_sha": "a3521586ef2457bf31a0a2a1feecd47677ce4a1b",
+    "ci_jobs": {
+      "python_3_11": "success",
+      "python_3_12": "success"
+    },
     "controls": [
       "axis swap determinant equals -1",
       "smooth exact-potential d^2=0 control",
