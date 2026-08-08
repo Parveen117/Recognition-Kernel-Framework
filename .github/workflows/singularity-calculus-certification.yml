@@ -1,0 +1,37 @@
+name: Singularity Calculus Certification
+
+on:
+  push:
+    branches:
+      - agent/morphic-path-recognition-theorems
+    paths:
+      - 'theorum/singularity_calculus/**'
+      - 'proof_lab/singularity_calculus/**'
+      - 'proof_lab/test_singularity_calculus.py'
+      - '.github/workflows/singularity-calculus-certification.yml'
+  pull_request:
+    paths:
+      - 'theorum/singularity_calculus/**'
+      - 'proof_lab/singularity_calculus/**'
+      - 'proof_lab/test_singularity_calculus.py'
+      - '.github/workflows/singularity-calculus-certification.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  singularity-calculus:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.11', '3.12']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Run theorem controls
+        run: python -m unittest -v proof_lab.test_singularity_calculus
+      - name: Run exact calibration
+        run: python -m proof_lab.singularity_calculus.verify
