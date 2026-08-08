@@ -4,16 +4,19 @@ on:
   push:
     branches:
       - agent/morphic-path-recognition-theorems
+      - agent/singularity-triple-crossing-v4
     paths:
       - 'theorum/singularity_calculus/**'
       - 'proof_lab/singularity_calculus/**'
       - 'proof_lab/test_singularity_calculus.py'
+      - 'proof_lab/test_singularity_calculus_triple.py'
       - '.github/workflows/singularity-calculus-certification.yml'
   pull_request:
     paths:
       - 'theorum/singularity_calculus/**'
       - 'proof_lab/singularity_calculus/**'
       - 'proof_lab/test_singularity_calculus.py'
+      - 'proof_lab/test_singularity_calculus_triple.py'
       - '.github/workflows/singularity-calculus-certification.yml'
   workflow_dispatch:
 
@@ -32,6 +35,11 @@ jobs:
         with:
           python-version: ${{ matrix.python-version }}
       - name: Run theorem controls
-        run: python -m unittest -v proof_lab.test_singularity_calculus
-      - name: Run exact calibration
+        run: >-
+          python -m unittest -v
+          proof_lab.test_singularity_calculus
+          proof_lab.test_singularity_calculus_triple
+      - name: Run exact legacy calibration
         run: python -m proof_lab.singularity_calculus.verify
+      - name: Run exact triple-crossing calibration
+        run: python -m proof_lab.singularity_calculus.verify_triple
