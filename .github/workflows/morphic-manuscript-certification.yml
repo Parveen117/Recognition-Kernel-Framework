@@ -34,7 +34,7 @@ jobs:
       - name: Install LaTeX runtime
         run: |
           sudo apt-get update
-          sudo apt-get install -y latexmk texlive-latex-extra texlive-science texlive-pictures lmodern
+          sudo apt-get install -y latexmk texlive-latex-extra texlive-science texlive-pictures texlive-fonts-extra lmodern
 
       - name: Compile Morphic Algebra
         run: |
