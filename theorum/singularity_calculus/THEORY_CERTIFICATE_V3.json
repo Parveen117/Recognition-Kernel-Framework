@@ -7,11 +7,17 @@
   },
   "extension_file": {
     "path": "theorum/singularity_calculus/VERIFIED_THEORY_JUNCTION_EXTENSION.md",
-    "git_blob_sha": "3c67188b09a5d3b7f7df137bc664c483815d0e68"
+    "git_blob_sha": "774335981b5bf54777d54bf2eb6ad2419d74a4ce"
   },
   "validated_theorem_head": {
     "branch": "agent/morphic-path-recognition-theorems",
     "commit": "431408ff4dadfe13cb917c96e0c46dd3cd8ab048"
+  },
+  "final_repository_validation": {
+    "head_before_certificate_rebind": "401afb65cf85c312d961aa5b661b9b1d5a0eedfb",
+    "ci_run_id": 31259590144,
+    "python_3_11": "success",
+    "python_3_12": "success"
   },
   "new_theorems": [
     {
@@ -42,7 +48,7 @@
     "exact_controls": 18,
     "calibration_status": "PASS_SINGULARITY_CALCULUS_CALIBRATION",
     "ci_workflow": "Singularity Calculus Certification",
-    "ci_run_id": 31259516097,
+    "theorem_head_ci_run_id": 31259516097,
     "ci_python_3_11": "success",
     "ci_python_3_12": "success"
   },
