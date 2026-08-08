@@ -6,8 +6,9 @@
 *.md text eol=lf
 *.tex text eol=lf
 
-# Byte-preserved provenance snapshots. These two files must retain the exact
+# Byte-preserved provenance snapshots. These files must retain the exact
 # uploaded source bytes, including original line endings; verified publication
 # copies are generated separately as main.tex with normalized LF endings.
 theorum/morphic_algebra/source_original.tex -text
 theorum/morphic_calculus/source_original.tex -text
+theorum/morphic_geometry/source_original.tex -text
