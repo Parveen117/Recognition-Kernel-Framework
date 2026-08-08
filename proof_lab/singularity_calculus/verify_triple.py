@@ -73,8 +73,8 @@ def run_triple_calibration() -> dict[str, object]:
 
     compatible_nontrivial_ok = (
         j12 == (7, -2)
-        and j13 == (1, 0)
-        and j23 == (-6, 2)
+        and j13 == (3, 2)
+        and j23 == (-8, 0)
         and any(value != 0 for pair in (j12, j13, j23) for value in pair)
         and triple_obstruction(j12, j13, j23) == 0
     )

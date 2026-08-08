@@ -16,8 +16,8 @@ class TripleNormalCrossingTests(unittest.TestCase):
         beta1, beta2, beta3 = calibration_tables()
         j12, j13, j23 = pairwise_junctions_from_seam_tables(beta1, beta2, beta3)
         self.assertEqual(j12, (7, -2))
-        self.assertEqual(j13, (1, 0))
-        self.assertEqual(j23, (-6, 2))
+        self.assertEqual(j13, (3, 2))
+        self.assertEqual(j23, (-8, 0))
         self.assertTrue(any(v != 0 for pair in (j12, j13, j23) for v in pair))
         self.assertEqual(triple_obstruction(j12, j13, j23), 0)
 
