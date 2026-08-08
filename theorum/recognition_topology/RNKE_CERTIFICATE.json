@@ -1,0 +1,57 @@
+{
+  "kind": "RNKE_RECOGNITION_TOPOLOGY_CERTIFICATE",
+  "status": "RNKE_VERIFIED_TOPOLOGY_CORE",
+  "source_notes": {
+    "source_A_sha256": "bd0343d2676da7fcc5d1a911f8499001e72ff809289947e88f14cc19b424f848",
+    "source_B_sha256": "fc72600c220fb2c3f24fde3d94714c96bdad694a255e1f08e2378657ac71a12a"
+  },
+  "theorems": [
+    {
+      "id": "RT-01",
+      "title": "Winding-Sector Stability and Seam-Event Theorem",
+      "status": "PROVED",
+      "sha256": "75749b84279d49b6b2d7c04135d9d58f4e0909c944b0999f84f57d520cd1f82c"
+    },
+    {
+      "id": "RT-02",
+      "title": "Abelian Holonomy-Variation and Curvature-Transgression Theorem",
+      "status": "PROVED",
+      "sha256": "29a931f0c5cfc79658b4724e706400b22da7d15dc24742d28eaf1987d81f7906"
+    },
+    {
+      "id": "RT-03",
+      "title": "Principal-Holonomy Blindness and Lifted Branch-Memory Theorem",
+      "status": "PROVED",
+      "sha256": "bcc4f6bf90b76fb23ca2cb973bcc8a72b6093cb27668b87a5206c4b4a2e19bdb"
+    },
+    {
+      "id": "RT-04",
+      "title": "Unitary Phase-Crossing and Topological Sector-Index Theorem",
+      "status": "PROVED_SCALAR_TOPOLOGICAL_CORE",
+      "sha256": "cee4759c1206fcadbcae0d7cb81adcf74a7a1640885fd8574ea6b5bc7db30a61"
+    }
+  ],
+  "proof_lab": {
+    "status": "PASS_RECOGNITION_TOPOLOGY_CALIBRATION",
+    "workflow": "Recognition Topology Proof Lab",
+    "workflow_run": 31253513797,
+    "python_versions": ["3.11", "3.12"],
+    "controls": [
+      "exact rectangle Stokes calibration",
+      "exact-gauge closed-loop invariance",
+      "principal-holonomy blindness to integer lifts",
+      "scalar branch repair",
+      "signed phase-crossing equals winding",
+      "explicit degree-change seam witness"
+    ]
+  },
+  "not_promoted": [
+    "phenomenological curvature-memory threshold detector as foundational operator",
+    "curvature magnitude alone implies integer winding-sector jump",
+    "generic nonabelian holonomy variation by the abelian plain line-integral formula",
+    "generic spectral flow of the rate generator i U^{-1} Udot equals winding",
+    "model-specific entropy/skew connection as canonical Recognition geometry"
+  ],
+  "formal_proof_assistant": false,
+  "claim_boundary": "Topological and abelian differential-form core proved; domain-specific physical triggers and broader operator spectral-flow extensions require separate hypotheses."
+}
