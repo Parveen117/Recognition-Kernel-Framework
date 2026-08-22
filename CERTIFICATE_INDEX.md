@@ -590,6 +590,21 @@ proof_lab/test_pingala_chandas_pratyaya.py
 proof_lab/PINGALA_CHANDAS_PRATYAYA_EXPECTED.sha256
 ```
 
+## Theorem 72 Śulba measure residue packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Baudhāyana constructions on an exact rational carrier; flat vs memory-closed per the owner's note; √2 cord Smṛti 1/166464; circle round-trip Smṛti |
+| Status | `PASS_SULBA_MEASURE_RESIDUE_CANDIDATE` |
+| Canonical result SHA-256 | `8f9db340d011dbc0f035570f9c7a33ef51a02aa367f77bf84f0fbb2ef0d0da37` |
+
+```text
+theorum/72_sulba_measure_residue_theorem.md
+proof_lab/sulba_measure_residue.py
+proof_lab/test_sulba_measure_residue.py
+proof_lab/SULBA_MEASURE_RESIDUE_EXPECTED.sha256
+```
+
 ## Ladder audit 50–59
 
 | Field | Value |

@@ -575,3 +575,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_PINGALA_CHANDAS_PRATYAYA_HASH', actual)
           PY
+
+      - name: Reproduce sulba measure residue certificate
+        run: |
+          python -m proof_lab.sulba_measure_residue \
+            --output proof_lab/SULBA_MEASURE_RESIDUE_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/SULBA_MEASURE_RESIDUE_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/SULBA_MEASURE_RESIDUE_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_SULBA_MEASURE_RESIDUE_HASH', actual)
+          PY
