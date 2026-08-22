@@ -446,7 +446,7 @@ proof_lab/REWRITE_RULES_AS_CUT_MODULE_OPERATORS_EXPECTED.sha256
 |---|---|
 | Certificate class | Second canvas batch nativized: two canvas laws disproved, circular-system identity proved, terminal-object ⟺ confluence |
 | Status | `PASS_SILENCE_VIBRATION_SUTRA_FLOW_CANDIDATE` |
-| Canonical result SHA-256 | `4e5afe9b9c163ee87343cce3f374ad9527f66f50b43d369a39720a4d6c803450` |
+| Canonical result SHA-256 | `44f88cfa73330bfe0d377d94522f806cbde47bd5b38ac47689cb16add7064426` |
 
 ```text
 theorum/62_silence_vibration_sutra_flow_theorem.md

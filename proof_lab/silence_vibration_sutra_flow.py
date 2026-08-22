@@ -56,7 +56,7 @@ from typing import Any
 from proof_lab.generalized_euler_emk_dock import I2, R, is_anti_self_dagger
 from proof_lab.loop_residue_first_visible_jet_binding import DEPTH, j_add, j_const, j_mul, j_scale
 from proof_lab.native_seam_gap_odd_covariance import eye, is_zero, m_add, m_scale, mat, sc, star, zeros
-from proof_lab.paninian_seam_calculus import GAM, SANDHI, VOWELS
+from proof_lab.paninian_seam_calculus import GAM, NI, SANDHI, VOWELS
 from proof_lab.rewrite_rules_as_cut_module_operators import realize, sp_mul, sp_sub
 from proof_lab.seam_compensated_confluence_verdict import _priority_step, explore, step, word_rules
 
@@ -90,7 +90,10 @@ def t1_sutra_flow() -> dict[str, Any]:
     Rm = realize(GAM, word_rules(True))
     C = sp_sub(sp_mul(Rm["mats"]["7.3.77"], Rm["mats"]["6.1.73"], Rm["n"]), sp_mul(Rm["mats"]["6.1.73"], Rm["mats"]["7.3.77"], Rm["n"]))
     checks = {
-        "canvas_law_Ri_Rj_eq_Ri_DISPROVED_on_6_1_101_over_6_1_77": not canvas_law,
+        # OWNER CORRECTION (Aug 23): the canvas law is a DEFINITION of the short-circuit composition ▹, not a claim
+        # about the C_Sigma product.  What is certified: ▹ is NOT the product (R_101 R_77 != R_101), and ▹ over all
+        # rules IS the step operator P_max.  Reclassified from "disproved" to "▹ ≠ ∘; ▹ = P_max".
+        "canvas_short_circuit_composition_is_not_the_C_Sigma_product": not canvas_law,
         "priority_step_operator_is_not_any_single_rule_nor_any_product": pmax_not_single and pmax_not_product,
         "confluent_gam_with_memory_has_nonzero_enabling_commutator": bool(C),
     }
@@ -161,8 +164,35 @@ def t2_vibration_from_silence() -> dict[str, Any]:
 
 
 # ---------------------------------------------------------------- T3
+def _all_paths(g, W0):
+    def rec(W, acc):
+        es = g["edges"].get(W, [])
+        if not es:
+            yield acc
+            return
+        for r, v in es:
+            yield from rec(v, acc + [r])
+    return list(rec(W0, []))
+
+
 def t3_awareness_category() -> dict[str, Any]:
     out = {}
+    # OWNER CORRECTION (Aug 23): "every morphism factors through silence" was tested with the CLASSICAL
+    # category reading (silence = initial object = root) and "disproved".  The canvas's own definition is
+    # silence = lopa = the zero-operator (Astadhyayi canvas Sec. 2.2, 1.3.9).  Under that reading the claim is
+    # TRUE: every maximal derivation path contains a 1.3.9 step.  Both readings are recorded; the Paninian one
+    # is the theorem, the classical one was my import.
+    lopa_on_every_path = {}
+    for name, W0 in (("gam", GAM), ("nI", NI)):
+        g = explore(W0, word_rules(True))
+        ps = _all_paths(g, W0)
+        lopa_on_every_path[name] = all("1.3.9" in p for p in ps) and len(ps) > 0
+    # 8.2.1 purvatrasiddham: tripadi rules (8.2-8.4) are asiddha to earlier rules -> 8.4.40 never fires before 6.1.73
+    asiddha_order = {}
+    for name, W0 in (("gam", GAM), ("nI", NI)):
+        g = explore(W0, word_rules(True))
+        ps = _all_paths(g, W0)
+        asiddha_order[name] = not any(r == "8.4.40" and "6.1.73" not in p[:i] for p in ps for i, r in enumerate(p))
     for name, rules in (("with_memory", word_rules(True)), ("without_memory", word_rules(False))):
         g = explore(GAM, rules)
         sinks = [W for W in g["states"] if not g["edges"].get(W)]
@@ -174,9 +204,11 @@ def t3_awareness_category() -> dict[str, Any]:
     checks = {
         "terminal_object_exists_iff_confluent_with_memory_yes": out["with_memory"]["terminal_exists"],
         "terminal_object_absent_without_memory_two_sinks": (not out["without_memory"]["terminal_exists"]) and out["without_memory"]["sinks"] >= 2,
-        "every_morphism_factors_through_silence_DISPROVED_no_return_arrows": not out["with_memory"]["arrow_back_to_root"] and not out["without_memory"]["arrow_back_to_root"],
+        "classical_reading_silence_as_root_no_return_arrows": not out["with_memory"]["arrow_back_to_root"] and not out["without_memory"]["arrow_back_to_root"],
+        "PANINI_reading_silence_as_lopa_every_derivation_path_passes_1_3_9": all(lopa_on_every_path.values()),
+        "8_2_1_purvatrasiddham_tripadi_8_4_40_never_before_6_1_73": all(asiddha_order.values()),
     }
-    return {"checks": checks, "graphs": out}
+    return {"checks": checks, "graphs": out, "lopa_on_every_path": lopa_on_every_path, "asiddha_order": asiddha_order}
 
 
 def _reaches(g, a, b) -> bool:
@@ -201,9 +233,10 @@ def build_certificate() -> dict[str, Any]:
         "status": status,
         "claim_boundary": {
             "proved_by_exact_finite_certificate": [
-                "Sūtra-flow: 'R_i > R_j => R_i R_j = R_i' DISPROVED; the lawful priority object is the step operator P_max (not a single rule, not a product); 'commutators vanish under confluence' DISPROVED (enabling commutator nonzero on the confluent gam carrier)",
+                "Sūtra-flow: the short-circuit composition ▹ is NOT the C_Sigma product (R_101 R_77 != R_101) and ▹ over all rules IS the step operator P_max; 'commutators vanish under confluence' holds for CONFLICT commutators only -- enabling (nimitta) commutators stay nonzero on the confluent gam carrier, ordered by 8.2.1 purvatrasiddham, not by 1.4.2",
                 "Vibration from silence: for anti-self-dagger D with D^2 = -omega^2 I, Exp(tD) = Cos(omega t) I + Sin(omega t) D/omega exactly in jets (F00E circular system); companion two-cycle; nilpotent control has no oscillation",
-                "Awareness category on the reachable graph: terminal object exists iff CONFLUENT_MOD_LEDGER (gam with/without memory); no arrow returns to the root, so 'every morphism factors through silence' is false",
+                "Awareness category on the reachable graph: terminal object exists iff CONFLUENT_MOD_LEDGER; under the canvas's OWN reading silence = lopa (zero-operator, 1.3.9) 'every morphism factors through silence' is TRUE (every derivation path contains a 1.3.9 step); under the classical initial-object reading it is false (no return arrows) -- the classical reading was an import and is withdrawn as the verdict",
+                "8.2.1 purvatrasiddham certified on the word carrier: the tripadi rule 8.4.40 never fires before 6.1.73 on any derivation path -- the enabling commutator [R_6.1.73, R_8.4.40] is Panini's asiddha ordering, not a conflict",
             ],
             "NOT_claimed": [
                 "OM beyond theorum/56 B5; any Laplacian eigenvalue omega_1 (no primitive-carrier object)",

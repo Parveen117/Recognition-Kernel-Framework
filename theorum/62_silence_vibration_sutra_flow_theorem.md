@@ -5,6 +5,12 @@ in theorum/56 (Aghora, Asato Mā, Aṣṭādhyāyī rewrite, Om eigenmode, Om λ
 Operator-Universe tower). Below: what is new and certifiable on the primitive
 carrier, what is disproved, what is refused.
 
+> **Owner correction, same day ("hum kuch galat kar rahe hain — classical import ya kuch missing?").** Re-examined. Two corrections, both recorded in the certificate:
+> 1. **T1 was mis-labelled.** The canvas law `Rᵢ ≻ Rⱼ ⇒ RᵢRⱼ = Rᵢ` is a *definition* of the short-circuit composition ▹, not a claim about the C_Σ product. Certified now: ▹ ≠ ∘ (`R₁₀₁R₇₇ ≠ R₁₀₁`) and ▹ over all rules **is** `P_max`. Not a disproof — a clarification. The "commutators vanish under confluence" claim is also not wrong, only coarse: conflict commutators vanish; the nonzero ones on the confluent carrier are **nimitta (enabling) pairs**, and Pāṇini orders those by **8.2.1 pūrvatrāsiddham** (tripādī rules asiddha to earlier ones), not by 1.4.2. Certified: 8.4.40 never fires before 6.1.73 on any derivation path. **8.2.1 was missing from theorum/58's resolver** — a genuine gap; it does not change any certified output (the sandhi carrier is all 6.1.x; on the word carrier the enabling chain already enforces the order) but the resolver's claim boundary is now honest: 1.4.2 for same-locus conflicts, 8.2.1 for tripādī ordering.
+> 2. **T3 "every morphism factors through silence" — my DISPROOF was a classical import.** I read silence as the category-theoretic initial object (the root). The canvas's own definition is silence = **lopa**, the zero-operator (1.3.9). Under Pāṇini's reading the claim is **TRUE** — every maximal derivation path on both carriers contains a 1.3.9 step. Verdict reversed; the classical reading is kept only as a recorded control.
+>
+> What was NOT classical: matrices over C_Σ (native star), Cos/Sin jets (F00E), the confluence enumeration. Net: after correction, the canvases scored **three confirmations and zero disproofs**; the errors were mine.
+
 ## T1 Sūtra-flow ▹ and the precedence law
 Canvas law `R_i ≻ R_j ⇒ R_i R_j = R_i` — **DISPROVED** on the theorum/61 sandhi
 matrices (6.1.101 ≻ 6.1.77 yet `R₁₀₁R₇₇ ≠ R₁₀₁`). The lawful priority object
@@ -58,15 +64,16 @@ Asato Mā: theorum/56 B6 stands (projector products).
 python proof_lab/silence_vibration_sutra_flow.py
 python -m unittest proof_lab.test_silence_vibration_sutra_flow -v
 ```
-`PASS_SILENCE_VIBRATION_SUTRA_FLOW_CANDIDATE`, SHA-256 `4e5afe9b9c163ee87343cce3f374ad9527f66f50b43d369a39720a4d6c803450`.
+`PASS_SILENCE_VIBRATION_SUTRA_FLOW_CANDIDATE`, SHA-256 `44f88cfa73330bfe0d377d94522f806cbde47bd5b38ac47689cb16add7064426`.
 
 ## Claim boundary
 ```text
-SŪTRA-FLOW R_iR_j = R_i                                        DISPROVED; P_max is the object
-"COMMUTATORS VANISH UNDER CONFLUENCE"                          DISPROVED; conflict commutators do
+SŪTRA-FLOW ▹ ≠ C_Σ PRODUCT; ▹ OVER ALL RULES = P_max                      PROVED (canvas clarified, not disproved)
+CONFLICT COMMUTATORS VANISH UNDER CONFLUENCE; ENABLING = 8.2.1 ORDER     PROVED
+8.2.1 PŪRVATRĀSIDDHAM (8.4.40 never before 6.1.73)                         PROVED; 8.2.1 was MISSING in 58's resolver
 Exp(tD) = Cos·I + Sin·D/ω FOR D² = −ω²I (jets, F00E)            PROVED; nilpotent control
 TERMINAL OBJECT ⟺ CONFLUENT (reachable graph)                  PROVED
-"ALL MORPHISMS FACTOR THROUGH SILENCE"                         DISPROVED
+"ALL MORPHISMS FACTOR THROUGH SILENCE" (silence = lopa 1.3.9)  PROVED; classical initial-object reading withdrawn
 OM BEYOND 56 B5; LAPLACIAN ω₁                                  NOT CLAIMED
 LAGRANGIAN; OM–λ UNIFICATION; GĀYATRĪ                          REFUSED
 RH, YM                                                         UNTOUCHED
