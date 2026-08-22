@@ -404,6 +404,25 @@ proof_lab/test_prime_letter_operators.py
 proof_lab/PRIME_LETTER_OPERATORS_EXPECTED.sha256
 ```
 
+## Theorem 60 Seam-compensated confluence verdict packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Decidable confluence-mod-ledger verdict on finite reachable carriers (Vedic confluence note, no Newman import) |
+| Scope | critical-pair classification PRIORITY_RESOLVED / LEDGER_ABSORBED / OPEN; word carrier: memory ⇒ zero critical pairs, erased ⇒ OPEN (1.3.9, 7.3.77); sandhi carrier under/without 1.4.2; containment ≠ equality; termination checked |
+| Status | `PASS_SEAM_COMPENSATED_CONFLUENCE_VERDICT_CANDIDATE` |
+| Canonical result SHA-256 | `5112f60ac5bfd85d4427d46d7b618c9d938a30f81ba1e8b7838e4da878c6fec8` |
+| Proof arithmetic | exact finite enumeration; no float |
+
+Files:
+
+```text
+theorum/60_seam_compensated_confluence_verdict_theorem.md
+proof_lab/seam_compensated_confluence_verdict.py
+proof_lab/test_seam_compensated_confluence_verdict.py
+proof_lab/SEAM_COMPENSATED_CONFLUENCE_VERDICT_EXPECTED.sha256
+```
+
 ## Ladder audit 50–59
 
 | Field | Value |

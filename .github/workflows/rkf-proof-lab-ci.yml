@@ -359,3 +359,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_PRIME_LETTER_OPERATORS_HASH', actual)
           PY
+
+      - name: Reproduce seam-compensated confluence verdict certificate
+        run: |
+          python -m proof_lab.seam_compensated_confluence_verdict \
+            --output proof_lab/SEAM_COMPENSATED_CONFLUENCE_VERDICT_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/SEAM_COMPENSATED_CONFLUENCE_VERDICT_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/SEAM_COMPENSATED_CONFLUENCE_VERDICT_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_SEAM_COMPENSATED_CONFLUENCE_VERDICT_HASH', actual)
+          PY
