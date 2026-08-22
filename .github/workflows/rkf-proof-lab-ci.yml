@@ -341,3 +341,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_PANINIAN_SEAM_CALCULUS_HASH', actual)
           PY
+
+      - name: Reproduce prime letter operators certificate
+        run: |
+          python -m proof_lab.prime_letter_operators \
+            --output proof_lab/PRIME_LETTER_OPERATORS_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/PRIME_LETTER_OPERATORS_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/PRIME_LETTER_OPERATORS_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_PRIME_LETTER_OPERATORS_HASH', actual)
+          PY

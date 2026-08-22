@@ -384,3 +384,22 @@ proof_lab/paninian_seam_calculus.py
 proof_lab/test_paninian_seam_calculus.py
 proof_lab/PANINIAN_SEAM_CALCULUS_EXPECTED.sha256
 ```
+
+## Theorem 59 Prime letter operators packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Prime Operator canvas relocated to the primitive carrier (odd sector), binding F00H/F00E/T55/T57 and the Vedic Letter–Root seed algebra |
+| Scope | canvas A4 corrected (a_p a_q† = a_{p/q}, a_pq† disproved); irreducible ⟺ ledger mass 1; generator support = Λ support; letter generator ιxI is ODD; zero loop residue; Exp phase accumulation exact in jets; Cayley chart residue ⊙ t³ = ιxy(x+y)/4; letter unitary invisible to every cut square |
+| Status | `PASS_PRIME_LETTER_OPERATORS_CANDIDATE` |
+| Canonical result SHA-256 | `e583a360ab78b9907165fc5363c095d777241dde18b1a57a772407eabe3b70a3` |
+| Proof arithmetic | exact integer ledgers (F00H verify.py pinned by SHA in certificate) + exact C_Σ jets; no float |
+
+Files:
+
+```text
+theorum/59_prime_letter_operators_theorem.md
+proof_lab/prime_letter_operators.py
+proof_lab/test_prime_letter_operators.py
+proof_lab/PRIME_LETTER_OPERATORS_EXPECTED.sha256
+```

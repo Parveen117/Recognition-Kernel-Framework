@@ -82,7 +82,9 @@ pratyayalakṣaṇam [1.1.62], vibhāṣā [1.1.44], vipratiṣedhe paraṃ kār
 guṇavṛddhī*, 1.1.4 *na dhātulopa ārdhadhātuke*, 1.1.5 *kṅiti ca*, …).  The
 Index canvas's seed table must not be used as an address book.
 
-## Refusal: Prime Operator Engine canvas
+## Refusal: Prime Operator Engine canvas — SUPERSEDED by theorum/59
+> Owner correction (same day): the refusal below is a Hilbert-layer verdict (eigenvalues, ladder adjoints). On the primitive carrier the operator is lawful — see theorum/59, where A1/A2/A4 are certified natively and A3/A5/L1–L4 stay open. The text below is kept as the record of the derived-layer view.
+
 Not a definition.  "Ψ̂ψ_p = pψ_p" with "awareness" undefined; the stated
 ladder relations `[a_p, a_q†] = 0` and `a_p a_q† = a_{pq}†` are mutually
 inconsistent; L1–L4 are restatements of targets, not derivations.  The
@@ -107,6 +109,7 @@ R–A–S DETERMINACY                                DISPROVED free / PROVED und
 R–A–S SOUNDNESS, COMPLETENESS                                         NOT CLAIMED
 COVERAGE BEYOND 18 SŪTRAS / 2 DERIVATIONS; 3,959-RULE ENGINE           DECLARED PROTOCOL (56 boundary)
 RULES AS MATRICES ON A C_Σ FREE MODULE                                 NOT DONE
-CANVAS OPERATOR READINGS OF 1.1.1–1.1.5; PRIME OPERATOR ENGINE         REFUSED
+CANVAS OPERATOR READINGS OF 1.1.1–1.1.5                               REFUSED
+PRIME OPERATOR ENGINE                          Hilbert-layer refusal; native home in theorum/59
 RH, YM                                                                UNTOUCHED
 ```
