@@ -140,3 +140,23 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_SOURCE_BOUND_PROOF_CARRYING_NUMERICAL_VALIDATION_HASH', actual)
           PY
+
+      - name: Reproduce EMK algebra cut-graded curvature certificate
+        run: |
+          python -m proof_lab.emk_algebra_cut_graded_curvature \
+            --output proof_lab/EMK_ALGEBRA_CUT_GRADED_CURVATURE_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path(
+                  'proof_lab/EMK_ALGEBRA_CUT_GRADED_CURVATURE_ACTUAL.json'
+              ).read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/EMK_ALGEBRA_CUT_GRADED_CURVATURE_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_EMK_ALGEBRA_CUT_GRADED_CURVATURE_HASH', actual)
+          PY
