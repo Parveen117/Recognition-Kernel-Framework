@@ -335,6 +335,13 @@ def conflicts(W, A, B, rules_by_id, carry=True):
     return after(A, B) != after(B, A)
 
 
+# yena nāprāpte yo vidhir ārabhyate sa tasya bādhakaḥ — bādhaka relations DECLARED by the tradition where the
+# apavāda keeps an independent scope (so domain containment is blind).  Each entry names its source.
+# 6.1.97 ato guṇe has its own scope (a+e, a+o) but is enacted specifically for a+a, which 6.1.101 already covers
+# (Kāśikā ad 6.1.97).  Found by theorum/66: on the ātmanepada carrier edha+e makes dom(6.1.97) ⊄ dom(6.1.101).
+DECLARED_BADHAKA = {("6.1.97", "6.1.101"): "Kāśikā ad 6.1.97 (yena nāprāpte on a+a)"}
+
+
 def beats(A, B, W, dom, rules_by_id, carry=True):
     """Pairwise ladder: 8.2.1 > apavāda > nitya > para.  Returns rung name if A beats B else None."""
     if is_tripadi(B[0]) and not is_tripadi(A[0]):
@@ -344,6 +351,10 @@ def beats(A, B, W, dom, rules_by_id, carry=True):
     if dom[A[0]] < dom[B[0]]:
         return "apavāda"
     if dom[B[0]] < dom[A[0]]:
+        return None
+    if (A[0], B[0]) in DECLARED_BADHAKA:
+        return "apavāda(declared)"
+    if (B[0], A[0]) in DECLARED_BADHAKA:
         return None
     a_after_b = any(s == A[0] for s, _ in applicable(B[1], [(A[0], rules_by_id[A[0]])], carry))
     b_after_a = any(s == B[0] for s, _ in applicable(A[1], [(B[0], rules_by_id[B[0]])], carry))

@@ -500,6 +500,21 @@ proof_lab/test_stem_classes_gayatri_coverage.py
 proof_lab/STEM_CLASSES_GAYATRI_COVERAGE_EXPECTED.sha256
 ```
 
+## Theorem 66 laṭ ātmanepada packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Ātmanepada sector (edh, labh, 18 forms) from canonical sūtras; declared-bādhaka rung finding; antaraṅga gap recorded; dhīmahi refused with reason |
+| Status | `PASS_LAT_ATMANEPADA_CANDIDATE` |
+| Canonical result SHA-256 | `2ab0cf226c593e1533f38b4c466db17fa8246d913d9826f42c81a465a4e9aa23` |
+
+```text
+theorum/66_lat_atmanepada_theorem.md
+proof_lab/lat_atmanepada.py
+proof_lab/test_lat_atmanepada.py
+proof_lab/LAT_ATMANEPADA_EXPECTED.sha256
+```
+
 ## Ladder audit 50–59
 
 | Field | Value |
