@@ -146,7 +146,9 @@ def classify_pairs(rules: list[Rule], graph: dict[str, Any], equiv: Callable[[St
 def repr_state(W: State) -> str:
     if isinstance(W, tuple) and W and isinstance(W[0], tuple) and len(W[0]) == 2 and isinstance(W[0][1], frozenset):
         return recognized(W) + " | " + ";".join(",".join(sorted(f)) for _, f in W)
-    return "".join(W) if isinstance(W, tuple) else str(W)
+    if isinstance(W, tuple) and all(isinstance(x, str) for x in W):
+        return "".join(W)
+    return repr(W)
 
 
 def verdict(W0: State, rules: list[Rule], equiv: Callable[[State, State], bool], priority: bool) -> dict[str, Any]:

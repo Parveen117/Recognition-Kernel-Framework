@@ -515,6 +515,21 @@ proof_lab/test_lat_atmanepada.py
 proof_lab/LAT_ATMANEPADA_EXPECTED.sha256
 ```
 
+## Theorem 67 Pada → line external sandhi packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Gāyatrī lines from padas by external sandhi (8.2.66, 6.1.113/114, 6.1.87, 8.3.15, 8.3.23); provenance 5 derived / 5 given; confluence per line |
+| Status | `PASS_PADA_TO_LINE_EXTERNAL_SANDHI_CANDIDATE` |
+| Canonical result SHA-256 | `75d6abbbabf1498ef49d23067398a47c3ff3a5a64104b6184988137693b923a9` |
+
+```text
+theorum/67_pada_to_line_external_sandhi_theorem.md
+proof_lab/pada_to_line_external_sandhi.py
+proof_lab/test_pada_to_line_external_sandhi.py
+proof_lab/PADA_TO_LINE_EXTERNAL_SANDHI_EXPECTED.sha256
+```
+
 ## Ladder audit 50–59
 
 | Field | Value |

@@ -485,3 +485,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_LAT_ATMANEPADA_HASH', actual)
           PY
+
+      - name: Reproduce pada-to-line external sandhi certificate
+        run: |
+          python -m proof_lab.pada_to_line_external_sandhi \
+            --output proof_lab/PADA_TO_LINE_EXTERNAL_SANDHI_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/PADA_TO_LINE_EXTERNAL_SANDHI_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/PADA_TO_LINE_EXTERNAL_SANDHI_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_PADA_TO_LINE_EXTERNAL_SANDHI_HASH', actual)
+          PY
