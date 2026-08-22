@@ -395,3 +395,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_REWRITE_RULES_AS_CUT_MODULE_OPERATORS_HASH', actual)
           PY
+
+      - name: Reproduce silence-vibration / sutra-flow certificate
+        run: |
+          python -m proof_lab.silence_vibration_sutra_flow \
+            --output proof_lab/SILENCE_VIBRATION_SUTRA_FLOW_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/SILENCE_VIBRATION_SUTRA_FLOW_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/SILENCE_VIBRATION_SUTRA_FLOW_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_SILENCE_VIBRATION_SUTRA_FLOW_HASH', actual)
+          PY

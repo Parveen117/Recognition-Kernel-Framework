@@ -440,6 +440,21 @@ proof_lab/test_rewrite_rules_as_cut_module_operators.py
 proof_lab/REWRITE_RULES_AS_CUT_MODULE_OPERATORS_EXPECTED.sha256
 ```
 
+## Theorem 62 Silence–vibration / sūtra-flow / awareness-category packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Second canvas batch nativized: two canvas laws disproved, circular-system identity proved, terminal-object ⟺ confluence |
+| Status | `PASS_SILENCE_VIBRATION_SUTRA_FLOW_CANDIDATE` |
+| Canonical result SHA-256 | `4e5afe9b9c163ee87343cce3f374ad9527f66f50b43d369a39720a4d6c803450` |
+
+```text
+theorum/62_silence_vibration_sutra_flow_theorem.md
+proof_lab/silence_vibration_sutra_flow.py
+proof_lab/test_silence_vibration_sutra_flow.py
+proof_lab/SILENCE_VIBRATION_SUTRA_FLOW_EXPECTED.sha256
+```
+
 ## Ladder audit 50–59
 
 | Field | Value |
