@@ -605,6 +605,21 @@ proof_lab/test_sulba_measure_residue.py
 proof_lab/SULBA_MEASURE_RESIDUE_EXPECTED.sha256
 ```
 
+## Theorem 73 Vedāṅga Jyotiṣa yuga ledger packet
+
+| Field | Value |
+|---|---|
+| Certificate class | VJ 5-year yuga as exact cyclic ledger: intercalation Smṛti = −5-year residue exactly; tithi/kṣaya; phases zero at 1830 only; daylight zigzag; calendar as prastāra word |
+| Status | `PASS_VEDANGA_JYOTISA_YUGA_LEDGER_CANDIDATE` |
+| Canonical result SHA-256 | `569b61ea6a8ab4852bd422faf68228c55ff5fed817f21e670a972e630b964295` |
+
+```text
+theorum/73_vedanga_jyotisa_yuga_ledger_theorem.md
+proof_lab/vedanga_jyotisa_yuga_ledger.py
+proof_lab/test_vedanga_jyotisa_yuga_ledger.py
+proof_lab/VEDANGA_JYOTISA_YUGA_LEDGER_EXPECTED.sha256
+```
+
 ## Ladder audit 50–59
 
 | Field | Value |

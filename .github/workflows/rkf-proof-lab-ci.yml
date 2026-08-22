@@ -593,3 +593,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_SULBA_MEASURE_RESIDUE_HASH', actual)
           PY
+
+      - name: Reproduce vedanga jyotisa yuga ledger certificate
+        run: |
+          python -m proof_lab.vedanga_jyotisa_yuga_ledger \
+            --output proof_lab/VEDANGA_JYOTISA_YUGA_LEDGER_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/VEDANGA_JYOTISA_YUGA_LEDGER_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/VEDANGA_JYOTISA_YUGA_LEDGER_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_VEDANGA_JYOTISA_YUGA_LEDGER_HASH', actual)
+          PY
