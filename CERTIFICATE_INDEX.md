@@ -575,6 +575,21 @@ proof_lab/test_angatva_pramana_ladder.py
 proof_lab/ANGATVA_PRAMANA_LADDER_EXPECTED.sha256
 ```
 
+## Theorem 71 Piṅgala chandas pratyaya packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Piṅgala's six pratyayas exact; meru closure (Rec-anchored S_M); mātrā-meru Virahāṅka; Gāyatrī metre from the theorum/67 text (7-8-8 written, 8-8-8 restored) |
+| Status | `PASS_PINGALA_CHANDAS_PRATYAYA_CANDIDATE` |
+| Canonical result SHA-256 | `316a794e34981420da9e1151440e5e66ec31323a764a81862be10ce9cd718568` |
+
+```text
+theorum/71_pingala_chandas_pratyaya_theorem.md
+proof_lab/pingala_chandas_pratyaya.py
+proof_lab/test_pingala_chandas_pratyaya.py
+proof_lab/PINGALA_CHANDAS_PRATYAYA_EXPECTED.sha256
+```
+
 ## Ladder audit 50–59
 
 | Field | Value |

@@ -557,3 +557,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_ANGATVA_PRAMANA_LADDER_HASH', actual)
           PY
+
+      - name: Reproduce pingala chandas pratyaya certificate
+        run: |
+          python -m proof_lab.pingala_chandas_pratyaya \
+            --output proof_lab/PINGALA_CHANDAS_PRATYAYA_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/PINGALA_CHANDAS_PRATYAYA_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/PINGALA_CHANDAS_PRATYAYA_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_PINGALA_CHANDAS_PRATYAYA_HASH', actual)
+          PY
