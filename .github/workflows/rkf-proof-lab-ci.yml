@@ -215,3 +215,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_NATIVE_SEAM_GAP_ODD_COVARIANCE_HASH', actual)
           PY
+
+      - name: Reproduce odd-channel exchange law certificate
+        run: |
+          python -m proof_lab.odd_channel_exchange_law \
+            --output proof_lab/ODD_CHANNEL_EXCHANGE_LAW_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/ODD_CHANNEL_EXCHANGE_LAW_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/ODD_CHANNEL_EXCHANGE_LAW_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_ODD_CHANNEL_EXCHANGE_LAW_HASH', actual)
+          PY

@@ -251,3 +251,22 @@ proof_lab/NATIVE_SEAM_GAP_ODD_COVARIANCE_EXPECTED.sha256
 ```
 
 Theorem 49 is retained as a derived-layer (Hilbert) cross-check and superseded by this packet. Dynamical law of the odd channel under the flow and the infinite-face limit remain open.
+
+## Theorem 51 odd-channel exchange law packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Primitive-carrier flow-transport certificate for the cut square |
+| Scope | anti-self-dagger Cayley step native-unitary (exact C_Σ inverse); exchange law D†S+SD = ([R,B]+[A,T]) + ι([T,B]+[R,A]); first-order residual identity; creation/no-creation; energy invariant with channel exchange; product Leibniz transport; step non-factorization; controls |
+| Status | `PASS_ODD_CHANNEL_EXCHANGE_LAW_CANDIDATE` |
+| Canonical result SHA-256 | `5a2055d3b6c643353a1d91a4c206a8edd893144b11589c118fee8813771032c5` |
+| Proof arithmetic | exact `fractions.Fraction` pairs (rad, turn); no float, no inner product |
+
+Files:
+
+```text
+theorum/51_odd_channel_exchange_law_theorem.md
+proof_lab/odd_channel_exchange_law.py
+proof_lab/test_odd_channel_exchange_law.py
+proof_lab/ODD_CHANNEL_EXCHANGE_LAW_EXPECTED.sha256
+```
