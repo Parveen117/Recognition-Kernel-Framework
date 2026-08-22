@@ -346,3 +346,22 @@ proof_lab/generalized_euler_emk_dock.py
 proof_lab/test_generalized_euler_emk_dock.py
 proof_lab/GENERALIZED_EULER_EMK_DOCK_EXPECTED.sha256
 ```
+
+## Theorem 57 Loop-residue / first-visible-jet binding packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Binding certificate: theorum/55's Γ_μ loop residue resolved by theorum/46's seam quotient |
+| Scope | Γ = loop − I as a 46 seam observable on the step seam h; Γ ⊙_S h² = [D₁,D₂] = 2ιαβRK through 46's classifier; exact order-3 identity a₃ = ½[D₁+D₂,[D₁,D₂]]; reparameterization invariance; false residue = visible before order 2 |
+| Status | `PASS_LOOP_RESIDUE_FIRST_VISIBLE_JET_BINDING_CANDIDATE` |
+| Canonical result SHA-256 | `712c272d3e1a1d1dadc869045130226f42da11f1ca20b6c98584305234e502a6` |
+| Proof arithmetic | exact C_Σ jets in C_Σ[h]/h⁵ (terminating geometric inverse); no float |
+
+Files:
+
+```text
+theorum/57_loop_residue_first_visible_jet_binding_theorem.md
+proof_lab/loop_residue_first_visible_jet_binding.py
+proof_lab/test_loop_residue_first_visible_jet_binding.py
+proof_lab/LOOP_RESIDUE_FIRST_VISIBLE_JET_BINDING_EXPECTED.sha256
+```

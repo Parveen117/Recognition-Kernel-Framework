@@ -61,7 +61,8 @@ DOCK (a) GE CONNECTION ⟹ EXCHANGE LAW                            PROVED
 DOCK (b) RK BRACKET = LEADING LOOP RESIDUE (dyadic window)       PROVED / SCALING WITNESSED
 DOCK (c) Δ∥+Δ⊥ INVARIANT, Δ∥,Δ⊥ EXCHANGE                          PROVED
 GE FALSE-RESIDUE VERDICT                                         PROVED
-EXACT ORDER-3 LOOP IDENTITY                                      NOT CLAIMED
+EXACT ORDER-3 LOOP IDENTITY                    NOT CLAIMED HERE → PROVED in theorum/57
+Γ_μ LOOP PART RESOLVED AS 46 SEAM QUOTIENT     see theorum/57 (Γ ⊙_S h² = [D₁,D₂])
 Γ_μ MODELLED / PHYSICAL REALIZATION UNIQUE                       NOT CLAIMED
 GE MEASUREMENT / BORN / DEVICES                                  NOT TOUCHED
 RH, YM                                                           UNTOUCHED

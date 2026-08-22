@@ -305,3 +305,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_GENERALIZED_EULER_EMK_DOCK_HASH', actual)
           PY
+
+      - name: Reproduce loop-residue / first-visible-jet binding certificate
+        run: |
+          python -m proof_lab.loop_residue_first_visible_jet_binding \
+            --output proof_lab/LOOP_RESIDUE_FIRST_VISIBLE_JET_BINDING_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/LOOP_RESIDUE_FIRST_VISIBLE_JET_BINDING_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/LOOP_RESIDUE_FIRST_VISIBLE_JET_BINDING_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_LOOP_RESIDUE_FIRST_VISIBLE_JET_BINDING_HASH', actual)
+          PY
