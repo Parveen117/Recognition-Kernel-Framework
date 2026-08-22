@@ -521,3 +521,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_KARAKA_VIBHAKTI_CARRIER_HASH', actual)
           PY
+
+      - name: Reproduce mimamsa obligation closure certificate
+        run: |
+          python -m proof_lab.mimamsa_obligation_closure \
+            --output proof_lab/MIMAMSA_OBLIGATION_CLOSURE_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/MIMAMSA_OBLIGATION_CLOSURE_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/MIMAMSA_OBLIGATION_CLOSURE_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_MIMAMSA_OBLIGATION_CLOSURE_HASH', actual)
+          PY

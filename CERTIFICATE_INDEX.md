@@ -545,6 +545,21 @@ proof_lab/test_karaka_vibhakti_carrier.py
 proof_lab/KARAKA_VIBHAKTI_CARRIER_EXPECTED.sha256
 ```
 
+## Theorem 69 Mīmāṃsā obligation closure packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Owner's Mīmāṃsā kernel executable: vidhi/niṣedha closure K_M on a situation carrier; resolver scope > authority > vikalpa; Gāyatrī classified as mantra by its lakāra |
+| Status | `PASS_MIMAMSA_OBLIGATION_CLOSURE_CANDIDATE` |
+| Canonical result SHA-256 | `294e7e927c1f3b2989ff8f23e801fa98341bd0986b584caa471a084b8f87a127` |
+
+```text
+theorum/69_mimamsa_obligation_closure_theorem.md
+proof_lab/mimamsa_obligation_closure.py
+proof_lab/test_mimamsa_obligation_closure.py
+proof_lab/MIMAMSA_OBLIGATION_CLOSURE_EXPECTED.sha256
+```
+
 ## Ladder audit 50–59
 
 | Field | Value |
