@@ -289,3 +289,22 @@ proof_lab/native_seam_resolvent.py
 proof_lab/test_native_seam_resolvent.py
 proof_lab/NATIVE_SEAM_RESOLVENT_EXPECTED.sha256
 ```
+
+## Theorem 53 native cut-square factorization packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Primitive-carrier factorization certificate for cut squares |
+| Scope | exact C†Dg C over K_Σ, turn-free nonnegative weights, odd channel in factor phases; native Parseval; negative witness; seam-face weight bounds; product tensoring; det S flow-invariant |
+| Status | `PASS_NATIVE_CUT_SQUARE_FACTORIZATION_CANDIDATE` |
+| Canonical result SHA-256 | `2079f98d0aa2565ec99c8b33ee3fd21c024a919aad65d5e2e2b8193f20ddc725` |
+| Proof arithmetic | exact K_Σ; no sqrt, no float, no inner product, no eigenvalue |
+
+Files:
+
+```text
+theorum/53_native_cut_square_factorization_theorem.md
+proof_lab/native_cut_square_factorization.py
+proof_lab/test_native_cut_square_factorization.py
+proof_lab/NATIVE_CUT_SQUARE_FACTORIZATION_EXPECTED.sha256
+```

@@ -251,3 +251,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_NATIVE_SEAM_RESOLVENT_HASH', actual)
           PY
+
+      - name: Reproduce native cut-square factorization certificate
+        run: |
+          python -m proof_lab.native_cut_square_factorization \
+            --output proof_lab/NATIVE_CUT_SQUARE_FACTORIZATION_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/NATIVE_CUT_SQUARE_FACTORIZATION_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/NATIVE_CUT_SQUARE_FACTORIZATION_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_NATIVE_CUT_SQUARE_FACTORIZATION_HASH', actual)
+          PY
