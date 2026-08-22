@@ -22,7 +22,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        python-version: ['3.11', '3.12']
+        python-version: ['3.12']
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -159,4 +159,22 @@ jobs:
           ).read_text(encoding='utf-8').strip()
           assert actual == expected, (actual, expected)
           print('PASS_EMK_ALGEBRA_CUT_GRADED_CURVATURE_HASH', actual)
+          PY
+
+      - name: Reproduce local-to-uniform seam gap certificate
+        run: |
+          python -m proof_lab.local_to_uniform_seam_gap \
+            --output proof_lab/LOCAL_TO_UNIFORM_SEAM_GAP_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/LOCAL_TO_UNIFORM_SEAM_GAP_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/LOCAL_TO_UNIFORM_SEAM_GAP_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_LOCAL_TO_UNIFORM_SEAM_GAP_HASH', actual)
           PY

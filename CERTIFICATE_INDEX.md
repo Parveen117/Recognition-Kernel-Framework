@@ -196,3 +196,25 @@ all mandatory obligations are present;
 all negative controls behave as specified;
 the result is reproducible from a clean checkout.
 ```
+
+## Theorem 49 local-to-uniform seam gap packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Exact product-carrier seam-gap certificate |
+| Scope | global recognition cut vs tensor cut, (H1) seam compatibility = evenness, (H2) exact cut-square contraction, uniform-in-m memory contraction on the full product (m=1..5, dims up to 72), sheet law with attainment, theorum/28 §9 outward certificate delivered m-uniformly, memory-only coupling, three controls |
+| Status | `PASS_LOCAL_TO_UNIFORM_SEAM_GAP_CANDIDATE` |
+| Canonical result SHA-256 | `d75992cd8fea4ed9b4b1d10a0dd5defe22651ba749b1c3b888be1ebd91a4ccb8` |
+| Proof arithmetic | exact `fractions.Fraction`; no float, no NumPy, no exponential evaluated |
+| Branch proof-lab CI | pending first hosted run |
+
+Files:
+
+```text
+theorum/49_local_to_uniform_seam_gap_theorem.md
+proof_lab/local_to_uniform_seam_gap.py
+proof_lab/test_local_to_uniform_seam_gap.py
+proof_lab/LOCAL_TO_UNIFORM_SEAM_GAP_EXPECTED.sha256
+```
+
+Infinite-face limit (theorum/28 §11 hypotheses 1–5) and m-uniformity of an interacting coupling norm remain separate obligations.
