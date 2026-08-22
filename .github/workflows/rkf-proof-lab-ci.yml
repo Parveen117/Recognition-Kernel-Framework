@@ -449,3 +449,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_TING_LAT_PARASMAIPADA_HASH', actual)
           PY
+
+      - name: Reproduce stem classes / Gayatri coverage certificate
+        run: |
+          python -m proof_lab.stem_classes_gayatri_coverage \
+            --output proof_lab/STEM_CLASSES_GAYATRI_COVERAGE_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/STEM_CLASSES_GAYATRI_COVERAGE_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/STEM_CLASSES_GAYATRI_COVERAGE_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_STEM_CLASSES_GAYATRI_COVERAGE_HASH', actual)
+          PY

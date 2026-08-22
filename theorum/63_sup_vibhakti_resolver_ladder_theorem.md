@@ -59,7 +59,7 @@ Every ladder normal form is a free normal form of the system.
 python proof_lab/sup_vibhakti_resolver_ladder.py
 python -m unittest proof_lab.test_sup_vibhakti_resolver_ladder -v
 ```
-`PASS_SUP_VIBHAKTI_RESOLVER_LADDER_CANDIDATE`, SHA-256 `2d54940838d1a4493297023019c23c9fea4fc6ad42ad3664e72021d8eb353e54`.
+`PASS_SUP_VIBHAKTI_RESOLVER_LADDER_CANDIDATE`, SHA-256 `49671feae1f92cd65fac0fe37fb109f128f4dc38e5cfb3dd69e13a3bdabc6d31`.
 
 ## Claim boundary
 ```text

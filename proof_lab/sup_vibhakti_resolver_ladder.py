@@ -215,7 +215,7 @@ def r_6_1_78(W):  # eco'yavāyāvaḥ at the seam
 # tripādī
 def r_8_2_66(W):  # sasajuṣo ruḥ : pada-final s -> r(u)
     stem, aff, f = W
-    if aff and aff[-1] == "s" and "lopa_done" in f and "ru_done" not in f and aff not in (("a", "s"), ("b", "h", "i", "s"), ("s", "u")):
+    if aff and aff[-1] == "s" and "lopa_done" in f and "ru_done" not in f and not (aff == ("a", "s") and ("jit" in f or "Sit" in f) and "pss_done" not in f) and aff not in (("b", "h", "i", "s"), ("s", "u")):
         return (stem, aff[:-1] + ("r",), f | {"ru_done"})
     return None
 

@@ -461,7 +461,7 @@ proof_lab/SILENCE_VIBRATION_SUTRA_FLOW_EXPECTED.sha256
 |---|---|
 | Certificate class | Nominal sector (rāma paradigm, 21 forms) from canonical sūtras with soundness oracle; resolver ladder 8.2.1 > apavāda > nitya > para executable |
 | Status | `PASS_SUP_VIBHAKTI_RESOLVER_LADDER_CANDIDATE` |
-| Canonical result SHA-256 | `2d54940838d1a4493297023019c23c9fea4fc6ad42ad3664e72021d8eb353e54` |
+| Canonical result SHA-256 | `49671feae1f92cd65fac0fe37fb109f128f4dc38e5cfb3dd69e13a3bdabc6d31` |
 
 ```text
 theorum/63_sup_vibhakti_resolver_ladder_theorem.md
@@ -483,6 +483,21 @@ theorum/64_ting_lat_parasmaipada_theorem.md
 proof_lab/ting_lat_parasmaipada.py
 proof_lab/test_ting_lat_parasmaipada.py
 proof_lab/TING_LAT_PARASMAIPADA_EXPECTED.sha256
+```
+
+## Theorem 65 Stem classes / Gāyatrī coverage packet
+
+| Field | Value |
+|---|---|
+| Certificate class | ṛ-stem, s-stem, neuter sarvanāma sectors from canonical sūtras; Gāyatrī line 1 pada coverage 5/6 (dhīmahi refused) |
+| Status | `PASS_STEM_CLASSES_GAYATRI_COVERAGE_CANDIDATE` |
+| Canonical result SHA-256 | `6f6f988e2a6b6b19ef5c5d57654f1021093ace5d5964f763594e4cea9fff6414` |
+
+```text
+theorum/65_stem_classes_gayatri_coverage_theorem.md
+proof_lab/stem_classes_gayatri_coverage.py
+proof_lab/test_stem_classes_gayatri_coverage.py
+proof_lab/STEM_CLASSES_GAYATRI_COVERAGE_EXPECTED.sha256
 ```
 
 ## Ladder audit 50–59
