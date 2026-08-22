@@ -6,6 +6,7 @@ first-visible-jet seam quotient of theorum/46.  The declared seam is the flow
 step `h`; the carrier is `C_Σ` (theorum/50 scalars); the steps are the Cayley
 steps of theorum/51.  Primitive carrier; exact algebra; nothing Hilbert.
 
+> **Audit note (ladder audit 50–59, Aug 23 2026).** Renaming test (TAUT-1 R1): a₂=[D₁,D₂] and a₃=½[D₁+D₂,[D₁,D₂]] hold for ARBITRARY matrices — they are lemmas about the Cayley map, not odd-sector content. Carrier content here is the typing of Γ as a 46 seam observable, the false-residue rule (visible before order 2), and the EMK evaluation 2ιαβRK.
 ## Seam observable
 `Γ(h) := loop(h) − I`, `loop(h) = C_h(D₁) C_h(D₂) C_h(D₁)⁻¹ C_h(D₂)⁻¹`.
 Jets are computed in the exact truncated ring `C_Σ[h]/h⁵`: `(I − hD/2)⁻¹` is

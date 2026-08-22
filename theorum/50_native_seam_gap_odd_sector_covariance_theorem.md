@@ -1,5 +1,6 @@
 # Native Local-to-Uniform Seam Gap and the Odd-Sector Covariance Law
 
+> **Audit note (ladder audit 50–59, Aug 23 2026).** A4 'invisible to every quadratic form' is a SELF-PAIRING statement: x†Sx is turn-free, but off-diagonal pairings x†Sy carry turn (the odd channel is visible to polarization, LEAN-4 shape).
 ## 0. Carrier — primitive only
 
 Everything below lives on the cut-complex field (F00E §1)

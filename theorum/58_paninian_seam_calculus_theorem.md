@@ -7,6 +7,7 @@ Engine).  Read as **hints** (theorum/56 discipline).  Upgrades theorum/56 B2
 Aṣṭādhyāyī rules under their **canonical A.P.S numbers**, on a two-channel
 carrier.  Nothing Hilbert; the carrier is combinatorial (see boundary).
 
+> **Audit note (ladder audit 50–59, Aug 23 2026).** T2(i) 'ambiguity set EQUALS union of commutator supports' is an instance property, not a law (toy: r1:a→b, r2:a→c, r3:b→d, r4:c→d has [r1,r2]≠0 yet unique NF). Lawful statement: ambiguity ⊆ ∪supp — priority is needed ONLY where a residue is nonzero, not EXACTLY where. Determinacy checks were vacuous (isinstance); now tie-refusing + terminating + membership; re-pinned.
 ## Carrier
 A word is a sequence of morphemes `(recognized phones, memory features)`.
 - recognized channel = the phoneme string (what is heard);

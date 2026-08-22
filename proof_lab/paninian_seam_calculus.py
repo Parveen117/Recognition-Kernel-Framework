@@ -160,8 +160,10 @@ def priority_normal_form(w: tuple, rules: list[tuple[str, Callable]]) -> tuple:
         applicable = [(sid, r) for sid, r in rules if r(x) is not None]
         if not applicable:
             return x
-        sid, r = max(applicable, key=lambda t: sutra_key(t[0]))
-        x = r(x)
+        top = max(sutra_key(sid) for sid, _ in applicable)
+        winners = [(sid, r) for sid, r in applicable if sutra_key(sid) == top]
+        assert len(winners) == 1, f"priority tie at {top}: 1.4.2 cannot decide"
+        x = winners[0][1](x)
     raise AssertionError("no normal form within bound")
 
 
@@ -179,14 +181,20 @@ def t2_priority_is_commutator_support() -> dict[str, Any]:
         triggers_disjoint = not any(ri(j) is not None and rj(j) is not None for j in junctions)
         if triggers_disjoint and supp:
             disjoint_commute = False
-    unique_under_priority = all(len(free_normal_forms(j, rules)) == 0 or True for j in junctions)  # placeholder overwritten below
-    pnf = {j: priority_normal_form(j, SANDHI) for j in junctions}
-    unique_under_priority = all(isinstance(v, tuple) for v in pnf.values())
+    pnf = {}
+    unique_under_priority = True
+    for j in junctions:
+        try:
+            pnf[j] = priority_normal_form(j, SANDHI)  # refuses ties, refuses non-termination
+        except AssertionError:
+            unique_under_priority = False
+            pnf[j] = j
     # priority normal form is one of the free normal forms (it never invents a form)
     priority_in_free = all(pnf[j] in free_normal_forms(j, rules) for j in junctions)
     ii = priority_normal_form(("i", "i"), SANDHI)
     checks = {
-        "free_ambiguity_set_EQUALS_union_of_commutator_supports": free_multi == union,
+        "free_ambiguity_set_EQUALS_union_of_commutator_supports_INSTANCE": free_multi == union,
+        "free_ambiguity_set_SUBSET_of_union_of_commutator_supports": free_multi <= union,
         "free_application_not_confluent_on_carrier": len(free_multi) > 0,
         "disjoint_trigger_pairs_commute_everywhere": disjoint_commute,
         "priority_1_4_2_gives_unique_normal_form_every_junction_COMPUTED": unique_under_priority and priority_in_free,
@@ -372,7 +380,7 @@ def t4_ras_claims() -> dict[str, Any]:
     ii_free = free_normal_forms(("i", "i"), rules)
     checks = {
         "determinacy_DISPROVED_under_free_application_witness_i_plus_i": ii_free == {("y", "i"), ("I",)},
-        "determinacy_PROVED_under_1_4_2_on_enumerated_carrier": all(isinstance(priority_normal_form((x, y), SANDHI), tuple) for x in VOWELS for y in VOWELS),
+        "determinacy_PROVED_under_1_4_2_on_enumerated_carrier": all(priority_normal_form((x, y), SANDHI) in free_normal_forms((x, y), rules) for x in VOWELS for y in VOWELS),
     }
     return {"checks": checks, "i_plus_i_free_normal_forms": sorted("".join(f) for f in ii_free), "soundness_completeness": "NOT CLAIMED: no oracle for 'valid Sanskrit' exists in the repo"}
 
@@ -399,7 +407,7 @@ def build_certificate() -> dict[str, Any]:
         "claim_boundary": {
             "proved_by_exact_finite_certificate": [
                 "vowel-strength ladder {id, G, V} is a commutative idempotent monoid with GV = VG = V (1.1.1/1.1.2 as samjna tables; 1.1.3 scope)",
-                "on the ten-vowel junction carrier the free-application ambiguity set EQUALS the union of pairwise commutator supports; disjoint-trigger pairs commute; 1.4.2 yields a unique normal form for every junction (computed)",
+                "on the ten-vowel junction carrier the free-application ambiguity set is CONTAINED in (and for this instance equals) the union of pairwise commutator supports; disjoint-trigger pairs commute; 1.4.2 (tie-refusing) yields a terminating normal form inside the free normal-form set for every junction (computed)",
                 "gam+Sap+tip -> gacchati and nI+Sap+tip -> nayati under canonical rules; the memory channel (1.1.62) is load-bearing: erased memory gives gamati/nIati; lopa order is free iff memory is carried; it-phones deleted = memory features added",
                 "R-A-S determinacy: DISPROVED under free application (i+i: yi vs I), PROVED under 1.4.2 on the enumerated carrier",
             ],

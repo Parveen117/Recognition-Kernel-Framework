@@ -4,6 +4,7 @@
 >
 > **Cross-reference (B4).** The Aghora refusal below is a **derived-layer (Hilbert/PSD) verdict**: it consumes Theorem 49's PSD machinery, so "G ≥ 0" there means inner-product positivity. On the primitive carrier the anticommuting object is the odd (turn) channel of the cut square — indefinite by construction, never PSD, yet carried and transported: theorum/50 (A1–A6), theorum/51 (exchange law), theorum/55 (EMK dock). The refusal and the repair are the same fact seen from the two layers.
 
+> **Audit note (ladder audit 50–59, Aug 23 2026).** B2's `precedence_restores_unique_normal_form` was hard-coded True; now computed as the iterated yan∘guna fixed point inside the free normal-form set; re-pinned.
 ## 1. Source and scope
 
 Twelve owner canvases (Aghora, Asato Mā, Aṣṭādhyāyī, Māṇḍūkya/Līlā/Sāṅkhya,

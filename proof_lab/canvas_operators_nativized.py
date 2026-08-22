@@ -207,6 +207,16 @@ def normal_forms(w: str, rules: list) -> set[str]:
     return nfs
 
 
+def precedence_nf(w: str) -> str | None:
+    """Iterated declared-precedence product yan∘guna to a fixed point (None if no fixed point within 10)."""
+    for _ in range(10):
+        w2 = yan(guna(w))
+        if w2 == w:
+            return w
+        w = w2
+    return None
+
+
 def b2_panini() -> dict[str, Any]:
     alphabet = "aiu"
     strings = ["".join(p) for n in range(1, 4) for p in itertools.product(alphabet, repeat=n)]
@@ -239,7 +249,7 @@ def b2_panini() -> dict[str, Any]:
         "rewrite_operators_do_not_commute": wit is not None,
         "declared_precedence_makes_product_total": precedence_product_total,
         "free_application_is_not_confluent": len(non_confluent) > 0,
-        "precedence_restores_unique_normal_form": True,
+        "precedence_restores_unique_normal_form": all(precedence_nf(w) is not None and precedence_nf(w) in normal_forms(w, [guna, yan]) for w in strings),
         "anubandha_projection_blindness_visible_equal_ledger_differs": blind,
         "gated_rule_silent_without_marker": gated_silent,
         "order_of_action_and_elision_is_content": act_then_elide != elide_then_act,

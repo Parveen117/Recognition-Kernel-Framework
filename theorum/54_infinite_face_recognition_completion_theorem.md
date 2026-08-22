@@ -3,6 +3,7 @@
 Delivers theorum/28 §11's hypothesis list on the product carrier of
 theorum/50, with exact budgets.  Primitive carrier, cut-tail mass only.
 
+> **Audit note (ladder audit 50–59, Aug 23 2026).** T5's `sum_mu_diverges` was hard-coded True; now computed (partial sums exceed every N≤50); re-pinned.
 ## 1. Normalization and packets
 `L̃_i = L_i/f0_i = P_i ⊕ B̃_i`, `μ_i := M_Σ(B̃_i)`.  Finite packet
 `Z_n = L̃_1⊗…⊗L̃_n ⊗ P_{n+1} ⊗ P_{n+2} ⊗ …` — faces beyond `n` are **declared

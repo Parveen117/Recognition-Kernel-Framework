@@ -9,6 +9,7 @@ proved-shape statement is `VRG_Letter_Root_Operator_Seed_Algebra_v1`
 (word = ordered letter product, letter phase accumulation φ(W)=Σφ(ℓᵢ),
 letter curvature [ℓᵢ,ℓⱼ], winding memory k(W)), and that is what is bound.
 
+> **Audit note (ladder audit 50–59, Aug 23 2026).** T4(c),(d) hold for arbitrary scalars: prime letters sit in the CENTRAL scalar sector (ι·scalar), which is trivially odd — not theorum/50's off-diagonal odd channel where Aghora lives. 'Aghora placement' = central-turn placement, zero exchange by centrality. Prime-specific content is T1–T3.
 ## Carrier
 Prime-letter ledger `v ∈ ℤ^(P)` via F00H Thm 8.1 (native FTA, PROVED).
 Letter `a_p` = shift by `e_p`.  Native dagger = negation of the ledger

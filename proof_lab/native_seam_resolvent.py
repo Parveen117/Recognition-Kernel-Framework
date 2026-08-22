@@ -165,6 +165,7 @@ def partial_resolvent(L: Mat, lam: Sc, N: int) -> Mat:
 
 def tail_budget(L: Mat, lam: Sc, N: int, q: Fraction | None = None) -> Fraction:
     qq = q_ratio(L, lam) if q is None else q
+    assert qq < 1, "tail budget is only defined inside the mass-Neumann region q < 1 (fail-closed)"
     return s_D(s_inv(lam)) * qq ** (N + 1) / (1 - qq)
 
 

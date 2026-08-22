@@ -214,7 +214,7 @@ def t5_separation() -> dict[str, Any]:
     checks = {
         "constant_mu_increments_grow_no_mass_limit": growing and ok,
         "gap_nevertheless_uniform_at_every_n": gap_uniform,
-        "sum_mu_diverges": True,
+        "sum_mu_diverges_partial_sums_exceed_every_N_le_50": all(sum(rho for _ in range(2 * N + 2)) > N for N in range(1, 51)),
     }
     return {"checks": checks, "increments": [ftext(x) for x in incs]}
 

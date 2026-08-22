@@ -1,0 +1,134 @@
+{
+  "checks": {
+    "50_P_overweight_face_rejected_by_H2": true,
+    "50_R_sheet_mass_multiplicative_own_mass_m_le_4": true,
+    "50_S_diagonal_turn_free_offdiagonal_not": true,
+    "51_P_tampered_cayley_not_unitary_energy_not_invariant": true,
+    "51_R_exchange_law_rederived_by_hand_12_of_12": true,
+    "52_P_tail_budget_holds_own_mass_and_halved_q_violated": true,
+    "52_P_tail_budget_outside_region_now_refused": true,
+    "52_S_found_invertible_instance_outside_gap_region": true,
+    "52_S_q_lt_1_sufficient_not_necessary_witness": true,
+    "53_P_hidden_negative_direction_found": true,
+    "53_P_rank_deficient_cut_square_handled_or_refused_honestly": true,
+    "53_R_reconstruction_and_nonnegativity_8_of_8": true,
+    "54_P_sum_ge_1_instance_not_certified": true,
+    "54_R_declared_instance_sum_lt_1": true,
+    "55_P_bracket_orientation": true,
+    "55_R_flow_generators_are_R_iI_iK_iRK": true,
+    "55_R_gradings_differ": true,
+    "56_R_precedence_unique_nf_now_COMPUTED": true,
+    "57_I_jet_identities_hold_for_arbitrary_matrices": true,
+    "57_P_denominator_normalization_load_bearing": true,
+    "58_I_toy_nonzero_commutator_but_confluent": true,
+    "58_P_equal_priority_tie_refused": true,
+    "59_I_central_invisibility_is_scalar_identity": true,
+    "59_R_dagger_law_on_F00H_factorizations": true
+  },
+  "findings": [
+    {
+      "data": {
+        "off_turn": "-136"
+      },
+      "kind": "S",
+      "severity": "SCOPE_NOTE",
+      "text": "A4 is a DIAGONAL statement (x^dag S x turn-free); off-diagonal pairings x^dag S y carry turn -- the odd channel is visible to polarization, invisible to squares (LEAN-4 shape). Headline 'invisible to every quadratic form' should read 'to every self-pairing'.",
+      "theorem": "50"
+    },
+    {
+      "data": {
+        "a": 1,
+        "q": "3/2"
+      },
+      "kind": "S",
+      "severity": "SCOPE_NOTE",
+      "text": "The native gap region G_rho = {N(lambda) <= rho f0 D(lambda)} / mass-Neumann condition q<1 is a SUFFICIENT certificate for the resolvent; invertible instances exist with q >= 1. Headline 'gap as native region' is a region of certified resolvability, not the resolvent set.",
+      "theorem": "52"
+    },
+    {
+      "data": {
+        "old_budget": "-4",
+        "q": "4/3"
+      },
+      "kind": "P",
+      "severity": "CERT_DEFECT",
+      "text": "tail_budget(L, lambda, N) silently returned a NEGATIVE budget for q >= 1 (e.g. L = 2I, lambda = 3: q = 4/3, budget = -4). Not fail-closed. FIXED in this commit: assert q < 1 (re-pinned).",
+      "theorem": "52"
+    },
+    {
+      "data": {
+        "status": "factorized"
+      },
+      "kind": "P",
+      "severity": "OK",
+      "text": "rank-1 cut square: factorized. If refused, the no-pivoting LDL requires a pivoting order for rank-deficient squares -- boundary to state in 53.",
+      "theorem": "53"
+    },
+    {
+      "data": null,
+      "kind": "CERT_DEFECT",
+      "severity": "CERT_DEFECT",
+      "text": "t5_separation had 'sum_mu_diverges': True hard-coded. FIXED in this commit: partial sums of the constant-mu family are computed and shown to exceed every bound N up to 50 (re-pinned).",
+      "theorem": "54"
+    },
+    {
+      "data": {
+        "in_free": true,
+        "unique": true
+      },
+      "kind": "CERT_DEFECT",
+      "severity": "CERT_DEFECT",
+      "text": "B2 'precedence_restores_unique_normal_form': True was hard-coded. FIXED in this commit: computed as iterated yan\u2218guna fixed point, checked to lie in the free normal-form set (re-pinned).",
+      "theorem": "56"
+    },
+    {
+      "data": null,
+      "kind": "I",
+      "severity": "HEADLINE_DOWNGRADE",
+      "text": "T1/T2 jet identities (a2 = bracket, a3 = 1/2[D1+D2,[D1,D2]]) reproduce on arbitrary matrices: they are identities of the Cayley map, NOT odd-sector/carrier content (TAUT-1 R1). Carrier content in 57 is only the TYPING (Gamma as a 46 seam observable, false-residue = visible before order 2) and the EMK evaluation 2 iota alpha beta RK. Headline 'exact order-3 loop identity' stands as a lemma about Cayley, not about the flow.",
+      "theorem": "57"
+    },
+    {
+      "data": null,
+      "kind": "I",
+      "severity": "HEADLINE_DOWNGRADE",
+      "text": "T2(i) 'free ambiguity set EQUALS union of commutator supports' is a property of the five-sutra instance, not a law: a toy system has nonzero [r1,r2] yet a unique normal form (divergences rejoin). The lawful general statement is containment: ambiguity \u2286 \u222a supp[\u03c1i,\u03c1j] over reachable states (priority needed ONLY where a residue is nonzero, not EXACTLY where). Theorem text amended.",
+      "theorem": "58"
+    },
+    {
+      "data": null,
+      "kind": "CERT_DEFECT",
+      "severity": "CERT_DEFECT",
+      "text": "determinacy checks used isinstance(..., tuple) (vacuous: the function always returns a tuple or raises) and a dead placeholder line. FIXED in this commit: priority_normal_form now refuses ties (AssertionError), and the determinacy check verifies (a) no tie at any step, (b) termination, (c) result lies in the free normal-form set (re-pinned).",
+      "theorem": "58"
+    },
+    {
+      "data": null,
+      "kind": "I",
+      "severity": "HEADLINE_DOWNGRADE",
+      "text": "T4(c),(d) reproduce for arbitrary scalars: prime letters sit in the CENTRAL scalar sector, which is trivially odd (iota*scalar) -- NOT the off-diagonal odd channel of theorum/50 where Aghora lives. Prime-specific content in 59 is T1-T3 only (ledger, dagger law, Lambda support). 'Aghora placement' should read 'central-turn placement; zero exchange by centrality'. Theorem text amended.",
+      "theorem": "59"
+    }
+  ],
+  "fixes_applied": [
+    "theorum/52 proof_lab: tail_budget silently negative for q >= 1 -> fail-closed assert q < 1 (re-pinned)",
+    "theorum/54 proof_lab: 'sum_mu_diverges' hard-coded True -> computed partial sums exceed N for N<=50 (re-pinned)",
+    "theorum/56 proof_lab: B2 'precedence_restores_unique_normal_form' hard-coded True -> computed (re-pinned)",
+    "theorum/58 proof_lab: vacuous isinstance determinacy checks -> tie-refusing priority + terminating + membership (re-pinned); T2(i) headline downgraded to containment",
+    "theorum/57 md: a2/a3 identities labelled as Cayley-map lemmas (renaming test), carrier content restated",
+    "theorum/59 md: 'Aghora placement' restated as central-turn placement",
+    "theorum/50 md: A4 restated as self-pairing statement; theorum/52 md: gap region = certified-resolvability region"
+  ],
+  "not_done": [
+    "external GPT verifier pass (owner's tool)",
+    "Lean kernel for any 50-59 statement (I2 channel)",
+    "attacks on theorums 54 T1-T4 kron identities beyond the declared instance"
+  ],
+  "schema": "rkf.ladder_audit_50_59.v1",
+  "status": "PASS_LADDER_AUDIT_50_59",
+  "summary": {
+    "cert_defects": 4,
+    "headline_downgrades": 3,
+    "scope_notes": 2
+  }
+}

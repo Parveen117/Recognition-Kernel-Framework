@@ -6,6 +6,7 @@ tools only: T01 Thm 2.2 / Lemma 2.1 (mass and gauge submultiplicativity),
 theorum/28 §3–4 (recognition-Cauchy with *declared* Smriti tails), and exact
 `K_Σ` field arithmetic.  No eigenvalue is approximated anywhere.
 
+> **Audit note (ladder audit 50–59, Aug 23 2026).** The gap region / mass-Neumann condition q<1 is a SUFFICIENT certificate of resolvability, not the resolvent set (L=2I, λ=3 has q=4/3 and λI−L=I invertible). `tail_budget` previously returned a negative budget silently for q≥1 — now fail-closed (re-pinned).
 ## 1. Definitions
 
 ```text

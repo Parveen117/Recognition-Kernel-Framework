@@ -403,3 +403,17 @@ proof_lab/prime_letter_operators.py
 proof_lab/test_prime_letter_operators.py
 proof_lab/PRIME_LETTER_OPERATORS_EXPECTED.sha256
 ```
+
+## Ladder audit 50–59
+
+| Field | Value |
+|---|---|
+| Class | Adversarial audit capsule (re-derivations, planted negatives, scope probes, renaming tests) |
+| Status | `PASS_LADDER_AUDIT_50_59` — 4 cert defects fixed (52, 54, 56, 58; re-pinned), 3 headline downgrades (57, 58, 59), 2 scope notes (50, 52) |
+
+```text
+theorum/AUDIT_LADDER_50_59.md
+proof_lab/ladder_audit_50_59.py
+proof_lab/LADDER_AUDIT_50_59_REPORT.json
+proof_lab/test_ladder_audit_50_59.py
+```
