@@ -423,6 +423,23 @@ proof_lab/test_seam_compensated_confluence_verdict.py
 proof_lab/SEAM_COMPENSATED_CONFLUENCE_VERDICT_EXPECTED.sha256
 ```
 
+## Theorem 61 Rewrite rules as cut-module operators packet
+
+| Field | Value |
+|---|---|
+| Certificate class | 0/1 realization of rewrite rules on the C_Σ free module; theorum/60 residue = matrix commutator; 57 binding |
+| Scope | faithful realization; commutator support = order-dependence set, M_Σ = 2·count; conflict/enabling split (memory ⇒ no conflicts); Γ ⊙ h² = [D_lopa, D_chaḥ]; priority NF operator is a projector onto normal forms |
+| Status | `PASS_REWRITE_RULES_AS_CUT_MODULE_OPERATORS_CANDIDATE` |
+| Canonical result SHA-256 | `9a94b881415c5db9a9b1f47980bff829550d198bbd670336bcf353941280241f` |
+| Proof arithmetic | exact sparse C_Σ matrices (cross-checked against dense star); no float |
+
+```text
+theorum/61_rewrite_rules_as_cut_module_operators_theorem.md
+proof_lab/rewrite_rules_as_cut_module_operators.py
+proof_lab/test_rewrite_rules_as_cut_module_operators.py
+proof_lab/REWRITE_RULES_AS_CUT_MODULE_OPERATORS_EXPECTED.sha256
+```
+
 ## Ladder audit 50–59
 
 | Field | Value |

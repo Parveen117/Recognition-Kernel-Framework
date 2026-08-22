@@ -377,3 +377,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_SEAM_COMPENSATED_CONFLUENCE_VERDICT_HASH', actual)
           PY
+
+      - name: Reproduce rewrite rules as cut-module operators certificate
+        run: |
+          python -m proof_lab.rewrite_rules_as_cut_module_operators \
+            --output proof_lab/REWRITE_RULES_AS_CUT_MODULE_OPERATORS_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/REWRITE_RULES_AS_CUT_MODULE_OPERATORS_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/REWRITE_RULES_AS_CUT_MODULE_OPERATORS_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_REWRITE_RULES_AS_CUT_MODULE_OPERATORS_HASH', actual)
+          PY
