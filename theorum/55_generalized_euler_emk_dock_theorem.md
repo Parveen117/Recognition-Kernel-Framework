@@ -1,4 +1,4 @@
-# Dabas–Euler / EMK Dock (binding the exchange law to R, K, RK)
+# Generalized Euler / EMK Dock (binding the exchange law to R, K, RK)
 
 Closes the three "same shape, dock open" items left by theorum/51 and
 theorum/53, on the EMK 2×2 primitives of theorum/48 (`I, K, R, RK`) embedded
@@ -12,7 +12,7 @@ not flow generators.  The dagger grading and theorum/48's `J_E := K` grading
 are certified **different** (`R` is K-odd but dagger-even; `ιK` is K-even but
 dagger-odd) — two gradings, not one.
 
-## T2 Dock (a): the DE connection obeys the exchange law
+## T2 Dock (a): the GE connection obeys the exchange law
 For `D = αR + ιβK` (de4 §4, `∇^{RK} = ∇ + αR + βK + Γ_μ`, `Γ_μ` declared
 residue):
 ```text
@@ -40,7 +40,7 @@ invariant (theorum/53 T6) while `Δ∥` and `Δ⊥` individually **exchange**.
 EMK-1's additive split is the channel pair of theorum/51; their sum is the
 flow invariant.
 
-## T5 DE false-residue prevention, executable
+## T5 GE false-residue prevention, executable
 `residue(S→S′; α,β) = S′ − transport_{α,β}(S)`.  A lawful transition is closed
 under its declared pair only (open under all 24 other grid pairs); an
 unlawful transition is open under every pair — de4's "lawful motion before
@@ -48,22 +48,22 @@ error" as a verdict, not a principle.
 
 ## Certificate
 ```text
-python proof_lab/dabas_euler_emk_dock.py
-python -m unittest proof_lab.test_dabas_euler_emk_dock -v
+python proof_lab/generalized_euler_emk_dock.py
+python -m unittest proof_lab.test_generalized_euler_emk_dock -v
 ```
-`PASS_DABAS_EULER_EMK_DOCK_CANDIDATE`, SHA-256
-`4bfab28a636d09bde3ebf35a2d257dac2b690e88cf52a8051caf49e8a57c4522`.
+`PASS_GENERALIZED_EULER_EMK_DOCK_CANDIDATE`, SHA-256
+`bcddc7a3a622deae64a469489e39eeaf9ed72f093d3f2e71beb1323a045d4a7c`.
 
 ## Claim boundary
 ```text
 EMK FLOW GENERATORS, TWO GRADINGS SEPARATED                      PROVED
-DOCK (a) DE CONNECTION ⟹ EXCHANGE LAW                            PROVED
+DOCK (a) GE CONNECTION ⟹ EXCHANGE LAW                            PROVED
 DOCK (b) RK BRACKET = LEADING LOOP RESIDUE (dyadic window)       PROVED / SCALING WITNESSED
 DOCK (c) Δ∥+Δ⊥ INVARIANT, Δ∥,Δ⊥ EXCHANGE                          PROVED
-DE FALSE-RESIDUE VERDICT                                         PROVED
+GE FALSE-RESIDUE VERDICT                                         PROVED
 EXACT ORDER-3 LOOP IDENTITY                                      NOT CLAIMED
 Γ_μ MODELLED / PHYSICAL REALIZATION UNIQUE                       NOT CLAIMED
-DE MEASUREMENT / BORN / DEVICES                                  NOT TOUCHED
+GE MEASUREMENT / BORN / DEVICES                                  NOT TOUCHED
 RH, YM                                                           UNTOUCHED
 ```
 

@@ -343,7 +343,7 @@ def build_certificate() -> dict[str, Any]:
             ],
             "NOT_claimed": [
                 "any statement at second order or for the exact (non-infinitesimal) transport beyond the identities certified",
-                "an identification of the exchange law with EMK's RK mixed channel or with the Dabas-Euler RK connection (same shape; identification is a separate dock)",
+                "an identification of the exchange law with EMK's RK mixed channel or with the Generalized Euler RK connection (same shape; identification is a separate dock)",
                 "infinite-face limit; RH, YM untouched",
             ],
         },

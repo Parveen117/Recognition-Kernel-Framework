@@ -1,9 +1,9 @@
 from __future__ import annotations
 
-"""Exact certificate (theorum/55): DABAS-EULER / EMK DOCK.
+"""Exact certificate (theorum/55): GENERALIZED EULER / EMK DOCK.
 
 Binds three previously "same shape, dock open" items:
-  (a) theorum/51's exchange law  <->  the EMK/Dabas-Euler RK transport
+  (a) theorum/51's exchange law  <->  the EMK/Generalized Euler RK transport
       (nabla^{RK} = nabla + alpha R + beta K + Gamma, de4 Sec. 4);
   (b) the EMK bracket [R,K] = 2RK (mixed RK channel)  <->  the commutator
       loop of the two flows (RST-1 T4 shape);
@@ -22,10 +22,10 @@ Facts certified:
      J_E := K grading of theorum/48 are DIFFERENT gradings (R: K-odd but
      dagger-even; iota K: K-even but dagger-odd) -- certified as a separation,
      not identified.
- T2  DOCK (a): for the DE connection generator D = alpha R + iota beta K the
+ T2  DOCK (a): for the GE connection generator D = alpha R + iota beta K the
      exchange law reads  rad <- alpha[R_S, R] + beta[K, T],
-     turn <- alpha[T, R] + beta[R_S, K]:  the DE "lawful phase rotation"
-     alpha R acts by commutator inside each channel, the DE "seam transport"
+     turn <- alpha[T, R] + beta[R_S, K]:  the GE "lawful phase rotation"
+     alpha R acts by commutator inside each channel, the GE "seam transport"
      beta K (carrying turn) EXCHANGES channels.  Exact on random cut squares.
  T3  DOCK (b): [alpha R, iota beta K] = 2 iota alpha beta RK exactly (EMK
      bracket), and the Cayley commutator loop of the two flows has residual
@@ -40,8 +40,8 @@ Facts certified:
      Delta_par + Delta_perp is exactly invariant while Delta_par and Delta_perp
      individually EXCHANGE (rational rotation, no trigonometry): EMK-1's two
      channels are an exchange pair and their sum is theorum/53's invariant.
- T5  DE false-residue prevention (de4 Sec. 5) as an executable verdict: for a
-     transition S -> S' the DE residue is S' - transport_{alpha,beta}(S);
+ T5  GE false-residue prevention (de4 Sec. 5) as an executable verdict: for a
+     transition S -> S' the GE residue is S' - transport_{alpha,beta}(S);
      a lawful transition has residue exactly 0 under its declared (alpha,
      beta), nonzero under any other grid pair; an unlawful transition has
      nonzero residue for EVERY grid pair (open obstruction).
@@ -223,22 +223,22 @@ def build_certificate() -> dict[str, Any]:
         "t5_false_residue": t5_false_residue(),
     }
     checks = {f"{k}_all_checks": all(v["checks"].values()) for k, v in packets.items()}
-    status = "PASS_DABAS_EULER_EMK_DOCK_CANDIDATE" if all(checks.values()) else "FAIL_DABAS_EULER_EMK_DOCK_CANDIDATE"
+    status = "PASS_GENERALIZED_EULER_EMK_DOCK_CANDIDATE" if all(checks.values()) else "FAIL_GENERALIZED_EULER_EMK_DOCK_CANDIDATE"
     return {
-        "schema": "rkf.dabas_euler_emk_dock_candidate.v1",
+        "schema": "rkf.generalized_euler_emk_dock_candidate.v1",
         "status": status,
         "claim_boundary": {
             "proved_by_exact_finite_certificate": [
                 "R is the even (B-type) flow generator of the EMK span; iota I, iota K, iota RK are the odd (A-type) ones; K, RK, I are not flow generators; dagger grading and theorum/48's K-grading certified DIFFERENT",
-                "DOCK (a): the DE connection generator alpha R + iota beta K obeys theorum/51's exchange law with alpha R = commutator inside channels and beta K = channel exchange",
+                "DOCK (a): the GE connection generator alpha R + iota beta K obeys theorum/51's exchange law with alpha R = commutator inside channels and beta K = channel exchange",
                 "DOCK (b): [alpha R, iota beta K] = 2 iota alpha beta RK (EMK bracket) and it is the leading h^2 residue of the Cayley commutator loop (cubic residual on dyadic h; commuting control exact)",
                 "DOCK (c): det(M^dagger M) = (Delta_par + Delta_perp)^2; under the rational R-flow the total is invariant and the two EMK channels exchange",
-                "DE false-residue prevention executable: lawful transition closed under its declared pair only; unlawful transition open under every pair",
+                "GE false-residue prevention executable: lawful transition closed under its declared pair only; unlawful transition open under every pair",
             ],
             "NOT_claimed": [
                 "an exact order-3 identity for the loop residual (only cubic scaling on dyadic h is certified)",
-                "that the EMK 2x2 carrier is the only or the physical realization of the DE connection (de4's Gamma_mu term is declared residue, not modelled)",
-                "any claim about Dabas-Euler measurement statistics, Born recoverability, or devices (de.tex Sec. 7-9)",
+                "that the EMK 2x2 carrier is the only or the physical realization of the GE connection (de4's Gamma_mu term is declared residue, not modelled)",
+                "any claim about Generalized Euler measurement statistics, Born recoverability, or devices (de.tex Sec. 7-9)",
                 "RH, YM untouched",
             ],
         },

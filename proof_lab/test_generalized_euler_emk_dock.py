@@ -5,17 +5,17 @@ import unittest
 from fractions import Fraction
 from pathlib import Path
 
-from proof_lab.dabas_euler_emk_dock import I2, K, R, RK, build_certificate, canonical_bytes, certificate_sha256, emk, is_anti_self_dagger, loop
+from proof_lab.generalized_euler_emk_dock import I2, K, R, RK, build_certificate, canonical_bytes, certificate_sha256, emk, is_anti_self_dagger, loop
 from proof_lab.native_seam_gap_odd_covariance import eye, m_scale, sc, star
 from proof_lab.native_seam_resolvent import det
 from proof_lab.native_seam_gap_odd_covariance import cut_square
 
-EXPECTED = Path(__file__).with_name("DABAS_EULER_EMK_DOCK_EXPECTED.sha256")
+EXPECTED = Path(__file__).with_name("GENERALIZED_EULER_EMK_DOCK_EXPECTED.sha256")
 
 
-class DabasEulerEmkDockTests(unittest.TestCase):
+class GeneralizedEulerEmkDockTests(unittest.TestCase):
     def test_no_hilbert_verdict(self) -> None:
-        src = Path(__file__).with_name("dabas_euler_emk_dock.py").read_text(encoding="utf-8")
+        src = Path(__file__).with_name("generalized_euler_emk_dock.py").read_text(encoding="utf-8")
         for forbidden in ("numpy", "eigval", "cholesky", "is_psd", "norm_le", "transpose(", "float(", "math.cos", "math.sin"):
             self.assertNotIn(forbidden, src)
 
@@ -36,7 +36,7 @@ class DabasEulerEmkDockTests(unittest.TestCase):
 
     def test_certificate_pin(self) -> None:
         payload = build_certificate()
-        self.assertEqual(payload["status"], "PASS_DABAS_EULER_EMK_DOCK_CANDIDATE")
+        self.assertEqual(payload["status"], "PASS_GENERALIZED_EULER_EMK_DOCK_CANDIDATE")
         digest = hashlib.sha256(canonical_bytes(payload)).hexdigest()
         self.assertEqual(digest, certificate_sha256(payload))
         self.assertEqual(digest, EXPECTED.read_text(encoding="utf-8").strip())
