@@ -539,3 +539,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_MIMAMSA_OBLIGATION_CLOSURE_HASH', actual)
           PY
+
+      - name: Reproduce angatva pramana ladder certificate
+        run: |
+          python -m proof_lab.angatva_pramana_ladder \
+            --output proof_lab/ANGATVA_PRAMANA_LADDER_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/ANGATVA_PRAMANA_LADDER_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/ANGATVA_PRAMANA_LADDER_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_ANGATVA_PRAMANA_LADDER_HASH', actual)
+          PY

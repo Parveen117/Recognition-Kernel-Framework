@@ -560,6 +560,21 @@ proof_lab/test_mimamsa_obligation_closure.py
 proof_lab/MIMAMSA_OBLIGATION_CLOSURE_EXPECTED.sha256
 ```
 
+## Theorem 70 Aṅgatva pramāṇa ladder packet
+
+| Field | Value |
+|---|---|
+| Certificate class | MS 3.3.14 six pramāṇas as a delay-ordered resolver; Bhāṣya instances; monotonicity; Gāyatrī aṅgatva derived from evidence |
+| Status | `PASS_ANGATVA_PRAMANA_LADDER_CANDIDATE` |
+| Canonical result SHA-256 | `8a31fe5abc6966d64ebd2463882ddcf96ec6a3f0012cd37cc850ef4e77651dbe` |
+
+```text
+theorum/70_angatva_pramana_ladder_theorem.md
+proof_lab/angatva_pramana_ladder.py
+proof_lab/test_angatva_pramana_ladder.py
+proof_lab/ANGATVA_PRAMANA_LADDER_EXPECTED.sha256
+```
+
 ## Ladder audit 50–59
 
 | Field | Value |
