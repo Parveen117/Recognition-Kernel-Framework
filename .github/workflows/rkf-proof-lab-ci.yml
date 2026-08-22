@@ -197,3 +197,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_CANVAS_OPERATORS_NATIVIZED_HASH', actual)
           PY
+
+      - name: Reproduce native seam gap / odd-sector covariance certificate
+        run: |
+          python -m proof_lab.native_seam_gap_odd_covariance \
+            --output proof_lab/NATIVE_SEAM_GAP_ODD_COVARIANCE_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/NATIVE_SEAM_GAP_ODD_COVARIANCE_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/NATIVE_SEAM_GAP_ODD_COVARIANCE_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_NATIVE_SEAM_GAP_ODD_COVARIANCE_HASH', actual)
+          PY

@@ -230,3 +230,24 @@ Infinite-face limit (theorum/28 §11 hypotheses 1–5) and m-uniformity of an in
 | Proof arithmetic | exact `fractions.Fraction`; no float, no root of unity, no exponential evaluated |
 
 Files: `theorum/50_canvas_operators_nativized_theorem.md`, `proof_lab/canvas_operators_nativized.py`, `proof_lab/test_canvas_operators_nativized.py`, `proof_lab/CANVAS_OPERATORS_NATIVIZED_EXPECTED.sha256`.
+
+## Theorem 50 native seam gap / odd-sector covariance packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Primitive-carrier (C_Σ) product seam-gap and cut-square odd-channel certificate |
+| Scope | T01 laws re-verified on carrier; flow-generated faces; exactly multiplicative sheet mass ≤ ρ^k f0^m and energy contraction ρ² f0^(2m) uniform in m (m=1..4, dim 108); odd-sector covariance law A1–A6; three controls; source-level no-Hilbert guard |
+| Status | `PASS_NATIVE_SEAM_GAP_ODD_COVARIANCE_CANDIDATE` |
+| Canonical result SHA-256 | `d46a26c91eabd8733a25161564bca1b6dc66bc1b3f9f02ab7fd992dc78ea8826` |
+| Proof arithmetic | exact `fractions.Fraction` pairs (rad, turn); no float, no NumPy, no inner product, no PSD |
+
+Files:
+
+```text
+theorum/50_native_seam_gap_odd_sector_covariance_theorem.md
+proof_lab/native_seam_gap_odd_covariance.py
+proof_lab/test_native_seam_gap_odd_covariance.py
+proof_lab/NATIVE_SEAM_GAP_ODD_COVARIANCE_EXPECTED.sha256
+```
+
+Theorem 49 is retained as a derived-layer (Hilbert) cross-check and superseded by this packet. Dynamical law of the odd channel under the flow and the infinite-face limit remain open.

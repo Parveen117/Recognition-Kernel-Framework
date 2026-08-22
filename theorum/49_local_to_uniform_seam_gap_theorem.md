@@ -1,5 +1,10 @@
 # Local-to-Uniform Seam Gap Theorem (product of cut-graded faces)
 
+> **LAYER NOTE.** This capsule's (H2) verdict uses the derived Hilbert layer
+> (transpose-dagger, operator 2-norm, PSD).  The primitive-carrier version on
+> `C_Σ` with mass/energy verdicts is theorum/50, which supersedes this one as
+> the framework statement.  Kept as a derived-layer cross-check only.
+
 ## 1. What was missing
 
 The framework had a local cut calculus (theorum/41: every bounded generator
@@ -158,6 +163,7 @@ INFINITE-FACE LIMIT m → ∞ (theorum/28 §11 hypotheses 1–5)              NO
 m-UNIFORMITY OF THE COUPLING NORM β                                    DECLARED, NOT DERIVED
 LEAKING (NON-SEAM-COMPATIBLE) FACES                                    NO CLAIM
 W = exp(κ) IDENTIFICATION                                              NOT CLAIMED
+HILBERT-LAYER VERDICT (transpose, 2-norm, PSD)               DERIVED LAYER — superseded by theorum/50
 RH, YANG–MILLS, ANY OTHER GATE                                         UNTOUCHED
 ```
 
