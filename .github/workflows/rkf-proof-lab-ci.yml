@@ -611,3 +611,13 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_VEDANGA_JYOTISA_YUGA_LEDGER_HASH', actual)
           PY
+
+      - name: Pin Lean tables to the Python realization
+        run: python -m unittest proof_lab.test_lean_tables -v
+      - name: Lean kernel witnesses (core Lean 4.12.0, no Mathlib)
+        run: |
+          curl -sL -o lean.tar.zst https://github.com/leanprover/lean4/releases/download/v4.12.0/lean-4.12.0-linux.tar.zst
+          tar --zstd -xf lean.tar.zst
+          export PATH=$PWD/lean-4.12.0-linux/bin:$PATH
+          lean lean/CommutatorSupport.lean
+          lean lean/ExchangeLaw.lean

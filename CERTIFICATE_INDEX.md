@@ -620,6 +620,20 @@ proof_lab/test_vedanga_jyotisa_yuga_ledger.py
 proof_lab/VEDANGA_JYOTISA_YUGA_LEDGER_EXPECTED.sha256
 ```
 
+## Lean kernel witnesses (second lineage)
+
+| Witness | Statement | Kernel |
+|---|---|---|
+| LEAN-RKF-1 | theorum/61 commutator support + no conflicts on the gam word carrier (16 states) | `decide`, no axioms |
+| LEAN-RKF-2 | theorum/51 exchange law D†S + SD = ([R,B]+[A,T]) + ι([T,B]+[R,A]), all integer entries, 2×2 | accepted (propext, Quot.sound) |
+
+```text
+lean/CommutatorSupport.lean
+lean/ExchangeLaw.lean
+lean/README.md
+proof_lab/test_lean_tables.py
+```
+
 ## Ladder audit 50–59
 
 | Field | Value |
