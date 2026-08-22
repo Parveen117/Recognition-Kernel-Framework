@@ -160,13 +160,13 @@ def verdict(W0: State, rules: list[Rule], equiv: Callable[[State, State], bool],
     nfs = normal_forms(W0, rules_p if priority else rules, g)
     classes = {nf: None for nf in nfs}
     reps: list[State] = []
-    for nf in nfs:
+    for nf in sorted(nfs, key=repr_state):
         if not any(equiv(nf, r) for r in reps):
             reps.append(nf)
-    pairs = classify_pairs(rules, explore(W0, rules), equiv, priority)
+    pairs = sorted(classify_pairs(rules, explore(W0, rules), equiv, priority), key=lambda p: (p["state"], p["pair"]))
     open_pairs = [p for p in pairs if p["class"] == "OPEN"]
     v = "CONFLUENT_MOD_LEDGER" if len(reps) == 1 and not open_pairs else "NOT_CONFLUENT"
-    return {"verdict": v, "pairs": pairs, "open": open_pairs, "normal_forms_mod_ledger": [repr_state(r) for r in reps], "reachable": len(g["states"])}
+    return {"verdict": v, "pairs": pairs, "open": open_pairs, "normal_forms_mod_ledger": sorted(repr_state(r) for r in reps), "reachable": len(g["states"])}
 
 
 def _priority_step(W: State, rules: list[Rule]) -> State | None:

@@ -411,7 +411,7 @@ proof_lab/PRIME_LETTER_OPERATORS_EXPECTED.sha256
 | Certificate class | Decidable confluence-mod-ledger verdict on finite reachable carriers (Vedic confluence note, no Newman import) |
 | Scope | critical-pair classification PRIORITY_RESOLVED / LEDGER_ABSORBED / OPEN; word carrier: memory ⇒ zero critical pairs, erased ⇒ OPEN (1.3.9, 7.3.77); sandhi carrier under/without 1.4.2; containment ≠ equality; termination checked |
 | Status | `PASS_SEAM_COMPENSATED_CONFLUENCE_VERDICT_CANDIDATE` |
-| Canonical result SHA-256 | `5112f60ac5bfd85d4427d46d7b618c9d938a30f81ba1e8b7838e4da878c6fec8` |
+| Canonical result SHA-256 | `c3fb318c965a07820c4b58981c415b69a28e5c0c03f20c8f5f6200d42d2bd14c` |
 | Proof arithmetic | exact finite enumeration; no float |
 
 Files:

@@ -38,7 +38,7 @@ python proof_lab/seam_compensated_confluence_verdict.py
 python -m unittest proof_lab.test_seam_compensated_confluence_verdict -v
 ```
 `PASS_SEAM_COMPENSATED_CONFLUENCE_VERDICT_CANDIDATE`, SHA-256
-`5112f60ac5bfd85d4427d46d7b618c9d938a30f81ba1e8b7838e4da878c6fec8`.
+`c3fb318c965a07820c4b58981c415b69a28e5c0c03f20c8f5f6200d42d2bd14c`.
 
 ## Claim boundary
 ```text
