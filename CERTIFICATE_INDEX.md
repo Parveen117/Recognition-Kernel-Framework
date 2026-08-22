@@ -455,6 +455,21 @@ proof_lab/test_silence_vibration_sutra_flow.py
 proof_lab/SILENCE_VIBRATION_SUTRA_FLOW_EXPECTED.sha256
 ```
 
+## Theorem 63 Sup-vibhakti / resolver ladder packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Nominal sector (rāma paradigm, 21 forms) from canonical sūtras with soundness oracle; resolver ladder 8.2.1 > apavāda > nitya > para executable |
+| Status | `PASS_SUP_VIBHAKTI_RESOLVER_LADDER_CANDIDATE` |
+| Canonical result SHA-256 | `a4e1a93938a5a7994dba462473aca07eb86aebb71e68c164ce79a05c58db311b` |
+
+```text
+theorum/63_sup_vibhakti_resolver_ladder_theorem.md
+proof_lab/sup_vibhakti_resolver_ladder.py
+proof_lab/test_sup_vibhakti_resolver_ladder.py
+proof_lab/SUP_VIBHAKTI_RESOLVER_LADDER_EXPECTED.sha256
+```
+
 ## Ladder audit 50–59
 
 | Field | Value |

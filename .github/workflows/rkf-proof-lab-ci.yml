@@ -413,3 +413,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_SILENCE_VIBRATION_SUTRA_FLOW_HASH', actual)
           PY
+
+      - name: Reproduce sup-vibhakti resolver ladder certificate
+        run: |
+          python -m proof_lab.sup_vibhakti_resolver_ladder \
+            --output proof_lab/SUP_VIBHAKTI_RESOLVER_LADDER_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/SUP_VIBHAKTI_RESOLVER_LADDER_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/SUP_VIBHAKTI_RESOLVER_LADDER_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_SUP_VIBHAKTI_RESOLVER_LADDER_HASH', actual)
+          PY
