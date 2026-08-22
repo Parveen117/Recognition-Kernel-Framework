@@ -14,7 +14,7 @@ class LeanTablesPinnedToRealization(unittest.TestCase):
     def test_tables_match_python_realization(self) -> None:
         rules = word_rules(True)
         g = explore(GAM, rules)
-        states = sorted(g["states"], key=repr)
+        states = sorted(g["states"], key=lambda W: tuple((p, tuple(sorted(f))) for p, f in W))
         idx = {W: i for i, W in enumerate(states)}
         src = LEAN.read_text(encoding="utf-8")
         for sid, fn in rules:
