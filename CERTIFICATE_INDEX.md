@@ -461,13 +461,28 @@ proof_lab/SILENCE_VIBRATION_SUTRA_FLOW_EXPECTED.sha256
 |---|---|
 | Certificate class | Nominal sector (rāma paradigm, 21 forms) from canonical sūtras with soundness oracle; resolver ladder 8.2.1 > apavāda > nitya > para executable |
 | Status | `PASS_SUP_VIBHAKTI_RESOLVER_LADDER_CANDIDATE` |
-| Canonical result SHA-256 | `a4e1a93938a5a7994dba462473aca07eb86aebb71e68c164ce79a05c58db311b` |
+| Canonical result SHA-256 | `2d54940838d1a4493297023019c23c9fea4fc6ad42ad3664e72021d8eb353e54` |
 
 ```text
 theorum/63_sup_vibhakti_resolver_ladder_theorem.md
 proof_lab/sup_vibhakti_resolver_ladder.py
 proof_lab/test_sup_vibhakti_resolver_ladder.py
 proof_lab/SUP_VIBHAKTI_RESOLVER_LADDER_EXPECTED.sha256
+```
+
+## Theorem 64 Tiṅ laṭ parasmaipada packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Verbal sector: laṭ parasmaipada of bhū and gam (18 forms) from canonical sūtras; real earlier-apavāda 6.1.97 ⊊ 6.1.101; grammar-wide apavāda domains |
+| Status | `PASS_TING_LAT_PARASMAIPADA_CANDIDATE` |
+| Canonical result SHA-256 | `073705dabbd629242140637068f55ef4f7cfb256674f09a9e7251ba6b071feb9` |
+
+```text
+theorum/64_ting_lat_parasmaipada_theorem.md
+proof_lab/ting_lat_parasmaipada.py
+proof_lab/test_ting_lat_parasmaipada.py
+proof_lab/TING_LAT_PARASMAIPADA_EXPECTED.sha256
 ```
 
 ## Ladder audit 50–59

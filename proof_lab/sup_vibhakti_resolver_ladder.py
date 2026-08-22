@@ -96,7 +96,7 @@ def it_lopa(W: State, carry: bool = True) -> State | None:
 # ---------------------------------------------------------------- sūtras (nominal sector)
 def r_7_1_9(W):  # ato bhisa ais
     stem, aff, f = W
-    if stem and stem[-1] == "a" and aff == ("b", "h", "i", "s") and "ais_done" not in f:
+    if stem and stem[-1] == "a" and aff == ("b", "h", "i", "s") and "ais_done" not in f and "lopa_done" in f:
         return (stem, ("ai", "s"), f | {"ais_done"})
     return None
 
@@ -327,31 +327,50 @@ def is_tripadi(sid):
     return a == 8 and p >= 2
 
 
+def conflicts(W, A, B, rules_by_id, carry=True):
+    """Same-locus conflict: applying A then B differs from B then A (theorum/60 order-0 residue)."""
+    def after(X, Y):
+        out = applicable(Y[1], [(X[0], rules_by_id[X[0]])], carry)
+        return out[0][1] if out else Y[1]
+    return after(A, B) != after(B, A)
+
+
+def beats(A, B, W, dom, rules_by_id, carry=True):
+    """Pairwise ladder: 8.2.1 > apavāda > nitya > para.  Returns rung name if A beats B else None."""
+    if is_tripadi(B[0]) and not is_tripadi(A[0]):
+        return "8.2.1"
+    if is_tripadi(A[0]) and not is_tripadi(B[0]):
+        return None
+    if dom[A[0]] < dom[B[0]]:
+        return "apavāda"
+    if dom[B[0]] < dom[A[0]]:
+        return None
+    a_after_b = any(s == A[0] for s, _ in applicable(B[1], [(A[0], rules_by_id[A[0]])], carry))
+    b_after_a = any(s == B[0] for s, _ in applicable(A[1], [(B[0], rules_by_id[B[0]])], carry))
+    if a_after_b and not b_after_a:
+        return "nitya"
+    if b_after_a and not a_after_b:
+        return None
+    return "para" if sutra_key(A[0]) > sutra_key(B[0]) else None
+
+
 def resolve(W, app, dom, rules_by_id, carry=True):
-    """Ladder: 8.2.1 > apavāda (domain containment) > nitya > para.  Returns (winner, rung)."""
+    """Rules that conflict with no other applicable rule are order-free and act first (nirvirodha);
+    among conflicting rules the pairwise ladder picks the rule that beats every rival it conflicts with."""
     if len(app) == 1:
         return app[0], "single"
-    non_tri = [x for x in app if not is_tripadi(x[0])]
-    if non_tri and len(non_tri) < len(app):
-        app = non_tri
-        if len(app) == 1:
-            return app[0], "8.2.1"
-    # apavāda: A beats B if dom(A) ⊊ dom(B)
-    winners = [x for x in app if all(x is y or dom[x[0]] < dom[y[0]] for y in app)]
-    if len(winners) == 1:
-        return winners[0], "apavāda"
-    # nitya: A applies after B acted, B does not apply after A acted
-    def nitya_over(A, B):
-        a_after_b = any(s == A[0] for s, _ in applicable(B[1], [(A[0], rules_by_id[A[0]])], carry))
-        b_after_a = any(s == B[0] for s, _ in applicable(A[1], [(B[0], rules_by_id[B[0]])], carry))
-        return a_after_b and not b_after_a
-    winners = [x for x in app if all(x is y or nitya_over(x, y) for y in app)]
-    if len(winners) == 1:
-        return winners[0], "nitya"
-    top = max(sutra_key(x[0]) for x in app)
-    winners = [x for x in app if sutra_key(x[0]) == top]
-    assert len(winners) == 1, "tie"
-    return winners[0], "para"
+    # 8.2.1 first: tripādī rules are asiddha to the sapādasaptādhyāyī -- while any non-tripādī rule is applicable,
+    # only non-tripādī rules compete (order-free or not)
+    pool = [x for x in app if not is_tripadi(x[0])] or app
+    free = [x for x in pool if not any(conflicts(W, x, y, rules_by_id, carry) for y in pool if y is not x)]
+    if free:
+        return min(free, key=lambda x: sutra_key(x[0])), "nirvirodha" if len(pool) == len(app) else "8.2.1/nirvirodha"
+    app = pool
+    for x in app:
+        rungs = [beats(x, y, W, dom, rules_by_id, carry) for y in app if y is not x and conflicts(W, x, y, rules_by_id, carry)]
+        if rungs and all(rungs):
+            return x, "/".join(sorted(set(rungs)))
+    raise AssertionError("tie: no rule beats all its rivals")
 
 
 def paradigm_domains(rules, carry=True, carrier_inputs=None):
@@ -401,7 +420,7 @@ def build_certificate() -> dict[str, Any]:
     # T3 resolver census + para-sufficiency + planted apavāda
     rungs = sorted({c["rung"] for c in census})
     para_would_agree = all(c["winner"] == max(c["applicable"], key=sutra_key) for c in census)
-    apavada_pairs = sorted({(c["winner"], o) for c in census if c["rung"] == "apavāda" for o in c["applicable"] if o != c["winner"]})
+    apavada_pairs = sorted({(c["winner"], o) for c in census if "apavāda" in c["rung"] for o in c["applicable"] if o != c["winner"] and dom_all[c["winner"]] < dom_all[o]})
     # planted: rename 6.1.107 to "5.9.9" (earlier than 6.1.101) -> para would pick 6.1.101 (rāmām), apavāda still picks ami pūrvaḥ (rāmam)
     planted = [("5.9.9" if s == "6.1.107" else s, f) for s, f in RULES]
     W2s, _ = derive(ins["2s"], planted, dom=paradigm_domains(planted))
@@ -430,7 +449,7 @@ def build_certificate() -> dict[str, Any]:
         "T1_every_path_passes_lopa_1_3_9": lopa_every,
         "T2_memory_erased_breaks_Git_Tit_conditioned_forms": len(broken) > 0 and all(c in broken for c in ("3s", "4s", "5s", "6s")),
         "T3_apavada_rung_exhibits_domain_containment_pairs": len(apavada_pairs) > 0,
-        "T3_para_alone_DISAGREES_on_real_data_8_2_1_and_apavada_load_bearing": (not para_would_agree) and "8.2.1" in rungs and "apavāda" in rungs,
+        "T3_para_alone_DISAGREES_on_real_data_8_2_1_and_apavada_load_bearing": (not para_would_agree) and any("8.2.1" in r for r in rungs) and any("apavāda" in r for r in rungs),
         "T3_planted_earlier_apavada_ladder_gives_rAmam_para_alone_gives_other": surface(W2s) == "rAmam" and W2s_para_only != "rAmam",
         "T4_8_2_1_tripadi_never_before_sapadasaptadhyayi_rule": tri_first_ok,
         "T5_ladder_normal_form_is_a_free_normal_form_all_21": free_nf_ok,

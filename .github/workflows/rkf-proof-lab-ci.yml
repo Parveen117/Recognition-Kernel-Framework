@@ -431,3 +431,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_SUP_VIBHAKTI_RESOLVER_LADDER_HASH', actual)
           PY
+
+      - name: Reproduce ting lat parasmaipada certificate
+        run: |
+          python -m proof_lab.ting_lat_parasmaipada \
+            --output proof_lab/TING_LAT_PARASMAIPADA_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/TING_LAT_PARASMAIPADA_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/TING_LAT_PARASMAIPADA_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_TING_LAT_PARASMAIPADA_HASH', actual)
+          PY

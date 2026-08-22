@@ -6,6 +6,8 @@ to Mīmāṃsā. Two pieces a grammar needs before any śloka: the **nominal sec
 *pūrva-para-nitya-antaraṅga-apavādānām uttarottaraṃ balīyaḥ* plus 8.2.1
 pūrvatrāsiddham — each rung made executable on the carrier.
 
+> **Revised the same day (theorum/64 build).** The first resolver compared every applicable rule against every other; the tiṅ carrier refused that (a saṃjñā rule 3.4.113 blocked the apavāda rung at bhū+a+anti). Resolver v2, now shared by 63/64: (1) **8.2.1 first** — while any sapādasaptādhyāyī rule is applicable, tripādī rules wait; (2) **nirvirodha** — a rule that conflicts (theorum/60 order-0 residue) with no other applicable rule is order-free and acts first; (3) among conflicting rules the **pairwise** ladder apavāda > nitya > para picks the rule that beats every rival it conflicts with; ties refused. Apavāda domains are **grammar-wide** (union over the nominal and verbal carriers) — on one paradigm alone dom(6.1.97)=dom(6.1.101) and the rung is blind. Re-pinned; 21/21 unchanged.
+
 ## Resolvers (executable)
 ```text
 8.2.1     tripādī (8.2–8.4) rules are asiddha: an applicable earlier rule acts first
@@ -57,7 +59,7 @@ Every ladder normal form is a free normal form of the system.
 python proof_lab/sup_vibhakti_resolver_ladder.py
 python -m unittest proof_lab.test_sup_vibhakti_resolver_ladder -v
 ```
-`PASS_SUP_VIBHAKTI_RESOLVER_LADDER_CANDIDATE`, SHA-256 `a4e1a93938a5a7994dba462473aca07eb86aebb71e68c164ce79a05c58db311b`.
+`PASS_SUP_VIBHAKTI_RESOLVER_LADDER_CANDIDATE`, SHA-256 `2d54940838d1a4493297023019c23c9fea4fc6ad42ad3664e72021d8eb353e54`.
 
 ## Claim boundary
 ```text
