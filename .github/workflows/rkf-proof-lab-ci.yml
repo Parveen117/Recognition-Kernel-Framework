@@ -619,5 +619,4 @@ jobs:
           curl -sL -o lean.tar.zst https://github.com/leanprover/lean4/releases/download/v4.12.0/lean-4.12.0-linux.tar.zst
           tar --zstd -xf lean.tar.zst
           export PATH=$PWD/lean-4.12.0-linux/bin:$PATH
-          lean lean/CommutatorSupport.lean
-          lean lean/ExchangeLaw.lean
+          for f in lean/*.lean; do lean "$f"; done

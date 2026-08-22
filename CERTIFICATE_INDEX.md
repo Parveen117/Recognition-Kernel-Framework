@@ -625,11 +625,15 @@ proof_lab/VEDANGA_JYOTISA_YUGA_LEDGER_EXPECTED.sha256
 | Witness | Statement | Kernel |
 |---|---|---|
 | LEAN-RKF-1 | theorum/61 commutator support + no conflicts on the gam word carrier (16 states) | `decide`, no axioms |
+| LEAN-RKF-3 | theorum/60 confluence verdict on the gam carrier (1 NF with memory, 4 without) | `decide`, no axioms |
+| LEAN-RKF-4 | theorum/62 circular system 24·Exp-jet₄(tωR) = Cos₂₄·I + Sin₂₄·R, all integers ω, t | accepted (propext) |
 | LEAN-RKF-2 | theorum/51 exchange law D†S + SD = ([R,B]+[A,T]) + ι([T,B]+[R,A]), all integer entries, 2×2 | accepted (propext, Quot.sound) |
 
 ```text
 lean/CommutatorSupport.lean
 lean/ExchangeLaw.lean
+lean/ConfluenceVerdict.lean
+lean/CircularSystem.lean
 lean/README.md
 proof_lab/test_lean_tables.py
 ```
