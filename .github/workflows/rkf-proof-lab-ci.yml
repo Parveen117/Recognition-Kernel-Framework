@@ -503,3 +503,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_PADA_TO_LINE_EXTERNAL_SANDHI_HASH', actual)
           PY
+
+      - name: Reproduce karaka vibhakti carrier certificate
+        run: |
+          python -m proof_lab.karaka_vibhakti_carrier \
+            --output proof_lab/KARAKA_VIBHAKTI_CARRIER_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/KARAKA_VIBHAKTI_CARRIER_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/KARAKA_VIBHAKTI_CARRIER_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_KARAKA_VIBHAKTI_CARRIER_HASH', actual)
+          PY

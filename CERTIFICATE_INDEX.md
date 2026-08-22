@@ -530,6 +530,21 @@ proof_lab/test_pada_to_line_external_sandhi.py
 proof_lab/PADA_TO_LINE_EXTERNAL_SANDHI_EXPECTED.sha256
 ```
 
+## Theorem 68 Kāraka → vibhakti carrier packet
+
+| Field | Value |
+|---|---|
+| Certificate class | 1.4 kāraka saṃjñā + 2.3 vibhakti-artha under the abhihita ledger (3.4.69 / 2.3.1); Gāyatrī vibhaktis reproduced; voice-switch and 2.3.1 controls |
+| Status | `PASS_KARAKA_VIBHAKTI_CARRIER_CANDIDATE` |
+| Canonical result SHA-256 | `d6f1a3fabb69b71c4888290a9b6f62c720522498fd7657795e6976e00d573fd3` |
+
+```text
+theorum/68_karaka_vibhakti_carrier_theorem.md
+proof_lab/karaka_vibhakti_carrier.py
+proof_lab/test_karaka_vibhakti_carrier.py
+proof_lab/KARAKA_VIBHAKTI_CARRIER_EXPECTED.sha256
+```
+
 ## Ladder audit 50–59
 
 | Field | Value |
