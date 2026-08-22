@@ -269,3 +269,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_NATIVE_CUT_SQUARE_FACTORIZATION_HASH', actual)
           PY
+
+      - name: Reproduce infinite-face recognition completion certificate
+        run: |
+          python -m proof_lab.infinite_face_recognition_completion \
+            --output proof_lab/INFINITE_FACE_RECOGNITION_COMPLETION_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/INFINITE_FACE_RECOGNITION_COMPLETION_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/INFINITE_FACE_RECOGNITION_COMPLETION_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_INFINITE_FACE_RECOGNITION_COMPLETION_HASH', actual)
+          PY
