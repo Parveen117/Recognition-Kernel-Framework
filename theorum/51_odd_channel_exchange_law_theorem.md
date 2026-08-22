@@ -58,7 +58,7 @@ python proof_lab/odd_channel_exchange_law.py
 python -m unittest proof_lab.test_odd_channel_exchange_law -v
 ```
 `PASS_ODD_CHANNEL_EXCHANGE_LAW_CANDIDATE`, SHA-256
-`5a2055d3b6c643353a1d91a4c206a8edd893144b11589c118fee8813771032c5`.
+`80be9fb9020268066f58908e9f497c0e845eadfbf940f29c3e7414ae0750e7f3`.
 Source-guarded against any Hilbert verdict.
 
 ## 5. Claim boundary

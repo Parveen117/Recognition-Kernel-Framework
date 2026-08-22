@@ -219,7 +219,7 @@ proof_lab/LOCAL_TO_UNIFORM_SEAM_GAP_EXPECTED.sha256
 
 Infinite-face limit (theorum/28 §11 hypotheses 1–5) and m-uniformity of an interacting coupling norm remain separate obligations.
 
-## Theorem 50 canvas operators nativized packet
+## Theorem 56 canvas operators nativized packet (originally filed as 50)
 
 | Field | Value |
 |---|---|
@@ -229,7 +229,7 @@ Infinite-face limit (theorum/28 §11 hypotheses 1–5) and m-uniformity of an in
 | Canonical result SHA-256 | `df4c77161f37e874b4fd22d0a8af3d3e1e65a263d4e9afbd4dea14f9bdf9ea68` |
 | Proof arithmetic | exact `fractions.Fraction`; no float, no root of unity, no exponential evaluated |
 
-Files: `theorum/50_canvas_operators_nativized_theorem.md`, `proof_lab/canvas_operators_nativized.py`, `proof_lab/test_canvas_operators_nativized.py`, `proof_lab/CANVAS_OPERATORS_NATIVIZED_EXPECTED.sha256`.
+Files: `theorum/56_canvas_operators_nativized_theorem.md`, `proof_lab/canvas_operators_nativized.py`, `proof_lab/test_canvas_operators_nativized.py`, `proof_lab/CANVAS_OPERATORS_NATIVIZED_EXPECTED.sha256`.
 
 ## Theorem 50 native seam gap / odd-sector covariance packet
 
@@ -259,7 +259,7 @@ Theorem 49 is retained as a derived-layer (Hilbert) cross-check and superseded b
 | Certificate class | Primitive-carrier flow-transport certificate for the cut square |
 | Scope | anti-self-dagger Cayley step native-unitary (exact C_Σ inverse); exchange law D†S+SD = ([R,B]+[A,T]) + ι([T,B]+[R,A]); first-order residual identity; creation/no-creation; energy invariant with channel exchange; product Leibniz transport; step non-factorization; controls |
 | Status | `PASS_ODD_CHANNEL_EXCHANGE_LAW_CANDIDATE` |
-| Canonical result SHA-256 | `5a2055d3b6c643353a1d91a4c206a8edd893144b11589c118fee8813771032c5` |
+| Canonical result SHA-256 | `80be9fb9020268066f58908e9f497c0e845eadfbf940f29c3e7414ae0750e7f3` |
 | Proof arithmetic | exact `fractions.Fraction` pairs (rad, turn); no float, no inner product |
 
 Files:
