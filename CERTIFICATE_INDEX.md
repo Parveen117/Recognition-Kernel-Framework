@@ -218,3 +218,15 @@ proof_lab/LOCAL_TO_UNIFORM_SEAM_GAP_EXPECTED.sha256
 ```
 
 Infinite-face limit (theorum/28 §11 hypotheses 1–5) and m-uniformity of an interacting coupling norm remain separate obligations.
+
+## Theorem 50 canvas operators nativized packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Exact reduction of owner operator canvases to the cut algebra |
+| Scope | Bindu–Lopa chart-dependent commutator + seam-alphabet termination; Pāṇinian rewrite (lopa, precedence, non-confluence, anubandha blindness); Operator-Universe tower = theorum/41 grading; Aghora refusal (G=0) + odd-signed repair; OM factorization + m-torus gap (Theorem 49); projector sectors |
+| Status | `PASS_CANVAS_OPERATORS_NATIVIZED_CANDIDATE` |
+| Canonical result SHA-256 | `df4c77161f37e874b4fd22d0a8af3d3e1e65a263d4e9afbd4dea14f9bdf9ea68` |
+| Proof arithmetic | exact `fractions.Fraction`; no float, no root of unity, no exponential evaluated |
+
+Files: `theorum/50_canvas_operators_nativized_theorem.md`, `proof_lab/canvas_operators_nativized.py`, `proof_lab/test_canvas_operators_nativized.py`, `proof_lab/CANVAS_OPERATORS_NATIVIZED_EXPECTED.sha256`.

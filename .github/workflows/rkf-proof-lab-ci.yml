@@ -179,3 +179,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_LOCAL_TO_UNIFORM_SEAM_GAP_HASH', actual)
           PY
+
+      - name: Reproduce canvas operators nativized certificate
+        run: |
+          python -m proof_lab.canvas_operators_nativized \
+            --output proof_lab/CANVAS_OPERATORS_NATIVIZED_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/CANVAS_OPERATORS_NATIVIZED_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/CANVAS_OPERATORS_NATIVIZED_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_CANVAS_OPERATORS_NATIVIZED_HASH', actual)
+          PY
