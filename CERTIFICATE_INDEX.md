@@ -365,3 +365,22 @@ proof_lab/loop_residue_first_visible_jet_binding.py
 proof_lab/test_loop_residue_first_visible_jet_binding.py
 proof_lab/LOOP_RESIDUE_FIRST_VISIBLE_JET_BINDING_EXPECTED.sha256
 ```
+
+## Theorem 58 Pāṇinian seam calculus packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Canonical-sūtra upgrade of theorum/56 B2 on a recognized/memory two-channel carrier |
+| Scope | vowel-strength semilattice (1.1.1/1.1.2/1.1.3); priority 1.4.2 = commutator support (computed, free ambiguity set = union of supports); gacchati / nayati derivations with 1.1.62 memory channel load-bearing; R–A–S determinacy disproved free / proved under priority |
+| Status | `PASS_PANINIAN_SEAM_CALCULUS_CANDIDATE` |
+| Canonical result SHA-256 | `7966cc7271302338487eb41b88a6f3e2da61e35c7d9ed72afc350cfb3c0387ad` |
+| Proof arithmetic | exact finite combinatorics; no float; no hard-coded verdicts |
+
+Files:
+
+```text
+theorum/58_paninian_seam_calculus_theorem.md
+proof_lab/paninian_seam_calculus.py
+proof_lab/test_paninian_seam_calculus.py
+proof_lab/PANINIAN_SEAM_CALCULUS_EXPECTED.sha256
+```
