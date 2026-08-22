@@ -270,3 +270,22 @@ proof_lab/odd_channel_exchange_law.py
 proof_lab/test_odd_channel_exchange_law.py
 proof_lab/ODD_CHANNEL_EXCHANGE_LAW_EXPECTED.sha256
 ```
+
+## Theorem 52 native seam resolvent packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Primitive-carrier resolvent / spectral-region certificate |
+| Scope | mass-Neumann resolvent with declared geometric Smriti tails (N=0..6, planted control); det factorization and native gap region G_ρ with f0 outside; exact triangular locus; power-sharpened region; product locus uniform in m, resolvent non-local |
+| Status | `PASS_NATIVE_SEAM_RESOLVENT_CANDIDATE` |
+| Canonical result SHA-256 | `c813f2a4797ebdf426ebe84309d87fe6ad177e23e85828c2050fda23d9242afe` |
+| Proof arithmetic | exact K_Σ (Fraction pairs); no float, no inner product, no eigenvalue approximation |
+
+Files:
+
+```text
+theorum/52_native_seam_resolvent_theorem.md
+proof_lab/native_seam_resolvent.py
+proof_lab/test_native_seam_resolvent.py
+proof_lab/NATIVE_SEAM_RESOLVENT_EXPECTED.sha256
+```
