@@ -57,6 +57,6 @@ PRODUCT TENSORS EXACTLY                                               PROVED
 det S = ∏ WEIGHTS FLOW-INVARIANT                                      PROVED
 UNIQUENESS OF THE FACTORIZATION                                       NOT CLAIMED (basis-ordered)
 WEIGHTS = EIGENVALUES                                                 NOT CLAIMED
-det S ≡ EMK-1 DETERMINANT CHANNEL                                     DOCK OPEN
+det S ≡ EMK-1 DETERMINANT CHANNEL                                     DOCKED — theorum/55 (total Δ∥+Δ⊥)
 RH, YM                                                                UNTOUCHED
 ```

@@ -287,3 +287,21 @@ jobs:
           assert actual == expected, (actual, expected)
           print('PASS_INFINITE_FACE_RECOGNITION_COMPLETION_HASH', actual)
           PY
+
+      - name: Reproduce Dabas-Euler / EMK dock certificate
+        run: |
+          python -m proof_lab.dabas_euler_emk_dock \
+            --output proof_lab/DABAS_EULER_EMK_DOCK_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/DABAS_EULER_EMK_DOCK_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/DABAS_EULER_EMK_DOCK_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_DABAS_EULER_EMK_DOCK_HASH', actual)
+          PY

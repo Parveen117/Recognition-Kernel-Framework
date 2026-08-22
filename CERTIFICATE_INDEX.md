@@ -327,3 +327,22 @@ proof_lab/infinite_face_recognition_completion.py
 proof_lab/test_infinite_face_recognition_completion.py
 proof_lab/INFINITE_FACE_RECOGNITION_COMPLETION_EXPECTED.sha256
 ```
+
+## Theorem 55 Dabas–Euler / EMK dock packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Dock certificate binding theorum/51, 53 to EMK/DE transport |
+| Scope | EMK flow generators and two gradings; DE connection obeys the exchange law; [R,K]=2RK as leading loop residue (dyadic window); Δ∥+Δ⊥ invariant with channel exchange; DE false-residue verdict |
+| Status | `PASS_DABAS_EULER_EMK_DOCK_CANDIDATE` |
+| Canonical result SHA-256 | `4bfab28a636d09bde3ebf35a2d257dac2b690e88cf52a8051caf49e8a57c4522` |
+| Proof arithmetic | exact K_Σ; rational rotations, no trigonometry, no float |
+
+Files:
+
+```text
+theorum/55_dabas_euler_emk_dock_theorem.md
+proof_lab/dabas_euler_emk_dock.py
+proof_lab/test_dabas_euler_emk_dock.py
+proof_lab/DABAS_EULER_EMK_DOCK_EXPECTED.sha256
+```
