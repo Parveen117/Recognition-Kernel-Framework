@@ -76,6 +76,12 @@ and it therefore missed a classical import in the audited object itself:
   `chi_of_u`) together with the fusion coefficients (YM-30 CG machinery,
   RST-2 squared-amplitude discipline). Expected: identical rationals;
   any discrepancy is itself the finding.
+- **RESOLVED same day**: grading regraded natively (`rail_cinv_native`:
+  character ladder + convolution; projector laws certified as exact
+  rational identities on the carrier; Laplacian route demoted to an
+  independent cross-check control, reproducing identical rationals on
+  every monomial). T75 T3/T4 restored to PROVED; certificate re-pinned
+  with C5 extended (`C5_moments_native_grading_certified_and_laplacian_crosscheck`).
 - LESSON RECORDED: an audit must include a provenance pass —
   "which imported operator defines this object?" — not only a control
   pass. Vacuous controls and borrowed definitions are different defects

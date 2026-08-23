@@ -268,13 +268,117 @@ def rail_cinv(mono4, fcoef, D=4):
 def cinv_full(p, fcoef):
     out = {}
     for e, c in p.items():
-        left = rail_cinv(e[0:4], fcoef)
-        right = rail_cinv(e[4:8], fcoef)
+        left = rail_cinv_native(e[0:4], fcoef)
+        right = rail_cinv_native(e[4:8], fcoef)
         for e1, c1 in left.items():
             for e2, c2 in right.items():
                 k = e1 + e2
                 out[k] = out.get(k, F(0)) + c * c1 * c2
     return {e: c for e, c in out.items() if c != 0}
+
+
+# ---------------------------------------------------------------------------
+# NATIVE REGRADING (standing-correction fix): content grading DEFINED by the
+# character ladder (chi_of_u, native three-term recurrence) and convolution
+# (the framework's own operation, rational moments). The projector properties
+# are CERTIFIED on the carrier below (C5n), not cited from any classical
+# orthogonality theorem. The Laplacian construction above is retained ONLY as
+# an independent cross-check control (it must reproduce identical rationals).
+# ---------------------------------------------------------------------------
+
+
+def _chi_poly_xy(c):
+    """chi_c(x' ybar) as an 8-var polynomial (x' = slots 0-3, y = slots 4-7):
+    u = 2<x',y>, coefficients from the native recurrence chi_of_u."""
+    u = padd({}, dot01(), F(2))
+    coeffs = chi_of_u(c)
+    out = {}
+    upow = pconst(1)
+    for k, a in enumerate(coeffs):
+        if a != 0:
+            out = padd(out, upow, a)
+        upow = pmul(upow, u)
+    return out
+
+
+def _integrate_y(p):
+    """integrate slots 4-7 with the rational moment table; returns 4-var dict."""
+    out = {}
+    for e, cf in p.items():
+        m = moment4(e[4:8])
+        if m == 0:
+            continue
+        k = e[0:4]
+        out[k] = out.get(k, F(0)) + cf * m
+    return {e: c for e, c in out.items() if c != 0}
+
+
+_CHARP = {}
+
+
+def char_component(mono4, c):
+    """content-c component of a rail monomial: (2c+1) * Int chi_c(x' ybar) m(y) dy."""
+    key = (mono4, c)
+    if key in _CHARP:
+        return _CHARP[key]
+    my = {(0, 0, 0, 0) + mono4: F(1)}
+    comp = _integrate_y(pmul(_chi_poly_xy(c), my))
+    comp = {e: (2 * c + 1) * v for e, v in comp.items()}
+    _CHARP[key] = comp
+    return comp
+
+
+def rail_cinv_native(mono4, fcoef, D=None):
+    # components at content c > degree(mono) vanish identically (a degree-d
+    # polynomial carries no higher content), so the ladder range is the
+    # monomial's own degree
+    if D is None:
+        D = sum(mono4)
+    out = {}
+    for c2 in range(0, D + 1):
+        c = F(c2, 2)
+        comp = char_component(mono4, c)
+        for e, v in comp.items():
+            out[e] = out.get(e, F(0)) + v / fcoef[c]
+    return {e: c for e, c in out.items() if c != 0}
+
+
+def certify_native_grading(D=4):
+    """C5n: exact projector laws on the rail carrier — reassembly (sum of
+    components == the monomial as a function on the carrier, tested against
+    the full spanning set), idempotence, and cross-orthogonality — all as
+    rational identities. Returns True/False; nothing cited."""
+    monos = rail_monomials(D)
+    probes = rail_monomials(D)
+    for m in monos:
+        comps = [char_component(m, F(c2, 2)) for c2 in range(0, D + 1)]
+        total = {}
+        for comp in comps:
+            for e, v in comp.items():
+                total[e] = total.get(e, F(0)) + v
+        for p in probes:
+            lhs = _rail_int(pmul4({m: F(1)}, {p: F(1)}))
+            rhs = sum(_rail_int(pmul4({e: v}, {p: F(1)})) for e, v in total.items())
+            if lhs != rhs:
+                return False
+    # idempotence + orthogonality on a spanning sample
+    for m in monos[: min(len(monos), 12)]:
+        for c2 in range(0, D + 1):
+            comp = char_component(m, F(c2, 2))
+            # re-projecting the component must reproduce it (c' = c) or kill it
+            for c2b in range(0, D + 1):
+                re = {}
+                for e, v in comp.items():
+                    cc = char_component(e, F(c2b, 2))
+                    for e2, v2 in cc.items():
+                        re[e2] = re.get(e2, F(0)) + v * v2
+                tgt = comp if c2b == c2 else {}
+                for p in probes:
+                    lhs = sum(_rail_int(pmul4({e: v}, {p: F(1)})) for e, v in re.items())
+                    rhs = sum(_rail_int(pmul4({e: v}, {p: F(1)})) for e, v in tgt.items())
+                    if lhs != rhs:
+                        return False
+    return True
 
 
 def invariant_even_basis_L(Lam: F):
@@ -359,7 +463,19 @@ def run():
         rhs = _rail_int(pmul4(re, {probe: F(1)}))
         if lhs != rhs:
             c5 = False
-    C[4] = C[4] and c5
+    # C5n (regrading): native projector laws certified + Laplacian route as
+    # independent cross-check (must reproduce identical rationals)
+    c5n = certify_native_grading(4)
+    fdum2 = {F(k, 2): F(1) + F(k, 7) for k in range(0, 9)}
+    for m in rail_monomials(4)[:20]:
+        a = rail_cinv_native(m, fdum2)
+        b = rail_cinv(m, fdum2)
+        for p in rail_monomials(4):
+            la = sum(_rail_int(pmul4({e: v}, {p: F(1)})) for e, v in a.items())
+            lb = sum(_rail_int(pmul4({e: v}, {p: F(1)})) for e, v in b.items())
+            if la != lb:
+                c5n = False
+    C[4] = C[4] and c5 and c5n
     for kap in GRID:
         entry = {}
         # ---- T1 ladder law on enclosures + planted-wrong control ----
@@ -538,7 +654,7 @@ def run():
     ok = all(C)
     return {
         "certificate_type": "T75_SELECTIVE_RELEASE_CONTENT_TAIL",
-        "claim_status": "ladder_law_all_contents_PROVED__stationarity_EXACT__seam_count_retention_EXACT_"
+        "claim_status": "NATIVE_GRADING_character_ladder_certified__ladder_law_all_contents_PROVED__stationarity_EXACT__seam_count_retention_EXACT_"
                         "at_instantiated_levels__contraction_transfers__outward_certificate_full_column_"
                         "with_declared_sec4_tail_beyond_content_2__unripe_refusal_path_present",
         "grid": grid,
@@ -546,7 +662,7 @@ def run():
                      "C2_stationarity_exact_and_perturbation_bites": bool(C[1]),
                      "C3_counts_budgets_drift": bool(C[2]),
                      "C4_beta_all_levels_and_u_plus_e": bool(C[3]),
-                     "C5_moment_and_harmonic_selfchecks": bool(C[4])},
+                     "C5_moments_native_grading_certified_and_laplacian_crosscheck": bool(C[4])},
         "verdict": "PASS" if ok else "FAIL",
     }
 

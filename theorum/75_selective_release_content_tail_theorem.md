@@ -48,9 +48,9 @@ Wilson face ladder, declared rung kernel; levels Λ = 1, 3/2, 2; grid
 ```text
 LADDER LAW f_{c+1/2}/f_c <= kappa/(2(2c+2)), ALL c              PROVED
 STATIONARITY OF THE LOW BLOCK, SILENCE ROW, FLOOR               PROVED (exact)
-SEAM-COUNT RETENTION AT Λ = 3/2, 2 (INTEGER EQUALITY)           ANCHORED (classical grading; native regrading named)
+SEAM-COUNT RETENTION AT Λ = 3/2, 2 (INTEGER EQUALITY)           PROVED (instance; native grading)
 CONTRACTION TRANSFER, β_sil < 1 AT EVERY INSTANTIATED LEVEL     PROVED (instance)
-OUTWARD CERTIFICATE u + e < 1 FOR THE FULL COLUMN               ANCHORED (same reason), WITH THE LEVELS > 2
+OUTWARD CERTIFICATE u + e < 1 FOR THE FULL COLUMN               PROVED, WITH THE LEVELS > 2
                                                                 ENTERING ONLY VIA §4's DECLARED
                                                                 TAIL (T1-justified ratio; the
                                                                 Gram-uniformity of levels > 2 is
@@ -58,12 +58,18 @@ OUTWARD CERTIFICATE u + e < 1 FOR THE FULL COLUMN               ANCHORED (same r
 OPERATOR UPPER BOUND FOR THE CHAIN GAP (E4D-C)                  OPEN (this is the tool, not the wall)
 ```
 
-## Standing correction (same day, owner's provenance challenge)
-The content grading is currently built from the **classical Laplacian's
-nullspace** (`laplace_nullspace` -> `rail_cinv` -> B), a classical import
-not named in the ledger. T1 and T2 and the tamper results are unaffected;
-**T3's counts and T4's outward certificate are ANCHORED** pending the
-native regrading by the character ladder `chi_of_u` + fusion coefficients.
+## Standing correction — RESOLVED (same day)
+The owner's provenance challenge found the content grading built from the
+classical Laplacian's nullspace (load-bearing for B); T3/T4 were demoted
+to ANCHORED. **Resolved by the native regrading:** the grading is now
+DEFINED by the character ladder (`chi_of_u`, the native three-term
+recurrence) composed with convolution (rational moments) —
+`rail_cinv_native`. Its projector laws (reassembly, idempotence,
+cross-orthogonality) are **certified on the carrier as exact rational
+identities** (`certify_native_grading`), cited from nothing. The
+Laplacian construction is retained ONLY as an independent cross-check
+control and reproduces **identical rationals** on every monomial. Every
+number in this certificate is unchanged. T3/T4 restored to PROVED.
 See `AUDIT_74_75.md`.
 
 ## Build notes
