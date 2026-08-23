@@ -95,7 +95,10 @@ Controls:
       content-mixing C' (off-diagonal entry) is detected.
   C2  ledger identity exact; lambda_{1/2}-channel tamper changes the row.
   C3  r_sil B-orthogonal to 1 EXACTLY; beta_sil < 1; ball invariance;
-      planted degenerate pencil (identity) refuses (beta >= 1 path).
+      REFUSAL control: a pencil with a heavy complement (weight 5 against
+      theta = 1) yields sigma >= theta, i.e. no contraction certified —
+      the fail-closed path. (Audit fix: the original identity-pencil test
+      was vacuous, its ceiling being exactly 1.)
   C4  uniformity rows: every exact rho(m,p) inside the silence-deflation
       band; bands honestly wider than the YM-38 Krylov ones (recorded).
   C5  T4 one-sided law beta_sil < r_1/2 exact on the printed rationals
@@ -543,9 +546,18 @@ def run():
         inv_ok = th_lo > 0 and (Rhat + sig * tbar) / th_lo <= tbar
         beta = sig / th_lo + th_hi * tbar * Rhat / (W_w * th_lo * th_lo)
         c3 = c3 and inv_ok and beta < 1 and all(t <= tbar for t in t_up[P0:])
-        # planted degenerate refusal: identity pencil has sig = theta = 1 -> beta >= 1
-        Ip = [[F(1) if i == j else F(0) for j in range(2)] for i in range(2)]
-        c3 = c3 and not (doubled_ceiling(Ip, Ip, hi=F(2), steps=10) / F(1) < 1)
+        # REFUSAL CONTROL (audit fix). The original test used the identity pencil,
+        # whose ceiling is exactly 1, so `not (1 < 1)` could never fail — vacuous.
+        # Replaced by a pencil with a genuinely heavy complement: silence channel
+        # e0 with theta = 1 but complement weight 5, so sigma = 5 and beta > 1 —
+        # the contraction must REFUSE. A broken ceiling routine would report < 1
+        # and fail this control.
+        Mref = [[F(1), F(0)], [F(0), F(5)]]
+        Bref = [[F(1), F(0)], [F(0), F(1)]]
+        wref = [F(1), F(0)]
+        Uref, Mpr, Bpr = restricted(Mref, Bref, wref, F(1))
+        sig_ref = doubled_ceiling(Mpr, Bpr, hi=F(8), steps=30)
+        c3 = c3 and (sig_ref / F(1) >= 1)
         C[2] = C[2] and c3
         # ---- T3 assembly rows (silence deflation) ----
         yh = [[(xs[p][k] - bs[p] * w[k]) / bs[p] for k in range(n)] for p in range(K_EXACT + 1)]

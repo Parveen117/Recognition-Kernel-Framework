@@ -69,9 +69,12 @@ kernel (contents <= 1) unchanged.
          realized by the elimination itself; equality of the two counts
          certifies the released block's Schur complement carries no
          positive weight);
-       - the tryambaka triple: border cut-tail mass and border
-         recognition energy certified <= their T1-geometric budgets,
-         and the count equality above — three verdicts per step;
+       - the tryambaka triple: the seam-count equality (load-bearing),
+         its flat-ladder tamper (load-bearing: without the lopa ladder
+         the counts DIFFER, 3 vs 11 and 6 vs 19 at kappa = 1/8 — release
+         is unlawful and refused), and the border mass/energy figures
+         (PRINTED DIAGNOSTIC after the audit: the budget was too coarse
+         to fail, so it is not counted as a control);
        - contraction transfer: sigma_sil and beta_sil recomputed on the
          ENLARGED carriers; certified |sigma_sil(Lambda) - sigma_sil(1)|
          within the released budget and beta_sil(Lambda) < 1 — the
@@ -92,12 +95,14 @@ kernel (contents <= 1) unchanged.
 
 Controls:
   C1  T1 ratio inequality on enclosures for c = 0..3/2 at every grid
-      kappa; a planted wrong ratio (kappa/(2(2c+1))) fails at some cell.
+      kappa, AND the next sharper claim kappa/(2(2c+3)) must fail —
+      discrimination, not a loose majorant (audit fix: the original
+      planted-wrong test could never fire).
   C2  T2 stationarity exact (every low-block entry, theta_sil, silence
       row); a planted face perturbation breaks it.
-  C3  T3 count equalities at two thresholds per kappa; border mass and
-      energy within budgets; refusal path exercised on a planted
-      inflated coupling.
+  C3  T3 count equalities at two thresholds per kappa; the flat-ladder
+      tamper must make them DIFFER (biting refusal control); sigma drift
+      within one lopa rate. Border mass/energy: diagnostic only (audit).
   C4  beta_sil at Lambda = 1, 3/2, 2 all < 1; drift within budget;
       u + e < 1 exact rational at every kappa.
   C5  moment-table extension self-check (degree-8 identities) and
@@ -365,9 +370,13 @@ def run():
             bound = kap / (2 * (c2 + 2))
             if not (hi1 / lo0 <= bound):
                 c1 = False
-            wrong = kap / (2 * (c2 + 1))
-            if c2 == 0 and hi1 / lo0 <= wrong / 10:
-                c1 = False        # the planted (too strong) claim must NOT hold with slack
+            # DISCRIMINATION (audit fix): the claimed bound holds, but the next
+            # sharper claim kappa/(2(2c+3)) must FAIL — otherwise the check would
+            # pass for any loose majorant. Measured sharpness ratio/bound = 0.99935
+            # at c = 0: the proved law is tight to 0.07%, not a loose bound.
+            sharper = kap / (2 * (2 * c2 + 3))
+            if hi1 / lo0 <= sharper:
+                c1 = False
         C[0] = C[0] and c1
         # ---- pencils at the three levels ----
         pencils = {}
@@ -467,10 +476,40 @@ def run():
             # moment size <= 1 and coefficient sums; certified against the crude
             # bound  (#border pairs) * (coeff sum of K)^... -> use printed budget:
             Ksum = 1 + 4 * klo[HALF] + 12 * klo[ONE] + 3 * klo[ONE]
-            budget = F(len(basisL) ** 2) * Ksum * 4  # coarse, explicit, printed
-            if not (border_mass <= budget):
-                c3 = False
+            budget = F(len(basisL) ** 2) * Ksum * 4
+            # AUDIT DOWNGRADE: this budget is coarse enough that it cannot fail on
+            # this instance — it is recorded as a printed DIAGNOSTIC, not a control.
+            # The load-bearing verdicts of the release step are the seam-count
+            # equality and its flat-ladder tamper above.
+            entry[f"border_mass_budget_L{Lam}_diagnostic_only"] = f"{float(budget):.1f}"
             entry[f"border_mass_L{Lam}"] = f"{float(border_mass):.6f}"
+        # RETENTION TAMPER (audit addition): kill the lopa ladder (flat faces
+        # f_c = f_0) and the seam counts must DIFFER — i.e. release without the
+        # ladder is unlawful and the certificate refuses it. This is what makes
+        # the count equality a load-bearing verdict rather than a coincidence.
+        # NOTE (audit build note): patch THIS module's globals, not
+        # `import proof_lab.selective_release` — run as __main__ that import
+        # yields a SECOND module object and the tamper would silently not bite.
+        _g = globals()
+        _orig = _g["face_enclosure"]
+        try:
+            _g["face_enclosure"] = lambda c2, k, _o=_orig: _o(0, k)
+            b1f, M1f, B1f, e01f, _f, _e = build_L(kap, ONE, klo)
+            b2f, M2f, B2f, e02f, _f2, _e2 = build_L(kap, F(2), klo)
+        finally:
+            _g["face_enclosure"] = _orig
+        thf = M1f[e01f][e01f] / B1f[e01f][e01f]
+        tamper_bites = False
+        for mu in (thf * F(9, 10), F(1, 2)):
+            kf1 = inertia([[M1f[i][j] - mu * B1f[i][j] for j in range(len(M1f))]
+                           for i in range(len(M1f))])[0]
+            kf2 = inertia([[M2f[i][j] - mu * B2f[i][j] for j in range(len(M2f))]
+                           for i in range(len(M2f))])[0]
+            if kf1 != kf2:
+                tamper_bites = True
+        if not tamper_bites:
+            c3 = False
+        entry["flat_ladder_tamper_makes_release_unlawful"] = bool(tamper_bites)
         # drift of sigma within released budget (printed, certified small)
         drift = abs(sig[F(2)] - sig[ONE])
         drift_ok = drift <= f1[HALF]          # certified: within one lopa rate
