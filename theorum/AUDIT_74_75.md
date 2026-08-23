@@ -50,3 +50,33 @@ of content levels > 2 entering through theorum/28 §4.
 ## Status
 theorum/74, theorum/75: certificates PASS, controls non-vacuous, names
 still CANDIDATE pending the owner's own audit.
+
+## STANDING CORRECTION (owner's provenance challenge, same day)
+
+**Found after the audit, by the owner asking "did you audit with classical
+tools?".** The audit's method was mutation testing (can a control fail?) —
+engineering, importing nothing. But it checked CONTROLS, not PROVENANCE,
+and it therefore missed a classical import in the audited object itself:
+
+- `proof_lab/selective_release.py::laplace_nullspace` defines the content
+  grading as the **nullspace of the classical Laplace operator**;
+  `rail_harmonic_setup` / `rail_cinv` use it to build **B**. It is
+  load-bearing for every seam count and every beta in theorum/75.
+- This is classical harmonic analysis on the sphere — the Peter-Weyl side
+  of the declared Haar <-> Phi_Sigma shadow, but a NEW classical
+  ingredient that was not named in the ledger. theorum/74 avoided it only
+  because its degree <= 2 grading was written out by hand.
+- STATUS of theorum/75: T1 (ladder law), T2 (stationarity) and the
+  tamper results are unaffected — they do not pass through `rail_cinv`.
+  T3's counts and T4's outward certificate are **ANCHORED** pending the
+  native regrading (YM-19 / YM-37 precedent).
+- NAMED FIX (next capsule): define the grading by the framework's own
+  character ladder — the native three-term recurrence
+  `chi_{c+1/2} = u chi_c - chi_{c-1/2}` (already present in the file as
+  `chi_of_u`) together with the fusion coefficients (YM-30 CG machinery,
+  RST-2 squared-amplitude discipline). Expected: identical rationals;
+  any discrepancy is itself the finding.
+- LESSON RECORDED: an audit must include a provenance pass —
+  "which imported operator defines this object?" — not only a control
+  pass. Vacuous controls and borrowed definitions are different defects
+  and need different sweeps.

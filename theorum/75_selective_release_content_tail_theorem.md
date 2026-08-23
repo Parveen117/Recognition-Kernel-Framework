@@ -48,15 +48,23 @@ Wilson face ladder, declared rung kernel; levels Λ = 1, 3/2, 2; grid
 ```text
 LADDER LAW f_{c+1/2}/f_c <= kappa/(2(2c+2)), ALL c              PROVED
 STATIONARITY OF THE LOW BLOCK, SILENCE ROW, FLOOR               PROVED (exact)
-SEAM-COUNT RETENTION AT Λ = 3/2, 2 (INTEGER EQUALITY)           PROVED (instance)
+SEAM-COUNT RETENTION AT Λ = 3/2, 2 (INTEGER EQUALITY)           ANCHORED (classical grading; native regrading named)
 CONTRACTION TRANSFER, β_sil < 1 AT EVERY INSTANTIATED LEVEL     PROVED (instance)
-OUTWARD CERTIFICATE u + e < 1 FOR THE FULL COLUMN               PROVED, WITH THE LEVELS > 2
+OUTWARD CERTIFICATE u + e < 1 FOR THE FULL COLUMN               ANCHORED (same reason), WITH THE LEVELS > 2
                                                                 ENTERING ONLY VIA §4's DECLARED
                                                                 TAIL (T1-justified ratio; the
                                                                 Gram-uniformity of levels > 2 is
                                                                 the recorded DECLARED component)
 OPERATOR UPPER BOUND FOR THE CHAIN GAP (E4D-C)                  OPEN (this is the tool, not the wall)
 ```
+
+## Standing correction (same day, owner's provenance challenge)
+The content grading is currently built from the **classical Laplacian's
+nullspace** (`laplace_nullspace` -> `rail_cinv` -> B), a classical import
+not named in the ledger. T1 and T2 and the tamper results are unaffected;
+**T3's counts and T4's outward certificate are ANCHORED** pending the
+native regrading by the character ladder `chi_of_u` + fusion coefficients.
+See `AUDIT_74_75.md`.
 
 ## Build notes
 The draft asserted ∫x₀⁴x₁⁴ = 3/128; the moment table refused it (3/640).
