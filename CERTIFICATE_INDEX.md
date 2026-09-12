@@ -197,6 +197,24 @@ all negative controls behave as specified;
 the result is reproducible from a clean checkout.
 ```
 
+## Theorem 48 EMK algebra cut-graded curvature packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Exact rational 2×2 EMK instantiation of Theorem 42's cut-graded curvature |
+| Scope | primitive relations, `J_E := K` involution, induced even/odd grading, representative curvature, general closed-form commutator, and three negative controls |
+| Status | `PASS_EMK_ALGEBRA_CUT_GRADED_CURVATURE_CANDIDATE` |
+| Canonical result SHA-256 | `8f5da0b72389d88380c9af6c26e2edf4c4f63554bf1fd5485b0ccdee95c58a0f` |
+| Boundary | physical T–V–S–P identification and response two-form adapter remain open; no RH or Yang–Mills gate is affected |
+
+```text
+theorum/48_emk_algebra_cut_graded_curvature_theorem.md
+proof_lab/README_EMK_ALGEBRA_CUT_GRADED_CURVATURE.md
+proof_lab/emk_algebra_cut_graded_curvature.py
+proof_lab/test_emk_algebra_cut_graded_curvature.py
+proof_lab/EMK_ALGEBRA_CUT_GRADED_CURVATURE_EXPECTED.sha256
+```
+
 ## Theorem 49 local-to-uniform seam gap packet
 
 | Field | Value |
@@ -206,7 +224,7 @@ the result is reproducible from a clean checkout.
 | Status | `PASS_LOCAL_TO_UNIFORM_SEAM_GAP_CANDIDATE` |
 | Canonical result SHA-256 | `d75992cd8fea4ed9b4b1d10a0dd5defe22651ba749b1c3b888be1ebd91a4ccb8` |
 | Proof arithmetic | exact `fractions.Fraction`; no float, no NumPy, no exponential evaluated |
-| Branch proof-lab CI | pending first hosted run |
+| Branch proof-lab CI | `PASS` — GitHub Actions run `32630967128` at tip `51afbcd75b79e806c67f1ce96a6e2aed06825b17` |
 
 Files:
 
@@ -653,3 +671,94 @@ proof_lab/ladder_audit_50_59.py
 proof_lab/LADDER_AUDIT_50_59_REPORT.json
 proof_lab/test_ladder_audit_50_59.py
 ```
+
+## Theorem 74 Lopa-ledger contraction packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Exact finite one-column, two-rail silence/lopa contraction witness |
+| Scope | silence factorization, strict lopa ladder, 1.1.62 ledger decomposition, exact orthogonality, outward `beta_sil < 1`, declared-grid uniformity, and one-sided vibration law |
+| Status | `PROVED` for the declared finite instance; candidate names retained pending owner audit |
+| Archived result file SHA-256 | `37add42918b9bdc4f9775bc084978511719e79dee3c01fc89f5e6ec1ee6d4c6e` |
+| Boundary | infinite-content transfer is delegated to Theorem 75; chain-gap operator upper bound `E4D-C` remains open |
+
+```text
+theorum/74_lopa_ledger_contraction_theorem.md
+proof_lab/lopa_ledger_contraction.py
+proof_lab/test_lopa_ledger_contraction.py
+proof_lab/LOPA_LEDGER_CONTRACTION_RESULT.json
+```
+
+## Theorem 75 selective-release content-tail packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Native-carrier content-tail release and outward full-column certificate |
+| Scope | all-content ladder inequality, exact low-block stationarity, integer seam-count retention at the instantiated release levels, contraction transfer, and `u + e < 1` on the declared grid |
+| Status | `PROVED` on the declared carrier; levels above 2 enter through the stated geometric tail and recorded Gram-uniformity declaration |
+| Archived result file SHA-256 | `c018bc25beba74937d1645808d2979601cbe431f38af708343694de3b9a56065` |
+| Audit note | the classical-Laplacian dependency was removed by native character-ladder regrading; the Laplacian remains only an independent cross-check |
+| Boundary | chain-gap operator upper bound `E4D-C` remains open |
+
+```text
+theorum/75_selective_release_content_tail_theorem.md
+theorum/AUDIT_74_75.md
+proof_lab/selective_release.py
+proof_lab/test_selective_release.py
+proof_lab/SELECTIVE_RELEASE_RESULT.json
+```
+
+## Theorem 76 seam-flow meter packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Exact rational native-sector and determinant-channel crossing witness |
+| Scope | integer sectors, 14 simple flips bracketed to width `2^-40`, count/determinant parity agreement, exact ladder identity, and stability for 24 declared rational perturbations |
+| Status | `PROVED` for the declared finite instance and perturbation family |
+| Archived result file SHA-256 | `3e49afb85da0b9d908bc80a3dbd042cfe7e214f1915bc4032bf1d34232402070` |
+| Boundary | no universal protection radius; no claimed identification with the YM-23 weak-coupling threshold; cited spectral-flow law is not rederived |
+
+```text
+theorum/76_seam_flow_meter_theorem.md
+proof_lab/seam_flow_meter.py
+proof_lab/test_seam_flow_meter.py
+proof_lab/SEAM_FLOW_METER_RESULT.json
+```
+
+## Theorem 77 typed semantic Paninian normal-form packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Deterministic finite typed semantic-normalization witness |
+| Scope | source-pinned ordered alias rewrite, type/precedence guard, explicit Bindu selection, ledger-before-Lopa, identity/entailment separation, typed polarity/time contradictions, and fail-closed ambiguity |
+| Status | `PASS_TYPED_SEMANTIC_PANINIAN_NORMAL_FORM_STAGE1` / `PROVED_FOR_EXPLICIT_FINITE_PRESENTATION` |
+| Canonical generated payload SHA-256 | `b1962e95e4a3284e51f0b1ded453fb829d63c78787e76a93526ff4cba37b487f` |
+| Numbering note | branch-local Theorem 45 was renamed to canonical Theorem 77 during consolidation; theorem content is unchanged |
+| Boundary | unrestricted natural-language parsing, Nyāya support/defeat, Mīmāṃsā context/priority, Yukti transport, full observer injectivity, and truth certification remain open |
+
+```text
+theorum/77_semantic_paninian_typed_claim_normal_form.md
+proof_lab/README_SEMANTIC_PANINIAN_NORMAL_FORM.md
+proof_lab/semantic_paninian_types.py
+proof_lab/semantic_paninian_normalizer.py
+proof_lab/semantic_paninian_normal_form.py
+proof_lab/test_semantic_paninian_normal_form.py
+proof_lab/imported/SEMANTIC_PANINIAN_SOURCE_PINS.json
+proof_lab/SEMANTIC_PANINIAN_NORMAL_FORM_EXPECTED.sha256
+```
+
+## Consolidated parallel-lineage index
+
+| Lineage | Canonical surface | Recorded status |
+|---|---|---|
+| Morphic Recognition | `theorum/morphic_recognition/` (MR-01–MR-03) | general proofs plus RNKE proof contracts; executable calibration is not universal formal proof |
+| Recognition Topology | `theorum/recognition_topology/` (RT-01–RT-04) | bounded topological theorems and explicit non-claims |
+| Singularity Calculus | `theorum/singularity_calculus/` (SC-01–SC-18) | `RNKE_VERIFIED_SINGULARITY_THEORY_V5_WITH_EXCLUSIONS` |
+| Stratified Recognition | `theorum/stratified_recognition/` (SR-01–SR-04) | `RNKE_VERIFIED_STRATIFIED_RECOGNITION_LINEAR_CORE` |
+| Morphic Algebra | `theorum/morphic_algebra/` | `RNKE_VERIFIED_WITH_OPEN_OBLIGATIONS`; full manuscript certification false |
+| Morphic Calculus | `theorum/morphic_calculus/` | `RNKE_VERIFIED_WITH_OPEN_OBLIGATIONS`; full manuscript certification false |
+| Morphic Operator Geometry | `theorum/morphic_geometry/` | `RNKE_VERIFIED_WITH_OPEN_OBLIGATIONS`; audited corrections and rejected overclaims retained |
+
+## Consolidation regression record
+
+On the 2026-09-12 pre-publish consolidated tree, Python 3.12 compilation and complete unittest discovery reported `Ran 344 tests` and `OK`. This is an operational regression result, not an independent proof of every manuscript statement. See `theorum/BRANCH_CONSOLIDATION_AUDIT.md` for graph ancestry, merge provenance, and the hosted-CI boundary.

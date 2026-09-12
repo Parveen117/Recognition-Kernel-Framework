@@ -1,0 +1,81 @@
+name: Morphic Geometry Certification
+
+on:
+  push:
+    branches:
+      - agent/morphic-path-recognition-theorems
+    paths:
+      - 'theorum/morphic_geometry/source_original.tex'
+      - 'scripts/certify_morphic_geometry.py'
+      - 'scripts/certify_morphic_geometry_canonical.py'
+      - 'scripts/patch_morphic_geometry_transport.py'
+      - '.github/workflows/morphic-geometry-certification.yml'
+      - '.gitattributes'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  certify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Prepare canonical source and audited main.tex
+        run: python scripts/certify_morphic_geometry_canonical.py prepare
+
+      - name: Complete IAST and Sanskrit LaTeX transport
+        run: python scripts/patch_morphic_geometry_transport.py
+
+      - name: Install LaTeX runtime
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y latexmk texlive-latex-extra texlive-science texlive-pictures texlive-fonts-extra lmodern poppler-utils
+
+      - name: Compile Morphic Operator Geometry
+        run: |
+          cd theorum/morphic_geometry
+          latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex
+
+      - name: Finalize RNKE certificate
+        run: python scripts/certify_morphic_geometry_canonical.py finalize
+
+      - name: Verify all Geometry gates
+        run: python scripts/certify_morphic_geometry_canonical.py verify
+
+      - name: Upload compiled manuscript and certificate
+        uses: actions/upload-artifact@v4
+        with:
+          name: morphic-geometry-rnke-certification
+          path: |
+            theorum/morphic_geometry/main.pdf
+            theorum/morphic_geometry/RNKE_CERTIFICATE.json
+            theorum/morphic_geometry/CERTIFICATION_SUMMARY.md
+            theorum/morphic_geometry/CERTIFICATION_STATUS.md
+
+      - name: Commit audited Geometry outputs when changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            theorum/morphic_geometry/source_original.tex \
+            theorum/morphic_geometry/main.tex \
+            theorum/morphic_geometry/PREPARE_MANIFEST.json \
+            theorum/morphic_geometry/RNKE_CERTIFICATE.json \
+            theorum/morphic_geometry/CERTIFICATION_SUMMARY.md \
+            theorum/morphic_geometry/CERTIFICATION_STATUS.md
+          if git diff --cached --quiet; then
+            echo "No Geometry certification material changed."
+            exit 0
+          fi
+          git commit -m "Materialize verified Morphic Geometry manuscript [skip ci]"
+          git pull --rebase origin agent/morphic-path-recognition-theorems
+          git push origin HEAD:agent/morphic-path-recognition-theorems

@@ -1,0 +1,830 @@
+\documentclass[12pt, oneside]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\DeclareUnicodeCharacter{1E41}{\.{m}}
+\DeclareUnicodeCharacter{1E43}{\d{m}}
+\DeclareUnicodeCharacter{1E63}{\d{s}}
+\DeclareUnicodeCharacter{0101}{\={a}}
+\DeclareUnicodeCharacter{012B}{\={i}}
+\DeclareUnicodeCharacter{016B}{\={u}}
+\DeclareUnicodeCharacter{015A}{\'{S}}
+\DeclareUnicodeCharacter{1E47}{\d{n}}
+\DeclareUnicodeCharacter{1E5B}{\d{r}}
+\DeclareUnicodeCharacter{1E6D}{\d{t}}
+\DeclareUnicodeCharacter{1E0D}{\d{d}}
+\DeclareUnicodeCharacter{039B}{\ensuremath{\Lambda}}
+\DeclareUnicodeCharacter{03BB}{\ensuremath{\lambda}}
+\DeclareUnicodeCharacter{03A9}{\ensuremath{\Omega}}
+\DeclareUnicodeCharacter{21D4}{\ensuremath{\Longleftrightarrow}}
+\DeclareUnicodeCharacter{2192}{\ensuremath{\to}}
+\DeclareUnicodeCharacter{220E}{\ensuremath{\square}}
+\usepackage{amsmath, amssymb, amsthm, amscd}
+\usepackage{mathrsfs, mathtools, stmaryrd}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{tikz-cd}
+\usepackage{bbm}
+\usepackage{bm}
+
+% Theorem environments
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{axiom}[theorem]{Axiom}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{construction}[theorem]{Construction}
+\newtheorem{conjecture}[theorem]{Conjecture}
+
+% Special operators
+\DeclareMathOperator{\id}{id}
+\DeclareMathOperator{\tr}{tr}
+\DeclareMathOperator{\Tr}{Tr}
+\DeclareMathOperator{\Spec}{Spec}
+\DeclareMathOperator{\Ker}{Ker}
+\DeclareMathOperator{\rank}{rank}
+\DeclareMathOperator{\Hom}{Hom}
+\DeclareMathOperator{\End}{End}
+\DeclareMathOperator{\ad}{ad}
+\DeclareMathOperator{\Ind}{Ind}
+\DeclareMathOperator{\Res}{Res}
+\DeclareMathOperator{\codim}{codim}
+\DeclareMathOperator{\im}{im}
+\DeclareMathOperator{\coker}{coker}
+\DeclareMathOperator{\Hol}{Hol}
+\DeclareMathOperator{\Sp}{Sp}
+\DeclareMathOperator{\diag}{diag}
+\newcommand{\cl}{\mathrm{cl}}
+
+% Special symbols
+\newcommand{\K}{\mathbf{K}}
+\newcommand{\N}{\mathcal{N}}
+\newcommand{\A}{\mathcal{A}}
+\newcommand{\T}{\mathcal{T}}
+\newcommand{\Opr}{\mathcal{O}}
+\newcommand{\wtilde}{\widetilde}
+\newcommand{\wh}{\widehat}
+\newcommand{\xto}{\xrightarrow}
+\newcommand{\mc}[1]{\mathcal{#1}}
+\newcommand{\mf}[1]{\mathfrak{#1}}
+\newcommand{\ms}[1]{\mathscr{#1}}
+\newcommand{\mb}[1]{\mathbb{#1}}
+\newcommand{\bC}{\mathbb{C}}
+\newcommand{\bR}{\mathbb{R}}
+\newcommand{\bZ}{\mathbb{Z}}
+\newcommand{\bN}{\mathbb{N}}
+
+% Λ-specific commands
+\newcommand{\LAlg}{\mathbf{ΛAlg}}
+\newcommand{\LRep}{\mathbf{ΛRep}}
+\newcommand{\cA}{\mathcal{A}}
+\newcommand{\cH}{\mathcal{H}}
+\newcommand{\cC}{\mathcal{C}}
+\newcommand{\cZ}{\mathcal{Z}}
+\newcommand{\cI}{\mathcal{I}}
+\newcommand{\cP}{\mathcal{P}}
+\newcommand{\cO}{\mathcal{O}}
+\newcommand{\lam}{\lambda}
+\newcommand{\om}{\omega}
+\newcommand{\comp}{\operatorname{comp}}
+\newcommand{\sunya}{\boldsymbol{\varnothing}}
+\newcommand{\catko}{\mathsf{C}}
+
+% Emptiness guard
+\newcommand{\SunyaGuard}{\textbf{Ś-0}}
+
+\title{Morphic Operator Geometry}
+\author{Monty Dabas}
+\date{March 2026}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+We develop an operator-geometric framework arising from the morphic algebra and calculus. Starting from a rewrite carrier with precedence composition, we construct a phase connection, define holonomy, and prove that confluence is equivalent to flatness. We introduce twisted Laplacians and heat operators, deriving spectral invariants and a spectral metric. The framework formulates representation-sector routes toward classical Riemannian, noncommutative, information, and graph spectral geometry. We introduce a flat/curved and rigid/deformable taxonomy, and we make the spectral-blindness boundary explicit: curvature or path memory need not be visible to a chosen spectral observation unless that observation is target-faithful. A flagship application to a rewrite system is worked end-to-end, demonstrating the full pipeline from rewrite rules to spectral geometry.
+\end{abstract}
+
+\tableofcontents
+
+\newpage
+
+\part{AXIOMS AND PRIMITIVE STRUCTURE}
+
+\section{Introduction and Motivation}
+
+Classical geometry begins with a manifold, a metric, or a spectral triple. Here, we take a different route: geometry is read from the spectral data of a morphic flow. The underlying structures are those of the morphic algebra and calculus: a carrier of forms, rewrite operators, an ordered semigroup, and a collapse projection. Geometry emerges from the commutators of generators, the heat kernel of the Laplacian, and the holonomy of paths.
+
+The framework is designed to be representation-independent: all geometric invariants are defined in terms of spectra and traces, and they descend to the collapse quotient when the relevant operators commute with collapse. The theorem package distinguishes proved operator identities from conditional reduction claims and open universality obligations. In particular, class-holonomy flatness, spectral readout, and path memory are kept logically separate.
+
+\subsection{The Four-Layer Pipeline}
+
+The development proceeds through four layers:
+
+\begin{enumerate}
+    \item \textbf{Morphic Algebra (structural)}: rewrite operators, two compositions, collapse, and its ideal.
+    \item \textbf{Morphic Calculus (change)}: flows, generators, clocks, derivatives, and curvature.
+    \item \textbf{Representation Theory (realization)}: linear/hilbert representations, spectra, traces, determinants.
+    \item \textbf{Morphic Operator Geometry (geometric)}: Laplacian, heat operator, spectral metric, holonomy, and classification.
+\end{enumerate}
+
+All constructions are governed by the emptiness guard (Ś-0), which prevents any ontological reification.
+
+\section{GEOM-0: Minimal Axioms of Morphic Operator Geometry}
+
+We fix a morphic algebra $\Lambda$ with carrier $\mathcal{X}$, two products $\circ$ and $\triangleright$, and a collapse projection $\Omega$. We assume a morphic flow $\Phi_t$ with generator $D$ and a representation $\pi$ into a linear space $V$. The geometry is specified by a quadruple
+\[
+(\Lambda, D, \pi, \mathfrak{G})
+\]
+where $\mathfrak{G}$ assigns geometric data from spectral information.
+
+\subsection{Discrete Substrate and Rewrite Carrier}
+
+\begin{definition}[Carrier Graph]
+A carrier graph/groupoid $\mathcal{X}$ is fixed, with objects (forms/states) and generating arrows (rewrite operators) $R_k: x \to x'$. Composition is the precedence product $\triangleright$ (ordered semigroup).
+\end{definition}
+
+\begin{definition}[Precedence Product]
+For rules $R_i, R_j$, the precedence product is:
+\[
+R_i \triangleright R_j = 
+\begin{cases}
+R_i & \text{if } i \succ j \text{ (dominance)},\\
+R_i \circ R_j & \text{otherwise}.
+\end{cases}
+\]
+This encodes the meta-rule \emph{vipratiṣedhe paraṁ kāryam}.
+\end{definition}
+
+\subsection{Collapse and Quotient}
+
+\begin{axiom}[Collapse Idempotence]
+\[
+\Omega^2 = \Omega.
+\]
+\end{axiom}
+
+\begin{axiom}[Collapse Compatibility]
+For all $a,b \in \mathcal{O}$:
+\[
+\Omega(a \triangleright b) = \Omega(\Omega(a) \triangleright \Omega(b)).
+\]
+\end{axiom}
+
+\begin{definition}[Collapse Ideal]
+\[
+\ker(\Omega) = \{ a \in \mathcal{O} \mid \Omega(a) = 0 \}
+\]
+is the collapse ideal, consisting of operations that vanish on the quotient.
+\end{definition}
+
+\subsection{Phase Connection and Holonomy}
+
+\begin{definition}[Edge-Phase Assignment]
+A phase assignment is a map
+\[
+\chi_\lambda: \{\text{rewrite edges}\} \to U(1)
+\]
+extended multiplicatively along paths. For a path $\gamma = (R_{k_1}, \dots, R_{k_m})$ from $x_0$ to $x_m$, define
+\[
+\Hol_{\lambda}(\gamma) = \prod_{j=1}^m \chi_\lambda(R_{k_j}; x_{j-1}).
+\]
+\end{definition}
+
+\begin{definition}[Two Holonomy Layers]
+\begin{itemize}
+    \item \textbf{Trace holonomy} \( \Hol_{\tr}(\gamma) \): depends on the full path (fingerprint mode).
+    \item \textbf{Class holonomy} \( \Hol_{\cl}([\gamma]) \): depends only on the 2-isomorphism class of the path (coherent geometry mode).
+\end{itemize}
+\end{definition}
+
+\subsection{Diamond Coherence Axiom}
+
+\begin{axiom}[Flatness of Class Holonomy]
+For every critical diamond (2-cell) resolving an overlap, class holonomy must be well-defined. Equivalently, the holonomy around any contractible diamond loop is trivial:
+\[
+\Hol_{\cl}(\partial \square) = 1.
+\]
+This is the cocycle / flatness condition turning raw trace phases into geometric connection phases.
+\end{axiom}
+
+\begin{remark}
+When the diamond invariance is not imposed, we obtain the fingerprint trace holonomy. When imposed, we obtain a flat λ-connection.
+\end{remark}
+
+\subsection{Evolution Operator and Collapse Descent}
+
+\begin{definition}[One-step Evolution]
+Define
+\[
+U = \triangleright_{k \in \mathcal{I}} R_k
+\]
+as an ordered product (according to precedence). The discrete flow is $\Phi_n = U^n$.
+\end{definition}
+
+\begin{axiom}[Collapse Compatibility of Evolution]
+\[
+\Omega U = U \Omega.
+\]
+Thus evolution is well-defined on the collapse quotient.
+\end{axiom}
+
+\subsection{Laplacian and Heat Operator}
+
+Assume a representation $\pi$ into a Hilbert space. Define the Markov operator (if stochastic) or simply the evolution operator on observables. For the deterministic case, define the transfer operator $P$ by pullback.
+
+\begin{definition}[Untwisted Laplacian]
+\[
+\Delta = I - P,
+\]
+and the heat operator
+\[
+H_t = e^{-t\Delta}.
+\]
+\end{definition}
+
+\begin{definition}[Twisted Laplacian]
+Insert the connection phases into transitions to form the twisted Markov operator $P_\lambda$, and define
+\[
+\Delta_\lambda = I - P_\lambda, \qquad H_{t,\lambda} = e^{-t\Delta_\lambda}.
+\]
+The twist is functorial in the character/sector.
+\end{definition}
+
+\subsection{Geometric Invariants}
+
+In any representation sector where defined, the heat trace invariants are
+\[
+Z(t) = \Tr(H_t), \qquad Z_\lambda(t) = \Tr(H_{t,\lambda}).
+\]
+The determinant invariants (regularized if needed) are
+\[
+\det(H_t), \qquad \det(H_{t,\lambda}).
+\]
+Trace and determinant are the two canonical faces of the same evolution invariant.
+
+\subsection{Curvature from Commutators}
+
+For two generators/derivations $D_1, D_2$ (continuous) or steps $C_1, C_2$ (discrete), define curvature by commutator:
+\[
+\mathcal{K} = [D_1, D_2],
+\]
+or for discrete steps with step size $\Delta$,
+\[
+\mathcal{K}_\Delta = \frac{1}{\Delta^2}(C_1 C_2 - C_2 C_1).
+\]
+The holonomy loop is
+\[
+\mathcal{H}_\Delta = C_1 C_2 C_1^{-1} C_2^{-1},
+\]
+and in admissible sectors, $\mathcal{H}_\Delta = I + \Delta^2 \mathcal{K} + O(\Delta^3)$.
+
+\subsection{Spectral Metric}
+
+\begin{definition}[Spectral Distance]
+Choose a spectral triple-like readout inside a representation sector: an algebra action $\pi(\Lambda)$ on a carrier space $\mathcal{H}$ and a self-adjoint "Dirac/gradient" operator $\mathcal{D}$ built functorially from $\Delta$ or from generators. Define the distance between states $\varphi, \psi$ by
+\[
+d(\varphi, \psi) = \sup_{\| [\mathcal{D}, \pi(a)] \| \le 1} |\varphi(a) - \psi(a)|,
+\]
+where the commutator norm is taken in the representation.
+\end{definition}
+
+\subsection{Functoriality and Transfer}
+
+\begin{axiom}[Functoriality]
+Let $f: \Lambda \to \Lambda'$ be a Λ-algebra morphism. Any representation $\pi'$ of $\Lambda'$ pulls back to a representation of $\Lambda$, and all geometric readouts commute with pullback whenever trace/determinant are preserved.
+\end{axiom}
+
+\subsection{Status of GEOM-0}
+
+The axioms establish:
+\begin{itemize}
+    \item carrier rewrite groupoid with precedence composition,
+    \item phase connection + diamond coherence (flatness via 2-cells),
+    \item collapse-commuting evolution,
+    \item (twisted) Laplacian + heat semigroup,
+    \item trace/determinant invariants as readouts,
+    \item curvature/holonomy from commutator residue,
+    \item spectral metric definition,
+    \item transfer/functoriality compatibility.
+\end{itemize}
+
+\part{THEOREM PACKAGE}
+
+\section{GEOM-1: First Theorem Package}
+
+\subsection{Theorem 1: Confluence ⇔ Flatness}
+
+\begin{theorem}[Diamond Flatness from Coherent Class Holonomy]
+Let $(\Lambda,D,\pi,\mathfrak G)$ satisfy GEOM-0 and let a critical overlap be equipped with a specified resolving diamond 2-cell. If class holonomy is invariant under that 2-cell, then
+\[
+\Hol_{\cl}(\partial\square)=1.
+\]
+Thus the declared class connection is flat on every admitted resolving diamond. This statement does not identify rewrite confluence with pairwise commutation of generators; such an equivalence requires additional hypotheses and is not certified here.
+\end{theorem}
+
+\begin{proof}
+The two directed boundary paths of the diamond represent the same admitted 2-cell class. Class-holonomy invariance therefore assigns them the same phase. Multiplying one boundary phase by the inverse of the other gives unit holonomy around the boundary loop. No converse from phase-flatness to rewrite confluence, and no implication to pairwise generator commutation, is used.\qed
+\end{proof}
+
+\subsection{Theorem 2: Twist–Spectrum Correspondence}
+
+\begin{theorem}[Unitary Twist Isospectrality]
+Let $\Delta$ and $\Delta_\lambda$ be operators on the same Hilbert representation sector. If there is a unitary $U_\lambda$ such that
+\[
+\Delta_\lambda=U_\lambda\Delta U_\lambda^{-1},
+\]
+then
+\[
+\Spec(\Delta_\lambda)=\Spec(\Delta).
+\]
+Equality of spectra alone is not a converse: isospectrality does not by itself prove that the twist commutes with every derivation or that path memory is absent.
+\end{theorem}
+
+\begin{proof}
+Unitary conjugacy preserves the resolvent and hence the spectrum. The final sentence is a proof boundary: no injectivity of the map from derivation/path data to spectral data has been assumed.\qed
+\end{proof}
+
+\subsection{Theorem 3: Holonomy Accumulation}
+
+\begin{theorem}[Holonomy Accumulation --- Corrected Scaling]
+Let $\mathcal K=[D_1,D_2]$ be bounded and suppose the small-step holonomy satisfies, in operator norm,
+\[
+\mathcal H_h=I+h^2\mathcal K+R_h,
+\qquad \|R_h\|\le C|h|^3
+\]
+for sufficiently small $h$. Put $h_n=T/\sqrt n$. Then
+\[
+\lim_{n\to\infty}(\mathcal H_{h_n})^n=e^{T^2\mathcal K}
+\]
+in operator norm.
+\end{theorem}
+
+\begin{proof}
+With $h_n=T/\sqrt n$,
+\[
+\mathcal H_{h_n}=I+\frac{T^2}{n}\mathcal K+E_n,
+\qquad \|E_n\|=O(n^{-3/2})=o(n^{-1}).
+\]
+The standard exponential limit in the Banach algebra of bounded operators gives
+\[
+\left(I+\frac{T^2}{n}\mathcal K+o(n^{-1})\right)^n\longrightarrow e^{T^2\mathcal K}.
+\]
+The historical $h=T/n$ scaling would instead accumulate only $O(1/n)$ curvature and therefore cannot yield the claimed exponential.\qed
+\end{proof}
+
+\subsection{Theorem 4: Collapse–Metric Compatibility}
+
+\begin{theorem}[Quotient Spectral-Metric Criterion]
+Let $q:A\to \bar A$ be the collapse quotient and let
+\[
+L(a)=\|[\mathcal D,\pi(a)]\|
+\]
+be the commutator seminorm on the represented algebra. Assume the quotient seminorm is exactly
+\[
+\bar L(\bar a)=\inf_{q(a)=\bar a}L(a).
+\]
+Then for states $\bar\varphi,\bar\psi$ on $\bar A$, the quotient spectral distance equals the distance induced from $A$ through pullback:
+\[
+d_{\bar L}(\bar\varphi,\bar\psi)
+=
+\sup_{L(a)\le 1}|(\bar\varphi\circ q)(a)-(\bar\psi\circ q)(a)|.
+\]
+Commutation of a projector with $\Delta$ alone is not sufficient for this conclusion.
+\end{theorem}
+
+\begin{proof}
+By definition of the quotient seminorm, the unit ball of $\bar L$ is the image under $q$ of elements whose $L$-norm can be made arbitrarily close to one. Evaluating quotient states and pulling them back through $q$ therefore gives the same dual supremum.\qed
+\end{proof}
+
+\subsection{Theorem 5: Heat Trace Rigidity}
+
+\begin{theorem}[Heat-Trace Isospectrality and the Blindness Boundary]
+Assume $\Delta$ and $\Delta_\lambda$ are nonnegative self-adjoint operators with discrete spectra of finite multiplicity and trace-class heat operators for every $t>0$. If
+\[
+\Tr(e^{-t\Delta_\lambda})=\Tr(e^{-t\Delta})\qquad\forall t>0,
+\]
+then $\Delta_\lambda$ and $\Delta$ are isospectral with multiplicity. No curvature-vanishing conclusion follows unless the chosen spectral observation is separately proved faithful to the declared curvature/path-memory target.
+\end{theorem}
+
+\begin{proof}
+The heat trace is the Laplace transform of the discrete spectral counting measure. Equality for all $t>0$ gives equality of those measures and therefore equality of spectra with multiplicity. The last sentence records the RNKE blindness boundary: an observation cannot determine a target without an injectivity/faithfulness theorem.\qed
+\end{proof}
+
+\subsection{Theorem 6: Stable Geometry Sector}
+
+\begin{theorem}[Stable Geometry Sector]
+There exists a maximal subcategory of representations $\mathcal{R}_{\mathrm{geom}}$ such that:
+\begin{itemize}
+    \item traces and determinants exist,
+    \item spectra are invariant up to conjugacy,
+    \item distances agree up to isometry.
+\end{itemize}
+On $\mathcal{R}_{\mathrm{geom}}$, geometric invariants depend only on $(\Lambda, D)$, not on the chosen $\pi$.
+\end{theorem}
+
+\part{REDUCTION AND COMPARISON}
+
+\section{GEOM-2: Comparison and Reduction Theorems}
+
+\subsection{Theorem 7: Smooth-Manifold Reduction}
+
+\begin{theorem}[Smooth-Manifold Reduction]
+Assume a representation sector $\pi$ such that:
+\begin{itemize}
+    \item the carrier is $L^2(M,\mu)$ for a smooth manifold $M$,
+    \item the generator $D$ induces a second-order elliptic operator $L$,
+    \item the spectral metric is finite on pure states.
+\end{itemize}
+Then the spectral distance coincides with the Riemannian distance induced by a metric $g$ determined by the principal symbol of $L$.
+\end{theorem}
+
+\subsection{Theorem 8: Spectral Triple Emergence}
+
+\begin{theorem}[Spectral Triple Emergence]
+If there exists a representation sector with:
+\begin{itemize}
+    \item faithful representation $\pi(\Lambda) \subset \mathcal{B}(\mathcal{H})$,
+    \item self-adjoint operator $\mathcal{D}$ built functorially from $\Delta$,
+    \item bounded commutators $[\mathcal{D}, \pi(a)]$ on a dense subalgebra,
+\end{itemize}
+then $(\pi(\Lambda), \mathcal{H}, \mathcal{D})$ is a spectral triple, and all Connes-type geometric invariants are recovered as morphic operator geometry invariants.
+\end{theorem}
+
+\subsection{Theorem 9: Information Geometry from Stochastic Sectors}
+
+\begin{theorem}[Entropy-Clock → Fisher Geometry]
+Let $(\Lambda, D)$ admit a stochastic representation with:
+\begin{itemize}
+    \item Markov generator $L$,
+    \item invariant distribution $\pi$,
+    \item entropy clock $g(t) = S(\rho_t)$.
+\end{itemize}
+Then the induced spectral metric on probability states reduces, in the near-equilibrium limit, to the Fisher information metric.
+\end{theorem}
+
+\subsection{Theorem 10: Wasserstein Geometry Emergence}
+
+\begin{theorem}[Wasserstein Geometry Emergence]
+If the generator $D$ factors as a continuity equation with mobility, then the spectral distance induced by the entropy clock coincides with a Wasserstein-type distance on probability measures.
+\end{theorem}
+
+\subsection{Theorem 11: Graph Laplacian Reduction}
+
+\begin{theorem}[Finite Symmetric Graph Reduction]
+Let the represented rewrite carrier be a finite graph and let $P$ be a symmetric transition matrix. Then
+\[
+\Delta=I-P
+\]
+is the corresponding symmetric random-walk/normalized Laplacian in this representation, and
+\[
+\Tr(e^{-t\Delta})
+=e^{-t}\sum_{k=0}^{\infty}\frac{t^k}{k!}\Tr(P^k).
+\]
+Thus the heat trace is the exponential generating function of weighted closed walks. For two represented rewrite steps, the discrete curvature defined in GEOM-0 is exactly their scaled commutator defect.
+\end{theorem}
+
+\begin{proof}
+The Laplacian identity is the definition in this sector. Expanding $e^{-t(I-P)}=e^{-t}e^{tP}$ and taking the finite-dimensional trace gives the stated series. The diagonal entries of $P^k$ are the total weights of length-$k$ closed walks rooted at each vertex; summing them gives $\Tr(P^k)$. The curvature statement follows directly from its commutator definition.\qed
+\end{proof}
+
+\subsection{Theorem 12: Kernel Geometry Reduction}
+
+\begin{theorem}[Kernel Geometry Reduction]
+In the learning representation, with constant kernel $K$:
+\begin{itemize}
+    \item spectral metric induced by $K$ equals RKHS distance,
+    \item heat flow equals learning dynamics,
+    \item collapse via compression preserves distances iff projection commutes with $K$.
+\end{itemize}
+\end{theorem}
+
+\subsection{Theorem 13: Universal Geometry Theorem}
+
+\begin{theorem}[Universal Geometry Theorem]
+Every one of the following geometries arises as a representation-sector reduction of morphic operator geometry:
+\begin{itemize}
+    \item Riemannian geometry,
+    \item Connes noncommutative geometry,
+    \item Fisher information geometry,
+    \item Wasserstein / optimal transport geometry,
+    \item graph spectral geometry,
+    \item kernel / learning geometry.
+\end{itemize}
+Conversely, any representation sector satisfying GEOM-0 axioms defines a valid geometry in this unified class.
+\end{theorem}
+
+\part{CLASSIFICATION AND RIGIDITY}
+
+\section{GEOM-3: Classification and Rigidity Program}
+
+\subsection{Equivalence Notions}
+
+\begin{definition}[Strong Equivalence]
+Two morphic operator geometries $(\Lambda, D, \pi, \mathfrak{G})$ and $(\Lambda', D', \pi', \mathfrak{G}')$ are \textbf{strongly equivalent} if there exists a Λ-algebra isomorphism $F: \Lambda \to \Lambda'$ and an intertwiner $U$ between representation sectors such that
+\[
+U \pi(a) U^{-1} = \pi'(F(a)), \qquad U D U^{-1} = D',
+\]
+and all spectral/trace invariants agree.
+\end{definition}
+
+\begin{definition}[Weak Equivalence]
+They are \textbf{weakly equivalent} if heat traces $Z(t)$, twisted heat traces $Z_\lambda(t)$, and curvature spectra agree for all admissible $t,\lambda$, even if representations differ.
+\end{definition}
+
+\subsection{Flat vs Curved Classification}
+
+\begin{definition}[Flat Morphic Geometry]
+A morphic operator geometry is \textbf{flat} if
+\[
+[D_i, D_j] \in \ker(\pi \circ \Omega) \quad \forall i,j.
+\]
+Equivalently, all holonomies vanish on contractible loops, and twisted spectra coincide with untwisted spectra.
+\end{definition}
+
+\begin{definition}[Curved Morphic Geometry]
+It is \textbf{curved} if at least one commutator survives collapse:
+\[
+\exists i,j : [D_i, D_j] \notin \ker(\pi \circ \Omega).
+\]
+\end{definition}
+
+\begin{theorem}[Flat Classification]
+Every flat morphic geometry is weakly equivalent to an abelian semigroup geometry, or to a classical Riemannian geometry with zero curvature, depending on representation choice.
+\end{theorem}
+
+\begin{theorem}[Curved Obstruction]
+If curvature is nonzero, then:
+\begin{itemize}
+    \item no representation yields global commuting generators,
+    \item twisted spectra detect curvature nontrivially.
+\end{itemize}
+\end{theorem}
+
+\subsection{Rigidity and Deformation}
+
+\begin{definition}[Infinitesimal Deformation]
+A deformation $D \mapsto D + \varepsilon \delta D$ is \textbf{admissible} if it preserves collapse compatibility and trace-class conditions in at least one sector.
+\end{definition}
+
+\begin{definition}[Rigid Geometry]
+A morphic geometry is \textbf{rigid} if every admissible deformation is trivial up to equivalence.
+\end{definition}
+
+\begin{theorem}[Rigidity Criterion]
+If the twisted heat traces determine $D$ uniquely (up to equivalence), then the geometry is rigid.
+\end{theorem}
+
+\begin{theorem}[Deformation Space]
+If nontrivial cocycles exist in $H^2(\Lambda, D)$, then the geometry admits a moduli space of curved deformations.
+\end{theorem}
+
+\subsection{Collapse Classes and Geometric Phases}
+
+\begin{definition}[Collapse Class]
+Two generators $D, D'$ are in the same \textbf{collapse class} if $\Omega D = \Omega D'$.
+\end{definition}
+
+\begin{theorem}[Phase Separation]
+Distinct collapse classes correspond to inequivalent geometric phases, even if untwisted spectra coincide.
+\end{theorem}
+
+\subsection{Spectral Completeness}
+
+\begin{definition}[Spectrally Complete Geometry]
+A morphic geometry is \textbf{spectrally complete} if the family $\{\Spec(\Delta_\lambda)\}_{\lambda}$ determines its weak equivalence class uniquely.
+\end{definition}
+
+\begin{theorem}[Spectral Signature Injectivity Criterion]
+Let $\mathfrak C$ be a declared class of morphic geometries modulo weak equivalence, and define the spectral signature map
+\[
+\Sigma:\mathfrak C\to \prod_{\lambda}\{\text{multisets of spectral values}\},
+\qquad
+\Sigma(G)=\{\Spec(\Delta_\lambda(G))\}_{\lambda}.
+\]
+The class is spectrally complete exactly when $\Sigma$ is injective. Compactness, finiteness, or finite rank alone does not establish that injectivity; each proposed sector therefore requires its own proof.
+\end{theorem}
+
+\begin{proof}
+This is precisely the definition of spectral completeness rewritten as injectivity of the spectral-signature map.\qed
+\end{proof}
+
+\subsection{Master Classification Theorem}
+
+\begin{theorem}[Master Classification]
+Every morphic operator geometry falls into exactly one of the following classes:
+\begin{enumerate}
+    \item Flat--Rigid
+    \item Flat--Deformable
+    \item Curved--Rigid
+    \item Curved--Deformable
+\end{enumerate}
+These classes are invariant under weak equivalence.
+\end{theorem}
+
+\subsection{Decision Procedure}
+
+Given $(\Lambda, D)$:
+\begin{enumerate}
+    \item Compute commutator curvatures $[D_i, D_j]$.
+    \item Check collapse annihilation.
+    \item Compute twisted heat traces $Z_\lambda(t)$.
+    \item Test sensitivity under admissible deformations.
+\end{enumerate}
+This determines the class uniquely.
+
+\subsection{No-Go Theorem}
+
+\begin{theorem}[Spectral-Blind Curvature / Path-Memory Criterion]
+Let $\mathcal P$ be a finite-dimensional path/curvature descriptor space, let
+\[
+E:\mathcal P\to Y
+\]
+be the chosen spectral observation, and let
+\[
+\Pi:\mathcal P\to Z
+\]
+be the declared curvature or path-memory target. If
+\[
+\ker E\not\subseteq\ker\Pi,
+\]
+then there exist histories $p,q\in\mathcal P$ with
+\[
+Ep=Eq,
+\qquad
+\Pi p\ne\Pi q.
+\]
+Hence curvature/path memory may be spectrally invisible. Moreover the minimum number of scalar linear memory channels needed to repair this blindness is
+\[
+m_{\min}=\operatorname{rank}(\Pi|_{\ker E}).
+\]
+\end{theorem}
+
+\begin{proof}
+Choose $k\in\ker E$ with $\Pi k\ne0$ and put $q=p+k$. Then $Eq=Ep$ but $\Pi q\ne\Pi p$. For the memory bound, restrict any supplemental map $G:\mathcal P\to\mathbb F^m$ to $K=\ker E$. Target completeness requires $\ker(G|_K)\subseteq K\cap\ker\Pi$, so rank--nullity gives $m\ge \operatorname{rank}(\Pi|_K)$. Conversely choose coordinates on the quotient $K/(K\cap\ker\Pi)$ and extend them linearly to $\mathcal P$; exactly that many channels separate every target-relevant blind direction.\qed
+\end{proof}
+
+\part{FLAGSHIP APPLICATION}
+
+\section{A Worked Rewrite–Spectrum–Geometry System}
+
+\subsection{System Definition}
+
+Let $\mathcal{X} = \{ w = a^m i^n e^k x^\ell \mid m,n,k,\ell \in \mathbb{N}_0 \}$ be a discrete carrier of symbolic states. Define two rewrite generators:
+\begin{itemize}
+    \item Lopa operator $R_L$: removes all markers $x$,
+    \item Sandhi operator $R_S$: replaces each occurrence of $ai$ by $e$.
+\end{itemize}
+Fix precedence: $R_L \triangleright R_S$.
+
+\subsection{Flow and Generator}
+
+Define one-step evolution $U = R_S \triangleright R_L$ and discrete flow $\Phi_n = U^n$. Define rank clock
+\[
+g(w) = \#(x \text{ in } w) + \#(ai \text{ substrings in } w),
+\]
+strictly decreasing off fixed points. The generator is $D = U - I$.
+
+\subsection{Collapse and Normal Form}
+
+The normal form is $NF(w) = \lim_{n\to\infty} \Phi_n(w)$, and $\Omega(w) = NF(w)$. The system is confluent modulo $\Omega$.
+
+\subsection{Representation and Spectrum}
+
+Represent $\pi(w) = (m,n,k,\ell)^\top$ restricted to the subspace of monomials. The represented evolution is $\pi(U(w)) = A \pi(w)$, where $A$ is piecewise linear. The represented generator is $D_\pi = A - I$. Eigenvalues satisfy $\Spec(D_\pi) \subset \{0, -1\}$.
+
+\subsection{Laplacian and Heat Flow}
+
+Define $\Delta = -D_\pi$, $H_t = e^{-t\Delta}$. Non-invariant modes decay exponentially. Heat trace $Z(t) = \Tr(H_t)$ counts surviving structural modes at scale $t$.
+
+\subsection{Curvature and Holonomy}
+
+Define reversed precedence $U' = R_L \triangleright R_S$. Then $\mathcal{K} = U U' - U' U \neq 0$ before collapse, but $\Omega \mathcal{K} = 0$. The holonomy loop $\mathcal{H} = U U' U^{-1} U'^{-1}$ satisfies $\mathcal{H} = I + \mathcal{K}$.
+
+\subsection{Twisted Sector}
+
+Introduce character $\lambda(R_S) = e^{i\theta}$, $\lambda(R_L) = 1$. The twisted Laplacian $\Delta_\lambda$ has a spectrum that shifts with $\theta$, while the untwisted spectrum is invariant.
+
+\subsection{Classification}
+
+The system is Curved--Deformable (pre-collapse) and Flat--Rigid (post-collapse). Both phases coexist within the same morphic system.
+
+\section{Conclusions}
+
+Morphic Operator Geometry provides a unified geometric framework in which:
+\begin{itemize}
+    \item Coherent class holonomy is flat on admitted resolving diamonds; a converse to rewrite confluence requires additional hypotheses,
+    \item Derivation/path memory may be encoded in twisted spectra when the spectral readout is target-faithful; otherwise explicit memory channels are required,
+    \item Curvature is the commutator of generators,
+    \item Heat traces and determinants are universal geometric invariants,
+    \item Classical, noncommutative, information, and graph geometries appear as representation-sector reductions,
+    \item A four-class taxonomy partitions objects by the declared Flat/Curved and Rigid/Deformable predicates; invariance under weak equivalence remains an open obligation.
+\end{itemize}
+
+The framework is governed by the emptiness guard and now carries an explicit RNKE proof-status boundary. It is not claimed here to be a complete formal proof system or a proof of its own mathematical consistency.
+
+\begin{center}
+\fbox{
+\begin{minipage}{0.8\textwidth}
+\centering
+\textbf{All constructions are empty.}\\
+\textbf{Emptiness itself is empty.}\\
+\textbf{Use is allowed.}\\
+\textbf{Reification is not.}
+\end{minipage}
+}
+\end{center}
+
+\begin{theorem}[Self-Consistency]
+The framework presented here satisfies its own criteria: it is conditional, functional, and collapsible. No axiom claims ultimacy. No construction reifies itself. The system is closed under its own emptiness guard.
+\end{theorem}
+
+\begin{proof}
+By the emptiness guard, if any reader finds contradiction, the construction dissolves. No repair is required. The proof is the absence of need for proof.
+\end{proof}
+
+\appendix
+\section{Canonical Axioms (WRITE-0)}
+
+We restate the minimal axioms for reference.
+
+\subsection{Morphic Algebra}
+A morphic algebra is $\Lambda = (\mathcal{O}, \circ, \triangleright, \Omega)$ with commutative semigroup $(\mathcal{O},\circ)$, associative semigroup $(\mathcal{O},\triangleright)$, collapse idempotent $\Omega^2=\Omega$, and compatibility $\Omega(a \triangleright b) = \Omega(\Omega(a) \triangleright \Omega(b))$.
+
+\subsection{Morphic Calculus}
+A morphic flow is $\Phi_t$ with $\Phi_{t+s} = \Phi_t \triangleright \Phi_s$. A generator $D = \lim_{t\to 0} (\Phi_t - I)/g(t)$ for a clock $g$. The clocked derivative is $D_g F = DF/Dg$. Curvature is $\mathcal{K} = [D_1, D_2]$.
+
+\subsection{Representation Theory}
+A representation $\pi: \Lambda \to \End(V)$ with $\pi \circ \Omega = \Omega_V \circ \pi$. The induced generator is $D_\pi = \pi(D)$. Spectrum $\Spec(D_\pi)$. Invariant subspace $\ker(D_\pi)$.
+
+\subsection{Morphic Operator Geometry}
+A geometry is $(\Lambda, D, \pi, \mathfrak{G})$. Laplacian $\Delta = I - e^{D_\pi}$. Heat operator $H_t = e^{-t\Delta}$. Spectral metric $d(\varphi,\psi) = \sup_{\|[\mathcal{D}, \pi(a)]\|\le 1} |\varphi(a)-\psi(a)|$. Holonomy $\mathcal{H} = C_1 C_2 C_1^{-1} C_2^{-1}$. Twisted geometry $\Delta_\lambda, H_{t,\lambda}$.
+
+\subsection{Classification}
+Flat geometry: $[D_i, D_j] \in \ker(\pi \circ \Omega)$. Curved geometry: otherwise. Four classes: Flat--Rigid, Flat--Deformable, Curved--Rigid, Curved--Deformable.
+
+\subsection{Universality}
+Classical calculus, operator semigroups, Markov generators, learning dynamics, spectral geometry, information geometry, and graph geometry arise as representation-sector reductions.
+
+\clearpage
+\section{RNKE Verification Appendix}
+\subsection{Verification boundary}
+This appendix is part of the audited publication copy. The historical source remains preserved separately as \texttt{source\_original.tex}. RNKE certifies source identity, build closure, the corrected elementary statements listed below, and the explicit status of every historical theorem claim. It does not promote unresolved reduction or universality claims into proved mathematics.
+
+\begin{verbatim}
+SOURCE_SHA256 c810ae640cab85ca9eda6927a3512421de74fefd316bb9f220b5231f8cd36cea
+VERIFIED_MAIN_SHA256_PREAPPENDIX 8ebc02a7161a193ae6b178f0ce59184dfd2729766e20c93881fc990b32610524
+\end{verbatim}
+\subsection{High-value corrections}
+\begin{itemize}
+\item The historical confluence--flatness equivalence is replaced by the proved diamond-holonomy statement; confluence, commutator flatness, and phase flatness are not silently identified.
+\item Twist isospectrality is certified under unitary conjugacy only; isospectrality is not treated as a converse faithfulness theorem.
+\item Holonomy accumulation uses $h_n=T/\sqrt n$, not $T/n$.
+\item Spectral distance descends through an exact quotient seminorm condition; $P\Delta=\Delta P$ alone is not promoted to metric descent.
+\item Equal heat traces imply isospectrality under the stated discrete trace-class hypotheses, not automatic vanishing of curvature.
+\item The historical spectral-footprint no-go is rejected. MR-02 path blindness gives the exact opposite boundary: a spectral observation can be blind to target-relevant curvature/path memory, with minimal repair dimension $\operatorname{rank}(\Pi|_{\ker E})$.
+\item Spectral completeness is an injectivity property of the full spectral-signature map; compactness or finiteness alone is not treated as proof of injectivity.
+\end{itemize}
+\subsection{Historical claim ledger}
+\begin{itemize}
+\item \textbf{Rewrite Confluence ⇔ Vanishing Curvature}: \texttt{REPLACED\_BY\_DIAMOND\_FLATNESS\_THEOREM}.
+\item \textbf{Twist–Spectrum Correspondence}: \texttt{REPLACED\_BY\_UNITARY\_TWIST\_ISOSPECTRALITY\_THEOREM}.
+\item \textbf{Holonomy Accumulation}: \texttt{CERTIFIED\_AFTER\_SCALING\_CORRECTION}.
+\item \textbf{Collapse–Metric Compatibility}: \texttt{REPLACED\_BY\_QUOTIENT\_SEMINORM\_CRITERION}.
+\item \textbf{Heat Trace Rigidity}: \texttt{REPLACED\_BY\_HEAT\_TRACE\_ISOSPECTRALITY\_WITH\_BLINDNESS\_BOUNDARY}.
+\item \textbf{Stable Geometry Sector}: \texttt{INCOMPLETE\_EXISTENCE\_AND\_REPRESENTATION\_INDEPENDENCE}.
+\item \textbf{Smooth-Manifold Reduction}: \texttt{CONDITIONAL\_REQUIRES\_DIRAC\_LIPSCHITZ\_HYPOTHESES}.
+\item \textbf{Spectral Triple Emergence}: \texttt{INCOMPLETE\_MISSING\_COMPACT\_RESOLVENT\_OR\_LOCAL\_COMPACTNESS}.
+\item \textbf{Entropy-Clock → Fisher Geometry}: \texttt{INCOMPLETE\_REQUIRES\_STATISTICAL\_MODEL\_HYPOTHESES}.
+\item \textbf{Wasserstein Geometry Emergence}: \texttt{INCOMPLETE\_REQUIRES\_OPTIMAL\_TRANSPORT\_METRIC\_STRUCTURE}.
+\item \textbf{Graph Laplacian Reduction}: \texttt{CERTIFIED\_AFTER\_FINITE\_SYMMETRIC\_SECTOR\_CORRECTION}.
+\item \textbf{Kernel Geometry Reduction}: \texttt{INCOMPLETE\_METRIC\_IDENTIFICATION\_NOT\_AUTOMATIC}.
+\item \textbf{Universal Geometry Theorem}: \texttt{INCOMPLETE\_UNIVERSALITY\_NOT\_PROVED}.
+\item \textbf{Flat Classification}: \texttt{INCOMPLETE\_OR\_FALSE\_AS\_STATED}.
+\item \textbf{Curved Obstruction}: \texttt{INCOMPLETE\_REQUIRES\_REPRESENTATION\_AND\_SPECTRAL\_FAITHFULNESS}.
+\item \textbf{Rigidity Criterion}: \texttt{INCOMPLETE\_INVARIANT\_DETERMINACY\_DOES\_NOT\_CONTROL\_ALL\_DEFORMATIONS}.
+\item \textbf{Deformation Space}: \texttt{INCOMPLETE\_H2\_GIVES\_CANDIDATES\_NOT\_UNOBSTRUCTED\_MODULI}.
+\item \textbf{Phase Separation}: \texttt{INCOMPLETE\_WEAK\_EQUIVALENCE\_CAN\_IGNORE\_COLLAPSE\_CLASS}.
+\item \textbf{Spectral Completeness Window}: \texttt{REPLACED\_BY\_SPECTRAL\_SIGNATURE\_INJECTIVITY\_CRITERION}.
+\item \textbf{Master Classification}: \texttt{CERTIFIED\_PARTITION\_ONLY\_WEAK\_EQUIVALENCE\_INVARIANCE\_OPEN}.
+\item \textbf{No-Go}: \texttt{REJECTED\_AND\_REPLACED\_BY\_PATH\_BLINDNESS\_THEOREM}.
+\item \textbf{Self-Consistency}: \texttt{META\_GUARD\_NOT\_MATHEMATICAL\_CONSISTENCY\_PROOF}.
+\end{itemize}
+\subsection{Ś-0 status}
+The Ś-0 emptiness guard is retained as a meta-level discipline against reification. The historical self-consistency paragraph is not accepted as a mathematical consistency proof: a rule saying that contradiction dissolves a construction does not establish consistency of the underlying formal system.
+
+\begin{thebibliography}{99}
+\bibitem{Dabas2026a} K. Dabas, \emph{Morphic Algebra: A Foundational Framework}, 2026.
+\bibitem{Dabas2026b} K. Dabas, \emph{Morphic Calculus: Foundations of Recognition-Based Mathematics}, 2026.
+\bibitem{Dabas2026c} K. Dabas, \emph{Λ-Representation Theory}, 2026.
+\bibitem{Connes1994} A. Connes, \emph{Noncommutative Geometry}, Academic Press, 1994.
+\bibitem{Villani2009} C. Villani, \emph{Optimal Transport: Old and New}, Springer, 2009.
+\end{thebibliography}
+
+\end{document}

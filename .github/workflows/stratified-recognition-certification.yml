@@ -1,0 +1,43 @@
+name: Stratified Recognition Certification
+
+on:
+  push:
+    branches:
+      - agent/stratified-recognition-faithfulness-v1
+    paths:
+      - 'theorum/stratified_recognition/**'
+      - 'proof_lab/stratified_recognition/**'
+      - 'proof_lab/test_stratified_recognition.py'
+      - '.github/workflows/stratified-recognition-certification.yml'
+  pull_request:
+    paths:
+      - 'theorum/stratified_recognition/**'
+      - 'proof_lab/stratified_recognition/**'
+      - 'proof_lab/test_stratified_recognition.py'
+      - '.github/workflows/stratified-recognition-certification.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  stratified-recognition:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.11', '3.12']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Run Stratified Recognition theorem tests
+        run: python -m unittest -v proof_lab.test_stratified_recognition
+      - name: Run exact Stratified Recognition calibration
+        run: python -m proof_lab.stratified_recognition.verify
+      - name: Recheck general Singularity complex
+        run: >-
+          python -m unittest -v
+          proof_lab.test_singularity_calculus
+          proof_lab.test_singularity_calculus_triple
+          proof_lab.test_singularity_calculus_general_complex

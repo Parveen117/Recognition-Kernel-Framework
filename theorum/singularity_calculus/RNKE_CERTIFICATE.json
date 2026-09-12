@@ -1,0 +1,98 @@
+{
+  "claim_boundary": "Piecewise-smooth/distributional seam-curvature core proved; broader physical, topological, chemical, atomic, Onsager, and device identifications require separate domain adapters.",
+  "formal_proof_assistant": false,
+  "full_source_manuscript_certification": false,
+  "kind": "RNKE_SINGULARITY_CALCULUS_CERTIFICATE",
+  "proof_lab": {
+    "ci_status": "PASS_REMOTE_CI",
+    "ci_workflow": "Singularity Calculus Certification",
+    "ci_run_id": 31258128148,
+    "ci_head_sha": "a3521586ef2457bf31a0a2a1feecd47677ce4a1b",
+    "ci_jobs": {
+      "python_3_11": "success",
+      "python_3_12": "success"
+    },
+    "controls": [
+      "axis swap determinant equals -1",
+      "smooth exact-potential d^2=0 control",
+      "exact Maxwell-defect coefficient",
+      "tangential jump generates seam coefficient",
+      "normal-only jump is curvature-removable",
+      "exact seam-Stokes rectangle",
+      "positive defining-function rescaling",
+      "typed regular/singular non-cancellation",
+      "flat-bulk piecewise enthalpy with nonzero seam defect"
+    ],
+    "local_status": "PASS_SINGULARITY_CALCULUS_CALIBRATION",
+    "python_versions": [
+      "3.11",
+      "3.12"
+    ],
+    "unit_tests": "10/10 PASS"
+  },
+  "rejected_or_not_promoted": [
+    "rank drop for the smooth coordinate swap (T,V)->(V,T)",
+    "nonzero d(d Phi) for a smooth scalar potential",
+    "orientation reversal alone creates a singularity",
+    "generalized Onsager formula without an explicit representation theorem",
+    "clock-dependent seam-angle rate as the native Recognition derivative",
+    "curvature threshold automatically causes a topological winding jump",
+    "atomic shell and periodic-table derivation from seam geometry",
+    "chemical bond and valence claims as theorem-level consequences",
+    "device-performance or threshold claims as theorem-level consequences",
+    "personal operator naming from the source"
+  ],
+  "source": {
+    "conversation_source_sha256": "7496927c2614a4586a517f81fa3c61d9400c89a42d0ba0fa281ffe9001d3aa5d",
+    "raw_source_build": {
+      "first_observed_error": "LaTeX command \\div already defined",
+      "status": "FAILS_BEFORE_THEOREM_BODY"
+    },
+    "raw_source_committed": false
+  },
+  "status": "RNKE_VERIFIED_SINGULARITY_CORE_WITH_EXCLUSIONS",
+  "theorems": [
+    {
+      "id": "SC-01",
+      "sha256": "f782660233cd3766612e353e584c6f3bf3d29459b0b586be10da44ac17153e3b",
+      "status": "PROVED",
+      "title": "Smooth Orientation Reversal Does Not Create a Singularity"
+    },
+    {
+      "id": "SC-02",
+      "sha256": "fa3cda2b31826937c169c52a49b1240343eb7009f7629025ef955545c75c5968",
+      "status": "PROVED",
+      "title": "Process-Form Curvature and Maxwell-Defect Theorem"
+    },
+    {
+      "id": "SC-03",
+      "sha256": "55b05b66b2a29f534a53fb12091c7cfc989ac55f4f5cc741f437e45438cec586",
+      "status": "PROVED_DISTRIBUTIONAL",
+      "title": "Distributional Seam-Curvature Theorem"
+    },
+    {
+      "id": "SC-04",
+      "sha256": "ed0f5a48f4dee64478de9664b2dfd87aa852156205a5ee1a4a5312be66e86568",
+      "status": "PROVED",
+      "title": "Tangential-Jump Removability and Coherent-Gauge Theorem"
+    },
+    {
+      "id": "SC-05",
+      "sha256": "300a52685ead180ee3be87d96108d24d90f9ad490a83b162fa6474874f082bd5",
+      "status": "PROVED",
+      "title": "Seam-Stokes Memory Theorem"
+    },
+    {
+      "id": "SC-06",
+      "sha256": "e5b7b120f05a07e7b8e959dadd18bbd8e6b5faa5f4bea81b38bb254b82a7dbe9",
+      "status": "PROVED",
+      "title": "Regular/Singular Typed Non-Cancellation Theorem"
+    },
+    {
+      "id": "SC-07",
+      "sha256": "12c0128020b2102cab4e8962e702521ae56584e8a5d5f21cb9d35e721698443a",
+      "status": "PROVED_APPLICATION",
+      "title": "Piecewise-Enthalpy Seam Law"
+    }
+  ]
+}

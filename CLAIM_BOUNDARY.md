@@ -86,6 +86,22 @@ external independent review status.
 
 A manuscript theorem may be classified `PROVED` while its executable audit is `NOT IMPLEMENTED` or `INCONCLUSIVE`. Conversely, a computational PASS certifies only the finite obligations declared by its reduction and package specification.
 
+## Consolidated research archive
+
+The current `main` research archive includes later theorem capsules, candidate certificates, Lean witnesses, and audited manuscript lineages beyond the frozen `v0.1.0-review` cartridge. Repository consolidation means that the work and its provenance are present together; it is not a mathematical inference and does not promote every included item to the release's certificate status.
+
+In particular:
+
+```text
+THEOREM OR MANUSCRIPT PRESENT IN MAIN                  DOES NOT IMPLY PACKAGE PASS
+FINITE/DECLARED-INSTANCE CERTIFICATE PASS              DOES NOT IMPLY UNIVERSAL THEOREM
+LEAN WITNESS FOR SELECTED FINITE STATEMENT             DOES NOT FORMALIZE THE WHOLE ARCHIVE
+YANG-MILLS-ORIENTED TOOLS 74-76                        DO NOT CLOSE E4D-C OR THE MASS GAP
+BRANCH CONSOLIDATION                                   DOES NOT ESTABLISH RH OR YANG-MILLS
+```
+
+Every later capsule keeps its own status, hypotheses, open obligations, source pins, and negative controls. The strongest honest claim is always the narrowest one supported by the referenced certificate.
+
 ## Recognition Kernel interpretation
 
 The current public cartridge demonstrates the RNKE pattern on mathematical proof transport:

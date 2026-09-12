@@ -1,4 +1,4 @@
-# EMK Algebra as an Exact Instantiation of the Cut-Graded Curvature (Theorem 42)
+# 48. EMK Algebra as an Exact Instantiation of Theorem 42's Cut-Graded Curvature
 
 ## 1. Source problem and scope
 

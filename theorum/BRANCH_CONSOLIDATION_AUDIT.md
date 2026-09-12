@@ -90,3 +90,42 @@ INDEPENDENT RE-PROOF OF EVERY THEOREM        NOT PERFORMED
 PHYSICAL IDENTIFICATION CLAIMS               UNCHANGED
 GLOBAL RH CLAIM                              NOT CREATED BY THIS AUDIT
 ```
+
+## 2026-09-12 all-branch consolidation
+
+The repository was audited again after several independent development lines had advanced beyond `main`. The pre-integration `main` tip was:
+
+```text
+7b24612c38277fc4d3b4c2efd2cb0a8ed22e2b18
+```
+
+The distinct work collapsed to three lineage heads:
+
+| Lineage head | Tip | Content represented |
+|---|---|---|
+| `theorem-49-local-to-uniform-seam-gap` | `51afbcd75b79e806c67f1ce96a6e2aed06825b17` | numbered Theorems 49–76, certificates, audits, and five Lean witnesses |
+| `agent/stratified-recognition-faithfulness-v1` | `3d2ec37` | stratified recognition plus its morphic-recognition, recognition-topology, and Singularity Calculus v4/v5 ancestors |
+| `agent/semantic-paninian-normal-form` | `4e69a6b` | typed semantic Paninian normal form and executable certificate |
+
+The theorem-49 tip had a successful hosted proof-lab workflow run, GitHub Actions run `32630967128`. The stratified umbrella was merged locally at `64c6935`; the semantic lineage was merged at `f05f965`. The only textual merge conflict was `.github/workflows/rkf-proof-lab-ci.yml`; the resolution retained both lineages' certificate reproduction steps and expanded the Python matrix to 3.11 and 3.12.
+
+The semantic theorem's branch-local path used number 45, which collided with the already-canonical directed arithmetic-analytic closure theorem. It was therefore moved without substantive alteration:
+
+```text
+theorum/45_semantic_paninian_typed_claim_normal_form.md
+-> theorum/77_semantic_paninian_typed_claim_normal_form.md
+```
+
+After integration, `git branch -r --no-merged HEAD` returned no branch: every fetched remote branch head was an ancestor of, or represented by, the consolidated tree. The complete Python proof-lab discovery run then reported:
+
+```text
+python -m compileall -q proof_lab
+python -m unittest discover -s proof_lab -p 'test_*.py' -v
+
+Ran 344 tests
+OK
+```
+
+That local run used Python 3.12. The theorem-49 hosted run had already exercised its Lean step successfully; the final consolidated commit still requires its own hosted workflow before the merge is treated as operationally complete.
+
+The graph operation changes no mathematical verdict. In particular, candidate and finite-instance certificates remain candidate and finite-instance certificates; `E4D-C` remains open; full proof-assistant formalization is not claimed; and neither RH nor the Yang–Mills mass gap is established by collecting the work on one branch.

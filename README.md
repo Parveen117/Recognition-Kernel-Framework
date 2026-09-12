@@ -93,21 +93,24 @@ Those items remain `NOT CERTIFIED` or `OPEN` in this software release.
 
 ## Consolidated theorem archive
 
-The reviewer-facing theorem surface is under [`theorum/`](theorum/). It contains the transferred RH-framework capsules, native cut/completion results, the current generator-to-jet capstone chain, and the thermodynamic theorem archive.
+The reviewer-facing theorem surface is under [`theorum/`](theorum/). The current research archive is broader than the frozen `v0.1.0-review` verification cartridge above. It contains the transferred RH-framework capsules, native cut/completion results, Theorems 41–77, the thermodynamic archive, and the parallel morphic, topological, singularity, and stratified-recognition lineages.
 
-The current advanced reading chain is:
+The shortest map of the advanced surface is:
 
 ```text
-theorum/41_cut_graded_universal_generator_theorem.md
--> theorum/42_cut_graded_lambda_jacobian_tower_theorem.md
--> theorum/43_bilateral_jet_flow_recognition_capstone_theorem.md
--> theorum/44_madhava_smriti_bilateral_jet_flow_closure_theorem.md
--> theorum/thermodynamics/README.md
+21-40  native source, no-blindness, completion, and normalization interface
+41-48  generator, Jacobian, jet, validated numerics, and EMK algebra
+49-57  local/native seam gap, resolvent, cut square, infinite face, and docks
+58-73  finite Paninian, linguistic, ritual, metric, and astronomical carriers
+74-76  Yang-Mills-oriented upper-bound tools (E4D-C remains open)
+77     typed semantic Paninian normal form for an explicit finite presentation
 ```
+
+Parallel archives develop morphic recognition, recognition topology, Singularity Calculus, stratified recognition, morphic algebra/calculus/geometry, and thermodynamic response. Their own README, status, certificate, and audit files control the strength of each claim.
 
 Use [`theorum/README.md`](theorum/README.md) for the complete map, [`theorum/SOURCE_PR_INDEX.md`](theorum/SOURCE_PR_INDEX.md) for source ancestry, and [`theorum/BRANCH_CONSOLIDATION_AUDIT.md`](theorum/BRANCH_CONSOLIDATION_AUDIT.md) for the repository-wide branch verification.
 
-The theorem capsules retain their own evidence labels and claim boundaries. Their inclusion in `main` does not silently upgrade `LOCAL PASS`, `USER-REPORTED PASS`, or `IMPLEMENTED / USER RUN REQUIRED` into a stronger certification state. Apparently even repositories need adults in the room.
+The theorem capsules retain their own evidence labels and claim boundaries. Their inclusion in `main` does not silently upgrade `LOCAL PASS`, `USER-REPORTED PASS`, `CANDIDATE`, or `IMPLEMENTED / USER RUN REQUIRED` into a stronger certification state, and it does not establish the Riemann Hypothesis or Yang–Mills mass gap. Apparently even repositories need adults in the room.
 
 ## Reviewer route
 

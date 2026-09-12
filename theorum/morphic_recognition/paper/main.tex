@@ -1,0 +1,580 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{amsmath,amssymb,amsthm,mathtools}
+\usepackage{geometry}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{xcolor}
+\geometry{margin=1in}
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{axiom}[theorem]{Axiom}
+\newtheorem{remark}[theorem]{Remark}
+
+\newcommand{\R}{\mathcal{R}}
+\newcommand{\K}{\mathbf{K}}
+\newcommand{\N}{\mathcal{N}}
+\newcommand{\Opr}{\mathcal{O}}
+\newcommand{\T}{\mathcal{T}}
+\newcommand{\A}{\mathcal{A}}
+\newcommand{\cM}{\mathcal{M}}
+\newcommand{\catkoone}{\mathsf{C}_{\mathsf{I}}}
+\newcommand{\catkotwo}{\mathsf{C}_{\mathsf{II}}}
+\newcommand{\catkothree}{\mathsf{C}_{\mathsf{III}}}
+\newcommand{\catkofour}{\mathsf{C}_{\mathsf{IV}}}
+\newcommand{\sunya}{\boldsymbol{\varnothing}}
+\newcommand{\status}[1]{\texttt{#1}}
+
+\title{Morphic Recognition Calculus:\\Clock-Free Path Memory, Blindness, and Verified Recognition Closure\\[0.4em]
+\large A theorem-first development under the Śūnya-0 Emptiness Guard and Nāgārjuna Catuṣkoṭi layer}
+\author{Monty Dabas}
+\date{2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+This paper develops a theorem-first extension of Morphic Calculus and Recognition-Seam Calculus in which the primitive object is a declared morphism rather than a clocked trajectory. The original terminology and pre-foundational ordering are retained: Śūnya, Cut, Morphisum/Morphic transformation, Recognition, the Ś-0 Emptiness Guard, the N-0 Nāgārjuna Catuṣkoṭi layer, collapse, cocycle, holonomy, and clock recovery as a representation choice. Three domain-independent results are proved. First, typed residuals cannot cancel across mandatory recognition channels, and any compressed aggregate is sound exactly when it is faithful on the adverse residual sector. Second, endpoint blindness is measured by a path-blind quotient and the minimum number of scalar linear memory channels needed for exact repair equals its dimension. Third, lawful path memory is realized by a cocycle-lifted morphism category; associativity is equivalent to the cocycle identity, path memory is independent of parenthesization, and coboundary changes induce isomorphic memory presentations. An RNKE proof-contract layer verifies exact finite calibrations and negative controls without being conflated with the universal mathematical proofs. The paper makes no claim that the verification code is a substitute for a formal proof assistant or that the broad universality statements of earlier Morphic manuscripts have thereby been established.
+\end{abstract}
+
+\tableofcontents
+
+\section{Binding principle and terminology}
+
+The present paper does not rename the Morphic framework in order to make it resemble a conventional software formalism. The native vocabulary is part of the construction:
+
+\[
+\boxed{
+\text{Śūnya}\to\text{Cut}\to\text{Morphisum/Morphic transition}\to\text{Recognition}\to\text{Operator shadow}.
+}
+\]
+
+A morphic transition is written
+
+\[
+x\xrightarrow{a}y.
+\]
+
+A clock, coordinate, iteration number, epoch, norm, Hilbert basis, or database encoding may later represent or measure this arrow. None is primitive merely because a later implementation uses it.
+
+\subsection{Proof-status discipline}
+
+We use the following status language throughout:
+
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Status & Meaning\\
+\midrule
+\status{PROVED\_ALGEBRAICALLY} & General proof given under explicit assumptions.\\
+\status{RNKE\_CONTRACT\_VERIFIED} & Declared proof obligations and negative controls close.\\
+\status{COMPUTATIONALLY\_CALIBRATED} & Exact finite calibration agrees with theorem contract.\\
+\status{FORMAL\_ASSISTANT\_VERIFIED} & Reserved for an external formal proof artifact.\\
+\status{INCOMPLETE} & A mathematical obligation remains open or underspecified.\\
+\status{REJECTED} & A mandatory obligation is false.\\
+\bottomrule
+\end{tabular}
+\end{center}
+
+The RNKE layer is a proof-obligation verifier. It does not convert finite testing into a universal proof.
+
+\section{Ś-0: Emptiness Guard (Pre-Foundational Patch)}
+
+\subsection{Non-reifying Prelude}
+
+The following axioms are not mathematical axioms in the usual sense but meta-linguistic guards against ontological reification. They bind all subsequent constructions.
+
+\begin{axiom}[Ś-0.1: Non-intrinsic status of all constructions]
+All terms, symbols, operators, relations, quotients, traces, spectra, limits, and calculi introduced in what follows are \textbf{empty of intrinsic nature}. They possess no self-grounding identity, no independent existence, and no authority beyond their conditional use. They arise only dependently, through mutual definition and contextual coordination.
+\end{axiom}
+
+\begin{axiom}[Ś-0.2: No ontological commitment]
+Nothing in this document asserts what exists, what is ultimately real, or what must be the case. All constructions are \textbf{instrumental appearances}: they function if conditions permit, and dissolve without residue when conditions fail.
+\end{axiom}
+
+\begin{axiom}[Ś-0.3: Collapse precedes structure]
+The notion of \emph{collapse} (śūnya) is not introduced as a metaphysical event, nor as a privileged operator. Non-reification is assumed everywhere. Any collapse operator defined later is a formal shadow of this prior refusal, not its source.
+\end{axiom}
+
+\begin{axiom}[Ś-0.4: Provisionality of invariants]
+No invariant, conserved quantity, spectrum, zero-mode, or limit obtained in later sections is final. Each is relative to a representation, conditional on the structure used to observe it, and subject to refinement or reinterpretation. Mistaking a provisional invariant for an absolute one is a category error, not a discovery.
+\end{axiom}
+
+\begin{axiom}[Ś-0.5: No closure claim]
+This framework does not claim completeness, finality, or foundational closure. If contradiction is found, the construction dissolves; if redundancy is found, the construction collapses; if uselessness is established, the construction may be discarded.
+\end{axiom}
+
+\begin{axiom}[Ś-0.6: Function without essence]
+Structures may function without pretending to be what they are not. \textbf{Use is allowed. Reification is not.}
+\end{axiom}
+
+\begin{center}
+\fbox{\parbox{0.86\textwidth}{\centering
+\textbf{Binding Clause (Ś-0 $\to$ All Layers)}\\
+All axioms, definitions, theorem carriers, recognition maps, clocks, representations, and verification certificates below are governed by Ś-0. No symbol or structure carries intrinsic status. Validity is conditional, functional, typed, and collapsible.}}
+\end{center}
+
+\section{N-0: Nāgārjuna Layer and Catuṣkoṭi Algebra}
+
+The Nāgārjuna layer is retained as the named four-fold negation structure preceding the later collapse representation.
+
+\begin{definition}[Catuṣkoṭi Truth Set]
+Define
+\[
+\mathbb C_4
+=
+\{\catkoone,\catkotwo,\catkothree,\catkofour\},
+\]
+with the inherited interpretations
+\begin{align*}
+\catkoone &: \text{It is P},\\
+\catkotwo &: \text{It is not P},\\
+\catkothree &: \text{It is both P and not P},\\
+\catkofour &: \text{It is neither P nor not P}.
+\end{align*}
+\end{definition}
+
+\begin{definition}[Catuṣkoṭi negation]
+The inherited involution is
+\begin{align*}
+\neg\catkoone&=\catkotwo,&
+\neg\catkotwo&=\catkoone,\\
+\neg\catkothree&=\catkothree,&
+\neg\catkofour&=\catkofour.
+\end{align*}
+\end{definition}
+
+\begin{remark}[Verification boundary of N-0]
+The N-0 terminology, Catuṣkoṭi carrier, Mādhyamika vocabulary, and prasaṅga guard are preserved. The present MR-01--MR-03 theorem proofs do not require a completed Catuṣkoṭi multiplication table or the stronger historical claim that every collapse operator is already characterized by a unique Catuṣkoṭi projection. Such statements remain inherited framework obligations rather than being silently promoted by the new verification code. Their current status in this paper is \status{INCOMPLETE} unless separately proved.
+\end{remark}
+
+This is deliberate: preserving terminology does not require pretending that every sentence in an earlier manuscript already carries the same proof status.
+
+\section{Clock-free Morphic transition calculus}
+
+Let \(\mathfrak G\) be a category of recognition objects and declared arrows. For
+\[
+\gamma:x\to y,
+\]
+let
+\[
+A_\gamma:\mathcal F_x\to\mathcal F_y
+\]
+be a declared source transport. If \(G_x\) is a form assigned to object \(x\), define the clock-free transition differential
+\[
+\boxed{
+\Delta_\gamma G
+=A_\gamma^*G_yA_\gamma-G_x.
+}
+\]
+For composable arrows \(\gamma:x\to y\) and \(\delta:y\to z\),
+\[
+\boxed{
+\Delta_{\delta\gamma}G
+=
+\Delta_\gamma G
++A_\gamma^*(\Delta_\delta G)A_\gamma.
+}
+\]
+The proof is a single add-and-subtract identity:
+\begin{align*}
+\Delta_{\delta\gamma}G
+&=A_\gamma^*A_\delta^*G_zA_\delta A_\gamma-G_x\\
+&=A_\gamma^*(A_\delta^*G_zA_\delta-G_y)A_\gamma
+ +(A_\gamma^*G_yA_\gamma-G_x).
+\end{align*}
+No quotient by a time increment is required.
+
+A clock may later be introduced as a chosen measure of distinguishability. In the original Morphic language, for a flow \(\Phi\) and clock \(g\), one may form
+\[
+D_{(\Phi,g)}f(x)
+=
+\lim_{h\to0}
+\frac{f(\Phi_h(x))-f(x)}{g(\Phi_h(x))-g(x)}
+\]
+when the denominator resolves the transition and the limit exists. The clock therefore measures change; it is not the existence condition for the underlying morphism.
+
+\begin{remark}[Flat-clock correction]
+A flat or singular clock is treated as failure of that rate presentation, not as proof that the native morphism or its integrated seam has vanished. This is the hardened Recognition-Seam reading of the older Morphic statement about loss of distinguishability.
+\end{remark}
+
+\section{MR-01: Typed Residue Non-Cancellation}
+
+Let \(I\) be finite, let \(A_i\) be abelian groups, and define
+\[
+A=\bigoplus_{i\in I}A_i.
+\]
+For a morphism \(a:x\to y\), let \(r_i(a)\in A_i\) be the residual of mandatory recognition obligation \(i\), and define
+\[
+\mathbf r(a)=\bigoplus_{i\in I}r_i(a).
+\]
+
+\begin{theorem}[Typed Residue Non-Cancellation]
+\[
+\boxed{
+\mathbf r(a)=0
+\iff
+r_i(a)=0\quad\forall i\in I.
+}
+\]
+Consequently, no mandatory residual can be cancelled by another residual merely because an untyped aggregate vanishes.
+\end{theorem}
+
+\begin{proof}
+The zero element of an external direct sum is \(\bigoplus_i0_{A_i}\), and equality in the direct sum is coordinatewise. Therefore \(\bigoplus_i r_i=0\) exactly when every coordinate vanishes.
+\end{proof}
+
+Let \(Q:A\to B\) be an aggregate shadow and let \(M\le A\) be the adverse residual sector.
+
+\begin{theorem}[Aggregator Faithfulness Criterion]
+The implication
+\[
+Q\mathbf r=0\Longrightarrow\mathbf r=0
+\qquad(\mathbf r\in M)
+\]
+holds if and only if
+\[
+\boxed{\ker(Q|_M)=\{0\}.}
+\]
+\end{theorem}
+
+\begin{proof}
+If the restricted kernel is trivial, every aggregate-zero residual in \(M\) is zero. Conversely, any nonzero \(v\in\ker(Q|_M)\) is an explicit false-closure witness.
+\end{proof}
+
+For example, \(Q(u,v)=u+v\) hides the nonzero typed residual \((1,-1)\). By contrast, a positive norm shadow
+\[
+\rho(\mathbf r)^2=\sum_iw_i\|r_i\|^2,
+\qquad w_i>0,
+\]
+is zero exactly when every factor is zero.
+
+\paragraph{Status.}
+\status{PROVED\_ALGEBRAICALLY}; RNKE calibration is supplied in \texttt{proof\_lab/morphic\_recognition}.
+
+\section{MR-02: Path Blindness and Minimal Memory Repair}
+
+Let \(\mathcal P\) be a finite-dimensional vector space of path descriptors, let
+\[
+E:\mathcal P\to Y
+\]
+be the endpoint observation, and let
+\[
+\Pi:\mathcal P\to Z
+\]
+be a declared linear path target.
+
+Define the endpoint-blind kernel \(K=\ker E\) and the path-blind quotient
+\[
+\boxed{
+\mathcal B_{\rm path}(E,\Pi)
+=
+\ker E/(\ker E\cap\ker\Pi).
+}
+\]
+
+\begin{proposition}[Exact blind quotient]
+The map
+\[
+[k]\mapsto\Pi k
+\]
+is an isomorphism
+\[
+\mathcal B_{\rm path}(E,\Pi)
+\cong
+\Pi(\ker E).
+\]
+Hence
+\[
+\boxed{
+\dim\mathcal B_{\rm path}
+=
+\operatorname{rank}(\Pi|_{\ker E}).
+}
+\]
+\end{proposition}
+
+\begin{proof}
+The quotient removes exactly the kernel of \(\Pi|_{\ker E}\). The induced map is therefore well defined, injective, and surjective onto \(\Pi(\ker E)\).
+\end{proof}
+
+\begin{theorem}[Endpoint Decoder Criterion]
+The following are equivalent:
+\begin{enumerate}[label=(\roman*)]
+\item \(\ker E\subseteq\ker\Pi\);
+\item there exists a unique linear \(D:\operatorname{ran}E\to Z\) with \(\Pi=DE\);
+\item \(\mathcal B_{\rm path}(E,\Pi)=\{0\}\).
+\end{enumerate}
+\end{theorem}
+
+\begin{proof}
+If \(\Pi=DE\), then \(Ek=0\) implies \(\Pi k=0\). Conversely, if \(\ker E\subseteq\ker\Pi\), define \(D(Ep)=\Pi p\); the kernel condition makes this definition independent of the representative. The quotient characterization is immediate.
+\end{proof}
+
+Now let
+\[
+G:\mathcal P\to\mathbb F^m
+\]
+be \(m\) scalar linear path-memory channels. The repaired observation is \((E,G)\).
+
+\begin{theorem}[Path Blindness and Minimal Memory Repair]
+Put
+\[
+r
+=
+\dim\mathcal B_{\rm path}(E,\Pi)
+=
+\operatorname{rank}(\Pi|_{\ker E}).
+\]
+Then the minimum number of scalar linear memory channels required to guarantee
+\[
+\ker(E,G)\subseteq\ker\Pi
+\]
+is
+\[
+\boxed{m_{\min}=r.}
+\]
+\end{theorem}
+
+\begin{proof}
+Let \(K=\ker E\). Target completeness gives
+\[
+\ker(G|_K)\subseteq K\cap\ker\Pi.
+\]
+By rank-nullity,
+\[
+\operatorname{rank}(G|_K)
+\ge
+\dim K-\dim(K\cap\ker\Pi)
+=r,
+\]
+so \(m\ge r\).
+
+For attainability, use the quotient map
+\[
+K\to K/(K\cap\ker\Pi)
+\]
+and identify this \(r\)-dimensional quotient with \(\mathbb F^r\). Extend the resulting linear map from \(K\) to \(\mathcal P\). Its kernel inside \(K\) is exactly \(K\cap\ker\Pi\), so \(r\) channels suffice.
+\end{proof}
+
+This theorem is a morphic path-space specialization of the existing Cut-Variational Minimal Observer principle: the number of memory labels is generated by the target-visible blind dimension, not chosen because a later matrix happens to have that size.
+
+\paragraph{Status.}
+\status{PROVED\_ALGEBRAICALLY} in finite dimension; infinite-dimensional extensions require separately declared topological hypotheses.
+
+\section{MR-03: Cocycle-Lifted Path Recognition}
+
+Let \(\mathcal C\) be a small category and \(M\) an abelian group. Let \(\omega(b,a)\in M\) be defined for composable arrows.
+
+\begin{definition}[Normalized memory cocycle]
+\(\omega\) is normalized if
+\[
+\omega(\operatorname{id},a)=0,
+\qquad
+\omega(a,\operatorname{id})=0,
+\]
+and
+\[
+\boxed{
+\omega(c,b\circ a)+\omega(b,a)
+=
+\omega(c\circ b,a)+\omega(c,b)
+}
+\]
+for every composable triple.
+\end{definition}
+
+A lifted arrow is \((m,a)\) with \(m\in M\), and composition is
+\[
+\boxed{
+(n,b)\star(m,a)
+=
+(n+m+\omega(b,a),b\circ a).
+}
+\]
+
+\begin{theorem}[Cocycle-Lifted Associativity]
+The operation \(\star\) is associative if and only if \(\omega\) satisfies the cocycle identity. With normalization, \((0,\operatorname{id})\) is a two-sided identity.
+\end{theorem}
+
+\begin{proof}
+The two bracketings of a triple have identical projected arrow and respective memory coordinates
+\[
+p+n+m+\omega(b,a)+\omega(c,b\circ a)
+\]
+and
+\[
+p+n+m+\omega(c,b)+\omega(c\circ b,a).
+\]
+They agree for every triple exactly when the cocycle identity holds.
+\end{proof}
+
+Define the forgetful projection
+\[
+\pi(m,a)=a.
+\]
+It is a functor, but it forgets memory. Thus
+\[
+\pi(m,a)=\pi(n,a)
+\]
+need not imply \((m,a)=(n,a)\).
+
+For a composable path \(\gamma=a_k\cdots a_1\), lift each elementary arrow with zero memory. Associativity gives a unique accumulated memory \(\Omega_\omega(\gamma)\) satisfying
+\[
+\widetilde a_k\star\cdots\star\widetilde a_1
+=
+(\Omega_\omega(\gamma),\gamma).
+\]
+The quantity \(\Omega_\omega(\gamma)\) is independent of parenthesization.
+
+\begin{definition}[Memory-complete path recognition]
+For two histories with the same projected composite,
+\[
+\boxed{
+\gamma\sim_\omega\eta
+\iff
+\gamma=\eta\text{ in }\mathcal C
+\text{ and }
+\Omega_\omega(\gamma)=\Omega_\omega(\eta).
+}
+\]
+\end{definition}
+
+\subsection{Coboundary gauge theorem}
+
+Let \(\alpha:\operatorname{Mor}(\mathcal C)\to M\) be a normalized 1-cochain and define
+\[
+\omega'(b,a)
+=
+\omega(b,a)
++\alpha(b\circ a)-\alpha(b)-\alpha(a).
+\]
+
+\begin{theorem}[Coboundary Gauge Isomorphism]
+For the displayed convention, the correct coordinate change is
+\[
+\boxed{
+\Phi_\alpha(m,a)=(m+\alpha(a),a).
+}
+\]
+It gives an isomorphism
+\[
+\widetilde{\mathcal C}_\omega
+\cong
+\widetilde{\mathcal C}_{\omega'}.
+\]
+\end{theorem}
+
+\begin{proof}
+One has
+\[
+\Phi_\alpha((n,b)\star_\omega(m,a))
+=
+(n+m+\omega(b,a)+\alpha(b\circ a),b\circ a),
+\]
+whereas
+\begin{align*}
+\Phi_\alpha(n,b)\star_{\omega'}\Phi_\alpha(m,a)
+&=(n+\alpha(b)+m+\alpha(a)+\omega'(b,a),b\circ a)\\
+&=(n+m+\omega(b,a)+\alpha(b\circ a),b\circ a).
+\end{align*}
+Thus composition is preserved; the inverse uses \(-\alpha\).
+\end{proof}
+
+The sign is included in the RNKE negative-control suite. For the convention above, replacing \(+\alpha\) by \(-\alpha\) fails an exact integer calibration.
+
+\paragraph{Status.}
+\status{PROVED\_ALGEBRAICALLY}. The categorical extension construction itself is standard; the claim here is its explicit role as the clock-free path-memory carrier inside the Recognition framework.
+
+\section{RNKE proof-contract verification}
+
+The verification layer declares the theorem, assumptions, dependencies, proof obligations, negative controls, calibration domain, and claim boundary before execution.
+
+The top-level decisions are
+\[
+\boxed{
+\text{ADMIT}\mid\text{REJECT}\mid\text{INCOMPLETE}\mid\text{INVALID}.
+}
+\]
+For the present theorem packet, ADMIT means \status{RNKE\_CONTRACT\_VERIFIED}; it does not mean that finite computation has replaced the general proof.
+
+\subsection{Negative controls}
+
+The current exact suite includes:
+\begin{enumerate}
+\item MR-01: \((1,-1)\) is hidden by the lossy sum aggregator.
+\item MR-02: one memory channel fails on a rank-two path-blind quotient, while two independent channels repair it.
+\item MR-03: \(\omega(b,a)=ba\) satisfies the integer cocycle identity, while \(\omega_{\rm bad}(b,a)=ba^2\) fails at \((a,b,c)=(1,1,1)\).
+\item MR-03 gauge: the wrong-sign coboundary coordinate change fails exactly.
+\end{enumerate}
+
+The executable implementation is
+\[
+\texttt{proof\_lab/morphic\_recognition/verify.py}.
+\]
+Its certificate is generated in CI and hash-bound.
+
+\section{Relation to Morphic Calculus and Morphic Algebra}
+
+The source Morphic Calculus makes the central distinction that the flow supplies the direction of change while a chosen \(g\) supplies its measurement. The source Morphic Algebra then develops collapse ideals, derivations, cocycles, holonomy, spectral layers, and clock recovery.
+
+The present paper does not discard those layers. It separates them by proof role:
+\[
+\boxed{
+\text{native morphism}
+\to
+\text{recognition residue}
+\to
+\text{path memory}
+\to
+\text{faithful observation}
+\to
+\text{optional clock/representation}.
+}
+\]
+
+Ś-0 remains the binding guard. N-0 remains the Nāgārjuna/Catuṣkoṭi layer. A-0/A-1 remain the operator/morphic algebraic carriers. Cocycle and holonomy remain the A-3 memory language. Clock recovery remains later structure rather than a primitive assumption.
+
+What changes is not terminology but \emph{claim discipline}: a historical universality statement is not used as a premise unless its proof obligations have independently closed.
+
+\section{Next theorem: Morphic Global Closure}
+
+The next target is a single theorem combining MR-01--MR-03 with target faithfulness.
+
+Informally, for an admissible morphism \(a:x\to y\), commitment should require
+\[
+\boxed{
+\mathbf r(a)=0,
+\qquad
+\Omega_\omega(a)\text{ lawfully closes or is retained},
+\qquad
+\ker E\subseteq\ker\Pi\text{ after minimal repair}.
+}
+\]
+
+The theorem must be stated without referring to AI, blockchain, RH, or any other downstream adapter. Applications may consume the theorem only after the abstract recognition object is complete.
+
+\section{Conclusion}
+
+The primitive object of the present development is a recognized morphism, not a timestamped state pair. Typed residuals prevent cross-obligation cancellation; the path-blind quotient measures exactly what an endpoint forgets; the minimal-memory theorem gives the exact repair rank in finite-dimensional linear sectors; and the cocycle lift retains lawful path memory without introducing a clock.
+
+The framework remains governed by the same closing discipline with which the Morphic programme began:
+
+\begin{center}
+\fbox{\parbox{0.75\textwidth}{\centering
+\textbf{All constructions are empty.}\\
+\textbf{Emptiness itself is empty.}\\
+\textbf{Use is allowed.}\\
+\textbf{Reification is not.}}}
+\end{center}
+
+This closing guard is not offered as a mathematical consistency proof. It is the inherited Ś-0 rule governing how every proved, verified, represented, and later-applied construction in this paper is to be read.
+
+\end{document}
