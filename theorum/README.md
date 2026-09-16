@@ -2,6 +2,8 @@
 
 This folder is the canonical reviewer-facing theorem surface of the Recognition Kernel Framework repository. The spelling `theorum` is intentional because it follows the programme's working-language convention.
 
+For subject-first navigation across algebra, calculus and geometry, numbered capsules, parallel theorem spines, certificates, and open gates, begin with the repository-level [`MATHEMATICS_INDEX.md`](../MATHEMATICS_INDEX.md).
+
 The files are theorem capsules, claim-boundary notes, source maps, and certificate summaries. They are not interchangeable with raw proof-lab code, and merely placing a theorem in this folder does not erase its declared evidence status. Bureaucracy, but the useful kind.
 
 ## 1. Initial transferred RH packets

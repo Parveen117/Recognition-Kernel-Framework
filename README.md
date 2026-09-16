@@ -9,6 +9,8 @@
 
 The Recognition Kernel Framework is a technical and mathematical architecture for evaluating whether a recognized structure survives a transformation after lawful transport and declared memory have been accounted for. The remaining open residue is classified and recorded in a reproducible certificate.
 
+**Canonical navigation:** start with the [Mathematics Index](MATHEMATICS_INDEX.md). It separates the repository's algebra, calculus and geometry, theorem spines, domain adapters, evidence layers, and open gates for both human and AI readers.
+
 The operational engine is the **Recognition–Null Kernel Engine (RNKE)**. A domain cartridge is represented by
 
 \[
@@ -114,13 +116,14 @@ The theorem capsules retain their own evidence labels and claim boundaries. Thei
 
 ## Reviewer route
 
-1. Read [`REVIEWER_GUIDE.md`](REVIEWER_GUIDE.md).
-2. Read [`CLAIM_BOUNDARY.md`](CLAIM_BOUNDARY.md).
-3. Inspect [`CERTIFICATE_INDEX.md`](CERTIFICATE_INDEX.md).
-4. Read the consolidated theorem map in [`theorum/README.md`](theorum/README.md).
-5. Reproduce the campaign using [`REPRODUCE.md`](REPRODUCE.md).
-6. Compare generated JSON hashes with the archived certificate artifacts.
-7. Inspect theorem sources, verifier obligations, and negative controls directly.
+1. Read the canonical [`MATHEMATICS_INDEX.md`](MATHEMATICS_INDEX.md).
+2. Read [`REVIEWER_GUIDE.md`](REVIEWER_GUIDE.md).
+3. Read [`CLAIM_BOUNDARY.md`](CLAIM_BOUNDARY.md).
+4. Inspect [`CERTIFICATE_INDEX.md`](CERTIFICATE_INDEX.md).
+5. Read the consolidated theorem map in [`theorum/README.md`](theorum/README.md).
+6. Reproduce the campaign using [`REPRODUCE.md`](REPRODUCE.md).
+7. Compare generated JSON hashes with the archived certificate artifacts.
+8. Inspect theorem sources, verifier obligations, and negative controls directly.
 
 ## Terminology
 

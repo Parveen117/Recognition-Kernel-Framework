@@ -32,11 +32,12 @@ Therefore the files in this subfolder preserve the geometric theorems from PRs #
 ## Reading order
 
 1. `10_lambda_holonomy_and_branch_memory.md`
-2. `11_noncommutative_holonomy_and_factorization.md`
-3. `12_refinement_and_continuum_length.md`
-4. `13_constrained_variational_length.md`
-5. `14_curvature_flux_no_collapse.md`
-6. `15_primitive_flux_spectrum_and_obstruction.md`
+2. `11_noncommutative_holonomy_and_irreducibility.md`
+3. `12_admissible_factorization_and_primitivity.md`
+4. `13_refinement_and_continuum_length.md`
+5. `14_constrained_variational_length.md`
+6. `15_curvature_flux_no_collapse.md`
+7. `16_primitive_flux_spectrum_and_obstruction.md`
 
 ## Status
 

@@ -25,11 +25,12 @@ Read:
 
 ```text
 README.md
+MATHEMATICS_INDEX.md
 TERMINOLOGY_AND_FILING_ALIGNMENT.md
 CLAIM_BOUNDARY.md
 ```
 
-Confirm that the public umbrella is the Recognition Kernel Framework, the operational engine is RNKE, and the current cartridge has a limited declared mathematical scope.
+Confirm that the public umbrella is the Recognition Kernel Framework, the operational engine is RNKE, the Mathematics Index keeps algebra/calculus/theorem/evidence routes distinct, and the current cartridge has a limited declared mathematical scope.
 
 ### 2. Provenance
 

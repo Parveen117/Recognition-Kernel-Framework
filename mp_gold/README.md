@@ -31,7 +31,10 @@ Nothing here should be treated as a new RH terminal claim. This is clean reusabl
 6. `06_unified_seam_block_krylov.md`  
    Matrix-free unified seam block-Krylov machinery and same-projection two-block upper bound.
 
-7. `gold_manifest.json`  
+7. `07_zero_as_cut_topology.md`
+   Zero-as-cut rather than joint: cut/join projector algebra, surviving endpoint memory, and spectral-flow cut memory.
+
+8. `gold_manifest.json`
    Machine-readable source PR list and transfer status.
 
 ## Policy
