@@ -69,6 +69,7 @@ repository inclusion                 != external independent validation
 | Morphic foundations | [Morphic Algebra](theorum/morphic_algebra/README.md) | [Morphic Calculus](theorum/morphic_calculus/README.md), [Morphic Operator Geometry](theorum/morphic_geometry/README.md) |
 | Rewrite systems and Pāṇinian operators | [Theorem 58](theorum/58_paninian_seam_calculus_theorem.md) | [Theorems 59–73](#theorems-58-77-paninian-domain-yang-mills-tool-and-semantic-chain) |
 | Typed semantic normalization | [Theorem 77](theorum/77_semantic_paninian_typed_claim_normal_form.md) | [Executable stage-1 guide](proof_lab/README_SEMANTIC_PANINIAN_NORMAL_FORM.md) |
+| Future-faithful memory, lawful Lopa, and finite seam gluing | [MR-04–07 development](theorum/morphic_recognition/MEMORY_DEVELOPMENT.md) | [Evidence record](theorum/morphic_recognition/MEMORY_VERIFICATION.md), [source-pinned certificate](theorum/morphic_recognition/MEMORY_CERTIFICATE.json) |
 | RH endpoint route | [Theorems 33–40](#theorems-21-40-native-core-and-rh-interface) | [RH claim boundary](theorum/12_rh_claim_boundary.md) |
 | Yang–Mills-oriented upper-bound tools | [Theorems 74–76](#theorems-58-77-paninian-domain-yang-mills-tool-and-semantic-chain) | `E4D-C` remains open |
 
@@ -91,7 +92,7 @@ These are navigation families, not mutually exclusive boxes. A theorem can parti
 |---|---|---|
 | Cut-memory algebra | [T21](theorum/21_cut_memory_spectral_isomorphism.md), [T22](theorum/22_rh_memory_cut_rank_gate.md), [T23](theorum/23_native_cut_generated_object_theorem.md) | spectral/cut carrier, memory rank, native generation |
 | Primitive/completion hierarchy | [T27](theorum/27_rsc_primitive_to_completion_hierarchy.md), [T28](theorum/28_recognition_complete_finite_to_infinite_cut_theorem.md) | typed passage from primitive carrier to recognition completion |
-| Observer algebra | [T31](theorum/31_cut_variational_minimal_observer_theorem.md), [MR-01–03](theorum/morphic_recognition/README.md) | target faithfulness, blind quotient, exact memory-repair rank |
+| Observer algebra | [T31](theorum/31_cut_variational_minimal_observer_theorem.md), [MR-01–07](theorum/morphic_recognition/README.md) | target faithfulness, blind quotient, exact memory-repair rank, future closure and finite typed gluing |
 | Covariance and event realization | [T32](theorum/32_cut_covariance_event_realization_theorem.md) | observer/cut covariance and event realization |
 | Stratified observer algebra | [SR-01–04](theorum/stratified_recognition/README.md) | target kernel, higher-stratum blindness, exact minimum sensor repair |
 
@@ -161,6 +162,12 @@ Use the audited [publication copy](theorum/morphic_algebra/main.tex) for mathema
 | Morphic Operator Geometry | [README](theorum/morphic_geometry/README.md), [audited manuscript](theorum/morphic_geometry/main.tex), [Recognition compatibility](theorum/morphic_geometry/RECOGNITION_COMPATIBILITY.md) | quotient geometry, phase connection, holonomy, curvature residue, Laplacian/heat, spectral metric |
 
 Both manuscript surfaces are `RNKE_VERIFIED_WITH_OPEN_OBLIGATIONS`. A compile-clean audited manuscript and status ledger do not make every historical claim a theorem.
+
+For the Morphic Calculus subsection “Convergence of Discrete Holonomy,” use the
+scoped [MR-07 area-scaling correction](theorum/morphic_recognition/07_holonomy_area_scaling.md).
+Perimeter scaling `h=T/n` gives the identity limit; `h=sqrt(tau/n)` gives
+`exp(tau K)` under the stated finite-matrix remainder bound. Nearby Euler-step
+BCH/Strang formulas are excluded from this correction's certification.
 
 ### 4.4 Recognition Topology
 
@@ -354,6 +361,14 @@ The register below distinguishes theorem capsules from plans, source maps, certi
 | MR-01 | [Typed Residue Non-Cancellation and Aggregator Faithfulness](theorum/morphic_recognition/01_typed_residue_non_cancellation.md) |
 | MR-02 | [Path Blindness and Minimal Memory Repair](theorum/morphic_recognition/02_path_blindness_minimal_memory_repair.md) |
 | MR-03 | [Cocycle-Lifted Path Recognition](theorum/morphic_recognition/03_cocycle_lifted_path_recognition.md) |
+| MR-04 | [Future-Complete Linear Recognition](theorum/morphic_recognition/04_future_complete_linear_recognition.md) |
+| MR-05 | [Seam Memory Gluing](theorum/morphic_recognition/05_seam_memory_gluing.md) |
+| MR-06 | [Guarded Lopa Future Equivalence](theorum/morphic_recognition/06_guarded_lopa_future_equivalence.md) |
+| MR-07 | [Holonomy Area Scaling](theorum/morphic_recognition/07_holonomy_area_scaling.md) |
+
+The [MR-04–07 evidence package](theorum/morphic_recognition/MEMORY_DEVELOPMENT.md)
+keeps ordinary proofs, finite certificate results, and open smooth/physical
+extensions separate. Its scope does not certify the whole historical manuscripts.
 
 <a id="recognition-topology-register"></a>
 

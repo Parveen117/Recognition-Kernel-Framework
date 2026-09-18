@@ -102,3 +102,14 @@ complete theorem map: theorum/README.md
 ```
 
 Future theorem development should branch from current `main`, preserve individual evidence labels, and return through a verified fast-forward or reviewed merge. Otherwise the repository will resume its natural ambition to become a maze.
+
+## MR-04–MR-07 development provenance (2026-09-18)
+
+This development starts from canonical `main` commit
+`86198d29cbf30390059079f38675c952e506ea9c`, on branch
+`agent/morphic-memory-certification-2026-09-18`.
+The [memory development package](morphic_recognition/MEMORY_DEVELOPMENT.md)
+extends MR-02 and the declared Pāṇinian operator interface. MR-07 supplies a
+scoped correction to the preserved Morphic Calculus manuscript. Exact source
+and test pins are recorded in the package manifest; no source snapshot is
+rewritten and no external mathematical review is implied by this provenance.

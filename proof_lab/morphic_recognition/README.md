@@ -50,3 +50,19 @@ RNKE_CONTRACT_VERIFIED
 ```
 
 The generated certificate is hash-bound and records the claim boundary explicitly.
+
+## MR-04–MR-07: future memory, guarded Lopa, and holonomy scaling
+
+The separate [memory development package](../../theorum/morphic_recognition/MEMORY_DEVELOPMENT.md)
+uses `memory.py`, `guarded.py`, and `holonomy.py`. Its source manifest binds
+the exact theorem, implementation, and test files. It rejects stale sources,
+missing obligations, failed negative controls, and changed archived evidence.
+
+```bash
+python3.12 -m unittest -v proof_lab.test_morphic_memory proof_lab.test_guarded_lopa proof_lab.test_holonomy_scaling proof_lab.test_memory_certificate proof_lab.test_mathematics_index
+python3.12 -m proof_lab.morphic_recognition.certify_memory --check-archive
+```
+
+The certificate records finite exact-arithmetic obligations. The universal
+statements under declared hypotheses are supported by the ordinary proofs in
+the capsules; no Lean/kernel or external peer-review status is claimed.

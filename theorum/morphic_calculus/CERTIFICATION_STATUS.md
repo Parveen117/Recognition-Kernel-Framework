@@ -15,3 +15,11 @@
 - `META_GUARD_NOT_MATHEMATICAL_CONSISTENCY_PROOF`: 1
 
 The native terminology and Ś-0/N-0 framing are retained. Open claims remain visible and are not silently promoted.
+
+## Later scoped correction
+
+[MR-07](../morphic_recognition/07_holonomy_area_scaling.md) supersedes the
+finite-matrix “Convergence of Discrete Holonomy” scaling claim. The surrounding
+Euler-step BCH/Strang statements are not certified by that correction. See
+[the memory package evidence](../morphic_recognition/MEMORY_VERIFICATION.md).
+The source hashes and historical claim counts above are preserved as provenance.

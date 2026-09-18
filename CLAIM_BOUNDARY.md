@@ -102,6 +102,20 @@ BRANCH CONSOLIDATION                                   DOES NOT ESTABLISH RH OR 
 
 Every later capsule keeps its own status, hypotheses, open obligations, source pins, and negative controls. The strongest honest claim is always the narrowest one supported by the referenced certificate.
 
+## MR-04–MR-07 memory development
+
+The [memory package](theorum/morphic_recognition/MEMORY_DEVELOPMENT.md) supplies
+ordinary proofs under explicit finite-dimensional/finite-state hypotheses and
+a separate source-pinned computational certificate. It treats full declared
+linear carriers, typed total linear transitions, finite partial rewrite rules,
+and finite-matrix holonomy limits in their respective capsules.
+
+It does not establish unrestricted smooth gluing, nonlinear/infinite-dimensional
+minimum memory, a physical TVSP identification, novelty priority, external peer
+review, or proof-assistant verification. Its finite PASS does not certify every
+claim in Morphic Algebra or Morphic Calculus. MR-07 supersedes only the specified
+holonomy scaling statement; nearby Euler/BCH claims remain excluded.
+
 ## Recognition Kernel interpretation
 
 The current public cartridge demonstrates the RNKE pattern on mathematical proof transport:

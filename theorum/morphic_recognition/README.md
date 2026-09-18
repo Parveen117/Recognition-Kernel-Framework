@@ -34,7 +34,24 @@ No application is allowed to upgrade a theorem's status merely because the appli
    - same projected morphism can retain distinct lawful memory;
    - path memory is independent of parenthesization.
 
-## Proof-status discipline
+## Future memory development: MR-04–MR-07
+
+The [first memory development package](MEMORY_DEVELOPMENT.md) adds:
+
+4. [Future-complete linear Recognition](04_future_complete_linear_recognition.md):
+   finite future-row closure, induced updates, and minimum linear memory.
+5. [Seam memory gluing](05_seam_memory_gluing.md): finite typed graph closure,
+   local factorization, exact repair rank, and backward memory propagation.
+6. [Guarded Lopa future equivalence](06_guarded_lopa_future_equivalence.md):
+   finite partial-rule quotients preserving outputs and rule availability.
+7. [Holonomy area scaling](07_holonomy_area_scaling.md): a finite-matrix
+   correction with explicit remainder bounds and exact shear calibration.
+
+Use [MEMORY_VERIFICATION.md](MEMORY_VERIFICATION.md) for actual run evidence
+and [MEMORY_CERTIFICATE.json](MEMORY_CERTIFICATE.json) for the source-pinned
+finite obligations. The earlier MR-01–03 verifier remains a separate package.
+
+## Proof-status discipline (all capsules)
 
 Each theorem has two separate evidence layers:
 
