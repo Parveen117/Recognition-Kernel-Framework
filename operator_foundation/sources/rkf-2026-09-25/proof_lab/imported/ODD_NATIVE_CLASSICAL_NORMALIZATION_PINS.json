@@ -1,0 +1,64 @@
+{
+  "schema": "rkf.odd_native_classical_normalization_pins.v1",
+  "source_manuscript": {
+    "name": "Recognition Kernel Native Completed-Weil Cut-Burden manuscript",
+    "sections": [
+      "13.5 The logarithmic representation theorem",
+      "13.6 Native completed-Weil form",
+      "14.1 The two-channel Hilbert envelope",
+      "14.2 The completed critical Weil form",
+      "14.3 The cut-to-X3 completion theorem",
+      "18.2 Classical shadow membrane",
+      "27.1 The full odd boundary form"
+    ]
+  },
+  "pins": {
+    "source_fourier_convention": {
+      "formula": "f-hat(z)=integral_R f(x) exp(i z x) dx; Plancherel factor 1/(2 pi)",
+      "status": "PROVED_SOURCE"
+    },
+    "source_translation_convention": {
+      "formula": "T_t h(x)=h(x-t); <f,T_t h> is linear in f",
+      "status": "PROVED_SOURCE"
+    },
+    "source_boundary_channels": {
+      "formula": "ell_+(f)=f-hat(i/2), ell_-(f)=f-hat(-i/2), B=ell_+ ell_-* + ell_- ell_+*",
+      "status": "PROVED_SOURCE"
+    },
+    "source_gamma_symbol": {
+      "formula": "G(xi)=Re psi(1/4+i xi/2)-log pi; A_Gamma=(1/(2 pi)) integral G f-hat h-hat*",
+      "status": "PROVED_SOURCE"
+    },
+    "source_prime_pairing": {
+      "formula": "P_(1/2)=sum Lambda(n)/sqrt(n) [<f,T_log n h>+<f,T_-log n h>]",
+      "status": "PROVED_SOURCE"
+    },
+    "source_logarithmic_unitary": {
+      "formula": "L F(x)=F(exp x), M F(xi)=widehat(LF)(-xi), L U_t L^-1=T_t, L J_times L^-1=kappa",
+      "status": "PROVED_SOURCE"
+    },
+    "source_odd_reflection_core": {
+      "formula": "D^-={f in C_c^infty(R):f(-x)=-f(x)} is dense in X_3^- and ell_-(f)=-ell_+(f)",
+      "status": "PROVED_SOURCE"
+    },
+    "classical_completed_explicit_formula": {
+      "formula": "E_xi(q)=sym sum_rho q-hat((rho-1/2)/i) in the same completed-xi normalization",
+      "source": "classical Weil explicit formula as pinned by the source manuscript [Weil 1952; Titchmarsh]",
+      "status": "PINNED_CLASSICAL_INPUT_NOT_REDERIVED"
+    },
+    "stage3g_strict_odd_native_sign": {
+      "expected_hash": "551c3e5bd4e8406032dcffcd017660442897f7e9be4ddb5206a3acbf6c195fd2",
+      "status": "USER_CERTIFICATE_REQUIRED"
+    },
+    "parity_restricted_weil_implication": {
+      "required": "strict positivity of the same classical Weil form on every nonzero odd compactly supported smooth test function implies RH",
+      "status": "OPEN_NEXT"
+    }
+  },
+  "claim_boundary": {
+    "termwise_native_classical_normalization": "STAGE3H_TARGET",
+    "classical_zero_sum_identity": "PINNED_NOT_REDERIVED",
+    "parity_restricted_weil_implication": "OPEN_NEXT",
+    "rh": "NOT_CLAIMED"
+  }
+}

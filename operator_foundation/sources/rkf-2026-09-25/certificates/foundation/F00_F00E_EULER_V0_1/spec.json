@@ -1,0 +1,69 @@
+{
+  "schema": "rh-framework-foundational-certificate-spec-v0.1",
+  "certificate_class": "F",
+  "certificate_id": "F00_F00E_EULER_V0_1",
+  "theorems": [
+    "F00",
+    "F00-E"
+  ],
+  "authoritative_sources": [
+    {
+      "path": "src/rh_framework/native_summability.py",
+      "expected_git_blob_sha1": "77011e37ebfe42d916ab465cfe5666038a4ad7cb"
+    },
+    {
+      "path": "theorems/foundation/F00E_NATIVE_EULER_FROM_IOTA_COMPLEX.md",
+      "expected_git_blob_sha1": "9ea9c78aa12d8fa0db5b4c87b9463d64a4751f41"
+    },
+    {
+      "path": "certificates/foundation/NUMERICAL_PROOF_PROTOCOL.md"
+    }
+  ],
+  "audit_packet": {
+    "scalar_numerators": [
+      -2,
+      -1,
+      0,
+      1,
+      2
+    ],
+    "scalar_denominators": [
+      1,
+      2,
+      3
+    ],
+    "binomial_degree_max": 64,
+    "factorial_tail_radius": "4",
+    "factorial_tail_truncation": 16,
+    "unit_tangent_radius": "1/8",
+    "euler_argument_values": [
+      "-2",
+      "-1",
+      "-1/2",
+      "0",
+      "1/2",
+      "1",
+      "2"
+    ],
+    "euler_truncation": 24,
+    "flow_polynomial_degree_max": 8
+  },
+  "required_obligations": [
+    "C00-01",
+    "C00-02",
+    "C00-03",
+    "C00-04",
+    "C00-05",
+    "C00-06",
+    "C00E-01",
+    "C00E-02",
+    "C00E-03",
+    "C00E-04",
+    "C00E-05",
+    "C00E-06",
+    "C00E-07",
+    "C00E-08"
+  ],
+  "passing_status": "PASS_F00_F00E_RIGOROUS_COMPUTATIONAL_AUDIT",
+  "claim_boundary": "Foundational computational audit only; no completed-Weil sign, endpoint sign, or RH promotion."
+}

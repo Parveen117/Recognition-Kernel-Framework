@@ -1,0 +1,62 @@
+name: Morphic Recognition RNKE Proof Contract
+
+on:
+  push:
+    branches:
+      - agent/morphic-path-recognition-theorems
+      - main
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  morphic-recognition-proof:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ['3.11', '3.12']
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Compile proof sources
+        run: python -m compileall -q proof_lab/morphic_recognition proof_lab/test_morphic_recognition.py
+
+      - name: Run theorem contract tests
+        run: python -m unittest -v proof_lab.test_morphic_recognition
+
+      - name: Generate exact RNKE proof-contract certificate
+        run: |
+          python -m proof_lab.morphic_recognition.verify \
+            --output proof_lab/morphic_recognition/MORPHIC_RECOGNITION_ACTUAL.json
+
+      - name: Verify certificate status and claim boundary
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path('proof_lab/morphic_recognition/MORPHIC_RECOGNITION_ACTUAL.json')
+          data = json.loads(path.read_text(encoding='utf-8'))
+          assert data['status'] == 'RNKE_CONTRACT_VERIFIED', data
+          assert data['theorem_count'] == 3, data
+          assert data['claim_boundary']['formal_proof_assistant'] is False, data
+          assert data['claim_boundary']['domain_adapter'] is None, data
+          assert len(data['certificate_sha256']) == 64, data
+          print('PASS_MORPHIC_RECOGNITION_RNKE_PROOF_CONTRACT', data['certificate_sha256'])
+          PY
+
+      - name: Upload RNKE proof-contract certificate
+        uses: actions/upload-artifact@v4
+        with:
+          name: morphic-recognition-rnke-proof-contract-py${{ matrix.python-version }}
+          path: proof_lab/morphic_recognition/MORPHIC_RECOGNITION_ACTUAL.json

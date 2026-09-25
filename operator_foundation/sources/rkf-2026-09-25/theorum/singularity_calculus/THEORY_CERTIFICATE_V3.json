@@ -1,0 +1,69 @@
+{
+  "kind": "RNKE_VERIFIED_SINGULARITY_THEORY_V3_JUNCTION_CERTIFICATE",
+  "status": "RNKE_VERIFIED_SINGULARITY_THEORY_V3_WITH_EXCLUSIONS",
+  "base_theory": {
+    "certificate_path": "theorum/singularity_calculus/THEORY_CERTIFICATE_V2.json",
+    "scope": "SC-01 through SC-11"
+  },
+  "extension_file": {
+    "path": "theorum/singularity_calculus/VERIFIED_THEORY_JUNCTION_EXTENSION.md",
+    "git_blob_sha": "774335981b5bf54777d54bf2eb6ad2419d74a4ce"
+  },
+  "validated_theorem_head": {
+    "branch": "agent/morphic-path-recognition-theorems",
+    "commit": "431408ff4dadfe13cb917c96e0c46dd3cd8ab048"
+  },
+  "final_repository_validation": {
+    "head_before_certificate_rebind": "401afb65cf85c312d961aa5b661b9b1d5a0eedfb",
+    "ci_run_id": 31259590144,
+    "python_3_11": "success",
+    "python_3_12": "success"
+  },
+  "new_theorems": [
+    {
+      "id": "SC-12",
+      "path": "theorum/singularity_calculus/12_normal_crossing_no_spurious_double_delta.md",
+      "git_blob_sha": "ecef5fa9f6eb0e2401ac9d696d09f9d3631b85b1",
+      "status": "PROVED_NORMAL_CROSSING_NO_SPURIOUS_DOUBLE_DELTA"
+    },
+    {
+      "id": "SC-13",
+      "path": "theorum/singularity_calculus/13_stratified_bianchi_junction_residue.md",
+      "git_blob_sha": "9dc3868ce652744a64948c2140ec3c7c848832ad",
+      "status": "PROVED_STRATIFIED_BIANCHI_JUNCTION_LAW"
+    }
+  ],
+  "central_results": {
+    "first_curvature": "d alpha contains bulk and codimension-1 seam currents, but no independent delta(rho1)delta(rho2) junction term",
+    "mixed_jump": "Delta_1^+ alpha - Delta_1^- alpha = Delta_2^+ alpha - Delta_2^- alpha",
+    "junction_residue": "J_12 = Delta_1 beta_2 - Delta_2 beta_1",
+    "stratified_bianchi_packet": "B_strat=(d Omega_bulk; B_1,B_2;J_12)",
+    "closure": "d Omega = 0 iff every bulk Bianchi, seam Bianchi, and junction residue channel vanishes",
+    "genuine_piecewise_potential": "Omega=d alpha implies J_12=0 by d^2 alpha=0"
+  },
+  "proof_lab": {
+    "verifier_blob_sha": "e45316160aa1a8e4536041bf08300cc172c56fce",
+    "test_blob_sha": "e7da6eb263cab086224373ea1c482bf2de0e9975",
+    "unit_tests": "19/19 PASS",
+    "exact_controls": 18,
+    "calibration_status": "PASS_SINGULARITY_CALCULUS_CALIBRATION",
+    "ci_workflow": "Singularity Calculus Certification",
+    "theorem_head_ci_run_id": 31259516097,
+    "ci_python_3_11": "success",
+    "ci_python_3_12": "success"
+  },
+  "claim_boundary": {
+    "formal_proof_assistant": false,
+    "transverse_two_seam_normal_crossing": true,
+    "double_delta_in_d_alpha": false,
+    "nontransverse_junctions": false,
+    "triple_or_higher_junctions": false,
+    "global_integrability_from_closed_stratified_data": false,
+    "automatic_topological_transition": false,
+    "universal_physical_identification": false,
+    "atomic_periodic_table_claims": false,
+    "chemical_bond_valence_claims": false,
+    "device_performance_claims": false,
+    "statement": "Verified transverse two-seam junction/Bianchi extension. Higher, nontransverse, global-integrability, and domain-specific identifications remain outside the certified scope."
+  }
+}

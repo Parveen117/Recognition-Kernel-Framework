@@ -1,0 +1,69 @@
+{
+  "burden": {
+    "active_band_upper": 0.2976678523563374,
+    "beta_zero_upper": 0.8290856201657449,
+    "first_cell_upper": 7.670975092815261e-05,
+    "outside_upper": 0.5313410580584792,
+    "threshold_reserve_lower": 0.17091437983425506
+  },
+  "checks": {
+    "direct_unshifted_burden_subcritical": true,
+    "every_active_floor_positive": true,
+    "first_cut_uses_quadratic_opening": true,
+    "no_shifted_beta_consumed": true,
+    "outside_floor_positive": true
+  },
+  "claim_boundary": {
+    "beta_zero_less_than_one": "SOURCE_PACKET_CLAIM",
+    "direct_cut_envelope": "SOURCE_PACKET_CLAIM",
+    "event_orientation_in_RKF": "NOT_YET_PROVED",
+    "public_promotion": "NOT_PERFORMED",
+    "shifted_scalar_needed": "NO"
+  },
+  "largest_active_terms": [
+    {"cell": 1, "left": 0.005, "right": 0.01, "source_floor_lower": 0.0003621153431171327, "upper": 0.00030683900371261056},
+    {"cell": 2, "left": 0.01, "right": 0.015, "source_floor_lower": 0.0010685564398622048, "upper": 0.0002339605009841488},
+    {"cell": 141, "left": 0.705, "right": 0.71, "source_floor_lower": 2.5703273865961904, "upper": 0.0002161419430274452},
+    {"cell": 140, "left": 0.7000000000000001, "right": 0.705, "source_floor_lower": 2.5579636455934676, "upper": 0.00021589438964519057},
+    {"cell": 142, "left": 0.71, "right": 0.715, "source_floor_lower": 2.582550298304052, "upper": 0.00021511896822315002},
+    {"cell": 143, "left": 0.715, "right": 0.72, "source_floor_lower": 2.594634062644364, "upper": 0.00021411711329702977},
+    {"cell": 139, "left": 0.6950000000000001, "right": 0.7000000000000001, "source_floor_lower": 2.545457388853652, "upper": 0.00021388864996464777},
+    {"cell": 144, "left": 0.72, "right": 0.725, "source_floor_lower": 2.606580356123249, "upper": 0.0002131357869902121},
+    {"cell": 145, "left": 0.725, "right": 0.73, "source_floor_lower": 2.61839084897386, "upper": 0.00021217441841170375},
+    {"cell": 138, "left": 0.6900000000000001, "right": 0.6950000000000001, "source_floor_lower": 2.5328069263827424, "upper": 0.00021189710074385006},
+    {"cell": 146, "left": 0.73, "right": 0.735, "source_floor_lower": 2.630067204356777, "upper": 0.00021123245620312028},
+    {"cell": 147, "left": 0.735, "right": 0.74, "source_floor_lower": 2.641611077610335, "upper": 0.00021030936774315954},
+    {"cell": 137, "left": 0.685, "right": 0.6900000000000001, "source_floor_lower": 2.520010565657474, "upper": 0.0002099197547856248},
+    {"cell": 148, "left": 0.74, "right": 0.745, "source_floor_lower": 2.6530241155487198, "upper": 0.00020940463838967083},
+    {"cell": 149, "left": 0.745, "right": 0.75, "source_floor_lower": 2.664307955805737, "upper": 0.00020851777075730176},
+    {"cell": 136, "left": 0.68, "right": 0.685, "source_floor_lower": 2.507066612709718, "upper": 0.0002079566248730854},
+    {"cell": 150, "left": 0.75, "right": 0.755, "source_floor_lower": 2.6754642262222403, "upper": 0.00020764828402882488},
+    {"cell": 151, "left": 0.755, "right": 0.76, "source_floor_lower": 2.686494544275256, "upper": 0.00020679571329836066},
+    {"cell": 135, "left": 0.675, "right": 0.68, "source_floor_lower": 2.4939733732754137, "upper": 0.00020600772377253487},
+    {"cell": 152, "left": 0.76, "right": 0.765, "source_floor_lower": 2.6974005165469364, "upper": 0.00020595960894481758}
+  ],
+  "parameters": {
+    "active_cells": 2400,
+    "active_edge": 12.0,
+    "boundary_total_mass_upper": 0.08333333333333333,
+    "far_edge": 13.0,
+    "first_moment_upper": 0.3333333333333333,
+    "l1_boundary_upper": 0.2357022603955158,
+    "step": 0.005
+  },
+  "provenance": {
+    "source": "conversation upload t21-direct-unshifted-cut-burden.zip",
+    "imported_into_rkf": true,
+    "mathematical_use": "scalar envelope and arithmetic audit only until same-event orientation is proved"
+  },
+  "schema": "native-t21-direct-unshifted-cut-burden-v0.1",
+  "source_profile": {
+    "far_ray_floor_lower": 0.1568358628972386,
+    "minimum_positive_floor": 0.0003621153431171327,
+    "near_zero_slope_gap_lower": 28.96922744937062,
+    "outside_branch_floor_lower": 0.45712601707093975,
+    "prime_power_count": 78734,
+    "terminal_active_floor": 5.206639333818032
+  },
+  "status": "PASS_T21_DIRECT_UNSHIFTED_CUT_BURDEN"
+}

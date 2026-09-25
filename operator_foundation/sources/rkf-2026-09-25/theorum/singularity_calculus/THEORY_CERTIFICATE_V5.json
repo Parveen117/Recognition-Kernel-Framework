@@ -1,0 +1,88 @@
+{
+  "kind": "RNKE_VERIFIED_SINGULARITY_THEORY_V5_GENERAL_COMPLEX_CERTIFICATE",
+  "status": "RNKE_VERIFIED_SINGULARITY_THEORY_V5_WITH_EXCLUSIONS",
+  "base_theory": {
+    "certificate_path": "theorum/singularity_calculus/THEORY_CERTIFICATE_V4.json",
+    "certificate_blob_sha": "aae5db9014b7525c023a6b34ecca6c51792e0876",
+    "scope": "SC-01 through SC-15"
+  },
+  "extension_file": {
+    "path": "theorum/singularity_calculus/VERIFIED_THEORY_GENERAL_COMPLEX_EXTENSION.md"
+  },
+  "validated_theorem_head": {
+    "branch": "agent/singularity-normal-crossing-complex-v5",
+    "commit": "6e113dec673920a9c201041542e125d26777025f",
+    "ci_run_id": 31262484822,
+    "python_3_11": "success",
+    "python_3_12": "success"
+  },
+  "new_theorems": [
+    {
+      "id": "SC-16",
+      "path": "theorum/singularity_calculus/16_general_normal_crossing_jump_complex.md",
+      "git_blob_sha": "ad0e8c14dc4e46f9d3d6a3eb6e917fdb63d589a4",
+      "status": "PROVED_GENERAL_JUMP_COMPLEX_NILPOTENCE"
+    },
+    {
+      "id": "SC-17",
+      "path": "theorum/singularity_calculus/17_total_stratified_differential.md",
+      "git_blob_sha": "5bd615e566206e17643deb2a402816718bb2e33c",
+      "status": "PROVED_TOTAL_STRATIFIED_NILPOTENCE"
+    },
+    {
+      "id": "SC-18",
+      "path": "theorum/singularity_calculus/18_general_realizability_obstruction_and_cohomology.md",
+      "git_blob_sha": "f6f01be66c08d46e436588c34b826e7fef46bc38",
+      "status": "PROVED_GENERAL_REALIZABILITY_OBSTRUCTION"
+    }
+  ],
+  "central_results": {
+    "jump_complex": "C_Delta^k=direct_sum_{|I|=k} A_I with alternating D_Delta",
+    "jump_nilpotence": "D_Delta^2=0 under commuting normal-crossing jump squares",
+    "total_differential": "mathbb_D=d+(-1)^p D_Delta",
+    "total_nilpotence": "mathbb_D^2=0 when d^2=0, D_Delta^2=0, and d D_Delta = D_Delta d",
+    "realizability_gate": "D_Delta c != 0 implies c is not in im(D_Delta)",
+    "jump_cohomology": "H_Delta^k=ker(D_Delta)/im(D_Delta)",
+    "converse_boundary": "D_Delta c=0 is necessary local compatibility only; exactness/global reconstruction is not automatic"
+  },
+  "proof_lab": {
+    "general_verifier_blob_sha": "7c958ad853f3cfc1e97067f9beccd0dc7168fc45",
+    "general_test_blob_sha": "b18bd3b749010c102235f23b908a7f681b817898",
+    "legacy_unit_tests": "23/23 PASS",
+    "general_unit_tests": "7/7 PASS",
+    "combined_unit_tests": "30/30 PASS",
+    "legacy_exact_controls": 18,
+    "triple_exact_controls": 3,
+    "general_exact_controls": 6,
+    "combined_exact_controls": 27,
+    "general_nilpotence_cases_n2_to_n8": 28,
+    "legacy_calibration_status": "PASS_SINGULARITY_CALCULUS_CALIBRATION",
+    "triple_calibration_status": "PASS_TRIPLE_NORMAL_CROSSING_CALIBRATION",
+    "general_calibration_status": "PASS_GENERAL_NORMAL_CROSSING_COMPLEX_CALIBRATION",
+    "negative_controls": [
+      "removing alternating jump signs gives nonzero square",
+      "wrong totalization sign gives nonzero square",
+      "corrupted derived stratum packets fail the next realizability gate"
+    ]
+  },
+  "freeze": {
+    "vertical_finite_normal_crossing_development": "CLOSED_AT_GENERAL_COMPLEX_LEVEL",
+    "reason": "SC-16 replaces manual codimension-by-codimension formulas by one n-seam complex",
+    "future_singularity_work_requires_new_phenomenon": true
+  },
+  "claim_boundary": {
+    "formal_proof_assistant": false,
+    "finite_normal_crossing_system": true,
+    "commuting_jump_squares": true,
+    "nontransverse_strata": false,
+    "infinite_seam_families": false,
+    "jump_complex_acyclicity": false,
+    "global_potential_reconstruction": false,
+    "automatic_topological_transition": false,
+    "universal_physical_interpretation": false,
+    "atomic_periodic_table_claims": false,
+    "chemical_bond_valence_claims": false,
+    "device_performance_claims": false,
+    "statement": "Verified finite normal-crossing jump/total-complex and fail-closed realizability-obstruction layer. Exactness, nontransverse/infinite extensions, global reconstruction, and domain-specific interpretations remain outside the certified scope."
+  }
+}

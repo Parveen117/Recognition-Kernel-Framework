@@ -1,0 +1,160 @@
+{
+  "checks": {
+    "exact_rational_arithmetic": true,
+    "faithfulness_transfer_all_checks": true,
+    "minimal_observer_all_checks": true,
+    "no_rh_data_used": true,
+    "source_restriction_all_checks": true,
+    "variational_tail_all_checks": true
+  },
+  "claim_boundary": {
+    "not_claimed": [
+      "completed-Weil adverse memory rank five",
+      "completed-Weil native observer action",
+      "RH finite seam matrix",
+      "RH"
+    ],
+    "proved_by_exact_calibration": [
+      "zero cut action characterizes target faithfulness",
+      "minimum faithful observer rank equals memory rank",
+      "observer rank without correct orientation is insufficient",
+      "target-relative blind dimension five needs five repair channels",
+      "recognition-complete residual and observer action transfer to zero",
+      "Hilbert-Schmidt observer action equals the discarded singular-value tail"
+    ]
+  },
+  "faithfulness_transfer": {
+    "checks": {
+      "faithfulness_residual_contracts": true,
+      "limit_action_zero": true,
+      "limit_memory_rank_five": true,
+      "limit_residual_zero": true,
+      "observer_action_contracts": true,
+      "observer_orientation_fixed": true,
+      "transfer_bound_exact_at_m": true,
+      "transfer_bound_exact_at_n": true
+    },
+    "faithfulness_residual_limit": "0",
+    "faithfulness_residual_m": "1/18",
+    "faithfulness_residual_n": "1/10",
+    "limit_memory_rank": 5,
+    "observer_action_limit": "0",
+    "observer_action_m": "1/324",
+    "observer_action_n": "1/100",
+    "refinements": {
+      "m": 16,
+      "n": 8
+    },
+    "schema": "rkf.recognition_complete_observer_transfer.v1",
+    "transfer_bound_m": "1/18",
+    "transfer_bound_n": "1/10",
+    "visible_memory_amplitudes": [
+      "1/2",
+      "2/3",
+      "3/4",
+      "4/5",
+      "9/10"
+    ]
+  },
+  "minimal_observer": {
+    "checks": {
+      "memory_rank_is_five": true,
+      "rank_count_without_orientation_not_faithful": true,
+      "rank_five_action_zero": true,
+      "rank_four_action_positive": true
+    },
+    "memory_rank": 5,
+    "rank_five_minimum_action": "0",
+    "rank_four_minimum_action": "1/25",
+    "schema": "rkf.cut_variational_minimal_observer.v1",
+    "singular_values": [
+      "1",
+      "4/5",
+      "3/5",
+      "2/5",
+      "1/5",
+      "0",
+      "0"
+    ],
+    "wrong_rank_five_orientation_action": "1/25"
+  },
+  "schema": "rkf.cut_variational_minimal_observer_certificate.v1",
+  "source_restriction": {
+    "checks": {
+      "collapse_rank_45": true,
+      "five_channels_restore_full_rank": true,
+      "four_channels_cannot_separate_five_dimensional_blind_space": true,
+      "split_repair_injective": true,
+      "target_relevant_blind_dimension_five": true
+    },
+    "collapsed_rank": 45,
+    "formal_dimension": 50,
+    "minimal_repair_channels": 5,
+    "repaired_rank": 50,
+    "schema": "rkf.target_relative_source_restriction.v1",
+    "split_occurrence_determinant": "-2592",
+    "split_occurrence_matrix": [
+      [
+        "-6",
+        "-6",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "6",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0",
+        "-12",
+        "-6",
+        "0"
+      ],
+      [
+        "0",
+        "0",
+        "6",
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0",
+        "0",
+        "0",
+        "2"
+      ]
+    ],
+    "target_relevant_blind_dimension": 5
+  },
+  "status": "PASS_CUT_VARIATIONAL_MINIMAL_OBSERVER_V0_1",
+  "variational_tail": {
+    "checks": {
+      "actions_monotone": true,
+      "rank_five_tail": true,
+      "rank_four_tail": true,
+      "rank_six_tail_zero": true,
+      "rank_three_tail": true
+    },
+    "minimum_actions_by_rank": {
+      "3": "21/100",
+      "4": "1/20",
+      "5": "1/100",
+      "6": "0"
+    },
+    "schema": "rkf.cut_variational_tail.v1",
+    "singular_values": [
+      "1",
+      "4/5",
+      "3/5",
+      "2/5",
+      "1/5",
+      "1/10"
+    ]
+  }
+}

@@ -1,0 +1,642 @@
+name: RKF proof-lab CI
+
+on:
+  push:
+    branches:
+      - agent/bilateral-jet-flow-capstone
+      - agent/madhava-smriti-jet-flow-closure
+      - agent/directed-arithmetic-analytic-closure
+      - agent/first-visible-jet-seam-quotient
+      - agent/source-bound-numerical-validation
+      - agent/semantic-paninian-normal-form
+      - agent/consolidate-all-work-2026-09-12
+      - theorem-49-local-to-uniform-seam-gap
+      - main
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  proof-lab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ['3.11', '3.12']
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Install runtime dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install numpy
+
+      - name: Compile Python sources
+        run: python -m compileall -q proof_lab
+
+      - name: Run proof-lab tests
+        run: python -m unittest discover -v -s proof_lab -p 'test_*.py'
+
+      - name: Reproduce semantic Paninian normal-form certificate
+        run: |
+          python -m proof_lab.semantic_paninian_normal_form \
+            --output proof_lab/SEMANTIC_PANINIAN_NORMAL_FORM_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/SEMANTIC_PANINIAN_NORMAL_FORM_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/SEMANTIC_PANINIAN_NORMAL_FORM_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_SEMANTIC_PANINIAN_NORMAL_FORM_HASH', actual)
+          PY
+
+      - name: Reproduce bilateral jet-flow capstone certificate
+        run: |
+          python -m proof_lab.bilateral_jet_flow_capstone \
+            --output proof_lab/BILATERAL_JET_FLOW_CAPSTONE_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/BILATERAL_JET_FLOW_CAPSTONE_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/BILATERAL_JET_FLOW_CAPSTONE_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_BILATERAL_JET_FLOW_CAPSTONE_HASH', actual)
+          PY
+
+      - name: Reproduce Madhava-Smriti closure certificate
+        run: |
+          python -m proof_lab.madhava_smriti_bilateral_jet_flow \
+            --output proof_lab/MADHAVA_SMRITI_BILATERAL_JET_FLOW_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path(
+                  'proof_lab/MADHAVA_SMRITI_BILATERAL_JET_FLOW_ACTUAL.json'
+              ).read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/MADHAVA_SMRITI_BILATERAL_JET_FLOW_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_MADHAVA_SMRITI_BILATERAL_JET_FLOW_HASH', actual)
+          PY
+
+      - name: Reproduce directed arithmetic-analytic closure certificate
+        run: |
+          python -m proof_lab.directed_arithmetic_analytic_closure \
+            --output proof_lab/DIRECTED_ARITHMETIC_ANALYTIC_CLOSURE_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path(
+                  'proof_lab/DIRECTED_ARITHMETIC_ANALYTIC_CLOSURE_ACTUAL.json'
+              ).read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/DIRECTED_ARITHMETIC_ANALYTIC_CLOSURE_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_DIRECTED_ARITHMETIC_ANALYTIC_CLOSURE_HASH', actual)
+          PY
+
+      - name: Reproduce first-visible-jet seam quotient certificate
+        run: |
+          python -m proof_lab.first_visible_jet_seam_quotient \
+            --output proof_lab/FIRST_VISIBLE_JET_SEAM_QUOTIENT_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path(
+                  'proof_lab/FIRST_VISIBLE_JET_SEAM_QUOTIENT_ACTUAL.json'
+              ).read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/FIRST_VISIBLE_JET_SEAM_QUOTIENT_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_FIRST_VISIBLE_JET_SEAM_QUOTIENT_HASH', actual)
+          PY
+
+      - name: Reproduce source-bound proof-carrying numerical certificate
+        run: |
+          python -m proof_lab.source_bound_numerical_validation \
+            --output proof_lab/SOURCE_BOUND_PROOF_CARRYING_NUMERICAL_VALIDATION_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path(
+                  'proof_lab/SOURCE_BOUND_PROOF_CARRYING_NUMERICAL_VALIDATION_ACTUAL.json'
+              ).read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/SOURCE_BOUND_PROOF_CARRYING_NUMERICAL_VALIDATION_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_SOURCE_BOUND_PROOF_CARRYING_NUMERICAL_VALIDATION_HASH', actual)
+          PY
+
+      - name: Reproduce EMK algebra cut-graded curvature certificate
+        run: |
+          python -m proof_lab.emk_algebra_cut_graded_curvature \
+            --output proof_lab/EMK_ALGEBRA_CUT_GRADED_CURVATURE_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path(
+                  'proof_lab/EMK_ALGEBRA_CUT_GRADED_CURVATURE_ACTUAL.json'
+              ).read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/EMK_ALGEBRA_CUT_GRADED_CURVATURE_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_EMK_ALGEBRA_CUT_GRADED_CURVATURE_HASH', actual)
+          PY
+
+      - name: Reproduce local-to-uniform seam gap certificate
+        run: |
+          python -m proof_lab.local_to_uniform_seam_gap \
+            --output proof_lab/LOCAL_TO_UNIFORM_SEAM_GAP_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/LOCAL_TO_UNIFORM_SEAM_GAP_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/LOCAL_TO_UNIFORM_SEAM_GAP_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_LOCAL_TO_UNIFORM_SEAM_GAP_HASH', actual)
+          PY
+
+      - name: Reproduce canvas operators nativized certificate
+        run: |
+          python -m proof_lab.canvas_operators_nativized \
+            --output proof_lab/CANVAS_OPERATORS_NATIVIZED_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/CANVAS_OPERATORS_NATIVIZED_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/CANVAS_OPERATORS_NATIVIZED_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_CANVAS_OPERATORS_NATIVIZED_HASH', actual)
+          PY
+
+      - name: Reproduce native seam gap / odd-sector covariance certificate
+        run: |
+          python -m proof_lab.native_seam_gap_odd_covariance \
+            --output proof_lab/NATIVE_SEAM_GAP_ODD_COVARIANCE_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/NATIVE_SEAM_GAP_ODD_COVARIANCE_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/NATIVE_SEAM_GAP_ODD_COVARIANCE_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_NATIVE_SEAM_GAP_ODD_COVARIANCE_HASH', actual)
+          PY
+
+      - name: Reproduce odd-channel exchange law certificate
+        run: |
+          python -m proof_lab.odd_channel_exchange_law \
+            --output proof_lab/ODD_CHANNEL_EXCHANGE_LAW_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/ODD_CHANNEL_EXCHANGE_LAW_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/ODD_CHANNEL_EXCHANGE_LAW_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_ODD_CHANNEL_EXCHANGE_LAW_HASH', actual)
+          PY
+
+      - name: Reproduce native seam resolvent certificate
+        run: |
+          python -m proof_lab.native_seam_resolvent \
+            --output proof_lab/NATIVE_SEAM_RESOLVENT_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/NATIVE_SEAM_RESOLVENT_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/NATIVE_SEAM_RESOLVENT_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_NATIVE_SEAM_RESOLVENT_HASH', actual)
+          PY
+
+      - name: Reproduce native cut-square factorization certificate
+        run: |
+          python -m proof_lab.native_cut_square_factorization \
+            --output proof_lab/NATIVE_CUT_SQUARE_FACTORIZATION_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/NATIVE_CUT_SQUARE_FACTORIZATION_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/NATIVE_CUT_SQUARE_FACTORIZATION_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_NATIVE_CUT_SQUARE_FACTORIZATION_HASH', actual)
+          PY
+
+      - name: Reproduce infinite-face recognition completion certificate
+        run: |
+          python -m proof_lab.infinite_face_recognition_completion \
+            --output proof_lab/INFINITE_FACE_RECOGNITION_COMPLETION_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/INFINITE_FACE_RECOGNITION_COMPLETION_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/INFINITE_FACE_RECOGNITION_COMPLETION_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_INFINITE_FACE_RECOGNITION_COMPLETION_HASH', actual)
+          PY
+
+      - name: Reproduce Generalized Euler / EMK dock certificate
+        run: |
+          python -m proof_lab.generalized_euler_emk_dock \
+            --output proof_lab/GENERALIZED_EULER_EMK_DOCK_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/GENERALIZED_EULER_EMK_DOCK_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/GENERALIZED_EULER_EMK_DOCK_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_GENERALIZED_EULER_EMK_DOCK_HASH', actual)
+          PY
+
+      - name: Reproduce loop-residue / first-visible-jet binding certificate
+        run: |
+          python -m proof_lab.loop_residue_first_visible_jet_binding \
+            --output proof_lab/LOOP_RESIDUE_FIRST_VISIBLE_JET_BINDING_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/LOOP_RESIDUE_FIRST_VISIBLE_JET_BINDING_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/LOOP_RESIDUE_FIRST_VISIBLE_JET_BINDING_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_LOOP_RESIDUE_FIRST_VISIBLE_JET_BINDING_HASH', actual)
+          PY
+
+      - name: Reproduce Paninian seam calculus certificate
+        run: |
+          python -m proof_lab.paninian_seam_calculus \
+            --output proof_lab/PANINIAN_SEAM_CALCULUS_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/PANINIAN_SEAM_CALCULUS_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/PANINIAN_SEAM_CALCULUS_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_PANINIAN_SEAM_CALCULUS_HASH', actual)
+          PY
+
+      - name: Reproduce prime letter operators certificate
+        run: |
+          python -m proof_lab.prime_letter_operators \
+            --output proof_lab/PRIME_LETTER_OPERATORS_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/PRIME_LETTER_OPERATORS_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/PRIME_LETTER_OPERATORS_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_PRIME_LETTER_OPERATORS_HASH', actual)
+          PY
+
+      - name: Reproduce seam-compensated confluence verdict certificate
+        run: |
+          python -m proof_lab.seam_compensated_confluence_verdict \
+            --output proof_lab/SEAM_COMPENSATED_CONFLUENCE_VERDICT_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/SEAM_COMPENSATED_CONFLUENCE_VERDICT_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/SEAM_COMPENSATED_CONFLUENCE_VERDICT_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_SEAM_COMPENSATED_CONFLUENCE_VERDICT_HASH', actual)
+          PY
+
+      - name: Reproduce rewrite rules as cut-module operators certificate
+        run: |
+          python -m proof_lab.rewrite_rules_as_cut_module_operators \
+            --output proof_lab/REWRITE_RULES_AS_CUT_MODULE_OPERATORS_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/REWRITE_RULES_AS_CUT_MODULE_OPERATORS_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/REWRITE_RULES_AS_CUT_MODULE_OPERATORS_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_REWRITE_RULES_AS_CUT_MODULE_OPERATORS_HASH', actual)
+          PY
+
+      - name: Reproduce silence-vibration / sutra-flow certificate
+        run: |
+          python -m proof_lab.silence_vibration_sutra_flow \
+            --output proof_lab/SILENCE_VIBRATION_SUTRA_FLOW_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/SILENCE_VIBRATION_SUTRA_FLOW_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/SILENCE_VIBRATION_SUTRA_FLOW_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_SILENCE_VIBRATION_SUTRA_FLOW_HASH', actual)
+          PY
+
+      - name: Reproduce sup-vibhakti resolver ladder certificate
+        run: |
+          python -m proof_lab.sup_vibhakti_resolver_ladder \
+            --output proof_lab/SUP_VIBHAKTI_RESOLVER_LADDER_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/SUP_VIBHAKTI_RESOLVER_LADDER_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/SUP_VIBHAKTI_RESOLVER_LADDER_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_SUP_VIBHAKTI_RESOLVER_LADDER_HASH', actual)
+          PY
+
+      - name: Reproduce ting lat parasmaipada certificate
+        run: |
+          python -m proof_lab.ting_lat_parasmaipada \
+            --output proof_lab/TING_LAT_PARASMAIPADA_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/TING_LAT_PARASMAIPADA_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/TING_LAT_PARASMAIPADA_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_TING_LAT_PARASMAIPADA_HASH', actual)
+          PY
+
+      - name: Reproduce stem classes / Gayatri coverage certificate
+        run: |
+          python -m proof_lab.stem_classes_gayatri_coverage \
+            --output proof_lab/STEM_CLASSES_GAYATRI_COVERAGE_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/STEM_CLASSES_GAYATRI_COVERAGE_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/STEM_CLASSES_GAYATRI_COVERAGE_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_STEM_CLASSES_GAYATRI_COVERAGE_HASH', actual)
+          PY
+
+      - name: Reproduce lat atmanepada certificate
+        run: |
+          python -m proof_lab.lat_atmanepada \
+            --output proof_lab/LAT_ATMANEPADA_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/LAT_ATMANEPADA_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/LAT_ATMANEPADA_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_LAT_ATMANEPADA_HASH', actual)
+          PY
+
+      - name: Reproduce pada-to-line external sandhi certificate
+        run: |
+          python -m proof_lab.pada_to_line_external_sandhi \
+            --output proof_lab/PADA_TO_LINE_EXTERNAL_SANDHI_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/PADA_TO_LINE_EXTERNAL_SANDHI_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/PADA_TO_LINE_EXTERNAL_SANDHI_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_PADA_TO_LINE_EXTERNAL_SANDHI_HASH', actual)
+          PY
+
+      - name: Reproduce karaka vibhakti carrier certificate
+        run: |
+          python -m proof_lab.karaka_vibhakti_carrier \
+            --output proof_lab/KARAKA_VIBHAKTI_CARRIER_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/KARAKA_VIBHAKTI_CARRIER_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/KARAKA_VIBHAKTI_CARRIER_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_KARAKA_VIBHAKTI_CARRIER_HASH', actual)
+          PY
+
+      - name: Reproduce mimamsa obligation closure certificate
+        run: |
+          python -m proof_lab.mimamsa_obligation_closure \
+            --output proof_lab/MIMAMSA_OBLIGATION_CLOSURE_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/MIMAMSA_OBLIGATION_CLOSURE_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/MIMAMSA_OBLIGATION_CLOSURE_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_MIMAMSA_OBLIGATION_CLOSURE_HASH', actual)
+          PY
+
+      - name: Reproduce angatva pramana ladder certificate
+        run: |
+          python -m proof_lab.angatva_pramana_ladder \
+            --output proof_lab/ANGATVA_PRAMANA_LADDER_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/ANGATVA_PRAMANA_LADDER_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/ANGATVA_PRAMANA_LADDER_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_ANGATVA_PRAMANA_LADDER_HASH', actual)
+          PY
+
+      - name: Reproduce pingala chandas pratyaya certificate
+        run: |
+          python -m proof_lab.pingala_chandas_pratyaya \
+            --output proof_lab/PINGALA_CHANDAS_PRATYAYA_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/PINGALA_CHANDAS_PRATYAYA_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/PINGALA_CHANDAS_PRATYAYA_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_PINGALA_CHANDAS_PRATYAYA_HASH', actual)
+          PY
+
+      - name: Reproduce sulba measure residue certificate
+        run: |
+          python -m proof_lab.sulba_measure_residue \
+            --output proof_lab/SULBA_MEASURE_RESIDUE_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/SULBA_MEASURE_RESIDUE_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/SULBA_MEASURE_RESIDUE_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_SULBA_MEASURE_RESIDUE_HASH', actual)
+          PY
+
+      - name: Reproduce vedanga jyotisa yuga ledger certificate
+        run: |
+          python -m proof_lab.vedanga_jyotisa_yuga_ledger \
+            --output proof_lab/VEDANGA_JYOTISA_YUGA_LEDGER_ACTUAL.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+
+          actual = hashlib.sha256(
+              Path('proof_lab/VEDANGA_JYOTISA_YUGA_LEDGER_ACTUAL.json').read_bytes()
+          ).hexdigest()
+          expected = Path(
+              'proof_lab/VEDANGA_JYOTISA_YUGA_LEDGER_EXPECTED.sha256'
+          ).read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_VEDANGA_JYOTISA_YUGA_LEDGER_HASH', actual)
+          PY
+
+      - name: Pin Lean tables to the Python realization
+        run: python -m unittest proof_lab.test_lean_tables -v
+      - name: Lean kernel witnesses (core Lean 4.12.0, no Mathlib)
+        run: |
+          curl -sL -o lean.tar.zst https://github.com/leanprover/lean4/releases/download/v4.12.0/lean-4.12.0-linux.tar.zst
+          tar --zstd -xf lean.tar.zst
+          export PATH=$PWD/lean-4.12.0-linux/bin:$PATH
+          for f in lean/*.lean; do lean "$f"; done

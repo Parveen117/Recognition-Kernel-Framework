@@ -1,0 +1,61 @@
+{
+  "kind": "RNKE_VERIFIED_SINGULARITY_THEORY_V2_CERTIFICATE",
+  "status": "RNKE_VERIFIED_SINGULARITY_THEORY_V2_WITH_EXCLUSIONS",
+  "base_theory": {
+    "certificate_path": "theorum/singularity_calculus/THEORY_CERTIFICATE.json",
+    "certificate_blob_sha": "ec9a7fc72b5b2451cd7f6837b2ffa2ffb33a0ddd",
+    "scope": "SC-01 through SC-09"
+  },
+  "extension_file": {
+    "path": "theorum/singularity_calculus/VERIFIED_THEORY_MULTI_SEAM_EXTENSION.md",
+    "git_blob_sha": "6140e25c25c8589887456743df4d577651ded24b"
+  },
+  "validated_theorem_head": {
+    "branch": "agent/morphic-path-recognition-theorems",
+    "commit": "e50b851d8c1b72c2cf7bb375f4ed9d9cd13370c8"
+  },
+  "new_theorems": [
+    {
+      "id": "SC-10",
+      "path": "theorum/singularity_calculus/10_finite_multi_seam_additivity_and_closure.md",
+      "git_blob_sha": "f2ce30b05c84a0b0251c57dff321c61fe77c9a72",
+      "status": "PROVED_MULTI_SEAM_ADDITIVITY_AND_CLOSURE"
+    },
+    {
+      "id": "SC-11",
+      "path": "theorum/singularity_calculus/11_seam_filler_cocycle_and_curvature_interaction.md",
+      "git_blob_sha": "1a1f35815bd6c5ccedcfba0bb2eee7a8cb5b3833",
+      "status": "PROVED_COCYCLE_INTERACTION_LAW"
+    }
+  ],
+  "central_results": {
+    "multi_seam_closure_packet": "C_multi=(Omega_0,...,Omega_m;R_1,...,R_m)",
+    "multi_seam_closure": "d alpha = 0 iff every bulk Omega_k=0 and every seam residue R_j=0",
+    "flat_bulk_composition": "delta omega_Sigma = 0",
+    "curved_bulk_composition": "delta omega_Sigma = -B_associator",
+    "interpretation": "seam memory is additive; it becomes an MR-03 cocycle in flat bulk, while curved bulk contributes an explicit typed associator interaction"
+  },
+  "proof_lab": {
+    "verifier_blob_sha": "43ce33c3097f0fe311d174bf686f6ff3249b5817",
+    "test_blob_sha": "bd5e75f6561ff981f653a75b5efd9a2a274f654d",
+    "unit_tests": "15/15 PASS",
+    "exact_controls": 14,
+    "calibration_status": "PASS_SINGULARITY_CALCULUS_CALIBRATION",
+    "ci_workflow": "Singularity Calculus Certification",
+    "ci_run_id": 31258931788,
+    "ci_python_3_11": "success",
+    "ci_python_3_12": "success"
+  },
+  "claim_boundary": {
+    "formal_proof_assistant": false,
+    "intersecting_seam_junction_calculus": false,
+    "delta_times_delta_junction_rule": false,
+    "automatic_topological_transition": false,
+    "universal_physical_identification": false,
+    "generalized_onsager_without_adapter": false,
+    "atomic_periodic_table_claims": false,
+    "chemical_bond_valence_claims": false,
+    "device_performance_claims": false,
+    "statement": "Verified finite disjoint multi-seam composition extension. Intersecting-seam junctions and all domain-specific physical or topological identifications require separate theorems/adapters."
+  }
+}
