@@ -3,8 +3,8 @@
 - status: `RNKE_VERIFIED_WITH_OPEN_OBLIGATIONS`
 - source Git blob SHA-1: `ebb8ef8c6fefdbcaaff8186cc3d470259dfbbb37`
 - source SHA-256: `c810ae640cab85ca9eda6927a3512421de74fefd316bb9f220b5231f8cd36cea`
-- verified `main.tex` SHA-256: `bb376c2e0ace5d531d8a99ba845897f54b75583b1b2e0df12802e59497799702`
-- certificate SHA-256: `dc169404ab9dfe232d5fdd316b9e2fb17f19b0328c3cb610cbe54077b365ad46`
+- verified `main.tex` SHA-256: `bc0f5177e0f1abda410793333963b7cbde813897a1baf1879f417bd75e268c64`
+- certificate SHA-256: `9d52891405d465c56a84168367e89a8c42ee07ba1f15017e31961c0318b05fee`
 - LaTeX build: PASS
 - pages: 20
 - claim environments: 22

@@ -20,7 +20,7 @@ The original source is evidence and is never silently repaired. The reviewer-fac
 
 Verified `main.tex` SHA-256:
 
-`bb376c2e0ace5d531d8a99ba845897f54b75583b1b2e0df12802e59497799702`
+`bc0f5177e0f1abda410793333963b7cbde813897a1baf1879f417bd75e268c64`
 
 ## Native terminology
 
@@ -63,7 +63,7 @@ META_GUARD                                    1
 
 Certificate SHA-256:
 
-`dc169404ab9dfe232d5fdd316b9e2fb17f19b0328c3cb610cbe54077b365ad46`
+`9d52891405d465c56a84168367e89a8c42ee07ba1f15017e31961c0318b05fee`
 
 ## Critical corrections
 
@@ -94,3 +94,7 @@ Those levels coincide only when a separate recognition-faithfulness theorem clos
 The certificate verifies exact source identity, reproducible LaTeX build, the corrected elementary results, and the theorem-status ledger. It does **not** certify the unresolved reduction, rigidity, information-geometry, Wasserstein, kernel, or universality program as established mathematics, and it is not a formal-proof-assistant certificate.
 
 See `CERTIFICATION_STATUS.md`, `CERTIFICATION_SUMMARY.md`, and `RNKE_CERTIFICATE.json` for the machine-verifiable record.
+
+Correction edition 2026-09-25: see ../../CORRECTIONS_2026_09_25.md.
+The source generator applies the same corrections before computing publication
+hashes; immutable historical source snapshots are retained.

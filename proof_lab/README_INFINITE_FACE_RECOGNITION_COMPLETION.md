@@ -2,7 +2,7 @@
 
 theorum/28 Sec. 11 hypotheses 1,2,3,5,6 delivered on the product carrier
 with exact budgets: refinement only adds sheets; memory increments
-Pi_n mu_{n+1}; declared geometric Smriti tail; floor 1; outward margin.
+<= Pi_n mu_{n+1} (equality on the pure-axis calibration); declared geometric Smriti tail; floor 1; outward margin.
 Separation: sup mu < 1 gives the uniform gap, sum mu < inf is needed for the
 infinite product to exist (constant-mu control diverges).
 

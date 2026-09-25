@@ -2,8 +2,8 @@
 
 - status: `RNKE_VERIFIED_WITH_OPEN_OBLIGATIONS`
 - source SHA-256: `e3061dc5a4ce7cf096f5d0572f6f4aed89be45faedb456176d2901a10c7f813a`
-- verified `main.tex` SHA-256: `41673c8ecf55b6208d0eb78c83593e9f3b2fe8b0f538d3ac6284f405c7cad3a3`
-- certificate SHA-256: `991e21357b6e1263e2124b5b8c6358eb4e21a2369bf7af3bb1571d224afcd296`
+- verified `main.tex` SHA-256: `d9d3a645eba11bd77597f509a1154f574e793520579a8338bbc82d6212c47f68`
+- certificate SHA-256: `120f27b9b49807575a6866dac1f00c515c04e4e8c71600bb54ab96da91ef1ef1`
 - LaTeX build: PASS
 - pages: 60
 - claim environments: 57

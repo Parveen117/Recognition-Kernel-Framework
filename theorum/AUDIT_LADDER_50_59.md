@@ -32,3 +32,10 @@ External GPT verifier pass; Lean kernel for any 50–59 statement; attacks on 54
 
 ## What survived untouched
 50 uniform gap (re-derived with own mass), 51 exchange law (re-derived by hand), 53 factorization + negative witness, 55 generator classification and bracket orientation — no finding beyond scope.
+
+## Correction, 2026-09-25
+
+The T50 audit now checks tensor-mass submultiplicativity and independently
+reproduces the mixed-face strict inequality 7/32 < 1/4. Its prior
+multiplicativity check covered insufficient fixtures. T54 equalities are
+scoped to its pure-axis calibration; the general theorem uses upper bounds.

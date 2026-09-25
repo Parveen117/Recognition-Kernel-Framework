@@ -44,7 +44,7 @@ B_i = w_i · C_h(D_i),   C_h(D) = (I − h/2 D)^{-1}(I + h/2 D)   (RST-1 T4)
 
 ```text
 (H1)  L_i P_i = f0_i P_i = P_i L_i      ⟺  L_i is J_i-even with recognized value f0_i
-(H2') M_Σ(B_i) ≤ ρ f0_i,  ρ < 1        (mass, not norm)
+(H2') M_Σ(B_i) ≤ ρ f0_i,  f0_i > 0,  0 ≤ ρ < 1        (mass, not norm)
 ```
 
 `W` (the old "sup e^κ") is now simply `w_i · M_Σ(C_h(D_i))` — a declared
@@ -59,7 +59,7 @@ On the product `L = ⊗L_i`, `P = ⊗P_i`, with `f0^m = ∏f0_i`:
 ```text
 (i)   L★P = f0^m P = P★L                                     (exact)
 (ii)  for every word w with k minus signs,
-      M_Σ(sheet block of w) = ∏_{+} f0_i · ∏_{−} M_Σ(B_i)   EXACTLY
+      M_Σ(sheet block of w) ≤ ∏_{+} f0_i · ∏_{−} M_Σ(B_i)
                             ≤ ρ^k f0^m
 (iii) for every ξ supported in the memory sheet,
       E_Σ(L★ξ) ≤ ρ² f0^{2m} E_Σ(ξ)
@@ -70,15 +70,26 @@ at every `m` — the bound is the maximum of the local badnesses, never
 their number.
 
 **Proof.** `L` commutes with every sheet projector (H1), so `L★ξ = Σ_w L_w★ξ_w`
-on disjoint supports and `E_Σ` is additive over them.  Mass is multiplicative
-on the product (certified: `D_Σ` of a product of scalars is *not*
-multiplicative in general, but the product-carrier entries are single
-products of face entries and the sums factor), so (ii) is an equality.
+on disjoint supports and `E_Σ` is additive over them. The scalar triangle
+inequality gives `D_Σ(zw) ≤ D_Σ(z)D_Σ(w)`. Apply it to each tensor entry,
+then factor the finite sums: `M_Σ(A⊗B) ≤ M_Σ(A)M_Σ(B)`. This proves (ii)
+as an upper bound. A single-minus word has precisely one memory factor;
+its other factors are positive real recognized scalars. Its ratio equals
+the corresponding local ratio. All words with more minus signs have ratio
+at most the product of local ratios, hence at most their maximum, since
+each lies in `[0,ρ]`. This also proves the asserted worst-sheet equality.
 T01 Thm 7.1 on each sheet gives `E(L_w★ξ_w) ≤ M(L_w)² E(ξ_w) ≤ ρ^{2k} f0^{2m} E(ξ_w)`,
 and `k ≥ 1` on the memory sheet.  Sum. ∎
 
-Certified for heterogeneous flow-generated faces (dims 3 and 4) up to
+The displayed proof is general under the stated hypotheses. Finite checks
+cover heterogeneous flow-generated faces (dims 3 and 4) up to
 `m = 4` (dimension 108), with random memory-supported witnesses for (iii).
+
+**Correction, 2026-09-25.** Exact tensor-mass multiplication is withdrawn.
+For `D=[[0,1+ι],[0,0]]`, `B=(I+D)/8`, `f0=1`, `ρ=1/2`, all face hypotheses
+hold but `M(B)=1/2` and `M(B⊗B)=7/32<1/4`. The upper bound and uniform
+energy conclusion above survive. The repeated mixed face is now a
+certificate control, rather than being absent from the fixtures.
 
 ---
 
@@ -142,7 +153,7 @@ python -m unittest proof_lab.test_native_seam_gap_odd_covariance -v
 ```
 
 Status `PASS_NATIVE_SEAM_GAP_ODD_COVARIANCE_CANDIDATE`, SHA-256
-`d46a26c91eabd8733a25161564bca1b6dc66bc1b3f9f02ab7fd992dc78ea8826`.
+`779ac7a36b9da7e3c17740f6f1bf5c29774f1e8667aaa0b502ce998d1fbb657e`.
 
 ## 6. Claim boundary
 
@@ -150,7 +161,7 @@ Status `PASS_NATIVE_SEAM_GAP_ODD_COVARIANCE_CANDIDATE`, SHA-256
 CARRIER C_Σ / PATH CONVOLUTION / NATIVE DAGGER, NO HILBERT VERDICT      PROVED (source-guarded)
 T01 2.2 / 2.5 / 7.1 CONSISTENT ON THIS CARRIER                           PROVED
 FLOW-GENERATED FACES, CAYLEY INVERSE EXACT                               PROVED
-NATIVE GAP: SHEET MASS EXACTLY MULTIPLICATIVE, ≤ ρ^k f0^m, ENERGY ρ²     PROVED (m = 1..4)
+NATIVE GAP: SHEET MASS ≤ PRODUCT ≤ ρ^k f0^m, ENERGY ρ²                  PROOF ABOVE; FINITE CHECKS m = 1..4
 WORST SHEET RATIO = MAX LOCAL RATIO, m-INDEPENDENT                       PROVED
 ODD-SECTOR COVARIANCE LAW A1–A6                                          PROVED
 INFINITE-FACE LIMIT (theorum/28 §11 hyps 1–5)                            NOT BUILT

@@ -104,7 +104,7 @@ where \(r\) is hierarchy depth, \(\mathcal F_C\) is curvature-flux or transgress
 
 No theorem may replace \(\Sigma_C\) by one winding integer without proving that the discarded data are irrelevant to the target.
 
-## 6. Winding and spectral-flow theorem
+## 6. Lifted-phase crossing theorem
 
 In the scalar case, write
 
@@ -119,11 +119,19 @@ When endpoint holonomies agree,
 \qquad \nu\in\mathbb Z.
 \]
 
-For a reference angle avoided by the endpoints, the signed eigenphase crossing count satisfies
+For a regular reference angle avoided by the endpoints, count an increasing lifted phase phi as positive. The signed eigenphase crossing count then satisfies
 
 \[
-\boxed{\operatorname{sf}(\mathcal M_t;\theta_*)=\nu.}
+\boxed{N_{\mathrm{phase}}(U; e^{-i\theta_*})=\nu.}
 \]
+
+This is the phase-path index, not spectral flow of the instantaneous generator
+\(\mathcal M_t=iU_t^{-1}\dot U_t=\dot\phi(t)\). For example,
+\(\phi(t)=2\pi t\) on \([0,1]\) has phase index one and a constant generator
+with zero zero-crossing spectral flow. With the conventional counterclockwise
+orientation on the complex circle, the winding of \(e^{-i\phi}\) is
+\(-\nu\); the displayed index uses the declared increasing-phi convention.
+See RT-04 for the operator-language boundary.
 
 In finite rank this becomes the signed sum over continuously lifted spectral branches. Independent sorting of principal angles is not sufficient at degeneracies.
 

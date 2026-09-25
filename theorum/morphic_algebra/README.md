@@ -40,7 +40,7 @@ Audited publication copy:
 
 Verified `main.tex` SHA-256:
 
-`41673c8ecf55b6208d0eb78c83593e9f3b2fe8b0f538d3ac6284f405c7cad3a3`
+`d9d3a645eba11bd77597f509a1154f574e793520579a8338bbc82d6212c47f68`
 
 `source_original.tex` preserves the supplied manuscript as provenance. `main.tex` is the compile-clean, audited publication copy. Transport and mathematical corrections are recorded without replacing Śūnya, Nāgārjuna/Catuṣkoṭi, Λ-Morphic, collapse, cocycle, holonomy, or clock-recovery terminology.
 
@@ -72,7 +72,7 @@ META_GUARD_NOT_MATHEMATICAL_CONSISTENCY_PROOF          1
 
 RNKE certificate SHA-256:
 
-`991e21357b6e1263e2124b5b8c6358eb4e21a2369bf7af3bb1571d224afcd296`
+`120f27b9b49807575a6866dac1f00c515c04e4e8c71600bb54ab96da91ef1ef1`
 
 The certification is deliberately fail-closed. Historical category, grammar, spectral, universality, and EMK statements that are not fully established by the supplied source remain visible as conditional or open obligations rather than being promoted by the build or verification code.
 
@@ -84,3 +84,7 @@ See:
 - `PREPARE_MANIFEST.json` — source/materialization manifest
 - `source_original.tex` — untouched source provenance
 - `main.tex` — verified publication copy
+
+Correction edition 2026-09-25: see ../../CORRECTIONS_2026_09_25.md.
+The source generator applies the same corrections before computing publication
+hashes; immutable historical source snapshots are retained.

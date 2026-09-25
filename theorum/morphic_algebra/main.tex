@@ -903,12 +903,12 @@ Define \textbf{holonomy} of a composable word $W = O_n \circ \cdots \circ O_1$ b
 \begin{theorem}[A3-1: Holonomy factorization]
 For $W = O_n \circ \cdots \circ O_1$:
 \begin{multline}
-\tr_\omega(W) = \sum_{k=1}^n \tr_\omega(O_k) \\ + \sum_{k=1}^{n-1} \omega(O_n \circ \cdots \circ O_{k+1}, O_k \circ \cdots \circ O_1)
+\tr_\omega(W) = \sum_{k=1}^n \tr_\omega(O_k) \\ + \sum_{k=2}^{n} \omega(O_k, O_{k-1} \circ \cdots \circ O_1)
 \end{multline}
 \end{theorem}
 
 \begin{proof}
-Induction on $n$ using A3-Tw.
+Put $W_k=O_k\circ W_{k-1}$, $W_1=O_1$. A3-Tw gives $\tr_\omega(W_k)-\tr_\omega(W_{k-1})=\tr_\omega(O_k)+\omega(O_k,W_{k-1})$. Sum for $k=2,\ldots,n$. The cocycle identity ensures independence of parenthesization. Summing defects over all prefix--suffix cuts instead would double-count interactions.
 \end{proof}
 
 Interpretation: holonomy = local trace + pairwise defect accumulation.
@@ -2484,7 +2484,7 @@ $\Seam = \Fix(K)$ $\quad$ $T \to V \to S \to P \to T$ $\quad$ $\dist(a,b) = \min
 This appendix is part of the verified publication copy. It preserves the native terminology while separating proved identities from conditional or open claims.
 \begin{verbatim}
 SOURCE_SHA256 e3061dc5a4ce7cf096f5d0572f6f4aed89be45faedb456176d2901a10c7f813a
-VERIFIED_MAIN_SHA256_PREAPPENDIX 1b40144b661ac4a055f7b8b92f3cb0977d10a53de71f5bf2d1bde4a4854d0afb
+VERIFIED_MAIN_SHA256_PREAPPENDIX 6040b70e27c88b7d7261e4deb48857f792192654e5aa81fc4d7f52e8ca057a7e
 CERTIFICATION_LEVEL RNKE_VERIFIED_WITH_OPEN_OBLIGATIONS
 FORMAL_PROOF_ASSISTANT false
 FULL_MANUSCRIPT_MATHEMATICAL_CERTIFICATION false

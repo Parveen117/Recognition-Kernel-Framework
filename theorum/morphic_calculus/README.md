@@ -43,7 +43,7 @@ Audited publication copy:
 
 Verified `main.tex` SHA-256:
 
-`b8179549dc097417b10bde505c4025924c591702052fb1ef9b294d6077570c17`
+`649d7b1b8cda3d000976f2f8b2f3a3486894aefed313466044974dfb9503c380`
 
 `source_original.tex` preserves the supplied manuscript as provenance. `main.tex` is the compile-clean, audited publication copy. The source vocabulary and the Śūnya/Cut/Morphisum/Recognition architecture are retained.
 
@@ -75,7 +75,7 @@ META_GUARD_NOT_MATHEMATICAL_CONSISTENCY_PROOF       1
 
 RNKE certificate SHA-256:
 
-`36236e50b166c5c0ef13be3dc6c3fa4b56271bc0c45274440aea0b1b8d029c25`
+`f9aced438240f119504da918bf44a2d4642bdcc5d956400f9b5f03932cf84d6c`
 
 The verified publication copy also keeps an important hardened distinction from Recognition-Seam Calculus: a flat or singular clock is failure of that chosen rate presentation, not automatic proof that the underlying native transition or seam is zero. Broad foundational-closure and universality statements remain open unless separately proved.
 
@@ -87,3 +87,7 @@ See:
 - `PREPARE_MANIFEST.json` — source/materialization manifest
 - `source_original.tex` — untouched source provenance
 - `main.tex` — verified publication copy
+
+Correction edition 2026-09-25: see ../../CORRECTIONS_2026_09_25.md.
+The source generator applies the same corrections before computing publication
+hashes; immutable historical source snapshots are retained.

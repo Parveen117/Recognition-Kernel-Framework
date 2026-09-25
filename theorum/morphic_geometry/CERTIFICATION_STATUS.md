@@ -5,6 +5,6 @@
 - RNKE status: `RNKE_VERIFIED_WITH_OPEN_OBLIGATIONS`
 - full manuscript mathematical certification: `FALSE`
 - formal proof assistant: `FALSE`
-- certificate SHA-256: `dc169404ab9dfe232d5fdd316b9e2fb17f19b0328c3cb610cbe54077b365ad46`
+- certificate SHA-256: `9d52891405d465c56a84168367e89a8c42ee07ba1f15017e31961c0318b05fee`
 
 The audited `main.tex` corrects the holonomy scaling error and replaces the spectral-footprint no-go with the proven path-blindness/minimal-memory criterion. Remaining reduction and universality claims stay explicitly open.

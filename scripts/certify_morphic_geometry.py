@@ -459,6 +459,8 @@ def make_main(source_text: str, source_sha: str, claims: list[dict]) -> str:
     text = source_text.replace("\r\n", "\n").replace("\r", "\n")
     text = transport_preamble(text)
     text = apply_mathematical_repairs(text)
+    from morphic_corrections import correct_text
+    text = correct_text("morphic_geometry", text)
     pre_sha = sha256(text.encode("utf-8"))
     appendix = audit_appendix(source_sha, pre_sha, claims)
     marker = "\\begin{thebibliography}{99}"

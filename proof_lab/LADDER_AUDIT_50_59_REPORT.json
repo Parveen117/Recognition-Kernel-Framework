@@ -1,7 +1,8 @@
 {
   "checks": {
+    "50_P_mixed_tensor_refutes_old_equality": true,
     "50_P_overweight_face_rejected_by_H2": true,
-    "50_R_sheet_mass_multiplicative_own_mass_m_le_4": true,
+    "50_R_sheet_mass_upper_bound_own_mass_m_le_4": true,
     "50_S_diagonal_turn_free_offdiagonal_not": true,
     "51_P_tampered_cayley_not_unitary_energy_not_invariant": true,
     "51_R_exchange_law_rederived_by_hand_12_of_12": true,
@@ -124,7 +125,7 @@
     "Lean kernel for any 50-59 statement (I2 channel)",
     "attacks on theorums 54 T1-T4 kron identities beyond the declared instance"
   ],
-  "schema": "rkf.ladder_audit_50_59.v1",
+  "schema": "rkf.ladder_audit_50_59.v2",
   "status": "PASS_LADDER_AUDIT_50_59",
   "summary": {
     "cert_defects": 4,

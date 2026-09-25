@@ -5,7 +5,7 @@
 | Repository | `Parveen117/Recognition-Kernel-Framework` |
 | Canonical branch | `main` |
 | Index role | Default mathematical navigation for humans and AI systems |
-| Index version | `1.0` |
+| Index version | `1.1` |
 | Established | 2026-09-16, after the all-branch consolidation at `c528482` |
 
 This page is the canonical map of the mathematics carried by this repository. It separates **algebra**, **calculus and geometry**, **theorem spines**, **domain adapters**, and **evidence layers** without moving or renaming source-pinned files.
@@ -493,3 +493,14 @@ These are frontier gates, not reasons to discard the proved internal structures 
 Any change that adds, removes, renumbers, supersedes, or materially reclassifies mathematics must update this file in the same commit. It must also update the relevant theorem README, certificate index, provenance record, and claim boundary when those surfaces are affected.
 
 The automated test `proof_lab/test_mathematics_index.py` checks that every numbered theorem and every public parallel theorem spine is represented and that every local Markdown link resolves. This keeps the map attached to the territory.
+
+## 11. Corrections, 2026-09-25
+
+See [correction record](CORRECTIONS_2026_09_25.md) and the general proofs in
+the linked theorem sources. T50 tensor mass is submultiplicative; T54 uses the
+resulting upper bound, with equality only on its declared pure-axis calibration.
+The Morphic trace sum uses successive prefixes. Euler composition, loop
+scaling, the torus zero mode, the entropy clock and the F00-I Taylor majorant
+have been corrected. Geometry's abstract now matches its one-way diamond
+holonomy theorem. Exact regression controls complement these proofs and do
+not change the open RH, K0, Yang--Mills or physical-identification gates.

@@ -28,14 +28,17 @@
       "id": "RT-04",
       "title": "Unitary Phase-Crossing and Topological Sector-Index Theorem",
       "status": "PROVED_SCALAR_TOPOLOGICAL_CORE",
-      "sha256": "cee4759c1206fcadbcae0d7cb81adcf74a7a1640885fd8574ea6b5bc7db30a61"
+      "sha256": "434ffcfb35871632509cf37362718c824198454a896fd7e63fcfa254e517852a"
     }
   ],
   "proof_lab": {
     "status": "PASS_RECOGNITION_TOPOLOGY_CALIBRATION",
     "workflow": "Recognition Topology Proof Lab",
     "workflow_run": 31253513797,
-    "python_versions": ["3.11", "3.12"],
+    "python_versions": [
+      "3.11",
+      "3.12"
+    ],
     "controls": [
       "exact rectangle Stokes calibration",
       "exact-gauge closed-loop invariance",
@@ -53,5 +56,6 @@
     "model-specific entropy/skew connection as canonical Recognition geometry"
   ],
   "formal_proof_assistant": false,
-  "claim_boundary": "Topological and abelian differential-form core proved; domain-specific physical triggers and broader operator spectral-flow extensions require separate hypotheses."
+  "claim_boundary": "Topological and abelian differential-form core proved; domain-specific physical triggers and broader operator spectral-flow extensions require separate hypotheses.",
+  "correction_2026_09_25": "RT-04 source hash refreshed after making increasing-phi orientation explicit. Existing workflow run is historical calibration evidence; no new formal certification."
 }

@@ -18,14 +18,14 @@ minus faces, each word carrying the block (x)_{i in w-} B~_i.
 
 Certified:
  T1  consistency: for n <= 3 the word-block masses computed from the face
-     masses equal the masses of the actual tensor-product blocks (exact kron).
+     mass upper bounds equal actual tensor-block masses on the declared pure-axis calibration.
  T2  sheet stationarity (recovered identity, theorum/28 Sec. 11 hyp. 1):
      for every word supported in faces <= n,  Z_{n+1} block == Z_n block exactly
      (the refinement arrow n -> n+1 is the identity on every already-present
      sheet; it only ADDS sheets with face n+1 minus).
  T3  channel Cauchy bounds (hyp. 2) with exact Smriti tails (hyp. 3):
         recognized channel   P Z_n P = P (all n)            -> rho^rec_n = 0
-        memory channel       M(Z_{n+1} - Z_n) = Pi_n * mu_{n+1},   Pi_n = prod_{i<=n}(1+mu_i)
+        memory channel       M(Z_{n+1} - Z_n) <= Pi_n * mu_{n+1} (equality on this calibration),   Pi_n = prod_{i<=n}(1+mu_i)
         tail(n)              sum_{k>n} M(Z_{k+1}-Z_k) <= Pi_inf * sum_{k>n} mu_k   (declared, closed form)
      With mu_i = a r^i (geometric) the tail is exact rational and -> 0.
  T4  uniform floor (hyp. 5) and outward margin (hyp. 6):  Z_n P = P exactly
@@ -96,6 +96,7 @@ def geometric_faces(a: Fraction, r: Fraction, n: int) -> list[dict[str, Any]]:
 
 
 def word_mass(faces: list[dict[str, Any]], word: tuple[int, ...]) -> Fraction:
+    """Tensor mass upper bound; exact for normalized_face pure-axis fixtures only."""
     m = F1
     for fc, s in zip(faces, word):
         m *= F1 if s == 1 else fc["mu"]
@@ -113,7 +114,7 @@ def t1_consistency() -> dict[str, Any]:
             S = sheet_projector(fs, w)
             blk = star(star(S, L), S)
             ok &= mass(blk) == word_mass(fs, w)
-    return {"checks": {"word_masses_equal_actual_block_masses_n_le_3": ok}}
+    return {"checks": {"pure_axis_word_bounds_attained_n_le_3": ok}}
 
 
 # ---------------------------------------------------------------- T2
@@ -185,7 +186,7 @@ def t3_t4_cauchy_tails_and_margin(a: Fraction, r: Fraction, nmax: int) -> dict[s
     product_bound_holds = Pi_n[-1] <= 1 / (1 - s_all) <= 1 + 2 * s_all
     checks = {
         "finite_product_le_1_over_1_minus_sum_le_1_plus_2sum": product_bound_holds,
-        "increment_mass_law_matches_kron_n_le_3": ok,
+        "pure_axis_increment_bound_attained_n_le_3": ok,
         "declared_tail_to_zero": tail_sum(nmax - 1) * Pi_inf_bound < tail_sum(0) * Pi_inf_bound / 100,
         "recognized_channel_exact_floor_1": floor,
         "every_memory_word_mass_le_rho": gap_words,
@@ -230,21 +231,21 @@ def build_certificate() -> dict[str, Any]:
     checks = {f"{k}_all_checks": all(v["checks"].values()) for k, v in packets.items()}
     status = "PASS_INFINITE_FACE_RECOGNITION_COMPLETION_CANDIDATE" if all(checks.values()) else "FAIL_INFINITE_FACE_RECOGNITION_COMPLETION_CANDIDATE"
     return {
-        "schema": "rkf.infinite_face_recognition_completion_candidate.v1",
+        "schema": "rkf.infinite_face_recognition_completion_candidate.v2",
         "status": status,
         "theorum_28_section_11_ledger": {
             "1_recovered_identity_across_refinement_arrows": "DELIVERED: refinement n->n+1 is the exact identity on every present sheet (T2)",
-            "2_recognized_and_memory_channel_cauchy_bounds": "DELIVERED: rho^rec_n = 0 exactly; memory increment mass Pi_n mu_{n+1} exact (T3)",
+            "2_recognized_and_memory_channel_cauchy_bounds": "DELIVERED: rho^rec_n = 0 exactly; memory increment <= Pi_n mu_{n+1}; exact on the pure-axis calibration (T3)",
             "3_smriti_tail_bounds": "DELIVERED: declared closed-form tail Pi_inf_bound * sum_{k>n} mu_k, exact rational, -> 0 (T3)",
             "4_target_faithfulness_residual": "NOT APPLICABLE / NOT BUILT: no observer T declared in this capsule",
             "5_uniform_positive_recognized_floor": "DELIVERED: Z_n P = P, floor exactly 1 (T4)",
             "6_outward_finite_seam_margin": "DELIVERED: u = rho = sup mu_i, e_n = tail(n), u + e_n < 1 for n >= n0 (T4)",
         },
         "claim_boundary": {
-            "proved_by_exact_finite_certificate": [
-                "word-mass law equals actual tensor-block masses (n <= 3)",
+            "checked_on_declared_finite_instances": [
+                "word-mass upper bound equals actual masses for the pure-axis calibration (n <= 3)",
                 "sheet stationarity: refinement only adds sheets, never alters present ones",
-                "memory-channel increments Pi_n mu_{n+1} exact; declared geometric Smriti tail -> 0; recognized channel exactly stationary",
+                "memory-channel increments bounded by Pi_n mu_{n+1}, exact on pure-axis calibration; declared geometric Smriti tail -> 0; recognized channel exactly stationary",
                 "floor 1 and outward margin u + e_n < 1 from a computed n0 (summable mu_i = a r^i)",
                 "SEPARATION: sup mu < 1 gives the uniform gap (theorum/50) while sum mu < inf is needed for the infinite product to exist as a recognition-complete limit; constant mu = 1/2 has uniform gap and divergent increments",
             ],

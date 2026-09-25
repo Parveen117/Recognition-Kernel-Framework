@@ -31,7 +31,7 @@ for a unique
 \nu\in\mathbb Z.
 \]
 
-This integer is the winding degree of the unitary loop.
+This is the phase index in the increasing-phi (clockwise) orientation. The conventional counterclockwise winding of U=e^{-i phi} is -nu. The crossing signs and degree below use the increasing-phi target orientation throughout.
 
 ## 2. Theorem - signed reference-phase crossing count
 

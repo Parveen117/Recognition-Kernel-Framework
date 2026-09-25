@@ -8,7 +8,7 @@
 | Source commit | `c588ded973a395b5fce37c82f670616160979a2e` |
 | Implemented packages | `2` |
 | Status | `PASS_IMPLEMENTED_FOUNDATION_CERTIFICATE_CAMPAIGN` |
-| Canonical summary SHA-256 | `8728ab0319afe5fb6e6329deaee479cfa93f50bb4422ee863aaaf4f911dd9582` |
+| Canonical summary SHA-256 | `5ab44f23bd3296885e0052fbcd4b076d77404535c83d80784ca745cec4130c7f` |
 | RH status | `OPEN` |
 
 Archived summary:
@@ -51,7 +51,7 @@ certificates/foundation/NUMERICAL_PROOF_PROTOCOL.md
 | Certificate class | exact and rational-interval foundational audit |
 | Scope | native logarithm, arithmetic, prime factorization, and half-plane zeta |
 | Status | `PASS_F00GHI_LOG_ARITHMETIC_ZETA_AUDIT` |
-| Package canonical result SHA-256 | `672865d994b1111a876b160a80858f78d3133f400351f0792715a8d8bee142bd` |
+| Package canonical result SHA-256 | `209e80654158b427dfbeb8c7a80a216644f83490a97a12700f3d9f309aa83db3` |
 | Archived result file SHA-256 | `b5eff18191bc1834d57b8783a0f35c7214123d544d0ba6431d241e4227e150b6` |
 
 Files:
@@ -254,9 +254,9 @@ Files: `theorum/56_canvas_operators_nativized_theorem.md`, `proof_lab/canvas_ope
 | Field | Value |
 |---|---|
 | Certificate class | Primitive-carrier (C_Σ) product seam-gap and cut-square odd-channel certificate |
-| Scope | T01 laws re-verified on carrier; flow-generated faces; exactly multiplicative sheet mass ≤ ρ^k f0^m and energy contraction ρ² f0^(2m) uniform in m (m=1..4, dim 108); odd-sector covariance law A1–A6; three controls; source-level no-Hilbert guard |
+| Scope | T01 laws re-verified on carrier; flow-generated faces; tensor sheet-mass upper bound ≤ ρ^k f0^m and energy contraction ρ² f0^(2m) uniform in m (m=1..4, dim 108); odd-sector covariance law A1–A6; three controls; source-level no-Hilbert guard |
 | Status | `PASS_NATIVE_SEAM_GAP_ODD_COVARIANCE_CANDIDATE` |
-| Canonical result SHA-256 | `d46a26c91eabd8733a25161564bca1b6dc66bc1b3f9f02ab7fd992dc78ea8826` |
+| Canonical result SHA-256 | `779ac7a36b9da7e3c17740f6f1bf5c29774f1e8667aaa0b502ce998d1fbb657e` |
 | Proof arithmetic | exact `fractions.Fraction` pairs (rad, turn); no float, no NumPy, no inner product, no PSD |
 
 Files:
@@ -334,7 +334,7 @@ proof_lab/NATIVE_CUT_SQUARE_FACTORIZATION_EXPECTED.sha256
 | Certificate class | theorum/28 §11 hypothesis delivery on the product carrier |
 | Scope | word-mass/kron consistency; sheet stationarity; exact memory increments and declared geometric Smriti tail; floor 1 and outward margin from n₀; separation sup μ<1 vs Σμ<∞ with divergent control; §11 ledger (hyp. 4 not built) |
 | Status | `PASS_INFINITE_FACE_RECOGNITION_COMPLETION_CANDIDATE` |
-| Canonical result SHA-256 | `f3354b0a69fb7003aa4e7431de3d173d29310fab6a9fde0cc8e7f2289fb93057` |
+| Canonical result SHA-256 | `e71586938240ddd0d80f1074e80e049ae6f26898f8f2424cb6bb5bccbbbbcfbb` |
 | Proof arithmetic | exact Fraction; no float, no exponential |
 
 Files:

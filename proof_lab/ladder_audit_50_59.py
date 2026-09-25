@@ -75,7 +75,7 @@ def audit_50(rng) -> tuple[list[Finding], dict[str, bool]]:
     fs, checks = [], {}
     faces = t50.instance_faces()
     rho = Fraction(1, 2)
-    # (R) sheet-mass multiplicativity with MY mass on every memory word, m = 1..4
+    # (R) sheet-mass upper bound with MY mass on every memory word, m = 1..4
     ok = True
     for m in range(1, 5):
         fcs = faces[:m]
@@ -88,8 +88,12 @@ def audit_50(rng) -> tuple[list[Finding], dict[str, bool]]:
             expect = F1
             for fc, s in zip(fcs, word):
                 expect *= fc["f0"] if s == 1 else my_mass(fc["B"])
-            ok &= my_mass(block) == expect
-    checks["50_R_sheet_mass_multiplicative_own_mass_m_le_4"] = ok
+            ok &= my_mass(block) <= expect
+    checks["50_R_sheet_mass_upper_bound_own_mass_m_le_4"] = ok
+    mixed = t50.flow_face(Fraction(1), Fraction(1, 8), mat([[0, sc(1, 1)], [0, 0]]), Fraction(1))
+    checks["50_P_mixed_tensor_refutes_old_equality"] = (
+        my_mass(t50.kron(mixed["B"], mixed["B"])) == Fraction(7, 32)
+        < my_mass(mixed["B"]) ** 2 == Fraction(1, 4))
     # (P) planted face violating H2 (weight > rho f0) must be flagged by face_hypotheses
     bad = t50.flow_face(Fraction(2), Fraction(3), faces[0]["generator"], Fraction(1, 2))
     checks["50_P_overweight_face_rejected_by_H2"] = not t50.face_hypotheses(bad, rho)["H2_mass_contraction"]
@@ -365,7 +369,7 @@ def build_certificate() -> dict[str, Any]:
         checks.update(cs)
     status = "PASS_LADDER_AUDIT_50_59" if all(checks.values()) else "FAIL_LADDER_AUDIT_50_59"
     return {
-        "schema": "rkf.ladder_audit_50_59.v1",
+        "schema": "rkf.ladder_audit_50_59.v2",
         "status": status,
         "summary": {
             "cert_defects": sum(f["severity"] == "CERT_DEFECT" for f in findings),

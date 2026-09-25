@@ -367,7 +367,7 @@ The factorial-tail estimate for `Exp_Sigma` bounds the remainder by
 \[
 |h|_\Sigma
 \operatorname{Log}_\Sigma(n)^2
-n^{-(1+\delta)}
+n^{-(1+2\delta)}
 \operatorname{Exp}_\Sigma
 (|h|_\Sigma\operatorname{Log}_\Sigma n).
 \]

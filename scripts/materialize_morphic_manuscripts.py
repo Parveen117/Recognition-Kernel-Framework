@@ -13,7 +13,7 @@ from pathlib import Path
 import subprocess
 import sys
 
-EXPECTED_BUILDER_SHA256 = "410e65071876c212f371188545cb9dca930fd8bebef07eff6869eec7ef7673de"
+EXPECTED_BUILDER_SHA256 = "f69f83382aa676d0a6a38e8fff9c3a8fa8e2b703c324c287901a2f81f59ef996"
 
 
 def main() -> int:
