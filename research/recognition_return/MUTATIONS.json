@@ -1,0 +1,26 @@
+{
+  "protocol": "RKF_GRADED_APERTURE_MUTATIONS_R1",
+  "controls": [
+    {
+      "fault": "erase_negative_feedback",
+      "rejected": true,
+      "exit_code": 1
+    },
+    {
+      "fault": "invent_even_order_returns",
+      "rejected": true,
+      "exit_code": 1
+    },
+    {
+      "fault": "omit_cutoff_from_joint_limit_bound",
+      "rejected": true,
+      "exit_code": 1
+    },
+    {
+      "fault": "reverse_native_orientation_without_updating_feedback",
+      "rejected": true,
+      "exit_code": 1
+    }
+  ],
+  "live_files_modified": false
+}

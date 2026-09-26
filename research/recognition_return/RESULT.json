@@ -1,0 +1,131 @@
+{
+  "protocol": "RKF_NATIVE_GRADED_APERTURE_EXPERIMENT_R1",
+  "status": "PASS_EXACT_FINITE_CHECKS",
+  "runtime": "v22.16.0",
+  "check_count": 24,
+  "checks": [
+    "native_full_presentation_and_nonzero_aperture",
+    "scalar_Catalan_sequence",
+    "all_order_formula_vs_native_recursion",
+    "direct_native_cut_powers_not_a_recurrence_assumption",
+    "same_total_zero_retains_two_nonzero_history_tags",
+    "uncut_series_terms_do_not_tend_to_zero",
+    "finite_even_apertures_direct_inverses_and_continuants",
+    "odd_aperture_can_fail_even_apertures_remain_valid",
+    "continuant_and_Cassini_gap_without_sqrt",
+    "nested_intervals_for_large_and_small_couplings",
+    "all_nonnegative_boundary_seeds_are_sandwiched",
+    "rational_roots_recognized_beyond_power_series_radius",
+    "main_response_exact_enclosure_and_error",
+    "return_series_itself_diverges_in_main_case",
+    "native_quadratic_closes_without_fitting",
+    "wrong_commuting_shortcut_changes_coefficients",
+    "scalarized_positive_feedback_has_no_real_fixedpoint",
+    "exact_zero_coupling_and_budget_fail_closed",
+    "small_coupling_absolute_tail_does_not_claim_large_coupling",
+    "amplitude_imbalance_is_still_unseen_by_this_target",
+    "quantified_joint_cutoff_coupling_limit",
+    "coupling_and_aperture_limits_cannot_be_swapped",
+    "limiting_approximate_cut_defect_is_quantified",
+    "primitive_witness_replay_is_presentation_bound"
+  ],
+  "counts": {
+    "coefficient_identities": 92,
+    "finite_aperture_inverses": 30,
+    "boundary_tests": 240
+  },
+  "results": {
+    "native_aperture": {
+      "critical_pairs": 12,
+      "nonzero": true,
+      "idempotent": true,
+      "ST_equals_one": false
+    },
+    "direct_native_powers": 21,
+    "history_tags": {
+      "nested": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "-36/25",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "serial": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "36/25",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "sum_is_zero": true,
+      "individual_histories_erased": false
+    },
+    "uncut_growth_lower_bound": "2^n",
+    "odd_aperture_control": {
+      "q": "1",
+      "height_one": "SINGULAR",
+      "height_two": "INVERTIBLE",
+      "all_even_heights": "PROVED_FOR_NONNEGATIVE_q"
+    },
+    "main": {
+      "q": "6/5",
+      "exact_d": "2/3",
+      "exact_response": "I+(2/3)KR",
+      "normal_response": "I-(2/3)RK",
+      "maximum_aperture_height": 70,
+      "refinements": 34,
+      "error_bound": "246267034545640103721558971649204615139277443587637248/333680990175245617960821009349789153227830869315235360699770794065",
+      "all_three_strict_series_gates_fail": true
+    },
+    "return_series_radius_in_q": "1/2",
+    "commuting_control": {
+      "law": "f=1+q f^2",
+      "q": "6/5",
+      "real_discriminant": "-19/5",
+      "real_finite_solution": false
+    },
+    "target_boundary": "Same bc gives same return response; full source amplitudes are not reconstructed.",
+    "emergent_cut": {
+      "selected_aperture": "(I+KR)/2",
+      "joint_error_bound": "q/k+1/(4q)",
+      "required_joint_limit": "q -> infinity and k/q -> infinity",
+      "hilbert_or_physical_time_premise": false
+    },
+    "limit_order_control": {
+      "q": "1000",
+      "k_2_response": "1000/1000001",
+      "k_3_response": "1000001000/2000001",
+      "fixed_aperture_strong_coupling_not_the_same_limit": true
+    }
+  },
+  "source_sha256": {
+    "return_solver.cjs": "adfe2a69d04c387adf3a4809de0f9f57583843c249a87ba3ce7b9988d161009f",
+    "verify.cjs": "93f9fce5298074f0de44de4d82e1ece083434d4e0a317202c30127639db97544",
+    "mutate.cjs": "12906b643c2a73c5aa49ce65263673bcdd6dd3653a8ee63cb55f915f13729ef8",
+    "THEOREM.md": "a51aebc61709ce5ffdf10236e0cf602d29d2770da34e65a61b2b6e65cd1669d9",
+    "README.md": "860fe7bec3bcd2281663f1daf00ebdf8e34b2cbfa8c089d7c74a770b9ac7eaf1",
+    "LINEAGE.json": "a8e9969e69caae9a50fd295b27368e8cfbc343443ff4de5d63be3faa140f4be0",
+    "../../operator_foundation/core/native_operator.cjs": "304963cccf4320d76dd36147e5c15ad579e9d0496c86fb1f942543bc692e06a3",
+    "../../operator_foundation/core/paninian_operator.cjs": "9a30c72f4e89d0a15697c99095ed8e0f015bb8c64fda4ded9897394945886fd8"
+  },
+  "scope": {
+    "general_theorems": "THEOREM.md",
+    "primitive_hilbert_space": false,
+    "exact_finite_tests_are_not_universal_proofs": true,
+    "global_inverse_status": "NOT_CLAIMED_OR_TESTED_IN_THE_INFINITE_COMPLETION",
+    "new_external_priority_established": false,
+    "physical_quantum_gravity_established": false
+  }
+}

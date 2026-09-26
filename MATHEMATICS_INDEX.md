@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 26 September 2026, operator mathematics version 0.5.
+Index update: 26 September 2026, operator mathematics version 0.5 with additive graded-aperture research result R1.
 
 ## Active operator-engine route
 
@@ -22,6 +22,18 @@ The [weighted-completion chapter](operator_foundation/theory/WEIGHTED_OPERATOR_C
 - WC7: constructive nonlinear operator fixed points with uniqueness restricted to a certified ball.
 
 The [new finite certificate](operator_foundation/audit/WEIGHTED_COMPLETION_CERTIFICATE.json) controls 59 named implementation checks, not the universal validity of the written proofs. The [mathematical programme](operator_foundation/MATHEMATICAL_PROGRAMME.md) separates new integration targets from previously developed framework lineages. The [development record](operator_foundation/audit/DEVELOPMENT_V0_5.md) records actual runs and limitations.
+
+## Research R1: native graded-aperture resummation and cut selection
+
+The [research packet](research/recognition_return/README.md) and [written theorem](research/recognition_return/THEOREM.md) derive the boundary response of the supplied EMK excursion family H=b R S+c K T, with TS=1 and ST not identified with 1. Internal noncommutativity is retained. No ordinary Hilbert space, positive pairing or physical clock is a primitive input.
+
+- RR1-RR2: ordered first-return equation and all-order anticommuting Catalan cancellations.
+- RA1-RA3: actual inverse corners on even finite apertures converge for every finite nonnegative q=bc, with exact rational brackets, even outside the return moment series' own convergence radius.
+- RC1-RC2: normalized strong-return response selects the internal cut (1+KR)/2; the joint cutoff/coupling error is bounded by q/k+1/(4q). Fixed cutoff and strong coupling are not interchangeable limits.
+
+The exact benchmark b=2,c=3/5 has divergent uncut and boundary moment series but boundary-aperture limit 1+(2/3)KR. This is the specified recognized response, not a claimed full infinite inverse or physical gravity law. Boundary independence is proved only for the declared nonnegative scalar seed class. The model and its couplings are explicit supplied data.
+
+[Generated finite evidence](research/recognition_return/RESULT.json) records 24 named tests, including 92 coefficient identities, 30 independent finite block inverses and 240 boundary checks. [Mutation controls](research/recognition_return/MUTATIONS.json) reject four planted mathematical faults. Run `node research/recognition_return/verify.cjs --check` from this repository root. The packet uses the canonical engine unchanged; it is not another editable implementation of that engine. Full current v0.5, Python and Lean suites were not rerun for R1. General written proofs, finite execution and external priority remain separate; priority is not established by the limited literature comparison in the theorem.
 
 ## Full framework register, preserved
 

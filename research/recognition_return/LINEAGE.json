@@ -1,0 +1,26 @@
+{
+  "protocol": "RKF_GRADED_APERTURE_LINEAGE_R1",
+  "date": "2026-09-26",
+  "canonical_repository": "Parveen117/Recognition-Kernel-Framework",
+  "base_commit": "c3f9bd95ac6fe0cf839f1ba27d58f624cf46f7a0",
+  "base_workbench_version": "0.5",
+  "dependency_blobs": {
+    "operator_foundation/core/native_operator.cjs": "7b188defee82aa0edafc586eb3091baf0ceb6900",
+    "operator_foundation/core/paninian_operator.cjs": "39d0cc2d2c0b42db319b02f4cd29c045910edbbc"
+  },
+  "native_relations_source": "Canonical RKF T48/T55 EMK relations; same-repository corrected source snapshot",
+  "comparison_source": "operator_foundation/theory/WEIGHTED_OPERATOR_COMPLETION.md WC1/WC3-WC7",
+  "declared_new_model_inputs": ["half-line seam TS=1 without ST=1", "seam factor commutes with internal EMK coefficients", "opening bR and returning cK with nonnegative radial b,c", "boundary target is the inverse corner of even finite apertures", "nonnegative finite scalar boundary-response class"],
+  "not_new_claims": ["Catalan numbers", "continued fractions", "quadratic formula", "generic analytic continuation", "EMK generator relations"],
+  "candidate_framework_advance": ["all-coupling recognized inverse-corner convergence beyond its own moment-series radius", "exact rational interval certificate", "cutoff-coupling order-of-limits separation", "joint native aperture selection bound q/k+1/(4q)"],
+  "external_priority_established": false,
+  "literature_checked": [
+    {"authors":"Arkady Berenstein and Vladimir Retakh","title":"Noncommutative Catalan numbers","arxiv":"1708.03316","role":"prior noncommutative generating-function and quadratic-equation methods"},
+    {"authors":"Pedro J. Miana and Natalia Romero","title":"Catalan generating functions for bounded operators","arxiv":"2401.16415","role":"prior Catalan operator equations and convergence/continuation methods"}
+  ],
+  "primitive_hilbert_space": false,
+  "positive_pairing_required": false,
+  "private_source_exported": false,
+  "infinite_global_inverse_claimed": false,
+  "physical_identification_claimed": false
+}
