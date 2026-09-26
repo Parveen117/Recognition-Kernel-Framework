@@ -1,0 +1,177 @@
+{
+  "protocol": "RKF_WEIGHTED_COMPLETION_V0_5",
+  "status": "PASS_EXACT_FINITE_CERTIFICATES",
+  "check_count": 59,
+  "exact_qplane_products": 256,
+  "checks": [
+    "unit_has_mass_one_not_matrix_dimension",
+    "EMK_four_diamonds_and_three_weight_rules",
+    "infinite_normal_language_is_retained",
+    "no_primitive_pairing_in_completion_contract",
+    "weights_missing_generator_rejected",
+    "weights_extra_generator_rejected",
+    "nonpositive_weights_rejected",
+    "floating_weight_rejected",
+    "relation_mass_violation_refused",
+    "nonconfluent_input_refused_before_completion",
+    "uncertified_differential_weight_not_false_algebra_rejection",
+    "post_certificate_rule_mutation_rejected",
+    "cross_presentation_expression_rejected",
+    "unknown_weight_option_refused",
+    "exact_qplane_products_256_cases",
+    "unequal_generator_weights_track_normal_coordinates",
+    "normal_mass_uses_reduced_not_raw_expression",
+    "native_dagger_extends_after_its_own_gate",
+    "dagger_mass_invariance_on_noncommutative_expression",
+    "dagger_without_compatible_weights_not_promoted",
+    "infinite_geometric_tail_0",
+    "infinite_geometric_tail_1",
+    "infinite_geometric_tail_2",
+    "infinite_geometric_tail_3",
+    "infinite_geometric_tail_4",
+    "infinite_geometric_tail_5",
+    "infinite_geometric_tail_6",
+    "infinite_geometric_tail_7",
+    "infinite_geometric_tail_8",
+    "qplane_45_term_infinite_inverse_demonstration",
+    "one_sided_inverse_is_not_two_sided",
+    "power_sharpening_accepts_mass_greater_than_one",
+    "inverse_gate_failure_does_not_assert_singularity",
+    "exponential_tail_dominates_later_partial_sum",
+    "exponential_weak_tail_gate_is_not_divergence",
+    "noncentral_inverse_perturbation_bound",
+    "inverse_derivative_factor_order_matters",
+    "perturbation_boundary_refused_not_called_singular",
+    "Schur_full_system_error_38",
+    "Schur_full_system_error_39",
+    "Schur_full_system_error_40",
+    "Schur_summary_has_three_separate_error_sources",
+    "exact_hidden_source_dressing_is_load_bearing",
+    "nested_elimination_order_with_noncommuting_blocks",
+    "Schur_missing_hidden_inverse_fails_closed",
+    "coordinate_error_bound_uses_declared_weight",
+    "reducible_word_is_not_a_basis_coordinate",
+    "negative_error_bound_refused",
+    "nonlinear_residual_certificate_iteration_0",
+    "nonlinear_residual_certificate_iteration_1",
+    "nonlinear_residual_certificate_iteration_2",
+    "nonlinear_residual_certificate_iteration_3",
+    "nonlinear_residual_certificate_iteration_4",
+    "nonlinear_residual_certificate_iteration_5",
+    "nonlinear_residual_certificate_iteration_6",
+    "nonlinear_exact_solution_has_zero_residual",
+    "nonlinear_failed_ball_does_not_prove_nonexistence",
+    "nonlinear_outside_approximation_refused",
+    "nonlinear_invalid_tuple_refused"
+  ],
+  "details": {
+    "infinite_example": {
+      "relation": "YX=(1/2)XY",
+      "normal_basis": "X^i Y^j, i,j>=0",
+      "order": 8,
+      "retained_monomials": 45,
+      "prior_tail": "1/256",
+      "residual_tail": "14062870701330295/84320374890969432064",
+      "computed_residual_mass": "12383359/137438953472"
+    },
+    "schur_example": {
+      "visible": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "1/2",
+              "0"
+            ]
+          ],
+          [
+            [
+              "K"
+            ],
+            [
+              "1/48",
+              "0"
+            ]
+          ],
+          [
+            [
+              "R",
+              "K"
+            ],
+            [
+              "-1/24",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "actual_visible": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "1916/3837",
+              "0"
+            ]
+          ],
+          [
+            [
+              "K"
+            ],
+            [
+              "40/3837",
+              "0"
+            ]
+          ],
+          [
+            [
+              "R",
+              "K"
+            ],
+            [
+              "-80/3837",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "measured_mass_error": "1957/61392",
+      "proved_visible_error": "7/120",
+      "proved_hidden_error": "271/1920",
+      "budget": {
+        "solver_residual": "77/1536",
+        "memory_operator_error": "1/32",
+        "memory_on_solution": "9/512",
+        "hidden_source_error": "1/24",
+        "effective_inverse_bound": "8/15",
+        "transfer_ratio": "1/61"
+      }
+    },
+    "nonlinear_example": {
+      "manufactured_exact_fixture": true,
+      "contraction": "5/32",
+      "ball_radius": "1/4",
+      "iteration": 3,
+      "residual": "20212987347353942180291175911425/83076749736557242056487941267521536",
+      "error_bound": "20212987347353942180291175911425/70096007590220172985161700444471296",
+      "actual_error": "17061987870719/72057594037927936",
+      "global_uniqueness": false
+    }
+  },
+  "source_sha256": {
+    "core/weighted_completion.cjs": "a32af89f0ee013b918eaae67131b7b3c6e7cf39129fafb64c037cf30ac192f4b",
+    "theory/WEIGHTED_OPERATOR_COMPLETION.md": "32a9d9965ba651c26cb9ea145f2205e97745f047be483659bf49fc853ba34d5d",
+    "tests/verify_weighted.cjs": "532d0976cc635ac3e7c90eadecb4f650fe6cf023256b0e881340a04510bc2f52"
+  },
+  "scope": {
+    "infinite_theorems": "WC1-WC7 written proofs under explicit hypotheses",
+    "infinite_series_enumerated": false,
+    "primitive_hilbert_space": false,
+    "physical_source_identification": false,
+    "independent_proof_assistant": false
+  }
+}

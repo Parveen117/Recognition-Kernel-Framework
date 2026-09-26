@@ -14,3 +14,7 @@ The original filenames and snapshots are retained. The archive is provenance and
 Private MP and RH branch pins appearing in older lineage records remain historical attribution. No fetch from them is needed for the implementations or proofs shipped here. Raw private source, patent/device packets and unrelated application repositories are outside this public consolidation. User-requested migration of the newly developed companion code is recorded in `audit/MIGRATION.md`.
 
 The standalone companion ZIP intentionally omits the optional historical reference tree; its active code, definitions, proofs and tests are complete and run offline. A clone of the canonical repository includes both the active package and the historical public archive.
+
+## Weighted completion development
+
+The operative theorem chapter `theory/WEIGHTED_OPERATOR_COMPLETION.md` consumes the local Pāṇinian normal-form proof, regular-action construction and completion/memory chapter. Its WC1-WC7 statements and proofs are included here. External method citations are attribution; no external repository or analytic library is a runtime dependency. The numerical weights in its examples are declared algebraic calibration, not physical masses or fitted empirical couplings.

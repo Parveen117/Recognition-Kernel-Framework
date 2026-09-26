@@ -1,12 +1,12 @@
 {
-  "protocol": "RKF_CANONICAL_OPERATOR_V0_4",
+  "protocol": "RKF_CANONICAL_OPERATOR_V0_5",
   "status": "PASS_LOCAL_OFFLINE_VERIFICATION",
   "canonical_home": {
     "schema": "rkf.canonical-operator-home.v1",
     "repository": "Parveen117/Recognition-Kernel-Framework",
     "branch": "main",
     "folder": "operator_foundation",
-    "version": "0.4",
+    "version": "0.5",
     "authority": "single active development source for this operator engine",
     "runtime_dependencies": [],
     "external_repository_checkouts_required": false,
@@ -14,38 +14,48 @@
     "all_application_repositories_migrated": false
   },
   "source_sha256": {
-    "CANONICAL_HOME.json": "afef811ae0bf4a4a0a8ad3e9f602bebfb9429dfe955f8f5a95dda15815c190cc",
+    "CANONICAL_HOME.json": "6c5a7756ff220e7a9afa7fdb72151781f1777e2099880788f21a1e1b780ced39",
+    "MATHEMATICAL_PROGRAMME.md": "de1fdc2c2ce55e10752224934492ab150dc1b8eda51a9c57e33019431fad9bc4",
     "PANINIAN_EXTENSION.md": "507a1c62d99336b174d9ca13365c83f399f88cfeba13097dbeed3950c60bc482",
-    "README.md": "b981355aba8753d94b10f2e651beeffdbb9ed005cd988aa7a25fe3eacb3402a6",
-    "SOURCE_INDEX.md": "90e1c8b8df47704ae4b6e85f9b5882fa2187b3bd5d1873026c95fb125c352a7a",
+    "README.md": "5fa13d4df90b33597e3c72d1860258d0492d8680583e7b7e3b2e13dddfc6bbc9",
+    "SOURCE_INDEX.md": "86f257c89971be7f96034d6823d80f87772801c92f4122961da0d3bda3320801",
+    "audit/DEVELOPMENT_V0_5.md": "8016075d99324ca973468f9a0716f6b1db6c280d1e12e3cf1d3ad2ad2f48c4db",
     "audit/EXAMPLE_INPUTS.json": "966cb8711d947069f568472c460f21749abb159a75d173ce28c5280a1d6c88f5",
-    "audit/EXPECTED.sha256": "c142b3004892db708b887f86cb602862811f5f44491f10f88935eb5c9b8e9efc",
+    "audit/EXPECTED.sha256": "e07e304a68fc5c111b7acd19986a6fd54235a00db1b3c0440d44bc8662cf9dff",
     "audit/LINEAGE_RECONCILIATION.json": "b4314ff3bd92b04f857fd7acd111163108afdaa0e9cd7e4ad6a0d7a520a8b617",
     "audit/MIGRATION.md": "74e066c9692ba5f46aee98e0f5a23b27263f008269b33e83040e26f01c4a872c",
     "audit/PANINIAN_EXPECTED.sha256": "5c7469932d7192934f76d8722b2199e241e0715a1c3d25fb50276531cf9f2b91",
     "audit/PANINIAN_SOURCE_REGISTER.json": "216dc40d80e579444ff96421388131a8ac72682460122d4bf13ba45eed2c8f14",
     "audit/PUBLICATIONS_MORPHIC_AUDIT.md": "7c15699645bdc2647596a950811e14298041b0937fd3ef7e4f58b71724d0f89a",
     "audit/SOURCE_OVERRIDES.md": "7cb31cdbe8f058792ceb89a99f6471834ea36fb953667be60418f8ce8b86e88b",
+    "audit/WEIGHTED_COMPLETION_CERTIFICATE.json": "a554ad9d13d9758ce20345150bb73869625a79c1267818e6da16f7774554d576",
+    "audit/WEIGHTED_EXPECTED.sha256": "b04b46b24ceed9afd5d3491580f64acf5590d1e2b370a1485160001df0a0d7f4",
     "audit/history/PRIOR_RELEASES.json": "8d3c01ead643fd7878c28b06ee9396ce3d384ab08681bcc5f0ec2ec66964bb6d",
+    "audit/history/V0_4_LAURENT_EXPECTED.sha256": "c142b3004892db708b887f86cb602862811f5f44491f10f88935eb5c9b8e9efc",
+    "audit/history/V0_4_MASTER_EXPECTED.sha256": "e9332256963741decc009109c7ac4c0d882f1812dab66a74de1d033fbb3d4767",
     "cli.cjs": "fa0b14d889386273008e6558a868948af85745af2e419a1d83c76886706e7d6c",
     "core/dependency_gate.cjs": "9a3bbecd03c159536dc17ca827d24d6e644d527adbf6da332460efbb45dbc8d1",
     "core/native_laurent.cjs": "fc84abf52311f89ee3a7bb8c6883412e5f64a65812b0031804b44a2e660c0c8a",
     "core/native_operator.cjs": "304963cccf4320d76dd36147e5c15ad579e9d0496c86fb1f942543bc692e06a3",
     "core/native_paths.cjs": "cc59550c541c078a8b4643e8602691e147179db780e232a53162f604e812e14f",
     "core/paninian_operator.cjs": "9a30c72f4e89d0a15697c99095ed8e0f015bb8c64fda4ded9897394945886fd8",
+    "core/weighted_completion.cjs": "a32af89f0ee013b918eaae67131b7b3c6e7cf39129fafb64c037cf30ac192f4b",
     "core/workbench.cjs": "c12a3138cc326604a1149bc306b8cc338b9e9161516b610504ddbc7d59a1ea6d",
     "examples/emk_job.json": "fd3c9e50cb51050acb9c36b3123fbc4664870c621e5d73bb8763b1050b30c763",
     "examples/infinite_job.json": "92574666e9dcbd90589647ee74faf1bcc468e42d4db632574ffc9be09fcb9881",
     "examples/jet_job.json": "bf52832706b44c050f31b8b2f0fa5f6371583cdb81acf859d3f0b03633ee8cdf",
     "examples/paninian_demo.cjs": "b2778b35e24117050fbe85cd2cee6d229c09f521123e1b7f90426b40b7296502",
-    "package.json": "4f1da24591cf705af92c691c3148018d3210fa56727058238fdf81e9bdf74379",
+    "examples/weighted_completion_demo.cjs": "519f7d1ba413c3670943980c2b13aa045f60462bf28c85a8d3ad4552d9666a78",
+    "package.json": "22b46b6af99394f2b1fcc3e76ff76a8eb125723a968374aaf9a0959e60cda543",
     "tests/mutate_paninian.cjs": "2b3ba50f70caa551f756c1b212fff447711afa99f6b0c00143d69ddbd0252cbb",
+    "tests/mutate_weighted.cjs": "df75133028b7921c6b9e71b4160a5fb4685a78213962cebc844571d2f8731a46",
     "tests/mutate_workbench.cjs": "e9b26666eadb1fd871ef50d079d58e3d443440481dd6f210efc2298210b715c8",
     "tests/mutation_controls.cjs": "c8b10171831a1d529c0f5123dfc6dabad63933b85960d9501cf7876cb5c06d91",
     "tests/offline_guard.cjs": "b7fe2fdc542981f133cf3a647283c044fd71919585fb1173f3f738b5f7406df9",
     "tests/verify.cjs": "1e87469ffcb030da280c15258970c600130e1336c3bbe8f9b8373dabc7ec97ed",
     "tests/verify_core.cjs": "ce7b211e20c0fc3fb8ef55a36b096efecccdb7548c999c29d1bcfc34bb812c63",
     "tests/verify_paninian.cjs": "acd05c016faaf27daaff5823269a5f984c8ca1d0dd99c874b843ab5ab7a644ef",
+    "tests/verify_weighted.cjs": "532d0976cc635ac3e7c90eadecb4f650fe6cf023256b0e881340a04510bc2f52",
     "tests/verify_workbench.cjs": "da76089e92d4beae4da8ba0128f524ee34c32260700fb375540a316c19eb4b95",
     "theory/01_NATIVE_ALGEBRA.md": "ea07ab9f0f8a47e63f8ee973638669f596308cec4ed234ced7497a5f7539ecf5",
     "theory/02_COMPLETION_AND_MEMORY.md": "d205729945231c81a035889709f0a217b5a0979ce5299bdf6ed2ea30a5b9c817",
@@ -53,7 +63,8 @@
     "theory/NATIVE_LAURENT_JET_REPAIR.md": "7a9ae502453be6200844180da90790603195de80a1109dc13cb2449db419cd5c",
     "theory/NATIVE_PRIMITIVE_ORDER.md": "f1f2fa357d41745445bcaf403784edbec6a17cbd78bc400cbd1229aa682c0fd9",
     "theory/PANINIAN_OPERATOR_COMPILER.md": "cbeb9fd821bc134f4510408623fb1c723ab59a00237aa5b505d09cd4621c4eca",
-    "verify_all.cjs": "d7f3780c9519ebbb4b90290ef5ecd9cabd619533afb1a2bb27f750d577ffc3c4"
+    "theory/WEIGHTED_OPERATOR_COMPLETION.md": "32a9d9965ba651c26cb9ea145f2205e97745f047be483659bf49fc853ba34d5d",
+    "verify_all.cjs": "f24d050c22616b9ddeb6c9fa32465375d0a26afffb78958582f4e70d8b2b78c1"
   },
   "runs": [
     {
@@ -73,7 +84,7 @@
         "--check"
       ],
       "exit_status": 0,
-      "stdout_sha256": "7e326f0af688525edf1857d7dbc0cb4da0a7d3496609312990a650ddb66499fa",
+      "stdout_sha256": "859fbbe291a2eb83549a8ebf7ef38238f6ad21450d0344db0b4c84a9f15016d0",
       "check_count": 189,
       "mutation_controls": 0
     },
@@ -97,6 +108,18 @@
       "exit_status": 0,
       "stdout_sha256": "73f867a7517404bb6afa5b597762efe1170b0ea2c9e6f3d44bfd485b61ec4303",
       "check_count": 98,
+      "mutation_controls": 0
+    },
+    {
+      "command": [
+        "node",
+        "tests/verify_weighted.cjs",
+        "--check",
+        "--json"
+      ],
+      "exit_status": 0,
+      "stdout_sha256": "1a79986c7e63051c1a0f24affa53c679a992069a374471272005d75fa7505d56",
+      "check_count": 59,
       "mutation_controls": 0
     },
     {
@@ -126,6 +149,16 @@
       ],
       "exit_status": 0,
       "stdout_sha256": "eda9a848ad772896065b0e9725e4feb83f9a71fcbaebaa99a234840d74b10009",
+      "check_count": 0,
+      "mutation_controls": 3
+    },
+    {
+      "command": [
+        "node",
+        "tests/mutate_weighted.cjs"
+      ],
+      "exit_status": 0,
+      "stdout_sha256": "0f2e35a4feedb3252af48c75214dec74cf1c5f9044423be63fc5f852d87d4f43",
       "check_count": 0,
       "mutation_controls": 3
     }
