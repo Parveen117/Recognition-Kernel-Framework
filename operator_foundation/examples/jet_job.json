@@ -1,0 +1,49 @@
+{
+  "schema": "rkf.operator-job.v1",
+  "presentation": {
+    "tokens": [
+      "N"
+    ],
+    "rules": [
+      {
+        "id": "N3",
+        "lhs": [
+          "N",
+          "N",
+          "N"
+        ],
+        "rhs": [],
+        "source": "Declared three-level formal jet continuation"
+      }
+    ]
+  },
+  "tasks": [
+    {
+      "kind": "center"
+    },
+    {
+      "kind": "inverse",
+      "expression": {
+        "op": "subtract",
+        "left": {
+          "word": []
+        },
+        "right": {
+          "word": [
+            "N"
+          ]
+        }
+      }
+    },
+    {
+      "kind": "future_observer",
+      "observer": [
+        [
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ]
+}

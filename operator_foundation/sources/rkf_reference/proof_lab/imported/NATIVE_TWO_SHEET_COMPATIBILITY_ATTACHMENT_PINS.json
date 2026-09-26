@@ -1,0 +1,51 @@
+{
+  "claim_boundary": {
+    "actual_completed_weil_cut_covariance": "OPEN",
+    "actual_decoder_bound": "OPEN",
+    "actual_two_sheet_boundary_attachment": "DERIVED_STAGE3E",
+    "rh": "NOT_CLAIMED"
+  },
+  "numerical_pins": {
+    "boundary_residual_budget_if_source_exact": "0.0894586115031646185021330388488233134",
+    "t21_beta_zero_upper": "0.8290856201657449",
+    "t21_relative_reserve": "0.1709143798342551"
+  },
+  "pins": {
+    "actual_compatibility_boundary_transfer": {
+      "required": "b_partial belongs to Ran(C_comp^*) and b_comp=C_comp^{dagger,*} b_partial is the density used by the source ledger",
+      "status": "OPEN"
+    },
+    "completion_boundary_evaluation": {
+      "formula": "L_partial f=sqrt(2) f-hat(i/2)",
+      "source": "completed-Weil source manuscript, Sections 14 and 27",
+      "status": "PROVED_SOURCE"
+    },
+    "native_hardy_strip_chart": {
+      "formula": "J_2sh f=(Phi_f(. - ia),Phi_f(. + ia)), a=3/2",
+      "source": "MP PR #243, Native Hardy-strip theorem",
+      "status": "PROVED"
+    },
+    "prime_gamma_two_sheet_chart": {
+      "source": "MP PR #243, NATIVE_PRIME_GAMMA_RESPONSE_FACTORIZATION.md",
+      "status": "PROVED_SOURCE"
+    },
+    "stage3d_source_adapter": {
+      "reported_hash": "871337671eed453743464e2bfd9bc126e75f55a78d26139be01db064a17e79c6",
+      "status": "USER_PASS_HASH_STABLE"
+    },
+    "strip_cauchy_boundary_density": {
+      "formula": "Phi(iy)=<k_(a,y),J_2sh Phi>; ||k_(3/2,1/2)||^2=3/4",
+      "status": "DERIVED_STAGE3E"
+    },
+    "t21_profile_source_domination": {
+      "required": "Xi_0^*Xi_0 >= (1-epsilon) J_2sh^* A_T21 J_2sh on the actual transformed boundary support",
+      "status": "OPEN"
+    }
+  },
+  "schema": "rkf.native_two_sheet_compatibility_attachment_pins.v1",
+  "source_repositories": {
+    "mp": "Parveen117/MP",
+    "rkf": "Parveen117/Recognition-Kernel-Framework"
+  },
+  "terminal_promotion_allowed": false
+}

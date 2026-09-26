@@ -1,0 +1,148 @@
+{
+  "certificate_type": "T76_SEAM_FLOW_METER",
+  "claim_status": "integer_sectors_certified__flips_bracketed_2e-40__count_and_det_routes_AGREE__protection_on_declared_family_only__M_kappa_independent_ladder_identity_EXACT__mp_gold_05_law_instrumented_cited_not_rederived",
+  "controls": {
+    "C1_sectors_constant_on_intervals": true,
+    "C2_brackets_and_det_route_agree": true,
+    "C3_protection_family_and_biting_flip": true,
+    "C4_ladder_identity_exact": true,
+    "C5_swapped_content_tamper_bites": true
+  },
+  "grid": {
+    "1/2": {
+      "flips": [
+        {
+          "det_sign_flip": true,
+          "jump": 1,
+          "kappa_hi": "971237952045/549755813888",
+          "kappa_lo": "1942475904089/1099511627776",
+          "r_half_at_flip": "0.393509764"
+        },
+        {
+          "det_sign_flip": true,
+          "jump": 1,
+          "kappa_hi": "1278409239471/549755813888",
+          "kappa_lo": "2556818478941/1099511627776",
+          "r_half_at_flip": "0.482949374"
+        },
+        {
+          "det_sign_flip": true,
+          "jump": 1,
+          "kappa_hi": "650524318769/274877906944",
+          "kappa_lo": "2602097275075/1099511627776",
+          "r_half_at_flip": "0.488819925"
+        },
+        {
+          "det_sign_flip": true,
+          "jump": 1,
+          "kappa_hi": "2988756907943/1099511627776",
+          "kappa_lo": "1494378453971/549755813888",
+          "r_half_at_flip": "0.535221947"
+        },
+        {
+          "det_sign_flip": true,
+          "jump": 1,
+          "kappa_hi": "1677872808389/549755813888",
+          "kappa_lo": "3355745616777/1099511627776",
+          "r_half_at_flip": "0.573563263"
+        },
+        {
+          "det_sign_flip": true,
+          "jump": 1,
+          "kappa_hi": "3612035577199/1099511627776",
+          "kappa_lo": "1806017788599/549755813888",
+          "r_half_at_flip": "0.597411040"
+        },
+        {
+          "det_sign_flip": true,
+          "jump": 1,
+          "kappa_hi": "3616339116689/1099511627776",
+          "kappa_lo": "226021194793/68719476736",
+          "r_half_at_flip": "0.597792515"
+        }
+      ],
+      "n_flips": 7,
+      "sectors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+      ]
+    },
+    "9/10": {
+      "flips": [
+        {
+          "det_sign_flip": true,
+          "jump": 1,
+          "kappa_hi": "2329531509481/1099511627776",
+          "kappa_lo": "291191438685/137438953472",
+          "r_half_at_flip": "0.452019245"
+        },
+        {
+          "det_sign_flip": true,
+          "jump": 1,
+          "kappa_hi": "2961166943759/1099511627776",
+          "kappa_lo": "1480583471879/549755813888",
+          "r_half_at_flip": "0.532123794"
+        },
+        {
+          "det_sign_flip": true,
+          "jump": 1,
+          "kappa_hi": "758027782159/274877906944",
+          "kappa_lo": "3032111128635/1099511627776",
+          "r_half_at_flip": "0.540027119"
+        },
+        {
+          "det_sign_flip": true,
+          "jump": 1,
+          "kappa_hi": "1696234699613/549755813888",
+          "kappa_lo": "3392469399225/1099511627776",
+          "r_half_at_flip": "0.577120834"
+        },
+        {
+          "det_sign_flip": true,
+          "jump": 1,
+          "kappa_hi": "1842258265343/549755813888",
+          "kappa_lo": "3684516530685/1099511627776",
+          "r_half_at_flip": "0.603755900"
+        },
+        {
+          "det_sign_flip": true,
+          "jump": 1,
+          "kappa_hi": "3965880655369/1099511627776",
+          "kappa_lo": "495735081921/137438953472",
+          "r_half_at_flip": "0.626848631"
+        },
+        {
+          "det_sign_flip": true,
+          "jump": 1,
+          "kappa_hi": "991640639401/274877906944",
+          "kappa_lo": "3966562557603/1099511627776",
+          "r_half_at_flip": "0.626901770"
+        }
+      ],
+      "n_flips": 7,
+      "sectors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+      ]
+    }
+  },
+  "kappa_range": [
+    "1/16",
+    "4"
+  ],
+  "mu_grid": [
+    "1/2",
+    "9/10"
+  ],
+  "verdict": "PASS"
+}

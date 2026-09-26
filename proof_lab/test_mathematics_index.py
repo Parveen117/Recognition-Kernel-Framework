@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import json
 import re
 import unittest
 from pathlib import Path
@@ -10,13 +11,24 @@ from urllib.parse import unquote
 
 ROOT = Path(__file__).resolve().parents[1]
 INDEX = ROOT / "MATHEMATICS_INDEX.md"
+ARCHIVE = ROOT / "MATHEMATICS_INDEX_2026_09_16.md"
 LINK_RE = re.compile(r"!?\[[^\]]*\]\(([^)]+)\)")
 
 
 class MathematicsIndexTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls) -> None:
-        cls.text = INDEX.read_text(encoding="utf-8")
+        cls.routing = INDEX.read_text(encoding="utf-8")
+        cls.text = cls.routing + "\n" + ARCHIVE.read_text(encoding="utf-8")
+
+    def test_canonical_engine_and_preserved_register_are_routed(self) -> None:
+        self.assertIn("](MATHEMATICS_INDEX_2026_09_16.md)", self.routing)
+        self.assertIn("](operator_foundation/README.md)", self.routing)
+        home = json.loads((ROOT / "operator_foundation/CANONICAL_HOME.json").read_text(encoding="utf-8"))
+        self.assertEqual("Parveen117/Recognition-Kernel-Framework", home["repository"])
+        self.assertEqual("main", home["branch"])
+        self.assertEqual("operator_foundation", home["folder"])
+        self.assertFalse(home["external_repository_checkouts_required"])
 
     def test_required_navigation_layers_are_present(self) -> None:
         required = (
@@ -58,12 +70,8 @@ class MathematicsIndexTests(unittest.TestCase):
         by_number: dict[int, list[Path]] = {}
         for capsule in capsules:
             by_number.setdefault(int(capsule.name[:2]), []).append(capsule)
-
         self.assertEqual(list(range(1, 78)), sorted(by_number))
-        self.assertFalse(
-            {number: paths for number, paths in by_number.items() if len(paths) != 1}
-        )
-
+        self.assertFalse({number: paths for number, paths in by_number.items() if len(paths) != 1})
         for capsule in capsules:
             relative = capsule.relative_to(ROOT).as_posix()
             with self.subTest(capsule=relative):

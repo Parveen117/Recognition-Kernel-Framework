@@ -1,0 +1,37 @@
+name: OpenTimestamps Evidence Anchor
+
+on:
+  push:
+    branches:
+      - agent/stratified-recognition-faithfulness-v1
+    paths:
+      - '.github/workflows/open-timestamps-evidence.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  stamp:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install official OpenTimestamps client
+        run: python -m pip install opentimestamps-client
+      - name: Verify manifest SHA-256
+        run: |
+          cd theorum
+          sha256sum -c LEGAL_EVIDENCE_MANIFEST_2026_08_08.sha256
+      - name: Create OpenTimestamps receipt
+        run: ots stamp theorum/LEGAL_EVIDENCE_MANIFEST_2026_08_08.json
+      - name: Inspect receipt
+        run: ots info theorum/LEGAL_EVIDENCE_MANIFEST_2026_08_08.json.ots
+      - name: Upload OpenTimestamps receipt
+        uses: actions/upload-artifact@v4
+        with:
+          name: rnke-open-timestamps-receipt-2026-08-08
+          path: theorum/LEGAL_EVIDENCE_MANIFEST_2026_08_08.json.ots
+          if-no-files-found: error

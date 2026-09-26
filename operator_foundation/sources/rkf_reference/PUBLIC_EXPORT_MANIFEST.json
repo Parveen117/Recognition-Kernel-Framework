@@ -1,0 +1,41 @@
+{
+  "schema": "recognition-kernel-public-export-v0.1",
+  "source_repository": "Parveen117/RH-Framework",
+  "source_commit": "c588ded973a395b5fce37c82f670616160979a2e",
+  "public_cartridge": "mathematical-proof-transport/native-zeta-foundation",
+  "files": [
+    "src/rh_framework/native_summability.py",
+    "theorems/foundation/F00E_NATIVE_EULER_FROM_IOTA_COMPLEX.md",
+    "theorems/foundation/F00G_NATIVE_LOGARITHM_AND_POWERS.md",
+    "theorems/foundation/F00H_NATIVE_NATURAL_ARITHMETIC_AND_PRIME_FACTORIZATION.md",
+    "theorems/foundation/F00I_NATIVE_DIRICHLET_ZETA_EULER_PRODUCT.md",
+    "certificates/foundation/NUMERICAL_PROOF_PROTOCOL.md",
+    "certificates/foundation/VERIFICATION_CAMPAIGN.md",
+    "certificates/foundation/run_campaign.py",
+    "certificates/foundation/campaign_result.json",
+    "certificates/foundation/F00_F00E_EULER_V0_1/README.md",
+    "certificates/foundation/F00_F00E_EULER_V0_1/spec.json",
+    "certificates/foundation/F00_F00E_EULER_V0_1/verify.py",
+    "certificates/foundation/F00_F00E_EULER_V0_1/result.json",
+    "certificates/foundation/F00GHI_LOG_ARITHMETIC_ZETA_V0_1/README.md",
+    "certificates/foundation/F00GHI_LOG_ARITHMETIC_ZETA_V0_1/spec.json",
+    "certificates/foundation/F00GHI_LOG_ARITHMETIC_ZETA_V0_1/verify.py",
+    "certificates/foundation/F00GHI_LOG_ARITHMETIC_ZETA_V0_1/result.json"
+  ],
+  "excluded": [
+    "private filing drafts",
+    "personal addresses and priority lists",
+    "notebooks and caches",
+    "local machine paths",
+    "unreviewed experimental branches",
+    "uncertified later theorem packages"
+  ],
+  "archived_campaign_sha256": "8728ab0319afe5fb6e6329deaee479cfa93f50bb4422ee863aaaf4f911dd9582",
+  "scientific_boundary": {
+    "implemented_foundation_packages": "CERTIFIED",
+    "fourier_gamma_xi": "NOT_CERTIFIED",
+    "completed_weil_sign": "OPEN",
+    "eta_zero_endpoint": "OPEN",
+    "riemann_hypothesis": "OPEN"
+  }
+}

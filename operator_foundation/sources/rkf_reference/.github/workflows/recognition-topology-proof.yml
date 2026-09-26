@@ -1,0 +1,37 @@
+name: Recognition Topology Proof Lab
+
+on:
+  push:
+    branches:
+      - agent/morphic-path-recognition-theorems
+    paths:
+      - 'theorum/recognition_topology/**'
+      - 'proof_lab/recognition_topology/**'
+      - 'proof_lab/test_recognition_topology.py'
+      - '.github/workflows/recognition-topology-proof.yml'
+  pull_request:
+    paths:
+      - 'theorum/recognition_topology/**'
+      - 'proof_lab/recognition_topology/**'
+      - 'proof_lab/test_recognition_topology.py'
+      - '.github/workflows/recognition-topology-proof.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  topology:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.11', '3.12']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Run Recognition Topology theorem controls
+        run: python -m unittest -v proof_lab.test_recognition_topology
+      - name: Run exact topology calibration
+        run: python -m proof_lab.recognition_topology.verify

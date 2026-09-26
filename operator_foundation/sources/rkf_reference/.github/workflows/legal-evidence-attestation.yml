@@ -1,0 +1,31 @@
+name: Legal Evidence Manifest Attestation
+
+on:
+  push:
+    branches:
+      - agent/stratified-recognition-faithfulness-v1
+    paths:
+      - 'theorum/LEGAL_EVIDENCE_MANIFEST_2026_08_08.json'
+      - 'theorum/LEGAL_EVIDENCE_MANIFEST_2026_08_08.sha256'
+      - '.github/workflows/legal-evidence-attestation.yml'
+  workflow_dispatch:
+
+permissions:
+  id-token: write
+  contents: read
+  attestations: write
+
+jobs:
+  attest-evidence-manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify committed SHA-256
+        shell: bash
+        run: |
+          cd theorum
+          sha256sum -c LEGAL_EVIDENCE_MANIFEST_2026_08_08.sha256
+      - name: Generate GitHub Sigstore artifact attestation
+        uses: actions/attest@v4
+        with:
+          subject-path: theorum/LEGAL_EVIDENCE_MANIFEST_2026_08_08.json

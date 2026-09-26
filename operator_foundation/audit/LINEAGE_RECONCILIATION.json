@@ -1,0 +1,121 @@
+{
+  "protocol": "NATIVE_OPERATOR_LINEAGE_V0_2",
+  "date": "2026-09-26",
+  "primary_order": [
+    "typed_cut",
+    "cut_scalar",
+    "oriented_iota",
+    "residue_paths",
+    "native_completion_if_needed",
+    "derived_pairing_if_needed",
+    "proved_representation_if_needed",
+    "physical_adapter_if_supplied"
+  ],
+  "integration_visibility": "PRIVATE_MP",
+  "source_bindings": [
+    {
+      "id": "MP_NATIVE",
+      "repository": "Parveen117/MP",
+      "commit": "feedfca094aa557086a612a0736aaffc07ab1ae4",
+      "path": "proof_lab/native_operator_algebra",
+      "tree": "19c60be4bfb22d31aa150627fed5213e04a4c635",
+      "role": "NATIVE_FOUNDATION",
+      "copy": "UNCHANGED_SOURCE_TREE_IN_GITHUB_ONLY",
+      "historical_suite_rerun": false
+    },
+    {
+      "id": "MP_NR_LEDGER",
+      "repository": "Parveen117/MP",
+      "commit": "feedfca094aa557086a612a0736aaffc07ab1ae4",
+      "path": "proof_lab/native_operator_algebra/THEOREM_LEDGER.md",
+      "blob": "95cf3753a8408cf9af19b7c7f25ec958729168e7",
+      "reading": "FULL_TEXT_REVISITED",
+      "role": "SOURCE_STATUS_NOT_NEW_CERTIFICATION"
+    },
+    {
+      "id": "RH_F06",
+      "repository": "Parveen117/RH-Framework",
+      "ref": "agent/native-operator-bridge",
+      "path": "theorems/foundation/F06_NATIVE_ADJOINTABLE_OPERATOR_ALGEBRA.md",
+      "blob": "1b5572dcdffe66db09546da2b6c379c8d72d7733",
+      "reading": "FULL_TEXT_REVISITED",
+      "role": "DERIVED_NATIVE_PAIRING_AND_ACTION_NOT_PRIMITIVE_HILBERT",
+      "copy": "SOURCE_REGISTERED_NOT_COPIED"
+    },
+    {
+      "id": "RH_F07",
+      "repository": "Parveen117/RH-Framework",
+      "ref": "agent/native-operator-bridge",
+      "path": "theorems/foundation/F07_NATIVE_RIESZ_AND_FORM_REPRESENTATION.md",
+      "blob": "09333ce0d9bf6f66d27d547333c772c9b1dd21ac",
+      "reading": "PREVIOUS_AUDIT_PIN_NOT_REPROVED_HERE",
+      "role": "EXISTING_NATIVE_PAIRING_REPRESENTATION_LINEAGE",
+      "copy": "SOURCE_REGISTERED_NOT_COPIED"
+    },
+    {
+      "id": "RH_F08",
+      "repository": "Parveen117/RH-Framework",
+      "ref": "agent/native-operator-bridge",
+      "path": "theorems/foundation/F08_NATIVE_APERTURE_COMPACTNESS.md",
+      "blob": "0ce6e472bd078e216eb383c1a4f0dc3e9346486f",
+      "reading": "PREVIOUS_AUDIT_PIN_NOT_REPROVED_HERE",
+      "role": "EXISTING_NATIVE_APERTURE_COMPACTNESS",
+      "copy": "SOURCE_REGISTERED_NOT_COPIED"
+    },
+    {
+      "id": "MP_PRINCIPAL_PARTS",
+      "repository": "Parveen117/MP",
+      "commit": "506ddd72ede419bd68f941e11cf9bdd5645a4129",
+      "path": "programmes/native_spectral_determinant_principal_parts/NATIVE_SPECTRAL_DETERMINANT_PRINCIPAL_PARTS_THEOREM.md",
+      "blob": "9752c511ff441c52d7a285906396271ae1cc0221",
+      "reading": "FULL_TEXT_COMBINED_RANGES_REVISITED",
+      "role": "ALGEBRAIC_IDENTITIES_RETAINED_ANALYTIC_LAYER_SEPARATE",
+      "source_section_11_generic_projector_label": "SUPERSEDED_IN_THIS_CORRECTIVE_EDITION"
+    },
+    {
+      "id": "RKF_CORE_V01",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "46da153490dd0477119f09cc9ecdf53d8181538d",
+      "path": "operator_foundation/core/native_operator.cjs",
+      "blob": "7b188defee82aa0edafc586eb3091baf0ceb6900",
+      "sha256": "304963cccf4320d76dd36147e5c15ad579e9d0496c86fb1f942543bc692e06a3",
+      "role": "UNCHANGED_INDEPENDENT_EXACT_FINITE_COORDINATE_IMPLEMENTATION",
+      "previous_companion_check": "122_PASSED_AGAIN_IN_THIS_PASS"
+    }
+  ],
+  "correction": {
+    "predicate_source": "MP NR10 and RH F06: aperture/projection requires p^2=p (and native dagger symmetry where specified)",
+    "retained": [
+      "Taylor/Laurent coefficient relations",
+      "left/right logarithmic residue formula",
+      "marked coefficient recovery",
+      "determinant normalization contract",
+      "higher-chain blindness example"
+    ],
+    "not_promoted": [
+      "general logarithmic residue is idempotent",
+      "ordinary Hilbert space is primitive",
+      "native mass equals represented operator norm",
+      "finite matrix representation erases integer sheet residue"
+    ],
+    "positive_replacement": "Q_A=K_Sigma[[t]]^n/A(t)K_Sigma[[t]]^n with exact descended formal continuation and faithful marker/jet readout"
+  },
+  "older_audit_corrections": {
+    "native_operator_completions_not_globally_unbuilt": true,
+    "native_F06_not_an_ordinary_Hilbert_primitive": true,
+    "new_v01_theory_overlap_credited_to_earlier_MP_RH_sources": true,
+    "UGD_topology_note": "SEAM_GLUE_AND_REGULARITY_CLARIFICATION_NOT_BLANKET_REJECTION_NO_SOURCE_EDIT_HERE"
+  },
+  "new_module_assumptions": [
+    "central formal continuation indeterminate",
+    "finite free cut module for determinant/length theorem",
+    "nonzero formal determinant",
+    "two-sided Laurent inverse when residue computation is requested"
+  ],
+  "formal_continuation_is_physical_time": false,
+  "public_private_export": false,
+  "all_513_branches_integrated": false,
+  "current_canonical_home": "Parveen117/Recognition-Kernel-Framework/main/operator_foundation",
+  "historical_context_only": true,
+  "private_snapshot_copied_in_current_release": false
+}

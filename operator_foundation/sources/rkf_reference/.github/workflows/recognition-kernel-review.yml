@@ -1,0 +1,72 @@
+name: Recognition Kernel Review
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  reviewer-certificate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Public language and privacy audit
+        run: python scripts/public_release_audit.py
+
+      - name: Run implemented certificate campaign
+        env:
+          PYTHONINTMAXSTRDIGITS: '0'
+        run: |
+          python certificates/foundation/run_campaign.py \
+            --output certificates/foundation/campaign_result_ci.json
+
+      - name: Compare archived and CI statuses
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          archived = json.loads(
+              Path('certificates/foundation/campaign_result.json')
+              .read_text(encoding='utf-8')
+          )
+          reproduced = json.loads(
+              Path('certificates/foundation/campaign_result_ci.json')
+              .read_text(encoding='utf-8')
+          )
+
+          assert archived['status'] == reproduced['status']
+          assert archived['status'] == 'PASS_IMPLEMENTED_FOUNDATION_CERTIFICATE_CAMPAIGN'
+
+          a = {x['package']: x['reported_status'] for x in archived['packages']}
+          b = {x['package']: x['reported_status'] for x in reproduced['packages']}
+          assert a == b
+          assert all(x['passed'] for x in reproduced['packages'])
+
+          print('PASS_ARCHIVED_AND_CI_PACKAGE_STATUS_MATCH')
+          PY
+
+      - name: Upload certificate evidence
+        uses: actions/upload-artifact@v4
+        with:
+          name: recognition-kernel-foundation-certificates
+          path: |
+            certificates/foundation/campaign_result.json
+            certificates/foundation/campaign_result_ci.json
+            certificates/foundation/F00_F00E_EULER_V0_1/result.json
+            certificates/foundation/F00GHI_LOG_ARITHMETIC_ZETA_V0_1/result.json
+          if-no-files-found: error

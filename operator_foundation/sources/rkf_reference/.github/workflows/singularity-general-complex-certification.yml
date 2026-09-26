@@ -1,0 +1,46 @@
+name: Singularity General Complex Certification
+
+on:
+  push:
+    branches:
+      - agent/singularity-normal-crossing-complex-v5
+    paths:
+      - 'theorum/singularity_calculus/**'
+      - 'proof_lab/singularity_calculus/**'
+      - 'proof_lab/test_singularity_calculus_general_complex.py'
+      - '.github/workflows/singularity-general-complex-certification.yml'
+  pull_request:
+    paths:
+      - 'theorum/singularity_calculus/**'
+      - 'proof_lab/singularity_calculus/**'
+      - 'proof_lab/test_singularity_calculus_general_complex.py'
+      - '.github/workflows/singularity-general-complex-certification.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  general-normal-crossing-complex:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.11', '3.12']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Run legacy theorem controls
+        run: >-
+          python -m unittest -v
+          proof_lab.test_singularity_calculus
+          proof_lab.test_singularity_calculus_triple
+      - name: Run general-complex theorem controls
+        run: python -m unittest -v proof_lab.test_singularity_calculus_general_complex
+      - name: Run exact legacy calibration
+        run: python -m proof_lab.singularity_calculus.verify
+      - name: Run exact triple-crossing calibration
+        run: python -m proof_lab.singularity_calculus.verify_triple
+      - name: Run exact general-complex calibration
+        run: python -m proof_lab.singularity_calculus.verify_general_complex

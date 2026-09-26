@@ -1,0 +1,57 @@
+{
+  "claim_boundary": {
+    "actual_source_kernel_injectivity": "STAGE3G_TARGET",
+    "actual_strict_odd_positivity": "STAGE3G_TARGET",
+    "odd_classical_interface": "OPEN",
+    "rh": "NOT_CLAIMED"
+  },
+  "numerical_pins": {
+    "far_ray_floor_lower": "0.1568358628972386",
+    "minimum_positive_floor": "0.0003621153431171327",
+    "near_zero_slope_gap_lower": "28.96922744937062",
+    "t21_beta_zero_upper": "0.8290856201657449",
+    "t21_relative_reserve": "0.1709143798342551"
+  },
+  "pins": {
+    "hardy_chart_injectivity": {
+      "formula": "J_2sh f=0 almost everywhere implies f=0",
+      "status": "PROVED_SOURCE"
+    },
+    "mp_t20_covariant_no_blindness": {
+      "formula": "ker S_(0,-)^full=ker Xi_0={0}",
+      "source": "MP PR #277, T20_NATIVE_ODD_SOURCE_KERNEL_AND_SINGLE_SECTOR_THEOREM.md",
+      "status": "PROVED_MP_PR277"
+    },
+    "odd_classical_normalization_interface": {
+      "required": "termwise boundary, Gamma and prime match in one Fourier convention",
+      "status": "OPEN_NEXT"
+    },
+    "same_carrier_identification": {
+      "formula": "The T21 lower chart and Xi_0 act on the same completed two-sheet carrier",
+      "status": "DERIVED_STAGE3F"
+    },
+    "stage3d_source_analysis": {
+      "formula": "Xi_0=A_mis D_comp; Xi_0^*Xi_0=S_(0,-)^full",
+      "hash": "871337671eed453743464e2bfd9bc126e75f55a78d26139be01db064a17e79c6",
+      "status": "USER_PASS_HASH_STABLE"
+    },
+    "stage3e_two_sheet_chart": {
+      "formula": "J_2sh is the native Hardy two-sheet boundary chart",
+      "status": "DERIVED_STAGE3E"
+    },
+    "stage3f_t21_loewner_attachment": {
+      "expected_hash": "528b0010db6898cb5594921daf12edef48a732f23edc8c70b76fc034bef6a484",
+      "formula": "A_0(xi)>=s_T21(xi)I_2 on the completed source chart",
+      "status": "PROVED_STAGE3F"
+    },
+    "t21_positive_off_cut_profile": {
+      "formula": "s_T21(xi)>0 away from the single seam xi=0",
+      "status": "SOURCE_PIN_PROVED"
+    }
+  },
+  "schema": "rkf.native_source_kernel_no_blindness_pins.v1",
+  "source_repositories": {
+    "mp": "Parveen117/MP",
+    "rkf": "Parveen117/Recognition-Kernel-Framework"
+  }
+}

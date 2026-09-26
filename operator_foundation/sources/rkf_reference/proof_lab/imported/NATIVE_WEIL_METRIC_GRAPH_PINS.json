@@ -1,0 +1,42 @@
+{
+  "claim_boundary": {
+    "actual_completed_weil_covariance": "OPEN",
+    "rh": "NOT_CLAIMED",
+    "source_pins_are_provenance_records": true
+  },
+  "pins": {
+    "boundary_class_recovered_by_source_adapter_mod_graph_null_seam": {
+      "formula": "p_X-D_Sigma^*c_partial belongs to ker(J_X^*)",
+      "status": "OPEN"
+    },
+    "boundary_riesz_state": {
+      "formula": "M_X=I+C^*C, r_partial=M_X^{-1}q_b, p_X=(r_partial,Cr_partial)",
+      "status": "PINNED_MP_PR273"
+    },
+    "full_boundary_seam_jet": {
+      "formula": "Re integral x exp(-3|x|/2) r_partial(x) dx > 0.0011",
+      "status": "PINNED_MP_PR273"
+    },
+    "native_metric_graph_boundary_pairing": {
+      "formula": "L_partial(f)=<p_X,J_X f>, J_X f=(f,Cf)",
+      "status": "DERIVED_STAGE3C_FROM_PINNED_METRIC_RIESZ_DATA"
+    },
+    "recognition_complete_source_adapter_transport": {
+      "formula": "D_Sigma,N and quotient decoder classes converge on one recovered carrier",
+      "status": "OPEN"
+    },
+    "source_event_analysis_factorization_through_metric_graph": {
+      "formula": "Xi_0=D_Sigma J_X for the prime-Gamma-diagonal-debt source analysis",
+      "status": "OPEN"
+    },
+    "source_gram_identity": {
+      "formula": "Xi_0^*Xi_0=S_(0,-)^full",
+      "status": "PINNED_SOURCE_MANUSCRIPT"
+    }
+  },
+  "schema": "rkf.native-weil-metric-graph-pins.v1",
+  "source_provenance": [
+    "MP PR #273 Native Boundary-Threshold Attainment Dichotomy",
+    "Recognition_Kernel_Native_Completed_Weil_Cut_Burden_Monty_Dabas (1).pdf Sections 27.1 and 27.5"
+  ]
+}

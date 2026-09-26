@@ -1,0 +1,82 @@
+'use strict';
+const assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path'),cp=require('node:child_process'),os=require('node:os');
+const o=require('../core/native_operator.cjs'),p=require('../core/paninian_operator.cjs'),w=require('../core/workbench.cjs');
+const root=path.resolve(__dirname,'..'),checks=[];const clone=x=>JSON.parse(JSON.stringify(x));
+function check(name,f){f();checks.push(name);}
+const word=(...tokens)=>({word:tokens});const add=(...args)=>({op:'add',args});
+const job=JSON.parse(fs.readFileSync(path.join(root,'examples/emk_job.json'),'utf8'));
+const model=w.buildModel(job.presentation),packet=w.runJob(job),hash=p.digest(job);
+check('basis_automatically_derived_not_a_supplied_template',()=>assert.deepEqual(model.basis.words,[[],['R'],['K'],['R','K']]));
+check('finite_basis_confluence_witnesses_replay',()=>{for(const c of model.basis.audit.resolutions){model.presentation.replay(c.left);model.presentation.replay(c.right);}});
+check('regular_carrier_is_four_not_a_supplied_two_state_model',()=>assert.equal(model.actions.R.length,4));
+check('EMK_regular_relation_R_squared',()=>assert(o.equal(o.mul(model.actions.R,model.actions.R),o.scale(o.identity(4),-1))));
+check('EMK_regular_relation_K_squared',()=>assert(o.equal(o.mul(model.actions.K,model.actions.K),o.identity(4))));
+for(let i=0;i<4;i++)for(let j=0;j<4;j++)check(`regular_multiplication_${i}_${j}`,()=>{
+ const a=model.expressions[i],b=model.expressions[j];assert(o.equal(model.leftAction(a.times(b)),o.mul(model.leftAction(a),model.leftAction(b))));
+});
+check('automatic_commutator_coefficients',()=>assert.deepEqual(packet.results[1].result.particular,[['0','0'],['0','0'],['0','0'],['2','0']]));
+check('K_centralizer_dimension_two',()=>assert.equal(packet.results[2].result.dimension,2));
+check('whole_EMK_center_dimension_one',()=>assert.equal(packet.results[3].result.dimension,1));
+check('exact_inverse_one_plus_R',()=>assert.deepEqual(packet.results[4].result.coefficients,[['1/2','0'],['-1/2','0'],['0','0'],['0','0']]));
+check('one_plus_K_not_invertible',()=>assert.equal(packet.results[5].result.status,'NOT_INVERTIBLE_IN_DECLARED_FINITE_ALGEBRA'));
+check('regular_state_future_repair_three_extra_channels',()=>assert.equal(packet.results[6].result.extra_channels,3));
+check('portable_packet_replays_with_trusted_source_hash',()=>assert.equal(w.replayJob(packet,hash).verified_job,true));
+check('replay_requires_external_source_pin',()=>assert.throws(()=>w.replayJob(packet),/externally trusted/));
+check('tampered_normal_form_rejected',()=>{const t=clone(packet);t.results[0].result.normal.terms[0][1]=['2','0'];assert.throws(()=>w.replayJob(t,hash),/does not match/);});
+check('tampered_dimension_rejected',()=>{const t=clone(packet);t.carrier.dimension=2;assert.throws(()=>w.replayJob(t,hash),/does not match/);});
+check('tampered_inverse_rejected',()=>{const t=clone(packet);t.results[4].result.coefficients[0]=['99','0'];assert.throws(()=>w.replayJob(t,hash),/does not match/);});
+check('tampered_action_rejected',()=>{const t=clone(packet);t.regular_representation.actions.R[0][0]=['1','0'];assert.throws(()=>w.replayJob(t,hash),/does not match/);});
+check('self_rehashed_changed_problem_not_accepted',()=>{const t=clone(packet);t.input.tasks=[];t.input_sha256=p.digest(t.input);assert.throws(()=>w.replayJob(t,hash),/source\/contract/);});
+const free={tokens:['X'],rules:[]};
+check('free_generator_not_truncated_into_a_finite_algebra',()=>assert.equal(w.buildModel(free).basis.status,'INFINITE_IRREDUCIBLE_LANGUAGE'));
+check('infinite_language_has_repeatable_cycle_witness',()=>{const s=new p.Presentation(free),b=w.finiteBasis(s);for(let n=0;n<12;n++){const v=b.cycle.access.concat(...Array.from({length:n},()=>b.cycle.loop));assert.equal(s.occurrences(v).length,0);}});
+check('acyclic_budget_is_not_reported_as_infinite',()=>{const s={tokens:['N'],rules:[{id:'N9',lhs:Array(9).fill('N'),rhs:[],source:'fixture'}]};const b=w.buildModel(s,{maxBasis:4}).basis;assert.equal(b.status,'FINITE_BASIS_BUDGET_EXHAUSTED');assert.equal(b.dimension,'9');});
+check('automaton_budget_exhaustion_is_explicit',()=>{const s={tokens:['N'],rules:[{id:'N9',lhs:Array(9).fill('N'),rhs:[],source:'fixture'}]};assert.equal(w.buildModel(s,{maxAutomatonStates:2}).basis.status,'AUTOMATON_BUDGET_EXHAUSTED');});
+const fork={tokens:['C','D','A','B'],rules:[{id:'AB',lhs:['A','B'],rhs:[[['C'],1]],source:'fixture'},{id:'BC',lhs:['B','C'],rhs:[[['D'],1]],source:'fixture'}]};
+check('nonconfluent_presentation_does_not_generate_a_certified_model',()=>assert.equal(w.buildModel(fork).basis.status,'PRESENTATION_NOT_CERTIFIED'));
+check('two_square_zero_generators_still_have_infinite_alternating_words',()=>{
+ const s={tokens:['A','B'],rules:[{id:'AA',lhs:['A','A'],rhs:[],source:'fixture'},{id:'BB',lhs:['B','B'],rhs:[],source:'fixture'}]};assert.equal(w.buildModel(s).basis.status,'INFINITE_IRREDUCIBLE_LANGUAGE');
+});
+for(let n=1;n<=10;n++) {
+ const spec={tokens:['N'],rules:[{id:'nil',lhs:Array(n).fill('N'),rhs:[],source:'declared finite jet'}]},m=w.buildModel(spec);
+ check(`nilpotent_basis_complete_${n}`,()=>{assert.equal(m.basis.dimension,n);assert.deepEqual(m.basis.words,Array.from({length:n},(_,i)=>Array(i).fill('N')));});
+ check(`nilpotent_regular_action_${n}`,()=>assert(o.isZero(o.power(m.actions.N,n))));
+ check(`nilpotent_center_${n}`,()=>assert.equal(w.commutant(m,[m.presentation.word(['N'])]).dimension,n));
+}
+const exterior={tokens:['A','B'],rules:[{id:'AA',lhs:['A','A'],rhs:[],source:'exterior presentation'},{id:'BB',lhs:['B','B'],rhs:[],source:'exterior presentation'},{id:'BA',lhs:['B','A'],rhs:[[['A','B'],-1]],source:'exterior presentation'}]};
+check('different_four_dimensional_algebra_is_not_forced_to_EMK',()=>{const m=w.buildModel(exterior);assert.equal(m.basis.dimension,4);assert.equal(w.commutant(m,[m.presentation.word(['A']),m.presentation.word(['B'])]).dimension,2);});
+check('multi_object_backend_limit_is_explicit',()=>{const m=w.buildModel({objects:['x','y'],tokens:[{name:'u',from:'x',to:'y'}],rules:[]});assert.equal(m.basis.status,'MULTI_OBJECT_BACKEND_NOT_IMPLEMENTED');});
+check('same_dimension_is_not_a_faithfulness_claim_for_arbitrary_matrix',()=>{assert.equal(p.representationGate(model.presentation,{R:o.matrix([[0,-1],[1,0]]),K:o.matrix([[0,1],[1,0]])},2).faithfulnessRequiresProvedSpanningBasis,true);});
+const nil=w.buildModel({tokens:['N'],rules:[{id:'N2',lhs:['N','N'],rhs:[],source:'algebra without positive pairing'}]});
+check('algebraic_dagger_not_silently_coordinate_transpose',()=>{assert.equal(p.daggerGate(nil.presentation,{N:nil.presentation.word(['N'])}).status,'DAGGER_DESCENDS');assert(!o.equal(nil.actions.N,o.dagger(nil.actions.N)));});
+check('regular_representation_reports_no_adjoint_identification',()=>assert.equal(packet.regular_representation.dagger_is_not_assumed_to_be_coordinate_transpose,true));
+const jjob=JSON.parse(fs.readFileSync(path.join(root,'examples/jet_job.json'),'utf8'));
+check('jet_inverse_is_finite_geometric_series',()=>assert.deepEqual(w.runJob(jjob).results[1].result.coefficients,[['1','0'],['1','0'],['1','0']]));
+check('jet_future_observer_requires_two_extra',()=>assert.equal(w.runJob(jjob).results[2].result.extra_channels,2));
+check('zero_observer_with_no_target_stays_zero',()=>{const a=clone(jjob);a.tasks=[{kind:'future_observer',observer:[[0,0,0]]}];assert.equal(w.runJob(a).results[0].result.completed_rank,0);});
+check('target_rows_count_relative_to_original_observer',()=>{const a=clone(jjob);a.tasks=[{kind:'future_observer',observer:[[1,0,0]],target:[[0,0,1]]}];const r=w.runJob(a).results[0].result;assert.equal(r.seed_rank,2);assert.equal(r.completed_rank,3);assert.equal(r.extra_channels,2);});
+check('nonzero_invariant_readout_need_not_retain_everything',()=>{const a=clone(jjob);a.tasks=[{kind:'future_observer',observer:[[1,0,0]]}];assert.equal(w.runJob(a).results[0].result.extra_channels,0);});
+check('integer_charge_losing_relation_still_refused',()=>assert.throws(()=>w.buildModel({tokens:[{name:'u',from:'*',to:'*',charge:1}],rules:[{id:'collapse',lhs:['u'],rhs:[[[],1]],source:'bad'}]}),/residue/));
+check('floating_point_coefficients_rejected',()=>assert.throws(()=>w.parseExpression(model.presentation,{word:['R'],coefficient:0.2}),TypeError));
+check('unknown_expression_opcode_rejected',()=>assert.throws(()=>w.parseExpression(model.presentation,{op:'eval',value:'1+1'}),/Unknown/));
+check('string_code_is_not_an_expression',()=>assert.throws(()=>w.parseExpression(model.presentation,'require("fs")'),/JSON/));
+check('unknown_job_schema_rejected',()=>assert.throws(()=>w.runJob({...job,schema:'other'}),/schema|Expected/));
+check('unknown_task_rejected',()=>assert.throws(()=>w.runJob({...job,tasks:[{kind:'execute'}]}),/Unknown task/));
+check('untrusted_budget_key_rejected',()=>assert.throws(()=>w.runJob({...job,limits:{pretendComplete:true}}),/Invalid resource/));
+check('basis_cap_not_unbounded',()=>assert.throws(()=>w.buildModel(job.presentation,{maxBasis:257}),/256/));
+check('invalid_observer_dimension_rejected',()=>assert.throws(()=>w.runJob({...job,tasks:[{kind:'future_observer',observer:[[1,0]]}]}),/Observer/));
+check('empty_centralizer_targets_gives_whole_algebra',()=>assert.equal(w.commutant(model,[]).dimension,4));
+check('explicit_no_solution_template_is_preserved',()=>{const a={...job,tasks:[{kind:'solve_coefficients',target:word('R'),templates:[word(),word('K')]}]};assert.equal(w.runJob(a).results[0].result.status,'NO_SOLUTION_IN_TEMPLATE');});
+check('affine_templates_preserve_nonuniqueness',()=>{const a={...job,tasks:[{kind:'solve_coefficients',target:word(),templates:[word(),word()]}]};assert.equal(w.runJob(a).results[0].result.status,'AFFINE_SOLUTION_FAMILY');});
+check('JSON_result_is_deterministic',()=>assert.equal(JSON.stringify(w.runJob(clone(job))),JSON.stringify(packet)));
+check('infinite_result_not_a_completed_job',()=>{const a={schema:'rkf.operator-job.v1',presentation:free,tasks:[]},r=w.runJob(a);assert.equal(r.status,'INFINITE_IRREDUCIBLE_LANGUAGE');assert.equal(w.replayJob(r,p.digest(a)).verified_job,false);});
+const tmp=fs.mkdtempSync(path.join(os.tmpdir(),'rkf-cli-'));
+try {
+ const inp=path.join(tmp,'job.json'),out=path.join(tmp,'result.json');fs.writeFileSync(inp,JSON.stringify(job));
+ check('CLI_solve_without_install_or_network',()=>{const r=cp.spawnSync(process.execPath,[path.join(root,'cli.cjs'),'solve',inp,out],{encoding:'utf8',cwd:tmp});assert.equal(r.status,0,r.stderr);assert.equal(JSON.parse(fs.readFileSync(out)).status,'VERIFIED_FINITE_JOB');});
+ check('CLI_replay_separate_process',()=>{const r=cp.spawnSync(process.execPath,[path.join(root,'cli.cjs'),'replay',out,hash],{encoding:'utf8',cwd:tmp});assert.equal(r.status,0,r.stderr);assert.equal(JSON.parse(r.stdout).verified_job,true);});
+ check('CLI_does_not_overwrite_existing_result',()=>{const before=fs.readFileSync(out);const r=cp.spawnSync(process.execPath,[path.join(root,'cli.cjs'),'solve',inp,out],{encoding:'utf8'});assert.equal(r.status,1);assert(before.equals(fs.readFileSync(out)));});
+ check('CLI_bad_input_is_refused',()=>{fs.writeFileSync(inp,'{"schema":');const r=cp.spawnSync(process.execPath,[path.join(root,'cli.cjs'),'solve',inp],{encoding:'utf8'});assert.equal(r.status,1);});
+}finally{fs.rmSync(tmp,{recursive:true,force:true});}
+const report={protocol:'NATIVE_WORKBENCH_TESTS_V0_4',check_count:checks.length,checks,summary:{EMK_dimension:4,EMK_center_dimension:1,K_centralizer_dimension:2,EMK_future_readout_extra_channels:3,jet_depth_three_extra_channels:2,source_dagger_not_coordinate_transpose:true},status:'PASS_EXACT_FINITE_CHECKS'};
+if(process.argv.includes('--json'))console.log(JSON.stringify(report));else console.log('PASS_NATIVE_WORKBENCH',checks.length,JSON.stringify(report.summary));

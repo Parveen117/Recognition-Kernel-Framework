@@ -1,0 +1,145 @@
+{
+  "protocol": "RKF_CANONICAL_OPERATOR_V0_4",
+  "status": "PASS_LOCAL_OFFLINE_VERIFICATION",
+  "canonical_home": {
+    "schema": "rkf.canonical-operator-home.v1",
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "branch": "main",
+    "folder": "operator_foundation",
+    "version": "0.4",
+    "authority": "single active development source for this operator engine",
+    "runtime_dependencies": [],
+    "external_repository_checkouts_required": false,
+    "historical_private_snapshots_exported": false,
+    "all_application_repositories_migrated": false
+  },
+  "source_sha256": {
+    "CANONICAL_HOME.json": "afef811ae0bf4a4a0a8ad3e9f602bebfb9429dfe955f8f5a95dda15815c190cc",
+    "PANINIAN_EXTENSION.md": "507a1c62d99336b174d9ca13365c83f399f88cfeba13097dbeed3950c60bc482",
+    "README.md": "b981355aba8753d94b10f2e651beeffdbb9ed005cd988aa7a25fe3eacb3402a6",
+    "SOURCE_INDEX.md": "90e1c8b8df47704ae4b6e85f9b5882fa2187b3bd5d1873026c95fb125c352a7a",
+    "audit/EXAMPLE_INPUTS.json": "966cb8711d947069f568472c460f21749abb159a75d173ce28c5280a1d6c88f5",
+    "audit/EXPECTED.sha256": "c142b3004892db708b887f86cb602862811f5f44491f10f88935eb5c9b8e9efc",
+    "audit/LINEAGE_RECONCILIATION.json": "b4314ff3bd92b04f857fd7acd111163108afdaa0e9cd7e4ad6a0d7a520a8b617",
+    "audit/MIGRATION.md": "74e066c9692ba5f46aee98e0f5a23b27263f008269b33e83040e26f01c4a872c",
+    "audit/PANINIAN_EXPECTED.sha256": "5c7469932d7192934f76d8722b2199e241e0715a1c3d25fb50276531cf9f2b91",
+    "audit/PANINIAN_SOURCE_REGISTER.json": "216dc40d80e579444ff96421388131a8ac72682460122d4bf13ba45eed2c8f14",
+    "audit/PUBLICATIONS_MORPHIC_AUDIT.md": "7c15699645bdc2647596a950811e14298041b0937fd3ef7e4f58b71724d0f89a",
+    "audit/SOURCE_OVERRIDES.md": "7cb31cdbe8f058792ceb89a99f6471834ea36fb953667be60418f8ce8b86e88b",
+    "audit/history/PRIOR_RELEASES.json": "8d3c01ead643fd7878c28b06ee9396ce3d384ab08681bcc5f0ec2ec66964bb6d",
+    "cli.cjs": "fa0b14d889386273008e6558a868948af85745af2e419a1d83c76886706e7d6c",
+    "core/dependency_gate.cjs": "9a3bbecd03c159536dc17ca827d24d6e644d527adbf6da332460efbb45dbc8d1",
+    "core/native_laurent.cjs": "fc84abf52311f89ee3a7bb8c6883412e5f64a65812b0031804b44a2e660c0c8a",
+    "core/native_operator.cjs": "304963cccf4320d76dd36147e5c15ad579e9d0496c86fb1f942543bc692e06a3",
+    "core/native_paths.cjs": "cc59550c541c078a8b4643e8602691e147179db780e232a53162f604e812e14f",
+    "core/paninian_operator.cjs": "9a30c72f4e89d0a15697c99095ed8e0f015bb8c64fda4ded9897394945886fd8",
+    "core/workbench.cjs": "c12a3138cc326604a1149bc306b8cc338b9e9161516b610504ddbc7d59a1ea6d",
+    "examples/emk_job.json": "fd3c9e50cb51050acb9c36b3123fbc4664870c621e5d73bb8763b1050b30c763",
+    "examples/infinite_job.json": "92574666e9dcbd90589647ee74faf1bcc468e42d4db632574ffc9be09fcb9881",
+    "examples/jet_job.json": "bf52832706b44c050f31b8b2f0fa5f6371583cdb81acf859d3f0b03633ee8cdf",
+    "examples/paninian_demo.cjs": "b2778b35e24117050fbe85cd2cee6d229c09f521123e1b7f90426b40b7296502",
+    "package.json": "4f1da24591cf705af92c691c3148018d3210fa56727058238fdf81e9bdf74379",
+    "tests/mutate_paninian.cjs": "2b3ba50f70caa551f756c1b212fff447711afa99f6b0c00143d69ddbd0252cbb",
+    "tests/mutate_workbench.cjs": "e9b26666eadb1fd871ef50d079d58e3d443440481dd6f210efc2298210b715c8",
+    "tests/mutation_controls.cjs": "c8b10171831a1d529c0f5123dfc6dabad63933b85960d9501cf7876cb5c06d91",
+    "tests/offline_guard.cjs": "b7fe2fdc542981f133cf3a647283c044fd71919585fb1173f3f738b5f7406df9",
+    "tests/verify.cjs": "1e87469ffcb030da280c15258970c600130e1336c3bbe8f9b8373dabc7ec97ed",
+    "tests/verify_core.cjs": "ce7b211e20c0fc3fb8ef55a36b096efecccdb7548c999c29d1bcfc34bb812c63",
+    "tests/verify_paninian.cjs": "acd05c016faaf27daaff5823269a5f984c8ca1d0dd99c874b843ab5ab7a644ef",
+    "tests/verify_workbench.cjs": "da76089e92d4beae4da8ba0128f524ee34c32260700fb375540a316c19eb4b95",
+    "theory/01_NATIVE_ALGEBRA.md": "ea07ab9f0f8a47e63f8ee973638669f596308cec4ed234ced7497a5f7539ecf5",
+    "theory/02_COMPLETION_AND_MEMORY.md": "d205729945231c81a035889709f0a217b5a0979ce5299bdf6ed2ea30a5b9c817",
+    "theory/AUTOMATIC_REGULAR_MODEL.md": "838a285acf97b05517eb1d3ac7602d249cacd735647c61adb67479797ec41b91",
+    "theory/NATIVE_LAURENT_JET_REPAIR.md": "7a9ae502453be6200844180da90790603195de80a1109dc13cb2449db419cd5c",
+    "theory/NATIVE_PRIMITIVE_ORDER.md": "f1f2fa357d41745445bcaf403784edbec6a17cbd78bc400cbd1229aa682c0fd9",
+    "theory/PANINIAN_OPERATOR_COMPILER.md": "cbeb9fd821bc134f4510408623fb1c723ab59a00237aa5b505d09cd4621c4eca",
+    "verify_all.cjs": "d7f3780c9519ebbb4b90290ef5ecd9cabd619533afb1a2bb27f750d577ffc3c4"
+  },
+  "runs": [
+    {
+      "command": [
+        "node",
+        "tests/verify_core.cjs"
+      ],
+      "exit_status": 0,
+      "stdout_sha256": "af2e46247866b11c9688b54b6e1389231d501f249d473755e290fe63b7bf4a37",
+      "check_count": 122,
+      "mutation_controls": 0
+    },
+    {
+      "command": [
+        "node",
+        "tests/verify.cjs",
+        "--check"
+      ],
+      "exit_status": 0,
+      "stdout_sha256": "7e326f0af688525edf1857d7dbc0cb4da0a7d3496609312990a650ddb66499fa",
+      "check_count": 189,
+      "mutation_controls": 0
+    },
+    {
+      "command": [
+        "node",
+        "tests/verify_paninian.cjs",
+        "--check"
+      ],
+      "exit_status": 0,
+      "stdout_sha256": "eea66fca039ed1b69c6c5ab0d701484cae8a4759829d1f062fb79385cbad1674",
+      "check_count": 89,
+      "mutation_controls": 0
+    },
+    {
+      "command": [
+        "node",
+        "tests/verify_workbench.cjs",
+        "--json"
+      ],
+      "exit_status": 0,
+      "stdout_sha256": "73f867a7517404bb6afa5b597762efe1170b0ea2c9e6f3d44bfd485b61ec4303",
+      "check_count": 98,
+      "mutation_controls": 0
+    },
+    {
+      "command": [
+        "node",
+        "tests/mutation_controls.cjs"
+      ],
+      "exit_status": 0,
+      "stdout_sha256": "dc3d063cceec8aed9cb91cc1e3405aaf6719dbfbade3ce819f40caaf3dc85c63",
+      "check_count": 0,
+      "mutation_controls": 3
+    },
+    {
+      "command": [
+        "node",
+        "tests/mutate_paninian.cjs"
+      ],
+      "exit_status": 0,
+      "stdout_sha256": "7cf3b02c54d6000151e96c4c95e4196838d31e0a3991d7b7f155f7546af139c9",
+      "check_count": 0,
+      "mutation_controls": 4
+    },
+    {
+      "command": [
+        "node",
+        "tests/mutate_workbench.cjs"
+      ],
+      "exit_status": 0,
+      "stdout_sha256": "eda9a848ad772896065b0e9725e4feb83f9a71fcbaebaa99a234840d74b10009",
+      "check_count": 0,
+      "mutation_controls": 3
+    }
+  ],
+  "example_input_sha256": {
+    "emk": "2ac229705cfdf8269138f1f6f5ac9beae1fee364ffd1d9a27680bc067deb1a1d",
+    "jet": "4ffe9d2e9c08229a794791a720109fc7e39e4e9ef49bf4662c1cee01606ffff0",
+    "infinite": "9f0d6d6b00ac2ab7376324a114a6a8e6538cdac06edd9655df4cc20f72e58c7a"
+  },
+  "scope": {
+    "primitive_hilbert_space": false,
+    "independent_proof_assistant": false,
+    "private_patent_sources_included": false,
+    "historical_python_tests_rerun": false,
+    "remote_ci_pass_claimed": false
+  }
+}

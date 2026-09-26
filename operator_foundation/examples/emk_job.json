@@ -1,0 +1,141 @@
+{
+  "schema": "rkf.operator-job.v1",
+  "presentation": {
+    "tokens": [
+      "R",
+      "K"
+    ],
+    "rules": [
+      {
+        "id": "RR",
+        "lhs": [
+          "R",
+          "R"
+        ],
+        "rhs": [
+          [
+            [],
+            -1
+          ]
+        ],
+        "source": "Local source: theory/PANINIAN_OPERATOR_COMPILER.md; RKF T48"
+      },
+      {
+        "id": "KK",
+        "lhs": [
+          "K",
+          "K"
+        ],
+        "rhs": [
+          [
+            [],
+            1
+          ]
+        ],
+        "source": "Local source: theory/PANINIAN_OPERATOR_COMPILER.md; RKF T48"
+      },
+      {
+        "id": "KR",
+        "lhs": [
+          "K",
+          "R"
+        ],
+        "rhs": [
+          [
+            [
+              "R",
+              "K"
+            ],
+            -1
+          ]
+        ],
+        "source": "Local source: theory/PANINIAN_OPERATOR_COMPILER.md; RKF T48"
+      }
+    ]
+  },
+  "tasks": [
+    {
+      "kind": "normalize",
+      "expression": {
+        "word": [
+          "K",
+          "R",
+          "K",
+          "R"
+        ]
+      }
+    },
+    {
+      "kind": "solve_coefficients",
+      "target": {
+        "op": "commutator",
+        "left": {
+          "word": [
+            "R"
+          ]
+        },
+        "right": {
+          "word": [
+            "K"
+          ]
+        }
+      }
+    },
+    {
+      "kind": "centralizer",
+      "targets": [
+        {
+          "word": [
+            "K"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "center"
+    },
+    {
+      "kind": "inverse",
+      "expression": {
+        "op": "add",
+        "args": [
+          {
+            "word": []
+          },
+          {
+            "word": [
+              "R"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "inverse",
+      "expression": {
+        "op": "add",
+        "args": [
+          {
+            "word": []
+          },
+          {
+            "word": [
+              "K"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "future_observer",
+      "observer": [
+        [
+          1,
+          0,
+          0,
+          0
+        ]
+      ]
+    }
+  ]
+}

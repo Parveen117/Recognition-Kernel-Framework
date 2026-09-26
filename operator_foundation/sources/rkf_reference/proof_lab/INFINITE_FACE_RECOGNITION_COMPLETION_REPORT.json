@@ -1,0 +1,130 @@
+{
+  "checks": {
+    "t1_consistency_all_checks": true,
+    "t2_stationarity_all_checks": true,
+    "t3_t4_cauchy_tails_and_margin_all_checks": true,
+    "t5_separation_all_checks": true
+  },
+  "claim_boundary": {
+    "NOT_claimed": [
+      "existence of the limit in any topology other than cut-tail mass on finite-support path elements",
+      "theorum/28 hyp. 4 (target faithfulness): no observer declared",
+      "prod(1+mu_i) evaluated transcendentally: only the exact finite product times the declared bound 1+2*tail is used",
+      "RH event family, RH, YM untouched"
+    ],
+    "checked_on_declared_finite_instances": [
+      "word-mass upper bound equals actual masses for the pure-axis calibration (n <= 3)",
+      "sheet stationarity: refinement only adds sheets, never alters present ones",
+      "memory-channel increments bounded by Pi_n mu_{n+1}, exact on pure-axis calibration; declared geometric Smriti tail -> 0; recognized channel exactly stationary",
+      "floor 1 and outward margin u + e_n < 1 from a computed n0 (summable mu_i = a r^i)",
+      "SEPARATION: sup mu < 1 gives the uniform gap (theorum/50) while sum mu < inf is needed for the infinite product to exist as a recognition-complete limit; constant mu = 1/2 has uniform gap and divergent increments"
+    ]
+  },
+  "schema": "rkf.infinite_face_recognition_completion_candidate.v2",
+  "status": "PASS_INFINITE_FACE_RECOGNITION_COMPLETION_CANDIDATE",
+  "t1_consistency": {
+    "checks": {
+      "pure_axis_word_bounds_attained_n_le_3": true
+    }
+  },
+  "t2_stationarity": {
+    "checks": {
+      "present_sheets_unchanged_by_refinement_n_le_3": true
+    }
+  },
+  "t3_t4_cauchy_tails_and_margin": {
+    "Pi_inf_bound": "8060642071659217521175094668125/5070602400912917605986812821504",
+    "a": "1/2",
+    "checks": {
+      "declared_tail_to_zero": true,
+      "every_memory_word_mass_le_rho": true,
+      "finite_product_le_1_over_1_minus_sum_le_1_plus_2sum": true,
+      "outward_margin_u_plus_e_lt_1_from_n0": true,
+      "pure_axis_increment_bound_attained_n_le_3": true,
+      "recognized_channel_exact_floor_1": true
+    },
+    "mu_i": "a r^i",
+    "n0": 1,
+    "per_n": {
+      "1": {
+        "declared_tail": "8060642071659217521175094668125/20282409603651670423947251286016",
+        "increment_mass": "5/32",
+        "u_plus_e_lt_1": true
+      },
+      "10": {
+        "declared_tail": "8060642071659217521175094668125/10384593717069655257060992658440192",
+        "increment_mass": "58613108466507148125/151115727451828646838272",
+        "u_plus_e_lt_1": true
+      },
+      "11": {
+        "declared_tail": "8060642071659217521175094668125/20769187434139310514121985316880384",
+        "increment_mass": "240137905387279785868125/1237940039285380274899124224",
+        "u_plus_e_lt_1": true
+      },
+      "2": {
+        "declared_tail": "8060642071659217521175094668125/40564819207303340847894502572032",
+        "increment_mass": "45/512",
+        "u_plus_e_lt_1": true
+      },
+      "3": {
+        "declared_tail": "8060642071659217521175094668125/81129638414606681695789005144064",
+        "increment_mass": "765/16384",
+        "u_plus_e_lt_1": true
+      },
+      "4": {
+        "declared_tail": "8060642071659217521175094668125/162259276829213363391578010288128",
+        "increment_mass": "25245/1048576",
+        "u_plus_e_lt_1": true
+      },
+      "5": {
+        "declared_tail": "8060642071659217521175094668125/324518553658426726783156020576256",
+        "increment_mass": "1640925/134217728",
+        "u_plus_e_lt_1": true
+      },
+      "6": {
+        "declared_tail": "8060642071659217521175094668125/649037107316853453566312041152512",
+        "increment_mass": "211679325/34359738368",
+        "u_plus_e_lt_1": true
+      },
+      "7": {
+        "declared_tail": "8060642071659217521175094668125/1298074214633706907132624082305024",
+        "increment_mass": "54401586525/17592186044416",
+        "u_plus_e_lt_1": true
+      },
+      "8": {
+        "declared_tail": "8060642071659217521175094668125/2596148429267413814265248164610048",
+        "increment_mass": "27908013887325/18014398509481984",
+        "u_plus_e_lt_1": true
+      },
+      "9": {
+        "declared_tail": "8060642071659217521175094668125/5192296858534827628530496329220096",
+        "increment_mass": "28605714234508125/36893488147419103232",
+        "u_plus_e_lt_1": true
+      }
+    },
+    "r": "1/2",
+    "rho": "1/4"
+  },
+  "t5_separation": {
+    "checks": {
+      "constant_mu_increments_grow_no_mass_limit": true,
+      "gap_nevertheless_uniform_at_every_n": true,
+      "sum_mu_diverges_partial_sums_exceed_every_N_le_50": true
+    },
+    "increments": [
+      "3/4",
+      "9/8",
+      "27/16",
+      "81/32",
+      "243/64"
+    ]
+  },
+  "theorum_28_section_11_ledger": {
+    "1_recovered_identity_across_refinement_arrows": "DELIVERED: refinement n->n+1 is the exact identity on every present sheet (T2)",
+    "2_recognized_and_memory_channel_cauchy_bounds": "DELIVERED: rho^rec_n = 0 exactly; memory increment <= Pi_n mu_{n+1}; exact on the pure-axis calibration (T3)",
+    "3_smriti_tail_bounds": "DELIVERED: declared closed-form tail Pi_inf_bound * sum_{k>n} mu_k, exact rational, -> 0 (T3)",
+    "4_target_faithfulness_residual": "NOT APPLICABLE / NOT BUILT: no observer T declared in this capsule",
+    "5_uniform_positive_recognized_floor": "DELIVERED: Z_n P = P, floor exactly 1 (T4)",
+    "6_outward_finite_seam_margin": "DELIVERED: u = rho = sup mu_i, e_n = tail(n), u + e_n < 1 for n >= n0 (T4)"
+  }
+}
