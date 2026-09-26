@@ -1,0 +1,204 @@
+{
+  "protocol": "RKF_NONSTATIONARY_GRADED_APERTURE_R2",
+  "status": "PASS_EXACT_FINITE_CHECKS",
+  "runtime": "v22.16.0",
+  "check_count": 35,
+  "checks": [
+    "reject_zero_negative_float_and_empty_couplings",
+    "reject_negative_tail_and_zero_tolerance",
+    "derive_pair_balance_from_both_edge_products",
+    "symbolic_native_pair_identities_replay",
+    "full_effective_pair_inverses_match_two_channel_formula",
+    "pair_balance_is_exact_unit_channel_closure_condition",
+    "mismatch_generates_second_response_coordinate",
+    "positive_mismatch_can_make_an_even_aperture_singular",
+    "paired_elimination_avoids_singular_intermediate_half_step",
+    "inhomogeneous_finite_apertures_independently_inverted",
+    "directional_amplitude_ratio_is_not_falsely_reconstructed",
+    "fixed_prefix_order_is_not_reverse_iteration",
+    "unimodular_transfer_and_exact_width_identity",
+    "all_nonnegative_tail_samples_lie_in_certified_interval",
+    "successive_depths_nest_on_one_nonstationary_profile",
+    "exact_boundary_difference_formula",
+    "all_bounded_profiles_have_uniform_cutoff_width_bound",
+    "R2_reduces_exactly_to_homogeneous_R1",
+    "finite_coupling_cut_is_synthesized_not_assumed",
+    "arbitrary_positive_target_return_has_exact_inverse_design",
+    "synthesize_entire_periodic_return_profile",
+    "increasing_coupling_can_move_off_the_exact_cut",
+    "main_periodic_cut_enclosure_is_independent_of_exact_root",
+    "periodic_boundary_coefficients_match_direct_native_powers",
+    "finite_coupling_cut_outside_its_own_return_series_radius",
+    "same_period_product_different_readouts_and_cut_status",
+    "persistent_bulk_asymmetry_does_not_select_R1_cut",
+    "finite_defects_preserve_the_balanced_strong_return_limit",
+    "finite_data_does_not_claim_an_unknown_infinite_profile_converges",
+    "normalized_denominator_products_follow_exact_increment_law",
+    "square_profile_keeps_boundary_interval_width_at_every_tested_depth",
+    "harmonic_profile_has_explicit_divergent_reciprocal_budget",
+    "two_channel_local_readout_recovers_both_edge_products",
+    "proof_replay_refuses_changed_presentation_hash",
+    "new_solver_still_uses_exact_cut_field"
+  ],
+  "counts": {
+    "direct_full_inverses": 20,
+    "local_pair_inverses": 31,
+    "tail_enclosures": 60,
+    "periodic_targets": 15
+  },
+  "results": {
+    "symbolic_pair_proof_names": [
+      "schur",
+      "leftInverse",
+      "rightInverse",
+      "response"
+    ],
+    "mismatch": {
+      "leftProduct": "1/2",
+      "rightProduct": "3/4",
+      "identityCoefficient": "13/15",
+      "KR": "8/15"
+    },
+    "finiteCouplingCut": {
+      "period": [
+        "3",
+        "2"
+      ],
+      "exactReturn": "1",
+      "otherDepthReturn": "2/3",
+      "fullResponse": "I+KR",
+      "normalizedResponse": "(I+KR)/2",
+      "finiteCoupling": true,
+      "infiniteApertureLimit": true,
+      "idempotenceDefect": "0"
+    },
+    "profileSynthesis": {
+      "target": [
+        "1",
+        "2/3",
+        "1/2"
+      ],
+      "designedCells": [
+        "3",
+        "1",
+        "1"
+      ],
+      "nativeCutAtPhase": 0,
+      "condition": "a_j=x_j/(1-x_j*x_(j+1)), with cyclic adjacent products <1"
+    },
+    "strengthAlone": {
+      "periodAtCut": [
+        3,
+        2
+      ],
+      "scaledPeriod": [
+        30,
+        20
+      ],
+      "scaledResponse": "6/5",
+      "scaledCutDefect": "11/100"
+    },
+    "main": {
+      "pattern": [
+        "3",
+        "2"
+      ],
+      "cellsUsed": 70,
+      "apertureHeight": 140,
+      "responseError": "738801103636920311164676914947613845417832330762911744/751894497861238237334164884567519298905296007723421616568422170315",
+      "normalizedCutError": "369400551818460155582338457473806922708916165381455872/751894497861238237334164884567519298905296007723421616568422170315",
+      "exactResponse": "I+KR"
+    },
+    "periodicMoments": {
+      "directChecks": 69,
+      "mainOddCoefficients": [
+        "3",
+        "-18",
+        "216",
+        "-3240"
+      ],
+      "radiusInPairCounter": "1/(2*sqrt(6))",
+      "atOne": "DIVERGENT",
+      "fullUncutTermLowerBound": "2^n"
+    },
+    "sameScalarPeriodProduct": {
+      "first": [
+        3,
+        2
+      ],
+      "second": [
+        6,
+        1
+      ],
+      "product": 6,
+      "returns": [
+        "1",
+        "2"
+      ],
+      "cutDefects": [
+        "0",
+        "3/4"
+      ],
+      "shiftedFirstPeriod": [
+        2,
+        3
+      ],
+      "shiftedReturn": "2/3"
+    },
+    "bulkAsymmetry": {
+      "profile": "g*(6,1,6,1,...)",
+      "strongReturnLimit": "sqrt(6)",
+      "normalizedIdempotenceDefectLimit": "5/4",
+      "universalCutSelection": false
+    },
+    "finiteDefects": {
+      "ratios": [
+        "1/2",
+        "3",
+        "2/3"
+      ],
+      "theorem": "Every fixed finite positive defect prefix over a homogeneous strong-return tail tends to the same native cut",
+      "lastTestBound": "6339753161/250000000000",
+      "reportBoundRoundedOutward": true,
+      "cutoffGrowsWithCoupling": true
+    },
+    "persistentBoundary": {
+      "profile": "a_j=4(j+1)^2, j>=0",
+      "reciprocalSumUpperBound": "1/2",
+      "widthLowerBoundAllDepths": "1/4",
+      "zeroVersusOneTailSeparationLowerBound": "1/8",
+      "depth40Lower": "97289957113/1000000000000",
+      "depth40Upper": "1638831378123/500000000000",
+      "reportEndpointsRoundedOutward": true,
+      "allFiniteAperturesInvertible": true,
+      "oneLimitClaimed": false
+    },
+    "harmonicProfile": {
+      "profile": "a_j=4(j+1)",
+      "eachDyadicReciprocalBlockAtLeast": "1/8",
+      "boundaryIndependentLimit": "PROVED_BY_DIVERGENT_RECIPROCAL_SUM_NOT_BY_FINITE_SAMPLING"
+    }
+  },
+  "source_sha256": {
+    "variable_return.cjs": "5f09ab7be28bf2ed24ddf525bc23d18aae8a19f2179c60d4ff8fd30f57c9fe73",
+    "verify.cjs": "91fec30ae54d022d591dce855472f3807ce41c59436f51d749206eafd37b376a",
+    "mutate.cjs": "9dde31f53107014c9c1f6f6d5f7cba00155193c7139ad76a8906632de1e5cb04",
+    "THEOREM.md": "a37d51e38cf88fb65a7bc2239982a270bc59bdc4c6d4b6e10a6c369358d24bcc",
+    "README.md": "860f62d74ec0776408859dfa92c68b8132b9ce790c765e3eaa45176b6116fc76",
+    "LINEAGE.json": "cc691dbdedb632d945a94082674ec7516efe8f89f4f020b030d888d9c97c9449",
+    "../return_solver.cjs": "adfe2a69d04c387adf3a4809de0f9f57583843c249a87ba3ce7b9988d161009f",
+    "../../../operator_foundation/core/native_operator.cjs": "304963cccf4320d76dd36147e5c15ad579e9d0496c86fb1f942543bc692e06a3",
+    "../../../operator_foundation/core/paninian_operator.cjs": "9a30c72f4e89d0a15697c99095ed8e0f015bb8c64fda4ded9897394945886fd8"
+  },
+  "scope": {
+    "native_hilbert_primitive": false,
+    "positive_pairing_primitive": false,
+    "operator_family": "positive depth-varying pair-balanced EMK excursion family; local mismatch formula also specified",
+    "convergence_theorem": "boundary independence iff sum_j 1/a_j diverges",
+    "general_proofs": "THEOREM.md; finite tests do not prove infinite statements",
+    "external_priority_established": false,
+    "infinite_full_operator_inverse_claimed": false,
+    "physical_quantum_gravity_claimed": false,
+    "historical_science_suites_rerun": false
+  }
+}

@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 26 September 2026, operator mathematics version 0.5 with additive graded-aperture research result R1.
+Index update: 26 September 2026, operator mathematics version 0.5 with additive graded-aperture research results R1 and R2.
 
 ## Active operator-engine route
 
@@ -34,6 +34,19 @@ The [research packet](research/recognition_return/README.md) and [written theore
 The exact benchmark b=2,c=3/5 has divergent uncut and boundary moment series but boundary-aperture limit 1+(2/3)KR. This is the specified recognized response, not a claimed full infinite inverse or physical gravity law. Boundary independence is proved only for the declared nonnegative scalar seed class. The model and its couplings are explicit supplied data.
 
 [Generated finite evidence](research/recognition_return/RESULT.json) records 24 named tests, including 92 coefficient identities, 30 independent finite block inverses and 240 boundary checks. [Mutation controls](research/recognition_return/MUTATIONS.json) reject four planted mathematical faults. Run `node research/recognition_return/verify.cjs --check` from this repository root. The packet uses the canonical engine unchanged; it is not another editable implementation of that engine. Full current v0.5, Python and Lean suites were not rerun for R1. General written proofs, finite execution and external priority remain separate; priority is not established by the limited literature comparison in the theorem.
+
+## Research R2: depth-dependent returns and finite-coupling cut synthesis
+
+The [R2 packet](research/recognition_return/r2/README.md) and [full proof](research/recognition_return/r2/THEOREM.md) extend R1 to positive depth-varying paired edge products. All formulas begin with native EMK multiplication, typed depth apertures and declared source/target contracts; neither an ordinary Hilbert space nor physical time is primitive.
+
+- RD1-RD2: derive the exact unit-channel preservation condition, retain both response coordinates for a mismatched pair, and construct all finite even-aperture inverses for the matched class.
+- RI1-RI2: compute exact nonnegative-tail intervals; boundary independence holds exactly when sum_j 1/a_j diverges. The profile a_j=4(j+1)^2 retains interval width at least 1/4 at every depth despite all finite apertures being invertible.
+- SY1-SY2: synthesize a desired positive two-period return using a=x+b*x^2, and an entire cyclic profile using a_j=x_j/(1-x_j*x_(j+1)) under adjacent-product bounds. Cells (3,2) give exact normalized cut (I+KR)/2 at finite coupling after aperture completion, although the return power series diverges there.
+- SY3/ID1: distinguish finite defects from persistent bulk modulation, and recover two local edge products from two calibrated response coordinates and a known tail.
+
+The [generated certificate](research/recognition_return/r2/RESULT.json) records 35 named exact checks, including 20 complete finite-chain inverses, 31 local pair inverses, 69 direct moment comparisons, 60 tail samples and 15 inverse-design targets. [Six mathematical mutation controls](research/recognition_return/r2/MUTATIONS.json) are rejected before hash checks. R1's unchanged 24 tests and four mutations were also rerun; the new R2 and R1 read-only tests pass under the offline guard. Run `node research/recognition_return/r2/verify.cjs --check` from this root.
+
+The native family, paired products, positivity and boundary class are stated hypotheses. Finite coupling does not mean a finite-aperture exact solution. The continued-fraction criterion has established Seidel-Stern/Stern-Stolz lineage; external priority of the operator synthesis is not established. No full infinite inverse, physical quantum-gravity law, full v0.5 rerun or Python/Lean regression is claimed. Existing engine, R1 source files and their pins remain unchanged.
 
 ## Full framework register, preserved
 

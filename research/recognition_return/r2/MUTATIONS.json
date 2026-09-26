@@ -1,0 +1,42 @@
+{
+  "protocol": "RKF_VARIABLE_APERTURE_MUTATIONS_R2",
+  "controls": [
+    {
+      "fault": "wrong_native_pair_sign",
+      "rejected": true,
+      "exit_code": 1,
+      "hash_check_used": false
+    },
+    {
+      "fault": "reverse_depth_composition",
+      "rejected": true,
+      "exit_code": 1,
+      "hash_check_used": false
+    },
+    {
+      "fault": "false_tail_width",
+      "rejected": true,
+      "exit_code": 1,
+      "hash_check_used": false
+    },
+    {
+      "fault": "drop_quadratic_design_term",
+      "rejected": true,
+      "exit_code": 1,
+      "hash_check_used": false
+    },
+    {
+      "fault": "declare_every_response_a_cut",
+      "rejected": true,
+      "exit_code": 1,
+      "hash_check_used": false
+    },
+    {
+      "fault": "ignore_pair_balance",
+      "rejected": true,
+      "exit_code": 1,
+      "hash_check_used": false
+    }
+  ],
+  "live_files_modified": false
+}

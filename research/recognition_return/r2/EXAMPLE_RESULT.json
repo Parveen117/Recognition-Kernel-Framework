@@ -1,0 +1,86 @@
+{
+  "protocol": "RKF_R2_EXAMPLES",
+  "cutDesign": {
+    "protocol": "RKF_NATIVE_RETURN_SYNTHESIS_R2",
+    "period": [
+      "3",
+      "2"
+    ],
+    "desiredReturn": "1",
+    "otherBoundaryReturn": "2/3",
+    "normalizedCutDefect": "0",
+    "exactNativeCut": true,
+    "condition": "a = x + b*x^2; exact normalized idempotent when x=1, equivalently a=b+1",
+    "scope": "Designed positive depth-periodic family; no physical coupling law is inferred"
+  },
+  "wholeProfileDesign": {
+    "protocol": "RKF_NATIVE_PROFILE_SYNTHESIS_R2",
+    "targets": [
+      "1",
+      "2/3",
+      "1/2"
+    ],
+    "period": [
+      "3",
+      "1",
+      "1"
+    ],
+    "cutPhases": [
+      0
+    ],
+    "scope": "Exact positive periodic response design under every adjacent product <1; no physical-source uniqueness claim"
+  },
+  "certifiedCut": {
+    "protocol": "RKF_PERIODIC_NATIVE_RETURN_R2",
+    "status": "CERTIFIED_RECOGNITION_RESPONSE",
+    "input": {
+      "pattern": [
+        "3",
+        "2"
+      ],
+      "tolerance": "1/1000000000000",
+      "maxCells": 2048
+    },
+    "cellsUsed": 70,
+    "apertureHeight": 140,
+    "interval": {
+      "lower": "1501893302995236605816912744869455/1501893302996417197437630156172879",
+      "upper": "500631100999002497749329620608197/500631100998412201938970914956485",
+      "width": "1477602207273840622329353829895227690835664661525823488/751894497861238237334164884567519298905296007723421616568422170315",
+      "midpoint": "751894497861385997554892547389067215921074799688983591139093577419/751894497861238237334164884567519298905296007723421616568422170315",
+      "error": "738801103636920311164676914947613845417832330762911744/751894497861238237334164884567519298905296007723421616568422170315",
+      "zeroTail": "1501893302995236605816912744869455/1501893302996417197437630156172879",
+      "infiniteTailEndpoint": "500631100999002497749329620608197/500631100998412201938970914956485"
+    },
+    "normalResponse": {
+      "identity": "1",
+      "RK": "-751894497861385997554892547389067215921074799688983591139093577419/751894497861238237334164884567519298905296007723421616568422170315"
+    },
+    "response_mass_error": "738801103636920311164676914947613845417832330762911744/751894497861238237334164884567519298905296007723421616568422170315",
+    "convergence_contract": "Positive periodic profile is bounded, so sum(1/a_j) diverges; tail-independent aperture limit is proved",
+    "global_inverse_claimed": false,
+    "physical_identification": false
+  },
+  "persistentBoundary": {
+    "profile": "a_j=4(j+1)^2",
+    "width_lower_bound": "1/4",
+    "fixed_zero_and_one_tail_separation": "1/8",
+    "all_finite_apertures_invertible": true,
+    "unique_aperture_limit": false
+  },
+  "observedMismatch": {
+    "u": "13/15",
+    "v": "8/15",
+    "schur": {
+      "scalar": "1",
+      "turn": "-1/4",
+      "determinant": "15/16"
+    },
+    "unitChannelPreserved": false
+  },
+  "reconstructedEdgeProducts": {
+    "leftProduct": "1/2",
+    "rightProduct": "3/4",
+    "individual_directional_amplitudes_recovered": false
+  }
+}
