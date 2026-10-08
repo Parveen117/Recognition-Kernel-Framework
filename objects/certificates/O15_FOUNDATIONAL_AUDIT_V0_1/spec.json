@@ -1,0 +1,29 @@
+{
+  "schema": "rkf-native-object-certificate-spec-v0.1",
+  "certificate_class": "F",
+  "certificate_id": "O15_FOUNDATIONAL_AUDIT_V0_1",
+  "theorem_id": "O15",
+  "classification_before_execution": "MIXED_PROVED_CONDITIONAL_OPEN",
+  "reduction_theorem": "Not applicable: Class F foundational audit of written universal proofs and exact finite identities",
+  "source_draft": {
+    "filename": "NEW maths objects(1).tex",
+    "sha256": "68316205bd169a7b6592dadef3e0d1f909b6240e29e2b8a6ad94e7297bdf21ea"
+  },
+  "inputs": [
+    "objects/O15_NATIVE_OBJECT_CERTIFICATION.md",
+    "objects/STATUS_LEDGER.json",
+    "certificates/foundation/NUMERICAL_PROOF_PROTOCOL.md"
+  ],
+  "required_object_ids": [
+    "O01","O02","O03","O04","O05","O06","O07","O08",
+    "O09","O10","O11","O12","O13","O14","O15"
+  ],
+  "required_global_open_claims": [
+    "Riemann Hypothesis",
+    "Eye operator spectrum equals zeta zeros",
+    "prime modularity",
+    "seam-zeta functional equation",
+    "infinite seam determinant"
+  ],
+  "passing_status": "PASS_O15_NATIVE_OBJECT_FOUNDATIONAL_AUDIT"
+}

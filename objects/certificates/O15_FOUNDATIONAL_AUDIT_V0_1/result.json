@@ -1,0 +1,164 @@
+{
+  "arithmetic_engine": {
+    "mode": "exact integer/rational",
+    "name": "Python fractions.Fraction",
+    "python": "3.12.14"
+  },
+  "canonical_payload_sha256": "e0713541cb07a2272700b2d9553ad47623f7cb86f1c46f4aa893522b2317147c",
+  "certificate_class": "F",
+  "certificate_id": "O15_FOUNDATIONAL_AUDIT_V0_1",
+  "classification_before_execution": "MIXED_PROVED_CONDITIONAL_OPEN",
+  "input_hashes": {
+    "source_draft_sha256": "68316205bd169a7b6592dadef3e0d1f909b6240e29e2b8a6ad94e7297bdf21ea"
+  },
+  "negative_controls": [
+    {
+      "detail": "positive=[Fraction(10, 9), Fraction(13, 9), Fraction(19, 9)]",
+      "name": "NC01_reject_indefinite_rank_one_plus_metric",
+      "passed": true
+    },
+    {
+      "detail": "summand limit is 1, violating the term test",
+      "name": "NC02_reject_raw_prime_series_convergence",
+      "passed": true
+    },
+    {
+      "detail": "chi^2=4/9 counterexample",
+      "name": "NC03_reject_unit_orthogonality_weight",
+      "passed": true
+    },
+    {
+      "detail": "condition automatic",
+      "name": "NC04_reject_original_Grassmannian_codimension",
+      "passed": true
+    },
+    {
+      "detail": "RH retained OPEN",
+      "name": "NC05_reject_Eye_RH_promotion",
+      "passed": true
+    }
+  ],
+  "obligations": [
+    {
+      "detail": "ids=['O01', 'O02', 'O03', 'O04', 'O05', 'O06', 'O07', 'O08', 'O09', 'O10', 'O11', 'O12', 'O13', 'O14', 'O15']",
+      "name": "O00_complete_object_ledger",
+      "passed": true
+    },
+    {
+      "detail": "68316205bd169a7b6592dadef3e0d1f909b6240e29e2b8a6ad94e7297bdf21ea",
+      "name": "O00_source_pin_consistency",
+      "passed": true
+    },
+    {
+      "detail": "open=['Riemann Hypothesis', 'Eye operator spectrum equals zeta zeros', 'prime modularity', 'seam-zeta functional equation', 'infinite seam determinant']",
+      "name": "O00_fail_closed_global_claims",
+      "passed": true
+    },
+    {
+      "detail": "exact Gaussian-rational n=1..8",
+      "name": "O01_normalized_jacobian_magnitude",
+      "passed": true
+    },
+    {
+      "detail": "exact inverse and determinant",
+      "name": "O02_rank_one_metric",
+      "passed": true
+    },
+    {
+      "detail": "C=(5, 7, 3), H=(2, 2, 1)",
+      "name": "O03_euler_poincare_cancellation",
+      "passed": true
+    },
+    {
+      "detail": "three elementary tensors retained",
+      "name": "O04_cyclic_input_invariance",
+      "passed": true
+    },
+    {
+      "detail": "primes=(2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31)",
+      "name": "O05_prime_lattice_injection",
+      "passed": true
+    },
+    {
+      "detail": "zeros typed; weighted delta distinguished from unit delta",
+      "name": "O06_cut_character_repair",
+      "passed": true
+    },
+    {
+      "detail": "finite product only",
+      "name": "O07_finite_seam_determinant",
+      "passed": true
+    },
+    {
+      "detail": "R=221/32",
+      "name": "O08_weighted_residue_mixing",
+      "passed": true
+    },
+    {
+      "detail": "exact exponent additivity",
+      "name": "O09_log_fourier_translation",
+      "passed": true
+    },
+    {
+      "detail": "integer carrier",
+      "name": "O10_winding_additivity",
+      "passed": true
+    },
+    {
+      "detail": "polynomial local model",
+      "name": "O11_seam_tangent_divisibility",
+      "passed": true
+    },
+    {
+      "detail": "exact tail=1/6561 at audit depth",
+      "name": "O12_eye_coefficient_extraction",
+      "passed": true
+    },
+    {
+      "detail": "remainder starts at p^-2",
+      "name": "O13_second_order_prime_renormalization",
+      "passed": true
+    },
+    {
+      "detail": "formal (-x)^m/m! coefficients",
+      "name": "O14_seam_zeta_expansion_coefficients",
+      "passed": true
+    },
+    {
+      "detail": "dimension identities n=2..11",
+      "name": "O15_grassmannian_collapse_and_repair",
+      "passed": true
+    }
+  ],
+  "parameter_packet": {
+    "exact_case_depth": 8,
+    "grassmannian_n_max": 11,
+    "prime_carrier_size": 11
+  },
+  "reduction_theorem": "Not applicable: Class F foundational audit of written universal proofs and exact finite identities",
+  "schema": "rkf-native-object-certificate-result-v0.1",
+  "scientific_claim_boundary": {
+    "does_not_prove": [
+      "Riemann Hypothesis",
+      "Eye operator spectrum equals zeta zeros",
+      "prime modularity",
+      "seam-zeta functional equation",
+      "infinite seam determinant"
+    ],
+    "proves": "exact finite consistency of the O15 catalogue and its status ledger"
+  },
+  "source_blob_hashes": {
+    "certificates/foundation/NUMERICAL_PROOF_PROTOCOL.md": "88b42ab7316de31f5adbd777272acd446a1f620698675da9b10118407c1ea008",
+    "objects/O15_NATIVE_OBJECT_CERTIFICATION.md": "6cd6a1577976048d225f3c63788e3476e21a9e30d1b2ef8d39959ffced19ec0e",
+    "objects/STATUS_LEDGER.json": "a72b74e839e8159fbe0f6c61a7113e5e3be8a8aa1a829868f030f2f7abb0e541",
+    "objects/certificates/O15_FOUNDATIONAL_AUDIT_V0_1/spec.json": "d889e2b1b0d2b1cf716dacb7d9061fbc656f5e2b4a674f7844ad7535295a172c"
+  },
+  "source_commit": "6f38ce4b420e8ff662ed3b09b2515a8273bb069c",
+  "status": "PASS_O15_NATIVE_OBJECT_FOUNDATIONAL_AUDIT",
+  "tail_and_residual_ledger": {
+    "O12_scaled_tail_model": "q^h with q=1/3",
+    "O13_prime_tail_comparison": "C_R/p^2",
+    "numerical_floating_residuals": "none"
+  },
+  "theorem_id": "O15"
+}

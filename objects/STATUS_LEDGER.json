@@ -1,0 +1,34 @@
+{
+  "schema": "rkf-native-object-status-ledger-v0.1",
+  "package": "O15",
+  "author": "Monty Dabas",
+  "source": {
+    "filename": "NEW maths objects(1).tex",
+    "sha256": "68316205bd169a7b6592dadef3e0d1f909b6240e29e2b8a6ad94e7297bdf21ea",
+    "publication_boundary": "hash-only provenance; submitted draft bytes are not published in this package"
+  },
+  "objects": [
+    {"id":"O01","name":"Normalized seam Jacobian","status":"PROVED_REPAIRED","open":["unnormalized source formula"]},
+    {"id":"O02","name":"Rank-one winding metric","status":"PROVED_REPAIRED","open":["indefinite signature","geodesic formula"]},
+    {"id":"O03","name":"Cut cohomology","status":"PROVED_ABSTRACT","open":["relative de Rham bridge without a chain map"]},
+    {"id":"O04","name":"Cyclic information tensor","status":"PROVED_REPAIRED","open":["zero component-sum constraint"]},
+    {"id":"O05","name":"Native prime seam lattice","status":"PROVED","open":["infinite Fourier-zeta identity","spacing asymptotics"]},
+    {"id":"O06","name":"Finite-support cut character","status":"PROVED_REPAIRED","open":["infinite-torus formula"]},
+    {"id":"O07","name":"Finite seam determinant","status":"PROVED_FINITE","open":["regularized infinite determinant","Dabas-Euler identity"]},
+    {"id":"O08","name":"Lambda-weighted residue pair","status":"PROVED_REPAIRED","open":[]},
+    {"id":"O09","name":"Logarithmic cut Fourier transform","status":"PROVED_WITH_DOMAIN","open":["zeta distribution adapter"]},
+    {"id":"O10","name":"Seam winding index","status":"PROVED_WITH_NONVANISHING","open":["defect crossing law"]},
+    {"id":"O11","name":"Seam-tangent module","status":"PROVED_REPAIRED","open":["seam connection correction"]},
+    {"id":"O12","name":"Eye asymptotic coefficient operator","status":"PROVED_CONDITIONAL_EXTRACTION","open":["zeta spectral identification","RH equivalence"]},
+    {"id":"O13","name":"Renormalized prime exponential form","status":"PROVED_REPAIRED","source_status":"REFUTED_AS_STATED","open":["modular completion"]},
+    {"id":"O14","name":"Seam prime-zeta deformation","status":"PROVED_ON_HALF_PLANE","open":["analytic continuation","functional equation","zero-location law"]},
+    {"id":"O15","name":"Cut Grassmannian repair","status":"PROVED_CLASSICAL_BRIDGE","source_status":"REFUTED_AS_STATED","open":["native seam-to-Schubert adapter"]}
+  ],
+  "global_open_claims": [
+    "Riemann Hypothesis",
+    "Eye operator spectrum equals zeta zeros",
+    "prime modularity",
+    "seam-zeta functional equation",
+    "infinite seam determinant"
+  ]
+}
