@@ -89,6 +89,9 @@ def run_audit() -> dict[str, Any]:
     obs.append(obligation("O00_complete_object_ledger", ids == spec["required_object_ids"], f"ids={ids}"))
     source_pin_ok = ledger["source"]["sha256"] == spec["source_draft"]["sha256"]
     obs.append(obligation("O00_source_pin_consistency", source_pin_ok, ledger["source"]["sha256"]))
+    publication_boundary = ledger["source"].get("publication_boundary", "")
+    boundary_ok = publication_boundary.startswith("hash-only provenance")
+    obs.append(obligation("O00_hash_only_source_publication", boundary_ok, publication_boundary))
     opens = ledger["global_open_claims"]
     obs.append(obligation("O00_fail_closed_global_claims", opens == spec["required_global_open_claims"], f"open={opens}"))
 

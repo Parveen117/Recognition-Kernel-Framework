@@ -4,7 +4,7 @@
     "name": "Python fractions.Fraction",
     "python": "3.12.14"
   },
-  "canonical_payload_sha256": "9cbb5e965d8d53122642f76d255fadf0b6ac901ffd8575b318c169e093b9a527",
+  "canonical_payload_sha256": "3805d7a780731ddee67b763d66a44e543fc30fb65a791576a721eb2f8cf48af2",
   "certificate_class": "F",
   "certificate_id": "O15_FOUNDATIONAL_AUDIT_V0_1",
   "classification_before_execution": "MIXED_PROVED_CONDITIONAL_OPEN",
@@ -47,6 +47,11 @@
     {
       "detail": "68316205bd169a7b6592dadef3e0d1f909b6240e29e2b8a6ad94e7297bdf21ea",
       "name": "O00_source_pin_consistency",
+      "passed": true
+    },
+    {
+      "detail": "hash-only provenance; submitted draft bytes are not published in this package",
+      "name": "O00_hash_only_source_publication",
       "passed": true
     },
     {
@@ -152,7 +157,7 @@
     "objects/O15_NATIVE_OBJECT_CERTIFICATION.md": "6cd6a1577976048d225f3c63788e3476e21a9e30d1b2ef8d39959ffced19ec0e",
     "objects/STATUS_LEDGER.json": "a72b74e839e8159fbe0f6c61a7113e5e3be8a8aa1a829868f030f2f7abb0e541",
     "objects/certificates/O15_FOUNDATIONAL_AUDIT_V0_1/spec.json": "447ca817f3867efbf10717eadc6e97f11e62ce2f51ed16160c83486df115ffd8",
-    "objects/certificates/O15_FOUNDATIONAL_AUDIT_V0_1/verify.py": "304775a34b9766d1fe0c426cd397123f9c21a1ef62b6634e76e6ec36a3dbbd23"
+    "objects/certificates/O15_FOUNDATIONAL_AUDIT_V0_1/verify.py": "e6cb7bd748fb802aebed58049168a248dd6ccb1651ee7a4048b4afa3b7079ee6"
   },
   "source_commit": "3cc5a33b05c16d59c90994ddda69dedc0d392424",
   "status": "PASS_O15_NATIVE_OBJECT_FOUNDATIONAL_AUDIT",
