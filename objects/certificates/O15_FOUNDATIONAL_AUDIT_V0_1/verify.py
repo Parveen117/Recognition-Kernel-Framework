@@ -206,13 +206,6 @@ def run_audit() -> dict[str, Any]:
     neg.append(obligation("NC05_reject_Eye_RH_promotion", "Riemann Hypothesis" in opens, "RH retained OPEN"))
 
     all_pass = all(x["passed"] for x in obs + neg)
-    source_commit = "UNKNOWN"
-    try:
-        import subprocess
-        source_commit = subprocess.check_output(["git", "rev-parse", "HEAD"], cwd=ROOT, text=True).strip()
-    except Exception:
-        pass
-
     result: dict[str, Any] = {
         "schema": "rkf-native-object-certificate-result-v0.1",
         "certificate_class": spec["certificate_class"],
@@ -220,12 +213,13 @@ def run_audit() -> dict[str, Any]:
         "theorem_id": spec["theorem_id"],
         "classification_before_execution": spec["classification_before_execution"],
         "reduction_theorem": spec["reduction_theorem"],
-        "source_commit": source_commit,
+        "source_commit": spec["source_base_commit"],
         "source_blob_hashes": {
             str(THEOREM_PATH.relative_to(ROOT)): sha256(THEOREM_PATH),
             str(LEDGER_PATH.relative_to(ROOT)): sha256(LEDGER_PATH),
             str(PROTOCOL_PATH.relative_to(ROOT)): sha256(PROTOCOL_PATH),
-            str(SPEC_PATH.relative_to(ROOT)): sha256(SPEC_PATH)
+            str(SPEC_PATH.relative_to(ROOT)): sha256(SPEC_PATH),
+            str(Path(__file__).resolve().relative_to(ROOT)): sha256(Path(__file__).resolve())
         },
         "input_hashes": {"source_draft_sha256": spec["source_draft"]["sha256"]},
         "parameter_packet": {"exact_case_depth": 8, "grassmannian_n_max": 11, "prime_carrier_size": len(primes)},

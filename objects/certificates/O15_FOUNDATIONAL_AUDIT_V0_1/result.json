@@ -4,7 +4,7 @@
     "name": "Python fractions.Fraction",
     "python": "3.12.14"
   },
-  "canonical_payload_sha256": "e0713541cb07a2272700b2d9553ad47623f7cb86f1c46f4aa893522b2317147c",
+  "canonical_payload_sha256": "9cbb5e965d8d53122642f76d255fadf0b6ac901ffd8575b318c169e093b9a527",
   "certificate_class": "F",
   "certificate_id": "O15_FOUNDATIONAL_AUDIT_V0_1",
   "classification_before_execution": "MIXED_PROVED_CONDITIONAL_OPEN",
@@ -151,9 +151,10 @@
     "certificates/foundation/NUMERICAL_PROOF_PROTOCOL.md": "88b42ab7316de31f5adbd777272acd446a1f620698675da9b10118407c1ea008",
     "objects/O15_NATIVE_OBJECT_CERTIFICATION.md": "6cd6a1577976048d225f3c63788e3476e21a9e30d1b2ef8d39959ffced19ec0e",
     "objects/STATUS_LEDGER.json": "a72b74e839e8159fbe0f6c61a7113e5e3be8a8aa1a829868f030f2f7abb0e541",
-    "objects/certificates/O15_FOUNDATIONAL_AUDIT_V0_1/spec.json": "d889e2b1b0d2b1cf716dacb7d9061fbc656f5e2b4a674f7844ad7535295a172c"
+    "objects/certificates/O15_FOUNDATIONAL_AUDIT_V0_1/spec.json": "447ca817f3867efbf10717eadc6e97f11e62ce2f51ed16160c83486df115ffd8",
+    "objects/certificates/O15_FOUNDATIONAL_AUDIT_V0_1/verify.py": "304775a34b9766d1fe0c426cd397123f9c21a1ef62b6634e76e6ec36a3dbbd23"
   },
-  "source_commit": "6f38ce4b420e8ff662ed3b09b2515a8273bb069c",
+  "source_commit": "3cc5a33b05c16d59c90994ddda69dedc0d392424",
   "status": "PASS_O15_NATIVE_OBJECT_FOUNDATIONAL_AUDIT",
   "tail_and_residual_ledger": {
     "O12_scaled_tail_model": "q^h with q=1/3",
