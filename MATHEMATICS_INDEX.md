@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 11 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE4.
+Index update: 11 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE5.
 
 ## Active operator-engine route
 
@@ -106,6 +106,28 @@ See [sources](papers/rkf_completed_weil_endpoint/development/SE4_SOURCE_RECORD.m
 and [audit](papers/rkf_completed_weil_endpoint/development/SE4_SCOPE.md).
 The source proofs and previous pins are preserved; the active source
 normalization for this endpoint route is now the SE4 construction.
+
+## Endpoint development SE5: stable exact observer and compact critical defect
+
+[SE5](papers/rkf_completed_weil_endpoint/development/SE5_STABLE_OBSERVER_AND_COMPACT_DEFECT.md)
+proves that the corrected central input and full prime cross-operator
+are compact in the native graph metric. The positive mismatch Gram is
+a uniformly positive baseline plus a compact remainder; its injectivity
+then gives a uniform lower bound. This supplies a bounded exact joint
+observer and operator-norm convergence of its full regularized path.
+The lower-bound constant is not yet numerically enclosed.
+
+The completed source is a positive graph form minus an explicit compact
+defect. SE5 supplies finite-rank approximation and all-prime tail bounds
+for applying the existing MP Gold 06 same-projection machinery. Zero
+remains an essential source threshold; the observer's norm being at most
+one and the complete five-source sign remain open. This is stability of
+the mismatch inverse, not a resolution of the completed-source zero cut.
+
+See [sources](papers/rkf_completed_weil_endpoint/development/SE5_SOURCE_RECORD.md),
+[pins](papers/rkf_completed_weil_endpoint/development/SE5_SOURCE_PINS.json)
+and [audit](papers/rkf_completed_weil_endpoint/development/SE5_SCOPE.md).
+Prior proof files and the canonical engine are unchanged.
 
 ## Full framework register, preserved
 

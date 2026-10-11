@@ -8,7 +8,23 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE4, 11 October 2026
+## Current endpoint development: SE5, 11 October 2026
+
+[Stable exact observer and compact critical defect](development/SE5_STABLE_OBSERVER_AND_COMPACT_DEFECT.md)
+proves a positive lower bound for the corrected mismatch Gram. The exact
+joint debt/boundary observer therefore exists as a bounded operator, and
+its full regularized path converges in operator norm. This completes
+bounded recovery; its norm being at most one remains unproved.
+
+The completed source has an explicit compact defect relative to its
+positive graph part. Finite-rank and all-prime tail bounds connect this
+source to the existing MP Gold 06 spectral-certificate machinery. Zero
+remains an essential threshold, and the floor constant has no numerical
+enclosure yet. The full five-source endpoint and RH sign remain open.
+See [source record](development/SE5_SOURCE_RECORD.md),
+[audit](development/SE5_SCOPE.md) and [claim boundary](CLAIM_BOUNDARY.md).
+
+## Preceding endpoint development: SE4, 11 October 2026
 
 [Central Gamma repair and critical observer reserve](development/SE4_CENTRAL_GAMMA_AND_CRITICAL_RESERVE.md)
 settles a normalization issue left open in SE3. An explicit odd sine

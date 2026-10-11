@@ -1,5 +1,26 @@
 # Claim Boundary for the Current Paper
 
+## SE5 stable-observer boundary, 11 October 2026
+
+[SE5](development/SE5_STABLE_OBSERVER_AND_COMPACT_DEFECT.md) proves a
+uniform positive lower bound for the corrected mismatch Gram N_*, using
+its positive baseline, compact remainder and injectivity. Thus a bounded
+exact joint observer exists and the full regularized observer converges
+in operator norm. The numerical floor and conditioning constants have
+not been enclosed.
+
+This floor does not apply to the source after debt and boundary
+subtraction. That source has a compact sign defect and a zero essential
+threshold. The exact observer's norm is at least one; whether it is at
+most one remains open. Finite-margin compact certificates have explicit
+tail bounds, but none are promoted to the zero endpoint in this stage.
+
+The corrected full odd one-boundary source is identified. Supplied
+finite-column extensions are conditional on their actual data; the other
+four Feshbach columns and selected complement are not constructed here.
+No K0 or RH sign, formal verification or external review is claimed.
+See [SE5 audit](development/SE5_SCOPE.md).
+
 ## SE4 source correction and critical-reserve boundary, 11 October 2026
 
 [SE4](development/SE4_CENTRAL_GAMMA_AND_CRITICAL_RESERVE.md) proves a

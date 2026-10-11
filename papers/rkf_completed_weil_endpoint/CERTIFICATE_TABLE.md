@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE4 tables record the development history and current boundary.
+The separate SE1--SE5 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -70,6 +70,22 @@ The [proof](development/SE4_CENTRAL_GAMMA_AND_CRITICAL_RESERVE.md),
 [source record](development/SE4_SOURCE_RECORD.md) and
 [audit](development/SE4_SCOPE.md) distinguish the counterexample to the
 superseded model from the still-open sign of the corrected target.
+
+## SE5 stability and compact-defect results (written proofs)
+
+| Node | Written evidence | Allowed conclusion |
+| --- | --- | --- |
+| Compact central input and full prime cross-term | SE5.3--SE5.7 | Exact native compactness and explicit complete tails |
+| Uniform mismatch floor | SE5.8--SE5.9 | Corrected N_* has a bounded inverse; c_*>0 is not numerically enclosed |
+| Finite floor certificate | SE5.10--SE5.11 | Sufficient same-projection lower bound; no executed floor certificate claimed |
+| Exact bounded observer | SE5.12--SE5.15 | Full recovery and operator-norm regularization limit; unit contraction still open |
+| Compact critical defect | SE5.16 and escape argument | Negative spectrum finite away from zero; zero remains essential |
+| Positive-eta source certificate | SE5.17--SE5.18 | Compact response with explicit tau_V/eta error; zero-limit sign not supplied |
+
+See the [proof](development/SE5_STABLE_OBSERVER_AND_COMPACT_DEFECT.md),
+[source record](development/SE5_SOURCE_RECORD.md) and
+[audit](development/SE5_SCOPE.md). The positive mismatch inverse and the
+debt-paid source zero cut are different operators and different gates.
 
 ## Permanent records
 
