@@ -1,5 +1,28 @@
 # Claim Boundary for the Current Paper
 
+## SE1 development boundary, 11 October 2026
+
+The sections below preserve the historical manuscript's claims and evidence
+labels. The new [SE1 development](development/SE1_SHARED_ENERGY_BUDGET.md)
+does not independently recertify that chain. Its current assertions are:
+
+| Assertion | SE1 status |
+| --- | --- |
+| Quarter-energy identity for the T35 graph, with an L2 seed | Written proof |
+| Shared-energy inequality and five-column chart estimate | Written proof under the stated chart hypotheses |
+| Conditional chart upper below 2/15 on the pinned profile | Exact rational replay |
+| Arb source inequalities | Consumed upstream inputs; not regenerated |
+| Equality of T38's displayed symbol with the T36 debt-paid source | Not established; explicit accounting issue in SE1 section 6 |
+| Full boundary/residual pairing in the same source chart | Open |
+| Actual five residual columns and their Gram enclosure | Not computed |
+| K0 sign and RH from SE1 | Not certified / not claimed |
+| New Lean proof or external mathematical review | Not claimed |
+
+The source adapter, source-chart lower bound and boundary pairing are
+different assertions. A bound for the positive mismatch Gram is not
+automatically a bound for its debt-paid source. Existing source files and
+historical certificate pins are retained.
+
 ## Cleared internal objections
 
 ```text

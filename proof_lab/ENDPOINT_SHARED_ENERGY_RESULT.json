@@ -1,0 +1,94 @@
+{
+  "arithmetic": "Python standard library; exact Fraction comparisons",
+  "claim_boundary": {
+    "actual_residual_columns_computed": false,
+    "arb_profile_regenerated": false,
+    "completed_source_chart_attachment": "OPEN",
+    "endpoint_K0_sign": "NOT_CERTIFIED",
+    "full_odd_boundary_vs_feshbach_source_identified": false,
+    "native_graph_energy_inequality": "PROVED_UNDER_T35_GRAPH_HYPOTHESES",
+    "profile_accumulation": "EXACT_OVER_PINNED_OUTWARD_INPUTS",
+    "riemann_hypothesis": "NOT_CLAIMED"
+  },
+  "comparisons": {
+    "graph_energy_and_shared_mass": {
+      "denominator_bits": 1098,
+      "display_decimal": "0.133004924860525375304050104942698783971188328",
+      "exact_fraction_sha256": "0ec6d69323360c302af45675dc78d725762ac265094c05fd7ac6d871c987111a",
+      "numerator_bits": 1095
+    },
+    "old_rational_separate": {
+      "denominator_bits": 101938,
+      "display_decimal": "0.863914786444720854210436877984292150768365936",
+      "exact_fraction_sha256": "73890b49d636a8fa065e725becd41988f4dbe417d25e4be2d5c25af53cf02982",
+      "numerator_bits": 101938
+    },
+    "shared_mass_only": {
+      "denominator_bits": 1098,
+      "display_decimal": "0.531510718404384725569711506179281959834710802",
+      "exact_fraction_sha256": "b0aa3091dd2649f0f38e67e46c404e5cec07b6e919469b2e3a3b1a2d330e9e1d",
+      "numerator_bits": 1097
+    },
+    "sharper_moment_separate": {
+      "denominator_bits": 101941,
+      "display_decimal": "0.787529136133651907082982754965094034119859991",
+      "exact_fraction_sha256": "44288897910af456f76019ba97b99952a32a3236696511b077bc340b82411123",
+      "numerator_bits": 101941
+    }
+  },
+  "exact_conclusions": {
+    "chart_reserve_greater_than": "13/15",
+    "chart_upper_less_than": "2/15",
+    "residual_matrix_coefficient_less_than": "8/5"
+  },
+  "graph_boundary": {
+    "fourier_normalization": "unitary; pointwise 1/sqrt(2pi) relaxed to 1",
+    "moment_square_upper": "1/81",
+    "new_mass_upper": "1/48",
+    "old_mass_upper": "1/12",
+    "seed_norm_square": "1/12"
+  },
+  "matrix_residual_coefficient": {
+    "denominator_bits": 1096,
+    "display_decimal": "1.596059098326304503648601259312385407654259939",
+    "exact_fraction_sha256": "5a8c69e2373b056cd6983ca8e9a7b93d6cf492df9a9043d82da0cc34c266e8d3",
+    "numerator_bits": 1097
+  },
+  "new_budget": {
+    "active_excess": {
+      "denominator_bits": 1048,
+      "display_decimal": "0.000161143600013057128258100885957653640139152",
+      "exact_fraction_sha256": "55b08f18a3770762fd4000c8c7cf2a736ac332d2df785b666eb4f93da53bf3d7",
+      "numerator_bits": 1036
+    },
+    "first_excess": {
+      "denominator_bits": 120,
+      "display_decimal": "0.000008516745892534753904870311213405043208352",
+      "exact_fraction_sha256": "2c70ccc1ad35612ee092c50901cacc0df904f6b005d716868d009ffa41e37bd1",
+      "numerator_bits": 103
+    },
+    "global_mass_charge": {
+      "denominator_bits": 50,
+      "display_decimal": "0.132835264514619783421887133745527725287840825",
+      "exact_fraction_sha256": "4f63b8868fb2c098104a6147dd47216c91e676f706711bb76b62d89fc9866ba4",
+      "numerator_bits": 48
+    },
+    "positive_cells": 20,
+    "upper": {
+      "denominator_bits": 1098,
+      "display_decimal": "0.133004924860525375304050104942698783971188328",
+      "exact_fraction_sha256": "0ec6d69323360c302af45675dc78d725762ac265094c05fd7ac6d871c987111a",
+      "numerator_bits": 1095
+    }
+  },
+  "profile": {
+    "binary_sha256": "0cf54e6f8e2d30e4d03f70f5826d47972c3a8c698d730d358dca8b5b7e3fcc02",
+    "cells": 2400,
+    "compressed_sha256": "63b5f8ed67fe8bba606e1486b98279c8ff2976dd7f8831f2de00294c7ccac95b",
+    "far_floor": "353162966851167/2251799813685248",
+    "near_zero_slope": "2038528155409323/70368744177664",
+    "prime_power_events": 78734
+  },
+  "schema": "rkf.endpoint-shared-energy.v1",
+  "status": "PASS_EXACT_PROFILE_ACCUMULATION"
+}

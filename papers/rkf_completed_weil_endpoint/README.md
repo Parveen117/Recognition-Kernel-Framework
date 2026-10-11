@@ -8,6 +8,20 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
+## Current endpoint development: SE1, 11 October 2026
+
+[Native graph energy and a shared endpoint residual budget](development/SE1_SHARED_ENERGY_BUDGET.md)
+adds a written quarter-energy identity, an exact 2,400-cell chart replay,
+and a five-column residual bound for the existing sine/reserve route.
+The conditional chart upper is below 2/15; the residual Gram coefficient
+is below 8/5. See the [result](../../proof_lab/ENDPOINT_SHARED_ENERGY_RESULT.json)
+and [source pins](development/SOURCE_PINS.json).
+
+This development has not been promoted into the historical main manuscript.
+The actual debt-paid source/chart identity and final endpoint matrix sign
+remain open in SE1. The sharper chart number is not an RH certificate;
+see the [claim boundary](CLAIM_BOUNDARY.md).
+
 ## Reviewer guide
 
 ```text

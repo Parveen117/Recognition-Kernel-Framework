@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 26 September 2026, operator mathematics version 0.5 with additive graded-aperture research results R1 and R2.
+Index update: 11 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint development SE1.
 
 ## Active operator-engine route
 
@@ -47,6 +47,12 @@ The [R2 packet](research/recognition_return/r2/README.md) and [full proof](resea
 The [generated certificate](research/recognition_return/r2/RESULT.json) records 35 named exact checks, including 20 complete finite-chain inverses, 31 local pair inverses, 69 direct moment comparisons, 60 tail samples and 15 inverse-design targets. [Six mathematical mutation controls](research/recognition_return/r2/MUTATIONS.json) are rejected before hash checks. R1's unchanged 24 tests and four mutations were also rerun; the new R2 and R1 read-only tests pass under the offline guard. Run `node research/recognition_return/r2/verify.cjs --check` from this root.
 
 The native family, paired products, positivity and boundary class are stated hypotheses. Finite coupling does not mean a finite-aperture exact solution. The continued-fraction criterion has established Seidel-Stern/Stern-Stolz lineage; external priority of the operator synthesis is not established. No full infinite inverse, physical quantum-gravity law, full v0.5 rerun or Python/Lean regression is claimed. Existing engine, R1 source files and their pins remain unchanged.
+
+## Endpoint development SE1: native graph energy and shared residual budget
+
+The [SE1 written proof](papers/rkf_completed_weil_endpoint/development/SE1_SHARED_ENERGY_BUDGET.md) continues the existing [endpoint paper](papers/rkf_completed_weil_endpoint/README.md). It uses the admitted T35 metric graph to prove a quarter-energy bound and shares one total Fourier-energy budget across the active region and tail. On the pinned 2,400-cell profile the exact conditional chart upper is below 2/15, and the five-column coefficient is below 8/5.
+
+The [exact replay](proof_lab/endpoint_shared_energy_budget.py), [result and claim boundary](proof_lab/ENDPOINT_SHARED_ENERGY_RESULT.json), [finite controls](proof_lab/test_endpoint_shared_energy_budget.py), and [source pins](papers/rkf_completed_weil_endpoint/development/SOURCE_PINS.json) separate written proof, finite arithmetic and provenance. Actual debt-paid source attachment, residual columns and the final five-matrix sign remain open. SE1 neither promotes the T21 profile to an actual decoder certificate nor changes the existing RH/K0 boundary. The canonical operator engine and its pins are unchanged.
 
 ## Full framework register, preserved
 
