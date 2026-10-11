@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1 and SE2 tables record the current development boundary.
+The separate SE1--SE3 tables record the current development boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -38,6 +38,20 @@ the actual source attachment open.
 
 See the [SE2 proof](development/SE2_OBSERVER_PATH_OPERATOR_CERTIFICATE.md)
 and [scope](development/SE2_SCOPE.md).
+
+## SE3 explicit constructions (written proofs, not an RH certificate)
+
+| Node | Written evidence | Application boundary |
+| --- | --- | --- |
+| Hardy compatibility projector | SE3.1--SE3.3: explicit two-sheet isometry and projection | Declared strip representation; complementary chart memory retained |
+| Minimum odd boundary and native return | SE3.4--SE3.9: exact evaluation norm and T35 Riesz pullback | Hardy norm is not the completed-source burden |
+| Prime/Gamma/debt construction | SE3.10--SE3.16: all-event factors and weighted prime translations | Actual chart pullback; legacy source normalization and endpoint restriction still required |
+| Regularized joint observer | SE3.17--SE3.18: bounded candidate and exact residual | Defined at every positive epsilon; no uniform zero-limit norm bound yet |
+| Monotone full-target Gram | SE3.19--SE3.20 and endpoint equivalence | Debt, boundary and mixed blocks required together; actual contraction open |
+
+See the [SE3 proof](development/SE3_HARDY_COMPATIBILITY_OBSERVER.md),
+[source record](development/SE3_SOURCE_RECORD.md) and
+[verification scope](development/SE3_SCOPE.md).
 
 ## Permanent records
 

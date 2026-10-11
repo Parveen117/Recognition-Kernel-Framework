@@ -8,7 +8,24 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE2, 11 October 2026
+## Current endpoint development: SE3, 11 October 2026
+
+[Explicit Hardy compatibility and arithmetic observer path](development/SE3_HARDY_COMPATIBILITY_OBSERVER.md)
+constructs the two-sheet projector, the minimum odd evaluation vector,
+and its exact return to the T35 native graph boundary. It retains the
+native metric in the debt pullback and writes the actual prime mismatch
+as weighted translations, with the Gamma event factors unchanged.
+
+An explicit regularized observer is now defined for every positive
+regularization parameter. Its recovery residual tends strongly to zero,
+and its finite boundary residual tends to zero in norm. The full joint
+Gram still needs a uniform contraction bound toward zero; small residual
+alone does not establish it. Source normalization on the selected
+Feshbach complement and its complete five-source data remain open.
+See [source record](development/SE3_SOURCE_RECORD.md) and
+[scope](development/SE3_SCOPE.md). No actual RH sign is claimed.
+
+## Preceding endpoint development: SE2, 11 October 2026
 
 [Observer-path operator certificate](development/SE2_OBSERVER_PATH_OPERATOR_CERTIFICATE.md)
 puts the observer in a joint debt/boundary recovery equation. It reuses the

@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 11 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE2.
+Index update: 11 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE3.
 
 ## Active operator-engine route
 
@@ -61,6 +61,25 @@ The [exact replay](proof_lab/endpoint_shared_energy_budget.py), [result and clai
 The construction retains signed operator defects along arbitrary reference paths, both endpoint transports, mixed diagonal readings and loop memory. The balance diagonal moves with the operators. Separate scalar budgets can fail while the exact joint operator inequality holds; the written examples demonstrate that distinction. [Source provenance](papers/rkf_completed_weil_endpoint/development/SE2_SOURCE_PINS.json), the [YM source record](papers/rkf_completed_weil_endpoint/development/SE2_YM_SOURCE_RECORD.md), and [scope](papers/rkf_completed_weil_endpoint/development/SE2_SCOPE.md) keep the general proof separate from the unconstructed actual RH observer. No new RH numerical certificate or engine modification is claimed.
 
 Local modules join exactly when their full cross-defect block fits between the two operator reserves. Compatible cofinal graph-core refinements construct a common contractive observer; its five-dimensional boundary component converges in operator norm. A finite set of successful joins does not establish the required all-joins or tail condition.
+
+## Endpoint development SE3: explicit Hardy compatibility and arithmetic observer path
+
+[SE3](papers/rkf_completed_weil_endpoint/development/SE3_HARDY_COMPATIBILITY_OBSERVER.md)
+constructs the two-sheet Hardy projector and the minimum odd boundary
+representative, then proves its exact pullback to T35's graph boundary
+state. The native metric arrow is retained explicitly, so the chart debt
+pulls back as d0 J-dagger J rather than an assumed native identity.
+
+The pinned prime--Gamma events give a closed mismatch analysis, explicit
+weighted prime translations, and a bounded regularized observer for every
+positive regularization parameter. Its exact recovery residual and full
+joint-target Gram are derived; the Gram increases as regularization tends
+to zero. The uniform joint contraction, selected endpoint source
+normalization, and four remaining Feshbach columns are not supplied.
+The exact Hardy boundary norm is not an actual-source decoder burden.
+See [sources](papers/rkf_completed_weil_endpoint/development/SE3_SOURCE_RECORD.md),
+[pins](papers/rkf_completed_weil_endpoint/development/SE3_SOURCE_PINS.json)
+and [scope](papers/rkf_completed_weil_endpoint/development/SE3_SCOPE.md).
 
 ## Full framework register, preserved
 

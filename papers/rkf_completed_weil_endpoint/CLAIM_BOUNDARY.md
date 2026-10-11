@@ -1,5 +1,26 @@
 # Claim Boundary for the Current Paper
 
+## SE3 construction boundary, 11 October 2026
+
+[SE3](development/SE3_HARDY_COMPATIBILITY_OBSERVER.md) supplies explicit
+Hardy compatibility and boundary representatives, the exact T35 boundary
+pullback, and an arithmetic mismatch/debt construction in the stated
+metric. Its regularized joint observer exists for every epsilon>0
+without presupposing completed-source positivity.
+
+The boundary recovery residual converges in norm. This does not imply a
+uniformly bounded observer. The necessary full joint-target contraction
+is stated and remains unproved for the actual endpoint data. The Hardy
+boundary norm, approximately 0.08100101248, is not a source-relative
+burden and must not replace a K0 certificate entry.
+
+The chart-defined debt is d0 J-dagger J in the native graph metric.
+Equality with any legacy source using a different debt or Gamma
+normalization requires a separate identity on the selected endpoint
+carrier. The other four Feshbach columns are not constructed here.
+The historical source files, numerical pins and manuscript are unchanged.
+See [SE3 scope](development/SE3_SCOPE.md).
+
 ## SE2 operator-path boundary, 11 October 2026
 
 [SE2](development/SE2_OBSERVER_PATH_OPERATOR_CERTIFICATE.md) proves an
