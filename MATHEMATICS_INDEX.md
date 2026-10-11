@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 11 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE5.
+Index update: 11 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE6.
 
 ## Active operator-engine route
 
@@ -128,6 +128,29 @@ See [sources](papers/rkf_completed_weil_endpoint/development/SE5_SOURCE_RECORD.m
 [pins](papers/rkf_completed_weil_endpoint/development/SE5_SOURCE_PINS.json)
 and [audit](papers/rkf_completed_weil_endpoint/development/SE5_SCOPE.md).
 Prior proof files and the canonical engine are unchanged.
+
+## Endpoint development SE6: paired apertures and a certified moment complement
+
+[SE6](papers/rkf_completed_weil_endpoint/development/SE6_PAIRED_APERTURE_AND_MOMENT_SCHUR.md)
+pairs prime events with their exact odd completion-pole response and
+proves why a fixed prime cutoff with a full uncut boundary fails on the
+unbounded carrier. An explicit moment estimate then certifies strict
+joint contraction on the entire odd aperture of radius 1/16.
+
+On radius 1/2, where prime 2 is active, the infinite complement of
+fifteen native moment readings has source floor 8/1453 and relative
+joint reserve 16/15983. Its proved positive pivot leaves an exact
+15-dimensional Schur matrix, which is not yet evaluated. This auxiliary
+aperture reduction is not the historical five-label endpoint. The global
+norm-one condition and unbounded-aperture limit remain open.
+
+The [exact replay](proof_lab/endpoint_paired_aperture_budget.py) and
+[result](proof_lab/ENDPOINT_PAIRED_APERTURE_RESULT.json) record 25 rational
+checks. See [sources and prior art](papers/rkf_completed_weil_endpoint/development/SE6_SOURCE_RECORD.md),
+[pins](papers/rkf_completed_weil_endpoint/development/SE6_SOURCE_PINS.json)
+and [audit](papers/rkf_completed_weil_endpoint/development/SE6_SCOPE.md).
+The small-support and finite-codimension principles have existing
+Yoshida--Suzuki lineage; SE6 supplies explicit native constants and attachment.
 
 ## Full framework register, preserved
 

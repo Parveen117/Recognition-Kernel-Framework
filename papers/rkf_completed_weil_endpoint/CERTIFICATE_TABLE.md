@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE5 tables record the development history and current boundary.
+The separate SE1--SE6 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -86,6 +86,23 @@ See the [proof](development/SE5_STABLE_OBSERVER_AND_COMPACT_DEFECT.md),
 [source record](development/SE5_SOURCE_RECORD.md) and
 [audit](development/SE5_SCOPE.md). The positive mismatch inverse and the
 debt-paid source zero cut are different operators and different gates.
+
+## SE6 paired-aperture and moment-complement evidence
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Prime/boundary pairing | SE6.2--SE6.5 | Exact paired operator and matched-support tail rule |
+| Fixed-cutoff obstruction | SE6.6--SE6.8 | Every fixed prime cutoff with the full boundary fails globally; no all-prime counterexample |
+| General moment bound | SE6.9--SE6.11 | Quantitative positive finite-codimensional complement at any supplied finite aperture |
+| Small-aperture observer | SE6.12--SE6.15 and exact rational replay | Whole radius-1/16 odd carrier: relative joint reserve 2047/484352 |
+| Prime-active blind complement | SE6.16--SE6.18 and exact rational replay | Radius 1/2, fifteen moments: native floor 8/1453 and relative reserve 16/15983 |
+| Remaining finite matrix | SE6.19--SE6.20 | Exact 15-dimensional Schur reduction; matrix and sign not computed |
+
+The [proof](development/SE6_PAIRED_APERTURE_AND_MOMENT_SCHUR.md),
+[recorded arithmetic](../../proof_lab/ENDPOINT_PAIRED_APERTURE_RESULT.json),
+[source record](development/SE6_SOURCE_RECORD.md) and
+[audit](development/SE6_SCOPE.md) keep the two proved restrictions separate
+from the open full-aperture and unbounded-aperture signs.
 
 ## Permanent records
 

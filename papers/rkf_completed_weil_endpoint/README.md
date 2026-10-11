@@ -8,7 +8,24 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE5, 11 October 2026
+## Current endpoint development: SE6, 11 October 2026
+
+[Paired prime-boundary apertures and a certified moment complement](development/SE6_PAIRED_APERTURE_AND_MOMENT_SCHUR.md)
+proves the corrected joint observer is a strict contraction on the whole
+odd aperture of radius 1/16. It retains the exact pairing of prime events
+and completion poles, with a support rule and full-tail estimate.
+
+At radius 1/2, including the prime 2, fifteen native moment readings leave
+an infinite complement with source floor 8/1453. The full aperture sign
+therefore reduces to an exact 15 by 15 Schur matrix with a proved positive
+pivot. That matrix has not been evaluated, and the larger-aperture/global
+sign remains open. This is separate from the historical five-label endpoint.
+
+[Twenty-five exact rational checks](../../proof_lab/ENDPOINT_PAIRED_APERTURE_RESULT.json)
+verify the scalar budgets. See [source record and prior art](development/SE6_SOURCE_RECORD.md),
+[audit](development/SE6_SCOPE.md) and [claim boundary](CLAIM_BOUNDARY.md).
+
+## Preceding endpoint development: SE5, 11 October 2026
 
 [Stable exact observer and compact critical defect](development/SE5_STABLE_OBSERVER_AND_COMPACT_DEFECT.md)
 proves a positive lower bound for the corrected mismatch Gram. The exact

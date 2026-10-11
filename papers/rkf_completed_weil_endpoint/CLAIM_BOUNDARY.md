@@ -1,5 +1,27 @@
 # Claim Boundary for the Current Paper
 
+## SE6 aperture-contraction boundary, 11 October 2026
+
+[SE6](development/SE6_PAIRED_APERTURE_AND_MOMENT_SCHUR.md) proves strict
+joint contraction on X_(1/16), the whole odd native aperture completion.
+At radius 1/2 it proves a source floor of 8/1453 and relative observer
+reserve 16/15983 only on the kernel of fifteen specified odd moments.
+This is an infinite-dimensional complement bound, not sampled positivity.
+
+The positive complement is now an established Schur pivot. The exact
+remaining 15-dimensional matrix is defined but not evaluated or signed.
+Fifteen is a sufficient moment count, not a minimality claim. This
+auxiliary aperture reduction does not identify the historical five-label
+Feshbach carrier. No sign on all apertures, global norm-one observer,
+K0 or RH proof is asserted.
+
+The prime/boundary pairing and fixed-cutoff obstruction are exact for the
+corrected source. The obstruction concerns an unpaired truncated model,
+not the full all-prime form. Small-support and finite-codimension positivity
+have established prior art; the source record distinguishes that lineage
+from the explicit constants and native attachment developed here.
+See [SE6 audit](development/SE6_SCOPE.md).
+
 ## SE5 stable-observer boundary, 11 October 2026
 
 [SE5](development/SE5_STABLE_OBSERVER_AND_COMPACT_DEFECT.md) proves a
