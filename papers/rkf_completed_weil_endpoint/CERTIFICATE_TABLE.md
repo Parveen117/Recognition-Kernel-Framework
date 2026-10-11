@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE3 tables record the current development boundary.
+The separate SE1--SE4 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -41,6 +41,9 @@ and [scope](development/SE2_SCOPE.md).
 
 ## SE3 explicit constructions (written proofs, not an RH certificate)
 
+SE4 preserves the formal constructions but rejects the full two-sheet
+Gamma source as the endpoint target; use the repaired source below.
+
 | Node | Written evidence | Application boundary |
 | --- | --- | --- |
 | Hardy compatibility projector | SE3.1--SE3.3: explicit two-sheet isometry and projection | Declared strip representation; complementary chart memory retained |
@@ -52,6 +55,21 @@ and [scope](development/SE2_SCOPE.md).
 See the [SE3 proof](development/SE3_HARDY_COMPATIBILITY_OBSERVER.md),
 [source record](development/SE3_SOURCE_RECORD.md) and
 [verification scope](development/SE3_SCOPE.md).
+
+## SE4 source correction and critical-reserve results
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Negative odd sine witness | SE4.2--SE4.9; exact all-event bounds and rational rho < 1/4 | SE3 two-sheet source energy < -5/4 on the supplied packet |
+| Model contraction obstruction | SE4.10--SE4.12 | Debt recovery norm squared > 11/6; fixed source-regular finite complements do not rescue that model |
+| Correct central Gamma factorization | SE4.13--SE4.17 | Exact T40 full odd normalization, bounded in the native graph metric |
+| Corrected observer family | SE4.18--SE4.19, using SE2--SE3 proofs | Source-bound candidate with actual separate debts; contraction not yet proved |
+| Critical reserve | SE4.20--SE4.21 and boundary escape estimate | No strict uniform relative slack; critical norm-one recovery remains the target |
+
+The [proof](development/SE4_CENTRAL_GAMMA_AND_CRITICAL_RESERVE.md),
+[source record](development/SE4_SOURCE_RECORD.md) and
+[audit](development/SE4_SCOPE.md) distinguish the counterexample to the
+superseded model from the still-open sign of the corrected target.
 
 ## Permanent records
 

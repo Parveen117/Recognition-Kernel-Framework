@@ -1,6 +1,30 @@
 # Claim Boundary for the Current Paper
 
+## SE4 source correction and critical-reserve boundary, 11 October 2026
+
+[SE4](development/SE4_CENTRAL_GAMMA_AND_CRITICAL_RESERVE.md) proves a
+negative sine witness for SE3's full two-sheet Gamma source. A contractive
+debt observer for that model is impossible, not merely unconstructed.
+The failure survives fixed source-regular finite-dimensional removals.
+It is not a negative witness for the normalized T40 Weil target.
+
+The corrected source reads Gamma on the central Fourier line and prime
+events on the Hardy pair, with distinct native debt factors. Its exact
+identity with the T40 full odd form is proved and extends boundedly in
+the T35 graph norm. Previous source capsules and proof files are preserved.
+
+For the repaired source, escaping native states force the joint
+target/mismatch ratio toward one. Thus a uniform strictly positive
+relative reserve is impossible. Critical contraction <=1 is still
+possible in principle and remains unproved; source-relative finite
+boundary recovery, actual five-source data and K0 positivity remain open.
+The proof does not establish RH or the historical source-sign claims.
+See [SE4 audit](development/SE4_SCOPE.md).
+
 ## SE3 construction boundary, 11 October 2026
+
+The historical open source-normalization issue below is resolved by SE4:
+the full two-sheet Gamma placement fails and is replaced for the target.
 
 [SE3](development/SE3_HARDY_COMPATIBILITY_OBSERVER.md) supplies explicit
 Hardy compatibility and boundary representatives, the exact T35 boundary

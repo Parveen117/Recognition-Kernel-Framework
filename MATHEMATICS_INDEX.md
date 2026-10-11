@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 11 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE3.
+Index update: 11 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE4.
 
 ## Active operator-engine route
 
@@ -64,6 +64,10 @@ Local modules join exactly when their full cross-defect block fits between the t
 
 ## Endpoint development SE3: explicit Hardy compatibility and arithmetic observer path
 
+**Follow-up:** SE4 below rules out unit contraction for SE3's full
+two-sheet Gamma placement and supplies the T40-normalized replacement.
+The projector, boundary pullback and abstract observer theorem are retained.
+
 [SE3](papers/rkf_completed_weil_endpoint/development/SE3_HARDY_COMPATIBILITY_OBSERVER.md)
 constructs the two-sheet Hardy projector and the minimum odd boundary
 representative, then proves its exact pullback to T35's graph boundary
@@ -80,6 +84,28 @@ The exact Hardy boundary norm is not an actual-source decoder burden.
 See [sources](papers/rkf_completed_weil_endpoint/development/SE3_SOURCE_RECORD.md),
 [pins](papers/rkf_completed_weil_endpoint/development/SE3_SOURCE_PINS.json)
 and [scope](papers/rkf_completed_weil_endpoint/development/SE3_SCOPE.md).
+
+## Endpoint development SE4: central Gamma repair and critical reserve
+
+[SE4](papers/rkf_completed_weil_endpoint/development/SE4_CENTRAL_GAMMA_AND_CRITICAL_RESERVE.md)
+proves that an explicit odd sine packet has completed-source energy below
+-5/4 in the SE3 two-sheet Gamma model. Its debt recovery would require
+observer norm squared above 11/6, and escaping packets preserve the
+obstruction after any fixed source-regular finite-dimensional removal.
+
+The corrected analysis reads Gamma on the central Fourier line and prime
+events on the Hardy pair, with each debt attached to its own input map.
+It exactly reproduces the T40 full odd source and is bounded in the T35
+graph norm. A second escape theorem rules out a strict uniform relative
+reserve even for the repaired realization: any successful contractive
+observer must have norm exactly one. The critical contraction, boundary
+source-relative bound and complete five-source endpoint sign remain open.
+
+See [sources](papers/rkf_completed_weil_endpoint/development/SE4_SOURCE_RECORD.md),
+[pins](papers/rkf_completed_weil_endpoint/development/SE4_SOURCE_PINS.json)
+and [audit](papers/rkf_completed_weil_endpoint/development/SE4_SCOPE.md).
+The source proofs and previous pins are preserved; the active source
+normalization for this endpoint route is now the SE4 construction.
 
 ## Full framework register, preserved
 

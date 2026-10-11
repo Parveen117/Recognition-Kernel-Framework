@@ -8,7 +8,27 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE3, 11 October 2026
+## Current endpoint development: SE4, 11 October 2026
+
+[Central Gamma repair and critical observer reserve](development/SE4_CENTRAL_GAMMA_AND_CRITICAL_RESERVE.md)
+settles a normalization issue left open in SE3. An explicit odd sine
+packet rules out a unit contraction for SE3's full two-sheet Gamma model.
+The repaired construction follows the declared T40 form: Gamma on the
+central transform, prime events on the Hardy sheets, and their respective
+debt factors retained in the native graph metric.
+
+The full odd source now has an exact bounded factorization. A uniform
+strict reserve is also proved impossible on this carrier, even after a
+fixed finite-dimensional removal. The remaining sign question uses a
+critical norm-one observer and source-relative boundary estimates.
+See [source record](development/SE4_SOURCE_RECORD.md),
+[audit](development/SE4_SCOPE.md) and [claim boundary](CLAIM_BOUNDARY.md).
+No RH sign or complete five-source Feshbach certificate is claimed.
+
+## Preceding endpoint development: SE3, 11 October 2026
+
+SE3's projector, boundary and abstract regularization results remain valid.
+Its full two-sheet Gamma source is superseded for this endpoint by SE4.
 
 [Explicit Hardy compatibility and arithmetic observer path](development/SE3_HARDY_COMPATIBILITY_OBSERVER.md)
 constructs the two-sheet projector, the minimum odd evaluation vector,
