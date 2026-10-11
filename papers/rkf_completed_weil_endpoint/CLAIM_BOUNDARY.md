@@ -1,5 +1,25 @@
 # Claim Boundary for the Current Paper
 
+## SE2 operator-path boundary, 11 October 2026
+
+[SE2](development/SE2_OBSERVER_PATH_OPERATOR_CERTIFICATE.md) proves an
+equivalence between positivity of the joint endpoint form and contractive
+observer recovery of the combined debt/boundary target from the actual
+mismatch analysis. Source positivity and inverse-half regularity are
+consequences of that joint condition, not preceding assumptions.
+
+The typed path-defect law, observer connection, transported balance
+diagonal and nonzero-error reserve comparison have written derivations.
+An already supplied debt observer leaves a five-column source recovery
+problem. The full joint observer can have infinite rank; its existence
+has not been established for the actual RH data by this packet.
+
+The exact illustrative operator examples are supplied models. They do
+not replace the RH source identification, build a new numerical
+certificate, prove equality of all source histories from a single sign
+form, or change the current K0/RH certification boundary.
+See [SE2 scope](development/SE2_SCOPE.md) for actual checks.
+
 ## SE1 development boundary, 11 October 2026
 
 The sections below preserve the historical manuscript's claims and evidence

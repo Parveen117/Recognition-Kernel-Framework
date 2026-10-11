@@ -8,7 +8,23 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE1, 11 October 2026
+## Current endpoint development: SE2, 11 October 2026
+
+[Observer-path operator certificate](development/SE2_OBSERVER_PATH_OPERATOR_CERTIFICATE.md)
+puts the observer in a joint debt/boundary recovery equation. It reuses the
+Yang–Mills moving-observer and source-history route, permits both endpoint
+frames to move, and retains complete operator defects and mixed pairings.
+The finite observed block is eliminated first, so the certificate does not
+assume an inverse for the completed source.
+
+The written theorem derives source positivity and K0 positivity from the
+contractive joint observer. With a supplied debt observer, its remaining
+comparison is a five-column Gram. Constructing that observer for the
+actual RH source remains open. See the [YM source record](development/SE2_YM_SOURCE_RECORD.md)
+and [scope](development/SE2_SCOPE.md). The historical main manuscript and
+certificate pins are not rewritten by this development.
+
+## Preceding endpoint development: SE1, 11 October 2026
 
 [Native graph energy and a shared endpoint residual budget](development/SE1_SHARED_ENERGY_BUDGET.md)
 adds a written quarter-energy identity, an exact 2,400-cell chart replay,

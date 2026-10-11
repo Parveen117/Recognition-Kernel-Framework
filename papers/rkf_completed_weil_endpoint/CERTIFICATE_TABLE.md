@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1 table records the current development boundary.
+The separate SE1 and SE2 tables record the current development boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -24,6 +24,20 @@ The separate SE1 table records the current development boundary.
 The [SE1 note](development/SE1_SHARED_ENERGY_BUDGET.md) states the hypotheses;
 the [JSON result](../../proof_lab/ENDPOINT_SHARED_ENERGY_RESULT.json) keeps
 the actual source attachment open.
+
+## SE2 written operator results (not numerical certificates)
+
+| Node | Written evidence | Application boundary |
+| --- | --- | --- |
+| Joint debt/boundary observer | SE2.1--SE2.6: finite observed-block elimination and contractive recovery | Actual RH recovery map not yet constructed |
+| Five-column return | SE2.6a: recover the source flux after debt transport | Needs the actual debt observer and full source identity |
+| Operator reserve with nonzero error | SE2.7--SE2.8 and exact illustrative examples | Mixed terms and relative recovery error retained |
+| Moving observer and reference paths | SE2.9--SE2.19: full graph lift, signed defect composition and connection | Domain-compatible arrows; lossy cuts require recovery |
+| Local operator joins and cofinal limit | SE2.J1--SE2.J3: full cross-pairing criterion and canonical finite observer | All accumulated joins on an A-graph core; actual RH tail not supplied |
+| Diagonal matching and zero reading | SE2.20--SE2.21 | Full polarized pairing; typed specialization |
+
+See the [SE2 proof](development/SE2_OBSERVER_PATH_OPERATOR_CERTIFICATE.md)
+and [scope](development/SE2_SCOPE.md).
 
 ## Permanent records
 

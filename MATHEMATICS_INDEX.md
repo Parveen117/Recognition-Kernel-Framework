@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 11 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint development SE1.
+Index update: 11 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE2.
 
 ## Active operator-engine route
 
@@ -53,6 +53,14 @@ The native family, paired products, positivity and boundary class are stated hyp
 The [SE1 written proof](papers/rkf_completed_weil_endpoint/development/SE1_SHARED_ENERGY_BUDGET.md) continues the existing [endpoint paper](papers/rkf_completed_weil_endpoint/README.md). It uses the admitted T35 metric graph to prove a quarter-energy bound and shares one total Fourier-energy budget across the active region and tail. On the pinned 2,400-cell profile the exact conditional chart upper is below 2/15, and the five-column coefficient is below 8/5.
 
 The [exact replay](proof_lab/endpoint_shared_energy_budget.py), [result and claim boundary](proof_lab/ENDPOINT_SHARED_ENERGY_RESULT.json), [finite controls](proof_lab/test_endpoint_shared_energy_budget.py), and [source pins](papers/rkf_completed_weil_endpoint/development/SOURCE_PINS.json) separate written proof, finite arithmetic and provenance. Actual debt-paid source attachment, residual columns and the final five-matrix sign remain open. SE1 neither promotes the T21 profile to an actual decoder certificate nor changes the existing RH/K0 boundary. The canonical operator engine and its pins are unchanged.
+
+## Endpoint development SE2: moving observer and joint operator certificate
+
+[SE2](papers/rkf_completed_weil_endpoint/development/SE2_OBSERVER_PATH_OPERATOR_CERTIFICATE.md) reuses the Yang–Mills YC57/YC58 observer/path approach. Eliminating the finite observed block first gives one contractive recovery equation for the actual mismatch analysis, debt and boundary. Its proof derives source positivity, inverse-half regularity and the endpoint sign from the joint contract. An already supplied debt observer reduces the remaining witness to five columns.
+
+The construction retains signed operator defects along arbitrary reference paths, both endpoint transports, mixed diagonal readings and loop memory. The balance diagonal moves with the operators. Separate scalar budgets can fail while the exact joint operator inequality holds; the written examples demonstrate that distinction. [Source provenance](papers/rkf_completed_weil_endpoint/development/SE2_SOURCE_PINS.json), the [YM source record](papers/rkf_completed_weil_endpoint/development/SE2_YM_SOURCE_RECORD.md), and [scope](papers/rkf_completed_weil_endpoint/development/SE2_SCOPE.md) keep the general proof separate from the unconstructed actual RH observer. No new RH numerical certificate or engine modification is claimed.
+
+Local modules join exactly when their full cross-defect block fits between the two operator reserves. Compatible cofinal graph-core refinements construct a common contractive observer; its five-dimensional boundary component converges in operator norm. A finite set of successful joins does not establish the required all-joins or tail condition.
 
 ## Full framework register, preserved
 
