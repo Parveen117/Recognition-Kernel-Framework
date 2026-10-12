@@ -1,5 +1,28 @@
 # Claim Boundary for the Current Paper
 
+## SE44 native lines, theta and jya, 13 October 2026
+
+[SE44](../../research/lambda_counting/SE44_TVSP_LINES_ANGLE_AND_NATIVE_JYA.md)
+defines counting-translation lines, formal response transport and native
+angle/period in F00-E's completed radial field. Its jya recurrence extends
+to supplied invertible operator returns with transported observer frames.
+A declared rotational counting connection gives the exact curvature
+attachment; a general matrix return is not forced into that scalar sector.
+
+Literal sine correction converges on the stated open branch and retains
+the source through moving calibration. Half-turn silence requires the
+cosine reading; full-turn collisions require acquired path memory or the
+labelled mixed coefficient for the curvature target. Terminal phase does
+not manufacture winding. This is neither a universal motion law nor a
+proof that sine equals every physical curvature.
+
+Six written theorem groups and 32 exact controls, including 11 negative
+controls, have the separate scopes in
+[SE44 scope](../../research/lambda_counting/SE44_SCOPE.md).
+The inherited whole-engine pin mismatch remains reported; older sources
+and certificates are preserved. The RH source, eta 1079/2000, floor
+1/492000 and open universal source sign are unchanged.
+
 ## SE43 counting/EMK movement bridge, 13 October 2026
 
 [SE43](../../research/lambda_counting/SE43_COUNTING_TO_EMK_SEAM_TRANSPORT.md)

@@ -8,7 +8,26 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current counting development: SE43, 13 October 2026
+## Current counting development: SE44, 13 October 2026
+
+[TVSP counting lines, angle and native jya](../../research/lambda_counting/SE44_TVSP_LINES_ANGLE_AND_NATIVE_JYA.md)
+supplies lawful lines and their formal response lifts, then derives the
+native angular normalization deferred by F00-E. The jya difference law
+uses the actual turn coefficient; its full operator and moving-observer
+forms retain ordered response and seam memory. An explicit counting
+curvature family supplies a direct mixed-reading bridge. Literal sine
+feedback converges with a cubic error bound on its stated branch while
+preserving the source through calibration.
+
+Six written theorem groups and 32 exact controls, including 11 negative
+controls, have separate scopes. See
+[scope](../../research/lambda_counting/SE44_SCOPE.md),
+[source comparison](../../research/lambda_counting/SE44_SOURCE_RECORD.md) and
+[readings](../../proof_lab/TVSP_NATIVE_JYA_RESULT.json).
+The native counting construction does not establish universal physical
+TVSP motion or change the actual RH source bound.
+
+## Counting/EMK movement: SE43, 13 October 2026
 
 [Counting-to-EMK seam transport](../../research/lambda_counting/SE43_COUNTING_TO_EMK_SEAM_TRANSPORT.md)
 reuses the existing curvature results and develops their movement

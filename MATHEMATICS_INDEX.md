@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 13 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE43 (SE34--SE38 and SE41--SE43 carry scoped observer readings; SE43 connects counting movement to retained EMK seam memory; the universal RH source sign remains open).
+Index update: 13 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE44 (SE34--SE38 and SE41--SE44 carry scoped observer readings; SE44 defines counting lines, normalizes native angle and derives the retained jya law; the universal RH source sign remains open).
 
 ## Active operator-engine route
 
@@ -10,6 +10,33 @@ Index update: 13 October 2026, operator mathematics version 0.5 with additive re
 Read the [native primitive order](operator_foundation/theory/NATIVE_PRIMITIVE_ORDER.md), [algebra and observer contracts](operator_foundation/theory/01_NATIVE_ALGEBRA.md), [completion and memory](operator_foundation/theory/02_COMPLETION_AND_MEMORY.md), [Laurent/jet repair](operator_foundation/theory/NATIVE_LAURENT_JET_REPAIR.md), [Pāṇinian symbolic compiler](operator_foundation/theory/PANINIAN_OPERATOR_COMPILER.md), [automatic normal basis and regular action](operator_foundation/theory/AUTOMATIC_REGULAR_MODEL.md), then [weighted operator completion and certified response](operator_foundation/theory/WEIGHTED_OPERATOR_COMPLETION.md).
 
 The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [source index](operator_foundation/SOURCE_INDEX.md), and [master certificate](operator_foundation/audit/MASTER_CERTIFICATE.json) bind this route. The public source archive at `operator_foundation/sources/rkf_reference` includes the corrected T50/T54 edition and full Morphic/Pāṇinian source directories. Use that corrected source where the older root version differs. This does not silently overwrite old source-pinned files.
+
+## Native jya SE44: counting lines, angle and moving-observer recurrence
+
+[SE44](research/lambda_counting/SE44_TVSP_LINES_ANGLE_AND_NATIVE_JYA.md)
+defines lines as lawful count-translation orbits with formal response
+lifts. A rational quarter-turn normalizes native theta and proves the
+least full period, completing the step deferred by F00-E. The resulting
+jya difference law has coefficient 2(1-c), determined by the actual turn.
+Its operator form and transported observer recurrence retain noncircular
+responses, ordered initial data and seam memory.
+
+An explicit counting connection with curvature f(Lambda)J has return
+Exp(ab f(Lambda)J), attaching the acquired jya to the actual mixed
+curvature coefficient. Literal sine correction converges on its proved
+branch with a cubic error bound and retains the original source through
+the changing calibration. Sine alone misses antipodes; terminal phase
+alone misses full turns. Neither omission is treated as flatness.
+
+Six theorem groups and 32 exact controls, including 11 negative controls,
+have the separate scopes recorded in
+[scope](research/lambda_counting/SE44_SCOPE.md),
+[source comparison](research/lambda_counting/SE44_SOURCE_RECORD.md),
+[pins](research/lambda_counting/SE44_SOURCE_PINS.json),
+[replay](proof_lab/tvsp_native_jya.py) and
+[readings](proof_lab/TVSP_NATIVE_JYA_RESULT.json).
+The declared counting/response model does not assert universal physical
+TVSP motion, external mathematical priority or an improved RH bound.
 
 ## Counting/EMK bridge SE43: movement rules and ordered seam memory
 

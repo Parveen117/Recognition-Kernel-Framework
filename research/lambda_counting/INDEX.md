@@ -8,6 +8,22 @@ The shared operator engine stays in
 [operator_foundation](../../operator_foundation/README.md).
 
 The current development is
+**[SE44: TVSP counting lines, angle and native jya](SE44_TVSP_LINES_ANGLE_AND_NATIVE_JYA.md)**.
+Lawful counting lines carry formal response transports. Native theta
+and its least period are constructed from the rational quarter-turn,
+completing F00-E's deferred normalization. The exact jya difference law
+extends to operator returns and moving observers. A stated counting
+connection attaches it to actual curvature; literal sine correction has
+a proved attraction branch, cubic error bound and retained source.
+Six theorem groups and 32 exact controls, including 11 negative controls,
+are recorded in [scope](SE44_SCOPE.md),
+[sources](SE44_SOURCE_RECORD.md), [pins](SE44_SOURCE_PINS.json) and
+[readings](../../proof_lab/TVSP_NATIVE_JYA_RESULT.json).
+The model keeps noncircular returns and acquired winding separate from
+its scalar angle sector; calibration convergence does not flatten the
+source or change the RH eta.
+
+The preceding
 **[SE43: counting-to-EMK seam transport](SE43_COUNTING_TO_EMK_SEAM_TRANSPORT.md)**.
 It compares the existing geometries and reuses their curvature mechanisms.
 The explicit new interface distinguishes native count translation from
@@ -82,6 +98,7 @@ This changes calibration, not physical curvature or the RH source sign.
 | [SE41](SE41_ORDERED_RETURN_AND_MOVING_CUT_FEEDBACK.md) | Ordered-return calibration, complementary branch readings, moving cuts, noise bounds and triple unit-depth correction; scoped observer readings |
 | [SE42](SE42_COUNTING_CURVATURE_AND_OBSERVER_MEMORY.md) | Curvature from counting paths, frame/direction covariance, Bianchi identity, moving-cut complement returns and sharp unit-memory depth; scoped observer readings |
 | [SE43](SE43_COUNTING_TO_EMK_SEAM_TRANSPORT.md) | Counting/EMK movement adapter, compatible matrix seams, frame-independent descent, retained integer order memory and observer depth; scoped observer readings |
+| [SE44](SE44_TVSP_LINES_ANGLE_AND_NATIVE_JYA.md) | Counting lines and response lifts, native angle/period, exact jya and moving-observer operator recurrence, actual curvature attachment and source-preserving sine correction; scoped observer readings |
 
 The polynomial calibration stage is **SE38**. The degree
 of each nonlinear action term relative to its unit order determines
