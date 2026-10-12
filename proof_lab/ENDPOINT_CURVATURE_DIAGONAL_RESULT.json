@@ -1,0 +1,175 @@
+{
+  "schema": "rkf.endpoint-curvature-diagonal.v1",
+  "date": "2026-10-12",
+  "status": "PASS_CURVATURE_BLINDNESS_AND_DIAGONAL_CONTROLS",
+  "source": {
+    "inherited_global_eta": "1079/2000",
+    "inherited_native_floor": "1/492000",
+    "global_replay_rerun": false,
+    "eta_zero_certified": false,
+    "RH_proved": false
+  },
+  "written_theorems": {
+    "count": 4,
+    "actual_source_curvature_norm": "1/2",
+    "actual_source_curvature_Gram_norm": "1/4",
+    "actual_essential_curvature_norm": "1/2",
+    "attachment": "T=N^(-1/2)L_dagger L N^(-1/2); A=T(I+T)^(-1)",
+    "remaining_obligation": "Delta=(I-T)(I+T)^(-1) >= 0 on the entire actual carrier",
+    "warning": "Norm statements follow from the written SE5 Weyl-sequence proof, not from finite checks; other TVSP connections are not excluded"
+  },
+  "reciprocal_pair": [
+    {
+      "gain_Gram": "9/16",
+      "curvature_amplitude": "12/25",
+      "curvature_Gram": "144/625",
+      "source_diagonal": "7/25"
+    },
+    {
+      "gain_Gram": "16/9",
+      "curvature_amplitude": "12/25",
+      "curvature_Gram": "144/625",
+      "source_diagonal": "-7/25"
+    }
+  ],
+  "infinite_model_samples": [
+    {
+      "n": 1,
+      "contractive_gain_Gram": "1/4",
+      "expanding_gain_Gram": "4",
+      "shared_amplitude": "2/5",
+      "positive_diagonal": "3/5"
+    },
+    {
+      "n": 2,
+      "contractive_gain_Gram": "4/9",
+      "expanding_gain_Gram": "9/4",
+      "shared_amplitude": "6/13",
+      "positive_diagonal": "5/13"
+    },
+    {
+      "n": 4,
+      "contractive_gain_Gram": "16/25",
+      "expanding_gain_Gram": "25/16",
+      "shared_amplitude": "20/41",
+      "positive_diagonal": "9/41"
+    },
+    {
+      "n": 16,
+      "contractive_gain_Gram": "256/289",
+      "expanding_gain_Gram": "289/256",
+      "shared_amplitude": "272/545",
+      "positive_diagonal": "33/545"
+    },
+    {
+      "n": 64,
+      "contractive_gain_Gram": "4096/4225",
+      "expanding_gain_Gram": "4225/4096",
+      "shared_amplitude": "4160/8321",
+      "positive_diagonal": "129/8321"
+    }
+  ],
+  "check_count": 20,
+  "negative_control_count": 7,
+  "inherited_source_pins_checked": 78,
+  "checks": [
+    {
+      "name": "canonical_derived_iota",
+      "status": "PASS"
+    },
+    {
+      "name": "effect_projection_is_self_adjoint_and_idempotent",
+      "status": "PASS"
+    },
+    {
+      "name": "commutator_flux_matches_the_accepted_amplitude",
+      "status": "PASS"
+    },
+    {
+      "name": "full_curvature_square_and_diagonal_identity",
+      "status": "PASS"
+    },
+    {
+      "name": "retained_projector_diagonal_recovers_the_gain_Gram",
+      "status": "PASS"
+    },
+    {
+      "name": "reciprocal_gain_preserves_the_entire_curvature",
+      "status": "PASS"
+    },
+    {
+      "name": "same_signal_has_opposite_source_signs",
+      "status": "PASS"
+    },
+    {
+      "name": "full_projector_retains_the_missing_information",
+      "status": "PASS"
+    },
+    {
+      "name": "taking_only_the_positive_root_changes_the_expanding_source",
+      "status": "PASS"
+    },
+    {
+      "name": "unit_gain_has_zero_diagonal_and_nonzero_curvature",
+      "status": "PASS"
+    },
+    {
+      "name": "zero_gain_is_allowed_and_is_not_unit_gain",
+      "status": "PASS"
+    },
+    {
+      "name": "noncommuting_source_congruence_keeps_factor_order",
+      "status": "PASS"
+    },
+    {
+      "name": "mixed_source_negative_witness_is_preserved",
+      "status": "PASS"
+    },
+    {
+      "name": "shift_transports_the_metric_instead_of_coordinate_identity",
+      "status": "PASS"
+    },
+    {
+      "name": "gauge_covariance_transports_the_reference_and_reading",
+      "status": "PASS"
+    },
+    {
+      "name": "infinite_countermodel_coefficients_are_exactly_reciprocal",
+      "status": "PASS"
+    },
+    {
+      "name": "essential_threshold_deficit_identity_on_countermodel_modes",
+      "status": "PASS"
+    },
+    {
+      "name": "finite_readings_cannot_rule_out_a_later_negative_sector",
+      "status": "PASS"
+    },
+    {
+      "name": "negative_gain_root_is_rejected",
+      "status": "PASS"
+    },
+    {
+      "name": "existing_global_certificate_is_preserved",
+      "status": "PASS"
+    }
+  ],
+  "controls": [
+    "same_signal_has_opposite_source_signs",
+    "taking_only_the_positive_root_changes_the_expanding_source",
+    "unit_gain_has_zero_diagonal_and_nonzero_curvature",
+    "zero_gain_is_allowed_and_is_not_unit_gain",
+    "shift_transports_the_metric_instead_of_coordinate_identity",
+    "finite_readings_cannot_rule_out_a_later_negative_sector",
+    "negative_gain_root_is_rejected"
+  ],
+  "not_certified": [
+    "actual source diagonal nonnegativity",
+    "global eta zero or RH",
+    "new smaller eta",
+    "curvature flatness equivalent to RH",
+    "unique physical TVSP attachment",
+    "whole-engine PASS",
+    "proof-assistant or external review"
+  ]
+}

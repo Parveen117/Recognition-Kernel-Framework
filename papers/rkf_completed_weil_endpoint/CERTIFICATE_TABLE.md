@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE28 tables record the development history and current boundary.
+The separate SE1--SE29 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -11,6 +11,22 @@ The separate SE1--SE28 tables record the development history and current boundar
 | M3 accepted block | `3.08520376681449e-13 < M3 < 2.993597611951253e-12` | accepted odd block positive |
 | T03 endpoint | six-block Gram decomposition with vanishing total error | invariant source-Gram identity and `K0 >= 0` |
 | T19-T20 appendix | `beta_partial^cut <= 0.9998319617060448 < 1` and source injectivity | independent strict odd certificate |
+
+## SE29 curvature blindness and the source diagonal
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Actual observer attachment | SE29.1--SE29.7; noncommuting exact control | Delta is an invertible congruence of the actual source |
+| Reciprocal blindness | Theorem 2; scalar and infinite countermodels | Full canonical curvature alone cannot determine source sign |
+| Actual essential curvature | Theorem 3; inherited SE5 weakly escaping sequence | Curvature norm and essential norm equal 1/2 in this declared normalization |
+| Missing-sector recovery | Theorem 4; square-root sign control | Curvature plus the strict negative-sector marker recovers Delta |
+| Verification boundary | 20 scoped checks including seven negative controls | Exact controls pass; diagonal positivity and global eta zero are unproved |
+
+See the [proof](development/SE29_CURVATURE_BLINDNESS_AND_SOURCE_DIAGONAL.md),
+[replay](../../proof_lab/endpoint_curvature_diagonal.cjs),
+[result](../../proof_lab/ENDPOINT_CURVATURE_DIAGONAL_RESULT.json),
+[scope](development/SE29_SCOPE.md) and [pins](development/SE29_SOURCE_PINS.json).
+Global eta remains 1079/2000. No RH proof follows from the curvature norm.
 
 ## SE28 circular calibration and TVSP flat-member zeta
 

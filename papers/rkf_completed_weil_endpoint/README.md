@@ -8,7 +8,27 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE28, 12 October 2026
+## Current endpoint development: SE29, 12 October 2026
+
+[Curvature blindness and the source diagonal](development/SE29_CURVATURE_BLINDNESS_AND_SOURCE_DIAGONAL.md)
+tests the missing flatness-to-positivity implication using the actual SE5
+observer Gram. The declared canonical effect curvature is identical for
+reciprocal gains, while their source comparisons have opposite signs.
+The full projector diagonal retains that missing information.
+
+For this attachment to the actual source, curvature has norm and essential
+norm exactly 1/2 regardless of whether the source is nonnegative. The
+source-specific proof and infinite countermodels therefore prevent a
+curvature-only closure. The recovered diagonal's nonnegativity remains
+unproved. Global eta stays 1079/2000; eta zero and RH remain open.
+
+See the [replay](../../proof_lab/endpoint_curvature_diagonal.cjs),
+[result](../../proof_lab/ENDPOINT_CURVATURE_DIAGONAL_RESULT.json),
+[scope](development/SE29_SCOPE.md), [sources](development/SE29_SOURCE_RECORD.md)
+and [pins](development/SE29_SOURCE_PINS.json). Four written theorems,
+20 exact checks and the inherited whole-engine failure are distinguished.
+
+## Preceding endpoint development: SE28, 12 October 2026
 
 [Circular calibration, TVSP flat specialization and faithful RH transport](development/SE28_CIRCULAR_CALIBRATION_TVSP_AND_ZETA.md)
 implements numbers as calibrated circular readings with integer Smriti and

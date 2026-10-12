@@ -1,5 +1,28 @@
 # Claim Boundary for the Current Paper
 
+## SE29 curvature blindness and source diagonal, 12 October 2026
+
+The [SE29 proof](development/SE29_CURVATURE_BLINDNESS_AND_SOURCE_DIAGONAL.md)
+uses the explicit source adapter A=T(I+T)^(-1), with T the actual SE5
+observer Gram, in thermodynamic 08's effect connection. Its curvature
+cannot distinguish T from T^(-1). Infinite supplied countermodels show
+that stable recovery, the essential threshold and identical curvature
+do not force the source sign. They are not counterexamples to RH.
+
+SE5's actual escaping sequence proves that this connection has curvature
+norm and essential norm exactly 1/2. Thus this specific curvature cannot
+be made zero by a faithful unitary gauge change. No unique physical
+attachment, universal obstruction to other connections or contradiction
+with SE28's scalar-flat zeta member is asserted.
+
+The source comparison is recovered by the full projector diagonal,
+Delta=(I-T)(I+T)^(-1). Its nonnegativity is equivalent to the required
+source inequality and remains unproved. Taking the positive square root
+from the curvature Gram would assume that very sign. The global eta
+1079/2000, floor 1/492000 and all preceding certificates are unchanged.
+No global eta-zero, RH, K0, whole-engine PASS, formal or external
+verification is claimed. See [scope](development/SE29_SCOPE.md).
+
 ## SE28 circular calibration and TVSP flat specialization, 12 October 2026
 
 The [SE28 proof](development/SE28_CIRCULAR_CALIBRATION_TVSP_AND_ZETA.md)

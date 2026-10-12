@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and endpoint developments SE1--SE26.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and endpoint developments SE1--SE29.
 
 ## Active operator-engine route
 
@@ -10,6 +10,30 @@ Index update: 12 October 2026, operator mathematics version 0.5 with additive re
 Read the [native primitive order](operator_foundation/theory/NATIVE_PRIMITIVE_ORDER.md), [algebra and observer contracts](operator_foundation/theory/01_NATIVE_ALGEBRA.md), [completion and memory](operator_foundation/theory/02_COMPLETION_AND_MEMORY.md), [Laurent/jet repair](operator_foundation/theory/NATIVE_LAURENT_JET_REPAIR.md), [Pāṇinian symbolic compiler](operator_foundation/theory/PANINIAN_OPERATOR_COMPILER.md), [automatic normal basis and regular action](operator_foundation/theory/AUTOMATIC_REGULAR_MODEL.md), then [weighted operator completion and certified response](operator_foundation/theory/WEIGHTED_OPERATOR_COMPLETION.md).
 
 The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [source index](operator_foundation/SOURCE_INDEX.md), and [master certificate](operator_foundation/audit/MASTER_CERTIFICATE.json) bind this route. The public source archive at `operator_foundation/sources/rkf_reference` includes the corrected T50/T54 edition and full Morphic/Pāṇinian source directories. Use that corrected source where the older root version differs. This does not silently overwrite old source-pinned files.
+
+## Endpoint development SE29: curvature blindness and the actual source diagonal
+
+[SE29](papers/rkf_completed_weil_endpoint/development/SE29_CURVATURE_BLINDNESS_AND_SOURCE_DIAGONAL.md)
+attaches the existing effect connection to SE5's actual observer Gram T.
+Its accepted curvature Gram is K=T(I+T)^(-2); it loses the distinction
+between reciprocal gains. The retained projector diagonal
+Delta=(I-T)(I+T)^(-1) recovers the source comparison by invertible
+congruence. An infinite pair of countermodels has identical full curvature
+and opposite source signs, with the same essential threshold properties.
+
+For the actual source, the canonical curvature norm and essential norm
+are both exactly 1/2, independently of the unresolved source sign. This
+obstructs a curvature-zero proof for this explicit attachment, not every
+possible connection. The actual diagonal's nonnegativity is still open.
+SE27's global eta 1079/2000 and native floor 1/492000 remain unchanged.
+
+See the [exact replay](proof_lab/endpoint_curvature_diagonal.cjs),
+[result](proof_lab/ENDPOINT_CURVATURE_DIAGONAL_RESULT.json),
+[scope](papers/rkf_completed_weil_endpoint/development/SE29_SCOPE.md),
+[sources](papers/rkf_completed_weil_endpoint/development/SE29_SOURCE_RECORD.md)
+and [pins](papers/rkf_completed_weil_endpoint/development/SE29_SOURCE_PINS.json).
+Four written theorems and 20 scoped checks do not prove global eta zero
+or RH. The inherited full-engine hash mismatch remains separately recorded.
 
 ## New mathematical route: WC1-WC7
 
