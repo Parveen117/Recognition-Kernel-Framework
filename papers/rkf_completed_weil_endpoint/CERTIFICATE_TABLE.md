@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE32 tables record the development history and current boundary.
+The separate SE1--SE33 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -11,6 +11,22 @@ The separate SE1--SE32 tables record the development history and current boundar
 | M3 accepted block | `3.08520376681449e-13 < M3 < 2.993597611951253e-12` | accepted odd block positive |
 | T03 endpoint | six-block Gram decomposition with vanishing total error | invariant source-Gram identity and `K0 >= 0` |
 | T19-T20 appendix | `beta_partial^cut <= 0.9998319617060448 < 1` and source injectivity | independent strict odd certificate |
+
+## SE33 joint readings and nonlinear counting; application work deferred
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Joint reading calculus | Theorem 1; adaptive serialized joint bank | Finite multi-input responses compose using recorded inner supports |
+| Diagonal/order recovery | Theorem 2; diagonal and ordered-difference packet | Diagonal loses the antisymmetric part; the extra reading repairs it |
+| Nonlinear response | Theorem 3; rational-node response readings | Finite Taylor and chain/product rules for constructed polynomial operations |
+| Unit cut | Theorem 4; retained-layer controls | Joint operations and response decoding descend through the unit quotient |
+| Nonlinear inverse | Theorem 5; recorded kernel bank and descending decoder | All-input lowering gives exact compatible finite-sector inverses |
+| Evidence boundary | 30 exact checks, nine negative controls | Declared finite targets certified; no arbitrary nonlinear recovery or RH result |
+
+See the [current chapter](../../research/lambda_counting/INDEX.md),
+[proof](../../research/lambda_counting/SE33_JOINT_READINGS_AND_NONLINEAR_COUNTING.md),
+[readings](../../proof_lab/LAMBDA_JOINT_READINGS_RESULT.json) and
+[scope](../../research/lambda_counting/SE33_SCOPE.md).
 
 ## SE32 counting-reading calculus; application work deferred
 

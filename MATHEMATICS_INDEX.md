@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE32.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE33.
 
 ## Active operator-engine route
 
@@ -11,10 +11,13 @@ Read the [native primitive order](operator_foundation/theory/NATIVE_PRIMITIVE_OR
 
 The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [source index](operator_foundation/SOURCE_INDEX.md), and [master certificate](operator_foundation/audit/MASTER_CERTIFICATE.json) bind this route. The public source archive at `operator_foundation/sources/rkf_reference` includes the corrected T50/T54 edition and full Morphic/Pāṇinian source directories. Use that corrected source where the older root version differs. This does not silently overwrite old source-pinned files.
 
-## Constant-lambda counting: SE32
+## Constant-lambda counting: SE33
 
-[Counting mathematics](research/lambda_counting/README.md): reading completion,
-adaptive composition, count-functions and a locally finite infinite-order inverse.
+[Counting mathematics](research/lambda_counting/INDEX.md): joint readings,
+diagonal/order recovery, finite nonlinear response calculus and exact
+nonlinear triangular inversion. Five written proofs and 30 exact checks;
+RH and curvature remain deferred. The preceding SE32 reading completion,
+count-functions and linear inversion are linked from the same chapter.
 
 ## Endpoint development SE31
 

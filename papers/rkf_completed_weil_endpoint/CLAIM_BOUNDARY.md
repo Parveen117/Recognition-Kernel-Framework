@@ -1,5 +1,25 @@
 # Claim Boundary for the Current Paper
 
+## SE33 joint and nonlinear counting, 12 October 2026
+
+[SE33](../../research/lambda_counting/SE33_JOINT_READINGS_AND_NONLINEAR_COUNTING.md)
+extends the finite-support counting module to multilinear reading banks
+and polynomial operations. A bilinear diagonal determines exactly the
+symmetric part; a separate ordered-difference reading restores the rest.
+Response coefficients, finite Taylor and chain rules are algebraic
+expansions of supplied polynomial descriptions.
+
+The nonlinear inverse theorem applies when every kernel output index is
+below every input index. Descending readings then give exact finite-sector
+inverses and an exact linear response. Output-degree lowering alone does
+not suffice, as the explicit counterexample shows. This sufficient
+property is not claimed necessary for other possible inverse methods.
+Finite certificates retain their declared input and degree scopes.
+No arbitrary nonlinear recovery, analytic convergence, new RH bound,
+curvature result or whole-engine PASS is claimed. See the
+[scope](../../research/lambda_counting/SE33_SCOPE.md) and
+[current chapter](../../research/lambda_counting/INDEX.md).
+
 ## SE32 counting mathematics, 12 October 2026
 
 Development has moved to the [counting chapter](../../research/lambda_counting/README.md)

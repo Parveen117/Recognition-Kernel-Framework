@@ -1,0 +1,2075 @@
+{
+  "schema": "rkf.lambda-joint-readings.v1",
+  "date": "2026-10-12",
+  "status": "PASS_JOINT_READING_AND_NONLINEAR_COUNTING",
+  "theorem_count": 5,
+  "checks": [
+    {
+      "name": "joint_basis_readings_extend_R_multilinearly",
+      "status": "PASS"
+    },
+    {
+      "name": "formula_product_and_matching_have_distinct_joint_readings",
+      "status": "PASS"
+    },
+    {
+      "name": "joint_bank_rejects_duplicate_mislabelled_or_unread_rows",
+      "status": "PASS"
+    },
+    {
+      "name": "adaptive_joint_decoder_consumes_only_serialized_inner_and_outer_readings",
+      "status": "PASS"
+    },
+    {
+      "name": "omitted_joint_response_is_not_replaced_by_a_silent_null",
+      "status": "PASS"
+    },
+    {
+      "name": "a_null_inner_slot_needs_no_outer_readings",
+      "status": "PASS"
+    },
+    {
+      "name": "iterated_joint_tree_agrees_with_finite_count_product",
+      "status": "PASS"
+    },
+    {
+      "name": "diagonal_readings_hide_the_antisymmetric_input_order_part",
+      "status": "PASS"
+    },
+    {
+      "name": "ordered_difference_repairs_the_diagonal_bank",
+      "status": "PASS"
+    },
+    {
+      "name": "finite_polarization_recovers_symmetric_arity_two_through_four",
+      "status": "PASS"
+    },
+    {
+      "name": "unsymmetric_polarization_recovers_only_the_permutation_average",
+      "status": "PASS"
+    },
+    {
+      "name": "nonlinear_response_coefficients_come_from_saved_rational_node_readings",
+      "status": "PASS"
+    },
+    {
+      "name": "finite_taylor_response_reconstructs_the_shifted_operation",
+      "status": "PASS"
+    },
+    {
+      "name": "finite_chain_rule_matches_independent_degree_four_response_readings",
+      "status": "PASS"
+    },
+    {
+      "name": "ordered_bilinear_product_rule_preserves_both_input_slots",
+      "status": "PASS"
+    },
+    {
+      "name": "response_samples_do_not_infer_an_unknown_global_degree_bound",
+      "status": "PASS"
+    },
+    {
+      "name": "joint_composition_and_order_recovery_commute_with_unit_cuts",
+      "status": "PASS"
+    },
+    {
+      "name": "polynomial_response_decoding_commutes_with_retained_unit_layers",
+      "status": "PASS"
+    },
+    {
+      "name": "unit_memory_and_input_order_are_independent_observation_labels",
+      "status": "PASS"
+    },
+    {
+      "name": "nonlinear_kernel_is_generated_by_existing_profile_matching_and_lowering",
+      "status": "PASS"
+    },
+    {
+      "name": "nonlinear_inverse_is_decoded_from_archived_joint_readings_only",
+      "status": "PASS"
+    },
+    {
+      "name": "inverse_at_p3_matches_the_independent_coordinate_product_formula",
+      "status": "PASS"
+    },
+    {
+      "name": "both_nonlinear_inverse_identities_hold_on_mixed_finite_inputs",
+      "status": "PASS"
+    },
+    {
+      "name": "inverse_decoder_handles_cross_terms_and_mixed_kernel_arities",
+      "status": "PASS"
+    },
+    {
+      "name": "finite_sector_inverse_extensions_preserve_earlier_solutions",
+      "status": "PASS"
+    },
+    {
+      "name": "nonlinear_inverse_commutes_with_unit_cuts",
+      "status": "PASS"
+    },
+    {
+      "name": "inverse_linear_response_matches_the_exact_lowering_geometric_sum",
+      "status": "PASS"
+    },
+    {
+      "name": "inverse_degree_doubles_with_count_height_in_the_generated_family",
+      "status": "PASS"
+    },
+    {
+      "name": "output_degree_lowering_alone_does_not_imply_nonlinear_invertibility",
+      "status": "PASS"
+    },
+    {
+      "name": "inverse_decoder_reports_missing_joint_data_and_out_of_sector_targets",
+      "status": "PASS"
+    }
+  ],
+  "controls": [
+    "joint_bank_rejects_duplicate_mislabelled_or_unread_rows",
+    "omitted_joint_response_is_not_replaced_by_a_silent_null",
+    "diagonal_readings_hide_the_antisymmetric_input_order_part",
+    "unsymmetric_polarization_recovers_only_the_permutation_average",
+    "ordered_bilinear_product_rule_preserves_both_input_slots",
+    "response_samples_do_not_infer_an_unknown_global_degree_bound",
+    "unit_memory_and_input_order_are_independent_observation_labels",
+    "output_degree_lowering_alone_does_not_imply_nonlinear_invertibility",
+    "inverse_decoder_reports_missing_joint_data_and_out_of_sector_targets"
+  ],
+  "check_count": 30,
+  "negative_control_count": 9,
+  "inherited_source_pins_checked": 114,
+  "certificate_rule": "The recorded observer reading decoded for its stated target",
+  "construction": {
+    "carrier": "Finite counting states over Q[Lambda]",
+    "source": "Existing counting action and generated joint kernels",
+    "zero": "Typed cut operation; additive neutrals retain their separate types",
+    "primitive_metric": false,
+    "analytic_derivative_assumed": false,
+    "unknown_polynomial_degree_inferred_from_samples": false,
+    "RH_development": false,
+    "curvature_developed": false
+  },
+  "finite_ranges": {
+    "polarization_arities": [
+      2,
+      3,
+      4
+    ],
+    "joint_composition_input_grid_through": 1,
+    "joint_composition_requested_tuples": 6,
+    "generated_kernel_indices_through": 5,
+    "quadratic_inverse_sector_through": 3,
+    "mixed_quadratic_cubic_inverse_sector_through": 2,
+    "unit_cut_orders": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "inverse_response_degree_through": 8
+  },
+  "details": {
+    "adaptive_joint_certificate": {
+      "target": "Joint composite action on the stated input tuples",
+      "arity": 2,
+      "inner_responses": [
+        {
+          "inputs": [
+            0,
+            0
+          ],
+          "states": [
+            {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "X"
+                  ],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "X"
+                  ],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "inputs": [
+            0,
+            1
+          ],
+          "states": [
+            {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "X"
+                  ],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "X"
+                  ],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "inputs": [
+            1,
+            0
+          ],
+          "states": [
+            {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "X",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "X"
+                  ],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "inputs": [
+            1,
+            1
+          ],
+          "states": [
+            {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "X",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "X"
+                  ],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "required_outer_tuples": [
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ]
+      ],
+      "outer_readings": [
+        {
+          "inputs": [
+            1,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "inputs": [
+            1,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "inputs": [
+            1,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "inputs": [
+            3,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "inputs": [
+            3,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "inputs": [
+            3,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "decoded": [
+        {
+          "inputs": [
+            0,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "inputs": [
+            0,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "inputs": [
+            1,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "inputs": [
+            1,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "diagonal_order_certificate": {
+      "target": "Ordered bilinear response on the labelled pair (p_1,p_2)",
+      "inputs": [
+        {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [
+                "X"
+              ],
+              [
+                "1",
+                "0"
+              ]
+            ]
+          ]
+        },
+        {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [
+                "X",
+                "X"
+              ],
+              [
+                "1",
+                "0"
+              ]
+            ]
+          ]
+        }
+      ],
+      "q_u": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [
+              "X",
+              "X"
+            ],
+            [
+              "1",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "q_v": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [
+              "X",
+              "X",
+              "X",
+              "X"
+            ],
+            [
+              "1",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "q_sum": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [
+              "X",
+              "X"
+            ],
+            [
+              "1",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X",
+              "X",
+              "X"
+            ],
+            [
+              "2",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X",
+              "X",
+              "X",
+              "X"
+            ],
+            [
+              "1",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "ordered_difference": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [
+              "L"
+            ],
+            [
+              "-2",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "decoded": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [
+              "L"
+            ],
+            [
+              "-1",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X",
+              "X",
+              "X"
+            ],
+            [
+              "1",
+              "0"
+            ]
+          ]
+        ]
+      }
+    },
+    "polynomial_response_certificate": {
+      "degree": 2,
+      "readings": [
+        {
+          "parameter": "0",
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "-3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "parameter": "1",
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "-3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "parameter": "2",
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "-3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "decoded_coefficients": [
+        {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [
+                "X"
+              ],
+              [
+                "-1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L"
+              ],
+              [
+                "-1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "X"
+              ],
+              [
+                "-3",
+                "0"
+              ]
+            ],
+            [
+              [
+                "X",
+                "X"
+              ],
+              [
+                "1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "-1",
+                "0"
+              ]
+            ]
+          ]
+        },
+        {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L"
+              ],
+              [
+                "2",
+                "0"
+              ]
+            ],
+            [
+              [
+                "X"
+              ],
+              [
+                "1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L"
+              ],
+              [
+                "2",
+                "0"
+              ]
+            ]
+          ]
+        },
+        {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "-1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L"
+              ],
+              [
+                "-1",
+                "0"
+              ]
+            ]
+          ]
+        }
+      ],
+      "target": "All coefficients of the constructed degree-at-most-two response F(v+t h)"
+    },
+    "nonlinear_inverse_certificate": {
+      "target": "Inverse of v minus the supplied diagonal kernels, on the stated finite counting sector",
+      "input_prefix_through": 3,
+      "target_state": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [
+              "X",
+              "X",
+              "X"
+            ],
+            [
+              "1",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "kernels": [
+        {
+          "arity": 2,
+          "readings": [
+            {
+              "inputs": [
+                0,
+                0
+              ],
+              "response": {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              }
+            },
+            {
+              "inputs": [
+                0,
+                1
+              ],
+              "response": {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              }
+            },
+            {
+              "inputs": [
+                0,
+                2
+              ],
+              "response": {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              }
+            },
+            {
+              "inputs": [
+                0,
+                3
+              ],
+              "response": {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              }
+            },
+            {
+              "inputs": [
+                1,
+                0
+              ],
+              "response": {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              }
+            },
+            {
+              "inputs": [
+                1,
+                1
+              ],
+              "response": {
+                "from": "*",
+                "to": "*",
+                "terms": [
+                  [
+                    [],
+                    [
+                      "1",
+                      "0"
+                    ]
+                  ],
+                  [
+                    [
+                      "L"
+                    ],
+                    [
+                      "1",
+                      "0"
+                    ]
+                  ]
+                ]
+              }
+            },
+            {
+              "inputs": [
+                1,
+                2
+              ],
+              "response": {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              }
+            },
+            {
+              "inputs": [
+                1,
+                3
+              ],
+              "response": {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              }
+            },
+            {
+              "inputs": [
+                2,
+                0
+              ],
+              "response": {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              }
+            },
+            {
+              "inputs": [
+                2,
+                1
+              ],
+              "response": {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              }
+            },
+            {
+              "inputs": [
+                2,
+                2
+              ],
+              "response": {
+                "from": "*",
+                "to": "*",
+                "terms": [
+                  [
+                    [
+                      "X"
+                    ],
+                    [
+                      "1",
+                      "0"
+                    ]
+                  ],
+                  [
+                    [
+                      "L",
+                      "X"
+                    ],
+                    [
+                      "2",
+                      "0"
+                    ]
+                  ]
+                ]
+              }
+            },
+            {
+              "inputs": [
+                2,
+                3
+              ],
+              "response": {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              }
+            },
+            {
+              "inputs": [
+                3,
+                0
+              ],
+              "response": {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              }
+            },
+            {
+              "inputs": [
+                3,
+                1
+              ],
+              "response": {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              }
+            },
+            {
+              "inputs": [
+                3,
+                2
+              ],
+              "response": {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              }
+            },
+            {
+              "inputs": [
+                3,
+                3
+              ],
+              "response": {
+                "from": "*",
+                "to": "*",
+                "terms": [
+                  [
+                    [
+                      "X",
+                      "X"
+                    ],
+                    [
+                      "1",
+                      "0"
+                    ]
+                  ],
+                  [
+                    [
+                      "L",
+                      "X",
+                      "X"
+                    ],
+                    [
+                      "3",
+                      "0"
+                    ]
+                  ]
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "decoded": {
+        "state": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L"
+              ],
+              [
+                "17",
+                "0"
+              ]
+            ],
+            [
+              [
+                "X"
+              ],
+              [
+                "1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L"
+              ],
+              [
+                "122",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "X"
+              ],
+              [
+                "8",
+                "0"
+              ]
+            ],
+            [
+              [
+                "X",
+                "X"
+              ],
+              [
+                "1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "478",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "X"
+              ],
+              [
+                "21",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "X",
+                "X"
+              ],
+              [
+                "3",
+                "0"
+              ]
+            ],
+            [
+              [
+                "X",
+                "X",
+                "X"
+              ],
+              [
+                "1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "1101",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "X"
+              ],
+              [
+                "18",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "1485",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "1080",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L",
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "324",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "trace": [
+          {
+            "coordinate": 3,
+            "recovered_coefficient": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          },
+          {
+            "coordinate": 2,
+            "recovered_coefficient": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "3",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          },
+          {
+            "coordinate": 1,
+            "recovered_coefficient": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "8",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "21",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "18",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          },
+          {
+            "coordinate": 0,
+            "recovered_coefficient": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "17",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "122",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "478",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "1101",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "1485",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "1080",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "324",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "inverse_linear_response": {
+      "base": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [
+              "X",
+              "X",
+              "X"
+            ],
+            [
+              "1",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "direction": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [
+              "X"
+            ],
+            [
+              "1",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X",
+              "X",
+              "X"
+            ],
+            [
+              "1",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "decoded": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "10",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L"
+            ],
+            [
+              "154",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X"
+            ],
+            [
+              "5",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L"
+            ],
+            [
+              "1034",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "X"
+            ],
+            [
+              "32",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X",
+              "X"
+            ],
+            [
+              "2",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L"
+            ],
+            [
+              "3902",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "X"
+            ],
+            [
+              "84",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "X",
+              "X"
+            ],
+            [
+              "6",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X",
+              "X",
+              "X"
+            ],
+            [
+              "1",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L",
+              "L"
+            ],
+            [
+              "8844",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L",
+              "X"
+            ],
+            [
+              "72",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L",
+              "L",
+              "L"
+            ],
+            [
+              "11880",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L",
+              "L",
+              "L",
+              "L"
+            ],
+            [
+              "8640",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L",
+              "L",
+              "L",
+              "L",
+              "L"
+            ],
+            [
+              "2592",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "response_degree_bound": 8,
+      "finite_geometric_last_power": 3
+    }
+  },
+  "evidence": {
+    "general_results": "Five written proofs from finite counting expansions",
+    "executable": "Exact recorded-reading decoding and counterexamples using unchanged canonical engines",
+    "formal_proof_assistant": false,
+    "external_review": false,
+    "whole_engine_pass": false
+  },
+  "not_claimed": [
+    "identification of an arbitrary unknown nonlinear operation from finite samples",
+    "arbitrary nonlinear invertibility",
+    "uniform noisy-data stability",
+    "global bounded polynomial degree of the inverse",
+    "physical quadrant identification",
+    "new RH or curvature result",
+    "novelty priority for elementary polarization or triangular inversion"
+  ]
+}

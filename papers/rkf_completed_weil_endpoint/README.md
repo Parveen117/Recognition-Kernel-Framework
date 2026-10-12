@@ -8,7 +8,20 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current foundational development: SE32, 12 October 2026
+## Current foundational development: SE33, 12 October 2026
+
+The [counting chapter](../../research/lambda_counting/INDEX.md) now
+develops joint input readings and nonlinear counting operations.
+[SE33](../../research/lambda_counting/SE33_JOINT_READINGS_AND_NONLINEAR_COUNTING.md)
+identifies the input-order part hidden by diagonal readings, repairs it
+with an ordered difference, derives finite response and chain rules,
+and constructs an exact nonlinear inverse by descending joint readings.
+The certificate remains the observer reading decoded for its target.
+Five written proofs and 30 exact checks, including nine negative controls,
+are recorded in the [scope](../../research/lambda_counting/SE33_SCOPE.md).
+RH and curvature development remain deferred.
+
+## Preceding foundational development: SE32, 12 October 2026
 
 Work now continues in the [constant-lambda counting chapter](../../research/lambda_counting/README.md),
 with RH application deferred. [SE32](../../research/lambda_counting/SE32_READING_COMPLETION_AND_COUNTING_CALCULUS.md)

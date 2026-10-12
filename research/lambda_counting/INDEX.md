@@ -1,0 +1,46 @@
+# Constant-lambda counting: current development
+
+12 October 2026. Owner: Monty.
+
+This is the live route for the counting/cut construction. The
+[SE32 chapter entry](README.md) remains a pinned historical source.
+The shared operator engine stays in
+[operator_foundation](../../operator_foundation/README.md).
+
+Begin with the fixed marked unit and positive repetition. Algebraic
+completion, count actions and joint operations have explicitly declared
+carriers. Zero names a typed cut; additive-neutral elements are derived
+objects with separate types. RH and curvature development are deferred.
+
+| Stage | Developed mathematics |
+| --- | --- |
+| [SE30](../../papers/rkf_completed_weil_endpoint/development/SE30_CONSTANT_LAMBDA_COUNTING_AND_CUT.md) | Positive counts, arithmetic, unit cut, raising/lowering and counting exponential |
+| [SE31](../../papers/rkf_completed_weil_endpoint/development/SE31_COUNTING_OPERATOR_RECOVERY_AND_ORDERED_FLOW.md) | Finite-order recovery, retained unit memory and ordered flow |
+| [SE32](SE32_READING_COMPLETION_AND_COUNTING_CALCULUS.md) | Reading completion, adaptive composition, count-functions and locally finite linear inversion |
+| [SE33](SE33_JOINT_READINGS_AND_NONLINEAR_COUNTING.md) | Joint banks, diagonal/order recovery, finite nonlinear response rules and exact nonlinear triangular inversion |
+
+SE33 makes multiple input slots explicit. Diagonal readings recover
+the symmetric response but hide antisymmetric input order. A recorded
+ordered difference repairs that part. Constructed polynomial operations
+have finite response coefficients and a chain rule derived by expansion.
+
+For kernels whose output index is below every input index, descending
+readings invert the nonlinear operation exactly. The generated example
+has an inverse of unbounded global degree, while each finite counting
+input has a finite exact calculation. Merely lowering output degree
+does not suffice; the counterexample shows the missing dependency.
+
+**Certification is the observer reading decoded for its stated target.**
+The [saved readings](../../proof_lab/LAMBDA_JOINT_READINGS_RESULT.json)
+contain joint composition, diagonal/order repair, polynomial responses
+and nonlinear inversion. Their decoders consume detached serialized
+readings. Five written theorems and 30 exact checks, including nine
+negative controls, record the proof and computational scopes separately.
+
+Read the [proof](SE33_JOINT_READINGS_AND_NONLINEAR_COUNTING.md),
+[scope](SE33_SCOPE.md), [source record](SE33_SOURCE_RECORD.md),
+[application](../../proof_lab/lambda_joint_readings.cjs) and
+[pins](SE33_SOURCE_PINS.json). These are algebraic results on finite
+counting states; no analytic convergence, arbitrary nonlinear recovery
+or application theorem is implied.
+
