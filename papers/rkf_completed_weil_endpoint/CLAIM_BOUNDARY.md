@@ -1,5 +1,34 @@
 # Claim Boundary for the Current Paper
 
+## SE28 circular calibration and TVSP flat specialization, 12 October 2026
+
+The [SE28 proof](development/SE28_CIRCULAR_CALIBRATION_TVSP_AND_ZETA.md)
+provides seven written theorems for lifted circle readings, moving cut-line
+references, resolved zero units, the complete source rechart, fixed-state
+sheet escape, an infinite TVSP-derived Euler family and flatness distinctions.
+Its phase is a declared Cayley adapter of the existing scalar ratio I_th.
+The full TVSP curvature tensor is not identified with that ratio.
+
+With supplied arithmetic primes and log(p), Z_0(s)=zeta(s) for Re(s)>1;
+the logarithmic derivative recovers von Mangoldt prime-power weights.
+This is an exact flat-member identification of the function in the stated
+half-plane. It does not derive primes from geometry, prove analytic
+continuation for every nonflat member, locate zeta zeros or establish
+that native full-curvature flatness is equivalent to RH.
+
+Unitary circular calibration retains the complete corrected source and
+native graph norm, so SE27's eta=1079/2000, floor 1/492000 bound transfers
+unchanged. A raw zero unit loses information unless normalized data are
+retained; fixed physical states need arbitrarily many sheets. Calibration
+alone supplies no smaller eta or new source sign. The inherited source
+archive is reused and its global interval computation is not rerun here.
+
+The 28 native checks and 11 application checks support their specified
+finite controls. Written proofs establish the infinite and continuous
+statements. Eta zero, historical K0 attachment and RH remain open;
+whole-engine PASS, universal physical units, formal verification and
+external review are not claimed. See [scope](development/SE28_SCOPE.md).
+
 ## SE27 connected measurement-reference cuts, 12 October 2026
 
 The [SE27 proof](development/SE27_CONNECTED_CUT_REFERENCE_AND_RH_RECOVERY.md)

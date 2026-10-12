@@ -447,6 +447,32 @@ The positive aperture remains 21/25. Eta=1/2, cofinal eta-zero
 positivity, global critical contractivity, the historical five-label
 endpoint, K0 and RH remain open. No formal or external review is claimed.
 
+## Endpoint development SE28: circular calibration, TVSP flat phase and zeta
+
+The [SE28 proof](papers/rkf_completed_weil_endpoint/development/SE28_CIRCULAR_CALIBRATION_TVSP_AND_ZETA.md)
+implements circular readings with integer turn memory and both sides of a
+moving cut line. Unit changes preserve the decoded value; a resolved zero
+unit retains normalized data. A fixed physical source instead escapes every
+finite sheet window as its unit shrinks, so deleting turn memory is invalid.
+
+The existing TVSP ratio I_th supplies r=(I_th-1)/(I_th+1) and native phase
+chi_r=(1+iota*r)/(1-iota*r). With the supplied arithmetic primes,
+Z_r(s)=sum chi_r^Omega(n)/n^s equals zeta(s) at scalar flat closure r=0,
+on Re(s)>1. Its logarithmic derivative recovers every prime-power weight.
+The actual corrected RH source also has a faithful circle/sheet representation
+retaining Gamma, prime, pole and the native graph norm. SE27's global
+eta=1079/2000 certificate transfers unchanged to every positive calibration.
+
+See the [replay](proof_lab/endpoint_circular_calibration_certificate.py),
+[native controls](proof_lab/endpoint_circular_calibration.cjs),
+[result](proof_lab/ENDPOINT_CIRCULAR_CALIBRATION_RESULT.json),
+[scope](papers/rkf_completed_weil_endpoint/development/SE28_SCOPE.md),
+[sources](papers/rkf_completed_weil_endpoint/development/SE28_SOURCE_RECORD.md)
+and [pins](papers/rkf_completed_weil_endpoint/development/SE28_SOURCE_PINS.json).
+Flat-sector zeta specialization does not establish RH-flatness equivalence,
+derive arithmetic primes, or improve the eta anchor. These boundaries and
+the inherited engine-gate mismatch remain explicit.
+
 ## Endpoint development SE27: connected measurement-reference cuts and global eta 0.5395
 
 The [SE27 proof](papers/rkf_completed_weil_endpoint/development/SE27_CONNECTED_CUT_REFERENCE_AND_RH_RECOVERY.md)

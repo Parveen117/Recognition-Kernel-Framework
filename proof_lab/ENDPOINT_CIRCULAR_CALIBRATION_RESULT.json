@@ -1,0 +1,505 @@
+{
+  "schema": "rkf.endpoint-circular-calibration.v1",
+  "date": "2026-10-12",
+  "status": "PASS_CIRCULAR_CALIBRATION_AND_FLAT_ZETA_SPECIALIZATION",
+  "source": {
+    "eta": "1079/2000",
+    "shifted_native_floor": "1/492000",
+    "eta_zero_certified": false,
+    "inherited_certificate": "SE27",
+    "global_replay_rerun": false,
+    "source_transport": "Written unitary pullback with the complete native graph norm; Gamma, prime, pole and all residuals retained"
+  },
+  "TVSP": {
+    "flat_condition": "I_th=(lambda_p/lambda_v)*(lambda_t/lambda_s)=1",
+    "defect": "r=(I_th-1)/(I_th+1)",
+    "phase": "chi=(1+iota*r)/(1-iota*r)",
+    "zeta_specialization": "Z_r(s)=sum chi^Omega(n)/n^s; Z_0(s)=zeta(s), Re(s)>1",
+    "universal_physical_unit": false,
+    "RH_flatness_equivalence": false
+  },
+  "calibration": {
+    "cut": "Whole line section with side and integer-turn memory",
+    "zero_unit": "Resolved normalized data retained; raw zero alone is insufficient",
+    "fixed_source_limit": "Weak zero and no strong limit in the unrescaled sheet carrier for nonzero states"
+  },
+  "actual_event_pairs": [
+    {
+      "calibration": "2*1*log(2)",
+      "all_9_mixed_pairings": "EXACT"
+    },
+    {
+      "calibration": "2*2*log(2)",
+      "all_9_mixed_pairings": "EXACT"
+    },
+    {
+      "calibration": "2*3*log(2)",
+      "all_9_mixed_pairings": "EXACT"
+    }
+  ],
+  "actual_pole_pairs": [
+    {
+      "calibration_multiplier": 1,
+      "head": "222478807506487/2126008811520000",
+      "infinite_tail": "9692935203967/14882061680640000",
+      "total": "45607/433125"
+    },
+    {
+      "calibration_multiplier": 2,
+      "head": "213661078683716556103743/2029141848108050677760000",
+      "infinite_tail": "162554440601294278783/127835936430807192698880000",
+      "total": "45607/433125"
+    },
+    {
+      "calibration_multiplier": 3,
+      "head": "16518211303150053395976802130797111/156871761778243388435217021665280000",
+      "infinite_tail": "2727167342856282671259586687/1098102332447703719046519151656960000",
+      "total": "45607/433125"
+    }
+  ],
+  "prime_log_carries": [
+    {
+      "event": 2,
+      "phase": "1/4",
+      "sheet_carry": -1,
+      "new_phase": [
+        "0.24999999999999999999999999999999999999999999999999999999999999999999999999999999999999941",
+        "0.250000000000000000000000000000000000000000000000000000000000000000000000000000000000000584"
+      ]
+    },
+    {
+      "event": 2,
+      "phase": "3/4",
+      "sheet_carry": -1,
+      "new_phase": [
+        "0.74999999999999999999999999999999999999999999999999999999999999999999999999999999999999941",
+        "0.750000000000000000000000000000000000000000000000000000000000000000000000000000000000000584"
+      ]
+    },
+    {
+      "event": 3,
+      "phase": "1/4",
+      "sheet_carry": -2,
+      "new_phase": [
+        "0.66503749927884381854626105605218349124018559230751893954424734545890177220564143747771890",
+        "0.66503749927884381854626105605218349124018559230751893954424734545890177220564143747772044"
+      ]
+    },
+    {
+      "event": 3,
+      "phase": "3/4",
+      "sheet_carry": -1,
+      "new_phase": [
+        "0.16503749927884381854626105605218349124018559230751893954424734545890177220564143747771890",
+        "0.16503749927884381854626105605218349124018559230751893954424734545890177220564143747772044"
+      ]
+    },
+    {
+      "event": 4,
+      "phase": "1/4",
+      "sheet_carry": -2,
+      "new_phase": [
+        "0.24999999999999999999999999999999999999999999999999999999999999999999999999999999999999940",
+        "0.25000000000000000000000000000000000000000000000000000000000000000000000000000000000000119"
+      ]
+    },
+    {
+      "event": 4,
+      "phase": "3/4",
+      "sheet_carry": -2,
+      "new_phase": [
+        "0.74999999999999999999999999999999999999999999999999999999999999999999999999999999999999940",
+        "0.75000000000000000000000000000000000000000000000000000000000000000000000000000000000000119"
+      ]
+    },
+    {
+      "event": 5,
+      "phase": "1/4",
+      "sheet_carry": -3,
+      "new_phase": [
+        "0.92807190511263765212968057051060982413516860697541938794524360418406522339012984594423251",
+        "0.92807190511263765212968057051060982413516860697541938794524360418406522370616674057008861"
+      ]
+    },
+    {
+      "event": 5,
+      "phase": "3/4",
+      "sheet_carry": -2,
+      "new_phase": [
+        "0.42807190511263765212968057051060982413516860697541938794524360418406522339012984594423251",
+        "0.42807190511263765212968057051060982413516860697541938794524360418406522370616674057008861"
+      ]
+    },
+    {
+      "event": 7,
+      "phase": "1/4",
+      "sheet_carry": -3,
+      "new_phase": [
+        "0.44264507794239589255803068276816919135897337403385921550033070447261889668602900654863198",
+        "0.44264507794239589255803068276816919135897337403385934601181374427981961584124411350219664"
+      ]
+    },
+    {
+      "event": 7,
+      "phase": "3/4",
+      "sheet_carry": -3,
+      "new_phase": [
+        "0.94264507794239589255803068276816919135897337403385921550033070447261889668602900654863198",
+        "0.94264507794239589255803068276816919135897337403385934601181374427981961584124411350219664"
+      ]
+    },
+    {
+      "event": 8,
+      "phase": "1/4",
+      "sheet_carry": -3,
+      "new_phase": [
+        "0.24999999999999999999999999999999999999999999999766782047982192535121995219002671130752334",
+        "0.25000000000000000000000000000000000000000000030917134373641468545068154071346893016489275"
+      ]
+    },
+    {
+      "event": 8,
+      "phase": "3/4",
+      "sheet_carry": -3,
+      "new_phase": [
+        "0.74999999999999999999999999999999999999999999999766782047982192535121995219002671130752334",
+        "0.75000000000000000000000000000000000000000000030917134373641468545068154071346893016489275"
+      ]
+    },
+    {
+      "event": 9,
+      "phase": "1/4",
+      "sheet_carry": -3,
+      "new_phase": [
+        "0.08007499855768763709252211210436698248037094586236110482973556204330735841998837280458814",
+        "0.08007499855768763709252211210436698248039847815931136940929828665476678604099905757697604"
+      ]
+    },
+    {
+      "event": 9,
+      "phase": "3/4",
+      "sheet_carry": -3,
+      "new_phase": [
+        "0.58007499855768763709252211210436698248037094586236110482973556204330735841998837280458814",
+        "0.58007499855768763709252211210436698248039847815931136940929828665476678604099905757697604"
+      ]
+    },
+    {
+      "event": 11,
+      "phase": "1/4",
+      "sheet_carry": -4,
+      "new_phase": [
+        "0.79056838136270274380063695327420703669395946046872289071604904320320146005392195316293793",
+        "0.79056838136270274380063695327420745384210045838563858283482689363085136154962245987842324"
+      ]
+    },
+    {
+      "event": 11,
+      "phase": "3/4",
+      "sheet_carry": -3,
+      "new_phase": [
+        "0.29056838136270274380063695327420703669395946046872289071604904320320146005392195316293793",
+        "0.29056838136270274380063695327420745384210045838563858283482689363085136154962245987842324"
+      ]
+    },
+    {
+      "event": 25,
+      "phase": "1/4",
+      "sheet_carry": -5,
+      "new_phase": [
+        "0.60614381022527528911984572120203013485836132462699626241334265194276861119627265234300505",
+        "0.60614381022527584810754089122934883588731198371868532809568915324294661969985229672444426"
+      ]
+    },
+    {
+      "event": 25,
+      "phase": "3/4",
+      "sheet_carry": -4,
+      "new_phase": [
+        "0.10614381022527528911984572120203013485836132462699626241334265194276861119627265234300505",
+        "0.10614381022527584810754089122934883588731198371868532809568915324294661969985229672444426"
+      ]
+    }
+  ],
+  "escaping_sheets": [
+    {
+      "unit": "1/2",
+      "sheet_at_x_1": 2
+    },
+    {
+      "unit": "1/4",
+      "sheet_at_x_1": 4
+    },
+    {
+      "unit": "1/8",
+      "sheet_at_x_1": 8
+    },
+    {
+      "unit": "1/16",
+      "sheet_at_x_1": 16
+    }
+  ],
+  "geometry": {
+    "schema": "rkf.circular-calibration-controls.v1",
+    "status": "PASS_EXACT_CIRCULAR_CALIBRATION",
+    "check_count": 28,
+    "negative_control_count": 8,
+    "TVSP_shapes": [
+      {
+        "values": [
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "invariant": "1",
+        "defect": "0",
+        "phase": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "values": [
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        "invariant": "2",
+        "defect": "1/3",
+        "phase": [
+          "4/5",
+          "3/5"
+        ]
+      },
+      {
+        "values": [
+          "1",
+          "2",
+          "1",
+          "1"
+        ],
+        "invariant": "1/2",
+        "defect": "-1/3",
+        "phase": [
+          "4/5",
+          "-3/5"
+        ]
+      },
+      {
+        "values": [
+          "-2",
+          "-4",
+          "-3",
+          "-6"
+        ],
+        "invariant": "1",
+        "defect": "0",
+        "phase": [
+          "1",
+          "0"
+        ]
+      }
+    ],
+    "Euler_control": {
+      "integer_cutoff": 256,
+      "prime_count": 54,
+      "half_plane": "Re(s)>1",
+      "tail_disk_at_s_2": "1/256",
+      "twist": [
+        "4/5",
+        "3/5"
+      ]
+    },
+    "cut_reference": "Entire line section with both side labels and integer sheet memory",
+    "checks": [
+      {
+        "name": "exact_cut_field_and_integer_floor",
+        "status": "PASS"
+      },
+      {
+        "name": "circle_sheet_round_trips",
+        "status": "PASS"
+      },
+      {
+        "name": "whole_line_cut_retains_both_half_circle_labels",
+        "status": "PASS"
+      },
+      {
+        "name": "translation_carry_is_associative",
+        "status": "PASS"
+      },
+      {
+        "name": "calibration_changes_preserve_the_physical_reading",
+        "status": "PASS"
+      },
+      {
+        "name": "recalibration_cocycle",
+        "status": "PASS"
+      },
+      {
+        "name": "moving_the_whole_cut_line_preserves_readings_and_memory",
+        "status": "PASS"
+      },
+      {
+        "name": "moving_cut_transitions_satisfy_the_cocycle",
+        "status": "PASS"
+      },
+      {
+        "name": "native_paths_preserve_completed_turns",
+        "status": "PASS"
+      },
+      {
+        "name": "path_dagger_reverses_turn_memory",
+        "status": "PASS"
+      },
+      {
+        "name": "full_turns_return_phase_but_retain_count",
+        "status": "PASS"
+      },
+      {
+        "name": "normalized_zero_scale_keeps_the_reading",
+        "status": "PASS"
+      },
+      {
+        "name": "zero_unit_is_not_a_division_operation",
+        "status": "PASS"
+      },
+      {
+        "name": "phase_only_erases_integer_information",
+        "status": "PASS"
+      },
+      {
+        "name": "erasing_the_line_side_aliases_half_turns",
+        "status": "PASS"
+      },
+      {
+        "name": "TVSP_ratio_and_Cayley_phase_from_the_same_tetrad",
+        "status": "PASS"
+      },
+      {
+        "name": "TVSP_common_unit_cancels",
+        "status": "PASS"
+      },
+      {
+        "name": "response_pair_reversal_conjugates_phase",
+        "status": "PASS"
+      },
+      {
+        "name": "flat_ratio_does_not_require_zero_response_coordinates",
+        "status": "PASS"
+      },
+      {
+        "name": "collapsed_raw_tetrad_does_not_select_a_flat_direction",
+        "status": "PASS"
+      },
+      {
+        "name": "singular_zero_tetrad_is_rejected",
+        "status": "PASS"
+      },
+      {
+        "name": "flat_Euler_coefficients_are_exactly_one",
+        "status": "PASS"
+      },
+      {
+        "name": "twisted_Euler_coefficients_retain_prime_multiplicity",
+        "status": "PASS"
+      },
+      {
+        "name": "log_derivative_recovers_each_prime_power_with_its_log_prime_weight",
+        "status": "PASS"
+      },
+      {
+        "name": "finite_Euler_product_and_Dirichlet_head_obey_analytic_tail_cap",
+        "status": "PASS"
+      },
+      {
+        "name": "twisting_is_not_a_source_preserving_relabeling",
+        "status": "PASS"
+      },
+      {
+        "name": "flat_connection_need_not_have_trivial_holonomy",
+        "status": "PASS"
+      },
+      {
+        "name": "flat_reference_does_not_force_positive_source",
+        "status": "PASS"
+      }
+    ],
+    "controls": [
+      "zero_unit_is_not_a_division_operation",
+      "phase_only_erases_integer_information",
+      "erasing_the_line_side_aliases_half_turns",
+      "collapsed_raw_tetrad_does_not_select_a_flat_direction",
+      "singular_zero_tetrad_is_rejected",
+      "twisting_is_not_a_source_preserving_relabeling",
+      "flat_connection_need_not_have_trivial_holonomy",
+      "flat_reference_does_not_force_positive_source"
+    ]
+  },
+  "inherited_source_pins_checked": 63,
+  "check_count": 11,
+  "negative_control_count": 3,
+  "checks": [
+    {
+      "name": "unchanged_SE27_certificate_and_native_bound",
+      "status": "PASS"
+    },
+    {
+      "name": "canonical_circle_and_TVSP_controls",
+      "status": "PASS"
+    },
+    {
+      "name": "all_actual_event_Gram_entries_preserved_with_infinite_sheets",
+      "status": "PASS"
+    },
+    {
+      "name": "actual_Gamma_blind_pole_reading_preserved",
+      "status": "PASS"
+    },
+    {
+      "name": "phase_folding_alone_loses_a_nonzero_tail",
+      "status": "PASS"
+    },
+    {
+      "name": "helical_cut_gluing_for_actual_trial_and_response_monomials",
+      "status": "PASS"
+    },
+    {
+      "name": "independent_periodic_sheet_condition_is_false",
+      "status": "PASS"
+    },
+    {
+      "name": "actual_prime_log_translations_have_certified_sheet_carries",
+      "status": "PASS"
+    },
+    {
+      "name": "ambiguous_cut_crossing_not_rounded_to_one_branch",
+      "status": "PASS"
+    },
+    {
+      "name": "fixed_physical_state_needs_unbounded_turn_memory",
+      "status": "PASS"
+    },
+    {
+      "name": "nonzero_state_keeps_norm_while_fixed_sheet_windows_empty",
+      "status": "PASS"
+    }
+  ],
+  "controls": [
+    "phase_folding_alone_loses_a_nonzero_tail",
+    "independent_periodic_sheet_condition_is_false",
+    "ambiguous_cut_crossing_not_rounded_to_one_branch"
+  ],
+  "not_certified": [
+    "RH or global eta zero",
+    "new smaller eta anchor",
+    "canonical derivation of primes or log(p) from TVSP",
+    "full curvature from one scalar flat ratio",
+    "analytic continuation of every twisted member",
+    "universal physical calibration",
+    "whole operator-engine PASS",
+    "formal or external verification"
+  ]
+}

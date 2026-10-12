@@ -8,7 +8,30 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE27, 12 October 2026
+## Current endpoint development: SE28, 12 October 2026
+
+[Circular calibration, TVSP flat specialization and faithful RH transport](development/SE28_CIRCULAR_CALIBRATION_TVSP_AND_ZETA.md)
+implements numbers as calibrated circular readings with integer Smriti and
+both cut-line sides retained. Moving cuts and changing units preserve the
+decoded reading. Normalized information remains on a resolved zero-unit
+fibre, while fixed physical source states require unbounded sheet memory.
+
+The existing TVSP flat ratio generates a declared unitary phase chi_r.
+Using the actual arithmetic prime labels, the family
+Z_r(s)=sum chi_r^Omega(n)/n^s recovers zeta(s) at r=0 on Re(s)>1.
+Its logarithmic derivative recovers the prime-power log-prime weights.
+The complete corrected RH source is separately transported to cut circles,
+including Gamma, primes, pole, tails and native graph norm. SE27's global
+anchor 0.5395 is preserved. RH-flatness equivalence and eta zero remain open.
+
+See the [replay](../../proof_lab/endpoint_circular_calibration_certificate.py),
+[native controls](../../proof_lab/endpoint_circular_calibration.cjs),
+[result](../../proof_lab/ENDPOINT_CIRCULAR_CALIBRATION_RESULT.json),
+[scope](development/SE28_SCOPE.md), [sources](development/SE28_SOURCE_RECORD.md)
+and [pins](development/SE28_SOURCE_PINS.json). The written theorems,
+39 scoped checks and unchanged full-engine hash mismatch are distinguished.
+
+## Preceding endpoint development: SE27, 12 October 2026
 
 [Connected measurement-reference cuts and continuous RH recovery](development/SE27_CONNECTED_CUT_REFERENCE_AND_RH_RECOVERY.md)
 implements zero-reference as the whole calibrated connected cut family.

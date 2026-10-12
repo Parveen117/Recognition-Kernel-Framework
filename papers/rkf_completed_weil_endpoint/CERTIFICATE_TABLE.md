@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE27 tables record the development history and current boundary.
+The separate SE1--SE28 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -11,6 +11,25 @@ The separate SE1--SE27 tables record the development history and current boundar
 | M3 accepted block | `3.08520376681449e-13 < M3 < 2.993597611951253e-12` | accepted odd block positive |
 | T03 endpoint | six-block Gram decomposition with vanishing total error | invariant source-Gram identity and `K0 >= 0` |
 | T19-T20 appendix | `beta_partial^cut <= 0.9998319617060448 < 1` and source injectivity | independent strict odd certificate |
+
+## SE28 circular calibration and TVSP flat-member zeta
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Existing TVSP ratio and phase | SE28.1--SE28.3; exact cut arithmetic | Declared phase equals identity exactly at scalar flat closure |
+| Lifted circular numbers | SE28.4--SE28.6; carry and path controls | Complete readings retain integer turns and both sides of a movable cut line |
+| Resolved zero unit | Theorem 3; distinct-shape collapse control | Normalized data survive in the retained packet; raw zero is not sufficient |
+| Complete source on cut circles | SE28.7--SE28.16; unitary proof and all nine actual mixed Gram entries at three calibrations | SE27's global source bound transfers with every term and native norm retained |
+| Infinite sheet necessity | SE28.17; fixed-state weak-limit proof | Fixed finite sheet windows cannot retain a nonzero fixed source as its unit vanishes |
+| Flat zeta member | SE28.18--SE28.21; absolute convergence and unique prime factorization | Z_0=zeta and the exact prime-power logarithmic derivative on Re(s)>1 |
+| Verification and limits | 28 native plus 11 application checks; inherited engine mismatch recorded | Scoped evidence; no RH-flatness equivalence or eta-zero certificate |
+
+See the [proof](development/SE28_CIRCULAR_CALIBRATION_TVSP_AND_ZETA.md),
+[replay](../../proof_lab/endpoint_circular_calibration_certificate.py),
+[result](../../proof_lab/ENDPOINT_CIRCULAR_CALIBRATION_RESULT.json),
+[scope](development/SE28_SCOPE.md) and [pins](development/SE28_SOURCE_PINS.json).
+The global anchor remains 1079/2000. Scalar flat closure, connection
+curvature, holonomy and source positivity retain their distinct meanings.
 
 ## SE27 connected measurement-reference cuts and source recovery
 
