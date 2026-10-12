@@ -21,7 +21,7 @@ included. Certification and executable replay remain deferred; the
 [counting chapter](../../research/lambda_counting/INDEX.md) records the
 derivations and examples. RH remains deferred.
 
-## Preceding foundational development: SE35 draft, 12 October 2026
+## Preceding foundational development: SE35, 12 October 2026
 
 [SE35](../../research/lambda_counting/SE35_ACTIVE_READINGS_AND_SINGULAR_CUT_REPAIR.md)
 derives which input differences remain invisible to all translated-input
@@ -30,8 +30,10 @@ descending response orders recover the input modulo those directions;
 the target determines the minimum extra linear readings. Completing
 the observer can give identity cut even when the raw response is
 singular, enabling SE34's nonlinear unit lifting. Worked square and
-deformed-square examples make the repair explicit. Certification and
-executable replay remain deferred. The
+deformed-square examples make the repair explicit. The observer's
+saved translated readings are decoded for their stated targets: 36 exact
+checks, including 14 negative controls, recorded in the
+[scope](../../research/lambda_counting/SE35_SCOPE.md). The
 [counting chapter](../../research/lambda_counting/INDEX.md) holds the
 development route; RH remains deferred.
 

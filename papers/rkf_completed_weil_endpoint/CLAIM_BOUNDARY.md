@@ -21,7 +21,7 @@ an algebraic observation update, not a physical clock law. Certification,
 new pins and verification runs remain deferred. Earlier certificates
 and application boundaries are unchanged.
 
-## SE35 development draft, 12 October 2026
+## SE35 active readings, 12 October 2026
 
 [SE35](../../research/lambda_counting/SE35_ACTIVE_READINGS_AND_SINGULAR_CUT_REPAIR.md)
 derives exact blind fibres for active translated-input readings of a
@@ -38,7 +38,9 @@ as one scalar measurement. The polynomial decoder is a left inverse on
 lawful banks; arbitrary inconsistent banks need not have a source. The
 extra-channel minimum concerns scalar linear additions to this active
 bank. No unrestricted noisy-data or infinite-input recovery is claimed.
-Certification, replay, new pins and verification runs remain deferred.
+The observer certificate decodes saved translated readings for their
+stated targets; its finite checks do not stand in for the written
+derivations, and it issues no certificate for SE34's general theorems.
 Earlier certificates and application boundaries are unchanged.
 
 ## SE34 development draft, 12 October 2026

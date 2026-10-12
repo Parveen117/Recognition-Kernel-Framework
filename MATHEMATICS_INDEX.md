@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE36 (SE34--SE36 are development drafts; certification deferred).
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE36 (SE35 observer-certified; SE34 and SE36 are development drafts).
 
 ## Active operator-engine route
 
@@ -18,8 +18,12 @@ The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [sour
 restricted probes, action-word observation closure, synthesized
 translations and finite nonlinear observation at retained unit depth.
 The observer's moving calibration is included in its update equation.
-Certification is deferred; no SE34--SE36 replay or verification PASS
-is issued.
+SE36 certification is deferred.
+[SE35](research/lambda_counting/SE35_ACTIVE_READINGS_AND_SINGULAR_CUT_REPAIR.md)
+is observer-certified: its saved translated readings are decoded for
+their stated targets in 36 exact checks, including 14 negative controls,
+with 130 source pins ([scope](research/lambda_counting/SE35_SCOPE.md)).
+SE34 remains a development draft without its own certificate.
 SE33's five proofs and 30 exact checks remain the preceding reading
 record. RH and curvature remain deferred.
 

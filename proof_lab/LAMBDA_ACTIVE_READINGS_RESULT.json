@@ -1,0 +1,5840 @@
+{
+  "schema": "rkf.lambda-active-readings.v1",
+  "date": "2026-10-12",
+  "status": "PASS_ACTIVE_READING_AND_SINGULAR_CUT_REPAIR",
+  "theorem_count": 4,
+  "proposition_count": 2,
+  "checks": [
+    {
+      "name": "symmetric_components_are_built_from_the_declared_polynomial_and_agree_with_it",
+      "status": "PASS"
+    },
+    {
+      "name": "unsymmetric_bank_is_rejected_as_a_symmetric_component",
+      "status": "PASS"
+    },
+    {
+      "name": "ordered_kernel_antisymmetric_part_is_invisible_to_the_symmetric_components",
+      "status": "PASS"
+    },
+    {
+      "name": "blind_subspace_of_the_mixed_response_is_the_stated_line",
+      "status": "PASS"
+    },
+    {
+      "name": "translation_invariance_along_the_blind_line_and_not_off_it",
+      "status": "PASS"
+    },
+    {
+      "name": "complete_active_banks_have_exactly_the_cosets_of_the_blind_subspace_as_fibres",
+      "status": "PASS"
+    },
+    {
+      "name": "equal_translated_readings_iff_difference_lies_in_the_blind_subspace",
+      "status": "PASS"
+    },
+    {
+      "name": "raw_square_fibre_is_larger_than_the_active_fibre",
+      "status": "PASS"
+    },
+    {
+      "name": "calibration_change_adds_only_the_known_exact_term",
+      "status": "PASS"
+    },
+    {
+      "name": "finite_grid_interpolates_the_translated_response_polynomial_off_grid",
+      "status": "PASS"
+    },
+    {
+      "name": "understated_degree_bound_misreads_the_response",
+      "status": "PASS"
+    },
+    {
+      "name": "descending_decoder_recovers_the_cubic_plus_linear_input_exactly",
+      "status": "PASS"
+    },
+    {
+      "name": "second_difference_reads_u_and_the_residual_reads_v",
+      "status": "PASS"
+    },
+    {
+      "name": "highest_order_contraction_alone_cannot_separate_the_linear_coordinate",
+      "status": "PASS"
+    },
+    {
+      "name": "decoder_consumes_only_the_serialized_readings",
+      "status": "PASS"
+    },
+    {
+      "name": "omitted_or_duplicated_probe_rows_are_rejected",
+      "status": "PASS"
+    },
+    {
+      "name": "mixed_response_is_recovered_modulo_the_blind_line",
+      "status": "PASS"
+    },
+    {
+      "name": "marked_probe_reads_the_componentwise_square_in_two_whole_vector_readings",
+      "status": "PASS"
+    },
+    {
+      "name": "square_formula_recovers_x_minus_c_including_the_vanishing_first_response",
+      "status": "PASS"
+    },
+    {
+      "name": "zero_probe_reading_is_identically_zero_and_carries_no_input",
+      "status": "PASS"
+    },
+    {
+      "name": "target_is_recoverable_exactly_when_the_blind_subspace_lies_in_its_kernel",
+      "status": "PASS"
+    },
+    {
+      "name": "minimum_extra_linear_channels_equal_the_rank_of_the_target_on_the_blind_subspace",
+      "status": "PASS"
+    },
+    {
+      "name": "a_channel_that_misses_the_blind_line_leaves_the_target_ambiguous",
+      "status": "PASS"
+    },
+    {
+      "name": "more_values_of_the_same_response_do_not_reveal_the_missing_coordinate",
+      "status": "PASS"
+    },
+    {
+      "name": "a_direction_blind_at_the_cut_can_appear_in_a_higher_unit_layer",
+      "status": "PASS"
+    },
+    {
+      "name": "deformed_square_completed_observation_has_the_closed_form_with_identity_cut",
+      "status": "PASS"
+    },
+    {
+      "name": "raw_square_cut_has_no_left_inverse_but_the_completed_cut_is_the_identity",
+      "status": "PASS"
+    },
+    {
+      "name": "completed_observer_equation_recovers_the_source_one_unit_layer_per_update",
+      "status": "PASS"
+    },
+    {
+      "name": "one_fewer_update_misses_a_unit_layer",
+      "status": "PASS"
+    },
+    {
+      "name": "supplementary_channel_repairs_the_two_input_cut_and_the_lifted_decode_recovers_both_coordinates",
+      "status": "PASS"
+    },
+    {
+      "name": "inconsistent_bank_decodes_a_candidate_that_does_not_match_its_forward_readings",
+      "status": "PASS"
+    },
+    {
+      "name": "wrong_calibration_label_shifts_the_absolute_decode",
+      "status": "PASS"
+    },
+    {
+      "name": "recovered_state_is_independent_of_the_calibration_for_a_null_blind_subspace",
+      "status": "PASS"
+    },
+    {
+      "name": "frame_transport_maps_the_blind_subspace_and_preserves_the_channel_count",
+      "status": "PASS"
+    },
+    {
+      "name": "untransported_probes_change_the_experiment",
+      "status": "PASS"
+    },
+    {
+      "name": "every_archived_observer_certificate_redecodes_from_its_saved_readings",
+      "status": "PASS"
+    }
+  ],
+  "controls": [
+    "unsymmetric_bank_is_rejected_as_a_symmetric_component",
+    "ordered_kernel_antisymmetric_part_is_invisible_to_the_symmetric_components",
+    "raw_square_fibre_is_larger_than_the_active_fibre",
+    "understated_degree_bound_misreads_the_response",
+    "highest_order_contraction_alone_cannot_separate_the_linear_coordinate",
+    "omitted_or_duplicated_probe_rows_are_rejected",
+    "zero_probe_reading_is_identically_zero_and_carries_no_input",
+    "a_channel_that_misses_the_blind_line_leaves_the_target_ambiguous",
+    "more_values_of_the_same_response_do_not_reveal_the_missing_coordinate",
+    "raw_square_cut_has_no_left_inverse_but_the_completed_cut_is_the_identity",
+    "one_fewer_update_misses_a_unit_layer",
+    "inconsistent_bank_decodes_a_candidate_that_does_not_match_its_forward_readings",
+    "wrong_calibration_label_shifts_the_absolute_decode",
+    "untransported_probes_change_the_experiment"
+  ],
+  "check_count": 36,
+  "negative_control_count": 14,
+  "inherited_source_pins_checked": 121,
+  "certificate_rule": "The recorded observer reading decoded for its stated target",
+  "construction": {
+    "carrier": "Finite counting sectors over Q and Q[Lambda]",
+    "source": "Declared symmetric joint banks and supplied calibration",
+    "zero": "Typed cut operation; additive neutrals retain their separate types",
+    "primitive_metric": false,
+    "analytic_derivative_assumed": false,
+    "unknown_polynomial_degree_inferred_from_samples": false,
+    "passive_single_reading_sufficient": false,
+    "RH_development": false,
+    "curvature_developed": false
+  },
+  "finite_ranges": {
+    "labels": 3,
+    "declared_degree": 3,
+    "probe_bank_size": 27,
+    "deformed_square_unit_depth": 4,
+    "augmented_pair_unit_depth": 3,
+    "two_input_probe_bank_size": 9,
+    "transport_matrix_size": 3
+  },
+  "details": {
+    "cubic_plus_linear_certificate": {
+      "target": "Recovery of the input modulo the translation-blind subspace from translated readings F(x+h)-F(c+h)",
+      "declared_degree": 3,
+      "calibration": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "1/3",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X"
+            ],
+            [
+              "-2",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "decoder_operation": {
+        "input_labels": [
+          0,
+          1
+        ],
+        "output_labels": [
+          0
+        ],
+        "degree": 3,
+        "constant": {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        "kernels": [
+          {
+            "arity": 1,
+            "readings": [
+              {
+                "inputs": [
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "arity": 2,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              }
+            ]
+          },
+          {
+            "arity": 3,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  0,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  1,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  1,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  0,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  1,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  1,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "readings": [
+        {
+          "h": [
+            0,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "10799/1728",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            0,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "10799/1728",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            0,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "10799/1728",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "23075/1728",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "23075/1728",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "23075/1728",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "44855/1728",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "44855/1728",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "44855/1728",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "decoded": {
+        "state": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "5/4",
+                "0"
+              ]
+            ],
+            [
+              [
+                "X"
+              ],
+              [
+                "7/3",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "blind_subspace_dimension": 0
+      }
+    },
+    "mixed_response_certificate": {
+      "target": "Recovery of the input modulo the translation-blind subspace from translated readings F(x+h)-F(c+h)",
+      "declared_degree": 3,
+      "calibration": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "1/5",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X"
+            ],
+            [
+              "3",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X",
+              "X"
+            ],
+            [
+              "-2",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "decoder_operation": {
+        "input_labels": [
+          0,
+          1,
+          2
+        ],
+        "output_labels": [
+          0,
+          1
+        ],
+        "degree": 3,
+        "constant": {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        "kernels": [
+          {
+            "arity": 1,
+            "readings": [
+              {
+                "inputs": [
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              }
+            ]
+          },
+          {
+            "arity": 2,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X"
+                      ],
+                      [
+                        "1/2",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X"
+                      ],
+                      [
+                        "1/2",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X"
+                      ],
+                      [
+                        "1/2",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X"
+                      ],
+                      [
+                        "1/2",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "arity": 3,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  0,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  0,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  1,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  1,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  1,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  2,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  2,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  2,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  0,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  0,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  1,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  1,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  1,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  2,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  2,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  2,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  0,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  0,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  1,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  1,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  1,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  2,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  2,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  2,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "readings": [
+        {
+          "h": [
+            0,
+            0,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-26891/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "127/30",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            0,
+            0,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-21551/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "7/30",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            0,
+            0,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-16211/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-113/30",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            0,
+            1,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-59291/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "36/5",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            0,
+            1,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-53951/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "16/5",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            0,
+            1,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-48611/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-4/5",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            0,
+            2,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-113291/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "61/6",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            0,
+            2,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-107951/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "37/6",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            0,
+            2,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-102611/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "13/6",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            0,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-21551/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "7/30",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            0,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-16211/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-113/30",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            0,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-10871/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-233/30",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            1,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-53951/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "16/5",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            1,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-48611/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-4/5",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            1,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-43271/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-24/5",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            2,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-107951/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "37/6",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            2,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-102611/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "13/6",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            2,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-97271/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-11/6",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            0,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-16211/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-113/30",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            0,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-10871/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-233/30",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            0,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-5531/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-353/30",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            1,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-48611/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-4/5",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            1,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-43271/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-24/5",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            1,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-37931/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-44/5",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            2,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-102611/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "13/6",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            2,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-97271/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-11/6",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            2,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-91931/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-35/6",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "decoded": {
+        "state": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "19/6",
+                "0"
+              ]
+            ],
+            [
+              [
+                "X"
+              ],
+              [
+                "-1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "X",
+                "X"
+              ],
+              [
+                "-2",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "blind_subspace_dimension": 1,
+        "banks": [
+          {
+            "order": 3,
+            "values": [
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": [
+                  [
+                    [],
+                    [
+                      "-4",
+                      "0"
+                    ]
+                  ]
+                ]
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              }
+            ]
+          },
+          {
+            "order": 2,
+            "values": [
+              {
+                "from": "*",
+                "to": "*",
+                "terms": [
+                  [
+                    [],
+                    [
+                      "89/30",
+                      "0"
+                    ]
+                  ]
+                ]
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": [
+                  [
+                    [],
+                    [
+                      "-2",
+                      "0"
+                    ]
+                  ]
+                ]
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": [
+                  [
+                    [],
+                    [
+                      "89/60",
+                      "0"
+                    ]
+                  ]
+                ]
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": [
+                  [
+                    [],
+                    [
+                      "89/30",
+                      "0"
+                    ]
+                  ]
+                ]
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": [
+                  [
+                    [],
+                    [
+                      "-2",
+                      "0"
+                    ]
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "order": 1,
+            "values": [
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              },
+              {
+                "from": "*",
+                "to": "*",
+                "terms": []
+              }
+            ]
+          }
+        ]
+      },
+      "blind_direction": [
+        "-1",
+        "0",
+        "1"
+      ]
+    },
+    "square_moving_calibration_certificate": {
+      "target": "Displacement x-c from translated square readings",
+      "calibration": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "2/5",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "probes": [
+        {
+          "h": "1",
+          "readings": {
+            "x_plus_h": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "16/9",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "x_minus_h": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "100/9",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "c_plus_h": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "49/25",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "c_minus_h": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "9/25",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "h": "3/2",
+          "readings": {
+            "x_plus_h": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "25/36",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "x_minus_h": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "529/36",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "c_plus_h": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "361/100",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "c_minus_h": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "121/100",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        }
+      ],
+      "decoded": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "-41/15",
+              "0"
+            ]
+          ]
+        ]
+      }
+    },
+    "repaired_mixed_certificate": {
+      "target": "Whole input from translated readings with the minimum supplementary linear channel",
+      "declared_degree": 3,
+      "calibration": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "1/5",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X"
+            ],
+            [
+              "3",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X",
+              "X"
+            ],
+            [
+              "-2",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "decoder_operation": {
+        "input_labels": [
+          0,
+          1,
+          2
+        ],
+        "output_labels": [
+          0,
+          1,
+          2
+        ],
+        "degree": 3,
+        "constant": {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        "kernels": [
+          {
+            "arity": 1,
+            "readings": [
+              {
+                "inputs": [
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "-1/2",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "1/2",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "arity": 2,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X"
+                      ],
+                      [
+                        "1/2",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X"
+                      ],
+                      [
+                        "1/2",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X"
+                      ],
+                      [
+                        "1/2",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X"
+                      ],
+                      [
+                        "1/2",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "arity": 3,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  0,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  0,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  1,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  1,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  1,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  2,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  2,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  2,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  0,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  0,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  1,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  1,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  1,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  2,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  2,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  2,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  0,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  0,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  1,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  1,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  1,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  2,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  2,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  2,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "readings": [
+        {
+          "h": [
+            0,
+            0,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-26891/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "127/30",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            0,
+            0,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-21551/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "7/30",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            0,
+            0,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-16211/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-113/30",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            0,
+            1,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-59291/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "36/5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            0,
+            1,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-53951/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "16/5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            0,
+            1,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-48611/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-4/5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            0,
+            2,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-113291/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "61/6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            0,
+            2,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-107951/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "37/6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            0,
+            2,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-102611/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "13/6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            0,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-21551/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "7/30",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            0,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-16211/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-113/30",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            0,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-10871/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-233/30",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            1,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-53951/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "16/5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            1,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-48611/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-4/5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            1,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-43271/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-24/5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            2,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-107951/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "37/6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            2,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-102611/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "13/6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            1,
+            2,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-97271/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-11/6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            0,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-16211/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-113/30",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            0,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-10871/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-233/30",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            0,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-5531/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-353/30",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            1,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-48611/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-4/5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            1,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-43271/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-24/5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            1,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-37931/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-44/5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            2,
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-102611/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "13/6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            2,
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-97271/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-11/6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "h": [
+            2,
+            2,
+            2
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-91931/900",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-35/6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "61/60",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "decoded": {
+        "state": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "2/3",
+                "0"
+              ]
+            ],
+            [
+              [
+                "X"
+              ],
+              [
+                "-1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "X",
+                "X"
+              ],
+              [
+                "1/2",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "blind_subspace_dimension": 0
+      }
+    },
+    "repair_channel_mixed": [
+      [
+        "-1/2",
+        "0",
+        "1/2"
+      ]
+    ],
+    "repair_channel_u_only": [
+      [
+        "0",
+        "1"
+      ]
+    ],
+    "deformed_square_certificate": {
+      "target": "Source recovered by the completed observer equation through the stated unit depth",
+      "operation": {
+        "input_labels": [
+          0
+        ],
+        "output_labels": [
+          0
+        ],
+        "degree": 3,
+        "constant": {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        "kernels": [
+          {
+            "arity": 1,
+            "readings": [
+              {
+                "inputs": [
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              }
+            ]
+          },
+          {
+            "arity": 2,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "arity": 3,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "L"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "unit_memory_through": 4,
+      "observation": {
+        "target": "Recovery of the input modulo the translation-blind subspace from translated readings F(x+h)-F(c+h)",
+        "declared_degree": 3,
+        "calibration": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "1/3",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "decoder_operation": {
+          "input_labels": [
+            0
+          ],
+          "output_labels": [
+            0
+          ],
+          "degree": 2,
+          "constant": {
+            "from": "*",
+            "to": "*",
+            "terms": []
+          },
+          "kernels": [
+            {
+              "arity": 1,
+              "readings": [
+                {
+                  "inputs": [
+                    0
+                  ],
+                  "response": {
+                    "from": "*",
+                    "to": "*",
+                    "terms": []
+                  }
+                }
+              ]
+            },
+            {
+              "arity": 2,
+              "readings": [
+                {
+                  "inputs": [
+                    0,
+                    0
+                  ],
+                  "response": {
+                    "from": "*",
+                    "to": "*",
+                    "terms": [
+                      [
+                        [],
+                        [
+                          "1",
+                          "0"
+                        ]
+                      ]
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "readings": [
+          {
+            "h": [
+              0
+            ],
+            "response": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "65/144",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "665/1728",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          },
+          {
+            "h": [
+              1
+            ],
+            "response": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "185/144",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "5165/1728",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          },
+          {
+            "h": [
+              2
+            ],
+            "response": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "305/144",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "13985/1728",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "decoded": {
+        "observed_completion": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "3/4",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L"
+              ],
+              [
+                "65/96",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "state": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "3/4",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "updates": [
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "3/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "65/96",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "3/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-195/128",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-4225/6144",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "3/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "1755/512",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "12675/8192",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "3/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-15795/2048",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "3/4",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    "augmented_pair_certificate": {
+      "target": "Source of the augmented response (u^2+Lambda u^3, v)",
+      "operation": {
+        "input_labels": [
+          0,
+          1
+        ],
+        "output_labels": [
+          0,
+          1
+        ],
+        "degree": 3,
+        "constant": {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        "kernels": [
+          {
+            "arity": 1,
+            "readings": [
+              {
+                "inputs": [
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "arity": 2,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              }
+            ]
+          },
+          {
+            "arity": 3,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "L"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  0,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  1,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  1,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  0,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  1,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  1,
+                  1,
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "unit_memory_through": 3,
+      "observation": {
+        "target": "Recovery of the input modulo the translation-blind subspace from translated readings F(x+h)-F(c+h)",
+        "declared_degree": 3,
+        "calibration": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "1/2",
+                "0"
+              ]
+            ],
+            [
+              [
+                "X"
+              ],
+              [
+                "2",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "decoder_operation": {
+          "input_labels": [
+            0,
+            1
+          ],
+          "output_labels": [
+            0,
+            1
+          ],
+          "degree": 2,
+          "constant": {
+            "from": "*",
+            "to": "*",
+            "terms": []
+          },
+          "kernels": [
+            {
+              "arity": 1,
+              "readings": [
+                {
+                  "inputs": [
+                    0
+                  ],
+                  "response": {
+                    "from": "*",
+                    "to": "*",
+                    "terms": []
+                  }
+                },
+                {
+                  "inputs": [
+                    1
+                  ],
+                  "response": {
+                    "from": "*",
+                    "to": "*",
+                    "terms": [
+                      [
+                        [
+                          "X"
+                        ],
+                        [
+                          "1",
+                          "0"
+                        ]
+                      ]
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "arity": 2,
+              "readings": [
+                {
+                  "inputs": [
+                    0,
+                    0
+                  ],
+                  "response": {
+                    "from": "*",
+                    "to": "*",
+                    "terms": [
+                      [
+                        [],
+                        [
+                          "1",
+                          "0"
+                        ]
+                      ]
+                    ]
+                  }
+                },
+                {
+                  "inputs": [
+                    0,
+                    1
+                  ],
+                  "response": {
+                    "from": "*",
+                    "to": "*",
+                    "terms": []
+                  }
+                },
+                {
+                  "inputs": [
+                    1,
+                    0
+                  ],
+                  "response": {
+                    "from": "*",
+                    "to": "*",
+                    "terms": []
+                  }
+                },
+                {
+                  "inputs": [
+                    1,
+                    1
+                  ],
+                  "response": {
+                    "from": "*",
+                    "to": "*",
+                    "terms": []
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "readings": [
+          {
+            "h": [
+              0,
+              0
+            ],
+            "response": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "7/36",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "473/1080",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "X"
+                  ],
+                  [
+                    "-3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "23/75",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "2/25",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "1/125",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          },
+          {
+            "h": [
+              0,
+              1
+            ],
+            "response": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "7/36",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "473/1080",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "X"
+                  ],
+                  [
+                    "-3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "23/75",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "2/25",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "1/125",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          },
+          {
+            "h": [
+              0,
+              2
+            ],
+            "response": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "7/36",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "473/1080",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "X"
+                  ],
+                  [
+                    "-3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "23/75",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "2/25",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "1/125",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          },
+          {
+            "h": [
+              1,
+              0
+            ],
+            "response": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "19/36",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "415/216",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "X"
+                  ],
+                  [
+                    "-3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "128/75",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "1/5",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "1/125",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          },
+          {
+            "h": [
+              1,
+              1
+            ],
+            "response": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "19/36",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "415/216",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "X"
+                  ],
+                  [
+                    "-3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "128/75",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "1/5",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "1/125",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          },
+          {
+            "h": [
+              1,
+              2
+            ],
+            "response": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "19/36",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "415/216",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "X"
+                  ],
+                  [
+                    "-3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "128/75",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "1/5",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "1/125",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          },
+          {
+            "h": [
+              2,
+              0
+            ],
+            "response": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "31/36",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "4757/1080",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "X"
+                  ],
+                  [
+                    "-3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "323/75",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "8/25",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "1/125",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          },
+          {
+            "h": [
+              2,
+              1
+            ],
+            "response": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "31/36",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "4757/1080",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "X"
+                  ],
+                  [
+                    "-3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "323/75",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "8/25",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "1/125",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          },
+          {
+            "h": [
+              2,
+              2
+            ],
+            "response": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "31/36",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "4757/1080",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "X"
+                  ],
+                  [
+                    "-3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "323/75",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "8/25",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "1/125",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "decoded": {
+        "observed_completion": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "2/3",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L"
+              ],
+              [
+                "59/120",
+                "0"
+              ]
+            ],
+            [
+              [
+                "X"
+              ],
+              [
+                "-1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L"
+              ],
+              [
+                "2/5",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "3/50",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "state": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "2/3",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L"
+              ],
+              [
+                "1/5",
+                "0"
+              ]
+            ],
+            [
+              [
+                "X"
+              ],
+              [
+                "-1",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "updates": [
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "2/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "59/120",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "2/5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "3/50",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "2/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1/5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-7/12",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-2117/1920",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "2/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1/5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "7/6",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "2/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1/5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    "transport": {
+      "U": [
+        [
+          "1",
+          "2",
+          "0"
+        ],
+        [
+          "0",
+          "1",
+          "1"
+        ],
+        [
+          "1",
+          "0",
+          "1"
+        ]
+      ],
+      "V": [
+        [
+          "1",
+          "1"
+        ],
+        [
+          "0",
+          "2"
+        ]
+      ],
+      "blind_subspace_dimension": 1
+    }
+  },
+  "evidence": {
+    "general_results": "Four written derivations and two stated transport propositions",
+    "executable": "Exact recorded-reading decoding and counterexamples using unchanged canonical engines",
+    "formal_proof_assistant": false,
+    "external_review": false,
+    "whole_engine_pass": false,
+    "SE34_certified": false
+  },
+  "not_claimed": [
+    "recovery from a passive single reading",
+    "recovery of an unknown operation or degree from finite samples",
+    "recovery of an unknown infinite counting state from one finite bank",
+    "arbitrary nonlinear invertibility",
+    "noisy-data stability",
+    "restricted-observer recovery",
+    "uniform minimality over nonlinear encodings or adaptive experiments",
+    "new RH or curvature result",
+    "novelty priority for finite differences or triangular lifting"
+  ]
+}

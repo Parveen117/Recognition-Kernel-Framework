@@ -1,10 +1,13 @@
-# SE35 development: active joint readings and singular-cut repair
+# SE35: active joint readings and singular-cut repair
 
 12 October 2026. Owner: Monty.
 
-**Development draft. Certification remains deferred.** This stage
-contains mathematical derivations and worked examples. It adds no
-certificate packet, source-pin manifest, executable replay or PASS.
+**Certified observer readings.** Four written derivations carry the
+general results. The [observer certificate](SE35_SCOPE.md) records the
+translated readings an observer acquires, decodes each detached saved
+bank for its stated target and passes 36 exact checks, including 14
+negative controls, against 130 source pins. SE34 remains a written
+derivation; its own certification is not issued here.
 
 [SE34](SE34_DEPENDENCY_FEEDBACK_AND_UNIT_MEMORY.md) lifted an available
 cut inverse through unit memory. Here the raw cut response may have
@@ -591,8 +594,12 @@ supplied family of allowed probes and target-compatible decoders.
 There is no claim that one finite bank recovers an unknown
 infinite counting state.
 
-Certification, executable implementation, replay, new pins and
-verification runs are deferred. Earlier certificates and their
+The observer certificate is
+[proof_lab/lambda_active_readings.cjs](../../proof_lab/lambda_active_readings.cjs)
+with its read-only archive
+[LAMBDA_ACTIVE_READINGS_RESULT.json](../../proof_lab/LAMBDA_ACTIVE_READINGS_RESULT.json),
+[scope](SE35_SCOPE.md), [source record](SE35_SOURCE_RECORD.md) and
+[pins](SE35_SOURCE_PINS.json). Earlier certificates and their
 table remain unchanged. RH, Yang--Mills and curvature remain
 outside this development.
 
