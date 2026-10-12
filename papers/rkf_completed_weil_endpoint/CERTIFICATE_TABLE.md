@@ -104,6 +104,23 @@ The [proof](development/SE6_PAIRED_APERTURE_AND_MOMENT_SCHUR.md),
 [audit](development/SE6_SCOPE.md) keep the two proved restrictions separate
 from the open full-aperture and unbounded-aperture signs.
 
+## SE7 full-aperture certificate and native consequences
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Exact frequency minorant | SE7.2--SE7.3; SE6 Gamma envelope | Full prime-active odd source dominates the bounded comparison |
+| Forty-mode leading matrix | SE7.10--SE7.13; enclosed point evaluation, analytic quadrature bound, forty interval LDL pivots | Exact leading block >= I/20000 |
+| Infinite complement and coupling | SE7.6--SE7.9; complete rational Bessel tails | Whole radius-1/2 source >= ||Rf||^2/25000 |
+| Native source and observer | SE7.16--SE7.17 | Native floor 2/903127; squared joint reserve 4/9934397 |
+| SE6 F_15 | SE7.14--SE7.15; exact native minimizing identity | Strictly positive by domination; entries not evaluated |
+
+See the [proof](development/SE7_FULL_PRIME_ACTIVE_APERTURE.md),
+[matrix](../../proof_lab/ENDPOINT_FULL_APERTURE_MATRIX.json),
+[result](../../proof_lab/ENDPOINT_FULL_APERTURE_RESULT.json),
+[source record](development/SE7_SOURCE_RECORD.md) and
+[audit](development/SE7_SCOPE.md). This supersedes the open radius-1/2
+sign in SE6, not the global endpoint boundary.
+
 ## Permanent records
 
 ```text

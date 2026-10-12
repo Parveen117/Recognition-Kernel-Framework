@@ -8,7 +8,27 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE6, 11 October 2026
+## Current endpoint development: SE7, 12 October 2026
+
+[Full prime-active aperture and the fifteen-moment Schur sign](development/SE7_FULL_PRIME_ACTIVE_APERTURE.md)
+certifies the corrected source on every complex odd state of radius 1/2,
+with physical floor 1/25000, native floor 2/903127 and squared joint
+observer reserve 4/9934397. No extra moment restriction remains there.
+
+A forty-mode comparison matrix, enclosed quadrature, interval LDL and
+complete infinite-tail bounds establish this result. It also proves
+the positive sign of SE6's F_15 by domination, without computing its
+entries. The global eta=0 sign and historical five-label endpoint remain
+open. The frequency-split method has cited prior art.
+
+See the [replay result](../../proof_lab/ENDPOINT_FULL_APERTURE_RESULT.json),
+[source record](development/SE7_SOURCE_RECORD.md),
+[audit](development/SE7_SCOPE.md) and [claim boundary](CLAIM_BOUNDARY.md).
+
+## Preceding endpoint development: SE6, 11 October 2026
+
+The full radius-1/2 sign left open in the historical SE6 record below
+is now settled by SE7; its other scope restrictions remain in force.
 
 [Paired prime-boundary apertures and a certified moment complement](development/SE6_PAIRED_APERTURE_AND_MOMENT_SCHUR.md)
 proves the corrected joint observer is a strict contraction on the whole

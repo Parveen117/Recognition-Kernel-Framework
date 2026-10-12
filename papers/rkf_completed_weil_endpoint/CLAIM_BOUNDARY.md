@@ -1,5 +1,25 @@
 # Claim Boundary for the Current Paper
 
+## SE7 full prime-active aperture boundary, 12 October 2026
+
+[SE7](development/SE7_FULL_PRIME_ACTIVE_APERTURE.md) proves the source
+floor s[f]>=||Rf||^2/25000 and native floor 2/903127 on all of X_(1/2).
+Prime 2 and the full negative odd pole are retained. The exact local
+joint observer has squared reserve 4/9934397 on this whole aperture.
+
+The forty-mode comparison includes analytic quadrature error, outward
+point evaluation and the complete infinite complement and coupling.
+It implies F_15>=2I/903127 for SE6's native moment Schur form. F_15's
+entries are not computed, and neither matrix is identified with the
+historical five-label Feshbach matrix.
+
+The all-aperture limit, global eta=0 sign, global norm-one observer,
+K0 and RH remain open. The method has established frequency-split prior
+art; the local constants and native transport are replayed here. No
+formal proof-assistant result, external review or remote CI is claimed.
+See the [audit](development/SE7_SCOPE.md). Earlier development sections
+are chronological records; SE7 supersedes their open radius-1/2 sign only.
+
 ## SE6 aperture-contraction boundary, 11 October 2026
 
 [SE6](development/SE6_PAIRED_APERTURE_AND_MOMENT_SCHUR.md) proves strict

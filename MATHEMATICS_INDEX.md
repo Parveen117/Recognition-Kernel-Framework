@@ -152,6 +152,26 @@ and [audit](papers/rkf_completed_weil_endpoint/development/SE6_SCOPE.md).
 The small-support and finite-codimension principles have existing
 Yoshida--Suzuki lineage; SE6 supplies explicit native constants and attachment.
 
+## Endpoint development SE7: full prime-active aperture certified
+
+[SE7](papers/rkf_completed_weil_endpoint/development/SE7_FULL_PRIME_ACTIVE_APERTURE.md)
+proves positivity on the entire complex odd aperture of radius 1/2,
+including the fifteen directions left unresolved by SE6. The physical
+floor is 1/25000, the native source floor is 2/903127 and the squared
+joint observer reserve is 4/9934397. The exact native F_15 is strictly
+positive by its minimizing identity; its entries are not calculated.
+
+The [standard-library replay](proof_lab/endpoint_full_aperture_certificate.py)
+encloses a forty-mode frequency comparison, all quadrature error and
+forty LDL pivots. Explicit bounds retain the complete infinite tail
+and coupling. See the [matrix](proof_lab/ENDPOINT_FULL_APERTURE_MATRIX.json),
+[result](proof_lab/ENDPOINT_FULL_APERTURE_RESULT.json),
+[source record](papers/rkf_completed_weil_endpoint/development/SE7_SOURCE_RECORD.md),
+[pins](papers/rkf_completed_weil_endpoint/development/SE7_SOURCE_PINS.json)
+and [audit](papers/rkf_completed_weil_endpoint/development/SE7_SCOPE.md).
+The method has prior art. The larger-aperture exhaustion, global norm-one
+observer, historical five-label endpoint and RH sign remain open.
+
 ## Full framework register, preserved
 
 The complete original subject map, every T01-T77 entry, parallel theorem registers, foundation index, open gates and AI reading protocol remain in [MATHEMATICS_INDEX_2026_09_16.md](MATHEMATICS_INDEX_2026_09_16.md). This file is a byte-preserved part of the canonical navigation surface, not a replacement external repository. Its relative source links still resolve from this same root.
