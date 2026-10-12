@@ -1,5 +1,28 @@
 # Claim Boundary for the Current Paper
 
+## SE43 counting/EMK movement bridge, 13 October 2026
+
+[SE43](../../research/lambda_counting/SE43_COUNTING_TO_EMK_SEAM_TRANSPORT.md)
+reuses SE42/EMK connection curvature and MR-03 memory extensions. The
+new adapter specifies count translations, matrix seam lifts, their
+connection compatibility and the exact relation for two commuting
+periods. Local flatness alone does not certify that relation. Complete
+ordered readings retain its matrix and integer memory; finite unit depth
+has an explicit sharp bound under the stated degree assumptions.
+
+The source-sign audit corrects only EMK-G3 T2's deck-compensator claim.
+Earlier sources and pins remain unchanged. Product circle fibres yield
+the stated point/circle, line/cylinder and circle/torus dictionary;
+unspecified TVSP or double-helical movement rules are not thereby proved.
+A noncommuting memory extension is not silently a flat torus bundle.
+
+Five written theorem groups and 32 exact controls, including 12 negative
+controls, have the scopes recorded in
+[SE43 scope](../../research/lambda_counting/SE43_SCOPE.md).
+The inherited whole-engine pin failure remains reported separately.
+The RH source, global eta 1079/2000 with floor 1/492000, V_16 eta-zero
+certificate and unproved universal source sign are unchanged.
+
 ## SE42 counting curvature, 13 October 2026
 
 [SE42](../../research/lambda_counting/SE42_COUNTING_CURVATURE_AND_OBSERVER_MEMORY.md)

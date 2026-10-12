@@ -8,7 +8,25 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current counting development: SE42, 13 October 2026
+## Current counting development: SE43, 13 October 2026
+
+[Counting-to-EMK seam transport](../../research/lambda_counting/SE43_COUNTING_TO_EMK_SEAM_TRANSPORT.md)
+reuses the existing curvature results and develops their movement
+interface. It distinguishes native and raw translations, derives the
+matrix seam compatibility and two-period descent conditions, and retains
+ordered integer memory beyond local flatness. Complete observer readings
+decode the seam defect with a sharp unit-depth bound. The EMK-G3
+deck/forward-lift sign distinction has an exact scoped correction.
+
+Five theorem groups and 32 exact controls, including 12 negative controls,
+have separate written and execution scopes. The circle/cylinder/torus
+correspondence requires its declared fibre and gluing; a universal TVSP
+double-helical identification is not established. The actual RH source
+and eta are unchanged. See [scope](../../research/lambda_counting/SE43_SCOPE.md),
+[comparison](../../research/lambda_counting/SE43_SOURCE_RECORD.md) and
+[readings](../../proof_lab/COUNTING_EMK_SEAM_RESULT.json).
+
+## Counting curvature: SE42, 13 October 2026
 
 [Counting curvature and observer memory](../../research/lambda_counting/SE42_COUNTING_CURVATURE_AND_OBSERVER_MEMORY.md)
 completes the curvature construction deferred by the counting chapter.

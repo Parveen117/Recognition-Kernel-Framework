@@ -8,8 +8,23 @@ The shared operator engine stays in
 [operator_foundation](../../operator_foundation/README.md).
 
 The current development is
-**[SE42: counting curvature](SE42_COUNTING_CURVATURE_AND_OBSERVER_MEMORY.md)**.
-It completes the earlier deferred step directly on the counting formula
+**[SE43: counting-to-EMK seam transport](SE43_COUNTING_TO_EMK_SEAM_TRANSPORT.md)**.
+It compares the existing geometries and reuses their curvature mechanisms.
+The explicit new interface distinguishes native count translation from
+raw x-translation, derives connection-compatible matrix seams and the
+frame-independent two-period descent condition, and retains ordered
+integer memory even with flat local lifts. Complete observer readings
+decode the seam defect at its proved unit depth. Five theorem groups and
+32 exact controls, including 12 negative controls, are recorded in
+[scope](SE43_SCOPE.md), [source comparison](SE43_SOURCE_RECORD.md),
+[pins](SE43_SOURCE_PINS.json) and
+[readings](../../proof_lab/COUNTING_EMK_SEAM_RESULT.json).
+The EMK-G3 deck-sign correction is scoped to its compensator claim;
+no universal TVSP/double-helical equivalence or new RH bound is asserted.
+
+The preceding
+**[SE42: counting curvature](SE42_COUNTING_CURVATURE_AND_OBSERVER_MEMORY.md)**
+completes the earlier deferred step directly on the counting formula
 algebra. Lawful response lifts D_i+A_i give the ordered-path curvature
 F_ij=D_i A_j-D_j A_i+[A_i,A_j]_bullet. Its formal loop, moving frames,
 direction-bracket correction, Bianchi identity and moving observation
@@ -66,6 +81,7 @@ This changes calibration, not physical curvature or the RH source sign.
 | [SE38](SE38_UNIT_WEIGHTED_CALIBRATION_AND_CUT_DEPTH.md) | Finite calibration banks for polynomial affine-cut catalogues, exact induced cuts and a sharp relative calibration-depth law; observer-certified |
 | [SE41](SE41_ORDERED_RETURN_AND_MOVING_CUT_FEEDBACK.md) | Ordered-return calibration, complementary branch readings, moving cuts, noise bounds and triple unit-depth correction; scoped observer readings |
 | [SE42](SE42_COUNTING_CURVATURE_AND_OBSERVER_MEMORY.md) | Curvature from counting paths, frame/direction covariance, Bianchi identity, moving-cut complement returns and sharp unit-memory depth; scoped observer readings |
+| [SE43](SE43_COUNTING_TO_EMK_SEAM_TRANSPORT.md) | Counting/EMK movement adapter, compatible matrix seams, frame-independent descent, retained integer order memory and observer depth; scoped observer readings |
 
 The polynomial calibration stage is **SE38**. The degree
 of each nonlinear action term relative to its unit order determines

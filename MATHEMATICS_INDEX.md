@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 13 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE42 (SE34--SE38 and SE41--SE42 carry scoped observer readings; SE42 completes the counting-curvature construction; the universal RH source sign remains open).
+Index update: 13 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE43 (SE34--SE38 and SE41--SE43 carry scoped observer readings; SE43 connects counting movement to retained EMK seam memory; the universal RH source sign remains open).
 
 ## Active operator-engine route
 
@@ -10,6 +10,32 @@ Index update: 13 October 2026, operator mathematics version 0.5 with additive re
 Read the [native primitive order](operator_foundation/theory/NATIVE_PRIMITIVE_ORDER.md), [algebra and observer contracts](operator_foundation/theory/01_NATIVE_ALGEBRA.md), [completion and memory](operator_foundation/theory/02_COMPLETION_AND_MEMORY.md), [Laurent/jet repair](operator_foundation/theory/NATIVE_LAURENT_JET_REPAIR.md), [Pāṇinian symbolic compiler](operator_foundation/theory/PANINIAN_OPERATOR_COMPILER.md), [automatic normal basis and regular action](operator_foundation/theory/AUTOMATIC_REGULAR_MODEL.md), then [weighted operator completion and certified response](operator_foundation/theory/WEIGHTED_OPERATOR_COMPLETION.md).
 
 The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [source index](operator_foundation/SOURCE_INDEX.md), and [master certificate](operator_foundation/audit/MASTER_CERTIFICATE.json) bind this route. The public source archive at `operator_foundation/sources/rkf_reference` includes the corrected T50/T54 edition and full Morphic/Pāṇinian source directories. Use that corrected source where the older root version differs. This does not silently overwrite old source-pinned files.
+
+## Counting/EMK bridge SE43: movement rules and ordered seam memory
+
+[SE43](research/lambda_counting/SE43_COUNTING_TO_EMK_SEAM_TRANSPORT.md)
+compares SE42 with existing EMK curvature and helical geometry, then
+develops the missing movement adapter. Native count translation preserves
+the formula product; raw x-translation generally does not. Matrix-valued
+seam lifts respect a connection exactly under an explicit intertwining
+identity. Their two-period descent is decided by the full ordered seam
+defect, whose vanishing is frame-independent.
+
+Flat local counting lifts can retain a nonidentity seam and integer path
+memory. The existing MR-03 cocycle mechanism is reused, not reintroduced
+as new. Complete ordered observer readings recover the defect, with a
+sharp twice-coefficient-degree unit-depth bound. A scoped audit separates
+EMK-G3's deck action from its differently oriented forward-lift test.
+
+Five theorem groups and 32 exact controls, including 12 negative controls,
+are recorded in [scope](research/lambda_counting/SE43_SCOPE.md),
+[comparison and sources](research/lambda_counting/SE43_SOURCE_RECORD.md),
+[pins](research/lambda_counting/SE43_SOURCE_PINS.json),
+[replay](proof_lab/counting_emk_seam.py) and
+[readings](proof_lab/COUNTING_EMK_SEAM_RESULT.json).
+The point/circle, line/cylinder and circle/torus table is conditional on
+its stated fibre and gluing. A universal TVSP/double-helical equivalence,
+physical geometry or improved RH eta is not claimed.
 
 ## Counting curvature SE42: ordered paths, moving observers and retained depth
 

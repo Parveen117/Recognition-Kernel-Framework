@@ -1,0 +1,120 @@
+{
+  "schema": "rkf.se43.source-pins.v1",
+  "author": "Monty",
+  "parent_commit": "56c6a6c05a6643c1ff685cb1ad135119fb70ac3d",
+  "local_files": [
+    {
+      "path": "operator_foundation/theory/NATIVE_PRIMITIVE_ORDER.md",
+      "sha256": "f1f2fa357d41745445bcaf403784edbec6a17cbd78bc400cbd1229aa682c0fd9",
+      "git_blob": "1ac91cb1e7b0081de4d6c1eec0d7dd6891ccbad6"
+    },
+    {
+      "path": "operator_foundation/theory/01_NATIVE_ALGEBRA.md",
+      "sha256": "ea07ab9f0f8a47e63f8ee973638669f596308cec4ed234ced7497a5f7539ecf5",
+      "git_blob": "86366ede2f152f19cbdf0d1dbf06b2e4c0971dad"
+    },
+    {
+      "path": "papers/rkf_completed_weil_endpoint/development/SE30_CONSTANT_LAMBDA_COUNTING_AND_CUT.md",
+      "sha256": "71c3069294907ce10ecdec91df9565b435cc5411e7f598df1b1f165e41e9e2e2",
+      "git_blob": "9cd19380be336f8bc5de392a5a6bd8858b704b99"
+    },
+    {
+      "path": "papers/rkf_completed_weil_endpoint/development/SE31_COUNTING_OPERATOR_RECOVERY_AND_ORDERED_FLOW.md",
+      "sha256": "3d7e17480f847a6ec7125c69c3f304d7c7ebc3c4bfc0ae68f3077a6987c94147",
+      "git_blob": "fab59cbbd4c548b54663c927824537d2968c7489"
+    },
+    {
+      "path": "research/lambda_counting/SE34_DEPENDENCY_FEEDBACK_AND_UNIT_MEMORY.md",
+      "sha256": "2ab21e8f015e0c28d4f32459961df6173c25c316ee3ee2f324fdcda4ef079af8",
+      "git_blob": "4fe196f992d788354b7c70a6b8a6a528661e0d70"
+    },
+    {
+      "path": "research/lambda_counting/SE42_COUNTING_CURVATURE_AND_OBSERVER_MEMORY.md",
+      "sha256": "d8d11971ba695e13541febff89f677475052340a70592fb870c9f6943244bfc9",
+      "git_blob": "c86d52a53f75001b607659c51b85aa0fce1de97d"
+    },
+    {
+      "path": "research/lambda_counting/SE42_SCOPE.md",
+      "sha256": "df3e09c424e3682f97bc732484f9c100a186ef37502c107123f257fed6e69baa",
+      "git_blob": "56b38ed3e693088082b2456dbf72ba801ad6c111"
+    },
+    {
+      "path": "research/lambda_counting/SE42_SOURCE_RECORD.md",
+      "sha256": "17b0cdfd2e7e398a4beef20c56f02d827422eb0e1f3a2ac0d756a104c8c0dc38",
+      "git_blob": "c117bbb457b01f5dfccdb8ab520764f2cdb03d13"
+    },
+    {
+      "path": "proof_lab/counting_curvature.py",
+      "sha256": "49d00e234eef6ef23ac1ee4b4be422dc80444a8400c4f6157117e61738d0c3c4",
+      "git_blob": "ccbb635d49ed1ea8fb4083e299ac227382971f59"
+    },
+    {
+      "path": "theorum/morphic_recognition/03_cocycle_lifted_path_recognition.md",
+      "sha256": "49f3d6d7984a22b9eb13972b66245610387cb728ff280653bc8239e610a49a6c",
+      "git_blob": "6e181210471e31f605201f00c5f5e0aff3af84e9"
+    },
+    {
+      "path": "theorum/thermodynamics/lambda_geometry/11_noncommutative_holonomy_and_irreducibility.md",
+      "sha256": "5ad8f503bee6f46b5f8c437f728c6c2f5a704a6dad7aa23d35a64f1afcaa3ac7",
+      "git_blob": "aad1a3645f83d675ed5f3a2254dfd8dfe722b5e1"
+    },
+    {
+      "path": "research/lambda_counting/SE43_COUNTING_TO_EMK_SEAM_TRANSPORT.md",
+      "sha256": "4e846152b32fe03514aa960e6aaaad7d2fd46cc08ba5bce7d33ce4fc9f5c8161",
+      "git_blob": "53e427c0dedcea4521c73a10ed34bf9b21de41fd"
+    },
+    {
+      "path": "research/lambda_counting/SE43_SOURCE_RECORD.md",
+      "sha256": "5c4ac2231dc88ef2765afeaa7ae75435a11e9627413c458a55a47cae37d50827",
+      "git_blob": "2ad3f8399a5c6652f80c468ed67e0279ee824e76"
+    },
+    {
+      "path": "research/lambda_counting/SE43_SCOPE.md",
+      "sha256": "8ac398edef27143f191cd7a833c62df0106091e9548f8ddd68c67db5ec4560a4",
+      "git_blob": "f57b6f721a3fe52da3e389781bc76832961d39a9"
+    },
+    {
+      "path": "proof_lab/counting_emk_seam.py",
+      "sha256": "302b3bc329fc11bd5cbc12ea43677bfd79dd0c54ccceb6462e41b8147cef1154",
+      "git_blob": "1d6aefa25082dd81e60cd5d624c56e77d215859f"
+    },
+    {
+      "path": "proof_lab/COUNTING_EMK_SEAM_RESULT.json",
+      "sha256": "14ddec4e0d67106a3cd271bec1137cd64ce8aac8d1a4a4a9bda80673dccb2d9d",
+      "git_blob": "0b96c0748700d841f8dcdb829c35a9bcfc29b203"
+    }
+  ],
+  "external_files": [
+    {
+      "repository": "Parveen117/Publications",
+      "commit": "7ad1f7b6013da4f1d62d642f779f27bae41c9bcf",
+      "path": "papers/emk-ugd-algebra/CONNECTION_CALCULUS.md",
+      "git_blob": "d07f13191ce6443ca54966b0e751a585108254d2"
+    },
+    {
+      "repository": "Parveen117/Publications",
+      "commit": "7ad1f7b6013da4f1d62d642f779f27bae41c9bcf",
+      "path": "papers/emk-recognition-geometry/README.md",
+      "git_blob": "5aa32e20b1b8c74cccff7aab2b07cb682b7eb8fd"
+    },
+    {
+      "repository": "Parveen117/Publications",
+      "commit": "7ad1f7b6013da4f1d62d642f779f27bae41c9bcf",
+      "path": "papers/emk-recognition-geometry/certificates/emkg3_helical_sheet_memory.py",
+      "git_blob": "a840a6827aa5853bbd8d3544ac44ac65c9ac42e5"
+    },
+    {
+      "repository": "Parveen117/Publications",
+      "commit": "7ad1f7b6013da4f1d62d642f779f27bae41c9bcf",
+      "path": "papers/emk-recognition-geometry/certificates/emkg2_global_quotient_holonomy.py",
+      "git_blob": "2c9f48768c9bb38d9474d80ce88b72996147fbc9"
+    },
+    {
+      "repository": "Parveen117/Publications",
+      "commit": "7ad1f7b6013da4f1d62d642f779f27bae41c9bcf",
+      "path": "papers/recognition-seam-topology/README.md",
+      "git_blob": "459da46561bbc123eb85fd6706a900cd6e294091"
+    }
+  ],
+  "scope": "Local byte identity and supplied finite seam observer readings. External immutable public blobs record comparison provenance, not an offline re-execution of those capsules. Live navigation is unpinned. No physical, RH, formal or external-review certificate."
+}
