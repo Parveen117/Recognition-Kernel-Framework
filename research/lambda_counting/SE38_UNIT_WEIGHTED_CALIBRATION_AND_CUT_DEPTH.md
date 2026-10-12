@@ -1,10 +1,12 @@
-# SE38 development: unit-weighted calibration and the exact memory depth
+# SE38: unit-weighted calibration and the exact memory depth
 
 12 October 2026. Owner: Monty.
 
-**Development draft; certification remains deferred.** Five theorem
-groups below have written derivations and worked examples. No executable
-certificate, replay archive, new pin manifest or verification PASS is added.
+**Certified observer readings.** Five theorem groups below have written
+derivations and worked examples. The [observer certificate](SE38_SCOPE.md)
+decodes recorded relative and calibration readings for their stated
+targets and passes 25 exact checks, including 8 negative controls,
+against 156 source pins.
 
 [SE37](SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md) closed the relative
 observer for a particular matching of unit order and source degree. Its
@@ -614,10 +616,14 @@ priority is claimed for those algebraic mechanisms.
 
 This is an additive research derivation in the counting chapter. The
 single shared operator engine remains in operator_foundation/. The
-published SE34--SE37 observer certificates are preserved, and this
-stage adds no certificate or executable verification. Certification,
-replay, new pins and verification runs remain deferred. No application
-bound, RH eta, Yang--Mills gap or curvature claim is changed.
+published SE34--SE37 observer certificates are preserved. The SE38
+observer certificate is
+[proof_lab/lambda_calibration_depth.cjs](../../proof_lab/lambda_calibration_depth.cjs)
+with its read-only archive
+[LAMBDA_CALIBRATION_DEPTH_RESULT.json](../../proof_lab/LAMBDA_CALIBRATION_DEPTH_RESULT.json),
+[scope](SE38_SCOPE.md), [source record](SE38_SOURCE_RECORD.md) and
+[pins](SE38_SOURCE_PINS.json). No application bound, RH eta, Yang--Mills
+gap or curvature claim is changed.
 
 A next development can apply the depth rule to a specified nonlinear
 target rather than the entire relative coordinate, and derive when

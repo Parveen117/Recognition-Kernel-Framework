@@ -22,9 +22,9 @@ objects with separate types. RH and curvature development are deferred.
 | [SE35](SE35_ACTIVE_READINGS_AND_SINGULAR_CUT_REPAIR.md) | Active probe readings, exact nonlinear blind fibres, descending response decoding and repair before unit lifting; observer-certified |
 | [SE36](SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md) | Restricted probes, available action-word closure, synthesized probe directions and finite nonlinear observation at retained unit depth; observer-certified |
 | [SE37](SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md) | Least future-target algebra, exact nonlinear bank reduction and closed calibration memory for unit-scaled action families; observer-certified |
-| [SE38 development](SE38_UNIT_WEIGHTED_CALIBRATION_AND_CUT_DEPTH.md) | Finite calibration banks for polynomial affine-cut catalogues, exact induced cuts and a sharp relative calibration-depth law; certification deferred |
+| [SE38](SE38_UNIT_WEIGHTED_CALIBRATION_AND_CUT_DEPTH.md) | Finite calibration banks for polynomial affine-cut catalogues, exact induced cuts and a sharp relative calibration-depth law; observer-certified |
 
-The current development is **SE38, a derivation draft**. The degree
+The current stage is **SE38**. The degree
 of each nonlinear action term relative to its unit order determines
 a finite calibration bank with polynomial updates at every retained
 depth. This repairs SE37's cubic example and retains the order of mixed
@@ -32,7 +32,20 @@ actions. The actual cut on the memory algebra is derived from its
 readings. With labelled coefficient readings, a relative unit order s
 and nonlinear action order w require calibration only through degree
 q-w-s for output depth q; the bound is attained in a scalar example.
-Read the [derivations and examples](SE38_UNIT_WEIGHTED_CALIBRATION_AND_CUT_DEPTH.md).
+
+**SE38 certification is the observer reading decoded for its stated target.**
+The [saved readings](../../proof_lab/LAMBDA_CALIBRATION_DEPTH_RESULT.json)
+hold a two-coordinate, three-action catalogue whose five calibration
+readings and relative reading predict every later reading and the whole
+calibration bank; the ordered quadratic and cubic words, whose difference
+appears at Lambda^2; and a depth-five scalar catalogue decoded from the
+shorter labelled record Lambda^2 c. Five written derivation groups and 25
+exact checks, including 8 negative controls, record the proof and
+computational scopes separately. Read the
+[derivations](SE38_UNIT_WEIGHTED_CALIBRATION_AND_CUT_DEPTH.md),
+[scope](SE38_SCOPE.md), [source record](SE38_SOURCE_RECORD.md),
+[application](../../proof_lab/lambda_calibration_depth.cjs) and
+[pins](SE38_SOURCE_PINS.json).
 
 The preceding **SE37** stage shows that a polynomial
 target already decoded from the available bank has a finitely generated
@@ -132,8 +145,6 @@ line predates this certificate. Read the
 [application](../../proof_lab/lambda_unit_memory_lifting.cjs) and
 [pins](SE34_SOURCE_PINS.json).
 
-No SE38 certificate, replay archive, pin manifest or verification
-PASS has been issued; its certification is deferred.
 The following SE33 record remains the preceding certified-reading stage.
 
 SE33 makes multiple input slots explicit. Diagonal readings recover

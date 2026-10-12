@@ -1,6 +1,6 @@
 # Claim Boundary for the Current Paper
 
-## SE38 development draft, 12 October 2026
+## SE38 unit-weighted calibration and cut depth, 12 October 2026
 
 [SE38](../../research/lambda_counting/SE38_UNIT_WEIGHTED_CALIBRATION_AND_CUT_DEPTH.md)
 assumes an acquired or decoded relative coordinate and a finite supplied
@@ -25,8 +25,9 @@ no calibration is needed for that relative update. A quadratic example
 shows sharpness of this uniform guarantee. Individual targets can need
 less, and absolute source targets can need more. No noisy-data, numerical
 convergence, unknown-input acquisition or arbitrary nonlinear-cut result
-is inferred. Certification, replay, new pins and verification runs remain
-deferred; existing certificates and application bounds are preserved.
+is inferred. The observer certificate decodes recorded readings for their
+stated targets; its finite checks do not stand in for the written
+derivations. Existing certificates and application bounds are preserved.
 
 ## SE37 target algebra and calibration memory, 12 October 2026
 
