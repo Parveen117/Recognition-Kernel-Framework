@@ -1,5 +1,29 @@
 # Claim Boundary for the Current Paper
 
+## SE47 actual-source five-operator repair, 13 October 2026
+
+[SE47](development/SE47_FIVE_SOURCE_OPERATOR_REPAIR.md) proves the
+source-attached 1+4 reduction under its positive-reference hypothesis,
+acquired-metric covariance and comparison seam, an augmented-source
+correlation identity and an exact next-observation update. All columns
+and off-diagonal products use the same corrected source. The formal
+Lambda frame does not force the gap to vanish at its degree-zero Cut.
+
+The actual finite realization uses E=span(f_2,f_3,f_4,f_5) and a fixed
+bounded moment complement. It does not assert identity with the old
+raw E_3 numerical packet. At V_16, direct independently boxed subtraction
+is inconclusive; the exact augmented congruence transfers the unchanged
+SE21 source positivity to the five-gap. This is no extension beyond
+the already certified V_16 source space. Pivots are not spectral gaps,
+and five positive diagonal entries alone do not decide the operator sign.
+
+Four theorem groups and 29 controls, including 9 negative controls, have
+the separate scopes in [SE47 scope](development/SE47_SCOPE.md). Global
+reference positivity, endpoint energy domains and the infinite complement
+remain open. No prime/zero spectrum or Hilbert-Polya realization is claimed.
+The inherited full-engine mismatch remains reported. Global eta stays
+1079/2000 with floor 1/492000; universal source positivity and RH are unproved.
+
 ## SE46 ordered cell reconstruction, 13 October 2026
 
 [SE46](../../research/lambda_counting/SE46_ORDERED_CELL_RECONSTRUCTION.md)

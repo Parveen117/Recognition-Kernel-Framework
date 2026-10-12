@@ -7,7 +7,22 @@ This is the live route for the counting/cut construction. The
 The shared operator engine stays in
 [operator_foundation](../../operator_foundation/README.md).
 
-The current development is
+The current application is
+**[SE47: repair of the existing five-source operator](../../papers/rkf_completed_weil_endpoint/development/SE47_FIVE_SOURCE_OPERATOR_REPAIR.md)**.
+The one-boundary plus four-coupling architecture now has an explicit
+current-source realization, fixed complement, acquired label metric and
+invariant comparison seam. Exact correlation and update identities retain
+mixed readings. Four theorem groups and 29 controls, including 9 negative
+controls, are recorded in
+[scope](../../papers/rkf_completed_weil_endpoint/development/SE47_SCOPE.md),
+[sources](../../papers/rkf_completed_weil_endpoint/development/SE47_SOURCE_RECORD.md),
+[pins](../../papers/rkf_completed_weil_endpoint/development/SE47_SOURCE_PINS.json) and
+[readings](../../proof_lab/FIVE_SOURCE_OPERATOR_REPAIR_RESULT.json).
+This is a finite actual-source realization on V_5,V_8,V_12,V_16, with
+an explicit accepted-space choice. The global reference and endpoint
+remain unproved; the formal Lambda Cut is not the RH shift eta.
+
+The preceding counting development is
 **[SE46: ordered cell reconstruction](SE46_ORDERED_CELL_RECONSTRUCTION.md)**.
 Complete noncommuting cell returns are aligned by retained tree paths
 and composed in an exact boundary order. The comparison point is
@@ -131,6 +146,7 @@ This changes calibration, not physical curvature or the RH source sign.
 | [SE42](SE42_COUNTING_CURVATURE_AND_OBSERVER_MEMORY.md) | Curvature from counting paths, frame/direction covariance, Bianchi identity, moving-cut complement returns and sharp unit-memory depth; scoped observer readings |
 | [SE43](SE43_COUNTING_TO_EMK_SEAM_TRANSPORT.md) | Counting/EMK movement adapter, compatible matrix seams, frame-independent descent, retained integer order memory and observer depth; scoped observer readings |
 | [SE44](SE44_TVSP_LINES_ANGLE_AND_NATIVE_JYA.md) | Counting lines and response lifts, native angle/period, exact jya and moving-observer operator recurrence, actual curvature attachment and source-preserving sine correction; scoped observer readings |
+| [SE47](../../papers/rkf_completed_weil_endpoint/development/SE47_FIVE_SOURCE_OPERATOR_REPAIR.md) | Actual-source 1+4 operator, retained metric, comparison seam, correlated inverse and exact next-observation update; finite arithmetic source readings |
 | [SE46](SE46_ORDERED_CELL_RECONSTRUCTION.md) | Tree-aligned noncommuting cell reconstruction, relative spectral blindness, actual count connection and subdivision, formal order layers, retained memory and observation-error bounds; scoped observer readings |
 | [SE45](SE45_VARIABLE_JYA_CURVATURE_AND_TRACKING.md) | Variable-turn jya and its blind cases, paired-path invariant, inhomogeneous count flux, bounded refinement recovery and source-preserving tracking with drift; scoped observer readings |
 

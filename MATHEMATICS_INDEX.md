@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 13 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE46 (SE34--SE38 and SE41--SE46 carry scoped observer readings; SE46 reconstructs noncommuting boundary returns from ordered transported cells and retained memory; the universal RH source sign remains open).
+Index update: 13 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE47 (SE34--SE38 and SE41--SE47 carry scoped observer readings; SE47 attaches the existing 1+4 operator to the actual finite source with its metric and correlations retained; the universal RH source sign remains open).
 
 ## Active operator-engine route
 
@@ -10,6 +10,28 @@ Index update: 13 October 2026, operator mathematics version 0.5 with additive re
 Read the [native primitive order](operator_foundation/theory/NATIVE_PRIMITIVE_ORDER.md), [algebra and observer contracts](operator_foundation/theory/01_NATIVE_ALGEBRA.md), [completion and memory](operator_foundation/theory/02_COMPLETION_AND_MEMORY.md), [Laurent/jet repair](operator_foundation/theory/NATIVE_LAURENT_JET_REPAIR.md), [Pāṇinian symbolic compiler](operator_foundation/theory/PANINIAN_OPERATOR_COMPILER.md), [automatic normal basis and regular action](operator_foundation/theory/AUTOMATIC_REGULAR_MODEL.md), then [weighted operator completion and certified response](operator_foundation/theory/WEIGHTED_OPERATOR_COMPLETION.md).
 
 The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [source index](operator_foundation/SOURCE_INDEX.md), and [master certificate](operator_foundation/audit/MASTER_CERTIFICATE.json) bind this route. The public source archive at `operator_foundation/sources/rkf_reference` includes the corrected T50/T54 edition and full Morphic/Pāṇinian source directories. Use that corrected source where the older root version differs. This does not silently overwrite old source-pinned files.
+
+## Five-source repair SE47: actual columns, metric and retained correlations
+
+[SE47](papers/rkf_completed_weil_endpoint/development/SE47_FIVE_SOURCE_OPERATOR_REPAIR.md)
+constructs the existing boundary-plus-four Schur architecture from the
+corrected source, using an explicit fixed accepted space and complement.
+The five-label metric travels with the observer. Its comparison seam,
+source-correlated inverse and exact next-observation update retain mixed
+readings. A global five-matrix sign test still requires the positive
+reference and endpoint energy-domain hypotheses.
+
+Four theorem groups and 29 controls, including 9 negative controls,
+are recorded in
+[scope](papers/rkf_completed_weil_endpoint/development/SE47_SCOPE.md),
+[sources](papers/rkf_completed_weil_endpoint/development/SE47_SOURCE_RECORD.md),
+[pins](papers/rkf_completed_weil_endpoint/development/SE47_SOURCE_PINS.json),
+[replay](proof_lab/five_source_operator_repair.py) and
+[readings](proof_lab/FIVE_SOURCE_OPERATOR_REPAIR_RESULT.json).
+Actual-source restrictions V_5,V_8,V_12,V_16 have positive five-gaps;
+the V_16 conclusion uses retained source correlations when independent
+entrywise subtraction is inconclusive. This represents the existing
+finite eta-zero result and does not improve the global RH bound.
 
 ## Ordered cells SE46: noncommuting reconstruction and retained memory
 

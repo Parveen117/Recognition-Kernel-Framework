@@ -8,7 +8,25 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current counting development: SE46, 13 October 2026
+## Current five-source development: SE47, 13 October 2026
+
+[The existing five-source operator with retained source correlations](development/SE47_FIVE_SOURCE_OPERATOR_REPAIR.md)
+constructs all five columns from the corrected source and a declared
+fixed complement. Its label metric, comparison seam and source-correlated
+inverse preserve the complete mixed readings. One new complementary
+observation gives an exact update of the same 5 by 5 output.
+
+Four theorem groups and 29 controls, including 9 negative controls, have
+separate scopes in [scope](development/SE47_SCOPE.md),
+[sources](development/SE47_SOURCE_RECORD.md),
+[pins](development/SE47_SOURCE_PINS.json) and
+[readings](../../proof_lab/FIVE_SOURCE_OPERATOR_REPAIR_RESULT.json).
+Actual-source V_5,V_8,V_12,V_16 five-gaps are positive; the last uses
+the already proved full-source sign through a correlation-preserving
+congruence. The new accepted space is explicit and is not identified
+with the historical raw E_3 packet. No global eta improvement follows.
+
+## Ordered counting development: SE46, 13 October 2026
 
 [Ordered cell reconstruction with moving observers and retained memory](../../research/lambda_counting/SE46_ORDERED_CELL_RECONSTRUCTION.md)
 recovers complete noncommuting boundary returns by transporting cells
