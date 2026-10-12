@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE23.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE24.
 
 ## Active operator-engine route
 
@@ -430,6 +430,29 @@ and [audit](papers/rkf_completed_weil_endpoint/development/SE16_SCOPE.md).
 The positive aperture remains 21/25. Eta=1/2, cofinal eta-zero
 positivity, global critical contractivity, the historical five-label
 endpoint, K0 and RH remain open. No formal or external review is claimed.
+
+## Endpoint development SE24: three independent weights and an exact pole row
+
+[SE24](papers/rkf_completed_weil_endpoint/development/SE24_THREE_INDEPENDENT_WEIGHTS_AND_POLE_ROW.md)
+certifies S_b+(14/25)I_X >= (1/7380)I_X on the complete corrected
+complex odd source: the global negative count and nullity vanish for
+eta>=0.56, below SE23's 113/200. By a mechanism different from
+SE22--SE23, the Gamma, prime and pole kernels each carry a new positive
+weight, and the pole is read by a row saturating SE18's budget law, so
+the exterior comparison value is eta rather than eta-b_c; a 2^18
+catalogue places the exterior split at z=1/512 and W_k<=W_1 reduces the
+exterior to SE16.19. The prime weight has four exponents with a signed
+combination certified before division; 1214 cells and the infinite
+exterior prove Q>=1/1000. SE17's weights with the q_0 pole row fail at
+the cut point at this eta. No route floor is inferred from interval
+lower bounds (SE19 audit). See the
+[replay](proof_lab/endpoint_three_weight_certificate.py),
+[controls](proof_lab/test_endpoint_three_weight_certificate.py),
+[result](proof_lab/ENDPOINT_THREE_WEIGHT_RESULT.json),
+[sources](papers/rkf_completed_weil_endpoint/development/SE24_SOURCE_RECORD.md)
+and [audit](papers/rkf_completed_weil_endpoint/development/SE24_SCOPE.md).
+Nothing below 0.56 is certified; eta=1/2, cofinal eta-zero signs, K0 and
+RH remain open; the local radius stays 21/25.
 
 ## Endpoint development SE23: one residual observer and a moving count
 

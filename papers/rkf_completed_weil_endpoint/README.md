@@ -8,7 +8,35 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE23, 12 October 2026
+## Current endpoint development: SE24, 12 October 2026
+
+[Three independent weights and an exact pole row](development/SE24_THREE_INDEPENDENT_WEIGHTS_AND_POLE_ROW.md)
+proves S_b+(14/25)I_X >= (1/7380)I_X on the entire corrected complex
+odd source. The global negative count and nullity vanish for eta>=0.56,
+below SE23's 113/200, and the implied nonnegative shift is 20659/36900.
+The mechanism differs from SE22--SE23: the Gamma, prime and pole
+readings carry three new positive weights, and the pole is read by an
+explicit row that saturates SE18's budget law (4 int v^2/tau = 1), so
+the exterior comparison value is eta itself. A 2^18 prime-power
+catalogue moves the exterior split to z=1/512; the prime weight has
+four exponents with a signed combination certified by linearity before
+division; W_k<=W_1 reduces the exterior to SE16.19.
+
+The replay covers [1/512,1] with 1214 cells (depth<=12, smallest lower
+0.00100206 at x in [0.325,0.328]) and an infinite exterior lower bound
+0.0812929; 24 conditions and 13 independent controls pass, and the
+fresh read-only replay matches the archive. SE17's weights with the
+q_0 pole row fail at the cut point at this eta (upper -0.03601). No
+route floor is inferred from interval lower bounds (SE19 audit). Eta=1/2
+and the cofinal eta-zero sign remain open; the positive local radius
+stays 0.840; SE21--SE23 are preserved. See the
+[result](../../proof_lab/ENDPOINT_THREE_WEIGHT_RESULT.json),
+[replay](../../proof_lab/endpoint_three_weight_certificate.py),
+[controls](../../proof_lab/test_endpoint_three_weight_certificate.py),
+[sources](development/SE24_SOURCE_RECORD.md),
+[audit](development/SE24_SCOPE.md) and [claim boundary](CLAIM_BOUNDARY.md).
+
+## Preceding endpoint development: SE23, 12 October 2026
 
 [Dynamic residual observer](development/SE23_DYNAMIC_RESIDUAL_OBSERVER.md)
 proves S_b+(113/200)I_X >= (1/1476000)I_X on the complete corrected

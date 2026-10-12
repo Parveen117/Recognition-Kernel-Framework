@@ -1,5 +1,23 @@
 # Claim Boundary for the Current Paper
 
+## SE24 three independent weights and an exact pole row (12 October 2026)
+
+```text
+S_b + (14/25) I_X >= (1/7380) I_X on the complete complex odd source   EXECUTED CERTIFICATE
+global kappa_eta = 0 and nullity 0 for every eta >= 0.56               PROVED FROM THE CERTIFICATE
+pole row tau = (31/105)(z - z^3)/(1 + z^2/4), budget 4 int v^2/tau = 1 PROVED / EXECUTED
+four-exponent signed prime row, cell bounds, masses p_{5/2}..p_{11/2}  EXECUTED (2^18 catalogue)
+row domination W_k <= W_1 (k >= 1)                                     PROVED
+exterior z <= 1/512: Q >= 0.0812929                                    PROVED (SE16.19 at M = 2^18)
+SE17 weights with q_0 pole row fail at x = 0 at eta = 0.56             EXECUTED CONTROL
+weights chosen by exploratory float search                             NOT EVIDENCE, NOT AN INPUT
+route floor or anchor tightness from interval lower bounds             NOT INFERRED (SE19 audit)
+any anchor below 14/25; optimality of the weights                      NOT CLAIMED
+local certificate beyond radius 21/25                                  NOT CLAIMED
+eta = 1/2, cofinal eta-zero sign, K0, RH                               OPEN / UNCHANGED
+Python 3.11/3.12 run; Node engine gate                                 NOT RUN THIS SESSION
+```
+
 ## SE23 complete global residual-observer certificate, 12 October 2026
 
 [SE23](development/SE23_DYNAMIC_RESIDUAL_OBSERVER.md) proves
