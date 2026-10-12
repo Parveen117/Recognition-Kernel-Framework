@@ -1,5 +1,26 @@
 # Claim Boundary for the Current Paper
 
+## SE26 diagonal seam and circle transport, 12 October 2026
+
+The [SE26 proof](development/SE26_DIAGONAL_CUT_AND_CIRCLE_TRANSPORT.md)
+establishes a diagonal contrast kernel, the exact blind common mode of
+the actual Gamma observation, and a lossless circle representation of
+the source. Forty exact/interval replay checks support the written
+proofs. No finite matrix check is promoted to the full source sign.
+
+A distance 0.04 from the half-unit reference is a supported display
+coordinate: (S_b+(1/2)I_X)+(1/25)I_X is the SE25 shifted source.
+The eta-zero target moves to displayed -1/2. The reference term is
+retained; global positivity at actual eta=1/25 or 1/2 is not proved.
+The negative seed bounds concern only the fixed-weight SE25 route.
+
+The Gamma-null mode has a nonzero pole target, so zero contrast does
+not imply zero target or zero state. The circle chart retains oriented
+phase; deleting phase is not faithful transport. No identification of
+the diagram's uncalibrated labels with actual RH arrows, assertion
+that scalar zero is not a number, or global eta-zero/RH claim is made.
+The strongest source certificate remains SE25's eta=27/50 result.
+
 ## SE25 actual-source sectoral recovery, 12 October 2026
 
 [SE25](development/SE25_SECTORAL_GAMMA_RECOVERY.md) proves

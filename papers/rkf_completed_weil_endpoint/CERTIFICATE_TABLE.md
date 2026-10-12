@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE25 tables record the development history and current boundary.
+The separate SE1--SE26 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -11,6 +11,23 @@ The separate SE1--SE25 tables record the development history and current boundar
 | M3 accepted block | `3.08520376681449e-13 < M3 < 2.993597611951253e-12` | accepted odd block positive |
 | T03 endpoint | six-block Gram decomposition with vanishing total error | invariant source-Gram identity and `K0 >= 0` |
 | T19-T20 appendix | `beta_partial^cut <= 0.9998319617060448 < 1` and source injectivity | independent strict odd certificate |
+
+## SE26 diagonal cut and circle transport
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Paired diagonal cut | SE26.1--SE26.3; exact reconstruction and energy checks | Zero contrast retains an entire common-mode submodule |
+| Actual Gamma null mode | SE26.4--SE26.6; positive complete kernel and rational pairing | Gamma differences alone cannot recover the pole |
+| Circle source representation | SE26.7--SE26.10; inverse and congruence proof | Full source sign and kernel preserved with oriented phase retained |
+| Moving reference | SE26.11--SE26.13; exact counterexample | Display distance 0.04 retains the half-unit reference; no smaller eta sign follows |
+| Whole-cell seed control | SE26.14; 604 events plus complete tails | Current positive-seed route fails at eta=1/2 and 1/25; no full-source negative claim |
+| Verification | Forty exact/interval checks and source pins | Executed audit; no global bound improvement or whole-engine PASS |
+
+See the [proof](development/SE26_DIAGONAL_CUT_AND_CIRCLE_TRANSPORT.md),
+[replay](../../proof_lab/endpoint_diagonal_seam_certificate.py),
+[result](../../proof_lab/ENDPOINT_DIAGONAL_SEAM_RESULT.json) and
+[scope](development/SE26_SCOPE.md). SE25's global anchor and the
+eta-zero/RH boundary remain unchanged.
 
 ## SE25 source-attached sectoral recovery
 

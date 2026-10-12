@@ -8,7 +8,29 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE25, 12 October 2026
+## Current endpoint development: SE26, 12 October 2026
+
+[Diagonal cut and circle transport](development/SE26_DIAGONAL_CUT_AND_CIRCLE_TRANSPORT.md)
+implements comparison zero as an entire diagonal, with the common reading
+retained. Its actual Gamma-event kernel is span(q_G), and the pole has
+nonzero pairing 45607/433125 with this silent mode. The source therefore
+needs the complementary information retained by the complete observer.
+
+Four written theorems give the diagonal decomposition, actual Gamma
+blindness, a reversible Cayley circle chart, and faithful reference
+transport. Displaying 0.54 as a distance 0.04 from 1/2 changes the reference
+operator to S_b+(1/2)I_X. It does not prove positivity of S_b+0.04I_X.
+Complete whole-cell controls reject SE25's fixed-weight positive seed
+at actual eta=1/2 and 1/25, without asserting negative full-source sign.
+
+See the [40-check replay](../../proof_lab/endpoint_diagonal_seam_certificate.py),
+[result](../../proof_lab/ENDPOINT_DIAGONAL_SEAM_RESULT.json),
+[scope](development/SE26_SCOPE.md), [sources](development/SE26_SOURCE_RECORD.md)
+and [pins](development/SE26_SOURCE_PINS.json).
+SE25 remains the strongest executed global anchor at 0.54. Eta zero and
+RH remain open; the unchanged shared engine pin mismatch is recorded.
+
+## Preceding endpoint development: SE25, 12 October 2026
 
 [Source-attached sectoral recovery](development/SE25_SECTORAL_GAMMA_RECOVERY.md)
 proves S_b+(27/50)I_X >= (1/369000)I_X on the entire corrected complex

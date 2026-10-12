@@ -1,0 +1,342 @@
+{
+  "schema": "rkf.endpoint-diagonal-seam.v1",
+  "date": "2026-10-12",
+  "status": "PASS_DIAGONAL_SEAM_ACCOUNTING_GLOBAL_BOUND_UNCHANGED",
+  "arithmetic": "Exact Fraction and 90-digit outward Decimal",
+  "reference": {
+    "baseline": "1/2",
+    "parent_eta": "27/50",
+    "displayed_distance": "1/25",
+    "source_at_displayed_zero": "S_b + (1/2) I_X",
+    "displayed_unshifted_target": "-1/2",
+    "omitted_native_shift_if_misidentified": "1/2"
+  },
+  "diagonal": {
+    "kernel": "All pairs (a,a) on the same admitted typed carrier",
+    "zero_contrast_implies_zero_state": false,
+    "mean_coordinate_retained": true
+  },
+  "circle": {
+    "samples": [
+      {
+        "value": "-1",
+        "scale": "1",
+        "real": "0",
+        "turn": "-1"
+      },
+      {
+        "value": "-1",
+        "scale": "2",
+        "real": "3/5",
+        "turn": "-4/5"
+      },
+      {
+        "value": "-1/4",
+        "scale": "1",
+        "real": "15/17",
+        "turn": "-8/17"
+      },
+      {
+        "value": "-1/4",
+        "scale": "2",
+        "real": "63/65",
+        "turn": "-16/65"
+      },
+      {
+        "value": "0",
+        "scale": "1",
+        "real": "1",
+        "turn": "0"
+      },
+      {
+        "value": "0",
+        "scale": "2",
+        "real": "1",
+        "turn": "0"
+      },
+      {
+        "value": "1/25",
+        "scale": "1",
+        "real": "312/313",
+        "turn": "25/313"
+      },
+      {
+        "value": "1/25",
+        "scale": "2",
+        "real": "2499/2501",
+        "turn": "100/2501"
+      },
+      {
+        "value": "1/2",
+        "scale": "1",
+        "real": "3/5",
+        "turn": "4/5"
+      },
+      {
+        "value": "1/2",
+        "scale": "2",
+        "real": "15/17",
+        "turn": "8/17"
+      },
+      {
+        "value": "27/50",
+        "scale": "1",
+        "real": "1771/3229",
+        "turn": "2700/3229"
+      },
+      {
+        "value": "27/50",
+        "scale": "2",
+        "real": "9271/10729",
+        "turn": "5400/10729"
+      },
+      {
+        "value": "1",
+        "scale": "1",
+        "real": "0",
+        "turn": "1"
+      },
+      {
+        "value": "1",
+        "scale": "2",
+        "real": "3/5",
+        "turn": "4/5"
+      }
+    ],
+    "source_zero_image": [
+      "1",
+      "0"
+    ],
+    "source_sign_requires_oriented_arc": true,
+    "phase_discarding_is_not_faithful": true
+  },
+  "actual_Gamma_blindness": {
+    "weight": [
+      [
+        "1",
+        1
+      ],
+      [
+        "139/125",
+        3
+      ],
+      [
+        "-2493/500",
+        5
+      ],
+      [
+        "1651/500",
+        7
+      ]
+    ],
+    "modes": 16,
+    "response_is_zero": true,
+    "norm_squared": "15472031/26250000",
+    "pole_pairing": "45607/433125",
+    "full_pole_energy": "8319993796/187597265625",
+    "conclusion": "No bounded recovery of the pole from these Gamma differences alone",
+    "negative_actual_source_claim": false
+  },
+  "seed_failure": {
+    "cell": [
+      "9/10",
+      "9001/10000"
+    ],
+    "catalogue": 4096,
+    "prime_power_count": 604,
+    "complete_analytic_tails": true,
+    "upper_bounds": {
+      "1/2": {
+        "upper": "-0.066720602969237320376429035220369410038164469996793255715742736076937466403590223161170858",
+        "strict_rational_ceiling": "-3/50"
+      },
+      "1/25": {
+        "upper": "-0.931382624207931032602876984140749107049772065330418551881452080827678089949807610306200590",
+        "strict_rational_ceiling": "-9/10"
+      }
+    },
+    "scope": "SE25 fixed-weight positive-multiplication-seed route only",
+    "actual_source_negativity_or_impossibility": false
+  },
+  "unchanged_global_certificate": {
+    "eta": "27/50",
+    "shifted_native_floor": "1/369000",
+    "implied_nonnegative_shift": "199259/369000",
+    "invariant_negative_count": 0,
+    "nullity": 0,
+    "scope": "Entire corrected complex odd native source; every eta >= 27/50",
+    "eta_zero_certified": false
+  },
+  "inherited_source_pins_checked": 44,
+  "check_count": 40,
+  "checks": [
+    {
+      "name": "parent_eta_and_floor",
+      "status": "PASS"
+    },
+    {
+      "name": "displayed_distance_is_004",
+      "status": "PASS"
+    },
+    {
+      "name": "displayed_004_keeps_source_eta_054",
+      "status": "PASS"
+    },
+    {
+      "name": "unshifted_source_target_transports_to_minus_half",
+      "status": "PASS"
+    },
+    {
+      "name": "displayed_zero_is_not_unshifted_source",
+      "status": "PASS"
+    },
+    {
+      "name": "pair_recovery_5",
+      "status": "PASS"
+    },
+    {
+      "name": "pair_full_energy_6",
+      "status": "PASS"
+    },
+    {
+      "name": "pair_recovery_7",
+      "status": "PASS"
+    },
+    {
+      "name": "pair_full_energy_8",
+      "status": "PASS"
+    },
+    {
+      "name": "pair_recovery_9",
+      "status": "PASS"
+    },
+    {
+      "name": "pair_full_energy_10",
+      "status": "PASS"
+    },
+    {
+      "name": "pair_recovery_11",
+      "status": "PASS"
+    },
+    {
+      "name": "pair_full_energy_12",
+      "status": "PASS"
+    },
+    {
+      "name": "nonzero_diagonal_has_zero_contrast",
+      "status": "PASS"
+    },
+    {
+      "name": "circle_roundtrip_14",
+      "status": "PASS"
+    },
+    {
+      "name": "circle_roundtrip_15",
+      "status": "PASS"
+    },
+    {
+      "name": "circle_roundtrip_16",
+      "status": "PASS"
+    },
+    {
+      "name": "circle_roundtrip_17",
+      "status": "PASS"
+    },
+    {
+      "name": "circle_roundtrip_18",
+      "status": "PASS"
+    },
+    {
+      "name": "circle_roundtrip_19",
+      "status": "PASS"
+    },
+    {
+      "name": "circle_roundtrip_20",
+      "status": "PASS"
+    },
+    {
+      "name": "circle_roundtrip_21",
+      "status": "PASS"
+    },
+    {
+      "name": "circle_roundtrip_22",
+      "status": "PASS"
+    },
+    {
+      "name": "circle_roundtrip_23",
+      "status": "PASS"
+    },
+    {
+      "name": "circle_roundtrip_24",
+      "status": "PASS"
+    },
+    {
+      "name": "circle_roundtrip_25",
+      "status": "PASS"
+    },
+    {
+      "name": "circle_roundtrip_26",
+      "status": "PASS"
+    },
+    {
+      "name": "circle_roundtrip_27",
+      "status": "PASS"
+    },
+    {
+      "name": "source_zero_is_circle_identity",
+      "status": "PASS"
+    },
+    {
+      "name": "same_circle_radius_does_not_identify_states",
+      "status": "PASS"
+    },
+    {
+      "name": "excluded_infinite_chart_point_rejected",
+      "status": "PASS"
+    },
+    {
+      "name": "symmetric_negative_source_satisfies_parent_style_bound",
+      "status": "PASS"
+    },
+    {
+      "name": "same_source_fails_false_004_reinterpretation",
+      "status": "PASS"
+    },
+    {
+      "name": "actual_Gamma_comparison_diagonal_is_null",
+      "status": "PASS"
+    },
+    {
+      "name": "actual_Gamma_null_mode_is_nonzero",
+      "status": "PASS"
+    },
+    {
+      "name": "actual_Gamma_null_mode_has_nonzero_pole_target",
+      "status": "PASS"
+    },
+    {
+      "name": "null_event_coordinate_cannot_be_normalized",
+      "status": "PASS"
+    },
+    {
+      "name": "whole_cell_seed_failure_eta_1/2",
+      "status": "PASS"
+    },
+    {
+      "name": "whole_cell_seed_failure_eta_1/25",
+      "status": "PASS"
+    },
+    {
+      "name": "faithful_reference_preserves_the_entire_seed_interval",
+      "status": "PASS"
+    }
+  ],
+  "not_certified": [
+    "global eta=0, eta=1/2 or eta=1/25 positivity",
+    "RH or historical five-label/K0 completion",
+    "actual TVSP-to-VTSP arrow map",
+    "zero scalar is not a number",
+    "whole operator-engine gate PASS",
+    "formal proof-assistant or external verification"
+  ]
+}

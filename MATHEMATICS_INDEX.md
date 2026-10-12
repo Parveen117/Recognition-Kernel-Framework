@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and endpoint developments SE1--SE25.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and endpoint developments SE1--SE26.
 
 ## Active operator-engine route
 
@@ -446,6 +446,28 @@ and [audit](papers/rkf_completed_weil_endpoint/development/SE16_SCOPE.md).
 The positive aperture remains 21/25. Eta=1/2, cofinal eta-zero
 positivity, global critical contractivity, the historical five-label
 endpoint, K0 and RH remain open. No formal or external review is claimed.
+
+## Endpoint development SE26: diagonal cuts and faithful circle transport
+
+The [SE26 theorems](papers/rkf_completed_weil_endpoint/development/SE26_DIAGONAL_CUT_AND_CIRCLE_TRANSPORT.md)
+implement zero contrast as a diagonal submodule while retaining its common
+reading. On the actual sixteen Gamma sheets the null space is exactly
+span(q_G), with nonzero pole pairing 45607/433125. A bounded decoder of
+the pole therefore needs observations beyond those Gamma differences.
+
+An invertible Cayley circle representation preserves the source kernel
+and its positivity condition, with phase retained. Re-centring at 1/2
+displays the SE25 anchor as 0.04 but keeps the source S_b+(1/2)I_X;
+the unshifted target is then at displayed -1/2. Whole-cell controls reject
+the existing fixed-weight positive seed at actual eta=1/2 and 1/25.
+They are not negative witnesses for the full source.
+
+See the [40-check replay](proof_lab/endpoint_diagonal_seam_certificate.py),
+[result](proof_lab/ENDPOINT_DIAGONAL_SEAM_RESULT.json),
+[scope](papers/rkf_completed_weil_endpoint/development/SE26_SCOPE.md),
+[sources](papers/rkf_completed_weil_endpoint/development/SE26_SOURCE_RECORD.md)
+and [pins](papers/rkf_completed_weil_endpoint/development/SE26_SOURCE_PINS.json).
+The strongest global anchor remains SE25's 0.54; eta zero and RH are open.
 
 ## Endpoint development SE25: source-attached sectoral recovery at global eta 0.54
 
