@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 13 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE47 (SE34--SE38 and SE41--SE47 carry scoped observer readings; SE47 attaches the existing 1+4 operator to the actual finite source with its metric and correlations retained; the universal RH source sign remains open).
+Index update: 13 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE48 (SE34--SE38 and SE41--SE48 carry scoped observer readings; SE48 adds the spectral parameter to the existing 1+4 operator and certifies five actual local critical-line zeros; the universal RH source sign remains open).
 
 ## Active operator-engine route
 
@@ -10,6 +10,28 @@ Index update: 13 October 2026, operator mathematics version 0.5 with additive re
 Read the [native primitive order](operator_foundation/theory/NATIVE_PRIMITIVE_ORDER.md), [algebra and observer contracts](operator_foundation/theory/01_NATIVE_ALGEBRA.md), [completion and memory](operator_foundation/theory/02_COMPLETION_AND_MEMORY.md), [Laurent/jet repair](operator_foundation/theory/NATIVE_LAURENT_JET_REPAIR.md), [Pāṇinian symbolic compiler](operator_foundation/theory/PANINIAN_OPERATOR_COMPILER.md), [automatic normal basis and regular action](operator_foundation/theory/AUTOMATIC_REGULAR_MODEL.md), then [weighted operator completion and certified response](operator_foundation/theory/WEIGHTED_OPERATOR_COMPLETION.md).
 
 The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [source index](operator_foundation/SOURCE_INDEX.md), and [master certificate](operator_foundation/audit/MASTER_CERTIFICATE.json) bind this route. The public source archive at `operator_foundation/sources/rkf_reference` includes the corrected T50/T54 edition and full Morphic/Pāṇinian source directories. Use that corrected source where the older root version differs. This does not silently overwrite old source-pinned files.
+
+## Diagonal spectral pencil SE48: source poles and five actual local zeros
+
+[SE48](papers/rkf_completed_weil_endpoint/development/SE48_DIAGONAL_SPECTRAL_PENCIL.md)
+constructs an acquired positive spectral pencil from the complete source
+and retains its existing five-label Schur output with a spectral parameter.
+The finite response interpolates both values and derivatives. Its poles
+are distinct from actual zeta zeros; a separate complete complex Euler
+and Rouche calculation certifies five simple zeros exactly on the
+critical line, each inside its stated radius-1e-6 disk.
+
+Four theorem groups and 36 controls, including 8 negative controls,
+are recorded in
+[scope](papers/rkf_completed_weil_endpoint/development/SE48_SCOPE.md),
+[sources](papers/rkf_completed_weil_endpoint/development/SE48_SOURCE_RECORD.md),
+[pins](papers/rkf_completed_weil_endpoint/development/SE48_SOURCE_PINS.json),
+[replay](proof_lab/diagonal_spectral_pencil.py) and
+[readings](proof_lab/DIAGONAL_SPECTRAL_PENCIL_RESULT.json).
+The global reference is necessarily noncoercive at eta zero. A controlled
+analytic limit excludes all off-line zeros if every acquired pencil is
+positive; that all-order premise remains unproved. The global eta bound
+and V_16 source-positivity frontier are unchanged.
 
 ## Five-source repair SE47: actual columns, metric and retained correlations
 

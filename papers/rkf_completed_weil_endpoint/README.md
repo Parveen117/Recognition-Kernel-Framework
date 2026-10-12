@@ -8,7 +8,25 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current five-source development: SE47, 13 October 2026
+## Current spectral development: SE48, 13 October 2026
+
+[Spectral parameter and actual diagonal zero certificates](development/SE48_DIAGONAL_SPECTRAL_PENCIL.md)
+extends the existing 1+4 operator to a meromorphic spectral family whose
+characteristic identity retains reference-pole cancellation. Actual
+source data give positive pencils at N=5,8,12,16 and 30 certified finite
+pole brackets. A separate complete complex-zeta computation proves five
+simple zeros on the critical line, each in its declared radius-1e-6 disk.
+
+Four theorem groups and 36 controls, including 8 negative controls,
+have separate scopes in [scope](development/SE48_SCOPE.md),
+[sources](development/SE48_SOURCE_RECORD.md),
+[pins](development/SE48_SOURCE_PINS.json) and
+[readings](../../proof_lab/DIAGONAL_SPECTRAL_PENCIL_RESULT.json).
+The written analytic limit theorem needs positivity at every refinement.
+That universal arithmetic condition remains open; the local zero
+certificates do not prove RH or improve the global source eta bound.
+
+## Five-source development: SE47, 13 October 2026
 
 [The existing five-source operator with retained source correlations](development/SE47_FIVE_SOURCE_OPERATOR_REPAIR.md)
 constructs all five columns from the corrected source and a declared

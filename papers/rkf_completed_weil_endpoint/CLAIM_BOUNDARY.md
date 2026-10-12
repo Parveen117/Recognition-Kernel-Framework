@@ -1,5 +1,34 @@
 # Claim Boundary for the Current Paper
 
+## SE48 spectral continuation and local actual zeros, 13 October 2026
+
+[SE48](development/SE48_DIAGONAL_SPECTRAL_PENCIL.md) derives the acquired
+source pencil and keeps SE47's same 1+4 architecture in a meromorphic
+spectral family. Its finite poles are not identified with actual zeta
+zeros merely by interpolation. Positive L_N and J_N are proved for
+N=5,8,12,16; 30 declared pole brackets have outward inertia certificates.
+The narrow sixth N=16 bracket remains inconclusive at inherited precision.
+
+Separate complete complex Euler readings and strict Rouche margins
+certify five disjoint radius-1e-6 disks, each containing one simple actual
+zeta zero. Reflection forces those five real parts to be exactly 1/2.
+The execution does not count all zeros below these heights or certify a
+global zero ordering. The 1e-9 finite-pole brackets are not substituted
+for the actual zeros' 1e-6 disks.
+
+The full eta-zero reference is necessarily noncoercive. A proved analytic
+limit criterion avoids a global bounded inverse, but still requires
+positive actual pencils at every order. That universal premise is open.
+A symmetric off-line polynomial model passes the five finite pencil
+readings, exposing the invalid finite-to-global inference. The classical
+xi and complex-analysis adapter is explicit, not a redefinition of Cut.
+
+Four theorem groups and 36 controls, including 8 negative controls, have
+the separate scopes in [SE48 scope](development/SE48_SCOPE.md). The old
+engine pin mismatch remains reported. Global eta is still 1079/2000
+with floor 1/492000; eta-zero source positivity remains on V_16 only.
+RH is unproved. No mass-gap or universal physical diagonal claim follows.
+
 ## SE47 actual-source five-operator repair, 13 October 2026
 
 [SE47](development/SE47_FIVE_SOURCE_OPERATOR_REPAIR.md) proves the
