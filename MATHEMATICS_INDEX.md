@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE38 (SE34--SE38 observer-certified).
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE39 (SE34--SE38 observer-certified; SE39 supplies a written RH equivalence, not an RH proof).
 
 ## Active operator-engine route
 
@@ -10,6 +10,29 @@ Index update: 12 October 2026, operator mathematics version 0.5 with additive re
 Read the [native primitive order](operator_foundation/theory/NATIVE_PRIMITIVE_ORDER.md), [algebra and observer contracts](operator_foundation/theory/01_NATIVE_ALGEBRA.md), [completion and memory](operator_foundation/theory/02_COMPLETION_AND_MEMORY.md), [Laurent/jet repair](operator_foundation/theory/NATIVE_LAURENT_JET_REPAIR.md), [Pāṇinian symbolic compiler](operator_foundation/theory/PANINIAN_OPERATOR_COMPILER.md), [automatic normal basis and regular action](operator_foundation/theory/AUTOMATIC_REGULAR_MODEL.md), then [weighted operator completion and certified response](operator_foundation/theory/WEIGHTED_OPERATOR_COMPLETION.md).
 
 The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [source index](operator_foundation/SOURCE_INDEX.md), and [master certificate](operator_foundation/audit/MASTER_CERTIFICATE.json) bind this route. The public source archive at `operator_foundation/sources/rkf_reference` includes the corrected T50/T54 edition and full Morphic/Pāṇinian source directories. Use that corrected source where the older root version differs. This does not silently overwrite old source-pinned files.
+
+## Endpoint development SE39: direct RH bridge and zero-sector readings
+
+[SE39](papers/rkf_completed_weil_endpoint/development/SE39_DIRECT_RH_BRIDGE_AND_ZERO_SECTORS.md)
+resumes the RH application. It attaches SE21's actual full-source response
+directly to RH using an explicit classical Lowner continuation theorem
+and completed-xi factorization. The written equivalence is RH iff
+S_b>=0 iff every integer-rate Gram M_N>=0 iff the actual negative
+diagonal branch E_-=0. It bypasses the historical five-label attachment;
+it does not prove that attachment or any of these universal conditions.
+
+The exact zero-sector identity gives positive rank-one contributions
+for critical-line zeros and indefinite two-probe contributions for
+off-line conjugate pairs. A supplied rational example shows how positive
+sectors can mask an indefinite one in a finite reading bank. Ten exact
+model controls pass; they are not computations of zeta zeros.
+See [scope](papers/rkf_completed_weil_endpoint/development/SE39_SCOPE.md),
+[source record](papers/rkf_completed_weil_endpoint/development/SE39_SOURCE_RECORD.md),
+[replay](proof_lab/endpoint_rh_bridge_controls.py) and
+[readings](proof_lab/ENDPOINT_RH_BRIDGE_CONTROLS.json).
+SE27's global eta 1079/2000 with floor 1/492000 and SE21's V_16
+eta-zero result remain unchanged. The canonical curvature norm remains
+1/2, so flatness of that connection does not finish RH.
 
 ## Constant-lambda counting: SE38 observer certificate
 
@@ -49,7 +72,8 @@ lifting, residual decoding and order doubling are decoded from saved
 banks in 29 exact checks, including 11 negative controls, with 138
 source pins ([scope](research/lambda_counting/SE34_SCOPE.md)).
 SE33's five proofs and 30 exact checks remain the preceding reading
-record. RH and curvature remain deferred.
+record. The counting results retain their original scope; SE39 separately
+resumes the RH application without identifying Lambda with eta.
 
 ## Endpoint development SE31
 

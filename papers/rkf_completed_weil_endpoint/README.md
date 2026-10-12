@@ -8,6 +8,27 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
+## Current RH development: SE39, 12 October 2026
+
+[Direct RH bridge and zero-sector readings](development/SE39_DIRECT_RH_BRIDGE_AND_ZERO_SECTORS.md)
+proves a written equivalence between RH and positivity of the actual
+SE21 full-source kernel, using explicitly cited classical factorization
+and Lowner continuation. This route does not require the unresolved
+historical five-label identification. It leaves that identification and
+the actual universal positivity inequality unproved.
+
+The zero-sector decomposition separates positive critical-line atoms
+from indefinite off-line conjugate-pair sectors. Ten exact rational
+model controls include a negative mixed reading with positive diagonals
+and a positive finite bank that masks a nonreal pair. They do not
+compute or classify actual zeta zeros. SE29's missing branch E_-=0
+is now directly equivalent to RH; its curvature norm stays 1/2.
+The full-carrier anchor remains eta=0.5395, and eta zero is certified
+only on V_16. See [scope](development/SE39_SCOPE.md),
+[sources](development/SE39_SOURCE_RECORD.md),
+[replay](../../proof_lab/endpoint_rh_bridge_controls.py) and
+[saved readings](../../proof_lab/ENDPOINT_RH_BRIDGE_CONTROLS.json).
+
 ## Current foundational development: SE38, 12 October 2026
 
 [SE38](../../research/lambda_counting/SE38_UNIT_WEIGHTED_CALIBRATION_AND_CUT_DEPTH.md)
@@ -23,7 +44,8 @@ out. The observer's recorded readings are decoded for their stated
 targets: 25 exact checks, including 8 negative controls, recorded in the
 [scope](../../research/lambda_counting/SE38_SCOPE.md). The
 [counting chapter](../../research/lambda_counting/INDEX.md) records the
-development; RH and curvature remain deferred.
+development; its formal unit-depth results do not establish the analytic
+RH condition resumed separately in SE39.
 
 ## Preceding foundational development: SE37, 12 October 2026
 

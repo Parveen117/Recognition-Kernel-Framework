@@ -1,5 +1,30 @@
 # Claim Boundary for the Current Paper
 
+## SE39 direct RH bridge, 12 October 2026
+
+[SE39](development/SE39_DIRECT_RH_BRIDGE_AND_ZERO_SECTORS.md) uses the
+unchanged SE21 source identity and native density, plus explicitly cited
+classical entire-function factorization and Lowner continuation. Its
+written theorem is RH iff S_b>=0 iff every M_N>=0 iff E_-=0 for the
+actual SE29 diagonal. This is a direct attachment of the full odd source
+to RH, not a proof of either side. It supplies no historical five-label
+K_0 identification and does not validate that manuscript's old closure
+claims.
+
+The exact zero-sector series is absolutely convergent at the source
+probes. Its positive factorization by critical-line atoms is conditional
+on RH. An off-line conjugate-pair sector is indefinite; other sectors
+can mask it on a finite bank. Theorem 3 proves existence of some finite
+negative rational reading if RH fails, with no bound on its size and
+no exhibited negative reading for the actual zeta source.
+
+Ten exact rational controls concern supplied polynomial models only.
+The global eta=1079/2000, floor 1/492000, finite V_16 zero-shift sign,
+and canonical curvature norm 1/2 are unchanged. Formal unit-memory
+completion is not an analytic convergence estimate. No RH proof,
+global eta-zero certificate, formal verification or external review is
+claimed. See [scope](development/SE39_SCOPE.md).
+
 ## SE38 unit-weighted calibration and cut depth, 12 October 2026
 
 [SE38](../../research/lambda_counting/SE38_UNIT_WEIGHTED_CALIBRATION_AND_CUT_DEPTH.md)

@@ -10,7 +10,12 @@ The shared operator engine stays in
 Begin with the fixed marked unit and positive repetition. Algebraic
 completion, count actions and joint operations have explicitly declared
 carriers. Zero names a typed cut; additive-neutral elements are derived
-objects with separate types. RH and curvature development are deferred.
+objects with separate types. The counting chapter retains its own scope.
+The user has now resumed the RH application in
+[SE39](../../papers/rkf_completed_weil_endpoint/development/SE39_DIRECT_RH_BRIDGE_AND_ZERO_SECTORS.md):
+an explicit analytic adapter proves RH equivalent to the actual source's
+all-order positivity, while leaving that inequality unproved. It does
+not identify the marked unit Lambda with the spectral shift eta.
 
 | Stage | Developed mathematics |
 | --- | --- |
