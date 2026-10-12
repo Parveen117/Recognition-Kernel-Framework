@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE37 (SE34--SE37 observer-certified).
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE38 (SE34--SE37 observer-certified; SE38 is a development draft).
 
 ## Active operator-engine route
 
@@ -11,9 +11,16 @@ Read the [native primitive order](operator_foundation/theory/NATIVE_PRIMITIVE_OR
 
 The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [source index](operator_foundation/SOURCE_INDEX.md), and [master certificate](operator_foundation/audit/MASTER_CERTIFICATE.json) bind this route. The public source archive at `operator_foundation/sources/rkf_reference` includes the corrected T50/T54 edition and full Morphic/Pāṇinian source directories. Use that corrected source where the older root version differs. This does not silently overwrite old source-pinned files.
 
-## Constant-lambda counting: SE37 observer certificate
+## Constant-lambda counting: SE38 development
 
 [Counting mathematics](research/lambda_counting/INDEX.md) now includes
+[SE38 derivations](research/lambda_counting/SE38_UNIT_WEIGHTED_CALIBRATION_AND_CUT_DEPTH.md):
+finite monomial calibration banks for all finite polynomial affine-cut
+catalogues, an exact degree/unit-order criterion, and the induced cut on
+the actual memory algebra. Labelled coefficient readings give a sharp
+calibration-depth bound q-w-s for relative updates through depth q.
+The cubic obstruction is repaired, including ordered mixed actions.
+SE38 certification remains deferred.
 [SE37](research/lambda_counting/SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md):
 the least algebra preserving a decoded target and all its future
 catalogue readings, exact polynomial bank reduction, and calibration

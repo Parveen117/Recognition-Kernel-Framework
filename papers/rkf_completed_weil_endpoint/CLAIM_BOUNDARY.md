@@ -1,5 +1,33 @@
 # Claim Boundary for the Current Paper
 
+## SE38 development draft, 12 October 2026
+
+[SE38](../../research/lambda_counting/SE38_UNIT_WEIGHTED_CALIBRATION_AND_CUT_DEPTH.md)
+assumes an acquired or decoded relative coordinate and a finite supplied
+polynomial action catalogue with affine cut on a known finite counting
+sector. A degree/unit-order inequality constructs a finite monomial
+calibration bank with polynomial updates uniformly in retained depth.
+This is a sufficient bank; its least D concerns that displayed family,
+not all possible observers. An exact least-algebra and generator-count
+result is separately proved for a scalar monomial action, within the
+same-carrier polynomial decoder class.
+
+The memory algebra inherits its cut by intersection with the ambient
+unit-order ideal. Its abstract quotient by a coefficient ideal can differ
+from that actual retained image. Displayed coordinates keep their
+relations and their unit degrees. Uniform coordinate count does not
+bound their all-depth coefficient content.
+
+Using the existing labelled coefficient readings and an explicitly typed
+map to a shallower carrier, nonlinear order w and relative order s need
+calibration only through q-w-s for relative output through q. If q<w+s,
+no calibration is needed for that relative update. A quadratic example
+shows sharpness of this uniform guarantee. Individual targets can need
+less, and absolute source targets can need more. No noisy-data, numerical
+convergence, unknown-input acquisition or arbitrary nonlinear-cut result
+is inferred. Certification, replay, new pins and verification runs remain
+deferred; existing certificates and application bounds are preserved.
+
 ## SE37 target algebra and calibration memory, 12 October 2026
 
 [SE37](../../research/lambda_counting/SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md)

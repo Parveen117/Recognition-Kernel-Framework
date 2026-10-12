@@ -8,7 +8,22 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current foundational development: SE37, 12 October 2026
+## Current foundational development: SE38 draft, 12 October 2026
+
+[SE38](../../research/lambda_counting/SE38_UNIT_WEIGHTED_CALIBRATION_AND_CUT_DEPTH.md)
+constructs a finite calibration bank for every finite polynomial action
+catalogue with affine cut on a known finite counting sector. Its
+degree/unit-order rule gives polynomial relative updates at all retained
+depths and repairs the cubic example left open in SE37. It derives the
+actual induced cut on that memory algebra. With labelled coefficient
+readings, relative order s and nonlinear action order w require only
+calibration depth q-w-s for output depth q, with an example proving
+sharpness. Five theorem groups and ordered-action examples are written
+out. Certification and executable replay remain deferred. The
+[counting chapter](../../research/lambda_counting/INDEX.md) records the
+development; RH and curvature remain deferred.
+
+## Preceding foundational development: SE37, 12 October 2026
 
 [SE37](../../research/lambda_counting/SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md)
 reduces the available bank for a specified polynomially decoded target.

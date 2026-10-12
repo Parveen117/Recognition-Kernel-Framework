@@ -22,8 +22,19 @@ objects with separate types. RH and curvature development are deferred.
 | [SE35](SE35_ACTIVE_READINGS_AND_SINGULAR_CUT_REPAIR.md) | Active probe readings, exact nonlinear blind fibres, descending response decoding and repair before unit lifting; observer-certified |
 | [SE36](SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md) | Restricted probes, available action-word closure, synthesized probe directions and finite nonlinear observation at retained unit depth; observer-certified |
 | [SE37](SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md) | Least future-target algebra, exact nonlinear bank reduction and closed calibration memory for unit-scaled action families; observer-certified |
+| [SE38 development](SE38_UNIT_WEIGHTED_CALIBRATION_AND_CUT_DEPTH.md) | Finite calibration banks for polynomial affine-cut catalogues, exact induced cuts and a sharp relative calibration-depth law; certification deferred |
 
-The current stage is **SE37**. A polynomial
+The current development is **SE38, a derivation draft**. The degree
+of each nonlinear action term relative to its unit order determines
+a finite calibration bank with polynomial updates at every retained
+depth. This repairs SE37's cubic example and retains the order of mixed
+actions. The actual cut on the memory algebra is derived from its
+readings. With labelled coefficient readings, a relative unit order s
+and nonlinear action order w require calibration only through degree
+q-w-s for output depth q; the bound is attained in a scalar example.
+Read the [derivations and examples](SE38_UNIT_WEIGHTED_CALIBRATION_AND_CUT_DEPTH.md).
+
+The preceding **SE37** stage shows that a polynomial
 target already decoded from the available bank has a finitely generated
 least algebra preserving all its future catalogue readings. Explicit
 reconstruction identities permit bank reduction with nonlinear updates.
@@ -121,6 +132,8 @@ line predates this certificate. Read the
 [application](../../proof_lab/lambda_unit_memory_lifting.cjs) and
 [pins](SE34_SOURCE_PINS.json).
 
+No SE38 certificate, replay archive, pin manifest or verification
+PASS has been issued; its certification is deferred.
 The following SE33 record remains the preceding certified-reading stage.
 
 SE33 makes multiple input slots explicit. Diagonal readings recover
