@@ -3,9 +3,9 @@
 const fs=require('node:fs'),os=require('node:os'),path=require('node:path'),cp=require('node:child_process'),assert=require('node:assert/strict');
 const root=path.resolve(__dirname,'../..'),out=[];
 const faults=[
- ['transpose_instead_of_native_dagger_in_mark','const sq=mul(dagger(leak),leak);','const sq=mul(transposeOnly(leak),leak);'],
- ['skip_observer_completion_use_raw_observer','const {P,gram}=retainedProjector(D)','const {P,gram}=retainedProjector(C)'],
- ['transpose_projector_is_not_self_dagger','const Dd=dagger(D),G=mul(D,Dd);','const Dd=transposeOnly(D),G=mul(D,Dd);'],
+ ['transpose_instead_of_native_dagger_in_mark','const sq=mul(mul(dagger(leak),B),leak);','const sq=mul(mul(transposeOnly(leak),B),leak);'],
+ ['skip_observer_completion_use_raw_observer','const {P,gram}=retainedProjector(D,pairing)','const {P,gram}=retainedProjector(C,pairing)'],
+ ['transpose_projector_is_not_self_dagger','const Dd=dagger(D),G=mul(mul(D,pairing.Binv),Dd);','const Dd=transposeOnly(D),G=mul(mul(D,pairing.Binv),Dd);'],
  ['forward_leak_mistaken_for_the_mark','const leak=mul(mul(Q,g.m),P);','const leak=mul(mul(P,g.m),Q);'],
  ['accept_negative_weights_as_a_square',"if(f.inertia.n_minus>0)return {status:'NOT_A_CUT_SQUARE',...f};","if(false)return {status:'NOT_A_CUT_SQUARE',...f};"],
  ['odd_part_defined_as_even_part',"odd:scale(sub(s,c),'1/2')","odd:scale(add(s,c),'1/2')"],

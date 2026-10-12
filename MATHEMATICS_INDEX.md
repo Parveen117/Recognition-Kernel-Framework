@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 (graded aperture) and R3 (structure report).
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 (graded aperture), R3 (structure report) and R4 (repair step, declared pairing, YM-37 encoding).
 
 ## Active operator-engine route
 
@@ -59,6 +59,12 @@ The [R3 packet](research/structure_report/README.md) and [written theorems](rese
 - Verdict: `VISIBLE_LOCAL`, `HIDDEN_LOCAL` or `GLOBAL_RETURNING_MEMORY`.
 
 [Generated finite evidence](research/structure_report/RESULT.json) records 18 named checks over 9 instances, 2564 forward word pairs, 24 random cut-square factorizations and 14 seam-count readings; [seven mutation controls](research/structure_report/MUTATIONS.json) are rejected, including the coordinate transpose in place of the native dagger. Run `node research/structure_report/verify.cjs --check` from this root. The pinned evidence does not embed the runtime version string. The packet uses the canonical engine unchanged. The encoding is supplied data; the report states what it permits and what must be tracked, decides no supplied problem, invokes no infinite limit, and claims no physical identification, RH, YM or continuum statement.
+
+## Research R4: repair step, declared pairing, and the YM-37 pencil as first real encoding
+
+The [R4 sub-packet](research/structure_report/r4/README.md) and [theorems](research/structure_report/r4/THEOREM.md) complete R3's loop: the mark names channels, and completing the observer under the reversed catalogue `S ∪ S^sharp` adds exactly those channels. R4-A: the repaired observer carries no mark and is `VISIBLE_LOCAL`; R4-B: it is the minimum-rank mark-free descending observer; R4-C: the repair is idempotent — one step closes the loop on a finite carrier, at cost `dagger_extra` channels. The engine now admits a declared pairing `B` (a theorum/53 cut square with positive weights) with reversal `a^sharp = B^-1 a^dagger B`; `B = I` reproduces every R3 number, all native verdicts are basis-covariant under the pairing, and the coordinate dagger alone is shown not to be.
+
+First real encoding: the YM-37 column pencil `(M, B)` on the 8-dimensional even invariant sector ([Publications YM-37](https://github.com/Parveen117/Publications/tree/main/papers/yang-mills-certified-benchmark), consumed by pin as declared data). Under the sector's Haar pairing the boundary readout with the insertion target is `HIDDEN_LOCAL` — completion ladder `2 -> 4 -> 6`, two invisible directions, no returning memory, repair cost zero. Under the coordinate dagger the same data yield a spurious `GLOBAL_RETURNING_MEMORY` of energy `1618373069/1180672000000`, recorded as a control. [Evidence](research/structure_report/r4/RESULT.json): 17 named checks, 9 repairs, 10 minimality probes, 5 covariance instances; [three mutation controls](research/structure_report/r4/MUTATIONS.json) rejected. Run `node research/structure_report/r4/verify.cjs --check`. No mass-gap, t-direction, continuum or physical claim; existing Yang–Mills boundaries (NG-1, YM-42 onward) are untouched.
 
 ## Full framework register, preserved
 

@@ -33,6 +33,8 @@ For a set of rows `D` with independent rows, `D D^dagger` is nonsingular: if `(D
 
 Then `P^2 = P = P^dagger`, `ker P = ker D`, and `P` is the recovered memory projector of theorum/31 (`P_T = T^dagger T` for a coisometry `T`) written without a normalization step.
 
+When the carrier is presented in a basis that is not a label set, the reversal is taken under a declared pairing `B` (a self-dagger cut square with positive weights): `a^sharp = B^-1 a^dagger B`, `P = B^-1 D^dagger (D B^-1 D^dagger)^-1 D`. `B = I` is the case treated below; the extension, its basis covariance and the first real encoding are in `r4/THEOREM.md`. Every proof below uses only `P = P^sharp`, `(ab)^sharp = b^sharp a^sharp` and `N(z) = 0 => z = 0`, so it holds verbatim with `dagger` read as `sharp`.
+
 ## 2. Stage 1: cut grading (N01)
 
 For an admitted cut `J` and any generator `s`,
@@ -121,4 +123,5 @@ The report factors `K` (R3-C) and, for each declared threshold `mu`, computes th
 - The encoding `(S, C, L, J)` is supplied data; N01's scope sentence applies unchanged: no theorem here selects the catalogue, the observation or the cut for nature.
 - `R3-A` consumes N03 and N06. `R3-B` is new in this form; its ingredients are N03's invariance statement and N06's commuting criterion. `R3-C` consumes theorum/53 T1/T2/T3/T6. `R3-D` is a two-line consequence of N01. Finite row closure, invariant-subspace arguments and congruence diagonalization are standard mechanisms; no external priority is claimed for them.
 - Verified exactly: 9 named instances, random cut-square factorizations, planted indefinite and zero-diagonal forms, transpose-versus-dagger control, 7 mutation controls.
+- Continued in `r4/`: the repair step (R4-A/B/C), declared pairings and their basis covariance, and the YM-37 column pencil as the first real encoding.
 - Not claimed: a universal problem solver, a decision procedure for the supplied problem, any physical identification, RH, YM, or continuum statements.

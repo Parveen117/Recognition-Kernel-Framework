@@ -21,6 +21,8 @@ node research/structure_report/mutate.cjs
 
 A reviewed evidence change uses `--write`. The pinned evidence does not embed the runtime version string.
 
+`r4/` continues the packet: the repair step that adds exactly the channels the mark names (one step, idempotent, minimal), declared pairings with basis-covariant verdicts, and the YM-37 column pencil as the first real encoding — `node research/structure_report/r4/verify.cjs --check`.
+
 Use the engine directly:
 
 ```js

@@ -1,0 +1,24 @@
+{
+  "protocol": "RKF_STRUCTURE_REPAIR_MUTATIONS_R4",
+  "controls": [
+    {
+      "fault": "repair_with_forward_completion_instead_of_reversed",
+      "rejected": true,
+      "exit_code": 1,
+      "first_failure": "R4-A failed: repaired observer must be visible and local"
+    },
+    {
+      "fault": "ym37_pairing_silently_dropped",
+      "rejected": true,
+      "exit_code": 1,
+      "first_failure": "assertion"
+    },
+    {
+      "fault": "ym37_transfer_on_the_wrong_side",
+      "rejected": true,
+      "exit_code": 1,
+      "first_failure": "assertion"
+    }
+  ],
+  "live_files_modified": false
+}

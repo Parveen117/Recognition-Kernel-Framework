@@ -1,0 +1,238 @@
+{
+  "protocol": "RKF_STRUCTURE_REPAIR_R4",
+  "status": "PASS_EXACT_FINITE_CHECKS",
+  "check_count": 17,
+  "checks": [
+    "repair_emk_pair_observer_e1",
+    "repair_emk_pair_full_observer",
+    "repair_block_local_3",
+    "repair_one_way_flow_2",
+    "repair_iota_one_way_flow_2",
+    "repair_cut_faces_directed_4",
+    "repair_cut_faces_two_strengths_4",
+    "repair_cut_misaligned_observer_3",
+    "repair_turn_observer_2",
+    "declared_pairing_verdicts_are_basis_covariant",
+    "coordinate_dagger_is_not_basis_covariant",
+    "ym37_declared_data_is_a_symmetric_pencil_with_positive_pairing",
+    "ym37_transfer_is_self_sharp_but_not_self_dagger",
+    "ym37_boundary_with_insertion_under_declared_pairing",
+    "ym37_constant_coefficient_readout_under_declared_pairing",
+    "ym37_coordinate_dagger_shadow_is_a_spurious_mark",
+    "ym37_native_repair_costs_nothing"
+  ],
+  "counts": {
+    "repairs": 9,
+    "minimality_probes": 10,
+    "covariance_instances": 5
+  },
+  "results": {
+    "repairs": {
+      "emk_pair_observer_e1": {
+        "before": "HIDDEN_LOCAL",
+        "forward_rank": 2,
+        "repaired_rank": 2,
+        "cost_channels": 0,
+        "after": "VISIBLE_LOCAL",
+        "probes": [
+          [
+            1,
+            2,
+            false
+          ]
+        ]
+      },
+      "emk_pair_full_observer": {
+        "before": "VISIBLE_LOCAL",
+        "forward_rank": 2,
+        "repaired_rank": 2,
+        "cost_channels": 0,
+        "after": "VISIBLE_LOCAL",
+        "probes": []
+      },
+      "block_local_3": {
+        "before": "HIDDEN_LOCAL",
+        "forward_rank": 2,
+        "repaired_rank": 2,
+        "cost_channels": 0,
+        "after": "VISIBLE_LOCAL",
+        "probes": [
+          [
+            1,
+            2,
+            false
+          ]
+        ]
+      },
+      "one_way_flow_2": {
+        "before": "GLOBAL_RETURNING_MEMORY",
+        "forward_rank": 1,
+        "repaired_rank": 2,
+        "cost_channels": 1,
+        "after": "VISIBLE_LOCAL",
+        "probes": [
+          [
+            0,
+            1,
+            true
+          ]
+        ]
+      },
+      "iota_one_way_flow_2": {
+        "before": "GLOBAL_RETURNING_MEMORY",
+        "forward_rank": 1,
+        "repaired_rank": 2,
+        "cost_channels": 1,
+        "after": "VISIBLE_LOCAL",
+        "probes": [
+          [
+            0,
+            1,
+            true
+          ]
+        ]
+      },
+      "cut_faces_directed_4": {
+        "before": "GLOBAL_RETURNING_MEMORY",
+        "forward_rank": 2,
+        "repaired_rank": 4,
+        "cost_channels": 2,
+        "after": "VISIBLE_LOCAL",
+        "probes": [
+          [
+            2,
+            4,
+            false
+          ],
+          [
+            3,
+            4,
+            false
+          ]
+        ]
+      },
+      "cut_faces_two_strengths_4": {
+        "before": "GLOBAL_RETURNING_MEMORY",
+        "forward_rank": 2,
+        "repaired_rank": 4,
+        "cost_channels": 2,
+        "after": "VISIBLE_LOCAL",
+        "probes": [
+          [
+            2,
+            3,
+            true
+          ],
+          [
+            3,
+            3,
+            true
+          ]
+        ]
+      },
+      "cut_misaligned_observer_3": {
+        "before": "GLOBAL_RETURNING_MEMORY",
+        "forward_rank": 1,
+        "repaired_rank": 3,
+        "cost_channels": 2,
+        "after": "VISIBLE_LOCAL",
+        "probes": [
+          [
+            1,
+            2,
+            true
+          ],
+          [
+            2,
+            2,
+            true
+          ]
+        ]
+      },
+      "turn_observer_2": {
+        "before": "GLOBAL_RETURNING_MEMORY",
+        "forward_rank": 1,
+        "repaired_rank": 2,
+        "cost_channels": 1,
+        "after": "VISIBLE_LOCAL",
+        "probes": []
+      }
+    },
+    "ym37": {
+      "pairing_weights": [
+        "1",
+        "27/16",
+        "115/32",
+        "455/736",
+        "9/16",
+        "25/48",
+        "225/364",
+        "125/324"
+      ],
+      "boundary_with_insertion": {
+        "verdict": "HIDDEN_LOCAL",
+        "seed_rank": 2,
+        "forward_ladder": [
+          2,
+          4,
+          6
+        ],
+        "forward_rank": 6,
+        "invisible_directions": 2,
+        "dagger_extra": 0,
+        "returning_rank": 0
+      },
+      "constant_coefficient": {
+        "verdict": "HIDDEN_LOCAL",
+        "forward_rank": 7,
+        "invisible_directions": 1
+      },
+      "coordinate_dagger_shadow": {
+        "verdict": "GLOBAL_RETURNING_MEMORY",
+        "dagger_extra": 1,
+        "spurious_mark_energy": "1618373069/1180672000000",
+        "repair_cost": 1,
+        "label": "CONTROL: coordinate transpose on a non-label basis, not a Yang-Mills statement"
+      }
+    },
+    "coordinate_dagger_moved": {
+      "original_energy": "1",
+      "moved_without_pairing_energy": "25",
+      "moved_with_transported_pairing_energy": "1",
+      "original_seam": [
+        1,
+        0,
+        0
+      ],
+      "moved_without_pairing_seam": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "source_sha256": {
+    "repair.cjs": "fc4db4155e2a8b95c5a4b46911adf948c3c9f7fb972aea86ff0fefcee6f6362b",
+    "verify.cjs": "155250e9fc726d90ea80a156accefb8dc64efc40dddb22ee7632be9aa35af1b7",
+    "mutate.cjs": "9107143bbba9d6fb2593e8bf5b40cfa0d65dd92a23cc8581f08decdc6530d346",
+    "THEOREM.md": "6cbaf5b2e6ba2503ec4ee172ad3d7554c08fdcd2d606035e76281ec29722050b",
+    "README.md": "d2028d9913c256755046f4060e0771f4c06725ec26352685d029e71d23f24bc4",
+    "LINEAGE.json": "93811c50effb14384eb74c8bc0225b7bffad1c5066a1daca1a48e4bc8a6e1ba1",
+    "ym37_pencil_t2.json": "72050643c10d8869339d3cfc235dbd4889a62ca9a2ef05d741a849f9a3ae0691",
+    "../structure_report.cjs": "f834ea993fb1a73182da5184000d8a999c4cd320cbcf2afc807effcbedb99ae6",
+    "../instances.cjs": "83886caa5f14341f9b7907f00bdee2fa21278d179b9c6a694e04c8fed8689231",
+    "../../../operator_foundation/core/native_operator.cjs": "304963cccf4320d76dd36147e5c15ad579e9d0496c86fb1f942543bc692e06a3"
+  },
+  "scope": {
+    "general_theorems": "THEOREM.md",
+    "finite_declared_carrier": true,
+    "encoding_is_supplied_data": true,
+    "ym37_pencil_consumed_by_pin_not_rederived": true,
+    "yang_mills_gap_or_continuum_claim": false,
+    "primitive_hilbert_space": false,
+    "pairing_used_only_as_declared_cut_square": true,
+    "infinite_limit_invoked": false,
+    "exact_finite_tests_are_not_universal_proofs": true,
+    "runtime_string_pinned": false
+  }
+}
