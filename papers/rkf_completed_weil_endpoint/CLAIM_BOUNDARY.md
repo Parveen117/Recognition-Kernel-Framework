@@ -1,5 +1,34 @@
 # Claim Boundary for the Current Paper
 
+## SE49 innovations, response convergence and V_24, 13 October 2026
+
+[SE49](development/SE49_OBSERVER_INNOVATION_AND_CONVERGENCE.md) proves
+the exact two-scalar positivity window for a new actual reading, a
+finite response-error bound on Re w>1, and a quantitative limit on
+the actual integer-rate bank conditional on all-order positivity.
+The finite-pair error bound needs only the two finite positive pencils;
+passing to the global limit requires positivity at every order.
+
+The executed source certificate extends eta-zero positivity from V_16
+to V_24. Forty-eight scalar innovations are positive after an outward
+checked triangular basis change. The old source box and arithmetic
+remain unchanged. The same five-label gap is positive by SE47's
+finite augmented congruence, not by an independent entrywise gap
+enclosure. Small pivots and near-unit transformed margins are not
+native spectral gaps.
+
+The N=24 fitted response has an independent absolute q-error enclosure
+below 8.905e-60 at s=27. It is a single-point result with an error
+interval straddling zero, not a bound on eta or actual zero locations.
+No new zero disks or global zero ordering are certified. Thirty-two
+controls include nine negative controls; see [scope](development/SE49_SCOPE.md).
+
+Universal positive innovations remain unproved. The global source
+bound is still eta=1079/2000 with floor 1/492000; RH and the global
+eta-zero endpoint remain open. The noncoercive reference and SE48's
+finite-data masking example still apply. The inherited engine pin
+mismatch is reported separately and is not repinned to PASS.
+
 ## SE48 spectral continuation and local actual zeros, 13 October 2026
 
 [SE48](development/SE48_DIAGONAL_SPECTRAL_PENCIL.md) derives the acquired

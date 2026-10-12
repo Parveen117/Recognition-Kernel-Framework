@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 13 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE48 (SE34--SE38 and SE41--SE48 carry scoped observer readings; SE48 adds the spectral parameter to the existing 1+4 operator and certifies five actual local critical-line zeros; the universal RH source sign remains open).
+Index update: 13 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE49 (SE34--SE38 and SE41--SE49 carry scoped observer readings; SE49 gives scalar extension conditions, quantitative response convergence and eta-zero source positivity on V_24; the universal RH source sign remains open).
 
 ## Active operator-engine route
 
@@ -10,6 +10,28 @@ Index update: 13 October 2026, operator mathematics version 0.5 with additive re
 Read the [native primitive order](operator_foundation/theory/NATIVE_PRIMITIVE_ORDER.md), [algebra and observer contracts](operator_foundation/theory/01_NATIVE_ALGEBRA.md), [completion and memory](operator_foundation/theory/02_COMPLETION_AND_MEMORY.md), [Laurent/jet repair](operator_foundation/theory/NATIVE_LAURENT_JET_REPAIR.md), [Pāṇinian symbolic compiler](operator_foundation/theory/PANINIAN_OPERATOR_COMPILER.md), [automatic normal basis and regular action](operator_foundation/theory/AUTOMATIC_REGULAR_MODEL.md), then [weighted operator completion and certified response](operator_foundation/theory/WEIGHTED_OPERATOR_COMPLETION.md).
 
 The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [source index](operator_foundation/SOURCE_INDEX.md), and [master certificate](operator_foundation/audit/MASTER_CERTIFICATE.json) bind this route. The public source archive at `operator_foundation/sources/rkf_reference` includes the corrected T50/T54 edition and full Morphic/Pāṇinian source directories. Use that corrected source where the older root version differs. This does not silently overwrite old source-pinned files.
+
+## Observer innovations SE49: quantitative convergence and eta zero on V_24
+
+[SE49](papers/rkf_completed_weil_endpoint/development/SE49_OBSERVER_INNOVATION_AND_CONVERGENCE.md)
+reduces the next-reading sign decision to two scalar innovations and
+proves explicit response-error bounds. A quantitative analytic limit
+uses the actual integer-rate bank; its global conclusion still requires
+positive innovations at every order. Outward basis transport extends
+the actual eta-zero source certificate from V_16 to V_24 without
+changing the source, inherited interval arithmetic or five-label output.
+
+Four theorem groups and 32 controls, including 9 negative controls,
+are recorded in
+[scope](papers/rkf_completed_weil_endpoint/development/SE49_SCOPE.md),
+[sources](papers/rkf_completed_weil_endpoint/development/SE49_SOURCE_RECORD.md),
+[pins](papers/rkf_completed_weil_endpoint/development/SE49_SOURCE_PINS.json),
+[replay](proof_lab/observer_innovation_convergence.py) and
+[readings](proof_lab/OBSERVER_INNOVATION_CONVERGENCE_RESULT.json).
+All 48 finite innovations are positive. An independent held-out response
+has absolute error below 8.905e-60 at one declared test point. This is
+not a global eta estimate or a proof of all-order positivity. RH and
+the inherited global shift frontier remain unchanged.
 
 ## Diagonal spectral pencil SE48: source poles and five actual local zeros
 

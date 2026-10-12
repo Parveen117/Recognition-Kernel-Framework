@@ -8,7 +8,27 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current spectral development: SE48, 13 October 2026
+## Current development: SE49, 13 October 2026
+
+[Observer innovations and quantitative convergence](development/SE49_OBSERVER_INNOVATION_AND_CONVERGENCE.md)
+gives exact scalar extension conditions, finite response-error bounds
+and a quantitative conditional limit on the actual integer-rate bank.
+Outward basis transport certifies eta-zero source positivity on V_24,
+extending the previous V_16 frontier. All 48 finite scalar innovations
+are positive; the same five-label gap is positive by the retained
+finite source congruence. An independent response at s=27 has absolute
+error below 8.905e-60 for N=24.
+
+Four theorem groups and 32 controls, including 9 negative controls,
+have separate scopes in [scope](development/SE49_SCOPE.md),
+[sources](development/SE49_SOURCE_RECORD.md),
+[pins](development/SE49_SOURCE_PINS.json) and
+[readings](../../proof_lab/OBSERVER_INNOVATION_CONVERGENCE_RESULT.json).
+The single-point error is not a global eta bound. All-order positivity
+remains unproved, so the conditional convergence theorem does not
+complete RH. The inherited global source bound is unchanged.
+
+## Spectral development: SE48, 13 October 2026
 
 [Spectral parameter and actual diagonal zero certificates](development/SE48_DIAGONAL_SPECTRAL_PENCIL.md)
 extends the existing 1+4 operator to a meromorphic spectral family whose

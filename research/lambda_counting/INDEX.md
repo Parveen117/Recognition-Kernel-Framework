@@ -8,6 +8,22 @@ The shared operator engine stays in
 [operator_foundation](../../operator_foundation/README.md).
 
 The current application is
+**[SE49: observer innovations and quantitative convergence](../../papers/rkf_completed_weil_endpoint/development/SE49_OBSERVER_INNOVATION_AND_CONVERGENCE.md)**.
+Two scalar conditions decide each positive extension. The actual
+integer-rate bank has a quantitative response limit if those signs
+persist at every order. A certified basis change extends complete-source
+eta-zero positivity to V_24, with 48 positive innovations and a held-out
+single-point response-error enclosure below 8.905e-60.
+Four theorem groups and 32 controls, including 9 negative controls,
+have separate scopes in
+[scope](../../papers/rkf_completed_weil_endpoint/development/SE49_SCOPE.md),
+[sources](../../papers/rkf_completed_weil_endpoint/development/SE49_SOURCE_RECORD.md),
+[pins](../../papers/rkf_completed_weil_endpoint/development/SE49_SOURCE_PINS.json) and
+[readings](../../proof_lab/OBSERVER_INNOVATION_CONVERGENCE_RESULT.json).
+The native order and five-label architecture are retained. The universal
+source sign and global eta-zero endpoint remain open.
+
+The preceding application is
 **[SE48: spectral continuation and actual diagonal zeros](../../papers/rkf_completed_weil_endpoint/development/SE48_DIAGONAL_SPECTRAL_PENCIL.md)**.
 Actual source readings produce a positive finite pencil with a retained
 1+4 spectral reduction. Its pole-guided complex observations certify
