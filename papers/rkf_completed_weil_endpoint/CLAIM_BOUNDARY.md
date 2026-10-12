@@ -68,7 +68,7 @@ stated targets; its finite checks do not stand in for the written
 derivations, and it issues no certificate for SE34's general theorems.
 Earlier certificates and application boundaries are unchanged.
 
-## SE34 development draft, 12 October 2026
+## SE34 dependency feedback and unit memory, 12 October 2026
 
 [SE34](../../research/lambda_counting/SE34_DEPENDENCY_FEEDBACK_AND_UNIT_MEMORY.md)
 contains written derivations for dependency-ordered inversion, finite
@@ -82,9 +82,9 @@ The existence of a supplied polynomial cut inverse is explicit. It is
 not inferred from an invertible Jacobian alone, and singular cut fibres
 are not declared solved. No convergence at arbitrary nonzero numerical
 Lambda, RH result or curvature theorem follows from formal unit lifting.
-Certification, executable packets, source pins and verification runs
-are deferred; no SE34 certificate or PASS is claimed. Earlier certificates
-and the existing certificate table are unchanged.
+The observer certificate decodes saved banks for their stated targets;
+its finite checks do not stand in for the written derivations. Earlier
+certificates and the existing certificate table are unchanged.
 
 ## SE33 joint and nonlinear counting, 12 October 2026
 

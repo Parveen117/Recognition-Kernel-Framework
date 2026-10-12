@@ -1,0 +1,5284 @@
+{
+  "schema": "rkf.lambda-unit-memory-lifting.v1",
+  "date": "2026-10-12",
+  "status": "PASS_DEPENDENCY_FEEDBACK_AND_UNIT_MEMORY_LIFTING",
+  "theorem_count": 4,
+  "proposition_count": 1,
+  "checks": [
+    {
+      "name": "dependency_graph_is_read_from_the_saved_bank",
+      "status": "PASS"
+    },
+    {
+      "name": "dependency_order_solves_the_relabelled_example_exactly",
+      "status": "PASS"
+    },
+    {
+      "name": "inverse_is_two_sided_on_rational_and_unit_valued_states",
+      "status": "PASS"
+    },
+    {
+      "name": "every_valid_order_gives_the_same_inverse",
+      "status": "PASS"
+    },
+    {
+      "name": "relabelling_transports_equations_and_graph_together",
+      "status": "PASS"
+    },
+    {
+      "name": "increasing_label_order_is_refused_and_would_misdecode",
+      "status": "PASS"
+    },
+    {
+      "name": "fixed_counting_order_condition_rejects_the_same_bank",
+      "status": "PASS"
+    },
+    {
+      "name": "acyclic_infinite_raising_has_no_finite_support_preimage",
+      "status": "PASS"
+    },
+    {
+      "name": "weighted_graph_has_a_cycle_whose_cut_graph_is_acyclic",
+      "status": "PASS"
+    },
+    {
+      "name": "feedback_iteration_reaches_the_stated_series_from_every_seed",
+      "status": "PASS"
+    },
+    {
+      "name": "sharper_walk_bound_is_attained_and_sufficient",
+      "status": "PASS"
+    },
+    {
+      "name": "one_update_before_the_walk_bound_misses_the_last_layer",
+      "status": "PASS"
+    },
+    {
+      "name": "inverse_response_is_the_finite_geometric_sum",
+      "status": "PASS"
+    },
+    {
+      "name": "zero_weight_cycle_is_refused_and_is_not_injective",
+      "status": "PASS"
+    },
+    {
+      "name": "raising_lift_retains_new_count_support",
+      "status": "PASS"
+    },
+    {
+      "name": "self_return_lift_counts_the_return_coefficients",
+      "status": "PASS"
+    },
+    {
+      "name": "nth_iterate_agrees_through_degree_n_and_not_beyond",
+      "status": "PASS"
+    },
+    {
+      "name": "an_available_cut_inverse_lifts_where_the_graph_condition_fails",
+      "status": "PASS"
+    },
+    {
+      "name": "cut_inverse_lift_agrees_with_the_feedback_fixed_point",
+      "status": "PASS"
+    },
+    {
+      "name": "wrong_or_missing_cut_inverse_is_refused",
+      "status": "PASS"
+    },
+    {
+      "name": "null_cut_leaves_the_highest_retained_layer_unread",
+      "status": "PASS"
+    },
+    {
+      "name": "formal_inverse_is_not_a_numerical_unit_inverse",
+      "status": "PASS"
+    },
+    {
+      "name": "each_residual_coefficient_supplies_the_next_source_coefficient",
+      "status": "PASS"
+    },
+    {
+      "name": "residual_without_the_cut_response_inverse_misdecodes",
+      "status": "PASS"
+    },
+    {
+      "name": "order_doubling_matches_the_worked_return_example",
+      "status": "PASS"
+    },
+    {
+      "name": "order_doubling_uses_at_most_ceil_log2_corrections",
+      "status": "PASS"
+    },
+    {
+      "name": "reversed_operator_order_in_the_inverse_response_loses_the_doubling",
+      "status": "PASS"
+    },
+    {
+      "name": "frame_transport_moves_the_lifted_solution_and_changes_the_graph",
+      "status": "PASS"
+    },
+    {
+      "name": "every_archived_certificate_redecodes_from_its_saved_readings",
+      "status": "PASS"
+    }
+  ],
+  "controls": [
+    "increasing_label_order_is_refused_and_would_misdecode",
+    "fixed_counting_order_condition_rejects_the_same_bank",
+    "acyclic_infinite_raising_has_no_finite_support_preimage",
+    "one_update_before_the_walk_bound_misses_the_last_layer",
+    "zero_weight_cycle_is_refused_and_is_not_injective",
+    "nth_iterate_agrees_through_degree_n_and_not_beyond",
+    "wrong_or_missing_cut_inverse_is_refused",
+    "null_cut_leaves_the_highest_retained_layer_unread",
+    "formal_inverse_is_not_a_numerical_unit_inverse",
+    "residual_without_the_cut_response_inverse_misdecodes",
+    "reversed_operator_order_in_the_inverse_response_loses_the_doubling"
+  ],
+  "check_count": 29,
+  "negative_control_count": 11,
+  "inherited_source_pins_checked": 130,
+  "certificate_rule": "The recorded observer reading decoded for its stated target",
+  "construction": {
+    "carrier": "Finite counting sectors over Q[Lambda] and their retained unit quotients",
+    "source": "Saved joint banks of the operation, a supplied cut-inverse bank where stated, and the target state",
+    "zero": "Typed cut operation; additive neutrals retain their separate types",
+    "primitive_metric": false,
+    "analytic_derivative_assumed": false,
+    "numerical_unit_value_assumed": false,
+    "RH_development": false,
+    "curvature_developed": false
+  },
+  "finite_ranges": {
+    "dependency_labels": 3,
+    "feedback_unit_depths": "0..4",
+    "raising_unit_depth": 5,
+    "self_return_unit_depth": 6,
+    "doubling_unit_depths": [
+      0,
+      1,
+      3,
+      7
+    ],
+    "transport_matrix_size": 2
+  },
+  "details": {
+    "dependency_order_certificate": {
+      "target": "Source of F=x-H with H_5=(1+Lambda)x_0^2 and H_2=x_5x_0 on labels 0,2,5",
+      "operation": {
+        "input_labels": [
+          0,
+          2,
+          5
+        ],
+        "output_labels": [
+          0,
+          2,
+          5
+        ],
+        "degree": 2,
+        "constant": {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        "kernels": [
+          {
+            "arity": 1,
+            "readings": [
+              {
+                "inputs": [
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  5
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X",
+                        "X",
+                        "X",
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "arity": 2,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X",
+                        "X",
+                        "X",
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "-1",
+                        "0"
+                      ]
+                    ],
+                    [
+                      [
+                        "L",
+                        "X",
+                        "X",
+                        "X",
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "-1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  5
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "-1/2",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  5
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  5,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "-1/2",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  5,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  5,
+                  5
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "target_state": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "2/3",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X",
+              "X"
+            ],
+            [
+              "-1/2",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X",
+              "X",
+              "X",
+              "X",
+              "X"
+            ],
+            [
+              "3",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "X",
+              "X",
+              "X",
+              "X",
+              "X"
+            ],
+            [
+              "1/4",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "decoded": {
+        "order": [
+          0,
+          5,
+          2
+        ],
+        "edges": [
+          {
+            "from": 0,
+            "to": 2,
+            "weight": 0
+          },
+          {
+            "from": 0,
+            "to": 5,
+            "weight": 0
+          },
+          {
+            "from": 5,
+            "to": 2,
+            "weight": 0
+          }
+        ],
+        "state": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "2/3",
+                "0"
+              ]
+            ],
+            [
+              [
+                "X",
+                "X"
+              ],
+              [
+                "97/54",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "X",
+                "X"
+              ],
+              [
+                "25/54",
+                "0"
+              ]
+            ],
+            [
+              [
+                "X",
+                "X",
+                "X",
+                "X",
+                "X"
+              ],
+              [
+                "31/9",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "X",
+                "X",
+                "X",
+                "X",
+                "X"
+              ],
+              [
+                "25/36",
+                "0"
+              ]
+            ]
+          ]
+        }
+      }
+    },
+    "feedback_cycle_certificate": {
+      "target": "Source of the two-label feedback cycle (x_0-x_2^2, x_2-Lambda x_0)",
+      "operation": {
+        "input_labels": [
+          0,
+          2
+        ],
+        "output_labels": [
+          0,
+          2
+        ],
+        "degree": 2,
+        "constant": {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        "kernels": [
+          {
+            "arity": 1,
+            "readings": [
+              {
+                "inputs": [
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ],
+                    [
+                      [
+                        "L",
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "-1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "arity": 2,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "-1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "target_state": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "1/2",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X",
+              "X"
+            ],
+            [
+              "-1/3",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "unit_memory_through": 3,
+      "seed": {
+        "from": "*",
+        "to": "*",
+        "terms": []
+      },
+      "decoded": {
+        "edges": [
+          {
+            "from": 0,
+            "to": 2,
+            "weight": 1
+          },
+          {
+            "from": 2,
+            "to": 0,
+            "weight": 0
+          }
+        ],
+        "update_bound": 8,
+        "sharp_bound": 8,
+        "state": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "11/18",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L"
+              ],
+              [
+                "-11/27",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L"
+              ],
+              [
+                "209/324",
+                "0"
+              ]
+            ],
+            [
+              [
+                "X",
+                "X"
+              ],
+              [
+                "-1/3",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "-451/486",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "X",
+                "X"
+              ],
+              [
+                "11/18",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "X",
+                "X"
+              ],
+              [
+                "-11/27",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "X",
+                "X"
+              ],
+              [
+                "209/324",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "trace": [
+          {
+            "from": "*",
+            "to": "*",
+            "terms": []
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "-1/3",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "11/18",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "-1/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1/2",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "11/18",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-1/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "1/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "-1/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "11/18",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "11/18",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-11/27",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "121/324",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "-1/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "11/18",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "-1/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1/4",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "11/18",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-11/27",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "193/324",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "-1/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-31/54",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "11/18",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "-11/27",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "121/324",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "11/18",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-11/27",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "209/324",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "-1/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-121/162",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "11/18",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "-11/27",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "193/324",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "11/18",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-11/27",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "209/324",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "-1/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-145/162",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "11/18",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "-11/27",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "209/324",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "11/18",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-11/27",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "209/324",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "-1/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-451/486",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "11/18",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "-11/27",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "209/324",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    "raising_lift_certificate": {
+      "target": "Retained inverse of I-Lambda X at p_0",
+      "operation": {
+        "input_labels": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "output_labels": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "degree": 1,
+        "constant": {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        "kernels": [
+          {
+            "arity": 1,
+            "readings": [
+              {
+                "inputs": [
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ],
+                    [
+                      [
+                        "L",
+                        "X"
+                      ],
+                      [
+                        "-1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ],
+                    [
+                      [
+                        "L",
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "-1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ],
+                    [
+                      [
+                        "L",
+                        "X",
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "-1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  3
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X",
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ],
+                    [
+                      [
+                        "L",
+                        "X",
+                        "X",
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "-1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  4
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X",
+                        "X",
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ],
+                    [
+                      [
+                        "L",
+                        "X",
+                        "X",
+                        "X",
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "-1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  5
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X",
+                        "X",
+                        "X",
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ],
+                    [
+                      [
+                        "L",
+                        "X",
+                        "X",
+                        "X",
+                        "X",
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "-1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "cut_inverse": {
+        "input_labels": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "output_labels": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "degree": 1,
+        "constant": {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        "kernels": [
+          {
+            "arity": 1,
+            "readings": [
+              {
+                "inputs": [
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  1
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  3
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X",
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  4
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X",
+                        "X",
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  5
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X",
+                        "X",
+                        "X",
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "target_state": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "1",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "unit_memory_through": 5,
+      "decoded": {
+        "state": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "X"
+              ],
+              [
+                "1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "X",
+                "X"
+              ],
+              [
+                "1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "X",
+                "X",
+                "X"
+              ],
+              [
+                "1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L",
+                "X",
+                "X",
+                "X",
+                "X"
+              ],
+              [
+                "1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L",
+                "L",
+                "X",
+                "X",
+                "X",
+                "X",
+                "X"
+              ],
+              [
+                "1",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "trace": [
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    "self_return_certificate": {
+      "target": "Retained source of x-Lambda x^2",
+      "operation": {
+        "input_labels": [
+          0
+        ],
+        "output_labels": [
+          0
+        ],
+        "degree": 2,
+        "constant": {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        "kernels": [
+          {
+            "arity": 1,
+            "readings": [
+              {
+                "inputs": [
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "arity": 2,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "L"
+                      ],
+                      [
+                        "-1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "cut_inverse": {
+        "input_labels": [
+          0
+        ],
+        "output_labels": [
+          0
+        ],
+        "degree": 1,
+        "constant": {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        "kernels": [
+          {
+            "arity": 1,
+            "readings": [
+              {
+                "inputs": [
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "target_state": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "1",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "unit_memory_through": 6,
+      "decoded": {
+        "state": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L"
+              ],
+              [
+                "1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L"
+              ],
+              [
+                "2",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "5",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "14",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "42",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "132",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "trace": [
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "4",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "14",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "26",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "44",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "14",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "42",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "100",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "14",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "42",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "132",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    "self_cycle_lift_certificate": {
+      "target": "Retained source of -x+Lambda x^3",
+      "operation": {
+        "input_labels": [
+          0
+        ],
+        "output_labels": [
+          0
+        ],
+        "degree": 3,
+        "constant": {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        "kernels": [
+          {
+            "arity": 1,
+            "readings": [
+              {
+                "inputs": [
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "-1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "arity": 2,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              }
+            ]
+          },
+          {
+            "arity": 3,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "L"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "cut_inverse": {
+        "input_labels": [
+          0
+        ],
+        "output_labels": [
+          0
+        ],
+        "degree": 1,
+        "constant": {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        "kernels": [
+          {
+            "arity": 1,
+            "readings": [
+              {
+                "inputs": [
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "-1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "target_state": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "3/2",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "unit_memory_through": 4,
+      "decoded": {
+        "state": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "-3/2",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L"
+              ],
+              [
+                "-27/8",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L"
+              ],
+              [
+                "-729/32",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "-6561/32",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "-1082565/512",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "trace": [
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-3/2",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-3/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-27/8",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-3/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-27/8",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-729/32",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-6561/128",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-19683/512",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-3/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-27/8",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-729/32",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-6561/32",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-137781/128",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-3/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-27/8",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-729/32",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-6561/32",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-1082565/512",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    "residual_layer_certificate": {
+      "target": "Retained source of x-Lambda x^2",
+      "operation": {
+        "input_labels": [
+          0
+        ],
+        "output_labels": [
+          0
+        ],
+        "degree": 2,
+        "constant": {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        "kernels": [
+          {
+            "arity": 1,
+            "readings": [
+              {
+                "inputs": [
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "arity": 2,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "L"
+                      ],
+                      [
+                        "-1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "cut_inverse": {
+        "input_labels": [
+          0
+        ],
+        "output_labels": [
+          0
+        ],
+        "degree": 1,
+        "constant": {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        "kernels": [
+          {
+            "arity": 1,
+            "readings": [
+              {
+                "inputs": [
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "target_state": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "1",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "unit_memory_through": 6,
+      "decoded": {
+        "state": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L"
+              ],
+              [
+                "1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L"
+              ],
+              [
+                "2",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "5",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "14",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "42",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "132",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "trace": [
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "2",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "5",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "14",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "14",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "42",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "14",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "42",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "132",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    "order_doubling_certificate": {
+      "target": "Source of the two-label feedback cycle",
+      "operation": {
+        "input_labels": [
+          0,
+          2
+        ],
+        "output_labels": [
+          0,
+          2
+        ],
+        "degree": 2,
+        "constant": {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        "kernels": [
+          {
+            "arity": 1,
+            "readings": [
+              {
+                "inputs": [
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ],
+                    [
+                      [
+                        "L",
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "-1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "arity": 2,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "-1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "cut_inverse": {
+        "input_labels": [
+          0,
+          2
+        ],
+        "output_labels": [
+          0,
+          2
+        ],
+        "degree": 2,
+        "constant": {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        "kernels": [
+          {
+            "arity": 1,
+            "readings": [
+              {
+                "inputs": [
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "arity": 2,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "target_state": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "1/2",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X",
+              "X"
+            ],
+            [
+              "-1/3",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "unit_memory_through": 7,
+      "decoded": {
+        "state": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "11/18",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L"
+              ],
+              [
+                "-11/27",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L"
+              ],
+              [
+                "209/324",
+                "0"
+              ]
+            ],
+            [
+              [
+                "X",
+                "X"
+              ],
+              [
+                "-1/3",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "-451/486",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "X",
+                "X"
+              ],
+              [
+                "11/18",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "1529/972",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "X",
+                "X"
+              ],
+              [
+                "-11/27",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "-3949/1458",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "X",
+                "X"
+              ],
+              [
+                "209/324",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "171479/34992",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L",
+                "X",
+                "X"
+              ],
+              [
+                "-451/486",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L",
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "-1426051/157464",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L",
+                "L",
+                "X",
+                "X"
+              ],
+              [
+                "1529/972",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L",
+                "L",
+                "L",
+                "X",
+                "X"
+              ],
+              [
+                "-3949/1458",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L",
+                "L",
+                "L",
+                "L",
+                "L",
+                "X",
+                "X"
+              ],
+              [
+                "171479/34992",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "trace": [
+          {
+            "state": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "11/18",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "-1/3",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "residual_order": 1
+          },
+          {
+            "state": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "11/18",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "-11/27",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "22/81",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "-1/3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-44/243",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "11/18",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "88/729",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "-11/27",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-176/2187",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "22/81",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "352/6561",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "-44/243",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-704/19683",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "88/729",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "-176/2187",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "352/6561",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "residual_order": 2
+          },
+          {
+            "state": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "11/18",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "-11/27",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "209/324",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "-1/3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-451/486",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "11/18",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "1529/972",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "-11/27",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-3949/1458",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "209/324",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "124949/26244",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "-451/486",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-110297/13122",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "1529/972",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "-3949/1458",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "124949/26244",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "residual_order": 6
+          },
+          {
+            "state": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "11/18",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "-11/27",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "209/324",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "-1/3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-451/486",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "11/18",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "1529/972",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "-11/27",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-3949/1458",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "209/324",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "171479/34992",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "-451/486",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-1426051/157464",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "1529/972",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "-3949/1458",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "L",
+                    "X",
+                    "X"
+                  ],
+                  [
+                    "171479/34992",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "residual_order": "none through retained depth"
+          }
+        ],
+        "corrections": 3
+      }
+    },
+    "transport_certificate": {
+      "target": "Source in transported frames",
+      "operation": {
+        "input_labels": [
+          0,
+          2
+        ],
+        "output_labels": [
+          0,
+          2
+        ],
+        "degree": 2,
+        "constant": {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        "kernels": [
+          {
+            "arity": 1,
+            "readings": [
+              {
+                "inputs": [
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "2",
+                        "0"
+                      ]
+                    ],
+                    [
+                      [
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ],
+                    [
+                      [
+                        "L",
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "-1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "-2",
+                        "0"
+                      ]
+                    ],
+                    [
+                      [
+                        "L",
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "arity": 2,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": []
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "-2",
+                        "0"
+                      ]
+                    ],
+                    [
+                      [
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "-1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "cut_inverse": {
+        "input_labels": [
+          0,
+          2
+        ],
+        "output_labels": [
+          0,
+          2
+        ],
+        "degree": 2,
+        "constant": {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        "kernels": [
+          {
+            "arity": 1,
+            "readings": [
+              {
+                "inputs": [
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "-1/2",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ],
+                    [
+                      [
+                        "X",
+                        "X"
+                      ],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "arity": 2,
+            "readings": [
+              {
+                "inputs": [
+                  0,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1/4",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  0,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "-1/2",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  0
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "-1/2",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "inputs": [
+                  2,
+                  2
+                ],
+                "response": {
+                  "from": "*",
+                  "to": "*",
+                  "terms": [
+                    [
+                      [],
+                      [
+                        "1",
+                        "0"
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "target_state": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "1",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X",
+              "X"
+            ],
+            [
+              "1/6",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "unit_memory_through": 3,
+      "U": [
+        [
+          "1",
+          "1"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "V": [
+        [
+          "2",
+          "0"
+        ],
+        [
+          "1",
+          "1"
+        ]
+      ],
+      "decoded": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "5/18",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L"
+            ],
+            [
+              "11/54",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L"
+            ],
+            [
+              "77/324",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X",
+              "X"
+            ],
+            [
+              "-1/3",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L"
+            ],
+            [
+              "-275/972",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "X",
+              "X"
+            ],
+            [
+              "11/18",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "X",
+              "X"
+            ],
+            [
+              "-11/27",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L",
+              "X",
+              "X"
+            ],
+            [
+              "209/324",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "transported_edges": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          2,
+          0
+        ],
+        [
+          2,
+          0,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "evidence": {
+    "general_results": "Four written derivations and the frame-transport identity",
+    "executable": "Exact recorded-reading decoding and counterexamples using unchanged canonical engines",
+    "formal_proof_assistant": false,
+    "external_review": false,
+    "whole_engine_pass": false
+  },
+  "not_claimed": [
+    "convergence after substituting a nonzero numerical unit value",
+    "inversion on an infinite acyclic graph within finite support",
+    "a manufactured inverse for a singular or multi-branch cut",
+    "recovery from unmodelled noise",
+    "a complexity bound independent of support, degree or coefficient size",
+    "new RH or curvature result",
+    "novelty priority for triangular inversion, formal inverse lifting or order doubling"
+  ]
+}

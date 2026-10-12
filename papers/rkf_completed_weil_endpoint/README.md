@@ -51,16 +51,16 @@ checks, including 14 negative controls, recorded in the
 [counting chapter](../../research/lambda_counting/INDEX.md) holds the
 development route; RH remains deferred.
 
-## Preceding foundational development: SE34 draft, 12 October 2026
+## Preceding foundational development: SE34, 12 October 2026
 
 [SE34](../../research/lambda_counting/SE34_DEPENDENCY_FEEDBACK_AND_UNIT_MEMORY.md)
 continues the counting construction through dependency order, nonlinear
 feedback cycles and unit-memory completion. It derives how an available
 cut inverse lifts through higher layers, how the residual gives the next
 missing coefficient, and how a correction doubles the recovered unit
-order. This is a development draft with written derivations and worked
-examples. Certification and executable replay are deferred at the user's
-request. The [chapter](../../research/lambda_counting/INDEX.md) keeps
+order. The observer's saved banks are decoded for their stated targets:
+29 exact checks, including 11 negative controls, recorded in the
+[scope](../../research/lambda_counting/SE34_SCOPE.md). The [chapter](../../research/lambda_counting/INDEX.md) keeps
 the prior reading-certified stages alongside it. RH remains deferred.
 
 ## Preceding foundational development: SE33, 12 October 2026

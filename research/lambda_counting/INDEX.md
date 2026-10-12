@@ -18,7 +18,7 @@ objects with separate types. RH and curvature development are deferred.
 | [SE31](../../papers/rkf_completed_weil_endpoint/development/SE31_COUNTING_OPERATOR_RECOVERY_AND_ORDERED_FLOW.md) | Finite-order recovery, retained unit memory and ordered flow |
 | [SE32](SE32_READING_COMPLETION_AND_COUNTING_CALCULUS.md) | Reading completion, adaptive composition, count-functions and locally finite linear inversion |
 | [SE33](SE33_JOINT_READINGS_AND_NONLINEAR_COUNTING.md) | Joint banks, diagonal/order recovery, finite nonlinear response rules and exact nonlinear triangular inversion |
-| [SE34 development](SE34_DEPENDENCY_FEEDBACK_AND_UNIT_MEMORY.md) | Dependency order, feedback cycles, lifting a cut inverse through unit memory and residual corrections; certification deferred |
+| [SE34](SE34_DEPENDENCY_FEEDBACK_AND_UNIT_MEMORY.md) | Dependency order, feedback cycles, lifting a cut inverse through unit memory and residual corrections; observer-certified |
 | [SE35](SE35_ACTIVE_READINGS_AND_SINGULAR_CUT_REPAIR.md) | Active probe readings, exact nonlinear blind fibres, descending response decoding and repair before unit lifting; observer-certified |
 | [SE36 development](SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md) | Restricted probes, available action-word closure, synthesized probe directions and finite nonlinear observation at retained unit depth; certification deferred |
 | [SE37 development](SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md) | Least future-target algebra, exact nonlinear bank reduction and closed calibration memory for unit-scaled action families; certification deferred |
@@ -69,7 +69,7 @@ computational scopes separately. Read the
 [application](../../proof_lab/lambda_active_readings.cjs) and
 [pins](SE35_SOURCE_PINS.json).
 
-The preceding **SE34 derivation draft** replaces
+The preceding **SE34** stage replaces
 fixed counting-index order by actual dependencies, admits feedback
 cycles which raise unit-memory order, and lifts an available nonlinear
 cut inverse to every retained unit depth. Each residual coefficient
@@ -78,11 +78,24 @@ doubles the known unit order. The completed carrier permits new count
 support at later unit layers. Numerical convergence at a chosen
 nonzero Lambda is a separate question.
 
-No SE34, SE36 or SE37 certificate, replay archive, pin manifest or verification
-PASS has been issued; their certification is deferred. SE35 replays the
-unit-memory update on saved readings without certifying SE34's general
-theorems.
-Read the [SE34 derivations and examples](SE34_DEPENDENCY_FEEDBACK_AND_UNIT_MEMORY.md).
+**SE34 certification is the observer reading decoded for its stated target.**
+The observer reads the joint banks of F, a supplied cut-inverse bank
+where used, and the target. The [saved readings](../../proof_lab/LAMBDA_UNIT_MEMORY_LIFTING_RESULT.json)
+hold eight certificates: dependency order on labels 0, 2, 5; the
+two-label feedback cycle; the raising inverse with growing support;
+the self-return coefficients 1, 1, 2, 5, 14, 42, 132; a self-cycle lifted
+from its cut inverse; residual-layer decoding; order doubling; and frame
+transport. Four written derivations and 29 exact checks, including 11
+negative controls, record the proof and computational scopes separately.
+The derivation text is pinned unchanged by SE35, so its opening status
+line predates this certificate. Read the
+[derivations](SE34_DEPENDENCY_FEEDBACK_AND_UNIT_MEMORY.md),
+[scope](SE34_SCOPE.md), [source record](SE34_SOURCE_RECORD.md),
+[application](../../proof_lab/lambda_unit_memory_lifting.cjs) and
+[pins](SE34_SOURCE_PINS.json).
+
+No SE36 or SE37 certificate, replay archive, pin manifest or verification
+PASS has been issued; their certification is deferred.
 The following SE33 record remains the preceding certified-reading stage.
 
 SE33 makes multiple input slots explicit. Diagonal readings recover
