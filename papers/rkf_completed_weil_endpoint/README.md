@@ -8,7 +8,25 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current observer development: SE41, 13 October 2026
+## Current counting development: SE42, 13 October 2026
+
+[Counting curvature and observer memory](../../research/lambda_counting/SE42_COUNTING_CURVATURE_AND_OBSERVER_MEMORY.md)
+completes the curvature construction deferred by the counting chapter.
+It derives connection curvature from the counting product and the
+ordered response lifts D_i+A_i, then proves frame/direction covariance,
+formal path independence, Bianchi compatibility and the moving cut's
+complement-return correction. Whole labelled path readings recover the
+curvature with an exact unit-depth law.
+
+Five written theorem groups and 30 exact controls, including 10 negative
+controls, retain the distinction between a flat cut and a curved source.
+This construction has no thermodynamic connection or primitive metric
+as a premise. The actual RH source, global eta and V_16 certificate are
+unchanged. See [scope](../../research/lambda_counting/SE42_SCOPE.md),
+[sources](../../research/lambda_counting/SE42_SOURCE_RECORD.md) and
+[readings](../../proof_lab/COUNTING_CURVATURE_RESULT.json).
+
+## Observer feedback development: SE41, 13 October 2026
 
 [Ordered return and moving-cut feedback](../../research/lambda_counting/SE41_ORDERED_RETURN_AND_MOVING_CUT_FEEDBACK.md)
 develops the native thermo interpretation of the supplied correction idea.

@@ -1,0 +1,1506 @@
+{
+  "stage": "SE42",
+  "author": "Monty",
+  "labels": [
+    "Lambda",
+    "count_1",
+    "count_2",
+    "count_3",
+    "step_a",
+    "step_b"
+  ],
+  "scope": "Exact supplied counting-coordinate observer readings; formal step coefficients only. No physical acquisition, RH sign or numerical exponential convergence.",
+  "central_return_through_step_degree_3": [
+    [
+      [
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        },
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          "coefficient": "1"
+        },
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            2,
+            2
+          ],
+          "coefficient": "1/2"
+        },
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            3,
+            3
+          ],
+          "coefficient": "1/6"
+        }
+      ]
+    ]
+  ],
+  "noncentral_return": [
+    [
+      [
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        },
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          "coefficient": "1"
+        },
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            2,
+            2
+          ],
+          "coefficient": "1"
+        }
+      ],
+      [
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            2,
+            1
+          ],
+          "coefficient": "-1"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            2
+          ],
+          "coefficient": "1"
+        }
+      ],
+      [
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        },
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          "coefficient": "-1"
+        }
+      ]
+    ]
+  ],
+  "polynomial_connection": [
+    [
+      [
+        [],
+        [
+          {
+            "powers": [
+              0,
+              0,
+              1,
+              0,
+              0,
+              0
+            ],
+            "coefficient": "1"
+          }
+        ]
+      ],
+      [
+        [
+          {
+            "powers": [
+              1,
+              0,
+              0,
+              1,
+              0,
+              0
+            ],
+            "coefficient": "1"
+          }
+        ],
+        []
+      ]
+    ],
+    [
+      [
+        [],
+        [
+          {
+            "powers": [
+              1,
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "coefficient": "1"
+          }
+        ]
+      ],
+      [
+        [
+          {
+            "powers": [
+              0,
+              2,
+              0,
+              0,
+              0,
+              0
+            ],
+            "coefficient": "1"
+          }
+        ],
+        []
+      ]
+    ],
+    [
+      [
+        [
+          {
+            "powers": [
+              0,
+              0,
+              1,
+              1,
+              0,
+              0
+            ],
+            "coefficient": "1"
+          }
+        ],
+        []
+      ],
+      [
+        [
+          {
+            "powers": [
+              2,
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "coefficient": "1"
+          }
+        ],
+        [
+          {
+            "powers": [
+              0,
+              0,
+              1,
+              1,
+              0,
+              0
+            ],
+            "coefficient": "-1"
+          }
+        ]
+      ]
+    ]
+  ],
+  "polynomial_curvature": [
+    [
+      [
+        {
+          "powers": [
+            0,
+            2,
+            1,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        },
+        {
+          "powers": [
+            2,
+            1,
+            0,
+            1,
+            0,
+            0
+          ],
+          "coefficient": "-1"
+        }
+      ],
+      [
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "-1"
+        },
+        {
+          "powers": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "powers": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "2"
+        }
+      ],
+      [
+        {
+          "powers": [
+            0,
+            2,
+            1,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "-1"
+        },
+        {
+          "powers": [
+            2,
+            1,
+            0,
+            1,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        }
+      ]
+    ]
+  ],
+  "frame": [
+    [
+      [
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        }
+      ],
+      [
+        {
+          "powers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        },
+        {
+          "powers": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        }
+      ]
+    ]
+  ],
+  "frame_inverse": [
+    [
+      [
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        }
+      ],
+      [
+        {
+          "powers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "-1"
+        },
+        {
+          "powers": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          "coefficient": "-1"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        }
+      ]
+    ]
+  ],
+  "moving_cut": [
+    [
+      [
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        }
+      ],
+      [
+        {
+          "powers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        },
+        {
+          "powers": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        }
+      ]
+    ],
+    [
+      [],
+      []
+    ]
+  ],
+  "retained_curvature": [
+    [
+      [
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        }
+      ],
+      [
+        {
+          "powers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        },
+        {
+          "powers": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        }
+      ]
+    ],
+    [
+      [],
+      []
+    ]
+  ],
+  "complement_correction": [
+    [
+      [
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "-1"
+        }
+      ],
+      [
+        {
+          "powers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "-1"
+        },
+        {
+          "powers": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          "coefficient": "-1"
+        }
+      ]
+    ],
+    [
+      [],
+      []
+    ]
+  ],
+  "reading_packets": [
+    {
+      "source": "SE42-hidden-unit-layer",
+      "labels": [
+        "Lambda",
+        "count_1",
+        "count_2",
+        "count_3",
+        "step_a",
+        "step_b"
+      ],
+      "directions": [
+        1,
+        2
+      ],
+      "cut": [
+        [
+          [
+            {
+              "powers": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "coefficient": "1"
+            }
+          ]
+        ]
+      ],
+      "unit_depth": 0,
+      "readings": [
+        {
+          "probe": 0,
+          "ij": {
+            "accepted": [
+              [
+                []
+              ]
+            ],
+            "complement": [
+              [
+                []
+              ]
+            ]
+          },
+          "ji": {
+            "accepted": [
+              [
+                []
+              ]
+            ],
+            "complement": [
+              [
+                []
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "source": "SE42-hidden-unit-layer",
+      "labels": [
+        "Lambda",
+        "count_1",
+        "count_2",
+        "count_3",
+        "step_a",
+        "step_b"
+      ],
+      "directions": [
+        1,
+        2
+      ],
+      "cut": [
+        [
+          [
+            {
+              "powers": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "coefficient": "1"
+            }
+          ]
+        ]
+      ],
+      "unit_depth": 2,
+      "readings": [
+        {
+          "probe": 0,
+          "ij": {
+            "accepted": [
+              [
+                []
+              ]
+            ],
+            "complement": [
+              [
+                []
+              ]
+            ]
+          },
+          "ji": {
+            "accepted": [
+              [
+                []
+              ]
+            ],
+            "complement": [
+              [
+                []
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "source": "SE42-hidden-unit-layer",
+      "labels": [
+        "Lambda",
+        "count_1",
+        "count_2",
+        "count_3",
+        "step_a",
+        "step_b"
+      ],
+      "directions": [
+        1,
+        2
+      ],
+      "cut": [
+        [
+          [
+            {
+              "powers": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "coefficient": "1"
+            }
+          ]
+        ]
+      ],
+      "unit_depth": 3,
+      "readings": [
+        {
+          "probe": 0,
+          "ij": {
+            "accepted": [
+              [
+                [
+                  {
+                    "powers": [
+                      3,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "coefficient": "1"
+                  }
+                ]
+              ]
+            ],
+            "complement": [
+              [
+                []
+              ]
+            ]
+          },
+          "ji": {
+            "accepted": [
+              [
+                []
+              ]
+            ],
+            "complement": [
+              [
+                []
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "source": "SE42-moving-counting-frame",
+      "labels": [
+        "Lambda",
+        "count_1",
+        "count_2",
+        "count_3",
+        "step_a",
+        "step_b"
+      ],
+      "directions": [
+        1,
+        2
+      ],
+      "cut": [
+        [
+          [
+            {
+              "powers": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "coefficient": "1"
+            }
+          ],
+          [
+            {
+              "powers": [
+                0,
+                1,
+                1,
+                0,
+                0,
+                0
+              ],
+              "coefficient": "1"
+            },
+            {
+              "powers": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "coefficient": "1"
+            }
+          ]
+        ],
+        [
+          [],
+          []
+        ]
+      ],
+      "unit_depth": 4,
+      "readings": [
+        {
+          "probe": 0,
+          "ij": {
+            "accepted": [
+              [
+                [
+                  {
+                    "powers": [
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "coefficient": "1"
+                  }
+                ]
+              ],
+              [
+                []
+              ]
+            ],
+            "complement": [
+              [
+                []
+              ],
+              [
+                []
+              ]
+            ]
+          },
+          "ji": {
+            "accepted": [
+              [
+                []
+              ],
+              [
+                []
+              ]
+            ],
+            "complement": [
+              [
+                []
+              ],
+              [
+                []
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 1,
+          "ij": {
+            "accepted": [
+              [
+                [
+                  {
+                    "powers": [
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "coefficient": "1"
+                  },
+                  {
+                    "powers": [
+                      0,
+                      1,
+                      1,
+                      0,
+                      0,
+                      0
+                    ],
+                    "coefficient": "1"
+                  },
+                  {
+                    "powers": [
+                      1,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0
+                    ],
+                    "coefficient": "1"
+                  }
+                ]
+              ],
+              [
+                []
+              ]
+            ],
+            "complement": [
+              [
+                [
+                  {
+                    "powers": [
+                      0,
+                      1,
+                      2,
+                      0,
+                      0,
+                      0
+                    ],
+                    "coefficient": "-1"
+                  },
+                  {
+                    "powers": [
+                      1,
+                      0,
+                      1,
+                      1,
+                      0,
+                      0
+                    ],
+                    "coefficient": "-1"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "powers": [
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0
+                    ],
+                    "coefficient": "1"
+                  }
+                ]
+              ]
+            ]
+          },
+          "ji": {
+            "accepted": [
+              [
+                [
+                  {
+                    "powers": [
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "coefficient": "1"
+                  }
+                ]
+              ],
+              [
+                []
+              ]
+            ],
+            "complement": [
+              [
+                [
+                  {
+                    "powers": [
+                      0,
+                      1,
+                      1,
+                      0,
+                      0,
+                      0
+                    ],
+                    "coefficient": "-1"
+                  },
+                  {
+                    "powers": [
+                      0,
+                      1,
+                      2,
+                      0,
+                      0,
+                      0
+                    ],
+                    "coefficient": "-1"
+                  },
+                  {
+                    "powers": [
+                      1,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0
+                    ],
+                    "coefficient": "-1"
+                  },
+                  {
+                    "powers": [
+                      1,
+                      0,
+                      1,
+                      1,
+                      0,
+                      0
+                    ],
+                    "coefficient": "-1"
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "powers": [
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "coefficient": "1"
+                  },
+                  {
+                    "powers": [
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0
+                    ],
+                    "coefficient": "1"
+                  }
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "source": "SE42-polynomial-count-response",
+      "labels": [
+        "Lambda",
+        "count_1",
+        "count_2",
+        "count_3",
+        "step_a",
+        "step_b"
+      ],
+      "directions": [
+        1,
+        2
+      ],
+      "cut": [
+        [
+          [
+            {
+              "powers": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "coefficient": "1"
+            }
+          ],
+          []
+        ],
+        [
+          [],
+          []
+        ]
+      ],
+      "unit_depth": 4,
+      "readings": [
+        {
+          "probe": 0,
+          "ij": {
+            "accepted": [
+              [
+                [
+                  {
+                    "powers": [
+                      0,
+                      2,
+                      1,
+                      0,
+                      0,
+                      0
+                    ],
+                    "coefficient": "1"
+                  }
+                ]
+              ],
+              [
+                []
+              ]
+            ],
+            "complement": [
+              [
+                []
+              ],
+              [
+                [
+                  {
+                    "powers": [
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "coefficient": "2"
+                  }
+                ]
+              ]
+            ]
+          },
+          "ji": {
+            "accepted": [
+              [
+                [
+                  {
+                    "powers": [
+                      2,
+                      1,
+                      0,
+                      1,
+                      0,
+                      0
+                    ],
+                    "coefficient": "1"
+                  }
+                ]
+              ],
+              [
+                []
+              ]
+            ],
+            "complement": [
+              [
+                []
+              ],
+              [
+                []
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 1,
+          "ij": {
+            "accepted": [
+              [
+                [
+                  {
+                    "powers": [
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "coefficient": "1"
+                  }
+                ]
+              ],
+              [
+                []
+              ]
+            ],
+            "complement": [
+              [
+                []
+              ],
+              [
+                [
+                  {
+                    "powers": [
+                      2,
+                      1,
+                      0,
+                      1,
+                      0,
+                      0
+                    ],
+                    "coefficient": "1"
+                  }
+                ]
+              ]
+            ]
+          },
+          "ji": {
+            "accepted": [
+              [
+                [
+                  {
+                    "powers": [
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "coefficient": "1"
+                  }
+                ]
+              ],
+              [
+                []
+              ]
+            ],
+            "complement": [
+              [
+                []
+              ],
+              [
+                [
+                  {
+                    "powers": [
+                      0,
+                      2,
+                      1,
+                      0,
+                      0,
+                      0
+                    ],
+                    "coefficient": "1"
+                  }
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sharp_unit_depth": {
+    "connection_degree": 2,
+    "required_curvature_degree": 4,
+    "curvature": [
+      [
+        [
+          {
+            "powers": [
+              4,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "coefficient": "1"
+          }
+        ],
+        []
+      ],
+      [
+        [],
+        [
+          {
+            "powers": [
+              4,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "coefficient": "-1"
+          }
+        ]
+      ]
+    ]
+  },
+  "checks": [
+    {
+      "name": "tensor counting chart intertwines all three actual lowering actions",
+      "status": "PASS",
+      "kind": "positive"
+    },
+    {
+      "name": "counting formula multiplication has its derived Leibniz rule",
+      "status": "PASS",
+      "kind": "positive"
+    },
+    {
+      "name": "ordinary x multiplication cannot replace the counting formula product",
+      "status": "PASS",
+      "kind": "negative"
+    },
+    {
+      "name": "nonlinear counting coefficients give the stated full path-curvature action",
+      "status": "PASS",
+      "kind": "positive"
+    },
+    {
+      "name": "independent formal loop action has the actual curvature as its mixed reading",
+      "status": "PASS",
+      "kind": "positive"
+    },
+    {
+      "name": "closed formal return is linear over the counting formula algebra",
+      "status": "PASS",
+      "kind": "positive"
+    },
+    {
+      "name": "the derived D1 and D2-plus-X1 connection has unit curvature and central return",
+      "status": "PASS",
+      "kind": "positive"
+    },
+    {
+      "name": "a flat shallow reading does not annihilate the full counting curvature",
+      "status": "PASS",
+      "kind": "negative"
+    },
+    {
+      "name": "the first retained third unit layer recovers the hidden curvature",
+      "status": "PASS",
+      "kind": "positive"
+    },
+    {
+      "name": "the unit cut does not force the c-equals-one connection to be flat",
+      "status": "PASS",
+      "kind": "negative"
+    },
+    {
+      "name": "noncentral native path generators retain the complete higher ordered return",
+      "status": "PASS",
+      "kind": "positive"
+    },
+    {
+      "name": "central exponential and trace-only shortcuts lose noncentral curvature data",
+      "status": "PASS",
+      "kind": "negative"
+    },
+    {
+      "name": "a counting-dependent observer frame retains the conjugate curvature",
+      "status": "PASS",
+      "kind": "positive"
+    },
+    {
+      "name": "omitting the frame derivative gives the wrong transported curvature",
+      "status": "PASS",
+      "kind": "negative"
+    },
+    {
+      "name": "full loop readings transport in a moving response frame",
+      "status": "PASS",
+      "kind": "positive"
+    },
+    {
+      "name": "a pure moving frame is flat with identity formal return",
+      "status": "PASS",
+      "kind": "positive"
+    },
+    {
+      "name": "noncommuting coefficient matrices alone do not establish curvature",
+      "status": "PASS",
+      "kind": "negative"
+    },
+    {
+      "name": "moving counting directions recover curvature after their bracket is subtracted",
+      "status": "PASS",
+      "kind": "positive"
+    },
+    {
+      "name": "ordered counting curvature satisfies its covariant Bianchi identity",
+      "status": "PASS",
+      "kind": "positive"
+    },
+    {
+      "name": "dropping response commutators breaks the same Bianchi reading",
+      "status": "PASS",
+      "kind": "negative"
+    },
+    {
+      "name": "moving-cut complement returns cancel compression without erasing full curvature",
+      "status": "PASS",
+      "kind": "negative"
+    },
+    {
+      "name": "the compressed-lift action matches the derived moving-cut formula",
+      "status": "PASS",
+      "kind": "positive"
+    },
+    {
+      "name": "detached accepted and complement path readings decode every curvature column",
+      "status": "PASS",
+      "kind": "positive"
+    },
+    {
+      "name": "the decoder refuses an absent complement instead of assuming it neutral",
+      "status": "PASS",
+      "kind": "negative"
+    },
+    {
+      "name": "retained unit cuts commute with curvature in their convolution quotient",
+      "status": "PASS",
+      "kind": "positive"
+    },
+    {
+      "name": "retained unit cuts commute with the independent formal loop computation",
+      "status": "PASS",
+      "kind": "positive"
+    },
+    {
+      "name": "the twice-coefficient-degree curvature memory bound is attained",
+      "status": "PASS",
+      "kind": "positive"
+    },
+    {
+      "name": "the bounded unit-depth nonlinear-coefficient bank recovers the full curvature",
+      "status": "PASS",
+      "kind": "positive"
+    },
+    {
+      "name": "finite counting windows retain their actual top-boundary defect",
+      "status": "PASS",
+      "kind": "negative"
+    },
+    {
+      "name": "a count window with the required intermediate-state guard reads unit curvature",
+      "status": "PASS",
+      "kind": "positive"
+    }
+  ],
+  "check_count": 30,
+  "negative_control_count": 10
+}

@@ -7,11 +7,27 @@ This is the live route for the counting/cut construction. The
 The shared operator engine stays in
 [operator_foundation](../../operator_foundation/README.md).
 
+The current development is
+**[SE42: counting curvature](SE42_COUNTING_CURVATURE_AND_OBSERVER_MEMORY.md)**.
+It completes the earlier deferred step directly on the counting formula
+algebra. Lawful response lifts D_i+A_i give the ordered-path curvature
+F_ij=D_i A_j-D_j A_i+[A_i,A_j]_bullet. Its formal loop, moving frames,
+direction-bracket correction, Bianchi identity and moving observation
+cut are derived using the same product and count derivatives. Complete
+two-path readings recover the full curvature; retained unit memory
+distinguishes a flat cut from a curved source. Five theorem groups and
+30 exact controls, including 10 negative controls, are recorded in
+[scope](SE42_SCOPE.md), [sources](SE42_SOURCE_RECORD.md),
+[pins](SE42_SOURCE_PINS.json) and
+[readings](../../proof_lab/COUNTING_CURVATURE_RESULT.json).
+This is a response-transport construction with no unique physical
+connection or new RH claim.
+
 Begin with the fixed marked unit and positive repetition. Algebraic
 completion, count actions and joint operations have explicitly declared
 carriers. Zero names a typed cut; additive-neutral elements are derived
 objects with separate types. The counting chapter retains its own scope.
-The user has now resumed the RH application in
+The separate RH application resumed in
 [SE39](../../papers/rkf_completed_weil_endpoint/development/SE39_DIRECT_RH_BRIDGE_AND_ZERO_SECTORS.md):
 an explicit analytic adapter proves RH equivalent to the actual source's
 all-order positivity, while leaving that inequality unproved. It does
@@ -24,7 +40,7 @@ exact moving-calibration memory. Its supplied formal unit series can be
 evaluated inside a proved norm disk. This does not assert convergence of
 arbitrary formal counting series or positivity of the RH source.
 
-[SE41](SE41_ORDERED_RETURN_AND_MOVING_CUT_FEEDBACK.md) now develops
+[SE41](SE41_ORDERED_RETURN_AND_MOVING_CUT_FEEDBACK.md) develops
 ordered-return feedback after the actual native thermo curvature is
 attached. A finite unitary return is learned through a moving observer
 calibration, while B_n W_n=U_* keeps the original source. Complete
@@ -49,6 +65,7 @@ This changes calibration, not physical curvature or the RH source sign.
 | [SE37](SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md) | Least future-target algebra, exact nonlinear bank reduction and closed calibration memory for unit-scaled action families; observer-certified |
 | [SE38](SE38_UNIT_WEIGHTED_CALIBRATION_AND_CUT_DEPTH.md) | Finite calibration banks for polynomial affine-cut catalogues, exact induced cuts and a sharp relative calibration-depth law; observer-certified |
 | [SE41](SE41_ORDERED_RETURN_AND_MOVING_CUT_FEEDBACK.md) | Ordered-return calibration, complementary branch readings, moving cuts, noise bounds and triple unit-depth correction; scoped observer readings |
+| [SE42](SE42_COUNTING_CURVATURE_AND_OBSERVER_MEMORY.md) | Curvature from counting paths, frame/direction covariance, Bianchi identity, moving-cut complement returns and sharp unit-memory depth; scoped observer readings |
 
 The polynomial calibration stage is **SE38**. The degree
 of each nonlinear action term relative to its unit order determines

@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 13 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE41 (SE34--SE38 and SE41 carry scoped observer readings; SE39--SE40 develop the RH bridge and analytic observer, with the universal source sign still open).
+Index update: 13 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE42 (SE34--SE38 and SE41--SE42 carry scoped observer readings; SE42 completes the counting-curvature construction; the universal RH source sign remains open).
 
 ## Active operator-engine route
 
@@ -10,6 +10,34 @@ Index update: 13 October 2026, operator mathematics version 0.5 with additive re
 Read the [native primitive order](operator_foundation/theory/NATIVE_PRIMITIVE_ORDER.md), [algebra and observer contracts](operator_foundation/theory/01_NATIVE_ALGEBRA.md), [completion and memory](operator_foundation/theory/02_COMPLETION_AND_MEMORY.md), [Laurent/jet repair](operator_foundation/theory/NATIVE_LAURENT_JET_REPAIR.md), [Pāṇinian symbolic compiler](operator_foundation/theory/PANINIAN_OPERATOR_COMPILER.md), [automatic normal basis and regular action](operator_foundation/theory/AUTOMATIC_REGULAR_MODEL.md), then [weighted operator completion and certified response](operator_foundation/theory/WEIGHTED_OPERATOR_COMPLETION.md).
 
 The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [source index](operator_foundation/SOURCE_INDEX.md), and [master certificate](operator_foundation/audit/MASTER_CERTIFICATE.json) bind this route. The public source archive at `operator_foundation/sources/rkf_reference` includes the corrected T50/T54 edition and full Morphic/Pāṇinian source directories. Use that corrected source where the older root version differs. This does not silently overwrite old source-pinned files.
+
+## Counting curvature SE42: ordered paths, moving observers and retained depth
+
+[SE42](research/lambda_counting/SE42_COUNTING_CURVATURE_AND_OBSERVER_MEMORY.md)
+completes the curvature step deferred by SE30--SE38. On the derived
+counting formula algebra, every lawful response lift is D_i+A_i.
+Its curvature is the B-linear ordered-path difference
+F_ij=D_i A_j-D_j A_i+[A_i,A_j]_bullet, the mixed coefficient of the
+formal closed return. The native D_1, D_2+c(Lambda)X_1 example has
+F_12=c(Lambda)I and return exp(ab c(Lambda))I.
+
+Five written theorem groups establish formal flatness/path independence,
+moving response and direction frames, Bianchi compatibility, the moving
+cut's complement-return correction, and complete observer decoding.
+Labelled unit cuts preserve these operations. Connection unit degree h
+requires at most curvature depth 2h; a constant two-channel example
+attains the bound. A flat cut can hide a higher-unit curvature layer.
+
+Thirty exact controls, including ten negative controls, replay supplied
+counting-coordinate readings; see [scope](research/lambda_counting/SE42_SCOPE.md),
+[sources](research/lambda_counting/SE42_SOURCE_RECORD.md),
+[pins](research/lambda_counting/SE42_SOURCE_PINS.json),
+[application](proof_lab/counting_curvature.py) and
+[readings](proof_lab/COUNTING_CURVATURE_RESULT.json).
+The construction starts from the counting algebra, with no metric or
+thermodynamic connection premise. It selects no unique physical response
+and changes no RH or mass-gap bound. The standard connection mechanisms
+carry no claim of external priority; the shared engine is unchanged.
 
 ## Native feedback SE41: ordered return, moving cut and Smriti
 

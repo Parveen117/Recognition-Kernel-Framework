@@ -1,5 +1,29 @@
 # Claim Boundary for the Current Paper
 
+## SE42 counting curvature, 13 October 2026
+
+[SE42](../../research/lambda_counting/SE42_COUNTING_CURVATURE_AND_OBSERVER_MEMORY.md)
+derives curvature on the SE30 counting formula algebra from specified
+Leibniz response lifts. It supplies the mixed formal-return identity,
+frame and direction covariance, Bianchi compatibility, moving-cut
+complement correction and observer/unit-memory recovery. Five written
+theorem groups and 30 exact controls, including 10 negative controls,
+have the separate scopes recorded in
+[SE42 scope](../../research/lambda_counting/SE42_SCOPE.md).
+
+The counting unit does not uniquely select a connection. The base
+derivatives are flat; the D_1, D_2+c(Lambda)X_1 construction has curvature
+c(Lambda)I. Degree-zero flatness may hide a higher-unit curvature layer,
+and the c=1 example remains curved at the cut. The proof supplies no
+automatic Lambda-zero flatness, physical curvature identification,
+numerical convergence or global topological holonomy theorem.
+
+This completes a counting-mathematics step; it does not identify its
+curvature with the actual RH positivity obstruction or change S_b.
+Eta=1079/2000, floor 1/492000, SE21's V_16 zero shift and SE39/SE40's
+unproved universal source condition remain unchanged. The shared
+operator engine and all previous certificate pins are preserved.
+
 ## SE41 ordered-return feedback, 13 October 2026
 
 [SE41](../../research/lambda_counting/SE41_ORDERED_RETURN_AND_MOVING_CUT_FEEDBACK.md)
