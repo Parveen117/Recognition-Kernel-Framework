@@ -1,5 +1,22 @@
 # Claim Boundary for the Current Paper
 
+## SE32 counting mathematics, 12 October 2026
+
+Development has moved to the [counting chapter](../../research/lambda_counting/README.md)
+with RH deferred. Its reading completion contains all R-linear maps
+between finite counting states over Q[Lambda]. Finite response banks
+determine action on their stated finite input sectors without a global
+operator-order bound. They do not identify a full unknown infinite
+operator. Composition requests additional basis readings from the
+recorded output support; the unit-memory cut is separately typed.
+
+Count-functions and sectors are algebraic actions of supplied profiles.
+The derived lowering inverse is locally finite, not an assertion of
+analytic convergence on infinite states. No application positivity,
+new prime distribution, physical geometry or whole-engine PASS is
+claimed. All historical application boundaries remain unchanged.
+See [SE32 scope](../../research/lambda_counting/SE32_SCOPE.md).
+
 ## SE31 counting-operator recovery and formal flow, 12 October 2026
 
 [SE31](development/SE31_COUNTING_OPERATOR_RECOVERY_AND_ORDERED_FLOW.md)

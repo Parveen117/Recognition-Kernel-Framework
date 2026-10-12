@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE31 tables record the development history and current boundary.
+The separate SE1--SE32 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -11,6 +11,22 @@ The separate SE1--SE31 tables record the development history and current boundar
 | M3 accepted block | `3.08520376681449e-13 < M3 < 2.993597611951253e-12` | accepted odd block positive |
 | T03 endpoint | six-block Gram decomposition with vanishing total error | invariant source-Gram identity and `K0 >= 0` |
 | T19-T20 appendix | `beta_partial^cut <= 0.9998319617060448 < 1` and source injectivity | independent strict odd certificate |
+
+## SE32 counting-reading calculus; application work deferred
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Reading completion | Written Theorem 1; exact response interpolation | Every finite counting input has finite action, without a global order bound |
+| Adaptive product | Theorem 2; recorded columns and detached decoder | Output support determines the next required basis readings |
+| Unit cut | Theorem 3; quotient and decoder compatibility | Retained unit memory descends through the completion |
+| Count-functions | Theorem 4; profile and sector readings | Supplied count profiles form an algebra of readable operators |
+| Infinite-order inverse | Theorem 5; recorded lowering bank and inverse decoder | Strict lowering yields a finite exact inverse computation per input |
+| Evidence boundary | 31 exact checks, nine negative controls | Finite readings certify their specified targets; RH is deferred |
+
+See the [counting chapter](../../research/lambda_counting/README.md),
+[proof](../../research/lambda_counting/SE32_READING_COMPLETION_AND_COUNTING_CALCULUS.md),
+[readings](../../proof_lab/LAMBDA_READING_CALCULUS_RESULT.json) and
+[scope](../../research/lambda_counting/SE32_SCOPE.md).
 
 ## SE31 counting-operator recovery and ordered flow
 

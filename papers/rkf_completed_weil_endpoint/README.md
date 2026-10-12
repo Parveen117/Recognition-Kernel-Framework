@@ -8,7 +8,19 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE31, 12 October 2026
+## Current foundational development: SE32, 12 October 2026
+
+Work now continues in the [constant-lambda counting chapter](../../research/lambda_counting/README.md),
+with RH application deferred. [SE32](../../research/lambda_counting/SE32_READING_COMPLETION_AND_COUNTING_CALCULUS.md)
+constructs the completion by compatible counting responses, derives
+adaptive composition from observed output support, extends the typed
+unit cut, and develops count-functions and a generated infinite-order
+inverse with finite action on every finite input. Five written proofs
+and 31 exact reading checks are recorded in its
+[scope](../../research/lambda_counting/SE32_SCOPE.md). Historical endpoint
+source files and application results are unchanged.
+
+## Preceding endpoint development: SE31, 12 October 2026
 
 [Counting-operator recovery and ordered flow](development/SE31_COUNTING_OPERATOR_RECOVERY_AND_ORDERED_FLOW.md)
 extends SE30's counting pair. An operator of declared D-order at most r
