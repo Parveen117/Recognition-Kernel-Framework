@@ -1,0 +1,33 @@
+{
+  "protocol": "RKF_STRUCTURE_REPORT_LINEAGE_R3",
+  "date": "2026-10-12",
+  "canonical_repository": "Parveen117/Recognition-Kernel-Framework",
+  "base_commit": "e8e3089745bf7dc0532d01c62a5f660f5658c6f0",
+  "base_workbench_version": "0.5",
+  "dependency_blobs": {
+    "operator_foundation/core/native_operator.cjs": "7b188defee82aa0edafc586eb3091baf0ceb6900"
+  },
+  "consumed_sources": {
+    "operator_foundation/theory/01_NATIVE_ALGEBRA.md": ["N01 cut grading", "N03 minimum future-complete state observation", "N06 compression defect is returning memory"],
+    "theorum/31_cut_variational_minimal_observer_theorem.md": "native order: cut memory -> target range -> observer action -> minimal faithful observer -> finite seam matrix; recovered memory projector P_T",
+    "theorum/41_cut_graded_universal_generator_theorem.md": "even/odd split by the admitted cut J",
+    "theorum/53_native_cut_square_factorization_theorem.md": ["T1 exact factorization with turn-free nonnegative weights", "T2 native Parseval", "T3 negative witness", "T6 weight product equals determinant channel"],
+    "theorum/76_seam_flow_meter_theorem.md": "sector label n_+(M - mu B) read on the mark pencil (K, P)",
+    "RH-Framework T01-A/B/C": "cut-tail mass M_Sigma and recognition energy E_Sigma as the native verdicts"
+  },
+  "declared_new_inputs": ["finite action catalogue S", "observer rows C", "optional target rows L", "optional admitted cut J", "optional threshold list"],
+  "candidate_framework_advance": [
+    "R3-A forward closure of the completed observer: P s Q = 0, compression is a homomorphism of the forward word algebra",
+    "R3-B returning memory (Q s P != 0) is exactly dagger incompleteness of the N03 completion; three independent routes to one verdict",
+    "R3-C the total mark is a cut square: rank = returning channels, trace = total returning energy, factorized by theorum/53",
+    "R3-D cut-aligned observer leaks only through odd generators",
+    "trichotomy VISIBLE_LOCAL / HIDDEN_LOCAL / GLOBAL_RETURNING_MEMORY as an executable structure report"
+  ],
+  "not_new_claims": ["finite row closure", "invariant subspaces", "congruence diagonalization", "matrix determinant", "EMK generator relations"],
+  "external_priority_established": false,
+  "primitive_hilbert_space": false,
+  "positive_pairing_used": "native norm N(z)=rad^2+turn^2 only (F00-E)",
+  "infinite_limit_invoked": false,
+  "physical_identification_claimed": false,
+  "universal_solver_claimed": false
+}

@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 26 September 2026, operator mathematics version 0.5 with additive graded-aperture research results R1 and R2.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 (graded aperture) and R3 (structure report).
 
 ## Active operator-engine route
 
@@ -47,6 +47,18 @@ The [R2 packet](research/recognition_return/r2/README.md) and [full proof](resea
 The [generated certificate](research/recognition_return/r2/RESULT.json) records 35 named exact checks, including 20 complete finite-chain inverses, 31 local pair inverses, 69 direct moment comparisons, 60 tail samples and 15 inverse-design targets. [Six mathematical mutation controls](research/recognition_return/r2/MUTATIONS.json) are rejected before hash checks. R1's unchanged 24 tests and four mutations were also rerun; the new R2 and R1 read-only tests pass under the offline guard. Run `node research/recognition_return/r2/verify.cjs --check` from this root.
 
 The native family, paired products, positivity and boundary class are stated hypotheses. Finite coupling does not mean a finite-aperture exact solution. The continued-fraction criterion has established Seidel-Stern/Stern-Stolz lineage; external priority of the operator synthesis is not established. No full infinite inverse, physical quantum-gravity law, full v0.5 rerun or Python/Lean regression is claimed. Existing engine, R1 source files and their pins remain unchanged.
+
+## Research R3: structure report — cut split, observer completion, returning-memory mark
+
+The [R3 packet](research/structure_report/README.md) and [written theorems](research/structure_report/THEOREM.md) turn a supplied finite encoding of a problem — action catalogue S, observer C, optional target L and admitted cut J on the cut-complex carrier — into an executable structure report, in the order declared by [theorum/31](theorum/31_cut_variational_minimal_observer_theorem.md): cut grading (N01), minimum future-complete observer D (N03), the mark that observation leaves (N06 on the completed observer), then the cut-square factorization of that mark ([theorum/53](theorum/53_native_cut_square_factorization_theorem.md)) and a seam-count reading ([theorum/76](theorum/76_seam_flow_meter_theorem.md) shape).
+
+- R3-A: the completed observer never leaks forward, `P s Q = 0`; compression is a homomorphism of the forward word algebra.
+- R3-B: returning memory `Q s P != 0` on the reversed path holds exactly when the reversed catalogue adds observer channels; three independent routes agree on every instance.
+- R3-C: the total mark `K = sum_s (Q s P)^dagger (Q s P)` is a cut square; rank = returning channels, trace = total returning energy `E_Sigma`, weight product = determinant channel.
+- R3-D: when the observer is a J-face, only odd (cut-crossing) generators leak.
+- Verdict: `VISIBLE_LOCAL`, `HIDDEN_LOCAL` or `GLOBAL_RETURNING_MEMORY`.
+
+[Generated finite evidence](research/structure_report/RESULT.json) records 18 named checks over 9 instances, 2564 forward word pairs, 24 random cut-square factorizations and 14 seam-count readings; [seven mutation controls](research/structure_report/MUTATIONS.json) are rejected, including the coordinate transpose in place of the native dagger. Run `node research/structure_report/verify.cjs --check` from this root. The pinned evidence does not embed the runtime version string. The packet uses the canonical engine unchanged. The encoding is supplied data; the report states what it permits and what must be tracked, decides no supplied problem, invokes no infinite limit, and claims no physical identification, RH, YM or continuum statement.
 
 ## Full framework register, preserved
 
