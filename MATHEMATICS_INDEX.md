@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE12.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE13.
 
 ## Active operator-engine route
 
@@ -301,6 +301,49 @@ and [audit](papers/rkf_completed_weil_endpoint/development/SE12_SCOPE.md).
 Prime 7, cofinal source signs, the global eta=0 sign, historical
 five-label endpoint, K0 and RH remain open. Earlier stage boundaries
 are chronological records; only their prime-5 opening is superseded here.
+
+## Endpoint development SE13: aperture growth and the observer limit
+
+[SE13](papers/rkf_completed_weil_endpoint/development/SE13_APERTURE_GROWTH_AND_OBSERVER_LIMIT.md)
+certifies the full complex odd source through radius 41/50=0.820,
+with physical floor 1/2500000000000000, native floor
+1/71500000000000001 and squared observer reserve
+2/786500000000000011. Its recalibrated support marker, 196-mode
+head, all-frequency condition and entire infinite complement are
+enclosed. A separate directed 320-digit LDL resolves the initially
+inconclusive 90-digit factorization without changing prior arithmetic.
+
+The actual canonical aperture observers converge strongly as the
+apertures exhaust the carrier, and their norms increase to the global
+observer norm. A new consequence of the existing escaping packets
+and compact mismatch remainder proves that the operator-norm error
+of every finite-aperture zero extension is at least one. It is exactly
+one if the global source is nonnegative. Thus aperture convergence
+must not be confused with SE5's norm-convergent inverse regularization.
+
+An explicit complete sign criterion allows source floors -1/j on
+apertures j; all such finite certificates would imply the global sign.
+The present finite sequence does not establish that infinite obligation.
+The companion [moving-reference index theorems](papers/rkf_completed_weil_endpoint/development/SE13_MOVING_REFERENCE_INDEX_THEOREMS.md)
+state covariant Atiyah--Singer descent with an augmented inverse
+certificate, spectral-flow/index transport, and reference-independent
+Birman--Schwinger inertia. The actual SE5 source has the finite
+invariant kappa_eta=N_-(S_b+eta I) for every eta>0; zero counts along
+a cofinal eta sequence are equivalent to its nonnegative endpoint.
+Fixed-eta aperture counts eventually detect this integer, while
+eta-zero Fredholmness is excluded by the established essential spectrum.
+These are conditional classical adapters and written source deductions;
+[21 rational controls](proof_lab/ENDPOINT_OBSERVER_INDEX_RESULT.json)
+do not constitute a formal Atiyah--Singer or global RH verification.
+See the [replay](proof_lab/endpoint_aperture_convergence_certificate.py),
+[controls](proof_lab/test_endpoint_aperture_convergence_certificate.py),
+[matrix](proof_lab/ENDPOINT_APERTURE_CONVERGENCE_MATRIX.json),
+[result](proof_lab/ENDPOINT_APERTURE_CONVERGENCE_RESULT.json),
+[sources](papers/rkf_completed_weil_endpoint/development/SE13_SOURCE_RECORD.md),
+[pins](papers/rkf_completed_weil_endpoint/development/SE13_SOURCE_PINS.json)
+and [audit](papers/rkf_completed_weil_endpoint/development/SE13_SCOPE.md).
+Prime 7, cofinal source signs, the global eta=0 sign, historical
+five-label closure, K0 and RH remain open.
 
 ## Full framework register, preserved
 

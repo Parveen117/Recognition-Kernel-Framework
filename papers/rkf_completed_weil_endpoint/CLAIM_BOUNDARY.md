@@ -1,5 +1,43 @@
 # Claim Boundary for the Current Paper
 
+## SE13 aperture and convergence boundary, 12 October 2026
+
+[SE13](development/SE13_APERTURE_GROWTH_AND_OBSERVER_LIMIT.md) certifies
+radius 41/50=0.820 on the entire complex odd carrier: physical floor
+1/2500000000000000, native floor 1/71500000000000001 and squared
+reserve 2/786500000000000011. The whole passage from 0.805 to 0.820
+follows by native inclusion. All 196 modes, mixed and infinite-tail
+errors, and the recalibrated marker's all-frequency condition are retained.
+
+The canonical zero-extended aperture observers converge strongly
+on every fixed event as the aperture tends to infinity, even before
+global contractivity is established. Their actual operator-norm error
+is at least one at every finite aperture and equals one if the global
+contraction holds. This new consequence uses the actual SE4 packets
+and SE5 compact mismatch; it does not contradict norm convergence in
+SE5's separate inverse-regularization parameter.
+
+The explicit non-strict convergence criterion requires finite source
+certificates with allowances tending to zero on an unbounded aperture
+sequence. Its completeness follows from SE10. Neither that criterion
+nor this finite extension verifies every required certificate. No
+universal marker rule, global stabilization rate or strict uniform
+reserve is claimed. Prime 7, the global eta=0 sign, historical five-label
+closure, K0 and RH remain open. See the [audit](development/SE13_SCOPE.md).
+
+The [moving-reference index theorems](development/SE13_MOVING_REFERENCE_INDEX_THEOREMS.md)
+provide written conditional Atiyah--Singer, spectral-flow/index and
+Birman--Schwinger formulations with no privileged observer chart.
+Classical families/index theorems are cited inputs, not new proofs.
+An augmented inverse certificate gives an index when both full-operator
+residuals are enclosed below one; no native elliptic adapter is asserted
+for the RH source. For the actual corrected source, the proved SE5
+decomposition does give kappa_eta=N_-(S_b+eta I)<infinity for eta>0.
+Its value is invariant under faithful transport, but zero still needs
+proof. The source has essential spectrum at zero and is not Fredholm
+there. A cofinal zero-count family is equivalent to positivity;
+21 exact finite controls do not verify that infinite obligation.
+
 ## SE12 support-calibration boundary, 12 October 2026
 
 [SE12](development/SE12_SUPPORT_MARKER_AND_PRIME_FIVE.md) certifies

@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE12 tables record the development history and current boundary.
+The separate SE1--SE13 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -208,6 +208,40 @@ See the [proof](development/SE12_SUPPORT_MARKER_AND_PRIME_FIVE.md),
 [audit](development/SE12_SCOPE.md). Earlier rows are chronological;
 SE12 settles their open prime-5 crossing. Prime 7 and global closure
 remain open; no universal improvement or convergence rule is asserted.
+
+## SE13 aperture growth and the correct observer limit
+
+| Result | Evidence | Scope |
+| --- | --- | --- |
+| Canonical aperture convergence | SE13.2--SE13.6; closed nested event ranges and core density | Strong convergence and monotone actual observer norms, without assuming their limit is at most one |
+| Persistent uniform error | SE13.7--SE13.11; actual escaping packets and compact mismatch | Norm distance to the global observer is at least one at every finite aperture; exactly one under global contractivity |
+| Non-strict cofinal criterion | SE13.12--SE13.15; source identity and SE10 completeness | All aperture-j certificates with allowance -1/j would be necessary and sufficient; the infinite obligation remains open |
+| Radius-0.820 certificate | SE13.16--SE13.24; recalibrated marker, 196 refined interval pivots and complete tails | Full complex odd source floor 1/2500000000000000 |
+| Native local observer | SE13.25--SE13.27 and inclusion | Native floor 1/71500000000000001; squared reserve 2/786500000000000011 |
+
+See the [proof](development/SE13_APERTURE_GROWTH_AND_OBSERVER_LIMIT.md),
+[replay](../../proof_lab/endpoint_aperture_convergence_certificate.py),
+[controls](../../proof_lab/test_endpoint_aperture_convergence_certificate.py),
+[matrix](../../proof_lab/ENDPOINT_APERTURE_CONVERGENCE_MATRIX.json),
+[result](../../proof_lab/ENDPOINT_APERTURE_CONVERGENCE_RESULT.json),
+[sources](development/SE13_SOURCE_RECORD.md) and
+[audit](development/SE13_SCOPE.md). Prime 7 and global closure remain open.
+
+## SE13 moving-reference index theorems
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Atiyah--Singer descent and block certificate | SE13.I1--SE13.I5; domain/symbol transport and cited classical families theorem | A compatible observer atlas has one index class; certified two-sided inverse errors below one determine its finite-bundle difference |
+| Moving-reference Birman--Schwinger | SE13.I6--SE13.I9; exact congruence and min--max proof | Negative count and zero condition are intrinsic to the same source; finite counts need full operator-error bounds |
+| Covariant spectral flow/index | SE13.I10--SE13.I14; transported connection, crossing forms and admitted Fredholm suspension | Chart-independent path index with declared orientation and endpoints; charge difference retains both endpoint values |
+| Actual source invariant and cofinal detection | SE13.I15--SE13.I18; exact SE5 compact defect and native core density | Finite positive-eta count; global positivity iff all cofinal counts vanish; fixed-eta local counts eventually recover the global count |
+| Exact finite controls | 21 rational controls and archived replay | Nonorthonormal transports, moving references, connection, crossing and threshold examples; no formal or global source proof |
+
+See the [theorems](development/SE13_MOVING_REFERENCE_INDEX_THEOREMS.md),
+[control replay](../../proof_lab/endpoint_observer_index_certificate.py),
+[result](../../proof_lab/ENDPOINT_OBSERVER_INDEX_RESULT.json) and
+[scope](development/SE13_SCOPE.md). The actual eta-zero source is not
+Fredholm; the cofinal invariant-zero obligation remains open.
 
 ## Permanent records
 

@@ -8,7 +8,37 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE12, 12 October 2026
+## Current endpoint development: SE13, 12 October 2026
+
+[Aperture growth and the observer limit](development/SE13_APERTURE_GROWTH_AND_OBSERVER_LIMIT.md)
+certifies the complete odd source through radius 41/50=0.820, with
+physical floor 4e-16, native floor 1/71500000000000001 and squared
+reserve 2/786500000000000011. All smaller apertures follow by inclusion.
+The 196-mode certificate recalibrates the support marker and retains
+the whole frequency tail, mixed block and infinite complement.
+
+The convergence result identifies the correct limit: canonical aperture
+observers converge on fixed event vectors and their norms increase to
+the global norm. Their uniform operator-norm error remains at least
+one at every finite aperture, by the actual escaping-packet proof.
+Global closure requires cofinal source control and limit norm at most
+one. A finite list of successful radii cannot establish that condition.
+
+The companion [moving-reference index theorems](development/SE13_MOVING_REFERENCE_INDEX_THEOREMS.md)
+allow all faithful observer charts and positive references to move.
+They give Atiyah--Singer descent with a block certificate, covariant
+spectral flow/index, and Birman--Schwinger inertia. Their actual-source
+corollary makes the remaining condition an invariant-zero criterion:
+kappa_eta=N_-(S_b+eta I)=0 along a cofinal positive-eta sequence.
+The written hypotheses and 21 exact finite controls are distinguished;
+the full source is not Fredholm at eta zero and its sign remains open.
+
+See the [result](../../proof_lab/ENDPOINT_APERTURE_CONVERGENCE_RESULT.json),
+[replay](../../proof_lab/endpoint_aperture_convergence_certificate.py),
+[sources](development/SE13_SOURCE_RECORD.md),
+[audit](development/SE13_SCOPE.md) and [claim boundary](CLAIM_BOUNDARY.md).
+
+## Preceding endpoint development: SE12, 12 October 2026
 
 [Support calibration and prime-5 crossing](development/SE12_SUPPORT_MARKER_AND_PRIME_FIVE.md)
 certifies the full complex odd source through radius 161/200=0.805.
