@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE9 tables record the development history and current boundary.
+The separate SE1--SE10 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -154,6 +154,23 @@ See the [proof](development/SE9_PRIME_EVENT_AND_NATIVE_CONTINUITY.md),
 [audit](development/SE9_SCOPE.md). The prime-power-4 event and global/cofinal
 sign rule remain open. Earlier development tables preserve their
 historical scope and constants.
+
+## SE10 prime-power crossing and local certificate completeness
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Local form-domain identity | SE10.2--SE10.4; dilation and mollification | Native supported core completes to the stated full form domain |
+| Local lower-edge recovery | SE10.5--SE10.9; monotonicity and retained weak mass | Frequency comparisons converge at the lower edge to min(b,lambda_c) |
+| Completeness for a strict local margin | SE10.10--SE10.12, reusing SE5/MP Gold 06 | A positive local source margin at rational scale has a finite certificate with sufficient full refinement |
+| Prime-power-4 certificate | SE10.13--SE10.21; 88 enclosed pivots and complete errors | Source floor 1/20000000000 on all odd states of radius 7/10 |
+| Local joint observer | SE10.22--SE10.24 and native inclusion | Native floor 1/466500000001 and squared reserve 2/5131500000011 throughout the smaller apertures |
+
+See the [proof](development/SE10_PRIME_POWER_AND_CERTIFICATE_COMPLETENESS.md),
+[matrix](../../proof_lab/ENDPOINT_PRIME_POWER_MATRIX.json),
+[result](../../proof_lab/ENDPOINT_PRIME_POWER_RESULT.json),
+[sources](development/SE10_SOURCE_RECORD.md) and
+[audit](development/SE10_SCOPE.md). No positivity at every scale,
+universal stopping-time estimate or global endpoint closure follows.
 
 ## Permanent records
 

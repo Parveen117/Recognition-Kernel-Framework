@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE9.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE10.
 
 ## Active operator-engine route
 
@@ -219,6 +219,31 @@ See the [replay](proof_lab/endpoint_prime_event_certificate.py),
 and [audit](papers/rkf_completed_weil_endpoint/development/SE9_SCOPE.md).
 This closes the prime-3 event left open in SE8. Prime power 4, a cofinal
 all-scale rule and the global eta=0 sign remain open.
+
+## Endpoint development SE10: prime-power crossing and local certificate completeness
+
+[SE10](papers/rkf_completed_weil_endpoint/development/SE10_PRIME_POWER_AND_CERTIFICATE_COMPLETENESS.md)
+certifies scale 7/5 beyond the prime-power-4 event, with its correct
+Lambda(4)=log 2 weight. Every complex odd state of physical radius 7/10
+has source floor 1/20000000000, native floor 1/466500000001 and squared
+joint reserve 2/5131500000011. The 88-mode certificate retains all
+mixed entries, analytic error and the complete infinite complement.
+
+The new lower-edge theorem proves that increasing the frequency cutoff
+recovers min(b,lambda_c), where lambda_c is the true local source edge.
+Combining this with the existing compact-projection argument makes
+the refined certificate family complete for strict positivity at a
+finite rational scale. It supplies neither positivity at every scale
+nor a uniform numerical cost bound.
+
+See the [replay](proof_lab/endpoint_prime_power_certificate.py),
+[matrix](proof_lab/ENDPOINT_PRIME_POWER_MATRIX.json),
+[result](proof_lab/ENDPOINT_PRIME_POWER_RESULT.json),
+[sources](papers/rkf_completed_weil_endpoint/development/SE10_SOURCE_RECORD.md),
+[pins](papers/rkf_completed_weil_endpoint/development/SE10_SOURCE_PINS.json)
+and [audit](papers/rkf_completed_weil_endpoint/development/SE10_SCOPE.md).
+Prime 5 is the next unverified event; the cofinal/global eta=0 sign,
+historical five-label endpoint, K0 and RH remain open.
 
 ## Full framework register, preserved
 

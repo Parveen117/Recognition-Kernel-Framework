@@ -8,7 +8,27 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE9, 12 October 2026
+## Current endpoint development: SE10, 12 October 2026
+
+[Prime-power crossing and certificate completeness](development/SE10_PRIME_POWER_AND_CERTIFICATE_COMPLETENESS.md)
+certifies scale 7/5 across prime power 4. The whole odd physical aperture
+of radius 7/10 has source floor 1/20000000000, native floor 1/466500000001
+and squared observer reserve 2/5131500000011. Its 88-mode interval
+certificate includes all mixed and infinite-tail terms.
+
+The new local lower-edge theorem also shows that a strict positive
+source margin can be detected by this certificate family with sufficient
+frequency, mode and accuracy refinement. It does not assume positivity
+at every aperture or bound the required work. Prime 5 and the cofinal
+global sign remain open.
+
+See the [result](../../proof_lab/ENDPOINT_PRIME_POWER_RESULT.json),
+[source record](development/SE10_SOURCE_RECORD.md),
+[audit](development/SE10_SCOPE.md) and [claim boundary](CLAIM_BOUNDARY.md).
+
+## Preceding endpoint development: SE9, 12 October 2026
+
+SE10 now crosses the prime-power-4 event left open in this historical record.
 
 [Prime-event crossing and native continuity](development/SE9_PRIME_EVENT_AND_NATIVE_CONTINUITY.md)
 certifies scale 9/8, crossing the activation of prime 3. The whole odd

@@ -1,5 +1,26 @@
 # Claim Boundary for the Current Paper
 
+## SE10 prime-power and completeness boundary, 12 October 2026
+
+[SE10](development/SE10_PRIME_POWER_AND_CERTIFICATE_COMPLETENESS.md)
+certifies the actual prime-power-4 crossing at scale 7/5. The whole
+complex odd aperture of radius 7/10 has source floor 1/20000000000,
+native floor 1/466500000001 and squared reserve 2/5131500000011.
+Every smaller aperture is covered by native inclusion.
+
+The local edge-recovery theorem gives ell_(c,T)->min(b,lambda_c).
+Together with the reused compact-projection certificate, it proves
+that a strictly positive source at a finite rational scale has a
+finite positive certificate after sufficient refinement of frequency,
+modes and accuracy. This is not a proof that every lambda_c is positive,
+an implemented universal search, or a bound on its numerical cost.
+
+The 88-mode comparison retains the full infinite tail. Its sign does
+not identify or close the historical five-label Feshbach matrix.
+Prime 5, cofinal all-scale positivity, the global eta=0 sign, K0 and RH
+remain open. No proof-assistant verification or external review is
+claimed. See the [audit](development/SE10_SCOPE.md).
+
 ## SE9 prime-event boundary, 12 October 2026
 
 [SE9](development/SE9_PRIME_EVENT_AND_NATIVE_CONTINUITY.md) certifies
