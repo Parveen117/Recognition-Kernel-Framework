@@ -476,6 +476,25 @@ papers/rkf_completed_weil_endpoint/main.tex    reviewer-facing paper draft
 papers/rkf_completed_weil_endpoint/REVIEWER_GUIDE.md
 ```
 
+## SE18 floors of the pointwise route (written stage, 12 October 2026)
+
+```text
+floor functional eta_pw for fixed comparison weights          PROVED (affine in eta)
+SE17 anchor tight: eta_pw(SE17 weights) >= 0.58938             CHECKED FROM SE17 ARCHIVE
+exterior value Q(0) = eta - b_c; constant-pole floor 1/10      PROVED
+pole budget law: tau certifies iff 4 int v^2/tau <= 1          PROVED (convex)
+q_0 pole row (4/15)(z - z^3), band (0.48277, 0.86415)          PROVED / CHECKED
+cut-point row 2 sum Lambda(n) n^-2 q(log n)/q(0)               PROVED
+SE17 cut-point floor 0.5784 inside SE14 radius 0.84            CHECKED FROM CERTIFIED MASSES
+translate charging max{V_q(0), V_q(log 2)} >= 0.245            PROVED
+exterior requirement Phi_ext(e^{-A/2}) = O(A e^{-A/2})         PROVED (elementary constants)
+eta-zero convergence <=> eta_loc(A_j) -> 0 (hybrid)            PROVED, consuming SE13.I17 / SE15 sec. 6
+any anchor below 59/100                                        NOT CLAIMED
+local certificate beyond radius 21/25                          NOT CLAIMED
+eta = 1/2, cofinal eta-zero sign, K0, RH                       OPEN / UNCHANGED
+replay, test suite, engine gate for this stage                 NOT RUN BY POLICY
+```
+
 ## Still explicitly not claimed
 
 ```text

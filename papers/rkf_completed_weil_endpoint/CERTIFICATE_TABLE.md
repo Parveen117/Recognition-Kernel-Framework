@@ -323,3 +323,21 @@ See the [theorems](development/SE17_INDEPENDENT_WEIGHTS_AND_GLOBAL_FAMILY.md),
 [result](../../proof_lab/ENDPOINT_WEIGHT_FAMILY_RESULT.json) and
 [audit](development/SE17_SCOPE.md). Local radius 21/25 and the
 eta-zero/K0/RH boundary remain unchanged.
+
+## SE18 floors of the pointwise route and the hybrid mechanism (written stage)
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Floor functional | SE18.2; slope 1+z^6-L_Gamma>0 | Fixed weights certify exactly the half-line eta>=eta_pw |
+| Anchor tightness | SE18.3 on the SE17 archive cells | eta_pw(SE17)>=0.58938; 0.59 is tight for these weights |
+| Exterior floor | SE18.4 | Constant-pole comparisons cannot certify eta<1/10 |
+| Pole budget law | SE18.5--SE18.7 | tau certifies the pole iff 4 int v^2/tau<=1; q_0 row saturates it |
+| Row band | SE18.8--SE18.9 | tau_0 exceeds b_c(1-z^6) only on (0.48277,0.86415), max excess 0.00765 |
+| Cut-point floor | SE18.10--SE18.11 | SE17 weights force eta>=0.5784 at x=0, inside SE14's exact radius |
+| Exterior decay | SE18.13--SE18.16 | Support-exterior f certified for eta>=Phi_ext(e^{-A/2})=O(A e^{-A/2}) |
+| Hybrid criterion | Theorem 6 | eta-zero convergence iff local aperture certificates reach eta_loc(A_j)->0 |
+
+No replay or certificate accompanies this stage (10 October verification
+preference). See the [theorems](development/SE18_FLOORS_OF_THE_POINTWISE_ROUTE_AND_HYBRID_MECHANISM.md)
+and [scope](development/SE18_SCOPE.md). Local radius 21/25 and the
+eta-zero/K0/RH boundary remain unchanged.
