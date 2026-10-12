@@ -25,7 +25,7 @@ numerical convergence at nonzero Lambda follows. Certification, new
 pins, replay and verification runs remain deferred. Existing application
 bounds and certificates are unchanged; RH and curvature remain deferred.
 
-## SE36 development draft, 12 October 2026
+## SE36 restricted probes and action closure, 12 October 2026
 
 [SE36](../../research/lambda_counting/SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md)
 derives exact restricted-probe fibres and finite polynomial response
@@ -42,9 +42,10 @@ fibres need not be fixed linear cosets. Protocol branching assumes
 the declared access to the same initial source or a repeatable copy.
 Neither arbitrary nonlinear cut actions nor a uniform finite observer
 for all unit depths are claimed. The moving-calibration equation is
-an algebraic observation update, not a physical clock law. Certification,
-new pins and verification runs remain deferred. Earlier certificates
-and application boundaries are unchanged.
+an algebraic observation update, not a physical clock law. The observer
+certificate decodes recorded protocol readings for their stated targets;
+its finite checks do not stand in for the written derivations. Earlier
+certificates and application boundaries are unchanged.
 
 ## SE35 active readings, 12 October 2026
 

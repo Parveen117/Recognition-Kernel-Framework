@@ -1,10 +1,12 @@
-# SE36 development: restricted probes, action closure and finite unit-memory observers
+# SE36: restricted probes, action closure and finite unit-memory observers
 
 12 October 2026. Owner: Monty.
 
-**Development draft; certification remains deferred.** This stage
-contains derivations and examples, with no new certificate packet,
-executable replay, source-pin manifest or verification PASS.
+**Certified observer readings.** Four written derivations carry the
+general results. The [observer certificate](SE36_SCOPE.md) records the
+protocol readings an observer acquires through the supplied catalogue,
+decodes each detached saved bank for its stated target and passes 30
+exact checks, including 9 negative controls, against 144 source pins.
 
 [SE35](SE35_ACTIVE_READINGS_AND_SINGULAR_CUT_REPAIR.md) allowed a
 declared full translation bank. Here the observer has only a supplied
@@ -653,9 +655,13 @@ is not claimed. The degree-versus-unit-order bound is derived
 above for this specified class. No Hilbert metric, physical
 clock or unrestricted perturbation source is a primitive input.
 
-Certification, software implementation, archived reading packets,
-new pins and verification runs remain deferred. Existing
-certificates and their table are unchanged. No RH, Yang--Mills,
+The observer certificate is
+[proof_lab/lambda_action_closure.cjs](../../proof_lab/lambda_action_closure.cjs)
+with its read-only archive
+[LAMBDA_ACTION_CLOSURE_RESULT.json](../../proof_lab/LAMBDA_ACTION_CLOSURE_RESULT.json),
+[scope](SE36_SCOPE.md), [source record](SE36_SOURCE_RECORD.md) and
+[pins](SE36_SOURCE_PINS.json). Existing certificates and their table
+are unchanged. No RH, Yang--Mills,
 curvature, arbitrary nonlinear finite-closure or noisy-data
 recovery claim is made.
 

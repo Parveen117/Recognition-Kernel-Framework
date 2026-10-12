@@ -20,7 +20,7 @@ objects with separate types. RH and curvature development are deferred.
 | [SE33](SE33_JOINT_READINGS_AND_NONLINEAR_COUNTING.md) | Joint banks, diagonal/order recovery, finite nonlinear response rules and exact nonlinear triangular inversion |
 | [SE34](SE34_DEPENDENCY_FEEDBACK_AND_UNIT_MEMORY.md) | Dependency order, feedback cycles, lifting a cut inverse through unit memory and residual corrections; observer-certified |
 | [SE35](SE35_ACTIVE_READINGS_AND_SINGULAR_CUT_REPAIR.md) | Active probe readings, exact nonlinear blind fibres, descending response decoding and repair before unit lifting; observer-certified |
-| [SE36 development](SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md) | Restricted probes, available action-word closure, synthesized probe directions and finite nonlinear observation at retained unit depth; certification deferred |
+| [SE36](SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md) | Restricted probes, available action-word closure, synthesized probe directions and finite nonlinear observation at retained unit depth; observer-certified |
 | [SE37 development](SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md) | Least future-target algebra, exact nonlinear bank reduction and closed calibration memory for unit-scaled action families; certification deferred |
 
 The current development is **SE37, a derivation draft**. A polynomial
@@ -34,7 +34,7 @@ The number of formal coordinates is fixed, while their retained
 coefficient memory grows with depth. Read the
 [derivations and examples](SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md).
 
-The preceding **SE36 derivation draft** treats restricted probes,
+The preceding **SE36** stage treats restricted probes,
 which can leave nonlinear, input-dependent fibres. For an affine
 action catalogue, closure of the polynomial response space supplies
 a finite bank determining every future allowed reading. Operator
@@ -42,7 +42,22 @@ words can synthesize missing probe directions. Nonlinear actions
 with affine cut also have finite observation closure at each retained
 unit depth, by an explicit degree-versus-unit-order bound. The
 resulting update includes the observer's moving calibration.
-Read the [derivations and examples](SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md).
+
+**SE36 certification is the observer reading decoded for its stated target.**
+The observer applies only supplied probes or catalogue words and records
+the sensor readings. The [saved readings](../../proof_lab/LAMBDA_ACTION_CLOSURE_RESULT.json)
+hold the restricted signature of u^2+v^2; the cubic response under
+u-shifts, whose three basis protocols predict every later shift reading;
+the swap-and-shift readings decoding both coordinates with their
+separating word; synthesized translations; the unit action through
+Lambda^2, predicting twelve repetitions; and the sign branch read from
+a later unit layer. Four written derivations and 30 exact checks,
+including 9 negative controls, record the proof and computational scopes
+separately. Read the
+[derivations](SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md),
+[scope](SE36_SCOPE.md), [source record](SE36_SOURCE_RECORD.md),
+[application](../../proof_lab/lambda_action_closure.cjs) and
+[pins](SE36_SOURCE_PINS.json).
 
 The preceding **SE35** stage treats a supplied
 polynomial response and lawful translated-input probes. It derives the
@@ -94,8 +109,8 @@ line predates this certificate. Read the
 [application](../../proof_lab/lambda_unit_memory_lifting.cjs) and
 [pins](SE34_SOURCE_PINS.json).
 
-No SE36 or SE37 certificate, replay archive, pin manifest or verification
-PASS has been issued; their certification is deferred.
+No SE37 certificate, replay archive, pin manifest or verification PASS
+has been issued; its certification is deferred.
 The following SE33 record remains the preceding certified-reading stage.
 
 SE33 makes multiple input slots explicit. Diagonal readings recover

@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE37 (SE34 and SE35 observer-certified; SE36 and SE37 are development drafts).
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE37 (SE34--SE36 observer-certified; SE37 a development draft).
 
 ## Active operator-engine route
 
@@ -21,7 +21,13 @@ memory after nonlinear compression. A declared unit-scaled action
 family has a closed two-coordinate relative observer at every retained
 depth; coefficient memory still grows with that depth. SE36 supplies
 the available action-word bank on which this reduction acts.
-SE36 and SE37 certification remains deferred.
+SE37 certification remains deferred.
+[SE36](research/lambda_counting/SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md)
+is observer-certified: restricted signatures, catalogue closure with
+witness words, synthesized translations and fixed-depth nonlinear
+closure are decoded from recorded protocol readings in 30 exact checks,
+including 9 negative controls, with 144 source pins
+([scope](research/lambda_counting/SE36_SCOPE.md)).
 [SE35](research/lambda_counting/SE35_ACTIVE_READINGS_AND_SINGULAR_CUT_REPAIR.md)
 is observer-certified: its saved translated readings are decoded for
 their stated targets in 36 exact checks, including 14 negative controls,
