@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE13.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE14.
 
 ## Active operator-engine route
 
@@ -344,6 +344,36 @@ See the [replay](proof_lab/endpoint_aperture_convergence_certificate.py),
 and [audit](papers/rkf_completed_weil_endpoint/development/SE13_SCOPE.md).
 Prime 7, cofinal source signs, the global eta=0 sign, historical
 five-label closure, K0 and RH remain open.
+
+## Endpoint development SE14: moving calibration and uniform local recovery
+
+[SE14](papers/rkf_completed_weil_endpoint/development/SE14_MOVING_CALIBRATION_AND_INVARIANT_RECOVERY.md)
+releases the fixed marker in SE10's local edge-recovery theorem.
+At a fixed aperture and positive cap, recovery is uniform over every
+uniformly bounded class of exactly source-null multipliers. The marker
+may change at every refinement and need not converge. A companion
+compactness bound gives uniform mode recovery at each fixed cutoff.
+The theorem supplies no missing sign or cofinal aperture coverage.
+
+The three-marker certificate extends the full complex odd source to
+radius 21/25=0.840, with physical floor 1e-20, native floor
+1/2965000000000000000001 and squared observer reserve
+2/32615000000000000000011. All 208 interval pivots, frequency tails,
+quadrature and infinite-complement errors are enclosed. A larger valid
+analytic ellipse improves the quadrature allowance at the same nodes.
+Native inclusion gives local kappa_eta=0 for every eta>=0 and every
+smaller aperture, with zero local nullity. The global count is not
+inferred from those finite-aperture invariants.
+
+See the [replay](proof_lab/endpoint_moving_calibration_certificate.py),
+[controls](proof_lab/test_endpoint_moving_calibration_certificate.py),
+[matrix](proof_lab/ENDPOINT_MOVING_CALIBRATION_MATRIX.json),
+[result](proof_lab/ENDPOINT_MOVING_CALIBRATION_RESULT.json),
+[sources](papers/rkf_completed_weil_endpoint/development/SE14_SOURCE_RECORD.md),
+[pins](papers/rkf_completed_weil_endpoint/development/SE14_SOURCE_PINS.json)
+and [audit](papers/rkf_completed_weil_endpoint/development/SE14_SCOPE.md).
+SE13's cofinal invariant-zero obligation, prime 7, the global eta-zero
+sign, historical five-label closure, K0 and RH remain open.
 
 ## Full framework register, preserved
 

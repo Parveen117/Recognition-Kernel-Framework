@@ -8,7 +8,30 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE13, 12 October 2026
+## Current endpoint development: SE14, 12 October 2026
+
+[Moving calibration and uniform local recovery](development/SE14_MOVING_CALIBRATION_AND_INVARIANT_RECOVERY.md)
+proves recovery of the same local lower source edge under arbitrary
+uniformly bounded source-null calibrations. The marker can change at
+every frequency refinement without itself converging. The aperture
+and cap are fixed in this theorem; cofinal global coverage is still
+required separately.
+
+The executed certificate extends the complete complex odd source from
+0.820 to 21/25=0.840. Its physical floor is 1e-20, native floor
+1/2965000000000000000001 and squared observer reserve
+2/32615000000000000000011. Three exactly null markers, all 208 pivots,
+the entire frequency tail and infinite complement are included.
+Native inclusion proves zero local obstruction kappa_eta for all
+eta>=0 throughout the smaller apertures. These are actual source
+counts; the remaining global eta-zero condition is not closed.
+
+See the [result](../../proof_lab/ENDPOINT_MOVING_CALIBRATION_RESULT.json),
+[replay](../../proof_lab/endpoint_moving_calibration_certificate.py),
+[sources](development/SE14_SOURCE_RECORD.md),
+[audit](development/SE14_SCOPE.md) and [claim boundary](CLAIM_BOUNDARY.md).
+
+## Preceding endpoint development: SE13, 12 October 2026
 
 [Aperture growth and the observer limit](development/SE13_APERTURE_GROWTH_AND_OBSERVER_LIMIT.md)
 certifies the complete odd source through radius 41/50=0.820, with

@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE13 tables record the development history and current boundary.
+The separate SE1--SE14 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -242,6 +242,26 @@ See the [theorems](development/SE13_MOVING_REFERENCE_INDEX_THEOREMS.md),
 [result](../../proof_lab/ENDPOINT_OBSERVER_INDEX_RESULT.json) and
 [scope](development/SE13_SCOPE.md). The actual eta-zero source is not
 Fredholm; the cofinal invariant-zero obligation remains open.
+
+## SE14 moving calibration and local invariant recovery
+
+| Result | Evidence | Scope |
+| --- | --- | --- |
+| Uniform calibration recovery | SE14.1--SE14.11; exact source-null identity, compact band map and retained weak mass | The local lower edge is recovered uniformly over bounded marker families; no limiting marker required |
+| Uniform mode recovery | SE14.12--SE14.14; compact-projection norm bound | Common head approximation at fixed frequency; strict local completeness for effectively enclosable chosen markers |
+| Three-marker tail | SE14.15--SE14.18; 1923 interval cells and analytic far bound | Xi(t)>1/10 for all abs(t)>=512 at scale 42/25 |
+| Radius-0.840 certificate | SE14.19--SE14.25; larger valid ellipse, 208 directed interval pivots and complete errors | Full complex odd source floor 1e-20 |
+| Native local invariant | SE14.26--SE14.27 and native inclusion | Native floor 1/2965000000000000000001; squared reserve 2/32615000000000000000011; kappa_eta=0 for all eta>=0 through radius 21/25 |
+
+See the [theorems](development/SE14_MOVING_CALIBRATION_AND_INVARIANT_RECOVERY.md),
+[replay](../../proof_lab/endpoint_moving_calibration_certificate.py),
+[controls](../../proof_lab/test_endpoint_moving_calibration_certificate.py),
+[matrix](../../proof_lab/ENDPOINT_MOVING_CALIBRATION_MATRIX.json),
+[result](../../proof_lab/ENDPOINT_MOVING_CALIBRATION_RESULT.json),
+[sources](development/SE14_SOURCE_RECORD.md) and
+[audit](development/SE14_SCOPE.md). The calibration theorem fixes the
+aperture and cap; local zero counts do not establish the global count.
+Prime 7 and the cofinal eta-zero/RH obligation remain open.
 
 ## Permanent records
 

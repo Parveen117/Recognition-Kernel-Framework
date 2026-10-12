@@ -1,5 +1,32 @@
 # Claim Boundary for the Current Paper
 
+## SE14 moving-calibration boundary, 12 October 2026
+
+[SE14](development/SE14_MOVING_CALIBRATION_AND_INVARIANT_RECOVERY.md)
+proves uniform local edge recovery over bounded, exactly source-null
+multiplier families. No limiting marker is required. The aperture and
+cap remain fixed, and exact nullness is on the full carrier. A finite
+sample agreement, unbounded calibration or changed physical observation
+range is outside the theorem. Inertia of the complete source is
+preserved; inertia of different capped comparisons need not agree.
+
+The complete complex odd source is certified through radius 21/25=0.840,
+with physical floor 1e-20, native floor 1/2965000000000000000001 and
+squared reserve 2/32615000000000000000011. Its 208-mode comparison
+retains every arithmetic, mixed and infinite-tail term. Source positivity
+and native inclusion give kappa_eta(A)=0 for eta>=0 and A<=21/25,
+and zero local nullity. A smaller sufficient floor is not a measurement
+of the actual edge or distance to global stabilization.
+
+These local counts are not identified with the global count. SE13's
+cofinal positive-eta zero-count condition remains the global obligation;
+its eventual local detection theorem has no supplied effective radius.
+The actual source is non-Fredholm at zero. Prime 7, cofinal source signs,
+the global eta-zero sign, historical five-label closure, K0 and RH remain
+open. No universal optimizer, formal proof-assistant verification,
+external review or record aperture is claimed. See the
+[audit](development/SE14_SCOPE.md). Earlier boundaries remain historical.
+
 ## SE13 aperture and convergence boundary, 12 October 2026
 
 [SE13](development/SE13_APERTURE_GROWTH_AND_OBSERVER_LIMIT.md) certifies
