@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and endpoint developments SE1--SE29.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and endpoint developments SE1--SE30.
 
 ## Active operator-engine route
 
@@ -10,6 +10,17 @@ Index update: 12 October 2026, operator mathematics version 0.5 with additive re
 Read the [native primitive order](operator_foundation/theory/NATIVE_PRIMITIVE_ORDER.md), [algebra and observer contracts](operator_foundation/theory/01_NATIVE_ALGEBRA.md), [completion and memory](operator_foundation/theory/02_COMPLETION_AND_MEMORY.md), [Laurent/jet repair](operator_foundation/theory/NATIVE_LAURENT_JET_REPAIR.md), [Pāṇinian symbolic compiler](operator_foundation/theory/PANINIAN_OPERATOR_COMPILER.md), [automatic normal basis and regular action](operator_foundation/theory/AUTOMATIC_REGULAR_MODEL.md), then [weighted operator completion and certified response](operator_foundation/theory/WEIGHTED_OPERATOR_COMPLETION.md).
 
 The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [source index](operator_foundation/SOURCE_INDEX.md), and [master certificate](operator_foundation/audit/MASTER_CERTIFICATE.json) bind this route. The public source archive at `operator_foundation/sources/rkf_reference` includes the corrected T50/T54 edition and full Morphic/Pāṇinian source directories. Use that corrected source where the older root version differs. This does not silently overwrite old source-pinned files.
+
+## Endpoint development SE30: constant-lambda counting and cut
+
+[SE30](papers/rkf_completed_weil_endpoint/development/SE30_CONSTANT_LAMBDA_COUNTING_AND_CUT.md)
+builds positive unit counts, arithmetic, factorization, a graded cut that
+retains count and unit degree, and counting operators. Its polynomial and
+exponential families have regular cut members. Zero denotes the stated
+cut operator; initial counting needs no geometric cut or empty count.
+Five written theorems and 31 exact checks are recorded in the
+[scope](papers/rkf_completed_weil_endpoint/development/SE30_SCOPE.md).
+Curvature is deferred; the RH eta bound is unchanged.
 
 ## Endpoint development SE29: curvature blindness and the actual source diagonal
 

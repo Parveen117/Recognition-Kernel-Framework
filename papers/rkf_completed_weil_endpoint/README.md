@@ -8,7 +8,28 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE29, 12 October 2026
+## Current endpoint development: SE30, 12 October 2026
+
+[Constant-lambda counting and the cut operator](development/SE30_CONSTANT_LAMBDA_COUNTING_AND_CUT.md)
+follows the requested order: one fixed marked unit, nonempty repetition,
+arithmetic and number theory, then a typed cut and counting operators.
+Zero denotes the cut operator in this packet. Its degree-one action
+n Lambda -> n u retains the count and marked unit. Quantity products
+retain the sum of their unit degrees; numerical annihilation is a
+different operation.
+
+The ordered-choice basis generates a polynomial lambda family, lowering
+and raising operators, a transported product and an exponential family.
+Their coefficient-cut members are powers, differentiation and exp(x*t).
+No curvature is used or developed. The current RH source bound is unchanged.
+
+See the [exact application](../../proof_lab/endpoint_lambda_counting.cjs),
+[result](../../proof_lab/ENDPOINT_LAMBDA_COUNTING_RESULT.json),
+[scope](development/SE30_SCOPE.md), [sources](development/SE30_SOURCE_RECORD.md)
+and [pins](development/SE30_SOURCE_PINS.json). Five written theorems and
+31 exact checks are separate from the inherited full-engine gate failure.
+
+## Preceding endpoint development: SE29, 12 October 2026
 
 [Curvature blindness and the source diagonal](development/SE29_CURVATURE_BLINDNESS_AND_SOURCE_DIAGONAL.md)
 tests the missing flatness-to-positivity implication using the actual SE5

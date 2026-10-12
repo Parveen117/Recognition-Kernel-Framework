@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE29 tables record the development history and current boundary.
+The separate SE1--SE30 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -11,6 +11,22 @@ The separate SE1--SE29 tables record the development history and current boundar
 | M3 accepted block | `3.08520376681449e-13 < M3 < 2.993597611951253e-12` | accepted odd block positive |
 | T03 endpoint | six-block Gram decomposition with vanishing total error | invariant source-Gram identity and `K0 >= 0` |
 | T19-T20 appendix | `beta_partial^cut <= 0.9998319617060448 < 1` and source injectivity | independent strict odd certificate |
+
+## SE30 constant-lambda counting and the cut operator
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Positive counting | Theorem 1; exact token/group laws | Initial arithmetic needs no empty count or geometric cut |
+| Number theory | Theorem 2; factorization through 512 as finite controls | Standard divisibility and factorization are derived and unit invariant |
+| Zero-as-cut action | Theorem 3; idempotence, type and product controls | Counts and unit degree survive the declared graded cut |
+| Counting operators | Theorem 4; exact basis, commutator and product checks | Polynomial identities transport to the chosen lambda family |
+| Exponential family | Theorem 5; order-10 formal jets | Cut member is exp(x*t), without numerical division by an erased unit |
+| Boundary | 31 checks, eight negative controls | Scoped arithmetic evidence; curvature deferred and RH bound unchanged |
+
+See the [proof](development/SE30_CONSTANT_LAMBDA_COUNTING_AND_CUT.md),
+[application](../../proof_lab/endpoint_lambda_counting.cjs),
+[result](../../proof_lab/ENDPOINT_LAMBDA_COUNTING_RESULT.json),
+[scope](development/SE30_SCOPE.md) and [pins](development/SE30_SOURCE_PINS.json).
 
 ## SE29 curvature blindness and the source diagonal
 

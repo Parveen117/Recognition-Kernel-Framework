@@ -1,5 +1,30 @@
 # Claim Boundary for the Current Paper
 
+## SE30 constant-unit counting and typed cut, 12 October 2026
+
+[SE30](development/SE30_CONSTANT_LAMBDA_COUNTING_AND_CUT.md) constructs
+positive counts from nonempty repetitions of one fixed marked unit.
+This carrier has no additive identity or geometric cut. Its later
+difference completion derives a neutral class explicitly. The term zero
+in the new packet denotes the cut operator, which is a different type.
+
+The declared degree-d cut maps f in (Lambda^d) to its degree-d coefficient
+times the retained unit u^d. It preserves count information and graded
+quantity products. It is not an annihilating scalar evaluation, and it
+does not recover every higher coefficient from one cut. Earlier source
+notations and pinned files are not silently reinterpreted.
+
+Five written theorems establish arithmetic, number theory, the cut
+contract, counting operators, polynomial transport and a formal
+exponential family. Standard prime factorization is transported, not
+replaced by a new prime distribution. The initial positive arithmetic
+and the later ring have different stated operations and carriers.
+Analytic extensions or arbitrary classical equations require additional
+contracts. Curvature is deferred. The actual RH source, eta=1079/2000
+and floor 1/492000 remain unchanged; no RH sign is supplied here.
+See [scope](development/SE30_SCOPE.md) for 31 exact controls and the
+separately recorded inherited whole-engine failure.
+
 ## SE29 curvature blindness and source diagonal, 12 October 2026
 
 The [SE29 proof](development/SE29_CURVATURE_BLINDNESS_AND_SOURCE_DIAGONAL.md)
