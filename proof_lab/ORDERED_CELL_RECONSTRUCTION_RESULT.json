@@ -1,0 +1,9933 @@
+{
+  "stage": "SE46",
+  "author": "Monty",
+  "scope": "Exact finite ordered-cell and moving-frame readings in supplied native response representations; formal unit coefficients and retained declared memory. No continuum flatness, universal physical connection, RH sign or mass gap.",
+  "base_grid": {
+    "source_id": "SE46-constant-count-connection",
+    "width": 2,
+    "height": 2,
+    "rank": 2,
+    "frames": {
+      "0,0": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "1,0": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "2,0": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "0,1": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "1,1": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "2,1": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "0,2": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "1,2": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "2,2": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ]
+    },
+    "edge_readings": [
+      {
+        "source_id": "SE46-constant-count-connection/A:0:0",
+        "ordered_word": [
+          "A:0:0"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/3",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:0:0",
+        "source_vertex": "0,0",
+        "target_vertex": "1,0",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-constant-count-connection/A:1:0",
+        "ordered_word": [
+          "A:1:0"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/3",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:1:0",
+        "source_vertex": "1,0",
+        "target_vertex": "2,0",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-constant-count-connection/A:0:1",
+        "ordered_word": [
+          "A:0:1"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/3",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:0:1",
+        "source_vertex": "0,1",
+        "target_vertex": "1,1",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-constant-count-connection/A:1:1",
+        "ordered_word": [
+          "A:1:1"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/3",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:1:1",
+        "source_vertex": "1,1",
+        "target_vertex": "2,1",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-constant-count-connection/A:0:2",
+        "ordered_word": [
+          "A:0:2"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/3",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:0:2",
+        "source_vertex": "0,2",
+        "target_vertex": "1,2",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-constant-count-connection/A:1:2",
+        "ordered_word": [
+          "A:1:2"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/3",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:1:2",
+        "source_vertex": "1,2",
+        "target_vertex": "2,2",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-constant-count-connection/B:0:0",
+        "ordered_word": [
+          "B:0:0"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/2"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:0:0",
+        "source_vertex": "0,0",
+        "target_vertex": "0,1",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-constant-count-connection/B:1:0",
+        "ordered_word": [
+          "B:1:0"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/2"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:1:0",
+        "source_vertex": "1,0",
+        "target_vertex": "1,1",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-constant-count-connection/B:2:0",
+        "ordered_word": [
+          "B:2:0"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/2"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:2:0",
+        "source_vertex": "2,0",
+        "target_vertex": "2,1",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-constant-count-connection/B:0:1",
+        "ordered_word": [
+          "B:0:1"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/2"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:0:1",
+        "source_vertex": "0,1",
+        "target_vertex": "0,2",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-constant-count-connection/B:1:1",
+        "ordered_word": [
+          "B:1:1"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/2"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:1:1",
+        "source_vertex": "1,1",
+        "target_vertex": "1,2",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-constant-count-connection/B:2:1",
+        "ordered_word": [
+          "B:2:1"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/2"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:2:1",
+        "source_vertex": "2,1",
+        "target_vertex": "2,2",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      }
+    ]
+  },
+  "moving_grid": {
+    "source_id": "SE46-moving-vertex-frames",
+    "width": 2,
+    "height": 2,
+    "rank": 2,
+    "frames": {
+      "0,0": [
+        [
+          "4/3",
+          "1"
+        ],
+        [
+          "1/3",
+          "1"
+        ]
+      ],
+      "1,0": [
+        [
+          "5/3",
+          "2"
+        ],
+        [
+          "1/3",
+          "1"
+        ]
+      ],
+      "2,0": [
+        [
+          "2",
+          "3"
+        ],
+        [
+          "1/3",
+          "1"
+        ]
+      ],
+      "0,1": [
+        [
+          "5/3",
+          "1"
+        ],
+        [
+          "2/3",
+          "1"
+        ]
+      ],
+      "1,1": [
+        [
+          "7/3",
+          "2"
+        ],
+        [
+          "2/3",
+          "1"
+        ]
+      ],
+      "2,1": [
+        [
+          "3",
+          "3"
+        ],
+        [
+          "2/3",
+          "1"
+        ]
+      ],
+      "0,2": [
+        [
+          "2",
+          "1"
+        ],
+        [
+          "1",
+          "1"
+        ]
+      ],
+      "1,2": [
+        [
+          "3",
+          "2"
+        ],
+        [
+          "1",
+          "1"
+        ]
+      ],
+      "2,2": [
+        [
+          "4",
+          "3"
+        ],
+        [
+          "1",
+          "1"
+        ]
+      ]
+    },
+    "edge_readings": [
+      {
+        "source_id": "SE46-moving-vertex-frames/A:0:0",
+        "ordered_word": [
+          "A:0:0"
+        ],
+        "frame": [
+          [
+            "5/3",
+            "2"
+          ],
+          [
+            "1/3",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "5/3",
+            "2"
+          ],
+          [
+            "-5/9",
+            "-2/3"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "11/9",
+              "-11/27"
+            ],
+            "complement": [
+              "-2/3",
+              "5/9"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "2/3",
+              "-2/9"
+            ],
+            "complement": [
+              "-2",
+              "5/3"
+            ]
+          }
+        ],
+        "edge": "A:0:0",
+        "source_vertex": "0,0",
+        "target_vertex": "1,0",
+        "source_frame": [
+          [
+            "4/3",
+            "1"
+          ],
+          [
+            "1/3",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-moving-vertex-frames/A:1:0",
+        "ordered_word": [
+          "A:1:0"
+        ],
+        "frame": [
+          [
+            "2",
+            "3"
+          ],
+          [
+            "1/3",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "2",
+            "3"
+          ],
+          [
+            "-2/3",
+            "-1"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "14/9",
+              "-14/27"
+            ],
+            "complement": [
+              "-1",
+              "2/3"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "5/3",
+              "-5/9"
+            ],
+            "complement": [
+              "-3",
+              "2"
+            ]
+          }
+        ],
+        "edge": "A:1:0",
+        "source_vertex": "1,0",
+        "target_vertex": "2,0",
+        "source_frame": [
+          [
+            "5/3",
+            "2"
+          ],
+          [
+            "1/3",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-moving-vertex-frames/A:0:1",
+        "ordered_word": [
+          "A:0:1"
+        ],
+        "frame": [
+          [
+            "7/3",
+            "2"
+          ],
+          [
+            "2/3",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "7/3",
+            "2"
+          ],
+          [
+            "-14/9",
+            "-4/3"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "13/9",
+              "-26/27"
+            ],
+            "complement": [
+              "-4/3",
+              "14/9"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "2/3",
+              "-4/9"
+            ],
+            "complement": [
+              "-2",
+              "7/3"
+            ]
+          }
+        ],
+        "edge": "A:0:1",
+        "source_vertex": "0,1",
+        "target_vertex": "1,1",
+        "source_frame": [
+          [
+            "5/3",
+            "1"
+          ],
+          [
+            "2/3",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-moving-vertex-frames/A:1:1",
+        "ordered_word": [
+          "A:1:1"
+        ],
+        "frame": [
+          [
+            "3",
+            "3"
+          ],
+          [
+            "2/3",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "3",
+            "3"
+          ],
+          [
+            "-2",
+            "-2"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "19/9",
+              "-38/27"
+            ],
+            "complement": [
+              "-2",
+              "2"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "5/3",
+              "-10/9"
+            ],
+            "complement": [
+              "-3",
+              "3"
+            ]
+          }
+        ],
+        "edge": "A:1:1",
+        "source_vertex": "1,1",
+        "target_vertex": "2,1",
+        "source_frame": [
+          [
+            "7/3",
+            "2"
+          ],
+          [
+            "2/3",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-moving-vertex-frames/A:0:2",
+        "ordered_word": [
+          "A:0:2"
+        ],
+        "frame": [
+          [
+            "3",
+            "2"
+          ],
+          [
+            "1",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "3",
+            "2"
+          ],
+          [
+            "-3",
+            "-2"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "5/3",
+              "-5/3"
+            ],
+            "complement": [
+              "-2",
+              "3"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "2/3",
+              "-2/3"
+            ],
+            "complement": [
+              "-2",
+              "3"
+            ]
+          }
+        ],
+        "edge": "A:0:2",
+        "source_vertex": "0,2",
+        "target_vertex": "1,2",
+        "source_frame": [
+          [
+            "2",
+            "1"
+          ],
+          [
+            "1",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-moving-vertex-frames/A:1:2",
+        "ordered_word": [
+          "A:1:2"
+        ],
+        "frame": [
+          [
+            "4",
+            "3"
+          ],
+          [
+            "1",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "4",
+            "3"
+          ],
+          [
+            "-4",
+            "-3"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "8/3",
+              "-8/3"
+            ],
+            "complement": [
+              "-3",
+              "4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "5/3",
+              "-5/3"
+            ],
+            "complement": [
+              "-3",
+              "4"
+            ]
+          }
+        ],
+        "edge": "A:1:2",
+        "source_vertex": "1,2",
+        "target_vertex": "2,2",
+        "source_frame": [
+          [
+            "3",
+            "2"
+          ],
+          [
+            "1",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-moving-vertex-frames/B:0:0",
+        "ordered_word": [
+          "B:0:0"
+        ],
+        "frame": [
+          [
+            "5/3",
+            "1"
+          ],
+          [
+            "2/3",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "5/3",
+            "1"
+          ],
+          [
+            "-10/9",
+            "-2/3"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "4/3",
+              "-8/9"
+            ],
+            "complement": [
+              "1/3",
+              "-5/9"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "1",
+              "-2/3"
+            ],
+            "complement": [
+              "-1/2",
+              "5/6"
+            ]
+          }
+        ],
+        "edge": "B:0:0",
+        "source_vertex": "0,0",
+        "target_vertex": "0,1",
+        "source_frame": [
+          [
+            "4/3",
+            "1"
+          ],
+          [
+            "1/3",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-moving-vertex-frames/B:1:0",
+        "ordered_word": [
+          "B:1:0"
+        ],
+        "frame": [
+          [
+            "7/3",
+            "2"
+          ],
+          [
+            "2/3",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "7/3",
+            "2"
+          ],
+          [
+            "-14/9",
+            "-4/3"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "5/3",
+              "-10/9"
+            ],
+            "complement": [
+              "1",
+              "-7/6"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "2",
+              "-4/3"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "edge": "B:1:0",
+        "source_vertex": "1,0",
+        "target_vertex": "1,1",
+        "source_frame": [
+          [
+            "5/3",
+            "2"
+          ],
+          [
+            "1/3",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-moving-vertex-frames/B:2:0",
+        "ordered_word": [
+          "B:2:0"
+        ],
+        "frame": [
+          [
+            "3",
+            "3"
+          ],
+          [
+            "2/3",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "3",
+            "3"
+          ],
+          [
+            "-2",
+            "-2"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "2",
+              "-4/3"
+            ],
+            "complement": [
+              "2",
+              "-2"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "3",
+              "-2"
+            ],
+            "complement": [
+              "3/2",
+              "-3/2"
+            ]
+          }
+        ],
+        "edge": "B:2:0",
+        "source_vertex": "2,0",
+        "target_vertex": "2,1",
+        "source_frame": [
+          [
+            "2",
+            "3"
+          ],
+          [
+            "1/3",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-moving-vertex-frames/B:0:1",
+        "ordered_word": [
+          "B:0:1"
+        ],
+        "frame": [
+          [
+            "2",
+            "1"
+          ],
+          [
+            "1",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "2",
+            "1"
+          ],
+          [
+            "-2",
+            "-1"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "5/3",
+              "-5/3"
+            ],
+            "complement": [
+              "1/6",
+              "-1/3"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "1",
+              "-1"
+            ],
+            "complement": [
+              "-1/2",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:0:1",
+        "source_vertex": "0,1",
+        "target_vertex": "0,2",
+        "source_frame": [
+          [
+            "5/3",
+            "1"
+          ],
+          [
+            "2/3",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-moving-vertex-frames/B:1:1",
+        "ordered_word": [
+          "B:1:1"
+        ],
+        "frame": [
+          [
+            "3",
+            "2"
+          ],
+          [
+            "1",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "3",
+            "2"
+          ],
+          [
+            "-3",
+            "-2"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "7/3",
+              "-7/3"
+            ],
+            "complement": [
+              "1",
+              "-3/2"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "2",
+              "-2"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "edge": "B:1:1",
+        "source_vertex": "1,1",
+        "target_vertex": "1,2",
+        "source_frame": [
+          [
+            "7/3",
+            "2"
+          ],
+          [
+            "2/3",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-moving-vertex-frames/B:2:1",
+        "ordered_word": [
+          "B:2:1"
+        ],
+        "frame": [
+          [
+            "4",
+            "3"
+          ],
+          [
+            "1",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "4",
+            "3"
+          ],
+          [
+            "-4",
+            "-3"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "3",
+              "-3"
+            ],
+            "complement": [
+              "5/2",
+              "-10/3"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "3",
+              "-3"
+            ],
+            "complement": [
+              "3/2",
+              "-2"
+            ]
+          }
+        ],
+        "edge": "B:2:1",
+        "source_vertex": "2,1",
+        "target_vertex": "2,2",
+        "source_frame": [
+          [
+            "3",
+            "3"
+          ],
+          [
+            "2/3",
+            "1"
+          ]
+        ]
+      }
+    ]
+  },
+  "aligned_cells": {
+    "0,0": [
+      [
+        "5/6",
+        "1/18"
+      ],
+      [
+        "-1/12",
+        "43/36"
+      ]
+    ],
+    "1,0": [
+      [
+        "29/36",
+        "5/27"
+      ],
+      [
+        "-1/12",
+        "11/9"
+      ]
+    ],
+    "0,1": [
+      [
+        "29/36",
+        "1/18"
+      ],
+      [
+        "-5/18",
+        "11/9"
+      ]
+    ],
+    "1,1": [
+      [
+        "77/108",
+        "5/27"
+      ],
+      [
+        "-73/216",
+        "71/54"
+      ]
+    ]
+  },
+  "direct_boundary": [
+    [
+      "1/3",
+      "4/9"
+    ],
+    [
+      "-2/3",
+      "19/9"
+    ]
+  ],
+  "spectral_collision_grids": [
+    {
+      "source_id": "SE46-individual-conjugacy-blind-0",
+      "width": 2,
+      "height": 1,
+      "rank": 2,
+      "frames": {
+        "0,0": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "1,0": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "2,0": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "0,1": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "1,1": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "2,1": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      "edge_readings": [
+        {
+          "source_id": "SE46-individual-conjugacy-blind-0/A:0:0",
+          "ordered_word": [
+            "A:0:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "A:0:0",
+          "source_vertex": "0,0",
+          "target_vertex": "1,0",
+          "source_frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-individual-conjugacy-blind-0/A:1:0",
+          "ordered_word": [
+            "A:1:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "A:1:0",
+          "source_vertex": "1,0",
+          "target_vertex": "2,0",
+          "source_frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-individual-conjugacy-blind-0/A:0:1",
+          "ordered_word": [
+            "A:0:1"
+          ],
+          "frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "A:0:1",
+          "source_vertex": "0,1",
+          "target_vertex": "1,1",
+          "source_frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-individual-conjugacy-blind-0/A:1:1",
+          "ordered_word": [
+            "A:1:1"
+          ],
+          "frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "A:1:1",
+          "source_vertex": "1,1",
+          "target_vertex": "2,1",
+          "source_frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-individual-conjugacy-blind-0/B:0:0",
+          "ordered_word": [
+            "B:0:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "B:0:0",
+          "source_vertex": "0,0",
+          "target_vertex": "0,1",
+          "source_frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-individual-conjugacy-blind-0/B:1:0",
+          "ordered_word": [
+            "B:1:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "1",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "B:1:0",
+          "source_vertex": "1,0",
+          "target_vertex": "1,1",
+          "source_frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-individual-conjugacy-blind-0/B:2:0",
+          "ordered_word": [
+            "B:2:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "2",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "1",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "B:2:0",
+          "source_vertex": "2,0",
+          "target_vertex": "2,1",
+          "source_frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "source_id": "SE46-individual-conjugacy-blind-1",
+      "width": 2,
+      "height": 1,
+      "rank": 2,
+      "frames": {
+        "0,0": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "1,0": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "2,0": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "0,1": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "1,1": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "2,1": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      "edge_readings": [
+        {
+          "source_id": "SE46-individual-conjugacy-blind-1/A:0:0",
+          "ordered_word": [
+            "A:0:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "A:0:0",
+          "source_vertex": "0,0",
+          "target_vertex": "1,0",
+          "source_frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-individual-conjugacy-blind-1/A:1:0",
+          "ordered_word": [
+            "A:1:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "A:1:0",
+          "source_vertex": "1,0",
+          "target_vertex": "2,0",
+          "source_frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-individual-conjugacy-blind-1/A:0:1",
+          "ordered_word": [
+            "A:0:1"
+          ],
+          "frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "A:0:1",
+          "source_vertex": "0,1",
+          "target_vertex": "1,1",
+          "source_frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-individual-conjugacy-blind-1/A:1:1",
+          "ordered_word": [
+            "A:1:1"
+          ],
+          "frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "A:1:1",
+          "source_vertex": "1,1",
+          "target_vertex": "2,1",
+          "source_frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-individual-conjugacy-blind-1/B:0:0",
+          "ordered_word": [
+            "B:0:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "B:0:0",
+          "source_vertex": "0,0",
+          "target_vertex": "0,1",
+          "source_frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-individual-conjugacy-blind-1/B:1:0",
+          "ordered_word": [
+            "B:1:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "1",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "B:1:0",
+          "source_vertex": "1,0",
+          "target_vertex": "1,1",
+          "source_frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-individual-conjugacy-blind-1/B:2:0",
+          "ordered_word": [
+            "B:2:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "2",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "B:2:0",
+          "source_vertex": "2,0",
+          "target_vertex": "2,1",
+          "source_frame": [
+            [
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "1"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "spectral_collision_boundary_traces": [
+    "3",
+    "2"
+  ],
+  "refined_grid": {
+    "source_id": "SE46-consistent-subdivision",
+    "width": 4,
+    "height": 4,
+    "rank": 2,
+    "frames": {
+      "0,0": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "1,0": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "2,0": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "3,0": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "4,0": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "0,1": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "1,1": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "2,1": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "3,1": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "4,1": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "0,2": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "1,2": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "2,2": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "3,2": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "4,2": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "0,3": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "1,3": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "2,3": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "3,3": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "4,3": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "0,4": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "1,4": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "2,4": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "3,4": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "4,4": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ]
+    },
+    "edge_readings": [
+      {
+        "source_id": "SE46-consistent-subdivision/A:0:0",
+        "ordered_word": [
+          "A:0:0"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:0:0",
+        "source_vertex": "0,0",
+        "target_vertex": "1,0",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/A:1:0",
+        "ordered_word": [
+          "A:1:0"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:1:0",
+        "source_vertex": "1,0",
+        "target_vertex": "2,0",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/A:2:0",
+        "ordered_word": [
+          "A:2:0"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:2:0",
+        "source_vertex": "2,0",
+        "target_vertex": "3,0",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/A:3:0",
+        "ordered_word": [
+          "A:3:0"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:3:0",
+        "source_vertex": "3,0",
+        "target_vertex": "4,0",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/A:0:1",
+        "ordered_word": [
+          "A:0:1"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:0:1",
+        "source_vertex": "0,1",
+        "target_vertex": "1,1",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/A:1:1",
+        "ordered_word": [
+          "A:1:1"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:1:1",
+        "source_vertex": "1,1",
+        "target_vertex": "2,1",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/A:2:1",
+        "ordered_word": [
+          "A:2:1"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:2:1",
+        "source_vertex": "2,1",
+        "target_vertex": "3,1",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/A:3:1",
+        "ordered_word": [
+          "A:3:1"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:3:1",
+        "source_vertex": "3,1",
+        "target_vertex": "4,1",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/A:0:2",
+        "ordered_word": [
+          "A:0:2"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:0:2",
+        "source_vertex": "0,2",
+        "target_vertex": "1,2",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/A:1:2",
+        "ordered_word": [
+          "A:1:2"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:1:2",
+        "source_vertex": "1,2",
+        "target_vertex": "2,2",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/A:2:2",
+        "ordered_word": [
+          "A:2:2"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:2:2",
+        "source_vertex": "2,2",
+        "target_vertex": "3,2",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/A:3:2",
+        "ordered_word": [
+          "A:3:2"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:3:2",
+        "source_vertex": "3,2",
+        "target_vertex": "4,2",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/A:0:3",
+        "ordered_word": [
+          "A:0:3"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:0:3",
+        "source_vertex": "0,3",
+        "target_vertex": "1,3",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/A:1:3",
+        "ordered_word": [
+          "A:1:3"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:1:3",
+        "source_vertex": "1,3",
+        "target_vertex": "2,3",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/A:2:3",
+        "ordered_word": [
+          "A:2:3"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:2:3",
+        "source_vertex": "2,3",
+        "target_vertex": "3,3",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/A:3:3",
+        "ordered_word": [
+          "A:3:3"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:3:3",
+        "source_vertex": "3,3",
+        "target_vertex": "4,3",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/A:0:4",
+        "ordered_word": [
+          "A:0:4"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:0:4",
+        "source_vertex": "0,4",
+        "target_vertex": "1,4",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/A:1:4",
+        "ordered_word": [
+          "A:1:4"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:1:4",
+        "source_vertex": "1,4",
+        "target_vertex": "2,4",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/A:2:4",
+        "ordered_word": [
+          "A:2:4"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:2:4",
+        "source_vertex": "2,4",
+        "target_vertex": "3,4",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/A:3:4",
+        "ordered_word": [
+          "A:3:4"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "0"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-1/6",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "A:3:4",
+        "source_vertex": "3,4",
+        "target_vertex": "4,4",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:0:0",
+        "ordered_word": [
+          "B:0:0"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:0:0",
+        "source_vertex": "0,0",
+        "target_vertex": "0,1",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:1:0",
+        "ordered_word": [
+          "B:1:0"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:1:0",
+        "source_vertex": "1,0",
+        "target_vertex": "1,1",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:2:0",
+        "ordered_word": [
+          "B:2:0"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:2:0",
+        "source_vertex": "2,0",
+        "target_vertex": "2,1",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:3:0",
+        "ordered_word": [
+          "B:3:0"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:3:0",
+        "source_vertex": "3,0",
+        "target_vertex": "3,1",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:4:0",
+        "ordered_word": [
+          "B:4:0"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:4:0",
+        "source_vertex": "4,0",
+        "target_vertex": "4,1",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:0:1",
+        "ordered_word": [
+          "B:0:1"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:0:1",
+        "source_vertex": "0,1",
+        "target_vertex": "0,2",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:1:1",
+        "ordered_word": [
+          "B:1:1"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:1:1",
+        "source_vertex": "1,1",
+        "target_vertex": "1,2",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:2:1",
+        "ordered_word": [
+          "B:2:1"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:2:1",
+        "source_vertex": "2,1",
+        "target_vertex": "2,2",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:3:1",
+        "ordered_word": [
+          "B:3:1"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:3:1",
+        "source_vertex": "3,1",
+        "target_vertex": "3,2",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:4:1",
+        "ordered_word": [
+          "B:4:1"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:4:1",
+        "source_vertex": "4,1",
+        "target_vertex": "4,2",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:0:2",
+        "ordered_word": [
+          "B:0:2"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:0:2",
+        "source_vertex": "0,2",
+        "target_vertex": "0,3",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:1:2",
+        "ordered_word": [
+          "B:1:2"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:1:2",
+        "source_vertex": "1,2",
+        "target_vertex": "1,3",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:2:2",
+        "ordered_word": [
+          "B:2:2"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:2:2",
+        "source_vertex": "2,2",
+        "target_vertex": "2,3",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:3:2",
+        "ordered_word": [
+          "B:3:2"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:3:2",
+        "source_vertex": "3,2",
+        "target_vertex": "3,3",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:4:2",
+        "ordered_word": [
+          "B:4:2"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:4:2",
+        "source_vertex": "4,2",
+        "target_vertex": "4,3",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:0:3",
+        "ordered_word": [
+          "B:0:3"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:0:3",
+        "source_vertex": "0,3",
+        "target_vertex": "0,4",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:1:3",
+        "ordered_word": [
+          "B:1:3"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:1:3",
+        "source_vertex": "1,3",
+        "target_vertex": "1,4",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:2:3",
+        "ordered_word": [
+          "B:2:3"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:2:3",
+        "source_vertex": "2,3",
+        "target_vertex": "2,4",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:3:3",
+        "ordered_word": [
+          "B:3:3"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:3:3",
+        "source_vertex": "3,3",
+        "target_vertex": "3,4",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      },
+      {
+        "source_id": "SE46-consistent-subdivision/B:4:3",
+        "ordered_word": [
+          "B:4:3"
+        ],
+        "frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "1",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1/4"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "1"
+            ]
+          }
+        ],
+        "edge": "B:4:3",
+        "source_vertex": "4,3",
+        "target_vertex": "4,4",
+        "source_frame": [
+          [
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1"
+          ]
+        ]
+      }
+    ]
+  },
+  "formal": {
+    "unit_order": 2,
+    "depth": 8,
+    "generators": [
+      [
+        [
+          "0",
+          "1"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      [
+        [
+          "0",
+          "0"
+        ],
+        [
+          "1",
+          "0"
+        ]
+      ],
+      [
+        [
+          "0",
+          "1"
+        ],
+        [
+          "2",
+          "0"
+        ]
+      ]
+    ],
+    "logarithm": [
+      [
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      [
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      [
+        [
+          "0",
+          "2"
+        ],
+        [
+          "3",
+          "0"
+        ]
+      ],
+      [
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "-1"
+        ]
+      ],
+      [
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      [
+        [
+          "0",
+          "1/3"
+        ],
+        [
+          "-4/3",
+          "0"
+        ]
+      ],
+      [
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      [
+        [
+          "-1/3",
+          "0"
+        ],
+        [
+          "0",
+          "1/3"
+        ]
+      ]
+    ],
+    "order_only_word": [
+      [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      [
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      [
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      [
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "-1"
+        ]
+      ],
+      [
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      [
+        [
+          "0",
+          "1"
+        ],
+        [
+          "-1",
+          "0"
+        ]
+      ],
+      [
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ]
+    ],
+    "count_horizontal_return": [
+      [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      [
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      [
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      [
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      [
+        [
+          "-2/3",
+          "0"
+        ],
+        [
+          "0",
+          "2/3"
+        ]
+      ],
+      [
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      [
+        [
+          "0",
+          "4/9"
+        ],
+        [
+          "-2/3",
+          "0"
+        ]
+      ],
+      [
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      [
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "4/9"
+        ]
+      ]
+    ]
+  },
+  "lifted_memory_grids": [
+    {
+      "source_id": "SE46-retained-central-memory-0",
+      "width": 2,
+      "height": 1,
+      "rank": 5,
+      "frames": {
+        "0,0": [
+          [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        ],
+        "1,0": [
+          [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        ],
+        "2,0": [
+          [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        ],
+        "0,1": [
+          [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        ],
+        "1,1": [
+          [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        ],
+        "2,1": [
+          [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        ]
+      },
+      "edge_readings": [
+        {
+          "source_id": "SE46-retained-central-memory-0/A:0:0",
+          "ordered_word": [
+            "A:0:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 2,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "1",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 3,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+              ]
+            },
+            {
+              "probe": 4,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "A:0:0",
+          "source_vertex": "0,0",
+          "target_vertex": "1,0",
+          "source_frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-retained-central-memory-0/A:1:0",
+          "ordered_word": [
+            "A:1:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 2,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "1",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 3,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+              ]
+            },
+            {
+              "probe": 4,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "A:1:0",
+          "source_vertex": "1,0",
+          "target_vertex": "2,0",
+          "source_frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-retained-central-memory-0/A:0:1",
+          "ordered_word": [
+            "A:0:1"
+          ],
+          "frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 2,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "1",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 3,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+              ]
+            },
+            {
+              "probe": 4,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "A:0:1",
+          "source_vertex": "0,1",
+          "target_vertex": "1,1",
+          "source_frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-retained-central-memory-0/A:1:1",
+          "ordered_word": [
+            "A:1:1"
+          ],
+          "frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 2,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "1",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 3,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+              ]
+            },
+            {
+              "probe": 4,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "A:1:1",
+          "source_vertex": "1,1",
+          "target_vertex": "2,1",
+          "source_frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-retained-central-memory-0/B:0:0",
+          "ordered_word": [
+            "B:0:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 2,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "1",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 3,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+              ]
+            },
+            {
+              "probe": 4,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "B:0:0",
+          "source_vertex": "0,0",
+          "target_vertex": "0,1",
+          "source_frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-retained-central-memory-0/B:1:0",
+          "ordered_word": [
+            "B:1:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "1",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 2,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "1",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 3,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+              ]
+            },
+            {
+              "probe": 4,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "1",
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "B:1:0",
+          "source_vertex": "1,0",
+          "target_vertex": "1,1",
+          "source_frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-retained-central-memory-0/B:2:0",
+          "ordered_word": [
+            "B:2:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 2,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "1",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 3,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+              ]
+            },
+            {
+              "probe": 4,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "1",
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "B:2:0",
+          "source_vertex": "2,0",
+          "target_vertex": "2,1",
+          "source_frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "source_id": "SE46-retained-central-memory-1",
+      "width": 2,
+      "height": 1,
+      "rank": 5,
+      "frames": {
+        "0,0": [
+          [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        ],
+        "1,0": [
+          [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        ],
+        "2,0": [
+          [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        ],
+        "0,1": [
+          [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        ],
+        "1,1": [
+          [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        ],
+        "2,1": [
+          [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        ]
+      },
+      "edge_readings": [
+        {
+          "source_id": "SE46-retained-central-memory-1/A:0:0",
+          "ordered_word": [
+            "A:0:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 2,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "1",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 3,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+              ]
+            },
+            {
+              "probe": 4,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "A:0:0",
+          "source_vertex": "0,0",
+          "target_vertex": "1,0",
+          "source_frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-retained-central-memory-1/A:1:0",
+          "ordered_word": [
+            "A:1:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 2,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "1",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 3,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+              ]
+            },
+            {
+              "probe": 4,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "A:1:0",
+          "source_vertex": "1,0",
+          "target_vertex": "2,0",
+          "source_frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-retained-central-memory-1/A:0:1",
+          "ordered_word": [
+            "A:0:1"
+          ],
+          "frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 2,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "1",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 3,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+              ]
+            },
+            {
+              "probe": 4,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "A:0:1",
+          "source_vertex": "0,1",
+          "target_vertex": "1,1",
+          "source_frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-retained-central-memory-1/A:1:1",
+          "ordered_word": [
+            "A:1:1"
+          ],
+          "frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 2,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "1",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 3,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+              ]
+            },
+            {
+              "probe": 4,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "A:1:1",
+          "source_vertex": "1,1",
+          "target_vertex": "2,1",
+          "source_frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-retained-central-memory-1/B:0:0",
+          "ordered_word": [
+            "B:0:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 2,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "1",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 3,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+              ]
+            },
+            {
+              "probe": 4,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "B:0:0",
+          "source_vertex": "0,0",
+          "target_vertex": "0,1",
+          "source_frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-retained-central-memory-1/B:1:0",
+          "ordered_word": [
+            "B:1:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "1",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 2,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "1",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 3,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+              ]
+            },
+            {
+              "probe": 4,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "B:1:0",
+          "source_vertex": "1,0",
+          "target_vertex": "1,1",
+          "source_frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "source_id": "SE46-retained-central-memory-1/B:2:0",
+          "ordered_word": [
+            "B:2:0"
+          ],
+          "frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ],
+          "cut": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          ],
+          "readings": [
+            {
+              "probe": 0,
+              "accepted": [
+                "1",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 1,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "1",
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 2,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "1",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "probe": 3,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+              ]
+            },
+            {
+              "probe": 4,
+              "accepted": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ],
+              "complement": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "1"
+              ]
+            }
+          ],
+          "edge": "B:2:0",
+          "source_vertex": "2,0",
+          "target_vertex": "2,1",
+          "source_frame": [
+            [
+              "1",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "1",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "1",
+              "0",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "1"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "lifted_boundaries": [
+    [
+      [
+        "1",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "1",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0",
+        "1",
+        "0",
+        "1"
+      ],
+      [
+        "0",
+        "0",
+        "0",
+        "1",
+        "0"
+      ],
+      [
+        "0",
+        "0",
+        "0",
+        "0",
+        "1"
+      ]
+    ],
+    [
+      [
+        "1",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "1",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0",
+        "1",
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0",
+        "0",
+        "1",
+        "0"
+      ],
+      [
+        "0",
+        "0",
+        "0",
+        "0",
+        "1"
+      ]
+    ]
+  ],
+  "noise": {
+    "raw_returns": [
+      [
+        [
+          "4/5",
+          "-3/5",
+          "0"
+        ],
+        [
+          "3/5",
+          "4/5",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "1"
+        ]
+      ],
+      [
+        [
+          "1",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "15/17",
+          "-8/17"
+        ],
+        [
+          "0",
+          "8/17",
+          "15/17"
+        ]
+      ]
+    ],
+    "connectors": [
+      [
+        [
+          "12/13",
+          "0",
+          "-5/13"
+        ],
+        [
+          "0",
+          "1",
+          "0"
+        ],
+        [
+          "5/13",
+          "0",
+          "12/13"
+        ]
+      ],
+      [
+        [
+          "35/37",
+          "-12/37",
+          "0"
+        ],
+        [
+          "12/37",
+          "35/37",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "1"
+        ]
+      ]
+    ],
+    "read_returns": [
+      [
+        [
+          "25596/32005",
+          "-19197/32005",
+          "-160/6401"
+        ],
+        [
+          "3/5",
+          "4/5",
+          "0"
+        ],
+        [
+          "128/6401",
+          "-96/6401",
+          "6399/6401"
+        ]
+      ],
+      [
+        [
+          "6399/6401",
+          "-1280/108817",
+          "-2400/108817"
+        ],
+        [
+          "0",
+          "15/17",
+          "-8/17"
+        ],
+        [
+          "160/6401",
+          "51192/108817",
+          "95985/108817"
+        ]
+      ]
+    ],
+    "read_connectors": [
+      [
+        [
+          "12/13",
+          "0",
+          "-5/13"
+        ],
+        [
+          "-1000/130013",
+          "9999/10001",
+          "-2400/130013"
+        ],
+        [
+          "49995/130013",
+          "200/10001",
+          "119988/130013"
+        ]
+      ],
+      [
+        [
+          "35/37",
+          "-12/37",
+          "0"
+        ],
+        [
+          "119988/370037",
+          "349965/370037",
+          "-200/10001"
+        ],
+        [
+          "2400/370037",
+          "7000/370037",
+          "9999/10001"
+        ]
+      ]
+    ],
+    "aligned_reading_packets": [
+      {
+        "source_id": "SE46-noisy-aligned-cell-0",
+        "ordered_word": [
+          "0"
+        ],
+        "frame": [
+          [
+            "1",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "447716505003299/540992682308845",
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "23122960914564/41614821716065",
+              "233345793948/2924284769237"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-23231650083036/41614821716065",
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "2560207841604/3201140132005",
+              "49643159783/224944982249"
+            ]
+          },
+          {
+            "probe": 2,
+            "accepted": [
+              "6362694008748/108198536461769",
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-1890860296477/8322964343213",
+              "2842622069868/2924284769237"
+            ]
+          }
+        ]
+      },
+      {
+        "source_id": "SE46-noisy-aligned-cell-1",
+        "ordered_word": [
+          "1"
+        ],
+        "frame": [
+          [
+            "1",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "1"
+          ]
+        ],
+        "cut": [
+          [
+            "1",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0"
+          ]
+        ],
+        "readings": [
+          {
+            "probe": 0,
+            "accepted": [
+              "14657979400863735/14900026858430473",
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-510589263882880/14900026858430473",
+              "70961974351104/402703428606229"
+            ]
+          },
+          {
+            "probe": 1,
+            "accepted": [
+              "-699841223986560/14900026858430473",
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "13384429002325527/14900026858430473",
+              "175941758834360/402703428606229"
+            ]
+          },
+          {
+            "probe": 2,
+            "accepted": [
+              "-69772993738496/402703428606229",
+              "0",
+              "0"
+            ],
+            "complement": [
+              "0",
+              "-176416647883080/402703428606229",
+              "9600452992785/10883876448817"
+            ]
+          }
+        ]
+      }
+    ],
+    "return_error_bound": "1/40",
+    "connector_error_bound": "1/50",
+    "factor_error_bound": "13/200",
+    "product_error_bound": "13/100",
+    "true_boundary": [
+      [
+        "3343745/3933137",
+        "-747108/1512745",
+        "97044/531505"
+      ],
+      [
+        "146100/302549",
+        "69012/116365",
+        "-26341/40885"
+      ],
+      [
+        "48564/231361",
+        "11317/17797",
+        "4644/6253"
+      ]
+    ],
+    "read_boundary": [
+      [
+        "1360070467626135466628729772225/1612161099323226938778109086737",
+        "-4148480530380508117594462104276/8060805496616134693890545433685",
+        "33342004698143139370842691436/217859608016652289024068795505"
+      ],
+      [
+        "3495517014288481521483027180/7294846603272520084968819397",
+        "21631854229640737879933398292/36474233016362600424844096985",
+        "-637841603739445735855314837/985790081523313524995786405"
+      ],
+      [
+        "10554432156871131093723448324/43571921603330457804813759101",
+        "26979513799253927687732895213/43571921603330457804813759101",
+        "879613331116603442226734532/1177619502792715075805777273"
+      ]
+    ]
+  },
+  "nonunitary_noise": {
+    "factors": [
+      [
+        [
+          "1",
+          "1"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "1",
+          "1"
+        ]
+      ],
+      [
+        [
+          "1",
+          "-1"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ]
+    ],
+    "read_factors": [
+      [
+        [
+          "1",
+          "1"
+        ],
+        [
+          "1/100",
+          "1"
+        ]
+      ],
+      [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "1",
+          "1"
+        ]
+      ],
+      [
+        [
+          "1",
+          "-1"
+        ],
+        [
+          "1/80",
+          "1"
+        ]
+      ]
+    ],
+    "telescoped_error": [
+      [
+        "1/80",
+        "0"
+      ],
+      [
+        "9/400",
+        "-1/100"
+      ]
+    ],
+    "row_norm_bound": "23/400"
+  },
+  "checks": [
+    {
+      "name": "complete cut/complement edge readings recover the supplied count transports",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "comb tree edges normalize to identity",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "four aligned faces recover all four independent chord matrices",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "ordered transported cell product equals direct paired boundary",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "discarding connectors gives a wrong boundary",
+      "kind": "negative",
+      "pass": true
+    },
+    {
+      "name": "reversing the specified row order changes the return",
+      "kind": "negative",
+      "pass": true
+    },
+    {
+      "name": "missing edge observation is rejected",
+      "kind": "negative",
+      "pass": true
+    },
+    {
+      "name": "inconsistent endpoint frame labels are rejected",
+      "kind": "negative",
+      "pass": true
+    },
+    {
+      "name": "missing complementary channel is rejected",
+      "kind": "negative",
+      "pass": true
+    },
+    {
+      "name": "independent vertex frames give one common root conjugation of all cells",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "moving-frame boundary and reconstructed product remain covariant",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "an alternative tree preserves the based boundary with its own path word",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "reusing the comb scan with another tree is not a lawful replacement",
+      "kind": "negative",
+      "pass": true
+    },
+    {
+      "name": "a relocated base has the same trace and reconstructs the original return",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "all identity faces give identity normalized edges on the supplied grid",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "omitting one face leaves a boundary ambiguity in the unrestricted protocol",
+      "kind": "negative",
+      "pass": true
+    },
+    {
+      "name": "both face banks have equal individual conjugacy classes",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "individual cell spectra miss a different boundary trace",
+      "kind": "negative",
+      "pass": true
+    },
+    {
+      "name": "source-consistent subdivision preserves edge products exactly",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "sixteen refined cells reconstruct the same four-cell boundary",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "refinement without consistent edge products can change the source",
+      "kind": "negative",
+      "pass": true
+    },
+    {
+      "name": "formal logarithm retains the generator sum and ordered commutator correction",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "adding logarithms alone loses the nonzero second-order response",
+      "kind": "negative",
+      "pass": true
+    },
+    {
+      "name": "a closed order-only word is invisible below unit depth four",
+      "kind": "negative",
+      "pass": true
+    },
+    {
+      "name": "unit depth four detects its exact nonzero commutator",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "forward T-then-V comparison reads the negative counting-curvature coefficient",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "all projected edge and cell matrices coincide in the two lifted sources",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "projected identity does not determine the retained central memory",
+      "kind": "negative",
+      "pass": true
+    },
+    {
+      "name": "ordered full-channel reconstruction retains the integer memory",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "declared sensor and connector bounds hold with unitary true and read maps",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "transported-cell error includes twice the connector uncertainty",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "two unitary cell errors obey the exact product budget 13/100",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "measured boundary residual exceeds the error budget and certifies nonidentity",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "general nonunitary product obeys the exact telescoping identity and norm bound",
+      "kind": "positive",
+      "pass": true
+    },
+    {
+      "name": "a sub-budget reading can still come from a nonidentity source",
+      "kind": "negative",
+      "pass": true
+    }
+  ],
+  "check_count": 35,
+  "negative_control_count": 13
+}

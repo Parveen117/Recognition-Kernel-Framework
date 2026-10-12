@@ -8,7 +8,25 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current counting development: SE45, 13 October 2026
+## Current counting development: SE46, 13 October 2026
+
+[Ordered cell reconstruction with moving observers and retained memory](../../research/lambda_counting/SE46_ORDERED_CELL_RECONSTRUCTION.md)
+recovers complete noncommuting boundary returns by transporting cells
+to an auxiliary common fibre and using their proved product order.
+Individual cell spectra and conjugacy classes can agree while boundary
+traces differ; complete relative readings repair that loss.
+
+The construction attaches to an actual count connection, preserves
+consistent refinement, retains formal commutator layers and declared
+lifted memory, and budgets observation and connector errors. Six theorem
+groups and 35 exact controls, including 13 negative controls, have the
+separate scopes in [scope](../../research/lambda_counting/SE46_SCOPE.md),
+[sources](../../research/lambda_counting/SE46_SOURCE_RECORD.md) and
+[readings](../../proof_lab/ORDERED_CELL_RECONSTRUCTION_RESULT.json).
+This finite reconstruction changes neither the actual RH source bound
+nor the inherited full-engine verification boundary.
+
+## Variable jya and tracking: SE45, 13 October 2026
 
 [Variable jya, resolved curvature and a moving source](../../research/lambda_counting/SE45_VARIABLE_JYA_CURVATURE_AND_TRACKING.md)
 extends the fixed-turn construction to changing turns and identifies

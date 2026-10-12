@@ -1,5 +1,28 @@
 # Claim Boundary for the Current Paper
 
+## SE46 ordered cell reconstruction, 13 October 2026
+
+[SE46](../../research/lambda_counting/SE46_ORDERED_CELL_RECONSTRUCTION.md)
+proves exact noncommuting loop reconstruction from complete edge and
+transported cell readings, with moving-frame covariance and an auxiliary
+root. The independent chord count is specific to an unrestricted finite
+matrix-target protocol. Individual cell conjugacy classes do not retain
+enough relative information to determine even the boundary trace.
+
+The counting connection, consistent subdivision, formal logarithmic
+order correction, declared lifted memory and finite observation-error
+budget have explicit separate hypotheses. Identity of all supplied
+discrete loops is not continuum flatness; one identity boundary is not
+identity of every cell. Projected matrices cannot recover already
+discarded kernel memory. No universal numerical logarithm or general
+feedback-convergence claim is made.
+
+Six theorem groups and 35 exact controls, including 13 negative controls,
+have the scopes in [SE46 scope](../../research/lambda_counting/SE46_SCOPE.md).
+The inherited full-engine pin mismatch, actual RH source, global eta
+1079/2000 with floor 1/492000, V_16 eta-zero certificate and unproved
+universal source sign remain unchanged. No Yang--Mills mass gap follows.
+
 ## SE45 variable jya, refined curvature and tracking, 13 October 2026
 
 [SE45](../../research/lambda_counting/SE45_VARIABLE_JYA_CURVATURE_AND_TRACKING.md)

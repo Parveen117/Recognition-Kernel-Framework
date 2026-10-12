@@ -8,6 +8,22 @@ The shared operator engine stays in
 [operator_foundation](../../operator_foundation/README.md).
 
 The current development is
+**[SE46: ordered cell reconstruction](SE46_ORDERED_CELL_RECONSTRUCTION.md)**.
+Complete noncommuting cell returns are aligned by retained tree paths
+and composed in an exact boundary order. The comparison point is
+auxiliary under moving vertex frames. A strict spectral collision shows
+why individual cell conjugacy classes lose relative information needed
+even for the global trace. Actual counting transports, source-consistent
+subdivision, formal commutator layers and retained memory fit the same
+reconstruction. The finite error budget includes connector uncertainty.
+Six theorem groups and 35 exact controls, including 13 negative controls,
+are recorded in [scope](SE46_SCOPE.md), [sources](SE46_SOURCE_RECORD.md),
+[pins](SE46_SOURCE_PINS.json) and
+[readings](../../proof_lab/ORDERED_CELL_RECONSTRUCTION_RESULT.json).
+No continuum flatness, forgotten winding, unknown source convergence or
+improved RH bound is inferred from a finite identity return.
+
+The preceding stage is
 **[SE45: variable jya, resolved curvature and a moving source](SE45_VARIABLE_JYA_CURVATURE_AND_TRACKING.md)**.
 Changing turns have an exact jya law with a proved two-reading blind
 case and complementary repair. Complete paired paths separate the closed
@@ -115,6 +131,7 @@ This changes calibration, not physical curvature or the RH source sign.
 | [SE42](SE42_COUNTING_CURVATURE_AND_OBSERVER_MEMORY.md) | Curvature from counting paths, frame/direction covariance, Bianchi identity, moving-cut complement returns and sharp unit-memory depth; scoped observer readings |
 | [SE43](SE43_COUNTING_TO_EMK_SEAM_TRANSPORT.md) | Counting/EMK movement adapter, compatible matrix seams, frame-independent descent, retained integer order memory and observer depth; scoped observer readings |
 | [SE44](SE44_TVSP_LINES_ANGLE_AND_NATIVE_JYA.md) | Counting lines and response lifts, native angle/period, exact jya and moving-observer operator recurrence, actual curvature attachment and source-preserving sine correction; scoped observer readings |
+| [SE46](SE46_ORDERED_CELL_RECONSTRUCTION.md) | Tree-aligned noncommuting cell reconstruction, relative spectral blindness, actual count connection and subdivision, formal order layers, retained memory and observation-error bounds; scoped observer readings |
 | [SE45](SE45_VARIABLE_JYA_CURVATURE_AND_TRACKING.md) | Variable-turn jya and its blind cases, paired-path invariant, inhomogeneous count flux, bounded refinement recovery and source-preserving tracking with drift; scoped observer readings |
 
 The polynomial calibration stage is **SE38**. The degree

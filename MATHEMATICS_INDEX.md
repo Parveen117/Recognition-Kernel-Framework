@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 13 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE45 (SE34--SE38 and SE41--SE45 carry scoped observer readings; SE45 develops variable jya, refined curvature recovery and moving-source tracking; the universal RH source sign remains open).
+Index update: 13 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE46 (SE34--SE38 and SE41--SE46 carry scoped observer readings; SE46 reconstructs noncommuting boundary returns from ordered transported cells and retained memory; the universal RH source sign remains open).
 
 ## Active operator-engine route
 
@@ -10,6 +10,29 @@ Index update: 13 October 2026, operator mathematics version 0.5 with additive re
 Read the [native primitive order](operator_foundation/theory/NATIVE_PRIMITIVE_ORDER.md), [algebra and observer contracts](operator_foundation/theory/01_NATIVE_ALGEBRA.md), [completion and memory](operator_foundation/theory/02_COMPLETION_AND_MEMORY.md), [Laurent/jet repair](operator_foundation/theory/NATIVE_LAURENT_JET_REPAIR.md), [Pāṇinian symbolic compiler](operator_foundation/theory/PANINIAN_OPERATOR_COMPILER.md), [automatic normal basis and regular action](operator_foundation/theory/AUTOMATIC_REGULAR_MODEL.md), then [weighted operator completion and certified response](operator_foundation/theory/WEIGHTED_OPERATOR_COMPLETION.md).
 
 The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [source index](operator_foundation/SOURCE_INDEX.md), and [master certificate](operator_foundation/audit/MASTER_CERTIFICATE.json) bind this route. The public source archive at `operator_foundation/sources/rkf_reference` includes the corrected T50/T54 edition and full Morphic/Pāṇinian source directories. Use that corrected source where the older root version differs. This does not silently overwrite old source-pinned files.
+
+## Ordered cells SE46: noncommuting reconstruction and retained memory
+
+[SE46](research/lambda_counting/SE46_ORDERED_CELL_RECONSTRUCTION.md)
+extends scalar refinement to complete noncommuting response returns.
+Tree transport aligns the cell observations, and an exact ordered grid
+formula recovers the boundary. The root remains auxiliary under moving
+frames. Equal individual cell conjugacy classes can still give different
+boundary traces; their relative calibration is necessary.
+
+The construction attaches to an actual counting connection and preserves
+source-consistent subdivision. It retains the first ordered commutator
+unit layer and any declared memory lift, with a product-error bound that
+includes connector uncertainty. Six written theorem groups and 35 exact
+controls, including 13 negative controls, have separate scopes in
+[scope](research/lambda_counting/SE46_SCOPE.md),
+[sources](research/lambda_counting/SE46_SOURCE_RECORD.md),
+[pins](research/lambda_counting/SE46_SOURCE_PINS.json),
+[replay](proof_lab/ordered_cell_reconstruction.py) and
+[readings](proof_lab/ORDERED_CELL_RECONSTRUCTION_RESULT.json).
+Discrete loop identity does not establish continuum flatness or recover
+forgotten memory. The inherited full-engine pin failure and actual RH
+source boundary remain unchanged.
 
 ## Variable jya SE45: refined curvature readings and moving-source tracking
 
