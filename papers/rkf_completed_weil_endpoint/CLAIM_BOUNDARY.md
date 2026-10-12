@@ -1,5 +1,28 @@
 # Claim Boundary for the Current Paper
 
+## SE40 cyclic observer and analytic memory, 12 October 2026
+
+[SE40](development/SE40_CYCLIC_OBSERVER_AND_ANALYTIC_MEMORY.md) constructs
+the action A_tau on the unchanged admitted X and proves its norm bound,
+cyclicity, calibration transport and source-symmetry. The Green kernel's
+odd boundary and the source's full pole term are retained. No bounded
+inverse of the weighting R is assumed.
+
+Its N-direction Hankel Gram is decoded from 2N-1 response coefficients.
+This algebraic data count is not a universal acquisition or noise-cost
+bound. Geometric tails control specified analytic probes and their
+coefficient budgets, not the entire X unit ball. Source-symmetric
+contractive generation does not imply a positive source; an explicit
+negative model is included. No new actual xi Hankel minor is certified.
+
+Sixteen exact controls check actual polynomial state actions and supplied
+rational response models. The five theorem groups are written proofs,
+not proof-assistant or external verification. Global eta=1079/2000,
+floor 1/492000 and the SE21 V_16 eta-zero result remain unchanged;
+V_16 is not this new tower's first sixteen directions. The required
+all-order source sign, RH and historical five-label attachment remain
+open. See [scope](development/SE40_SCOPE.md).
+
 ## SE39 direct RH bridge, 12 October 2026
 
 [SE39](development/SE39_DIRECT_RH_BRIDGE_AND_ZERO_SECTORS.md) uses the

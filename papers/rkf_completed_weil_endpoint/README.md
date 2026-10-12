@@ -8,7 +8,27 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current RH development: SE39, 12 October 2026
+## Current mathematical development: SE40, 12 October 2026
+
+[Cyclic source observer and analytic memory](development/SE40_CYCLIC_OBSERVER_AND_ANALYTIC_MEMORY.md)
+supplies a bounded action on the actual native graph, a dense cyclic
+observation tower and a Hankel decoder for its complete mixed source
+readings. N tower directions require 2N-1 scalar response coefficients.
+The calibration moves by an exact operator identity, with geometric
+state and reading errors and explicit coefficient-memory tails.
+
+At tau=25/4 the action norm is at most 1/4; actual source and seed
+bounds make its analytic error budget explicit. This supplies a
+convergence contract for this formal unit action. It does not prove
+the Hankel sequence positive or give a uniform tail over all unit
+states. The global eta anchor and finite V_16 certificate are unchanged.
+See five written theorem groups and sixteen exact controls in
+[scope](development/SE40_SCOPE.md),
+[sources](development/SE40_SOURCE_RECORD.md),
+[replay](../../proof_lab/endpoint_cyclic_observer_controls.py) and
+[saved readings](../../proof_lab/ENDPOINT_CYCLIC_OBSERVER_CONTROLS.json).
+
+## Preceding RH development: SE39, 12 October 2026
 
 [Direct RH bridge and zero-sector readings](development/SE39_DIRECT_RH_BRIDGE_AND_ZERO_SECTORS.md)
 proves a written equivalence between RH and positivity of the actual

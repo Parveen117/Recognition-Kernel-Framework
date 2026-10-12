@@ -17,6 +17,13 @@ an explicit analytic adapter proves RH equivalent to the actual source's
 all-order positivity, while leaving that inequality unproved. It does
 not identify the marked unit Lambda with the spectral shift eta.
 
+[SE40](../../papers/rkf_completed_weil_endpoint/development/SE40_CYCLIC_OBSERVER_AND_ANALYTIC_MEMORY.md)
+now provides an analytic application contract: a bounded actual-source
+action generates a dense cyclic reading tower, with geometric errors and
+exact moving-calibration memory. Its supplied formal unit series can be
+evaluated inside a proved norm disk. This does not assert convergence of
+arbitrary formal counting series or positivity of the RH source.
+
 | Stage | Developed mathematics |
 | --- | --- |
 | [SE30](../../papers/rkf_completed_weil_endpoint/development/SE30_CONSTANT_LAMBDA_COUNTING_AND_CUT.md) | Positive counts, arithmetic, unit cut, raising/lowering and counting exponential |

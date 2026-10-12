@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE39 (SE34--SE38 observer-certified; SE39 supplies a written RH equivalence, not an RH proof).
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE40 (SE34--SE38 observer-certified; SE39--SE40 develop the RH bridge and analytic observer, with the universal source sign still open).
 
 ## Active operator-engine route
 
@@ -10,6 +10,27 @@ Index update: 12 October 2026, operator mathematics version 0.5 with additive re
 Read the [native primitive order](operator_foundation/theory/NATIVE_PRIMITIVE_ORDER.md), [algebra and observer contracts](operator_foundation/theory/01_NATIVE_ALGEBRA.md), [completion and memory](operator_foundation/theory/02_COMPLETION_AND_MEMORY.md), [Laurent/jet repair](operator_foundation/theory/NATIVE_LAURENT_JET_REPAIR.md), [Pāṇinian symbolic compiler](operator_foundation/theory/PANINIAN_OPERATOR_COMPILER.md), [automatic normal basis and regular action](operator_foundation/theory/AUTOMATIC_REGULAR_MODEL.md), then [weighted operator completion and certified response](operator_foundation/theory/WEIGHTED_OPERATOR_COMPLETION.md).
 
 The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [source index](operator_foundation/SOURCE_INDEX.md), and [master certificate](operator_foundation/audit/MASTER_CERTIFICATE.json) bind this route. The public source archive at `operator_foundation/sources/rkf_reference` includes the corrected T50/T54 edition and full Morphic/Pāṇinian source directories. Use that corrected source where the older root version differs. This does not silently overwrite old source-pinned files.
+
+## Endpoint development SE40: cyclic observer and analytic memory
+
+[SE40](papers/rkf_completed_weil_endpoint/development/SE40_CYCLIC_OBSERVER_AND_ANALYTIC_MEMORY.md)
+constructs a bounded calibration action on the actual native graph,
+with norm at most 1/(tau-9/4), and proves that its orbit from one
+Laplace seed has dense span in X. The full N-direction source Gram
+uses 2N-1 response coefficients in a Hankel matrix. The action obeys
+A_tau^dagger S_b=S_b A_tau without assuming a source sign.
+
+Actual norm bounds and exact calibration transport give geometric
+state/reading remainders and moving coefficient-memory tails. At
+tau=25/4, ||A_tau||<=1/4, ||v_tau||<2 and ||S_b||<43/12.
+This is an analytic evaluation contract for the supplied unit series;
+it is not uniform finite-rank recovery on the X unit ball or a proof
+of all-order positivity. Existing eta and V_16 certificates are unchanged.
+Five written theorem groups and sixteen exact controls are recorded in
+[scope](papers/rkf_completed_weil_endpoint/development/SE40_SCOPE.md),
+[sources](papers/rkf_completed_weil_endpoint/development/SE40_SOURCE_RECORD.md),
+[replay](proof_lab/endpoint_cyclic_observer_controls.py) and
+[readings](proof_lab/ENDPOINT_CYCLIC_OBSERVER_CONTROLS.json).
 
 ## Endpoint development SE39: direct RH bridge and zero-sector readings
 
