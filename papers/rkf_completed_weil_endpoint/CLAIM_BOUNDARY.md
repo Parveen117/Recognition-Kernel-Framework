@@ -1,5 +1,26 @@
 # Claim Boundary for the Current Paper
 
+## SE36 development draft, 12 October 2026
+
+[SE36](../../research/lambda_counting/SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md)
+derives exact restricted-probe fibres and finite polynomial response
+closure for a supplied affine action catalogue on a known finite
+counting sector. A second construction covers nonlinear polynomial
+actions with affine cut at fixed unit-memory depth, using an explicit
+finite weighted degree bound. Actual protocol words witness the
+available readings; inverse actions are used only when supplied.
+
+The completed bank determines future catalogue readings, which does
+not automatically recover the original input. Linear, polynomial and
+set-theoretic decoders have different conditions. Restricted blind
+fibres need not be fixed linear cosets. Protocol branching assumes
+the declared access to the same initial source or a repeatable copy.
+Neither arbitrary nonlinear cut actions nor a uniform finite observer
+for all unit depths are claimed. The moving-calibration equation is
+an algebraic observation update, not a physical clock law. Certification,
+new pins and verification runs remain deferred. Earlier certificates
+and application boundaries are unchanged.
+
 ## SE35 development draft, 12 October 2026
 
 [SE35](../../research/lambda_counting/SE35_ACTIVE_READINGS_AND_SINGULAR_CUT_REPAIR.md)

@@ -8,7 +8,20 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current foundational development: SE35 draft, 12 October 2026
+## Current foundational development: SE36 draft, 12 October 2026
+
+[SE36](../../research/lambda_counting/SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md)
+develops the restricted observer. It retains nonlinear blind fibres,
+constructs finite complete observation from supplied affine action
+words, and synthesizes new probe directions through reversible paths.
+A degree-versus-unit-order bound extends finite observation closure to
+nonlinear actions with affine cut at each retained unit depth. The
+completed response satisfies an exact update with its calibration
+included. Certification and executable replay remain deferred; the
+[counting chapter](../../research/lambda_counting/INDEX.md) records the
+derivations and examples. RH remains deferred.
+
+## Preceding foundational development: SE35 draft, 12 October 2026
 
 [SE35](../../research/lambda_counting/SE35_ACTIVE_READINGS_AND_SINGULAR_CUT_REPAIR.md)
 derives which input differences remain invisible to all translated-input

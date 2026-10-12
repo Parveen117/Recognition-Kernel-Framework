@@ -20,9 +20,20 @@ objects with separate types. RH and curvature development are deferred.
 | [SE33](SE33_JOINT_READINGS_AND_NONLINEAR_COUNTING.md) | Joint banks, diagonal/order recovery, finite nonlinear response rules and exact nonlinear triangular inversion |
 | [SE34 development](SE34_DEPENDENCY_FEEDBACK_AND_UNIT_MEMORY.md) | Dependency order, feedback cycles, lifting a cut inverse through unit memory and residual corrections; certification deferred |
 | [SE35 development](SE35_ACTIVE_READINGS_AND_SINGULAR_CUT_REPAIR.md) | Active probe readings, exact nonlinear blind fibres, descending response decoding and repair before unit lifting; certification deferred |
+| [SE36 development](SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md) | Restricted probes, available action-word closure, synthesized probe directions and finite nonlinear observation at retained unit depth; certification deferred |
 
-The current development is **SE35, a derivation draft**. For a supplied
-polynomial response and lawful translated-input probes, it derives the
+The current development is **SE36, a derivation draft**. Restricted
+probes can leave nonlinear, input-dependent fibres. For an affine
+action catalogue, closure of the polynomial response space supplies
+a finite bank determining every future allowed reading. Operator
+words can synthesize missing probe directions. Nonlinear actions
+with affine cut also have finite observation closure at each retained
+unit depth, by an explicit degree-versus-unit-order bound. The
+resulting update includes the observer's moving calibration.
+Read the [derivations and examples](SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md).
+
+The preceding **SE35 derivation draft** treats a supplied
+polynomial response and lawful translated-input probes. It derives the
 exact subspace invisible to every active reading. A finite probe bank
 and descending response orders recover the input modulo that subspace.
 The target determines the minimum number of further linear channels.
@@ -41,7 +52,7 @@ doubles the known unit order. The completed carrier permits new count
 support at later unit layers. Numerical convergence at a chosen
 nonzero Lambda is a separate question.
 
-No SE34 or SE35 certificate, replay archive, pin manifest or verification
+No SE34--SE36 certificate, replay archive, pin manifest or verification
 PASS has been issued. Certification is deferred at the user's request.
 Read the [SE34 derivations and examples](SE34_DEPENDENCY_FEEDBACK_AND_UNIT_MEMORY.md).
 The following SE33 record remains the preceding certified-reading stage.
