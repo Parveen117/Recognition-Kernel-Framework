@@ -1,5 +1,35 @@
 # Claim Boundary for the Current Paper
 
+## SE23 complete global residual-observer certificate, 12 October 2026
+
+[SE23](development/SE23_DYNAMIC_RESIDUAL_OBSERVER.md) proves
+S_b+(113/200)I_X >= (1/1476000)I_X on all complex odd native X,
+with every prime/Gamma contribution, full pole and infinite tails.
+The sufficient nonnegative shift improves to 833939/1476000.
+Negative count and nullity vanish for eta>=113/200. No strict gap
+or nullity conclusion is asserted at the implied smaller shift.
+
+The observed energy is one orthogonal coordinate of the actual
+Gamma residual, with every polynomial mixed term retained. Its
+recovery budget is certified below 199/200. A separate lower bound
+proves the diagonal-only budget exceeds 103/100 at the same eta
+and alpha; this is not a negative actual-source witness.
+
+The activation path is norm-continuous and Fredholm, with exactly
+one positive crossing of a lower comparison. It leaves the actual
+source unchanged. Frame transport preserves the represented
+counts; adding observed energy can change the comparison count.
+No general Atiyah--Singer extension, orientation-free spectral
+flow or arbitrary moving-endpoint homotopy invariance is asserted.
+
+Global eta=0, eta=1/2, critical recovery, historical five-label
+attachment, K0 and RH are still open. SE20's seed obstruction,
+SE21's infinite-complement obligation, the finite V_16 result and
+radius 21/25 remain unchanged. Source replay and Python controls
+pass; the unchanged required engine pin gate fails as documented
+in the [scope](development/SE23_SCOPE.md). No formal verification
+or external review is claimed.
+
 ## SE22 complete global positive-shift certificate, 12 October 2026
 
 [SE22](development/SE22_GLOBAL_RECIPROCAL_POLE.md) proves

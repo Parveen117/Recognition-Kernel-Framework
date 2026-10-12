@@ -359,6 +359,26 @@ Numerical certification remains deferred. The executed 59/100 anchor,
 1/7380 native reserve, 10883/18450 implied shift and local radius 21/25
 remain unchanged. Eta=1/2, cofinal eta-zero signs, K0 and RH stay open.
 
+## SE23 global residual observer and dynamic comparison
+
+| Obligation | Evidence | Status |
+| --- | --- | --- |
+| Global source sign | SE23.1, SE23.9--SE23.13 | S_b+(113/200)I_X >= (1/1476000)I_X on all X |
+| Source-attached coordinate | SE23.4--SE23.8 | One orthogonal Gamma event coordinate with exact full mixed energy |
+| Target recovery cost | SE23.9--SE23.13 | Complete budget < 199/200; cost of observation included |
+| Whole source and tails | 4495 cells, full prime masses, analytic exterior | Complete infinite-dimensional positive-shift certificate |
+| Same-parameter failure control | SE23.14--SE23.15 | Diagonal burden > 103/100; no negative actual-source claim |
+| Moving count | SE23.16--SE23.18 | One positive comparison crossing; source unchanged |
+| Source replay and controls | Ten named checks, 26 pins, nine new tests and eight navigation tests | PASS under Python 3.12 |
+| Required engine gate | Unchanged existing pin mismatch | FAIL, preserved and disclosed |
+| Global eta=0 | Not supplied | Open; finite SE21 evidence unchanged |
+| Formal / external review | Not performed | Not claimed |
+
+See the [proof](development/SE23_DYNAMIC_RESIDUAL_OBSERVER.md),
+[result](../../proof_lab/ENDPOINT_RESIDUAL_OBSERVER_RESULT.json),
+[replay](../../proof_lab/endpoint_residual_observer_certificate.py),
+[pins](development/SE23_SOURCE_PINS.json) and [scope](development/SE23_SCOPE.md).
+
 ## SE22 global reciprocal-pole certificate
 
 | Node | Evidence | Allowed conclusion |

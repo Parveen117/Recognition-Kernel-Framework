@@ -8,7 +8,31 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE22, 12 October 2026
+## Current endpoint development: SE23, 12 October 2026
+
+[Dynamic residual observer](development/SE23_DYNAMIC_RESIDUAL_OBSERVER.md)
+proves S_b+(113/200)I_X >= (1/1476000)I_X on the complete corrected
+complex odd native source. The sufficient global nonnegative shift
+improves to 833939/1476000, approximately 0.56499932249.
+
+One normalized observation from the actual sixteen-sheet Gamma
+residual reduces the certified pole budget below 199/200. The
+diagonal-only comparison fails at the same parameters, with burden
+above 1.0364. All 4495 whole cells, prime/Gamma tails and the infinite
+spatial exterior are included. A continuous activation path has
+one proved positive crossing of the comparison operator; the
+original source stays unchanged throughout.
+
+See the [result](../../proof_lab/ENDPOINT_RESIDUAL_OBSERVER_RESULT.json),
+[replay](../../proof_lab/endpoint_residual_observer_certificate.py),
+[controls](../../proof_lab/test_endpoint_residual_observer_certificate.py),
+[scope](development/SE23_SCOPE.md), [sources](development/SE23_SOURCE_RECORD.md)
+and [pins](development/SE23_SOURCE_PINS.json).
+Global eta=0 remains open. The SE21 finite V_16 sign and radius
+21/25 are preserved. The existing engine pin gate still fails;
+no engine PASS, formal verification or external review is asserted.
+
+## Preceding endpoint development: SE22, 12 October 2026
 
 [Global reciprocal-pole certificate](development/SE22_GLOBAL_RECIPROCAL_POLE.md)
 proves S_b+(227/400)I_X >= (1/1476000)I_X for the entire corrected

@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE22.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE23.
 
 ## Active operator-engine route
 
@@ -430,6 +430,33 @@ and [audit](papers/rkf_completed_weil_endpoint/development/SE16_SCOPE.md).
 The positive aperture remains 21/25. Eta=1/2, cofinal eta-zero
 positivity, global critical contractivity, the historical five-label
 endpoint, K0 and RH remain open. No formal or external review is claimed.
+
+## Endpoint development SE23: one residual observer and a moving count
+
+[SE23](papers/rkf_completed_weil_endpoint/development/SE23_DYNAMIC_RESIDUAL_OBSERVER.md)
+proves S_b+(113/200)I_X >= (1/1476000)I_X for the entire corrected
+complex odd native source. The sufficient nonnegative shift is
+833939/1476000, approximately 0.56499932249. One actual Gamma
+event coordinate recovers previously unobserved positive energy;
+its complete target budget is below 199/200. The diagonal-only
+budget exceeds 1.0364 at the exact same parameters.
+
+The rational observation includes all mixed terms. A 4495-cell
+whole-interval certificate retains every prime/Gamma tail and the
+infinite exterior. The norm-continuous activation path has one
+positive crossing of its comparison operator. This tracks the
+comparison's changing negative count while preserving the actual
+source; it is not a general Atiyah--Singer extension.
+
+See the [replay](proof_lab/endpoint_residual_observer_certificate.py),
+[result](proof_lab/ENDPOINT_RESIDUAL_OBSERVER_RESULT.json),
+[controls](proof_lab/test_endpoint_residual_observer_certificate.py),
+[scope](papers/rkf_completed_weil_endpoint/development/SE23_SCOPE.md),
+[sources](papers/rkf_completed_weil_endpoint/development/SE23_SOURCE_RECORD.md)
+and [pins](papers/rkf_completed_weil_endpoint/development/SE23_SOURCE_PINS.json).
+SE21's finite V_16 sign and radius 21/25 are unchanged. Global eta=0,
+critical recovery, historical five-label attachment, K0 and RH remain
+open. The required unchanged engine check still fails its old pin mismatch.
 
 ## Endpoint development SE22: global reciprocal-pole certificate below 0.57
 
