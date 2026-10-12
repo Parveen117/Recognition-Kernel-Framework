@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE20.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE21.
 
 ## Active operator-engine route
 
@@ -430,6 +430,31 @@ and [audit](papers/rkf_completed_weil_endpoint/development/SE16_SCOPE.md).
 The positive aperture remains 21/25. Eta=1/2, cofinal eta-zero
 positivity, global critical contractivity, the historical five-label
 endpoint, K0 and RH remain open. No formal or external review is claimed.
+
+## Endpoint development SE21: complete Laplace source and finite zero-shift certificate
+
+[SE21](papers/rkf_completed_weil_endpoint/development/SE21_COMPLETE_LAPLACE_GRAM.md)
+derives the exact complete-source Gram of positive-rate Laplace states,
+including all prime powers, Gamma modes and the full pole. Integer-rate
+states span a native dense family. Global positivity is equivalent to
+positivity of every size of its nested Gram; no finite stopping rule
+or all-order sign is supplied.
+
+The [replay](proof_lab/endpoint_zero_shift_laplace_certificate.py) and
+[result](proof_lab/ENDPOINT_ZERO_SHIFT_LAPLACE_RESULT.json) certify eta=0
+on the sixteen-dimensional complex span with rates 1,...,16. These
+states have unbounded spatial support. All mixed entries and analytic
+tails are enclosed; sixteen interval pivots pass. This is a finite
+subspace sign, not a certificate for the unobserved complement.
+
+See the [independent controls](proof_lab/test_endpoint_zero_shift_laplace_certificate.py),
+[scope](papers/rkf_completed_weil_endpoint/development/SE21_SCOPE.md),
+[source record](papers/rkf_completed_weil_endpoint/development/SE21_SOURCE_RECORD.md)
+and [pins](papers/rkf_completed_weil_endpoint/development/SE21_SOURCE_PINS.json).
+Global eta=0, critical recovery, historical five-label attachment, K0
+and RH remain open. The global shift and support-aperture frontiers
+are unchanged. The existing engine pin-mismatch remains a reported
+failure; no engine PASS or formal/external verification is claimed.
 
 ## Endpoint development SE20: complete cancellation at zero shift
 

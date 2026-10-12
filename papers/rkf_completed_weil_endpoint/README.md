@@ -8,7 +8,31 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE20, 12 October 2026
+## Current endpoint development: SE21, 12 October 2026
+
+[Complete Laplace source Gram](development/SE21_COMPLETE_LAPLACE_GRAM.md)
+evaluates the unchanged source directly at eta=0. A full sixteen-direction
+matrix is certified positive with every mixed entry, all prime powers,
+all Gamma modes and the full pole retained. It covers every complex
+combination of the declared integer-rate exponentials, whose spatial
+support is unbounded. The infinite analytic remainders are enclosed.
+
+This is positivity on a finite-dimensional source subspace. Native
+density of the full observation sequence is proved, but its all-order
+matrix sign and the unobserved complement remain unresolved. Thus
+global eta=0 is not proved. The prior global shift 10883/18450 and
+local support radius 21/25 remain unchanged; K0 and RH remain open.
+
+See the [result](../../proof_lab/ENDPOINT_ZERO_SHIFT_LAPLACE_RESULT.json),
+[replay](../../proof_lab/endpoint_zero_shift_laplace_certificate.py),
+[controls](../../proof_lab/test_endpoint_zero_shift_laplace_certificate.py),
+[source pins](development/SE21_SOURCE_PINS.json),
+[scope](development/SE21_SCOPE.md) and [source record](development/SE21_SOURCE_RECORD.md).
+The source replay and ten new tests pass. The required unchanged
+operator-engine gate still fails its previously recorded pin check;
+that failure is not hidden or repaired by changing its pins.
+
+## Preceding endpoint development: SE20, 12 October 2026
 
 [Exact prime--Gamma cancellation at zero shift](development/SE20_ZERO_SHIFT_PRIME_GAMMA_CANCELLATION.md)
 selects a direct unshifted-source route. The old diagonal seed has a

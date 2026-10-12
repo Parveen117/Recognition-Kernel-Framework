@@ -359,6 +359,24 @@ Numerical certification remains deferred. The executed 59/100 anchor,
 1/7380 native reserve, 10883/18450 implied shift and local radius 21/25
 remain unchanged. Eta=1/2, cofinal eta-zero signs, K0 and RH stay open.
 
+## SE21 complete Laplace source at zero shift
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Full Laplace matrix | SE21.3--SE21.8 | Exact source entries; complete primes, Gamma and pole |
+| Native dense observation family | SE21.10--SE21.11 | All-order matrix signs are equivalent to global positivity; not a finite stopping theorem |
+| Entire analytic derivative tails | SE21.12--SE21.16 | Proved Euler/Cauchy and Gamma remainders |
+| Executed sixteen-direction sign | SE21.17; 320 terms, 256 entries, sixteen interval pivots | Eta=0 for all complex states in V_16, with unbounded spatial support |
+| Independent finite controls | Ten Python tests | Analytic cross-checks and rejection of sign, mixed-entry and uncertain-pivot faults |
+| Unobserved complement / global eta=0 | No certificate | Open; K0 and RH unchanged |
+| Operator-engine gate | Read-only run repeats pre-existing pin mismatch | FAIL; engine files and pins preserved |
+
+See the [proof](development/SE21_COMPLETE_LAPLACE_GRAM.md),
+[replay](../../proof_lab/endpoint_zero_shift_laplace_certificate.py),
+[result](../../proof_lab/ENDPOINT_ZERO_SHIFT_LAPLACE_RESULT.json),
+[pins](development/SE21_SOURCE_PINS.json) and [scope](development/SE21_SCOPE.md).
+The previous global shift and local support radius remain unchanged.
+
 ## SE20 direct zero-shift cancellation (written stage)
 
 | Node | Written evidence | Allowed conclusion |

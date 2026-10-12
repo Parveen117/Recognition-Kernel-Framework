@@ -1,5 +1,28 @@
 # Claim Boundary for the Current Paper
 
+## SE21 finite zero-shift certificate boundary, 12 October 2026
+
+[SE21](development/SE21_COMPLETE_LAPLACE_GRAM.md) certifies the actual
+eta=0 source on V_16, the complex span of odd lifted exponentials with
+rates 1,...,16. It includes every mixed entry, complete prime and Gamma
+tails and the full pole, without a spatial cutoff or an RH assumption.
+Sixteen positive interval LDL pivots establish this finite-subspace
+sign. A pivot lower bound is not a native spectral gap.
+
+The full integer-rate family is proved native dense. Positivity of its
+matrix at every order would prove the global source sign; that universal
+condition is not supplied by the sixteen-direction PASS. Its infinite
+complement and mixed Schur condition remain open. The global eta-zero
+target, critical recovery, historical five-label attachment, K0 and RH
+are unfinished. Previous global-shift and support-aperture frontiers
+are unchanged.
+
+The Python source certificate and its independent controls pass. The
+required engine gate reproduces its existing pin-mismatch failure,
+with no engine or pin modifications. No repository-wide engine PASS,
+formal verification or external review is asserted. See the
+[scope](development/SE21_SCOPE.md) and [source record](development/SE21_SOURCE_RECORD.md).
+
 ## SE20 zero-shift cancellation boundary, 12 October 2026
 
 [SE20](development/SE20_ZERO_SHIFT_PRIME_GAMMA_CANCELLATION.md) proves
