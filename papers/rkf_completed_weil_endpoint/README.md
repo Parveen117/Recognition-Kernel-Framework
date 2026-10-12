@@ -8,33 +8,41 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE18, 12 October 2026
+## Current endpoint development: SE19, 12 October 2026
 
-[Floors of the pointwise route and the hybrid mechanism toward eta zero](development/SE18_FLOORS_OF_THE_POINTWISE_ROUTE_AND_HYBRID_MECHANISM.md)
-is a written stage (proofs and direct checks only; no replay or
-certificate, per the 10 October verification preference). For fixed
-comparison weights the certifiable shifts form a half-line [eta_pw,1);
-SE17's own archive gives eta_pw>=0.58938 for its weights, so the anchor
-0.59 is tight and a fourth anchor on this route needs new weights.
-Every comparison that bounds the odd pole by the constant b_c has the
-exact exterior value Q(0)=eta-b_c, a floor eta>=1/10 at the escaping
-end. The pole obeys a budget law: a density tau certifies it iff
-4 int v^2/tau<=1 (convex); the q_0 row (4/15)(z-z^3) saturates the
-budget, vanishes at infinity and exceeds the constant bound only on
-z in (0.48277,0.86415), by at most 0.00765.
+[Retained-residual pole recovery](development/SE19_RETAINED_RESIDUAL_POLE_RECOVERY.md)
+uses the actual Gamma and prime square residuals to recover the exact
+rank-one pole target. A full finite observation Gram supplies a
+sufficient source test. Each independent added observation lowers its
+pole burden by an exact amount, with zero gain precisely when it is
+blind to the remaining pole response. The written theorem also gives
+the best next coordinate within a declared candidate space and proves
+convergence at fixed eta and fixed comparison weights.
 
-At the cut point x=0 the prime row is 2 sum Lambda(n)n^-2 q(log n)/q(0)
-for every even weight; SE17's weights force eta>=0.5784 there, inside
-the radius 0.84 where SE14's exact matrix certificate already gives
-kappa_eta=0 for all eta>=0. The pointwise floor is a feature of the row
-method, not of the source. For f supported outside |x|<A the SE17
-identity alone certifies s[f]+eta||f||_X^2>=0 for eta>=Phi_ext(e^{-A/2})
-with Phi_ext=O(A e^{-A/2}); so eta-zero convergence is the local
-aperture program (growing moving-calibration certificates) with that
-exterior budget. Nothing below 0.59 is certified; eta=1/2, the cofinal
-eta-zero sign, K0 and RH stay open; the local radius stays 0.840. See
-the [scope](development/SE18_SCOPE.md) and
-[sources](development/SE18_SOURCE_RECORD.md).
+The construction requires a proved positive seed W>=w>0. That seed
+and a strict pole budget follow at the existing 0.59 anchor from SE17;
+no smaller-eta Gram is evaluated. Numerical certification remains
+deferred under the theory-first instruction. The executed frontier
+is still S_b+(59/100)I_X >= (1/7380)I_X, with implied nonnegative
+shift 10883/18450 and local radius 21/25. Eta=1/2, cofinal eta-zero
+signs, K0 and RH remain open. See the [scope](development/SE19_SCOPE.md),
+[sources](development/SE19_SOURCE_RECORD.md) and
+[claim boundary](CLAIM_BOUNDARY.md).
+
+## Preceding endpoint development: SE18, reviewed by SE19
+
+[SE18](development/SE18_FLOORS_OF_THE_POINTWISE_ROUTE_AND_HYBRID_MECHANISM.md)
+introduced a separate pole budget and the artificial constant-pole
+floor at the escaping end. Its historical files are preserved. The
+[SE19 audit](development/SE19_SE18_AUDIT.md) withdraws the inferred
+eta_pw>=0.58938/anchor-tightness claim and the finite-aperture
+max-only gluing conclusion. Interval lower bounds do not prove that
+route floor, and joined local/exterior signs require their mixed terms.
+The audit supplies a valid affine-slope proof and exterior majorant,
+corrects the auxiliary-row limit and pole polynomial sign, and restores
+SE15's localization budget and physical local tolerance. The qualitative
+cofinal core-density criterion remains valid; it gives no finite-stage
+global certificate by itself.
 
 ## Preceding endpoint development: SE17, 12 October 2026
 

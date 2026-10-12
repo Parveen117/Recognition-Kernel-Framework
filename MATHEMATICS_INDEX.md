@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE18.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE19.
 
 ## Active operator-engine route
 
@@ -431,29 +431,41 @@ The positive aperture remains 21/25. Eta=1/2, cofinal eta-zero
 positivity, global critical contractivity, the historical five-label
 endpoint, K0 and RH remain open. No formal or external review is claimed.
 
-## Endpoint development SE18: floors of the pointwise route and the hybrid mechanism
+## Endpoint development SE19: retained-residual pole recovery
+
+[SE19](papers/rkf_completed_weil_endpoint/development/SE19_RETAINED_RESIDUAL_POLE_RECOVERY.md)
+attaches the exact pole target to the actual bounded Gamma and prime
+residual observations. A positive diagonal seed and a full finite Gram
+give a sufficient source certificate. The burden decreases under nested
+independent observations; the exact gain vanishes iff the new observation
+misses the remaining pole response. A candidate-space maximization gives
+the best next coordinate. A complete observation family converges to its
+retained-residual comparison at fixed eta, not automatically to eta zero.
+
+The seed and strict pole budget already hold at SE17's existing 0.59
+anchor. No smaller-eta numerical evaluation is made in this theory-first
+stage. SE17's native floor 1/7380, implied shift 10883/18450 and SE14's
+radius 21/25 remain the executed frontier. Eta=1/2, cofinal eta-zero
+signs, historical five-label attachment, K0 and RH remain open. See the
+[scope](papers/rkf_completed_weil_endpoint/development/SE19_SCOPE.md) and
+[sources](papers/rkf_completed_weil_endpoint/development/SE19_SOURCE_RECORD.md).
+
+## Endpoint development SE18: pole budget, with SE19 corrections
 
 [SE18](papers/rkf_completed_weil_endpoint/development/SE18_FLOORS_OF_THE_POINTWISE_ROUTE_AND_HYBRID_MECHANISM.md)
-is a written stage (proofs and direct checks, no replay). It proves
-that a fixed pointwise comparison certifies exactly a half-line of
-shifts eta>=eta_pw, and reads from SE17's own archive that its anchor
-0.59 is tight (eta_pw>=0.58938). Every constant-pole comparison has the
-exact exterior value Q(0)=eta-b_c, hence a floor 1/10 at the escaping
-end. The pole obeys a convex budget law, 4 int v^2/tau<=1, saturated by
-the q_0 row (4/15)(z-z^3), which vanishes at infinity and exceeds the
-constant bound only on z in (0.48277,0.86415) by at most 0.00765.
-
-The prime row at the cut point is 2 sum Lambda(n)n^-2 q(log n)/q(0);
-SE17's weights force eta>=0.5784 at x=0, inside the radius 0.84 where
-SE14's exact matrix certificate already gives kappa_eta=0 for all
-eta>=0, so the route's floor is a row-method artifact. For f supported
-outside |x|<A, the SE17 identity certifies s[f]+eta||f||_X^2>=0 for
-eta>=Phi_ext(e^{-A/2})=O(A e^{-A/2}); eta-zero convergence is therefore
-the local aperture program with that exterior budget (SE13.I17, SE15
-section 6). See the [scope](papers/rkf_completed_weil_endpoint/development/SE18_SCOPE.md)
-and [sources](papers/rkf_completed_weil_endpoint/development/SE18_SOURCE_RECORD.md).
-Nothing below 0.59 is certified; eta=1/2, cofinal eta-zero signs, K0
-and RH remain open; the local radius stays 21/25.
+is preserved as a historical written stage. Its separate pole budget
+and the constant-pole cost at infinity motivate SE19. The
+[later audit](papers/rkf_completed_weil_endpoint/development/SE19_SE18_AUDIT.md)
+withdraws its inferred eta_pw>=0.58938/tightness and its finite-stage
+max-only local-to-global conclusion. The audit repairs the slope proof,
+auxiliary-row limit, pole polynomial and exterior majorant, and restores
+SE15's mixed localization terms and physical local tolerance. The
+qualitative cofinal core-density limit is valid but supplies no individual
+finite-aperture global certificate. The earlier
+[scope](papers/rkf_completed_weil_endpoint/development/SE18_SCOPE.md) and
+[source record](papers/rkf_completed_weil_endpoint/development/SE18_SOURCE_RECORD.md)
+must be read with these corrections; their historical status labels
+do not override the later audit.
 
 ## Endpoint development SE17: independent weights and a global family
 

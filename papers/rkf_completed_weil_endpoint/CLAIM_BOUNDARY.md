@@ -1,5 +1,31 @@
 # Claim Boundary for the Current Paper
 
+## SE19 retained-residual recovery boundary, 12 October 2026
+
+[SE19](development/SE19_RETAINED_RESIDUAL_POLE_RECOVERY.md) proves a
+source-specific pole-recovery criterion using the actual Gamma/prime
+square residuals and their complete finite observation Gram. With a
+bounded seed W>=w>0, beta_n<=1 suffices for S_b+eta I_X>=0; a strict
+budget gives the stated native floor. Independent event refinements
+decrease beta_n, strictly iff they see A_n^(-1)v. Their fixed-comparison
+limit and best next candidate coordinate are proved. These are written
+results under explicit hypotheses, not executed new RH numerics.
+
+SE17 supplies the seed and a strict pole budget at eta=59/100. The
+executed native floor remains 1/7380; the implied nonnegative shift
+remains 10883/18450. No smaller-eta seed/Gram is evaluated. The local
+radius remains 21/25. Eta=1/2, cofinal eta-zero sign, critical global
+recovery, historical five-label attachment, K0 and RH remain open.
+
+The [SE18 audit](development/SE19_SE18_AUDIT.md) withdraws the claimed
+eta_pw>=0.58938/anchor-tightness inference and the finite-aperture
+max-only gluing conclusion. It restores the actual localization error
+and physical local tolerance. SE18's development files are preserved
+historically and are superseded on these points. Neither more readings
+alone nor a comparison invariant forces the source count to vanish.
+See the [scope](development/SE19_SCOPE.md) and
+[source record](development/SE19_SOURCE_RECORD.md).
+
 ## SE17 independent-weight family boundary, 12 October 2026
 
 [SE17](development/SE17_INDEPENDENT_WEIGHTS_AND_GLOBAL_FAMILY.md)
@@ -476,24 +502,24 @@ papers/rkf_completed_weil_endpoint/main.tex    reviewer-facing paper draft
 papers/rkf_completed_weil_endpoint/REVIEWER_GUIDE.md
 ```
 
-## SE18 floors of the pointwise route (written stage, 12 October 2026)
+## SE18 reviewed status, superseded on the stated points by SE19
 
 ```text
-floor functional eta_pw for fixed comparison weights          PROVED (affine in eta)
-SE17 anchor tight: eta_pw(SE17 weights) >= 0.58938             CHECKED FROM SE17 ARCHIVE
-exterior value Q(0) = eta - b_c; constant-pole floor 1/10      PROVED
-pole budget law: tau certifies iff 4 int v^2/tau <= 1          PROVED (convex)
-q_0 pole row (4/15)(z - z^3), band (0.48277, 0.86415)          PROVED / CHECKED
-cut-point row 2 sum Lambda(n) n^-2 q(log n)/q(0)               PROVED
-SE17 cut-point floor 0.5784 inside SE14 radius 0.84            CHECKED FROM CERTIFIED MASSES
-translate charging max{V_q(0), V_q(log 2)} >= 0.245            PROVED
-exterior requirement Phi_ext(e^{-A/2}) = O(A e^{-A/2})         PROVED (elementary constants)
-eta-zero convergence <=> eta_loc(A_j) -> 0 (hybrid)            PROVED, consuming SE13.I17 / SE15 sec. 6
-any anchor below 59/100                                        NOT CLAIMED
-local certificate beyond radius 21/25                          NOT CLAIMED
-eta = 1/2, cofinal eta-zero sign, K0, RH                       OPEN / UNCHANGED
-replay, test suite, engine gate for this stage                 NOT RUN BY POLICY
+affine floor criterion for SE17 weights             VALID; slope proved in SE19.A2
+claimed eta_pw>=0.58938 / anchor tightness            WITHDRAWN; interval direction error
+constant-pole exterior cost eta-b_c                  VALID for the declared family; proof repaired
+reciprocal pole budget                              VALID with the stated form/domain hypotheses
+pole excess polynomial                              positive sign in SE19.A4 controls; old sign wrong
+cut-point row and even-weight translate charging     RETAINED with evenness explicit
+exterior decay                                      VALID; use proved majorant SE19.A5
+finite-aperture max-only global sign                 WITHDRAWN; mixed and norm terms missing
+qualitative cofinal local signs imply global sign    VALID by core density; not a finite-stage bound
+new anchor or enlarged aperture from SE18            NONE
 ```
+
+Use the [SE19 audit](development/SE19_SE18_AUDIT.md) and the unchanged
+SE15 transfer for the exact correction. SE18's old claim labels are
+historical records, not the current evidence status.
 
 ## Still explicitly not claimed
 

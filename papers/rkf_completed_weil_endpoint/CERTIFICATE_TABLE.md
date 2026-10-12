@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE17 tables record the development history and current boundary.
+The separate SE1--SE19 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -324,20 +324,37 @@ See the [theorems](development/SE17_INDEPENDENT_WEIGHTS_AND_GLOBAL_FAMILY.md),
 [audit](development/SE17_SCOPE.md). Local radius 21/25 and the
 eta-zero/K0/RH boundary remain unchanged.
 
-## SE18 floors of the pointwise route and the hybrid mechanism (written stage)
+## SE18 reviewed claims (later SE19 audit controls)
 
-| Node | Evidence | Allowed conclusion |
+| Node | Current evidence | Allowed conclusion |
 | --- | --- | --- |
-| Floor functional | SE18.2; slope 1+z^6-L_Gamma>0 | Fixed weights certify exactly the half-line eta>=eta_pw |
-| Anchor tightness | SE18.3 on the SE17 archive cells | eta_pw(SE17)>=0.58938; 0.59 is tight for these weights |
-| Exterior floor | SE18.4 | Constant-pole comparisons cannot certify eta<1/10 |
-| Pole budget law | SE18.5--SE18.7 | tau certifies the pole iff 4 int v^2/tau<=1; q_0 row saturates it |
-| Row band | SE18.8--SE18.9 | tau_0 exceeds b_c(1-z^6) only on (0.48277,0.86415), max excess 0.00765 |
-| Cut-point floor | SE18.10--SE18.11 | SE17 weights force eta>=0.5784 at x=0, inside SE14's exact radius |
-| Exterior decay | SE18.13--SE18.16 | Support-exterior f certified for eta>=Phi_ext(e^{-A/2})=O(A e^{-A/2}) |
-| Hybrid criterion | Theorem 6 | eta-zero convergence iff local aperture certificates reach eta_loc(A_j)->0 |
+| Affine floor functional | SE19.A2 repairs the slope proof | Half-line criterion for the declared weights |
+| Anchor tightness | SE18.3 reverses an interval implication | Withdrawn; eta_pw>=0.58938 is not established |
+| Exterior floor | Combined-row limit in SE19 audit | Constant-pole floor persists for this family |
+| Pole budget | SE18.5--SE18.7 with domain and algebra corrections | Reciprocal budget under the stated density hypotheses |
+| Pole excess band | Exact polynomial SE19.A4 | Positive polynomial means excess; no new decimal extremum certificate |
+| Cut-point row | SE18.10; evenness retained for translate charging | A comparison floor, not an actual-source negative witness |
+| Exterior decay | Complete proved majorant SE19.A5 | Support-exterior form estimate only |
+| Hybrid conclusion | SE18 Theorem 6(i) omits mixed terms | Withdrawn at finite apertures; use SE15's complete transfer |
 
-No replay or certificate accompanies this stage (10 October verification
-preference). See the [theorems](development/SE18_FLOORS_OF_THE_POINTWISE_ROUTE_AND_HYBRID_MECHANISM.md)
-and [scope](development/SE18_SCOPE.md). Local radius 21/25 and the
-eta-zero/K0/RH boundary remain unchanged.
+The [SE18 files](development/SE18_FLOORS_OF_THE_POINTWISE_ROUTE_AND_HYBRID_MECHANISM.md)
+are historical; the [SE19 audit](development/SE19_SE18_AUDIT.md)
+controls these corrected statuses.
+
+## SE19 retained-residual pole recovery (written stage)
+
+| Node | Written evidence | Application boundary |
+| --- | --- | --- |
+| Optimal diagonal pole budget | SE19.4; weighted equality vector | Bounded W>=w>0; criterion for this diagonal comparison |
+| Existing-anchor attachment | SE19.5; inherited SE17 floor and exact SE15 pole integral | Applies at 59/100; no numerical anchor improvement |
+| Complete residual observations | SE19.6--SE19.10 | Actual Gamma/prime event squares, orthogonal projection and positive unobserved residue |
+| Full finite-Gram pole test | SE19.11--SE19.13 | beta_n<=1 suffices; all mixed entries retained |
+| Exact gain and blindness | SE19.14 | Gain is zero iff C A_n^(-1)v=0 |
+| Fixed-comparison limit | SE19.15 | Finite strict passage if the limit is strictly below one; no eta-zero claim |
+| Best next coordinate | SE19.16 | Exact candidate-space optimizer; ideal infinite coordinate not evaluated |
+
+See the [theorems](development/SE19_RETAINED_RESIDUAL_POLE_RECOVERY.md),
+[scope](development/SE19_SCOPE.md) and [sources](development/SE19_SOURCE_RECORD.md).
+Numerical certification remains deferred. The executed 59/100 anchor,
+1/7380 native reserve, 10883/18450 implied shift and local radius 21/25
+remain unchanged. Eta=1/2, cofinal eta-zero signs, K0 and RH stay open.
