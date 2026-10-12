@@ -18,6 +18,21 @@ objects with separate types. RH and curvature development are deferred.
 | [SE31](../../papers/rkf_completed_weil_endpoint/development/SE31_COUNTING_OPERATOR_RECOVERY_AND_ORDERED_FLOW.md) | Finite-order recovery, retained unit memory and ordered flow |
 | [SE32](SE32_READING_COMPLETION_AND_COUNTING_CALCULUS.md) | Reading completion, adaptive composition, count-functions and locally finite linear inversion |
 | [SE33](SE33_JOINT_READINGS_AND_NONLINEAR_COUNTING.md) | Joint banks, diagonal/order recovery, finite nonlinear response rules and exact nonlinear triangular inversion |
+| [SE34 development](SE34_DEPENDENCY_FEEDBACK_AND_UNIT_MEMORY.md) | Dependency order, feedback cycles, lifting a cut inverse through unit memory and residual corrections; certification deferred |
+
+The current development is **SE34, a derivation draft**. It replaces
+fixed counting-index order by actual dependencies, admits feedback
+cycles which raise unit-memory order, and lifts an available nonlinear
+cut inverse to every retained unit depth. Each residual coefficient
+gives the next missing source coefficient; an accelerated correction
+doubles the known unit order. The completed carrier permits new count
+support at later unit layers. Numerical convergence at a chosen
+nonzero Lambda is a separate question.
+
+No SE34 certificate, replay archive, pin manifest or verification PASS
+has been issued. Certification is deferred at the user's request.
+Read its [derivations and examples](SE34_DEPENDENCY_FEEDBACK_AND_UNIT_MEMORY.md).
+The following SE33 record remains the preceding certified-reading stage.
 
 SE33 makes multiple input slots explicit. Diagonal readings recover
 the symmetric response but hide antisymmetric input order. A recorded

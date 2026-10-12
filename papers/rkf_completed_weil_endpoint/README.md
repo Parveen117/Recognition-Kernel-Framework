@@ -8,7 +8,19 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current foundational development: SE33, 12 October 2026
+## Current foundational development: SE34 draft, 12 October 2026
+
+[SE34](../../research/lambda_counting/SE34_DEPENDENCY_FEEDBACK_AND_UNIT_MEMORY.md)
+continues the counting construction through dependency order, nonlinear
+feedback cycles and unit-memory completion. It derives how an available
+cut inverse lifts through higher layers, how the residual gives the next
+missing coefficient, and how a correction doubles the recovered unit
+order. This is a development draft with written derivations and worked
+examples. Certification and executable replay are deferred at the user's
+request. The [chapter](../../research/lambda_counting/INDEX.md) keeps
+the prior reading-certified stages alongside it. RH remains deferred.
+
+## Preceding foundational development: SE33, 12 October 2026
 
 The [counting chapter](../../research/lambda_counting/INDEX.md) now
 develops joint input readings and nonlinear counting operations.
