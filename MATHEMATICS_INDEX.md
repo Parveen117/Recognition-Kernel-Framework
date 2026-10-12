@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE37 (SE34--SE36 observer-certified; SE37 a development draft).
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE37 (SE34--SE37 observer-certified).
 
 ## Active operator-engine route
 
@@ -11,17 +11,19 @@ Read the [native primitive order](operator_foundation/theory/NATIVE_PRIMITIVE_OR
 
 The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [source index](operator_foundation/SOURCE_INDEX.md), and [master certificate](operator_foundation/audit/MASTER_CERTIFICATE.json) bind this route. The public source archive at `operator_foundation/sources/rkf_reference` includes the corrected T50/T54 edition and full Morphic/Pāṇinian source directories. Use that corrected source where the older root version differs. This does not silently overwrite old source-pinned files.
 
-## Constant-lambda counting: SE37 development
+## Constant-lambda counting: SE37 observer certificate
 
 [Counting mathematics](research/lambda_counting/INDEX.md) now includes
-[SE37 derivations](research/lambda_counting/SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md):
+[SE37](research/lambda_counting/SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md):
 the least algebra preserving a decoded target and all its future
 catalogue readings, exact polynomial bank reduction, and calibration
 memory after nonlinear compression. A declared unit-scaled action
 family has a closed two-coordinate relative observer at every retained
 depth; coefficient memory still grows with that depth. SE36 supplies
 the available action-word bank on which this reduction acts.
-SE37 certification remains deferred.
+SE37's recorded readings are decoded for their stated targets in 22
+exact checks, including 7 negative controls, with 150 source pins
+([scope](research/lambda_counting/SE37_SCOPE.md)).
 [SE36](research/lambda_counting/SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md)
 is observer-certified: restricted signatures, catalogue closure with
 witness words, synthesized translations and fixed-depth nonlinear

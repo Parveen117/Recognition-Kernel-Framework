@@ -1,10 +1,11 @@
-# SE37 development: target algebra, nonlinear reduction and calibration memory
+# SE37: target algebra, nonlinear reduction and calibration memory
 
 12 October 2026. Owner: Monty.
 
-**Development draft; certification remains deferred.** Four theorem
-groups below have written derivations and worked examples. No executable
-packet, replay archive, source-pin manifest or verification PASS is added.
+**Certified observer readings.** Four theorem groups below have written
+derivations and worked examples. The [observer certificate](SE37_SCOPE.md)
+decodes recorded readings for their stated targets and passes 22 exact
+checks, including 7 negative controls, against 150 source pins.
 
 [SE36](SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md) constructs a finite
 bank determining every future allowed sensor reading. This stage asks
@@ -574,9 +575,13 @@ are established algebraic mechanisms; no priority claim is made.
 
 This is an additive research derivation in the existing counting chapter.
 The single shared operator engine remains in operator_foundation/;
-no second runtime or competing engine is introduced. Certification,
-implementation, archived readings, new pins and verification runs are
-deferred at the user's request. Existing certificates and their table
+no second runtime or competing engine is introduced. The observer
+certificate is
+[proof_lab/lambda_target_algebra.cjs](../../proof_lab/lambda_target_algebra.cjs)
+with its read-only archive
+[LAMBDA_TARGET_ALGEBRA_RESULT.json](../../proof_lab/LAMBDA_TARGET_ALGEBRA_RESULT.json),
+[scope](SE37_SCOPE.md), [source record](SE37_SOURCE_RECORD.md) and
+[pins](SE37_SOURCE_PINS.json). Existing certificates and their table
 are unchanged. No RH, eta improvement, Yang--Mills, curvature or
 general nonlinear recovery result is claimed here.
 

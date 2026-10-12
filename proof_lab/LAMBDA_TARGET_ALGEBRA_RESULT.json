@@ -1,0 +1,2116 @@
+{
+  "schema": "rkf.lambda-target-algebra.v1",
+  "date": "2026-10-12",
+  "status": "PASS_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY",
+  "theorem_count": 4,
+  "checks": [
+    {
+      "name": "three_linear_responses_reduce_to_one_nonlinear_coordinate",
+      "status": "PASS"
+    },
+    {
+      "name": "deleting_an_entry_uses_its_explicit_reconstruction_identity",
+      "status": "PASS"
+    },
+    {
+      "name": "square_and_cube_admit_no_deletion_identity",
+      "status": "PASS"
+    },
+    {
+      "name": "nilpotent_unit_relation_is_retained_rather_than_its_radical",
+      "status": "PASS"
+    },
+    {
+      "name": "descended_updates_compose_in_the_actual_word_order",
+      "status": "PASS"
+    },
+    {
+      "name": "a_permutation_invariant_target_keeps_one_coordinate",
+      "status": "PASS"
+    },
+    {
+      "name": "a_future_target_forces_retaining_the_second_coordinate",
+      "status": "PASS"
+    },
+    {
+      "name": "keeping_only_the_present_target_loses_future_target_information",
+      "status": "PASS"
+    },
+    {
+      "name": "target_closure_stabilizes_within_the_bank_degree_bound",
+      "status": "PASS"
+    },
+    {
+      "name": "relative_and_calibration_updates_are_exact",
+      "status": "PASS"
+    },
+    {
+      "name": "calibration_free_difference_law_holds_exactly_for_affine_updates",
+      "status": "PASS"
+    },
+    {
+      "name": "the_relative_reading_alone_does_not_determine_its_next_value",
+      "status": "PASS"
+    },
+    {
+      "name": "the_one_step_calibration_signature_is_lambda_c",
+      "status": "PASS"
+    },
+    {
+      "name": "compressing_a_relative_reading_differs_from_the_relative_compression",
+      "status": "PASS"
+    },
+    {
+      "name": "uniform_relative_update_is_an_identity_before_any_truncation",
+      "status": "PASS"
+    },
+    {
+      "name": "two_coordinate_observer_predicts_every_relative_reading",
+      "status": "PASS"
+    },
+    {
+      "name": "quadratic_action_repetition_formula_through_lambda_squared",
+      "status": "PASS"
+    },
+    {
+      "name": "the_last_calibration_coefficient_does_not_reach_any_relative_reading",
+      "status": "PASS"
+    },
+    {
+      "name": "cubic_action_outside_the_family_needs_more_calibration",
+      "status": "PASS"
+    },
+    {
+      "name": "updates_commute_with_reduction_to_a_shallower_unit_depth",
+      "status": "PASS"
+    },
+    {
+      "name": "a_calibration_coordinate_with_a_cut_part_is_refused",
+      "status": "PASS"
+    },
+    {
+      "name": "every_archived_certificate_redecodes_from_its_saved_readings",
+      "status": "PASS"
+    }
+  ],
+  "controls": [
+    "square_and_cube_admit_no_deletion_identity",
+    "nilpotent_unit_relation_is_retained_rather_than_its_radical",
+    "keeping_only_the_present_target_loses_future_target_information",
+    "the_relative_reading_alone_does_not_determine_its_next_value",
+    "compressing_a_relative_reading_differs_from_the_relative_compression",
+    "cubic_action_outside_the_family_needs_more_calibration",
+    "a_calibration_coordinate_with_a_cut_part_is_refused"
+  ],
+  "check_count": 22,
+  "negative_control_count": 7,
+  "inherited_source_pins_checked": 144,
+  "certificate_rule": "The recorded observer reading decoded for its stated target",
+  "construction": {
+    "carrier": "Finite counting sectors over Q, Q[Lambda] and retained unit quotients",
+    "source": "Supplied available bank, target decoder, action catalogue and recorded protocol readings",
+    "zero": "Typed cut operation; additive neutrals retain their separate types",
+    "target_added_as_sensor": false,
+    "radical_replaces_unit_relations": false,
+    "primitive_metric": false,
+    "numerical_unit_value_assumed": false,
+    "RH_development": false,
+    "curvature_developed": false
+  },
+  "finite_ranges": {
+    "reduction_unit_depth": 2,
+    "reduction_words_through_length": 12,
+    "target_algebra_examples": 4,
+    "relative_observer_unit_depth": 4,
+    "relative_words_through_length": 8,
+    "unit_scaled_catalogue_size": 3
+  },
+  "details": {
+    "one_coordinate_reduction_certificate": {
+      "target": "All three bank entries after every repetition, from one retained nonlinear coordinate",
+      "unit_memory_through": 2,
+      "retained_reading": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "3/4",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L"
+            ],
+            [
+              "-2",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L"
+            ],
+            [
+              "1/3",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "updates": [
+        [
+          [
+            [
+              "1",
+              [
+                "1"
+              ]
+            ],
+            [
+              "2",
+              [
+                "0",
+                "1"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "decoder": [
+        [
+          [
+            "1",
+            [
+              "1"
+            ]
+          ]
+        ],
+        [
+          [
+            "2",
+            [
+              "0",
+              "1"
+            ]
+          ]
+        ],
+        [
+          [
+            "3",
+            [
+              "0",
+              "0",
+              "1"
+            ]
+          ]
+        ]
+      ],
+      "future_protocols": [
+        {
+          "word": [],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "3/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "1/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "9/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "-3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "27/64",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "3/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-23/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-8/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "9/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "-69/32",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "27/64",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0,
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "3/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-7/8",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-463/96",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "9/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "-21/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "27/64",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "3/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "13/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-299/48",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "9/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "39/32",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "27/64",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "3/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "19/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "961/48",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "9/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "57/8",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "27/64",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "decoded": [
+        {
+          "word": [],
+          "predicted": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "3/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "1/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "9/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "-3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "27/64",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0
+          ],
+          "predicted": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "3/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-23/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-8/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "9/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "-69/32",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "27/64",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0,
+            0
+          ],
+          "predicted": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "3/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-7/8",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-463/96",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "9/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "-21/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "27/64",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "predicted": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "3/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "13/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-299/48",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "9/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "39/32",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "27/64",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "predicted": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "3/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "19/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "961/48",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "9/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "57/8",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "27/64",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "invariant_target_certificate": {
+      "target": "Every future value of u+v under the swap, from z=u+v",
+      "unit_memory_through": null,
+      "retained_reading": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "5/3",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "updates": [
+        [
+          [
+            [
+              "1",
+              [
+                "1"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "decoder": [
+        [
+          [
+            "1",
+            [
+              "1"
+            ]
+          ]
+        ]
+      ],
+      "future_protocols": [
+        {
+          "word": [
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "5/3",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0,
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "5/3",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0,
+            0,
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "5/3",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "decoded": [
+        {
+          "word": [
+            0
+          ],
+          "predicted": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "5/3",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0,
+            0
+          ],
+          "predicted": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "5/3",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0,
+            0,
+            0
+          ],
+          "predicted": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "5/3",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "least_algebra_generators": [
+        "u+v"
+      ]
+    },
+    "uniform_relative_observer_certificate": {
+      "target": "Relative readings x-c after catalogue words, from (Delta, Lambda c)",
+      "unit_memory_through": 4,
+      "catalogue": [
+        [
+          "1"
+        ],
+        [
+          "2/3",
+          "-5"
+        ],
+        [
+          "0",
+          "0",
+          "-1/2"
+        ]
+      ],
+      "calibration_coordinate": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [
+              "L"
+            ],
+            [
+              "-2",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L"
+            ],
+            [
+              "1/3",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L"
+            ],
+            [
+              "5",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L",
+              "L"
+            ],
+            [
+              "1",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "relative_reading": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "5/2",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L"
+            ],
+            [
+              "8/3",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L"
+            ],
+            [
+              "-5",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L"
+            ],
+            [
+              "-8/7",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L",
+              "L"
+            ],
+            [
+              "3",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "future_protocols": [
+        {
+          "word": [
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "5/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-13/12",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-2/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "1748/63",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "74/21",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            1,
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "5/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-43/12",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-1985/72",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "311039/1512",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-238703/1512",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            2,
+            1,
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "5/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-43/12",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-1985/72",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "1292351/6048",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-1314479/6048",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0,
+            0,
+            1,
+            2,
+            1
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "5/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-59/6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "6365209/6048",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-141684517/18144",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            1,
+            1,
+            1,
+            0,
+            2,
+            0,
+            1,
+            2
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "5/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-89/6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-37/36",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "3318659/1512",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-47779111/2592",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "decoded": [
+        {
+          "word": [
+            0
+          ],
+          "predicted": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "5/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-13/12",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-2/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "1748/63",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "74/21",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          "calibration": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "13/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "11/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-170/9",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            1,
+            0
+          ],
+          "predicted": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "5/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-43/12",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-1985/72",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "311039/1512",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-238703/1512",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          "calibration": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "7",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "289/9",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-5392/27",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            2,
+            1,
+            0
+          ],
+          "predicted": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "5/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-43/12",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-1985/72",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "1292351/6048",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-1314479/6048",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          "calibration": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "7",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "289/9",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-5608/27",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0,
+            0,
+            1,
+            2,
+            1
+          ],
+          "predicted": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "5/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-59/6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "6365209/6048",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-141684517/18144",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          "calibration": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "41/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "133/9",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-3091/3",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            1,
+            1,
+            1,
+            0,
+            2,
+            0,
+            1,
+            2
+          ],
+          "predicted": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "5/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-89/6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-37/36",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "3318659/1512",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-47779111/2592",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          "calibration": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "19",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "133/9",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-58471/27",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "evidence": {
+    "general_results": "Four written derivation groups",
+    "executable": "Exact recorded-reading decoding and counterexamples using unchanged canonical engines",
+    "formal_proof_assistant": false,
+    "external_review": false,
+    "whole_engine_pass": false
+  },
+  "not_claimed": [
+    "a minimum coordinate count or acquisition cost",
+    "noisy-data conditioning",
+    "closure on (Delta, Lambda c) for arbitrary polynomial actions",
+    "finite information at infinite unit depth",
+    "evaluation or convergence at a nonzero numerical unit",
+    "general nonlinear recovery",
+    "new RH, eta or curvature result",
+    "novelty priority for substitution, invariant-span closure or coefficient comparison"
+  ]
+}

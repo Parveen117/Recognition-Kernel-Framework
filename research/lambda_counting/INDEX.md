@@ -21,9 +21,9 @@ objects with separate types. RH and curvature development are deferred.
 | [SE34](SE34_DEPENDENCY_FEEDBACK_AND_UNIT_MEMORY.md) | Dependency order, feedback cycles, lifting a cut inverse through unit memory and residual corrections; observer-certified |
 | [SE35](SE35_ACTIVE_READINGS_AND_SINGULAR_CUT_REPAIR.md) | Active probe readings, exact nonlinear blind fibres, descending response decoding and repair before unit lifting; observer-certified |
 | [SE36](SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md) | Restricted probes, available action-word closure, synthesized probe directions and finite nonlinear observation at retained unit depth; observer-certified |
-| [SE37 development](SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md) | Least future-target algebra, exact nonlinear bank reduction and closed calibration memory for unit-scaled action families; certification deferred |
+| [SE37](SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md) | Least future-target algebra, exact nonlinear bank reduction and closed calibration memory for unit-scaled action families; observer-certified |
 
-The current development is **SE37, a derivation draft**. A polynomial
+The current stage is **SE37**. A polynomial
 target already decoded from the available bank has a finitely generated
 least algebra preserving all its future catalogue readings. Explicit
 reconstruction identities permit bank reduction with nonlinear updates.
@@ -31,8 +31,20 @@ The moving relative observer retains its calibration coefficients;
 for a declared unit-scaled action family, the same pair of relative
 reading and unit-weighted calibration closes at every retained depth.
 The number of formal coordinates is fixed, while their retained
-coefficient memory grows with depth. Read the
-[derivations and examples](SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md).
+coefficient memory grows with depth.
+
+**SE37 certification is the observer reading decoded for its stated target.**
+The [saved readings](../../proof_lab/LAMBDA_TARGET_ALGEBRA_RESULT.json)
+hold the SE36 bank reduced to one nonlinear coordinate, which predicts
+all three entries after twelve repetitions; a swap-invariant target kept
+by one coordinate; and the two-coordinate relative observer for a
+three-action unit-scaled catalogue at depth four. Four written derivation
+groups and 22 exact checks, including 7 negative controls, record the
+proof and computational scopes separately. Read the
+[derivations](SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md),
+[scope](SE37_SCOPE.md), [source record](SE37_SOURCE_RECORD.md),
+[application](../../proof_lab/lambda_target_algebra.cjs) and
+[pins](SE37_SOURCE_PINS.json).
 
 The preceding **SE36** stage treats restricted probes,
 which can leave nonlinear, input-dependent fibres. For an affine
@@ -109,8 +121,6 @@ line predates this certificate. Read the
 [application](../../proof_lab/lambda_unit_memory_lifting.cjs) and
 [pins](SE34_SOURCE_PINS.json).
 
-No SE37 certificate, replay archive, pin manifest or verification PASS
-has been issued; its certification is deferred.
 The following SE33 record remains the preceding certified-reading stage.
 
 SE33 makes multiple input slots explicit. Diagonal readings recover

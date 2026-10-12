@@ -1,6 +1,6 @@
 # Claim Boundary for the Current Paper
 
-## SE37 development draft, 12 October 2026
+## SE37 target algebra and calibration memory, 12 October 2026
 
 [SE37](../../research/lambda_counting/SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md)
 starts from an available finite bank with affine response updates and
@@ -21,9 +21,10 @@ division by Lambda. This matching of unit and source degrees is an
 explicit hypothesis. Arbitrary nonlinear actions are not included.
 The two formal coordinates can carry increasing, ultimately infinite,
 coefficient memory; no finite-data recovery of an infinite tower or
-numerical convergence at nonzero Lambda follows. Certification, new
-pins, replay and verification runs remain deferred. Existing application
-bounds and certificates are unchanged; RH and curvature remain deferred.
+numerical convergence at nonzero Lambda follows. The observer certificate
+decodes recorded readings for their stated targets; its finite checks do
+not stand in for the written derivations. Existing application bounds and
+certificates are unchanged; RH and curvature remain deferred.
 
 ## SE36 restricted probes and action closure, 12 October 2026
 
