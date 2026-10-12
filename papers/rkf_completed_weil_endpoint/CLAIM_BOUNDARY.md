@@ -1,5 +1,25 @@
 # Claim Boundary for the Current Paper
 
+## SE35 development draft, 12 October 2026
+
+[SE35](../../research/lambda_counting/SE35_ACTIVE_READINGS_AND_SINGULAR_CUT_REPAIR.md)
+derives exact blind fibres for active translated-input readings of a
+supplied finite-degree polynomial response on a known finite counting
+sector. It constructs a polynomial quotient decoder, then applies the
+existing minimum-linear-repair rule to its derived blind subspace.
+When the completed bank is input-faithful, its decoded operation has
+identity cut and SE34's unit lifting applies.
+
+The observer must actually have the declared perturbation access. The
+raw passive response is not retroactively made invertible, an unknown
+degree is not inferred from samples, and a vector reading is not counted
+as one scalar measurement. The polynomial decoder is a left inverse on
+lawful banks; arbitrary inconsistent banks need not have a source. The
+extra-channel minimum concerns scalar linear additions to this active
+bank. No unrestricted noisy-data or infinite-input recovery is claimed.
+Certification, replay, new pins and verification runs remain deferred.
+Earlier certificates and application boundaries are unchanged.
+
 ## SE34 development draft, 12 October 2026
 
 [SE34](../../research/lambda_counting/SE34_DEPENDENCY_FEEDBACK_AND_UNIT_MEMORY.md)

@@ -8,7 +8,21 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current foundational development: SE34 draft, 12 October 2026
+## Current foundational development: SE35 draft, 12 October 2026
+
+[SE35](../../research/lambda_counting/SE35_ACTIVE_READINGS_AND_SINGULAR_CUT_REPAIR.md)
+derives which input differences remain invisible to all translated-input
+readings of a supplied polynomial response. A finite probe bank and
+descending response orders recover the input modulo those directions;
+the target determines the minimum extra linear readings. Completing
+the observer can give identity cut even when the raw response is
+singular, enabling SE34's nonlinear unit lifting. Worked square and
+deformed-square examples make the repair explicit. Certification and
+executable replay remain deferred. The
+[counting chapter](../../research/lambda_counting/INDEX.md) holds the
+development route; RH remains deferred.
+
+## Preceding foundational development: SE34 draft, 12 October 2026
 
 [SE34](../../research/lambda_counting/SE34_DEPENDENCY_FEEDBACK_AND_UNIT_MEMORY.md)
 continues the counting construction through dependency order, nonlinear
