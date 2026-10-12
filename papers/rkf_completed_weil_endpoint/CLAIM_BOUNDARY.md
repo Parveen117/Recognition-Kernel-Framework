@@ -1,5 +1,30 @@
 # Claim Boundary for the Current Paper
 
+## SE27 connected measurement-reference cuts, 12 October 2026
+
+The [SE27 proof](development/SE27_CONNECTED_CUT_REFERENCE_AND_RH_RECOVERY.md)
+defines zero-reference as the calibrated connected family of measurement
+cuts, including its carrier, overlap maps, target, pairing and return memory.
+It proves an actual source attachment, exact overlap accounting, a C1 curved
+path and covariant target recovery. The base cut closes with nontrivial
+quarter-turn horizontal return; the full cut family closes with a retained
+relabeling. Neither continuity nor connectivity alone certifies source sign.
+
+A separately enclosed rational witness proves
+S_b+(1079/2000)I_X >= (1/492000)I_X on the entire corrected complex odd
+native carrier. The source bound is uniform throughout the cut path and
+extends to larger eta by source monotonicity. Its implied nonnegative shift
+is 265433/492000; this is not claimed to be the exact spectral edge.
+The full infinite-carrier certificate uses 63496 cells, all 23150 prime-power
+events through 2^18, and analytic tails. Finite geometry checks do not
+replace the written continuum proof or the full source certificate.
+
+The Gamma-blind common mode and primary source reading remain. Pure
+transport preserves the recovery burden; numerical improvement comes from
+the new paid witness. No eta-zero bound, certified convergence to zero,
+historical K0 attachment, RH completion, whole-engine PASS, formal proof
+verification or external review is claimed. See [scope](development/SE27_SCOPE.md).
+
 ## SE26 diagonal seam and circle transport, 12 October 2026
 
 The [SE26 proof](development/SE26_DIAGONAL_CUT_AND_CIRCLE_TRANSPORT.md)
@@ -19,7 +44,8 @@ not imply zero target or zero state. The circle chart retains oriented
 phase; deleting phase is not faithful transport. No identification of
 the diagram's uncalibrated labels with actual RH arrows, assertion
 that scalar zero is not a number, or global eta-zero/RH claim is made.
-The strongest source certificate remains SE25's eta=27/50 result.
+At SE26 the strongest source certificate was SE25's eta=27/50 result;
+SE27 supplies the later improvement.
 
 ## SE25 actual-source sectoral recovery, 12 October 2026
 

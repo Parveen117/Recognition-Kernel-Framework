@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE26 tables record the development history and current boundary.
+The separate SE1--SE27 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -11,6 +11,23 @@ The separate SE1--SE26 tables record the development history and current boundar
 | M3 accepted block | `3.08520376681449e-13 < M3 < 2.993597611951253e-12` | accepted odd block positive |
 | T03 endpoint | six-block Gram decomposition with vanishing total error | invariant source-Gram identity and `K0 >= 0` |
 | T19-T20 appendix | `beta_partial^cut <= 0.9998319617060448 < 1` and source injectivity | independent strict odd certificate |
+
+## SE27 connected measurement-reference cuts and source recovery
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Actual event embedding | SE27.2--SE27.4; exact positive three-direction Gram | A source-attached chart with the full positive remainder retained |
+| Connected reference | SE27.5--SE27.7; projector identities | Overlap readings match and half the aperture sum preserves source energy |
+| Continuous curved loop | SE27.8--SE27.10; rational identities and horizontal transport | C1 joining, closed base cut and nontrivial quarter-turn return |
+| Covariant source decoder | SE27.11--SE27.16; full mixed Gram and paid target | Full recovery and norm independent of cut-path parameter |
+| Global interval certificate | SE27.17; 63496 cells, 23150 events and infinite tails | S_b+(1079/2000)I_X >= (1/492000)I_X globally |
+| Reproducibility | 14 source checks; 19 geometry checks including 6 negative controls | Scoped computational evidence; inherited full-engine failure remains separate |
+
+See the [proof](development/SE27_CONNECTED_CUT_REFERENCE_AND_RH_RECOVERY.md),
+[replay](../../proof_lab/endpoint_connected_cut_certificate.py),
+[result](../../proof_lab/ENDPOINT_CONNECTED_CUT_RESULT.json),
+[scope](development/SE27_SCOPE.md) and [pins](development/SE27_SOURCE_PINS.json).
+Eta zero and RH remain open. Pure reference motion is not a source-sign gain.
 
 ## SE26 diagonal cut and circle transport
 

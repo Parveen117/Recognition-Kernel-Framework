@@ -8,7 +8,30 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE26, 12 October 2026
+## Current endpoint development: SE27, 12 October 2026
+
+[Connected measurement-reference cuts and continuous RH recovery](development/SE27_CONNECTED_CUT_REFERENCE_AND_RH_RECOVERY.md)
+implements zero-reference as the whole calibrated connected cut family.
+Actual Gamma-event planes overlap and move along a C1 curved loop. Their
+readings agree on overlaps, energy is counted once, and a quarter-turn
+return is retained in decoder transport. The full target and source norm
+are independent of the path parameter.
+
+A new rational source-recovery witness certifies
+S_b+(1079/2000)I_X >= (1/492000)I_X globally, advancing the anchor from
+0.54 to 0.5395. The complete bound uses 63496 whole cells, 23150 prime-power
+events and all infinite tails. Pure reference transport does not lower eta.
+The implied sufficient nonnegative shift is 265433/492000; eta zero and
+RH remain open.
+
+See the [source replay](../../proof_lab/endpoint_connected_cut_certificate.py),
+[geometry controls](../../proof_lab/endpoint_connected_cut_geometry.cjs),
+[result](../../proof_lab/ENDPOINT_CONNECTED_CUT_RESULT.json),
+[scope](development/SE27_SCOPE.md), [sources](development/SE27_SOURCE_RECORD.md)
+and [pins](development/SE27_SOURCE_PINS.json). The unchanged inherited
+operator-engine hash mismatch remains separately recorded.
+
+## Preceding endpoint development: SE26, 12 October 2026
 
 [Diagonal cut and circle transport](development/SE26_DIAGONAL_CUT_AND_CIRCLE_TRANSPORT.md)
 implements comparison zero as an entire diagonal, with the common reading
@@ -27,7 +50,7 @@ See the [40-check replay](../../proof_lab/endpoint_diagonal_seam_certificate.py)
 [result](../../proof_lab/ENDPOINT_DIAGONAL_SEAM_RESULT.json),
 [scope](development/SE26_SCOPE.md), [sources](development/SE26_SOURCE_RECORD.md)
 and [pins](development/SE26_SOURCE_PINS.json).
-SE25 remains the strongest executed global anchor at 0.54. Eta zero and
+At SE26, SE25 was the strongest executed global anchor at 0.54. Eta zero and
 RH remain open; the unchanged shared engine pin mismatch is recorded.
 
 ## Preceding endpoint development: SE25, 12 October 2026

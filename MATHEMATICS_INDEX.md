@@ -447,6 +447,30 @@ The positive aperture remains 21/25. Eta=1/2, cofinal eta-zero
 positivity, global critical contractivity, the historical five-label
 endpoint, K0 and RH remain open. No formal or external review is claimed.
 
+## Endpoint development SE27: connected measurement-reference cuts and global eta 0.5395
+
+The [SE27 proof](papers/rkf_completed_weil_endpoint/development/SE27_CONNECTED_CUT_REFERENCE_AND_RH_RECOVERY.md)
+implements the entire calibrated family of connected measurement cuts as
+the zero-reference. Three actual Gamma-event directions carry overlapping
+planes along a C1 curved loop. Overlap energy is counted once, the base
+plane closes with a nontrivial quarter-turn return, and decoder transport
+retains the full target and source norm for every path parameter.
+
+A new rational recovery witness separately certifies
+S_b+(1079/2000)I_X >= (1/492000)I_X globally. The implied nonnegative
+shift is 265433/492000. The complete interval cover has 63496 cells,
+23150 prime-power events and all infinite tails. Pure chart transport
+does not supply the numerical gain; the full source burden is paid.
+
+See the [source replay](proof_lab/endpoint_connected_cut_certificate.py),
+[exact geometry controls](proof_lab/endpoint_connected_cut_geometry.cjs),
+[result](proof_lab/ENDPOINT_CONNECTED_CUT_RESULT.json),
+[scope](papers/rkf_completed_weil_endpoint/development/SE27_SCOPE.md),
+[sources](papers/rkf_completed_weil_endpoint/development/SE27_SOURCE_RECORD.md)
+and [pins](papers/rkf_completed_weil_endpoint/development/SE27_SOURCE_PINS.json).
+Eta zero, a certified sequence converging to it, K0 attachment and RH
+remain open. The inherited full-engine pin mismatch is separately recorded.
+
 ## Endpoint development SE26: diagonal cuts and faithful circle transport
 
 The [SE26 theorems](papers/rkf_completed_weil_endpoint/development/SE26_DIAGONAL_CUT_AND_CIRCLE_TRANSPORT.md)
@@ -467,7 +491,8 @@ See the [40-check replay](proof_lab/endpoint_diagonal_seam_certificate.py),
 [scope](papers/rkf_completed_weil_endpoint/development/SE26_SCOPE.md),
 [sources](papers/rkf_completed_weil_endpoint/development/SE26_SOURCE_RECORD.md)
 and [pins](papers/rkf_completed_weil_endpoint/development/SE26_SOURCE_PINS.json).
-The strongest global anchor remains SE25's 0.54; eta zero and RH are open.
+At SE26 the strongest global anchor was SE25's 0.54; SE27 advances it.
+Eta zero and RH remain open.
 
 ## Endpoint development SE25: source-attached sectoral recovery at global eta 0.54
 
