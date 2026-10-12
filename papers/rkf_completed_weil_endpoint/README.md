@@ -8,7 +8,28 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE14, 12 October 2026
+## Current endpoint development: SE15, 12 October 2026
+
+[Effective localization and a global positive-eta certificate](development/SE15_EFFECTIVE_LOCALIZATION_AND_GLOBAL_ETA.md)
+proves S_b >= -(326/369) I_X on the entire corrected complex odd
+source. The actual global negative count and nullity are zero for
+eta>=326/369. This uses complete prime-mass and weighted pole bounds,
+with every prime power included; it is not an eta-zero certificate.
+
+An exact signed localization identity supplies explicit full-source
+tail and exterior bounds. For each smaller positive eta it gives a
+sufficient aperture and physical local tolerance that would imply
+global zero count. The printed larger-aperture source obligations
+are conditional and have not been executed. Eta and aperture radius
+are different parameters; the positive local frontier remains 0.840.
+The cofinal eta-zero condition, global contractivity and RH remain open.
+
+See the [result](../../proof_lab/ENDPOINT_GLOBAL_ETA_RESULT.json),
+[replay](../../proof_lab/endpoint_global_eta_certificate.py),
+[sources](development/SE15_SOURCE_RECORD.md),
+[audit](development/SE15_SCOPE.md) and [claim boundary](CLAIM_BOUNDARY.md).
+
+## Preceding endpoint development: SE14, 12 October 2026
 
 [Moving calibration and uniform local recovery](development/SE14_MOVING_CALIBRATION_AND_INVARIANT_RECOVERY.md)
 proves recovery of the same local lower source edge under arbitrary

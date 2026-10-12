@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE14.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE15.
 
 ## Active operator-engine route
 
@@ -374,6 +374,35 @@ See the [replay](proof_lab/endpoint_moving_calibration_certificate.py),
 and [audit](papers/rkf_completed_weil_endpoint/development/SE14_SCOPE.md).
 SE13's cofinal invariant-zero obligation, prime 7, the global eta-zero
 sign, historical five-label closure, K0 and RH remain open.
+
+## Endpoint development SE15: effective localization and global positive eta
+
+[SE15](papers/rkf_completed_weil_endpoint/development/SE15_EFFECTIVE_LOCALIZATION_AND_GLOBAL_ETA.md)
+certifies S_b>=-(326/369)I_X on the entire corrected complex odd
+source. Its actual global negative count and nullity vanish for
+eta>=326/369. The proof uses the weighted pole constant log(3)-1
+and a complete prime-mass enclosure below 57/100, with all prime
+powers and scalar remainders included. Eta is a native spectral
+shift, not the finite physical aperture parameter.
+
+An exact source localization identity retains the Gamma, prime and
+pole cross terms. Explicit localization and exterior budgets yield
+an upper bound for the global inertia from a physical local-tolerance
+count. A rational schedule supplies a sufficient aperture and local
+floor for any positive eta. These larger-aperture signs have not been
+executed; budget-only rows do not certify additional global counts.
+The cuts preserve the displayed L2 partition, not an assumed native
+graph isometry, and faithful transports carry every metric and map.
+
+See the [replay](proof_lab/endpoint_global_eta_certificate.py),
+[controls](proof_lab/test_endpoint_global_eta_certificate.py),
+[result](proof_lab/ENDPOINT_GLOBAL_ETA_RESULT.json),
+[sources](papers/rkf_completed_weil_endpoint/development/SE15_SOURCE_RECORD.md),
+[pins](papers/rkf_completed_weil_endpoint/development/SE15_SOURCE_PINS.json)
+and [audit](papers/rkf_completed_weil_endpoint/development/SE15_SCOPE.md).
+The positive local radius remains 21/25=0.840. The cofinal eta-zero
+sign, global contractivity, historical five-label endpoint, K0 and RH
+remain open; no formal proof-assistant verification is claimed.
 
 ## Full framework register, preserved
 

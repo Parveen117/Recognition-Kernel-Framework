@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE14 tables record the development history and current boundary.
+The separate SE1--SE15 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -262,6 +262,25 @@ See the [theorems](development/SE14_MOVING_CALIBRATION_AND_INVARIANT_RECOVERY.md
 [audit](development/SE14_SCOPE.md). The calibration theorem fixes the
 aperture and cap; local zero counts do not establish the global count.
 Prime 7 and the cofinal eta-zero/RH obligation remain open.
+
+## SE15 global positive-eta certificate and effective localization
+
+| Result | Evidence | Scope |
+| --- | --- | --- |
+| Weighted boundary and complete prime mass | SE15.4--SE15.7; evaluated integral, alternating intervals and full remainders | Pole constant log(3)-1<1/10 and sum Lambda(n)/n^2<57/100 |
+| Actual global positive-eta bound | SE15.8--SE15.10; polynomial factorization and executed enclosed constants | S_b>=-(326/369)I_X, global kappa_eta=0 and nullity zero for eta>=326/369 |
+| Exact signed localization | SE15.11--SE15.19; Gamma jump kernel and full prime/pole identities | Explicit E_M, retaining every mixed term and complete tail |
+| Exterior and invariant transfer | SE15.20--SE15.24; support geometry and negative-subspace injection | Local physical tolerance -r implies global zero count if eta>=E_M+max(r,d_M) |
+| Smaller-eta aperture schedule | SE15.25--SE15.26; rational all-k majorant and five executed budget rows | Conditional local obligations only; larger-aperture signs not evaluated |
+
+See the [theorems](development/SE15_EFFECTIVE_LOCALIZATION_AND_GLOBAL_ETA.md),
+[replay](../../proof_lab/endpoint_global_eta_certificate.py),
+[controls](../../proof_lab/test_endpoint_global_eta_certificate.py),
+[result](../../proof_lab/ENDPOINT_GLOBAL_ETA_RESULT.json),
+[sources](development/SE15_SOURCE_RECORD.md) and
+[audit](development/SE15_SCOPE.md). The positive local radius remains
+21/25. The global eta-zero/RH obligation is not closed by this
+positive-eta certificate or the conditional schedules.
 
 ## Permanent records
 

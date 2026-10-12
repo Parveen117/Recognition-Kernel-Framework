@@ -1,5 +1,32 @@
 # Claim Boundary for the Current Paper
 
+## SE15 global positive-eta and localization boundary, 12 October 2026
+
+[SE15](development/SE15_EFFECTIVE_LOCALIZATION_AND_GLOBAL_ETA.md)
+certifies the complete complex odd source bound S_b>=-(326/369)I_X.
+The actual global count kappa_eta and nullity are zero for every
+eta>=326/369. This is a positive native spectral shift, not eta-zero
+positivity or a new aperture. The displayed reserve is weighted and
+is not asserted to dominate a fixed positive native identity.
+
+The exact localization identity retains Gamma, prime and pole cross
+terms. Its explicit budgets E_M and d_M give the sufficient global
+condition eta>=E_M+max(r,d_M) from a local physical lower floor -r
+at radius at least log(M)+1. The auxiliary local count uses r R-dagger R,
+not r I. The cut partition preserves the displayed L2 norm; its native
+graph defect is not set to zero. Covariance transports every source,
+metric, cut and tolerance map together.
+
+The rational schedule for smaller positive eta is a proved implication
+with unexecuted larger-aperture source hypotheses. Its budget PASS
+does not certify those local signs or global counts. The positive
+aperture frontier remains 21/25=0.840. The actual source remains
+non-Fredholm at zero; cofinal eta-zero counts, global contractivity,
+historical five-label closure, K0 and RH remain open. No formal
+verification, external review, universal optimizer or optimal rate
+is claimed. See the [audit](development/SE15_SCOPE.md).
+Earlier boundaries below remain chronological records.
+
 ## SE14 moving-calibration boundary, 12 October 2026
 
 [SE14](development/SE14_MOVING_CALIBRATION_AND_INVARIANT_RECOVERY.md)
