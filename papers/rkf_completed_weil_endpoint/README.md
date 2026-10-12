@@ -8,7 +8,23 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current mathematical development: SE40, 12 October 2026
+## Current observer development: SE41, 13 October 2026
+
+[Ordered return and moving-cut feedback](../../research/lambda_counting/SE41_ORDERED_RETURN_AND_MOVING_CUT_FEEDBACK.md)
+develops the native thermo interpretation of the supplied correction idea.
+For a finite unitary return, complete cut/complement readings and finite
+branch repair supply a Cayley chart. The exact rational correction
+contracts the relative residue while the observer's calibration retains
+the original ordered source. Moving frames, one-step reading error and
+formal unit-depth tripling have explicit proofs.
+
+The [26 exact controls](../../proof_lab/ORDERED_RETURN_FEEDBACK_RESULT.json)
+include nine negative controls and detached observer readings. This is
+a finite native calibration result; it changes no RH source or eta bound.
+See [scope](../../research/lambda_counting/SE41_SCOPE.md) and
+[source record](../../research/lambda_counting/SE41_SOURCE_RECORD.md).
+
+## Current source-specific RH development: SE40, 12 October 2026
 
 [Cyclic source observer and analytic memory](development/SE40_CYCLIC_OBSERVER_AND_ANALYTIC_MEMORY.md)
 supplies a bounded action on the actual native graph, a dense cyclic
@@ -49,7 +65,7 @@ only on V_16. See [scope](development/SE39_SCOPE.md),
 [replay](../../proof_lab/endpoint_rh_bridge_controls.py) and
 [saved readings](../../proof_lab/ENDPOINT_RH_BRIDGE_CONTROLS.json).
 
-## Current foundational development: SE38, 12 October 2026
+## Polynomial counting development: SE38, 12 October 2026
 
 [SE38](../../research/lambda_counting/SE38_UNIT_WEIGHTED_CALIBRATION_AND_CUT_DEPTH.md)
 constructs a finite calibration bank for every finite polynomial action

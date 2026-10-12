@@ -1,5 +1,25 @@
 # Claim Boundary for the Current Paper
 
+## SE41 ordered-return feedback, 13 October 2026
+
+[SE41](../../research/lambda_counting/SE41_ORDERED_RETURN_AND_MOVING_CUT_FEEDBACK.md)
+proves convergence of a moving observer calibration to a fixed finite
+unitary ordered return. Its relative residue approaches identity while
+the reconstruction B_n W_n=U_* retains the actual source. It does not
+prove the raw return identity, erase curvature, or choose a constitutive
+ledger after observing the answer. Complementary channels and path/lift
+memory are retained. A finite phase-chart theorem handles antipodes;
+the finite bound is not transferred to an infinite carrier.
+
+Twenty-six exact controls, including nine negative controls, decode
+supplied mathematical sensor readings. A hyperbolic example rejects
+universal contraction outside the admitted unitary sector. The formal
+unit order at least triples only after the cut calibration is known.
+The noise result is a one-step bound, not exact convergence with fixed
+nonzero sensor error. See [scope](../../research/lambda_counting/SE41_SCOPE.md).
+S_b, eta=1079/2000, its 1/492000 floor and the V_16 zero-shift certificate
+are unchanged. RH's universal positivity condition remains open.
+
 ## SE40 cyclic observer and analytic memory, 12 October 2026
 
 [SE40](development/SE40_CYCLIC_OBSERVER_AND_ANALYTIC_MEMORY.md) constructs

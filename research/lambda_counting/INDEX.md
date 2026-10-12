@@ -1,6 +1,6 @@
 # Constant-lambda counting: current development
 
-12 October 2026. Owner: Monty.
+13 October 2026. Owner: Monty.
 
 This is the live route for the counting/cut construction. The
 [SE32 chapter entry](README.md) remains a pinned historical source.
@@ -24,6 +24,19 @@ exact moving-calibration memory. Its supplied formal unit series can be
 evaluated inside a proved norm disk. This does not assert convergence of
 arbitrary formal counting series or positivity of the RH source.
 
+[SE41](SE41_ORDERED_RETURN_AND_MOVING_CUT_FEEDBACK.md) now develops
+ordered-return feedback after the actual native thermo curvature is
+attached. A finite unitary return is learned through a moving observer
+calibration, while B_n W_n=U_* keeps the original source. Complete
+cut/complement readings repair hidden turns; at most d+1 central phase
+charts contain an admissible chart on a rank-d complex carrier. The
+exact rational update contracts its skew Cayley coordinate and raises
+positive formal unit order at least threefold. Moving-frame and
+one-step noise estimates retain the same target. Twenty-six exact
+controls, including nine negative controls, decode the supplied observer
+readings; see [scope](SE41_SCOPE.md) and [sources](SE41_SOURCE_RECORD.md).
+This changes calibration, not physical curvature or the RH source sign.
+
 | Stage | Developed mathematics |
 | --- | --- |
 | [SE30](../../papers/rkf_completed_weil_endpoint/development/SE30_CONSTANT_LAMBDA_COUNTING_AND_CUT.md) | Positive counts, arithmetic, unit cut, raising/lowering and counting exponential |
@@ -35,8 +48,9 @@ arbitrary formal counting series or positivity of the RH source.
 | [SE36](SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md) | Restricted probes, available action-word closure, synthesized probe directions and finite nonlinear observation at retained unit depth; observer-certified |
 | [SE37](SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md) | Least future-target algebra, exact nonlinear bank reduction and closed calibration memory for unit-scaled action families; observer-certified |
 | [SE38](SE38_UNIT_WEIGHTED_CALIBRATION_AND_CUT_DEPTH.md) | Finite calibration banks for polynomial affine-cut catalogues, exact induced cuts and a sharp relative calibration-depth law; observer-certified |
+| [SE41](SE41_ORDERED_RETURN_AND_MOVING_CUT_FEEDBACK.md) | Ordered-return calibration, complementary branch readings, moving cuts, noise bounds and triple unit-depth correction; scoped observer readings |
 
-The current stage is **SE38**. The degree
+The polynomial calibration stage is **SE38**. The degree
 of each nonlinear action term relative to its unit order determines
 a finite calibration bank with polynomial updates at every retained
 depth. This repairs SE37's cubic example and retains the order of mixed

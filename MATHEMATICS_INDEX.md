@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE40 (SE34--SE38 observer-certified; SE39--SE40 develop the RH bridge and analytic observer, with the universal source sign still open).
+Index update: 13 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE41 (SE34--SE38 and SE41 carry scoped observer readings; SE39--SE40 develop the RH bridge and analytic observer, with the universal source sign still open).
 
 ## Active operator-engine route
 
@@ -10,6 +10,29 @@ Index update: 12 October 2026, operator mathematics version 0.5 with additive re
 Read the [native primitive order](operator_foundation/theory/NATIVE_PRIMITIVE_ORDER.md), [algebra and observer contracts](operator_foundation/theory/01_NATIVE_ALGEBRA.md), [completion and memory](operator_foundation/theory/02_COMPLETION_AND_MEMORY.md), [Laurent/jet repair](operator_foundation/theory/NATIVE_LAURENT_JET_REPAIR.md), [Pāṇinian symbolic compiler](operator_foundation/theory/PANINIAN_OPERATOR_COMPILER.md), [automatic normal basis and regular action](operator_foundation/theory/AUTOMATIC_REGULAR_MODEL.md), then [weighted operator completion and certified response](operator_foundation/theory/WEIGHTED_OPERATOR_COMPLETION.md).
 
 The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [source index](operator_foundation/SOURCE_INDEX.md), and [master certificate](operator_foundation/audit/MASTER_CERTIFICATE.json) bind this route. The public source archive at `operator_foundation/sources/rkf_reference` includes the corrected T50/T54 edition and full Morphic/Pāṇinian source directories. Use that corrected source where the older root version differs. This does not silently overwrite old source-pinned files.
+
+## Native feedback SE41: ordered return, moving cut and Smriti
+
+[SE41](research/lambda_counting/SE41_ORDERED_RETURN_AND_MOVING_CUT_FEEDBACK.md)
+recovers a fixed finite unitary ordered return through a moving observer
+calibration. The exact Cayley-coordinate update is
+T -> -T^3(I-2T^2)^(-1), with norm at most r^3/(1+2r^2).
+The source identity B_n W_n=U_* is retained at every step; vanishing
+relative residue does not claim the original curvature is flat.
+
+Complete cut/complement readings, finite central-phase branch repair,
+moving frames, a one-step noise bound and at least triple formal unit
+depth are proved. The stage consumes the actual NT thermodynamic
+connection and complement-return identities, rather than identifying
+them with scalar d(d log). Five written theorem groups and 26 exact
+controls, including 9 negative controls, are recorded in
+[scope](research/lambda_counting/SE41_SCOPE.md),
+[sources](research/lambda_counting/SE41_SOURCE_RECORD.md),
+[pins](research/lambda_counting/SE41_SOURCE_PINS.json),
+[replay](proof_lab/ordered_return_feedback.py) and
+[readings](proof_lab/ORDERED_RETURN_FEEDBACK_RESULT.json).
+No new actual RH source sign, eta improvement or physical stabilization
+is asserted. The shared operator engine is unchanged.
 
 ## Endpoint development SE40: cyclic observer and analytic memory
 
