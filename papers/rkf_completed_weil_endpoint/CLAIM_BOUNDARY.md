@@ -1,5 +1,25 @@
 # Claim Boundary for the Current Paper
 
+## SE11 precision and cutoff boundary, 12 October 2026
+
+[SE11](development/SE11_PRECISION_FRONTIER_AND_CUTOFF_OBSTRUCTION.md)
+certifies radius 4/5 on the entire complex odd carrier: source floor
+1/250000000000000, native floor 1/6600000000000001 and squared joint
+reserve 2/72600000000000011. All smaller apertures follow by inclusion.
+The 116-mode arithmetic retains every mixed and infinite-tail term.
+
+At radius 0.8047, an exact rational witness makes the valid T=256
+lower comparison negative. This rules out fixing that comparison
+merely with more modes or precision. It does not make the full source
+negative. Adding dormant prime 5 changes one band reading, but the
+modified catalogue's tail and full positive sign are not certified.
+
+Prime 5, all-scale source positivity, the global eta=0 sign, historical
+five-label closure, K0 and RH remain open. The general completeness
+result remains SE10's; a published radius-0.8 certificate is prior art.
+No proof-assistant verification or external review is claimed.
+See the [audit](development/SE11_SCOPE.md).
+
 ## SE10 prime-power and completeness boundary, 12 October 2026
 
 [SE10](development/SE10_PRIME_POWER_AND_CERTIFICATE_COMPLETENESS.md)

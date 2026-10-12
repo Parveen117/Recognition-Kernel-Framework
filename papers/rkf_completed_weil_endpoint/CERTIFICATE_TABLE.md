@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE10 tables record the development history and current boundary.
+The separate SE1--SE11 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -171,6 +171,23 @@ See the [proof](development/SE10_PRIME_POWER_AND_CERTIFICATE_COMPLETENESS.md),
 [sources](development/SE10_SOURCE_RECORD.md) and
 [audit](development/SE10_SCOPE.md). No positivity at every scale,
 universal stopping-time estimate or global endpoint closure follows.
+
+## SE11 precision frontier and actual cutoff obstruction
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Exact signed-Gram enclosure | SE11.5--SE11.7; integer sums and rank-one norm errors | Cancelling node sums assembled exactly; every point error retained |
+| Radius-4/5 certificate | SE11.8--SE11.14; 116 interval pivots and all errors | Full odd source floor 1/250000000000000 |
+| Native observer return | SE11.15--SE11.17 and inclusion | Native floor 1/6600000000000001; squared reserve 2/72600000000000011 |
+| Fixed-cutoff obstruction | SE11.18--SE11.19; enclosed rational trial | T=256 comparison is negative at radius 0.8047 regardless of added modes or precision |
+| Lost dormant-catalogue cancellation | SE11.20--SE11.22 | One band reading changes sign while the full source is unchanged; no certified modified tail |
+
+See the [proof](development/SE11_PRECISION_FRONTIER_AND_CUTOFF_OBSTRUCTION.md),
+[matrix](../../proof_lab/ENDPOINT_PRECISION_FRONTIER_MATRIX.json),
+[result](../../proof_lab/ENDPOINT_PRECISION_FRONTIER_RESULT.json),
+[witness](../../proof_lab/ENDPOINT_CUTOFF_OBSTRUCTION_RESULT.json),
+[sources](development/SE11_SOURCE_RECORD.md) and
+[audit](development/SE11_SCOPE.md). Prime 5 and global closure remain open.
 
 ## Permanent records
 

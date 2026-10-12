@@ -8,7 +8,26 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE10, 12 October 2026
+## Current endpoint development: SE11, 12 October 2026
+
+[Precision frontier and cutoff obstruction](development/SE11_PRECISION_FRONTIER_AND_CUTOFF_OBSTRUCTION.md)
+certifies the full odd source on radius 4/5 with floor 4e-15, native
+floor 1/6600000000000001 and squared reserve 2/72600000000000011.
+Its 116-mode certificate uses exact signed-Gram sums and includes the
+entire infinite complement and every error.
+
+An independent rational witness identifies a negative lower comparison
+at radius 0.8047 with the same T=256 cutoff. Increasing only the modes
+or precision cannot repair that comparison. This is not a negative
+source value; a larger band or another proved comparison is needed.
+Prime 5 and the cofinal/global sign remain open.
+
+See the [result](../../proof_lab/ENDPOINT_PRECISION_FRONTIER_RESULT.json),
+[cutoff witness](../../proof_lab/ENDPOINT_CUTOFF_OBSTRUCTION_RESULT.json),
+[source record](development/SE11_SOURCE_RECORD.md),
+[audit](development/SE11_SCOPE.md) and [claim boundary](CLAIM_BOUNDARY.md).
+
+## Preceding endpoint development: SE10, 12 October 2026
 
 [Prime-power crossing and certificate completeness](development/SE10_PRIME_POWER_AND_CERTIFICATE_COMPLETENESS.md)
 certifies scale 7/5 across prime power 4. The whole odd physical aperture

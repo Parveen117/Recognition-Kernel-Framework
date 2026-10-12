@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE10.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE11.
 
 ## Active operator-engine route
 
@@ -244,6 +244,32 @@ See the [replay](proof_lab/endpoint_prime_power_certificate.py),
 and [audit](papers/rkf_completed_weil_endpoint/development/SE10_SCOPE.md).
 Prime 5 is the next unverified event; the cofinal/global eta=0 sign,
 historical five-label endpoint, K0 and RH remain open.
+
+## Endpoint development SE11: precision frontier and cutoff obstruction
+
+[SE11](papers/rkf_completed_weil_endpoint/development/SE11_PRECISION_FRONTIER_AND_CUTOFF_OBSTRUCTION.md)
+certifies the full complex odd source through radius 4/5, with physical
+floor 1/250000000000000, native floor 1/6600000000000001 and squared
+joint reserve 2/72600000000000011. All 116 modes, mixed blocks and the
+infinite complement are enclosed. Exact signed-Gram accumulation and
+a refined Gamma-ground enclosure resolve the smaller margin.
+
+A separate rational witness proves that the valid T=256 comparison
+at radius 0.8047 is negative. More modes or precision at that fixed
+cutoff cannot repair its sign. A dormant-prime identity shows the
+cancellation lost by the band reading; its modified tail is not
+certified. No negative full-source value or prime-5 crossing is claimed.
+
+See the [replay](proof_lab/endpoint_precision_frontier_certificate.py),
+[matrix](proof_lab/ENDPOINT_PRECISION_FRONTIER_MATRIX.json),
+[result](proof_lab/ENDPOINT_PRECISION_FRONTIER_RESULT.json),
+[cutoff replay](proof_lab/endpoint_cutoff_obstruction.py),
+[witness](proof_lab/ENDPOINT_CUTOFF_OBSTRUCTION_RESULT.json),
+[sources](papers/rkf_completed_weil_endpoint/development/SE11_SOURCE_RECORD.md),
+[pins](papers/rkf_completed_weil_endpoint/development/SE11_SOURCE_PINS.json)
+and [audit](papers/rkf_completed_weil_endpoint/development/SE11_SCOPE.md).
+Prime 5 and the cofinal/global eta=0 sign remain open, as do the
+historical five-label endpoint, K0 and RH.
 
 ## Full framework register, preserved
 
