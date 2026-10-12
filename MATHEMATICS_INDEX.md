@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE21.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE22.
 
 ## Active operator-engine route
 
@@ -430,6 +430,31 @@ and [audit](papers/rkf_completed_weil_endpoint/development/SE16_SCOPE.md).
 The positive aperture remains 21/25. Eta=1/2, cofinal eta-zero
 positivity, global critical contractivity, the historical five-label
 endpoint, K0 and RH remain open. No formal or external review is claimed.
+
+## Endpoint development SE22: global reciprocal-pole certificate below 0.57
+
+[SE22](papers/rkf_completed_weil_endpoint/development/SE22_GLOBAL_RECIPROCAL_POLE.md)
+executes SE19's exact reciprocal pole test on the complete corrected
+complex odd native source. It proves S_b+(227/400)I_X >= (1/1476000)I_X,
+giving a sufficient nonnegative shift 837629/1476000 < 0.57. This is
+a global positive-shift result covering the entire carrier.
+
+The whole pole burden is below 199/200. A 6,738-cell complete cover,
+exact numerator integrals, all prime tails and an analytic infinite
+exterior certify the bound. With the same weights and eta, the old
+fixed pointwise pole allocation fails at a rigorously enclosed point.
+The complete rank-one target and retained nonnegative source squares
+give the improvement without assuming an unobserved-complement sign.
+
+See the [replay](proof_lab/endpoint_reciprocal_pole_certificate.py),
+[result](proof_lab/ENDPOINT_RECIPROCAL_POLE_RESULT.json),
+[controls](proof_lab/test_endpoint_reciprocal_pole_certificate.py),
+[scope](papers/rkf_completed_weil_endpoint/development/SE22_SCOPE.md),
+[source record](papers/rkf_completed_weil_endpoint/development/SE22_SOURCE_RECORD.md)
+and [pins](papers/rkf_completed_weil_endpoint/development/SE22_SOURCE_PINS.json).
+SE21's finite V_16 eta-zero sign and the radius 21/25 remain unchanged.
+Eta=1/2, global eta=0, critical recovery, historical five-label closure,
+K0 and RH are open. The pre-existing engine pin mismatch is still FAIL.
 
 ## Endpoint development SE21: complete Laplace source and finite zero-shift certificate
 

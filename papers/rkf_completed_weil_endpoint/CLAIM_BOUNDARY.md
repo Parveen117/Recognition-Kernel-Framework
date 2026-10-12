@@ -1,5 +1,32 @@
 # Claim Boundary for the Current Paper
 
+## SE22 complete global positive-shift certificate, 12 October 2026
+
+[SE22](development/SE22_GLOBAL_RECIPROCAL_POLE.md) proves
+S_b+(227/400)I_X >= (1/1476000)I_X for all complex odd native states,
+with full prime/Gamma contributions, the exact pole and all tails.
+The sufficient nonnegative shift improves to 837629/1476000 < 0.57.
+Negative count and nullity vanish for eta>=227/400. At the implied
+smaller shift no strict native gap or nullity conclusion is claimed.
+
+The proof executes SE19's n=0 reciprocal pole criterion with a uniform
+seed floor 1/1000 and whole pole burden below 199/200. Every accepted
+cell is bounded throughout its interval; exact numerator masses and
+the analytic exterior cover the complete integral. Midpoint values
+only prioritize subdivision and do not certify the sign.
+
+This is a genuine global improvement at positive eta, not global
+eta-zero closure. SE21's finite V_16 zero-shift evidence and the
+radius-21/25 support result are unchanged. Eta=1/2, eta=0 on X,
+critical recovery, historical five-label attachment, K0 and RH remain
+open. SE20's fixed-Gamma seed obstruction still prevents claiming
+that repetition of this comparison automatically reaches zero.
+
+The new source replay and controls pass; the required unchanged
+engine check still fails its documented pin mismatch. No old pin is
+replaced, and no engine PASS, formal verification or external review
+is asserted. See the [scope](development/SE22_SCOPE.md).
+
 ## SE21 finite zero-shift certificate boundary, 12 October 2026
 
 [SE21](development/SE21_COMPLETE_LAPLACE_GRAM.md) certifies the actual

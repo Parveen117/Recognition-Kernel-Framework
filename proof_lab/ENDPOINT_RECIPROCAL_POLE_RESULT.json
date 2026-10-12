@@ -1,0 +1,134 @@
+{
+  "schema": "rkf.endpoint-reciprocal-pole.v1",
+  "date": "2026-10-12",
+  "status": "PASS_GLOBAL_RECIPROCAL_POLE",
+  "arithmetic": "Exact Fraction and inherited 90-digit outward Decimal",
+  "global_source": {
+    "eta": "227/400",
+    "shifted_native_floor": "1/1476000",
+    "implied_nonnegative_shift": "837629/1476000",
+    "invariant_negative_count": 0,
+    "nullity": 0,
+    "eta_zero_certified": false,
+    "scope": "Entire corrected complex odd native source; all eta >= 227/400"
+  },
+  "comparison": {
+    "alpha": "103/200",
+    "uniform_seed_floor": "1/1000",
+    "pole_cap": "199/200",
+    "pole_burden_upper": [
+      "0.994999857225959771340825508455209792562850623538487559841317256567036405476183614035572476",
+      "0.994999857225959771340825508455209792562850623538487559841317256567036405476183614035572477"
+    ],
+    "exact_pole_retained": true,
+    "retained_residual_observations": 0,
+    "unobserved_gamma_and_prime_squares_nonnegative": true
+  },
+  "primes": {
+    "cutoff": 4096,
+    "prime_power_count": 604,
+    "catalogue_sha256": "62bf603131d628d5bd67ad767f04882fcef6894a46bdcaa0ae3ff48c56e485ef",
+    "base_complete_mass": [
+      "0.288738153901640111215026146782622744025186829027254162779860761530151045194509667382056106",
+      "0.288761002495881917271696458906555047861967561927947394310917775554963330020483948701366646"
+    ],
+    "base_tail": [
+      "0.0000228485942418060566703121239323038367807329006932315310570140248122848259742813193103460318",
+      "0.0000228485942418060566703121239323038367807329006932315310570140248122848259742813193103460444"
+    ],
+    "auxiliary_complete_mass": [
+      "0.0185605294644459700888880744722639124680548786252830525355512524723633325737778166354865230",
+      "0.0185605294644460754365740681880760057350569634199919121213802391472343601100048933598991432"
+    ],
+    "auxiliary_tail": [
+      "1.05347685993715812093267002084794708859585828986674871027536227076724412608431026524096453E-16",
+      "1.05347685993715812093267002084794708859585828986674871027536227076724412608431026524096515E-16"
+    ],
+    "all_prime_powers_included": true
+  },
+  "spatial_cover": {
+    "left": "1/64",
+    "right": "1/1",
+    "initial_seed_cells": 75,
+    "integral_cells": 6738,
+    "maximum_depth": 14,
+    "minimum_seed_lower": "0.00119236215467930173052575868642870294989424070911319668039598292911071216759359427017605",
+    "partition_sha256": "a94ef3c23e879e371192b8db739d2c0846a1d4f402246bc6c3f80e9b8b380ada",
+    "certificate_rule": "Every cell covers its entire interval; exact numerator mass divided by a proved positive seed lower bound; replay reconstructs and checks the complete partition."
+  },
+  "infinite_exterior": {
+    "prime_upper": [
+      "0.145637340081431224950219438115224949272576725431502810633720353383203952200095102218307442",
+      "0.145637340081431557441025934719707995053887970839850793434722460866328852509269389009040975"
+    ],
+    "gamma_absolute": [
+      "7.87391427184984613276990054496590997200000969849060007311297718942418496363383122088484003E-7",
+      "7.87391427184984613276990054496590997200000969849060007311297718942418496363383122088484015E-7"
+    ],
+    "seed_lower": [
+      "0.421862319371776185053128822982093435170505740159729746846824376997407704894730933827758721",
+      "0.421862319371776517543935319586576480951816985568077729647826484480532605203905220618492255"
+    ],
+    "pole_burden": [
+      "7.06216711732421057371635069010432663232773498595644742792954650093367316572371029339691863E-8",
+      "7.06216711732421057371635069010432663232773498595644742792954650093367316572371029339691869E-8"
+    ]
+  },
+  "fixed_pole_control": {
+    "z": "3/4",
+    "old_comparison": [
+      "-0.029855759881794891858763729111098321798051493269933589533310608916149834697031237988276506",
+      "-0.029806564393741881622134074552723738383456432365265670928756299546896141964726138202999964"
+    ],
+    "actual_negative_source_claim": false
+  },
+  "check_count": 9,
+  "checks": [
+    {
+      "name": "inherited_complete_gamma_ground_cap",
+      "status": "PASS"
+    },
+    {
+      "name": "positive_even_prime_weight",
+      "status": "PASS"
+    },
+    {
+      "name": "complete_spatial_seed_floor",
+      "status": "PASS"
+    },
+    {
+      "name": "whole_infinite_exterior_seed_floor",
+      "status": "PASS"
+    },
+    {
+      "name": "complete_pole_mass_is_one_twelfth",
+      "status": "PASS"
+    },
+    {
+      "name": "complete_reciprocal_pole_burden",
+      "status": "PASS"
+    },
+    {
+      "name": "native_norm_conversion_keeps_positive_gamma_energy",
+      "status": "PASS"
+    },
+    {
+      "name": "strict_global_improvement_below_57_over_100",
+      "status": "PASS"
+    },
+    {
+      "name": "old_fixed_pole_comparison_fails_with_same_weights",
+      "status": "PASS"
+    }
+  ],
+  "preserved_zero_shift_evidence": "SE21: complete source on finite V16 only",
+  "unchanged_positive_support_radius": "21/25",
+  "not_certified": [
+    "eta=1/2",
+    "global eta=0",
+    "RH",
+    "historical five-label attachment or K0",
+    "global critical observer norm at most one",
+    "operator-engine gate PASS"
+  ]
+}

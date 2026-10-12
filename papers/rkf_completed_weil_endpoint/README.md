@@ -8,7 +8,31 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE21, 12 October 2026
+## Current endpoint development: SE22, 12 October 2026
+
+[Global reciprocal-pole certificate](development/SE22_GLOBAL_RECIPROCAL_POLE.md)
+proves S_b+(227/400)I_X >= (1/1476000)I_X for the entire corrected
+complex odd native carrier. The new sufficient global nonnegative
+shift is 837629/1476000, approximately 0.56749932249, below 0.57.
+
+This executes the previously proved SE19 exact pole-budget theorem.
+The complete pole burden is below 199/200, using 6,738 whole interval
+cells, exact numerator integrals, all prime tails and the infinite
+spatial exterior. No sampled quadrature or finite-dimensional
+complement assumption supplies the sign. The old fixed pointwise pole
+allocation fails for these same weights; the complete reciprocal
+target test succeeds.
+
+See the [result](../../proof_lab/ENDPOINT_RECIPROCAL_POLE_RESULT.json),
+[replay](../../proof_lab/endpoint_reciprocal_pole_certificate.py),
+[controls](../../proof_lab/test_endpoint_reciprocal_pole_certificate.py),
+[scope](development/SE22_SCOPE.md), [sources](development/SE22_SOURCE_RECORD.md)
+and [pins](development/SE22_SOURCE_PINS.json).
+Eta=0 on all X remains open. SE21's finite V_16 sign and the local
+radius 21/25 are preserved. The unchanged engine pin check still
+fails; no engine PASS, formal check or external review is asserted.
+
+## Preceding endpoint development: SE21, 12 October 2026
 
 [Complete Laplace source Gram](development/SE21_COMPLETE_LAPLACE_GRAM.md)
 evaluates the unchanged source directly at eta=0. A full sixteen-direction

@@ -359,6 +359,24 @@ Numerical certification remains deferred. The executed 59/100 anchor,
 1/7380 native reserve, 10883/18450 implied shift and local radius 21/25
 remain unchanged. Eta=1/2, cofinal eta-zero signs, K0 and RH stay open.
 
+## SE22 global reciprocal-pole certificate
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Global source sign | SE22.1 and SE22.7--SE22.8 | S_b+(227/400)I_X >= (1/1476000)I_X on all X |
+| Sufficient smaller shift | Exact subtraction of the native floor | 837629/1476000 < 0.57; no exact spectral-edge claim |
+| Exact pole observer | Inherited SE19 criterion, SE22.6 | Complete rank-one target; burden below 199/200 |
+| Entire seed and pole integral | 6738 whole cells, all prime tails, infinite exterior | Uniform seed floor 1/1000; no sampled quadrature acceptance |
+| Same-weight comparison control | Complete row enclosure at z=3/4 | Old fixed pole allocation fails; no actual-source negative witness |
+| Independent controls | Nine Python tests and nine replay checks | Exact integration, full complex target, tail/cover discipline and fault rejection |
+| Global eta=0 | Not supplied | Still open; finite SE21 evidence unchanged |
+| Engine gate | Same pre-existing read-only pin failure | FAIL; engine and old pins preserved |
+
+See the [proof](development/SE22_GLOBAL_RECIPROCAL_POLE.md),
+[replay](../../proof_lab/endpoint_reciprocal_pole_certificate.py),
+[result](../../proof_lab/ENDPOINT_RECIPROCAL_POLE_RESULT.json),
+[pins](development/SE22_SOURCE_PINS.json) and [scope](development/SE22_SCOPE.md).
+
 ## SE21 complete Laplace source at zero shift
 
 | Node | Evidence | Allowed conclusion |
