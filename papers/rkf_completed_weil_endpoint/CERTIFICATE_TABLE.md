@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE16 tables record the development history and current boundary.
+The separate SE1--SE17 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -306,3 +306,20 @@ open; the positive local radius stays 21/25.
 Reviewer reproducibility archive DOI: 10.5281/zenodo.21760119
 Unified publication record DOI:     10.5281/zenodo.21735284
 ```
+
+## SE17 independent weights and a global certified family
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Separate kernel weights | SE17.3--SE17.11; exact complex square identities | Distinct Gamma/prime readings retain the same complete source |
+| Odd boundary and auxiliary mass | SE17.5--SE17.6 and SE17.13 | Regular degree-62 Gamma potential; complete exponent-11/2 prime enclosure |
+| Convex weight family | SE17.12; affine inequality before division | Every alpha in [21/40,53/100], even without a limiting replay choice |
+| All-position enclosure | SE17.14--SE17.16; 485 full cells, 970 endpoint checks and infinite exterior | Q>=1/1000 on the whole carrier for the continuous family |
+| Global source and count | SE17.17--SE17.18; native floor 1/7380 at eta=59/100 | Global kappa_eta=0 and nullity zero for eta>=0.59; implied shift 10883/18450 |
+| Failed unshaped comparison | SE17.19; complete point upper below -0.10164567760 | The selected estimate needs its prime shape; no negative source claim |
+
+See the [theorems](development/SE17_INDEPENDENT_WEIGHTS_AND_GLOBAL_FAMILY.md),
+[replay](../../proof_lab/endpoint_weight_family_certificate.py),
+[result](../../proof_lab/ENDPOINT_WEIGHT_FAMILY_RESULT.json) and
+[audit](development/SE17_SCOPE.md). Local radius 21/25 and the
+eta-zero/K0/RH boundary remain unchanged.

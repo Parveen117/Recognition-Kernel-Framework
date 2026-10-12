@@ -1,5 +1,28 @@
 # Claim Boundary for the Current Paper
 
+## SE17 independent-weight family boundary, 12 October 2026
+
+[SE17](development/SE17_INDEPENDENT_WEIGHTS_AND_GLOBAL_FAMILY.md)
+proves S_b+(59/100)I_X >= (1/7380)I_X on the complete corrected complex
+odd source. Its global negative count and nullity vanish for eta>=0.59.
+The implied nonnegative shift is 10883/18450, a sufficient bound and
+not the exact edge. The positive reserve is for the shifted source.
+
+Distinct Gamma and prime weights supply exact nonnegative residuals.
+The whole prime-weight interval [21/40,53/100] is certified by an
+affine inequality before division, 485 full spatial cells and a
+complete exterior bound. The weight can change between refinements
+without converging. Arbitrary spatial switching is not justified,
+and no arbitrary measurement-independence claim is made.
+
+The unshaped comparison's enclosed negative value is not a negative
+actual-source witness. The positive local radius remains 21/25.
+Eta=1/2, cofinal eta-zero signs, global critical contractivity, the
+historical five-label endpoint, K0 and RH remain open. Neither
+optimality, formal verification nor external review is claimed.
+See the [audit](development/SE17_SCOPE.md). Earlier stage boundaries
+below are preserved chronological records.
+
 ## SE16 signed-return and global-shift boundary, 12 October 2026
 
 [SE16](development/SE16_SIGNED_RETURN_AND_GLOBAL_SHIFT.md) proves

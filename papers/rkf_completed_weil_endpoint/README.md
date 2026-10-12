@@ -8,7 +8,27 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE16, 12 October 2026
+## Current endpoint development: SE17, 12 October 2026
+
+[Independent comparison weights and a global certified family](development/SE17_INDEPENDENT_WEIGHTS_AND_GLOBAL_FAMILY.md)
+proves S_b+(59/100)I_X >= (1/7380)I_X on the entire corrected complex
+odd source. Its actual global negative count and nullity are zero
+for eta>=0.59; the implied nonnegative shift is 10883/18450.
+
+Separate Gamma and prime weights retain sixteen odd Gamma modes and
+every prime power. The entire prime-weight interval [21/40,53/100]
+has the same certificate: 485 complete spatial cells and an infinite
+exterior bound. The affine family proof allows the calibration to
+change between refinements without converging. Source, native metric
+and the exact squared residuals remain attached.
+
+Eta=1/2 and the cofinal eta-zero sign remain open. The positive local
+radius stays 0.840. See the [result](../../proof_lab/ENDPOINT_WEIGHT_FAMILY_RESULT.json),
+[replay](../../proof_lab/endpoint_weight_family_certificate.py),
+[sources](development/SE17_SOURCE_RECORD.md),
+[audit](development/SE17_SCOPE.md) and [claim boundary](CLAIM_BOUNDARY.md).
+
+## Preceding endpoint development: SE16, 12 October 2026
 
 [Signed return squares and a sharper global shift](development/SE16_SIGNED_RETURN_AND_GLOBAL_SHIFT.md)
 certifies S_b+(69/100)I_X >= (1/1845)I_X on the entire corrected

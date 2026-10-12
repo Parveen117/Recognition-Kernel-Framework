@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE16.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE17.
 
 ## Active operator-engine route
 
@@ -430,6 +430,37 @@ and [audit](papers/rkf_completed_weil_endpoint/development/SE16_SCOPE.md).
 The positive aperture remains 21/25. Eta=1/2, cofinal eta-zero
 positivity, global critical contractivity, the historical five-label
 endpoint, K0 and RH remain open. No formal or external review is claimed.
+
+## Endpoint development SE17: independent weights and a global family
+
+[SE17](papers/rkf_completed_weil_endpoint/development/SE17_INDEPENDENT_WEIGHTS_AND_GLOBAL_FAMILY.md)
+certifies S_b+(59/100)I_X >= (1/7380)I_X on the complete corrected
+complex odd source. The global negative count and nullity vanish
+for eta>=0.59, and the implied nonnegative shift is 10883/18450.
+This improves the SE16 anchor without enlarging the local aperture.
+
+The Gamma and prime readings use distinct exact comparison weights.
+Sixteen odd Gamma modes retain a regular boundary formula; the prime
+weight has a complete exponent-11/2 auxiliary mass. An affine
+inequality before division certifies every alpha in [21/40,53/100],
+including parameter sequences that do not converge. It does not
+permit arbitrary independent switching at spatial points.
+
+The 485 full interval cells, 970 endpoint-weight inequalities and
+infinite exterior prove a common spatial floor 1/1000. Exact square
+residuals retain the unchanged source and native pairing. Erasing
+the prime shape makes this comparison fail at the same eta, without
+giving a negative source witness.
+
+See the [replay](proof_lab/endpoint_weight_family_certificate.py),
+[controls](proof_lab/test_endpoint_weight_family_certificate.py),
+[result](proof_lab/ENDPOINT_WEIGHT_FAMILY_RESULT.json),
+[sources](papers/rkf_completed_weil_endpoint/development/SE17_SOURCE_RECORD.md),
+[pins](papers/rkf_completed_weil_endpoint/development/SE17_SOURCE_PINS.json)
+and [audit](papers/rkf_completed_weil_endpoint/development/SE17_SCOPE.md).
+The positive radius stays 21/25. Eta=1/2, cofinal eta-zero signs,
+critical contractivity, historical five-label closure, K0 and RH
+remain open. No formal or external verification is claimed.
 
 ## Full framework register, preserved
 
