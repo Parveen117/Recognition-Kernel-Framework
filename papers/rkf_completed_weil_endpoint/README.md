@@ -8,7 +8,29 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE11, 12 October 2026
+## Current endpoint development: SE12, 12 October 2026
+
+[Support calibration and prime-5 crossing](development/SE12_SUPPORT_MARKER_AND_PRIME_FIVE.md)
+certifies the full complex odd source through radius 161/200=0.805.
+The source floor is 2e-15, native floor 1/13925000000000001 and
+squared observer reserve 2/153175000000000011. Every smaller
+aperture follows by native inclusion.
+
+An exact support-zero cosine calibrates the finite comparison while
+preserving the source. All 168 interval pivots, mixed and infinite
+tails, and the marker's complete high-frequency condition pass.
+At a specified frequency, removing the marker invalidates this
+chosen positive cap. The next event is prime 7; the cofinal/global
+sign remains open. No universal self-correction theorem is inferred.
+
+See the [result](../../proof_lab/ENDPOINT_SUPPORT_MARKER_RESULT.json),
+[replay](../../proof_lab/endpoint_support_marker_certificate.py),
+[source record](development/SE12_SOURCE_RECORD.md),
+[audit](development/SE12_SCOPE.md) and [claim boundary](CLAIM_BOUNDARY.md).
+
+## Preceding endpoint development: SE11, 12 October 2026
+
+SE12 now crosses the prime-5 event left open in this historical record.
 
 [Precision frontier and cutoff obstruction](development/SE11_PRECISION_FRONTIER_AND_CUTOFF_OBSTRUCTION.md)
 certifies the full odd source on radius 4/5 with floor 4e-15, native

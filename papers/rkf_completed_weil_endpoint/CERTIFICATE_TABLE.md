@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE11 tables record the development history and current boundary.
+The separate SE1--SE12 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -188,6 +188,26 @@ See the [proof](development/SE11_PRECISION_FRONTIER_AND_CUTOFF_OBSTRUCTION.md),
 [witness](../../proof_lab/ENDPOINT_CUTOFF_OBSTRUCTION_RESULT.json),
 [sources](development/SE11_SOURCE_RECORD.md) and
 [audit](development/SE11_SCOPE.md). Prime 5 and global closure remain open.
+
+## SE12 support calibration and complete prime-5 crossing
+
+| Result | Evidence | Scope |
+| --- | --- | --- |
+| Source-preserving support marker | SE12.2--SE12.5; translation, Parseval and polarization | Full source unchanged; finite comparisons can change sign |
+| Calibrated high-frequency bound | SE12.6--SE12.11; 4236 interval cells and an analytic far tail | Xi(t)>3/5 for every abs(t)>=384 |
+| Specific marker necessity | SE12.10; enclosed reading at t=24837/50 | Removing the marker invalidates this cap at the same cutoff |
+| Full prime-5 crossing | SE12.12--SE12.19; 168 interval pivots and all errors | Full complex odd source floor 1/500000000000000 on radius 161/200 |
+| Native local observer | SE12.20--SE12.22 and inclusion | Native floor 1/13925000000000001; squared reserve 2/153175000000000011 |
+
+See the [proof](development/SE12_SUPPORT_MARKER_AND_PRIME_FIVE.md),
+[replay](../../proof_lab/endpoint_support_marker_certificate.py),
+[controls](../../proof_lab/test_endpoint_support_marker_certificate.py),
+[matrix](../../proof_lab/ENDPOINT_SUPPORT_MARKER_MATRIX.json),
+[result](../../proof_lab/ENDPOINT_SUPPORT_MARKER_RESULT.json),
+[sources](development/SE12_SOURCE_RECORD.md) and
+[audit](development/SE12_SCOPE.md). Earlier rows are chronological;
+SE12 settles their open prime-5 crossing. Prime 7 and global closure
+remain open; no universal improvement or convergence rule is asserted.
 
 ## Permanent records
 

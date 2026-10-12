@@ -1,5 +1,30 @@
 # Claim Boundary for the Current Paper
 
+## SE12 support-calibration boundary, 12 October 2026
+
+[SE12](development/SE12_SUPPORT_MARKER_AND_PRIME_FIVE.md) certifies
+the prime-5 crossing through physical radius 161/200=0.805 on the
+whole complex odd carrier. The source floor is 1/500000000000000,
+native floor 1/13925000000000001 and squared reserve
+2/153175000000000011. All smaller apertures follow by native inclusion.
+
+The exact support-zero marker changes the finite comparison while
+leaving the full source unchanged. Its entire frequency tail and
+all matrix, quadrature and infinite-complement errors are certified.
+One enclosed reading proves that removing it invalidates this chosen
+positive tail cap. This supplies neither a universal marker-selection
+rule nor an automatic improvement guarantee; the cutoff and head
+also increase relative to SE11. NSB1/NSB2 provide a methodological
+lead, not an unstated transfer of their Hessian hypotheses to RH.
+
+Prime 7, cofinal all-scale source signs, the global eta=0 sign,
+historical five-label closure, K0 and RH remain open. No geometric
+prime model, uniform strict global reserve, record aperture, formal
+verification or external review is claimed. See the
+[audit](development/SE12_SCOPE.md). The earlier boundaries below
+are preserved chronological records; SE12 supersedes their open
+prime-5 crossing only.
+
 ## SE11 precision and cutoff boundary, 12 October 2026
 
 [SE11](development/SE11_PRECISION_FRONTIER_AND_CUTOFF_OBSTRUCTION.md)

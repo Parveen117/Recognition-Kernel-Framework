@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE11.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE12.
 
 ## Active operator-engine route
 
@@ -247,6 +247,8 @@ historical five-label endpoint, K0 and RH remain open.
 
 ## Endpoint development SE11: precision frontier and cutoff obstruction
 
+SE12 below now crosses the prime-5 event left open in this historical stage.
+
 [SE11](papers/rkf_completed_weil_endpoint/development/SE11_PRECISION_FRONTIER_AND_CUTOFF_OBSTRUCTION.md)
 certifies the full complex odd source through radius 4/5, with physical
 floor 1/250000000000000, native floor 1/6600000000000001 and squared
@@ -270,6 +272,35 @@ See the [replay](proof_lab/endpoint_precision_frontier_certificate.py),
 and [audit](papers/rkf_completed_weil_endpoint/development/SE11_SCOPE.md).
 Prime 5 and the cofinal/global eta=0 sign remain open, as do the
 historical five-label endpoint, K0 and RH.
+
+## Endpoint development SE12: support calibration and prime-5 crossing
+
+[SE12](papers/rkf_completed_weil_endpoint/development/SE12_SUPPORT_MARKER_AND_PRIME_FIVE.md)
+uses the exact support-zero marker cos(t) to calibrate the finite
+comparison without changing the complete source. It certifies the
+whole complex odd carrier through physical radius 161/200=0.805,
+crossing prime 5: physical floor 1/500000000000000, native floor
+1/13925000000000001 and squared reserve 2/153175000000000011.
+Native inclusion covers every smaller aperture.
+
+The 168-mode interval certificate includes analytic quadrature, all
+node errors and the complete infinite complement. A covering of
+4236 intervals plus an analytic far-tail bound certifies the marker's
+entire high-frequency condition. Removing the marker invalidates
+the selected positive cap at a specified frequency. This is a
+particular calibrated recovery step, not universal self-correction
+or a literal prime model from observer-circle or torus metaphors.
+
+See the [replay](proof_lab/endpoint_support_marker_certificate.py),
+[tests](proof_lab/test_endpoint_support_marker_certificate.py),
+[matrix](proof_lab/ENDPOINT_SUPPORT_MARKER_MATRIX.json),
+[result](proof_lab/ENDPOINT_SUPPORT_MARKER_RESULT.json),
+[sources](papers/rkf_completed_weil_endpoint/development/SE12_SOURCE_RECORD.md),
+[pins](papers/rkf_completed_weil_endpoint/development/SE12_SOURCE_PINS.json)
+and [audit](papers/rkf_completed_weil_endpoint/development/SE12_SCOPE.md).
+Prime 7, cofinal source signs, the global eta=0 sign, historical
+five-label endpoint, K0 and RH remain open. Earlier stage boundaries
+are chronological records; only their prime-5 opening is superseded here.
 
 ## Full framework register, preserved
 
