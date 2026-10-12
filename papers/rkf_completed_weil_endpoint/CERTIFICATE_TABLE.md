@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE20 tables record the development history and current boundary.
+The separate SE1--SE25 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -11,6 +11,42 @@ The separate SE1--SE20 tables record the development history and current boundar
 | M3 accepted block | `3.08520376681449e-13 < M3 < 2.993597611951253e-12` | accepted odd block positive |
 | T03 endpoint | six-block Gram decomposition with vanishing total error | invariant source-Gram identity and `K0 >= 0` |
 | T19-T20 appendix | `beta_partial^cut <= 0.9998319617060448 < 1` and source injectivity | independent strict odd certificate |
+
+## SE25 source-attached sectoral recovery
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Positive independent weights | Exact Gamma Bernstein coefficients and prime decomposition | Weighted source identities valid everywhere |
+| Complementary event reading | SE25.4; exact response and energy across sixteen sheets | One source-attached coordinate; all mixed terms retained |
+| Complete pole recovery | SE25.5--SE25.7; paid recovery budget below 199/200 | Lower comparison controls the full pole |
+| Whole-source enclosure | 18713 cells, 23150 prime powers, complete analytic tails and exterior | Entire corrected complex odd native carrier covered |
+| Global source and count | SE25.1 and SE25.6; floor 1/369000 | Zero negative count and nullity for eta>=27/50; implied nonnegative shift 199259/369000 |
+| Diagonal-only control | Whole-cell lower burden above 1.34484729 | Same-parameter diagonal recovery fails; no negative actual-source claim |
+| Verification | Sixteen replay conditions, eleven separate controls | Rational/interval evidence; inherited engine gate still fails its old pin |
+
+See the [proof](development/SE25_SECTORAL_GAMMA_RECOVERY.md),
+[result](../../proof_lab/ENDPOINT_SECTORAL_RECOVERY_RESULT.json),
+[replay](../../proof_lab/endpoint_sectoral_recovery_certificate.py),
+[scope](development/SE25_SCOPE.md) and [pins](development/SE25_SOURCE_PINS.json).
+Eta zero, eta=1/2, K0 and RH remain open.
+
+## SE24 three independent weights and an exact pole row
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Three kernel weights | SE24.2--SE24.6; exact weighted squares for Gamma, prime, pole | Same complete source; each omitted piece a retained square |
+| Pole row and budget | SE24.5; <v,q_F>=31/210, 4 int v^2/tau=1 | Exterior comparison value is eta; constant-pole floor removed |
+| Four-exponent prime row | SE24.4 and cell bounds; masses through 11/2 | Signed combination certified by linearity before division |
+| Row domination | Section 3 lemma | Exterior reduced to SE16.19 at M=2^18 |
+| All-position enclosure | 1214 cells on [1/512,1], depth<=12; exterior lower 0.0812929 | Q>=1/1000 on the whole carrier at eta=14/25 |
+| Global source and count | SE24.8; native floor 1/7380 | Global kappa_eta=0 and nullity zero for eta>=0.56; implied shift 20659/36900 |
+| Cut-point control | SE24.9; exact point enclosure | SE17's weights fail at x=0 at this eta; no negative source claim |
+
+See the [theorems](development/SE24_THREE_INDEPENDENT_WEIGHTS_AND_POLE_ROW.md),
+[replay](../../proof_lab/endpoint_three_weight_certificate.py),
+[result](../../proof_lab/ENDPOINT_THREE_WEIGHT_RESULT.json) and
+[audit](development/SE24_SCOPE.md). Local radius 21/25 and the
+eta-zero/K0/RH boundary remain unchanged.
 
 ## SE1 development evidence (not yet in main.tex)
 
@@ -433,21 +469,3 @@ See the [theorem](development/SE20_ZERO_SHIFT_PRIME_GAMMA_CANCELLATION.md),
 No new numerical source certificate is added. The SE17 executed anchor
 and SE14 local radius remain unchanged; unshifted positivity, K0 and RH
 stay open.
-
-## SE24 three independent weights and an exact pole row
-
-| Node | Evidence | Allowed conclusion |
-| --- | --- | --- |
-| Three kernel weights | SE24.2--SE24.6; exact weighted squares for Gamma, prime, pole | Same complete source; each omitted piece a retained square |
-| Pole row and budget | SE24.5; <v,q_F>=31/210, 4 int v^2/tau=1 | Exterior comparison value is eta; constant-pole floor removed |
-| Four-exponent prime row | SE24.4 and cell bounds; masses through 11/2 | Signed combination certified by linearity before division |
-| Row domination | Section 3 lemma | Exterior reduced to SE16.19 at M=2^18 |
-| All-position enclosure | 1214 cells on [1/512,1], depth<=12; exterior lower 0.0812929 | Q>=1/1000 on the whole carrier at eta=14/25 |
-| Global source and count | SE24.8; native floor 1/7380 | Global kappa_eta=0 and nullity zero for eta>=0.56; implied shift 20659/36900 |
-| Cut-point control | SE24.9; exact point enclosure | SE17's weights fail at x=0 at this eta; no negative source claim |
-
-See the [theorems](development/SE24_THREE_INDEPENDENT_WEIGHTS_AND_POLE_ROW.md),
-[replay](../../proof_lab/endpoint_three_weight_certificate.py),
-[result](../../proof_lab/ENDPOINT_THREE_WEIGHT_RESULT.json) and
-[audit](development/SE24_SCOPE.md). Local radius 21/25 and the
-eta-zero/K0/RH boundary remain unchanged.

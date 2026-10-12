@@ -1,0 +1,70 @@
+{
+  "protocol": "RKF_SP_VT_SECTORAL_SIGNAL_SS1",
+  "status": "PASS_EXACT_FINITE_CONTROLS",
+  "check_count": 24,
+  "checks": [
+    "native_cut_iota_and_dagger_preserved",
+    "source_observer_blind_direction_is_real",
+    "singular_chart_family_has_constant_full_observer",
+    "uniform_stability_bound_at_and_across_zero",
+    "hidden_complex_signal_recovered_with_phase",
+    "native_minimum_future_observer_agrees_with_two_channel_rank",
+    "zero_coupling_does_not_repair_blindness",
+    "duplicate_readout_does_not_add_information",
+    "discarding_phase_confuses_distinct_signals",
+    "minimum_decoder_and_exact_noise_transfer",
+    "exact_recovery_is_not_unit_contractivity",
+    "full_graph_decomposition_including_rectangular_singular_and_complex",
+    "compatible_packet_has_zero_transverse_residue",
+    "coherent_sensor_error_can_close_the_cycle",
+    "model_generated_output_is_not_independent_validation",
+    "calibration_and_sensor_residue_keep_the_mixed_term",
+    "output_VT_permutation_is_calibrated_not_new_rank",
+    "nonorthogonal_coordinate_metric_must_be_transported",
+    "Legendre_inverse_sign_in_an_invertible_tangent_model",
+    "noncommuting_block_cross_recovery_retains_order",
+    "redundant_third_reading_has_a_testable_residue",
+    "source_residual_split_is_exact",
+    "nonorthogonal_sector_split_cannot_drop_cross_terms",
+    "duplicating_residual_energy_changes_the_source"
+  ],
+  "negative_control_count": 8,
+  "negative_controls": [
+    "zero_coupling_does_not_repair_blindness",
+    "duplicate_readout_does_not_add_information",
+    "discarding_phase_confuses_distinct_signals",
+    "exact_recovery_is_not_unit_contractivity",
+    "coherent_sensor_error_can_close_the_cycle",
+    "model_generated_output_is_not_independent_validation",
+    "nonorthogonal_sector_split_cannot_drop_cross_terms",
+    "duplicating_residual_energy_changes_the_source"
+  ],
+  "details": {
+    "singular_chart": {
+      "response_determinant": "epsilon",
+      "observer_determinant": "1",
+      "recovery": "p=t-s",
+      "uniform_gram_floor": "1/3",
+      "target_decoder_norm_squared": "2"
+    },
+    "graph_models_checked": 5
+  },
+  "source_sha256": {
+    "THEOREM.md": "e5da3dfb54510a0cc647466aef9af4d7d2ed5adad8370f3252bffbdb7166c02a",
+    "README.md": "2d2d8edc5e7f1a43ad98afb99f9056fb37014ab37dc01d2b5bb936f44ccfdb51",
+    "verify.cjs": "b2285dc4bca0c3d1fca67f74fcc6e86a57163a33cb919f573f6dd5fc97615b13",
+    "../../operator_foundation/core/native_operator.cjs": "304963cccf4320d76dd36147e5c15ad579e9d0496c86fb1f942543bc692e06a3",
+    "../../operator_foundation/theory/01_NATIVE_ALGEBRA.md": "ea07ab9f0f8a47e63f8ee973638669f596308cec4ed234ced7497a5f7539ecf5",
+    "../../theorum/stratified_recognition/04_physical_observer_minimum_sensor_repair.md": "9d5fd8419fad6ff7112397ed6cee81d0fc52f96ec8d2cefb89bf27b1c9efd375",
+    "../../theorum/thermodynamics/10_thermodynamic_cut_square_response_decomposition.md": "c8aff934b5709feb8cf1976d3728820e23a10fb5d5f8e0e14739055551d98516",
+    "../../theorum/thermodynamics/09_scope_exclusions.md": "109a8538f6bdb90488a1013f08acd73ffdb5d2ddb419f49460050f348cb3dd98"
+  },
+  "scope": {
+    "written_general_proofs": "THEOREM.md",
+    "full_engine_pass": false,
+    "external_review": false,
+    "formal_proof": false,
+    "physical_sensor_experiment": false,
+    "new_eta_certificate": false
+  }
+}

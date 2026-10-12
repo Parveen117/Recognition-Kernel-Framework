@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE24.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and endpoint developments SE1--SE25.
 
 ## Active operator-engine route
 
@@ -22,6 +22,22 @@ The [weighted-completion chapter](operator_foundation/theory/WEIGHTED_OPERATOR_C
 - WC7: constructive nonlinear operator fixed points with uniqueness restricted to a certified ball.
 
 The [new finite certificate](operator_foundation/audit/WEIGHTED_COMPLETION_CERTIFICATE.json) controls 59 named implementation checks, not the universal validity of the written proofs. The [mathematical programme](operator_foundation/MATHEMATICAL_PROGRAMME.md) separates new integration targets from previously developed framework lineages. The [development record](operator_foundation/audit/DEVELOPMENT_V0_5.md) records actual runs and limitations.
+
+## Research SS1: SP–VT complementary measurement and sectoral signals
+
+The [signal packet](research/sectoral_signal/README.md) and
+[written theorem](research/sectoral_signal/THEOREM.md) apply the native
+observer contract to separately acquired input and response readings.
+The kernel intersection gives the exact recovered directions. A two-channel
+example stays uniformly recoverable through a singular full response chart.
+The full measured packet splits orthogonally into response-compatible signal
+and incompatibility residue; coherent sensor error can still have zero residue.
+
+The [exact controls](research/sectoral_signal/verify.cjs) and
+[finite evidence](research/sectoral_signal/RESULT.json) reuse the canonical
+engine unchanged. Source-preserving residual extraction is proved, but no
+new RH eta bound, physical sensor experiment or Yang–Mills gap is claimed.
+See [validation](research/sectoral_signal/VALIDATION.md) for actual gate status.
 
 ## Research R1: native graded-aperture resummation and cut selection
 
@@ -430,6 +446,28 @@ and [audit](papers/rkf_completed_weil_endpoint/development/SE16_SCOPE.md).
 The positive aperture remains 21/25. Eta=1/2, cofinal eta-zero
 positivity, global critical contractivity, the historical five-label
 endpoint, K0 and RH remain open. No formal or external review is claimed.
+
+## Endpoint development SE25: source-attached sectoral recovery at global eta 0.54
+
+The [SE25 proof](papers/rkf_completed_weil_endpoint/development/SE25_SECTORAL_GAMMA_RECOVERY.md)
+applies complementary observation to the actual corrected odd source.
+New positive Gamma and prime weights and one coordinate of sixteen
+Gamma event sheets certify S_b+(27/50)I_X >= (1/369000)I_X globally.
+The implied nonnegative shift is 199259/369000. All mixed terms and
+the paid observation cost remain in the certificate.
+
+The [result](proof_lab/ENDPOINT_SECTORAL_RECOVERY_RESULT.json) includes
+23150 prime powers, 18713 whole integral cells and the infinite exterior.
+The recovered burden is below 0.995; the diagonal-only burden at the
+same parameters exceeds 1.34484729. Sixteen replay conditions and
+eleven separate controls pass. See the
+[replay](proof_lab/endpoint_sectoral_recovery_certificate.py),
+[controls](proof_lab/test_endpoint_sectoral_recovery_certificate.py),
+[scope](papers/rkf_completed_weil_endpoint/development/SE25_SCOPE.md),
+[sources](papers/rkf_completed_weil_endpoint/development/SE25_SOURCE_RECORD.md)
+and [pins](papers/rkf_completed_weil_endpoint/development/SE25_SOURCE_PINS.json).
+Eta zero and RH remain open; the finite SS1 example is not promoted
+to the infinite RH carrier. The inherited engine pin mismatch persists.
 
 ## Endpoint development SE24: three independent weights and an exact pole row
 

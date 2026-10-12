@@ -1,5 +1,33 @@
 # Claim Boundary for the Current Paper
 
+## SE25 actual-source sectoral recovery, 12 October 2026
+
+[SE25](development/SE25_SECTORAL_GAMMA_RECOVERY.md) proves
+S_b+(27/50)I_X >= (1/369000)I_X on the entire corrected complex odd
+native source. The sufficient nonnegative shift is 199259/369000.
+Strict positivity, zero negative count and zero nullity are asserted
+for eta>=27/50; only nonnegativity is asserted at the smaller shift.
+
+The complementary reading is attached to the actual sixteen-sheet
+Gamma residual. Its full cost, all polynomial interference, the exact
+pole and every unobserved positive source remainder are retained.
+The certified budget is below 199/200, while the diagonal-only budget
+exceeds 1.34484729 at the same parameters. This failure control concerns
+a lower comparison, not a negative direction of the original source.
+
+Evidence comprises 18713 whole cells, a complete infinite exterior,
+23150 prime-power events plus full analytic tails, sixteen replay
+conditions and eleven separate controls. Exact Fraction/outward Decimal
+arithmetic authorizes acceptance; floating exploration does not.
+
+Global eta zero, eta=1/2, K0, historical five-label attachment and RH
+remain open. No infinite convergent sequence, optimal spectral edge,
+formal verification or external review is claimed. SS1's finite example
+supplies no infinite-dimensional RH conclusion. The existing engine pin
+mismatch is reproduced without changing its pins; SE25's source replay
+is separate. Earlier sections below are historical stage records,
+superseded only by the explicit new global bound.
+
 ## SE24 three independent weights and an exact pole row (12 October 2026)
 
 ```text

@@ -8,7 +8,32 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE24, 12 October 2026
+## Current endpoint development: SE25, 12 October 2026
+
+[Source-attached sectoral recovery](development/SE25_SECTORAL_GAMMA_RECOVERY.md)
+proves S_b+(27/50)I_X >= (1/369000)I_X on the entire corrected complex
+odd native source, improving the global anchor from 0.56 to 0.54.
+The sufficient nonnegative shift is 199259/369000. Negative count
+and nullity vanish for every eta>=27/50.
+
+New positive Gamma and prime weights combine with one exact coordinate
+of the actual sixteen-sheet Gamma residual. The complete pole-recovery
+burden, including observation cost and every mixed term, is below 0.995.
+The diagonal-only burden at these parameters is above 1.34484729.
+The certificate covers 18713 whole cells, every prime power through
+2^18, complete prime/Gamma tails and the infinite spatial exterior.
+
+See the [result](../../proof_lab/ENDPOINT_SECTORAL_RECOVERY_RESULT.json),
+[replay](../../proof_lab/endpoint_sectoral_recovery_certificate.py),
+[eleven controls](../../proof_lab/test_endpoint_sectoral_recovery_certificate.py),
+[scope](development/SE25_SCOPE.md),
+[sources](development/SE25_SOURCE_RECORD.md) and
+[pins](development/SE25_SOURCE_PINS.json).
+The sixteen replay conditions pass. Global eta zero, eta=1/2 and RH
+remain open; no all-order convergence is inferred from this descent.
+The unchanged required engine gate still has its inherited pin mismatch.
+
+## Preceding endpoint development: SE24, 12 October 2026
 
 [Three independent weights and an exact pole row](development/SE24_THREE_INDEPENDENT_WEIGHTS_AND_POLE_ROW.md)
 proves S_b+(14/25)I_X >= (1/7380)I_X on the entire corrected complex
