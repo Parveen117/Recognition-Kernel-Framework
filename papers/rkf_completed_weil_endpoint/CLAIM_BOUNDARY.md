@@ -1,5 +1,27 @@
 # Claim Boundary for the Current Paper
 
+## SE9 prime-event boundary, 12 October 2026
+
+[SE9](development/SE9_PRIME_EVENT_AND_NATIVE_CONTINUITY.md) certifies
+the actual prime-3 crossing at scale 9/8. The whole complex odd aperture
+of radius 9/16 has source floor 1/500000, native floor 1/9906251 and
+squared joint reserve 2/108968761. Inclusion supplies coherent exact
+local observers for the entire passage, including c=log 3.
+
+The fixed catalogue is an exact full-source identity, not an assumption
+that inactive low-frequency cosine terms vanish. A new prime's L2
+operator norm need not be small at activation. Its native norm is
+continuous with an explicit graph-frequency bound. The smooth comparison
+is certified only at its final scale; the whole source is covered by
+subspace inclusion rather than interpolated matrix signs.
+
+The 52-mode comparison retains every mixed term and the complete
+infinite complement. It is not the historical five-label Feshbach
+matrix. Prime power 4, every subsequent event, cofinal covering, the
+global eta=0 sign, K0 and RH remain open. The six arithmetic controls
+are computational evidence; no proof-assistant result or external
+review is claimed. See the [audit](development/SE9_SCOPE.md).
+
 ## SE8 actual observer-transport boundary, 12 October 2026
 
 [SE8](development/SE8_MOVING_OBSERVER_AND_SIGNED_TRANSPORT.md) proves

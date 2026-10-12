@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE6 tables record the development history and current boundary.
+The separate SE1--SE9 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -136,6 +136,24 @@ See the [proof](development/SE8_MOVING_OBSERVER_AND_SIGNED_TRANSPORT.md),
 [result](../../proof_lab/ENDPOINT_OBSERVER_TRANSPORT_RESULT.json),
 [source record](development/SE8_SOURCE_RECORD.md) and
 [audit](development/SE8_SCOPE.md). All-scale and global closure remain open.
+
+## SE9 prime-event crossing and native continuity
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Fixed prime catalogue | SE9.3--SE9.4; exact support identity | Same source equation before and after prime 3 activates |
+| Small-overlap obstruction | SE9.5--SE9.6; partial-reflection eigenstates | Newly active prime has constant nonzero L2 operator norm on arbitrarily small overlaps |
+| Native event modulus | SE9.7--SE9.10; exact multiplier and graph-tail estimates | Complete pulled-back source is native norm-continuous; sign preservation is not automatic |
+| Prime-3 certificate | SE9.11--SE9.21; 52 enclosed pivots, quadrature and complete tail/coupling bounds | Source floor 1/500000 on all odd states of radius 9/16 |
+| Coherent observer passage | SE9.22--SE9.24 and native inclusion | Every smaller aperture: native floor 1/9906251 and squared reserve 2/108968761 |
+
+See the [proof](development/SE9_PRIME_EVENT_AND_NATIVE_CONTINUITY.md),
+[matrix](../../proof_lab/ENDPOINT_PRIME_EVENT_MATRIX.json),
+[result](../../proof_lab/ENDPOINT_PRIME_EVENT_RESULT.json),
+[sources](development/SE9_SOURCE_RECORD.md) and
+[audit](development/SE9_SCOPE.md). The prime-power-4 event and global/cofinal
+sign rule remain open. Earlier development tables preserve their
+historical scope and constants.
 
 ## Permanent records
 

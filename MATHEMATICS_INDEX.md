@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 11 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE6.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE9.
 
 ## Active operator-engine route
 
@@ -194,6 +194,31 @@ See the [replay](proof_lab/endpoint_observer_transport_certificate.py),
 [pins](papers/rkf_completed_weil_endpoint/development/SE8_SOURCE_PINS.json)
 and [audit](papers/rkf_completed_weil_endpoint/development/SE8_SCOPE.md).
 The next prime event, all-scale covering and global eta=0 sign remain open.
+
+## Endpoint development SE9: prime-3 crossing and native continuity
+
+[SE9](papers/rkf_completed_weil_endpoint/development/SE9_PRIME_EVENT_AND_NATIVE_CONTINUITY.md)
+keeps a fixed prime catalogue through activation, proves an explicit
+native operator-continuity bound and certifies scale 9/8 beyond prime 3.
+Every complex odd state of physical radius 9/16 has source floor
+1/500000, native floor 1/9906251 and squared joint reserve 2/108968761.
+The whole passage through c=log 3 is covered by native inclusion.
+
+A newly active prime has nonvanishing L2 operator norm even on an
+arbitrarily small overlap. The native graph metric supplies the
+continuity missing from that L2 argument. The executed 52-mode lower
+comparison includes every mixed entry, analytic quadrature error and
+the complete infinite tail. No sign for every intermediate comparison
+or every subsequent prime event is inferred.
+
+See the [replay](proof_lab/endpoint_prime_event_certificate.py),
+[matrix](proof_lab/ENDPOINT_PRIME_EVENT_MATRIX.json),
+[result](proof_lab/ENDPOINT_PRIME_EVENT_RESULT.json),
+[sources](papers/rkf_completed_weil_endpoint/development/SE9_SOURCE_RECORD.md),
+[pins](papers/rkf_completed_weil_endpoint/development/SE9_SOURCE_PINS.json)
+and [audit](papers/rkf_completed_weil_endpoint/development/SE9_SCOPE.md).
+This closes the prime-3 event left open in SE8. Prime power 4, a cofinal
+all-scale rule and the global eta=0 sign remain open.
 
 ## Full framework register, preserved
 

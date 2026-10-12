@@ -8,7 +8,26 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE8, 12 October 2026
+## Current endpoint development: SE9, 12 October 2026
+
+[Prime-event crossing and native continuity](development/SE9_PRIME_EVENT_AND_NATIVE_CONTINUITY.md)
+certifies scale 9/8, crossing the activation of prime 3. The whole odd
+physical aperture of radius 9/16 has source floor 1/500000, native floor
+1/9906251 and squared observer reserve 2/108968761, with all mixed and
+infinite-tail terms included. Every intermediate aperture is covered.
+
+A fixed prime catalogue keeps the source equation intact through the
+event. An explicit native continuity bound handles concentrated states
+for which shrinking L2 overlap alone gives no small operator bound.
+The next prime-power event and the cofinal/global sign remain open.
+
+See the [replay result](../../proof_lab/ENDPOINT_PRIME_EVENT_RESULT.json),
+[source record](development/SE9_SOURCE_RECORD.md),
+[audit](development/SE9_SCOPE.md) and [claim boundary](CLAIM_BOUNDARY.md).
+
+## Preceding endpoint development: SE8, 12 October 2026
+
+SE9 now crosses the prime-3 event left open in this historical record.
 
 [Moving observer and a certified signed transport](development/SE8_MOVING_OBSERVER_AND_SIGNED_TRANSPORT.md)
 writes the actual dilation of the corrected prime--Gamma--pole source
