@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE19.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE20.
 
 ## Active operator-engine route
 
@@ -430,6 +430,29 @@ and [audit](papers/rkf_completed_weil_endpoint/development/SE16_SCOPE.md).
 The positive aperture remains 21/25. Eta=1/2, cofinal eta-zero
 positivity, global critical contractivity, the historical five-label
 endpoint, K0 and RH remain open. No formal or external review is claimed.
+
+## Endpoint development SE20: complete cancellation at zero shift
+
+[SE20](papers/rkf_completed_weil_endpoint/development/SE20_ZERO_SHIFT_PRIME_GAMMA_CANCELLATION.md)
+proves that the SE19 diagonal seed, with fixed SE17 Gamma row, cannot
+remain nonnegative for eta<=1/14 for admissible continuous even prime
+weights. Every fixed uncompensated prime cutoff also has a negative
+escaping packet. Neither theorem gives a negative actual-source vector.
+
+The new exact identity cancels an explicit continuous prime reference
+and the pole against the retained Gamma kernels. It writes the complete
+unshifted source as A_16-P_(mu_16), with A_16 >= (8/5)R-dagger R and
+all remaining Gamma energy retained. Its coupled reference-depth law
+keeps the source fixed. An exact moving-return condition identifies
+the arithmetic deficit required on escaping packets.
+
+The universal signed fluctuation bound P_(mu_16)<=A_16 is unresolved;
+the physical reference floor is not a native identity floor. Eta zero
+has not been proved. The existing 59/100 anchor, 1/7380 native reserve,
+10883/18450 implied shift and radius 21/25 remain unchanged. The
+critical source sign, historical five-label attachment, K0 and RH stay
+open. See the [scope](papers/rkf_completed_weil_endpoint/development/SE20_SCOPE.md)
+and [route/source record](papers/rkf_completed_weil_endpoint/development/SE20_SOURCE_RECORD.md).
 
 ## Endpoint development SE19: retained-residual pole recovery
 

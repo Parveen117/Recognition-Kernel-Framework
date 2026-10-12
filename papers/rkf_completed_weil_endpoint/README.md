@@ -8,7 +8,32 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE19, 12 October 2026
+## Current endpoint development: SE20, 12 October 2026
+
+[Exact prime--Gamma cancellation at zero shift](development/SE20_ZERO_SHIFT_PRIME_GAMMA_CANCELLATION.md)
+selects a direct unshifted-source route. The old diagonal seed has a
+proved nonzero floor for the fixed SE17 Gamma reading, even when the
+prime weight changes. Every fixed prime cutoff with its full pole also
+has a negative escaping packet. These are comparison/truncation
+obstructions, not negative witnesses for the complete source.
+
+SE20 replaces those shortcuts by an exact continuous-reference
+cancellation: the full pole and reference prime returns match the odd
+Gamma kernels. The source becomes A_16-P_(mu_16), with the full Gamma
+tail retained and A_16 >= (8/5)||mf||_2^2. This is a physical-energy
+floor, not a positive native spectral shift or an asserted native gap.
+The signed arithmetic remainder still contains every prime power.
+
+The remaining universal inequality P_(mu_16)<=A_16 is not proved.
+Thus eta=0 positivity is not achieved by the identity. The executed
+SE17 anchor 59/100, native floor 1/7380, implied shift 10883/18450
+and local radius 21/25 are unchanged. Eta=1/2, the unshifted global
+sign, critical recovery, historical five-label attachment, K0 and RH
+remain open. See the [scope](development/SE20_SCOPE.md),
+[route/source record](development/SE20_SOURCE_RECORD.md) and
+[claim boundary](CLAIM_BOUNDARY.md).
+
+## Preceding endpoint development: SE19, 12 October 2026
 
 [Retained-residual pole recovery](development/SE19_RETAINED_RESIDUAL_POLE_RECOVERY.md)
 uses the actual Gamma and prime square residuals to recover the exact

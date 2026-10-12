@@ -1,5 +1,34 @@
 # Claim Boundary for the Current Paper
 
+## SE20 zero-shift cancellation boundary, 12 October 2026
+
+[SE20](development/SE20_ZERO_SHIFT_PRIME_GAMMA_CANCELLATION.md) proves
+an exact unshifted-source identity, not unshifted-source positivity.
+The complete prime measure is split into an explicit finite continuous
+reference and a signed arithmetic remainder. The reference and full
+pole cancel into odd Gamma kernels. Hence s=A_16-P_(mu_16), with
+A_16 >= (8/5)||mf||_2^2 and all remaining Gamma modes retained.
+
+The required inequality P_(mu_16)[h]<=A_16[f] for every odd f is open.
+The reference floor is in the physical Rf metric; it is not a native
+uniform floor and licenses no bounded inverse on X. Changing reference
+depth moves both sides by the same positive kernel and cannot improve
+the actual source sign by itself.
+
+The fixed-Gamma diagonal route's obstruction at eta<=1/14 and the
+negative escape of every fixed prime cutoff are proved limitations of
+those comparisons. They do not disprove the complete source sign.
+The selected endpoint route retains the full signed prime return.
+Its moving-packet arithmetic test is necessary, not sufficient by itself.
+
+The user's eta-zero target remains unfinished. No smaller numerical
+anchor is claimed: the executed eta=59/100 native floor 1/7380,
+implied shift 10883/18450 and local radius 21/25 are unchanged.
+Eta=1/2, critical global positivity/recovery, historical five-label
+attachment, K0 and RH remain open. See the
+[scope](development/SE20_SCOPE.md) and
+[source record](development/SE20_SOURCE_RECORD.md).
+
 ## SE19 retained-residual recovery boundary, 12 October 2026
 
 [SE19](development/SE19_RETAINED_RESIDUAL_POLE_RECOVERY.md) proves a

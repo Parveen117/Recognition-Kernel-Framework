@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE19 tables record the development history and current boundary.
+The separate SE1--SE20 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -358,3 +358,22 @@ See the [theorems](development/SE19_RETAINED_RESIDUAL_POLE_RECOVERY.md),
 Numerical certification remains deferred. The executed 59/100 anchor,
 1/7380 native reserve, 10883/18450 implied shift and local radius 21/25
 remain unchanged. Eta=1/2, cofinal eta-zero signs, K0 and RH stay open.
+
+## SE20 direct zero-shift cancellation (written stage)
+
+| Node | Written evidence | Allowed conclusion |
+| --- | --- | --- |
+| Diagonal-route obstruction | SE20.3--SE20.4; n=2 translate charging | With the fixed SE17 Gamma row, no nonnegative seed at eta<=1/14 for the declared weights |
+| Complete event measure | SE20.5--SE20.6 | Full same-side and reflected prime pairings; no omitted atoms |
+| Pole/reference cancellation | SE20.8--SE20.10 | Exact Gamma kernel and positive Volterra square; no density asymptotic assumed |
+| Gamma-matched zero-shift reference | SE20.11--SE20.14 | Exact s=A_16-P_(mu_16), with physical A_16 >= (8/5)R-dagger R |
+| Reference-depth transport | SE20.15--SE20.16 | Both sides gain the same kernel; source unchanged |
+| Endpoint criterion | SE20.17 | Universal signed inequality remains unproved; no eta-zero certificate |
+| Finite-cutoff negative escape | Theorem 6, SE20.18 | No fixed uncompensated prime head proves global zero positivity |
+| Moving return deficit | SE20.19--SE20.22 | Necessary packet condition and a conditional error-scale estimate; not a bound on actual psi |
+
+See the [theorem](development/SE20_ZERO_SHIFT_PRIME_GAMMA_CANCELLATION.md),
+[scope](development/SE20_SCOPE.md) and [route/source record](development/SE20_SOURCE_RECORD.md).
+No new numerical source certificate is added. The SE17 executed anchor
+and SE14 local radius remain unchanged; unshifted positivity, K0 and RH
+stay open.
