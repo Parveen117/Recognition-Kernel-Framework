@@ -1,5 +1,26 @@
 # Claim Boundary for the Current Paper
 
+## SE45 variable jya, refined curvature and tracking, 13 October 2026
+
+[SE45](../../research/lambda_counting/SE45_VARIABLE_JYA_CURVATURE_AND_TRACKING.md)
+proves the variable-turn jya law, its exact two-reading rank condition,
+paired-path return covariance and an inhomogeneous counting flux formula.
+The finite-refinement theorem recovers the full scalar integrated flux
+when a genuine per-cell bound excludes half/full-turn ambiguity. It does
+not recover arbitrary pointwise curvature or unrecorded singular seams
+from finitely many terminal readings.
+
+Source retention holds for changing invertible noncommuting responses.
+The convergence and residual-floor theorem applies to the specified
+scalar sine tracker with its branch, source prediction and reading-error
+bounds. Future source changes and sensor errors are not learned merely
+from closure. Six theorem groups and 36 exact controls, including 13
+negative controls, have the scopes in
+[SE45 scope](../../research/lambda_counting/SE45_SCOPE.md).
+The inherited full-engine mismatch, actual RH source, global eta
+1079/2000 with floor 1/492000, V_16 certificate and open universal source
+sign remain unchanged.
+
 ## SE44 native lines, theta and jya, 13 October 2026
 
 [SE44](../../research/lambda_counting/SE44_TVSP_LINES_ANGLE_AND_NATIVE_JYA.md)

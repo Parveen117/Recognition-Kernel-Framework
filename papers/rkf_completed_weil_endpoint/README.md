@@ -8,7 +8,25 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current counting development: SE44, 13 October 2026
+## Current counting development: SE45, 13 October 2026
+
+[Variable jya, resolved curvature and a moving source](../../research/lambda_counting/SE45_VARIABLE_JYA_CURVATURE_AND_TRACKING.md)
+extends the fixed-turn construction to changing turns and identifies
+the exact two-reading blind case. Paired-path readings retain a return
+invariant under changing endpoint frames. A specified inhomogeneous
+counting connection gives an exact flux, whose full scalar lift can be
+recovered from finitely many cells under proved per-cell bounds.
+
+The calibration identity retains a changing noncommuting source; the
+scalar sine tracker has quantitative drift/error bounds and a sharp
+persistent-disturbance floor. Six written theorem groups and 36 exact
+controls, including 13 negative controls, have the separate scopes in
+[scope](../../research/lambda_counting/SE45_SCOPE.md),
+[sources](../../research/lambda_counting/SE45_SOURCE_RECORD.md) and
+[readings](../../proof_lab/TVSP_VARIABLE_JYA_RESULT.json).
+The actual RH source, eta and previous certificates remain unchanged.
+
+## Native lines and jya: SE44, 13 October 2026
 
 [TVSP counting lines, angle and native jya](../../research/lambda_counting/SE44_TVSP_LINES_ANGLE_AND_NATIVE_JYA.md)
 supplies lawful lines and their formal response lifts, then derives the

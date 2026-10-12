@@ -8,6 +8,22 @@ The shared operator engine stays in
 [operator_foundation](../../operator_foundation/README.md).
 
 The current development is
+**[SE45: variable jya, resolved curvature and a moving source](SE45_VARIABLE_JYA_CURVATURE_AND_TRACKING.md)**.
+Changing turns have an exact jya law with a proved two-reading blind
+case and complementary repair. Complete paired paths separate the closed
+return from freely changing endpoint frames. In a declared inhomogeneous
+counting connection, finite bounded cell readings recover the full scalar
+curvature flux, including turns lost at the coarse endpoint. Source
+retention extends to noncommuting source changes; scalar sine tracking
+has a proved disturbance bound and residual floor. Six theorem groups
+and 36 exact controls, including 13 negative controls, are recorded in
+[scope](SE45_SCOPE.md), [sources](SE45_SOURCE_RECORD.md),
+[pins](SE45_SOURCE_PINS.json) and
+[readings](../../proof_lab/TVSP_VARIABLE_JYA_RESULT.json).
+The source, calibration, curvature and prediction-error targets remain
+distinct; no physical connection or improved RH bound is inferred.
+
+The preceding stage is
 **[SE44: TVSP counting lines, angle and native jya](SE44_TVSP_LINES_ANGLE_AND_NATIVE_JYA.md)**.
 Lawful counting lines carry formal response transports. Native theta
 and its least period are constructed from the rational quarter-turn,
@@ -99,6 +115,7 @@ This changes calibration, not physical curvature or the RH source sign.
 | [SE42](SE42_COUNTING_CURVATURE_AND_OBSERVER_MEMORY.md) | Curvature from counting paths, frame/direction covariance, Bianchi identity, moving-cut complement returns and sharp unit-memory depth; scoped observer readings |
 | [SE43](SE43_COUNTING_TO_EMK_SEAM_TRANSPORT.md) | Counting/EMK movement adapter, compatible matrix seams, frame-independent descent, retained integer order memory and observer depth; scoped observer readings |
 | [SE44](SE44_TVSP_LINES_ANGLE_AND_NATIVE_JYA.md) | Counting lines and response lifts, native angle/period, exact jya and moving-observer operator recurrence, actual curvature attachment and source-preserving sine correction; scoped observer readings |
+| [SE45](SE45_VARIABLE_JYA_CURVATURE_AND_TRACKING.md) | Variable-turn jya and its blind cases, paired-path invariant, inhomogeneous count flux, bounded refinement recovery and source-preserving tracking with drift; scoped observer readings |
 
 The polynomial calibration stage is **SE38**. The degree
 of each nonlinear action term relative to its unit order determines

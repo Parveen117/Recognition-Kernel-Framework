@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 13 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE44 (SE34--SE38 and SE41--SE44 carry scoped observer readings; SE44 defines counting lines, normalizes native angle and derives the retained jya law; the universal RH source sign remains open).
+Index update: 13 October 2026, operator mathematics version 0.5 with additive research results R1, R2, SS1 and developments SE1--SE45 (SE34--SE38 and SE41--SE45 carry scoped observer readings; SE45 develops variable jya, refined curvature recovery and moving-source tracking; the universal RH source sign remains open).
 
 ## Active operator-engine route
 
@@ -10,6 +10,30 @@ Index update: 13 October 2026, operator mathematics version 0.5 with additive re
 Read the [native primitive order](operator_foundation/theory/NATIVE_PRIMITIVE_ORDER.md), [algebra and observer contracts](operator_foundation/theory/01_NATIVE_ALGEBRA.md), [completion and memory](operator_foundation/theory/02_COMPLETION_AND_MEMORY.md), [Laurent/jet repair](operator_foundation/theory/NATIVE_LAURENT_JET_REPAIR.md), [Pāṇinian symbolic compiler](operator_foundation/theory/PANINIAN_OPERATOR_COMPILER.md), [automatic normal basis and regular action](operator_foundation/theory/AUTOMATIC_REGULAR_MODEL.md), then [weighted operator completion and certified response](operator_foundation/theory/WEIGHTED_OPERATOR_COMPLETION.md).
 
 The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [source index](operator_foundation/SOURCE_INDEX.md), and [master certificate](operator_foundation/audit/MASTER_CERTIFICATE.json) bind this route. The public source archive at `operator_foundation/sources/rkf_reference` includes the corrected T50/T54 edition and full Morphic/Pāṇinian source directories. Use that corrected source where the older root version differs. This does not silently overwrite old source-pinned files.
+
+## Variable jya SE45: refined curvature readings and moving-source tracking
+
+[SE45](research/lambda_counting/SE45_VARIABLE_JYA_CURVATURE_AND_TRACKING.md)
+extends the jya law to changing turns and identifies exactly when two
+successive jya readings lose the complementary direction. Paired paths
+recover a frame-covariant return that an open chain with forgotten frames
+cannot diagnose. An inhomogeneous counting connection gives an exact
+scalar flux, and finitely many cell readings recover its full lift when
+each proved cell-angle bound is below the native half-turn.
+
+The source-preserving calibration law now retains an actual changing,
+possibly noncommuting source. In the scalar circular sector, sine tracking
+has a cubic-plus-disturbance bound, convergence for vanishing disturbance
+and a sharp persistent-drift residual floor. Six theorem groups and 36
+exact controls, including 13 negative controls, have separate scopes in
+[scope](research/lambda_counting/SE45_SCOPE.md),
+[sources](research/lambda_counting/SE45_SOURCE_RECORD.md),
+[pins](research/lambda_counting/SE45_SOURCE_PINS.json),
+[replay](proof_lab/tvsp_variable_jya.py) and
+[readings](proof_lab/TVSP_VARIABLE_JYA_RESULT.json).
+The scalar refinement theorem retains a declared common-J flux; it does
+not infer a general curvature field, unknown noise or future source from
+endpoint closure. The physical and RH boundaries remain unchanged.
 
 ## Native jya SE44: counting lines, angle and moving-observer recurrence
 
