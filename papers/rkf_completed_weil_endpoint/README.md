@@ -8,7 +8,30 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE30, 12 October 2026
+## Current endpoint development: SE31, 12 October 2026
+
+[Counting-operator recovery and ordered flow](development/SE31_COUNTING_OPERATOR_RECOVERY_AND_ORDERED_FLOW.md)
+extends SE30's counting pair. An operator of declared D-order at most r
+is recovered from the complete polynomial responses to p_0 through p_r.
+Each next response determines the next missing normal-order coefficient.
+Recovering a Lambda-dependent family also uses its declared unit-memory
+depth. The certificate is the observer reading with its target decoder;
+the archive includes the actual response coefficients and decoded example.
+
+Ordered exponentials retain their central factor. The counting flow and
+ordinary translation have an exact logarithmic bridge, and agree after
+the coefficient cut. Finite matrices retain an explicit upper-boundary
+defect; a word-height guard certifies when their action is exact.
+Curvature remains deferred. The actual RH eta is unchanged.
+
+See the [application](../../proof_lab/endpoint_counting_operator_recovery.cjs),
+[result](../../proof_lab/ENDPOINT_COUNTING_OPERATOR_RECOVERY_RESULT.json),
+[scope](development/SE31_SCOPE.md), [sources](development/SE31_SOURCE_RECORD.md)
+and [pins](development/SE31_SOURCE_PINS.json). Five written theorems,
+27 exact checks and ten negative controls document the reading.
+The inherited whole-engine gate failure is separately reported.
+
+## Preceding endpoint development: SE30, 12 October 2026
 
 [Constant-lambda counting and the cut operator](development/SE30_CONSTANT_LAMBDA_COUNTING_AND_CUT.md)
 follows the requested order: one fixed marked unit, nonempty repetition,

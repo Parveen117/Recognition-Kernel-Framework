@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE30 tables record the development history and current boundary.
+The separate SE1--SE31 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -11,6 +11,23 @@ The separate SE1--SE30 tables record the development history and current boundar
 | M3 accepted block | `3.08520376681449e-13 < M3 < 2.993597611951253e-12` | accepted odd block positive |
 | T03 endpoint | six-block Gram decomposition with vanishing total error | invariant source-Gram identity and `K0 >= 0` |
 | T19-T20 appendix | `beta_partial^cut <= 0.9998319617060448 < 1` and source injectivity | independent strict odd certificate |
+
+## SE31 counting-operator recovery and ordered flow
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Observer reading | Archived response coefficients and exact decoder | Complete supplied polynomial operator recovered in its declared class |
+| Normal order and response recovery | Theorem 1; canonical rewrite and incremental controls | Complete prefix p_0,...,p_r recovers operators of declared D-order at most r |
+| Cut and retained memory | Theorem 2; exact reconstruction and blind-layer witnesses | Enough declared unit layers recover the polynomial family |
+| Ordered Euler product | Theorem 3; bivariate coefficients and formal loop modulo t^9 | Central ordering factor is retained, including after the cut |
+| Translation bridge | Theorem 4; finite Newton/Taylor and logarithmic checks | Counting flow differs from ordinary shift before their common cut member |
+| Finite windows | Theorem 5; boundary matrix identity and 252 guarded actions | Exact word action requires adequate intermediate-state coverage |
+| Boundary | 27 exact checks, ten negative controls | Curvature deferred; no new RH bound or infinite recovery certificate |
+
+See the [proof](development/SE31_COUNTING_OPERATOR_RECOVERY_AND_ORDERED_FLOW.md),
+[application](../../proof_lab/endpoint_counting_operator_recovery.cjs),
+[result](../../proof_lab/ENDPOINT_COUNTING_OPERATOR_RECOVERY_RESULT.json),
+[scope](development/SE31_SCOPE.md) and [pins](development/SE31_SOURCE_PINS.json).
 
 ## SE30 constant-lambda counting and the cut operator
 
