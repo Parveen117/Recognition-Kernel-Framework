@@ -121,6 +121,22 @@ See the [proof](development/SE7_FULL_PRIME_ACTIVE_APERTURE.md),
 [audit](development/SE7_SCOPE.md). This supersedes the open radius-1/2
 sign in SE6, not the global endpoint boundary.
 
+## SE8 actual transport and signed comparison
+
+| Node | Evidence | Allowed conclusion |
+| --- | --- | --- |
+| Admissible native dilation | SE8.2--SE8.5; Gamma logarithmic derivative bound | Bounded invertible transport between finite apertures, with exact metric |
+| Corrected source cocycle | SE8.6--SE8.8; SE2 composition | Prime positions, Gamma and pole move in the same source equation |
+| Scale 21/20 comparison | SE8.9--SE8.16; enclosed forty-mode matrix and entire tails | Full source floor 1/100000 on radius 21/40 |
+| Scalar-loss obstruction | SE8.17; two enclosed comparison-defect diagonals | Indefinite change exceeds scalar seed floor, while full operator certificate passes |
+| Coherent observer segment | SE8.18--SE8.20; native inclusion | Every intermediate aperture: native floor 1/1806251 and squared reserve 2/19868761 |
+
+See the [proof](development/SE8_MOVING_OBSERVER_AND_SIGNED_TRANSPORT.md),
+[matrix](../../proof_lab/ENDPOINT_OBSERVER_TRANSPORT_MATRIX.json),
+[result](../../proof_lab/ENDPOINT_OBSERVER_TRANSPORT_RESULT.json),
+[source record](development/SE8_SOURCE_RECORD.md) and
+[audit](development/SE8_SCOPE.md). All-scale and global closure remain open.
+
 ## Permanent records
 
 ```text

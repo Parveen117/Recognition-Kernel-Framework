@@ -8,7 +8,24 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE7, 12 October 2026
+## Current endpoint development: SE8, 12 October 2026
+
+[Moving observer and a certified signed transport](development/SE8_MOVING_OBSERVER_AND_SIGNED_TRANSPORT.md)
+writes the actual dilation of the corrected prime--Gamma--pole source
+and its native metric. A fixed reference chart now certifies scale 21/20,
+giving source floor 1/100000, native floor 1/1806251 and squared observer
+reserve 2/19868761 on radius 21/40 and every intermediate aperture.
+
+The complete signed comparison passes even though its indefinite change
+has norm larger than the old scalar floor. This instantiates SE2's
+existing transport law; it does not rebrand it as a new general theorem.
+The next prime event and a cofinal all-scale rule remain open.
+
+See the [replay result](../../proof_lab/ENDPOINT_OBSERVER_TRANSPORT_RESULT.json),
+[source record](development/SE8_SOURCE_RECORD.md),
+[audit](development/SE8_SCOPE.md) and [claim boundary](CLAIM_BOUNDARY.md).
+
+## Preceding endpoint development: SE7, 12 October 2026
 
 [Full prime-active aperture and the fifteen-moment Schur sign](development/SE7_FULL_PRIME_ACTIVE_APERTURE.md)
 certifies the corrected source on every complex odd state of radius 1/2,

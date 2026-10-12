@@ -1,5 +1,26 @@
 # Claim Boundary for the Current Paper
 
+## SE8 actual observer-transport boundary, 12 October 2026
+
+[SE8](development/SE8_MOVING_OBSERVER_AND_SIGNED_TRANSPORT.md) proves
+the exact source dilation and native metric transport, then certifies
+scale 21/20 from the fixed radius-1/2 reference chart. The whole odd
+physical aperture of radius 21/40 has source floor 1/100000, native floor
+1/1806251 and squared joint observer reserve 2/19868761. Native inclusion
+supplies a coherent local observer on every intermediate aperture.
+
+The forty-mode lower comparison retains its full infinite tail and
+coupling. Its signed change is indefinite and exceeds the seed's scalar
+floor in norm, yet the transported comparison is positive. This change
+is not identified with the full source defect. The reference dilation
+is L2-unitary but generally not native-unitary; its pairing is transported.
+
+The general cocycle, join and cofinal principles were already in SE2
+and T28. SE8 adds actual source identities and a verified transport
+segment. It does not cross every prime event, prove a cofinal covering,
+or close the global eta=0 sign, historical five-source endpoint, K0 or RH.
+See the [audit](development/SE8_SCOPE.md).
+
 ## SE7 full prime-active aperture boundary, 12 October 2026
 
 [SE7](development/SE7_FULL_PRIME_ACTIVE_APERTURE.md) proves the source

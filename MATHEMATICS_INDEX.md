@@ -172,6 +172,29 @@ and [audit](papers/rkf_completed_weil_endpoint/development/SE7_SCOPE.md).
 The method has prior art. The larger-aperture exhaustion, global norm-one
 observer, historical five-label endpoint and RH sign remain open.
 
+## Endpoint development SE8: actual moving-observer transport
+
+[SE8](papers/rkf_completed_weil_endpoint/development/SE8_MOVING_OBSERVER_AND_SIGNED_TRANSPORT.md)
+instantiates SE2's transport law with the corrected prime--Gamma--pole
+source and its native metric. It certifies scale 21/20 in the fixed
+radius-1/2 chart: the physical radius is 21/40, the source floor 1/100000,
+the native floor 1/1806251 and the squared joint reserve 2/19868761.
+Every intermediate aperture has a coherent local observer by inclusion.
+
+The signed lower-comparison defect is indefinite and too large for a
+scalar seed-floor-minus-norm test, while the full operator certificate
+passes. All infinite-tail and coupling terms are retained. The general
+cocycle and cofinal rule are reused from SE2/T28; the source-specific
+transport and executed transition are the new development.
+
+See the [replay](proof_lab/endpoint_observer_transport_certificate.py),
+[matrix](proof_lab/ENDPOINT_OBSERVER_TRANSPORT_MATRIX.json),
+[result](proof_lab/ENDPOINT_OBSERVER_TRANSPORT_RESULT.json),
+[source record](papers/rkf_completed_weil_endpoint/development/SE8_SOURCE_RECORD.md),
+[pins](papers/rkf_completed_weil_endpoint/development/SE8_SOURCE_PINS.json)
+and [audit](papers/rkf_completed_weil_endpoint/development/SE8_SCOPE.md).
+The next prime event, all-scale covering and global eta=0 sign remain open.
+
 ## Full framework register, preserved
 
 The complete original subject map, every T01-T77 entry, parallel theorem registers, foundation index, open gates and AI reading protocol remain in [MATHEMATICS_INDEX_2026_09_16.md](MATHEMATICS_INDEX_2026_09_16.md). This file is a byte-preserved part of the canonical navigation surface, not a replacement external repository. Its relative source links still resolve from this same root.
