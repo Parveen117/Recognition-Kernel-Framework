@@ -21,9 +21,21 @@ objects with separate types. RH and curvature development are deferred.
 | [SE34 development](SE34_DEPENDENCY_FEEDBACK_AND_UNIT_MEMORY.md) | Dependency order, feedback cycles, lifting a cut inverse through unit memory and residual corrections; certification deferred |
 | [SE35](SE35_ACTIVE_READINGS_AND_SINGULAR_CUT_REPAIR.md) | Active probe readings, exact nonlinear blind fibres, descending response decoding and repair before unit lifting; observer-certified |
 | [SE36 development](SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md) | Restricted probes, available action-word closure, synthesized probe directions and finite nonlinear observation at retained unit depth; certification deferred |
+| [SE37 development](SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md) | Least future-target algebra, exact nonlinear bank reduction and closed calibration memory for unit-scaled action families; certification deferred |
 
-The current development is **SE36, a derivation draft**. Restricted
-probes can leave nonlinear, input-dependent fibres. For an affine
+The current development is **SE37, a derivation draft**. A polynomial
+target already decoded from the available bank has a finitely generated
+least algebra preserving all its future catalogue readings. Explicit
+reconstruction identities permit bank reduction with nonlinear updates.
+The moving relative observer retains its calibration coefficients;
+for a declared unit-scaled action family, the same pair of relative
+reading and unit-weighted calibration closes at every retained depth.
+The number of formal coordinates is fixed, while their retained
+coefficient memory grows with depth. Read the
+[derivations and examples](SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md).
+
+The preceding **SE36 derivation draft** treats restricted probes,
+which can leave nonlinear, input-dependent fibres. For an affine
 action catalogue, closure of the polynomial response space supplies
 a finite bank determining every future allowed reading. Operator
 words can synthesize missing probe directions. Nonlinear actions
@@ -66,7 +78,7 @@ doubles the known unit order. The completed carrier permits new count
 support at later unit layers. Numerical convergence at a chosen
 nonzero Lambda is a separate question.
 
-No SE34 or SE36 certificate, replay archive, pin manifest or verification
+No SE34, SE36 or SE37 certificate, replay archive, pin manifest or verification
 PASS has been issued; their certification is deferred. SE35 replays the
 unit-memory update on saved readings without certifying SE34's general
 theorems.

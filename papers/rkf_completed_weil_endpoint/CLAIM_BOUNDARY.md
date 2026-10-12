@@ -1,5 +1,30 @@
 # Claim Boundary for the Current Paper
 
+## SE37 development draft, 12 October 2026
+
+[SE37](../../research/lambda_counting/SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md)
+starts from an available finite bank with affine response updates and
+a supplied polynomial decoder for the target. Polynomial identities
+on its observation image characterize exact compression. The future
+target algebra has a finite construction and is least by inclusion
+among polynomial observation algebras preserving that target and the
+supplied catalogue. This does not minimize generator count, acquisition
+cost or noise sensitivity. A relation alone is insufficient to delete
+a reading, and retained nilpotent relations must not be discarded.
+
+Nonlinear compressed differences generally depend on calibration.
+An autonomous difference law on a free polynomial carrier is equivalent
+to an affine update; proper observation images require their own relation
+test. The scalar family x -> x + sum_r a_r Lambda^r x^(r+1) has an exact
+relative observer (Delta,Lambda c) at every retained depth, with no
+division by Lambda. This matching of unit and source degrees is an
+explicit hypothesis. Arbitrary nonlinear actions are not included.
+The two formal coordinates can carry increasing, ultimately infinite,
+coefficient memory; no finite-data recovery of an infinite tower or
+numerical convergence at nonzero Lambda follows. Certification, new
+pins, replay and verification runs remain deferred. Existing application
+bounds and certificates are unchanged; RH and curvature remain deferred.
+
 ## SE36 development draft, 12 October 2026
 
 [SE36](../../research/lambda_counting/SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md)

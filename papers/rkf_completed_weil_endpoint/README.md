@@ -8,7 +8,21 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current foundational development: SE36 draft, 12 October 2026
+## Current foundational development: SE37 draft, 12 October 2026
+
+[SE37](../../research/lambda_counting/SE37_TARGET_ALGEBRA_AND_CALIBRATION_MEMORY.md)
+reduces the available bank for a specified polynomially decoded target.
+It constructs the least algebra preserving every future target reading,
+then gives exact conditions for nonlinear compression on the observation
+image. Relative updates retain the necessary calibration coefficients.
+A declared unit-scaled action family closes on the relative reading and
+unit-weighted calibration at every retained depth, with growing
+coefficient memory. Four written theorem groups and worked examples are
+included. Certification and executable replay remain deferred; the
+[counting chapter](../../research/lambda_counting/INDEX.md) holds the
+derivations. RH and curvature remain deferred.
+
+## Preceding foundational development: SE36 draft, 12 October 2026
 
 [SE36](../../research/lambda_counting/SE36_RESTRICTED_PROBES_AND_ACTION_CLOSURE.md)
 develops the restricted observer. It retains nonlinear blind fibres,
