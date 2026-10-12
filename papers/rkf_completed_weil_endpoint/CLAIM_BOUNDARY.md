@@ -1,5 +1,30 @@
 # Claim Boundary for the Current Paper
 
+## SE16 signed-return and global-shift boundary, 12 October 2026
+
+[SE16](development/SE16_SIGNED_RETURN_AND_GLOBAL_SHIFT.md) proves
+S_b+(69/100)I_X >= (1/1845)I_X for the entire corrected complex odd
+source. The global negative count and nullity vanish for eta>=0.69.
+Its implied nonnegative shift is 25441/36900; this is a sufficient
+bound, not the exact source edge. The strict reserve is for the
+shifted source and does not contradict the essential zero threshold.
+
+The source-specific square identity retains the odd Gamma reflection,
+all prime translations, native graph terms and the full pole. A
+positive comparison weight changes the comparison and its residuals,
+not the source. The half-line representation is faithful because
+oddness determines the complementary reading. No arbitrary
+measurement-independence or lossless compression claim is made.
+
+The complete spatial cover and exterior tail establish an executed
+global result, without importing an uncomputed local sign. The
+erased-return comparison has a certified negative value at one point;
+this is not an actual-source negative witness. The positive local
+frontier remains 21/25. Eta=1/2, cofinal eta-zero signs, global
+critical contractivity, historical five-label closure, K0 and RH
+remain open. No formal verification, external review or universal
+optimizer is claimed. See the [audit](development/SE16_SCOPE.md).
+
 ## SE15 global positive-eta and localization boundary, 12 October 2026
 
 [SE15](development/SE15_EFFECTIVE_LOCALIZATION_AND_GLOBAL_ETA.md)

@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE15.
+Index update: 12 October 2026, operator mathematics version 0.5 with additive research results R1, R2 and endpoint developments SE1--SE16.
 
 ## Active operator-engine route
 
@@ -403,6 +403,33 @@ and [audit](papers/rkf_completed_weil_endpoint/development/SE15_SCOPE.md).
 The positive local radius remains 21/25=0.840. The cofinal eta-zero
 sign, global contractivity, historical five-label endpoint, K0 and RH
 remain open; no formal proof-assistant verification is claimed.
+
+## Endpoint development SE16: signed return and a sharper global shift
+
+[SE16](papers/rkf_completed_weil_endpoint/development/SE16_SIGNED_RETURN_AND_GLOBAL_SHIFT.md)
+certifies S_b+(69/100)I_X >= (1/1845)I_X on the complete corrected
+complex odd source. Its actual global negative count and nullity
+vanish for eta>=0.69; the implied nonnegative shift is 25441/36900.
+This improves SE15's global positive-eta threshold without requiring
+an uncomputed large-aperture sign.
+
+Exact odd folding retains the opposite-half Gamma return. Weighted
+row identities keep observation defects as positive squares, and
+all prime translations and pole terms remain in the source. The
+44-cell interval cover and full exterior bound certify every spatial
+position. Erasing the reflection invalidates the selected comparison
+at a certified point, without giving a negative actual-source value.
+The native norm conversion and faithful-transport hypotheses are explicit.
+
+See the [replay](proof_lab/endpoint_signed_return_certificate.py),
+[controls](proof_lab/test_endpoint_signed_return_certificate.py),
+[result](proof_lab/ENDPOINT_SIGNED_RETURN_RESULT.json),
+[sources](papers/rkf_completed_weil_endpoint/development/SE16_SOURCE_RECORD.md),
+[pins](papers/rkf_completed_weil_endpoint/development/SE16_SOURCE_PINS.json)
+and [audit](papers/rkf_completed_weil_endpoint/development/SE16_SCOPE.md).
+The positive aperture remains 21/25. Eta=1/2, cofinal eta-zero
+positivity, global critical contractivity, the historical five-label
+endpoint, K0 and RH remain open. No formal or external review is claimed.
 
 ## Full framework register, preserved
 

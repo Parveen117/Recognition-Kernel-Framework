@@ -1,7 +1,7 @@
 # Certificate Table
 
 The first table mirrors the historical certificate table in `main.tex`.
-The separate SE1--SE15 tables record the development history and current boundary.
+The separate SE1--SE16 tables record the development history and current boundary.
 
 | Node | Evidence | Claim used in paper |
 |---|---|---|
@@ -281,6 +281,24 @@ See the [theorems](development/SE15_EFFECTIVE_LOCALIZATION_AND_GLOBAL_ETA.md),
 [audit](development/SE15_SCOPE.md). The positive local radius remains
 21/25. The global eta-zero/RH obligation is not closed by this
 positive-eta certificate or the conditional schedules.
+
+## SE16 signed return squares and global shift
+
+| Result | Evidence | Scope |
+| --- | --- | --- |
+| Odd Gamma return | SE16.4--SE16.9; exact folding and two weighted rows | Signed opposite-half cancellation retained before row estimation |
+| Complete observation-defect squares | SE16.10--SE16.14; full prime translations and complex weighted identities | Source equals comparison plus explicit nonnegative defects and Gamma energy |
+| All-position scalar certificate | SE16.17--SE16.20; 44 complete cells, 604 prime powers and bounded infinite tails | Q_(69/100)>=1/250 everywhere |
+| Global native invariant | SE16.1, SE16.15--SE16.16 and SE16.21 | Shifted native floor 1/1845 at eta=0.69; global count and nullity zero; implied nonnegative shift 25441/36900 |
+| Failed erased-return comparison | SE16.22 and exact point enclosure at x=log3 | Preserved comparison positive; erased comparison negative; no actual-source counterexample |
+
+See the [theorems](development/SE16_SIGNED_RETURN_AND_GLOBAL_SHIFT.md),
+[replay](../../proof_lab/endpoint_signed_return_certificate.py),
+[controls](../../proof_lab/test_endpoint_signed_return_certificate.py),
+[result](../../proof_lab/ENDPOINT_SIGNED_RETURN_RESULT.json),
+[sources](development/SE16_SOURCE_RECORD.md) and
+[audit](development/SE16_SCOPE.md). Eta=1/2 and eta-zero/RH remain
+open; the positive local radius stays 21/25.
 
 ## Permanent records
 

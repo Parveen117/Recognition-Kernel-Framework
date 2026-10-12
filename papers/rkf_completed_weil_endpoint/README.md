@@ -8,7 +8,29 @@ This is the current reviewer-facing paper draft after moving certified MP theore
 papers/rkf_completed_weil_endpoint/main.tex
 ```
 
-## Current endpoint development: SE15, 12 October 2026
+## Current endpoint development: SE16, 12 October 2026
+
+[Signed return squares and a sharper global shift](development/SE16_SIGNED_RETURN_AND_GLOBAL_SHIFT.md)
+certifies S_b+(69/100)I_X >= (1/1845)I_X on the entire corrected
+complex odd source. The actual global negative count and nullity
+are zero for eta>=0.69. Subtracting the native floor also gives
+the nonnegative shift 25441/36900.
+
+The proof keeps the opposite-half Gamma return before taking weighted
+row bounds, and retains the complete observation defects as positive
+squares. Its 44 interval cells, infinite exterior bound and all-prime
+tail cover the whole source. Erasing the retained reflection causes
+the same comparison to fail at an enclosed point. This improves
+SE15's global shift without an unexecuted local-aperture hypothesis.
+
+Eta=1/2 and the cofinal eta-zero sign remain open. The positive local
+radius is still 0.840; this stage does not enlarge that parameter.
+See the [result](../../proof_lab/ENDPOINT_SIGNED_RETURN_RESULT.json),
+[replay](../../proof_lab/endpoint_signed_return_certificate.py),
+[sources](development/SE16_SOURCE_RECORD.md),
+[audit](development/SE16_SCOPE.md) and [claim boundary](CLAIM_BOUNDARY.md).
+
+## Preceding endpoint development: SE15, 12 October 2026
 
 [Effective localization and a global positive-eta certificate](development/SE15_EFFECTIVE_LOCALIZATION_AND_GLOBAL_ETA.md)
 proves S_b >= -(326/369) I_X on the entire corrected complex odd
