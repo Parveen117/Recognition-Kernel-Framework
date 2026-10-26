@@ -1,5 +1,8 @@
 # Recognition Kernel Framework
 
+> **Research record:** [Dated snapshot, content hashes and archive links](RESEARCH_PROVENANCE.md) · [Canonical repository governance](GOVERNANCE.md). Cite the exact version used.
+
+
 Author: Monty Dabas
 
 ## Canonical operator development
