@@ -835,6 +835,22 @@ proof_lab/test_paninian_it_samjna_compiled.py
 proof_lab/PANINIAN_IT_SAMJNA_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 83 Pāṇinīya Śikṣā sources packet
+
+| Field | Value |
+|---|---|
+| Certificate class | The Pāṇinīya Śikṣā quoted (verses 3–5, 11, 13, 17, 18, 21, 38–40): varṇa counts reproduced on the carrier; theorum/81's sthāna table derived from 13/17/18 (ka-varga at jihvāmūla, 1.1.9 classes identical); theorum/79's manner rows derived from 39–40; verse 21's openness grades separate e/ai, o/au from the text; 1.1.10 load-bearing under the karaṇa reading, redundant under the sparśa reading |
+| Status | `PASS_PANINIYA_SIKSHA_SOURCES_CANDIDATE` |
+| Canonical result SHA-256 | `473bcf775c05db5253310b94e9fd818d6e22eb20a4f9ed6d2342a836e80b2de5` |
+| Boundary | yamas, anusvāra, visarga, ayogavāhas, pluta counted not carried; accent and mātrā cited; the intended prayatna reading not decided |
+
+```text
+theorum/83_paniniya_siksha_sources_theorem.md
+proof_lab/paniniya_siksha_sources.py
+proof_lab/test_paniniya_siksha_sources.py
+proof_lab/PANINIYA_SIKSHA_SOURCES_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |

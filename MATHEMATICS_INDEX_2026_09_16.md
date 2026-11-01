@@ -129,6 +129,7 @@ Use the audited [publication copy](theorum/morphic_algebra/main.tex) for mathema
 | Sūtra instruction format (paribhāṣā compiler) | [T80](theorum/80_paninian_instruction_format_theorem.md) | case-structured records + 1.1.49/66/67, 6.1.84, 1.1.69/70, 1.1.52/55, 1.1.46, 1.3.10, 1.1.50/51, 1.4.2 compile to theorum/58's rules; antaratama exact by sthāna table |
 | Saṁjñā sound layer + Aṣṭādhyāyī ledger | [T81](theorum/81_paninian_samjna_sound_layer_theorem.md) | savarṇa derived by 1.1.9/1.1.10 from the sthāna table (length pairs + five vargas); ṭi/upadhā/tadanta; 1.1.11 + 6.1.125 block compiled sandhi; ledger = claim boundary (156/3959 listed) |
 | It-saṁjñā compiled | [T82](theorum/82_paninian_it_samjna_compiled_theorem.md) | 1.3.2–1.3.9 one interpreter = tradition on 116 teaching forms; exceptions and jñāpaka overrides load-bearing on named forms; 58/63 it_lopa are instances; 1.1.46/47 placement and 1.4.13 aṅga from the its |
+| Śikṣā sources | [T83](theorum/83_paniniya_siksha_sources_theorem.md) | PŚ 13/17/18 → T81 sthāna table (classes identical), PŚ 39–40 → T79 manner rows, PŚ 21 separates e/ai o/au, 1.1.10 verdict by reading |
 | Pāṇinian cut-module algebra | [T56](theorum/56_canvas_operators_nativized_theorem.md), [T58](theorum/58_paninian_seam_calculus_theorem.md), [T60](theorum/60_seam_compensated_confluence_verdict_theorem.md), [T61](theorum/61_rewrite_rules_as_cut_module_operators_theorem.md) | finite declared carriers and rule sets |
 | Grammar carriers | [T63–68](#theorems-58-77-paninian-domain-yang-mills-tool-and-semantic-chain) | exact finite nominal, verbal, sandhi, and kāraka/vibhakti carriers |
 | Obligation and evidence ladders | [T69](theorum/69_mimamsa_obligation_closure_theorem.md), [T70](theorum/70_angatva_pramana_ladder_theorem.md) | declared Mīmāṃsā/pramāṇa finite models |
@@ -351,6 +352,7 @@ The register below distinguishes theorem capsules from plans, source maps, certi
 | 80 | [The Sūtra as an Instruction: Paribhāṣā Instruction Format](theorum/80_paninian_instruction_format_theorem.md) | rule compiler on the 58 carrier |
 | 81 | [The Saṁjñā Layer of Pāda 1.1 on the Sound Carrier](theorum/81_paninian_samjna_sound_layer_theorem.md) | saṁjñā sūtras on the 78–80 carrier; Aṣṭādhyāyī ledger |
 | 82 | [The It-Saṁjñā Layer Compiled](theorum/82_paninian_it_samjna_compiled_theorem.md) | 1.3.2–1.3.9 interpreter; augment placement; aṅga |
+| 83 | [The Śikṣā Vedāṅga: Pāṇinīya Śikṣā Quoted, Tables Derived](theorum/83_paniniya_siksha_sources_theorem.md) | quoted-source finite carriers |
 
 ## 7. Parallel theorem registers
 
