@@ -1,0 +1,64 @@
+{
+  "author": "Monty",
+  "status": "BRANCH_PINNED_READ_ONLY_OBSERVATION_NOT_CERTIFICATE_REPLAY",
+  "baseline_ledger": {
+    "commit": "0e83db50cb564bf611b233a002d067686146d10b",
+    "path": "proof_lab/astadhyayi/ASTADHYAYI_LEDGER.json",
+    "counts": {
+      "compiled": 10,
+      "meta": 46,
+      "hand_coded": 70,
+      "cited": 43,
+      "misnumbered": 2,
+      "entries": 171,
+      "text_missing": 8,
+      "astadhyayi_total": 3959
+    },
+    "sha256": "341cfe922fa92c1bd0e640a003bb7d43f75a7119be487407838e84fe85204fbe"
+  },
+  "concurrent_branch": {
+    "name": "shaiva-sources-maheshvara-spanda-pratyabhijna",
+    "commit": "7802a351dec44dc8e6dfdfe12b4b6f5ecace9fad",
+    "ledger": {
+      "url": "https://github.com/Parveen117/Recognition-Kernel-Framework/blob/7802a351dec44dc8e6dfdfe12b4b6f5ecace9fad/proof_lab/astadhyayi/ASTADHYAYI_LEDGER.json",
+      "counts": {
+        "compiled": 10,
+        "meta": 49,
+        "hand_coded": 72,
+        "cited": 54,
+        "misnumbered": 2,
+        "entries": 187,
+        "text_missing": 9,
+        "astadhyayi_total": 3983,
+        "not_in_pinned_edition": 0,
+        "iast_mismatch_with_pinned_edition": 0
+      }
+    },
+    "t86": {
+      "capsule_url": "https://github.com/Parveen117/Recognition-Kernel-Framework/blob/7802a351dec44dc8e6dfdfe12b4b6f5ecace9fad/theorum/86_nirukta_dhatupatha_nama_theorem.md",
+      "code_url": "https://github.com/Parveen117/Recognition-Kernel-Framework/blob/7802a351dec44dc8e6dfdfe12b4b6f5ecace9fad/proof_lab/nirukta_dhatupatha_nama.py",
+      "reported_kta_stems": 11,
+      "reported_sup_outputs": 242,
+      "reported_sup_outputs_per_stem": 22,
+      "declared_exclusions": 6,
+      "root_ids": [
+        "1010001",
+        "1050001",
+        "1050005",
+        "1050016",
+        "1050017",
+        "1080001",
+        "1080010",
+        "1090001",
+        "1011092",
+        "1090014",
+        "1030001"
+      ],
+      "aniṭ_status": "DECLARED_NOT_ACCENT_DERIVED",
+      "lat_side": "PG5/PG6 reference 3sg forms read, not re-derived; hu has no PG laṭ case",
+      "evidence_grade": "capsule and implementation read; certificate not replayed; stated exclusions not separately tested as runtime guards"
+    },
+    "merged_into_pg7": false
+  },
+  "counting_policy": "Do not add 242 nominal outputs to the 603 laṭ cells or count hu as a completed PG laṭ root. The baseline 171-row ledger is historical, not the current companion branch inventory."
+}
