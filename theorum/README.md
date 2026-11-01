@@ -61,6 +61,7 @@ The advanced numbered surface now runs through Theorem 80:
 11. **83 — the Śikṣā Vedāṅga.** Pāṇinīya Śikṣā quoted; varṇa counts reproduced; theorum/81's sthāna table from PŚ 13/17/18 (classes identical), theorum/79's manner rows from PŚ 39–40, e/ai and o/au separated by PŚ 21; 1.1.10 load-bearing under the karaṇa reading, redundant under the sparśa reading.
 12. **84 — the Vedāṅga packets 71–73 bound to their quoted sources.** Piṅgala 8.20–8.35, Baudhāyana i.48 / i.61–62, RVJ 1, 4, 22, 32 quoted; the pinned functions of theorum/71–73 compute the texts' numbers (pins untouched); theorum/71's adhvayoga = literal 8.32 + 1 recorded as a discrepancy.
 13. **85 — the Nirukta Vedāṅga.** Nirukta 1.12 *nāmāny ākhyātajāni* computed: gata/bhūta/kṛta from the teaching forms by theorum/82's its + kta + 6.4.37/7.2.10; 66 sup forms by theorum/63's pinned ladder, 18 laṭ forms by theorum/64 from the same roots; nāma/ākhyāta partition the computed padas; Gārgya's objection not decided.
+14. **86 — nāma from the pinned Dhātupāṭha.** Eleven kta-prātipadikas from the PG5/PG6 lexical entries (Devanagari teaching forms through theorum/82's its; 6.1.64 suta, 6.4.37 tata); 242 sup forms by theorum/63; the PG laṭ forms disjoint; six entries refused by the rule they need.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -108,7 +109,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-85                           PRESENT
+NUMBERED THEOREM FILES 01-86                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT

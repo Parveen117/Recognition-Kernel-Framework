@@ -883,6 +883,22 @@ proof_lab/test_nirukta_nama_akhyatajani.py
 proof_lab/NIRUKTA_NAMA_AKHYATAJANI_EXPECTED.sha256
 ```
 
+## Theorem 86 Nirukta Dhātupāṭha-nāma packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Eleven kta-prātipadikas read from the PG5 / PG6 pinned Dhātupāṭha entries (Devanagari teaching forms through theorum/82's its, 6.1.64, 6.4.37, 7.2.10); theorum/63's pinned ladder derives all 242 sup forms; the PG stages' laṭ 3sg forms are disjoint from them; six entries refused by the rule they need |
+| Status | `PASS_NIRUKTA_DHATUPATHA_NAMA_CANDIDATE` |
+| Canonical result SHA-256 | `fdd0f424280bf180ba92c1b00a1f90423c9c36a232230c154acd8d38b71464d2` |
+| Boundary | aniṭ status declared; PG laṭ forms read as pinned data, not re-derived; Gārgya's objection undecided |
+
+```text
+theorum/86_nirukta_dhatupatha_nama_theorem.md
+proof_lab/nirukta_dhatupatha_nama.py
+proof_lab/test_nirukta_dhatupatha_nama.py
+proof_lab/NIRUKTA_DHATUPATHA_NAMA_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
