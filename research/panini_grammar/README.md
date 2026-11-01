@@ -43,6 +43,14 @@ optional/mandatory u-loss, and earlier ṇatva from later restored dental n.
 Its [remaining register](non_thematic_lat/REMAINING.md) targets śnam infix
 ownership and class 7 derivation next.
 
+**Owned śnam infixes and class 7:** [PG7](snam_lat/README.md) adds 23 identified
+roots / 288 cells / 330 branches, keeping root and affix ownership through
+insertion, strong/weak deletion and ordered phonetic changes. Its
+[current coverage audit](snam_lat/COVERAGE.md) separates the text inventory,
+bounded records, root preprocessing and 46 completed root entries / 603 laṭ
+cells across PG5–PG7. [Remaining work](snam_lat/REMAINING.md) includes
+bhuj/tṛh, adādi/juhotyādi and the wider grammar packages.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 1 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG6 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
+Index update: 1 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG7 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -129,6 +129,24 @@ the exact bounds. [Remaining work](research/panini_grammar/non_thematic_lat/REMA
 starts with śnam infix ownership, class 7 strong/weak forms and reduplication.
 General grammar soundness, operator lifting, CI and main merging remain open
 or deferred.
+
+[PG7: owned śnam infixes and class-7 laṭ](research/panini_grammar/snam_lat/README.md)
+completes a declared profile for 23 identified roots: 32 pada paradigms,
+288 cells and 330 branches. The root-with-mit constituent retains base-root
+and affix ownership through placement, root-n deletion, strong/weak śnam
+and ordered phonetic changes. Eleven source-bound records include a local
+nitya relation and an attributed 8.4.65 scope decision; optional consonant
+doubling remains outside the spelling profile. Eighty-five literal word
+witnesses, 13 expected refusals and 63 controls are separate from the
+288-cell software comparison. [Source review](research/panini_grammar/snam_lat/SOURCE_REVIEW.md)
+and [validation](research/panini_grammar/snam_lat/VALIDATION.md) preserve those
+boundaries. The [coverage audit](research/panini_grammar/snam_lat/COVERAGE.md)
+separates 3,983 catalogued records, 80 distinct source-bound IDs in PG4–PG7,
+the frozen root diagnostic, and 46 completed root entries / 603 laṭ cells
+across PG5–PG7. No overall grammar-completion percentage is claimed.
+[Remaining work](research/panini_grammar/snam_lat/REMAINING.md) starts with
+bhuj/tṛh and adādi/juhotyādi; general grammar and operator lifting remain open.
+CI and main merging remain deferred.
 
 ## Śaiva sources and the sūtra as an instruction: Theorems 78–82
 

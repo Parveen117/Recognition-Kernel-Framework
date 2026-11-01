@@ -1,0 +1,909 @@
+{
+  "author": "Monty",
+  "records": [
+    {
+      "sid": "1.1.47",
+      "sanskrit": "मिदचोऽन्त्यात्परः",
+      "opcode": "owned_snam_infix",
+      "terms": [
+        {
+          "term": "मित्",
+          "source": "1.1.47",
+          "kind": "own",
+          "role": "mit_unit",
+          "case": "1"
+        },
+        {
+          "term": "अचः",
+          "source": "1.1.47",
+          "kind": "own",
+          "role": "vowel_inventory",
+          "case": "6"
+        },
+        {
+          "term": "अन्त्यात्",
+          "source": "1.1.47",
+          "kind": "own",
+          "role": "last_vowel_selector",
+          "case": "5"
+        },
+        {
+          "term": "परः",
+          "source": "1.1.47",
+          "kind": "own",
+          "role": "following_placement",
+          "case": "1"
+        }
+      ],
+      "requires": {},
+      "parameters": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11047",
+          "anchor": "स्थानेयोगप्रत्ययपरत्वस्य ([[३.१.१]], [[३.१.२]]) अयमपवादः।"
+        },
+        {
+          "path": "sutraani/kaumudi.txt",
+          "key": "11047",
+          "anchor": "अचां मध्ये योऽन्त्यस्तस्मात्परस्तस्यैवान्तावयवो मित्स्यात्"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "11047",
+          "anchor": "मिदचोऽन्त्यात्परः",
+          "field": "s"
+        }
+      ]
+    },
+    {
+      "sid": "1.1.58",
+      "sanskrit": "न पदान्तद्विर्वचनवरेयलोपस्वरसवर्णानुस्वारदीर्घजश्चर्विधिषु",
+      "opcode": "local_snam_deleted_a_visibility",
+      "terms": [
+        {
+          "term": "न",
+          "source": "1.1.58",
+          "kind": "own",
+          "role": "prohibition",
+          "case": "0"
+        },
+        {
+          "term": "पदान्त-द्विर्वचन-वरे-यलोप-स्वर-सवर्ण-अनुस्वार-दीर्घ-जश्-चर्-विधिषु",
+          "source": "1.1.58",
+          "kind": "own",
+          "role": "listed_operation_domains",
+          "case": "7"
+        },
+        {
+          "term": "स्थानिवत्",
+          "source": "1.1.56",
+          "kind": "anuvrtti",
+          "role": "original_like_query"
+        },
+        {
+          "term": "आदेशः",
+          "source": "1.1.56",
+          "kind": "anuvrtti",
+          "role": "substitution"
+        },
+        {
+          "term": "अचः",
+          "source": "1.1.57",
+          "kind": "anuvrtti",
+          "role": "vowel_domain"
+        },
+        {
+          "term": "परस्मिन्पूर्वविधौ",
+          "source": "1.1.57",
+          "kind": "anuvrtti",
+          "role": "later_cause_prior_operation"
+        }
+      ],
+      "requires": {},
+      "parameters": {},
+      "evidence": [
+        {
+          "path": "sutraani/kaumudi.txt",
+          "key": "31078",
+          "anchor": "इति सूत्रेणानुस्वारपरसवर्णयोरल्लोपो न स्थानिवत्"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "11058",
+          "anchor": "न पदान्तद्विर्वचनवरेयलोपस्वरसवर्णानुस्वारदीर्घजश्चर्विधिषु",
+          "field": "s"
+        }
+      ]
+    },
+    {
+      "sid": "3.1.78",
+      "sanskrit": "रुधादिभ्यः श्नम्",
+      "opcode": "snam_before_root_guna",
+      "terms": [
+        {
+          "term": "रुधादिभ्यः",
+          "source": "3.1.78",
+          "kind": "own",
+          "role": "identified_rudhadi_roots",
+          "case": "5"
+        },
+        {
+          "term": "श्नम्",
+          "source": "3.1.78",
+          "kind": "own",
+          "role": "snam_affix",
+          "case": "1"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "3.1.67",
+          "kind": "anuvrtti",
+          "role": "sarvadhatuka_trigger"
+        },
+        {
+          "term": "कर्तरि",
+          "source": "3.1.68",
+          "kind": "anuvrtti",
+          "role": "kartari_semantics"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_designation"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "default_following_displaced_by_mit"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "accent_obligation_outside_unaccented_profile"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.22",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "parameters": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31078",
+          "anchor": "शपोऽपवादः। मकारो देशविध्यर्थः।"
+        },
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "31078",
+          "anchor": "कृते अकृते च गुणे प्रवृत्तेः श्नम् नित्यः । तस्मिन् सति लघूपधत्वाऽभावान्न गुण इति भावः ।"
+        },
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "31078",
+          "anchor": "श्नमः पूर्वस्य इगन्तस्य अङ्गत्वाऽभावादेव गुणाऽप्रसक्तेः"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "31078",
+          "anchor": "रुधादिभ्यः श्नम्",
+          "field": "s"
+        }
+      ]
+    },
+    {
+      "sid": "6.4.23",
+      "sanskrit": "श्नान्नलोपः",
+      "opcode": "root_n_after_snam_lopa",
+      "terms": [
+        {
+          "term": "श्नात्",
+          "source": "6.4.23",
+          "kind": "own",
+          "role": "snam_identity_as_prior",
+          "case": "5"
+        },
+        {
+          "term": "नलोपः",
+          "source": "6.4.23",
+          "kind": "own",
+          "role": "root_owned_n_deletion",
+          "case": "1"
+        },
+        {
+          "term": "अङ्गस्य",
+          "source": "6.4.1",
+          "kind": "adhikara",
+          "role": "relative_anga"
+        },
+        {
+          "term": "असिद्धवदत्राभात्",
+          "source": "6.4.22",
+          "kind": "adhikara",
+          "role": "local_abhiya_schedule"
+        }
+      ],
+      "requires": {},
+      "parameters": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "64023",
+          "anchor": "तत उत्तरस्य नकारस्य लोपो भवति। अनक्ति। भनक्ति। हिनस्ति।"
+        },
+        {
+          "path": "sutraani/tattvabodhini.txt",
+          "key": "64023",
+          "anchor": "अल्लोपस्यअसिद्धवदत्रे॑त्यसिद्धित्वात्सथानिवत्त्वाद्वा"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "64023",
+          "anchor": "श्नान्नलोपः",
+          "field": "s"
+        }
+      ]
+    },
+    {
+      "sid": "6.4.111",
+      "sanskrit": "श्नसोरल्लोपः",
+      "opcode": "weak_snam_a_lopa",
+      "terms": [
+        {
+          "term": "श्ना-असोः",
+          "source": "6.4.111",
+          "kind": "own",
+          "role": "snam_and_as_only_snam_admitted",
+          "case": "6"
+        },
+        {
+          "term": "अल्लोपः",
+          "source": "6.4.111",
+          "kind": "own",
+          "role": "short_a_deletion",
+          "case": "1"
+        },
+        {
+          "term": "क्ङिति",
+          "source": "6.4.98",
+          "kind": "anuvrtti",
+          "role": "kit_ngit_condition"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "6.4.110",
+          "kind": "anuvrtti",
+          "role": "sarvadhatuka_condition"
+        },
+        {
+          "term": "अङ्गस्य",
+          "source": "6.4.1",
+          "kind": "adhikara",
+          "role": "relative_anga"
+        },
+        {
+          "term": "असिद्धवदत्राभात्",
+          "source": "6.4.22",
+          "kind": "adhikara",
+          "role": "local_abhiya_schedule"
+        }
+      ],
+      "requires": {},
+      "parameters": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "64111",
+          "anchor": "श्नस्यास्तेश्चाकारस्य लोपो भवति सार्वधातुके क्ङिति परतः।"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "64111",
+          "anchor": "क्ङितीत्येव — भिनत्ति। अस्ति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "64111",
+          "anchor": "श्नसोरल्लोपः",
+          "field": "s"
+        }
+      ]
+    },
+    {
+      "sid": "8.2.30",
+      "sanskrit": "चोः कुः",
+      "opcode": "root_palatal_before_jhal",
+      "terms": [
+        {
+          "term": "चोः",
+          "source": "8.2.30",
+          "kind": "own",
+          "role": "palatal_target",
+          "case": "6"
+        },
+        {
+          "term": "कुः",
+          "source": "8.2.30",
+          "kind": "own",
+          "role": "velar_replacement",
+          "case": "1"
+        },
+        {
+          "term": "झलि",
+          "source": "8.2.26",
+          "kind": "anuvrtti",
+          "role": "following_jhal"
+        },
+        {
+          "term": "अन्ते",
+          "source": "8.2.29",
+          "kind": "anuvrtti",
+          "role": "alternative_pada_final_domain_not_executed"
+        },
+        {
+          "term": "पदस्य",
+          "source": "8.1.16",
+          "kind": "adhikara",
+          "role": "whole_pada_domain"
+        },
+        {
+          "term": "पूर्वत्रासिद्धम्",
+          "source": "8.2.1",
+          "kind": "adhikara",
+          "role": "ordered_visibility"
+        }
+      ],
+      "requires": {},
+      "parameters": {
+        "mapping": {
+          "c": "k",
+          "j": "g"
+        },
+        "following": [
+          "k",
+          "kh",
+          "g",
+          "gh",
+          "c",
+          "ch",
+          "j",
+          "jh",
+          "ṭ",
+          "ṭh",
+          "ḍ",
+          "ḍh",
+          "t",
+          "th",
+          "d",
+          "dh",
+          "p",
+          "ph",
+          "b",
+          "bh",
+          "ś",
+          "ṣ",
+          "s",
+          "h"
+        ],
+        "domain": "identified final c/j in PG7; no inherited pada-final-only test"
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "82030",
+          "anchor": "चवर्गस्य कवर्गादेशो भवति झलि परतः पदान्ते च।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "82030",
+          "anchor": "चोः कुः",
+          "field": "s"
+        }
+      ]
+    },
+    {
+      "sid": "8.2.40",
+      "sanskrit": "झषस्तथोर्धोऽधः",
+      "opcode": "t_th_after_jhash",
+      "terms": [
+        {
+          "term": "झषः",
+          "source": "8.2.40",
+          "kind": "own",
+          "role": "prior_jhash",
+          "case": "5"
+        },
+        {
+          "term": "तथोः",
+          "source": "8.2.40",
+          "kind": "own",
+          "role": "following_t_th_targets",
+          "case": "6"
+        },
+        {
+          "term": "धः",
+          "source": "8.2.40",
+          "kind": "own",
+          "role": "dh_substitute",
+          "case": "1"
+        },
+        {
+          "term": "अधः",
+          "source": "8.2.40",
+          "kind": "own",
+          "role": "exclude_dha_root_outside_lexicon",
+          "case": "5"
+        },
+        {
+          "term": "पदस्य",
+          "source": "8.1.16",
+          "kind": "adhikara",
+          "role": "whole_pada_domain"
+        },
+        {
+          "term": "पूर्वत्रासिद्धम्",
+          "source": "8.2.1",
+          "kind": "adhikara",
+          "role": "ordered_visibility"
+        }
+      ],
+      "requires": {},
+      "parameters": {
+        "preceding": [
+          "jh",
+          "bh",
+          "gh",
+          "ḍh",
+          "dh"
+        ],
+        "targets": [
+          "t",
+          "th"
+        ],
+        "replacement": "dh",
+        "excluded_root": "dā/dhā reduplicated dadhā is outside the PG7 lexicon"
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "82040",
+          "anchor": "झष उत्तरयोस्तकारथकारयोः स्थाने धकार आदेशो भवति, दधातिं वर्जयित्वा।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "82040",
+          "anchor": "झषस्तथोर्धोऽधः",
+          "field": "s"
+        }
+      ]
+    },
+    {
+      "sid": "8.2.41",
+      "sanskrit": "षढोः कः सि",
+      "opcode": "ss_ddh_before_s",
+      "terms": [
+        {
+          "term": "षढोः",
+          "source": "8.2.41",
+          "kind": "own",
+          "role": "ss_dh_retroflex_targets",
+          "case": "6"
+        },
+        {
+          "term": "कः",
+          "source": "8.2.41",
+          "kind": "own",
+          "role": "k_substitute",
+          "case": "1"
+        },
+        {
+          "term": "सि",
+          "source": "8.2.41",
+          "kind": "own",
+          "role": "following_s",
+          "case": "7"
+        },
+        {
+          "term": "पदस्य",
+          "source": "8.1.16",
+          "kind": "adhikara",
+          "role": "whole_pada_domain"
+        },
+        {
+          "term": "पूर्वत्रासिद्धम्",
+          "source": "8.2.1",
+          "kind": "adhikara",
+          "role": "ordered_visibility"
+        }
+      ],
+      "requires": {},
+      "parameters": {
+        "mapping": {
+          "ṣ": "k",
+          "ḍh": "k"
+        },
+        "following": [
+          "s"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "82041",
+          "anchor": "षकारढकारयोः ककारादेशो भवति सकारे परतः।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "82041",
+          "anchor": "षढोः कः सि",
+          "field": "s"
+        }
+      ]
+    },
+    {
+      "sid": "8.3.59",
+      "sanskrit": "आदेशप्रत्यययोः",
+      "opcode": "adjacent_ting_s_after_in_ku",
+      "terms": [
+        {
+          "term": "आदेश-प्रत्यययोः",
+          "source": "8.3.59",
+          "kind": "own",
+          "role": "substitute_or_affix_target",
+          "case": "6"
+        },
+        {
+          "term": "सः",
+          "source": "8.3.56",
+          "kind": "anuvrtti",
+          "role": "s_target"
+        },
+        {
+          "term": "नुम्विसर्जनीयशर्व्यवाये",
+          "source": "8.3.58",
+          "kind": "anuvrtti",
+          "role": "intervening_domain_not_executed"
+        },
+        {
+          "term": "अपि",
+          "source": "8.3.58",
+          "kind": "anuvrtti",
+          "role": "including_intervention"
+        },
+        {
+          "term": "पूर्वत्रासिद्धम्",
+          "source": "8.2.1",
+          "kind": "adhikara",
+          "role": "ordered_visibility"
+        },
+        {
+          "term": "संहितायाम्",
+          "source": "8.2.108",
+          "kind": "adhikara",
+          "role": "samhita"
+        },
+        {
+          "term": "अपदान्तस्य मूर्धन्यः",
+          "source": "8.3.55",
+          "kind": "adhikara",
+          "role": "non_pada_final_retroflex"
+        },
+        {
+          "term": "इण्कोः",
+          "source": "8.3.57",
+          "kind": "adhikara",
+          "role": "in_ku_prior_trigger"
+        }
+      ],
+      "requires": {},
+      "parameters": {
+        "adjacent_triggers": [
+          "i",
+          "ī",
+          "u",
+          "ū",
+          "ṛ",
+          "ṝ",
+          "ḷ",
+          "e",
+          "ai",
+          "o",
+          "au",
+          "y",
+          "v",
+          "r",
+          "l",
+          "k",
+          "kh",
+          "g",
+          "gh",
+          "ṅ"
+        ],
+        "domain": "adjacent tiṅ s, identified class-7 paths only; no intervening rule"
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "83059",
+          "anchor": "आदेशो यः सकारः, प्रत्ययस्य च यः सकारः इण्कोरुत्तरस्तस्य मूर्धन्यो भवत्यादेशः।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "83059",
+          "anchor": "आदेशप्रत्यययोः",
+          "field": "s"
+        }
+      ]
+    },
+    {
+      "sid": "8.4.55",
+      "sanskrit": "खरि च",
+      "opcode": "devoice_before_khar",
+      "terms": [
+        {
+          "term": "खरि",
+          "source": "8.4.55",
+          "kind": "own",
+          "role": "following_khar",
+          "case": "7"
+        },
+        {
+          "term": "च",
+          "source": "8.4.55",
+          "kind": "own",
+          "role": "continuation",
+          "case": "0"
+        },
+        {
+          "term": "झलाम्",
+          "source": "8.4.53",
+          "kind": "anuvrtti",
+          "role": "jhal_targets"
+        },
+        {
+          "term": "चर्",
+          "source": "8.4.54",
+          "kind": "anuvrtti",
+          "role": "car_substitutes"
+        },
+        {
+          "term": "पूर्वत्रासिद्धम्",
+          "source": "8.2.1",
+          "kind": "adhikara",
+          "role": "ordered_visibility"
+        },
+        {
+          "term": "संहितायाम्",
+          "source": "8.2.108",
+          "kind": "adhikara",
+          "role": "samhita"
+        }
+      ],
+      "requires": {},
+      "parameters": {
+        "mapping": {
+          "k": "k",
+          "kh": "k",
+          "g": "k",
+          "gh": "k",
+          "c": "c",
+          "ch": "c",
+          "j": "c",
+          "jh": "c",
+          "ṭ": "ṭ",
+          "ṭh": "ṭ",
+          "ḍ": "ṭ",
+          "ḍh": "ṭ",
+          "t": "t",
+          "th": "t",
+          "d": "t",
+          "dh": "t",
+          "p": "p",
+          "ph": "p",
+          "b": "p",
+          "bh": "p",
+          "ś": "ś",
+          "ṣ": "ṣ",
+          "s": "s"
+        },
+        "following": [
+          "k",
+          "kh",
+          "c",
+          "ch",
+          "ṭ",
+          "ṭh",
+          "t",
+          "th",
+          "p",
+          "ph",
+          "ś",
+          "ṣ",
+          "s"
+        ],
+        "h_case": "outside admitted junctions"
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84055",
+          "anchor": "खरि च परतो झलां चरादेशो भवति। जश्ग्रहणं नानुवर्तते"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "84055",
+          "anchor": "खरि च",
+          "field": "s"
+        }
+      ]
+    },
+    {
+      "sid": "8.4.65",
+      "sanskrit": "झरो झरि सवर्णे",
+      "opcode": "optional_savarna_jhar_lopa",
+      "terms": [
+        {
+          "term": "झरः",
+          "source": "8.4.65",
+          "kind": "own",
+          "role": "jhar_target",
+          "case": "6"
+        },
+        {
+          "term": "झरि",
+          "source": "8.4.65",
+          "kind": "own",
+          "role": "following_jhar",
+          "case": "7"
+        },
+        {
+          "term": "सवर्णे",
+          "source": "8.4.65",
+          "kind": "own",
+          "role": "same_place_and_effort",
+          "case": "7"
+        },
+        {
+          "term": "अन्यतरस्याम्",
+          "source": "8.4.62",
+          "kind": "anuvrtti",
+          "role": "optional"
+        },
+        {
+          "term": "हलः",
+          "source": "8.4.64",
+          "kind": "anuvrtti",
+          "role": "preceding_hal"
+        },
+        {
+          "term": "लोपः",
+          "source": "8.4.64",
+          "kind": "anuvrtti",
+          "role": "deletion"
+        },
+        {
+          "term": "पूर्वत्रासिद्धम्",
+          "source": "8.2.1",
+          "kind": "adhikara",
+          "role": "ordered_visibility"
+        },
+        {
+          "term": "संहितायाम्",
+          "source": "8.2.108",
+          "kind": "adhikara",
+          "role": "samhita"
+        }
+      ],
+      "requires": {},
+      "parameters": {
+        "savarna_classes": [
+          [
+            "k",
+            "kh",
+            "g",
+            "gh"
+          ],
+          [
+            "c",
+            "ch",
+            "j",
+            "jh"
+          ],
+          [
+            "ṭ",
+            "ṭh",
+            "ḍ",
+            "ḍh"
+          ],
+          [
+            "t",
+            "th",
+            "d",
+            "dh"
+          ],
+          [
+            "p",
+            "ph",
+            "b",
+            "bh"
+          ],
+          [
+            "ś"
+          ],
+          [
+            "ṣ"
+          ],
+          [
+            "s"
+          ]
+        ],
+        "optional": true,
+        "optional_consonant_doubling": false,
+        "maximum_independent_sites": 1
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84065",
+          "anchor": "हल उत्तरस्य झरो झरि सवर्णे परतो लोपो भवत्यन्यतरस्याम्।"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84065",
+          "anchor": "सवर्णमात्रे लोपो विज्ञायते।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "84065",
+          "anchor": "झरो झरि सवर्णे",
+          "field": "s"
+        }
+      ]
+    }
+  ],
+  "scope_policies": [
+    {
+      "id": "PG7-8.4.65-local-lopa-not-parasavarna",
+      "target": "8.4.65",
+      "action": "exclude",
+      "source": "8.4.58",
+      "raw_term": "परसवर्णः",
+      "kind": "anuvrtti",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84065",
+          "anchor": "हल इति वर्तते, अन्यतरस्यामिति च।"
+        },
+        {
+          "path": "sutraani/laghukaumudi.txt",
+          "key": "84065",
+          "anchor": "हलः परस्य झरो वा लोपः सवर्णे झरि॥"
+        }
+      ]
+    }
+  ],
+  "priority": [
+    {
+      "winner": "3.1.78",
+      "loser": "7.3.86",
+      "kind": "local_nitya_before_anitya",
+      "domain": "reviewed rudhadi laṭ śnam insertion",
+      "evidence": [
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "31078",
+          "anchor": "कृते अकृते च गुणे प्रवृत्तेः श्नम् नित्यः । तस्मिन् सति लघूपधत्वाऽभावान्न गुण इति भावः ।"
+        }
+      ]
+    }
+  ],
+  "claim_boundary": "Hand-reviewed term bindings and bounded opcodes, not raw Sanskrit interpretation or all uses of each sūtra."
+}
