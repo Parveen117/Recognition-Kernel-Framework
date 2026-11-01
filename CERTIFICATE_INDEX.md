@@ -947,6 +947,22 @@ proof_lab/test_ngi_stem_sup_compiled.py
 proof_lab/NGI_STEM_SUP_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 90 Ṛ-stem sup packet
+
+| Field | Value |
+|---|---|
+| Certificate class | kartṛ's 22 forms through 7.1.94 / 1.1.53, 6.4.8, 6.4.11, 7.3.110 / 1.1.51, 6.1.111 / 8.2.24, 6.1.102 / 6.1.103, 6.1.77, 7.1.54 / 6.4.3 / 8.4.1, 8.3.59, 8.2.7, 6.1.68, 8.2.66, 8.3.15; the sarvanāmasthāna saṁjñā and each stage break exactly their cells; śrotṛ, hotṛ, cetṛ, sotṛ (theorum/89) give 88 more forms |
+| Status | `PASS_R_STEM_SUP_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `81f511f69ff7fbb714257449fa620d440b31fdc85345e44eb7b9f958ef447dcd` |
+| Boundary | kinship ṛ-stems, 6.4.11's other members, neuters not claimed; 8.4.1 on ṛ-varṇa is the vārttika; stage order a declared pipeline |
+
+```text
+theorum/90_r_stem_sup_compiled_theorem.md
+proof_lab/r_stem_sup_compiled.py
+proof_lab/test_r_stem_sup_compiled.py
+proof_lab/R_STEM_SUP_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |

@@ -136,6 +136,7 @@ Use the audited [publication copy](theorum/morphic_algebra/main.tex) for mathema
 | Tripādī niṣṭhā | [T87](theorum/87_tripadi_nishtha_compiled_theorem.md) | pakta/labdha/tunna/lūna by 8.2.30/8.2.40+8.4.53/8.2.42/8.2.44 in 8.2.1 order; reverse order → labhdha; 88 sup forms |
 | Āp-stem sup | [T88](theorum/88_ap_stem_sup_compiled_theorem.md) | latā 22 forms via 4.1.4, 7.1.18, 7.3.116, 7.3.113, 7.1.54, 7.3.105/106, 6.1.68/69; each stage load-bearing; 15 kta feminines, 330 forms |
 | Nadī-stem sup | [T89](theorum/89_ngi_stem_sup_compiled_theorem.md) | nadī 22 forms via 7.3.112/116, 7.1.54, 7.3.107, 6.1.68/69/77/102/105, 8.3.59; kartrī śrotrī hotrī cetrī sotrī from the roots by tṛc (T80 guṇa) + ṅīp; 110 forms |
+| Ṛ-stem sup | [T90](theorum/90_r_stem_sup_compiled_theorem.md) | kartṛ 22 forms via 7.1.94, 6.4.8/11, 7.3.110, 6.1.111, 6.1.102/103, 7.1.54/6.4.3/8.4.1, 8.3.59, 8.2.7/24; sarvanāmasthāna breaks exactly {1s,1d,1p,2s,2d,8s}; 4 agents, 88 forms |
 | Pāṇinian cut-module algebra | [T56](theorum/56_canvas_operators_nativized_theorem.md), [T58](theorum/58_paninian_seam_calculus_theorem.md), [T60](theorum/60_seam_compensated_confluence_verdict_theorem.md), [T61](theorum/61_rewrite_rules_as_cut_module_operators_theorem.md) | finite declared carriers and rule sets |
 | Grammar carriers | [T63–68](#theorems-58-77-paninian-domain-yang-mills-tool-and-semantic-chain) | exact finite nominal, verbal, sandhi, and kāraka/vibhakti carriers |
 | Obligation and evidence ladders | [T69](theorum/69_mimamsa_obligation_closure_theorem.md), [T70](theorum/70_angatva_pramana_ladder_theorem.md) | declared Mīmāṃsā/pramāṇa finite models |
@@ -365,6 +366,7 @@ The register below distinguishes theorem capsules from plans, source maps, certi
 | 87 | [The Tripādī Niṣṭhā Rules Compiled in Asiddha Order](theorum/87_tripadi_nishtha_compiled_theorem.md) | 8.2.1 instance; four refusals realized |
 | 88 | [The Āp-Stem Sup Paradigm Compiled](theorum/88_ap_stem_sup_compiled_theorem.md) | ṭāp feminines; 330 forms |
 | 89 | [The Nadī (ṅī-Stem) Sup Paradigm Compiled](theorum/89_ngi_stem_sup_compiled_theorem.md) | nadī; tṛc + ṅīp agent feminines; 110 forms |
+| 90 | [The Ṛ-Stem (tṛc) Sup Paradigm Compiled](theorum/90_r_stem_sup_compiled_theorem.md) | kartṛ and the agents; sarvanāmasthāna load-bearing |
 
 ## 7. Parallel theorem registers
 

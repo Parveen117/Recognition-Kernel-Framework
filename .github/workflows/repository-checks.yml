@@ -151,6 +151,10 @@ jobs:
                   'proof_lab/test_ngi_stem_sup_compiled.py',
                   'proof_lab/NGI_STEM_SUP_COMPILED_EXPECTED.sha256',
                   'theorum/89_ngi_stem_sup_compiled_theorem.md',
+                  'proof_lab/r_stem_sup_compiled.py',
+                  'proof_lab/test_r_stem_sup_compiled.py',
+                  'proof_lab/R_STEM_SUP_COMPILED_EXPECTED.sha256',
+                  'theorum/90_r_stem_sup_compiled_theorem.md',
                   'research/panini_grammar/vikarana_lat/LEXICAL_ENTRIES.json',
                   'research/panini_grammar/non_thematic_lat/LEXICAL_ENTRIES.json',
                   'research/panini_grammar/vikarana_lat/REFERENCE_CASES.json',
@@ -209,10 +213,10 @@ jobs:
       - name: Check PG1 Sanskrit text inventory and source pins
         if: steps.scope.outputs.pg1 == 'true'
         run: python research/panini_grammar/check_sources.py
-      - name: Check Theorem 78-89 quoted-source certificates, ledger and pins
+      - name: Check Theorem 78-90 quoted-source certificates, ledger and pins
         if: steps.scope.outputs.shaiva == 'true'
         run: |
-          python -B -m unittest proof_lab.test_shaiva_sources_nativized proof_lab.test_shaiva_sources_varga_crystal proof_lab.test_paninian_instruction_format proof_lab.test_paninian_samjna_sound_layer proof_lab.test_paninian_it_samjna_compiled proof_lab.test_paniniya_siksha_sources proof_lab.test_vedanga_sources_quoted proof_lab.test_nirukta_nama_akhyatajani proof_lab.test_nirukta_dhatupatha_nama proof_lab.test_tripadi_nishtha_compiled proof_lab.test_ap_stem_sup_compiled proof_lab.test_ngi_stem_sup_compiled proof_lab.test_astadhyayi_ledger -v
+          python -B -m unittest proof_lab.test_shaiva_sources_nativized proof_lab.test_shaiva_sources_varga_crystal proof_lab.test_paninian_instruction_format proof_lab.test_paninian_samjna_sound_layer proof_lab.test_paninian_it_samjna_compiled proof_lab.test_paniniya_siksha_sources proof_lab.test_vedanga_sources_quoted proof_lab.test_nirukta_nama_akhyatajani proof_lab.test_nirukta_dhatupatha_nama proof_lab.test_tripadi_nishtha_compiled proof_lab.test_ap_stem_sup_compiled proof_lab.test_ngi_stem_sup_compiled proof_lab.test_r_stem_sup_compiled proof_lab.test_astadhyayi_ledger -v
           python -B -m proof_lab.shaiva_sources_nativized --output /tmp/shaiva_actual.json
           python -B -m proof_lab.shaiva_sources_varga_crystal --output /tmp/shaiva_vc_actual.json
           python -B -m proof_lab.paninian_instruction_format --output /tmp/pif_actual.json
@@ -225,6 +229,7 @@ jobs:
           python -B -m proof_lab.tripadi_nishtha_compiled --output /tmp/tnc_actual.json
           python -B -m proof_lab.ap_stem_sup_compiled --output /tmp/ap_actual.json
           python -B -m proof_lab.ngi_stem_sup_compiled --output /tmp/ngi_actual.json
+          python -B -m proof_lab.r_stem_sup_compiled --output /tmp/rs_actual.json
           python - <<'PY'
           import hashlib
           from pathlib import Path
@@ -239,7 +244,8 @@ jobs:
                                    ('/tmp/ndn_actual.json', 'proof_lab/NIRUKTA_DHATUPATHA_NAMA_EXPECTED.sha256'),
                                    ('/tmp/tnc_actual.json', 'proof_lab/TRIPADI_NISHTHA_COMPILED_EXPECTED.sha256'),
                                    ('/tmp/ap_actual.json', 'proof_lab/AP_STEM_SUP_COMPILED_EXPECTED.sha256'),
-                                   ('/tmp/ngi_actual.json', 'proof_lab/NGI_STEM_SUP_COMPILED_EXPECTED.sha256')):
+                                   ('/tmp/ngi_actual.json', 'proof_lab/NGI_STEM_SUP_COMPILED_EXPECTED.sha256'),
+                                   ('/tmp/rs_actual.json', 'proof_lab/R_STEM_SUP_COMPILED_EXPECTED.sha256')):
               actual = hashlib.sha256(Path(actual_path).read_bytes()).hexdigest()
               expected = Path(pin).read_text(encoding='utf-8').strip()
               assert actual == expected, (pin, actual, expected)
