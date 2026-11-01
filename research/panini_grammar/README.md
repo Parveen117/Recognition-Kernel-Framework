@@ -21,6 +21,13 @@ expectations, records the T81 vowel-table limitation, and preserves all earlier
 packet bytes. Its 2,081 headword agreements are a lexical diagnostic, not a
 grammar-completeness score.
 
+**Executable scope and further derivation:** [PG4](scoped_derivations/README.md)
+binds reviewed rule records to inherited terms, applies seven commentary scope
+policies, and extends root contact, augmentation and length readings. The
+root-headword diagnostic reaches 2,219 agreements, with eight differences and
+two unresolved entries retained. Full grammar obligations are listed in its
+[remaining-work register](scoped_derivations/REMAINING.md).
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

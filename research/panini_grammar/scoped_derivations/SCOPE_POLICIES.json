@@ -1,0 +1,149 @@
+{
+  "author": "Monty",
+  "stage": "PG4",
+  "policies": [
+    {
+      "id": "stop-va-before-svarthika",
+      "source": "4.1.82",
+      "after": "5.2.140",
+      "action": "quarantine",
+      "expected_edges": 279,
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "41082",
+          "anchor": "स्वार्थिकप्रत्ययावधिश्चायमधिकारः"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "41082",
+          "anchor": "केचिन्नित्यमेव भवन्ति"
+        }
+      ],
+      "finding": "The ad field carries vā through 5.3–5.4, although the declared endpoint is 5.2.140. Kāśikā explicitly terminates this heading before 5.3.1 and denies uniform optionality of svārthika affixes. Do not automatically make these later affixes optional."
+    },
+    {
+      "id": "split-uttarapada-adi",
+      "source": "6.2.111",
+      "after": "6.2.137",
+      "through": "6.2.199",
+      "action": "split",
+      "retain_term": "उत्तरपदस्य",
+      "exclude_term": "आदिः",
+      "expected_edges": 60,
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "62111",
+          "anchor": "उत्तरपदस्येत्येतदा पादपरिसमाप्तेः"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "62111",
+          "anchor": "आदिरिति"
+        }
+      ],
+      "finding": "Kāśikā gives uttarapadasya through the pāda, but ādi only through 6.2.137. The combined uttarapadādiḥ annotation past 6.2.137 cannot be imported as a single unchanged condition."
+    },
+    {
+      "id": "extend-sut-kat",
+      "source": "6.1.135",
+      "after": "6.1.154",
+      "through": "6.1.157",
+      "action": "accept",
+      "expected_edges": 3,
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61135",
+          "anchor": "पारस्करप्रभृतीनि च संज्ञायाम्"
+        }
+      ],
+      "finding": "The heading metadata ends at 6.1.154; Kāśikā explicitly says through 6.1.157. The 6.1.155–157 memberships are supported by that commentary."
+    },
+    {
+      "id": "extend-ekadesa",
+      "source": "6.1.84",
+      "after": "6.1.109",
+      "through": "6.1.111",
+      "action": "accept",
+      "expected_edges": 2,
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61084",
+          "anchor": "प्रागेतस्मात् सूत्रादित"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61110",
+          "anchor": "पूर्वपरयोः स्थाने"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61111",
+          "anchor": "पूर्वपरयोरुकार"
+        }
+      ],
+      "finding": "The heading metadata ends at 6.1.109; Kāśikā says before 6.1.112, supporting the two memberships 6.1.110–111."
+    },
+    {
+      "id": "accept-sese-heading",
+      "source": "4.2.92",
+      "target": "4.3.23",
+      "action": "accept",
+      "expected_edges": 1,
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "42092",
+          "anchor": "शेष इत्यधिकारोऽयम्"
+        }
+      ],
+      "finding": "The type field is V, but Kāśikā explicitly calls śeṣe an adhikāra. Missing AD metadata does not invalidate this inheritance."
+    },
+    {
+      "id": "correct-antah-reference",
+      "source": "6.2.14",
+      "target": "6.2.144",
+      "corrected_source": "6.2.143",
+      "action": "correct_reference",
+      "expected_edges": 1,
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "62143",
+          "anchor": "अन्त इत्यधिकारः"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "62144",
+          "anchor": "परेषामन्त उदात्तो भवति"
+        }
+      ],
+      "finding": "The raw edge borrows antaḥ from 6.2.14, whose sūtra is mātropajñopakramacchāye napuṃsake. 6.2.143 is antaḥ, expressly an adhikāra in Kāśikā. Preserve the wrong raw reference and record the correction separately."
+    },
+    {
+      "id": "exclude-padasya-at-upadhayam",
+      "source": "8.1.16",
+      "target": "8.2.78",
+      "action": "exclude",
+      "expected_edges": 1,
+      "finding": "The publisher ad field carries padasya here, but Tattvabodhinī expressly rejects that inheritance for kūrdate/gūrdate. The adopted reading uses root-upadhā, not word-finality.",
+      "evidence": [
+        {
+          "path": "sutraani/tattvabodhini.txt",
+          "key": "82078",
+          "anchor": "पदस्येत्यननुवृत्त्या कूर्दते"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "82078",
+          "anchor": "धातोरुपधाभूतौ यौ रेफवकारौ"
+        }
+      ]
+    }
+  ],
+  "raw_source_modified": false,
+  "unknown_scope_behavior": "exclude and report; never imply mandatory or optional action"
+}

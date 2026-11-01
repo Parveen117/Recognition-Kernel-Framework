@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 1 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG3 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
+Index update: 1 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG4 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -83,6 +83,19 @@ explicitly supersede PG2's jhi deletion and T82's lakāra expectations, and
 qualify T81's vowel savarṇa table. Frozen predecessor packets are retained;
 full grammar, independent soundness, CI, main merge and calculator integration
 remain open or deferred.
+
+[PG4: executable scopes and further root derivations](research/panini_grammar/scoped_derivations/README.md)
+binds 19 reviewed records to source terms and applies seven commentary policies
+to 347 inherited edges. It extends existing-root nasal processing, tuk options,
+contact rules with explicit prohibitions, voicing and the original-root domain
+of 8.2.78. Its new scope correction excludes inherited पदस्य at 8.2.78 under
+the adopted Tattvabodhinī reading. There are 71 local cases, including 11
+intentional unresolved/partial outcomes; the lexical diagnostic has 2,219
+agreements, eight differences and two unresolved teaching forms. This is not
+all-sūtra compilation or a Sanskrit soundness oracle. Source-bound records,
+reused operations and full rule completeness are distinguished in the
+[remaining-work register](research/panini_grammar/scoped_derivations/REMAINING.md).
+Frozen predecessor packets, the operator engine and the calculator are unchanged.
 
 ## Śaiva sources and the sūtra as an instruction: Theorems 78–82
 
