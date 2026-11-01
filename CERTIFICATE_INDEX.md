@@ -1059,6 +1059,22 @@ proof_lab/test_lot_lin_parasmaipada_compiled.py
 proof_lab/LOT_LIN_PARASMAIPADA_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 97 Lṛṭ and Luṭ Parasmaipada Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | lṛṭ (sya, iṭ by 7.2.35 / 7.2.58, 7.3.84 guṇa, 6.1.78, 8.3.59) of bhū, gam, nī and luṭ (tās, 2.4.85 ḍā / rau / ras, 6.4.143, 7.4.50, 7.4.51) of bhū, nī: 45 forms; each stage breaks exactly its cells; 7.2.58 load-bearing on gam only; gam's luṭ refused |
+| Status | `PASS_LRT_LUT_PARASMAIPADA_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `0d245b9d5254260fb1074afd6344c73b3a7ff532c256bc12ad227d8858182875` |
+| Boundary | seṭ / aniṭ declared; lṛṅ, luṅ, liṭ, ātmanepada, other roots not claimed; stage orders declared pipelines |
+
+```text
+theorum/97_lrt_lut_parasmaipada_compiled_theorem.md
+proof_lab/lrt_lut_parasmaipada_compiled.py
+proof_lab/test_lrt_lut_parasmaipada_compiled.py
+proof_lab/LRT_LUT_PARASMAIPADA_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
