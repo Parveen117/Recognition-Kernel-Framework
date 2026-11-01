@@ -1235,6 +1235,22 @@ proof_lab/test_krt_ghan_lyut_nvul_satr_compiled.py
 proof_lab/KRT_GHAN_LYUT_NVUL_SATR_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 108 yaṅ Intensives Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | bobhūyate, pāpacyate, cekrīyate, dedīpyate, nenīyate, jaṅgamyate by 3.1.22 / 1.3.12 with 7.4.27, 6.1.9 on theorum/102's abhyāsa carrier, 7.4.82, 7.4.83 with its apavāda 7.4.85 (+ 8.3.24, 8.4.58), 1.1.5, 3.4.79; each rule breaks exactly the forms stated; 7.4.59 recorded vacuous |
+| Status | `PASS_YAN_INTENSIVE_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `f1fbe2ff7939e7746529fc134269de3bdd6524026bf7a5b4057587900cfb83f2` |
+| Boundary | yaṅ-luk, other persons / lakāras, the 7.4.84–92 augments not claimed |
+
+```text
+theorum/108_yan_intensive_compiled_theorem.md
+proof_lab/yan_intensive_compiled.py
+proof_lab/test_yan_intensive_compiled.py
+proof_lab/YAN_INTENSIVE_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |

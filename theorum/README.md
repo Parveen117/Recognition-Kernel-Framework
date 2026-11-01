@@ -83,6 +83,7 @@ The advanced numbered surface now runs through Theorem 80:
 33. **105 — ṇic causatives.** Twelve roots with ṇic in laṭ (36 forms): 7.2.115/7.2.116 vṛddhi, 6.4.92 mitāṁ hrasvaḥ (gamayati), 7.3.36 puk / 7.3.37 yuk, 7.3.86 laghūpadha guṇa, 7.3.84 + 6.1.78 before śap; each rule on exactly its forms.
 34. **106 — san desideratives.** Nine roots with san in laṭ 3s: 6.1.9 on Theorem 102's abhyāsa carrier + 7.4.79, iṭ by 7.2.35/7.2.10/7.2.58, 1.2.9 kit, 6.4.16 + 7.1.100 + 8.2.77 (cikīrṣati), 8.3.59, 8.2.30, 7.4.54/49/58 (ditsati), 1.3.57 (jijñāsate); each rule on exactly its forms.
 35. **107 — kṛt ghañ / lyuṭ / ṇvul / śatṛ.** Nineteen words: bhāva, pāka, yoga (7.2.115/116, 7.3.52), bhavana, karaṇa (7.1.1, 7.3.84, 8.4.2), kāraka, pācaka, bhavat, gacchat (3.2.124 on Theorem 58's stem); each rule on exactly its words.
+36. **108 — yaṅ intensives.** Six roots with yaṅ in laṭ ātmanepada 3s: 7.4.27 (cekrīyate), 6.1.9 on Theorem 102's abhyāsa, 7.4.82 guṇa, 7.4.83 / 7.4.85 nuk + 8.3.24 + 8.4.58 (jaṅgamyate), 1.1.5, 3.4.79; each rule on exactly its forms.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -130,7 +131,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-107                           PRESENT
+NUMBERED THEOREM FILES 01-108                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT

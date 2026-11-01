@@ -154,6 +154,7 @@ Use the audited [publication copy](theorum/morphic_algebra/main.tex) for mathema
 | ṇic causatives | [T105](theorum/105_nic_causative_compiled_theorem.md) | 12 roots × laṭ 3s/3p/1s: 7.2.115/116, 6.4.92, 7.3.36/37, 7.3.86, 7.3.84 + 6.1.78; each rule on exactly its forms |
 | san desideratives | [T106](theorum/106_san_desiderative_compiled_theorem.md) | 9 roots, laṭ 3s: 6.1.9 on 102's abhyāsa + 7.4.79, 7.2.35/10/58, 1.2.9, 6.4.16 + 7.1.100 + 8.2.77, 8.3.59, 8.2.30, 7.4.54/49/58, 1.3.57; each rule on exactly its forms |
 | Kṛt ghañ / lyuṭ / ṇvul / śatṛ | [T107](theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md) | 19 words: 7.1.1, 7.2.115/116, 7.3.52, 7.3.84/86, 6.1.78, 8.4.2, 6.1.97; śatṛ on 58's present stem; each rule on exactly its words |
+| yaṅ intensives | [T108](theorum/108_yan_intensive_compiled_theorem.md) | 6 roots, laṭ Ā 3s: 7.4.27, 6.1.9 on 102's abhyāsa, 7.4.82, 7.4.83 / 7.4.85 + 8.3.24 + 8.4.58, 1.1.5, 3.4.79; each rule on exactly its forms |
 | Pāṇinian cut-module algebra | [T56](theorum/56_canvas_operators_nativized_theorem.md), [T58](theorum/58_paninian_seam_calculus_theorem.md), [T60](theorum/60_seam_compensated_confluence_verdict_theorem.md), [T61](theorum/61_rewrite_rules_as_cut_module_operators_theorem.md) | finite declared carriers and rule sets |
 | Grammar carriers | [T63–68](#theorems-58-77-paninian-domain-yang-mills-tool-and-semantic-chain) | exact finite nominal, verbal, sandhi, and kāraka/vibhakti carriers |
 | Obligation and evidence ladders | [T69](theorum/69_mimamsa_obligation_closure_theorem.md), [T70](theorum/70_angatva_pramana_ladder_theorem.md) | declared Mīmāṃsā/pramāṇa finite models |
@@ -401,6 +402,7 @@ The register below distinguishes theorem capsules from plans, source maps, certi
 | 105 | [ṇic Causatives Compiled](theorum/105_nic_causative_compiled_theorem.md) | sanādyanta; 12 roots × 3 cells |
 | 106 | [san Desideratives Compiled](theorum/106_san_desiderative_compiled_theorem.md) | sanādyanta; 9 roots, laṭ 3s |
 | 107 | [Kṛt ghañ / lyuṭ / ṇvul / śatṛ Compiled](theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md) | kṛt nominalisations; 19 words |
+| 108 | [yaṅ Intensives Compiled](theorum/108_yan_intensive_compiled_theorem.md) | sanādyanta; 6 roots, laṭ ātmanepada 3s |
 
 ## 7. Parallel theorem registers
 
