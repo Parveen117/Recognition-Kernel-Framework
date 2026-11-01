@@ -16,6 +16,7 @@ overwriting its expected hashes.
 | R3 structure report | `node research/structure_report/verify.cjs --check` and `node research/structure_report/mutate.cjs` |
 | R4 declared-pairing repair | `node research/structure_report/r4/verify.cjs --check` and `node research/structure_report/r4/mutate.cjs` |
 | SS1 sectoral signals | `node research/sectoral_signal/verify.cjs --check` |
+| SP1 cycle-memory examples and dependencies | `python research/spanda_recognition/check_examples.py` |
 | Historical November integration snapshot | `python scripts/verify_pending_integration.py` |
 
 The integration audit checks the recorded snapshot's ancestry and source bytes.
@@ -32,7 +33,8 @@ campaigns are separate from these bounded checks.
 
 [Repository checks](.github/workflows/repository-checks.yml) always checks the
 mathematics navigation and public-release text. It selects existing engine,
-memory, structure and SS1 checks from the changed paths. A manual invocation runs those bounded checks
+memory, structure, SS1 and SP1 checks from the changed paths. SP1 also follows
+its declared dependency pins. A manual invocation runs those bounded checks
 together. Its token has read-only repository permission.
 
 The older [proof-lab campaign](.github/workflows/rkf-proof-lab-ci.yml) is

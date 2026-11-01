@@ -50,7 +50,7 @@ scope and the distinction between routine CI and historical campaign replay.
 | Location | Role |
 |---|---|
 | [`operator_foundation/`](operator_foundation/README.md) | Single active operator engine: exact cut arithmetic, paths, Laurent/jet modules, Pāṇinian compilation, regular models and weighted completion. |
-| [`research/`](research/) | Additive research packets: [R1/R2 returns](research/recognition_return/README.md), [R3/R4 structure and repair](research/structure_report/README.md), [lambda counting](research/lambda_counting/README.md), and [SS1 signals](research/sectoral_signal/README.md). |
+| [`research/`](research/) | Additive research packets: [R1/R2 returns](research/recognition_return/README.md), [R3/R4 structure and repair](research/structure_report/README.md), [lambda counting](research/lambda_counting/README.md), [SS1 signals](research/sectoral_signal/README.md), and [SP1 cycle memory](research/spanda_recognition/README.md). |
 | [`papers/rkf_completed_weil_endpoint/`](papers/rkf_completed_weil_endpoint/README.md) | Endpoint paper and source-energy development through SE49, with dated scopes and corrections. |
 | [`theorum/`](theorum/README.md) · [`theorems/foundation/`](theorems/foundation/) | T01–T77, parallel theorem families and foundation capsules. Existing source paths are preserved. |
 | [`proof_lab/`](proof_lab/) · [`certificates/`](CERTIFICATE_INDEX.md) | Implementations, finite checks, immutable evidence and reproducibility contracts. |

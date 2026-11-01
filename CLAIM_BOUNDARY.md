@@ -116,6 +116,22 @@ review, or proof-assistant verification. Its finite PASS does not certify every
 claim in Morphic Algebra or Morphic Calculus. MR-07 supersedes only the specified
 holonomy scaling statement; nearby Euler/BCH claims remain excluded.
 
+## SP1 cycle-memory development
+
+The [SP1 packet](research/spanda_recognition/README.md) proves a reset
+criterion for a supplied affine memory loop over a rational algebra, an
+observer criterion for a linear cycle count on a finite cut-field carrier,
+and compatibility with an explicitly declared zero-specialization. That
+specialization can hide the obstruction and the count. Direct exact examples
+check the displayed fixtures; they are not proof-assistant verification.
+
+Its operator catalogue, memory increments and repeatability are assumptions.
+The packet supplies no physical duration, empirical device identification,
+universal motion-selection law or external novelty claim. Philosophical
+sources motivate the questions and are separate from the mathematical proof.
+See the [scope](research/spanda_recognition/SCOPE.md) and
+[validation record](research/spanda_recognition/VALIDATION.md).
+
 ## Recognition Kernel interpretation
 
 The current public cartridge demonstrates the RNKE pattern on mathematical proof transport:

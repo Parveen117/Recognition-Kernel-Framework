@@ -70,6 +70,9 @@ jobs:
               'theorum/thermodynamics/10_thermodynamic_cut_square_response_decomposition.md',
               'theorum/thermodynamics/09_scope_exclusions.md',
           }
+          sp1_inputs = set(json.loads(Path(
+              'research/spanda_recognition/SOURCE_PINS.json'
+          ).read_text())['sha256'])
           scopes = {
               'engine': runtime or any(
                   path.startswith('operator_foundation/')
@@ -85,6 +88,9 @@ jobs:
                     or bool(changed & shared_structure),
               'ss1': runtime or native or under('research/sectoral_signal/')
                      or bool(changed & signal_inputs),
+              'sp1': under('research/spanda_recognition/')
+                     or bool(changed & sp1_inputs)
+                     or '.github/workflows/repository-checks.yml' in changed,
           }
           scopes = {name: full or selected for name, selected in scopes.items()}
           with open(os.environ['GITHUB_OUTPUT'], 'a') as output:
@@ -132,3 +138,6 @@ jobs:
       - name: Check SS1 sectoral signals
         if: steps.scope.outputs.ss1 == 'true'
         run: node research/sectoral_signal/verify.cjs --check
+      - name: Check SP1 cycle-memory examples and source pins
+        if: steps.scope.outputs.sp1 == 'true'
+        run: python research/spanda_recognition/check_examples.py

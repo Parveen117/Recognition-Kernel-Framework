@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 1 November 2026; integrated MR-04–MR-07, R3–R4, SS1 and SE1–SE49. The canonical operator engine remains version 0.5.
+Index update: 1 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49 and SP1. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -19,6 +19,28 @@ Yang–Mills mass gap remain open; research integration does not close them.
 Read the [native primitive order](operator_foundation/theory/NATIVE_PRIMITIVE_ORDER.md), [algebra and observer contracts](operator_foundation/theory/01_NATIVE_ALGEBRA.md), [completion and memory](operator_foundation/theory/02_COMPLETION_AND_MEMORY.md), [Laurent/jet repair](operator_foundation/theory/NATIVE_LAURENT_JET_REPAIR.md), [Pāṇinian symbolic compiler](operator_foundation/theory/PANINIAN_OPERATOR_COMPILER.md), [automatic normal basis and regular action](operator_foundation/theory/AUTOMATIC_REGULAR_MODEL.md), then [weighted operator completion and certified response](operator_foundation/theory/WEIGHTED_OPERATOR_COMPLETION.md).
 
 The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [source index](operator_foundation/SOURCE_INDEX.md), and [master certificate](operator_foundation/audit/MASTER_CERTIFICATE.json) bind this route. The public source archive at `operator_foundation/sources/rkf_reference` includes the corrected T50/T54 edition and full Morphic/Pāṇinian source directories. Use that corrected source where the older root version differs. This does not silently overwrite old source-pinned files.
+
+## SP1: cyclic return, transported Smriti and observable event count
+
+[SP1](research/spanda_recognition/README.md) develops a supplied full-family
+affine memory extension motivated by questions about dance, activity and
+recognition. Its [six proof groups](research/spanda_recognition/THEOREM.md)
+identify the reset obstruction `[b]` in `M/im(I-H)` for a cycle `m -> Hm+b`.
+Over a rational algebra, nonzero obstruction excludes every finite-period
+memory state. A finite cut-field carrier admits an invariant scalar event
+count; its accessibility to an observer has an exact row-space criterion.
+MR-04 supplies future-bank closure after known affine offsets are removed.
+
+A three-level jet example returns its source after four quarter-turn steps
+while retaining `n epsilon e_2 + binomial(n,2) epsilon^2 e_1`. Its construction
+commutes with zero-specialization, which nevertheless hides both obstruction
+and count. [Sources](research/spanda_recognition/SOURCES.md),
+[dependency pins](research/spanda_recognition/SOURCE_PINS.json),
+[scope](research/spanda_recognition/SCOPE.md) and
+[actual validation](research/spanda_recognition/VALIDATION.md) separate the
+written proof, direct exact controls, philosophical motivation and existing
+mathematical lineage. No physical time law or external novelty is asserted.
+The shared engine and frozen evidence remain unchanged.
 
 ## Observer innovations SE49: quantitative convergence and eta zero on V_24
 
