@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG13 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
+Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG14 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -9,7 +9,8 @@ The [1 November integration record](research-history/PENDING_WORK_2026_11_01.md)
 reconciles every branch in the recorded snapshot, preserves all scientific source
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
-Python 3.12 navigation check passes. RH, global eta-zero positivity, K0 and the
+Python 3.12 navigation result recorded for that integration is passing;
+PG14's rerun is deferred as recorded below. RH, global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
 ## Active operator-engine route
@@ -323,6 +324,47 @@ includes further causative exceptions, semantic pada contexts, wider
 formations and the full native operator lift with typed zero-specialization
 compatibility. Quantum-calculator integration remains open. PG1–PG12 are
 frozen; hosted CI and main merging remain deferred.
+
+## PG14: mathematical grammar, meaning-to-form and native history operators
+
+[PG14](research/panini_grammar/grammar_construction/README.md) develops the
+written grammar before another implementation/test batch. Its
+[state and composition construction](research/panini_grammar/grammar_construction/STATE_AND_COMPOSITION.md)
+retains source evidence, semantic predicates, owned constituents, optional
+branches, rule-relative visibility and open obligations. Local soundness
+composes; completeness requires the stated factorization and local-coverage
+hypotheses.
+
+[Voice and pada](research/panini_grammar/grammar_construction/VOICE_AND_PADA.md)
+derive causee kāraka, causative permission and pada on twelve identified
+root/sense frames, with principal-result semantics, 1.3.77 optionality and
+1.3.86–89 exceptions. Karma-passive agreement follows the expressed karman;
+bhāva uses default 3sg even with plural agents. The
+[written derivations](research/panini_grammar/grammar_construction/DERIVATIONS.md)
+include complete thematic A ending chains, causative A and kriyate/hriyate,
+with marker ownership and Tripādī history preserved.
+
+The [native operator lift](research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md)
+constructs a free noncommutative cut-path coefficient algebra over the native
+cut field, history cuts, a declared algebra-valued pairing and lawful typed
+rule operators. Its augmentation proves exact zero-recovery of the same
+labelled classical derivations; the complementary-channel example shows
+why observation compression is a different operation. This establishes an
+admitted algebraic instance, not all native carriers, all Sanskrit rule
+interpretations or an adapter already implemented by the older Python code.
+
+[Sources](research/panini_grammar/grammar_construction/SOURCE_REVIEW.md) and
+[pins](research/panini_grammar/grammar_construction/SOURCE_PINS.json) identify
+the adopted readings. [Claude review](research/panini_grammar/grammar_construction/CLAUDE_REVIEW.md)
+reads T110/T112–117 and qualifies bhāva plural licensing and T114's
+similarity-sense description. The
+[work record](research/panini_grammar/grammar_construction/WORK_RECORD.md)
+records written proofs and source reading; Python tests, including the
+navigation suite, are deferred under the owner's current instruction.
+PG1–PG13's implemented coverage, theorem packets and certificates remain
+unchanged. [Remaining work](research/panini_grammar/grammar_construction/REMAINING.md)
+keeps wider grammar and runtime/native integration open. CI and main merge
+remain deferred.
 
 ## Śaiva sources and the sūtra as an instruction: Theorems 78–82
 

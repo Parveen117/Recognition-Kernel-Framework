@@ -138,6 +138,23 @@ T89 repair statically; no companion certificate is replayed.
 contexts, further formations and native integration. PG1–PG12 evidence
 is frozen; CI and main merging stay deferred.
 
+**Mathematical construction before further test batches:**
+[PG14](grammar_construction/README.md) connects interpreted events to kāraka,
+voice, pada, agreement and owned word derivations. Its written twelve-root
+causative domain derives ṇic/pada permission from the frame, including
+1.3.77 optionality and 1.3.86–89 exceptions. It separates patient agreement
+from bhāva's default 3sg, derives thematic A endings and adds the written
+kriyate/hriyate paths. The [native construction](grammar_construction/NATIVE_OPERATOR_LIFT.md)
+supplies a noncommutative cut-path operator instance with pairing,
+complementary channels and a proof of exact history-bearing zero-recovery.
+This is an explicit model, not an implementation of all grammar rules or
+all native operator families. [Claude review](grammar_construction/CLAUDE_REVIEW.md)
+uses T110/T112–117 and records the bhāva agreement and asādṛśya qualifications.
+[Work record](grammar_construction/WORK_RECORD.md) states that Python tests
+are deferred under the owner's grammar-first instruction; prior executable
+coverage and frozen packets are unchanged. [Remaining mathematical work](grammar_construction/REMAINING.md)
+starts with wider causative frames and derived-stem passives.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
