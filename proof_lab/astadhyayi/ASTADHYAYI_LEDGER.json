@@ -10,12 +10,12 @@
   ],
   "counts": {
     "compiled": 10,
-    "meta": 72,
-    "hand_coded": 140,
-    "cited": 51,
+    "meta": 76,
+    "hand_coded": 143,
+    "cited": 50,
     "misnumbered": 2,
-    "entries": 275,
-    "text_missing": 21,
+    "entries": 281,
+    "text_missing": 22,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
     "iast_mismatch_with_pinned_edition": 0
@@ -93,10 +93,14 @@
       "text_devanagari": "क्ङिति च",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "hand_coded",
+      "theorems": [
+        "T100"
+      ],
       "cited_in": [
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/paninian_seam_calculus.py",
+        "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md"
       ]
     },
@@ -377,6 +381,7 @@
       ],
       "cited_in": [
         "proof_lab/ghi_stem_sup_compiled.py",
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/paninian_instruction_format.py",
@@ -396,6 +401,7 @@
         "T90"
       ],
       "cited_in": [
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/paninian_instruction_format.py",
         "proof_lab/r_stem_sup_compiled.py",
@@ -714,12 +720,15 @@
       "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
-        "T85"
+        "T85",
+        "T100"
       ],
       "cited_in": [
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
         "proof_lab/tripadi_nishtha_compiled.py",
+        "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md"
@@ -754,6 +763,7 @@
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
         "proof_lab/ghi_stem_sup_compiled.py",
         "proof_lab/hal_stem_sup_compiled.py",
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lot_lin_parasmaipada_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
@@ -767,6 +777,7 @@
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "proof_lab/tripadi_nishtha_compiled.py",
+        "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md",
@@ -918,6 +929,7 @@
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
         "proof_lab/ghi_stem_sup_compiled.py",
         "proof_lab/hal_stem_sup_compiled.py",
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lat_atmanepada.py",
         "proof_lab/lopa_ledger_contraction.py",
@@ -939,6 +951,7 @@
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "proof_lab/ting_lat_parasmaipada.py",
         "proof_lab/tripadi_nishtha_compiled.py",
+        "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/62_silence_vibration_sutra_flow_theorem.md",
@@ -1611,6 +1624,20 @@
         "theorum/85_nirukta_nama_akhyatajani_theorem.md"
       ]
     },
+    "3.1.96": {
+      "text": "tavyattavyānīyaraḥ",
+      "text_devanagari": "तव्यत्तव्यानीयरः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T100"
+      ],
+      "cited_in": [
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
+        "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md"
+      ]
+    },
     "3.1.133": {
       "text": "ṇvultṛcau",
       "text_devanagari": "ण्वुल्तृचौ",
@@ -1666,6 +1693,20 @@
       "cited_in": [
         "proof_lab/ting_lat_parasmaipada.py",
         "theorum/64_ting_lat_parasmaipada_theorem.md"
+      ]
+    },
+    "3.3.10": {
+      "text": "tumunṇvulau kriyāyāṁ kriyārthāyām",
+      "text_devanagari": "तुमुन्ण्वुलौ क्रियायां क्रियार्थायाम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T100"
+      ],
+      "cited_in": [
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
+        "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md"
       ]
     },
     "3.3.13": {
@@ -1749,6 +1790,20 @@
       "cited_in": [
         "proof_lab/stem_classes_gayatri_coverage.py",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md"
+      ]
+    },
+    "3.4.21": {
+      "text": "samānakartṛkayoḥ pūrvakāle",
+      "text_devanagari": "समानकर्तृकयोः पूर्वकाले",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T100"
+      ],
+      "cited_in": [
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
+        "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md"
       ]
     },
     "3.4.69": {
@@ -2278,6 +2333,7 @@
       "level": "cited",
       "theorems": [],
       "cited_in": [
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/paninian_it_samjna_compiled.py",
         "theorum/82_paninian_it_samjna_compiled_theorem.md"
@@ -2470,11 +2526,13 @@
         "T91",
         "T94",
         "T97",
-        "T98"
+        "T98",
+        "T100"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
         "proof_lab/ghi_stem_sup_compiled.py",
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lat_atmanepada.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
@@ -2486,6 +2544,7 @@
         "proof_lab/shaiva_sources_nativized.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
@@ -2977,11 +3036,14 @@
       "level": "hand_coded",
       "theorems": [
         "T85",
-        "T86"
+        "T86",
+        "T100"
       ],
       "cited_in": [
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
+        "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md"
       ]
@@ -3128,7 +3190,9 @@
         "T97"
       ],
       "cited_in": [
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
+        "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -3375,6 +3439,17 @@
         "theorum/93_napumsaka_sup_compiled_theorem.md"
       ]
     },
+    "7.1.37": {
+      "text": "",
+      "text_devanagari": "समासेऽनञ्पूर्वे क्त्वो ल्यप्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py"
+      ]
+    },
     "7.1.52": {
       "text": "āmi sarvanāmnaḥ suṭ",
       "text_devanagari": "आमि सर्वनाम्नः सुट्",
@@ -3496,19 +3571,36 @@
       "text_devanagari": "एकाच उपदेशेऽनुदात्तात्",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "hand_coded",
+      "level": "meta",
       "theorems": [
         "T85",
-        "T86"
+        "T86",
+        "T100"
       ],
       "cited_in": [
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
         "proof_lab/tripadi_nishtha_compiled.py",
+        "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
+      ]
+    },
+    "7.2.11": {
+      "text": "śryukaḥ kiti",
+      "text_devanagari": "श्र्युकः किति",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T100"
+      ],
+      "cited_in": [
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
+        "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md"
       ]
     },
     "7.2.35": {
@@ -3518,12 +3610,27 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T97"
+        "T97",
+        "T100"
       ],
       "cited_in": [
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
+      ]
+    },
+    "7.2.56": {
+      "text": "",
+      "text_devanagari": "उदितो वा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
+        "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md"
       ]
     },
     "7.2.58": {
@@ -3682,9 +3789,11 @@
         "T66",
         "T80",
         "T89",
-        "T97"
+        "T97",
+        "T100"
       ],
       "cited_in": [
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lat_atmanepada.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
@@ -3694,6 +3803,7 @@
         "proof_lab/paninian_samjna_sound_layer.py",
         "proof_lab/paninian_seam_calculus.py",
         "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
@@ -4395,14 +4505,18 @@
       ]
     },
     "8.3.24": {
-      "text": "",
+      "text": "naś cāpadāntasya jhali",
       "text_devanagari": "नश्चापदान्तस्य झलि",
       "in_pinned_edition": true,
-      "iast_matches_pinned_edition": null,
-      "level": "cited",
-      "theorems": [],
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T100"
+      ],
       "cited_in": [
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
+        "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -4662,11 +4776,15 @@
       "text_devanagari": "अनुस्वारस्य ययि परसवर्णः",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "hand_coded",
+      "theorems": [
+        "T100"
+      ],
       "cited_in": [
+        "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/shaiva_sources_nativized.py",
+        "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },

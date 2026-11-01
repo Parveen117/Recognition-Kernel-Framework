@@ -1107,6 +1107,22 @@ proof_lab/test_atmanepada_lan_lot_lin_compiled.py
 proof_lab/ATMANEPADA_LAN_LOT_LIN_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 100 The Kṛt Affixes ktvā, tumun, tavya from the Pinned Roots packet
+
+| Field | Value |
+|---|---|
+| Certificate class | ktvā, tumun, tavya of bhū, gam, kṛ, śru, nī, hu (18 forms): iṭ by 7.2.35 against 7.2.11, guṇa by 7.3.84 against 1.1.5, gam's nasal by 6.4.37 against 8.3.24 / 8.4.58; each rule breaks exactly the forms stated; gantā realized |
+| Status | `PASS_KRT_KTVA_TUMUN_TAVYA_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `2f0229cf938ac80b60dc5e7b11904ede4275b8cb58eb8f3c52ab10cd6465ced9` |
+| Boundary | bhū's seṭ status declared; lyap, anīyar, ṇvul, 7.2.56 option, other roots not claimed |
+
+```text
+theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md
+proof_lab/krt_ktva_tumun_tavya_compiled.py
+proof_lab/test_krt_ktva_tumun_tavya_compiled.py
+proof_lab/KRT_KTVA_TUMUN_TAVYA_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
