@@ -979,6 +979,22 @@ proof_lab/test_ghi_stem_sup_compiled.py
 proof_lab/GHI_STEM_SUP_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 92 Consonant-stem sup packet
+
+| Field | Value |
+|---|---|
+| Certificate class | rājan, ātman, marut (66 forms) through 1.4.17 pada / 1.4.18 bha, 6.4.8, 6.1.68, 8.2.7 / 8.2.8, 6.4.134 / 6.4.136 / 6.4.137, 8.4.40, 8.2.39 / 8.4.55 / 8.4.56, pause rules; pada and bha break exactly their cells; 6.4.137 control (*ātmnaḥ); pada not load-bearing on marutsu (recorded) |
+| Status | `PASS_HAL_STEM_SUP_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `e1f6ab512415adf1632311d5d915e3cd85ed2b20a9229011be4cfa67d677330c` |
+| Boundary | other consonant stems, neuters, option mechanics of 6.4.136 not claimed; stems declared prātipadikas; stage order a declared pipeline |
+
+```text
+theorum/92_hal_stem_sup_compiled_theorem.md
+proof_lab/hal_stem_sup_compiled.py
+proof_lab/test_hal_stem_sup_compiled.py
+proof_lab/HAL_STEM_SUP_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |

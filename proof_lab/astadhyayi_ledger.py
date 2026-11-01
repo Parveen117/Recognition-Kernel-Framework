@@ -82,6 +82,8 @@ def _norm(s: str) -> str:
 
 # ---------------------------------------------------------------- curated texts (IAST); blank = not yet entered
 TEXT = {
+    "1.4.17": "svādiṣv asarvanāmasthāne", "1.4.18": "yaci bham", "8.2.8": "na ṅisambuddhyoḥ", "6.4.129": "bhasya", "6.4.134": "allopo 'naḥ", "6.4.136": "vibhāṣā ṅiśyoḥ",
+    "6.4.137": "na saṁyogād vamantāt", "8.4.55": "khari ca",
     "1.2.45": "arthavad adhātur apratyayaḥ prātipadikam", "1.4.7": "śeṣo ghy asakhi", "7.3.111": "gher ṅiti", "7.3.119": "ac ca gheḥ", "7.3.120": "āṅo nāstriyām",
     "7.3.108": "hrasvasya guṇaḥ", "7.3.109": "jasi ca", "6.1.110": "ṅasiṅasoś ca", "8.4.2": "aṭkupvāṅnumvyavāye 'pi", "8.4.37": "padāntasya",
     "1.1.53": "ṅic ca", "6.4.8": "sarvanāmasthāne cāsambuddhau", "6.4.11": "aptṛntṛcsvasṛnaptṛneṣṭṛtvaṣṭṛkṣattṛhotṛpotṛpraśāstṝṇām", "7.3.110": "ṛto ṅi sarvanāmasthānayoḥ",
@@ -155,6 +157,7 @@ META = {  # interpreter / saṁjñā / paribhāṣā sūtras implemented by a ce
     "89": ["1.4.3", "3.4.114", "8.3.57", "1.1.46", "1.1.56"],
     "90": ["1.1.42", "1.1.43", "1.1.53", "8.3.57"],
     "91": ["1.2.45", "1.4.7"],
+    "92": ["1.4.14", "1.4.17", "1.4.18", "1.1.42", "1.1.43", "6.4.129"],
     "85": ["1.2.46", "3.1.93", "1.4.14"],
     "82": ["1.3.1", "1.3.2", "1.3.3", "1.3.4", "1.3.5", "1.3.6", "1.3.7", "1.3.8", "1.3.9", "1.1.60", "1.1.46", "1.1.47", "3.1.1", "3.1.2", "1.4.13", "6.4.1", "1.4.104"],
     "81": ["1.1.7", "1.1.8", "1.1.9", "1.1.10", "1.1.11", "6.1.125", "1.1.64", "1.1.65", "1.1.72"],
@@ -168,6 +171,7 @@ HAND_CODED = {  # exact finite functions in certified packets: the numbers each 
     "85": ["6.4.37", "7.2.10"],
     "86": ["6.1.64", "6.4.37", "7.2.10"],
     "87": ["8.2.30", "8.2.40", "8.2.42", "8.2.44", "8.4.53"],
+    "92": ["6.4.8", "6.1.68", "8.2.7", "8.2.8", "6.4.134", "6.4.136", "6.4.137", "8.4.40", "8.2.39", "8.4.55", "8.4.56", "8.2.66", "8.3.15"],
     "91": ["7.3.111", "7.3.119", "7.3.120", "7.3.108", "7.3.109", "6.1.110", "6.1.102", "6.1.103", "6.1.107", "6.1.77", "6.1.78", "6.1.88", "7.1.54", "6.4.3", "8.4.1", "8.4.2", "8.4.37", "6.1.69", "8.3.59", "8.2.66", "8.3.15"],
     "90": ["7.1.94", "6.4.8", "6.4.11", "7.3.110", "1.1.51", "6.1.111", "8.2.24", "6.1.102", "6.1.103", "6.1.77", "7.1.54", "6.4.3", "8.4.1", "8.3.59", "6.1.68", "8.2.7", "8.2.66", "8.3.15"],
     "89": ["4.1.5", "3.1.133", "7.3.84", "1.1.51", "6.1.64", "7.3.112", "7.3.116", "7.1.54", "7.3.107", "6.1.68", "6.1.69", "6.1.77", "6.1.102", "6.1.105", "6.1.107", "6.1.88", "6.1.101", "8.3.59", "8.2.66", "8.3.15"],
@@ -180,7 +184,7 @@ HAND_CODED = {  # exact finite functions in certified packets: the numbers each 
     "67": ["6.1.87", "6.1.113", "6.1.114", "6.4.77", "7.2.102", "7.2.106", "8.1.21", "8.2.1", "8.2.66", "8.3.15", "8.3.23"],
     "68": ["1.1.62", "1.4.23", "1.4.24", "1.4.32", "1.4.42", "1.4.45", "1.4.49", "1.4.54", "2.3.1", "2.3.2", "2.3.13", "2.3.18", "2.3.28", "2.3.36", "2.3.46", "2.3.50", "3.4.69"],
 }
-PACKET_OF = {"58": "paninian_seam_calculus", "63": "sup_vibhakti_resolver_ladder", "64": "ting_lat_parasmaipada", "65": "stem_classes_gayatri_coverage", "66": "lat_atmanepada", "67": "pada_to_line_external_sandhi", "68": "karaka_vibhakti_carrier", "80": "paninian_instruction_format", "81": "paninian_samjna_sound_layer", "82": "paninian_it_samjna_compiled", "85": "nirukta_nama_akhyatajani", "86": "nirukta_dhatupatha_nama", "87": "tripadi_nishtha_compiled", "88": "ap_stem_sup_compiled", "89": "ngi_stem_sup_compiled", "90": "r_stem_sup_compiled", "91": "ghi_stem_sup_compiled"}
+PACKET_OF = {"58": "paninian_seam_calculus", "63": "sup_vibhakti_resolver_ladder", "64": "ting_lat_parasmaipada", "65": "stem_classes_gayatri_coverage", "66": "lat_atmanepada", "67": "pada_to_line_external_sandhi", "68": "karaka_vibhakti_carrier", "80": "paninian_instruction_format", "81": "paninian_samjna_sound_layer", "82": "paninian_it_samjna_compiled", "85": "nirukta_nama_akhyatajani", "86": "nirukta_dhatupatha_nama", "87": "tripadi_nishtha_compiled", "88": "ap_stem_sup_compiled", "89": "ngi_stem_sup_compiled", "90": "r_stem_sup_compiled", "91": "ghi_stem_sup_compiled", "92": "hal_stem_sup_compiled"}
 THEOREM_FILE = {
     "56": "theorum/56_canvas_operators_nativized_theorem.md", "58": "theorum/58_paninian_seam_calculus_theorem.md",
     "60": "theorum/60_seam_compensated_confluence_verdict_theorem.md", "61": "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
@@ -199,6 +203,7 @@ THEOREM_FILE = {
     "89": "theorum/89_ngi_stem_sup_compiled_theorem.md",
     "90": "theorum/90_r_stem_sup_compiled_theorem.md",
     "91": "theorum/91_ghi_stem_sup_compiled_theorem.md",
+    "92": "theorum/92_hal_stem_sup_compiled_theorem.md",
 }
 SCAN = [THEOREM_FILE[k] for k in THEOREM_FILE] + ["theorum/70_angatva_pramana_ladder_theorem.md", "theorum/74_lopa_ledger_contraction_theorem.md"]
 NUM = re.compile(r"\b([1-8])\.([1-4])\.([0-9]{1,3})\b")
