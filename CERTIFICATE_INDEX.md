@@ -1011,6 +1011,22 @@ proof_lab/test_napumsaka_sup_compiled.py
 proof_lab/NAPUMSAKA_SUP_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 94 The Sarvanāma Sup Paradigms Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | sarva (22 forms) and tad (21) through 1.1.27, 7.1.17, 7.1.14, 7.1.15, 7.1.52, 7.3.103, 8.3.59, 7.2.102, 7.2.106 with 6.1.97 and theorum/63's a-stem sūtras; the sarvanāma saṁjñā breaks exactly {1p, 4s, 5s, 6p, 7s}; 7.2.102 every cell of tad, 7.2.106 exactly 1s; sambuddhi of tad refused |
+| Status | `PASS_SARVANAMA_SUP_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `1a04614384396443b1eaf0c4bf07da61a822b8cbab3b80315bfd53e96f924152` |
+| Boundary | feminine / neuter pronouns, etad / yad / idam / asmad, the 1.1.34 option cells not claimed; sarva declared from the gaṇa; stage order a declared pipeline |
+
+```text
+theorum/94_sarvanama_sup_compiled_theorem.md
+proof_lab/sarvanama_sup_compiled.py
+proof_lab/test_sarvanama_sup_compiled.py
+proof_lab/SARVANAMA_SUP_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
