@@ -36,6 +36,13 @@ history checks are kept separate from comparison with another implementation.
 Non-thematic stems, infixes and reduplication lead its
 [remaining-work register](vikarana_lat/REMAINING.md).
 
+**Non-thematic laṭ and visibility:** [PG6](non_thematic_lat/README.md) completes
+ten more identified śnu/u/śnā roots: 153 cells and 167 branches across 17
+pada paradigms. It distinguishes strong/weak guṇa, cluster-sensitive junctions,
+optional/mandatory u-loss, and earlier ṇatva from later restored dental n.
+Its [remaining register](non_thematic_lat/REMAINING.md) targets śnam infix
+ownership and class 7 derivation next.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

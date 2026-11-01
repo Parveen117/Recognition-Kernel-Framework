@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 1 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG5 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
+Index update: 1 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG6 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -113,6 +113,22 @@ with non-thematic stems, infixes and reduplication; the
 [validation record](research/panini_grammar/vikarana_lat/VALIDATION.md) preserves
 the source, scope and CI/merge boundaries. This is a linguistic adapter,
 not a new operator or calculator theorem.
+
+[PG6: non-thematic laṭ and retained visibility](research/panini_grammar/non_thematic_lat/README.md)
+completes śnu/u/śnā paths for ten more identified roots: 17 pada paradigms,
+153 cells and 167 branches. Seventeen new source-bound records and three
+local scope decisions support distinct guṇa triggers, cluster-sensitive
+vowel junctions, optional/mandatory u-loss, weak śnā, śru's coupled
+substitution, and a specific 1.1.58/8.2.79 kur length query. The ordered
+phonetic view distinguishes earlier ṇatva from later restored dental n.
+There are 53 literal word cases, eight expected refusals and 54 direct
+controls; the 153-cell software comparison remains separate from traditional
+source evidence. [Source readings](research/panini_grammar/non_thematic_lat/SOURCE_REVIEW.md)
+and [validation](research/panini_grammar/non_thematic_lat/VALIDATION.md) retain
+the exact bounds. [Remaining work](research/panini_grammar/non_thematic_lat/REMAINING.md)
+starts with śnam infix ownership, class 7 strong/weak forms and reduplication.
+General grammar soundness, operator lifting, CI and main merging remain open
+or deferred.
 
 ## Śaiva sources and the sūtra as an instruction: Theorems 78–82
 
