@@ -1251,6 +1251,22 @@ proof_lab/test_yan_intensive_compiled.py
 proof_lab/YAN_INTENSIVE_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 109 Ugit at-Stems Declined packet
+
+| Field | Value |
+|---|---|
+| Certificate class | bhavat, bhagavat, dhīmat declined (22 cells each) on theorum/92's consonant-stem carrier with 7.1.70 num (ugit read from the anunāsika markers by theorum/82, placed by 1.1.47), 6.4.14, 8.2.23, 8.2.9; each new rule breaks exactly its cells; marut control takes no num |
+| Status | `PASS_UGIT_AT_STEM_SUP_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `6588e97cfbc637bdd36e4b89c10be219917ecdef217d0311cbd63b0f92189fd9` |
+| Boundary | feminine, neuter, mahat, vasu- / īyasu-stems not claimed; theorum/92's rules are the carrier |
+
+```text
+theorum/109_ugit_at_stem_sup_compiled_theorem.md
+proof_lab/ugit_at_stem_sup_compiled.py
+proof_lab/test_ugit_at_stem_sup_compiled.py
+proof_lab/UGIT_AT_STEM_SUP_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
