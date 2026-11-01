@@ -14,6 +14,13 @@ It records source contradictions and bounded positive/negative checks while
 leaving full grammar completeness open. Its results do not change PG1's
 historical source pins or the frozen T58–T80 packets.
 
+**After T81/T82:** [PG3](root_progression/README.md) develops source-bounded
+root substitutions, idit num placement and a separate phonetic query over
+2,229 root records. It explicitly corrects the PG2 jhi reading and T82 lakāra
+expectations, records the T81 vowel-table limitation, and preserves all earlier
+packet bytes. Its 2,081 headword agreements are a lexical diagnostic, not a
+grammar-completeness score.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

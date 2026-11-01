@@ -1,0 +1,2056 @@
+{
+  "schema": "rkf.astadhyayi_ledger.v1",
+  "levels": [
+    "compiled",
+    "meta",
+    "hand_coded",
+    "cited",
+    "misnumbered"
+  ],
+  "counts": {
+    "compiled": 10,
+    "meta": 46,
+    "hand_coded": 70,
+    "cited": 43,
+    "misnumbered": 2,
+    "entries": 171,
+    "text_missing": 8,
+    "astadhyayi_total": 3959
+  },
+  "sutras": {
+    "1.1.1": {
+      "text": "vṛddhir ādaic",
+      "level": "meta",
+      "theorems": [
+        "T58",
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/shaiva_sources_nativized.py",
+        "theorum/56_canvas_operators_nativized_theorem.md",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "1.1.2": {
+      "text": "adeṅ guṇaḥ",
+      "level": "meta",
+      "theorems": [
+        "T58",
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/canvas_operators_nativized.py",
+        "proof_lab/paninian_instruction_format.py",
+        "proof_lab/paninian_seam_calculus.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "1.1.3": {
+      "text": "iko guṇavṛddhī",
+      "level": "meta",
+      "theorems": [
+        "T58"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/shaiva_sources_nativized.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md"
+      ]
+    },
+    "1.1.4": {
+      "text": "na dhātulopa ārdhadhātuke",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/canvas_operators_nativized.py",
+        "theorum/58_paninian_seam_calculus_theorem.md"
+      ]
+    },
+    "1.1.5": {
+      "text": "kṅiti ca",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/paninian_seam_calculus.py",
+        "theorum/58_paninian_seam_calculus_theorem.md"
+      ]
+    },
+    "1.1.6": {
+      "text": "dīdhīvevīṭām",
+      "level": "misnumbered",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/canvas_operators_nativized.py",
+        "theorum/56_canvas_operators_nativized_theorem.md"
+      ],
+      "canvas_meant": "1.3.9 tasya lopaḥ"
+    },
+    "1.1.7": {
+      "text": "halo 'nantarāḥ saṁyogaḥ",
+      "level": "meta",
+      "theorems": [
+        "T81"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_samjna_sound_layer.py",
+        "theorum/81_paninian_samjna_sound_layer_theorem.md"
+      ]
+    },
+    "1.1.8": {
+      "text": "mukhanāsikāvacano 'nunāsikaḥ",
+      "level": "meta",
+      "theorems": [
+        "T81"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_samjna_sound_layer.py",
+        "theorum/81_paninian_samjna_sound_layer_theorem.md"
+      ]
+    },
+    "1.1.9": {
+      "text": "tulyāsyaprayatnaṁ savarṇam",
+      "level": "meta",
+      "theorems": [
+        "T81"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_samjna_sound_layer.py",
+        "theorum/81_paninian_samjna_sound_layer_theorem.md"
+      ]
+    },
+    "1.1.10": {
+      "text": "nājjhalau",
+      "level": "meta",
+      "theorems": [
+        "T81"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_samjna_sound_layer.py",
+        "theorum/81_paninian_samjna_sound_layer_theorem.md"
+      ]
+    },
+    "1.1.11": {
+      "text": "īdūdeddvivacanaṁ pragṛhyam",
+      "level": "meta",
+      "theorems": [
+        "T81"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_samjna_sound_layer.py",
+        "theorum/81_paninian_samjna_sound_layer_theorem.md"
+      ]
+    },
+    "1.1.15": {
+      "text": "ot",
+      "level": "misnumbered",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/canvas_operators_nativized.py",
+        "theorum/56_canvas_operators_nativized_theorem.md"
+      ],
+      "canvas_meant": "1.3.9 tasya lopaḥ"
+    },
+    "1.1.27": {
+      "text": "sarvādīni sarvanāmāni",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/58_paninian_seam_calculus_theorem.md"
+      ]
+    },
+    "1.1.35": {
+      "text": "svam ajñātidhanākhyāyām",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/58_paninian_seam_calculus_theorem.md"
+      ]
+    },
+    "1.1.42": {
+      "text": "śi sarvanāmasthānam",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": []
+    },
+    "1.1.43": {
+      "text": "suḍ anapuṁsakasya",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": []
+    },
+    "1.1.44": {
+      "text": "na veti vibhāṣā",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/58_paninian_seam_calculus_theorem.md"
+      ]
+    },
+    "1.1.46": {
+      "text": "ādyantau ṭakitau",
+      "level": "meta",
+      "theorems": [
+        "T80",
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/80_paninian_instruction_format_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.1.47": {
+      "text": "mid aco 'ntyāt paraḥ",
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.1.49": {
+      "text": "ṣaṣṭhī sthāneyogā",
+      "level": "meta",
+      "theorems": [
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "1.1.50": {
+      "text": "sthāne 'ntaratamaḥ",
+      "level": "meta",
+      "theorems": [
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "1.1.51": {
+      "text": "ur aṇ raparaḥ",
+      "level": "meta",
+      "theorems": [
+        "T65",
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "proof_lab/shaiva_sources_nativized.py",
+        "proof_lab/stem_classes_gayatri_coverage.py",
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md",
+        "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "1.1.52": {
+      "text": "alo 'ntyasya",
+      "level": "meta",
+      "theorems": [
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "1.1.54": {
+      "text": "ādeḥ parasya",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": []
+    },
+    "1.1.55": {
+      "text": "anekāl śit sarvasya",
+      "level": "meta",
+      "theorems": [
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "1.1.56": {
+      "text": "sthānivad ādeśo 'nalvidhau",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": []
+    },
+    "1.1.60": {
+      "text": "adarśanaṁ lopaḥ",
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.1.62": {
+      "text": "pratyayalope pratyayalakṣaṇam",
+      "level": "meta",
+      "theorems": [
+        "T58",
+        "T64",
+        "T68"
+      ],
+      "cited_in": [
+        "proof_lab/karaka_vibhakti_carrier.py",
+        "proof_lab/lopa_ledger_contraction.py",
+        "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
+        "theorum/68_karaka_vibhakti_carrier_theorem.md",
+        "theorum/74_lopa_ledger_contraction_theorem.md",
+        "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.1.63": {
+      "text": "na lumatāṅgasya",
+      "level": "hand_coded",
+      "theorems": [
+        "T65"
+      ],
+      "cited_in": [
+        "proof_lab/stem_classes_gayatri_coverage.py",
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md"
+      ]
+    },
+    "1.1.64": {
+      "text": "aco 'ntyādi ṭi",
+      "level": "meta",
+      "theorems": [
+        "T81"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_samjna_sound_layer.py",
+        "theorum/81_paninian_samjna_sound_layer_theorem.md"
+      ]
+    },
+    "1.1.65": {
+      "text": "alo 'ntyāt pūrva upadhā",
+      "level": "meta",
+      "theorems": [
+        "T81"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_samjna_sound_layer.py",
+        "theorum/81_paninian_samjna_sound_layer_theorem.md"
+      ]
+    },
+    "1.1.66": {
+      "text": "tasminn iti nirdiṣṭe pūrvasya",
+      "level": "meta",
+      "theorems": [
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "1.1.67": {
+      "text": "tasmād ity uttarasya",
+      "level": "meta",
+      "theorems": [
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "1.1.68": {
+      "text": "svaṁ rūpaṁ śabdasyāśabdasaṁjñā",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": []
+    },
+    "1.1.69": {
+      "text": "aṇudit savarṇasya cāpratyayaḥ",
+      "level": "meta",
+      "theorems": [
+        "T78",
+        "T79",
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "proof_lab/paninian_samjna_sound_layer.py",
+        "proof_lab/shaiva_sources_nativized.py",
+        "proof_lab/shaiva_sources_varga_crystal.py",
+        "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
+        "theorum/79_shaiva_sources_varga_grid_crystal_theorem.md",
+        "theorum/80_paninian_instruction_format_theorem.md",
+        "theorum/81_paninian_samjna_sound_layer_theorem.md"
+      ]
+    },
+    "1.1.70": {
+      "text": "taparas tatkālasya",
+      "level": "meta",
+      "theorems": [
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "1.1.71": {
+      "text": "ādir antyena sahetā",
+      "level": "meta",
+      "theorems": [
+        "T78"
+      ],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py",
+        "proof_lab/shaiva_sources_varga_crystal.py",
+        "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
+        "theorum/79_shaiva_sources_varga_grid_crystal_theorem.md"
+      ]
+    },
+    "1.1.72": {
+      "text": "yena vidhis tadantasya",
+      "level": "meta",
+      "theorems": [
+        "T81"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_samjna_sound_layer.py",
+        "theorum/81_paninian_samjna_sound_layer_theorem.md"
+      ]
+    },
+    "1.2.4": {
+      "text": "sārvadhātukam apit",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/58_paninian_seam_calculus_theorem.md"
+      ]
+    },
+    "1.2.26": {
+      "text": "ral o vyupadhād dhalādeḥ saṁś ca",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py"
+      ]
+    },
+    "1.2.45": {
+      "text": "arthavad adhātur apratyayaḥ prātipadikam",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/58_paninian_seam_calculus_theorem.md"
+      ]
+    },
+    "1.2.46": {
+      "text": "kṛttaddhitasamāsāś ca",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/58_paninian_seam_calculus_theorem.md"
+      ]
+    },
+    "1.3.1": {
+      "text": "bhūvādayo dhātavaḥ",
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.3.2": {
+      "text": "upadeśe 'janunāsika it",
+      "level": "meta",
+      "theorems": [
+        "T63",
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.3.3": {
+      "text": "halantyam",
+      "level": "meta",
+      "theorems": [
+        "T58",
+        "T63",
+        "T64",
+        "T66",
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py",
+        "proof_lab/mimamsa_obligation_closure.py",
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/shaiva_sources_nativized.py",
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/64_ting_lat_parasmaipada_theorem.md",
+        "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
+        "theorum/80_paninian_instruction_format_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.3.4": {
+      "text": "na vibhaktau tusmāḥ",
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.3.5": {
+      "text": "ādir ñiṭuḍavaḥ",
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.3.6": {
+      "text": "ṣaḥ pratyayasya",
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.3.7": {
+      "text": "cuṭū",
+      "level": "meta",
+      "theorems": [
+        "T63",
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.3.8": {
+      "text": "laśakv ataddhite",
+      "level": "meta",
+      "theorems": [
+        "T58",
+        "T63",
+        "T64",
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/64_ting_lat_parasmaipada_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.3.9": {
+      "text": "tasya lopaḥ",
+      "level": "meta",
+      "theorems": [
+        "T58",
+        "T63",
+        "T64",
+        "T66",
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py",
+        "proof_lab/lopa_ledger_contraction.py",
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/rewrite_rules_as_cut_module_operators.py",
+        "proof_lab/seam_compensated_confluence_verdict.py",
+        "proof_lab/shaiva_sources_nativized.py",
+        "proof_lab/silence_vibration_sutra_flow.py",
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/60_seam_compensated_confluence_verdict_theorem.md",
+        "theorum/62_silence_vibration_sutra_flow_theorem.md",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
+        "theorum/64_ting_lat_parasmaipada_theorem.md",
+        "theorum/74_lopa_ledger_contraction_theorem.md",
+        "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
+        "theorum/80_paninian_instruction_format_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.3.10": {
+      "text": "yathāsaṅkhyam anudeśaḥ samānām",
+      "level": "meta",
+      "theorems": [
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "1.3.12": {
+      "text": "anudāttaṅita ātmanepadam",
+      "level": "hand_coded",
+      "theorems": [
+        "T66"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py",
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/66_lat_atmanepada_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.3.72": {
+      "text": "",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.4.2": {
+      "text": "vipratiṣedhe paraṁ kāryam",
+      "level": "meta",
+      "theorems": [
+        "T58",
+        "T63",
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/rewrite_rules_as_cut_module_operators.py",
+        "proof_lab/seam_compensated_confluence_verdict.py",
+        "proof_lab/silence_vibration_sutra_flow.py",
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/60_seam_compensated_confluence_verdict_theorem.md",
+        "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
+        "theorum/62_silence_vibration_sutra_flow_theorem.md",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "1.4.10": {
+      "text": "hrasvaṁ laghu",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/pingala_chandas_pratyaya.py"
+      ]
+    },
+    "1.4.13": {
+      "text": "yasmāt pratyayavidhis tadādi pratyaye 'ṅgam",
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.4.14": {
+      "text": "suptiṅantaṁ padam",
+      "level": "hand_coded",
+      "theorems": [
+        "T63"
+      ],
+      "cited_in": [
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
+      ]
+    },
+    "1.4.23": {
+      "text": "kārake",
+      "level": "hand_coded",
+      "theorems": [
+        "T68"
+      ],
+      "cited_in": [
+        "proof_lab/karaka_vibhakti_carrier.py"
+      ]
+    },
+    "1.4.24": {
+      "text": "dhruvam apāye 'pādānam",
+      "level": "hand_coded",
+      "theorems": [
+        "T68"
+      ],
+      "cited_in": [
+        "proof_lab/karaka_vibhakti_carrier.py",
+        "theorum/68_karaka_vibhakti_carrier_theorem.md"
+      ]
+    },
+    "1.4.32": {
+      "text": "karmaṇā yam abhipraiti sa sampradānam",
+      "level": "hand_coded",
+      "theorems": [
+        "T68"
+      ],
+      "cited_in": [
+        "proof_lab/karaka_vibhakti_carrier.py"
+      ]
+    },
+    "1.4.42": {
+      "text": "sādhakatamaṁ karaṇam",
+      "level": "hand_coded",
+      "theorems": [
+        "T68"
+      ],
+      "cited_in": [
+        "proof_lab/karaka_vibhakti_carrier.py"
+      ]
+    },
+    "1.4.45": {
+      "text": "ādhāro 'dhikaraṇam",
+      "level": "hand_coded",
+      "theorems": [
+        "T68"
+      ],
+      "cited_in": [
+        "proof_lab/karaka_vibhakti_carrier.py"
+      ]
+    },
+    "1.4.49": {
+      "text": "kartur īpsitatamaṁ karma",
+      "level": "hand_coded",
+      "theorems": [
+        "T68"
+      ],
+      "cited_in": [
+        "proof_lab/karaka_vibhakti_carrier.py"
+      ]
+    },
+    "1.4.54": {
+      "text": "svatantraḥ kartā",
+      "level": "hand_coded",
+      "theorems": [
+        "T68"
+      ],
+      "cited_in": [
+        "proof_lab/karaka_vibhakti_carrier.py"
+      ]
+    },
+    "1.4.99": {
+      "text": "laḥ parasmaipadam",
+      "level": "hand_coded",
+      "theorems": [
+        "T64"
+      ],
+      "cited_in": [
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/64_ting_lat_parasmaipada_theorem.md"
+      ]
+    },
+    "1.4.101": {
+      "text": "tiṅas trīṇi trīṇi prathamamadhyamottamāḥ",
+      "level": "hand_coded",
+      "theorems": [
+        "T64"
+      ],
+      "cited_in": [
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/64_ting_lat_parasmaipada_theorem.md"
+      ]
+    },
+    "1.4.104": {
+      "text": "vibhaktiś ca",
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "2.3.1": {
+      "text": "anabhihite",
+      "level": "hand_coded",
+      "theorems": [
+        "T68"
+      ],
+      "cited_in": [
+        "proof_lab/karaka_vibhakti_carrier.py",
+        "theorum/68_karaka_vibhakti_carrier_theorem.md"
+      ]
+    },
+    "2.3.2": {
+      "text": "karmaṇi dvitīyā",
+      "level": "hand_coded",
+      "theorems": [
+        "T68"
+      ],
+      "cited_in": [
+        "proof_lab/karaka_vibhakti_carrier.py",
+        "theorum/68_karaka_vibhakti_carrier_theorem.md"
+      ]
+    },
+    "2.3.13": {
+      "text": "caturthī sampradāne",
+      "level": "hand_coded",
+      "theorems": [
+        "T68"
+      ],
+      "cited_in": [
+        "proof_lab/karaka_vibhakti_carrier.py",
+        "theorum/68_karaka_vibhakti_carrier_theorem.md"
+      ]
+    },
+    "2.3.18": {
+      "text": "kartṛkaraṇayos tṛtīyā",
+      "level": "hand_coded",
+      "theorems": [
+        "T68"
+      ],
+      "cited_in": [
+        "proof_lab/karaka_vibhakti_carrier.py",
+        "theorum/68_karaka_vibhakti_carrier_theorem.md"
+      ]
+    },
+    "2.3.28": {
+      "text": "apādāne pañcamī",
+      "level": "hand_coded",
+      "theorems": [
+        "T68"
+      ],
+      "cited_in": [
+        "proof_lab/karaka_vibhakti_carrier.py",
+        "theorum/68_karaka_vibhakti_carrier_theorem.md"
+      ]
+    },
+    "2.3.36": {
+      "text": "saptamy adhikaraṇe ca",
+      "level": "hand_coded",
+      "theorems": [
+        "T68"
+      ],
+      "cited_in": [
+        "proof_lab/karaka_vibhakti_carrier.py",
+        "theorum/68_karaka_vibhakti_carrier_theorem.md"
+      ]
+    },
+    "2.3.46": {
+      "text": "prātipadikārthaliṅgaparimāṇavacanamātre prathamā",
+      "level": "hand_coded",
+      "theorems": [
+        "T68"
+      ],
+      "cited_in": [
+        "proof_lab/karaka_vibhakti_carrier.py",
+        "theorum/68_karaka_vibhakti_carrier_theorem.md"
+      ]
+    },
+    "2.3.50": {
+      "text": "ṣaṣṭhī śeṣe",
+      "level": "hand_coded",
+      "theorems": [
+        "T68"
+      ],
+      "cited_in": [
+        "proof_lab/karaka_vibhakti_carrier.py",
+        "theorum/68_karaka_vibhakti_carrier_theorem.md"
+      ]
+    },
+    "2.4.76": {
+      "text": "",
+      "level": "hand_coded",
+      "theorems": [
+        "T66"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py"
+      ]
+    },
+    "3.1.1": {
+      "text": "pratyayaḥ",
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "3.1.2": {
+      "text": "paraś ca",
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "3.1.45": {
+      "text": "śala igupadhād aniṭaḥ kṣaḥ",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py"
+      ]
+    },
+    "3.1.68": {
+      "text": "kartari śap",
+      "level": "hand_coded",
+      "theorems": [
+        "T64",
+        "T66"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py",
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/64_ting_lat_parasmaipada_theorem.md"
+      ]
+    },
+    "3.1.85": {
+      "text": "",
+      "level": "hand_coded",
+      "theorems": [
+        "T66"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py"
+      ]
+    },
+    "3.2.123": {
+      "text": "vartamāne laṭ",
+      "level": "hand_coded",
+      "theorems": [
+        "T64"
+      ],
+      "cited_in": [
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/64_ting_lat_parasmaipada_theorem.md"
+      ]
+    },
+    "3.3.14": {
+      "text": "",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/angatva_pramana_ladder.py",
+        "proof_lab/mimamsa_obligation_closure.py",
+        "theorum/70_angatva_pramana_ladder_theorem.md"
+      ]
+    },
+    "3.4.6": {
+      "text": "",
+      "level": "hand_coded",
+      "theorems": [
+        "T65"
+      ],
+      "cited_in": [
+        "proof_lab/stem_classes_gayatri_coverage.py",
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md"
+      ]
+    },
+    "3.4.69": {
+      "text": "laḥ karmaṇi ca bhāve cākarmakebhyaḥ",
+      "level": "hand_coded",
+      "theorems": [
+        "T68"
+      ],
+      "cited_in": [
+        "proof_lab/karaka_vibhakti_carrier.py",
+        "theorum/68_karaka_vibhakti_carrier_theorem.md"
+      ]
+    },
+    "3.4.78": {
+      "text": "tiptasjhisipthasthamibvasmas tātāṁjhathāsāthāṁdhvamiḍvahimahiṅ",
+      "level": "hand_coded",
+      "theorems": [
+        "T64",
+        "T66"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py",
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/64_ting_lat_parasmaipada_theorem.md",
+        "theorum/66_lat_atmanepada_theorem.md"
+      ]
+    },
+    "3.4.79": {
+      "text": "ṭita ātmanepadānāṁ ṭere",
+      "level": "hand_coded",
+      "theorems": [
+        "T66"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py",
+        "theorum/66_lat_atmanepada_theorem.md"
+      ]
+    },
+    "3.4.80": {
+      "text": "thāsas se",
+      "level": "hand_coded",
+      "theorems": [
+        "T66"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py",
+        "theorum/66_lat_atmanepada_theorem.md"
+      ]
+    },
+    "3.4.113": {
+      "text": "tiṅśit sārvadhātukam",
+      "level": "meta",
+      "theorems": [
+        "T58",
+        "T64",
+        "T66"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py",
+        "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/seam_compensated_confluence_verdict.py",
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/60_seam_compensated_confluence_verdict_theorem.md",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
+        "theorum/64_ting_lat_parasmaipada_theorem.md"
+      ]
+    },
+    "4.1.2": {
+      "text": "svaujasamauṭchaṣṭābhyāmbhis ṅebhyāmbhyas ṅasibhyāmbhyas ṅasos āṁ ṅyos sup",
+      "level": "hand_coded",
+      "theorems": [
+        "T63"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
+      ]
+    },
+    "6.1.64": {
+      "text": "dhātvādeḥ ṣaḥ saḥ",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "6.1.65": {
+      "text": "ṇo naḥ",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "6.1.66": {
+      "text": "lopo vyor vali",
+      "level": "hand_coded",
+      "theorems": [
+        "T66"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py",
+        "proof_lab/shaiva_sources_nativized.py",
+        "theorum/66_lat_atmanepada_theorem.md",
+        "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md"
+      ]
+    },
+    "6.1.68": {
+      "text": "halṅyābbhyo dīrghāt sutisy apṛktaṁ hal",
+      "level": "hand_coded",
+      "theorems": [
+        "T65"
+      ],
+      "cited_in": [
+        "proof_lab/stem_classes_gayatri_coverage.py",
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md"
+      ]
+    },
+    "6.1.69": {
+      "text": "eṅhrasvāt sambuddheḥ",
+      "level": "hand_coded",
+      "theorems": [
+        "T63"
+      ],
+      "cited_in": [
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
+      ]
+    },
+    "6.1.71": {
+      "text": "hrasvasya piti kṛti tuk",
+      "level": "compiled",
+      "theorems": [
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "6.1.72": {
+      "text": "saṁhitāyām",
+      "level": "meta",
+      "theorems": [
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "6.1.73": {
+      "text": "che ca",
+      "level": "compiled",
+      "theorems": [
+        "T58",
+        "T64",
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/rewrite_rules_as_cut_module_operators.py",
+        "proof_lab/silence_vibration_sutra_flow.py",
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
+        "theorum/62_silence_vibration_sutra_flow_theorem.md",
+        "theorum/64_ting_lat_parasmaipada_theorem.md",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "6.1.77": {
+      "text": "iko yaṇ aci",
+      "level": "compiled",
+      "theorems": [
+        "T58",
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/rewrite_rules_as_cut_module_operators.py",
+        "proof_lab/seam_compensated_confluence_verdict.py",
+        "proof_lab/shaiva_sources_nativized.py",
+        "proof_lab/silence_vibration_sutra_flow.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/60_seam_compensated_confluence_verdict_theorem.md",
+        "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
+        "theorum/62_silence_vibration_sutra_flow_theorem.md",
+        "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "6.1.78": {
+      "text": "eco 'yavāyāvaḥ",
+      "level": "compiled",
+      "theorems": [
+        "T58",
+        "T63",
+        "T64",
+        "T66",
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py",
+        "proof_lab/paninian_instruction_format.py",
+        "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/shaiva_sources_nativized.py",
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
+        "theorum/64_ting_lat_parasmaipada_theorem.md",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "6.1.84": {
+      "text": "ekaḥ pūrvaparayoḥ",
+      "level": "meta",
+      "theorems": [
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "6.1.85": {
+      "text": "antādivac ca",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "6.1.87": {
+      "text": "ād guṇaḥ",
+      "level": "compiled",
+      "theorems": [
+        "T58",
+        "T63",
+        "T66",
+        "T67",
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py",
+        "proof_lab/pada_to_line_external_sandhi.py",
+        "proof_lab/paninian_instruction_format.py",
+        "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
+        "theorum/66_lat_atmanepada_theorem.md",
+        "theorum/67_pada_to_line_external_sandhi_theorem.md",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "6.1.88": {
+      "text": "vṛddhir eci",
+      "level": "compiled",
+      "theorems": [
+        "T58",
+        "T63",
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "6.1.94": {
+      "text": "eṅi pararūpam",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py"
+      ]
+    },
+    "6.1.97": {
+      "text": "ato guṇe",
+      "level": "hand_coded",
+      "theorems": [
+        "T63",
+        "T64",
+        "T65",
+        "T66"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py",
+        "proof_lab/stem_classes_gayatri_coverage.py",
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
+        "theorum/64_ting_lat_parasmaipada_theorem.md",
+        "theorum/66_lat_atmanepada_theorem.md"
+      ]
+    },
+    "6.1.101": {
+      "text": "akaḥ savarṇe dīrghaḥ",
+      "level": "compiled",
+      "theorems": [
+        "T58",
+        "T63",
+        "T64",
+        "T66",
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/ladder_audit_50_59.py",
+        "proof_lab/lat_atmanepada.py",
+        "proof_lab/paninian_instruction_format.py",
+        "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/rewrite_rules_as_cut_module_operators.py",
+        "proof_lab/seam_compensated_confluence_verdict.py",
+        "proof_lab/shaiva_sources_nativized.py",
+        "proof_lab/silence_vibration_sutra_flow.py",
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/60_seam_compensated_confluence_verdict_theorem.md",
+        "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
+        "theorum/62_silence_vibration_sutra_flow_theorem.md",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
+        "theorum/64_ting_lat_parasmaipada_theorem.md",
+        "theorum/66_lat_atmanepada_theorem.md",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "6.1.102": {
+      "text": "prathamayoḥ pūrvasavarṇaḥ",
+      "level": "hand_coded",
+      "theorems": [
+        "T63"
+      ],
+      "cited_in": [
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
+      ]
+    },
+    "6.1.103": {
+      "text": "tasmāc chaso naḥ puṁsi",
+      "level": "hand_coded",
+      "theorems": [
+        "T63"
+      ],
+      "cited_in": [
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
+      ]
+    },
+    "6.1.107": {
+      "text": "ami pūrvaḥ",
+      "level": "hand_coded",
+      "theorems": [
+        "T63"
+      ],
+      "cited_in": [
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md"
+      ]
+    },
+    "6.1.111": {
+      "text": "ṛta ut",
+      "level": "hand_coded",
+      "theorems": [
+        "T65"
+      ],
+      "cited_in": [
+        "proof_lab/stem_classes_gayatri_coverage.py",
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md"
+      ]
+    },
+    "6.1.113": {
+      "text": "ato ror aplutād aplute",
+      "level": "hand_coded",
+      "theorems": [
+        "T65",
+        "T67"
+      ],
+      "cited_in": [
+        "proof_lab/pada_to_line_external_sandhi.py",
+        "proof_lab/stem_classes_gayatri_coverage.py",
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md",
+        "theorum/67_pada_to_line_external_sandhi_theorem.md"
+      ]
+    },
+    "6.1.114": {
+      "text": "haśi ca",
+      "level": "hand_coded",
+      "theorems": [
+        "T67"
+      ],
+      "cited_in": [
+        "proof_lab/pada_to_line_external_sandhi.py",
+        "proof_lab/shaiva_sources_nativized.py",
+        "theorum/67_pada_to_line_external_sandhi_theorem.md"
+      ]
+    },
+    "6.1.125": {
+      "text": "plutapragṛhyā aci nityam",
+      "level": "meta",
+      "theorems": [
+        "T81"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_samjna_sound_layer.py",
+        "theorum/81_paninian_samjna_sound_layer_theorem.md"
+      ]
+    },
+    "6.4.1": {
+      "text": "aṅgasya",
+      "level": "meta",
+      "theorems": [
+        "T80",
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/80_paninian_instruction_format_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "6.4.3": {
+      "text": "nāmi",
+      "level": "hand_coded",
+      "theorems": [
+        "T63"
+      ],
+      "cited_in": [
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
+      ]
+    },
+    "6.4.11": {
+      "text": "",
+      "level": "hand_coded",
+      "theorems": [
+        "T65"
+      ],
+      "cited_in": [
+        "proof_lab/stem_classes_gayatri_coverage.py",
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md"
+      ]
+    },
+    "6.4.66": {
+      "text": "ghumāsthāgāpājahātisāṁ hali",
+      "level": "hand_coded",
+      "theorems": [
+        "T66"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py",
+        "theorum/66_lat_atmanepada_theorem.md"
+      ]
+    },
+    "6.4.71": {
+      "text": "luṅlaṅlṛṅkṣv aḍ udāttaḥ",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py"
+      ]
+    },
+    "6.4.77": {
+      "text": "aci śnudhātubhruvāṁ yvor iyaṅuvaṅau",
+      "level": "hand_coded",
+      "theorems": [
+        "T67"
+      ],
+      "cited_in": [
+        "proof_lab/pada_to_line_external_sandhi.py",
+        "theorum/67_pada_to_line_external_sandhi_theorem.md"
+      ]
+    },
+    "7.1.2": {
+      "text": "āyaneyīnīyiyaḥ phaḍhakhacchaghāṁ pratyayādīnām",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "7.1.3": {
+      "text": "jho 'ntaḥ",
+      "level": "hand_coded",
+      "theorems": [
+        "T64",
+        "T66"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py",
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/64_ting_lat_parasmaipada_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "7.1.5": {
+      "text": "",
+      "level": "hand_coded",
+      "theorems": [
+        "T66"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py",
+        "theorum/66_lat_atmanepada_theorem.md"
+      ]
+    },
+    "7.1.9": {
+      "text": "ato bhisa ais",
+      "level": "hand_coded",
+      "theorems": [
+        "T63"
+      ],
+      "cited_in": [
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
+      ]
+    },
+    "7.1.12": {
+      "text": "ṭāṅasiṅasām inātsyāḥ",
+      "level": "hand_coded",
+      "theorems": [
+        "T63"
+      ],
+      "cited_in": [
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md"
+      ]
+    },
+    "7.1.13": {
+      "text": "ṅer yaḥ",
+      "level": "hand_coded",
+      "theorems": [
+        "T63"
+      ],
+      "cited_in": [
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
+      ]
+    },
+    "7.1.23": {
+      "text": "svamor napuṁsakāt",
+      "level": "hand_coded",
+      "theorems": [
+        "T65"
+      ],
+      "cited_in": [
+        "proof_lab/stem_classes_gayatri_coverage.py",
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md"
+      ]
+    },
+    "7.1.54": {
+      "text": "hrasvanadyāpo nuṭ",
+      "level": "hand_coded",
+      "theorems": [
+        "T63"
+      ],
+      "cited_in": [
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
+      ]
+    },
+    "7.1.70": {
+      "text": "ugidacāṁ sarvanāmasthāne 'dhātoḥ",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py"
+      ]
+    },
+    "7.1.94": {
+      "text": "ṛd uśanaspurudaṁso 'neh asaś ca",
+      "level": "hand_coded",
+      "theorems": [
+        "T65"
+      ],
+      "cited_in": [
+        "proof_lab/stem_classes_gayatri_coverage.py",
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md"
+      ]
+    },
+    "7.2.35": {
+      "text": "ārdhadhātukasyeḍ valādeḥ",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py"
+      ]
+    },
+    "7.2.81": {
+      "text": "āto ṅitaḥ",
+      "level": "hand_coded",
+      "theorems": [
+        "T66"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py",
+        "theorum/66_lat_atmanepada_theorem.md"
+      ]
+    },
+    "7.2.102": {
+      "text": "tyadādīnām aḥ",
+      "level": "hand_coded",
+      "theorems": [
+        "T65",
+        "T67"
+      ],
+      "cited_in": [
+        "proof_lab/pada_to_line_external_sandhi.py",
+        "proof_lab/stem_classes_gayatri_coverage.py",
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md"
+      ]
+    },
+    "7.2.106": {
+      "text": "",
+      "level": "hand_coded",
+      "theorems": [
+        "T67"
+      ],
+      "cited_in": [
+        "proof_lab/pada_to_line_external_sandhi.py",
+        "theorum/67_pada_to_line_external_sandhi_theorem.md"
+      ]
+    },
+    "7.3.50": {
+      "text": "ṭhasyekaḥ",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "7.3.77": {
+      "text": "iṣugamiyamāṁ chaḥ",
+      "level": "compiled",
+      "theorems": [
+        "T58",
+        "T64",
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/rewrite_rules_as_cut_module_operators.py",
+        "proof_lab/seam_compensated_confluence_verdict.py",
+        "proof_lab/silence_vibration_sutra_flow.py",
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/60_seam_compensated_confluence_verdict_theorem.md",
+        "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
+        "theorum/62_silence_vibration_sutra_flow_theorem.md",
+        "theorum/64_ting_lat_parasmaipada_theorem.md",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "7.3.84": {
+      "text": "sārvadhātukārdhadhātukayoḥ",
+      "level": "compiled",
+      "theorems": [
+        "T58",
+        "T64",
+        "T66",
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py",
+        "proof_lab/paninian_instruction_format.py",
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "proof_lab/paninian_samjna_sound_layer.py",
+        "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/64_ting_lat_parasmaipada_theorem.md",
+        "theorum/80_paninian_instruction_format_theorem.md",
+        "theorum/81_paninian_samjna_sound_layer_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "7.3.101": {
+      "text": "ato dīrgho yañi",
+      "level": "hand_coded",
+      "theorems": [
+        "T64",
+        "T66"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py",
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/64_ting_lat_parasmaipada_theorem.md"
+      ]
+    },
+    "7.3.102": {
+      "text": "supi ca",
+      "level": "hand_coded",
+      "theorems": [
+        "T63"
+      ],
+      "cited_in": [
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
+      ]
+    },
+    "7.3.103": {
+      "text": "bahuvacane jhaly et",
+      "level": "hand_coded",
+      "theorems": [
+        "T63"
+      ],
+      "cited_in": [
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
+      ]
+    },
+    "7.3.104": {
+      "text": "osi ca",
+      "level": "hand_coded",
+      "theorems": [
+        "T63"
+      ],
+      "cited_in": [
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
+      ]
+    },
+    "7.4.61": {
+      "text": "śarpūrvāḥ khayaḥ",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py"
+      ]
+    },
+    "8.1.21": {
+      "text": "bahuvacanasya vasnasau",
+      "level": "hand_coded",
+      "theorems": [
+        "T67"
+      ],
+      "cited_in": [
+        "proof_lab/pada_to_line_external_sandhi.py",
+        "theorum/67_pada_to_line_external_sandhi_theorem.md"
+      ]
+    },
+    "8.2.1": {
+      "text": "pūrvatrāsiddham",
+      "level": "meta",
+      "theorems": [
+        "T62",
+        "T63",
+        "T64",
+        "T65",
+        "T66",
+        "T67"
+      ],
+      "cited_in": [
+        "proof_lab/lat_atmanepada.py",
+        "proof_lab/pada_to_line_external_sandhi.py",
+        "proof_lab/silence_vibration_sutra_flow.py",
+        "proof_lab/stem_classes_gayatri_coverage.py",
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/62_silence_vibration_sutra_flow_theorem.md",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
+        "theorum/64_ting_lat_parasmaipada_theorem.md",
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md"
+      ]
+    },
+    "8.2.7": {
+      "text": "nalopaḥ prātipadikāntasya",
+      "level": "hand_coded",
+      "theorems": [
+        "T65"
+      ],
+      "cited_in": [
+        "proof_lab/stem_classes_gayatri_coverage.py",
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md"
+      ]
+    },
+    "8.2.24": {
+      "text": "rāt sasya",
+      "level": "hand_coded",
+      "theorems": [
+        "T65"
+      ],
+      "cited_in": [
+        "proof_lab/stem_classes_gayatri_coverage.py",
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md"
+      ]
+    },
+    "8.2.26": {
+      "text": "jhalo jhali",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py"
+      ]
+    },
+    "8.2.37": {
+      "text": "ekāco baśo bhaṣ jhaṣantasya sdhvoḥ",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py"
+      ]
+    },
+    "8.2.39": {
+      "text": "jhalāṁ jaśo 'nte",
+      "level": "hand_coded",
+      "theorems": [
+        "T65"
+      ],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py",
+        "proof_lab/stem_classes_gayatri_coverage.py",
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md"
+      ]
+    },
+    "8.2.66": {
+      "text": "sasajuṣo ruḥ",
+      "level": "hand_coded",
+      "theorems": [
+        "T63",
+        "T64",
+        "T67"
+      ],
+      "cited_in": [
+        "proof_lab/pada_to_line_external_sandhi.py",
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
+        "theorum/64_ting_lat_parasmaipada_theorem.md",
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md",
+        "theorum/67_pada_to_line_external_sandhi_theorem.md"
+      ]
+    },
+    "8.3.7": {
+      "text": "naś chavy apraśān",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py",
+        "theorum/79_shaiva_sources_varga_grid_crystal_theorem.md"
+      ]
+    },
+    "8.3.15": {
+      "text": "kharavasānayor visarjanīyaḥ",
+      "level": "hand_coded",
+      "theorems": [
+        "T63",
+        "T64",
+        "T65",
+        "T67"
+      ],
+      "cited_in": [
+        "proof_lab/pada_to_line_external_sandhi.py",
+        "proof_lab/stem_classes_gayatri_coverage.py",
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
+        "theorum/64_ting_lat_parasmaipada_theorem.md",
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md",
+        "theorum/67_pada_to_line_external_sandhi_theorem.md"
+      ]
+    },
+    "8.3.23": {
+      "text": "mo 'nusvāraḥ",
+      "level": "hand_coded",
+      "theorems": [
+        "T67"
+      ],
+      "cited_in": [
+        "proof_lab/pada_to_line_external_sandhi.py",
+        "theorum/67_pada_to_line_external_sandhi_theorem.md"
+      ]
+    },
+    "8.3.32": {
+      "text": "ṅamo hrasvād aci ṅamuṇ nityam",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py"
+      ]
+    },
+    "8.3.33": {
+      "text": "mayo uño vo vā",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py"
+      ]
+    },
+    "8.3.57": {
+      "text": "iṇkoḥ",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py"
+      ]
+    },
+    "8.3.59": {
+      "text": "ādeśapratyayayoḥ",
+      "level": "hand_coded",
+      "theorems": [
+        "T63"
+      ],
+      "cited_in": [
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
+      ]
+    },
+    "8.4.2": {
+      "text": "aṭkupvāṅnumvyavāye 'pi",
+      "level": "hand_coded",
+      "theorems": [
+        "T63"
+      ],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py",
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
+        "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md"
+      ]
+    },
+    "8.4.37": {
+      "text": "padāntasya",
+      "level": "hand_coded",
+      "theorems": [
+        "T63"
+      ],
+      "cited_in": [
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
+      ]
+    },
+    "8.4.40": {
+      "text": "stoḥ ścunā ścuḥ",
+      "level": "compiled",
+      "theorems": [
+        "T58",
+        "T64",
+        "T80"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_instruction_format.py",
+        "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/rewrite_rules_as_cut_module_operators.py",
+        "proof_lab/silence_vibration_sutra_flow.py",
+        "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
+        "theorum/62_silence_vibration_sutra_flow_theorem.md",
+        "theorum/64_ting_lat_parasmaipada_theorem.md",
+        "theorum/80_paninian_instruction_format_theorem.md"
+      ]
+    },
+    "8.4.45": {
+      "text": "yaro 'nunāsike 'nunāsiko vā",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py",
+        "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md"
+      ]
+    },
+    "8.4.48": {
+      "text": "cayo dvitīyāḥ śari pauṣkarasādeḥ",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py"
+      ]
+    },
+    "8.4.53": {
+      "text": "jhalāṁ jaś jhaśi",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py"
+      ]
+    },
+    "8.4.54": {
+      "text": "abhyāse car ca",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py"
+      ]
+    },
+    "8.4.55": {
+      "text": "khari ca",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py"
+      ]
+    },
+    "8.4.56": {
+      "text": "vāvasāne",
+      "level": "hand_coded",
+      "theorems": [
+        "T65"
+      ],
+      "cited_in": [
+        "proof_lab/stem_classes_gayatri_coverage.py",
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md"
+      ]
+    },
+    "8.4.58": {
+      "text": "anusvārasya yayi parasavarṇaḥ",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py"
+      ]
+    },
+    "8.4.62": {
+      "text": "jhayo ho 'nyatarasyām",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py"
+      ]
+    },
+    "8.4.64": {
+      "text": "halo yamāṁ yami lopaḥ",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py"
+      ]
+    },
+    "8.4.65": {
+      "text": "jharo jhari savarṇe",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/shaiva_sources_nativized.py"
+      ]
+    }
+  }
+}

@@ -110,6 +110,18 @@ jobs:
                   'proof_lab/test_paninian_instruction_format.py',
                   'proof_lab/PANINIAN_INSTRUCTION_FORMAT_EXPECTED.sha256',
                   'theorum/80_paninian_instruction_format_theorem.md',
+                  'proof_lab/paninian_samjna_sound_layer.py',
+                  'proof_lab/test_paninian_samjna_sound_layer.py',
+                  'proof_lab/PANINIAN_SAMJNA_SOUND_LAYER_EXPECTED.sha256',
+                  'theorum/81_paninian_samjna_sound_layer_theorem.md',
+                  'proof_lab/astadhyayi_ledger.py',
+                  'proof_lab/test_astadhyayi_ledger.py',
+                  'proof_lab/astadhyayi/ASTADHYAYI_LEDGER.json',
+                  'proof_lab/astadhyayi/ASTADHYAYI_LEDGER.md',
+                  'proof_lab/paninian_it_samjna_compiled.py',
+                  'proof_lab/test_paninian_it_samjna_compiled.py',
+                  'proof_lab/PANINIAN_IT_SAMJNA_COMPILED_EXPECTED.sha256',
+                  'theorum/82_paninian_it_samjna_compiled_theorem.md',
               }) or '.github/workflows/repository-checks.yml' in changed,
           }
           scopes = {name: full or selected for name, selected in scopes.items()}
@@ -164,19 +176,23 @@ jobs:
       - name: Check PG1 Sanskrit text inventory and source pins
         if: steps.scope.outputs.pg1 == 'true'
         run: python research/panini_grammar/check_sources.py
-      - name: Check Theorem 78-80 quoted-source certificates and pins
+      - name: Check Theorem 78-82 quoted-source certificates, ledger and pins
         if: steps.scope.outputs.shaiva == 'true'
         run: |
-          python -B -m unittest proof_lab.test_shaiva_sources_nativized proof_lab.test_shaiva_sources_varga_crystal proof_lab.test_paninian_instruction_format -v
+          python -B -m unittest proof_lab.test_shaiva_sources_nativized proof_lab.test_shaiva_sources_varga_crystal proof_lab.test_paninian_instruction_format proof_lab.test_paninian_samjna_sound_layer proof_lab.test_paninian_it_samjna_compiled proof_lab.test_astadhyayi_ledger -v
           python -B -m proof_lab.shaiva_sources_nativized --output /tmp/shaiva_actual.json
           python -B -m proof_lab.shaiva_sources_varga_crystal --output /tmp/shaiva_vc_actual.json
           python -B -m proof_lab.paninian_instruction_format --output /tmp/pif_actual.json
+          python -B -m proof_lab.paninian_samjna_sound_layer --output /tmp/pssl_actual.json
+          python -B -m proof_lab.paninian_it_samjna_compiled --output /tmp/pisc_actual.json
           python - <<'PY'
           import hashlib
           from pathlib import Path
           for actual_path, pin in (('/tmp/shaiva_actual.json', 'proof_lab/SHAIVA_SOURCES_NATIVIZED_EXPECTED.sha256'),
                                    ('/tmp/shaiva_vc_actual.json', 'proof_lab/SHAIVA_SOURCES_VARGA_CRYSTAL_EXPECTED.sha256'),
-                                   ('/tmp/pif_actual.json', 'proof_lab/PANINIAN_INSTRUCTION_FORMAT_EXPECTED.sha256')):
+                                   ('/tmp/pif_actual.json', 'proof_lab/PANINIAN_INSTRUCTION_FORMAT_EXPECTED.sha256'),
+                                   ('/tmp/pssl_actual.json', 'proof_lab/PANINIAN_SAMJNA_SOUND_LAYER_EXPECTED.sha256'),
+                                   ('/tmp/pisc_actual.json', 'proof_lab/PANINIAN_IT_SAMJNA_COMPILED_EXPECTED.sha256')):
               actual = hashlib.sha256(Path(actual_path).read_bytes()).hexdigest()
               expected = Path(pin).read_text(encoding='utf-8').strip()
               assert actual == expected, (pin, actual, expected)

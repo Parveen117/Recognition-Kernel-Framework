@@ -798,6 +798,43 @@ proof_lab/test_paninian_instruction_format.py
 proof_lab/PANINIAN_INSTRUCTION_FORMAT_EXPECTED.sha256
 ```
 
+## Theorem 81 Pāṇinian saṁjñā sound-layer packet and the Aṣṭādhyāyī ledger
+
+| Field | Value |
+|---|---|
+| Certificate class | Saṁjñā sūtras of pāda 1.1 realized on the sound carrier: savarṇa derived from the sthāna/prayatna table by 1.1.9 with 1.1.10 (exactly the vowel length pairs and the five vargas; 1.1.10 load-bearing), ṭi / upadhā / tadanta selectors (1.1.64, 1.1.65, 1.1.72), saṁyoga 1.1.7, anunāsika 1.1.8, pragṛhya 1.1.11 with 6.1.125 blocking every compiled sandhi rule of theorum/80 on dual ī/ū/e junctions and nothing else |
+| Status | `PASS_PANINIAN_SAMJNA_SOUND_LAYER_CANDIDATE` |
+| Canonical result SHA-256 | `98c8a45c5eee2a022a5a7fe72286d44d5a5cb4eac7b22522e1fca6e30c961c48` |
+| Ledger | `proof_lab/astadhyayi/ASTADHYAYI_LEDGER.json` is the single claim boundary of the all-sūtra programme: 156 of 3959 sūtras listed (10 compiled, 34 meta, 72 hand-coded, 38 cited, 2 misnumbered citations in theorum/58); `proof_lab/test_astadhyayi_ledger.py` checks the committed ledger equals its rebuild |
+| Boundary | e/ai, o/au separated by the recorded proportion attribute, not by the table; pluta, anusvāra, nasalized vowels not on the carrier; the dvivacana flag is supplied, not derived from morphology |
+
+```text
+theorum/81_paninian_samjna_sound_layer_theorem.md
+proof_lab/paninian_samjna_sound_layer.py
+proof_lab/test_paninian_samjna_sound_layer.py
+proof_lab/PANINIAN_SAMJNA_SOUND_LAYER_EXPECTED.sha256
+proof_lab/astadhyayi_ledger.py
+proof_lab/test_astadhyayi_ledger.py
+proof_lab/astadhyayi/ASTADHYAYI_LEDGER.json
+proof_lab/astadhyayi/ASTADHYAYI_LEDGER.md
+```
+
+## Theorem 82 Pāṇinian it-saṁjñā compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | 1.3.2–1.3.9 as one interpreter on IAST teaching forms (with 1.3.4, 'ataddhite', 'pratyayasya' and the jñāpaka overrides 7.1.3 / 7.3.50 / 7.1.2 each load-bearing on named forms), equal to the traditional it-sets on 116 forms; theorum/58's and theorum/63's hand-coded it_lopa shown to be instances; 1.1.46 / 1.1.47 augment placement and 1.4.13 aṅga read off the its, with theorum/80's 7.3.84 trigger equal to 'aṅga ends in ik' on all 40 reachable states |
+| Status | `PASS_PANINIAN_IT_SAMJNA_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `f66f651bec88c1639e943712847f71e78ca48efb40769a2507448595018ed6dc` |
+| Boundary | jñāpaka exceptions declared from the cited sūtras, not derived; 6.1.64 / 6.1.65 cited; ir-it, accent its and the whole Dhātupāṭha not on the carrier |
+
+```text
+theorum/82_paninian_it_samjna_compiled_theorem.md
+proof_lab/paninian_it_samjna_compiled.py
+proof_lab/test_paninian_it_samjna_compiled.py
+proof_lab/PANINIAN_IT_SAMJNA_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |

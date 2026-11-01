@@ -1,0 +1,249 @@
+{
+  "author": "Monty",
+  "stage": "PG3",
+  "status": "BOUNDED_SOURCE_REVIEW_PROFILE",
+  "marker_exceptions": [
+    {
+      "id": "PG3-substitution-before-cutuu",
+      "blocks": "1.3.7",
+      "requires": {
+        "affix": true
+      },
+      "identities": [
+        "jhi:3.4.78",
+        "jha:3.4.78",
+        "jhi-affix-identity",
+        "jhac:unadi3.126",
+        "cha:4.2.114",
+        "thak:4.4.1",
+        "than:4.4.52",
+        "dhak:4.1.120"
+      ],
+      "symbols": [
+        "jh",
+        "ch",
+        "ṭh",
+        "ḍh"
+      ],
+      "evidence": [
+        {
+          "path": "sutraani/nyaas.txt",
+          "key": "13007",
+          "anchor": "इत्संज्ञापवादम्"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "झस्यान्तादेशं वक्ष्यति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "71003",
+          "anchor": "प्रत्ययावयवस्य झस्य"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "ठस्येकादेशं वक्ष्यति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "ढस्यैयादेशं वक्ष्यति"
+        }
+      ],
+      "domain": "Only the identified affixes; not an unconditional exception for arbitrary initial letters."
+    }
+  ],
+  "satva_exception_ids": [
+    "1010105",
+    "1010114",
+    "1010641",
+    "1040004"
+  ],
+  "root_contracts": [
+    {
+      "id": "6.1.64",
+      "sanskrit": "धात्वादेः षः सः",
+      "condition": "Listed dhātu with initial ṣ, excluding the named ṣṭhivu/ṣvaṣk roots and Nyāsa’s ṣvakk reading and derived subdhātus.",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61064",
+          "anchor": "धातोरादेः षकारस्य स्थाने सकारादेशो भवति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61064",
+          "anchor": "सुब्धातुष्ठिवुष्वष्कतीनां प्रतिषेधो वक्तव्यः"
+        },
+        {
+          "path": "sutraani/nyaas.txt",
+          "key": "61064",
+          "anchor": "ष्वक्केरप्यज्दन्त्यपरा"
+        }
+      ]
+    },
+    {
+      "id": "6.1.65",
+      "sanskrit": "णो नः",
+      "condition": "Root-initial ṇ, excluding derived subdhātus; interior ṇ is untouched.",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61065",
+          "anchor": "धातोरादेर्णकारस्य नकार आदेशो भवति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61065",
+          "anchor": "सुब्धातोरयमपि नेष्यते"
+        }
+      ]
+    },
+    {
+      "id": "7.1.58",
+      "sanskrit": "इदितो नुम् धातोः",
+      "condition": "A standalone nasal i-it of a declared root; a component of ñi or ir does not qualify.",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "71058",
+          "anchor": "इदितो धातोर्नुमागमो भवति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "71058",
+          "anchor": "धातूपदेशावस्थायामेव"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "71058",
+          "anchor": "इरितां समुदायस्येत्संज्ञा"
+        }
+      ]
+    },
+    {
+      "id": "1.1.47",
+      "sanskrit": "मिदचोऽन्त्यात्परः",
+      "condition": "Ordinary placement of the licensed 7.1.58 num after the last surviving vowel; no universal augment-placement claim.",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11047",
+          "anchor": "अचः इति निर्धारणे षष्ठी"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11047",
+          "anchor": "परो मिद् भवति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11047",
+          "anchor": "मस्जेरन्त्यात्पूर्वं नुममिच्छन्त्यनुषङ्ग"
+        }
+      ]
+    }
+  ],
+  "readout_contracts": [
+    {
+      "id": "8.3.24",
+      "sanskrit": "नश्चापदान्तस्य झलि",
+      "domain": "Only inserted num n followed by jhal inside the same supplied root; query only.",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "83024",
+          "anchor": "नकारस्य मकारस्य चापदान्तस्यानुस्वारादेशो भवति झलि परतः"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "83024",
+          "anchor": "राजन् भुङ्क्ष्व"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "83024",
+          "anchor": "रम्यते"
+        }
+      ]
+    },
+    {
+      "id": "8.4.58",
+      "sanskrit": "अनुस्वारस्य ययि परसवर्णः",
+      "domain": "The resulting anusvāra before an admitted stop; select its nasal from T81's stop-varga class.",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84058",
+          "anchor": "अनुस्वारस्य ययि परतः परसवर्ण आदेशो भवति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84058",
+          "anchor": "कुण्डिता"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84058",
+          "anchor": "शङ्किता"
+        }
+      ]
+    },
+    {
+      "id": "8.2.1",
+      "sanskrit": "पूर्वत्रासिद्धम्",
+      "implementation_boundary": "Keep this Tripādī query result out of the earlier preprocessing input; this is a restricted separation, not the complete rule-relative visibility calculus.",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "82001",
+          "anchor": "एतस्यामयं पादोनोऽध्यायोऽसिद्धो भवति"
+        }
+      ]
+    }
+  ],
+  "special_case_identity_evidence": [
+    {
+      "path": "dhatu/data.txt",
+      "key": "1010105",
+      "anchor": "ष्वष्कँ",
+      "field": "aupadeshik"
+    },
+    {
+      "path": "dhatu/data.txt",
+      "key": "1010114",
+      "anchor": "ष्वक्कँ",
+      "field": "aupadeshik"
+    },
+    {
+      "path": "dhatu/data.txt",
+      "key": "1010641",
+      "anchor": "ष्ठिवुँ",
+      "field": "aupadeshik"
+    },
+    {
+      "path": "dhatu/data.txt",
+      "key": "1040004",
+      "anchor": "ष्ठिवुँ",
+      "field": "aupadeshik"
+    }
+  ],
+  "pipeline": [
+    "original upadeśa and marker units",
+    "it-only projection",
+    "initial ṣ→s / ṇ→n substitutions under explicit root origin",
+    "standalone idit test",
+    "num placement"
+  ],
+  "excluded": [
+    "Retroflex cluster changes following ṣ→s",
+    "General Tripādī/asiddha inference beyond the isolated num query",
+    "Lexical length variants",
+    "Automatic gaṇasūtra scope",
+    "Automatic origin, sense, pada, seṭ or nasality inference",
+    "Arbitrary augments including the 7.1.60 masj exception",
+    "Full Sanskrit word generation"
+  ]
+}

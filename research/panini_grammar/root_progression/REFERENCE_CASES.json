@@ -1,0 +1,1550 @@
+{
+  "author": "Monty",
+  "status": "SOURCE_GROUNDED_LOCAL_CASES",
+  "cases": [
+    {
+      "id": "ni-initial-n",
+      "kind": "root",
+      "input": {
+        "lexical_id": "1011049",
+        "teaching": "णीञ्",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "nī",
+        "idit": false,
+        "applied": [
+          "6.1.65"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1011049",
+          "anchor": "णीञ्",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1011049",
+          "anchor": "नी",
+          "field": "dhatu"
+        }
+      ]
+    },
+    {
+      "id": "svad-initial-s",
+      "kind": "root",
+      "input": {
+        "lexical_id": "1010018",
+        "teaching": "ष्वदँ",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "svad",
+        "idit": false,
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010018",
+          "anchor": "ष्वदँ",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010018",
+          "anchor": "स्वद्",
+          "field": "dhatu"
+        }
+      ]
+    },
+    {
+      "id": "skud-num",
+      "kind": "root",
+      "input": {
+        "lexical_id": "1010009",
+        "teaching": "स्कुदिँ",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "skund",
+        "idit": true,
+        "applied": [
+          "7.1.58"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010009",
+          "anchor": "स्कुदिँ",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010009",
+          "anchor": "स्कुन्द्",
+          "field": "dhatu"
+        }
+      ]
+    },
+    {
+      "id": "bhid-idit-num",
+      "kind": "root",
+      "input": {
+        "lexical_id": "1010067",
+        "teaching": "भिदिँ",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "bhind",
+        "idit": true,
+        "applied": [
+          "7.1.58"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010067",
+          "anchor": "भिदिँ",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010067",
+          "anchor": "भिन्द्",
+          "field": "dhatu"
+        }
+      ]
+    },
+    {
+      "id": "bhid-irit-no-num",
+      "kind": "root",
+      "input": {
+        "lexical_id": "1070002",
+        "teaching": "भिदिँर्",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "bhid",
+        "idit": false,
+        "applied": []
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1070002",
+          "anchor": "भिदिँर्",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1070002",
+          "anchor": "भिद्",
+          "field": "dhatu"
+        }
+      ]
+    },
+    {
+      "id": "chid-irit-no-num",
+      "kind": "root",
+      "input": {
+        "lexical_id": "1070003",
+        "teaching": "छिदिँर्",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "chid",
+        "idit": false,
+        "applied": []
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1070003",
+          "anchor": "छिदिँर्",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1070003",
+          "anchor": "छिद्",
+          "field": "dhatu"
+        }
+      ]
+    },
+    {
+      "id": "gam-original-final-m",
+      "kind": "root",
+      "input": {
+        "lexical_id": "1011137",
+        "teaching": "गमॢँ",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "gam",
+        "idit": false,
+        "applied": []
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1011137",
+          "anchor": "गमॢँ",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1011137",
+          "anchor": "गम्",
+          "field": "dhatu"
+        }
+      ]
+    },
+    {
+      "id": "bhu-no-marker",
+      "kind": "root",
+      "input": {
+        "lexical_id": "1010001",
+        "teaching": "भू",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "bhū",
+        "idit": false,
+        "applied": []
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010001",
+          "anchor": "भू",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010001",
+          "anchor": "भू",
+          "field": "dhatu"
+        }
+      ]
+    },
+    {
+      "id": "edh-marker-only",
+      "kind": "root",
+      "input": {
+        "lexical_id": "1010002",
+        "teaching": "एधँ",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "edh",
+        "idit": false,
+        "applied": []
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010002",
+          "anchor": "एधँ",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010002",
+          "anchor": "एध्",
+          "field": "dhatu"
+        }
+      ]
+    },
+    {
+      "id": "labh-compound-du",
+      "kind": "root",
+      "input": {
+        "lexical_id": "1011130",
+        "teaching": "डुलभँष्",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "labh",
+        "idit": false,
+        "applied": []
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1011130",
+          "anchor": "डुलभँष्",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1011130",
+          "anchor": "लभ्",
+          "field": "dhatu"
+        }
+      ]
+    },
+    {
+      "id": "kr-compound-du",
+      "kind": "root",
+      "input": {
+        "lexical_id": "1080010",
+        "teaching": "डुकृञ्",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "kṛ",
+        "idit": false,
+        "applied": []
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1080010",
+          "anchor": "डुकृञ्",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1080010",
+          "anchor": "कृ",
+          "field": "dhatu"
+        }
+      ]
+    },
+    {
+      "id": "mid-compound-ni",
+      "kind": "root",
+      "input": {
+        "lexical_id": "1010844",
+        "teaching": "ञिमिदाँ",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "mid",
+        "idit": false,
+        "applied": []
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010844",
+          "anchor": "ञिमिदाँ",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010844",
+          "anchor": "मिद्",
+          "field": "dhatu"
+        }
+      ]
+    },
+    {
+      "id": "svas-kasika-exception",
+      "kind": "root",
+      "input": {
+        "lexical_id": "1010105",
+        "teaching": "ष्वष्कँ",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "ṣvaṣk",
+        "idit": false,
+        "applied": []
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010105",
+          "anchor": "ष्वष्कँ",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010105",
+          "anchor": "ष्वष्क्",
+          "field": "dhatu"
+        }
+      ]
+    },
+    {
+      "id": "svakk-nyasa-exception",
+      "kind": "root",
+      "input": {
+        "lexical_id": "1010114",
+        "teaching": "ष्वक्कँ",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "ṣvakk",
+        "idit": false,
+        "applied": []
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010114",
+          "anchor": "ष्वक्कँ",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010114",
+          "anchor": "ष्वक्क्",
+          "field": "dhatu"
+        }
+      ]
+    },
+    {
+      "id": "sthiv-kasika-exception-gana1",
+      "kind": "root",
+      "input": {
+        "lexical_id": "1010641",
+        "teaching": "ष्ठिवुँ",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "ṣṭhiv",
+        "idit": false,
+        "applied": []
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010641",
+          "anchor": "ष्ठिवुँ",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010641",
+          "anchor": "ष्ठिव्",
+          "field": "dhatu"
+        }
+      ]
+    },
+    {
+      "id": "sthiv-kasika-exception-gana4",
+      "kind": "root",
+      "input": {
+        "lexical_id": "1040004",
+        "teaching": "ष्ठिवुँ",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "ṣṭhiv",
+        "idit": false,
+        "applied": []
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1040004",
+          "anchor": "ष्ठिवुँ",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1040004",
+          "anchor": "ष्ठिव्",
+          "field": "dhatu"
+        }
+      ]
+    },
+    {
+      "id": "derived-subdhatu-s",
+      "kind": "root",
+      "input": {
+        "lexical_id": "derived-subdhatu-s",
+        "teaching": "षोड",
+        "origin": "derived_subdhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "ṣoḍa",
+        "idit": false,
+        "applied": []
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61064",
+          "anchor": "षोडीयति"
+        }
+      ],
+      "note": "Explicitly supplied grammatical origin; this is a local substitution-domain control, not a generated finite word."
+    },
+    {
+      "id": "derived-subdhatu-n",
+      "kind": "root",
+      "input": {
+        "lexical_id": "derived-subdhatu-n",
+        "teaching": "णकारीय",
+        "origin": "derived_subdhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "ṇakārīya",
+        "idit": false,
+        "applied": []
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61065",
+          "anchor": "णकारीयति"
+        }
+      ],
+      "note": "Explicitly supplied grammatical origin; this is a local substitution-domain control, not a generated finite word."
+    },
+    {
+      "id": "interior-n-retained",
+      "kind": "root",
+      "input": {
+        "lexical_id": "interior-n-retained",
+        "teaching": "अण",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "aṇa",
+        "idit": false,
+        "applied": []
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61065",
+          "anchor": "अणति"
+        }
+      ],
+      "note": "Explicitly supplied grammatical origin; this is a local substitution-domain control, not a generated finite word."
+    },
+    {
+      "id": "interior-s-retained",
+      "kind": "root",
+      "input": {
+        "lexical_id": "interior-s-retained",
+        "teaching": "कष",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "kaṣa",
+        "idit": false,
+        "applied": []
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61064",
+          "anchor": "कषति"
+        }
+      ],
+      "note": "Explicitly supplied grammatical origin; this is a local substitution-domain control, not a generated finite word."
+    },
+    {
+      "id": "lakara-laṭ",
+      "kind": "marker",
+      "input": {
+        "identity": "laṭ",
+        "text": "लँट्",
+        "category": "lakara",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "a",
+          "ṭ"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "दश लकारा अनुबन्धविशिष्टा"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "लकारमात्रं स्थानित्वेनाधिक्रियते"
+        },
+        {
+          "path": "sutraani/tattvabodhini.txt",
+          "key": "34077",
+          "anchor": "लस्येत्संज्ञा तु न भवति"
+        }
+      ],
+      "annotation_status": "Conventional nasal teaching vowel supplied explicitly. laṭ is also directly discussed in Bālamanoramā 3.2.123; not inferred from the unmarked T82 input.",
+      "legacy_T82": {
+        "upadesa": "laṭ",
+        "kind": "pratyaya",
+        "vibhakti": false,
+        "taddhita": false
+      }
+    },
+    {
+      "id": "lakara-liṭ",
+      "kind": "marker",
+      "input": {
+        "identity": "liṭ",
+        "text": "लिँट्",
+        "category": "lakara",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "i",
+          "ṭ"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "दश लकारा अनुबन्धविशिष्टा"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "लकारमात्रं स्थानित्वेनाधिक्रियते"
+        },
+        {
+          "path": "sutraani/tattvabodhini.txt",
+          "key": "34077",
+          "anchor": "लस्येत्संज्ञा तु न भवति"
+        }
+      ],
+      "annotation_status": "Conventional nasal teaching vowel supplied explicitly. laṭ is also directly discussed in Bālamanoramā 3.2.123; not inferred from the unmarked T82 input.",
+      "legacy_T82": {
+        "upadesa": "liṭ",
+        "kind": "pratyaya",
+        "vibhakti": false,
+        "taddhita": false
+      }
+    },
+    {
+      "id": "lakara-luṭ",
+      "kind": "marker",
+      "input": {
+        "identity": "luṭ",
+        "text": "लुँट्",
+        "category": "lakara",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "u",
+          "ṭ"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "दश लकारा अनुबन्धविशिष्टा"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "लकारमात्रं स्थानित्वेनाधिक्रियते"
+        },
+        {
+          "path": "sutraani/tattvabodhini.txt",
+          "key": "34077",
+          "anchor": "लस्येत्संज्ञा तु न भवति"
+        }
+      ],
+      "annotation_status": "Conventional nasal teaching vowel supplied explicitly. laṭ is also directly discussed in Bālamanoramā 3.2.123; not inferred from the unmarked T82 input.",
+      "legacy_T82": {
+        "upadesa": "luṭ",
+        "kind": "pratyaya",
+        "vibhakti": false,
+        "taddhita": false
+      }
+    },
+    {
+      "id": "lakara-lṛṭ",
+      "kind": "marker",
+      "input": {
+        "identity": "lṛṭ",
+        "text": "लृँट्",
+        "category": "lakara",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "ṛ",
+          "ṭ"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "दश लकारा अनुबन्धविशिष्टा"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "लकारमात्रं स्थानित्वेनाधिक्रियते"
+        },
+        {
+          "path": "sutraani/tattvabodhini.txt",
+          "key": "34077",
+          "anchor": "लस्येत्संज्ञा तु न भवति"
+        }
+      ],
+      "annotation_status": "Conventional nasal teaching vowel supplied explicitly. laṭ is also directly discussed in Bālamanoramā 3.2.123; not inferred from the unmarked T82 input.",
+      "legacy_T82": {
+        "upadesa": "lṛṭ",
+        "kind": "pratyaya",
+        "vibhakti": false,
+        "taddhita": false
+      }
+    },
+    {
+      "id": "lakara-leṭ",
+      "kind": "marker",
+      "input": {
+        "identity": "leṭ",
+        "text": "लेँट्",
+        "category": "lakara",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "e",
+          "ṭ"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "दश लकारा अनुबन्धविशिष्टा"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "लकारमात्रं स्थानित्वेनाधिक्रियते"
+        },
+        {
+          "path": "sutraani/tattvabodhini.txt",
+          "key": "34077",
+          "anchor": "लस्येत्संज्ञा तु न भवति"
+        }
+      ],
+      "annotation_status": "Conventional nasal teaching vowel supplied explicitly. laṭ is also directly discussed in Bālamanoramā 3.2.123; not inferred from the unmarked T82 input.",
+      "legacy_T82": {
+        "upadesa": "leṭ",
+        "kind": "pratyaya",
+        "vibhakti": false,
+        "taddhita": false
+      }
+    },
+    {
+      "id": "lakara-loṭ",
+      "kind": "marker",
+      "input": {
+        "identity": "loṭ",
+        "text": "लोँट्",
+        "category": "lakara",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "o",
+          "ṭ"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "दश लकारा अनुबन्धविशिष्टा"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "लकारमात्रं स्थानित्वेनाधिक्रियते"
+        },
+        {
+          "path": "sutraani/tattvabodhini.txt",
+          "key": "34077",
+          "anchor": "लस्येत्संज्ञा तु न भवति"
+        }
+      ],
+      "annotation_status": "Conventional nasal teaching vowel supplied explicitly. laṭ is also directly discussed in Bālamanoramā 3.2.123; not inferred from the unmarked T82 input.",
+      "legacy_T82": {
+        "upadesa": "loṭ",
+        "kind": "pratyaya",
+        "vibhakti": false,
+        "taddhita": false
+      }
+    },
+    {
+      "id": "lakara-laṅ",
+      "kind": "marker",
+      "input": {
+        "identity": "laṅ",
+        "text": "लँङ्",
+        "category": "lakara",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "a",
+          "ṅ"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "दश लकारा अनुबन्धविशिष्टा"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "लकारमात्रं स्थानित्वेनाधिक्रियते"
+        },
+        {
+          "path": "sutraani/tattvabodhini.txt",
+          "key": "34077",
+          "anchor": "लस्येत्संज्ञा तु न भवति"
+        }
+      ],
+      "annotation_status": "Conventional nasal teaching vowel supplied explicitly. laṭ is also directly discussed in Bālamanoramā 3.2.123; not inferred from the unmarked T82 input.",
+      "legacy_T82": {
+        "upadesa": "laṅ",
+        "kind": "pratyaya",
+        "vibhakti": false,
+        "taddhita": false
+      }
+    },
+    {
+      "id": "lakara-liṅ",
+      "kind": "marker",
+      "input": {
+        "identity": "liṅ",
+        "text": "लिँङ्",
+        "category": "lakara",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "i",
+          "ṅ"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "दश लकारा अनुबन्धविशिष्टा"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "लकारमात्रं स्थानित्वेनाधिक्रियते"
+        },
+        {
+          "path": "sutraani/tattvabodhini.txt",
+          "key": "34077",
+          "anchor": "लस्येत्संज्ञा तु न भवति"
+        }
+      ],
+      "annotation_status": "Conventional nasal teaching vowel supplied explicitly. laṭ is also directly discussed in Bālamanoramā 3.2.123; not inferred from the unmarked T82 input.",
+      "legacy_T82": {
+        "upadesa": "liṅ",
+        "kind": "pratyaya",
+        "vibhakti": false,
+        "taddhita": false
+      }
+    },
+    {
+      "id": "lakara-luṅ",
+      "kind": "marker",
+      "input": {
+        "identity": "luṅ",
+        "text": "लुँङ्",
+        "category": "lakara",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "u",
+          "ṅ"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "दश लकारा अनुबन्धविशिष्टा"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "लकारमात्रं स्थानित्वेनाधिक्रियते"
+        },
+        {
+          "path": "sutraani/tattvabodhini.txt",
+          "key": "34077",
+          "anchor": "लस्येत्संज्ञा तु न भवति"
+        }
+      ],
+      "annotation_status": "Conventional nasal teaching vowel supplied explicitly. laṭ is also directly discussed in Bālamanoramā 3.2.123; not inferred from the unmarked T82 input.",
+      "legacy_T82": {
+        "upadesa": "luṅ",
+        "kind": "pratyaya",
+        "vibhakti": false,
+        "taddhita": false
+      }
+    },
+    {
+      "id": "lakara-lṛṅ",
+      "kind": "marker",
+      "input": {
+        "identity": "lṛṅ",
+        "text": "लृँङ्",
+        "category": "lakara",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "ṛ",
+          "ṅ"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "दश लकारा अनुबन्धविशिष्टा"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "लकारमात्रं स्थानित्वेनाधिक्रियते"
+        },
+        {
+          "path": "sutraani/tattvabodhini.txt",
+          "key": "34077",
+          "anchor": "लस्येत्संज्ञा तु न भवति"
+        }
+      ],
+      "annotation_status": "Conventional nasal teaching vowel supplied explicitly. laṭ is also directly discussed in Bālamanoramā 3.2.123; not inferred from the unmarked T82 input.",
+      "legacy_T82": {
+        "upadesa": "lṛṅ",
+        "kind": "pratyaya",
+        "vibhakti": false,
+        "taddhita": false
+      }
+    },
+    {
+      "id": "jhi-retain-jh",
+      "kind": "marker",
+      "input": {
+        "identity": "jhi:3.4.78",
+        "text": "झि",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": true,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "jhi",
+        "units": []
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "चवर्गटवर्गौ"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "71003",
+          "anchor": "प्रत्ययावयवस्य झस्य"
+        }
+      ]
+    },
+    {
+      "id": "jha-retain-jh",
+      "kind": "marker",
+      "input": {
+        "identity": "jha:3.4.78",
+        "text": "झ",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": true,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "jha",
+        "units": []
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "चवर्गटवर्गौ"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "71003",
+          "anchor": "प्रत्ययावयवस्य झस्य"
+        }
+      ]
+    },
+    {
+      "id": "jhac-retain-jh",
+      "kind": "marker",
+      "input": {
+        "identity": "jhac:unadi3.126",
+        "text": "झच्",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "jha",
+        "units": [
+          "c"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "चवर्गटवर्गौ"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "71003",
+          "anchor": "प्रत्ययावयवस्य झस्य"
+        }
+      ]
+    },
+    {
+      "id": "cha-retain-ch",
+      "kind": "marker",
+      "input": {
+        "identity": "cha:4.2.114",
+        "text": "छ",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": true
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "cha",
+        "units": []
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "चवर्गटवर्गौ"
+        },
+        {
+          "path": "sutraani/nyaas.txt",
+          "key": "13007",
+          "anchor": "इत्संज्ञापवादम्"
+        }
+      ]
+    },
+    {
+      "id": "thak-retain-th",
+      "kind": "marker",
+      "input": {
+        "identity": "thak:4.4.1",
+        "text": "ठक्",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": true
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "ṭha",
+        "units": [
+          "k"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "चवर्गटवर्गौ"
+        },
+        {
+          "path": "sutraani/nyaas.txt",
+          "key": "13007",
+          "anchor": "इत्संज्ञापवादम्"
+        }
+      ]
+    },
+    {
+      "id": "than-retain-th",
+      "kind": "marker",
+      "input": {
+        "identity": "than:4.4.52",
+        "text": "ठञ्",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": true
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "ṭha",
+        "units": [
+          "ñ"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "चवर्गटवर्गौ"
+        },
+        {
+          "path": "sutraani/nyaas.txt",
+          "key": "13007",
+          "anchor": "इत्संज्ञापवादम्"
+        }
+      ]
+    },
+    {
+      "id": "dhak-retain-dh",
+      "kind": "marker",
+      "input": {
+        "identity": "dhak:4.1.120",
+        "text": "ढक्",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": true
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "ḍha",
+        "units": [
+          "k"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "चवर्गटवर्गौ"
+        },
+        {
+          "path": "sutraani/nyaas.txt",
+          "key": "13007",
+          "anchor": "इत्संज्ञापवादम्"
+        }
+      ]
+    },
+    {
+      "id": "jas-still-jit",
+      "kind": "marker",
+      "input": {
+        "identity": "jas:4.1.2",
+        "text": "जस्",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": true,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "as",
+        "units": [
+          "j"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "चवर्गटवर्गौ"
+        },
+        {
+          "path": "sutraani/nyaas.txt",
+          "key": "13007",
+          "anchor": "इत्संज्ञापवादम्"
+        }
+      ]
+    },
+    {
+      "id": "at-exception-retained",
+      "kind": "marker",
+      "input": {
+        "identity": "at:5.3.12",
+        "text": "अत्",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": true,
+        "taddhita": true
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "a",
+        "units": [
+          "t"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13004",
+          "anchor": "किमोऽत्"
+        }
+      ]
+    },
+    {
+      "id": "cuncup-exception-retained",
+      "kind": "marker",
+      "input": {
+        "identity": "cuñcup:5.2.26",
+        "text": "चुञ्चुप्",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": true
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "cuñcu",
+        "units": [
+          "p"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "चुञ्चुप्चणपौ"
+        }
+      ]
+    },
+    {
+      "id": "gad-retroflex-nasal",
+      "kind": "readout",
+      "input": {
+        "lexical_id": "1010068",
+        "teaching": "गडिँ",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "underlying": "ganḍ",
+        "readout": "gaṇḍ",
+        "applied": [
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010068",
+          "anchor": "गडिँ",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010068",
+          "anchor": "गण्ड्",
+          "field": "dhatu"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "83024",
+          "anchor": "नकारस्य मकारस्य"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84058",
+          "anchor": "अनुस्वारस्य ययि"
+        }
+      ]
+    },
+    {
+      "id": "srak-velar-nasal",
+      "kind": "readout",
+      "input": {
+        "lexical_id": "1010088",
+        "teaching": "स्रकिँ",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "underlying": "srank",
+        "readout": "sraṅk",
+        "applied": [
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010088",
+          "anchor": "स्रकिँ",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010088",
+          "anchor": "स्रङ्क्",
+          "field": "dhatu"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "83024",
+          "anchor": "नकारस्य मकारस्य"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84058",
+          "anchor": "अनुस्वारस्य ययि"
+        }
+      ]
+    },
+    {
+      "id": "bah-before-h",
+      "kind": "readout",
+      "input": {
+        "lexical_id": "1010663",
+        "teaching": "बहिँ",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "underlying": "banh",
+        "readout": "baṃh",
+        "applied": [
+          "8.3.24"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010663",
+          "anchor": "बहिँ",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010663",
+          "anchor": "बंह्",
+          "field": "dhatu"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "83024",
+          "anchor": "नकारस्य मकारस्य"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84058",
+          "anchor": "अनुस्वारस्य ययि"
+        }
+      ]
+    },
+    {
+      "id": "skud-dental-nasal",
+      "kind": "readout",
+      "input": {
+        "lexical_id": "1010009",
+        "teaching": "स्कुदिँ",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "underlying": "skund",
+        "readout": "skund",
+        "applied": [
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010009",
+          "anchor": "स्कुदिँ",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010009",
+          "anchor": "स्कुन्द्",
+          "field": "dhatu"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "83024",
+          "anchor": "नकारस्य मकारस्य"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84058",
+          "anchor": "अनुस्वारस्य ययि"
+        }
+      ]
+    },
+    {
+      "id": "bhid-irit-no-phantom-num",
+      "kind": "readout",
+      "input": {
+        "lexical_id": "1070002",
+        "teaching": "भिदिँर्",
+        "origin": "listed_dhatu",
+        "nasality_complete": true
+      },
+      "expected": {
+        "underlying": "bhid",
+        "readout": "bhid",
+        "applied": []
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1070002",
+          "anchor": "भिदिँर्",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1070002",
+          "anchor": "भिद्",
+          "field": "dhatu"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "83024",
+          "anchor": "नकारस्य मकारस्य"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84058",
+          "anchor": "अनुस्वारस्य ययि"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3657 @@
+{
+  "stage": "PG3",
+  "author": "Monty",
+  "review_date": "2026-11-01",
+  "reviewed_commits": [
+    "770c01a1904b6dcadfba57696b70d81d0d294914",
+    "36a8ff62e6632743fc96da23dc020fe16a78d98a",
+    "674fdc5be17dced7a15064e707e77bd30d9db0c3"
+  ],
+  "primary_source_commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+  "verification_status": "LOCAL_REFERENCE_CHECKS_AGREE",
+  "grammar_status": "NOT_COMPLETE",
+  "valid_sanskrit_oracle": false,
+  "source_checks": {
+    "literal_anchors": 143,
+    "unique_anchors": 77,
+    "external_files": 6,
+    "historical_files_unchanged": 11
+  },
+  "input_sha256": {
+    "RULES.json": "42545c8296bb8fce7d3447bd9df3da8f1098b126bdb353e7e7bc6ff7f00c9d96",
+    "REFERENCE_CASES.json": "ba216670565092e07f455dfe7b9dd846fe8e83bcd8179e4e4cd90cf27fbb63ac",
+    "CLAIM_REVIEW.json": "766a193f5259465d36dd2aac2275a399be0c08b253e022c71746fd604246785d",
+    "SOURCE_PINS.json": "7848656a477364d676ee62e12f6aa9038cb013b305d279cfcafb966f61436acd",
+    "root_preprocess.py": "33f24362b5f946a5d25dd5a7ceb1f7a6368ef7e091a605b77c871a4bfa781a1d",
+    "verify.py": "82548ef7e25b482c49b1a4d8f77ba4b752276269bc013a4797da208e0b0b9121"
+  },
+  "case_counts": {
+    "root": 20,
+    "marker": 20,
+    "readout": 5
+  },
+  "case_results": [
+    {
+      "id": "ni-initial-n",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "nī",
+        "idit": false,
+        "applied": [
+          "6.1.65"
+        ]
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "nī",
+        "idit": false,
+        "applied": [
+          "6.1.65"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "svad-initial-s",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "svad",
+        "idit": false,
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "svad",
+        "idit": false,
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "skud-num",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "skund",
+        "idit": true,
+        "applied": [
+          "7.1.58"
+        ]
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "skund",
+        "idit": true,
+        "applied": [
+          "7.1.58"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "bhid-idit-num",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "bhind",
+        "idit": true,
+        "applied": [
+          "7.1.58"
+        ]
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "bhind",
+        "idit": true,
+        "applied": [
+          "7.1.58"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "bhid-irit-no-num",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "bhid",
+        "idit": false,
+        "applied": []
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "bhid",
+        "idit": false,
+        "applied": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "chid-irit-no-num",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "chid",
+        "idit": false,
+        "applied": []
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "chid",
+        "idit": false,
+        "applied": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "gam-original-final-m",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "gam",
+        "idit": false,
+        "applied": []
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "gam",
+        "idit": false,
+        "applied": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "bhu-no-marker",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "bhū",
+        "idit": false,
+        "applied": []
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "bhū",
+        "idit": false,
+        "applied": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "edh-marker-only",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "edh",
+        "idit": false,
+        "applied": []
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "edh",
+        "idit": false,
+        "applied": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "labh-compound-du",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "labh",
+        "idit": false,
+        "applied": []
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "labh",
+        "idit": false,
+        "applied": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "kr-compound-du",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "kṛ",
+        "idit": false,
+        "applied": []
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "kṛ",
+        "idit": false,
+        "applied": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "mid-compound-ni",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "mid",
+        "idit": false,
+        "applied": []
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "mid",
+        "idit": false,
+        "applied": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "svas-kasika-exception",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "ṣvaṣk",
+        "idit": false,
+        "applied": []
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "ṣvaṣk",
+        "idit": false,
+        "applied": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "svakk-nyasa-exception",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "ṣvakk",
+        "idit": false,
+        "applied": []
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "ṣvakk",
+        "idit": false,
+        "applied": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "sthiv-kasika-exception-gana1",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "ṣṭhiv",
+        "idit": false,
+        "applied": []
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "ṣṭhiv",
+        "idit": false,
+        "applied": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "sthiv-kasika-exception-gana4",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "ṣṭhiv",
+        "idit": false,
+        "applied": []
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "ṣṭhiv",
+        "idit": false,
+        "applied": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "derived-subdhatu-s",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "ṣoḍa",
+        "idit": false,
+        "applied": []
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "ṣoḍa",
+        "idit": false,
+        "applied": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "derived-subdhatu-n",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "ṇakārīya",
+        "idit": false,
+        "applied": []
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "ṇakārīya",
+        "idit": false,
+        "applied": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "interior-n-retained",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "aṇa",
+        "idit": false,
+        "applied": []
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "aṇa",
+        "idit": false,
+        "applied": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "interior-s-retained",
+      "kind": "root",
+      "actual": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "kaṣa",
+        "idit": false,
+        "applied": []
+      },
+      "expected": {
+        "status": "BOUNDED_ROOT_PREPROCESSING",
+        "projection": "kaṣa",
+        "idit": false,
+        "applied": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "lakara-laṭ",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "a",
+          "ṭ"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "a",
+          "ṭ"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "lakara-liṭ",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "i",
+          "ṭ"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "i",
+          "ṭ"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "lakara-luṭ",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "u",
+          "ṭ"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "u",
+          "ṭ"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "lakara-lṛṭ",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "ṛ",
+          "ṭ"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "ṛ",
+          "ṭ"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "lakara-leṭ",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "e",
+          "ṭ"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "e",
+          "ṭ"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "lakara-loṭ",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "o",
+          "ṭ"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "o",
+          "ṭ"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "lakara-laṅ",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "a",
+          "ṅ"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "a",
+          "ṅ"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "lakara-liṅ",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "i",
+          "ṅ"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "i",
+          "ṅ"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "lakara-luṅ",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "u",
+          "ṅ"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "u",
+          "ṅ"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "lakara-lṛṅ",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "ṛ",
+          "ṅ"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "l",
+        "units": [
+          "ṛ",
+          "ṅ"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "jhi-retain-jh",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "jhi",
+        "units": []
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "jhi",
+        "units": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "jha-retain-jh",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "jha",
+        "units": []
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "jha",
+        "units": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "jhac-retain-jh",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "jha",
+        "units": [
+          "c"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "jha",
+        "units": [
+          "c"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "cha-retain-ch",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "cha",
+        "units": []
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "cha",
+        "units": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "thak-retain-th",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "ṭha",
+        "units": [
+          "k"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "ṭha",
+        "units": [
+          "k"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "than-retain-th",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "ṭha",
+        "units": [
+          "ñ"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "ṭha",
+        "units": [
+          "ñ"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "dhak-retain-dh",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "ḍha",
+        "units": [
+          "k"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "ḍha",
+        "units": [
+          "k"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "jas-still-jit",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "as",
+        "units": [
+          "j"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "as",
+        "units": [
+          "j"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "at-exception-retained",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "a",
+        "units": [
+          "t"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "a",
+        "units": [
+          "t"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "cuncup-exception-retained",
+      "kind": "marker",
+      "actual": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "cuñcu",
+        "units": [
+          "p"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "projection": "cuñcu",
+        "units": [
+          "p"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "gad-retroflex-nasal",
+      "kind": "readout",
+      "actual": {
+        "underlying": "ganḍ",
+        "readout": "gaṇḍ",
+        "applied": [
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      "expected": {
+        "underlying": "ganḍ",
+        "readout": "gaṇḍ",
+        "applied": [
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "srak-velar-nasal",
+      "kind": "readout",
+      "actual": {
+        "underlying": "srank",
+        "readout": "sraṅk",
+        "applied": [
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      "expected": {
+        "underlying": "srank",
+        "readout": "sraṅk",
+        "applied": [
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "bah-before-h",
+      "kind": "readout",
+      "actual": {
+        "underlying": "banh",
+        "readout": "baṃh",
+        "applied": [
+          "8.3.24"
+        ]
+      },
+      "expected": {
+        "underlying": "banh",
+        "readout": "baṃh",
+        "applied": [
+          "8.3.24"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "skud-dental-nasal",
+      "kind": "readout",
+      "actual": {
+        "underlying": "skund",
+        "readout": "skund",
+        "applied": [
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      "expected": {
+        "underlying": "skund",
+        "readout": "skund",
+        "applied": [
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "bhid-irit-no-phantom-num",
+      "kind": "readout",
+      "actual": {
+        "underlying": "bhid",
+        "readout": "bhid",
+        "applied": []
+      },
+      "expected": {
+        "underlying": "bhid",
+        "readout": "bhid",
+        "applied": []
+      },
+      "agrees": true
+    }
+  ],
+  "structural_controls": [
+    {
+      "id": "replacement-keeps-original-uid-and-sound",
+      "agrees": true
+    },
+    {
+      "id": "removed-marker-remains-in-source-history",
+      "agrees": true
+    },
+    {
+      "id": "same-it-projection-does-not-collapse-i-and-ir",
+      "agrees": true
+    },
+    {
+      "id": "compound-ni-is-not-standalone-idit",
+      "agrees": true
+    },
+    {
+      "id": "num-has-fresh-identity-and-placement-history",
+      "agrees": true
+    },
+    {
+      "id": "tripadi-query-preserves-earlier-state",
+      "agrees": true
+    },
+    {
+      "id": "readout-repeated-query-is-stable",
+      "agrees": true
+    },
+    {
+      "id": "readout-cannot-be-fed-back-as-preprocessing-state",
+      "agrees": true
+    },
+    {
+      "id": "readout-has-no-mutable-alias-to-root",
+      "agrees": true
+    },
+    {
+      "id": "pada-boundary-not-assumed",
+      "agrees": true
+    },
+    {
+      "id": "missing-nasality-refused",
+      "agrees": true
+    },
+    {
+      "id": "unknown-root-origin-refused",
+      "agrees": true
+    },
+    {
+      "id": "missing-lexical-identity-refused",
+      "agrees": true
+    },
+    {
+      "id": "expected-headword-is-not-an-input-field",
+      "agrees": true
+    },
+    {
+      "id": "headword-mutation-does-not-affect-preprocessing",
+      "agrees": true
+    },
+    {
+      "id": "ganasutra-is-not-a-root",
+      "agrees": true
+    },
+    {
+      "id": "jnapaka-exception-is-identity-scoped",
+      "agrees": true
+    },
+    {
+      "id": "exception-preserves-affix-identity",
+      "agrees": true
+    },
+    {
+      "id": "num-without-placement-vowel-refused",
+      "agrees": true
+    },
+    {
+      "id": "nasal-following-num-is-outside-jhal",
+      "agrees": true
+    },
+    {
+      "id": "semivowel-following-num-is-outside-jhal",
+      "agrees": true
+    },
+    {
+      "id": "elided-vowels-cannot-license-placement",
+      "agrees": true
+    },
+    {
+      "id": "marker-baseline-reproduces-frozen-PG2-root-counts",
+      "agrees": true
+    },
+    {
+      "id": "no-lost-matches-on-this-pinned-witness",
+      "agrees": true
+    }
+  ],
+  "historical_counterexample_probes": [
+    {
+      "id": "lakara-laṭ",
+      "legacy_unmarked_input": "laṭ",
+      "legacy_unmarked_result": "a",
+      "explicit_nasal_input": "la~ṭ",
+      "legacy_same_annotated_result": "",
+      "reviewed_result": "l",
+      "scope": "Same annotated input shows the missing l exception; raw-input nasality is also missing.",
+      "agrees": true
+    },
+    {
+      "id": "lakara-liṭ",
+      "legacy_unmarked_input": "liṭ",
+      "legacy_unmarked_result": "i",
+      "explicit_nasal_input": "li~ṭ",
+      "legacy_same_annotated_result": "",
+      "reviewed_result": "l",
+      "scope": "Same annotated input shows the missing l exception; raw-input nasality is also missing.",
+      "agrees": true
+    },
+    {
+      "id": "lakara-luṭ",
+      "legacy_unmarked_input": "luṭ",
+      "legacy_unmarked_result": "u",
+      "explicit_nasal_input": "lu~ṭ",
+      "legacy_same_annotated_result": "",
+      "reviewed_result": "l",
+      "scope": "Same annotated input shows the missing l exception; raw-input nasality is also missing.",
+      "agrees": true
+    },
+    {
+      "id": "lakara-lṛṭ",
+      "legacy_unmarked_input": "lṛṭ",
+      "legacy_unmarked_result": "ṛ",
+      "explicit_nasal_input": "lṛ~ṭ",
+      "legacy_same_annotated_result": "",
+      "reviewed_result": "l",
+      "scope": "Same annotated input shows the missing l exception; raw-input nasality is also missing.",
+      "agrees": true
+    },
+    {
+      "id": "lakara-leṭ",
+      "legacy_unmarked_input": "leṭ",
+      "legacy_unmarked_result": "e",
+      "explicit_nasal_input": "le~ṭ",
+      "legacy_same_annotated_result": "",
+      "reviewed_result": "l",
+      "scope": "Same annotated input shows the missing l exception; raw-input nasality is also missing.",
+      "agrees": true
+    },
+    {
+      "id": "lakara-loṭ",
+      "legacy_unmarked_input": "loṭ",
+      "legacy_unmarked_result": "o",
+      "explicit_nasal_input": "lo~ṭ",
+      "legacy_same_annotated_result": "",
+      "reviewed_result": "l",
+      "scope": "Same annotated input shows the missing l exception; raw-input nasality is also missing.",
+      "agrees": true
+    },
+    {
+      "id": "lakara-laṅ",
+      "legacy_unmarked_input": "laṅ",
+      "legacy_unmarked_result": "a",
+      "explicit_nasal_input": "la~ṅ",
+      "legacy_same_annotated_result": "",
+      "reviewed_result": "l",
+      "scope": "Same annotated input shows the missing l exception; raw-input nasality is also missing.",
+      "agrees": true
+    },
+    {
+      "id": "lakara-liṅ",
+      "legacy_unmarked_input": "liṅ",
+      "legacy_unmarked_result": "i",
+      "explicit_nasal_input": "li~ṅ",
+      "legacy_same_annotated_result": "",
+      "reviewed_result": "l",
+      "scope": "Same annotated input shows the missing l exception; raw-input nasality is also missing.",
+      "agrees": true
+    },
+    {
+      "id": "lakara-luṅ",
+      "legacy_unmarked_input": "luṅ",
+      "legacy_unmarked_result": "u",
+      "explicit_nasal_input": "lu~ṅ",
+      "legacy_same_annotated_result": "",
+      "reviewed_result": "l",
+      "scope": "Same annotated input shows the missing l exception; raw-input nasality is also missing.",
+      "agrees": true
+    },
+    {
+      "id": "lakara-lṛṅ",
+      "legacy_unmarked_input": "lṛṅ",
+      "legacy_unmarked_result": "ṛ",
+      "explicit_nasal_input": "lṛ~ṅ",
+      "legacy_same_annotated_result": "",
+      "reviewed_result": "l",
+      "scope": "Same annotated input shows the missing l exception; raw-input nasality is also missing.",
+      "agrees": true
+    },
+    {
+      "id": "PG2-jhi-reading-superseded",
+      "historical_projection": "i",
+      "reviewed_projection": "jhi",
+      "agrees": true
+    },
+    {
+      "id": "T81-vowel-table-is-not-exhaustive-traditional-savarna",
+      "classes": [
+        [
+          "ṛ",
+          "ṝ"
+        ],
+        [
+          "ḷ",
+          "ḹ"
+        ]
+      ],
+      "long_l_in_inventory": true,
+      "agrees": true,
+      "scope": "Confirms the source-review limitation; does not repair or certify the entire sound table."
+    }
+  ],
+  "root_diagnostic": {
+    "status": "HEADWORD_DIAGNOSTIC_NOT_GRAMMAR_ACCURACY",
+    "records": 2259,
+    "root_entries": 2229,
+    "stage_counts": {
+      "marker_only": {
+        "exact_headword_agreement": 1703,
+        "different_projection": 524
+      },
+      "root_preprocessing": {
+        "exact_headword_agreement": 1844,
+        "different_projection": 383
+      },
+      "num_phonetic_readout": {
+        "exact_headword_agreement": 2081,
+        "different_projection": 146
+      }
+    },
+    "unresolved_count": 2,
+    "non_root_directive_count": 30,
+    "assumptions": [
+      "Pinned lexical classification and nasal teaching marks are supplied inputs.",
+      "Headwords are comparison data only; matching is not an independent soundness oracle.",
+      "Tripādī readout is a local query, not the input to later pre-Tripādī derivation."
+    ],
+    "compound_ir_records": 27,
+    "rule_application_counts": {
+      "6.1.64": 102,
+      "6.1.65": 35,
+      "7.1.58": 292,
+      "8.3.24": 276,
+      "8.4.58": 241
+    },
+    "new_match_counts": {
+      "preprocessing_over_markers": 141,
+      "readout_over_preprocessing": 237,
+      "readout_over_markers": 378
+    },
+    "new_match_ids": {
+      "preprocessing_over_markers": [
+        "1010009",
+        "1010010",
+        "1010011",
+        "1010012",
+        "1010013",
+        "1010014",
+        "1010015",
+        "1010018",
+        "1010025",
+        "1010035",
+        "1010036",
+        "1010044",
+        "1010045",
+        "1010046",
+        "1010047",
+        "1010049",
+        "1010050",
+        "1010056",
+        "1010063",
+        "1010064",
+        "1010065",
+        "1010066",
+        "1010067",
+        "1010069",
+        "1010070",
+        "1010071",
+        "1010072",
+        "1010073",
+        "1010074",
+        "1010075",
+        "1010076",
+        "1010142",
+        "1010187",
+        "1010253",
+        "1010257",
+        "1010341",
+        "1010347",
+        "1010350",
+        "1010450",
+        "1010466",
+        "1010490",
+        "1010496",
+        "1010498",
+        "1010552",
+        "1010574",
+        "1010600",
+        "1010624",
+        "1010628",
+        "1010647",
+        "1010669",
+        "1010670",
+        "1010671",
+        "1010672",
+        "1010673",
+        "1010674",
+        "1010675",
+        "1010676",
+        "1010677",
+        "1010678",
+        "1010679",
+        "1010680",
+        "1010681",
+        "1010682",
+        "1010704",
+        "1010712",
+        "1010714",
+        "1010747",
+        "1010752",
+        "1010759",
+        "1010774",
+        "1010823",
+        "1010845",
+        "1010855",
+        "1010878",
+        "1010879",
+        "1010880",
+        "1010890",
+        "1010898",
+        "1010963",
+        "1010972",
+        "1010988",
+        "1010990",
+        "1011012",
+        "1011013",
+        "1011048",
+        "1011049",
+        "1011063",
+        "1011091",
+        "1011099",
+        "1011133",
+        "1011136",
+        "1011152",
+        "1020025",
+        "1020030",
+        "1020036",
+        "1020063",
+        "1020073",
+        "1030012",
+        "1040002",
+        "1040023",
+        "1040024",
+        "1040027",
+        "1040042",
+        "1040062",
+        "1040085",
+        "1040089",
+        "1040091",
+        "1040127",
+        "1040155",
+        "1050001",
+        "1050002",
+        "1050024",
+        "1060002",
+        "1060066",
+        "1060087",
+        "1060090",
+        "1060132",
+        "1060144",
+        "1060162",
+        "1060163",
+        "1060170",
+        "1090005",
+        "1090056",
+        "1100002",
+        "1100003",
+        "1100007",
+        "1100011",
+        "1100038",
+        "1100051",
+        "1100058",
+        "1100060",
+        "1100062",
+        "1100128",
+        "1100198",
+        "1100199",
+        "1100242",
+        "1100309",
+        "1100326",
+        "1100336",
+        "1100341",
+        "1100368"
+      ],
+      "readout_over_preprocessing": [
+        "1010068",
+        "1010088",
+        "1010089",
+        "1010090",
+        "1010091",
+        "1010092",
+        "1010093",
+        "1010094",
+        "1010099",
+        "1010100",
+        "1010101",
+        "1010102",
+        "1010112",
+        "1010113",
+        "1010115",
+        "1010116",
+        "1010117",
+        "1010125",
+        "1010137",
+        "1010139",
+        "1010141",
+        "1010143",
+        "1010145",
+        "1010147",
+        "1010149",
+        "1010151",
+        "1010153",
+        "1010154",
+        "1010155",
+        "1010156",
+        "1010157",
+        "1010158",
+        "1010159",
+        "1010161",
+        "1010162",
+        "1010163",
+        "1010164",
+        "1010165",
+        "1010173",
+        "1010174",
+        "1010175",
+        "1010176",
+        "1010177",
+        "1010178",
+        "1010183",
+        "1010184",
+        "1010191",
+        "1010193",
+        "1010194",
+        "1010196",
+        "1010197",
+        "1010198",
+        "1010201",
+        "1010231",
+        "1010235",
+        "1010236",
+        "1010237",
+        "1010243",
+        "1010246",
+        "1010247",
+        "1010250",
+        "1010252",
+        "1010266",
+        "1010272",
+        "1010274",
+        "1010276",
+        "1010278",
+        "1010280",
+        "1010282",
+        "1010284",
+        "1010294",
+        "1010295",
+        "1010296",
+        "1010297",
+        "1010298",
+        "1010301",
+        "1010302",
+        "1010303",
+        "1010304",
+        "1010305",
+        "1010306",
+        "1010307",
+        "1010308",
+        "1010309",
+        "1010310",
+        "1010311",
+        "1010312",
+        "1010313",
+        "1010314",
+        "1010315",
+        "1010316",
+        "1010317",
+        "1010360",
+        "1010361",
+        "1010362",
+        "1010363",
+        "1010368",
+        "1010369",
+        "1010370",
+        "1010371",
+        "1010372",
+        "1010373",
+        "1010374",
+        "1010375",
+        "1010376",
+        "1010377",
+        "1010378",
+        "1010380",
+        "1010397",
+        "1010398",
+        "1010399",
+        "1010400",
+        "1010401",
+        "1010418",
+        "1010419",
+        "1010435",
+        "1010436",
+        "1010437",
+        "1010438",
+        "1010439",
+        "1010448",
+        "1010449",
+        "1010452",
+        "1010454",
+        "1010480",
+        "1010492",
+        "1010493",
+        "1010494",
+        "1010495",
+        "1010663",
+        "1010716",
+        "1010720",
+        "1010721",
+        "1010722",
+        "1010740",
+        "1010760",
+        "1010761",
+        "1010762",
+        "1010763",
+        "1010764",
+        "1010765",
+        "1010833",
+        "1010835",
+        "1010837",
+        "1010873",
+        "1010877",
+        "1010943",
+        "1010945",
+        "1010946",
+        "1011000",
+        "1020014",
+        "1020017",
+        "1020018",
+        "1020019",
+        "1020020",
+        "1020021",
+        "1020023",
+        "1020074",
+        "1060014",
+        "1070019",
+        "1100004",
+        "1100005",
+        "1100009",
+        "1100013",
+        "1100014",
+        "1100043",
+        "1100045",
+        "1100047",
+        "1100048",
+        "1100049",
+        "1100066",
+        "1100067",
+        "1100068",
+        "1100069",
+        "1100070",
+        "1100071",
+        "1100072",
+        "1100073",
+        "1100074",
+        "1100075",
+        "1100076",
+        "1100077",
+        "1100105",
+        "1100106",
+        "1100107",
+        "1100111",
+        "1100112",
+        "1100113",
+        "1100114",
+        "1100130",
+        "1100135",
+        "1100147",
+        "1100153",
+        "1100157",
+        "1100158",
+        "1100159",
+        "1100160",
+        "1100164",
+        "1100166",
+        "1100171",
+        "1100182",
+        "1100185",
+        "1100193",
+        "1100194",
+        "1100241",
+        "1100254",
+        "1100267",
+        "1100285",
+        "1100286",
+        "1100287",
+        "1100289",
+        "1100290",
+        "1100291",
+        "1100292",
+        "1100293",
+        "1100294",
+        "1100295",
+        "1100296",
+        "1100298",
+        "1100299",
+        "1100315",
+        "1100316",
+        "1100317",
+        "1100318",
+        "1100319",
+        "1100321",
+        "1100322",
+        "1100323",
+        "1100327",
+        "1100328",
+        "1100329",
+        "1100330",
+        "1100331",
+        "1100366",
+        "1100385",
+        "1100464",
+        "1100465"
+      ],
+      "readout_over_markers": [
+        "1010009",
+        "1010010",
+        "1010011",
+        "1010012",
+        "1010013",
+        "1010014",
+        "1010015",
+        "1010018",
+        "1010025",
+        "1010035",
+        "1010036",
+        "1010044",
+        "1010045",
+        "1010046",
+        "1010047",
+        "1010049",
+        "1010050",
+        "1010056",
+        "1010063",
+        "1010064",
+        "1010065",
+        "1010066",
+        "1010067",
+        "1010068",
+        "1010069",
+        "1010070",
+        "1010071",
+        "1010072",
+        "1010073",
+        "1010074",
+        "1010075",
+        "1010076",
+        "1010088",
+        "1010089",
+        "1010090",
+        "1010091",
+        "1010092",
+        "1010093",
+        "1010094",
+        "1010099",
+        "1010100",
+        "1010101",
+        "1010102",
+        "1010112",
+        "1010113",
+        "1010115",
+        "1010116",
+        "1010117",
+        "1010125",
+        "1010137",
+        "1010139",
+        "1010141",
+        "1010142",
+        "1010143",
+        "1010145",
+        "1010147",
+        "1010149",
+        "1010151",
+        "1010153",
+        "1010154",
+        "1010155",
+        "1010156",
+        "1010157",
+        "1010158",
+        "1010159",
+        "1010161",
+        "1010162",
+        "1010163",
+        "1010164",
+        "1010165",
+        "1010173",
+        "1010174",
+        "1010175",
+        "1010176",
+        "1010177",
+        "1010178",
+        "1010183",
+        "1010184",
+        "1010187",
+        "1010191",
+        "1010193",
+        "1010194",
+        "1010196",
+        "1010197",
+        "1010198",
+        "1010201",
+        "1010231",
+        "1010235",
+        "1010236",
+        "1010237",
+        "1010243",
+        "1010246",
+        "1010247",
+        "1010250",
+        "1010252",
+        "1010253",
+        "1010257",
+        "1010266",
+        "1010272",
+        "1010274",
+        "1010276",
+        "1010278",
+        "1010280",
+        "1010282",
+        "1010284",
+        "1010294",
+        "1010295",
+        "1010296",
+        "1010297",
+        "1010298",
+        "1010301",
+        "1010302",
+        "1010303",
+        "1010304",
+        "1010305",
+        "1010306",
+        "1010307",
+        "1010308",
+        "1010309",
+        "1010310",
+        "1010311",
+        "1010312",
+        "1010313",
+        "1010314",
+        "1010315",
+        "1010316",
+        "1010317",
+        "1010341",
+        "1010347",
+        "1010350",
+        "1010360",
+        "1010361",
+        "1010362",
+        "1010363",
+        "1010368",
+        "1010369",
+        "1010370",
+        "1010371",
+        "1010372",
+        "1010373",
+        "1010374",
+        "1010375",
+        "1010376",
+        "1010377",
+        "1010378",
+        "1010380",
+        "1010397",
+        "1010398",
+        "1010399",
+        "1010400",
+        "1010401",
+        "1010418",
+        "1010419",
+        "1010435",
+        "1010436",
+        "1010437",
+        "1010438",
+        "1010439",
+        "1010448",
+        "1010449",
+        "1010450",
+        "1010452",
+        "1010454",
+        "1010466",
+        "1010480",
+        "1010490",
+        "1010492",
+        "1010493",
+        "1010494",
+        "1010495",
+        "1010496",
+        "1010498",
+        "1010552",
+        "1010574",
+        "1010600",
+        "1010624",
+        "1010628",
+        "1010647",
+        "1010663",
+        "1010669",
+        "1010670",
+        "1010671",
+        "1010672",
+        "1010673",
+        "1010674",
+        "1010675",
+        "1010676",
+        "1010677",
+        "1010678",
+        "1010679",
+        "1010680",
+        "1010681",
+        "1010682",
+        "1010704",
+        "1010712",
+        "1010714",
+        "1010716",
+        "1010720",
+        "1010721",
+        "1010722",
+        "1010740",
+        "1010747",
+        "1010752",
+        "1010759",
+        "1010760",
+        "1010761",
+        "1010762",
+        "1010763",
+        "1010764",
+        "1010765",
+        "1010774",
+        "1010823",
+        "1010833",
+        "1010835",
+        "1010837",
+        "1010845",
+        "1010855",
+        "1010873",
+        "1010877",
+        "1010878",
+        "1010879",
+        "1010880",
+        "1010890",
+        "1010898",
+        "1010943",
+        "1010945",
+        "1010946",
+        "1010963",
+        "1010972",
+        "1010988",
+        "1010990",
+        "1011000",
+        "1011012",
+        "1011013",
+        "1011048",
+        "1011049",
+        "1011063",
+        "1011091",
+        "1011099",
+        "1011133",
+        "1011136",
+        "1011152",
+        "1020014",
+        "1020017",
+        "1020018",
+        "1020019",
+        "1020020",
+        "1020021",
+        "1020023",
+        "1020025",
+        "1020030",
+        "1020036",
+        "1020063",
+        "1020073",
+        "1020074",
+        "1030012",
+        "1040002",
+        "1040023",
+        "1040024",
+        "1040027",
+        "1040042",
+        "1040062",
+        "1040085",
+        "1040089",
+        "1040091",
+        "1040127",
+        "1040155",
+        "1050001",
+        "1050002",
+        "1050024",
+        "1060002",
+        "1060014",
+        "1060066",
+        "1060087",
+        "1060090",
+        "1060132",
+        "1060144",
+        "1060162",
+        "1060163",
+        "1060170",
+        "1070019",
+        "1090005",
+        "1090056",
+        "1100002",
+        "1100003",
+        "1100004",
+        "1100005",
+        "1100007",
+        "1100009",
+        "1100011",
+        "1100013",
+        "1100014",
+        "1100038",
+        "1100043",
+        "1100045",
+        "1100047",
+        "1100048",
+        "1100049",
+        "1100051",
+        "1100058",
+        "1100060",
+        "1100062",
+        "1100066",
+        "1100067",
+        "1100068",
+        "1100069",
+        "1100070",
+        "1100071",
+        "1100072",
+        "1100073",
+        "1100074",
+        "1100075",
+        "1100076",
+        "1100077",
+        "1100105",
+        "1100106",
+        "1100107",
+        "1100111",
+        "1100112",
+        "1100113",
+        "1100114",
+        "1100128",
+        "1100130",
+        "1100135",
+        "1100147",
+        "1100153",
+        "1100157",
+        "1100158",
+        "1100159",
+        "1100160",
+        "1100164",
+        "1100166",
+        "1100171",
+        "1100182",
+        "1100185",
+        "1100193",
+        "1100194",
+        "1100198",
+        "1100199",
+        "1100241",
+        "1100242",
+        "1100254",
+        "1100267",
+        "1100285",
+        "1100286",
+        "1100287",
+        "1100289",
+        "1100290",
+        "1100291",
+        "1100292",
+        "1100293",
+        "1100294",
+        "1100295",
+        "1100296",
+        "1100298",
+        "1100299",
+        "1100309",
+        "1100315",
+        "1100316",
+        "1100317",
+        "1100318",
+        "1100319",
+        "1100321",
+        "1100322",
+        "1100323",
+        "1100326",
+        "1100327",
+        "1100328",
+        "1100329",
+        "1100330",
+        "1100331",
+        "1100336",
+        "1100341",
+        "1100366",
+        "1100368",
+        "1100385",
+        "1100464",
+        "1100465"
+      ]
+    },
+    "regression_ids": {
+      "preprocessing_from_markers": [],
+      "readout_from_preprocessing": [],
+      "readout_from_markers": []
+    },
+    "all_resolved_projection_records_sha256": "d61bbc47a9911a6b555654eb3a31ab6f45961f2d38448cf06014e07619151abd",
+    "remaining_differences": [
+      {
+        "id": "1010020",
+        "teaching": "उर्दँ",
+        "headword": "ऊर्द्",
+        "expected_tokens": "ūrd",
+        "marker_only": "urd",
+        "root_preprocessing": "urd",
+        "num_phonetic_readout": "urd",
+        "applied": []
+      },
+      {
+        "id": "1010021",
+        "teaching": "कुर्दँ",
+        "headword": "कूर्द्",
+        "expected_tokens": "kūrd",
+        "marker_only": "kurd",
+        "root_preprocessing": "kurd",
+        "num_phonetic_readout": "kurd",
+        "applied": []
+      },
+      {
+        "id": "1010022",
+        "teaching": "खुर्दँ",
+        "headword": "खूर्द्",
+        "expected_tokens": "khūrd",
+        "marker_only": "khurd",
+        "root_preprocessing": "khurd",
+        "num_phonetic_readout": "khurd",
+        "applied": []
+      },
+      {
+        "id": "1010023",
+        "teaching": "गुर्दँ",
+        "headword": "गूर्द्",
+        "expected_tokens": "gūrd",
+        "marker_only": "gurd",
+        "root_preprocessing": "gurd",
+        "num_phonetic_readout": "gurd",
+        "applied": []
+      },
+      {
+        "id": "1010167",
+        "teaching": "कक्ख",
+        "headword": "कक्ख्",
+        "expected_tokens": "kakkh",
+        "marker_only": "kakkha",
+        "root_preprocessing": "kakkha",
+        "num_phonetic_readout": "kakkha",
+        "applied": []
+      },
+      {
+        "id": "1010199",
+        "teaching": "ष्टुचँ",
+        "headword": "स्तुच्",
+        "expected_tokens": "stuc",
+        "marker_only": "ṣṭuc",
+        "root_preprocessing": "sṭuc",
+        "num_phonetic_readout": "sṭuc",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1010208",
+        "teaching": "पेबृ",
+        "headword": "पेब्",
+        "expected_tokens": "peb",
+        "marker_only": "pebṛ",
+        "root_preprocessing": "pebṛ",
+        "num_phonetic_readout": "pebṛ",
+        "applied": []
+      },
+      {
+        "id": "1010212",
+        "teaching": "कुन्चँ",
+        "headword": "कुञ्च्",
+        "expected_tokens": "kuñc",
+        "marker_only": "kunc",
+        "root_preprocessing": "kunc",
+        "num_phonetic_readout": "kunc",
+        "applied": []
+      },
+      {
+        "id": "1010213",
+        "teaching": "क्रुन्चँ",
+        "headword": "क्रुञ्च्",
+        "expected_tokens": "kruñc",
+        "marker_only": "krunc",
+        "root_preprocessing": "krunc",
+        "num_phonetic_readout": "krunc",
+        "applied": []
+      },
+      {
+        "id": "1010214",
+        "teaching": "लुन्चँ",
+        "headword": "लुञ्च्",
+        "expected_tokens": "luñc",
+        "marker_only": "lunc",
+        "root_preprocessing": "lunc",
+        "num_phonetic_readout": "lunc",
+        "applied": []
+      },
+      {
+        "id": "1010215",
+        "teaching": "अन्चुँ",
+        "headword": "अञ्च्",
+        "expected_tokens": "añc",
+        "marker_only": "anc",
+        "root_preprocessing": "anc",
+        "num_phonetic_readout": "anc",
+        "applied": []
+      },
+      {
+        "id": "1010216",
+        "teaching": "वन्चुँ",
+        "headword": "वञ्च्",
+        "expected_tokens": "vañc",
+        "marker_only": "vanc",
+        "root_preprocessing": "vanc",
+        "num_phonetic_readout": "vanc",
+        "applied": []
+      },
+      {
+        "id": "1010217",
+        "teaching": "चन्चुँ",
+        "headword": "चञ्च्",
+        "expected_tokens": "cañc",
+        "marker_only": "canc",
+        "root_preprocessing": "canc",
+        "num_phonetic_readout": "canc",
+        "applied": []
+      },
+      {
+        "id": "1010218",
+        "teaching": "तन्चुँ",
+        "headword": "तञ्च्",
+        "expected_tokens": "tañc",
+        "marker_only": "tanc",
+        "root_preprocessing": "tanc",
+        "num_phonetic_readout": "tanc",
+        "applied": []
+      },
+      {
+        "id": "1010219",
+        "teaching": "त्वन्चुँ",
+        "headword": "त्वञ्च्",
+        "expected_tokens": "tvañc",
+        "marker_only": "tvanc",
+        "root_preprocessing": "tvanc",
+        "num_phonetic_readout": "tvanc",
+        "applied": []
+      },
+      {
+        "id": "1010220",
+        "teaching": "म्रुन्चुँ",
+        "headword": "म्रुञ्च्",
+        "expected_tokens": "mruñc",
+        "marker_only": "mrunc",
+        "root_preprocessing": "mrunc",
+        "num_phonetic_readout": "mrunc",
+        "applied": []
+      },
+      {
+        "id": "1010221",
+        "teaching": "म्लुन्चुँ",
+        "headword": "म्लुञ्च्",
+        "expected_tokens": "mluñc",
+        "marker_only": "mlunc",
+        "root_preprocessing": "mlunc",
+        "num_phonetic_readout": "mlunc",
+        "applied": []
+      },
+      {
+        "id": "1010228",
+        "teaching": "ग्लुन्चुँ",
+        "headword": "ग्लुञ्च्",
+        "expected_tokens": "gluñc",
+        "marker_only": "glunc",
+        "root_preprocessing": "glunc",
+        "num_phonetic_readout": "glunc",
+        "applied": []
+      },
+      {
+        "id": "1010229",
+        "teaching": "षस्जँ",
+        "headword": "सज्ज्",
+        "expected_tokens": "sajj",
+        "marker_only": "ṣasj",
+        "root_preprocessing": "sasj",
+        "num_phonetic_readout": "sasj",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1010233",
+        "teaching": "म्लेछँ",
+        "headword": "म्लेच्छ्",
+        "expected_tokens": "mlecch",
+        "marker_only": "mlech",
+        "root_preprocessing": "mlech",
+        "num_phonetic_readout": "mlech",
+        "applied": []
+      },
+      {
+        "id": "1010234",
+        "teaching": "लछँ",
+        "headword": "लच्छ्",
+        "expected_tokens": "lacch",
+        "marker_only": "lach",
+        "root_preprocessing": "lach",
+        "num_phonetic_readout": "lach",
+        "applied": []
+      },
+      {
+        "id": "1010238",
+        "teaching": "ह्रीछँ",
+        "headword": "ह्रीच्छ्",
+        "expected_tokens": "hrīcch",
+        "marker_only": "hrīch",
+        "root_preprocessing": "hrīch",
+        "num_phonetic_readout": "hrīch",
+        "applied": []
+      },
+      {
+        "id": "1010239",
+        "teaching": "हुर्छाँ",
+        "headword": "हूर्छ्",
+        "expected_tokens": "hūrch",
+        "marker_only": "hurch",
+        "root_preprocessing": "hurch",
+        "num_phonetic_readout": "hurch",
+        "applied": []
+      },
+      {
+        "id": "1010240",
+        "teaching": "मुर्छाँ",
+        "headword": "मूर्छ्",
+        "expected_tokens": "mūrch",
+        "marker_only": "murch",
+        "root_preprocessing": "murch",
+        "num_phonetic_readout": "murch",
+        "applied": []
+      },
+      {
+        "id": "1010241",
+        "teaching": "स्फुर्छाँ",
+        "headword": "स्फूर्छ्",
+        "expected_tokens": "sphūrch",
+        "marker_only": "sphurch",
+        "root_preprocessing": "sphurch",
+        "num_phonetic_readout": "sphurch",
+        "applied": []
+      },
+      {
+        "id": "1010242",
+        "teaching": "युछँ",
+        "headword": "युच्छ्",
+        "expected_tokens": "yucch",
+        "marker_only": "yuch",
+        "root_preprocessing": "yuch",
+        "num_phonetic_readout": "yuch",
+        "applied": []
+      },
+      {
+        "id": "1010244",
+        "teaching": "उछीँ",
+        "headword": "उच्छ्",
+        "expected_tokens": "ucch",
+        "marker_only": "uch",
+        "root_preprocessing": "uch",
+        "num_phonetic_readout": "uch",
+        "applied": []
+      },
+      {
+        "id": "1010422",
+        "teaching": "ष्टिपृँ",
+        "headword": "स्तिप्",
+        "expected_tokens": "stip",
+        "marker_only": "ṣṭip",
+        "root_preprocessing": "sṭip",
+        "num_phonetic_readout": "sṭip",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1010423",
+        "teaching": "ष्टेपृँ",
+        "headword": "स्तेप्",
+        "expected_tokens": "step",
+        "marker_only": "ṣṭep",
+        "root_preprocessing": "sṭep",
+        "num_phonetic_readout": "sṭep",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1010451",
+        "teaching": "ष्टभिँ",
+        "headword": "स्तम्भ्",
+        "expected_tokens": "stambh",
+        "marker_only": "ṣṭabh",
+        "root_preprocessing": "sṭanbh",
+        "num_phonetic_readout": "sṭambh",
+        "applied": [
+          "6.1.64",
+          "7.1.58",
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      {
+        "id": "1010458",
+        "teaching": "श्रन्भुँ",
+        "headword": "श्रम्भ्",
+        "expected_tokens": "śrambh",
+        "marker_only": "śranbh",
+        "root_preprocessing": "śranbh",
+        "num_phonetic_readout": "śranbh",
+        "applied": []
+      },
+      {
+        "id": "1010459",
+        "teaching": "स्रन्भुँ",
+        "headword": "स्रम्भ्",
+        "expected_tokens": "srambh",
+        "marker_only": "sranbh",
+        "root_preprocessing": "sranbh",
+        "num_phonetic_readout": "sranbh",
+        "applied": []
+      },
+      {
+        "id": "1010460",
+        "teaching": "ष्टुभुँ",
+        "headword": "स्तुभ्",
+        "expected_tokens": "stubh",
+        "marker_only": "ṣṭubh",
+        "root_preprocessing": "sṭubh",
+        "num_phonetic_readout": "sṭubh",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1010471",
+        "teaching": "तुन्पँ",
+        "headword": "तुम्प्",
+        "expected_tokens": "tump",
+        "marker_only": "tunp",
+        "root_preprocessing": "tunp",
+        "num_phonetic_readout": "tunp",
+        "applied": []
+      },
+      {
+        "id": "1010473",
+        "teaching": "त्रुन्पँ",
+        "headword": "त्रुम्प्",
+        "expected_tokens": "trump",
+        "marker_only": "trunp",
+        "root_preprocessing": "trunp",
+        "num_phonetic_readout": "trunp",
+        "applied": []
+      },
+      {
+        "id": "1010475",
+        "teaching": "तुन्फँ",
+        "headword": "तुम्फ्",
+        "expected_tokens": "tumph",
+        "marker_only": "tunph",
+        "root_preprocessing": "tunph",
+        "num_phonetic_readout": "tunph",
+        "applied": []
+      },
+      {
+        "id": "1010477",
+        "teaching": "त्रुन्फँ",
+        "headword": "त्रुम्फ्",
+        "expected_tokens": "trumph",
+        "marker_only": "trunph",
+        "root_preprocessing": "trunph",
+        "num_phonetic_readout": "trunph",
+        "applied": []
+      },
+      {
+        "id": "1010497",
+        "teaching": "षृन्भुँ",
+        "headword": "सृम्भ्",
+        "expected_tokens": "sṛmbh",
+        "marker_only": "ṣṛnbh",
+        "root_preprocessing": "sṛnbh",
+        "num_phonetic_readout": "sṛnbh",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1010499",
+        "teaching": "षिन्भुँ",
+        "headword": "सिम्भ्",
+        "expected_tokens": "simbh",
+        "marker_only": "ṣinbh",
+        "root_preprocessing": "sinbh",
+        "num_phonetic_readout": "sinbh",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1010501",
+        "teaching": "शुन्भँ",
+        "headword": "शुम्भ्",
+        "expected_tokens": "śumbh",
+        "marker_only": "śunbh",
+        "root_preprocessing": "śunbh",
+        "num_phonetic_readout": "śunbh",
+        "applied": []
+      },
+      {
+        "id": "1010502",
+        "teaching": "घिणिँ",
+        "headword": "घिण्ण्",
+        "expected_tokens": "ghiṇṇ",
+        "marker_only": "ghiṇ",
+        "root_preprocessing": "ghinṇ",
+        "num_phonetic_readout": "ghinṇ",
+        "applied": [
+          "7.1.58"
+        ]
+      },
+      {
+        "id": "1010503",
+        "teaching": "घुणिँ",
+        "headword": "घुण्ण्",
+        "expected_tokens": "ghuṇṇ",
+        "marker_only": "ghuṇ",
+        "root_preprocessing": "ghunṇ",
+        "num_phonetic_readout": "ghunṇ",
+        "applied": [
+          "7.1.58"
+        ]
+      },
+      {
+        "id": "1010504",
+        "teaching": "घृणिँ",
+        "headword": "घृण्ण्",
+        "expected_tokens": "ghṛṇṇ",
+        "marker_only": "ghṛṇ",
+        "root_preprocessing": "ghṛnṇ",
+        "num_phonetic_readout": "ghṛnṇ",
+        "applied": [
+          "7.1.58"
+        ]
+      },
+      {
+        "id": "1010506",
+        "teaching": "घुर्णँ",
+        "headword": "घूर्ण्",
+        "expected_tokens": "ghūrṇ",
+        "marker_only": "ghurṇ",
+        "root_preprocessing": "ghurṇ",
+        "num_phonetic_readout": "ghurṇ",
+        "applied": []
+      },
+      {
+        "id": "1010532",
+        "teaching": "ष्टनँ",
+        "headword": "स्तन्",
+        "expected_tokens": "stan",
+        "marker_only": "ṣṭan",
+        "root_preprocessing": "sṭan",
+        "num_phonetic_readout": "sṭan",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1010535",
+        "teaching": "षणँ",
+        "headword": "सन्",
+        "expected_tokens": "san",
+        "marker_only": "ṣaṇ",
+        "root_preprocessing": "saṇ",
+        "num_phonetic_readout": "saṇ",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1010650",
+        "teaching": "उर्वीँ",
+        "headword": "ऊर्व्",
+        "expected_tokens": "ūrv",
+        "marker_only": "urv",
+        "root_preprocessing": "urv",
+        "num_phonetic_readout": "urv",
+        "applied": []
+      },
+      {
+        "id": "1010651",
+        "teaching": "तुर्वीँ",
+        "headword": "तूर्व्",
+        "expected_tokens": "tūrv",
+        "marker_only": "turv",
+        "root_preprocessing": "turv",
+        "num_phonetic_readout": "turv",
+        "applied": []
+      },
+      {
+        "id": "1010652",
+        "teaching": "थुर्वीँ",
+        "headword": "थूर्व्",
+        "expected_tokens": "thūrv",
+        "marker_only": "thurv",
+        "root_preprocessing": "thurv",
+        "num_phonetic_readout": "thurv",
+        "applied": []
+      },
+      {
+        "id": "1010653",
+        "teaching": "दुर्वीँ",
+        "headword": "दूर्व्",
+        "expected_tokens": "dūrv",
+        "marker_only": "durv",
+        "root_preprocessing": "durv",
+        "num_phonetic_readout": "durv",
+        "applied": []
+      },
+      {
+        "id": "1010654",
+        "teaching": "धुर्वीँ",
+        "headword": "धूर्व्",
+        "expected_tokens": "dhūrv",
+        "marker_only": "dhurv",
+        "root_preprocessing": "dhurv",
+        "num_phonetic_readout": "dhurv",
+        "applied": []
+      },
+      {
+        "id": "1010655",
+        "teaching": "गुर्वीँ",
+        "headword": "गूर्व्",
+        "expected_tokens": "gūrv",
+        "marker_only": "gurv",
+        "root_preprocessing": "gurv",
+        "num_phonetic_readout": "gurv",
+        "applied": []
+      },
+      {
+        "id": "1010656",
+        "teaching": "मुर्वीँ",
+        "headword": "मूर्व्",
+        "expected_tokens": "mūrv",
+        "marker_only": "murv",
+        "root_preprocessing": "murv",
+        "num_phonetic_readout": "murv",
+        "applied": []
+      },
+      {
+        "id": "1010657",
+        "teaching": "पुर्वँ",
+        "headword": "पूर्व्",
+        "expected_tokens": "pūrv",
+        "marker_only": "purv",
+        "root_preprocessing": "purv",
+        "num_phonetic_readout": "purv",
+        "applied": []
+      },
+      {
+        "id": "1010749",
+        "teaching": "ष्ट्रक्षँ",
+        "headword": "स्त्रक्ष्",
+        "expected_tokens": "strakṣ",
+        "marker_only": "ṣṭrakṣ",
+        "root_preprocessing": "sṭrakṣ",
+        "num_phonetic_readout": "sṭrakṣ",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1010751",
+        "teaching": "ष्टृक्षँ",
+        "headword": "स्तृक्ष्",
+        "expected_tokens": "stṛkṣ",
+        "marker_only": "ṣṭṛkṣ",
+        "root_preprocessing": "sṭṛkṣ",
+        "num_phonetic_readout": "sṭṛkṣ",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1010829",
+        "teaching": "शन्सुँ",
+        "headword": "शंस्",
+        "expected_tokens": "śaṃs",
+        "marker_only": "śans",
+        "root_preprocessing": "śans",
+        "num_phonetic_readout": "śans",
+        "applied": []
+      },
+      {
+        "id": "1010857",
+        "teaching": "स्रन्सुँ",
+        "headword": "स्रंस्",
+        "expected_tokens": "sraṃs",
+        "marker_only": "srans",
+        "root_preprocessing": "srans",
+        "num_phonetic_readout": "srans",
+        "applied": []
+      },
+      {
+        "id": "1010858",
+        "teaching": "ध्वन्सुँ",
+        "headword": "ध्वंस्",
+        "expected_tokens": "dhvaṃs",
+        "marker_only": "dhvans",
+        "root_preprocessing": "dhvans",
+        "num_phonetic_readout": "dhvans",
+        "applied": []
+      },
+      {
+        "id": "1010859",
+        "teaching": "भ्रन्सुँ",
+        "headword": "भ्रंस्",
+        "expected_tokens": "bhraṃs",
+        "marker_only": "bhrans",
+        "root_preprocessing": "bhrans",
+        "num_phonetic_readout": "bhrans",
+        "applied": []
+      },
+      {
+        "id": "1010860",
+        "teaching": "भ्रन्शुँ",
+        "headword": "भ्रंश्",
+        "expected_tokens": "bhraṃś",
+        "marker_only": "bhranś",
+        "root_preprocessing": "bhranś",
+        "num_phonetic_readout": "bhranś",
+        "applied": []
+      },
+      {
+        "id": "1010861",
+        "teaching": "स्रन्भुँ",
+        "headword": "स्रम्भ्",
+        "expected_tokens": "srambh",
+        "marker_only": "sranbh",
+        "root_preprocessing": "sranbh",
+        "num_phonetic_readout": "sranbh",
+        "applied": []
+      },
+      {
+        "id": "1010891",
+        "teaching": "ष्टकँ",
+        "headword": "स्तक्",
+        "expected_tokens": "stak",
+        "marker_only": "ṣṭak",
+        "root_preprocessing": "sṭak",
+        "num_phonetic_readout": "sṭak",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1010899",
+        "teaching": "ष्टगेँ",
+        "headword": "स्तग्",
+        "expected_tokens": "stag",
+        "marker_only": "ṣṭag",
+        "root_preprocessing": "sṭag",
+        "num_phonetic_readout": "sṭag",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1010909",
+        "teaching": "ष्ठगेँ",
+        "headword": "स्थग्",
+        "expected_tokens": "sthag",
+        "marker_only": "ṣṭhag",
+        "root_preprocessing": "sṭhag",
+        "num_phonetic_readout": "sṭhag",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1010964",
+        "teaching": "ष्टमँ",
+        "headword": "स्तम्",
+        "expected_tokens": "stam",
+        "marker_only": "ṣṭam",
+        "root_preprocessing": "sṭam",
+        "num_phonetic_readout": "sṭam",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1010970",
+        "teaching": "ष्ठलँ",
+        "headword": "स्थल्",
+        "expected_tokens": "sthal",
+        "marker_only": "ṣṭhal",
+        "root_preprocessing": "sṭhal",
+        "num_phonetic_readout": "sṭhal",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1010998",
+        "teaching": "अन्चुँ",
+        "headword": "अञ्च्",
+        "expected_tokens": "añc",
+        "marker_only": "anc",
+        "root_preprocessing": "anc",
+        "num_phonetic_readout": "anc",
+        "applied": []
+      },
+      {
+        "id": "1011059",
+        "teaching": "ष्ट्यै",
+        "headword": "स्त्यै",
+        "expected_tokens": "styai",
+        "marker_only": "ṣṭyai",
+        "root_preprocessing": "sṭyai",
+        "num_phonetic_readout": "sṭyai",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1011071",
+        "teaching": "ष्टै",
+        "headword": "स्तै",
+        "expected_tokens": "stai",
+        "marker_only": "ṣṭai",
+        "root_preprocessing": "sṭai",
+        "num_phonetic_readout": "sṭai",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1011072",
+        "teaching": "ष्णै",
+        "headword": "स्नै",
+        "expected_tokens": "snai",
+        "marker_only": "ṣṇai",
+        "root_preprocessing": "sṇai",
+        "num_phonetic_readout": "sṇai",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1011077",
+        "teaching": "ष्ठा",
+        "headword": "स्था",
+        "expected_tokens": "sthā",
+        "marker_only": "ṣṭhā",
+        "root_preprocessing": "sṭhā",
+        "num_phonetic_readout": "sṭhā",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1011131",
+        "teaching": "ष्वन्जँ",
+        "headword": "स्वञ्ज्",
+        "expected_tokens": "svañj",
+        "marker_only": "ṣvanj",
+        "root_preprocessing": "svanj",
+        "num_phonetic_readout": "svanj",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1011142",
+        "teaching": "षन्जँ",
+        "headword": "सञ्ज्",
+        "expected_tokens": "sañj",
+        "marker_only": "ṣanj",
+        "root_preprocessing": "sanj",
+        "num_phonetic_readout": "sanj",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1011144",
+        "teaching": "दन्शँ",
+        "headword": "दंश्",
+        "expected_tokens": "daṃś",
+        "marker_only": "danś",
+        "root_preprocessing": "danś",
+        "num_phonetic_readout": "danś",
+        "applied": []
+      },
+      {
+        "id": "1011154",
+        "teaching": "रन्जँ",
+        "headword": "रञ्ज्",
+        "expected_tokens": "rañj",
+        "marker_only": "ranj",
+        "root_preprocessing": "ranj",
+        "num_phonetic_readout": "ranj",
+        "applied": []
+      },
+      {
+        "id": "1011166",
+        "teaching": "ऋति",
+        "headword": "ऋत्",
+        "expected_tokens": "ṛt",
+        "marker_only": "ṛti",
+        "root_preprocessing": "ṛti",
+        "num_phonetic_readout": "ṛti",
+        "applied": []
+      },
+      {
+        "id": "1020007",
+        "teaching": "चक्षिङ्",
+        "headword": "चक्ष्",
+        "expected_tokens": "cakṣ",
+        "marker_only": "cakṣi",
+        "root_preprocessing": "cakṣi",
+        "num_phonetic_readout": "cakṣi",
+        "applied": []
+      },
+      {
+        "id": "1020033",
+        "teaching": "ष्णु",
+        "headword": "स्नु",
+        "expected_tokens": "snu",
+        "marker_only": "ṣṇu",
+        "root_preprocessing": "sṇu",
+        "num_phonetic_readout": "sṇu",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1020038",
+        "teaching": "ष्टुञ्",
+        "headword": "स्तु",
+        "expected_tokens": "stu",
+        "marker_only": "ṣṭu",
+        "root_preprocessing": "sṭu",
+        "num_phonetic_readout": "sṭu",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1020047",
+        "teaching": "ष्णा",
+        "headword": "स्ना",
+        "expected_tokens": "snā",
+        "marker_only": "ṣṇā",
+        "root_preprocessing": "sṇā",
+        "num_phonetic_readout": "sṇā",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1040005",
+        "teaching": "ष्णुसुँ",
+        "headword": "स्नुस्",
+        "expected_tokens": "snus",
+        "marker_only": "ṣṇus",
+        "root_preprocessing": "sṇus",
+        "num_phonetic_readout": "sṇus",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1040006",
+        "teaching": "ष्णसुँ",
+        "headword": "स्नस्",
+        "expected_tokens": "snas",
+        "marker_only": "ṣṇas",
+        "root_preprocessing": "sṇas",
+        "num_phonetic_readout": "sṇas",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1040019",
+        "teaching": "ष्टिमँ",
+        "headword": "स्तिम्",
+        "expected_tokens": "stim",
+        "marker_only": "ṣṭim",
+        "root_preprocessing": "sṭim",
+        "num_phonetic_readout": "sṭim",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1040020",
+        "teaching": "ष्टीमँ",
+        "headword": "स्तीम्",
+        "expected_tokens": "stīm",
+        "marker_only": "ṣṭīm",
+        "root_preprocessing": "sṭīm",
+        "num_phonetic_readout": "sṭīm",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1040063",
+        "teaching": "रन्जँ",
+        "headword": "रञ्ज्",
+        "expected_tokens": "rañj",
+        "marker_only": "ranj",
+        "root_preprocessing": "ranj",
+        "num_phonetic_readout": "ranj",
+        "applied": []
+      },
+      {
+        "id": "1040096",
+        "teaching": "ष्णुहँ",
+        "headword": "स्नुह्",
+        "expected_tokens": "snuh",
+        "marker_only": "ṣṇuh",
+        "root_preprocessing": "sṇuh",
+        "num_phonetic_readout": "sṇuh",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1040097",
+        "teaching": "ष्णिहँ",
+        "headword": "स्निह्",
+        "expected_tokens": "snih",
+        "marker_only": "ṣṇih",
+        "root_preprocessing": "sṇih",
+        "num_phonetic_readout": "sṇih",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1040138",
+        "teaching": "भ्रन्शुँ",
+        "headword": "भ्रंश्",
+        "expected_tokens": "bhraṃś",
+        "marker_only": "bhranś",
+        "root_preprocessing": "bhranś",
+        "num_phonetic_readout": "bhranś",
+        "applied": []
+      },
+      {
+        "id": "1040151",
+        "teaching": "ष्टुपँ",
+        "headword": "स्तुप्",
+        "expected_tokens": "stup",
+        "marker_only": "ṣṭup",
+        "root_preprocessing": "sṭup",
+        "num_phonetic_readout": "sṭup",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1040152",
+        "teaching": "ष्टूपँ",
+        "headword": "स्तूप्",
+        "expected_tokens": "stūp",
+        "marker_only": "ṣṭūp",
+        "root_preprocessing": "sṭūp",
+        "num_phonetic_readout": "sṭūp",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1050021",
+        "teaching": "ष्टिघँ",
+        "headword": "स्तिघ्",
+        "expected_tokens": "stigh",
+        "marker_only": "ṣṭigh",
+        "root_preprocessing": "sṭigh",
+        "num_phonetic_readout": "sṭigh",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1050026",
+        "teaching": "दन्भुँ",
+        "headword": "दम्भ्",
+        "expected_tokens": "dambh",
+        "marker_only": "danbh",
+        "root_preprocessing": "danbh",
+        "num_phonetic_readout": "danbh",
+        "applied": []
+      },
+      {
+        "id": "1050038",
+        "teaching": "ऋक्षि",
+        "headword": "ऋक्ष्",
+        "expected_tokens": "ṛkṣ",
+        "marker_only": "ṛkṣi",
+        "root_preprocessing": "ṛkṣi",
+        "num_phonetic_readout": "ṛkṣi",
+        "applied": []
+      },
+      {
+        "id": "1060004",
+        "teaching": "भ्रस्जँ",
+        "headword": "भ्रज्ज्",
+        "expected_tokens": "bhrajj",
+        "marker_only": "bhrasj",
+        "root_preprocessing": "bhrasj",
+        "num_phonetic_readout": "bhrasj",
+        "applied": []
+      },
+      {
+        "id": "1060011",
+        "teaching": "ओँलस्जीँ",
+        "headword": "लज्ज्",
+        "expected_tokens": "lajj",
+        "marker_only": "lasj",
+        "root_preprocessing": "lasj",
+        "num_phonetic_readout": "lasj",
+        "applied": []
+      },
+      {
+        "id": "1060012",
+        "teaching": "ओँव्रस्चूँ",
+        "headword": "व्रश्च्",
+        "expected_tokens": "vraśc",
+        "marker_only": "vrasc",
+        "root_preprocessing": "vrasc",
+        "num_phonetic_readout": "vrasc",
+        "applied": []
+      },
+      {
+        "id": "1060015",
+        "teaching": "उछीँ",
+        "headword": "उच्छ्",
+        "expected_tokens": "ucch",
+        "marker_only": "uch",
+        "root_preprocessing": "uch",
+        "num_phonetic_readout": "uch",
+        "applied": []
+      },
+      {
+        "id": "1060016",
+        "teaching": "ऋछँ",
+        "headword": "ऋच्छ्",
+        "expected_tokens": "ṛcch",
+        "marker_only": "ṛch",
+        "root_preprocessing": "ṛch",
+        "num_phonetic_readout": "ṛch",
+        "applied": []
+      },
+      {
+        "id": "1060017",
+        "teaching": "मिछँ",
+        "headword": "मिच्छ्",
+        "expected_tokens": "micch",
+        "marker_only": "mich",
+        "root_preprocessing": "mich",
+        "num_phonetic_readout": "mich",
+        "applied": []
+      },
+      {
+        "id": "1060031",
+        "teaching": "तृन्फँ",
+        "headword": "तृम्फ्",
+        "expected_tokens": "tṛmph",
+        "marker_only": "tṛnph",
+        "root_preprocessing": "tṛnph",
+        "num_phonetic_readout": "tṛnph",
+        "applied": []
+      },
+      {
+        "id": "1060033",
+        "teaching": "तुन्पँ",
+        "headword": "तुम्प्",
+        "expected_tokens": "tump",
+        "marker_only": "tunp",
+        "root_preprocessing": "tunp",
+        "num_phonetic_readout": "tunp",
+        "applied": []
+      },
+      {
+        "id": "1060035",
+        "teaching": "तुन्फँ",
+        "headword": "तुम्फ्",
+        "expected_tokens": "tumph",
+        "marker_only": "tunph",
+        "root_preprocessing": "tunph",
+        "num_phonetic_readout": "tunph",
+        "applied": []
+      },
+      {
+        "id": "1060037",
+        "teaching": "स्तृन्हूँ",
+        "headword": "स्तृंह्",
+        "expected_tokens": "stṛṃh",
+        "marker_only": "stṛnh",
+        "root_preprocessing": "stṛnh",
+        "num_phonetic_readout": "stṛnh",
+        "applied": []
+      },
+      {
+        "id": "1060039",
+        "teaching": "दृन्फँ",
+        "headword": "दृम्फ्",
+        "expected_tokens": "dṛmph",
+        "marker_only": "dṛnph",
+        "root_preprocessing": "dṛnph",
+        "num_phonetic_readout": "dṛnph",
+        "applied": []
+      },
+      {
+        "id": "1060041",
+        "teaching": "ऋन्फँ",
+        "headword": "ऋम्फ्",
+        "expected_tokens": "ṛmph",
+        "marker_only": "ṛnph",
+        "root_preprocessing": "ṛnph",
+        "num_phonetic_readout": "ṛnph",
+        "applied": []
+      },
+      {
+        "id": "1060043",
+        "teaching": "गुन्फँ",
+        "headword": "गुम्फ्",
+        "expected_tokens": "gumph",
+        "marker_only": "gunph",
+        "root_preprocessing": "gunph",
+        "num_phonetic_readout": "gunph",
+        "applied": []
+      },
+      {
+        "id": "1060045",
+        "teaching": "उन्भँ",
+        "headword": "उम्भ्",
+        "expected_tokens": "umbh",
+        "marker_only": "unbh",
+        "root_preprocessing": "unbh",
+        "num_phonetic_readout": "unbh",
+        "applied": []
+      },
+      {
+        "id": "1060047",
+        "teaching": "शुन्भँ",
+        "headword": "शुम्भ्",
+        "expected_tokens": "śumbh",
+        "marker_only": "śunbh",
+        "root_preprocessing": "śunbh",
+        "num_phonetic_readout": "śunbh",
+        "applied": []
+      },
+      {
+        "id": "1060077",
+        "teaching": "तृन्हूँ",
+        "headword": "तृंह्",
+        "expected_tokens": "tṛṃh",
+        "marker_only": "tṛnh",
+        "root_preprocessing": "tṛnh",
+        "num_phonetic_readout": "tṛnh",
+        "applied": []
+      },
+      {
+        "id": "1060149",
+        "teaching": "प्रछँ",
+        "headword": "प्रच्छ्",
+        "expected_tokens": "pracch",
+        "marker_only": "prach",
+        "root_preprocessing": "prach",
+        "num_phonetic_readout": "prach",
+        "applied": []
+      },
+      {
+        "id": "1060151",
+        "teaching": "टुमस्जोँ",
+        "headword": "मज्ज्",
+        "expected_tokens": "majj",
+        "marker_only": "masj",
+        "root_preprocessing": "masj",
+        "num_phonetic_readout": "masj",
+        "applied": []
+      },
+      {
+        "id": "1060159",
+        "teaching": "विछँ",
+        "headword": "विच्छ्",
+        "expected_tokens": "vicch",
+        "marker_only": "vich",
+        "root_preprocessing": "vich",
+        "num_phonetic_readout": "vich",
+        "applied": []
+      },
+      {
+        "id": "1070016",
+        "teaching": "भन्जोँ",
+        "headword": "भञ्ज्",
+        "expected_tokens": "bhañj",
+        "marker_only": "bhanj",
+        "root_preprocessing": "bhanj",
+        "num_phonetic_readout": "bhanj",
+        "applied": []
+      },
+      {
+        "id": "1070021",
+        "teaching": "अन्जूँ",
+        "headword": "अञ्ज्",
+        "expected_tokens": "añj",
+        "marker_only": "anj",
+        "root_preprocessing": "anj",
+        "num_phonetic_readout": "anj",
+        "applied": []
+      },
+      {
+        "id": "1070022",
+        "teaching": "तन्चूँ",
+        "headword": "तञ्च्",
+        "expected_tokens": "tañc",
+        "marker_only": "tanc",
+        "root_preprocessing": "tanc",
+        "num_phonetic_readout": "tanc",
+        "applied": []
+      },
+      {
+        "id": "1080002",
+        "teaching": "षणुँ",
+        "headword": "सन्",
+        "expected_tokens": "san",
+        "marker_only": "ṣaṇ",
+        "root_preprocessing": "saṇ",
+        "num_phonetic_readout": "saṇ",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1090007",
+        "teaching": "स्तन्भुँ",
+        "headword": "स्तम्भ्",
+        "expected_tokens": "stambh",
+        "marker_only": "stanbh",
+        "root_preprocessing": "stanbh",
+        "num_phonetic_readout": "stanbh",
+        "applied": []
+      },
+      {
+        "id": "1090008",
+        "teaching": "स्तुन्भुँ",
+        "headword": "स्तुम्भ्",
+        "expected_tokens": "stumbh",
+        "marker_only": "stunbh",
+        "root_preprocessing": "stunbh",
+        "num_phonetic_readout": "stunbh",
+        "applied": []
+      },
+      {
+        "id": "1090009",
+        "teaching": "स्कन्भुँ",
+        "headword": "स्कम्भ्",
+        "expected_tokens": "skambh",
+        "marker_only": "skanbh",
+        "root_preprocessing": "skanbh",
+        "num_phonetic_readout": "skanbh",
+        "applied": []
+      },
+      {
+        "id": "1090010",
+        "teaching": "स्कुन्भुँ",
+        "headword": "स्कुम्भ्",
+        "expected_tokens": "skumbh",
+        "marker_only": "skunbh",
+        "root_preprocessing": "skunbh",
+        "num_phonetic_readout": "skunbh",
+        "applied": []
+      },
+      {
+        "id": "1100023",
+        "teaching": "उर्जँ",
+        "headword": "ऊर्ज्",
+        "expected_tokens": "ūrj",
+        "marker_only": "urj",
+        "root_preprocessing": "urj",
+        "num_phonetic_readout": "urj",
+        "applied": []
+      },
+      {
+        "id": "1100026",
+        "teaching": "चुर्णँ",
+        "headword": "चूर्ण्",
+        "expected_tokens": "cūrṇ",
+        "marker_only": "curṇ",
+        "root_preprocessing": "curṇ",
+        "num_phonetic_readout": "curṇ",
+        "applied": []
+      },
+      {
+        "id": "1100030",
+        "teaching": "षन्बँ",
+        "headword": "सम्ब्",
+        "expected_tokens": "samb",
+        "marker_only": "ṣanb",
+        "root_preprocessing": "sanb",
+        "num_phonetic_readout": "sanb",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1100031",
+        "teaching": "शन्बँ",
+        "headword": "शम्ब्",
+        "expected_tokens": "śamb",
+        "marker_only": "śanb",
+        "root_preprocessing": "śanb",
+        "num_phonetic_readout": "śanb",
+        "applied": []
+      },
+      {
+        "id": "1100032",
+        "teaching": "सान्बँ",
+        "headword": "साम्ब्",
+        "expected_tokens": "sāmb",
+        "marker_only": "sānb",
+        "root_preprocessing": "sānb",
+        "num_phonetic_readout": "sānb",
+        "applied": []
+      },
+      {
+        "id": "1100039",
+        "teaching": "लुन्टँ",
+        "headword": "लुण्ट्",
+        "expected_tokens": "luṇṭ",
+        "marker_only": "lunṭ",
+        "root_preprocessing": "lunṭ",
+        "num_phonetic_readout": "lunṭ",
+        "applied": []
+      },
+      {
+        "id": "1100040",
+        "teaching": "लुन्ठँ",
+        "headword": "लुण्ठ्",
+        "expected_tokens": "luṇṭh",
+        "marker_only": "lunṭh",
+        "root_preprocessing": "lunṭh",
+        "num_phonetic_readout": "lunṭh",
+        "applied": []
+      },
+      {
+        "id": "1100055",
+        "teaching": "ष्णिहँ",
+        "headword": "स्निह्",
+        "expected_tokens": "snih",
+        "marker_only": "ṣṇih",
+        "root_preprocessing": "sṇih",
+        "num_phonetic_readout": "sṇih",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1100061",
+        "teaching": "पिछँ",
+        "headword": "पिच्छ्",
+        "expected_tokens": "picch",
+        "marker_only": "pich",
+        "root_preprocessing": "pich",
+        "num_phonetic_readout": "pich",
+        "applied": []
+      },
+      {
+        "id": "1100134",
+        "teaching": "पुन्सँ",
+        "headword": "पुंस्",
+        "expected_tokens": "puṃs",
+        "marker_only": "puns",
+        "root_preprocessing": "puns",
+        "num_phonetic_readout": "puns",
+        "applied": []
+      },
+      {
+        "id": "1100170",
+        "teaching": "म्लेछँ",
+        "headword": "म्लेच्छ्",
+        "expected_tokens": "mlecch",
+        "marker_only": "mlech",
+        "root_preprocessing": "mlech",
+        "num_phonetic_readout": "mlech",
+        "applied": []
+      },
+      {
+        "id": "1100180",
+        "teaching": "गुर्दँ",
+        "headword": "गूद्",
+        "expected_tokens": "gūd",
+        "marker_only": "gurd",
+        "root_preprocessing": "gurd",
+        "num_phonetic_readout": "gurd",
+        "applied": []
+      },
+      {
+        "id": "1100190",
+        "teaching": "ष्टुपँ",
+        "headword": "स्तुप्",
+        "expected_tokens": "stup",
+        "marker_only": "ṣṭup",
+        "root_preprocessing": "sṭup",
+        "num_phonetic_readout": "sṭup",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1100191",
+        "teaching": "ष्टूपँ",
+        "headword": "स्तूप्",
+        "expected_tokens": "stūp",
+        "marker_only": "ṣṭūp",
+        "root_preprocessing": "sṭūp",
+        "num_phonetic_readout": "sṭūp",
+        "applied": [
+          "6.1.64"
+        ]
+      },
+      {
+        "id": "1100227",
+        "teaching": "वन्चुँ",
+        "headword": "वञ्च्",
+        "expected_tokens": "vañc",
+        "marker_only": "vanc",
+        "root_preprocessing": "vanc",
+        "num_phonetic_readout": "vanc",
+        "applied": []
+      },
+      {
+        "id": "1100266",
+        "teaching": "अन्चुँ",
+        "headword": "अञ्च्",
+        "expected_tokens": "añc",
+        "marker_only": "anc",
+        "root_preprocessing": "anc",
+        "num_phonetic_readout": "anc",
+        "applied": []
+      },
+      {
+        "id": "1100304",
+        "teaching": "विछँ",
+        "headword": "विच्छ्",
+        "expected_tokens": "vicch",
+        "marker_only": "vich",
+        "root_preprocessing": "vich",
+        "num_phonetic_readout": "vich",
+        "applied": []
+      },
+      {
+        "id": "1100397",
+        "teaching": "रन्ह्",
+        "headword": "रंह्",
+        "expected_tokens": "raṃh",
+        "marker_only": "ran",
+        "root_preprocessing": "ran",
+        "num_phonetic_readout": "ran",
+        "applied": []
+      },
+      {
+        "id": "1100433",
+        "teaching": "सन्केत",
+        "headword": "सङ्केत",
+        "expected_tokens": "saṅketa",
+        "marker_only": "sanketa",
+        "root_preprocessing": "sanketa",
+        "num_phonetic_readout": "sanketa",
+        "applied": []
+      },
+      {
+        "id": "1100460",
+        "teaching": "अन्स",
+        "headword": "अंस",
+        "expected_tokens": "aṃsa",
+        "marker_only": "ansa",
+        "root_preprocessing": "ansa",
+        "num_phonetic_readout": "ansa",
+        "applied": []
+      },
+      {
+        "id": "1100467",
+        "teaching": "सन्ग्राम",
+        "headword": "सङ्ग्राम",
+        "expected_tokens": "saṅgrāma",
+        "marker_only": "sangrāma",
+        "root_preprocessing": "sangrāma",
+        "num_phonetic_readout": "sangrāma",
+        "applied": []
+      },
+      {
+        "id": "1100470",
+        "teaching": "कर्णँ",
+        "headword": "कर्ण",
+        "expected_tokens": "karṇa",
+        "marker_only": "karṇ",
+        "root_preprocessing": "karṇ",
+        "num_phonetic_readout": "karṇ",
+        "applied": []
+      },
+      {
+        "id": "1100472",
+        "teaching": "दन्ड",
+        "headword": "दण्ड",
+        "expected_tokens": "daṇḍa",
+        "marker_only": "danḍa",
+        "root_preprocessing": "danḍa",
+        "num_phonetic_readout": "danḍa",
+        "applied": []
+      },
+      {
+        "id": "1100473",
+        "teaching": "अन्क",
+        "headword": "अङ्क",
+        "expected_tokens": "aṅka",
+        "marker_only": "anka",
+        "root_preprocessing": "anka",
+        "num_phonetic_readout": "anka",
+        "applied": []
+      },
+      {
+        "id": "1100474",
+        "teaching": "अन्ग",
+        "headword": "अङ्ग",
+        "expected_tokens": "aṅga",
+        "marker_only": "anga",
+        "root_preprocessing": "anga",
+        "num_phonetic_readout": "anga",
+        "applied": []
+      }
+    ],
+    "unresolved": [
+      {
+        "id": "1010925",
+        "teaching": "छदिः",
+        "headword": "छद्",
+        "reason": "Teaching-unit ayogavāha convention needs review"
+      },
+      {
+        "id": "1100476",
+        "teaching": "दुःख",
+        "headword": "दुःख",
+        "reason": "Teaching-unit ayogavāha convention needs review"
+      }
+    ],
+    "non_root_directives": [
+      {
+        "id": "1010933",
+        "text": "घटादयो मितः",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1010934",
+        "text": "जनीजॄष्क्नसुरञ्जोऽमन्ताश्च",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1010935",
+        "text": "ज्वलह्वलह्मलनमामनुपसर्गाद्वा",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1010936",
+        "text": "ग्लास्नावनुवमां च",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1010937",
+        "text": "न कम्यमिचमाम्",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1010938",
+        "text": "शमो दर्शने",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1010939",
+        "text": "यमोऽपरिवेषणे",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1010940",
+        "text": "स्खदिरवपरिभ्यां च",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1010941",
+        "text": "घटादयः षितः",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1010944",
+        "text": "दलिवलिस्खलिरणिध्वनित्रपिक्षपयश्चेति भोजः",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1020076",
+        "text": "चर्करीतं च",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1040162",
+        "text": "स्वादयः ओदितः",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1040163",
+        "text": "राधोऽकर्मकाद् वृद्धावेव",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1100493",
+        "text": "ज्ञपादयो मितः",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1100494",
+        "text": "नान्ये मितोऽहेतौ",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1100495",
+        "text": "कुस्म नाम्नो वा",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1100496",
+        "text": "आ कुस्मादात्मनेपदिनः",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1100497",
+        "text": "आ गर्वादात्मनेपदिनः",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1100498",
+        "text": "आ धृषाद्वा",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1100499",
+        "text": "आ स्वदः सकर्मकात्",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1100500",
+        "text": "हन्त्यर्थाश्च",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1100501",
+        "text": "प्रातिपदिकाद्धात्वर्थे बहुलमिष्ठवच्च",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1100502",
+        "text": "तत्करोति तदाचष्टे",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1100503",
+        "text": "तेनातिक्रामति",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1100504",
+        "text": "धातुरूपं च",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1100505",
+        "text": "कर्तृकरणात् धात्वर्थे",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1100506",
+        "text": "बहुलमेतन्निदर्शनम्",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1100507",
+        "text": "णिङङ्गान्निरसने",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1100508",
+        "text": "श्वेताश्वाश्वतरगालोडिताह्वरकाणामश्वतरेतकलोपश्च",
+        "source_tag": "ganasutra"
+      },
+      {
+        "id": "1100509",
+        "text": "पुच्छादिषु धात्वर्थ इत्येव सिद्धम्",
+        "source_tag": "ganasutra"
+      }
+    ]
+  },
+  "coverage_caveat": {
+    "pinned_sutra_records": 3983,
+    "historical_ledger_counts": {
+      "compiled": 10,
+      "meta": 46,
+      "hand_coded": 70,
+      "cited": 43,
+      "misnumbered": 2,
+      "entries": 171,
+      "text_missing": 8,
+      "astadhyayi_total": 3959
+    },
+    "PG2_static_T80_operation_ids": [
+      "6.1.101",
+      "6.1.73",
+      "6.1.77",
+      "6.1.78",
+      "6.1.87",
+      "6.1.88",
+      "7.3.77",
+      "7.3.84",
+      "8.4.40"
+    ],
+    "status": "DECLARATION_COUNTS_NOT_RULE_COMPLETENESS"
+  },
+  "failures": [],
+  "not_claimed": [
+    "A complete Dhātupāṭha derivation or all-sūtra compilation",
+    "Automatic scope, class, sense, pada, seṭ or nasality inference",
+    "Universal priority, sthānivad or Tripādī visibility resolution",
+    "Independent Sanskrit soundness or completeness",
+    "Calculator integration, CI success or main-branch merge"
+  ]
+}
