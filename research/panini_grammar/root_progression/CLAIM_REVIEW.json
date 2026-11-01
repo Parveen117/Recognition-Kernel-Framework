@@ -1,0 +1,99 @@
+{
+  "author": "Monty",
+  "records": [
+    {
+      "claim": "T82 lakāra remainder table",
+      "finding": "The ten rows remove l and retain the vowel. The reviewed Kāśikā/Tattvabodhinī reading preserves technical l; supplied conventional vowels and terminal markers are removed.",
+      "status": "SOURCE_CORRECTION",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34077",
+          "anchor": "लकारमात्रं स्थानित्वेनाधिक्रियते"
+        },
+        {
+          "path": "sutraani/tattvabodhini.txt",
+          "key": "34077",
+          "anchor": "लस्येत्संज्ञा तु न भवति"
+        },
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "32123",
+          "anchor": "अटाविताविति"
+        }
+      ]
+    },
+    {
+      "claim": "PG2 jhi-affix-identity case",
+      "finding": "Retaining the old affix identity was correct, but independently deleting jh as it was not the reviewed traditional process. Kāśikā anticipates the ant replacement, Nyāsa calls the cited replacement an it-saṃjñā exception, and 7.1.3 acts on affix jh. The new profile keeps jh in the identified cases.",
+      "status": "PG2_READING_SUPERSEDED",
+      "evidence": [
+        {
+          "path": "sutraani/nyaas.txt",
+          "key": "13007",
+          "anchor": "इत्संज्ञापवादम्"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "झस्यान्तादेशं वक्ष्यति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "71003",
+          "anchor": "प्रत्ययावयवस्य झस्य"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "ठस्येकादेशं वक्ष्यति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "ढस्यैयादेशं वक्ष्यति"
+        }
+      ]
+    },
+    {
+      "claim": "T81 vowel savarṇa table",
+      "finding": "Its finite table splits ṛ and ḷ and includes long ḹ. Kāśikā 1.1.9 explicitly gives the supplementary ṛ/ḷ savarṇa relation and says that ḷ has no long forms. The table theorem is not an exhaustive statement of this textual reading.",
+      "status": "SOURCE_EXTENSION_REQUIRED",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11009",
+          "anchor": "ऌवर्णस्य दीर्घा न सन्ति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11009",
+          "anchor": "ऋकारऌकारयोः सवर्णसंज्ञा वक्तव्या"
+        }
+      ]
+    },
+    {
+      "claim": "T82 prefix aṅga and placement",
+      "finding": "The finite gam/nī prefix check supplies the beginning of the base. General aṅga requires the affix-licensing constituent, not always the beginning of the whole string. Ordinary mit placement also has the masj qualification; PG3 invokes only the 7.1.58 num domain.",
+      "status": "FINITE_DOMAIN_ONLY",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11047",
+          "anchor": "मस्जेरन्त्यात्पूर्वं नुममिच्छन्त्यनुषङ्ग"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "14013",
+          "anchor": "यस्मात्"
+        }
+      ]
+    },
+    {
+      "claim": "Ledger compiled=10 and total=3959",
+      "finding": "The ledger is a historical declaration census. T80 has five generic records and five specialized routines with nine distinct operation IDs; 6.1.71 in the declared compiled list is not an additional generic record. The pinned full text has 3983 records. No linguistic percentage follows from either list.",
+      "status": "DECLARATION_NOT_COVERAGE",
+      "evidence": []
+    }
+  ]
+}

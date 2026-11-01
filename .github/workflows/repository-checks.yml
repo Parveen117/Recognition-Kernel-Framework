@@ -70,6 +70,12 @@ jobs:
               'theorum/thermodynamics/10_thermodynamic_cut_square_response_decomposition.md',
               'theorum/thermodynamics/09_scope_exclusions.md',
           }
+          sp1_inputs = set(json.loads(Path(
+              'research/spanda_recognition/SOURCE_PINS.json'
+          ).read_text())['sha256'])
+          pg1_inputs = set(json.loads(Path(
+              'research/panini_grammar/SOURCE_PINS.json'
+          ).read_text())['local_source_sha256'])
           scopes = {
               'engine': runtime or any(
                   path.startswith('operator_foundation/')
@@ -85,6 +91,12 @@ jobs:
                     or bool(changed & shared_structure),
               'ss1': runtime or native or under('research/sectoral_signal/')
                      or bool(changed & signal_inputs),
+              'sp1': under('research/spanda_recognition/')
+                     or bool(changed & sp1_inputs)
+                     or '.github/workflows/repository-checks.yml' in changed,
+              'pg1': under('research/panini_grammar/')
+                     or bool(changed & pg1_inputs)
+                     or '.github/workflows/repository-checks.yml' in changed,
               'shaiva': bool(changed & {
                   'proof_lab/shaiva_sources_nativized.py',
                   'proof_lab/test_shaiva_sources_nativized.py',
@@ -122,7 +134,7 @@ jobs:
                   'proof_lab/test_nirukta_nama_akhyatajani.py',
                   'proof_lab/NIRUKTA_NAMA_AKHYATAJANI_EXPECTED.sha256',
                   'theorum/85_nirukta_nama_akhyatajani_theorem.md',
-              }),
+              }) or '.github/workflows/repository-checks.yml' in changed,
           }
           scopes = {name: full or selected for name, selected in scopes.items()}
           with open(os.environ['GITHUB_OUTPUT'], 'a') as output:
@@ -170,6 +182,12 @@ jobs:
       - name: Check SS1 sectoral signals
         if: steps.scope.outputs.ss1 == 'true'
         run: node research/sectoral_signal/verify.cjs --check
+      - name: Check SP1 cycle-memory examples and source pins
+        if: steps.scope.outputs.sp1 == 'true'
+        run: python research/spanda_recognition/check_examples.py
+      - name: Check PG1 Sanskrit text inventory and source pins
+        if: steps.scope.outputs.pg1 == 'true'
+        run: python research/panini_grammar/check_sources.py
       - name: Check Theorem 78-85 quoted-source certificates, ledger and pins
         if: steps.scope.outputs.shaiva == 'true'
         run: |

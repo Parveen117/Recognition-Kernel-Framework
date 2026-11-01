@@ -1,0 +1,5799 @@
+{
+  "stage": "PG4",
+  "author": "Monty",
+  "review_date": "2026-11-01",
+  "baseline_commit": "b9e17f47f6c96e0c39f7f733698efe5becd2f477",
+  "primary_source_commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+  "verification_status": "LOCAL_REFERENCE_CHECKS_AGREE",
+  "grammar_status": "NOT_COMPLETE",
+  "valid_sanskrit_oracle": false,
+  "source_checks": {
+    "literal_anchors": 167,
+    "unique_anchors": 125,
+    "external_files": 7,
+    "historical_files_unchanged": 11
+  },
+  "lexical_witnesses_checked": 34,
+  "input_sha256": {
+    "SCOPE_POLICIES.json": "4b0f3350479b8a171b338897c753840231a864a677c861a806324352a2fc032d",
+    "RULE_RECORDS.json": "448b6a890bb487fada7b980699fee800abddeb589ac5894570b3a7db64347b76",
+    "LEXICAL_WITNESSES.json": "d8e67b138e2fab5ecdb12d87088f6f1153fb3a63fe9ad8b15e2a7cd0e5306b1a",
+    "REFERENCE_CASES.json": "5014e026aeb39a863bd4ed073b9517c89892646964be98958e192d956a3f1adf",
+    "SOURCE_PINS.json": "06dcb93d70b4c0b6893743682c652c9b0d6e9db9ceb8b79fe16f9b9296fc0ccf",
+    "scope.py": "727f096f934df22a3077ec0592d9c426cf838b7562bafbfe1bedf894ac667738",
+    "derive.py": "da02d3c7e8b686c5f018642e1f8d4c9119fe7463c1063d58f4e05227a892b328",
+    "verify.py": "01e48f051c7c0966dc87ae3dca507e3bfe08bca800c347ea0ece64dc0785bcb0"
+  },
+  "scope": {
+    "sutra_records": 3983,
+    "raw_scope_edges": 23589,
+    "padaccheda_tokens": 9653,
+    "token_status_counts": {
+      "EXPLICIT_CASE_ANNOTATION": 9359,
+      "PRESERVED_UNINTERPRETED_FIELDS": 293,
+      "UNRESOLVED_ANNOTATION_SHAPE": 1
+    },
+    "nonstandard_annotation_shapes": [
+      {
+        "uid": "72034:pc:0",
+        "raw": "ग्रसित-स्कभित-स्तभित-उत्तभित-चत्त-विकस्ता-विशस्तॄ-शंस्तृ-शास्तृ-तरुतृ-तरूतृ-वरुतृ-वरूतृ-वरूत्रीः-उज्ज्वलिति-क्षरिति-क्षमिति-वमिति-अमिति$S$1$1",
+        "term": "ग्रसित-स्कभित-स्तभित-उत्तभित-चत्त-विकस्ता-विशस्तॄ-शंस्तृ-शास्तृ-तरुतृ-तरूतृ-वरुतृ-वरूतृ-वरूत्रीः-उज्ज्वलिति-क्षरिति-क्षमिति-वमिति-अमिति",
+        "source": "7.2.34",
+        "kind": "own",
+        "fields": [
+          "S",
+          "1",
+          "1"
+        ],
+        "status": "UNRESOLVED_ANNOTATION_SHAPE"
+      }
+    ],
+    "scope_policy_counts": {
+      "accept-sese-heading": 1,
+      "stop-va-before-svarthika": 279,
+      "extend-ekadesa": 2,
+      "extend-sut-kat": 3,
+      "split-uttarapada-adi": 60,
+      "correct-antah-reference": 1,
+      "exclude-padasya-at-upadhayam": 1
+    },
+    "active_inherited_terms": 23309,
+    "excluded_term_counts": {
+      "QUARANTINED": 279,
+      "EXCLUDED_COMPONENT": 60,
+      "EXCLUDED_BY_COMMENTARY": 1
+    },
+    "raw_sanskrit_scope_parser": false,
+    "all_sutra_semantic_compilation": false
+  },
+  "bound_record_count": 19,
+  "bound_records": {
+    "1.1.47": {
+      "sid": "1.1.47",
+      "text": "मिदचोऽन्त्यात्परः",
+      "terms": [
+        {
+          "uid": "11047:pc:0",
+          "raw": "मित्$S$1$1$",
+          "term": "मित्",
+          "source": "1.1.47",
+          "kind": "own",
+          "fields": [
+            "S",
+            "1",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "1",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "augment_class"
+        },
+        {
+          "uid": "11047:pc:1",
+          "raw": "अचः$S$6$1$",
+          "term": "अचः",
+          "source": "1.1.47",
+          "kind": "own",
+          "fields": [
+            "S",
+            "6",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "6",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "partitive_vowel_domain"
+        },
+        {
+          "uid": "11047:pc:2",
+          "raw": "अन्त्यात्$S$5$1$",
+          "term": "अन्त्यात्",
+          "source": "1.1.47",
+          "kind": "own",
+          "fields": [
+            "S",
+            "5",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "5",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "last_member_of_that_domain"
+        },
+        {
+          "uid": "11047:pc:3",
+          "raw": "परः$S$1$1$",
+          "term": "परः",
+          "source": "1.1.47",
+          "kind": "own",
+          "fields": [
+            "S",
+            "1",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "1",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "placement_after"
+        }
+      ],
+      "opcode": "ordinary_mit_review",
+      "parameters": {},
+      "requires": {},
+      "status": "COMPILED_REVIEWED_RECORD",
+      "errors": [],
+      "source_frame": {
+        "sid": "1.1.47",
+        "text": "मिदचोऽन्त्यात्परः",
+        "own": [
+          {
+            "uid": "11047:pc:0",
+            "raw": "मित्$S$1$1$",
+            "term": "मित्",
+            "source": "1.1.47",
+            "kind": "own",
+            "fields": [
+              "S",
+              "1",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "1",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "11047:pc:1",
+            "raw": "अचः$S$6$1$",
+            "term": "अचः",
+            "source": "1.1.47",
+            "kind": "own",
+            "fields": [
+              "S",
+              "6",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "6",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "11047:pc:2",
+            "raw": "अन्त्यात्$S$5$1$",
+            "term": "अन्त्यात्",
+            "source": "1.1.47",
+            "kind": "own",
+            "fields": [
+              "S",
+              "5",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "5",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "11047:pc:3",
+            "raw": "परः$S$1$1$",
+            "term": "परः",
+            "source": "1.1.47",
+            "kind": "own",
+            "fields": [
+              "S",
+              "1",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "1",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          }
+        ],
+        "inherited": [],
+        "excluded": [],
+        "decisions": [],
+        "semantic_status": "NOT_INFERRED_FROM_CASE_NUMBERS"
+      }
+    },
+    "3.1.68": {
+      "sid": "3.1.68",
+      "text": "कर्तरि शप्",
+      "terms": [
+        {
+          "uid": "31068:pc:0",
+          "raw": "कर्तरि$S$7$1$",
+          "term": "कर्तरि",
+          "source": "3.1.68",
+          "kind": "own",
+          "fields": [
+            "S",
+            "7",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "7",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "semantic_agent"
+        },
+        {
+          "uid": "31068:pc:1",
+          "raw": "शप्$S$1$1$",
+          "term": "शप्",
+          "source": "3.1.68",
+          "kind": "own",
+          "fields": [
+            "S",
+            "1",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "1",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "prescribed_affix"
+        },
+        {
+          "target": "3.1.68",
+          "source": "3.1.67",
+          "term": "सार्वधातुके",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "सार्वधातुके$31067",
+          "uid": "3.1.68:inherited:0",
+          "raw_source": "3.1.67",
+          "raw_term": "सार्वधातुके",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "following_affix_class"
+        },
+        {
+          "target": "3.1.68",
+          "source": "3.1.1",
+          "term": "प्रत्ययः",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "प्रत्ययः$3$1$1",
+          "uid": "3.1.68:inherited:1",
+          "raw_source": "3.1.1",
+          "raw_term": "प्रत्ययः",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "affix_designation"
+        },
+        {
+          "target": "3.1.68",
+          "source": "3.1.2",
+          "term": "परश्च",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "परश्च$3$1$2",
+          "uid": "3.1.68:inherited:2",
+          "raw_source": "3.1.2",
+          "raw_term": "परश्च",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "placement_after_base"
+        },
+        {
+          "target": "3.1.68",
+          "source": "3.1.3",
+          "term": "आद्युदात्तश्च",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "आद्युदात्तश्च$3$1$3",
+          "uid": "3.1.68:inherited:3",
+          "raw_source": "3.1.3",
+          "raw_term": "आद्युदात्तश्च",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "initial_accent_heading"
+        },
+        {
+          "target": "3.1.68",
+          "source": "3.1.22",
+          "term": "धातोः",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "धातोः$3$1$22",
+          "uid": "3.1.68:inherited:4",
+          "raw_source": "3.1.22",
+          "raw_term": "धातोः",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "root_base"
+        }
+      ],
+      "opcode": "sap_semantic_gate",
+      "parameters": {
+        "teaching": "शप्",
+        "identity": "śap:3.1.68"
+      },
+      "requires": {
+        "base_is_dhatu": true,
+        "following_is_sarvadhatuka": true,
+        "agent_is_expressed": true
+      },
+      "status": "COMPILED_REVIEWED_RECORD",
+      "errors": [],
+      "source_frame": {
+        "sid": "3.1.68",
+        "text": "कर्तरि शप्",
+        "own": [
+          {
+            "uid": "31068:pc:0",
+            "raw": "कर्तरि$S$7$1$",
+            "term": "कर्तरि",
+            "source": "3.1.68",
+            "kind": "own",
+            "fields": [
+              "S",
+              "7",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "7",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "31068:pc:1",
+            "raw": "शप्$S$1$1$",
+            "term": "शप्",
+            "source": "3.1.68",
+            "kind": "own",
+            "fields": [
+              "S",
+              "1",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "1",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          }
+        ],
+        "inherited": [
+          {
+            "target": "3.1.68",
+            "source": "3.1.67",
+            "term": "सार्वधातुके",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "सार्वधातुके$31067",
+            "uid": "3.1.68:inherited:0",
+            "raw_source": "3.1.67",
+            "raw_term": "सार्वधातुके",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "3.1.68",
+            "source": "3.1.1",
+            "term": "प्रत्ययः",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "प्रत्ययः$3$1$1",
+            "uid": "3.1.68:inherited:1",
+            "raw_source": "3.1.1",
+            "raw_term": "प्रत्ययः",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "3.1.68",
+            "source": "3.1.2",
+            "term": "परश्च",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "परश्च$3$1$2",
+            "uid": "3.1.68:inherited:2",
+            "raw_source": "3.1.2",
+            "raw_term": "परश्च",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "3.1.68",
+            "source": "3.1.3",
+            "term": "आद्युदात्तश्च",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "आद्युदात्तश्च$3$1$3",
+            "uid": "3.1.68:inherited:3",
+            "raw_source": "3.1.3",
+            "raw_term": "आद्युदात्तश्च",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "3.1.68",
+            "source": "3.1.22",
+            "term": "धातोः",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "धातोः$3$1$22",
+            "uid": "3.1.68:inherited:4",
+            "raw_source": "3.1.22",
+            "raw_term": "धातोः",
+            "status": "EDITORIAL_ANNOTATION"
+          }
+        ],
+        "excluded": [],
+        "decisions": [],
+        "semantic_status": "NOT_INFERRED_FROM_CASE_NUMBERS"
+      }
+    },
+    "6.1.64": {
+      "sid": "6.1.64",
+      "text": "धात्वादेः षः सः",
+      "terms": [
+        {
+          "uid": "61064:pc:0",
+          "raw": "धात्वादेः$S$6$1$",
+          "term": "धात्वादेः",
+          "source": "6.1.64",
+          "kind": "own",
+          "fields": [
+            "S",
+            "6",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "6",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "root_initial_target"
+        },
+        {
+          "uid": "61064:pc:1",
+          "raw": "षः$S$6$1$",
+          "term": "षः",
+          "source": "6.1.64",
+          "kind": "own",
+          "fields": [
+            "S",
+            "6",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "6",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "source_sound"
+        },
+        {
+          "uid": "61064:pc:2",
+          "raw": "सः$S$1$1$",
+          "term": "सः",
+          "source": "6.1.64",
+          "kind": "own",
+          "fields": [
+            "S",
+            "1",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "1",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "substitute"
+        },
+        {
+          "target": "6.1.64",
+          "source": "6.1.45",
+          "term": "उपदेशे",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "उपदेशे$61045",
+          "uid": "6.1.64:inherited:0",
+          "raw_source": "6.1.45",
+          "raw_term": "उपदेशे",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "teaching_context"
+        }
+      ],
+      "opcode": "reuse_PG3_root_initial",
+      "parameters": {},
+      "requires": {},
+      "status": "COMPILED_REVIEWED_RECORD",
+      "errors": [],
+      "source_frame": {
+        "sid": "6.1.64",
+        "text": "धात्वादेः षः सः",
+        "own": [
+          {
+            "uid": "61064:pc:0",
+            "raw": "धात्वादेः$S$6$1$",
+            "term": "धात्वादेः",
+            "source": "6.1.64",
+            "kind": "own",
+            "fields": [
+              "S",
+              "6",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "6",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "61064:pc:1",
+            "raw": "षः$S$6$1$",
+            "term": "षः",
+            "source": "6.1.64",
+            "kind": "own",
+            "fields": [
+              "S",
+              "6",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "6",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "61064:pc:2",
+            "raw": "सः$S$1$1$",
+            "term": "सः",
+            "source": "6.1.64",
+            "kind": "own",
+            "fields": [
+              "S",
+              "1",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "1",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          }
+        ],
+        "inherited": [
+          {
+            "target": "6.1.64",
+            "source": "6.1.45",
+            "term": "उपदेशे",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "उपदेशे$61045",
+            "uid": "6.1.64:inherited:0",
+            "raw_source": "6.1.45",
+            "raw_term": "उपदेशे",
+            "status": "EDITORIAL_ANNOTATION"
+          }
+        ],
+        "excluded": [],
+        "decisions": [],
+        "semantic_status": "NOT_INFERRED_FROM_CASE_NUMBERS"
+      }
+    },
+    "6.1.65": {
+      "sid": "6.1.65",
+      "text": "णो नः",
+      "terms": [
+        {
+          "uid": "61065:pc:0",
+          "raw": "णः$S$6$1$",
+          "term": "णः",
+          "source": "6.1.65",
+          "kind": "own",
+          "fields": [
+            "S",
+            "6",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "6",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "source_sound"
+        },
+        {
+          "uid": "61065:pc:1",
+          "raw": "नः$S$1$1$",
+          "term": "नः",
+          "source": "6.1.65",
+          "kind": "own",
+          "fields": [
+            "S",
+            "1",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "1",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "substitute"
+        },
+        {
+          "target": "6.1.65",
+          "source": "6.1.45",
+          "term": "उपदेशे",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "उपदेशे$61045",
+          "uid": "6.1.65:inherited:0",
+          "raw_source": "6.1.45",
+          "raw_term": "उपदेशे",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "teaching_context"
+        },
+        {
+          "target": "6.1.65",
+          "source": "6.1.64",
+          "term": "धात्वादेः",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "धात्वादेः$61064",
+          "uid": "6.1.65:inherited:1",
+          "raw_source": "6.1.64",
+          "raw_term": "धात्वादेः",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "root_initial_target"
+        }
+      ],
+      "opcode": "reuse_PG3_root_initial",
+      "parameters": {},
+      "requires": {},
+      "status": "COMPILED_REVIEWED_RECORD",
+      "errors": [],
+      "source_frame": {
+        "sid": "6.1.65",
+        "text": "णो नः",
+        "own": [
+          {
+            "uid": "61065:pc:0",
+            "raw": "णः$S$6$1$",
+            "term": "णः",
+            "source": "6.1.65",
+            "kind": "own",
+            "fields": [
+              "S",
+              "6",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "6",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "61065:pc:1",
+            "raw": "नः$S$1$1$",
+            "term": "नः",
+            "source": "6.1.65",
+            "kind": "own",
+            "fields": [
+              "S",
+              "1",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "1",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          }
+        ],
+        "inherited": [
+          {
+            "target": "6.1.65",
+            "source": "6.1.45",
+            "term": "उपदेशे",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "उपदेशे$61045",
+            "uid": "6.1.65:inherited:0",
+            "raw_source": "6.1.45",
+            "raw_term": "उपदेशे",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "6.1.65",
+            "source": "6.1.64",
+            "term": "धात्वादेः",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "धात्वादेः$61064",
+            "uid": "6.1.65:inherited:1",
+            "raw_source": "6.1.64",
+            "raw_term": "धात्वादेः",
+            "status": "EDITORIAL_ANNOTATION"
+          }
+        ],
+        "excluded": [],
+        "decisions": [],
+        "semantic_status": "NOT_INFERRED_FROM_CASE_NUMBERS"
+      }
+    },
+    "6.1.73": {
+      "sid": "6.1.73",
+      "text": "छे च",
+      "terms": [
+        {
+          "uid": "61073:pc:0",
+          "raw": "छे$S$7$1$",
+          "term": "छे",
+          "source": "6.1.73",
+          "kind": "own",
+          "fields": [
+            "S",
+            "7",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "7",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "following_sound"
+        },
+        {
+          "uid": "61073:pc:1",
+          "raw": "च$S$0$0$",
+          "term": "च",
+          "source": "6.1.73",
+          "kind": "own",
+          "fields": [
+            "S",
+            "0",
+            "0",
+            ""
+          ],
+          "category": "S",
+          "case": "0",
+          "number": "0",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "conjunction"
+        },
+        {
+          "target": "6.1.73",
+          "source": "6.1.71",
+          "term": "ह्रस्वस्य",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "ह्रस्वस्य$61071",
+          "uid": "6.1.73:inherited:0",
+          "raw_source": "6.1.71",
+          "raw_term": "ह्रस्वस्य",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "short_vowel_recipient"
+        },
+        {
+          "target": "6.1.73",
+          "source": "6.1.71",
+          "term": "तुक्",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "तुक्$61071",
+          "uid": "6.1.73:inherited:1",
+          "raw_source": "6.1.71",
+          "raw_term": "तुक्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "augment"
+        },
+        {
+          "target": "6.1.73",
+          "source": "6.1.72",
+          "term": "संहितायाम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "संहितायाम्$6$1$72",
+          "uid": "6.1.73:inherited:2",
+          "raw_source": "6.1.72",
+          "raw_term": "संहितायाम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "close_contact"
+        }
+      ],
+      "opcode": "tuk",
+      "parameters": {
+        "length": "short",
+        "following": "ch",
+        "optional": false
+      },
+      "requires": {
+        "samhita": true
+      },
+      "status": "COMPILED_REVIEWED_RECORD",
+      "errors": [],
+      "source_frame": {
+        "sid": "6.1.73",
+        "text": "छे च",
+        "own": [
+          {
+            "uid": "61073:pc:0",
+            "raw": "छे$S$7$1$",
+            "term": "छे",
+            "source": "6.1.73",
+            "kind": "own",
+            "fields": [
+              "S",
+              "7",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "7",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "61073:pc:1",
+            "raw": "च$S$0$0$",
+            "term": "च",
+            "source": "6.1.73",
+            "kind": "own",
+            "fields": [
+              "S",
+              "0",
+              "0",
+              ""
+            ],
+            "category": "S",
+            "case": "0",
+            "number": "0",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          }
+        ],
+        "inherited": [
+          {
+            "target": "6.1.73",
+            "source": "6.1.71",
+            "term": "ह्रस्वस्य",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "ह्रस्वस्य$61071",
+            "uid": "6.1.73:inherited:0",
+            "raw_source": "6.1.71",
+            "raw_term": "ह्रस्वस्य",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "6.1.73",
+            "source": "6.1.71",
+            "term": "तुक्",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "तुक्$61071",
+            "uid": "6.1.73:inherited:1",
+            "raw_source": "6.1.71",
+            "raw_term": "तुक्",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "6.1.73",
+            "source": "6.1.72",
+            "term": "संहितायाम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "संहितायाम्$6$1$72",
+            "uid": "6.1.73:inherited:2",
+            "raw_source": "6.1.72",
+            "raw_term": "संहितायाम्",
+            "status": "EDITORIAL_ANNOTATION"
+          }
+        ],
+        "excluded": [],
+        "decisions": [],
+        "semantic_status": "NOT_INFERRED_FROM_CASE_NUMBERS"
+      }
+    },
+    "6.1.74": {
+      "sid": "6.1.74",
+      "text": "आङ्माङोश्च",
+      "terms": [
+        {
+          "uid": "61074:pc:0",
+          "raw": "आङ्-माङोः$S$6$2$",
+          "term": "आङ्-माङोः",
+          "source": "6.1.74",
+          "kind": "own",
+          "fields": [
+            "S",
+            "6",
+            "2",
+            ""
+          ],
+          "category": "S",
+          "case": "6",
+          "number": "2",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "identified_particles"
+        },
+        {
+          "uid": "61074:pc:1",
+          "raw": "च$S$0$0$",
+          "term": "च",
+          "source": "6.1.74",
+          "kind": "own",
+          "fields": [
+            "S",
+            "0",
+            "0",
+            ""
+          ],
+          "category": "S",
+          "case": "0",
+          "number": "0",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "conjunction"
+        },
+        {
+          "target": "6.1.74",
+          "source": "6.1.71",
+          "term": "तुक्",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "तुक्$61071",
+          "uid": "6.1.74:inherited:0",
+          "raw_source": "6.1.71",
+          "raw_term": "तुक्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "augment"
+        },
+        {
+          "target": "6.1.74",
+          "source": "6.1.73",
+          "term": "छे",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "छे$61073",
+          "uid": "6.1.74:inherited:1",
+          "raw_source": "6.1.73",
+          "raw_term": "छे",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "following_sound"
+        },
+        {
+          "target": "6.1.74",
+          "source": "6.1.72",
+          "term": "संहितायाम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "संहितायाम्$6$1$72",
+          "uid": "6.1.74:inherited:2",
+          "raw_source": "6.1.72",
+          "raw_term": "संहितायाम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "close_contact"
+        }
+      ],
+      "opcode": "tuk",
+      "parameters": {
+        "identities": [
+          "āṅ",
+          "māṅ"
+        ],
+        "following": "ch",
+        "optional": false
+      },
+      "requires": {
+        "samhita": true
+      },
+      "status": "COMPILED_REVIEWED_RECORD",
+      "errors": [],
+      "source_frame": {
+        "sid": "6.1.74",
+        "text": "आङ्माङोश्च",
+        "own": [
+          {
+            "uid": "61074:pc:0",
+            "raw": "आङ्-माङोः$S$6$2$",
+            "term": "आङ्-माङोः",
+            "source": "6.1.74",
+            "kind": "own",
+            "fields": [
+              "S",
+              "6",
+              "2",
+              ""
+            ],
+            "category": "S",
+            "case": "6",
+            "number": "2",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "61074:pc:1",
+            "raw": "च$S$0$0$",
+            "term": "च",
+            "source": "6.1.74",
+            "kind": "own",
+            "fields": [
+              "S",
+              "0",
+              "0",
+              ""
+            ],
+            "category": "S",
+            "case": "0",
+            "number": "0",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          }
+        ],
+        "inherited": [
+          {
+            "target": "6.1.74",
+            "source": "6.1.71",
+            "term": "तुक्",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "तुक्$61071",
+            "uid": "6.1.74:inherited:0",
+            "raw_source": "6.1.71",
+            "raw_term": "तुक्",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "6.1.74",
+            "source": "6.1.73",
+            "term": "छे",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "छे$61073",
+            "uid": "6.1.74:inherited:1",
+            "raw_source": "6.1.73",
+            "raw_term": "छे",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "6.1.74",
+            "source": "6.1.72",
+            "term": "संहितायाम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "संहितायाम्$6$1$72",
+            "uid": "6.1.74:inherited:2",
+            "raw_source": "6.1.72",
+            "raw_term": "संहितायाम्",
+            "status": "EDITORIAL_ANNOTATION"
+          }
+        ],
+        "excluded": [],
+        "decisions": [],
+        "semantic_status": "NOT_INFERRED_FROM_CASE_NUMBERS"
+      }
+    },
+    "6.1.75": {
+      "sid": "6.1.75",
+      "text": "दीर्घात्",
+      "terms": [
+        {
+          "uid": "61075:pc:0",
+          "raw": "दीर्घात्$S$5$1$",
+          "term": "दीर्घात्",
+          "source": "6.1.75",
+          "kind": "own",
+          "fields": [
+            "S",
+            "5",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "5",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "long_vowel_recipient"
+        },
+        {
+          "target": "6.1.75",
+          "source": "6.1.71",
+          "term": "तुक्",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "तुक्$61071",
+          "uid": "6.1.75:inherited:0",
+          "raw_source": "6.1.71",
+          "raw_term": "तुक्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "augment"
+        },
+        {
+          "target": "6.1.75",
+          "source": "6.1.73",
+          "term": "छे",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "छे$61073",
+          "uid": "6.1.75:inherited:1",
+          "raw_source": "6.1.73",
+          "raw_term": "छे",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "following_sound"
+        },
+        {
+          "target": "6.1.75",
+          "source": "6.1.72",
+          "term": "संहितायाम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "संहितायाम्$6$1$72",
+          "uid": "6.1.75:inherited:2",
+          "raw_source": "6.1.72",
+          "raw_term": "संहितायाम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "close_contact"
+        }
+      ],
+      "opcode": "tuk",
+      "parameters": {
+        "length": "long",
+        "following": "ch",
+        "optional": false
+      },
+      "requires": {
+        "samhita": true
+      },
+      "status": "COMPILED_REVIEWED_RECORD",
+      "errors": [],
+      "source_frame": {
+        "sid": "6.1.75",
+        "text": "दीर्घात्",
+        "own": [
+          {
+            "uid": "61075:pc:0",
+            "raw": "दीर्घात्$S$5$1$",
+            "term": "दीर्घात्",
+            "source": "6.1.75",
+            "kind": "own",
+            "fields": [
+              "S",
+              "5",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "5",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          }
+        ],
+        "inherited": [
+          {
+            "target": "6.1.75",
+            "source": "6.1.71",
+            "term": "तुक्",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "तुक्$61071",
+            "uid": "6.1.75:inherited:0",
+            "raw_source": "6.1.71",
+            "raw_term": "तुक्",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "6.1.75",
+            "source": "6.1.73",
+            "term": "छे",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "छे$61073",
+            "uid": "6.1.75:inherited:1",
+            "raw_source": "6.1.73",
+            "raw_term": "छे",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "6.1.75",
+            "source": "6.1.72",
+            "term": "संहितायाम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "संहितायाम्$6$1$72",
+            "uid": "6.1.75:inherited:2",
+            "raw_source": "6.1.72",
+            "raw_term": "संहितायाम्",
+            "status": "EDITORIAL_ANNOTATION"
+          }
+        ],
+        "excluded": [],
+        "decisions": [],
+        "semantic_status": "NOT_INFERRED_FROM_CASE_NUMBERS"
+      }
+    },
+    "6.1.76": {
+      "sid": "6.1.76",
+      "text": "पदान्ताद्वा",
+      "terms": [
+        {
+          "uid": "61076:pc:0",
+          "raw": "पदान्तात्$S$5$1$",
+          "term": "पदान्तात्",
+          "source": "6.1.76",
+          "kind": "own",
+          "fields": [
+            "S",
+            "5",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "5",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "pada_final_vowel"
+        },
+        {
+          "uid": "61076:pc:1",
+          "raw": "वा$S$0$0$",
+          "term": "वा",
+          "source": "6.1.76",
+          "kind": "own",
+          "fields": [
+            "S",
+            "0",
+            "0",
+            ""
+          ],
+          "category": "S",
+          "case": "0",
+          "number": "0",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "local_option"
+        },
+        {
+          "target": "6.1.76",
+          "source": "6.1.71",
+          "term": "तुक्",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "तुक्$61071",
+          "uid": "6.1.76:inherited:0",
+          "raw_source": "6.1.71",
+          "raw_term": "तुक्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "augment"
+        },
+        {
+          "target": "6.1.76",
+          "source": "6.1.73",
+          "term": "छे",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "छे$61073",
+          "uid": "6.1.76:inherited:1",
+          "raw_source": "6.1.73",
+          "raw_term": "छे",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "following_sound"
+        },
+        {
+          "target": "6.1.76",
+          "source": "6.1.75",
+          "term": "दीर्घात्",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "दीर्घात्$61075",
+          "uid": "6.1.76:inherited:2",
+          "raw_source": "6.1.75",
+          "raw_term": "दीर्घात्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "long_vowel_recipient"
+        },
+        {
+          "target": "6.1.76",
+          "source": "6.1.72",
+          "term": "संहितायाम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "संहितायाम्$6$1$72",
+          "uid": "6.1.76:inherited:3",
+          "raw_source": "6.1.72",
+          "raw_term": "संहितायाम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "close_contact"
+        }
+      ],
+      "opcode": "tuk",
+      "parameters": {
+        "length": "long",
+        "following": "ch",
+        "pada_final": true,
+        "optional": true
+      },
+      "requires": {
+        "samhita": true
+      },
+      "status": "COMPILED_REVIEWED_RECORD",
+      "errors": [],
+      "source_frame": {
+        "sid": "6.1.76",
+        "text": "पदान्ताद्वा",
+        "own": [
+          {
+            "uid": "61076:pc:0",
+            "raw": "पदान्तात्$S$5$1$",
+            "term": "पदान्तात्",
+            "source": "6.1.76",
+            "kind": "own",
+            "fields": [
+              "S",
+              "5",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "5",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "61076:pc:1",
+            "raw": "वा$S$0$0$",
+            "term": "वा",
+            "source": "6.1.76",
+            "kind": "own",
+            "fields": [
+              "S",
+              "0",
+              "0",
+              ""
+            ],
+            "category": "S",
+            "case": "0",
+            "number": "0",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          }
+        ],
+        "inherited": [
+          {
+            "target": "6.1.76",
+            "source": "6.1.71",
+            "term": "तुक्",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "तुक्$61071",
+            "uid": "6.1.76:inherited:0",
+            "raw_source": "6.1.71",
+            "raw_term": "तुक्",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "6.1.76",
+            "source": "6.1.73",
+            "term": "छे",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "छे$61073",
+            "uid": "6.1.76:inherited:1",
+            "raw_source": "6.1.73",
+            "raw_term": "छे",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "6.1.76",
+            "source": "6.1.75",
+            "term": "दीर्घात्",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "दीर्घात्$61075",
+            "uid": "6.1.76:inherited:2",
+            "raw_source": "6.1.75",
+            "raw_term": "दीर्घात्",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "6.1.76",
+            "source": "6.1.72",
+            "term": "संहितायाम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "संहितायाम्$6$1$72",
+            "uid": "6.1.76:inherited:3",
+            "raw_source": "6.1.72",
+            "raw_term": "संहितायाम्",
+            "status": "EDITORIAL_ANNOTATION"
+          }
+        ],
+        "excluded": [],
+        "decisions": [],
+        "semantic_status": "NOT_INFERRED_FROM_CASE_NUMBERS"
+      }
+    },
+    "7.1.58": {
+      "sid": "7.1.58",
+      "text": "इदितो नुम् धातोः",
+      "terms": [
+        {
+          "uid": "71058:pc:0",
+          "raw": "इदितः$S$6$1$",
+          "term": "इदितः",
+          "source": "7.1.58",
+          "kind": "own",
+          "fields": [
+            "S",
+            "6",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "6",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "standalone_i_it"
+        },
+        {
+          "uid": "71058:pc:1",
+          "raw": "नुम्$S$1$1$",
+          "term": "नुम्",
+          "source": "7.1.58",
+          "kind": "own",
+          "fields": [
+            "S",
+            "1",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "1",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "augment"
+        },
+        {
+          "uid": "71058:pc:2",
+          "raw": "धातोः$S$6$1$",
+          "term": "धातोः",
+          "source": "7.1.58",
+          "kind": "own",
+          "fields": [
+            "S",
+            "6",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "6",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "root_recipient"
+        },
+        {
+          "target": "7.1.58",
+          "source": "6.4.1",
+          "term": "अङ्गस्य",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "अङ्गस्य$6$4$1",
+          "uid": "7.1.58:inherited:0",
+          "raw_source": "6.4.1",
+          "raw_term": "अङ्गस्य",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "inherited_heading_qualified_by_teaching_root_reading"
+        }
+      ],
+      "opcode": "reuse_PG3_idit_num",
+      "parameters": {},
+      "requires": {},
+      "status": "COMPILED_REVIEWED_RECORD",
+      "errors": [],
+      "source_frame": {
+        "sid": "7.1.58",
+        "text": "इदितो नुम् धातोः",
+        "own": [
+          {
+            "uid": "71058:pc:0",
+            "raw": "इदितः$S$6$1$",
+            "term": "इदितः",
+            "source": "7.1.58",
+            "kind": "own",
+            "fields": [
+              "S",
+              "6",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "6",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "71058:pc:1",
+            "raw": "नुम्$S$1$1$",
+            "term": "नुम्",
+            "source": "7.1.58",
+            "kind": "own",
+            "fields": [
+              "S",
+              "1",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "1",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "71058:pc:2",
+            "raw": "धातोः$S$6$1$",
+            "term": "धातोः",
+            "source": "7.1.58",
+            "kind": "own",
+            "fields": [
+              "S",
+              "6",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "6",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          }
+        ],
+        "inherited": [
+          {
+            "target": "7.1.58",
+            "source": "6.4.1",
+            "term": "अङ्गस्य",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "अङ्गस्य$6$4$1",
+            "uid": "7.1.58:inherited:0",
+            "raw_source": "6.4.1",
+            "raw_term": "अङ्गस्य",
+            "status": "EDITORIAL_ANNOTATION"
+          }
+        ],
+        "excluded": [],
+        "decisions": [],
+        "semantic_status": "NOT_INFERRED_FROM_CASE_NUMBERS"
+      }
+    },
+    "7.3.84": {
+      "sid": "7.3.84",
+      "text": "सार्वधातुकार्धधातुकयोः",
+      "terms": [
+        {
+          "uid": "73084:pc:0",
+          "raw": "सार्वधातुक-आर्धधातुकयोः$S$7$2$",
+          "term": "सार्वधातुक-आर्धधातुकयोः",
+          "source": "7.3.84",
+          "kind": "own",
+          "fields": [
+            "S",
+            "7",
+            "2",
+            ""
+          ],
+          "category": "S",
+          "case": "7",
+          "number": "2",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "following_affix_class"
+        },
+        {
+          "target": "7.3.84",
+          "source": "7.3.82",
+          "term": "गुणः",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "गुणः$73082",
+          "uid": "7.3.84:inherited:0",
+          "raw_source": "7.3.82",
+          "raw_term": "गुणः",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "substitution_class"
+        },
+        {
+          "target": "7.3.84",
+          "source": "6.4.1",
+          "term": "अङ्गस्य",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "अङ्गस्य$6$4$1",
+          "uid": "7.3.84:inherited:1",
+          "raw_source": "6.4.1",
+          "raw_term": "अङ्गस्य",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "affix_relative_base"
+        }
+      ],
+      "opcode": "guna_domain_review",
+      "parameters": {},
+      "requires": {},
+      "status": "COMPILED_REVIEWED_RECORD",
+      "errors": [],
+      "source_frame": {
+        "sid": "7.3.84",
+        "text": "सार्वधातुकार्धधातुकयोः",
+        "own": [
+          {
+            "uid": "73084:pc:0",
+            "raw": "सार्वधातुक-आर्धधातुकयोः$S$7$2$",
+            "term": "सार्वधातुक-आर्धधातुकयोः",
+            "source": "7.3.84",
+            "kind": "own",
+            "fields": [
+              "S",
+              "7",
+              "2",
+              ""
+            ],
+            "category": "S",
+            "case": "7",
+            "number": "2",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          }
+        ],
+        "inherited": [
+          {
+            "target": "7.3.84",
+            "source": "7.3.82",
+            "term": "गुणः",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "गुणः$73082",
+            "uid": "7.3.84:inherited:0",
+            "raw_source": "7.3.82",
+            "raw_term": "गुणः",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "7.3.84",
+            "source": "6.4.1",
+            "term": "अङ्गस्य",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "अङ्गस्य$6$4$1",
+            "uid": "7.3.84:inherited:1",
+            "raw_source": "6.4.1",
+            "raw_term": "अङ्गस्य",
+            "status": "EDITORIAL_ANNOTATION"
+          }
+        ],
+        "excluded": [],
+        "decisions": [],
+        "semantic_status": "NOT_INFERRED_FROM_CASE_NUMBERS"
+      }
+    },
+    "8.2.78": {
+      "sid": "8.2.78",
+      "text": "उपधायां च",
+      "terms": [
+        {
+          "uid": "82078:pc:0",
+          "raw": "उपधायाम्$S$7$1$6",
+          "term": "उपधायाम्",
+          "source": "8.2.78",
+          "kind": "own",
+          "fields": [
+            "S",
+            "7",
+            "1",
+            "6"
+          ],
+          "category": "S",
+          "case": "7",
+          "number": "1",
+          "extra_case_field": "6",
+          "status": "PRESERVED_UNINTERPRETED_FIELDS",
+          "role": "root_penultimate_position"
+        },
+        {
+          "uid": "82078:pc:1",
+          "raw": "च$S$0$0$",
+          "term": "च",
+          "source": "8.2.78",
+          "kind": "own",
+          "fields": [
+            "S",
+            "0",
+            "0",
+            ""
+          ],
+          "category": "S",
+          "case": "0",
+          "number": "0",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "conjunction"
+        },
+        {
+          "target": "8.2.78",
+          "source": "8.2.74",
+          "term": "धातोः",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "धातोः$82074",
+          "uid": "8.2.78:inherited:0",
+          "raw_source": "8.2.74",
+          "raw_term": "धातोः",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "root_domain"
+        },
+        {
+          "target": "8.2.78",
+          "source": "8.2.76",
+          "term": "उपधायाः",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "उपधायाः$82076",
+          "uid": "8.2.78:inherited:1",
+          "raw_source": "8.2.76",
+          "raw_term": "उपधायाः",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "preceding_vowel_of_rv"
+        },
+        {
+          "target": "8.2.78",
+          "source": "8.2.76",
+          "term": "इकः",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "इकः$82076",
+          "uid": "8.2.78:inherited:2",
+          "raw_source": "8.2.76",
+          "raw_term": "इकः",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "ik_vowel_target"
+        },
+        {
+          "target": "8.2.78",
+          "source": "8.2.76",
+          "term": "र्वोः",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "र्वोः$82076",
+          "uid": "8.2.78:inherited:3",
+          "raw_source": "8.2.76",
+          "raw_term": "र्वोः",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "r_or_v_in_that_position"
+        },
+        {
+          "target": "8.2.78",
+          "source": "8.2.76",
+          "term": "दीर्घ",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "दीर्घ$82076",
+          "uid": "8.2.78:inherited:4",
+          "raw_source": "8.2.76",
+          "raw_term": "दीर्घ",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "lengthened_substitute"
+        },
+        {
+          "target": "8.2.78",
+          "source": "8.2.77",
+          "term": "हलि",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "हलि$82077",
+          "uid": "8.2.78:inherited:5",
+          "raw_source": "8.2.77",
+          "raw_term": "हलि",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "following_consonant"
+        },
+        {
+          "target": "8.2.78",
+          "source": "8.2.1",
+          "term": "पूर्वत्रासिद्धम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "पूर्वत्रासिद्धम्$8$2$1",
+          "uid": "8.2.78:inherited:7",
+          "raw_source": "8.2.1",
+          "raw_term": "पूर्वत्रासिद्धम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "earlier_view_barrier"
+        }
+      ],
+      "opcode": "root_upadha_length",
+      "parameters": {
+        "mapping": {
+          "i": "ī",
+          "u": "ū",
+          "ṛ": "ṝ"
+        },
+        "rv": [
+          "r",
+          "v"
+        ],
+        "unhandled_target": "ḷ",
+        "domain": "original r/v in a declared root penultimate position; yaṇ and bahiraṅga causes need their own visibility judgment"
+      },
+      "requires": {},
+      "status": "COMPILED_REVIEWED_RECORD",
+      "errors": [],
+      "source_frame": {
+        "sid": "8.2.78",
+        "text": "उपधायां च",
+        "own": [
+          {
+            "uid": "82078:pc:0",
+            "raw": "उपधायाम्$S$7$1$6",
+            "term": "उपधायाम्",
+            "source": "8.2.78",
+            "kind": "own",
+            "fields": [
+              "S",
+              "7",
+              "1",
+              "6"
+            ],
+            "category": "S",
+            "case": "7",
+            "number": "1",
+            "extra_case_field": "6",
+            "status": "PRESERVED_UNINTERPRETED_FIELDS"
+          },
+          {
+            "uid": "82078:pc:1",
+            "raw": "च$S$0$0$",
+            "term": "च",
+            "source": "8.2.78",
+            "kind": "own",
+            "fields": [
+              "S",
+              "0",
+              "0",
+              ""
+            ],
+            "category": "S",
+            "case": "0",
+            "number": "0",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          }
+        ],
+        "inherited": [
+          {
+            "target": "8.2.78",
+            "source": "8.2.74",
+            "term": "धातोः",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "धातोः$82074",
+            "uid": "8.2.78:inherited:0",
+            "raw_source": "8.2.74",
+            "raw_term": "धातोः",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.2.78",
+            "source": "8.2.76",
+            "term": "उपधायाः",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "उपधायाः$82076",
+            "uid": "8.2.78:inherited:1",
+            "raw_source": "8.2.76",
+            "raw_term": "उपधायाः",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.2.78",
+            "source": "8.2.76",
+            "term": "इकः",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "इकः$82076",
+            "uid": "8.2.78:inherited:2",
+            "raw_source": "8.2.76",
+            "raw_term": "इकः",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.2.78",
+            "source": "8.2.76",
+            "term": "र्वोः",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "र्वोः$82076",
+            "uid": "8.2.78:inherited:3",
+            "raw_source": "8.2.76",
+            "raw_term": "र्वोः",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.2.78",
+            "source": "8.2.76",
+            "term": "दीर्घ",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "दीर्घ$82076",
+            "uid": "8.2.78:inherited:4",
+            "raw_source": "8.2.76",
+            "raw_term": "दीर्घ",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.2.78",
+            "source": "8.2.77",
+            "term": "हलि",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "हलि$82077",
+            "uid": "8.2.78:inherited:5",
+            "raw_source": "8.2.77",
+            "raw_term": "हलि",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.2.78",
+            "source": "8.2.1",
+            "term": "पूर्वत्रासिद्धम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "पूर्वत्रासिद्धम्$8$2$1",
+            "uid": "8.2.78:inherited:7",
+            "raw_source": "8.2.1",
+            "raw_term": "पूर्वत्रासिद्धम्",
+            "status": "EDITORIAL_ANNOTATION"
+          }
+        ],
+        "excluded": [
+          {
+            "target": "8.2.78",
+            "source": "8.1.16",
+            "term": "पदस्य",
+            "kind": "adhikara",
+            "evidence": [
+              {
+                "path": "sutraani/tattvabodhini.txt",
+                "key": "82078",
+                "anchor": "पदस्येत्यननुवृत्त्या कूर्दते"
+              },
+              {
+                "path": "sutraani/kashika.txt",
+                "key": "82078",
+                "anchor": "धातोरुपधाभूतौ यौ रेफवकारौ"
+              }
+            ],
+            "raw": "पदस्य$8$1$16",
+            "uid": "8.2.78:inherited:6",
+            "raw_source": "8.1.16",
+            "raw_term": "पदस्य",
+            "status": "EXCLUDED_BY_COMMENTARY",
+            "policy": "exclude-padasya-at-upadhayam"
+          }
+        ],
+        "decisions": [
+          {
+            "uid": "8.2.78:inherited:6",
+            "policy": "exclude-padasya-at-upadhayam",
+            "action": "exclude"
+          }
+        ],
+        "semantic_status": "NOT_INFERRED_FROM_CASE_NUMBERS"
+      }
+    },
+    "8.3.24": {
+      "sid": "8.3.24",
+      "text": "नश्चापदान्तस्य झलि",
+      "terms": [
+        {
+          "uid": "83024:pc:0",
+          "raw": "नः$S$6$1$",
+          "term": "नः",
+          "source": "8.3.24",
+          "kind": "own",
+          "fields": [
+            "S",
+            "6",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "6",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "source_sound_n"
+        },
+        {
+          "uid": "83024:pc:1",
+          "raw": "च$S$0$0$",
+          "term": "च",
+          "source": "8.3.24",
+          "kind": "own",
+          "fields": [
+            "S",
+            "0",
+            "0",
+            ""
+          ],
+          "category": "S",
+          "case": "0",
+          "number": "0",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "conjunction"
+        },
+        {
+          "uid": "83024:pc:2",
+          "raw": "अपदान्तस्य$S$6$1$",
+          "term": "अपदान्तस्य",
+          "source": "8.3.24",
+          "kind": "own",
+          "fields": [
+            "S",
+            "6",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "6",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "non_pada_final_target"
+        },
+        {
+          "uid": "83024:pc:3",
+          "raw": "झलि$S$7$1$",
+          "term": "झलि",
+          "source": "8.3.24",
+          "kind": "own",
+          "fields": [
+            "S",
+            "7",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "7",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "following_sound_class"
+        },
+        {
+          "target": "8.3.24",
+          "source": "8.3.23",
+          "term": "मः",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "मः$83023",
+          "uid": "8.3.24:inherited:0",
+          "raw_source": "8.3.23",
+          "raw_term": "मः",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "source_sound_m"
+        },
+        {
+          "target": "8.3.24",
+          "source": "8.3.23",
+          "term": "अनुस्वारः",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "अनुस्वारः$83023",
+          "uid": "8.3.24:inherited:1",
+          "raw_source": "8.3.23",
+          "raw_term": "अनुस्वारः",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "substitute"
+        },
+        {
+          "target": "8.3.24",
+          "source": "8.1.16",
+          "term": "पदस्य",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "पदस्य$8$1$16",
+          "uid": "8.3.24:inherited:2",
+          "raw_source": "8.1.16",
+          "raw_term": "पदस्य",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "pada_constituent_context"
+        },
+        {
+          "target": "8.3.24",
+          "source": "8.2.1",
+          "term": "पूर्वत्रासिद्धम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "पूर्वत्रासिद्धम्$8$2$1",
+          "uid": "8.3.24:inherited:3",
+          "raw_source": "8.2.1",
+          "raw_term": "पूर्वत्रासिद्धम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "earlier_view_barrier"
+        },
+        {
+          "target": "8.3.24",
+          "source": "8.2.108",
+          "term": "संहितायाम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "संहितायाम्$8$2$108",
+          "uid": "8.3.24:inherited:4",
+          "raw_source": "8.2.108",
+          "raw_term": "संहितायाम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "close_contact"
+        }
+      ],
+      "opcode": "nasalize",
+      "parameters": {
+        "targets": [
+          "n",
+          "m"
+        ],
+        "following": [
+          "k",
+          "kh",
+          "g",
+          "gh",
+          "c",
+          "ch",
+          "j",
+          "jh",
+          "ṭ",
+          "ṭh",
+          "ḍ",
+          "ḍh",
+          "t",
+          "th",
+          "d",
+          "dh",
+          "p",
+          "ph",
+          "b",
+          "bh",
+          "ś",
+          "ṣ",
+          "s",
+          "h"
+        ],
+        "replacement": "ṃ"
+      },
+      "requires": {
+        "samhita": true
+      },
+      "status": "COMPILED_REVIEWED_RECORD",
+      "errors": [],
+      "source_frame": {
+        "sid": "8.3.24",
+        "text": "नश्चापदान्तस्य झलि",
+        "own": [
+          {
+            "uid": "83024:pc:0",
+            "raw": "नः$S$6$1$",
+            "term": "नः",
+            "source": "8.3.24",
+            "kind": "own",
+            "fields": [
+              "S",
+              "6",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "6",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "83024:pc:1",
+            "raw": "च$S$0$0$",
+            "term": "च",
+            "source": "8.3.24",
+            "kind": "own",
+            "fields": [
+              "S",
+              "0",
+              "0",
+              ""
+            ],
+            "category": "S",
+            "case": "0",
+            "number": "0",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "83024:pc:2",
+            "raw": "अपदान्तस्य$S$6$1$",
+            "term": "अपदान्तस्य",
+            "source": "8.3.24",
+            "kind": "own",
+            "fields": [
+              "S",
+              "6",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "6",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "83024:pc:3",
+            "raw": "झलि$S$7$1$",
+            "term": "झलि",
+            "source": "8.3.24",
+            "kind": "own",
+            "fields": [
+              "S",
+              "7",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "7",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          }
+        ],
+        "inherited": [
+          {
+            "target": "8.3.24",
+            "source": "8.3.23",
+            "term": "मः",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "मः$83023",
+            "uid": "8.3.24:inherited:0",
+            "raw_source": "8.3.23",
+            "raw_term": "मः",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.3.24",
+            "source": "8.3.23",
+            "term": "अनुस्वारः",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "अनुस्वारः$83023",
+            "uid": "8.3.24:inherited:1",
+            "raw_source": "8.3.23",
+            "raw_term": "अनुस्वारः",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.3.24",
+            "source": "8.1.16",
+            "term": "पदस्य",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "पदस्य$8$1$16",
+            "uid": "8.3.24:inherited:2",
+            "raw_source": "8.1.16",
+            "raw_term": "पदस्य",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.3.24",
+            "source": "8.2.1",
+            "term": "पूर्वत्रासिद्धम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "पूर्वत्रासिद्धम्$8$2$1",
+            "uid": "8.3.24:inherited:3",
+            "raw_source": "8.2.1",
+            "raw_term": "पूर्वत्रासिद्धम्",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.3.24",
+            "source": "8.2.108",
+            "term": "संहितायाम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "संहितायाम्$8$2$108",
+            "uid": "8.3.24:inherited:4",
+            "raw_source": "8.2.108",
+            "raw_term": "संहितायाम्",
+            "status": "EDITORIAL_ANNOTATION"
+          }
+        ],
+        "excluded": [],
+        "decisions": [],
+        "semantic_status": "NOT_INFERRED_FROM_CASE_NUMBERS"
+      }
+    },
+    "8.4.40": {
+      "sid": "8.4.40",
+      "text": "स्तोः श्चुना श्चुः",
+      "terms": [
+        {
+          "uid": "84040:pc:0",
+          "raw": "स्तोः$S$6$1$",
+          "term": "स्तोः",
+          "source": "8.4.40",
+          "kind": "own",
+          "fields": [
+            "S",
+            "6",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "6",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "target_s_and_dentals"
+        },
+        {
+          "uid": "84040:pc:1",
+          "raw": "श्चुना$S$3$1$",
+          "term": "श्चुना",
+          "source": "8.4.40",
+          "kind": "own",
+          "fields": [
+            "S",
+            "3",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "3",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "contact_either_side"
+        },
+        {
+          "uid": "84040:pc:2",
+          "raw": "श्चुः$S$1$1$",
+          "term": "श्चुः",
+          "source": "8.4.40",
+          "kind": "own",
+          "fields": [
+            "S",
+            "1",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "1",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "palatal_substitutes"
+        },
+        {
+          "target": "8.4.40",
+          "source": "8.2.1",
+          "term": "पूर्वत्रासिद्धम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "पूर्वत्रासिद्धम्$8$2$1",
+          "uid": "8.4.40:inherited:0",
+          "raw_source": "8.2.1",
+          "raw_term": "पूर्वत्रासिद्धम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "earlier_view_barrier"
+        },
+        {
+          "target": "8.4.40",
+          "source": "8.2.108",
+          "term": "संहितायाम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "संहितायाम्$8$2$108",
+          "uid": "8.4.40:inherited:1",
+          "raw_source": "8.2.108",
+          "raw_term": "संहितायाम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "close_contact"
+        }
+      ],
+      "opcode": "contact",
+      "parameters": {
+        "mapping": {
+          "s": "ś",
+          "t": "c",
+          "th": "ch",
+          "d": "j",
+          "dh": "jh",
+          "n": "ñ"
+        },
+        "triggers": [
+          "ś",
+          "c",
+          "ch",
+          "j",
+          "jh",
+          "ñ"
+        ]
+      },
+      "requires": {
+        "samhita": true
+      },
+      "status": "COMPILED_REVIEWED_RECORD",
+      "errors": [],
+      "source_frame": {
+        "sid": "8.4.40",
+        "text": "स्तोः श्चुना श्चुः",
+        "own": [
+          {
+            "uid": "84040:pc:0",
+            "raw": "स्तोः$S$6$1$",
+            "term": "स्तोः",
+            "source": "8.4.40",
+            "kind": "own",
+            "fields": [
+              "S",
+              "6",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "6",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "84040:pc:1",
+            "raw": "श्चुना$S$3$1$",
+            "term": "श्चुना",
+            "source": "8.4.40",
+            "kind": "own",
+            "fields": [
+              "S",
+              "3",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "3",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "84040:pc:2",
+            "raw": "श्चुः$S$1$1$",
+            "term": "श्चुः",
+            "source": "8.4.40",
+            "kind": "own",
+            "fields": [
+              "S",
+              "1",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "1",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          }
+        ],
+        "inherited": [
+          {
+            "target": "8.4.40",
+            "source": "8.2.1",
+            "term": "पूर्वत्रासिद्धम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "पूर्वत्रासिद्धम्$8$2$1",
+            "uid": "8.4.40:inherited:0",
+            "raw_source": "8.2.1",
+            "raw_term": "पूर्वत्रासिद्धम्",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.4.40",
+            "source": "8.2.108",
+            "term": "संहितायाम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "संहितायाम्$8$2$108",
+            "uid": "8.4.40:inherited:1",
+            "raw_source": "8.2.108",
+            "raw_term": "संहितायाम्",
+            "status": "EDITORIAL_ANNOTATION"
+          }
+        ],
+        "excluded": [],
+        "decisions": [],
+        "semantic_status": "NOT_INFERRED_FROM_CASE_NUMBERS"
+      }
+    },
+    "8.4.41": {
+      "sid": "8.4.41",
+      "text": "ष्टुना ष्टुः",
+      "terms": [
+        {
+          "uid": "84041:pc:0",
+          "raw": "ष्टुना$S$3$1$",
+          "term": "ष्टुना",
+          "source": "8.4.41",
+          "kind": "own",
+          "fields": [
+            "S",
+            "3",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "3",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "contact_either_side"
+        },
+        {
+          "uid": "84041:pc:1",
+          "raw": "ष्टुः$S$1$1$",
+          "term": "ष्टुः",
+          "source": "8.4.41",
+          "kind": "own",
+          "fields": [
+            "S",
+            "1",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "1",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "retroflex_substitutes"
+        },
+        {
+          "target": "8.4.41",
+          "source": "8.4.40",
+          "term": "स्तोः",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "स्तोः$84040",
+          "uid": "8.4.41:inherited:0",
+          "raw_source": "8.4.40",
+          "raw_term": "स्तोः",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "target_s_and_dentals"
+        },
+        {
+          "target": "8.4.41",
+          "source": "8.2.1",
+          "term": "पूर्वत्रासिद्धम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "पूर्वत्रासिद्धम्$8$2$1",
+          "uid": "8.4.41:inherited:1",
+          "raw_source": "8.2.1",
+          "raw_term": "पूर्वत्रासिद्धम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "earlier_view_barrier"
+        },
+        {
+          "target": "8.4.41",
+          "source": "8.2.108",
+          "term": "संहितायाम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "संहितायाम्$8$2$108",
+          "uid": "8.4.41:inherited:2",
+          "raw_source": "8.2.108",
+          "raw_term": "संहितायाम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "close_contact"
+        }
+      ],
+      "opcode": "contact",
+      "parameters": {
+        "mapping": {
+          "s": "ṣ",
+          "t": "ṭ",
+          "th": "ṭh",
+          "d": "ḍ",
+          "dh": "ḍh",
+          "n": "ṇ"
+        },
+        "triggers": [
+          "ṣ",
+          "ṭ",
+          "ṭh",
+          "ḍ",
+          "ḍh",
+          "ṇ"
+        ]
+      },
+      "requires": {
+        "samhita": true
+      },
+      "status": "COMPILED_REVIEWED_RECORD",
+      "errors": [],
+      "source_frame": {
+        "sid": "8.4.41",
+        "text": "ष्टुना ष्टुः",
+        "own": [
+          {
+            "uid": "84041:pc:0",
+            "raw": "ष्टुना$S$3$1$",
+            "term": "ष्टुना",
+            "source": "8.4.41",
+            "kind": "own",
+            "fields": [
+              "S",
+              "3",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "3",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "84041:pc:1",
+            "raw": "ष्टुः$S$1$1$",
+            "term": "ष्टुः",
+            "source": "8.4.41",
+            "kind": "own",
+            "fields": [
+              "S",
+              "1",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "1",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          }
+        ],
+        "inherited": [
+          {
+            "target": "8.4.41",
+            "source": "8.4.40",
+            "term": "स्तोः",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "स्तोः$84040",
+            "uid": "8.4.41:inherited:0",
+            "raw_source": "8.4.40",
+            "raw_term": "स्तोः",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.4.41",
+            "source": "8.2.1",
+            "term": "पूर्वत्रासिद्धम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "पूर्वत्रासिद्धम्$8$2$1",
+            "uid": "8.4.41:inherited:1",
+            "raw_source": "8.2.1",
+            "raw_term": "पूर्वत्रासिद्धम्",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.4.41",
+            "source": "8.2.108",
+            "term": "संहितायाम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "संहितायाम्$8$2$108",
+            "uid": "8.4.41:inherited:2",
+            "raw_source": "8.2.108",
+            "raw_term": "संहितायाम्",
+            "status": "EDITORIAL_ANNOTATION"
+          }
+        ],
+        "excluded": [],
+        "decisions": [],
+        "semantic_status": "NOT_INFERRED_FROM_CASE_NUMBERS"
+      }
+    },
+    "8.4.42": {
+      "sid": "8.4.42",
+      "text": "न पदान्ताट्टोरनाम्",
+      "terms": [
+        {
+          "uid": "84042:pc:0",
+          "raw": "न$S$0$0$",
+          "term": "न",
+          "source": "8.4.42",
+          "kind": "own",
+          "fields": [
+            "S",
+            "0",
+            "0",
+            ""
+          ],
+          "category": "S",
+          "case": "0",
+          "number": "0",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "prohibition"
+        },
+        {
+          "uid": "84042:pc:1",
+          "raw": "पदान्तात्$S$5$1$",
+          "term": "पदान्तात्",
+          "source": "8.4.42",
+          "kind": "own",
+          "fields": [
+            "S",
+            "5",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "5",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "pada_boundary_after_trigger"
+        },
+        {
+          "uid": "84042:pc:2",
+          "raw": "टोः$S$5$1$",
+          "term": "टोः",
+          "source": "8.4.42",
+          "kind": "own",
+          "fields": [
+            "S",
+            "5",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "5",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "preceding_retroflex_stop"
+        },
+        {
+          "uid": "84042:pc:3",
+          "raw": "अनाम्$S$$$6",
+          "term": "अनाम्",
+          "source": "8.4.42",
+          "kind": "own",
+          "fields": [
+            "S",
+            "",
+            "",
+            "6"
+          ],
+          "category": "S",
+          "case": null,
+          "number": null,
+          "extra_case_field": "6",
+          "status": "PRESERVED_UNINTERPRETED_FIELDS",
+          "role": "named_lexical_exception"
+        },
+        {
+          "target": "8.4.42",
+          "source": "8.4.40",
+          "term": "स्तोः",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "स्तोः$84040",
+          "uid": "8.4.42:inherited:0",
+          "raw_source": "8.4.40",
+          "raw_term": "स्तोः",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "target_s_and_dentals"
+        },
+        {
+          "target": "8.4.42",
+          "source": "8.4.41",
+          "term": "ष्टुः",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "ष्टुः$84041",
+          "uid": "8.4.42:inherited:1",
+          "raw_source": "8.4.41",
+          "raw_term": "ष्टुः",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "blocked_substitution"
+        },
+        {
+          "target": "8.4.42",
+          "source": "8.2.1",
+          "term": "पूर्वत्रासिद्धम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "पूर्वत्रासिद्धम्$8$2$1",
+          "uid": "8.4.42:inherited:2",
+          "raw_source": "8.2.1",
+          "raw_term": "पूर्वत्रासिद्धम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "earlier_view_barrier"
+        },
+        {
+          "target": "8.4.42",
+          "source": "8.2.108",
+          "term": "संहितायाम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "संहितायाम्$8$2$108",
+          "uid": "8.4.42:inherited:3",
+          "raw_source": "8.2.108",
+          "raw_term": "संहितायाम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "close_contact"
+        }
+      ],
+      "opcode": "inhibit_contact",
+      "parameters": {
+        "blocks": "8.4.41",
+        "named_exceptions": [
+          "nām",
+          "navati",
+          "nagarī"
+        ]
+      },
+      "requires": {
+        "samhita": true
+      },
+      "status": "COMPILED_REVIEWED_RECORD",
+      "errors": [],
+      "source_frame": {
+        "sid": "8.4.42",
+        "text": "न पदान्ताट्टोरनाम्",
+        "own": [
+          {
+            "uid": "84042:pc:0",
+            "raw": "न$S$0$0$",
+            "term": "न",
+            "source": "8.4.42",
+            "kind": "own",
+            "fields": [
+              "S",
+              "0",
+              "0",
+              ""
+            ],
+            "category": "S",
+            "case": "0",
+            "number": "0",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "84042:pc:1",
+            "raw": "पदान्तात्$S$5$1$",
+            "term": "पदान्तात्",
+            "source": "8.4.42",
+            "kind": "own",
+            "fields": [
+              "S",
+              "5",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "5",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "84042:pc:2",
+            "raw": "टोः$S$5$1$",
+            "term": "टोः",
+            "source": "8.4.42",
+            "kind": "own",
+            "fields": [
+              "S",
+              "5",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "5",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "84042:pc:3",
+            "raw": "अनाम्$S$$$6",
+            "term": "अनाम्",
+            "source": "8.4.42",
+            "kind": "own",
+            "fields": [
+              "S",
+              "",
+              "",
+              "6"
+            ],
+            "category": "S",
+            "case": null,
+            "number": null,
+            "extra_case_field": "6",
+            "status": "PRESERVED_UNINTERPRETED_FIELDS"
+          }
+        ],
+        "inherited": [
+          {
+            "target": "8.4.42",
+            "source": "8.4.40",
+            "term": "स्तोः",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "स्तोः$84040",
+            "uid": "8.4.42:inherited:0",
+            "raw_source": "8.4.40",
+            "raw_term": "स्तोः",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.4.42",
+            "source": "8.4.41",
+            "term": "ष्टुः",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "ष्टुः$84041",
+            "uid": "8.4.42:inherited:1",
+            "raw_source": "8.4.41",
+            "raw_term": "ष्टुः",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.4.42",
+            "source": "8.2.1",
+            "term": "पूर्वत्रासिद्धम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "पूर्वत्रासिद्धम्$8$2$1",
+            "uid": "8.4.42:inherited:2",
+            "raw_source": "8.2.1",
+            "raw_term": "पूर्वत्रासिद्धम्",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.4.42",
+            "source": "8.2.108",
+            "term": "संहितायाम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "संहितायाम्$8$2$108",
+            "uid": "8.4.42:inherited:3",
+            "raw_source": "8.2.108",
+            "raw_term": "संहितायाम्",
+            "status": "EDITORIAL_ANNOTATION"
+          }
+        ],
+        "excluded": [],
+        "decisions": [],
+        "semantic_status": "NOT_INFERRED_FROM_CASE_NUMBERS"
+      }
+    },
+    "8.4.43": {
+      "sid": "8.4.43",
+      "text": "तोः षि",
+      "terms": [
+        {
+          "uid": "84043:pc:0",
+          "raw": "तोः$S$6$1$",
+          "term": "तोः",
+          "source": "8.4.43",
+          "kind": "own",
+          "fields": [
+            "S",
+            "6",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "6",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "target_dentals"
+        },
+        {
+          "uid": "84043:pc:1",
+          "raw": "षि$S$7$1$",
+          "term": "षि",
+          "source": "8.4.43",
+          "kind": "own",
+          "fields": [
+            "S",
+            "7",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "7",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "following_sibilant"
+        },
+        {
+          "target": "8.4.43",
+          "source": "8.4.41",
+          "term": "ष्टुः",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "ष्टुः$84041",
+          "uid": "8.4.43:inherited:0",
+          "raw_source": "8.4.41",
+          "raw_term": "ष्टुः",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "blocked_substitution"
+        },
+        {
+          "target": "8.4.43",
+          "source": "8.4.42",
+          "term": "न",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "न$84042",
+          "uid": "8.4.43:inherited:1",
+          "raw_source": "8.4.42",
+          "raw_term": "न",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "prohibition"
+        },
+        {
+          "target": "8.4.43",
+          "source": "8.2.1",
+          "term": "पूर्वत्रासिद्धम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "पूर्वत्रासिद्धम्$8$2$1",
+          "uid": "8.4.43:inherited:2",
+          "raw_source": "8.2.1",
+          "raw_term": "पूर्वत्रासिद्धम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "earlier_view_barrier"
+        },
+        {
+          "target": "8.4.43",
+          "source": "8.2.108",
+          "term": "संहितायाम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "संहितायाम्$8$2$108",
+          "uid": "8.4.43:inherited:3",
+          "raw_source": "8.2.108",
+          "raw_term": "संहितायाम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "close_contact"
+        }
+      ],
+      "opcode": "inhibit_contact",
+      "parameters": {
+        "blocks": "8.4.41",
+        "following": "ṣ",
+        "target": [
+          "t",
+          "th",
+          "d",
+          "dh",
+          "n"
+        ]
+      },
+      "requires": {
+        "samhita": true
+      },
+      "status": "COMPILED_REVIEWED_RECORD",
+      "errors": [],
+      "source_frame": {
+        "sid": "8.4.43",
+        "text": "तोः षि",
+        "own": [
+          {
+            "uid": "84043:pc:0",
+            "raw": "तोः$S$6$1$",
+            "term": "तोः",
+            "source": "8.4.43",
+            "kind": "own",
+            "fields": [
+              "S",
+              "6",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "6",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "84043:pc:1",
+            "raw": "षि$S$7$1$",
+            "term": "षि",
+            "source": "8.4.43",
+            "kind": "own",
+            "fields": [
+              "S",
+              "7",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "7",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          }
+        ],
+        "inherited": [
+          {
+            "target": "8.4.43",
+            "source": "8.4.41",
+            "term": "ष्टुः",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "ष्टुः$84041",
+            "uid": "8.4.43:inherited:0",
+            "raw_source": "8.4.41",
+            "raw_term": "ष्टुः",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.4.43",
+            "source": "8.4.42",
+            "term": "न",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "न$84042",
+            "uid": "8.4.43:inherited:1",
+            "raw_source": "8.4.42",
+            "raw_term": "न",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.4.43",
+            "source": "8.2.1",
+            "term": "पूर्वत्रासिद्धम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "पूर्वत्रासिद्धम्$8$2$1",
+            "uid": "8.4.43:inherited:2",
+            "raw_source": "8.2.1",
+            "raw_term": "पूर्वत्रासिद्धम्",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.4.43",
+            "source": "8.2.108",
+            "term": "संहितायाम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "संहितायाम्$8$2$108",
+            "uid": "8.4.43:inherited:3",
+            "raw_source": "8.2.108",
+            "raw_term": "संहितायाम्",
+            "status": "EDITORIAL_ANNOTATION"
+          }
+        ],
+        "excluded": [],
+        "decisions": [],
+        "semantic_status": "NOT_INFERRED_FROM_CASE_NUMBERS"
+      }
+    },
+    "8.4.44": {
+      "sid": "8.4.44",
+      "text": "शात्",
+      "terms": [
+        {
+          "uid": "84044:pc:0",
+          "raw": "शात्$S$5$1$",
+          "term": "शात्",
+          "source": "8.4.44",
+          "kind": "own",
+          "fields": [
+            "S",
+            "5",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "5",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "preceding_sibilant"
+        },
+        {
+          "target": "8.4.44",
+          "source": "8.4.40",
+          "term": "श्चुः",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "श्चुः$84040",
+          "uid": "8.4.44:inherited:0",
+          "raw_source": "8.4.40",
+          "raw_term": "श्चुः",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "blocked_substitution"
+        },
+        {
+          "target": "8.4.44",
+          "source": "8.4.42",
+          "term": "न",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "न$84042",
+          "uid": "8.4.44:inherited:1",
+          "raw_source": "8.4.42",
+          "raw_term": "न",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "prohibition"
+        },
+        {
+          "target": "8.4.44",
+          "source": "8.4.43",
+          "term": "तोः",
+          "kind": "anuvrtti",
+          "evidence": "publisher_annotation",
+          "raw": "तोः$84043",
+          "uid": "8.4.44:inherited:2",
+          "raw_source": "8.4.43",
+          "raw_term": "तोः",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "target_dentals"
+        },
+        {
+          "target": "8.4.44",
+          "source": "8.2.1",
+          "term": "पूर्वत्रासिद्धम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "पूर्वत्रासिद्धम्$8$2$1",
+          "uid": "8.4.44:inherited:3",
+          "raw_source": "8.2.1",
+          "raw_term": "पूर्वत्रासिद्धम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "earlier_view_barrier"
+        },
+        {
+          "target": "8.4.44",
+          "source": "8.2.108",
+          "term": "संहितायाम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "संहितायाम्$8$2$108",
+          "uid": "8.4.44:inherited:4",
+          "raw_source": "8.2.108",
+          "raw_term": "संहितायाम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "close_contact"
+        }
+      ],
+      "opcode": "inhibit_contact",
+      "parameters": {
+        "blocks": "8.4.40",
+        "preceding": "ś",
+        "target": [
+          "t",
+          "th",
+          "d",
+          "dh",
+          "n"
+        ]
+      },
+      "requires": {
+        "samhita": true
+      },
+      "status": "COMPILED_REVIEWED_RECORD",
+      "errors": [],
+      "source_frame": {
+        "sid": "8.4.44",
+        "text": "शात्",
+        "own": [
+          {
+            "uid": "84044:pc:0",
+            "raw": "शात्$S$5$1$",
+            "term": "शात्",
+            "source": "8.4.44",
+            "kind": "own",
+            "fields": [
+              "S",
+              "5",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "5",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          }
+        ],
+        "inherited": [
+          {
+            "target": "8.4.44",
+            "source": "8.4.40",
+            "term": "श्चुः",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "श्चुः$84040",
+            "uid": "8.4.44:inherited:0",
+            "raw_source": "8.4.40",
+            "raw_term": "श्चुः",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.4.44",
+            "source": "8.4.42",
+            "term": "न",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "न$84042",
+            "uid": "8.4.44:inherited:1",
+            "raw_source": "8.4.42",
+            "raw_term": "न",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.4.44",
+            "source": "8.4.43",
+            "term": "तोः",
+            "kind": "anuvrtti",
+            "evidence": "publisher_annotation",
+            "raw": "तोः$84043",
+            "uid": "8.4.44:inherited:2",
+            "raw_source": "8.4.43",
+            "raw_term": "तोः",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.4.44",
+            "source": "8.2.1",
+            "term": "पूर्वत्रासिद्धम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "पूर्वत्रासिद्धम्$8$2$1",
+            "uid": "8.4.44:inherited:3",
+            "raw_source": "8.2.1",
+            "raw_term": "पूर्वत्रासिद्धम्",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.4.44",
+            "source": "8.2.108",
+            "term": "संहितायाम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "संहितायाम्$8$2$108",
+            "uid": "8.4.44:inherited:4",
+            "raw_source": "8.2.108",
+            "raw_term": "संहितायाम्",
+            "status": "EDITORIAL_ANNOTATION"
+          }
+        ],
+        "excluded": [],
+        "decisions": [],
+        "semantic_status": "NOT_INFERRED_FROM_CASE_NUMBERS"
+      }
+    },
+    "8.4.53": {
+      "sid": "8.4.53",
+      "text": "झलां जश् झशि",
+      "terms": [
+        {
+          "uid": "84053:pc:0",
+          "raw": "झलाम्$S$6$3$",
+          "term": "झलाम्",
+          "source": "8.4.53",
+          "kind": "own",
+          "fields": [
+            "S",
+            "6",
+            "3",
+            ""
+          ],
+          "category": "S",
+          "case": "6",
+          "number": "3",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "target_jhal"
+        },
+        {
+          "uid": "84053:pc:1",
+          "raw": "जश्$S$1$1$",
+          "term": "जश्",
+          "source": "8.4.53",
+          "kind": "own",
+          "fields": [
+            "S",
+            "1",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "1",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "voiced_stop_substitutes"
+        },
+        {
+          "uid": "84053:pc:2",
+          "raw": "झशि$S$7$1$",
+          "term": "झशि",
+          "source": "8.4.53",
+          "kind": "own",
+          "fields": [
+            "S",
+            "7",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "7",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "following_sound_class"
+        },
+        {
+          "target": "8.4.53",
+          "source": "8.2.1",
+          "term": "पूर्वत्रासिद्धम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "पूर्वत्रासिद्धम्$8$2$1",
+          "uid": "8.4.53:inherited:0",
+          "raw_source": "8.2.1",
+          "raw_term": "पूर्वत्रासिद्धम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "earlier_view_barrier"
+        },
+        {
+          "target": "8.4.53",
+          "source": "8.2.108",
+          "term": "संहितायाम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "संहितायाम्$8$2$108",
+          "uid": "8.4.53:inherited:1",
+          "raw_source": "8.2.108",
+          "raw_term": "संहितायाम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "close_contact"
+        }
+      ],
+      "opcode": "voice_before_jhas",
+      "parameters": {
+        "mapping": {
+          "k": "g",
+          "kh": "g",
+          "g": "g",
+          "gh": "g",
+          "c": "j",
+          "ch": "j",
+          "j": "j",
+          "jh": "j",
+          "ṭ": "ḍ",
+          "ṭh": "ḍ",
+          "ḍ": "ḍ",
+          "ḍh": "ḍ",
+          "t": "d",
+          "th": "d",
+          "d": "d",
+          "dh": "d",
+          "p": "b",
+          "ph": "b",
+          "b": "b",
+          "bh": "b",
+          "ś": "j",
+          "ṣ": "ḍ",
+          "s": "d",
+          "h": "g"
+        },
+        "following": [
+          "g",
+          "gh",
+          "j",
+          "jh",
+          "ḍ",
+          "ḍh",
+          "d",
+          "dh",
+          "b",
+          "bh"
+        ]
+      },
+      "requires": {
+        "samhita": true
+      },
+      "status": "COMPILED_REVIEWED_RECORD",
+      "errors": [],
+      "source_frame": {
+        "sid": "8.4.53",
+        "text": "झलां जश् झशि",
+        "own": [
+          {
+            "uid": "84053:pc:0",
+            "raw": "झलाम्$S$6$3$",
+            "term": "झलाम्",
+            "source": "8.4.53",
+            "kind": "own",
+            "fields": [
+              "S",
+              "6",
+              "3",
+              ""
+            ],
+            "category": "S",
+            "case": "6",
+            "number": "3",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "84053:pc:1",
+            "raw": "जश्$S$1$1$",
+            "term": "जश्",
+            "source": "8.4.53",
+            "kind": "own",
+            "fields": [
+              "S",
+              "1",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "1",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "84053:pc:2",
+            "raw": "झशि$S$7$1$",
+            "term": "झशि",
+            "source": "8.4.53",
+            "kind": "own",
+            "fields": [
+              "S",
+              "7",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "7",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          }
+        ],
+        "inherited": [
+          {
+            "target": "8.4.53",
+            "source": "8.2.1",
+            "term": "पूर्वत्रासिद्धम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "पूर्वत्रासिद्धम्$8$2$1",
+            "uid": "8.4.53:inherited:0",
+            "raw_source": "8.2.1",
+            "raw_term": "पूर्वत्रासिद्धम्",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.4.53",
+            "source": "8.2.108",
+            "term": "संहितायाम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "संहितायाम्$8$2$108",
+            "uid": "8.4.53:inherited:1",
+            "raw_source": "8.2.108",
+            "raw_term": "संहितायाम्",
+            "status": "EDITORIAL_ANNOTATION"
+          }
+        ],
+        "excluded": [],
+        "decisions": [],
+        "semantic_status": "NOT_INFERRED_FROM_CASE_NUMBERS"
+      }
+    },
+    "8.4.58": {
+      "sid": "8.4.58",
+      "text": "अनुस्वारस्य ययि परसवर्णः",
+      "terms": [
+        {
+          "uid": "84058:pc:0",
+          "raw": "अनुस्वारस्य$S$6$1$",
+          "term": "अनुस्वारस्य",
+          "source": "8.4.58",
+          "kind": "own",
+          "fields": [
+            "S",
+            "6",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "6",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "target_anusvara"
+        },
+        {
+          "uid": "84058:pc:1",
+          "raw": "ययि$S$7$1$",
+          "term": "ययि",
+          "source": "8.4.58",
+          "kind": "own",
+          "fields": [
+            "S",
+            "7",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "7",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "following_sound_class"
+        },
+        {
+          "uid": "84058:pc:2",
+          "raw": "परसवर्णः$S$1$1$",
+          "term": "परसवर्णः",
+          "source": "8.4.58",
+          "kind": "own",
+          "fields": [
+            "S",
+            "1",
+            "1",
+            ""
+          ],
+          "category": "S",
+          "case": "1",
+          "number": "1",
+          "extra_case_field": null,
+          "status": "EXPLICIT_CASE_ANNOTATION",
+          "role": "nasal_substitute"
+        },
+        {
+          "target": "8.4.58",
+          "source": "8.2.1",
+          "term": "पूर्वत्रासिद्धम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "पूर्वत्रासिद्धम्$8$2$1",
+          "uid": "8.4.58:inherited:0",
+          "raw_source": "8.2.1",
+          "raw_term": "पूर्वत्रासिद्धम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "earlier_view_barrier"
+        },
+        {
+          "target": "8.4.58",
+          "source": "8.2.108",
+          "term": "संहितायाम्",
+          "kind": "adhikara",
+          "evidence": "publisher_annotation",
+          "raw": "संहितायाम्$8$2$108",
+          "uid": "8.4.58:inherited:1",
+          "raw_source": "8.2.108",
+          "raw_term": "संहितायाम्",
+          "status": "EDITORIAL_ANNOTATION",
+          "role": "close_contact"
+        }
+      ],
+      "opcode": "parasavarna",
+      "parameters": {
+        "mapping": {
+          "k": "ṅ",
+          "kh": "ṅ",
+          "g": "ṅ",
+          "gh": "ṅ",
+          "ṅ": "ṅ",
+          "c": "ñ",
+          "ch": "ñ",
+          "j": "ñ",
+          "jh": "ñ",
+          "ñ": "ñ",
+          "ṭ": "ṇ",
+          "ṭh": "ṇ",
+          "ḍ": "ṇ",
+          "ḍh": "ṇ",
+          "ṇ": "ṇ",
+          "t": "n",
+          "th": "n",
+          "d": "n",
+          "dh": "n",
+          "n": "n",
+          "p": "m",
+          "ph": "m",
+          "b": "m",
+          "bh": "m",
+          "m": "m"
+        },
+        "target": "ṃ",
+        "excludes_semivowel_readings": true
+      },
+      "requires": {
+        "samhita": true
+      },
+      "status": "COMPILED_REVIEWED_RECORD",
+      "errors": [],
+      "source_frame": {
+        "sid": "8.4.58",
+        "text": "अनुस्वारस्य ययि परसवर्णः",
+        "own": [
+          {
+            "uid": "84058:pc:0",
+            "raw": "अनुस्वारस्य$S$6$1$",
+            "term": "अनुस्वारस्य",
+            "source": "8.4.58",
+            "kind": "own",
+            "fields": [
+              "S",
+              "6",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "6",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "84058:pc:1",
+            "raw": "ययि$S$7$1$",
+            "term": "ययि",
+            "source": "8.4.58",
+            "kind": "own",
+            "fields": [
+              "S",
+              "7",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "7",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          },
+          {
+            "uid": "84058:pc:2",
+            "raw": "परसवर्णः$S$1$1$",
+            "term": "परसवर्णः",
+            "source": "8.4.58",
+            "kind": "own",
+            "fields": [
+              "S",
+              "1",
+              "1",
+              ""
+            ],
+            "category": "S",
+            "case": "1",
+            "number": "1",
+            "extra_case_field": null,
+            "status": "EXPLICIT_CASE_ANNOTATION"
+          }
+        ],
+        "inherited": [
+          {
+            "target": "8.4.58",
+            "source": "8.2.1",
+            "term": "पूर्वत्रासिद्धम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "पूर्वत्रासिद्धम्$8$2$1",
+            "uid": "8.4.58:inherited:0",
+            "raw_source": "8.2.1",
+            "raw_term": "पूर्वत्रासिद्धम्",
+            "status": "EDITORIAL_ANNOTATION"
+          },
+          {
+            "target": "8.4.58",
+            "source": "8.2.108",
+            "term": "संहितायाम्",
+            "kind": "adhikara",
+            "evidence": "publisher_annotation",
+            "raw": "संहितायाम्$8$2$108",
+            "uid": "8.4.58:inherited:1",
+            "raw_source": "8.2.108",
+            "raw_term": "संहितायाम्",
+            "status": "EDITORIAL_ANNOTATION"
+          }
+        ],
+        "excluded": [],
+        "decisions": [],
+        "semantic_status": "NOT_INFERRED_FROM_CASE_NUMBERS"
+      }
+    }
+  },
+  "case_counts": {
+    "root": 26,
+    "tuk": 13,
+    "phonetic": 19,
+    "length": 9,
+    "sap": 4
+  },
+  "intentional_unresolved_cases": [
+    "particle-sense-missing",
+    "long-boundary-missing",
+    "ekadesa-needs-query-view",
+    "chandas-not-generalized",
+    "unknown-unit-at-tor",
+    "semivowel-parasavarna-unreviewed",
+    "padanta-anusvara-option-unreviewed",
+    "yan-visibility-unsupplied",
+    "long-l-not-invented",
+    "root-status-unknown",
+    "sap-agent-not-inferred"
+  ],
+  "case_results": [
+    {
+      "id": "root-1010199",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "stuc",
+        "pg4_rules": [
+          "PG4-conditioned-dental-restoration"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "stuc",
+        "pg4_rules": [
+          "PG4-conditioned-dental-restoration"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1010451",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "stambh",
+        "pg4_rules": [
+          "PG4-conditioned-dental-restoration",
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "stambh",
+        "pg4_rules": [
+          "PG4-conditioned-dental-restoration",
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1011077",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "sthā",
+        "pg4_rules": [
+          "PG4-conditioned-dental-restoration"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "sthā",
+        "pg4_rules": [
+          "PG4-conditioned-dental-restoration"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1011072",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "snai",
+        "pg4_rules": [
+          "PG4-conditioned-dental-restoration"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "snai",
+        "pg4_rules": [
+          "PG4-conditioned-dental-restoration"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1080002",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "san",
+        "pg4_rules": [
+          "PG4-conditioned-dental-restoration"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "san",
+        "pg4_rules": [
+          "PG4-conditioned-dental-restoration"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1010641",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "ṣṭhiv",
+        "pg4_rules": []
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "ṣṭhiv",
+        "pg4_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1040004",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "ṣṭhiv",
+        "pg4_rules": []
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "ṣṭhiv",
+        "pg4_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1010114",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "ṣvakk",
+        "pg4_rules": []
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "ṣvakk",
+        "pg4_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1010212",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "kuñc",
+        "pg4_rules": [
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "kuñc",
+        "pg4_rules": [
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1010458",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "śrambh",
+        "pg4_rules": [
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "śrambh",
+        "pg4_rules": [
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1100134",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "puṃs",
+        "pg4_rules": [
+          "8.3.24"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "puṃs",
+        "pg4_rules": [
+          "8.3.24"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1010233",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "mlecch",
+        "pg4_rules": [
+          "6.1.75",
+          "8.4.40"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "mlecch",
+        "pg4_rules": [
+          "6.1.75",
+          "8.4.40"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1010238",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "hrīcch",
+        "pg4_rules": [
+          "6.1.75",
+          "8.4.40"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "hrīcch",
+        "pg4_rules": [
+          "6.1.75",
+          "8.4.40"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1060016",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "ṛcch",
+        "pg4_rules": [
+          "6.1.73",
+          "8.4.40"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "ṛcch",
+        "pg4_rules": [
+          "6.1.73",
+          "8.4.40"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1010243",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "uñch",
+        "pg4_rules": [
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "uñch",
+        "pg4_rules": [
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1010235",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "lāñch",
+        "pg4_rules": [
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "lāñch",
+        "pg4_rules": [
+          "8.3.24",
+          "8.4.58"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1060151",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "majj",
+        "pg4_rules": [
+          "8.4.40",
+          "8.4.53"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "majj",
+        "pg4_rules": [
+          "8.4.40",
+          "8.4.53"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1060011",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "lajj",
+        "pg4_rules": [
+          "8.4.40",
+          "8.4.53"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "lajj",
+        "pg4_rules": [
+          "8.4.40",
+          "8.4.53"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1060012",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "vraśc",
+        "pg4_rules": [
+          "8.4.40"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "vraśc",
+        "pg4_rules": [
+          "8.4.40"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1010502",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "ghiṇṇ",
+        "pg4_rules": [
+          "8.4.41"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "ghiṇṇ",
+        "pg4_rules": [
+          "8.4.41"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1010021",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "kūrd",
+        "pg4_rules": [
+          "8.2.78"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "kūrd",
+        "pg4_rules": [
+          "8.2.78"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1010239",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "hūrch",
+        "pg4_rules": [
+          "8.2.78"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "hūrch",
+        "pg4_rules": [
+          "8.2.78"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1010650",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "ūrv",
+        "pg4_rules": [
+          "8.2.78"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "ūrv",
+        "pg4_rules": [
+          "8.2.78"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1100026",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "cūrṇ",
+        "pg4_rules": [
+          "8.2.78"
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "cūrṇ",
+        "pg4_rules": [
+          "8.2.78"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1011137",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "gam",
+        "pg4_rules": []
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "gam",
+        "pg4_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-1070002",
+      "kind": "root",
+      "actual": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "bhid",
+        "pg4_rules": []
+      },
+      "expected": {
+        "status": "LOCAL_PHONETIC_QUERY",
+        "projection": "bhid",
+        "pg4_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "short-before-ch",
+      "kind": "tuk",
+      "actual": {
+        "status": "LOCAL_TUK_CHOICES",
+        "choices": [
+          {
+            "insert": true,
+            "rule": "6.1.73"
+          }
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_TUK_CHOICES",
+        "choices": [
+          {
+            "insert": true,
+            "rule": "6.1.73"
+          }
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "long-internal",
+      "kind": "tuk",
+      "actual": {
+        "status": "LOCAL_TUK_CHOICES",
+        "choices": [
+          {
+            "insert": true,
+            "rule": "6.1.75"
+          }
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_TUK_CHOICES",
+        "choices": [
+          {
+            "insert": true,
+            "rule": "6.1.75"
+          }
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "long-pada-final-two-branches",
+      "kind": "tuk",
+      "actual": {
+        "status": "LOCAL_TUK_CHOICES",
+        "choices": [
+          {
+            "insert": false,
+            "rule": "6.1.76"
+          },
+          {
+            "insert": true,
+            "rule": "6.1.76"
+          }
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_TUK_CHOICES",
+        "choices": [
+          {
+            "insert": false,
+            "rule": "6.1.76"
+          },
+          {
+            "insert": true,
+            "rule": "6.1.76"
+          }
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "ang-blocks-option",
+      "kind": "tuk",
+      "actual": {
+        "status": "LOCAL_TUK_CHOICES",
+        "choices": [
+          {
+            "insert": true,
+            "rule": "6.1.74"
+          }
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_TUK_CHOICES",
+        "choices": [
+          {
+            "insert": true,
+            "rule": "6.1.74"
+          }
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "mang-blocks-option",
+      "kind": "tuk",
+      "actual": {
+        "status": "LOCAL_TUK_CHOICES",
+        "choices": [
+          {
+            "insert": true,
+            "rule": "6.1.74"
+          }
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_TUK_CHOICES",
+        "choices": [
+          {
+            "insert": true,
+            "rule": "6.1.74"
+          }
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "plain-a-is-not-ang",
+      "kind": "tuk",
+      "actual": {
+        "status": "LOCAL_TUK_CHOICES",
+        "choices": [
+          {
+            "insert": false,
+            "rule": "6.1.76"
+          },
+          {
+            "insert": true,
+            "rule": "6.1.76"
+          }
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_TUK_CHOICES",
+        "choices": [
+          {
+            "insert": false,
+            "rule": "6.1.76"
+          },
+          {
+            "insert": true,
+            "rule": "6.1.76"
+          }
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "particle-sense-missing",
+      "kind": "tuk",
+      "actual": {
+        "status": "UNRESOLVED"
+      },
+      "expected": {
+        "status": "UNRESOLVED"
+      },
+      "agrees": true
+    },
+    {
+      "id": "long-boundary-missing",
+      "kind": "tuk",
+      "actual": {
+        "status": "UNRESOLVED"
+      },
+      "expected": {
+        "status": "UNRESOLVED"
+      },
+      "agrees": true
+    },
+    {
+      "id": "ekadesa-needs-query-view",
+      "kind": "tuk",
+      "actual": {
+        "status": "UNRESOLVED"
+      },
+      "expected": {
+        "status": "UNRESOLVED"
+      },
+      "agrees": true
+    },
+    {
+      "id": "chandas-not-generalized",
+      "kind": "tuk",
+      "actual": {
+        "status": "UNRESOLVED"
+      },
+      "expected": {
+        "status": "UNRESOLVED"
+      },
+      "agrees": true
+    },
+    {
+      "id": "no-samhita-no-tuk",
+      "kind": "tuk",
+      "actual": {
+        "status": "LOCAL_TUK_CHOICES",
+        "choices": [
+          {
+            "insert": false,
+            "rule": null
+          }
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_TUK_CHOICES",
+        "choices": [
+          {
+            "insert": false,
+            "rule": null
+          }
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "consonant-interrupts-contact",
+      "kind": "tuk",
+      "actual": {
+        "status": "LOCAL_TUK_CHOICES",
+        "choices": [
+          {
+            "insert": false,
+            "rule": null
+          }
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_TUK_CHOICES",
+        "choices": [
+          {
+            "insert": false,
+            "rule": null
+          }
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "other-following-sound",
+      "kind": "tuk",
+      "actual": {
+        "status": "LOCAL_TUK_CHOICES",
+        "choices": [
+          {
+            "insert": false,
+            "rule": null
+          }
+        ]
+      },
+      "expected": {
+        "status": "LOCAL_TUK_CHOICES",
+        "choices": [
+          {
+            "insert": false,
+            "rule": null
+          }
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "m-before-s",
+      "kind": "phonetic",
+      "actual": {
+        "projection": "ākraṃsyate",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "expected": {
+        "projection": "ākraṃsyate",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "n-before-c",
+      "kind": "phonetic",
+      "actual": {
+        "projection": "kuñc",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "expected": {
+        "projection": "kuñc",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "m-before-y-blocked",
+      "kind": "phonetic",
+      "actual": {
+        "projection": "gamyate",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "expected": {
+        "projection": "gamyate",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "n-before-y-blocked",
+      "kind": "phonetic",
+      "actual": {
+        "projection": "anya",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "expected": {
+        "projection": "anya",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "pada-final-n-retained",
+      "kind": "phonetic",
+      "actual": {
+        "projection": "rājanbhuṅkṣva",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "expected": {
+        "projection": "rājanbhuṅkṣva",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "palatal-contact-from-left",
+      "kind": "phonetic",
+      "actual": {
+        "projection": "yajñaḥ",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "expected": {
+        "projection": "yajñaḥ",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "shat-prohibition",
+      "kind": "phonetic",
+      "actual": {
+        "projection": "praśnaḥ",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": [
+          "8.4.44"
+        ]
+      },
+      "expected": {
+        "projection": "praśnaḥ",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": [
+          "8.4.44"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "retroflex-contact",
+      "kind": "phonetic",
+      "actual": {
+        "projection": "aṭṭa",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "expected": {
+        "projection": "aṭṭa",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "toh-shi-prohibition",
+      "kind": "phonetic",
+      "actual": {
+        "projection": "agnicitṣaṇḍe",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": [
+          "8.4.43"
+        ]
+      },
+      "expected": {
+        "projection": "agnicitṣaṇḍe",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": [
+          "8.4.43"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "padanta-tor-prohibition",
+      "kind": "phonetic",
+      "actual": {
+        "projection": "śvaliṭsāye",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": [
+          "8.4.42"
+        ]
+      },
+      "expected": {
+        "projection": "śvaliṭsāye",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": [
+          "8.4.42"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "nam-exception-target",
+      "kind": "phonetic",
+      "actual": {
+        "projection": "ṭṇ",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "expected": {
+        "projection": "ṭṇ",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "navati-supplement-target",
+      "kind": "phonetic",
+      "actual": {
+        "projection": "ṭṇ",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "expected": {
+        "projection": "ṭṇ",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "unknown-unit-at-tor",
+      "kind": "phonetic",
+      "actual": {
+        "projection": "ṭn",
+        "status": "PARTIAL_PHONETIC_QUERY",
+        "blocked_rules": [
+          "UNRESOLVED_8.4.42_UNIT"
+        ]
+      },
+      "expected": {
+        "projection": "ṭn",
+        "status": "PARTIAL_PHONETIC_QUERY",
+        "blocked_rules": [
+          "UNRESOLVED_8.4.42_UNIT"
+        ]
+      },
+      "agrees": true
+    },
+    {
+      "id": "voicing-before-dh",
+      "kind": "phonetic",
+      "actual": {
+        "projection": "dogdhā",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "expected": {
+        "projection": "dogdhā",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "nasal-is-not-jhas",
+      "kind": "phonetic",
+      "actual": {
+        "projection": "dadhmaḥ",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "expected": {
+        "projection": "dadhmaḥ",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "dental-nasal-roundtrip",
+      "kind": "phonetic",
+      "actual": {
+        "projection": "kurvanti",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "expected": {
+        "projection": "kurvanti",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "no-contact-no-change",
+      "kind": "phonetic",
+      "actual": {
+        "projection": "atca",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "expected": {
+        "projection": "atca",
+        "status": "LOCAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "semivowel-parasavarna-unreviewed",
+      "kind": "phonetic",
+      "actual": {
+        "projection": "aṃya",
+        "status": "PARTIAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "expected": {
+        "projection": "aṃya",
+        "status": "PARTIAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "padanta-anusvara-option-unreviewed",
+      "kind": "phonetic",
+      "actual": {
+        "projection": "aṃka",
+        "status": "PARTIAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "expected": {
+        "projection": "aṃka",
+        "status": "PARTIAL_PHONETIC_QUERY",
+        "blocked_rules": []
+      },
+      "agrees": true
+    },
+    {
+      "id": "upadha-length-original",
+      "kind": "length",
+      "actual": {
+        "status": "LICENSED_REPLACEMENT",
+        "replacement": "ū"
+      },
+      "expected": {
+        "status": "LICENSED_REPLACEMENT",
+        "replacement": "ū"
+      },
+      "agrees": true
+    },
+    {
+      "id": "nominal-is-not-root",
+      "kind": "length",
+      "actual": {
+        "status": "INAPPLICABLE"
+      },
+      "expected": {
+        "status": "INAPPLICABLE"
+      },
+      "agrees": true
+    },
+    {
+      "id": "rv-not-root-upadha",
+      "kind": "length",
+      "actual": {
+        "status": "INAPPLICABLE"
+      },
+      "expected": {
+        "status": "INAPPLICABLE"
+      },
+      "agrees": true
+    },
+    {
+      "id": "vowel-follows-rv",
+      "kind": "length",
+      "actual": {
+        "status": "INAPPLICABLE"
+      },
+      "expected": {
+        "status": "INAPPLICABLE"
+      },
+      "agrees": true
+    },
+    {
+      "id": "non-ik-vowel",
+      "kind": "length",
+      "actual": {
+        "status": "INAPPLICABLE"
+      },
+      "expected": {
+        "status": "INAPPLICABLE"
+      },
+      "agrees": true
+    },
+    {
+      "id": "yan-visibility-unsupplied",
+      "kind": "length",
+      "actual": {
+        "status": "UNRESOLVED"
+      },
+      "expected": {
+        "status": "UNRESOLVED"
+      },
+      "agrees": true
+    },
+    {
+      "id": "reviewed-yan-hidden-view",
+      "kind": "length",
+      "actual": {
+        "status": "INAPPLICABLE"
+      },
+      "expected": {
+        "status": "INAPPLICABLE"
+      },
+      "agrees": true
+    },
+    {
+      "id": "long-l-not-invented",
+      "kind": "length",
+      "actual": {
+        "status": "UNRESOLVED"
+      },
+      "expected": {
+        "status": "UNRESOLVED"
+      },
+      "agrees": true
+    },
+    {
+      "id": "root-status-unknown",
+      "kind": "length",
+      "actual": {
+        "status": "UNRESOLVED"
+      },
+      "expected": {
+        "status": "UNRESOLVED"
+      },
+      "agrees": true
+    },
+    {
+      "id": "sap-agent",
+      "kind": "sap",
+      "actual": {
+        "status": "CANDIDATE_AFFIX"
+      },
+      "expected": {
+        "status": "CANDIDATE_AFFIX"
+      },
+      "agrees": true
+    },
+    {
+      "id": "sap-karmani-blocked",
+      "kind": "sap",
+      "actual": {
+        "status": "INAPPLICABLE"
+      },
+      "expected": {
+        "status": "INAPPLICABLE"
+      },
+      "agrees": true
+    },
+    {
+      "id": "sap-ardhadhatuka-blocked",
+      "kind": "sap",
+      "actual": {
+        "status": "INAPPLICABLE"
+      },
+      "expected": {
+        "status": "INAPPLICABLE"
+      },
+      "agrees": true
+    },
+    {
+      "id": "sap-agent-not-inferred",
+      "kind": "sap",
+      "actual": {
+        "status": "UNRESOLVED"
+      },
+      "expected": {
+        "status": "UNRESOLVED"
+      },
+      "agrees": true
+    }
+  ],
+  "structural_controls": [
+    {
+      "id": "policy:stop-va-before-svarthika",
+      "agrees": true
+    },
+    {
+      "id": "policy:split-uttarapada-adi",
+      "agrees": true
+    },
+    {
+      "id": "policy:extend-sut-kat",
+      "agrees": true
+    },
+    {
+      "id": "policy:extend-ekadesa",
+      "agrees": true
+    },
+    {
+      "id": "policy:accept-sese-heading",
+      "agrees": true
+    },
+    {
+      "id": "policy:correct-antah-reference",
+      "agrees": true
+    },
+    {
+      "id": "policy:exclude-padasya-at-upadhayam",
+      "agrees": true
+    },
+    {
+      "id": "va-not-imported-at-5.3.1",
+      "agrees": true
+    },
+    {
+      "id": "va-still-in-scope-at-5.2.140",
+      "agrees": true
+    },
+    {
+      "id": "uttarapadadi-at-old-endpoint",
+      "agrees": true
+    },
+    {
+      "id": "uttarapadasya-after-split",
+      "agrees": true
+    },
+    {
+      "id": "adi-does-not-leak-after-split",
+      "agrees": true
+    },
+    {
+      "id": "antah-reference-corrected",
+      "agrees": true
+    },
+    {
+      "id": "wrong-reference-retained-as-provenance",
+      "agrees": true
+    },
+    {
+      "id": "ekadesa-through-6.1.111",
+      "agrees": true
+    },
+    {
+      "id": "sut-kat-through-6.1.157",
+      "agrees": true
+    },
+    {
+      "id": "sese-heading-accepted",
+      "agrees": true
+    },
+    {
+      "id": "padasya-excluded-at-8.2.78",
+      "agrees": true
+    },
+    {
+      "id": "padasya-preserved-at-8.2.76",
+      "agrees": true
+    },
+    {
+      "id": "anga-samjna-is-not-an-adhikara",
+      "agrees": true
+    },
+    {
+      "id": "pratyaya-heading-at-last-rule",
+      "agrees": true
+    },
+    {
+      "id": "pratyaya-heading-ends-before-6.1.1",
+      "agrees": true
+    },
+    {
+      "id": "anga-heading-at-last-rule",
+      "agrees": true
+    },
+    {
+      "id": "anga-heading-ends-before-8.1.1",
+      "agrees": true
+    },
+    {
+      "id": "dhato-heading-3.1.91-at-3.4.117",
+      "agrees": true
+    },
+    {
+      "id": "earlier-dhato-source-in-sap",
+      "agrees": true
+    },
+    {
+      "id": "sap-does-not-import-yang-action",
+      "agrees": true
+    },
+    {
+      "id": "guna-inherited-aci-not-iki",
+      "agrees": true
+    },
+    {
+      "id": "kartari-is-a-semantic-role",
+      "agrees": true
+    },
+    {
+      "id": "acah-genitive-is-partitive",
+      "agrees": true
+    },
+    {
+      "id": "missing-inheritance-refused:6.1.65",
+      "agrees": true
+    },
+    {
+      "id": "missing-inheritance-refused:8.4.43",
+      "agrees": true
+    },
+    {
+      "id": "wrong-case-role-binding-refused",
+      "agrees": true
+    },
+    {
+      "id": "noncanonical-padaccheda-not-silently-fixed",
+      "agrees": true
+    },
+    {
+      "id": "conditioned-restoration-preserves-original",
+      "agrees": true
+    },
+    {
+      "id": "restoration-needs-lexical-witness",
+      "agrees": true
+    },
+    {
+      "id": "lexical-id-cannot-alias-different-teaching",
+      "agrees": true
+    },
+    {
+      "id": "tuk-recipient-is-the-vowel",
+      "agrees": true
+    },
+    {
+      "id": "tuk-has-fresh-uid",
+      "agrees": true
+    },
+    {
+      "id": "query-retains-pre-tripadi-root",
+      "agrees": true
+    },
+    {
+      "id": "query-repeated-from-source-is-stable",
+      "agrees": true
+    },
+    {
+      "id": "query-output-cannot-feed-earlier-stage",
+      "agrees": true
+    },
+    {
+      "id": "query-has-no-mutable-source-alias",
+      "agrees": true
+    },
+    {
+      "id": "early-num-blocks-later-tuk-contact",
+      "agrees": true
+    },
+    {
+      "id": "tripadi-length-does-not-overwrite-root",
+      "agrees": true
+    },
+    {
+      "id": "same-visible-n-retains-two-events",
+      "agrees": true
+    },
+    {
+      "id": "unknown-boundary-refused",
+      "agrees": true
+    },
+    {
+      "id": "missing-boundary-uid-refused",
+      "agrees": true
+    },
+    {
+      "id": "headword-never-drives-derivation",
+      "agrees": true
+    },
+    {
+      "id": "sap-is-a-candidate-not-final-vikarana-selection",
+      "agrees": true
+    },
+    {
+      "id": "source-annotations-unmodified",
+      "agrees": true
+    },
+    {
+      "id": "no-lost-headword-agreements-on-this-witness",
+      "agrees": true
+    }
+  ],
+  "root_diagnostic": {
+    "status": "PINNED_HEADWORD_DIAGNOSTIC_NOT_GRAMMAR_ACCURACY",
+    "source_records": 2259,
+    "root_records": 2229,
+    "counts": {
+      "exact_headword_agreement": 2219,
+      "different_projection": 8,
+      "unresolved": 2,
+      "non_root_directives": 30
+    },
+    "previous_PG3_counts": {
+      "exact_headword_agreement": 2081,
+      "different_projection": 146
+    },
+    "new_agreements": 138,
+    "new_agreement_ids": [
+      "1010020",
+      "1010021",
+      "1010022",
+      "1010023",
+      "1010199",
+      "1010212",
+      "1010213",
+      "1010214",
+      "1010215",
+      "1010216",
+      "1010217",
+      "1010218",
+      "1010219",
+      "1010220",
+      "1010221",
+      "1010228",
+      "1010229",
+      "1010233",
+      "1010234",
+      "1010238",
+      "1010239",
+      "1010240",
+      "1010241",
+      "1010242",
+      "1010244",
+      "1010422",
+      "1010423",
+      "1010451",
+      "1010458",
+      "1010459",
+      "1010460",
+      "1010471",
+      "1010473",
+      "1010475",
+      "1010477",
+      "1010497",
+      "1010499",
+      "1010501",
+      "1010502",
+      "1010503",
+      "1010504",
+      "1010506",
+      "1010532",
+      "1010535",
+      "1010650",
+      "1010651",
+      "1010652",
+      "1010653",
+      "1010654",
+      "1010655",
+      "1010656",
+      "1010657",
+      "1010749",
+      "1010751",
+      "1010829",
+      "1010857",
+      "1010858",
+      "1010859",
+      "1010860",
+      "1010861",
+      "1010891",
+      "1010899",
+      "1010909",
+      "1010964",
+      "1010970",
+      "1010998",
+      "1011059",
+      "1011071",
+      "1011072",
+      "1011077",
+      "1011131",
+      "1011142",
+      "1011144",
+      "1011154",
+      "1020033",
+      "1020038",
+      "1020047",
+      "1040005",
+      "1040006",
+      "1040019",
+      "1040020",
+      "1040063",
+      "1040096",
+      "1040097",
+      "1040138",
+      "1040151",
+      "1040152",
+      "1050021",
+      "1050026",
+      "1060004",
+      "1060011",
+      "1060012",
+      "1060015",
+      "1060016",
+      "1060017",
+      "1060031",
+      "1060033",
+      "1060035",
+      "1060037",
+      "1060039",
+      "1060041",
+      "1060043",
+      "1060045",
+      "1060047",
+      "1060077",
+      "1060149",
+      "1060151",
+      "1060159",
+      "1070016",
+      "1070021",
+      "1070022",
+      "1080002",
+      "1090007",
+      "1090008",
+      "1090009",
+      "1090010",
+      "1100023",
+      "1100026",
+      "1100030",
+      "1100031",
+      "1100032",
+      "1100039",
+      "1100040",
+      "1100055",
+      "1100061",
+      "1100134",
+      "1100170",
+      "1100190",
+      "1100191",
+      "1100227",
+      "1100266",
+      "1100304",
+      "1100433",
+      "1100460",
+      "1100467",
+      "1100472",
+      "1100473",
+      "1100474"
+    ],
+    "regression_ids": [],
+    "all_resolved_records_sha256": "8bea2f847b527ca65f2e294412ec8d5141be9e1c9557fb086ec294522fbb4a0f",
+    "rule_application_counts": {
+      "1.3.2–9": 2227,
+      "6.1.64": 102,
+      "6.1.65": 35,
+      "6.1.73": 10,
+      "6.1.75": 3,
+      "7.1.58": 292,
+      "8.2.78": 19,
+      "8.3.24": 364,
+      "8.4.40": 18,
+      "8.4.41": 3,
+      "8.4.53": 4,
+      "8.4.58": 318,
+      "PG4-conditioned-dental-restoration": 34
+    },
+    "remaining_differences": [
+      {
+        "id": "1010167",
+        "teaching": "कक्ख",
+        "headword": "कक्ख्",
+        "headword_tokens": "kakkh",
+        "preprocessed": "kakkha",
+        "phonetic_query": "kakkha",
+        "query_status": "LOCAL_PHONETIC_QUERY",
+        "rules": [
+          "1.3.2–9"
+        ],
+        "open_obligations": []
+      },
+      {
+        "id": "1010208",
+        "teaching": "पेबृ",
+        "headword": "पेब्",
+        "headword_tokens": "peb",
+        "preprocessed": "pebṛ",
+        "phonetic_query": "pebṛ",
+        "query_status": "LOCAL_PHONETIC_QUERY",
+        "rules": [
+          "1.3.2–9"
+        ],
+        "open_obligations": []
+      },
+      {
+        "id": "1011166",
+        "teaching": "ऋति",
+        "headword": "ऋत्",
+        "headword_tokens": "ṛt",
+        "preprocessed": "ṛti",
+        "phonetic_query": "ṛti",
+        "query_status": "LOCAL_PHONETIC_QUERY",
+        "rules": [
+          "1.3.2–9"
+        ],
+        "open_obligations": []
+      },
+      {
+        "id": "1020007",
+        "teaching": "चक्षिङ्",
+        "headword": "चक्ष्",
+        "headword_tokens": "cakṣ",
+        "preprocessed": "cakṣi",
+        "phonetic_query": "cakṣi",
+        "query_status": "LOCAL_PHONETIC_QUERY",
+        "rules": [
+          "1.3.2–9"
+        ],
+        "open_obligations": []
+      },
+      {
+        "id": "1050038",
+        "teaching": "ऋक्षि",
+        "headword": "ऋक्ष्",
+        "headword_tokens": "ṛkṣ",
+        "preprocessed": "ṛkṣi",
+        "phonetic_query": "ṛkṣi",
+        "query_status": "LOCAL_PHONETIC_QUERY",
+        "rules": [
+          "1.3.2–9"
+        ],
+        "open_obligations": []
+      },
+      {
+        "id": "1100180",
+        "teaching": "गुर्दँ",
+        "headword": "गूद्",
+        "headword_tokens": "gūd",
+        "preprocessed": "gurd",
+        "phonetic_query": "gūrd",
+        "query_status": "LOCAL_PHONETIC_QUERY",
+        "rules": [
+          "1.3.2–9",
+          "8.2.78"
+        ],
+        "open_obligations": []
+      },
+      {
+        "id": "1100397",
+        "teaching": "रन्ह्",
+        "headword": "रंह्",
+        "headword_tokens": "raṃh",
+        "preprocessed": "ran",
+        "phonetic_query": "ran",
+        "query_status": "LOCAL_PHONETIC_QUERY",
+        "rules": [
+          "1.3.2–9"
+        ],
+        "open_obligations": []
+      },
+      {
+        "id": "1100470",
+        "teaching": "कर्णँ",
+        "headword": "कर्ण",
+        "headword_tokens": "karṇa",
+        "preprocessed": "karṇ",
+        "phonetic_query": "karṇ",
+        "query_status": "LOCAL_PHONETIC_QUERY",
+        "rules": [
+          "1.3.2–9"
+        ],
+        "open_obligations": []
+      }
+    ],
+    "unresolved": [
+      {
+        "id": "1010925",
+        "teaching": "छदिः",
+        "headword": "छद्",
+        "reason": "Teaching-unit ayogavāha convention needs review"
+      },
+      {
+        "id": "1100476",
+        "teaching": "दुःख",
+        "headword": "दुःख",
+        "reason": "Teaching-unit ayogavāha convention needs review"
+      }
+    ],
+    "directives": [
+      {
+        "id": "1010933",
+        "text": "घटादयो मितः",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1010934",
+        "text": "जनीजॄष्क्नसुरञ्जोऽमन्ताश्च",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1010935",
+        "text": "ज्वलह्वलह्मलनमामनुपसर्गाद्वा",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1010936",
+        "text": "ग्लास्नावनुवमां च",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1010937",
+        "text": "न कम्यमिचमाम्",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1010938",
+        "text": "शमो दर्शने",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1010939",
+        "text": "यमोऽपरिवेषणे",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1010940",
+        "text": "स्खदिरवपरिभ्यां च",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1010941",
+        "text": "घटादयः षितः",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1010944",
+        "text": "दलिवलिस्खलिरणिध्वनित्रपिक्षपयश्चेति भोजः",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1020076",
+        "text": "चर्करीतं च",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1040162",
+        "text": "स्वादयः ओदितः",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1040163",
+        "text": "राधोऽकर्मकाद् वृद्धावेव",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1100493",
+        "text": "ज्ञपादयो मितः",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1100494",
+        "text": "नान्ये मितोऽहेतौ",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1100495",
+        "text": "कुस्म नाम्नो वा",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1100496",
+        "text": "आ कुस्मादात्मनेपदिनः",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1100497",
+        "text": "आ गर्वादात्मनेपदिनः",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1100498",
+        "text": "आ धृषाद्वा",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1100499",
+        "text": "आ स्वदः सकर्मकात्",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1100500",
+        "text": "हन्त्यर्थाश्च",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1100501",
+        "text": "प्रातिपदिकाद्धात्वर्थे बहुलमिष्ठवच्च",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1100502",
+        "text": "तत्करोति तदाचष्टे",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1100503",
+        "text": "तेनातिक्रामति",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1100504",
+        "text": "धातुरूपं च",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1100505",
+        "text": "कर्तृकरणात् धात्वर्थे",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1100506",
+        "text": "बहुलमेतन्निदर्शनम्",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1100507",
+        "text": "णिङङ्गान्निरसने",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1100508",
+        "text": "श्वेताश्वाश्वतरगालोडिताह्वरकाणामश्वतरेतकलोपश्च",
+        "tag": "ganasutra"
+      },
+      {
+        "id": "1100509",
+        "text": "पुच्छादिषु धात्वर्थ इत्येव सिद्धम्",
+        "tag": "ganasutra"
+      }
+    ],
+    "assumptions": [
+      "Lexical identities and nasal teaching flags supplied by the pinned source",
+      "Internal classical-root profile; no prior ekādeśa or unknown constituent boundaries",
+      "The separate readout includes only the documented rule profile",
+      "Headwords are comparison data; no source spelling is silently corrected"
+    ]
+  },
+  "failures": [],
+  "not_claimed": [
+    "Raw Sanskrit scope or semantic parsing for all 3,983 sūtras",
+    "All case fields or all commentary scope choices verified",
+    "Universal nitya/antaraṅga/bahiraṅga or sthānivad resolution",
+    "A complete phonetic normal form or full verbal/nominal derivation",
+    "Independent Sanskrit soundness, completeness or calculator integration",
+    "CI success or main-branch merge"
+  ]
+}

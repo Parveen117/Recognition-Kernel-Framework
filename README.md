@@ -15,6 +15,7 @@ composition, observer completion, retained memory and recognition.
 |---|---|
 | Use the executable operator engine | [Operator Workbench](operator_foundation/README.md) |
 | Find a theorem and its hypotheses | [Mathematics Index](MATHEMATICS_INDEX.md) |
+| Review Sanskrit grammar before implementation | [PG1: Pāṇini grammar foundation](research/panini_grammar/README.md) |
 | Verify a package | [Verification guide](VERIFY.md) |
 | Review evidence and open obligations | [Certificate Index](CERTIFICATE_INDEX.md) · [Claim Boundary](CLAIM_BOUNDARY.md) |
 | Develop or report a problem | [Contribution guide](CONTRIBUTING.md) |
@@ -50,9 +51,9 @@ scope and the distinction between routine CI and historical campaign replay.
 | Location | Role |
 |---|---|
 | [`operator_foundation/`](operator_foundation/README.md) | Single active operator engine: exact cut arithmetic, paths, Laurent/jet modules, Pāṇinian compilation, regular models and weighted completion. |
-| [`research/`](research/) | Additive research packets: [R1/R2 returns](research/recognition_return/README.md), [R3/R4 structure and repair](research/structure_report/README.md), [lambda counting](research/lambda_counting/README.md), and [SS1 signals](research/sectoral_signal/README.md). |
+| [`research/`](research/) | Additive research packets: [R1/R2 returns](research/recognition_return/README.md), [R3/R4 structure and repair](research/structure_report/README.md), [lambda counting](research/lambda_counting/README.md), [SS1 signals](research/sectoral_signal/README.md), [SP1 cycle memory](research/spanda_recognition/README.md), and [PG1 Sanskrit grammar](research/panini_grammar/README.md). |
 | [`papers/rkf_completed_weil_endpoint/`](papers/rkf_completed_weil_endpoint/README.md) | Endpoint paper and source-energy development through SE49, with dated scopes and corrections. |
-| [`theorum/`](theorum/README.md) · [`theorems/foundation/`](theorems/foundation/) | T01–T77, parallel theorem families and foundation capsules. Existing source paths are preserved. |
+| [`theorum/`](theorum/README.md) · [`theorems/foundation/`](theorems/foundation/) | T01–T80, parallel theorem families and foundation capsules. Existing source paths are preserved. |
 | [`proof_lab/`](proof_lab/) · [`certificates/`](CERTIFICATE_INDEX.md) | Implementations, finite checks, immutable evidence and reproducibility contracts. |
 | [`objects/`](objects/README.md) · [`lean/`](lean/README.md) | Native-object audit packets and selected formal witnesses. |
 | [`research-history/`](research-history/) | Dated integration records and the [recoverable branch archive](research-history/BRANCH_ARCHIVE_2026_11_01.json). |

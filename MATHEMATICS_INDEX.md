@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 1 November 2026; integrated MR-04–MR-07, R3–R4, SS1 and SE1–SE49, and added Theorems 78–82 (quoted Śaiva sources nativized; the sūtra as an instruction; the saṁjñā sound layer with the Aṣṭādhyāyī ledger; the it-saṁjñā layer compiled) and Theorem 83 (the Śikṣā Vedāṅga: the Pāṇinīya Śikṣā quoted, Theorems 79 and 81's tables derived from it) Theorem 84 (the Vedāṅga packets 71–73 bound to their quoted sources) and Theorem 85 (the Nirukta Vedāṅga: nāmāny ākhyātajāni computed). The canonical operator engine remains version 0.5.
+Index update: 1 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–85 (quoted Śaiva sources nativized; the sūtra as an instruction; the saṁjñā sound layer with the Aṣṭādhyāyī ledger; the it-saṁjñā layer compiled; the Śikṣā Vedāṅga; the Vedāṅga packets 71–73 bound to their quoted sources; the Nirukta Vedāṅga), and added the PG1–PG6 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -20,6 +20,116 @@ Read the [native primitive order](operator_foundation/theory/NATIVE_PRIMITIVE_OR
 
 The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [source index](operator_foundation/SOURCE_INDEX.md), and [master certificate](operator_foundation/audit/MASTER_CERTIFICATE.json) bind this route. The public source archive at `operator_foundation/sources/rkf_reference` includes the corrected T50/T54 edition and full Morphic/Pāṇinian source directories. Use that corrected source where the older root version differs. This does not silently overwrite old source-pinned files.
 
+## SP1: cyclic return, transported Smriti and observable event count
+
+[SP1](research/spanda_recognition/README.md) develops a supplied full-family
+affine memory extension motivated by questions about dance, activity and
+recognition. Its [six proof groups](research/spanda_recognition/THEOREM.md)
+identify the reset obstruction `[b]` in `M/im(I-H)` for a cycle `m -> Hm+b`.
+Over a rational algebra, nonzero obstruction excludes every finite-period
+memory state. A finite cut-field carrier admits an invariant scalar event
+count; its accessibility to an observer has an exact row-space criterion.
+MR-04 supplies future-bank closure after known affine offsets are removed.
+
+A three-level jet example returns its source after four quarter-turn steps
+while retaining `n epsilon e_2 + binomial(n,2) epsilon^2 e_1`. Its construction
+commutes with zero-specialization, which nevertheless hides both obstruction
+and count. [Sources](research/spanda_recognition/SOURCES.md),
+[dependency pins](research/spanda_recognition/SOURCE_PINS.json),
+[scope](research/spanda_recognition/SCOPE.md) and
+[actual validation](research/spanda_recognition/VALIDATION.md) separate the
+written proof, direct exact controls, philosophical motivation and existing
+mathematical lineage. No physical time law or external novelty is asserted.
+The shared engine and frozen evidence remain unchanged.
+
+## PG1: Sanskrit grammar before implementation
+
+[PG1](research/panini_grammar/README.md) supplies a pinned **3,983-record
+Sanskrit sūtrapāṭha**, all eight chapters and 32 pādas, a **120-sūtra
+foundation register** with IAST and the fourteen Māheśvara formulas,
+source/commentary attribution, a grammar-state specification and worked
+derivations. It separates text inventory from interpreted and domain-closed
+rules. Full Sanskrit grammar and a new calculator application remain open.
+
+The [grammar specification](research/panini_grammar/GRAMMAR_SPEC.md) and
+[source reading](research/panini_grammar/SOURCES.md) distinguish it-lopa from
+whole-affix lopa, equal-strength conflict from a global rule-number priority,
+and rule-relative asiddha visibility from history deletion. They qualify
+T80's Jaccard model of antaratama and its manually supplied records without
+altering frozen theorem/result bytes. The [coverage map](research/panini_grammar/COVERAGE_AND_GATES.md)
+includes the existing T58–T68 and T77–T80 domains; [validation](research/panini_grammar/VALIDATION.md)
+records textual integrity separately from finite computation.
+
+[PG2: pending grammar verification](research/panini_grammar/verification/README.md)
+adds an attributed audit of 23,589 publisher scope edges, six commentary
+adjudications of 346 structural flags, seven it-saṃjñā review records with
+compound-marker identity, query-relative 1.1.56–59 contracts, conditional
+priority witnesses and lexical diagnostics over 2,229 root entries, with the
+30 gaṇasūtra directives in the same source retained separately.
+Its 79 local reference cases and three direct legacy-interface probes do not
+establish a general Sanskrit oracle or grammar completeness. Raw Sanskrit
+scope inference, a general resolver and calculator integration remain open;
+historical engine/theorem/certificate files are unchanged.
+
+[PG3: root preprocessing after T81/T82](research/panini_grammar/root_progression/README.md)
+adds source-bounded 6.1.64/65 root substitutions, 7.1.58 num licensing with
+1.1.47 placement, and a separate 8.3.24/8.4.58 phonetic query. It retains
+original sound and compound-marker identity. Across 2,229 root entries,
+marker-only, preprocessed and query headword agreements are 1,703, 1,844 and
+2,081 respectively; 146 query differences and two unresolved teaching forms
+remain. These are lexical diagnostics, not grammar coverage. Its 45 local
+cases and attributed [source review](research/panini_grammar/root_progression/SOURCE_REVIEW.md)
+explicitly supersede PG2's jhi deletion and T82's lakāra expectations, and
+qualify T81's vowel savarṇa table. Frozen predecessor packets are retained;
+full grammar, independent soundness, CI, main merge and calculator integration
+remain open or deferred.
+
+[PG4: executable scopes and further root derivations](research/panini_grammar/scoped_derivations/README.md)
+binds 19 reviewed records to source terms and applies seven commentary policies
+to 347 inherited edges. It extends existing-root nasal processing, tuk options,
+contact rules with explicit prohibitions, voicing and the original-root domain
+of 8.2.78. Its new scope correction excludes inherited पदस्य at 8.2.78 under
+the adopted Tattvabodhinī reading. There are 71 local cases, including 11
+intentional unresolved/partial outcomes; the lexical diagnostic has 2,219
+agreements, eight differences and two unresolved teaching forms. This is not
+all-sūtra compilation or a Sanskrit soundness oracle. Source-bound records,
+reused operations and full rule completeness are distinguished in the
+[remaining-work register](research/panini_grammar/scoped_derivations/REMAINING.md).
+Frozen predecessor packets, the operator engine and the calculator are unchanged.
+
+[PG5: vikaraṇa selection and bounded laṭ derivations](research/panini_grammar/vikarana_lat/README.md)
+adds 39 source-bound records and 28 identified lexical entries, including
+selection examples across all ten gaṇas and one corrected anuvṛtti reading
+at 7.1.3. Complete classical thematic laṭ paths cover 13 roots, 18 pada
+paradigms, 162 person-number cells and 198 optional/mandatory branches.
+The stage distinguishes śap/śa marker effects, trigger-relative guṇa
+prohibition, luk/ślu, the two cur/ṇic aṅgas and the local T66 edhe path
+correction. Forty commentary word cases, 25 selection cases, 22 expected
+refusals and 44 direct controls are separate from the full comparison with
+pinned Vidyut output. Neither comparison agreement nor record counts
+establish all-sūtra coverage or a Sanskrit validity oracle. The
+[remaining register](research/panini_grammar/vikarana_lat/REMAINING.md) starts
+with non-thematic stems, infixes and reduplication; the
+[validation record](research/panini_grammar/vikarana_lat/VALIDATION.md) preserves
+the source, scope and CI/merge boundaries. This is a linguistic adapter,
+not a new operator or calculator theorem.
+
+[PG6: non-thematic laṭ and retained visibility](research/panini_grammar/non_thematic_lat/README.md)
+completes śnu/u/śnā paths for ten more identified roots: 17 pada paradigms,
+153 cells and 167 branches. Seventeen new source-bound records and three
+local scope decisions support distinct guṇa triggers, cluster-sensitive
+vowel junctions, optional/mandatory u-loss, weak śnā, śru's coupled
+substitution, and a specific 1.1.58/8.2.79 kur length query. The ordered
+phonetic view distinguishes earlier ṇatva from later restored dental n.
+There are 53 literal word cases, eight expected refusals and 54 direct
+controls; the 153-cell software comparison remains separate from traditional
+source evidence. [Source readings](research/panini_grammar/non_thematic_lat/SOURCE_REVIEW.md)
+and [validation](research/panini_grammar/non_thematic_lat/VALIDATION.md) retain
+the exact bounds. [Remaining work](research/panini_grammar/non_thematic_lat/REMAINING.md)
+starts with śnam infix ownership, class 7 strong/weak forms and reduplication.
+General grammar soundness, operator lifting, CI and main merging remain open
+or deferred.
+
 ## Śaiva sources, the sūtra as an instruction, and the Vedāṅgas: Theorems 78–85
 
 [Theorem 78](theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md) starts every statement from a quoted primary text — the fourteen Māheśvara sūtras with Aṣṭādhyāyī 1.1.71 / 1.3.3 / 1.3.9 / 1.1.69, Spanda-kārikā 1.1–1.2, Vijñāna-bhairava 24, Śiva-sūtra 1.4 / 2.7, Īśvara-pratyabhijñā-kārikā 1.1.1 with its Vimarśinī gloss, Pratyabhijñā-hṛdaya 11 — and certifies only exact finite theorems on carriers the framework already owns: the pratyāhāras of [Theorem 58](theorum/58_paninian_seam_calculus_theorem.md) are the intervals of the sūtra order with the it-marker in the memory channel, and the repeated *ha* is necessary (720 atom orders, contraction lemma); the Spanda śakti-cakra is the cyclic group of order four generated by the EMK odd generator of [Theorem 55](theorum/55_generalized_euler_emk_dock_theorem.md), with *nimeṣa* the native dagger of *unmeṣa* ([Theorem 50](theorum/50_native_seam_gap_odd_sector_covariance_theorem.md)); the Pratyabhijñā recognition "sa evāyam" is the defect of the [MR-03](theorum/morphic_recognition/03_cocycle_lifted_path_recognition.md) memory lift, which depends only on the antisymmetric (turn) part of a bilinear memory cocycle and is coboundary-gauge invariant for equal arrow multisets. Certificate: `proof_lab/shaiva_sources_nativized.py` with `proof_lab/test_shaiva_sources_nativized.py`; marker-count minimality, breath/deity readings and the five acts are cited, not claimed.
@@ -28,9 +138,9 @@ The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [sour
 
 [Theorem 80](theorum/80_paninian_instruction_format_theorem.md) reads each Aṣṭādhyāyī rule as a case-structured record (genitive = sthānin by 1.1.49, locative = posterior by 1.1.66, ablative = prior by 1.1.67, 6.1.84 ekādeśa scope, 1.1.69/1.1.70 savarṇa, 1.1.52/1.1.55 replacement scope, 1.1.46 augment placement, 1.3.10 yathāsaṅkhya, 1.1.50 antaratama with the sthāna table, 1.1.51, 1.4.2) and certifies that the compiled rules equal [Theorem 58](theorum/58_paninian_seam_calculus_theorem.md)'s hand-coded functions wherever those fire, fire in addition on exactly the 24 long-ī/ū junctions that 1.1.69 grants, reproduce every substitute table, stay confluent under 1.4.2, and agree on all 40 reachable states of the gam/nī derivations; the coherence of 1.3.10 with 1.1.50 pins *ṛ* before *ḷ* in Māheśvara sūtra 2 (1152 of Theorem 79's 2304 orders). Certificate: `proof_lab/paninian_instruction_format.py` with `proof_lab/test_paninian_instruction_format.py`; a general interpreter is not claimed.
 
-[Theorem 81](theorum/81_paninian_samjna_sound_layer_theorem.md) opens the all-sūtra programme, whose single record is the [Aṣṭādhyāyī ledger](proof_lab/astadhyayi/ASTADHYAYI_LEDGER.md) (`proof_lab/astadhyayi_ledger.py`, checked by `proof_lab/test_astadhyayi_ledger.py`): every sūtra realized anywhere in the repository with its level — compiled by the Theorem 80 interpreter, meta (saṁjñā/paribhāṣā implemented), hand-coded in a certified packet, or merely cited — 156 of 3959 at present, so every unlisted sūtra is unrealized by construction. The theorem itself realizes the saṁjñā sūtras of pāda 1.1 on the sound carrier: 1.1.9 *tulyāsyaprayatnaṁ savarṇam* with 1.1.10 *nājjhalau*, computed on the sthāna/prayatna table, yields exactly the vowel length pairs and the five vargas of [Theorem 79](theorum/79_shaiva_sources_varga_grid_crystal_theorem.md) (so 1.1.69's udit classes are derived, and 1.1.10 is load-bearing: without it *i–ś* and *a–h* would pair); 1.1.64 ṭi, 1.1.65 upadhā and 1.1.72 tadanta are exact selectors, with Theorem 80's "aṅga ending in ik" condition of 7.3.84 recovered as tadanta(ik); 1.1.11 pragṛhya with 6.1.125 blocks every compiled sandhi rule on dual ī/ū/e junctions and nothing else; 1.1.7 saṁyoga and 1.1.8 anunāsika are read off the carrier. Certificate: `proof_lab/paninian_samjna_sound_layer.py` with `proof_lab/test_paninian_samjna_sound_layer.py`.
+[Theorem 81](theorum/81_paninian_samjna_sound_layer_theorem.md) opens an all-sūtra programme, recorded historically in the [Aṣṭādhyāyī ledger](proof_lab/astadhyayi/ASTADHYAYI_LEDGER.md) (`proof_lab/astadhyayi_ledger.py`, checked by `proof_lab/test_astadhyayi_ledger.py`): the inherited ledger labels 171 declaration rows as compiled, meta, hand-coded, cited or misnumbered, against a declared total of 3959. It is not an exhaustive linguistic coverage audit; PG2/PG3 distinguish its declarations from the 3,983-record source inventory and bounded implementations. The theorem itself realizes the saṁjñā sūtras of pāda 1.1 on the sound carrier: 1.1.9 *tulyāsyaprayatnaṁ savarṇam* with 1.1.10 *nājjhalau*, computed on the sthāna/prayatna table, yields exactly the vowel length pairs and the five vargas of [Theorem 79](theorum/79_shaiva_sources_varga_grid_crystal_theorem.md) (so 1.1.69's udit classes are derived, and 1.1.10 is load-bearing: without it *i–ś* and *a–h* would pair); 1.1.64 ṭi, 1.1.65 upadhā and 1.1.72 tadanta are exact selectors, with Theorem 80's "aṅga ending in ik" condition of 7.3.84 recovered as tadanta(ik); 1.1.11 pragṛhya with 6.1.125 blocks every compiled sandhi rule on dual ī/ū/e junctions and nothing else; 1.1.7 saṁyoga and 1.1.8 anunāsika are read off the carrier. Certificate: `proof_lab/paninian_samjna_sound_layer.py` with `proof_lab/test_paninian_samjna_sound_layer.py`.
 
-[Theorem 82](theorum/82_paninian_it_samjna_compiled_theorem.md) compiles the marker layer that Theorems 58, 63 and 80 had hand-written or assumed: 1.3.2 *upadeśe 'janunāsika it*, 1.3.3 *halantyam* with 1.3.4 *na vibhaktau tusmāḥ*, 1.3.5 *ādir ñiṭuḍavaḥ*, 1.3.6 *ṣaḥ pratyayasya*, 1.3.7 *cuṭū*, 1.3.8 *laśakv ataddhite* and 1.3.9 *tasya lopaḥ* as one interpreter on IAST teaching forms, equal to the traditional it-sets and remainders on 116 forms (sup, tiṅ, lakāras, vikaraṇas, kṛt, taddhita, dhātus, augments); each stated exception — 1.3.4, *ataddhite*, *pratyayasya* — and the three jñāpaka overrides the tradition reads off 7.1.3, 7.3.50 and 7.1.2 are shown load-bearing exactly on named forms; the hand-coded `it_lopa` of Theorems 58 and 63 are instances of the compiled 1.3.9; 1.1.46/1.1.47 place augments from the its alone, and 1.4.13's aṅga, as the prefix before an affix, gives exactly Theorem 80's 7.3.84 trigger on all 40 reachable states, with 3.1.2 holding on every state. Certificate: `proof_lab/paninian_it_samjna_compiled.py` with `proof_lab/test_paninian_it_samjna_compiled.py`; the jñāpakas are declared, not derived.
+[Theorem 82](theorum/82_paninian_it_samjna_compiled_theorem.md) compiles the marker layer that Theorems 58, 63 and 80 had hand-written or assumed: 1.3.2 *upadeśe 'janunāsika it*, 1.3.3 *halantyam* with 1.3.4 *na vibhaktau tusmāḥ*, 1.3.5 *ādir ñiṭuḍavaḥ*, 1.3.6 *ṣaḥ pratyayasya*, 1.3.7 *cuṭū*, 1.3.8 *laśakv ataddhite* and 1.3.9 *tasya lopaḥ* as one interpreter checked against its supplied 116-form expectation table (sup, tiṅ, lakāras, vikaraṇas, kṛt, taddhita, dhātus, augments); PG3 identifies and corrects the source disagreement in its ten lakāra rows; each stated exception — 1.3.4, *ataddhite*, *pratyayasya* — and the three jñāpaka overrides the tradition reads off 7.1.3, 7.3.50 and 7.1.2 are shown load-bearing exactly on named forms; the hand-coded `it_lopa` of Theorems 58 and 63 are instances of the compiled 1.3.9; 1.1.46/1.1.47 place augments from the its alone, and 1.4.13's aṅga, as the prefix before an affix, gives exactly Theorem 80's 7.3.84 trigger on all 40 reachable states, with 3.1.2 holding on every state. Certificate: `proof_lab/paninian_it_samjna_compiled.py` with `proof_lab/test_paninian_it_samjna_compiled.py`; the jñāpakas are declared, not derived. PG3 qualifies the generality of augment placement and whole-prefix aṅga; the frozen T82 packet remains historical evidence.
 
 [Theorem 83](theorum/83_paniniya_siksha_sources_theorem.md) adds the Śikṣā Vedāṅga (Chandas, Śulba and Jyotiṣa already stand in Theorems 71–73): the Pāṇinīya Śikṣā is quoted (verses 3–5, 11, 13, 17, 18, 21, 38–40) and the two tables the earlier capsules had declared are derived from it — verses 13/17/18 give [Theorem 81](theorum/81_paninian_samjna_sound_layer_theorem.md)'s sthāna table (the ka-varga at jihvāmūla rather than kaṇṭha, with identical 1.1.9 classes), verses 39–40's anupradāna classes restricted to the stops are exactly [Theorem 79](theorum/79_shaiva_sources_varga_grid_crystal_theorem.md)'s manner rows, and verse 21's openness grades separate *e/ai* and *o/au* from the text, retiring Theorem 81's declared proportion attribute. Under verse 21's karaṇa reading 1.1.10 *nājjhalau* is load-bearing (a–h, i–ś, ṛ–ṣ, ḷ–s would merge), under verse 38's contact reading it is redundant; both are computed. Certificate: `proof_lab/paniniya_siksha_sources.py` with `proof_lab/test_paniniya_siksha_sources.py`.
 

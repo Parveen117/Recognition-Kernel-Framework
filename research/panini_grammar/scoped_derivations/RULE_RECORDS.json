@@ -1,0 +1,1341 @@
+{
+  "author": "Monty",
+  "records": [
+    {
+      "sid": "1.1.47",
+      "opcode": "ordinary_mit_review",
+      "terms": [
+        {
+          "term": "मित्",
+          "source": "1.1.47",
+          "kind": "own",
+          "role": "augment_class",
+          "case": "1"
+        },
+        {
+          "term": "अचः",
+          "source": "1.1.47",
+          "kind": "own",
+          "role": "partitive_vowel_domain",
+          "case": "6"
+        },
+        {
+          "term": "अन्त्यात्",
+          "source": "1.1.47",
+          "kind": "own",
+          "role": "last_member_of_that_domain",
+          "case": "5"
+        },
+        {
+          "term": "परः",
+          "source": "1.1.47",
+          "kind": "own",
+          "role": "placement_after",
+          "case": "1"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11047",
+          "anchor": "अचः इति निर्धारणे षष्ठी"
+        }
+      ]
+    },
+    {
+      "sid": "3.1.68",
+      "opcode": "sap_semantic_gate",
+      "terms": [
+        {
+          "term": "कर्तरि",
+          "source": "3.1.68",
+          "kind": "own",
+          "role": "semantic_agent",
+          "case": "7"
+        },
+        {
+          "term": "शप्",
+          "source": "3.1.68",
+          "kind": "own",
+          "role": "prescribed_affix",
+          "case": "1"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "3.1.67",
+          "kind": "anuvrtti",
+          "role": "following_affix_class"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_designation"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "placement_after_base"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.22",
+          "kind": "adhikara",
+          "role": "root_base"
+        }
+      ],
+      "requires": {
+        "base_is_dhatu": true,
+        "following_is_sarvadhatuka": true,
+        "agent_is_expressed": true
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31068",
+          "anchor": "कर्तृवाचिनि सार्वधातुके"
+        }
+      ],
+      "parameters": {
+        "teaching": "शप्",
+        "identity": "śap:3.1.68"
+      }
+    },
+    {
+      "sid": "6.1.64",
+      "opcode": "reuse_PG3_root_initial",
+      "terms": [
+        {
+          "term": "धात्वादेः",
+          "source": "6.1.64",
+          "kind": "own",
+          "role": "root_initial_target",
+          "case": "6"
+        },
+        {
+          "term": "षः",
+          "source": "6.1.64",
+          "kind": "own",
+          "role": "source_sound",
+          "case": "6"
+        },
+        {
+          "term": "सः",
+          "source": "6.1.64",
+          "kind": "own",
+          "role": "substitute",
+          "case": "1"
+        },
+        {
+          "term": "उपदेशे",
+          "source": "6.1.45",
+          "kind": "anuvrtti",
+          "role": "teaching_context"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61064",
+          "anchor": "धातोरादेः षकारस्य स्थाने सकारादेशो भवति"
+        }
+      ]
+    },
+    {
+      "sid": "6.1.65",
+      "opcode": "reuse_PG3_root_initial",
+      "terms": [
+        {
+          "term": "णः",
+          "source": "6.1.65",
+          "kind": "own",
+          "role": "source_sound",
+          "case": "6"
+        },
+        {
+          "term": "नः",
+          "source": "6.1.65",
+          "kind": "own",
+          "role": "substitute",
+          "case": "1"
+        },
+        {
+          "term": "उपदेशे",
+          "source": "6.1.45",
+          "kind": "anuvrtti",
+          "role": "teaching_context"
+        },
+        {
+          "term": "धात्वादेः",
+          "source": "6.1.64",
+          "kind": "anuvrtti",
+          "role": "root_initial_target"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61065",
+          "anchor": "धातोरादेरित्यनुवर्तते"
+        }
+      ]
+    },
+    {
+      "sid": "6.1.73",
+      "opcode": "tuk",
+      "terms": [
+        {
+          "term": "छे",
+          "source": "6.1.73",
+          "kind": "own",
+          "role": "following_sound",
+          "case": "7"
+        },
+        {
+          "term": "च",
+          "source": "6.1.73",
+          "kind": "own",
+          "role": "conjunction",
+          "case": "0"
+        },
+        {
+          "term": "ह्रस्वस्य",
+          "source": "6.1.71",
+          "kind": "anuvrtti",
+          "role": "short_vowel_recipient"
+        },
+        {
+          "term": "तुक्",
+          "source": "6.1.71",
+          "kind": "anuvrtti",
+          "role": "augment"
+        },
+        {
+          "term": "संहितायाम्",
+          "source": "6.1.72",
+          "kind": "adhikara",
+          "role": "close_contact"
+        }
+      ],
+      "requires": {
+        "samhita": true
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61073",
+          "anchor": "ह्रस्वस्य तुगिति वर्तते"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61073",
+          "anchor": "ह्रस्व एवात्रागमी, न तु तदन्तः"
+        }
+      ],
+      "parameters": {
+        "length": "short",
+        "following": "ch",
+        "optional": false
+      }
+    },
+    {
+      "sid": "6.1.74",
+      "opcode": "tuk",
+      "terms": [
+        {
+          "term": "आङ्-माङोः",
+          "source": "6.1.74",
+          "kind": "own",
+          "role": "identified_particles",
+          "case": "6"
+        },
+        {
+          "term": "च",
+          "source": "6.1.74",
+          "kind": "own",
+          "role": "conjunction",
+          "case": "0"
+        },
+        {
+          "term": "तुक्",
+          "source": "6.1.71",
+          "kind": "anuvrtti",
+          "role": "augment"
+        },
+        {
+          "term": "छे",
+          "source": "6.1.73",
+          "kind": "anuvrtti",
+          "role": "following_sound"
+        },
+        {
+          "term": "संहितायाम्",
+          "source": "6.1.72",
+          "kind": "adhikara",
+          "role": "close_contact"
+        }
+      ],
+      "requires": {
+        "samhita": true
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61074",
+          "anchor": "नित्यं तुगागमो भवति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61074",
+          "anchor": "ङिद्विशिष्टग्रहणं किम्"
+        }
+      ],
+      "parameters": {
+        "identities": [
+          "āṅ",
+          "māṅ"
+        ],
+        "following": "ch",
+        "optional": false
+      }
+    },
+    {
+      "sid": "6.1.75",
+      "opcode": "tuk",
+      "terms": [
+        {
+          "term": "दीर्घात्",
+          "source": "6.1.75",
+          "kind": "own",
+          "role": "long_vowel_recipient",
+          "case": "5"
+        },
+        {
+          "term": "तुक्",
+          "source": "6.1.71",
+          "kind": "anuvrtti",
+          "role": "augment"
+        },
+        {
+          "term": "छे",
+          "source": "6.1.73",
+          "kind": "anuvrtti",
+          "role": "following_sound"
+        },
+        {
+          "term": "संहितायाम्",
+          "source": "6.1.72",
+          "kind": "adhikara",
+          "role": "close_contact"
+        }
+      ],
+      "requires": {
+        "samhita": true
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61075",
+          "anchor": "ह्रीच्छति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61075",
+          "anchor": "म्लेच्छति"
+        }
+      ],
+      "parameters": {
+        "length": "long",
+        "following": "ch",
+        "optional": false
+      }
+    },
+    {
+      "sid": "6.1.76",
+      "opcode": "tuk",
+      "terms": [
+        {
+          "term": "पदान्तात्",
+          "source": "6.1.76",
+          "kind": "own",
+          "role": "pada_final_vowel",
+          "case": "5"
+        },
+        {
+          "term": "वा",
+          "source": "6.1.76",
+          "kind": "own",
+          "role": "local_option",
+          "case": "0"
+        },
+        {
+          "term": "तुक्",
+          "source": "6.1.71",
+          "kind": "anuvrtti",
+          "role": "augment"
+        },
+        {
+          "term": "छे",
+          "source": "6.1.73",
+          "kind": "anuvrtti",
+          "role": "following_sound"
+        },
+        {
+          "term": "दीर्घात्",
+          "source": "6.1.75",
+          "kind": "anuvrtti",
+          "role": "long_vowel_recipient"
+        },
+        {
+          "term": "संहितायाम्",
+          "source": "6.1.72",
+          "kind": "adhikara",
+          "role": "close_contact"
+        }
+      ],
+      "requires": {
+        "samhita": true
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61076",
+          "anchor": "कुटीच्छाया, कुटीछाया"
+        }
+      ],
+      "parameters": {
+        "length": "long",
+        "following": "ch",
+        "pada_final": true,
+        "optional": true
+      }
+    },
+    {
+      "sid": "7.1.58",
+      "opcode": "reuse_PG3_idit_num",
+      "terms": [
+        {
+          "term": "इदितः",
+          "source": "7.1.58",
+          "kind": "own",
+          "role": "standalone_i_it",
+          "case": "6"
+        },
+        {
+          "term": "नुम्",
+          "source": "7.1.58",
+          "kind": "own",
+          "role": "augment",
+          "case": "1"
+        },
+        {
+          "term": "धातोः",
+          "source": "7.1.58",
+          "kind": "own",
+          "role": "root_recipient",
+          "case": "6"
+        },
+        {
+          "term": "अङ्गस्य",
+          "source": "6.4.1",
+          "kind": "adhikara",
+          "role": "inherited_heading_qualified_by_teaching_root_reading"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "71058",
+          "anchor": "धातूपदेशावस्थायामेव"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "71058",
+          "anchor": "इरितां समुदायस्येत्संज्ञा"
+        }
+      ]
+    },
+    {
+      "sid": "7.3.84",
+      "opcode": "guna_domain_review",
+      "terms": [
+        {
+          "term": "सार्वधातुक-आर्धधातुकयोः",
+          "source": "7.3.84",
+          "kind": "own",
+          "role": "following_affix_class",
+          "case": "7"
+        },
+        {
+          "term": "गुणः",
+          "source": "7.3.82",
+          "kind": "anuvrtti",
+          "role": "substitution_class"
+        },
+        {
+          "term": "अङ्गस्य",
+          "source": "6.4.1",
+          "kind": "adhikara",
+          "role": "affix_relative_base"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "73084",
+          "anchor": "इगन्तस्याङ्गस्य"
+        }
+      ]
+    },
+    {
+      "sid": "8.2.78",
+      "opcode": "root_upadha_length",
+      "terms": [
+        {
+          "term": "उपधायाम्",
+          "source": "8.2.78",
+          "kind": "own",
+          "role": "root_penultimate_position",
+          "case": "7"
+        },
+        {
+          "term": "च",
+          "source": "8.2.78",
+          "kind": "own",
+          "role": "conjunction",
+          "case": "0"
+        },
+        {
+          "term": "धातोः",
+          "source": "8.2.74",
+          "kind": "anuvrtti",
+          "role": "root_domain"
+        },
+        {
+          "term": "उपधायाः",
+          "source": "8.2.76",
+          "kind": "anuvrtti",
+          "role": "preceding_vowel_of_rv"
+        },
+        {
+          "term": "इकः",
+          "source": "8.2.76",
+          "kind": "anuvrtti",
+          "role": "ik_vowel_target"
+        },
+        {
+          "term": "र्वोः",
+          "source": "8.2.76",
+          "kind": "anuvrtti",
+          "role": "r_or_v_in_that_position"
+        },
+        {
+          "term": "दीर्घ",
+          "source": "8.2.76",
+          "kind": "anuvrtti",
+          "role": "lengthened_substitute"
+        },
+        {
+          "term": "हलि",
+          "source": "8.2.77",
+          "kind": "anuvrtti",
+          "role": "following_consonant"
+        },
+        {
+          "term": "पूर्वत्रासिद्धम्",
+          "source": "8.2.1",
+          "kind": "adhikara",
+          "role": "earlier_view_barrier"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "82078",
+          "anchor": "हलीत्यनुवर्तते"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "82078",
+          "anchor": "हुर्छा — हूर्छिता"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "82078",
+          "anchor": "यणादेशस्य स्थानिवत्त्वाद् असिद्धत्वात् च बहिरङ्गलक्षणत्वेन"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "82078",
+          "anchor": "उणादयोऽव्युत्पन्नानि प्रातिपदिकानि"
+        }
+      ],
+      "parameters": {
+        "mapping": {
+          "i": "ī",
+          "u": "ū",
+          "ṛ": "ṝ"
+        },
+        "rv": [
+          "r",
+          "v"
+        ],
+        "unhandled_target": "ḷ",
+        "domain": "original r/v in a declared root penultimate position; yaṇ and bahiraṅga causes need their own visibility judgment"
+      }
+    },
+    {
+      "sid": "8.3.24",
+      "opcode": "nasalize",
+      "terms": [
+        {
+          "term": "नः",
+          "source": "8.3.24",
+          "kind": "own",
+          "role": "source_sound_n",
+          "case": "6"
+        },
+        {
+          "term": "च",
+          "source": "8.3.24",
+          "kind": "own",
+          "role": "conjunction",
+          "case": "0"
+        },
+        {
+          "term": "अपदान्तस्य",
+          "source": "8.3.24",
+          "kind": "own",
+          "role": "non_pada_final_target",
+          "case": "6"
+        },
+        {
+          "term": "झलि",
+          "source": "8.3.24",
+          "kind": "own",
+          "role": "following_sound_class",
+          "case": "7"
+        },
+        {
+          "term": "मः",
+          "source": "8.3.23",
+          "kind": "anuvrtti",
+          "role": "source_sound_m"
+        },
+        {
+          "term": "अनुस्वारः",
+          "source": "8.3.23",
+          "kind": "anuvrtti",
+          "role": "substitute"
+        },
+        {
+          "term": "पदस्य",
+          "source": "8.1.16",
+          "kind": "adhikara",
+          "role": "pada_constituent_context"
+        },
+        {
+          "term": "पूर्वत्रासिद्धम्",
+          "source": "8.2.1",
+          "kind": "adhikara",
+          "role": "earlier_view_barrier"
+        },
+        {
+          "term": "संहितायाम्",
+          "source": "8.2.108",
+          "kind": "adhikara",
+          "role": "close_contact"
+        }
+      ],
+      "requires": {
+        "samhita": true
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "83024",
+          "anchor": "नकारस्य मकारस्य चापदान्तस्यानुस्वारादेशो भवति झलि परतः"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "83024",
+          "anchor": "राजन् भुङ्क्ष्व"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "83024",
+          "anchor": "रम्यते"
+        }
+      ],
+      "parameters": {
+        "targets": [
+          "n",
+          "m"
+        ],
+        "following": [
+          "k",
+          "kh",
+          "g",
+          "gh",
+          "c",
+          "ch",
+          "j",
+          "jh",
+          "ṭ",
+          "ṭh",
+          "ḍ",
+          "ḍh",
+          "t",
+          "th",
+          "d",
+          "dh",
+          "p",
+          "ph",
+          "b",
+          "bh",
+          "ś",
+          "ṣ",
+          "s",
+          "h"
+        ],
+        "replacement": "ṃ"
+      }
+    },
+    {
+      "sid": "8.4.40",
+      "opcode": "contact",
+      "terms": [
+        {
+          "term": "स्तोः",
+          "source": "8.4.40",
+          "kind": "own",
+          "role": "target_s_and_dentals",
+          "case": "6"
+        },
+        {
+          "term": "श्चुना",
+          "source": "8.4.40",
+          "kind": "own",
+          "role": "contact_either_side",
+          "case": "3"
+        },
+        {
+          "term": "श्चुः",
+          "source": "8.4.40",
+          "kind": "own",
+          "role": "palatal_substitutes",
+          "case": "1"
+        },
+        {
+          "term": "पूर्वत्रासिद्धम्",
+          "source": "8.2.1",
+          "kind": "adhikara",
+          "role": "earlier_view_barrier"
+        },
+        {
+          "term": "संहितायाम्",
+          "source": "8.2.108",
+          "kind": "adhikara",
+          "role": "close_contact"
+        }
+      ],
+      "requires": {
+        "samhita": true
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84040",
+          "anchor": "पूर्वेण परेण च श्चुना"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84040",
+          "anchor": "यज्ञः"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84040",
+          "anchor": "भृज्जति"
+        }
+      ],
+      "parameters": {
+        "mapping": {
+          "s": "ś",
+          "t": "c",
+          "th": "ch",
+          "d": "j",
+          "dh": "jh",
+          "n": "ñ"
+        },
+        "triggers": [
+          "ś",
+          "c",
+          "ch",
+          "j",
+          "jh",
+          "ñ"
+        ]
+      }
+    },
+    {
+      "sid": "8.4.41",
+      "opcode": "contact",
+      "terms": [
+        {
+          "term": "ष्टुना",
+          "source": "8.4.41",
+          "kind": "own",
+          "role": "contact_either_side",
+          "case": "3"
+        },
+        {
+          "term": "ष्टुः",
+          "source": "8.4.41",
+          "kind": "own",
+          "role": "retroflex_substitutes",
+          "case": "1"
+        },
+        {
+          "term": "स्तोः",
+          "source": "8.4.40",
+          "kind": "anuvrtti",
+          "role": "target_s_and_dentals"
+        },
+        {
+          "term": "पूर्वत्रासिद्धम्",
+          "source": "8.2.1",
+          "kind": "adhikara",
+          "role": "earlier_view_barrier"
+        },
+        {
+          "term": "संहितायाम्",
+          "source": "8.2.108",
+          "kind": "adhikara",
+          "role": "close_contact"
+        }
+      ],
+      "requires": {
+        "samhita": true
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84041",
+          "anchor": "स्तोरिति वर्तते"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84041",
+          "anchor": "अट्टति"
+        }
+      ],
+      "parameters": {
+        "mapping": {
+          "s": "ṣ",
+          "t": "ṭ",
+          "th": "ṭh",
+          "d": "ḍ",
+          "dh": "ḍh",
+          "n": "ṇ"
+        },
+        "triggers": [
+          "ṣ",
+          "ṭ",
+          "ṭh",
+          "ḍ",
+          "ḍh",
+          "ṇ"
+        ]
+      }
+    },
+    {
+      "sid": "8.4.42",
+      "opcode": "inhibit_contact",
+      "terms": [
+        {
+          "term": "न",
+          "source": "8.4.42",
+          "kind": "own",
+          "role": "prohibition",
+          "case": "0"
+        },
+        {
+          "term": "पदान्तात्",
+          "source": "8.4.42",
+          "kind": "own",
+          "role": "pada_boundary_after_trigger",
+          "case": "5"
+        },
+        {
+          "term": "टोः",
+          "source": "8.4.42",
+          "kind": "own",
+          "role": "preceding_retroflex_stop",
+          "case": "5"
+        },
+        {
+          "term": "अनाम्",
+          "source": "8.4.42",
+          "kind": "own",
+          "role": "named_lexical_exception"
+        },
+        {
+          "term": "स्तोः",
+          "source": "8.4.40",
+          "kind": "anuvrtti",
+          "role": "target_s_and_dentals"
+        },
+        {
+          "term": "ष्टुः",
+          "source": "8.4.41",
+          "kind": "anuvrtti",
+          "role": "blocked_substitution"
+        },
+        {
+          "term": "पूर्वत्रासिद्धम्",
+          "source": "8.2.1",
+          "kind": "adhikara",
+          "role": "earlier_view_barrier"
+        },
+        {
+          "term": "संहितायाम्",
+          "source": "8.2.108",
+          "kind": "adhikara",
+          "role": "close_contact"
+        }
+      ],
+      "requires": {
+        "samhita": true
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84042",
+          "anchor": "नामित्येतद् वर्जयित्वा"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84042",
+          "anchor": "अनाम्नवतिनगरीणामिति वक्तव्यम्"
+        }
+      ],
+      "parameters": {
+        "blocks": "8.4.41",
+        "named_exceptions": [
+          "nām",
+          "navati",
+          "nagarī"
+        ]
+      }
+    },
+    {
+      "sid": "8.4.43",
+      "opcode": "inhibit_contact",
+      "terms": [
+        {
+          "term": "तोः",
+          "source": "8.4.43",
+          "kind": "own",
+          "role": "target_dentals",
+          "case": "6"
+        },
+        {
+          "term": "षि",
+          "source": "8.4.43",
+          "kind": "own",
+          "role": "following_sibilant",
+          "case": "7"
+        },
+        {
+          "term": "ष्टुः",
+          "source": "8.4.41",
+          "kind": "anuvrtti",
+          "role": "blocked_substitution"
+        },
+        {
+          "term": "न",
+          "source": "8.4.42",
+          "kind": "anuvrtti",
+          "role": "prohibition"
+        },
+        {
+          "term": "पूर्वत्रासिद्धम्",
+          "source": "8.2.1",
+          "kind": "adhikara",
+          "role": "earlier_view_barrier"
+        },
+        {
+          "term": "संहितायाम्",
+          "source": "8.2.108",
+          "kind": "adhikara",
+          "role": "close_contact"
+        }
+      ],
+      "requires": {
+        "samhita": true
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84043",
+          "anchor": "नेति वर्तते"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84043",
+          "anchor": "अग्निचित् षण्डे"
+        }
+      ],
+      "parameters": {
+        "blocks": "8.4.41",
+        "following": "ṣ",
+        "target": [
+          "t",
+          "th",
+          "d",
+          "dh",
+          "n"
+        ]
+      }
+    },
+    {
+      "sid": "8.4.44",
+      "opcode": "inhibit_contact",
+      "terms": [
+        {
+          "term": "शात्",
+          "source": "8.4.44",
+          "kind": "own",
+          "role": "preceding_sibilant",
+          "case": "5"
+        },
+        {
+          "term": "श्चुः",
+          "source": "8.4.40",
+          "kind": "anuvrtti",
+          "role": "blocked_substitution"
+        },
+        {
+          "term": "न",
+          "source": "8.4.42",
+          "kind": "anuvrtti",
+          "role": "prohibition"
+        },
+        {
+          "term": "तोः",
+          "source": "8.4.43",
+          "kind": "anuvrtti",
+          "role": "target_dentals"
+        },
+        {
+          "term": "पूर्वत्रासिद्धम्",
+          "source": "8.2.1",
+          "kind": "adhikara",
+          "role": "earlier_view_barrier"
+        },
+        {
+          "term": "संहितायाम्",
+          "source": "8.2.108",
+          "kind": "adhikara",
+          "role": "close_contact"
+        }
+      ],
+      "requires": {
+        "samhita": true
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84044",
+          "anchor": "तोरिति वर्तते"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84044",
+          "anchor": "प्रश्नः"
+        }
+      ],
+      "parameters": {
+        "blocks": "8.4.40",
+        "preceding": "ś",
+        "target": [
+          "t",
+          "th",
+          "d",
+          "dh",
+          "n"
+        ]
+      }
+    },
+    {
+      "sid": "8.4.53",
+      "opcode": "voice_before_jhas",
+      "terms": [
+        {
+          "term": "झलाम्",
+          "source": "8.4.53",
+          "kind": "own",
+          "role": "target_jhal",
+          "case": "6"
+        },
+        {
+          "term": "जश्",
+          "source": "8.4.53",
+          "kind": "own",
+          "role": "voiced_stop_substitutes",
+          "case": "1"
+        },
+        {
+          "term": "झशि",
+          "source": "8.4.53",
+          "kind": "own",
+          "role": "following_sound_class",
+          "case": "7"
+        },
+        {
+          "term": "पूर्वत्रासिद्धम्",
+          "source": "8.2.1",
+          "kind": "adhikara",
+          "role": "earlier_view_barrier"
+        },
+        {
+          "term": "संहितायाम्",
+          "source": "8.2.108",
+          "kind": "adhikara",
+          "role": "close_contact"
+        }
+      ],
+      "requires": {
+        "samhita": true
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84053",
+          "anchor": "झलां स्थाने जशादेशो भवति झशि परतः"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84053",
+          "anchor": "दोग्धा"
+        }
+      ],
+      "parameters": {
+        "mapping": {
+          "k": "g",
+          "kh": "g",
+          "g": "g",
+          "gh": "g",
+          "c": "j",
+          "ch": "j",
+          "j": "j",
+          "jh": "j",
+          "ṭ": "ḍ",
+          "ṭh": "ḍ",
+          "ḍ": "ḍ",
+          "ḍh": "ḍ",
+          "t": "d",
+          "th": "d",
+          "d": "d",
+          "dh": "d",
+          "p": "b",
+          "ph": "b",
+          "b": "b",
+          "bh": "b",
+          "ś": "j",
+          "ṣ": "ḍ",
+          "s": "d",
+          "h": "g"
+        },
+        "following": [
+          "g",
+          "gh",
+          "j",
+          "jh",
+          "ḍ",
+          "ḍh",
+          "d",
+          "dh",
+          "b",
+          "bh"
+        ]
+      }
+    },
+    {
+      "sid": "8.4.58",
+      "opcode": "parasavarna",
+      "terms": [
+        {
+          "term": "अनुस्वारस्य",
+          "source": "8.4.58",
+          "kind": "own",
+          "role": "target_anusvara",
+          "case": "6"
+        },
+        {
+          "term": "ययि",
+          "source": "8.4.58",
+          "kind": "own",
+          "role": "following_sound_class",
+          "case": "7"
+        },
+        {
+          "term": "परसवर्णः",
+          "source": "8.4.58",
+          "kind": "own",
+          "role": "nasal_substitute",
+          "case": "1"
+        },
+        {
+          "term": "पूर्वत्रासिद्धम्",
+          "source": "8.2.1",
+          "kind": "adhikara",
+          "role": "earlier_view_barrier"
+        },
+        {
+          "term": "संहितायाम्",
+          "source": "8.2.108",
+          "kind": "adhikara",
+          "role": "close_contact"
+        }
+      ],
+      "requires": {
+        "samhita": true
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84058",
+          "anchor": "अनुस्वारस्य ययि परतः परसवर्ण आदेशो भवति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "84058",
+          "anchor": "तस्याप्यसिद्धत्वात् पुनर्णत्वं न भवति"
+        }
+      ],
+      "parameters": {
+        "mapping": {
+          "k": "ṅ",
+          "kh": "ṅ",
+          "g": "ṅ",
+          "gh": "ṅ",
+          "ṅ": "ṅ",
+          "c": "ñ",
+          "ch": "ñ",
+          "j": "ñ",
+          "jh": "ñ",
+          "ñ": "ñ",
+          "ṭ": "ṇ",
+          "ṭh": "ṇ",
+          "ḍ": "ṇ",
+          "ḍh": "ṇ",
+          "ṇ": "ṇ",
+          "t": "n",
+          "th": "n",
+          "d": "n",
+          "dh": "n",
+          "n": "n",
+          "p": "m",
+          "ph": "m",
+          "b": "m",
+          "bh": "m",
+          "m": "m"
+        },
+        "target": "ṃ",
+        "excludes_semivowel_readings": true
+      }
+    }
+  ],
+  "vowel_length": {
+    "short": [
+      "a",
+      "i",
+      "u",
+      "ṛ",
+      "ḷ"
+    ],
+    "long": [
+      "ā",
+      "ī",
+      "ū",
+      "ṝ",
+      "e",
+      "ai",
+      "o",
+      "au"
+    ]
+  },
+  "priority": [
+    {
+      "winner": "6.1.74",
+      "loser": "6.1.76",
+      "domain": "identified āṅ/māṅ with licensed sense; mandatory overrides local option",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61074",
+          "anchor": "विकल्पे प्राप्ते नित्यं तुगागमो भवति"
+        }
+      ]
+    },
+    {
+      "winner": "6.1.76",
+      "loser": "6.1.75",
+      "domain": "pada-final long vowel before ch",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61076",
+          "anchor": "पूर्वेण नित्यं प्राप्तो  वा तुगागमो भवति"
+        }
+      ]
+    },
+    {
+      "winner": "6.1.74",
+      "loser": "6.1.75",
+      "domain": "the identified-particle prescription supplies this same tuk event",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61074",
+          "anchor": "आङ ो ङित ईषदादिषु चतुर्ष्वर्थेषु"
+        }
+      ]
+    }
+  ],
+  "num_before_tuk_evidence": [
+    {
+      "path": "sutraani/kashika.txt",
+      "key": "71058",
+      "anchor": "धातूपदेशावस्थायामेव"
+    }
+  ],
+  "visibility_boundary_evidence": [
+    {
+      "path": "sutraani/kashika.txt",
+      "key": "61086",
+      "anchor": "षत्वे तुकि च कर्तव्य एकादेशोऽसिद्धो भवति"
+    },
+    {
+      "path": "sutraani/kashika.txt",
+      "key": "82001",
+      "anchor": "पूर्वत्रासिद्ध"
+    }
+  ],
+  "compiler_boundary": "Source roles are hand reviewed; parsed case annotations alone never choose an opcode."
+}

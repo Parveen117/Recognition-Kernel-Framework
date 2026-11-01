@@ -1,0 +1,156 @@
+{
+  "author": "Monty",
+  "raw_annotations_preserved": true,
+  "raw_sanskrit_scope_parser": false,
+  "groups": [
+    {
+      "source": "4.1.82",
+      "flag": "outside_endpoint",
+      "count": 279,
+      "status": "QUARANTINED_FOR_LINGUISTIC_REVIEW",
+      "finding": "The ad field carries vā through 5.3–5.4, although the declared endpoint is 5.2.140. Kāśikā explicitly terminates this heading before 5.3.1 and denies uniform optionality of svārthika affixes. Do not automatically make these later affixes optional.",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "41082",
+          "anchor": "स्वार्थिकप्रत्ययावधिश्चायमधिकारः"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "41082",
+          "anchor": "केचिन्नित्यमेव भवन्ति"
+        }
+      ]
+    },
+    {
+      "source": "6.2.111",
+      "flag": "outside_endpoint",
+      "count": 60,
+      "status": "SPLIT_TERM_REQUIRED",
+      "finding": "Kāśikā gives uttarapadasya through the pāda, but ādi only through 6.2.137. The combined uttarapadādiḥ annotation past 6.2.137 cannot be imported as a single unchanged condition.",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "62111",
+          "anchor": "उत्तरपदस्येत्येतदा पादपरिसमाप्तेः"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "62111",
+          "anchor": "आदिरिति"
+        }
+      ]
+    },
+    {
+      "source": "6.1.135",
+      "flag": "outside_endpoint",
+      "count": 3,
+      "status": "COMMENTARY_SUPPORTS_LONGER_ENDPOINT",
+      "finding": "The heading metadata ends at 6.1.154; Kāśikā explicitly says through 6.1.157. The 6.1.155–157 memberships are supported by that commentary.",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61135",
+          "anchor": "पारस्करप्रभृतीनि च संज्ञायाम्"
+        }
+      ]
+    },
+    {
+      "source": "6.1.84",
+      "flag": "outside_endpoint",
+      "count": 2,
+      "status": "COMMENTARY_SUPPORTS_LONGER_ENDPOINT",
+      "finding": "The heading metadata ends at 6.1.109; Kāśikā says before 6.1.112, supporting the two memberships 6.1.110–111.",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61084",
+          "anchor": "प्रागेतस्मात् सूत्रादित"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61110",
+          "anchor": "पूर्वपरयोः स्थाने"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61111",
+          "anchor": "पूर्वपरयोरुकार"
+        }
+      ]
+    },
+    {
+      "source": "4.2.92",
+      "target": "4.3.23",
+      "flag": "not_AD",
+      "count": 1,
+      "status": "COMMENTARY_CONFIRMS_HEADING",
+      "finding": "The type field is V, but Kāśikā explicitly calls śeṣe an adhikāra. Missing AD metadata does not invalidate this inheritance.",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "42092",
+          "anchor": "शेष इत्यधिकारोऽयम्"
+        }
+      ]
+    },
+    {
+      "source": "6.2.14",
+      "target": "6.2.144",
+      "flag": "not_AD",
+      "count": 1,
+      "status": "WRONG_REFERENCE_SUGGESTED_CORRECTION",
+      "suggested_source": "6.2.143",
+      "finding": "The raw edge borrows antaḥ from 6.2.14, whose sūtra is mātropajñopakramacchāye napuṃsake. 6.2.143 is antaḥ, expressly an adhikāra in Kāśikā. Preserve the wrong raw reference and record the correction separately.",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "62143",
+          "anchor": "अन्त इत्यधिकारः"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "62144",
+          "anchor": "परेषामन्त उदात्तो भवति"
+        }
+      ]
+    }
+  ],
+  "positive_context_controls": [
+    {
+      "target": "3.1.68",
+      "term": "सार्वधातुके",
+      "source": "3.1.67",
+      "kind": "anuvrtti"
+    },
+    {
+      "target": "3.1.68",
+      "term": "धातोः",
+      "source": "3.1.22",
+      "kind": "adhikara"
+    },
+    {
+      "target": "6.1.78",
+      "term": "अचि",
+      "source": "6.1.77",
+      "kind": "anuvrtti"
+    },
+    {
+      "target": "6.1.87",
+      "term": "अचि",
+      "source": "6.1.77",
+      "kind": "anuvrtti"
+    },
+    {
+      "target": "6.1.97",
+      "term": "अपदान्तात्",
+      "source": "6.1.96",
+      "kind": "anuvrtti"
+    }
+  ],
+  "negative_controls": [
+    "1.4.13 must not be treated as an AD heading.",
+    "3.1.68 must not inherit the entire yaṅ operation from 3.1.22 merely because it borrows dhātoḥ.",
+    "6.1.87 inherited aci must not be reported as source-text iki."
+  ]
+}
