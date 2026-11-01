@@ -86,6 +86,9 @@ def upadesa_iast(deva: str) -> str:
 
 
 def kta_from_entry(lex_id: str, entry: dict) -> dict[str, Any]:
+    """Admitted entries only: any other lexical id is refused here, not merely listed (guard added after external review)."""
+    if lex_id not in ENTRIES:
+        raise ValueError(f"{lex_id}: not an admitted kta entry of theorum/86 ({REFUSED.get(lex_id, 'not reviewed')})")
     up = upadesa_iast(entry["aupadeshik"])
     r = its(up, "dhatu")
     dh = list(r["remaining_sounds"])

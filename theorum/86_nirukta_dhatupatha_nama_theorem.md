@@ -35,6 +35,8 @@ forms; हु has no PG case and stands nāma-only.
 pakta), डुलभँष् (8.2.40 / 8.4.53 labdha), तुदँ (8.2.42 tunna), दिवुँ
 (samprasāraṇa dyūta) need rules not realized and are refused by name. (Four of these — pakta, labdha, tunna, lūna — are realized in theorum/87; this certificate's refusals and pin stand as recorded.)
 
+Note (after external review): `kta_from_entry` now refuses any lexical id outside the admitted eleven instead of merely listing refusals; the certificate output and pin are unchanged.
+
 ## 3. Certificate
 
 ```text

@@ -905,7 +905,7 @@ proof_lab/NIRUKTA_DHATUPATHA_NAMA_EXPECTED.sha256
 |---|---|
 | Certificate class | 8.2.30, 8.2.40, 8.2.42, 8.2.44, 8.4.53 applied in sūtra order under 8.2.1 to the pinned teaching forms pac, labh, tud, lū + kta → pakta, labdha, tunna, lūna; reverse order leaves labhdha (8.2.1 load-bearing); theorum/63's ladder derives all 88 sup forms |
 | Status | `PASS_TRIPADI_NISHTHA_COMPILED_CANDIDATE` |
-| Canonical result SHA-256 | `8b8f597b42a56b26a643e5359c3ca6dad036bcc100ee1305dfa62de0324426c9` |
+| Canonical result SHA-256 | `8f25f7b7384d1e75c3f669f211e82ff798c747c4a001684e9858d17959654228` |
 | Boundary | one five-rule, four-input instance of 8.2.1; lvādi beyond lū and 8.2.30 at pada end not claimed; aniṭ declared |
 
 ```text

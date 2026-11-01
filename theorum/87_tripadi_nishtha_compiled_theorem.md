@@ -31,6 +31,8 @@ then "not done" for the dh that only 8.2.40 creates. The other three
 derivations are order-independent on their inputs. The lawful order is the
 sūtra order.
 
+**T2b The 'dhaḥ exclusion is lexical.** External review of the first pinned run (8b8f597b…26c9) showed the rule excluded *every* dh-final stem; the Kāśikā reads *'dhaḥ* as *dadhātiṁ varjayitvā* — the root dhā. Corrected: rudh + ti receives dh by 8.2.40 (runddhi's seam), dhā + ta does not; the four admitted nouns are unchanged. New pin; the first stays in history.
+
 **T3 88 sup forms.** theorum/63's pinned ladder derives all 22 forms of each
 of the four nouns.
 
@@ -41,7 +43,7 @@ python -m proof_lab.tripadi_nishtha_compiled
 python -m unittest proof_lab.test_tripadi_nishtha_compiled -v
 ```
 Status `PASS_TRIPADI_NISHTHA_COMPILED_CANDIDATE`, SHA-256
-`8b8f597b42a56b26a643e5359c3ca6dad036bcc100ee1305dfa62de0324426c9`
+`8f25f7b7384d1e75c3f669f211e82ff798c747c4a001684e9858d17959654228`
 (`proof_lab/TRIPADI_NISHTHA_COMPILED_EXPECTED.sha256`). Imports theorum/82,
 86 (entry loader), 63, 79; no pin is changed.
 

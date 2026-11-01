@@ -62,8 +62,11 @@ def r_8_2_30(x: Form, b: int) -> Form:   # coḥ kuḥ: root-final ca-varga befo
     return x
 
 
-def r_8_2_40(x: Form, b: int) -> Form:   # jhaṣas tathor dho 'dhaḥ
-    if x[b - 1] in JHAS and x[b - 1] != "dh" and x[b] in ("t", "th"):
+DHA_ROOTS = ("dhā",)   # 8.2.40 'dhaḥ: Kāśikā "dadhātiṁ varjayitvā" — the exclusion is the root dhā, not any dh-final stem (corrected after external review)
+
+
+def r_8_2_40(x: Form, b: int, root: str = "") -> Form:   # jhaṣas tathor dho 'dhaḥ
+    if x[b - 1] in JHAS and root not in DHA_ROOTS and x[b] in ("t", "th"):
         return x[:b] + ("dh",) + x[b + 1 :]
     return x
 
@@ -96,7 +99,7 @@ def apply_tripadi(x: Form, b: int, root: str, order: list) -> tuple[Form, list[s
     """8.2.1: apply in the given order, each rule seeing only the output of the earlier ones (one pass)."""
     fired = []
     for sid, fn in order:
-        y = fn(x, b, root) if sid == "8.2.44" else fn(x, b)
+        y = fn(x, b, root) if sid in ("8.2.44", "8.2.40") else fn(x, b)
         if y != x:
             fired.append(sid)
             x = y
@@ -139,6 +142,14 @@ def t2_asiddha_order_load_bearing() -> dict[str, Any]:
     return {"checks": checks, "lawful": lawful, "reverse_order": reverse}
 
 
+def t2b_dha_exclusion_is_lexical() -> dict[str, Any]:
+    """8.2.40's 'dhaḥ excludes the root dhā (Kāśikā: dadhātiṁ varjayitvā), not every dh-final stem: rudh + ti is licensed, dhā + ta is not."""
+    rudh = r_8_2_40(("r", "u", "dh", "t", "i"), 3, "rudh")
+    dha = r_8_2_40(("dh", "ā", "t", "a"), 2, "dhā")
+    checks = {"rudh_plus_ti_gets_dh_by_8_2_40": rudh == ("r", "u", "dh", "dh", "i"), "dha_root_is_excluded_lexically": dha == ("dh", "ā", "t", "a")}
+    return {"checks": checks, "rudh_probe": "".join(rudh), "dha_probe": "".join(dha), "note": "the first pinned run excluded every dh-final stem; safe on the four admitted roots, wrong in general; corrected after external review"}
+
+
 def t3_sup_forms() -> dict[str, Any]:
     entries = load_entries()
     dom = paradigm_domains(RULES63)
@@ -164,7 +175,7 @@ def t3_sup_forms() -> dict[str, Any]:
 
 
 def build_certificate() -> dict[str, Any]:
-    packets = {"t1_four_nouns": t1_four_nouns(), "t2_asiddha_order_load_bearing": t2_asiddha_order_load_bearing(), "t3_sup_forms": t3_sup_forms()}
+    packets = {"t1_four_nouns": t1_four_nouns(), "t2_asiddha_order_load_bearing": t2_asiddha_order_load_bearing(), "t2b_dha_exclusion_is_lexical": t2b_dha_exclusion_is_lexical(), "t3_sup_forms": t3_sup_forms()}
     checks = {f"{k}_all_checks": all(v["checks"].values()) for k, v in packets.items()}
     status = "PASS_TRIPADI_NISHTHA_COMPILED_CANDIDATE" if all(checks.values()) else "FAIL_TRIPADI_NISHTHA_COMPILED_CANDIDATE"
     return {
