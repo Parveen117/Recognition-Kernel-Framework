@@ -126,9 +126,11 @@ Use the audited [publication copy](theorum/morphic_algebra/main.tex) for mathema
 
 | Family | Canonical sources | Boundary |
 |---|---|---|
+| Sūtra instruction format (paribhāṣā compiler) | [T80](theorum/80_paninian_instruction_format_theorem.md) | case-structured records + 1.1.49/66/67, 6.1.84, 1.1.69/70, 1.1.52/55, 1.1.46, 1.3.10, 1.1.50/51, 1.4.2 compile to theorum/58's rules; antaratama exact by sthāna table |
 | Pāṇinian cut-module algebra | [T56](theorum/56_canvas_operators_nativized_theorem.md), [T58](theorum/58_paninian_seam_calculus_theorem.md), [T60](theorum/60_seam_compensated_confluence_verdict_theorem.md), [T61](theorum/61_rewrite_rules_as_cut_module_operators_theorem.md) | finite declared carriers and rule sets |
 | Grammar carriers | [T63–68](#theorems-58-77-paninian-domain-yang-mills-tool-and-semantic-chain) | exact finite nominal, verbal, sandhi, and kāraka/vibhakti carriers |
 | Obligation and evidence ladders | [T69](theorum/69_mimamsa_obligation_closure_theorem.md), [T70](theorum/70_angatva_pramana_ladder_theorem.md) | declared Mīmāṃsā/pramāṇa finite models |
+| Śaiva sources (Māheśvara sūtras, Spanda, Pratyabhijñā) | [T78](theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md), [T79](theorum/79_shaiva_sources_varga_grid_crystal_theorem.md) | interval code on the two-channel carrier; Z/4 turn group on the EMK generator; recognition defect = turn part of a bilinear memory cocycle; varga/manner grid, 2304 set-preserving orders, blind ⟺ symmetric ⟺ coboundary |
 | Semantic normal form | [T77](theorum/77_semantic_paninian_typed_claim_normal_form.md) | explicit finite presentation only; identity, entailment, contradiction, and unresolved ambiguity remain distinct |
 
 ## 4. Calculus and geometry index
@@ -342,6 +344,9 @@ The register below distinguishes theorem capsules from plans, source maps, certi
 | 75 | [Selective Release of the Content Tail](theorum/75_selective_release_content_tail_theorem.md) | infinite-content tail tool |
 | 76 | [Seam-Flow Meter](theorum/76_seam_flow_meter_theorem.md) | sector/crossing instrument |
 | 77 | [Typed Semantic Paninian Normal Form](theorum/77_semantic_paninian_typed_claim_normal_form.md) | explicit finite semantic presentation |
+| 78 | [Śaiva Sources: Māheśvara Interval Code, Spanda Turn Group, Pratyabhijñā Recognition Defect](theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md) | quoted-source finite carriers |
+| 79 | [Śaiva Sources II: Varga/Manner Grid and the Crystal Theorem](theorum/79_shaiva_sources_varga_grid_crystal_theorem.md) | quoted-source finite carriers |
+| 80 | [The Sūtra as an Instruction: Paribhāṣā Instruction Format](theorum/80_paninian_instruction_format_theorem.md) | rule compiler on the 58 carrier |
 
 ## 7. Parallel theorem registers
 

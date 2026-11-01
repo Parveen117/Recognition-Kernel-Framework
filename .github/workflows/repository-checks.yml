@@ -73,6 +73,9 @@ jobs:
           sp1_inputs = set(json.loads(Path(
               'research/spanda_recognition/SOURCE_PINS.json'
           ).read_text())['sha256'])
+          pg1_inputs = set(json.loads(Path(
+              'research/panini_grammar/SOURCE_PINS.json'
+          ).read_text())['local_source_sha256'])
           scopes = {
               'engine': runtime or any(
                   path.startswith('operator_foundation/')
@@ -91,6 +94,23 @@ jobs:
               'sp1': under('research/spanda_recognition/')
                      or bool(changed & sp1_inputs)
                      or '.github/workflows/repository-checks.yml' in changed,
+              'pg1': under('research/panini_grammar/')
+                     or bool(changed & pg1_inputs)
+                     or '.github/workflows/repository-checks.yml' in changed,
+              'shaiva': bool(changed & {
+                  'proof_lab/shaiva_sources_nativized.py',
+                  'proof_lab/test_shaiva_sources_nativized.py',
+                  'proof_lab/SHAIVA_SOURCES_NATIVIZED_EXPECTED.sha256',
+                  'theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md',
+                  'proof_lab/shaiva_sources_varga_crystal.py',
+                  'proof_lab/test_shaiva_sources_varga_crystal.py',
+                  'proof_lab/SHAIVA_SOURCES_VARGA_CRYSTAL_EXPECTED.sha256',
+                  'theorum/79_shaiva_sources_varga_grid_crystal_theorem.md',
+                  'proof_lab/paninian_instruction_format.py',
+                  'proof_lab/test_paninian_instruction_format.py',
+                  'proof_lab/PANINIAN_INSTRUCTION_FORMAT_EXPECTED.sha256',
+                  'theorum/80_paninian_instruction_format_theorem.md',
+              }) or '.github/workflows/repository-checks.yml' in changed,
           }
           scopes = {name: full or selected for name, selected in scopes.items()}
           with open(os.environ['GITHUB_OUTPUT'], 'a') as output:
@@ -141,3 +161,24 @@ jobs:
       - name: Check SP1 cycle-memory examples and source pins
         if: steps.scope.outputs.sp1 == 'true'
         run: python research/spanda_recognition/check_examples.py
+      - name: Check PG1 Sanskrit text inventory and source pins
+        if: steps.scope.outputs.pg1 == 'true'
+        run: python research/panini_grammar/check_sources.py
+      - name: Check Theorem 78-80 quoted-source certificates and pins
+        if: steps.scope.outputs.shaiva == 'true'
+        run: |
+          python -B -m unittest proof_lab.test_shaiva_sources_nativized proof_lab.test_shaiva_sources_varga_crystal proof_lab.test_paninian_instruction_format -v
+          python -B -m proof_lab.shaiva_sources_nativized --output /tmp/shaiva_actual.json
+          python -B -m proof_lab.shaiva_sources_varga_crystal --output /tmp/shaiva_vc_actual.json
+          python -B -m proof_lab.paninian_instruction_format --output /tmp/pif_actual.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+          for actual_path, pin in (('/tmp/shaiva_actual.json', 'proof_lab/SHAIVA_SOURCES_NATIVIZED_EXPECTED.sha256'),
+                                   ('/tmp/shaiva_vc_actual.json', 'proof_lab/SHAIVA_SOURCES_VARGA_CRYSTAL_EXPECTED.sha256'),
+                                   ('/tmp/pif_actual.json', 'proof_lab/PANINIAN_INSTRUCTION_FORMAT_EXPECTED.sha256')):
+              actual = hashlib.sha256(Path(actual_path).read_bytes()).hexdigest()
+              expected = Path(pin).read_text(encoding='utf-8').strip()
+              assert actual == expected, (pin, actual, expected)
+              print('PASS_HASH', pin, actual)
+          PY

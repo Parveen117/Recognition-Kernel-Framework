@@ -747,6 +747,57 @@ proof_lab/imported/SEMANTIC_PANINIAN_SOURCE_PINS.json
 proof_lab/SEMANTIC_PANINIAN_NORMAL_FORM_EXPECTED.sha256
 ```
 
+
+## Theorem 78 Śaiva sources nativized packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Quoted primary Śaiva/Pāṇinian sources turned into exact finite theorems: Māheśvara-sūtra interval code (1.1.71), necessity of the repeated *ha*, Spanda turn group on the EMK odd generator, Pratyabhijñā recognition defect on the MR-03 cocycle lift |
+| Status | `PASS_SHAIVA_SOURCES_NATIVIZED_CANDIDATE` |
+| Canonical result SHA-256 | `3d1ce14b679eb5c02e33473fb808ec4a192502b79d912b927a52240c94c58950` |
+| Boundary | marker-count minimality of the fourteen sūtras not re-derived; breath, deity, ontology and the five acts cited only; recognition across different decompositions without a memory gauge is an open obligation |
+
+```text
+theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md
+proof_lab/shaiva_sources_nativized.py
+proof_lab/test_shaiva_sources_nativized.py
+proof_lab/SHAIVA_SOURCES_NATIVIZED_EXPECTED.sha256
+```
+
+
+## Theorem 79 Śaiva sources II: varga grid and crystal theorem packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Varga/manner 5×5 grid of the Māheśvara code (udit columns never intervals, manner rows pratyāhāras), exact count 2304 of set-preserving within-sūtra orders with forced leaders, and the crystal theorem (recognition-blind ⟺ symmetric ⟺ coboundary) on the MR-03 memory lift |
+| Status | `PASS_SHAIVA_SOURCES_VARGA_CRYSTAL_CANDIDATE` |
+| Canonical result SHA-256 | `4440bf2f0e4f941ba8c7a1e83d7ed63a558c756efddd360a69fe5ef3ce3b37ca` |
+| Boundary | presiding mothers of the vargas and the breath reading of Vijñāna-bhairava 26 cited only; the Aghora ladder (TA 10.45) and śiva/śivatara (TS 4.5.8) refused |
+
+```text
+theorum/79_shaiva_sources_varga_grid_crystal_theorem.md
+proof_lab/shaiva_sources_varga_crystal.py
+proof_lab/test_shaiva_sources_varga_crystal.py
+proof_lab/SHAIVA_SOURCES_VARGA_CRYSTAL_EXPECTED.sha256
+```
+
+
+## Theorem 80 Pāṇinian instruction-format packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Case-structured sūtra records compiled by the quoted paribhāṣās (1.1.49, 1.1.66–67, 6.1.84, 1.1.69–70, 1.1.52/55, 1.1.46, 1.3.10, 1.1.50–51, 1.4.2) and certified against theorum/58's hand-coded rules: equal wherever 58 fires, 24 extra long-ī/ū junctions by 1.1.69; antaratama reproduces every table; compiled sandhi confluent under 1.4.2; word rules equal 58 on all 40 reachable states |
+| Status | `PASS_PANINIAN_INSTRUCTION_FORMAT_CANDIDATE` |
+| Canonical result SHA-256 | `8ac53de2a233fbe94d7d6f3f9e3806ade7bd2f68c759faba81882119ae87bccb` |
+| Boundary | not a general Aṣṭādhyāyī interpreter: only the listed paribhāṣās and the rules realized in theorum/58; adhikāra spans declared, not parsed; ṝ ḹ and pluta outside the declared carrier |
+
+```text
+theorum/80_paninian_instruction_format_theorem.md
+proof_lab/paninian_instruction_format.py
+proof_lab/test_paninian_instruction_format.py
+proof_lab/PANINIAN_INSTRUCTION_FORMAT_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
