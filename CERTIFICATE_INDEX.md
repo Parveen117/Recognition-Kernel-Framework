@@ -835,6 +835,22 @@ proof_lab/test_paninian_it_samjna_compiled.py
 proof_lab/PANINIAN_IT_SAMJNA_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 83 Piṅgala Chandas pratyaya packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Piṅgala's six pratyayas (Chandaḥśāstra 8.20–8.35, quoted) as exact algorithms on {l, g}^n: prastāra = little-endian binary enumeration, naṣṭa/uddiṣṭa mutually inverse (n ≤ 12), saṅkhyā = 2^n by binary exponentiation (n ≤ 64), adhvayoga = 2^(n+1) − 2, meru = binomials = r-laghu counts |
+| Status | `PASS_PINGALA_CHANDAS_PRATYAYA_CANDIDATE` |
+| Canonical result SHA-256 | `86da0a82489b815efebad7e2d5692fbebabb15098e22152493b6fa293d51a617` |
+| Boundary | standard-edition numbering; 8.34–8.35 as meru is Halāyudha's reading; metre lengths declared; mātrā metres, gaṇas, metre identification not claimed |
+
+```text
+theorum/83_pingala_chandas_pratyaya_theorem.md
+proof_lab/pingala_chandas_pratyaya.py
+proof_lab/test_pingala_chandas_pratyaya.py
+proof_lab/PINGALA_CHANDAS_PRATYAYA_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |

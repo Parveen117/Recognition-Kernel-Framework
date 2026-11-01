@@ -1,198 +1,237 @@
 from __future__ import annotations
 
-"""Exact certificate (theorum/71): CHANDAS — Piṅgala's six pratyayas as exact
-algorithms, the meru closure law of the owner's note, the mātrā-meru, and
-the Gāyatrī's own metre read off theorum/67's line.
+"""Exact certificate (theorum/83): PIṄGALA'S SIX PRATYAYAS AS EXACT ALGORITHMS ON
+THE LAGHU/GURU CARRIER — the Chandas Vedāṅga, first batch.
 
-Owner's note (Vedic repo, "Pingala Meru Prastara Binary Chandas"):
-  alphabet {L, G}, weights w(L)=1, w(G)=2; Prastāra(n) = {L,G}^n;
-  meru closure  M(n,r) - M(n-1,r-1) - M(n-1,r) - S_M(n,r) = 0;
-  meter closure K_C(u) = Rec(NF(Prastāra(u))) - Rec(u) - S_C(u) = 0.
+Quoted sūtras (Piṅgala, Chandaḥśāstra, adhyāya 8; numbering of the
+Kedāranātha / Weber editions as used in the standard algorithmic reading):
 
-Piṅgala's pratyayas (Chandaḥ-sūtra 8.20–8.35), each exact here:
-  prastāra   the ordered table of all 2^n patterns (8.20–8.23: first G,
-             then the L-row rule; we certify Piṅgala's order)
-  naṣṭa      row index -> pattern (8.24–8.25: halve; even -> L, odd -> G ... )
-  uddiṣṭa    pattern -> row index (8.26–8.27)
-  lagakriyā  number of patterns with r gurus = meru = C(n, r) (8.28–8.31 meru)
-  saṅkhyā    2^n by the doubling/squaring rule (8.28–8.31)
-  adhvayoga  2·saṅkhyā − 1 (8.32–8.35)
+ 8.20  dvikau glau                      the two: g (guru) and l (laghu)
+ 8.21  miśrau ca                        and their mixtures
+ 8.22  pṛthag lā miśrāḥ                 [prastāra] l separately under the mixed ones
+ 8.23  vasavas trikāḥ                   the three-syllable forms are eight (vasu = 8)
+ 8.24  l-ardhe                          [naṣṭa] on halving, l
+ 8.25  saike g                          when one is added (odd), g
+ 8.26  pratilomagaṇaṁ dvir l-ādyam      [uddiṣṭa] reverse order; double from the first l
+ 8.27  tato gy ekaṁ jahyāt              then at a g subtract one
+ 8.28  dvir ardhe                       [saṅkhyā] two at a half
+ 8.29  rūpe śūnyam                      at a unit, zero
+ 8.30  dviḥ śūnye                       double at a zero
+ 8.31  tāvad ardhe tad guṇitam          at a half, multiply by itself
+ 8.32  dvir dvy ūnaṁ tad antānām        [adhvayoga] twice (the count), less two, for all up to the end
+ 8.34  pare pūrṇam                      [lagakriyā / meru] in the next, the full
+ 8.35  pare pūrṇam iti                  in the next, the full, thus
 
-Facts certified:
- T1  uddiṣṭa ∘ naṣṭa = id and naṣṭa ∘ uddiṣṭa = id on every row, n ≤ 10;
-     naṣṭa(n, 1) = G^n (first row), naṣṭa(n, 2^n) = L^n (last row) -- the
-     prastāra order is Piṅgala's.
- T2  meru closure with S_M = 0 for all n ≤ 12 with the correct boundary
-     (M(n,0)=M(n,n)=1); control: a planted boundary M(n,0)=0 is still
-     self-consistent under the recursion (residue 0 against itself!) but
-     disagrees with the prastāra counts -- so S_M must be measured against
-     the recognized object (Rec), as the owner's note writes it, not against
-     the recursion alone.
-     Row sums = saṅkhyā = 2^n; lagakriyā counts match the prastāra itself.
- T3  mātrā-meru: the number of patterns of total weight m (w(L)=1, w(G)=2)
-     satisfies F(m) = F(m-1) + F(m-2), F(1)=1, F(2)=2 (Virahāṅka recursion),
-     verified by enumeration for m ≤ 16.
- T4  GĀYATRĪ from theorum/67's text: syllabified, laghu/guru assigned by
-     1.4.10–12 (hrasvaṃ laghu; saṃyoge guru; dīrghaṃ ca) with anusvāra /
-     visarga as guru.  Result: pāda 1 has SEVEN syllables as written
-     (ta-tsa-vi-tu-rva-re-ṇyaṃ), pādas 2 and 3 have eight.  The gāyatrī
-     metre (3 x 8 = 24) is reached only with the traditional metrical
-     restoration vareṇyam -> vareṇiyam (svarabhakti, a DECLARED Vedic
-     reading, not a sūtra of the engine).  Both counts are certified; the
-     uddiṣṭa index of each pāda's L/G pattern in the 8-syllable prastāra
-     is computed.
+Carrier: words over {l, g} of length n (Piṅgala's syllable pattern of a line of
+n syllables), the binary carrier already used by theorum/78's it-marker channel.
+
+ T1  PRASTĀRA (8.20–8.23) enumerates all 2^n patterns without repetition, in
+     the order in which the pattern of index k (1-based) reads, laghu = 1 and
+     guru = 0, as the little-endian binary digits of k − 1; vasavas trikāḥ: the
+     3-syllable prastāra has eight rows.
+ T2  NAṢṬA (8.24–8.25) and UDDIṢṬA (8.26–8.27) are mutually inverse bijections
+     between {1..2^n} and the prastāra rows, exhaustively for n ≤ 12.
+ T3  SAṄKHYĀ (8.28–8.31) — Piṅgala's halving procedure — returns 2^n for every
+     n ≤ 64 with ⌈log2 n⌉+popcount−1 multiplications (binary exponentiation);
+     ADHVAYOGA (8.32) returns 2^(n+1) − 2 = Σ_{k=1..n} 2^k.
+ T4  LAGAKRIYĀ / MERU (8.34–8.35): the meru row n gives the number of patterns
+     with r laghus, equal to the exact count in the prastāra and to the
+     binomial coefficient; the row sums to the saṅkhyā; the Vedic pādas
+     (gāyatrī 24 = 3 × 8, triṣṭubh 44 = 4 × 11, jagatī 48 = 4 × 12) are the
+     carriers of 8, 11, 12 syllables, whose prastāras have 256, 2048 and 4096 rows.
 """
 
 import argparse
 import hashlib
 import json
+from fractions import Fraction
 from pathlib import Path
 from typing import Any
 
-from proof_lab.pada_to_line_external_sandhi import tok
+SOURCES = {
+    "8.20": "dvikau glau", "8.21": "miśrau ca", "8.22": "pṛthag lā miśrāḥ", "8.23": "vasavas trikāḥ",
+    "8.24": "l-ardhe", "8.25": "saike g", "8.26": "pratilomagaṇaṁ dvir l-ādyam", "8.27": "tato gy ekaṁ jahyāt",
+    "8.28": "dvir ardhe", "8.29": "rūpe śūnyam", "8.30": "dviḥ śūnye", "8.31": "tāvad ardhe tad guṇitam",
+    "8.32": "dvir dvy ūnaṁ tad antānām", "8.34": "pare pūrṇam", "8.35": "pare pūrṇam iti",
+}
 
-# ---------------------------------------------------------------- pratyayas
+
+# ---------------------------------------------------------------- prastāra 8.20–8.23
 def prastara(n: int) -> list[str]:
-    """Piṅgala's order: row 1 = all G; each next row: find first G from the left, make it L,
-    everything before it G, rest unchanged (8.23)."""
-    rows = ["G" * n]
-    while True:
-        cur = rows[-1]
-        i = cur.find("G")
-        if i < 0:
-            return rows
-        rows.append("G" * i + "L" + cur[i + 1 :])
+    """8.20 the two letters; 8.21 mix them; 8.22 under the mixed rows of length n-1, write g-column then l-column."""
+    if n == 0:
+        return [""]
+    if n == 1:
+        return ["g", "l"]                                   # 8.20 dvikau glau
+    prev = prastara(n - 1)                                  # 8.21 miśrau ca
+    return [p + "g" for p in prev] + [p + "l" for p in prev]   # 8.22 pṛthag lā miśrāḥ: the new (last) column g over the mixed rows, then l separately below
 
 
-def nashta(n: int, row: int) -> str:
-    """8.24–8.25: from row r, for each syllable: if r even -> L and halve; if odd -> G and (r+1)/2."""
+# ---------------------------------------------------------------- naṣṭa 8.24–8.25: from the row number to the pattern
+def nashta(n: int, k: int) -> str:
     out = []
+    x = k
     for _ in range(n):
-        if row % 2 == 0:
-            out.append("L"); row //= 2
+        if x % 2 == 0:
+            out.append("l")                                 # 8.24 l-ardhe: even — halve, write l
+            x //= 2
         else:
-            out.append("G"); row = (row + 1) // 2
+            out.append("g")                                 # 8.25 saike g: odd — add one and halve, write g
+            x = (x + 1) // 2
     return "".join(out)
 
 
+# ---------------------------------------------------------------- uddiṣṭa 8.26–8.27: from the pattern to the row number
 def uddishta(pattern: str) -> int:
-    """8.26–8.27: 1 + sum over L positions of 2^(i)."""
-    return 1 + sum(2**i for i, ch in enumerate(pattern) if ch == "L")
+    x = 1
+    for s in reversed(pattern):                             # 8.26 pratilomagaṇam: go in reverse order
+        x *= 2                                              # dviḥ: double (from the first l on; before it the value is 1)
+        if s == "g":
+            x -= 1                                          # 8.27 tato gy ekaṁ jahyāt: at a g, subtract one
+    return x
 
 
-def meru(n: int, broken_boundary: bool = False) -> list[list[int]]:
-    M = [[0] * (n + 1) for _ in range(n + 1)]
-    for i in range(n + 1):
-        M[i][0] = 0 if broken_boundary else 1
-        M[i][i] = 1 if i or not broken_boundary else M[i][i]
-        for r in range(1, i):
-            M[i][r] = M[i - 1][r - 1] + M[i - 1][r]
-    return M
-
-
-def meru_residue(M, n) -> int:
-    return sum(abs(M[i][r] - M[i - 1][r - 1] - M[i - 1][r]) for i in range(2, n + 1) for r in range(1, i))
-
-
-def sankhya(n: int) -> int:  # 8.28–8.31 doubling/squaring
-    if n == 0:
-        return 1
-    return sankhya(n // 2) ** 2 if n % 2 == 0 else 2 * sankhya(n - 1)
+# ---------------------------------------------------------------- saṅkhyā 8.28–8.31: Piṅgala's halving procedure
+def sankhya(n: int) -> tuple[int, int]:
+    """Returns (2^n, number of multiplications).  8.28 write 2 when n is halved (even), 8.29 write 0 when 1 is
+    subtracted (odd); then from the end: 8.30 at a 0 double, 8.31 at a 2 square."""
+    marks = []
+    x = n
+    while x > 0:
+        if x % 2 == 0:
+            marks.append("2")                               # 8.28 dvir ardhe
+            x //= 2
+        else:
+            marks.append("0")                               # 8.29 rūpe śūnyam
+            x -= 1
+    value, mults = 1, 0
+    for m in reversed(marks):
+        if m == "0":
+            value *= 2                                      # 8.30 dviḥ śūnye
+            mults += 1
+        else:
+            value *= value                                  # 8.31 tāvad ardhe tad guṇitam
+            mults += 1
+    return value, mults
 
 
 def adhvayoga(n: int) -> int:
-    return 2 * sankhya(n) - 1
+    """8.32 dvir dvy ūnaṁ tad antānām: twice the count, less two — the total of all metres of length 1..n."""
+    return 2 * sankhya(n)[0] - 2
 
 
-# ---------------------------------------------------------------- mātrā-meru
-def matra_count(m: int) -> int:
-    """Number of L/G words of total weight m, by enumeration."""
-    return sum(1 for n in range(m + 1) for p in prastara(n) if p.count("L") + 2 * p.count("G") == m) if m <= 16 else -1
+# ---------------------------------------------------------------- lagakriyā / meru 8.34–8.35
+def meru(n: int) -> list[int]:
+    """8.34–8.35 pare pūrṇam: each cell of the next row is the full sum of the two above it (first row 1)."""
+    row = [1]
+    for _ in range(n):
+        row = [1] + [row[i] + row[i + 1] for i in range(len(row) - 1)] + [1]
+    return row
 
 
-# ---------------------------------------------------------------- Gāyatrī metre
-VOW = {"a", "i", "u", "R", "A", "I", "U", "e", "o", "ai", "au"}
-LONG = {"A", "I", "U", "e", "o", "ai", "au"}
+def binom(n: int, r: int) -> int:
+    v = Fraction(1)
+    for i in range(r):
+        v *= Fraction(n - i, i + 1)
+    assert v.denominator == 1
+    return int(v)
 
 
-def syllabify(phones: list[str]) -> list[tuple[str, str]]:
-    """Split at vowels; a syllable is guru if its vowel is long / followed by anusvāra-visarga /
-    followed by a consonant cluster (saṃyoga) before the next vowel."""
-    idx = [i for i, p in enumerate(phones) if p in VOW]
-    out = []
-    for k, i in enumerate(idx):
-        nxt = idx[k + 1] if k + 1 < len(idx) else len(phones)
-        coda = phones[i + 1 : nxt]
-        v = phones[i]
-        guru = v in LONG or any(c in ("M", "H") for c in coda) or len([c for c in coda if c not in ("M", "H")]) >= 2
-        start = idx[k - 1] + 1 if k else 0
-        out.append(("".join(phones[start : i + 1]), "G" if guru else "L"))
-    return out
+def bits_little_endian(k: int, n: int) -> str:
+    return "".join("l" if (k >> i) & 1 else "g" for i in range(n))
 
 
-def pada_meter(text: str):
-    phones = list(tok(text.replace(" ", "")))
-    syl = syllabify(phones)
-    pattern = "".join(g for _, g in syl)
-    return {"syllables": [s for s, _ in syl], "count": len(syl), "pattern": pattern, "uddishta_in_8": uddishta(pattern) if len(pattern) == 8 else None}
+def t1_prastara() -> dict[str, Any]:
+    rows = {n: prastara(n) for n in range(0, 13)}
+    checks = {
+        "prastara_has_2_pow_n_distinct_rows_n_le_12": all(len(rows[n]) == 2 ** n and len(set(rows[n])) == 2 ** n for n in rows),
+        "vasavas_trikah_8_23_three_syllable_prastara_has_eight_rows": len(rows[3]) == 8,
+        "row_k_reads_as_little_endian_binary_of_k_minus_1_laghu_is_1": all(rows[n][k - 1] == bits_little_endian(k - 1, n) for n in rows for k in range(1, 2 ** n + 1)),
+        "first_row_all_guru_last_row_all_laghu": all(rows[n][0] == "g" * n and rows[n][-1] == "l" * n for n in rows if n > 0),
+    }
+    return {"checks": checks, "prastara_3": rows[3], "prastara_4": rows[4]}
 
 
-GAYATRI_PADAS = ["tat savitur vareNyaM", "bhargo devasya dhImahi", "dhiyo yo naH pracodayAt"]
-RESTORED_PADA1 = "tat savitur vareNiyaM"  # declared Vedic metrical reading (svarabhakti)
+def t2_nashta_uddishta() -> dict[str, Any]:
+    ok_nashta = ok_uddishta = ok_inverse = True
+    for n in range(0, 13):
+        rows = prastara(n)
+        for k, p in enumerate(rows, start=1):
+            ok_nashta &= nashta(n, k) == p
+            ok_uddishta &= uddishta(p) == k
+            ok_inverse &= uddishta(nashta(n, k)) == k and nashta(n, uddishta(p)) == p
+    checks = {
+        "nashta_8_24_25_returns_row_k_of_the_prastara_n_le_12": ok_nashta,
+        "uddishta_8_26_27_returns_the_row_number_n_le_12": ok_uddishta,
+        "nashta_and_uddishta_mutually_inverse_n_le_12": ok_inverse,
+    }
+    return {"checks": checks, "examples": {"nashta(4, 11)": nashta(4, 11), "uddishta('glgl')": uddishta("glgl"), "uddishta('gggg')": uddishta("gggg"), "uddishta('llll')": uddishta("llll")}}
+
+
+def t3_sankhya_adhvayoga() -> dict[str, Any]:
+    vals = {n: sankhya(n) for n in range(0, 65)}
+    naive_bound = all(vals[n][1] <= n for n in vals)
+    log_bound = all(vals[n][1] == (n.bit_length() - 1) + bin(n).count("1") for n in vals if n > 0)
+    checks = {
+        "sankhya_8_28_31_equals_2_pow_n_for_n_le_64": all(vals[n][0] == 2 ** n for n in vals),
+        "multiplications_equal_floor_log2_plus_popcount_binary_exponentiation": log_bound and naive_bound,
+        "adhvayoga_8_32_equals_sum_of_sankhya_1_to_n_for_n_le_64": all(adhvayoga(n) == sum(2 ** k for k in range(1, n + 1)) for n in range(0, 65)),
+    }
+    return {"checks": checks, "sankhya_table": {n: vals[n][0] for n in range(0, 13)}, "multiplications": {n: vals[n][1] for n in range(1, 17)}, "adhvayoga_table": {n: adhvayoga(n) for n in range(1, 9)}}
+
+
+VEDIC_METRES = {"gāyatrī": 24, "uṣṇik": 28, "anuṣṭubh": 32, "bṛhatī": 36, "paṅkti": 40, "triṣṭubh": 44, "jagatī": 48}   # traditional syllable counts of the seven Vedic metres (declared, not quoted here)
+PADA_SYLLABLES = {"gāyatrī": 8, "anuṣṭubh": 8, "triṣṭubh": 11, "jagatī": 12}
+
+
+def t4_meru_and_vedic_metres() -> dict[str, Any]:
+    ok_meru = ok_sum = ok_count = True
+    for n in range(0, 13):
+        row = meru(n)
+        rows = prastara(n)
+        ok_meru &= row == [binom(n, r) for r in range(n + 1)]
+        ok_sum &= sum(row) == sankhya(n)[0]
+        ok_count &= all(sum(1 for p in rows if p.count("l") == r) == row[r] for r in range(n + 1))
+    pada = {m: {"syllables_per_pada": s, "prastara_rows": sankhya(s)[0], "meru_row": meru(s)} for m, s in PADA_SYLLABLES.items()}
+    checks = {
+        "meru_8_34_35_row_n_equals_binomial_coefficients_n_le_12": ok_meru,
+        "meru_row_sums_to_sankhya": ok_sum,
+        "meru_cell_r_equals_number_of_prastara_rows_with_r_laghus": ok_count,
+        "vedic_pada_carriers_8_11_12_have_256_2048_4096_rows": pada["gāyatrī"]["prastara_rows"] == 256 and pada["triṣṭubh"]["prastara_rows"] == 2048 and pada["jagatī"]["prastara_rows"] == 4096,
+        "vedic_metre_lengths_are_pada_multiples": VEDIC_METRES["gāyatrī"] == 3 * 8 and VEDIC_METRES["anuṣṭubh"] == 4 * 8 and VEDIC_METRES["triṣṭubh"] == 4 * 11 and VEDIC_METRES["jagatī"] == 4 * 12,
+    }
+    return {"checks": checks, "meru_rows_0_to_6": {n: meru(n) for n in range(7)}, "vedic_padas": pada}
 
 
 def build_certificate() -> dict[str, Any]:
-    t1 = all(nashta(n, r) == p and uddishta(p) == r for n in range(1, 11) for r, p in enumerate(prastara(n), start=1))
-    order = all(prastara(n)[0] == "G" * n and prastara(n)[-1] == "L" * n and len(prastara(n)) == 2**n for n in range(1, 11))
-    M = meru(12)
-    t2 = meru_residue(M, 12) == 0 and all(sum(M[n][: n + 1]) == sankhya(n) == 2**n for n in range(13))
-    lag = all(M[n][r] == sum(1 for p in prastara(n) if p.count("G") == r) for n in range(1, 11) for r in range(n + 1))
-    # BUILD NOTE: the first control measured the broken meru against ITSELF (recursion residue) and found 0 --
-    # a wrong boundary propagates consistently.  The owner's S_M must be measured against the recognized object
-    # (lagakriyā counts from the prastāra itself): there the planted boundary shows a nonzero residue.
-    Mb = meru(10, broken_boundary=True)
-    broken = sum(abs(Mb[n][r] - sum(1 for p in prastara(n) if p.count("G") == r)) for n in range(1, 11) for r in range(n + 1)) > 0 and meru_residue(Mb, 10) == 0
-    adh = all(adhvayoga(n) == 2 ** (n + 1) - 1 for n in range(11))
-    F = [matra_count(m) for m in range(1, 17)]
-    t3 = F[0] == 1 and F[1] == 2 and all(F[m] == F[m - 1] + F[m - 2] for m in range(2, 16))
-    padas = [pada_meter(p) for p in GAYATRI_PADAS]
-    restored = pada_meter(RESTORED_PADA1)
-    counts = [p["count"] for p in padas]
-    t4_written = counts == [7, 8, 8]
-    t4_restored = restored["count"] == 8 and [restored["count"]] + counts[1:] == [8, 8, 8]
-    checks = {
-        "T1_uddishta_nashta_inverse_n_le_10_and_pingala_order": t1 and order,
-        "T2_meru_closure_S_M_zero_rowsums_sankhya_lagakriya_matches_prastara": t2 and lag,
-        "T2_planted_boundary_self_consistent_but_nonzero_against_prastara": broken,
-        "T2_adhvayoga_2_sankhya_minus_1": adh,
-        "T3_matra_meru_virahanka_recursion_m_le_16": t3,
-        "T4_gayatri_as_written_7_8_8": t4_written,
-        "T4_gayatri_with_declared_restoration_8_8_8_24": t4_restored,
-    }
+    packets = {"t1_prastara": t1_prastara(), "t2_nashta_uddishta": t2_nashta_uddishta(), "t3_sankhya_adhvayoga": t3_sankhya_adhvayoga(), "t4_meru_and_vedic_metres": t4_meru_and_vedic_metres()}
+    checks = {f"{k}_all_checks": all(v["checks"].values()) for k, v in packets.items()}
     status = "PASS_PINGALA_CHANDAS_PRATYAYA_CANDIDATE" if all(checks.values()) else "FAIL_PINGALA_CHANDAS_PRATYAYA_CANDIDATE"
     return {
         "schema": "rkf.pingala_chandas_pratyaya_candidate.v1",
         "status": status,
-        "prastara_4": prastara(4),
-        "meru_8": M[8][:9],
-        "matra_counts_1_16": F,
-        "gayatri_padas_as_written": padas,
-        "gayatri_pada1_restored": restored,
+        "sources": SOURCES,
         "claim_boundary": {
             "proved_by_exact_finite_certificate": [
-                "Piṅgala's prastāra order; naṣṭa/uddiṣṭa mutually inverse (n ≤ 10); lagakriyā = meru = prastāra counts; saṅkhyā by doubling/squaring = 2^n; adhvayoga = 2·2^n − 1",
-                "owner's meru closure law holds with S_M = 0 under the correct boundary; S_M is exactly the boundary defect (planted control)",
-                "mātrā-meru (w(L)=1, w(G)=2) obeys the Virahāṅka/Fibonacci recursion by enumeration, m ≤ 16",
-                "Gāyatrī from the theorum/67 text: 7-8-8 syllables as written; 8-8-8 = 24 only with the declared metrical restoration vareṇiyam; laghu/guru by 1.4.10–12",
+                "prastāra 8.20–8.23 enumerates the 2^n patterns, row k = little-endian binary of k−1 with laghu = 1 (n ≤ 12)",
+                "naṣṭa 8.24–8.25 and uddiṣṭa 8.26–8.27 are mutually inverse bijections (n ≤ 12)",
+                "saṅkhyā 8.28–8.31 = 2^n with ⌊log2 n⌋ + popcount multiplications (n ≤ 64); adhvayoga 8.32 = 2^(n+1) − 2",
+                "meru 8.34–8.35 = binomial coefficients = counts of r-laghu rows, summing to the saṅkhyā (n ≤ 12); Vedic pāda carriers of 8, 11, 12 syllables",
             ],
-            "NOT_claimed": ["the restoration vareṇiyam is DECLARED (Vedic recitation), not derived by a sūtra", "accent; caesura; the other vṛttas", "RH, YM untouched"],
+            "NOT_claimed": [
+                "the sūtra numbering follows the standard printed editions (Kedāranātha / Weber); other editions number differently",
+                "the reading of 8.34–8.35 as the meru is Halāyudha's commentary, cited",
+                "metre identification of actual Vedic lines, gaṇa system, mātrā metres (chapters 1–7), pātākā-prastāra (later commentators); the seven metre lengths are the traditional table, declared not quoted; theorum/65's Gāyatrī (the mantra) is not touched",
+                "no link to RH or YM is claimed",
+            ],
         },
         "checks": checks,
+        **packets,
     }
 
 
 def canonical_bytes(payload: dict[str, Any]) -> bytes:
-    return (json.dumps(payload, indent=2, sort_keys=True, ensure_ascii=False) + "\n").encode("utf-8")
+    return (json.dumps(payload, indent=2, sort_keys=True) + "\n").encode("utf-8")
 
 
 def certificate_sha256(payload: dict[str, Any]) -> str:
@@ -200,18 +239,20 @@ def certificate_sha256(payload: dict[str, Any]) -> str:
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--output", type=Path)
-    args = ap.parse_args()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--output", type=Path, default=None)
+    args = parser.parse_args()
     payload = build_certificate()
-    if args.output:
-        args.output.write_bytes(canonical_bytes(payload))
+    data = canonical_bytes(payload)
+    if args.output is not None:
+        args.output.write_bytes(data)
     print(payload["status"])
-    for k, v in payload["checks"].items():
-        print(k, v)
-    print("GAYATRI", [(p["count"], p["pattern"]) for p in payload["gayatri_padas_as_written"]], "RESTORED", payload["gayatri_pada1_restored"]["pattern"])
-    print("CERTIFICATE_SHA256", certificate_sha256(payload))
-    return 0 if payload["status"].startswith("PASS_") else 1
+    for name, v in payload.items():
+        if isinstance(v, dict) and "checks" in v:
+            for k, val in v["checks"].items():
+                print(f"    {name}.{k}: {val}")
+    print("sha256", certificate_sha256(payload))
+    return 0 if payload["status"].startswith("PASS") else 1
 
 
 if __name__ == "__main__":

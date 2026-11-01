@@ -58,6 +58,7 @@ The advanced numbered surface now runs through Theorem 80:
 8. **80 — the sūtra as an instruction.** Case-structured sūtra records compiled by Pāṇini's own paribhāṣās (1.1.49, 1.1.66–67, 6.1.84, 1.1.69–70, 1.1.52/55, 1.1.46, 1.3.10, 1.1.50–51, 1.4.2) reproduce theorum/58's hand-coded rules wherever they fire, extend them lawfully on the long-ī/ū junctions, make antaratama exact by the sthāna table, and keep confluence under 1.4.2; a general Aṣṭādhyāyī interpreter is not claimed.
 9. **81 — the saṁjñā sound layer and the Aṣṭādhyāyī ledger.** 1.1.9 + 1.1.10 derive savarṇa from the sthāna/prayatna table (length pairs, five vargas; 1.1.10 load-bearing); ṭi, upadhā, tadanta exact; 1.1.11 + 6.1.125 block compiled sandhi on dual ī/ū/e only; `proof_lab/astadhyayi/ASTADHYAYI_LEDGER.json` is the one claim boundary for every sūtra realized (156 of 3959 listed).
 10. **82 — the it-saṁjñā layer compiled.** 1.3.2–1.3.9 as one interpreter on teaching forms = tradition on 116 forms; 1.3.4 / ataddhite / pratyayasya and the jñāpaka overrides (7.1.3, 7.3.50, 7.1.2) each load-bearing on named forms; theorum/58 and 63 `it_lopa` are instances; 1.1.46/47 augment placement and 1.4.13 aṅga read off the its (= theorum/80's 7.3.84 trigger on 40 states).
+11. **83 — Chandas: Piṅgala's six pratyayas.** 8.20–8.35 quoted; prastāra = little-endian binary, naṣṭa ∘ uddiṣṭa = id, saṅkhyā = 2^n by binary exponentiation, adhvayoga = 2^(n+1) − 2, meru = binomials; exact on {l, g}^n.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -105,7 +106,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-82                           PRESENT
+NUMBERED THEOREM FILES 01-83                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT
