@@ -1,0 +1,165 @@
+{
+  "author": "Monty",
+  "decisions": [
+    {
+      "id": "pvadi-endpoint",
+      "choice": "Select the explicit subdivision ending at plī. The broad through-end-of-gaṇa interpretation is retained as an alternative source reading, not silently merged into this profile. Vṛī/bhrī/kṣī and heṭ therefore do not receive shortening here.",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "73080",
+          "anchor": "पू इत्येवमादीनां ह्रस्वो भवति शिति परतः"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "73080",
+          "anchor": "इति यावत् केचिदिच्छन्ति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "73080",
+          "anchor": "ल्वादीनां प्वादीनां च परिसमाप्त्यर्थमिति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "73080",
+          "anchor": "आगणान्ताः प्वादय इति"
+        },
+        {
+          "path": "sutraani/kaumudi.txt",
+          "key": "64002",
+          "anchor": "केषांचिन्मते तु न"
+        }
+      ]
+    },
+    {
+      "id": "tanadi-root-guna",
+      "choice": "Retain both commentary readings for kṣiṇ, ṛṇ, tṛṇ and ghṛṇ. Guṇa is caused by u before inspecting the ending; resulting rṇ clusters block optional affix-u deletion in the guṇa branches.",
+      "evidence": [
+        {
+          "path": "sutraani/kaumudi.txt",
+          "key": "24079",
+          "anchor": "संज्ञापूर्वको विधिरनित्यः"
+        },
+        {
+          "path": "sutraani/kaumudi.txt",
+          "key": "24079",
+          "anchor": "भवत्येवेत्यन्ये"
+        },
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "24079",
+          "anchor": "अत्रापि क्षिणुवन्मतभेदाल्लघूपधगुणतदभावौ"
+        },
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "24079",
+          "anchor": "एवमग्रेऽपि"
+        }
+      ]
+    },
+    {
+      "id": "class5-register",
+      "choice": "Defer pṛ/spṛ/smṛ despite absent Vedic tags because the selected commentary describes them as Vedic. Admit kṣi with its raw Vedic tag retained because classical use is explicitly licensed.",
+      "evidence": [
+        {
+          "path": "sutraani/kaumudi.txt",
+          "key": "73056",
+          "anchor": "पृणोत्यादयस्त्रयश्छान्दसा इत्याहुः"
+        },
+        {
+          "path": "sutraani/kaumudi.txt",
+          "key": "74072",
+          "anchor": "अयं भाषायामपीत्येके"
+        },
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "74072",
+          "anchor": "क्षिधातुरित्यर्थः"
+        }
+      ]
+    },
+    {
+      "id": "udhras-initial-u",
+      "choice": "Use the explicitly nasal initial u marker in source entry 1090060 and the traditional u-it reading. Preserve the modern note reporting the alternative root-member interpretation.",
+      "evidence": [
+        {
+          "path": "sutraani/kaumudi.txt",
+          "key": "72046",
+          "anchor": "उकार इत्"
+        },
+        {
+          "path": "sutraani/kaumudi.txt",
+          "key": "72046",
+          "anchor": "उकारो धात्ववयव इत्येके"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1090060",
+          "field": "dhatu_note",
+          "anchor": "केषाञ्चन पण्डितानां मतेन अस्मिन् धातौ विद्यमानः आदिस्थः उकारः धात्ववयवः ज्ञेयः, न हि इत्संज्ञकः ।"
+        }
+      ]
+    },
+    {
+      "id": "hett-printed-shortening",
+      "choice": "The selected Siddhāntakaumudī field prints hiṭhṇāti, compatible with its broader shortening discussion. This profile uses the separately explicit narrow pvādi endpoint and retains heṭh; the printed shortened word is not counted as its witness.",
+      "evidence": [
+        {
+          "path": "sutraani/kaumudi.txt",
+          "key": "64019",
+          "anchor": "हिठ्णाति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "73080",
+          "anchor": "इति यावत् केचिदिच्छन्ति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "73080",
+          "anchor": "ल्वादीनां प्वादीनां च परिसमाप्त्यर्थमिति"
+        }
+      ]
+    },
+    {
+      "id": "sranth-printed-order",
+      "choice": "Use the explicit penultimate-n deletion of 6.4.24 before śnā. The selected Siddhāntakaumudī śranthāti spelling is retained as a disagreement rather than counted as a witness for śrathnāti.",
+      "evidence": [
+        {
+          "path": "sutraani/kaumudi.txt",
+          "key": "64002",
+          "anchor": "श्रन्थाति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "64024",
+          "anchor": "अनिदितामङ्गानां हलन्तानामुपधाया नकारस्य लोपो भवति क्ङिति प्रत्यये परतः"
+        }
+      ]
+    },
+    {
+      "id": "sr-long-ubhayapada-deferred",
+      "choice": "Do not admit 1090015 śṝñ in this stage. Its inserted source position and the selected traditional named pvādi sequence do not resolve the shortening membership; the comparison table alone is insufficient. The later parasmaipada śṝ entry 1090021 is independently identified.",
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1090015",
+          "field": "aupadeshik",
+          "anchor": "शॄञ्"
+        },
+        {
+          "path": "sutraani/kaumudi.txt",
+          "key": "73080",
+          "anchor": "अथ बध्नात्यन्ताः परस्मैपदिनः"
+        },
+        {
+          "path": "sutraani/kaumudi.txt",
+          "key": "73080",
+          "anchor": "शॄ!} हिंसायाम्"
+        }
+      ]
+    }
+  ],
+  "boundary": "Source interpretations and differing printed forms are retained. Neither the primary files nor earlier evidence packets are edited."
+}

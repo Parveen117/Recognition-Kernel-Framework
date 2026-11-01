@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 1 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–107 (quoted Śaiva sources nativized; the sūtra as an instruction; the saṁjñā sound layer with the Aṣṭādhyāyī ledger; the it-saṁjñā layer compiled; the Śikṣā Vedāṅga; the Vedāṅga packets 71–73 bound to their quoted sources; the Nirukta Vedāṅga, also on the PG5 / PG6 pinned Dhātupāṭha entries; the Tripādī niṣṭhā rules compiled in asiddha order; the āp-stem, nadī-stem, ṛ-stem, ghi-stem and consonant-stem sup paradigms), and added the PG1–PG10 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
+Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–107 (quoted Śaiva sources nativized; the sūtra as an instruction; the saṁjñā sound layer with the Aṣṭādhyāyī ledger; the it-saṁjñā layer compiled; the Śikṣā Vedāṅga; the Vedāṅga packets 71–73 bound to their quoted sources; the Nirukta Vedāṅga, also on the PG5 / PG6 pinned Dhātupāṭha entries; the Tripādī niṣṭhā rules compiled in asiddha order; the āp-stem, nadī-stem, ṛ-stem, ghi-stem and consonant-stem sup paradigms), and added the PG1–PG12 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -214,7 +214,7 @@ binds 29 records and two commentary-supported scope overlays.
 a separate 396-cell / 438-branch comparison with zero differences. Six
 entries lack separate full-word witnesses in the selected commentaries;
 their lexical/rule and comparison evidence remain separately identified.
-[Current coverage](research/panini_grammar/present_expansion/COVERAGE_STATUS.json)
+[PG10 coverage](research/panini_grammar/present_expansion/COVERAGE_STATUS.json)
 is 91 / 2,229 root entries, 1,089 cells and 1,223 branches, with 143 bounded
 definitions / 112 distinct sūtra IDs across PG4–PG10. Class 3 covers its
 first 14 unmarked entries, not every possible classical class-3 context.
@@ -224,6 +224,70 @@ the wider grammar. PG1–PG9 evidence is frozen. Full native operator lifting,
 zero-specialization compatibility, quantum-calculator integration, hosted
 CI and main merge remain open or deferred; no overall grammar percentage
 is assigned.
+
+## PG11: lexical present paths and owned ending substitutions
+
+[PG11](research/panini_grammar/lexical_present/README.md) adds 40 identified
+roots, 45 licensed pada paradigms, 405 present cells and 420 branches.
+Thirty-nine further adādi roots include han, dviṣ/duh/dih/lih, cakṣ,
+īḍ/īś/śī, brū, vid, mṛj and the lexical abhyasta group. The sole-vowel
+juhotyādi root ṛ retains its source tag and explicit classical-use license.
+iṭ/īṭ belong to the ending; ruṭ belongs to the actual jh substitute.
+Optional vid endings and brū/āh's coupled substitutions retain the
+original present features and teaching forms.
+
+[Source review](research/panini_grammar/lexical_present/SOURCE_REVIEW.md)
+binds 43 records, ten local scope overlays and six retained source
+adjudications. Repeated source words are bound by occurrence and case.
+[Validation](research/panini_grammar/lexical_present/VALIDATION.md) records
+245 literal word cases across 39 roots, 40 refusals and 107 direct controls.
+The separate 405-cell / 420-branch comparison has zero differences. New
+pṛj has no separate exact full-word witness in the selected passages;
+the six inherited PG10 word-witness gaps also remain open.
+
+[PG11 coverage](research/panini_grammar/lexical_present/COVERAGE_STATUS.json)
+is 131 / 2,229 root entries, 166 paradigms, 1,494 present cells and 1,643
+branches, with 186 bounded definitions / 142 distinct sūtra IDs across
+PG4–PG11. Class 2 covers 68 of 76 lexical rows; class 3 covers 15 of 26
+entries under the declared profiles.
+[Remaining work](research/panini_grammar/lexical_present/REMAINING.md)
+includes prefix/context and register-sensitive entries and wider grammar.
+PG1–PG10 remain frozen. Full native operator lifting, typed
+zero-specialization compatibility and quantum-calculator integration are
+open; hosted CI and main merging remain deferred. No overall grammar
+completion percentage is assigned.
+
+## PG12: further śnu, u and śnā present paths
+
+[PG12](research/panini_grammar/nasal_present/README.md) adds 97 identified
+roots, 124 licensed pada paradigms, 1,116 present cells and 1,316 branches:
+22 further svādi, eight tanādi and 67 kryādi entries. Owned root n-lopa,
+grah/jyā saṃprasāraṇa and khav's ūṭh substitution retain the intermediate
+sounds, their source identities and ordered history. Four tanādi root-guṇa
+options compose with affix strength and actual cluster-sensitive u-loss.
+The expanded bounded ṇatva window retains tṛp/kṣubh's prohibitions and
+kṣubh's exact local śnā identity permission after ā changes.
+
+[Source review](research/panini_grammar/nasal_present/SOURCE_REVIEW.md)
+binds 22 records, one scope overlay and seven retained source decisions,
+including the narrow pvādi endpoint, register differences and deferred
+śṝñ membership. [Validation](research/panini_grammar/nasal_present/VALIDATION.md)
+records 109 literal-word cases across 73 new roots, 37 refusals and 124
+direct controls. The separate 1,116-cell / 1,316-branch comparison has
+zero differences. Twenty-four new entries lack separate exact full-word
+witnesses; the seven earlier PG10/PG11 gaps also remain open.
+
+[Current coverage](research/panini_grammar/nasal_present/COVERAGE_STATUS.json)
+is 228 / 2,229 root entries, 290 paradigms, 2,610 present cells and 2,959
+branches, with 208 bounded definitions / 152 distinct sūtra IDs across
+PG4–PG12. The declared unaccented, unprefixed classical kartari profiles
+cover 26/38 class-5, 10/10 class-8 and 70/71 class-9 entries; these counts
+do not establish all contexts of those classes or an overall grammar
+percentage. [Remaining work](research/panini_grammar/nasal_present/REMAINING.md)
+includes other present classes, dhinv/kṛnv's coupled changes, prefix and
+register contexts, and wider grammar. PG1–PG11 remain frozen. Full native
+operator lifting, typed zero-specialization compatibility and quantum-calculator
+integration remain open; hosted CI and main merging remain deferred.
 
 ## Śaiva sources, the sūtra as an instruction, and the Vedāṅgas: Theorems 78–107
 
