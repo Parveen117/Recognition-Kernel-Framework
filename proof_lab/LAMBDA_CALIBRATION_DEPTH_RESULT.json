@@ -1,0 +1,5338 @@
+{
+  "schema": "rkf.lambda-calibration-depth.v1",
+  "date": "2026-10-13",
+  "status": "PASS_UNIT_WEIGHTED_CALIBRATION_AND_CUT_DEPTH",
+  "theorem_count": 5,
+  "checks": [
+    {
+      "name": "membership_criterion_and_partition_expression_agree",
+      "status": "PASS"
+    },
+    {
+      "name": "calibration_coordinates_satisfy_their_unit_relation",
+      "status": "PASS"
+    },
+    {
+      "name": "a_cut_level_calibration_is_not_in_the_memory_algebra",
+      "status": "PASS"
+    },
+    {
+      "name": "degree_unit_rule_holds_at_the_least_monomial_degree",
+      "status": "PASS"
+    },
+    {
+      "name": "necessity_reads_the_offending_relative_coefficient",
+      "status": "PASS"
+    },
+    {
+      "name": "substitution_preserves_the_memory_algebra",
+      "status": "PASS"
+    },
+    {
+      "name": "nonlinear_cut_action_is_refused",
+      "status": "PASS"
+    },
+    {
+      "name": "closed_bank_observer_predicts_every_relative_reading_and_calibration",
+      "status": "PASS"
+    },
+    {
+      "name": "the_same_formulas_serve_every_retained_depth",
+      "status": "PASS"
+    },
+    {
+      "name": "affine_frame_change_preserves_the_memory_algebra",
+      "status": "PASS"
+    },
+    {
+      "name": "monomial_action_has_the_closed_least_bank_formulas",
+      "status": "PASS"
+    },
+    {
+      "name": "the_least_bank_needs_d_generators_at_the_first_memory_layer",
+      "status": "PASS"
+    },
+    {
+      "name": "a_larger_algebra_coordinate_is_not_in_the_least_bank",
+      "status": "PASS"
+    },
+    {
+      "name": "cubic_obstruction_is_repaired_and_preserves_its_relation",
+      "status": "PASS"
+    },
+    {
+      "name": "ordered_quadratic_and_cubic_words_are_read_by_one_bank",
+      "status": "PASS"
+    },
+    {
+      "name": "retained_memory_algebra_has_the_stated_dimension",
+      "status": "PASS"
+    },
+    {
+      "name": "the_cut_quotient_is_not_the_lambda_multiple_quotient",
+      "status": "PASS"
+    },
+    {
+      "name": "labelled_shift_refuses_a_record_with_low_unit_coefficients",
+      "status": "PASS"
+    },
+    {
+      "name": "shallow_calibration_update_equals_the_actual_update_for_every_lift",
+      "status": "PASS"
+    },
+    {
+      "name": "labelled_calibration_record_certificate_at_depth_five",
+      "status": "PASS"
+    },
+    {
+      "name": "omitted_calibration_coefficients_cannot_affect_relative_readings",
+      "status": "PASS"
+    },
+    {
+      "name": "below_the_combined_order_no_calibration_is_needed",
+      "status": "PASS"
+    },
+    {
+      "name": "the_calibration_depth_bound_is_sharp",
+      "status": "PASS"
+    },
+    {
+      "name": "a_relative_reading_below_its_declared_order_is_refused",
+      "status": "PASS"
+    },
+    {
+      "name": "every_archived_certificate_redecodes_from_its_saved_readings",
+      "status": "PASS"
+    }
+  ],
+  "controls": [
+    "a_cut_level_calibration_is_not_in_the_memory_algebra",
+    "necessity_reads_the_offending_relative_coefficient",
+    "nonlinear_cut_action_is_refused",
+    "a_larger_algebra_coordinate_is_not_in_the_least_bank",
+    "the_cut_quotient_is_not_the_lambda_multiple_quotient",
+    "labelled_shift_refuses_a_record_with_low_unit_coefficients",
+    "the_calibration_depth_bound_is_sharp",
+    "a_relative_reading_below_its_declared_order_is_refused"
+  ],
+  "check_count": 25,
+  "negative_control_count": 8,
+  "inherited_source_pins_checked": 150,
+  "certificate_rule": "The recorded observer reading decoded for its stated target",
+  "construction": {
+    "carrier": "Finite counting sectors over Q[Lambda] and retained unit quotients",
+    "source": "Supplied affine-cut catalogue, recorded relative readings and recorded calibration readings",
+    "zero": "Typed cut operation; additive neutrals retain their separate types",
+    "inverse_of_lambda_on_R_q": false,
+    "radical_replaces_unit_relations": false,
+    "primitive_metric": false,
+    "numerical_unit_value_assumed": false,
+    "RH_development": false,
+    "curvature_developed": false
+  },
+  "finite_ranges": {
+    "monomial_bank_cases": "(n,D) in (1,2),(2,1),(2,2),(2,3)",
+    "closed_bank_depth": 3,
+    "dimension_cases": 4,
+    "least_bank_cases": 4,
+    "calibration_depths": [
+      3,
+      4,
+      5
+    ],
+    "sharpness_cases": 4
+  },
+  "details": {
+    "closed_bank_certificate": {
+      "target": "Relative readings and calibration bank after catalogue words, at depth three",
+      "sector_size": 2,
+      "degree_bound": 2,
+      "unit_memory_through": 3,
+      "formulas": [
+        {
+          "calibration": [
+            {
+              "generator": "1,0",
+              "expression": [
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "1,0"
+                  ]
+                },
+                {
+                  "coefficient": "1",
+                  "unit_power": 1,
+                  "factors": [
+                    "0,2"
+                  ]
+                }
+              ]
+            },
+            {
+              "generator": "0,1",
+              "expression": [
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "0,1"
+                  ]
+                },
+                {
+                  "coefficient": "1",
+                  "unit_power": 1,
+                  "factors": [
+                    "2,0",
+                    "1,0"
+                  ]
+                }
+              ]
+            },
+            {
+              "generator": "2,0",
+              "expression": [
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "2,0"
+                  ]
+                },
+                {
+                  "coefficient": "2",
+                  "unit_power": 0,
+                  "factors": [
+                    "1,1",
+                    "0,1"
+                  ]
+                },
+                {
+                  "coefficient": "1",
+                  "unit_power": 1,
+                  "factors": [
+                    "0,2",
+                    "0,2"
+                  ]
+                }
+              ]
+            },
+            {
+              "generator": "1,1",
+              "expression": [
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "1,1"
+                  ]
+                },
+                {
+                  "coefficient": "1",
+                  "unit_power": 1,
+                  "factors": [
+                    "2,0",
+                    "2,0"
+                  ]
+                },
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "0,2",
+                    "0,1"
+                  ]
+                },
+                {
+                  "coefficient": "1",
+                  "unit_power": 1,
+                  "factors": [
+                    "2,0",
+                    "1,1",
+                    "0,1"
+                  ]
+                }
+              ]
+            },
+            {
+              "generator": "0,2",
+              "expression": [
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "0,2"
+                  ]
+                },
+                {
+                  "coefficient": "2",
+                  "unit_power": 1,
+                  "factors": [
+                    "2,0",
+                    "1,1"
+                  ]
+                },
+                {
+                  "coefficient": "1",
+                  "unit_power": 2,
+                  "factors": [
+                    "2,0",
+                    "2,0",
+                    "2,0"
+                  ]
+                }
+              ]
+            }
+          ],
+          "relative": [
+            [
+              {
+                "beta": "1,0",
+                "expression": [
+                  {
+                    "coefficient": "1",
+                    "unit_power": 0,
+                    "factors": []
+                  }
+                ]
+              },
+              {
+                "beta": "0,1",
+                "expression": [
+                  {
+                    "coefficient": "2",
+                    "unit_power": 0,
+                    "factors": [
+                      "0,1"
+                    ]
+                  }
+                ]
+              },
+              {
+                "beta": "0,2",
+                "expression": [
+                  {
+                    "coefficient": "1",
+                    "unit_power": 1,
+                    "factors": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "beta": "0,1",
+                "expression": [
+                  {
+                    "coefficient": "1",
+                    "unit_power": 0,
+                    "factors": []
+                  }
+                ]
+              },
+              {
+                "beta": "1,0",
+                "expression": [
+                  {
+                    "coefficient": "3",
+                    "unit_power": 1,
+                    "factors": [
+                      "2,0"
+                    ]
+                  }
+                ]
+              },
+              {
+                "beta": "2,0",
+                "expression": [
+                  {
+                    "coefficient": "3",
+                    "unit_power": 1,
+                    "factors": [
+                      "1,0"
+                    ]
+                  }
+                ]
+              },
+              {
+                "beta": "3,0",
+                "expression": [
+                  {
+                    "coefficient": "1",
+                    "unit_power": 2,
+                    "factors": []
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "calibration": [
+            {
+              "generator": "1,0",
+              "expression": [
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "0,1"
+                  ]
+                }
+              ]
+            },
+            {
+              "generator": "0,1",
+              "expression": [
+                {
+                  "coefficient": "2",
+                  "unit_power": 0,
+                  "factors": [
+                    "1,0"
+                  ]
+                },
+                {
+                  "coefficient": "1",
+                  "unit_power": 1,
+                  "factors": []
+                },
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "2,0",
+                    "0,1"
+                  ]
+                }
+              ]
+            },
+            {
+              "generator": "2,0",
+              "expression": [
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "0,2"
+                  ]
+                }
+              ]
+            },
+            {
+              "generator": "1,1",
+              "expression": [
+                {
+                  "coefficient": "2",
+                  "unit_power": 0,
+                  "factors": [
+                    "1,1"
+                  ]
+                },
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "0,1"
+                  ]
+                },
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "2,0",
+                    "0,2"
+                  ]
+                }
+              ]
+            },
+            {
+              "generator": "0,2",
+              "expression": [
+                {
+                  "coefficient": "4",
+                  "unit_power": 0,
+                  "factors": [
+                    "2,0"
+                  ]
+                },
+                {
+                  "coefficient": "4",
+                  "unit_power": 0,
+                  "factors": [
+                    "1,0"
+                  ]
+                },
+                {
+                  "coefficient": "4",
+                  "unit_power": 0,
+                  "factors": [
+                    "2,0",
+                    "1,1"
+                  ]
+                },
+                {
+                  "coefficient": "1",
+                  "unit_power": 1,
+                  "factors": []
+                },
+                {
+                  "coefficient": "2",
+                  "unit_power": 0,
+                  "factors": [
+                    "2,0",
+                    "0,1"
+                  ]
+                },
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "2,0",
+                    "2,0",
+                    "0,2"
+                  ]
+                }
+              ]
+            }
+          ],
+          "relative": [
+            [
+              {
+                "beta": "0,1",
+                "expression": [
+                  {
+                    "coefficient": "1",
+                    "unit_power": 0,
+                    "factors": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "beta": "1,0",
+                "expression": [
+                  {
+                    "coefficient": "2",
+                    "unit_power": 0,
+                    "factors": []
+                  },
+                  {
+                    "coefficient": "2",
+                    "unit_power": 0,
+                    "factors": [
+                      "1,1"
+                    ]
+                  }
+                ]
+              },
+              {
+                "beta": "0,1",
+                "expression": [
+                  {
+                    "coefficient": "1",
+                    "unit_power": 0,
+                    "factors": [
+                      "2,0"
+                    ]
+                  }
+                ]
+              },
+              {
+                "beta": "1,1",
+                "expression": [
+                  {
+                    "coefficient": "2",
+                    "unit_power": 0,
+                    "factors": [
+                      "1,0"
+                    ]
+                  }
+                ]
+              },
+              {
+                "beta": "2,0",
+                "expression": [
+                  {
+                    "coefficient": "1",
+                    "unit_power": 0,
+                    "factors": [
+                      "0,1"
+                    ]
+                  }
+                ]
+              },
+              {
+                "beta": "2,1",
+                "expression": [
+                  {
+                    "coefficient": "1",
+                    "unit_power": 1,
+                    "factors": []
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "calibration": [
+            {
+              "generator": "1,0",
+              "expression": [
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "1,0"
+                  ]
+                },
+                {
+                  "coefficient": "1/2",
+                  "unit_power": 1,
+                  "factors": [
+                    "1,0"
+                  ]
+                },
+                {
+                  "coefficient": "-3",
+                  "unit_power": 2,
+                  "factors": []
+                }
+              ]
+            },
+            {
+              "generator": "0,1",
+              "expression": [
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "0,1"
+                  ]
+                }
+              ]
+            },
+            {
+              "generator": "2,0",
+              "expression": [
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "2,0"
+                  ]
+                },
+                {
+                  "coefficient": "1",
+                  "unit_power": 1,
+                  "factors": [
+                    "2,0"
+                  ]
+                },
+                {
+                  "coefficient": "1/4",
+                  "unit_power": 2,
+                  "factors": [
+                    "2,0"
+                  ]
+                },
+                {
+                  "coefficient": "-6",
+                  "unit_power": 1,
+                  "factors": [
+                    "1,0"
+                  ]
+                },
+                {
+                  "coefficient": "-3",
+                  "unit_power": 2,
+                  "factors": [
+                    "1,0"
+                  ]
+                },
+                {
+                  "coefficient": "9",
+                  "unit_power": 3,
+                  "factors": []
+                }
+              ]
+            },
+            {
+              "generator": "1,1",
+              "expression": [
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "1,1"
+                  ]
+                },
+                {
+                  "coefficient": "1/2",
+                  "unit_power": 1,
+                  "factors": [
+                    "1,1"
+                  ]
+                },
+                {
+                  "coefficient": "-3",
+                  "unit_power": 1,
+                  "factors": [
+                    "0,1"
+                  ]
+                }
+              ]
+            },
+            {
+              "generator": "0,2",
+              "expression": [
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "0,2"
+                  ]
+                }
+              ]
+            }
+          ],
+          "relative": [
+            [
+              {
+                "beta": "1,0",
+                "expression": [
+                  {
+                    "coefficient": "1",
+                    "unit_power": 0,
+                    "factors": []
+                  },
+                  {
+                    "coefficient": "1/2",
+                    "unit_power": 1,
+                    "factors": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "beta": "0,1",
+                "expression": [
+                  {
+                    "coefficient": "1",
+                    "unit_power": 0,
+                    "factors": []
+                  }
+                ]
+              }
+            ]
+          ]
+        }
+      ],
+      "calibration_bank": {
+        "1,0": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [
+                "L"
+              ],
+              [
+                "1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L"
+              ],
+              [
+                "-1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "2/5",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "0,1": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [
+                "L"
+              ],
+              [
+                "3/2",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "-4",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "2,0": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [
+                "L"
+              ],
+              [
+                "1",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L"
+              ],
+              [
+                "-2",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "9/5",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "1,1": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [
+                "L"
+              ],
+              [
+                "3/2",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L"
+              ],
+              [
+                "-3/2",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "-17/5",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "0,2": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [
+                "L"
+              ],
+              [
+                "9/4",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "-12",
+                "0"
+              ]
+            ]
+          ]
+        }
+      },
+      "relative_reading": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "-1/2",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L"
+            ],
+            [
+              "4",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X"
+            ],
+            [
+              "-7/2",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L"
+            ],
+            [
+              "-2/5",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "X"
+            ],
+            [
+              "1/3",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L"
+            ],
+            [
+              "-1",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "X"
+            ],
+            [
+              "5",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L",
+              "X"
+            ],
+            [
+              "-1",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "future_protocols": [
+        {
+          "word": [
+            0
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-1/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "23/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-7/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-26/15",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "1/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "64/9",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "33/8",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "17/4",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          "calibration_bank": {
+            "1,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "5/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "2/5",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "3/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-3",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "2,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "5/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "189/80",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "1,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "3/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "15/8",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-12/5",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,2": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-9",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "word": [
+            1,
+            0
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-7/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-14/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "30",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "278/15",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "-1811/120",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "-269/20",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          "calibration_bank": {
+            "1,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "3/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "9",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-7",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-1/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "47/40",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "2,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "27",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "60",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "1,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "105/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-1899/80",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,2": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "73/10",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "word": [
+            2,
+            1,
+            0
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-7/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-14/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "38",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "11/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "2597/60",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "229/120",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "-229/15",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          "calibration_bank": {
+            "1,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "3/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "9",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-37",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-11/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-293/40",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "2,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "27",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-30",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "1,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "75/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-13719/80",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,2": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-33",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-137/10",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "word": [
+            0,
+            0,
+            1,
+            2
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-7/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-17/12",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "41/12",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "13",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "59/8",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "-771/20",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "-163309/720",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          "calibration_bank": {
+            "1,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "3/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-9/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-2",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "17/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "113/10",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "2,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-27/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-15/16",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "1,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "6",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-327/40",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,2": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "51",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "2801/20",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "word": [
+            1,
+            2,
+            1,
+            0,
+            0,
+            2
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-17/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-7",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-3103/60",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "-19/12",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-43969/90",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "1081/24",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "-46841/720",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          "calibration_bank": {
+            "1,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "30",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "991/20",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "9/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "197/8",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "2,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "180",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "11973/10",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "1,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "12",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "507/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "13583/40",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,2": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "16",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "18",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "3233/16",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        }
+      ],
+      "decoded": [
+        {
+          "word": [
+            0
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-1/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "23/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-7/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-26/15",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "1/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "64/9",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "33/8",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "17/4",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          "calibration_bank": {
+            "1,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "5/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "2/5",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "3/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-3",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "2,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "1",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "5/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "189/80",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "1,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "3/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "15/8",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-12/5",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,2": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-9",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "word": [
+            1,
+            0
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-7/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-14/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "30",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "278/15",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "-1811/120",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "-269/20",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          "calibration_bank": {
+            "1,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "3/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "9",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-7",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-1/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "47/40",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "2,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "27",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "60",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "1,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "105/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-1899/80",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,2": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "73/10",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "word": [
+            2,
+            1,
+            0
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-7/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-14/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "38",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "11/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "2597/60",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "229/120",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "-229/15",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          "calibration_bank": {
+            "1,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "3/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "9",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-37",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-11/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-293/40",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "2,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "27",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-30",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "1,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "75/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-13719/80",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,2": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-33",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-137/10",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "word": [
+            0,
+            0,
+            1,
+            2
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-7/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-17/12",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "41/12",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "13",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "59/8",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "-771/20",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "-163309/720",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          "calibration_bank": {
+            "1,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "3/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-9/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-2",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "17/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "113/10",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "2,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-27/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-15/16",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "1,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "6",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-327/40",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,2": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "51",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "2801/20",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "word": [
+            1,
+            2,
+            1,
+            0,
+            0,
+            2
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-17/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "-7",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-3103/60",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "-19/12",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-43969/90",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "1081/24",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "-46841/720",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          "calibration_bank": {
+            "1,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "30",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "991/20",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "9/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "197/8",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "2,0": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "9",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "180",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "11973/10",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "1,1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "12",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "507/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "13583/40",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "0,2": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "16",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "18",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "3233/16",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "ordered_word_certificate": {
+      "target": "Relative readings of the ordered words g3 g2 and g2 g3, depth three",
+      "sector_size": 1,
+      "degree_bound": 2,
+      "unit_memory_through": 3,
+      "formulas": [
+        {
+          "calibration": [
+            {
+              "generator": "1",
+              "expression": [
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "1"
+                  ]
+                },
+                {
+                  "coefficient": "1",
+                  "unit_power": 1,
+                  "factors": [
+                    "2"
+                  ]
+                }
+              ]
+            },
+            {
+              "generator": "2",
+              "expression": [
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "2"
+                  ]
+                },
+                {
+                  "coefficient": "2",
+                  "unit_power": 0,
+                  "factors": [
+                    "2",
+                    "1"
+                  ]
+                },
+                {
+                  "coefficient": "1",
+                  "unit_power": 1,
+                  "factors": [
+                    "2",
+                    "2"
+                  ]
+                }
+              ]
+            }
+          ],
+          "relative": [
+            [
+              {
+                "beta": "1",
+                "expression": [
+                  {
+                    "coefficient": "1",
+                    "unit_power": 0,
+                    "factors": []
+                  },
+                  {
+                    "coefficient": "2",
+                    "unit_power": 0,
+                    "factors": [
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              {
+                "beta": "2",
+                "expression": [
+                  {
+                    "coefficient": "1",
+                    "unit_power": 1,
+                    "factors": []
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "calibration": [
+            {
+              "generator": "1",
+              "expression": [
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "1"
+                  ]
+                },
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "2",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "generator": "2",
+              "expression": [
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "2"
+                  ]
+                },
+                {
+                  "coefficient": "2",
+                  "unit_power": 0,
+                  "factors": [
+                    "2",
+                    "2"
+                  ]
+                },
+                {
+                  "coefficient": "1",
+                  "unit_power": 0,
+                  "factors": [
+                    "2",
+                    "2",
+                    "2"
+                  ]
+                }
+              ]
+            }
+          ],
+          "relative": [
+            [
+              {
+                "beta": "1",
+                "expression": [
+                  {
+                    "coefficient": "1",
+                    "unit_power": 0,
+                    "factors": []
+                  },
+                  {
+                    "coefficient": "3",
+                    "unit_power": 0,
+                    "factors": [
+                      "2"
+                    ]
+                  }
+                ]
+              },
+              {
+                "beta": "2",
+                "expression": [
+                  {
+                    "coefficient": "3",
+                    "unit_power": 0,
+                    "factors": [
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              {
+                "beta": "3",
+                "expression": [
+                  {
+                    "coefficient": "1",
+                    "unit_power": 1,
+                    "factors": []
+                  }
+                ]
+              }
+            ]
+          ]
+        }
+      ],
+      "calibration_bank": {
+        "1": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [
+                "L"
+              ],
+              [
+                "1/2",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "2",
+                "0"
+              ]
+            ]
+          ]
+        },
+        "2": {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [
+                "L"
+              ],
+              [
+                "1/4",
+                "0"
+              ]
+            ],
+            [
+              [
+                "L",
+                "L",
+                "L"
+              ],
+              [
+                "2",
+                "0"
+              ]
+            ]
+          ]
+        }
+      },
+      "relative_reading": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [],
+            [
+              "3/2",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L"
+            ],
+            [
+              "-1",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L"
+            ],
+            [
+              "-5/3",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L"
+            ],
+            [
+              "6",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "future_protocols": [
+        {
+          "word": [
+            0,
+            1
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "3/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "85/8",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "1447/48",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "1415/96",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          "calibration_bank": {
+            "1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "1/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "3/8",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "35/16",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "2": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "1/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "3/8",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "149/64",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "word": [
+            1,
+            0
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "3/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "85/8",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "341/24",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "2845/192",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          "calibration_bank": {
+            "1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "1/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "3/8",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "17/8",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "2": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "1/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "3/8",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "145/64",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        }
+      ],
+      "decoded": [
+        {
+          "word": [
+            0,
+            1
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "3/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "85/8",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "1447/48",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "1415/96",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          "calibration_bank": {
+            "1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "1/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "3/8",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "35/16",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "2": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "1/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "3/8",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "149/64",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "word": [
+            1,
+            0
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "3/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "85/8",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "341/24",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "2845/192",
+                  "0"
+                ]
+              ]
+            ]
+          },
+          "calibration_bank": {
+            "1": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "1/2",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "3/8",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "17/8",
+                    "0"
+                  ]
+                ]
+              ]
+            },
+            "2": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "1/4",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "3/8",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "145/64",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "calibration_depth_certificate": {
+      "target": "Relative readings after catalogue words, from Lambda^2 c and Delta at depth five",
+      "unit_memory_through": 5,
+      "relative_order": 1,
+      "common_unit_order": 1,
+      "catalogue": [
+        {
+          "A": [
+            "1"
+          ],
+          "b": [],
+          "w": 1,
+          "H": [
+            [
+              "3",
+              [
+                "1"
+              ]
+            ]
+          ]
+        },
+        {
+          "A": [
+            "1",
+            "1"
+          ],
+          "b": [
+            "1/2"
+          ],
+          "w": 1,
+          "H": [
+            [
+              "2",
+              [
+                "1"
+              ]
+            ],
+            [
+              "3",
+              [
+                "0",
+                "-2"
+              ]
+            ]
+          ]
+        },
+        {
+          "A": [
+            "2"
+          ],
+          "b": [
+            "0",
+            "3"
+          ],
+          "w": 1,
+          "H": [
+            [
+              "1",
+              [
+                "-1"
+              ]
+            ],
+            [
+              "4",
+              [
+                "1"
+              ]
+            ]
+          ]
+        }
+      ],
+      "calibration_record": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [
+              "L",
+              "L"
+            ],
+            [
+              "2",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L"
+            ],
+            [
+              "-1",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L",
+              "L"
+            ],
+            [
+              "1/3",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L",
+              "L",
+              "L"
+            ],
+            [
+              "4",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "relative_reading": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [
+              "L"
+            ],
+            [
+              "3/2",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L"
+            ],
+            [
+              "-2",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L",
+              "L"
+            ],
+            [
+              "1",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "future_protocols": [
+        {
+          "word": [
+            0
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "3/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-57/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-31/8",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "391/4",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            1,
+            0
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "3/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "269/8",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "743/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-9579/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-110891/24",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            2,
+            1,
+            0,
+            0
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "434",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "526777/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "110086137/64",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "49177072763/768",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            1,
+            2,
+            2,
+            0,
+            1
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "7259/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "3848125/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "9952381899/64",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "53898407344741/3072",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "3184",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "990725/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "193564141/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "43050426121/12",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "decoded": [
+        {
+          "word": [
+            0
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "3/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-57/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-31/8",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "391/4",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            1,
+            0
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "3/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "269/8",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "743/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-9579/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "-110891/24",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            2,
+            1,
+            0,
+            0
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "434",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "526777/16",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "110086137/64",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "49177072763/768",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            1,
+            2,
+            2,
+            0,
+            1
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "7259/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "3848125/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "9952381899/64",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "53898407344741/3072",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2
+          ],
+          "relative_reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "L"
+                ],
+                [
+                  "6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "3184",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "990725/2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "193564141/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "43050426121/12",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "evidence": {
+    "general_results": "Five written derivation groups",
+    "executable": "Exact recorded-reading decoding and counterexamples using unchanged canonical engines",
+    "formal_proof_assistant": false,
+    "external_review": false,
+    "whole_engine_pass": false
+  },
+  "not_claimed": [
+    "a minimum among all observers or decoder types",
+    "finite generation of the least all-depth calibration subalgebra for every catalogue",
+    "finite information at infinite depth",
+    "recovery of an absolute target from a relative reading and a shortened calibration",
+    "noisy measurement, conditioning or acquisition cost",
+    "convergence at a nonzero numerical unit",
+    "new RH, Yang-Mills or curvature result",
+    "novelty priority for binomial expansion, monomial independence or coefficient shifts"
+  ]
+}

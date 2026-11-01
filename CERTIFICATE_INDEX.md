@@ -751,7 +751,7 @@ proof_lab/SEMANTIC_PANINIAN_NORMAL_FORM_EXPECTED.sha256
 
 | Lineage | Canonical surface | Recorded status |
 |---|---|---|
-| Morphic Recognition | `theorum/morphic_recognition/` (MR-01–MR-03) | general proofs plus RNKE proof contracts; executable calibration is not universal formal proof |
+| Morphic Recognition | `theorum/morphic_recognition/` (MR-01–MR-07) | general proofs plus separate source-pinned finite contracts; executable calibration is not universal formal proof |
 | Recognition Topology | `theorum/recognition_topology/` (RT-01–RT-04) | bounded topological theorems and explicit non-claims |
 | Singularity Calculus | `theorum/singularity_calculus/` (SC-01–SC-18) | `RNKE_VERIFIED_SINGULARITY_THEORY_V5_WITH_EXCLUSIONS` |
 | Stratified Recognition | `theorum/stratified_recognition/` (SR-01–SR-04) | `RNKE_VERIFIED_STRATIFIED_RECOGNITION_LINEAR_CORE` |
@@ -759,6 +759,35 @@ proof_lab/SEMANTIC_PANINIAN_NORMAL_FORM_EXPECTED.sha256
 | Morphic Calculus | `theorum/morphic_calculus/` | `RNKE_VERIFIED_WITH_OPEN_OBLIGATIONS`; full manuscript certification false |
 | Morphic Operator Geometry | `theorum/morphic_geometry/` | `RNKE_VERIFIED_WITH_OPEN_OBLIGATIONS`; audited corrections and rejected overclaims retained |
 
-## Consolidation regression record
+## MR-04–MR-07 memory certificate
+
+- Scope and proof route: [Memory development](theorum/morphic_recognition/MEMORY_DEVELOPMENT.md).
+- Actual run evidence: [Verification record](theorum/morphic_recognition/MEMORY_VERIFICATION.md).
+- Finite evidence: [Certificate](theorum/morphic_recognition/MEMORY_CERTIFICATE.json).
+- Immutable-input specification: [Source manifest](theorum/morphic_recognition/MEMORY_SOURCE_MANIFEST.json).
+- Internal review: [Development review](theorum/morphic_recognition/DEVELOPMENT_REVIEW.md).
+- Reproduce: `python3.12 -m proof_lab.morphic_recognition.certify_memory --check-archive`.
+
+Formal proof-assistant and external peer-review status remain `NOT CLAIMED`.
+
+## Earlier consolidation regression record
 
 On the 2026-09-12 pre-publish consolidated tree, Python 3.12 compilation and complete unittest discovery reported `Ran 344 tests` and `OK`. This is an operational regression result, not an independent proof of every manuscript statement. See `theorum/BRANCH_CONSOLIDATION_AUDIT.md` for graph ancestry, merge provenance, and the hosted-CI boundary.
+
+## 1 November 2026 integrated research evidence
+
+The [integration audit](research-history/PENDING_WORK_2026_11_01.md) records fresh
+local checks separately from the imported historical certificates.
+
+| Packet | Evidence and scope |
+|---|---|
+| R3 structure report | [Finite certificate](research/structure_report/RESULT.json), [mutation controls](research/structure_report/MUTATIONS.json) |
+| R4 declared-pairing repair | [Finite certificate](research/structure_report/r4/RESULT.json), [mutation controls](research/structure_report/r4/MUTATIONS.json) |
+| SS1 complementary signals | [Finite evidence](research/sectoral_signal/RESULT.json) |
+| Source-energy SE1–SE49 | [Paper certificate table](papers/rkf_completed_weil_endpoint/CERTIFICATE_TABLE.md), [current SE49 scope](papers/rkf_completed_weil_endpoint/development/SE49_SCOPE.md) |
+| Lambda-counting continuation | [Stage index](research/lambda_counting/INDEX.md) |
+
+SE49's archived V_24 result remains a finite complete-source subspace statement.
+All-order positivity, global eta zero, K0 and RH remain open. The later-stage
+numerical campaigns were imported with their source bytes and history intact;
+this integration does not claim a fresh execution of every campaign.

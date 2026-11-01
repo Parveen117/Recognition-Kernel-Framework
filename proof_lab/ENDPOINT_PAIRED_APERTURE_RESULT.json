@@ -1,0 +1,160 @@
+{
+  "schema": "rkf.endpoint-paired-aperture-budget.v1",
+  "date": "2026-10-11",
+  "arithmetic": "Python Fraction; no floating point, quadrature or eigenvalue sampling",
+  "check_count": 25,
+  "checks": [
+    {
+      "name": "three_term_log2_lower_exceeds_693_over_1000",
+      "status": "PASS"
+    },
+    {
+      "name": "harmonic_gamma_upper_below_three_fifths",
+      "status": "PASS"
+    },
+    {
+      "name": "exp_seven_tenths_exceeds_two",
+      "status": "PASS"
+    },
+    {
+      "name": "exp_six_fifths_exceeds_pi_upper",
+      "status": "PASS"
+    },
+    {
+      "name": "gamma_ground_upper_below_eleven_halves",
+      "status": "PASS"
+    },
+    {
+      "name": "128_positive_gamma_terms_at_16_exceed_63_over_10",
+      "status": "PASS"
+    },
+    {
+      "name": "128_positive_gamma_terms_at_24_exceed_67_over_10",
+      "status": "PASS"
+    },
+    {
+      "name": "exp_three_sixteenths_below_two",
+      "status": "PASS"
+    },
+    {
+      "name": "exp_three_halves_below_five",
+      "status": "PASS"
+    },
+    {
+      "name": "exp_one_below_three",
+      "status": "PASS"
+    },
+    {
+      "name": "small_aperture_diameter_below_first_prime",
+      "status": "PASS"
+    },
+    {
+      "name": "prime_two_cross_cost_below_one",
+      "status": "PASS"
+    },
+    {
+      "name": "cosh_half_geometric_upper_below_three_halves",
+      "status": "PASS"
+    },
+    {
+      "name": "small_gamma_floor_one_third",
+      "status": "PASS"
+    },
+    {
+      "name": "small_boundary_upper_one_over_6144",
+      "status": "PASS"
+    },
+    {
+      "name": "small_native_source_floor",
+      "status": "PASS"
+    },
+    {
+      "name": "small_joint_observer_reserve",
+      "status": "PASS"
+    },
+    {
+      "name": "thirty_moment_low_frequency_mass_below_one_over_500",
+      "status": "PASS"
+    },
+    {
+      "name": "prime_active_physical_reserve",
+      "status": "PASS"
+    },
+    {
+      "name": "prime_active_native_complement_floor",
+      "status": "PASS"
+    },
+    {
+      "name": "prime_active_observer_reserve",
+      "status": "PASS"
+    },
+    {
+      "name": "prime_active_inverse_bound",
+      "status": "PASS"
+    },
+    {
+      "name": "fifteen_odd_moment_labels",
+      "status": "PASS"
+    },
+    {
+      "name": "mixed_block_promotion_is_rejected",
+      "status": "PASS"
+    },
+    {
+      "name": "using_only_oddness_for_big_aperture_budget_is_rejected",
+      "status": "PASS"
+    }
+  ],
+  "small_aperture": {
+    "radius": "1/16",
+    "scope": "All states of the odd native aperture completion",
+    "physical_source_floor": "2047/6144",
+    "native_source_floor": "2047/88064",
+    "relative_joint_reserve": "2047/484352",
+    "active_prime_powers": []
+  },
+  "prime_active_complement": {
+    "radius": "1/2",
+    "active_prime_powers": [
+      2
+    ],
+    "moment_exponents": [
+      1,
+      3,
+      5,
+      7,
+      9,
+      11,
+      13,
+      15,
+      17,
+      19,
+      21,
+      23,
+      25,
+      27,
+      29
+    ],
+    "codimension": 15,
+    "physical_source_floor_used": "1/10",
+    "native_source_floor": "8/1453",
+    "relative_joint_reserve": "16/15983",
+    "inverse_norm_upper": "1453/8",
+    "remaining_schur_matrix_dimension": 15,
+    "schur_matrix_evaluated": false,
+    "schur_matrix_sign_certified": false
+  },
+  "analytic_inputs": [
+    "SE4 corrected central-Gamma source and exact odd boundary",
+    "SE6 support rule, moment mass inequality and native norm transport",
+    "Positive digamma difference series and 3 < pi < 22/7",
+    "SE4 full mismatch norm squared < 11/2"
+  ],
+  "not_certified": [
+    "Full sign on the prime-active aperture",
+    "Unbounded-aperture limit or global norm-one observer",
+    "Historical five-label endpoint identification or K0",
+    "Riemann hypothesis",
+    "Proof-assistant verification or external mathematical review"
+  ]
+}

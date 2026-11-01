@@ -1,0 +1,2133 @@
+{
+  "schema": "rkf.lambda-reading-calculus.v1",
+  "date": "2026-10-12",
+  "status": "PASS_COUNTING_OBSERVER_READING_CALCULUS",
+  "theorem_count": 5,
+  "checks": [
+    {
+      "name": "native_counting_module_action_respects_the_existing_relation",
+      "status": "PASS"
+    },
+    {
+      "name": "response_packets_exclude_operator_tokens_and_out_of_carrier_scalars",
+      "status": "PASS"
+    },
+    {
+      "name": "arbitrary_finite_columns_decode_without_a_global_order_bound",
+      "status": "PASS"
+    },
+    {
+      "name": "successive_decoders_preserve_every_earlier_normal_coefficient",
+      "status": "PASS"
+    },
+    {
+      "name": "finite_readings_do_not_identify_the_full_unknown_operator",
+      "status": "PASS"
+    },
+    {
+      "name": "reading_partial_matches_a_finite_mixed_input_exactly",
+      "status": "PASS"
+    },
+    {
+      "name": "composition_aperture_is_obtained_from_the_recorded_response_support",
+      "status": "PASS"
+    },
+    {
+      "name": "every_requested_basis_column_can_change_the_target_product",
+      "status": "PASS"
+    },
+    {
+      "name": "a_same_size_prefix_can_lose_the_next_composition_response",
+      "status": "PASS"
+    },
+    {
+      "name": "missing_required_readings_are_reported_as_unread",
+      "status": "PASS"
+    },
+    {
+      "name": "an_empty_right_response_needs_no_left_readings",
+      "status": "PASS"
+    },
+    {
+      "name": "ordered_composition_is_associative_on_finite_counting_states",
+      "status": "PASS"
+    },
+    {
+      "name": "unit_cuts_commute_with_adaptive_composition",
+      "status": "PASS"
+    },
+    {
+      "name": "unit_cut_commutes_with_successive_response_decoding",
+      "status": "PASS"
+    },
+    {
+      "name": "a_fixed_unit_depth_does_not_recover_every_later_response",
+      "status": "PASS"
+    },
+    {
+      "name": "complete_finite_response_banks_have_readable_finite_unit_depth",
+      "status": "PASS"
+    },
+    {
+      "name": "arbitrary_count_profiles_decode_from_their_counting_values",
+      "status": "PASS"
+    },
+    {
+      "name": "count_profile_products_are_pointwise_products",
+      "status": "PASS"
+    },
+    {
+      "name": "residue_sector_projections_partition_and_route_counts",
+      "status": "PASS"
+    },
+    {
+      "name": "prime_selection_uses_the_existing_positive_count_divisibility",
+      "status": "PASS"
+    },
+    {
+      "name": "inverse_of_N_plus_I_is_read_count_by_count",
+      "status": "PASS"
+    },
+    {
+      "name": "nonunit_count_profile_does_not_acquire_a_rational_polynomial_inverse",
+      "status": "PASS"
+    },
+    {
+      "name": "generated_lowering_rule_is_read_directly_from_D_and_X",
+      "status": "PASS"
+    },
+    {
+      "name": "inverse_decoder_uses_only_the_archived_lowering_response_bank",
+      "status": "PASS"
+    },
+    {
+      "name": "inverse_readings_obey_both_inverse_identities_on_the_declared_prefix",
+      "status": "PASS"
+    },
+    {
+      "name": "recursive_inverse_matches_independent_finite_geometric_action",
+      "status": "PASS"
+    },
+    {
+      "name": "inverse_reading_matches_the_counted_product_formula",
+      "status": "PASS"
+    },
+    {
+      "name": "inverse_survives_the_operator_cut_with_its_declared_unit_layers",
+      "status": "PASS"
+    },
+    {
+      "name": "inverse_readings_extend_without_changing_an_earlier_response",
+      "status": "PASS"
+    },
+    {
+      "name": "infinite_order_inverse_has_a_visible_high_input_constant_response",
+      "status": "PASS"
+    },
+    {
+      "name": "raising_is_not_silently_admitted_as_a_lowering_inverse",
+      "status": "PASS"
+    }
+  ],
+  "controls": [
+    "response_packets_exclude_operator_tokens_and_out_of_carrier_scalars",
+    "finite_readings_do_not_identify_the_full_unknown_operator",
+    "every_requested_basis_column_can_change_the_target_product",
+    "a_same_size_prefix_can_lose_the_next_composition_response",
+    "missing_required_readings_are_reported_as_unread",
+    "a_fixed_unit_depth_does_not_recover_every_later_response",
+    "nonunit_count_profile_does_not_acquire_a_rational_polynomial_inverse",
+    "infinite_order_inverse_has_a_visible_high_input_constant_response",
+    "raising_is_not_silently_admitted_as_a_lowering_inverse"
+  ],
+  "check_count": 31,
+  "negative_control_count": 9,
+  "inherited_source_pins_checked": 105,
+  "certificate_rule": "The recorded observer reading decoded for its stated target",
+  "construction": {
+    "carrier": "Finite counting states over Q[Lambda]",
+    "operator_completion": "All column-finite R-linear counting actions",
+    "convergence": "Eventual exact agreement on every finite input prefix",
+    "primitive_metric": false,
+    "analytic_convergence_assumed": false,
+    "curvature_developed": false,
+    "RH_development": false,
+    "full_infinite_black_box_certified_by_finite_data": false
+  },
+  "finite_ranges": {
+    "arbitrary_column_recovery_prefix_through": 8,
+    "count_profiles_through": 12,
+    "sector_moduli": [
+      2,
+      3,
+      5
+    ],
+    "prime_selection_through": 30,
+    "lowering_formula_through": 10,
+    "inverse_prefix_through": 7,
+    "unit_cut_orders_through": 5
+  },
+  "details": {
+    "adaptive_observer_certificate": {
+      "rule": "Certification is the recorded observer reading decoded for its declared target",
+      "target": "Ordered product action on the specified finite input prefix",
+      "input_prefix_through": 3,
+      "right_readings": [
+        {
+          "probe": 0,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 1,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 2,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 3,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "required_left_indices": [
+        1,
+        3,
+        5,
+        7
+      ],
+      "left_readings": [
+        {
+          "probe": 1,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 3,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "6",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 5,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "20",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 7,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "7",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "42",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "decoded_product": [
+        {
+          "probe": 0,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 1,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "6",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 2,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "20",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 3,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "7",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "42",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "verdict": "COMPLETE_PRODUCT_READING_ON_DECLARED_INPUT_PREFIX"
+    },
+    "prime_count_selection": {
+      "through": 30,
+      "selected": [
+        2,
+        3,
+        5,
+        7,
+        11,
+        13,
+        17,
+        19,
+        23,
+        29
+      ],
+      "distribution_claim": false
+    },
+    "inverse_observer_certificate": {
+      "rule": "Certification is the recorded observer reading decoded for its declared target",
+      "target": "Two-sided inverse action of I-L on the supplied lowering prefix",
+      "input_prefix_through": 7,
+      "lowering_readings": [
+        {
+          "probe": 0,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": []
+          }
+        },
+        {
+          "probe": 1,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 2,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "X"
+                ],
+                [
+                  "2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "2",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 3,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "6",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 4,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "12",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 5,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "20",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 6,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "30",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 7,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "7",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "42",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "decoded_inverse": [
+        {
+          "probe": 0,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 1,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 2,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "2",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 3,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "18",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "12",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "18",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "12",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 4,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "24",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "144",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "24",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "264",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "144",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "12",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "144",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "264",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "60",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "144",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "72",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "12",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 5,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "120",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1200",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "120",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "4200",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "1200",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "60",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "6000",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "4200",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "540",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "20",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "2880",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "6000",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1560",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "140",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "5",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "2880",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1440",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "240",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "20",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 6,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "720",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "10800",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "720",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "61200",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "10800",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "360",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "162000",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "61200",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "5040",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "120",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "197280",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "162000",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "25560",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1440",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "30",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "86400",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "197280",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "55440",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "5640",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "270",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "6",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "86400",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "43200",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "7200",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "600",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "30",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "probe": 7,
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "5040",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "105840",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X"
+                ],
+                [
+                  "5040",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "882000",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "105840",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X"
+                ],
+                [
+                  "2520",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "3704400",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "882000",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "50400",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "840",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "8184960",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "3704400",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "390600",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "15120",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "210",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "8890560",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "8184960",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1461600",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "99960",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "3150",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "42",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L"
+                ],
+                [
+                  "3628800",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "8890560",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "2630880",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "287280",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "15540",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "462",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "7",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "X"
+                ],
+                [
+                  "3628800",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1814400",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "302400",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "25200",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1260",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "42",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "verdict": "COMPLETE_INVERSE_READING_ON_DECLARED_INPUT_PREFIX"
+    }
+  },
+  "evidence": {
+    "general_results": "Five written proofs derived from counting actions",
+    "executable": "Exact observer reading/decoding examples on unchanged canonical engines",
+    "formal_proof_assistant": false,
+    "external_review": false,
+    "whole_engine_pass": false
+  },
+  "not_claimed": [
+    "bounded operators on an unspecified normed space",
+    "uniform noisy-data stability",
+    "infinite state series on this carrier",
+    "global identification from a finite unknown response bank",
+    "new prime-distribution law",
+    "new RH or curvature result"
+  ]
+}

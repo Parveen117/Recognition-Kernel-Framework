@@ -1,0 +1,416 @@
+{
+  "schema": "rkf.endpoint-global-eta-certificate.v1",
+  "date": "2026-10-12",
+  "status": "PASS_GLOBAL_POSITIVE_ETA_AND_LOCALIZATION_BUDGETS",
+  "arithmetic": "90-digit outward Decimal intervals and exact Fraction inequalities",
+  "check_count": 39,
+  "checks": [
+    {
+      "name": "complete_prime_mass_positive",
+      "status": "PASS"
+    },
+    {
+      "name": "complete_prime_mass_below_57_over_100",
+      "status": "PASS"
+    },
+    {
+      "name": "gamma_ground_below_269_over_50",
+      "status": "PASS"
+    },
+    {
+      "name": "exact_weighted_boundary_constant_below_one_tenth",
+      "status": "PASS"
+    },
+    {
+      "name": "global_eta_exact_value",
+      "status": "PASS"
+    },
+    {
+      "name": "global_polynomial_endpoint_matches",
+      "status": "PASS"
+    },
+    {
+      "name": "remaining_weighted_reserve_positive",
+      "status": "PASS"
+    },
+    {
+      "name": "shift_below_one",
+      "status": "PASS"
+    },
+    {
+      "name": "gamma_jump_second_moment_below_seventeen",
+      "status": "PASS"
+    },
+    {
+      "name": "pi_bound_for_transition",
+      "status": "PASS"
+    },
+    {
+      "name": "gamma_localization_integer_coefficient",
+      "status": "PASS"
+    },
+    {
+      "name": "boundary_unweighted_norm",
+      "status": "PASS"
+    },
+    {
+      "name": "boundary_square_root_majorant",
+      "status": "PASS"
+    },
+    {
+      "name": "log_two_rational_radius_majorant",
+      "status": "PASS"
+    },
+    {
+      "name": "outer_source_coefficient",
+      "status": "PASS"
+    },
+    {
+      "name": "combined_localization_identity_k_1",
+      "status": "PASS"
+    },
+    {
+      "name": "all_k_rational_majorant_at_k_1",
+      "status": "PASS"
+    },
+    {
+      "name": "combined_localization_identity_k_2",
+      "status": "PASS"
+    },
+    {
+      "name": "all_k_rational_majorant_at_k_2",
+      "status": "PASS"
+    },
+    {
+      "name": "combined_localization_identity_k_4",
+      "status": "PASS"
+    },
+    {
+      "name": "all_k_rational_majorant_at_k_4",
+      "status": "PASS"
+    },
+    {
+      "name": "combined_localization_identity_k_5",
+      "status": "PASS"
+    },
+    {
+      "name": "all_k_rational_majorant_at_k_5",
+      "status": "PASS"
+    },
+    {
+      "name": "combined_localization_identity_k_6",
+      "status": "PASS"
+    },
+    {
+      "name": "all_k_rational_majorant_at_k_6",
+      "status": "PASS"
+    },
+    {
+      "name": "combined_localization_identity_k_8",
+      "status": "PASS"
+    },
+    {
+      "name": "all_k_rational_majorant_at_k_8",
+      "status": "PASS"
+    },
+    {
+      "name": "combined_localization_identity_k_10",
+      "status": "PASS"
+    },
+    {
+      "name": "all_k_rational_majorant_at_k_10",
+      "status": "PASS"
+    },
+    {
+      "name": "combined_localization_identity_k_16",
+      "status": "PASS"
+    },
+    {
+      "name": "all_k_rational_majorant_at_k_16",
+      "status": "PASS"
+    },
+    {
+      "name": "combined_localization_identity_k_24",
+      "status": "PASS"
+    },
+    {
+      "name": "all_k_rational_majorant_at_k_24",
+      "status": "PASS"
+    },
+    {
+      "name": "scheduled_budget_eta_1/2",
+      "status": "PASS"
+    },
+    {
+      "name": "scheduled_budget_eta_1/4",
+      "status": "PASS"
+    },
+    {
+      "name": "scheduled_budget_eta_1/10",
+      "status": "PASS"
+    },
+    {
+      "name": "scheduled_budget_eta_1/100",
+      "status": "PASS"
+    },
+    {
+      "name": "scheduled_budget_eta_1/1000",
+      "status": "PASS"
+    },
+    {
+      "name": "no_scheduled_local_sign_promotion",
+      "status": "PASS"
+    }
+  ],
+  "global_source": {
+    "eta": "326/369",
+    "invariant_negative_count": 0,
+    "nullity": 0,
+    "scope": "Entire corrected complex odd native source; every eta >= the certified threshold",
+    "lower_bound": "S_b >= -(326/369) I_X",
+    "remaining_weighted_reserve": "7877/36900",
+    "weighted_reserve_operator": "iota-dagger M_(1-exp(-3*abs(x))) iota",
+    "eta_zero_certified": false
+  },
+  "gamma_ground_enclosure": [
+    "5.37218341922566558223295749744974228899867073573904058965032084762776218628152393474654927",
+    "5.37218341922566558223295749744974228903040764793120471831479545362417036262819833375918557"
+  ],
+  "prime_mass": {
+    "method": "Absolutely convergent Euler/alternating Dirichlet identity at s=2",
+    "terms": 1024,
+    "complete_enclosure": [
+      "0.569956906763249349865377063087489072872895706029865388803391980480450920508433773652923349",
+      "0.569965072019515067273715917038120740867295954685642708602782770717403637787250653126338932"
+    ],
+    "alternating_denominator": [
+      "0.822466557052615858331007533627592259688512905440533074937627376054409564973246768628635714",
+      "0.822467508867012051073422762657931343567156569925958416995926007821215037906024876897523282"
+    ],
+    "alternating_logarithmic_sum": [
+      "-0.101319880351937605822270476994479658716096231981756442481683539189461782761146290089931011",
+      "-0.101313281948233551084801762389326069392724498382062987312543794219854921762605591959735269"
+    ],
+    "rational_upper": "57/100"
+  },
+  "weighted_boundary": {
+    "exact_constant": "log(3)-1",
+    "enclosure": [
+      "0.09861228866810969139524523692252570464749055782274945173469433363749429321860896687361560",
+      "0.09861228866810969139524523692252570464749055782274945173469433363749429321860896687361601"
+    ],
+    "rational_upper": "1/10"
+  },
+  "localization": {
+    "transition_width": "1",
+    "gamma_coefficient": "41",
+    "all_prime_and_boundary_tails_included": true,
+    "gamma_second_moment_upper": "2026/125",
+    "budgets": [
+      {
+        "m": 2,
+        "inner_radius": [
+          "0.693147180559945309417232121458176568075500134360255254120680009493393621969694715605863222",
+          "0.693147180559945309417232121458176568075500134360255254120680009493393621969694715605863625"
+        ],
+        "zero_local_global_allowance": [
+          "15.9711547465398496008973883340099855622076253694907019488318700261068324604166604679161238",
+          "15.9711547465398496008973883340099855622076253694907019488318700261068324604166604679161251"
+        ],
+        "status": "BUDGET_ONLY_LOCAL_SIGN_NOT_EVALUATED"
+      },
+      {
+        "m": 4,
+        "inner_radius": [
+          "1.38629436111989061883446424291635313615100026872051050824136001898678724393938943121172644",
+          "1.38629436111989061883446424291635313615100026872051050824136001898678724393938943121172725"
+        ],
+        "zero_local_global_allowance": [
+          "5.28314609202321711584495159143195854049377111884887574833977835350679478001893460399579267",
+          "5.28314609202321711584495159143195854049377111884887574833977835350679478001893460399579356"
+        ],
+        "status": "BUDGET_ONLY_LOCAL_SIGN_NOT_EVALUATED"
+      },
+      {
+        "m": 16,
+        "inner_radius": [
+          "2.77258872223978123766892848583270627230200053744102101648272003797357448787877886242345288",
+          "2.77258872223978123766892848583270627230200053744102101648272003797357448787877886242345450"
+        ],
+        "zero_local_global_allowance": [
+          "0.970395972442871376027812017249219137104190215433753048985354799528383259860320103027772141",
+          "0.970395972442871376027812017249219137104190215433753048985354799528383259860320103027772483"
+        ],
+        "status": "BUDGET_ONLY_LOCAL_SIGN_NOT_EVALUATED"
+      },
+      {
+        "m": 32,
+        "inner_radius": [
+          "3.46573590279972654708616060729088284037750067180127627060340004746696810984847357802931611",
+          "3.46573590279972654708616060729088284037750067180127627060340004746696810984847357802931813"
+        ],
+        "zero_local_global_allowance": [
+          "0.495386068600867685828086216652840038218937582012657384175253451002365081651196155897485783",
+          "0.495386068600867685828086216652840038218937582012657384175253451002365081651196155897485986"
+        ],
+        "status": "BUDGET_ONLY_LOCAL_SIGN_NOT_EVALUATED"
+      },
+      {
+        "m": 64,
+        "inner_radius": [
+          "4.15888308335967185650339272874905940845300080616153152472408005696036173181816829363517933",
+          "4.15888308335967185650339272874905940845300080616153152472408005696036173181816829363518175"
+        ],
+        "zero_local_global_allowance": [
+          "0.265726981308039153223677793110214286947816658161546564024330967831314520762010504604981282",
+          "0.265726981308039153223677793110214286947816658161546564024330967831314520762010504604981405"
+        ],
+        "status": "BUDGET_ONLY_LOCAL_SIGN_NOT_EVALUATED"
+      },
+      {
+        "m": 256,
+        "inner_radius": [
+          "5.54517744447956247533785697166541254460400107488204203296544007594714897575755772484690577",
+          "5.54517744447956247533785697166541254460400107488204203296544007594714897575755772484690900"
+        ],
+        "zero_local_global_allowance": [
+          "0.0797645806106770209414147277215592803194901812310535933746925934777546165530007151245833947",
+          "0.0797645806106770209414147277215592803194901812310535933746925934777546165530007151245834332"
+        ],
+        "status": "BUDGET_ONLY_LOCAL_SIGN_NOT_EVALUATED"
+      },
+      {
+        "m": 1024,
+        "inner_radius": [
+          "6.93147180559945309417232121458176568075500134360255254120680009493393621969694715605863222",
+          "6.93147180559945309417232121458176568075500134360255254120680009493393621969694715605863625"
+        ],
+        "zero_local_global_allowance": [
+          "0.0238009892373410451127365553455457744604689180763382137138119380999686234141483838689864081",
+          "0.0238009892373410451127365553455457744604689180763382137138119380999686234141483838689864204"
+        ],
+        "status": "BUDGET_ONLY_LOCAL_SIGN_NOT_EVALUATED"
+      },
+      {
+        "m": 65536,
+        "inner_radius": [
+          "11.0903548889591249506757139433308250892080021497640840659308801518942979515151154496938115",
+          "11.0903548889591249506757139433308250892080021497640840659308801518942979515151154496938180"
+        ],
+        "zero_local_global_allowance": [
+          "0.000561105307633445309594134000898215160228672985808545785748353620586924601864181309555919919",
+          "0.000561105307633445309594134000898215160228672985808545785748353620586924601864181309555920221"
+        ],
+        "status": "BUDGET_ONLY_LOCAL_SIGN_NOT_EVALUATED"
+      },
+      {
+        "m": 16777216,
+        "inner_radius": [
+          "16.6355323334386874260135709149962376338120032246461260988963202278414469272726731745407173",
+          "16.6355323334386874260135709149962376338120032246461260988963202278414469272726731745407270"
+        ],
+        "zero_local_global_allowance": [
+          "0.00000318328169824481492088534113888397914010728413629084150254466712396578432771720629447396842",
+          "0.00000318328169824481492088534113888397914010728413629084150254466712396578432771720629447397020"
+        ],
+        "status": "BUDGET_ONLY_LOCAL_SIGN_NOT_EVALUATED"
+      }
+    ]
+  },
+  "smaller_eta_schedule": [
+    {
+      "status": "CONDITIONAL_LOCAL_OBLIGATION",
+      "target_eta": "1/2",
+      "m": 256,
+      "logarithmic_inner_radius": [
+        "5.54517744447956247533785697166541254460400107488204203296544007594714897575755772484690577",
+        "5.54517744447956247533785697166541254460400107488204203296544007594714897575755772484690900"
+      ],
+      "aperture_radius": "33/5",
+      "required_physical_source_lower_floor": "-1/4",
+      "local_certificate_executed": false,
+      "localization_error_upper": "0.0793875942439790495989258448497535300421095659310729999888914801918691704485233251267290076",
+      "exterior_negative_allowance_upper": "0.000376986366697971342488882871805750277380615299980593385801113285885446104477389997854425599",
+      "conditional_global_allowance_upper": "823468985609947623997314612124383825105273914827682499972228700479672926121308312816822519/2500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "rational_schedule_majorant": "61/256"
+    },
+    {
+      "status": "CONDITIONAL_LOCAL_OBLIGATION",
+      "target_eta": "1/4",
+      "m": 1024,
+      "logarithmic_inner_radius": [
+        "6.93147180559945309417232121458176568075500134360255254120680009493393621969694715605863222",
+        "6.93147180559945309417232121458176568075500134360255254120680009493393621969694715605863625"
+      ],
+      "aperture_radius": "8/1",
+      "required_physical_source_lower_floor": "-1/8",
+      "local_certificate_executed": false,
+      "localization_error_upper": "0.0237721575127832659795342988711859502200485575060272298555462261245088229372360877754040434",
+      "exterior_negative_allowance_upper": "0.0000288317245577791332022564743598242404203605703109838582657119754598004769122960935823769999",
+      "conditional_global_allowance_upper": "743860787563916329897671494355929751100242787530136149277731130622544114686180438877020217/5000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "rational_schedule_majorant": "69/1024"
+    },
+    {
+      "status": "CONDITIONAL_LOCAL_OBLIGATION",
+      "target_eta": "1/10",
+      "m": 2048,
+      "logarithmic_inner_radius": [
+        "7.62461898615939840358955333603994224883050147796280779532748010442732984166664187166449544",
+        "7.62461898615939840358955333603994224883050147796280779532748010442732984166664187166449988"
+      ],
+      "aperture_radius": "87/10",
+      "required_physical_source_lower_floor": "-1/20",
+      "local_certificate_executed": false,
+      "localization_error_upper": "0.0128898105999158115962391812039259375928053746934536597222054519068364420368434955127915334",
+      "exterior_negative_allowance_upper": "0.00000786820877513589706763224919895166611559915683552056102307079325144513115088142573515367499",
+      "conditional_global_allowance_upper": "314449052999579057981195906019629687964026873467268298611027259534182210184217477563957667/5000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "rational_schedule_majorant": "73/2048"
+    },
+    {
+      "status": "CONDITIONAL_LOCAL_OBLIGATION",
+      "target_eta": "1/100",
+      "m": 32768,
+      "logarithmic_inner_radius": [
+        "10.3972077083991796412584818218726485211325020154038288118102001424009043295454207340879483",
+        "10.3972077083991796412584818218726485211325020154038288118102001424009043295454207340879544"
+      ],
+      "aperture_radius": "23/2",
+      "required_physical_source_lower_floor": "-1/200",
+      "local_certificate_executed": false,
+      "localization_error_upper": "0.00105875358339836808304294221829280156747274033243685367232923850388922303351176002938989926",
+      "exterior_negative_allowance_upper": "4.10611087532770760031732984702015240532625541664802611314140265524421048519962308335600585E-8",
+      "conditional_global_allowance_upper": "302937679169918404152147110914640078373637016621842683616461925194461151675588001469494963/50000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "rational_schedule_majorant": "89/32768"
+    },
+    {
+      "status": "CONDITIONAL_LOCAL_OBLIGATION",
+      "target_eta": "1/1000",
+      "m": 262144,
+      "logarithmic_inner_radius": [
+        "12.4766492500790155695101781862471782253590024184845945741722401708810851954545048809055379",
+        "12.4766492500790155695101781862471782253590024184845945741722401708810851954545048809055453"
+      ],
+      "aperture_radius": "68/5",
+      "required_physical_source_lower_floor": "-1/2000",
+      "local_certificate_executed": false,
+      "localization_error_upper": "0.000156136159780598320695487108623998490255058656640302462617623158831165039902580110894763573",
+      "exterior_negative_allowance_upper": "7.62616718888489910067302302122533916574844765621504896214012997858289465974929328129251098E-10",
+      "conditional_global_allowance_upper": "656136159780598320695487108623998490255058656640302462617623158831165039902580110894763573/1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "rational_schedule_majorant": "101/262144"
+    }
+  ],
+  "prior_local_frontier": {
+    "radius": "21/25",
+    "stage": "SE14",
+    "unchanged": true
+  },
+  "not_certified": [
+    "any smaller eta in the conditional schedule",
+    "new larger-aperture source sign",
+    "cofinal eta-zero limit",
+    "global contractive observer",
+    "historical five-label endpoint or K0",
+    "RH",
+    "formal proof-assistant verification or external review"
+  ]
+}

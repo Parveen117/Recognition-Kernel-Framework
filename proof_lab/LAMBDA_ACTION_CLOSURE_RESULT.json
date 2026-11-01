@@ -1,0 +1,1501 @@
+{
+  "schema": "rkf.lambda-action-closure.v1",
+  "date": "2026-10-12",
+  "status": "PASS_RESTRICTED_PROBES_AND_ACTION_CLOSURE",
+  "theorem_count": 4,
+  "proposition_count": 2,
+  "checks": [
+    {
+      "name": "restricted_signature_reads_u_and_v_squared",
+      "status": "PASS"
+    },
+    {
+      "name": "restricted_fibre_is_the_sign_pair_while_the_full_blind_subspace_is_null",
+      "status": "PASS"
+    },
+    {
+      "name": "restricted_fibres_are_not_cosets_of_a_fixed_subspace",
+      "status": "PASS"
+    },
+    {
+      "name": "finite_probe_grid_determines_every_restricted_reading",
+      "status": "PASS"
+    },
+    {
+      "name": "omitted_or_duplicated_restricted_probe_is_rejected",
+      "status": "PASS"
+    },
+    {
+      "name": "affine_closure_of_the_cubic_response_is_spanned_by_four_protocols",
+      "status": "PASS"
+    },
+    {
+      "name": "descended_matrices_predict_every_recorded_future_reading",
+      "status": "PASS"
+    },
+    {
+      "name": "equal_retained_readings_iff_equal_future_readings",
+      "status": "PASS"
+    },
+    {
+      "name": "passive_square_and_cube_recover_x_without_a_polynomial_decoder",
+      "status": "PASS"
+    },
+    {
+      "name": "a_nonlinear_cut_action_has_no_finite_closure",
+      "status": "PASS"
+    },
+    {
+      "name": "swap_and_shift_catalogue_closure_recovers_the_state",
+      "status": "PASS"
+    },
+    {
+      "name": "shortest_separating_word_for_the_sign_pair_has_length_two",
+      "status": "PASS"
+    },
+    {
+      "name": "shift_only_catalogue_cannot_separate_the_sign_pair",
+      "status": "PASS"
+    },
+    {
+      "name": "conjugated_translation_is_translation_by_the_transported_direction",
+      "status": "PASS"
+    },
+    {
+      "name": "synthesized_directions_span_the_sector_within_the_bound",
+      "status": "PASS"
+    },
+    {
+      "name": "three_catalogue_readings_decode_both_coordinates",
+      "status": "PASS"
+    },
+    {
+      "name": "an_unavailable_inverse_is_not_used_for_synthesis",
+      "status": "PASS"
+    },
+    {
+      "name": "full_translation_sufficiency_is_not_necessary",
+      "status": "PASS"
+    },
+    {
+      "name": "unit_action_has_the_stated_exact_response_matrix",
+      "status": "PASS"
+    },
+    {
+      "name": "nonlinear_unit_closure_is_finite_within_the_degree_bound",
+      "status": "PASS"
+    },
+    {
+      "name": "degree_versus_unit_bound_is_preserved_by_affine_cut_actions",
+      "status": "PASS"
+    },
+    {
+      "name": "three_protocol_readings_predict_every_iterate_at_the_cut",
+      "status": "PASS"
+    },
+    {
+      "name": "iterate_formula_holds_modulo_the_declared_cut",
+      "status": "PASS"
+    },
+    {
+      "name": "the_iterate_formula_is_not_an_identity_before_the_cut",
+      "status": "PASS"
+    },
+    {
+      "name": "a_later_unit_reading_separates_the_sign_branch",
+      "status": "PASS"
+    },
+    {
+      "name": "the_initial_sensor_alone_misses_the_sign",
+      "status": "PASS"
+    },
+    {
+      "name": "moving_and_held_calibration_updates_are_exact",
+      "status": "PASS"
+    },
+    {
+      "name": "dropping_the_held_calibration_correction_misreads",
+      "status": "PASS"
+    },
+    {
+      "name": "response_basis_change_transports_the_update",
+      "status": "PASS"
+    },
+    {
+      "name": "every_archived_certificate_redecodes_from_its_saved_readings",
+      "status": "PASS"
+    }
+  ],
+  "controls": [
+    "restricted_fibres_are_not_cosets_of_a_fixed_subspace",
+    "omitted_or_duplicated_restricted_probe_is_rejected",
+    "passive_square_and_cube_recover_x_without_a_polynomial_decoder",
+    "a_nonlinear_cut_action_has_no_finite_closure",
+    "shift_only_catalogue_cannot_separate_the_sign_pair",
+    "an_unavailable_inverse_is_not_used_for_synthesis",
+    "the_iterate_formula_is_not_an_identity_before_the_cut",
+    "the_initial_sensor_alone_misses_the_sign",
+    "dropping_the_held_calibration_correction_misreads"
+  ],
+  "check_count": 30,
+  "negative_control_count": 9,
+  "inherited_source_pins_checked": 138,
+  "certificate_rule": "The recorded observer reading decoded for its stated target",
+  "construction": {
+    "carrier": "Finite counting sectors over Q and retained unit quotients Q[Lambda]/(Lambda^(q+1))",
+    "source": "Supplied sensors, supplied action catalogue and recorded protocol readings",
+    "zero": "Typed cut operation; additive neutrals retain their separate types",
+    "primitive_metric": false,
+    "unavailable_action_added": false,
+    "numerical_unit_value_assumed": false,
+    "RH_development": false,
+    "curvature_developed": false
+  },
+  "finite_ranges": {
+    "restricted_probe_grid": "{0,1}^1 and {0,1,2}^2",
+    "affine_closure_dimensions": [
+      4,
+      4
+    ],
+    "unit_depth": 2,
+    "unit_closure_bound": 9,
+    "future_words_through_length": 12
+  },
+  "details": {
+    "restricted_signature_certificate": {
+      "target": "Restricted signature of u^2+v^2 under horizontal translations",
+      "declared_degree": 2,
+      "probes": [
+        [
+          "1",
+          "0"
+        ]
+      ],
+      "calibration_note": "Calibration readings are subtracted in each recorded difference",
+      "readings": [
+        {
+          "t": [
+            0
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-101/48",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "t": [
+            1
+          ],
+          "response": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-13/48",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "decoded": {
+        "u": [
+          "5/4"
+        ],
+        "v_squared": [
+          "4/9"
+        ]
+      }
+    },
+    "cubic_shift_certificate": {
+      "target": "Every future reading of u^3+v under unit u-shifts",
+      "unit_memory_through": 0,
+      "output_channels": 1,
+      "protocols": [
+        {
+          "witness": {
+            "constant": true,
+            "unit_shift": 0,
+            "word": []
+          },
+          "reading": null
+        },
+        {
+          "witness": {
+            "channel": 0,
+            "unit_shift": 0,
+            "word": []
+          },
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "-103/108",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "witness": {
+            "channel": 0,
+            "unit_shift": 0,
+            "word": [
+              0
+            ]
+          },
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "365/108",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "witness": {
+            "channel": 0,
+            "unit_shift": 0,
+            "word": [
+              0,
+              0
+            ]
+          },
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1913/108",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "action_matrices": [
+        [
+          [
+            "1",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "1"
+          ],
+          [
+            "6",
+            "1",
+            "-3",
+            "3"
+          ]
+        ]
+      ],
+      "sensor_coordinates": [
+        [
+          "0",
+          "1",
+          "0",
+          "0"
+        ]
+      ],
+      "future_protocols": [
+        {
+          "word": [
+            0,
+            0,
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "5189/108",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "48533/108",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "171365/108",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "decoded": {
+        "Y": [
+          [
+            "1"
+          ],
+          [
+            "-103/108"
+          ],
+          [
+            "365/108"
+          ],
+          [
+            "1913/108"
+          ]
+        ],
+        "predictions": [
+          {
+            "word": [
+              0,
+              0,
+              0
+            ],
+            "predicted": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "5189/108",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          },
+          {
+            "word": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "predicted": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "48533/108",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          },
+          {
+            "word": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "predicted": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "171365/108",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        ],
+        "u": [
+          "2/3"
+        ],
+        "v_by_polynomial_decoder": [
+          "-5/4"
+        ]
+      }
+    },
+    "separating_witness": {
+      "pair": [
+        [
+          [
+            "3"
+          ],
+          [
+            "2/5"
+          ]
+        ],
+        [
+          [
+            "3"
+          ],
+          [
+            "-2/5"
+          ]
+        ]
+      ],
+      "word": [
+        1,
+        0
+      ],
+      "meaning": "apply the swap, then the unit shift, then read"
+    },
+    "synthesized_translations": [
+      {
+        "direction": [
+          "1",
+          "0",
+          "0"
+        ],
+        "word": []
+      },
+      {
+        "direction": [
+          "0",
+          "1",
+          "0"
+        ],
+        "word": [
+          "A0"
+        ]
+      },
+      {
+        "direction": [
+          "0",
+          "0",
+          "1"
+        ],
+        "word": [
+          "A^-10"
+        ]
+      }
+    ],
+    "swap_shift_certificate": {
+      "target": "(u,v) from F(x), F(Tx), F(TJx) for F=u^2+v^2",
+      "readings": [
+        {
+          "word": [],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1369/225",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "2644/225",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            1,
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "1234/225",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "decoded": [
+        [
+          "7/3"
+        ],
+        [
+          "-4/5"
+        ]
+      ]
+    },
+    "unit_action_certificate": {
+      "target": "Every future reading of F=x under g=x+Lambda x^2 through Lambda^2",
+      "unit_memory_through": 2,
+      "output_channels": 1,
+      "protocols": [
+        {
+          "witness": {
+            "constant": true,
+            "unit_shift": 0,
+            "word": []
+          },
+          "reading": null
+        },
+        {
+          "witness": {
+            "channel": 0,
+            "unit_shift": 0,
+            "word": []
+          },
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "2/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "1/5",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "witness": {
+            "constant": true,
+            "unit_shift": 1,
+            "word": []
+          },
+          "reading": null
+        },
+        {
+          "witness": {
+            "channel": 0,
+            "unit_shift": 1,
+            "word": []
+          },
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "2/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "1/5",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "witness": {
+            "constant": true,
+            "unit_shift": 2,
+            "word": []
+          },
+          "reading": null
+        },
+        {
+          "witness": {
+            "channel": 0,
+            "unit_shift": 2,
+            "word": []
+          },
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "2/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "1/5",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "witness": {
+            "channel": 0,
+            "unit_shift": 0,
+            "word": [
+              0
+            ]
+          },
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "2/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-5/9",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-17/15",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "witness": {
+            "channel": 0,
+            "unit_shift": 1,
+            "word": [
+              0
+            ]
+          },
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "2/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-5/9",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-17/15",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "witness": {
+            "channel": 0,
+            "unit_shift": 0,
+            "word": [
+              0,
+              0
+            ]
+          },
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "2/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-1/9",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-253/135",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "action_matrices": [
+        [
+          [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "-1",
+            "0",
+            "0",
+            "0",
+            "2",
+            "0"
+          ],
+          [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "-3",
+            "0",
+            "3"
+          ]
+        ]
+      ],
+      "sensor_coordinates": [
+        [
+          "0",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      ],
+      "future_protocols": [
+        {
+          "word": [
+            0,
+            0,
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "2/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "1/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-91/45",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "2/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "7/9",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "-71/45",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "2/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "19/9",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "149/45",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "2/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "13/3",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "1049/45",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "decoded": {
+        "Y": [
+          [
+            "1"
+          ],
+          [
+            "2/3",
+            "-1",
+            "1/5"
+          ],
+          [
+            "0",
+            "1"
+          ],
+          [
+            "0",
+            "2/3",
+            "-1"
+          ],
+          [
+            "0",
+            "0",
+            "1"
+          ],
+          [
+            "0",
+            "0",
+            "2/3"
+          ],
+          [
+            "2/3",
+            "-5/9",
+            "-17/15"
+          ],
+          [
+            "0",
+            "2/3",
+            "-5/9"
+          ],
+          [
+            "2/3",
+            "-1/9",
+            "-253/135"
+          ]
+        ],
+        "predictions": [
+          {
+            "word": [
+              0,
+              0,
+              0
+            ],
+            "predicted": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "2/3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "1/3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-91/45",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          },
+          {
+            "word": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "predicted": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "2/3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "7/9",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "-71/45",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          },
+          {
+            "word": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "predicted": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "2/3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "19/9",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "149/45",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          },
+          {
+            "word": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "predicted": {
+              "from": "*",
+              "to": "*",
+              "terms": [
+                [
+                  [],
+                  [
+                    "2/3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L"
+                  ],
+                  [
+                    "13/3",
+                    "0"
+                  ]
+                ],
+                [
+                  [
+                    "L",
+                    "L"
+                  ],
+                  [
+                    "1049/45",
+                    "0"
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "stated_protocol_coordinates": [
+        [
+          "2/3",
+          "-1",
+          "1/5"
+        ],
+        [
+          "0",
+          "4/9",
+          "-4/3"
+        ],
+        [
+          "0",
+          "0",
+          "8/27"
+        ]
+      ]
+    },
+    "sign_branch_certificate": {
+      "target": "Constant rational input a from F=x^2 and F(g a)",
+      "readings": [
+        {
+          "word": [],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "9/4",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "word": [
+            0
+          ],
+          "reading": {
+            "from": "*",
+            "to": "*",
+            "terms": [
+              [
+                [],
+                [
+                  "9/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L"
+                ],
+                [
+                  "-27/4",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "L",
+                  "L"
+                ],
+                [
+                  "81/16",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "decoded": "-3/2"
+    }
+  },
+  "evidence": {
+    "general_results": "Four written derivations, a separating-word corollary and the moving-observer identities",
+    "executable": "Exact recorded-reading decoding and counterexamples using unchanged canonical engines",
+    "formal_proof_assistant": false,
+    "external_review": false,
+    "whole_engine_pass": false
+  },
+  "not_claimed": [
+    "closure for actions with nonlinear cut",
+    "one finite observer for the full infinite unit tower",
+    "a minimum nonlinear observer",
+    "enumeration of arbitrary nonlinear fibres or a global experimental budget",
+    "availability of an inverse that is not in the catalogue",
+    "noisy-data recovery",
+    "new RH or curvature result",
+    "novelty priority for pullbacks, invariant-span closure or conjugated translations"
+  ]
+}

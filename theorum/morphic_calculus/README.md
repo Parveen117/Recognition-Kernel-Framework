@@ -49,6 +49,21 @@ Verified `main.tex` SHA-256:
 
 ## RNKE certification status
 
+### Scoped mathematical erratum (2026-09-18)
+
+The subsection “Convergence of Discrete Holonomy” in `main.tex` is superseded,
+for finite matrices satisfying a uniform cubic remainder bound, by
+[MR-07: Holonomy Area Scaling](../morphic_recognition/07_holonomy_area_scaling.md).
+If `H_h = I + h^2 K + O(h^3)`, then `(H_(T/n))^n` tends to `I`, whereas
+`(H_sqrt(tau/n))^n` tends to `exp(tau K)` for fixed nonnegative `tau`.
+The capsule supplies the domain assumptions and quantitative bounds.
+
+The neighboring Euler-step BCH and symmetric-composition formulas are excluded
+from MR-07: Euler steps have additional truncation terms and cannot inherit
+exponential-step formulas without correction. The historical source and
+publication-copy hashes below remain unchanged. The archived RNKE ledger is
+not a certification of those excluded formulas.
+
 ```text
 SOURCE IDENTIFIED                                  PASS
 EXACT SOURCE SHA PINNED                            PASS

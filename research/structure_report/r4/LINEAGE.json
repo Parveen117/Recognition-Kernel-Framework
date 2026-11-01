@@ -1,0 +1,43 @@
+{
+  "protocol": "RKF_STRUCTURE_REPAIR_LINEAGE_R4",
+  "date": "2026-10-12",
+  "canonical_repository": "Parveen117/Recognition-Kernel-Framework",
+  "base_commit": "e8e3089745bf7dc0532d01c62a5f660f5658c6f0",
+  "base_workbench_version": "0.5",
+  "dependency_blobs": {
+    "operator_foundation/core/native_operator.cjs": "7b188defee82aa0edafc586eb3091baf0ceb6900"
+  },
+  "consumes": {
+    "research/structure_report (R3)": ["R3-A forward closure", "R3-B returning memory iff dagger incompleteness", "R3-C mark is a cut square", "declared pairing extension (R4 section 1)"],
+    "operator_foundation/theory/01_NATIVE_ALGEBRA.md": ["N03 minimum future-complete observation applied to the catalogue S ∪ S^sharp"],
+    "operator_foundation/theory/NATIVE_PRIMITIVE_ORDER.md": "a native pairing is used only under its own declared result; the coordinate transpose is not automatically the native dagger",
+    "theorum/53_native_cut_square_factorization_theorem.md": "declared pairing admitted as a cut square with strictly positive weights"
+  },
+  "ym37_pencil_source": {
+    "repository": "Parveen117/Publications",
+    "commit": "7ad1f7b6013da4f1d62d642f779f27bae41c9bcf",
+    "file": "papers/yang-mills-certified-benchmark/certificates/ym37_space_transfer.py",
+    "blob": "9afca44895d655a42a5b005be58c4b8f68730a95",
+    "ym37_certificate_pin": "ad598ee540e8f21c31ad354a587053009d79e15089aad5c93d3c61cdef0b8957",
+    "construction": "build_pencil(2, u0, k0) — t = 2 even invariant sector, dimension 8, constant monomial index 0",
+    "coefficients": {"u0 (faces)": {"0": "1", "1/2": "1/3", "1": "1/10"}, "k0 (rungs)": {"0": "1", "1/2": "2/5", "1": "1/10"}},
+    "coefficient_status": "exact rationals validated by YM-37 control C1 against the YM-33 engine; not the YM-41 Arb-rounded kappa grid",
+    "declared_data_file": "ym37_pencil_t2.json",
+    "declared_data_sha256": "72050643c10d8869339d3cfc235dbd4889a62ca9a2ef05d741a849f9a3ae0691",
+    "consumed_by_pin_not_rederived": true
+  },
+  "candidate_framework_advance": [
+    "R4-A repair by the reversed-catalogue completion removes every mark",
+    "R4-B the repaired observer is the minimum-rank mark-free descending observer",
+    "R4-C the repair is idempotent: the loop closes in one step on a finite carrier",
+    "basis covariance of all native verdicts under a declared pairing; non-covariance of the coordinate dagger shown on an instance",
+    "first real encoding: the YM-37 column pencil is reversal-closed under its Haar pairing (six visible channels, two invisible directions); the coordinate dagger manufactures a spurious global mark on the same data"
+  ],
+  "not_new_claims": ["invariant subspace closure", "self-adjointness of a symmetric pencil", "change-of-basis covariance of adjoints"],
+  "external_priority_established": false,
+  "primitive_hilbert_space": false,
+  "pairing_used_only_as_declared_cut_square": true,
+  "infinite_limit_invoked": false,
+  "yang_mills_gap_or_continuum_claim": false,
+  "physical_identification_claimed": false
+}

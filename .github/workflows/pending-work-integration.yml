@@ -1,0 +1,46 @@
+name: Pending work integration
+
+on:
+  push:
+    branches: ['codex/complete-pending-*']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  integration:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: '.node-version'
+      - name: Verify imported histories and immutable source bytes
+        run: python scripts/verify_pending_integration.py
+      - name: Navigation and imported finite contracts
+        run: >-
+          python -m unittest -v
+          proof_lab.test_morphic_memory
+          proof_lab.test_guarded_lopa
+          proof_lab.test_holonomy_scaling
+          proof_lab.test_memory_certificate
+          proof_lab.test_mathematics_index
+          proof_lab.test_endpoint_shared_energy_budget
+      - name: Check unchanged engine with its recorded runtime
+        run: node operator_foundation/verify_all.cjs --check
+      - name: Check imported finite evidence without writing it
+        run: |
+          python -m proof_lab.morphic_recognition.certify_memory --check-archive
+          python -m proof_lab.endpoint_shared_energy_budget --check
+          node research/structure_report/verify.cjs --check
+          node research/structure_report/mutate.cjs
+          node research/structure_report/r4/verify.cjs --check
+          node research/structure_report/r4/mutate.cjs
+          node research/sectoral_signal/verify.cjs --check

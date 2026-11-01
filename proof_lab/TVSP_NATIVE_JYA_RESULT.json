@@ -1,0 +1,1094 @@
+{
+  "stage": "SE44",
+  "author": "Monty",
+  "scope": "Native counting/angle proofs with exact supplied observer instances and outward rational analytic enclosures; no universal physical geometry or RH sign.",
+  "quarter_turn_basis": [
+    "T",
+    "V"
+  ],
+  "quarter_angle_bounds": [
+    "2870222714930178511900378070443508546151174237729922253890166995325/1827240531423111560658578964553871221874689551519985931629293993984",
+    "4053986885494602418090151782262224612659028430254655052657395545/2580848208224733842738105882138236189088544564293765440154370048"
+  ],
+  "native_half_turn_bounds": [
+    "2870222714930178511900378070443508546151174237729922253890166995325/913620265711555780329289482276935610937344775759992965814646996992",
+    "4053986885494602418090151782262224612659028430254655052657395545/1290424104112366921369052941069118094544272282146882720077185024"
+  ],
+  "angle_enclosure_orders": {
+    "half": 28,
+    "third": 28
+  },
+  "phase_readings": [
+    {
+      "source_id": "SE44-moving-angle-frame",
+      "ordered_word": [
+        "phase-reading"
+      ],
+      "frame": [
+        [
+          "1",
+          "2"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "cut": [
+        [
+          "1",
+          "2"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      "readings": [
+        {
+          "probe": 0,
+          "accepted": [
+            "4/5",
+            "0"
+          ],
+          "complement": [
+            "-6/5",
+            "3/5"
+          ]
+        },
+        {
+          "probe": 1,
+          "accepted": [
+            "1",
+            "0"
+          ],
+          "complement": [
+            "-4",
+            "2"
+          ]
+        }
+      ]
+    },
+    {
+      "source_id": "SE44-antipodal-sine-silence",
+      "ordered_word": [
+        "phase-reading"
+      ],
+      "frame": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "cut": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      "readings": [
+        {
+          "probe": 0,
+          "accepted": [
+            "-1",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "probe": 1,
+          "accepted": [
+            "0",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "-1"
+          ]
+        }
+      ],
+      "oriented_quarter_word": [
+        1,
+        1
+      ]
+    },
+    {
+      "source_id": "SE44-no-turn",
+      "ordered_word": [
+        "phase-reading"
+      ],
+      "frame": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "cut": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      "readings": [
+        {
+          "probe": 0,
+          "accepted": [
+            "1",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "probe": 1,
+          "accepted": [
+            "0",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "1"
+          ]
+        }
+      ],
+      "oriented_quarter_word": []
+    },
+    {
+      "source_id": "SE44-one-full-turn",
+      "ordered_word": [
+        "phase-reading"
+      ],
+      "frame": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "cut": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      "readings": [
+        {
+          "probe": 0,
+          "accepted": [
+            "1",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "probe": 1,
+          "accepted": [
+            "0",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "1"
+          ]
+        }
+      ],
+      "oriented_quarter_word": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "jya_table": [
+    {
+      "n": 0,
+      "cosine": "1",
+      "sine": "0",
+      "jya": "0"
+    },
+    {
+      "n": 1,
+      "cosine": "4/5",
+      "sine": "3/5",
+      "jya": "10314/5"
+    },
+    {
+      "n": 2,
+      "cosine": "7/25",
+      "sine": "24/25",
+      "jya": "82512/25"
+    },
+    {
+      "n": 3,
+      "cosine": "-44/125",
+      "sine": "117/125",
+      "jya": "402246/125"
+    },
+    {
+      "n": 4,
+      "cosine": "-527/625",
+      "sine": "336/625",
+      "jya": "1155168/625"
+    },
+    {
+      "n": 5,
+      "cosine": "-3116/3125",
+      "sine": "-237/3125",
+      "jya": "-814806/3125"
+    },
+    {
+      "n": 6,
+      "cosine": "-11753/15625",
+      "sine": "-10296/15625",
+      "jya": "-35397648/15625"
+    },
+    {
+      "n": 7,
+      "cosine": "-16124/78125",
+      "sine": "-76443/78125",
+      "jya": "-262811034/78125"
+    },
+    {
+      "n": 8,
+      "cosine": "164833/390625",
+      "sine": "-354144/390625",
+      "jya": "-1217547072/390625"
+    },
+    {
+      "n": 9,
+      "cosine": "1721764/1953125",
+      "sine": "-922077/1953125",
+      "jya": "-3170100726/1953125"
+    },
+    {
+      "n": 10,
+      "cosine": "9653287/9765625",
+      "sine": "1476984/9765625",
+      "jya": "5077870992/9765625"
+    },
+    {
+      "n": 11,
+      "cosine": "34182196/48828125",
+      "sine": "34867797/48828125",
+      "jya": "119875486086/48828125"
+    },
+    {
+      "n": 12,
+      "cosine": "32125393/244140625",
+      "sine": "242017776/244140625",
+      "jya": "832057113888/244140625"
+    }
+  ],
+  "jya_radius": "3438",
+  "jya_kappa": "2/5",
+  "moving_orbit_readings": [
+    {
+      "source_id": "SE44-moving-jya-orbit",
+      "ordered_word": [
+        "repeat-same-turn",
+        0
+      ],
+      "frame": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "cut": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      "readings": [
+        {
+          "probe": 0,
+          "accepted": [
+            "1",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "probe": 1,
+          "accepted": [
+            "0",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "source_id": "SE44-moving-jya-orbit",
+      "ordered_word": [
+        "repeat-same-turn",
+        1
+      ],
+      "frame": [
+        [
+          "1",
+          "1"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "cut": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      "readings": [
+        {
+          "probe": 0,
+          "accepted": [
+            "1/5",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "3/5"
+          ]
+        },
+        {
+          "probe": 1,
+          "accepted": [
+            "-7/5",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "4/5"
+          ]
+        }
+      ]
+    },
+    {
+      "source_id": "SE44-moving-jya-orbit",
+      "ordered_word": [
+        "repeat-same-turn",
+        2
+      ],
+      "frame": [
+        [
+          "1",
+          "2"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "cut": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      "readings": [
+        {
+          "probe": 0,
+          "accepted": [
+            "-41/25",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "24/25"
+          ]
+        },
+        {
+          "probe": 1,
+          "accepted": [
+            "-38/25",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "7/25"
+          ]
+        }
+      ]
+    },
+    {
+      "source_id": "SE44-moving-jya-orbit",
+      "ordered_word": [
+        "repeat-same-turn",
+        3
+      ],
+      "frame": [
+        [
+          "1",
+          "3"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "cut": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      "readings": [
+        {
+          "probe": 0,
+          "accepted": [
+            "-79/25",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "117/125"
+          ]
+        },
+        {
+          "probe": 1,
+          "accepted": [
+            "3/25",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "-44/125"
+          ]
+        }
+      ]
+    },
+    {
+      "source_id": "SE44-moving-jya-orbit",
+      "ordered_word": [
+        "repeat-same-turn",
+        4
+      ],
+      "frame": [
+        [
+          "1",
+          "4"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "cut": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      "readings": [
+        {
+          "probe": 0,
+          "accepted": [
+            "-1871/625",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "336/625"
+          ]
+        },
+        {
+          "probe": 1,
+          "accepted": [
+            "1772/625",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "-527/625"
+          ]
+        }
+      ]
+    },
+    {
+      "source_id": "SE44-moving-jya-orbit",
+      "ordered_word": [
+        "repeat-same-turn",
+        5
+      ],
+      "frame": [
+        [
+          "1",
+          "5"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "cut": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      "readings": [
+        {
+          "probe": 0,
+          "accepted": [
+            "-1931/3125",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "-237/3125"
+          ]
+        },
+        {
+          "probe": 1,
+          "accepted": [
+            "15817/3125",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "-3116/3125"
+          ]
+        }
+      ]
+    },
+    {
+      "source_id": "SE44-moving-jya-orbit",
+      "ordered_word": [
+        "repeat-same-turn",
+        6
+      ],
+      "frame": [
+        [
+          "1",
+          "6"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "cut": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      "readings": [
+        {
+          "probe": 0,
+          "accepted": [
+            "50023/15625",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "-10296/15625"
+          ]
+        },
+        {
+          "probe": 1,
+          "accepted": [
+            "80814/15625",
+            "0"
+          ],
+          "complement": [
+            "0",
+            "-11753/15625"
+          ]
+        }
+      ]
+    }
+  ],
+  "varying_step_residuals": [
+    [
+      [
+        "-1",
+        "-2"
+      ],
+      [
+        "1",
+        "0"
+      ]
+    ],
+    [
+      [
+        "0",
+        "1"
+      ],
+      [
+        "-2",
+        "-3"
+      ]
+    ]
+  ],
+  "formal_line_transport": [
+    [
+      [
+        "1",
+        "0"
+      ],
+      [
+        "0",
+        "1"
+      ]
+    ],
+    [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    [
+      [
+        "0",
+        "1/2"
+      ],
+      [
+        "-1/2",
+        "0"
+      ]
+    ],
+    [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    [
+      [
+        "-1/8",
+        "0"
+      ],
+      [
+        "0",
+        "-1/8"
+      ]
+    ],
+    [
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    [
+      [
+        "0",
+        "-1/48"
+      ],
+      [
+        "1/48",
+        "0"
+      ]
+    ]
+  ],
+  "curvature_loop_through_step_degree_3": [
+    [
+      [
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        },
+        {
+          "powers": [
+            4,
+            0,
+            0,
+            0,
+            2,
+            2
+          ],
+          "coefficient": "-1/2"
+        }
+      ],
+      [
+        {
+          "powers": [
+            2,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          "coefficient": "-1"
+        },
+        {
+          "powers": [
+            6,
+            0,
+            0,
+            0,
+            3,
+            3
+          ],
+          "coefficient": "1/6"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "powers": [
+            2,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          "coefficient": "1"
+        },
+        {
+          "powers": [
+            6,
+            0,
+            0,
+            0,
+            3,
+            3
+          ],
+          "coefficient": "-1/6"
+        }
+      ],
+      [
+        {
+          "powers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        },
+        {
+          "powers": [
+            4,
+            0,
+            0,
+            0,
+            2,
+            2
+          ],
+          "coefficient": "-1/2"
+        }
+      ]
+    ]
+  ],
+  "curvature_coefficient": [
+    [
+      [],
+      [
+        {
+          "powers": [
+            2,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "-1"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "powers": [
+            2,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "coefficient": "1"
+        }
+      ],
+      []
+    ]
+  ],
+  "feedback_error_intervals": [
+    [
+      "1",
+      "1"
+    ],
+    [
+      "13486157128803597224629097615579932093/85070591730234615865843651857942052864",
+      "6743078564401798612316194145416610021/42535295865117307932921825928971026432"
+    ],
+    [
+      "225667356210763240543666881426242669/340282366920938463463374607431768211456",
+      "225667356210763240543831934195873355/340282366920938463463374607431768211456"
+    ],
+    [
+      "2067693136036526771114500253/42535295865117307932921825928971026432",
+      "16541545088292214168952297409/340282366920938463463374607431768211456"
+    ],
+    [
+      "3257377/170141183460469231731687303715884105728",
+      "6514755/340282366920938463463374607431768211456"
+    ]
+  ],
+  "feedback_rounding_bits": 128,
+  "sine_series_order": 10,
+  "source_preserving_feedback_through_formal_degree": 8,
+  "checks": [
+    {
+      "name": "the actual clockwise TVSP order is T V S P",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "counting lines compose their lawful translation parameter",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "the derivative along a count line is its declared lowering direction",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "line response coefficients solve the ordered formal transport equation",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "formal line transport carries both endpoint frames",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "the exact rational turn supplies its oriented cosine and sine",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "the cleared Cayley derivative derives the native angular speed",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "two strictly smaller native angles compose to the quarter turn",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "native half-turn normalization has a strict rational enclosure",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "angle readings survive a nonorthogonal moving frame with its pairing",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "using an untransported coordinate dot product changes the angle",
+      "kind": "negative",
+      "status": "PASS"
+    },
+    {
+      "name": "the detached complementary phase bank recovers the full oriented turn",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "an unoriented line cut loses its half-turn direction",
+      "kind": "negative",
+      "status": "PASS"
+    },
+    {
+      "name": "every exact jya table row preserves the native circle invariant",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "the exact second difference uses the turn-derived coefficient",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "the cumulative sine-table rule independently reproduces the orbit",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "a universal historical divisor cannot replace the measured turn coefficient",
+      "kind": "negative",
+      "status": "PASS"
+    },
+    {
+      "name": "fixed quarter-turn repetition is periodic rather than convergent calibration",
+      "kind": "negative",
+      "status": "PASS"
+    },
+    {
+      "name": "moving-frame jya recurrence is decoded from its recorded initial pair",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "omitting frame transport gives a false jya mismatch",
+      "kind": "negative",
+      "status": "PASS"
+    },
+    {
+      "name": "equal recurrence coefficients can hide distinct ordered initial turns",
+      "kind": "negative",
+      "status": "PASS"
+    },
+    {
+      "name": "varying noncommuting steps have the stated forward/backward residual",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "the operator law retains growing central sheet memory at C equal identity",
+      "kind": "negative",
+      "status": "PASS"
+    },
+    {
+      "name": "a noncircular return is not decoded as a scalar compass angle",
+      "kind": "negative",
+      "status": "PASS"
+    },
+    {
+      "name": "the native square has the stated rotational curvature and loop reading",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "the mixed jya coefficient recovers the actual curvature coefficient",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "shallow unit observation misses a retained curvature turn",
+      "kind": "negative",
+      "status": "PASS"
+    },
+    {
+      "name": "the cosine response rejects nonidentity antipodal sine silence",
+      "kind": "negative",
+      "status": "PASS"
+    },
+    {
+      "name": "oriented crossing memory repairs a terminal full-turn collision",
+      "kind": "negative",
+      "status": "PASS"
+    },
+    {
+      "name": "literal native sine feedback has outward decreasing error enclosures",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "finite feedback enclosures obey the proved cubic bound with outward rounding",
+      "kind": "positive",
+      "status": "PASS"
+    },
+    {
+      "name": "observer sine feedback retains the exact source in formal response coefficients",
+      "kind": "positive",
+      "status": "PASS"
+    }
+  ],
+  "check_count": 32,
+  "negative_control_count": 11
+}

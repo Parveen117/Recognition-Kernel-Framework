@@ -1,0 +1,37 @@
+name: Endpoint shared-energy replay
+
+on:
+  pull_request:
+    paths:
+      - 'proof_lab/endpoint_shared_energy_budget.py'
+      - 'proof_lab/test_endpoint_shared_energy_budget.py'
+      - 'proof_lab/ENDPOINT_SHARED_ENERGY_RESULT.json'
+      - 'proof_lab/imported/endpoint_shared_energy/**'
+      - 'papers/rkf_completed_weil_endpoint/**'
+      - 'MATHEMATICS_INDEX.md'
+      - '.github/workflows/endpoint-shared-energy.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  replay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22.16.0'
+      - name: Exact replay and finite controls
+        run: |
+          python -m unittest proof_lab.test_endpoint_shared_energy_budget -v
+          python -m proof_lab.endpoint_shared_energy_budget --check
+      - name: Navigation and unchanged canonical engine
+        run: |
+          python -m unittest proof_lab.test_mathematics_index -v
+          node operator_foundation/verify_all.cjs --check

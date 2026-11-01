@@ -1,0 +1,161 @@
+{
+  "schema": "rkf.endpoint-observer-index-controls.v1",
+  "date": "2026-10-12",
+  "status": "PASS_FINITE_RATIONAL_CONTROLS",
+  "arithmetic": "exact Fraction only",
+  "checks_passed": 21,
+  "checks": [
+    {
+      "name": "rectangular_kernel_cokernel_transport",
+      "status": "PASS",
+      "indices": [
+        1,
+        1
+      ]
+    },
+    {
+      "name": "three_chart_cocycle",
+      "status": "PASS"
+    },
+    {
+      "name": "transported_domain_metric",
+      "status": "PASS"
+    },
+    {
+      "name": "transported_kernel_vector",
+      "status": "PASS"
+    },
+    {
+      "name": "augmented_index_certificate",
+      "status": "PASS",
+      "domain_extra_rank": 0,
+      "target_extra_rank": 1,
+      "residual_norm_upper": "1/10"
+    },
+    {
+      "name": "nonorthonormal_residual_bound",
+      "status": "PASS"
+    },
+    {
+      "name": "lossy_cut_is_not_index_preserving",
+      "status": "PASS"
+    },
+    {
+      "name": "moving_references_same_source",
+      "status": "PASS",
+      "first_B": [
+        "4/3",
+        "2/3"
+      ],
+      "second_B": [
+        "9/8",
+        "9/11"
+      ],
+      "invariant_charge": 1
+    },
+    {
+      "name": "relative_gap_is_not_reference_invariant",
+      "status": "PASS"
+    },
+    {
+      "name": "nonunitary_Birman_Schwinger_congruence",
+      "status": "PASS"
+    },
+    {
+      "name": "zero_diagonal_inertia_control",
+      "status": "PASS"
+    },
+    {
+      "name": "state_event_target_metric_transport",
+      "status": "PASS",
+      "exact_test_quotient": "7/8"
+    },
+    {
+      "name": "ordinary_coordinate_norm_can_change",
+      "status": "PASS"
+    },
+    {
+      "name": "ordinary_selfadjoint_index_zero_is_not_positivity",
+      "status": "PASS"
+    },
+    {
+      "name": "moving_connection_full_covariance",
+      "status": "PASS"
+    },
+    {
+      "name": "crossing_signature_transport",
+      "status": "PASS"
+    },
+    {
+      "name": "activation_and_reverse_path",
+      "status": "PASS",
+      "forward": -1,
+      "reverse": 1,
+      "forward_crossings": [
+        {
+          "channel": 0,
+          "time": "4/9",
+          "sign": -1
+        }
+      ]
+    },
+    {
+      "name": "zero_net_flow_can_leave_nonzero_charge",
+      "status": "PASS",
+      "crossings": [
+        {
+          "channel": 0,
+          "time": "3/8",
+          "sign": -1
+        },
+        {
+          "channel": 1,
+          "time": "5/8",
+          "sign": 1
+        }
+      ],
+      "endpoint_charges": [
+        1,
+        1
+      ]
+    },
+    {
+      "name": "critical_endpoint_requires_convention",
+      "status": "PASS"
+    },
+    {
+      "name": "finite_error_count_bracket",
+      "status": "PASS",
+      "resolved": [
+        1,
+        1
+      ],
+      "unresolved": [
+        0,
+        1
+      ]
+    },
+    {
+      "name": "shifted_source_counts_and_threshold",
+      "status": "PASS",
+      "values": [
+        {
+          "eta": "1/2",
+          "charge": 0,
+          "nullity": 0
+        },
+        {
+          "eta": "1/4",
+          "charge": 0,
+          "nullity": 1
+        },
+        {
+          "eta": "1/8",
+          "charge": 1,
+          "nullity": 0
+        }
+      ]
+    }
+  ],
+  "scope": "Finite transport, reference, sign-convention and enclosure controls. Not a formal proof of Atiyah--Singer, a native elliptic adapter, or a global eta-zero/RH certificate."
+}

@@ -1,0 +1,39 @@
+name: Morphic memory exact certification
+
+on:
+  pull_request:
+    paths:
+      - 'theorum/morphic_recognition/**'
+      - 'theorum/61_rewrite_rules_as_cut_module_operators_theorem.md'
+      - 'theorum/morphic_calculus/main.tex'
+      - 'proof_lab/morphic_recognition/**'
+      - 'proof_lab/test_morphic_memory.py'
+      - 'proof_lab/test_guarded_lopa.py'
+      - 'proof_lab/test_holonomy_scaling.py'
+      - 'proof_lab/test_memory_certificate.py'
+      - 'MATHEMATICS_INDEX.md'
+      - '.github/workflows/morphic-memory-certification.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  finite-contracts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check exact contracts, negative controls, sources, and index
+        run: >-
+          python -m unittest -v
+          proof_lab.test_morphic_memory
+          proof_lab.test_guarded_lopa
+          proof_lab.test_holonomy_scaling
+          proof_lab.test_memory_certificate
+          proof_lab.test_mathematics_index
+      - name: Reproduce archived finite evidence
+        run: python -m proof_lab.morphic_recognition.certify_memory --check-archive

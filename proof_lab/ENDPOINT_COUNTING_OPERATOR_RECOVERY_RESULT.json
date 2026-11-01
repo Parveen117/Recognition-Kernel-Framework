@@ -1,0 +1,705 @@
+{
+  "schema": "rkf.counting-operator-recovery.v1",
+  "date": "2026-10-12",
+  "status": "PASS_COUNTING_OPERATOR_RECOVERY_AND_ORDERED_FLOW",
+  "theorem_count": 5,
+  "checks": [
+    {
+      "name": "canonical_normal_order_presentation_closes_all_critical_pairs",
+      "status": "PASS"
+    },
+    {
+      "name": "ordered_power_formula_matches_independent_canonical_rewrite",
+      "status": "PASS"
+    },
+    {
+      "name": "word_action_and_normal_action_agree_on_SE30_polynomials",
+      "status": "PASS"
+    },
+    {
+      "name": "incremental_probe_recovery_matches_all_declared_coefficients",
+      "status": "PASS"
+    },
+    {
+      "name": "missing_last_probe_leaves_a_nontrivial_operator_invisible",
+      "status": "PASS"
+    },
+    {
+      "name": "unknown_order_cannot_be_certified_by_a_finite_prefix",
+      "status": "PASS"
+    },
+    {
+      "name": "ordinary_product_in_native_recovery_would_give_wrong_coefficient",
+      "status": "PASS"
+    },
+    {
+      "name": "retained_unit_layers_reconstruct_the_bounded_degree_family",
+      "status": "PASS"
+    },
+    {
+      "name": "memory_cut_preserves_ordered_products_in_its_quotient",
+      "status": "PASS"
+    },
+    {
+      "name": "single_cut_loses_the_first_unretained_operator_layer",
+      "status": "PASS"
+    },
+    {
+      "name": "every_fixed_memory_depth_has_an_explicit_blind_next_layer",
+      "status": "PASS"
+    },
+    {
+      "name": "negative_memory_depth_is_not_an_admitted_cut",
+      "status": "PASS"
+    },
+    {
+      "name": "cut_is_faithful_for_lambda_independent_normal_coefficients",
+      "status": "PASS"
+    },
+    {
+      "name": "bivariate_ordered_exponential_coefficients_keep_the_central_factor",
+      "status": "PASS"
+    },
+    {
+      "name": "formal_ordered_loop_equals_exp_of_its_central_coefficient",
+      "status": "PASS"
+    },
+    {
+      "name": "dropping_the_central_factor_changes_the_ordered_product",
+      "status": "PASS"
+    },
+    {
+      "name": "formal_exponentials_descend_through_each_memory_cut",
+      "status": "PASS"
+    },
+    {
+      "name": "raising_exponential_on_unit_is_the_existing_counting_exponential",
+      "status": "PASS"
+    },
+    {
+      "name": "counting_lowering_flow_has_additive_composition",
+      "status": "PASS"
+    },
+    {
+      "name": "Newton_translation_matches_independent_finite_Taylor_translation",
+      "status": "PASS"
+    },
+    {
+      "name": "regular_logarithmic_generator_is_the_original_polynomial_derivative",
+      "status": "PASS"
+    },
+    {
+      "name": "counting_flow_and_raw_translation_differ_before_the_cut",
+      "status": "PASS"
+    },
+    {
+      "name": "all_finite_windows_retain_the_top_boundary_commutator_defect",
+      "status": "PASS"
+    },
+    {
+      "name": "finite_window_is_rejected_as_a_full_operator_algebra_representation",
+      "status": "PASS"
+    },
+    {
+      "name": "word_height_guard_preserves_every_intermediate_state",
+      "status": "PASS"
+    },
+    {
+      "name": "unguarded_DX_loses_a_nonzero_boundary_response",
+      "status": "PASS"
+    },
+    {
+      "name": "historical_RH_source_and_global_eta_are_unchanged",
+      "status": "PASS"
+    }
+  ],
+  "controls": [
+    "missing_last_probe_leaves_a_nontrivial_operator_invisible",
+    "unknown_order_cannot_be_certified_by_a_finite_prefix",
+    "ordinary_product_in_native_recovery_would_give_wrong_coefficient",
+    "single_cut_loses_the_first_unretained_operator_layer",
+    "every_fixed_memory_depth_has_an_explicit_blind_next_layer",
+    "negative_memory_depth_is_not_an_admitted_cut",
+    "dropping_the_central_factor_changes_the_ordered_product",
+    "counting_flow_and_raw_translation_differ_before_the_cut",
+    "finite_window_is_rejected_as_a_full_operator_algebra_representation",
+    "unguarded_DX_loses_a_nonzero_boundary_response"
+  ],
+  "check_count": 27,
+  "negative_control_count": 10,
+  "inherited_source_pins_checked": 95,
+  "contract": {
+    "carrier": "Q[Lambda,x] with the SE30 counting basis",
+    "zero": "Named typed cut; additive neutral elements and compressed-window loss are separate types",
+    "response": "Whole polynomial A p_k",
+    "probe_order": "Declared r; probes p_0 through p_r",
+    "memory_depth": "Declared normal-coefficient Lambda degree d; retain through d",
+    "curvature_developed": false
+  },
+  "finite_ranges": {
+    "steps": [
+      "1/3",
+      1,
+      2,
+      "-2/5"
+    ],
+    "normal_power_degrees_through": 6,
+    "recovery_order_through": 5,
+    "unit_memory_example_degree": 3,
+    "bivariate_exp_orders_through": [
+      6,
+      6
+    ],
+    "formal_flow_order": 8,
+    "polynomial_translation_degree_through": 9,
+    "window_N_through": 8,
+    "guarded_word_length_through": 5,
+    "guarded_word_checks": 252
+  },
+  "details": {
+    "normal_order": {
+      "audit": "CONFLUENT_BY_CHECKED_DIAMONDS",
+      "critical_pairs": 1,
+      "presentation": {
+        "objects": [
+          "*"
+        ],
+        "tokens": [
+          {
+            "name": "L",
+            "from": "*",
+            "to": "*",
+            "charge": "0"
+          },
+          {
+            "name": "X",
+            "from": "*",
+            "to": "*",
+            "charge": "0"
+          },
+          {
+            "name": "D",
+            "from": "*",
+            "to": "*",
+            "charge": "0"
+          }
+        ],
+        "rules": [
+          {
+            "id": "XL",
+            "lhs": [
+              "X",
+              "L"
+            ],
+            "rhs": [
+              [
+                [
+                  "L",
+                  "X"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ],
+            "source": "SE30 constant unit: Lambda commutes with X"
+          },
+          {
+            "id": "DL",
+            "lhs": [
+              "D",
+              "L"
+            ],
+            "rhs": [
+              [
+                [
+                  "L",
+                  "D"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ],
+            "source": "SE30 constant unit: Lambda commutes with D"
+          },
+          {
+            "id": "DX",
+            "lhs": [
+              "D",
+              "X"
+            ],
+            "rhs": [
+              [
+                [],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "X",
+                  "D"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ]
+            ],
+            "source": "SE30 Theorem 4: [D,X]=I on the counting basis"
+          }
+        ]
+      }
+    },
+    "recovered_family": {
+      "from": "*",
+      "to": "*",
+      "terms": [
+        [
+          [
+            "L",
+            "X"
+          ],
+          [
+            "1",
+            "0"
+          ]
+        ],
+        [
+          [
+            "X",
+            "X",
+            "D",
+            "D"
+          ],
+          [
+            "2/3",
+            "0"
+          ]
+        ],
+        [
+          [
+            "L",
+            "L",
+            "D",
+            "D",
+            "D"
+          ],
+          [
+            "-2",
+            "0"
+          ]
+        ],
+        [
+          [
+            "L",
+            "L",
+            "L",
+            "X",
+            "X",
+            "X",
+            "D"
+          ],
+          [
+            "4/7",
+            "0"
+          ]
+        ]
+      ]
+    },
+    "observer_certificate": {
+      "rule": "Certification is the declared observer reading interpreted by its exact decoder",
+      "target": "The complete normal-ordered operator in the stated polynomial class",
+      "declared_class": {
+        "D_order_at_most": 3,
+        "normal_coefficient_Lambda_degree_at_most": 3
+      },
+      "probe_order": 3,
+      "retained_unit_degree": 3,
+      "response_coordinates": "U^-1(A p_k), coefficient by coefficient in Lambda",
+      "readings": [
+        {
+          "unit_degree": 0,
+          "probes": [
+            {
+              "probe": 0,
+              "polynomial": []
+            },
+            {
+              "probe": 1,
+              "polynomial": []
+            },
+            {
+              "probe": 2,
+              "polynomial": [
+                {
+                  "x_power": 2,
+                  "coefficient": [
+                    "4/3",
+                    "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "probe": 3,
+              "polynomial": [
+                {
+                  "x_power": 3,
+                  "coefficient": [
+                    "4",
+                    "0"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit_degree": 1,
+          "probes": [
+            {
+              "probe": 0,
+              "polynomial": [
+                {
+                  "x_power": 1,
+                  "coefficient": [
+                    "1",
+                    "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "probe": 1,
+              "polynomial": [
+                {
+                  "x_power": 2,
+                  "coefficient": [
+                    "1",
+                    "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "probe": 2,
+              "polynomial": [
+                {
+                  "x_power": 3,
+                  "coefficient": [
+                    "1",
+                    "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "probe": 3,
+              "polynomial": [
+                {
+                  "x_power": 4,
+                  "coefficient": [
+                    "1",
+                    "0"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit_degree": 2,
+          "probes": [
+            {
+              "probe": 0,
+              "polynomial": []
+            },
+            {
+              "probe": 1,
+              "polynomial": []
+            },
+            {
+              "probe": 2,
+              "polynomial": []
+            },
+            {
+              "probe": 3,
+              "polynomial": [
+                {
+                  "x_power": 0,
+                  "coefficient": [
+                    "-12",
+                    "0"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit_degree": 3,
+          "probes": [
+            {
+              "probe": 0,
+              "polynomial": []
+            },
+            {
+              "probe": 1,
+              "polynomial": [
+                {
+                  "x_power": 3,
+                  "coefficient": [
+                    "4/7",
+                    "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "probe": 2,
+              "polynomial": [
+                {
+                  "x_power": 4,
+                  "coefficient": [
+                    "8/7",
+                    "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "probe": 3,
+              "polynomial": [
+                {
+                  "x_power": 5,
+                  "coefficient": [
+                    "12/7",
+                    "0"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "example_scope": "The supplied SE31 polynomial family; not the actual RH source",
+      "decoded_operator": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [
+              "L",
+              "X"
+            ],
+            [
+              "1",
+              "0"
+            ]
+          ],
+          [
+            [
+              "X",
+              "X",
+              "D",
+              "D"
+            ],
+            [
+              "2/3",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "D",
+              "D",
+              "D"
+            ],
+            [
+              "-2",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "L",
+              "L",
+              "X",
+              "X",
+              "X",
+              "D"
+            ],
+            [
+              "4/7",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "verdict": "COMPLETE_OPERATOR_READING_IN_DECLARED_CLASS"
+    },
+    "single_cut_example": {
+      "family": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [
+              "D"
+            ],
+            [
+              "1",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "X"
+            ],
+            [
+              "1",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "cut": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [
+              "D"
+            ],
+            [
+              "1",
+              "0"
+            ]
+          ]
+        ]
+      },
+      "repair": {
+        "from": "*",
+        "to": "*",
+        "terms": [
+          [
+            [
+              "D"
+            ],
+            [
+              "1",
+              "0"
+            ]
+          ],
+          [
+            [
+              "L",
+              "X"
+            ],
+            [
+              "1",
+              "0"
+            ]
+          ]
+        ]
+      }
+    },
+    "loop": {
+      "formal_modulus": "t^9",
+      "parameters": [
+        "2/3",
+        "5/7"
+      ],
+      "identity": "exp((10/21)*t^2) I",
+      "first_retained_coefficients": [
+        {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "1",
+                "0"
+              ]
+            ]
+          ]
+        },
+        {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "10/21",
+                "0"
+              ]
+            ]
+          ]
+        },
+        {
+          "from": "*",
+          "to": "*",
+          "terms": []
+        },
+        {
+          "from": "*",
+          "to": "*",
+          "terms": [
+            [
+              [],
+              [
+                "50/441",
+                "0"
+              ]
+            ]
+          ]
+        }
+      ]
+    },
+    "flow_difference": {
+      "probe": "x^2",
+      "counting_minus_translation": "a Lambda",
+      "first_unit_layer": "a"
+    }
+  },
+  "RH": {
+    "eta": "1079/2000",
+    "native_floor": "1/492000",
+    "global_replay_rerun": false,
+    "eta_zero_certified": false,
+    "RH_proved": false
+  },
+  "evidence": {
+    "universal_arguments": "Five written theorems",
+    "finite_computation": "Exact application of unchanged canonical engines",
+    "formal_proof_assistant": false,
+    "external_review": false,
+    "whole_engine_pass": false
+  },
+  "not_claimed": [
+    "r+1 scalar measurements suffice",
+    "unknown order recovered from finite data",
+    "a finite jet recovers arbitrary infinite memory",
+    "a bounded realization of the polynomial Weyl pair",
+    "T55 EMK relations equal Weyl relations",
+    "analytic convergence without a domain contract",
+    "uniform noisy-data stability",
+    "new eta or RH positivity"
+  ]
+}

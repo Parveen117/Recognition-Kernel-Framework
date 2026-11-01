@@ -1,0 +1,82 @@
+{
+  "stage": "SE39",
+  "scope": "Exact rational controls on supplied polynomial response models; no xi zero computation or global RH certificate.",
+  "points": [
+    "3",
+    "4"
+  ],
+  "pair": {
+    "polynomial_coefficients_ascending": [
+      "2",
+      "2",
+      "1"
+    ],
+    "readings": [
+      [
+        "184/289",
+        "112/221"
+      ],
+      [
+        "112/221",
+        "68/169"
+      ]
+    ],
+    "determinant": "-32/48841",
+    "decoded_negative_vector": [
+      "-238/299",
+      "1"
+    ],
+    "decoded_reading": "-4/3887"
+  },
+  "masked": {
+    "polynomial_coefficients_ascending": [
+      "2048",
+      "32768",
+      "249344",
+      "1200640",
+      "4106240",
+      "10612224",
+      "21526464",
+      "35136192",
+      "46933320",
+      "51894240",
+      "47850726",
+      "36949266",
+      "23925363",
+      "12973560",
+      "5866665",
+      "2196012",
+      "672702",
+      "165816",
+      "32080",
+      "4690",
+      "487",
+      "32",
+      "1"
+    ],
+    "readings": [
+      [
+        "18313/2890",
+        "3430/663"
+      ],
+      [
+        "3430/663",
+        "32128/7605"
+      ]
+    ],
+    "determinant": "57532/10989225"
+  },
+  "checks": [
+    "mixed and diagonal readings match the independent pair formula",
+    "pair matrix exact values",
+    "pair diagonals are positive",
+    "sector determinant identity and negative sign",
+    "mixed reading detects a negative direction",
+    "full degree-22 response matches summed sectors",
+    "masked matrix exact values",
+    "two-probe masked reading is positive definite",
+    "real atom 1 has positive rank one",
+    "real atom 2 has positive rank one"
+  ],
+  "check_count": 10
+}

@@ -13,6 +13,11 @@ Author: Monty Dabas
 
 The single active operator-engine source is [operator_foundation/](operator_foundation/README.md), on this repository's `main` branch. Version 0.5 combines the native cut-field core, residue paths, Laurent/jet backend, Pāṇinian symbolic compiler, automatic faithful regular models, weighted infinite completion, proofs, jobs and verification. No other repository checkout is required for this engine.
 
+The frozen v0.5 evidence requires **Node 22.16.0**, pinned in `.node-version`.
+Its Laurent certificate includes the runtime version in its hash; a different
+Node version can therefore fail the archive check even when the arithmetic passes.
+Use the declared runtime; do not replace the expected hashes.
+
 ```text
 cd operator_foundation
 node verify_all.cjs --check
@@ -32,4 +37,8 @@ Start with the [current mathematics index](MATHEMATICS_INDEX.md). The complete e
 
 The corrected public reference tree, including the Morphic Algebra and Morphic Operator Geometry LaTeX and the Pāṇinian theorem line, is retained in `operator_foundation/sources/rkf_reference`. It is read-only provenance. Historical source inclusion does not upgrade a conditional claim to a theorem. Private historical research/patent source trees are not included.
 
-Local execution covered 557 named exact finite checks and 13 mathematical mutation controls. This is not proof-assistant verification, a rerun of every historical scientific suite, or physical quantum-gravity identification. See the [0.5 development validation](operator_foundation/audit/DEVELOPMENT_V0_5.md) and [original migration limits](OPERATOR_MIGRATION_2026_09_26.md). The requested Python 3.11/3.12 navigation suite was not executed because that runtime was unavailable.
+Local execution covered 557 named exact finite checks and 13 mathematical mutation controls. This is not proof-assistant verification, a rerun of every historical scientific suite, or physical quantum-gravity identification. See the [0.5 development validation](operator_foundation/audit/DEVELOPMENT_V0_5.md) and [original migration limits](OPERATOR_MIGRATION_2026_09_26.md). That migration did not have Python 3.11/3.12 available. The [1 November integration audit](research-history/PENDING_WORK_2026_11_01.md) subsequently passed the Python 3.12 navigation and package checks, and replayed the unchanged v0.5 engine under Node 22.16.0.
+
+## Integrated research branches
+
+[Pending-work integration record](research-history/PENDING_WORK_2026_11_01.md) records the 29-branch audit and six reconciled histories: MR-04–MR-07 memory contracts, source-energy/lambda-counting through SE49, R3/R4 structure and repair reports, the lambda-first construction policy, and the superseded correction/operator branches. All earlier source histories and patent notices are retained. See the [mathematics index](MATHEMATICS_INDEX.md) for the operative routes and the [claim boundary](CLAIM_BOUNDARY.md) for unresolved research gates.

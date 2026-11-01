@@ -1,0 +1,48 @@
+{
+  "protocol": "RKF_STRUCTURE_REPORT_MUTATIONS_R3",
+  "controls": [
+    {
+      "fault": "transpose_instead_of_native_dagger_in_mark",
+      "rejected": true,
+      "exit_code": 1,
+      "first_failure": "N06 identity failed for S"
+    },
+    {
+      "fault": "skip_observer_completion_use_raw_observer",
+      "rejected": true,
+      "exit_code": 1,
+      "first_failure": "R3-A failed: completed observer must satisfy P s Q = 0"
+    },
+    {
+      "fault": "transpose_projector_is_not_self_dagger",
+      "rejected": true,
+      "exit_code": 1,
+      "first_failure": "Retained projector must be a self-dagger idempotent"
+    },
+    {
+      "fault": "forward_leak_mistaken_for_the_mark",
+      "rejected": true,
+      "exit_code": 1,
+      "first_failure": "N06 identity failed for S"
+    },
+    {
+      "fault": "accept_negative_weights_as_a_square",
+      "rejected": true,
+      "exit_code": 1,
+      "first_failure": "assertion"
+    },
+    {
+      "fault": "odd_part_defined_as_even_part",
+      "rejected": true,
+      "exit_code": 1,
+      "first_failure": "Cut grading identities failed"
+    },
+    {
+      "fault": "pivot_repair_with_daggered_coefficient",
+      "rejected": true,
+      "exit_code": 1,
+      "first_failure": "Zero cut scalar has no inverse"
+    }
+  ],
+  "live_files_modified": false
+}

@@ -1,0 +1,53 @@
+{
+  "repository": "Parveen117/MP",
+  "pr": 278,
+  "head": "85f14bff136f441544106867e0aaab72b2199cc7",
+  "base": "e9a6b0cf1f782ff973158fba7ce57a972e845c95",
+  "original_pr_merge_ref_commit": "6bba4ab75f8faf8445de0016c7eb658ce67955ac",
+  "original_actions_run": 30804775552,
+  "original_artifact_id": 8852298312,
+  "original_artifact_zip_sha256": "7be086a1536f000cd5ec12b4a4a51a6ad27ef571f834717e7ae35d74b805ef6d",
+  "files": {
+    "proof_lab/clock_free_recognition/native_t21_direct_unshifted_cut_burden.py": "7f3d59962685cc955aafbf23dea61eabf2611744",
+    "proof_lab/clock_free_recognition/test_native_t21_direct_unshifted_cut_burden.py": "f5787ceb055757bbc595c3212d2e52fd16f8833e",
+    "proof_lab/clock_free_recognition/T21_DIRECT_UNSHIFTED_CUT_BURDEN_THEOREM.md": "6f71ec642379337b59b0e7da1546056e728962b8",
+    ".github/workflows/run-t21-direct-unshifted-cut-burden.yml": "4059e714f5fef4de3eec2cce186b2854c76e83bb",
+    "proof_lab/clock_free_recognition/native_t19_refined_boundary_burden.py": "9a764d11db9179bf045a032c76254758c2d59d69",
+    "proof_lab/clock_free_recognition/native_arb_unshifted_source_certificate.py": "c5e2e6b5ff59f22c18526b98bb88b33b152a7281",
+    "papers/rh_initial_journey/native_arb_covariant_active_band.py": "624c2589590e3ae15fb72a4835dbc8889db3607a"
+  },
+  "original_result": {
+    "status": "PASS_T21_DIRECT_UNSHIFTED_CUT_BURDEN",
+    "beta_zero_upper": "0.8290856201657449",
+    "threshold_reserve_lower": "0.17091437983425506",
+    "active_cells": 2400,
+    "prime_power_count": 78734
+  },
+  "full_profile_export": {
+    "branch": "agent/t21-full-profile-export",
+    "head": "bae34ce18e280cad064aeeed0df36eb38c8af7f8",
+    "source_relation": "WORKFLOW_ONLY_DESCENDANT_OF_EXACT_SOURCE_HEAD",
+    "actions_run": 31574582222,
+    "artifact_id": 9132657205,
+    "artifact_name": "t21-full-directed-profile-binary64",
+    "artifact_zip_sha256": "0f3c8aca1cbaa1adfb51145bd1691b04a2b921b7e94831e4ca0eab9b704bde2d",
+    "internal_profile_sha256": "9d304d6ff51823ed994ebdcf65de22f3289d9b66c03674d5a711156ea60a706b",
+    "binary_profile_sha256": "0cf54e6f8e2d30e4d03f70f5826d47972c3a8c698d730d358dca8b5b7e3fcc02",
+    "compressed_profile_sha256": "63b5f8ed67fe8bba606e1486b98279c8ff2976dd7f8831f2de00294c7ccac95b",
+    "profile_parts": {
+      "NW3_6_T21_PROFILE.part00.b64": "930f2063ec15f25878cdd00162dafec3b95715df63fb9fbd119d438d758c0c57",
+      "NW3_6_T21_PROFILE.part01.b64": "3e2907fbac57b6a4d9dc9e9f26d18e5dc0cbb638b3b828d25e6d0604079b707a",
+      "NW3_6_T21_PROFILE.part02.b64": "91a6084bcfb1e98bca91b5e16ae226e459d6b37a2729cc50e43fa12d908f2a75",
+      "NW3_6_T21_PROFILE.part03.b64": "334ca88dbdfa1da49907b9082a59ea0f6fd0e9b74521de0be5ca61096320e81e",
+      "NW3_6_T21_PROFILE.part04.b64": "98ab4852473c135f4ec6d8c4ef4c3dd606b7ab72d95ef4b4f0b6cf4b239f643c",
+      "NW3_6_T21_PROFILE.part05.b64": "eabf9b12e8a390dbd1408a1341fd4542fae385db9d9b902e02b5a0e8e878e39d",
+      "NW3_6_T21_PROFILE.part06.b64": "b13e93bd0bf3ff156553990d8814f512a7397c3763036599cde6fb5e173526c8"
+    }
+  },
+  "claim_boundary": {
+    "binary64_profile_role": "EXACT_IDENTITY_OF_PINNED_OUTWARD_ARB_OUTPUT",
+    "analytic_constants": "NOT_REPLACED_BY_BINARY64_EQUALITIES",
+    "rh": "NOT_TOUCHED"
+  }
+}
+
