@@ -2,10 +2,27 @@ name: Morphic Recognition RNKE Proof Contract
 
 on:
   push:
-    branches:
-      - agent/morphic-path-recognition-theorems
-      - main
+    branches: [main]
+    paths:
+      - 'proof_lab/__init__.py'
+      - 'proof_lab/morphic_recognition/__init__.py'
+      - 'proof_lab/morphic_recognition/verify.py'
+      - 'proof_lab/test_morphic_recognition.py'
+      - 'theorum/morphic_recognition/01_*.md'
+      - 'theorum/morphic_recognition/02_*.md'
+      - 'theorum/morphic_recognition/03_*.md'
+      - 'theorum/morphic_recognition/RNKE_PROOF_PROTOCOL.md'
   pull_request:
+    branches: [main]
+    paths:
+      - 'proof_lab/__init__.py'
+      - 'proof_lab/morphic_recognition/__init__.py'
+      - 'proof_lab/morphic_recognition/verify.py'
+      - 'proof_lab/test_morphic_recognition.py'
+      - 'theorum/morphic_recognition/01_*.md'
+      - 'theorum/morphic_recognition/02_*.md'
+      - 'theorum/morphic_recognition/03_*.md'
+      - 'theorum/morphic_recognition/RNKE_PROOF_PROTOCOL.md'
   workflow_dispatch:
 
 permissions:

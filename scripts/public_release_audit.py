@@ -60,6 +60,41 @@ PATTERNS: dict[str, re.Pattern[str]] = {
     ),
 }
 
+# A reviewed, explicitly negative statement in an immutable source packet.
+# Match the complete wording and path, not a generic "No" or a whole file:
+# different wording and any additional positive claim still fail closed.
+REVIEWED_RH_DENIALS = {
+    "papers/rkf_completed_weil_endpoint/development/SE19_RETAINED_RESIDUAL_POLE_RECOVERY.md": (
+        "No smaller numerical anchor,\n"
+        "eta-zero sign, historical five-label identification, K0 or RH is "
+        "proved.",
+    ),
+}
+
+
+def audit_text(relative: str, text: str) -> list[tuple[str, str, int, str]]:
+    reviewed_spans = [
+        (match.start(), match.end())
+        for statement in REVIEWED_RH_DENIALS.get(relative, ())
+        for match in re.finditer(re.escape(statement), text)
+    ]
+    findings: list[tuple[str, str, int, str]] = []
+    offset = 0
+    for line_number, line in enumerate(text.splitlines(keepends=True), start=1):
+        for category, pattern in PATTERNS.items():
+            for match in pattern.finditer(line):
+                if category == "rh_overclaim" and any(
+                    start <= offset + match.start()
+                    and offset + match.end() <= end
+                    for start, end in reviewed_spans
+                ):
+                    continue
+                findings.append(
+                    (category, relative, line_number, line.strip()[:300])
+                )
+        offset += len(line)
+    return findings
+
 
 def candidate_files() -> list[Path]:
     completed = subprocess.run(
@@ -92,12 +127,7 @@ def main() -> int:
             continue
 
         relative = path.relative_to(ROOT).as_posix()
-        for line_number, line in enumerate(text.splitlines(), start=1):
-            for category, pattern in PATTERNS.items():
-                if pattern.search(line):
-                    findings.append(
-                        (category, relative, line_number, line.strip()[:300])
-                    )
+        findings.extend(audit_text(relative, text))
 
     if findings:
         print("FAIL_PUBLIC_RELEASE_AUDIT")

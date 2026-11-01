@@ -3,8 +3,16 @@ name: Recognition Kernel Review
 on:
   push:
     branches: [main]
+    paths:
+      - 'theorems/foundation/**'
+      - 'certificates/foundation/**'
+      - 'src/rh_framework/native_summability.py'
   pull_request:
     branches: [main]
+    paths:
+      - 'theorems/foundation/**'
+      - 'certificates/foundation/**'
+      - 'src/rh_framework/native_summability.py'
   workflow_dispatch:
 
 permissions:

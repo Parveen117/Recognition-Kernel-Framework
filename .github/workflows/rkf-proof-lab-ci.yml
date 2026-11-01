@@ -1,18 +1,7 @@
 name: RKF proof-lab CI
 
 on:
-  push:
-    branches:
-      - agent/bilateral-jet-flow-capstone
-      - agent/madhava-smriti-jet-flow-closure
-      - agent/directed-arithmetic-analytic-closure
-      - agent/first-visible-jet-seam-quotient
-      - agent/source-bound-numerical-validation
-      - agent/semantic-paninian-normal-form
-      - agent/consolidate-all-work-2026-09-12
-      - theorem-49-local-to-uniform-seam-gap
-      - main
-  pull_request:
+  # Historical full campaign. Use the scoped repository checks for daily work.
   workflow_dispatch:
 
 permissions:

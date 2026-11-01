@@ -1,0 +1,134 @@
+name: Repository checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  affected-contracts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Select affected existing contracts
+        id: scope
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before }}
+          HEAD_SHA: ${{ github.sha }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import re
+          import subprocess
+          from pathlib import Path
+
+          base = os.environ.get('BASE_SHA', '')
+          head = os.environ['HEAD_SHA']
+          full = os.environ['EVENT_NAME'] == 'workflow_dispatch'
+          # A first push has no previous commit: check every bounded contract.
+          if not re.fullmatch(r'[0-9a-f]{40}', base) or set(base) == {'0'}:
+              full = True
+          changed = set() if full else set(subprocess.check_output(
+              ['git', 'diff', '--name-only', '-z', base, head], text=True
+          ).split('\0')) - {''}
+
+          def under(prefix):
+              return any(path.startswith(prefix) for path in changed)
+
+          runtime = '.node-version' in changed
+          native = 'operator_foundation/core/native_operator.cjs' in changed
+          memory_manifest = 'theorum/morphic_recognition/MEMORY_SOURCE_MANIFEST.json'
+          # Follow the declared source set without importing scientific code.
+          memory_inputs = set(json.loads(Path(memory_manifest).read_text())['source_sha256'])
+          memory_inputs.update({
+              memory_manifest,
+              'theorum/morphic_recognition/MEMORY_CERTIFICATE.json',
+              'proof_lab/__init__.py',
+              'proof_lab/morphic_recognition/__init__.py',
+          })
+          structure = 'research/structure_report/'
+          shared_structure = {
+              structure + 'structure_report.cjs',
+              structure + 'instances.cjs',
+          }
+          signal_inputs = {
+              'operator_foundation/theory/01_NATIVE_ALGEBRA.md',
+              'theorum/stratified_recognition/04_physical_observer_minimum_sensor_repair.md',
+              'theorum/thermodynamics/10_thermodynamic_cut_square_response_decomposition.md',
+              'theorum/thermodynamics/09_scope_exclusions.md',
+          }
+          scopes = {
+              'engine': runtime or any(
+                  path.startswith('operator_foundation/')
+                  and not path.startswith('operator_foundation/sources/')
+                  for path in changed
+              ),
+              'memory': bool(changed & memory_inputs),
+              'r3': runtime or native or any(
+                  path.startswith(structure) and not path.startswith(structure + 'r4/')
+                  for path in changed
+              ),
+              'r4': runtime or native or under(structure + 'r4/')
+                    or bool(changed & shared_structure),
+              'ss1': runtime or native or under('research/sectoral_signal/')
+                     or bool(changed & signal_inputs),
+          }
+          scopes = {name: full or selected for name, selected in scopes.items()}
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as output:
+              for name, selected in scopes.items():
+                  output.write(f'{name}={str(selected).lower()}\n')
+              output.write(f'node={str(any(scopes[k] for k in ("engine", "r3", "r4", "ss1"))).lower()}\n')
+          selected = ', '.join(name for name, enabled in scopes.items() if enabled) or 'none'
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as summary:
+              summary.write('Navigation and public-release text: always checked.\n\n')
+              summary.write(f'Additional existing contracts: {selected}.\n')
+          print(f'Additional existing contracts: {selected}')
+          PY
+      - name: Check mathematics navigation
+        run: python -m unittest proof_lab.test_mathematics_index -v
+      - name: Check public-release text and audit regressions
+        run: |
+          python -m unittest scripts.test_public_release_audit -v
+          python scripts/public_release_audit.py
+      - uses: actions/setup-node@v4
+        if: steps.scope.outputs.node == 'true'
+        with:
+          node-version-file: '.node-version'
+      - name: Check canonical operator engine
+        if: steps.scope.outputs.engine == 'true'
+        run: node operator_foundation/verify_all.cjs --check
+      - name: Check MR-04 through MR-07 memory contracts
+        if: steps.scope.outputs.memory == 'true'
+        run: |
+          python -m unittest -v \
+            proof_lab.test_morphic_memory \
+            proof_lab.test_guarded_lopa \
+            proof_lab.test_holonomy_scaling \
+            proof_lab.test_memory_certificate
+          python -m proof_lab.morphic_recognition.certify_memory --check-archive
+      - name: Check R3 structure report
+        if: steps.scope.outputs.r3 == 'true'
+        run: |
+          node research/structure_report/verify.cjs --check
+          node research/structure_report/mutate.cjs
+      - name: Check R4 declared-pairing repair
+        if: steps.scope.outputs.r4 == 'true'
+        run: |
+          node research/structure_report/r4/verify.cjs --check
+          node research/structure_report/r4/mutate.cjs
+      - name: Check SS1 sectoral signals
+        if: steps.scope.outputs.ss1 == 'true'
+        run: node research/sectoral_signal/verify.cjs --check
