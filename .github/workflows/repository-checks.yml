@@ -118,6 +118,10 @@ jobs:
                   'proof_lab/test_vedanga_sources_quoted.py',
                   'proof_lab/VEDANGA_SOURCES_QUOTED_EXPECTED.sha256',
                   'theorum/84_vedanga_sources_quoted_theorem.md',
+                  'proof_lab/nirukta_nama_akhyatajani.py',
+                  'proof_lab/test_nirukta_nama_akhyatajani.py',
+                  'proof_lab/NIRUKTA_NAMA_AKHYATAJANI_EXPECTED.sha256',
+                  'theorum/85_nirukta_nama_akhyatajani_theorem.md',
               }),
           }
           scopes = {name: full or selected for name, selected in scopes.items()}
@@ -166,10 +170,10 @@ jobs:
       - name: Check SS1 sectoral signals
         if: steps.scope.outputs.ss1 == 'true'
         run: node research/sectoral_signal/verify.cjs --check
-      - name: Check Theorem 78-84 quoted-source certificates, ledger and pins
+      - name: Check Theorem 78-85 quoted-source certificates, ledger and pins
         if: steps.scope.outputs.shaiva == 'true'
         run: |
-          python -B -m unittest proof_lab.test_shaiva_sources_nativized proof_lab.test_shaiva_sources_varga_crystal proof_lab.test_paninian_instruction_format proof_lab.test_paninian_samjna_sound_layer proof_lab.test_paninian_it_samjna_compiled proof_lab.test_paniniya_siksha_sources proof_lab.test_vedanga_sources_quoted proof_lab.test_astadhyayi_ledger -v
+          python -B -m unittest proof_lab.test_shaiva_sources_nativized proof_lab.test_shaiva_sources_varga_crystal proof_lab.test_paninian_instruction_format proof_lab.test_paninian_samjna_sound_layer proof_lab.test_paninian_it_samjna_compiled proof_lab.test_paniniya_siksha_sources proof_lab.test_vedanga_sources_quoted proof_lab.test_nirukta_nama_akhyatajani proof_lab.test_astadhyayi_ledger -v
           python -B -m proof_lab.shaiva_sources_nativized --output /tmp/shaiva_actual.json
           python -B -m proof_lab.shaiva_sources_varga_crystal --output /tmp/shaiva_vc_actual.json
           python -B -m proof_lab.paninian_instruction_format --output /tmp/pif_actual.json
@@ -177,6 +181,7 @@ jobs:
           python -B -m proof_lab.paninian_it_samjna_compiled --output /tmp/pisc_actual.json
           python -B -m proof_lab.paniniya_siksha_sources --output /tmp/pss_actual.json
           python -B -m proof_lab.vedanga_sources_quoted --output /tmp/vsq_actual.json
+          python -B -m proof_lab.nirukta_nama_akhyatajani --output /tmp/nna_actual.json
           python - <<'PY'
           import hashlib
           from pathlib import Path
@@ -186,7 +191,8 @@ jobs:
                                    ('/tmp/pssl_actual.json', 'proof_lab/PANINIAN_SAMJNA_SOUND_LAYER_EXPECTED.sha256'),
                                    ('/tmp/pisc_actual.json', 'proof_lab/PANINIAN_IT_SAMJNA_COMPILED_EXPECTED.sha256'),
                                    ('/tmp/pss_actual.json', 'proof_lab/PANINIYA_SIKSHA_SOURCES_EXPECTED.sha256'),
-                                   ('/tmp/vsq_actual.json', 'proof_lab/VEDANGA_SOURCES_QUOTED_EXPECTED.sha256')):
+                                   ('/tmp/vsq_actual.json', 'proof_lab/VEDANGA_SOURCES_QUOTED_EXPECTED.sha256'),
+                                   ('/tmp/nna_actual.json', 'proof_lab/NIRUKTA_NAMA_AKHYATAJANI_EXPECTED.sha256')):
               actual = hashlib.sha256(Path(actual_path).read_bytes()).hexdigest()
               expected = Path(pin).read_text(encoding='utf-8').strip()
               assert actual == expected, (pin, actual, expected)

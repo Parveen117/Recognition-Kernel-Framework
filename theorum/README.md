@@ -60,6 +60,7 @@ The advanced numbered surface now runs through Theorem 80:
 10. **82 — the it-saṁjñā layer compiled.** 1.3.2–1.3.9 as one interpreter on teaching forms = tradition on 116 forms; 1.3.4 / ataddhite / pratyayasya and the jñāpaka overrides (7.1.3, 7.3.50, 7.1.2) each load-bearing on named forms; theorum/58 and 63 `it_lopa` are instances; 1.1.46/47 augment placement and 1.4.13 aṅga read off the its (= theorum/80's 7.3.84 trigger on 40 states).
 11. **83 — the Śikṣā Vedāṅga.** Pāṇinīya Śikṣā quoted; varṇa counts reproduced; theorum/81's sthāna table from PŚ 13/17/18 (classes identical), theorum/79's manner rows from PŚ 39–40, e/ai and o/au separated by PŚ 21; 1.1.10 load-bearing under the karaṇa reading, redundant under the sparśa reading.
 12. **84 — the Vedāṅga packets 71–73 bound to their quoted sources.** Piṅgala 8.20–8.35, Baudhāyana i.48 / i.61–62, RVJ 1, 4, 22, 32 quoted; the pinned functions of theorum/71–73 compute the texts' numbers (pins untouched); theorum/71's adhvayoga = literal 8.32 + 1 recorded as a discrepancy.
+13. **85 — the Nirukta Vedāṅga.** Nirukta 1.12 *nāmāny ākhyātajāni* computed: gata/bhūta/kṛta from the teaching forms by theorum/82's its + kta + 6.4.37/7.2.10; 66 sup forms by theorum/63's pinned ladder, 18 laṭ forms by theorum/64 from the same roots; nāma/ākhyāta partition the computed padas; Gārgya's objection not decided.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -107,7 +108,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-84                           PRESENT
+NUMBERED THEOREM FILES 01-85                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT

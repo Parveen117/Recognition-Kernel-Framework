@@ -131,6 +131,7 @@ Use the audited [publication copy](theorum/morphic_algebra/main.tex) for mathema
 | It-saṁjñā compiled | [T82](theorum/82_paninian_it_samjna_compiled_theorem.md) | 1.3.2–1.3.9 one interpreter = tradition on 116 teaching forms; exceptions and jñāpaka overrides load-bearing on named forms; 58/63 it_lopa are instances; 1.1.46/47 placement and 1.4.13 aṅga from the its |
 | Śikṣā sources | [T83](theorum/83_paniniya_siksha_sources_theorem.md) | PŚ 13/17/18 → T81 sthāna table (classes identical), PŚ 39–40 → T79 manner rows, PŚ 21 separates e/ai o/au, 1.1.10 verdict by reading |
 | Vedāṅga sources quoted | [T84](theorum/84_vedanga_sources_quoted_theorem.md) | Piṅgala 8.20–8.35, BŚS i.48 / i.61–62, RVJ 1/4/22/32 quoted; T71–73 pins compute the texts' numbers; adhvayoga discrepancy recorded |
+| Nirukta | [T85](theorum/85_nirukta_nama_akhyatajani_theorem.md) | gata/bhūta/kṛta by 82-its + kta + 6.4.37/7.2.10; 66 sup forms by T63; 18 laṭ forms by T64; nāma/ākhyāta partition |
 | Pāṇinian cut-module algebra | [T56](theorum/56_canvas_operators_nativized_theorem.md), [T58](theorum/58_paninian_seam_calculus_theorem.md), [T60](theorum/60_seam_compensated_confluence_verdict_theorem.md), [T61](theorum/61_rewrite_rules_as_cut_module_operators_theorem.md) | finite declared carriers and rule sets |
 | Grammar carriers | [T63–68](#theorems-58-77-paninian-domain-yang-mills-tool-and-semantic-chain) | exact finite nominal, verbal, sandhi, and kāraka/vibhakti carriers |
 | Obligation and evidence ladders | [T69](theorum/69_mimamsa_obligation_closure_theorem.md), [T70](theorum/70_angatva_pramana_ladder_theorem.md) | declared Mīmāṃsā/pramāṇa finite models |
@@ -355,6 +356,7 @@ The register below distinguishes theorem capsules from plans, source maps, certi
 | 82 | [The It-Saṁjñā Layer Compiled](theorum/82_paninian_it_samjna_compiled_theorem.md) | 1.3.2–1.3.9 interpreter; augment placement; aṅga |
 | 83 | [The Śikṣā Vedāṅga: Pāṇinīya Śikṣā Quoted, Tables Derived](theorum/83_paniniya_siksha_sources_theorem.md) | quoted-source finite carriers |
 | 84 | [The Vedāṅga Packets 71–73 Bound to Their Quoted Sources](theorum/84_vedanga_sources_quoted_theorem.md) | quoted-source binding of pinned packets |
+| 85 | [The Nirukta Vedāṅga: nāmāny ākhyātajāni Computed](theorum/85_nirukta_nama_akhyatajani_theorem.md) | nāma and ākhyāta from one dhātu on the 82/63/64 carriers |
 
 ## 7. Parallel theorem registers
 

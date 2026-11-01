@@ -867,6 +867,22 @@ proof_lab/test_vedanga_sources_quoted.py
 proof_lab/VEDANGA_SOURCES_QUOTED_EXPECTED.sha256
 ```
 
+## Theorem 85 Nirukta nāmāny-ākhyātajāni packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Nirukta 1.12 (Śākaṭāyana) made a computation: from gamḷ~, bhū, ḍukṛñ, theorum/82's its + kta with 6.4.37 / 7.2.10 give gata, bhūta, kṛta; theorum/63's pinned ladder derives all 66 sup forms; theorum/64's pinned laṭ gives the 18 ākhyāta forms from the same roots; nāma / ākhyāta partition the computed padas |
+| Status | `PASS_NIRUKTA_NAMA_AKHYATAJANI_CANDIDATE` |
+| Canonical result SHA-256 | `950cad0deabd1f8185eadb5f85cb7b407a24f6fdf2e544466693cc1542a2b73b` |
+| Boundary | three roots and one kṛt affix (Gārgya's "na sarvāṇi" not decided); 6.4.37 list and aniṭ status declared from the Dhātupāṭha; Nirukta 1.1 standard text, 1.12 verified; upasarga / nipāta cited |
+
+```text
+theorum/85_nirukta_nama_akhyatajani_theorem.md
+proof_lab/nirukta_nama_akhyatajani.py
+proof_lab/test_nirukta_nama_akhyatajani.py
+proof_lab/NIRUKTA_NAMA_AKHYATAJANI_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
