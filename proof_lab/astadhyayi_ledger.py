@@ -82,6 +82,7 @@ def _norm(s: str) -> str:
 
 # ---------------------------------------------------------------- curated texts (IAST); blank = not yet entered
 TEXT = {
+    "4.1.76": "taddhitāḥ", "4.1.82": "samarthānāṁ prathamād vā", "4.1.83": "prāg dīvyato 'ṇ", "4.1.92": "tasyāpatyam", "4.1.95": "ata iñ", "4.1.105": "gargādibhyo yañ", "4.3.120": "tasyedam", "7.2.117": "taddhiteṣv acām ādeḥ", "7.2.118": "kiti ca", "6.4.146": "or guṇaḥ", "6.4.148": "yasyeti ca", "7.3.50": "ṭhasyekaḥ",
     "3.2.115": "parokṣe liṭ", "3.4.82": "parasmaipadānāṁ ṇalatususthalathusaṇalvamāḥ", "1.2.5": "asaṁyogāl liṭ kit", "6.1.8": "liṭi dhātor anabhyāsasya", "6.1.1": "ekāco dve prathamasya", "6.1.4": "pūrvo 'bhyāsaḥ", "7.4.59": "hrasvaḥ", "7.4.60": "halādiḥ śeṣaḥ", "7.4.62": "kuhoś cuḥ", "7.4.66": "ur at", "7.4.73": "bhavater aḥ", "7.2.115": "aco ñṇiti", "7.2.116": "ata upadhāyāḥ", "6.4.98": "gamahanajanakhanaghasāṁ lopaḥ kṅity anaṅi", "7.2.13": "kṛsṛbhṛvṛstudrusruśruvo liṭi",
     "3.2.110": "luṅ", "3.1.43": "cli luṅi", "3.1.44": "cleḥ sic", "3.1.55": "puṣādidyutādyḷditaḥ parasmaipadeṣu", "2.4.77": "gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu", "6.4.88": "bhuvo vug luṅliṭoḥ", "7.2.1": "sici vṛddhiḥ parasmaipadeṣu", "7.3.96": "astisico 'pṛkte", "8.4.41": "ṣṭunā ṣṭuḥ", "3.4.109": "sijabhyastavidibhyaś ca",
     "3.4.21": "samānakartṛkayoḥ pūrvakāle", "3.3.10": "tumunṇvulau kriyāyāṁ kriyārthāyām", "3.1.96": "tavyattavyānīyaraḥ", "7.2.11": "śryukaḥ kiti", "8.3.24": "naś cāpadāntasya jhali", "8.4.58": "anusvārasya yayi parasavarṇaḥ",
@@ -163,6 +164,7 @@ COMPILED = {  # theorum/80 record compiler
     "80": ["6.1.77", "6.1.78", "6.1.87", "6.1.88", "6.1.101", "7.3.77", "6.1.73", "6.1.71", "8.4.40", "7.3.84"],
 }
 META = {  # interpreter / saṁjñā / paribhāṣā sūtras implemented by a certificate
+    "103": ["4.1.76", "4.1.82", "4.1.83", "4.1.92", "4.1.95", "4.1.105", "4.3.120", "6.4.129", "1.4.18", "1.2.46"],
     "102": ["3.2.115", "1.2.5"],
     "101": ["3.2.110", "3.1.43", "7.2.10"],
     "100": ["3.4.21", "3.3.10", "3.1.96", "7.2.10", "1.2.46"],
@@ -189,6 +191,7 @@ META = {  # interpreter / saṁjñā / paribhāṣā sūtras implemented by a ce
     "80": ["1.1.49", "1.1.66", "1.1.67", "6.1.84", "6.1.72", "1.1.69", "1.1.70", "1.1.52", "1.1.55", "1.1.46", "1.3.10", "1.1.50", "1.1.51", "1.4.2", "1.1.1", "1.1.2", "6.4.1"],
 }
 HAND_CODED = {  # exact finite functions in certified packets: the numbers each packet's source actually carries
+    "103": ["7.2.117", "7.2.118", "6.4.146", "6.4.148", "7.3.50", "6.1.78"],
     "102": ["3.4.82", "6.1.8", "6.1.1", "6.1.4", "7.4.59", "7.4.60", "7.4.62", "7.4.66", "7.4.73", "8.4.54", "6.4.88", "7.2.115", "7.2.116", "6.4.98", "7.2.13", "7.2.35", "1.1.5", "6.1.77", "6.1.78", "8.2.66", "8.3.15"],
     "101": ["3.1.44", "3.1.55", "2.4.77", "6.4.88", "7.2.1", "7.3.96", "8.3.59", "8.4.41", "3.4.109", "6.4.71", "3.4.100", "3.4.101", "3.4.99", "7.1.3", "8.2.23", "7.3.101", "8.2.66", "8.3.15"],
     "100": ["7.2.35", "7.2.11", "1.1.5", "7.3.84", "6.1.78", "6.4.37", "8.3.24", "8.4.58"],
@@ -215,7 +218,7 @@ HAND_CODED = {  # exact finite functions in certified packets: the numbers each 
     "67": ["6.1.87", "6.1.113", "6.1.114", "6.4.77", "7.2.102", "7.2.106", "8.1.21", "8.2.1", "8.2.66", "8.3.15", "8.3.23"],
     "68": ["1.1.62", "1.4.23", "1.4.24", "1.4.32", "1.4.42", "1.4.45", "1.4.49", "1.4.54", "2.3.1", "2.3.2", "2.3.13", "2.3.18", "2.3.28", "2.3.36", "2.3.46", "2.3.50", "3.4.69"],
 }
-PACKET_OF = {"58": "paninian_seam_calculus", "63": "sup_vibhakti_resolver_ladder", "64": "ting_lat_parasmaipada", "65": "stem_classes_gayatri_coverage", "66": "lat_atmanepada", "67": "pada_to_line_external_sandhi", "68": "karaka_vibhakti_carrier", "80": "paninian_instruction_format", "81": "paninian_samjna_sound_layer", "82": "paninian_it_samjna_compiled", "85": "nirukta_nama_akhyatajani", "86": "nirukta_dhatupatha_nama", "87": "tripadi_nishtha_compiled", "88": "ap_stem_sup_compiled", "89": "ngi_stem_sup_compiled", "90": "r_stem_sup_compiled", "91": "ghi_stem_sup_compiled", "92": "hal_stem_sup_compiled", "93": "napumsaka_sup_compiled", "94": "sarvanama_sup_compiled", "95": "lan_parasmaipada_compiled", "96": "lot_lin_parasmaipada_compiled", "97": "lrt_lut_parasmaipada_compiled", "98": "sarvanama_ap_sup_compiled", "99": "atmanepada_lan_lot_lin_compiled", "100": "krt_ktva_tumun_tavya_compiled", "101": "lun_parasmaipada_compiled", "102": "lit_parasmaipada_compiled"}
+PACKET_OF = {"58": "paninian_seam_calculus", "63": "sup_vibhakti_resolver_ladder", "64": "ting_lat_parasmaipada", "65": "stem_classes_gayatri_coverage", "66": "lat_atmanepada", "67": "pada_to_line_external_sandhi", "68": "karaka_vibhakti_carrier", "80": "paninian_instruction_format", "81": "paninian_samjna_sound_layer", "82": "paninian_it_samjna_compiled", "85": "nirukta_nama_akhyatajani", "86": "nirukta_dhatupatha_nama", "87": "tripadi_nishtha_compiled", "88": "ap_stem_sup_compiled", "89": "ngi_stem_sup_compiled", "90": "r_stem_sup_compiled", "91": "ghi_stem_sup_compiled", "92": "hal_stem_sup_compiled", "93": "napumsaka_sup_compiled", "94": "sarvanama_sup_compiled", "95": "lan_parasmaipada_compiled", "96": "lot_lin_parasmaipada_compiled", "97": "lrt_lut_parasmaipada_compiled", "98": "sarvanama_ap_sup_compiled", "99": "atmanepada_lan_lot_lin_compiled", "100": "krt_ktva_tumun_tavya_compiled", "101": "lun_parasmaipada_compiled", "102": "lit_parasmaipada_compiled", "103": "taddhita_an_in_yan_compiled"}
 THEOREM_FILE = {
     "56": "theorum/56_canvas_operators_nativized_theorem.md", "58": "theorum/58_paninian_seam_calculus_theorem.md",
     "60": "theorum/60_seam_compensated_confluence_verdict_theorem.md", "61": "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
@@ -245,6 +248,7 @@ THEOREM_FILE = {
     "100": "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
     "101": "theorum/101_lun_parasmaipada_compiled_theorem.md",
     "102": "theorum/102_lit_parasmaipada_compiled_theorem.md",
+    "103": "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
 }
 SCAN = [THEOREM_FILE[k] for k in THEOREM_FILE] + ["theorum/70_angatva_pramana_ladder_theorem.md", "theorum/74_lopa_ledger_contraction_theorem.md"]
 NUM = re.compile(r"\b([1-8])\.([1-4])\.([0-9]{1,3})\b")

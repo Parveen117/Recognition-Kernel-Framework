@@ -1155,6 +1155,22 @@ proof_lab/test_lit_parasmaipada_compiled.py
 proof_lab/LIT_PARASMAIPADA_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 103 Taddhita Affixes aṇ, iñ, yañ, ṭhak Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | aupagava, kaurava, dāśarathi, dākṣi, gārgya, śaiva, bauddha, paurāṇika from the quoted sense sūtras with 7.2.117 / 7.2.118 (first-vowel vṛddhi by theorum/80's antaratama), 6.4.146, 6.4.148, 7.3.50, 6.1.78; each rule breaks exactly the derivations stated |
+| Status | `PASS_TADDHITA_AN_IN_YAN_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `b155be373ef472d8b22663dea569cb8e1b23b856db4bf9831a479cd6df170d60` |
+| Boundary | affix choice declared from the sense sūtra / gaṇa; feminines, 1.1.73, exceptions, declension not claimed |
+
+```text
+theorum/103_taddhita_an_in_yan_compiled_theorem.md
+proof_lab/taddhita_an_in_yan_compiled.py
+proof_lab/test_taddhita_an_in_yan_compiled.py
+proof_lab/TADDHITA_AN_IN_YAN_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |

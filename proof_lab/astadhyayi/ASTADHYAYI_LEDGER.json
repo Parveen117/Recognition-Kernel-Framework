@@ -10,12 +10,12 @@
   ],
   "counts": {
     "compiled": 10,
-    "meta": 80,
-    "hand_coded": 165,
-    "cited": 55,
+    "meta": 87,
+    "hand_coded": 170,
+    "cited": 56,
     "misnumbered": 2,
-    "entries": 312,
-    "text_missing": 28,
+    "entries": 325,
+    "text_missing": 30,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
     "iast_mismatch_with_pinned_edition": 0
@@ -391,6 +391,7 @@
         "proof_lab/lun_parasmaipada_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/paninian_instruction_format.py",
+        "proof_lab/taddhita_an_in_yan_compiled.py",
         "theorum/80_paninian_instruction_format_theorem.md"
       ]
     },
@@ -683,6 +684,18 @@
         "theorum/81_paninian_samjna_sound_layer_theorem.md"
       ]
     },
+    "1.1.73": {
+      "text": "",
+      "text_devanagari": "वृद्धिर्यस्याचामादिस्तद् वृद्धम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/taddhita_an_in_yan_compiled.py",
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md"
+      ]
+    },
     "1.2.4": {
       "text": "sārvadhātukam apit",
       "text_devanagari": "सार्वधातुकमपित्",
@@ -742,14 +755,17 @@
       "level": "meta",
       "theorems": [
         "T85",
-        "T100"
+        "T100",
+        "T103"
       ],
       "cited_in": [
         "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
+        "proof_lab/taddhita_an_in_yan_compiled.py",
         "proof_lab/tripadi_nishtha_compiled.py",
         "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md"
@@ -799,10 +815,12 @@
         "proof_lab/sarvanama_ap_sup_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "proof_lab/taddhita_an_in_yan_compiled.py",
         "proof_lab/tripadi_nishtha_compiled.py",
         "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md",
@@ -976,11 +994,13 @@
         "proof_lab/shaiva_sources_nativized.py",
         "proof_lab/silence_vibration_sutra_flow.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "proof_lab/taddhita_an_in_yan_compiled.py",
         "proof_lab/ting_lat_parasmaipada.py",
         "proof_lab/tripadi_nishtha_compiled.py",
         "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/62_silence_vibration_sutra_flow_theorem.md",
@@ -1214,10 +1234,13 @@
       "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
-        "T92"
+        "T92",
+        "T103"
       ],
       "cited_in": [
         "proof_lab/hal_stem_sup_compiled.py",
+        "proof_lab/taddhita_an_in_yan_compiled.py",
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
         "theorum/92_hal_stem_sup_compiled_theorem.md"
       ]
     },
@@ -2467,6 +2490,115 @@
         "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
+    "4.1.76": {
+      "text": "taddhitāḥ",
+      "text_devanagari": "तद्धिताः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T103"
+      ],
+      "cited_in": [
+        "proof_lab/taddhita_an_in_yan_compiled.py",
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md"
+      ]
+    },
+    "4.1.82": {
+      "text": "samarthānāṁ prathamād vā",
+      "text_devanagari": "समर्थानां प्रथमाद्वा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T103"
+      ],
+      "cited_in": [
+        "proof_lab/taddhita_an_in_yan_compiled.py",
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md"
+      ]
+    },
+    "4.1.83": {
+      "text": "prāg dīvyato 'ṇ",
+      "text_devanagari": "प्राग्दीव्यतोऽण्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T103"
+      ],
+      "cited_in": [
+        "proof_lab/taddhita_an_in_yan_compiled.py",
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md"
+      ]
+    },
+    "4.1.92": {
+      "text": "tasyāpatyam",
+      "text_devanagari": "तस्यापत्यम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T103"
+      ],
+      "cited_in": [
+        "proof_lab/taddhita_an_in_yan_compiled.py",
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md"
+      ]
+    },
+    "4.1.95": {
+      "text": "ata iñ",
+      "text_devanagari": "अत इञ्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T103"
+      ],
+      "cited_in": [
+        "proof_lab/taddhita_an_in_yan_compiled.py",
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md"
+      ]
+    },
+    "4.1.105": {
+      "text": "gargādibhyo yañ",
+      "text_devanagari": "गर्गादिभ्यो यञ्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T103"
+      ],
+      "cited_in": [
+        "proof_lab/taddhita_an_in_yan_compiled.py",
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md"
+      ]
+    },
+    "4.3.120": {
+      "text": "tasyedam",
+      "text_devanagari": "तस्येदम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T103"
+      ],
+      "cited_in": [
+        "proof_lab/taddhita_an_in_yan_compiled.py",
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md"
+      ]
+    },
+    "4.4.2": {
+      "text": "",
+      "text_devanagari": "तेन दीव्यति खनति जयति जितम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/taddhita_an_in_yan_compiled.py"
+      ]
+    },
     "6.1.1": {
       "text": "ekāco dve prathamasya",
       "text_devanagari": "एकाचो द्वे प्रथमस्य",
@@ -2745,7 +2877,8 @@
         "T97",
         "T98",
         "T100",
-        "T102"
+        "T102",
+        "T103"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
@@ -2762,9 +2895,11 @@
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/shaiva_sources_nativized.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "proof_lab/taddhita_an_in_yan_compiled.py",
         "proof_lab/ting_lat_parasmaipada.py",
         "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
@@ -3388,10 +3523,13 @@
       "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
-        "T92"
+        "T92",
+        "T103"
       ],
       "cited_in": [
         "proof_lab/hal_stem_sup_compiled.py",
+        "proof_lab/taddhita_an_in_yan_compiled.py",
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
         "theorum/92_hal_stem_sup_compiled_theorem.md"
       ]
     },
@@ -3451,6 +3589,34 @@
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
+      ]
+    },
+    "6.4.146": {
+      "text": "or guṇaḥ",
+      "text_devanagari": "ओर्गुणः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T103"
+      ],
+      "cited_in": [
+        "proof_lab/taddhita_an_in_yan_compiled.py",
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md"
+      ]
+    },
+    "6.4.148": {
+      "text": "yasyeti ca",
+      "text_devanagari": "यस्येति च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T103"
+      ],
+      "cited_in": [
+        "proof_lab/taddhita_an_in_yan_compiled.py",
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md"
       ]
     },
     "7.1.2": {
@@ -4081,15 +4247,47 @@
         "theorum/102_lit_parasmaipada_compiled_theorem.md"
       ]
     },
+    "7.2.117": {
+      "text": "taddhiteṣv acām ādeḥ",
+      "text_devanagari": "तद्धितेष्वचामादेः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T103"
+      ],
+      "cited_in": [
+        "proof_lab/taddhita_an_in_yan_compiled.py",
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md"
+      ]
+    },
+    "7.2.118": {
+      "text": "kiti ca",
+      "text_devanagari": "किति च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T103"
+      ],
+      "cited_in": [
+        "proof_lab/taddhita_an_in_yan_compiled.py",
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md"
+      ]
+    },
     "7.3.50": {
       "text": "ṭhasyekaḥ",
       "text_devanagari": "ठस्येकः",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "hand_coded",
+      "theorems": [
+        "T103"
+      ],
       "cited_in": [
         "proof_lab/paninian_it_samjna_compiled.py",
+        "proof_lab/taddhita_an_in_yan_compiled.py",
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
