@@ -851,6 +851,22 @@ proof_lab/test_paniniya_siksha_sources.py
 proof_lab/PANINIYA_SIKSHA_SOURCES_EXPECTED.sha256
 ```
 
+## Theorem 84 Vedāṅga sources quoted packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Chandaḥśāstra 8.20–8.35, Baudhāyana Śulbasūtra i.48 / i.61–62, Ṛgveda Vedāṅga Jyotiṣa 1, 4, 22, 32 quoted; the pinned packets of theorum/71, 72, 73 imported and shown to compute the texts' numbers (prastāra … meru equal n ≤ 10/12; √2 cord 577/408; 124 parvans = 2 × 62; RVJ 22 daylight = theorum/73's zigzag on every day) |
+| Status | `PASS_VEDANGA_SOURCES_QUOTED_CANDIDATE` |
+| Canonical result SHA-256 | `a13d6fe56945ec2faffa37a33ce38d12e17db349c8ceeee027b44f050f679fb1` |
+| Boundary | theorum/71's adhvayoga is the literal 8.32 value + 1 (discrepancy recorded, pin untouched); the Yajus-recension integers 1830 / 67 / 1835 / 1860 are not quoted; pins of 71–73 unchanged |
+
+```text
+theorum/84_vedanga_sources_quoted_theorem.md
+proof_lab/vedanga_sources_quoted.py
+proof_lab/test_vedanga_sources_quoted.py
+proof_lab/VEDANGA_SOURCES_QUOTED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
