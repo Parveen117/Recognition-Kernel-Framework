@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 1 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–89 (quoted Śaiva sources nativized; the sūtra as an instruction; the saṁjñā sound layer with the Aṣṭādhyāyī ledger; the it-saṁjñā layer compiled; the Śikṣā Vedāṅga; the Vedāṅga packets 71–73 bound to their quoted sources; the Nirukta Vedāṅga, also on the PG5 / PG6 pinned Dhātupāṭha entries; the Tripādī niṣṭhā rules compiled in asiddha order; the āp-stem and nadī-stem sup paradigms), and added the PG1–PG7 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
+Index update: 1 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–89 (quoted Śaiva sources nativized; the sūtra as an instruction; the saṁjñā sound layer with the Aṣṭādhyāyī ledger; the it-saṁjñā layer compiled; the Śikṣā Vedāṅga; the Vedāṅga packets 71–73 bound to their quoted sources; the Nirukta Vedāṅga, also on the PG5 / PG6 pinned Dhātupāṭha entries; the Tripādī niṣṭhā rules compiled in asiddha order; the āp-stem and nadī-stem sup paradigms), and added the PG1–PG8 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -147,6 +147,30 @@ across PG5–PG7. No overall grammar-completion percentage is claimed.
 [Remaining work](research/panini_grammar/snam_lat/REMAINING.md) starts with
 bhuj/tṛh and adādi/juhotyādi; general grammar and operator lifting remain open.
 CI and main merging remain deferred.
+
+## PG8: semantic bhuj selection, nested im and initial adādi
+
+[PG8](research/panini_grammar/exception_lat/README.md) adds bhuj/tṛh and ad/as:
+four identified roots, five sense/pada profiles and 45 complete laṭ cells.
+The nested mit augment im belongs to the root-with-śnam host and retains its
+own marker identity. Kāśikā's local ṣṭutva visibility permission is required
+for the ḍh-lopa query; no general reversal of Tripādī order is inferred.
+Bhuj's contextual sense/pada is distinct from its unchanged dictionary label.
+Ad/as retain whole-affix śap-luk; as has distinct a-lopa and s-lopa targets.
+
+[Source review](research/panini_grammar/exception_lat/SOURCE_REVIEW.md) and
+[validation](research/panini_grammar/exception_lat/VALIDATION.md) distinguish
+29 literal witnesses, 16 expected refusals, 53 controls and the separate
+45-cell Vidyut comparison. Twelve bounded records bring the PG4–PG8 union
+to 88 distinct sūtra IDs. [Coverage](research/panini_grammar/exception_lat/COVERAGE_STATUS.json)
+records 50 completed root entries / 648 cells, leaving 2,179 root entries
+without this complete present profile; no overall grammar percentage is given.
+[Claude review](research/panini_grammar/exception_lat/CONCURRENT_REVIEW.json)
+preserves T86/T87 nominal scope separately and records helper-domain guards
+and the lexical-dhā exception needed before wider reuse. The theorem branch is reviewed but not merged.
+[Remaining work](research/panini_grammar/exception_lat/REMAINING.md) starts with
+abhyāsa/reduplication and further adādi paths. Native operator lifting, full
+grammar, hosted CI and main merge remain open or deferred.
 
 ## Śaiva sources, the sūtra as an instruction, and the Vedāṅgas: Theorems 78–89
 
