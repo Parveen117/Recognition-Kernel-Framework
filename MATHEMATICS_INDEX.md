@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG14 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG15 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,8 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-PG14's rerun is deferred as recorded below. RH, global eta-zero positivity, K0 and the
+Navigation reruns for PG14 and PG15 are deferred as recorded below. RH,
+global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
 ## Active operator-engine route
@@ -365,6 +366,46 @@ PG1–PG13's implemented coverage, theorem packets and certificates remain
 unchanged. [Remaining work](research/panini_grammar/grammar_construction/REMAINING.md)
 keeps wider grammar and runtime/native integration open. CI and main merge
 remain deferred.
+
+## PG15: causative passive, expressed karman and retained ṇic
+
+[PG15](research/panini_grammar/causative_passive/README.md) continues the
+written construction on twelve identified causative root/sense frames.
+[Karman selection](research/panini_grammar/causative_passive/DOMAIN_AND_KARMAN.md)
+constructs the dependent causee-role/expressed-karman branches, residual
+cases and controller agreement. Cognition/ingestion can express either
+karman; the adopted hṛ/kṛ policy gives (K,b) or (Agt,c), not every Cartesian
+combination. A separate basic double-karman comparison prevents reusing
+the causal policy on an unqualified root spelling.
+
+[Owned ṇic-lopa](research/panini_grammar/causative_passive/NIC_LOPA.md)
+derives the aniṭ ārdhadhātuka guard of 6.4.51, retains root/augment effects,
+and distinguishes nī's root-substitute y from pā's yuk y. The
+[written derivations](research/panini_grammar/causative_passive/DERIVATIONS.md)
+expand twelve aṅgas into nine A slots and connect selected karmans to
+different agreement/case outcomes. Displayed words select the non-doubling
+alternatives of 8.4.46–47; they are not a complete phonetic-variant inventory
+or 108 new executed cells.
+
+The [native extension](research/panini_grammar/causative_passive/NATIVE_EXTENSION.md)
+preserves PG14's old sector, pairing and exact typed zero-reading. It
+proves a causal-cut no-descent theorem for the common gamyate word observer
+and constructs a one-extra-channel repair with explicit inverse and
+transported pairing. This finite repair is not a universal minimum-state
+theorem for the whole grammar.
+
+[Source review](research/panini_grammar/causative_passive/SOURCE_REVIEW.md)
+attributes the double-karman policy to the commentary procedure stored
+under 7.1.69, preserves textual variants and distinguishes literal words
+from derived forms. A [targeted T118 review](research/panini_grammar/causative_passive/CLAUDE_T118_REVIEW.md)
+reads the later bee6b02 snapshot, accepts its asādṛśya correction and records
+source/typing repairs; [Claude's handoff](research/panini_grammar/causative_passive/PARALLEL_WORK.md)
+proposes independent samāsa continuation after that progress.
+The [work record and frontier](research/panini_grammar/causative_passive/WORK_RECORD.md)
+keep Python/navigation tests deferred under the owner's mathematics-first
+instruction; PG1–PG14 frozen evidence, prior implemented coverage, the shared engine
+and certificates are unchanged. Wider grammar, runtime integration, hosted
+CI and main merging remain open or deferred.
 
 ## Śaiva sources and the sūtra as an instruction: Theorems 78–82
 

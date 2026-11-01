@@ -155,6 +155,23 @@ are deferred under the owner's grammar-first instruction; prior executable
 coverage and frozen packets are unchanged. [Remaining mathematical work](grammar_construction/REMAINING.md)
 starts with wider causative frames and derived-stem passives.
 
+**Causative passive, expressed karman and retained ṇic:**
+[PG15](causative_passive/README.md) constructs twelve causal passive
+root/sense paths with owned ṇic-lopa, explicit double-karman selection,
+residual cases and agreement. Its [written derivations](causative_passive/DERIVATIONS.md)
+give nine slots per aṅga and distinguish kriyate/kāryate/kārayate,
+bhāva versus causal patient agreement, and nī/pā's doubled-y ownership.
+The word reading selects the non-doubling options of 8.4.46–47. The
+[native extension](causative_passive/NATIVE_EXTENSION.md) retains PG14's
+pairing/zero-recovery and proves a surface-observation obstruction and
+one-extra-channel repair for simple versus causal gamyate. The
+[source review](causative_passive/SOURCE_REVIEW.md) preserves commentary
+attribution and variants. A [targeted T118 review](causative_passive/CLAUDE_T118_REVIEW.md)
+informs [Claude's independent next samāsa task](causative_passive/PARALLEL_WORK.md).
+[Work and frontier](causative_passive/WORK_RECORD.md)
+record written proofs, deferred tests and unchanged historical implementation
+counts; wider grammar and runtime integration remain open.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
