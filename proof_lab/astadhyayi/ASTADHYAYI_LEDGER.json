@@ -10,11 +10,11 @@
   ],
   "counts": {
     "compiled": 10,
-    "meta": 51,
-    "hand_coded": 83,
-    "cited": 48,
+    "meta": 54,
+    "hand_coded": 88,
+    "cited": 47,
     "misnumbered": 2,
-    "entries": 194,
+    "entries": 201,
     "text_missing": 10,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
@@ -277,15 +277,18 @@
       "theorems": [
         "T80",
         "T82",
-        "T88"
+        "T88",
+        "T89"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
+        "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/paninian_instruction_format.py",
         "proof_lab/paninian_it_samjna_compiled.py",
         "theorum/80_paninian_instruction_format_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md",
-        "theorum/88_ap_stem_sup_compiled_theorem.md"
+        "theorum/88_ap_stem_sup_compiled_theorem.md",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "1.1.47": {
@@ -326,6 +329,7 @@
         "T80"
       ],
       "cited_in": [
+        "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/paninian_instruction_format.py",
         "theorum/80_paninian_instruction_format_theorem.md"
       ]
@@ -338,15 +342,18 @@
       "level": "meta",
       "theorems": [
         "T65",
-        "T80"
+        "T80",
+        "T89"
       ],
       "cited_in": [
+        "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/paninian_instruction_format.py",
         "proof_lab/shaiva_sources_nativized.py",
         "proof_lab/stem_classes_gayatri_coverage.py",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
-        "theorum/80_paninian_instruction_format_theorem.md"
+        "theorum/80_paninian_instruction_format_theorem.md",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "1.1.52": {
@@ -399,11 +406,14 @@
       "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
-        "T88"
+        "T88",
+        "T89"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
-        "theorum/88_ap_stem_sup_compiled_theorem.md"
+        "proof_lab/ngi_stem_sup_compiled.py",
+        "theorum/88_ap_stem_sup_compiled_theorem.md",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "1.1.60": {
@@ -666,6 +676,7 @@
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
+        "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
         "proof_lab/paninian_it_samjna_compiled.py",
@@ -675,7 +686,8 @@
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md",
-        "theorum/88_ap_stem_sup_compiled_theorem.md"
+        "theorum/88_ap_stem_sup_compiled_theorem.md",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "1.3.3": {
@@ -694,6 +706,7 @@
       "cited_in": [
         "proof_lab/lat_atmanepada.py",
         "proof_lab/mimamsa_obligation_closure.py",
+        "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
         "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/paninian_seam_calculus.py",
@@ -809,6 +822,7 @@
         "proof_lab/ap_stem_sup_compiled.py",
         "proof_lab/lat_atmanepada.py",
         "proof_lab/lopa_ledger_contraction.py",
+        "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
         "proof_lab/paninian_it_samjna_compiled.py",
@@ -830,7 +844,8 @@
         "theorum/80_paninian_instruction_format_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md",
-        "theorum/88_ap_stem_sup_compiled_theorem.md"
+        "theorum/88_ap_stem_sup_compiled_theorem.md",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "1.3.10": {
@@ -902,6 +917,20 @@
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
         "theorum/88_ap_stem_sup_compiled_theorem.md"
+      ]
+    },
+    "1.4.3": {
+      "text": "yū stryākhyau nadī",
+      "text_devanagari": "यू स्त्र्याख्यौ नदी",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T89"
+      ],
+      "cited_in": [
+        "proof_lab/ngi_stem_sup_compiled.py",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "1.4.10": {
@@ -1351,6 +1380,20 @@
         "theorum/85_nirukta_nama_akhyatajani_theorem.md"
       ]
     },
+    "3.1.133": {
+      "text": "ṇvultṛcau",
+      "text_devanagari": "ण्वुल्तृचौ",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T89"
+      ],
+      "cited_in": [
+        "proof_lab/ngi_stem_sup_compiled.py",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
+      ]
+    },
     "3.2.102": {
       "text": "niṣṭhā",
       "text_devanagari": "निष्ठा",
@@ -1502,6 +1545,20 @@
         "theorum/64_ting_lat_parasmaipada_theorem.md"
       ]
     },
+    "3.4.114": {
+      "text": "ārdhadhātukaṁ śeṣaḥ",
+      "text_devanagari": "आर्धधातुकं शेषः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T89"
+      ],
+      "cited_in": [
+        "proof_lab/ngi_stem_sup_compiled.py",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
+      ]
+    },
     "4.1.1": {
       "text": "ṅyāpprātipadikāt",
       "text_devanagari": "ङ्याप्प्रातिपदिकात्",
@@ -1549,6 +1606,20 @@
         "theorum/88_ap_stem_sup_compiled_theorem.md"
       ]
     },
+    "4.1.5": {
+      "text": "ṛnnebhyo ṅīp",
+      "text_devanagari": "ऋन्नेभ्यो ङीप्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T89"
+      ],
+      "cited_in": [
+        "proof_lab/ngi_stem_sup_compiled.py",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
+      ]
+    },
     "6.1.64": {
       "text": "dhātvādeḥ ṣaḥ saḥ",
       "text_devanagari": "धात्वादेः षः सः",
@@ -1556,13 +1627,16 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T86"
+        "T86",
+        "T89"
       ],
       "cited_in": [
+        "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/paninian_it_samjna_compiled.py",
         "theorum/82_paninian_it_samjna_compiled_theorem.md",
-        "theorum/86_nirukta_dhatupatha_nama_theorem.md"
+        "theorum/86_nirukta_dhatupatha_nama_theorem.md",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "6.1.65": {
@@ -1601,13 +1675,16 @@
       "level": "hand_coded",
       "theorems": [
         "T65",
-        "T88"
+        "T88",
+        "T89"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
+        "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/stem_classes_gayatri_coverage.py",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
-        "theorum/88_ap_stem_sup_compiled_theorem.md"
+        "theorum/88_ap_stem_sup_compiled_theorem.md",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "6.1.69": {
@@ -1618,13 +1695,16 @@
       "level": "hand_coded",
       "theorems": [
         "T63",
-        "T88"
+        "T88",
+        "T89"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
+        "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
-        "theorum/88_ap_stem_sup_compiled_theorem.md"
+        "theorum/88_ap_stem_sup_compiled_theorem.md",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "6.1.71": {
@@ -1688,9 +1768,11 @@
       "level": "compiled",
       "theorems": [
         "T58",
-        "T80"
+        "T80",
+        "T89"
       ],
       "cited_in": [
+        "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/paninian_instruction_format.py",
         "proof_lab/paninian_seam_calculus.py",
         "proof_lab/rewrite_rules_as_cut_module_operators.py",
@@ -1702,7 +1784,8 @@
         "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
         "theorum/62_silence_vibration_sutra_flow_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
-        "theorum/80_paninian_instruction_format_theorem.md"
+        "theorum/80_paninian_instruction_format_theorem.md",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "6.1.78": {
@@ -1799,17 +1882,20 @@
         "T58",
         "T63",
         "T80",
-        "T88"
+        "T88",
+        "T89"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
+        "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/paninian_instruction_format.py",
         "proof_lab/paninian_seam_calculus.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
-        "theorum/88_ap_stem_sup_compiled_theorem.md"
+        "theorum/88_ap_stem_sup_compiled_theorem.md",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "6.1.94": {
@@ -1857,12 +1943,14 @@
         "T64",
         "T66",
         "T80",
-        "T88"
+        "T88",
+        "T89"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
         "proof_lab/ladder_audit_50_59.py",
         "proof_lab/lat_atmanepada.py",
+        "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/paninian_instruction_format.py",
         "proof_lab/paninian_seam_calculus.py",
         "proof_lab/rewrite_rules_as_cut_module_operators.py",
@@ -1879,7 +1967,8 @@
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
-        "theorum/88_ap_stem_sup_compiled_theorem.md"
+        "theorum/88_ap_stem_sup_compiled_theorem.md",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "6.1.102": {
@@ -1889,11 +1978,14 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T63"
+        "T63",
+        "T89"
       ],
       "cited_in": [
+        "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
-        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "6.1.103": {
@@ -1910,6 +2002,20 @@
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
       ]
     },
+    "6.1.105": {
+      "text": "dīrghāj jasi ca",
+      "text_devanagari": "दीर्घाज्जसि च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T89"
+      ],
+      "cited_in": [
+        "proof_lab/ngi_stem_sup_compiled.py",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
+      ]
+    },
     "6.1.107": {
       "text": "ami pūrvaḥ",
       "text_devanagari": "अमि पूर्वः",
@@ -1918,14 +2024,17 @@
       "level": "hand_coded",
       "theorems": [
         "T63",
-        "T88"
+        "T88",
+        "T89"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
+        "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
-        "theorum/88_ap_stem_sup_compiled_theorem.md"
+        "theorum/88_ap_stem_sup_compiled_theorem.md",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "6.1.111": {
@@ -2225,13 +2334,16 @@
       "level": "hand_coded",
       "theorems": [
         "T63",
-        "T88"
+        "T88",
+        "T89"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
+        "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
-        "theorum/88_ap_stem_sup_compiled_theorem.md"
+        "theorum/88_ap_stem_sup_compiled_theorem.md",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "7.1.70": {
@@ -2380,10 +2492,12 @@
         "T58",
         "T64",
         "T66",
-        "T80"
+        "T80",
+        "T89"
       ],
       "cited_in": [
         "proof_lab/lat_atmanepada.py",
+        "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/paninian_instruction_format.py",
         "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/paninian_samjna_sound_layer.py",
@@ -2393,7 +2507,8 @@
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
         "theorum/81_paninian_samjna_sound_layer_theorem.md",
-        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+        "theorum/82_paninian_it_samjna_compiled_theorem.md",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "7.3.101": {
@@ -2482,6 +2597,34 @@
         "theorum/88_ap_stem_sup_compiled_theorem.md"
       ]
     },
+    "7.3.107": {
+      "text": "ambārthanadyor hrasvaḥ",
+      "text_devanagari": "अम्बाऽर्थनद्योर्ह्रस्वः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T89"
+      ],
+      "cited_in": [
+        "proof_lab/ngi_stem_sup_compiled.py",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
+      ]
+    },
+    "7.3.112": {
+      "text": "āṇ nadyāḥ",
+      "text_devanagari": "आण्नद्याः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T89"
+      ],
+      "cited_in": [
+        "proof_lab/ngi_stem_sup_compiled.py",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
+      ]
+    },
     "7.3.113": {
       "text": "yāḍ āpaḥ",
       "text_devanagari": "याडापः",
@@ -2503,11 +2646,14 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T88"
+        "T88",
+        "T89"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
-        "theorum/88_ap_stem_sup_compiled_theorem.md"
+        "proof_lab/ngi_stem_sup_compiled.py",
+        "theorum/88_ap_stem_sup_compiled_theorem.md",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "7.4.61": {
@@ -2705,10 +2851,12 @@
         "T63",
         "T64",
         "T67",
-        "T88"
+        "T88",
+        "T89"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
+        "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/pada_to_line_external_sandhi.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "proof_lab/ting_lat_parasmaipada.py",
@@ -2716,7 +2864,8 @@
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
         "theorum/67_pada_to_line_external_sandhi_theorem.md",
-        "theorum/88_ap_stem_sup_compiled_theorem.md"
+        "theorum/88_ap_stem_sup_compiled_theorem.md",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "8.3.7": {
@@ -2742,10 +2891,12 @@
         "T64",
         "T65",
         "T67",
-        "T88"
+        "T88",
+        "T89"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
+        "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/pada_to_line_external_sandhi.py",
         "proof_lab/stem_classes_gayatri_coverage.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
@@ -2754,7 +2905,8 @@
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
         "theorum/67_pada_to_line_external_sandhi_theorem.md",
-        "theorum/88_ap_stem_sup_compiled_theorem.md"
+        "theorum/88_ap_stem_sup_compiled_theorem.md",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "8.3.23": {
@@ -2798,10 +2950,14 @@
       "text_devanagari": "इण्कोः",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "meta",
+      "theorems": [
+        "T89"
+      ],
       "cited_in": [
-        "proof_lab/shaiva_sources_nativized.py"
+        "proof_lab/ngi_stem_sup_compiled.py",
+        "proof_lab/shaiva_sources_nativized.py",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "8.3.59": {
@@ -2811,11 +2967,14 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T63"
+        "T63",
+        "T89"
       ],
       "cited_in": [
+        "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
-        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
+        "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
     },
     "8.4.2": {
