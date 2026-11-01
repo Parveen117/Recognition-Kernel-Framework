@@ -915,6 +915,22 @@ proof_lab/test_tripadi_nishtha_compiled.py
 proof_lab/TRIPADI_NISHTHA_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 88 Āp-stem sup packet
+
+| Field | Value |
+|---|---|
+| Certificate class | ṭāp (4.1.4) feminines declined through 7.1.18, 7.3.116, 7.3.113, 7.1.54, 7.3.105, 7.3.106, 6.1.68, 6.1.69, the sandhi sūtras and 8.2.66 / 8.3.15 on theorum/82's it-layer: latā's 22 forms equal the classical paradigm; each stage breaks exactly its own cells; the fifteen kta feminines of theorum/86–87 give 330 forms |
+| Status | `PASS_AP_STEM_SUP_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `0a0e12bffaafc240ce4d8d9edce5aa33776a8f2f440bfc356e03d64859b2c8cb` |
+| Boundary | stage order declared as a pipeline; ṅīp, nadī, consonant stems, pronouns not claimed |
+
+```text
+theorum/88_ap_stem_sup_compiled_theorem.md
+proof_lab/ap_stem_sup_compiled.py
+proof_lab/test_ap_stem_sup_compiled.py
+proof_lab/AP_STEM_SUP_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |

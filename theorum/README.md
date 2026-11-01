@@ -63,6 +63,7 @@ The advanced numbered surface now runs through Theorem 80:
 13. **85 — the Nirukta Vedāṅga.** Nirukta 1.12 *nāmāny ākhyātajāni* computed: gata/bhūta/kṛta from the teaching forms by theorum/82's its + kta + 6.4.37/7.2.10; 66 sup forms by theorum/63's pinned ladder, 18 laṭ forms by theorum/64 from the same roots; nāma/ākhyāta partition the computed padas; Gārgya's objection not decided.
 14. **86 — nāma from the pinned Dhātupāṭha.** Eleven kta-prātipadikas from the PG5/PG6 lexical entries (Devanagari teaching forms through theorum/82's its; 6.1.64 suta, 6.4.37 tata); 242 sup forms by theorum/63; the PG laṭ forms disjoint; six entries refused by the rule they need.
 15. **87 — the Tripādī niṣṭhā rules in asiddha order.** 8.2.30, 8.2.40, 8.2.42, 8.2.44, 8.4.53 applied under 8.2.1 give pakta, labdha, tunna, lūna from the pinned teaching forms; reverse order leaves labhdha (8.2.1 load-bearing); 88 sup forms by theorum/63.
+16. **88 — the āp-stem sup paradigm.** ṭāp feminines of the kta nouns through 7.1.18, 7.3.116, 7.3.113, 7.1.54, 7.3.105/106, 6.1.68/69 and the sandhi sūtras: latā's 22 forms, each stage load-bearing on its own cells, 15 stems × 22 = 330 forms.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -110,7 +111,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-87                           PRESENT
+NUMBERED THEOREM FILES 01-88                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT
