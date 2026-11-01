@@ -25,6 +25,60 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT_DIR = ROOT / "proof_lab" / "astadhyayi"
+SUTRAPATHA = ROOT / "research" / "panini_grammar" / "SUTRAPATHA.tsv"   # PG1's pinned edition (ashtadhyayi.com record ids), Devanagari
+
+
+def load_sutrapatha() -> dict[str, str]:
+    """sūtra number → Devanagari text from the pinned PG1 inventory (3,983 numbered records)."""
+    out: dict[str, str] = {}
+    if not SUTRAPATHA.exists():
+        return out
+    for line in SUTRAPATHA.read_text(encoding="utf-8").splitlines()[1:]:
+        sid, _rec, skt = line.split("\t")
+        out[sid] = skt
+    return out
+
+
+# ---------------------------------------------------------------- Devanagari → IAST (for the cross-check of the curated texts only)
+_V = {"अ": "a", "आ": "ā", "इ": "i", "ई": "ī", "उ": "u", "ऊ": "ū", "ऋ": "ṛ", "ॠ": "ṝ", "ऌ": "ḷ", "ॡ": "ḹ", "ए": "e", "ऐ": "ai", "ओ": "o", "औ": "au"}
+_M = {"ा": "ā", "ि": "i", "ी": "ī", "ु": "u", "ू": "ū", "ृ": "ṛ", "ॄ": "ṝ", "ॢ": "ḷ", "ॣ": "ḹ", "े": "e", "ै": "ai", "ो": "o", "ौ": "au"}
+_C = {"क": "k", "ख": "kh", "ग": "g", "घ": "gh", "ङ": "ṅ", "च": "c", "छ": "ch", "ज": "j", "झ": "jh", "ञ": "ñ", "ट": "ṭ", "ठ": "ṭh", "ड": "ḍ", "ढ": "ḍh", "ण": "ṇ",
+      "त": "t", "थ": "th", "द": "d", "ध": "dh", "न": "n", "प": "p", "फ": "ph", "ब": "b", "भ": "bh", "म": "m", "य": "y", "र": "r", "ल": "l", "व": "v", "श": "ś", "ष": "ṣ", "स": "s", "ह": "h"}
+
+
+def deva_to_iast(s: str) -> str:
+    out, i = [], 0
+    while i < len(s):
+        ch = s[i]
+        if ch in _C:
+            out.append(_C[ch])
+            nxt = s[i + 1] if i + 1 < len(s) else ""
+            if nxt == "्":
+                i += 2
+                continue
+            if nxt in _M:
+                out.append(_M[nxt])
+                i += 2
+                continue
+            out.append("a")
+        elif ch in _V:
+            out.append(_V[ch])
+        elif ch == "ं":
+            out.append("ṁ")
+        elif ch == "ः":
+            out.append("ḥ")
+        elif ch == "ऽ":
+            out.append("'")
+        elif ch == "ँ":
+            out.append("~")
+        else:
+            out.append(ch)
+        i += 1
+    return "".join(out)
+
+
+def _norm(s: str) -> str:
+    return re.sub(r"[\s'’\-]", "", s).replace("ṃ", "ṁ").replace("ṁ", "n").replace("m", "n").replace("ñ", "n").replace("ṇ", "n").replace("ṅ", "n").lower()
 
 # ---------------------------------------------------------------- curated texts (IAST); blank = not yet entered
 TEXT = {
@@ -52,7 +106,7 @@ TEXT = {
     "2.3.46": "prātipadikārthaliṅgaparimāṇavacanamātre prathamā", "2.3.50": "ṣaṣṭhī śeṣe", "2.4.76": "", "3.1.1": "pratyayaḥ", "3.1.2": "paraś ca",
     "3.1.68": "kartari śap", "3.1.85": "", "3.2.123": "vartamāne laṭ", "3.3.14": "", "3.4.6": "", "3.4.69": "laḥ karmaṇi ca bhāve cākarmakebhyaḥ",
     "3.4.78": "tiptasjhisipthasthamibvasmas tātāṁjhathāsāthāṁdhvamiḍvahimahiṅ", "3.4.79": "ṭita ātmanepadānāṁ ṭere", "3.4.80": "thāsas se",
-    "3.4.113": "tiṅśit sārvadhātukam", "4.1.2": "svaujasamauṭchaṣṭābhyāmbhis ṅebhyāmbhyas ṅasibhyāmbhyas ṅasos āṁ ṅyos sup",
+    "3.4.113": "tiṅśit sārvadhātukam", "4.1.2": "svaujasamauṭchaṣṭābhyāmbhisṅebhyāmbhyasṅasibhyāmbhyasṅasosāṅṅyossup",
     "6.1.66": "lopo vyor vali", "6.1.68": "halṅyābbhyo dīrghāt sutisy apṛktaṁ hal", "6.1.69": "eṅhrasvāt sambuddheḥ", "6.1.71": "hrasvasya piti kṛti tuk",
     "6.1.72": "saṁhitāyām", "6.1.73": "che ca", "6.1.77": "iko yaṇ aci", "6.1.78": "eco 'yavāyāvaḥ", "6.1.84": "ekaḥ pūrvaparayoḥ",
     "6.1.85": "antādivac ca", "6.1.87": "ād guṇaḥ", "6.1.88": "vṛddhir eci", "6.1.97": "ato guṇe", "6.1.101": "akaḥ savarṇe dīrghaḥ",
@@ -60,19 +114,22 @@ TEXT = {
     "6.1.113": "ato ror aplutād aplute", "6.1.114": "haśi ca", "6.1.125": "plutapragṛhyā aci nityam", "6.4.1": "aṅgasya", "6.4.3": "nāmi",
     "6.4.11": "", "6.4.66": "ghumāsthāgāpājahātisāṁ hali", "6.4.77": "aci śnudhātubhruvāṁ yvor iyaṅuvaṅau", "7.1.3": "jho 'ntaḥ", "7.1.5": "",
     "7.1.9": "ato bhisa ais", "7.1.12": "ṭāṅasiṅasām inātsyāḥ", "7.1.13": "ṅer yaḥ", "7.1.23": "svamor napuṁsakāt", "7.1.54": "hrasvanadyāpo nuṭ",
-    "7.1.94": "ṛd uśanaspurudaṁso 'neh asaś ca", "7.2.81": "āto ṅitaḥ", "7.2.102": "tyadādīnām aḥ", "7.2.106": "", "7.3.77": "iṣugamiyamāṁ chaḥ",
+    "7.1.94": "ṛd uśanaspurudaṁso 'nehasāṁ ca", "7.2.81": "āto ṅitaḥ", "7.2.102": "tyadādīnām aḥ", "7.2.106": "", "7.3.77": "iṣugamiyamāṁ chaḥ",
     "7.3.84": "sārvadhātukārdhadhātukayoḥ", "7.3.101": "ato dīrgho yañi", "7.3.102": "supi ca", "7.3.103": "bahuvacane jhaly et", "7.3.104": "osi ca",
     "8.1.21": "bahuvacanasya vasnasau", "8.2.1": "pūrvatrāsiddham", "8.2.7": "nalopaḥ prātipadikāntasya", "8.2.24": "rāt sasya", "8.2.26": "jhalo jhali",
     "8.2.37": "ekāco baśo bhaṣ jhaṣantasya sdhvoḥ", "8.2.39": "jhalāṁ jaśo 'nte", "8.2.66": "sasajuṣo ruḥ", "8.3.7": "naś chavy apraśān",
-    "8.3.15": "kharavasānayor visarjanīyaḥ", "8.3.23": "mo 'nusvāraḥ", "8.3.32": "ṅamo hrasvād aci ṅamuṇ nityam", "8.3.33": "mayo uño vo vā",
+    "8.3.15": "kharavasānayor visarjanīyaḥ", "8.3.23": "mo 'nusvāraḥ", "8.3.32": "ṅamo hrasvād aci ṅamuṇ nityam", "8.3.33": "maya uño vo vā",
     "8.3.57": "iṇkoḥ", "8.3.59": "ādeśapratyayayoḥ", "8.4.2": "aṭkupvāṅnumvyavāye 'pi", "8.4.37": "padāntasya", "8.4.40": "stoḥ ścunā ścuḥ",
     "8.4.45": "yaro 'nunāsike 'nunāsiko vā", "8.4.48": "cayo dvitīyāḥ śari pauṣkarasādeḥ", "8.4.53": "jhalāṁ jaś jhaśi", "8.4.54": "abhyāse car ca",
     "8.4.55": "khari ca", "8.4.56": "vāvasāne", "8.4.58": "anusvārasya yayi parasavarṇaḥ", "8.4.62": "jhayo ho 'nyatarasyām", "8.4.64": "halo yamāṁ yami lopaḥ",
-    "8.4.65": "jharo jhari savarṇe", "1.2.26": "ral o vyupadhād dhalādeḥ saṁś ca", "3.1.45": "śala igupadhād aniṭaḥ kṣaḥ", "7.4.61": "śarpūrvāḥ khayaḥ",
+    "8.4.65": "jharo jhari savarṇe", "1.2.26": "ral o vyupadhād dhalādeḥ saṁś ca", "3.1.45": "śala igupadhād aniṭaḥ ksaḥ", "7.4.61": "śarpūrvāḥ khayaḥ",
     "6.1.94": "eṅi pararūpam", "1.3.1": "bhūvādayo dhātavaḥ", "1.1.68": "svaṁ rūpaṁ śabdasyāśabdasaṁjñā",
 }
 
 # numbers that an owner canvas attached to another sūtra (theorum/56 B2); kept so the trail stays, corrected here
+EDITION_DIFFERS = {  # numbers whose text in the pinned PG1 edition is a different rule (other editions count a Kāśikā / vārttika rule here)
+    "8.4.48": "cayo dvitīyāḥ śari pauṣkarasādeḥ is a vārttika in the pinned edition, where 8.4.48 = nādinyākrośe putrasya; cited with the Siddhānta-kaumudī number",
+}
 MISNUMBERED = {"1.1.6": "1.3.9 tasya lopaḥ", "1.1.15": "1.3.9 tasya lopaḥ"}
 
 # the executed layers: which sūtras each certified packet realizes, and how
@@ -140,6 +197,7 @@ def build() -> dict:
         for m in NUM.finditer(txt):
             cited.setdefault(".".join(m.groups()), set()).add(rel.relative_to(ROOT).as_posix())
     entries: dict[str, dict] = {}
+    deva = load_sutrapatha()
     numbers = set(cited) | set(TEXT) | set(MISNUMBERED)
     for layer, table in (("compiled", COMPILED), ("meta", META), ("hand_coded", HAND_CODED)):
         for t, nums in table.items():
@@ -162,8 +220,14 @@ def build() -> dict:
             level = "hand_coded"
         else:
             level = "cited"
+        skt = deva.get(n, "")
+        curated = TEXT.get(n, "")
         entries[n] = {
-            "text": TEXT.get(n, ""),
+            "text": curated,
+            "text_devanagari": skt,
+            "in_pinned_edition": n in deva,
+            "iast_matches_pinned_edition": (_norm(curated) == _norm(deva_to_iast(skt))) if (curated and skt and n not in EDITION_DIFFERS) else None,
+            **({"edition_note": EDITION_DIFFERS[n]} if n in EDITION_DIFFERS else {}),
             "level": level,
             "theorems": sorted(set(where), key=lambda s: int(s[1:])),
             "cited_in": sorted(cited.get(n, set())),
@@ -172,8 +236,10 @@ def build() -> dict:
     counts = {lvl: sum(1 for e in entries.values() if e["level"] == lvl) for lvl in ("compiled", "meta", "hand_coded", "cited", "misnumbered")}
     counts["entries"] = len(entries)
     counts["text_missing"] = sum(1 for e in entries.values() if not e["text"] and e["level"] != "misnumbered")
-    counts["astadhyayi_total"] = 3959
-    return {"schema": "rkf.astadhyayi_ledger.v1", "levels": ["compiled", "meta", "hand_coded", "cited", "misnumbered"], "counts": counts, "sutras": entries}
+    counts["astadhyayi_total"] = len(deva) if deva else 3959
+    counts["not_in_pinned_edition"] = sum(1 for e in entries.values() if not e["in_pinned_edition"])
+    counts["iast_mismatch_with_pinned_edition"] = sum(1 for e in entries.values() if e["iast_matches_pinned_edition"] is False)
+    return {"schema": "rkf.astadhyayi_ledger.v2", "pinned_edition": "research/panini_grammar/SUTRAPATHA.tsv (PG1; ashtadhyayi.com record ids)", "levels": ["compiled", "meta", "hand_coded", "cited", "misnumbered"], "counts": counts, "sutras": entries}
 
 
 def render_md(ledger: dict) -> str:
@@ -182,12 +248,12 @@ def render_md(ledger: dict) -> str:
         "# Aṣṭādhyāyī sūtra ledger",
         "",
         "Generated by `python -m proof_lab.astadhyayi_ledger`; the JSON next to this file is the record, this table is its view.",
-        f"Entries {c['entries']} of {c['astadhyayi_total']} sūtras: compiled {c['compiled']}, meta {c['meta']}, hand-coded {c['hand_coded']}, cited only {c['cited']}, canvas-misnumbered {c['misnumbered']}; texts still to enter {c['text_missing']}.",
+        f"Entries {c['entries']} of {c['astadhyayi_total']} sūtras (PG1's pinned edition, `research/panini_grammar/SUTRAPATHA.tsv`): compiled {c['compiled']}, meta {c['meta']}, hand-coded {c['hand_coded']}, cited only {c['cited']}, canvas-misnumbered {c['misnumbered']}; curated IAST texts still to enter {c['text_missing']}; numbers absent from the pinned edition {c['not_in_pinned_edition']}; curated texts disagreeing with the pinned edition {c['iast_mismatch_with_pinned_edition']}.",
         "A level is the strongest evidence present: `compiled` (record read by the theorum/80 interpreter) > `meta` (saṁjñā/paribhāṣā implemented) > `hand_coded` (exact finite function in a certified packet) > `cited`.",
         "This ledger is the claim boundary for the grammar-as-language programme: every sūtra not listed is unrealized.",
         "",
-        "| Sūtra | Text (IAST) | Level | Theorems | Note |",
-        "|---|---|---|---|---|",
+        "| Sūtra | Pinned text | Text (IAST) | Level | Theorems | Note |",
+        "|---|---|---|---|---|---|",
     ]
     for n, e in ledger["sutras"].items():
         note = e.get("canvas_meant", "")
@@ -195,7 +261,13 @@ def render_md(ledger: dict) -> str:
             note = "text to be entered"
         if e["level"] == "misnumbered":
             note = f"canvas number; meant {note}"
-        lines.append(f"| {n} | {e['text']} | {e['level']} | {', '.join(e['theorems'])} | {note} |")
+        if e.get("edition_note"):
+            note = (note + "; " if note else "") + "edition numbering differs"
+        if e["iast_matches_pinned_edition"] is False:
+            note = (note + "; " if note else "") + "IAST differs from pinned text"
+        if not e["in_pinned_edition"]:
+            note = (note + "; " if note else "") + "not in pinned edition"
+        lines.append(f"| {n} | {e['text_devanagari']} | {e['text']} | {e['level']} | {', '.join(e['theorems'])} | {note} |")
     return "\n".join(lines) + "\n"
 
 

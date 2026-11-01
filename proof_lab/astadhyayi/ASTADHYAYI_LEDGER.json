@@ -1,5 +1,6 @@
 {
-  "schema": "rkf.astadhyayi_ledger.v1",
+  "schema": "rkf.astadhyayi_ledger.v2",
+  "pinned_edition": "research/panini_grammar/SUTRAPATHA.tsv (PG1; ashtadhyayi.com record ids)",
   "levels": [
     "compiled",
     "meta",
@@ -15,11 +16,16 @@
     "misnumbered": 2,
     "entries": 182,
     "text_missing": 9,
-    "astadhyayi_total": 3959
+    "astadhyayi_total": 3983,
+    "not_in_pinned_edition": 0,
+    "iast_mismatch_with_pinned_edition": 0
   },
   "sutras": {
     "1.1.1": {
       "text": "vṛddhir ādaic",
+      "text_devanagari": "वृद्धिरादैच्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T58",
@@ -37,6 +43,9 @@
     },
     "1.1.2": {
       "text": "adeṅ guṇaḥ",
+      "text_devanagari": "अदेङ् गुणः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T58",
@@ -52,6 +61,9 @@
     },
     "1.1.3": {
       "text": "iko guṇavṛddhī",
+      "text_devanagari": "इको गुणवृद्धी",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T58"
@@ -66,6 +78,9 @@
     },
     "1.1.4": {
       "text": "na dhātulopa ārdhadhātuke",
+      "text_devanagari": "न धातुलोप आर्धधातुके",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -75,6 +90,9 @@
     },
     "1.1.5": {
       "text": "kṅiti ca",
+      "text_devanagari": "क्ङिति च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -84,6 +102,9 @@
     },
     "1.1.6": {
       "text": "dīdhīvevīṭām",
+      "text_devanagari": "दीधीवेवीटाम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "misnumbered",
       "theorems": [],
       "cited_in": [
@@ -94,6 +115,9 @@
     },
     "1.1.7": {
       "text": "halo 'nantarāḥ saṁyogaḥ",
+      "text_devanagari": "हलोऽनन्तराः संयोगः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T81"
@@ -105,6 +129,9 @@
     },
     "1.1.8": {
       "text": "mukhanāsikāvacano 'nunāsikaḥ",
+      "text_devanagari": "मुखनासिकावचनोऽनुनासिकः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T81"
@@ -117,6 +144,9 @@
     },
     "1.1.9": {
       "text": "tulyāsyaprayatnaṁ savarṇam",
+      "text_devanagari": "तुल्यास्यप्रयत्नं सवर्णम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T81"
@@ -129,6 +159,9 @@
     },
     "1.1.10": {
       "text": "nājjhalau",
+      "text_devanagari": "नाज्झलौ",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T81"
@@ -141,6 +174,9 @@
     },
     "1.1.11": {
       "text": "īdūdeddvivacanaṁ pragṛhyam",
+      "text_devanagari": "ईदूदेद्द्विवचनं प्रगृह्यम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T81"
@@ -152,6 +188,9 @@
     },
     "1.1.15": {
       "text": "ot",
+      "text_devanagari": "ओत्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "misnumbered",
       "theorems": [],
       "cited_in": [
@@ -162,6 +201,9 @@
     },
     "1.1.26": {
       "text": "ktaktavatū niṣṭhā",
+      "text_devanagari": "क्तक्तवतू निष्ठा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -171,6 +213,9 @@
     },
     "1.1.27": {
       "text": "sarvādīni sarvanāmāni",
+      "text_devanagari": "सर्वादीनि सर्वनामानि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -179,6 +224,9 @@
     },
     "1.1.35": {
       "text": "svam ajñātidhanākhyāyām",
+      "text_devanagari": "स्वमज्ञातिधनाख्यायाम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -187,18 +235,27 @@
     },
     "1.1.42": {
       "text": "śi sarvanāmasthānam",
+      "text_devanagari": "शि सर्वनामस्थानम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": []
     },
     "1.1.43": {
       "text": "suḍ anapuṁsakasya",
+      "text_devanagari": "सुडनपुंसकस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": []
     },
     "1.1.44": {
       "text": "na veti vibhāṣā",
+      "text_devanagari": "न वेति विभाषा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -207,6 +264,9 @@
     },
     "1.1.46": {
       "text": "ādyantau ṭakitau",
+      "text_devanagari": "आद्यन्तौ टकितौ",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T80",
@@ -221,6 +281,9 @@
     },
     "1.1.47": {
       "text": "mid aco 'ntyāt paraḥ",
+      "text_devanagari": "मिदचोऽन्त्यात्परः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T82"
@@ -232,6 +295,9 @@
     },
     "1.1.49": {
       "text": "ṣaṣṭhī sthāneyogā",
+      "text_devanagari": "षष्ठी स्थानेयोगा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T80"
@@ -243,6 +309,9 @@
     },
     "1.1.50": {
       "text": "sthāne 'ntaratamaḥ",
+      "text_devanagari": "स्थानेऽन्तरतमः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T80"
@@ -254,6 +323,9 @@
     },
     "1.1.51": {
       "text": "ur aṇ raparaḥ",
+      "text_devanagari": "उरण् रपरः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T65",
@@ -270,6 +342,9 @@
     },
     "1.1.52": {
       "text": "alo 'ntyasya",
+      "text_devanagari": "अलोऽन्त्यस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T80"
@@ -281,12 +356,18 @@
     },
     "1.1.54": {
       "text": "ādeḥ parasya",
+      "text_devanagari": "आदेः परस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": []
     },
     "1.1.55": {
       "text": "anekāl śit sarvasya",
+      "text_devanagari": "अनेकाल्शित्सर्वस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T80"
@@ -298,12 +379,18 @@
     },
     "1.1.56": {
       "text": "sthānivad ādeśo 'nalvidhau",
+      "text_devanagari": "स्थानिवदादेशोऽनल्विधौ",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": []
     },
     "1.1.60": {
       "text": "adarśanaṁ lopaḥ",
+      "text_devanagari": "अदर्शनं लोपः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T82"
@@ -315,6 +402,9 @@
     },
     "1.1.62": {
       "text": "pratyayalope pratyayalakṣaṇam",
+      "text_devanagari": "प्रत्ययलोपे प्रत्ययलक्षणम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T58",
@@ -336,6 +426,9 @@
     },
     "1.1.63": {
       "text": "na lumatāṅgasya",
+      "text_devanagari": "न लुमताङ्गस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T65"
@@ -347,6 +440,9 @@
     },
     "1.1.64": {
       "text": "aco 'ntyādi ṭi",
+      "text_devanagari": "अचोऽन्त्यादि टि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T81"
@@ -358,6 +454,9 @@
     },
     "1.1.65": {
       "text": "alo 'ntyāt pūrva upadhā",
+      "text_devanagari": "अलोऽन्त्यात् पूर्व उपधा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T81"
@@ -369,6 +468,9 @@
     },
     "1.1.66": {
       "text": "tasminn iti nirdiṣṭe pūrvasya",
+      "text_devanagari": "तस्मिन्निति निर्दिष्टे पूर्वस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T80"
@@ -380,6 +482,9 @@
     },
     "1.1.67": {
       "text": "tasmād ity uttarasya",
+      "text_devanagari": "तस्मादित्युत्तरस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T80"
@@ -391,12 +496,18 @@
     },
     "1.1.68": {
       "text": "svaṁ rūpaṁ śabdasyāśabdasaṁjñā",
+      "text_devanagari": "स्वं रूपं शब्दस्याशब्दसंज्ञा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": []
     },
     "1.1.69": {
       "text": "aṇudit savarṇasya cāpratyayaḥ",
+      "text_devanagari": "अणुदित् सवर्णस्य चाप्रत्ययः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T78",
@@ -416,6 +527,9 @@
     },
     "1.1.70": {
       "text": "taparas tatkālasya",
+      "text_devanagari": "तपरस्तत्कालस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T80"
@@ -427,6 +541,9 @@
     },
     "1.1.71": {
       "text": "ādir antyena sahetā",
+      "text_devanagari": "आदिरन्त्येन सहेता",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T78"
@@ -440,6 +557,9 @@
     },
     "1.1.72": {
       "text": "yena vidhis tadantasya",
+      "text_devanagari": "येन विधिस्तदन्तस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T81"
@@ -451,6 +571,9 @@
     },
     "1.2.4": {
       "text": "sārvadhātukam apit",
+      "text_devanagari": "सार्वधातुकमपित्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -459,6 +582,9 @@
     },
     "1.2.26": {
       "text": "ral o vyupadhād dhalādeḥ saṁś ca",
+      "text_devanagari": "रलो व्युपधाद्धलादेः संश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -467,6 +593,9 @@
     },
     "1.2.45": {
       "text": "arthavad adhātur apratyayaḥ prātipadikam",
+      "text_devanagari": "अर्थवदधातुरप्रत्ययः प्रातिपदिकम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -475,6 +604,9 @@
     },
     "1.2.46": {
       "text": "kṛttaddhitasamāsāś ca",
+      "text_devanagari": "कृत्तद्धितसमासाश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T85"
@@ -487,6 +619,9 @@
     },
     "1.3.1": {
       "text": "bhūvādayo dhātavaḥ",
+      "text_devanagari": "भूवादयो धातवः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T82"
@@ -498,6 +633,9 @@
     },
     "1.3.2": {
       "text": "upadeśe 'janunāsika it",
+      "text_devanagari": "उपदेशेऽजनुनासिक इत्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T63",
@@ -514,6 +652,9 @@
     },
     "1.3.3": {
       "text": "halantyam",
+      "text_devanagari": "हलन्त्यम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T58",
@@ -540,6 +681,9 @@
     },
     "1.3.4": {
       "text": "na vibhaktau tusmāḥ",
+      "text_devanagari": "न विभक्तौ तुस्माः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T82"
@@ -551,6 +695,9 @@
     },
     "1.3.5": {
       "text": "ādir ñiṭuḍavaḥ",
+      "text_devanagari": "आदिर्ञिटुडवः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T82"
@@ -563,6 +710,9 @@
     },
     "1.3.6": {
       "text": "ṣaḥ pratyayasya",
+      "text_devanagari": "षः प्रत्ययस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T82"
@@ -574,6 +724,9 @@
     },
     "1.3.7": {
       "text": "cuṭū",
+      "text_devanagari": "चुटू",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T63",
@@ -587,6 +740,9 @@
     },
     "1.3.8": {
       "text": "laśakv ataddhite",
+      "text_devanagari": "लशक्वतद्धिते",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T58",
@@ -608,6 +764,9 @@
     },
     "1.3.9": {
       "text": "tasya lopaḥ",
+      "text_devanagari": "तस्य लोपः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T58",
@@ -641,6 +800,9 @@
     },
     "1.3.10": {
       "text": "yathāsaṅkhyam anudeśaḥ samānām",
+      "text_devanagari": "यथासंख्यमनुदेशः समानाम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T80"
@@ -652,6 +814,9 @@
     },
     "1.3.12": {
       "text": "anudāttaṅita ātmanepadam",
+      "text_devanagari": "अनुदात्तङित आत्मनेपदम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T66"
@@ -666,6 +831,9 @@
     },
     "1.3.72": {
       "text": "",
+      "text_devanagari": "स्वरितञितः कर्त्रभिप्राये क्रियाफले",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -675,6 +843,9 @@
     },
     "1.4.2": {
       "text": "vipratiṣedhe paraṁ kāryam",
+      "text_devanagari": "विप्रतिषेधे परं कार्यम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T58",
@@ -698,6 +869,9 @@
     },
     "1.4.10": {
       "text": "hrasvaṁ laghu",
+      "text_devanagari": "ह्रस्वं लघु",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -706,6 +880,9 @@
     },
     "1.4.13": {
       "text": "yasmāt pratyayavidhis tadādi pratyaye 'ṅgam",
+      "text_devanagari": "यस्मात् प्रत्ययविधिस्तदादि प्रत्ययेऽङ्गम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T82"
@@ -717,6 +894,9 @@
     },
     "1.4.14": {
       "text": "suptiṅantaṁ padam",
+      "text_devanagari": "सुप्तिङन्तं पदम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T63",
@@ -732,6 +912,9 @@
     },
     "1.4.23": {
       "text": "kārake",
+      "text_devanagari": "कारके",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T68"
@@ -742,6 +925,9 @@
     },
     "1.4.24": {
       "text": "dhruvam apāye 'pādānam",
+      "text_devanagari": "ध्रुवमपायेऽपादानम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T68"
@@ -753,6 +939,9 @@
     },
     "1.4.32": {
       "text": "karmaṇā yam abhipraiti sa sampradānam",
+      "text_devanagari": "कर्मणा यमभिप्रैति स सम्प्रदानम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T68"
@@ -763,6 +952,9 @@
     },
     "1.4.42": {
       "text": "sādhakatamaṁ karaṇam",
+      "text_devanagari": "साधकतमं करणम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T68"
@@ -773,6 +965,9 @@
     },
     "1.4.45": {
       "text": "ādhāro 'dhikaraṇam",
+      "text_devanagari": "आधारोऽधिकरणम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T68"
@@ -783,6 +978,9 @@
     },
     "1.4.49": {
       "text": "kartur īpsitatamaṁ karma",
+      "text_devanagari": "कर्तुरीप्सिततमं कर्म",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T68"
@@ -793,6 +991,9 @@
     },
     "1.4.54": {
       "text": "svatantraḥ kartā",
+      "text_devanagari": "स्वतन्त्रः कर्ता",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T68"
@@ -803,6 +1004,9 @@
     },
     "1.4.57": {
       "text": "cādayo 'sattve",
+      "text_devanagari": "चादयोऽसत्त्वे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -812,6 +1016,9 @@
     },
     "1.4.58": {
       "text": "prādayaḥ",
+      "text_devanagari": "प्रादयः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -821,6 +1028,9 @@
     },
     "1.4.59": {
       "text": "upasargāḥ kriyāyoge",
+      "text_devanagari": "उपसर्गाः क्रियायोगे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -830,6 +1040,9 @@
     },
     "1.4.99": {
       "text": "laḥ parasmaipadam",
+      "text_devanagari": "लः परस्मैपदम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T64"
@@ -841,6 +1054,9 @@
     },
     "1.4.101": {
       "text": "tiṅas trīṇi trīṇi prathamamadhyamottamāḥ",
+      "text_devanagari": "तिङस्त्रीणि त्रीणि प्रथममध्यमोत्तमाः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T64"
@@ -852,6 +1068,9 @@
     },
     "1.4.104": {
       "text": "vibhaktiś ca",
+      "text_devanagari": "विभक्तिश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T82"
@@ -863,6 +1082,9 @@
     },
     "2.3.1": {
       "text": "anabhihite",
+      "text_devanagari": "अनभिहिते",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T68"
@@ -874,6 +1096,9 @@
     },
     "2.3.2": {
       "text": "karmaṇi dvitīyā",
+      "text_devanagari": "कर्मणि द्वितीया",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T68"
@@ -885,6 +1110,9 @@
     },
     "2.3.13": {
       "text": "caturthī sampradāne",
+      "text_devanagari": "चतुर्थी सम्प्रदाने",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T68"
@@ -896,6 +1124,9 @@
     },
     "2.3.18": {
       "text": "kartṛkaraṇayos tṛtīyā",
+      "text_devanagari": "कर्तृकरणयोस्तृतीया",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T68"
@@ -907,6 +1138,9 @@
     },
     "2.3.28": {
       "text": "apādāne pañcamī",
+      "text_devanagari": "अपादाने पञ्चमी",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T68"
@@ -918,6 +1152,9 @@
     },
     "2.3.36": {
       "text": "saptamy adhikaraṇe ca",
+      "text_devanagari": "सप्तम्यधिकरणे च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T68"
@@ -929,6 +1166,9 @@
     },
     "2.3.46": {
       "text": "prātipadikārthaliṅgaparimāṇavacanamātre prathamā",
+      "text_devanagari": "प्रातिपदिकार्थलिङ्गपरिमाणवचनमात्रे प्रथमा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T68"
@@ -940,6 +1180,9 @@
     },
     "2.3.50": {
       "text": "ṣaṣṭhī śeṣe",
+      "text_devanagari": "षष्ठी शेषे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T68"
@@ -951,6 +1194,9 @@
     },
     "2.4.76": {
       "text": "",
+      "text_devanagari": "बहुलं छन्दसि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
       "level": "hand_coded",
       "theorems": [
         "T66"
@@ -961,6 +1207,9 @@
     },
     "3.1.1": {
       "text": "pratyayaḥ",
+      "text_devanagari": "प्रत्ययः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T82"
@@ -973,6 +1222,9 @@
     },
     "3.1.2": {
       "text": "paraś ca",
+      "text_devanagari": "परश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T82"
@@ -983,7 +1235,10 @@
       ]
     },
     "3.1.45": {
-      "text": "śala igupadhād aniṭaḥ kṣaḥ",
+      "text": "śala igupadhād aniṭaḥ ksaḥ",
+      "text_devanagari": "शल इगुपधादनिटः क्सः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -992,6 +1247,9 @@
     },
     "3.1.68": {
       "text": "kartari śap",
+      "text_devanagari": "कर्तरि शप्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T64",
@@ -1005,6 +1263,9 @@
     },
     "3.1.85": {
       "text": "",
+      "text_devanagari": "व्यत्ययो बहुलम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
       "level": "hand_coded",
       "theorems": [
         "T66"
@@ -1015,6 +1276,9 @@
     },
     "3.1.91": {
       "text": "dhātoḥ",
+      "text_devanagari": "धातोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -1024,6 +1288,9 @@
     },
     "3.1.93": {
       "text": "kṛd atiṅ",
+      "text_devanagari": "कृदतिङ्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T85"
@@ -1035,6 +1302,9 @@
     },
     "3.2.102": {
       "text": "niṣṭhā",
+      "text_devanagari": "निष्ठा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -1044,6 +1314,9 @@
     },
     "3.2.123": {
       "text": "vartamāne laṭ",
+      "text_devanagari": "वर्तमाने लट्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T64"
@@ -1055,6 +1328,9 @@
     },
     "3.3.14": {
       "text": "",
+      "text_devanagari": "लृटः सद् वा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -1065,6 +1341,9 @@
     },
     "3.4.6": {
       "text": "",
+      "text_devanagari": "छन्दसि लुङ्लङ्लिटः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
       "level": "hand_coded",
       "theorems": [
         "T65"
@@ -1076,6 +1355,9 @@
     },
     "3.4.69": {
       "text": "laḥ karmaṇi ca bhāve cākarmakebhyaḥ",
+      "text_devanagari": "लः कर्मणि च भावे चाकर्मकेभ्यः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T68"
@@ -1087,6 +1369,9 @@
     },
     "3.4.77": {
       "text": "",
+      "text_devanagari": "लस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -1096,6 +1381,9 @@
     },
     "3.4.78": {
       "text": "tiptasjhisipthasthamibvasmas tātāṁjhathāsāthāṁdhvamiḍvahimahiṅ",
+      "text_devanagari": "तिप्तस्झिसिप्थस्थमिब्वस्मस् तातांझथासाथांध्वमिड्वहिमहिङ्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T64",
@@ -1112,6 +1400,9 @@
     },
     "3.4.79": {
       "text": "ṭita ātmanepadānāṁ ṭere",
+      "text_devanagari": "टित आत्मनेपदानां टेरे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T66"
@@ -1123,6 +1414,9 @@
     },
     "3.4.80": {
       "text": "thāsas se",
+      "text_devanagari": "थासस्से",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T66"
@@ -1134,6 +1428,9 @@
     },
     "3.4.113": {
       "text": "tiṅśit sārvadhātukam",
+      "text_devanagari": "तिङ्शित्सार्वधातुकम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T58",
@@ -1153,6 +1450,9 @@
     },
     "4.1.1": {
       "text": "ṅyāpprātipadikāt",
+      "text_devanagari": "ङ्याप्प्रातिपदिकात्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -1161,7 +1461,10 @@
       ]
     },
     "4.1.2": {
-      "text": "svaujasamauṭchaṣṭābhyāmbhis ṅebhyāmbhyas ṅasibhyāmbhyas ṅasos āṁ ṅyos sup",
+      "text": "svaujasamauṭchaṣṭābhyāmbhisṅebhyāmbhyasṅasibhyāmbhyasṅasosāṅṅyossup",
+      "text_devanagari": "स्वौजसमौट्छष्टाभ्याम्भिस्ङेभ्याम्भ्यस्ङसिभ्याम्भ्यस्ङसोसाङ्ङ्योस्सुप्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T63"
@@ -1177,6 +1480,9 @@
     },
     "6.1.64": {
       "text": "dhātvādeḥ ṣaḥ saḥ",
+      "text_devanagari": "धात्वादेः षः सः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -1186,6 +1492,9 @@
     },
     "6.1.65": {
       "text": "ṇo naḥ",
+      "text_devanagari": "णो नः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -1195,6 +1504,9 @@
     },
     "6.1.66": {
       "text": "lopo vyor vali",
+      "text_devanagari": "लोपो व्योर्वलि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T66"
@@ -1208,6 +1520,9 @@
     },
     "6.1.68": {
       "text": "halṅyābbhyo dīrghāt sutisy apṛktaṁ hal",
+      "text_devanagari": "हल्ङ्याब्भ्यो दीर्घात् सुतिस्यपृक्तं हल्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T65"
@@ -1219,6 +1534,9 @@
     },
     "6.1.69": {
       "text": "eṅhrasvāt sambuddheḥ",
+      "text_devanagari": "एङ्ह्रस्वात् सम्बुद्धेः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T63"
@@ -1230,6 +1548,9 @@
     },
     "6.1.71": {
       "text": "hrasvasya piti kṛti tuk",
+      "text_devanagari": "ह्रस्वस्य पिति कृति तुक्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "compiled",
       "theorems": [
         "T80"
@@ -1241,6 +1562,9 @@
     },
     "6.1.72": {
       "text": "saṁhitāyām",
+      "text_devanagari": "संहितायाम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T80"
@@ -1252,6 +1576,9 @@
     },
     "6.1.73": {
       "text": "che ca",
+      "text_devanagari": "छे च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "compiled",
       "theorems": [
         "T58",
@@ -1274,6 +1601,9 @@
     },
     "6.1.77": {
       "text": "iko yaṇ aci",
+      "text_devanagari": "इको यणचि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "compiled",
       "theorems": [
         "T58",
@@ -1296,6 +1626,9 @@
     },
     "6.1.78": {
       "text": "eco 'yavāyāvaḥ",
+      "text_devanagari": "एचोऽयवायावः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "compiled",
       "theorems": [
         "T58",
@@ -1319,6 +1652,9 @@
     },
     "6.1.84": {
       "text": "ekaḥ pūrvaparayoḥ",
+      "text_devanagari": "एकः पूर्वपरयोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T80"
@@ -1330,6 +1666,9 @@
     },
     "6.1.85": {
       "text": "antādivac ca",
+      "text_devanagari": "अन्तादिवच्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -1339,6 +1678,9 @@
     },
     "6.1.87": {
       "text": "ād guṇaḥ",
+      "text_devanagari": "आद्गुणः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "compiled",
       "theorems": [
         "T58",
@@ -1362,6 +1704,9 @@
     },
     "6.1.88": {
       "text": "vṛddhir eci",
+      "text_devanagari": "वृद्धिरेचि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "compiled",
       "theorems": [
         "T58",
@@ -1379,6 +1724,9 @@
     },
     "6.1.94": {
       "text": "eṅi pararūpam",
+      "text_devanagari": "एङि पररूपम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -1387,6 +1735,9 @@
     },
     "6.1.97": {
       "text": "ato guṇe",
+      "text_devanagari": "अतो गुणे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T63",
@@ -1406,6 +1757,9 @@
     },
     "6.1.101": {
       "text": "akaḥ savarṇe dīrghaḥ",
+      "text_devanagari": "अकः सवर्णे दीर्घः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "compiled",
       "theorems": [
         "T58",
@@ -1437,6 +1791,9 @@
     },
     "6.1.102": {
       "text": "prathamayoḥ pūrvasavarṇaḥ",
+      "text_devanagari": "प्रथमयोः पूर्वसवर्णः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T63"
@@ -1448,6 +1805,9 @@
     },
     "6.1.103": {
       "text": "tasmāc chaso naḥ puṁsi",
+      "text_devanagari": "तस्माच्छसो नः पुंसि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T63"
@@ -1459,6 +1819,9 @@
     },
     "6.1.107": {
       "text": "ami pūrvaḥ",
+      "text_devanagari": "अमि पूर्वः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T63"
@@ -1471,6 +1834,9 @@
     },
     "6.1.111": {
       "text": "ṛta ut",
+      "text_devanagari": "ऋत उत्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T65"
@@ -1482,6 +1848,9 @@
     },
     "6.1.113": {
       "text": "ato ror aplutād aplute",
+      "text_devanagari": "अतो रोरप्लुतादप्लुते",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T65",
@@ -1496,6 +1865,9 @@
     },
     "6.1.114": {
       "text": "haśi ca",
+      "text_devanagari": "हशि च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T67"
@@ -1508,6 +1880,9 @@
     },
     "6.1.125": {
       "text": "plutapragṛhyā aci nityam",
+      "text_devanagari": "प्लुतप्रगृह्या अचि नित्यम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T81"
@@ -1519,6 +1894,9 @@
     },
     "6.4.1": {
       "text": "aṅgasya",
+      "text_devanagari": "अङ्गस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T80",
@@ -1533,6 +1911,9 @@
     },
     "6.4.3": {
       "text": "nāmi",
+      "text_devanagari": "नामि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T63"
@@ -1544,6 +1925,9 @@
     },
     "6.4.11": {
       "text": "",
+      "text_devanagari": "अप्तृन्तृच्स्वसृनप्तृनेष्टृत्वष्टृक्षत्तृहोतृपोतृप्रशास्तॄणाम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
       "level": "hand_coded",
       "theorems": [
         "T65"
@@ -1555,6 +1939,9 @@
     },
     "6.4.37": {
       "text": "anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti",
+      "text_devanagari": "अनुदात्तोपदेशवनतितनोत्यादीनामनुनासिक लोपो झलि क्ङिति",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T85"
@@ -1566,6 +1953,9 @@
     },
     "6.4.66": {
       "text": "ghumāsthāgāpājahātisāṁ hali",
+      "text_devanagari": "घुमास्थागापाजहातिसां हलि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T66"
@@ -1577,6 +1967,9 @@
     },
     "6.4.71": {
       "text": "luṅlaṅlṛṅkṣv aḍ udāttaḥ",
+      "text_devanagari": "लुङ्लङ्लृङ्क्ष्वडुदात्तः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -1585,6 +1978,9 @@
     },
     "6.4.77": {
       "text": "aci śnudhātubhruvāṁ yvor iyaṅuvaṅau",
+      "text_devanagari": "अचि श्नुधातुभ्रुवां य्वोरियङुवङौ",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T67"
@@ -1596,6 +1992,9 @@
     },
     "7.1.2": {
       "text": "āyaneyīnīyiyaḥ phaḍhakhacchaghāṁ pratyayādīnām",
+      "text_devanagari": "आयनेयीनीयियः फढखच्छघां प्रत्ययादीनाम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -1605,6 +2004,9 @@
     },
     "7.1.3": {
       "text": "jho 'ntaḥ",
+      "text_devanagari": "झोऽन्तः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T64",
@@ -1620,6 +2022,9 @@
     },
     "7.1.5": {
       "text": "",
+      "text_devanagari": "आत्मनेपदेष्वनतः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
       "level": "hand_coded",
       "theorems": [
         "T66"
@@ -1631,6 +2036,9 @@
     },
     "7.1.9": {
       "text": "ato bhisa ais",
+      "text_devanagari": "अतो भिस ऐस्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T63"
@@ -1642,6 +2050,9 @@
     },
     "7.1.12": {
       "text": "ṭāṅasiṅasām inātsyāḥ",
+      "text_devanagari": "टाङसिङसामिनात्स्याः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T63"
@@ -1654,6 +2065,9 @@
     },
     "7.1.13": {
       "text": "ṅer yaḥ",
+      "text_devanagari": "ङेर्यः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T63"
@@ -1665,6 +2079,9 @@
     },
     "7.1.23": {
       "text": "svamor napuṁsakāt",
+      "text_devanagari": "स्वमोर्नपुंसकात्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T65"
@@ -1676,6 +2093,9 @@
     },
     "7.1.54": {
       "text": "hrasvanadyāpo nuṭ",
+      "text_devanagari": "ह्रस्वनद्यापो नुट्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T63"
@@ -1687,6 +2107,9 @@
     },
     "7.1.70": {
       "text": "ugidacāṁ sarvanāmasthāne 'dhātoḥ",
+      "text_devanagari": "उगिदचां सर्वनामस्थानेऽधातोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -1694,7 +2117,10 @@
       ]
     },
     "7.1.94": {
-      "text": "ṛd uśanaspurudaṁso 'neh asaś ca",
+      "text": "ṛd uśanaspurudaṁso 'nehasāṁ ca",
+      "text_devanagari": "ऋदुशनस्पुरुदंसोऽनेहसां च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T65"
@@ -1706,6 +2132,9 @@
     },
     "7.2.10": {
       "text": "ekāca upadeśe 'nudāttāt",
+      "text_devanagari": "एकाच उपदेशेऽनुदात्तात्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T85"
@@ -1717,6 +2146,9 @@
     },
     "7.2.35": {
       "text": "ārdhadhātukasyeḍ valādeḥ",
+      "text_devanagari": "आर्धधातुकस्येड् वलादेः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -1725,6 +2157,9 @@
     },
     "7.2.81": {
       "text": "āto ṅitaḥ",
+      "text_devanagari": "आतो ङितः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T66"
@@ -1736,6 +2171,9 @@
     },
     "7.2.102": {
       "text": "tyadādīnām aḥ",
+      "text_devanagari": "त्यदादीनामः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T65",
@@ -1749,6 +2187,9 @@
     },
     "7.2.106": {
       "text": "",
+      "text_devanagari": "तदोः सः सावनन्त्ययोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
       "level": "hand_coded",
       "theorems": [
         "T67"
@@ -1760,6 +2201,9 @@
     },
     "7.3.50": {
       "text": "ṭhasyekaḥ",
+      "text_devanagari": "ठस्येकः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -1769,6 +2213,9 @@
     },
     "7.3.77": {
       "text": "iṣugamiyamāṁ chaḥ",
+      "text_devanagari": "इषुगमियमां छः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "compiled",
       "theorems": [
         "T58",
@@ -1792,6 +2239,9 @@
     },
     "7.3.84": {
       "text": "sārvadhātukārdhadhātukayoḥ",
+      "text_devanagari": "सार्वधातुकार्धधातुकयोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "compiled",
       "theorems": [
         "T58",
@@ -1815,6 +2265,9 @@
     },
     "7.3.101": {
       "text": "ato dīrgho yañi",
+      "text_devanagari": "अतो दीर्घो यञि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T64",
@@ -1828,6 +2281,9 @@
     },
     "7.3.102": {
       "text": "supi ca",
+      "text_devanagari": "सुपि च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T63"
@@ -1839,6 +2295,9 @@
     },
     "7.3.103": {
       "text": "bahuvacane jhaly et",
+      "text_devanagari": "बहुवचने झल्येत्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T63"
@@ -1850,6 +2309,9 @@
     },
     "7.3.104": {
       "text": "osi ca",
+      "text_devanagari": "ओसि च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T63"
@@ -1861,6 +2323,9 @@
     },
     "7.4.61": {
       "text": "śarpūrvāḥ khayaḥ",
+      "text_devanagari": "शर्पूर्वाः खयः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -1869,6 +2334,9 @@
     },
     "8.1.21": {
       "text": "bahuvacanasya vasnasau",
+      "text_devanagari": "बहुवचनस्य वस्नसौ",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T67"
@@ -1880,6 +2348,9 @@
     },
     "8.2.1": {
       "text": "pūrvatrāsiddham",
+      "text_devanagari": "पूर्वत्रासिद्धम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
         "T62",
@@ -1905,6 +2376,9 @@
     },
     "8.2.7": {
       "text": "nalopaḥ prātipadikāntasya",
+      "text_devanagari": "नलोपः प्रातिपदिकान्तस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T65"
@@ -1916,6 +2390,9 @@
     },
     "8.2.24": {
       "text": "rāt sasya",
+      "text_devanagari": "रात्सस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T65"
@@ -1927,6 +2404,9 @@
     },
     "8.2.26": {
       "text": "jhalo jhali",
+      "text_devanagari": "झलो झलि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -1935,6 +2415,9 @@
     },
     "8.2.37": {
       "text": "ekāco baśo bhaṣ jhaṣantasya sdhvoḥ",
+      "text_devanagari": "एकाचो बशो भष् झषन्तस्य स्ध्वोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -1943,6 +2426,9 @@
     },
     "8.2.39": {
       "text": "jhalāṁ jaśo 'nte",
+      "text_devanagari": "झलां जशोऽन्ते",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T65"
@@ -1955,6 +2441,9 @@
     },
     "8.2.66": {
       "text": "sasajuṣo ruḥ",
+      "text_devanagari": "ससजुषो रुः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T63",
@@ -1973,6 +2462,9 @@
     },
     "8.3.7": {
       "text": "naś chavy apraśān",
+      "text_devanagari": "नश्छव्यप्रशान्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -1982,6 +2474,9 @@
     },
     "8.3.15": {
       "text": "kharavasānayor visarjanīyaḥ",
+      "text_devanagari": "खरवसानयोर्विसर्जनीयः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T63",
@@ -2002,6 +2497,9 @@
     },
     "8.3.23": {
       "text": "mo 'nusvāraḥ",
+      "text_devanagari": "मोऽनुस्वारः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T67"
@@ -2013,6 +2511,9 @@
     },
     "8.3.32": {
       "text": "ṅamo hrasvād aci ṅamuṇ nityam",
+      "text_devanagari": "ङमो ह्रस्वादचि ङमुण्नित्यम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -2020,7 +2521,10 @@
       ]
     },
     "8.3.33": {
-      "text": "mayo uño vo vā",
+      "text": "maya uño vo vā",
+      "text_devanagari": "मय उञो वो वा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -2029,6 +2533,9 @@
     },
     "8.3.57": {
       "text": "iṇkoḥ",
+      "text_devanagari": "इण्कोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -2037,6 +2544,9 @@
     },
     "8.3.59": {
       "text": "ādeśapratyayayoḥ",
+      "text_devanagari": "आदेशप्रत्यययोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T63"
@@ -2048,6 +2558,9 @@
     },
     "8.4.2": {
       "text": "aṭkupvāṅnumvyavāye 'pi",
+      "text_devanagari": "अट्कुप्वाङ्नुम्व्यवायेऽपि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T63"
@@ -2063,6 +2576,9 @@
     },
     "8.4.37": {
       "text": "padāntasya",
+      "text_devanagari": "पदान्तस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T63"
@@ -2074,6 +2590,9 @@
     },
     "8.4.40": {
       "text": "stoḥ ścunā ścuḥ",
+      "text_devanagari": "स्तोः श्चुना श्चुः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "compiled",
       "theorems": [
         "T58",
@@ -2095,6 +2614,9 @@
     },
     "8.4.45": {
       "text": "yaro 'nunāsike 'nunāsiko vā",
+      "text_devanagari": "यरोऽनुनासिकेऽनुनासिको वा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -2104,6 +2626,10 @@
     },
     "8.4.48": {
       "text": "cayo dvitīyāḥ śari pauṣkarasādeḥ",
+      "text_devanagari": "नादिन्याक्रोशे पुत्रस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "edition_note": "cayo dvitīyāḥ śari pauṣkarasādeḥ is a vārttika in the pinned edition, where 8.4.48 = nādinyākrośe putrasya; cited with the Siddhānta-kaumudī number",
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -2112,6 +2638,9 @@
     },
     "8.4.53": {
       "text": "jhalāṁ jaś jhaśi",
+      "text_devanagari": "झलां जश् झशि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -2120,6 +2649,9 @@
     },
     "8.4.54": {
       "text": "abhyāse car ca",
+      "text_devanagari": "अभ्यासे चर्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -2128,6 +2660,9 @@
     },
     "8.4.55": {
       "text": "khari ca",
+      "text_devanagari": "खरि च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -2136,6 +2671,9 @@
     },
     "8.4.56": {
       "text": "vāvasāne",
+      "text_devanagari": "वाऽवसाने",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
         "T65"
@@ -2147,6 +2685,9 @@
     },
     "8.4.58": {
       "text": "anusvārasya yayi parasavarṇaḥ",
+      "text_devanagari": "अनुस्वारस्य ययि परसवर्णः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -2155,6 +2696,9 @@
     },
     "8.4.62": {
       "text": "jhayo ho 'nyatarasyām",
+      "text_devanagari": "झयो होऽन्यतरस्याम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -2163,6 +2707,9 @@
     },
     "8.4.64": {
       "text": "halo yamāṁ yami lopaḥ",
+      "text_devanagari": "हलो यमां यमि लोपः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
@@ -2171,6 +2718,9 @@
     },
     "8.4.65": {
       "text": "jharo jhari savarṇe",
+      "text_devanagari": "झरो झरि सवर्णे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [

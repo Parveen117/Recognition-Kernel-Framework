@@ -6,7 +6,7 @@ record: the [Aṣṭādhyāyī ledger](../proof_lab/astadhyayi/ASTADHYAYI_LEDGER
 sūtra realized in this repository with its evidence level — compiled
 (theorum/80 record interpreter), meta (saṁjñā/paribhāṣā implemented),
 hand-coded (exact function in a certified packet), cited — and that states
-the claim boundary: every sūtra not listed is unrealized. This capsule adds
+the claim boundary: every sūtra not listed is unrealized. (Since the merge of the PG1 stage, the ledger also carries each sūtra's Devanagari text from the pinned edition `research/panini_grammar/SUTRAPATHA.tsv`, the edition's total of 3,983 numbered records, and a transliteration cross-check of every curated IAST text against it.) This capsule adds
 nine saṁjñā sūtras of pāda 1.1 (with 6.1.125) at the meta level, on the
 sound carrier of theorum/78–80.
 
