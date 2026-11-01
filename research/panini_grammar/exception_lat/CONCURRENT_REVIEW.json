@@ -1,0 +1,97 @@
+{
+  "author": "Monty",
+  "reviewed_commit": "7802a351dec44dc8e6dfdfe12b4b6f5ecace9fad",
+  "ledger_commit": "1dff274a936faecc7dd9f0c4084d8f2b018c4214",
+  "code_path": "proof_lab/nirukta_dhatupatha_nama.py",
+  "code_blob_sha": "06e8469923cfd9a4023203969f74fed417a85be7",
+  "code_sha256": "501b4fa1139fc250b0775acccc8d77f308ea0fb1c03601cc45bce74ff8b314ea",
+  "review_method": "Code and theorem capsule read; static AST inventory; no theorem certificate replay or branch merge",
+  "kta_entries": {
+    "1010001": "bhūta",
+    "1050001": "suta",
+    "1050005": "cita",
+    "1050016": "āpta",
+    "1050017": "śakta",
+    "1080001": "tata",
+    "1080010": "kṛta",
+    "1090001": "krīta",
+    "1011092": "śruta",
+    "1090014": "pūta",
+    "1030001": "huta"
+  },
+  "refused_entries": {
+    "1090016": "lūñ: 8.2.44 lvādibhyaḥ (lūna) not realized",
+    "1020001": "adañ: 2.4.36 adaḥ jagdhiḥ (jagdha) not realized",
+    "1011151": "ḍupacañṣ: 8.2.30 coḥ kuḥ (pakta) not realized",
+    "1011130": "ḍulabhañṣ: 8.2.40 / 8.4.53 (labdha) not realized",
+    "1060001": "tudañ: 8.2.42 radābhyāṁ niṣṭhāto naḥ (tunna) not realized",
+    "1040001": "divu~: samprasāraṇa (dyūta) not realized"
+  },
+  "static_findings": {
+    "kta_helper_reads_lexical_id": false,
+    "kta_helper_reads_allowlist": false,
+    "kta_helper_reads_refusal_list": false
+  },
+  "useful_for_pg8": [
+    "Shared pinned lexical IDs distinguish present-path coverage from kta coverage.",
+    "Pinned-edition denominator and source text cross-check are retained.",
+    "Callable entry points must reject unsupported requests, not merely document them in an inventory."
+  ],
+  "boundaries": [
+    "242 is the companion report of bounded sup outputs, not newly reverified here.",
+    "Anit is declared in the companion code; the present extension derives no general it decision.",
+    "The helper kta_from_entry has no ENTRIES/REFUSED or lexical-ID guard; its enclosing certificate loop is bounded. Do not export that helper as an unrestricted conjugator.",
+    "ad gains a present path in PG8 while its kta path remains open; hu remains without a complete PG present path.",
+    "T87 adds four distinct nominal stems / 88 reported sup outputs; do not add these to PG present cells or silently broaden its helper rules."
+  ],
+  "latest_reviewed_head": "ef8e98206c055560a8b692faabf32f8f63fd218f",
+  "t87": {
+    "feature_commit": "7a8872208c6a8aa38f862a4941028f8c2e65f6db",
+    "code_path": "proof_lab/tripadi_nishtha_compiled.py",
+    "code_blob_sha": "70a3559a9ef0086c1530e7e61ce9d7faa3fb55af",
+    "code_sha256": "e4bad83fb12b96a4ded2de2ccecda2248e72ad00a658cae59b707dbbbf0b2318",
+    "reported_stems": [
+      "pakta",
+      "labdha",
+      "tunna",
+      "lūna"
+    ],
+    "reported_sup_outputs": 88,
+    "evidence": "Code and capsule read; one isolated helper-boundary probe, no certificate replay",
+    "targeted_probe": {
+      "function": "r_8_2_40",
+      "input": [
+        "r",
+        "u",
+        "dh",
+        "t",
+        "i"
+      ],
+      "boundary": 3,
+      "actual": [
+        "r",
+        "u",
+        "dh",
+        "t",
+        "i"
+      ],
+      "source_licensed_replacement": [
+        "r",
+        "u",
+        "dh",
+        "dh",
+        "i"
+      ],
+      "inside_t87_four_root_domain": false
+    },
+    "integration_note": "Its blanket final-dh exclusion is safe from this particular counterexample within its four admitted roots, but must be replaced by lexical dhā exclusion before reuse on other roots. PG7/PG8 already retain the root identity and handle rudh.",
+    "source_evidence": [
+      {
+        "path": "sutraani/kashika.txt",
+        "key": "82040",
+        "anchor": "दधातिं वर्जयित्वा।"
+      }
+    ]
+  },
+  "later_t86_note": "ef8e982 explicitly notes that four historical refusals are realized by T87; the T86 certificate and its six-entry refusal inventory remain frozen."
+}

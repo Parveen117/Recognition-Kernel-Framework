@@ -51,6 +51,15 @@ bounded records, root preprocessing and 46 completed root entries / 603 laṭ
 cells across PG5–PG7. [Remaining work](snam_lat/REMAINING.md) includes
 bhuj/tṛh, adādi/juhotyādi and the wider grammar packages.
 
+**Sense selection, nested im and initial adādi:** [PG8](exception_lat/README.md)
+adds bhuj/tṛh and ad/as: four roots / 45 cells. Distinct bhuj meanings select
+pada; im retains its own owner inside the root-with-śnam host; a cited local
+visibility exception supports ḍh-lopa. The [current coverage](exception_lat/COVERAGE_STATUS.json)
+is 50/2,229 root entries and 648 laṭ cells, with overall grammar completion
+still undefined. [Remaining work](exception_lat/REMAINING.md) begins with
+reduplication and more adādi paths. [Claude's latest reviewed work](exception_lat/CONCURRENT_REVIEW.json)
+remains separately identified; CI and main merging are deferred.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
