@@ -31,7 +31,7 @@ class AstadhyayiLedgerTests(unittest.TestCase):
         self.assertEqual(nums, sorted(nums, key=key))
         for n in nums:
             a, p, s = key(n)
-            self.assertTrue(1 <= a <= 8 and 1 <= p <= 4 and 1 <= s <= 200, n)
+            self.assertTrue(1 <= a <= 8 and 1 <= p <= 4 and 1 <= s <= 223, n)  # 6.1 is the longest pāda of the pinned sūtrapāṭha (223 sūtras)
 
     def test_texts_have_no_latin_numbering_errors(self) -> None:
         # a curated text never repeats under two numbers
