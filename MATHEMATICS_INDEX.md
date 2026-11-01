@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 1 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–95 (quoted Śaiva sources nativized; the sūtra as an instruction; the saṁjñā sound layer with the Aṣṭādhyāyī ledger; the it-saṁjñā layer compiled; the Śikṣā Vedāṅga; the Vedāṅga packets 71–73 bound to their quoted sources; the Nirukta Vedāṅga, also on the PG5 / PG6 pinned Dhātupāṭha entries; the Tripādī niṣṭhā rules compiled in asiddha order; the āp-stem, nadī-stem, ṛ-stem, ghi-stem and consonant-stem sup paradigms), and added the PG1–PG9 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
+Index update: 1 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–95 (quoted Śaiva sources nativized; the sūtra as an instruction; the saṁjñā sound layer with the Aṣṭādhyāyī ledger; the it-saṁjñā layer compiled; the Śikṣā Vedāṅga; the Vedāṅga packets 71–73 bound to their quoted sources; the Nirukta Vedāṅga, also on the PG5 / PG6 pinned Dhātupāṭha entries; the Tripādī niṣṭhā rules compiled in asiddha order; the āp-stem, nadī-stem, ṛ-stem, ghi-stem and consonant-stem sup paradigms), and added the PG1–PG10 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -196,6 +196,34 @@ nominal outputs remain separate and the companion certificate was not replayed.
 bhī/hrī, bhṛ/pṛ, other reduplication shapes and further adādi. Full native
 operator lifting, general grammar, hosted CI and main merge remain open or
 deferred.
+
+## PG10: further juhotyādi and vowel-final adādi present paths
+
+[PG10](research/panini_grammar/present_expansion/README.md) adds 38 identified
+roots, 44 licensed pada paradigms, 396 present cells and 438 branches.
+Eleven juhotyādi roots retain copy/root ownership, cluster-sensitive
+junctions, distinct pṝ/pṛ paths and bhī/hāk options. Twenty-seven adādi
+roots add u-vṛddhi, ūrṇu's option, ru/tu/stu īṭ and ā-final junctions.
+The īṭ constituent belongs to the ending; marker memory, actual ending
+substitution and apit eligibility remain explicit.
+
+[Source review](research/panini_grammar/present_expansion/SOURCE_REVIEW.md)
+binds 29 records and two commentary-supported scope overlays.
+[Validation](research/panini_grammar/present_expansion/VALIDATION.md) records
+153 literal word witnesses across 32 roots, 35 refusals, 94 controls and
+a separate 396-cell / 438-branch comparison with zero differences. Six
+entries lack separate full-word witnesses in the selected commentaries;
+their lexical/rule and comparison evidence remain separately identified.
+[Current coverage](research/panini_grammar/present_expansion/COVERAGE_STATUS.json)
+is 91 / 2,229 root entries, 1,089 cells and 1,223 branches, with 143 bounded
+definitions / 112 distinct sūtra IDs across PG4–PG10. Class 3 covers its
+first 14 unmarked entries, not every possible classical class-3 context.
+[Remaining work](research/panini_grammar/present_expansion/REMAINING.md)
+includes the tagged and vowel-initial entries, further class-2 paths and
+the wider grammar. PG1–PG9 evidence is frozen. Full native operator lifting,
+zero-specialization compatibility, quantum-calculator integration, hosted
+CI and main merge remain open or deferred; no overall grammar percentage
+is assigned.
 
 ## Śaiva sources, the sūtra as an instruction, and the Vedāṅgas: Theorems 78–95
 
