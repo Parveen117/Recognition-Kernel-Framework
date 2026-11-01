@@ -10,12 +10,12 @@
   ],
   "counts": {
     "compiled": 10,
-    "meta": 87,
-    "hand_coded": 170,
-    "cited": 56,
+    "meta": 102,
+    "hand_coded": 176,
+    "cited": 58,
     "misnumbered": 2,
-    "entries": 325,
-    "text_missing": 30,
+    "entries": 348,
+    "text_missing": 32,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
     "iast_mismatch_with_pinned_edition": 0
@@ -360,6 +360,17 @@
         "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
+    "1.1.48": {
+      "text": "",
+      "text_devanagari": "एच इग्घ्रस्वादेशे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py"
+      ]
+    },
     "1.1.49": {
       "text": "ṣaṣṭhī sthāneyogā",
       "text_devanagari": "षष्ठी स्थानेयोगा",
@@ -391,6 +402,7 @@
         "proof_lab/lun_parasmaipada_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/paninian_instruction_format.py",
+        "proof_lab/samasa_compiled.py",
         "proof_lab/taddhita_an_in_yan_compiled.py",
         "theorum/80_paninian_instruction_format_theorem.md"
       ]
@@ -405,7 +417,8 @@
         "T65",
         "T80",
         "T89",
-        "T90"
+        "T90",
+        "T104"
       ],
       "cited_in": [
         "proof_lab/krt_ktva_tumun_tavya_compiled.py",
@@ -413,8 +426,10 @@
         "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/paninian_instruction_format.py",
         "proof_lab/r_stem_sup_compiled.py",
+        "proof_lab/samasa_compiled.py",
         "proof_lab/shaiva_sources_nativized.py",
         "proof_lab/stem_classes_gayatri_coverage.py",
+        "theorum/104_samasa_compiled_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
@@ -521,13 +536,16 @@
       "theorems": [
         "T58",
         "T64",
-        "T68"
+        "T68",
+        "T104"
       ],
       "cited_in": [
         "proof_lab/karaka_vibhakti_carrier.py",
         "proof_lab/lopa_ledger_contraction.py",
         "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/samasa_compiled.py",
         "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/104_samasa_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/68_karaka_vibhakti_carrier_theorem.md",
@@ -732,6 +750,34 @@
         "proof_lab/shaiva_sources_nativized.py"
       ]
     },
+    "1.2.42": {
+      "text": "tatpuruṣaḥ samānādhikaraṇaḥ karmadhārayaḥ",
+      "text_devanagari": "तत्पुरुषः समानाधिकरणः कर्मधारयः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
+      ]
+    },
+    "1.2.43": {
+      "text": "prathamānirdiṣṭaṁ samāsa upasarjanam",
+      "text_devanagari": "प्रथमानिर्दिष्टं समास उपसर्जनम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
+      ]
+    },
     "1.2.45": {
       "text": "arthavad adhātur apratyayaḥ prātipadikam",
       "text_devanagari": "अर्थवदधातुरप्रत्ययः प्रातिपदिकम्",
@@ -756,19 +802,36 @@
       "theorems": [
         "T85",
         "T100",
-        "T103"
+        "T103",
+        "T104"
       ],
       "cited_in": [
         "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
+        "proof_lab/samasa_compiled.py",
         "proof_lab/taddhita_an_in_yan_compiled.py",
         "proof_lab/tripadi_nishtha_compiled.py",
         "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
+        "theorum/104_samasa_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md"
+      ]
+    },
+    "1.2.48": {
+      "text": "gostriyor upasarjanasya",
+      "text_devanagari": "गोस्त्रियोरुपसर्जनस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
       ]
     },
     "1.3.1": {
@@ -925,6 +988,7 @@
       "cited_in": [
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/paninian_it_samjna_compiled.py",
+        "proof_lab/samasa_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
@@ -1199,13 +1263,16 @@
       "theorems": [
         "T63",
         "T85",
-        "T92"
+        "T92",
+        "T104"
       ],
       "cited_in": [
         "proof_lab/hal_stem_sup_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
+        "proof_lab/samasa_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/104_samasa_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
@@ -1414,6 +1481,188 @@
         "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
+    "2.1.3": {
+      "text": "prāk kaḍārāt samāsaḥ",
+      "text_devanagari": "प्राक् कडारात् समासः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
+      ]
+    },
+    "2.1.4": {
+      "text": "saha supā",
+      "text_devanagari": "सह सुपा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
+      ]
+    },
+    "2.1.22": {
+      "text": "tatpuruṣaḥ",
+      "text_devanagari": "तत्पुरुषः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
+      ]
+    },
+    "2.1.24": {
+      "text": "dvitīyā śritātītapatitagatātyastaprāptāpannaiḥ",
+      "text_devanagari": "द्वितीया श्रितातीतपतितगतात्यस्तप्राप्तापन्नैः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
+      ]
+    },
+    "2.1.36": {
+      "text": "caturthī tadarthārthabalihitasukharakṣitaiḥ",
+      "text_devanagari": "चतुर्थी तदर्थार्थबलिहितसुखरक्षितैः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
+      ]
+    },
+    "2.1.37": {
+      "text": "pañcamī bhayena",
+      "text_devanagari": "पञ्चमी भयेन",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
+      ]
+    },
+    "2.1.40": {
+      "text": "saptamī śauṇḍaiḥ",
+      "text_devanagari": "सप्तमी शौण्डैः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
+      ]
+    },
+    "2.2.8": {
+      "text": "ṣaṣṭhī",
+      "text_devanagari": "षष्ठी",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
+      ]
+    },
+    "2.2.23": {
+      "text": "śeṣo bahuvrīhiḥ",
+      "text_devanagari": "शेषो बहुव्रीहिः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
+      ]
+    },
+    "2.2.24": {
+      "text": "anekam anyapadārthe",
+      "text_devanagari": "अनेकमन्यपदार्थे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
+      ]
+    },
+    "2.2.29": {
+      "text": "cārthe dvandvaḥ",
+      "text_devanagari": "चार्थे द्वन्द्वः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
+      ]
+    },
+    "2.2.30": {
+      "text": "upasarjanaṁ pūrvam",
+      "text_devanagari": "उपसर्जनं पूर्वम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
+      ]
+    },
+    "2.2.34": {
+      "text": "alpāctaram",
+      "text_devanagari": "अल्पाच्तरम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
+      ]
+    },
     "2.3.1": {
       "text": "anabhihite",
       "text_devanagari": "अनभिहिते",
@@ -1526,6 +1775,20 @@
         "theorum/68_karaka_vibhakti_carrier_theorem.md"
       ]
     },
+    "2.4.26": {
+      "text": "paraval liṅgaṁ dvandvatatpuruṣayoḥ",
+      "text_devanagari": "परवल्लिङ्गं द्वन्द्वतत्पुरुषयोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
+      ]
+    },
     "2.4.36": {
       "text": "ado jagdhir lyap ti kiti",
       "text_devanagari": "अदो जग्धिर्ल्यप्ति किति",
@@ -1536,6 +1799,20 @@
       "cited_in": [
         "proof_lab/nirukta_dhatupatha_nama.py",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md"
+      ]
+    },
+    "2.4.71": {
+      "text": "supo dhātuprātipadikayoḥ",
+      "text_devanagari": "सुपो धातुप्रातिपदिकयोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
       ]
     },
     "2.4.76": {
@@ -2599,6 +2876,21 @@
         "proof_lab/taddhita_an_in_yan_compiled.py"
       ]
     },
+    "5.4.91": {
+      "text": "rājāhaḥsakhibhyaṣ ṭac",
+      "text_devanagari": "राजाहस्सखिभ्यष्टच्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "typography_note": "pinned text prints the saṁhitā form rājāhassakhibhyaṣ ṭac (visarga → s before s); the sūtra is cited in its pada form rājāhaḥsakhibhyaṣ ṭac",
+      "level": "hand_coded",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
+      ]
+    },
     "6.1.1": {
       "text": "ekāco dve prathamasya",
       "text_devanagari": "एकाचो द्वे प्रथमस्य",
@@ -2953,7 +3245,8 @@
         "T93",
         "T94",
         "T98",
-        "T99"
+        "T99",
+        "T104"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
@@ -2963,9 +3256,11 @@
         "proof_lab/pada_to_line_external_sandhi.py",
         "proof_lab/paninian_instruction_format.py",
         "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/samasa_compiled.py",
         "proof_lab/sarvanama_ap_sup_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/104_samasa_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
@@ -3091,7 +3386,8 @@
         "T80",
         "T88",
         "T89",
-        "T98"
+        "T98",
+        "T104"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
@@ -3104,6 +3400,7 @@
         "proof_lab/paninian_instruction_format.py",
         "proof_lab/paninian_seam_calculus.py",
         "proof_lab/rewrite_rules_as_cut_module_operators.py",
+        "proof_lab/samasa_compiled.py",
         "proof_lab/sarvanama_ap_sup_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/seam_compensated_confluence_verdict.py",
@@ -3111,6 +3408,7 @@
         "proof_lab/silence_vibration_sutra_flow.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/104_samasa_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
@@ -3293,6 +3591,32 @@
       "cited_in": [
         "proof_lab/paninian_samjna_sound_layer.py",
         "theorum/81_paninian_samjna_sound_layer_theorem.md"
+      ]
+    },
+    "6.1.223": {
+      "text": "",
+      "text_devanagari": "समासस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
+      ]
+    },
+    "6.3.46": {
+      "text": "ān mahataḥ samānādhikaraṇajātīyayoḥ",
+      "text_devanagari": "आन्महतः समानाधिकरणजातीययोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
       ]
     },
     "6.4.1": {
@@ -3589,6 +3913,20 @@
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
+      ]
+    },
+    "6.4.144": {
+      "text": "nas taddhite",
+      "text_devanagari": "नस्तद्धिते",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T104"
+      ],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md"
       ]
     },
     "6.4.146": {
@@ -4849,12 +5187,15 @@
       "theorems": [
         "T65",
         "T90",
-        "T92"
+        "T92",
+        "T104"
       ],
       "cited_in": [
         "proof_lab/hal_stem_sup_compiled.py",
         "proof_lab/r_stem_sup_compiled.py",
+        "proof_lab/samasa_compiled.py",
         "proof_lab/stem_classes_gayatri_coverage.py",
+        "theorum/104_samasa_compiled_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md",
         "theorum/92_hal_stem_sup_compiled_theorem.md"
@@ -5269,13 +5610,16 @@
       "level": "hand_coded",
       "theorems": [
         "T90",
-        "T91"
+        "T91",
+        "T104"
       ],
       "cited_in": [
         "proof_lab/ghi_stem_sup_compiled.py",
         "proof_lab/napumsaka_sup_compiled.py",
         "proof_lab/r_stem_sup_compiled.py",
+        "proof_lab/samasa_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md",
         "theorum/91_ghi_stem_sup_compiled_theorem.md"
       ]
@@ -5285,12 +5629,13 @@
       "text_devanagari": "अट्कुप्वाङ्नुम्व्यवायेऽपि",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "hand_coded",
+      "level": "meta",
       "theorems": [
         "T63",
         "T91",
         "T93",
-        "T94"
+        "T94",
+        "T104"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
@@ -5298,9 +5643,11 @@
         "proof_lab/napumsaka_sup_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
+        "proof_lab/samasa_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/shaiva_sources_nativized.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/104_samasa_compiled_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",

@@ -1171,6 +1171,22 @@ proof_lab/test_taddhita_an_in_yan_compiled.py
 proof_lab/TADDHITA_AN_IN_YAN_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 104 Samāsa Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | rājapuruṣa, kṛṣṇaśrita, yūpadāru, vṛkabhaya, akṣaśauṇḍa, devālaya, nīlotpala, rājarṣi, mahārāja, pītāmbara, citragu, rāmalakṣmaṇa from their sup-ending members by 2.4.71, 1.2.43 / 2.2.30, 2.2.34, 6.3.46, 5.4.91, 6.4.144, 8.2.7, 1.2.48, 6.1.101, 6.1.87, 1.1.51; rājapuruṣa declined 21 cells on theorum/63 with 8.4.1's ṣ-trigger; each rule breaks exactly the compounds stated |
+| Status | `PASS_SAMASA_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `d23a43e951dd5217e30315dabe4cc4ff3d95d24f6ea6a35e51675bb0933eeec4` |
+| Boundary | kind of compound and karmadhāraya / bahuvrīhi order declared; other samāsānta affixes, accent, dvigu, avyayībhāva, ekaśeṣa not claimed |
+
+```text
+theorum/104_samasa_compiled_theorem.md
+proof_lab/samasa_compiled.py
+proof_lab/test_samasa_compiled.py
+proof_lab/SAMASA_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
