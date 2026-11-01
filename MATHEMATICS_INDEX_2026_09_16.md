@@ -151,6 +151,7 @@ Use the audited [publication copy](theorum/morphic_algebra/main.tex) for mathema
 | Liṭ parasmaipada | [T102](theorum/102_lit_parasmaipada_compiled_theorem.md) | bhū/gam/kṛ/nī 20 forms: abhyāsa 6.1.1/4/8, 7.4.59/62/66/73, 8.4.54; 1.2.5; 7.2.115/116; 6.4.98; 6.4.88; 7.2.13/35 |
 | Taddhita aṇ / iñ / yañ / ṭhak | [T103](theorum/103_taddhita_an_in_yan_compiled_theorem.md) | 8 derivatives: 7.2.117/118 vṛddhi, 6.4.146, 6.4.148, 7.3.50, 6.1.78; each rule on exactly its derivations |
 | Samāsa | [T104](theorum/104_samasa_compiled_theorem.md) | 12 compounds from sup-ending members (2.4.71, 1.2.43/2.2.30, 2.2.34, 8.2.7, 6.1.87/101, 6.3.46+5.4.91+6.4.144, 1.2.48); rājapuruṣa declined on 63; each rule on exactly its compounds |
+| ṇic causatives | [T105](theorum/105_nic_causative_compiled_theorem.md) | 12 roots × laṭ 3s/3p/1s: 7.2.115/116, 6.4.92, 7.3.36/37, 7.3.86, 7.3.84 + 6.1.78; each rule on exactly its forms |
 | Pāṇinian cut-module algebra | [T56](theorum/56_canvas_operators_nativized_theorem.md), [T58](theorum/58_paninian_seam_calculus_theorem.md), [T60](theorum/60_seam_compensated_confluence_verdict_theorem.md), [T61](theorum/61_rewrite_rules_as_cut_module_operators_theorem.md) | finite declared carriers and rule sets |
 | Grammar carriers | [T63–68](#theorems-58-77-paninian-domain-yang-mills-tool-and-semantic-chain) | exact finite nominal, verbal, sandhi, and kāraka/vibhakti carriers |
 | Obligation and evidence ladders | [T69](theorum/69_mimamsa_obligation_closure_theorem.md), [T70](theorum/70_angatva_pramana_ladder_theorem.md) | declared Mīmāṃsā/pramāṇa finite models |
@@ -395,6 +396,7 @@ The register below distinguishes theorem capsules from plans, source maps, certi
 | 102 | [Liṭ Parasmaipada Compiled with Reduplication](theorum/102_lit_parasmaipada_compiled_theorem.md) | perfect; abhyāsa; kit / pit split; 20 forms |
 | 103 | [Taddhita Affixes aṇ, iñ, yañ, ṭhak Compiled](theorum/103_taddhita_an_in_yan_compiled_theorem.md) | secondary derivation; 8 derivatives |
 | 104 | [Samāsa Compiled](theorum/104_samasa_compiled_theorem.md) | compounding; 12 compounds + declension |
+| 105 | [ṇic Causatives Compiled](theorum/105_nic_causative_compiled_theorem.md) | sanādyanta; 12 roots × 3 cells |
 
 ## 7. Parallel theorem registers
 

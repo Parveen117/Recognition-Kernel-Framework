@@ -10,12 +10,12 @@
   ],
   "counts": {
     "compiled": 10,
-    "meta": 102,
-    "hand_coded": 176,
-    "cited": 58,
+    "meta": 105,
+    "hand_coded": 179,
+    "cited": 60,
     "misnumbered": 2,
-    "entries": 348,
-    "text_missing": 32,
+    "entries": 356,
+    "text_missing": 34,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
     "iast_mismatch_with_pinned_edition": 0
@@ -401,6 +401,7 @@
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/lun_parasmaipada_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
+        "proof_lab/nic_causative_compiled.py",
         "proof_lab/paninian_instruction_format.py",
         "proof_lab/samasa_compiled.py",
         "proof_lab/taddhita_an_in_yan_compiled.py",
@@ -418,18 +419,21 @@
         "T80",
         "T89",
         "T90",
-        "T104"
+        "T104",
+        "T105"
       ],
       "cited_in": [
         "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/lit_parasmaipada_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
+        "proof_lab/nic_causative_compiled.py",
         "proof_lab/paninian_instruction_format.py",
         "proof_lab/r_stem_sup_compiled.py",
         "proof_lab/samasa_compiled.py",
         "proof_lab/shaiva_sources_nativized.py",
         "proof_lab/stem_classes_gayatri_coverage.py",
         "theorum/104_samasa_compiled_theorem.md",
+        "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
@@ -871,6 +875,7 @@
         "proof_lab/lun_parasmaipada_compiled.py",
         "proof_lab/napumsaka_sup_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
+        "proof_lab/nic_causative_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
         "proof_lab/paninian_it_samjna_compiled.py",
@@ -912,18 +917,21 @@
         "T63",
         "T64",
         "T66",
-        "T82"
+        "T82",
+        "T105"
       ],
       "cited_in": [
         "proof_lab/lat_atmanepada.py",
         "proof_lab/mimamsa_obligation_closure.py",
         "proof_lab/ngi_stem_sup_compiled.py",
+        "proof_lab/nic_causative_compiled.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
         "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/paninian_seam_calculus.py",
         "proof_lab/shaiva_sources_nativized.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
@@ -983,13 +991,16 @@
       "level": "meta",
       "theorems": [
         "T63",
-        "T82"
+        "T82",
+        "T105"
       ],
       "cited_in": [
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
+        "proof_lab/nic_causative_compiled.py",
         "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/samasa_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
@@ -1029,7 +1040,8 @@
         "T63",
         "T64",
         "T66",
-        "T82"
+        "T82",
+        "T105"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
@@ -1046,6 +1058,7 @@
         "proof_lab/lun_parasmaipada_compiled.py",
         "proof_lab/napumsaka_sup_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
+        "proof_lab/nic_causative_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
         "proof_lab/paninian_it_samjna_compiled.py",
@@ -1065,6 +1078,7 @@
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
         "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
+        "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/62_silence_vibration_sutra_flow_theorem.md",
@@ -1141,10 +1155,13 @@
       "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
-        "T95"
+        "T95",
+        "T105"
       ],
       "cited_in": [
         "proof_lab/lan_parasmaipada_compiled.py",
+        "proof_lab/nic_causative_compiled.py",
+        "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -1247,10 +1264,13 @@
       "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
-        "T82"
+        "T82",
+        "T105"
       ],
       "cited_in": [
+        "proof_lab/nic_causative_compiled.py",
         "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
@@ -1885,6 +1905,45 @@
         "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
+    "3.1.25": {
+      "text": "",
+      "text_devanagari": "सत्यापपाशरूपवीणातूलश्लोकसेनालोमत्वचवर्मवर्णचूर्णचुरादिभ्यो णिच्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/nic_causative_compiled.py"
+      ]
+    },
+    "3.1.26": {
+      "text": "hetumati ca",
+      "text_devanagari": "हेतुमति च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T105"
+      ],
+      "cited_in": [
+        "proof_lab/nic_causative_compiled.py",
+        "theorum/105_nic_causative_compiled_theorem.md"
+      ]
+    },
+    "3.1.32": {
+      "text": "sanādyantā dhātavaḥ",
+      "text_devanagari": "सनाद्यन्ता धातवः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T105"
+      ],
+      "cited_in": [
+        "proof_lab/nic_causative_compiled.py",
+        "theorum/105_nic_causative_compiled_theorem.md"
+      ]
+    },
     "3.1.33": {
       "text": "syatāsī lṛluṭoḥ",
       "text_devanagari": "स्यतासी लृलुटोः",
@@ -1968,15 +2027,18 @@
       "text_devanagari": "कर्तरि शप्",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "hand_coded",
+      "level": "meta",
       "theorems": [
         "T64",
-        "T66"
+        "T66",
+        "T105"
       ],
       "cited_in": [
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lat_atmanepada.py",
+        "proof_lab/nic_causative_compiled.py",
         "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md"
       ]
@@ -2266,14 +2328,17 @@
         "T64",
         "T66",
         "T95",
-        "T99"
+        "T99",
+        "T105"
       ],
       "cited_in": [
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lat_atmanepada.py",
+        "proof_lab/nic_causative_compiled.py",
         "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
@@ -2660,14 +2725,17 @@
       "theorems": [
         "T58",
         "T64",
-        "T66"
+        "T66",
+        "T105"
       ],
       "cited_in": [
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lat_atmanepada.py",
+        "proof_lab/nic_causative_compiled.py",
         "proof_lab/paninian_seam_calculus.py",
         "proof_lab/seam_compensated_confluence_verdict.py",
         "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
@@ -3170,7 +3238,8 @@
         "T98",
         "T100",
         "T102",
-        "T103"
+        "T103",
+        "T105"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
@@ -3181,6 +3250,7 @@
         "proof_lab/lit_parasmaipada_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/napumsaka_sup_compiled.py",
+        "proof_lab/nic_causative_compiled.py",
         "proof_lab/paninian_instruction_format.py",
         "proof_lab/paninian_seam_calculus.py",
         "proof_lab/sarvanama_ap_sup_compiled.py",
@@ -3192,6 +3262,7 @@
         "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
         "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
+        "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
@@ -3348,7 +3419,8 @@
         "T94",
         "T96",
         "T98",
-        "T99"
+        "T99",
+        "T105"
       ],
       "cited_in": [
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
@@ -3358,11 +3430,13 @@
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/lun_parasmaipada_compiled.py",
         "proof_lab/napumsaka_sup_compiled.py",
+        "proof_lab/nic_causative_compiled.py",
         "proof_lab/sarvanama_ap_sup_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/stem_classes_gayatri_coverage.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "proof_lab/ting_lat_parasmaipada.py",
+        "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
@@ -3728,6 +3802,18 @@
         "theorum/86_nirukta_dhatupatha_nama_theorem.md"
       ]
     },
+    "6.4.51": {
+      "text": "",
+      "text_devanagari": "णेरनिटि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/nic_causative_compiled.py",
+        "theorum/105_nic_causative_compiled_theorem.md"
+      ]
+    },
     "6.4.66": {
       "text": "ghumāsthāgāpājahātisāṁ hali",
       "text_devanagari": "घुमास्थागापाजहातिसां हलि",
@@ -3810,6 +3896,20 @@
         "proof_lab/lun_parasmaipada_compiled.py",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
         "theorum/102_lit_parasmaipada_compiled_theorem.md"
+      ]
+    },
+    "6.4.92": {
+      "text": "mitāṁ hrasvaḥ",
+      "text_devanagari": "मितां ह्रस्वः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T105"
+      ],
+      "cited_in": [
+        "proof_lab/nic_causative_compiled.py",
+        "theorum/105_nic_causative_compiled_theorem.md"
       ]
     },
     "6.4.98": {
@@ -3982,7 +4082,8 @@
         "T96",
         "T97",
         "T99",
-        "T101"
+        "T101",
+        "T105"
       ],
       "cited_in": [
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
@@ -3991,9 +4092,11 @@
         "proof_lab/lot_lin_parasmaipada_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/lun_parasmaipada_compiled.py",
+        "proof_lab/nic_causative_compiled.py",
         "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/ting_lat_parasmaipada.py",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
+        "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md",
@@ -4564,11 +4667,14 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T102"
+        "T102",
+        "T105"
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
-        "theorum/102_lit_parasmaipada_compiled_theorem.md"
+        "proof_lab/nic_causative_compiled.py",
+        "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/105_nic_causative_compiled_theorem.md"
       ]
     },
     "7.2.116": {
@@ -4578,11 +4684,14 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T102"
+        "T102",
+        "T105"
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
-        "theorum/102_lit_parasmaipada_compiled_theorem.md"
+        "proof_lab/nic_causative_compiled.py",
+        "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/105_nic_causative_compiled_theorem.md"
       ]
     },
     "7.2.117": {
@@ -4611,6 +4720,34 @@
       "cited_in": [
         "proof_lab/taddhita_an_in_yan_compiled.py",
         "theorum/103_taddhita_an_in_yan_compiled_theorem.md"
+      ]
+    },
+    "7.3.36": {
+      "text": "artihrīvlīrīknūyīkṣmāyyātāṁ puṅ ṇau",
+      "text_devanagari": "अर्तिह्रीव्लीरीक्नूयीक्ष्माय्यातां पुङ्णौ",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T105"
+      ],
+      "cited_in": [
+        "proof_lab/nic_causative_compiled.py",
+        "theorum/105_nic_causative_compiled_theorem.md"
+      ]
+    },
+    "7.3.37": {
+      "text": "śācchāsāhvāvyāvepāṁ yuk",
+      "text_devanagari": "शाच्छासाह्वाव्यावेपां युक्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T105"
+      ],
+      "cited_in": [
+        "proof_lab/nic_causative_compiled.py",
+        "theorum/105_nic_causative_compiled_theorem.md"
       ]
     },
     "7.3.50": {
@@ -4670,7 +4807,8 @@
         "T80",
         "T89",
         "T97",
-        "T100"
+        "T100",
+        "T105"
       ],
       "cited_in": [
         "proof_lab/krt_ktva_tumun_tavya_compiled.py",
@@ -4678,12 +4816,14 @@
         "proof_lab/lat_atmanepada.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
+        "proof_lab/nic_causative_compiled.py",
         "proof_lab/paninian_instruction_format.py",
         "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/paninian_samjna_sound_layer.py",
         "proof_lab/paninian_seam_calculus.py",
         "proof_lab/ting_lat_parasmaipada.py",
         "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
+        "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
@@ -4691,6 +4831,20 @@
         "theorum/82_paninian_it_samjna_compiled_theorem.md",
         "theorum/89_ngi_stem_sup_compiled_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
+      ]
+    },
+    "7.3.86": {
+      "text": "pugantalaghūpadhasya ca",
+      "text_devanagari": "पुगन्तलघूपधस्य च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T105"
+      ],
+      "cited_in": [
+        "proof_lab/nic_causative_compiled.py",
+        "theorum/105_nic_causative_compiled_theorem.md"
       ]
     },
     "7.3.96": {
@@ -4719,7 +4873,8 @@
         "T95",
         "T97",
         "T99",
-        "T101"
+        "T101",
+        "T105"
       ],
       "cited_in": [
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
@@ -4728,8 +4883,10 @@
         "proof_lab/lot_lin_parasmaipada_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/lun_parasmaipada_compiled.py",
+        "proof_lab/nic_causative_compiled.py",
         "proof_lab/ting_lat_parasmaipada.py",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
+        "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md",

@@ -1187,6 +1187,22 @@ proof_lab/test_samasa_compiled.py
 proof_lab/SAMASA_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 105 ṇic Causatives Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | bhāvayati, kārayati, nāyayati, hārayati, pācayati, gamayati, sthāpayati, dāpayati, pāyayati, vedayati, bodhayati, karṣayati in laṭ 3s / 3p / 1s by 3.1.26 with 7.2.115, 7.2.116, 6.4.92, 7.3.36, 7.3.37, 7.3.86, 1.1.51, 7.3.84, 6.1.78, 7.1.3, 6.1.97, 7.3.101; each rule breaks exactly the forms stated |
+| Status | `PASS_NIC_CAUSATIVE_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `c194911675d12b32db4c70365d36cdfc522253b94ac3f3a398d236726c307c03` |
+| Boundary | mit status and the puk / yuk root lists declared; ātmanepada, other lakāras, 6.4.51 not claimed |
+
+```text
+theorum/105_nic_causative_compiled_theorem.md
+proof_lab/nic_causative_compiled.py
+proof_lab/test_nic_causative_compiled.py
+proof_lab/NIC_CAUSATIVE_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
