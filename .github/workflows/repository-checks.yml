@@ -94,6 +94,10 @@ jobs:
                   'proof_lab/test_shaiva_sources_varga_crystal.py',
                   'proof_lab/SHAIVA_SOURCES_VARGA_CRYSTAL_EXPECTED.sha256',
                   'theorum/79_shaiva_sources_varga_grid_crystal_theorem.md',
+                  'proof_lab/paninian_instruction_format.py',
+                  'proof_lab/test_paninian_instruction_format.py',
+                  'proof_lab/PANINIAN_INSTRUCTION_FORMAT_EXPECTED.sha256',
+                  'theorum/80_paninian_instruction_format_theorem.md',
               }),
           }
           scopes = {name: full or selected for name, selected in scopes.items()}
@@ -142,17 +146,19 @@ jobs:
       - name: Check SS1 sectoral signals
         if: steps.scope.outputs.ss1 == 'true'
         run: node research/sectoral_signal/verify.cjs --check
-      - name: Check Theorem 78-79 Śaiva-sources certificates and pins
+      - name: Check Theorem 78-80 quoted-source certificates and pins
         if: steps.scope.outputs.shaiva == 'true'
         run: |
-          python -B -m unittest proof_lab.test_shaiva_sources_nativized proof_lab.test_shaiva_sources_varga_crystal -v
+          python -B -m unittest proof_lab.test_shaiva_sources_nativized proof_lab.test_shaiva_sources_varga_crystal proof_lab.test_paninian_instruction_format -v
           python -B -m proof_lab.shaiva_sources_nativized --output /tmp/shaiva_actual.json
           python -B -m proof_lab.shaiva_sources_varga_crystal --output /tmp/shaiva_vc_actual.json
+          python -B -m proof_lab.paninian_instruction_format --output /tmp/pif_actual.json
           python - <<'PY'
           import hashlib
           from pathlib import Path
           for actual_path, pin in (('/tmp/shaiva_actual.json', 'proof_lab/SHAIVA_SOURCES_NATIVIZED_EXPECTED.sha256'),
-                                   ('/tmp/shaiva_vc_actual.json', 'proof_lab/SHAIVA_SOURCES_VARGA_CRYSTAL_EXPECTED.sha256')):
+                                   ('/tmp/shaiva_vc_actual.json', 'proof_lab/SHAIVA_SOURCES_VARGA_CRYSTAL_EXPECTED.sha256'),
+                                   ('/tmp/pif_actual.json', 'proof_lab/PANINIAN_INSTRUCTION_FORMAT_EXPECTED.sha256')):
               actual = hashlib.sha256(Path(actual_path).read_bytes()).hexdigest()
               expected = Path(pin).read_text(encoding='utf-8').strip()
               assert actual == expected, (pin, actual, expected)

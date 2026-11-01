@@ -781,6 +781,23 @@ proof_lab/test_shaiva_sources_varga_crystal.py
 proof_lab/SHAIVA_SOURCES_VARGA_CRYSTAL_EXPECTED.sha256
 ```
 
+
+## Theorem 80 Pāṇinian instruction-format packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Case-structured sūtra records compiled by the quoted paribhāṣās (1.1.49, 1.1.66–67, 6.1.84, 1.1.69–70, 1.1.52/55, 1.1.46, 1.3.10, 1.1.50–51, 1.4.2) and certified against theorum/58's hand-coded rules: equal wherever 58 fires, 24 extra long-ī/ū junctions by 1.1.69; antaratama reproduces every table; compiled sandhi confluent under 1.4.2; word rules equal 58 on all 40 reachable states |
+| Status | `PASS_PANINIAN_INSTRUCTION_FORMAT_CANDIDATE` |
+| Canonical result SHA-256 | `8ac53de2a233fbe94d7d6f3f9e3806ade7bd2f68c759faba81882119ae87bccb` |
+| Boundary | not a general Aṣṭādhyāyī interpreter: only the listed paribhāṣās and the rules realized in theorum/58; adhikāra spans declared, not parsed; ṝ ḹ and pluta outside the declared carrier |
+
+```text
+theorum/80_paninian_instruction_format_theorem.md
+proof_lab/paninian_instruction_format.py
+proof_lab/test_paninian_instruction_format.py
+proof_lab/PANINIAN_INSTRUCTION_FORMAT_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
