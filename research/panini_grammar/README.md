@@ -75,7 +75,7 @@ includes the other class-3 roots, further adādi and the native operator lift.
 adds 38 roots / 396 cells / 438 branches. Owned copies retain lexical i,
 copy guṇa and r-accompanied replacement history. Bhī/hāk and ūrṇu preserve
 their options; ru/tu/stu īṭ belongs to the following ending and includes
-the licensed apit cases. [Current coverage](present_expansion/COVERAGE_STATUS.json)
+the licensed apit cases. [PG10 coverage](present_expansion/COVERAGE_STATUS.json)
 is 91/2,229 roots and 1,089 present cells. [Validation](present_expansion/VALIDATION.md)
 records 153 literal word witnesses across 32 roots, 35 refusals, 94 direct
 controls and zero differences across all 396 new cells. Six entries have
@@ -83,6 +83,21 @@ no separate full-word witness in the selected commentary passages.
 [Remaining work](present_expansion/REMAINING.md) keeps the tagged/vowel-initial
 class-3 entries, further class 2, wider grammar and native operator lift
 open. Earlier certificates remain frozen; CI and main merging stay deferred.
+
+**Lexical present paths and owned ending substitutions:**
+[PG11](lexical_present/README.md) adds 40 roots / 405 cells / 420 branches:
+39 further adādi entries plus the explicitly classical-use ṛ profile.
+iṭ/īṭ/ruṭ retain their ending hosts; optional vid endings and coupled
+brū/āh substitutions preserve the present request and source features.
+Repeated source words bind to their own occurrences and cases, and six
+source disagreements remain recorded. [Current coverage](lexical_present/COVERAGE_STATUS.json)
+is 131/2,229 roots, 166 paradigms and 1,494 present cells.
+[Validation](lexical_present/VALIDATION.md) separates 245 primary-word
+cases across 39 roots, 40 refusals and 107 controls from the zero-difference
+405-cell comparison. New pṛj and the six PG10 word-witness gaps remain
+open. [Remaining work](lexical_present/REMAINING.md) includes class-2
+prefix/context entries, tagged roots, wider grammar and native operator
+integration. PG1–PG10 evidence is frozen; CI and main merging stay deferred.
 
 ## Read in this order
 

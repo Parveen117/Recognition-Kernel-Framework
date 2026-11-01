@@ -1,0 +1,114 @@
+{
+  "author": "Monty",
+  "decisions": [
+    {
+      "id": "caks-nonfinal-i",
+      "choice": "Use the traditional nonfinal i-it reading for this lexical path, with no idit-num. Preserve the modern note as disagreement; do not alter PG4 preprocessing.",
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1020007",
+          "field": "dhatu_note",
+          "anchor": "अस्मिन् धातौ औपदेशिकस्वरूपे विद्यमानः इकारः उच्चारणार्थः स्थापितः अस्ति, इत्संज्ञकः नास्ति । अपि च, आर्धधातुकप्रत्ययस्य विषये <<चक्षिङः ख्याञ्>> [[2.4.54]] इत्यनेन सूत्रेण अस्य धातोः ख्याञ् (केषाञ्चन मतेन क्शाञ्) इति आदेशः भवति ।"
+        },
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "34112",
+          "anchor": "इत्संज्ञावश्यकत्वे नुमागमः"
+        },
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "34112",
+          "anchor": "अन्ते इदित इति"
+        }
+      ]
+    },
+    {
+      "id": "ah-th-not-dh",
+      "choice": "The sūtra and Bālamanoramā prescribe dental th. The pinned Kāśikā field says dh; it is not used for this replacement.",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "82035",
+          "anchor": "हकारस्य धकारादेशो"
+        },
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "82035",
+          "anchor": "आह् इत्यस्य थकारः स्याज्झलीति फलितम्"
+        }
+      ]
+    },
+    {
+      "id": "daridra-weak-i",
+      "choice": "Use the explicit weak i prescription and Kāśikā daridritaḥ. The shorter Siddhāntakaumudī field reads daridrataḥ and is not taken as that cell witness.",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "64114",
+          "anchor": "दरिद्रातेर्हलादौ सार्वधातुके क्ङिति परत इकारादेशो भवति। दरिद्रितः।"
+        },
+        {
+          "path": "sutraani/kaumudi.txt",
+          "key": "64114",
+          "anchor": "दरिद्रतः"
+        }
+      ]
+    },
+    {
+      "id": "bru-bala-displaced",
+      "choice": "The 7.3.93 Bālamanoramā field discusses sanvat/caṅ. Use the directly relevant Kāśikā and Siddhāntakaumudī passages instead.",
+      "evidence": [
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "73093",
+          "anchor": "सन्वल्लघुनि"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "73093",
+          "anchor": "ब्रू इत्येतस्मादुत्तरस्य हलादेः पितः सार्वधातुकस्येडागमो भवति"
+        }
+      ]
+    },
+    {
+      "id": "mrj-second-person-spelling",
+      "choice": "Apply 8.2.36 then 8.2.41 to mārṣ+si, giving mārkṣi. The pinned Bālamanoramā 7.2.114 token mārṣi is recorded as conflicting, not selected as a witness.",
+      "evidence": [
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "72114",
+          "anchor": "मार्षि मृष्ठः"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "82041",
+          "anchor": "षढोः कः सि",
+          "field": "s"
+        }
+      ]
+    },
+    {
+      "id": "s-lopa-reading",
+      "choice": "Use Siddhāntakaumudī dh-initial-affix lopa in the five admitted s-final roots. Kāśikā discusses a narrower sic-only reading.",
+      "evidence": [
+        {
+          "path": "sutraani/kaumudi.txt",
+          "key": "82025",
+          "anchor": "धादौ प्रत्यये परे सलोपः स्यात्"
+        },
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "72078",
+          "anchor": "वध्वे इति ।धि चे॑ति सलोपः"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "82025",
+          "anchor": "सिचः सकारस्य लोप इष्यते"
+        }
+      ]
+    }
+  ],
+  "boundary": "Edition/transcription and interpretive disagreements are retained; no source bytes are repaired to pass."
+}
