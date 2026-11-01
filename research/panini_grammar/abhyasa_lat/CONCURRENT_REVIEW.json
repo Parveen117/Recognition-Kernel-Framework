@@ -1,0 +1,73 @@
+{
+  "author": "Monty",
+  "reviewed_commit": "ae94ecb9c06c7d5e6758d17b5ba9641284ac4801",
+  "repository": "Parveen117/Recognition-Kernel-Framework",
+  "branch": "shaiva-sources-maheshvara-spanda-pratyabhijna",
+  "review_method": "Read the exact commit patch for the T89 module and theorem; statically parsed the added Python module. No companion certificate or test suite was replayed.",
+  "files_read": [
+    "proof_lab/ngi_stem_sup_compiled.py",
+    "theorum/89_ngi_stem_sup_compiled_theorem.md"
+  ],
+  "module_sha256": "ee645cdf4334e841e4d6d3a7bed3cf30e5df735ad50ec08488b4ffced9044672",
+  "useful_overlap": {
+    "lexical_id": "1030001",
+    "root": "hu",
+    "companion_path": "hu + tṛc -> hotṛ; + ṅīp -> hotrī",
+    "pg9_path": "hu + ślu + present tiṅ -> juhoti and its licensed present paradigm",
+    "reuse": "Preserve the shared lexical ID and separate word domains; nominal code is not needed for ślu reduplication."
+  },
+  "reported_nominal_counts": {
+    "nadi_cells": 22,
+    "agent_feminine_cells": 110,
+    "verification_status": "Companion reports; not independently replayed or added to PG present coverage."
+  },
+  "findings": [
+    {
+      "id": "T89-stage-removal-entries-hidden-in-comment",
+      "severity": "validation gap",
+      "file": "proof_lab/ngi_stem_sup_compiled.py",
+      "line": 120,
+      "static_probe": "AST literal extraction of t1_nadi.expected_breaks, with no module import or execution",
+      "claimed_stage_keys": [
+        "7.3.112",
+        "7.3.116",
+        "7.1.54",
+        "7.3.107",
+        "6.1.68",
+        "6.1.69",
+        "6.1.105",
+        "8.3.59"
+      ],
+      "actual_stage_keys": [
+        "6.1.105",
+        "7.3.112",
+        "8.3.59"
+      ],
+      "absent_stage_keys": [
+        "7.3.116",
+        "7.1.54",
+        "7.3.107",
+        "6.1.68",
+        "6.1.69"
+      ],
+      "cause": "The inline comment after 7.3.112 consumes five following dictionary entries on the same physical line.",
+      "consequence": "The full paradigm equality check remains present, but the claimed eight ablation checks are only three active checks.",
+      "repair": "Move the comment onto its own line, restore the five entries, run only the changed T89 controls and intentionally review any changed companion certificate pin."
+    },
+    {
+      "id": "T89-aniṭ-domain-is-caller-declared",
+      "severity": "reuse boundary",
+      "file": "proof_lab/ngi_stem_sup_compiled.py",
+      "function": "trc_agent",
+      "observation": "t2_agent_feminines calls five allowed lexical IDs, but trc_agent itself accepts any entries key without checking membership in AGENTS or a supplied aniṭ license.",
+      "consequence": "Use the companion only through its declared five-root domain until the callable interface enforces that boundary."
+    }
+  ],
+  "integration": {
+    "companion_code_merged": false,
+    "companion_certificate_replayed": false,
+    "pg9_dependency_added": false,
+    "main_merge": "deferred",
+    "hosted_ci": "deferred"
+  }
+}

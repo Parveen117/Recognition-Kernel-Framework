@@ -54,11 +54,22 @@ bhuj/tṛh, adādi/juhotyādi and the wider grammar packages.
 **Sense selection, nested im and initial adādi:** [PG8](exception_lat/README.md)
 adds bhuj/tṛh and ad/as: four roots / 45 cells. Distinct bhuj meanings select
 pada; im retains its own owner inside the root-with-śnam host; a cited local
-visibility exception supports ḍh-lopa. The [current coverage](exception_lat/COVERAGE_STATUS.json)
+visibility exception supports ḍh-lopa. The [PG8 coverage](exception_lat/COVERAGE_STATUS.json)
 is 50/2,229 root entries and 648 laṭ cells, with overall grammar completion
 still undefined. [Remaining work](exception_lat/REMAINING.md) begins with
-reduplication and more adādi paths. [Claude's latest reviewed work](exception_lat/CONCURRENT_REVIEW.json)
+reduplication and more adādi paths. [Claude's T86/T87 review](exception_lat/CONCURRENT_REVIEW.json)
 remains separately identified; CI and main merging are deferred.
+
+**Owned abhyāsa and strong/weak juhotyādi:** [PG9](abhyasa_lat/README.md)
+adds hu, dā and dhā: three roots / 45 cells. Copied sound identities,
+collective abhyasta, ghu-conditioned ā-lopa and dhā's specific visibility
+permission are retained in the derivation. [Current coverage](abhyasa_lat/COVERAGE_STATUS.json)
+is 53/2,229 root entries and 693 present cells, with no overall grammar
+percentage. [Validation](abhyasa_lat/VALIDATION.md) separates 38 literal
+word witnesses, 18 refusals and 63 controls from the 45-cell implementation
+comparison. [Claude's T89 review](abhyasa_lat/CONCURRENT_REVIEW.json) records
+five stage-removal checks hidden in a comment. [Remaining work](abhyasa_lat/REMAINING.md)
+includes the other class-3 roots, further adādi and the native operator lift.
 
 ## Read in this order
 

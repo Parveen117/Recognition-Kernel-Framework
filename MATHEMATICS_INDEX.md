@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 1 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG8 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
+Index update: 1 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG9 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -171,6 +171,31 @@ and the lexical-dhā exception needed before wider reuse. The theorem branch is 
 [Remaining work](research/panini_grammar/exception_lat/REMAINING.md) starts with
 abhyāsa/reduplication and further adādi paths. Native operator lifting, full
 grammar, hosted CI and main merge remain open or deferred.
+
+## PG9: owned abhyāsa and hu/dā/dhā present paths
+
+[PG9](research/panini_grammar/abhyasa_lat/README.md) adds three identified
+juhotyādi roots, five licensed pada profiles and 45 present cells. A separate
+abhyāsa copy retains links to the pre-strength root; the pair is collectively
+abhyasta. Strong guṇa, weak ā-lopa, ghu exclusion of ī and the abhyasta at
+ending retain their own targets. Dhā's 8.2.38 query explicitly admits
+abhyāsa-jaśtva visibility and does not restore deleted ā.
+
+[Source review](research/panini_grammar/abhyasa_lat/SOURCE_REVIEW.md) binds
+16 bounded records and eight attributed scope overlays.
+[Validation](research/panini_grammar/abhyasa_lat/VALIDATION.md) records 38
+literal Sanskrit word witnesses, 18 refusals, 63 controls and a separate
+45-cell Vidyut comparison with no differences.
+[Coverage](research/panini_grammar/abhyasa_lat/COVERAGE_STATUS.json) is now
+53 / 2,229 root entries, 693 cells and 99 distinct source-bound sūtra IDs
+across PG4–PG9; this is not an overall grammar-completion percentage.
+[Claude's T89 review](research/panini_grammar/abhyasa_lat/CONCURRENT_REVIEW.json)
+records the shared hu identity and five commented-out stage-removal checks;
+nominal outputs remain separate and the companion certificate was not replayed.
+[Remaining work](research/panini_grammar/abhyasa_lat/REMAINING.md) includes
+bhī/hrī, bhṛ/pṛ, other reduplication shapes and further adādi. Full native
+operator lifting, general grammar, hosted CI and main merge remain open or
+deferred.
 
 ## Śaiva sources and the sūtra as an instruction: Theorems 78–82
 
