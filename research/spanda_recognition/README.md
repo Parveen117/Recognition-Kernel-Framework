@@ -42,6 +42,13 @@ the example and the distinction between a repeatable state and literal word
 history. [SCOPE.md](SCOPE.md) records assumptions and open work;
 [VALIDATION.md](VALIDATION.md) records checks actually performed.
 
+The first source-derived application is the quantum calculator's
+[`observer-cycle` adapter](https://github.com/Parveen117/quantum-classical-provisional/blob/7563a59f4c38de15be6841d7ee552ad95cf6755a/native_relational_qc/OBSERVER_CYCLE.md).
+It derives H and b from the existing rotation-and-preparation channel,
+distinguishes detector return from source return, and retains frame calibration
+and the declared protocol count. This bounded source has **zero** reset
+obstruction; the explicit software count is a separate memory resource.
+
 From the repository root:
 
 ```bash

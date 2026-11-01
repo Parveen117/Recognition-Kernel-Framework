@@ -22,10 +22,21 @@ Closed in this stage: reset feasibility, invariant drift detection, observer
 access to a linear cycle count and their specified specialization behavior.
 Actual initial-state return is not equivalent to reset feasibility.
 
+The first external application now derives H and b from the quantum
+calculator's existing convex rotation-and-preparation source. The
+[pinned adapter and derivation](https://github.com/Parveen117/quantum-classical-provisional/blob/7563a59f4c38de15be6841d7ee552ad95cf6755a/native_relational_qc/OBSERVER_CYCLE.md)
+provide a finite cut-field realization, exact repeated-block propagation,
+physical fixed points and a two-coordinate future-observer test. This
+particular physical source has zero obstruction. Its retained protocol
+counter is declared classical memory; it is not extracted from a qubit.
+Neither a full-family quantum derivation nor acquired hardware validation is
+claimed by that adapter.
+
 Still open for the programme:
 
-1. Select and justify H and b from an actual device/source model or acquired
-   readings, rather than supplying them as mathematical input.
+1. Extend the first declared-source attachment to experimentally calibrated
+   devices or acquired readings, and justify any full-family lift. The
+   calculator attachment closes only the supplied ideal source-model case.
 2. Allow memory to change the selected next action or feed back into the
    source, with guards and a well-defined repeatability contract.
 3. Extend the observer criterion to incomplete/noisy measurements and give
