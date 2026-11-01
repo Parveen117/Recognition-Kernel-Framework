@@ -27,7 +27,7 @@ removing 7.2.35 leaves nī untouched.
 bhavitāstha; bhavitāsmi, bhavitāsvaḥ, bhavitāsmaḥ; netā …: **18/18**. 2.4.85
 {3s, 3d, 3p}; 6.4.143 {3s} (the ṭi *ās* drops before the ḍit); 7.4.50 {2s};
 7.4.51 {3d, 3p}; 8.2.66 {3p, 2d, 1d, 1p}. gam's luṭ (gantā) is refused by
-name — it needs 8.3.24 / 8.4.58.
+name — it needs 8.3.24 / 8.4.58. (Realized in theorum/100 by exactly those two rules; this certificate's refusal and pin stand.)
 
 ## 3. Certificate
 
