@@ -10,12 +10,12 @@
   ],
   "counts": {
     "compiled": 10,
-    "meta": 49,
-    "hand_coded": 72,
-    "cited": 54,
+    "meta": 50,
+    "hand_coded": 77,
+    "cited": 49,
     "misnumbered": 2,
-    "entries": 187,
-    "text_missing": 9,
+    "entries": 188,
+    "text_missing": 10,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
     "iast_mismatch_with_pinned_edition": 0
@@ -204,13 +204,17 @@
       "text_devanagari": "क्तक्तवतू निष्ठा",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "meta",
+      "theorems": [
+        "T87"
+      ],
       "cited_in": [
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
+        "proof_lab/tripadi_nishtha_compiled.py",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
-        "theorum/86_nirukta_dhatupatha_nama_theorem.md"
+        "theorum/86_nirukta_dhatupatha_nama_theorem.md",
+        "theorum/87_tripadi_nishtha_compiled_theorem.md"
       ]
     },
     "1.1.27": {
@@ -616,6 +620,7 @@
       "cited_in": [
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
+        "proof_lab/tripadi_nishtha_compiled.py",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md"
@@ -650,6 +655,7 @@
         "proof_lab/nirukta_nama_akhyatajani.py",
         "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "proof_lab/tripadi_nishtha_compiled.py",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md",
@@ -796,6 +802,7 @@
         "proof_lab/silence_vibration_sutra_flow.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "proof_lab/ting_lat_parasmaipada.py",
+        "proof_lab/tripadi_nishtha_compiled.py",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/62_silence_vibration_sutra_flow_theorem.md",
@@ -1334,6 +1341,7 @@
       "cited_in": [
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
+        "proof_lab/tripadi_nishtha_compiled.py",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md"
       ]
@@ -1969,6 +1977,18 @@
         "theorum/65_stem_classes_gayatri_coverage_theorem.md"
       ]
     },
+    "6.4.22": {
+      "text": "",
+      "text_devanagari": "असिद्धवदत्राभात्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/tripadi_nishtha_compiled.py",
+        "theorum/87_tripadi_nishtha_compiled_theorem.md"
+      ]
+    },
     "6.4.37": {
       "text": "anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti",
       "text_devanagari": "अनुदात्तोपदेशवनतितनोत्यादीनामनुनासिक लोपो झलि क्ङिति",
@@ -2178,6 +2198,7 @@
       "cited_in": [
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
+        "proof_lab/tripadi_nishtha_compiled.py",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md"
       ]
@@ -2396,7 +2417,8 @@
         "T64",
         "T65",
         "T66",
-        "T67"
+        "T67",
+        "T87"
       ],
       "cited_in": [
         "proof_lab/lat_atmanepada.py",
@@ -2405,11 +2427,13 @@
         "proof_lab/stem_classes_gayatri_coverage.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "proof_lab/ting_lat_parasmaipada.py",
+        "proof_lab/tripadi_nishtha_compiled.py",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/62_silence_vibration_sutra_flow_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
-        "theorum/65_stem_classes_gayatri_coverage_theorem.md"
+        "theorum/65_stem_classes_gayatri_coverage_theorem.md",
+        "theorum/87_tripadi_nishtha_compiled_theorem.md"
       ]
     },
     "8.2.7": {
@@ -2456,11 +2480,15 @@
       "text_devanagari": "चोः कुः",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "hand_coded",
+      "theorems": [
+        "T87"
+      ],
       "cited_in": [
         "proof_lab/nirukta_dhatupatha_nama.py",
-        "theorum/86_nirukta_dhatupatha_nama_theorem.md"
+        "proof_lab/tripadi_nishtha_compiled.py",
+        "theorum/86_nirukta_dhatupatha_nama_theorem.md",
+        "theorum/87_tripadi_nishtha_compiled_theorem.md"
       ]
     },
     "8.2.37": {
@@ -2494,11 +2522,15 @@
       "text_devanagari": "झषस्तथोर्धोऽधः",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "hand_coded",
+      "theorems": [
+        "T87"
+      ],
       "cited_in": [
         "proof_lab/nirukta_dhatupatha_nama.py",
-        "theorum/86_nirukta_dhatupatha_nama_theorem.md"
+        "proof_lab/tripadi_nishtha_compiled.py",
+        "theorum/86_nirukta_dhatupatha_nama_theorem.md",
+        "theorum/87_tripadi_nishtha_compiled_theorem.md"
       ]
     },
     "8.2.42": {
@@ -2506,11 +2538,15 @@
       "text_devanagari": "रदाभ्यां निष्ठातो नः पूर्वस्य च दः",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "hand_coded",
+      "theorems": [
+        "T87"
+      ],
       "cited_in": [
         "proof_lab/nirukta_dhatupatha_nama.py",
-        "theorum/86_nirukta_dhatupatha_nama_theorem.md"
+        "proof_lab/tripadi_nishtha_compiled.py",
+        "theorum/86_nirukta_dhatupatha_nama_theorem.md",
+        "theorum/87_tripadi_nishtha_compiled_theorem.md"
       ]
     },
     "8.2.44": {
@@ -2518,11 +2554,15 @@
       "text_devanagari": "ल्वादिभ्यः",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "hand_coded",
+      "theorems": [
+        "T87"
+      ],
       "cited_in": [
         "proof_lab/nirukta_dhatupatha_nama.py",
-        "theorum/86_nirukta_dhatupatha_nama_theorem.md"
+        "proof_lab/tripadi_nishtha_compiled.py",
+        "theorum/86_nirukta_dhatupatha_nama_theorem.md",
+        "theorum/87_tripadi_nishtha_compiled_theorem.md"
       ]
     },
     "8.2.66": {
@@ -2729,12 +2769,16 @@
       "text_devanagari": "झलां जश् झशि",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "hand_coded",
+      "theorems": [
+        "T87"
+      ],
       "cited_in": [
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/shaiva_sources_nativized.py",
-        "theorum/86_nirukta_dhatupatha_nama_theorem.md"
+        "proof_lab/tripadi_nishtha_compiled.py",
+        "theorum/86_nirukta_dhatupatha_nama_theorem.md",
+        "theorum/87_tripadi_nishtha_compiled_theorem.md"
       ]
     },
     "8.4.54": {

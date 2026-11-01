@@ -899,6 +899,22 @@ proof_lab/test_nirukta_dhatupatha_nama.py
 proof_lab/NIRUKTA_DHATUPATHA_NAMA_EXPECTED.sha256
 ```
 
+## Theorem 87 Tripādī niṣṭhā compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | 8.2.30, 8.2.40, 8.2.42, 8.2.44, 8.4.53 applied in sūtra order under 8.2.1 to the pinned teaching forms pac, labh, tud, lū + kta → pakta, labdha, tunna, lūna; reverse order leaves labhdha (8.2.1 load-bearing); theorum/63's ladder derives all 88 sup forms |
+| Status | `PASS_TRIPADI_NISHTHA_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `8b8f597b42a56b26a643e5359c3ca6dad036bcc100ee1305dfa62de0324426c9` |
+| Boundary | one five-rule, four-input instance of 8.2.1; lvādi beyond lū and 8.2.30 at pada end not claimed; aniṭ declared |
+
+```text
+theorum/87_tripadi_nishtha_compiled_theorem.md
+proof_lab/tripadi_nishtha_compiled.py
+proof_lab/test_tripadi_nishtha_compiled.py
+proof_lab/TRIPADI_NISHTHA_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
