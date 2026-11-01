@@ -7,6 +7,8 @@ has also returned to the same retained state. Shiva's dance, Spanda and
 Pratyabhijna suggest questions about activity, identity and recognition;
 [SOURCES.md](SOURCES.md) records their actual textual contexts separately from
 the mathematical construction.
+Short original passages, transliteration and working glosses are in
+[SANSKRIT_PASSAGES.md](SANSKRIT_PASSAGES.md).
 
 The declared loop acts on Smriti by `m -> H m + b`. Its lasting translation is
 the class of `b` in `M / im(I-H)`, rather than the raw increment `b`.

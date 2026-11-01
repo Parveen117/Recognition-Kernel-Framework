@@ -4,6 +4,10 @@ Author: Monty. Sources consulted 1 November 2026.
 Repository base: `eb23a6dbb7cce61fd08d28253d3cb276916aeaa4`.
 Local dependency hashes are in [SOURCE_PINS.json](SOURCE_PINS.json).
 
+[SANSKRIT_PASSAGES.md](SANSKRIT_PASSAGES.md) supplies short Devanagari passages,
+IAST, exact passage identifiers and our working glosses. Source attribution
+does not assert that the modern affine construction occurs in these texts.
+
 ## Textual questions
 
 The Tamil Nataraja image tradition and the nondual Kashmir Shaiva texts
