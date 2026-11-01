@@ -1,0 +1,287 @@
+{
+  "author": "Monty",
+  "status": "HAND_REVIEWED_RULE_RECORDS_NOT_RAW_TEXT_COMPILATION",
+  "domain": "Supplied teaching units with explicit identity, category and conventional nasality; a bounded review interpreter, not a Sanskrit generator.",
+  "rules": [
+    {
+      "id": "1.3.2",
+      "selector": "nasal_vowels",
+      "effect": "designate",
+      "requires": {
+        "upadesha": true
+      },
+      "sanskrit": "उपदेशेऽजनुनासिक इत्",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13002",
+          "anchor": "योऽनुनासिकः स इत्संज्ञो"
+        }
+      ]
+    },
+    {
+      "id": "1.3.3",
+      "selector": "final_consonant",
+      "effect": "designate",
+      "requires": {
+        "upadesha": true
+      },
+      "sanskrit": "हलन्त्यम्",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13003",
+          "anchor": "यदन्त्यं हल्"
+        }
+      ]
+    },
+    {
+      "id": "1.3.4",
+      "selector": "final_consonant",
+      "effect": "inhibit",
+      "requires": {
+        "upadesha": true,
+        "vibhakti": true
+      },
+      "blocks": "1.3.3",
+      "symbols": [
+        "t",
+        "th",
+        "d",
+        "dh",
+        "n",
+        "s",
+        "m"
+      ],
+      "except_identities": [
+        "at:5.3.12",
+        "at:3.4.106"
+      ],
+      "sanskrit": "न विभक्तौ तुस्माः",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13004",
+          "anchor": "विभक्तौ वर्तमानानां"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13004",
+          "anchor": "इत्यत्र प्रतिषेधो न भवति"
+        }
+      ]
+    },
+    {
+      "id": "1.3.5",
+      "selector": "initial_sequences",
+      "effect": "designate",
+      "requires": {
+        "upadesha": true
+      },
+      "sequences": [
+        [
+          "ñ",
+          "i"
+        ],
+        [
+          "ṭ",
+          "u"
+        ],
+        [
+          "ḍ",
+          "u"
+        ]
+      ],
+      "compound_marker": true,
+      "sanskrit": "आदिर्ञिटुडवः",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13005",
+          "anchor": "ञि टु डु"
+        }
+      ]
+    },
+    {
+      "id": "1.3.6",
+      "selector": "initial_symbols",
+      "effect": "designate",
+      "requires": {
+        "upadesha": true,
+        "affix": true
+      },
+      "symbols": [
+        "ṣ"
+      ],
+      "sanskrit": "षः प्रत्ययस्य",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13006",
+          "anchor": "प्रत्ययस्यादिरित्संज्ञो"
+        }
+      ]
+    },
+    {
+      "id": "1.3.7",
+      "selector": "initial_symbols",
+      "effect": "designate",
+      "requires": {
+        "upadesha": true,
+        "affix": true
+      },
+      "symbols": [
+        "c",
+        "ch",
+        "j",
+        "jh",
+        "ñ",
+        "ṭ",
+        "ṭh",
+        "ḍ",
+        "ḍh",
+        "ṇ"
+      ],
+      "sanskrit": "चुटू",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "चवर्गटवर्गौ"
+        }
+      ]
+    },
+    {
+      "id": "1.3.8",
+      "selector": "initial_symbols",
+      "effect": "designate",
+      "requires": {
+        "upadesha": true,
+        "affix": true,
+        "taddhita": false
+      },
+      "symbols": [
+        "l",
+        "ś",
+        "k",
+        "kh",
+        "g",
+        "gh",
+        "ṅ"
+      ],
+      "sanskrit": "लशक्वतद्धिते",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13008",
+          "anchor": "तद्धितवर्जितस्य"
+        }
+      ]
+    }
+  ],
+  "supplements": [
+    {
+      "id": "VARTTIKA-ir-samudaya",
+      "selector": "final_sequences",
+      "effect": "designate",
+      "requires": {
+        "upadesha": true,
+        "category": "root"
+      },
+      "sequences": [
+        [
+          "i",
+          "r"
+        ]
+      ],
+      "first_must_be_nasal": true,
+      "compound_marker": true,
+      "supersedes_component_designations": [
+        "1.3.2",
+        "1.3.3"
+      ],
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "71058",
+          "anchor": "इरितां समुदायस्येत्संज्ञा"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "71058",
+          "anchor": "इतीदित्त्वं नास्ति"
+        }
+      ],
+      "domain_note": "The nasal-i+r teaching pattern in this witness. This is an attributed supplementary reading, not an eighth sūtra in 1.3.2–8."
+    }
+  ],
+  "exceptions": [
+    {
+      "id": "KASIKA-1.3.7-named",
+      "blocks": "1.3.7",
+      "requires": {
+        "affix": true
+      },
+      "identities": [
+        "cuñcup:5.2.26",
+        "caṇap:5.2.26",
+        "ṭīṭañ:5.2.31"
+      ],
+      "symbols": [
+        "c",
+        "ṭ"
+      ],
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "विधेरनित्यत्वज्ञापनार्थम्"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "चुञ्चुप्चणपौ"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "टीटञ्नाटज्भ्रटचः"
+        }
+      ]
+    },
+    {
+      "id": "TATTVABODHINI-3.4.77-lakara",
+      "blocks": "1.3.8",
+      "requires": {
+        "category": "lakara"
+      },
+      "symbols": [
+        "l"
+      ],
+      "evidence": [
+        {
+          "path": "sutraani/tattvabodhini.txt",
+          "key": "34077",
+          "anchor": "लस्येत्संज्ञा तु न भवति"
+        }
+      ]
+    }
+  ],
+  "projection": {
+    "id": "1.3.9",
+    "sanskrit": "तस्य लोपः",
+    "rescan_after_lopa": false,
+    "retain": [
+      "original teaching form",
+      "sound identities",
+      "nasality and accent",
+      "affix identity",
+      "marker-rule evidence"
+    ]
+  },
+  "open": [
+    "No exhaustive claim about all commentarial exceptions or teaching conventions.",
+    "No root normalization, affix substitution, pada/settva inference, or full word derivation.",
+    "Rule selectors are authored semantic records, not an automatic Sanskrit interpretation."
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "author": "Monty",
+  "status": "CONDITIONAL_PAIRWISE_EVIDENCE_NOT_A_GLOBAL_LADDER",
+  "edges": [
+    {
+      "winner": "6.1.97",
+      "loser": "6.1.101",
+      "relation": "apavada",
+      "requires": {
+        "a_before_guna": true,
+        "apadanta": true
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61097",
+          "anchor": "दीर्घस्य [[६.१.१०१]] अपवादः"
+        }
+      ]
+    },
+    {
+      "winner": "6.1.97",
+      "loser": "6.1.88",
+      "relation": "apavada",
+      "requires": {
+        "a_before_guna": true,
+        "apadanta": true
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61097",
+          "anchor": "पचे,यज इत्यत्र"
+        }
+      ]
+    },
+    {
+      "winner": "6.1.109",
+      "loser": "6.1.78",
+      "relation": "apavada",
+      "requires": {
+        "en_before_short_a": true,
+        "padanta": true
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61109",
+          "anchor": "अयवादेशयोरयमपवादः"
+        }
+      ]
+    },
+    {
+      "winner": "3.1.77",
+      "loser": "7.3.86",
+      "relation": "nitya_source_example",
+      "requires": {
+        "root": "tud",
+        "sarvadhatuka": true,
+        "sa_vikarana_pending": true
+      },
+      "evidence": [
+        {
+          "path": "paribhashendushekhar/data.txt",
+          "key": "42",
+          "anchor": "तुदति",
+          "field": "text"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31077",
+          "anchor": "शप्रत्ययो भवति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "12004",
+          "anchor": "सार्वधातुकं यदपित्"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11005",
+          "anchor": "लघूपधगुणस्याप्यत्र प्रतिषेधः"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "73086",
+          "anchor": "लघूपधस्य च"
+        }
+      ],
+      "interpretation": "The guṇa rule number is identified from the light-upadhā premise; the priority example itself is directly stated in the later paribhāṣā text."
+    }
+  ],
+  "metarule_review": [
+    {
+      "id": "42",
+      "rule": "nitya over later",
+      "not_sufficient": "Rule number alone.",
+      "evidence": [
+        {
+          "path": "paribhashendushekhar/data.txt",
+          "key": "42",
+          "anchor": "परान्नित्यं बलवत्",
+          "field": "paribhasha"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "rule": "nitya needs identity-sensitive comparison",
+      "not_sufficient": "Same operation name applicable before and after the rival, if its target word changes.",
+      "evidence": [
+        {
+          "path": "paribhashendushekhar/data.txt",
+          "key": "43",
+          "anchor": "शब्दान्तरस्य प्राप्नुवन्विधिरनित्यो भवति",
+          "field": "paribhasha"
+        },
+        {
+          "path": "paribhashendushekhar/data.txt",
+          "key": "43",
+          "anchor": "न्यविशत",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "rule": "different licensing rule can make a procedure anitya",
+      "not_sufficient": "Same output letters under a different lakṣaṇa.",
+      "evidence": [
+        {
+          "path": "paribhashendushekhar/data.txt",
+          "key": "45",
+          "anchor": "लक्षणान्तरेण",
+          "field": "paribhasha"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "rule": "accent difference matters to nitya",
+      "not_sufficient": "Same segmental string while the accent differs.",
+      "evidence": [
+        {
+          "path": "paribhashendushekhar/data.txt",
+          "key": "49",
+          "anchor": "स्वरभिन्नस्य",
+          "field": "paribhasha"
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "rule": "bahiraṅga is asiddha relative to antaraṅga",
+      "not_sufficient": "Count of premises, or semantic versus phonological label alone.",
+      "evidence": [
+        {
+          "path": "paribhashendushekhar/data.txt",
+          "key": "50",
+          "anchor": "असिद्धं बहिरङ्गमन्तरङ्गे",
+          "field": "paribhasha"
+        },
+        {
+          "path": "paribhashendushekhar/data.txt",
+          "key": "50",
+          "anchor": "तेनार्थनिमित्तकस्य न बहिरङ्गत्वम्",
+          "field": "text"
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "rule": "vowel adjacency qualification",
+      "not_sufficient": "Universal internal-before-external ordering.",
+      "evidence": [
+        {
+          "path": "paribhashendushekhar/data.txt",
+          "key": "51",
+          "anchor": "नाजानन्तर्ये",
+          "field": "paribhasha"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "rule": "apavāda can outrank antaraṅga",
+      "not_sufficient": "Always prefer the apparently inner operation.",
+      "evidence": [
+        {
+          "path": "paribhashendushekhar/data.txt",
+          "key": "57",
+          "anchor": "अन्तरङ्गादप्यवादो बलवान्",
+          "field": "paribhasha"
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "rule": "establish the particular bādhaka relation",
+      "not_sufficient": "Domain containment on a small sample.",
+      "evidence": [
+        {
+          "path": "paribhashendushekhar/data.txt",
+          "key": "58",
+          "anchor": "येन नाप्राप्ते",
+          "field": "paribhasha"
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "rule": "utsarga can sometimes apply in an exception domain",
+      "not_sufficient": "Unqualified apavāda supremacy.",
+      "evidence": [
+        {
+          "path": "paribhashendushekhar/data.txt",
+          "key": "59",
+          "anchor": "क्वचिदपवादविषये",
+          "field": "paribhasha"
+        }
+      ]
+    }
+  ],
+  "attribution": "Paribhāṣenduśekhara is a later grammatical work of Nāgeśa; numbering here belongs to the pinned publisher witness, not to Aṣṭādhyāyī.",
+  "open": [
+    "Generic nitya and antaraṅga inference from derivation events",
+    "Choice among interpretive traditions",
+    "Complete visibility and optional-rule calculus",
+    "Independent resolution of the T66 edhe path"
+  ]
+}

@@ -8,6 +8,12 @@ T78–T80 research and records the linguistic obligations that their finite
 carriers leave open. PG1 is a source and specification packet, not a claim that
 the entire Aṣṭādhyāyī has been interpreted, proved complete or implemented.
 
+**Follow-up verification:** [PG2](verification/README.md) audits the pending
+scope, priority, sthānivad, it-marker, lexical and soundness-reference layers.
+It records source contradictions and bounded positive/negative checks while
+leaving full grammar completeness open. Its results do not change PG1's
+historical source pins or the frozen T58–T80 packets.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

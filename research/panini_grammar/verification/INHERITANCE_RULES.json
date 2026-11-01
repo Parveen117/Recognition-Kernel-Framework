@@ -1,0 +1,93 @@
+{
+  "author": "Monty",
+  "status": "QUERY_RELATIVE_REVIEW_CONTRACTS",
+  "rules": [
+    {
+      "id": "1.1.56",
+      "sanskrit": "स्थानिवदादेशोऽनल्विधौ",
+      "requires": {
+        "is_substitute": true,
+        "phoneme_dependent": false
+      },
+      "result": "ORIGINAL_VIEW_1.1.56",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11056",
+          "anchor": "स्थान्यलाश्रयाणि कार्याणि वर्जयित्वा"
+        }
+      ]
+    },
+    {
+      "id": "1.1.57",
+      "sanskrit": "अचः परस्मिन् पूर्वविधौ",
+      "requires": {
+        "is_substitute": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true
+      },
+      "result": "ORIGINAL_VIEW_1.1.57",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11057",
+          "anchor": "अजादेशः परनिमित्तकः पूर्वविधौ"
+        }
+      ]
+    },
+    {
+      "id": "1.1.58",
+      "sanskrit": "न पदान्तद्विर्वचनवरेयलोपस्वरसवर्णानुस्वारदीर्घजश्चर्विधिषु",
+      "blocks": "1.1.57",
+      "always_blocked_queries": [
+        "padanta",
+        "dvirvacana",
+        "savarna",
+        "anusvara",
+        "jas",
+        "car"
+      ],
+      "deletion_only_queries": [
+        "y_lopa",
+        "accent",
+        "lengthening"
+      ],
+      "blocked_replacement_context": "varac_context",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11058",
+          "anchor": "वरे योऽजादेशः"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11058",
+          "anchor": "स्वरदीर्घयलोपेषु लोपाजादेशो न स्थानिवद् भवति"
+        }
+      ]
+    },
+    {
+      "id": "1.1.59",
+      "sanskrit": "द्विर्वचनेऽचि",
+      "requires": {
+        "is_substitute": true,
+        "original_vowel": true,
+        "query": "dvirvacana",
+        "reduplication_kind": "morphological",
+        "cause_vowel_initial": true,
+        "cause_is_reduplication_trigger": true
+      },
+      "result": "ORIGINAL_VIEW_1.1.59",
+      "lifetime": "this reduplication query only",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11059",
+          "anchor": "द्विर्वचननिमित्तेऽचि"
+        }
+      ]
+    }
+  ],
+  "warning": "Input facts and query classes are supplied by a human reading. This is not an automatic classifier of grammatical operations; it does not mutate the actual substitution history."
+}

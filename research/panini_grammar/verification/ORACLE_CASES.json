@@ -1,0 +1,2325 @@
+{
+  "author": "Monty",
+  "status": "SOURCE_ATTESTED_LOCAL_REFERENCE_CASES_NOT_A_VALID_SANSKRIT_ORACLE",
+  "independence": "Expectations are hand reviewed against pinned commentaries and lexical records, not copied from existing proof_lab ORACLE tables.",
+  "markers": [
+    {
+      "id": "edh-nasal-vowel",
+      "kind": "marker",
+      "input": {
+        "text": "एधँ",
+        "identity": "edh-nasal-vowel",
+        "category": "root",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "edh",
+        "markers": [
+          [
+            "a",
+            "1.3.2"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13002",
+          "anchor": "एध"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "gam-original-final",
+      "kind": "marker",
+      "input": {
+        "text": "गमॢँ",
+        "identity": "gam-original-final",
+        "category": "root",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "gam",
+        "markers": [
+          [
+            "ḷ",
+            "1.3.2"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1011137",
+          "anchor": "गमॢँ",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13003",
+          "anchor": "समुदायस्य यदन्त्यं हल्"
+        }
+      ],
+      "notes": "The m was not original-final; deleting it after lopa would be a second, invalid scan of a changed upadeśa."
+    },
+    {
+      "id": "bhu-no-marker",
+      "kind": "marker",
+      "input": {
+        "text": "भू",
+        "identity": "bhu-no-marker",
+        "category": "root",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "bhū",
+        "markers": []
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010001",
+          "anchor": "भू",
+          "field": "aupadeshik"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "inventory-an",
+      "kind": "marker",
+      "input": {
+        "text": "अइउण्",
+        "identity": "inventory-an",
+        "category": "phoneme_inventory",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "aiu",
+        "markers": [
+          [
+            "ṇ",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13003",
+          "anchor": "अइउण्"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "inventory-rk",
+      "kind": "marker",
+      "input": {
+        "text": "ऋऌक्",
+        "identity": "inventory-rk",
+        "category": "phoneme_inventory",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "ṛḷ",
+        "markers": [
+          [
+            "k",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13003",
+          "anchor": "ऋऌक्"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ordinary-agnicit",
+      "kind": "marker",
+      "input": {
+        "text": "अग्निचित्",
+        "identity": "ordinary-agnicit",
+        "category": "ordinary",
+        "upadesha": false,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "agnicit",
+        "markers": []
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13003",
+          "anchor": "अग्निचित्"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ordinary-nasal-a",
+      "kind": "marker",
+      "input": {
+        "text": "आँ",
+        "identity": "ordinary-nasal-a",
+        "category": "ordinary",
+        "upadesha": false,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "ā",
+        "markers": []
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13002",
+          "anchor": "आँ"
+        }
+      ],
+      "notes": "Nasal feature remains on the original and visible token; the label string omits diacritics other than vowel quality."
+    },
+    {
+      "id": "tip-final-p",
+      "kind": "marker",
+      "input": {
+        "text": "तिप्",
+        "identity": "tip-final-p",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": true,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "ti",
+        "markers": [
+          [
+            "p",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34078",
+          "anchor": "तिप्"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "jas-final-s-protected",
+      "kind": "marker",
+      "input": {
+        "text": "जस्",
+        "identity": "jas-final-s-protected",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": true,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "as",
+        "markers": [
+          [
+            "j",
+            "1.3.7"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13004",
+          "anchor": "जस्"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "tas-final-s-protected",
+      "kind": "marker",
+      "input": {
+        "text": "तस्",
+        "identity": "tas-final-s-protected",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": true,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "tas",
+        "markers": []
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13004",
+          "anchor": "तस्"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "tam-final-m-protected",
+      "kind": "marker",
+      "input": {
+        "text": "ताम्",
+        "identity": "tam-final-m-protected",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": true,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "tām",
+        "markers": []
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13004",
+          "anchor": "अपचताम्"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "yat-not-vibhakti",
+      "kind": "marker",
+      "input": {
+        "text": "यत्",
+        "identity": "yat-not-vibhakti",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "ya",
+        "markers": [
+          [
+            "t",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13004",
+          "anchor": "अचो यत्"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "yus-not-vibhakti",
+      "kind": "marker",
+      "input": {
+        "text": "युस्",
+        "identity": "yus-not-vibhakti",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": true
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "yu",
+        "markers": [
+          [
+            "s",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13004",
+          "anchor": "ऊर्णाया युस्"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "snam-not-vibhakti",
+      "kind": "marker",
+      "input": {
+        "text": "श्नम्",
+        "identity": "snam-not-vibhakti",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "na",
+        "markers": [
+          [
+            "ś",
+            "1.3.8"
+          ],
+          [
+            "m",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13004",
+          "anchor": "रुधादिभ्यः श्नम्"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "at-kim-exception",
+      "kind": "marker",
+      "input": {
+        "text": "अत्",
+        "identity": "at:5.3.12",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": true,
+        "taddhita": true
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "a",
+        "markers": [
+          [
+            "t",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13004",
+          "anchor": "किमोऽत्"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "at-it-exception",
+      "kind": "marker",
+      "input": {
+        "text": "अत्",
+        "identity": "at:3.4.106",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": true,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "a",
+        "markers": [
+          [
+            "t",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13004",
+          "anchor": "इटोऽत्"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "du-krn",
+      "kind": "marker",
+      "input": {
+        "text": "डुकृञ्",
+        "identity": "du-krn",
+        "category": "root",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "kṛ",
+        "markers": [
+          [
+            "ḍ",
+            "1.3.5"
+          ],
+          [
+            "u",
+            "1.3.5"
+          ],
+          [
+            "ñ",
+            "1.3.3"
+          ]
+        ],
+        "marker_units": [
+          "ḍu",
+          "ñ"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13005",
+          "anchor": "डुकृञ्"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ni-indhi",
+      "kind": "marker",
+      "input": {
+        "text": "ञिइन्धीँ",
+        "identity": "ni-indhi",
+        "category": "root",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "indh",
+        "markers": [
+          [
+            "ñ",
+            "1.3.5"
+          ],
+          [
+            "i",
+            "1.3.5"
+          ],
+          [
+            "ī",
+            "1.3.2"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13005",
+          "anchor": "ञिइन्धी"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1070011",
+          "anchor": "ञिइन्धीँ",
+          "field": "aupadeshik"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "du-labhas",
+      "kind": "marker",
+      "input": {
+        "text": "डुलभँष्",
+        "identity": "du-labhas",
+        "category": "root",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "labh",
+        "markers": [
+          [
+            "ḍ",
+            "1.3.5"
+          ],
+          [
+            "u",
+            "1.3.5"
+          ],
+          [
+            "a",
+            "1.3.2"
+          ],
+          [
+            "ṣ",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1011130",
+          "anchor": "डुलभँष्",
+          "field": "aupadeshik"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "tu-vepr",
+      "kind": "marker",
+      "input": {
+        "text": "टुवेपृँ",
+        "identity": "tu-vepr",
+        "category": "root",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "vep",
+        "markers": [
+          [
+            "ṭ",
+            "1.3.5"
+          ],
+          [
+            "u",
+            "1.3.5"
+          ],
+          [
+            "ṛ",
+            "1.3.2"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13005",
+          "anchor": "टुवेपृ"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010425",
+          "anchor": "टुवेपृँ",
+          "field": "aupadeshik"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "interior-du",
+      "kind": "marker",
+      "input": {
+        "text": "कण्डूयति",
+        "identity": "interior-du",
+        "category": "ordinary",
+        "upadesha": false,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "kaṇḍūyati",
+        "markers": []
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13005",
+          "anchor": "कण्डूयति"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "svun",
+      "kind": "marker",
+      "input": {
+        "text": "ष्वुन्",
+        "identity": "svun",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "vu",
+        "markers": [
+          [
+            "ṣ",
+            "1.3.6"
+          ],
+          [
+            "n",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13006",
+          "anchor": "ष्वुन्"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "soda-not-affix",
+      "kind": "marker",
+      "input": {
+        "text": "षोडः",
+        "identity": "soda-not-affix",
+        "category": "ordinary",
+        "upadesha": false,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "ṣoḍaḥ",
+        "markers": []
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13006",
+          "anchor": "षोडः"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "tisac-interior-s",
+      "kind": "marker",
+      "input": {
+        "text": "टिषच्",
+        "identity": "tisac-interior-s",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "iṣa",
+        "markers": [
+          [
+            "ṭ",
+            "1.3.7"
+          ],
+          [
+            "c",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13006",
+          "anchor": "अविमह्योष्टिषच्"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "cuncup-exception",
+      "kind": "marker",
+      "input": {
+        "text": "चुञ्चुप्",
+        "identity": "cuñcup:5.2.26",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": true
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "cuñcu",
+        "markers": [
+          [
+            "p",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "चुञ्चुप्चणपौ"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "canap-exception",
+      "kind": "marker",
+      "input": {
+        "text": "चणप्",
+        "identity": "caṇap:5.2.26",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": true
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "caṇa",
+        "markers": [
+          [
+            "p",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "चुञ्चुप्चणपौ"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "titan-exception",
+      "kind": "marker",
+      "input": {
+        "text": "टीटञ्",
+        "identity": "ṭīṭañ:5.2.31",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": true
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "ṭīṭa",
+        "markers": [
+          [
+            "ñ",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "टीटञ्नाटज्भ्रटचः"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "athac-interior-retroflex",
+      "kind": "marker",
+      "input": {
+        "text": "अठच्",
+        "identity": "athac-interior-retroflex",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": true
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "aṭha",
+        "markers": [
+          [
+            "c",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "कर्मणि घटोऽठच्"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "lyut",
+      "kind": "marker",
+      "input": {
+        "text": "ल्युट्",
+        "identity": "lyut",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "yu",
+        "markers": [
+          [
+            "l",
+            "1.3.8"
+          ],
+          [
+            "ṭ",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13008",
+          "anchor": "ल्युट् च"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sap",
+      "kind": "marker",
+      "input": {
+        "text": "शप्",
+        "identity": "sap",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "a",
+        "markers": [
+          [
+            "ś",
+            "1.3.8"
+          ],
+          [
+            "p",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13008",
+          "anchor": "कर्तरि शप्"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "kta",
+      "kind": "marker",
+      "input": {
+        "text": "क्त",
+        "identity": "kta",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "ta",
+        "markers": [
+          [
+            "k",
+            "1.3.8"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13008",
+          "anchor": "क्तक्तवतू"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "khac",
+      "kind": "marker",
+      "input": {
+        "text": "खच्",
+        "identity": "khac",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "a",
+        "markers": [
+          [
+            "kh",
+            "1.3.8"
+          ],
+          [
+            "c",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13008",
+          "anchor": "वदः खच्"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "gsnu",
+      "kind": "marker",
+      "input": {
+        "text": "ग्स्नु",
+        "identity": "gsnu",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "snu",
+        "markers": [
+          [
+            "g",
+            "1.3.8"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13008",
+          "anchor": "ग्स्नुः"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ghurac",
+      "kind": "marker",
+      "input": {
+        "text": "घुरच्",
+        "identity": "ghurac",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "ura",
+        "markers": [
+          [
+            "gh",
+            "1.3.8"
+          ],
+          [
+            "c",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13008",
+          "anchor": "घुरच्"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "lac-taddhita",
+      "kind": "marker",
+      "input": {
+        "text": "लच्",
+        "identity": "lac-taddhita",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": true
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "la",
+        "markers": [
+          [
+            "c",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13008",
+          "anchor": "चूडालः"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sa-taddhita",
+      "kind": "marker",
+      "input": {
+        "text": "श",
+        "identity": "sa-taddhita",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": true
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "śa",
+        "markers": []
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13008",
+          "anchor": "लोमशः"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "kan-taddhita",
+      "kind": "marker",
+      "input": {
+        "text": "कन्",
+        "identity": "kan-taddhita",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": true
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "ka",
+        "markers": [
+          [
+            "n",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13008",
+          "anchor": "कर्णिका"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "lat-conventional-nasality",
+      "kind": "marker",
+      "input": {
+        "text": "लँट्",
+        "identity": "lat-conventional-nasality",
+        "category": "lakara",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "l",
+        "markers": [
+          [
+            "a",
+            "1.3.2"
+          ],
+          [
+            "ṭ",
+            "1.3.3"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "32123",
+          "anchor": "अटाविताविति"
+        },
+        {
+          "path": "sutraani/tattvabodhini.txt",
+          "key": "34077",
+          "anchor": "लस्येत्संज्ञा तु न भवति"
+        }
+      ],
+      "notes": "Supplied nasal annotation reflects Bālamanoramā; printed laṭ alone is insufficient. Technical l survives by the Tattvabodhinī reading."
+    },
+    {
+      "id": "lat-print-alone",
+      "kind": "marker",
+      "input": {
+        "text": "लट्",
+        "identity": "lat-print-alone",
+        "category": "lakara",
+        "upadesha": true,
+        "nasality_complete": false,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "UNRESOLVED"
+      },
+      "evidence": [
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "32123",
+          "anchor": "अटाविताविति"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "da-initial-retroflex",
+      "kind": "marker",
+      "input": {
+        "text": "ड",
+        "identity": "da-initial-retroflex",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "a",
+        "markers": [
+          [
+            "ḍ",
+            "1.3.7"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "सप्तम्यां जनेर्डः"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "jhi-affix-identity",
+      "kind": "marker",
+      "input": {
+        "text": "झि",
+        "identity": "jhi-affix-identity",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": true,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "i",
+        "markers": [
+          [
+            "jh",
+            "1.3.7"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "झस्यान्तादेशं"
+        }
+      ],
+      "notes": "i is only the it-projection, not the realized ending. Original jhi identity is required for 7.1.3."
+    },
+    {
+      "id": "nya-taddhita",
+      "kind": "marker",
+      "input": {
+        "text": "ञ्य",
+        "identity": "nya-taddhita",
+        "category": "affix",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": true
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "ya",
+        "markers": [
+          [
+            "ñ",
+            "1.3.7"
+          ]
+        ]
+      },
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13007",
+          "anchor": "शण्डिकादिभ्यो ञ्यः"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "bhid-simple-idit",
+      "kind": "marker",
+      "input": {
+        "text": "भिदिँ",
+        "identity": "bhid-simple-idit",
+        "category": "root",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "bhid",
+        "markers": [
+          [
+            "i",
+            "1.3.2"
+          ]
+        ],
+        "marker_units": [
+          "i"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1010067",
+          "anchor": "भिदिँ",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "71058",
+          "anchor": "इदितो धातोर्नुमागमो भवति"
+        }
+      ],
+      "notes": "Marker-only bhid is not the final root headword bhind; the i marker conditions num under 7.1.58."
+    },
+    {
+      "id": "bhid-compound-irit",
+      "kind": "marker",
+      "input": {
+        "text": "भिदिँर्",
+        "identity": "bhid-compound-irit",
+        "category": "root",
+        "upadesha": true,
+        "nasality_complete": true,
+        "vibhakti": false,
+        "taddhita": false
+      },
+      "expected": {
+        "status": "LOCAL_DESIGNATION",
+        "it_only_projection": "bhid",
+        "markers": [
+          [
+            "i",
+            "VARTTIKA-ir-samudaya"
+          ],
+          [
+            "r",
+            "VARTTIKA-ir-samudaya"
+          ]
+        ],
+        "marker_units": [
+          "ir"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "dhatu/data.txt",
+          "key": "1070002",
+          "anchor": "भिदिँर्",
+          "field": "aupadeshik"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "71058",
+          "anchor": "इरितां समुदायस्येत्संज्ञा"
+        }
+      ],
+      "notes": "The same marker-only string bhid has a different marker unit. ir is not standalone i-it; do not infer num from substring membership."
+    }
+  ],
+  "inheritance": [
+    {
+      "id": "as-bhu-root-status",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": false,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "deletion",
+        "query": "dhatu_status",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "none"
+      },
+      "expected": "ORIGINAL_VIEW_1.1.56",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11056",
+          "anchor": "धात्वङ्गकृत्तद्धिताव्ययसुप्तिङ्पदादेशाः"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "ktva-lyap-krt-status",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": false,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "deletion",
+        "query": "krt_status",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "none"
+      },
+      "expected": "ORIGINAL_VIEW_1.1.56",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11056",
+          "anchor": "कृदादेशः"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "patayati-block-vrddhi",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "deletion",
+        "query": "other",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "none"
+      },
+      "expected": "ORIGINAL_VIEW_1.1.57",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11057",
+          "anchor": "पटयति"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "avadhit-block-vrddhi",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "deletion",
+        "query": "other",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "none"
+      },
+      "expected": "ORIGINAL_VIEW_1.1.57",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11057",
+          "anchor": "अवधीत्"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "prasna-consonant-excluded",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": false,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "substitution",
+        "query": "other",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "none"
+      },
+      "expected": "NOT_LICENSED_BY_REVIEWED_RULES",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11057",
+          "anchor": "प्रश्नः"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "yuvajani-not-following-caused",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": false,
+        "acts_on_preceding": true,
+        "replacement": "substitution",
+        "query": "other",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "none"
+      },
+      "expected": "NOT_LICENSED_BY_REVIEWED_RULES",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11057",
+          "anchor": "युवजानिः"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "he-gau-not-prior-operation",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": false,
+        "replacement": "substitution",
+        "query": "other",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "none"
+      },
+      "expected": "NOT_LICENSED_BY_REVIEWED_RULES",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11057",
+          "anchor": "हे गौः"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "kau-stah-padanta",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "deletion",
+        "query": "padanta",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "none"
+      },
+      "expected": "SUBSTITUTE_VIEW_1.1.58",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11058",
+          "anchor": "कौ स्तः"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "dadhyatra-phonetic-doubling",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "deletion",
+        "query": "dvirvacana",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "phonetic"
+      },
+      "expected": "SUBSTITUTE_VIEW_1.1.58",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11058",
+          "anchor": "दद्ध्यत्र"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "kanduti-y-lopa",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "deletion",
+        "query": "y_lopa",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "none"
+      },
+      "expected": "SUBSTITUTE_VIEW_1.1.58",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11058",
+          "anchor": "कण्डूतिः"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "cikirsaka-accent",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "deletion",
+        "query": "accent",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "none"
+      },
+      "expected": "SUBSTITUTE_VIEW_1.1.58",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11058",
+          "anchor": "चि॒कीर्ष॑कः"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "sindhi-savarna",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "deletion",
+        "query": "savarna",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "none"
+      },
+      "expected": "SUBSTITUTE_VIEW_1.1.58",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11058",
+          "anchor": "शिण्ढि"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "simsanti-anusvara",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "deletion",
+        "query": "anusvara",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "none"
+      },
+      "expected": "SUBSTITUTE_VIEW_1.1.58",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11058",
+          "anchor": "शिंषन्ति"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "pratidivna-lengthening",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "deletion",
+        "query": "lengthening",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "none"
+      },
+      "expected": "SUBSTITUTE_VIEW_1.1.58",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11058",
+          "anchor": "प्रतिदीव्ना"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "sagdhi-jas",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "deletion",
+        "query": "jas",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "none"
+      },
+      "expected": "SUBSTITUTE_VIEW_1.1.58",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11058",
+          "anchor": "सग्धि"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "jaksatuh-car",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "deletion",
+        "query": "car",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "none"
+      },
+      "expected": "SUBSTITUTE_VIEW_1.1.58",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11058",
+          "anchor": "जक्षतुः"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "yayavara-varac-context",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "deletion",
+        "query": "other",
+        "varac_context": true,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "none"
+      },
+      "expected": "SUBSTITUTE_VIEW_1.1.58",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11058",
+          "anchor": "यायावरः"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "bahukhatvaka-substitution-accent",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "substitution",
+        "query": "accent",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "none"
+      },
+      "expected": "ORIGINAL_VIEW_1.1.57",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11058",
+          "anchor": "ब॒हु॒ख॒ट्वकः॑"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "kiryo-substitution-lengthening",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "substitution",
+        "query": "lengthening",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "none"
+      },
+      "expected": "ORIGINAL_VIEW_1.1.57",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11058",
+          "anchor": "किर्योः"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "vayvo-substitution-y-lopa",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "substitution",
+        "query": "y_lopa",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "none"
+      },
+      "expected": "ORIGINAL_VIEW_1.1.57",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11058",
+          "anchor": "वाय्वोरिति"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "papatu-reduplication",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "deletion",
+        "query": "dvirvacana",
+        "varac_context": false,
+        "cause_vowel_initial": true,
+        "cause_is_reduplication_trigger": true,
+        "reduplication_kind": "morphological"
+      },
+      "expected": "ORIGINAL_VIEW_1.1.59",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11059",
+          "anchor": "पपतुः"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "cakratu-reduplication",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "deletion",
+        "query": "dvirvacana",
+        "varac_context": false,
+        "cause_vowel_initial": true,
+        "cause_is_reduplication_trigger": true,
+        "reduplication_kind": "morphological"
+      },
+      "expected": "ORIGINAL_VIEW_1.1.59",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11059",
+          "anchor": "चक्रतुः"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "ninaya-reduplication",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "deletion",
+        "query": "dvirvacana",
+        "varac_context": false,
+        "cause_vowel_initial": true,
+        "cause_is_reduplication_trigger": true,
+        "reduplication_kind": "morphological"
+      },
+      "expected": "ORIGINAL_VIEW_1.1.59",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11059",
+          "anchor": "निनय"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "dudyusati-not-reduplication-trigger",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "deletion",
+        "query": "dvirvacana",
+        "varac_context": false,
+        "cause_vowel_initial": true,
+        "cause_is_reduplication_trigger": false,
+        "reduplication_kind": "morphological"
+      },
+      "expected": "SUBSTITUTE_VIEW_1.1.58",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11059",
+          "anchor": "दुद्यूषति"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "jeghriyate-not-vowel-trigger",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": true,
+        "replacement": "substitution",
+        "query": "dvirvacana",
+        "varac_context": false,
+        "cause_vowel_initial": false,
+        "cause_is_reduplication_trigger": true,
+        "reduplication_kind": "morphological"
+      },
+      "expected": "SUBSTITUTE_VIEW_1.1.58",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11059",
+          "anchor": "जेघ्रीयते"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    },
+    {
+      "id": "jagle-no-permanent-restoration",
+      "kind": "inheritance",
+      "input": {
+        "is_substitute": true,
+        "phoneme_dependent": true,
+        "original_vowel": true,
+        "following_cause": true,
+        "acts_on_preceding": false,
+        "replacement": "substitution",
+        "query": "pronunciation_after_reduplication",
+        "varac_context": false,
+        "cause_vowel_initial": true,
+        "cause_is_reduplication_trigger": true,
+        "reduplication_kind": "none"
+      },
+      "expected": "NOT_LICENSED_BY_REVIEWED_RULES",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11059",
+          "anchor": "जग्ले"
+        }
+      ],
+      "level": "local query, not complete derivation"
+    }
+  ],
+  "priority": [
+    {
+      "id": "pacanti-earlier-apavada",
+      "input": {
+        "candidates": [
+          "6.1.97",
+          "6.1.101"
+        ],
+        "facts": {
+          "a_before_guna": true,
+          "apadanta": true
+        }
+      },
+      "expected": "6.1.97",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61097",
+          "anchor": "दीर्घस्य [[६.१.१०१]] अपवादः"
+        }
+      ]
+    },
+    {
+      "id": "pace-guna-e",
+      "input": {
+        "candidates": [
+          "6.1.97",
+          "6.1.88"
+        ],
+        "facts": {
+          "a_before_guna": true,
+          "apadanta": true
+        }
+      },
+      "expected": "6.1.97",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61097",
+          "anchor": "पचे,यज इत्यत्र"
+        }
+      ]
+    },
+    {
+      "id": "dandagram-apadanta-required",
+      "input": {
+        "candidates": [
+          "6.1.97",
+          "6.1.101"
+        ],
+        "facts": {
+          "a_before_guna": true,
+          "apadanta": false
+        }
+      },
+      "expected": "UNRESOLVED",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61097",
+          "anchor": "दण्डाग्रम्"
+        }
+      ],
+      "note": "No witnessed exception edge here; this verifier does not generate the 6.1.101 derivation."
+    },
+    {
+      "id": "agne-atra-boundary",
+      "input": {
+        "candidates": [
+          "6.1.109",
+          "6.1.78"
+        ],
+        "facts": {
+          "en_before_short_a": true,
+          "padanta": true
+        }
+      },
+      "expected": "6.1.109",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61109",
+          "anchor": "अयवादेशयोरयमपवादः"
+        }
+      ]
+    },
+    {
+      "id": "cayana-not-padanta",
+      "input": {
+        "candidates": [
+          "6.1.109",
+          "6.1.78"
+        ],
+        "facts": {
+          "en_before_short_a": true,
+          "padanta": false
+        }
+      },
+      "expected": "UNRESOLVED",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61109",
+          "anchor": "चयनम्"
+        }
+      ]
+    },
+    {
+      "id": "unknown-strength-no-numeric-fallback",
+      "input": {
+        "candidates": [
+          "3.4.79",
+          "6.1.87"
+        ],
+        "facts": {}
+      },
+      "expected": "UNRESOLVED",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "14002",
+          "anchor": "तुल्यबलविरोधो विप्रतिषेधः"
+        }
+      ],
+      "note": "T66 reports an edhe path issue; no independent full antaraṅga derivation is claimed here."
+    },
+    {
+      "id": "unknown-boundary-no-default",
+      "input": {
+        "candidates": [
+          "6.1.109",
+          "6.1.78"
+        ],
+        "facts": {
+          "en_before_short_a": true
+        }
+      },
+      "expected": "UNRESOLVED",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61109",
+          "anchor": "पदान्तादिति किम्"
+        }
+      ]
+    },
+    {
+      "id": "tudati-nitya-before-later-guna",
+      "input": {
+        "candidates": [
+          "3.1.77",
+          "7.3.86"
+        ],
+        "facts": {
+          "root": "tud",
+          "sarvadhatuka": true,
+          "sa_vikarana_pending": true
+        }
+      },
+      "expected": "3.1.77",
+      "evidence": [
+        {
+          "path": "paribhashendushekhar/data.txt",
+          "key": "42",
+          "anchor": "तुदति",
+          "field": "text"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31077",
+          "anchor": "शपोऽपवादः"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "73086",
+          "anchor": "लघूपधस्य च"
+        }
+      ],
+      "note": "A witnessed nitya ordering for this source example, not a general classifier. śa from 3.1.77, not śap; the competing light-upadhā guṇa is 7.3.86."
+    },
+    {
+      "id": "nitya-witness-does-not-generalize-by-number",
+      "input": {
+        "candidates": [
+          "3.1.77",
+          "7.3.86"
+        ],
+        "facts": {
+          "root": "unreviewed",
+          "sarvadhatuka": true,
+          "sa_vikarana_pending": true
+        }
+      },
+      "expected": "UNRESOLVED",
+      "evidence": [
+        {
+          "path": "paribhashendushekhar/data.txt",
+          "key": "43",
+          "anchor": "शब्दान्तरस्य",
+          "field": "paribhasha"
+        }
+      ]
+    }
+  ]
+}
