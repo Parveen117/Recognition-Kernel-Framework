@@ -46,7 +46,7 @@ Each capsule states its own proof status and import boundary. This sequence shou
 
 ## 3. Numbered theorem chain
 
-The advanced numbered surface now runs through Theorem 78:
+The advanced numbered surface now runs through Theorem 79:
 
 1. **41–48 — abstract and validation capstones.** Cut-graded generators, the lambda-Jacobian tower, bilateral jet flow, Madhava-Smriti closure, directed arithmetic/analytic enclosures, finite first-visible seam quotients, source-bound proof-carrying validation, and the EMK algebra instantiation.
 2. **49–57 — seam-gap and completion chain.** Local-to-uniform and native seam gaps, odd-channel exchange, native resolvent and cut-square factorization, infinite-face recognition completion, the Generalized Euler/EMK dock, canvas-operator nativization, and loop-residue/first-visible-jet binding.
@@ -54,6 +54,7 @@ The advanced numbered surface now runs through Theorem 78:
 4. **74–76 — Yang–Mills-oriented upper-bound tools.** Lopa-ledger contraction, selective release of the content tail, and the seam-flow meter. These are exact or outward-certified declared instances; the chain-gap operator upper bound labelled `E4D-C` remains open.
 5. **77 — typed semantic Paninian normal form.** Deterministic, fail-closed normalization for an explicitly supplied finite semantic presentation; unrestricted language parsing and truth certification are not claimed.
 6. **78 — Śaiva sources cited and nativized.** The fourteen Māheśvara sūtras as an interval code on the recognized/memory carrier (with the repeated *ha* proved necessary), the Spanda turn group on the EMK odd generator, and the Pratyabhijñā recognition defect on the MR-03 memory lift; every statement starts from a quoted primary text, interpretive content is cited only.
+7. **79 — Śaiva sources II.** The varga/manner grid of the Māheśvara code (udit columns are never intervals, manner rows are pratyāhāras), the exact count 2304 of set-preserving within-sūtra orders with forced leaders, and the crystal theorem on the MR-03 memory lift (recognition-blind ⟺ symmetric ⟺ coboundary); the Aghora ladder and śiva/śivatara comparatives are refused.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -92,6 +93,7 @@ Each subtree's README, status file, source audit, and certificate controls its e
 -> 74-76 Yang-Mills-oriented tools (E4D-C open)
 -> 77 explicit finite semantic normal form
 -> 78 quoted Śaiva sources nativized (interval code, turn group, recognition defect)
+-> 79 Śaiva sources II (varga/manner grid, code freedom, crystal theorem)
 ```
 
 Use the parallel morphic, topology, singularity, stratified, or thermodynamic line only when its carrier is actually part of the target. A new adapter must declare its state carrier, cut, generator, observer, target, source provenance, measurable residual, arithmetic carrier, outward error ledger, and every seam/asymptotic hypothesis it consumes.
@@ -99,7 +101,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-78                           PRESENT
+NUMBERED THEOREM FILES 01-79                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT

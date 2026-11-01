@@ -764,6 +764,23 @@ proof_lab/test_shaiva_sources_nativized.py
 proof_lab/SHAIVA_SOURCES_NATIVIZED_EXPECTED.sha256
 ```
 
+
+## Theorem 79 Śaiva sources II: varga grid and crystal theorem packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Varga/manner 5×5 grid of the Māheśvara code (udit columns never intervals, manner rows pratyāhāras), exact count 2304 of set-preserving within-sūtra orders with forced leaders, and the crystal theorem (recognition-blind ⟺ symmetric ⟺ coboundary) on the MR-03 memory lift |
+| Status | `PASS_SHAIVA_SOURCES_VARGA_CRYSTAL_CANDIDATE` |
+| Canonical result SHA-256 | `4440bf2f0e4f941ba8c7a1e83d7ed63a558c756efddd360a69fe5ef3ce3b37ca` |
+| Boundary | presiding mothers of the vargas and the breath reading of Vijñāna-bhairava 26 cited only; the Aghora ladder (TA 10.45) and śiva/śivatara (TS 4.5.8) refused |
+
+```text
+theorum/79_shaiva_sources_varga_grid_crystal_theorem.md
+proof_lab/shaiva_sources_varga_crystal.py
+proof_lab/test_shaiva_sources_varga_crystal.py
+proof_lab/SHAIVA_SOURCES_VARGA_CRYSTAL_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
