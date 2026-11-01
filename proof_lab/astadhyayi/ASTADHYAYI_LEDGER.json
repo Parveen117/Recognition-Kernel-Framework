@@ -10,12 +10,12 @@
   ],
   "counts": {
     "compiled": 10,
-    "meta": 122,
-    "hand_coded": 204,
-    "cited": 66,
+    "meta": 138,
+    "hand_coded": 218,
+    "cited": 68,
     "misnumbered": 2,
-    "entries": 404,
-    "text_missing": 43,
+    "entries": 436,
+    "text_missing": 46,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
     "iast_mismatch_with_pinned_edition": 0
@@ -101,6 +101,7 @@
         "T110"
       ],
       "cited_in": [
+        "proof_lab/asirlin_parasmaipada_compiled.py",
         "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/lit_parasmaipada_compiled.py",
         "proof_lab/paninian_seam_calculus.py",
@@ -112,6 +113,7 @@
         "theorum/106_san_desiderative_compiled_theorem.md",
         "theorum/108_yan_intensive_compiled_theorem.md",
         "theorum/110_passive_yak_compiled_theorem.md",
+        "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md"
       ]
     },
@@ -287,6 +289,34 @@
         "theorum/58_paninian_seam_calculus_theorem.md"
       ]
     },
+    "1.1.38": {
+      "text": "taddhitaś cāsarvavibhaktiḥ",
+      "text_devanagari": "तद्धितश्चासर्वविभक्तिः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T113"
+      ],
+      "cited_in": [
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md"
+      ]
+    },
+    "1.1.41": {
+      "text": "avyayībhāvaś ca",
+      "text_devanagari": "अव्ययीभावश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T114"
+      ],
+      "cited_in": [
+        "proof_lab/avyayibhava_dvigu_compiled.py",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+      ]
+    },
     "1.1.42": {
       "text": "śi sarvanāmasthānam",
       "text_devanagari": "शि सर्वनामस्थानम्",
@@ -372,6 +402,7 @@
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lot_lin_parasmaipada_compiled.py",
         "proof_lab/lun_parasmaipada_compiled.py",
@@ -544,6 +575,8 @@
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
         "proof_lab/paninian_instruction_format.py",
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
         "theorum/88_ap_stem_sup_compiled_theorem.md"
       ]
@@ -631,6 +664,7 @@
         "T97"
       ],
       "cited_in": [
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/paninian_samjna_sound_layer.py",
         "theorum/81_paninian_samjna_sound_layer_theorem.md",
@@ -837,11 +871,14 @@
       "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
-        "T104"
+        "T104",
+        "T114"
       ],
       "cited_in": [
+        "proof_lab/avyayibhava_dvigu_compiled.py",
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
       ]
     },
     "1.2.45": {
@@ -998,6 +1035,7 @@
         "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/paninian_seam_calculus.py",
         "proof_lab/passive_yak_compiled.py",
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
         "proof_lab/san_desiderative_compiled.py",
         "proof_lab/shaiva_sources_nativized.py",
         "proof_lab/stri_pratyaya_compiled.py",
@@ -1010,6 +1048,7 @@
         "theorum/108_yan_intensive_compiled_theorem.md",
         "theorum/110_passive_yak_compiled_theorem.md",
         "theorum/111_stri_pratyaya_compiled_theorem.md",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
@@ -1075,6 +1114,8 @@
         "T82"
       ],
       "cited_in": [
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/krt_ghan_lyut_nvul_satr_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/nic_causative_compiled.py",
@@ -1101,14 +1142,17 @@
         "T82"
       ],
       "cited_in": [
+        "proof_lab/asirlin_parasmaipada_compiled.py",
         "proof_lab/krt_ghan_lyut_nvul_satr_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
         "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "proof_lab/ting_lat_parasmaipada.py",
         "theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md",
@@ -1216,11 +1260,17 @@
         "T99"
       ],
       "cited_in": [
+        "proof_lab/asirlin_atmanepada_compiled.py",
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/lat_atmanepada.py",
         "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/yan_intensive_compiled.py",
         "theorum/108_yan_intensive_compiled_theorem.md",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
+        "theorum/116_atmanepada_lun_compiled_theorem.md",
+        "theorum/117_asirlin_atmanepada_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md",
@@ -1656,6 +1706,48 @@
         "theorum/104_samasa_compiled_theorem.md"
       ]
     },
+    "2.1.5": {
+      "text": "avyayībhāvaḥ",
+      "text_devanagari": "अव्ययीभावः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T114"
+      ],
+      "cited_in": [
+        "proof_lab/avyayibhava_dvigu_compiled.py",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+      ]
+    },
+    "2.1.6": {
+      "text": "avyayaṁ vibhaktisamīpasamṛddhivyṛddhyarthābhāvātyayāsampratiśabdaprādurbhāvapaścādyathānupūrvyayaugapadyasādṛśyasampattisākalyāntavacaneṣu",
+      "text_devanagari": "अव्ययं विभक्तिसमीपसमृद्धिव्यृद्ध्यर्थाभावात्ययासम्प्रतिशब्दप्रादुर्भावपश्चाद्यथानुपूर्व्ययौगपद्यसादृश्यसम्पत्तिसाकल्यान्तवचनेषु",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T114"
+      ],
+      "cited_in": [
+        "proof_lab/avyayibhava_dvigu_compiled.py",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+      ]
+    },
+    "2.1.7": {
+      "text": "yathā 'sādṛśye",
+      "text_devanagari": "यथासादृश्ये",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T114"
+      ],
+      "cited_in": [
+        "proof_lab/avyayibhava_dvigu_compiled.py",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+      ]
+    },
     "2.1.22": {
       "text": "tatpuruṣaḥ",
       "text_devanagari": "तत्पुरुषः",
@@ -1726,6 +1818,34 @@
         "theorum/104_samasa_compiled_theorem.md"
       ]
     },
+    "2.1.51": {
+      "text": "taddhitārthottarapadasamāhāre ca",
+      "text_devanagari": "तद्धितार्थोत्तरपदसमाहारे च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T114"
+      ],
+      "cited_in": [
+        "proof_lab/avyayibhava_dvigu_compiled.py",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+      ]
+    },
+    "2.1.52": {
+      "text": "saṁkhyāpūrvo dviguḥ",
+      "text_devanagari": "संख्यापूर्वो द्विगुः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T114"
+      ],
+      "cited_in": [
+        "proof_lab/avyayibhava_dvigu_compiled.py",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+      ]
+    },
     "2.2.8": {
       "text": "ṣaṣṭhī",
       "text_devanagari": "षष्ठी",
@@ -1792,8 +1912,10 @@
         "T104"
       ],
       "cited_in": [
+        "proof_lab/avyayibhava_dvigu_compiled.py",
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
       ]
     },
     "2.2.34": {
@@ -1922,6 +2044,48 @@
         "theorum/68_karaka_vibhakti_carrier_theorem.md"
       ]
     },
+    "2.4.1": {
+      "text": "dvigur ekavacanam",
+      "text_devanagari": "द्विगुरेकवचनम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T114"
+      ],
+      "cited_in": [
+        "proof_lab/avyayibhava_dvigu_compiled.py",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+      ]
+    },
+    "2.4.17": {
+      "text": "sa napuṁsakam",
+      "text_devanagari": "स नपुंसकम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T114"
+      ],
+      "cited_in": [
+        "proof_lab/avyayibhava_dvigu_compiled.py",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+      ]
+    },
+    "2.4.18": {
+      "text": "avyayībhāvaś ca",
+      "text_devanagari": "अव्ययीभावश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T114"
+      ],
+      "cited_in": [
+        "proof_lab/avyayibhava_dvigu_compiled.py",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+      ]
+    },
     "2.4.26": {
       "text": "paraval liṅgaṁ dvandvatatpuruṣayoḥ",
       "text_devanagari": "परवल्लिङ्गं द्वन्द्वतत्पुरुषयोः",
@@ -1955,11 +2119,17 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T104"
+        "T104",
+        "T113",
+        "T114"
       ],
       "cited_in": [
+        "proof_lab/avyayibhava_dvigu_compiled.py",
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
       ]
     },
     "2.4.74": {
@@ -2001,6 +2171,46 @@
         "theorum/101_lun_parasmaipada_compiled_theorem.md"
       ]
     },
+    "2.4.82": {
+      "text": "avyayād āpsupaḥ",
+      "text_devanagari": "अव्ययादाप्सुपः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T114"
+      ],
+      "cited_in": [
+        "proof_lab/avyayibhava_dvigu_compiled.py",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+      ]
+    },
+    "2.4.83": {
+      "text": "nāvyayībhāvād ato 'm tv apañcamyāḥ",
+      "text_devanagari": "नाव्ययीभावादतोऽम्त्वपञ्चम्याः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T114"
+      ],
+      "cited_in": [
+        "proof_lab/avyayibhava_dvigu_compiled.py",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+      ]
+    },
+    "2.4.84": {
+      "text": "",
+      "text_devanagari": "तृतीयासप्तम्योर्बहुलम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/avyayibhava_dvigu_compiled.py",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+      ]
+    },
     "2.4.85": {
       "text": "luṭaḥ prathamasya ḍāraurasaḥ",
       "text_devanagari": "लुटः प्रथमस्य डारौरसः",
@@ -2008,10 +2218,13 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T97"
+        "T97",
+        "T112"
       ],
       "cited_in": [
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -2124,10 +2337,13 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T97"
+        "T97",
+        "T112"
       ],
       "cited_in": [
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -2149,11 +2365,14 @@
       "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
-        "T101"
+        "T101",
+        "T116"
       ],
       "cited_in": [
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/lun_parasmaipada_compiled.py",
-        "theorum/101_lun_parasmaipada_compiled_theorem.md"
+        "theorum/101_lun_parasmaipada_compiled_theorem.md",
+        "theorum/116_atmanepada_lun_compiled_theorem.md"
       ]
     },
     "3.1.44": {
@@ -2163,11 +2382,14 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T101"
+        "T101",
+        "T116"
       ],
       "cited_in": [
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/lun_parasmaipada_compiled.py",
-        "theorum/101_lun_parasmaipada_compiled_theorem.md"
+        "theorum/101_lun_parasmaipada_compiled_theorem.md",
+        "theorum/116_atmanepada_lun_compiled_theorem.md"
       ]
     },
     "3.1.45": {
@@ -2178,7 +2400,9 @@
       "level": "cited",
       "theorems": [],
       "cited_in": [
-        "proof_lab/shaiva_sources_nativized.py"
+        "proof_lab/atmanepada_lun_compiled.py",
+        "proof_lab/shaiva_sources_nativized.py",
+        "theorum/116_atmanepada_lun_compiled_theorem.md"
       ]
     },
     "3.1.55": {
@@ -2193,6 +2417,18 @@
       "cited_in": [
         "proof_lab/lun_parasmaipada_compiled.py",
         "theorum/101_lun_parasmaipada_compiled_theorem.md"
+      ]
+    },
+    "3.1.60": {
+      "text": "",
+      "text_devanagari": "चिण् ते पदः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/atmanepada_lun_compiled.py",
+        "theorum/116_atmanepada_lun_compiled_theorem.md"
       ]
     },
     "3.1.67": {
@@ -2520,6 +2756,23 @@
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md"
       ]
     },
+    "3.3.173": {
+      "text": "āśiṣi liṅloṭau",
+      "text_devanagari": "आशिषि लिङ्लोटौ",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T115",
+        "T117"
+      ],
+      "cited_in": [
+        "proof_lab/asirlin_atmanepada_compiled.py",
+        "proof_lab/asirlin_parasmaipada_compiled.py",
+        "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
+        "theorum/117_asirlin_atmanepada_compiled_theorem.md"
+      ]
+    },
     "3.4.6": {
       "text": "",
       "text_devanagari": "छन्दसि लुङ्लङ्लिटः",
@@ -2603,7 +2856,10 @@
         "T99"
       ],
       "cited_in": [
+        "proof_lab/asirlin_atmanepada_compiled.py",
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lat_atmanepada.py",
         "proof_lab/nic_causative_compiled.py",
@@ -2615,6 +2871,9 @@
         "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/108_yan_intensive_compiled_theorem.md",
         "theorum/110_passive_yak_compiled_theorem.md",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
+        "theorum/116_atmanepada_lun_compiled_theorem.md",
+        "theorum/117_asirlin_atmanepada_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
@@ -2633,10 +2892,12 @@
         "T99",
         "T106",
         "T108",
-        "T110"
+        "T110",
+        "T112"
       ],
       "cited_in": [
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
         "proof_lab/lat_atmanepada.py",
         "proof_lab/passive_yak_compiled.py",
         "proof_lab/san_desiderative_compiled.py",
@@ -2644,6 +2905,7 @@
         "theorum/106_san_desiderative_compiled_theorem.md",
         "theorum/108_yan_intensive_compiled_theorem.md",
         "theorum/110_passive_yak_compiled_theorem.md",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
@@ -2656,11 +2918,14 @@
       "level": "hand_coded",
       "theorems": [
         "T66",
-        "T99"
+        "T99",
+        "T112"
       ],
       "cited_in": [
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
         "proof_lab/lat_atmanepada.py",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
@@ -2842,10 +3107,12 @@
         "T101"
       ],
       "cited_in": [
+        "proof_lab/asirlin_parasmaipada_compiled.py",
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lot_lin_parasmaipada_compiled.py",
         "proof_lab/lun_parasmaipada_compiled.py",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
+        "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md"
       ]
@@ -2859,13 +3126,16 @@
       "theorems": [
         "T95",
         "T96",
-        "T101"
+        "T101",
+        "T115"
       ],
       "cited_in": [
+        "proof_lab/asirlin_parasmaipada_compiled.py",
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lot_lin_parasmaipada_compiled.py",
         "proof_lab/lun_parasmaipada_compiled.py",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
+        "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md"
       ]
@@ -2879,13 +3149,16 @@
       "theorems": [
         "T95",
         "T96",
-        "T101"
+        "T101",
+        "T115"
       ],
       "cited_in": [
+        "proof_lab/asirlin_parasmaipada_compiled.py",
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lot_lin_parasmaipada_compiled.py",
         "proof_lab/lun_parasmaipada_compiled.py",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
+        "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md"
       ]
@@ -2898,11 +3171,16 @@
       "typography_note": "pinned text prints the saṁhitā form liṅassīyuṭ (visarga → s before s); the sūtra is cited in its pada form liṅaḥ sīyuṭ",
       "level": "hand_coded",
       "theorems": [
-        "T99"
+        "T99",
+        "T117"
       ],
       "cited_in": [
+        "proof_lab/asirlin_atmanepada_compiled.py",
+        "proof_lab/asirlin_parasmaipada_compiled.py",
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
         "proof_lab/lot_lin_parasmaipada_compiled.py",
+        "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
+        "theorum/117_asirlin_atmanepada_compiled_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
     },
@@ -2913,22 +3191,31 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T96"
+        "T96",
+        "T115"
       ],
       "cited_in": [
+        "proof_lab/asirlin_parasmaipada_compiled.py",
         "proof_lab/lot_lin_parasmaipada_compiled.py",
+        "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md"
       ]
     },
     "3.4.104": {
-      "text": "",
+      "text": "kid āśiṣi",
       "text_devanagari": "किदाशिषि",
       "in_pinned_edition": true,
-      "iast_matches_pinned_edition": null,
-      "level": "cited",
-      "theorems": [],
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T115"
+      ],
       "cited_in": [
-        "proof_lab/lot_lin_parasmaipada_compiled.py"
+        "proof_lab/asirlin_atmanepada_compiled.py",
+        "proof_lab/asirlin_parasmaipada_compiled.py",
+        "proof_lab/lot_lin_parasmaipada_compiled.py",
+        "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
+        "theorum/117_asirlin_atmanepada_compiled_theorem.md"
       ]
     },
     "3.4.105": {
@@ -2938,10 +3225,13 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T99"
+        "T99",
+        "T117"
       ],
       "cited_in": [
+        "proof_lab/asirlin_atmanepada_compiled.py",
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
+        "theorum/117_asirlin_atmanepada_compiled_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
     },
@@ -2952,10 +3242,13 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T99"
+        "T99",
+        "T117"
       ],
       "cited_in": [
+        "proof_lab/asirlin_atmanepada_compiled.py",
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
+        "theorum/117_asirlin_atmanepada_compiled_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
     },
@@ -2966,10 +3259,13 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T99"
+        "T99",
+        "T117"
       ],
       "cited_in": [
+        "proof_lab/asirlin_atmanepada_compiled.py",
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
+        "theorum/117_asirlin_atmanepada_compiled_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
     },
@@ -2980,10 +3276,13 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T96"
+        "T96",
+        "T115"
       ],
       "cited_in": [
+        "proof_lab/asirlin_parasmaipada_compiled.py",
         "proof_lab/lot_lin_parasmaipada_compiled.py",
+        "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -3040,26 +3339,39 @@
       "theorems": [
         "T89",
         "T97",
-        "T106"
+        "T106",
+        "T112",
+        "T116"
       ],
       "cited_in": [
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/san_desiderative_compiled.py",
         "theorum/106_san_desiderative_compiled_theorem.md",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
+        "theorum/116_atmanepada_lun_compiled_theorem.md",
         "theorum/89_ngi_stem_sup_compiled_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
     "3.4.116": {
-      "text": "",
+      "text": "liṅāśiṣi",
       "text_devanagari": "लिङाशिषि",
       "in_pinned_edition": true,
-      "iast_matches_pinned_edition": null,
-      "level": "cited",
-      "theorems": [],
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T115",
+        "T117"
+      ],
       "cited_in": [
-        "proof_lab/lot_lin_parasmaipada_compiled.py"
+        "proof_lab/asirlin_atmanepada_compiled.py",
+        "proof_lab/asirlin_parasmaipada_compiled.py",
+        "proof_lab/lot_lin_parasmaipada_compiled.py",
+        "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
+        "theorum/117_asirlin_atmanepada_compiled_theorem.md"
       ]
     },
     "4.1.1": {
@@ -3202,6 +3514,20 @@
       "cited_in": [
         "proof_lab/stri_pratyaya_compiled.py",
         "theorum/111_stri_pratyaya_compiled_theorem.md"
+      ]
+    },
+    "4.1.21": {
+      "text": "dvigoḥ",
+      "text_devanagari": "द्विगोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T114"
+      ],
+      "cited_in": [
+        "proof_lab/avyayibhava_dvigu_compiled.py",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
       ]
     },
     "4.1.41": {
@@ -3352,6 +3678,154 @@
         "theorum/109_ugit_at_stem_sup_compiled_theorem.md"
       ]
     },
+    "5.3.1": {
+      "text": "prāg diśo vibhaktiḥ",
+      "text_devanagari": "प्राग्दिशो विभक्तिः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T113"
+      ],
+      "cited_in": [
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md"
+      ]
+    },
+    "5.3.2": {
+      "text": "kiṁsarvanāmabahubhyo 'dvyādibhyaḥ",
+      "text_devanagari": "किंसर्वनामबहुभ्योऽद्व्यादिभ्यः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T113"
+      ],
+      "cited_in": [
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md"
+      ]
+    },
+    "5.3.3": {
+      "text": "idama iś",
+      "text_devanagari": "इदम इश्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T113"
+      ],
+      "cited_in": [
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md"
+      ]
+    },
+    "5.3.4": {
+      "text": "",
+      "text_devanagari": "एतेतौ रथोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md"
+      ]
+    },
+    "5.3.5": {
+      "text": "etado 'n",
+      "text_devanagari": "एतदोऽन्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T113"
+      ],
+      "cited_in": [
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md"
+      ]
+    },
+    "5.3.7": {
+      "text": "pañcamyās tasil",
+      "text_devanagari": "पञ्चम्यास्तसिल्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T113"
+      ],
+      "cited_in": [
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md"
+      ]
+    },
+    "5.3.10": {
+      "text": "saptamyās tral",
+      "text_devanagari": "सप्तम्यास्त्रल्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T113"
+      ],
+      "cited_in": [
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md"
+      ]
+    },
+    "5.3.11": {
+      "text": "idamo haḥ",
+      "text_devanagari": "इदमो हः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T113"
+      ],
+      "cited_in": [
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md"
+      ]
+    },
+    "5.3.15": {
+      "text": "sarvaikānyakiṁyattadaḥ kāle dā",
+      "text_devanagari": "सर्वैकान्यकिंयत्तदः काले दा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T113"
+      ],
+      "cited_in": [
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md"
+      ]
+    },
+    "5.3.24": {
+      "text": "",
+      "text_devanagari": "इदमस्थमुः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md"
+      ]
+    },
+    "5.3.27": {
+      "text": "",
+      "text_devanagari": "दिक्शब्देभ्यः सप्तमीपञ्चमीप्रथमाभ्यो दिग्देशकालेष्वस्तातिः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md"
+      ]
+    },
     "5.4.91": {
       "text": "rājāhaḥsakhibhyaṣ ṭac",
       "text_devanagari": "राजाहस्सखिभ्यष्टच्",
@@ -3365,6 +3839,20 @@
       "cited_in": [
         "proof_lab/samasa_compiled.py",
         "theorum/104_samasa_compiled_theorem.md"
+      ]
+    },
+    "5.4.92": {
+      "text": "gor ataddhitaluki",
+      "text_devanagari": "गोरतद्धितलुकि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T114"
+      ],
+      "cited_in": [
+        "proof_lab/avyayibhava_dvigu_compiled.py",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
       ]
     },
     "6.1.1": {
@@ -3501,13 +3989,19 @@
       "theorems": [
         "T66",
         "T96",
-        "T99"
+        "T99",
+        "T112",
+        "T117"
       ],
       "cited_in": [
+        "proof_lab/asirlin_atmanepada_compiled.py",
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
         "proof_lab/lat_atmanepada.py",
         "proof_lab/lot_lin_parasmaipada_compiled.py",
         "proof_lab/shaiva_sources_nativized.py",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
+        "theorum/117_asirlin_atmanepada_compiled_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md",
@@ -3530,6 +4024,7 @@
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
+        "proof_lab/avyayibhava_dvigu_compiled.py",
         "proof_lab/hal_stem_sup_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/r_stem_sup_compiled.py",
@@ -3689,10 +4184,12 @@
         "T102",
         "T103",
         "T105",
-        "T107"
+        "T107",
+        "T114"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
+        "proof_lab/avyayibhava_dvigu_compiled.py",
         "proof_lab/ghi_stem_sup_compiled.py",
         "proof_lab/krt_ghan_lyut_nvul_satr_compiled.py",
         "proof_lab/krt_ktva_tumun_tavya_compiled.py",
@@ -3715,6 +4212,7 @@
         "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
         "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
@@ -3814,6 +4312,7 @@
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/ghi_stem_sup_compiled.py",
         "proof_lab/napumsaka_sup_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
@@ -3839,10 +4338,13 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T99"
+        "T99",
+        "T116"
       ],
       "cited_in": [
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
+        "proof_lab/atmanepada_lun_compiled.py",
+        "theorum/116_atmanepada_lun_compiled_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
     },
@@ -3874,10 +4376,13 @@
         "T99",
         "T105",
         "T107",
-        "T110"
+        "T110",
+        "T112",
+        "T113"
       ],
       "cited_in": [
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
         "proof_lab/krt_ghan_lyut_nvul_satr_compiled.py",
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lat_atmanepada.py",
@@ -3887,6 +4392,7 @@
         "proof_lab/napumsaka_sup_compiled.py",
         "proof_lab/nic_causative_compiled.py",
         "proof_lab/passive_yak_compiled.py",
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
         "proof_lab/san_desiderative_compiled.py",
         "proof_lab/sarvanama_ap_sup_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
@@ -3900,6 +4406,8 @@
         "theorum/108_yan_intensive_compiled_theorem.md",
         "theorum/109_ugit_at_stem_sup_compiled_theorem.md",
         "theorum/110_passive_yak_compiled_theorem.md",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
@@ -4039,6 +4547,7 @@
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
+        "proof_lab/avyayibhava_dvigu_compiled.py",
         "proof_lab/ghi_stem_sup_compiled.py",
         "proof_lab/napumsaka_sup_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
@@ -4348,6 +4857,20 @@
         "theorum/66_lat_atmanepada_theorem.md"
       ]
     },
+    "6.4.67": {
+      "text": "er liṅi",
+      "text_devanagari": "एर्लिङि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T115"
+      ],
+      "cited_in": [
+        "proof_lab/asirlin_parasmaipada_compiled.py",
+        "theorum/115_asirlin_parasmaipada_compiled_theorem.md"
+      ]
+    },
     "6.4.71": {
       "text": "luṅlaṅlṛṅkṣv aḍ udāttaḥ",
       "text_devanagari": "लुङ्लङ्लृङ्क्ष्वडुदात्तः",
@@ -4357,14 +4880,17 @@
       "theorems": [
         "T95",
         "T99",
-        "T101"
+        "T101",
+        "T116"
       ],
       "cited_in": [
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lun_parasmaipada_compiled.py",
         "proof_lab/paninian_it_samjna_compiled.py",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
+        "theorum/116_atmanepada_lun_compiled_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
@@ -4376,13 +4902,16 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T99"
+        "T99",
+        "T116"
       ],
       "cited_in": [
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lun_parasmaipada_compiled.py",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
+        "theorum/116_atmanepada_lun_compiled_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
@@ -4526,12 +5055,15 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T97"
+        "T97",
+        "T112"
       ],
       "cited_in": [
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
         "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -4571,13 +5103,16 @@
       "level": "hand_coded",
       "theorems": [
         "T103",
-        "T111"
+        "T111",
+        "T114"
       ],
       "cited_in": [
+        "proof_lab/avyayibhava_dvigu_compiled.py",
         "proof_lab/stri_pratyaya_compiled.py",
         "proof_lab/taddhita_an_in_yan_compiled.py",
         "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
-        "theorum/111_stri_pratyaya_compiled_theorem.md"
+        "theorum/111_stri_pratyaya_compiled_theorem.md",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
       ]
     },
     "6.4.150": {
@@ -4635,10 +5170,14 @@
         "T99",
         "T101",
         "T105",
-        "T110"
+        "T110",
+        "T112",
+        "T116"
       ],
       "cited_in": [
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lat_atmanepada.py",
         "proof_lab/lot_lin_parasmaipada_compiled.py",
@@ -4651,6 +5190,8 @@
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
         "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/110_passive_yak_compiled_theorem.md",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
+        "theorum/116_atmanepada_lun_compiled_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md",
@@ -4666,10 +5207,13 @@
       "iast_matches_pinned_edition": null,
       "level": "hand_coded",
       "theorems": [
-        "T66"
+        "T66",
+        "T116"
       ],
       "cited_in": [
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/lat_atmanepada.py",
+        "theorum/116_atmanepada_lun_compiled_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md"
       ]
     },
@@ -4853,10 +5397,13 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T93"
+        "T93",
+        "T114"
       ],
       "cited_in": [
+        "proof_lab/avyayibhava_dvigu_compiled.py",
         "proof_lab/napumsaka_sup_compiled.py",
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
         "theorum/93_napumsaka_sup_compiled_theorem.md"
       ]
     },
@@ -5058,9 +5605,16 @@
         "T86",
         "T100",
         "T101",
-        "T106"
+        "T106",
+        "T112",
+        "T116",
+        "T117"
       ],
       "cited_in": [
+        "proof_lab/asirlin_atmanepada_compiled.py",
+        "proof_lab/asirlin_parasmaipada_compiled.py",
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/lun_parasmaipada_compiled.py",
@@ -5071,6 +5625,10 @@
         "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
         "theorum/106_san_desiderative_compiled_theorem.md",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
+        "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
+        "theorum/116_atmanepada_lun_compiled_theorem.md",
+        "theorum/117_asirlin_atmanepada_compiled_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
@@ -5114,9 +5672,15 @@
         "T97",
         "T100",
         "T102",
-        "T106"
+        "T106",
+        "T112",
+        "T116",
+        "T117"
       ],
       "cited_in": [
+        "proof_lab/asirlin_atmanepada_compiled.py",
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/lit_parasmaipada_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
@@ -5125,6 +5689,9 @@
         "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
         "theorum/106_san_desiderative_compiled_theorem.md",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
+        "theorum/116_atmanepada_lun_compiled_theorem.md",
+        "theorum/117_asirlin_atmanepada_compiled_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -5176,11 +5743,14 @@
       "level": "hand_coded",
       "theorems": [
         "T96",
-        "T99"
+        "T99",
+        "T115"
       ],
       "cited_in": [
+        "proof_lab/asirlin_parasmaipada_compiled.py",
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
         "proof_lab/lot_lin_parasmaipada_compiled.py",
+        "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
@@ -5207,11 +5777,14 @@
       "level": "hand_coded",
       "theorems": [
         "T66",
-        "T99"
+        "T99",
+        "T112"
       ],
       "cited_in": [
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
         "proof_lab/lat_atmanepada.py",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
@@ -5226,16 +5799,47 @@
         "T65",
         "T67",
         "T94",
-        "T98"
+        "T98",
+        "T113"
       ],
       "cited_in": [
         "proof_lab/pada_to_line_external_sandhi.py",
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
         "proof_lab/sarvanama_ap_sup_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/stem_classes_gayatri_coverage.py",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
         "theorum/94_sarvanama_sup_compiled_theorem.md",
         "theorum/98_sarvanama_ap_sup_compiled_theorem.md"
+      ]
+    },
+    "7.2.103": {
+      "text": "kimaḥ kaḥ",
+      "text_devanagari": "किमः कः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T113"
+      ],
+      "cited_in": [
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md"
+      ]
+    },
+    "7.2.104": {
+      "text": "ku tihoḥ",
+      "text_devanagari": "कु तिहोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T113"
+      ],
+      "cited_in": [
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md"
       ]
     },
     "7.2.106": {
@@ -5456,6 +6060,7 @@
         "T107"
       ],
       "cited_in": [
+        "proof_lab/asirlin_parasmaipada_compiled.py",
         "proof_lab/krt_ghan_lyut_nvul_satr_compiled.py",
         "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/lan_parasmaipada_compiled.py",
@@ -5528,10 +6133,12 @@
         "T97",
         "T99",
         "T101",
-        "T105"
+        "T105",
+        "T112"
       ],
       "cited_in": [
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lat_atmanepada.py",
         "proof_lab/lot_lin_parasmaipada_compiled.py",
@@ -5541,6 +6148,7 @@
         "proof_lab/ting_lat_parasmaipada.py",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
         "theorum/105_nic_causative_compiled_theorem.md",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md",
@@ -5835,8 +6443,10 @@
       "level": "cited",
       "theorems": [],
       "cited_in": [
+        "proof_lab/asirlin_parasmaipada_compiled.py",
         "proof_lab/passive_yak_compiled.py",
-        "theorum/110_passive_yak_compiled_theorem.md"
+        "theorum/110_passive_yak_compiled_theorem.md",
+        "theorum/115_asirlin_parasmaipada_compiled_theorem.md"
       ]
     },
     "7.4.49": {
@@ -5861,10 +6471,13 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T97"
+        "T97",
+        "T112"
       ],
       "cited_in": [
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -5875,11 +6488,28 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T97"
+        "T97",
+        "T112"
       ],
       "cited_in": [
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
+      ]
+    },
+    "7.4.52": {
+      "text": "ha eti",
+      "text_devanagari": "ह एति",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T112"
+      ],
+      "cited_in": [
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md"
       ]
     },
     "7.4.54": {
@@ -6258,10 +6888,14 @@
       "text_devanagari": "झलो झलि",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "hand_coded",
+      "theorems": [
+        "T116"
+      ],
       "cited_in": [
-        "proof_lab/shaiva_sources_nativized.py"
+        "proof_lab/atmanepada_lun_compiled.py",
+        "proof_lab/shaiva_sources_nativized.py",
+        "theorum/116_atmanepada_lun_compiled_theorem.md"
       ]
     },
     "8.2.30": {
@@ -6323,11 +6957,17 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T87"
+        "T87",
+        "T112",
+        "T116"
       ],
       "cited_in": [
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/tripadi_nishtha_compiled.py",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
+        "theorum/116_atmanepada_lun_compiled_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md",
         "theorum/87_tripadi_nishtha_compiled_theorem.md"
       ]
@@ -6387,11 +7027,18 @@
         "T98",
         "T99",
         "T101",
-        "T102"
+        "T102",
+        "T112",
+        "T113",
+        "T115",
+        "T116"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
+        "proof_lab/asirlin_parasmaipada_compiled.py",
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/ghi_stem_sup_compiled.py",
         "proof_lab/hal_stem_sup_compiled.py",
         "proof_lab/lan_parasmaipada_compiled.py",
@@ -6402,6 +7049,7 @@
         "proof_lab/napumsaka_sup_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/pada_to_line_external_sandhi.py",
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
         "proof_lab/r_stem_sup_compiled.py",
         "proof_lab/sarvanama_ap_sup_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
@@ -6411,6 +7059,10 @@
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
         "theorum/109_ugit_at_stem_sup_compiled_theorem.md",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md",
+        "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
+        "theorum/116_atmanepada_lun_compiled_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
@@ -6479,11 +7131,18 @@
         "T98",
         "T99",
         "T101",
-        "T102"
+        "T102",
+        "T112",
+        "T113",
+        "T115",
+        "T116"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
+        "proof_lab/asirlin_parasmaipada_compiled.py",
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/ghi_stem_sup_compiled.py",
         "proof_lab/hal_stem_sup_compiled.py",
         "proof_lab/lan_parasmaipada_compiled.py",
@@ -6494,6 +7153,7 @@
         "proof_lab/napumsaka_sup_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/pada_to_line_external_sandhi.py",
+        "proof_lab/pronominal_taddhita_adverbs_compiled.py",
         "proof_lab/r_stem_sup_compiled.py",
         "proof_lab/sarvanama_ap_sup_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
@@ -6504,6 +7164,10 @@
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
         "theorum/109_ugit_at_stem_sup_compiled_theorem.md",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
+        "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md",
+        "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
+        "theorum/116_atmanepada_lun_compiled_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
@@ -6615,9 +7279,15 @@
         "T94",
         "T97",
         "T101",
-        "T106"
+        "T106",
+        "T112",
+        "T116",
+        "T117"
       ],
       "cited_in": [
+        "proof_lab/asirlin_atmanepada_compiled.py",
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/ghi_stem_sup_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/lun_parasmaipada_compiled.py",
@@ -6629,6 +7299,9 @@
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
         "theorum/106_san_desiderative_compiled_theorem.md",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
+        "theorum/116_atmanepada_lun_compiled_theorem.md",
+        "theorum/117_asirlin_atmanepada_compiled_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/89_ngi_stem_sup_compiled_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md",
@@ -6752,11 +7425,17 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T101"
+        "T101",
+        "T116",
+        "T117"
       ],
       "cited_in": [
+        "proof_lab/asirlin_atmanepada_compiled.py",
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/lun_parasmaipada_compiled.py",
-        "theorum/101_lun_parasmaipada_compiled_theorem.md"
+        "theorum/101_lun_parasmaipada_compiled_theorem.md",
+        "theorum/116_atmanepada_lun_compiled_theorem.md",
+        "theorum/117_asirlin_atmanepada_compiled_theorem.md"
       ]
     },
     "8.4.45": {
@@ -6790,12 +7469,18 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T87"
+        "T87",
+        "T112",
+        "T116"
       ],
       "cited_in": [
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/shaiva_sources_nativized.py",
         "proof_lab/tripadi_nishtha_compiled.py",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
+        "theorum/116_atmanepada_lun_compiled_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md",
         "theorum/87_tripadi_nishtha_compiled_theorem.md"
       ]
@@ -6828,13 +7513,22 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T92"
+        "T92",
+        "T112",
+        "T116",
+        "T117"
       ],
       "cited_in": [
+        "proof_lab/asirlin_atmanepada_compiled.py",
+        "proof_lab/atmanepada_lrt_lut_compiled.py",
+        "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/hal_stem_sup_compiled.py",
         "proof_lab/shaiva_sources_nativized.py",
         "proof_lab/ugit_at_stem_sup_compiled.py",
         "theorum/109_ugit_at_stem_sup_compiled_theorem.md",
+        "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
+        "theorum/116_atmanepada_lun_compiled_theorem.md",
+        "theorum/117_asirlin_atmanepada_compiled_theorem.md",
         "theorum/92_hal_stem_sup_compiled_theorem.md"
       ]
     },

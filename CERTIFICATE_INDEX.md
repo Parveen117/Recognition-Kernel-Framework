@@ -1299,6 +1299,102 @@ proof_lab/test_stri_pratyaya_compiled.py
 proof_lab/STRI_PRATYAYA_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 112 Ātmanepada lṛṭ and luṭ Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | labh (aniṭ) and edh (seṭ) in lṛṭ / luṭ ātmanepada, 6 cells each: 3.1.33 sya / tās, 7.2.35 / 7.2.10, 8.4.55 (lapsyate), 8.2.40 + 8.4.53 (labdhā), 8.3.59, 3.4.79 / 3.4.80, 7.2.81 chain (lapsyete), 2.4.85 + 6.4.143 + 7.4.51, 7.4.50 (labdhāse), 7.4.52 (labdhāhe); each rule breaks exactly the forms stated |
+| Status | `PASS_ATMANEPADA_LRT_LUT_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `01b054d21b3318af879b201cdd1c0776fe4a4c52cf2f9e30654e4de3b776f367` |
+| Boundary | see the capsule's claim boundary |
+
+```text
+theorum/112_atmanepada_lrt_lut_compiled_theorem.md
+proof_lab/atmanepada_lrt_lut_compiled.py
+proof_lab/test_atmanepada_lrt_lut_compiled.py
+proof_lab/ATMANEPADA_LRT_LUT_COMPILED_EXPECTED.sha256
+```
+
+## Theorem 113 The Pronominal Adverbs Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | tataḥ, tatra, tadā, yataḥ, yatra, yadā, kutaḥ, kutra, kadā, iha, ataḥ, atra, sarvataḥ, sarvatra, sarvadā by tasil / tral / dā / haḥ (5.3.7, 5.3.10, 5.3.15, 5.3.11) with 2.4.71, 7.2.102 + 6.1.97, 7.2.103, 7.2.104, 5.3.3, 5.3.5, 8.2.66 / 8.3.15; each rule breaks exactly the forms stated |
+| Status | `PASS_PRONOMINAL_TADDHITA_ADVERBS_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `ca3e9059981c53bf1c444a1f33e61913847fa71a0ab0f9341a606e3c5d8033b2` |
+| Boundary | see the capsule's claim boundary |
+
+```text
+theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md
+proof_lab/pronominal_taddhita_adverbs_compiled.py
+proof_lab/test_pronominal_taddhita_adverbs_compiled.py
+proof_lab/PRONOMINAL_TADDHITA_ADVERBS_COMPILED_EXPECTED.sha256
+```
+
+## Theorem 114 Avyayībhāva and Dvigu Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | upakumbham, pratidinam (2.4.83 am), adhihari, yathāśakti (2.4.82 luk), trilokī, pañcamūlī (4.1.21 + 6.4.148), pañcagavam (5.4.92 + 6.1.78 + 2.4.17 + 7.1.24), tripadam — the two compound kinds theorum/104 left out; each rule breaks exactly the forms stated |
+| Status | `PASS_AVYAYIBHAVA_DVIGU_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `58653d425c4c29a2f3c1a1b5f60a6df82de242dbdf74b6704a91d676e6082f57` |
+| Boundary | see the capsule's claim boundary |
+
+```text
+theorum/114_avyayibhava_dvigu_compiled_theorem.md
+proof_lab/avyayibhava_dvigu_compiled.py
+proof_lab/test_avyayibhava_dvigu_compiled.py
+proof_lab/AVYAYIBHAVA_DVIGU_COMPILED_EXPECTED.sha256
+```
+
+## Theorem 115 Āśīrliṅ Parasmaipada Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | bhūyāt, gamyāt, nīyāt, pacyāt, deyāt, stheyāt and their 3d / 3p (18 forms): 3.4.103 yāsuṭ, 3.4.104 kit (1.1.5), 7.2.79, 6.4.67 er liṅi, 3.4.100 / 3.4.101 / 3.4.108; each rule breaks exactly the forms stated |
+| Status | `PASS_ASIRLIN_PARASMAIPADA_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `523b3d25575aa3495182cdc17dbcc4ef7a5e4f62bc09990353262ef905495f7d` |
+| Boundary | see the capsule's claim boundary |
+
+```text
+theorum/115_asirlin_parasmaipada_compiled_theorem.md
+proof_lab/asirlin_parasmaipada_compiled.py
+proof_lab/test_asirlin_parasmaipada_compiled.py
+proof_lab/ASIRLIN_PARASMAIPADA_COMPILED_EXPECTED.sha256
+```
+
+## Theorem 116 Ātmanepada luṅ Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | alabdha, alapsātām, alapsata, alapsi, alabdhāḥ, alapsmahi; aidhiṣṭa, aidhiṣātām, aidhiṣata, aidhiṣi, aidhiṣṭhāḥ, aidhiṣmahi: 3.1.44 sic, 6.4.71 / 6.4.72 + 6.1.90, 7.2.35 / 7.2.10, 8.2.26 jhalo jhali, 8.2.40 + 8.4.53, 8.4.55, 8.3.59 + 8.4.41, 7.1.5; each rule breaks exactly the forms stated |
+| Status | `PASS_ATMANEPADA_LUN_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `d2912a3970719023cdf9c7594fcb083122af1e0d21bb9adbbd7a13e9d47f1f33` |
+| Boundary | see the capsule's claim boundary |
+
+```text
+theorum/116_atmanepada_lun_compiled_theorem.md
+proof_lab/atmanepada_lun_compiled.py
+proof_lab/test_atmanepada_lun_compiled.py
+proof_lab/ATMANEPADA_LUN_COMPILED_EXPECTED.sha256
+```
+
+## Theorem 117 Āśīrliṅ Ātmanepada Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | lapsīṣṭa, lapsīyāstām, lapsīran, lapsīya; edhiṣīṣṭa, edhiṣīyāstām, edhiṣīran, edhiṣīya: 3.4.102 sīyuṭ, 3.4.107 suṭ, 3.4.105 ran, 3.4.106 iṭo 't, 6.1.66, 7.2.35 / 7.2.10, 8.4.55, 8.3.59 + 8.4.41; each rule breaks exactly the forms stated |
+| Status | `PASS_ASIRLIN_ATMANEPADA_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `2e721a69e0515126fd4ff1d861bf5ac4fd82076892c5f9c1003a022b89ba8c15` |
+| Boundary | see the capsule's claim boundary |
+
+```text
+theorum/117_asirlin_atmanepada_compiled_theorem.md
+proof_lab/asirlin_atmanepada_compiled.py
+proof_lab/test_asirlin_atmanepada_compiled.py
+proof_lab/ASIRLIN_ATMANEPADA_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |

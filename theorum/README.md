@@ -87,6 +87,12 @@ The advanced numbered surface now runs through Theorem 80:
 37. **109 — ugit at-stems.** bhavat, bhagavat, dhīmat declined (66 cells) on Theorem 92's carrier: 7.1.70 num (ugit read by Theorem 82, placed by 1.1.47), 6.4.14 (bhavān), 8.2.23, 8.2.9 (bhagavat); each rule on exactly its cells.
 38. **110 — the passive (yak).** Eleven roots in laṭ 3s/3p (22 forms): 3.1.67 yak, 1.1.5, 6.4.66 (dīyate, sthīyate), 6.1.15 + 6.1.108 samprasāraṇa (ucyate, supyate, ijyate), 7.1.3, 3.4.79; each rule on exactly its forms.
 39. **111 — feminine affixes.** Thirteen stems: ṭāp (bālā; kārikā by 7.3.44), ṅīp after ugit (bhavantī by 7.1.81, dhīmatī), after ṇit/ñit/yañ taddhitas (aupagavī, dākṣī, gārgī by 6.4.150), ṅīṣ (gaurī); declined on Theorems 88/89; each rule on exactly its stems.
+40. **112 — Ātmanepada lṛṭ and luṭ Compiled.** labh (aniṭ) and edh (seṭ) in lṛṭ / luṭ ātmanepada, 6 cells each: 3.1.33 sya / tās, 7.2.35 / 7.2.10, 8.4.55 (lapsyate), 8.2.40 + 8.4.53 (labdhā), 8.3.59, 3.4.79 / 3.4.80, 7.2.81 chain (lapsyete), 2.4.85 + 6.4.143 + 7.4.51, 7.4.50 (labdhāse), 7.4.52 (labdhāhe).
+41. **113 — The Pronominal Adverbs Compiled.** tataḥ, tatra, tadā, yataḥ, yatra, yadā, kutaḥ, kutra, kadā, iha, ataḥ, atra, sarvataḥ, sarvatra, sarvadā by tasil / tral / dā / haḥ (5.3.7, 5.3.10, 5.3.15, 5.3.11) with 2.4.71, 7.2.102 + 6.1.97, 7.2.103, 7.2.104, 5.3.3, 5.3.5, 8.2.66 / 8.3.15.
+42. **114 — Avyayībhāva and Dvigu Compiled.** upakumbham, pratidinam (2.4.83 am), adhihari, yathāśakti (2.4.82 luk), trilokī, pañcamūlī (4.1.21 + 6.4.148), pañcagavam (5.4.92 + 6.1.78 + 2.4.17 + 7.1.24), tripadam — the two compound kinds theorum/104 left out.
+43. **115 — Āśīrliṅ Parasmaipada Compiled.** bhūyāt, gamyāt, nīyāt, pacyāt, deyāt, stheyāt and their 3d / 3p (18 forms): 3.4.103 yāsuṭ, 3.4.104 kit (1.1.5), 7.2.79, 6.4.67 er liṅi, 3.4.100 / 3.4.101 / 3.4.108.
+44. **116 — Ātmanepada luṅ Compiled.** alabdha, alapsātām, alapsata, alapsi, alabdhāḥ, alapsmahi; aidhiṣṭa, aidhiṣātām, aidhiṣata, aidhiṣi, aidhiṣṭhāḥ, aidhiṣmahi: 3.1.44 sic, 6.4.71 / 6.4.72 + 6.1.90, 7.2.35 / 7.2.10, 8.2.26 jhalo jhali, 8.2.40 + 8.4.53, 8.4.55, 8.3.59 + 8.4.41, 7.1.5.
+45. **117 — Āśīrliṅ Ātmanepada Compiled.** lapsīṣṭa, lapsīyāstām, lapsīran, lapsīya; edhiṣīṣṭa, edhiṣīyāstām, edhiṣīran, edhiṣīya: 3.4.102 sīyuṭ, 3.4.107 suṭ, 3.4.105 ran, 3.4.106 iṭo 't, 6.1.66, 7.2.35 / 7.2.10, 8.4.55, 8.3.59 + 8.4.41.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -134,7 +140,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-111                           PRESENT
+NUMBERED THEOREM FILES 01-117                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT
