@@ -1219,6 +1219,22 @@ proof_lab/test_san_desiderative_compiled.py
 proof_lab/SAN_DESIDERATIVE_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 107 Kṛt ghañ / lyuṭ / ṇvul / śatṛ Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | bhāva, kāra, nāya, pāka, tyāga, yoga (ghañ), bhavana, nayana, karaṇa, gamana, pacana (lyuṭ), kāraka, pācaka, nāyaka, bhāvaka, yojaka (ṇvul), bhavat, gacchat, nayat (śatṛ on theorum/58's present stem) with 7.1.1, 7.2.115, 7.2.116, 7.3.52, 7.3.84, 7.3.86, 1.1.51, 6.1.78, 8.4.2, 6.1.97; each rule breaks exactly the words stated |
+| Status | `PASS_KRT_GHAN_LYUT_NVUL_SATR_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `38288cf4d74d7d0abf729d13454cdc5b615ce666c1214df692fdd12f75216e0a` |
+| Boundary | affix per word declared; declension of the kṛt words, feminine of śatṛ, ghañ exceptions, accent not claimed |
+
+```text
+theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md
+proof_lab/krt_ghan_lyut_nvul_satr_compiled.py
+proof_lab/test_krt_ghan_lyut_nvul_satr_compiled.py
+proof_lab/KRT_GHAN_LYUT_NVUL_SATR_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
