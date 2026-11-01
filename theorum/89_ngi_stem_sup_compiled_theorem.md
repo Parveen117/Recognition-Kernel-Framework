@@ -34,6 +34,8 @@ antaratama with 1.1.51 → kartṛ, śrotṛ, hotṛ, cetṛ, sotṛ (6.1.64 on 
 ṅīp (4.1.5), ṛ + ī → rī (6.1.77) → kartrī, śrotrī, hotrī, cetrī, sotrī; each
 is nadī (1.4.3) and gives the exchanged nadī paradigm: **110 forms**.
 
+**Correction after external review.** In the first pinned run (8d832667…d7b5) an inline comment swallowed five entries of the ablation table, so only three of the eight stage-removal checks were active (the paradigm equality was unaffected). Repaired; all eight run; `trc_agent` now refuses ids outside the five admitted roots. New pin; the first stays in history.
+
 ## 3. Certificate
 
 ```text
@@ -41,7 +43,7 @@ python -m proof_lab.ngi_stem_sup_compiled
 python -m unittest proof_lab.test_ngi_stem_sup_compiled -v
 ```
 Status `PASS_NGI_STEM_SUP_COMPILED_CANDIDATE`, SHA-256
-`8d832667194303484030346466bd8c22e6f428c518ea0cf2f6ddcbc5847ed7b5`
+`b13ad1d61f7330ba83b7ebd4fe8e9e7215578b189898be111c3ed8843dac591d`
 (`proof_lab/NGI_STEM_SUP_COMPILED_EXPECTED.sha256`). Imports theorum/80, 82, 86.
 
 ## 4. Claim boundary

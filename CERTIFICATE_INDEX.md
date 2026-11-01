@@ -937,7 +937,7 @@ proof_lab/AP_STEM_SUP_COMPILED_EXPECTED.sha256
 |---|---|
 | Certificate class | nadī's 22 forms through 7.3.112, 7.3.116, 7.1.54, 7.3.107, 6.1.68, 6.1.69, 6.1.77, 6.1.102 / 6.1.105, 6.1.107, 6.1.88, 6.1.101, 8.3.59, 8.2.66, 8.3.15 (each stage breaks exactly its cells; 7.3.112 redundant on 7s); kartṛ, śrotṛ, hotṛ, cetṛ, sotṛ from the pinned roots by tṛc with theorum/80's guṇa and 1.1.51, + ṅīp → five nadī feminines, 110 forms |
 | Status | `PASS_NGI_STEM_SUP_COMPILED_CANDIDATE` |
-| Canonical result SHA-256 | `8d832667194303484030346466bd8c22e6f428c518ea0cf2f6ddcbc5847ed7b5` |
+| Canonical result SHA-256 | `b13ad1d61f7330ba83b7ebd4fe8e9e7215578b189898be111c3ed8843dac591d` |
 | Boundary | aniṭ before tṛc declared; stage order a declared pipeline; ṅīṣ / ṅīn, ū-stems, strī not claimed |
 
 ```text

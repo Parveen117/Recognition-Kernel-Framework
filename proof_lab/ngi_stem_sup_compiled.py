@@ -117,7 +117,9 @@ def paradigm(stem, stages=ALL_STAGES) -> dict[str, str]:
 def t1_nadi() -> dict[str, Any]:
     stem = ("n", "a", "d", "ī")
     forms = paradigm(stem)
-    expected_breaks = {"7.3.112": {"4s", "5s", "6s"},   # on 7s, āṭ + ām collapses to ām (6.1.101): 7.3.112 is redundant there — recorded "7.3.116": {"7s"}, "7.1.54": {"6p"}, "7.3.107": {"8s"}, "6.1.68": {"1s"}, "6.1.69": {"8s"},
+    # on 7s, āṭ + ām collapses to ām (6.1.101): 7.3.112 is redundant there — recorded.
+    # (The first pinned run had this comment inline, which swallowed five entries of the table: external review found it; repaired.)
+    expected_breaks = {"7.3.112": {"4s", "5s", "6s"}, "7.3.116": {"7s"}, "7.1.54": {"6p"}, "7.3.107": {"8s"}, "6.1.68": {"1s"}, "6.1.69": {"8s"},
                        "6.1.105": {"1p"}, "8.3.59": {"7p"}}
     broken = {}
     for s in expected_breaks:
@@ -132,6 +134,9 @@ AGENTS = {"1080010": "kartṛ", "1011092": "śrotṛ", "1030001": "hotṛ", "105
 
 
 def trc_agent(lex: str, entries: dict) -> dict[str, Any]:
+    """Admitted (aniṭ-declared) entries only: any other id is refused here (guard added after external review)."""
+    if lex not in AGENTS:
+        raise ValueError(f"{lex}: not an admitted tṛc entry of theorum/89 (aniṭ before tṛc is declared only for {sorted(AGENTS)})")
     up = upadesa_iast(entries[lex]["aupadeshik"])
     dh = list(its(up, "dhatu")["remaining_sounds"])
     steps = [f"{entries[lex]['aupadeshik']} → {''.join(dh)}"]
