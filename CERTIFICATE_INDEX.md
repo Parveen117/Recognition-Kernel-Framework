@@ -1091,6 +1091,22 @@ proof_lab/test_sarvanama_ap_sup_compiled.py
 proof_lab/SARVANAMA_AP_SUP_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 99 Laṅ, Loṭ and Vidhi-Liṅ Ātmanepada Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | laṅ (6.4.71 / 6.4.72 + 6.1.90, 7.2.81 chain), loṭ (3.4.90–93) and vidhi-liṅ (3.4.102 sīyuṭ, 3.4.105–107, 7.2.79, 6.1.66, 6.1.87) ātmanepada of labh and edh on theorum/66's stems: 54 forms; each stage breaks exactly its cells; 6.4.72 on edh only; 7.3.101 blocked by sīyuṭ; three surface-neutral stages recorded |
+| Status | `PASS_ATMANEPADA_LAN_LOT_LIN_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `494ca1c894b7a576a97d7b8dfbf79f837726ea9d49a2ed56f5609d4e014489ea` |
+| Boundary | other roots, luṅ / liṭ / lṛṭ ātmanepada, 3.4.95–96, accent not claimed; stage orders declared pipelines |
+
+```text
+theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md
+proof_lab/atmanepada_lan_lot_lin_compiled.py
+proof_lab/test_atmanepada_lan_lot_lin_compiled.py
+proof_lab/ATMANEPADA_LAN_LOT_LIN_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
