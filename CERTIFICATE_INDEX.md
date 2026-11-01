@@ -1027,6 +1027,22 @@ proof_lab/test_sarvanama_sup_compiled.py
 proof_lab/SARVANAMA_SUP_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 95 Laṅ Parasmaipada Compiled on Theorem 58's Stems packet
+
+| Field | Value |
+|---|---|
+| Certificate class | laṅ parasmaipada of bhū, gam, nī (27 forms) on theorum/58's derived present stems with 6.4.71 (aṭ placed by theorum/82's marker reading), 3.4.100, 3.4.101, 3.4.99, 7.1.3, 8.2.23, 7.3.101, 8.2.66 / 8.3.15; each stage breaks exactly its cells |
+| Status | `PASS_LAN_PARASMAIPADA_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `7b473c21e9ebc878a4d573de20642158079a9a4ddb0756b5b21a31dc372fd427` |
+| Boundary | ātmanepada, 6.4.72 āṭ, accent, other roots and lakāras not claimed; stage order a declared pipeline |
+
+```text
+theorum/95_lan_parasmaipada_compiled_theorem.md
+proof_lab/lan_parasmaipada_compiled.py
+proof_lab/test_lan_parasmaipada_compiled.py
+proof_lab/LAN_PARASMAIPADA_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
