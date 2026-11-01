@@ -747,6 +747,23 @@ proof_lab/imported/SEMANTIC_PANINIAN_SOURCE_PINS.json
 proof_lab/SEMANTIC_PANINIAN_NORMAL_FORM_EXPECTED.sha256
 ```
 
+
+## Theorem 78 Śaiva sources nativized packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Quoted primary Śaiva/Pāṇinian sources turned into exact finite theorems: Māheśvara-sūtra interval code (1.1.71), necessity of the repeated *ha*, Spanda turn group on the EMK odd generator, Pratyabhijñā recognition defect on the MR-03 cocycle lift |
+| Status | `PASS_SHAIVA_SOURCES_NATIVIZED_CANDIDATE` |
+| Canonical result SHA-256 | `3d1ce14b679eb5c02e33473fb808ec4a192502b79d912b927a52240c94c58950` |
+| Boundary | marker-count minimality of the fourteen sūtras not re-derived; breath, deity, ontology and the five acts cited only; recognition across different decompositions without a memory gauge is an open obligation |
+
+```text
+theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md
+proof_lab/shaiva_sources_nativized.py
+proof_lab/test_shaiva_sources_nativized.py
+proof_lab/SHAIVA_SOURCES_NATIVIZED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |

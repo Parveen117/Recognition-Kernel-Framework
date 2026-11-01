@@ -85,6 +85,12 @@ jobs:
                     or bool(changed & shared_structure),
               'ss1': runtime or native or under('research/sectoral_signal/')
                      or bool(changed & signal_inputs),
+              'shaiva': bool(changed & {
+                  'proof_lab/shaiva_sources_nativized.py',
+                  'proof_lab/test_shaiva_sources_nativized.py',
+                  'proof_lab/SHAIVA_SOURCES_NATIVIZED_EXPECTED.sha256',
+                  'theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md',
+              }),
           }
           scopes = {name: full or selected for name, selected in scopes.items()}
           with open(os.environ['GITHUB_OUTPUT'], 'a') as output:
@@ -132,3 +138,16 @@ jobs:
       - name: Check SS1 sectoral signals
         if: steps.scope.outputs.ss1 == 'true'
         run: node research/sectoral_signal/verify.cjs --check
+      - name: Check Theorem 78 Śaiva-sources certificate and pin
+        if: steps.scope.outputs.shaiva == 'true'
+        run: |
+          python -B -m unittest proof_lab.test_shaiva_sources_nativized -v
+          python -B -m proof_lab.shaiva_sources_nativized --output /tmp/shaiva_actual.json
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+          actual = hashlib.sha256(Path('/tmp/shaiva_actual.json').read_bytes()).hexdigest()
+          expected = Path('proof_lab/SHAIVA_SOURCES_NATIVIZED_EXPECTED.sha256').read_text(encoding='utf-8').strip()
+          assert actual == expected, (actual, expected)
+          print('PASS_SHAIVA_SOURCES_NATIVIZED_HASH', actual)
+          PY
