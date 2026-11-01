@@ -1,0 +1,2846 @@
+{
+  "author": "Monty",
+  "records": [
+    {
+      "sid": "1.1.5",
+      "opcode": "block_guna_from_kit_ngit",
+      "terms": [
+        {
+          "term": "क्ङिति",
+          "source": "1.1.5",
+          "kind": "own",
+          "role": "blocking_affix_condition",
+          "case": "7"
+        },
+        {
+          "term": "च",
+          "source": "1.1.5",
+          "kind": "own",
+          "role": "coordination",
+          "case": "0"
+        },
+        {
+          "term": "इकः",
+          "source": "1.1.3",
+          "kind": "anuvrtti",
+          "role": "ik_domain"
+        },
+        {
+          "term": "गुण-वृद्धी",
+          "source": "1.1.3",
+          "kind": "anuvrtti",
+          "role": "guna_vrddhi_operations"
+        },
+        {
+          "term": "न",
+          "source": "1.1.4",
+          "kind": "anuvrtti",
+          "role": "prohibition"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11005",
+          "anchor": "निमित्तसप्तम्येषा।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "11005",
+          "field": "s",
+          "anchor": "क्ङिति च"
+        }
+      ],
+      "sanskrit": "क्ङिति च"
+    },
+    {
+      "sid": "1.2.4",
+      "opcode": "designate_apit_sarvadhatuka_ngitvat",
+      "terms": [
+        {
+          "term": "सार्वधातुकम्",
+          "source": "1.2.4",
+          "kind": "own",
+          "role": "sarvadhatuka_domain",
+          "case": "1"
+        },
+        {
+          "term": "अपित्",
+          "source": "1.2.4",
+          "kind": "own",
+          "role": "absence_of_p_it",
+          "case": "1"
+        },
+        {
+          "term": "ङित्",
+          "source": "1.2.1",
+          "kind": "anuvrtti",
+          "role": "ngitvat_designation"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "12004",
+          "anchor": "सार्वधातुकं यदपित् तद् ङिद्वद् भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "12004",
+          "field": "s",
+          "anchor": "सार्वधातुकमपित्"
+        }
+      ],
+      "sanskrit": "सार्वधातुकमपित्"
+    },
+    {
+      "sid": "2.4.72",
+      "opcode": "whole_sap_luk",
+      "terms": [
+        {
+          "term": "अदि-प्रभृतिभ्यः",
+          "source": "2.4.72",
+          "kind": "own",
+          "role": "adadi_lexical_domain",
+          "case": "5"
+        },
+        {
+          "term": "शपः",
+          "source": "2.4.72",
+          "kind": "own",
+          "role": "whole_sap_target",
+          "case": "6"
+        },
+        {
+          "term": "लुक्",
+          "source": "2.4.58",
+          "kind": "anuvrtti",
+          "role": "luk_deletion_kind"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "24072",
+          "anchor": "अदिप्रभृतिभ्य उत्तरस्य शपो लुग् भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "24072",
+          "field": "s",
+          "anchor": "अदिप्रभृतिभ्यः शपः"
+        }
+      ],
+      "sanskrit": "अदिप्रभृतिभ्यः शपः"
+    },
+    {
+      "sid": "2.4.75",
+      "opcode": "whole_sap_slu",
+      "terms": [
+        {
+          "term": "जुहोति-आदिभ्यः",
+          "source": "2.4.75",
+          "kind": "own",
+          "role": "juhotyadi_lexical_domain",
+          "case": "5"
+        },
+        {
+          "term": "श्लुः",
+          "source": "2.4.75",
+          "kind": "own",
+          "role": "slu_deletion_kind",
+          "case": "1"
+        },
+        {
+          "term": "शपः",
+          "source": "2.4.72",
+          "kind": "anuvrtti",
+          "role": "whole_sap_target"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "24075",
+          "anchor": "शबनुवर्तते, न यङ्।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "24075",
+          "field": "s",
+          "anchor": "जुहोत्यादिभ्यः श्लुः"
+        }
+      ],
+      "sanskrit": "जुहोत्यादिभ्यः श्लुः"
+    },
+    {
+      "sid": "3.1.25",
+      "opcode": "prescribe_curadi_nic",
+      "terms": [
+        {
+          "term": "सत्याप-पाश-रूप-वीणा-तूल-श्लोक-सेना-लोम-त्वच-वर्म-वर्ण-चूर्ण-चुरादिभ्यः",
+          "source": "3.1.25",
+          "kind": "own",
+          "role": "listed_nominals_and_curadi_roots",
+          "case": "5"
+        },
+        {
+          "term": "णिच्",
+          "source": "3.1.25",
+          "kind": "own",
+          "role": "nic_affix",
+          "case": "1"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.22",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31025",
+          "anchor": "सत्यादिभ्यश्चूर्णपर्यन्तेभ्यश्चुरादिभ्यश्च णिच् प्रत्ययो भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "31025",
+          "field": "s",
+          "anchor": "सत्यापपाशरूपवीणातूलश्लोकसेनालोमत्वचवर्मवर्णचूर्णचुरादिभ्यो णिच्"
+        }
+      ],
+      "sanskrit": "सत्यापपाशरूपवीणातूलश्लोकसेनालोमत्वचवर्मवर्णचूर्णचुरादिभ्यो णिच्"
+    },
+    {
+      "sid": "3.1.32",
+      "opcode": "designate_sanadi_community_dhatu",
+      "terms": [
+        {
+          "term": "सनाद्यन्ताः",
+          "source": "3.1.32",
+          "kind": "own",
+          "role": "sanadi_ending_community",
+          "case": "1"
+        },
+        {
+          "term": "धातवः",
+          "source": "3.1.32",
+          "kind": "own",
+          "role": "dhatu_designation",
+          "case": "1"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.22",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31032",
+          "anchor": "सन् आदिर्येषां ते सनादयः।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "31032",
+          "field": "s",
+          "anchor": "सनाद्यन्ता धातवः"
+        }
+      ],
+      "sanskrit": "सनाद्यन्ता धातवः"
+    },
+    {
+      "sid": "3.1.68",
+      "opcode": "select_reviewed_vikarana_and_record_coupled_obligations",
+      "terms": [
+        {
+          "term": "कर्तरि",
+          "source": "3.1.68",
+          "kind": "own",
+          "role": "agent_semantics",
+          "case": "7"
+        },
+        {
+          "term": "शप्",
+          "source": "3.1.68",
+          "kind": "own",
+          "role": "sap_affix",
+          "case": "1"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "3.1.67",
+          "kind": "anuvrtti",
+          "role": "following_sarvadhatuka"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.22",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31068",
+          "anchor": "कर्तृवाचिनि सार्वधातुके परतो धातोः शप् प्रत्ययो भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "31068",
+          "field": "s",
+          "anchor": "कर्तरि शप्"
+        }
+      ],
+      "sanskrit": "कर्तरि शप्"
+    },
+    {
+      "sid": "3.1.69",
+      "opcode": "select_reviewed_vikarana_and_record_coupled_obligations",
+      "terms": [
+        {
+          "term": "दिवादिभ्यः",
+          "source": "3.1.69",
+          "kind": "own",
+          "role": "divadi_lexical_domain",
+          "case": "5"
+        },
+        {
+          "term": "श्यन्",
+          "source": "3.1.69",
+          "kind": "own",
+          "role": "syan_affix",
+          "case": "1"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "3.1.67",
+          "kind": "anuvrtti",
+          "role": "following_sarvadhatuka"
+        },
+        {
+          "term": "कर्तरि",
+          "source": "3.1.68",
+          "kind": "anuvrtti",
+          "role": "agent_semantics"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.22",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31069",
+          "anchor": "दिव् इत्येवमादिभ्यो धातुभ्यः श्यन् प्रत्ययो भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "31069",
+          "field": "s",
+          "anchor": "दिवादिभ्यः श्यन्"
+        }
+      ],
+      "sanskrit": "दिवादिभ्यः श्यन्"
+    },
+    {
+      "sid": "3.1.70",
+      "opcode": "select_reviewed_vikarana_and_record_coupled_obligations",
+      "terms": [
+        {
+          "term": "वा",
+          "source": "3.1.70",
+          "kind": "own",
+          "role": "optional_prescription",
+          "case": "0"
+        },
+        {
+          "term": "भ्राश-भ्लाश-भ्रमु-क्रमु-क्लमु-त्रसि-त्रुटि-लषः",
+          "source": "3.1.70",
+          "kind": "own",
+          "role": "named_lexical_domain",
+          "case": "5"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "3.1.67",
+          "kind": "anuvrtti",
+          "role": "following_sarvadhatuka"
+        },
+        {
+          "term": "कर्तरि",
+          "source": "3.1.68",
+          "kind": "anuvrtti",
+          "role": "agent_semantics"
+        },
+        {
+          "term": "श्यन्",
+          "source": "3.1.69",
+          "kind": "anuvrtti",
+          "role": "syan_affix"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.22",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31070",
+          "anchor": "उभयत्र विभाषेयम्।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "31070",
+          "field": "s",
+          "anchor": "वा भ्राशभ्लाशभ्रमुक्रमुक्लमुत्रसित्रुटिलषः"
+        }
+      ],
+      "sanskrit": "वा भ्राशभ्लाशभ्रमुक्रमुक्लमुत्रसित्रुटिलषः"
+    },
+    {
+      "sid": "3.1.71",
+      "opcode": "select_reviewed_vikarana_and_record_coupled_obligations",
+      "terms": [
+        {
+          "term": "यसः",
+          "source": "3.1.71",
+          "kind": "own",
+          "role": "yas_lexical_identity",
+          "case": "5"
+        },
+        {
+          "term": "अनुपसर्गात्",
+          "source": "3.1.71",
+          "kind": "own",
+          "role": "absence_of_prefix",
+          "case": "5"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "3.1.67",
+          "kind": "anuvrtti",
+          "role": "following_sarvadhatuka"
+        },
+        {
+          "term": "कर्तरि",
+          "source": "3.1.68",
+          "kind": "anuvrtti",
+          "role": "agent_semantics"
+        },
+        {
+          "term": "श्यन्",
+          "source": "3.1.69",
+          "kind": "anuvrtti",
+          "role": "syan_affix"
+        },
+        {
+          "term": "वा",
+          "source": "3.1.70",
+          "kind": "anuvrtti",
+          "role": "optional_prescription"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.22",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31071",
+          "anchor": "<<यसु प्रयत्ने>> दैवादिकः।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "31071",
+          "field": "s",
+          "anchor": "यसोऽनुपसर्गात्"
+        }
+      ],
+      "sanskrit": "यसोऽनुपसर्गात्"
+    },
+    {
+      "sid": "3.1.72",
+      "opcode": "select_reviewed_vikarana_and_record_coupled_obligations",
+      "terms": [
+        {
+          "term": "संयसः",
+          "source": "3.1.72",
+          "kind": "own",
+          "role": "sam_prefixed_yas",
+          "case": "5"
+        },
+        {
+          "term": "च",
+          "source": "3.1.72",
+          "kind": "own",
+          "role": "coordination",
+          "case": "0"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "3.1.67",
+          "kind": "anuvrtti",
+          "role": "following_sarvadhatuka"
+        },
+        {
+          "term": "कर्तरि",
+          "source": "3.1.68",
+          "kind": "anuvrtti",
+          "role": "agent_semantics"
+        },
+        {
+          "term": "श्यन्",
+          "source": "3.1.69",
+          "kind": "anuvrtti",
+          "role": "syan_affix"
+        },
+        {
+          "term": "वा",
+          "source": "3.1.70",
+          "kind": "anuvrtti",
+          "role": "optional_prescription"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.22",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31072",
+          "anchor": "सोपसर्गार्थ आरम्भः।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "31072",
+          "field": "s",
+          "anchor": "संयसश्च"
+        }
+      ],
+      "sanskrit": "संयसश्च"
+    },
+    {
+      "sid": "3.1.73",
+      "opcode": "select_reviewed_vikarana_and_record_coupled_obligations",
+      "terms": [
+        {
+          "term": "स्वादिभ्यः",
+          "source": "3.1.73",
+          "kind": "own",
+          "role": "svadi_lexical_domain",
+          "case": "5"
+        },
+        {
+          "term": "श्नुः",
+          "source": "3.1.73",
+          "kind": "own",
+          "role": "snu_affix",
+          "case": "1"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "3.1.67",
+          "kind": "anuvrtti",
+          "role": "following_sarvadhatuka"
+        },
+        {
+          "term": "कर्तरि",
+          "source": "3.1.68",
+          "kind": "anuvrtti",
+          "role": "agent_semantics"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.22",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31073",
+          "anchor": "<<षुञ् अभिषवे>> इत्येवमादिभ्यो धातुभ्यः श्नुप्रत्ययो भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "31073",
+          "field": "s",
+          "anchor": "स्वादिभ्यः श्नुः"
+        }
+      ],
+      "sanskrit": "स्वादिभ्यः श्नुः"
+    },
+    {
+      "sid": "3.1.74",
+      "opcode": "select_reviewed_vikarana_and_record_coupled_obligations",
+      "terms": [
+        {
+          "term": "श्रुवः",
+          "source": "3.1.74",
+          "kind": "own",
+          "role": "sru_replacement_target",
+          "case": "6"
+        },
+        {
+          "term": "शृ",
+          "source": "3.1.74",
+          "kind": "own",
+          "role": "sr_substitute"
+        },
+        {
+          "term": "च",
+          "source": "3.1.74",
+          "kind": "own",
+          "role": "coupled_affix_and_replacement",
+          "case": "0"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "3.1.67",
+          "kind": "anuvrtti",
+          "role": "following_sarvadhatuka"
+        },
+        {
+          "term": "कर्तरि",
+          "source": "3.1.68",
+          "kind": "anuvrtti",
+          "role": "agent_semantics"
+        },
+        {
+          "term": "श्नुः",
+          "source": "3.1.73",
+          "kind": "anuvrtti",
+          "role": "snu_affix"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.22",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31074",
+          "anchor": "श्रुवः श्नुप्रत्ययो भवति, तत्संनियोगेन श्रुवः शृ इत्ययमादेशो भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "31074",
+          "field": "s",
+          "anchor": "श्रुवः शृ च"
+        }
+      ],
+      "sanskrit": "श्रुवः शृ च"
+    },
+    {
+      "sid": "3.1.75",
+      "opcode": "select_reviewed_vikarana_and_record_coupled_obligations",
+      "terms": [
+        {
+          "term": "अक्षः",
+          "source": "3.1.75",
+          "kind": "own",
+          "role": "aks_lexical_identity",
+          "case": "5"
+        },
+        {
+          "term": "अन्यतरस्याम्",
+          "source": "3.1.75",
+          "kind": "own",
+          "role": "optional_prescription",
+          "case": "7"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "3.1.67",
+          "kind": "anuvrtti",
+          "role": "following_sarvadhatuka"
+        },
+        {
+          "term": "कर्तरि",
+          "source": "3.1.68",
+          "kind": "anuvrtti",
+          "role": "agent_semantics"
+        },
+        {
+          "term": "श्नुः",
+          "source": "3.1.73",
+          "kind": "anuvrtti",
+          "role": "snu_affix"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.22",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31075",
+          "anchor": "<<अक्षू व्याप्तौ>> भौवादिकः, अस्मादन्यतरस्यां श्नुप्रत्ययो भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "31075",
+          "field": "s",
+          "anchor": "अक्षोऽन्यतरस्याम्"
+        }
+      ],
+      "sanskrit": "अक्षोऽन्यतरस्याम्"
+    },
+    {
+      "sid": "3.1.76",
+      "opcode": "select_reviewed_vikarana_and_record_coupled_obligations",
+      "terms": [
+        {
+          "term": "तनूकरणे",
+          "source": "3.1.76",
+          "kind": "own",
+          "role": "thinning_sense",
+          "case": "7"
+        },
+        {
+          "term": "तक्षः",
+          "source": "3.1.76",
+          "kind": "own",
+          "role": "taks_lexical_identity",
+          "case": "5"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "3.1.67",
+          "kind": "anuvrtti",
+          "role": "following_sarvadhatuka"
+        },
+        {
+          "term": "कर्तरि",
+          "source": "3.1.68",
+          "kind": "anuvrtti",
+          "role": "agent_semantics"
+        },
+        {
+          "term": "श्नुः",
+          "source": "3.1.73",
+          "kind": "anuvrtti",
+          "role": "snu_affix"
+        },
+        {
+          "term": "अन्यतरस्याम्",
+          "source": "3.1.75",
+          "kind": "anuvrtti",
+          "role": "optional_prescription"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.22",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31076",
+          "anchor": "<<तक्षू त्वक्षू तनूकरणे>> अस्मात् तनूकरणेऽर्थे वर्तमानादन्यतरस्यां श्नुप्रत्ययो भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "31076",
+          "field": "s",
+          "anchor": "तनूकरणे तक्षः"
+        }
+      ],
+      "sanskrit": "तनूकरणे तक्षः"
+    },
+    {
+      "sid": "3.1.77",
+      "opcode": "select_reviewed_vikarana_and_record_coupled_obligations",
+      "terms": [
+        {
+          "term": "तुदादिभ्यः",
+          "source": "3.1.77",
+          "kind": "own",
+          "role": "tudadi_lexical_domain",
+          "case": "5"
+        },
+        {
+          "term": "शः",
+          "source": "3.1.77",
+          "kind": "own",
+          "role": "sa_affix",
+          "case": "1"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "3.1.67",
+          "kind": "anuvrtti",
+          "role": "following_sarvadhatuka"
+        },
+        {
+          "term": "कर्तरि",
+          "source": "3.1.68",
+          "kind": "anuvrtti",
+          "role": "agent_semantics"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.22",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31077",
+          "anchor": "<<तुद व्यथने>> इत्येवमादिभ्यो धातुभ्यः शप्रत्ययो भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "31077",
+          "field": "s",
+          "anchor": "तुदादिभ्यः शः"
+        }
+      ],
+      "sanskrit": "तुदादिभ्यः शः"
+    },
+    {
+      "sid": "3.1.78",
+      "opcode": "select_reviewed_vikarana_and_record_coupled_obligations",
+      "terms": [
+        {
+          "term": "रुधादिभ्यः",
+          "source": "3.1.78",
+          "kind": "own",
+          "role": "rudhadi_lexical_domain",
+          "case": "5"
+        },
+        {
+          "term": "श्नम्",
+          "source": "3.1.78",
+          "kind": "own",
+          "role": "snam_affix",
+          "case": "1"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "3.1.67",
+          "kind": "anuvrtti",
+          "role": "following_sarvadhatuka"
+        },
+        {
+          "term": "कर्तरि",
+          "source": "3.1.68",
+          "kind": "anuvrtti",
+          "role": "agent_semantics"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.22",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31078",
+          "anchor": "<<रुधिर् आवरणे>> इत्येवमादिभ्यो धातुभ्यः श्नम् प्रत्ययो भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "31078",
+          "field": "s",
+          "anchor": "रुधादिभ्यः श्नम्"
+        }
+      ],
+      "sanskrit": "रुधादिभ्यः श्नम्"
+    },
+    {
+      "sid": "3.1.79",
+      "opcode": "select_reviewed_vikarana_and_record_coupled_obligations",
+      "terms": [
+        {
+          "term": "तनादि-कृञ्-भ्यः",
+          "source": "3.1.79",
+          "kind": "own",
+          "role": "tanadi_and_identified_kr_lexical_domain",
+          "case": "5"
+        },
+        {
+          "term": "उः",
+          "source": "3.1.79",
+          "kind": "own",
+          "role": "u_affix",
+          "case": "1"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "3.1.67",
+          "kind": "anuvrtti",
+          "role": "following_sarvadhatuka"
+        },
+        {
+          "term": "कर्तरि",
+          "source": "3.1.68",
+          "kind": "anuvrtti",
+          "role": "agent_semantics"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.22",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31079",
+          "anchor": "<<तनु विस्तारे>> इत्येवमादिभ्यो धातुभ्यः कृञश्च उप्रत्ययो भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "31079",
+          "field": "s",
+          "anchor": "तनादिकृञ्भ्य उः"
+        }
+      ],
+      "sanskrit": "तनादिकृञ्भ्य उः"
+    },
+    {
+      "sid": "3.1.80",
+      "opcode": "select_reviewed_vikarana_and_record_coupled_obligations",
+      "terms": [
+        {
+          "term": "धिन्वि-कृण्व्योः",
+          "source": "3.1.80",
+          "kind": "own",
+          "role": "dhinvi_krnvi_replacement_target",
+          "case": "6"
+        },
+        {
+          "term": "अ",
+          "source": "3.1.80",
+          "kind": "own",
+          "role": "a_substitute"
+        },
+        {
+          "term": "च",
+          "source": "3.1.80",
+          "kind": "own",
+          "role": "coupled_affix_and_replacement",
+          "case": "0"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "3.1.67",
+          "kind": "anuvrtti",
+          "role": "following_sarvadhatuka"
+        },
+        {
+          "term": "कर्तरि",
+          "source": "3.1.68",
+          "kind": "anuvrtti",
+          "role": "agent_semantics"
+        },
+        {
+          "term": "उः",
+          "source": "3.1.79",
+          "kind": "anuvrtti",
+          "role": "u_affix"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.22",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31080",
+          "anchor": "<<हिवि धिवि जिवि प्रीणनार्थाः>>, <<कृवि हिंसाकरणयोश्च>> इत्येतयोर्धात्वोरुप्रत्ययो भवति, अकारश्चान्तादेशः।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "31080",
+          "field": "s",
+          "anchor": "धिन्विकृण्व्योर च"
+        }
+      ],
+      "sanskrit": "धिन्विकृण्व्योर च"
+    },
+    {
+      "sid": "3.1.81",
+      "opcode": "select_reviewed_vikarana_and_record_coupled_obligations",
+      "terms": [
+        {
+          "term": "क्र्यादिभ्यः",
+          "source": "3.1.81",
+          "kind": "own",
+          "role": "kryadi_lexical_domain",
+          "case": "5"
+        },
+        {
+          "term": "श्ना",
+          "source": "3.1.81",
+          "kind": "own",
+          "role": "sna_affix"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "3.1.67",
+          "kind": "anuvrtti",
+          "role": "following_sarvadhatuka"
+        },
+        {
+          "term": "कर्तरि",
+          "source": "3.1.68",
+          "kind": "anuvrtti",
+          "role": "agent_semantics"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.22",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31081",
+          "anchor": "<<डुक्रीञ् द्रव्यविनिमये>> इत्येवमादिभ्यो धातुभ्यः श्नाप्रत्ययो भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "31081",
+          "field": "s",
+          "anchor": "क्र्यादिभ्यः श्ना"
+        }
+      ],
+      "sanskrit": "क्र्यादिभ्यः श्ना"
+    },
+    {
+      "sid": "3.1.82",
+      "opcode": "select_reviewed_vikarana_and_record_coupled_obligations",
+      "terms": [
+        {
+          "term": "स्तन्भु-स्तुन्भु-स्कन्भु-स्कुन्भु-स्कुञ्भ्यः",
+          "source": "3.1.82",
+          "kind": "own",
+          "role": "named_lexical_domain",
+          "case": "5"
+        },
+        {
+          "term": "श्नुः",
+          "source": "3.1.82",
+          "kind": "own",
+          "role": "snu_affix",
+          "case": "1"
+        },
+        {
+          "term": "च",
+          "source": "3.1.82",
+          "kind": "own",
+          "role": "also_sna",
+          "case": "0"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "3.1.67",
+          "kind": "anuvrtti",
+          "role": "following_sarvadhatuka"
+        },
+        {
+          "term": "कर्तरि",
+          "source": "3.1.68",
+          "kind": "anuvrtti",
+          "role": "agent_semantics"
+        },
+        {
+          "term": "श्ना",
+          "source": "3.1.81",
+          "kind": "anuvrtti",
+          "role": "sna_affix"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.22",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31082",
+          "anchor": "आद्याश्चत्वारो धातवः सौत्राः, <<स्कुञ् आप्रवणे>> एतेभ्यः श्नाप्रत्ययो भवति श्नुश्च।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "31082",
+          "field": "s",
+          "anchor": "स्तन्भुस्तुन्भुस्कन्भुस्कुन्भुस्कुञ्भ्यः श्नुश्च"
+        }
+      ],
+      "sanskrit": "स्तन्भुस्तुन्भुस्कन्भुस्कुन्भुस्कुञ्भ्यः श्नुश्च"
+    },
+    {
+      "sid": "3.4.78",
+      "opcode": "substitute_ting",
+      "terms": [
+        {
+          "term": "तिप्-तस्-झि-सिप्-थस्-थ-मिप्-वस्-मस्-त-आताम्-झ-थास्-आथाम्-ध्वम्-इड्-वहि-महिङ्",
+          "source": "3.4.78",
+          "kind": "own",
+          "role": "ordered_ting_substitutes",
+          "case": "1"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.91",
+          "kind": "adhikara",
+          "role": "root_domain"
+        },
+        {
+          "term": "लस्य",
+          "source": "3.4.77",
+          "kind": "adhikara",
+          "role": "lakara_substitution_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34078",
+          "anchor": "लस्य तिबादय आदेशा भवन्ति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "34078",
+          "field": "s",
+          "anchor": "तिप्तस्झिसिप्थस्थमिब्वस्मस् तातांझथासाथांध्वमिड्वहिमहिङ्"
+        }
+      ],
+      "sanskrit": "तिप्तस्झिसिप्थस्थमिब्वस्मस् तातांझथासाथांध्वमिड्वहिमहिङ्"
+    },
+    {
+      "sid": "3.4.79",
+      "opcode": "replace_atmanepada_ti_with_e",
+      "terms": [
+        {
+          "term": "टितः",
+          "source": "3.4.79",
+          "kind": "own",
+          "role": "tit_lakara",
+          "case": "6"
+        },
+        {
+          "term": "आत्मनेपदानाम्",
+          "source": "3.4.79",
+          "kind": "own",
+          "role": "atmanepada_ting_domain",
+          "case": "6"
+        },
+        {
+          "term": "टेः",
+          "source": "3.4.79",
+          "kind": "own",
+          "role": "ti_target",
+          "case": "6"
+        },
+        {
+          "term": "ए",
+          "source": "3.4.79",
+          "kind": "own",
+          "role": "e_substitute"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.91",
+          "kind": "adhikara",
+          "role": "root_domain"
+        },
+        {
+          "term": "लस्य",
+          "source": "3.4.77",
+          "kind": "adhikara",
+          "role": "lakara_substitution_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34079",
+          "anchor": "टितो लकारस्य स्थाने यान्यात्मनेपदानि तेषां टेरेकारादेशो भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "34079",
+          "field": "s",
+          "anchor": "टित आत्मनेपदानां टेरे"
+        }
+      ],
+      "sanskrit": "टित आत्मनेपदानां टेरे"
+    },
+    {
+      "sid": "3.4.80",
+      "opcode": "replace_thas_with_se",
+      "terms": [
+        {
+          "term": "थासः",
+          "source": "3.4.80",
+          "kind": "own",
+          "role": "thas_target",
+          "case": "6"
+        },
+        {
+          "term": "से",
+          "source": "3.4.80",
+          "kind": "own",
+          "role": "se_substitute"
+        },
+        {
+          "term": "टितः",
+          "source": "3.4.79",
+          "kind": "anuvrtti",
+          "role": "tit_lakara"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.91",
+          "kind": "adhikara",
+          "role": "root_domain"
+        },
+        {
+          "term": "लस्य",
+          "source": "3.4.77",
+          "kind": "adhikara",
+          "role": "lakara_substitution_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34080",
+          "anchor": "टित इत्येव।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "34080",
+          "field": "s",
+          "anchor": "थासस्से"
+        }
+      ],
+      "sanskrit": "थासस्से"
+    },
+    {
+      "sid": "3.4.113",
+      "opcode": "designate_ting_sit_sarvadhatuka",
+      "terms": [
+        {
+          "term": "तिङ्-शित्",
+          "source": "3.4.113",
+          "kind": "own",
+          "role": "ting_or_sit_affix",
+          "case": "1"
+        },
+        {
+          "term": "सार्वधातुकम्",
+          "source": "3.4.113",
+          "kind": "own",
+          "role": "sarvadhatuka_designation",
+          "case": "1"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.91",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34113",
+          "anchor": "तिङः शितश्च प्रत्ययाः सार्वधातुकसंज्ञा भवन्ति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "34113",
+          "field": "s",
+          "anchor": "तिङ्शित्सार्वधातुकम्"
+        }
+      ],
+      "sanskrit": "तिङ्शित्सार्वधातुकम्"
+    },
+    {
+      "sid": "3.4.114",
+      "opcode": "designate_remaining_dhatu_affix_ardhadhatuka",
+      "terms": [
+        {
+          "term": "आर्धधातुकम्",
+          "source": "3.4.114",
+          "kind": "own",
+          "role": "ardhadhatuka_designation",
+          "case": "1"
+        },
+        {
+          "term": "शेषः",
+          "source": "3.4.114",
+          "kind": "own",
+          "role": "remaining_dhatu_prescribed_affix",
+          "case": "1"
+        },
+        {
+          "term": "प्रत्ययः",
+          "source": "3.1.1",
+          "kind": "adhikara",
+          "role": "affix_heading"
+        },
+        {
+          "term": "परश्च",
+          "source": "3.1.2",
+          "kind": "adhikara",
+          "role": "following_placement_heading"
+        },
+        {
+          "term": "आद्युदात्तश्च",
+          "source": "3.1.3",
+          "kind": "adhikara",
+          "role": "initial_accent_heading_recorded_not_realized"
+        },
+        {
+          "term": "धातोः",
+          "source": "3.1.91",
+          "kind": "adhikara",
+          "role": "root_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34114",
+          "anchor": "तिङः शितश्च वर्जयित्वान्यः प्रत्ययः शेषो धातुसंशब्दनेन विहित आर्धधातुकसंज्ञो भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "34114",
+          "field": "s",
+          "anchor": "आर्धधातुकं शेषः"
+        }
+      ],
+      "sanskrit": "आर्धधातुकं शेषः"
+    },
+    {
+      "sid": "6.1.66",
+      "opcode": "delete_y_before_reviewed_val",
+      "terms": [
+        {
+          "term": "लोपः",
+          "source": "6.1.66",
+          "kind": "own",
+          "role": "deletion",
+          "case": "1"
+        },
+        {
+          "term": "व्योः",
+          "source": "6.1.66",
+          "kind": "own",
+          "role": "v_or_y_target",
+          "case": "6"
+        },
+        {
+          "term": "वलि",
+          "source": "6.1.66",
+          "kind": "own",
+          "role": "following_val",
+          "case": "7"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61066",
+          "anchor": "धातोरिति  प्रकृतं  यत्  तद् धात्वादेरिति पुनर्धातुग्रहणाद् निवृत्तम्।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "61066",
+          "field": "s",
+          "anchor": "लोपो व्योर्वलि"
+        }
+      ],
+      "sanskrit": "लोपो व्योर्वलि"
+    },
+    {
+      "sid": "6.1.78",
+      "opcode": "ordered_ayadi",
+      "terms": [
+        {
+          "term": "एचः",
+          "source": "6.1.78",
+          "kind": "own",
+          "role": "ec_target",
+          "case": "6"
+        },
+        {
+          "term": "अय्-अव्-आय्-आवः",
+          "source": "6.1.78",
+          "kind": "own",
+          "role": "ordered_ay_av_ay_av_substitutes",
+          "case": "1"
+        },
+        {
+          "term": "अचि",
+          "source": "6.1.77",
+          "kind": "anuvrtti",
+          "role": "following_vowel"
+        },
+        {
+          "term": "संहितायाम्",
+          "source": "6.1.72",
+          "kind": "adhikara",
+          "role": "close_junction"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61078",
+          "anchor": "एचः स्थानेऽचि परतोऽय् अव् आय् आव् इत्येत आदेशा  यथासंख्यं भवन्ति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "61078",
+          "field": "s",
+          "anchor": "एचोऽयवायावः"
+        }
+      ],
+      "sanskrit": "एचोऽयवायावः"
+    },
+    {
+      "sid": "6.1.87",
+      "opcode": "joint_guna",
+      "terms": [
+        {
+          "term": "आत्",
+          "source": "6.1.87",
+          "kind": "own",
+          "role": "preceding_a_class",
+          "case": "5"
+        },
+        {
+          "term": "गुणः",
+          "source": "6.1.87",
+          "kind": "own",
+          "role": "guna_ekadesha",
+          "case": "1"
+        },
+        {
+          "term": "अचि",
+          "source": "6.1.77",
+          "kind": "anuvrtti",
+          "role": "following_vowel"
+        },
+        {
+          "term": "संहितायाम्",
+          "source": "6.1.72",
+          "kind": "adhikara",
+          "role": "close_junction"
+        },
+        {
+          "term": "एकः पूर्वपरयोः",
+          "source": "6.1.84",
+          "kind": "adhikara",
+          "role": "joint_two_sound_target"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61087",
+          "anchor": "अचीत्यनुवर्तते।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "61087",
+          "field": "s",
+          "anchor": "आद्गुणः"
+        }
+      ],
+      "sanskrit": "आद्गुणः"
+    },
+    {
+      "sid": "6.1.97",
+      "opcode": "internal_a_pararupa",
+      "terms": [
+        {
+          "term": "अतः",
+          "source": "6.1.97",
+          "kind": "own",
+          "role": "preceding_short_a",
+          "case": "5"
+        },
+        {
+          "term": "गुणे",
+          "source": "6.1.97",
+          "kind": "own",
+          "role": "following_guna_vowel",
+          "case": "7"
+        },
+        {
+          "term": "अचि",
+          "source": "6.1.77",
+          "kind": "anuvrtti",
+          "role": "following_vowel"
+        },
+        {
+          "term": "पररूपम्",
+          "source": "6.1.94",
+          "kind": "anuvrtti",
+          "role": "posterior_form_ekadesha"
+        },
+        {
+          "term": "अपदान्तात्",
+          "source": "6.1.96",
+          "kind": "anuvrtti",
+          "role": "non_pada_final_preceding_vowel"
+        },
+        {
+          "term": "संहितायाम्",
+          "source": "6.1.72",
+          "kind": "adhikara",
+          "role": "close_junction"
+        },
+        {
+          "term": "एकः पूर्वपरयोः",
+          "source": "6.1.84",
+          "kind": "adhikara",
+          "role": "joint_two_sound_target"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61097",
+          "anchor": "अपदान्तादिति वर्तते।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "61097",
+          "field": "s",
+          "anchor": "अतो गुणे"
+        }
+      ],
+      "sanskrit": "अतो गुणे"
+    },
+    {
+      "sid": "7.1.3",
+      "opcode": "replace_affix_jh_with_ant",
+      "terms": [
+        {
+          "term": "झः",
+          "source": "7.1.3",
+          "kind": "own",
+          "role": "jh_target",
+          "case": "6"
+        },
+        {
+          "term": "अन्तः",
+          "source": "7.1.3",
+          "kind": "own",
+          "role": "ant_substitute",
+          "case": "1"
+        },
+        {
+          "term": "प्रत्ययस्य",
+          "source": "7.1.2",
+          "kind": "anuvrtti",
+          "role": "affix_member_domain"
+        },
+        {
+          "term": "अङ्गस्य",
+          "source": "6.4.1",
+          "kind": "adhikara",
+          "role": "affix_relative_anga_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "71003",
+          "anchor": "प्रत्ययग्रहणमनुवर्तते, आदिग्रहणं निवृत्तम्।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "71003",
+          "field": "s",
+          "anchor": "झोऽन्तः"
+        }
+      ],
+      "sanskrit": "झोऽन्तः"
+    },
+    {
+      "sid": "7.2.81",
+      "opcode": "replace_initial_a_with_iy",
+      "terms": [
+        {
+          "term": "आतः",
+          "source": "7.2.81",
+          "kind": "own",
+          "role": "a_long_target",
+          "case": "6"
+        },
+        {
+          "term": "ङितः",
+          "source": "7.2.81",
+          "kind": "own",
+          "role": "ngit_affix_owner",
+          "case": "6"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "7.2.76",
+          "kind": "anuvrtti",
+          "role": "following_sarvadhatuka"
+        },
+        {
+          "term": "इयः",
+          "source": "7.2.80",
+          "kind": "anuvrtti",
+          "role": "iy_substitute"
+        },
+        {
+          "term": "अतः",
+          "source": "7.2.80",
+          "kind": "anuvrtti",
+          "role": "preceding_short_a_anga"
+        },
+        {
+          "term": "अङ्गस्य",
+          "source": "6.4.1",
+          "kind": "adhikara",
+          "role": "affix_relative_anga_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "72081",
+          "anchor": "आकारस्य ङिदवयवस्य अकारान्ताद् अङ्गादुत्तरस्य सार्वधातुकस्येय् इत्ययमादेशो भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "72081",
+          "field": "s",
+          "anchor": "आतो ङितः"
+        }
+      ],
+      "sanskrit": "आतो ङितः"
+    },
+    {
+      "sid": "7.3.74",
+      "opcode": "lengthen_identified_samadi_before_syan",
+      "terms": [
+        {
+          "term": "शमाम्",
+          "source": "7.3.74",
+          "kind": "own",
+          "role": "samadi_lexical_group",
+          "case": "6"
+        },
+        {
+          "term": "अष्टानाम्",
+          "source": "7.3.74",
+          "kind": "own",
+          "role": "eight_members",
+          "case": "6"
+        },
+        {
+          "term": "दीर्घः",
+          "source": "7.3.74",
+          "kind": "own",
+          "role": "lengthening",
+          "case": "1"
+        },
+        {
+          "term": "श्यनि",
+          "source": "7.3.74",
+          "kind": "own",
+          "role": "following_syan",
+          "case": "7"
+        },
+        {
+          "term": "अङ्गस्य",
+          "source": "6.4.1",
+          "kind": "adhikara",
+          "role": "affix_relative_anga_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "73074",
+          "anchor": "शमादीनामष्टानां दीर्घो भवति श्यनि परतः।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "73074",
+          "field": "s",
+          "anchor": "शमामष्टानां दीर्घः श्यनि"
+        }
+      ],
+      "sanskrit": "शमामष्टानां दीर्घः श्यनि"
+    },
+    {
+      "sid": "7.3.84",
+      "opcode": "final_ik_guna",
+      "terms": [
+        {
+          "term": "सार्वधातुक-आर्धधातुकयोः",
+          "source": "7.3.84",
+          "kind": "own",
+          "role": "following_sarvadhatuka_or_ardhadhatuka",
+          "case": "7"
+        },
+        {
+          "term": "गुणः",
+          "source": "7.3.82",
+          "kind": "anuvrtti",
+          "role": "guna_substitute"
+        },
+        {
+          "term": "अङ्गस्य",
+          "source": "6.4.1",
+          "kind": "adhikara",
+          "role": "affix_relative_anga_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "73084",
+          "anchor": "सार्वधातुक आर्धधातुके च प्रत्यये परत इगन्तस्याङ्गस्य गुणो भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "73084",
+          "field": "s",
+          "anchor": "सार्वधातुकार्धधातुकयोः"
+        }
+      ],
+      "sanskrit": "सार्वधातुकार्धधातुकयोः"
+    },
+    {
+      "sid": "7.3.86",
+      "opcode": "reviewed_light_ik_upadha_guna",
+      "terms": [
+        {
+          "term": "पुगन्तलघूपधस्य",
+          "source": "7.3.86",
+          "kind": "own",
+          "role": "puk_ending_or_light_ik_upadha",
+          "case": "6"
+        },
+        {
+          "term": "च",
+          "source": "7.3.86",
+          "kind": "own",
+          "role": "coordination",
+          "case": "0"
+        },
+        {
+          "term": "गुणः",
+          "source": "7.3.82",
+          "kind": "anuvrtti",
+          "role": "guna_substitute"
+        },
+        {
+          "term": "सार्वधातुक-आर्धधातुकयोः",
+          "source": "7.3.84",
+          "kind": "anuvrtti",
+          "role": "following_sarvadhatuka_or_ardhadhatuka"
+        },
+        {
+          "term": "अङ्गस्य",
+          "source": "6.4.1",
+          "kind": "adhikara",
+          "role": "affix_relative_anga_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "73086",
+          "anchor": "पुगन्तस्याङ्गस्य लघूपधस्य च सार्वधातुकार्धधातुकयोर्गुणो भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "73086",
+          "field": "s",
+          "anchor": "पुगन्तलघूपधस्य च"
+        }
+      ],
+      "sanskrit": "पुगन्तलघूपधस्य च"
+    },
+    {
+      "sid": "7.3.101",
+      "opcode": "lengthen_a_before_yan",
+      "terms": [
+        {
+          "term": "अतः",
+          "source": "7.3.101",
+          "kind": "own",
+          "role": "a_ending_anga",
+          "case": "6"
+        },
+        {
+          "term": "दीर्घः",
+          "source": "7.3.101",
+          "kind": "own",
+          "role": "lengthening",
+          "case": "1"
+        },
+        {
+          "term": "यञि",
+          "source": "7.3.101",
+          "kind": "own",
+          "role": "following_yan_initial_affix",
+          "case": "7"
+        },
+        {
+          "term": "सार्वधातुके",
+          "source": "7.3.87",
+          "kind": "anuvrtti",
+          "role": "following_sarvadhatuka"
+        },
+        {
+          "term": "अङ्गस्य",
+          "source": "6.4.1",
+          "kind": "adhikara",
+          "role": "affix_relative_anga_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "73101",
+          "anchor": "अकारान्तस्याङ्गस्य दीर्घो भवति यञादौ सार्वधातुके परतः।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "73101",
+          "field": "s",
+          "anchor": "अतो दीर्घो यञि"
+        }
+      ],
+      "sanskrit": "अतो दीर्घो यञि"
+    },
+    {
+      "sid": "8.2.66",
+      "opcode": "pada_final_s_ru",
+      "terms": [
+        {
+          "term": "ससजुषोः",
+          "source": "8.2.66",
+          "kind": "own",
+          "role": "s_ending_pada_or_sajus",
+          "case": "6"
+        },
+        {
+          "term": "रुः",
+          "source": "8.2.66",
+          "kind": "own",
+          "role": "ru_substitute",
+          "case": "1"
+        },
+        {
+          "term": "पदस्य",
+          "source": "8.1.16",
+          "kind": "adhikara",
+          "role": "pada_domain"
+        },
+        {
+          "term": "पूर्वत्रासिद्धम्",
+          "source": "8.2.1",
+          "kind": "adhikara",
+          "role": "tripadi_visibility_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "82066",
+          "anchor": "सकारान्तस्य पदस्य सजुष् इत्येतस्य च रुर्भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "82066",
+          "field": "s",
+          "anchor": "ससजुषो रुः"
+        }
+      ],
+      "sanskrit": "ससजुषो रुः"
+    },
+    {
+      "sid": "8.2.77",
+      "opcode": "r_v_root_upadha_length_before_consonant",
+      "terms": [
+        {
+          "term": "हलि",
+          "source": "8.2.77",
+          "kind": "own",
+          "role": "following_consonant",
+          "case": "7"
+        },
+        {
+          "term": "च",
+          "source": "8.2.77",
+          "kind": "own",
+          "role": "coordination",
+          "case": "0"
+        },
+        {
+          "term": "धातोः",
+          "source": "8.2.74",
+          "kind": "anuvrtti",
+          "role": "root_domain"
+        },
+        {
+          "term": "उपधायाः",
+          "source": "8.2.76",
+          "kind": "anuvrtti",
+          "role": "penultimate_root_sound"
+        },
+        {
+          "term": "इकः",
+          "source": "8.2.76",
+          "kind": "anuvrtti",
+          "role": "ik_domain"
+        },
+        {
+          "term": "र्वोः",
+          "source": "8.2.76",
+          "kind": "anuvrtti",
+          "role": "r_or_v_ending_root"
+        },
+        {
+          "term": "दीर्घ",
+          "source": "8.2.76",
+          "kind": "anuvrtti",
+          "role": "lengthening"
+        },
+        {
+          "term": "पूर्वत्रासिद्धम्",
+          "source": "8.2.1",
+          "kind": "adhikara",
+          "role": "tripadi_visibility_domain"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "82077",
+          "anchor": "हलि च परतो रेफवकारान्तस्य धातोरुपधाया इको दीर्घो भवति।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "82077",
+          "field": "s",
+          "anchor": "हलि च"
+        }
+      ],
+      "sanskrit": "हलि च"
+    },
+    {
+      "sid": "8.3.15",
+      "opcode": "pause_visarga",
+      "terms": [
+        {
+          "term": "खर्-अवसानयोः",
+          "source": "8.3.15",
+          "kind": "own",
+          "role": "following_khar_or_pause",
+          "case": "7"
+        },
+        {
+          "term": "विसर्जनीयः",
+          "source": "8.3.15",
+          "kind": "own",
+          "role": "visarga_substitute",
+          "case": "1"
+        },
+        {
+          "term": "रः",
+          "source": "8.3.14",
+          "kind": "anuvrtti",
+          "role": "r_ending_target"
+        },
+        {
+          "term": "पदस्य",
+          "source": "8.1.16",
+          "kind": "adhikara",
+          "role": "pada_domain"
+        },
+        {
+          "term": "पूर्वत्रासिद्धम्",
+          "source": "8.2.1",
+          "kind": "adhikara",
+          "role": "tripadi_visibility_domain"
+        },
+        {
+          "term": "संहितायाम्",
+          "source": "8.2.108",
+          "kind": "adhikara",
+          "role": "close_junction"
+        }
+      ],
+      "requires": {},
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "83015",
+          "anchor": "र इति वर्तते।"
+        },
+        {
+          "path": "sutraani/data.txt",
+          "key": "83015",
+          "field": "s",
+          "anchor": "खरवसानयोर्विसर्जनीयः"
+        }
+      ],
+      "sanskrit": "खरवसानयोर्विसर्जनीयः"
+    }
+  ],
+  "scope_policies": [
+    {
+      "id": "jho-anta-affix-member-not-only-initial",
+      "target": "7.1.3",
+      "source": "7.1.2",
+      "kind": "anuvrtti",
+      "raw_term": "प्रत्ययादीनाम्",
+      "retained_term": "प्रत्ययस्य",
+      "excluded_term": "आदि",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "71003",
+          "anchor": "प्रत्ययग्रहणमनुवर्तते, आदिग्रहणं निवृत्तम्।"
+        }
+      ]
+    }
+  ],
+  "affixes": {
+    "śap": {
+      "teaching": "शप्",
+      "identity": "śap:3.1.68",
+      "rule": "3.1.68",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31068",
+          "anchor": "कर्तृवाचिनि सार्वधातुके परतो धातोः शप् प्रत्ययो भवति।"
+        }
+      ]
+    },
+    "śyan": {
+      "teaching": "श्यन्",
+      "identity": "śyan:3.1.69",
+      "rule": "3.1.69",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31069",
+          "anchor": "दिव् इत्येवमादिभ्यो धातुभ्यः श्यन् प्रत्ययो भवति।"
+        }
+      ]
+    },
+    "śnu": {
+      "teaching": "श्नु",
+      "identity": "śnu:3.1.73",
+      "rule": "3.1.73",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31073",
+          "anchor": "<<षुञ् अभिषवे>> इत्येवमादिभ्यो धातुभ्यः श्नुप्रत्ययो भवति।"
+        }
+      ]
+    },
+    "śa": {
+      "teaching": "श",
+      "identity": "śa:3.1.77",
+      "rule": "3.1.77",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31077",
+          "anchor": "<<तुद व्यथने>> इत्येवमादिभ्यो धातुभ्यः शप्रत्ययो भवति।"
+        }
+      ]
+    },
+    "śnam": {
+      "teaching": "श्नम्",
+      "identity": "śnam:3.1.78",
+      "rule": "3.1.78",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31078",
+          "anchor": "<<रुधिर् आवरणे>> इत्येवमादिभ्यो धातुभ्यः श्नम् प्रत्ययो भवति।"
+        }
+      ]
+    },
+    "u": {
+      "teaching": "उ",
+      "identity": "u:3.1.79",
+      "rule": "3.1.79",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31079",
+          "anchor": "<<तनु विस्तारे>> इत्येवमादिभ्यो धातुभ्यः कृञश्च उप्रत्ययो भवति।"
+        }
+      ]
+    },
+    "śnā": {
+      "teaching": "श्ना",
+      "identity": "śnā:3.1.81",
+      "rule": "3.1.81",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31081",
+          "anchor": "<<डुक्रीञ् द्रव्यविनिमये>> इत्येवमादिभ्यो धातुभ्यः श्नाप्रत्ययो भवति।"
+        }
+      ]
+    },
+    "ṇic": {
+      "teaching": "णिच्",
+      "identity": "ṇic:3.1.25",
+      "rule": "3.1.25",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31025",
+          "anchor": "सत्यादिभ्यश्चूर्णपर्यन्तेभ्यश्चुरादिभ्यश्च णिच् प्रत्ययो भवति।"
+        }
+      ]
+    }
+  },
+  "class_prescriptions": {
+    "1": {
+      "affix": "śap",
+      "rule": "3.1.68"
+    },
+    "2": {
+      "affix": "śap",
+      "rule": "3.1.68",
+      "whole_affix_deletion": {
+        "kind": "luk",
+        "rule": "2.4.72"
+      }
+    },
+    "3": {
+      "affix": "śap",
+      "rule": "3.1.68",
+      "whole_affix_deletion": {
+        "kind": "ślu",
+        "rule": "2.4.75"
+      }
+    },
+    "4": {
+      "affix": "śyan",
+      "rule": "3.1.69"
+    },
+    "5": {
+      "affix": "śnu",
+      "rule": "3.1.73"
+    },
+    "6": {
+      "affix": "śa",
+      "rule": "3.1.77"
+    },
+    "7": {
+      "affix": "śnam",
+      "rule": "3.1.78"
+    },
+    "8": {
+      "affix": "u",
+      "rule": "3.1.79"
+    },
+    "9": {
+      "affix": "śnā",
+      "rule": "3.1.81"
+    },
+    "10": {
+      "affix": "śap",
+      "rule": "3.1.68",
+      "preparation": {
+        "affix": "ṇic",
+        "rule": "3.1.25",
+        "derived_dhatu_rule": "3.1.32"
+      }
+    }
+  },
+  "priority": [
+    {
+      "winner": "3.1.69",
+      "loser": "3.1.68",
+      "domain": "reviewed lexical class; kartari and sarvadhatuka",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31069",
+          "anchor": "शपोऽपवादः।"
+        }
+      ]
+    },
+    {
+      "winner": "3.1.73",
+      "loser": "3.1.68",
+      "domain": "reviewed lexical class; kartari and sarvadhatuka",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31073",
+          "anchor": "शपोऽपवादः।"
+        }
+      ]
+    },
+    {
+      "winner": "3.1.77",
+      "loser": "3.1.68",
+      "domain": "reviewed lexical class; kartari and sarvadhatuka",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31077",
+          "anchor": "शपोऽपवादः।"
+        }
+      ]
+    },
+    {
+      "winner": "3.1.78",
+      "loser": "3.1.68",
+      "domain": "reviewed lexical class; kartari and sarvadhatuka",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31078",
+          "anchor": "शपोऽपवादः।"
+        }
+      ]
+    },
+    {
+      "winner": "3.1.79",
+      "loser": "3.1.68",
+      "domain": "reviewed lexical class; kartari and sarvadhatuka",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31079",
+          "anchor": "शपोऽपवादः।"
+        }
+      ]
+    },
+    {
+      "winner": "3.1.81",
+      "loser": "3.1.68",
+      "domain": "reviewed lexical class; kartari and sarvadhatuka",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "31081",
+          "anchor": "शपोऽपवादः।"
+        }
+      ]
+    },
+    {
+      "winner": "6.1.97",
+      "loser": "6.1.101",
+      "domain": "non-pada-final a before a",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61097",
+          "anchor": "अकः सवर्णे दीर्घस्य [[६.१.१०१]] अपवादः।"
+        }
+      ]
+    },
+    {
+      "winner": "6.1.97",
+      "loser": "6.1.88",
+      "domain": "non-pada-final a before e/o",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "61097",
+          "anchor": "पचे,यज इत्यत्र <<वृद्धिरेचि>> [[६.१.८८]] इति वृद्धिः प्राप्नोति।"
+        }
+      ]
+    },
+    {
+      "winner": "3.4.80",
+      "loser": "3.4.79",
+      "domain": "thas of tit lakara",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "34080",
+          "anchor": "टित इत्येव।"
+        }
+      ]
+    },
+    {
+      "winner": "1.1.5",
+      "loser": "7.3.84/7.3.86",
+      "domain": "guna caused by an affix that is kit/ngit/ngitvat",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11005",
+          "anchor": "निमित्तसप्तम्येषा।"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "11005",
+          "anchor": "लघूपधगुणस्याप्यत्र प्रतिषेधः।"
+        }
+      ]
+    }
+  ],
+  "ending_order": {
+    "persons": [
+      "prathama",
+      "madhyama",
+      "uttama"
+    ],
+    "numbers": [
+      "eka",
+      "dvi",
+      "bahu"
+    ],
+    "evidence": [
+      {
+        "path": "sutraani/kashika.txt",
+        "key": "14101",
+        "anchor": "तिङोऽष्टादश प्रत्ययाः नव परस्मैपदसंज्ञकाः नवात्मनेपदसंज्ञकाः।"
+      },
+      {
+        "path": "sutraani/kashika.txt",
+        "key": "14102",
+        "anchor": "तानि एकवचनद्विवचनबहुवचनसंज्ञानि भवन्ति।"
+      }
+    ]
+  },
+  "endings": {
+    "P": [
+      "तिप्",
+      "तस्",
+      "झि",
+      "सिप्",
+      "थस्",
+      "थ",
+      "मिप्",
+      "वस्",
+      "मस्"
+    ],
+    "A": [
+      "त",
+      "आताम्",
+      "झ",
+      "थास्",
+      "आथाम्",
+      "ध्वम्",
+      "इट्",
+      "वहि",
+      "महिङ्"
+    ]
+  },
+  "profile_evidence": [
+    {
+      "path": "sutraani/kashika.txt",
+      "key": "32123",
+      "anchor": "प्रारब्धोऽपरिसमाप्तश्च वर्तमानः।"
+    },
+    {
+      "path": "sutraani/kashika.txt",
+      "key": "34077",
+      "anchor": "लकारमात्रं स्थानित्वेनाधिक्रियते।"
+    },
+    {
+      "path": "sutraani/kashika.txt",
+      "key": "11064",
+      "anchor": "आताम्, आथाम् — आम्शब्दः।"
+    },
+    {
+      "path": "sutraani/kashika.txt",
+      "key": "11061",
+      "anchor": "अदर्शनमिति वर्तते।"
+    },
+    {
+      "path": "sutraani/kashika.txt",
+      "key": "11063",
+      "anchor": "पूर्वेणातिप्रसक्तं प्रत्ययलक्षणमिति विशेषे प्रतिषेध उच्यते।"
+    },
+    {
+      "path": "sutraani/kashika.txt",
+      "key": "61010",
+      "anchor": "श्लौ परतोऽनभ्यासस्य धातेरवयवस्य प्रथमस्यैकाचो द्वितीयस्य वा यथायोगं द्वे भवतः।"
+    },
+    {
+      "path": "sutraani/kashika.txt",
+      "key": "14013",
+      "anchor": "यस्मात् प्रत्ययो विधीयते धातोर्वा प्रातिपदिकाद् वा तदादि शब्दरूपं प्रत्यये परतोऽङ्गसंज्ञं भवति।"
+    },
+    {
+      "path": "sutraani/balamanorama.txt",
+      "key": "34080",
+      "anchor": "लट उत्तमपुरुषैकवचने इडादेशे एत्वे शपि एध ए इति स्थिते प्रक्रियां दर्शयति"
+    }
+  ]
+}

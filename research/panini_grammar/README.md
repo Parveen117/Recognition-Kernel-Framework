@@ -28,6 +28,14 @@ root-headword diagnostic reaches 2,219 agreements, with eight differences and
 two unresolved entries retained. Full grammar obligations are listed in its
 [remaining-work register](scoped_derivations/REMAINING.md).
 
+**Vikaraṇa selection and complete bounded laṭ:** [PG5](vikarana_lat/README.md)
+adds 39 source-bound records and witnessed selection across ten gaṇas.
+Thirteen identified roots have complete unaccented laṭ paths: 162 cells and
+198 branches across 18 pada paradigms. Literal commentary cases and retained
+history checks are kept separate from comparison with another implementation.
+Non-thematic stems, infixes and reduplication lead its
+[remaining-work register](vikarana_lat/REMAINING.md).
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

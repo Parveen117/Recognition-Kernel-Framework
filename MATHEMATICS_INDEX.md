@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 1 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG4 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
+Index update: 1 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG5 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -96,6 +96,23 @@ all-sūtra compilation or a Sanskrit soundness oracle. Source-bound records,
 reused operations and full rule completeness are distinguished in the
 [remaining-work register](research/panini_grammar/scoped_derivations/REMAINING.md).
 Frozen predecessor packets, the operator engine and the calculator are unchanged.
+
+[PG5: vikaraṇa selection and bounded laṭ derivations](research/panini_grammar/vikarana_lat/README.md)
+adds 39 source-bound records and 28 identified lexical entries, including
+selection examples across all ten gaṇas and one corrected anuvṛtti reading
+at 7.1.3. Complete classical thematic laṭ paths cover 13 roots, 18 pada
+paradigms, 162 person-number cells and 198 optional/mandatory branches.
+The stage distinguishes śap/śa marker effects, trigger-relative guṇa
+prohibition, luk/ślu, the two cur/ṇic aṅgas and the local T66 edhe path
+correction. Forty commentary word cases, 25 selection cases, 22 expected
+refusals and 44 direct controls are separate from the full comparison with
+pinned Vidyut output. Neither comparison agreement nor record counts
+establish all-sūtra coverage or a Sanskrit validity oracle. The
+[remaining register](research/panini_grammar/vikarana_lat/REMAINING.md) starts
+with non-thematic stems, infixes and reduplication; the
+[validation record](research/panini_grammar/vikarana_lat/VALIDATION.md) preserves
+the source, scope and CI/merge boundaries. This is a linguistic adapter,
+not a new operator or calculator theorem.
 
 ## Śaiva sources and the sūtra as an instruction: Theorems 78–82
 
