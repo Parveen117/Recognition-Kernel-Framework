@@ -82,6 +82,7 @@ def _norm(s: str) -> str:
 
 # ---------------------------------------------------------------- curated texts (IAST); blank = not yet entered
 TEXT = {
+    "3.1.67": "sārvadhātuke yak", "3.4.69": "laḥ karmaṇi ca bhāve cākarmakebhyaḥ", "1.3.13": "bhāvakarmaṇoḥ", "6.4.66": "ghumāsthāgāpājahātisāṁ hali", "6.1.15": "vacisvapiyajādīnāṁ kiti", "6.1.108": "samprasāraṇāc ca", "1.1.45": "ig yaṇaḥ samprasāraṇam",
     "7.1.70": "ugidacāṁ sarvanāmasthāne 'dhātoḥ", "1.1.47": "mid aco 'ntyāt paraḥ", "6.4.14": "atvasantasya cādhātoḥ", "8.2.23": "saṁyogāntasya lopaḥ", "5.2.94": "tad asyāsty asminn iti matup", "8.2.9": "mād upadhāyāś ca mator vo 'yavādibhyaḥ", "1.1.42": "śi sarvanāmasthānam", "1.1.43": "suḍ anapuṁsakasya",
     "3.1.22": "dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ", "7.4.82": "guṇo yaṅlukoḥ", "7.4.83": "dīrgho 'kitaḥ", "7.4.85": "nugato 'nunāsikāntasya", "7.4.27": "rīṅ ṛtaḥ",
     "3.1.91": "dhātoḥ", "3.1.93": "kṛd atiṅ", "3.3.18": "bhāve", "3.3.16": "padarujaviśaspṛśo ghañ", "3.3.115": "lyuṭ ca", "3.1.133": "ṇvultṛcau", "3.4.67": "kartari kṛt", "3.2.124": "laṭaḥ śatṛśānacāv aprathamāsamānādhikaraṇe", "7.1.1": "yuvor anākau", "7.3.52": "cajoḥ ku ghiṇṇyatoḥ",
@@ -172,6 +173,7 @@ COMPILED = {  # theorum/80 record compiler
     "80": ["6.1.77", "6.1.78", "6.1.87", "6.1.88", "6.1.101", "7.3.77", "6.1.73", "6.1.71", "8.4.40", "7.3.84"],
 }
 META = {  # interpreter / saṁjñā / paribhāṣā sūtras implemented by a certificate
+    "110": ["3.1.67", "1.3.13", "1.1.45"],
     "109": ["1.1.47", "5.2.94", "1.1.42", "1.1.43", "1.4.17"],
     "108": ["3.1.22", "3.1.32"],
     "107": ["3.1.91", "3.1.93", "1.2.46", "3.3.18", "3.3.16", "3.3.115", "3.4.67", "3.2.124"],
@@ -205,6 +207,7 @@ META = {  # interpreter / saṁjñā / paribhāṣā sūtras implemented by a ce
     "80": ["1.1.49", "1.1.66", "1.1.67", "6.1.84", "6.1.72", "1.1.69", "1.1.70", "1.1.52", "1.1.55", "1.1.46", "1.3.10", "1.1.50", "1.1.51", "1.4.2", "1.1.1", "1.1.2", "6.4.1"],
 }
 HAND_CODED = {  # exact finite functions in certified packets: the numbers each packet's source actually carries
+    "110": ["1.1.5", "6.4.66", "6.1.15", "6.1.108", "7.1.3", "6.1.97", "3.4.79"],
     "109": ["7.1.70", "6.4.14", "8.2.23", "8.2.9"],
     "108": ["7.4.27", "6.1.9", "7.4.59", "7.4.60", "7.4.62", "8.4.54", "7.4.82", "7.4.83", "7.4.85", "8.3.24", "8.4.58", "1.1.5", "3.4.79"],
     "107": ["7.1.1", "7.2.115", "7.2.116", "7.3.52", "7.3.84", "7.3.86", "1.1.51", "6.1.78", "8.4.2", "6.1.97"],
@@ -238,7 +241,7 @@ HAND_CODED = {  # exact finite functions in certified packets: the numbers each 
     "67": ["6.1.87", "6.1.113", "6.1.114", "6.4.77", "7.2.102", "7.2.106", "8.1.21", "8.2.1", "8.2.66", "8.3.15", "8.3.23"],
     "68": ["1.1.62", "1.4.23", "1.4.24", "1.4.32", "1.4.42", "1.4.45", "1.4.49", "1.4.54", "2.3.1", "2.3.2", "2.3.13", "2.3.18", "2.3.28", "2.3.36", "2.3.46", "2.3.50", "3.4.69"],
 }
-PACKET_OF = {"58": "paninian_seam_calculus", "63": "sup_vibhakti_resolver_ladder", "64": "ting_lat_parasmaipada", "65": "stem_classes_gayatri_coverage", "66": "lat_atmanepada", "67": "pada_to_line_external_sandhi", "68": "karaka_vibhakti_carrier", "80": "paninian_instruction_format", "81": "paninian_samjna_sound_layer", "82": "paninian_it_samjna_compiled", "85": "nirukta_nama_akhyatajani", "86": "nirukta_dhatupatha_nama", "87": "tripadi_nishtha_compiled", "88": "ap_stem_sup_compiled", "89": "ngi_stem_sup_compiled", "90": "r_stem_sup_compiled", "91": "ghi_stem_sup_compiled", "92": "hal_stem_sup_compiled", "93": "napumsaka_sup_compiled", "94": "sarvanama_sup_compiled", "95": "lan_parasmaipada_compiled", "96": "lot_lin_parasmaipada_compiled", "97": "lrt_lut_parasmaipada_compiled", "98": "sarvanama_ap_sup_compiled", "99": "atmanepada_lan_lot_lin_compiled", "100": "krt_ktva_tumun_tavya_compiled", "101": "lun_parasmaipada_compiled", "102": "lit_parasmaipada_compiled", "103": "taddhita_an_in_yan_compiled", "104": "samasa_compiled", "105": "nic_causative_compiled", "106": "san_desiderative_compiled", "107": "krt_ghan_lyut_nvul_satr_compiled", "108": "yan_intensive_compiled", "109": "ugit_at_stem_sup_compiled"}
+PACKET_OF = {"58": "paninian_seam_calculus", "63": "sup_vibhakti_resolver_ladder", "64": "ting_lat_parasmaipada", "65": "stem_classes_gayatri_coverage", "66": "lat_atmanepada", "67": "pada_to_line_external_sandhi", "68": "karaka_vibhakti_carrier", "80": "paninian_instruction_format", "81": "paninian_samjna_sound_layer", "82": "paninian_it_samjna_compiled", "85": "nirukta_nama_akhyatajani", "86": "nirukta_dhatupatha_nama", "87": "tripadi_nishtha_compiled", "88": "ap_stem_sup_compiled", "89": "ngi_stem_sup_compiled", "90": "r_stem_sup_compiled", "91": "ghi_stem_sup_compiled", "92": "hal_stem_sup_compiled", "93": "napumsaka_sup_compiled", "94": "sarvanama_sup_compiled", "95": "lan_parasmaipada_compiled", "96": "lot_lin_parasmaipada_compiled", "97": "lrt_lut_parasmaipada_compiled", "98": "sarvanama_ap_sup_compiled", "99": "atmanepada_lan_lot_lin_compiled", "100": "krt_ktva_tumun_tavya_compiled", "101": "lun_parasmaipada_compiled", "102": "lit_parasmaipada_compiled", "103": "taddhita_an_in_yan_compiled", "104": "samasa_compiled", "105": "nic_causative_compiled", "106": "san_desiderative_compiled", "107": "krt_ghan_lyut_nvul_satr_compiled", "108": "yan_intensive_compiled", "109": "ugit_at_stem_sup_compiled", "110": "passive_yak_compiled"}
 THEOREM_FILE = {
     "56": "theorum/56_canvas_operators_nativized_theorem.md", "58": "theorum/58_paninian_seam_calculus_theorem.md",
     "60": "theorum/60_seam_compensated_confluence_verdict_theorem.md", "61": "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
@@ -275,6 +278,7 @@ THEOREM_FILE = {
     "107": "theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md",
     "108": "theorum/108_yan_intensive_compiled_theorem.md",
     "109": "theorum/109_ugit_at_stem_sup_compiled_theorem.md",
+    "110": "theorum/110_passive_yak_compiled_theorem.md",
 }
 SCAN = [THEOREM_FILE[k] for k in THEOREM_FILE] + ["theorum/70_angatva_pramana_ladder_theorem.md", "theorum/74_lopa_ledger_contraction_theorem.md"]
 NUM = re.compile(r"\b([1-8])\.([1-4])\.([0-9]{1,3})\b")

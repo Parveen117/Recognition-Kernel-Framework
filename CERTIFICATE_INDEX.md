@@ -1267,6 +1267,22 @@ proof_lab/test_ugit_at_stem_sup_compiled.py
 proof_lab/UGIT_AT_STEM_SUP_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 110 The Passive Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | bhūyate, nīyate, gamyate, pacyate, labhyate, hanyate, dīyate, sthīyate, ucyate, supyate, ijyate and their 3p by 3.1.67 / 3.4.69 / 1.3.13 with 1.1.5, 6.4.66, 6.1.15 + 6.1.108 (1.1.45), 7.1.3, 6.1.97, 3.4.79; each rule breaks exactly the forms stated |
+| Status | `PASS_PASSIVE_YAK_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `742d0a1cf7ca58dd30ef7f0117232a91525c275c34d13616abb3c87a623cb687` |
+| Boundary | list membership of 6.1.15 / 6.4.66 declared; kṛ, derived-root passives, other persons / lakāras not claimed |
+
+```text
+theorum/110_passive_yak_compiled_theorem.md
+proof_lab/passive_yak_compiled.py
+proof_lab/test_passive_yak_compiled.py
+proof_lab/PASSIVE_YAK_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |

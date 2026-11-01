@@ -85,6 +85,7 @@ The advanced numbered surface now runs through Theorem 80:
 35. **107 — kṛt ghañ / lyuṭ / ṇvul / śatṛ.** Nineteen words: bhāva, pāka, yoga (7.2.115/116, 7.3.52), bhavana, karaṇa (7.1.1, 7.3.84, 8.4.2), kāraka, pācaka, bhavat, gacchat (3.2.124 on Theorem 58's stem); each rule on exactly its words.
 36. **108 — yaṅ intensives.** Six roots with yaṅ in laṭ ātmanepada 3s: 7.4.27 (cekrīyate), 6.1.9 on Theorem 102's abhyāsa, 7.4.82 guṇa, 7.4.83 / 7.4.85 nuk + 8.3.24 + 8.4.58 (jaṅgamyate), 1.1.5, 3.4.79; each rule on exactly its forms.
 37. **109 — ugit at-stems.** bhavat, bhagavat, dhīmat declined (66 cells) on Theorem 92's carrier: 7.1.70 num (ugit read by Theorem 82, placed by 1.1.47), 6.4.14 (bhavān), 8.2.23, 8.2.9 (bhagavat); each rule on exactly its cells.
+38. **110 — the passive (yak).** Eleven roots in laṭ 3s/3p (22 forms): 3.1.67 yak, 1.1.5, 6.4.66 (dīyate, sthīyate), 6.1.15 + 6.1.108 samprasāraṇa (ucyate, supyate, ijyate), 7.1.3, 3.4.79; each rule on exactly its forms.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -132,7 +133,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-109                           PRESENT
+NUMBERED THEOREM FILES 01-110                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT
