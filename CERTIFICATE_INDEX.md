@@ -1075,6 +1075,22 @@ proof_lab/test_lrt_lut_parasmaipada_compiled.py
 proof_lab/LRT_LUT_PARASMAIPADA_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 98 The Feminine Sarvanāma (Āp) Sup Paradigms Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | sarvā (22) and sā (21) on the āp engine with 7.3.114 syāṭ + shortening and 7.1.52; sarvanāma breaks exactly {4s, 5s, 6s, 7s, 6p}; 7.3.113 superseded; the masculine 7.1.17 / 7.1.15 shown not to reach the feminine (*sarve, *sarvāsmin); 7.2.102 every cell of sā, 7.2.106 exactly 1s |
+| Status | `PASS_SARVANAMA_AP_SUP_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `dc7a91476353ced6c2f85ef1c50ca5eccf55f5469ebcf685f20a381209b68ed9` |
+| Boundary | neuter pronouns, idam / etad / yad, 1.1.34 options, 7.3.115 not claimed; stage order a declared pipeline |
+
+```text
+theorum/98_sarvanama_ap_sup_compiled_theorem.md
+proof_lab/sarvanama_ap_sup_compiled.py
+proof_lab/test_sarvanama_ap_sup_compiled.py
+proof_lab/SARVANAMA_AP_SUP_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |

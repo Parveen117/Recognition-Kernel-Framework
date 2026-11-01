@@ -73,6 +73,7 @@ The advanced numbered surface now runs through Theorem 80:
 23. **95 — laṅ parasmaipada on theorum/58's stems.** abhavat … abhavāma, agacchat …, anayat … (27 forms): 6.4.71 aṭ (placed by 82's marker reading), 3.4.100/101/99, 7.1.3 + 8.2.23, 7.3.101; each stage breaks exactly its cells.
 24. **96 — loṭ and vidhi-liṅ parasmaipada on theorum/58's stems.** bhavatu…bhavāma (3.4.85–92, 6.4.105) and bhavet…bhavema (3.4.103 yāsuṭ, 3.4.108 jus, 7.2.79/80, 6.1.66/97): 54 forms; each stage breaks exactly its cells; 7.3.101 blocked by yāsuṭ.
 25. **97 — lṛṭ and luṭ parasmaipada.** bhaviṣyati/gamiṣyati/neṣyati (3.1.33 sya, iṭ by 7.2.35 / 7.2.58, 7.3.84, 8.3.59) and bhavitā/netā (tās, 2.4.85, 6.4.143, 7.4.50/51): 45 forms; each stage breaks exactly its cells; gantā refused.
+26. **98 — the feminine sarvanāma (āp) paradigms.** sarvā and sā: 7.3.114 syāṭ + hrasva (sarvasyai, sarvasyāḥ, sarvasyām), 7.1.52 (sarvāsām); sarvanāma breaks exactly {4s,5s,6s,7s,6p}; 7.1.17/7.1.15 shown not to reach the feminine; 7.2.102/106 on sā.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -120,7 +121,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-97                           PRESENT
+NUMBERED THEOREM FILES 01-98                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT
