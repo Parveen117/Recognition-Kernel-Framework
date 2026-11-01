@@ -33,7 +33,7 @@ forms; हु has no PG case and stands nāma-only.
 
 **T3 Refusals.** लूञ् (8.2.44 lūna), अदँ (2.4.36 jagdha), डुपचँष् (8.2.30
 pakta), डुलभँष् (8.2.40 / 8.4.53 labdha), तुदँ (8.2.42 tunna), दिवुँ
-(samprasāraṇa dyūta) need rules not realized and are refused by name.
+(samprasāraṇa dyūta) need rules not realized and are refused by name. (Four of these — pakta, labdha, tunna, lūna — are realized in theorum/87; this certificate's refusals and pin stand as recorded.)
 
 ## 3. Certificate
 
