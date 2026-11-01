@@ -175,6 +175,10 @@ jobs:
                   'proof_lab/test_lan_parasmaipada_compiled.py',
                   'proof_lab/LAN_PARASMAIPADA_COMPILED_EXPECTED.sha256',
                   'theorum/95_lan_parasmaipada_compiled_theorem.md',
+                  'proof_lab/lot_lin_parasmaipada_compiled.py',
+                  'proof_lab/test_lot_lin_parasmaipada_compiled.py',
+                  'proof_lab/LOT_LIN_PARASMAIPADA_COMPILED_EXPECTED.sha256',
+                  'theorum/96_lot_lin_parasmaipada_compiled_theorem.md',
                   'research/panini_grammar/vikarana_lat/LEXICAL_ENTRIES.json',
                   'research/panini_grammar/non_thematic_lat/LEXICAL_ENTRIES.json',
                   'research/panini_grammar/vikarana_lat/REFERENCE_CASES.json',
@@ -233,10 +237,10 @@ jobs:
       - name: Check PG1 Sanskrit text inventory and source pins
         if: steps.scope.outputs.pg1 == 'true'
         run: python research/panini_grammar/check_sources.py
-      - name: Check Theorem 78-95 quoted-source certificates, ledger and pins
+      - name: Check Theorem 78-96 quoted-source certificates, ledger and pins
         if: steps.scope.outputs.shaiva == 'true'
         run: |
-          python -B -m unittest proof_lab.test_shaiva_sources_nativized proof_lab.test_shaiva_sources_varga_crystal proof_lab.test_paninian_instruction_format proof_lab.test_paninian_samjna_sound_layer proof_lab.test_paninian_it_samjna_compiled proof_lab.test_paniniya_siksha_sources proof_lab.test_vedanga_sources_quoted proof_lab.test_nirukta_nama_akhyatajani proof_lab.test_nirukta_dhatupatha_nama proof_lab.test_tripadi_nishtha_compiled proof_lab.test_ap_stem_sup_compiled proof_lab.test_ngi_stem_sup_compiled proof_lab.test_r_stem_sup_compiled proof_lab.test_ghi_stem_sup_compiled proof_lab.test_hal_stem_sup_compiled proof_lab.test_napumsaka_sup_compiled proof_lab.test_sarvanama_sup_compiled proof_lab.test_lan_parasmaipada_compiled proof_lab.test_astadhyayi_ledger -v
+          python -B -m unittest proof_lab.test_shaiva_sources_nativized proof_lab.test_shaiva_sources_varga_crystal proof_lab.test_paninian_instruction_format proof_lab.test_paninian_samjna_sound_layer proof_lab.test_paninian_it_samjna_compiled proof_lab.test_paniniya_siksha_sources proof_lab.test_vedanga_sources_quoted proof_lab.test_nirukta_nama_akhyatajani proof_lab.test_nirukta_dhatupatha_nama proof_lab.test_tripadi_nishtha_compiled proof_lab.test_ap_stem_sup_compiled proof_lab.test_ngi_stem_sup_compiled proof_lab.test_r_stem_sup_compiled proof_lab.test_ghi_stem_sup_compiled proof_lab.test_hal_stem_sup_compiled proof_lab.test_napumsaka_sup_compiled proof_lab.test_sarvanama_sup_compiled proof_lab.test_lan_parasmaipada_compiled proof_lab.test_lot_lin_parasmaipada_compiled proof_lab.test_astadhyayi_ledger -v
           python -B -m proof_lab.shaiva_sources_nativized --output /tmp/shaiva_actual.json
           python -B -m proof_lab.shaiva_sources_varga_crystal --output /tmp/shaiva_vc_actual.json
           python -B -m proof_lab.paninian_instruction_format --output /tmp/pif_actual.json
@@ -255,6 +259,7 @@ jobs:
           python -B -m proof_lab.napumsaka_sup_compiled --output /tmp/napumsaka_sup_compiled_actual.json
           python -B -m proof_lab.sarvanama_sup_compiled --output /tmp/sarvanama_sup_compiled_actual.json
           python -B -m proof_lab.lan_parasmaipada_compiled --output /tmp/lan_parasmaipada_compiled_actual.json
+          python -B -m proof_lab.lot_lin_parasmaipada_compiled --output /tmp/lot_lin_parasmaipada_compiled_actual.json
           python - <<'PY'
           import hashlib
           from pathlib import Path
@@ -275,7 +280,8 @@ jobs:
                                    ('/tmp/hal_actual.json', 'proof_lab/HAL_STEM_SUP_COMPILED_EXPECTED.sha256'),
                                    ('/tmp/napumsaka_sup_compiled_actual.json', 'proof_lab/NAPUMSAKA_SUP_COMPILED_EXPECTED.sha256'),
                                    ('/tmp/sarvanama_sup_compiled_actual.json', 'proof_lab/SARVANAMA_SUP_COMPILED_EXPECTED.sha256'),
-                                   ('/tmp/lan_parasmaipada_compiled_actual.json', 'proof_lab/LAN_PARASMAIPADA_COMPILED_EXPECTED.sha256')):
+                                   ('/tmp/lan_parasmaipada_compiled_actual.json', 'proof_lab/LAN_PARASMAIPADA_COMPILED_EXPECTED.sha256'),
+                                   ('/tmp/lot_lin_parasmaipada_compiled_actual.json', 'proof_lab/LOT_LIN_PARASMAIPADA_COMPILED_EXPECTED.sha256')):
               actual = hashlib.sha256(Path(actual_path).read_bytes()).hexdigest()
               expected = Path(pin).read_text(encoding='utf-8').strip()
               assert actual == expected, (pin, actual, expected)

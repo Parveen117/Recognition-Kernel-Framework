@@ -142,6 +142,7 @@ Use the audited [publication copy](theorum/morphic_algebra/main.tex) for mathema
 | Neuter sup | [T93](theorum/93_napumsaka_sup_compiled_theorem.md) | phala/vāri 44 forms via 7.1.23/24, 7.1.19, 7.1.20, 7.1.72/73, 6.4.8; each substitute and num rule breaks exactly its cells; nuṭ before 7.1.73 |
 | Sarvanāma sup | [T94](theorum/94_sarvanama_sup_compiled_theorem.md) | sarva 22 / tad 21 via 1.1.27, 7.1.17/14/15/52, 7.3.103, 7.2.102/106, 6.1.97; sarvanāma breaks exactly {1p,4s,5s,6p,7s}; 7.2.106 exactly 1s |
 | Laṅ parasmaipada | [T95](theorum/95_lan_parasmaipada_compiled_theorem.md) | bhū/gam/nī 27 forms on T58 stems via 6.4.71 (aṭ by T82 placement), 3.4.100/101/99, 7.1.3 + 8.2.23, 7.3.101; each stage breaks exactly its cells |
+| Loṭ / vidhi-liṅ parasmaipada | [T96](theorum/96_lot_lin_parasmaipada_compiled_theorem.md) | 54 forms on T58 stems via 3.4.85–92, 6.4.105; 3.4.103 yāsuṭ, 3.4.108, 7.2.79/80, 6.1.66/97; 7.3.101 blocked by yāsuṭ |
 | Pāṇinian cut-module algebra | [T56](theorum/56_canvas_operators_nativized_theorem.md), [T58](theorum/58_paninian_seam_calculus_theorem.md), [T60](theorum/60_seam_compensated_confluence_verdict_theorem.md), [T61](theorum/61_rewrite_rules_as_cut_module_operators_theorem.md) | finite declared carriers and rule sets |
 | Grammar carriers | [T63–68](#theorems-58-77-paninian-domain-yang-mills-tool-and-semantic-chain) | exact finite nominal, verbal, sandhi, and kāraka/vibhakti carriers |
 | Obligation and evidence ladders | [T69](theorum/69_mimamsa_obligation_closure_theorem.md), [T70](theorum/70_angatva_pramana_ladder_theorem.md) | declared Mīmāṃsā/pramāṇa finite models |
@@ -377,6 +378,7 @@ The register below distinguishes theorem capsules from plans, source maps, certi
 | 93 | [The Neuter Sup Paradigms Compiled](theorum/93_napumsaka_sup_compiled_theorem.md) | phala, vāri; neuter substitutes and num load-bearing |
 | 94 | [The Sarvanāma Sup Paradigms Compiled](theorum/94_sarvanama_sup_compiled_theorem.md) | sarva, tad; sarvanāma on exactly five cells |
 | 95 | [Laṅ Parasmaipada Compiled on Theorem 58's Stems](theorum/95_lan_parasmaipada_compiled_theorem.md) | imperfect on the 58 stems; 27 forms |
+| 96 | [Loṭ and Vidhi-Liṅ Parasmaipada Compiled](theorum/96_lot_lin_parasmaipada_compiled_theorem.md) | imperative and optative on the 58 stems; 54 forms |
 
 ## 7. Parallel theorem registers
 

@@ -1043,6 +1043,22 @@ proof_lab/test_lan_parasmaipada_compiled.py
 proof_lab/LAN_PARASMAIPADA_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 96 Loṭ and Vidhi-Liṅ Parasmaipada Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | loṭ (3.4.85–92, 6.4.105) and vidhi-liṅ (3.4.103 yāsuṭ, 3.4.108, 7.2.79, 7.2.80, 6.1.66, 6.1.97) parasmaipada of bhū, gam, nī on theorum/58's stems: 54 forms; each stage breaks exactly its cells; 7.3.101 blocked by yāsuṭ (bhaveva); 3.4.92 surface-load-bearing on 1s only |
+| Status | `PASS_LOT_LIN_PARASMAIPADA_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `0fd095433be173b03093358c1ca55fd4af77d661d71aa9128cafc330fe25672a` |
+| Boundary | ātmanepada loṭ / liṅ, āśīr-liṅ, other roots not claimed; stage orders declared pipelines |
+
+```text
+theorum/96_lot_lin_parasmaipada_compiled_theorem.md
+proof_lab/lot_lin_parasmaipada_compiled.py
+proof_lab/test_lot_lin_parasmaipada_compiled.py
+proof_lab/LOT_LIN_PARASMAIPADA_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
