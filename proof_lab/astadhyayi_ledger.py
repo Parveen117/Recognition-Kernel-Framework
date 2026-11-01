@@ -28,6 +28,9 @@ OUT_DIR = ROOT / "proof_lab" / "astadhyayi"
 
 # ---------------------------------------------------------------- curated texts (IAST); blank = not yet entered
 TEXT = {
+    "1.3.4": "na vibhaktau tusmāḥ", "1.3.5": "ādir ñiṭuḍavaḥ", "1.3.6": "ṣaḥ pratyayasya", "1.1.60": "adarśanaṁ lopaḥ", "1.1.47": "mid aco 'ntyāt paraḥ",
+    "1.4.13": "yasmāt pratyayavidhis tadādi pratyaye 'ṅgam", "1.4.104": "vibhaktiś ca", "7.3.50": "ṭhasyekaḥ", "7.1.2": "āyaneyīnīyiyaḥ phaḍhakhacchaghāṁ pratyayādīnām",
+    "6.1.64": "dhātvādeḥ ṣaḥ saḥ", "6.1.65": "ṇo naḥ", "6.4.71": "luṅlaṅlṛṅkṣv aḍ udāttaḥ", "7.1.70": "ugidacāṁ sarvanāmasthāne 'dhātoḥ", "7.2.35": "ārdhadhātukasyeḍ valādeḥ",
     "1.1.1": "vṛddhir ādaic", "1.1.2": "adeṅ guṇaḥ", "1.1.3": "iko guṇavṛddhī", "1.1.4": "na dhātulopa ārdhadhātuke",
     "1.1.5": "kṅiti ca", "1.1.6": "dīdhīvevīṭām", "1.1.7": "halo 'nantarāḥ saṁyogaḥ", "1.1.8": "mukhanāsikāvacano 'nunāsikaḥ",
     "1.1.9": "tulyāsyaprayatnaṁ savarṇam", "1.1.10": "nājjhalau", "1.1.11": "īdūdeddvivacanaṁ pragṛhyam",
@@ -75,6 +78,7 @@ COMPILED = {  # theorum/80 record compiler
     "80": ["6.1.77", "6.1.78", "6.1.87", "6.1.88", "6.1.101", "7.3.77", "6.1.73", "6.1.71", "8.4.40", "7.3.84"],
 }
 META = {  # interpreter / saṁjñā / paribhāṣā sūtras implemented by a certificate
+    "82": ["1.3.1", "1.3.2", "1.3.3", "1.3.4", "1.3.5", "1.3.6", "1.3.7", "1.3.8", "1.3.9", "1.1.60", "1.1.46", "1.1.47", "3.1.1", "3.1.2", "1.4.13", "6.4.1", "1.4.104"],
     "81": ["1.1.7", "1.1.8", "1.1.9", "1.1.10", "1.1.11", "6.1.125", "1.1.64", "1.1.65", "1.1.72"],
     "58": ["1.1.1", "1.1.2", "1.1.3", "1.1.62", "1.3.3", "1.3.8", "1.3.9", "1.4.2", "3.4.113"],
     "62": ["8.2.1"],
@@ -91,7 +95,7 @@ HAND_CODED = {  # exact finite functions in certified packets: the numbers each 
     "67": ["6.1.87", "6.1.113", "6.1.114", "6.4.77", "7.2.102", "7.2.106", "8.1.21", "8.2.1", "8.2.66", "8.3.15", "8.3.23"],
     "68": ["1.1.62", "1.4.23", "1.4.24", "1.4.32", "1.4.42", "1.4.45", "1.4.49", "1.4.54", "2.3.1", "2.3.2", "2.3.13", "2.3.18", "2.3.28", "2.3.36", "2.3.46", "2.3.50", "3.4.69"],
 }
-PACKET_OF = {"58": "paninian_seam_calculus", "63": "sup_vibhakti_resolver_ladder", "64": "ting_lat_parasmaipada", "65": "stem_classes_gayatri_coverage", "66": "lat_atmanepada", "67": "pada_to_line_external_sandhi", "68": "karaka_vibhakti_carrier", "80": "paninian_instruction_format", "81": "paninian_samjna_sound_layer"}
+PACKET_OF = {"58": "paninian_seam_calculus", "63": "sup_vibhakti_resolver_ladder", "64": "ting_lat_parasmaipada", "65": "stem_classes_gayatri_coverage", "66": "lat_atmanepada", "67": "pada_to_line_external_sandhi", "68": "karaka_vibhakti_carrier", "80": "paninian_instruction_format", "81": "paninian_samjna_sound_layer", "82": "paninian_it_samjna_compiled"}
 THEOREM_FILE = {
     "56": "theorum/56_canvas_operators_nativized_theorem.md", "58": "theorum/58_paninian_seam_calculus_theorem.md",
     "60": "theorum/60_seam_compensated_confluence_verdict_theorem.md", "61": "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
@@ -102,6 +106,7 @@ THEOREM_FILE = {
     "78": "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md", "79": "theorum/79_shaiva_sources_varga_grid_crystal_theorem.md",
     "80": "theorum/80_paninian_instruction_format_theorem.md",
     "81": "theorum/81_paninian_samjna_sound_layer_theorem.md",
+    "82": "theorum/82_paninian_it_samjna_compiled_theorem.md",
 }
 SCAN = [THEOREM_FILE[k] for k in THEOREM_FILE] + ["theorum/70_angatva_pramana_ladder_theorem.md", "theorum/74_lopa_ledger_contraction_theorem.md"]
 NUM = re.compile(r"\b([1-8])\.([1-4])\.([0-9]{1,3})\b")

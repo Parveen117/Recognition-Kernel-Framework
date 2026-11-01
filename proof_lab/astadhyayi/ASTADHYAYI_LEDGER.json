@@ -9,12 +9,12 @@
   ],
   "counts": {
     "compiled": 10,
-    "meta": 34,
-    "hand_coded": 72,
-    "cited": 38,
+    "meta": 46,
+    "hand_coded": 70,
+    "cited": 43,
     "misnumbered": 2,
-    "entries": 156,
-    "text_missing": 7,
+    "entries": 171,
+    "text_missing": 8,
     "astadhyayi_total": 3959
   },
   "sutras": {
@@ -197,11 +197,25 @@
       "text": "ādyantau ṭakitau",
       "level": "meta",
       "theorems": [
-        "T80"
+        "T80",
+        "T82"
       ],
       "cited_in": [
         "proof_lab/paninian_instruction_format.py",
-        "theorum/80_paninian_instruction_format_theorem.md"
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/80_paninian_instruction_format_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.1.47": {
+      "text": "mid aco 'ntyāt paraḥ",
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
     "1.1.49": {
@@ -276,6 +290,17 @@
       "theorems": [],
       "cited_in": []
     },
+    "1.1.60": {
+      "text": "adarśanaṁ lopaḥ",
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
     "1.1.62": {
       "text": "pratyayalope pratyayalakṣaṇam",
       "level": "meta",
@@ -293,7 +318,8 @@
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/68_karaka_vibhakti_carrier_theorem.md",
         "theorum/74_lopa_ledger_contraction_theorem.md",
-        "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md"
+        "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
     "1.1.63": {
@@ -445,20 +471,28 @@
     },
     "1.3.1": {
       "text": "bhūvādayo dhātavaḥ",
-      "level": "cited",
-      "theorems": [],
-      "cited_in": []
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
     },
     "1.3.2": {
       "text": "upadeśe 'janunāsika it",
-      "level": "hand_coded",
+      "level": "meta",
       "theorems": [
-        "T63"
+        "T63",
+        "T82"
       ],
       "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "theorum/58_paninian_seam_calculus_theorem.md",
-        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
+        "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
     "1.3.3": {
@@ -468,11 +502,13 @@
         "T58",
         "T63",
         "T64",
-        "T66"
+        "T66",
+        "T82"
       ],
       "cited_in": [
         "proof_lab/lat_atmanepada.py",
         "proof_lab/mimamsa_obligation_closure.py",
+        "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/paninian_seam_calculus.py",
         "proof_lab/shaiva_sources_nativized.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
@@ -480,17 +516,54 @@
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
-        "theorum/80_paninian_instruction_format_theorem.md"
+        "theorum/80_paninian_instruction_format_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.3.4": {
+      "text": "na vibhaktau tusmāḥ",
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.3.5": {
+      "text": "ādir ñiṭuḍavaḥ",
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.3.6": {
+      "text": "ṣaḥ pratyayasya",
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
     "1.3.7": {
       "text": "cuṭū",
-      "level": "hand_coded",
+      "level": "meta",
       "theorems": [
-        "T63"
+        "T63",
+        "T82"
       ],
       "cited_in": [
-        "proof_lab/sup_vibhakti_resolver_ladder.py"
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
     "1.3.8": {
@@ -499,14 +572,17 @@
       "theorems": [
         "T58",
         "T63",
-        "T64"
+        "T64",
+        "T82"
       ],
       "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/paninian_seam_calculus.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "proof_lab/ting_lat_parasmaipada.py",
         "theorum/58_paninian_seam_calculus_theorem.md",
-        "theorum/64_ting_lat_parasmaipada_theorem.md"
+        "theorum/64_ting_lat_parasmaipada_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
     "1.3.9": {
@@ -516,11 +592,13 @@
         "T58",
         "T63",
         "T64",
-        "T66"
+        "T66",
+        "T82"
       ],
       "cited_in": [
         "proof_lab/lat_atmanepada.py",
         "proof_lab/lopa_ledger_contraction.py",
+        "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/paninian_seam_calculus.py",
         "proof_lab/rewrite_rules_as_cut_module_operators.py",
         "proof_lab/seam_compensated_confluence_verdict.py",
@@ -535,7 +613,8 @@
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/74_lopa_ledger_contraction_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
-        "theorum/80_paninian_instruction_format_theorem.md"
+        "theorum/80_paninian_instruction_format_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
     "1.3.10": {
@@ -557,8 +636,19 @@
       ],
       "cited_in": [
         "proof_lab/lat_atmanepada.py",
+        "proof_lab/paninian_it_samjna_compiled.py",
         "theorum/58_paninian_seam_calculus_theorem.md",
-        "theorum/66_lat_atmanepada_theorem.md"
+        "theorum/66_lat_atmanepada_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "1.3.72": {
+      "text": "",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
     "1.4.2": {
@@ -590,6 +680,17 @@
       "theorems": [],
       "cited_in": [
         "proof_lab/pingala_chandas_pratyaya.py"
+      ]
+    },
+    "1.4.13": {
+      "text": "yasmāt pratyayavidhis tadādi pratyaye 'ṅgam",
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
     "1.4.14": {
@@ -697,6 +798,17 @@
         "theorum/64_ting_lat_parasmaipada_theorem.md"
       ]
     },
+    "1.4.104": {
+      "text": "vibhaktiś ca",
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
     "2.3.1": {
       "text": "anabhihite",
       "level": "hand_coded",
@@ -797,17 +909,26 @@
     },
     "3.1.1": {
       "text": "pratyayaḥ",
-      "level": "cited",
-      "theorems": [],
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
       "cited_in": [
-        "theorum/58_paninian_seam_calculus_theorem.md"
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/58_paninian_seam_calculus_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
     "3.1.2": {
       "text": "paraś ca",
-      "level": "cited",
-      "theorems": [],
-      "cited_in": []
+      "level": "meta",
+      "theorems": [
+        "T82"
+      ],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
     },
     "3.1.45": {
       "text": "śala igupadhād aniṭaḥ kṣaḥ",
@@ -892,6 +1013,7 @@
       ],
       "cited_in": [
         "proof_lab/lat_atmanepada.py",
+        "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/ting_lat_parasmaipada.py",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
@@ -946,9 +1068,28 @@
         "T63"
       ],
       "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
+      ]
+    },
+    "6.1.64": {
+      "text": "dhātvādeḥ ṣaḥ saḥ",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
+    "6.1.65": {
+      "text": "ṇo naḥ",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
     "6.1.66": {
@@ -1018,6 +1159,7 @@
       ],
       "cited_in": [
         "proof_lab/paninian_instruction_format.py",
+        "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/paninian_seam_calculus.py",
         "proof_lab/rewrite_rules_as_cut_module_operators.py",
         "proof_lab/silence_vibration_sutra_flow.py",
@@ -1278,11 +1420,14 @@
       "text": "aṅgasya",
       "level": "meta",
       "theorems": [
-        "T80"
+        "T80",
+        "T82"
       ],
       "cited_in": [
         "proof_lab/paninian_instruction_format.py",
-        "theorum/80_paninian_instruction_format_theorem.md"
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/80_paninian_instruction_format_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
     "6.4.3": {
@@ -1318,6 +1463,14 @@
         "theorum/66_lat_atmanepada_theorem.md"
       ]
     },
+    "6.4.71": {
+      "text": "luṅlaṅlṛṅkṣv aḍ udāttaḥ",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py"
+      ]
+    },
     "6.4.77": {
       "text": "aci śnudhātubhruvāṁ yvor iyaṅuvaṅau",
       "level": "hand_coded",
@@ -1329,6 +1482,15 @@
         "theorum/67_pada_to_line_external_sandhi_theorem.md"
       ]
     },
+    "7.1.2": {
+      "text": "āyaneyīnīyiyaḥ phaḍhakhacchaghāṁ pratyayādīnām",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
     "7.1.3": {
       "text": "jho 'ntaḥ",
       "level": "hand_coded",
@@ -1338,8 +1500,10 @@
       ],
       "cited_in": [
         "proof_lab/lat_atmanepada.py",
+        "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/ting_lat_parasmaipada.py",
-        "theorum/64_ting_lat_parasmaipada_theorem.md"
+        "theorum/64_ting_lat_parasmaipada_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
     "7.1.5": {
@@ -1409,6 +1573,14 @@
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md"
       ]
     },
+    "7.1.70": {
+      "text": "ugidacāṁ sarvanāmasthāne 'dhātoḥ",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py"
+      ]
+    },
     "7.1.94": {
       "text": "ṛd uśanaspurudaṁso 'neh asaś ca",
       "level": "hand_coded",
@@ -1418,6 +1590,14 @@
       "cited_in": [
         "proof_lab/stem_classes_gayatri_coverage.py",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md"
+      ]
+    },
+    "7.2.35": {
+      "text": "ārdhadhātukasyeḍ valādeḥ",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py"
       ]
     },
     "7.2.81": {
@@ -1455,6 +1635,15 @@
         "theorum/67_pada_to_line_external_sandhi_theorem.md"
       ]
     },
+    "7.3.50": {
+      "text": "ṭhasyekaḥ",
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
+      ]
+    },
     "7.3.77": {
       "text": "iṣugamiyamāṁ chaḥ",
       "level": "compiled",
@@ -1490,13 +1679,15 @@
       "cited_in": [
         "proof_lab/lat_atmanepada.py",
         "proof_lab/paninian_instruction_format.py",
+        "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/paninian_samjna_sound_layer.py",
         "proof_lab/paninian_seam_calculus.py",
         "proof_lab/ting_lat_parasmaipada.py",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
-        "theorum/81_paninian_samjna_sound_layer_theorem.md"
+        "theorum/81_paninian_samjna_sound_layer_theorem.md",
+        "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
     "7.3.101": {
