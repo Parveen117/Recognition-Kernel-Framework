@@ -90,7 +90,7 @@ open. Earlier certificates remain frozen; CI and main merging stay deferred.
 iṭ/īṭ/ruṭ retain their ending hosts; optional vid endings and coupled
 brū/āh substitutions preserve the present request and source features.
 Repeated source words bind to their own occurrences and cases, and six
-source disagreements remain recorded. [Current coverage](lexical_present/COVERAGE_STATUS.json)
+source disagreements remain recorded. [PG11 coverage](lexical_present/COVERAGE_STATUS.json)
 is 131/2,229 roots, 166 paradigms and 1,494 present cells.
 [Validation](lexical_present/VALIDATION.md) separates 245 primary-word
 cases across 39 roots, 40 refusals and 107 controls from the zero-difference
@@ -98,6 +98,26 @@ cases across 39 roots, 40 refusals and 107 controls from the zero-difference
 open. [Remaining work](lexical_present/REMAINING.md) includes class-2
 prefix/context entries, tagged roots, wider grammar and native operator
 integration. PG1–PG10 evidence is frozen; CI and main merging stay deferred.
+
+**Further śnu, u and śnā present paths:** [PG12](nasal_present/README.md)
+adds 97 roots / 1,116 cells / 1,316 branches: 22 svādi, eight tanādi and
+67 kryādi entries. Owned n-lopa, grah/jyā saṃprasāraṇa, khav's ūṭh and
+optional tanādi root guṇa preserve their intermediate sounds and branch
+conditions. Ṇatva retains tṛp/kṣubh's prohibitions and kṣubh's local śnā
+identity query. [Source review](nasal_present/SOURCE_REVIEW.md) records
+seven source decisions, including a declared pvādi endpoint and register
+boundaries. [Current coverage](nasal_present/COVERAGE_STATUS.json) is
+228/2,229 roots, 290 paradigms and 2,610 present cells, with 208 bounded
+definitions / 152 distinct sūtra IDs. The admitted profiles cover 26/38
+class-5, 10/10 class-8 and 70/71 class-9 entries; all contexts of those
+classes remain outside that count. [Validation](nasal_present/VALIDATION.md)
+separates 109 literal-word cases across 73 roots, 37 refusals and 124
+controls from the zero-difference comparison. Twenty-four new exact-word
+gaps and the seven earlier gaps remain open.
+[Remaining work](nasal_present/REMAINING.md) includes other present
+classes, coupled substitutions, wider grammar and the full native operator
+lift with typed zero-specialization compatibility and quantum-calculator
+integration. PG1–PG11 evidence is frozen; CI and main merging stay deferred.
 
 ## Read in this order
 
