@@ -995,6 +995,22 @@ proof_lab/test_hal_stem_sup_compiled.py
 proof_lab/HAL_STEM_SUP_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 93 The Neuter Sup Paradigms Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | phala and vāri (44 forms) through 7.1.23 / 7.1.24, 7.1.19, 7.1.20 with 1.1.42, 7.1.72, 7.1.73, 6.4.8, 6.1.87 and theorum/63's a-stem sūtras; each neuter substitute and num rule breaks exactly its cells; nuṭ read before 7.1.73 |
+| Status | `PASS_NAPUMSAKA_SUP_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `3857e2b0476872a7b4407f3c97750bc5eb550fc53c57cdae6ebdadb52cb42006` |
+| Boundary | madhu, consonant neuters, neuter sarvanāma not claimed; the second sambuddhi option he vāri listed from the Siddhānta-kaumudī; stage order a declared pipeline |
+
+```text
+theorum/93_napumsaka_sup_compiled_theorem.md
+proof_lab/napumsaka_sup_compiled.py
+proof_lab/test_napumsaka_sup_compiled.py
+proof_lab/NAPUMSAKA_SUP_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |

@@ -66,8 +66,7 @@ The advanced numbered surface now runs through Theorem 80:
 16. **88 — the āp-stem sup paradigm.** ṭāp feminines of the kta nouns through 7.1.18, 7.3.116, 7.3.113, 7.1.54, 7.3.105/106, 6.1.68/69 and the sandhi sūtras: latā's 22 forms, each stage load-bearing on its own cells, 15 stems × 22 = 330 forms.
 17. **89 — the nadī-stem sup paradigm.** nadī's 22 forms (7.3.112/116, 7.1.54, 7.3.107, 6.1.68/69/77/102/105, 8.3.59), each stage load-bearing (7.3.112 redundant on 7s); kartrī, śrotrī, hotrī, cetrī, sotrī from the pinned roots by tṛc (theorum/80 guṇa + 1.1.51) and ṅīp; 110 forms.
 18. **90 — the ṛ-stem (tṛc) sup paradigm.** kartṛ's 22 forms (7.1.94, 6.4.8/11, 7.3.110, 6.1.111, 6.1.102/103, 7.1.54/6.4.3/8.4.1, 8.3.59, 8.2.7/24); sarvanāmasthāna (1.1.42–43) load-bearing on exactly {1s,1d,1p,2s,2d,8s}; śrotṛ hotṛ cetṛ sotṛ, 88 forms.
-19. **91 — the ghi-stem (i/u) sup paradigm.** hari and guru from one engine (1.4.7, 7.3.111/119/120/108/109, 6.1.110/102/103, 7.1.54/6.4.3, 8.4.1/2/37); ghi breaks exactly {3s,4s,5s,6s,7s}; agni and vāyu 44 forms with ṇatva decided on the carrier.
-20. **92 — the consonant-stem sup paradigms.** rājan, ātman, marut (66 forms) through 1.4.17 pada / 1.4.18 bha, 6.4.8, 8.2.7/8, 6.4.134/136/137, 8.4.40, 8.2.39/8.4.55/56; pada and bha break exactly their cells; 6.4.137 control (*ātmnaḥ).
+19. **91 — the ghi-stem (i/u) sup paradigm.** hari and guru from one engine (1.4.7, 7.3.111/119/120/108/109, 6.1.110/102/103, 7.1.54/6.4.3, 8.4.1/2/37); ghi breaks exactly {3s,4s,5s,6s,7s}; agni and vāyu 44 forms with ṇatva decided on the carrier.Q. **93 — the neuter sup paradigms.** phala and vāri (44 forms): 7.1.23/24 luk/am, 7.1.19 śī, 7.1.20 śi (1.1.42), 7.1.72/7.1.73 num, 6.4.8; each breaks exactly its cells; nuṭ before 7.1.73.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -115,7 +114,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-92                           PRESENT
+NUMBERED THEOREM FILES 01-93                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT

@@ -139,6 +139,7 @@ Use the audited [publication copy](theorum/morphic_algebra/main.tex) for mathema
 | Ṛ-stem sup | [T90](theorum/90_r_stem_sup_compiled_theorem.md) | kartṛ 22 forms via 7.1.94, 6.4.8/11, 7.3.110, 6.1.111, 6.1.102/103, 7.1.54/6.4.3/8.4.1, 8.3.59, 8.2.7/24; sarvanāmasthāna breaks exactly {1s,1d,1p,2s,2d,8s}; 4 agents, 88 forms |
 | Ghi-stem sup | [T91](theorum/91_ghi_stem_sup_compiled_theorem.md) | hari/guru 22 each by one engine via 1.4.7, 7.3.111/119/120/108/109, 6.1.110/102/103; ghi breaks exactly {3s,4s,5s,6s,7s}; agni/vāyu 44 forms, 8.4.2 ṇatva on the carrier |
 | Consonant-stem sup | [T92](theorum/92_hal_stem_sup_compiled_theorem.md) | rājan/ātman/marut 66 forms via 1.4.17/18, 6.4.8, 8.2.7/8, 6.4.134/136/137, 8.4.40, 8.2.39, 8.4.55/56; pada and bha break exactly their cells; 6.4.137 control |
+| Neuter sup | [T93](theorum/93_napumsaka_sup_compiled_theorem.md) | phala/vāri 44 forms via 7.1.23/24, 7.1.19, 7.1.20, 7.1.72/73, 6.4.8; each substitute and num rule breaks exactly its cells; nuṭ before 7.1.73 |
 | Pāṇinian cut-module algebra | [T56](theorum/56_canvas_operators_nativized_theorem.md), [T58](theorum/58_paninian_seam_calculus_theorem.md), [T60](theorum/60_seam_compensated_confluence_verdict_theorem.md), [T61](theorum/61_rewrite_rules_as_cut_module_operators_theorem.md) | finite declared carriers and rule sets |
 | Grammar carriers | [T63–68](#theorems-58-77-paninian-domain-yang-mills-tool-and-semantic-chain) | exact finite nominal, verbal, sandhi, and kāraka/vibhakti carriers |
 | Obligation and evidence ladders | [T69](theorum/69_mimamsa_obligation_closure_theorem.md), [T70](theorum/70_angatva_pramana_ladder_theorem.md) | declared Mīmāṃsā/pramāṇa finite models |
@@ -371,6 +372,7 @@ The register below distinguishes theorem capsules from plans, source maps, certi
 | 90 | [The Ṛ-Stem (tṛc) Sup Paradigm Compiled](theorum/90_r_stem_sup_compiled_theorem.md) | kartṛ and the agents; sarvanāmasthāna load-bearing |
 | 91 | [The Ghi-Stem (i / u) Sup Paradigm Compiled](theorum/91_ghi_stem_sup_compiled_theorem.md) | hari, guru, agni, vāyu; ghi load-bearing; ṇatva on the carrier |
 | 92 | [The Consonant-Stem Sup Paradigms Compiled](theorum/92_hal_stem_sup_compiled_theorem.md) | rājan, ātman, marut; pada / bha load-bearing |
+| 93 | [The Neuter Sup Paradigms Compiled](theorum/93_napumsaka_sup_compiled_theorem.md) | phala, vāri; neuter substitutes and num load-bearing |
 
 ## 7. Parallel theorem registers
 
