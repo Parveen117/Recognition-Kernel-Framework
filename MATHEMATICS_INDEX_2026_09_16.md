@@ -147,6 +147,7 @@ Use the audited [publication copy](theorum/morphic_algebra/main.tex) for mathema
 | Feminine sarvanāma sup | [T98](theorum/98_sarvanama_ap_sup_compiled_theorem.md) | sarvā 22 / sā 21 via 4.1.4, 7.3.114 syāṭ + hrasva, 7.1.52, 7.2.102/106; sarvanāma breaks exactly {4s,5s,6s,7s,6p}; 7.1.17/15 excluded by ataḥ (control) |
 | Ātmanepada laṅ / loṭ / liṅ | [T99](theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md) | labh, edh 54 forms via 6.4.71/72 + 6.1.90, 7.2.81 chain, 3.4.90–93, 3.4.102–107, 7.2.79, 6.1.66/87; 7.3.101 blocked by sīyuṭ |
 | Kṛt ktvā / tumun / tavya | [T100](theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md) | 18 forms from 6 pinned roots; 7.2.35 vs 7.2.11, 7.3.84 vs 1.1.5, 6.4.37 vs 8.3.24 + 8.4.58; gantā realized |
+| Luṅ parasmaipada | [T101](theorum/101_lun_parasmaipada_compiled_theorem.md) | bhū/gam/nī 27 forms: 2.4.77 + 6.4.88, 3.1.55 (ḷ-it), 7.2.1 + 7.3.96 + 8.3.59 + 8.4.41 + 3.4.109; each on exactly its root |
 | Pāṇinian cut-module algebra | [T56](theorum/56_canvas_operators_nativized_theorem.md), [T58](theorum/58_paninian_seam_calculus_theorem.md), [T60](theorum/60_seam_compensated_confluence_verdict_theorem.md), [T61](theorum/61_rewrite_rules_as_cut_module_operators_theorem.md) | finite declared carriers and rule sets |
 | Grammar carriers | [T63–68](#theorems-58-77-paninian-domain-yang-mills-tool-and-semantic-chain) | exact finite nominal, verbal, sandhi, and kāraka/vibhakti carriers |
 | Obligation and evidence ladders | [T69](theorum/69_mimamsa_obligation_closure_theorem.md), [T70](theorum/70_angatva_pramana_ladder_theorem.md) | declared Mīmāṃsā/pramāṇa finite models |
@@ -387,6 +388,7 @@ The register below distinguishes theorem capsules from plans, source maps, certi
 | 98 | [The Feminine Sarvanāma (Āp) Sup Paradigms Compiled](theorum/98_sarvanama_ap_sup_compiled_theorem.md) | sarvā, sā; 7.3.114 syāṭ; masculine rules excluded |
 | 99 | [Laṅ, Loṭ and Vidhi-Liṅ Ātmanepada Compiled](theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md) | ātmanepada on the 66 stems; 54 forms |
 | 100 | [The Kṛt Affixes ktvā, tumun, tavya from the Pinned Roots](theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md) | kit / non-kit contrasts; 18 forms; gantā |
+| 101 | [Luṅ Parasmaipada Compiled](theorum/101_lun_parasmaipada_compiled_theorem.md) | aorist; three shapes; 27 forms |
 
 ## 7. Parallel theorem registers
 

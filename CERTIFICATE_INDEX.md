@@ -1123,6 +1123,22 @@ proof_lab/test_krt_ktva_tumun_tavya_compiled.py
 proof_lab/KRT_KTVA_TUMUN_TAVYA_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 101 Luṅ Parasmaipada Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | luṅ parasmaipada of bhū (2.4.77 sic-luk, 6.4.88 vuk), gam (3.1.55 aṅ by the ḷ-it) and nī (sic: 7.2.1, 7.3.96, 8.3.59, 8.4.41, 3.4.109): 27 forms; each stage breaks exactly its cells on exactly its root |
+| Status | `PASS_LUN_PARASMAIPADA_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `2e5af3d79ef6d321f922d0cb3b140cefd2df8e6646e76dc2054d23b628895bc0` |
+| Boundary | other aorist shapes, ātmanepada, 6.4.72, the gaṇas beyond the ḷdit test, other roots not claimed; stage order a declared pipeline |
+
+```text
+theorum/101_lun_parasmaipada_compiled_theorem.md
+proof_lab/lun_parasmaipada_compiled.py
+proof_lab/test_lun_parasmaipada_compiled.py
+proof_lab/LUN_PARASMAIPADA_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
