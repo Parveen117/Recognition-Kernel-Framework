@@ -1139,6 +1139,22 @@ proof_lab/test_lun_parasmaipada_compiled.py
 proof_lab/LUN_PARASMAIPADA_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 102 Liṭ Parasmaipada Compiled with Reduplication packet
+
+| Field | Value |
+|---|---|
+| Certificate class | liṭ of bhū, gam, kṛ, nī in the option-free cells (20 forms): abhyāsa by 6.1.1 / 6.1.4 / 6.1.8, 7.4.59 / 60 / 62 / 66 / 73, 8.4.54; 1.2.5 kit; 7.2.115 / 7.2.116 vṛddhi before ṇal; 6.4.98; 6.4.88; 7.2.13 / 7.2.35; each stage breaks exactly the forms stated |
+| Status | `PASS_LIT_PARASMAIPADA_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `740371db21bfa78c1b0d53919a0a08e94a065f10e3c2a0003c8d4229188c80ba` |
+| Boundary | option cells, ātmanepada, ām-liṭ, cluster / vowel-initial roots, accent not claimed; stage order a declared pipeline |
+
+```text
+theorum/102_lit_parasmaipada_compiled_theorem.md
+proof_lab/lit_parasmaipada_compiled.py
+proof_lab/test_lit_parasmaipada_compiled.py
+proof_lab/LIT_PARASMAIPADA_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
