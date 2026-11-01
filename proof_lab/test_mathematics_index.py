@@ -65,12 +65,12 @@ class MathematicsIndexTests(unittest.TestCase):
             with self.subTest(anchor=anchor):
                 self.assertIn(f'<a id="{anchor}"></a>', self.text)
 
-    def test_numbered_capsules_01_through_90_are_unique_and_indexed(self) -> None:
+    def test_numbered_capsules_01_through_91_are_unique_and_indexed(self) -> None:
         capsules = sorted((ROOT / "theorum").glob("[0-9][0-9]_*.md"))
         by_number: dict[int, list[Path]] = {}
         for capsule in capsules:
             by_number.setdefault(int(capsule.name[:2]), []).append(capsule)
-        self.assertEqual(list(range(1, 91)), sorted(by_number))
+        self.assertEqual(list(range(1, 92)), sorted(by_number))
         self.assertFalse({number: paths for number, paths in by_number.items() if len(paths) != 1})
         for capsule in capsules:
             relative = capsule.relative_to(ROOT).as_posix()

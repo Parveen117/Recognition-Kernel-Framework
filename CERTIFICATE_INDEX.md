@@ -963,6 +963,22 @@ proof_lab/test_r_stem_sup_compiled.py
 proof_lab/R_STEM_SUP_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 91 Ghi-stem sup packet
+
+| Field | Value |
+|---|---|
+| Certificate class | hari and guru (one engine; guṇa by theorum/80's antaratama) 22 forms each through 1.4.7, 7.3.111, 7.3.119, 7.3.120, 7.3.108, 7.3.109, 6.1.110, 6.1.102 / 103, 6.1.107 / 77 / 78 / 88, 7.1.54 / 6.4.3, 8.4.1 / 8.4.2 / 8.4.37, 6.1.69, 8.3.59, pause rules; the ghi saṁjñā breaks exactly {3s, 4s, 5s, 6s, 7s}; agni and vāyu 44 forms with ṇatva decided on the carrier |
+| Status | `PASS_GHI_STEM_SUP_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `8c344c02789c9c78512cf0e00d12469ec32ee675795f717712c384258ed8712a` |
+| Boundary | sakhi / pati, feminine and neuter i / u stems, ī / ū stems not claimed; stems declared prātipadikas; stage order a declared pipeline |
+
+```text
+theorum/91_ghi_stem_sup_compiled_theorem.md
+proof_lab/ghi_stem_sup_compiled.py
+proof_lab/test_ghi_stem_sup_compiled.py
+proof_lab/GHI_STEM_SUP_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
