@@ -165,7 +165,7 @@ Ad/as retain whole-affix śap-luk; as has distinct a-lopa and s-lopa targets.
 to 88 distinct sūtra IDs. [Coverage](research/panini_grammar/exception_lat/COVERAGE_STATUS.json)
 records 50 completed root entries / 648 cells, leaving 2,179 root entries
 without this complete present profile; no overall grammar percentage is given.
-[Claude review](research/panini_grammar/exception_lat/CONCURRENT_REVIEW.json)
+[Concurrent review](research/panini_grammar/exception_lat/CONCURRENT_REVIEW.json)
 preserves T86/T87 nominal scope separately and records helper-domain guards
 and the lexical-dhā exception needed before wider reuse. The theorem branch is reviewed but not merged.
 [Remaining work](research/panini_grammar/exception_lat/REMAINING.md) starts with
@@ -189,7 +189,7 @@ literal Sanskrit word witnesses, 18 refusals, 63 controls and a separate
 [Coverage](research/panini_grammar/abhyasa_lat/COVERAGE_STATUS.json) is now
 53 / 2,229 root entries, 693 cells and 99 distinct source-bound sūtra IDs
 across PG4–PG9; this is not an overall grammar-completion percentage.
-[Claude's T89 review](research/panini_grammar/abhyasa_lat/CONCURRENT_REVIEW.json)
+[Concurrent review of Theorem 89](research/panini_grammar/abhyasa_lat/CONCURRENT_REVIEW.json)
 records the shared hu identity and five commented-out stage-removal checks;
 nominal outputs remain separate and the companion certificate was not replayed.
 [Remaining work](research/panini_grammar/abhyasa_lat/REMAINING.md) includes
