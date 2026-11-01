@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG12 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
+Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG13 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -277,7 +277,7 @@ direct controls. The separate 1,116-cell / 1,316-branch comparison has
 zero differences. Twenty-four new entries lack separate exact full-word
 witnesses; the seven earlier PG10/PG11 gaps also remain open.
 
-[Current coverage](research/panini_grammar/nasal_present/COVERAGE_STATUS.json)
+[PG12 coverage](research/panini_grammar/nasal_present/COVERAGE_STATUS.json)
 is 228 / 2,229 root entries, 290 paradigms, 2,610 present cells and 2,959
 branches, with 208 bounded definitions / 152 distinct sūtra IDs across
 PG4–PG12. The declared unaccented, unprefixed classical kartari profiles
@@ -288,6 +288,41 @@ includes other present classes, dhinv/kṛnv's coupled changes, prefix and
 register contexts, and wider grammar. PG1–PG11 remain frozen. Full native
 operator lifting, typed zero-specialization compatibility and quantum-calculator
 integration remain open; hosted CI and main merging remain deferred.
+
+## PG13: causative presents with owned root constituents
+
+[PG13](research/panini_grammar/causative_present/README.md) develops twelve
+identified causative roots / twelve P paradigms / 108 present cells. It
+extends the useful T105 three-cell examples to all nine cells per root,
+with explicit lexical identity and separate causative and pada licenses.
+Root vṛddhi, r accompaniment, gam's intermediate gām and mit shortening,
+and root-final puk/yuk remain in the history. The augment's k marker and
+pronunciation-only u are distinguished. The full root constituent plus
+ṇic becomes the derived dhātu; later śap acts on ṇic's own i → e → ay.
+
+The [construction contract](research/panini_grammar/causative_present/CONTRACT.md)
+states the finite stage domains and ownership argument.
+[Source review](research/panini_grammar/causative_present/SOURCE_REVIEW.md)
+binds fifteen records and four source decisions without new scope overlays.
+[Concurrent review](research/panini_grammar/causative_present/CONCURRENT_REVIEW.json)
+statically confirms the T89 fixes, records useful T105/T107 work and
+separates two source-explanation corrections from output claims. Companion
+code and certificates are not imported or replayed.
+
+[Validation](research/panini_grammar/causative_present/VALIDATION.md) records
+11 literal-word cases, 31 refusals and 74 controls. All 108 comparison cells
+and 36 separately labeled T105 expected examples agree. Kṛṣ 1060006's
+exact-word witness remains open; previous evidence gaps remain unchanged.
+[Current coverage](research/panini_grammar/causative_present/COVERAGE_STATUS.json)
+keeps 228 simple-present roots / 2,610 cells separate from the 108 causative
+cells: 2,718 cells when formation is part of their identity. PG4–PG13 contain
+223 bounded definitions / 161 distinct sūtra IDs. No overall grammar
+percentage is assigned.
+[Remaining work](research/panini_grammar/causative_present/REMAINING.md)
+includes further causative exceptions, semantic pada contexts, wider
+formations and the full native operator lift with typed zero-specialization
+compatibility. Quantum-calculator integration remains open. PG1–PG12 are
+frozen; hosted CI and main merging remain deferred.
 
 ## Śaiva sources and the sūtra as an instruction: Theorems 78–82
 
