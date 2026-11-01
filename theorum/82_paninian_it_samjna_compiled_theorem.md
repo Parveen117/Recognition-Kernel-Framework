@@ -38,7 +38,11 @@ Jñāpaka exceptions, declared from the sūtras the tradition reads them off:
 pratyayādīnām* (ch, ḍh of cha/ḍhak are not). Cited, not compiled: **6.1.64**
 *dhātvādeḥ ṣaḥ saḥ*, **6.1.65** *ṇo naḥ* (dhātu-initial ṣ, ṇ are replaced,
 not elided). The *u* of tuk, num, matup, ṇamul, tumun, suṭ, yāsuṭ, muk is
-the anunāsika pronunciation vowel of the upadeśa and falls under 1.3.2.
+the anunāsika pronunciation vowel of the upadeśa and falls under 1.3.2; so is the
+vowel of each lakāra (la~ṭ, li~ṅ …), whose *l* is the affix itself that **3.4.77**
+*lasya* replaces — 1.3.8 cannot take it, since an affix must leave a remainder
+(correction after external review of the first pinned run, f66f651b…6dc,
+which had listed the *l* as an it).
 
 ## 2. The interpreter
 
@@ -63,7 +67,8 @@ with a ta-varga/s/m final (`am, tas, thas, mas, jas, śas, bhis, bhyas, bhyām,
 ṅas, os, ām, vas, dhvam, thās, ātām, āthām`); dropping *ataddhite* changes
 exactly `kha, gha, kan`; treating a dhātu as an affix changes exactly
 `ṣṭhā, ṇīñ, gamḷ~, ḍukṛñ, ḍudāñ, ṭunadi~, ṭuvepṛ~, ñimidā~`; dropping the
-jñāpaka overrides changes exactly `jhi, jha, ṭhak, ṭhañ, cha, ḍhak`.
+jñāpaka overrides changes exactly `jhi, jha, ṭhak, ṭhañ, cha, ḍhak`; the
+remainder guard on 1.3.8 is what keeps the *l* of the ten lakāras.
 
 ### T2 The hand-coded lopa functions are instances
 
@@ -87,7 +92,7 @@ python -m proof_lab.paninian_it_samjna_compiled
 python -m unittest proof_lab.test_paninian_it_samjna_compiled -v
 ```
 Status `PASS_PANINIAN_IT_SAMJNA_COMPILED_CANDIDATE`, SHA-256
-`f66f651bec88c1639e943712847f71e78ca48efb40769a2507448595018ed6dc`
+`094d38e1fcb4b3cd97bba95ca066472af05719f4f4045f9c0a45b643db8665cf`
 (`proof_lab/PANINIAN_IT_SAMJNA_COMPILED_EXPECTED.sha256`). Consumes
 theorum/58's words and `it_lopa`, theorum/63's `SUP` and `it_lopa`,
 theorum/60's `explore`, theorum/79's vargas, theorum/80's pratyāhāra

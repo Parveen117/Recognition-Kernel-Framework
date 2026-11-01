@@ -38,7 +38,8 @@ a dhātu is not an it; it is replaced).
      with 1.3.9 equals the traditional it-set on every one of the 90
      teaching forms listed (sup 21, tiṅ 18, ten lakāras, vikaraṇas, kṛt and
      taddhita affixes, dhātus, augments); the exceptions 1.3.4 (vibhakti),
-     'ataddhite' (1.3.8) and 'pratyayasya' (1.3.6) are each load-bearing on
+     'ataddhite' (1.3.8), 'pratyayasya' (1.3.6) and the remainder guard on
+     1.3.8 (the l of a lakāra survives: 3.4.77 lasya) are each load-bearing on
      named forms; the three jñāpaka overrides are load-bearing on jhi, jha,
      ṭhak, cha, ḍhak and nowhere else.
  T2  THE HAND-CODED LOPA FUNCTIONS ARE INSTANCES.  theorum/58's it_lopa on
@@ -67,7 +68,7 @@ from proof_lab.sup_vibhakti_resolver_ladder import SUP, it_lopa as it_lopa_63, s
 SOURCES = {
     "1.3.1": "bhūvādayo dhātavaḥ", "1.3.2": "upadeśe 'janunāsika it", "1.3.3": "halantyam", "1.3.4": "na vibhaktau tusmāḥ",
     "1.3.5": "ādir ñiṭuḍavaḥ", "1.3.6": "ṣaḥ pratyayasya", "1.3.7": "cuṭū", "1.3.8": "laśakv ataddhite", "1.3.9": "tasya lopaḥ",
-    "1.1.60": "adarśanaṁ lopaḥ", "1.1.46": "ādyantau ṭakitau", "1.1.47": "mid aco 'ntyāt paraḥ", "3.1.1": "pratyayaḥ", "3.1.2": "paraś ca",
+    "1.1.60": "adarśanaṁ lopaḥ", "1.1.46": "ādyantau ṭakitau", "1.1.47": "mid aco 'ntyāt paraḥ", "3.1.1": "pratyayaḥ", "3.1.2": "paraś ca", "3.4.77": "lasya",
     "1.4.13": "yasmāt pratyayavidhis tadādi pratyaye 'ṅgam", "6.4.1": "aṅgasya", "1.4.104": "vibhaktiś ca",
     "7.1.3": "jho 'ntaḥ", "7.3.50": "ṭhasyekaḥ", "7.1.2": "āyaneyīnīyiyaḥ phaḍhakhacchaghāṁ pratyayādīnām",
     "6.1.64": "dhātvādeḥ ṣaḥ saḥ", "6.1.65": "ṇo naḥ",
@@ -121,7 +122,8 @@ def its(upadesa: str, kind: str, vibhakti: bool = False, taddhita: bool = False,
             if not (jnapaka and first in JNAPAKA):
                 marks[0] = "1.3.7"
         elif first in ("l", "ś") + KU and not taddhita:               # 1.3.8
-            marks[0] = "1.3.8"
+            if any(i not in marks for i in range(1, len(form))):     # an affix must leave a remainder (3.4.77 lasya: the l-affix is the l)
+                marks[0] = "1.3.8"
     remaining = tuple(s for i, (s, _) in enumerate(form) if i not in marks)   # 1.3.9 / 1.1.60
     return {"form": "".join(s + ("~" if n else "") for s, n in form), "its": {form[i][0]: sid for i, sid in sorted(marks.items())},
             "remaining": "".join(remaining), "remaining_sounds": remaining}
@@ -145,12 +147,13 @@ TRADITION: list[tuple[str, str, bool, bool, str, dict[str, str]]] = [
     ("ta", "pratyaya", True, False, "ta", {}), ("ātām", "pratyaya", True, False, "ātām", {}), ("jha", "pratyaya", True, False, "jha", {}),
     ("thās", "pratyaya", True, False, "thās", {}), ("āthām", "pratyaya", True, False, "āthām", {}), ("dhvam", "pratyaya", True, False, "dhvam", {}),
     ("iṭ", "pratyaya", True, False, "i", {"ṭ": "1.3.3"}), ("vahi", "pratyaya", True, False, "vahi", {}), ("mahiṅ", "pratyaya", True, False, "mahi", {"ṅ": "1.3.3"}),
-    # lakāras (3.2.110ff; the l-affix is a pratyaya, not a vibhakti)
-    ("laṭ", "pratyaya", False, False, "a", {"l": "1.3.8", "ṭ": "1.3.3"}), ("liṭ", "pratyaya", False, False, "i", {"l": "1.3.8", "ṭ": "1.3.3"}),
-    ("luṭ", "pratyaya", False, False, "u", {"l": "1.3.8", "ṭ": "1.3.3"}), ("lṛṭ", "pratyaya", False, False, "ṛ", {"l": "1.3.8", "ṭ": "1.3.3"}),
-    ("leṭ", "pratyaya", False, False, "e", {"l": "1.3.8", "ṭ": "1.3.3"}), ("loṭ", "pratyaya", False, False, "o", {"l": "1.3.8", "ṭ": "1.3.3"}),
-    ("laṅ", "pratyaya", False, False, "a", {"l": "1.3.8", "ṅ": "1.3.3"}), ("liṅ", "pratyaya", False, False, "i", {"l": "1.3.8", "ṅ": "1.3.3"}),
-    ("luṅ", "pratyaya", False, False, "u", {"l": "1.3.8", "ṅ": "1.3.3"}), ("lṛṅ", "pratyaya", False, False, "ṛ", {"l": "1.3.8", "ṅ": "1.3.3"}),
+    # lakāras (3.2.110ff): the vowel is the anunāsika pronunciation vowel (1.3.2), the final ṭ/ṅ an it (1.3.3); the l itself is the
+    # affix that 3.4.77 lasya replaces, so 1.3.8 cannot take it (an affix must leave a remainder) — corrected after external review
+    ("la~ṭ", "pratyaya", False, False, "l", {"a": "1.3.2", "ṭ": "1.3.3"}), ("li~ṭ", "pratyaya", False, False, "l", {"i": "1.3.2", "ṭ": "1.3.3"}),
+    ("lu~ṭ", "pratyaya", False, False, "l", {"u": "1.3.2", "ṭ": "1.3.3"}), ("lṛ~ṭ", "pratyaya", False, False, "l", {"ṛ": "1.3.2", "ṭ": "1.3.3"}),
+    ("le~ṭ", "pratyaya", False, False, "l", {"e": "1.3.2", "ṭ": "1.3.3"}), ("lo~ṭ", "pratyaya", False, False, "l", {"o": "1.3.2", "ṭ": "1.3.3"}),
+    ("la~ṅ", "pratyaya", False, False, "l", {"a": "1.3.2", "ṅ": "1.3.3"}), ("li~ṅ", "pratyaya", False, False, "l", {"i": "1.3.2", "ṅ": "1.3.3"}),
+    ("lu~ṅ", "pratyaya", False, False, "l", {"u": "1.3.2", "ṅ": "1.3.3"}), ("lṛ~ṅ", "pratyaya", False, False, "l", {"ṛ": "1.3.2", "ṅ": "1.3.3"}),
     # vikaraṇa and other non-taddhita affixes
     ("śap", "pratyaya", False, False, "a", {"ś": "1.3.8", "p": "1.3.3"}), ("śyan", "pratyaya", False, False, "ya", {"ś": "1.3.8", "n": "1.3.3"}),
     ("śnu", "pratyaya", False, False, "nu", {"ś": "1.3.8"}), ("śa", "pratyaya", False, False, "a", {"ś": "1.3.8"}),
