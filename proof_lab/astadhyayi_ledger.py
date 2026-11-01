@@ -164,6 +164,14 @@ TEXT = {
 }
 
 # numbers that an owner canvas attached to another sūtra (theorum/56 B2); kept so the trail stays, corrected here
+# quotations of theorum/118 (samāsa construction), each verified against the pinned edition by
+# research/samasa_construction/verify_quotes.py; they fill texts the curated table lacks, never override it
+_Q = Path(__file__).resolve().parents[1] / "research/samasa_construction/QUOTES_VERIFIED.json"
+if _Q.exists():
+    for _n, _e in json.loads(_Q.read_text(encoding="utf-8"))["entries"].items():
+        if _e.get("match") and _n not in TEXT:
+            TEXT[_n] = _e["quoted"]
+
 EDITION_DIFFERS = {  # numbers whose text in the pinned PG1 edition is a different rule (other editions count a Kāśikā / vārttika rule here)
     "8.4.48": "cayo dvitīyāḥ śari pauṣkarasādeḥ is a vārttika in the pinned edition, where 8.4.48 = nādinyākrośe putrasya; cited with the Siddhānta-kaumudī number",
 }
@@ -307,6 +315,7 @@ THEOREM_FILE = {
     "115": "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
     "116": "theorum/116_atmanepada_lun_compiled_theorem.md",
     "117": "theorum/117_asirlin_atmanepada_compiled_theorem.md",
+    "118": "theorum/118_samasa_mathematical_construction_theorem.md",
 }
 SCAN = [THEOREM_FILE[k] for k in THEOREM_FILE] + ["theorum/70_angatva_pramana_ladder_theorem.md", "theorum/74_lopa_ledger_contraction_theorem.md"]
 NUM = re.compile(r"\b([1-8])\.([1-4])\.([0-9]{1,3})\b")

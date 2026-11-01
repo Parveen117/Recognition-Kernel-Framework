@@ -93,6 +93,7 @@ The advanced numbered surface now runs through Theorem 80:
 43. **115 — Āśīrliṅ Parasmaipada Compiled.** bhūyāt, gamyāt, nīyāt, pacyāt, deyāt, stheyāt and their 3d / 3p (18 forms): 3.4.103 yāsuṭ, 3.4.104 kit (1.1.5), 7.2.79, 6.4.67 er liṅi, 3.4.100 / 3.4.101 / 3.4.108.
 44. **116 — Ātmanepada luṅ Compiled.** alabdha, alapsātām, alapsata, alapsi, alabdhāḥ, alapsmahi; aidhiṣṭa, aidhiṣātām, aidhiṣata, aidhiṣi, aidhiṣṭhāḥ, aidhiṣmahi: 3.1.44 sic, 6.4.71 / 6.4.72 + 6.1.90, 7.2.35 / 7.2.10, 8.2.26 jhalo jhali, 8.2.40 + 8.4.53, 8.4.55, 8.3.59 + 8.4.41, 7.1.5.
 45. **117 — Āśīrliṅ Ātmanepada Compiled.** lapsīṣṭa, lapsīyāstām, lapsīran, lapsīya; edhiṣīṣṭa, edhiṣīyāstām, edhiṣīran, edhiṣīya: 3.4.102 sīyuṭ, 3.4.107 suṭ, 3.4.105 ran, 3.4.106 iṭo 't, 6.1.66, 7.2.35 / 7.2.10, 8.4.55, 8.3.59 + 8.4.41.
+46. **118 — samāsa: the mathematical construction.** Sāmarthya (2.1.1) as a guard, the four classes as a partition of 2.1.3–2.2.38, the option algebra (nitya / vibhāṣā / vā / bahulam / na), upasarjana (1.2.43 / 1.2.44) and the placement function 2.2.30–38, sup-lopa (2.4.71 with 1.1.62 vs 1.1.63; aluk 6.3.1–24), the samāsānta map 5.4.68–160; seventeen worked derivations; 2.1.7 *yathāsādṛśye* resolved from the pinned text (T114 label corrected, pin unchanged); 141 quotations machine-verified against the sūtrapāṭha. Theoretical packet; certificates deferred.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -140,7 +141,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-117                           PRESENT
+NUMBERED THEOREM FILES 01-118                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT

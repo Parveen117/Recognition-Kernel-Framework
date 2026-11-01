@@ -12,10 +12,10 @@
     "compiled": 10,
     "meta": 138,
     "hand_coded": 218,
-    "cited": 68,
+    "cited": 166,
     "misnumbered": 2,
-    "entries": 436,
-    "text_missing": 46,
+    "entries": 534,
+    "text_missing": 60,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
     "iast_mismatch_with_pinned_edition": 0
@@ -314,7 +314,8 @@
       ],
       "cited_in": [
         "proof_lab/avyayibhava_dvigu_compiled.py",
-        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "1.1.42": {
@@ -409,6 +410,7 @@
         "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/paninian_instruction_format.py",
         "proof_lab/paninian_it_samjna_compiled.py",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md",
         "theorum/88_ap_stem_sup_compiled_theorem.md",
@@ -514,6 +516,7 @@
         "theorum/104_samasa_compiled_theorem.md",
         "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
@@ -613,6 +616,17 @@
         "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
+    "1.1.61": {
+      "text": "pratyayasya lukślulupaḥ",
+      "text_devanagari": "प्रत्ययस्य लुक्श्लुलुपः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
     "1.1.62": {
       "text": "pratyayalope pratyayalakṣaṇam",
       "text_devanagari": "प्रत्ययलोपे प्रत्ययलक्षणम्",
@@ -631,6 +645,7 @@
         "proof_lab/samasa_compiled.py",
         "proof_lab/ting_lat_parasmaipada.py",
         "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/68_karaka_vibhakti_carrier_theorem.md",
@@ -650,6 +665,7 @@
       ],
       "cited_in": [
         "proof_lab/stem_classes_gayatri_coverage.py",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md"
       ]
     },
@@ -785,6 +801,7 @@
       ],
       "cited_in": [
         "proof_lab/paninian_samjna_sound_layer.py",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/81_paninian_samjna_sound_layer_theorem.md"
       ]
     },
@@ -861,7 +878,8 @@
       ],
       "cited_in": [
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "1.2.43": {
@@ -878,7 +896,19 @@
         "proof_lab/avyayibhava_dvigu_compiled.py",
         "proof_lab/samasa_compiled.py",
         "theorum/104_samasa_compiled_theorem.md",
-        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "1.2.44": {
+      "text": "ekavibhakti cāpūrvanipāte",
+      "text_devanagari": "एकविभक्ति चापूर्वनिपाते",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "1.2.45": {
@@ -892,6 +922,7 @@
       ],
       "cited_in": [
         "proof_lab/ghi_stem_sup_compiled.py",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/91_ghi_stem_sup_compiled_theorem.md"
       ]
@@ -921,9 +952,21 @@
         "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
         "theorum/104_samasa_compiled_theorem.md",
         "theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md"
+      ]
+    },
+    "1.2.47": {
+      "text": "hrasvo napuṁsake prātipadikasya",
+      "text_devanagari": "ह्रस्वो नपुंसके प्रातिपदिकस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "1.2.48": {
@@ -937,7 +980,30 @@
       ],
       "cited_in": [
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "1.2.64": {
+      "text": "sarūpāṇāmekaśeṣa ekavibhaktau",
+      "text_devanagari": "सरूपाणामेकशेष एकविभक्तौ",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "1.2.65": {
+      "text": "",
+      "text_devanagari": "वृद्धो यूना तल्लक्षणश्चेदेव विशेषः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "1.3.1": {
@@ -1356,6 +1422,7 @@
         "proof_lab/seam_compensated_confluence_verdict.py",
         "proof_lab/silence_vibration_sutra_flow.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
@@ -1402,6 +1469,7 @@
       ],
       "cited_in": [
         "proof_lab/ghi_stem_sup_compiled.py",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/91_ghi_stem_sup_compiled_theorem.md"
       ]
     },
@@ -1463,6 +1531,7 @@
         "proof_lab/samasa_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
@@ -1505,7 +1574,19 @@
         "proof_lab/ugit_at_stem_sup_compiled.py",
         "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
         "theorum/111_stri_pratyaya_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/92_hal_stem_sup_compiled_theorem.md"
+      ]
+    },
+    "1.4.21": {
+      "text": "bahuṣu bahuvacanam",
+      "text_devanagari": "बहुषु बहुवचनम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "1.4.23": {
@@ -1621,6 +1702,7 @@
       "theorems": [],
       "cited_in": [
         "proof_lab/nirukta_nama_akhyatajani.py",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md"
       ]
     },
@@ -1678,6 +1760,28 @@
         "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
+    "2.1.1": {
+      "text": "samarthaḥ padavidhiḥ",
+      "text_devanagari": "समर्थः पदविधिः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.1.2": {
+      "text": "subāmantrite parāṅgavat svare",
+      "text_devanagari": "सुबामन्त्रिते पराङ्गवत् स्वरे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
     "2.1.3": {
       "text": "prāk kaḍārāt samāsaḥ",
       "text_devanagari": "प्राक् कडारात् समासः",
@@ -1689,7 +1793,8 @@
       ],
       "cited_in": [
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.1.4": {
@@ -1703,7 +1808,8 @@
       ],
       "cited_in": [
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.1.5": {
@@ -1717,7 +1823,8 @@
       ],
       "cited_in": [
         "proof_lab/avyayibhava_dvigu_compiled.py",
-        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.1.6": {
@@ -1731,7 +1838,8 @@
       ],
       "cited_in": [
         "proof_lab/avyayibhava_dvigu_compiled.py",
-        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.1.7": {
@@ -1745,7 +1853,96 @@
       ],
       "cited_in": [
         "proof_lab/avyayibhava_dvigu_compiled.py",
-        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.1.8": {
+      "text": "yāvadavadhāraṇe",
+      "text_devanagari": "यावदवधारणे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.1.9": {
+      "text": "suppratinā mātrārthe",
+      "text_devanagari": "सुप्प्रतिना मात्रार्थे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.1.10": {
+      "text": "akṣaśalākāsaṁkhyāḥ pariṇā",
+      "text_devanagari": "अक्षशलाकासंख्याः परिणा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.1.11": {
+      "text": "vibhāṣā",
+      "text_devanagari": "विभाषा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.1.12": {
+      "text": "apaparibahirañcavaḥ pañcamyā",
+      "text_devanagari": "अपपरिबहिरञ्चवः पञ्चम्या",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.1.13": {
+      "text": "āṅ maryādābhividhyoḥ",
+      "text_devanagari": "आङ् मर्यादाभिविध्योः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.1.18": {
+      "text": "",
+      "text_devanagari": "पारे मध्ये षष्ठ्या वा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.1.21": {
+      "text": "",
+      "text_devanagari": "अन्यपदार्थे च संज्ञायाम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.1.22": {
@@ -1759,7 +1956,19 @@
       ],
       "cited_in": [
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.1.23": {
+      "text": "dviguśca",
+      "text_devanagari": "द्विगुश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.1.24": {
@@ -1773,7 +1982,30 @@
       ],
       "cited_in": [
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.1.30": {
+      "text": "tṛtīyā tatkṛtārthena guṇavacanena",
+      "text_devanagari": "तृतीया तत्कृतार्थेन गुणवचनेन",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.1.32": {
+      "text": "kartṛkaraṇe kṛtā bahulam",
+      "text_devanagari": "कर्तृकरणे कृता बहुलम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.1.36": {
@@ -1787,7 +2019,8 @@
       ],
       "cited_in": [
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.1.37": {
@@ -1801,7 +2034,19 @@
       ],
       "cited_in": [
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.1.39": {
+      "text": "stokāntikadūrārthakṛcchrāṇi ktena",
+      "text_devanagari": "स्तोकान्तिकदूरार्थकृच्छ्राणि क्तेन",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.1.40": {
@@ -1815,7 +2060,30 @@
       ],
       "cited_in": [
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.1.48": {
+      "text": "",
+      "text_devanagari": "पात्रेसमितादयश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.1.49": {
+      "text": "pūrvakālaikasarvajaratpurāṇanavakevalāḥ samānādhikaraṇena",
+      "text_devanagari": "पूर्वकालैकसर्वजरत्पुराणनवकेवलाः समानाधिकरणेन",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.1.51": {
@@ -1829,7 +2097,8 @@
       ],
       "cited_in": [
         "proof_lab/avyayibhava_dvigu_compiled.py",
-        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.1.52": {
@@ -1843,7 +2112,85 @@
       ],
       "cited_in": [
         "proof_lab/avyayibhava_dvigu_compiled.py",
-        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.1.57": {
+      "text": "viśeṣaṇaṁ viśeṣyeṇa bahulam",
+      "text_devanagari": "विशेषणं विशेष्येण बहुलम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.1.61": {
+      "text": "sanmahatparamottamotkṛṣṭāḥ pūjyamānaiḥ",
+      "text_devanagari": "सन्महत्परमोत्तमोत्कृष्टाः पूज्यमानैः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.1.72": {
+      "text": "",
+      "text_devanagari": "मयूरव्यंसकादयश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.1": {
+      "text": "pūrvāparādharottaramekadeśinaikādhikaraṇe",
+      "text_devanagari": "पूर्वापराधरोत्तरमेकदेशिनैकाधिकरणे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.2": {
+      "text": "ardhaṁ napuṁsakam",
+      "text_devanagari": "अर्धं नपुंसकम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.3": {
+      "text": "",
+      "text_devanagari": "द्वितीयतृतीयचतुर्थतुर्याण्यन्यतरस्याम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.6": {
+      "text": "nañ",
+      "text_devanagari": "नञ्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.2.8": {
@@ -1857,7 +2204,74 @@
       ],
       "cited_in": [
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.10": {
+      "text": "na nirdhāraṇe",
+      "text_devanagari": "न निर्धारणे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.17": {
+      "text": "nityaṁ krīḍājīvikayoḥ",
+      "text_devanagari": "नित्यं क्रीडाजीविकयोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.18": {
+      "text": "kugatiprādayaḥ",
+      "text_devanagari": "कुगतिप्रादयः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.19": {
+      "text": "upapadamatiṅ",
+      "text_devanagari": "उपपदमतिङ्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.21": {
+      "text": "",
+      "text_devanagari": "तृतीयाप्रभृतीन्यन्यतरस्याम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.22": {
+      "text": "",
+      "text_devanagari": "क्त्वा च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.2.23": {
@@ -1871,7 +2285,8 @@
       ],
       "cited_in": [
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.2.24": {
@@ -1885,7 +2300,52 @@
       ],
       "cited_in": [
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.25": {
+      "text": "saṁkhyayā'vyayāsannādūrādhikasaṁkhyāḥ saṁkhyeye",
+      "text_devanagari": "संख्ययाऽव्ययासन्नादूराधिकसंख्याः संख्येये",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.26": {
+      "text": "diṅnāmānyantarāle",
+      "text_devanagari": "दिङ्नामान्यन्तराले",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.27": {
+      "text": "tatra tenedamiti sarūpe",
+      "text_devanagari": "तत्र तेनेदमिति सरूपे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.28": {
+      "text": "tena saheti tulyayoge",
+      "text_devanagari": "तेन सहेति तुल्ययोगे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.2.29": {
@@ -1899,7 +2359,8 @@
       ],
       "cited_in": [
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.2.30": {
@@ -1915,7 +2376,41 @@
         "proof_lab/avyayibhava_dvigu_compiled.py",
         "proof_lab/samasa_compiled.py",
         "theorum/104_samasa_compiled_theorem.md",
-        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.31": {
+      "text": "rājadantādiṣu param",
+      "text_devanagari": "राजदन्तादिषु परम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.32": {
+      "text": "dvandve ghi",
+      "text_devanagari": "द्वन्द्वे घि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.33": {
+      "text": "ajādyadantam",
+      "text_devanagari": "अजाद्यदन्तम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.2.34": {
@@ -1929,7 +2424,52 @@
       ],
       "cited_in": [
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.35": {
+      "text": "saptamīviśeṣaṇe bahuvrīhau",
+      "text_devanagari": "सप्तमीविशेषणे बहुव्रीहौ",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.36": {
+      "text": "niṣṭhā",
+      "text_devanagari": "निष्ठा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.37": {
+      "text": "vāhitāgnyādiṣu",
+      "text_devanagari": "वाहिताग्न्यादिषु",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.2.38": {
+      "text": "kaḍārāḥ karmadhāraye",
+      "text_devanagari": "कडाराः कर्मधारये",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.3.1": {
@@ -1943,6 +2483,7 @@
       ],
       "cited_in": [
         "proof_lab/karaka_vibhakti_carrier.py",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/68_karaka_vibhakti_carrier_theorem.md"
       ]
     },
@@ -1957,6 +2498,7 @@
       ],
       "cited_in": [
         "proof_lab/karaka_vibhakti_carrier.py",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/68_karaka_vibhakti_carrier_theorem.md"
       ]
     },
@@ -2041,6 +2583,7 @@
       ],
       "cited_in": [
         "proof_lab/karaka_vibhakti_carrier.py",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/68_karaka_vibhakti_carrier_theorem.md"
       ]
     },
@@ -2055,7 +2598,30 @@
       ],
       "cited_in": [
         "proof_lab/avyayibhava_dvigu_compiled.py",
-        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.4.2": {
+      "text": "dvandvaśca prāṇitūryasenāṅgānām",
+      "text_devanagari": "द्वन्द्वश्च प्राणितूर्यसेनाङ्गानाम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.4.14": {
+      "text": "",
+      "text_devanagari": "न दधिपयआदीनि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.4.17": {
@@ -2069,7 +2635,8 @@
       ],
       "cited_in": [
         "proof_lab/avyayibhava_dvigu_compiled.py",
-        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.4.18": {
@@ -2083,7 +2650,30 @@
       ],
       "cited_in": [
         "proof_lab/avyayibhava_dvigu_compiled.py",
-        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.4.19": {
+      "text": "tatpuruṣo'nañ karmadhārayaḥ",
+      "text_devanagari": "तत्पुरुषोऽनञ् कर्मधारयः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.4.20": {
+      "text": "",
+      "text_devanagari": "संज्ञायां कन्थोशीनरेषु",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.4.26": {
@@ -2097,7 +2687,41 @@
       ],
       "cited_in": [
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.4.29": {
+      "text": "rātrāhnāhāḥ puṁsi",
+      "text_devanagari": "रात्राह्नाहाः पुंसि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.4.30": {
+      "text": "apathaṁ napuṁsakam",
+      "text_devanagari": "अपथं नपुंसकम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.4.31": {
+      "text": "ardharcāḥ puṁsi ca",
+      "text_devanagari": "अर्धर्चाः पुंसि च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.4.36": {
@@ -2129,7 +2753,8 @@
         "proof_lab/samasa_compiled.py",
         "theorum/104_samasa_compiled_theorem.md",
         "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md",
-        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.4.74": {
@@ -2182,7 +2807,8 @@
       ],
       "cited_in": [
         "proof_lab/avyayibhava_dvigu_compiled.py",
-        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.4.83": {
@@ -2196,19 +2822,21 @@
       ],
       "cited_in": [
         "proof_lab/avyayibhava_dvigu_compiled.py",
-        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.4.84": {
-      "text": "",
+      "text": "tṛtīyāsaptamyorbahulam",
       "text_devanagari": "तृतीयासप्तम्योर्बहुलम्",
       "in_pinned_edition": true,
-      "iast_matches_pinned_edition": null,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
         "proof_lab/avyayibhava_dvigu_compiled.py",
-        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "2.4.85": {
@@ -2225,6 +2853,7 @@
         "proof_lab/atmanepada_lrt_lut_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -3405,6 +4034,7 @@
         "proof_lab/nirukta_nama_akhyatajani.py",
         "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
@@ -3487,7 +4117,8 @@
       ],
       "cited_in": [
         "proof_lab/stri_pratyaya_compiled.py",
-        "theorum/111_stri_pratyaya_compiled_theorem.md"
+        "theorum/111_stri_pratyaya_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "4.1.16": {
@@ -3527,7 +4158,8 @@
       ],
       "cited_in": [
         "proof_lab/avyayibhava_dvigu_compiled.py",
-        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "4.1.41": {
@@ -3541,7 +4173,8 @@
       ],
       "cited_in": [
         "proof_lab/stri_pratyaya_compiled.py",
-        "theorum/111_stri_pratyaya_compiled_theorem.md"
+        "theorum/111_stri_pratyaya_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "4.1.75": {
@@ -3566,7 +4199,8 @@
       ],
       "cited_in": [
         "proof_lab/taddhita_an_in_yan_compiled.py",
-        "theorum/103_taddhita_an_in_yan_compiled_theorem.md"
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "4.1.82": {
@@ -3826,6 +4460,105 @@
         "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md"
       ]
     },
+    "5.4.68": {
+      "text": "samāsāntāḥ",
+      "text_devanagari": "समासान्ताः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "5.4.69": {
+      "text": "na pūjanāt",
+      "text_devanagari": "न पूजनात्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "5.4.71": {
+      "text": "nañastatpuruṣāt",
+      "text_devanagari": "नञस्तत्पुरुषात्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "5.4.73": {
+      "text": "bahuvrīhau saṁkhyeye ḍajabahugaṇāt",
+      "text_devanagari": "बहुव्रीहौ संख्येये डजबहुगणात्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "5.4.74": {
+      "text": "ṛkpūrabdhūḥpathāmānakṣe",
+      "text_devanagari": "ऋक्पूरब्धूःपथामानक्षे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "5.4.75": {
+      "text": "ac pratyanvavapūrvāt sāmalomnaḥ",
+      "text_devanagari": "अच् प्रत्यन्ववपूर्वात् सामलोम्नः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "5.4.86": {
+      "text": "tatpuruṣasyāṅguleḥ saṁkhyāvyayādeḥ",
+      "text_devanagari": "तत्पुरुषस्याङ्गुलेः संख्याव्ययादेः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "5.4.87": {
+      "text": "ahassarvaikadeśasaṁkhyātapuṇyācca rātreḥ",
+      "text_devanagari": "अहस्सर्वैकदेशसंख्यातपुण्याच्च रात्रेः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "5.4.89": {
+      "text": "na saṁkhyādeḥ samāhāre",
+      "text_devanagari": "न संख्यादेः समाहारे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
     "5.4.91": {
       "text": "rājāhaḥsakhibhyaṣ ṭac",
       "text_devanagari": "राजाहस्सखिभ्यष्टच्",
@@ -3838,7 +4571,8 @@
       ],
       "cited_in": [
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "5.4.92": {
@@ -3852,7 +4586,129 @@
       ],
       "cited_in": [
         "proof_lab/avyayibhava_dvigu_compiled.py",
-        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "5.4.106": {
+      "text": "dvandvāccudaṣahāntāt samāhāre",
+      "text_devanagari": "द्वन्द्वाच्चुदषहान्तात् समाहारे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "5.4.107": {
+      "text": "avyayībhāve śaratprabhṛtibhyaḥ",
+      "text_devanagari": "अव्ययीभावे शरत्प्रभृतिभ्यः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "5.4.108": {
+      "text": "anaśca",
+      "text_devanagari": "अनश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "5.4.109": {
+      "text": "napuṁsakādanyatarasyām",
+      "text_devanagari": "नपुंसकादन्यतरस्याम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "5.4.113": {
+      "text": "bahuvrīhau sakthyakṣṇoḥ svāṅgāt ṣac",
+      "text_devanagari": "बहुव्रीहौ सक्थ्यक्ष्णोः स्वाङ्गात् षच्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "5.4.127": {
+      "text": "ic karmavyatihāre",
+      "text_devanagari": "इच् कर्मव्यतिहारे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "5.4.151": {
+      "text": "uraḥprabhṛtibhyaḥ kap",
+      "text_devanagari": "उरःप्रभृतिभ्यः कप्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "5.4.153": {
+      "text": "nadyṛtaśca",
+      "text_devanagari": "नद्यृतश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "5.4.154": {
+      "text": "śeṣādvibhāṣā",
+      "text_devanagari": "शेषाद्विभाषा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "5.4.155": {
+      "text": "na saṁjñāyām",
+      "text_devanagari": "न संज्ञायाम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "5.4.160": {
+      "text": "",
+      "text_devanagari": "निष्प्रवाणिश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "6.1.1": {
@@ -4152,6 +5008,7 @@
         "proof_lab/shaiva_sources_nativized.py",
         "proof_lab/silence_vibration_sutra_flow.py",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
@@ -4282,6 +5139,7 @@
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
@@ -4455,6 +5313,7 @@
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "proof_lab/ting_lat_parasmaipada.py",
         "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
@@ -4655,15 +5514,181 @@
       ]
     },
     "6.1.223": {
-      "text": "",
+      "text": "samāsasya",
       "text_devanagari": "समासस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/samasa_compiled.py",
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.2.1": {
+      "text": "bahuvrīhau prakṛtyā pūrvapadam",
+      "text_devanagari": "बहुव्रीहौ प्रकृत्या पूर्वपदम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.2.2": {
+      "text": "",
+      "text_devanagari": "तत्पुरुषे तुल्यार्थतृतीयासप्तम्युपमानाव्ययद्वितीयाकृत्याः",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": null,
       "level": "cited",
       "theorems": [],
       "cited_in": [
-        "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.1": {
+      "text": "aluguttarapade",
+      "text_devanagari": "अलुगुत्तरपदे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.2": {
+      "text": "pañcamyāḥ stokādibhyaḥ",
+      "text_devanagari": "पञ्चम्याः स्तोकादिभ्यः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.3": {
+      "text": "ojaḥsaho'mbhastamasaḥ tṛtīyāyāḥ",
+      "text_devanagari": "ओजःसहोऽम्भस्तमसः तृतीयायाः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.4": {
+      "text": "manasaḥ saṁjñāyām",
+      "text_devanagari": "मनसः संज्ञायाम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.7": {
+      "text": "vaiyākaraṇākhyāyāṁ caturthyāḥ",
+      "text_devanagari": "वैयाकरणाख्यायां चतुर्थ्याः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.9": {
+      "text": "haladantāt saptamyāḥ saṁjñāyām",
+      "text_devanagari": "हलदन्तात् सप्तम्याः संज्ञायाम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.14": {
+      "text": "tatpuruṣe kṛti bahulam",
+      "text_devanagari": "तत्पुरुषे कृति बहुलम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.18": {
+      "text": "",
+      "text_devanagari": "शयवासवासिष्वकालात्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.21": {
+      "text": "ṣaṣṭhyā ākrośe",
+      "text_devanagari": "षष्ठ्या आक्रोशे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.23": {
+      "text": "ṛto vidyāyonisambandhebhyaḥ",
+      "text_devanagari": "ऋतो विद्यायोनिसम्बन्धेभ्यः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.24": {
+      "text": "vibhāṣā svasṛpatyoḥ",
+      "text_devanagari": "विभाषा स्वसृपत्योः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.34": {
+      "text": "striyāḥ puṁvadbhāṣitapuṁskādanūṅ samānādhikaraṇe striyāmapūraṇīpriyā''diṣu",
+      "text_devanagari": "स्त्रियाः पुंवद्भाषितपुंस्कादनूङ् समानाधिकरणे स्त्रियामपूरणीप्रियाऽऽदिषु",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.42": {
+      "text": "puṁvat karmadhārayajātīyadeśīyeṣu",
+      "text_devanagari": "पुंवत् कर्मधारयजातीयदेशीयेषु",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "6.3.46": {
@@ -4677,7 +5702,85 @@
       ],
       "cited_in": [
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.67": {
+      "text": "arurdviṣadajantasya mum",
+      "text_devanagari": "अरुर्द्विषदजन्तस्य मुम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.73": {
+      "text": "nalopo nañaḥ",
+      "text_devanagari": "नलोपो नञः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.74": {
+      "text": "tasmānnuḍaci",
+      "text_devanagari": "तस्मान्नुडचि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.78": {
+      "text": "sahasya saḥ saṁjñāyām",
+      "text_devanagari": "सहस्य सः संज्ञायाम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.82": {
+      "text": "vopasarjanasya",
+      "text_devanagari": "वोपसर्जनस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.83": {
+      "text": "",
+      "text_devanagari": "प्रकृत्याऽऽशिष्यगोवत्सहलेषु",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "6.3.137": {
+      "text": "anyeṣāmapi dṛśyate",
+      "text_devanagari": "अन्येषामपि दृश्यते",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "6.4.1": {
@@ -5064,6 +6167,7 @@
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -5078,7 +6182,8 @@
       ],
       "cited_in": [
         "proof_lab/samasa_compiled.py",
-        "theorum/104_samasa_compiled_theorem.md"
+        "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "6.4.146": {
@@ -5112,7 +6217,8 @@
         "proof_lab/taddhita_an_in_yan_compiled.py",
         "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
         "theorum/111_stri_pratyaya_compiled_theorem.md",
-        "theorum/114_avyayibhava_dvigu_compiled_theorem.md"
+        "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "6.4.150": {
@@ -5234,6 +6340,7 @@
         "proof_lab/sarvanama_ap_sup_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/93_napumsaka_sup_compiled_theorem.md",
         "theorum/94_sarvanama_sup_compiled_theorem.md",
@@ -5404,6 +6511,7 @@
         "proof_lab/avyayibhava_dvigu_compiled.py",
         "proof_lab/napumsaka_sup_compiled.py",
         "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/93_napumsaka_sup_compiled_theorem.md"
       ]
     },
@@ -5913,7 +7021,8 @@
       ],
       "cited_in": [
         "proof_lab/taddhita_an_in_yan_compiled.py",
-        "theorum/103_taddhita_an_in_yan_compiled_theorem.md"
+        "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "7.2.118": {
@@ -6171,6 +7280,7 @@
         "proof_lab/napumsaka_sup_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/93_napumsaka_sup_compiled_theorem.md",
         "theorum/94_sarvanama_sup_compiled_theorem.md"
@@ -6811,6 +7921,7 @@
         "proof_lab/samasa_compiled.py",
         "proof_lab/stem_classes_gayatri_coverage.py",
         "theorum/104_samasa_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md",
         "theorum/92_hal_stem_sup_compiled_theorem.md"
@@ -7063,6 +8174,7 @@
         "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md",
         "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
         "theorum/116_atmanepada_lun_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
@@ -7168,6 +8280,7 @@
         "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md",
         "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
         "theorum/116_atmanepada_lun_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
@@ -7243,6 +8356,39 @@
         "proof_lab/shaiva_sources_nativized.py"
       ]
     },
+    "8.3.37": {
+      "text": "",
+      "text_devanagari": "कुप्वोः ≍क≍पौ च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "8.3.41": {
+      "text": "",
+      "text_devanagari": "इदुदुपधस्य चाप्रत्ययस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
+    "8.3.45": {
+      "text": "nityaṁ samāse'nuttarapadasthasya",
+      "text_devanagari": "नित्यं समासेऽनुत्तरपदस्थस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/118_samasa_mathematical_construction_theorem.md"
+      ]
+    },
     "8.3.57": {
       "text": "iṇkoḥ",
       "text_devanagari": "इण्कोः",
@@ -7302,6 +8448,7 @@
         "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
         "theorum/116_atmanepada_lun_compiled_theorem.md",
         "theorum/117_asirlin_atmanepada_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/89_ngi_stem_sup_compiled_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md",
@@ -7435,7 +8582,8 @@
         "proof_lab/lun_parasmaipada_compiled.py",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
         "theorum/116_atmanepada_lun_compiled_theorem.md",
-        "theorum/117_asirlin_atmanepada_compiled_theorem.md"
+        "theorum/117_asirlin_atmanepada_compiled_theorem.md",
+        "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
     "8.4.45": {
@@ -7447,6 +8595,7 @@
       "theorems": [],
       "cited_in": [
         "proof_lab/shaiva_sources_nativized.py",
+        "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md"
       ]
     },

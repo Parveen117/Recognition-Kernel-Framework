@@ -45,3 +45,7 @@ PROVED: as in §2.
 NOT CLAIMED:
 - the sense of each avyayībhāva (samīpa, vīpsā, adhikaraṇa, sādṛśya) declared from 2.1.6 / 2.1.7; the ṅīp / neuter option of 4.1.21 (tripadam kept neuter) declared; the other cases of the avyayībhāva (2.4.84 tṛtīyāsaptamyor bahulam), the dvigu's taddhita sense, the non-samāhāra dvigu, the accent
 - RH, YM untouched
+
+## 5. Note (2 November 2026, from theorum/118)
+
+The pinned sūtrapāṭha reads 2.1.7 as *yathāsādṛśye* = *yathā + a-sādṛśye*: *yathā* compounds in a sense **other than** similarity. The sense of *yathāśakti* is therefore yogyatā / anativṛtti, not "sādṛśya" as this capsule's claim-boundary sentence labelled it; the derivation (2.1.7, 2.4.82) and the certificate are unaffected (the sense is a declared input), so the pin stands. See theorum/118 §1.
