@@ -46,7 +46,7 @@ ownership and class 7 derivation next.
 **Owned śnam infixes and class 7:** [PG7](snam_lat/README.md) adds 23 identified
 roots / 288 cells / 330 branches, keeping root and affix ownership through
 insertion, strong/weak deletion and ordered phonetic changes. Its
-[current coverage audit](snam_lat/COVERAGE.md) separates the text inventory,
+[PG7 coverage audit](snam_lat/COVERAGE.md) separates the text inventory,
 bounded records, root preprocessing and 46 completed root entries / 603 laṭ
 cells across PG5–PG7. [Remaining work](snam_lat/REMAINING.md) includes
 bhuj/tṛh, adādi/juhotyādi and the wider grammar packages.
@@ -63,13 +63,26 @@ remains separately identified; CI and main merging are deferred.
 **Owned abhyāsa and strong/weak juhotyādi:** [PG9](abhyasa_lat/README.md)
 adds hu, dā and dhā: three roots / 45 cells. Copied sound identities,
 collective abhyasta, ghu-conditioned ā-lopa and dhā's specific visibility
-permission are retained in the derivation. [Current coverage](abhyasa_lat/COVERAGE_STATUS.json)
+permission are retained in the derivation. [PG9 coverage](abhyasa_lat/COVERAGE_STATUS.json)
 is 53/2,229 root entries and 693 present cells, with no overall grammar
 percentage. [Validation](abhyasa_lat/VALIDATION.md) separates 38 literal
 word witnesses, 18 refusals and 63 controls from the 45-cell implementation
 comparison. [Claude's T89 review](abhyasa_lat/CONCURRENT_REVIEW.json) records
 five stage-removal checks hidden in a comment. [Remaining work](abhyasa_lat/REMAINING.md)
 includes the other class-3 roots, further adādi and the native operator lift.
+
+**Further juhotyādi and vowel-final adādi:** [PG10](present_expansion/README.md)
+adds 38 roots / 396 cells / 438 branches. Owned copies retain lexical i,
+copy guṇa and r-accompanied replacement history. Bhī/hāk and ūrṇu preserve
+their options; ru/tu/stu īṭ belongs to the following ending and includes
+the licensed apit cases. [Current coverage](present_expansion/COVERAGE_STATUS.json)
+is 91/2,229 roots and 1,089 present cells. [Validation](present_expansion/VALIDATION.md)
+records 153 literal word witnesses across 32 roots, 35 refusals, 94 direct
+controls and zero differences across all 396 new cells. Six entries have
+no separate full-word witness in the selected commentary passages.
+[Remaining work](present_expansion/REMAINING.md) keeps the tagged/vowel-initial
+class-3 entries, further class 2, wider grammar and native operator lift
+open. Earlier certificates remain frozen; CI and main merging stay deferred.
 
 ## Read in this order
 
