@@ -134,6 +134,9 @@ TEXT = {
 EDITION_DIFFERS = {  # numbers whose text in the pinned PG1 edition is a different rule (other editions count a Kāśikā / vārttika rule here)
     "8.4.48": "cayo dvitīyāḥ śari pauṣkarasādeḥ is a vārttika in the pinned edition, where 8.4.48 = nādinyākrośe putrasya; cited with the Siddhānta-kaumudī number",
 }
+TYPOGRAPHY = {  # pinned text prints a consonant without virāma where the sūtra has a bare consonant; the curated IAST is kept
+    "7.1.18": "pinned text prints औङ without virāma; the sūtra reads auṅ āpaḥ",
+}
 MISNUMBERED = {"1.1.6": "1.3.9 tasya lopaḥ", "1.1.15": "1.3.9 tasya lopaḥ"}
 
 # the executed layers: which sūtras each certified packet realizes, and how
@@ -238,8 +241,9 @@ def build() -> dict:
             "text": curated,
             "text_devanagari": skt,
             "in_pinned_edition": n in deva,
-            "iast_matches_pinned_edition": (_norm(curated) == _norm(deva_to_iast(skt))) if (curated and skt and n not in EDITION_DIFFERS) else None,
+            "iast_matches_pinned_edition": (_norm(curated) == _norm(deva_to_iast(skt))) if (curated and skt and n not in EDITION_DIFFERS and n not in TYPOGRAPHY) else None,
             **({"edition_note": EDITION_DIFFERS[n]} if n in EDITION_DIFFERS else {}),
+            **({"typography_note": TYPOGRAPHY[n]} if n in TYPOGRAPHY else {}),
             "level": level,
             "theorems": sorted(set(where), key=lambda s: int(s[1:])),
             "cited_in": sorted(cited.get(n, set())),
