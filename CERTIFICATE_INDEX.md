@@ -1203,6 +1203,22 @@ proof_lab/test_nic_causative_compiled.py
 proof_lab/NIC_CAUSATIVE_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 106 san Desideratives Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | pipaṭhiṣati, bubhūṣati, cikīrṣati, jigamiṣati, pipāsati, ninīṣati, pipakṣati, jijñāsate, ditsati by 3.1.7 with 6.1.9 on theorum/102's abhyāsa carrier and 7.4.79, 7.2.35 / 7.2.10 / 7.2.58, 1.2.9, 6.4.16, 7.1.100, 8.2.77, 8.3.59, 8.2.30, 7.4.54 / 7.4.49 / 7.4.58, 1.3.57 with 3.4.79; each rule breaks exactly the forms stated |
+| Status | `PASS_SAN_DESIDERATIVE_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `1164e8716903032b4254280ceed473ff26099e6648fa43b217b6d49e1de84924` |
+| Boundary | anudātta and ghu status declared; other persons / lakāras, sannanta kṛt, 7.4.55–57 roots not claimed |
+
+```text
+theorum/106_san_desiderative_compiled_theorem.md
+proof_lab/san_desiderative_compiled.py
+proof_lab/test_san_desiderative_compiled.py
+proof_lab/SAN_DESIDERATIVE_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |

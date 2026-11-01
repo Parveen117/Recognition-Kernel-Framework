@@ -10,12 +10,12 @@
   ],
   "counts": {
     "compiled": 10,
-    "meta": 105,
-    "hand_coded": 179,
-    "cited": 60,
+    "meta": 108,
+    "hand_coded": 187,
+    "cited": 62,
     "misnumbered": 2,
-    "entries": 356,
-    "text_missing": 34,
+    "entries": 369,
+    "text_missing": 36,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
     "iast_mismatch_with_pinned_edition": 0
@@ -93,17 +93,20 @@
       "text_devanagari": "क्ङिति च",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "hand_coded",
+      "level": "meta",
       "theorems": [
         "T100",
-        "T102"
+        "T102",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/lit_parasmaipada_compiled.py",
         "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/san_desiderative_compiled.py",
         "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/106_san_desiderative_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md"
       ]
     },
@@ -205,6 +208,18 @@
         "theorum/56_canvas_operators_nativized_theorem.md"
       ],
       "canvas_meant": "1.3.9 tasya lopaḥ"
+    },
+    "1.1.20": {
+      "text": "",
+      "text_devanagari": "दाधा घ्वदाप्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/106_san_desiderative_compiled_theorem.md"
+      ]
     },
     "1.1.26": {
       "text": "ktaktavatū niṣṭhā",
@@ -743,6 +758,20 @@
         "theorum/102_lit_parasmaipada_compiled_theorem.md"
       ]
     },
+    "1.2.9": {
+      "text": "iko jhal",
+      "text_devanagari": "इको झल्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T106"
+      ],
+      "cited_in": [
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/106_san_desiderative_compiled_theorem.md"
+      ]
+    },
     "1.2.26": {
       "text": "ral o vyupadhād dhalādeḥ saṁś ca",
       "text_devanagari": "रलो व्युपधाद्धलादेः संश्च",
@@ -918,7 +947,8 @@
         "T64",
         "T66",
         "T82",
-        "T105"
+        "T105",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/lat_atmanepada.py",
@@ -928,10 +958,12 @@
         "proof_lab/nirukta_nama_akhyatajani.py",
         "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/san_desiderative_compiled.py",
         "proof_lab/shaiva_sources_nativized.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "proof_lab/ting_lat_parasmaipada.py",
         "theorum/105_nic_causative_compiled_theorem.md",
+        "theorum/106_san_desiderative_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
@@ -1136,6 +1168,20 @@
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
     },
+    "1.3.57": {
+      "text": "jñāśrusmṛdṛśāṁ sanaḥ",
+      "text_devanagari": "ज्ञाश्रुस्मृदृशां सनः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T106"
+      ],
+      "cited_in": [
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/106_san_desiderative_compiled_theorem.md"
+      ]
+    },
     "1.3.72": {
       "text": "",
       "text_devanagari": "स्वरितञितः कर्त्रभिप्राये क्रियाफले",
@@ -1156,11 +1202,13 @@
       "level": "meta",
       "theorems": [
         "T95",
-        "T105"
+        "T105",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/nic_causative_compiled.py",
+        "proof_lab/san_desiderative_compiled.py",
         "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md"
       ]
@@ -1905,6 +1953,20 @@
         "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
+    "3.1.7": {
+      "text": "dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṁ vā",
+      "text_devanagari": "धातोः कर्मणः समानकर्तृकादिच्छायां वा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T106"
+      ],
+      "cited_in": [
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/106_san_desiderative_compiled_theorem.md"
+      ]
+    },
     "3.1.25": {
       "text": "",
       "text_devanagari": "सत्यापपाशरूपवीणातूलश्लोकसेनालोमत्वचवर्मवर्णचूर्णचुरादिभ्यो णिच्",
@@ -1937,11 +1999,14 @@
       "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
-        "T105"
+        "T105",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/nic_causative_compiled.py",
-        "theorum/105_nic_causative_compiled_theorem.md"
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/105_nic_causative_compiled_theorem.md",
+        "theorum/106_san_desiderative_compiled_theorem.md"
       ]
     },
     "3.1.33": {
@@ -2031,12 +2096,14 @@
       "theorems": [
         "T64",
         "T66",
-        "T105"
+        "T105",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lat_atmanepada.py",
         "proof_lab/nic_causative_compiled.py",
+        "proof_lab/san_desiderative_compiled.py",
         "proof_lab/ting_lat_parasmaipada.py",
         "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
@@ -2329,7 +2396,8 @@
         "T66",
         "T95",
         "T99",
-        "T105"
+        "T105",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
@@ -2337,6 +2405,7 @@
         "proof_lab/lat_atmanepada.py",
         "proof_lab/nic_causative_compiled.py",
         "proof_lab/paninian_it_samjna_compiled.py",
+        "proof_lab/san_desiderative_compiled.py",
         "proof_lab/ting_lat_parasmaipada.py",
         "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
@@ -2354,11 +2423,14 @@
       "level": "hand_coded",
       "theorems": [
         "T66",
-        "T99"
+        "T99",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
         "proof_lab/lat_atmanepada.py",
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/106_san_desiderative_compiled_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
@@ -2751,11 +2823,14 @@
       "level": "meta",
       "theorems": [
         "T89",
-        "T97"
+        "T97",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/106_san_desiderative_compiled_theorem.md",
         "theorum/89_ngi_stem_sup_compiled_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
@@ -2970,7 +3045,9 @@
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
-        "theorum/102_lit_parasmaipada_compiled_theorem.md"
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/106_san_desiderative_compiled_theorem.md"
       ]
     },
     "6.1.2": {
@@ -2995,7 +3072,9 @@
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
-        "theorum/102_lit_parasmaipada_compiled_theorem.md"
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/106_san_desiderative_compiled_theorem.md"
       ]
     },
     "6.1.8": {
@@ -3009,7 +3088,22 @@
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
+        "proof_lab/san_desiderative_compiled.py",
         "theorum/102_lit_parasmaipada_compiled_theorem.md"
+      ]
+    },
+    "6.1.9": {
+      "text": "sanyaṅoḥ",
+      "text_devanagari": "सन्यङोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T106"
+      ],
+      "cited_in": [
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/106_san_desiderative_compiled_theorem.md"
       ]
     },
     "6.1.64": {
@@ -3431,6 +3525,7 @@
         "proof_lab/lun_parasmaipada_compiled.py",
         "proof_lab/napumsaka_sup_compiled.py",
         "proof_lab/nic_causative_compiled.py",
+        "proof_lab/san_desiderative_compiled.py",
         "proof_lab/sarvanama_ap_sup_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/stem_classes_gayatri_coverage.py",
@@ -3768,6 +3863,20 @@
         "proof_lab/stem_classes_gayatri_coverage.py",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md"
+      ]
+    },
+    "6.4.16": {
+      "text": "ajjhanagamāṁ sani",
+      "text_devanagari": "अज्झनगमां सनि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T106"
+      ],
+      "cited_in": [
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/106_san_desiderative_compiled_theorem.md"
       ]
     },
     "6.4.22": {
@@ -4444,6 +4553,20 @@
         "theorum/90_r_stem_sup_compiled_theorem.md"
       ]
     },
+    "7.1.100": {
+      "text": "ṝta id dhātoḥ",
+      "text_devanagari": "ॠत इद्धातोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T106"
+      ],
+      "cited_in": [
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/106_san_desiderative_compiled_theorem.md"
+      ]
+    },
     "7.2.1": {
       "text": "sici vṛddhiḥ parasmaipadeṣu",
       "text_devanagari": "सिचि वृद्धिः परस्मैपदेषु",
@@ -4468,7 +4591,8 @@
         "T85",
         "T86",
         "T100",
-        "T101"
+        "T101",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/krt_ktva_tumun_tavya_compiled.py",
@@ -4476,9 +4600,11 @@
         "proof_lab/lun_parasmaipada_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
+        "proof_lab/san_desiderative_compiled.py",
         "proof_lab/tripadi_nishtha_compiled.py",
         "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
+        "theorum/106_san_desiderative_compiled_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
@@ -4521,15 +4647,18 @@
       "theorems": [
         "T97",
         "T100",
-        "T102"
+        "T102",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/lit_parasmaipada_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/paninian_it_samjna_compiled.py",
+        "proof_lab/san_desiderative_compiled.py",
         "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/106_san_desiderative_compiled_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -4552,10 +4681,13 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T97"
+        "T97",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/106_san_desiderative_compiled_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -4808,7 +4940,8 @@
         "T89",
         "T97",
         "T100",
-        "T105"
+        "T105",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/krt_ktva_tumun_tavya_compiled.py",
@@ -4821,9 +4954,11 @@
         "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/paninian_samjna_sound_layer.py",
         "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/san_desiderative_compiled.py",
         "proof_lab/ting_lat_parasmaipada.py",
         "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/105_nic_causative_compiled_theorem.md",
+        "theorum/106_san_desiderative_compiled_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
@@ -5159,6 +5294,21 @@
         "theorum/91_ghi_stem_sup_compiled_theorem.md"
       ]
     },
+    "7.4.49": {
+      "text": "saḥ syārdhadhātuke",
+      "text_devanagari": "सः स्यार्द्धधातुके",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "typography_note": "pinned text prints the doubled form syārddhadhātuke (dh doubled after r, 8.4.46); the sūtra is cited as saḥ syārdhadhātuke",
+      "level": "hand_coded",
+      "theorems": [
+        "T106"
+      ],
+      "cited_in": [
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/106_san_desiderative_compiled_theorem.md"
+      ]
+    },
     "7.4.50": {
       "text": "tāsastyor lopaḥ",
       "text_devanagari": "तासस्त्योर्लोपः",
@@ -5187,6 +5337,46 @@
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
+    "7.4.54": {
+      "text": "sani mīmāghurabhalabhaśakapatapadām aca is",
+      "text_devanagari": "सनि मीमाघुरभलभशकपतपदामच इस्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T106"
+      ],
+      "cited_in": [
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/106_san_desiderative_compiled_theorem.md"
+      ]
+    },
+    "7.4.55": {
+      "text": "",
+      "text_devanagari": "आप्ज्ञप्यृधामीत्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/106_san_desiderative_compiled_theorem.md"
+      ]
+    },
+    "7.4.58": {
+      "text": "atra lopo 'bhyāsasya",
+      "text_devanagari": "अत्र लोपोऽभ्यासस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T106"
+      ],
+      "cited_in": [
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/106_san_desiderative_compiled_theorem.md"
+      ]
+    },
     "7.4.59": {
       "text": "hrasvaḥ",
       "text_devanagari": "ह्रस्वः",
@@ -5194,11 +5384,14 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T102"
+        "T102",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
-        "theorum/102_lit_parasmaipada_compiled_theorem.md"
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/106_san_desiderative_compiled_theorem.md"
       ]
     },
     "7.4.60": {
@@ -5208,11 +5401,14 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T102"
+        "T102",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
-        "theorum/102_lit_parasmaipada_compiled_theorem.md"
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/106_san_desiderative_compiled_theorem.md"
       ]
     },
     "7.4.61": {
@@ -5233,11 +5429,14 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T102"
+        "T102",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
-        "theorum/102_lit_parasmaipada_compiled_theorem.md"
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/106_san_desiderative_compiled_theorem.md"
       ]
     },
     "7.4.66": {
@@ -5247,11 +5446,14 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T102"
+        "T102",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
-        "theorum/102_lit_parasmaipada_compiled_theorem.md"
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/106_san_desiderative_compiled_theorem.md"
       ]
     },
     "7.4.69": {
@@ -5287,7 +5489,23 @@
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
-        "theorum/102_lit_parasmaipada_compiled_theorem.md"
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/106_san_desiderative_compiled_theorem.md"
+      ]
+    },
+    "7.4.79": {
+      "text": "sanyataḥ",
+      "text_devanagari": "सन्यतः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T106"
+      ],
+      "cited_in": [
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/106_san_desiderative_compiled_theorem.md"
       ]
     },
     "8.1.21": {
@@ -5426,12 +5644,15 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T87"
+        "T87",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/hal_stem_sup_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
+        "proof_lab/san_desiderative_compiled.py",
         "proof_lab/tripadi_nishtha_compiled.py",
+        "theorum/106_san_desiderative_compiled_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md",
         "theorum/87_tripadi_nishtha_compiled_theorem.md",
         "theorum/92_hal_stem_sup_compiled_theorem.md"
@@ -5577,6 +5798,20 @@
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
     },
+    "8.2.77": {
+      "text": "hali ca",
+      "text_devanagari": "हलि च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T106"
+      ],
+      "cited_in": [
+        "proof_lab/san_desiderative_compiled.py",
+        "theorum/106_san_desiderative_compiled_theorem.md"
+      ]
+    },
     "8.3.7": {
       "text": "naś chavy apraśān",
       "text_devanagari": "नश्छव्यप्रशान्",
@@ -5714,12 +5949,15 @@
       "level": "meta",
       "theorems": [
         "T89",
-        "T90"
+        "T90",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/r_stem_sup_compiled.py",
+        "proof_lab/san_desiderative_compiled.py",
         "proof_lab/shaiva_sources_nativized.py",
+        "theorum/106_san_desiderative_compiled_theorem.md",
         "theorum/89_ngi_stem_sup_compiled_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md"
       ]
@@ -5738,7 +5976,8 @@
         "T93",
         "T94",
         "T97",
-        "T101"
+        "T101",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/ghi_stem_sup_compiled.py",
@@ -5747,9 +5986,11 @@
         "proof_lab/napumsaka_sup_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/r_stem_sup_compiled.py",
+        "proof_lab/san_desiderative_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
+        "theorum/106_san_desiderative_compiled_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/89_ngi_stem_sup_compiled_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md",
@@ -5922,12 +6163,15 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T102"
+        "T102",
+        "T106"
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
+        "proof_lab/san_desiderative_compiled.py",
         "proof_lab/shaiva_sources_nativized.py",
-        "theorum/102_lit_parasmaipada_compiled_theorem.md"
+        "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/106_san_desiderative_compiled_theorem.md"
       ]
     },
     "8.4.55": {
