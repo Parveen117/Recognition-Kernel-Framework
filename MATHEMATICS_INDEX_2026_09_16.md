@@ -157,6 +157,7 @@ Use the audited [publication copy](theorum/morphic_algebra/main.tex) for mathema
 | yaṅ intensives | [T108](theorum/108_yan_intensive_compiled_theorem.md) | 6 roots, laṭ Ā 3s: 7.4.27, 6.1.9 on 102's abhyāsa, 7.4.82, 7.4.83 / 7.4.85 + 8.3.24 + 8.4.58, 1.1.5, 3.4.79; each rule on exactly its forms |
 | Ugit at-stems | [T109](theorum/109_ugit_at_stem_sup_compiled_theorem.md) | bhavat, bhagavat, dhīmat, 66 cells on 92's carrier: 7.1.70 num by 82's marker reading, 6.4.14, 8.2.23, 8.2.9; each rule on exactly its cells |
 | The passive (yak) | [T110](theorum/110_passive_yak_compiled_theorem.md) | 11 roots, laṭ 3s/3p: 3.1.67, 1.1.5, 6.4.66, 6.1.15 + 6.1.108, 7.1.3, 3.4.79; each rule on exactly its forms |
+| Feminine affixes | [T111](theorum/111_stri_pratyaya_compiled_theorem.md) | 13 stems: ṭāp + 7.3.44, ṅīp 4.1.6 + 7.1.81, 4.1.15 / 4.1.16 + 6.4.150, ṅīṣ 4.1.41, 6.4.148; declined on 88 / 89; each rule on exactly its stems |
 | Pāṇinian cut-module algebra | [T56](theorum/56_canvas_operators_nativized_theorem.md), [T58](theorum/58_paninian_seam_calculus_theorem.md), [T60](theorum/60_seam_compensated_confluence_verdict_theorem.md), [T61](theorum/61_rewrite_rules_as_cut_module_operators_theorem.md) | finite declared carriers and rule sets |
 | Grammar carriers | [T63–68](#theorems-58-77-paninian-domain-yang-mills-tool-and-semantic-chain) | exact finite nominal, verbal, sandhi, and kāraka/vibhakti carriers |
 | Obligation and evidence ladders | [T69](theorum/69_mimamsa_obligation_closure_theorem.md), [T70](theorum/70_angatva_pramana_ladder_theorem.md) | declared Mīmāṃsā/pramāṇa finite models |
@@ -407,6 +408,7 @@ The register below distinguishes theorem capsules from plans, source maps, certi
 | 108 | [yaṅ Intensives Compiled](theorum/108_yan_intensive_compiled_theorem.md) | sanādyanta; 6 roots, laṭ ātmanepada 3s |
 | 109 | [Ugit at-Stems Declined](theorum/109_ugit_at_stem_sup_compiled_theorem.md) | ugit stems; 66 cells |
 | 110 | [The Passive Compiled](theorum/110_passive_yak_compiled_theorem.md) | bhāva / karman; 11 roots, laṭ 3s / 3p |
+| 111 | [The Feminine Affixes Compiled](theorum/111_stri_pratyaya_compiled_theorem.md) | strī-pratyaya; 13 stems + declension |
 
 ## 7. Parallel theorem registers
 

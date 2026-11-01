@@ -1283,6 +1283,22 @@ proof_lab/test_passive_yak_compiled.py
 proof_lab/PASSIVE_YAK_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 111 The Feminine Affixes Compiled packet
+
+| Field | Value |
+|---|---|
+| Certificate class | bālā, devā, ajā, kārikā, pācikā, nāyikā (ṭāp 4.1.4, 7.3.44), bhavantī, dhīmatī, bhagavatī (ṅīp 4.1.6, 7.1.81), aupagavī, dākṣī (4.1.15), gārgī (4.1.16, 6.4.150), gaurī (ṅīṣ 4.1.41), with 6.4.148; the forming affix's markers read by theorum/82; each rule breaks exactly the stems stated; bālā, kārikā on theorum/88 and bhavantī, gārgī on theorum/89 |
+| Status | `PASS_STRI_PRATYAYA_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `57435747f98233302542a21415e4baabf436c9d4a094674ad40a17778f8b1326` |
+| Boundary | gaurādi membership and optional affixes declared; 4.1.5, 4.1.20–75, ṅīn, ūṅ not claimed |
+
+```text
+theorum/111_stri_pratyaya_compiled_theorem.md
+proof_lab/stri_pratyaya_compiled.py
+proof_lab/test_stri_pratyaya_compiled.py
+proof_lab/STRI_PRATYAYA_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
