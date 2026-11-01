@@ -11,7 +11,7 @@ or its absence (nī, 7.2.10) decides the shape.
 ```text
 3.3.13  lṛṭ śeṣe ca      3.3.15  anadyatane luṭ      3.1.33  syatāsī lṛluṭoḥ      3.4.114 ārdhadhātukaṁ śeṣaḥ
 7.2.35  ārdhadhātukasyeḍ valādeḥ    7.2.58  gamer iṭ parasmaipadeṣu    7.2.10 ekāca upadeśe 'nudāttāt
-7.3.84 ; 6.1.78 ; 8.3.59            2.4.85  luṭaḥ prathamasya ḍārauras   6.4.143 ṭeḥ ; 1.1.64 aco 'ntyādi ṭi
+7.3.84 ; 6.1.78 ; 8.3.59            2.4.85  luṭaḥ prathamasya ḍāraurasaḥ   6.4.143 ṭeḥ ; 1.1.64 aco 'ntyādi ṭi
 7.4.50  tāsastyor lopaḥ             7.4.51  ri ca                        7.1.3 ; 7.3.101 ; 8.2.66 ; 8.3.15 ; 1.3.2–1.3.9
 ```
 
