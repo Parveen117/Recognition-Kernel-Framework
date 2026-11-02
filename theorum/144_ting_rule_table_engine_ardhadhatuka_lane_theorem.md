@@ -48,7 +48,7 @@ The present system stays at 5,373 / 5,373 and the suite at 908 / 908; 184 rows, 
 
 ## 3. Certificate
 
-theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `46c5b44185666b4fcdf3e64c87eacd8c9c00eec0d6854a57ec033743a7df69da` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pin `c8368071…` (theorum/143, commit 1d76875) and the chain before it stay in the history. The certificate carries `ardhadhatuka_lane` (cells, agreement per lakāra, the closed columns and their residue) beside `open_lane`. The kernel (theorum/142) re-pinned on the new table: `proof_lab/PANINI_KERNEL_EXPECTED.sha256` = `49ab58d885904ad90bffccf13f10d02820b7e7a06fe7126e73f9a3d22e72c451`.
+theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `46c5b44185666b4fcdf3e64c87eacd8c9c00eec0d6854a57ec033743a7df69da` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); re-pinned again by theorum/145 (liṭ at breadth, lṛṅ), commit 3de268d holds this pin; the previous pin `c8368071…` (theorum/143, commit 1d76875) and the chain before it stay in the history. The certificate carries `ardhadhatuka_lane` (cells, agreement per lakāra, the closed columns and their residue) beside `open_lane`. The kernel (theorum/142) re-pinned on the new table: `proof_lab/PANINI_KERNEL_EXPECTED.sha256` = `49ab58d885904ad90bffccf13f10d02820b7e7a06fe7126e73f9a3d22e72c451`.
 
 ```text
 python -m proof_lab.ting_rule_table_engine

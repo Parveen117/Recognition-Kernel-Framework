@@ -120,6 +120,7 @@ The advanced numbered surface now runs through Theorem 80:
 70. **142 — the Pāṇini kernel.** The two engines, the ledger and the evidence as one object: K1 code = claim (225 sūtras as rows, 7 guard clauses, 0 orphans either way), K2 the 16 shared rows are the junction / tripādī layer only, K3 the audit files hold their pinned hashes, K4 coverage of the 3,983 sūtras counted per pāda; the carrier reading of Theorems 119 / 122 made concrete; `proof_lab/panini_kernel.py` pinned.
 71. **143 — tiṅ rule-table engine XI.** The open lane closed, 5,373 / 5,373 (6.1.68 as the apṛkta rule; the pada-end block 8.2.39 / 8.4.56; 8.2.73 / 8.2.74; 8.2.25; 6.4.36 with 6.4.22; 7.3.88; 7.3.91); generalisation 7,015 / 7,052
 72. **144 — tiṅ rule-table engine XII.** The Dhātupāṭha pinned (7.2.10 from the accent) and the ārdhadhātuka lane — lṛṭ / luṭ / āśīrliṅ of every declared root, 1,845 / 1,854 each; liṭ / luṅ / lṛṅ measured as the next baseline.
+73. **145 — tiṅ rule-table engine XIII.** liṭ at breadth (1,799 / 1,849: 3.4.81, the periphrastic 3.1.35–40, the vowel-initial abhyāsa, 6.1.17, 6.4.120–123, 7.4.11, 7.1.34, 6.4.64, thal by 7.2.61–63) and lṛṅ (1,845 / 1,854); luṅ the one lakāra left.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -167,7 +168,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-144                           PRESENT
+NUMBERED THEOREM FILES 01-145                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT
