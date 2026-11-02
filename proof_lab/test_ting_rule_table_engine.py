@@ -4,7 +4,7 @@ import hashlib
 import unittest
 from pathlib import Path
 
-from proof_lab.ting_rule_table_engine import SUITE, V_ORACLE, build_certificate, canonical_bytes, certificate_sha256, oracles, paradigm
+from proof_lab.ting_rule_table_engine import NASAL, SUITE, V_ORACLE, build_certificate, canonical_bytes, certificate_sha256, oracles, paradigm
 
 EXPECTED = Path(__file__).with_name("TING_RULE_TABLE_ENGINE_EXPECTED.sha256")
 
@@ -18,7 +18,7 @@ class T129Tests(unittest.TestCase):
     def test_suite_equals_the_certified_oracles(self) -> None:
         O = oracles()
         for r, lak, cells, pada in SUITE:
-            exp = V_ORACLE[(r, pada)] if (lak == "laṭ" and (r, pada) in V_ORACLE) else O[r][lak]
+            exp = NASAL[r][3] if r in NASAL else (V_ORACLE[(r, pada)] if (lak == "laṭ" and (r, pada) in V_ORACLE) else O[r][lak])
             self.assertEqual(paradigm(r, lak, cells=cells, pada=pada), exp, f"{r}.{lak}")
 
     def test_certificate_pin(self) -> None:

@@ -11,11 +11,11 @@
   "counts": {
     "compiled": 10,
     "meta": 157,
-    "hand_coded": 279,
-    "cited": 405,
+    "hand_coded": 285,
+    "cited": 403,
     "misnumbered": 2,
-    "entries": 853,
-    "text_missing": 81,
+    "entries": 857,
+    "text_missing": 80,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
     "iast_mismatch_with_pinned_edition": 0
@@ -451,11 +451,14 @@
       "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
-        "T110"
+        "T110",
+        "T134"
       ],
       "cited_in": [
         "proof_lab/passive_yak_compiled.py",
-        "theorum/110_passive_yak_compiled_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/110_passive_yak_compiled_theorem.md",
+        "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md"
       ]
     },
     "1.1.46": {
@@ -3575,15 +3578,18 @@
       ]
     },
     "3.1.82": {
-      "text": "",
+      "text": "stanbhustunbhuskanbhuskunbhuskuñbhyaḥ śnuś ca",
       "text_devanagari": "स्तन्भुस्तुन्भुस्कन्भुस्कुन्भुस्कुञ्भ्यः श्नुश्च",
       "in_pinned_edition": true,
-      "iast_matches_pinned_edition": null,
-      "level": "cited",
-      "theorems": [],
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T134"
+      ],
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
-        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
+        "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md"
       ]
     },
     "3.1.85": {
@@ -6930,10 +6936,14 @@
       "text_devanagari": "ग्रहिज्यावयिव्यधिवष्टिविचतिवृश्चतिपृच्छतिभृज्जतीनां ङिति च",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "hand_coded",
+      "theorems": [
+        "T134"
+      ],
       "cited_in": [
-        "theorum/120_krt_mathematical_construction_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/120_krt_mathematical_construction_theorem.md",
+        "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md"
       ]
     },
     "6.1.64": {
@@ -6953,6 +6963,7 @@
         "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
+        "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md",
         "theorum/89_ngi_stem_sup_compiled_theorem.md"
@@ -7708,8 +7719,10 @@
       ],
       "cited_in": [
         "proof_lab/passive_yak_compiled.py",
+        "proof_lab/ting_rule_table_engine.py",
         "theorum/110_passive_yak_compiled_theorem.md",
-        "theorum/120_krt_mathematical_construction_theorem.md"
+        "theorum/120_krt_mathematical_construction_theorem.md",
+        "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md"
       ]
     },
     "6.1.110": {
@@ -8707,6 +8720,20 @@
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md"
+      ]
+    },
+    "6.4.24": {
+      "text": "aniditāṁ hala upadhāyāḥ kṅiti",
+      "text_devanagari": "अनिदितां हल उपधायाः क्ङिति",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T134"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md"
       ]
     },
     "6.4.26": {
@@ -11323,6 +11350,20 @@
         "theorum/95_lan_parasmaipada_compiled_theorem.md"
       ]
     },
+    "7.3.79": {
+      "text": "jñājanor jā",
+      "text_devanagari": "ज्ञाजनोर्जा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T134"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md"
+      ]
+    },
     "7.3.80": {
       "text": "pvādīnāṁ hrasvaḥ",
       "text_devanagari": "प्वादीनां ह्रस्वः",
@@ -11334,7 +11375,8 @@
       ],
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
-        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
+        "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md"
       ]
     },
     "7.3.84": {
@@ -11409,7 +11451,8 @@
         "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md",
         "theorum/120_krt_mathematical_construction_theorem.md",
-        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
+        "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md"
       ]
     },
     "7.3.96": {
@@ -12908,6 +12951,7 @@
         "theorum/109_ugit_at_stem_sup_compiled_theorem.md",
         "theorum/126_sup_rule_table_engine_s_i_u_r_classes_theorem.md",
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
+        "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -13225,6 +13269,7 @@
         "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
+        "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
@@ -13253,6 +13298,20 @@
         "theorum/91_ghi_stem_sup_compiled_theorem.md"
       ]
     },
+    "8.4.39": {
+      "text": "kṣubhnādiṣu ca",
+      "text_devanagari": "क्षुभ्नाऽऽदिषु च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T134"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md"
+      ]
+    },
     "8.4.40": {
       "text": "stoḥ ścunā ścuḥ",
       "text_devanagari": "स्तोः श्चुना श्चुः",
@@ -13264,7 +13323,8 @@
         "T64",
         "T80",
         "T92",
-        "T125"
+        "T125",
+        "T134"
       ],
       "cited_in": [
         "proof_lab/hal_stem_sup_compiled.py",
@@ -13275,7 +13335,9 @@
         "proof_lab/silence_vibration_sutra_flow.py",
         "proof_lab/sup_rule_table_engine.py",
         "proof_lab/ting_lat_parasmaipada.py",
+        "proof_lab/ting_rule_table_engine.py",
         "theorum/125_sup_rule_table_engine_theorem.md",
+        "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
         "theorum/62_silence_vibration_sutra_flow_theorem.md",
@@ -13311,7 +13373,22 @@
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md",
         "theorum/120_krt_mathematical_construction_theorem.md",
         "theorum/127_sup_rule_table_engine_numerals_theorem.md",
-        "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md"
+        "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md"
+      ]
+    },
+    "8.4.44": {
+      "text": "śāt",
+      "text_devanagari": "शात्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T134"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md"
       ]
     },
     "8.4.45": {
