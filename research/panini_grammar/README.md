@@ -172,6 +172,23 @@ informs [Claude's independent next samāsa task](causative_passive/PARALLEL_WORK
 record written proofs, deferred tests and unchanged historical implementation
 counts; wider grammar and runtime integration remain open.
 
+**Future meaning and complete bounded lṛṭ/luṭ paradigms:**
+[PG16](future_construction/README.md) develops eight exact roots and twelve
+pada profiles into 216 written positions. Its [semantic domain](future_construction/SEMANTIC_DOMAIN.md)
+retains word-level future vivakṣā, temporal-adapter evidence and
+principal-result pada selection. [Affix and iṭ construction](future_construction/AFFIX_AND_IT.md)
+distinguishes sya/tās from their tiṅ endings and resolves the gam and
+ṛ-final exceptions. [Ending paths](future_construction/ENDING_CONSTRUCTION.md)
+include luṭ A's 2du/2pl/1du and the owned ḍā/rau/ras procedure;
+[derivations](future_construction/DERIVATIONS.md) give all positions and
+the bounded factorization proof. [Source review](future_construction/SOURCE_REVIEW.md)
+records selected commentary readings and publisher attachment errors.
+The [native extension](future_construction/NATIVE_EXTENSION.md) preserves
+pairing and exact zero-recovery, then repairs twelve restricted luṭ P/A
+word collisions with an explicit size bound at zero. [Work record](future_construction/WORK_RECORD.md)
+keeps tests deferred and implemented counts unchanged. [Claude's lane](future_construction/CLAUDE_HANDOFF.md)
+remains samāsa/nominal development while Codex extends verbal formations.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

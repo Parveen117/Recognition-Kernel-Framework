@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG15 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG16 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14 and PG15 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG16 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -406,6 +406,43 @@ keep Python/navigation tests deferred under the owner's mathematics-first
 instruction; PG1–PG14 frozen evidence, prior implemented coverage, the shared engine
 and certificates are unchanged. Wider grammar, runtime integration, hosted
 CI and main merging remain open or deferred.
+
+## PG16: future meaning, owned sya/tās and complete bounded paradigms
+
+[PG16](research/panini_grammar/future_construction/README.md) constructs
+lṛṭ/luṭ on eight exact root/sense entries, twelve root/pada profiles and
+216 written person-number positions. The [semantic domain](research/panini_grammar/future_construction/SEMANTIC_DOMAIN.md)
+distinguishes future-general from verb-encoded anadyatana, using an
+explicit temporal adapter and Nyāsa's word/sentence-meaning distinction.
+Principal-result evidence resolves U-root pada; missing evidence is not
+free optionality. [Affix construction](research/panini_grammar/future_construction/AFFIX_AND_IT.md)
+separates ārdhadhātuka sya/tās from sārvadhātuka tiṅ, and proves the
+gam versus kṛ/hṛ iṭ guards and the lawful late-junction factorization.
+
+The [ending construction](research/panini_grammar/future_construction/ENDING_CONSTRUCTION.md)
+completes all nine slots, including luṭ A's -āsāthe/-ādhve/-āsvahe,
+and retains the query-relative identity of ḍā/rau/ras. [Derivations](research/panini_grammar/future_construction/DERIVATIONS.md)
+display every position and give the bounded composition theorem. The
+[source review](research/panini_grammar/future_construction/SOURCE_REVIEW.md)
+preserves the rival tāsi-i analyses, attributes the selected 8.2.25
+procedure and records misattached publisher entries; earlier future
+packets are acknowledged and qualified additively.
+
+The [native extension](research/panini_grammar/future_construction/NATIVE_EXTENSION.md)
+retains the old corner, pairing, complementary cuts and exact typed
+zero-recovery. On a fixed 24-history luṭ sector it proves twelve P/A
+word-collision fibres, an explicit repair with transported pairing, and
+a twelve-coordinate lower bound for linear repairs with injective zero
+reading. This is not a universal memory bound for Sanskrit.
+
+[Work and frontier](research/panini_grammar/future_construction/WORK_RECORD.md)
+keep source/written results separate from implementation: no new executed
+cells, unchanged historical coverage, and tests/certificate replay deferred
+under the owner's instruction. Wider futures, other verbal formations,
+runtime integration and main merge remain open or deferred. [Claude's
+handoff](research/panini_grammar/future_construction/CLAUDE_HANDOFF.md) assigns
+independent samāsa/nominal work. The shared operator engine and frozen
+predecessor evidence remain unchanged.
 
 ## Śaiva sources and the sūtra as an instruction: Theorems 78–82
 
