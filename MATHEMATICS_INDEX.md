@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–125 (quoted Śaiva sources nativized; the sūtra as an instruction; the saṁjñā sound layer with the Aṣṭādhyāyī ledger; the it-saṁjñā layer compiled; the Śikṣā Vedāṅga; the Vedāṅga packets 71–73 bound to their quoted sources; the Nirukta Vedāṅga, also on the PG5 / PG6 pinned Dhātupāṭha entries; the Tripādī niṣṭhā rules compiled in asiddha order; the āp-stem, nadī-stem, ṛ-stem, ghi-stem and consonant-stem sup paradigms), and added the PG1–PG17 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
+Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–125 (quoted Śaiva sources nativized; the sūtra as an instruction; the saṁjñā sound layer with the Aṣṭādhyāyī ledger; the it-saṁjñā layer compiled; the Śikṣā Vedāṅga; the Vedāṅga packets 71–73 bound to their quoted sources; the Nirukta Vedāṅga, also on the PG5 / PG6 pinned Dhātupāṭha entries; the Tripādī niṣṭhā rules compiled in asiddha order; the āp-stem, nadī-stem, ṛ-stem, ghi-stem and consonant-stem sup paradigms), and added the PG1–PG18 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG17 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG18 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -483,6 +483,50 @@ other verbal formations and runtime integration remain open. The
 [companion review](research/panini_grammar/future_extension/COMPANION_REVIEW.md)
 records the newly arrived T119/T120, accepts specific T118 repairs and
 identifies source/guard corrections for the theorem branch's samāsa/kṛt/nominal lane.
+
+## PG18: bhāva/karma futures, ciṇvat and origin-sensitive queries
+
+[PG18](research/panini_grammar/future_voice/README.md) constructs future
+expression of bhāva and karman for sixteen basic entries and thirteen
+causal frames. Its [semantic domain](research/panini_grammar/future_voice/SEMANTIC_DOMAIN.md)
+separates default Bhāva 3sg from expressed-karman agreement and retains
+PG15's dependent causal role selection. It adds the exact class-4 śam
+frame without conflating its basic and derived transitivity.
+
+[Ciṇvat and visibility](research/panini_grammar/future_voice/CINVAT_AND_VISIBILITY.md)
+derives 6.4.62's coupled choice and iṭ, its restricted aṅga transport
+and its priority over an extra ordinary augment. Ordinary iṭ preserves
+causative ṇic; the adopted ciṇvat-iṭ view admits 6.4.51 lopa while
+retaining the augment itself. Grah's ordinary long ī and ciṇvat short
+i provide a second origin-sensitive query. [Basic derivations](research/panini_grammar/future_voice/BASIC_DERIVATIONS.md)
+include han/grah/dṛś, the gam A restriction and a local proof of han
+luṭ nasal retention under the selected tāsi/6.4.22 policy.
+
+[Causal derivations](research/panini_grammar/future_voice/CAUSATIVE_DERIVATIONS.md)
+preserve puk/yuk and construct retained/lopped ṇic interfaces, including
+the conditional mit length branch. The [register](research/panini_grammar/future_voice/PARADIGMS.md)
+specifies 98 complete nine-slot rows and thirteen restricted single-slot
+rows: 458 positions and 895 factorized written morphological readings.
+These are not executed cells, independent quotations or distinct words.
+
+The [native construction](research/panini_grammar/future_voice/NATIVE_QUERY_CONSTRUCTION.md)
+extends the declared carrier, pairing, old corner and complementary cuts
+with exact typed zero-recovery. Its restricted transport theorem retains
+actual future-affix/ending types. Its query obstruction proves that the
+same raw owned-letter display cannot decide ṇic-lopa after augment
+source and branch history have been forgotten; zero-specialization
+itself preserves those histories.
+
+[Source review](research/panini_grammar/future_voice/SOURCE_REVIEW.md)
+and [pins](research/panini_grammar/future_voice/SOURCE_PINS.json) preserve
+commentary choices and written-versus-quoted distinctions. The
+[companion update](research/panini_grammar/future_voice/COMPANION_UPDATE.md)
+reads the newly arrived T121–T124, recognizes T122's T119/T120 repairs
+and identifies the remaining nominal work and aś marker correction.
+[Work and frontier](research/panini_grammar/future_voice/WORK_RECORD.md)
+keep tests/certificate replay deferred under the owner's instruction;
+imperative/optative construction is next, with broader future domains
+and runtime integration still open.
 
 ## Śaiva sources, the sūtra as an instruction, and the Vedāṅgas: Theorems 78–125
 

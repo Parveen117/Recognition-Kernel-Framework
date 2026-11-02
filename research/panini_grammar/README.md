@@ -205,6 +205,25 @@ A query separates this pair. [Source review](future_extension/SOURCE_REVIEW.md)
 preserves edition and commentary qualifications; [work and frontier](future_extension/WORK_RECORD.md)
 keep tests deferred and identify bhāva/karma futures as the next domain.
 
+**Bhāva/karma futures and source-sensitive ciṇvat:**
+[PG18](future_voice/README.md) extends the meaning-to-form construction
+to sixteen basic entries and thirteen causal frames. [Semantics](future_voice/SEMANTIC_DOMAIN.md)
+separates default Bhāva 3sg from expressed-karman agreement. The
+[ciṇvat procedure](future_voice/CINVAT_AND_VISIBILITY.md) couples its
+augment to the choice, restricts aṅga transport and distinguishes the
+ordinary versus ciṇvat iṭ views for ṇic-lopa and grah lengthening.
+[Basic](future_voice/BASIC_DERIVATIONS.md) and [causal derivations](future_voice/CAUSATIVE_DERIVATIONS.md)
+specify all interfaces, including han/grah/dṛś and the mit length option.
+The [register](future_voice/PARADIGMS.md) gives 458 positions and 895
+factorized written branch readings, with no new executed coverage.
+The [native proof](future_voice/NATIVE_QUERY_CONSTRUCTION.md) preserves
+pairing/cuts and typed zero-recovery and proves why an origin-free
+letter display cannot decide the lopa query. [Source review](future_voice/SOURCE_REVIEW.md)
+and [work record](future_voice/WORK_RECORD.md) retain the declared limits;
+[the theorem branch's update](future_voice/COMPANION_UPDATE.md) records T121–T124,
+the accepted source repairs and remaining independent nominal work.
+Grammar tests remain deferred.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
