@@ -110,6 +110,7 @@ The advanced numbered surface now runs through Theorem 80:
 60. **132 — tiṅ rule-table engine IV.** The vikaraṇa classes: śyan, śa, śnu (3.1.74), u, śnā, ṇic as rows, their ś-it-ness as the guṇa predicate (3.4.113 / 1.2.4 against 3.4.114: sunoti, tudati; karoti, corayati), the aṅga-final u's guṇa before the pit tiṅ only, 6.4.110 / 6.4.108 (kṛ), 6.4.107 / 6.4.77 / 6.4.87 by the conjunct test, 6.4.112 / 6.4.113 (śnā), 7.3.80, 8.2.77 / 7.3.74, 7.3.86, 6.1.64, 8.4.2; seventeen roots on 79 laṭ cells declared from the verification branch's Kāśikā / Kaumudī-anchored tables; 96 rows on 404 cells; engine re-pinned (old pins in history).
 61. **133 — tiṅ rule-table engine V.** adādi, juhotyādi, rudhādi: luk (2.4.72) and ślu (2.4.75) as flags, 6.1.10 on the shared abhyāsa segment, 7.1.4, 6.4.112 generalised (abhyasta ā; hal for the ghu) with 6.4.113 aghoḥ, 8.2.38 with 8.2.40 adhaḥ, the śnam infix (3.1.78 by 1.1.47) with 6.4.111 and 6.4.23 after 7.1.58, 8.2.30, 8.3.24 → 8.4.2 → 8.4.58 in tripādī order; fourteen roots on 101 laṭ cells declared from the verification branch's Kaumudī-anchored tables; 109 rows on 505 cells; 7.1.58 declared surface-coincident; engine re-pinned (old pins in history).
 62. **134 — tiṅ rule-table engine VI.** The nasal classes at breadth: 86 svādi / tanādi / kryādi entries (91 quoted cells) on the rows of 132 with eight additions (3.1.82, 6.4.24, 7.3.79, 6.1.16 with 1.1.45 / 6.1.108, 8.4.40 under 8.4.44, 8.4.41's n, 8.4.39, 6.1.64 extended) and three guard changes (7.3.80 kryādi only, 7.3.86 before u, the kṣ token); 115 rows on 596 cells; tṛṇu / ṛṇu / khav not claimed; engine re-pinned (old pins in history).
+63. **135 — tiṅ rule-table engine VII.** adādi u- / ā- / i-roots and the juhotyādi at breadth: 38 entries (136 quoted cells) from ten new rows (7.3.89 with 7.3.90, 7.4.75 / 7.4.76 / 7.4.77 with 7.4.60 restored, 7.1.102 before 8.2.77, 6.4.81, 6.4.82, 6.4.77's dhātu clause, 8.2.41) and four widened readers (6.4.113 abhyasta ā, 7.3.86 across ślu, 8.3.57 ku, 6.1.101 ā + a); 125 rows on 732 cells; 7.3.95 / 6.4.115 / 6.4.116 option cells not claimed; engine re-pinned (old pins in history).
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -157,7 +158,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-134                           PRESENT
+NUMBERED THEOREM FILES 01-135                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT
