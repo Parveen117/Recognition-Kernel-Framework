@@ -1395,6 +1395,38 @@ proof_lab/test_asirlin_atmanepada_compiled.py
 proof_lab/ASIRLIN_ATMANEPADA_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 123 In-Stems Declined packet
+
+| Field | Value |
+|---|---|
+| Certificate class | daṇḍin (22 cells), yaśasvin / grāhin / uṣṇabhojin, the neuter daṇḍi, by 6.4.13 (daṇḍī), 6.4.12 (daṇḍīni), 6.1.68, 8.2.7 on the pada, 8.2.8, 7.1.23 / 7.1.20, 8.3.59, 8.4.2 (grāhiṇau); prathiman on theorum/92's an-carrier — the engine theorum/120 and 121 named as their next target; each rule breaks exactly the cells stated |
+| Status | `PASS_IN_STEM_SUP_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `9f753001c51e9c51949615be4d707b736f0c27f453999379ef2d758201f0733e` |
+| Boundary | see the capsule's claim boundary |
+
+```text
+theorum/123_in_stem_sup_compiled_theorem.md
+proof_lab/in_stem_sup_compiled.py
+proof_lab/test_in_stem_sup_compiled.py
+proof_lab/IN_STEM_SUP_COMPILED_EXPECTED.sha256
+```
+
+## Theorem 124 yuṣmad and asmad Declined packet
+
+| Field | Value |
+|---|---|
+| Certificate class | the two personal pronouns, 21 cells each: the maparyanta substitutes 7.2.91–97, the ā / y / lopa of the final 7.2.86–90 (anādeśe), the ending substitutes 7.1.27–33, 6.1.107 / 6.1.101 / 6.1.97; twenty-two ablations; each rule breaks exactly the cells stated |
+| Status | `PASS_YUSMAD_ASMAD_SUP_COMPILED_CANDIDATE` |
+| Canonical result SHA-256 | `9a32fce53c02e30c7eebe43ee3da6131a8e98975f950255d1c58c6fefb817d15` |
+| Boundary | see the capsule's claim boundary |
+
+```text
+theorum/124_yusmad_asmad_sup_compiled_theorem.md
+proof_lab/yusmad_asmad_sup_compiled.py
+proof_lab/test_yusmad_asmad_sup_compiled.py
+proof_lab/YUSMAD_ASMAD_SUP_COMPILED_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |

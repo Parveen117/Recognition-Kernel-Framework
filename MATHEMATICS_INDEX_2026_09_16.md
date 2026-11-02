@@ -164,6 +164,13 @@ Use the audited [publication copy](theorum/morphic_algebra/main.tex) for mathema
 | Āśīrliṅ Parasmaipada Compiled | [T115](theorum/115_asirlin_parasmaipada_compiled_theorem.md) | benedictive P; 18 forms; each rule on exactly its forms |
 | Ātmanepada luṅ Compiled | [T116](theorum/116_atmanepada_lun_compiled_theorem.md) | luṅ Ā; 12 forms; each rule on exactly its forms |
 | Āśīrliṅ Ātmanepada Compiled | [T117](theorum/117_asirlin_atmanepada_compiled_theorem.md) | benedictive Ā; 8 forms; each rule on exactly its forms |
+| Samāsa construction | [T118](theorum/118_samasa_mathematical_construction_theorem.md) | sāmarthya, classes, option algebra, ORD, DEL, SA; 17 derivations; 141 quotations verified |
+| Samāsa construction II | [T119](theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md) | review resolved; 6.3 / aluk / samāsānta families; native carrier |
+| Kṛt construction | [T120](theorum/120_krt_mathematical_construction_theorem.md) | vā'sarūpa modal law; sense function; marker algebra; 40 derivations |
+| Taddhita construction | [T121](theorum/121_taddhita_mathematical_construction_theorem.md) | four default affixes; 4.1.82 vā; bha operations; lup yuktavat; 36 derivations |
+| Source repairs 119–120 | [T122](theorum/122_krt_samasa_source_repairs_theorem.md) | licensed / candidate / excluded; 7.2.15 prohibition; 1.3.8; 7.3.52 guard; sense relation |
+| In-Stems Declined | [T123](theorum/123_in_stem_sup_compiled_theorem.md) | in-stems; 22 + 18 + 3 cells; each rule on exactly its cells |
+| yuṣmad and asmad Declined | [T124](theorum/124_yusmad_asmad_sup_compiled_theorem.md) | personal pronouns; 42 cells; each rule on exactly its cells |
 | Pāṇinian cut-module algebra | [T56](theorum/56_canvas_operators_nativized_theorem.md), [T58](theorum/58_paninian_seam_calculus_theorem.md), [T60](theorum/60_seam_compensated_confluence_verdict_theorem.md), [T61](theorum/61_rewrite_rules_as_cut_module_operators_theorem.md) | finite declared carriers and rule sets |
 | Grammar carriers | [T63–68](#theorems-58-77-paninian-domain-yang-mills-tool-and-semantic-chain) | exact finite nominal, verbal, sandhi, and kāraka/vibhakti carriers |
 | Obligation and evidence ladders | [T69](theorum/69_mimamsa_obligation_closure_theorem.md), [T70](theorum/70_angatva_pramana_ladder_theorem.md) | declared Mīmāṃsā/pramāṇa finite models |
@@ -421,6 +428,13 @@ The register below distinguishes theorem capsules from plans, source maps, certi
 | 115 | [Āśīrliṅ Parasmaipada Compiled](theorum/115_asirlin_parasmaipada_compiled_theorem.md) | benedictive P; 18 forms |
 | 116 | [Ātmanepada luṅ Compiled](theorum/116_atmanepada_lun_compiled_theorem.md) | luṅ Ā; 12 forms |
 | 117 | [Āśīrliṅ Ātmanepada Compiled](theorum/117_asirlin_atmanepada_compiled_theorem.md) | benedictive Ā; 8 forms |
+| 118 | [Samāsa: the Mathematical Construction](theorum/118_samasa_mathematical_construction_theorem.md) | theoretical packet; 141 quotations verified |
+| 119 | [Samāsa Construction II](theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md) | theoretical packet; review resolved; native carrier |
+| 120 | [Kṛt: the Mathematical Construction](theorum/120_krt_mathematical_construction_theorem.md) | theoretical packet; 40 derivations |
+| 121 | [Taddhita: the Mathematical Construction](theorum/121_taddhita_mathematical_construction_theorem.md) | theoretical packet; 36 derivations |
+| 122 | [Source Repairs to 119–120](theorum/122_krt_samasa_source_repairs_theorem.md) | theoretical packet; C2–C5 resolved |
+| 123 | [In-Stems Declined](theorum/123_in_stem_sup_compiled_theorem.md) | in-stems; 22 + 18 + 3 cells |
+| 124 | [yuṣmad and asmad Declined](theorum/124_yusmad_asmad_sup_compiled_theorem.md) | personal pronouns; 42 cells |
 
 ## 7. Parallel theorem registers
 

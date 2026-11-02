@@ -70,7 +70,7 @@ class MathematicsIndexTests(unittest.TestCase):
         by_number: dict[int, list[Path]] = {}
         for capsule in capsules:
             by_number.setdefault(int(capsule.name.split("_")[0]), []).append(capsule)
-        self.assertEqual(list(range(1, 122)), sorted(by_number))
+        self.assertEqual(list(range(1, 125)), sorted(by_number))
         self.assertFalse({number: paths for number, paths in by_number.items() if len(paths) != 1})
         for capsule in capsules:
             relative = capsule.relative_to(ROOT).as_posix()
