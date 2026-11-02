@@ -31,7 +31,7 @@ jihriyati  hrī + jhi: 7.1.4 ati → hrī-hrī → 7.4.60 hī → 7.4.59 hi → 
 
 ## 4. Certificate
 
-theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `f5d24834965c791f2d48fcdb6c0855e33d4839443cb979bf45b714048c06e095` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pins `629719df…` (theorum/134, commit 34351ae) and earlier stay in the history. Re-pinned again by theorum/136 (the adādi consonant roots); commit 8e47ebf holds this pin.
+theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `f5d24834965c791f2d48fcdb6c0855e33d4839443cb979bf45b714048c06e095` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pins `629719df…` (theorum/134, commit 34351ae) and earlier stay in the history. Re-pinned again by theorum/136 (the adādi consonant roots); commit 8e47ebf holds this pin. Re-pinned again by theorum/143 (the open lane closed); commit 09ee5f5 holds the 3f67387f… pin.
 
 ```text
 python -m proof_lab.ting_rule_table_engine

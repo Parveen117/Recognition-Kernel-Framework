@@ -42,7 +42,7 @@ labhāvahai labh + loṭ 1d: 3.4.79 vahe → 3.4.93 vahai → 3.4.92 ā-vahai �
 
 ## 4. Certificate
 
-`proof_lab/ting_rule_table_engine.py`, test `proof_lab/test_ting_rule_table_engine.py`, pin `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `e9773755c7da1e3d9841aeb0d5544c1176b92241b4fb0c5ef807c1b3a769f88d` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`). Re-pinned by theorum/130 (the ārdhadhātuka lakāras); commit 5f921ab holds this pin.
+`proof_lab/ting_rule_table_engine.py`, test `proof_lab/test_ting_rule_table_engine.py`, pin `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `e9773755c7da1e3d9841aeb0d5544c1176b92241b4fb0c5ef807c1b3a769f88d` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`). Re-pinned by theorum/130 (the ārdhadhātuka lakāras); commit 5f921ab holds this pin. Re-pinned again by theorum/143 (the open lane closed); commit 09ee5f5 holds the 3f67387f… pin.
 
 ```text
 python -m proof_lab.ting_rule_table_engine

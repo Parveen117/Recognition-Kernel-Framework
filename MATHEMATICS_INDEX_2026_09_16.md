@@ -189,6 +189,7 @@ Use the audited [publication copy](theorum/morphic_algebra/main.tex) for mathema
 | Tiṅ rule-table engine X | [T140](theorum/140_ting_rule_table_engine_open_lane_ii_theorem.md) | the open lane, second pass: order facts and seven rows; 6,865 / 7,052 unseen cells |
 | Sup generalisation test | [T141](theorum/141_sup_generalisation_test_theorem.md) | the nominal rows on 48 stems they were never fitted to; two rows exposed |
 | Pāṇini kernel | [T142](theorum/142_panini_kernel_theorem.md) | code = claim across both engines and the ledger; the shared layer; the evidence hashes; coverage counted |
+| tiṅ rule-table engine (theorum/129–140, 143) | [T143](theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md) | one 166-row table re-pinned by each extension; the open lane now complete |
 | Pāṇinian cut-module algebra | [T56](theorum/56_canvas_operators_nativized_theorem.md), [T58](theorum/58_paninian_seam_calculus_theorem.md), [T60](theorum/60_seam_compensated_confluence_verdict_theorem.md), [T61](theorum/61_rewrite_rules_as_cut_module_operators_theorem.md) | finite declared carriers and rule sets |
 | Grammar carriers | [T63–68](#theorems-58-77-paninian-domain-yang-mills-tool-and-semantic-chain) | exact finite nominal, verbal, sandhi, and kāraka/vibhakti carriers |
 | Obligation and evidence ladders | [T69](theorum/69_mimamsa_obligation_closure_theorem.md), [T70](theorum/70_angatva_pramana_ladder_theorem.md) | declared Mīmāṃsā/pramāṇa finite models |
@@ -471,6 +472,7 @@ The register below distinguishes theorem capsules from plans, source maps, certi
 | 140 | [Tiṅ Rule-Table Engine X](theorum/140_ting_rule_table_engine_open_lane_ii_theorem.md) | the open lane, second pass: 5,223 / 5,373 generator cells, 6,865 / 7,052 unseen cells overall; 157 rows |
 | 141 | [Sup Generalisation Test](theorum/141_sup_generalisation_test_theorem.md) | 48 new stems of every declared class against vidyut: 1,068 / 1,078 cells; two rows exposed (kṣ in ṇatva, 7.1.25) |
 | 142 | [Pāṇini Kernel](theorum/142_panini_kernel_theorem.md) | the two engines, the ledger and the evidence as one object: 225 sūtras as rows, 16 shared (junction / tripādī only), every row a ledger entry and every engine ledger entry a row; coverage counted |
+| 143 | [tiṅ rule-table engine XI — the open lane closed: 5,373 / 5,373](theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md) | laṅ / loṭ / vidhiliṅ of classes 2–10 on the independent generator's cells, 5,373 / 5,373 (from 5,223), with nine new rows and the apṛkta attribution corrected to 6.1.68 — PROVED on the suite (908 / 908), DECLARED on the lane; the 8.2.74 ru branch, 8.4.56's jaś branch, 8.4.65, 7.1.35's tāt, 7.3.95's īṭ recorded as options, not claimed |
 
 ## 7. Parallel theorem registers
 

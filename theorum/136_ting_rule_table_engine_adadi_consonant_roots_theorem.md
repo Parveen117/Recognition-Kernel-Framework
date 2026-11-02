@@ -29,7 +29,7 @@ kaḍḍhve   kaśa~ + dhvam: 3.4.79 dhve → 8.2.36 kaṣ → 8.4.53 kaḍ → 
 
 ## 3. Certificate
 
-theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `45a7573fd6d8321033b52d0b92d3f44521fd339a56c4ab407277da2083ed2ba5` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pins `f5d24834…` (theorum/135, commit 8e47ebf) and earlier stay in the history. Re-pinned by theorum/137 (the independent-oracle audit), which corrects one attribution of this packet: the iṭ of roditi / svapimi is 7.2.76 *rudādibhyaḥ sārvadhātuke*, not 7.3.98 (the īṭ rule of the apṛkta); the forms are unchanged. Commit d3b5a0a holds this pin.
+theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `45a7573fd6d8321033b52d0b92d3f44521fd339a56c4ab407277da2083ed2ba5` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pins `f5d24834…` (theorum/135, commit 8e47ebf) and earlier stay in the history. Re-pinned by theorum/137 (the independent-oracle audit), which corrects one attribution of this packet: the iṭ of roditi / svapimi is 7.2.76 *rudādibhyaḥ sārvadhātuke*, not 7.3.98 (the īṭ rule of the apṛkta); the forms are unchanged. Commit d3b5a0a holds this pin. Re-pinned again by theorum/143 (the open lane closed); commit 09ee5f5 holds the 3f67387f… pin.
 
 ```text
 python -m proof_lab.ting_rule_table_engine

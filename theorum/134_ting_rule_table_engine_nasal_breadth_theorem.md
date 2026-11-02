@@ -29,7 +29,7 @@ khacñāti   khac + śnā → 8.4.40 ñ ;  mṛḍṇāti: 8.4.41 ;  kṣubhnāt
 
 ## 4. Certificate
 
-theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `629719df8dd7f2c1e55376c65efb2e2418b09f8bb6a89ca0ecd0920b8152b791` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pins `1258abd4…` (theorum/133, commit ec860d3) and earlier stay in the history. Re-pinned again by theorum/135 (adādi u-roots and juhotyādi at breadth); commit 34351ae holds this pin.
+theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `629719df8dd7f2c1e55376c65efb2e2418b09f8bb6a89ca0ecd0920b8152b791` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pins `1258abd4…` (theorum/133, commit ec860d3) and earlier stay in the history. Re-pinned again by theorum/135 (adādi u-roots and juhotyādi at breadth); commit 34351ae holds this pin. Re-pinned again by theorum/143 (the open lane closed); commit 09ee5f5 holds the 3f67387f… pin.
 
 ```text
 python -m proof_lab.ting_rule_table_engine

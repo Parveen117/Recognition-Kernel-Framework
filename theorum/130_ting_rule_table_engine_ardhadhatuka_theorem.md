@@ -43,7 +43,7 @@ alabdha     labh + luṅ 3s: sic → aṭ → 8.2.26 (s between jhal and jhal) �
 
 ## 5. Certificate
 
-theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `ebdf15ca806c7afe937fe0dd55389359ebe3954f02b0b44878b9f0eed0cb8f14` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pin `e9773755…` (theorum/129, commit 5f921ab) stays in the history. Re-pinned again by theorum/131 (liṭ); commit 6e8c213 holds this pin.
+theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `ebdf15ca806c7afe937fe0dd55389359ebe3954f02b0b44878b9f0eed0cb8f14` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pin `e9773755…` (theorum/129, commit 5f921ab) stays in the history. Re-pinned again by theorum/131 (liṭ); commit 6e8c213 holds this pin. Re-pinned again by theorum/143 (the open lane closed); commit 09ee5f5 holds the 3f67387f… pin.
 
 ```text
 python -m proof_lab.ting_rule_table_engine

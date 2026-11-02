@@ -20,7 +20,7 @@ dviṣ / viṣ (the ṣ before the yāsuṭ: dviṣyāt, and the dhvam cells), p
 
 ## 3. Certificate
 
-`proof_lab/ting_rule_table_engine.py` re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `3f67387f1799ff6228ec5499511247277fc933bf0144d05b6e02b74418cf442b` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`; 157 rows, 908 suite cells, open-lane 5,223 / 5,373 reported); the previous pin `be902838…` (theorum/139, commit 769da4f) stays in the history.
+`proof_lab/ting_rule_table_engine.py` re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `3f67387f1799ff6228ec5499511247277fc933bf0144d05b6e02b74418cf442b` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`; 157 rows, 908 suite cells, open-lane 5,223 / 5,373 reported); the previous pin `be902838…` (theorum/139, commit 769da4f) stays in the history. Re-pinned again by theorum/143 (the open lane closed); commit 09ee5f5 holds the 3f67387f… pin.
 
 ## 4. Claim boundary
 

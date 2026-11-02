@@ -31,7 +31,7 @@ asi / santi as + sip: 2.4.72 → 7.4.50 a-si ;  as + jhi → anti → 6.4.111 s-
 
 ## 3. Certificate
 
-theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `1258abd4ccc0d5ad3f45fce27c0dd042c6c175af3a2825ab27f974c1c0446a48` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pins `a514d5ff…` (theorum/132, commit 3460993), `ed7d4ef4…`, `ebdf15ca…`, `e9773755…` stay in the history. Re-pinned again by theorum/134 (the nasal classes at breadth); commit ec860d3 holds this pin.
+theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `1258abd4ccc0d5ad3f45fce27c0dd042c6c175af3a2825ab27f974c1c0446a48` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pins `a514d5ff…` (theorum/132, commit 3460993), `ed7d4ef4…`, `ebdf15ca…`, `e9773755…` stay in the history. Re-pinned again by theorum/134 (the nasal classes at breadth); commit ec860d3 holds this pin. Re-pinned again by theorum/143 (the open lane closed); commit 09ee5f5 holds the 3f67387f… pin.
 
 ```text
 python -m proof_lab.ting_rule_table_engine
