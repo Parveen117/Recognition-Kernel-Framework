@@ -28,6 +28,11 @@ class T129Tests(unittest.TestCase):
         self.assertEqual(digest, certificate_sha256(payload))
         self.assertEqual(digest, EXPECTED.read_text(encoding="utf-8").strip())
 
+    def test_dhatupatha_pinned_and_read(self) -> None:
+        from proof_lab.ting_rule_table_engine import DHATUPATHA, DHATUPATHA_SHA256, anudatta
+        self.assertEqual(hashlib.sha256(DHATUPATHA.read_bytes()).hexdigest(), DHATUPATHA_SHA256)
+        self.assertIs(anudatta("bhū", 1), False); self.assertIs(anudatta("ṇīñ", 1), True); self.assertIs(anudatta("edha~", 1), False); self.assertIs(anudatta("ḍukṛñ", 8), True)
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -23,7 +23,7 @@ The state the tables act on — `(ab, ag, r, it, v, pre, aff)` for a verb, `(st,
 
 ## 4. Certificate
 
-`proof_lab/panini_kernel.py`, test `proof_lab/test_panini_kernel.py`, pin `proof_lab/PANINI_KERNEL_EXPECTED.sha256` = `41854a6bd4cae4be57bb9b10ab5b12b617f0d98a924b56d562178d860fafcc19` (status `PASS_PANINI_KERNEL_CANDIDATE`). Re-pinned by theorum/143 (`1c46d170…`: 230 rows, 18 shared, GENERALIZE.json re-pinned); commit 8824482 holds this pin.
+`proof_lab/panini_kernel.py`, test `proof_lab/test_panini_kernel.py`, pin `proof_lab/PANINI_KERNEL_EXPECTED.sha256` = `41854a6bd4cae4be57bb9b10ab5b12b617f0d98a924b56d562178d860fafcc19` (status `PASS_PANINI_KERNEL_CANDIDATE`). Re-pinned by theorum/143 (`1c46d170…`: 230 rows, 18 shared, GENERALIZE.json re-pinned; commit 1d76875) and by theorum/144 (`49ab58d8…`: 248 rows); commit 8824482 holds the first pin.
 
 ## 5. Claim boundary
 

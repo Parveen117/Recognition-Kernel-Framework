@@ -103,3 +103,8 @@ None of these companion inventories is replaced by a hand-picked root list.
 The Śaiva quotations and mathematical interpretations in T78–T79 have their
 own source claims. PG1 does not independently certify every quotation there
 and does not use them as evidence of Sanskrit grammatical correctness.
+
+
+## DHATUPATHA.tsv (theorum/144)
+
+ashtadhyayi.com's Dhātupāṭha (2,259 records: code, upadeśa with accent and anubandha marks in SLP1, meaning) as packaged with vidyut-prakriya 0.4.0 (ambuda-org/vidyut, MIT licence; its data README credits ashtadhyayi.com). Pinned: sha256 `bb2013ead0ea536dc7f887164c385c703cb0014ccf6e5af35b87e6d3049ba380` (`proof_lab/ting_rule_table_engine.DHATUPATHA_SHA256`). Read for 7.2.10 (the anudātta mark after the root vowel → aniṭ) and for the root identity of every declared verbal entry.

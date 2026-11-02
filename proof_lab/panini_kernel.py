@@ -7,7 +7,7 @@ What is checked here is consistency between code and claim, not a new derivation
 
   K1  every row of the two engines (its sūtra number) is an entry of the ledger at the
       hand_coded / meta / compiled level, and every hand_coded entry the ledger attributes
-      to the engine theorems (125–141, 143) is a row of the engine that theorem re-pinned;
+      to the engine theorems (125–141, 143–144) is a row of the engine that theorem re-pinned;
   K2  the rows the two engines share are exactly the junction / tripādī rules that the
       grammar states once for both padas (6.1.77 … 8.4.55), listed;
   K3  the evidence files of theorum/137–141 are present with the hashes the capsules pin;
@@ -34,7 +34,7 @@ EVIDENCE = {   # file → sha256 pinned in the capsule that produced it
     "research/independent_oracle/GENERALIZE.json": "f2b10f6427363abaa1389e77ab4d809603c3f07bd7d2b1ed5de18679886e72a6",   # re-pinned by theorum/143 (23f925a6… was theorum/140's)
     "research/independent_oracle/GENERALIZE_SUP.json": "a55b73b2e4371ffeecb3898840bfd6fd753034bdf2e172252d1bbdaaebb11df3",
 }
-ENGINE_THEOREMS = {"sup_rule_table_engine": ["125", "126", "127", "128", "141"], "ting_rule_table_engine": ["129", "130", "131", "132", "133", "134", "135", "136", "137", "138", "139", "140", "143"]}
+ENGINE_THEOREMS = {"sup_rule_table_engine": ["125", "126", "127", "128", "141"], "ting_rule_table_engine": ["129", "130", "131", "132", "133", "134", "135", "136", "137", "138", "139", "140", "143", "144"]}
 
 
 def norm(rid: str) -> str:

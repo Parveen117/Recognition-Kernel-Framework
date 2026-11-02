@@ -47,7 +47,7 @@ Guard clauses: 7.1.100 *ṝta id dhātoḥ* named with 7.1.102 (pipūryāt); 1.4
 
 ## 5. Certificate
 
-theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `c83680719d2f86285c79ac49d4ca0f59ca2f2927d83b74f07f5c3f3da6a2df5f` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pin `3f67387f…` (theorum/140, commit 09ee5f5) and the chain before it stay in the history. The kernel re-pinned: `proof_lab/PANINI_KERNEL_EXPECTED.sha256` = `1c46d17026baf3c9c4cb74056b4e019aaca6fcef4b0b96dddb1b86a72fd714f0` (41854a6b…, commit 8824482, in the history).
+theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `c83680719d2f86285c79ac49d4ca0f59ca2f2927d83b74f07f5c3f3da6a2df5f` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); re-pinned again by theorum/144 (the ārdhadhātuka lane), commit 1d76875 holds this pin; the previous pin `3f67387f…` (theorum/140, commit 09ee5f5) and the chain before it stay in the history. The kernel re-pinned: `proof_lab/PANINI_KERNEL_EXPECTED.sha256` = `1c46d17026baf3c9c4cb74056b4e019aaca6fcef4b0b96dddb1b86a72fd714f0` (41854a6b…, commit 8824482, in the history).
 
 8.4.56 is declared surface-coincident: *vā 'vasāne* is an option, the lane oracle lists both branches (adhok / adhog), no suite cell ends in a jaś — the row realises the citation form and is recorded in every path, but no cell is broken by removing it.
 

@@ -1481,7 +1481,7 @@ proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `c83680719d2f86285c79ac49d4ca0f59ca2f2927d83b74f07f5c3f3da6a2df5f` |
+| Canonical result SHA-256 | `46c5b44185666b4fcdf3e64c87eacd8c9c00eec0d6854a57ec033743a7df69da` |
 | Boundary | bhvādi present system: bhū, gam, nī, edh, labh × laṭ, laṅ, loṭ, liṅ; 180 cells from 40 rows |
 
 ```text
@@ -1497,7 +1497,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine II |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `c83680719d2f86285c79ac49d4ca0f59ca2f2927d83b74f07f5c3f3da6a2df5f` |
+| Canonical result SHA-256 | `46c5b44185666b4fcdf3e64c87eacd8c9c00eec0d6854a57ec033743a7df69da` |
 | Boundary | lṛṭ, luṭ, āśīrliṅ, luṅ of bhū, gam, nī, edh, labh on the certified cells; 125 cells from 23 rows; 63 rows on 305 cells |
 
 ```text
@@ -1513,7 +1513,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine III |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `c83680719d2f86285c79ac49d4ca0f59ca2f2927d83b74f07f5c3f3da6a2df5f` |
+| Canonical result SHA-256 | `46c5b44185666b4fcdf3e64c87eacd8c9c00eec0d6854a57ec033743a7df69da` |
 | Boundary | liṭ of bhū, gam, kṛ, nī on the 20 certified cells from 12 rows; the abhyāsa as a segment; 75 rows on 325 cells |
 
 ```text
@@ -1529,7 +1529,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine IV |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `c83680719d2f86285c79ac49d4ca0f59ca2f2927d83b74f07f5c3f3da6a2df5f` |
+| Canonical result SHA-256 | `46c5b44185666b4fcdf3e64c87eacd8c9c00eec0d6854a57ec033743a7df69da` |
 | Boundary | the vikaraṇa classes (śyan, śa, śnu, u, śnā, ṇic) on 79 quoted laṭ cells of seventeen roots; 96 rows on 404 cells |
 
 ```text
@@ -1545,7 +1545,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine V |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `c83680719d2f86285c79ac49d4ca0f59ca2f2927d83b74f07f5c3f3da6a2df5f` |
+| Canonical result SHA-256 | `46c5b44185666b4fcdf3e64c87eacd8c9c00eec0d6854a57ec033743a7df69da` |
 | Boundary | adādi, juhotyādi, rudhādi (luk, ślu, śnam) on 101 quoted laṭ cells of fourteen roots; 109 rows on 505 cells |
 
 ```text
@@ -1561,7 +1561,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine VI |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `c83680719d2f86285c79ac49d4ca0f59ca2f2927d83b74f07f5c3f3da6a2df5f` |
+| Canonical result SHA-256 | `46c5b44185666b4fcdf3e64c87eacd8c9c00eec0d6854a57ec033743a7df69da` |
 | Boundary | 86 svādi / tanādi / kryādi entries on 91 quoted cells from eight new rows; 115 rows on 596 cells |
 
 ```text
@@ -1577,7 +1577,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine VII |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `c83680719d2f86285c79ac49d4ca0f59ca2f2927d83b74f07f5c3f3da6a2df5f` |
+| Canonical result SHA-256 | `46c5b44185666b4fcdf3e64c87eacd8c9c00eec0d6854a57ec033743a7df69da` |
 | Boundary | 38 adādi / juhotyādi entries on 136 quoted cells from ten new rows; 125 rows on 732 cells |
 
 ```text
@@ -1593,7 +1593,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine VIII |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `c83680719d2f86285c79ac49d4ca0f59ca2f2927d83b74f07f5c3f3da6a2df5f` |
+| Canonical result SHA-256 | `46c5b44185666b4fcdf3e64c87eacd8c9c00eec0d6854a57ec033743a7df69da` |
 | Boundary | 32 adādi consonant-root entries on 176 quoted cells from nineteen new rows; 144 rows on 908 cells |
 
 ```text
@@ -1609,7 +1609,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Independent-Oracle Audit |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `c83680719d2f86285c79ac49d4ca0f59ca2f2927d83b74f07f5c3f3da6a2df5f` |
+| Canonical result SHA-256 | `46c5b44185666b4fcdf3e64c87eacd8c9c00eec0d6854a57ec033743a7df69da` |
 | Boundary | both engines against vidyut-prakriya: 1,728 / 1,744 comparable cells agree, no engine form wrong, three attributions corrected (7.2.76, 8.4.40, 3.4.107) |
 
 ```text
@@ -1625,7 +1625,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Generalisation Test |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `c83680719d2f86285c79ac49d4ca0f59ca2f2927d83b74f07f5c3f3da6a2df5f` |
+| Canonical result SHA-256 | `46c5b44185666b4fcdf3e64c87eacd8c9c00eec0d6854a57ec033743a7df69da` |
 | Boundary | 7,052 unseen cells against vidyut: laṭ of classes 1–10 and lṛṭ / āśīrliṅ of the bhvādi 1,373 / 1,373 after five row corrections; laṅ / loṭ / liṅ of classes 2–10 measured as the open lane |
 
 ```text
@@ -1641,7 +1641,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine IX |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `c83680719d2f86285c79ac49d4ca0f59ca2f2927d83b74f07f5c3f3da6a2df5f` |
+| Canonical result SHA-256 | `46c5b44185666b4fcdf3e64c87eacd8c9c00eec0d6854a57ec033743a7df69da` |
 | Boundary | laṅ / loṭ / vidhiliṅ of classes 2–10 from the strong-ending predicate and nine rows: 5,064 / 5,373 generator cells, 6,706 / 7,052 unseen cells overall; 154 rows |
 
 ```text
@@ -1657,7 +1657,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine X |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `c83680719d2f86285c79ac49d4ca0f59ca2f2927d83b74f07f5c3f3da6a2df5f` |
+| Canonical result SHA-256 | `46c5b44185666b4fcdf3e64c87eacd8c9c00eec0d6854a57ec033743a7df69da` |
 | Boundary | the open lane, second pass: 5,223 / 5,373 generator cells, 6,865 / 7,052 unseen cells overall; 157 rows |
 
 ```text
@@ -1689,7 +1689,7 @@ proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Pāṇini Kernel |
 | Status | `PASS_PANINI_KERNEL_CANDIDATE` |
-| Canonical result SHA-256 | `1c46d17026baf3c9c4cb74056b4e019aaca6fcef4b0b96dddb1b86a72fd714f0` |
+| Canonical result SHA-256 | `49ab58d885904ad90bffccf13f10d02820b7e7a06fe7126e73f9a3d22e72c451` |
 | Boundary | the two engines, the ledger and the evidence as one object: 230 sūtras as rows after theorum/143 (225 at first pin 41854a6b…, in the history), 18 shared (junction / tripādī only), every row a ledger entry and every engine ledger entry a row; coverage counted |
 
 ```text
@@ -1705,11 +1705,27 @@ proof_lab/PANINI_KERNEL_EXPECTED.sha256
 |---|---|
 | Certificate class | tiṅ rule-table engine XI — the open lane closed: 5,373 / 5,373 |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `c83680719d2f86285c79ac49d4ca0f59ca2f2927d83b74f07f5c3f3da6a2df5f` |
+| Canonical result SHA-256 | `46c5b44185666b4fcdf3e64c87eacd8c9c00eec0d6854a57ec033743a7df69da` |
 | Boundary | laṅ / loṭ / vidhiliṅ of classes 2–10 on the independent generator's cells, 5,373 / 5,373 (from 5,223), with nine new rows and the apṛkta attribution corrected to 6.1.68 — PROVED on the suite (908 / 908), DECLARED on the lane; the 8.2.74 ru branch, 8.4.56's jaś branch, 8.4.65, 7.1.35's tāt, 7.3.95's īṭ recorded as options, not claimed |
 
 ```text
 theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md
+proof_lab/ting_rule_table_engine.py
+proof_lab/test_ting_rule_table_engine.py
+proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
+```
+
+## Theorem 144 tiṅ rule-table engine XII — the Dhātupāṭha pinned and the ārdhadhātuka lane: lṛṭ, luṭ, āśīrliṅ of every declared root, 1,845 / 1,854 each packet
+
+| Field | Value |
+|---|---|
+| Certificate class | tiṅ rule-table engine XII — the Dhātupāṭha pinned and the ārdhadhātuka lane: lṛṭ, luṭ, āśīrliṅ of every declared root, 1,845 / 1,854 each |
+| Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
+| Canonical result SHA-256 | `46c5b44185666b4fcdf3e64c87eacd8c9c00eec0d6854a57ec033743a7df69da` |
+| Boundary | the Dhātupāṭha (ashtadhyayi.com's list, 2,259 records, pinned) as the ground of 7.2.10; lṛṭ / luṭ / āśīrliṅ of all 194 declared (root, pada) on the generator's cells, 1,845 / 1,854 each (daridrā's nine: a vārttika, not claimed) — PROVED on the suite (908 / 908), DECLARED on the lane; liṭ 514 / 1,849, luṅ 1,042 / 1,854, lṛṅ 0 / 1,854 reported as the next baseline |
+
+```text
+theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md
 proof_lab/ting_rule_table_engine.py
 proof_lab/test_ting_rule_table_engine.py
 proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
