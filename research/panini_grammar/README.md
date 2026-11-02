@@ -240,6 +240,19 @@ and deferred tests. [Companion review](imperative_optative/COMPANION_UPDATE.md)
 reads Claude's T125–T130, records the 90-position T96/T99 modal overlap
 and a 3.4.92 pit-state integration gap, without replaying certificates.
 
+**Āśīrliṅ and blessing loṭ:**
+[PG20](benediction/README.md) derives their distinct affix classes,
+P kit/A conditional-kit, all owned endings, basic and causal/voice
+continuations, ciṇvat/mit and dh/ḍh choices, and optional tātaṅ.
+The [register](benediction/PARADIGMS.md) has **1,057 positions / 1,292
+word-branch readings**, including inherited/overlapping morphology explicitly
+identified there. [Native proofs](benediction/NATIVE_BENEDICTION.md) give
+typed zero-recovery and the marker, stem-order and person-information
+boundaries. [Sources](benediction/SOURCE_REVIEW.md) and
+[work record](benediction/WORK_RECORD.md) distinguish written derivations
+from unrun tests. [Claude through T135](benediction/COMPANION_UPDATE.md)
+records the useful laṭ expansion and remaining integration tasks.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

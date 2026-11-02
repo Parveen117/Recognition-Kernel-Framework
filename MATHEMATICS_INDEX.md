@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG19 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG20 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG19 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG20 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -566,6 +566,45 @@ overlap, the 3.4.92 pit-state gap and outstanding T124/T125 source repairs.
 [Work and frontier](research/panini_grammar/imperative_optative/WORK_RECORD.md)
 keep tests deferred; āśīrliṅ/blessing-loṭ, broader roots/modal contexts
 and runtime integration remain open. The canonical operator engine is unchanged.
+
+## PG20: āśīrliṅ, blessing loṭ and dependent morphological choices
+
+[PG20](research/panini_grammar/benediction/README.md) constructs the
+[āśīs input](research/panini_grammar/benediction/DOMAIN.md) and its two
+different affix regimes. The [owned ending construction](research/panini_grammar/benediction/ENDING_CONSTRUCTION.md)
+derives the P kit override, conditional A kit, the source argument for
+no iṭ before yāsuṭ, distinct canceled/surviving s owners and the late
+dh/ḍh alternatives. [Seventeen basic roots](research/panini_grammar/benediction/BASIC_DERIVATIONS.md)
+include the source-attested vac/jāgṛ marker contrasts.
+
+[Causatives and voice](research/panini_grammar/benediction/CAUSATIVE_AND_VOICE.md)
+continue all thirteen owned causal frames through P ṇic-lopa, active A
+retention and passive ciṇvat/mit choices, plus six basic voice inputs.
+[Blessing loṭ](research/panini_grammar/benediction/BLESSING_LOT.md) reuses
+PG19's ordinary morphology and derives forty-two added tātaṅ readings,
+including kurutāt/krīṇītāt with their changed stem premises. The
+[complete register](research/panini_grammar/benediction/PARADIGMS.md) has
+**1,057 written morphological positions and 1,292 word-branch readings**.
+These are not executions, distinct strings or a novelty/completion percentage:
+488 ordinary loṭ words reuse PG19, and T115/T117 overlap 26 āśīrliṅ positions.
+
+The [native proof](research/panini_grammar/benediction/NATIVE_BENEDICTION.md)
+retains the full carrier, pairing, complementary cuts and typed zero-law.
+It constructs dependent branch fibres and proves three local boundaries:
+kit-or-ṅit loses an active distinction, an ending-only adapter cannot
+repair a previously chosen strong stem, and the word kurutāt alone
+does not recover its original person/controller. Histories retain all
+three distinctions under zero-specialization.
+
+[Sources](research/panini_grammar/benediction/SOURCE_REVIEW.md) and
+[pins](research/panini_grammar/benediction/SOURCE_PINS.json) retain the
+selected two-s schedule, local augment visibility and literal-versus-derived
+status. [Claude through T135](research/panini_grammar/benediction/COMPANION_UPDATE.md)
+recognizes the new laṭ breadth and records the remaining marker/source
+integration gaps. [Work and frontier](research/panini_grammar/benediction/WORK_RECORD.md)
+keep grammar/navigation/engine tests and certificate replay deferred under
+the owner's instruction. Wider athematic modal and contextual liṅ domains
+remain open; the canonical operator engine is unchanged.
 
 ## Śaiva sources and the sūtra as an instruction: Theorems 78–82
 
