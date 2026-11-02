@@ -106,7 +106,7 @@ optional tanādi root guṇa preserve their intermediate sounds and branch
 conditions. Ṇatva retains tṛp/kṣubh's prohibitions and kṣubh's local śnā
 identity query. [Source review](nasal_present/SOURCE_REVIEW.md) records
 seven source decisions, including a declared pvādi endpoint and register
-boundaries. [Current coverage](nasal_present/COVERAGE_STATUS.json) is
+boundaries. [PG12 coverage](nasal_present/COVERAGE_STATUS.json) is
 228/2,229 roots, 290 paradigms and 2,610 present cells, with 208 bounded
 definitions / 152 distinct sūtra IDs. The admitted profiles cover 26/38
 class-5, 10/10 class-8 and 70/71 class-9 entries; all contexts of those
@@ -118,6 +118,76 @@ gaps and the seven earlier gaps remain open.
 classes, coupled substitutions, wider grammar and the full native operator
 lift with typed zero-specialization compatibility and quantum-calculator
 integration. PG1–PG11 evidence is frozen; CI and main merging stay deferred.
+
+**Causative presents with owned root constituents:**
+[PG13](causative_present/README.md) develops twelve identified roots /
+108 causative P cells, extending T105's useful three-cell examples to full
+nine-cell paradigms. Root substitutions, gam's intermediate gām and mit
+shortening, and puk/yuk ownership remain explicit. K is the augment's it
+marker; u is pronunciation-only. The full root constituent plus ṇic is
+the derived dhātu, and śap then acts on ṇic's own i → e → ay.
+[Validation](causative_present/VALIDATION.md) records 11 literal-word cases,
+31 refusals, 74 controls, a zero-difference 108-cell comparison and 36
+matching companion expectations. Kṛṣ's exact-word witness remains open.
+[Current coverage](causative_present/COVERAGE_STATUS.json) preserves
+228 simple-present roots / 2,610 cells and counts the 108 causative cells
+separately: 2,718 cells distinguished by formation. The
+[concurrent review](causative_present/CONCURRENT_REVIEW.json) confirms the
+T89 repair statically; no companion certificate is replayed.
+[Remaining work](causative_present/REMAINING.md) includes semantic pada
+contexts, further formations and native integration. PG1–PG12 evidence
+is frozen; CI and main merging stay deferred.
+
+**Mathematical construction before further test batches:**
+[PG14](grammar_construction/README.md) connects interpreted events to kāraka,
+voice, pada, agreement and owned word derivations. Its written twelve-root
+causative domain derives ṇic/pada permission from the frame, including
+1.3.77 optionality and 1.3.86–89 exceptions. It separates patient agreement
+from bhāva's default 3sg, derives thematic A endings and adds the written
+kriyate/hriyate paths. The [native construction](grammar_construction/NATIVE_OPERATOR_LIFT.md)
+supplies a noncommutative cut-path operator instance with pairing,
+complementary channels and a proof of exact history-bearing zero-recovery.
+This is an explicit model, not an implementation of all grammar rules or
+all native operator families. [theorem-branch review](grammar_construction/THEOREM_BRANCH_REVIEW.md)
+uses T110/T112–117 and records the bhāva agreement and asādṛśya qualifications.
+[Work record](grammar_construction/WORK_RECORD.md) states that Python tests
+are deferred under the owner's grammar-first instruction; prior executable
+coverage and frozen packets are unchanged. [Remaining mathematical work](grammar_construction/REMAINING.md)
+starts with wider causative frames and derived-stem passives.
+
+**Causative passive, expressed karman and retained ṇic:**
+[PG15](causative_passive/README.md) constructs twelve causal passive
+root/sense paths with owned ṇic-lopa, explicit double-karman selection,
+residual cases and agreement. Its [written derivations](causative_passive/DERIVATIONS.md)
+give nine slots per aṅga and distinguish kriyate/kāryate/kārayate,
+bhāva versus causal patient agreement, and nī/pā's doubled-y ownership.
+The word reading selects the non-doubling options of 8.4.46–47. The
+[native extension](causative_passive/NATIVE_EXTENSION.md) retains PG14's
+pairing/zero-recovery and proves a surface-observation obstruction and
+one-extra-channel repair for simple versus causal gamyate. The
+[source review](causative_passive/SOURCE_REVIEW.md) preserves commentary
+attribution and variants. A [targeted T118 review](causative_passive/T118_SOURCE_REVIEW.md)
+informs [the theorem branch's independent next samāsa task](causative_passive/PARALLEL_WORK.md).
+[Work and frontier](causative_passive/WORK_RECORD.md)
+record written proofs, deferred tests and unchanged historical implementation
+counts; wider grammar and runtime integration remain open.
+
+**Future meaning and complete bounded lṛṭ/luṭ paradigms:**
+[PG16](future_construction/README.md) develops eight exact roots and twelve
+pada profiles into 216 written positions. Its [semantic domain](future_construction/SEMANTIC_DOMAIN.md)
+retains word-level future vivakṣā, temporal-adapter evidence and
+principal-result pada selection. [Affix and iṭ construction](future_construction/AFFIX_AND_IT.md)
+distinguishes sya/tās from their tiṅ endings and resolves the gam and
+ṛ-final exceptions. [Ending paths](future_construction/ENDING_CONSTRUCTION.md)
+include luṭ A's 2du/2pl/1du and the owned ḍā/rau/ras procedure;
+[derivations](future_construction/DERIVATIONS.md) give all positions and
+the bounded factorization proof. [Source review](future_construction/SOURCE_REVIEW.md)
+records selected commentary readings and publisher attachment errors.
+The [native extension](future_construction/NATIVE_EXTENSION.md) preserves
+pairing and exact zero-recovery, then repairs twelve restricted luṭ P/A
+word collisions with an explicit size bound at zero. [Work record](future_construction/WORK_RECORD.md)
+keeps tests deferred and implemented counts unchanged. [the theorem branch's lane](future_construction/THEOREM_BRANCH_HANDOFF.md)
+remains samāsa/nominal development while Codex extends verbal formations.
 
 ## Read in this order
 

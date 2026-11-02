@@ -1,0 +1,53 @@
+{
+  "author": "Monty",
+  "repository": "Parveen117/Recognition-Kernel-Framework",
+  "branch": "shaiva-sources-maheshvara-spanda-pratyabhijna",
+  "reviewed_commit": "0f489be0a1ab4ff9235e4dcf7fdfa508643dbc23",
+  "files_sha256": {
+    "proof_lab/ngi_stem_sup_compiled.py": "505f1a5042d4996a10db0fac59b25279541eeeadb68afb4f57ff01dc85845a93",
+    "proof_lab/nic_causative_compiled.py": "9e1626a3d7e141c9271b020bbdec0d13c168a71e81ab88aa96a3f9775906e2ac",
+    "proof_lab/krt_ghan_lyut_nvul_satr_compiled.py": "19dedac14906b82e4a9a99ec7d27de5e38d3c9c0b8539194394017991ee8fd70",
+    "theorum/89_ngi_stem_sup_compiled_theorem.md": "cdccc601254527ee08b9bd5fddd2cdfde07ef166472faf2295fa7f35b4592f54",
+    "theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md": "4d2e4888c568ab4573dd979e71e7550214a3bd0e50756e63287e7218e942d731"
+  },
+  "method": "Read selected exact source and theorem text plus the T89 repair diff; AST-inspect restored table and guard. No companion certificate or suite replay.",
+  "useful_reuse": {
+    "T105": "Twelve-root causative derivation pattern and its 36 P word cases motivate PG13. Rebuilt against explicit lexical IDs and owned constituents, extended to 108 cells; no copied oracle stems or runtime dependency.",
+    "T107": "Nineteen krt word examples are a future nominal-formation route; not added to present coverage."
+  },
+  "closed_prior_findings": {
+    "repair_commit": "dead06fc622059323ded67dc8cc1655619a5a229",
+    "T89_restored_stage_keys": [
+      "6.1.105",
+      "6.1.68",
+      "6.1.69",
+      "7.1.54",
+      "7.3.107",
+      "7.3.112",
+      "7.3.116",
+      "8.3.59"
+    ],
+    "T89_guard": "trc_agent now raises ValueError before entry lookup for IDs outside AGENTS",
+    "status": "STATIC_REPAIR_CONFIRMED; reported new certificate pin not replayed"
+  },
+  "new_findings": [
+    {
+      "id": "T105-puk-u-explanation",
+      "severity": "provenance distinction",
+      "observation": "T105 appends p directly and describes u as 1.3.2 it. Selected Balamanorama 7.3.36 calls u pronunciation-only and k it. Output spelling is unaffected, but a reusable owned-augment carrier must keep these roles separate.",
+      "pg13_action": "Retain all three teaching sounds, k marker, pronunciation-only u and kit-final placement separately."
+    },
+    {
+      "id": "T107-nvul-final-l-explanation",
+      "severity": "prose correction",
+      "observation": "The T107 theorem attributes final l of nvul to 1.3.8; final-consonant designation is 1.3.3. Runtime calls the existing its interpreter rather than that prose; no runtime failure claimed."
+    }
+  ],
+  "integration": {
+    "companion_code_merged": false,
+    "companion_certificates_replayed": false,
+    "pg13_dependency_added": false,
+    "main_merge": "deferred",
+    "hosted_ci": "deferred"
+  }
+}

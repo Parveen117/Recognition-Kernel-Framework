@@ -1,0 +1,95 @@
+{
+  "author": "Monty",
+  "decisions": [
+    {
+      "id": "augment-u-pronunciation",
+      "choice": "Retain puk/yuk u as pronunciation-only, k as final it and the augment as a final root member. Do not introduce nasal u or apply 1.3.2 to it.",
+      "evidence": [
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "73036",
+          "anchor": "पुकि ककार इत्, उकार उच्चारणार्थः"
+        },
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "73036",
+          "anchor": "कित्त्वादन्तावयवः"
+        },
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "73037",
+          "anchor": "युकि ककार इत् । उकार उच्चारणार्थः । कित्त्वादन्तागमः"
+        }
+      ]
+    },
+    {
+      "id": "homonymous-pa",
+      "choice": "Admit 1011074 pa in drinking, with yuk. Exclude 1020051 pa in protecting; its luk-vikarana and lug path cannot borrow this recipe.",
+      "evidence": [
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "73037",
+          "anchor": "पा पाने भ्वादिः"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "73037",
+          "anchor": "पालयति"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "73037",
+          "anchor": "लुग्विकरणत्वाद् न भवति"
+        }
+      ]
+    },
+    {
+      "id": "causative-pada-context",
+      "choice": "Only P contexts explicitly supplied as licensed are admitted. Ordinary-root A/U/P does not decide derived-dhatu pada. Budh 1040068 has the explicit 1.3.86 P prescription. Broader A and semantic exceptions are deferred.",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13078",
+          "anchor": "शेषात् कर्तरि परस्मैपदं भवति, शेषादेव नान्यस्मात्"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13086",
+          "anchor": "परस्मैपदं विधीयते"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13086",
+          "anchor": "बोधयति पद्मम्"
+        },
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "13074",
+          "anchor": "कर्त्रभिप्राये क्रियाफले"
+        }
+      ]
+    },
+    {
+      "id": "mit-gam",
+      "choice": "Retain the source am-final ganasutra license for gam. Record intermediate gām from 7.2.116 and shortening under 6.4.92; do not treat the m as an it marker.",
+      "evidence": [
+        {
+          "path": "sutraani/kashika.txt",
+          "key": "64092",
+          "anchor": "तेषामुपधाया ह्रस्वो भवति णौ परतः"
+        },
+        {
+          "path": "sutraani/balamanorama.txt",
+          "key": "64092",
+          "anchor": "णिचि उपधावृद्धौ ह्रस्व इति भावः"
+        },
+        {
+          "path": "dhatu/data.txt",
+          "key": "1011137",
+          "field": "anubandha_note_मित्",
+          "anchor": "धातोः अमन्तत्वात् <{1.934}> <<जनीजॄष्क्नसुरञ्जोऽमन्ताश्च>> इति गणसूत्रेण मित्त्वम् ।"
+        }
+      ]
+    }
+  ]
+}

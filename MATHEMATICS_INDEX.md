@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–118 (quoted Śaiva sources nativized; the sūtra as an instruction; the saṁjñā sound layer with the Aṣṭādhyāyī ledger; the it-saṁjñā layer compiled; the Śikṣā Vedāṅga; the Vedāṅga packets 71–73 bound to their quoted sources; the Nirukta Vedāṅga, also on the PG5 / PG6 pinned Dhātupāṭha entries; the Tripādī niṣṭhā rules compiled in asiddha order; the āp-stem, nadī-stem, ṛ-stem, ghi-stem and consonant-stem sup paradigms), and added the PG1–PG12 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
+Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–118 (quoted Śaiva sources nativized; the sūtra as an instruction; the saṁjñā sound layer with the Aṣṭādhyāyī ledger; the it-saṁjñā layer compiled; the Śikṣā Vedāṅga; the Vedāṅga packets 71–73 bound to their quoted sources; the Nirukta Vedāṅga, also on the PG5 / PG6 pinned Dhātupāṭha entries; the Tripādī niṣṭhā rules compiled in asiddha order; the āp-stem, nadī-stem, ṛ-stem, ghi-stem and consonant-stem sup paradigms), and added the PG1–PG16 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -9,7 +9,9 @@ The [1 November integration record](research-history/PENDING_WORK_2026_11_01.md)
 reconciles every branch in the recorded snapshot, preserves all scientific source
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
-Python 3.12 navigation check passes. RH, global eta-zero positivity, K0 and the
+Python 3.12 navigation result recorded for that integration is passing;
+Navigation reruns for PG14–PG16 are deferred as recorded below. RH,
+global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
 ## Active operator-engine route
@@ -277,7 +279,7 @@ direct controls. The separate 1,116-cell / 1,316-branch comparison has
 zero differences. Twenty-four new entries lack separate exact full-word
 witnesses; the seven earlier PG10/PG11 gaps also remain open.
 
-[Current coverage](research/panini_grammar/nasal_present/COVERAGE_STATUS.json)
+[PG12 coverage](research/panini_grammar/nasal_present/COVERAGE_STATUS.json)
 is 228 / 2,229 root entries, 290 paradigms, 2,610 present cells and 2,959
 branches, with 208 bounded definitions / 152 distinct sūtra IDs across
 PG4–PG12. The declared unaccented, unprefixed classical kartari profiles
@@ -288,6 +290,159 @@ includes other present classes, dhinv/kṛnv's coupled changes, prefix and
 register contexts, and wider grammar. PG1–PG11 remain frozen. Full native
 operator lifting, typed zero-specialization compatibility and quantum-calculator
 integration remain open; hosted CI and main merging remain deferred.
+
+## PG13: causative presents with owned root constituents
+
+[PG13](research/panini_grammar/causative_present/README.md) develops twelve
+identified causative roots / twelve P paradigms / 108 present cells. It
+extends the useful T105 three-cell examples to all nine cells per root,
+with explicit lexical identity and separate causative and pada licenses.
+Root vṛddhi, r accompaniment, gam's intermediate gām and mit shortening,
+and root-final puk/yuk remain in the history. The augment's k marker and
+pronunciation-only u are distinguished. The full root constituent plus
+ṇic becomes the derived dhātu; later śap acts on ṇic's own i → e → ay.
+
+The [construction contract](research/panini_grammar/causative_present/CONTRACT.md)
+states the finite stage domains and ownership argument.
+[Source review](research/panini_grammar/causative_present/SOURCE_REVIEW.md)
+binds fifteen records and four source decisions without new scope overlays.
+[Concurrent review](research/panini_grammar/causative_present/CONCURRENT_REVIEW.json)
+statically confirms the T89 fixes, records useful T105/T107 work and
+separates two source-explanation corrections from output claims. Companion
+code and certificates are not imported or replayed.
+
+[Validation](research/panini_grammar/causative_present/VALIDATION.md) records
+11 literal-word cases, 31 refusals and 74 controls. All 108 comparison cells
+and 36 separately labeled T105 expected examples agree. Kṛṣ 1060006's
+exact-word witness remains open; previous evidence gaps remain unchanged.
+[Current coverage](research/panini_grammar/causative_present/COVERAGE_STATUS.json)
+keeps 228 simple-present roots / 2,610 cells separate from the 108 causative
+cells: 2,718 cells when formation is part of their identity. PG4–PG13 contain
+223 bounded definitions / 161 distinct sūtra IDs. No overall grammar
+percentage is assigned.
+[Remaining work](research/panini_grammar/causative_present/REMAINING.md)
+includes further causative exceptions, semantic pada contexts, wider
+formations and the full native operator lift with typed zero-specialization
+compatibility. Quantum-calculator integration remains open. PG1–PG12 are
+frozen; hosted CI and main merging remain deferred.
+
+## PG14: mathematical grammar, meaning-to-form and native history operators
+
+[PG14](research/panini_grammar/grammar_construction/README.md) develops the
+written grammar before another implementation/test batch. Its
+[state and composition construction](research/panini_grammar/grammar_construction/STATE_AND_COMPOSITION.md)
+retains source evidence, semantic predicates, owned constituents, optional
+branches, rule-relative visibility and open obligations. Local soundness
+composes; completeness requires the stated factorization and local-coverage
+hypotheses.
+
+[Voice and pada](research/panini_grammar/grammar_construction/VOICE_AND_PADA.md)
+derive causee kāraka, causative permission and pada on twelve identified
+root/sense frames, with principal-result semantics, 1.3.77 optionality and
+1.3.86–89 exceptions. Karma-passive agreement follows the expressed karman;
+bhāva uses default 3sg even with plural agents. The
+[written derivations](research/panini_grammar/grammar_construction/DERIVATIONS.md)
+include complete thematic A ending chains, causative A and kriyate/hriyate,
+with marker ownership and Tripādī history preserved.
+
+The [native operator lift](research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md)
+constructs a free noncommutative cut-path coefficient algebra over the native
+cut field, history cuts, a declared algebra-valued pairing and lawful typed
+rule operators. Its augmentation proves exact zero-recovery of the same
+labelled classical derivations; the complementary-channel example shows
+why observation compression is a different operation. This establishes an
+admitted algebraic instance, not all native carriers, all Sanskrit rule
+interpretations or an adapter already implemented by the older Python code.
+
+[Sources](research/panini_grammar/grammar_construction/SOURCE_REVIEW.md) and
+[pins](research/panini_grammar/grammar_construction/SOURCE_PINS.json) identify
+the adopted readings. [theorem-branch review](research/panini_grammar/grammar_construction/THEOREM_BRANCH_REVIEW.md)
+reads T110/T112–117 and qualifies bhāva plural licensing and T114's
+similarity-sense description. The
+[work record](research/panini_grammar/grammar_construction/WORK_RECORD.md)
+records written proofs and source reading; Python tests, including the
+navigation suite, are deferred under the owner's current instruction.
+PG1–PG13's implemented coverage, theorem packets and certificates remain
+unchanged. [Remaining work](research/panini_grammar/grammar_construction/REMAINING.md)
+keeps wider grammar and runtime/native integration open. CI and main merge
+remain deferred.
+
+## PG15: causative passive, expressed karman and retained ṇic
+
+[PG15](research/panini_grammar/causative_passive/README.md) continues the
+written construction on twelve identified causative root/sense frames.
+[Karman selection](research/panini_grammar/causative_passive/DOMAIN_AND_KARMAN.md)
+constructs the dependent causee-role/expressed-karman branches, residual
+cases and controller agreement. Cognition/ingestion can express either
+karman; the adopted hṛ/kṛ policy gives (K,b) or (Agt,c), not every Cartesian
+combination. A separate basic double-karman comparison prevents reusing
+the causal policy on an unqualified root spelling.
+
+[Owned ṇic-lopa](research/panini_grammar/causative_passive/NIC_LOPA.md)
+derives the aniṭ ārdhadhātuka guard of 6.4.51, retains root/augment effects,
+and distinguishes nī's root-substitute y from pā's yuk y. The
+[written derivations](research/panini_grammar/causative_passive/DERIVATIONS.md)
+expand twelve aṅgas into nine A slots and connect selected karmans to
+different agreement/case outcomes. Displayed words select the non-doubling
+alternatives of 8.4.46–47; they are not a complete phonetic-variant inventory
+or 108 new executed cells.
+
+The [native extension](research/panini_grammar/causative_passive/NATIVE_EXTENSION.md)
+preserves PG14's old sector, pairing and exact typed zero-reading. It
+proves a causal-cut no-descent theorem for the common gamyate word observer
+and constructs a one-extra-channel repair with explicit inverse and
+transported pairing. This finite repair is not a universal minimum-state
+theorem for the whole grammar.
+
+[Source review](research/panini_grammar/causative_passive/SOURCE_REVIEW.md)
+attributes the double-karman policy to the commentary procedure stored
+under 7.1.69, preserves textual variants and distinguishes literal words
+from derived forms. A [targeted T118 review](research/panini_grammar/causative_passive/T118_SOURCE_REVIEW.md)
+reads the later bee6b02 snapshot, accepts its asādṛśya correction and records
+source/typing repairs; [the theorem branch's handoff](research/panini_grammar/causative_passive/PARALLEL_WORK.md)
+proposes independent samāsa continuation after that progress.
+The [work record and frontier](research/panini_grammar/causative_passive/WORK_RECORD.md)
+keep Python/navigation tests deferred under the owner's mathematics-first
+instruction; PG1–PG14 frozen evidence, prior implemented coverage, the shared engine
+and certificates are unchanged. Wider grammar, runtime integration, hosted
+CI and main merging remain open or deferred.
+
+## PG16: future meaning, owned sya/tās and complete bounded paradigms
+
+[PG16](research/panini_grammar/future_construction/README.md) constructs
+lṛṭ/luṭ on eight exact root/sense entries, twelve root/pada profiles and
+216 written person-number positions. The [semantic domain](research/panini_grammar/future_construction/SEMANTIC_DOMAIN.md)
+distinguishes future-general from verb-encoded anadyatana, using an
+explicit temporal adapter and Nyāsa's word/sentence-meaning distinction.
+Principal-result evidence resolves U-root pada; missing evidence is not
+free optionality. [Affix construction](research/panini_grammar/future_construction/AFFIX_AND_IT.md)
+separates ārdhadhātuka sya/tās from sārvadhātuka tiṅ, and proves the
+gam versus kṛ/hṛ iṭ guards and the lawful late-junction factorization.
+
+The [ending construction](research/panini_grammar/future_construction/ENDING_CONSTRUCTION.md)
+completes all nine slots, including luṭ A's -āsāthe/-ādhve/-āsvahe,
+and retains the query-relative identity of ḍā/rau/ras. [Derivations](research/panini_grammar/future_construction/DERIVATIONS.md)
+display every position and give the bounded composition theorem. The
+[source review](research/panini_grammar/future_construction/SOURCE_REVIEW.md)
+preserves the rival tāsi-i analyses, attributes the selected 8.2.25
+procedure and records misattached publisher entries; earlier future
+packets are acknowledged and qualified additively.
+
+The [native extension](research/panini_grammar/future_construction/NATIVE_EXTENSION.md)
+retains the old corner, pairing, complementary cuts and exact typed
+zero-recovery. On a fixed 24-history luṭ sector it proves twelve P/A
+word-collision fibres, an explicit repair with transported pairing, and
+a twelve-coordinate lower bound for linear repairs with injective zero
+reading. This is not a universal memory bound for Sanskrit.
+
+[Work and frontier](research/panini_grammar/future_construction/WORK_RECORD.md)
+keep source/written results separate from implementation: no new executed
+cells, unchanged historical coverage, and tests/certificate replay deferred
+under the owner's instruction. Wider futures, other verbal formations,
+runtime integration and main merge remain open or deferred. [the theorem branch's
+handoff](research/panini_grammar/future_construction/THEOREM_BRANCH_HANDOFF.md) assigns
+independent samāsa/nominal work. The shared operator engine and frozen
+predecessor evidence remain unchanged.
 
 ## Śaiva sources, the sūtra as an instruction, and the Vedāṅgas: Theorems 78–118
 
