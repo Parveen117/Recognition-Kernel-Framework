@@ -266,6 +266,18 @@ give typed recovery and the finite three-to-two laṭ/loṭ comparison.
 and [Claude handoff](nasal_modals/COMPANION_UPDATE.md) retain evidence,
 overlap, deferred tests and the non-overlapping next tasks.
 
+**Adādi/juhotyādi/rudhādi modal continuation:**
+[PG22](athematic_modals/README.md) constructs twelve exact roots /
+eighteen qualified pada profiles, including hi→dhi, dehi/dhehi/edhi,
+owned copy lopa, dhā's exception and ordered consonant/nasal readout.
+Its [register](athematic_modals/PARADIGMS.md) has **486 positions /
+558 written branch readings**, with all ordinary collapse sites and
+thirty added tāt readings. [Native proofs](athematic_modals/NATIVE_ATHEMATIC.md)
+give the typed zero-law, the original-s visibility obstruction and a
+dependent ending/sound-fibre construction. [Sources](athematic_modals/SOURCE_REVIEW.md),
+[work](athematic_modals/WORK_RECORD.md) and [Claude through T138](athematic_modals/COMPANION_UPDATE.md)
+preserve exact evidence, the actual-marker handoff and deferred tests.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

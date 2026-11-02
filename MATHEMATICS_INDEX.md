@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG21 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG22 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG21 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG22 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -644,6 +644,44 @@ tanādi guṇa question. [Work/frontier](research/panini_grammar/nasal_modals/WO
 records deferred grammar/navigation/engine tests and certificate replay;
 adādi/juhotyādi/rudhādi modal and remaining contextual liṅ domains are next.
 The canonical operator engine remains unchanged.
+
+## PG22: athematic modal continuations and dependent consonant fibres
+
+[PG22](research/panini_grammar/athematic_modals/README.md) extends
+PG7–PG9's exact adādi/juhotyādi/rudhādi contracts to loṭ, vidhiliṅ
+and blessing loṭ. Its [domain](research/panini_grammar/athematic_modals/DOMAIN.md)
+contains twelve roots / eighteen qualified pada profiles, with actor,
+meaning, source policy and controller retained. [Stem and ending contracts](research/panini_grammar/athematic_modals/STEMS_AND_ENDINGS.md)
+use actual kit/ṅit/pit prescriptions, owned śap-luk/ślu/śnam and
+the new augment contexts rather than copying laṭ slot flags.
+
+[Hi and visibility](research/panini_grammar/athematic_modals/HI_AND_VISIBILITY.md)
+derive dhi, dehi/dhehi/edhi, whole-abhyāsa lopa and the original-s
+query that remains valid after etva. [Consonant readout](research/panini_grammar/athematic_modals/CONSONANT_READOUT.md)
+retains dhā's bhaṣ exception, root-num/affix-n ownership, ordered nasal
+views and every eligible optional collapse. The [complete register](research/panini_grammar/athematic_modals/PARADIGMS.md)
+has **486 positions / 558 written branch readings**: 183 ordinary
+loṭ, 162 vidhiliṅ and 213 blessing-loṭ readings. Twenty-four tāt
+positions receive thirty added readings because three roots acquire
+two-word sound fibres. Ordinary blessing and ordinary loṭ words overlap.
+
+The [native construction](research/panini_grammar/athematic_modals/NATIVE_ATHEMATIC.md)
+starts with the full carrier, pairing and complementary cuts, establishes
+typed zero-recovery, proves the current-e observation obstruction and
+constructs the two-choice/three-output rudh incidence operator. Copying
+an ordinary ending's collapse flag loses a licensed new tāt word;
+zero-specialization itself retains the needed histories.
+
+[Source review](research/panini_grammar/athematic_modals/SOURCE_REVIEW.md)
+and [pins](research/panini_grammar/athematic_modals/SOURCE_PINS.json)
+preserve local visibility assumptions and literal edition anomalies.
+[Claude through T138](research/panini_grammar/athematic_modals/COMPANION_UPDATE.md)
+records the new adādi present work, reported modal gaps and concrete marker-guard
+handoff. [Work/frontier](research/panini_grammar/athematic_modals/WORK_RECORD.md)
+keeps grammar/navigation/operator tests and certificate replay deferred.
+Remaining adādi modal exceptions, contextual liṅ meanings, broader
+voice/causative transport and general visibility resolution stay open.
+The canonical operator engine and frozen evidence remain unchanged.
 
 ## Śaiva sources and the sūtra as an instruction: Theorems 78–82
 
