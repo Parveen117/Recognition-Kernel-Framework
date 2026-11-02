@@ -32,6 +32,7 @@ SOURCES = {
     "4.1.2": "svaujasamauṭchaṣṭābhyāmbhisṅebhyāmbhyasṅasibhyāmbhyasṅasosāṅṅyossup", "1.1.42": "śi sarvanāmasthānam", "1.1.43": "suḍ anapuṁsakasya", "6.4.10": "sāntamahataḥ saṁyogasya", "6.1.113": "ato ror aplutād aplute", "6.1.114": "haśi ca", "8.3.24": "naś cāpadāntasya jhali", "8.3.36": "vā śari", "1.4.6": "ṅiti hrasvaś ca", "1.4.17": "svādiṣv asarvanāmasthāne", "1.4.18": "yaci bham", "1.4.7": "śeṣo ghy asakhi", "1.4.3": "yū stryākhyau nadī", "1.1.27": "sarvādīni sarvanāmāni",
     "1.1.52": "alo'ntyasya", "1.1.55": "anekālśitsarvasya", "4.1.4": "ajādyataṣṭāp", "6.1.97": "ato guṇe", "7.1.11": "nedamadasorakoḥ", "7.2.103": "kimaḥ kaḥ", "7.2.106": "tadoḥ saḥ sāvanantyayoḥ", "7.2.108": "idamo maḥ",
     "7.2.109": "daśca", "7.2.110": "yaḥ sau", "7.2.111": "ido'y puṁsi", "7.2.112": "anāpyakaḥ", "7.2.113": "hali lopaḥ",
+    "7.1.25": "adḍ ḍatarādibhyaḥ pañcabhyaḥ",
     "1.1.24": "ṣṇāntā ṣaṭ", "1.1.47": "midaco'ntyātparaḥ", "1.1.63": "na lumatāṅgasya", "6.4.4": "na tisṛcatasṛ", "6.4.7": "nopadhāyāḥ", "7.1.21": "aṣṭābhya auś", "7.1.22": "ṣaḍbhyo luk", "7.1.53": "trestrayaḥ", "7.1.55": "ṣaṭcaturbhyaśca",
     "7.1.98": "caturanaḍuhorāmudāttaḥ", "7.2.84": "aṣṭana ā vibhaktau", "7.2.99": "tricaturoḥ striyāṁ tisṛcatasṛ", "7.2.100": "aci ra ṛtaḥ", "7.2.102": "tyadādīnāmaḥ", "8.4.41": "ṣṭunā ṣṭuḥ", "8.4.45": "yaro'nunāsike'nunāsiko vā",
     "7.1.9": "ato bhisa ais", "7.1.12": "ṭāṅasiṅasām inātsyāḥ", "7.1.13": "ṅer yaḥ", "7.1.14": "sarvanāmnaḥ smai", "7.1.15": "ṅasiṅyoḥ smātsminau", "7.1.17": "jasaḥ śī", "7.1.19": "napuṁsakāc ca", "7.1.20": "jaśśasoḥ śiḥ", "7.1.23": "svamor napuṁsakāt", "7.1.24": "ato 'm",
@@ -56,6 +57,7 @@ MULTI = ("kh", "gh", "ch", "jh", "ṭh", "ḍh", "th", "dh", "ph", "bh", "ai", "
 SUP = [("1s", "su~"), ("1d", "auṭ"), ("1p", "jas"), ("2s", "am"), ("2d", "auṭ"), ("2p", "śas"), ("3s", "ṭā"), ("3d", "bhyām"), ("3p", "bhis"),
        ("4s", "ṅe"), ("4d", "bhyām"), ("4p", "bhyas"), ("5s", "ṅasi~"), ("5d", "bhyām"), ("5p", "bhyas"), ("6s", "ṅas"), ("6d", "os"), ("6p", "ām"), ("7s", "ṅi"), ("7d", "os"), ("7p", "sup"), ("8s", "su~")]
 SNS = {"1s", "1d", "1p", "2s", "2d", "8s"}
+DATARADI = {"anya", "anyatara", "itara", "katara", "katama", "yatara", "yatama", "tatara", "tatama"}   # 7.1.25 ḍatarādi (ḍatara / ḍatama with their realisations) and anya, anyatara, itara
 JHAL = {"k", "kh", "g", "gh", "c", "ch", "j", "jh", "ṭ", "ṭh", "ḍ", "ḍh", "t", "th", "d", "dh", "p", "ph", "b", "bh", "ś", "ṣ", "s", "h"}
 
 
@@ -119,7 +121,8 @@ def rules() -> list[Rule]:
     add("7.1.98", lambda s: "".join(s.st) == "catur" and (s.sns or (s.g == "n" and s.up in ("jas", "śas"))), lambda s: setattr(s, "st", tok("catvār")), "ām augment to catur before sarvanāmasthāna (after the last vowel, 1.1.47; u → v by 6.1.77)")
     add("7.1.55", lambda s: (s.sat() or "".join(s.st) in ("catur", "catasṛ")) and s.up == "ām", lambda s: setattr(s, "aff", ["n", "ā", "m"]), "nuṭ to ām after ṣaṭ and catur")
     # ---- phase 1: affix substitutions (7.1, 7.3) -------------------------------------------
-    add("7.1.24", lambda s: s.g == "n" and s.a_final() and s.code in ("1s", "2s"), lambda s: setattr(s, "aff", ["a", "m"]), "su / am → am after the neuter a-stem")
+    add("7.1.25", lambda s: s.g == "n" and "".join(s.st) in DATARADI and s.code in ("1s", "2s", "8s"), lambda s: (setattr(s, "aff", ["d"]), setattr(s, "samb", False)), "su / am → ad after the neuter anya, anyatara, itara, ḍatara, ḍatama (a + ad → anyad by 6.1.97; anyat by 8.4.56)")
+    add("7.1.24", lambda s: s.g == "n" and s.a_final() and s.code in ("1s", "2s") and "7.1.25" not in s.done, lambda s: setattr(s, "aff", ["a", "m"]), "su / am → am after the neuter a-stem")
     add("7.1.23", lambda s: s.g == "n" and not s.a_final() and s.code in ("1s", "2s"), lambda s: setattr(s, "aff", []), "su / am deleted after the neuter (luk)")
     add("7.1.19", lambda s: s.g == "n" and s.code in ("1d", "2d"), lambda s: setattr(s, "aff", ["ī"]), "au → śī after the neuter")
     add("7.2.103", lambda s: "".join(s.st) == "kim" and bool(s.aff), lambda s: setattr(s, "st", tok("ka")), "kim → ka before a vibhakti (sarvādeśa, 1.1.55; not after the neuter luk: 1.1.63)")
@@ -233,7 +236,7 @@ def _natva(s: S) -> None:
         j = i - 1
         while j >= 0 and w[j] in AT_KU_PU and w[j] not in ("r", "ṛ", "ṝ"):
             j -= 1
-        if j >= 0 and w[j] in ("r", "ṣ", "ṛ", "ṝ"):
+        if j >= 0 and (w[j] in ("r", "ṣ", "ṛ", "ṝ") or w[j].endswith("ṣ")):   # the kṣ token ends in ṣ (vṛkṣeṇa)
             w[i] = "ṇ"
     n = len(s.st); s.st, s.aff = w[:n], w[n:]
 
@@ -359,6 +362,28 @@ def oracles() -> dict[str, dict[str, str]]:
     return o
 
 
+SUP_LANE_FILE = Path(__file__).resolve().parent.parent / "research" / "independent_oracle" / "VIDYUT_SUP_LANE.json"
+
+
+def sup_lane_oracle() -> dict[str, Any]:
+    """New stems of every declared class, every cell vidyut-prakriya derives (theorum/141): a DECLARED oracle of implementation grade."""
+    if not SUP_LANE_FILE.exists():
+        return {}
+    return json.loads(SUP_LANE_FILE.read_text(encoding="utf-8"))["cells"]
+
+
+def t2_sup_lane() -> dict[str, Any]:
+    O = sup_lane_oracle(); rows = {}
+    for key, x in O.items():
+        stem, g, c = key.split("|"); flags = tuple(x["flags"])
+        try:
+            ours = decline(stem, c, dict(SUP)[c], g, flags)[0]
+        except Exception as e:  # noqa: BLE001
+            ours = f"ENGINE_ERROR {e}"
+        rows[key] = {"ours": ours, "vidyut": x["forms"], "agree": ours in x["forms"]}
+    return {"cells": len(rows), "agree": sum(1 for r in rows.values() if r["agree"]), "disagree": {k: r for k, r in rows.items() if not r["agree"]}, "agreeing_keys": [k for k, r in rows.items() if r["agree"]]}
+
+
 def t1_suite() -> dict[str, Any]:
     O = oracles()
     forms = {n: suite_paradigm(n) for n in SUITE}
@@ -371,10 +396,17 @@ def t1_suite() -> dict[str, Any]:
             p = suite_paradigm(n, off=(rid,))
             b += [f"{n}.{c}" for c in p if p[c] != O[n][c]]
         broken[rid] = b
+    lane = t2_sup_lane(); O2 = sup_lane_oracle()
+    for rid in IDS:
+        if not broken[rid]:   # a row no suite cell loads may be loaded by an agreeing lane cell (theorum/141)
+            for k in lane["agreeing_keys"]:
+                stem, g, c = k.split("|")
+                if decline(stem, c, dict(SUP)[c], g, tuple(O2[k]["flags"]), off=(rid,))[0] not in O2[k]["forms"]:
+                    broken[rid].append("lane:" + k); break
     vacuous = [r for r in IDS if not broken[r]]
     checks = {"all_861_cells_equal_the_oracles": all(not mism[n] for n in SUITE),
               "every_rule_row_is_load_bearing_on_the_suite": not vacuous}
-    return {"checks": checks, "cells": cells, "mismatches": {n: m for n, m in mism.items() if m}, "broken_counts": {r: len(b) for r, b in broken.items()}, "broken": broken, "vacuous_rows": vacuous,
+    return {"checks": checks, "cells": cells, "mismatches": {n: m for n, m in mism.items() if m}, "broken_counts": {r: len(b) for r, b in broken.items()}, "broken": broken, "vacuous_rows": vacuous, "sup_lane": {"cells": lane["cells"], "agree": lane["agree"], "disagree": lane["disagree"]},
             "paths": {"rāma.3s": decline("rāma", "3s", "ṭā")[1], "nadī.4s": decline("nadī", "4s", "ṅe", "f", ("nadī",))[1], "kartṛ.1s": decline("kartṛ", "1s", "su~", "m", ("tṛ",))[1], "vāri.1p": decline("vāri", "1p", "jas", "n")[1]}}
 
 
@@ -388,9 +420,10 @@ def build_certificate() -> dict[str, Any]:
             "proved_by_exact_finite_certificate": [
                 f"one rule table of {len(IDS)} rows (each a quoted sūtra as guard + action) and one driver reproduce the 330 cells of fifteen certified paradigms exactly from the earlier pinned packets (theorum/63, 88, 89, 90, 91, 92, 93, 94, 98, 109, 123) and the 132 cells of six further classes declared as oracles (manas, mati, dhenu, madhu, pitṛ, mātṛ: s-stems with 6.4.10 / 8.3.24 / 6.1.114, feminine i / u in the non-nadī branch, neuter u, kinship ṛ-stems without 6.4.11) and the 84 cells of the numerals dvi (dual, three genders), tri, catur, pañcan, ṣaṣ, aṣṭan (plural, with the feminine tisṛ / catasṛ: 1.1.24 ṣaṭ saṁjñā, 7.1.22 luk with 1.1.63, 7.1.55 nuṭ, 7.1.53, 7.1.98 with 1.1.47, 7.2.84 ā-branch, 7.2.99 / 7.2.100 / 6.4.4, 7.2.102, 8.4.41 / 8.4.45 ṣaṇṇām, 8.4.56 ṣaṭ) and the 315 cells of the pronouns tad, etad, yad, tyad (masculine, feminine, neuter; tyad masculine), kim and idam in three genders (7.2.102 atva with 6.1.97 pararūpa and 1.1.52, 7.2.103 sarvādeśa with 1.1.55, 4.1.4 ṭāp on the atva-stem, 7.2.106 with 8.3.59 stem-internal, 7.2.108–7.2.113 for idam with 7.1.11 as a clause of 7.1.9, 7.1.23 luk with 1.1.63 for tat / kim / idam, 8.4.56 for tat); every row is load-bearing on at least one cell of the suite (per-row broken sets recorded)",
                 "6.1.105 dīrghāj jasi ca is a prohibition and is realised as a clause of 6.1.102's guard (no separate row): after a long vowel the jas takes 6.1.101 / 6.1.77 instead",
+                "theorum/141: 48 new stems of every declared class (1,078 cells from vidyut-prakriya, kept as VIDYUT_SUP_LANE.json, a declared oracle of implementation grade) are reported as a fraction in sup_lane and load rows only where they agree; the test exposed the ṇatva scanner's blindness to the kṣ token (vṛkṣeṇa) and the missing 7.1.25 (anyat), both now rows",
                 "the two option cells (rājan 7s by 6.4.136, vāri 8s) are compared on their first alternative; the engine realises one branch and records the option as the earlier packet's",
             ],
-            "NOT_claimed": ["adas (7.2.107, 8.2.80), the d-case of 7.2.106, the ka-branch of 7.2.112 / 7.1.11 (akac), 6.1.132's sentence-level sulopa, and the vocative of the pronouns; the aṣṭan branch without 7.2.84 (aṣṭa, aṣṭabhiḥ, aṣṭānām by 6.4.7) and 8.4.45's non-nasal branch are not realised (first alternatives only); the 1.4.6 nadī option of mati / dhenu (matyai, matyāḥ, matyām) and 8.3.36's manassu are not realised (first alternatives only); the an-stem option 6.4.136 as a set-valued output, the 58-code carrier of theorum/63 (its ORACLE is transliterated to IAST for comparison), the resolver ladder of theorum/63 (this driver applies rows in a fixed phase order, not by the ladder's conflict resolution — the ladder remains the certified account of rule conflict on rāma)", "RH, YM untouched"],
+            "NOT_claimed": ["the vidyut-side cells of the lane (devīḥ, ekāya; the neuter vocative option)", "adas (7.2.107, 8.2.80), the d-case of 7.2.106, the ka-branch of 7.2.112 / 7.1.11 (akac), 6.1.132's sentence-level sulopa, and the vocative of the pronouns; the aṣṭan branch without 7.2.84 (aṣṭa, aṣṭabhiḥ, aṣṭānām by 6.4.7) and 8.4.45's non-nasal branch are not realised (first alternatives only); the 1.4.6 nadī option of mati / dhenu (matyai, matyāḥ, matyām) and 8.3.36's manassu are not realised (first alternatives only); the an-stem option 6.4.136 as a set-valued output, the 58-code carrier of theorum/63 (its ORACLE is transliterated to IAST for comparison), the resolver ladder of theorum/63 (this driver applies rows in a fixed phase order, not by the ladder's conflict resolution — the ladder remains the certified account of rule conflict on rāma)", "RH, YM untouched"],
         },
         "checks": checks, **packets,
     }

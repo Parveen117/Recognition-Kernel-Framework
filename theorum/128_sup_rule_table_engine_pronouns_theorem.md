@@ -46,7 +46,7 @@ asyai   idam (f) + ṅe → idā → 7.3.114 idasyā-e → 7.2.113 asyā-e → 6
 
 ## 4. Certificate
 
-theorum/125's module, re-pinned: `proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256` = `d6d7c356661849c4c632954c650db70682e23d4e3fd9c713b134b5b004927d15` (status `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE`); the previous pins `da49e277…` (theorum/127, commit 04df710), `3a7b26cd…` (theorum/126) and `6263db86…` (theorum/125) stay in the history.
+theorum/125's module, re-pinned: `proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256` = `d6d7c356661849c4c632954c650db70682e23d4e3fd9c713b134b5b004927d15` (status `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE`); the previous pins `da49e277…` (theorum/127, commit 04df710), `3a7b26cd…` (theorum/126) and `6263db86…` (theorum/125) stay in the history. Re-pinned by theorum/141 (the sup generalisation test); commit 9ff31fe holds this pin.
 
 ```text
 python -m proof_lab.sup_rule_table_engine

@@ -1433,7 +1433,7 @@ proof_lab/YUSMAD_ASMAD_SUP_COMPILED_EXPECTED.sha256
 |---|---|
 | Certificate class | one rule table (64 quoted sūtra rows) and one phase-ordered driver reproduce the 330 cells of fifteen certified paradigms (theorum/63, 88, 89, 90, 91, 92, 93, 94, 98, 109, 123) exactly; every row load-bearing on the suite; new classes cost rows, not engines |
 | Status | `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `d6d7c356661849c4c632954c650db70682e23d4e3fd9c713b134b5b004927d15` |
+| Canonical result SHA-256 | `90dd54de973176a173a5a7644dcaae9aa65c797f9e3a7a15b481cec9935dd5dc` |
 | Boundary | declared class flags and gender are inputs; option cells compared on the first alternative; Theorem 63's ladder remains the account of conflict |
 
 ```text
@@ -1449,7 +1449,7 @@ proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Rule-Table Engine III |
 | Status | `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `d6d7c356661849c4c632954c650db70682e23d4e3fd9c713b134b5b004927d15` |
+| Canonical result SHA-256 | `90dd54de973176a173a5a7644dcaae9aa65c797f9e3a7a15b481cec9935dd5dc` |
 | Boundary | numerals dvi, tri, catur, pañcan, ṣaṣ, aṣṭan in three genders; 84 cells from 13 rows |
 
 ```text
@@ -1465,7 +1465,7 @@ proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Rule-Table Engine IV |
 | Status | `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `d6d7c356661849c4c632954c650db70682e23d4e3fd9c713b134b5b004927d15` |
+| Canonical result SHA-256 | `90dd54de973176a173a5a7644dcaae9aa65c797f9e3a7a15b481cec9935dd5dc` |
 | Boundary | pronouns tad, etad, yad, tyad, kim, idam in three genders; 315 cells from 14 rows |
 
 ```text
@@ -1665,6 +1665,22 @@ theorum/140_ting_rule_table_engine_open_lane_ii_theorem.md
 proof_lab/ting_rule_table_engine.py
 proof_lab/test_ting_rule_table_engine.py
 proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
+```
+
+## Theorem 141 Sup Generalisation Test packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Sup Generalisation Test |
+| Status | `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE` |
+| Canonical result SHA-256 | `90dd54de973176a173a5a7644dcaae9aa65c797f9e3a7a15b481cec9935dd5dc` |
+| Boundary | 48 new stems of every declared class against vidyut: 1,068 / 1,078 cells; two rows exposed (kṣ in ṇatva, 7.1.25) |
+
+```text
+theorum/141_sup_generalisation_test_theorem.md
+proof_lab/sup_rule_table_engine.py
+proof_lab/test_sup_rule_table_engine.py
+proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 ```
 
 ## Consolidated parallel-lineage index

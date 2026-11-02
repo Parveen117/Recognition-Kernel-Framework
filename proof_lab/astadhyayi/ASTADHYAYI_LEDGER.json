@@ -11,10 +11,10 @@
   "counts": {
     "compiled": 10,
     "meta": 157,
-    "hand_coded": 323,
+    "hand_coded": 324,
     "cited": 406,
     "misnumbered": 2,
-    "entries": 898,
+    "entries": 899,
     "text_missing": 84,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
@@ -7124,6 +7124,7 @@
         "theorum/123_in_stem_sup_compiled_theorem.md",
         "theorum/125_sup_rule_table_engine_theorem.md",
         "theorum/128_sup_rule_table_engine_pronouns_theorem.md",
+        "theorum/141_sup_generalisation_test_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
         "theorum/88_ap_stem_sup_compiled_theorem.md",
         "theorum/89_ngi_stem_sup_compiled_theorem.md",
@@ -10173,7 +10174,22 @@
         "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md",
         "theorum/125_sup_rule_table_engine_theorem.md",
+        "theorum/141_sup_generalisation_test_theorem.md",
         "theorum/93_napumsaka_sup_compiled_theorem.md"
+      ]
+    },
+    "7.1.25": {
+      "text": "adḍ ḍatarādibhyaḥ pañcabhyaḥ",
+      "text_devanagari": "अद्ड् डतरादिभ्यः पञ्चभ्यः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T141"
+      ],
+      "cited_in": [
+        "proof_lab/sup_rule_table_engine.py",
+        "theorum/141_sup_generalisation_test_theorem.md"
       ]
     },
     "7.1.27": {
