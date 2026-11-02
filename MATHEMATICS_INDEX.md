@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG20 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG21 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG20 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG21 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -605,6 +605,45 @@ integration gaps. [Work and frontier](research/panini_grammar/benediction/WORK_R
 keep grammar/navigation/engine tests and certificate replay deferred under
 the owner's instruction. Wider athematic modal and contextual liṅ domains
 remain open; the canonical operator engine is unchanged.
+
+## PG21: nasal-class modals, source-policy branches and stem transport
+
+[PG21](research/panini_grammar/nasal_modals/README.md) extends the exact
+PG6/PG12 root contracts to complete loṭ, vidhiliṅ and blessing-loṭ
+continuations. Its [domain](research/panini_grammar/nasal_modals/DOMAIN.md)
+has seventeen roots and twenty-seven qualified pada profiles. The five
+3.1.82 roots retain both śnu/śnā branches; four tanādi roots retain
+the separately labelled commentary guṇa policies, rather than treating
+that disagreement as an unquoted universal optional rule.
+
+[Owned stems](research/panini_grammar/nasal_modals/STEM_CONSTRUCTION.md)
+and [ending constructors](research/panini_grammar/nasal_modals/MODAL_ENDINGS.md)
+derive root n-lopa, actual-cluster hi-luk, śnu uv/v versus u yaṇ,
+śnā weakness and the first-person loṭ āṭ/pit consequences. They prove
+why laṭ's direct m/v u-lopa supplies no extra modal branch here.
+[Derivations](research/panini_grammar/nasal_modals/DERIVATIONS.md) cover
+the complete rule-sensitive cases; the [register](research/panini_grammar/nasal_modals/PARADIGMS.md)
+has **729 written positions / 1,159 source-family readings**, including
+52 tātaṅ branch additions. Fixing one of the two guṇa policies for
+each affected root gives 935 readings. Ordinary blessing-loṭ words
+overlap the ordinary loṭ words; these are not distinct-string or novelty totals.
+
+The [native construction](research/panini_grammar/nasal_modals/NATIVE_TRANSPORT.md)
+retains the full carrier, pairing, complementary cuts and typed zero-law.
+It proves actual-cluster and affix-identity observation boundaries, then
+an exact rank-two comparison of three laṭ branches with two loṭ branches.
+A history-retaining target repairs the lost donor distinction; zero itself
+does not erase it. No universal mood-transport bijection is asserted.
+
+[Sources](research/panini_grammar/nasal_modals/SOURCE_REVIEW.md) and
+[pins](research/panini_grammar/nasal_modals/SOURCE_PINS.json) retain the
+selected schedules, source-policy family and inherited word-witness gaps.
+[Claude's handoff](research/panini_grammar/nasal_modals/COMPANION_UPDATE.md)
+recognizes T133–T135 and identifies the existing primary answer to its
+tanādi guṇa question. [Work/frontier](research/panini_grammar/nasal_modals/WORK_RECORD.md)
+records deferred grammar/navigation/engine tests and certificate replay;
+adādi/juhotyādi/rudhādi modal and remaining contextual liṅ domains are next.
+The canonical operator engine remains unchanged.
 
 ## Śaiva sources and the sūtra as an instruction: Theorems 78–82
 

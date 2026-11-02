@@ -253,6 +253,19 @@ boundaries. [Sources](benediction/SOURCE_REVIEW.md) and
 from unrun tests. [Claude through T135](benediction/COMPANION_UPDATE.md)
 records the useful laṭ expansion and remaining integration tasks.
 
+**Nasal-class modal expansion:**
+[PG21](nasal_modals/README.md) completes loṭ, vidhiliṅ and blessing-loṭ
+for seventeen exact roots / twenty-seven pada profiles. It retains both
+3.1.82 affixes and the separately identified tanādi guṇa source policies,
+derives actual-cluster hi-luk and augment-sensitive u-loss exclusion, and
+adds fifty-two tātaṅ branch readings. The [register](nasal_modals/PARADIGMS.md)
+has **729 positions / 1,159 source-family readings** (935 after fixing
+the guṇa policies). [Native proofs](nasal_modals/NATIVE_TRANSPORT.md)
+give typed recovery and the finite three-to-two laṭ/loṭ comparison.
+[Sources](nasal_modals/SOURCE_REVIEW.md), [work](nasal_modals/WORK_RECORD.md)
+and [Claude handoff](nasal_modals/COMPANION_UPDATE.md) retain evidence,
+overlap, deferred tests and the non-overlapping next tasks.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
