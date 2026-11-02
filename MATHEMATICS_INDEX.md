@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG22 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG23 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG22 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG23 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,47 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG23: lexical modal exceptions, effective markers and combined progress
+
+[PG23](research/panini_grammar/lexical_modals/README.md) constructs
+ordinary loṭ, vidhiliṅ and blessing-loṭ for nine exact roots /ten
+qualified pada profiles: han, śās, rud/svap/śvas/an/jakṣ, brū and śī.
+Its [domain](research/panini_grammar/lexical_modals/DOMAIN.md) retains
+meaning, lexical identity, actor/pada evidence and controller before form.
+[Markers and augments](research/panini_grammar/lexical_modals/MARKERS_AND_AUGMENTS.md)
+distinguish historical from effective pit, val-sensitive iṭ, hal/pit īṭ,
+lexical weak-context guṇa and actual-host ruṭ.
+
+[Exception derivations](research/panini_grammar/lexical_modals/EXCEPTION_DERIVATIONS.md)
+give whole han→ja and śās→śā before hi, original-source visibility,
+named abhyasta without invented copies, and the actual modal vowel/y
+boundaries. The [complete register](research/panini_grammar/lexical_modals/PARADIGMS.md)
+has **270 positions /286 readings**, including sixteen added tāt
+readings. [Native proofs](research/panini_grammar/lexical_modals/NATIVE_LEXICAL.md)
+construct the full carrier, pairing and complementary cuts, prove the
+typed zero-law and isolate three finite observation losses: current a,
+historical pit and visible r do not retain their source/ownership cuts.
+
+[Combined progress](research/panini_grammar/lexical_modals/PROGRESS.md)
+and its [auditable register](research/panini_grammar/lexical_modals/PROGRESS_REGISTER.json)
+include development awaiting verification: **569 distinct bounded-rule
+IDs and 7,759 formation/meaning-distinguished verbal positions**.
+The rule ratio is 569/3,983 ≈14.3% of the pinned inventory, not a
+whole-grammar completion percentage. The register removes stated overlaps,
+keeps merely cited ledger entries separate and does not add overlapping
+companion test cells to written positions.
+
+[Sources](research/panini_grammar/lexical_modals/SOURCE_REVIEW.md),
+[pins](research/panini_grammar/lexical_modals/SOURCE_PINS.json) and
+[literal extracts](research/panini_grammar/lexical_modals/SOURCE_EXCERPTS.json)
+preserve commentary attribution and the exact śī/brū anomalies.
+[Claude through T142](research/panini_grammar/lexical_modals/COMPANION_UPDATE.md)
+credits the repaired strong/āṭ predicates and records source-specific
+remaining tasks. The [work record](research/panini_grammar/lexical_modals/WORK_RECORD.md)
+keeps grammar/navigation/operator tests and certificate replay deferred.
+Broader lexical moods, source-priority resolution and independent/formal
+validation remain open; canonical engine and frozen evidence are unchanged.
 
 ## Śaiva sources and the sūtra as an instruction: Theorems 78–82
 

@@ -278,6 +278,22 @@ dependent ending/sound-fibre construction. [Sources](athematic_modals/SOURCE_REV
 [work](athematic_modals/WORK_RECORD.md) and [Claude through T138](athematic_modals/COMPANION_UPDATE.md)
 preserve exact evidence, the actual-marker handoff and deferred tests.
 
+**Lexical modal exceptions and combined progress:**
+[PG23](lexical_modals/README.md) adds han/śās, rudādi, brū and śī:
+nine exact roots /ten qualified pada profiles and **270 positions /
+286 written readings**. It derives whole-root hi exceptions, effective
+pit, distinct iṭ/īṭ/ruṭ hosts and śī's weak-context guṇa. The
+[native construction](lexical_modals/NATIVE_LEXICAL.md) proves typed
+zero-recovery and finite source/marker/owner observation obstructions.
+[Sources](lexical_modals/SOURCE_REVIEW.md) preserve literal anomalies;
+[Claude through T142](lexical_modals/COMPANION_UPDATE.md) credits useful
+runtime repairs and gives the remaining integration assignment.
+[Combined progress](lexical_modals/PROGRESS.md) includes written work
+awaiting verification: **569 bounded-rule IDs and 7,759 verbal positions**,
+with overlapping cells and merely cited rules kept out of the developed
+totals. The 569/3,983 ratio is rule reach, not whole-grammar completion.
+[Work record](lexical_modals/WORK_RECORD.md) retains the deferred-test boundary.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
