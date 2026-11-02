@@ -310,6 +310,25 @@ adjudication separate from runtime comparison labels.
 [Work and the full-grammar queue](consonant_modals/WORK_RECORD.md)
 retain the owner's written-first priority and deferred verification.
 
+**Abhyasta modals and reusable family interfaces:**
+[PG25](abhyasta_modals/README.md) closes I/O/B for **15 exact roots /19
+qualified profiles**, adding **513 positions /570 written readings**.
+It derives hāk's separate hi/y/tāt fibres, bhī's short/long options,
+daridrā's short i, pṝ/pṛ and the target-specific guṇa boundary.
+The [native construction](abhyasta_modals/NATIVE_FAMILIES.md) proves
+source-qualified block assembly, dependent choice counting and typed
+zero-recovery. [Coverage](abhyasta_modals/COVERAGE.json) reaches **8,596
+written verbal positions /574 bounded-rule IDs**. All fifteen class-3
+roots admitted in PG8/10/11 now have these three modal constructions:
+21 profiles /567 positions already included in the cumulative total.
+[Sources](abhyasta_modals/SOURCE_REVIEW.md) retain lexical qualifications
+and literal conflicts. [Claude through T143](abhyasta_modals/COMPANION_UPDATE.md)
+credits useful repairs and assigns the remaining option sets/adapters;
+its comparison totals remain attributed reports.
+[Work/frontier](abhyasta_modals/WORK_RECORD.md) keeps the written-first
+priority and deferred tests. The rule ratio is bounded reach, not a
+whole-grammar completion percentage.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

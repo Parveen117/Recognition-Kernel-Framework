@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG24 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG25 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG24 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG25 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,44 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG25: abhyasta modals and source-qualified family assembly
+
+[PG25](research/panini_grammar/abhyasta_modals/README.md) constructs
+ordinary loṭ, vidhiliṅ and blessing-loṭ for **15 exact roots /19
+qualified pada profiles**. Its [domain and interfaces](research/panini_grammar/abhyasta_modals/DOMAIN_AND_INTERFACES.md)
+retain twelve owned ślu copies and three lexical-abhyasta designations.
+[Stem construction](research/panini_grammar/abhyasta_modals/STEMS_AND_CHOICES.md)
+separates hāk's hi/y/tāt choices, bhī's optional shortening,
+daridrā's mandatory i, pṝ/pṛ and the light-upadhā scope of 7.3.87.
+[Owned readout](research/panini_grammar/abhyasta_modals/OWNED_READOUT.md)
+derives the vowel seams, consonant contacts and selected cakādhi account.
+The [complete register](research/panini_grammar/abhyasta_modals/PARADIGMS.md)
+adds **513 positions /570 written readings**.
+
+The [native construction](research/panini_grammar/abhyasta_modals/NATIVE_FAMILIES.md)
+starts with the full history carrier, pairing and complementary cuts.
+It proves source-qualified block assembly and typed zero-recovery,
+constructs dependent ending-choice fibres and shows why the guṇa query
+cannot descend through an observer that forgets its target type.
+Reuse requires the declared source/owner/guard interface; a new root
+is not admitted merely by fitting a stem template.
+
+[Coverage](research/panini_grammar/abhyasta_modals/COVERAGE.json) reaches
+**8,596 written verbal positions** and **574 distinct bounded-rule IDs**.
+Across PG22/25, all fifteen class-3 roots admitted in PG8/10/11 now
+have I/O/B constructions: **21 profiles /567 positions**, a subtotal,
+not an additional count or closure of every Dhātupāṭha class-3 entry.
+[Source decisions](research/panini_grammar/abhyasta_modals/SOURCE_REVIEW.md),
+[literal records](research/panini_grammar/abhyasta_modals/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/abhyasta_modals/SOURCE_PINS.json)
+preserve lexical qualifications and contradictory source tokens.
+[T143 integration](research/panini_grammar/abhyasta_modals/COMPANION_UPDATE.md)
+credits the repaired guards and attributes its 5,373/5,373 comparison;
+complete optional sets and native adapters remain open.
+[Work/frontier](research/panini_grammar/abhyasta_modals/WORK_RECORD.md)
+records the next family block and deferred grammar/navigation/operator
+verification. No whole-grammar completion percentage is claimed.
 
 ## PG24: consonant modals, ending descent and minimal observer repair
 
