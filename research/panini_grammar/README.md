@@ -348,6 +348,33 @@ count discrepancy. [Work/frontier](vowel_modals/WORK_RECORD.md) keeps
 grammar tests, certificate replay and formal verification deferred.
 These bounded constructions do not claim whole-grammar completion.
 
+**Consonant inventory modals and coupled auxiliary ownership:**
+[PG27](consonant_inventory_modals/README.md) disposes of I/O/B for
+**32 exact roots /37 profiles**, adding **997 admitted positions /1,145
+readings and two source exclusions**. [Stem construction](consonant_inventory_modals/STEMS_AND_NASALS.md)
+preserves num/śnam and root-n ownership; [readout](consonant_inventory_modals/OWNED_CONSONANT_READOUT.md)
+retains the source-time niṃssva obstruction through late collapse.
+[Admission and auxiliary construction](consonant_inventory_modals/AUXILIARY_AND_ADMISSION.md)
+selects vac's usage policy and assembles vidām with matching kṛ,
+external nasal alternatives and blessing-tāt.
+The [native theorem](consonant_inventory_modals/NATIVE_COUPLED_EXPANSION.md)
+proves the controller cut, query transport and typed zero-recovery.
+
+[Coverage](consonant_inventory_modals/COVERAGE.json) reaches **10,456
+admitted written verbal positions /639 bounded-rule IDs**, explicitly
+reconciling **9,460−1+997** after the vac-present scope correction.
+All **68 exact adādi roots /75 profiles** admitted by PG8/10/11 now
+have a written modal disposition: **2,023 admitted plus two exclusions**.
+All **23 regular PG7 rudhādi roots /32 profiles** have **864 modal
+positions** across PG22/27. These are overlapping subtotals already
+included, not new counts. Bhuj/tṛh remains the next exception block.
+[Sources](consonant_inventory_modals/SOURCE_REVIEW.md) preserve conflicting
+views and frozen historical evidence. [Claude through T147](consonant_inventory_modals/COMPANION_UPDATE.md)
+credits luṅ and passive development, attributes the results and records the lane-label
+and liṭ-count discrepancies. [Work/frontier](consonant_inventory_modals/WORK_RECORD.md)
+keeps verification deferred. The approximately **16.04%** rule ratio
+does not measure whole-grammar completion.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

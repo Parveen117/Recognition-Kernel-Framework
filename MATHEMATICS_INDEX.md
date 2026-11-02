@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG26 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 3 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG27 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG26 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG27 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,49 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG27: consonant inventory modals and coupled auxiliary ownership
+
+[PG27](research/panini_grammar/consonant_inventory_modals/README.md)
+constructs I/O/B dispositions for **32 exact roots /37 qualified profiles**:
+**997 admitted positions /1,145 readings and two source exclusions**.
+The [domain](research/panini_grammar/consonant_inventory_modals/DOMAIN_AND_OWNERS.md)
+closes the remaining admitted adādi and regular PG7 rudhādi inventories.
+[Stem ownership](research/panini_grammar/consonant_inventory_modals/STEMS_AND_NASALS.md)
+distinguishes num, śnam, root-n deletion and ending strength;
+[readout](research/panini_grammar/consonant_inventory_modals/OWNED_CONSONANT_READOUT.md)
+retains cakṣva's changed owners and niṃssva/niṃsva's source-time query.
+[Admission and auxiliary construction](research/panini_grammar/consonant_inventory_modals/AUXILIARY_AND_ADMISSION.md)
+selects vac's anti-family usage policy and the whole vidām + matching
+kṛ package, with its external nasal options and blessing-tāt fibres.
+The [complete register](research/panini_grammar/consonant_inventory_modals/PARADIGMS.md)
+exhausts the finite admitted domain.
+
+The [native construction](research/panini_grammar/consonant_inventory_modals/NATIVE_COUPLED_EXPANSION.md)
+starts on the full history carrier and pairing. It proves the
+matching-controller cut, retained-query transport and precise failures
+of coarse observation, then derives typed zero-specialization.
+
+[Coverage](research/panini_grammar/consonant_inventory_modals/COVERAGE.json)
+reaches **10,456 admitted written verbal positions /639 bounded-rule IDs**.
+It explicitly reconciles PG26's historical total as **9,460−1+997**:
+the current vac-present usage correction preserves the frozen PG11 row.
+All **68 exact adādi roots /75 profiles** admitted in PG8/10/11 now
+have **2,023 admitted modal positions plus two exclusions**; all **23
+regular PG7 rudhādi roots /32 profiles** have **864 modal positions**.
+These overlapping milestones are already-counted subtotals. Bhuj/tṛh
+and whole-grammar closure remain open.
+[Source decisions](research/panini_grammar/consonant_inventory_modals/SOURCE_REVIEW.md),
+[literal records](research/panini_grammar/consonant_inventory_modals/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/consonant_inventory_modals/SOURCE_PINS.json)
+retain usage alternatives and damaged tokens.
+[Claude through T147](research/panini_grammar/consonant_inventory_modals/COMPANION_UPDATE.md)
+credits the luṅ and passive extensions, attributes reported results and identifies
+the nine-versus-ten lane label and unresolved liṭ residue discrepancy.
+[Work/frontier](research/panini_grammar/consonant_inventory_modals/WORK_RECORD.md)
+keeps grammar/navigation/operator tests and certificate replay deferred.
+The approximately 16.04% ratio is bounded-rule reach, not whole-grammar
+completion or independent verification.
 
 ## PG26: adādi vowel modals and augment-dependent source queries
 
