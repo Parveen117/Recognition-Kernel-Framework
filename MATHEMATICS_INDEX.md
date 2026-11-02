@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–121 (quoted Śaiva sources nativized; the sūtra as an instruction; the saṁjñā sound layer with the Aṣṭādhyāyī ledger; the it-saṁjñā layer compiled; the Śikṣā Vedāṅga; the Vedāṅga packets 71–73 bound to their quoted sources; the Nirukta Vedāṅga, also on the PG5 / PG6 pinned Dhātupāṭha entries; the Tripādī niṣṭhā rules compiled in asiddha order; the āp-stem, nadī-stem, ṛ-stem, ghi-stem and consonant-stem sup paradigms), and added the PG1–PG16 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
+Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–121 (quoted Śaiva sources nativized; the sūtra as an instruction; the saṁjñā sound layer with the Aṣṭādhyāyī ledger; the it-saṁjñā layer compiled; the Śikṣā Vedāṅga; the Vedāṅga packets 71–73 bound to their quoted sources; the Nirukta Vedāṅga, also on the PG5 / PG6 pinned Dhātupāṭha entries; the Tripādī niṣṭhā rules compiled in asiddha order; the āp-stem, nadī-stem, ṛ-stem, ghi-stem and consonant-stem sup paradigms), and added the PG1–PG17 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG16 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG17 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -443,6 +443,46 @@ runtime integration and main merge remain open or deferred. [the theorem branch'
 handoff](research/panini_grammar/future_construction/THEOREM_BRANCH_HANDOFF.md) assigns
 independent samāsa/nominal work. The shared operator engine and frozen
 predecessor evidence remain unchanged.
+
+## PG17: dependent future branches and retained causative ṇic
+
+[PG17](research/panini_grammar/future_extension/README.md) adds nine exact
+basic-root entries and continues twelve inherited causative frames into
+lṛṭ/luṭ. The [joint branch relation](research/panini_grammar/future_extension/DOMAIN_AND_BRANCHES.md)
+derives affix- and pada-dependent iṭ options from 7.2.44/48/57/59/60/70.
+It distinguishes svṛ's sya override, iṣ versus nṛt's opposite affix
+conditions, and the vṛt-group P prohibition. Kṛp has three joint
+pada/iṭ branches, not the four elements of an independent product.
+
+[Root derivations](research/panini_grammar/future_extension/ROOT_DERIVATIONS.md)
+retain lexical identities through guṇa, char and r→l and state the
+selected single-t syand luṭ reading without backward Tripādī feedback.
+[Causative continuation](research/panini_grammar/future_extension/CAUSATIVE_FUTURES.md)
+preserves PG14's role/pada evidence across 21 causal pada profiles.
+Outer iṭ blocks 6.4.51's ṇic-lopa; guṇa and ayādi change ṇic-i
+while protecting the distinct augment i. The [paradigm register](research/panini_grammar/future_extension/PARADIGMS.md)
+specifies all 79 branch rows with four proved nine-slot constructors:
+612 morphological positions and 711 factorized branch readings. These
+are written constructions, not executed cells or distinct-word counts.
+
+The [native construction](research/panini_grammar/future_extension/NATIVE_BRANCH_CONSTRUCTION.md)
+preserves the old corner, pairing, guard/complement cuts and exact typed
+zero-recovery. Its dependent branch operator has exactly the three
+licensed kṛp alternatives. A separate observation theorem proves that
+the entire P future paradigm cannot distinguish vṛt from vṛdh, while
+a forward A query separates this pair. Zero-specialization itself
+retains both lexical histories.
+
+[Source review](research/panini_grammar/future_extension/SOURCE_REVIEW.md)
+and [pins](research/panini_grammar/future_extension/SOURCE_PINS.json)
+retain the exact edition, commentary contexts and inherited qualifications.
+[Work and frontier](research/panini_grammar/future_extension/WORK_RECORD.md)
+record no new grammar tests or certificate replay under the owner's
+mathematics-first instruction. Bhāva/karma futures, wider root inventories,
+other verbal formations and runtime integration remain open. The
+[companion review](research/panini_grammar/future_extension/COMPANION_REVIEW.md)
+records the newly arrived T119/T120, accepts specific T118 repairs and
+identifies source/guard corrections for the theorem branch's samāsa/kṛt/nominal lane.
 
 ## Śaiva sources, the sūtra as an instruction, and the Vedāṅgas: Theorems 78–121
 
