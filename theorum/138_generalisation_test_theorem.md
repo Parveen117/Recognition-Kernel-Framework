@@ -14,7 +14,7 @@ Until this packet the engines' PROVED line was "the rows reproduce the suite". I
 
 ## 3. Certificate
 
-`proof_lab/ting_rule_table_engine.py` re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `a6b031c881c80be70ef250b02469733b75f3beb9c4ad972001de2cf137ad6e53` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`; 147 rows, 908 suite cells, every row load-bearing but the two declared); the previous pin `c71269f5…` (theorum/137, commit 816acc0) stays in the history. The suite cross-check of theorum/137 re-run on this pin is byte-identical (`CROSSCHECK.json` sha256 `81dc3f08…`).
+`proof_lab/ting_rule_table_engine.py` re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `a6b031c881c80be70ef250b02469733b75f3beb9c4ad972001de2cf137ad6e53` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`; 147 rows, 908 suite cells, every row load-bearing but the two declared); the previous pin `c71269f5…` (theorum/137, commit 816acc0) stays in the history; re-pinned again by theorum/139 (the open lane), commit 5b30c93 holds this pin. The suite cross-check of theorum/137 re-run on this pin is byte-identical (`CROSSCHECK.json` sha256 `81dc3f08…`).
 
 ## 4. Claim boundary
 

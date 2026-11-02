@@ -185,6 +185,7 @@ Use the audited [publication copy](theorum/morphic_algebra/main.tex) for mathema
 | Tiṅ rule-table engine VIII | [T136](theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md) | the adādi consonant roots: 32 entries, nineteen rows; 144 rows, 908 cells |
 | Independent-oracle audit | [T137](theorum/137_independent_oracle_audit_theorem.md) | every engine cell against an independent Pāṇinian generator; forms and attributions |
 | Generalisation test | [T138](theorum/138_generalisation_test_theorem.md) | the rows on cells they were never fitted to; laṭ generalises completely, the open lane measured |
+| Tiṅ rule-table engine IX | [T139](theorum/139_ting_rule_table_engine_open_lane_theorem.md) | the open lane: laṅ / loṭ / liṅ of classes 2–10 from the strong-ending predicate and nine rows |
 | Pāṇinian cut-module algebra | [T56](theorum/56_canvas_operators_nativized_theorem.md), [T58](theorum/58_paninian_seam_calculus_theorem.md), [T60](theorum/60_seam_compensated_confluence_verdict_theorem.md), [T61](theorum/61_rewrite_rules_as_cut_module_operators_theorem.md) | finite declared carriers and rule sets |
 | Grammar carriers | [T63–68](#theorems-58-77-paninian-domain-yang-mills-tool-and-semantic-chain) | exact finite nominal, verbal, sandhi, and kāraka/vibhakti carriers |
 | Obligation and evidence ladders | [T69](theorum/69_mimamsa_obligation_closure_theorem.md), [T70](theorum/70_angatva_pramana_ladder_theorem.md) | declared Mīmāṃsā/pramāṇa finite models |
@@ -463,6 +464,7 @@ The register below distinguishes theorem capsules from plans, source maps, certi
 | 136 | [Tiṅ Rule-Table Engine VIII](theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md) | 32 adādi consonant-root entries on 176 quoted cells from nineteen new rows; 144 rows on 908 cells |
 | 137 | [Independent-Oracle Audit](theorum/137_independent_oracle_audit_theorem.md) | both engines against vidyut-prakriya: 1,728 / 1,744 comparable cells agree, no engine form wrong, three attributions corrected (7.2.76, 8.4.40, 3.4.107) |
 | 138 | [Generalisation Test](theorum/138_generalisation_test_theorem.md) | 7,052 unseen cells against vidyut: laṭ of classes 1–10 and lṛṭ / āśīrliṅ of the bhvādi 1,373 / 1,373 after five row corrections; laṅ / loṭ / liṅ of classes 2–10 measured as the open lane |
+| 139 | [Tiṅ Rule-Table Engine IX](theorum/139_ting_rule_table_engine_open_lane_theorem.md) | laṅ / loṭ / vidhiliṅ of classes 2–10 from the strong-ending predicate and nine rows: 5,064 / 5,373 generator cells, 6,706 / 7,052 unseen cells overall; 154 rows |
 
 ## 7. Parallel theorem registers
 

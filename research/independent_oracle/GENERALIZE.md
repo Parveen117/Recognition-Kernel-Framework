@@ -31,6 +31,16 @@ Five rows were right on the suite and wrong one cell away:
 
 After these, every laṭ cell the engine produces for its 150-odd declared (root, pada) pairs agrees with the independent generator, in and out of the suite.
 
-## The open lane
+## After theorum/139 (the open lane built from this map)
+
+| lakāra | classes 2–10 | agree | differ |
+|---|---|---|---|
+| laṅ | 1,852 | 1,793 | 59 |
+| loṭ | 1,854 | 1,768 | 86 |
+| liṅ | 1,853 | 1,692 | 161 |
+
+Overall 6,706 / 7,052 unseen cells (GENERALIZE.json re-pinned: sha256 `2313421a…`). The residue is named in theorum/139.
+
+## The open lane (as measured by theorum/138)
 
 laṅ, loṭ and vidhiliṅ of the non-śap classes: the rows for those lakāras were fitted on a-final stems (7.2.80 *ato yeyaḥ*, 6.4.105 *ato heḥ*, 3.4.92's āṭ against an a) and the consonant- and vowel-final stems of classes 2–9 need their own — the yā of liṅ kept with 6.4.?? before us (adyuḥ), 6.4.101 *hujhalbhyo her dhiḥ* (juhudhi, addhi), the 7.3.99 / 7.3.100 īṭ / aṭ of the apṛkta in laṅ (āsīt, ādat), 7.4.21's śī in laṅ, the ḍh of 8.2.40 at the end of the pada (adhok), 6.4.111's a in laṅ 3p (āsan), ātmanepada loṭ of consonant stems … — each with vidyut's own citation list in GENERALIZE.json as the map of what is missing. This is the next packet; the numbers above are its baseline.

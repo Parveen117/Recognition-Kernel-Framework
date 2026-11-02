@@ -11,11 +11,11 @@
   "counts": {
     "compiled": 10,
     "meta": 157,
-    "hand_coded": 312,
-    "cited": 408,
+    "hand_coded": 319,
+    "cited": 407,
     "misnumbered": 2,
-    "entries": 889,
-    "text_missing": 85,
+    "entries": 895,
+    "text_missing": 84,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
     "iast_mismatch_with_pinned_edition": 0
@@ -969,6 +969,7 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md"
       ]
     },
@@ -3594,6 +3595,20 @@
         "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md"
       ]
     },
+    "3.1.83": {
+      "text": "halaḥ śnaḥ śānaj jhau",
+      "text_devanagari": "हलः श्नः शानज्झौ",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T139"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
+      ]
+    },
     "3.1.85": {
       "text": "",
       "text_devanagari": "व्यत्ययो बहुलम्",
@@ -4785,6 +4800,7 @@
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
         "theorum/138_generalisation_test_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
@@ -4955,6 +4971,7 @@
         "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -5075,7 +5092,8 @@
         "proof_lab/lun_parasmaipada_compiled.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
-        "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md"
+        "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
       ]
     },
     "3.4.113": {
@@ -7245,6 +7263,7 @@
         "theorum/131_ting_rule_table_engine_lit_theorem.md",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
@@ -7319,6 +7338,7 @@
         "theorum/131_ting_rule_table_engine_lit_theorem.md",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
@@ -7499,6 +7519,20 @@
         "proof_lab/shaiva_sources_nativized.py"
       ]
     },
+    "6.1.96": {
+      "text": "usy apadāntāt",
+      "text_devanagari": "उस्यपदान्तात्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T139"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
+      ]
+    },
     "6.1.97": {
       "text": "ato guṇe",
       "text_devanagari": "अतो गुणे",
@@ -7617,6 +7651,7 @@
         "theorum/125_sup_rule_table_engine_theorem.md",
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
@@ -8835,6 +8870,17 @@
         "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
       ]
     },
+    "6.4.36": {
+      "text": "",
+      "text_devanagari": "हन्तेर्जः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
+      ]
+    },
     "6.4.37": {
       "text": "anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti",
       "text_devanagari": "अनुदात्तोपदेशवनतितनोत्यादीनामनुनासिक लोपो झलि क्ङिति",
@@ -9014,6 +9060,7 @@
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
         "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md",
         "theorum/67_pada_to_line_external_sandhi_theorem.md"
       ]
     },
@@ -9058,7 +9105,8 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
-        "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md"
+        "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
       ]
     },
     "6.4.88": {
@@ -9115,14 +9163,18 @@
       ]
     },
     "6.4.101": {
-      "text": "",
+      "text": "hujhalbhyo her dhiḥ",
       "text_devanagari": "हुझल्भ्यो हेर्धिः",
       "in_pinned_edition": true,
-      "iast_matches_pinned_edition": null,
-      "level": "cited",
-      "theorems": [],
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T139"
+      ],
       "cited_in": [
-        "theorum/138_generalisation_test_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/138_generalisation_test_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
       ]
     },
     "6.4.105": {
@@ -9141,6 +9193,20 @@
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/138_generalisation_test_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md"
+      ]
+    },
+    "6.4.106": {
+      "text": "utaś ca pratyayād asaṁyogapūrvāt",
+      "text_devanagari": "उतश्च प्रत्ययादसंयोगपूर्वात्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T139"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
       ]
     },
     "6.4.107": {
@@ -9182,7 +9248,8 @@
       ],
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
-        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
       ]
     },
     "6.4.111": {
@@ -9196,7 +9263,8 @@
       ],
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
-        "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md"
+        "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
       ]
     },
     "6.4.112": {
@@ -9212,7 +9280,8 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
-        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
       ]
     },
     "6.4.113": {
@@ -9228,7 +9297,8 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
-        "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md"
+        "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
       ]
     },
     "6.4.114": {
@@ -9242,7 +9312,8 @@
       ],
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
-        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
       ]
     },
     "6.4.115": {
@@ -9266,7 +9337,22 @@
       "theorems": [],
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
-        "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md"
+        "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
+      ]
+    },
+    "6.4.119": {
+      "text": "ghvasor ed dhāv abhyāsalopaś ca",
+      "text_devanagari": "घ्वसोरेद्धावभ्यासलोपश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T139"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
       ]
     },
     "6.4.129": {
@@ -11623,6 +11709,20 @@
         "theorum/138_generalisation_test_theorem.md"
       ]
     },
+    "7.3.83": {
+      "text": "jusi ca",
+      "text_devanagari": "जुसि च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T139"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
+      ]
+    },
     "7.3.84": {
       "text": "sārvadhātukārdhadhātukayoḥ",
       "text_devanagari": "सार्वधातुकार्धधातुकयोः",
@@ -11670,6 +11770,7 @@
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
         "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
         "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
@@ -11700,7 +11801,8 @@
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md",
         "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
-        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
       ]
     },
     "7.3.89": {
@@ -11728,7 +11830,8 @@
       ],
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
-        "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md"
+        "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
       ]
     },
     "7.3.93": {
@@ -11782,7 +11885,8 @@
         "proof_lab/lun_parasmaipada_compiled.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
-        "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md"
+        "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
       ]
     },
     "7.3.98": {
@@ -11811,14 +11915,18 @@
       ]
     },
     "7.3.100": {
-      "text": "",
+      "text": "adaḥ sarveṣām",
       "text_devanagari": "अदः सर्वेषाम्",
       "in_pinned_edition": true,
-      "iast_matches_pinned_edition": null,
-      "level": "cited",
-      "theorems": [],
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T139"
+      ],
       "cited_in": [
-        "theorum/138_generalisation_test_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/138_generalisation_test_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
       ]
     },
     "7.3.101": {
@@ -12793,6 +12901,7 @@
         "theorum/125_sup_rule_table_engine_theorem.md",
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md"
       ]
@@ -12806,13 +12915,16 @@
       "theorems": [
         "T65",
         "T90",
-        "T125"
+        "T125",
+        "T139"
       ],
       "cited_in": [
         "proof_lab/r_stem_sup_compiled.py",
         "proof_lab/stem_classes_gayatri_coverage.py",
         "proof_lab/sup_rule_table_engine.py",
+        "proof_lab/ting_rule_table_engine.py",
         "theorum/125_sup_rule_table_engine_theorem.md",
+        "theorum/139_ting_rule_table_engine_open_lane_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md"
       ]
