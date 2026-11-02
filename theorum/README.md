@@ -103,6 +103,7 @@ The advanced numbered surface now runs through Theorem 80:
 53. **125 — the sup rule-table engine.** One table of 64 quoted sūtra rows and one phase-ordered driver reproduce 330 cells of fifteen certified paradigms exactly; every row load-bearing; a new stem class costs rows (sarvā, ātman: two), not a new engine.
 54. **126 — rule-table engine II.** Six classes (manas, mati, dhenu, madhu, pitṛ, mātṛ; 132 cells) from five new rows (6.4.10, pada-internal 8.2.66 + 6.1.114, 8.3.24, 8.3.15 before khar) and one guard; for the neuter only śi is sarvanāmasthāna (1.1.43); 69 rows, 462 cells, every row load-bearing. Engine re-pinned (old pin in history).
 55. **127 — rule-table engine III.** The numerals dvi, tri, catur, pañcan, ṣaṣ, aṣṭan in three genders (84 cells) from thirteen new rows and three guard clauses: 1.1.24's ṣaṭ class with 7.1.22 luk and 1.1.63, 7.1.55 nuṭ, 7.1.98's mid-stem ām with 1.1.47 (catvāri without nuṁ: r is not jhal), 7.2.99 / 7.2.100 / 6.4.4 for tisṛ / catasṛ (7.2.100 the apavāda of 6.1.77), 7.2.84's ā-branch with 7.1.21 auś, the ṣaṇṇām chain 8.2.39 / 8.4.41 / 8.4.45 and 8.4.56 at pause; 82 rows, 546 cells, every row load-bearing; engine re-pinned (old pins in history).
+56. **128 — rule-table engine IV.** The tyadādi pronouns tad, etad, yad, tyad, kim, idam in three genders (315 cells) from fourteen new rows and three guard clauses: 7.2.102 atva with 6.1.97 pararūpa and 1.1.52, 7.2.103 sarvādeśa (1.1.55), the feminine ṭāp derived by 4.1.4 on the atva-stem, 7.2.106 with stem-internal 8.3.59 (eṣaḥ), the idam chain 7.2.108–7.2.113 (idamo maḥ as m-for-m blocking the atva; 7.1.11 as a clause of 7.1.9), 7.1.23 luk with 1.1.63 for tat / kim / idam; 93 rows, 861 cells, every row load-bearing; engine re-pinned (old pins in history).
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -150,7 +151,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-127                           PRESENT
+NUMBERED THEOREM FILES 01-128                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT

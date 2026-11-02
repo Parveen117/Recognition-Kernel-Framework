@@ -174,6 +174,7 @@ Use the audited [publication copy](theorum/morphic_algebra/main.tex) for mathema
 | Sup rule-table engine | [T125](theorum/125_sup_rule_table_engine_theorem.md) | 64 rows, 15 paradigms, 330 cells reproduced; every row load-bearing |
 | Rule-table engine II | [T126](theorum/126_sup_rule_table_engine_s_i_u_r_classes_theorem.md) | manas, mati, dhenu, madhu, pitṛ, mātṛ from five rows; 69 rows, 462 cells |
 | Rule-table engine III | [T127](theorum/127_sup_rule_table_engine_numerals_theorem.md) | numerals in three genders from thirteen rows; 82 rows, 546 cells |
+| Rule-table engine IV | [T128](theorum/128_sup_rule_table_engine_pronouns_theorem.md) | pronouns tad, etad, yad, tyad, kim, idam from fourteen rows; 93 rows, 861 cells |
 | Pāṇinian cut-module algebra | [T56](theorum/56_canvas_operators_nativized_theorem.md), [T58](theorum/58_paninian_seam_calculus_theorem.md), [T60](theorum/60_seam_compensated_confluence_verdict_theorem.md), [T61](theorum/61_rewrite_rules_as_cut_module_operators_theorem.md) | finite declared carriers and rule sets |
 | Grammar carriers | [T63–68](#theorems-58-77-paninian-domain-yang-mills-tool-and-semantic-chain) | exact finite nominal, verbal, sandhi, and kāraka/vibhakti carriers |
 | Obligation and evidence ladders | [T69](theorum/69_mimamsa_obligation_closure_theorem.md), [T70](theorum/70_angatva_pramana_ladder_theorem.md) | declared Mīmāṃsā/pramāṇa finite models |
@@ -441,6 +442,7 @@ The register below distinguishes theorem capsules from plans, source maps, certi
 | 125 | [The Sup Rule-Table Engine](theorum/125_sup_rule_table_engine_theorem.md) | shared engine; 64 rows; 330 cells |
 | 126 | [Rule-Table Engine II](theorum/126_sup_rule_table_engine_s_i_u_r_classes_theorem.md) | s / fem i-u / neuter u / kinship ṛ classes; 132 cells from 5 rows |
 | 127 | [Rule-Table Engine III](theorum/127_sup_rule_table_engine_numerals_theorem.md) | numerals dvi, tri, catur, pañcan, ṣaṣ, aṣṭan in three genders; 84 cells from 13 rows |
+| 128 | [Rule-Table Engine IV](theorum/128_sup_rule_table_engine_pronouns_theorem.md) | pronouns tad, etad, yad, tyad, kim, idam in three genders; 315 cells from 14 rows |
 
 ## 7. Parallel theorem registers
 

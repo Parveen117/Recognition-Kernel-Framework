@@ -9,7 +9,8 @@ fifteen certified paradigms as its ORACLES: rāma (theorum/63), bālā (88), nad
 sarva (94), sarvā (98), bhavat (109), daṇḍin (123) — 330 cells — plus six
 declared classes (manas, mati, dhenu, madhu, pitṛ, mātṛ: 132 cells; theorum/126)
 and the numerals dvi, tri, catur, pañcan, ṣaṣ, aṣṭan in their three genders
-(84 cells; theorum/127) reproduced exactly, and each table row shown
+(84 cells; theorum/127) and the pronouns tad, etad, yad, tyad, kim, idam in
+three genders (315 cells; theorum/128) reproduced exactly, and each table row shown
 load-bearing on at least one cell of the suite (the per-row broken sets are recorded).
 
 This is the "shared engine" that replaces per-theorem engines for every later
@@ -29,6 +30,8 @@ from proof_lab.paninian_it_samjna_compiled import its
 
 SOURCES = {
     "4.1.2": "svaujasamauṭchaṣṭābhyāmbhisṅebhyāmbhyasṅasibhyāmbhyasṅasosāṅṅyossup", "1.1.42": "śi sarvanāmasthānam", "1.1.43": "suḍ anapuṁsakasya", "6.4.10": "sāntamahataḥ saṁyogasya", "6.1.113": "ato ror aplutād aplute", "6.1.114": "haśi ca", "8.3.24": "naś cāpadāntasya jhali", "8.3.36": "vā śari", "1.4.6": "ṅiti hrasvaś ca", "1.4.17": "svādiṣv asarvanāmasthāne", "1.4.18": "yaci bham", "1.4.7": "śeṣo ghy asakhi", "1.4.3": "yū stryākhyau nadī", "1.1.27": "sarvādīni sarvanāmāni",
+    "1.1.52": "alo'ntyasya", "1.1.55": "anekālśitsarvasya", "4.1.4": "ajādyataṣṭāp", "6.1.97": "ato guṇe", "7.1.11": "nedamadasorakoḥ", "7.2.103": "kimaḥ kaḥ", "7.2.106": "tadoḥ saḥ sāvanantyayoḥ", "7.2.108": "idamo maḥ",
+    "7.2.109": "daśca", "7.2.110": "yaḥ sau", "7.2.111": "ido'y puṁsi", "7.2.112": "anāpyakaḥ", "7.2.113": "hali lopaḥ",
     "1.1.24": "ṣṇāntā ṣaṭ", "1.1.47": "midaco'ntyātparaḥ", "1.1.63": "na lumatāṅgasya", "6.4.4": "na tisṛcatasṛ", "6.4.7": "nopadhāyāḥ", "7.1.21": "aṣṭābhya auś", "7.1.22": "ṣaḍbhyo luk", "7.1.53": "trestrayaḥ", "7.1.55": "ṣaṭcaturbhyaśca",
     "7.1.98": "caturanaḍuhorāmudāttaḥ", "7.2.84": "aṣṭana ā vibhaktau", "7.2.99": "tricaturoḥ striyāṁ tisṛcatasṛ", "7.2.100": "aci ra ṛtaḥ", "7.2.102": "tyadādīnāmaḥ", "8.4.41": "ṣṭunā ṣṭuḥ", "8.4.45": "yaro'nunāsike'nunāsiko vā",
     "7.1.9": "ato bhisa ais", "7.1.12": "ṭāṅasiṅasām inātsyāḥ", "7.1.13": "ṅer yaḥ", "7.1.14": "sarvanāmnaḥ smai", "7.1.15": "ṅasiṅyoḥ smātsminau", "7.1.17": "jasaḥ śī", "7.1.19": "napuṁsakāc ca", "7.1.20": "jaśśasoḥ śiḥ", "7.1.23": "svamor napuṁsakāt", "7.1.24": "ato 'm",
@@ -112,7 +115,6 @@ def rules() -> list[Rule]:
     add("7.2.84", lambda s: "".join(s.st) == "aṣṭan" and "7.2.84" not in s.done, lambda s: setattr(s, "st", tok("aṣṭā")), "aṣṭan → aṣṭā before a vibhakti (the ā-branch of the option)")
     add("7.1.21", lambda s: "".join(s.st) == "aṣṭā" and s.up in ("jas", "śas"), lambda s: setattr(s, "aff", ["au"]), "jas / śas → auś after aṣṭā")
     add("7.1.22", lambda s: s.sat() and s.up in ("jas", "śas") and "7.1.21" not in s.done, lambda s: (setattr(s, "aff", []), setattr(s, "sns", False)), "jas / śas deleted (luk) after a ṣaṭ numeral; no sarvanāmasthāna operation on the aṅga (1.1.63 na lumatāṅgasya)")
-    add("7.2.102", lambda s: "tyadādi" in s.flags and s.final() == "i", lambda s: s.st.__setitem__(-1, "a"), "the final of a tyadādi → a (dvi → dva)")
     add("7.1.53", lambda s: "".join(s.st) == "tri" and s.up == "ām", lambda s: setattr(s, "st", tok("traya")), "tri → traya before ām")
     add("7.1.98", lambda s: "".join(s.st) == "catur" and (s.sns or (s.g == "n" and s.up in ("jas", "śas"))), lambda s: setattr(s, "st", tok("catvār")), "ām augment to catur before sarvanāmasthāna (after the last vowel, 1.1.47; u → v by 6.1.77)")
     add("7.1.55", lambda s: (s.sat() or "".join(s.st) in ("catur", "catasṛ")) and s.up == "ām", lambda s: setattr(s, "aff", ["n", "ā", "m"]), "nuṭ to ām after ṣaṭ and catur")
@@ -120,6 +122,14 @@ def rules() -> list[Rule]:
     add("7.1.24", lambda s: s.g == "n" and s.a_final() and s.code in ("1s", "2s"), lambda s: setattr(s, "aff", ["a", "m"]), "su / am → am after the neuter a-stem")
     add("7.1.23", lambda s: s.g == "n" and not s.a_final() and s.code in ("1s", "2s"), lambda s: setattr(s, "aff", []), "su / am deleted after the neuter (luk)")
     add("7.1.19", lambda s: s.g == "n" and s.code in ("1d", "2d"), lambda s: setattr(s, "aff", ["ī"]), "au → śī after the neuter")
+    add("7.2.103", lambda s: "".join(s.st) == "kim" and bool(s.aff), lambda s: setattr(s, "st", tok("ka")), "kim → ka before a vibhakti (sarvādeśa, 1.1.55; not after the neuter luk: 1.1.63)")
+    add("7.2.108", lambda s: "".join(s.st) == "idam" and s.up == "su~" and bool(s.aff) and not s.samb, lambda s: (s.st.__setitem__(-1, "m"), s.flags.add("7.2.108")), "m for the final of idam before su — m for m, stated to block 7.2.102's atva (so no ṭāp in the feminine: iyam)")
+    add("7.2.111", lambda s: "7.2.108" in s.done and s.g == "m", lambda s: setattr(s, "st", ["a", "y"] + s.st[2:]), "id → ay before su in the masculine (ayam)")
+    add("7.2.110", lambda s: "7.2.108" in s.done and s.g == "f", lambda s: setattr(s, "st", ["i", "y"] + s.st[2:]), "id → iy before su (the feminine: iyam)")
+    add("7.2.102", lambda s: "tyadādi" in s.flags and bool(s.aff) and s.final() not in ("a", "ā") and "7.2.108" not in s.done, lambda s: s.st.__setitem__(-1, "a"), "the final of a tyadādi → a before a vibhakti (1.1.52; dvi → dva, tad → ta-a, idam → ida-a; not after a luk: 1.1.63)")
+    add("6.1.97", lambda s: s.st[-2:] == ["a", "a"], lambda s: s.st.pop(), "a + a (the substitute a, a guṇa) → the single pararūpa in the aṅga (ta, ida)")
+    add("4.1.4", lambda s: s.g == "f" and "tyadādi" in s.flags and s.a_final() and not s.ap() and (s.done & {"7.2.102", "7.2.103"}), lambda s: (s.st.__setitem__(-1, "ā"), s.flags.add("āp")), "ṭāp after the a-final (the atva-stem of tad / etad / yad / kim / idam: tā, kā, idā; 6.1.101 savarṇadīrgha)")
+    add("7.2.106", lambda s: "tyadādi" in s.flags and s.up == "su~" and bool(s.aff) and not s.samb and "t" in s.st[:-1], lambda s: s.st.__setitem__(s.st.index("t"), "s"), "non-final t of tad / etad / tyad → s before su (saḥ, eṣaḥ, syaḥ; the d-case is adas, not claimed)")
     add("7.1.20", lambda s: s.g == "n" and s.code in ("1p", "2p"), lambda s: (setattr(s, "aff", ["i"]), s.flags.add("śi"), setattr(s, "sns", True)), "jas / śas → śi after the neuter (1.1.42: sarvanāmasthāna)")
     add("7.1.73", lambda s: s.g == "n" and s.final() in ("i", "u", "ṛ") and s.vinit() and "num" not in s.flags and s.up != "ām", lambda s: _num(s), "num to the ik-final neuter before a vowel-initial vibhakti")
     add("7.1.72", lambda s: s.g == "n" and "śi" in s.flags and (s.final() in V or s.final() in JHAL), lambda s: _num(s), "num to the neuter jhal / ac stem before śi")
@@ -127,7 +137,7 @@ def rules() -> list[Rule]:
     add("7.1.14", lambda s: s.sarva() and s.a_final() and s.up == "ṅe", lambda s: setattr(s, "aff", ["s", "m", "ai"]), "ṅe → smai after a sarvanāma")
     add("7.1.15", lambda s: s.sarva() and s.a_final() and s.up in ("ṅasi~", "ṅi"), lambda s: setattr(s, "aff", ["s", "m", "ā", "t"] if s.up == "ṅasi~" else ["s", "m", "i", "n"]), "ṅasi / ṅi → smāt / smin")
     add("7.1.52", lambda s: s.sarva() and s.final() in ("a", "ā") and s.up == "ām", lambda s: setattr(s, "aff", ["s", "ā", "m"]), "suṭ to ām after a sarvanāma")
-    add("7.1.9", lambda s: s.a_final() and s.up == "bhis" and "7.1.9" not in s.done, lambda s: setattr(s, "aff", ["ai", "s"]), "bhis → ais after a")
+    add("7.1.9", lambda s: s.a_final() and s.up == "bhis" and "7.1.9" not in s.done and s.st[:2] != ["i", "d"], lambda s: setattr(s, "aff", ["ai", "s"]), "bhis → ais after a (not after idam / adas without ka: 7.1.11 nedamadasor akoḥ)")
     add("7.1.12", lambda s: s.a_final() and s.up in ("ṭā", "ṅasi~", "ṅas") and "7.1.15" not in s.done, lambda s: setattr(s, "aff", {"ṭā": ["i", "n", "a"], "ṅasi~": ["ā", "t"], "ṅas": ["s", "y", "a"]}[s.up]), "ṭā / ṅasi / ṅas → ina / āt / sya after a")
     add("7.1.13", lambda s: s.a_final() and s.up == "ṅe" and s.aff == ["e"], lambda s: setattr(s, "aff", ["y", "a"]), "ṅe → ya after a")
     add("7.1.18", lambda s: s.ap() and s.up == "auṭ", lambda s: setattr(s, "aff", ["ī"]), "au → śī after an āp")
@@ -139,6 +149,9 @@ def rules() -> list[Rule]:
     add("7.3.111", lambda s: s.ghi() and s.ngit() and s.up != "ṅi", lambda s: s.st.__setitem__(-1, GUNA[s.final()]), "guṇa of the ghi before a ṅit")
     add("7.3.112", lambda s: s.nadi() and s.ngit(), lambda s: _set_final(s, [YAN[s.final()], "ā"]), "āṭ before the ṅit after a nadī (ṭit → initial, 1.1.46; ī → y before it, 6.1.77)")
     add("7.3.114", lambda s: s.sarva() and s.ap() and s.ngit(), lambda s: (s.st.__setitem__(-1, "a"), setattr(s, "st", s.st + ["s", "y", "ā"])), "syāṭ before the ṅit after a feminine sarvanāma, with hrasva of the ā")
+    add("7.2.112", lambda s: s.st[:2] == ["i", "d"] and s.up in ("ṭā", "os"), lambda s: setattr(s, "st", ["a", "n"] + s.st[2:]), "id → an before the vowel-initial āp ending without ka (anena, anayoḥ, anayā)")
+    add("7.2.113", lambda s: s.st[:2] == ["i", "d"] and bool(s.aff) and (s.aff[0] not in V or "7.3.114" in s.done), lambda s: setattr(s, "st", s.st[2:]), "id dropped before a hal-initial vibhakti (asmai, asya, ābhyām, ebhiḥ, eṣām; with syāṭ: asyai)")
+    add("7.2.109", lambda s: s.st[:2] == ["i", "d"] and bool(s.aff) and s.aff[0] in V, lambda s: s.st.__setitem__(1, "m"), "d of idam → m before the remaining vowel-initial vibhakti (imau, ime, imam, imān, imāni, imāḥ)")
     add("7.3.113", lambda s: s.ap() and s.ngit() and "7.3.114" not in s.done, lambda s: setattr(s, "st", s.st + ["y", "ā"]), "yāṭ before the ṅit after an āp")
     add("7.3.116", lambda s: (s.nadi() or s.ap()) and s.up == "ṅi", lambda s: setattr(s, "aff", s.aff[:-1] + ["ā", "m"]), "ṅi → ām after nadī / āp")
     add("7.3.105", lambda s: s.ap() and s.up in ("ṭā", "os"), lambda s: s.st.__setitem__(-1, "e"), "ā → e before ṭā / os")
@@ -151,7 +164,7 @@ def rules() -> list[Rule]:
     add("7.1.94", lambda s: s.r_() and s.final() == "ṛ" and s.code == "1s", lambda s: (_set_final(s, ["a", "n"]), s.flags.add("7.1.94")), "anaṅ to the tṛ-stem before su")
     add("6.4.11", lambda s: "tṛ" in s.flags and s.sns and not s.samb and s.st[-2:] == ["a", "r"], lambda s: s.st.__setitem__(-2, "ā"), "upadhā dīrgha of the tṛc-stem before sarvanāmasthāna")
     add("7.3.102", lambda s: s.a_final() and s.aff and s.aff[0] in ("bh", "y") and s.up in ("bhyām", "ṅe"), lambda s: s.st.__setitem__(-1, "ā"), "a → ā before the yañ-initial sup (bhyām)")
-    add("7.3.103", lambda s: s.a_final() and (s.up in ("bhyas", "sup") or (s.aff[:1] == ["s"] and s.num == "p")), lambda s: s.st.__setitem__(-1, "e"), "a → e before bhyas / su")
+    add("7.3.103", lambda s: s.a_final() and (s.up in ("bhyas", "sup") or (s.aff[:1] in (["s"], ["bh"]) and s.num == "p")), lambda s: s.st.__setitem__(-1, "e"), "a → e before bhyas / su")
     add("7.3.104", lambda s: s.a_final() and s.up == "os", lambda s: s.st.__setitem__(-1, "e"), "a → e before os")
     # ---- phase 2: augments and aṅga operations --------------------------------------------
     add("7.1.70", lambda s: s.ugit() and s.sns, lambda s: _num(s), "num to the ugit stem before sarvanāmasthāna")
@@ -188,8 +201,9 @@ def rules() -> list[Rule]:
     add("8.4.41", lambda s: s.final() == "ḍ" and s.aff[:1] == ["n"], lambda s: s.aff.__setitem__(0, "ṇ"), "n → ṇ after the ṭu-class ḍ (ṣṭunā ṣṭuḥ)")
     add("8.4.45", lambda s: s.final() == "ḍ" and s.aff[:1] == ["ṇ"], lambda s: s.st.__setitem__(-1, "ṇ"), "ḍ → the nasal before a nasal (yaro 'nunāsike 'nunāsiko vā: the nasal branch realised)")
     add("8.4.55", lambda s: s.pada() and s.final() in CAR and s.aff and s.aff[0] in ("s", "k", "t", "p", "c", "ṭ", "ś", "ṣ"), lambda s: s.st.__setitem__(-1, CAR[s.final()]), "jaś → car before khar")
-    add("8.4.56", lambda s: not s.aff and s.final() in CAR and "8.2.39" in s.done, lambda s: s.st.__setitem__(-1, CAR[s.final()]), "jaś → car at pause (vāvasāne: the car branch realised; ṣaṭ against ṣaḍ)")
+    add("8.4.56", lambda s: not s.aff and s.final() in CAR, lambda s: s.st.__setitem__(-1, CAR[s.final()]), "jaś → car at pause (vāvasāne: the car branch realised; ṣaṭ against ṣaḍ)")
     add("8.3.59", lambda s: s.aff[:1] == ["s"] and s.final() in ("i", "ī", "u", "ū", "ṛ", "ṝ", "e", "o", "ai", "au", "r") and (s.code == "7p" or s.aff[:3] == ["s", "ā", "m"]) and "8.2.66p" not in s.done, lambda s: s.aff.__setitem__(0, "ṣ"), "s of sup → ṣ after iṇ")
+    add("8.3.59s", lambda s: "7.2.106" in s.done and "s" in s.st[:-1] and s.st[s.st.index("s") - 1] in ("e", "i", "y"), lambda s: s.st.__setitem__(s.st.index("s"), "ṣ"), "the ādeśa s after iṇ → ṣ, stem-internal (8.3.59: eṣaḥ, eṣā)")
     add("8.4.2", lambda s: True, lambda s: _natva(s), "n → ṇ after r / ṣ / ṛ across aṭ / ku / pu (not pada-final: 8.4.37)")
     add("8.3.15p", lambda s: s.st[-1] == "r" and "8.2.66p" in s.done and s.aff[:1] == ["s"], lambda s: s.st.__setitem__(-1, "ḥ"), "r → ḥ before the khar s (8.3.15; 8.3.36 vā śari: manassu optional, not realised)")
     add("8.2.66", lambda s: (s.st + s.aff)[-1] == "s", lambda s: _set_last(s, "r"), "s → ru")
@@ -233,10 +247,10 @@ def decline(stem, code, up, gender="m", flags=(), off=()) -> tuple[str, list[str
     for n, guard, action, note in RULES:
         if n in off:
             continue
-        before = ("".join(s.st), "".join(s.aff))
+        before = ("".join(s.st), "".join(s.aff), frozenset(s.flags), s.sns)
         if guard(s):
             action(s)
-            after = ("".join(s.st), "".join(s.aff))
+            after = ("".join(s.st), "".join(s.aff), frozenset(s.flags), s.sns)
             if after != before:
                 s.done.add(n); s.path.append(f"{n} {note}: {after[0]}-{after[1]}")
     return "".join(s.st + s.aff), s.path
@@ -292,6 +306,33 @@ SUITE.update({"dvi": ("dvi", "m", ("sarvanāma", "tyadādi"), "declared", DUAL),
               "tri": ("tri", "m", (), "declared", PLUR), "tri_f": ("tri", "f", (), "declared", PLUR), "tri_n": ("tri", "n", (), "declared", PLUR),
               "catur": ("catur", "m", (), "declared", PLUR), "catur_f": ("catur", "f", (), "declared", PLUR), "catur_n": ("catur", "n", (), "declared", PLUR),
               "pañcan": ("pañcan", "m", ("ṣaṭ",), "declared", PLUR), "ṣaṣ": ("ṣaṣ", "m", ("ṣaṭ",), "declared", PLUR), "aṣṭan": ("aṣṭan", "m", ("ṣaṭ",), "declared", PLUR)})
+
+PRON = ["1s", "1d", "1p", "2s", "2d", "2p", "3s", "3d", "3p", "4s", "4d", "4p", "5s", "5d", "5p", "6s", "6d", "6p", "7s", "7d", "7p"]
+def _tab(words: str) -> dict[str, str]:
+    w = words.split(); assert len(w) == 21, len(w); return dict(zip(PRON, w))
+DECLARED.update({
+    "tad": _tab("saḥ tau te tam tau tān tena tābhyām taiḥ tasmai tābhyām tebhyaḥ tasmāt tābhyām tebhyaḥ tasya tayoḥ teṣām tasmin tayoḥ teṣu"),
+    "tā": _tab("sā te tāḥ tām te tāḥ tayā tābhyām tābhiḥ tasyai tābhyām tābhyaḥ tasyāḥ tābhyām tābhyaḥ tasyāḥ tayoḥ tāsām tasyām tayoḥ tāsu"),
+    "tad_n": _tab("tat te tāni tat te tāni tena tābhyām taiḥ tasmai tābhyām tebhyaḥ tasmāt tābhyām tebhyaḥ tasya tayoḥ teṣām tasmin tayoḥ teṣu"),
+    "etad": _tab("eṣaḥ etau ete etam etau etān etena etābhyām etaiḥ etasmai etābhyām etebhyaḥ etasmāt etābhyām etebhyaḥ etasya etayoḥ eteṣām etasmin etayoḥ eteṣu"),
+    "etā": _tab("eṣā ete etāḥ etām ete etāḥ etayā etābhyām etābhiḥ etasyai etābhyām etābhyaḥ etasyāḥ etābhyām etābhyaḥ etasyāḥ etayoḥ etāsām etasyām etayoḥ etāsu"),
+    "etad_n": _tab("etat ete etāni etat ete etāni etena etābhyām etaiḥ etasmai etābhyām etebhyaḥ etasmāt etābhyām etebhyaḥ etasya etayoḥ eteṣām etasmin etayoḥ eteṣu"),
+    "yad": _tab("yaḥ yau ye yam yau yān yena yābhyām yaiḥ yasmai yābhyām yebhyaḥ yasmāt yābhyām yebhyaḥ yasya yayoḥ yeṣām yasmin yayoḥ yeṣu"),
+    "yad_n": _tab("yat ye yāni yat ye yāni yena yābhyām yaiḥ yasmai yābhyām yebhyaḥ yasmāt yābhyām yebhyaḥ yasya yayoḥ yeṣām yasmin yayoḥ yeṣu"),
+    "tyad": _tab("syaḥ tyau tye tyam tyau tyān tyena tyābhyām tyaiḥ tyasmai tyābhyām tyebhyaḥ tyasmāt tyābhyām tyebhyaḥ tyasya tyayoḥ tyeṣām tyasmin tyayoḥ tyeṣu"),
+    "kim": _tab("kaḥ kau ke kam kau kān kena kābhyām kaiḥ kasmai kābhyām kebhyaḥ kasmāt kābhyām kebhyaḥ kasya kayoḥ keṣām kasmin kayoḥ keṣu"),
+    "kā": _tab("kā ke kāḥ kām ke kāḥ kayā kābhyām kābhiḥ kasyai kābhyām kābhyaḥ kasyāḥ kābhyām kābhyaḥ kasyāḥ kayoḥ kāsām kasyām kayoḥ kāsu"),
+    "kim_n": _tab("kim ke kāni kim ke kāni kena kābhyām kaiḥ kasmai kābhyām kebhyaḥ kasmāt kābhyām kebhyaḥ kasya kayoḥ keṣām kasmin kayoḥ keṣu"),
+    "idam": _tab("ayam imau ime imam imau imān anena ābhyām ebhiḥ asmai ābhyām ebhyaḥ asmāt ābhyām ebhyaḥ asya anayoḥ eṣām asmin anayoḥ eṣu"),
+    "idā": _tab("iyam ime imāḥ imām ime imāḥ anayā ābhyām ābhiḥ asyai ābhyām ābhyaḥ asyāḥ ābhyām ābhyaḥ asyāḥ anayoḥ āsām asyām anayoḥ āsu"),
+    "idam_n": _tab("idam ime imāni idam ime imāni anena ābhyām ebhiḥ asmai ābhyām ebhyaḥ asmāt ābhyām ebhyaḥ asya anayoḥ eṣām asmin anayoḥ eṣu"),
+})
+_T = ("sarvanāma", "tyadādi")
+SUITE.update({"tad": ("tad", "m", _T, "declared", PRON), "tā": ("tad", "f", _T, "declared", PRON), "tad_n": ("tad", "n", _T, "declared", PRON),
+              "etad": ("etad", "m", _T, "declared", PRON), "etā": ("etad", "f", _T, "declared", PRON), "etad_n": ("etad", "n", _T, "declared", PRON),
+              "yad": ("yad", "m", _T, "declared", PRON), "yad_n": ("yad", "n", _T, "declared", PRON), "tyad": ("tyad", "m", _T, "declared", PRON),
+              "kim": ("kim", "m", _T, "declared", PRON), "kā": ("kim", "f", _T, "declared", PRON), "kim_n": ("kim", "n", _T, "declared", PRON),
+              "idam": ("idam", "m", _T, "declared", PRON), "idā": ("idam", "f", _T, "declared", PRON), "idam_n": ("idam", "n", _T, "declared", PRON)})
 OPTIONAL_CELLS = {("rājan", "7s"), ("vāri", "8s")}   # the earlier packets print "a / b" there (6.4.136; 7.3.108's option): compared on the first alternative
 
 
@@ -331,7 +372,7 @@ def t1_suite() -> dict[str, Any]:
             b += [f"{n}.{c}" for c in p if p[c] != O[n][c]]
         broken[rid] = b
     vacuous = [r for r in IDS if not broken[r]]
-    checks = {"all_546_cells_equal_the_oracles": all(not mism[n] for n in SUITE),
+    checks = {"all_861_cells_equal_the_oracles": all(not mism[n] for n in SUITE),
               "every_rule_row_is_load_bearing_on_the_suite": not vacuous}
     return {"checks": checks, "cells": cells, "mismatches": {n: m for n, m in mism.items() if m}, "broken_counts": {r: len(b) for r, b in broken.items()}, "broken": broken, "vacuous_rows": vacuous,
             "paths": {"rāma.3s": decline("rāma", "3s", "ṭā")[1], "nadī.4s": decline("nadī", "4s", "ṅe", "f", ("nadī",))[1], "kartṛ.1s": decline("kartṛ", "1s", "su~", "m", ("tṛ",))[1], "vāri.1p": decline("vāri", "1p", "jas", "n")[1]}}
@@ -345,11 +386,11 @@ def build_certificate() -> dict[str, Any]:
         "schema": "rkf.sup_rule_table_engine_candidate.v1", "status": status, "sources": SOURCES, "rule_order": IDS,
         "claim_boundary": {
             "proved_by_exact_finite_certificate": [
-                f"one rule table of {len(IDS)} rows (each a quoted sūtra as guard + action) and one driver reproduce the 330 cells of fifteen certified paradigms exactly from the earlier pinned packets (theorum/63, 88, 89, 90, 91, 92, 93, 94, 98, 109, 123) and the 132 cells of six further classes declared as oracles (manas, mati, dhenu, madhu, pitṛ, mātṛ: s-stems with 6.4.10 / 8.3.24 / 6.1.114, feminine i / u in the non-nadī branch, neuter u, kinship ṛ-stems without 6.4.11) and the 84 cells of the numerals dvi (dual, three genders), tri, catur, pañcan, ṣaṣ, aṣṭan (plural, with the feminine tisṛ / catasṛ: 1.1.24 ṣaṭ saṁjñā, 7.1.22 luk with 1.1.63, 7.1.55 nuṭ, 7.1.53, 7.1.98 with 1.1.47, 7.2.84 ā-branch, 7.2.99 / 7.2.100 / 6.4.4, 7.2.102, 8.4.41 / 8.4.45 ṣaṇṇām, 8.4.56 ṣaṭ); every row is load-bearing on at least one cell of the suite (per-row broken sets recorded)",
+                f"one rule table of {len(IDS)} rows (each a quoted sūtra as guard + action) and one driver reproduce the 330 cells of fifteen certified paradigms exactly from the earlier pinned packets (theorum/63, 88, 89, 90, 91, 92, 93, 94, 98, 109, 123) and the 132 cells of six further classes declared as oracles (manas, mati, dhenu, madhu, pitṛ, mātṛ: s-stems with 6.4.10 / 8.3.24 / 6.1.114, feminine i / u in the non-nadī branch, neuter u, kinship ṛ-stems without 6.4.11) and the 84 cells of the numerals dvi (dual, three genders), tri, catur, pañcan, ṣaṣ, aṣṭan (plural, with the feminine tisṛ / catasṛ: 1.1.24 ṣaṭ saṁjñā, 7.1.22 luk with 1.1.63, 7.1.55 nuṭ, 7.1.53, 7.1.98 with 1.1.47, 7.2.84 ā-branch, 7.2.99 / 7.2.100 / 6.4.4, 7.2.102, 8.4.41 / 8.4.45 ṣaṇṇām, 8.4.56 ṣaṭ) and the 315 cells of the pronouns tad, etad, yad, tyad (masculine, feminine, neuter; tyad masculine), kim and idam in three genders (7.2.102 atva with 6.1.97 pararūpa and 1.1.52, 7.2.103 sarvādeśa with 1.1.55, 4.1.4 ṭāp on the atva-stem, 7.2.106 with 8.3.59 stem-internal, 7.2.108–7.2.113 for idam with 7.1.11 as a clause of 7.1.9, 7.1.23 luk with 1.1.63 for tat / kim / idam, 8.4.56 for tat); every row is load-bearing on at least one cell of the suite (per-row broken sets recorded)",
                 "6.1.105 dīrghāj jasi ca is a prohibition and is realised as a clause of 6.1.102's guard (no separate row): after a long vowel the jas takes 6.1.101 / 6.1.77 instead",
                 "the two option cells (rājan 7s by 6.4.136, vāri 8s) are compared on their first alternative; the engine realises one branch and records the option as the earlier packet's",
             ],
-            "NOT_claimed": ["the aṣṭan branch without 7.2.84 (aṣṭa, aṣṭabhiḥ, aṣṭānām by 6.4.7) and 8.4.45's non-nasal branch are not realised (first alternatives only); the 1.4.6 nadī option of mati / dhenu (matyai, matyāḥ, matyām) and 8.3.36's manassu are not realised (first alternatives only); the an-stem option 6.4.136 as a set-valued output, the 58-code carrier of theorum/63 (its ORACLE is transliterated to IAST for comparison), the resolver ladder of theorum/63 (this driver applies rows in a fixed phase order, not by the ladder's conflict resolution — the ladder remains the certified account of rule conflict on rāma)", "RH, YM untouched"],
+            "NOT_claimed": ["adas (7.2.107, 8.2.80), the d-case of 7.2.106, the ka-branch of 7.2.112 / 7.1.11 (akac), 6.1.132's sentence-level sulopa, and the vocative of the pronouns; the aṣṭan branch without 7.2.84 (aṣṭa, aṣṭabhiḥ, aṣṭānām by 6.4.7) and 8.4.45's non-nasal branch are not realised (first alternatives only); the 1.4.6 nadī option of mati / dhenu (matyai, matyāḥ, matyām) and 8.3.36's manassu are not realised (first alternatives only); the an-stem option 6.4.136 as a set-valued output, the 58-code carrier of theorum/63 (its ORACLE is transliterated to IAST for comparison), the resolver ladder of theorum/63 (this driver applies rows in a fixed phase order, not by the ladder's conflict resolution — the ladder remains the certified account of rule conflict on rāma)", "RH, YM untouched"],
         },
         "checks": checks, **packets,
     }

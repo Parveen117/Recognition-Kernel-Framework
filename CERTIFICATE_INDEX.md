@@ -1433,7 +1433,7 @@ proof_lab/YUSMAD_ASMAD_SUP_COMPILED_EXPECTED.sha256
 |---|---|
 | Certificate class | one rule table (64 quoted sūtra rows) and one phase-ordered driver reproduce the 330 cells of fifteen certified paradigms (theorum/63, 88, 89, 90, 91, 92, 93, 94, 98, 109, 123) exactly; every row load-bearing on the suite; new classes cost rows, not engines |
 | Status | `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `da49e277c7a0e449d558e757f36652768abdb6c90ecb5dff75a8d2f8545b3c7c` |
+| Canonical result SHA-256 | `d6d7c356661849c4c632954c650db70682e23d4e3fd9c713b134b5b004927d15` |
 | Boundary | declared class flags and gender are inputs; option cells compared on the first alternative; Theorem 63's ladder remains the account of conflict |
 
 ```text
@@ -1449,11 +1449,27 @@ proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Rule-Table Engine III |
 | Status | `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `da49e277c7a0e449d558e757f36652768abdb6c90ecb5dff75a8d2f8545b3c7c` |
+| Canonical result SHA-256 | `d6d7c356661849c4c632954c650db70682e23d4e3fd9c713b134b5b004927d15` |
 | Boundary | numerals dvi, tri, catur, pañcan, ṣaṣ, aṣṭan in three genders; 84 cells from 13 rows |
 
 ```text
 theorum/127_sup_rule_table_engine_numerals_theorem.md
+proof_lab/sup_rule_table_engine.py
+proof_lab/test_sup_rule_table_engine.py
+proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
+```
+
+## Theorem 128 Rule-Table Engine IV packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Rule-Table Engine IV |
+| Status | `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE` |
+| Canonical result SHA-256 | `d6d7c356661849c4c632954c650db70682e23d4e3fd9c713b134b5b004927d15` |
+| Boundary | pronouns tad, etad, yad, tyad, kim, idam in three genders; 315 cells from 14 rows |
+
+```text
+theorum/128_sup_rule_table_engine_pronouns_theorem.md
 proof_lab/sup_rule_table_engine.py
 proof_lab/test_sup_rule_table_engine.py
 proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
