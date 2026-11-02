@@ -224,6 +224,22 @@ and [work record](future_voice/WORK_RECORD.md) retain the declared limits;
 the accepted source repairs and remaining independent nominal work.
 Grammar tests remain deferred.
 
+**Loṭ and vidhiliṅ from intended meaning:**
+[PG19](imperative_optative/README.md) constructs their shared modal senses
+and bounded context restrictions, then derives ending ownership, loṭ's
+first-person pit āṭ, vidhiliṅ's explicit ṅit and the resulting stem choices.
+[Thematic](imperative_optative/THEMATIC_DERIVATIONS.md),
+[kṛ/krī](imperative_optative/ATHEMATIC_DERIVATIONS.md) and
+[causal/voice](imperative_optative/VOICE_AND_CAUSATIVES.md) derivations feed
+a [976-position written register](imperative_optative/PARADIGMS.md).
+The [native proof](imperative_optative/NATIVE_MODAL_CONSTRUCTION.md)
+preserves pairing/cuts and typed zero-recovery, and proves the displayed
+modal-information and boundary-query obstructions. [Source review](imperative_optative/SOURCE_REVIEW.md)
+and [work record](imperative_optative/WORK_RECORD.md) retain the claim limits
+and deferred tests. [Companion review](imperative_optative/COMPANION_UPDATE.md)
+reads Claude's T125–T130, records the 90-position T96/T99 modal overlap
+and a 3.4.92 pit-state integration gap, without replaying certificates.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG18 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG19 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG18 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG19 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -527,6 +527,45 @@ and identifies the remaining nominal work and aś marker correction.
 keep tests/certificate replay deferred under the owner's instruction;
 imperative/optative construction is next, with broader future domains
 and runtime integration still open.
+
+## PG19: loṭ/vidhiliṅ, addressed endings and modal information
+
+[PG19](research/panini_grammar/imperative_optative/README.md) constructs a
+finite classical imperative/optative domain. Its [meaning relation](research/panini_grammar/imperative_optative/DOMAIN_AND_MODALITY.md)
+keeps the six shared senses of 3.3.161–162 distinct and adds the bounded
+praiṣa/time/sma profiles of 3.3.163–166. It preserves the expressed
+controller and causal role/pada relation; the intended addressee does not
+automatically become second-person tiṅ.
+
+The [ending construction](research/panini_grammar/imperative_optative/ENDING_CONSTRUCTION.md)
+derives restricted laṅ transport, loṭ hi/ni/āṭ and pitness, and vidhiliṅ
+yāsuṭ/sīyuṭ/suṭ with the correct ending owner of ṅit. Its four thematic
+constructors feed [basic stems](research/panini_grammar/imperative_optative/THEMATIC_DERIVATIONS.md),
+[kṛ/krī's complete athematic paths](research/panini_grammar/imperative_optative/ATHEMATIC_DERIVATIONS.md)
+and [causal/voice continuations](research/panini_grammar/imperative_optative/VOICE_AND_CAUSATIVES.md).
+Śam's basic, causal active and causal passive optatives have distinct
+owned formations. The [register](research/panini_grammar/imperative_optative/PARADIGMS.md)
+specifies 108 nine-slot paradigms plus four Bhāva entries: **976 written
+morphological positions**, under the declared sound/domain policies.
+These are not executed cases, distinct strings or independent quotations.
+
+The [native construction](research/panini_grammar/imperative_optative/NATIVE_MODAL_CONSTRUCTION.md)
+retains the full carrier, old corner, pairing and complementary cuts with
+exact typed zero-recovery. One two-frame obstruction shows that even both
+complete mood paradigms cannot recover obligation versus discretionary
+permission after their intended-sense record is forgotten. A second
+obstruction shows why marker queries require their addressed affix boundary.
+Neither obstruction is caused by zero-specialization, which retains both.
+
+[Source review](research/panini_grammar/imperative_optative/SOURCE_REVIEW.md)
+and [pins](research/panini_grammar/imperative_optative/SOURCE_PINS.json)
+retain literal-versus-derived evidence, the resolved-augment schedule and
+devoiced-pause choice. [Claude's T125–T130 review](research/panini_grammar/imperative_optative/COMPANION_UPDATE.md)
+records both tables' finite boundaries, the 90-position T96/T99 modal
+overlap, the 3.4.92 pit-state gap and outstanding T124/T125 source repairs.
+[Work and frontier](research/panini_grammar/imperative_optative/WORK_RECORD.md)
+keep tests deferred; āśīrliṅ/blessing-loṭ, broader roots/modal contexts
+and runtime integration remain open. The canonical operator engine is unchanged.
 
 ## Śaiva sources and the sūtra as an instruction: Theorems 78–82
 
