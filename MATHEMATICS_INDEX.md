@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG25 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG26 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG25 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG26 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,44 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG26: adādi vowel modals and augment-dependent source queries
+
+[PG26](research/panini_grammar/vowel_modals/README.md) constructs
+ordinary loṭ, vidhiliṅ and blessing-loṭ for **30 exact roots /32
+qualified pada profiles**. Its [domain](research/panini_grammar/vowel_modals/DOMAIN_AND_INTERFACES.md)
+preserves lexical senses, register limits and pada licenses.
+[Stems and augments](research/panini_grammar/vowel_modals/STEMS_AND_AUGMENTS.md)
+resolve ending-owned īṭ before the root-strength query: rautu/ravītu,
+rutām/ruvītām and ruyāt/ruvīyāt. Ūrṇu's guṇa/vṛddhi option,
+sū's prohibition, iṇ/vī and fourteen retained-ā roots have separate
+guards. [Sound readout](research/panini_grammar/vowel_modals/SOUND_READOUT.md)
+retains vowel/ending ownership and distinguishes first-person ṇatva
+from the restored dental n of ordinary plurals.
+The [complete register](research/panini_grammar/vowel_modals/PARADIGMS.md)
+adds **864 positions /991 written readings**.
+
+The [native construction](research/panini_grammar/vowel_modals/NATIVE_GUARD_TRANSPORT.md)
+starts with the full history carrier, pairing and complementary cuts.
+It proves dependent query transport, failure of the actual-hal query
+to descend through its stated coarse observer, a minimal one-coordinate
+linear repair, and typed zero-specialization preserving the histories.
+
+[Coverage](research/panini_grammar/vowel_modals/COVERAGE.json) reaches
+**9,460 written verbal positions /609 distinct bounded-rule IDs**.
+PG25/26 now cover I/O/B for all **38 exact roots /44 profiles** in
+PG10's admitted inventory: **1,188 positions already included** in
+the total. This does not close all adādi or the whole grammar.
+[Source decisions](research/panini_grammar/vowel_modals/SOURCE_REVIEW.md),
+[literal records](research/panini_grammar/vowel_modals/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/vowel_modals/SOURCE_PINS.json)
+retain contradictory tokens and the selected resolved-modal-ī policy.
+[T144/T145 review](research/panini_grammar/vowel_modals/COMPANION_UPDATE.md)
+credits the companion's future/liṭ/conditional work, attributes its
+reported counts and flags the liṭ residue-breakdown discrepancy.
+[Work/frontier](research/panini_grammar/vowel_modals/WORK_RECORD.md)
+continues written family development with grammar/navigation/operator
+tests and certificate replay deferred.
 
 ## PG25: abhyasta modals and source-qualified family assembly
 

@@ -329,6 +329,25 @@ its comparison totals remain attributed reports.
 priority and deferred tests. The rule ratio is bounded reach, not a
 whole-grammar completion percentage.
 
+**Adādi vowel modals and augment-dependent queries:**
+[PG26](vowel_modals/README.md) supplies I/O/B for **30 exact roots /32
+qualified profiles**, adding **864 positions /991 written readings**.
+The [stem construction](vowel_modals/STEMS_AND_AUGMENTS.md) resolves
+optional īṭ before strengthening and distinguishes ūrṇu, sū, iṇ/vī
+and the fourteen ā roots. The [native theorem](vowel_modals/NATIVE_GUARD_TRANSPORT.md)
+proves dependent query transport, a sharp linear observer repair and
+typed zero-recovery on the full history carrier.
+[Coverage](vowel_modals/COVERAGE.json) reaches **9,460 written verbal
+positions /609 bounded-rule IDs**. PG25/26 now cover all 38 exact roots
+/44 profiles admitted by PG10 in these three moods, a subtotal of 1,188
+positions already counted. [Sources](vowel_modals/SOURCE_REVIEW.md)
+retain literal conflicts and the selected source schedule.
+[Claude through T145](vowel_modals/COMPANION_UPDATE.md) credits T144/T145's
+extensions and identifies remaining branch/history work and a report
+count discrepancy. [Work/frontier](vowel_modals/WORK_RECORD.md) keeps
+grammar tests, certificate replay and formal verification deferred.
+These bounded constructions do not claim whole-grammar completion.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
