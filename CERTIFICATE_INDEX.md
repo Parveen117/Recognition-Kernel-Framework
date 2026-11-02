@@ -1475,6 +1475,22 @@ proof_lab/test_sup_rule_table_engine.py
 proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 ```
 
+## Theorem 129 Tiṅ Rule-Table Engine packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Tiṅ Rule-Table Engine |
+| Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
+| Canonical result SHA-256 | `e9773755c7da1e3d9841aeb0d5544c1176b92241b4fb0c5ef807c1b3a769f88d` |
+| Boundary | bhvādi present system: bhū, gam, nī, edh, labh × laṭ, laṅ, loṭ, liṅ; 180 cells from 40 rows |
+
+```text
+theorum/129_ting_rule_table_engine_theorem.md
+proof_lab/ting_rule_table_engine.py
+proof_lab/test_ting_rule_table_engine.py
+proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
