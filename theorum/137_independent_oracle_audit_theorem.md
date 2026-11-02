@@ -20,7 +20,7 @@ The attribution deltas that remain (CROSSCHECK.md's table) are cases where two n
 
 ## 4. Certificate
 
-`proof_lab/ting_rule_table_engine.py` re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `c71269f5a950b6f9eaa2ba6edf743bd760e023856207c7ba0180654d3385a8ca` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`; 147 rows, 908 cells); the previous pin `45a7573f…` (theorum/136, commit d3b5a0a) stays in the history. The sup engine's pin is unchanged (no correction was needed). The audit itself is reproduced by the command in `crosscheck.py`'s docstring; it needs the vidyut package and data and is therefore pinned by hash, not run in CI.
+`proof_lab/ting_rule_table_engine.py` re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `c71269f5a950b6f9eaa2ba6edf743bd760e023856207c7ba0180654d3385a8ca` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`; 147 rows, 908 cells); the previous pin `45a7573f…` (theorum/136, commit d3b5a0a) stays in the history; re-pinned again by theorum/138 (the generalisation test), commit 816acc0 holds this pin. The sup engine's pin is unchanged (no correction was needed). The audit itself is reproduced by the command in `crosscheck.py`'s docstring; it needs the vidyut package and data and is therefore pinned by hash, not run in CI.
 
 ## 5. Claim boundary
 
