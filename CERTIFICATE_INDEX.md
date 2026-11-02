@@ -1683,6 +1683,22 @@ proof_lab/test_sup_rule_table_engine.py
 proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 ```
 
+## Theorem 142 Pāṇini Kernel packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Pāṇini Kernel |
+| Status | `PASS_PANINI_KERNEL_CANDIDATE` |
+| Canonical result SHA-256 | `41854a6bd4cae4be57bb9b10ab5b12b617f0d98a924b56d562178d860fafcc19` |
+| Boundary | the two engines, the ledger and the evidence as one object: 225 sūtras as rows, 16 shared (junction / tripādī only), every row a ledger entry and every engine ledger entry a row; coverage counted |
+
+```text
+theorum/142_panini_kernel_theorem.md
+proof_lab/panini_kernel.py
+proof_lab/test_panini_kernel.py
+proof_lab/PANINI_KERNEL_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |

@@ -117,6 +117,7 @@ The advanced numbered surface now runs through Theorem 80:
 67. **139 — tiṅ rule-table engine IX.** The open lane: laṅ / loṭ / vidhiliṅ of classes 2–10 from the strong-ending predicate (pit and not ṅit; 3.4.92's āṭ) in every guṇa / lopa row, next-sound readers including the yāsuṭ / sīyuṭ, the augment before the abhyāsa, and nine rows (6.1.96, 6.4.101, 6.4.119, 7.3.83 with 3.4.109, 8.2.24, 7.3.100, 3.1.83, 6.4.106; 7.3.96 reaching as); 5,064 / 5,373 generator cells, 6,706 / 7,052 unseen cells overall; the suite unchanged, 154 rows; VIDYUT_OPEN_LANE.json as a declared oracle of implementation grade; residue of 309 cells named; engine re-pinned (old pin in history).
 68. **140 — tiṅ rule-table engine X.** The open lane, second pass: order facts (augment before lopa, 7.3.83 after the doubling, the sīyuṭ as hal-initial for 6.4.112 / 6.4.113) and seven rows (7.3.87, 7.3.98 for the rudādi apṛkta, 6.4.109, 6.4.118, 8.2.29 for the root's s / k, the tuk after the augment, ṇatva into the affix under 8.4.37); 5,223 / 5,373 generator cells, 6,865 / 7,052 unseen cells overall; suite unchanged, 157 rows; residue of 150 cells named; engine re-pinned (old pin in history); GENERALIZE.json re-pinned.
 69. **141 — the sup generalisation test.** 48 new stems of every declared class against vidyut-prakriya: 1,068 / 1,078 cells; the ten others adjudicated as the generator's; two rows exposed and fixed (the kṣ token in ṇatva: vṛkṣeṇa; 7.1.25: anyat); VIDYUT_SUP_LANE.json as a declared oracle of implementation grade; sup engine re-pinned (old pin in history).
+70. **142 — the Pāṇini kernel.** The two engines, the ledger and the evidence as one object: K1 code = claim (225 sūtras as rows, 7 guard clauses, 0 orphans either way), K2 the 16 shared rows are the junction / tripādī layer only, K3 the audit files hold their pinned hashes, K4 coverage of the 3,983 sūtras counted per pāda; the carrier reading of Theorems 119 / 122 made concrete; `proof_lab/panini_kernel.py` pinned.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -164,7 +165,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-141                           PRESENT
+NUMBERED THEOREM FILES 01-142                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT
