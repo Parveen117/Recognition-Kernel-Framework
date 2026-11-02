@@ -28,7 +28,7 @@ ninyiva   nī + liṭ 1d: va (kit) → ni-nī → 7.2.35 iṭ → 6.1.77 niny-i-
 
 ## 3. Certificate
 
-theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `ed7d4ef420ae9f09c27c893e21a3dae232365ca0bfde5c5f1bc5ad3c152702b9` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pins `ebdf15ca…` (theorum/130, commit 6e8c213) and `e9773755…` (theorum/129) stay in the history.
+theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `ed7d4ef420ae9f09c27c893e21a3dae232365ca0bfde5c5f1bc5ad3c152702b9` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pins `ebdf15ca…` (theorum/130, commit 6e8c213) and `e9773755…` (theorum/129) stay in the history. Re-pinned again by theorum/132 (the vikaraṇa classes); commit e638644 holds this pin.
 
 ```text
 python -m proof_lab.ting_rule_table_engine

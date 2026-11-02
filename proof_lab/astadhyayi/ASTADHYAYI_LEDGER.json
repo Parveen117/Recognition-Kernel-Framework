@@ -10,11 +10,11 @@
   ],
   "counts": {
     "compiled": 10,
-    "meta": 155,
-    "hand_coded": 255,
+    "meta": 156,
+    "hand_coded": 270,
     "cited": 406,
     "misnumbered": 2,
-    "entries": 828,
+    "entries": 844,
     "text_missing": 82,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
@@ -958,6 +958,7 @@
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
         "theorum/129_ting_rule_table_engine_theorem.md",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md"
       ]
     },
@@ -1580,14 +1581,18 @@
       ]
     },
     "1.3.72": {
-      "text": "",
+      "text": "svaritañitaḥ kartrabhiprāye kriyāphale",
       "text_devanagari": "स्वरितञितः कर्त्रभिप्राये क्रियाफले",
       "in_pinned_edition": true,
-      "iast_matches_pinned_edition": null,
-      "level": "cited",
-      "theorems": [],
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T132"
+      ],
       "cited_in": [
         "proof_lab/paninian_it_samjna_compiled.py",
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
@@ -3218,14 +3223,18 @@
       ]
     },
     "3.1.25": {
-      "text": "",
+      "text": "satyāpapāśarūpavīṇātūlaślokasenālomatvacavarmavarṇacūrṇacurādibhyo ṇic",
       "text_devanagari": "सत्यापपाशरूपवीणातूलश्लोकसेनालोमत्वचवर्मवर्णचूर्णचुरादिभ्यो णिच्",
       "in_pinned_edition": true,
-      "iast_matches_pinned_edition": null,
-      "level": "cited",
-      "theorems": [],
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T132"
+      ],
       "cited_in": [
-        "proof_lab/nic_causative_compiled.py"
+        "proof_lab/nic_causative_compiled.py",
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
       ]
     },
     "3.1.26": {
@@ -3251,11 +3260,13 @@
       "theorems": [
         "T105",
         "T106",
-        "T108"
+        "T108",
+        "T132"
       ],
       "cited_in": [
         "proof_lab/nic_causative_compiled.py",
         "proof_lab/san_desiderative_compiled.py",
+        "proof_lab/ting_rule_table_engine.py",
         "proof_lab/yan_intensive_compiled.py",
         "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/106_san_desiderative_compiled_theorem.md",
@@ -3415,6 +3426,114 @@
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md"
+      ]
+    },
+    "3.1.69": {
+      "text": "divādibhyaḥ śyan",
+      "text_devanagari": "दिवादिभ्यः श्यन्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T132"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
+      ]
+    },
+    "3.1.70": {
+      "text": "",
+      "text_devanagari": "वा भ्राशभ्लाशभ्रमुक्रमुक्लमुत्रसित्रुटिलषः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
+      ]
+    },
+    "3.1.73": {
+      "text": "svādibhyaḥ śnuḥ",
+      "text_devanagari": "स्वादिभ्यः श्नुः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T132"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
+      ]
+    },
+    "3.1.74": {
+      "text": "śruvaḥ śṛ ca",
+      "text_devanagari": "श्रुवः शृ च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T132"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
+      ]
+    },
+    "3.1.77": {
+      "text": "tudādibhyaḥ śaḥ",
+      "text_devanagari": "तुदादिभ्यः शः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T132"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
+      ]
+    },
+    "3.1.79": {
+      "text": "tanādikṛñbhya uḥ",
+      "text_devanagari": "तनादिकृञ्भ्य उः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T132"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
+      ]
+    },
+    "3.1.81": {
+      "text": "kryādibhyaḥ śnā",
+      "text_devanagari": "क्र्यादिभ्यः श्ना",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T132"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
+      ]
+    },
+    "3.1.82": {
+      "text": "",
+      "text_devanagari": "स्तन्भुस्तुन्भुस्कन्भुस्कुन्भुस्कुञ्भ्यः श्नुश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
       ]
     },
     "3.1.85": {
@@ -4398,6 +4517,7 @@
         "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
@@ -4586,6 +4706,7 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
@@ -4900,6 +5021,7 @@
         "theorum/120_krt_mathematical_construction_theorem.md",
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
@@ -4933,6 +5055,7 @@
         "theorum/116_atmanepada_lun_compiled_theorem.md",
         "theorum/120_krt_mathematical_construction_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/89_ngi_stem_sup_compiled_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
@@ -6755,12 +6878,15 @@
       "level": "hand_coded",
       "theorems": [
         "T86",
-        "T89"
+        "T89",
+        "T132"
       ],
       "cited_in": [
         "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/paninian_it_samjna_compiled.py",
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md",
         "theorum/89_ngi_stem_sup_compiled_theorem.md"
@@ -6997,6 +7123,7 @@
         "theorum/125_sup_rule_table_engine_theorem.md",
         "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/131_ting_rule_table_engine_lit_theorem.md",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
@@ -7069,6 +7196,7 @@
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/131_ting_rule_table_engine_lit_theorem.md",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
@@ -8701,11 +8829,28 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T67"
+        "T67",
+        "T132"
       ],
       "cited_in": [
         "proof_lab/pada_to_line_external_sandhi.py",
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/67_pada_to_line_external_sandhi_theorem.md"
+      ]
+    },
+    "6.4.87": {
+      "text": "huśnuvoḥ sārvadhātuke",
+      "text_devanagari": "हुश्नुवोः सार्वधातुके",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T132"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
       ]
     },
     "6.4.88": {
@@ -8775,6 +8920,76 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md"
+      ]
+    },
+    "6.4.107": {
+      "text": "lopaś cāsyānyatarasyāṁ mvoḥ",
+      "text_devanagari": "लोपश्चास्यान्यतरस्यां म्वोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T132"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
+      ]
+    },
+    "6.4.108": {
+      "text": "nityaṁ karoteḥ",
+      "text_devanagari": "नित्यं करोतेः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T132"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
+      ]
+    },
+    "6.4.110": {
+      "text": "ata ut sārvadhātuke",
+      "text_devanagari": "अत उत् सार्वधातुके",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T132"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
+      ]
+    },
+    "6.4.112": {
+      "text": "śnābhyastayor ātaḥ",
+      "text_devanagari": "श्नाऽभ्यस्तयोरातः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T132"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
+      ]
+    },
+    "6.4.113": {
+      "text": "ī halyaghoḥ",
+      "text_devanagari": "ई हल्यघोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T132"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
       ]
     },
     "6.4.129": {
@@ -9214,6 +9429,7 @@
         "theorum/116_atmanepada_lun_compiled_theorem.md",
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md",
@@ -9239,6 +9455,7 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/116_atmanepada_lun_compiled_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md"
       ]
     },
@@ -10935,6 +11152,20 @@
         "theorum/120_krt_mathematical_construction_theorem.md"
       ]
     },
+    "7.3.74": {
+      "text": "śamām aṣṭānāṁ dīrghaḥ śyani",
+      "text_devanagari": "शमामष्टानां दीर्घः श्यनि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T132"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
+      ]
+    },
     "7.3.77": {
       "text": "iṣugamiyamāṁ chaḥ",
       "text_devanagari": "इषुगमियमां छः",
@@ -10965,6 +11196,20 @@
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md"
+      ]
+    },
+    "7.3.80": {
+      "text": "pvādīnāṁ hrasvaḥ",
+      "text_devanagari": "प्वादीनां ह्रस्वः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T132"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
       ]
     },
     "7.3.84": {
@@ -11010,6 +11255,7 @@
         "theorum/120_krt_mathematical_construction_theorem.md",
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
@@ -11027,14 +11273,17 @@
       "level": "hand_coded",
       "theorems": [
         "T105",
-        "T107"
+        "T107",
+        "T132"
       ],
       "cited_in": [
         "proof_lab/krt_ghan_lyut_nvul_satr_compiled.py",
         "proof_lab/nic_causative_compiled.py",
+        "proof_lab/ting_rule_table_engine.py",
         "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md",
-        "theorum/120_krt_mathematical_construction_theorem.md"
+        "theorum/120_krt_mathematical_construction_theorem.md",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
       ]
     },
     "7.3.96": {
@@ -12341,12 +12590,15 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T106"
+        "T106",
+        "T132"
       ],
       "cited_in": [
         "proof_lab/san_desiderative_compiled.py",
+        "proof_lab/ting_rule_table_engine.py",
         "theorum/106_san_desiderative_compiled_theorem.md",
-        "theorum/120_krt_mathematical_construction_theorem.md"
+        "theorum/120_krt_mathematical_construction_theorem.md",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
       ]
     },
     "8.2.80": {
@@ -12772,6 +13024,7 @@
         "proof_lab/samasa_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/sup_rule_table_engine.py",
+        "proof_lab/ting_rule_table_engine.py",
         "theorum/104_samasa_compiled_theorem.md",
         "theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md",
         "theorum/120_krt_mathematical_construction_theorem.md",
@@ -12792,7 +13045,8 @@
         "T94",
         "T107",
         "T123",
-        "T125"
+        "T125",
+        "T132"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
@@ -12808,6 +13062,7 @@
         "proof_lab/stri_pratyaya_compiled.py",
         "proof_lab/sup_rule_table_engine.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "proof_lab/ting_rule_table_engine.py",
         "theorum/104_samasa_compiled_theorem.md",
         "theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md",
         "theorum/111_stri_pratyaya_compiled_theorem.md",
@@ -12818,6 +13073,7 @@
         "theorum/125_sup_rule_table_engine_theorem.md",
         "theorum/126_sup_rule_table_engine_s_i_u_r_classes_theorem.md",
         "theorum/127_sup_rule_table_engine_numerals_theorem.md",
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",

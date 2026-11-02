@@ -44,6 +44,10 @@ SOURCES = {
     "3.2.115": "parokṣe liṭ", "3.4.115": "liṭ ca", "3.4.82": "parasmaipadānāṁ ṇalatususthalathusaṇalvamāḥ", "1.2.5": "asaṁyogālliṭ kit", "1.1.56": "sthānivadādeśo'nalvidhau",
     "6.1.8": "liṭi dhātoranabhyāsasya", "6.1.1": "ekāco dve prathamasya", "6.1.4": "pūrvo'bhyāsaḥ", "7.4.59": "hrasvaḥ", "7.4.62": "kuhoścuḥ", "7.4.66": "urat", "7.4.73": "bhavateraḥ", "8.4.54": "abhyāse carca",
     "7.2.13": "kṛsṛbhṛvṛstudrusruśruvo liṭi", "7.2.115": "aco ñṇiti", "7.2.116": "ata upadhāyāḥ", "6.4.98": "gamahanajanakhanaghasāṁ lopaḥ kṅityanaṅi", "6.1.77": "iko yaṇaci",
+    "3.1.25": "satyāpapāśarūpavīṇātūlaślokasenālomatvacavarmavarṇacūrṇacurādibhyo ṇic", "3.1.32": "sanādyantā dhātavaḥ", "3.1.69": "divādibhyaḥ śyan", "3.1.73": "svādibhyaḥ śnuḥ", "3.1.74": "śruvaḥ śṛ ca", "3.1.77": "tudādibhyaḥ śaḥ",
+    "3.1.79": "tanādikṛñbhya uḥ", "3.1.81": "kryādibhyaḥ śnā", "1.3.72": "svaritañitaḥ kartrabhiprāye kriyāphale", "6.1.64": "dhātvādeḥ ṣaḥ saḥ", "7.3.86": "pugantalaghūpadhasya ca", "8.2.77": "hali ca", "7.3.74": "śamāmaṣṭānāṁ dīrghaḥ śyani", "7.3.80": "pvādīnāṁ hrasvaḥ",
+    "6.4.110": "ata ut sārvadhātuke", "6.4.108": "nityaṁ karoteḥ", "6.4.107": "lopaścāsyānyatarasyāṁ mvoḥ", "6.4.77": "aci śnudhātubhruvāṁ yvoriyaṅuvaṅau", "6.4.87": "huśnuvoḥ sārvadhātuke", "6.4.112": "śnā'bhyastayorātaḥ", "6.4.113": "ī halyaghoḥ",
+    "8.4.1": "raṣābhyāṁ no ṇaḥ samānapade", "8.4.2": "aṭkupvāṅnumvyavāye'pi",
     "8.2.23": "saṁyogāntasya lopaḥ", "8.2.66": "sasajuṣo ruḥ", "8.3.15": "kharavasānayorvisarjanīyaḥ",
 }
 
@@ -70,17 +74,25 @@ JAS = {"bh": "b", "dh": "d", "gh": "g", "jh": "j", "ḍh": "ḍ"}
 JHAS = {"bh", "gh", "dh", "jh", "ḍh"}
 IN = set(V) - {"a", "ā"} | {"h", "y", "v", "r", "l"}   # iṇ
 # roots in upadeśa (Dhātupāṭha), pada by 1.3.12 / 1.3.78: ṣ-it labh and anudātta edha~ are ātmanepadin
-ROOTS = {"bhū": ("bhū", "P"), "gam": ("gamḷ~", "P"), "nī": ("ṇīñ", "P"), "edh": ("edha~", "A"), "labh": ("ḍulabhaṣ", "A"), "kṛ": ("ḍukṛñ", "P")}
+ROOTS = {"bhū": ("bhū", "P"), "gam": ("gamḷ~", "P"), "nī": ("ṇīñ", "P"), "edh": ("edha~", "A"), "labh": ("ḍulabhaṣ", "A"), "kṛ": ("ḍukṛñ", "U"),
+         # theorum/132: the vikaraṇa classes (Dhātupāṭha upadeśa and gaṇa; pada U = ubhaya, the cell's pada is declared with the cell)
+         "pac": ("ḍupacaṣ", "U"), "div": ("divu~", "P"), "siv": ("ṣivu~", "P"), "śam": ("śamu~", "P"), "tud": ("tuda~", "U"), "nud": ("ṇuda~", "U"), "cur": ("cura~", "U"),
+         "su": ("ṣuñ", "U"), "ci": ("ciñ", "U"), "śru": ("śru", "P"), "āp": ("āpḷ~", "P"), "śak": ("śakḷ~", "P"), "tan": ("tanu~", "U"), "krī": ("ḍukrīñ", "U"), "pū": ("pūñ", "U"), "lū": ("lūñ", "U")}
+GANA = {"div": 4, "siv": 4, "śam": 4, "tud": 6, "nud": 6, "cur": 10, "su": 5, "ci": 5, "śru": 5, "āp": 5, "śak": 5, "tan": 8, "kṛ": 8, "krī": 9, "pū": 9, "lū": 9}   # declared from the Dhātupāṭha; absent = bhvādi
+SAM_LIST = {"śam", "tam", "dam", "śram", "bhram", "kṣam", "klam", "mad"}   # 7.3.74 śamām aṣṭānām
+PU_LIST = {"pū", "lū", "stṝ", "kṝ", "vṝ", "dhū", "śṝ", "pṝ", "vṛ", "bhṝ", "mṝ", "dṝ", "jṝ", "jhṝ", "dhvṝ", "nṝ", "gṝ", "jyā", "rī", "lī", "vlī", "plī"}   # 7.3.80 pvādi (the Dhātupāṭha sub-list, declared)
 VAL = set("kgcjṭḍtdpbyrlvśṣsh") | {"kh", "gh", "ch", "jh", "ṭh", "ḍh", "th", "dh", "ph", "bh", "ṅ", "ñ", "ṇ", "n", "m"} - {"y"}
 YAN_INIT = {"y", "v", "r", "l", "ñ", "m", "ṅ", "ṇ", "n", "jh", "bh"}   # yañ (ha ya va ra ṭ, la ṇ, ña ma ṅa ṇa na m, jha bha ñ)
 
 
 class S:
-    def __init__(self, root: str, lak: str, code: str):
-        up, pada = ROOTS[root]
+    def __init__(self, root: str, lak: str, code: str, pada: str | None = None):
+        up, pada0 = ROOTS[root]
+        pada = pada or pada0
+        assert pada in ("P", "A"), f"{root}: the pada of an ubhayapadin is declared with the cell (1.3.72)"
         r = its(up, "dhatu")["remaining"]
-        if root == "labh":
-            r = "labh"   # ḍulabhaṣ: ḍu (1.3.5) and ṣ (1.3.3) are its; the a of the upadeśa's "bha" is enunciative
+        if up.endswith("aṣ") and r.endswith("a"):
+            r = r[:-1]   # ḍulabhaṣ, ḍupacaṣ: ḍu (1.3.5) and ṣ (1.3.3) are its; the a of the upadeśa's "bha" / "ca" is enunciative
         self.r = tok(r); self.pada = pada; self.lak = lak; self.code = code
         self.num = code[1]; self.pers = code[0]
         self.ab: list[str] = []            # abhyāsa (6.1.4 pūrvo 'bhyāsaḥ)
@@ -91,6 +103,8 @@ class S:
         upa = (TING_P if pada == "P" else TING_A)[code]
         self.up = upa; self.aff = list(its(upa, "pratyaya", vibhakti=True)["remaining_sounds"])   # 1.3.4 na vibhaktau tusmāḥ (1.4.104 vibhaktiś ca)
         self.pit = upa.endswith("p")       # tip sip mip
+        self.root = root; self.gana = GANA.get(root, 1)
+        self.vsit = False                  # the vikaraṇa is śit (sārvadhātuka, 3.4.113) and apit → ṅidvat (1.2.4)
         self.flags: set[str] = set(); self.done: set[str] = set(); self.path: list[str] = []
 
     # views
@@ -139,6 +153,13 @@ def rules() -> list[tuple[str, Callable[[S], bool], Callable[[S], Any], str]]:
     add("3.1.55", lambda s: s.lak == "luṅ" and s.v == ["s"] and s.P() and "".join(s.r) == "gam", lambda s: setattr(s, "v", ["a"]), "aṅ for cli after the ḷdit gamḷ~ in parasmaipada")
     add("3.4.82", lambda s: s.lak == "liṭ" and s.P() and "3.4.82" not in s.done, lambda s: setattr(s, "aff", tok(LIT_P[s.up])), "the parasmaipada tiṅ → ṇal atus us thal athus a ṇal va ma in liṭ (ārdhadhātuka, 3.4.115)")
     add("3.1.33", lambda s: s.lak in ("lṛṭ", "luṭ") and not s.v, lambda s: setattr(s, "v", tok("sya") if s.lak == "lṛṭ" else tok("tās")), "sya before lṛṭ, tāsi before luṭ (ārdhadhātuka: 3.4.114)")
+    add("3.1.25", lambda s: s.gana == 10 and "ṇic" not in s.flags, lambda s: (s.flags.add("ṇic"), setattr(s, "r", s.r + ["i"])), "ṇic after the curādi root (the ṇic-ending is the dhātu: 3.1.32); ṇ and c are its")
+    add("3.1.69", lambda s: not s.v and s.lak in PRESENT and s.gana == 4, lambda s: (setattr(s, "v", tok("ya")), setattr(s, "vsit", True)), "śyan after a divādi root (śit sārvadhātuka, apit: ṅidvat by 1.2.4)")
+    add("3.1.77", lambda s: not s.v and s.lak in PRESENT and s.gana == 6, lambda s: (setattr(s, "v", ["a"]), setattr(s, "vsit", True)), "śa after a tudādi root (śit, apit: ṅidvat — no guṇa, tudati)")
+    add("3.1.74", lambda s: not s.v and s.lak in PRESENT and s.root == "śru", lambda s: setattr(s, "r", tok("śṛ")), "śru → śṛ with śnu")
+    add("3.1.73", lambda s: not s.v and s.lak in PRESENT and s.gana == 5, lambda s: (setattr(s, "v", tok("nu")), setattr(s, "vsit", True)), "śnu after a svādi root (śit, apit: ṅidvat)")
+    add("3.1.79", lambda s: not s.v and s.lak in PRESENT and s.gana == 8, lambda s: setattr(s, "v", ["u"]), "u after a tanādi root and kṛ (no ś: ārdhadhātuka by 3.4.114 — so the root takes guṇa, karoti)")
+    add("3.1.81", lambda s: not s.v and s.lak in PRESENT and s.gana == 9, lambda s: (setattr(s, "v", tok("nā")), setattr(s, "vsit", True)), "śnā after a kryādi root (śit, apit: ṅidvat)")
     add("3.1.68", lambda s: not s.v and s.lak in PRESENT, lambda s: setattr(s, "v", ["a"]), "śap after the root before the sārvadhātuka tiṅ (kartari); not before the ārdhadhātuka (3.4.114, 3.4.116 liṅāśiṣi)")
     add("2.4.85", lambda s: s.lak == "luṭ" and s.pers == "3", lambda s: setattr(s, "aff", {"s": tok("ḍā"), "d": tok("rau"), "p": tok("ras")}[s.num]), "the prathama of luṭ → ḍā, rau, ras (both padas)")
     add("3.4.79", lambda s: s.A() and s.lak in TIT and "3.4.79" not in s.done and not (s.lak == "luṭ" and s.pers == "3"),
@@ -165,6 +186,7 @@ def rules() -> list[tuple[str, Callable[[S], bool], Callable[[S], Any], str]]:
     add("3.4.107", lambda s: s.A() and s.lak == "āśīrliṅ" and any(x in ("t", "th") for x in s.aff), lambda s: s.aff.insert(next(i for i, x in enumerate(s.aff) if x in ("t", "th")), "s"), "suṭ to the t / th of the tiṅ in āśīrliṅ (sta, āstām)")
     add("3.4.108", lambda s: s.P() and s.lak in ("liṅ", "āśīrliṅ") and s.up == "jhi", lambda s: setattr(s, "aff", tok("us")), "jhi → jus in liṅ (the j is it)")
     # ---- phase 2: the aṅga -------------------------------------------------------------------
+    add("6.1.64", lambda s: s.r[0] == "ṣ", lambda s: s.r.__setitem__(0, "s"), "the initial ṣ of the upadeśa → s (ṣuñ → su, ṣivu~ → siv)")
     add("6.1.65", lambda s: s.r[0] == "ṇ", lambda s: s.r.__setitem__(0, "n"), "the initial ṇ of the upadeśa → n (ṇīñ → nī)")
     add("6.1.8", lambda s: s.lak == "liṭ" and not s.ab, lambda s: setattr(s, "ab", s.r[: next(i for i, x in enumerate(s.r) if x in V) + 1]), "the root's first ekāc doubled before liṭ (6.1.1 ekāco dve prathamasya; the first is the abhyāsa, 6.1.4)")
     add("7.4.59", lambda s: s.ab[-1:] and s.ab[-1] in HRASVA, lambda s: s.ab.__setitem__(-1, HRASVA[s.ab[-1]]), "the abhyāsa vowel shortened")
@@ -182,7 +204,21 @@ def rules() -> list[tuple[str, Callable[[S], bool], Callable[[S], Any], str]]:
     add("7.2.116", lambda s: s.lak == "liṭ" and s.pit and len(s.r) >= 2 and s.r[-2] == "a" and s.r[-1] not in V, lambda s: s.r.__setitem__(-2, "ā"), "vṛddhi of the penultimate a before ṇal (ja-gāma)")
     add("6.4.98", lambda s: s.lak == "liṭ" and s.kit() and "".join(s.r) == "gam", lambda s: s.r.pop(-2), "the upadhā of gam dropped before the kit ending (jagmatuḥ, jagmiva)")
     add("7.2.1", lambda s: s.P() and s.lak == "luṅ" and s.v == ["s"] and s.r[-1] in VRDDHI, lambda s: s.r.__setitem__(-1, VRDDHI[s.r[-1]]), "vṛddhi before sic in parasmaipada (nai-ṣ-; the apavāda of 7.3.84)")
-    add("7.3.84", lambda s: s.r[-1] in GUNA and s.after_root() and not s.kit() and (s.v or s.it), lambda s: s.r.__setitem__(-1, GUNA[s.r[-1]]), "guṇa of the root's final ik before the sārvadhātuka śap or the ārdhadhātuka iṭ / sya / tās (bhū → bho, nī → ne); not before the kit āśīrliṅ (1.1.5)")
+    add("7.3.86", lambda s: "7.3.86" not in s.done and (("ṇic" in s.flags and len(s.r) >= 3 and s.r[-2] not in V and s.r[-3] in ("i", "u", "ṛ")) or (s.v == ["a"] and not s.vsit and len(s.r) >= 2 and s.r[-1] not in V and s.r[-2] in ("i", "u", "ṛ"))),
+        lambda s: s.r.__setitem__(-3 if "ṇic" in s.flags else -2, GUNA[s.r[-3 if "ṇic" in s.flags else -2]]), "guṇa of the light penultimate before the ṇit ṇic or the pit śap (cur → cor; not before the ṅidvat śa: tudati, not *todati)")
+    add("8.2.77", lambda s: s.v == tok("ya") and s.r[-1] in ("r", "v") and s.r[-2] in ("i", "u"), lambda s: s.r.__setitem__(-2, {"i": "ī", "u": "ū"}[s.r[-2]]), "the ik before the root-final r / v lengthened before hal (dīvyati, sīvyati)")
+    add("7.3.74", lambda s: s.v == tok("ya") and s.root in SAM_LIST and s.r[-2] == "a", lambda s: s.r.__setitem__(-2, "ā"), "the eight śam-roots lengthened before śyan (śāmyati)")
+    add("7.3.80", lambda s: s.vsit and s.root in PU_LIST and s.r[-1] in ("ū", "ṝ"), lambda s: s.r.__setitem__(-1, {"ū": "u", "ṝ": "ṛ"}[s.r[-1]]), "pvādi shortened before the śit (pu-nā-, lu-nā-)")
+    add("7.3.84", lambda s: s.r[-1] in GUNA and s.after_root() and not s.kit() and not s.vsit and (s.v or s.it), lambda s: setattr(s, "r", s.r[:-1] + tok(GUNA[s.r[-1]])), "guṇa of the root's final ik before the pit śap, the ārdhadhātuka iṭ / sya / tās / u / ṇic (bhū → bho, nī → ne, kṛ → kar, cori → core); not before the kit āśīrliṅ nor the ṅidvat śit vikaraṇa (1.1.5, 1.2.4: sunoti, tudati)")
+    add("7.3.84v", lambda s: s.lak in PRESENT and s.v[-1:] == ["u"] and s.pit and "3.4.87" not in s.done, lambda s: s.v.__setitem__(-1, "o"), "guṇa of the aṅga-final u (śnu, u) before the pit sārvadhātuka (sunoti, karoti, tanoti)")
+    add("6.4.110", lambda s: s.root == "kṛ" and s.v == ["u"] and s.lak in PRESENT and not s.pit and s.r == tok("kar"), lambda s: s.r.__setitem__(1, "u"), "the a of kar → u before the kit / ṅit sārvadhātuka (kurutaḥ, kurvanti, kurute)")
+    add("6.4.108", lambda s: s.r == tok("kur") and s.v == ["u"] and s.aff[:1] and s.aff[0] in ("m", "v"), lambda s: setattr(s, "v", []), "the u of karoti always dropped before m / v (kurvaḥ, kurmaḥ)")
+    add("6.4.107", lambda s: s.v[-1:] == ["u"] and s.aff[:1] and s.aff[0] in ("m", "v") and s.root != "kṛ" and ((s.v == tok("nu") and s.r[-1] in V) or (s.v == ["u"] and s.r[-2] in V)), lambda s: s.v.pop(), "the u of the affix dropped before m / v when not preceded by a conjunct — optionally; the lopa branch is realised (sunvaḥ, tanmaḥ; sunuvaḥ, tanumaḥ recorded)")
+    add("6.4.77", lambda s: s.v == tok("nu") and s.aff[:1] and s.aff[0] in V and s.r[-1] not in V, lambda s: s.v.__setitem__(-1, "uv"), "u of śnu after a conjunct → uvaṅ before a vowel (āpnuvanti, śaknuvaḥ)")
+    add("6.4.87", lambda s: s.v == tok("nu") and s.aff[:1] and s.aff[0] in V and s.r[-1] in V, lambda s: s.v.__setitem__(-1, "v"), "u of śnu after a non-conjunct → v before the vowel-initial sārvadhātuka (sunvanti, cinvāte, śṛṇvanti)")
+    add("6.4.112", lambda s: s.v == tok("nā") and s.aff[:1] and s.aff[0] in V and not s.pit, lambda s: s.v.pop(), "the ā of śnā dropped before the vowel-initial kit / ṅit sārvadhātuka (krīṇanti, punate, krīṇāte)")
+    add("6.4.113", lambda s: s.v == tok("nā") and s.aff[:1] and s.aff[0] not in V and not s.pit, lambda s: s.v.__setitem__(-1, "ī"), "the ā of śnā → ī before the hal-initial kit / ṅit sārvadhātuka (krīṇītaḥ, punīte)")
+    add("8.4.2", lambda s: s.v[:1] == ["n"] and any(x in ("r", "ṛ", "ṝ", "ṣ") for x in s.r) and all(x in V or x in ("k", "kh", "g", "gh", "ṅ", "p", "ph", "b", "bh", "m", "h", "y", "v") for x in s.r[max(i for i, x in enumerate(s.r) if x in ("r", "ṛ", "ṝ", "ṣ")) + 1:]), lambda s: s.v.__setitem__(0, "ṇ"), "n of the affix → ṇ after r / ṛ / ṣ across vowels, ku, pu (8.4.1 with 8.4.2: krīṇāti, śṛṇoti)")
     add("6.1.78", lambda s: s.r[-1] in ("e", "o", "ai", "au") and s.after_root() and s.after_root()[0] in V, lambda s: setattr(s, "r", s.r[:-1] + {"e": ["ay"], "o": ["av"], "ai": ["ā", "y"], "au": ["ā", "v"]}[s.r[-1]]), "ec → ay / av / āy / āv before a vowel (bhav-a, nay-a, nināy-a)")
     add("6.4.71", lambda s: s.lak in ("laṅ", "luṅ") and not s.ag and s.r[0] not in V, lambda s: setattr(s, "ag", ["a"]), "aṭ augment to the aṅga in laṅ / luṅ")
     add("6.4.72", lambda s: s.lak in ("laṅ", "luṅ") and not s.ag and s.r[0] in V, lambda s: setattr(s, "ag", ["ā"]), "āṭ to the vowel-initial aṅga in laṅ / luṅ")
@@ -202,7 +238,7 @@ def rules() -> list[tuple[str, Callable[[S], bool], Callable[[S], Any], str]]:
     add("7.4.50", lambda s: s.v[-1:] == ["s"] and s.lak == "luṭ" and s.aff[:1] == ["s"], lambda s: s.v.pop(), "the s of tās dropped before the s-initial sārvadhātuka (bhavitāsi, labdhāse)")
     add("7.4.52", lambda s: s.v[-1:] == ["s"] and s.lak == "luṭ" and s.aff[:1] == ["e"], lambda s: s.v.__setitem__(-1, "h"), "the s of tās → h before e (labdhāhe)")
     # ---- phase 3: junction -----------------------------------------------------------------
-    add("6.1.77", lambda s: s.kit() and s.r[-1] in YAN and s.after_root() and s.after_root()[0] in V, lambda s: s.r.__setitem__(-1, YAN[s.r[-1]]), "ik → yaṇ before a vowel after the kit ending (ninyatuḥ, cakratuḥ, ninyiva; no guṇa: 1.1.5)")
+    add("6.1.77", lambda s: (s.kit() and s.r[-1] in YAN and s.after_root() and s.after_root()[0] in V) or (s.v == ["u"] and s.aff[:1] and s.aff[0] in V), lambda s: s.r.__setitem__(-1, YAN[s.r[-1]]) if not (s.v == ["u"] and s.aff[:1] and s.aff[0] in V) else s.v.__setitem__(-1, "v"), "ik → yaṇ before a vowel: the kit liṭ cells (ninyatuḥ, cakratuḥ, ninyiva) and the u-vikaraṇa before anti (kurvanti)")
     add("6.1.87", lambda s: (s.v[-1:] == ["a"] and s.pre[:1] and s.pre[0] in ("i", "ī")) or (s.a_final() and s.aff[:1] and s.aff[0] in ("i", "ī", "u", "ū")),
         lambda s: (s.v.pop(), s.pre.__setitem__(0, "e")) if s.pre[:1] and s.pre[0] in ("i", "ī") else (_set_last_anga(s, []), s.aff.__setitem__(0, GUNA[s.aff[0]])), "a + ik → guṇa (bhave-y, labhe-y, labhe)")
     add("6.1.97", lambda s: s.a_final() and s.aff[:1] and s.aff[0] in ("a", "e", "o") and not s.pre, lambda s: _set_last_anga(s, []), "a + a guṇa vowel (a, e, o) → pararūpa (abhavam; labhe from labha + e)")
@@ -226,8 +262,8 @@ RULES = rules()
 IDS = [r[0] for r in RULES]
 
 
-def conjugate(root: str, lak: str, code: str, off=()) -> tuple[str, list[str]]:
-    s = S(root, lak, code)
+def conjugate(root: str, lak: str, code: str, off=(), pada=None) -> tuple[str, list[str]]:
+    s = S(root, lak, code, pada)
     s.path.append(f"{root} ({ROOTS[root][0]}, {s.pada}) + {lak} → {s.up} → {''.join(s.aff)}")
     for n, guard, action, note in RULES:
         if n in off:
@@ -247,11 +283,28 @@ SUITE = [(r, l, CODES) for r in ("bhū", "gam", "nī", "edh", "labh") for l in P
          ("bhū", "luṭ", CODES), ("nī", "luṭ", CODES), ("labh", "luṭ", A6), ("edh", "luṭ", A6),
          ("bhū", "āśīrliṅ", P3), ("gam", "āśīrliṅ", P3), ("nī", "āśīrliṅ", P3), ("labh", "āśīrliṅ", A4), ("edh", "āśīrliṅ", A4),
          ("bhū", "luṅ", CODES), ("gam", "luṅ", CODES), ("nī", "luṅ", CODES), ("labh", "luṅ", A6), ("edh", "luṅ", A6),
-         ("bhū", "liṭ", L5), ("gam", "liṭ", L5), ("kṛ", "liṭ", L5), ("nī", "liṭ", L5)]
+         ("bhū", "liṭ", L5), ("gam", "liṭ", L5), ("kṛ", "liṭ", L5, "P"), ("nī", "liṭ", L5)]
+# theorum/132: the vikaraṇa classes in laṭ, on the cells of the grammar-verification branch's quoted present tables (research/panini_grammar/vikarana_lat, non_thematic_lat: Kāśikā / Kaumudī anchors)
+V_ORACLE = {
+    ("pac", "P"): dict(zip(CODES, "pacati pacataḥ pacanti pacasi pacathaḥ pacatha pacāmi pacāvaḥ pacāmaḥ".split())),
+    ("pac", "A"): dict(zip(CODES, "pacate pacete pacante pacase pacethe pacadhve pace pacāvahe pacāmahe".split())),
+    ("div", "P"): {"3s": "dīvyati"}, ("siv", "P"): {"3s": "sīvyati"}, ("śam", "P"): {"3s": "śāmyati"},
+    ("tud", "P"): {"3s": "tudati"}, ("nud", "P"): {"3s": "nudati"}, ("tud", "A"): {"3s": "tudate"}, ("nud", "A"): {"3s": "nudate"}, ("cur", "P"): {"3s": "corayati"},
+    ("su", "P"): {"3s": "sunoti", "3d": "sunutaḥ", "3p": "sunvanti", "2s": "sunoṣi", "1s": "sunomi", "1d": "sunvaḥ", "1p": "sunmaḥ"}, ("su", "A"): {"3s": "sunute", "3d": "sunvāte", "1d": "sunvahe"},
+    ("ci", "P"): {"3s": "cinoti", "3d": "cinutaḥ", "3p": "cinvanti"}, ("ci", "A"): {"3d": "cinvāte", "3p": "cinvate"},
+    ("śru", "P"): {"3s": "śṛṇoti", "3d": "śṛṇutaḥ", "3p": "śṛṇvanti"}, ("āp", "P"): {"3s": "āpnoti", "3d": "āpnutaḥ", "3p": "āpnuvanti", "1d": "āpnuvaḥ"}, ("śak", "P"): {"3s": "śaknoti", "3p": "śaknuvanti", "1d": "śaknuvaḥ", "1p": "śaknumaḥ"},
+    ("tan", "P"): {"3s": "tanoti", "1d": "tanvaḥ", "1p": "tanmaḥ"}, ("tan", "A"): {"3s": "tanute"},
+    ("kṛ", "P"): {"3s": "karoti", "3d": "kurutaḥ", "3p": "kurvanti", "2s": "karoṣi", "1s": "karomi", "1d": "kurvaḥ", "1p": "kurmaḥ"}, ("kṛ", "A"): {"3s": "kurute"},
+    ("krī", "P"): {"3s": "krīṇāti", "3d": "krīṇītaḥ", "3p": "krīṇanti"}, ("krī", "A"): {"3s": "krīṇīte", "3d": "krīṇāte"},
+    ("pū", "P"): {"3s": "punāti", "3d": "punītaḥ", "2d": "punīthaḥ"}, ("pū", "A"): {"3s": "punīte", "3p": "punate"},
+    ("lū", "P"): {"3s": "lunāti", "3d": "lunītaḥ", "2d": "lunīthaḥ"}, ("lū", "A"): {"3s": "lunīte", "3p": "lunate"},
+}
+OPTION_CELLS = {"su.P.1d": "sunuvaḥ", "su.P.1p": "sunumaḥ", "su.A.1d": "sunuvahe", "tan.P.1d": "tanuvaḥ", "tan.P.1p": "tanumaḥ"}   # 6.4.107: the second branch, recorded
+SUITE = [(r, l, cs, None) if len(e) == 3 else e for e in SUITE for r, l, cs in [e[:3]]] + [(r, "laṭ", list(cells), pada) for (r, pada), cells in V_ORACLE.items()]
 
 
-def paradigm(root: str, lak: str, off=(), cells=None) -> dict[str, str]:
-    return {c: conjugate(root, lak, c, off)[0] for c in (cells or CODES)}
+def paradigm(root: str, lak: str, off=(), cells=None, pada=None) -> dict[str, str]:
+    return {c: conjugate(root, lak, c, off, pada)[0] for c in (cells or CODES)}
 
 
 def oracles() -> dict[str, dict[str, dict[str, str]]]:
@@ -298,14 +351,16 @@ def oracles() -> dict[str, dict[str, dict[str, str]]]:
 
 def t1_suite() -> dict[str, Any]:
     O = oracles()
-    forms = {f"{r}.{l}": paradigm(r, l, cells=cs) for r, l, cs in SUITE}
-    mism = {f"{r}.{l}.{c}": (forms[f"{r}.{l}"][c], O[r][l][c]) for r, l, cs in SUITE for c in cs if forms[f"{r}.{l}"][c] != O[r][l][c]}
+    def key(r, l, pd): return f"{r}.{l}" + (f".{pd}" if pd else "")
+    forms = {key(r, l, pd): paradigm(r, l, cells=cs, pada=pd) for r, l, cs, pd in SUITE}
+    def ora(r, l, pd): return V_ORACLE[(r, pd)] if (l == "laṭ" and (r, pd) in V_ORACLE) else O[r][l]
+    mism = {f"{key(r, l, pd)}.{c}": (forms[key(r, l, pd)][c], ora(r, l, pd)[c]) for r, l, cs, pd in SUITE for c in cs if forms[key(r, l, pd)][c] != ora(r, l, pd)[c]}
     broken: dict[str, list[str]] = {}
     for rid in IDS:
-        broken[rid] = [f"{r}.{l}.{c}" for r, l, cs in SUITE for c in cs if conjugate(r, l, c, off=(rid,))[0] != O[r][l][c]]
+        broken[rid] = [f"{key(r, l, pd)}.{c}" for r, l, cs, pd in SUITE for c in cs if conjugate(r, l, c, off=(rid,), pada=pd)[0] != ora(r, l, pd)[c]]
     vacuous = [r for r in IDS if not broken[r] and r not in SURFACE_COINCIDENT]
-    cells = sum(len(cs) for _, _, cs in SUITE)
-    checks = {"all_325_cells_equal_the_certified_oracles": not mism, "every_rule_row_is_load_bearing_on_the_suite_except_the_declared_surface_coincident": not vacuous}
+    cells = sum(len(cs) for _, _, cs, _ in SUITE)
+    checks = {"all_404_cells_equal_the_oracles": not mism, "every_rule_row_is_load_bearing_on_the_suite_except_the_declared_surface_coincident": not vacuous}
     paths = {k: conjugate(*k.split("."))[1] for k in ("bhū.laṭ.1s", "gam.laṅ.3p", "nī.loṭ.2s", "bhū.liṅ.3p", "labh.laṭ.3d", "edh.laṅ.1s", "labh.loṭ.1d", "labh.liṅ.3s")}
     return {"checks": checks, "cells": cells, "mismatches": mism, "broken_counts": {r: len(b) for r, b in broken.items()}, "broken": broken, "vacuous_rows": vacuous, "surface_coincident": SURFACE_COINCIDENT, "forms": forms, "paths": paths}
 
@@ -318,14 +373,15 @@ def build_certificate() -> dict[str, Any]:
         "schema": "rkf.ting_rule_table_engine_candidate.v1", "status": status, "sources": SOURCES, "rule_order": IDS, "roots": ROOTS,
         "claim_boundary": {
             "proved_by_exact_finite_certificate": [
-                f"one rule table of {len(IDS)} rows (each a quoted sūtra as guard + action) and one driver reproduce the 325 cells of the certified paradigms of bhū, gam, nī, kṛ (parasmaipada) and edh, labh (ātmanepada) — the present system laṭ, laṅ, loṭ, vidhiliṅ (180 cells: theorum/64, 66, 95, 96, 99), the ārdhadhātuka lṛṭ, luṭ, āśīrliṅ, luṅ (125 cells: theorum/97, 101, 112, 115, 116, 117) and liṭ (20 cells: theorum/102) — exactly from the earlier pinned packets; every row is load-bearing on at least one cell (per-row broken sets recorded)",
+                f"one rule table of {len(IDS)} rows (each a quoted sūtra as guard + action) and one driver reproduce the 325 cells of the certified paradigms of bhū, gam, nī, kṛ (parasmaipada) and edh, labh (ātmanepada) — the present system laṭ, laṅ, loṭ, vidhiliṅ (180 cells: theorum/64, 66, 95, 96, 99), the ārdhadhātuka lṛṭ, luṭ, āśīrliṅ, luṅ (125 cells: theorum/97, 101, 112, 115, 116, 117) and liṭ (20 cells: theorum/102) — exactly from the earlier pinned packets, and the 79 laṭ cells of the vikaraṇa classes (pac; div, siv, śam; tud, nud; cur; su, ci, śru, āp, śak; tan, kṛ; krī, pū, lū) declared from the grammar-verification branch's quoted present tables (Kāśikā / Kaumudī anchors in research/panini_grammar/vikarana_lat and non_thematic_lat); every row is load-bearing on at least one cell (per-row broken sets recorded)",
                 "the sārvadhātuka / ārdhadhātuka split is the lakāra set (3.4.113 / 3.4.114 / 3.4.116): śap only before the present system, sya / tās / sic / aṅ as the vikaraṇa segment, iṭ (7.2.35) as its own segment for the seṭ roots (bhū, edh: declared from the Dhātupāṭha accent; nī, labh aniṭ by 7.2.10; gam by 7.2.58 before sya), the kit of āśīrliṅ (3.4.104) as a predicate that turns 7.3.84 off; 8.3.59 reads the segment boundaries (affix / augment s after iṇ, not the pada-final s: 8.3.55)",
+                "the vikaraṇa classes (theorum/132): the vikaraṇa is a row (3.1.25 ṇic, 3.1.69 śyan, 3.1.73 śnu with 3.1.74, 3.1.77 śa, 3.1.79 u, 3.1.81 śnā) and its ś-it-ness a state predicate: a śit vikaraṇa is sārvadhātuka (3.4.113) and, apit, ṅidvat (1.2.4) — so 7.3.84 / 7.3.86 are off the root (sunoti, tudati) — while the ś-less u and ṇic are ārdhadhātuka (3.4.114) and take the guṇa (karoti, corayati); the aṅga-final u takes 7.3.84 before the pit tiṅ only (sunoti / sunutaḥ); 6.4.110 / 6.4.108 for kṛ, 6.4.107 (lopa branch realised, the other recorded), 6.4.77 / 6.4.87 by the conjunct test, 6.4.112 / 6.4.113 for śnā, 7.3.80 for the pvādi, 8.2.77 / 7.3.74 for śyan, 8.4.2 across the root",
                 "liṭ: the abhyāsa is a segment (6.1.8 with 6.1.1 / 6.1.4; 7.4.59, 7.4.62, 7.4.66, 7.4.73, 8.4.54 as rows on it), 1.2.5's kit as a predicate (ṇal pit by 1.1.56 as tip's substitute: vṛddhi 7.2.115 / 7.2.116; the kit cells: 1.1.5, 6.4.98, 6.1.77), 6.4.88's vuk before 7.2.115 (babhūva, not *babhāva), 7.2.13 as a flag that 7.2.35 reads (cakṛva)",
                 "bhūyāt: the s of yās is dropped by 8.2.29 (the pada-final conjunct) and kept in bhūyāstām / bhūyāsuḥ; theorum/115 reached the same three forms with 7.2.79 on the 3s cell — the forms agree, the rule attribution differs, and this table's attribution is the one recorded here (7.2.79 is the sārvadhātuka rule and does not reach āśīrliṅ)",
                 "the lakāra-specific substitutions of 3.4.77–3.4.113 are rows; the ṅit-ness of the apit sārvadhātuka (1.2.4) and of liṅ (3.4.103) is a state predicate, not a row; 3.4.85 loṭo laṅvat is realised as loṭ in the guards of 3.4.99 / 3.4.101",
                 "3.4.92's āṭ makes 7.3.101 vacuous on the loṭ uttama dual / plural (bhavāva by either): the table keeps 7.3.101 off where āṭ fired; 3.4.92 is therefore surface-coincident on this suite and is declared so (not counted as load-bearing, not hidden)",
             ],
-            "NOT_claimed": ["7.4.60 halādiḥ śeṣaḥ (no cluster-initial root in the certified liṭ oracle; the row would be vacuous and is not in the table), liṭ ātmanepada (3.4.81), the thal / athus / a cells and 1.2.6 / 7.2.62 options", "the ground for the absence of iṭ before the parasmaipada yāsuṭ (bhūyāt, not *bhaviyāt) is taken from the certified forms of theorum/115, not derived (the 7.2.35 row is guarded off that segment)", "liṭ, lṛṅ, luṭ of gam (not in the earlier oracle), the full ātmanepada paradigms where the earlier packets certified six / four cells (the table is checked on exactly the certified cells)", "the other gaṇas (the vikaraṇas other than śap), ārdhadhātuka lakāras (liṭ, luṭ, lṛṭ, luṅ, āśīrliṅ: theorum/97, 101, 102, 112, 115–117 remain per-packet until they are rows here), the passive (yak), the derived stems (ṇic, san, yaṅ), accent (udātta of 3.4.103 / 6.4.71), RH, YM"],
+            "NOT_claimed": ["the vikaraṇa-class cells beyond those quoted (the full paradigms of su, kṛ, krī …), the 3.1.70 / 3.1.82 options, adādi (śap-luk) and juhotyādi (ślu), rudhādi (śnam), the ātmanepada 1.3.72 ground of each ubhayapadin cell (the pada is declared with the cell), the second branch of 6.4.107 as set-valued output", "7.4.60 halādiḥ śeṣaḥ (no cluster-initial root in the certified liṭ oracle; the row would be vacuous and is not in the table), liṭ ātmanepada (3.4.81), the thal / athus / a cells and 1.2.6 / 7.2.62 options", "the ground for the absence of iṭ before the parasmaipada yāsuṭ (bhūyāt, not *bhaviyāt) is taken from the certified forms of theorum/115, not derived (the 7.2.35 row is guarded off that segment)", "liṭ, lṛṅ, luṭ of gam (not in the earlier oracle), the full ātmanepada paradigms where the earlier packets certified six / four cells (the table is checked on exactly the certified cells)", "the other gaṇas (the vikaraṇas other than śap), ārdhadhātuka lakāras (liṭ, luṭ, lṛṭ, luṅ, āśīrliṅ: theorum/97, 101, 102, 112, 115–117 remain per-packet until they are rows here), the passive (yak), the derived stems (ṇic, san, yaṅ), accent (udātta of 3.4.103 / 6.4.71), RH, YM"],
         },
         "checks": checks, **packets,
     }

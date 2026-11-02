@@ -1481,7 +1481,7 @@ proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `ed7d4ef420ae9f09c27c893e21a3dae232365ca0bfde5c5f1bc5ad3c152702b9` |
+| Canonical result SHA-256 | `a514d5ff0e0d498cdd663d02103b3a4934867ab1d692b12e55f91f83907f7f0d` |
 | Boundary | bhvādi present system: bhū, gam, nī, edh, labh × laṭ, laṅ, loṭ, liṅ; 180 cells from 40 rows |
 
 ```text
@@ -1497,7 +1497,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine II |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `ed7d4ef420ae9f09c27c893e21a3dae232365ca0bfde5c5f1bc5ad3c152702b9` |
+| Canonical result SHA-256 | `a514d5ff0e0d498cdd663d02103b3a4934867ab1d692b12e55f91f83907f7f0d` |
 | Boundary | lṛṭ, luṭ, āśīrliṅ, luṅ of bhū, gam, nī, edh, labh on the certified cells; 125 cells from 23 rows; 63 rows on 305 cells |
 
 ```text
@@ -1513,11 +1513,27 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine III |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `ed7d4ef420ae9f09c27c893e21a3dae232365ca0bfde5c5f1bc5ad3c152702b9` |
+| Canonical result SHA-256 | `a514d5ff0e0d498cdd663d02103b3a4934867ab1d692b12e55f91f83907f7f0d` |
 | Boundary | liṭ of bhū, gam, kṛ, nī on the 20 certified cells from 12 rows; the abhyāsa as a segment; 75 rows on 325 cells |
 
 ```text
 theorum/131_ting_rule_table_engine_lit_theorem.md
+proof_lab/ting_rule_table_engine.py
+proof_lab/test_ting_rule_table_engine.py
+proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
+```
+
+## Theorem 132 Tiṅ Rule-Table Engine IV packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Tiṅ Rule-Table Engine IV |
+| Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
+| Canonical result SHA-256 | `a514d5ff0e0d498cdd663d02103b3a4934867ab1d692b12e55f91f83907f7f0d` |
+| Boundary | the vikaraṇa classes (śyan, śa, śnu, u, śnā, ṇic) on 79 quoted laṭ cells of seventeen roots; 96 rows on 404 cells |
+
+```text
+theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md
 proof_lab/ting_rule_table_engine.py
 proof_lab/test_ting_rule_table_engine.py
 proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256

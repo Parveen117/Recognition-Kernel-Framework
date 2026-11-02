@@ -178,6 +178,7 @@ Use the audited [publication copy](theorum/morphic_algebra/main.tex) for mathema
 | Tiṅ rule-table engine | [T129](theorum/129_ting_rule_table_engine_theorem.md) | the present system of five roots in four lakāras from one 40-row table; 180 cells |
 | Tiṅ rule-table engine II | [T130](theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md) | lṛṭ, luṭ, āśīrliṅ, luṅ from 23 rows; 63 rows, 305 cells |
 | Tiṅ rule-table engine III | [T131](theorum/131_ting_rule_table_engine_lit_theorem.md) | liṭ with the abhyāsa as a segment from twelve rows; 75 rows, 325 cells |
+| Tiṅ rule-table engine IV | [T132](theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md) | the vikaraṇa classes with ś-it-ness as the guṇa predicate; 96 rows, 404 cells |
 | Pāṇinian cut-module algebra | [T56](theorum/56_canvas_operators_nativized_theorem.md), [T58](theorum/58_paninian_seam_calculus_theorem.md), [T60](theorum/60_seam_compensated_confluence_verdict_theorem.md), [T61](theorum/61_rewrite_rules_as_cut_module_operators_theorem.md) | finite declared carriers and rule sets |
 | Grammar carriers | [T63–68](#theorems-58-77-paninian-domain-yang-mills-tool-and-semantic-chain) | exact finite nominal, verbal, sandhi, and kāraka/vibhakti carriers |
 | Obligation and evidence ladders | [T69](theorum/69_mimamsa_obligation_closure_theorem.md), [T70](theorum/70_angatva_pramana_ladder_theorem.md) | declared Mīmāṃsā/pramāṇa finite models |
@@ -449,6 +450,7 @@ The register below distinguishes theorem capsules from plans, source maps, certi
 | 129 | [Tiṅ Rule-Table Engine](theorum/129_ting_rule_table_engine_theorem.md) | bhvādi present system: bhū, gam, nī, edh, labh × laṭ, laṅ, loṭ, liṅ; 180 cells from 40 rows |
 | 130 | [Tiṅ Rule-Table Engine II](theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md) | lṛṭ, luṭ, āśīrliṅ, luṅ of the five roots on the certified cells; 125 cells from 23 rows |
 | 131 | [Tiṅ Rule-Table Engine III](theorum/131_ting_rule_table_engine_lit_theorem.md) | liṭ of bhū, gam, kṛ, nī on the certified cells; 20 cells from 12 rows |
+| 132 | [Tiṅ Rule-Table Engine IV](theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md) | śyan, śa, śnu, u, śnā, ṇic on 79 quoted laṭ cells of seventeen roots; 22 rows |
 
 ## 7. Parallel theorem registers
 
