@@ -46,7 +46,7 @@ The present lane 5,373 / 5,373, lṛṭ / luṭ / āśīrliṅ 1,845 / 1,854 and
 
 ## 3. Certificate
 
-theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `8b1d51cbe96a8d630bc8121dd9d4b1a8f9707f6eb47b0a1f9bf46ffbca6e1fd5` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pin `46c5b441…` (theorum/144, commit 3de268d) and the chain before it stay in the history. The kernel re-pinned: `proof_lab/PANINI_KERNEL_EXPECTED.sha256` = `1919bac6b5f86201d650de783b9608f97f31eac7ad195882388c5e34f7a758c6` (261 distinct sūtras as rows, 18 shared).
+theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `8b1d51cbe96a8d630bc8121dd9d4b1a8f9707f6eb47b0a1f9bf46ffbca6e1fd5` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); re-pinned again by theorum/146 (luṅ at breadth), commit d5d0994 holds this pin; the previous pin `46c5b441…` (theorum/144, commit 3de268d) and the chain before it stay in the history. The kernel re-pinned: `proof_lab/PANINI_KERNEL_EXPECTED.sha256` = `1919bac6b5f86201d650de783b9608f97f31eac7ad195882388c5e34f7a758c6` (261 distinct sūtras as rows, 18 shared).
 
 ```text
 python -m proof_lab.ting_rule_table_engine
