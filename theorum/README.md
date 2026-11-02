@@ -100,6 +100,7 @@ The advanced numbered surface now runs through Theorem 80:
 50. **122 — source repairs to 119–120 (the PG17 companion review).** Three output channels (licensed / candidate / excluded): an unpinned 2.2.33–34 order is a candidate, not an option; 7.2.15 *yasya vibhāṣā* read as the prohibition it is (a root with optional iṭ elsewhere takes none before niṣṭhā; K21's *yas* pair withdrawn); the initial k of kta is an it by 1.3.8, not 1.3.3; 7.3.52's guard is ghit / ṇyat only (no ṇit ku — pācaka safe); sense as an admissible relation selected by the frame.
 51. **123 — In-Stems Declined.** daṇḍin (22 cells), yaśasvin / grāhin / uṣṇabhojin, the neuter daṇḍi, by 6.4.13 (daṇḍī), 6.4.12 (daṇḍīni), 6.1.68, 8.2.7 on the pada, 8.2.8, 7.1.23 / 7.1.20, 8.3.59, 8.4.2 (grāhiṇau); prathiman on theorum/92's an-carrier — the engine theorum/120 and 121 named as their next target.
 52. **124 — yuṣmad and asmad Declined.** the two personal pronouns, 21 cells each: the maparyanta substitutes 7.2.91–97, the ā / y / lopa of the final 7.2.86–90 (anādeśe), the ending substitutes 7.1.27–33, 6.1.107 / 6.1.101 / 6.1.97; twenty-two ablations.
+53. **125 — the sup rule-table engine.** One table of 64 quoted sūtra rows and one phase-ordered driver reproduce 330 cells of fifteen certified paradigms exactly; every row load-bearing; a new stem class costs rows (sarvā, ātman: two), not a new engine.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -147,7 +148,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-124                           PRESENT
+NUMBERED THEOREM FILES 01-125                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT

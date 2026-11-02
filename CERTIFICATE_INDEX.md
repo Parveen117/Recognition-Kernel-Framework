@@ -1427,6 +1427,22 @@ proof_lab/test_yusmad_asmad_sup_compiled.py
 proof_lab/YUSMAD_ASMAD_SUP_COMPILED_EXPECTED.sha256
 ```
 
+## Theorem 125 The Sup Rule-Table Engine packet
+
+| Field | Value |
+|---|---|
+| Certificate class | one rule table (64 quoted sūtra rows) and one phase-ordered driver reproduce the 330 cells of fifteen certified paradigms (theorum/63, 88, 89, 90, 91, 92, 93, 94, 98, 109, 123) exactly; every row load-bearing on the suite; new classes cost rows, not engines |
+| Status | `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE` |
+| Canonical result SHA-256 | `6263db862e2afba169867a52ae1536c90350728555a05d4d07b89bf992ea5c8d` |
+| Boundary | declared class flags and gender are inputs; option cells compared on the first alternative; Theorem 63's ladder remains the account of conflict |
+
+```text
+theorum/125_sup_rule_table_engine_theorem.md
+proof_lab/sup_rule_table_engine.py
+proof_lab/test_sup_rule_table_engine.py
+proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |
