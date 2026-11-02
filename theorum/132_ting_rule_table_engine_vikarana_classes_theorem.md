@@ -33,7 +33,7 @@ tudati     tud + śa (3.1.77, ṅidvat) → no 7.3.86 → tudati ;  dīvyati: di
 
 ## 3. Certificate
 
-theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `a514d5ff0e0d498cdd663d02103b3a4934867ab1d692b12e55f91f83907f7f0d` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pins `ed7d4ef4…` (theorum/131, commit e638644), `ebdf15ca…`, `e9773755…` stay in the history.
+theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `a514d5ff0e0d498cdd663d02103b3a4934867ab1d692b12e55f91f83907f7f0d` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pins `ed7d4ef4…` (theorum/131, commit e638644), `ebdf15ca…`, `e9773755…` stay in the history. Re-pinned again by theorum/133 (adādi, juhotyādi, rudhādi); commit 3460993 holds this pin.
 
 ```text
 python -m proof_lab.ting_rule_table_engine
