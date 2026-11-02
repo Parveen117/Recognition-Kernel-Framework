@@ -49,7 +49,7 @@ Suite 908 / 908 unchanged; 220 rows, every one load-bearing on the suite or an a
 
 ## 4. Certificate
 
-theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `95d065aec569d09bf8778dd103ffdde33f1c55e9c5ce1e0be0e3679c2d861e28` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pin `8b1d51cb…` (theorum/145, commit d5d0994) and the chain before it stay in the history. The kernel re-pinned: `proof_lab/PANINI_KERNEL_EXPECTED.sha256` = `84f843dfe8a704d1a760708f252ec2c0dd844253e37b6708e539a9c287d34005` (280 distinct sūtras as rows: 90 nominal, 208 verbal, 18 shared).
+theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `95d065aec569d09bf8778dd103ffdde33f1c55e9c5ce1e0be0e3679c2d861e28` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); re-pinned again by theorum/147 (the karmaṇi), commit db16084 holds this pin; the previous pin `8b1d51cb…` (theorum/145, commit d5d0994) and the chain before it stay in the history. The kernel re-pinned: `proof_lab/PANINI_KERNEL_EXPECTED.sha256` = `84f843dfe8a704d1a760708f252ec2c0dd844253e37b6708e539a9c287d34005` (280 distinct sūtras as rows: 90 nominal, 208 verbal, 18 shared).
 
 ```text
 python -m proof_lab.ting_rule_table_engine

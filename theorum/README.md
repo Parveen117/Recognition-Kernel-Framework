@@ -122,6 +122,7 @@ The advanced numbered surface now runs through Theorem 80:
 72. **144 — tiṅ rule-table engine XII.** The Dhātupāṭha pinned (7.2.10 from the accent) and the ārdhadhātuka lane — lṛṭ / luṭ / āśīrliṅ of every declared root, 1,845 / 1,854 each; liṭ / luṅ / lṛṅ measured as the next baseline.
 73. **145 — tiṅ rule-table engine XIII.** liṭ at breadth (1,799 / 1,849: 3.4.81, the periphrastic 3.1.35–40, the vowel-initial abhyāsa, 6.1.17, 6.4.120–123, 7.4.11, 7.1.34, 6.4.64, thal by 7.2.61–63) and lṛṅ (1,845 / 1,854); luṅ the one lakāra left.
 74. **146 — tiṅ rule-table engine XIV.** luṅ at breadth, 1,854 / 1,854 (sic, aṅ, ksa, caṅ and the luk of 2.4.77 as rows; 7.2.1–5, 7.2.72–73, 1.2.11–12, 1.2.17, 8.2.25–28); the kartari tiṅanta closed on the lane — every lakāra of 194 roots.
+75. **147 — tiṅ rule-table engine XV.** The karmaṇi: yak (3.1.67) as a kit vikaraṇa row with 1.3.13, the kit-y rows generalised from āśīrliṅ, 7.4.22, 6.4.44; the passive present system of every declared root, 6,912 / 6,948 on the lane.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -169,7 +170,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-146                           PRESENT
+NUMBERED THEOREM FILES 01-147                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT
