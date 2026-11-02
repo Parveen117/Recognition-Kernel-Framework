@@ -10,11 +10,11 @@
   ],
   "counts": {
     "compiled": 10,
-    "meta": 149,
-    "hand_coded": 237,
-    "cited": 404,
+    "meta": 151,
+    "hand_coded": 246,
+    "cited": 403,
     "misnumbered": 2,
-    "entries": 802,
+    "entries": 812,
     "text_missing": 76,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
@@ -239,6 +239,20 @@
       "theorems": [],
       "cited_in": [
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md"
+      ]
+    },
+    "1.1.24": {
+      "text": "ṣṇāntā ṣaṭ",
+      "text_devanagari": "ष्णान्ता षट्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T127"
+      ],
+      "cited_in": [
+        "proof_lab/sup_rule_table_engine.py",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md"
       ]
     },
     "1.1.26": {
@@ -483,7 +497,8 @@
       "theorems": [
         "T82",
         "T109",
-        "T125"
+        "T125",
+        "T127"
       ],
       "cited_in": [
         "proof_lab/paninian_it_samjna_compiled.py",
@@ -491,6 +506,7 @@
         "proof_lab/ugit_at_stem_sup_compiled.py",
         "theorum/109_ugit_at_stem_sup_compiled_theorem.md",
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
@@ -735,8 +751,10 @@
       ],
       "cited_in": [
         "proof_lab/stem_classes_gayatri_coverage.py",
+        "proof_lab/sup_rule_table_engine.py",
         "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md"
       ]
     },
@@ -6754,6 +6772,7 @@
         "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/121_taddhita_mathematical_construction_theorem.md",
         "theorum/125_sup_rule_table_engine_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
@@ -6906,6 +6925,7 @@
         "theorum/121_taddhita_mathematical_construction_theorem.md",
         "theorum/125_sup_rule_table_engine_theorem.md",
         "theorum/126_sup_rule_table_engine_s_i_u_r_classes_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
@@ -6948,6 +6968,7 @@
         "proof_lab/sup_rule_table_engine.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "theorum/125_sup_rule_table_engine_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
@@ -8037,10 +8058,25 @@
         "proof_lab/sup_rule_table_engine.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "theorum/125_sup_rule_table_engine_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md",
         "theorum/91_ghi_stem_sup_compiled_theorem.md",
         "theorum/93_napumsaka_sup_compiled_theorem.md"
+      ]
+    },
+    "6.4.4": {
+      "text": "na tisṛcatasṛ",
+      "text_devanagari": "न तिसृचतसृ",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T127"
+      ],
+      "cited_in": [
+        "proof_lab/sup_rule_table_engine.py",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md"
       ]
     },
     "6.4.7": {
@@ -8050,11 +8086,14 @@
       "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
-        "T123"
+        "T123",
+        "T127"
       ],
       "cited_in": [
         "proof_lab/in_stem_sup_compiled.py",
-        "theorum/123_in_stem_sup_compiled_theorem.md"
+        "proof_lab/sup_rule_table_engine.py",
+        "theorum/123_in_stem_sup_compiled_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md"
       ]
     },
     "6.4.8": {
@@ -8078,6 +8117,7 @@
         "theorum/123_in_stem_sup_compiled_theorem.md",
         "theorum/125_sup_rule_table_engine_theorem.md",
         "theorum/126_sup_rule_table_engine_s_i_u_r_classes_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md",
         "theorum/92_hal_stem_sup_compiled_theorem.md",
         "theorum/93_napumsaka_sup_compiled_theorem.md"
@@ -9061,6 +9101,7 @@
         "proof_lab/sarvanama_ap_sup_compiled.py",
         "proof_lab/sup_rule_table_engine.py",
         "theorum/125_sup_rule_table_engine_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/88_ap_stem_sup_compiled_theorem.md",
         "theorum/98_sarvanama_ap_sup_compiled_theorem.md"
       ]
@@ -9101,7 +9142,36 @@
         "proof_lab/sup_rule_table_engine.py",
         "theorum/123_in_stem_sup_compiled_theorem.md",
         "theorum/125_sup_rule_table_engine_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/93_napumsaka_sup_compiled_theorem.md"
+      ]
+    },
+    "7.1.21": {
+      "text": "aṣṭābhya auś",
+      "text_devanagari": "अष्टाभ्य औश्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T127"
+      ],
+      "cited_in": [
+        "proof_lab/sup_rule_table_engine.py",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md"
+      ]
+    },
+    "7.1.22": {
+      "text": "ṣaḍbhyo luk",
+      "text_devanagari": "षड्भ्यो लुक्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T127"
+      ],
+      "cited_in": [
+        "proof_lab/sup_rule_table_engine.py",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md"
       ]
     },
     "7.1.23": {
@@ -9279,6 +9349,20 @@
         "theorum/98_sarvanama_ap_sup_compiled_theorem.md"
       ]
     },
+    "7.1.53": {
+      "text": "tres trayaḥ",
+      "text_devanagari": "त्रेस्त्रयः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T127"
+      ],
+      "cited_in": [
+        "proof_lab/sup_rule_table_engine.py",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md"
+      ]
+    },
     "7.1.54": {
       "text": "hrasvanadyāpo nuṭ",
       "text_devanagari": "ह्रस्वनद्यापो नुट्",
@@ -9304,12 +9388,27 @@
         "proof_lab/sup_rule_table_engine.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "theorum/125_sup_rule_table_engine_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/88_ap_stem_sup_compiled_theorem.md",
         "theorum/89_ngi_stem_sup_compiled_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md",
         "theorum/91_ghi_stem_sup_compiled_theorem.md",
         "theorum/93_napumsaka_sup_compiled_theorem.md"
+      ]
+    },
+    "7.1.55": {
+      "text": "ṣaṭcaturbhyaś ca",
+      "text_devanagari": "षट्चतुर्भ्यश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T127"
+      ],
+      "cited_in": [
+        "proof_lab/sup_rule_table_engine.py",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md"
       ]
     },
     "7.1.70": {
@@ -9351,6 +9450,7 @@
         "proof_lab/ugit_at_stem_sup_compiled.py",
         "theorum/109_ugit_at_stem_sup_compiled_theorem.md",
         "theorum/125_sup_rule_table_engine_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/93_napumsaka_sup_compiled_theorem.md"
       ]
     },
@@ -9427,6 +9527,20 @@
         "theorum/126_sup_rule_table_engine_s_i_u_r_classes_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md"
+      ]
+    },
+    "7.1.98": {
+      "text": "caturanaḍuhor ām udāttaḥ",
+      "text_devanagari": "चतुरनडुहोरामुदात्तः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T127"
+      ],
+      "cited_in": [
+        "proof_lab/sup_rule_table_engine.py",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md"
       ]
     },
     "7.1.100": {
@@ -9761,6 +9875,20 @@
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
     },
+    "7.2.84": {
+      "text": "aṣṭana ā vibhaktau",
+      "text_devanagari": "अष्टन आ विभक्तौ",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T127"
+      ],
+      "cited_in": [
+        "proof_lab/sup_rule_table_engine.py",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md"
+      ]
+    },
     "7.2.86": {
       "text": "yuṣmadasmador anādeśe",
       "text_devanagari": "युष्मदस्मदोरनादेशे",
@@ -9941,6 +10069,34 @@
         "theorum/124_yusmad_asmad_sup_compiled_theorem.md"
       ]
     },
+    "7.2.99": {
+      "text": "tricaturoḥ striyāṁ tisṛcatasṛ",
+      "text_devanagari": "त्रिचतुरोः स्त्रियां तिसृचतसृ",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T127"
+      ],
+      "cited_in": [
+        "proof_lab/sup_rule_table_engine.py",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md"
+      ]
+    },
+    "7.2.100": {
+      "text": "aci ra ṛtaḥ",
+      "text_devanagari": "अचि र ऋतः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T127"
+      ],
+      "cited_in": [
+        "proof_lab/sup_rule_table_engine.py",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md"
+      ]
+    },
     "7.2.102": {
       "text": "tyadādīnām aḥ",
       "text_devanagari": "त्यदादीनामः",
@@ -9952,7 +10108,8 @@
         "T67",
         "T94",
         "T98",
-        "T113"
+        "T113",
+        "T127"
       ],
       "cited_in": [
         "proof_lab/pada_to_line_external_sandhi.py",
@@ -9960,8 +10117,10 @@
         "proof_lab/sarvanama_ap_sup_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/stem_classes_gayatri_coverage.py",
+        "proof_lab/sup_rule_table_engine.py",
         "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md",
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
         "theorum/94_sarvanama_sup_compiled_theorem.md",
         "theorum/98_sarvanama_ap_sup_compiled_theorem.md"
@@ -11234,6 +11393,7 @@
         "theorum/121_taddhita_mathematical_construction_theorem.md",
         "theorum/123_in_stem_sup_compiled_theorem.md",
         "theorum/125_sup_rule_table_engine_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md",
         "theorum/92_hal_stem_sup_compiled_theorem.md"
@@ -11420,6 +11580,7 @@
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md",
         "theorum/121_taddhita_mathematical_construction_theorem.md",
         "theorum/125_sup_rule_table_engine_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
         "theorum/92_hal_stem_sup_compiled_theorem.md"
       ]
@@ -11630,6 +11791,7 @@
         "theorum/124_yusmad_asmad_sup_compiled_theorem.md",
         "theorum/125_sup_rule_table_engine_theorem.md",
         "theorum/126_sup_rule_table_engine_s_i_u_r_classes_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
@@ -11749,6 +11911,7 @@
         "theorum/124_yusmad_asmad_sup_compiled_theorem.md",
         "theorum/125_sup_rule_table_engine_theorem.md",
         "theorum/126_sup_rule_table_engine_s_i_u_r_classes_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
@@ -12096,6 +12259,7 @@
         "theorum/123_in_stem_sup_compiled_theorem.md",
         "theorum/125_sup_rule_table_engine_theorem.md",
         "theorum/126_sup_rule_table_engine_s_i_u_r_classes_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
@@ -12165,18 +12329,21 @@
       "theorems": [
         "T101",
         "T116",
-        "T117"
+        "T117",
+        "T127"
       ],
       "cited_in": [
         "proof_lab/asirlin_atmanepada_compiled.py",
         "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/lun_parasmaipada_compiled.py",
+        "proof_lab/sup_rule_table_engine.py",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
         "theorum/116_atmanepada_lun_compiled_theorem.md",
         "theorum/117_asirlin_atmanepada_compiled_theorem.md",
         "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md",
-        "theorum/120_krt_mathematical_construction_theorem.md"
+        "theorum/120_krt_mathematical_construction_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md"
       ]
     },
     "8.4.45": {
@@ -12184,13 +12351,17 @@
       "text_devanagari": "यरोऽनुनासिकेऽनुनासिको वा",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "hand_coded",
+      "theorems": [
+        "T127"
+      ],
       "cited_in": [
         "proof_lab/shaiva_sources_nativized.py",
+        "proof_lab/sup_rule_table_engine.py",
         "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md",
         "theorum/122_krt_samasa_source_repairs_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md"
       ]
     },
@@ -12290,7 +12461,8 @@
       "level": "hand_coded",
       "theorems": [
         "T65",
-        "T92"
+        "T92",
+        "T127"
       ],
       "cited_in": [
         "proof_lab/hal_stem_sup_compiled.py",
@@ -12299,6 +12471,7 @@
         "proof_lab/ugit_at_stem_sup_compiled.py",
         "theorum/109_ugit_at_stem_sup_compiled_theorem.md",
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md",
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
         "theorum/92_hal_stem_sup_compiled_theorem.md"
       ]

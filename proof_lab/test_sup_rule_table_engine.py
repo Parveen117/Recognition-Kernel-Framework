@@ -4,7 +4,7 @@ import hashlib
 import unittest
 from pathlib import Path
 
-from proof_lab.sup_rule_table_engine import SUITE, SUP, build_certificate, canonical_bytes, certificate_sha256, oracles, paradigm
+from proof_lab.sup_rule_table_engine import suite_paradigm, SUITE, SUP, build_certificate, canonical_bytes, certificate_sha256, oracles, paradigm
 
 EXPECTED = Path(__file__).with_name("SUP_RULE_TABLE_ENGINE_EXPECTED.sha256")
 
@@ -18,7 +18,7 @@ class T125Tests(unittest.TestCase):
     def test_suite_equals_the_certified_oracles(self) -> None:
         O = oracles()
         for n in SUITE:
-            self.assertEqual(paradigm(*SUITE[n][:3]), O[n], n)
+            self.assertEqual(suite_paradigm(n), O[n], n)
 
     def test_certificate_pin(self) -> None:
         payload = build_certificate()

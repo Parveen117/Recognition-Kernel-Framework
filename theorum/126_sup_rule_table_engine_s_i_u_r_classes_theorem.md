@@ -20,7 +20,7 @@
 
 ## 3. Certificate
 
-The certificate is theorum/125's module, re-pinned: `proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256` = `3a7b26cd6c4c72ff78692333c9d5db5793718123f1cbaa9427e0acc09fd4a163` (status `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE`); the previous pin `6263db862e2afba169867a52ae1536c90350728555a05d4d07b89bf992ea5c8d` is in the history (commit bb9d8d4).
+The certificate is theorum/125's module, re-pinned: `proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256` = `3a7b26cd6c4c72ff78692333c9d5db5793718123f1cbaa9427e0acc09fd4a163` (status `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE`); the previous pin `6263db862e2afba169867a52ae1536c90350728555a05d4d07b89bf992ea5c8d` is in the history (commit bb9d8d4). Re-pinned again by theorum/127 (numerals), commit 671a790 holds this pin.
 
 ```text
 python -m proof_lab.sup_rule_table_engine
