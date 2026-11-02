@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG23 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG24 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG23 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG24 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,47 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG24: consonant modals, ending descent and minimal observer repair
+
+[PG24](research/panini_grammar/consonant_modals/README.md) constructs
+ordinary loṭ, vidhiliṅ and blessing-loṭ for eight exact roots and
+twelve qualified pada profiles. Its [domain](research/panini_grammar/consonant_modals/DOMAIN_AND_ENDINGS.md)
+retains directed ending descent: īḍ/īś loṭ dhvam carries dhve
+ancestry, while the original laṅ query control does not. The control
+is not an additional paradigm. [Augments and stems](research/panini_grammar/consonant_modals/STEMS_AND_AUGMENTS.md)
+derive the host-qualified iṭ and mṛj's strong, weak-vowel optional
+and weak-consonant partitions. The optative retains mṛjyāt.
+
+[Contact derivations](research/panini_grammar/consonant_modals/CONSONANT_READOUT.md)
+distinguish duh/dih's plain dhi from dhv, retain lih's root-owned
+ḍh-lopa cause and local ṣṭutva permission, and derive the remaining
+retroflex/voicing contacts. The [complete register](research/panini_grammar/consonant_modals/PARADIGMS.md)
+has **324 new positions /336 written readings**, including two extra
+weak-vowel readings and ten added tāt readings. No additional optional
+8.4.65 collapse is admitted on this domain.
+
+The [native construction](research/panini_grammar/consonant_modals/NATIVE_CONSONANT.md)
+starts on the full history carrier with pairing and complementary
+cuts. It proves typed zero-recovery and a sharp **three-coordinate
+linear repair bound** for the stated six-history observer and its
+three source eligibility cuts. This is not a universal storage bound
+or a nonlinear-encoding theorem.
+
+[Coverage](research/panini_grammar/consonant_modals/COVERAGE.json)
+extends the cumulative verbal position inventory to **8,083**. All
+selected operative IDs already occur in PG23's combined register,
+so bounded rule reach remains **569/3,983**, not whole-grammar closure.
+[Sources](research/panini_grammar/consonant_modals/SOURCE_REVIEW.md),
+[literal extracts](research/panini_grammar/consonant_modals/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/consonant_modals/SOURCE_PINS.json)
+preserve source choices and damaged spellings.
+[Companion integration](research/panini_grammar/consonant_modals/COMPANION_UPDATE.md)
+uses unchanged T142 and distinguishes its mṛj residual label from
+the selected primary account. The [work/frontier record](research/panini_grammar/consonant_modals/WORK_RECORD.md)
+sets the larger written-grammar work queue. Grammar, navigation and
+canonical-engine reruns remain deferred by owner priority; no new
+runtime PASS, formal verification or whole-grammar completion is claimed.
 
 ## PG23: lexical modal exceptions, effective markers and combined progress
 

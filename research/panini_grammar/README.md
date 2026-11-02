@@ -294,6 +294,22 @@ with overlapping cells and merely cited rules kept out of the developed
 totals. The 569/3,983 ratio is rule reach, not whole-grammar completion.
 [Work record](lexical_modals/WORK_RECORD.md) retains the deferred-test boundary.
 
+**Consonant modals and directed ending descent:**
+[PG24](consonant_modals/README.md) adds dviṣ, duh/dih/lih, īḍ/īś,
+vas and mṛj: eight exact roots /twelve qualified pada profiles and
+**324 positions /336 written readings**. It constructs host-qualified
+iṭ, the weak-vowel mṛj option, dhv-sensitive bhaṣ and mandatory
+root-owned ḍh-lopa/lengthening. The [native theorem](consonant_modals/NATIVE_CONSONANT.md)
+proves typed zero-recovery and a sharp three-coordinate linear repair
+bound for its stated six-history observer.
+[Coverage](consonant_modals/COVERAGE.json) raises the written verbal
+inventory to **8,083 positions** while bounded rule-ID reach stays
+**569**; new contexts reuse those IDs. [Sources](consonant_modals/SOURCE_REVIEW.md)
+and [T142 handoff](consonant_modals/COMPANION_UPDATE.md) keep primary
+adjudication separate from runtime comparison labels.
+[Work and the full-grammar queue](consonant_modals/WORK_RECORD.md)
+retain the owner's written-first priority and deferred verification.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

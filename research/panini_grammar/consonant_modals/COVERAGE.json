@@ -1,0 +1,123 @@
+{
+  "schema": "rkf.panini.pg24.coverage.v1",
+  "author": "Monty",
+  "date": "2026-11-02",
+  "evidence_status": "WRITTEN_SOURCE_RELATIVE_CONSTRUCTION_NOT_EXECUTED_OR_FORMALIZED",
+  "prior_progress": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "0d51343416b5b351b225487367f9f6460c555597",
+    "path": "research/panini_grammar/lexical_modals/PROGRESS_REGISTER.json",
+    "sha256": "876a98b774a8754743e942ab5767c73ed9592dfa68e44b55abc01f94fab47270",
+    "bytes": 191230
+  },
+  "companion_commit": "88244828de1ed8504886ce61c6fc15fd5df85aa6",
+  "exact_root_ids": [
+    "1020003",
+    "1020004",
+    "1020005",
+    "1020006",
+    "1020009",
+    "1020010",
+    "1020013",
+    "1020061"
+  ],
+  "exact_roots": 8,
+  "pada_profiles": 12,
+  "P_profiles": 5,
+  "A_profiles": 7,
+  "position_key": [
+    "root_entry",
+    "sense",
+    "formation",
+    "voice",
+    "qualified_pada",
+    "lakara_meaning_profile",
+    "person",
+    "number"
+  ],
+  "new_moods": [
+    {
+      "id": "I",
+      "meaning": "ordinary non-āśīs loṭ",
+      "positions": 108,
+      "readings": 109,
+      "extra_weak_vowel_readings": 1,
+      "extra_tatang_readings": 0
+    },
+    {
+      "id": "O",
+      "meaning": "admitted vidhiliṅ",
+      "positions": 108,
+      "readings": 108,
+      "extra_weak_vowel_readings": 0,
+      "extra_tatang_readings": 0
+    },
+    {
+      "id": "B",
+      "meaning": "supplied āśīs with loṭ",
+      "positions": 108,
+      "readings": 119,
+      "extra_weak_vowel_readings": 1,
+      "extra_tatang_readings": 10
+    }
+  ],
+  "new_positions": 324,
+  "new_readings": 336,
+  "through_pg23_positions": 7759,
+  "through_pg24_positions": 8083,
+  "executed_grammar_cells": 0,
+  "overlap_policy": "B ordinary words overlap I, but meaning profiles differ. Branch readings and companion overlapping comparison cells are not added to positions. The isolated laṅ query control is not counted.",
+  "bounded_rule_reach": {
+    "prior_distinct_ids": 569,
+    "pg24_selected_operative_ids": [
+      "1.1.5",
+      "1.2.4",
+      "1.3.12",
+      "1.3.72",
+      "1.3.78",
+      "2.4.72",
+      "3.4.79",
+      "3.4.80",
+      "3.4.91",
+      "3.4.92",
+      "3.4.103",
+      "6.1.96",
+      "6.3.111",
+      "6.4.101",
+      "7.1.35",
+      "7.2.77",
+      "7.2.78",
+      "7.2.114",
+      "7.3.86",
+      "8.2.25",
+      "8.2.31",
+      "8.2.32",
+      "8.2.36",
+      "8.2.37",
+      "8.2.40",
+      "8.2.41",
+      "8.3.13",
+      "8.3.59",
+      "8.4.1",
+      "8.4.2",
+      "8.4.41",
+      "8.4.53",
+      "8.4.55",
+      "8.4.65"
+    ],
+    "new_distinct_ids": [],
+    "through_pg24_distinct_ids": 569,
+    "denominator": 3983,
+    "ratio_percent": 14.286,
+    "meaning": "Documented bounded rule reach including declared implementation labels and selected written clauses; not all-context or whole-grammar closure.",
+    "commentary_location_ids_not_added_as_pg24_operations": [
+      "3.4.112",
+      "6.4.66",
+      "7.3.72"
+    ],
+    "varttika_policy": "The weak-vowel mṛj clause adds contextual depth, not a new numbered sūtra ID."
+  },
+  "overall_grammar_completion_percent": null,
+  "whole_grammar_status": "OPEN; 100% is the owner target, not an achieved claim.",
+  "verification_status": "NOT_RUN_OWNER_PRIORITIZED_MATHEMATICAL_GRAMMAR"
+}
