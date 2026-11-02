@@ -1481,7 +1481,7 @@ proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `ebdf15ca806c7afe937fe0dd55389359ebe3954f02b0b44878b9f0eed0cb8f14` |
+| Canonical result SHA-256 | `ed7d4ef420ae9f09c27c893e21a3dae232365ca0bfde5c5f1bc5ad3c152702b9` |
 | Boundary | bhvādi present system: bhū, gam, nī, edh, labh × laṭ, laṅ, loṭ, liṅ; 180 cells from 40 rows |
 
 ```text
@@ -1497,11 +1497,27 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine II |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `ebdf15ca806c7afe937fe0dd55389359ebe3954f02b0b44878b9f0eed0cb8f14` |
+| Canonical result SHA-256 | `ed7d4ef420ae9f09c27c893e21a3dae232365ca0bfde5c5f1bc5ad3c152702b9` |
 | Boundary | lṛṭ, luṭ, āśīrliṅ, luṅ of bhū, gam, nī, edh, labh on the certified cells; 125 cells from 23 rows; 63 rows on 305 cells |
 
 ```text
 theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md
+proof_lab/ting_rule_table_engine.py
+proof_lab/test_ting_rule_table_engine.py
+proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
+```
+
+## Theorem 131 Tiṅ Rule-Table Engine III packet
+
+| Field | Value |
+|---|---|
+| Certificate class | Tiṅ Rule-Table Engine III |
+| Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
+| Canonical result SHA-256 | `ed7d4ef420ae9f09c27c893e21a3dae232365ca0bfde5c5f1bc5ad3c152702b9` |
+| Boundary | liṭ of bhū, gam, kṛ, nī on the 20 certified cells from 12 rows; the abhyāsa as a segment; 75 rows on 325 cells |
+
+```text
+theorum/131_ting_rule_table_engine_lit_theorem.md
 proof_lab/ting_rule_table_engine.py
 proof_lab/test_ting_rule_table_engine.py
 proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256

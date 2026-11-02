@@ -10,12 +10,12 @@
   ],
   "counts": {
     "compiled": 10,
-    "meta": 154,
+    "meta": 155,
     "hand_coded": 255,
-    "cited": 403,
+    "cited": 406,
     "misnumbered": 2,
-    "entries": 824,
-    "text_missing": 79,
+    "entries": 828,
+    "text_missing": 82,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
     "iast_mismatch_with_pinned_edition": 0
@@ -117,6 +117,7 @@
         "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
         "theorum/120_krt_mathematical_construction_theorem.md",
         "theorum/122_krt_samasa_source_repairs_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md"
       ]
     },
@@ -682,12 +683,15 @@
       "level": "meta",
       "theorems": [
         "T88",
-        "T89"
+        "T89",
+        "T131"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/sarvanama_ap_sup_compiled.py",
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md",
         "theorum/88_ap_stem_sup_compiled_theorem.md",
         "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
@@ -964,11 +968,26 @@
       "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
-        "T102"
+        "T102",
+        "T131"
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
-        "theorum/102_lit_parasmaipada_compiled_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md"
+      ]
+    },
+    "1.2.6": {
+      "text": "",
+      "text_devanagari": "इन्धिभवतिभ्यां च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md"
       ]
     },
     "1.2.9": {
@@ -1367,6 +1386,7 @@
         "proof_lab/samasa_compiled.py",
         "proof_lab/stri_pratyaya_compiled.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
+        "proof_lab/ting_rule_table_engine.py",
         "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md",
         "theorum/111_stri_pratyaya_compiled_theorem.md",
@@ -3751,10 +3771,12 @@
       "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
-        "T102"
+        "T102",
+        "T131"
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
+        "proof_lab/ting_rule_table_engine.py",
         "theorum/102_lit_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -4404,6 +4426,18 @@
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
     },
+    "3.4.81": {
+      "text": "",
+      "text_devanagari": "लिटस्तझयोरेशिरेच्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md"
+      ]
+    },
     "3.4.82": {
       "text": "parasmaipadānāṁ ṇalatususthalathusaṇalvamāḥ",
       "text_devanagari": "परस्मैपदानां णलतुसुस्थलथुसणल्वमाः",
@@ -4411,11 +4445,14 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T102"
+        "T102",
+        "T131"
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
-        "theorum/102_lit_parasmaipada_compiled_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md"
       ]
     },
     "3.4.85": {
@@ -4898,6 +4935,19 @@
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/89_ngi_stem_sup_compiled_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
+      ]
+    },
+    "3.4.115": {
+      "text": "liṭ ca",
+      "text_devanagari": "लिट् च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T131"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py"
       ]
     },
     "3.4.116": {
@@ -6598,9 +6648,11 @@
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
         "proof_lab/san_desiderative_compiled.py",
+        "proof_lab/ting_rule_table_engine.py",
         "proof_lab/yan_intensive_compiled.py",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
-        "theorum/106_san_desiderative_compiled_theorem.md"
+        "theorum/106_san_desiderative_compiled_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md"
       ]
     },
     "6.1.2": {
@@ -6626,9 +6678,11 @@
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
         "proof_lab/san_desiderative_compiled.py",
+        "proof_lab/ting_rule_table_engine.py",
         "proof_lab/yan_intensive_compiled.py",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
-        "theorum/106_san_desiderative_compiled_theorem.md"
+        "theorum/106_san_desiderative_compiled_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md"
       ]
     },
     "6.1.8": {
@@ -6638,13 +6692,16 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T102"
+        "T102",
+        "T131"
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
         "proof_lab/san_desiderative_compiled.py",
+        "proof_lab/ting_rule_table_engine.py",
         "proof_lab/yan_intensive_compiled.py",
-        "theorum/102_lit_parasmaipada_compiled_theorem.md"
+        "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md"
       ]
     },
     "6.1.9": {
@@ -6725,6 +6782,7 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
@@ -6916,7 +6974,8 @@
         "T90",
         "T91",
         "T102",
-        "T125"
+        "T125",
+        "T131"
       ],
       "cited_in": [
         "proof_lab/ghi_stem_sup_compiled.py",
@@ -6931,11 +6990,13 @@
         "proof_lab/shaiva_sources_nativized.py",
         "proof_lab/silence_vibration_sutra_flow.py",
         "proof_lab/sup_rule_table_engine.py",
+        "proof_lab/ting_rule_table_engine.py",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
         "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/121_taddhita_mathematical_construction_theorem.md",
         "theorum/125_sup_rule_table_engine_theorem.md",
         "theorum/127_sup_rule_table_engine_numerals_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
@@ -7007,6 +7068,7 @@
         "theorum/128_sup_rule_table_engine_pronouns_theorem.md",
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
@@ -8663,7 +8725,8 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
-        "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md"
+        "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md"
       ]
     },
     "6.4.92": {
@@ -8687,11 +8750,14 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T102"
+        "T102",
+        "T131"
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
-        "theorum/102_lit_parasmaipada_compiled_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md"
       ]
     },
     "6.4.105": {
@@ -9905,11 +9971,14 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T102"
+        "T102",
+        "T131"
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
-        "theorum/102_lit_parasmaipada_compiled_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/102_lit_parasmaipada_compiled_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md"
       ]
     },
     "7.2.14": {
@@ -9995,6 +10064,7 @@
         "theorum/120_krt_mathematical_construction_theorem.md",
         "theorum/122_krt_samasa_source_repairs_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -10071,6 +10141,18 @@
       "theorems": [],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py"
+      ]
+    },
+    "7.2.62": {
+      "text": "",
+      "text_devanagari": "उपदेशेऽत्वतः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md"
       ]
     },
     "7.2.76": {
@@ -10560,17 +10642,20 @@
       "theorems": [
         "T102",
         "T105",
-        "T107"
+        "T107",
+        "T131"
       ],
       "cited_in": [
         "proof_lab/krt_ghan_lyut_nvul_satr_compiled.py",
         "proof_lab/lit_parasmaipada_compiled.py",
         "proof_lab/nic_causative_compiled.py",
+        "proof_lab/ting_rule_table_engine.py",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
         "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md",
         "theorum/120_krt_mathematical_construction_theorem.md",
-        "theorum/122_krt_samasa_source_repairs_theorem.md"
+        "theorum/122_krt_samasa_source_repairs_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md"
       ]
     },
     "7.2.116": {
@@ -10582,17 +10667,20 @@
       "theorems": [
         "T102",
         "T105",
-        "T107"
+        "T107",
+        "T131"
       ],
       "cited_in": [
         "proof_lab/krt_ghan_lyut_nvul_satr_compiled.py",
         "proof_lab/lit_parasmaipada_compiled.py",
         "proof_lab/nic_causative_compiled.py",
+        "proof_lab/ting_rule_table_engine.py",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
         "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md",
         "theorum/120_krt_mathematical_construction_theorem.md",
-        "theorum/122_krt_samasa_source_repairs_theorem.md"
+        "theorum/122_krt_samasa_source_repairs_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md"
       ]
     },
     "7.2.117": {
@@ -11500,15 +11588,18 @@
       "theorems": [
         "T102",
         "T106",
-        "T108"
+        "T108",
+        "T131"
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
         "proof_lab/san_desiderative_compiled.py",
+        "proof_lab/ting_rule_table_engine.py",
         "proof_lab/yan_intensive_compiled.py",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
         "theorum/106_san_desiderative_compiled_theorem.md",
-        "theorum/108_yan_intensive_compiled_theorem.md"
+        "theorum/108_yan_intensive_compiled_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md"
       ]
     },
     "7.4.60": {
@@ -11525,10 +11616,12 @@
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
         "proof_lab/san_desiderative_compiled.py",
+        "proof_lab/ting_rule_table_engine.py",
         "proof_lab/yan_intensive_compiled.py",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
         "theorum/106_san_desiderative_compiled_theorem.md",
-        "theorum/108_yan_intensive_compiled_theorem.md"
+        "theorum/108_yan_intensive_compiled_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md"
       ]
     },
     "7.4.61": {
@@ -11551,15 +11644,18 @@
       "theorems": [
         "T102",
         "T106",
-        "T108"
+        "T108",
+        "T131"
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
         "proof_lab/san_desiderative_compiled.py",
+        "proof_lab/ting_rule_table_engine.py",
         "proof_lab/yan_intensive_compiled.py",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
         "theorum/106_san_desiderative_compiled_theorem.md",
-        "theorum/108_yan_intensive_compiled_theorem.md"
+        "theorum/108_yan_intensive_compiled_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md"
       ]
     },
     "7.4.66": {
@@ -11570,14 +11666,17 @@
       "level": "hand_coded",
       "theorems": [
         "T102",
-        "T106"
+        "T106",
+        "T131"
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
         "proof_lab/san_desiderative_compiled.py",
+        "proof_lab/ting_rule_table_engine.py",
         "proof_lab/yan_intensive_compiled.py",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
-        "theorum/106_san_desiderative_compiled_theorem.md"
+        "theorum/106_san_desiderative_compiled_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md"
       ]
     },
     "7.4.69": {
@@ -11609,14 +11708,17 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T102"
+        "T102",
+        "T131"
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
         "proof_lab/san_desiderative_compiled.py",
+        "proof_lab/ting_rule_table_engine.py",
         "proof_lab/yan_intensive_compiled.py",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
-        "theorum/106_san_desiderative_compiled_theorem.md"
+        "theorum/106_san_desiderative_compiled_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md"
       ]
     },
     "7.4.79": {
@@ -12872,16 +12974,19 @@
       "theorems": [
         "T102",
         "T106",
-        "T108"
+        "T108",
+        "T131"
       ],
       "cited_in": [
         "proof_lab/lit_parasmaipada_compiled.py",
         "proof_lab/san_desiderative_compiled.py",
         "proof_lab/shaiva_sources_nativized.py",
+        "proof_lab/ting_rule_table_engine.py",
         "proof_lab/yan_intensive_compiled.py",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
         "theorum/106_san_desiderative_compiled_theorem.md",
-        "theorum/108_yan_intensive_compiled_theorem.md"
+        "theorum/108_yan_intensive_compiled_theorem.md",
+        "theorum/131_ting_rule_table_engine_lit_theorem.md"
       ]
     },
     "8.4.55": {

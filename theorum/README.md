@@ -106,6 +106,7 @@ The advanced numbered surface now runs through Theorem 80:
 56. **128 — rule-table engine IV.** The tyadādi pronouns tad, etad, yad, tyad, kim, idam in three genders (315 cells) from fourteen new rows and three guard clauses: 7.2.102 atva with 6.1.97 pararūpa and 1.1.52, 7.2.103 sarvādeśa (1.1.55), the feminine ṭāp derived by 4.1.4 on the atva-stem, 7.2.106 with stem-internal 8.3.59 (eṣaḥ), the idam chain 7.2.108–7.2.113 (idamo maḥ as m-for-m blocking the atva; 7.1.11 as a clause of 7.1.9), 7.1.23 luk with 1.1.63 for tat / kim / idam; 93 rows, 861 cells, every row load-bearing; engine re-pinned (old pins in history).
 57. **129 — tiṅ rule-table engine.** The verbal counterpart of 125: one 40-row table (3.4.77–3.4.113 substitutions, śap with 7.3.77 / 6.1.73 / 7.3.84 / 6.1.78, aṭ / āṭ with 6.1.90, yāsuṭ / sīyuṭ with 7.2.79 / 7.2.80, 7.2.81, 6.4.105, 7.3.101, junction, tripādī) and one driver reproduce the 180 certified present-system cells of theorems 64, 66, 95, 96, 99 (bhū, gam, nī parasmaipada; edh, labh ātmanepada; laṭ, laṅ, loṭ, vidhiliṅ); affixes from 3.4.78 by theorem 82 with 1.3.4; ṅit-ness (1.2.4, 3.4.103) as a state predicate; 39 rows load-bearing, 3.4.92 declared surface-coincident.
 58. **130 — tiṅ rule-table engine II.** lṛṭ, luṭ, āśīrliṅ, luṅ of bhū, gam, nī, edh, labh on the cells theorems 97, 101, 112, 115, 116, 117 certified (125 cells) from 23 new rows (3.1.33, 3.1.44 with 2.4.77 / 3.1.55, 2.4.85 with 6.4.143 / 7.4.50–52, 7.2.35 with 7.2.10 / 7.2.58, 7.2.1, 7.3.96, 6.4.88, 3.4.107, 3.4.109, 7.1.5, 8.2.26, 8.2.29, 8.2.40, 8.4.53, 8.4.55, 8.3.59 under 8.3.55, 8.4.41) and three generalisations; iṭ as its own segment; kit of āśīrliṅ as a predicate; 63 rows on 305 cells; bhūyāt by 8.2.29 (theorem 115 used 7.2.79 — forms identical, attribution recorded); engine re-pinned (old pin in history).
+59. **131 — tiṅ rule-table engine III.** liṭ of bhū, gam, kṛ, nī on the 20 cells theorem 102 certified from twelve new rows: the abhyāsa as a segment (6.1.8 with 6.1.1 / 6.1.4; 7.4.59, 7.4.62, 7.4.66, 7.4.73, 8.4.54), 3.4.82, 1.2.5's kit as a predicate with ṇal pit by 1.1.56 (7.2.115 / 7.2.116; 6.4.98, 6.1.77), 6.4.88 ordered before 7.2.115 (babhūva), 7.2.13 as a flag read by 7.2.35 (cakṛva); 75 rows on 325 cells; 7.4.60 not claimed; engine re-pinned (old pins in history).
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -153,7 +154,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-130                           PRESENT
+NUMBERED THEOREM FILES 01-131                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT
