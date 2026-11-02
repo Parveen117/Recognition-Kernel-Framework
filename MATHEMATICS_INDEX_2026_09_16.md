@@ -172,6 +172,7 @@ Use the audited [publication copy](theorum/morphic_algebra/main.tex) for mathema
 | In-Stems Declined | [T123](theorum/123_in_stem_sup_compiled_theorem.md) | in-stems; 22 + 18 + 3 cells; each rule on exactly its cells |
 | yuṣmad and asmad Declined | [T124](theorum/124_yusmad_asmad_sup_compiled_theorem.md) | personal pronouns; 42 cells; each rule on exactly its cells |
 | Sup rule-table engine | [T125](theorum/125_sup_rule_table_engine_theorem.md) | 64 rows, 15 paradigms, 330 cells reproduced; every row load-bearing |
+| Rule-table engine II | [T126](theorum/126_sup_rule_table_engine_s_i_u_r_classes_theorem.md) | manas, mati, dhenu, madhu, pitṛ, mātṛ from five rows; 69 rows, 462 cells |
 | Pāṇinian cut-module algebra | [T56](theorum/56_canvas_operators_nativized_theorem.md), [T58](theorum/58_paninian_seam_calculus_theorem.md), [T60](theorum/60_seam_compensated_confluence_verdict_theorem.md), [T61](theorum/61_rewrite_rules_as_cut_module_operators_theorem.md) | finite declared carriers and rule sets |
 | Grammar carriers | [T63–68](#theorems-58-77-paninian-domain-yang-mills-tool-and-semantic-chain) | exact finite nominal, verbal, sandhi, and kāraka/vibhakti carriers |
 | Obligation and evidence ladders | [T69](theorum/69_mimamsa_obligation_closure_theorem.md), [T70](theorum/70_angatva_pramana_ladder_theorem.md) | declared Mīmāṃsā/pramāṇa finite models |
@@ -437,6 +438,7 @@ The register below distinguishes theorem capsules from plans, source maps, certi
 | 123 | [In-Stems Declined](theorum/123_in_stem_sup_compiled_theorem.md) | in-stems; 22 + 18 + 3 cells |
 | 124 | [yuṣmad and asmad Declined](theorum/124_yusmad_asmad_sup_compiled_theorem.md) | personal pronouns; 42 cells |
 | 125 | [The Sup Rule-Table Engine](theorum/125_sup_rule_table_engine_theorem.md) | shared engine; 64 rows; 330 cells |
+| 126 | [Rule-Table Engine II](theorum/126_sup_rule_table_engine_s_i_u_r_classes_theorem.md) | s / fem i-u / neuter u / kinship ṛ classes; 132 cells from 5 rows |
 
 ## 7. Parallel theorem registers
 

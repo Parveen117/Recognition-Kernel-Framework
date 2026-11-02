@@ -85,7 +85,7 @@
 python -m proof_lab.sup_rule_table_engine
 python -m unittest proof_lab.test_sup_rule_table_engine -v
 ```
-Status `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE`, SHA-256 `6263db862e2afba169867a52ae1536c90350728555a05d4d07b89bf992ea5c8d` (`proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256`).
+Status `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE`, SHA-256 `3a7b26cd6c4c72ff78692333c9d5db5793718123f1cbaa9427e0acc09fd4a163` (`proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256`).
 
 ## 4. Claim boundary
 
@@ -95,3 +95,7 @@ THE DECLARED CLASS FLAGS (āp, nadī, tṛ, an, in, ugit, sarvanāma) AND GENDER
 THE OPTION CELLS (6.4.136 rājan 7s; vāri 8s) AS SET-VALUED OUTPUT; THEOREM 63's RESOLVER LADDER   NOT CLAIMED (the ladder remains the certified account of rule conflict)
 RH, YM                                                                                            UNTOUCHED
 ```
+
+## 5. Note (2 November 2026): the pin moved with Theorem 126
+
+The engine was extended by five rows and six classes (theorum/126); the certificate above is the extended one (69 rows, 462 cells). The 64-row / 330-cell certificate first pinned here is in the history at commit bb9d8d4 (pin `6263db862e2afba169867a52ae1536c90350728555a05d4d07b89bf992ea5c8d`); nothing of the earlier suite changed — its 330 cells are a subset of the 462.

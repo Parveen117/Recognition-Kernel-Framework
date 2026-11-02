@@ -82,7 +82,7 @@ def _norm(s: str) -> str:
 
 # ---------------------------------------------------------------- curated texts (IAST); blank = not yet entered
 TEXT = {
-    "6.1.104": "nādici", "6.1.105": "dīrghāj jasi ca", "7.3.118": "aut", "7.3.119": "ac ca gheḥ", "7.3.120": "āṅo nāstriyām", "8.2.24": "rāt sasya", "6.4.11": "aptṛntṛcsvasṛnaptṛneṣṭṛtvaṣṭṛkṣattṛhotṛpotṛpraśāstṝṇām",
+    "6.1.104": "nādici", "6.1.105": "dīrghāj jasi ca", "7.3.118": "aut", "7.3.119": "ac ca gheḥ", "7.3.120": "āṅo nāstriyām", "8.2.24": "rāt sasya", "6.4.11": "aptṛntṛcsvasṛnaptṛneṣṭṛtvaṣṭṛkṣattṛhotṛpotṛpraśāstṝṇām", "6.4.10": "sāntamahataḥ saṁyogasya", "6.1.114": "haśi ca", "1.4.6": "ṅiti hrasvaś ca", "8.3.36": "vā śari",
     "7.2.86": "yuṣmadasmador anādeśe", "7.2.87": "dvitīyāyāṁ ca", "7.2.88": "prathamāyāś ca dvivacane bhāṣāyām", "7.2.89": "yo 'ci", "7.2.90": "śeṣe lopaḥ", "7.2.91": "maparyantasya", "7.2.92": "yuvāvau dvivacane", "7.2.93": "yūyavayau jasi", "7.2.94": "tvāhau sau", "7.2.95": "tubhyamahyau ṅayi", "7.2.96": "tavamamau ṅasi", "7.2.97": "tvamāv ekavacane", "7.1.27": "yuṣmadasmadbhyāṁ ṅaso 'ś", "7.1.28": "ṅe prathamayor am", "7.1.29": "śaso na", "7.1.30": "bhyaso bhyam", "7.1.31": "pañcamyā at", "7.1.32": "ekavacanasya ca", "7.1.33": "sāma ākam",
     "6.4.7": "nopadhāyāḥ", "6.4.12": "inhanpūṣāryamṇāṁ śau", "6.4.13": "sau ca", "7.1.19": "napuṁsakāc ca", "5.2.115": "ata iniṭhanau", "5.2.121": "asmāyāmedhāsrajo viniḥ", "3.2.78": "supy ajātau ṇinis tācchīlye", "5.1.122": "pṛthvādibhya imanij vā",
     "3.4.102": "liṅaḥ sīyuṭ", "3.4.107": "suṭ tithoḥ", "3.4.105": "jhasya ran", "3.4.106": "iṭo 't",
@@ -191,6 +191,7 @@ COMPILED = {  # theorum/80 record compiler
     "80": ["6.1.77", "6.1.78", "6.1.87", "6.1.88", "6.1.101", "7.3.77", "6.1.73", "6.1.71", "8.4.40", "7.3.84"],
 }
 META = {  # interpreter / saṁjñā / paribhāṣā sūtras implemented by a certificate
+    "126": ["6.4.10", "6.1.114", "8.3.24"],
     "125": ["6.1.104", "1.1.42", "1.1.43", "1.4.17", "1.4.18", "1.4.7", "1.4.3", "1.1.27", "1.1.47", "1.1.46"],
     "124": ["7.2.91", "1.1.52", "1.1.27"],
     "123": ["6.4.7", "1.4.17", "1.1.42", "5.2.115", "5.2.121", "3.1.134", "3.2.78", "5.1.122"],
@@ -332,6 +333,7 @@ THEOREM_FILE = {
     "123": "theorum/123_in_stem_sup_compiled_theorem.md",
     "124": "theorum/124_yusmad_asmad_sup_compiled_theorem.md",
     "125": "theorum/125_sup_rule_table_engine_theorem.md",
+    "126": "theorum/126_sup_rule_table_engine_s_i_u_r_classes_theorem.md",
 }
 SCAN = [THEOREM_FILE[k] for k in THEOREM_FILE] + ["theorum/70_angatva_pramana_ladder_theorem.md", "theorum/74_lopa_ledger_contraction_theorem.md"]
 NUM = re.compile(r"\b([1-8])\.([1-4])\.([0-9]{1,3})\b")
