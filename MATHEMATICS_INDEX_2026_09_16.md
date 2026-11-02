@@ -182,6 +182,7 @@ Use the audited [publication copy](theorum/morphic_algebra/main.tex) for mathema
 | Tiṅ rule-table engine V | [T133](theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md) | adādi, juhotyādi, rudhādi: luk, ślu, the śnam infix; 109 rows, 505 cells |
 | Tiṅ rule-table engine VI | [T134](theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md) | the nasal classes at breadth: 86 entries, eight rows; 115 rows, 596 cells |
 | Tiṅ rule-table engine VII | [T135](theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md) | adādi u- / ā- / i-roots and the juhotyādi at breadth: 38 entries, ten rows; 125 rows, 732 cells |
+| Tiṅ rule-table engine VIII | [T136](theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md) | the adādi consonant roots: 32 entries, nineteen rows; 144 rows, 908 cells |
 | Pāṇinian cut-module algebra | [T56](theorum/56_canvas_operators_nativized_theorem.md), [T58](theorum/58_paninian_seam_calculus_theorem.md), [T60](theorum/60_seam_compensated_confluence_verdict_theorem.md), [T61](theorum/61_rewrite_rules_as_cut_module_operators_theorem.md) | finite declared carriers and rule sets |
 | Grammar carriers | [T63–68](#theorems-58-77-paninian-domain-yang-mills-tool-and-semantic-chain) | exact finite nominal, verbal, sandhi, and kāraka/vibhakti carriers |
 | Obligation and evidence ladders | [T69](theorum/69_mimamsa_obligation_closure_theorem.md), [T70](theorum/70_angatva_pramana_ladder_theorem.md) | declared Mīmāṃsā/pramāṇa finite models |
@@ -457,6 +458,7 @@ The register below distinguishes theorem capsules from plans, source maps, certi
 | 133 | [Tiṅ Rule-Table Engine V](theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md) | luk, ślu, śnam on 101 quoted laṭ cells of fourteen roots; 14 rows |
 | 134 | [Tiṅ Rule-Table Engine VI](theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md) | 86 svādi / tanādi / kryādi entries on 91 quoted cells from eight new rows; 115 rows on 596 cells |
 | 135 | [Tiṅ Rule-Table Engine VII](theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md) | 38 adādi / juhotyādi entries on 136 quoted cells from ten new rows; 125 rows on 732 cells |
+| 136 | [Tiṅ Rule-Table Engine VIII](theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md) | 32 adādi consonant-root entries on 176 quoted cells from nineteen new rows; 144 rows on 908 cells |
 
 ## 7. Parallel theorem registers
 

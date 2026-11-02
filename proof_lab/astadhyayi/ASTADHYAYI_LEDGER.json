@@ -11,11 +11,11 @@
   "counts": {
     "compiled": 10,
     "meta": 157,
-    "hand_coded": 294,
-    "cited": 406,
+    "hand_coded": 312,
+    "cited": 404,
     "misnumbered": 2,
-    "entries": 869,
-    "text_missing": 80,
+    "entries": 885,
+    "text_missing": 82,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
     "iast_mismatch_with_pinned_edition": 0
@@ -3066,7 +3066,8 @@
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
-        "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md"
+        "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
       ]
     },
     "2.4.74": {
@@ -4577,6 +4578,7 @@
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
         "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
@@ -4633,6 +4635,18 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
         "theorum/131_ting_rule_table_engine_lit_theorem.md"
+      ]
+    },
+    "3.4.83": {
+      "text": "",
+      "text_devanagari": "विदो लटो वा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
       ]
     },
     "3.4.85": {
@@ -6869,6 +6883,20 @@
         "theorum/131_ting_rule_table_engine_lit_theorem.md"
       ]
     },
+    "6.1.6": {
+      "text": "jakṣityādayaḥ ṣaṭ",
+      "text_devanagari": "जक्षित्यादयः षट्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T136"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
+      ]
+    },
     "6.1.8": {
       "text": "liṭi dhātor anabhyāsasya",
       "text_devanagari": "लिटि धातोरनभ्यासस्य",
@@ -7280,6 +7308,7 @@
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/131_ting_rule_table_engine_lit_theorem.md",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
@@ -8386,6 +8415,20 @@
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md"
       ]
     },
+    "6.3.111": {
+      "text": "ḍhralope pūrvasya dīrgho 'ṇaḥ",
+      "text_devanagari": "ढ्रलोपे पूर्वस्य दीर्घोऽणः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T136"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
+      ]
+    },
     "6.3.114": {
       "text": "saṁhitāyām",
       "text_devanagari": "संहितायाम्",
@@ -8766,14 +8809,18 @@
       ]
     },
     "6.4.34": {
-      "text": "śāsa idaṅhaloḥ",
+      "text": "śāsa id aṅhaloḥ",
       "text_devanagari": "शास इदङ्हलोः",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "hand_coded",
+      "theorems": [
+        "T136"
+      ],
       "cited_in": [
-        "theorum/120_krt_mathematical_construction_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/120_krt_mathematical_construction_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
       ]
     },
     "6.4.37": {
@@ -8785,14 +8832,17 @@
       "theorems": [
         "T85",
         "T86",
-        "T100"
+        "T100",
+        "T136"
       ],
       "cited_in": [
         "proof_lab/krt_ktva_tumun_tavya_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
+        "proof_lab/ting_rule_table_engine.py",
         "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
         "theorum/120_krt_mathematical_construction_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md"
       ]
@@ -8951,6 +9001,7 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/67_pada_to_line_external_sandhi_theorem.md"
       ]
     },
@@ -9047,7 +9098,8 @@
         "proof_lab/lit_parasmaipada_compiled.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
-        "theorum/131_ting_rule_table_engine_lit_theorem.md"
+        "theorum/131_ting_rule_table_engine_lit_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
       ]
     },
     "6.4.105": {
@@ -9135,7 +9187,8 @@
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
-        "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md"
+        "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
       ]
     },
     "6.4.113": {
@@ -9152,6 +9205,20 @@
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
         "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md"
+      ]
+    },
+    "6.4.114": {
+      "text": "id daridrasya",
+      "text_devanagari": "इद्दरिद्रस्य",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T136"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
       ]
     },
     "6.4.115": {
@@ -9616,6 +9683,7 @@
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md",
@@ -9636,7 +9704,8 @@
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
-        "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md"
+        "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
       ]
     },
     "7.1.5": {
@@ -9657,7 +9726,22 @@
         "theorum/116_atmanepada_lun_compiled_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md"
+      ]
+    },
+    "7.1.6": {
+      "text": "śīṅo ruṭ",
+      "text_devanagari": "शीङो रुट्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T136"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
       ]
     },
     "7.1.9": {
@@ -10612,6 +10696,34 @@
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md"
       ]
     },
+    "7.2.77": {
+      "text": "īśaḥ se",
+      "text_devanagari": "ईशः से",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T136"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
+      ]
+    },
+    "7.2.78": {
+      "text": "īḍajanor dhve ca",
+      "text_devanagari": "ईडजनोर्ध्वे च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T136"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
+      ]
+    },
     "7.2.79": {
       "text": "liṅaḥ salopo 'nantyasya",
       "text_devanagari": "लिङः सलोपोऽनन्त्यस्य",
@@ -11079,6 +11191,20 @@
         "theorum/128_sup_rule_table_engine_pronouns_theorem.md"
       ]
     },
+    "7.2.114": {
+      "text": "mṛjer vṛddhiḥ",
+      "text_devanagari": "मृजेर्वृद्धिः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T136"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
+      ]
+    },
     "7.2.115": {
       "text": "aco ñṇiti",
       "text_devanagari": "अचो ञ्णिति",
@@ -11338,14 +11464,18 @@
       ]
     },
     "7.3.54": {
-      "text": "ho hanterñṇinneṣu",
+      "text": "ho hanter ñṇinneṣu",
       "text_devanagari": "हो हन्तेर्ञ्णिन्नेषु",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "hand_coded",
+      "theorems": [
+        "T136"
+      ],
       "cited_in": [
-        "theorum/120_krt_mathematical_construction_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/120_krt_mathematical_construction_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
       ]
     },
     "7.3.66": {
@@ -11502,6 +11632,7 @@
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
         "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
@@ -11531,7 +11662,8 @@
         "theorum/120_krt_mathematical_construction_theorem.md",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md",
-        "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md"
+        "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
       ]
     },
     "7.3.89": {
@@ -11562,6 +11694,31 @@
         "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md"
       ]
     },
+    "7.3.93": {
+      "text": "bruva īṭ",
+      "text_devanagari": "ब्रुव ईट्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T136"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
+      ]
+    },
+    "7.3.94": {
+      "text": "",
+      "text_devanagari": "यङो वा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py"
+      ]
+    },
     "7.3.95": {
       "text": "turustuśamyamaḥ sārvadhātuke",
       "text_devanagari": "तुरुस्तुशम्यमः सार्वधातुके",
@@ -11589,6 +11746,31 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md"
+      ]
+    },
+    "7.3.98": {
+      "text": "rudaś ca pañcabhyaḥ",
+      "text_devanagari": "रुदश्च पञ्चभ्यः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T136"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
+      ]
+    },
+    "7.3.99": {
+      "text": "",
+      "text_devanagari": "अड्गार्ग्यगालवयोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py"
       ]
     },
     "7.3.101": {
@@ -11963,6 +12145,20 @@
         "theorum/125_sup_rule_table_engine_theorem.md",
         "theorum/126_sup_rule_table_engine_s_i_u_r_classes_theorem.md",
         "theorum/91_ghi_stem_sup_compiled_theorem.md"
+      ]
+    },
+    "7.4.21": {
+      "text": "śīṅaḥ sārvadhātuke guṇaḥ",
+      "text_devanagari": "शीङः सार्वधातुके गुणः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T136"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
       ]
     },
     "7.4.27": {
@@ -12588,7 +12784,8 @@
         "proof_lab/shaiva_sources_nativized.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/116_atmanepada_lun_compiled_theorem.md",
-        "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md"
+        "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
       ]
     },
     "8.2.29": {
@@ -12633,6 +12830,34 @@
         "theorum/92_hal_stem_sup_compiled_theorem.md"
       ]
     },
+    "8.2.31": {
+      "text": "ho ḍhaḥ",
+      "text_devanagari": "हो ढः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T136"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
+      ]
+    },
+    "8.2.32": {
+      "text": "dāder dhātor ghaḥ",
+      "text_devanagari": "दादेर्धातोर्घः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T136"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
+      ]
+    },
     "8.2.34": {
       "text": "naho dhaḥ",
       "text_devanagari": "नहो धः",
@@ -12649,10 +12874,14 @@
       "text_devanagari": "व्रश्चभ्रस्जसृजमृजयजराजभ्राजच्छशां षः",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "hand_coded",
+      "theorems": [
+        "T136"
+      ],
       "cited_in": [
-        "theorum/120_krt_mathematical_construction_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/120_krt_mathematical_construction_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
       ]
     },
     "8.2.37": {
@@ -12660,10 +12889,14 @@
       "text_devanagari": "एकाचो बशो भष् झषन्तस्य स्ध्वोः",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "hand_coded",
+      "theorems": [
+        "T136"
+      ],
       "cited_in": [
-        "proof_lab/shaiva_sources_nativized.py"
+        "proof_lab/shaiva_sources_nativized.py",
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
       ]
     },
     "8.2.38": {
@@ -12729,6 +12962,7 @@
         "theorum/120_krt_mathematical_construction_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md",
         "theorum/87_tripadi_nishtha_compiled_theorem.md"
       ]
@@ -12997,6 +13231,20 @@
         "theorum/79_shaiva_sources_varga_grid_crystal_theorem.md"
       ]
     },
+    "8.3.13": {
+      "text": "ḍho ḍhe lopaḥ",
+      "text_devanagari": "ढो ढे लोपः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T136"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
+      ]
+    },
     "8.3.15": {
       "text": "kharavasānayor visarjanīyaḥ",
       "text_devanagari": "खरवसानयोर्विसर्जनीयः",
@@ -13134,6 +13382,7 @@
         "theorum/126_sup_rule_table_engine_s_i_u_r_classes_theorem.md",
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
         "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -13274,6 +13523,7 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/106_san_desiderative_compiled_theorem.md",
         "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/89_ngi_stem_sup_compiled_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md"
       ]
@@ -13331,6 +13581,7 @@
         "theorum/128_sup_rule_table_engine_pronouns_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/89_ngi_stem_sup_compiled_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md",
@@ -13341,14 +13592,18 @@
       ]
     },
     "8.3.60": {
-      "text": "",
+      "text": "śāsivasighasīnāṁ ca",
       "text_devanagari": "शासिवसिघसीनां च",
       "in_pinned_edition": true,
-      "iast_matches_pinned_edition": null,
-      "level": "cited",
-      "theorems": [],
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T136"
+      ],
       "cited_in": [
-        "theorum/120_krt_mathematical_construction_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/120_krt_mathematical_construction_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
       ]
     },
     "8.3.82": {
@@ -13560,7 +13815,8 @@
         "theorum/120_krt_mathematical_construction_theorem.md",
         "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
-        "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md"
+        "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
       ]
     },
     "8.4.44": {
@@ -13632,6 +13888,7 @@
         "theorum/120_krt_mathematical_construction_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md",
         "theorum/87_tripadi_nishtha_compiled_theorem.md"
       ]
@@ -13695,6 +13952,7 @@
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
         "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/92_hal_stem_sup_compiled_theorem.md"
       ]
     },
@@ -13745,6 +14003,7 @@
         "theorum/109_ugit_at_stem_sup_compiled_theorem.md",
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md",
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
