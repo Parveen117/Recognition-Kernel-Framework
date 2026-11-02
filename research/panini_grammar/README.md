@@ -189,6 +189,22 @@ word collisions with an explicit size bound at zero. [Work record](future_constr
 keeps tests deferred and implemented counts unchanged. [Claude's lane](future_construction/CLAUDE_HANDOFF.md)
 remains samāsa/nominal development while Codex extends verbal formations.
 
+**Dependent future options and retained causative ṇic:**
+[PG17](future_extension/README.md) extends futures by nine basic-root
+entries and twelve inherited causal frames. Its [branch relation](future_extension/DOMAIN_AND_BRANCHES.md)
+derives pada-conditioned iṭ options and exclusions; [root derivations](future_extension/ROOT_DERIVATIONS.md)
+retain the exact lexical and phonetic history. [Causative futures](future_extension/CAUSATIVE_FUTURES.md)
+keep PG14's 21 causal pada profiles, establish outer iṭ and distinguish
+the retained ṇic-i→e→ay operation from augment protection. The
+[paradigm register](future_extension/PARADIGMS.md) specifies 79 branch rows
+and their nine-slot expansions: 612 positions and 711 factorized written
+morphological readings, with no new executed coverage. The [native proof](future_extension/NATIVE_BRANCH_CONSTRUCTION.md)
+constructs the dependent three-branch kṛp operator and proves that even
+the whole P future paradigm fails to separate vṛt/vṛdh, while a forward
+A query separates this pair. [Source review](future_extension/SOURCE_REVIEW.md)
+preserves edition and commentary qualifications; [work and frontier](future_extension/WORK_RECORD.md)
+keep tests deferred and identify bhāva/karma futures as the next domain.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
