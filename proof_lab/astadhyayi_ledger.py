@@ -317,6 +317,7 @@ THEOREM_FILE = {
     "117": "theorum/117_asirlin_atmanepada_compiled_theorem.md",
     "118": "theorum/118_samasa_mathematical_construction_theorem.md",
     "119": "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md",
+    "120": "theorum/120_krt_mathematical_construction_theorem.md",
 }
 SCAN = [THEOREM_FILE[k] for k in THEOREM_FILE] + ["theorum/70_angatva_pramana_ladder_theorem.md", "theorum/74_lopa_ledger_contraction_theorem.md"]
 NUM = re.compile(r"\b([1-8])\.([1-4])\.([0-9]{1,3})\b")

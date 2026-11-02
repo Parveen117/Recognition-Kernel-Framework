@@ -1,4 +1,4 @@
-"""Verify every sūtra quoted in §A of theorum/118 and theorum/119 against the pinned sūtrapāṭha (PG1).
+"""Verify every sūtra quoted in a §A "Sources (quoted from the pinned sūtrapāṭha …)" block of a theoretical capsule against the pinned sūtrapāṭha (PG1).
 
 python -m research.samasa_construction.verify_quotes
 """
@@ -13,7 +13,7 @@ from pathlib import Path
 from proof_lab.astadhyayi_ledger import deva_to_iast
 
 ROOT = Path(__file__).resolve().parents[2]
-CAPSULES = [ROOT / "theorum/118_samasa_mathematical_construction_theorem.md", ROOT / "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md"]
+CAPSULES = sorted(c for c in (ROOT / "theorum").glob("[0-9][0-9][0-9]_*_theorem.md") if "## A. Sources (quoted from the pinned sūtrapāṭha" in c.read_text(encoding="utf-8"))
 TSV = ROOT / "research/panini_grammar/SUTRAPATHA.tsv"
 
 

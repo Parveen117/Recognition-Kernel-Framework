@@ -95,6 +95,7 @@ The advanced numbered surface now runs through Theorem 80:
 45. **117 — Āśīrliṅ Ātmanepada Compiled.** lapsīṣṭa, lapsīyāstām, lapsīran, lapsīya; edhiṣīṣṭa, edhiṣīyāstām, edhiṣīran, edhiṣīya: 3.4.102 sīyuṭ, 3.4.107 suṭ, 3.4.105 ran, 3.4.106 iṭo 't, 6.1.66, 7.2.35 / 7.2.10, 8.4.55, 8.3.59 + 8.4.41.
 46. **118 — samāsa: the mathematical construction.** Sāmarthya (2.1.1) as a guard, the four classes as a partition of 2.1.3–2.2.38, the option algebra (nitya / vibhāṣā / vā / bahulam / na), upasarjana (1.2.43 / 1.2.44) and the placement function 2.2.30–38, sup-lopa (2.4.71 with 1.1.62 vs 1.1.63; aluk 6.3.1–24), the samāsānta map 5.4.68–160; seventeen worked derivations; 2.1.7 *yathāsādṛśye* resolved from the pinned text (T114 label corrected, pin unchanged); 141 quotations machine-verified against the sūtrapāṭha. Theoretical packet; certificates deferred.
 47. **119 — samāsa construction II.** The PG15 source review of 118 resolved (inherited *nityam* for 2.2.18–19 with the pre-sup upapada carrier; yudhiṣṭhira by 8.3.95; stokānmukta / stokādmukta by 8.2.39 + 8.4.45; ORD as a labelled relation, indrāgnī under 2.2.33); the 6.3 aluk, dvandva-ānaṅ, puṁvadbhāva, nañ / mum / ku / sarvanāma-dṛś and dīrgha families and the ṭac / a / ḍac / ṣac / ic / kap samāsānta families with written derivations; the compounding events placed in PG14's native carrier (owned constituents, typed cuts, retained history, pairing) with Theorem N4 applied and the exact branch recovery shown on the C4 pair. 290 quotations across 118–119 machine-verified.
+48. **120 — kṛt: the mathematical construction.** The domain 3.1.91–3.4.117 from its four opening clauses (dhātoḥ, the locative upapada, kṛd atiṅ, vā'sarūpa); the sense function (3.4.67 default, 3.4.70–76 and 3.3.18–3.3.126 overrides); the marker algebra deciding vṛddhi / no-guṇa / samprasāraṇa / anunāsika-lopa / tuk / iṭ / ku / yuk uniformly by Theorem 82's reading; niṣṭhā as kit + Theorem 87's tripādī chain with the 7.2.14–17 iṭ table; kṛtya (yat / ṇyat / kyap / tavya / anīyar) and the sense-guarded ku pairs (vākya / vācya, bhojya / bhogya); upapada kṛts as the pre-sup compounds; forty worked derivations (K1–K27); 3.1.94 as the set-valued modal law. 416 quotations across 118–120 machine-verified.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -142,7 +143,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-119                           PRESENT
+NUMBERED THEOREM FILES 01-120                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT
