@@ -115,6 +115,7 @@ The advanced numbered surface now runs through Theorem 80:
 65. **137 — the independent-oracle audit.** Both engines (125–136) against vidyut-prakriya 0.4.0: 1,728 / 1,744 comparable cells agree, no engine form wrong; the 16 others adjudicated (five vidyut gaps, two vocative options, nine undeclared by vidyut); three engine attributions corrected — 7.2.76 (not 7.3.98) for the rudādi iṭ, 8.4.40 after 6.1.73's tuk, 3.4.107 in vidhiliṅ — and the apavādas 3.4.80 / 3.4.101 / 3.4.108 / 3.4.105 ordered before the rules they override; tiṅ engine re-pinned; evidence pinned as research/independent_oracle/CROSSCHECK.json.
 66. **138 — the generalisation test.** The tiṅ engine on 7,052 cells it was never fitted to, against vidyut-prakriya: laṭ of classes 1–10 and lṛṭ / āśīrliṅ of the bhvādi 1,373 / 1,373 after five row corrections (8.2.37, 8.2.41 across the vikaraṇa; 7.1.102 vs 7.3.80; tripādī order; 8.2.29 / 8.2.26 / 6.1.90 guards); laṅ / loṭ / liṅ of classes 2–10 3,786 / 5,397 — the open lane, measured; gantā and aidhidhvam not claimed; engine re-pinned (old pin in history); evidence pinned as research/independent_oracle/GENERALIZE.json.
 67. **139 — tiṅ rule-table engine IX.** The open lane: laṅ / loṭ / vidhiliṅ of classes 2–10 from the strong-ending predicate (pit and not ṅit; 3.4.92's āṭ) in every guṇa / lopa row, next-sound readers including the yāsuṭ / sīyuṭ, the augment before the abhyāsa, and nine rows (6.1.96, 6.4.101, 6.4.119, 7.3.83 with 3.4.109, 8.2.24, 7.3.100, 3.1.83, 6.4.106; 7.3.96 reaching as); 5,064 / 5,373 generator cells, 6,706 / 7,052 unseen cells overall; the suite unchanged, 154 rows; VIDYUT_OPEN_LANE.json as a declared oracle of implementation grade; residue of 309 cells named; engine re-pinned (old pin in history).
+68. **140 — tiṅ rule-table engine X.** The open lane, second pass: order facts (augment before lopa, 7.3.83 after the doubling, the sīyuṭ as hal-initial for 6.4.112 / 6.4.113) and seven rows (7.3.87, 7.3.98 for the rudādi apṛkta, 6.4.109, 6.4.118, 8.2.29 for the root's s / k, the tuk after the augment, ṇatva into the affix under 8.4.37); 5,223 / 5,373 generator cells, 6,865 / 7,052 unseen cells overall; suite unchanged, 157 rows; residue of 150 cells named; engine re-pinned (old pin in history); GENERALIZE.json re-pinned.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -162,7 +163,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-139                           PRESENT
+NUMBERED THEOREM FILES 01-140                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT

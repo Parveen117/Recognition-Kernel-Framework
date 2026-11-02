@@ -24,7 +24,7 @@ On the full generalisation run (theorum/138's 7,052 unseen cells, re-pinned as `
 
 ## 4. Certificate
 
-`proof_lab/ting_rule_table_engine.py` re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `be902838c55159fc82878effd7b6b6b460778ca7b1a45590316b96ba8ad649a0` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`; 154 rows, 908 suite cells, open-lane 5,064 / 5,373 reported); the previous pin `a6b031c8…` (theorum/138, commit 5b30c93) stays in the history. The suite cross-check of theorum/137 is byte-identical on this pin.
+`proof_lab/ting_rule_table_engine.py` re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `be902838c55159fc82878effd7b6b6b460778ca7b1a45590316b96ba8ad649a0` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`; 154 rows, 908 suite cells, open-lane 5,064 / 5,373 reported); the previous pin `a6b031c8…` (theorum/138, commit 5b30c93) stays in the history; re-pinned again by theorum/140 (the second pass), commit 769da4f holds this pin. The suite cross-check of theorum/137 is byte-identical on this pin.
 
 ## 5. Claim boundary
 
