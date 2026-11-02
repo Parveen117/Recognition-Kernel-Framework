@@ -35,7 +35,7 @@ class AstadhyayiLedgerTests(unittest.TestCase):
 
     def test_texts_have_no_latin_numbering_errors(self) -> None:
         # a curated text never repeats under two numbers — except where the pinned sūtrapāṭha itself repeats it
-        identical_in_edition = {"avyayībhāvaś ca": {"1.1.41", "2.4.18"}, "niṣṭhā": {"2.2.36", "3.2.102"}, "saṁhitāyām": {"6.1.72", "6.3.114"}}   # अव्ययीभावश्च, निष्ठा and संहितायाम् each stand at two numbers in the pinned text (adhikāras repeated)
+        identical_in_edition = {"avyayībhāvaś ca": {"1.1.41", "2.4.18"}, "niṣṭhā": {"2.2.36", "3.2.102"}, "saṁhitāyām": {"6.1.72", "6.3.114"}, "ṭeḥ": {"6.4.143", "6.4.155"}}   # अव्ययीभावश्च, निष्ठा and संहितायाम् each stand at two numbers in the pinned text (adhikāras repeated)
         seen = {}
         for n, t in TEXT.items():
             if t:
