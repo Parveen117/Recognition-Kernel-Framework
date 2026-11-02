@@ -56,7 +56,7 @@ SOURCES = {
     "8.4.40": "stoḥ ścunā ścuḥ", "8.4.44": "śāt", "8.4.39": "kṣubhnā''diṣu ca",
     "7.3.89": "uto vṛddhirluki hali", "7.3.90": "ūrṇotervibhāṣā", "7.3.95": "turustuśamyamaḥ sārvadhātuke", "6.4.81": "iṇo yaṇ", "6.4.82": "eranekāco'saṁyogapūrvasya", "7.4.60": "halādiḥ śeṣaḥ",
     "7.4.75": "nijāṁ trayāṇāṁ guṇaḥ ślau", "7.4.76": "bhṛñāmit", "7.4.77": "artipipartyośca", "7.1.102": "udoṣṭhyapūrvasya", "8.2.41": "ṣaḍhoḥ kaḥ si", "8.3.57": "iṇkoḥ", "6.4.115": "bhiyo'nyatarasyām", "6.4.116": "jahāteśca",
-    "6.1.6": "jakṣityādayaḥ ṣaṭ", "7.3.98": "rudaśca pañcabhyaḥ", "7.2.77": "īśaḥ se", "7.2.78": "īḍajanordhve ca", "7.3.93": "bruva īṭ", "7.2.114": "mṛjervṛddhiḥ", "7.4.21": "śīṅaḥ sārvadhātuke guṇaḥ", "7.1.6": "śīṅo ruṭ",
+    "6.1.6": "jakṣityādayaḥ ṣaṭ", "7.2.76": "rudādibhyaḥ sārvadhātuke", "7.2.77": "īśaḥ se", "7.2.78": "īḍajanordhve ca", "7.3.93": "bruva īṭ", "7.2.114": "mṛjervṛddhiḥ", "7.4.21": "śīṅaḥ sārvadhātuke guṇaḥ", "7.1.6": "śīṅo ruṭ",
     "6.4.34": "śāsa idaṅhaloḥ", "6.4.114": "iddaridrasya", "6.4.37": "anudāttopadeśavanatitanotyādīnāmanunāsika lopo jhali kṅiti", "7.3.54": "ho hanterñṇinneṣu", "8.2.36": "vraścabhrasjasṛjamṛjayajarājabhrājacchaśāṁ ṣaḥ",
     "8.3.60": "śāsivasighasīnāṁ ca", "8.2.31": "ho ḍhaḥ", "8.2.32": "dāderdhātorghaḥ", "8.2.37": "ekāco baśo bhaṣ jhaṣantasya sdhvoḥ", "8.3.13": "ḍho ḍhe lopaḥ", "6.3.111": "ḍhralope pūrvasya dīrgho'ṇaḥ",
     "8.2.23": "saṁyogāntasya lopaḥ", "8.2.66": "sasajuṣo ruḥ", "8.3.15": "kharavasānayorvisarjanīyaḥ",
@@ -167,7 +167,7 @@ NASAL.update({   # theorum/136: the adādi consonant roots (research/panini_gram
     "īś2A": ("īśa~", 2, "A", {"3s": "īṣṭe", "2s": "īśiṣe", "2p": "īśidhve"}), "īḍ2A": ("īḍa~", 2, "A", {"3s": "īṭṭe", "3d": "īḍāte", "3p": "īḍate", "2s": "īḍiṣe", "2p": "īḍidhve", "1d": "īḍvahe", "1p": "īḍmahe"}),
     "kaś2A": ("kaśa~", 2, "A", {"3s": "kaṣṭe", "3d": "kaśāte", "2s": "kakṣe", "2p": "kaḍḍhve"}),
 })
-RUDADI = {"rudi~r", "ñiṣvapa~", "śvasa~", "ana~", "jakṣa~"}      # 7.3.98 rudaś ca pañcabhyaḥ
+RUDADI = {"rudi~r", "ñiṣvapa~", "śvasa~", "ana~", "jakṣa~"}      # 7.2.76 rudādibhyaḥ sārvadhātuke (the five)
 JAKSADI = {"jakṣa~", "jāgṛ", "daridrā", "cakāsṛ~", "śāsu~"}       # 6.1.6 jakṣityādayaḥ ṣaṭ (with dīdhī, vevī): abhyasta
 SATVA_36 = {"mṛjū~", "kaśa~", "īśa~"}                             # 8.2.36 vraścabhrasjasṛjamṛjayajarājabhrājacchaśāṁ ṣaḥ (the members in the suite)
 BHRNAM = {"ḍubhṛñ", "māṅ", "o~hāṅ"}       # 7.4.76 bhṛñām it: bhṛ, māṅ, o~hāṅ
@@ -267,7 +267,7 @@ def _s_after_in(s: S):
     for name, seg, before in segs:
         if seg[:1] == ["s"] and before and (before[-1] in IN or before[-1] in ("k", "kh", "g", "gh", "ṅ")) and not (name == "aff" and len(seg) == 1):   # 8.3.57 iṇkoḥ; 8.3.55 apadāntasya: not the pada-final s
             yield name, 0
-    for i in range(1, len(s.aff)):          # suṭ (3.4.107) inside the affix
+    for i in range(1, len(s.aff) - 1):      # suṭ (3.4.107) inside the affix, never the pada-final s
         if s.aff[i] == "s" and s.aff[i - 1] in IN and "3.4.107" in s.done:
             yield "aff", i
 
@@ -307,15 +307,17 @@ def rules() -> list[tuple[str, Callable[[S], bool], Callable[[S], Any], str]]:
     add("3.1.81", lambda s: not s.v and s.lak in PRESENT and s.gana == 9, lambda s: (setattr(s, "v", tok("nā")), setattr(s, "vsit", True)), "śnā after a kryādi root (śit, apit: ṅidvat)")
     add("3.1.68", lambda s: not s.v and s.lak in PRESENT and not s.flags & {"śap-luk", "ślu", "śnam"}, lambda s: setattr(s, "v", ["a"]), "śap after the root before the sārvadhātuka tiṅ (kartari); not before the ārdhadhātuka (3.4.114, 3.4.116 liṅāśiṣi)")
     add("2.4.85", lambda s: s.lak == "luṭ" and s.pers == "3", lambda s: setattr(s, "aff", {"s": tok("ḍā"), "d": tok("rau"), "p": tok("ras")}[s.num]), "the prathama of luṭ → ḍā, rau, ras (both padas)")
-    add("3.4.79", lambda s: s.A() and s.lak in TIT and "3.4.79" not in s.done and not (s.lak == "luṭ" and s.pers == "3"),
+    add("3.4.79", lambda s: s.A() and s.lak in TIT and "3.4.79" not in s.done and not (s.lak == "luṭ" and s.pers == "3") and s.up != "thās",
         lambda s: setattr(s, "aff", s.aff[:max(i for i, x in enumerate(s.aff) if x in V)] + ["e"]), "the ṭi of the ātmanepada affix → e after a ṭit lakāra (te, āte, ante, se, dhve, e, vahe, mahe)")
     add("3.4.80", lambda s: s.A() and s.lak in TIT and s.up == "thās", lambda s: setattr(s, "aff", ["s", "e"]), "thās → se")
+    add("3.4.108", lambda s: s.P() and s.lak in ("liṅ", "āśīrliṅ") and s.up == "jhi", lambda s: setattr(s, "aff", tok("us")), "jhi → jus in liṅ (the j is it)")
+    add("3.4.105", lambda s: s.A() and s.lak in ("liṅ", "āśīrliṅ") and s.up == "jha", lambda s: setattr(s, "aff", tok("ran")), "jha → ran in liṅ")
     add("3.4.109", lambda s: s.P() and s.lak == "luṅ" and s.v == ["s"] and s.up == "jhi", lambda s: setattr(s, "aff", tok("us")), "jhi → jus after sic (anaiṣuḥ)")
     add("6.1.6", lambda s: s.up_root in JAKSADI and "abhyasta" not in s.flags, lambda s: s.flags.add("abhyasta"), "jakṣ, jāgṛ, daridrā, cakās, śās (dīdhī, vevī) are abhyasta by name")
     add("7.1.4", lambda s: s.aff[:1] == ["jh"] and (("ślu" in s.flags) or "abhyasta" in s.flags), lambda s: setattr(s, "aff", ["a", "t"] + s.aff[1:]), "jh → at after the abhyasta (juhvati, dadati, dadate; jāgrati, śāsati, daridrati by 6.1.6)")
     add("7.1.5", lambda s: s.A() and s.aff[:1] == ["jh"] and s.anga()[-1:] != ["a"], lambda s: setattr(s, "aff", ["a", "t"] + s.aff[1:]), "jh → at in the ātmanepada after a non-a aṅga (alapsata, aidhiṣata)")
     add("7.1.3", lambda s: s.aff[:1] == ["jh"], lambda s: setattr(s, "aff", ["a", "n", "t"] + s.aff[1:]), "jh → ant")
-    add("3.4.100", lambda s: s.P() and s.lak in NGIT_LAK and s.aff[-1] == "i" and s.up in ("tip", "sip", "mip", "jhi"), lambda s: s.aff.pop(), "the i of a ṅit lakāra's parasmaipada affix dropped (laṅ, liṅ)")
+    add("3.4.100", lambda s: s.P() and s.lak in NGIT_LAK and s.up != "mip" and s.aff[-1] == "i" and s.up in ("tip", "sip", "mip", "jhi"), lambda s: s.aff.pop(), "the i of a ṅit lakāra's parasmaipada affix dropped (laṅ, liṅ)")
     add("3.4.101", lambda s: s.P() and s.lak in NGIT_LAK + ("loṭ",) and s.up in ("tas", "thas", "tha", "mip"),
         lambda s: setattr(s, "aff", {"tas": tok("tām"), "thas": tok("tam"), "tha": tok("ta"), "mip": tok("am")}[s.up]), "tas thas tha mip → tām tam ta am after a ṅit lakāra (loṭ by 3.4.85 laṅvat)")
     add("3.4.99", lambda s: s.P() and s.lak in NGIT_LAK + ("loṭ",) and s.up in ("vas", "mas"), lambda s: s.aff.pop(), "the s of the uttama parasmaipada dropped after a ṅit lakāra (loṭ by 3.4.85)")
@@ -328,10 +330,8 @@ def rules() -> list[tuple[str, Callable[[S], bool], Callable[[S], Any], str]]:
     add("3.4.92", lambda s: s.lak == "loṭ" and s.pers == "1", lambda s: setattr(s, "aff", ["ā"] + s.aff), "āṭ to the uttama in loṭ, and it is pit")
     add("3.4.102", lambda s: s.A() and s.lak in ("liṅ", "āśīrliṅ"), lambda s: setattr(s, "pre", tok("sīy")), "sīyuṭ to the tiṅ in liṅ (ātmanepada); the u is for pronunciation")
     add("3.4.103", lambda s: s.P() and s.lak in ("liṅ", "āśīrliṅ"), lambda s: setattr(s, "pre", tok("yās")), "yāsuṭ to the tiṅ in liṅ (parasmaipada), and the liṅ is ṅit")
-    add("3.4.105", lambda s: s.A() and s.lak in ("liṅ", "āśīrliṅ") and s.up == "jha", lambda s: setattr(s, "aff", tok("ran")), "jha → ran in liṅ")
     add("3.4.106", lambda s: s.A() and s.lak in ("liṅ", "āśīrliṅ") and s.up == "iṭ", lambda s: setattr(s, "aff", ["a"]), "iṭ → at in liṅ")
-    add("3.4.107", lambda s: s.A() and s.lak == "āśīrliṅ" and any(x in ("t", "th") for x in s.aff), lambda s: s.aff.insert(next(i for i, x in enumerate(s.aff) if x in ("t", "th")), "s"), "suṭ to the t / th of the tiṅ in āśīrliṅ (sta, āstām)")
-    add("3.4.108", lambda s: s.P() and s.lak in ("liṅ", "āśīrliṅ") and s.up == "jhi", lambda s: setattr(s, "aff", tok("us")), "jhi → jus in liṅ (the j is it)")
+    add("3.4.107", lambda s: s.lak in ("liṅ", "āśīrliṅ") and (s.A() or s.lak == "liṅ") and s.up != "jhi" and any(x in ("t", "th") for x in s.aff) and "3.4.107" not in s.done, lambda s: s.aff.insert(next(i for i, x in enumerate(s.aff) if x in ("t", "th")), "s"), "suṭ to the t / th of the tiṅ in liṅ (both padas) and in āśīrliṅ ātmanepada (sta, āstām; in vidhiliṅ the s falls again by 7.2.79)")
     # ---- phase 2: the aṅga -------------------------------------------------------------------
     add("6.1.64", lambda s: s.r[0] == "ṣ", lambda s: (s.r.__setitem__(0, "s"), [s.r.__setitem__(i, {"ṭ": "t", "ṭh": "th", "ṇ": "n"}[x]) for i, x in enumerate(s.r) if i and x in ("ṭ", "ṭh", "ṇ")]), "the initial ṣ of the upadeśa → s, and the ṭ / ṭh / ṇ it had conditioned revert (ṣuñ → su, ṣṭigha~ → stigh, ṣaṇu~ → san: nimittāpāye naimittikasyāpy apāyaḥ)")
     add("6.1.65", lambda s: s.r[0] == "ṇ", lambda s: s.r.__setitem__(0, "n"), "the initial ṇ of the upadeśa → n (ṇīñ → nī)")
@@ -350,7 +350,8 @@ def rules() -> list[tuple[str, Callable[[S], bool], Callable[[S], Any], str]]:
     add("7.2.35", lambda s: ((s.v[:1] in (["s"], ["t"]) or (s.pre[:1] == ["s"] and s.lak == "āśīrliṅ")) and not s.it and ("".join(s.r) in SET or ("".join(s.r) == "gam" and s.P() and s.v[:1] == ["s"]))) or (s.lak == "liṭ" and s.aff[:1] in (["v"], ["m"]) and not s.it and "7.2.13" not in s.flags),
         lambda s: setattr(s, "it", ["i"]), "iṭ before the val-initial ārdhadhātuka (sya, tās, sīyuṭ) for the seṭ root (7.2.10 keeps nī, labh aniṭ; 7.2.58 gamer iṭ before sya in parasmaipada); before liṭ's va / ma for every root outside 7.2.13 (babhūviva, jagmiva, ninyiva)")
     add("7.3.77", lambda s: "".join(s.r) == "gam" and s.v == ["a"] and s.lak in PRESENT, lambda s: setattr(s, "r", tok("gach")), "m of gam → ch before the śit śap")
-    add("6.1.73", lambda s: s.r[-1:] == ["ch"] and "6.1.73" not in s.done, lambda s: s.r.insert(len(s.r) - 1, "c"), "tuk before ch")
+    add("6.1.73", lambda s: s.r[-1:] == ["ch"] and "6.1.73" not in s.done, lambda s: s.r.insert(len(s.r) - 1, "t"), "tuk before ch (gat-ch)")
+    add("8.4.40t", lambda s: s.r[-2:] == ["t", "ch"], lambda s: s.r.__setitem__(-2, "c"), "the tuk's t → c before ch (stoḥ ścunā ścuḥ: gacch)")
     add("6.4.88", lambda s: "".join(s.r) == "bhū" and s.lak in ("luṅ", "liṭ") and not s.v and s.after_root() and s.after_root()[0] in V, lambda s: s.r.append("v"), "vuk to bhū before a vowel in luṅ / liṭ (abhūvan, babhūva, babhūviva)")
     add("7.2.115", lambda s: s.lak == "liṭ" and s.pit and s.r[-1] in VRDDHI, lambda s: s.r.__setitem__(-1, VRDDHI[s.r[-1]]) if s.r[-1] != "ṛ" else setattr(s, "r", s.r[:-1] + ["ā", "r"]), "vṛddhi of the final vowel before the ñit / ṇit ṇal (nai-, kār-)")
     add("7.2.116", lambda s: s.lak == "liṭ" and s.pit and len(s.r) >= 2 and s.r[-2] == "a" and s.r[-1] not in V, lambda s: s.r.__setitem__(-2, "ā"), "vṛddhi of the penultimate a before ṇal (ja-gāma)")
@@ -369,7 +370,7 @@ def rules() -> list[tuple[str, Callable[[S], bool], Callable[[S], Any], str]]:
     add("6.4.23", lambda s: "śnam" in s.flags and "6.4.23" not in s.done and any(s.r[i:i + 3] == ["n", "a", "n"] for i in range(len(s.r) - 2)), lambda s: s.r.pop(next(i for i in range(len(s.r) - 2) if s.r[i:i + 3] == ["n", "a", "n"]) + 2), "the root's n (the nuṁ of hiṁs) dropped after śnam (hinasti)")
     add("6.4.111", lambda s: s.lak in PRESENT and not s.pit and (("śnam" in s.flags and "a" in s.r[1:]) or (s.root == "as" and s.r[:1] == ["a"])) and "6.4.111" not in s.done, lambda s: s.r.pop(len(s.r) - 1 - s.r[::-1].index("a")) if "śnam" in s.flags else s.r.pop(0), "the a of śnam and of as dropped before the kit / ṅit sārvadhātuka (runddhaḥ, bhindanti, staḥ, santi)")
     add("7.4.50a", lambda s: s.root == "as" and s.aff[:1] == ["s"] and s.r[-1:] == ["s"], lambda s: s.r.pop(), "the s of as dropped before the s-initial sārvadhātuka (asi; 7.4.50 tāsastyoḥ)")
-    add("7.3.98", lambda s: "śap-luk" in s.flags and s.up_root in RUDADI and not s.it and s.aff[:1] and s.aff[0] not in V and s.lak in PRESENT, lambda s: setattr(s, "it", ["i"]), "iṭ for rud, svap, śvas, an, jakṣ before the hal-initial sārvadhātuka (roditi, svapimi)")
+    add("7.2.76", lambda s: "śap-luk" in s.flags and s.up_root in RUDADI and not s.it and s.aff[:1] and s.aff[0] not in V and s.lak in PRESENT, lambda s: setattr(s, "it", ["i"]), "iṭ for rud, svap, śvas, an, jakṣ before the hal-initial sārvadhātuka (roditi, svapimi); theorum/136 had cited 7.3.98, the īṭ rule of the apṛkta — corrected after the independent-oracle audit (theorum/137)")
     add("7.2.77", lambda s: s.up_root == "īśa~" and s.aff[:2] == ["s", "e"] and not s.it, lambda s: setattr(s, "it", ["i"]), "iṭ for īś before se (īśiṣe)")
     add("7.2.78", lambda s: s.up_root in ("īḍa~", "īśa~", "jana~") and (s.aff[:2] == ["dh", "v"] or (s.up_root == "īḍa~" and s.aff[:2] == ["s", "e"])) and not s.it, lambda s: setattr(s, "it", ["i"]), "iṭ for īḍ and jan before dhve and se, and for īś before dhve (īḍiṣe, īḍidhve, īśidhve)")
     add("7.3.93", lambda s: s.up_root == "brūñ" and s.pit and s.lak in PRESENT and s.aff[:1] and s.aff[0] not in V and not s.it, lambda s: setattr(s, "it", ["ī"]), "īṭ for brū before the hal-initial pit sārvadhātuka (bravīti)")
@@ -401,7 +402,7 @@ def rules() -> list[tuple[str, Callable[[S], bool], Callable[[S], Any], str]]:
     add("6.4.71", lambda s: s.lak in ("laṅ", "luṅ") and not s.ag and s.r[0] not in V, lambda s: setattr(s, "ag", ["a"]), "aṭ augment to the aṅga in laṅ / luṅ")
     add("6.4.72", lambda s: s.lak in ("laṅ", "luṅ") and not s.ag and s.r[0] in V, lambda s: setattr(s, "ag", ["ā"]), "āṭ to the vowel-initial aṅga in laṅ / luṅ")
     add("6.1.90", lambda s: s.ag == ["ā"] and s.r[0] in V, lambda s: (setattr(s, "ag", []), s.r.__setitem__(0, {"a": "ā", "i": "ai", "e": "ai", "u": "au", "o": "au"}[s.r[0]])), "vṛddhi for āṭ + the initial vowel (aidh-)")
-    add("7.2.79", lambda s: s.lak == "liṅ" and "s" in s.pre, lambda s: s.pre.remove("s"), "the non-final s of liṅ's sārvadhātuka dropped (yās → yā, sīy → īy)")
+    add("7.2.79", lambda s: s.lak == "liṅ" and ("s" in s.pre or "s" in s.aff[:-1]), lambda s: (s.pre.remove("s") if "s" in s.pre else None, s.aff.pop(s.aff.index("s")) if "s" in s.aff[:-1] else None), "the non-final s of liṅ's sārvadhātuka dropped (yās → yā, sīy → īy, and the suṭ of 3.4.107)")
     add("7.2.80", lambda s: s.lak == "liṅ" and s.P() and s.v == ["a"] and s.pre == ["y", "ā"], lambda s: setattr(s, "pre", ["i", "y"]), "yā (yās) → iy after a")
     add("7.2.81", lambda s: s.A() and s.a_final() and s.aff[:1] == ["ā"] and s.up in ("ātām", "āthām") and s.ngit() and not s.pre, lambda s: (setattr(s, "pre", ["i", "y"]), setattr(s, "aff", s.aff[1:])), "the ā of the ṅit (1.2.4) ātmanepada affix → iy after a (ātām, āthām)")
     add("6.4.105", lambda s: s.a_final() and s.aff == ["h", "i"], lambda s: setattr(s, "aff", []), "hi → luk after a (bhava)")

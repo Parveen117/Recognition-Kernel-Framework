@@ -112,6 +112,7 @@ The advanced numbered surface now runs through Theorem 80:
 62. **134 — tiṅ rule-table engine VI.** The nasal classes at breadth: 86 svādi / tanādi / kryādi entries (91 quoted cells) on the rows of 132 with eight additions (3.1.82, 6.4.24, 7.3.79, 6.1.16 with 1.1.45 / 6.1.108, 8.4.40 under 8.4.44, 8.4.41's n, 8.4.39, 6.1.64 extended) and three guard changes (7.3.80 kryādi only, 7.3.86 before u, the kṣ token); 115 rows on 596 cells; tṛṇu / ṛṇu / khav not claimed; engine re-pinned (old pins in history).
 63. **135 — tiṅ rule-table engine VII.** adādi u- / ā- / i-roots and the juhotyādi at breadth: 38 entries (136 quoted cells) from ten new rows (7.3.89 with 7.3.90, 7.4.75 / 7.4.76 / 7.4.77 with 7.4.60 restored, 7.1.102 before 8.2.77, 6.4.81, 6.4.82, 6.4.77's dhātu clause, 8.2.41) and four widened readers (6.4.113 abhyasta ā, 7.3.86 across ślu, 8.3.57 ku, 6.1.101 ā + a); 125 rows on 732 cells; 7.3.95 / 6.4.115 / 6.4.116 option cells not claimed; engine re-pinned (old pins in history).
 64. **136 — tiṅ rule-table engine VIII.** The adādi consonant roots: 32 entries (176 quoted cells) from nineteen new rows (7.3.98, 7.3.93, 7.2.77 / 7.2.78; 6.1.6; 6.4.34 with 8.3.60, 6.4.114, 6.4.37 and 6.4.98 with 7.3.54, 7.2.114, 7.4.21 with 7.1.6; 8.2.31 / 8.2.32 / 8.2.37, 8.2.36, 8.3.13 with 6.3.111) and the junction readers widened (8.2.26, 8.3.24 / 8.4.58 across the affix, 8.4.41 after ṭu, 8.4.53 withholding ḍh + dh); 144 rows on 908 cells; cakṣ, ṛ, the ñj-roots, vid not claimed; engine re-pinned (old pins in history).
+65. **137 — the independent-oracle audit.** Both engines (125–136) against vidyut-prakriya 0.4.0: 1,728 / 1,744 comparable cells agree, no engine form wrong; the 16 others adjudicated (five vidyut gaps, two vocative options, nine undeclared by vidyut); three engine attributions corrected — 7.2.76 (not 7.3.98) for the rudādi iṭ, 8.4.40 after 6.1.73's tuk, 3.4.107 in vidhiliṅ — and the apavādas 3.4.80 / 3.4.101 / 3.4.108 / 3.4.105 ordered before the rules they override; tiṅ engine re-pinned; evidence pinned as research/independent_oracle/CROSSCHECK.json.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -159,7 +160,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-136                           PRESENT
+NUMBERED THEOREM FILES 01-137                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT
