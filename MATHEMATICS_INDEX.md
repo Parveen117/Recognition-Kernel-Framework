@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG36 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG37 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG36 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG37 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,36 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG37: possession/adverbials, predecessor review and 1,658 bounded IDs
+
+[PG37](research/panini_grammar/possession_adverbials/README.md) constructs
+**321 contracts** for **5.2.24–140, 5.3.1–119 and 5.4.1–85**. Eleven
+overlaps give **310 new distinct IDs**, taking combined bounded reach
+**1,348 → 1,658/3,983** and independent written reach **997 → 1,318**.
+This is semantic/affix selection and owned-operation work; complete finite
+positions remain **11,552**, with zero added.
+
+[Predecessor review](research/panini_grammar/possession_adverbials/PREDECESSOR_REVIEW.md)
+checks 616 previous rows, 1,870 literal fields, 46 pinned file records and
+selected semantic boundaries. It does not claim independent correctness of
+every interpretation. [Domain](research/panini_grammar/possession_adverbials/DOMAIN.md),
+[construction](research/panini_grammar/possession_adverbials/CONSTRUCTION.md)
+and [register](research/panini_grammar/possession_adverbials/RULE_REGISTER.json)
+retain source policy, addressed replacements/augments, case and designation
+boundaries, transformation types and compound-class stipulations.
+[Native continuation](research/panini_grammar/possession_adverbials/NATIVE_CONTINUATION.md)
+proves address safety, dependent-clause properties and typed zero-reading
+on the declared finite selection domain.
+
+[Source review](research/panini_grammar/possession_adverbials/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/possession_adverbials/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/possession_adverbials/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/possession_adverbials/COVERAGE.json)
+preserve the literal evidence and exact count layers.
+[Handoff/work](research/panini_grammar/possession_adverbials/HANDOFF_AND_WORK.md)
+records unchanged Claude T152, deferred grammar tests/replay and the next
+frontier at **5.4.86**. Runtime and earlier packets are unchanged.
 
 ## PG36: functional taddhita contracts and 1,348 bounded IDs
 

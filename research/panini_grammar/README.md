@@ -595,7 +595,31 @@ these histories under typed zero-recovery. [Source review](taddhita_functional/S
 [coverage](taddhita_functional/COVERAGE.json) preserve literal evidence,
 adopted corrections, open variants and exact counts.
 [Handoff/work](taddhita_functional/HANDOFF_AND_WORK.md) records unchanged
-Claude T152, deferred tests/replay and the next frontier at **5.2.24**.
+Claude T152, deferred tests/replay and that packet's frontier at **5.2.24**.
+
+**Quality review and next 300: possession and adverbials:**
+[PG37](possession_adverbials/README.md) constructs **321 contracts** for
+5.2.24–140, all of 5.3 and 5.4.1–85. Eleven overlaps leave **310 new IDs**:
+combined bounded reach **1,348 → 1,658/3,983**, independent written reach
+**997 → 1,318**. Finite positions stay **11,552**; this remains the written
+selection/operation layer, with grammar tests and replay deferred.
+
+[Predecessor review](possession_adverbials/PREDECESSOR_REVIEW.md) checks
+616 prior rows, 1,870 literal fields, 46 pinned file records and selected
+semantic boundaries without claiming exhaustive correctness.
+[Domain](possession_adverbials/DOMAIN.md),
+[construction](possession_adverbials/CONSTRUCTION.md) and
+[register](possession_adverbials/RULE_REGISTER.json) retain ordinal augment
+ownership, pronominal designation, source-dependent choices, transformation
+relations and compound classes.
+[Native continuation](possession_adverbials/NATIVE_CONTINUATION.md) supplies
+addressed-history and compound-fibre propositions with typed zero-reading.
+[Source review](possession_adverbials/SOURCE_REVIEW.md),
+[archive](possession_adverbials/SOURCE_EXCERPTS.json),
+[pins](possession_adverbials/SOURCE_PINS.json) and
+[coverage](possession_adverbials/COVERAGE.json) preserve evidence and counts.
+[Handoff/work](possession_adverbials/HANDOFF_AND_WORK.md) records the
+implementation requirements and next frontier at **5.4.86**.
 
 ## Read in this order
 
