@@ -469,6 +469,33 @@ records the unchanged T149 head and concrete ownership/admission work.
 [Work/frontier](capability_naming_prohibition/WORK_RECORD.md) keeps tests
 and replay deferred; 3.3.139–151 and broader word adapters remain open.
 
+**Effective counterfactual admission and conditional words:**
+[PG31](counterfactual_contexts/README.md) constructs **3.3.139–151**.
+Its [contexts](counterfactual_contexts/CONTEXT_RELATIONS.md) and
+[admission](counterfactual_contexts/COUNTERFACTUAL_ADMISSION.md) retain
+effective liṅ-nimitta after exceptions, qualified kriyātipatti and
+the exclusive 152 boundary. Surprise+yadi has a separately justified route.
+
+[Sya transport](counterfactual_contexts/SYA_TRANSPORT.md) and
+[conditional endings](counterfactual_contexts/ENDING_CONSTRUCTION.md)
+give 17 basic roots and 12 inherited causal formations, 48 qualified
+profiles and 53 branches. The [complete register](counterfactual_contexts/PARADIGMS.md)
+adds **432 positions /477 readings**, cumulative **11,059 written
+finite positions**, with aṭ/āṭ, dependent iṭ and preserved ṇic owners.
+
+The [native argument](counterfactual_contexts/NATIVE_ADMISSION_AND_TRANSPORT.md)
+establishes staged eligibility, the local observer minimum, restricted
+transport and typed zero-recovery. [Sources](counterfactual_contexts/SOURCE_REVIEW.md),
+[literal archive](counterfactual_contexts/SOURCE_EXCERPTS.json) and
+[pins](counterfactual_contexts/SOURCE_PINS.json) retain exact evidence limits.
+[Coverage](counterfactual_contexts/COVERAGE.json) is **708/3,983 bounded-rule
+IDs**; approximately **17.78%** is not whole-grammar completion.
+[Claude's handoff](counterfactual_contexts/COMPANION_UPDATE.md) records
+the new T150 and complementary semantic/owner work.
+[Work/frontier](counterfactual_contexts/WORK_RECORD.md) keeps tests/replay
+deferred and identifies broader prohibitives, passive/bhāva R and nominal
+coverage as remaining construction.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

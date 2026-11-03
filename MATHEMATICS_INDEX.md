@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 3 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG30 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 3 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG31 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG30 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG31 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,48 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG31: effective counterfactual admission and complete bounded lṛṅ
+
+[PG31](research/panini_grammar/counterfactual_contexts/README.md) develops
+**3.3.139–151** on supplied semantic evidence. The
+[domain](research/panini_grammar/counterfactual_contexts/DOMAIN_AND_SCOPE.md)
+and [context relations](research/panini_grammar/counterfactual_contexts/CONTEXT_RELATIONS.md)
+separate censure, incredulity, intolerance, specific upapadas and surprise.
+The surprise/yadi branch retains its independently positive liṅ route.
+
+[Counterfactual admission](research/panini_grammar/counterfactual_contexts/COUNTERFACTUAL_ADMISSION.md)
+uses the effective liṅ certificate **after** exceptions, qualified
+kriyātipatti and temporal interpretation. The past option ends before 152;
+the exact PG28 affirmative 152 and cause/result 156 certificates receive
+explicit counterfactual extensions without broadening every earlier domain.
+
+[Sya transport](research/panini_grammar/counterfactual_contexts/SYA_TRANSPORT.md)
+preserves the joint root/pada/iṭ and causative-owner interfaces.
+[Endings](research/panini_grammar/counterfactual_contexts/ENDING_CONSTRUCTION.md)
+derive aṭ/āṭ and all nine P/A slots, distinguishing ṇic-i, affix iṭ
+and ending iṭ. The [complete register](research/panini_grammar/counterfactual_contexts/PARADIGMS.md)
+adds **432 positions /477 readings**, cumulative **11,059**, across 17
+basic roots and 12 inherited causal formations, 48 profiles and 53 branches.
+
+The [native construction](research/panini_grammar/counterfactual_contexts/NATIVE_ADMISSION_AND_TRANSPORT.md)
+proves the effective-cut pullback, an obstruction to premature admission,
+a two-extra-channel minimum on its three-history sector, restricted sya
+transport and typed zero-recovery of requests and the bounded word register.
+
+[Sources](research/panini_grammar/counterfactual_contexts/SOURCE_REVIEW.md),
+[literal fields](research/panini_grammar/counterfactual_contexts/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/counterfactual_contexts/SOURCE_PINS.json)
+retain source disputes, damaged readings and empty fields.
+[Coverage](research/panini_grammar/counterfactual_contexts/COVERAGE.json)
+reaches **708/3,983 bounded-rule IDs**, 13 written plus two companion IDs beyond PG30; approximately
+**17.78%** is bounded documented/declarative reach, not overall grammar
+completion. [Claude's handoff](research/panini_grammar/counterfactual_contexts/COMPANION_UPDATE.md)
+reviews T150 observation and existing morphology and assigns admission/branch/owner adapters.
+[Work/frontier](research/panini_grammar/counterfactual_contexts/WORK_RECORD.md)
+keeps grammar/navigation/operator tests and replay deferred. Broader
+prohibitives, passive/bhāva R, remaining temporal blocks and full nominal
+coverage remain open.
 
 ## PG30: capability, blessing-names and owned prohibitive augmentation
 
