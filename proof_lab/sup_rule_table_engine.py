@@ -245,17 +245,27 @@ RULES = rules()
 IDS = [r[0] for r in RULES]
 
 
+HOOK = None   # theorum/150: an observer of every firing — HOOK(row_id, state_before, state_after); None in ordinary runs
+
+
+def snapshot(s: S) -> dict:
+    return {"st": list(s.st), "aff": list(s.aff), "flags": set(s.flags), "sns": s.sns, "samb": s.samb}
+
+
 def decline(stem, code, up, gender="m", flags=(), off=()) -> tuple[str, list[str]]:
     s = S(stem, code, up, gender, flags)
     for n, guard, action, note in RULES:
         if n in off:
             continue
         before = ("".join(s.st), "".join(s.aff), frozenset(s.flags), s.sns)
+        snap = snapshot(s) if HOOK else None
         if guard(s):
             action(s)
             after = ("".join(s.st), "".join(s.aff), frozenset(s.flags), s.sns)
             if after != before:
                 s.done.add(n); s.path.append(f"{n} {note}: {after[0]}-{after[1]}")
+                if HOOK:
+                    HOOK(n, snap, snapshot(s))
     return "".join(s.st + s.aff), s.path
 
 

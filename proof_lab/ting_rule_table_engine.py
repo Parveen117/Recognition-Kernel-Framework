@@ -667,6 +667,14 @@ RULES = rules()
 IDS = [r[0] for r in RULES]
 
 
+HOOK = None   # theorum/150: an observer of every firing — HOOK(row_id, state_before, state_after) on the segmented state; None in ordinary runs
+
+
+def snapshot(s: S) -> dict[str, Any]:
+    return {"ag": list(s.ag), "ab": list(s.ab), "abk": s.abk, "r": list(s.r), "it": list(s.it), "v": list(s.v), "pre": list(s.pre), "aff": list(s.aff),
+            "flags": set(s.flags), "pit": s.pit, "vsit": s.vsit, "gana": s.gana, "up_root": s.up_root}
+
+
 def conjugate(root: str, lak: str, code: str, off=(), pada=None) -> tuple[str, list[str]]:
     s = S(root, lak, code, pada)
     s.path.append(f"{root} ({s.up_root}, {'karmaṇi, ' if s.karmani else ''}{'ṇic, ' if s.hetu else ''}{'san, ' if s.san else ''}{s.pada}) + {lak} → {s.up} → {''.join(s.aff)}")
@@ -674,11 +682,14 @@ def conjugate(root: str, lak: str, code: str, off=(), pada=None) -> tuple[str, l
         if n in off:
             continue
         before = (s.form(), frozenset(s.flags), s.pit)
+        snap = snapshot(s) if HOOK else None
         if guard(s):
             action(s)
             after = (s.form(), frozenset(s.flags), s.pit)
             if after != before:
                 s.done.add(n); s.path.append(f"{n} {note}: {s.form()}")
+                if HOOK:
+                    HOOK(n, snap, snapshot(s))
     if "ām" in s.flags:   # 3.1.40 kṛñ cānuprayujyate liṭi: the liṭ of bhū (3.1.40's second alternative, the generator's first) follows the ām-form; kṛ and as recorded
         tail = conjugate("bhū", "liṭ", code, pada="P")[0]
         s.path.append(f"3.1.40 the liṭ of bhū anuprayukta after the ām-form (kṛ / as recorded): {s.form()}{tail}")

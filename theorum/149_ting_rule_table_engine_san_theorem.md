@@ -38,7 +38,7 @@ The other lanes and the suite are unchanged; 251 rows, all load-bearing on the s
 
 ## 3. Certificate
 
-theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `df6a008d5b0ce028d59a3e959a0bca1f07ab51a0ff686377929ed9deab4394a1` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pin `5eea0b60…` (theorum/148, commit fb8547e) and the chain before it stay in the history. The certificate carries `san_lane` beside the other lanes. The kernel re-pinned: `proof_lab/PANINI_KERNEL_EXPECTED.sha256` = `5785448be9268218aae8af42d9dce0609d2a0a811a51a17540087badc5ce980d`.
+theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `df6a008d5b0ce028d59a3e959a0bca1f07ab51a0ff686377929ed9deab4394a1` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pin `5eea0b60…` (theorum/148, commit fb8547e) and the chain before it stay in the history. The certificate carries `san_lane` beside the other lanes. The kernel re-pinned: `proof_lab/PANINI_KERNEL_EXPECTED.sha256` = `5785448be9268218aae8af42d9dce0609d2a0a811a51a17540087badc5ce980d`; re-pinned again by theorum/150 (the ISA), commit 629250f holds this pin.
 
 ```text
 python -m proof_lab.ting_rule_table_engine

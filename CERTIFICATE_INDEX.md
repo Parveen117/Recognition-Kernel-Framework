@@ -1689,7 +1689,7 @@ proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Pāṇini Kernel |
 | Status | `PASS_PANINI_KERNEL_CANDIDATE` |
-| Canonical result SHA-256 | `5785448be9268218aae8af42d9dce0609d2a0a811a51a17540087badc5ce980d` |
+| Canonical result SHA-256 | `224889c5ef0bcc5374afbfadb175b9d3140bab1762b69fb892367589ddc9c2fb` |
 | Boundary | the two engines, the ledger and the evidence as one object: 230 sūtras as rows after theorum/143 (225 at first pin 41854a6b…, in the history), 18 shared (junction / tripādī only), every row a ledger entry and every engine ledger entry a row; coverage counted |
 
 ```text
@@ -1809,6 +1809,22 @@ theorum/149_ting_rule_table_engine_san_theorem.md
 proof_lab/ting_rule_table_engine.py
 proof_lab/test_ting_rule_table_engine.py
 proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
+```
+
+## Theorem 150 the Pāṇini ISA — every firing of the two rule tables is at most two operations from a closed catalogue of sixteen Pāṇinian types; the tables a staged program packet
+
+| Field | Value |
+|---|---|
+| Certificate class | the Pāṇini ISA — every firing of the two rule tables is at most two operations from a closed catalogue of sixteen Pāṇinian types; the tables a staged program |
+| Status | `PASS_PANINI_ISA_CANDIDATE` |
+| Canonical result SHA-256 | `c2938c01f6f191e7398e97e43296225f24b980516b46a10dd4b53d680cdc39a9` |
+| Boundary | an observer records the state before and after every firing of the 251 verbal and 90 nominal rows on the suites and all seven lanes (≈ 60,000 derivations, 394,468 firings); every firing is at most two operations from a closed catalogue of 16 types named by the Aṣṭādhyāyī's own sūtras (1.1.46 / 1.1.47 augments, 1.1.60 lopa, 1.1.52 / 1.1.55 / 1.1.65 ādeśa, 1.1.1 / 1.1.2 / 1.2.27 grades, 6.1.1 dvitva, affix, mark, sandhi); the phases are monotone, the tripādī one pass with its 26 + 14 live re-orderings against 8.2.1 listed with evidence (45 + 29 vacuous); the guards read the state through 30 + 7 and 27 readers — PROVED (exact, finite); the catalogue as the only reading, the guards as an instruction set, confluence: NOT CLAIMED |
+
+```text
+theorum/150_panini_isa_theorem.md
+proof_lab/panini_isa.py
+proof_lab/test_panini_isa.py
+proof_lab/PANINI_ISA_EXPECTED.sha256
 ```
 
 ## Consolidated parallel-lineage index
