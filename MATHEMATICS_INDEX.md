@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 3 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG29 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 3 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG30 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG29 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG30 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,50 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG30: capability, blessing-names and owned prohibitive augmentation
+
+[PG30](research/panini_grammar/capability_naming_prohibition/README.md)
+develops **3.3.172 and 3.3.174–176**: capability, blessing-based
+appellatives and māṅ/māṅ+sma prohibition. Its [domain](research/panini_grammar/capability_naming_prohibition/DOMAIN_AND_SCOPE.md)
+corrects PG29's prospective subject labels for 3.3.174–176 while preserving
+the earlier completed packet. [Capability and naming](research/panini_grammar/capability_naming_prohibition/CAPABILITY_AND_NAMING.md)
+distinguish semantic capacity from an overt śak and require a whole-expression
+naming intention in addition to blessing.
+
+[Prohibition](research/panini_grammar/capability_naming_prohibition/PROHIBITION_AND_AUGMENTS.md)
+preserves exact māṅ identity, nonadjacent dependency and the associated
+sma choice {luṅ,laṅ}. It suppresses aṭ/āṭ while retaining ending īṭ.
+[Finite construction](research/panini_grammar/capability_naming_prohibition/FINITE_CONSTRUCTION.md)
+derives complete qualified P luṅ/laṅ paradigms for kṛ and hṛ:
+**36 new positions /36 readings**, cumulative **10,627**.
+
+[Nominal construction](research/panini_grammar/capability_naming_prohibition/NOMINAL_CONSTRUCTION.md)
+gives six local construction targets with eight base readings and eight
+selected nominative readouts: tanti/tati, all three san/ktic alternatives,
+bhūti, datta and the source-witnessed Devadatta compound.
+The [complete register](research/panini_grammar/capability_naming_prohibition/EXPRESSION_REGISTER.md)
+keeps those grades separate from finite positions and reused capability forms.
+
+The [native construction](research/panini_grammar/capability_naming_prohibition/NATIVE_OWNERS_AND_BRANCHES.md)
+proves an owner-selective cut, its coarse-observer obstruction, a one-channel
+context repair and the retained-source branch-multiplicity identity. Typed
+zero-specialization recovers the declared relation without a unitary or
+probabilistic interpretation of branching.
+
+[Sources](research/panini_grammar/capability_naming_prohibition/SOURCE_REVIEW.md),
+[literal archive](research/panini_grammar/capability_naming_prohibition/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/capability_naming_prohibition/SOURCE_PINS.json)
+retain displaced subjects, the mā analysis dispute and the san alternatives.
+[Coverage](research/panini_grammar/capability_naming_prohibition/COVERAGE.json)
+reaches **693/3,983 bounded-rule IDs**, twelve beyond PG29; approximately
+**17.40%** is bounded rule reach, not whole-grammar completion.
+[Claude's handoff](research/panini_grammar/capability_naming_prohibition/COMPANION_UPDATE.md)
+reviews the unchanged T149 constructor/relevant rows and assigns admission,
+owned augmentation and full-alternative adapters. [Work/frontier](research/panini_grammar/capability_naming_prohibition/WORK_RECORD.md)
+keeps grammar/navigation/operator tests and replay deferred. Remaining
+3.3.139–151 contexts, broader prohibitive word adapters and full nominal
+coverage remain open.
 
 ## PG29: opportunity, kṛt expression and meaning-sensitive case
 

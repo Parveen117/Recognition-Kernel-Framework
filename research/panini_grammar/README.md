@@ -437,6 +437,38 @@ credits san and records complementary admission, alternatives and case
 work. [Work/frontier](opportunity_necessity/WORK_RECORD.md) keeps grammar
 tests/replay deferred and selects 3.3.172 and 3.3.174–176 next.
 
+**Capability, blessing-names and owned prohibitive augmentation:**
+[PG30](capability_naming_prohibition/README.md) develops **3.3.172 and
+3.3.174–176** in their actual source sequence. Its
+[domain](capability_naming_prohibition/DOMAIN_AND_SCOPE.md) corrects
+PG29's prospective subject labels, while [capability/naming](capability_naming_prohibition/CAPABILITY_AND_NAMING.md)
+retain semantic capacity and the whole-expression appellative condition.
+[Prohibition](capability_naming_prohibition/PROHIBITION_AND_AUGMENTS.md)
+distinguishes lexical māṅ, associated sma and the separate owners of
+blocked aṭ/āṭ and retained ending īṭ.
+
+[Finite construction](capability_naming_prohibition/FINITE_CONSTRUCTION.md)
+adds complete kṛ/hṛ P luṅ/laṅ paradigms: **36 positions /36 readings**,
+cumulative **10,627 admitted written finite positions**.
+[Nominal construction](capability_naming_prohibition/NOMINAL_CONSTRUCTION.md)
+and the [register](capability_naming_prohibition/EXPRESSION_REGISTER.md)
+give six local construction targets /eight base readings /eight selected
+nominal readouts, including all three san/ktic alternatives and Devadatta.
+The grades are not added together.
+
+The [native argument](capability_naming_prohibition/NATIVE_OWNERS_AND_BRANCHES.md)
+derives owner-selective suppression, an observer obstruction, a one-channel
+context repair and retained-source branch multiplicity with typed zero-recovery.
+[Sources](capability_naming_prohibition/SOURCE_REVIEW.md),
+[literal fields](capability_naming_prohibition/SOURCE_EXCERPTS.json) and
+[pins](capability_naming_prohibition/SOURCE_PINS.json) preserve source limits.
+[Coverage](capability_naming_prohibition/COVERAGE.json) reaches
+**693/3,983 bounded-rule IDs**; approximately **17.40%** is not a whole-
+grammar completion fraction. [Claude's handoff](capability_naming_prohibition/COMPANION_UPDATE.md)
+records the unchanged T149 head and concrete ownership/admission work.
+[Work/frontier](capability_naming_prohibition/WORK_RECORD.md) keeps tests
+and replay deferred; 3.3.139–151 and broader word adapters remain open.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
