@@ -406,6 +406,37 @@ the closing causative extension and its four new combined IDs, with a
 concrete adapter handoff; [work/frontier](exception_modal_contexts/WORK_RECORD.md)
 keeps grammar tests and replay deferred and identifies the next context block.
 
+**Opportunity, kṛt expressions and meaning-sensitive case:**
+[PG29](opportunity_necessity/README.md) develops **3.3.167–171** on
+four exact roots. [Domain](opportunity_necessity/DOMAIN_AND_DISCOURSE.md)
+and [opportunity/eligibility](opportunity_necessity/OPPORTUNITY_AND_WORTHINESS.md)
+retain praiṣādi, time-head and relevant-yad dependencies, local bhāva-lyuṭ
+alternatives and PG19's previously unbuilt kṛtya projection.
+[Necessity/cases](opportunity_necessity/NECESSITY_AND_CASES.md) preserve
+the semantic difference between necessity and debt without requiring
+an overt avaśyam, and distinguish tṛc kartā from finite luṭ kartā.
+
+[Kṛt construction](opportunity_necessity/KRT_CONSTRUCTION.md) and the
+[register](opportunity_necessity/EXPRESSION_REGISTER.md) give **23 nonfinite
+base targets** (22 constructed here plus reused bhoktum), **39 nominal
+readout targets** and **18 new qualified vah O positions/readings**.
+[Coverage](opportunity_necessity/COVERAGE.json) reaches **10,591 admitted
+written finite positions /681 bounded-rule IDs**. Nonfinite, nominal
+and finite counts stay separate; the approximately **17.10%** rule
+ratio does not measure whole-grammar completion.
+
+The [native argument](opportunity_necessity/NATIVE_TYPED_CHOICE.md)
+constructs dependent expression fibres and proves that two addressed
+scalar channels are necessary and sufficient for its four-history case
+cut, where one pooled coordinate fails. Typed zero-specialization keeps
+suffix and semantic history. [Source review](opportunity_necessity/SOURCE_REVIEW.md),
+[literal archive](opportunity_necessity/SOURCE_EXCERPTS.json) and
+[pins](opportunity_necessity/SOURCE_PINS.json) retain the exact source
+boundaries. [Claude through T149](opportunity_necessity/COMPANION_UPDATE.md)
+credits san and records complementary admission, alternatives and case
+work. [Work/frontier](opportunity_necessity/WORK_RECORD.md) keeps grammar
+tests/replay deferred and selects 3.3.172 and 3.3.174–176 next.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

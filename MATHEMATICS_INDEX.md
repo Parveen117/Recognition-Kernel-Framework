@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 3 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG28 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 3 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG29 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG28 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG29 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,48 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG29: opportunity, kṛt expression and meaning-sensitive case
+
+[PG29](research/panini_grammar/opportunity_necessity/README.md) develops
+**3.3.167–171** and the nonfinite/case interfaces they require.
+The [domain](research/panini_grammar/opportunity_necessity/DOMAIN_AND_DISCOURSE.md)
+selects four exact roots with supplied meanings and qualified pada inputs.
+[Opportunity and eligibility](research/panini_grammar/opportunity_necessity/OPPORTUNITY_AND_WORTHINESS.md)
+distinguish governing time heads, relevant yad and local bhāva-lyuṭ
+alternatives, and fill PG19's previously unbuilt kṛtya projection.
+[Necessity and case](research/panini_grammar/opportunity_necessity/NECESSITY_AND_CASES.md)
+retain semantic upādhi without requiring an overt word, and preserve
+different object cases behind identical dāyī or kartā readouts.
+
+[Construction](research/panini_grammar/opportunity_necessity/KRT_CONSTRUCTION.md)
+owns tumun/lyuṭ/tṛc/ṇini, ten kṛtya bases, vah's sourced ḍh-lopa/o
+route and the selected nominal endings. The [register](research/panini_grammar/opportunity_necessity/EXPRESSION_REGISTER.md)
+contains **23 nonfinite base targets** (22 constructions here and one
+reused bhoktum), **39 nominal readout targets** and **18 new vah O
+positions/readings**. Cumulative admitted written finite positions reach
+**10,591**; the three grades are not added together.
+
+The [native construction](research/panini_grammar/opportunity_necessity/NATIVE_TYPED_CHOICE.md)
+proves role-safe dependent fibres, dependency-cut transport and a sharp
+four-history observer repair: two addressed scalar channels are needed
+where one pooled genitive coordinate fails. Typed zero-specialization
+recovers the declared source-qualified grammar relation and its histories.
+
+[Sources](research/panini_grammar/opportunity_necessity/SOURCE_REVIEW.md),
+[literal fields](research/panini_grammar/opportunity_necessity/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/opportunity_necessity/SOURCE_PINS.json)
+retain displaced headings, empty fields and unresolved case readings.
+[Coverage](research/panini_grammar/opportunity_necessity/COVERAGE.json)
+reaches **681/3,983 bounded-rule IDs**: 652 inherited, nineteen newly
+written and ten newly operational-labelled T149 IDs. Its approximately
+**17.10%** ratio is not whole-grammar completion.
+[Claude through T149](research/panini_grammar/opportunity_necessity/COMPANION_UPDATE.md)
+credits san development and gives semantic/pada, alternative-relation and
+archive-key adapters. [Work/frontier](research/panini_grammar/opportunity_necessity/WORK_RECORD.md)
+keeps grammar/navigation/operator tests and replay deferred. The next
+written block is 3.3.172 and 3.3.174–176; full nominal paradigms,
+unbuilt lexical exceptions and wider grammar closure remain open.
 
 ## PG28: bhuj/tṛh exceptions, contextual liṅ and actor identity
 

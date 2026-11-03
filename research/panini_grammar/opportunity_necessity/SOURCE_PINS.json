@@ -1,0 +1,450 @@
+{
+  "schema": "rkf.panini.pg29.source_pins.v1",
+  "author": "Monty",
+  "date": "2026-11-03",
+  "construction_base_commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+  "primary_edition": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/data.txt",
+      "sha256": "6a22591f418cd924ba4bd621944de2359cc06721b5ada79ef08d70f17a07bcc6",
+      "bytes": 3979366
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "dhatu/data.txt",
+      "sha256": "e8c0e929294c4ab68455b461ee81234e7a0febac1b72e6873ea832354a28b641",
+      "bytes": 2505028
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kashika.txt",
+      "sha256": "ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254",
+      "bytes": 3806703
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kaumudi.txt",
+      "sha256": "c1938e832ddc2e148ae36257448ee3391f71cdac28be19dc4bfdc3881f3b457d",
+      "bytes": 2057933
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/balamanorama.txt",
+      "sha256": "0810e4c59d1642122186e1f0838af15859ea2d48487f6ee5e9006cf5302e9238",
+      "bytes": 6995341
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/tattvabodhini.txt",
+      "sha256": "6784a8d4f84de1f7b5653851ab5ff52ca88b3b28204b9515b74f0b75a9d3c2b4",
+      "bytes": 4769767
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/nyaas.txt",
+      "sha256": "09766f127e9523d911179065fed777a17c4f832b336e745f13c0b2cebc76c0ce",
+      "bytes": 9286920
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/padamanjari.txt",
+      "sha256": "93b817859e7333f326b0aaec7f17b03d83ff3d34cf3200402e929e8a21ce28cc",
+      "bytes": 7828904
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/laghukaumudi.txt",
+      "sha256": "ac02643c3e389022710ef9cb0c21fc8f94876f67d28956c214078297ff088862",
+      "bytes": 433216
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/prakriyasarvasvam.txt",
+      "sha256": "78750fdd7372dcb0bf9c3a098542783404537e2e9114832ffe6138e47b8293c9",
+      "bytes": 2237275
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/praudhamanorama.txt",
+      "sha256": "a70d823399dffb76b4dd12d950f72588a397dceabd16a4a59f587792334be0fa",
+      "bytes": 825568
+    }
+  ],
+  "predecessor_dependencies": [
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "AGENTS.md",
+      "sha256": "6c9ba8deeb393e1600c3dabcbe2289bcd04af322cff02c71bbc17c5aca5549a4",
+      "bytes": 4884
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "MATHEMATICS_INDEX.md",
+      "sha256": "747d053ec220638ebfc3af4de839ff4bdd309cfc2e7a95ecb4f60e42bf680872",
+      "bytes": 143222
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "MATHEMATICS_INDEX_2026_09_16.md",
+      "sha256": "6f97f186c123c50b7625c23291d4a084dfe6c2347e82c824b86891a5a2dabbe0",
+      "bytes": 43220
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "operator_foundation/CANONICAL_HOME.json",
+      "sha256": "6c5a7756ff220e7a9afa7fdb72151781f1777e2099880788f21a1e1b780ced39",
+      "bytes": 440
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "operator_foundation/README.md",
+      "sha256": "5fa13d4df90b33597e3c72d1860258d0492d8680583e7b7e3b2e13dddfc6bbc9",
+      "bytes": 7423
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "operator_foundation/theory/NATIVE_PRIMITIVE_ORDER.md",
+      "sha256": "f1f2fa357d41745445bcaf403784edbec6a17cbd78bc400cbd1229aa682c0fd9",
+      "bytes": 5149
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "operator_foundation/theory/01_NATIVE_ALGEBRA.md",
+      "sha256": "ea07ab9f0f8a47e63f8ee973638669f596308cec4ed234ced7497a5f7539ecf5",
+      "bytes": 10650
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/SOURCES.md",
+      "sha256": "22611fe82ce80ffa4abe3cf7fa74dc43e3a2171eab3f9945113ce2bf03c183f5",
+      "bytes": 9172
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/grammar_construction/STATE_AND_COMPOSITION.md",
+      "sha256": "b9164206d5389f91a77bbd90b523dbce40a79e2dbd7983bc5adbad45a7539b99",
+      "bytes": 8210
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "bytes": 11855
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/grammar_construction/SOURCE_PINS.json",
+      "sha256": "2bdc0c29fe3359bfd7f7b884d4ede6f0e60addeb2e4919c31b6dc8423e08fd38",
+      "bytes": 10462
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/future_construction/ENDING_CONSTRUCTION.md",
+      "sha256": "314079f933bf13c27295dd60a00274592e6ca1f860c3e134b3ddb9e58c26744c",
+      "bytes": 9538
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/future_construction/DERIVATIONS.md",
+      "sha256": "0efe240b0eac321a325496e6945c3d6cf661c5d31db808dd732c7a5b8d698b71",
+      "bytes": 12730
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/future_construction/SOURCE_PINS.json",
+      "sha256": "10ab285696e8bf76ca25f8601e5f3691add49e979dacd109be8e093fcdd227c7",
+      "bytes": 9644
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/imperative_optative/DOMAIN_AND_MODALITY.md",
+      "sha256": "c834fb0739ed6e7561afdd3fa3aaf08c1b731b73e79d83ae854a33ddd93a01f0",
+      "bytes": 8289
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/imperative_optative/ENDING_CONSTRUCTION.md",
+      "sha256": "9afb31c9e5ff75d1fbbd2bfa7787c41dc12e4907ef716553fdaeb2a97a5585f8",
+      "bytes": 9635
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/imperative_optative/THEMATIC_DERIVATIONS.md",
+      "sha256": "befeacb367c1bc5a82e77d95501821cc261b85c8486bfd869ee3285e79cf6c38",
+      "bytes": 5313
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/imperative_optative/SOURCE_PINS.json",
+      "sha256": "79a5bbe400ef1c19ffb31c632db466f78f7df7895e074d698b1b557d956710fd",
+      "bytes": 19797
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/athematic_modals/PARADIGMS.md",
+      "sha256": "671c60ec2d3e586ff8ec0b44013aeb09bdbe305b6c8324820392c268399b177b",
+      "bytes": 7560
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/athematic_modals/SOURCE_PINS.json",
+      "sha256": "53ffda657adbb97b7f27007fe2151a1105565c34d75ba9a35149e57a2af01758",
+      "bytes": 21898
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/exception_modal_contexts/README.md",
+      "sha256": "05a0eecb18008b6b31b754f60ce761a59563bec6f1961b2e41221718a44ef966",
+      "bytes": 2866
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/exception_modal_contexts/DESIRE_AND_ACTOR_BINDING.md",
+      "sha256": "8a710ea2d8a384c9328d94a6fa2f2a401c7d895cb0e4051434e0725db036bc34",
+      "bytes": 4989
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/exception_modal_contexts/PARADIGMS.md",
+      "sha256": "423360b5d8564985481796f635ee7e7d49bcb4f430fbe0bcd5f2080abbb9c984",
+      "bytes": 4174
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/exception_modal_contexts/NATIVE_ACTOR_AND_QUERY_TRANSPORT.md",
+      "sha256": "26bcd2b18f58dd9f43088349a3ba52ac894c7cc43619613ea57e743b66224721",
+      "bytes": 8114
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/exception_modal_contexts/SOURCE_REVIEW.md",
+      "sha256": "76bec86e07da68ded55d6b210d03dfdf403a51460ec0c65bfcf533945709b6a4",
+      "bytes": 7203
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/exception_modal_contexts/SOURCE_EXCERPTS.json",
+      "sha256": "a761f9e09dd9ac9e1d305774806ce4a75e0e129a56ed6df2937160ace2dc26df",
+      "bytes": 332011
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/exception_modal_contexts/SOURCE_PINS.json",
+      "sha256": "23e6407d0247bd2a366af22438089ca7413a422c5b0b92e3ca5d82dcdeff1b73",
+      "bytes": 21713
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/exception_modal_contexts/COVERAGE.json",
+      "sha256": "4f049d06e15f4cc2996da3e2cfe372766a1df26f33871a343433f2e9e5fa3e23",
+      "bytes": 35122
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/exception_modal_contexts/COMPANION_UPDATE.md",
+      "sha256": "3e5d63d7c3f807e6f28f262ac3d346e4feed371fbddb645ea89858356bc537f5",
+      "bytes": 5911
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "6af9c04af2e8543512b1eb8dd3e2d457fae234b0",
+      "path": "research/panini_grammar/exception_modal_contexts/WORK_RECORD.md",
+      "sha256": "d7494d353a25b962c430aae353407f4f78a1d79d5d32e6eacbccd1bb3f4aad0c",
+      "bytes": 5171
+    }
+  ],
+  "companion_inspection": {
+    "branch": "shaiva-sources-maheshvara-spanda-pratyabhijna",
+    "commit": "629250fde1f8ae524b44c86358ba940d5a497574",
+    "parent": "fb8547e06051b6aaa1e43f13ddf7a295417c2ba6",
+    "status": "Complete T149 capsule/generator; targeted rows/helpers/diff, kernel/ledger and archive metadata. No whole-engine audit or replay.",
+    "files": [
+      {
+        "repository": "Parveen117/Recognition-Kernel-Framework",
+        "commit": "629250fde1f8ae524b44c86358ba940d5a497574",
+        "path": "proof_lab/ting_rule_table_engine.py",
+        "sha256": "83de90042905e6b2c1cc994f7df8a063be866cb0f29ee0a1833d63a23c236012",
+        "bytes": 167711
+      },
+      {
+        "repository": "Parveen117/Recognition-Kernel-Framework",
+        "commit": "629250fde1f8ae524b44c86358ba940d5a497574",
+        "path": "proof_lab/astadhyayi/ASTADHYAYI_LEDGER.json",
+        "sha256": "a44e16610ec1d4ebfc92146c9f5878c74a81d574d1ab364a105729bba4e1d43c",
+        "bytes": 561348
+      },
+      {
+        "repository": "Parveen117/Recognition-Kernel-Framework",
+        "commit": "629250fde1f8ae524b44c86358ba940d5a497574",
+        "path": "proof_lab/panini_kernel.py",
+        "sha256": "24cba0d20574c0682fefba111fea29df595b035ec32acc7bed1ed677cf84362a",
+        "bytes": 8226
+      },
+      {
+        "repository": "Parveen117/Recognition-Kernel-Framework",
+        "commit": "629250fde1f8ae524b44c86358ba940d5a497574",
+        "path": "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "sha256": "4bccbc3fbcff1f77f55825e478a6b5e66dcebbcddc2a4def02c74af95d27c123",
+        "bytes": 6041
+      },
+      {
+        "repository": "Parveen117/Recognition-Kernel-Framework",
+        "commit": "629250fde1f8ae524b44c86358ba940d5a497574",
+        "path": "research/independent_oracle/VIDYUT_SAN_LANE.json",
+        "sha256": "d61ebdc63b0f21f9cd42f326ab39100df4e5c946fb2e651b3bdd9c5c1556f579",
+        "bytes": 587456
+      },
+      {
+        "repository": "Parveen117/Recognition-Kernel-Framework",
+        "commit": "629250fde1f8ae524b44c86358ba940d5a497574",
+        "path": "research/independent_oracle/san_lane.py",
+        "sha256": "81f8c06083b6e4a7188440fce091adf01ac7e977b5e38d4a659fd0b484ed42ec",
+        "bytes": 2444
+      },
+      {
+        "repository": "Parveen117/Recognition-Kernel-Framework",
+        "commit": "629250fde1f8ae524b44c86358ba940d5a497574",
+        "path": "proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256",
+        "sha256": "17640604036cc08e5c3111c00a15fb7156d119ae7b8b23f5973fe57147a09839",
+        "bytes": 65
+      },
+      {
+        "repository": "Parveen117/Recognition-Kernel-Framework",
+        "commit": "629250fde1f8ae524b44c86358ba940d5a497574",
+        "path": "proof_lab/PANINI_KERNEL_EXPECTED.sha256",
+        "sha256": "e74bf7d8a9952351731b58aaaddc70ec1627d3111dfbf646dfe4867f7143fb41",
+        "bytes": 65
+      }
+    ],
+    "prior_files": [
+      {
+        "repository": "Parveen117/Recognition-Kernel-Framework",
+        "commit": "fb8547e06051b6aaa1e43f13ddf7a295417c2ba6",
+        "path": "proof_lab/astadhyayi/ASTADHYAYI_LEDGER.json",
+        "sha256": "67688df1daf188904404ccfe11e10d3e7bbca0d96041e56737392c4cbbbc17cd",
+        "bytes": 553170
+      },
+      {
+        "repository": "Parveen117/Recognition-Kernel-Framework",
+        "commit": "fb8547e06051b6aaa1e43f13ddf7a295417c2ba6",
+        "path": "theorum/148_ting_rule_table_engine_nic_theorem.md",
+        "sha256": "21dfb660edf442fe44a78033747860f6ed8d2ce6c0b9341bd7a9a634c9b50b47",
+        "bytes": 4868
+      }
+    ]
+  },
+  "local_archives_and_written_files": [
+    {
+      "path": "COMPANION_UPDATE.md",
+      "sha256": "abd9f808fb352354590c0158cc459aa62eaf6a994411defd985f3b041557e04f",
+      "bytes": 4894
+    },
+    {
+      "path": "COVERAGE.json",
+      "sha256": "0848591a4d86477f1058e679ff97eba30aa928bbad89c6d257afd3893e4d2607",
+      "bytes": 53373
+    },
+    {
+      "path": "DOMAIN_AND_DISCOURSE.md",
+      "sha256": "894cbdf7f58ca02c2ced468d2c0c2eb098c8588cd22085ce785191df136fdfe5",
+      "bytes": 5154
+    },
+    {
+      "path": "EXPRESSION_REGISTER.md",
+      "sha256": "7313b66199f9434f489302608f6ef503196531cf0fcfb136e8840f53ff73fab5",
+      "bytes": 4872
+    },
+    {
+      "path": "KRT_CONSTRUCTION.md",
+      "sha256": "9056bf2ae1ccaf752bbd6d34f8091b9023240efc1436f9e5d64a8b9bdb161b7a",
+      "bytes": 7318
+    },
+    {
+      "path": "NATIVE_TYPED_CHOICE.md",
+      "sha256": "18690107a8652dc71dcc98dc4264eec732ea80ce2ef7e49779e561036899fb9d",
+      "bytes": 6431
+    },
+    {
+      "path": "NECESSITY_AND_CASES.md",
+      "sha256": "83c9b2efee7a994f08d3d2947379eb8f31ffb43c78b293c0213e6fd8337b44a7",
+      "bytes": 5503
+    },
+    {
+      "path": "OPPORTUNITY_AND_WORTHINESS.md",
+      "sha256": "d12adefc1c4362e6549faee241a90fb8a50fcc0e960d2a969182584e3c03368a",
+      "bytes": 6639
+    },
+    {
+      "path": "README.md",
+      "sha256": "656cc1de4537defae7fa4c741626b41bb9e03f5517fa4495c334d87cd751c9a0",
+      "bytes": 2498
+    },
+    {
+      "path": "SOURCE_EXCERPTS.json",
+      "sha256": "2457d9f10837111d4b45a05f6aeaced34af0377d07bb188c97df5f9045564725",
+      "bytes": 272990
+    },
+    {
+      "path": "SOURCE_REVIEW.md",
+      "sha256": "685c83fd4a81061e5cc3fb93b2588a3df0723ba96bbfd1a7c86f3eef141058f5",
+      "bytes": 5283
+    },
+    {
+      "path": "WORK_RECORD.md",
+      "sha256": "f4a2d6580567c2b023ecf6c40d94a08ee64550be87b8284d58a7a44dc354b179",
+      "bytes": 4291
+    }
+  ],
+  "source_counts": {
+    "sutra_texts": 108,
+    "commentary_entries": 158,
+    "nonempty_commentary_entries": 142,
+    "fresh_complete_nonempty_fields": 91,
+    "lexical_entries": 4,
+    "excluded_homonym_entries": 1,
+    "new_finite_profiles": 2
+  },
+  "evidence_status": "WRITTEN_SOURCE_RELATIVE_CONSTRUCTION_NOT_EXECUTED_OR_FORMALIZED",
+  "test_status": "NOT_RUN_OWNER_PRIORITIZED_MATHEMATICAL_GRAMMAR"
+}
