@@ -34,7 +34,7 @@ The kartari lanes and the suite are unchanged (5,373 / 5,373; 1,845 ×4, 1,799, 
 
 ## 3. Certificate
 
-theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `5d304194769dbc0d3f87b196a7d3589b3afd18e184a69f1037118daef1800ed9` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); the previous pin `95d065ae…` (theorum/146, commit db16084) and the chain before it stay in the history. The certificate carries `karmani_lane` beside `open_lane` and `ardhadhatuka_lane`. The kernel re-pinned: `proof_lab/PANINI_KERNEL_EXPECTED.sha256` = `691ca9459edbfe2341c4773a258eb6847a4cbda89933c49aa335357bb39128d5`.
+theorum/129's module, re-pinned: `proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256` = `5d304194769dbc0d3f87b196a7d3589b3afd18e184a69f1037118daef1800ed9` (status `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE`); re-pinned again by theorum/148 (the ṇic), commit 24a2086 holds this pin; the previous pin `95d065ae…` (theorum/146, commit db16084) and the chain before it stay in the history. The certificate carries `karmani_lane` beside `open_lane` and `ardhadhatuka_lane`. The kernel re-pinned: `proof_lab/PANINI_KERNEL_EXPECTED.sha256` = `691ca9459edbfe2341c4773a258eb6847a4cbda89933c49aa335357bb39128d5`.
 
 ```text
 python -m proof_lab.ting_rule_table_engine

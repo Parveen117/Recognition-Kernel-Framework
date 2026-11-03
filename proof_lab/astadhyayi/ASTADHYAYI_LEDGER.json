@@ -11,11 +11,11 @@
   "counts": {
     "compiled": 10,
     "meta": 162,
-    "hand_coded": 399,
-    "cited": 397,
+    "hand_coded": 404,
+    "cited": 399,
     "misnumbered": 2,
-    "entries": 970,
-    "text_missing": 75,
+    "entries": 977,
+    "text_missing": 78,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
     "iast_mismatch_with_pinned_edition": 0
@@ -1661,6 +1661,20 @@
         "theorum/82_paninian_it_samjna_compiled_theorem.md"
       ]
     },
+    "1.3.74": {
+      "text": "ṇicaś ca",
+      "text_devanagari": "णिचश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T148"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
+      ]
+    },
     "1.3.78": {
       "text": "śeṣāt kartari parasmaipadam",
       "text_devanagari": "शेषात् कर्तरि परस्मैपदम्",
@@ -3135,6 +3149,20 @@
         "theorum/146_ting_rule_table_engine_lun_breadth_theorem.md"
       ]
     },
+    "2.4.46": {
+      "text": "ṇau gamir abodhane",
+      "text_devanagari": "णौ गमिरबोधने",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T148"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
+      ]
+    },
     "2.4.52": {
       "text": "aster bhūḥ",
       "text_devanagari": "अस्तेर्भूः",
@@ -3147,7 +3175,8 @@
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
-        "theorum/147_ting_rule_table_engine_karmani_theorem.md"
+        "theorum/147_ting_rule_table_engine_karmani_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
       ]
     },
     "2.4.53": {
@@ -3162,7 +3191,8 @@
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
-        "theorum/147_ting_rule_table_engine_karmani_theorem.md"
+        "theorum/147_ting_rule_table_engine_karmani_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
       ]
     },
     "2.4.62": {
@@ -3431,11 +3461,14 @@
       "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
-        "T105"
+        "T105",
+        "T148"
       ],
       "cited_in": [
         "proof_lab/nic_causative_compiled.py",
-        "theorum/105_nic_causative_compiled_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/105_nic_causative_compiled_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
       ]
     },
     "3.1.32": {
@@ -3448,7 +3481,8 @@
         "T105",
         "T106",
         "T108",
-        "T132"
+        "T132",
+        "T148"
       ],
       "cited_in": [
         "proof_lab/nic_causative_compiled.py",
@@ -3457,7 +3491,8 @@
         "proof_lab/yan_intensive_compiled.py",
         "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/106_san_desiderative_compiled_theorem.md",
-        "theorum/108_yan_intensive_compiled_theorem.md"
+        "theorum/108_yan_intensive_compiled_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
       ]
     },
     "3.1.33": {
@@ -7395,6 +7430,20 @@
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md"
       ]
     },
+    "6.1.48": {
+      "text": "krīṅjīnāṁ ṇau",
+      "text_devanagari": "क्रीङ्जीनां णौ",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T148"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
+      ]
+    },
     "6.1.50": {
       "text": "mīnātiminotidīṅāṁ lyapi ca",
       "text_devanagari": "मीनातिमिनोतिदीङां ल्यपि च",
@@ -7409,7 +7458,30 @@
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
         "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
         "theorum/146_ting_rule_table_engine_lun_breadth_theorem.md",
-        "theorum/147_ting_rule_table_engine_karmani_theorem.md"
+        "theorum/147_ting_rule_table_engine_karmani_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
+      ]
+    },
+    "6.1.54": {
+      "text": "",
+      "text_devanagari": "चिस्फुरोर्णौ",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
+      ]
+    },
+    "6.1.56": {
+      "text": "",
+      "text_devanagari": "बिभेतेर्हेतुभये",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
       ]
     },
     "6.1.64": {
@@ -7757,6 +7829,7 @@
         "theorum/139_ting_rule_table_engine_open_lane_theorem.md",
         "theorum/142_panini_kernel_theorem.md",
         "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
@@ -9706,11 +9779,14 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T105"
+        "T105",
+        "T148"
       ],
       "cited_in": [
         "proof_lab/nic_causative_compiled.py",
-        "theorum/105_nic_causative_compiled_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/105_nic_causative_compiled_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
       ]
     },
     "6.4.98": {
@@ -11056,7 +11132,22 @@
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
         "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
         "theorum/146_ting_rule_table_engine_lun_breadth_theorem.md",
-        "theorum/147_ting_rule_table_engine_karmani_theorem.md"
+        "theorum/147_ting_rule_table_engine_karmani_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
+      ]
+    },
+    "7.1.64": {
+      "text": "labheś ca",
+      "text_devanagari": "लभेश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T148"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
       ]
     },
     "7.1.70": {
@@ -12199,7 +12290,8 @@
         "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/140_ting_rule_table_engine_open_lane_ii_theorem.md",
         "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md",
-        "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md"
+        "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
       ]
     },
     "7.2.115": {
@@ -12225,7 +12317,8 @@
         "theorum/120_krt_mathematical_construction_theorem.md",
         "theorum/122_krt_samasa_source_repairs_theorem.md",
         "theorum/131_ting_rule_table_engine_lit_theorem.md",
-        "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md"
+        "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
       ]
     },
     "7.2.116": {
@@ -12251,7 +12344,8 @@
         "theorum/120_krt_mathematical_construction_theorem.md",
         "theorum/122_krt_samasa_source_repairs_theorem.md",
         "theorum/131_ting_rule_table_engine_lit_theorem.md",
-        "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md"
+        "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
       ]
     },
     "7.2.117": {
@@ -12345,10 +12439,14 @@
       "text_devanagari": "हनस्तोऽचिण्णलोः",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "hand_coded",
+      "theorems": [
+        "T148"
+      ],
       "cited_in": [
-        "theorum/120_krt_mathematical_construction_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/120_krt_mathematical_construction_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
       ]
     },
     "7.3.33": {
@@ -12369,11 +12467,14 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T105"
+        "T105",
+        "T148"
       ],
       "cited_in": [
         "proof_lab/nic_causative_compiled.py",
-        "theorum/105_nic_causative_compiled_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/105_nic_causative_compiled_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
       ]
     },
     "7.3.37": {
@@ -12387,7 +12488,20 @@
       ],
       "cited_in": [
         "proof_lab/nic_causative_compiled.py",
-        "theorum/105_nic_causative_compiled_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/105_nic_causative_compiled_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
+      ]
+    },
+    "7.3.43": {
+      "text": "",
+      "text_devanagari": "रुहः पोऽन्यतरस्याम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
       ]
     },
     "7.3.44": {
@@ -12474,7 +12588,8 @@
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
         "theorum/120_krt_mathematical_construction_theorem.md",
-        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
       ]
     },
     "7.3.55": {
@@ -12709,6 +12824,7 @@
         "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md",
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
         "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
@@ -12731,7 +12847,8 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
         "theorum/146_ting_rule_table_engine_lun_breadth_theorem.md",
-        "theorum/147_ting_rule_table_engine_karmani_theorem.md"
+        "theorum/147_ting_rule_table_engine_karmani_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
       ]
     },
     "7.3.86": {
@@ -12743,7 +12860,8 @@
       "theorems": [
         "T105",
         "T107",
-        "T132"
+        "T132",
+        "T148"
       ],
       "cited_in": [
         "proof_lab/krt_ghan_lyut_nvul_satr_compiled.py",
@@ -12761,7 +12879,8 @@
         "theorum/142_panini_kernel_theorem.md",
         "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md",
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
-        "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md"
+        "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
       ]
     },
     "7.3.87": {
@@ -15283,7 +15402,8 @@
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
         "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md",
-        "theorum/142_panini_kernel_theorem.md"
+        "theorum/142_panini_kernel_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md"
       ]
     },
     "8.4.40": {
