@@ -555,6 +555,27 @@ written IDs, including one explicitly identified inventory restoration.
 head and deferred grammar tests/replay. Other karma luṅ slots and
 ksa/aṅ/caṅ constructions remain open.
 
+**Taddhita relations and the 1,000-ID milestone:**
+[PG35](taddhita_relations/README.md) constructs **313 written rule contracts**
+across all of 4.2–4.3. Combined bounded reach is **1,046/3,983** (+312,
+because 4.3.120 was already in the union); independent written reach is
+**694**. This is the semantic/affix-selection and owned-operation layer.
+Full nominal realization is separate; the existing **11,552 finite
+positions** remain unchanged.
+
+[Domain](taddhita_relations/DOMAIN.md),
+[construction](taddhita_relations/CONSTRUCTION.md) and the
+[complete structured register](taddhita_relations/RULE_REGISTER.json)
+retain case/meaning evidence, original affixes, gaṇa ordinals, scope,
+exceptions and distinct लुक्/लुप् targets. [Native continuation](taddhita_relations/NATIVE_CONTINUATION.md)
+proves dependent branching, scope separation and zero-recovery at this
+selection layer. [Source decisions](taddhita_relations/SOURCE_REVIEW.md),
+[literal archive](taddhita_relations/SOURCE_EXCERPTS.json),
+[pins](taddhita_relations/SOURCE_PINS.json) and
+[coverage](taddhita_relations/COVERAGE.json) keep the count auditable.
+[Handoff/work](taddhita_relations/HANDOFF_AND_WORK.md) records the unchanged
+Claude T152 head, deferred tests/replay and the remaining realization work.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

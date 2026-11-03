@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG34 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG35 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG34 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG35 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,35 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG35: taddhita relations and the 1,000-ID written milestone
+
+[PG35](research/panini_grammar/taddhita_relations/README.md) constructs
+written semantic/affix-selection contracts for all **313 numbered entries
+of 4.2–4.3**. Combined bounded reach rises **734 → 1,046/3,983**, with
+4.3.120 counted only once in the union; independent written reach is
+**694**. This is coverage of the stated selection/operation layer, not
+1,046 fully implemented sūtras. No new finite paradigm positions are
+claimed; their cumulative total remains **11,552**.
+
+[Domain](research/panini_grammar/taddhita_relations/DOMAIN.md) and
+[construction](research/panini_grammar/taddhita_relations/CONSTRUCTION.md)
+separate meaning/case admission, original affixes, scoped exceptions,
+gaṇa membership, dependent alternatives and addressed लुक्/लुप्.
+The [structured register](research/panini_grammar/taddhita_relations/RULE_REGISTER.json)
+transcribes the five complete authored rule tables. It is written
+specification, not executable predicate code.
+
+[Native continuation](research/panini_grammar/taddhita_relations/NATIVE_CONTINUATION.md)
+extends the retained carrier and proves dependent branching, material-scope
+separation and typed zero-recovery for the selection relation. The
+[source review](research/panini_grammar/taddhita_relations/SOURCE_REVIEW.md),
+[literal archive](research/panini_grammar/taddhita_relations/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/taddhita_relations/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/taddhita_relations/COVERAGE.json)
+distinguish constructed rows from mere citations. [Handoff/work](research/panini_grammar/taddhita_relations/HANDOFF_AND_WORK.md)
+records unchanged Claude T152, deferred grammar tests/replay and the
+unbuilt surface-realization/lexical obligations. Runtime files are unchanged.
 
 ## PG34: actual ciṇ and retained third-singular ending-luk
 

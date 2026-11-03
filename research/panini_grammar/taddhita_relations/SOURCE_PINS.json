@@ -1,0 +1,137 @@
+{
+  "schema": "rkf.panini.pg35.pins.v1",
+  "author": "Monty",
+  "date": "2026-11-04",
+  "construction_base": "931584cf43d2c13afe77de4110372b962d79a901",
+  "primary": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/data.txt",
+      "bytes": 3979366,
+      "sha256": "6a22591f418cd924ba4bd621944de2359cc06721b5ada79ef08d70f17a07bcc6"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kashika.txt",
+      "bytes": 3806703,
+      "sha256": "ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/vasu_english.txt",
+      "bytes": 4660923,
+      "sha256": "4ec4f9519581d508fa2e341ba8c8403b4fff852cec48ae306c4fdadbb47912e1"
+    }
+  ],
+  "predecessors": [
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "931584cf43d2c13afe77de4110372b962d79a901",
+      "path": "research/panini_grammar/cin_aorist/COVERAGE.json",
+      "bytes": 33558,
+      "sha256": "432cb5301fa36401820b0b4f2e3129bb31ca5341ae0ac599307372b2ba3f0db5"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "931584cf43d2c13afe77de4110372b962d79a901",
+      "path": "research/panini_grammar/cin_aorist/NATIVE_CONTINUATION.md",
+      "bytes": 5702,
+      "sha256": "8b58a20cfb41bb2235024be54167e669fbc1c1cc9c2565c1a48385e6ba27b911"
+    }
+  ],
+  "companion": [
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "751dddec31988299cdd5003ebffcbf701b1b0126",
+      "path": "proof_lab/astadhyayi/ASTADHYAYI_LEDGER.json",
+      "bytes": 581851,
+      "sha256": "1fe8970b26b03644ad27985ef4abc7f61a817d3ec800e26927b541067c70b17c"
+    }
+  ],
+  "authored_files": [
+    {
+      "path": "research/panini_grammar/taddhita_relations/CONSTRUCTION.md",
+      "bytes": 9661,
+      "sha256": "53140ea70261b6edd1f4f4dcbbb779add908a7a6b22faf155167d77407a2bd0c"
+    },
+    {
+      "path": "research/panini_grammar/taddhita_relations/COVERAGE.json",
+      "bytes": 46106,
+      "sha256": "8ba4658b04650a93dbc6a555d7c9480c74d3958ef8f2ffc21cce230127f2236c"
+    },
+    {
+      "path": "research/panini_grammar/taddhita_relations/DOMAIN.md",
+      "bytes": 7885,
+      "sha256": "83d48c42407bdf74cc1f7dbac75d611937b2bda633f6e0633bc8c76a9946bf78"
+    },
+    {
+      "path": "research/panini_grammar/taddhita_relations/HANDOFF_AND_WORK.md",
+      "bytes": 5557,
+      "sha256": "c01d1eea6f007841e8280b355a1cc6a3cd6023fa1adf35f6aaa4bc04059ca1b1"
+    },
+    {
+      "path": "research/panini_grammar/taddhita_relations/NATIVE_CONTINUATION.md",
+      "bytes": 7334,
+      "sha256": "4a8f6e4a52a9466995840c620f2b00a585705e77d24202304777011b48149629"
+    },
+    {
+      "path": "research/panini_grammar/taddhita_relations/README.md",
+      "bytes": 2573,
+      "sha256": "0126495f39b247c6d3a57f2549125fbbeca01ae7d544ad2f652cc0be21fca381"
+    },
+    {
+      "path": "research/panini_grammar/taddhita_relations/RULES_4_2_A.md",
+      "bytes": 17411,
+      "sha256": "b4cb869d0650eff4d6a6f337bb4be42b5a4cce0566079252314b1164ac93217d"
+    },
+    {
+      "path": "research/panini_grammar/taddhita_relations/RULES_4_2_B.md",
+      "bytes": 21503,
+      "sha256": "b83155443e9c84d3226c2b9a3e6849fdf3a7d8ecc6b41df8e40616fbf8481f25"
+    },
+    {
+      "path": "research/panini_grammar/taddhita_relations/RULES_4_3_A.md",
+      "bytes": 13898,
+      "sha256": "5572eadeb3c5b23505a95952f119b92648c335eeca30496da44a0c2dc280f445"
+    },
+    {
+      "path": "research/panini_grammar/taddhita_relations/RULES_4_3_B.md",
+      "bytes": 12184,
+      "sha256": "79a32cd5d1f9952707489bdf8dd227faf0f287d35dbec8e757792f71b7351655"
+    },
+    {
+      "path": "research/panini_grammar/taddhita_relations/RULES_4_3_C.md",
+      "bytes": 19014,
+      "sha256": "e9500f35987e9247200957a14f65f1232b848d1f99bdfaefef3bd0d752c269ef"
+    },
+    {
+      "path": "research/panini_grammar/taddhita_relations/RULE_REGISTER.json",
+      "bytes": 297136,
+      "sha256": "4514ce67ddeb71415db66046c9423510f07d30a856a015a63afcaf9bd4500b8a"
+    },
+    {
+      "path": "research/panini_grammar/taddhita_relations/SOURCE_EXCERPTS.json",
+      "bytes": 750704,
+      "sha256": "049d62f5e0bf4220f00d862586f8cb66f9f0448cc6059feabc92572d83ecb3c7"
+    },
+    {
+      "path": "research/panini_grammar/taddhita_relations/SOURCE_REVIEW.md",
+      "bytes": 7675,
+      "sha256": "519d53b2d02ea8a4ce4788dd08c472472d8f933bd80c9e259557818f3600c44b"
+    },
+    {
+      "path": "MATHEMATICS_INDEX.md",
+      "bytes": 160084,
+      "sha256": "bc8f002b5babb5e810f54984db7b28ff95740a4faec68523d75b60106cf118d2"
+    },
+    {
+      "path": "research/panini_grammar/README.md",
+      "bytes": 41562,
+      "sha256": "5f1d924127a4108918b6423a08d90f4ad709ba65276011ac77fb366fd4faf58f"
+    }
+  ],
+  "status": "STATIC_FILE_IDENTITIES; NO_GRAMMAR_EXECUTION_OR_CERTIFICATE_REPLAY"
+}
