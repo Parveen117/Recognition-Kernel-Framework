@@ -520,6 +520,24 @@ credits the new kṛt work without rerunning it. [Work/frontier](prohibitive_lun
 keeps tests/replay deferred and names other luṅ families, passive/bhāva
 continuations and full nominal/compound coverage as remaining work.
 
+**Conditional bhāva/karma and ciṇvat:**
+[PG33](conditional_voice/README.md) adds **229 positions /448 readings**,
+cumulative **11,522**. Its [domain](conditional_voice/DOMAIN_AND_ADMISSION.md)
+retains independent conditional-admission and expressed-controller evidence.
+[Construction](conditional_voice/CONSTRUCTION.md) and the complete symbolic
+[register](conditional_voice/PARADIGMS.md) preserve sourced iṭ, ṇic-lopa,
+grah i/ī, basic/causal gam and the three-way causal mit relation.
+[Native continuation](conditional_voice/NATIVE_CONTINUATION.md) proves
+the bounded transport and zero-reading while retaining formation history.
+
+[Sources](conditional_voice/SOURCE_REVIEW.md), [archive](conditional_voice/SOURCE_EXCERPTS.json),
+[pins](conditional_voice/SOURCE_PINS.json) and [coverage](conditional_voice/COVERAGE.json)
+keep the union at **731/3,983**. Three already-authored IDs are restored
+to the independent-written inventory (373); no new rule breadth is claimed.
+[Claude handoff](conditional_voice/COMPANION_HANDOFF.md) records the unchanged
+T152 head. [Work/frontier](conditional_voice/WORK_RECORD.md) preserves the
+written-first priority and deferred tests/replay.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

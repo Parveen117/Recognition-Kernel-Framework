@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 3 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG32 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG33 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG32 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG33 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,38 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG33: conditional bhāva/karma and typed ciṇvat continuation
+
+[PG33](research/panini_grammar/conditional_voice/README.md) constructs
+**229 additional positions /448 readings**, taking cumulative written
+finite positions to **11,522**. Its [domain](research/panini_grammar/conditional_voice/DOMAIN_AND_ADMISSION.md)
+joins separately established R admission to four basic Bhāva, twelve
+basic Karma and thirteen causal Karma profiles. Bhāva keeps only 3sg;
+Karma agrees with its source-qualified expressed karman.
+
+[Construction](research/panini_grammar/conditional_voice/CONSTRUCTION.md)
+preserves actual sya, ordinary/ciṇvat augment origin, query-relative
+ṇic-lopa, grah i/ī, causal mit options and the distinct basic gam A
+guard. The [register](research/panini_grammar/conditional_voice/PARADIGMS.md)
+specifies every word by explicit tuples and all branch arguments.
+[Native continuation](research/panini_grammar/conditional_voice/NATIVE_CONTINUATION.md)
+constructs controller cuts, partial inner transport and typed zero-recovery;
+equal readouts do not collapse basic Bhāva and causal Karma histories.
+
+[Sources](research/panini_grammar/conditional_voice/SOURCE_REVIEW.md),
+[literal archive](research/panini_grammar/conditional_voice/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/conditional_voice/SOURCE_PINS.json)
+retain direct conditional witnesses and damaged source labels separately.
+[Coverage](research/panini_grammar/conditional_voice/COVERAGE.json) keeps
+the combined union at **731/3,983**; restoring three previously authored
+IDs repairs the independent-written inventory to 373 without new breadth.
+[Handoff](research/panini_grammar/conditional_voice/COMPANION_HANDOFF.md)
+records the unchanged T152 head and required role/owner interfaces.
+[Work record](research/panini_grammar/conditional_voice/WORK_RECORD.md)
+keeps grammar tests, generators, replay, navigation and operator suites
+deferred. Other luṅ families, their voice continuations and wider grammar
+remain open; no whole-grammar or application-level guarantee is claimed.
 
 ## PG32: ordinary luṅ, prohibitive A and retained sic history
 
