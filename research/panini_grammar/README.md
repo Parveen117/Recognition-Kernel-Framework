@@ -576,6 +576,27 @@ selection layer. [Source decisions](taddhita_relations/SOURCE_REVIEW.md),
 [Handoff/work](taddhita_relations/HANDOFF_AND_WORK.md) records the unchanged
 Claude T152 head, deferred tests/replay and the remaining realization work.
 
+**Next 300: functional taddhita contracts:**
+[PG36](taddhita_functional/README.md) adds **303 contracts** across all of
+4.4, all of 5.1 and 5.2.1–23. Combined bounded reach rises
+**1,046 → 1,348/3,983** (+302; overlap 5.1.122); independent written
+reach is **997**. Full nominal realization is separate, and **11,552
+finite positions** remain unchanged.
+
+[Domain](taddhita_functional/DOMAIN.md),
+[construction](taddhita_functional/CONSTRUCTION.md) and
+[register](taddhita_functional/RULE_REGISTER.json) specify case/meaning
+gates, causal द्विगु, measurement and temporal types, affix identity,
+dependent alternatives and addressed deletion.
+[Native continuation](taddhita_functional/NATIVE_CONTINUATION.md) retains
+these histories under typed zero-recovery. [Source review](taddhita_functional/SOURCE_REVIEW.md),
+[archive](taddhita_functional/SOURCE_EXCERPTS.json),
+[pins](taddhita_functional/SOURCE_PINS.json) and
+[coverage](taddhita_functional/COVERAGE.json) preserve literal evidence,
+adopted corrections, open variants and exact counts.
+[Handoff/work](taddhita_functional/HANDOFF_AND_WORK.md) records unchanged
+Claude T152, deferred tests/replay and the next frontier at **5.2.24**.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

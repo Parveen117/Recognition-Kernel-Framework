@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG35 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG36 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG35 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG36 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,33 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG36: functional taddhita contracts and 1,348 bounded IDs
+
+[PG36](research/panini_grammar/taddhita_functional/README.md) constructs
+**303 written contracts** across **4.4.1–144, 5.1.1–136 and 5.2.1–23**.
+The combined distinct union rises **1,046 → 1,348/3,983** (+302; 5.1.122
+overlaps); independent written reach rises **694 → 997**. These are
+semantic/affix-selection and owned-operation contracts, not complete
+surface paradigms. Finite written positions stay **11,552**, with zero added.
+
+[Domain](research/panini_grammar/taddhita_functional/DOMAIN.md),
+[construction](research/panini_grammar/taddhita_functional/CONSTRUCTION.md)
+and the [303-row register](research/panini_grammar/taddhita_functional/RULE_REGISTER.json)
+retain case-role evidence, causal द्विगु, quantity/time distinctions,
+original markers, scoped exceptions and nested affix deletion.
+[Native continuation](research/panini_grammar/taddhita_functional/NATIVE_CONTINUATION.md)
+proves typed causal-compound/branch properties and zero-recovery at this
+selection layer. It makes no whole-grammar or physical-application claim.
+
+[Source decisions](research/panini_grammar/taddhita_functional/SOURCE_REVIEW.md),
+[literal archive](research/panini_grammar/taddhita_functional/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/taddhita_functional/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/taddhita_functional/COVERAGE.json)
+record corrections, policy-qualified marker variants and exact set accounting.
+[Handoff/work](research/panini_grammar/taddhita_functional/HANDOFF_AND_WORK.md)
+records unchanged Claude T152 and deferred grammar tests/replay. Runtime
+files and earlier packets are unchanged. The next continuous block is 5.2.24.
 
 ## PG35: taddhita relations and the 1,000-ID written milestone
 
