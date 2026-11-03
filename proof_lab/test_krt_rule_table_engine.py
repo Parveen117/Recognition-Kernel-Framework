@@ -26,7 +26,9 @@ class T151Tests(unittest.TestCase):
                             ("gam", "kta"): "gata", ("gam", "tavya"): "gantavya", ("dā", "kta"): "datta", ("dhā", "kta"): "hita", ("labh", "kta"): "labdha", ("bhid", "kta"): "bhinna",
                             ("lih2", "kta"): "līḍha", ("duh2", "kta"): "dugdha", ("vac2", "kta"): "ukta", ("svap2", "kta"): "supta", ("grah9", "kta"): "gṛhīta", ("pac", "ṇvul"): "pācaka",
                             ("han2", "ṇvul"): "ghātaka", ("śī2A", "kta"): "śayita", ("cur", "kta"): "corita", ("cur", "tumun"): "corayitum", ("kṝ9", "kta"): "kīrṇa", ("pṝ3", "kta"): "pūrta",
-                            ("nī", "ṇvul"): "nāyaka", ("div", "kta"): "dyūta", ("hā3", "kta"): "hīna", ("as", "kta"): "bhūta", ("jāgṛ2", "ṇvul"): "jāgaraka"}.items():
+                            ("nī", "ṇvul"): "nāyaka", ("div", "kta"): "dyūta", ("hā3", "kta"): "hīna", ("as", "kta"): "bhūta", ("jāgṛ2", "ṇvul"): "jāgaraka",
+                            ("bhū", "śatṛ"): "bhavat", ("kṛ", "śatṛ"): "kurvat", ("kṛ", "śānac"): "kurvāṇa", ("han2", "śatṛ"): "ghnat", ("as", "śatṛ"): "sat", ("hu", "śatṛ"): "juhvat",
+                            ("krī", "śānac"): "krīṇāna", ("edh", "śānac"): "edhamāna", ("śī2A", "śānac"): "śayāna", ("ās2A", "śānac"): "āsīna", ("bhā2", "śatṛ"): "bhāt"}.items():
             self.assertEqual(derive(r, a)[0], exp, (r, a))
 
     def test_certificate_pin(self) -> None:

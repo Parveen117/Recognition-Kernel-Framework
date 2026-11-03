@@ -1689,7 +1689,7 @@ proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Pāṇini Kernel |
 | Status | `PASS_PANINI_KERNEL_CANDIDATE` |
-| Canonical result SHA-256 | `fa1e7397165c848dc1b3ab8122b783c5a3c66df0e1f446d45f6e0ef206bb9be2` |
+| Canonical result SHA-256 | `2b27183b68fed716a87bbd11fae1b5bded5442429a802dd16596cf63cbfab411` |
 | Boundary | the two engines, the ledger and the evidence as one object: 230 sūtras as rows after theorum/143 (225 at first pin 41854a6b…, in the history), 18 shared (junction / tripādī only), every row a ledger entry and every engine ledger entry a row; coverage counted |
 
 ```text
@@ -1833,11 +1833,27 @@ proof_lab/PANINI_ISA_EXPECTED.sha256
 |---|---|
 | Certificate class | kṛt rule-table engine I — eight kṛt affixes (kta, ktavatu, tavya, anīya, tumun, ktvā, tṛc, ṇvul) on every declared root, 1,537 / 1,544 |
 | Status | `PASS_KRT_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `a2a124d38a97b6b5b85259f7e54d40966bc9d4304ec4360bd8cddf61f07effd4` |
+| Canonical result SHA-256 | `f6ec030c3a759e6205ab86a537357cbc547ec8807839f28eb4965e81a55c296c` |
 | Boundary | the first kṛt table: 72 rows over a three-segment state (root | iṭ | affix) deriving the niṣṭhā (kta, ktavatu), tavya / anīya, tumun, ktvā, tṛc, ṇvul of all 193 declared roots — the affix's kit-ness by 1.1.5 / 1.2.18 / 1.2.19 / 1.2.8 / 1.2.26, its iṭ under 7.2.11 / 7.2.14 / 7.2.15 / 7.2.16 / 7.2.56, the root before the kit (6.4.37, 6.4.42, 6.4.15, 6.1.15 / 6.1.16, 6.4.24, 6.4.19, 7.4.40 / 7.4.42 / 7.4.43 / 7.4.46, 6.4.66, 7.1.100 / 7.1.102 / 8.2.77), the grades before the non-kit and the ṇit (7.3.84, 7.3.86, 7.2.115 / 7.2.116, 7.3.33), the niṣṭhā's n / k / v (8.2.42–8.2.45, 8.2.52, 8.2.56, 8.2.57) and the tripādī — 1,537 / 1,544 on the generator's cells (daridrā, śvasta, mṛditvā / mṛḍitvā named) — PROVED on the agreeing cells, DECLARED on the lane; the aṅga rows shared with the verbal table declared as the one sūtra written twice, to be folded |
 
 ```text
 theorum/151_krt_rule_table_engine_theorem.md
+proof_lab/krt_rule_table_engine.py
+proof_lab/test_krt_rule_table_engine.py
+proof_lab/KRT_RULE_TABLE_ENGINE_EXPECTED.sha256
+```
+
+## Theorem 152 kṛt rule-table engine II — śatṛ and śānac as the verbal table's laṭ aṅga, 212 / 212 packet
+
+| Field | Value |
+|---|---|
+| Certificate class | kṛt rule-table engine II — śatṛ and śānac as the verbal table's laṭ aṅga, 212 / 212 |
+| Status | `PASS_KRT_RULE_TABLE_ENGINE_CANDIDATE` |
+| Canonical result SHA-256 | `f6ec030c3a759e6205ab86a537357cbc547ec8807839f28eb4965e81a55c296c` |
+| Boundary | śatṛ / śānac of all 193 declared roots in the declared pada: 3.2.124 as one row that calls the verbal table for the laṭ 3p aṅga (3.4.113: the śit kṛt is sārvadhātuka) and places at / āna, with 6.1.97, 6.1.101, 7.2.82 āne muk, 7.2.83 īdāsaḥ, 7.4.21 — 212 / 212 on the generator's cells (bhavat, juhvat, kurvat, ghnat, sat, yat; bhavamāna, kurvāṇa, śayāna, āsīna); the lane 1,756 cells, 1,749 agree; 78 rows load-bearing — PROVED on the agreeing cells, DECLARED on the lane; the first table built from another by call, not restatement |
+
+```text
+theorum/152_krt_rule_table_engine_satr_sanac_theorem.md
 proof_lab/krt_rule_table_engine.py
 proof_lab/test_krt_rule_table_engine.py
 proof_lab/KRT_RULE_TABLE_ENGINE_EXPECTED.sha256

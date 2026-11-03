@@ -11,10 +11,10 @@
   "counts": {
     "compiled": 10,
     "meta": 169,
-    "hand_coded": 432,
+    "hand_coded": 434,
     "cited": 390,
     "misnumbered": 2,
-    "entries": 1003,
+    "entries": 1005,
     "text_missing": 81,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
@@ -1004,10 +1004,12 @@
         "T129"
       ],
       "cited_in": [
+        "proof_lab/krt_rule_table_engine.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/139_ting_rule_table_engine_open_lane_theorem.md",
+        "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md"
       ]
     },
@@ -1714,6 +1716,7 @@
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
         "proof_lab/atmanepada_lrt_lut_compiled.py",
         "proof_lab/atmanepada_lun_compiled.py",
+        "proof_lab/krt_rule_table_engine.py",
         "proof_lab/lat_atmanepada.py",
         "proof_lab/paninian_it_samjna_compiled.py",
         "proof_lab/ting_rule_table_engine.py",
@@ -1724,6 +1727,7 @@
         "theorum/117_asirlin_atmanepada_compiled_theorem.md",
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
+        "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md",
@@ -1816,15 +1820,18 @@
         "T95",
         "T105",
         "T106",
-        "T129"
+        "T129",
+        "T152"
       ],
       "cited_in": [
+        "proof_lab/krt_rule_table_engine.py",
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/nic_causative_compiled.py",
         "proof_lab/san_desiderative_compiled.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/129_ting_rule_table_engine_theorem.md",
+        "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -4496,12 +4503,15 @@
       "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
-        "T107"
+        "T107",
+        "T152"
       ],
       "cited_in": [
         "proof_lab/krt_ghan_lyut_nvul_satr_compiled.py",
+        "proof_lab/krt_rule_table_engine.py",
         "theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md",
-        "theorum/120_krt_mathematical_construction_theorem.md"
+        "theorum/120_krt_mathematical_construction_theorem.md",
+        "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md"
       ]
     },
     "3.2.135": {
@@ -5671,6 +5681,7 @@
       ],
       "cited_in": [
         "proof_lab/krt_ghan_lyut_nvul_satr_compiled.py",
+        "proof_lab/krt_rule_table_engine.py",
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lat_atmanepada.py",
         "proof_lab/nic_causative_compiled.py",
@@ -5686,6 +5697,7 @@
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
+        "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
@@ -8287,12 +8299,14 @@
         "T113",
         "T124",
         "T128",
-        "T129"
+        "T129",
+        "T152"
       ],
       "cited_in": [
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
         "proof_lab/atmanepada_lrt_lut_compiled.py",
         "proof_lab/krt_ghan_lyut_nvul_satr_compiled.py",
+        "proof_lab/krt_rule_table_engine.py",
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lat_atmanepada.py",
         "proof_lab/lot_lin_parasmaipada_compiled.py",
@@ -8326,6 +8340,7 @@
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/142_panini_kernel_theorem.md",
         "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
@@ -8393,6 +8408,7 @@
         "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
         "theorum/150_panini_isa_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
+        "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
@@ -10835,6 +10851,7 @@
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
         "proof_lab/atmanepada_lrt_lut_compiled.py",
         "proof_lab/atmanepada_lun_compiled.py",
+        "proof_lab/krt_rule_table_engine.py",
         "proof_lab/lan_parasmaipada_compiled.py",
         "proof_lab/lat_atmanepada.py",
         "proof_lab/lot_lin_parasmaipada_compiled.py",
@@ -10855,6 +10872,7 @@
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/137_independent_oracle_audit_theorem.md",
+        "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/82_paninian_it_samjna_compiled_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md",
@@ -10873,11 +10891,13 @@
         "T133"
       ],
       "cited_in": [
+        "proof_lab/krt_rule_table_engine.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
         "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
         "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
-        "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md"
+        "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
+        "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md"
       ]
     },
     "7.1.5": {
@@ -10912,8 +10932,10 @@
         "T136"
       ],
       "cited_in": [
+        "proof_lab/krt_rule_table_engine.py",
         "proof_lab/ting_rule_table_engine.py",
-        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md"
+        "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
+        "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md"
       ]
     },
     "7.1.9": {
@@ -11496,6 +11518,7 @@
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md",
         "theorum/121_taddhita_mathematical_construction_theorem.md",
         "theorum/125_sup_rule_table_engine_theorem.md",
+        "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md",
         "theorum/93_napumsaka_sup_compiled_theorem.md"
       ]
     },
@@ -12320,6 +12343,34 @@
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
+      ]
+    },
+    "7.2.82": {
+      "text": "āne muk",
+      "text_devanagari": "आने मुक्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T152"
+      ],
+      "cited_in": [
+        "proof_lab/krt_rule_table_engine.py",
+        "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md"
+      ]
+    },
+    "7.2.83": {
+      "text": "īdāsaḥ",
+      "text_devanagari": "ईदासः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T152"
+      ],
+      "cited_in": [
+        "proof_lab/krt_rule_table_engine.py",
+        "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md"
       ]
     },
     "7.2.84": {
@@ -13999,12 +14050,15 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T136"
+        "T136",
+        "T152"
       ],
       "cited_in": [
+        "proof_lab/krt_rule_table_engine.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
-        "theorum/147_ting_rule_table_engine_karmani_theorem.md"
+        "theorum/147_ting_rule_table_engine_karmani_theorem.md",
+        "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md"
       ]
     },
     "7.4.22": {
@@ -16075,6 +16129,7 @@
         "theorum/149_ting_rule_table_engine_san_theorem.md",
         "theorum/150_panini_isa_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
+        "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",

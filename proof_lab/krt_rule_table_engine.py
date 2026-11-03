@@ -1,7 +1,7 @@
 from __future__ import annotations
 
-"""Exact certificate (theorum/151): THE KṚT RULE-TABLE ENGINE — eight kṛt affixes (kta, ktavatu, tavya, anīya,
-tumun, ktvā, tṛc, ṇvul) on every root the verbal engine declares, as one ordered table of sūtras over a segmented
+"""Exact certificate (theorum/151, 152): THE KṚT RULE-TABLE ENGINE — eight kṛt affixes (kta, ktavatu, tavya, anīya,
+tumun, ktvā, tṛc, ṇvul) and, from theorum/152, śatṛ / śānac (the laṭ aṅga as the verbal table builds it) on every root the verbal engine declares, as one ordered table of sūtras over a segmented
 state (root | iṭ | affix), read against the independent generator's cells (research/independent_oracle/VIDYUT_KRT_LANE.json).
 
 The table is a third table beside theorum/125's nominal and theorum/129's verbal one: the aṅga rows it shares with the
@@ -21,6 +21,7 @@ from typing import Any, Callable
 
 from proof_lab.paninian_it_samjna_compiled import its
 from proof_lab.sup_rule_table_engine import V, tok
+from proof_lab import ting_rule_table_engine as TIN
 from proof_lab.ting_rule_table_engine import (CAR, DEASP, GANA, GHU, GUNA, HRASVA, IN, JAS_ALL, JHAL, NASAL, PU_LIST, ROOTS, SAMPRASARANA, VAL, VRDDHI, anudatta, dhatu_entry)
 
 SOURCES = {
@@ -42,12 +43,15 @@ SOURCES = {
     "3.1.25": "satyāpapāśarūpavīṇātūlaślokasenālomatvacavarmavarṇacūrṇacurādibhyo ṇic", "6.4.51": "ṇer aniṭi", "6.4.52": "niṣṭhāyāṁ seṭi", "7.1.58": "idito nuṁ dhātoḥ", "8.3.24": "naś cāpadāntasya jhali", "8.4.58": "anusvārasya yayi parasavarṇaḥ",
     "6.4.19": "cchvoḥ śūḍ anunāsike ca", "6.1.77": "iko yaṇ aci", "6.4.2": "halaḥ", "7.4.43": "jahāteś ca ktvi", "7.3.33": "āto yuk ciṇkṛtoḥ", "6.1.101": "akaḥ savarṇe dīrghaḥ", "1.2.8": "rudavidamuṣagrahisvapipracchaḥ sa~ś ca",
     "6.1.64": "dhātvādeḥ ṣaḥ saḥ", "6.1.65": "ṇo naḥ", "7.3.85": "jāgro 'viciṇṇalṅitsu", "7.2.114": "mṛjer vṛddhiḥ", "6.4.42": "janasanakhanāṁ sañjhaloḥ", "6.4.15": "anunāsikasya kvijhaloḥ kṅiti", "7.1.64": "labheś ca",
+    "3.2.124": "laṭaḥ śatṛśānacāv aprathamāsamānādhikaraṇe", "3.4.113": "tiṅśit sārvadhātukam", "7.2.82": "āne muk", "7.2.83": "īdāsaḥ", "7.4.21": "śīṅaḥ sārvadhātuke guṇaḥ", "6.1.97": "ato guṇe",
     "8.3.13": "ḍho ḍhe lopaḥ", "6.3.111": "ḍhralope pūrvasya dīrgho 'ṇaḥ", "8.4.56": "vāvasāne",
 }
 LANE_FILE = Path(__file__).resolve().parent.parent / "research" / "independent_oracle" / "VIDYUT_KRT_LANE.json"
 AFFIX = {   # the affix after its its (1.3.2–1.3.8): the sounds that stand
     "kta": ("ta", True), "ktavatu": ("tavat", True), "ktvā": ("tvā", True), "tavya": ("tavya", False), "anīya": ("anīya", False), "tumun": ("tum", False), "tṛc": ("tṛ", False), "ṇvul": ("vu", False),
+    "śatṛ": ("at", False), "śānac": ("āna", False),   # theorum/152: śit (3.4.113 sārvadhātuka), apit → ṅidvat (1.2.4); the laṭ aṅga stands before them
 }
+SARVA_KRT = ("śatṛ", "śānac")
 NISTHA = ("kta", "ktavatu")   # 1.1.26 ktaktavatū niṣṭhā
 NIT_KRT = ("ṇvul",)           # ṇit: vṛddhi by 7.2.115 / 7.2.116
 NATVA_PASS = set(V) | {"k", "kh", "g", "gh", "ṅ", "p", "ph", "b", "bh", "m", "h", "y", "v", "ṁ"}
@@ -64,6 +68,8 @@ class K:
         if up.endswith("aṣ") and r.endswith("a"):
             r = r[:-1]
         self.r = tok(r); self.up_root = up; self.gana = g; self.root = root; self.affix = affix
+        pd0 = NASAL[root][2] if root in NASAL else ROOTS[root][1]
+        self.pada = {"śatṛ": "P", "śānac": "A"}.get(affix, pd0 if pd0 in ("P", "A") else "P")   # 3.2.124 under 1.3.78 / 1.3.12: śatṛ with the parasmaipada, śānac with the ātmanepada
         self.it: list[str] = []
         self.aff = tok(AFFIX[affix][0]); self.kit0 = AFFIX[affix][1]
         self.flags: set[str] = set(); self.done: set[str] = set(); self.path: list[str] = []
@@ -102,6 +108,12 @@ def _conj_init(s: K) -> bool:
 def rules() -> list[Rule]:
     R: list[Rule] = []
     def add(n, g, a, note): R.append((n, g, a, note))
+    # ---- phase 0: śatṛ / śānac — the laṭ aṅga as theorum/129's verbal table builds it (3.2.124; 3.4.113) ------
+    add("3.2.124", lambda s: s.affix in SARVA_KRT, lambda s: _lat_anga(s), "śatṛ / śānac for laṭ: the aṅga before the 3p sārvadhātuka of laṭ, built by the verbal table (bhavat, juhvat, krīṇat, sunvat, kurvat, ghnat, sat, yat; bruvāṇa, dadāna, kurvāṇa)")
+    add("7.4.21", lambda s: s.affix == "śānac" and s.up_root == "śīṅ", lambda s: setattr(s, "r", tok("śay")), "guṇa of śī before the sārvadhātuka, ay before the vowel (śayāna; the ruṭ of 7.1.6 is jha's)")
+    add("7.2.83", lambda s: s.affix == "śānac" and s.up_root == "āsa~", lambda s: setattr(s, "aff", tok("īna")), "īna for āna after ās (āsīna)")
+    add("6.1.97", lambda s: s.affix == "śatṛ" and s.r[-1] == "a" and s.aff[:1] == ["a"], lambda s: s.r.pop(), "pararūpa: the a of the aṅga and the a of at are one a (bhavat, adat, tudat, corayat)")
+    add("7.2.82", lambda s: s.affix == "śānac" and s.r[-1] == "a" and s.aff == tok("āna"), lambda s: setattr(s, "aff", tok("māna")), "muk to the a-final aṅga before āna (bhavamāna, edhamāna, labhamāna, corayamāṇa)")
     # ---- phase 1: the root before the ārdhadhātuka kṛt (2.4, 6.1) ----------------------------------------
     add("2.4.52", lambda s: s.up_root == "asa~" and s.r == tok("as"), lambda s: (setattr(s, "r", tok("bhū")), setattr(s, "up_root", "bhū"), setattr(s, "gana", 1)), "bhū for as before the ārdhadhātuka (bhūta, bhavitum)")
     add("2.4.53", lambda s: s.up_root == "brūñ" and s.r == tok("brū"), lambda s: (setattr(s, "r", tok("vac")), setattr(s, "up_root", "vaca~"), setattr(s, "gana", 2)), "vac for brū before the ārdhadhātuka (ukta, vaktum)")
@@ -205,6 +217,19 @@ def _natva_set(s: K) -> None:
 
 RULES = rules()
 IDS = [r[0] for r in RULES]
+SARVA_ROWS = {"3.2.124", "7.4.21", "7.2.83", "7.2.82", "6.1.97", "6.1.101", "8.4.2"}   # the rows that read the śatṛ / śānac state; the aṅga itself is the verbal table's
+
+
+def _lat_anga(s: K) -> None:
+    """The laṭ 3p form of the verbal table with its ending removed: anti / ati (7.1.3 / 7.1.4) in parasmaipada, ante / ate in ātmanepada."""
+    form = TIN.conjugate(s.root, "laṭ", "3p", pada=s.pada)[0]
+    for end in ("anti", "ati", "ante", "ate", "nti"):
+        if form.endswith(end):
+            stem = form[: -len(end)] + ("a" if end in ("anti", "ante") else "")
+            break
+    else:
+        raise ValueError(f"{s.root}: the laṭ 3p ending not read ({form})")
+    s.r = tok(stem); s.flags.add("laṭ-aṅga")
 
 
 def norm_id(rid: str) -> str:
@@ -216,7 +241,7 @@ def derive(root: str, affix: str, off=()) -> tuple[str, list[str]]:
     s = K(root, affix)
     s.path.append(f"{root} ({s.up_root}) + {affix} → {''.join(s.aff)}")
     for n, guard, action, note in RULES:
-        if n in off:
+        if n in off or (s.affix in SARVA_KRT and n not in SARVA_ROWS):
             continue
         before = (s.form(), frozenset(s.flags))
         if guard(s):
@@ -270,7 +295,7 @@ def build_certificate() -> dict[str, Any]:
             "lane": {k: t1[k] for k in ("cells", "agree", "by_affix", "disagree")}, "load_bearing": t2,
             "claim_boundary": {"proved_by_exact_finite_certificate": ["every agreeing lane cell is derived by the rows in table order; every row is load-bearing on an agreeing cell"],
                                "declared": ["the lane (vidyut-prakriya) as an oracle of implementation grade; the disagreeing cells are listed, each with the engine's form"],
-                               "NOT_claimed": ["the disagreeing cells; śatṛ / śānac, lyuṭ, ghañ, ṇini, the taddhita; accent; RH, YM"]}}
+                               "NOT_claimed": ["the disagreeing cells; lyuṭ, ghañ, ṇini, kvip, the taddhita; the declension of the kṛdanta; accent; RH, YM"]}}
 
 
 def canonical_bytes(payload: dict[str, Any]) -> bytes:

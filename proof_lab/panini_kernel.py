@@ -35,7 +35,7 @@ EVIDENCE = {   # file → sha256 pinned in the capsule that produced it
     "research/independent_oracle/GENERALIZE.json": "f2b10f6427363abaa1389e77ab4d809603c3f07bd7d2b1ed5de18679886e72a6",   # re-pinned by theorum/143 (23f925a6… was theorum/140's)
     "research/independent_oracle/GENERALIZE_SUP.json": "a55b73b2e4371ffeecb3898840bfd6fd753034bdf2e172252d1bbdaaebb11df3",
 }
-ENGINE_THEOREMS = {"sup_rule_table_engine": ["125", "126", "127", "128", "141"], "ting_rule_table_engine": ["129", "130", "131", "132", "133", "134", "135", "136", "137", "138", "139", "140", "143", "144", "145", "146", "147", "148", "149"], "krt_rule_table_engine": ["151"]}
+ENGINE_THEOREMS = {"sup_rule_table_engine": ["125", "126", "127", "128", "141"], "ting_rule_table_engine": ["129", "130", "131", "132", "133", "134", "135", "136", "137", "138", "139", "140", "143", "144", "145", "146", "147", "148", "149"], "krt_rule_table_engine": ["151", "152"]}
 ENGINES = {"sup_rule_table_engine": SUP, "ting_rule_table_engine": TIN, "krt_rule_table_engine": KRT}
 
 

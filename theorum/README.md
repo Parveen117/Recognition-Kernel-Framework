@@ -127,6 +127,7 @@ The advanced numbered surface now runs through Theorem 80:
 77. **149 — tiṅ rule-table engine XVII.** The san: 3.1.7 as the s-initial vikaraṇa row with 1.3.62, its iṭ under 7.2.11 / 7.2.12 / 7.2.38, the kit of 1.2.8–10, 6.4.16, 7.4.54 / 7.4.55 / 7.4.49 / 7.4.58, 6.1.9 / 6.1.2 with 7.4.79, 8.3.61; the desiderative present system of every declared root in both padas, 9,756 / 9,936 on the lane.
 78. **150 — the Pāṇini ISA.** Every firing of the 251 + 90 rows on ≈ 60,000 derivations is at most two operations from a closed catalogue of sixteen Pāṇinian types (1.1.46 / 1.1.47 / 1.1.52 / 1.1.55 / 1.1.60 / 1.1.65 / 1.1.1 / 1.1.2 / 1.2.27 / 6.1.1); the phases monotone, the tripādī one pass with its live re-orderings listed; the guards' readers counted.
 79. **151 — kṛt rule-table engine I.** Eight kṛt affixes (kta, ktavatu, tavya, anīya, tumun, ktvā, tṛc, ṇvul) on all 193 declared roots as 72 rows over root | iṭ | affix: the kit-ness of 1.1.5 / 1.2.18 / 1.2.19 / 1.2.8 / 1.2.26, the iṭ of 7.2.11–7.2.16 / 7.2.56, the root before the kit (6.4.37, 6.4.42, 6.4.15, 6.1.15 / 16, 6.4.19, 7.4.40 / 42 / 43 / 46, 6.4.66, 7.1.100), the grades, the niṣṭhā's n (8.2.42–8.2.57) and the tripādī; 1,537 / 1,544 on a new lane, every row load-bearing.
+80. **152 — kṛt rule-table engine II.** śatṛ / śānac as the verbal table's laṭ aṅga: 3.2.124 calls the verbal table (3.4.113) and places at / āna, with 6.1.97, 7.2.82, 7.2.83, 7.4.21; 212 / 212 in the declared pada (bhavat, kurvat, ghnat, sat; bhavamāna, kurvāṇa, śayāna, āsīna); the lane 1,749 / 1,756.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -174,7 +175,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-151                           PRESENT
+NUMBERED THEOREM FILES 01-152                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT

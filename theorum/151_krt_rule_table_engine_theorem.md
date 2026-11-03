@@ -40,7 +40,7 @@ tṛc        193     193
 
 ## 3. Certificate
 
-`proof_lab/krt_rule_table_engine.py`, pinned: `proof_lab/KRT_RULE_TABLE_ENGINE_EXPECTED.sha256` = `a2a124d38a97b6b5b85259f7e54d40966bc9d4304ec4360bd8cddf61f07effd4` (status `PASS_KRT_RULE_TABLE_ENGINE_CANDIDATE`). The kernel re-pinned with the third table: `proof_lab/PANINI_KERNEL_EXPECTED.sha256` = `fa1e7397165c848dc1b3ab8122b783c5a3c66df0e1f446d45f6e0ef206bb9be2` (the previous pin `224889c5…` of theorum/150 stays in the history); it lists the rows the kṛt table shares with the verbal one.
+`proof_lab/krt_rule_table_engine.py`, pinned: `proof_lab/KRT_RULE_TABLE_ENGINE_EXPECTED.sha256` = `a2a124d38a97b6b5b85259f7e54d40966bc9d4304ec4360bd8cddf61f07effd4` (status `PASS_KRT_RULE_TABLE_ENGINE_CANDIDATE`); re-pinned by theorum/152 (śatṛ / śānac on the same table and lane), commit 7a7a419 holds this pin. The kernel re-pinned with the third table: `proof_lab/PANINI_KERNEL_EXPECTED.sha256` = `fa1e7397165c848dc1b3ab8122b783c5a3c66df0e1f446d45f6e0ef206bb9be2`; re-pinned again by theorum/152, commit 7a7a419 holds this pin (the previous pin `224889c5…` of theorum/150 stays in the history); it lists the rows the kṛt table shares with the verbal one.
 
 ```text
 python -m proof_lab.krt_rule_table_engine
