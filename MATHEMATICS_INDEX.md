@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 3 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG27 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 3 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG28 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG27 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG28 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -683,6 +683,48 @@ Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
 
+## PG28: bhuj/tṛh exceptions, contextual liṅ and actor identity
+
+[PG28](research/panini_grammar/exception_modal_contexts/README.md)
+adds **117 finite positions /123 readings** across two exact roots and
+four sense/pada profiles. The [domain](research/panini_grammar/exception_modal_contexts/DOMAIN_AND_ADMISSION.md)
+retains bhuj's protection/P and eating/A distinction and admits one
+commentary-supported upabhoga/A profile. [Construction](research/panini_grammar/exception_modal_contexts/EXCEPTION_CONSTRUCTION.md)
+keeps śnam/im ownership and effective pit, and selects an explicit
+Prakriyāsarvasva hi schedule for tṛṇḍḍhi/tṛṇḍhi without claiming
+universal agreement of source-visibility conventions.
+
+[Modal contexts](research/panini_grammar/exception_modal_contexts/MODAL_CONTEXTS.md)
+develop affirmative particles, disclosed wishes, capacity and future
+dependence. [Desire/actor binding](research/panini_grammar/exception_modal_contexts/DESIRE_AND_ACTOR_BINDING.md)
+completes 3.3.152–160's bounded request layer: same-actor desire restores
+liṅ after tumun, and the outer desire verb has its own address.
+Actor equality survives different clause-relative person readings.
+The [native construction](research/panini_grammar/exception_modal_contexts/NATIVE_ACTOR_AND_QUERY_TRANSPORT.md)
+proves addressed-query and actor observer obstructions, a sharp local
+rank repair, dependent expression fibres and typed zero-specialization.
+
+The [finite register](research/panini_grammar/exception_modal_contexts/PARADIGMS.md)
+and [coverage](research/panini_grammar/exception_modal_contexts/COVERAGE.json)
+reach **10,573 admitted written finite positions /652 bounded-rule IDs**.
+All inherited PG8 profiles now have I/O/B; all inherited PG7+PG8
+class-7 profiles total **25 roots /35 profiles /945 modal positions**.
+Upabhoga extends that overlapping subtotal to 36 profiles /972 positions.
+Context instantiations and the nonfinite bhoktum exemplar do not inflate
+the finite count. The approximately **16.37%** rule ratio does not
+measure whole-grammar completion.
+
+[Source review](research/panini_grammar/exception_modal_contexts/SOURCE_REVIEW.md),
+[literal archive](research/panini_grammar/exception_modal_contexts/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/exception_modal_contexts/SOURCE_PINS.json)
+retain displaced commentary fields and source-policy limits.
+[Claude handoff](research/panini_grammar/exception_modal_contexts/COMPANION_UPDATE.md)
+credits the closing T148 causative extension and records concrete
+sense/actor/alternative adapters. Its four newly reached IDs join PG28's
+nine contextual clauses. [Work/frontier](research/panini_grammar/exception_modal_contexts/WORK_RECORD.md)
+keeps grammar/navigation/operator tests and replay deferred. Unbuilt
+contextual word adapters and wider grammar closure remain open.
+
 ## PG27: consonant inventory modals and coupled auxiliary ownership
 
 [PG27](research/panini_grammar/consonant_inventory_modals/README.md)
@@ -713,7 +755,8 @@ All **68 exact adādi roots /75 profiles** admitted in PG8/10/11 now
 have **2,023 admitted modal positions plus two exclusions**; all **23
 regular PG7 rudhādi roots /32 profiles** have **864 modal positions**.
 These overlapping milestones are already-counted subtotals. Bhuj/tṛh
-and whole-grammar closure remain open.
+was the next frontier at this stage and is developed in PG28 above;
+whole-grammar closure remains open.
 [Source decisions](research/panini_grammar/consonant_inventory_modals/SOURCE_REVIEW.md),
 [literal records](research/panini_grammar/consonant_inventory_modals/SOURCE_EXCERPTS.json)
 and [pins](research/panini_grammar/consonant_inventory_modals/SOURCE_PINS.json)

@@ -367,13 +367,44 @@ All **68 exact adādi roots /75 profiles** admitted by PG8/10/11 now
 have a written modal disposition: **2,023 admitted plus two exclusions**.
 All **23 regular PG7 rudhādi roots /32 profiles** have **864 modal
 positions** across PG22/27. These are overlapping subtotals already
-included, not new counts. Bhuj/tṛh remains the next exception block.
+included, not new counts. Bhuj/tṛh was this stage's next exception
+block and is developed in PG28 below.
 [Sources](consonant_inventory_modals/SOURCE_REVIEW.md) preserve conflicting
 views and frozen historical evidence. [Claude through T147](consonant_inventory_modals/COMPANION_UPDATE.md)
 credits luṅ and passive development, attributes the results and records the lane-label
 and liṭ-count discrepancies. [Work/frontier](consonant_inventory_modals/WORK_RECORD.md)
 keeps verification deferred. The approximately **16.04%** rule ratio
 does not measure whole-grammar completion.
+
+**Bhuj/tṛh exceptions, contextual liṅ and actor identity:**
+[PG28](exception_modal_contexts/README.md) adds **117 positions /123
+readings** on two exact roots /four sense-pada profiles, including one
+new upabhoga/A bhuj sense. [Domain](exception_modal_contexts/DOMAIN_AND_ADMISSION.md)
+and [construction](exception_modal_contexts/EXCEPTION_CONSTRUCTION.md)
+preserve sense-qualified pada, śnam/im ownership and a local sourced
+hi-collapse route for tṛṇḍḍhi/tṛṇḍhi.
+[Contexts](exception_modal_contexts/MODAL_CONTEXTS.md) and
+[desire/actor binding](exception_modal_contexts/DESIRE_AND_ACTOR_BINDING.md)
+develop nine operations, 3.3.152–160: supplied semantic fields, clause
+addresses, same-actor tumun/liṅ and a separate outer-desire choice.
+[Native arguments](exception_modal_contexts/NATIVE_ACTOR_AND_QUERY_TRANSPORT.md)
+prove why person labels cannot replace actor identity and derive local
+cut transport, a rank repair and typed zero-specialization.
+
+[Paradigms](exception_modal_contexts/PARADIGMS.md) and
+[coverage](exception_modal_contexts/COVERAGE.json) reach **10,573 admitted
+written finite positions /652 bounded-rule IDs**. All inherited PG8
+profiles now have I/O/B; all inherited PG7+PG8 class-7 profiles total
+**25 roots /35 profiles /945 modal positions**, extended to 36 profiles
+/972 by upabhoga. These are overlapping subtotals. Context requests
+and nonfinite bhoktum do not add finite positions. The approximately
+**16.37%** bounded-rule ratio is not whole-grammar completion.
+[Sources](exception_modal_contexts/SOURCE_REVIEW.md) retain textual
+anomalies and the still-open universal scheduling question.
+[Claude through T148](exception_modal_contexts/COMPANION_UPDATE.md) credits
+the closing causative extension and its four new combined IDs, with a
+concrete adapter handoff; [work/frontier](exception_modal_contexts/WORK_RECORD.md)
+keeps grammar tests and replay deferred and identifies the next context block.
 
 ## Read in this order
 
