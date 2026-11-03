@@ -27,6 +27,7 @@ from typing import Any
 from proof_lab import astadhyayi_ledger as LED
 from proof_lab import sup_rule_table_engine as SUP
 from proof_lab import ting_rule_table_engine as TIN
+from proof_lab import krt_rule_table_engine as KRT
 
 ROOT = Path(__file__).resolve().parent.parent
 EVIDENCE = {   # file → sha256 pinned in the capsule that produced it
@@ -34,7 +35,8 @@ EVIDENCE = {   # file → sha256 pinned in the capsule that produced it
     "research/independent_oracle/GENERALIZE.json": "f2b10f6427363abaa1389e77ab4d809603c3f07bd7d2b1ed5de18679886e72a6",   # re-pinned by theorum/143 (23f925a6… was theorum/140's)
     "research/independent_oracle/GENERALIZE_SUP.json": "a55b73b2e4371ffeecb3898840bfd6fd753034bdf2e172252d1bbdaaebb11df3",
 }
-ENGINE_THEOREMS = {"sup_rule_table_engine": ["125", "126", "127", "128", "141"], "ting_rule_table_engine": ["129", "130", "131", "132", "133", "134", "135", "136", "137", "138", "139", "140", "143", "144", "145", "146", "147", "148", "149"]}
+ENGINE_THEOREMS = {"sup_rule_table_engine": ["125", "126", "127", "128", "141"], "ting_rule_table_engine": ["129", "130", "131", "132", "133", "134", "135", "136", "137", "138", "139", "140", "143", "144", "145", "146", "147", "148", "149"], "krt_rule_table_engine": ["151"]}
+ENGINES = {"sup_rule_table_engine": SUP, "ting_rule_table_engine": TIN, "krt_rule_table_engine": KRT}
 
 
 def norm(rid: str) -> str:
@@ -42,13 +44,13 @@ def norm(rid: str) -> str:
 
 
 def k1_rows_and_ledger() -> dict[str, Any]:
-    sup_ids = sorted({norm(r) for r in SUP.IDS}); tin_ids = sorted({norm(r) for r in TIN.IDS})
+    sup_ids = sorted({norm(r) for r in SUP.IDS}); tin_ids = sorted({norm(r) for r in TIN.IDS}); krt_ids = sorted({norm(r) for r in KRT.IDS})
     hand = {x for v in LED.HAND_CODED.values() for x in v}; meta = {x for v in LED.META.values() for x in v}; comp = {x for v in LED.COMPILED.values() for x in v}
-    rows_not_in_ledger = sorted(set(sup_ids + tin_ids) - hand - meta - comp)
+    rows_not_in_ledger = sorted(set(sup_ids + tin_ids + krt_ids) - hand - meta - comp)
     ledger_not_in_rows = {}; guard_clauses = {}
     for mod, ths in ENGINE_THEOREMS.items():
-        eng = SUP if mod.startswith("sup") else TIN
-        ids = set(sup_ids if mod.startswith("sup") else tin_ids)
+        eng = ENGINES[mod]
+        ids = {norm(r) for r in eng.IDS}
         for t in ths:
             for x in LED.HAND_CODED.get(t, []):
                 if x in ids:
@@ -59,7 +61,7 @@ def k1_rows_and_ledger() -> dict[str, Any]:
                     guard_clauses[x] = {"theorem": t, "host_rows": hosts}
                 else:
                     ledger_not_in_rows.setdefault(t, []).append(x)
-    return {"sup_rows": len(sup_ids), "ting_rows": len(tin_ids), "distinct_sutras_as_rows": len(set(sup_ids + tin_ids)),
+    return {"sup_rows": len(sup_ids), "ting_rows": len(tin_ids), "krt_rows": len(krt_ids), "distinct_sutras_as_rows": len(set(sup_ids + tin_ids + krt_ids)),
             "rows_not_in_ledger": rows_not_in_ledger, "ledger_hand_coded_not_in_rows": ledger_not_in_rows, "guard_clauses": guard_clauses,
             "checks": {"every_row_is_a_ledger_entry": not rows_not_in_ledger, "every_engine_theorem_hand_coded_entry_is_a_row": not ledger_not_in_rows}}
 
@@ -67,7 +69,9 @@ def k1_rows_and_ledger() -> dict[str, Any]:
 def k2_shared_rows() -> dict[str, Any]:
     shared = sorted({norm(r) for r in SUP.IDS} & {norm(r) for r in TIN.IDS})
     junction_or_tripadi = all(s.startswith(("6.1.", "8.2.", "8.3.", "8.4.")) for s in shared)
+    krt_shared = sorted({norm(r) for r in KRT.IDS} & ({norm(r) for r in TIN.IDS} | {norm(r) for r in SUP.IDS}))
     return {"shared": shared, "texts": {s: LED.TEXT.get(s) or SUP.SOURCES.get(s) or TIN.SOURCES.get(s) for s in shared},
+            "krt_shared_with_the_other_tables": krt_shared, "krt_shared_anga_rules": [s for s in krt_shared if not s.startswith(("6.1.", "8.2.", "8.3.", "8.4."))],
             "checks": {"shared_rows_are_junction_or_tripadi_rules": junction_or_tripadi}}
 
 
@@ -85,7 +89,7 @@ def k3_evidence() -> dict[str, Any]:
 
 def k4_coverage() -> dict[str, Any]:
     led = json.loads((ROOT / "proof_lab/astadhyayi/ASTADHYAYI_LEDGER.json").read_text(encoding="utf-8"))
-    rows = {norm(r) for r in SUP.IDS} | {norm(r) for r in TIN.IDS}
+    rows = {norm(r) for r in SUP.IDS} | {norm(r) for r in TIN.IDS} | {norm(r) for r in KRT.IDS}
     per_pada: dict[str, Counter] = {}
     for sid, e in led["sutras"].items():
         pada = ".".join(sid.split(".")[:2]); per_pada.setdefault(pada, Counter())
@@ -107,11 +111,11 @@ def build_certificate() -> dict[str, Any]:
             "claim_boundary": {
                 "proved_by_exact_finite_certificate": [
                     "K1: every sūtra that is a row of either engine is a ledger entry at the hand_coded / meta / compiled level, and every hand_coded entry the ledger attributes to the engine theorems is a row of the engine that theorem re-pinned or a guard clause of a named row (quoted in SOURCES, named in the host row's note) — the code and the claim boundary name the same sūtras",
-                    "K2: the rows the two engines share are junction / tripādī rules only (6.1 and 8.2–8.4), i.e. the grammar's pada-independent layer; no aṅga rule is duplicated across the engines",
+                    "K2: the rows the nominal and verbal engines share are junction / tripādī rules only (6.1 and 8.2–8.4), i.e. the grammar's pada-independent layer; no aṅga rule is duplicated across those two engines",
                     "K3: the evidence files of the audits (theorum/137–141) are present with the hashes their capsules pin",
                 ],
-                "counted_not_claimed": ["K4: the coverage of the 3,983 sūtras by ledger level and per pāda, with the engine rows marked — a count of what is built, not a measure of what the grammar needs"],
-                "NOT_claimed": ["that the two engines together implement the Aṣṭādhyāyī; that a row's guard is the sūtra's full domain; the kṛt / taddhita / samāsa constructions as rows (theorum/118–122 are written constructions); accent; RH, YM"],
+                "counted_not_claimed": ["K2: the rows the kṛt table (theorum/151) shares with the verbal table — the ārdhadhātuka aṅga rules it re-states over its own three-segment state (7.2.35, 7.3.84, 7.3.86, 7.2.115 / 116, 7.1.100 / 102, 6.4.37, 6.1.15 / 16 …) and the tripādī; listed, not forbidden: the one sūtra written twice, to be folded into the verbal table", "K4: the coverage of the 3,983 sūtras by ledger level and per pāda, with the engine rows marked — a count of what is built, not a measure of what the grammar needs"],
+                "NOT_claimed": ["that the three tables together implement the Aṣṭādhyāyī; that a row's guard is the sūtra's full domain; the kṛt beyond theorum/151's eight affixes, the taddhita and the samāsa constructions as rows (theorum/118–122 are written constructions); accent; RH, YM"],
             }}
 
 
