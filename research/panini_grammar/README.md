@@ -538,6 +538,23 @@ to the independent-written inventory (373); no new rule breadth is claimed.
 T152 head. [Work/frontier](conditional_voice/WORK_RECORD.md) preserves the
 written-first priority and deferred tests/replay.
 
+**Actual ciṇ in bhāva/karma luṅ:**
+[PG34](cin_aorist/README.md) adds **30 positions /33 readings**, cumulative
+**11,552**. [Domain](cin_aorist/DOMAIN.md) restricts the constructor to
+original A3sg ta. [Construction](cin_aorist/CONSTRUCTION.md) separates
+ciṇ-i, ṇic-lopa and ta-luk, original-accent guards, optional labh num
+and causal mit length. The [register](cin_aorist/PARADIGMS.md) prints
+all thirty-three readings; [native continuation](cin_aorist/NATIVE_CONTINUATION.md)
+retains source/target histories and proves typed zero-recovery.
+
+[Sources](cin_aorist/SOURCE_REVIEW.md), [archive](cin_aorist/SOURCE_EXCERPTS.json),
+[pins](cin_aorist/SOURCE_PINS.json) and [coverage](cin_aorist/COVERAGE.json)
+record **734/3,983** combined bounded-rule IDs and 381 independently
+written IDs, including one explicitly identified inventory restoration.
+[Handoff/work](cin_aorist/HANDOFF_AND_WORK.md) records the unchanged T152
+head and deferred grammar tests/replay. Other karma luṅ slots and
+ksa/aṅ/caṅ constructions remain open.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

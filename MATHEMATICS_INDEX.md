@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG33 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG34 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG33 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG34 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,36 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG34: actual ciṇ and retained third-singular ending-luk
+
+[PG34](research/panini_grammar/cin_aorist/README.md) adds **30 written
+positions /33 readings**, taking cumulative finite positions to **11,552**.
+Its [domain](research/panini_grammar/cin_aorist/DOMAIN.md) selects original
+A3sg ta in seventeen basic and thirteen causal bhāva/karma luṅ profiles.
+Other karma slots require separate constructions.
+
+[Derivation](research/panini_grammar/cin_aorist/CONSTRUCTION.md) distinguishes
+actual ciṇ-i from iṭ augments and A1sg's ending. Rule 6.4.104 deletes
+the following ta, retaining its controller; causal ṇic-lopa has a different
+target. Basic śam/gam retain original accent evidence, labh's optional
+num changes its strengthening guard, and causal mit length remains separate.
+The [word register](research/panini_grammar/cin_aorist/PARADIGMS.md) prints
+every new reading. [Native continuation](research/panini_grammar/cin_aorist/NATIVE_CONTINUATION.md)
+preserves target-indexed lopa, owner types and the full carrier under typed
+zero-specialization.
+
+[Sources](research/panini_grammar/cin_aorist/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/cin_aorist/SOURCE_EXCERPTS.json) and
+[pins](research/panini_grammar/cin_aorist/SOURCE_PINS.json) separate
+direct witnesses, source anomalies and authored continuations.
+[Coverage](research/panini_grammar/cin_aorist/COVERAGE.json) reaches
+**734/3,983** combined bounded-rule IDs, adding 3.1.66, 6.4.104 and
+7.1.69. The independent-written inventory is 381, including the separately
+recorded restoration of PG18's 7.3.32. [Handoff/work](research/panini_grammar/cin_aorist/HANDOFF_AND_WORK.md)
+records unchanged Claude T152 and keeps grammar/generator/replay/navigation/
+operator verification deferred. The remaining karma luṅ slots, ksa/aṅ/caṅ
+and wider grammar remain open.
 
 ## PG33: conditional bhāva/karma and typed ciṇvat continuation
 
