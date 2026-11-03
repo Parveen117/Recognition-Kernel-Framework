@@ -496,6 +496,30 @@ the new T150 and complementary semantic/owner work.
 deferred and identifies broader prohibitives, passive/bhāva R and nominal
 coverage as remaining construction.
 
+**Prohibitive A, bhū-luk and ordinary luṅ:**
+[PG32](prohibitive_lung/README.md) adds **234 positions /236 readings**,
+cumulative **11,293**, across eight roots and 26 qualified profiles.
+Its [domain](prohibitive_lung/DOMAIN_AND_SCOPE.md) separates ordinary
+luṅ, māṅ-luṅ and māṅ+sma-laṅ while reusing PG30's 36 completed
+kṛ/hṛ P prohibitive positions.
+
+[Luṅ](prohibitive_lung/LUNG_CONSTRUCTION.md) distinguishes sic-iṭ,
+tiṅ-īṭ, the A1sg ending and bhū-vuk; historical sic-luk has different
+effects under 7.3.96 and 3.4.109–110. [Laṅ](prohibitive_lung/SMA_LANG_CONSTRUCTION.md)
+rebuilds thematic and owned-u endings. The [full register](prohibitive_lung/PARADIGMS.md)
+retains īh's two 2pl alternatives, with the adopted and rival commentary
+policies separated in [source review](prohibitive_lung/SOURCE_REVIEW.md).
+
+[Native continuation](prohibitive_lung/NATIVE_OWNED_CONTINUATION.md)
+preserves the full history carrier, addressed augment cuts and typed
+zero-recovery. [Literal sources](prohibitive_lung/SOURCE_EXCERPTS.json),
+[pins](prohibitive_lung/SOURCE_PINS.json) and [coverage](prohibitive_lung/COVERAGE.json)
+record **731/3,983 bounded-rule IDs**; about **18.35%** is not overall
+grammar completion. [Claude's T151/T152 review and handoff](prohibitive_lung/COMPANION_UPDATE.md)
+credits the new kṛt work without rerunning it. [Work/frontier](prohibitive_lung/WORK_RECORD.md)
+keeps tests/replay deferred and names other luṅ families, passive/bhāva
+continuations and full nominal/compound coverage as remaining work.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

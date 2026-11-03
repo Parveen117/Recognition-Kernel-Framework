@@ -1,0 +1,308 @@
+{
+  "schema": "rkf.panini.pg32.source_pins.v1",
+  "author": "Monty",
+  "date": "2026-11-03",
+  "construction_base_commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+  "primary_edition": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/data.txt",
+      "sha256": "6a22591f418cd924ba4bd621944de2359cc06721b5ada79ef08d70f17a07bcc6",
+      "bytes": 3979366
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "dhatu/data.txt",
+      "sha256": "e8c0e929294c4ab68455b461ee81234e7a0febac1b72e6873ea832354a28b641",
+      "bytes": 2505028
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kashika.txt",
+      "sha256": "ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254",
+      "bytes": 3806703
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kaumudi.txt",
+      "sha256": "c1938e832ddc2e148ae36257448ee3391f71cdac28be19dc4bfdc3881f3b457d",
+      "bytes": 2057933
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/balamanorama.txt",
+      "sha256": "0810e4c59d1642122186e1f0838af15859ea2d48487f6ee5e9006cf5302e9238",
+      "bytes": 6995341
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/tattvabodhini.txt",
+      "sha256": "6784a8d4f84de1f7b5653851ab5ff52ca88b3b28204b9515b74f0b75a9d3c2b4",
+      "bytes": 4769767
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/nyaas.txt",
+      "sha256": "09766f127e9523d911179065fed777a17c4f832b336e745f13c0b2cebc76c0ce",
+      "bytes": 9286920
+    }
+  ],
+  "predecessor_dependencies": [
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "AGENTS.md",
+      "sha256": "6c9ba8deeb393e1600c3dabcbe2289bcd04af322cff02c71bbc17c5aca5549a4",
+      "bytes": 4884
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "MATHEMATICS_INDEX.md",
+      "sha256": "37e0fc66444f4efbf43ebaba331cc7852f9ddd4592d4f8bbc2f7ac99ab96a057",
+      "bytes": 151901
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "MATHEMATICS_INDEX_2026_09_16.md",
+      "sha256": "6f97f186c123c50b7625c23291d4a084dfe6c2347e82c824b86891a5a2dabbe0",
+      "bytes": 43220
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "operator_foundation/CANONICAL_HOME.json",
+      "sha256": "6c5a7756ff220e7a9afa7fdb72151781f1777e2099880788f21a1e1b780ced39",
+      "bytes": 440
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "operator_foundation/README.md",
+      "sha256": "5fa13d4df90b33597e3c72d1860258d0492d8680583e7b7e3b2e13dddfc6bbc9",
+      "bytes": 7423
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "operator_foundation/theory/NATIVE_PRIMITIVE_ORDER.md",
+      "sha256": "f1f2fa357d41745445bcaf403784edbec6a17cbd78bc400cbd1229aa682c0fd9",
+      "bytes": 5149
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "operator_foundation/theory/01_NATIVE_ALGEBRA.md",
+      "sha256": "ea07ab9f0f8a47e63f8ee973638669f596308cec4ed234ced7497a5f7539ecf5",
+      "bytes": 10650
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "research/panini_grammar/counterfactual_contexts/COVERAGE.json",
+      "sha256": "28983ce5f7c4800368ca2b1ba266f2666f7df4e515de476255fc771799e9d312",
+      "bytes": 79964
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "bytes": 11855
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "research/panini_grammar/non_thematic_lat/README.md",
+      "sha256": "a9f0c2c20782aadc963355b2fc094acbfb49a26fa9715a918de62fd86961c70d",
+      "bytes": 5633
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "research/panini_grammar/imperative_optative/ATHEMATIC_DERIVATIONS.md",
+      "sha256": "9600db2fa6b8b22ab76327a39bb0e45e569634b3341fed452b45eb72beca34f4",
+      "bytes": 7349
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "research/panini_grammar/imperative_optative/ENDING_CONSTRUCTION.md",
+      "sha256": "9afb31c9e5ff75d1fbbd2bfa7787c41dc12e4907ef716553fdaeb2a97a5585f8",
+      "bytes": 9635
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "research/panini_grammar/benediction/ENDING_CONSTRUCTION.md",
+      "sha256": "8582029acde770120ce26e302f5038a83987b706d378c304e72aaee254ba0bb2",
+      "bytes": 8904
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "research/panini_grammar/capability_naming_prohibition/PROHIBITION_AND_AUGMENTS.md",
+      "sha256": "fa62b5965d3a6c8cedbcefa4ae32696f37612e8cae8da387a8a1d54ff9d6c517",
+      "bytes": 4443
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "research/panini_grammar/capability_naming_prohibition/FINITE_CONSTRUCTION.md",
+      "sha256": "1e062c7055fbda7c801e911e8063c7b3b9ba2a6b7c88a4914768a8212ef7ebca",
+      "bytes": 4961
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "research/panini_grammar/counterfactual_contexts/ENDING_CONSTRUCTION.md",
+      "sha256": "642427edcab0225522f3b568fdfab9766557f258c728df50f32f70c8060158ca",
+      "bytes": 7861
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "research/panini_grammar/counterfactual_contexts/NATIVE_ADMISSION_AND_TRANSPORT.md",
+      "sha256": "6630b9b1152d0d739bd274446648e461c81cedb478d419830f4c36a68a74f0fb",
+      "bytes": 8474
+    }
+  ],
+  "companion_snapshot": [
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "751dddec31988299cdd5003ebffcbf701b1b0126",
+      "path": "proof_lab/ting_rule_table_engine.py",
+      "sha256": "badf42a10b851eb3db09bbb97daa20d2eb2c54508964704971b031d5f5dc2d7c",
+      "bytes": 168272
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "751dddec31988299cdd5003ebffcbf701b1b0126",
+      "path": "proof_lab/sup_rule_table_engine.py",
+      "sha256": "f39917f0540e3dec6f1668579352c294489d3c10c7f804289aabb21621ffeed3",
+      "bytes": 50070
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "751dddec31988299cdd5003ebffcbf701b1b0126",
+      "path": "proof_lab/krt_rule_table_engine.py",
+      "sha256": "0e4fa83bad7f28210a9ad37b4a3d6084b4e660554d58727799b1f1a119409fab",
+      "bytes": 35597
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "751dddec31988299cdd5003ebffcbf701b1b0126",
+      "path": "proof_lab/panini_isa.py",
+      "sha256": "c06e70800744002567abbd6a98ef5c7fbb0400bb6d57d1c60a63b06b34f5f186",
+      "bytes": 18497
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "751dddec31988299cdd5003ebffcbf701b1b0126",
+      "path": "proof_lab/panini_kernel.py",
+      "sha256": "4b1a843b9559e4aa089921e06a8e483e2ec7e793d97d7b511851c49cddf6fd24",
+      "bytes": 9178
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "751dddec31988299cdd5003ebffcbf701b1b0126",
+      "path": "proof_lab/astadhyayi/ASTADHYAYI_LEDGER.json",
+      "sha256": "1fe8970b26b03644ad27985ef4abc7f61a817d3ec800e26927b541067c70b17c",
+      "bytes": 581851
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "751dddec31988299cdd5003ebffcbf701b1b0126",
+      "path": "theorum/151_krt_rule_table_engine_theorem.md",
+      "sha256": "3abbe2fb686d71ef86c6149306ce73ff7fa515baceadc764d43f07dffc2cf609",
+      "bytes": 6106
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "751dddec31988299cdd5003ebffcbf701b1b0126",
+      "path": "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md",
+      "sha256": "ac4cec80560f0dd80f498fcff8fcb108b5a0b651c2339210baff2305daebd4fa",
+      "bytes": 3530
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "751dddec31988299cdd5003ebffcbf701b1b0126",
+      "path": "proof_lab/KRT_RULE_TABLE_ENGINE_EXPECTED.sha256",
+      "sha256": "4e9ae4d8f9e362762131769f52a133e1e3c6141c099c7471be498323b962d9a2",
+      "bytes": 65
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "751dddec31988299cdd5003ebffcbf701b1b0126",
+      "path": "proof_lab/PANINI_KERNEL_EXPECTED.sha256",
+      "sha256": "be6fbb2654bb07578b937399214cc2673541f71c951927aaa7ebe5558c4dd3e4",
+      "bytes": 65
+    }
+  ],
+  "authored_packet_files": [
+    {
+      "path": "research/panini_grammar/prohibitive_lung/COMPANION_UPDATE.md",
+      "sha256": "b01f404d860d884eb0e584073d4c04ed8005d6d24831ad3b45b9d24be97e8106",
+      "bytes": 4901
+    },
+    {
+      "path": "research/panini_grammar/prohibitive_lung/COVERAGE.json",
+      "sha256": "a4a28df94f34278e74c0c642471ab3351c621dc5c04573697f03084f5408f006",
+      "bytes": 50570
+    },
+    {
+      "path": "research/panini_grammar/prohibitive_lung/DOMAIN_AND_SCOPE.md",
+      "sha256": "4df75615ca29fdce60cb276a794253555b409f1bdc09443e450cc13666eea6cd",
+      "bytes": 4124
+    },
+    {
+      "path": "research/panini_grammar/prohibitive_lung/LUNG_CONSTRUCTION.md",
+      "sha256": "be236df442b26a71aa613f90962daa2e02bd41994c3ada1015a4870f9cd256eb",
+      "bytes": 7276
+    },
+    {
+      "path": "research/panini_grammar/prohibitive_lung/NATIVE_OWNED_CONTINUATION.md",
+      "sha256": "5a1b448e1de8dc5bddae0301177febe0cd277119c6a728da0247652a0fb57b41",
+      "bytes": 6714
+    },
+    {
+      "path": "research/panini_grammar/prohibitive_lung/PARADIGMS.md",
+      "sha256": "2231039ba6e006f978ee21c7addcd5358cdfe81f69fea102aca54f744c5fdfe5",
+      "bytes": 5346
+    },
+    {
+      "path": "research/panini_grammar/prohibitive_lung/README.md",
+      "sha256": "2303eb6b4c609cba45ea2d02b5256beee55e212a21a98d5e68cc00ac4e66f4fe",
+      "bytes": 2369
+    },
+    {
+      "path": "research/panini_grammar/prohibitive_lung/SMA_LANG_CONSTRUCTION.md",
+      "sha256": "56bb87f731ed3b9ce499f0ef0d40eaf910b6af289be753da51ef96032ba1817d",
+      "bytes": 3606
+    },
+    {
+      "path": "research/panini_grammar/prohibitive_lung/SOURCE_EXCERPTS.json",
+      "sha256": "79261b00b61a98c6388010fd3a13c0ecd38b1b3cc738eb918af708e308f43f80",
+      "bytes": 263727
+    },
+    {
+      "path": "research/panini_grammar/prohibitive_lung/SOURCE_REVIEW.md",
+      "sha256": "4f03bf00bae3e1cc95e82810d5b0185252fa2454af3c2116e09cee319c8aa0a6",
+      "bytes": 6180
+    },
+    {
+      "path": "research/panini_grammar/prohibitive_lung/WORK_RECORD.md",
+      "sha256": "1c373ae6bd04ad6f8b60e4b82ac518be8e3c88239f3fb9f64a31eab8b51e1d51",
+      "bytes": 4125
+    }
+  ],
+  "status": "STATIC_SOURCE_IDENTITIES_ONLY; NO_CERTIFICATE_REPLAY"
+}

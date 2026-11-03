@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 3 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG31 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 3 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG32 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG31 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG32 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,44 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG32: ordinary luṅ, prohibitive A and retained sic history
+
+[PG32](research/panini_grammar/prohibitive_lung/README.md) constructs
+**234 new finite positions /236 readings** on eight exact roots and
+26 qualified profiles. Its [domain](research/panini_grammar/prohibitive_lung/DOMAIN_AND_SCOPE.md)
+separates ordinary admitted luṅ, māṅ-luṅ and māṅ+sma-laṅ. The
+36 kṛ/hṛ P prohibitive positions supplied by PG30 are reused; cumulative
+written finite positions reach **11,293**.
+
+[Luṅ construction](research/panini_grammar/prohibitive_lung/LUNG_CONSTRUCTION.md)
+separates sic-iṭ, tiṅ-īṭ, the original A1sg ending and bhū-vuk.
+Bhū's sic-luk defeats the adopted extant-sic īṭ guard, while 3.4.110
+is needed to restrict the historically available jus query. Vowel-initial
+aṭ/āṭ suppression is constructed before word realization.
+[Laṅ continuation](research/panini_grammar/prohibitive_lung/SMA_LANG_CONSTRUCTION.md)
+adds seven thematic profiles and complete kṛ A with owned u.
+
+The [full word register](research/panini_grammar/prohibitive_lung/PARADIGMS.md)
+retains both īh 2pl alternatives inside its declared dh/ḍh policy.
+[Source review](research/panini_grammar/prohibitive_lung/SOURCE_REVIEW.md),
+[literal fields](research/panini_grammar/prohibitive_lung/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/prohibitive_lung/SOURCE_PINS.json)
+preserve rival commentary readings and damaged tokens separately.
+The [native construction](research/panini_grammar/prohibitive_lung/NATIVE_OWNED_CONTINUATION.md)
+retains the full history carrier, proves owner-selective transport,
+constructs rule-specific historical/realized-affix cuts and derives typed
+zero-recovery of the bounded relation.
+
+[Coverage](research/panini_grammar/prohibitive_lung/COVERAGE.json) reaches
+**731/3,983 bounded-rule IDs**, about **18.35%**, combining written
+construction with companion operational labels. This is not whole-grammar
+completion. [T151/T152 review](research/panini_grammar/prohibitive_lung/COMPANION_UPDATE.md)
+credits kṛt/participle development, attributes its reported comparisons
+and supplies semantic/owner/branch adapters without executing the code.
+[Work/frontier](research/panini_grammar/prohibitive_lung/WORK_RECORD.md)
+keeps grammar/navigation/operator tests and replay deferred. Other luṅ
+families, passive/bhāva continuations and broader grammar remain open.
 
 ## PG31: effective counterfactual admission and complete bounded lṛṅ
 
