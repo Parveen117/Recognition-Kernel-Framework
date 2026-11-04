@@ -774,6 +774,32 @@ Claude T152, deferred suites/replay and **507 remaining combined gaps**,
 beginning at **3.2.48**. Full realization and independent executable verification
 remain open.
 
+**Next 300: kṛt meanings and temporal relations:**
+
+[PG44](krt_temporal_relations/README.md) adds
+**300 new bounded written contracts**, the first combined gaps from
+**3.2.48 through 3.4.38**. Combined reach rises **3,476 → 3,776/3,983**;
+independent written reach **3,341 → 3,641**, with zero overlap. Finite
+positions remain **11,552**, with zero new positions/readings.
+
+[Domain](krt_temporal_relations/DOMAIN.md),
+[construction](krt_temporal_relations/CONSTRUCTION.md)
+and [register](krt_temporal_relations/RULE_REGISTER.json)
+retain affix origin, semantic authority, dependent roles, contextual optionality
+and action/time relations. [Native continuation](krt_temporal_relations/NATIVE_CONTINUATION.md)
+instantiates the inherited full carrier and typed zero-reading.
+[Source review](krt_temporal_relations/SOURCE_REVIEW.md),
+[archive](krt_temporal_relations/SOURCE_EXCERPTS.json),
+[pins](krt_temporal_relations/SOURCE_PINS.json) and
+[coverage](krt_temporal_relations/COVERAGE.json)
+retain **1,215 literal fields**, 42 file pins and explicit commentary policies.
+[Predecessor review](krt_temporal_relations/PREDECESSOR_REVIEW.md)
+checks PG43's 300 rows, 1,363 fields and 38 pins.
+[Handoff/work](krt_temporal_relations/HANDOFF_AND_WORK.md)
+records unchanged T152 and deferred suites/replay. **207 combined gaps** and
+**342 independent-written gaps** remain; the next combined gap is **3.4.39**.
+Full realization, separate Uṇādi completion and executable verification remain open.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

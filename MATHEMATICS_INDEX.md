@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG43 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG44 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG43 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG44 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,32 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG44: kṛt meanings and temporal relations — 3,776 bounded IDs
+
+[PG44](research/panini_grammar/krt_temporal_relations/README.md) adds
+**300 new bounded written contracts**, the first combined gaps from
+**3.2.48 through 3.4.38**. Combined reach rises **3,476 → 3,776/3,983**;
+independent written reach **3,341 → 3,641**, with zero overlap. Finite
+positions remain **11,552**, with zero new positions/readings.
+
+[Domain](research/panini_grammar/krt_temporal_relations/DOMAIN.md),
+[construction](research/panini_grammar/krt_temporal_relations/CONSTRUCTION.md)
+and [register](research/panini_grammar/krt_temporal_relations/RULE_REGISTER.json)
+retain affix origin, semantic authority, dependent roles, contextual optionality
+and action/time relations. [Native continuation](research/panini_grammar/krt_temporal_relations/NATIVE_CONTINUATION.md)
+instantiates the inherited full carrier and typed zero-reading.
+[Source review](research/panini_grammar/krt_temporal_relations/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/krt_temporal_relations/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/krt_temporal_relations/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/krt_temporal_relations/COVERAGE.json)
+retain **1,215 literal fields**, 42 file pins and explicit commentary policies.
+[Predecessor review](research/panini_grammar/krt_temporal_relations/PREDECESSOR_REVIEW.md)
+checks PG43's 300 rows, 1,363 fields and 38 pins.
+[Handoff/work](research/panini_grammar/krt_temporal_relations/HANDOFF_AND_WORK.md)
+records unchanged T152 and deferred suites/replay. **207 combined gaps** and
+**342 independent-written gaps** remain; the next combined gap is **3.4.39**.
+Full realization, separate Uṇādi completion and executable verification remain open.
 
 ## PG43: compounds, cases and dependent derivation — 3,476 bounded IDs
 
