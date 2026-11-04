@@ -1,0 +1,238 @@
+{
+  "schema": "rkf.panini.pg41.source_pins.v1",
+  "author": "Monty",
+  "date": "2026-11-04",
+  "construction_base": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "branch": "codex/panini-grammar-verification",
+    "commit": "4f7451502fd3bbef5e43f84e273f9c65f3f92b26",
+    "tree": "b4d570e4e6a30ec4a1454d6fb7bad311dc0c5b99"
+  },
+  "primary": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/data.txt",
+      "bytes": 3979366,
+      "sha256": "6a22591f418cd924ba4bd621944de2359cc06721b5ada79ef08d70f17a07bcc6",
+      "git_blob_sha": "c847b9e41054ec7efb9e63c0fdc093faa0007980"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kashika.txt",
+      "bytes": 3806703,
+      "sha256": "ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254",
+      "git_blob_sha": "e525df7668835ef1dd7c5988c031da07ce0c162b"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/vasu_english.txt",
+      "bytes": 4660923,
+      "sha256": "4ec4f9519581d508fa2e341ba8c8403b4fff852cec48ae306c4fdadbb47912e1",
+      "git_blob_sha": "9fb1e0d606215f087670890555055efa26ef772c"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kaumudi.txt",
+      "bytes": 2057933,
+      "sha256": "c1938e832ddc2e148ae36257448ee3391f71cdac28be19dc4bfdc3881f3b457d",
+      "git_blob_sha": "686f4b7593f2dd05e1f8b6181425cfa9cf20655b"
+    }
+  ],
+  "predecessors": [
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "4f7451502fd3bbef5e43f84e273f9c65f3f92b26",
+      "path": "research/panini_grammar/anga_affix_abhyasa/COVERAGE.json",
+      "bytes": 111176,
+      "sha256": "1fb1131ce287d5c67215d8c99d6062839d23127aa79067b265c9233fe504d1a3",
+      "git_blob_sha": "f167e4355e84993cb59aad70e60abc01ac1efdfd"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "4f7451502fd3bbef5e43f84e273f9c65f3f92b26",
+      "path": "research/panini_grammar/anga_affix_abhyasa/NATIVE_CONTINUATION.md",
+      "bytes": 3649,
+      "sha256": "37f87466c072239a3d43835e120ff059b15e791c3c5c9b8312028bb7cc0d9d63",
+      "git_blob_sha": "5c7c585adb2d4eda2f5d5aab0e2c354624c447f5"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "4f7451502fd3bbef5e43f84e273f9c65f3f92b26",
+      "path": "research/panini_grammar/anga_affix_abhyasa/RULE_REGISTER.json",
+      "bytes": 531863,
+      "sha256": "387188311826c165f43fef3e389ec2d7bc505e53376568c54f573df24d1ec695",
+      "git_blob_sha": "55d5a23671d01762a873ab90efed806f065b0ece"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "4f7451502fd3bbef5e43f84e273f9c65f3f92b26",
+      "path": "research/panini_grammar/anga_affix_abhyasa/SOURCE_PINS.json",
+      "bytes": 8007,
+      "sha256": "cbf2f2c8ef09cc08423aedb4fd4660f59b534ce2df22abde442650e6851cbe8e",
+      "git_blob_sha": "f1955a9fea95e0ebf6f74cfdeadeb4aa9631b8b5"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "4f7451502fd3bbef5e43f84e273f9c65f3f92b26",
+      "path": "research/panini_grammar/possession_adverbials/NATIVE_CONTINUATION.md",
+      "bytes": 6425,
+      "sha256": "592be866e586cf400f92887c5b1ff7b768aef563e1080c785d216a05cb1f0a1e",
+      "git_blob_sha": "0be1e9a3513279ffcb8d8a80f9439e8bc97acc3a"
+    }
+  ],
+  "companion": [
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "751dddec31988299cdd5003ebffcbf701b1b0126",
+      "path": "proof_lab/astadhyayi/ASTADHYAYI_LEDGER.json",
+      "bytes": 581851,
+      "sha256": "1fe8970b26b03644ad27985ef4abc7f61a817d3ec800e26927b541067c70b17c",
+      "git_blob_sha": "ce0dd6299c3e6c61605c14431c92f689e1ce726c"
+    }
+  ],
+  "authored_files": [
+    {
+      "path": "MATHEMATICS_INDEX.md",
+      "bytes": 171831,
+      "sha256": "a92053003f41ac06f736f1115e69dc8307c84d8fef61f42f20f8cfe41ce8bbb5",
+      "git_blob_sha": "86fe76d2366a4abfd10555f9dd559fe165a92c91"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/CONSTRUCTION.md",
+      "bytes": 9521,
+      "sha256": "6a659c16932fcdf4c8cb2c2c78d6003d813d19b0f98819b11539182251c67aaa",
+      "git_blob_sha": "da94ec56adcf4cffb73270b188f2a01f4c5aab1e"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/COVERAGE.json",
+      "bytes": 153153,
+      "sha256": "560f978dec88326549cd8ffaa296eb9e89eee76f6e0fca3f05c77f6218b1573d",
+      "git_blob_sha": "0be93de7b84d35b2c46b9946ea95449e14fb8c25"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/DOMAIN.md",
+      "bytes": 4922,
+      "sha256": "bc719f71f4754066068c9e3fcfa6178beba04042d40deb2a7343667e6cf946ce",
+      "git_blob_sha": "3a2cbbaf4d35f3920296c0eda5271adfac1b0b70"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/HANDOFF_AND_WORK.md",
+      "bytes": 4965,
+      "sha256": "448a87f21286964a55fd93f9802d84f5d4bf59223a9926cf66b6ca2eb679a478",
+      "git_blob_sha": "5a934a350234c48487b4906365d9035bcae868b4"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/NATIVE_CONTINUATION.md",
+      "bytes": 4023,
+      "sha256": "53c6b535e2e35060c256ed7de8054e414d92ea0a7df35b3cb39c86b756e0e248",
+      "git_blob_sha": "a4ed6cfb579e6b0979204aece421bfa6d726d65c"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/PREDECESSOR_REVIEW.md",
+      "bytes": 3494,
+      "sha256": "5c09ea7c5ef4346faaa875993d54b997fe729a1ec6e93eea620703b4f3bb0fb3",
+      "git_blob_sha": "223731ccd146e4f77f17491041ed9d472105d664"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/README.md",
+      "bytes": 2754,
+      "sha256": "6f437255cbb437b3aed53c42edcba4fa654e145e9d47ccaab537ebc6d2834cc7",
+      "git_blob_sha": "0794754a6d187304ad73bd1fce9a4eff21d1a962"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/RULE_REGISTER.json",
+      "bytes": 380236,
+      "sha256": "f4b6eae268b3e590ae4be87e81d8a9c8ec174c18b81e364a3576b36b97f3949a",
+      "git_blob_sha": "46192c3cf2ab62537371d048e9fd5542bae27bfa"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/RULES_7_4.md",
+      "bytes": 6692,
+      "sha256": "13aed5cbc623e163801468f7a1f504b1b88bfc14a5f8b4424d149b6110c9ed64",
+      "git_blob_sha": "7163b969609b56f72891905eb18097912d2c0e59"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/RULES_8_1_A.md",
+      "bytes": 10709,
+      "sha256": "3392abc14e72ad9bf51b58ce3e23da237be7b9f23f163bdb7f8ada1d37807772",
+      "git_blob_sha": "f6c216d87b016ebf2ba52c4c55f6af64932f4c80"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/RULES_8_1_B.md",
+      "bytes": 10194,
+      "sha256": "95600f17cd44182b73d2d80b2e2c27ef28a6627063f52ab99eea66710e0914ef",
+      "git_blob_sha": "88736a274c05e46da7bf74e5e0c50317481bb206"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/RULES_8_2_A.md",
+      "bytes": 10368,
+      "sha256": "262370e47eec356fb50ce434bb7acb4100404b612cba75599ad663fd049b571f",
+      "git_blob_sha": "8ca40164d16c996e970cd1bb004a978fa0f340c2"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/RULES_8_2_B.md",
+      "bytes": 10398,
+      "sha256": "5cd22db0770ba7c8f1738798825cb824a5bb7f128d5b7280f99da87fdc030ffd",
+      "git_blob_sha": "76aa431918a09fe57f480bcc89a258abac33a4cb"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/RULES_8_2_C.md",
+      "bytes": 10036,
+      "sha256": "cf4ed2ce1f76566217054f70a6bb9eea10b955a13260a9686aa1a8f264d5e3f7",
+      "git_blob_sha": "a57cfc26f20c3d09064123005de11a065738f202"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/RULES_8_3_A.md",
+      "bytes": 10644,
+      "sha256": "8aa355bfdeba91fe2568cad10c36c46065a930ca735edcd00a448da245a613de",
+      "git_blob_sha": "2487d912e8378c70b26932be491ddd80c0365f6b"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/RULES_8_3_B.md",
+      "bytes": 11871,
+      "sha256": "1655052207a20efae033066b1521880c5d15a9ad01c78808fcf85f1c0e417bf3",
+      "git_blob_sha": "6d2204ec0190bdc1beda50e5ad644355cdde2d84"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/RULES_8_3_C.md",
+      "bytes": 10352,
+      "sha256": "8c018a8c6772a99db1fc20ab812aea68d9e2ee50d59291281a9296f68b0aeaf2",
+      "git_blob_sha": "629f0d529add4a43f60345cfd841475699b359c4"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/RULES_8_4_A.md",
+      "bytes": 9983,
+      "sha256": "6dd1335a467781401d38efe73b3f56b75da7339acc50144210f67390feff210d",
+      "git_blob_sha": "84a213cc88b8ac9e420ddb6417223fe9a8eda64e"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/RULES_8_4_B.md",
+      "bytes": 8989,
+      "sha256": "a9b6df8c5c191d52810e7a04a1f9cecd7a3fdd4d9cee1587fdbeb36d51dee55f",
+      "git_blob_sha": "d3bb95fd97ba11c6cfbd7bc6548cbb0f14edbb51"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/SOURCE_EXCERPTS.json",
+      "bytes": 1395665,
+      "sha256": "98186e984ffb352b09f8acb926c8c67c679e605915467c50820fa1521d7ff834",
+      "git_blob_sha": "11180c4dcff36d29b4a8e8ffa0ec77dd7e59d10e"
+    },
+    {
+      "path": "research/panini_grammar/abhyasa_tripadi/SOURCE_REVIEW.md",
+      "bytes": 7438,
+      "sha256": "f992a26471b9bc7af728605dd6c5d24b83162562c39072dd411f38a149b4a2d5",
+      "git_blob_sha": "a91be7a811c3651f0f91f5ad5c8204acb7e8670f"
+    },
+    {
+      "path": "research/panini_grammar/README.md",
+      "bytes": 50432,
+      "sha256": "f1c09c4337d150ed887d6d870291f1417a97638e0d94d651c7166ee73d8bfabc",
+      "git_blob_sha": "86d1f383cc3d7d5f0ad9cdd487d866dcfce55171"
+    }
+  ],
+  "status": "33 exact byte/SHA-256/Git-blob pins; 4 primary + 5 predecessor/adapter + 1 companion + 23 authored. Pin file excluded from self-hash. In-session JavaScript hashing, not a grammar test."
+}

@@ -693,6 +693,32 @@ PG39's 329 rows, 1,047 fields, 29 file identities and eight selected boundaries.
 Claude T152, deferred grammar/navigation/operator suites and the next
 frontier **7.4.75**. Full word realization and independent verification remain open.
 
+**Next 300: abhyāsa, sentence context and tripādī:**
+[PG41](abhyasa_tripadi/README.md) adds **391 written contracts** for
+**7.4.75–97 and all of chapter 8 through 8.4.68**. After 76 combined
+overlaps, **315 new IDs** take bounded reach **2,561 → 2,876/3,983**.
+Independent written reach rises **2,405 → 2,741**, after 55 already-written
+overlaps. Finite positions remain **11,552**, with zero new positions/readings.
+
+[Domain](abhyasa_tripadi/DOMAIN.md),
+[construction](abhyasa_tripadi/CONSTRUCTION.md) and
+[register](abhyasa_tripadi/RULE_REGISTER.json) distinguish root copies,
+whole repetition and consonant duplication, and retain sentence boundaries,
+enclitic/accent conditions, tripādī visibility and nasal/visarga origins.
+[Native continuation](abhyasa_tripadi/NATIVE_CONTINUATION.md) instantiates
+the inherited full-carrier construction and typed zero-reading.
+[Source review](abhyasa_tripadi/SOURCE_REVIEW.md),
+[archive](abhyasa_tripadi/SOURCE_EXCERPTS.json),
+[pins](abhyasa_tripadi/SOURCE_PINS.json) and
+[coverage](abhyasa_tripadi/COVERAGE.json) retain 1,233 literal fields and
+exact overlap/gap accounting. [Predecessor review](abhyasa_tripadi/PREDECESSOR_REVIEW.md)
+records 545 matched PG40 rows, 1,682 direct field comparisons and 34 rehashed
+pins; nine older Nyāsa fields and its primary-file hash were not rechecked.
+[Handoff/work](abhyasa_tripadi/HANDOFF_AND_WORK.md) records unchanged Claude
+T152 and deferred suites/replay. The text endpoint leaves **1,107 combined
+catalogue gaps**; the next frontier returns to **1.1.4**. Full realization
+and independent executable verification remain open.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

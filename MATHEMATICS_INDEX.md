@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG40 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG41 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG40 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG41 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,39 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG41: abhyāsa, sentence context and tripādī — 2,876 bounded IDs
+
+[PG41](research/panini_grammar/abhyasa_tripadi/README.md) adds
+**391 bounded written contracts** for **7.4.75–97 and chapter 8 through
+8.4.68**. After 76 combined overlaps, **315 new IDs** take bounded reach
+**2,561 → 2,876/3,983**. Independent written reach is **2,405 → 2,741**,
+after 55 already-written overlaps. Finite positions remain **11,552**;
+new positions and counted readings are zero.
+
+[Domain](research/panini_grammar/abhyasa_tripadi/DOMAIN.md),
+[construction](research/panini_grammar/abhyasa_tripadi/CONSTRUCTION.md) and
+[register](research/panini_grammar/abhyasa_tripadi/RULE_REGISTER.json)
+retain distinct root copies, whole repetition and consonant duplication,
+sentence/pāda/compound boundaries, accent origins, query-relative tripādī
+visibility and lexical sound restrictions.
+[Native continuation](research/panini_grammar/abhyasa_tripadi/NATIVE_CONTINUATION.md)
+instantiates the existing full-carrier construction and typed zero-reading;
+the theorem hypotheses and canonical engine are unchanged.
+
+[Source review](research/panini_grammar/abhyasa_tripadi/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/abhyasa_tripadi/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/abhyasa_tripadi/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/abhyasa_tripadi/COVERAGE.json)
+retain 1,233 literal fields, source corrections and exact catalogue gaps.
+[Predecessor review](research/panini_grammar/abhyasa_tripadi/PREDECESSOR_REVIEW.md)
+records 545 matched PG40 rows, 1,682 compared fields and 34 rehashed pins;
+nine inherited Nyāsa fields and its primary-file hash were not rechecked.
+[Handoff/work](research/panini_grammar/abhyasa_tripadi/HANDOFF_AND_WORK.md)
+records unchanged companion T152, unavailable local execution and deferred
+grammar/navigation/operator suites and replay. The endpoint **8.4.68** leaves
+**1,107 combined gaps**, beginning at **1.1.4**, and wider realization
+obligations. No universal AI-correctness or physical quantum result is claimed.
 
 ## PG40: aṅga, affix and abhyāsa — 2,561 bounded IDs
 
