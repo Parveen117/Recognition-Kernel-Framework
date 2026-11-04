@@ -122,16 +122,22 @@ def main() -> int:
         mod, pin, capsule = KERNEL
         pinf = R / "proof_lab" / pin; cur = pinf.read_text(encoding="utf-8").strip(); sha, cert = run(mod)
         head = subprocess.run(["git", "show", f"HEAD:proof_lab/{pin}"], cwd=R, capture_output=True, text=True); old = head.stdout.strip() or cur
-        if sha == old or sha == cur:
+        if sha == old:
             print(f"{mod:26s} unchanged {old[:8]}…")
+        elif sha == cur:
+            idx_t = (R / "CERTIFICATE_INDEX.md").read_text(encoding="utf-8"); cap_t = (R / capsule).read_text(encoding="utf-8")
+            print(f"{mod:26s} already re-pinned this session {old[:8]}… → {sha[:8]}…" + ("" if sha in idx_t and sha[:8] in cap_t else "   ! the index or the capsule does not carry it"))
         else:
             print(f"{mod:26s} re-pinned {old[:8]}… → {sha[:8]}…")
             if not a.dry:
                 pinf.write_text(sha + "\n", encoding="utf-8")
-                idx = R / "CERTIFICATE_INDEX.md"; t = idx.read_text(encoding="utf-8"); assert t.count(old) == 1, "kernel pin in index"; idx.write_text(t.replace(old, sha), encoding="utf-8")
+                idx = R / "CERTIFICATE_INDEX.md"; t = idx.read_text(encoding="utf-8")
+                prev = cur if (cur != old and cur in t) else old
+                assert t.count(prev) == 1, "kernel pin in index"; idx.write_text(t.replace(prev, sha), encoding="utf-8")
                 cap = R / capsule; t = cap.read_text(encoding="utf-8")
                 anchor = "; commit 8824482 holds the first pin."
                 assert t.count(anchor) == 1, "kernel capsule anchor"
+                t = re.sub(r", theorum/%d \(`[0-9a-f]{8}…`[^)]*\)(?=; commit 8824482)" % a.by, "", t)   # the session's earlier entry for this theorem is replaced
                 t = t.replace(anchor, f", theorum/{a.by} (`{sha[:8]}…`{': ' + a.extra if a.extra else ''}){anchor}"); cap.write_text(t, encoding="utf-8")
             changed.append(mod)
     print("changed:", ", ".join(changed) if changed else "nothing")
