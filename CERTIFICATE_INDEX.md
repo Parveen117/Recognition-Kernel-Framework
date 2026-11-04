@@ -1689,7 +1689,7 @@ proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Pāṇini Kernel |
 | Status | `PASS_PANINI_KERNEL_CANDIDATE` |
-| Canonical result SHA-256 | `54436c5e31dfad39098669be35c83dc7553ce48bd621c5a6db7e67f541e5f696` |
+| Canonical result SHA-256 | `68695f178fc25c19177b0e2d02ce944b817837d569e086fafb66d83c16718f01` |
 | Boundary | the two engines, the ledger and the evidence as one object: 230 sūtras as rows after theorum/143 (225 at first pin 41854a6b…, in the history), 18 shared (junction / tripādī only), every row a ledger entry and every engine ledger entry a row; coverage counted |
 
 ```text
@@ -1873,6 +1873,22 @@ theorum/153_krdanta_declension_theorem.md
 proof_lab/krdanta_sup.py
 proof_lab/test_krdanta_sup.py
 proof_lab/KRDANTA_SUP_EXPECTED.sha256
+```
+
+## Theorem 154 the written construction replayed — the grammar-construction packets' reference forms re-derived by the certified tables: 604 / 648 agree, 43 the other branch of a named option, 1 to adjudicate packet
+
+| Field | Value |
+|---|---|
+| Certificate class | the written construction replayed — the grammar-construction packets' reference forms re-derived by the certified tables: 604 / 648 agree, 43 the other branch of a named option, 1 to adjudicate |
+| Status | `PASS_PG_REPLAY_CANDIDATE` |
+| Canonical result SHA-256 | `8824583c49310c4b768dd874901462ee16d0beca61e6b8bfe0525ccf1bd8aa4f` |
+| Boundary | the test the written line (research/panini_grammar, PG1–PG18) deferred: every reference form the tables can read is re-derived from the same Dhātupāṭha entry by the verbal table and compared — 648 replayed, 604 agree, 43 the other branch of an option both lines know (7.3.95, 8.4.65, 3.1.82, 3.4.84, 6.4.115, 6.4.116, 7.2.114, 7.3.90; quoted), 1 to adjudicate (kṣiṇoti / kṣeṇoti), 115 outside the tables naming 32 undeclared roots; the 161 sūtras the packets cite all in the pinned edition with their text, 106 rows of a table, 35 ledger, 20 in neither (listed) — PROVED (exact, finite); which line is right where they differ NOT CLAIMED |
+
+```text
+theorum/154_written_construction_replay_theorem.md
+proof_lab/pg_replay.py
+proof_lab/test_pg_replay.py
+proof_lab/PG_REPLAY_EXPECTED.sha256
 ```
 
 ## Consolidated parallel-lineage index

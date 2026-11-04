@@ -36,7 +36,7 @@ Every disagreement is one of two named kinds: 196 cells are theorum/151's seven 
 
 ## 3. Certificate
 
-`proof_lab/krdanta_sup.py`, pinned: `proof_lab/KRDANTA_SUP_EXPECTED.sha256` = `bbea4a11f9700ac3d1b5781650eb841b38e91f6ed8402b29f0b8b23d15f0db89` (status `PASS_KRDANTA_SUP_CANDIDATE`; checks: the lane read, every disagreement of a named kind, the five feminine rows load-bearing — 7.3.44 declared vacuous on the lane). The nominal table re-pinned for the rows of §1: `proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256` = `9c1cd237741c9fa62f414ccd511c6e94764dd87f42f22ee32a6031d6f89b7782` (the previous `90dd54de…`, theorum/141, stays in the history); the ISA re-pinned with it (theorum/150 observes the nominal table: `d319faef…`); the kernel re-pinned (`54436c5e…`); the verbal and kṛt tables' pins unchanged.
+`proof_lab/krdanta_sup.py`, pinned: `proof_lab/KRDANTA_SUP_EXPECTED.sha256` = `bbea4a11f9700ac3d1b5781650eb841b38e91f6ed8402b29f0b8b23d15f0db89` (status `PASS_KRDANTA_SUP_CANDIDATE`; checks: the lane read, every disagreement of a named kind, the five feminine rows load-bearing — 7.3.44 declared vacuous on the lane). The nominal table re-pinned for the rows of §1: `proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256` = `9c1cd237741c9fa62f414ccd511c6e94764dd87f42f22ee32a6031d6f89b7782` (the previous `90dd54de…`, theorum/141, stays in the history); the ISA re-pinned with it (theorum/150 observes the nominal table: `d319faef…`); the kernel re-pinned (`54436c5e…`; re-pinned again by theorum/154, commit 70de41f holds this pin); the verbal and kṛt tables' pins unchanged.
 
 ```text
 python -m proof_lab.krdanta_sup

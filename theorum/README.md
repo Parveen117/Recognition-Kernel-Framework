@@ -129,6 +129,7 @@ The advanced numbered surface now runs through Theorem 80:
 79. **151 — kṛt rule-table engine I.** Eight kṛt affixes (kta, ktavatu, tavya, anīya, tumun, ktvā, tṛc, ṇvul) on all 193 declared roots as 72 rows over root | iṭ | affix: the kit-ness of 1.1.5 / 1.2.18 / 1.2.19 / 1.2.8 / 1.2.26, the iṭ of 7.2.11–7.2.16 / 7.2.56, the root before the kit (6.4.37, 6.4.42, 6.4.15, 6.1.15 / 16, 6.4.19, 7.4.40 / 42 / 43 / 46, 6.4.66, 7.1.100), the grades, the niṣṭhā's n (8.2.42–8.2.57) and the tripādī; 1,537 / 1,544 on a new lane, every row load-bearing.
 80. **152 — kṛt rule-table engine II.** śatṛ / śānac as the verbal table's laṭ aṅga: 3.2.124 calls the verbal table (3.4.113) and places at / āna, with 6.1.97, 7.2.82, 7.2.83, 7.4.21; 212 / 212 in the declared pada (bhavat, kurvat, ghnat, sat; bhavamāna, kurvāṇa, śayāna, āsīna); the lane 1,749 / 1,756.
 81. **153 — the kṛdanta declined.** Three tables by call: the verbal table's laṭ aṅga, the kṛt table's stem, the nominal table's pada, with the feminine rows (4.1.4 / 4.1.5 / 4.1.6, 7.1.80 / 7.1.81, 7.3.44) and the stem's class by the affix; 50,265 / 51,326 padas in three genders on a new lane, every disagreement of a named kind; the nominal table taught one num, 7.1.78, 7.1.80 / 81 before śī, 6.4.14's adhātoḥ, 8.4.2 not before a jhal, 8.4.39.
+82. **154 — the written construction replayed.** The grammar-construction packets' reference forms re-derived by the certified tables from the same Dhātupāṭha entry: 604 / 648 agree, 43 the other branch of eight named options (7.3.95, 8.4.65, 3.1.82, 3.4.84, 6.4.115, 6.4.116, 7.2.114, 7.3.90), 1 to adjudicate (kṣiṇoti); the 161 cited sūtras placed against the edition, the tables and the ledger (20 in neither); re-runs on each packet that arrives.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -176,7 +177,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-153                           PRESENT
+NUMBERED THEOREM FILES 01-154                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT
