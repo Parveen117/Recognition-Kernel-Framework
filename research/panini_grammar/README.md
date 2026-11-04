@@ -746,6 +746,34 @@ unchanged Claude T152, deferred suites/replay and **807 remaining combined
 gaps**, beginning at **2.2.4**. Full realization and independent executable
 verification remain open.
 
+**Next 300: compounds, cases and dependent derivation:**
+[PG43](compound_case_derivation/README.md) adds **300 new bounded written
+contracts**, the first combined gaps from **2.2.4 through 3.2.47**. Combined
+reach rises **3,176 → 3,476/3,983** and independent written reach
+**3,041 → 3,341**, with zero overlap. Finite positions remain **11,552**;
+new positions and counted readings are zero.
+
+[Domain](compound_case_derivation/DOMAIN.md),
+[construction](compound_case_derivation/CONSTRUCTION.md) and
+[register](compound_case_derivation/RULE_REGISTER.json) retain role/case/compound
+boundaries, collective number/gender, exact affix origins, addressed deletion,
+dependent pair relations and consumer-specific designations.
+[Native continuation](compound_case_derivation/NATIVE_CONTINUATION.md)
+instantiates the inherited full carrier and typed zero-reading.
+[Source review](compound_case_derivation/SOURCE_REVIEW.md),
+[archive](compound_case_derivation/SOURCE_EXCERPTS.json),
+[pins](compound_case_derivation/SOURCE_PINS.json) and
+[coverage](compound_case_derivation/COVERAGE.json) retain **1,363 literal fields**,
+38 file pins and exact gap accounting. Misassigned Kāśikā 2.4.28 is preserved
+as nonoperative; Kaumudī, Nyāsa and Vasu supply the adopted contract. Source
+differences at 2.4.69 and 3.1.103 remain explicit.
+[Predecessor review](compound_case_derivation/PREDECESSOR_REVIEW.md) checks
+PG42's 300 rows, 1,371 fields and 39 pins.
+[Handoff/work](compound_case_derivation/HANDOFF_AND_WORK.md) records unchanged
+Claude T152, deferred suites/replay and **507 remaining combined gaps**,
+beginning at **3.2.48**. Full realization and independent executable verification
+remain open.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

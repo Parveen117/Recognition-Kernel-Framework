@@ -1,0 +1,39 @@
+# PG43 — 2.3 gaps: relation-specific case selection
+
+Author: Monty. 4 November 2026.
+
+Thirty bounded contracts; [Domain](DOMAIN.md) retains role, expression and
+case ownership. K means the pinned Kāśikā field, not a general classifier.
+
+|ID|Frame|Admission|Owned action|Precedence and boundary|Source witness or control|
+|---|---|---|---|---|---|
+|2.3.3|हु object in Vedic register|Unexpressed object relation under 1|Admit instrumental alongside accusative|Register restriction retained; not a general instrumental object rule|K: यवाग्वा/यवागूमग्निहोत्रं जुहोति|
+|2.3.4|अन्तरा/अन्तरेण relation|Directly related nominal; middle/separation sense of the indeclinables|Select accusative|Overrides genitive only on the related target, not every nearby dependent|K: अन्तरेण पुरुषकारम्; स्रुघ्नस्य प्राकारः remains genitive|
+|2.3.5|Time/distance extent|Complete relation of the span to action, quality or entity|Select accusative on span|Partial extent or occasional occurrence does not satisfy अत्यन्तसंयोग|K: मासमधीते; मासस्य द्विरधीते control|
+|2.3.6|Completed span|5's total span relation plus successful result and completion|Select instrumental on span|Mere cessation or unsuccessful study does not prove अपवर्ग|K: मासेनानुवाकोऽधीतः; study without acquisition retains accusative|
+|2.3.7|Interval between roles|Time/distance lies between the relevant kāraka realizations|Admit locative or ablative on interval|No forced time→locative/distance→ablative pairing; each frame keeps both|K: द्व्यहे/द्व्यहाद् भोक्ता; क्रोशे/क्रोशाल्लक्ष्यं विध्यति|
+|2.3.8|KP-associated nominal|Particle has the appropriate कर्मप्रवचनीय designation|Select accusative on associated target|Resolve 9–11 specific cases first; ordinary prefix spelling is insufficient|K: शाकल्यस्य संहितामनु प्रावर्षत्|
+|2.3.9|KP comparison/ownership|Entity is the specified comparison standard or participant in ownership relation|Select locative|Exception to 8; owner/owned alternation changes the selected target with its relation|K: उप खार्यां द्रोणः; अधि ब्रह्मदत्ते पञ्चालाः/अधि पञ्चालेषु ब्रह्मदत्तः|
+|2.3.10|अप/आङ्/परि KP|Admitted exclusion or limit relation; परि shares exclusion sense|Select ablative on boundary/excluded target|परि marking a sign is outside; correct local अप reference to 1.4.88|K: अप त्रिगर्तेभ्यः; आ पाटलिपुत्रात्; वृक्षं परि control|
+|2.3.11|प्रति substitution/return|Standard of representative or original item for return-gift; KP relation established|Select ablative on that standard/source|Do not put the representative or returned object in ablative merely by word order|K: अभिमन्युरर्जुनतः प्रति; तिलेभ्यः प्रति माषान्|
+|2.3.12|Physical motion destination|Object of bodily movement; not a path being traversed|Admit accusative or dative|Mental motion excluded; path approached from elsewhere can be goal; also overrides relevant kṛt genitive|K: ग्रामं/ग्रामाय गच्छति; मनसा पाटलिपुत्रम् control|
+|2.3.14|Purpose with omitted verb|Unexpressed purpose verb in 3.3.10-type relation; target is its object|Select dative on that object|Requires reconstruction evidence, not any ellipsis; expressed आहर्तुम् keeps its accusative|K: एधेभ्यो व्रजति; एधानाहर्तुं व्रजति control|
+|2.3.15|Purpose action noun|भाव affix construction equivalent to तुमुन् purpose|Select dative on action noun|Not an agent noun and not every mention of cooking/giving|K: पाकाय व्रजति; पाकः and कारको व्रजति controls|
+|2.3.16|नमस् etc. association|नमस्/स्वस्ति/स्वाहा/स्वधा/वषट्, or अलम् in sufficiency sense|Select dative on related entity|Sufficiency synonyms admitted; this rule displaces blessing-genitive option where applicable|K: स्वस्ति गोभ्यः; अलं मल्लो मल्लाय|
+|2.3.17|Contemptuous मन्यते object|दैवादिक मन्यते with disparaging comparison; adopted lexical exclusions resolved|Optionally select dative instead of accusative on comparison object|Nyāsa/Kaumudī exclude नौ/काक/अन्न/शुक/शृगाल and admit श्वन्; no transfer to त्वाम् or तानादिक मन्वे|K/SK/N: तृणम्/तृणाय; श्वानम्/शुने; नावम् only|
+|2.3.19|Accompaniment|Associated participant is secondary in the stated action/property relation|Select instrumental|सह synonym or evidenced implicit accompaniment allowed; principal participant not reassigned|K: पुत्रेण सहागतः पिता; शिष्येण सहोपाध्यायस्य गौः control|
+|2.3.20|Body-part condition|Altered part supplies the characterization of its whole body|Select instrumental on part|Not an ordinary predicate directly describing only that part|K: अक्ष्णा काणः; अक्षि काणमस्य control|
+|2.3.21|Characteristic sign|Sign identifies an entity in a particular qualified state/type|Select instrumental on sign|Already compound-expressed sign not independently case-marked here; generic signal relation insufficient|K: कमण्डलुना छात्रम्; कमण्डलुपाणिश्छात्रः control|
+|2.3.22|सम् + ज्ञा object|Relevant unexpressed object|Optionally select instrumental alongside accusative|Root and prefix relation retained; not all cognition verbs|K: पित्रा/पितरं संजानीते|
+|2.3.23|Cause|Entity presented as cause supporting the result|Select instrumental|Resolve debt, gender/quality and explicit हेतु-word rules separately|K: धनेन कुलम्; विद्यया यशः|
+|2.3.24|Debt as cause|Debt is the cause but not designated actor/instigator|Select ablative|Overrides 23 only in this frame; causative instigator retains actor treatment|K: शताद् बद्धः; शतेन बन्धितः control|
+|2.3.25|Quality as cause|Quality term not grammatically feminine|Optionally select ablative beside instrumental|Non-quality धन and feminine बुद्धि/प्रज्ञा excluded|K: जाड्यात्/जाड्येन बद्धः; बुद्ध्या मुक्तः|
+|2.3.26|Explicit हेतु word|हेतु is actually used to express cause|Select genitive in the admitted construction|Cause meaning without this word remains under its own rule|K: अन्नस्य हेतोर्वसति|
+|2.3.27|Pronoun with हेतु|Pronoun in explicit cause-word construction|Admit instrumental as well as genitive|Broader निमित्त/कारण/प्रयोजन case patterns are source-labelled extensions, not universal free case choice|K: कस्य हेतोः/केन हेतुना वसति|
+|2.3.29|Relational contrast/direction|अन्य/आरात्/इतर/ऋते, direction words or specified अञ्च्/आच्/आहि forms|Select ablative on related standard|Preserve semantic versus exact-form readings and 30's specific affix domain; direction includes source-attested temporal comparison|K: अन्यो देवदत्तात्; पूर्वो ग्रीष्माद् वसन्तः|
+|2.3.30|अतस्-meaning affix|Relation word contains admitted direction affix in this semantic class|Select genitive on associated standard|Suffix origin matters; earlier अञ्च् exception and later एनप् rule retain their scopes|K: दक्षिणतो ग्रामस्य; पुरस्ताद् ग्रामस्य|
+|2.3.31|एनप् construction|Actual एनप्-derived relation word|Select accusative; source's योगविभाग also admits genitive|Do not infer suffix from surface -एन alone|K: दक्षिणेन ग्रामम्/ग्रामस्य|
+|2.3.32|पृथक्/विना/नाना|Target bears the stated separation relation|Admit instrumental or ablative; accusative under the recorded योगविभाग|Keep extension provenance rather than pretending a two-case sūtra says all three explicitly|K: विना देवदत्तेन/देवदत्तात्; विना वातम् extension|
+|2.3.33|Smallness/difficulty as instrument|स्तोक/अल्प/कृच्छ्र/कतिपय denotes the property itself as करण|Admit ablative beside ordinary instrumental|Exclude substance-denoting adjectives and accusative action modifiers|K: स्तोकात्/स्तोकेन मुक्तः; स्तोकेन विषेण and स्तोकं मुञ्चति controls|
+|2.3.34|Near/far relational target|Nominal is associated with a nearness/distance expression|Admit genitive or ablative on that nominal|Different address from 35's inflection of the distance word itself|K: दूरं ग्रामस्य/ग्रामात्|
+|2.3.35|Near/far word itself|Distance expression is non-substance-denoting in the admitted base meaning|Admit accusative, ablative or instrumental on the distance word|36 adds locative; a substance-qualified दूरः पन्थाः follows ordinary case relation|K: दूरम्/दूरात्/दूरेण ग्रामस्य; दूराय पथे control|

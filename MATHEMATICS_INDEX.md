@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG42 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG43 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG42 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG43 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,38 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG43: compounds, cases and dependent derivation — 3,476 bounded IDs
+
+[PG43](research/panini_grammar/compound_case_derivation/README.md) adds
+**300 new bounded written contracts**, the first uncovered combined IDs from
+**2.2.4 through 3.2.47**. Combined reach rises **3,176 → 3,476/3,983** and
+independent written reach **3,041 → 3,341**, with zero overlap. Finite positions
+remain **11,552**, with zero new positions/readings.
+
+[Domain](research/panini_grammar/compound_case_derivation/DOMAIN.md),
+[construction](research/panini_grammar/compound_case_derivation/CONSTRUCTION.md)
+and [register](research/panini_grammar/compound_case_derivation/RULE_REGISTER.json)
+retain separate role/case/compound decisions, dependent number/gender, addressed
+affix deletion, exact root–upapada pairs and consumer-specific designations.
+Three authority/default clauses and two designations are explicitly typed.
+[Native continuation](research/panini_grammar/compound_case_derivation/NATIVE_CONTINUATION.md)
+instantiates the inherited full carrier and typed zero-reading without new
+theorem hypotheses or a second runtime engine.
+
+[Source review](research/panini_grammar/compound_case_derivation/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/compound_case_derivation/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/compound_case_derivation/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/compound_case_derivation/COVERAGE.json)
+retain **1,363 literal fields**, 38 file pins and exact gaps. The misassigned
+Kāśikā field at 2.4.28 is nonoperative; Kaumudī, Nyāsa and Vasu support the
+adopted contract. Commentary differences at 2.4.69 and 3.1.103 remain explicit.
+[Predecessor review](research/panini_grammar/compound_case_derivation/PREDECESSOR_REVIEW.md)
+checks PG42's 300 rows, 1,371 fields and 39 pins.
+[Handoff/work](research/panini_grammar/compound_case_derivation/HANDOFF_AND_WORK.md)
+records unchanged companion T152 and deferred grammar/navigation/operator
+suites, independent generators and replay. **507 combined gaps** remain;
+the next is **3.2.48**. Full realization and independent verification remain open.
 
 ## PG42: foundational relations and early compounds — 3,176 bounded IDs
 
