@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG48 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG49 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG48 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG49 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,25 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG49: शीर्ष replacement and consumer-specific dependency
+
+[PG49](research/panini_grammar/siras_dependency_history/README.md) constructs **two written paths to हास्तिशीर्ष्या**
+from हस्तिशिरस्: replacement with a local dependency safeguard, and added
+ष्यङ् with retained intervening-इ evidence. Each has five shared and seven
+policy-specific stages. Six controls distinguish the three शीर्ष records,
+taddhita admission, retention/deletion, prerequisite order and authorized views.
+The unwanted हास्तिशीर्षण्या has a separately labelled diagnostic trace.
+
+[Derivations](research/panini_grammar/siras_dependency_history/DERIVATIONS.md), [controls](research/panini_grammar/siras_dependency_history/CONTROLS.md) and
+[domain/native continuation](research/panini_grammar/siras_dependency_history/DOMAIN_AND_NATIVE.md) preserve addressed
+events, policy-specific permissions and typed zero-reading. [Source policy](research/panini_grammar/siras_dependency_history/SOURCE_POLICY.md)
+and the [archive](research/panini_grammar/siras_dependency_history/SOURCE_EXCERPTS.json) preserve **69 literal fields**;
+three complete primary files were freshly rehashed, with the Nyāsa evidence
+chain separately disclosed. [Coverage](research/panini_grammar/siras_dependency_history/COVERAGE.json) retains both
+**3,983-ID sets** and **11,552 positions**, with zero new ID/position credits.
+[Work/continuation](research/panini_grammar/siras_dependency_history/WORK_RECORD.md) records the new T155 review, its lost-ν adapter finding, the unavailable
+local runtime, deferred tests/replay and the next full औडुलोम्या history. The local safeguard does not become a universal scheduling rule.
 
 ## PG48: nested descent origin and addressed य-lopa
 

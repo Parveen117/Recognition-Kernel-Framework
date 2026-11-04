@@ -921,6 +921,25 @@ T153/T154 reports, their replay scope and the open kṣiṇoti/kṣeṇoti diffe
 canonical integration remain open; grammar tests, generators, replay and
 navigation/operator suites remain deferred.
 
+**शीर्ष replacement and dependency:**
+
+[PG49](siras_dependency_history/README.md) constructs **two written paths to हास्तिशीर्ष्या**
+from हस्तिशिरस्: replacement with a local dependency safeguard, and added
+ष्यङ् with retained intervening-इ evidence. Each has five shared and seven
+policy-specific stages. Six controls distinguish the three शीर्ष records,
+taddhita admission, retention/deletion, prerequisite order and authorized views.
+The unwanted हास्तिशीर्षण्या has a separately labelled diagnostic trace.
+
+[Derivations](siras_dependency_history/DERIVATIONS.md), [controls](siras_dependency_history/CONTROLS.md) and
+[domain/native continuation](siras_dependency_history/DOMAIN_AND_NATIVE.md) preserve addressed
+events, policy-specific permissions and typed zero-reading. [Source policy](siras_dependency_history/SOURCE_POLICY.md)
+and the [archive](siras_dependency_history/SOURCE_EXCERPTS.json) preserve **69 literal fields**;
+three complete primary files were freshly rehashed, with the Nyāsa evidence
+chain separately disclosed. [Coverage](siras_dependency_history/COVERAGE.json) retains both
+**3,983-ID sets** and **11,552 positions**, with zero new ID/position credits.
+[Work/continuation](siras_dependency_history/WORK_RECORD.md) records the new T155 review, its lost-ν adapter finding, the unavailable
+local runtime, deferred tests/replay and the next full औडुलोम्या history. The local safeguard does not become a universal scheduling rule.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
