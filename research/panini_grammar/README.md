@@ -187,7 +187,7 @@ The [native extension](future_construction/NATIVE_EXTENSION.md) preserves
 pairing and exact zero-recovery, then repairs twelve restricted luṭ P/A
 word collisions with an explicit size bound at zero. [Work record](future_construction/WORK_RECORD.md)
 keeps tests deferred and implemented counts unchanged. [the theorem branch's lane](future_construction/THEOREM_BRANCH_HANDOFF.md)
-remains samāsa/nominal development while Codex extends verbal formations.
+remains samāsa/nominal development while the construction branch extends verbal formations.
 
 **Dependent future options and retained causative ṇic:**
 [PG17](future_extension/README.md) extends futures by nine basic-root
@@ -223,6 +223,671 @@ and [work record](future_voice/WORK_RECORD.md) retain the declared limits;
 [the theorem branch's update](future_voice/COMPANION_UPDATE.md) records T121–T124,
 the accepted source repairs and remaining independent nominal work.
 Grammar tests remain deferred.
+
+**Loṭ and vidhiliṅ from intended meaning:**
+[PG19](imperative_optative/README.md) constructs their shared modal senses
+and bounded context restrictions, then derives ending ownership, loṭ's
+first-person pit āṭ, vidhiliṅ's explicit ṅit and the resulting stem choices.
+[Thematic](imperative_optative/THEMATIC_DERIVATIONS.md),
+[kṛ/krī](imperative_optative/ATHEMATIC_DERIVATIONS.md) and
+[causal/voice](imperative_optative/VOICE_AND_CAUSATIVES.md) derivations feed
+a [976-position written register](imperative_optative/PARADIGMS.md).
+The [native proof](imperative_optative/NATIVE_MODAL_CONSTRUCTION.md)
+preserves pairing/cuts and typed zero-recovery, and proves the displayed
+modal-information and boundary-query obstructions. [Source review](imperative_optative/SOURCE_REVIEW.md)
+and [work record](imperative_optative/WORK_RECORD.md) retain the claim limits
+and deferred tests. [Companion review](imperative_optative/COMPANION_UPDATE.md)
+reads the theorem branch's T125–T130, records the 90-position T96/T99 modal overlap
+and a 3.4.92 pit-state integration gap, without replaying certificates.
+
+**Āśīrliṅ and blessing loṭ:**
+[PG20](benediction/README.md) derives their distinct affix classes,
+P kit/A conditional-kit, all owned endings, basic and causal/voice
+continuations, ciṇvat/mit and dh/ḍh choices, and optional tātaṅ.
+The [register](benediction/PARADIGMS.md) has **1,057 positions / 1,292
+word-branch readings**, including inherited/overlapping morphology explicitly
+identified there. [Native proofs](benediction/NATIVE_BENEDICTION.md) give
+typed zero-recovery and the marker, stem-order and person-information
+boundaries. [Sources](benediction/SOURCE_REVIEW.md) and
+[work record](benediction/WORK_RECORD.md) distinguish written derivations
+from unrun tests. [theorem branch through T135](benediction/COMPANION_UPDATE.md)
+records the useful laṭ expansion and remaining integration tasks.
+
+**Nasal-class modal expansion:**
+[PG21](nasal_modals/README.md) completes loṭ, vidhiliṅ and blessing-loṭ
+for seventeen exact roots / twenty-seven pada profiles. It retains both
+3.1.82 affixes and the separately identified tanādi guṇa source policies,
+derives actual-cluster hi-luk and augment-sensitive u-loss exclusion, and
+adds fifty-two tātaṅ branch readings. The [register](nasal_modals/PARADIGMS.md)
+has **729 positions / 1,159 source-family readings** (935 after fixing
+the guṇa policies). [Native proofs](nasal_modals/NATIVE_TRANSPORT.md)
+give typed recovery and the finite three-to-two laṭ/loṭ comparison.
+[Sources](nasal_modals/SOURCE_REVIEW.md), [work](nasal_modals/WORK_RECORD.md)
+and [theorem-branch handoff](nasal_modals/COMPANION_UPDATE.md) retain evidence,
+overlap, deferred tests and the non-overlapping next tasks.
+
+**Adādi/juhotyādi/rudhādi modal continuation:**
+[PG22](athematic_modals/README.md) constructs twelve exact roots /
+eighteen qualified pada profiles, including hi→dhi, dehi/dhehi/edhi,
+owned copy lopa, dhā's exception and ordered consonant/nasal readout.
+Its [register](athematic_modals/PARADIGMS.md) has **486 positions /
+558 written branch readings**, with all ordinary collapse sites and
+thirty added tāt readings. [Native proofs](athematic_modals/NATIVE_ATHEMATIC.md)
+give the typed zero-law, the original-s visibility obstruction and a
+dependent ending/sound-fibre construction. [Sources](athematic_modals/SOURCE_REVIEW.md),
+[work](athematic_modals/WORK_RECORD.md) and [theorem branch through T138](athematic_modals/COMPANION_UPDATE.md)
+preserve exact evidence, the actual-marker handoff and deferred tests.
+
+**Lexical modal exceptions and combined progress:**
+[PG23](lexical_modals/README.md) adds han/śās, rudādi, brū and śī:
+nine exact roots /ten qualified pada profiles and **270 positions /
+286 written readings**. It derives whole-root hi exceptions, effective
+pit, distinct iṭ/īṭ/ruṭ hosts and śī's weak-context guṇa. The
+[native construction](lexical_modals/NATIVE_LEXICAL.md) proves typed
+zero-recovery and finite source/marker/owner observation obstructions.
+[Sources](lexical_modals/SOURCE_REVIEW.md) preserve literal anomalies;
+[theorem branch through T142](lexical_modals/COMPANION_UPDATE.md) credits useful
+runtime repairs and gives the remaining integration assignment.
+[Combined progress](lexical_modals/PROGRESS.md) includes written work
+awaiting verification: **569 bounded-rule IDs and 7,759 verbal positions**,
+with overlapping cells and merely cited rules kept out of the developed
+totals. The 569/3,983 ratio is rule reach, not whole-grammar completion.
+[Work record](lexical_modals/WORK_RECORD.md) retains the deferred-test boundary.
+
+**Consonant modals and directed ending descent:**
+[PG24](consonant_modals/README.md) adds dviṣ, duh/dih/lih, īḍ/īś,
+vas and mṛj: eight exact roots /twelve qualified pada profiles and
+**324 positions /336 written readings**. It constructs host-qualified
+iṭ, the weak-vowel mṛj option, dhv-sensitive bhaṣ and mandatory
+root-owned ḍh-lopa/lengthening. The [native theorem](consonant_modals/NATIVE_CONSONANT.md)
+proves typed zero-recovery and a sharp three-coordinate linear repair
+bound for its stated six-history observer.
+[Coverage](consonant_modals/COVERAGE.json) raises the written verbal
+inventory to **8,083 positions** while bounded rule-ID reach stays
+**569**; new contexts reuse those IDs. [Sources](consonant_modals/SOURCE_REVIEW.md)
+and [T142 handoff](consonant_modals/COMPANION_UPDATE.md) keep primary
+adjudication separate from runtime comparison labels.
+[Work and the full-grammar queue](consonant_modals/WORK_RECORD.md)
+retain the owner's written-first priority and deferred verification.
+
+**Abhyasta modals and reusable family interfaces:**
+[PG25](abhyasta_modals/README.md) closes I/O/B for **15 exact roots /19
+qualified profiles**, adding **513 positions /570 written readings**.
+It derives hāk's separate hi/y/tāt fibres, bhī's short/long options,
+daridrā's short i, pṝ/pṛ and the target-specific guṇa boundary.
+The [native construction](abhyasta_modals/NATIVE_FAMILIES.md) proves
+source-qualified block assembly, dependent choice counting and typed
+zero-recovery. [Coverage](abhyasta_modals/COVERAGE.json) reaches **8,596
+written verbal positions /574 bounded-rule IDs**. All fifteen class-3
+roots admitted in PG8/10/11 now have these three modal constructions:
+21 profiles /567 positions already included in the cumulative total.
+[Sources](abhyasta_modals/SOURCE_REVIEW.md) retain lexical qualifications
+and literal conflicts. [theorem branch through T143](abhyasta_modals/COMPANION_UPDATE.md)
+credits useful repairs and assigns the remaining option sets/adapters;
+its comparison totals remain attributed reports.
+[Work/frontier](abhyasta_modals/WORK_RECORD.md) keeps the written-first
+priority and deferred tests. The rule ratio is bounded reach, not a
+whole-grammar completion percentage.
+
+**Adādi vowel modals and augment-dependent queries:**
+[PG26](vowel_modals/README.md) supplies I/O/B for **30 exact roots /32
+qualified profiles**, adding **864 positions /991 written readings**.
+The [stem construction](vowel_modals/STEMS_AND_AUGMENTS.md) resolves
+optional īṭ before strengthening and distinguishes ūrṇu, sū, iṇ/vī
+and the fourteen ā roots. The [native theorem](vowel_modals/NATIVE_GUARD_TRANSPORT.md)
+proves dependent query transport, a sharp linear observer repair and
+typed zero-recovery on the full history carrier.
+[Coverage](vowel_modals/COVERAGE.json) reaches **9,460 written verbal
+positions /609 bounded-rule IDs**. PG25/26 now cover all 38 exact roots
+/44 profiles admitted by PG10 in these three moods, a subtotal of 1,188
+positions already counted. [Sources](vowel_modals/SOURCE_REVIEW.md)
+retain literal conflicts and the selected source schedule.
+[theorem branch through T145](vowel_modals/COMPANION_UPDATE.md) credits T144/T145's
+extensions and identifies remaining branch/history work and a report
+count discrepancy. [Work/frontier](vowel_modals/WORK_RECORD.md) keeps
+grammar tests, certificate replay and formal verification deferred.
+These bounded constructions do not claim whole-grammar completion.
+
+**Consonant inventory modals and coupled auxiliary ownership:**
+[PG27](consonant_inventory_modals/README.md) disposes of I/O/B for
+**32 exact roots /37 profiles**, adding **997 admitted positions /1,145
+readings and two source exclusions**. [Stem construction](consonant_inventory_modals/STEMS_AND_NASALS.md)
+preserves num/śnam and root-n ownership; [readout](consonant_inventory_modals/OWNED_CONSONANT_READOUT.md)
+retains the source-time niṃssva obstruction through late collapse.
+[Admission and auxiliary construction](consonant_inventory_modals/AUXILIARY_AND_ADMISSION.md)
+selects vac's usage policy and assembles vidām with matching kṛ,
+external nasal alternatives and blessing-tāt.
+The [native theorem](consonant_inventory_modals/NATIVE_COUPLED_EXPANSION.md)
+proves the controller cut, query transport and typed zero-recovery.
+
+[Coverage](consonant_inventory_modals/COVERAGE.json) reaches **10,456
+admitted written verbal positions /639 bounded-rule IDs**, explicitly
+reconciling **9,460−1+997** after the vac-present scope correction.
+All **68 exact adādi roots /75 profiles** admitted by PG8/10/11 now
+have a written modal disposition: **2,023 admitted plus two exclusions**.
+All **23 regular PG7 rudhādi roots /32 profiles** have **864 modal
+positions** across PG22/27. These are overlapping subtotals already
+included, not new counts. Bhuj/tṛh was this stage's next exception
+block and is developed in PG28 below.
+[Sources](consonant_inventory_modals/SOURCE_REVIEW.md) preserve conflicting
+views and frozen historical evidence. [theorem branch through T147](consonant_inventory_modals/COMPANION_UPDATE.md)
+credits luṅ and passive development, attributes the results and records the lane-label
+and liṭ-count discrepancies. [Work/frontier](consonant_inventory_modals/WORK_RECORD.md)
+keeps verification deferred. The approximately **16.04%** rule ratio
+does not measure whole-grammar completion.
+
+**Bhuj/tṛh exceptions, contextual liṅ and actor identity:**
+[PG28](exception_modal_contexts/README.md) adds **117 positions /123
+readings** on two exact roots /four sense-pada profiles, including one
+new upabhoga/A bhuj sense. [Domain](exception_modal_contexts/DOMAIN_AND_ADMISSION.md)
+and [construction](exception_modal_contexts/EXCEPTION_CONSTRUCTION.md)
+preserve sense-qualified pada, śnam/im ownership and a local sourced
+hi-collapse route for tṛṇḍḍhi/tṛṇḍhi.
+[Contexts](exception_modal_contexts/MODAL_CONTEXTS.md) and
+[desire/actor binding](exception_modal_contexts/DESIRE_AND_ACTOR_BINDING.md)
+develop nine operations, 3.3.152–160: supplied semantic fields, clause
+addresses, same-actor tumun/liṅ and a separate outer-desire choice.
+[Native arguments](exception_modal_contexts/NATIVE_ACTOR_AND_QUERY_TRANSPORT.md)
+prove why person labels cannot replace actor identity and derive local
+cut transport, a rank repair and typed zero-specialization.
+
+[Paradigms](exception_modal_contexts/PARADIGMS.md) and
+[coverage](exception_modal_contexts/COVERAGE.json) reach **10,573 admitted
+written finite positions /652 bounded-rule IDs**. All inherited PG8
+profiles now have I/O/B; all inherited PG7+PG8 class-7 profiles total
+**25 roots /35 profiles /945 modal positions**, extended to 36 profiles
+/972 by upabhoga. These are overlapping subtotals. Context requests
+and nonfinite bhoktum do not add finite positions. The approximately
+**16.37%** bounded-rule ratio is not whole-grammar completion.
+[Sources](exception_modal_contexts/SOURCE_REVIEW.md) retain textual
+anomalies and the still-open universal scheduling question.
+[theorem branch through T148](exception_modal_contexts/COMPANION_UPDATE.md) credits
+the closing causative extension and its four new combined IDs, with a
+concrete adapter handoff; [work/frontier](exception_modal_contexts/WORK_RECORD.md)
+keeps grammar tests and replay deferred and identifies the next context block.
+
+**Opportunity, kṛt expressions and meaning-sensitive case:**
+[PG29](opportunity_necessity/README.md) develops **3.3.167–171** on
+four exact roots. [Domain](opportunity_necessity/DOMAIN_AND_DISCOURSE.md)
+and [opportunity/eligibility](opportunity_necessity/OPPORTUNITY_AND_WORTHINESS.md)
+retain praiṣādi, time-head and relevant-yad dependencies, local bhāva-lyuṭ
+alternatives and PG19's previously unbuilt kṛtya projection.
+[Necessity/cases](opportunity_necessity/NECESSITY_AND_CASES.md) preserve
+the semantic difference between necessity and debt without requiring
+an overt avaśyam, and distinguish tṛc kartā from finite luṭ kartā.
+
+[Kṛt construction](opportunity_necessity/KRT_CONSTRUCTION.md) and the
+[register](opportunity_necessity/EXPRESSION_REGISTER.md) give **23 nonfinite
+base targets** (22 constructed here plus reused bhoktum), **39 nominal
+readout targets** and **18 new qualified vah O positions/readings**.
+[Coverage](opportunity_necessity/COVERAGE.json) reaches **10,591 admitted
+written finite positions /681 bounded-rule IDs**. Nonfinite, nominal
+and finite counts stay separate; the approximately **17.10%** rule
+ratio does not measure whole-grammar completion.
+
+The [native argument](opportunity_necessity/NATIVE_TYPED_CHOICE.md)
+constructs dependent expression fibres and proves that two addressed
+scalar channels are necessary and sufficient for its four-history case
+cut, where one pooled coordinate fails. Typed zero-specialization keeps
+suffix and semantic history. [Source review](opportunity_necessity/SOURCE_REVIEW.md),
+[literal archive](opportunity_necessity/SOURCE_EXCERPTS.json) and
+[pins](opportunity_necessity/SOURCE_PINS.json) retain the exact source
+boundaries. [theorem branch through T149](opportunity_necessity/COMPANION_UPDATE.md)
+credits san and records complementary admission, alternatives and case
+work. [Work/frontier](opportunity_necessity/WORK_RECORD.md) keeps grammar
+tests/replay deferred and selects 3.3.172 and 3.3.174–176 next.
+
+**Capability, blessing-names and owned prohibitive augmentation:**
+[PG30](capability_naming_prohibition/README.md) develops **3.3.172 and
+3.3.174–176** in their actual source sequence. Its
+[domain](capability_naming_prohibition/DOMAIN_AND_SCOPE.md) corrects
+PG29's prospective subject labels, while [capability/naming](capability_naming_prohibition/CAPABILITY_AND_NAMING.md)
+retain semantic capacity and the whole-expression appellative condition.
+[Prohibition](capability_naming_prohibition/PROHIBITION_AND_AUGMENTS.md)
+distinguishes lexical māṅ, associated sma and the separate owners of
+blocked aṭ/āṭ and retained ending īṭ.
+
+[Finite construction](capability_naming_prohibition/FINITE_CONSTRUCTION.md)
+adds complete kṛ/hṛ P luṅ/laṅ paradigms: **36 positions /36 readings**,
+cumulative **10,627 admitted written finite positions**.
+[Nominal construction](capability_naming_prohibition/NOMINAL_CONSTRUCTION.md)
+and the [register](capability_naming_prohibition/EXPRESSION_REGISTER.md)
+give six local construction targets /eight base readings /eight selected
+nominal readouts, including all three san/ktic alternatives and Devadatta.
+The grades are not added together.
+
+The [native argument](capability_naming_prohibition/NATIVE_OWNERS_AND_BRANCHES.md)
+derives owner-selective suppression, an observer obstruction, a one-channel
+context repair and retained-source branch multiplicity with typed zero-recovery.
+[Sources](capability_naming_prohibition/SOURCE_REVIEW.md),
+[literal fields](capability_naming_prohibition/SOURCE_EXCERPTS.json) and
+[pins](capability_naming_prohibition/SOURCE_PINS.json) preserve source limits.
+[Coverage](capability_naming_prohibition/COVERAGE.json) reaches
+**693/3,983 bounded-rule IDs**; approximately **17.40%** is not a whole-
+grammar completion fraction. [theorem-branch handoff](capability_naming_prohibition/COMPANION_UPDATE.md)
+records the unchanged T149 head and concrete ownership/admission work.
+[Work/frontier](capability_naming_prohibition/WORK_RECORD.md) keeps tests
+and replay deferred; 3.3.139–151 and broader word adapters remain open.
+
+**Effective counterfactual admission and conditional words:**
+[PG31](counterfactual_contexts/README.md) constructs **3.3.139–151**.
+Its [contexts](counterfactual_contexts/CONTEXT_RELATIONS.md) and
+[admission](counterfactual_contexts/COUNTERFACTUAL_ADMISSION.md) retain
+effective liṅ-nimitta after exceptions, qualified kriyātipatti and
+the exclusive 152 boundary. Surprise+yadi has a separately justified route.
+
+[Sya transport](counterfactual_contexts/SYA_TRANSPORT.md) and
+[conditional endings](counterfactual_contexts/ENDING_CONSTRUCTION.md)
+give 17 basic roots and 12 inherited causal formations, 48 qualified
+profiles and 53 branches. The [complete register](counterfactual_contexts/PARADIGMS.md)
+adds **432 positions /477 readings**, cumulative **11,059 written
+finite positions**, with aṭ/āṭ, dependent iṭ and preserved ṇic owners.
+
+The [native argument](counterfactual_contexts/NATIVE_ADMISSION_AND_TRANSPORT.md)
+establishes staged eligibility, the local observer minimum, restricted
+transport and typed zero-recovery. [Sources](counterfactual_contexts/SOURCE_REVIEW.md),
+[literal archive](counterfactual_contexts/SOURCE_EXCERPTS.json) and
+[pins](counterfactual_contexts/SOURCE_PINS.json) retain exact evidence limits.
+[Coverage](counterfactual_contexts/COVERAGE.json) is **708/3,983 bounded-rule
+IDs**; approximately **17.78%** is not whole-grammar completion.
+[theorem-branch handoff](counterfactual_contexts/COMPANION_UPDATE.md) records
+the new T150 and complementary semantic/owner work.
+[Work/frontier](counterfactual_contexts/WORK_RECORD.md) keeps tests/replay
+deferred and identifies broader prohibitives, passive/bhāva R and nominal
+coverage as remaining construction.
+
+**Prohibitive A, bhū-luk and ordinary luṅ:**
+[PG32](prohibitive_lung/README.md) adds **234 positions /236 readings**,
+cumulative **11,293**, across eight roots and 26 qualified profiles.
+Its [domain](prohibitive_lung/DOMAIN_AND_SCOPE.md) separates ordinary
+luṅ, māṅ-luṅ and māṅ+sma-laṅ while reusing PG30's 36 completed
+kṛ/hṛ P prohibitive positions.
+
+[Luṅ](prohibitive_lung/LUNG_CONSTRUCTION.md) distinguishes sic-iṭ,
+tiṅ-īṭ, the A1sg ending and bhū-vuk; historical sic-luk has different
+effects under 7.3.96 and 3.4.109–110. [Laṅ](prohibitive_lung/SMA_LANG_CONSTRUCTION.md)
+rebuilds thematic and owned-u endings. The [full register](prohibitive_lung/PARADIGMS.md)
+retains īh's two 2pl alternatives, with the adopted and rival commentary
+policies separated in [source review](prohibitive_lung/SOURCE_REVIEW.md).
+
+[Native continuation](prohibitive_lung/NATIVE_OWNED_CONTINUATION.md)
+preserves the full history carrier, addressed augment cuts and typed
+zero-recovery. [Literal sources](prohibitive_lung/SOURCE_EXCERPTS.json),
+[pins](prohibitive_lung/SOURCE_PINS.json) and [coverage](prohibitive_lung/COVERAGE.json)
+record **731/3,983 bounded-rule IDs**; about **18.35%** is not overall
+grammar completion. [theorem-branch T151/T152 review and handoff](prohibitive_lung/COMPANION_UPDATE.md)
+credits the new kṛt work without rerunning it. [Work/frontier](prohibitive_lung/WORK_RECORD.md)
+keeps tests/replay deferred and names other luṅ families, passive/bhāva
+continuations and full nominal/compound coverage as remaining work.
+
+**Conditional bhāva/karma and ciṇvat:**
+[PG33](conditional_voice/README.md) adds **229 positions /448 readings**,
+cumulative **11,522**. Its [domain](conditional_voice/DOMAIN_AND_ADMISSION.md)
+retains independent conditional-admission and expressed-controller evidence.
+[Construction](conditional_voice/CONSTRUCTION.md) and the complete symbolic
+[register](conditional_voice/PARADIGMS.md) preserve sourced iṭ, ṇic-lopa,
+grah i/ī, basic/causal gam and the three-way causal mit relation.
+[Native continuation](conditional_voice/NATIVE_CONTINUATION.md) proves
+the bounded transport and zero-reading while retaining formation history.
+
+[Sources](conditional_voice/SOURCE_REVIEW.md), [archive](conditional_voice/SOURCE_EXCERPTS.json),
+[pins](conditional_voice/SOURCE_PINS.json) and [coverage](conditional_voice/COVERAGE.json)
+keep the union at **731/3,983**. Three already-authored IDs are restored
+to the independent-written inventory (373); no new rule breadth is claimed.
+[theorem-branch handoff](conditional_voice/COMPANION_HANDOFF.md) records the unchanged
+T152 head. [Work/frontier](conditional_voice/WORK_RECORD.md) preserves the
+written-first priority and deferred tests/replay.
+
+**Actual ciṇ in bhāva/karma luṅ:**
+[PG34](cin_aorist/README.md) adds **30 positions /33 readings**, cumulative
+**11,552**. [Domain](cin_aorist/DOMAIN.md) restricts the constructor to
+original A3sg ta. [Construction](cin_aorist/CONSTRUCTION.md) separates
+ciṇ-i, ṇic-lopa and ta-luk, original-accent guards, optional labh num
+and causal mit length. The [register](cin_aorist/PARADIGMS.md) prints
+all thirty-three readings; [native continuation](cin_aorist/NATIVE_CONTINUATION.md)
+retains source/target histories and proves typed zero-recovery.
+
+[Sources](cin_aorist/SOURCE_REVIEW.md), [archive](cin_aorist/SOURCE_EXCERPTS.json),
+[pins](cin_aorist/SOURCE_PINS.json) and [coverage](cin_aorist/COVERAGE.json)
+record **734/3,983** combined bounded-rule IDs and 381 independently
+written IDs, including one explicitly identified inventory restoration.
+[Handoff/work](cin_aorist/HANDOFF_AND_WORK.md) records the unchanged T152
+head and deferred grammar tests/replay. Other karma luṅ slots and
+ksa/aṅ/caṅ constructions remain open.
+
+**Taddhita relations and the 1,000-ID milestone:**
+[PG35](taddhita_relations/README.md) constructs **313 written rule contracts**
+across all of 4.2–4.3. Combined bounded reach is **1,046/3,983** (+312,
+because 4.3.120 was already in the union); independent written reach is
+**694**. This is the semantic/affix-selection and owned-operation layer.
+Full nominal realization is separate; the existing **11,552 finite
+positions** remain unchanged.
+
+[Domain](taddhita_relations/DOMAIN.md),
+[construction](taddhita_relations/CONSTRUCTION.md) and the
+[complete structured register](taddhita_relations/RULE_REGISTER.json)
+retain case/meaning evidence, original affixes, gaṇa ordinals, scope,
+exceptions and distinct लुक्/लुप् targets. [Native continuation](taddhita_relations/NATIVE_CONTINUATION.md)
+proves dependent branching, scope separation and zero-recovery at this
+selection layer. [Source decisions](taddhita_relations/SOURCE_REVIEW.md),
+[literal archive](taddhita_relations/SOURCE_EXCERPTS.json),
+[pins](taddhita_relations/SOURCE_PINS.json) and
+[coverage](taddhita_relations/COVERAGE.json) keep the count auditable.
+[Handoff/work](taddhita_relations/HANDOFF_AND_WORK.md) records the unchanged
+theorem-branch T152 head, deferred tests/replay and the remaining realization work.
+
+**Next 300: functional taddhita contracts:**
+[PG36](taddhita_functional/README.md) adds **303 contracts** across all of
+4.4, all of 5.1 and 5.2.1–23. Combined bounded reach rises
+**1,046 → 1,348/3,983** (+302; overlap 5.1.122); independent written
+reach is **997**. Full nominal realization is separate, and **11,552
+finite positions** remain unchanged.
+
+[Domain](taddhita_functional/DOMAIN.md),
+[construction](taddhita_functional/CONSTRUCTION.md) and
+[register](taddhita_functional/RULE_REGISTER.json) specify case/meaning
+gates, causal द्विगु, measurement and temporal types, affix identity,
+dependent alternatives and addressed deletion.
+[Native continuation](taddhita_functional/NATIVE_CONTINUATION.md) retains
+these histories under typed zero-recovery. [Source review](taddhita_functional/SOURCE_REVIEW.md),
+[archive](taddhita_functional/SOURCE_EXCERPTS.json),
+[pins](taddhita_functional/SOURCE_PINS.json) and
+[coverage](taddhita_functional/COVERAGE.json) preserve literal evidence,
+adopted corrections, open variants and exact counts.
+[Handoff/work](taddhita_functional/HANDOFF_AND_WORK.md) records unchanged
+theorem-branch T152, deferred tests/replay and that packet's frontier at **5.2.24**.
+
+**Quality review and next 300: possession and adverbials:**
+[PG37](possession_adverbials/README.md) constructs **321 contracts** for
+5.2.24–140, all of 5.3 and 5.4.1–85. Eleven overlaps leave **310 new IDs**:
+combined bounded reach **1,348 → 1,658/3,983**, independent written reach
+**997 → 1,318**. Finite positions stay **11,552**; this remains the written
+selection/operation layer, with grammar tests and replay deferred.
+
+[Predecessor review](possession_adverbials/PREDECESSOR_REVIEW.md) checks
+616 prior rows, 1,870 literal fields, 46 pinned file records and selected
+semantic boundaries without claiming exhaustive correctness.
+[Domain](possession_adverbials/DOMAIN.md),
+[construction](possession_adverbials/CONSTRUCTION.md) and
+[register](possession_adverbials/RULE_REGISTER.json) retain ordinal augment
+ownership, pronominal designation, source-dependent choices, transformation
+relations and compound classes.
+[Native continuation](possession_adverbials/NATIVE_CONTINUATION.md) supplies
+addressed-history and compound-fibre propositions with typed zero-reading.
+[Source review](possession_adverbials/SOURCE_REVIEW.md),
+[archive](possession_adverbials/SOURCE_EXCERPTS.json),
+[pins](possession_adverbials/SOURCE_PINS.json) and
+[coverage](possession_adverbials/COVERAGE.json) preserve evidence and counts.
+[Handoff/work](possession_adverbials/HANDOFF_AND_WORK.md) records the
+implementation requirements and next frontier at **5.4.86**.
+
+**Next 300: compound endings, sound and accent:**
+[PG38](compound_sound_accent/README.md) adds **352 written contracts**
+for **5.4.86–160, 6.1.1–223 and 6.2.1–54**. After fifty combined overlaps,
+**302 new IDs** take bounded reach **1,658 → 1,960/3,983**. Independent
+written reach is **1,318 → 1,642**, excluding 28 already-written IDs.
+Finite positions stay **11,552**, with zero new positions/readings.
+
+[Domain](compound_sound_accent/DOMAIN.md),
+[construction](compound_sound_accent/CONSTRUCTION.md) and
+[register](compound_sound_accent/RULE_REGISTER.json) retain compound class,
+copy/augment ownership, two-source coalescence, earlier sound visibility,
+case identity and accent priority. [Native continuation](compound_sound_accent/NATIVE_CONTINUATION.md)
+instantiates the inherited full-carrier construction with typed zero-reading.
+[Source review](compound_sound_accent/SOURCE_REVIEW.md),
+[archive](compound_sound_accent/SOURCE_EXCERPTS.json),
+[pins](compound_sound_accent/SOURCE_PINS.json) and
+[coverage](compound_sound_accent/COVERAGE.json) distinguish literal evidence
+from adopted contracts and exact overlaps. [Predecessor review](compound_sound_accent/PREDECESSOR_REVIEW.md)
+checks PG37's 321 rows, 988 source fields, 29 file identities and eight
+selected semantic boundaries. [Handoff/work](compound_sound_accent/HANDOFF_AND_WORK.md)
+records deferred tests/replay, unchanged theorem-branch T152 and the next frontier
+at **6.2.55**. Complete word realization and all lexical extensions remain
+open; these contracts are not runtime-tested whole-rule implementations.
+
+**Next 300: compound accent, case retention and aṅga:**
+[PG39](compound_accent_stems/README.md) adds **329 written contracts**
+for **6.2.55–199, 6.3.1–139 and 6.4.1–45**. After 29 combined overlaps,
+**300 new IDs** take bounded reach **1,960 → 2,260/3,983**. Independent
+written reach is **1,642 → 1,954**, excluding 17 already-written IDs.
+Finite positions stay **11,552**, with zero new positions/readings.
+
+[Domain](compound_accent_stems/DOMAIN.md),
+[construction](compound_accent_stems/CONSTRUCTION.md) and
+[register](compound_accent_stems/RULE_REGISTER.json) preserve dependent
+accent choices, original case and suffix history, augment ownership and
+same-आश्रय visibility. [Native continuation](compound_accent_stems/NATIVE_CONTINUATION.md)
+instantiates the existing full-carrier construction and typed zero-reading.
+[Source review](compound_accent_stems/SOURCE_REVIEW.md),
+[archive](compound_accent_stems/SOURCE_EXCERPTS.json),
+[pins](compound_accent_stems/SOURCE_PINS.json) and
+[coverage](compound_accent_stems/COVERAGE.json) retain adopted policies,
+1,047 literal source fields and exact count layers.
+[Predecessor review](compound_accent_stems/PREDECESSOR_REVIEW.md) checks
+PG38's 352 rows, 1,095 fields, 28 file identities and eight targeted boundaries.
+[Handoff/work](compound_accent_stems/HANDOFF_AND_WORK.md) records unchanged
+theorem-branch T152, deferred grammar/navigation/operator suites and the next
+frontier at **6.4.46**. Full word realization and lexical extensions remain open.
+
+**Next 300: aṅga, affix and abhyāsa:**
+[PG40](anga_affix_abhyasa/README.md) adds **545 written contracts** for
+**6.4.46–175, all 7.1–7.3 and 7.4.1–74**. After 244 combined overlaps,
+**301 new IDs** take bounded reach **2,260 → 2,561/3,983**. Independent
+written reach rises **1,954 → 2,405**, after 94 already-written overlaps.
+Finite positions remain **11,552**, with zero new positions/readings.
+
+[Domain](anga_affix_abhyasa/DOMAIN.md),
+[construction](anga_affix_abhyasa/CONSTRUCTION.md) and
+[register](anga_affix_abhyasa/RULE_REGISTER.json) retain iṭ origin and
+length decisions, suffix/case ownership, referent versus agreement,
+compound grade and copy histories. [Native continuation](anga_affix_abhyasa/NATIVE_CONTINUATION.md)
+instantiates the inherited full-carrier construction and typed zero-reading.
+[Source review](anga_affix_abhyasa/SOURCE_REVIEW.md),
+[archive](anga_affix_abhyasa/SOURCE_EXCERPTS.json),
+[pins](anga_affix_abhyasa/SOURCE_PINS.json) and
+[coverage](anga_affix_abhyasa/COVERAGE.json) retain 1,691 literal fields,
+adopted source policies and exact overlap accounting.
+[Predecessor review](anga_affix_abhyasa/PREDECESSOR_REVIEW.md) checks
+PG39's 329 rows, 1,047 fields, 29 file identities and eight selected boundaries.
+[Handoff/work](anga_affix_abhyasa/HANDOFF_AND_WORK.md) records unchanged
+theorem-branch T152, deferred grammar/navigation/operator suites and the next
+frontier **7.4.75**. Full word realization and independent verification remain open.
+
+**Next 300: abhyāsa, sentence context and tripādī:**
+[PG41](abhyasa_tripadi/README.md) adds **391 written contracts** for
+**7.4.75–97 and all of chapter 8 through 8.4.68**. After 76 combined
+overlaps, **315 new IDs** take bounded reach **2,561 → 2,876/3,983**.
+Independent written reach rises **2,405 → 2,741**, after 55 already-written
+overlaps. Finite positions remain **11,552**, with zero new positions/readings.
+
+[Domain](abhyasa_tripadi/DOMAIN.md),
+[construction](abhyasa_tripadi/CONSTRUCTION.md) and
+[register](abhyasa_tripadi/RULE_REGISTER.json) distinguish root copies,
+whole repetition and consonant duplication, and retain sentence boundaries,
+enclitic/accent conditions, tripādī visibility and nasal/visarga origins.
+[Native continuation](abhyasa_tripadi/NATIVE_CONTINUATION.md) instantiates
+the inherited full-carrier construction and typed zero-reading.
+[Source review](abhyasa_tripadi/SOURCE_REVIEW.md),
+[archive](abhyasa_tripadi/SOURCE_EXCERPTS.json),
+[pins](abhyasa_tripadi/SOURCE_PINS.json) and
+[coverage](abhyasa_tripadi/COVERAGE.json) retain 1,233 literal fields and
+exact overlap/gap accounting. [Predecessor review](abhyasa_tripadi/PREDECESSOR_REVIEW.md)
+records 545 matched PG40 rows, 1,682 direct field comparisons and 34 rehashed
+pins; nine older Nyāsa fields and its primary-file hash were not rechecked.
+[Handoff/work](abhyasa_tripadi/HANDOFF_AND_WORK.md) records unchanged theorem-branch
+T152 and deferred suites/replay. The text endpoint leaves **1,107 combined
+catalogue gaps**; the next frontier returns to **1.1.4**. Full realization
+and independent executable verification remain open.
+
+**Next 300: foundational relations, roles and early compounds:**
+[PG42](foundational_relations/README.md) adds **300 new bounded written
+contracts**, closing the first 300 combined gaps from **1.1.4 through 2.2.3**.
+Combined bounded reach rises **2,876 → 3,176/3,983** and independent written
+reach **2,741 → 3,041**, with zero overlap in this batch. Finite positions
+remain **11,552**, with zero new positions/readings.
+
+[Domain](foundational_relations/DOMAIN.md),
+[construction](foundational_relations/CONSTRUCTION.md) and
+[register](foundational_relations/RULE_REGISTER.json) retain scoped
+designations, contextual pada/kāraka relations, particle roles, compound
+fitness and dependent choices. The five 1.2.53–57 entries are interpretive
+boundaries. [Native continuation](foundational_relations/NATIVE_CONTINUATION.md)
+instantiates the inherited full carrier and typed zero-reading.
+[Source review](foundational_relations/SOURCE_REVIEW.md),
+[archive](foundational_relations/SOURCE_EXCERPTS.json),
+[pins](foundational_relations/SOURCE_PINS.json) and
+[coverage](foundational_relations/COVERAGE.json) retain **1,371 literal fields**
+and exact gap accounting. At 1.4.72, three dependent branches are adopted and
+the extra Kāśikā तिरस्कृत्वा remains unresolved.
+[Predecessor review](foundational_relations/PREDECESSOR_REVIEW.md) checks PG41's
+391 rows, 1,233 fields and 33 pins and closes the older Nyāsa file/nine-field
+audit limit. [Handoff/work](foundational_relations/HANDOFF_AND_WORK.md) records
+unchanged theorem-branch T152, deferred suites/replay and **807 remaining combined
+gaps**, beginning at **2.2.4**. Full realization and independent executable
+verification remain open.
+
+**Next 300: compounds, cases and dependent derivation:**
+[PG43](compound_case_derivation/README.md) adds **300 new bounded written
+contracts**, the first combined gaps from **2.2.4 through 3.2.47**. Combined
+reach rises **3,176 → 3,476/3,983** and independent written reach
+**3,041 → 3,341**, with zero overlap. Finite positions remain **11,552**;
+new positions and counted readings are zero.
+
+[Domain](compound_case_derivation/DOMAIN.md),
+[construction](compound_case_derivation/CONSTRUCTION.md) and
+[register](compound_case_derivation/RULE_REGISTER.json) retain role/case/compound
+boundaries, collective number/gender, exact affix origins, addressed deletion,
+dependent pair relations and consumer-specific designations.
+[Native continuation](compound_case_derivation/NATIVE_CONTINUATION.md)
+instantiates the inherited full carrier and typed zero-reading.
+[Source review](compound_case_derivation/SOURCE_REVIEW.md),
+[archive](compound_case_derivation/SOURCE_EXCERPTS.json),
+[pins](compound_case_derivation/SOURCE_PINS.json) and
+[coverage](compound_case_derivation/COVERAGE.json) retain **1,363 literal fields**,
+38 file pins and exact gap accounting. Misassigned Kāśikā 2.4.28 is preserved
+as nonoperative; Kaumudī, Nyāsa and Vasu supply the adopted contract. Source
+differences at 2.4.69 and 3.1.103 remain explicit.
+[Predecessor review](compound_case_derivation/PREDECESSOR_REVIEW.md) checks
+PG42's 300 rows, 1,371 fields and 39 pins.
+[Handoff/work](compound_case_derivation/HANDOFF_AND_WORK.md) records unchanged
+theorem-branch T152, deferred suites/replay and **507 remaining combined gaps**,
+beginning at **3.2.48**. Full realization and independent executable verification
+remain open.
+
+**Next 300: kṛt meanings and temporal relations:**
+
+[PG44](krt_temporal_relations/README.md) adds
+**300 new bounded written contracts**, the first combined gaps from
+**3.2.48 through 3.4.38**. Combined reach rises **3,476 → 3,776/3,983**;
+independent written reach **3,341 → 3,641**, with zero overlap. Finite
+positions remain **11,552**, with zero new positions/readings.
+
+[Domain](krt_temporal_relations/DOMAIN.md),
+[construction](krt_temporal_relations/CONSTRUCTION.md)
+and [register](krt_temporal_relations/RULE_REGISTER.json)
+retain affix origin, semantic authority, dependent roles, contextual optionality
+and action/time relations. [Native continuation](krt_temporal_relations/NATIVE_CONTINUATION.md)
+instantiates the inherited full carrier and typed zero-reading.
+[Source review](krt_temporal_relations/SOURCE_REVIEW.md),
+[archive](krt_temporal_relations/SOURCE_EXCERPTS.json),
+[pins](krt_temporal_relations/SOURCE_PINS.json) and
+[coverage](krt_temporal_relations/COVERAGE.json)
+retain **1,215 literal fields**, 42 file pins and explicit commentary policies.
+[Predecessor review](krt_temporal_relations/PREDECESSOR_REVIEW.md)
+checks PG43's 300 rows, 1,363 fields and 38 pins.
+[Handoff/work](krt_temporal_relations/HANDOFF_AND_WORK.md)
+records unchanged T152 and deferred suites/replay. **207 combined gaps** and
+**342 independent-written gaps** remain; the next combined gap is **3.4.39**.
+Full realization, separate Uṇādi completion and executable verification remain open.
+
+**Remaining 207: combined catalogue closure:**
+
+[PG45](catalogue_gap_closure/README.md) adds the
+**207 remaining combined gaps**: 44 in 3.4, 162 in 4.1 and 8.3.119.
+Combined ID reach becomes **3,983/3,983**; independent written reach
+**3,848**, with **135 written gaps** remaining. Finite positions stay
+**11,552**, with zero new positions/readings. Catalogue closure is not full
+grammar completion or executable verification.
+
+[Domain](catalogue_gap_closure/DOMAIN.md),
+[construction](catalogue_gap_closure/CONSTRUCTION.md)
+and [register](catalogue_gap_closure/RULE_REGISTER.json)
+retain action/role conditions, feminine affix origins, generation-relative
+designations, dependent branches and addressed deletion.
+[Native continuation](catalogue_gap_closure/NATIVE_CONTINUATION.md)
+instantiates the inherited full carrier and typed zero-reading.
+[Source review](catalogue_gap_closure/SOURCE_REVIEW.md),
+[archive](catalogue_gap_closure/SOURCE_EXCERPTS.json),
+[pins](catalogue_gap_closure/SOURCE_PINS.json) and
+[coverage](catalogue_gap_closure/COVERAGE.json)
+retain **975 literal fields**, 41 file pins and exact independent-written gaps.
+[Predecessor review](catalogue_gap_closure/PREDECESSOR_REVIEW.md)
+checks PG44's 300 rows, 1,215 literals and 42 pins, and documents PG41's omitted
+8.3.119 plus its incorrect 8.3.55 endpoint. Frozen counts remain unchanged.
+[Handoff/work](catalogue_gap_closure/HANDOFF_AND_WORK.md)
+records unchanged T152, deferred suites/replay and the next **135 independent-written
+IDs beginning at 1.1.7**, adding zero combined IDs. Full realization and
+integration remain open.
+
+**Final 135: independent-written ID closure:**
+
+[PG46](independent_written_closure/README.md) writes the **135 remaining
+independent-written IDs**, all already combined. Combined and written
+membership now both equal **3,983/3,983**; new combined credit is **zero**.
+Both tracked gap lists are empty. Finite positions remain **11,552**, with
+zero new positions/readings. This closes the bounded written-ID pass;
+full semantic interpretation, realization and executable integration remain open.
+
+[Domain](independent_written_closure/DOMAIN.md),
+[construction](independent_written_closure/CONSTRUCTION.md) and
+[register](independent_written_closure/RULE_REGISTER.json) retain addressed
+instructions, designation origin, deletion cause, qualified competition and
+noncircular dependent operations. [Native continuation](independent_written_closure/NATIVE_CONTINUATION.md)
+retains the full carrier and typed zero-reading under unchanged assumptions.
+[Source review](independent_written_closure/SOURCE_REVIEW.md),
+[archive](independent_written_closure/SOURCE_EXCERPTS.json),
+[pins](independent_written_closure/SOURCE_PINS.json) and
+[coverage](independent_written_closure/COVERAGE.json) retain **902 literal
+fields**, 41 file pins and exact old/new membership accounting.
+[Predecessor review](independent_written_closure/PREDECESSOR_REVIEW.md)
+rechecks PG45's 207 rows, 975 literals and 41 pins with targeted rereadings.
+[Completion and frontier](independent_written_closure/COMPLETION_AND_FRONTIER.md)
+and [handoff/work](independent_written_closure/HANDOFF_AND_WORK.md) move the
+next stage to **written interaction and realization**, adding zero catalogue
+IDs. The companion remains T152; grammar tests, generators, replay and
+navigation/operator suites remain deferred.
+
+**After ID closure: addressed rule interactions:**
+
+[PG47](interaction_histories/README.md) constructs **29 written history
+units** across addressed instructions, designation/deletion consumers,
+qualified competition and dependent realization. Both catalogue-ID sets
+remain **3,983/3,983**; finite positions remain **11,552**. New ID,
+position and counted-paradigm-reading credit is zero.
+
+The [interface](interaction_histories/INTERFACE.md) preserves revision-bound
+admission, token and sound-version addresses, source-clause/policy origins,
+consumer views and Open obligations. [Instruction](interaction_histories/INSTRUCTION_HISTORIES.md),
+[designation](interaction_histories/DESIGNATION_HISTORIES.md),
+[competition](interaction_histories/COMPETITION_HISTORIES.md) and
+[realization histories](interaction_histories/REALIZATION_HISTORIES.md)
+include coupled मनु branches, inner-affix replacement and the prerequisite
+टि deletion for औडुलोम्या. The [register](interaction_histories/HISTORY_REGISTER.json)
+records each local scope; these are not executed cases or full paradigms.
+
+[Source review](interaction_histories/SOURCE_REVIEW.md),
+[archive](interaction_histories/SOURCE_EXCERPTS.json) and
+[pins](interaction_histories/SOURCE_PINS.json) preserve **333 literal fields**
+and **39 file pins**, including the local Nyāsa 3.4.117 reference correction
+to 6.4.67. [Native continuation](interaction_histories/NATIVE_CONTINUATION.md)
+retains the full carrier and typed zero-reading under inherited assumptions.
+[Predecessor review](interaction_histories/PREDECESSOR_REVIEW.md) checks
+PG46's 135 rows, 902 literals and 41 pins; [coverage](interaction_histories/COVERAGE.json)
+preserves the exact inherited ID sets. [Handoff/work](interaction_histories/HANDOFF_AND_WORK.md)
+and [frontier](interaction_histories/FRONTIER.md) target the nested
+4.1.78→4.1.120→6.4.151 provenance/य-lopa history next. The companion remains
+T152; grammar tests, generators, replay and navigation/operator suites stay
+deferred. Full grammar integration, general admission and accent remain open.
 
 ## Read in this order
 

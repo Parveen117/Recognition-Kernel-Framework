@@ -78,7 +78,7 @@ The relevant primary clauses are archived in SOURCE_EXCERPTS.
    before adding forms. Preserve independent stem types and source choices.
 
 Keep source-derived written grammar first; further Python certificates
-can wait under the owner's current instruction. Codex has completed
+can wait under the owner's current instruction. The construction branch has completed
 this finite PG18 bhāva/karma future construction and next takes the
 imperative/optative meaning-to-form lane. Neither side needs to duplicate
 the other's core grammatical domain.

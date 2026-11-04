@@ -6,7 +6,7 @@ Author: Monty. 2 November 2026.
 
 The primary edition remains `ashtadhyayi-com/data` at
 `5744762f010d677cfb43f347a42d02796cf615d6`. This session restored
-the exact source files from that commit and continued the Codex branch
+the exact source files from that commit and continued the construction branch
 from PG16 commit `e199fbab9c0fe3602d915c9697b4d79c75a13ee3`.
 SOURCE_EXCERPTS preserves selected sūtra text, whole commentary-entry
 contexts and the twenty-one lexical records used across the two sectors.

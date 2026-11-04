@@ -19,7 +19,7 @@ restart the same samāsa outline or repeat the already supported correction.
 ## Copyable task assignment
 
 Continue the **samāsa mathematical construction after T118 / bee6b02**.
-Keep this independent of Codex's PG15 work on causative passive, ṇic-lopa,
+Keep this independent of the construction branch's PG15 work on causative passive, ṇic-lopa,
 double-karman selection, case/agreement and its native history extension.
 
 First address the source findings in T118_SOURCE_REVIEW:

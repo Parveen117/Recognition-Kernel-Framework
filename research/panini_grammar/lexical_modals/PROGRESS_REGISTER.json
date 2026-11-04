@@ -1,0 +1,7528 @@
+{
+  "schema": "rkf.panini.pg23.progress_register.v1",
+  "author": "Monty",
+  "date": "2026-11-02",
+  "evidence_boundary": "Includes historical implemented/source-bound and later written work awaiting verification. Declared ledger levels are reused, not independently audited here. No full-sutra or whole-grammar completion claim.",
+  "overall_grammar_completion_percent": null,
+  "bounded_rule_reach": {
+    "denominator": 3983,
+    "denominator_meaning": "numbered sutra IDs of the pinned edition, not a weighted grammar-completeness scale",
+    "companion_operational_labelled_ids": 491,
+    "pg4_pg13_distinct_source_bound_ids": 161,
+    "pg4_pg13_additional_ids": [
+      "1.1.58",
+      "1.3.66",
+      "1.3.86",
+      "3.1.70",
+      "3.1.71",
+      "3.1.72",
+      "3.1.75",
+      "3.1.76",
+      "3.1.80",
+      "3.4.83",
+      "3.4.84",
+      "6.1.5",
+      "6.1.74",
+      "6.1.75",
+      "6.1.76",
+      "6.1.89",
+      "6.4.2",
+      "6.4.19",
+      "6.4.22",
+      "6.4.78",
+      "6.4.115",
+      "6.4.116",
+      "7.3.85",
+      "7.3.92",
+      "7.3.95",
+      "8.2.25",
+      "8.2.35",
+      "8.2.78",
+      "8.2.79",
+      "8.4.42",
+      "8.4.43",
+      "8.4.65"
+    ],
+    "pg14_pg22_curated_additional_ids": [
+      "1.1.6",
+      "1.1.57",
+      "1.2.11",
+      "1.2.12",
+      "1.2.13",
+      "1.3.74",
+      "1.3.77",
+      "1.3.87",
+      "1.3.88",
+      "1.3.89",
+      "1.3.92",
+      "1.3.93",
+      "1.4.21",
+      "1.4.22",
+      "1.4.52",
+      "1.4.53",
+      "1.4.55",
+      "1.4.105",
+      "1.4.107",
+      "1.4.108",
+      "3.3.163",
+      "3.3.164",
+      "3.3.165",
+      "3.3.166",
+      "6.1.58",
+      "6.4.51",
+      "6.4.62",
+      "6.4.93",
+      "7.1.35",
+      "7.2.37",
+      "7.2.42",
+      "7.2.44",
+      "7.2.48",
+      "7.2.57",
+      "7.2.59",
+      "7.2.60",
+      "7.2.70",
+      "7.3.33",
+      "7.4.28",
+      "8.2.18",
+      "8.3.78",
+      "8.3.79",
+      "8.4.47",
+      "8.4.64"
+    ],
+    "through_pg22_union": 567,
+    "pg23_additional_ids": [
+      "6.4.35",
+      "6.4.36"
+    ],
+    "through_pg23_union": 569,
+    "ratio_percent": 14.285714285714286,
+    "ratio_label": "bounded documented/declarative rule reach, not complete grammar or fully complete sutras",
+    "literal_engine_ids": {
+      "ting": [
+        "2.4.72",
+        "2.4.75",
+        "2.4.77",
+        "2.4.85",
+        "3.1.25",
+        "3.1.33",
+        "3.1.44",
+        "3.1.55",
+        "3.1.68",
+        "3.1.69",
+        "3.1.73",
+        "3.1.74",
+        "3.1.77",
+        "3.1.78",
+        "3.1.79",
+        "3.1.81",
+        "3.1.82",
+        "3.1.83",
+        "3.4.79",
+        "3.4.80",
+        "3.4.82",
+        "3.4.86",
+        "3.4.87",
+        "3.4.89",
+        "3.4.90",
+        "3.4.91",
+        "3.4.92",
+        "3.4.93",
+        "3.4.99",
+        "3.4.100",
+        "3.4.101",
+        "3.4.102",
+        "3.4.103",
+        "3.4.105",
+        "3.4.106",
+        "3.4.107",
+        "3.4.108",
+        "3.4.109",
+        "6.1.6",
+        "6.1.8",
+        "6.1.10",
+        "6.1.16",
+        "6.1.64",
+        "6.1.65",
+        "6.1.66",
+        "6.1.73",
+        "6.1.77",
+        "6.1.78",
+        "6.1.87",
+        "6.1.88",
+        "6.1.90",
+        "6.1.96",
+        "6.1.97",
+        "6.1.101",
+        "6.3.111",
+        "6.4.23",
+        "6.4.24",
+        "6.4.34",
+        "6.4.37",
+        "6.4.71",
+        "6.4.72",
+        "6.4.77",
+        "6.4.81",
+        "6.4.82",
+        "6.4.87",
+        "6.4.88",
+        "6.4.98",
+        "6.4.101",
+        "6.4.105",
+        "6.4.106",
+        "6.4.107",
+        "6.4.108",
+        "6.4.109",
+        "6.4.110",
+        "6.4.111",
+        "6.4.112",
+        "6.4.113",
+        "6.4.114",
+        "6.4.118",
+        "6.4.119",
+        "6.4.143",
+        "7.1.3",
+        "7.1.4",
+        "7.1.5",
+        "7.1.6",
+        "7.1.58",
+        "7.1.102",
+        "7.2.1",
+        "7.2.13",
+        "7.2.35",
+        "7.2.76",
+        "7.2.77",
+        "7.2.78",
+        "7.2.79",
+        "7.2.80",
+        "7.2.81",
+        "7.2.114",
+        "7.2.115",
+        "7.2.116",
+        "7.3.54",
+        "7.3.74",
+        "7.3.77",
+        "7.3.79",
+        "7.3.80",
+        "7.3.83",
+        "7.3.84",
+        "7.3.86",
+        "7.3.89",
+        "7.3.93",
+        "7.3.96",
+        "7.3.98",
+        "7.3.100",
+        "7.3.101",
+        "7.4.21",
+        "7.4.50",
+        "7.4.51",
+        "7.4.52",
+        "7.4.59",
+        "7.4.60",
+        "7.4.62",
+        "7.4.66",
+        "7.4.73",
+        "7.4.75",
+        "7.4.76",
+        "7.4.77",
+        "8.2.23",
+        "8.2.24",
+        "8.2.26",
+        "8.2.29",
+        "8.2.30",
+        "8.2.31",
+        "8.2.32",
+        "8.2.36",
+        "8.2.37",
+        "8.2.38",
+        "8.2.40",
+        "8.2.41",
+        "8.2.66",
+        "8.2.77",
+        "8.3.13",
+        "8.3.15",
+        "8.3.24",
+        "8.3.59",
+        "8.3.60",
+        "8.4.2",
+        "8.4.40",
+        "8.4.41",
+        "8.4.53",
+        "8.4.54",
+        "8.4.55",
+        "8.4.58"
+      ],
+      "sup": [
+        "4.1.4",
+        "6.1.68",
+        "6.1.69",
+        "6.1.77",
+        "6.1.78",
+        "6.1.87",
+        "6.1.88",
+        "6.1.97",
+        "6.1.101",
+        "6.1.102",
+        "6.1.103",
+        "6.1.107",
+        "6.1.110",
+        "6.1.111",
+        "6.1.114",
+        "6.4.3",
+        "6.4.7",
+        "6.4.8",
+        "6.4.10",
+        "6.4.11",
+        "6.4.12",
+        "6.4.13",
+        "6.4.14",
+        "6.4.134",
+        "7.1.9",
+        "7.1.12",
+        "7.1.13",
+        "7.1.14",
+        "7.1.15",
+        "7.1.17",
+        "7.1.18",
+        "7.1.19",
+        "7.1.20",
+        "7.1.21",
+        "7.1.22",
+        "7.1.23",
+        "7.1.24",
+        "7.1.25",
+        "7.1.52",
+        "7.1.53",
+        "7.1.54",
+        "7.1.55",
+        "7.1.70",
+        "7.1.72",
+        "7.1.73",
+        "7.1.94",
+        "7.1.98",
+        "7.2.84",
+        "7.2.99",
+        "7.2.100",
+        "7.2.102",
+        "7.2.103",
+        "7.2.106",
+        "7.2.108",
+        "7.2.109",
+        "7.2.110",
+        "7.2.111",
+        "7.2.112",
+        "7.2.113",
+        "7.3.102",
+        "7.3.103",
+        "7.3.104",
+        "7.3.105",
+        "7.3.106",
+        "7.3.107",
+        "7.3.108",
+        "7.3.109",
+        "7.3.110",
+        "7.3.111",
+        "7.3.112",
+        "7.3.113",
+        "7.3.114",
+        "7.3.116",
+        "7.3.118",
+        "7.3.119",
+        "7.3.120",
+        "8.2.7",
+        "8.2.23",
+        "8.2.24",
+        "8.2.39",
+        "8.2.66",
+        "8.3.15",
+        "8.3.24",
+        "8.3.59",
+        "8.4.2",
+        "8.4.40",
+        "8.4.41",
+        "8.4.45",
+        "8.4.55",
+        "8.4.56"
+      ]
+    },
+    "literal_engine_ids_outside_union": [],
+    "engine_id_scan_boundary": "Static literal add-row ID extraction with suffix normalization; no engine imported or executed.",
+    "all_ledger_entries_including_cited_and_misnumbered": 899,
+    "ledger_levels": {
+      "compiled": 10,
+      "meta": 157,
+      "hand_coded": 324,
+      "cited": 406,
+      "misnumbered": 2,
+      "entries": 899,
+      "text_missing": 84,
+      "astadhyayi_total": 3983,
+      "not_in_pinned_edition": 0,
+      "iast_mismatch_with_pinned_edition": 0
+    },
+    "entries": [
+      {
+        "id": "1.1.1",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T58",
+            "T80"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.2",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T58",
+            "T80"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.3",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T58"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.5",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T100",
+            "T102",
+            "T108",
+            "T110"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "1.1.6",
+        "written_clause": {
+          "path": "research/panini_grammar/future_construction/AFFIX_AND_IT.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "A3-A4",
+          "operative_use": "admitted future it and its guna prohibition",
+          "reference_lines": [
+            {
+              "line": 88,
+              "text": "The i of iṭ is protected against guṇa/vṛddhi by **1.1.6**. This is"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "1.1.7",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T81"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.8",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T81"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.9",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T81"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.10",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T81"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.11",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T81"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.20",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T133"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "1.1.24",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T127"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.26",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T87"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.27",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T94",
+            "T98",
+            "T124",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.38",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T113"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.41",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T114"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.42",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T90",
+            "T92",
+            "T93",
+            "T109",
+            "T123",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.43",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T90",
+            "T92",
+            "T109",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.45",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T110",
+            "T134"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "1.1.46",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T80",
+            "T82",
+            "T88",
+            "T89",
+            "T95",
+            "T96",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "1.1.47",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T82",
+            "T109",
+            "T125",
+            "T127",
+            "T133"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "1.1.49",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T80"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.50",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T80"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.51",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T65",
+            "T80",
+            "T89",
+            "T90",
+            "T104",
+            "T105",
+            "T107"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "1.1.52",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T80",
+            "T88",
+            "T124",
+            "T128"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.53",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T90"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.55",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T80",
+            "T88",
+            "T128"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.56",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T88",
+            "T89",
+            "T131"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "1.1.57",
+        "written_clause": {
+          "path": "research/panini_grammar/causative_passive/NIC_LOPA.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "L2-L5",
+          "operative_use": "owned nic lopa and local source visibility",
+          "reference_lines": [
+            {
+              "line": 153,
+              "text": "affix. For the preceding root's 6.1.78 query, 1.1.57 supplies the relevant"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "1.1.58",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "1.1.60",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T82"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.62",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T58",
+            "T64",
+            "T68"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.63",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T65"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.64",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T81",
+            "T97"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.65",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T81"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.66",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T80"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.67",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T80"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.69",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T78",
+            "T79",
+            "T80"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.70",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T80"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.71",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T78"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.1.72",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T81"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.2.4",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "1.2.5",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T102",
+            "T131"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.2.9",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T106"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.2.11",
+        "written_clause": {
+          "path": "research/panini_grammar/benediction/ENDING_CONSTRUCTION.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "ending and conditional-kit/phonetic sections",
+          "operative_use": "admitted asirling it prohibition, conditional kit and dh/dh retroflexion",
+          "reference_lines": [
+            {
+              "line": 43,
+              "text": "| 1.2.11 | root's final consonant adjacent to ik; following liṅ jhal-initial | tud before aniṭ sīyuṭ |"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "1.2.12",
+        "written_clause": {
+          "path": "research/panini_grammar/benediction/ENDING_CONSTRUCTION.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "ending and conditional-kit/phonetic sections",
+          "operative_use": "admitted asirling it prohibition, conditional kit and dh/dh retroflexion",
+          "reference_lines": [
+            {
+              "line": 44,
+              "text": "| 1.2.12 | ṛ-final root; following liṅ jhal-initial | kṛ/hṛ before aniṭ sīyuṭ |"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "1.2.13",
+        "written_clause": {
+          "path": "research/panini_grammar/benediction/ENDING_CONSTRUCTION.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "ending and conditional-kit/phonetic sections",
+          "operative_use": "admitted asirling it prohibition, conditional kit and dh/dh retroflexion",
+          "reference_lines": [
+            {
+              "line": 45,
+              "text": "| 1.2.13 | gam; following A liṅ jhal-initial | optional kit on basic karmaṇi gam |"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "1.2.42",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.2.43",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T104",
+            "T114"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.2.45",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T91"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.2.46",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T85",
+            "T100",
+            "T103",
+            "T104",
+            "T107"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.2.48",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.3.1",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T82"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.3.2",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T63",
+            "T82"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "1.3.3",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T58",
+            "T63",
+            "T64",
+            "T66",
+            "T82"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "1.3.4",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T82"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.3.5",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T82"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.3.6",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T82",
+            "T111"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.3.7",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T63",
+            "T82"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "1.3.8",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T58",
+            "T63",
+            "T64",
+            "T82"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.3.9",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T58",
+            "T63",
+            "T64",
+            "T66",
+            "T82"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "1.3.10",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T80"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.3.12",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T66",
+            "T99"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.3.13",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T110"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.3.57",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T106"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.3.66",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "1.3.72",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.3.74",
+        "written_clause": {
+          "path": "research/panini_grammar/grammar_construction/VOICE_AND_PADA.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "V5-V7",
+          "operative_use": "causee/hetu and qualified causal pada construction",
+          "reference_lines": [
+            {
+              "line": 200,
+              "text": "| E false, F false | {P} | residual 1.3.78; 1.3.74's condition is absent |"
+            },
+            {
+              "line": 201,
+              "text": "| E false, F true, U false | {A} | 1.3.74 |"
+            },
+            {
+              "line": 251,
+              "text": "1.3.74 A domain, and the two values of U split the latter into obligatory"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "1.3.77",
+        "written_clause": {
+          "path": "research/panini_grammar/grammar_construction/VOICE_AND_PADA.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "V5-V7",
+          "operative_use": "causee/hetu and qualified causal pada construction",
+          "reference_lines": [
+            {
+              "line": 134,
+              "text": "upapada of 1.3.77 is expressly admitted below as the one stated exception."
+            },
+            {
+              "line": 202,
+              "text": "| E false, F true, U true | {A, P} | 1.3.77 makes A optional; residual P on the other branch |"
+            },
+            {
+              "line": 206,
+              "text": "cancel 1.3.86. Kāśikā 1.3.77 explicitly includes the five-rule group"
+            },
+            {
+              "line": 252,
+              "text": "or optional A by 1.3.77. These cases exhaust the completed frames. The"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "1.3.78",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T95",
+            "T105",
+            "T106",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "1.3.86",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "1.3.87",
+        "written_clause": {
+          "path": "research/panini_grammar/grammar_construction/VOICE_AND_PADA.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "V5-V7",
+          "operative_use": "causee/hetu and qualified causal pada construction",
+          "reference_lines": [
+            {
+              "line": 185,
+              "text": "   ((\\text{1.3.87 condition}\\lor\\text{1.3.88 condition})"
+            },
+            {
+              "line": 191,
+              "text": "intransitive bhū/sthā frames. For pā, ingestion would give 1.3.87 but"
+            },
+            {
+              "line": 193,
+              "text": "the *kampana* reading of calana glossed in Kāśikā 1.3.87."
+            },
+            {
+              "line": 199,
+              "text": "| E true | {P} | 1.3.86 or surviving 1.3.87/88 exception |"
+            },
+            {
+              "line": 231,
+              "text": "| pā 1011074 | 1.3.89 cancels 1.3.87 | pāyayati | pāyayate |"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "1.3.88",
+        "written_clause": {
+          "path": "research/panini_grammar/grammar_construction/VOICE_AND_PADA.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "V5-V7",
+          "operative_use": "causee/hetu and qualified causal pada construction",
+          "reference_lines": [
+            {
+              "line": 185,
+              "text": "   ((\\text{1.3.87 condition}\\lor\\text{1.3.88 condition})"
+            },
+            {
+              "line": 223,
+              "text": "| bhū 1010001 | 1.3.88 | bhāvayati | bhāvayati |"
+            },
+            {
+              "line": 229,
+              "text": "| sthā 1011077 | 1.3.88 | sthāpayati | sthāpayati |"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "1.3.89",
+        "written_clause": {
+          "path": "research/panini_grammar/grammar_construction/VOICE_AND_PADA.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "V5-V7",
+          "operative_use": "causee/hetu and qualified causal pada construction",
+          "reference_lines": [
+            {
+              "line": 186,
+              "text": "      \\land\\neg\\text{their 1.3.89 exception})."
+            },
+            {
+              "line": 192,
+              "text": "1.3.89 removes that exception to A. Gam's locomotion is not automatically"
+            },
+            {
+              "line": 204,
+              "text": "Kāśikā 1.3.89 explicitly limits its prohibition to the preceding two"
+            },
+            {
+              "line": 231,
+              "text": "| pā 1011074 | 1.3.89 cancels 1.3.87 | pāyayati | pāyayate |"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "1.3.92",
+        "written_clause": {
+          "path": "research/panini_grammar/future_extension/DOMAIN_AND_BRANCHES.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "B3-B5",
+          "operative_use": "qualified pada and it option/prohibition guards with positive admitted cases",
+          "reference_lines": [
+            {
+              "line": 48,
+              "text": "objects. The explicit 7.2.44/48 references and 1.3.92's enumerated"
+            },
+            {
+              "line": 61,
+              "text": "- **1.3.92:** optional P before sya/san. In PG17 only sya is admitted;"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "1.3.93",
+        "written_clause": {
+          "path": "research/panini_grammar/future_extension/DOMAIN_AND_BRANCHES.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "B3-B5",
+          "operative_use": "qualified pada and it option/prohibition guards with positive admitted cases",
+          "reference_lines": [
+            {
+              "line": 63,
+              "text": "- **1.3.93:** for kṛp specifically, optional P also in luṭ. Its ca"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "1.4.2",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T58",
+            "T63",
+            "T80"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.4.3",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T89",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.4.7",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T91",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.4.13",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T82",
+            "T105"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "1.4.14",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T63",
+            "T85",
+            "T92"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.4.17",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T92",
+            "T109",
+            "T123",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.4.18",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T92",
+            "T103",
+            "T111",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.4.21",
+        "written_clause": {
+          "path": "research/panini_grammar/grammar_construction/VOICE_AND_PADA.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "V3",
+          "operative_use": "person and number admission",
+          "reference_lines": [
+            {
+              "line": 80,
+              "text": "referent still controls even if its pronoun is not spoken. 1.4.21–22 and"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "1.4.22",
+        "written_clause": {
+          "path": "research/panini_grammar/grammar_construction/VOICE_AND_PADA.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "V3",
+          "operative_use": "person and number admission",
+          "reference_lines": [
+            {
+              "line": 80,
+              "text": "referent still controls even if its pronoun is not spoken. 1.4.21–22 and"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "1.4.23",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T68"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.4.24",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T68"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.4.32",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T68"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.4.42",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T68"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.4.45",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T68"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.4.49",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T68"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.4.52",
+        "written_clause": {
+          "path": "research/panini_grammar/grammar_construction/VOICE_AND_PADA.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "V5-V7",
+          "operative_use": "causee/hetu and qualified causal pada construction",
+          "reference_lines": [
+            {
+              "line": 162,
+              "text": "| gam movement; vid/budh cognition; pā ingestion; bhū/sthā intransitive | karman | 1.4.52 |"
+            },
+            {
+              "line": 163,
+              "text": "| nī leading | retains kartṛ for this case assignment; instrumental when unexpressed | Kāśikā 1.4.52's nī/vah prohibition |"
+            },
+            {
+              "line": 165,
+              "text": "| pac cooking, dā giving, kṛṣ furrowing | retained kartṛ; instrumental when unexpressed | residual 1.4.54 / 2.3.18; not in the admitted 1.4.52 classes |"
+            },
+            {
+              "line": 167,
+              "text": "The original karman is retained where supplied. 1.4.52 is not “every"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "1.4.53",
+        "written_clause": {
+          "path": "research/panini_grammar/grammar_construction/VOICE_AND_PADA.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "V5-V7",
+          "operative_use": "causee/hetu and qualified causal pada construction",
+          "reference_lines": [
+            {
+              "line": 164,
+              "text": "| kṛ making, hṛ carrying | either karman or retained kartṛ, with a branch witness | 1.4.53 |"
+            },
+            {
+              "line": 246,
+              "text": "table row; hṛ/kṛ's row explicitly retains both 1.4.53 choices. The stated"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "1.4.54",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T68"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.4.55",
+        "written_clause": {
+          "path": "research/panini_grammar/grammar_construction/VOICE_AND_PADA.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "V5-V7",
+          "operative_use": "causee/hetu and qualified causal pada construction",
+          "reference_lines": [
+            {
+              "line": 153,
+              "text": "   by 1.4.55. The intended inducing activity licenses ṇic by 3.1.26."
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "1.4.99",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T64"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.4.101",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T64"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.4.104",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T82"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "1.4.105",
+        "written_clause": {
+          "path": "research/panini_grammar/grammar_construction/VOICE_AND_PADA.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "V3",
+          "operative_use": "person and number admission",
+          "reference_lines": [
+            {
+              "line": 76,
+              "text": "For a participant expressed by tiṅ, 1.4.105 selects madhyama for the"
+            },
+            {
+              "line": 79,
+              "text": "2, 1, 3 respectively. The omitted-pronoun provision in 1.4.105 means the"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "1.4.107",
+        "written_clause": {
+          "path": "research/panini_grammar/grammar_construction/VOICE_AND_PADA.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "V3",
+          "operative_use": "person and number admission",
+          "reference_lines": [
+            {
+              "line": 77,
+              "text": "co-referential yuṣmad participant; 1.4.107 selects uttama for asmad;"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "1.4.108",
+        "written_clause": {
+          "path": "research/panini_grammar/grammar_construction/VOICE_AND_PADA.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "V3",
+          "operative_use": "person and number admission",
+          "reference_lines": [
+            {
+              "line": 78,
+              "text": "1.4.108 gives prathama otherwise. In modern person numbering these are"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "2.1.3",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.1.4",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.1.5",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T114"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.1.6",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T114"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.1.7",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T114"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.1.22",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.1.24",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.1.36",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.1.37",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.1.40",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.1.51",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T114"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.1.52",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T114"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.2.8",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.2.23",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.2.24",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.2.29",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.2.30",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.2.34",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.3.1",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T68"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.3.2",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T68"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.3.13",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T68"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.3.18",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T68"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.3.28",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T68"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.3.36",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T68"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.3.46",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T68"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.3.50",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T68"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.4.1",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T114"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.4.17",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T114"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.4.18",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T114"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.4.26",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.4.71",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T104",
+            "T113",
+            "T114"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.4.72",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T133"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "2.4.75",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T133"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "2.4.76",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T66"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.4.77",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T101",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.4.82",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T114"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.4.83",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T114"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "2.4.85",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T97",
+            "T112",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.1.1",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T82"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.1.2",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T82"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.1.7",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T106"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.1.22",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T108"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.1.25",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.1.26",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T105"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.1.32",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T105",
+            "T106",
+            "T108",
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.1.33",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T97",
+            "T112",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.1.43",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T101",
+            "T116",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.1.44",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T101",
+            "T116",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.1.55",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T101",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.1.67",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T110"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.1.68",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T64",
+            "T66",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.1.69",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.1.70",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.1.71",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.1.72",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.1.73",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.1.74",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.1.75",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.1.76",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.1.77",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.1.78",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T133"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.1.79",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.1.80",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.1.81",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.1.82",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T134"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.1.83",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T139"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.1.85",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T66"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.1.91",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T107"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.1.93",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T85",
+            "T107"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.1.96",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T100"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.1.133",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T89"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.1.134",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T123"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.2.78",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T123"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.2.110",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T101",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.2.111",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T95",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.2.115",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T102",
+            "T131"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.2.123",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T64"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.2.124",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T107"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.3.10",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T100"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.3.13",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T97",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.3.15",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T97",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.3.16",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T107"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.3.18",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T107"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.3.115",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T107"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.3.161",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T96",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.3.162",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T96",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.3.163",
+        "written_clause": {
+          "path": "research/panini_grammar/imperative_optative/DOMAIN_AND_MODALITY.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "M2-M3",
+          "operative_use": "bounded meaning-to-lakara relation",
+          "reference_lines": [
+            {
+              "line": 52,
+              "text": "Kāśikā 3.3.163 distinguishes praiṣa (dispatch/direction), atisarga"
+            },
+            {
+              "line": 71,
+              "text": "| praiṣa / atisarga / prāptakāla, ordinary immediate context | false | false | loṭ | 3.3.163 |"
+            },
+            {
+              "line": 76,
+              "text": "“later sūtra always wins” policy. Kṛtyas are also licensed by 3.3.163"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "3.3.164",
+        "written_clause": {
+          "path": "research/panini_grammar/imperative_optative/DOMAIN_AND_MODALITY.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "M2-M3",
+          "operative_use": "bounded meaning-to-lakara relation",
+          "reference_lines": [
+            {
+              "line": 60,
+              "text": "3.3.164, and S mean that the relevant sma is present. U is evidence from"
+            },
+            {
+              "line": 72,
+              "text": "| those three, later context without sma | true | false | loṭ, vidhiliṅ | 3.3.164 |"
+            },
+            {
+              "line": 77,
+              "text": "and retained by 3.3.164; this packet constructs only the displayed finite"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "3.3.165",
+        "written_clause": {
+          "path": "research/panini_grammar/imperative_optative/DOMAIN_AND_MODALITY.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "M2-M3",
+          "operative_use": "bounded meaning-to-lakara relation",
+          "reference_lines": [
+            {
+              "line": 73,
+              "text": "| those three, later context with sma | true | true | loṭ | 3.3.165 |"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "3.3.166",
+        "written_clause": {
+          "path": "research/panini_grammar/imperative_optative/DOMAIN_AND_MODALITY.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "M2-M3",
+          "operative_use": "bounded meaning-to-lakara relation",
+          "reference_lines": [
+            {
+              "line": 70,
+              "text": "| adhīṣṭa with the specified sma | — | true | loṭ | 3.3.166 |"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "3.3.173",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T115",
+            "T117"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.6",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T65"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.21",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T100"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.67",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T107"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.69",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T68"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.77",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.78",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T64",
+            "T66",
+            "T95",
+            "T99"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.4.79",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T66",
+            "T99",
+            "T106",
+            "T108",
+            "T110",
+            "T112",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.4.80",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T66",
+            "T99",
+            "T112",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.4.82",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T102",
+            "T131"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.4.83",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.4.84",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.4.85",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T96"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.86",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T96",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.87",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T96",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.89",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T96",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.90",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T99",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.91",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T99",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.92",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T96",
+            "T99",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.93",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T99",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.99",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T95",
+            "T96",
+            "T101",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.100",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T95",
+            "T96",
+            "T101",
+            "T115",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.101",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T95",
+            "T96",
+            "T101",
+            "T115",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.102",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T99",
+            "T117",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.103",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T96",
+            "T115",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.104",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T115"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.105",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T99",
+            "T117",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.106",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T99",
+            "T117",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.107",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T99",
+            "T117",
+            "T130",
+            "T137"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.108",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T96",
+            "T115",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.109",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T101",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.113",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T58",
+            "T64",
+            "T66"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.4.114",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T89",
+            "T97",
+            "T106",
+            "T112",
+            "T116",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "3.4.115",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T131"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "3.4.116",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T115",
+            "T117",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "4.1.1",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T111"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "4.1.2",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T63"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "4.1.3",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T111"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "4.1.4",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T88",
+            "T98",
+            "T128"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "4.1.5",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T89"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "4.1.6",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T111"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "4.1.15",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T111"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "4.1.16",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T111"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "4.1.21",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T114"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "4.1.41",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T111"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "4.1.76",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T103"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "4.1.82",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T103"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "4.1.83",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T103"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "4.1.92",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T103"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "4.1.95",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T103"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "4.1.105",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T103"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "4.3.120",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T103"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "5.1.122",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T123"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "5.2.94",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T109"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "5.2.115",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T123"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "5.2.121",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T123"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "5.3.1",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T113"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "5.3.2",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T113"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "5.3.3",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T113"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "5.3.5",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T113"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "5.3.7",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T113"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "5.3.10",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T113"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "5.3.11",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T113"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "5.3.15",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T113"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "5.4.91",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "5.4.92",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T114"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.1",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T102"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.4",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T102"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.5",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.6",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T136"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.8",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T102",
+            "T131"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.9",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T106",
+            "T108"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.10",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T133"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.15",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T110"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.16",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T134"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.58",
+        "written_clause": {
+          "path": "research/panini_grammar/future_voice/BASIC_DERIVATIONS.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "dā/grah/dṛś constructions",
+          "operative_use": "owned yuk, ordinary grah it length and dṛś junction",
+          "reference_lines": [
+            {
+              "line": 128,
+              "text": "Without iṭ, dṛś sees a jhal-initial, non-kit affix. Rule 6.1.58"
+            },
+            {
+              "line": 142,
+              "text": "the **draṣṭ** junction and **draṣṭā**. Kāśikā 6.1.58 and 6.4.62"
+            },
+            {
+              "line": 145,
+              "text": "With i_cv, the following affix is vowel-initial for the 6.1.58 query,"
+            },
+            {
+              "line": 150,
+              "text": "the pinned 6.1.58 without editing the raw source quotation."
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "6.1.64",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T86",
+            "T89",
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.65",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.66",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T66",
+            "T96",
+            "T99",
+            "T112",
+            "T117",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.68",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T65",
+            "T88",
+            "T89",
+            "T90",
+            "T92",
+            "T98",
+            "T123",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.69",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T63",
+            "T88",
+            "T89",
+            "T91",
+            "T93",
+            "T98",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.71",
+        "companion_ledger": {
+          "level": "compiled",
+          "theorems": [
+            "T80"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.72",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T80"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.73",
+        "companion_ledger": {
+          "level": "compiled",
+          "theorems": [
+            "T58",
+            "T64",
+            "T80",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.74",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.75",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.76",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.77",
+        "companion_ledger": {
+          "level": "compiled",
+          "theorems": [
+            "T58",
+            "T80",
+            "T89",
+            "T90",
+            "T91",
+            "T102",
+            "T125",
+            "T131"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.78",
+        "companion_ledger": {
+          "level": "compiled",
+          "theorems": [
+            "T58",
+            "T63",
+            "T64",
+            "T66",
+            "T80",
+            "T88",
+            "T91",
+            "T94",
+            "T97",
+            "T98",
+            "T100",
+            "T102",
+            "T103",
+            "T105",
+            "T107",
+            "T114",
+            "T125",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.84",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T80"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.87",
+        "companion_ledger": {
+          "level": "compiled",
+          "theorems": [
+            "T58",
+            "T63",
+            "T66",
+            "T67",
+            "T80",
+            "T88",
+            "T93",
+            "T94",
+            "T98",
+            "T99",
+            "T104",
+            "T125",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.88",
+        "companion_ledger": {
+          "level": "compiled",
+          "theorems": [
+            "T58",
+            "T63",
+            "T80",
+            "T88",
+            "T89",
+            "T91",
+            "T98",
+            "T125",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.89",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.90",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T99",
+            "T116",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.96",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T139"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.97",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T63",
+            "T64",
+            "T65",
+            "T66",
+            "T94",
+            "T96",
+            "T98",
+            "T99",
+            "T105",
+            "T107",
+            "T110",
+            "T112",
+            "T113",
+            "T124",
+            "T128",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.101",
+        "companion_ledger": {
+          "level": "compiled",
+          "theorems": [
+            "T58",
+            "T63",
+            "T64",
+            "T66",
+            "T80",
+            "T88",
+            "T89",
+            "T98",
+            "T104",
+            "T124",
+            "T125",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.102",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T63",
+            "T89",
+            "T90",
+            "T91",
+            "T94",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.103",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T63",
+            "T90",
+            "T91",
+            "T94",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.104",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.105",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T89"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.107",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T63",
+            "T88",
+            "T89",
+            "T91",
+            "T94",
+            "T98",
+            "T124",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.108",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T110"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.1.110",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T91",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.111",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T65",
+            "T90",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.113",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T65",
+            "T67"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.114",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T67",
+            "T126"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.1.125",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T81"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.3.46",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.3.111",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T136"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.1",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T80",
+            "T82"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.2",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.3",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T63",
+            "T90",
+            "T91",
+            "T93",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.4",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T127"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.7",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T123",
+            "T127"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.8",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T90",
+            "T92",
+            "T93",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.10",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T126"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.11",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T65",
+            "T90",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.12",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T123",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.13",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T123",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.14",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T109",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.16",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T106"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.19",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.22",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.23",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T133"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.24",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T134"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.34",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T136"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.35",
+        "pg23_written_clause": {
+          "path": "research/panini_grammar/lexical_modals/EXCEPTION_DERIVATIONS.md",
+          "section": "E2",
+          "operative_use": "whole śās→śā before hi; specific exception to itva"
+        }
+      },
+      {
+        "id": "6.4.36",
+        "pg23_written_clause": {
+          "path": "research/panini_grammar/lexical_modals/EXCEPTION_DERIVATIONS.md",
+          "section": "E1",
+          "operative_use": "whole han→ja before hi; retained source window for hi-luk"
+        }
+      },
+      {
+        "id": "6.4.37",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T85",
+            "T86",
+            "T100",
+            "T136"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.51",
+        "written_clause": {
+          "path": "research/panini_grammar/causative_passive/NIC_LOPA.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "L2-L5",
+          "operative_use": "owned nic lopa and local source visibility",
+          "reference_lines": [
+            {
+              "line": 53,
+              "text": "condition of 6.4.51 **ṇer aniṭi**."
+            },
+            {
+              "line": 61,
+              "text": "does not preserve ṇic's i as ī against 6.4.51."
+            },
+            {
+              "line": 84,
+              "text": "| Root and lexical ID | Owned pre-yak derived dhātu | Retained cause of C | After 6.4.51 and yak |"
+            },
+            {
+              "line": 123,
+              "text": "6.4.51 is ordinary affix lopa. It is not luk, ślu or lup. 1.1.62 supplies"
+            },
+            {
+              "line": 219,
+              "text": "row, so 6.4.51 applies. The affected owned constituent is the same ṇic"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "6.4.62",
+        "written_clause": {
+          "path": "research/panini_grammar/future_voice/CINVAT_AND_VISIBILITY.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "V2-V6",
+          "operative_use": "cinvat augment and source-local transported operations",
+          "reference_lines": [
+            {
+              "line": 18,
+              "text": "## V2. Exact condition of 6.4.62"
+            },
+            {
+              "line": 20,
+              "text": "In bhāva/karma contexts before the named affixes, 6.4.62 optionally"
+            },
+            {
+              "line": 52,
+              "text": "Use i_cv for the occurrence introduced by 6.4.62 and i_val for the"
+            },
+            {
+              "line": 61,
+              "text": "The commentaries on 6.4.62 give a source-specific priority explanation:"
+            },
+            {
+              "line": 66,
+              "text": "remove 6.4.62's outer *vā*. The C/O choice remains optional."
+            },
+            {
+              "line": 109,
+              "text": "| C | 6.4.62 i_cv | this ābhīya augment is asiddha under the adopted 6.4.22 reading | lopa; owner/history retained |"
+            },
+            {
+              "line": 125,
+              "text": "6.4.62 choice with the additional source-visible history."
+            },
+            {
+              "line": 132,
+              "text": "Kāśikā/Nyāsa 6.4.62 make the same distinction."
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "6.4.66",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T66",
+            "T110"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.67",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T115"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.71",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T95",
+            "T99",
+            "T101",
+            "T116",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.72",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T99",
+            "T116",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.77",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T67",
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.78",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.81",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T135"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.82",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T135"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.87",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.88",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T101",
+            "T102",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.92",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T105"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.93",
+        "written_clause": {
+          "path": "research/panini_grammar/future_voice/CAUSATIVE_DERIVATIONS.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "C4-C5",
+          "operative_use": "optional short/long mit vowel under cinvat transport",
+          "reference_lines": [
+            {
+              "line": 71,
+              "text": "Rule 6.4.93 gives an optional long upadhā for a mit root in the"
+            },
+            {
+              "line": 79,
+              "text": "witness used in PG13. Its C branch likewise admits the 6.4.93"
+            },
+            {
+              "line": 85,
+              "text": "Kāśikā 6.4.93 expressly distinguishes dīrgha from a shortening option"
+            },
+            {
+              "line": 100,
+              "text": "A fourth “O plus optional 6.4.93 length” branch is not licensed:"
+            },
+            {
+              "line": 114,
+              "text": "Kāśikā/Nyāsa 6.4.62, Kaumudī/Bālamanoramā 6.4.93 and the"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "6.4.98",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T102",
+            "T131"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.101",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T139"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.105",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T96",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.106",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T139"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.107",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.108",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.109",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T140"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "written_clause": {
+          "path": "research/panini_grammar/imperative_optative/ATHEMATIC_DERIVATIONS.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "kṛ construction",
+          "operative_use": "owned u deletion before actual y",
+          "reference_lines": [
+            {
+              "line": 67,
+              "text": "s-lopa. With kar|u→kur|u, 6.4.109 deletes the vikaraṇa u **before y**:"
+            },
+            {
+              "line": 79,
+              "text": "a vowel, so 6.4.109's direct y condition is false and 6.1.77 gives v."
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "6.4.110",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.111",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T133"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.112",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.113",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.114",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T136"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.115",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.116",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "6.4.118",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T140"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.119",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T139"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.129",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T92",
+            "T103"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.134",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T92",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.136",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T92"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.137",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T92"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.143",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T97",
+            "T112",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.144",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.146",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T103"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.148",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T103",
+            "T111",
+            "T114"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "6.4.150",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T111"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.1",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T107"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.3",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T64",
+            "T66",
+            "T95",
+            "T96",
+            "T97",
+            "T99",
+            "T101",
+            "T105",
+            "T110",
+            "T112",
+            "T116",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.1.4",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T133"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.1.5",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T66",
+            "T116",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.1.6",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T136"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.1.9",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T63",
+            "T93",
+            "T94",
+            "T98",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.11",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T128"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.12",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T63",
+            "T93",
+            "T94",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.13",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T63",
+            "T93",
+            "T94",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.14",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T94",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.15",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T94",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.17",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T94",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.18",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T88",
+            "T98",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.19",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T93",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.20",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T93",
+            "T123",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.21",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T127"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.22",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T127"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.23",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T65",
+            "T93",
+            "T123",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.24",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T93",
+            "T114",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.25",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T141"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.27",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T124"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.28",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T124"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.29",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T124"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.30",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T124"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.31",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T124"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.32",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T124"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.33",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T124"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.35",
+        "written_clause": {
+          "path": "research/panini_grammar/benediction/BLESSING_LOT.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "L2-L4",
+          "operative_use": "whole tatang substitution at owned tu/hi",
+          "reference_lines": [
+            {
+              "line": 25,
+              "text": "## L2. What 7.1.35 actually replaces"
+            },
+            {
+              "line": 33,
+              "text": "gives a ṅit substitute an ultimate-letter target, Kāśikā 1.1.53/7.1.35"
+            },
+            {
+              "line": 50,
+              "text": "On the tātaṅ branch the ending is tāt, not hi. Kāśikā 7.1.35's"
+            },
+            {
+              "line": 81,
+              "text": "under 7.1.35."
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "7.1.52",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T94",
+            "T98",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.53",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T127"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.54",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T63",
+            "T88",
+            "T89",
+            "T90",
+            "T91",
+            "T93",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.55",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T127"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.58",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T133"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.1.70",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T109",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.72",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T93",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.73",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T93",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.81",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T111"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.94",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T65",
+            "T90",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.98",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T127"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.1.100",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T106"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.1.102",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T135"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.2.1",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T101",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.10",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T85",
+            "T86",
+            "T100",
+            "T101",
+            "T106",
+            "T112",
+            "T116",
+            "T117"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.11",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T100"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.13",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T102",
+            "T131"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.35",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T97",
+            "T100",
+            "T102",
+            "T106",
+            "T112",
+            "T116",
+            "T117",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.37",
+        "written_clause": {
+          "path": "research/panini_grammar/future_voice/BASIC_DERIVATIONS.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "dā/grah/dṛś constructions",
+          "operative_use": "owned yuk, ordinary grah it length and dṛś junction",
+          "reference_lines": [
+            {
+              "line": 119,
+              "text": "Grah O has ordinary i_val and 7.2.37 lengthens it, producing"
+            },
+            {
+              "line": 121,
+              "text": "its different augment short: **grāhiṣyate/grāhitā**. Kāśikā 7.2.37"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "7.2.42",
+        "written_clause": {
+          "path": "research/panini_grammar/benediction/ENDING_CONSTRUCTION.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "ending and conditional-kit/phonetic sections",
+          "operative_use": "admitted asirling it prohibition, conditional kit and dh/dh retroflexion",
+          "reference_lines": [
+            {
+              "line": 21,
+              "text": "not a special seṭ-root exception guessed from bhūyāt. Kāśikā **7.2.42**"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "7.2.44",
+        "written_clause": {
+          "path": "research/panini_grammar/future_extension/DOMAIN_AND_BRANCHES.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "B3-B5",
+          "operative_use": "qualified pada and it option/prohibition guards with positive admitted cases",
+          "reference_lines": [
+            {
+              "line": 48,
+              "text": "objects. The explicit 7.2.44/48 references and 1.3.92's enumerated"
+            },
+            {
+              "line": 93,
+              "text": "1. **7.2.44** supplies the svṛ/dhūñ and ūdit options. **7.2.70**"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "7.2.48",
+        "written_clause": {
+          "path": "research/panini_grammar/future_extension/DOMAIN_AND_BRANCHES.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "B3-B5",
+          "operative_use": "qualified pada and it option/prohibition guards with positive admitted cases",
+          "reference_lines": [
+            {
+              "line": 97,
+              "text": "2. **7.2.48** supplies the option for our iṣ before a **t-initial**"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "7.2.57",
+        "written_clause": {
+          "path": "research/panini_grammar/future_extension/DOMAIN_AND_BRANCHES.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "B3-B5",
+          "operative_use": "qualified pada and it option/prohibition guards with positive admitted cases",
+          "reference_lines": [
+            {
+              "line": 101,
+              "text": "3. **7.2.57** gives nṛt an option before a **s-initial, non-sic**"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "7.2.58",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T97",
+            "T106"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.59",
+        "written_clause": {
+          "path": "research/panini_grammar/future_extension/DOMAIN_AND_BRANCHES.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "B3-B5",
+          "operative_use": "qualified pada and it option/prohibition guards with positive admitted cases",
+          "reference_lines": [
+            {
+              "line": 103,
+              "text": "4. **7.2.59** prohibits iṭ after the first four vṛt entries before"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "7.2.60",
+        "written_clause": {
+          "path": "research/panini_grammar/future_extension/DOMAIN_AND_BRANCHES.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "B3-B5",
+          "operative_use": "qualified pada and it option/prohibition guards with positive admitted cases",
+          "reference_lines": [
+            {
+              "line": 107,
+              "text": "5. **7.2.60** imposes kṛp's P prohibition before both tās and the"
+            },
+            {
+              "line": 125,
+              "text": "The missing pair (P,1) contradicts 7.2.60. For vṛt the corresponding"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "7.2.70",
+        "written_clause": {
+          "path": "research/panini_grammar/future_construction/AFFIX_AND_IT.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "A3-A4",
+          "operative_use": "admitted future it and its guna prohibition",
+          "reference_lines": [
+            {
+              "line": 60,
+              "text": "- **7.2.70:** ṛ-final roots, and han in its separate domain, receive iṭ"
+            },
+            {
+              "line": 69,
+              "text": "| kṛ | iṭ in P and A | none | 7.2.70 versus 7.2.10 |"
+            },
+            {
+              "line": 70,
+              "text": "| hṛ | iṭ in P and A | none | 7.2.70 versus 7.2.10 |"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "7.2.76",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T136",
+            "T137"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.2.77",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T136"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.2.78",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T136"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.2.79",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T96",
+            "T99",
+            "T115",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.80",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T96",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.81",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T66",
+            "T99",
+            "T112",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.2.84",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T127"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.86",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T124"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.87",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T124"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.88",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T124"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.89",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T124"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.90",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T124"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.91",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T124"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.92",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T124"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.93",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T124"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.94",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T124"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.95",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T124"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.96",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T124"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.97",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T124"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.99",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T127"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.100",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T127"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.102",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T65",
+            "T67",
+            "T94",
+            "T98",
+            "T113",
+            "T127"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.103",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T113",
+            "T128"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.104",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T113"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.106",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T67",
+            "T94",
+            "T98",
+            "T128"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.108",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T128"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.109",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T128"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.110",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T128"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.111",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T128"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.112",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T128"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.113",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T128"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.114",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T136"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.2.115",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T102",
+            "T105",
+            "T107",
+            "T131"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.2.116",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T102",
+            "T105",
+            "T107",
+            "T131"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.2.117",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T103"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.2.118",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T103"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.33",
+        "written_clause": {
+          "path": "research/panini_grammar/future_voice/BASIC_DERIVATIONS.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "dā/grah/dṛś constructions",
+          "operative_use": "owned yuk, ordinary grah it length and dṛś junction",
+          "reference_lines": [
+            {
+              "line": 93,
+              "text": "the **yuk of 7.3.33**, whose retained y joins the root/aṅga owner"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "7.3.36",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T105"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.3.37",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T105"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.3.44",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T111"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.50",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T103"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.52",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T107"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.54",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T136"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.3.74",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.3.77",
+        "companion_ledger": {
+          "level": "compiled",
+          "theorems": [
+            "T58",
+            "T64",
+            "T80",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.79",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T134"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.3.80",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.3.83",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T139"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.84",
+        "companion_ledger": {
+          "level": "compiled",
+          "theorems": [
+            "T58",
+            "T64",
+            "T66",
+            "T80",
+            "T89",
+            "T97",
+            "T100",
+            "T105",
+            "T107",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.3.85",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.3.86",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T105",
+            "T107",
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.3.87",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T140"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.89",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T135"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.3.90",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T135"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.3.92",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.3.93",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T136"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.3.95",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.3.96",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T101",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.98",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T140"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.100",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T139"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.101",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T64",
+            "T66",
+            "T95",
+            "T97",
+            "T99",
+            "T101",
+            "T105",
+            "T112",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.3.102",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T63",
+            "T93",
+            "T94",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.103",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T63",
+            "T93",
+            "T94",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.104",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T63",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.105",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T88",
+            "T98",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.106",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T88",
+            "T98",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.107",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T89",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.108",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T91",
+            "T93",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.109",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T91",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.110",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T90",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.111",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T91",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.112",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T89",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.113",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T88",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.114",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T98",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.116",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T88",
+            "T89",
+            "T98",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.118",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.119",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T91",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.3.120",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T91",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.4.21",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T136"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.4.27",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T108"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.4.28",
+        "written_clause": {
+          "path": "research/panini_grammar/grammar_construction/DERIVATIONS.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "D5",
+          "operative_use": "basic passive riṅ construction",
+          "reference_lines": [
+            {
+              "line": 150,
+              "text": "Kāśikā 7.4.28 expressly supplies *kriyate* and *hriyate*. Before yak the"
+            },
+            {
+              "line": 165,
+              "text": "written *riṅ* is the short-i substitute in 7.4.28; it must not be silently"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "7.4.49",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T106"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.4.50",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T97",
+            "T112",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.4.51",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T97",
+            "T112",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.4.52",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T112",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.4.54",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T106"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.4.58",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T106"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.4.59",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T102",
+            "T106",
+            "T108",
+            "T131"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.4.60",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T102",
+            "T106",
+            "T108",
+            "T135"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.4.62",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T102",
+            "T106",
+            "T108",
+            "T131"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.4.66",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T102",
+            "T106",
+            "T131"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.4.73",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T102",
+            "T131"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.4.75",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T135"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.4.76",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T135"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.4.77",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T135"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "7.4.79",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T106"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.4.82",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T108"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.4.83",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T108"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "7.4.85",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T108"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "8.1.21",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T67"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "8.2.1",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T62",
+            "T63",
+            "T64",
+            "T65",
+            "T66",
+            "T67",
+            "T87"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.2.7",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T65",
+            "T90",
+            "T92",
+            "T104",
+            "T123",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "8.2.8",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T92",
+            "T123"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "8.2.9",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T109"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "8.2.18",
+        "written_clause": {
+          "path": "research/panini_grammar/future_extension/ROOT_DERIVATIONS.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "krp construction",
+          "operative_use": "admitted klp junction",
+          "reference_lines": [
+            {
+              "line": 178,
+              "text": "Later **8.2.18** gives kalp; its commentary also explains the ṛ/ḷ"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "8.2.23",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T95",
+            "T101",
+            "T109",
+            "T125",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "8.2.24",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T65",
+            "T90",
+            "T125",
+            "T139"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "8.2.25",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.2.26",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T116",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "8.2.29",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.2.30",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T87",
+            "T106",
+            "T133"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.2.31",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T136"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.2.32",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T136"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.2.35",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.2.36",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T136"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.2.37",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T136"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.2.38",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T133"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.2.39",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T65",
+            "T92",
+            "T125"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "8.2.40",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T87",
+            "T112",
+            "T116",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.2.41",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T135"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.2.42",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T87"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "8.2.44",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T87"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "8.2.66",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T63",
+            "T64",
+            "T67",
+            "T88",
+            "T89",
+            "T90",
+            "T91",
+            "T92",
+            "T93",
+            "T94",
+            "T95",
+            "T96",
+            "T97",
+            "T98",
+            "T99",
+            "T101",
+            "T102",
+            "T112",
+            "T113",
+            "T115",
+            "T116",
+            "T123",
+            "T124",
+            "T125",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.2.77",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T106",
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.2.78",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.2.79",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.3.13",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T136"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.3.15",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T63",
+            "T64",
+            "T65",
+            "T67",
+            "T88",
+            "T89",
+            "T90",
+            "T91",
+            "T92",
+            "T93",
+            "T94",
+            "T95",
+            "T96",
+            "T97",
+            "T98",
+            "T99",
+            "T101",
+            "T102",
+            "T112",
+            "T113",
+            "T115",
+            "T116",
+            "T123",
+            "T124",
+            "T125",
+            "T129"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.3.23",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T67"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "8.3.24",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T100",
+            "T108",
+            "T126",
+            "T133"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.3.55",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "8.3.57",
+        "companion_ledger": {
+          "level": "meta",
+          "theorems": [
+            "T89",
+            "T90",
+            "T106",
+            "T135"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "8.3.59",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T63",
+            "T89",
+            "T90",
+            "T91",
+            "T93",
+            "T94",
+            "T97",
+            "T101",
+            "T106",
+            "T112",
+            "T116",
+            "T117",
+            "T123",
+            "T125",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.3.60",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T136"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.3.78",
+        "written_clause": {
+          "path": "research/panini_grammar/benediction/ENDING_CONSTRUCTION.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "ending and conditional-kit/phonetic sections",
+          "operative_use": "admitted asirling it prohibition, conditional kit and dh/dh retroflexion",
+          "reference_lines": [
+            {
+              "line": 145,
+              "text": "The selected source account of 8.3.78–79 distinguishes:"
+            },
+            {
+              "line": 149,
+              "text": "| directly following an iṇ-final aṅga, without an intervening iṭ | {ḍh}, 8.3.78 |"
+            },
+            {
+              "line": 154,
+              "text": "iṭ segment always blocks 8.3.78 by physical separation. Nyāsa explains"
+            },
+            {
+              "line": 156,
+              "text": "so 8.3.78 would otherwise be mandatory in the relevant ṣīdhvam case;"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "8.3.79",
+        "written_clause": {
+          "path": "research/panini_grammar/benediction/ENDING_CONSTRUCTION.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "ending and conditional-kit/phonetic sections",
+          "operative_use": "admitted asirling it prohibition, conditional kit and dh/dh retroflexion",
+          "reference_lines": [
+            {
+              "line": 150,
+              "text": "| following iṭ which itself directly follows iṇ | {dh,ḍh}, 8.3.79 |"
+            },
+            {
+              "line": 153,
+              "text": "The second row is 8.3.79's optional qualification, not a claim that an"
+            },
+            {
+              "line": 157,
+              "text": "8.3.79 supplies the option. Nor is iṭ simply incorporated into the root"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "8.4.1",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T90",
+            "T91",
+            "T104"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.4.2",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T63",
+            "T91",
+            "T93",
+            "T94",
+            "T107",
+            "T123",
+            "T125",
+            "T132"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.4.37",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T63",
+            "T91",
+            "T140"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.4.39",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T134"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.4.40",
+        "companion_ledger": {
+          "level": "compiled",
+          "theorems": [
+            "T58",
+            "T64",
+            "T80",
+            "T92",
+            "T125",
+            "T134",
+            "T137"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.4.41",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T101",
+            "T116",
+            "T117",
+            "T127",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.4.42",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.4.43",
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.4.44",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T134"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.4.45",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T127"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "8.4.47",
+        "written_clause": {
+          "path": "research/panini_grammar/causative_passive/NIC_LOPA.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "L5",
+          "operative_use": "explicit pair-to-triple-to-pair local construction, separate from selected non-doubling word policy",
+          "reference_lines": [
+            {
+              "line": 198,
+              "text": "8.4.47 to the first y after ā in the displayed pair can introduce a"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "8.4.53",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T87",
+            "T112",
+            "T116",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.4.54",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T102",
+            "T106",
+            "T108",
+            "T131"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.4.55",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T92",
+            "T112",
+            "T116",
+            "T117",
+            "T125",
+            "T130"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.4.56",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T65",
+            "T92",
+            "T127"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        }
+      },
+      {
+        "id": "8.4.58",
+        "companion_ledger": {
+          "level": "hand_coded",
+          "theorems": [
+            "T100",
+            "T108",
+            "T133"
+          ],
+          "status": "DECLARED_LEVEL_REUSED_NOT_REAUDITED"
+        },
+        "pg4_pg13_source_record_union": true
+      },
+      {
+        "id": "8.4.64",
+        "written_clause": {
+          "path": "research/panini_grammar/causative_passive/NIC_LOPA.md",
+          "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+          "section_hint": "L5",
+          "operative_use": "explicit pair-to-triple-to-pair local construction, separate from selected non-doubling word policy",
+          "reference_lines": [
+            {
+              "line": 190,
+              "text": "Nor does 8.4.64 authorize reducing the pair to one y: its deleted yam must"
+            },
+            {
+              "line": 200,
+              "text": "following yam, so 8.4.64 can remove it, returning the pair; retaining it"
+            }
+          ],
+          "status": "WRITTEN_BOUNDED_CLAUSE_NOT_NEWLY_EXECUTED"
+        }
+      },
+      {
+        "id": "8.4.65",
+        "pg4_pg13_source_record_union": true
+      }
+    ],
+    "local_exclusions_from_additional_written_count": [
+      {
+        "ids": "1.2.17 3.4.88 6.4.52 6.4.104 6.4.118 6.4.120 7.2.56 7.3.32 7.4.25",
+        "reason": "mentioned as outside the admitted positive construction or excluded transport"
+      },
+      {
+        "ids": "1.3.67 1.3.68 1.3.69 1.3.70 1.3.71 1.4.106",
+        "reason": "guard absent on the selected bounded frames; no additional positive reach counted"
+      },
+      {
+        "ids": "1.4.51",
+        "reason": "commentary discussion alone not counted as a newly constructed clause"
+      },
+      {
+        "ids": "2.4.79 7.4.70",
+        "reason": "commentary-location witness for a different operation; do not count the host sutra merely from that location"
+      },
+      {
+        "ids": "3.3.3 3.3.5 3.3.14",
+        "reason": "other future/krt selection cases explicitly outside the PG16 input contract"
+      },
+      {
+        "ids": "6.1.57",
+        "reason": "misreference locally corrected to actual 6.1.58"
+      },
+      {
+        "ids": "8.4.46",
+        "reason": "generic doubling citation without its own admitted positive clause in this tally"
+      }
+    ],
+    "exclusion_boundary": "A local exclusion does not remove an ID already counted through a different declared companion operation.",
+    "numbering_note": "1.1.6 is admitted from PG16 actual दीधीवेवीटाम् usage; this does not repair or overwrite its separate historical misnumbered ledger record."
+  },
+  "morphological_positions": {
+    "identity_key": [
+      "root_entry",
+      "sense",
+      "formation",
+      "voice",
+      "qualified_pada",
+      "lakara_meaning_profile",
+      "person",
+      "number"
+    ],
+    "context_quotient": "Multiple semantic witnesses with the same bounded morphological profile are counted once; ordinary and blessing lot remain different profiles.",
+    "rows": [
+      {
+        "stage": "PG5-PG12",
+        "domain": "simple present; exact root/sense and qualified pada",
+        "positions": 2610,
+        "path": "research/panini_grammar/nasal_present/COVERAGE_STATUS.json",
+        "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+        "treatment": "historical register, not rerun"
+      },
+      {
+        "stage": "PG13",
+        "domain": "causal P present",
+        "positions": 108,
+        "path": "research/panini_grammar/causative_present/COVERAGE_STATUS.json",
+        "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+        "treatment": "distinct causal formation"
+      },
+      {
+        "stage": "PG14",
+        "domain": "additional causal A + basic karma/bhava present",
+        "positions": 129,
+        "path": "research/panini_grammar/grammar_construction/VOICE_AND_PADA.md",
+        "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+        "treatment": "81 causal A +45 basic karma +3 bhava; old108 causal P excluded"
+      },
+      {
+        "stage": "PG15",
+        "domain": "causal passive present",
+        "positions": 108,
+        "path": "research/panini_grammar/causative_passive/DERIVATIONS.md",
+        "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+        "treatment": "12 causal-passive profiles x9; basic comparisons excluded"
+      },
+      {
+        "stage": "PG16",
+        "domain": "first future block",
+        "positions": 216,
+        "path": "research/panini_grammar/future_construction/DERIVATIONS.md",
+        "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+        "treatment": "written bounded register"
+      },
+      {
+        "stage": "PG17",
+        "domain": "additional futures",
+        "positions": 612,
+        "path": "research/panini_grammar/future_extension/PARADIGMS.md",
+        "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+        "treatment": "written bounded register"
+      },
+      {
+        "stage": "PG18",
+        "domain": "voice and causal futures",
+        "positions": 458,
+        "path": "research/panini_grammar/future_voice/PARADIGMS.md",
+        "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+        "treatment": "written bounded register"
+      },
+      {
+        "stage": "PG19",
+        "domain": "ordinary lot and vidhiling",
+        "positions": 976,
+        "path": "research/panini_grammar/imperative_optative/PARADIGMS.md",
+        "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+        "treatment": "written bounded register"
+      },
+      {
+        "stage": "PG20",
+        "domain": "asirling and blessing lot",
+        "positions": 1057,
+        "path": "research/panini_grammar/benediction/PARADIGMS.md",
+        "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+        "treatment": "blessing context distinguished from PG19 ordinary lot; no distinct-string claim"
+      },
+      {
+        "stage": "PG21",
+        "domain": "nasal-family I/O/B",
+        "positions": 729,
+        "path": "research/panini_grammar/nasal_modals/PARADIGMS.md",
+        "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+        "treatment": "retains stated exclusion of already-covered kr/kri"
+      },
+      {
+        "stage": "PG22",
+        "domain": "athematic I/O/B",
+        "positions": 486,
+        "path": "research/panini_grammar/athematic_modals/PARADIGMS.md",
+        "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+        "treatment": "written bounded register"
+      },
+      {
+        "stage": "PG23",
+        "domain": "lexical I/O/B",
+        "positions": 270,
+        "path": "research/panini_grammar/lexical_modals/PARADIGMS.md",
+        "commit": null,
+        "treatment": "new finite written construction"
+      }
+    ],
+    "through_pg22": 7489,
+    "through_pg23": 7759,
+    "not_claimed": [
+      "distinct surface strings",
+      "newly executed tests",
+      "exhaustive all-Sanskrit cells",
+      "union with companion verbal cells"
+    ],
+    "pg14_reconstruction": {
+      "causal_A": {
+        "root_ids": [
+          "1011046",
+          "1011049",
+          "1011074",
+          "1011137",
+          "1011151",
+          "1020059",
+          "1030010",
+          "1060006",
+          "1080010"
+        ],
+        "profiles": 9,
+        "positions": 81
+      },
+      "basic_karma": {
+        "roots": [
+          "pac",
+          "nī",
+          "kṛ",
+          "hṛ",
+          "dā"
+        ],
+        "profiles": 5,
+        "positions": 45
+      },
+      "basic_bhava": {
+        "roots": [
+          "bhū",
+          "sthā",
+          "svap"
+        ],
+        "positions": 3
+      },
+      "status": "analytic reconstruction from written completed profiles; no new grammar execution"
+    }
+  },
+  "companion_reported_not_rerun": {
+    "commit": "88244828de1ed8504886ce61c6fc15fd5df85aa6",
+    "ting_rows": 157,
+    "ting_suite_cells": 908,
+    "sup_rows": 94,
+    "sup_suite_cells": 861,
+    "open_lane": {
+      "langa": [
+        1748,
+        1791
+      ],
+      "lot": [
+        1746,
+        1791
+      ],
+      "vidhiling": [
+        1729,
+        1791
+      ],
+      "agree": 5223,
+      "compared": 5373,
+      "disagree": 150
+    },
+    "unseen_overall": {
+      "agree": 6865,
+      "compared": 7052
+    },
+    "nominal_unseen": {
+      "stems": 48,
+      "agree": 1068,
+      "compared": 1078,
+      "status": "reported comparison and source adjudication by T141; not rerun here"
+    },
+    "kernel": {
+      "distinct_engine_row_ids": 225,
+      "nominal_ids": 90,
+      "verbal_ids": 151,
+      "shared_ids": 16,
+      "guard_clauses": 7,
+      "status": "reported code/ledger/evidence coherence, not proof that every guard has its complete Sanskrit domain or that the native pairing and typed zero-law are implemented"
+    },
+    "boundary": "These reported sets have different denominators and overlap the written verbal domains; do not add them to morphological_positions."
+  },
+  "source_pins": [
+    {
+      "commit": "88244828de1ed8504886ce61c6fc15fd5df85aa6",
+      "path": "proof_lab/astadhyayi/ASTADHYAYI_LEDGER.json",
+      "sha256": "45329e0e27cee9d831b42177481e8c0f2e22a6e2e6a1a59f39ffc4d476d18122",
+      "bytes": 502028
+    },
+    {
+      "commit": "88244828de1ed8504886ce61c6fc15fd5df85aa6",
+      "path": "proof_lab/sup_rule_table_engine.py",
+      "sha256": "b20d60485f3108ea0c77ade479148500760383ba6c94ff9e704db277e6137adc",
+      "bytes": 49694
+    },
+    {
+      "commit": "88244828de1ed8504886ce61c6fc15fd5df85aa6",
+      "path": "proof_lab/ting_rule_table_engine.py",
+      "sha256": "6beca9884ef24a2e588c36f36e4c8b6e210c8fe1b23a30130e1a76f07c9e452a",
+      "bytes": 98683
+    },
+    {
+      "commit": "88244828de1ed8504886ce61c6fc15fd5df85aa6",
+      "path": "research/independent_oracle/CROSSCHECK.md",
+      "sha256": "a655f66ca40c6c8a70fbdfd2d9e6e33876c77fe1125b496486db13fbbf9c935e",
+      "bytes": 4381
+    },
+    {
+      "commit": "88244828de1ed8504886ce61c6fc15fd5df85aa6",
+      "path": "research/independent_oracle/GENERALIZE.md",
+      "sha256": "8c461ed7966537a80dec9a0ea9e2fca46cb69819211e171c825a2d19be825e0a",
+      "bytes": 4070
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/athematic_modals/PARADIGMS.md",
+      "sha256": "671c60ec2d3e586ff8ec0b44013aeb09bdbe305b6c8324820392c268399b177b",
+      "bytes": 7560
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/benediction/BLESSING_LOT.md",
+      "sha256": "90391fa5a31cfa063e11c0b13d7a8071de2451beabb26d763acd5ebc04dbfc17",
+      "bytes": 6602
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/benediction/ENDING_CONSTRUCTION.md",
+      "sha256": "8582029acde770120ce26e302f5038a83987b706d378c304e72aaee254ba0bb2",
+      "bytes": 8904
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/benediction/PARADIGMS.md",
+      "sha256": "2be7066b8fa9907b2a5c3c711e1cc4c7a96233f872bb1efb86cd1c0acd4d2943",
+      "bytes": 7695
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/causative_passive/DERIVATIONS.md",
+      "sha256": "375f00444d2ca47c14ae07a826fc92b01366de75d907917a7cbe037ff1ee875a",
+      "bytes": 14817
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/causative_passive/NIC_LOPA.md",
+      "sha256": "8196a11323602a250bae428f560fe54224c8e3672c237d9df4d76538c2a29f1c",
+      "bytes": 11924
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/causative_present/COVERAGE_STATUS.json",
+      "sha256": "05fcbdb6e4f7a9f062280b62a07f4f7832d2be08761f70ffacba46675ea3cc9c",
+      "bytes": 9636
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/future_construction/AFFIX_AND_IT.md",
+      "sha256": "b35f57d6d175039695f22fdf99172b016eb2ce8ff86c45f2499b14dd69a95c4e",
+      "bytes": 8301
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/future_construction/DERIVATIONS.md",
+      "sha256": "0efe240b0eac321a325496e6945c3d6cf661c5d31db808dd732c7a5b8d698b71",
+      "bytes": 12730
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/future_extension/DOMAIN_AND_BRANCHES.md",
+      "sha256": "bcbc0d3d4a1be05123ed2a6a9c744fa034b50332221c3e65833d479ac820b85a",
+      "bytes": 8211
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/future_extension/PARADIGMS.md",
+      "sha256": "f74286f1de33e753a33a29aa35bb51e2fd7d5c10754bfa8c2e652c504bb94ac5",
+      "bytes": 9107
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/future_extension/ROOT_DERIVATIONS.md",
+      "sha256": "b5e6fa855bebaa2a5f296fcf8883a8d254546d4daf608fb8b44c7932b75d2a61",
+      "bytes": 9593
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/future_voice/BASIC_DERIVATIONS.md",
+      "sha256": "76b2983c0a272fe240aafe06c35a0acc2118080edeb0646d8257ab5eb7e18eed",
+      "bytes": 9123
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/future_voice/CAUSATIVE_DERIVATIONS.md",
+      "sha256": "525e6c24563c25b303c939ba9dbef55e3f1f23f2c5c9c18ca93fdaa792f86ba1",
+      "bytes": 9424
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/future_voice/CINVAT_AND_VISIBILITY.md",
+      "sha256": "a9b8e6846eaa5f81a4b385119f8a5efff7dd2fd4550aa1f3a8be3070c3c2864a",
+      "bytes": 7587
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/future_voice/PARADIGMS.md",
+      "sha256": "9de495a3ad627d9273ddb5663f49f6733539688d46185aee61ae52f206933df2",
+      "bytes": 10680
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/grammar_construction/DERIVATIONS.md",
+      "sha256": "a94e3c47ed3dd07049a31f6df669901d6042c7413381f4198221f487c03688a4",
+      "bytes": 13176
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/grammar_construction/VOICE_AND_PADA.md",
+      "sha256": "308f668feff30fff114eec054bee7c3ae04c2ee6ad2596843d97452c0b1df0f6",
+      "bytes": 13879
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/imperative_optative/ATHEMATIC_DERIVATIONS.md",
+      "sha256": "9600db2fa6b8b22ab76327a39bb0e45e569634b3341fed452b45eb72beca34f4",
+      "bytes": 7349
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/imperative_optative/DOMAIN_AND_MODALITY.md",
+      "sha256": "c834fb0739ed6e7561afdd3fa3aaf08c1b731b73e79d83ae854a33ddd93a01f0",
+      "bytes": 8289
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/imperative_optative/PARADIGMS.md",
+      "sha256": "de6b074279e00d5200ff7a0521d033eabf505cc7525a8ac1c51cb2ca1c562de4",
+      "bytes": 7235
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/nasal_modals/PARADIGMS.md",
+      "sha256": "7f559e982d9809dc16e61ef53daab3d8ed48d469c41f0f88ddcde6f1e22b76b9",
+      "bytes": 6649
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/nasal_present/COVERAGE_STATUS.json",
+      "sha256": "92f3feb9f81830fb331bba2de2c3ab40714451859834c6cdd091cb3b615885af",
+      "bytes": 14083
+    },
+    {
+      "commit": "88244828de1ed8504886ce61c6fc15fd5df85aa6",
+      "path": "theorum/139_ting_rule_table_engine_open_lane_theorem.md",
+      "sha256": "877041feb7747ec6cb294ffa78fe4a8e32f29b55dd4342a3a04458cd3442f0ee",
+      "bytes": 5151
+    },
+    {
+      "commit": "88244828de1ed8504886ce61c6fc15fd5df85aa6",
+      "path": "theorum/140_ting_rule_table_engine_open_lane_ii_theorem.md",
+      "sha256": "ba05325f89e7114a086576bc908fba4cef47ef61434ac76f8d28d3e89adb7cd9",
+      "bytes": 3927
+    },
+    {
+      "commit": "88244828de1ed8504886ce61c6fc15fd5df85aa6",
+      "path": "theorum/141_sup_generalisation_test_theorem.md",
+      "sha256": "eae96b2ef2bdc295ddcff218d67cf9612c1d6fbbe6b89f696bcbe93ea9f0fc58",
+      "bytes": 3271
+    },
+    {
+      "commit": "88244828de1ed8504886ce61c6fc15fd5df85aa6",
+      "path": "theorum/142_panini_kernel_theorem.md",
+      "sha256": "ceacd00f8d04b8038fcdbda51cfd9f09f278de987f08029114db5c1b792726fd",
+      "bytes": 4625
+    }
+  ],
+  "work_status": "PROVENANCE_AND_ARITHMETIC_REGISTER_NOT_GRAMMAR_TEST_EXECUTION"
+}

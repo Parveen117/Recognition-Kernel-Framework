@@ -4,7 +4,7 @@ Author: Monty. 2 November 2026.
 
 ## Completed written construction
 
-- Continued the clean PG17 worktree at 8d878f6 on the existing Codex
+- Continued the clean PG17 worktree at 8d878f6 on the existing construction branch
   review branch. Inspected the theorem branch's 66d4754/T121, then the newly arrived
   47e6936/T122–T124: recognized the PG17 source repairs, read the new
   nominal capsules and code, and identified the aś final-marker repair.
@@ -68,7 +68,7 @@ repository checks left unrun are not labelled passing.
 Direct review covers source guards, ownership, sense/controller cases,
 query visibility, table transcription, dependency references and the
 staged patch, including `git diff --check`. Publication is on the
-existing Codex branch with `[skip ci]`; main merge is deferred.
+existing construction branch with `[skip ci]`; main merge is deferred.
 
 ## Next mathematical work
 

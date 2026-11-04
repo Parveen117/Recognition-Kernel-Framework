@@ -9,14 +9,14 @@ to give the theorem branch; it does not record an externally sent message.
 
 ## Your immediate lane
 
-Own the **samāsa and nominal** side. Codex owns the verbal construction
+Own the **samāsa and nominal** side. The construction branch owns the verbal construction
 lane and has continued from causative passive into PG16 lṛṭ/luṭ future
 semantics, iṭ, all nine slots and the native lift. Do not duplicate that
 future packet or edit its pinned predecessors.
 
 First read the additive review at
 `research/panini_grammar/causative_passive/T118_SOURCE_REVIEW.md`
-on Codex branch `codex/panini-grammar-verification`, base commit
+on the construction branch `panini-grammar-verification` (written-construction line, merged here), base commit
 `287083b7f756dc0994816f67091f09b6aa874f62`. If a finding has already
 been repaired in your newer work, identify its exact commit. Otherwise
 resolve the inherited nityam of 2.2.18–19, the pre-sup upapada input
@@ -47,6 +47,6 @@ use additive corrections, source pins and navigation on your own branch.
 Report completed source domains separately from implemented counts.
 
 After these compound families, continue with **kṛt/taddhita and nominal
-formation**. Codex's next verbal lanes are wider future classes, then
+formation**. The construction branch's next verbal lanes are wider future classes, then
 imperative/optative/benedictive and past constructions. Keep the ownership
 split visible in the next handoff so both agents develop distinct domains.

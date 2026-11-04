@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 2 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–154 (quoted Śaiva sources nativized; the sūtra as an instruction; the saṁjñā sound layer with the Aṣṭādhyāyī ledger; the it-saṁjñā layer compiled; the Śikṣā Vedāṅga; the Vedāṅga packets 71–73 bound to their quoted sources; the Nirukta Vedāṅga, also on the PG5 / PG6 pinned Dhātupāṭha entries; the Tripādī niṣṭhā rules compiled in asiddha order; the āp-stem, nadī-stem, ṛ-stem, ghi-stem and consonant-stem sup paradigms), and added the PG1–PG18 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–154 (quoted Śaiva sources nativized; the sūtra as an instruction; the saṁjñā sound layer with the Aṣṭādhyāyī ledger; the it-saṁjñā layer compiled; the Śikṣā Vedāṅga; the Vedāṅga packets 71–73 bound to their quoted sources; the Nirukta Vedāṅga, also on the PG5 / PG6 pinned Dhātupāṭha entries; the Tripādī niṣṭhā rules compiled in asiddha order; the āp-stem, nadī-stem, ṛ-stem, ghi-stem and consonant-stem sup paradigms), and added the PG1–PG18 Sanskrit grammar source and verification stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG18 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG47 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -527,6 +527,1026 @@ and identifies the remaining nominal work and aś marker correction.
 keep tests/certificate replay deferred under the owner's instruction;
 imperative/optative construction is next, with broader future domains
 and runtime integration still open.
+
+## PG19: loṭ/vidhiliṅ, addressed endings and modal information
+
+[PG19](research/panini_grammar/imperative_optative/README.md) constructs a
+finite classical imperative/optative domain. Its [meaning relation](research/panini_grammar/imperative_optative/DOMAIN_AND_MODALITY.md)
+keeps the six shared senses of 3.3.161–162 distinct and adds the bounded
+praiṣa/time/sma profiles of 3.3.163–166. It preserves the expressed
+controller and causal role/pada relation; the intended addressee does not
+automatically become second-person tiṅ.
+
+The [ending construction](research/panini_grammar/imperative_optative/ENDING_CONSTRUCTION.md)
+derives restricted laṅ transport, loṭ hi/ni/āṭ and pitness, and vidhiliṅ
+yāsuṭ/sīyuṭ/suṭ with the correct ending owner of ṅit. Its four thematic
+constructors feed [basic stems](research/panini_grammar/imperative_optative/THEMATIC_DERIVATIONS.md),
+[kṛ/krī's complete athematic paths](research/panini_grammar/imperative_optative/ATHEMATIC_DERIVATIONS.md)
+and [causal/voice continuations](research/panini_grammar/imperative_optative/VOICE_AND_CAUSATIVES.md).
+Śam's basic, causal active and causal passive optatives have distinct
+owned formations. The [register](research/panini_grammar/imperative_optative/PARADIGMS.md)
+specifies 108 nine-slot paradigms plus four Bhāva entries: **976 written
+morphological positions**, under the declared sound/domain policies.
+These are not executed cases, distinct strings or independent quotations.
+
+The [native construction](research/panini_grammar/imperative_optative/NATIVE_MODAL_CONSTRUCTION.md)
+retains the full carrier, old corner, pairing and complementary cuts with
+exact typed zero-recovery. One two-frame obstruction shows that even both
+complete mood paradigms cannot recover obligation versus discretionary
+permission after their intended-sense record is forgotten. A second
+obstruction shows why marker queries require their addressed affix boundary.
+Neither obstruction is caused by zero-specialization, which retains both.
+
+[Source review](research/panini_grammar/imperative_optative/SOURCE_REVIEW.md)
+and [pins](research/panini_grammar/imperative_optative/SOURCE_PINS.json)
+retain literal-versus-derived evidence, the resolved-augment schedule and
+devoiced-pause choice. [theorem-branch T125–T130 review](research/panini_grammar/imperative_optative/COMPANION_UPDATE.md)
+records both tables' finite boundaries, the 90-position T96/T99 modal
+overlap, the 3.4.92 pit-state gap and outstanding T124/T125 source repairs.
+[Work and frontier](research/panini_grammar/imperative_optative/WORK_RECORD.md)
+keep tests deferred; āśīrliṅ/blessing-loṭ, broader roots/modal contexts
+and runtime integration remain open. The canonical operator engine is unchanged.
+
+## PG20: āśīrliṅ, blessing loṭ and dependent morphological choices
+
+[PG20](research/panini_grammar/benediction/README.md) constructs the
+[āśīs input](research/panini_grammar/benediction/DOMAIN.md) and its two
+different affix regimes. The [owned ending construction](research/panini_grammar/benediction/ENDING_CONSTRUCTION.md)
+derives the P kit override, conditional A kit, the source argument for
+no iṭ before yāsuṭ, distinct canceled/surviving s owners and the late
+dh/ḍh alternatives. [Seventeen basic roots](research/panini_grammar/benediction/BASIC_DERIVATIONS.md)
+include the source-attested vac/jāgṛ marker contrasts.
+
+[Causatives and voice](research/panini_grammar/benediction/CAUSATIVE_AND_VOICE.md)
+continue all thirteen owned causal frames through P ṇic-lopa, active A
+retention and passive ciṇvat/mit choices, plus six basic voice inputs.
+[Blessing loṭ](research/panini_grammar/benediction/BLESSING_LOT.md) reuses
+PG19's ordinary morphology and derives forty-two added tātaṅ readings,
+including kurutāt/krīṇītāt with their changed stem premises. The
+[complete register](research/panini_grammar/benediction/PARADIGMS.md) has
+**1,057 written morphological positions and 1,292 word-branch readings**.
+These are not executions, distinct strings or a novelty/completion percentage:
+488 ordinary loṭ words reuse PG19, and T115/T117 overlap 26 āśīrliṅ positions.
+
+The [native proof](research/panini_grammar/benediction/NATIVE_BENEDICTION.md)
+retains the full carrier, pairing, complementary cuts and typed zero-law.
+It constructs dependent branch fibres and proves three local boundaries:
+kit-or-ṅit loses an active distinction, an ending-only adapter cannot
+repair a previously chosen strong stem, and the word kurutāt alone
+does not recover its original person/controller. Histories retain all
+three distinctions under zero-specialization.
+
+[Sources](research/panini_grammar/benediction/SOURCE_REVIEW.md) and
+[pins](research/panini_grammar/benediction/SOURCE_PINS.json) retain the
+selected two-s schedule, local augment visibility and literal-versus-derived
+status. [theorem branch through T135](research/panini_grammar/benediction/COMPANION_UPDATE.md)
+recognizes the new laṭ breadth and records the remaining marker/source
+integration gaps. [Work and frontier](research/panini_grammar/benediction/WORK_RECORD.md)
+keep grammar/navigation/engine tests and certificate replay deferred under
+the owner's instruction. Wider athematic modal and contextual liṅ domains
+remain open; the canonical operator engine is unchanged.
+
+## PG21: nasal-class modals, source-policy branches and stem transport
+
+[PG21](research/panini_grammar/nasal_modals/README.md) extends the exact
+PG6/PG12 root contracts to complete loṭ, vidhiliṅ and blessing-loṭ
+continuations. Its [domain](research/panini_grammar/nasal_modals/DOMAIN.md)
+has seventeen roots and twenty-seven qualified pada profiles. The five
+3.1.82 roots retain both śnu/śnā branches; four tanādi roots retain
+the separately labelled commentary guṇa policies, rather than treating
+that disagreement as an unquoted universal optional rule.
+
+[Owned stems](research/panini_grammar/nasal_modals/STEM_CONSTRUCTION.md)
+and [ending constructors](research/panini_grammar/nasal_modals/MODAL_ENDINGS.md)
+derive root n-lopa, actual-cluster hi-luk, śnu uv/v versus u yaṇ,
+śnā weakness and the first-person loṭ āṭ/pit consequences. They prove
+why laṭ's direct m/v u-lopa supplies no extra modal branch here.
+[Derivations](research/panini_grammar/nasal_modals/DERIVATIONS.md) cover
+the complete rule-sensitive cases; the [register](research/panini_grammar/nasal_modals/PARADIGMS.md)
+has **729 written positions / 1,159 source-family readings**, including
+52 tātaṅ branch additions. Fixing one of the two guṇa policies for
+each affected root gives 935 readings. Ordinary blessing-loṭ words
+overlap the ordinary loṭ words; these are not distinct-string or novelty totals.
+
+The [native construction](research/panini_grammar/nasal_modals/NATIVE_TRANSPORT.md)
+retains the full carrier, pairing, complementary cuts and typed zero-law.
+It proves actual-cluster and affix-identity observation boundaries, then
+an exact rank-two comparison of three laṭ branches with two loṭ branches.
+A history-retaining target repairs the lost donor distinction; zero itself
+does not erase it. No universal mood-transport bijection is asserted.
+
+[Sources](research/panini_grammar/nasal_modals/SOURCE_REVIEW.md) and
+[pins](research/panini_grammar/nasal_modals/SOURCE_PINS.json) retain the
+selected schedules, source-policy family and inherited word-witness gaps.
+[theorem-branch handoff](research/panini_grammar/nasal_modals/COMPANION_UPDATE.md)
+recognizes T133–T135 and identifies the existing primary answer to its
+tanādi guṇa question. [Work/frontier](research/panini_grammar/nasal_modals/WORK_RECORD.md)
+records deferred grammar/navigation/engine tests and certificate replay;
+adādi/juhotyādi/rudhādi modal and remaining contextual liṅ domains are next.
+The canonical operator engine remains unchanged.
+
+## PG22: athematic modal continuations and dependent consonant fibres
+
+[PG22](research/panini_grammar/athematic_modals/README.md) extends
+PG7–PG9's exact adādi/juhotyādi/rudhādi contracts to loṭ, vidhiliṅ
+and blessing loṭ. Its [domain](research/panini_grammar/athematic_modals/DOMAIN.md)
+contains twelve roots / eighteen qualified pada profiles, with actor,
+meaning, source policy and controller retained. [Stem and ending contracts](research/panini_grammar/athematic_modals/STEMS_AND_ENDINGS.md)
+use actual kit/ṅit/pit prescriptions, owned śap-luk/ślu/śnam and
+the new augment contexts rather than copying laṭ slot flags.
+
+[Hi and visibility](research/panini_grammar/athematic_modals/HI_AND_VISIBILITY.md)
+derive dhi, dehi/dhehi/edhi, whole-abhyāsa lopa and the original-s
+query that remains valid after etva. [Consonant readout](research/panini_grammar/athematic_modals/CONSONANT_READOUT.md)
+retains dhā's bhaṣ exception, root-num/affix-n ownership, ordered nasal
+views and every eligible optional collapse. The [complete register](research/panini_grammar/athematic_modals/PARADIGMS.md)
+has **486 positions / 558 written branch readings**: 183 ordinary
+loṭ, 162 vidhiliṅ and 213 blessing-loṭ readings. Twenty-four tāt
+positions receive thirty added readings because three roots acquire
+two-word sound fibres. Ordinary blessing and ordinary loṭ words overlap.
+
+The [native construction](research/panini_grammar/athematic_modals/NATIVE_ATHEMATIC.md)
+starts with the full carrier, pairing and complementary cuts, establishes
+typed zero-recovery, proves the current-e observation obstruction and
+constructs the two-choice/three-output rudh incidence operator. Copying
+an ordinary ending's collapse flag loses a licensed new tāt word;
+zero-specialization itself retains the needed histories.
+
+[Source review](research/panini_grammar/athematic_modals/SOURCE_REVIEW.md)
+and [pins](research/panini_grammar/athematic_modals/SOURCE_PINS.json)
+preserve local visibility assumptions and literal edition anomalies.
+[theorem branch through T138](research/panini_grammar/athematic_modals/COMPANION_UPDATE.md)
+records the new adādi present work, reported modal gaps and concrete marker-guard
+handoff. [Work/frontier](research/panini_grammar/athematic_modals/WORK_RECORD.md)
+keeps grammar/navigation/operator tests and certificate replay deferred.
+Remaining adādi modal exceptions, contextual liṅ meanings, broader
+voice/causative transport and general visibility resolution stay open.
+The canonical operator engine and frozen evidence remain unchanged.
+
+## PG47: addressed interactions and 29 worked history units
+
+[PG47](research/panini_grammar/interaction_histories/README.md) constructs **29 written history
+units** across addressed instructions, designation/deletion consumers,
+qualified competition and dependent realization. Both catalogue-ID sets
+remain **3,983/3,983**; finite positions remain **11,552**. New ID,
+position and counted-paradigm-reading credit is zero.
+
+The [interface](research/panini_grammar/interaction_histories/INTERFACE.md) preserves revision-bound
+admission, token and sound-version addresses, source-clause/policy origins,
+consumer views and Open obligations. [Instruction](research/panini_grammar/interaction_histories/INSTRUCTION_HISTORIES.md),
+[designation](research/panini_grammar/interaction_histories/DESIGNATION_HISTORIES.md),
+[competition](research/panini_grammar/interaction_histories/COMPETITION_HISTORIES.md) and
+[realization histories](research/panini_grammar/interaction_histories/REALIZATION_HISTORIES.md)
+include coupled मनु branches, inner-affix replacement and the prerequisite
+टि deletion for औडुलोम्या. The [register](research/panini_grammar/interaction_histories/HISTORY_REGISTER.json)
+records each local scope; these are not executed cases or full paradigms.
+
+[Source review](research/panini_grammar/interaction_histories/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/interaction_histories/SOURCE_EXCERPTS.json) and
+[pins](research/panini_grammar/interaction_histories/SOURCE_PINS.json) preserve **333 literal fields**
+and **39 file pins**, including the local Nyāsa 3.4.117 reference correction
+to 6.4.67. [Native continuation](research/panini_grammar/interaction_histories/NATIVE_CONTINUATION.md)
+retains the full carrier and typed zero-reading under inherited assumptions.
+[Predecessor review](research/panini_grammar/interaction_histories/PREDECESSOR_REVIEW.md) checks
+PG46's 135 rows, 902 literals and 41 pins; [coverage](research/panini_grammar/interaction_histories/COVERAGE.json)
+preserves the exact inherited ID sets. [Handoff/work](research/panini_grammar/interaction_histories/HANDOFF_AND_WORK.md)
+and [frontier](research/panini_grammar/interaction_histories/FRONTIER.md) target the nested
+4.1.78→4.1.120→6.4.151 provenance/य-lopa history next. The companion remains
+T152; grammar tests, generators, replay and navigation/operator suites stay
+deferred. Full grammar integration, general admission and accent remain open.
+
+## PG46: independent-written ID closure — both sets at 3,983
+
+[PG46](research/panini_grammar/independent_written_closure/README.md) writes the **135 remaining
+independent-written IDs**, all already combined. Combined and written
+membership now both equal **3,983/3,983**; new combined credit is **zero**.
+Both tracked gap lists are empty. Finite positions remain **11,552**, with
+zero new positions/readings. This closes the bounded written-ID pass;
+full semantic interpretation, realization and executable integration remain open.
+
+[Domain](research/panini_grammar/independent_written_closure/DOMAIN.md),
+[construction](research/panini_grammar/independent_written_closure/CONSTRUCTION.md) and
+[register](research/panini_grammar/independent_written_closure/RULE_REGISTER.json) retain addressed
+instructions, designation origin, deletion cause, qualified competition and
+noncircular dependent operations. [Native continuation](research/panini_grammar/independent_written_closure/NATIVE_CONTINUATION.md)
+retains the full carrier and typed zero-reading under unchanged assumptions.
+[Source review](research/panini_grammar/independent_written_closure/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/independent_written_closure/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/independent_written_closure/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/independent_written_closure/COVERAGE.json) retain **902 literal
+fields**, 41 file pins and exact old/new membership accounting.
+[Predecessor review](research/panini_grammar/independent_written_closure/PREDECESSOR_REVIEW.md)
+rechecks PG45's 207 rows, 975 literals and 41 pins with targeted rereadings.
+[Completion and frontier](research/panini_grammar/independent_written_closure/COMPLETION_AND_FRONTIER.md)
+and [handoff/work](research/panini_grammar/independent_written_closure/HANDOFF_AND_WORK.md) move the
+next stage to **written interaction and realization**, adding zero catalogue
+IDs. The companion remains T152; grammar tests, generators, replay and
+navigation/operator suites remain deferred.
+
+## PG45: combined catalogue closure — 3,983 bounded IDs
+
+[PG45](research/panini_grammar/catalogue_gap_closure/README.md) adds the
+**207 remaining combined gaps**: 44 in 3.4, 162 in 4.1 and 8.3.119.
+Combined ID reach becomes **3,983/3,983**; independent written reach
+**3,848**, with **135 written gaps** remaining. Finite positions stay
+**11,552**, with zero new positions/readings. Catalogue closure is not full
+grammar completion or executable verification.
+
+[Domain](research/panini_grammar/catalogue_gap_closure/DOMAIN.md),
+[construction](research/panini_grammar/catalogue_gap_closure/CONSTRUCTION.md)
+and [register](research/panini_grammar/catalogue_gap_closure/RULE_REGISTER.json)
+retain action/role conditions, feminine affix origins, generation-relative
+designations, dependent branches and addressed deletion.
+[Native continuation](research/panini_grammar/catalogue_gap_closure/NATIVE_CONTINUATION.md)
+instantiates the inherited full carrier and typed zero-reading.
+[Source review](research/panini_grammar/catalogue_gap_closure/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/catalogue_gap_closure/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/catalogue_gap_closure/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/catalogue_gap_closure/COVERAGE.json)
+retain **975 literal fields**, 41 file pins and exact independent-written gaps.
+[Predecessor review](research/panini_grammar/catalogue_gap_closure/PREDECESSOR_REVIEW.md)
+checks PG44's 300 rows, 1,215 literals and 42 pins, and documents PG41's omitted
+8.3.119 plus its incorrect 8.3.55 endpoint. Frozen counts remain unchanged.
+[Handoff/work](research/panini_grammar/catalogue_gap_closure/HANDOFF_AND_WORK.md)
+records unchanged T152, deferred suites/replay and the next **135 independent-written
+IDs beginning at 1.1.7**, adding zero combined IDs. Full realization and
+integration remain open.
+
+## PG44: kṛt meanings and temporal relations — 3,776 bounded IDs
+
+[PG44](research/panini_grammar/krt_temporal_relations/README.md) adds
+**300 new bounded written contracts**, the first combined gaps from
+**3.2.48 through 3.4.38**. Combined reach rises **3,476 → 3,776/3,983**;
+independent written reach **3,341 → 3,641**, with zero overlap. Finite
+positions remain **11,552**, with zero new positions/readings.
+
+[Domain](research/panini_grammar/krt_temporal_relations/DOMAIN.md),
+[construction](research/panini_grammar/krt_temporal_relations/CONSTRUCTION.md)
+and [register](research/panini_grammar/krt_temporal_relations/RULE_REGISTER.json)
+retain affix origin, semantic authority, dependent roles, contextual optionality
+and action/time relations. [Native continuation](research/panini_grammar/krt_temporal_relations/NATIVE_CONTINUATION.md)
+instantiates the inherited full carrier and typed zero-reading.
+[Source review](research/panini_grammar/krt_temporal_relations/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/krt_temporal_relations/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/krt_temporal_relations/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/krt_temporal_relations/COVERAGE.json)
+retain **1,215 literal fields**, 42 file pins and explicit commentary policies.
+[Predecessor review](research/panini_grammar/krt_temporal_relations/PREDECESSOR_REVIEW.md)
+checks PG43's 300 rows, 1,363 fields and 38 pins.
+[Handoff/work](research/panini_grammar/krt_temporal_relations/HANDOFF_AND_WORK.md)
+records unchanged T152 and deferred suites/replay. **207 combined gaps** and
+**342 independent-written gaps** remain; the next combined gap is **3.4.39**.
+Full realization, separate Uṇādi completion and executable verification remain open.
+
+## PG43: compounds, cases and dependent derivation — 3,476 bounded IDs
+
+[PG43](research/panini_grammar/compound_case_derivation/README.md) adds
+**300 new bounded written contracts**, the first uncovered combined IDs from
+**2.2.4 through 3.2.47**. Combined reach rises **3,176 → 3,476/3,983** and
+independent written reach **3,041 → 3,341**, with zero overlap. Finite positions
+remain **11,552**, with zero new positions/readings.
+
+[Domain](research/panini_grammar/compound_case_derivation/DOMAIN.md),
+[construction](research/panini_grammar/compound_case_derivation/CONSTRUCTION.md)
+and [register](research/panini_grammar/compound_case_derivation/RULE_REGISTER.json)
+retain separate role/case/compound decisions, dependent number/gender, addressed
+affix deletion, exact root–upapada pairs and consumer-specific designations.
+Three authority/default clauses and two designations are explicitly typed.
+[Native continuation](research/panini_grammar/compound_case_derivation/NATIVE_CONTINUATION.md)
+instantiates the inherited full carrier and typed zero-reading without new
+theorem hypotheses or a second runtime engine.
+
+[Source review](research/panini_grammar/compound_case_derivation/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/compound_case_derivation/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/compound_case_derivation/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/compound_case_derivation/COVERAGE.json)
+retain **1,363 literal fields**, 38 file pins and exact gaps. The misassigned
+Kāśikā field at 2.4.28 is nonoperative; Kaumudī, Nyāsa and Vasu support the
+adopted contract. Commentary differences at 2.4.69 and 3.1.103 remain explicit.
+[Predecessor review](research/panini_grammar/compound_case_derivation/PREDECESSOR_REVIEW.md)
+checks PG42's 300 rows, 1,371 fields and 39 pins.
+[Handoff/work](research/panini_grammar/compound_case_derivation/HANDOFF_AND_WORK.md)
+records unchanged companion T152 and deferred grammar/navigation/operator
+suites, independent generators and replay. **507 combined gaps** remain;
+the next is **3.2.48**. Full realization and independent verification remain open.
+
+## PG42: foundational relations and early compounds — 3,176 bounded IDs
+
+[PG42](research/panini_grammar/foundational_relations/README.md) closes the
+first **300 combined catalogue gaps** from PG41, a sparse selection from
+**1.1.4 through 2.2.3**. All are also newly written IDs. Combined bounded reach
+is **2,876 → 3,176/3,983**; independent written reach is **2,741 → 3,041**.
+Finite positions remain **11,552**, with zero new positions/readings.
+
+[Domain](research/panini_grammar/foundational_relations/DOMAIN.md),
+[construction](research/panini_grammar/foundational_relations/CONSTRUCTION.md)
+and [register](research/panini_grammar/foundational_relations/RULE_REGISTER.json)
+retain scoped designations, original-form queries, contextual pada and kāraka
+relations, particle roles, compound fitness and dependent options. Five
+1.2.53–57 entries are interpretive boundaries, not rewriting operations.
+[Native continuation](research/panini_grammar/foundational_relations/NATIVE_CONTINUATION.md)
+instantiates the inherited full-carrier and typed zero-reading construction;
+the theorem hypotheses and canonical engine remain unchanged.
+
+[Source review](research/panini_grammar/foundational_relations/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/foundational_relations/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/foundational_relations/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/foundational_relations/COVERAGE.json)
+retain **1,371 literal fields**, explicit source differences and exact gaps.
+The extra Kāśikā तिरस्कृत्वा at 1.4.72 remains unresolved; the adopted
+construction has three dependent branches.
+[Predecessor review](research/panini_grammar/foundational_relations/PREDECESSOR_REVIEW.md)
+checks PG41's 391 rows, 1,233 fields and 33 pins, and closes the older Nyāsa
+file/nine-field audit limit. [Handoff/work](research/panini_grammar/foundational_relations/HANDOFF_AND_WORK.md)
+records unchanged companion T152 and deferred grammar/navigation/operator
+suites, independent generators and replay. **807 combined gaps** remain;
+the next is **2.2.4**. Full realization and independent verification remain open.
+
+## PG41: abhyāsa, sentence context and tripādī — 2,876 bounded IDs
+
+[PG41](research/panini_grammar/abhyasa_tripadi/README.md) adds
+**391 bounded written contracts** for **7.4.75–97 and chapter 8 through
+8.4.68**. After 76 combined overlaps, **315 new IDs** take bounded reach
+**2,561 → 2,876/3,983**. Independent written reach is **2,405 → 2,741**,
+after 55 already-written overlaps. Finite positions remain **11,552**;
+new positions and counted readings are zero.
+
+[Domain](research/panini_grammar/abhyasa_tripadi/DOMAIN.md),
+[construction](research/panini_grammar/abhyasa_tripadi/CONSTRUCTION.md) and
+[register](research/panini_grammar/abhyasa_tripadi/RULE_REGISTER.json)
+retain distinct root copies, whole repetition and consonant duplication,
+sentence/pāda/compound boundaries, accent origins, query-relative tripādī
+visibility and lexical sound restrictions.
+[Native continuation](research/panini_grammar/abhyasa_tripadi/NATIVE_CONTINUATION.md)
+instantiates the existing full-carrier construction and typed zero-reading;
+the theorem hypotheses and canonical engine are unchanged.
+
+[Source review](research/panini_grammar/abhyasa_tripadi/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/abhyasa_tripadi/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/abhyasa_tripadi/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/abhyasa_tripadi/COVERAGE.json)
+retain 1,233 literal fields, source corrections and exact catalogue gaps.
+[Predecessor review](research/panini_grammar/abhyasa_tripadi/PREDECESSOR_REVIEW.md)
+records 545 matched PG40 rows, 1,682 compared fields and 34 rehashed pins;
+nine inherited Nyāsa fields and its primary-file hash were not rechecked.
+[Handoff/work](research/panini_grammar/abhyasa_tripadi/HANDOFF_AND_WORK.md)
+records unchanged companion T152, unavailable local execution and deferred
+grammar/navigation/operator suites and replay. The endpoint **8.4.68** leaves
+**1,107 combined gaps**, beginning at **1.1.4**, and wider realization
+obligations. No universal AI-correctness or physical quantum result is claimed.
+
+## PG40: aṅga, affix and abhyāsa — 2,561 bounded IDs
+
+[PG40](research/panini_grammar/anga_affix_abhyasa/README.md) adds
+**545 bounded written contracts** for **6.4.46–175, all 7.1–7.3 and
+7.4.1–74**. After 244 combined overlaps, **301 new IDs** take bounded
+reach **2,260 → 2,561/3,983**. Independent written reach is
+**1,954 → 2,405**, after 94 already-written overlaps. Finite positions
+remain **11,552**; new positions and counted readings are zero.
+
+[Domain](research/panini_grammar/anga_affix_abhyasa/DOMAIN.md),
+[construction](research/panini_grammar/anga_affix_abhyasa/CONSTRUCTION.md)
+and [register](research/panini_grammar/anga_affix_abhyasa/RULE_REGISTER.json)
+retain iṭ origin/admission/length, exact suffix targets, original case,
+semantic versus external agreement, compound grade and copy histories.
+[Native continuation](research/panini_grammar/anga_affix_abhyasa/NATIVE_CONTINUATION.md)
+instantiates the existing full-carrier finite-history construction and
+typed zero-reading; frozen theorem hypotheses and canonical engine stay
+unchanged. No physical or universal AI-correctness result is claimed.
+
+[Source review](research/panini_grammar/anga_affix_abhyasa/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/anga_affix_abhyasa/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/anga_affix_abhyasa/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/anga_affix_abhyasa/COVERAGE.json)
+retain 1,691 literal fields, damaged/disputed readings and exact unions.
+[Predecessor review](research/panini_grammar/anga_affix_abhyasa/PREDECESSOR_REVIEW.md)
+checks PG39's 329 rows, 1,047 fields, 29 file identities and eight selected
+semantic boundaries. [Handoff/work](research/panini_grammar/anga_affix_abhyasa/HANDOFF_AND_WORK.md)
+records unchanged companion T152, deferred grammar/navigation/operator
+suites and the next sequential frontier **7.4.75**. Full realization,
+lexical normalization and runtime verification remain open.
+
+## PG39: compound accent, retained cases and aṅga — 2,260 bounded IDs
+
+[PG39](research/panini_grammar/compound_accent_stems/README.md) adds
+**329 bounded written contracts** for **6.2.55–199, 6.3.1–139 and
+6.4.1–45**. Twenty-nine combined overlaps leave **300 new IDs**:
+**1,960 → 2,260/3,983**. Independent written reach is **1,642 → 1,954**,
+after 17 already-written overlaps. Finite positions remain **11,552**;
+new positions and counted readings are zero.
+
+[Domain](research/panini_grammar/compound_accent_stems/DOMAIN.md),
+[construction](research/panini_grammar/compound_accent_stems/CONSTRUCTION.md)
+and [register](research/panini_grammar/compound_accent_stems/RULE_REGISTER.json)
+retain accent owners and dependent choices, original सुप् and suffix history,
+feminine-member treatment, owned substitutions/augments and same-आश्रय
+visibility. [Native continuation](research/panini_grammar/compound_accent_stems/NATIVE_CONTINUATION.md)
+is an instance of the inherited finite-history construction with typed
+zero-reading; it changes no frozen theorem hypothesis or canonical engine.
+Its output is the bounded written relation, not a physical or universal
+AI-correctness result.
+
+[Source review](research/panini_grammar/compound_accent_stems/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/compound_accent_stems/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/compound_accent_stems/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/compound_accent_stems/COVERAGE.json)
+retain adopted policies, 1,047 literal fields and exact count layers.
+[Predecessor review](research/panini_grammar/compound_accent_stems/PREDECESSOR_REVIEW.md)
+checks PG38's 352 rows, 1,095 fields, 28 file identities and eight targeted
+semantic boundaries. [Handoff/work](research/panini_grammar/compound_accent_stems/HANDOFF_AND_WORK.md)
+records unchanged theorem-branch T152, deferred grammar/navigation/operator suites
+and the sequential frontier at **6.4.46**. Complete realization and lexical
+normalization remain open.
+
+## PG38: compound endings, sound and accent — 1,960 bounded IDs
+
+[PG38](research/panini_grammar/compound_sound_accent/README.md) adds
+**352 bounded written contracts** for **5.4.86–160, 6.1.1–223 and
+6.2.1–54**. Fifty combined overlaps leave **302 new IDs**:
+**1,658 → 1,960/3,983**. Independent written reach is **1,318 → 1,642**,
+after 28 already-written overlaps. Finite positions remain **11,552**;
+new positions and counted readings are zero.
+
+[Domain](research/panini_grammar/compound_sound_accent/DOMAIN.md),
+[construction](research/panini_grammar/compound_sound_accent/CONSTRUCTION.md)
+and [register](research/panini_grammar/compound_sound_accent/RULE_REGISTER.json)
+retain compound history, repeated-unit ownership, two-origin joint sound
+replacement, rule-relative visibility and accent ownership/priority.
+[Native continuation](research/panini_grammar/compound_sound_accent/NATIVE_CONTINUATION.md)
+instantiates the inherited full-carrier finite-event construction and typed
+zero-reading without changing the canonical operator engine or frozen theorem
+hypotheses. Its output is the declared written relation, not whole-language
+correctness or a physical quantum/AI result.
+
+[Source review](research/panini_grammar/compound_sound_accent/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/compound_sound_accent/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/compound_sound_accent/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/compound_sound_accent/COVERAGE.json)
+separate literal evidence, adopted readings and exact count layers.
+[Predecessor review](research/panini_grammar/compound_sound_accent/PREDECESSOR_REVIEW.md)
+checks PG37's 321 rows, 988 source fields, 29 file identities and eight
+semantic boundaries. [Handoff/work](research/panini_grammar/compound_sound_accent/HANDOFF_AND_WORK.md)
+records unchanged theorem-branch T152, deferred grammar/navigation/operator suites
+and the sequential frontier at **6.2.55**. Complete realization and lexical
+extensions remain open.
+
+## PG37: possession/adverbials, predecessor review and 1,658 bounded IDs
+
+[PG37](research/panini_grammar/possession_adverbials/README.md) constructs
+**321 contracts** for **5.2.24–140, 5.3.1–119 and 5.4.1–85**. Eleven
+overlaps give **310 new distinct IDs**, taking combined bounded reach
+**1,348 → 1,658/3,983** and independent written reach **997 → 1,318**.
+This is semantic/affix selection and owned-operation work; complete finite
+positions remain **11,552**, with zero added.
+
+[Predecessor review](research/panini_grammar/possession_adverbials/PREDECESSOR_REVIEW.md)
+checks 616 previous rows, 1,870 literal fields, 46 pinned file records and
+selected semantic boundaries. It does not claim independent correctness of
+every interpretation. [Domain](research/panini_grammar/possession_adverbials/DOMAIN.md),
+[construction](research/panini_grammar/possession_adverbials/CONSTRUCTION.md)
+and [register](research/panini_grammar/possession_adverbials/RULE_REGISTER.json)
+retain source policy, addressed replacements/augments, case and designation
+boundaries, transformation types and compound-class stipulations.
+[Native continuation](research/panini_grammar/possession_adverbials/NATIVE_CONTINUATION.md)
+proves address safety, dependent-clause properties and typed zero-reading
+on the declared finite selection domain.
+
+[Source review](research/panini_grammar/possession_adverbials/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/possession_adverbials/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/possession_adverbials/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/possession_adverbials/COVERAGE.json)
+preserve the literal evidence and exact count layers.
+[Handoff/work](research/panini_grammar/possession_adverbials/HANDOFF_AND_WORK.md)
+records unchanged theorem-branch T152, deferred grammar tests/replay and the next
+frontier at **5.4.86**. Runtime and earlier packets are unchanged.
+
+## PG36: functional taddhita contracts and 1,348 bounded IDs
+
+[PG36](research/panini_grammar/taddhita_functional/README.md) constructs
+**303 written contracts** across **4.4.1–144, 5.1.1–136 and 5.2.1–23**.
+The combined distinct union rises **1,046 → 1,348/3,983** (+302; 5.1.122
+overlaps); independent written reach rises **694 → 997**. These are
+semantic/affix-selection and owned-operation contracts, not complete
+surface paradigms. Finite written positions stay **11,552**, with zero added.
+
+[Domain](research/panini_grammar/taddhita_functional/DOMAIN.md),
+[construction](research/panini_grammar/taddhita_functional/CONSTRUCTION.md)
+and the [303-row register](research/panini_grammar/taddhita_functional/RULE_REGISTER.json)
+retain case-role evidence, causal द्विगु, quantity/time distinctions,
+original markers, scoped exceptions and nested affix deletion.
+[Native continuation](research/panini_grammar/taddhita_functional/NATIVE_CONTINUATION.md)
+proves typed causal-compound/branch properties and zero-recovery at this
+selection layer. It makes no whole-grammar or physical-application claim.
+
+[Source decisions](research/panini_grammar/taddhita_functional/SOURCE_REVIEW.md),
+[literal archive](research/panini_grammar/taddhita_functional/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/taddhita_functional/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/taddhita_functional/COVERAGE.json)
+record corrections, policy-qualified marker variants and exact set accounting.
+[Handoff/work](research/panini_grammar/taddhita_functional/HANDOFF_AND_WORK.md)
+records unchanged theorem-branch T152 and deferred grammar tests/replay. Runtime
+files and earlier packets are unchanged. The next continuous block is 5.2.24.
+
+## PG35: taddhita relations and the 1,000-ID written milestone
+
+[PG35](research/panini_grammar/taddhita_relations/README.md) constructs
+written semantic/affix-selection contracts for all **313 numbered entries
+of 4.2–4.3**. Combined bounded reach rises **734 → 1,046/3,983**, with
+4.3.120 counted only once in the union; independent written reach is
+**694**. This is coverage of the stated selection/operation layer, not
+1,046 fully implemented sūtras. No new finite paradigm positions are
+claimed; their cumulative total remains **11,552**.
+
+[Domain](research/panini_grammar/taddhita_relations/DOMAIN.md) and
+[construction](research/panini_grammar/taddhita_relations/CONSTRUCTION.md)
+separate meaning/case admission, original affixes, scoped exceptions,
+gaṇa membership, dependent alternatives and addressed लुक्/लुप्.
+The [structured register](research/panini_grammar/taddhita_relations/RULE_REGISTER.json)
+transcribes the five complete authored rule tables. It is written
+specification, not executable predicate code.
+
+[Native continuation](research/panini_grammar/taddhita_relations/NATIVE_CONTINUATION.md)
+extends the retained carrier and proves dependent branching, material-scope
+separation and typed zero-recovery for the selection relation. The
+[source review](research/panini_grammar/taddhita_relations/SOURCE_REVIEW.md),
+[literal archive](research/panini_grammar/taddhita_relations/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/taddhita_relations/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/taddhita_relations/COVERAGE.json)
+distinguish constructed rows from mere citations. [Handoff/work](research/panini_grammar/taddhita_relations/HANDOFF_AND_WORK.md)
+records unchanged theorem-branch T152, deferred grammar tests/replay and the
+unbuilt surface-realization/lexical obligations. Runtime files are unchanged.
+
+## PG34: actual ciṇ and retained third-singular ending-luk
+
+[PG34](research/panini_grammar/cin_aorist/README.md) adds **30 written
+positions /33 readings**, taking cumulative finite positions to **11,552**.
+Its [domain](research/panini_grammar/cin_aorist/DOMAIN.md) selects original
+A3sg ta in seventeen basic and thirteen causal bhāva/karma luṅ profiles.
+Other karma slots require separate constructions.
+
+[Derivation](research/panini_grammar/cin_aorist/CONSTRUCTION.md) distinguishes
+actual ciṇ-i from iṭ augments and A1sg's ending. Rule 6.4.104 deletes
+the following ta, retaining its controller; causal ṇic-lopa has a different
+target. Basic śam/gam retain original accent evidence, labh's optional
+num changes its strengthening guard, and causal mit length remains separate.
+The [word register](research/panini_grammar/cin_aorist/PARADIGMS.md) prints
+every new reading. [Native continuation](research/panini_grammar/cin_aorist/NATIVE_CONTINUATION.md)
+preserves target-indexed lopa, owner types and the full carrier under typed
+zero-specialization.
+
+[Sources](research/panini_grammar/cin_aorist/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/cin_aorist/SOURCE_EXCERPTS.json) and
+[pins](research/panini_grammar/cin_aorist/SOURCE_PINS.json) separate
+direct witnesses, source anomalies and authored continuations.
+[Coverage](research/panini_grammar/cin_aorist/COVERAGE.json) reaches
+**734/3,983** combined bounded-rule IDs, adding 3.1.66, 6.4.104 and
+7.1.69. The independent-written inventory is 381, including the separately
+recorded restoration of PG18's 7.3.32. [Handoff/work](research/panini_grammar/cin_aorist/HANDOFF_AND_WORK.md)
+records unchanged theorem-branch T152 and keeps grammar/generator/replay/navigation/
+operator verification deferred. The remaining karma luṅ slots, ksa/aṅ/caṅ
+and wider grammar remain open.
+
+## PG33: conditional bhāva/karma and typed ciṇvat continuation
+
+[PG33](research/panini_grammar/conditional_voice/README.md) constructs
+**229 additional positions /448 readings**, taking cumulative written
+finite positions to **11,522**. Its [domain](research/panini_grammar/conditional_voice/DOMAIN_AND_ADMISSION.md)
+joins separately established R admission to four basic Bhāva, twelve
+basic Karma and thirteen causal Karma profiles. Bhāva keeps only 3sg;
+Karma agrees with its source-qualified expressed karman.
+
+[Construction](research/panini_grammar/conditional_voice/CONSTRUCTION.md)
+preserves actual sya, ordinary/ciṇvat augment origin, query-relative
+ṇic-lopa, grah i/ī, causal mit options and the distinct basic gam A
+guard. The [register](research/panini_grammar/conditional_voice/PARADIGMS.md)
+specifies every word by explicit tuples and all branch arguments.
+[Native continuation](research/panini_grammar/conditional_voice/NATIVE_CONTINUATION.md)
+constructs controller cuts, partial inner transport and typed zero-recovery;
+equal readouts do not collapse basic Bhāva and causal Karma histories.
+
+[Sources](research/panini_grammar/conditional_voice/SOURCE_REVIEW.md),
+[literal archive](research/panini_grammar/conditional_voice/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/conditional_voice/SOURCE_PINS.json)
+retain direct conditional witnesses and damaged source labels separately.
+[Coverage](research/panini_grammar/conditional_voice/COVERAGE.json) keeps
+the combined union at **731/3,983**; restoring three previously authored
+IDs repairs the independent-written inventory to 373 without new breadth.
+[Handoff](research/panini_grammar/conditional_voice/COMPANION_HANDOFF.md)
+records the unchanged T152 head and required role/owner interfaces.
+[Work record](research/panini_grammar/conditional_voice/WORK_RECORD.md)
+keeps grammar tests, generators, replay, navigation and operator suites
+deferred. Other luṅ families, their voice continuations and wider grammar
+remain open; no whole-grammar or application-level guarantee is claimed.
+
+## PG32: ordinary luṅ, prohibitive A and retained sic history
+
+[PG32](research/panini_grammar/prohibitive_lung/README.md) constructs
+**234 new finite positions /236 readings** on eight exact roots and
+26 qualified profiles. Its [domain](research/panini_grammar/prohibitive_lung/DOMAIN_AND_SCOPE.md)
+separates ordinary admitted luṅ, māṅ-luṅ and māṅ+sma-laṅ. The
+36 kṛ/hṛ P prohibitive positions supplied by PG30 are reused; cumulative
+written finite positions reach **11,293**.
+
+[Luṅ construction](research/panini_grammar/prohibitive_lung/LUNG_CONSTRUCTION.md)
+separates sic-iṭ, tiṅ-īṭ, the original A1sg ending and bhū-vuk.
+Bhū's sic-luk defeats the adopted extant-sic īṭ guard, while 3.4.110
+is needed to restrict the historically available jus query. Vowel-initial
+aṭ/āṭ suppression is constructed before word realization.
+[Laṅ continuation](research/panini_grammar/prohibitive_lung/SMA_LANG_CONSTRUCTION.md)
+adds seven thematic profiles and complete kṛ A with owned u.
+
+The [full word register](research/panini_grammar/prohibitive_lung/PARADIGMS.md)
+retains both īh 2pl alternatives inside its declared dh/ḍh policy.
+[Source review](research/panini_grammar/prohibitive_lung/SOURCE_REVIEW.md),
+[literal fields](research/panini_grammar/prohibitive_lung/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/prohibitive_lung/SOURCE_PINS.json)
+preserve rival commentary readings and damaged tokens separately.
+The [native construction](research/panini_grammar/prohibitive_lung/NATIVE_OWNED_CONTINUATION.md)
+retains the full history carrier, proves owner-selective transport,
+constructs rule-specific historical/realized-affix cuts and derives typed
+zero-recovery of the bounded relation.
+
+[Coverage](research/panini_grammar/prohibitive_lung/COVERAGE.json) reaches
+**731/3,983 bounded-rule IDs**, about **18.35%**, combining written
+construction with companion operational labels. This is not whole-grammar
+completion. [T151/T152 review](research/panini_grammar/prohibitive_lung/COMPANION_UPDATE.md)
+credits kṛt/participle development, attributes its reported comparisons
+and supplies semantic/owner/branch adapters without executing the code.
+[Work/frontier](research/panini_grammar/prohibitive_lung/WORK_RECORD.md)
+keeps grammar/navigation/operator tests and replay deferred. Other luṅ
+families, passive/bhāva continuations and broader grammar remain open.
+
+## PG31: effective counterfactual admission and complete bounded lṛṅ
+
+[PG31](research/panini_grammar/counterfactual_contexts/README.md) develops
+**3.3.139–151** on supplied semantic evidence. The
+[domain](research/panini_grammar/counterfactual_contexts/DOMAIN_AND_SCOPE.md)
+and [context relations](research/panini_grammar/counterfactual_contexts/CONTEXT_RELATIONS.md)
+separate censure, incredulity, intolerance, specific upapadas and surprise.
+The surprise/yadi branch retains its independently positive liṅ route.
+
+[Counterfactual admission](research/panini_grammar/counterfactual_contexts/COUNTERFACTUAL_ADMISSION.md)
+uses the effective liṅ certificate **after** exceptions, qualified
+kriyātipatti and temporal interpretation. The past option ends before 152;
+the exact PG28 affirmative 152 and cause/result 156 certificates receive
+explicit counterfactual extensions without broadening every earlier domain.
+
+[Sya transport](research/panini_grammar/counterfactual_contexts/SYA_TRANSPORT.md)
+preserves the joint root/pada/iṭ and causative-owner interfaces.
+[Endings](research/panini_grammar/counterfactual_contexts/ENDING_CONSTRUCTION.md)
+derive aṭ/āṭ and all nine P/A slots, distinguishing ṇic-i, affix iṭ
+and ending iṭ. The [complete register](research/panini_grammar/counterfactual_contexts/PARADIGMS.md)
+adds **432 positions /477 readings**, cumulative **11,059**, across 17
+basic roots and 12 inherited causal formations, 48 profiles and 53 branches.
+
+The [native construction](research/panini_grammar/counterfactual_contexts/NATIVE_ADMISSION_AND_TRANSPORT.md)
+proves the effective-cut pullback, an obstruction to premature admission,
+a two-extra-channel minimum on its three-history sector, restricted sya
+transport and typed zero-recovery of requests and the bounded word register.
+
+[Sources](research/panini_grammar/counterfactual_contexts/SOURCE_REVIEW.md),
+[literal fields](research/panini_grammar/counterfactual_contexts/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/counterfactual_contexts/SOURCE_PINS.json)
+retain source disputes, damaged readings and empty fields.
+[Coverage](research/panini_grammar/counterfactual_contexts/COVERAGE.json)
+reaches **708/3,983 bounded-rule IDs**, 13 written plus two companion IDs beyond PG30; approximately
+**17.78%** is bounded documented/declarative reach, not overall grammar
+completion. [theorem-branch handoff](research/panini_grammar/counterfactual_contexts/COMPANION_UPDATE.md)
+reviews T150 observation and existing morphology and assigns admission/branch/owner adapters.
+[Work/frontier](research/panini_grammar/counterfactual_contexts/WORK_RECORD.md)
+keeps grammar/navigation/operator tests and replay deferred. Broader
+prohibitives, passive/bhāva R, remaining temporal blocks and full nominal
+coverage remain open.
+
+## PG30: capability, blessing-names and owned prohibitive augmentation
+
+[PG30](research/panini_grammar/capability_naming_prohibition/README.md)
+develops **3.3.172 and 3.3.174–176**: capability, blessing-based
+appellatives and māṅ/māṅ+sma prohibition. Its [domain](research/panini_grammar/capability_naming_prohibition/DOMAIN_AND_SCOPE.md)
+corrects PG29's prospective subject labels for 3.3.174–176 while preserving
+the earlier completed packet. [Capability and naming](research/panini_grammar/capability_naming_prohibition/CAPABILITY_AND_NAMING.md)
+distinguish semantic capacity from an overt śak and require a whole-expression
+naming intention in addition to blessing.
+
+[Prohibition](research/panini_grammar/capability_naming_prohibition/PROHIBITION_AND_AUGMENTS.md)
+preserves exact māṅ identity, nonadjacent dependency and the associated
+sma choice {luṅ,laṅ}. It suppresses aṭ/āṭ while retaining ending īṭ.
+[Finite construction](research/panini_grammar/capability_naming_prohibition/FINITE_CONSTRUCTION.md)
+derives complete qualified P luṅ/laṅ paradigms for kṛ and hṛ:
+**36 new positions /36 readings**, cumulative **10,627**.
+
+[Nominal construction](research/panini_grammar/capability_naming_prohibition/NOMINAL_CONSTRUCTION.md)
+gives six local construction targets with eight base readings and eight
+selected nominative readouts: tanti/tati, all three san/ktic alternatives,
+bhūti, datta and the source-witnessed Devadatta compound.
+The [complete register](research/panini_grammar/capability_naming_prohibition/EXPRESSION_REGISTER.md)
+keeps those grades separate from finite positions and reused capability forms.
+
+The [native construction](research/panini_grammar/capability_naming_prohibition/NATIVE_OWNERS_AND_BRANCHES.md)
+proves an owner-selective cut, its coarse-observer obstruction, a one-channel
+context repair and the retained-source branch-multiplicity identity. Typed
+zero-specialization recovers the declared relation without a unitary or
+probabilistic interpretation of branching.
+
+[Sources](research/panini_grammar/capability_naming_prohibition/SOURCE_REVIEW.md),
+[literal archive](research/panini_grammar/capability_naming_prohibition/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/capability_naming_prohibition/SOURCE_PINS.json)
+retain displaced subjects, the mā analysis dispute and the san alternatives.
+[Coverage](research/panini_grammar/capability_naming_prohibition/COVERAGE.json)
+reaches **693/3,983 bounded-rule IDs**, twelve beyond PG29; approximately
+**17.40%** is bounded rule reach, not whole-grammar completion.
+[theorem-branch handoff](research/panini_grammar/capability_naming_prohibition/COMPANION_UPDATE.md)
+reviews the unchanged T149 constructor/relevant rows and assigns admission,
+owned augmentation and full-alternative adapters. [Work/frontier](research/panini_grammar/capability_naming_prohibition/WORK_RECORD.md)
+keeps grammar/navigation/operator tests and replay deferred. Remaining
+3.3.139–151 contexts, broader prohibitive word adapters and full nominal
+coverage remain open.
+
+## PG29: opportunity, kṛt expression and meaning-sensitive case
+
+[PG29](research/panini_grammar/opportunity_necessity/README.md) develops
+**3.3.167–171** and the nonfinite/case interfaces they require.
+The [domain](research/panini_grammar/opportunity_necessity/DOMAIN_AND_DISCOURSE.md)
+selects four exact roots with supplied meanings and qualified pada inputs.
+[Opportunity and eligibility](research/panini_grammar/opportunity_necessity/OPPORTUNITY_AND_WORTHINESS.md)
+distinguish governing time heads, relevant yad and local bhāva-lyuṭ
+alternatives, and fill PG19's previously unbuilt kṛtya projection.
+[Necessity and case](research/panini_grammar/opportunity_necessity/NECESSITY_AND_CASES.md)
+retain semantic upādhi without requiring an overt word, and preserve
+different object cases behind identical dāyī or kartā readouts.
+
+[Construction](research/panini_grammar/opportunity_necessity/KRT_CONSTRUCTION.md)
+owns tumun/lyuṭ/tṛc/ṇini, ten kṛtya bases, vah's sourced ḍh-lopa/o
+route and the selected nominal endings. The [register](research/panini_grammar/opportunity_necessity/EXPRESSION_REGISTER.md)
+contains **23 nonfinite base targets** (22 constructions here and one
+reused bhoktum), **39 nominal readout targets** and **18 new vah O
+positions/readings**. Cumulative admitted written finite positions reach
+**10,591**; the three grades are not added together.
+
+The [native construction](research/panini_grammar/opportunity_necessity/NATIVE_TYPED_CHOICE.md)
+proves role-safe dependent fibres, dependency-cut transport and a sharp
+four-history observer repair: two addressed scalar channels are needed
+where one pooled genitive coordinate fails. Typed zero-specialization
+recovers the declared source-qualified grammar relation and its histories.
+
+[Sources](research/panini_grammar/opportunity_necessity/SOURCE_REVIEW.md),
+[literal fields](research/panini_grammar/opportunity_necessity/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/opportunity_necessity/SOURCE_PINS.json)
+retain displaced headings, empty fields and unresolved case readings.
+[Coverage](research/panini_grammar/opportunity_necessity/COVERAGE.json)
+reaches **681/3,983 bounded-rule IDs**: 652 inherited, nineteen newly
+written and ten newly operational-labelled T149 IDs. Its approximately
+**17.10%** ratio is not whole-grammar completion.
+[theorem branch through T149](research/panini_grammar/opportunity_necessity/COMPANION_UPDATE.md)
+credits san development and gives semantic/pada, alternative-relation and
+archive-key adapters. [Work/frontier](research/panini_grammar/opportunity_necessity/WORK_RECORD.md)
+keeps grammar/navigation/operator tests and replay deferred. The next
+written block is 3.3.172 and 3.3.174–176; full nominal paradigms,
+unbuilt lexical exceptions and wider grammar closure remain open.
+
+## PG28: bhuj/tṛh exceptions, contextual liṅ and actor identity
+
+[PG28](research/panini_grammar/exception_modal_contexts/README.md)
+adds **117 finite positions /123 readings** across two exact roots and
+four sense/pada profiles. The [domain](research/panini_grammar/exception_modal_contexts/DOMAIN_AND_ADMISSION.md)
+retains bhuj's protection/P and eating/A distinction and admits one
+commentary-supported upabhoga/A profile. [Construction](research/panini_grammar/exception_modal_contexts/EXCEPTION_CONSTRUCTION.md)
+keeps śnam/im ownership and effective pit, and selects an explicit
+Prakriyāsarvasva hi schedule for tṛṇḍḍhi/tṛṇḍhi without claiming
+universal agreement of source-visibility conventions.
+
+[Modal contexts](research/panini_grammar/exception_modal_contexts/MODAL_CONTEXTS.md)
+develop affirmative particles, disclosed wishes, capacity and future
+dependence. [Desire/actor binding](research/panini_grammar/exception_modal_contexts/DESIRE_AND_ACTOR_BINDING.md)
+completes 3.3.152–160's bounded request layer: same-actor desire restores
+liṅ after tumun, and the outer desire verb has its own address.
+Actor equality survives different clause-relative person readings.
+The [native construction](research/panini_grammar/exception_modal_contexts/NATIVE_ACTOR_AND_QUERY_TRANSPORT.md)
+proves addressed-query and actor observer obstructions, a sharp local
+rank repair, dependent expression fibres and typed zero-specialization.
+
+The [finite register](research/panini_grammar/exception_modal_contexts/PARADIGMS.md)
+and [coverage](research/panini_grammar/exception_modal_contexts/COVERAGE.json)
+reach **10,573 admitted written finite positions /652 bounded-rule IDs**.
+All inherited PG8 profiles now have I/O/B; all inherited PG7+PG8
+class-7 profiles total **25 roots /35 profiles /945 modal positions**.
+Upabhoga extends that overlapping subtotal to 36 profiles /972 positions.
+Context instantiations and the nonfinite bhoktum exemplar do not inflate
+the finite count. The approximately **16.37%** rule ratio does not
+measure whole-grammar completion.
+
+[Source review](research/panini_grammar/exception_modal_contexts/SOURCE_REVIEW.md),
+[literal archive](research/panini_grammar/exception_modal_contexts/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/exception_modal_contexts/SOURCE_PINS.json)
+retain displaced commentary fields and source-policy limits.
+[theorem-branch handoff](research/panini_grammar/exception_modal_contexts/COMPANION_UPDATE.md)
+credits the closing T148 causative extension and records concrete
+sense/actor/alternative adapters. Its four newly reached IDs join PG28's
+nine contextual clauses. [Work/frontier](research/panini_grammar/exception_modal_contexts/WORK_RECORD.md)
+keeps grammar/navigation/operator tests and replay deferred. Unbuilt
+contextual word adapters and wider grammar closure remain open.
+
+## PG27: consonant inventory modals and coupled auxiliary ownership
+
+[PG27](research/panini_grammar/consonant_inventory_modals/README.md)
+constructs I/O/B dispositions for **32 exact roots /37 qualified profiles**:
+**997 admitted positions /1,145 readings and two source exclusions**.
+The [domain](research/panini_grammar/consonant_inventory_modals/DOMAIN_AND_OWNERS.md)
+closes the remaining admitted adādi and regular PG7 rudhādi inventories.
+[Stem ownership](research/panini_grammar/consonant_inventory_modals/STEMS_AND_NASALS.md)
+distinguishes num, śnam, root-n deletion and ending strength;
+[readout](research/panini_grammar/consonant_inventory_modals/OWNED_CONSONANT_READOUT.md)
+retains cakṣva's changed owners and niṃssva/niṃsva's source-time query.
+[Admission and auxiliary construction](research/panini_grammar/consonant_inventory_modals/AUXILIARY_AND_ADMISSION.md)
+selects vac's anti-family usage policy and the whole vidām + matching
+kṛ package, with its external nasal options and blessing-tāt fibres.
+The [complete register](research/panini_grammar/consonant_inventory_modals/PARADIGMS.md)
+exhausts the finite admitted domain.
+
+The [native construction](research/panini_grammar/consonant_inventory_modals/NATIVE_COUPLED_EXPANSION.md)
+starts on the full history carrier and pairing. It proves the
+matching-controller cut, retained-query transport and precise failures
+of coarse observation, then derives typed zero-specialization.
+
+[Coverage](research/panini_grammar/consonant_inventory_modals/COVERAGE.json)
+reaches **10,456 admitted written verbal positions /639 bounded-rule IDs**.
+It explicitly reconciles PG26's historical total as **9,460−1+997**:
+the current vac-present usage correction preserves the frozen PG11 row.
+All **68 exact adādi roots /75 profiles** admitted in PG8/10/11 now
+have **2,023 admitted modal positions plus two exclusions**; all **23
+regular PG7 rudhādi roots /32 profiles** have **864 modal positions**.
+These overlapping milestones are already-counted subtotals. Bhuj/tṛh
+was the next frontier at this stage and is developed in PG28 above;
+whole-grammar closure remains open.
+[Source decisions](research/panini_grammar/consonant_inventory_modals/SOURCE_REVIEW.md),
+[literal records](research/panini_grammar/consonant_inventory_modals/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/consonant_inventory_modals/SOURCE_PINS.json)
+retain usage alternatives and damaged tokens.
+[theorem branch through T147](research/panini_grammar/consonant_inventory_modals/COMPANION_UPDATE.md)
+credits the luṅ and passive extensions, attributes reported results and identifies
+the nine-versus-ten lane label and unresolved liṭ residue discrepancy.
+[Work/frontier](research/panini_grammar/consonant_inventory_modals/WORK_RECORD.md)
+keeps grammar/navigation/operator tests and certificate replay deferred.
+The approximately 16.04% ratio is bounded-rule reach, not whole-grammar
+completion or independent verification.
+
+## PG26: adādi vowel modals and augment-dependent source queries
+
+[PG26](research/panini_grammar/vowel_modals/README.md) constructs
+ordinary loṭ, vidhiliṅ and blessing-loṭ for **30 exact roots /32
+qualified pada profiles**. Its [domain](research/panini_grammar/vowel_modals/DOMAIN_AND_INTERFACES.md)
+preserves lexical senses, register limits and pada licenses.
+[Stems and augments](research/panini_grammar/vowel_modals/STEMS_AND_AUGMENTS.md)
+resolve ending-owned īṭ before the root-strength query: rautu/ravītu,
+rutām/ruvītām and ruyāt/ruvīyāt. Ūrṇu's guṇa/vṛddhi option,
+sū's prohibition, iṇ/vī and fourteen retained-ā roots have separate
+guards. [Sound readout](research/panini_grammar/vowel_modals/SOUND_READOUT.md)
+retains vowel/ending ownership and distinguishes first-person ṇatva
+from the restored dental n of ordinary plurals.
+The [complete register](research/panini_grammar/vowel_modals/PARADIGMS.md)
+adds **864 positions /991 written readings**.
+
+The [native construction](research/panini_grammar/vowel_modals/NATIVE_GUARD_TRANSPORT.md)
+starts with the full history carrier, pairing and complementary cuts.
+It proves dependent query transport, failure of the actual-hal query
+to descend through its stated coarse observer, a minimal one-coordinate
+linear repair, and typed zero-specialization preserving the histories.
+
+[Coverage](research/panini_grammar/vowel_modals/COVERAGE.json) reaches
+**9,460 written verbal positions /609 distinct bounded-rule IDs**.
+PG25/26 now cover I/O/B for all **38 exact roots /44 profiles** in
+PG10's admitted inventory: **1,188 positions already included** in
+the total. This does not close all adādi or the whole grammar.
+[Source decisions](research/panini_grammar/vowel_modals/SOURCE_REVIEW.md),
+[literal records](research/panini_grammar/vowel_modals/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/vowel_modals/SOURCE_PINS.json)
+retain contradictory tokens and the selected resolved-modal-ī policy.
+[T144/T145 review](research/panini_grammar/vowel_modals/COMPANION_UPDATE.md)
+credits the companion's future/liṭ/conditional work, attributes its
+reported counts and flags the liṭ residue-breakdown discrepancy.
+[Work/frontier](research/panini_grammar/vowel_modals/WORK_RECORD.md)
+continues written family development with grammar/navigation/operator
+tests and certificate replay deferred.
+
+## PG25: abhyasta modals and source-qualified family assembly
+
+[PG25](research/panini_grammar/abhyasta_modals/README.md) constructs
+ordinary loṭ, vidhiliṅ and blessing-loṭ for **15 exact roots /19
+qualified pada profiles**. Its [domain and interfaces](research/panini_grammar/abhyasta_modals/DOMAIN_AND_INTERFACES.md)
+retain twelve owned ślu copies and three lexical-abhyasta designations.
+[Stem construction](research/panini_grammar/abhyasta_modals/STEMS_AND_CHOICES.md)
+separates hāk's hi/y/tāt choices, bhī's optional shortening,
+daridrā's mandatory i, pṝ/pṛ and the light-upadhā scope of 7.3.87.
+[Owned readout](research/panini_grammar/abhyasta_modals/OWNED_READOUT.md)
+derives the vowel seams, consonant contacts and selected cakādhi account.
+The [complete register](research/panini_grammar/abhyasta_modals/PARADIGMS.md)
+adds **513 positions /570 written readings**.
+
+The [native construction](research/panini_grammar/abhyasta_modals/NATIVE_FAMILIES.md)
+starts with the full history carrier, pairing and complementary cuts.
+It proves source-qualified block assembly and typed zero-recovery,
+constructs dependent ending-choice fibres and shows why the guṇa query
+cannot descend through an observer that forgets its target type.
+Reuse requires the declared source/owner/guard interface; a new root
+is not admitted merely by fitting a stem template.
+
+[Coverage](research/panini_grammar/abhyasta_modals/COVERAGE.json) reaches
+**8,596 written verbal positions** and **574 distinct bounded-rule IDs**.
+Across PG22/25, all fifteen class-3 roots admitted in PG8/10/11 now
+have I/O/B constructions: **21 profiles /567 positions**, a subtotal,
+not an additional count or closure of every Dhātupāṭha class-3 entry.
+[Source decisions](research/panini_grammar/abhyasta_modals/SOURCE_REVIEW.md),
+[literal records](research/panini_grammar/abhyasta_modals/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/abhyasta_modals/SOURCE_PINS.json)
+preserve lexical qualifications and contradictory source tokens.
+[T143 integration](research/panini_grammar/abhyasta_modals/COMPANION_UPDATE.md)
+credits the repaired guards and attributes its 5,373/5,373 comparison;
+complete optional sets and native adapters remain open.
+[Work/frontier](research/panini_grammar/abhyasta_modals/WORK_RECORD.md)
+records the next family block and deferred grammar/navigation/operator
+verification. No whole-grammar completion percentage is claimed.
+
+## PG24: consonant modals, ending descent and minimal observer repair
+
+[PG24](research/panini_grammar/consonant_modals/README.md) constructs
+ordinary loṭ, vidhiliṅ and blessing-loṭ for eight exact roots and
+twelve qualified pada profiles. Its [domain](research/panini_grammar/consonant_modals/DOMAIN_AND_ENDINGS.md)
+retains directed ending descent: īḍ/īś loṭ dhvam carries dhve
+ancestry, while the original laṅ query control does not. The control
+is not an additional paradigm. [Augments and stems](research/panini_grammar/consonant_modals/STEMS_AND_AUGMENTS.md)
+derive the host-qualified iṭ and mṛj's strong, weak-vowel optional
+and weak-consonant partitions. The optative retains mṛjyāt.
+
+[Contact derivations](research/panini_grammar/consonant_modals/CONSONANT_READOUT.md)
+distinguish duh/dih's plain dhi from dhv, retain lih's root-owned
+ḍh-lopa cause and local ṣṭutva permission, and derive the remaining
+retroflex/voicing contacts. The [complete register](research/panini_grammar/consonant_modals/PARADIGMS.md)
+has **324 new positions /336 written readings**, including two extra
+weak-vowel readings and ten added tāt readings. No additional optional
+8.4.65 collapse is admitted on this domain.
+
+The [native construction](research/panini_grammar/consonant_modals/NATIVE_CONSONANT.md)
+starts on the full history carrier with pairing and complementary
+cuts. It proves typed zero-recovery and a sharp **three-coordinate
+linear repair bound** for the stated six-history observer and its
+three source eligibility cuts. This is not a universal storage bound
+or a nonlinear-encoding theorem.
+
+[Coverage](research/panini_grammar/consonant_modals/COVERAGE.json)
+extends the cumulative verbal position inventory to **8,083**. All
+selected operative IDs already occur in PG23's combined register,
+so bounded rule reach remains **569/3,983**, not whole-grammar closure.
+[Sources](research/panini_grammar/consonant_modals/SOURCE_REVIEW.md),
+[literal extracts](research/panini_grammar/consonant_modals/SOURCE_EXCERPTS.json)
+and [pins](research/panini_grammar/consonant_modals/SOURCE_PINS.json)
+preserve source choices and damaged spellings.
+[Companion integration](research/panini_grammar/consonant_modals/COMPANION_UPDATE.md)
+uses unchanged T142 and distinguishes its mṛj residual label from
+the selected primary account. The [work/frontier record](research/panini_grammar/consonant_modals/WORK_RECORD.md)
+sets the larger written-grammar work queue. Grammar, navigation and
+canonical-engine reruns remain deferred by owner priority; no new
+runtime PASS, formal verification or whole-grammar completion is claimed.
+
+## PG23: lexical modal exceptions, effective markers and combined progress
+
+[PG23](research/panini_grammar/lexical_modals/README.md) constructs
+ordinary loṭ, vidhiliṅ and blessing-loṭ for nine exact roots /ten
+qualified pada profiles: han, śās, rud/svap/śvas/an/jakṣ, brū and śī.
+Its [domain](research/panini_grammar/lexical_modals/DOMAIN.md) retains
+meaning, lexical identity, actor/pada evidence and controller before form.
+[Markers and augments](research/panini_grammar/lexical_modals/MARKERS_AND_AUGMENTS.md)
+distinguish historical from effective pit, val-sensitive iṭ, hal/pit īṭ,
+lexical weak-context guṇa and actual-host ruṭ.
+
+[Exception derivations](research/panini_grammar/lexical_modals/EXCEPTION_DERIVATIONS.md)
+give whole han→ja and śās→śā before hi, original-source visibility,
+named abhyasta without invented copies, and the actual modal vowel/y
+boundaries. The [complete register](research/panini_grammar/lexical_modals/PARADIGMS.md)
+has **270 positions /286 readings**, including sixteen added tāt
+readings. [Native proofs](research/panini_grammar/lexical_modals/NATIVE_LEXICAL.md)
+construct the full carrier, pairing and complementary cuts, prove the
+typed zero-law and isolate three finite observation losses: current a,
+historical pit and visible r do not retain their source/ownership cuts.
+
+[Combined progress](research/panini_grammar/lexical_modals/PROGRESS.md)
+and its [auditable register](research/panini_grammar/lexical_modals/PROGRESS_REGISTER.json)
+include development awaiting verification: **569 distinct bounded-rule
+IDs and 7,759 formation/meaning-distinguished verbal positions**.
+The rule ratio is 569/3,983 ≈14.3% of the pinned inventory, not a
+whole-grammar completion percentage. The register removes stated overlaps,
+keeps merely cited ledger entries separate and does not add overlapping
+companion test cells to written positions.
+
+[Sources](research/panini_grammar/lexical_modals/SOURCE_REVIEW.md),
+[pins](research/panini_grammar/lexical_modals/SOURCE_PINS.json) and
+[literal extracts](research/panini_grammar/lexical_modals/SOURCE_EXCERPTS.json)
+preserve commentary attribution and the exact śī/brū anomalies.
+[theorem branch through T142](research/panini_grammar/lexical_modals/COMPANION_UPDATE.md)
+credits the repaired strong/āṭ predicates and records source-specific
+remaining tasks. The [work record](research/panini_grammar/lexical_modals/WORK_RECORD.md)
+keeps grammar/navigation/operator tests and certificate replay deferred.
+Broader lexical moods, source-priority resolution and independent/formal
+validation remain open; canonical engine and frozen evidence are unchanged.
 
 ## Śaiva sources, the sūtra as an instruction, and the Vedāṅgas: Theorems 78–154
 

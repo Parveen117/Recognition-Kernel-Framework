@@ -47,7 +47,7 @@ Final direct review covers the manuscript's rule guards, ownership,
 case partitions, table transcription, source/dependency locations and
 the staged patch, including `git diff --check`. That textual review
 does not upgrade historical implementation evidence. Publication is on
-the existing Codex review branch with `[skip ci]`; main merge is deferred.
+the existing construction review branch with `[skip ci]`; main merge is deferred.
 
 ## Coverage accounting
 

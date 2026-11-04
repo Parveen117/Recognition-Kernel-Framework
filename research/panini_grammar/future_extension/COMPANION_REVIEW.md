@@ -117,7 +117,7 @@ commentary steps and the needed in-stem nominal construction; proceed
 to taddhita with exact lexical/sense/affix domains and the same native
 carrier. Keep written source derivations ahead of Python certificates.
 
-Codex continues finite verbal grammar: PG17's coupled basic futures and
+The construction branch continues finite verbal grammar: PG17's coupled basic futures and
 causative futures, followed by bhāva/karma future construction. Preserve
 the branch separation and historical source evidence during any later
 integration. The companion's renamed review paths are acknowledged here;

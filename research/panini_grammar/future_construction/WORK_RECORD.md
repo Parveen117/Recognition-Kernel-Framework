@@ -45,7 +45,7 @@ The unrun repository navigation/engine commands remain unclaimed.
 Direct final review is limited to the new mathematical/source text,
 paradigm transcription, file/link locations, the staged patch and
 `git diff --check`. It does not upgrade the proof status or old evidence.
-The work is published only on the existing Codex review branch; a
+The work is published only on the existing construction review branch; a
 `[skip ci]` commit requests no hosted campaign. Main merge is deferred.
 
 ## Coverage must not be conflated
