@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG53 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG54 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG53 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG54 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,25 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG54: उदमेघ descent and source-qualified य् deletion
+
+[PG54](research/panini_grammar/udamegha_apatya_histories/README.md) constructs
+**उदमेघ → औदमेघि → औदमेघ्या → औदमेघेय** on the explicit
+आदेश and प्रत्यय policies: two histories and eight controls, **ten written units**.
+The old ष्यङ्-owned य् is deleted; the new य् of ढक्'s एय survives.
+The second policy needs the semantic justification quoted by Padamañjarī;
+its cited cross-reference is not independently recovered in this digital edition.
+
+[Native continuation](research/panini_grammar/udamegha_apatya_histories/DOMAIN_AND_NATIVE.md)
+distinguishes source-policy history, prescribed suffix identity and current onset,
+and applies the inherited zero-reading/pairing proof on the new domain.
+[Sources](research/panini_grammar/udamegha_apatya_histories/SOURCE_EXCERPTS.json) add **34 literal fields**;
+one inspected empty field is not counted. [State](research/panini_grammar/udamegha_apatya_histories/STATE.json)
+inherits both **3,983-ID sets** and **11,552 positions**, with zero new ID/position
+credit. The companion remains at T160. Changed-document checks use Python 3.12;
+grammar tests, generators, replay and navigation/operator suites remain deferred.
+The separate हास्तिशीर्ष्य history is the next bounded construction.
 
 ## PG53: owned गन्ध compounds and descent preparation
 

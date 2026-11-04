@@ -1018,6 +1018,21 @@ requires **Python 3.12 only** for Python checks/tests, and keeps grammar tests,
 generators, replay and navigation/operator suites deferred. The T160 report and
 its remaining status inconsistency are recorded separately from execution here.
 
+**उदमेघ descent and source-qualified य् deletion:**
+
+[PG54](udamegha_apatya_histories/README.md) constructs
+**उदमेघ → औदमेघि → औदमेघ्या → औदमेघेय** on two explicit ष्यङ्
+policies. Two histories and eight controls give **ten written units**. The old
+य् is removed while the new य् in ढक्'s एय survives. The second policy
+uses the semantic justification quoted by Padamañjarī; the limits of its cited
+cross-reference are recorded. [Native continuation](udamegha_apatya_histories/DOMAIN_AND_NATIVE.md)
+retains policy/owner/view distinctions and the inherited zero-reading proof.
+[Sources](udamegha_apatya_histories/SOURCE_EXCERPTS.json) add **34 literal fields**;
+[state](udamegha_apatya_histories/STATE.json) inherits both **3,983-ID sets / 11,552 positions**
+without new ID/position credit. T160 is unchanged. Changed-document checks use
+Python 3.12 only; grammar tests, generators, replay and navigation/operator suites
+remain deferred. The next separate source-policy history is हास्तिशीर्ष्य.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
