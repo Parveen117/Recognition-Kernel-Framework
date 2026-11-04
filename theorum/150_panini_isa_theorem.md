@@ -59,3 +59,5 @@ THAT THE CATALOGUE IS THE ONLY READING; THAT THE GUARDS ARE A FINITE INSTRUCTION
 *Note (theorum/161).* Re-pinned again by theorum/161 (`5661a4b2…`) with the verbal table's five new rows and the nominal table's idam rows restricted to the pronoun; the previous pin `0b03696e…` holds at commit fe99fa9.
 
 *Note (theorum/162).* Re-pinned again by theorum/162 (`7b826f6e…`); the previous pin `5661a4b2…` holds at commit 6469a92.
+
+*Note (theorum/163).* Re-pinned again by theorum/163 (`d6a39b60…`). The pin `7b826f6e…` holds at commit cc7b39b.

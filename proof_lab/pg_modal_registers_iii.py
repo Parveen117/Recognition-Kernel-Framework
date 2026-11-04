@@ -58,7 +58,8 @@ KEYS = {"dviṣ": {"P": "dviṣ2", "A": "dviṣ2A"}, "duh": {"P": "duh2", "A": "
         "ric": "ric", "vic": "vic", "kṣud": "kṣud", "chṛd": "chṛd", "tṛd": "tṛd", "kṛt": "kṛt", "indh": "indh", "khid": None, "vid": None, "bhañj": None, "und": "und", "añj": "añj", "tañc": None, "vij": None, "vac": "vac2"}
 OPTIONS = {"ru": "7.3.95 turustuśamyamaḥ sārvadhātuke (rautu / ravītu)", "tu": "7.3.95 (tautu / tavītu)", "stu": "7.3.95 (stautu / stavītu; stutām / stuvītām)", "ūrṇu": "7.3.90 ūrṇoter vibhāṣā (ūrṇautu / ūrṇotu)",
            "mṛj": "7.2.114 mṛjer vṛddhiḥ with the vārttika mṛjer vibhāṣā (mṛjantu / mārjantu)", "kṣud": "8.4.65 jharo jhari savarṇe (kṣunttām / kṣuntām)", "chṛd": "8.4.65 (chṛnttām / chṛntām)", "tṛd": "8.4.65 (tṛnttām / tṛntām)", "kṛt": "8.4.65 (kṛnttām / kṛntām)",
-           "kas": "8.4.65 (kaṃssva / kaṃsva)", "nis": "8.4.65 (niṃssva / niṃsva)", "indh": "8.4.65 (inddhām / indhām; indh declared by theorum/160)", "und": "8.4.65 (unttam / untam; und declared by theorum/160)"}
+           "kas": "8.4.65 (kaṃssva / kaṃsva)", "nis": "8.4.65 (niṃssva / niṃsva)", "indh": "8.4.65 (inddhām / indhām; indh declared by theorum/160)", "und": "8.4.65 (unttam / untam; und declared by theorum/160)",
+           "khid": "8.4.65 (khinttām / khintām, khinddhvam / khindhvam; khid declared by theorum/163)", "vid7": "8.4.65 (vinttām / vintām, vinddhvam / vindhvam; the class-7 vid declared by theorum/163)"}
 SOURCES = {"7.3.95": "turustuśamyamaḥ sārvadhātuke", "7.3.90": "ūrṇoter vibhāṣā", "7.2.114": "mṛjer vṛddhiḥ", "8.4.65": "jharo jhari savarṇe", "7.1.35": "tuhyos tātaṅṅ āśiṣy anyatarasyām"}
 
 
@@ -68,6 +69,13 @@ def written_constructors_checked() -> dict[str, bool]:
         flat = re.sub(r"\s+", "", (PG / rel).read_text(encoding="utf-8")).replace("\\", "")
         out[name] = quoted.replace(" ", "").replace("\\", "") in flat
     return out
+
+
+ADJUDICATED = {   # written cells the table does not reproduce, adjudicated against the source (theorum/163)
+    **{f"vṛj_1020022,_no_num-A:loṭ:{c}": {"written": w, "ours": o, "verdict": "the table's form",
+       "reason": "the guṇa of ṛ is ar (1.1.2 adeṅ guṇaḥ, 1.1.51 ur aṇ raparaḥ) before the pit ātmanepada ai (7.3.84 sārvadhātukārdhadhātukayoḥ): varj-; the written line's vraj- has no sūtra (a metathesis); vidyut-prakriya 0.4.0 gives varjai"}
+      for c, w, o in (("1s", "vrajai", "varjai"), ("1d", "vrajāvahai", "varjāvahai"), ("1p", "vrajāmahai", "varjāmahai"))},
+}
 
 
 def key_for(root: str, pada: str | None):
@@ -200,7 +208,8 @@ def pg27() -> dict[str, Any]:
         label = m.group(1); root = label.split(",")[0].split(" ")[0]
         W, G, T, Z, D = [PMR.parse_set(x) for x in m.groups()[1:]]
         rid = label.replace(" ", "_")
-        rows += 1; compare(rid + "-A", root if "1020014" not in label else "kas-num", pada := "A", "loṭ", [A(W, G, T, Z, D)], st, br, und, opt, dis); bindings.append((rid, root if "1020014" not in label else "kas-num", "A", W))
+        root = "kas-num" if "1020014" in label else "vṛj-num" if "1020023" in label else root   # the two Dhātupāṭha entries of vṛj (02.0022 vṛjī, 02.0023 vṛji: idit, 7.1.58 num) are two roots of the table (theorum/163)
+        rows += 1; compare(rid + "-A", root, pada := "A", "loṭ", [A(W, G, T, Z, D)], st, br, und, opt, dis); bindings.append((rid, root, "A", W))
     for line in sec(text, "## P2", "## P3").splitlines():
         m = re.match(r"\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|" + r"\s*([^|]+?)\s*\|" * 6, line)
         if not m or m.group(1).startswith(("Root", "---")):
@@ -227,6 +236,8 @@ def pg27() -> dict[str, Any]:
 
 
 KEYS.update({"kas-num": None, "vid7": None, "vṛj7": None, "pṛc7": None, "vid2": "vid2"})   # vid2 (vetti) declared by theorum/162; und, indh by theorum/160
+KEYS.update({"vṛj-num": "vṛj2n", "nij": "nij2", "śij": "śij2", "pij": "pij2", "pṛj": "pṛj2", "vṛj": "vṛj2", "pṛc": "pṛc2", "su": "su2", "ku": "ku2", "śrā": "śrā2", "rā": "rā2", "dāp": "dāp2", "prā": "prā2",
+             "khid": "khid7", "vid7": "vid7", "bhañj": "bhañj7", "tañc": "tañc7", "vṛj7": "vṛj7", "pṛc7": "pṛc7"})   # theorum/163: declared from the Dhātupāṭha by the gaṇa sweep (the lanes their oracle)
 
 
 def build_certificate() -> dict[str, Any]:
@@ -236,7 +247,12 @@ def build_certificate() -> dict[str, Any]:
     for v in r.values():
         for k, n in v["statuses"].items():
             tot[k] += n
-    tot["other_branch_of_an_option"] = sum(len(v["other_branch_of_an_option"]) for v in r.values()); tot["to_adjudicate"] = sum(len(v["to_adjudicate"]) for v in r.values())
+    adjudicated = {}
+    for p, v in r.items():
+        for k, d in list(v["to_adjudicate"].items()):
+            if k in ADJUDICATED and ADJUDICATED[k]["written"] in d["written"] and ADJUDICATED[k]["ours"] == d["ours"]:
+                adjudicated[f"{p}:{k}"] = {**d, **ADJUDICATED[k]}; del v["to_adjudicate"][k]
+    tot["other_branch_of_an_option"] = sum(len(v["other_branch_of_an_option"]) for v in r.values()); tot["to_adjudicate"] = sum(len(v["to_adjudicate"]) for v in r.values()); tot["adjudicated"] = len(adjudicated)
     mixed = {f"{p}:{k}": v for p, pk in r.items() for k, v in pk["branch_rows"].items() if not v["uniform"]}
     tot["branch_rows"] = sum(len(v["branch_rows"]) for v in r.values()); tot["branch_rows_mixed"] = len(mixed)
     und = Counter()
@@ -247,7 +263,7 @@ def build_certificate() -> dict[str, Any]:
               "every_option_cell_names_its_sutra": all(any(o["option"].startswith(s) for s in SOURCES) for v in r.values() for o in v["other_branch_of_an_option"].values())}
     status = "PASS_PG_MODAL_REGISTERS_III_CANDIDATE" if all(checks.values()) else "FAIL_PG_MODAL_REGISTERS_III_CANDIDATE"
     return {"schema": "rkf.pg_modal_registers_iii_candidate.v1", "status": status, "checks": checks, "written_constructors": {k: v[1] for k, v in WRITTEN.items()}, "written_constructors_checked": checked,
-            "sources": SOURCES, "options": OPTIONS, "packets": r, "totals": dict(tot), "roots_not_declared_by_the_verbal_table": dict(sorted(und.items())), "branch_rows_the_table_realises_mixed": mixed,
+            "sources": SOURCES, "options": OPTIONS, "packets": r, "totals": dict(tot), "adjudicated": adjudicated, "roots_not_declared_by_the_verbal_table": dict(sorted(und.items())), "branch_rows_the_table_realises_mixed": mixed,
             "claim_boundary": {
                 "proved_by_exact_finite_certificate": ["PG24 §P1–P2, PG26 §P1–P4 and PG27 §P1–P4 expand from the packets' own tuples and constructors (quoted, found in the files) to the positions counted here; every position on a declared root and pada is replayed by the verbal table; the agreements, the other-branch cells (named by sūtra) and every disagreement (both forms) are listed; the undeclared roots and the positions outside the table are counted by reason"],
                 "counted_not_claimed": ["the counts: on the packets in the repository at this commit"],

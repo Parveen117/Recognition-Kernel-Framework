@@ -18,6 +18,8 @@ class T129Tests(unittest.TestCase):
     def test_suite_equals_the_certified_oracles(self) -> None:
         O = oracles()
         for r, lak, cells, pada in SUITE:
+            if not cells:   # a root declared from the Dhātupāṭha with no suite cell: the lanes are its oracle (theorum/163)
+                continue
             exp = W_ORACLE[(r, lak, pada)] if (r, lak, pada) in W_ORACLE else (NASAL[r][3] if r in NASAL else (V_ORACLE[(r, pada)] if (lak == "laṭ" and (r, pada) in V_ORACLE) else O[r][lak]))
             got = paradigm(r, lak, cells=cells, pada=pada)
             for c in cells:   # a set: the written line's alternatives, the table's form one of them (theorum/160)

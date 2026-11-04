@@ -267,6 +267,19 @@ GANA = {"ad": 2, "as": 2, "hu": 3, "dā": 3, "dhā": 3, "rudh": 7, "bhid": 7, "r
         "nṛt": 4, "chid": 7, "yuj": 7, "śiṣ": 7, "piṣ": 7, "und": 7, "bhuj": 7, "indh": 7,   # theorum/160
         "iṣ6": 6, "tṛh": 7,   # theorum/161
         "vid2": 2, "añj": 7, "cakṣ": 2}   # theorum/162   # declared from the Dhātupāṭha; absent = bhvādi
+DHATUPATHA_ROOTS = {   # theorum/163: roots declared from the Dhātupāṭha by the gaṇa sweep (research/independent_oracle/gana_sweep.py) — no written-line
+    # cell; the seven lanes are their oracle (declared, implementation grade). key: (upadeśa, pada, gaṇa, Dhātupāṭha code as vidyut numbers it)
+    "nij2": ("ṇiji~", "A", 2, "02.0018"), "śij2": ("śiji~", "A", 2, "02.0019"), "pij2": ("piji~", "A", 2, "02.0020"), "pṛj2": ("pṛji~", "A", 2, "02.0021"),
+    "vṛj2": ("vṛjī~", "A", 2, "02.0022"), "vṛj2n": ("vṛji~", "A", 2, "02.0023"), "pṛc2": ("pṛcī~", "A", 2, "02.0024"), "su2": ("ṣu", "P", 2, "02.0036"), "ku2": ("ku", "P", 2, "02.0037"),
+    "śrā2": ("śrā", "P", 2, "02.0048"), "rā2": ("rā", "P", 2, "02.0052"), "dāp2": ("dāp", "P", 2, "02.0054"), "prā2": ("prā", "P", 2, "02.0056"), "sas2": ("ṣasa~", "P", 2, "02.0073"),
+    "ghṛ3": ("ghṛ", "P", 3, "03.0015"), "hṛ3": ("hṛ", "P", 3, "03.0016"), "ki3": ("ki", "P", 3, "03.0020"), "kit3": ("kita~", "P", 3, "03.0021"), "tur3": ("tura~", "P", 3, "03.0022"),
+    "dhiṣ3": ("dhiṣa~", "P", 3, "03.0023"), "dhan3": ("dhana~", "P", 3, "03.0024"),
+    "khid7": ("khida~", "A", 7, "07.0012"), "vid7": ("vida~", "A", 7, "07.0013"), "bhañj7": ("bhanjo~", "P", 7, "07.0016"), "tañc7": ("tancū~", "P", 7, "07.0022"),
+    "vṛj7": ("vṛjī~", "P", 7, "07.0024"), "pṛc7": ("pṛcī~", "P", 7, "07.0025"),
+    "tṛṇu8": ("tṛṇu~", "U", 8, "08.0006"), "ghṛṇu8": ("ghṛṇu~", "U", 8, "08.0007"),
+}
+for _k, (_up, _pd, _g, _code) in DHATUPATHA_ROOTS.items():
+    ROOTS[_k] = (_up, _pd); GANA[_k] = _g
 GHU = {"dā", "dhā"}   # 1.1.20 dādhā ghv adāp
 SAM_LIST = {"śam", "tam", "dam", "śram", "bhram", "kṣam", "klam", "mad"}   # 7.3.74 śamām aṣṭānām
 PU_LIST = {"pū", "lū", "stṝ", "kṝ", "vṝ", "dhū", "śṝ", "pṝ", "bhṝ", "mṝ", "dṝ", "jṝ", "jhṝ", "dhvṝ", "nṝ", "ṝ", "gṝ", "jyā", "rī", "lī", "vlī", "plī"}   # 7.3.80 pvādi (the Dhātupāṭha sub-list, declared)
@@ -800,6 +813,7 @@ W_ORACLE.update({
     ("cakṣ", "laṭ", "A"): {"3s": "caṣṭe", "3d": "cakṣāte", "3p": "cakṣate", "2s": "cakṣe", "2p": "caḍḍhve", "1d": "cakṣvahe", "1p": "cakṣmahe"}, ("cakṣ", "loṭ", "A"): {"3s": "caṣṭām", "2s": "cakṣva", "2p": "caḍḍhvam", "1s": "cakṣai"}, ("cakṣ", "liṅ", "A"): {"3s": "cakṣīta"},   # PG11 lexical_present (reference cases); PG27 §P1 / P4
 })
 SUITE = [(r, l, cs, None) if len(e) == 3 else e for e in SUITE for r, l, cs in [e[:3]]] + [(r, "laṭ", list(cells), pada) for (r, pada), cells in V_ORACLE.items()] + SUITE_NASAL + [(r, l, list(cells), pd) for (r, l, pd), cells in W_ORACLE.items()]
+SUITE += [(k, "laṭ", [], pd) for k, (_up, _pd, _g, _c) in DHATUPATHA_ROOTS.items() for pd in (("P", "A") if _pd == "U" else (_pd,))]   # theorum/163: no suite cell, the lanes are the oracle; the entry declares the (root, pada) to the lane builders and the replays
 
 
 KARMANI_LANE_FILE = Path(__file__).resolve().parent.parent / "research" / "independent_oracle" / "VIDYUT_KARMANI_LANE.json"
@@ -1012,7 +1026,7 @@ def build_certificate() -> dict[str, Any]:
     checks = {f"{k}_all_checks": all(v["checks"].values()) for k, v in packets.items()}
     status = "PASS_TING_RULE_TABLE_ENGINE_CANDIDATE" if all(checks.values()) else "FAIL_TING_RULE_TABLE_ENGINE_CANDIDATE"
     return {
-        "schema": "rkf.ting_rule_table_engine_candidate.v1", "status": status, "sources": SOURCES, "rule_order": IDS, "roots": ROOTS,
+        "schema": "rkf.ting_rule_table_engine_candidate.v1", "status": status, "sources": SOURCES, "rule_order": IDS, "roots": ROOTS, "dhatupatha_lane_only_roots": DHATUPATHA_ROOTS,
         "claim_boundary": {
             "proved_by_exact_finite_certificate": [
                 f"one rule table of {len(IDS)} rows (each a quoted sūtra as guard + action) and one driver reproduce the 325 cells of the certified paradigms of bhū, gam, nī, kṛ (parasmaipada) and edh, labh (ātmanepada) — the present system laṭ, laṅ, loṭ, vidhiliṅ (180 cells: theorum/64, 66, 95, 96, 99), the ārdhadhātuka lṛṭ, luṭ, āśīrliṅ, luṅ (125 cells: theorum/97, 101, 112, 115, 116, 117) and liṭ (20 cells: theorum/102) — exactly from the earlier pinned packets, and the 79 laṭ cells of the vikaraṇa classes (pac; div, siv, śam; tud, nud; cur; su, ci, śru, āp, śak; tan, kṛ; krī, pū, lū) and the 101 laṭ cells of adādi (ad, as), juhotyādi (hu, dā, dhā) and rudhādi (rudh, bhid, ric, vic, kṣud, chṛd, tṛd, kṛt, hiṁs), and the 91 quoted cells of 86 further svādi / tanādi / kryādi entries (research/panini_grammar/nasal_present), and the 136 quoted cells of 38 adādi u- / ā- / i-roots and juhotyādi entries (research/panini_grammar/present_expansion, lexical_present), and the 176 quoted cells of 32 adādi consonant-root entries (research/panini_grammar/lexical_present), declared from the grammar-verification branch's quoted present tables (Kāśikā / Kaumudī / Laghukaumudī anchors in research/panini_grammar/vikarana_lat, non_thematic_lat, exception_lat, abhyasa_lat, snam_lat); every row is load-bearing on at least one cell (per-row broken sets recorded)",

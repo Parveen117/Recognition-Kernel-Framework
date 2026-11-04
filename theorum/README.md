@@ -138,6 +138,7 @@ The advanced numbered surface now runs through Theorem 80:
 88. **160 — tiṅ rule-table engine XXII: twenty roots of the written line declared.** hṛ, budh, kṛṣ, vand, mud, īkṣ, īh, vṛt, vṛdh, śṛdh, syand, svṛ, nṛt, chid, yuj, śiṣ, piṣ, und, bhuj, indh; 108 of the written line's cells in the suite (1,006 / 1,006); 7.2.59 and 7.4.10 added, 3.1.36 and 3.1.55 extended; the open-lane builder restored and the five lanes rebuilt (new roots' 5,158 cells all agree with vidyut); theorems 150, 154–157 re-pinned — 2,573 written positions on the new roots, 2,569 agree, 4 adjudicated to the table.
 89. **161 — tiṅ rule-table engine XXIII: five roots of the written line with their rows.** sthā, pā, kṛp, iṣ, tṛh declared by 7.3.78, 7.3.37, 6.4.66 / 6.4.67, 8.2.18, 7.2.60, 7.3.77, 7.3.92; 1,038 / 1,038 suite cells; the five verbal lanes rebuilt (the new roots' 1,217 cells all agree); the kṛt (1,977 / 1,985) and kṛdanta (56,870 / 58,036) lanes rebuilt on the forty-five new roots; the nominal table's idam rows restricted to the pronoun; ISA, kṛt, kṛdanta and theorems 154–157 re-pinned.
 90. **162 — tiṅ rule-table engine XXIV: vid, añj, cakṣ declared with their rows.** 2.4.54 *cakṣiṅaḥ khyāñ* and 8.2.29 on the root-final kṣ added, 3.4.109, 3.1.52, 6.4.120 extended; 1,072 / 1,072 suite cells; the seven lanes rebuilt under one interpreter, the new roots' 270 kartari cells all agree; theorem 159's replay 1,043 / 1,043, theorem 154's nine vid laṭ cells the other branch of 3.4.83; cakṣ before yak / ṇic / san and the kṛt affixes (the table reads 2.4.54 as pinned, vidyut keeps cakṣ) recorded to adjudicate; ISA, kṛt, kṛdanta and theorems 154–156, 159 re-pinned.
+91. **163 — gaṇa sweep I: adādi, juhotyādi, rudhādi, tanādi from the Dhātupāṭha.** Every undeclared root of the four gaṇas compared with the table on 234 cells each; 29 declared whole with the lanes as their oracle, 13 inventoried by the sūtras their residue points to; theorem 159's replay 1,385 / 1,382 (3 adjudicated: *varjai*, not *vrajai*); the re-pin cascade one command.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -185,7 +186,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-162                           PRESENT
+NUMBERED THEOREM FILES 01-163                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT

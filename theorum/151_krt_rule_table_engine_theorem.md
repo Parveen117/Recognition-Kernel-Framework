@@ -60,3 +60,5 @@ daridrā, śvasta, mṛditvā / mṛḍitvā; śatṛ / śānac, lyuṭ, ghañ, 
 *Note (theorum/161).* The kṛt table is re-pinned by theorum/161 (`6960478f…`): its lane rebuilt on the roots theorums 160–161 declared (1,985 cells, 1,977 agree — the old residue of 7 and syand's ktvā), 8.2.18 *kṛpo ro laḥ* added as a row (kḷpta, kalpanīya) and 6.4.66 reaching the class-1 pā (pīta). The pin `f6ec030c…` holds at commit fe99fa9.
 
 *Note (theorum/162).* Re-pinned again by theorum/162 (`43173c58…`): the lane rebuilt on the forty-eight declared roots (2,012 cells, 2,004 agree), 8.2.29 on the root-final kṣ added (*caṣṭa, caṣṭum*); the table does not read 2.4.54's khyā before a kṛt affix (recorded). The pin `6960478f…` holds at commit 6469a92.
+
+*Note (theorum/163).* Re-pinned again by theorum/163 (`f0f4a4c2…`): the lane 2,265 / 2,275. The pin `43173c58…` holds at commit cc7b39b.

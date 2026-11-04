@@ -30,7 +30,7 @@ class T159Tests(unittest.TestCase):
         payload = build_certificate()
         self.assertEqual(payload["status"], "PASS_PG_MODAL_REGISTERS_III_CANDIDATE")
         t = payload["totals"]
-        self.assertEqual((t["positions"], t["replayed"], t["agree"], t["to_adjudicate"], t["other_branch_of_an_option"]), (1457, 1043, 1043, 0, 75))
+        self.assertEqual((t["positions"], t["replayed"], t["agree"], t["to_adjudicate"], t["other_branch_of_an_option"]), (1457, 1385, 1382, 0, 79))
         self.assertEqual(payload["branch_rows_the_table_realises_mixed"], {})
         digest = hashlib.sha256(canonical_bytes(payload)).hexdigest()
         self.assertEqual(digest, certificate_sha256(payload))

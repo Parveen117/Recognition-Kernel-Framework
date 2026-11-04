@@ -40,6 +40,7 @@ SOURCES = {   # the sūtras named as the options the two lines realised on diffe
     "3.4.84": "bruvaḥ pañcānām ādita āho bruvaḥ", "7.2.114": "mṛjer vṛddhiḥ", "3.1.82": "stanbhustunbhuskanbhuskunbhuskuñbhyaḥ śnuś ca", "7.3.95": "turustuśamyamaḥ sārvadhātuke",
     "7.3.90": "ūrṇoter vibhāṣā", "6.4.115": "bhiyo 'nyatarasyām", "6.4.116": "jahāteś ca", "8.4.65": "jharo jhari savarṇe",
     "8.2.40": "jhaṣas tathor dho 'dhaḥ", "8.4.53": "jhalāṁ jaś jhaśi",   # theorum/160: the adjudication of indhe / inddhe
+    "3.1.79": "tanādikṛñbhya uḥ",   # theorum/163: the ṛṇu / tṛṇu / ghṛṇu option
     "3.4.83": "vido laṭo vā",   # theorum/162: vid declared
 }
 OPTIONS = {   # lexical id → the sūtra whose option the two lines realised on different branches (both forms the grammar's)
@@ -49,6 +50,8 @@ OPTIONS = {   # lexical id → the sūtra whose option the two lines realised on
     "1030002": "6.4.115 bhiyo 'nyatarasyām (bibhitaḥ / bibhītaḥ)", "1030009": "6.4.116 jahāteś ca (jahitaḥ / jahītaḥ)",
     "1070001": "8.4.65 jharo jhari savarṇe (runddhaḥ / rundhaḥ: the d before dh optionally dropped)", "1070006": "8.4.65 (kṣuntte / kṣunte)", "1070008": "8.4.65 (chṛntte / chṛnte)", "1070009": "8.4.65 (tṛntte / tṛnte)",
     "1070020": "8.4.65 (unttaḥ / untaḥ; und declared by theorum/160)",
+    "1080006": "3.1.79 tanādikṛñbhya uḥ: the u of tṛṇu read as the root's final (then the ṛ is no upadhā for 7.3.86: tṛṇoti) or as the vikaraṇa alone (tarṇoti) — the generator lists both, the table realises the guṇa branch; tṛṇu declared by theorum/163 (the same for ṛṇu, ghṛṇu)",
+    "1070012": "8.4.65 (khintte / khinte; khid declared by theorum/163)", "1070013": "8.4.65 (vintte / vinte; the class-7 vid declared by theorum/163)",
     "1020059": "3.4.83 vido laṭo vā: the ṇal-series optional for vid in laṭ (veda / vetti, vidatuḥ / vittaḥ, viduḥ / vidanti, vettha / vetsi, vidathuḥ / vitthaḥ, vida / vittha, veda / vedmi, vidva / vidvaḥ, vidma / vidmaḥ — the written line realises the ṇal branch, the table the tiṅ branch; vid declared by theorum/162)",
 }
 ADJUDICATED = {   # a written reference form the table does not reproduce, adjudicated against the source (theorum/160); the kṣiṇoti case stays to adjudicate
