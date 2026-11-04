@@ -1955,6 +1955,22 @@ proof_lab/test_ting_rule_table_engine.py
 proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 ```
 
+## Theorem 159 the written modal registers replayed III — PG24's consonant-final, PG26's vowel-final and PG27's consonant-inventory loṭ / vidhiliṅ registers (adādi and rudhādi) expanded from the packets' own parametric constructors: 1,457 positions, 953 replayed by the corrected verbal table, 953 agree, 0 to adjudicate; 69 cells the other branch of a named option packet
+
+| Field | Value |
+|---|---|
+| Certificate class | the written modal registers replayed III — PG24's consonant-final, PG26's vowel-final and PG27's consonant-inventory loṭ / vidhiliṅ registers (adādi and rudhādi) expanded from the packets' own parametric constructors: 1,457 positions, 953 replayed by the corrected verbal table, 953 agree, 0 to adjudicate; 69 cells the other branch of a named option |
+| Status | `PASS_PG_MODAL_REGISTERS_III_CANDIDATE` |
+| Canonical result SHA-256 | `ea798cd7bd8be047db6dd937c4a718f39bbe5f9c464184a8a47a35b88dcc158c` |
+| Boundary | PG24 §P1–P2 (12 explicit loṭ tuples, 12 vidhiliṅ factors), PG26 §P1–P4 (U_P(R;Q) with the īṭ overlay, A_P(R), explicit A and i-vowel tuples, K / J parameters) and PG27 §P1–P4 (A(W,G,T,Z,D), P(Q,W,G,T,D), vac / vid explicit, O_P / O_A on every binding) read from the written files, the six constructors quoted and found there: 1,457 positions, 953 on declared roots replayed by the verbal table (theorem 158's pin), 953 agree, 0 to adjudicate; 69 cells the other branch of 7.3.95 / 8.4.65 / 7.3.90 / 7.2.114 (quoted); 504 positions on 28 undeclared or other-class roots and the tāt words placed outside the table — PROVED (exact, finite); which reading is right where they differ NOT CLAIMED |
+
+```text
+theorum/159_written_modal_registers_replay_iii_theorem.md
+proof_lab/pg_modal_registers_iii.py
+proof_lab/test_pg_modal_registers_iii.py
+proof_lab/PG_MODAL_REGISTERS_III_EXPECTED.sha256
+```
+
 ## Consolidated parallel-lineage index
 
 | Lineage | Canonical surface | Recorded status |

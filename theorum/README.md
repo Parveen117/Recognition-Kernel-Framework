@@ -134,6 +134,7 @@ The advanced numbered surface now runs through Theorem 80:
 84. **156 — the written modal registers replayed.** PG20's āśīrliṅ (24 rows), PG21's nasal-class loṭ / vidhiliṅ (27 rows, with the S4 / S5 stem interfaces) and PG22's athematic loṭ / vidhiliṅ (36 rows) expanded from the packets' own constructors to 1,026 positions; 693 on declared roots replayed by the verbal table, 693 agree, 0 to adjudicate; 85 cells the other branch of 3.1.82 / 3.1.79 / 8.4.65; the one mixed-branch realisation named (kṣiṇ loṭ: guṇa in the strong cells only — the kṣiṇoti / kṣeṇoti item); 15 undeclared roots and the tātaṅ forms (no 7.1.35 row) placed outside the table.
 85. **157 — the written modal registers replayed II.** PG23's lexical and PG25's abhyasta loṭ / vidhiliṅ, PG31's lṛṅ, PG32's luṅ and māṅ registers (the māṅ cells under 6.4.74 by withholding the augment rows): 999 positions, 702 replayed, 692 agree; 35 cells the other branch of 7.2.44 / 6.4.115 / 6.4.116; 10 cells (śās) adjudicated to the written form by 6.4.34 / 6.4.35 / 8.3.60 — three row defects of the verbal table named for theorem 158; 14 undeclared roots and the causal lṛṅ placed outside the table.
 86. **158 — tiṅ rule-table engine XXI: the table corrected on śās.** From the written line's register (theorem 157's ten adjudicated cells): 6.4.35 *śā hau* added, 6.4.34 extended to the ṅit yāsuṭ and excluded before hi, 8.3.60 freed of its t / v / m restriction; six Kāśikā witness cells of PG23 in the suite; 914 / 914, every lane unchanged; the table, the ISA, theorems 155 and 157 re-pinned (theorem 157 now 702 / 702).
+87. **159 — the written modal registers replayed III.** PG24's consonant-final, PG26's vowel-final and PG27's consonant-inventory adādi / rudhādi loṭ / vidhiliṅ registers expanded from the packets' own parametric constructors (U_P(R;Q) with the īṭ overlay, A_P(R), A(W,G,T,Z,D), P(Q,W,G,T,D), O_P / O_A; quoted, found in the files): 1,457 positions, 953 replayed, 953 agree, 0 to adjudicate; 69 cells the other branch of 7.3.95 / 8.4.65 / 7.3.90 / 7.2.114; 28 undeclared or other-class roots placed outside the table. All the written registers the verbal table can carry are now replayed (PG19–PG27, PG31–PG32).
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -181,7 +182,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-158                           PRESENT
+NUMBERED THEOREM FILES 01-159                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT
