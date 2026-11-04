@@ -36,7 +36,7 @@ SOURCES = {
     "1.1.24": "ṣṇāntā ṣaṭ", "1.1.47": "midaco'ntyātparaḥ", "1.1.63": "na lumatāṅgasya", "6.4.4": "na tisṛcatasṛ", "6.4.7": "nopadhāyāḥ", "7.1.21": "aṣṭābhya auś", "7.1.22": "ṣaḍbhyo luk", "7.1.53": "trestrayaḥ", "7.1.55": "ṣaṭcaturbhyaśca",
     "7.1.98": "caturanaḍuhorāmudāttaḥ", "7.2.84": "aṣṭana ā vibhaktau", "7.2.99": "tricaturoḥ striyāṁ tisṛcatasṛ", "7.2.100": "aci ra ṛtaḥ", "7.2.102": "tyadādīnāmaḥ", "8.4.41": "ṣṭunā ṣṭuḥ", "8.4.45": "yaro'nunāsike'nunāsiko vā",
     "7.1.9": "ato bhisa ais", "7.1.12": "ṭāṅasiṅasām inātsyāḥ", "7.1.13": "ṅer yaḥ", "7.1.14": "sarvanāmnaḥ smai", "7.1.15": "ṅasiṅyoḥ smātsminau", "7.1.17": "jasaḥ śī", "7.1.19": "napuṁsakāc ca", "7.1.20": "jaśśasoḥ śiḥ", "7.1.23": "svamor napuṁsakāt", "7.1.24": "ato 'm",
-    "7.1.52": "āmi sarvanāmnaḥ suṭ", "7.1.54": "hrasvanadyāpo nuṭ", "7.1.70": "ugidacāṁ sarvanāmasthāne 'dhātoḥ", "7.1.72": "napuṁsakasya jhalacaḥ", "7.1.94": "ṛd uśanaspurudaṁso 'nehasāṁ ca",
+    "7.1.52": "āmi sarvanāmnaḥ suṭ", "7.1.54": "hrasvanadyāpo nuṭ", "8.4.39": "kṣubhnādiṣu ca", "7.1.78": "nābhyastāc chatuḥ", "7.1.79": "vā napuṁsakasya", "7.1.80": "ācchīnadyor num", "7.1.81": "śapśyanor nityam", "7.1.70": "ugidacāṁ sarvanāmasthāne 'dhātoḥ", "7.1.72": "napuṁsakasya jhalacaḥ", "7.1.94": "ṛd uśanaspurudaṁso 'nehasāṁ ca",
     "7.3.102": "supi ca", "7.3.103": "bahuvacane jhaly et", "7.3.104": "osi ca", "7.3.105": "āṅi cāpaḥ", "7.3.106": "sambuddhau ca", "7.3.107": "ambārthanadyor hrasvaḥ", "7.3.108": "hrasvasya guṇaḥ", "7.3.109": "jasi ca", "7.3.110": "ṛto ṅisarvanāmasthānayoḥ",
     "7.3.111": "gher ṅiti", "7.3.112": "āṇ nadyāḥ", "7.3.113": "yāḍ āpaḥ", "7.3.114": "sarvanāmnaḥ syāḍ ḍhrasvaś ca", "6.4.137": "na saṁyogād vamantāt", "7.3.116": "ṅer ām nadyāmnībhyaḥ", "7.3.118": "aut", "7.3.119": "ac ca gheḥ", "7.3.120": "āṅo nāstriyām",
     "6.4.3": "nāmi", "6.4.8": "sarvanāmasthāne cāsambuddhau", "6.4.11": "aptṛntṛcsvasṛnaptṛneṣṭṛtvaṣṭṛkṣattṛhotṛpotṛpraśāstṝṇām", "6.4.12": "inhanpūṣāryamṇāṁ śau", "6.4.13": "sau ca", "6.4.14": "atvasantasya cādhātoḥ", "6.4.134": "allopo 'naḥ", "6.4.136": "vibhāṣā ṅiśyoḥ",
@@ -115,7 +115,7 @@ def rules() -> list[Rule]:
     # ---- phase 0: the numeral stems -------------------------------------------------------
     add("7.2.99", lambda s: s.g == "f" and "".join(s.st) in ("tri", "catur"), lambda s: (setattr(s, "st", tok({"tri": "tisṛ", "catur": "catasṛ"}["".join(s.st)])), s.flags.add("tisṛ")), "tri / catur → tisṛ / catasṛ in the feminine")
     add("7.2.84", lambda s: "".join(s.st) == "aṣṭan" and "7.2.84" not in s.done, lambda s: setattr(s, "st", tok("aṣṭā")), "aṣṭan → aṣṭā before a vibhakti (the ā-branch of the option)")
-    add("7.1.21", lambda s: "".join(s.st) == "aṣṭā" and s.up in ("jas", "śas"), lambda s: setattr(s, "aff", ["au"]), "jas / śas → auś after aṣṭā")
+    add("7.1.21", lambda s: "".join(s.st) == "aṣṭā" and "ṣaṭ" in s.flags and s.up in ("jas", "śas"), lambda s: setattr(s, "aff", ["au"]), "jas / śas → auś after aṣṭā")
     add("7.1.22", lambda s: s.sat() and s.up in ("jas", "śas") and "7.1.21" not in s.done, lambda s: (setattr(s, "aff", []), setattr(s, "sns", False)), "jas / śas deleted (luk) after a ṣaṭ numeral; no sarvanāmasthāna operation on the aṅga (1.1.63 na lumatāṅgasya)")
     add("7.1.53", lambda s: "".join(s.st) == "tri" and s.up == "ām", lambda s: setattr(s, "st", tok("traya")), "tri → traya before ām")
     add("7.1.98", lambda s: "".join(s.st) == "catur" and (s.sns or (s.g == "n" and s.up in ("jas", "śas"))), lambda s: setattr(s, "st", tok("catvār")), "ām augment to catur before sarvanāmasthāna (after the last vowel, 1.1.47; u → v by 6.1.77)")
@@ -136,6 +136,7 @@ def rules() -> list[Rule]:
     add("7.1.20", lambda s: s.g == "n" and s.code in ("1p", "2p"), lambda s: (setattr(s, "aff", ["i"]), s.flags.add("śi"), setattr(s, "sns", True)), "jas / śas → śi after the neuter (1.1.42: sarvanāmasthāna)")
     add("7.1.73", lambda s: s.g == "n" and s.final() in ("i", "u", "ṛ") and s.vinit() and "num" not in s.flags and s.up != "ām", lambda s: _num(s), "num to the ik-final neuter before a vowel-initial vibhakti")
     add("7.1.72", lambda s: s.g == "n" and "śi" in s.flags and (s.final() in V or s.final() in JHAL), lambda s: _num(s), "num to the neuter jhal / ac stem before śi")
+    add("7.1.81", lambda s: "śatṛ" in s.flags and "aṅga-a" in s.flags and s.g == "n" and s.code in ("1d", "2d") and "num" not in s.flags, lambda s: _num(s), "num to the śatṛ stem after śap / śyan before the neuter dual śī — always (bhavantī, dīvyantī); after the other a / ā stems optionally by 7.1.80 ācchīnadyor num, the num branch realised (tudantī, krīṇantī)")
     add("7.1.17", lambda s: s.sarva() and s.a_final() and s.up == "jas" and s.g != "n", lambda s: setattr(s, "aff", ["ī"]), "jas → śī after an a-final sarvanāma (ataḥ continuing from 7.1.9)")
     add("7.1.14", lambda s: s.sarva() and s.a_final() and s.up == "ṅe", lambda s: setattr(s, "aff", ["s", "m", "ai"]), "ṅe → smai after a sarvanāma")
     add("7.1.15", lambda s: s.sarva() and s.a_final() and s.up in ("ṅasi~", "ṅi"), lambda s: setattr(s, "aff", ["s", "m", "ā", "t"] if s.up == "ṅasi~" else ["s", "m", "i", "n"]), "ṅasi / ṅi → smāt / smin")
@@ -170,8 +171,8 @@ def rules() -> list[Rule]:
     add("7.3.103", lambda s: s.a_final() and (s.up in ("bhyas", "sup") or (s.aff[:1] in (["s"], ["bh"]) and s.num == "p")), lambda s: s.st.__setitem__(-1, "e"), "a → e before bhyas / su")
     add("7.3.104", lambda s: s.a_final() and s.up == "os", lambda s: s.st.__setitem__(-1, "e"), "a → e before os")
     # ---- phase 2: augments and aṅga operations --------------------------------------------
-    add("7.1.70", lambda s: s.ugit() and s.sns, lambda s: _num(s), "num to the ugit stem before sarvanāmasthāna")
-    add("6.4.14", lambda s: s.ugit() and s.code == "1s" and s.st[-2:] == ["n", "t"], lambda s: s.st.__setitem__(-3, "ā"), "upadhā dīrgha of the at-stem before su")
+    add("7.1.70", lambda s: s.ugit() and s.sns and "num" not in s.flags and not ("abhyasta" in s.flags and s.g != "n"), lambda s: _num(s), "num to the ugit stem before sarvanāmasthāna (one num: the neuter śi's of 7.1.72 is the same augment — bhūtavanti); not to the śatṛ after the abhyasta, 7.1.78 nābhyastāc chatuḥ (dadat, bibhrat; in the neuter optionally by 7.1.79, the num branch realised: dadanti)")
+    add("6.4.14", lambda s: s.ugit() and s.code == "1s" and s.st[-2:] == ["n", "t"] and "śatṛ" not in s.flags, lambda s: s.st.__setitem__(-3, "ā"), "upadhā dīrgha of the at-stem before su")
     add("6.4.13", lambda s: s.in_() and s.code == "1s", lambda s: s.st.__setitem__(-2, "ī"), "in-stem lengthened before su")
     add("6.4.12", lambda s: s.in_() and "śi" in s.flags, lambda s: s.st.__setitem__(-2, "ī"), "in-stem lengthened before śi")
     add("6.4.7", lambda s: s.aff[:3] == ["n", "ā", "m"] and s.final() == "n" and s.st[-2] in SHORT, lambda s: s.st.__setitem__(-2, LONG[s.st[-2]]), "upadhā of the n-final aṅga lengthened before nām (6.4.7 nopadhāyāḥ with 6.4.3)")
@@ -231,7 +232,9 @@ def _num(s: S) -> None:
 def _natva(s: S) -> None:
     w = s.st + s.aff
     for i, x in enumerate(w):
-        if x != "n" or i == len(w) - 1:
+        if x != "n" or i == len(w) - 1 or w[i + 1] in JHAL:   # the n before a jhal is not reached (granthaka, chṛndat, corayantī: the nasal there is 8.4.58's)
+            continue
+        if "kṣubhnādi" in s.flags and i < len(s.st):   # 8.4.39 kṣubhnādiṣu ca: the n of the kṣubhnādi stem keeps n (kṣubhnan, tṛpnuvan)
             continue
         j = i - 1
         while j >= 0 and w[j] in AT_KU_PU and w[j] not in ("r", "ṛ", "ṝ"):
@@ -346,6 +349,15 @@ SUITE.update({"tad": ("tad", "m", _T, "declared", PRON), "tā": ("tad", "f", _T,
               "yad": ("yad", "m", _T, "declared", PRON), "yad_n": ("yad", "n", _T, "declared", PRON), "tyad": ("tyad", "m", _T, "declared", PRON),
               "kim": ("kim", "m", _T, "declared", PRON), "kā": ("kim", "f", _T, "declared", PRON), "kim_n": ("kim", "n", _T, "declared", PRON),
               "idam": ("idam", "m", _T, "declared", PRON), "idā": ("idam", "f", _T, "declared", PRON), "idam_n": ("idam", "n", _T, "declared", PRON)})
+DECLARED.update({   # theorum/153: the śatṛ stem and the neuter ugit, as the generator derives them (research/independent_oracle/VIDYUT_KRDANTA_SUP_LANE.json; the first alternative)
+    "bhavat_śatṛ": {"1s": "bhavan", "1d": "bhavantau", "1p": "bhavantaḥ", "2s": "bhavantam", "2d": "bhavantau", "2p": "bhavataḥ", "3s": "bhavatā", "3d": "bhavadbhyām", "3p": "bhavadbhiḥ", "4s": "bhavate", "4d": "bhavadbhyām", "4p": "bhavadbhyaḥ", "5s": "bhavataḥ", "5d": "bhavadbhyām", "5p": "bhavadbhyaḥ", "6s": "bhavataḥ", "6d": "bhavatoḥ", "6p": "bhavatām", "7s": "bhavati", "7d": "bhavatoḥ", "7p": "bhavatsu", "8s": "bhavan"},
+    "bhavat_śatṛ_n": {"1s": "bhavat", "1d": "bhavantī", "1p": "bhavanti", "2s": "bhavat", "3s": "bhavatā", "4s": "bhavate", "6p": "bhavatām", "7s": "bhavati", "8s": "bhavat"},
+    "tudat_śatṛ_n": {"1s": "tudat", "1d": "tudantī", "1p": "tudanti", "2s": "tudat", "3s": "tudatā", "4s": "tudate", "6p": "tudatām", "7s": "tudati", "8s": "tudat"},
+    "bhūtavat_n": {"1s": "bhūtavat", "1d": "bhūtavatī", "1p": "bhūtavanti", "2s": "bhūtavat", "3s": "bhūtavatā", "4s": "bhūtavate", "6p": "bhūtavatām", "7s": "bhūtavati", "8s": "bhūtavat"}})
+DECLARED["dadat_śatṛ"] = {"1s": "dadat", "1d": "dadatau", "1p": "dadataḥ", "2s": "dadatam", "2d": "dadatau", "2p": "dadataḥ", "3s": "dadatā", "3d": "dadadbhyām", "3p": "dadadbhiḥ", "4s": "dadate", "4d": "dadadbhyām", "4p": "dadadbhyaḥ", "5s": "dadataḥ", "5d": "dadadbhyām", "5p": "dadadbhyaḥ", "6s": "dadataḥ", "6d": "dadatoḥ", "6p": "dadatām", "7s": "dadati", "7d": "dadatoḥ", "7p": "dadatsu", "8s": "dadat"}
+DECLARED["kṣubhnat_śatṛ"] = {"1s": "kṣubhnan", "1d": "kṣubhnantau", "1p": "kṣubhnantaḥ", "2s": "kṣubhnantam", "2d": "kṣubhnantau", "2p": "kṣubhnataḥ", "3s": "kṣubhnatā", "3d": "kṣubhnadbhyām", "3p": "kṣubhnadbhiḥ", "4s": "kṣubhnate", "4d": "kṣubhnadbhyām", "4p": "kṣubhnadbhyaḥ", "5s": "kṣubhnataḥ", "5d": "kṣubhnadbhyām", "5p": "kṣubhnadbhyaḥ", "6s": "kṣubhnataḥ", "6d": "kṣubhnatoḥ", "6p": "kṣubhnatām", "7s": "kṣubhnati", "7d": "kṣubhnatoḥ", "7p": "kṣubhnatsu", "8s": "kṣubhnan"}
+N9 = ["1s", "1d", "1p", "2s", "3s", "4s", "6p", "7s", "8s"]
+SUITE.update({"bhavat_śatṛ": ("bhavat", "m", ("ugit", "śatṛ"), "declared"), "bhavat_śatṛ_n": ("bhavat", "n", ("ugit", "śatṛ", "aṅga-a"), "declared", N9), "tudat_śatṛ_n": ("tudat", "n", ("ugit", "śatṛ", "aṅga-a"), "declared", N9), "bhūtavat_n": ("bhūtavat", "n", ("ugit",), "declared", N9), "dadat_śatṛ": ("dadat", "m", ("ugit", "śatṛ", "abhyasta"), "declared"), "kṣubhnat_śatṛ": ("kṣubhnat", "m", ("ugit", "śatṛ", "kṣubhnādi"), "declared")})
 OPTIONAL_CELLS = {("rājan", "7s"), ("vāri", "8s")}   # the earlier packets print "a / b" there (6.4.136; 7.3.108's option): compared on the first alternative
 
 

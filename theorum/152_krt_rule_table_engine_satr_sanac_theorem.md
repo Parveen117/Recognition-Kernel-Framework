@@ -16,7 +16,7 @@ The lane (`research/independent_oracle/VIDYUT_KRT_LANE.json`) now carries 1,756 
 
 ## 2. Certificate
 
-theorum/151's module, re-pinned: `proof_lab/KRT_RULE_TABLE_ENGINE_EXPECTED.sha256` = `f6ec030c3a759e6205ab86a537357cbc547ec8807839f28eb4965e81a55c296c` (status `PASS_KRT_RULE_TABLE_ENGINE_CANDIDATE`); the previous pin `a2a124d3…` (theorum/151, commit 7a7a419) stays in the history. The verbal table's pin is unchanged (`df6a008d…`): it is called, not changed. The kernel re-pinned: `proof_lab/PANINI_KERNEL_EXPECTED.sha256` = `2b27183b68fed716a87bbd11fae1b5bded5442429a802dd16596cf63cbfab411` (the previous `fa1e7397…` stays in the history).
+theorum/151's module, re-pinned: `proof_lab/KRT_RULE_TABLE_ENGINE_EXPECTED.sha256` = `f6ec030c3a759e6205ab86a537357cbc547ec8807839f28eb4965e81a55c296c` (status `PASS_KRT_RULE_TABLE_ENGINE_CANDIDATE`); the previous pin `a2a124d3…` (theorum/151, commit 7a7a419) stays in the history. The verbal table's pin is unchanged (`df6a008d…`): it is called, not changed. The kernel re-pinned: `proof_lab/PANINI_KERNEL_EXPECTED.sha256` = `2b27183b68fed716a87bbd11fae1b5bded5442429a802dd16596cf63cbfab411`; re-pinned again by theorum/153, commit 751ddde holds this pin (the previous `fa1e7397…` stays in the history).
 
 ```text
 python -m proof_lab.krt_rule_table_engine

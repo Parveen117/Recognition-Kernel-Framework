@@ -1433,7 +1433,7 @@ proof_lab/YUSMAD_ASMAD_SUP_COMPILED_EXPECTED.sha256
 |---|---|
 | Certificate class | one rule table (64 quoted sūtra rows) and one phase-ordered driver reproduce the 330 cells of fifteen certified paradigms (theorum/63, 88, 89, 90, 91, 92, 93, 94, 98, 109, 123) exactly; every row load-bearing on the suite; new classes cost rows, not engines |
 | Status | `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `90dd54de973176a173a5a7644dcaae9aa65c797f9e3a7a15b481cec9935dd5dc` |
+| Canonical result SHA-256 | `9c1cd237741c9fa62f414ccd511c6e94764dd87f42f22ee32a6031d6f89b7782` |
 | Boundary | declared class flags and gender are inputs; option cells compared on the first alternative; Theorem 63's ladder remains the account of conflict |
 
 ```text
@@ -1449,7 +1449,7 @@ proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Rule-Table Engine III |
 | Status | `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `90dd54de973176a173a5a7644dcaae9aa65c797f9e3a7a15b481cec9935dd5dc` |
+| Canonical result SHA-256 | `9c1cd237741c9fa62f414ccd511c6e94764dd87f42f22ee32a6031d6f89b7782` |
 | Boundary | numerals dvi, tri, catur, pañcan, ṣaṣ, aṣṭan in three genders; 84 cells from 13 rows |
 
 ```text
@@ -1465,7 +1465,7 @@ proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Rule-Table Engine IV |
 | Status | `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `90dd54de973176a173a5a7644dcaae9aa65c797f9e3a7a15b481cec9935dd5dc` |
+| Canonical result SHA-256 | `9c1cd237741c9fa62f414ccd511c6e94764dd87f42f22ee32a6031d6f89b7782` |
 | Boundary | pronouns tad, etad, yad, tyad, kim, idam in three genders; 315 cells from 14 rows |
 
 ```text
@@ -1673,7 +1673,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Sup Generalisation Test |
 | Status | `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `90dd54de973176a173a5a7644dcaae9aa65c797f9e3a7a15b481cec9935dd5dc` |
+| Canonical result SHA-256 | `9c1cd237741c9fa62f414ccd511c6e94764dd87f42f22ee32a6031d6f89b7782` |
 | Boundary | 48 new stems of every declared class against vidyut: 1,068 / 1,078 cells; two rows exposed (kṣ in ṇatva, 7.1.25) |
 
 ```text
@@ -1689,7 +1689,7 @@ proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Pāṇini Kernel |
 | Status | `PASS_PANINI_KERNEL_CANDIDATE` |
-| Canonical result SHA-256 | `2b27183b68fed716a87bbd11fae1b5bded5442429a802dd16596cf63cbfab411` |
+| Canonical result SHA-256 | `54436c5e31dfad39098669be35c83dc7553ce48bd621c5a6db7e67f541e5f696` |
 | Boundary | the two engines, the ledger and the evidence as one object: 230 sūtras as rows after theorum/143 (225 at first pin 41854a6b…, in the history), 18 shared (junction / tripādī only), every row a ledger entry and every engine ledger entry a row; coverage counted |
 
 ```text
@@ -1817,7 +1817,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | the Pāṇini ISA — every firing of the two rule tables is at most two operations from a closed catalogue of sixteen Pāṇinian types; the tables a staged program |
 | Status | `PASS_PANINI_ISA_CANDIDATE` |
-| Canonical result SHA-256 | `c2938c01f6f191e7398e97e43296225f24b980516b46a10dd4b53d680cdc39a9` |
+| Canonical result SHA-256 | `d319faef67fd03ce8a073dc6d8d3f2ff6569ef739ac83dcf7de0ec37e2c9d6f0` |
 | Boundary | an observer records the state before and after every firing of the 251 verbal and 90 nominal rows on the suites and all seven lanes (≈ 60,000 derivations, 394,468 firings); every firing is at most two operations from a closed catalogue of 16 types named by the Aṣṭādhyāyī's own sūtras (1.1.46 / 1.1.47 augments, 1.1.60 lopa, 1.1.52 / 1.1.55 / 1.1.65 ādeśa, 1.1.1 / 1.1.2 / 1.2.27 grades, 6.1.1 dvitva, affix, mark, sandhi); the phases are monotone, the tripādī one pass with its 26 + 14 live re-orderings against 8.2.1 listed with evidence (45 + 29 vacuous); the guards read the state through 30 + 7 and 27 readers — PROVED (exact, finite); the catalogue as the only reading, the guards as an instruction set, confluence: NOT CLAIMED |
 
 ```text
@@ -1857,6 +1857,22 @@ theorum/152_krt_rule_table_engine_satr_sanac_theorem.md
 proof_lab/krt_rule_table_engine.py
 proof_lab/test_krt_rule_table_engine.py
 proof_lab/KRT_RULE_TABLE_ENGINE_EXPECTED.sha256
+```
+
+## Theorem 153 the kṛdanta declined — three tables by call (verbal → kṛt → nominal), 50,265 / 51,326 padas in three genders packet
+
+| Field | Value |
+|---|---|
+| Certificate class | the kṛdanta declined — three tables by call (verbal → kṛt → nominal), 50,265 / 51,326 padas in three genders |
+| Status | `PASS_KRDANTA_SUP_CANDIDATE` |
+| Canonical result SHA-256 | `bbea4a11f9700ac3d1b5781650eb841b38e91f6ed8402b29f0b8b23d15f0db89` |
+| Boundary | the kṛt table's prātipadika (theorum/151–152) handed to the nominal table (theorum/125) in the three genders: the stem's class by the affix (the ugit of ktavatu / śatṛ, the ṛ-stem of tṛc, the a-stem of the rest; tumun / ktvā indeclinable by 1.1.39 / 1.1.40), the feminine stem by 4.1.4 ṭāp, 4.1.5 ṅīp with 6.1.77, 4.1.6 ṅīp after the ugit with 7.1.81 / 7.1.80's num, 7.3.44 as theorum/111 reads it; the nominal table taught one num (7.1.70 / 7.1.72), 7.1.78 nābhyastāc chatuḥ, 7.1.81 / 7.1.80 before the neuter dual, 6.4.14's adhātoḥ, 8.4.2 not before a jhal with 8.4.39, 7.1.21 as the numeral's — 50,265 / 51,326 on the generator's lane (51,326 cells), every disagreement of a named kind (196 the kṛt residue declined, 865 the generator's 7s / 6p of the ṅīp stem against theorum/89's nadī paradigm) — PROVED on the agreeing cells, DECLARED on the lane |
+
+```text
+theorum/153_krdanta_declension_theorem.md
+proof_lab/krdanta_sup.py
+proof_lab/test_krdanta_sup.py
+proof_lab/KRDANTA_SUP_EXPECTED.sha256
 ```
 
 ## Consolidated parallel-lineage index

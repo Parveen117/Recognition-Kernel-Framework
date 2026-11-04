@@ -15,7 +15,7 @@ The 1,078 cells are kept in the repository as `VIDYUT_SUP_LANE.json` — a decla
 
 ## 3. Certificate
 
-`proof_lab/sup_rule_table_engine.py` re-pinned: `proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256` = `90dd54de973176a173a5a7644dcaae9aa65c797f9e3a7a15b481cec9935dd5dc` (status `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE`; 94 rows, 861 suite cells, sup_lane 1,068 / 1,078 reported); the previous pin `d6d7c356…` (theorum/128, commit 9ff31fe) stays in the history. theorum/137's suite cross-check re-run on this pin is byte-identical.
+`proof_lab/sup_rule_table_engine.py` re-pinned: `proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256` = `90dd54de973176a173a5a7644dcaae9aa65c797f9e3a7a15b481cec9935dd5dc` (status `PASS_SUP_RULE_TABLE_ENGINE_CANDIDATE`; 94 rows, 861 suite cells, sup_lane 1,068 / 1,078 reported); re-pinned again by theorum/153 (the kṛdanta declined: 7.1.81 / 7.1.80 as a row, 7.1.78, 8.4.39, one num, 6.4.14's adhātoḥ and 7.1.21's numeral as guards, six declared paradigms — `9c1cd237…`), commit 751ddde holds this pin; the previous pin `d6d7c356…` (theorum/128, commit 9ff31fe) stays in the history. theorum/137's suite cross-check re-run on this pin is byte-identical.
 
 ## 4. Claim boundary
 

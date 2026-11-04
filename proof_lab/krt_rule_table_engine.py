@@ -230,6 +230,12 @@ def _lat_anga(s: K) -> None:
     else:
         raise ValueError(f"{s.root}: the laṭ 3p ending not read ({form})")
     s.r = tok(stem); s.flags.add("laṭ-aṅga")
+    if s.gana == 3 or s.up_root in TIN.JAKSADI:
+        s.flags.add("abhyasta")
+    if s.up_root in TIN.KSUBHNADI:
+        s.flags.add("kṣubhnādi")   # 8.4.39: read by the nominal table's ṇatva   # 6.1.5 ubhe abhyastam: read by 7.1.78 for the śatṛ's num
+    if TIN.conjugate(s.root, "laṭ", "3s", pada=s.pada)[0].endswith(("ati", "āti", "ate", "āte")):
+        s.flags.add("aṅga-a")   # the aṅga before the sārvadhātuka ends in a / ā (śap, śa, śyan, śnā, the ā-root): read by 7.1.80 / 7.1.81 for the feminine and the neuter dual
 
 
 def norm_id(rid: str) -> str:
@@ -238,6 +244,11 @@ HOOK = None
 
 
 def derive(root: str, affix: str, off=()) -> tuple[str, list[str]]:
+    s = derive_state(root, affix, off)
+    return s.form(), s.path
+
+
+def derive_state(root: str, affix: str, off=()) -> K:
     s = K(root, affix)
     s.path.append(f"{root} ({s.up_root}) + {affix} → {''.join(s.aff)}")
     for n, guard, action, note in RULES:
@@ -249,7 +260,7 @@ def derive(root: str, affix: str, off=()) -> tuple[str, list[str]]:
             after = (s.form(), frozenset(s.flags))
             if after != before:
                 s.done.add(n); s.path.append(f"{n} {note}: {s.form()}")
-    return s.form(), s.path
+    return s
 
 
 def lane_oracle() -> dict[str, list[str]]:
