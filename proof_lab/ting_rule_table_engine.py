@@ -35,7 +35,7 @@ SOURCES = {
     "3.4.102": "liṅassīyuṭ", "3.4.103": "yāsuṭ parasmaipadeṣūdātto ṅicca", "3.4.105": "jhasya ran", "3.4.106": "iṭo't", "3.4.108": "jherjus", "7.1.3": "jho'ntaḥ",
     "7.3.77": "iṣugamiyamāṁ chaḥ", "6.1.73": "che ca", "7.3.84": "sārvadhātukārdhadhātukayoḥ", "6.1.78": "eco'yavāyāvaḥ", "6.1.65": "ṇo naḥ",
     "6.4.71": "luṅlaṅlṛṅkṣvaḍudāttaḥ", "6.4.72": "āḍajādīnām", "6.1.90": "āṭaśca", "7.3.101": "ato dīrgho yañi", "6.4.105": "ato heḥ",
-    "7.2.59": "na vṛdbhyaścaturbhyaḥ", "7.3.78": "pāghrādhmāsthāmnādāṇdṛśyarttisarttiśadasadāṁ pibajighradhamatiṣṭhamanayacchapaśyarcchadhauśīyasīdāḥ", "7.3.92": "tṛṇaha im", "8.2.18": "kṛpo ro laḥ", "2.4.54": "cakṣiṅaḥ khyāñ", "2.4.55": "vā liṭi", "7.2.60": "tāsi ca kḷpaḥ", "1.3.93": "luṭi ca kḷpaḥ", "7.3.37": "śācchāsāhvāvyāvepāṁ yuk", "7.4.10": "ṛtaśca saṁyogāderguṇaḥ", "1.3.92": "vṛdbhyaḥ syasanoḥ", "7.2.79": "liṅaḥ salopo'nantyasya", "7.2.80": "ato yeyaḥ", "7.2.81": "āto ṅitaḥ",
+    "7.2.59": "na vṛdbhyaścaturbhyaḥ", "7.3.78": "pāghrādhmāsthāmnādāṇdṛśyarttisarttiśadasadāṁ pibajighradhamatiṣṭhamanayacchapaśyarcchadhauśīyasīdāḥ", "7.3.92": "tṛṇaha im", "8.2.18": "kṛpo ro laḥ", "2.4.54": "cakṣiṅaḥ khyāñ", "2.4.55": "vā liṭi", "3.1.56": "sarttiśāstyartibhyaśca", "1.2.2": "vija iṭ", "7.4.16": "ṛdṛśo'ṅi guṇaḥ", "7.2.60": "tāsi ca kḷpaḥ", "1.3.93": "luṭi ca kḷpaḥ", "7.3.37": "śācchāsāhvāvyāvepāṁ yuk", "7.4.10": "ṛtaśca saṁyogāderguṇaḥ", "1.3.92": "vṛdbhyaḥ syasanoḥ", "7.2.79": "liṅaḥ salopo'nantyasya", "7.2.80": "ato yeyaḥ", "7.2.81": "āto ṅitaḥ",
     "6.1.87": "ādguṇaḥ", "6.1.88": "vṛddhireci", "6.1.97": "ato guṇe", "6.1.101": "akaḥ savarṇe dīrghaḥ", "6.1.66": "lopo vyorvali",
     "3.3.13": "lṛṭ śeṣe ca", "3.3.15": "anadyatane luṭ", "3.2.110": "luṅ", "3.4.116": "liṅāśiṣi", "3.4.114": "ārdhadhātukaṁ śeṣaḥ", "3.4.104": "kidāśiṣi",
     "3.1.33": "syatāsī lṛluṭoḥ", "3.1.43": "cli luṅi", "3.1.44": "cleḥ sic", "2.4.77": "gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu", "3.1.55": "puṣādidyutādyḷditaḥ parasmaipadeṣu",
@@ -277,8 +277,16 @@ DHATUPATHA_ROOTS = {   # theorum/163: roots declared from the Dhātupāṭha by 
     "khid7": ("khida~", "A", 7, "07.0012"), "vid7": ("vida~", "A", 7, "07.0013"), "bhañj7": ("bhanjo~", "P", 7, "07.0016"), "tañc7": ("tancū~", "P", 7, "07.0022"),
     "vṛj7": ("vṛjī~", "P", 7, "07.0024"), "pṛc7": ("pṛcī~", "P", 7, "07.0025"),
     "tṛṇu8": ("tṛṇu~", "U", 8, "08.0006"), "ghṛṇu8": ("ghṛṇu~", "U", 8, "08.0007"),
+    # theorum/164: svādi and kryādi swept; vij (1.2.2) and the juhotyādi sṛ (3.1.56, 7.4.16) with their rows
+    "śi5": ("śiñ", "U", 5, "05.0003"), "pṛ5": ("pṛ", "P", 5, "05.0013"), "spṛ5": ("spṛ", "P", 5, "05.0014"), "smṛ5": ("smṛ", "P", 5, "05.0015"), "ah5": ("aha~", "P", 5, "05.0029"),
+    "dagh5": ("dagha~", "P", 5, "05.0030"), "cam5": ("camu~", "P", 5, "05.0031"), "ri5": ("ri", "P", 5, "05.0032"), "dāś5": ("dāśa~", "P", 5, "05.0036"), "dṛ5": ("dṛ", "P", 5, "05.0037"),
+    "śṝ9": ("śṝ", "P", 9, "09.0021"), "pṝ9": ("pṝ", "P", 9, "09.0022"), "vṝ9p": ("vṝ", "P", 9, "09.0023"), "bhṝ9": ("bhṝ", "P", 9, "09.0024"), "dṝ9": ("dṝ", "P", 9, "09.0026"), "jṝ9": ("jṝ", "P", 9, "09.0027"),
+    "jhṝ9": ("jhṝ", "P", 9, "09.0028"), "nṝ9": ("nṝ", "P", 9, "09.0030"), "kṝ9p": ("kṝ", "P", 9, "09.0031"), "gṝ9": ("gṝ", "P", 9, "09.0033"), "rī9": ("rī", "P", 9, "09.0035"), "plī9": ("plī", "P", 9, "09.0039"),
+    "vrī9": ("vrī", "P", 9, "09.0040"), "bhrī9": ("bhrī", "P", 9, "09.0041"), "kṣī9": ("kṣīṣ", "P", 9, "09.0042"), "śranth9": ("śrantha~", "P", 9, "09.0046"), "śranth9b": ("śrantha~", "P", 9, "09.0048"), "heṭh9": ("heṭha~", "P", 9, "09.0069"),
+    "vij7": ("o~vijī~", "P", 7, "07.0023"), "sṛ3": ("sṛ", "P", 3, "03.0018"),
 }
 for _k, (_up, _pd, _g, _code) in DHATUPATHA_ROOTS.items():
+    assert _k not in ROOTS and _k not in NASAL, f"{_k}: a key the table already declares"   # kṝñ / vṝñ (NASAL kṝ9 / vṝ9) beside kṝ / vṝ (kṝ9p / vṝ9p): different Dhātupāṭha entries, different keys
     ROOTS[_k] = (_up, _pd); GANA[_k] = _g
 GHU = {"dā", "dhā"}   # 1.1.20 dādhā ghv adāp
 SAM_LIST = {"śam", "tam", "dam", "śram", "bhram", "kṣam", "klam", "mad"}   # 7.3.74 śamām aṣṭānām
@@ -329,6 +337,8 @@ class S:
     def kit(self):   # 3.4.104 kid āśiṣi (the yāsuṭ of 3.4.103 is parasmaipada: the ātmanepada sīyuṭ is not kit — ceṣīṣṭa — except, jhal-initial, after the ṛ-final root: 1.2.11 liṅsicāv ātmanepadeṣu with 1.2.12 uś ca, kṛṣīṣṭa; stariṣīṣṭa with iṭ); 1.2.5 asaṁyogāl liṭ kit (the apit liṭ ending after a root not ending in a conjunct; ṇal is pit as tip's substitute, 1.1.56)
         if "san" in self.flags and self.v[:1] == ["s"] and self.up_root in ("rudi~r", "vida~", "muṣa~", "graha~", "ñiṣvapa~", "pracha~"):
             return True   # 1.2.8 rudavidamuṣagrahisvapipracchaḥ saṁś ca
+        if self.it and self.up_root == "o~vijī~":
+            return True   # 1.2.2 vija iṭ: the iṭ-initial affix is ṅit after vij — no guṇa (vijiṣyati, vijitā, avijīt, vivijitha; theorum/164)
         if "san" in self.flags and not self.it and self.v[:1] == ["s"] and (self.r[-1] in ("i", "ī", "u", "ū", "ṛ", "ṝ") or (self.r[-1] not in V and len(self.r) >= 2 and self.r[-2] in ("i", "ī", "u", "ū", "ṛ", "ṝ"))):
             return True   # 1.2.9 iko jhal, 1.2.10 halantāc ca: the jhal-initial san is kit
         return (self.lak == "āśīrliṅ" and self.P()) or (self.lak == "āśīrliṅ" and self.A() and self.pre[:1] == ["s"] and not self.it and self.r[-1] in ("ṛ", "ṝ")) or (self.lak == "luṅ" and self.A() and self.v == ["s"] and not self.it and (self.r[-1] in ("ṛ", "ṝ") or (self.r[-1] not in V and len(self.r) >= 2 and self.r[-2] in ("i", "u", "ṛ", "ī", "ū", "ṝ")))) or (self.lak == "luṅ" and self.v == ["s", "a"]) or (self.lak == "luṅ" and "1.2.17" in self.done) or (self.lak == "liṭ" and "ām" not in self.flags and not self.pit and (self.r[-1] in V or (len(self.r) >= 2 and self.r[-2] in V)))
@@ -448,6 +458,8 @@ def rules() -> list[tuple[str, Callable[[S], bool], Callable[[S], Any], str]]:
     add("3.1.52", lambda s: s.lak == "luṅ" and not s.v and (s.r == tok("vac") or s.up_root == "khyā" or "khyā" in s.flags), lambda s: (setattr(s, "v", ["a"]), setattr(s, "vsit", True), s.flags.add("aṅ")), "aṅ for cli after as, vac, khyā (avocat with 7.4.20, akhyat)")
     add("7.4.20", lambda s: "aṅ" in s.flags and s.r == tok("vac"), lambda s: setattr(s, "r", tok("voc")), "um to vac before aṅ (avocat)")
     add("3.1.55", lambda s: s.lak == "luṅ" and s.P() and not s.v and ("ḷ" in s.up_root or (s.up_root in PUSHADI and s.gana == 4) or (s.up_root in DYUTADI and s.gana == 1)), lambda s: (setattr(s, "v", ["a"]), setattr(s, "vsit", True), s.flags.add("aṅ")), "aṅ for cli after the puṣādi, dyutādi and the ḷdit root in parasmaipada (agamat, aghasat, āpat, aśakat, aviṣat)")
+    add("3.1.56", lambda s: s.lak == "luṅ" and s.P() and not s.v and s.up_root in ("sṛ", "śāsu~", "ṛ"), lambda s: (setattr(s, "v", ["a"]), setattr(s, "vsit", True), s.flags.add("aṅ")), "aṅ for cli after sṛ, śās, ṛ in the parasmaipada (3.1.56 sartiśāstyartibhyaś ca: asarat, aśiṣat, ārat) (theorum/164)")
+    add("7.4.16", lambda s: "aṅ" in s.flags and s.lak == "luṅ" and s.r[-1] == "ṛ" and "7.4.16" not in s.done, lambda s: (s.r.__setitem__(-1, "a"), s.r.append("r")), "guṇa of the ṛ-final root before aṅ (7.4.16 ṛdṛśo 'ṅi guṇaḥ: asarat, ārat; dṛś's adarśat is the other branch of 3.1.57) (theorum/164)")
     add("3.1.57", lambda s: s.lak == "luṅ" and s.P() and not s.v and s.up_root.endswith("i~r"), lambda s: (setattr(s, "v", ["a"]), setattr(s, "vsit", True), s.flags.add("aṅ")), "aṅ optionally for cli after the irit root in parasmaipada (abhidat, arudhat, aricat, akṣudat, anijat, arudat — the aṅ branch realised; the sic branch abhaitsīt recorded)")
     add("3.1.45", lambda s: s.lak == "luṅ" and not s.v and anudatta(s.up_root, s.gana) is True and s.r[-1] in ("ś", "ṣ", "s", "h") and len(s.r) >= 2 and s.r[-2] in ("i", "u", "ṛ"), lambda s: (setattr(s, "v", ["s", "a"]), setattr(s, "vsit", True)), "ksa for cli after the aniṭ śal-final root with an ik penult (adhukṣat, adhikṣat, alikṣat, advikṣat, aklikṣat)")
     add("7.3.72", lambda s: s.lak == "luṅ" and s.v == ["s", "a"] and s.A() and s.aff[:1] and s.aff[0] in V, lambda s: s.v.pop(), "the a of ksa dropped before the vowel-initial ātmanepada affix (adhukṣātām, adhukṣanta, adhukṣi)")
@@ -592,7 +604,7 @@ def rules() -> list[tuple[str, Callable[[S], bool], Callable[[S], Any], str]]:
     add("7.2.114", lambda s: s.up_root == "mṛjū~" and ((s.strong() and s.lak in PRESENT and not s.karmani) or s.hetu or ((s.it or s.v[:1] in (["s"], ["t"]) or s.lak == "liṭ") and not s.kit())) and s.r[1] in ("ṛ", "ar", "a"), lambda s: setattr(s, "r", ["m", "ā", "r", "j"] + (["i"] if "ṇic" in s.flags else [])), "vṛddhi of mṛj before the pit sārvadhātuka (mārṣṭi, mārjmi; the apavāda of 7.3.86's guṇa; 1.1.5 before the ṅit yāsuṭ: mṛjyāt)")
     add("7.4.21", lambda s: s.up_root == "śīṅ" and s.r[-1] == "ī" and s.lak in PRESENT and not s.karmani and not s.hetu, lambda s: s.r.__setitem__(-1, "e"), "guṇa of śī before every sārvadhātuka (śete, śerate, śayāte)")
     add("7.1.6", lambda s: s.up_root == "śīṅ" and s.lak in PRESENT and s.aff[:2] == ["a", "t"] and "7.1.6" not in s.done, lambda s: setattr(s, "aff", ["r"] + s.aff), "ruṭ to the at of jha after śī (śerate)")
-    add("6.4.34", lambda s: s.up_root == "śāsu~" and (not s.pit or (s.lak == "liṅ" and s.P())) and s.lak in PRESENT and not s.karmani and not s.hetu and not s.san and not (s.lak == "loṭ" and s.aff == ["h", "i"]) and s.nxt() and s.nxt()[0] not in V, lambda s: s.r.__setitem__(1, "i"), "ā of śās → i before the hal-initial kit / ṅit — the apit sārvadhātuka (1.2.4) and the ṅit yāsuṭ of liṅ (3.4.103) alike (śiṣṭaḥ, śiṣmaḥ, śiṣyāt); not before hi, where 6.4.35 is the apavāda")
+    add("6.4.34", lambda s: s.up_root == "śāsu~" and s.r[1] == "ā" and (("aṅ" in s.flags and s.lak == "luṅ") or ((not s.pit or (s.lak == "liṅ" and s.P())) and s.lak in PRESENT and not s.karmani and not s.hetu and not s.san and not (s.lak == "loṭ" and s.aff == ["h", "i"]) and s.nxt() and s.nxt()[0] not in V)), lambda s: s.r.__setitem__(1, "i"), "ā of śās → i before the hal-initial kit / ṅit — the apit sārvadhātuka (1.2.4) and the ṅit yāsuṭ of liṅ (3.4.103) alike (śiṣṭaḥ, śiṣmaḥ, śiṣyāt); not before hi, where 6.4.35 is the apavāda")
     add("6.4.114", lambda s: s.up_root == "daridrā" and not s.strong() and s.lak in PRESENT and not s.karmani and not s.hetu and s.nxt() and s.nxt()[0] not in V, lambda s: s.r.__setitem__(-1, "i"), "ā of daridrā → i before the hal-initial kit / ṅit (daridritaḥ)")
     add("6.4.36", lambda s: s.up_root == "hana~" and not s.hetu and not s.san and s.aff == ["h", "i"] and s.lak == "loṭ", lambda s: (setattr(s, "r", ["j", "a"]), s.flags.add("6.4.36")), "ja for han before hi (jahi); the ja is asiddhavat for 6.4.105 (6.4.22 asiddhavad atrābhāt), so the hi stays")
     add("6.4.37", lambda s: s.up_root == "hana~" and not s.hetu and not s.san and not s.strong() and s.lak in PRESENT and s.after_root() and s.after_root()[0] in JHAL and len(s.pre + s.aff) > 1 and s.r[-1] == "n", lambda s: s.r.pop(), "the anunāsika of han dropped before the jhal-initial kit / ṅit (hataḥ, hathaḥ; not before the yāsuṭ: hanyātam)")
@@ -826,16 +838,33 @@ def karmani_lane_oracle() -> dict[str, list[str]]:
     return json.loads(KARMANI_LANE_FILE.read_text(encoding="utf-8"))["cells"]
 
 
+JOBS = [1]   # the number of worker processes for the lane checks (--jobs): the cells are derived in key order whatever the count, so the certificate is the same
+
+
+def _lane_cell(key: str) -> tuple[str, str]:
+    r, pd, l, c = key.split("|")
+    try:
+        return key, conjugate(r, l, c, pada=pd)[0]
+    except Exception as e:  # noqa: BLE001
+        return key, f"ENGINE_ERROR {e}"
+
+
+def lane_rows(O: dict[str, list[str]]) -> dict[str, dict[str, Any]]:
+    """Every lane cell derived by the table and compared with the generator's forms; with JOBS > 1 the derivation is spread over
+    worker processes (fork), the rows assembled in the lane's key order — the same dictionary either way."""
+    keys = list(O)
+    if JOBS[0] > 1 and len(keys) > 200:
+        import multiprocessing as mp
+        with mp.get_context("fork").Pool(JOBS[0]) as pool:
+            got = dict(pool.map(_lane_cell, keys, chunksize=256))
+    else:
+        got = dict(_lane_cell(k) for k in keys)
+    return {k: {"ours": got[k], "vidyut": O[k], "agree": got[k] in O[k]} for k in keys}
+
+
 def t4_karmani_lane() -> dict[str, Any]:
     O = karmani_lane_oracle()
-    rows = {}
-    for key, forms in O.items():
-        r, pd, l, c = key.split("|")
-        try:
-            ours = conjugate(r, l, c, pada=pd)[0]
-        except Exception as e:  # noqa: BLE001
-            ours = f"ENGINE_ERROR {e}"
-        rows[key] = {"ours": ours, "vidyut": forms, "agree": ours in forms}
+    rows = lane_rows(O)
     by_lak = {l: [sum(1 for k, x in rows.items() if k.split("|")[2] == l and x["agree"]), sum(1 for k in rows if k.split("|")[2] == l)] for l in PRESENT}
     return {"cells": len(rows), "agree": sum(1 for x in rows.values() if x["agree"]), "by_lakara": by_lak, "disagree": {k: x for k, x in rows.items() if not x["agree"]}, "agreeing_keys": [k for k, x in rows.items() if x["agree"]]}
 
@@ -852,14 +881,7 @@ def nic_lane_oracle() -> dict[str, list[str]]:
 
 def t5_nic_lane() -> dict[str, Any]:
     O = nic_lane_oracle()
-    rows = {}
-    for key, forms in O.items():
-        r, pd, l, c = key.split("|")
-        try:
-            ours = conjugate(r, l, c, pada=pd)[0]
-        except Exception as e:  # noqa: BLE001
-            ours = f"ENGINE_ERROR {e}"
-        rows[key] = {"ours": ours, "vidyut": forms, "agree": ours in forms}
+    rows = lane_rows(O)
     by_lak = {l: [sum(1 for k, x in rows.items() if k.split("|")[2] == l and x["agree"]), sum(1 for k in rows if k.split("|")[2] == l)] for l in PRESENT}
     return {"cells": len(rows), "agree": sum(1 for x in rows.values() if x["agree"]), "by_lakara": by_lak, "disagree": {k: x for k, x in rows.items() if not x["agree"]}, "agreeing_keys": [k for k, x in rows.items() if x["agree"]]}
 
@@ -876,14 +898,7 @@ def san_lane_oracle() -> dict[str, list[str]]:
 
 def t6_san_lane() -> dict[str, Any]:
     O = san_lane_oracle()
-    rows = {}
-    for key, forms in O.items():
-        r, pd, l, c = key.split("|")
-        try:
-            ours = conjugate(r, l, c, pada=pd)[0]
-        except Exception as e:  # noqa: BLE001
-            ours = f"ENGINE_ERROR {e}"
-        rows[key] = {"ours": ours, "vidyut": forms, "agree": ours in forms}
+    rows = lane_rows(O)
     by_lak = {l: [sum(1 for k, x in rows.items() if k.split("|")[2] == l and x["agree"]), sum(1 for k in rows if k.split("|")[2] == l)] for l in PRESENT}
     return {"cells": len(rows), "agree": sum(1 for x in rows.values() if x["agree"]), "by_lakara": by_lak, "disagree": {k: x for k, x in rows.items() if not x["agree"]}, "agreeing_keys": [k for k, x in rows.items() if x["agree"]]}
 
@@ -958,14 +973,7 @@ def ardha_lane_oracle() -> dict[str, list[str]]:
 
 def t3_ardha_lane() -> dict[str, Any]:
     O = ardha_lane_oracle()
-    rows = {}
-    for key, forms in O.items():
-        r, pd, l, c = key.split("|")
-        try:
-            ours = conjugate(r, l, c, pada=pd)[0]
-        except Exception as e:  # noqa: BLE001
-            ours = f"ENGINE_ERROR {e}"
-        rows[key] = {"ours": ours, "vidyut": forms, "agree": ours in forms}
+    rows = lane_rows(O)
     by_lak = {l: [sum(1 for k, x in rows.items() if k.split("|")[2] == l and x["agree"]), sum(1 for k in rows if k.split("|")[2] == l)] for l in ARDHA_LANE_LAK}
     claimed = list(ARDHA_LANE_LAK)   # every lakāra closed (theorum/144: lṛṭ, luṭ, āśīrliṅ; theorum/145: lṛṅ, liṭ; theorum/146: luṅ)
     return {"cells": len(rows), "agree": sum(1 for x in rows.values() if x["agree"]), "by_lakara": by_lak, "closed_lakaras": claimed,
@@ -974,17 +982,31 @@ def t3_ardha_lane() -> dict[str, Any]:
 
 def t2_open_lane() -> dict[str, Any]:
     O = open_lane_oracle()
-    rows = {}
-    for key, forms in O.items():
-        r, pd, l, c = key.split("|")
-        try:
-            ours = conjugate(r, l, c, pada=pd)[0]
-        except Exception as e:  # noqa: BLE001
-            ours = f"ENGINE_ERROR {e}"
-        rows[key] = {"ours": ours, "vidyut": forms, "agree": ours in forms}
+    rows = lane_rows(O)
     n = len(rows); agree = sum(1 for x in rows.values() if x["agree"])
     by_lak = {l: [sum(1 for k, x in rows.items() if k.split("|")[2] == l and x["agree"]), sum(1 for k in rows if k.split("|")[2] == l)] for l in ("laṅ", "loṭ", "liṅ")}
     return {"cells": n, "agree": agree, "by_lakara": by_lak, "disagree": {k: x for k, x in rows.items() if not x["agree"]}, "agreeing_keys": [k for k, x in rows.items() if x["agree"]]}
+
+
+_LB: dict[str, Any] = {}   # the load-bearing check's shared data (set by t1_suite before the rows are checked; inherited by forked workers)
+
+
+def _broken_by_row(rid: str) -> tuple[str, list[str]]:
+    """The suite cells that break with row rid switched off; if none, the first agreeing lane cell that breaks (theorum/139, 144)."""
+    ora, ok, key = _LB["ora"], _LB["ok"], _LB["key"]
+    out = [f"{key(r, l, pd)}.{c}" for r, l, cs, pd in SUITE for c in cs if not ok(conjugate(r, l, c, off=(rid,), pada=pd)[0], ora(r, l, pd)[c])]
+    if not out:
+        for tag, keys, O_ in _LB["lanes"]:
+            for k in keys:
+                r, pd, l, c = k.split("|")
+                try:
+                    if conjugate(r, l, c, off=(rid,), pada=pd)[0] not in O_[k]:
+                        out.append(tag + k); break
+                except Exception:  # noqa: BLE001
+                    out.append(tag + k); break
+            if out:
+                break
+    return rid, out
 
 
 def t1_suite() -> dict[str, Any]:
@@ -995,20 +1017,14 @@ def t1_suite() -> dict[str, Any]:
     def ok(ours, o): return ours in o if isinstance(o, set) else ours == o   # a set: the written line's alternatives, the table's form one of them (theorum/160)
     mism = {f"{key(r, l, pd)}.{c}": (forms[key(r, l, pd)][c], ora(r, l, pd)[c]) for r, l, cs, pd in SUITE for c in cs if not ok(forms[key(r, l, pd)][c], ora(r, l, pd)[c])}
     lane = t2_open_lane(); O2 = open_lane_oracle(); lane3 = t3_ardha_lane(); O3 = ardha_lane_oracle(); lane4 = t4_karmani_lane(); O4 = karmani_lane_oracle(); lane5 = t5_nic_lane(); O5 = nic_lane_oracle(); lane6 = t6_san_lane(); O6 = san_lane_oracle()
-    broken: dict[str, list[str]] = {}
-    for rid in IDS:
-        broken[rid] = [f"{key(r, l, pd)}.{c}" for r, l, cs, pd in SUITE for c in cs if not ok(conjugate(r, l, c, off=(rid,), pada=pd)[0], ora(r, l, pd)[c])]
-        if not broken[rid]:   # a row no suite cell loads may still be loaded by an agreeing lane cell (theorum/139, 144)
-            for tag, keys, O_ in (("lane:", lane["agreeing_keys"], O2), ("ardha:", lane3["agreeing_keys"], O3), ("karmani:", lane4["agreeing_keys"], O4), ("nic:", lane5["agreeing_keys"], O5), ("san:", lane6["agreeing_keys"], O6)):
-                for k in keys:
-                    r, pd, l, c = k.split("|")
-                    try:
-                        if conjugate(r, l, c, off=(rid,), pada=pd)[0] not in O_[k]:
-                            broken[rid].append(tag + k); break
-                    except Exception:  # noqa: BLE001
-                        broken[rid].append(tag + k); break
-                if broken[rid]:
-                    break
+    _LB.clear(); _LB.update({"ora": ora, "ok": ok, "key": key, "lanes": (("lane:", lane["agreeing_keys"], O2), ("ardha:", lane3["agreeing_keys"], O3), ("karmani:", lane4["agreeing_keys"], O4), ("nic:", lane5["agreeing_keys"], O5), ("san:", lane6["agreeing_keys"], O6))})
+    if JOBS[0] > 1:
+        import multiprocessing as mp
+        with mp.get_context("fork").Pool(JOBS[0]) as pool:
+            broken = dict(pool.map(_broken_by_row, IDS, chunksize=4))
+    else:
+        broken = dict(_broken_by_row(rid) for rid in IDS)
+    _LB.clear()
     vacuous = [r for r in IDS if not broken[r] and r not in SURFACE_COINCIDENT]
     cells = sum(len(cs) for _, _, cs, _ in SUITE)
     checks = {"all_908_cells_equal_the_oracles": not mism, "every_rule_row_is_load_bearing_on_the_suite_except_the_declared_surface_coincident": not vacuous}
@@ -1065,7 +1081,8 @@ def certificate_sha256(payload: dict[str, Any]) -> str:
 
 
 def main() -> None:
-    ap = argparse.ArgumentParser(); ap.add_argument("--output", default=None); a = ap.parse_args()
+    ap = argparse.ArgumentParser(); ap.add_argument("--output", default=None); ap.add_argument("--jobs", type=int, default=1); a = ap.parse_args()
+    JOBS[0] = max(1, a.jobs)
     cert = build_certificate()
     print(cert["status"])
     for k, v in cert["t1_suite"]["checks"].items():

@@ -41,7 +41,7 @@ SOURCES = {
     "8.2.30": "coḥ kuḥ", "8.2.31": "ho ḍhaḥ", "8.2.32": "dāder dhātor ghaḥ", "8.2.36": "vraścabhrasjasṛjamṛjayajarājabhrājacchaśāṁ ṣaḥ", "8.2.40": "jhaṣas tathor dho 'dhaḥ",
     "8.4.1": "raṣābhyāṁ no ṇaḥ samānapade", "8.4.2": "aṭkupvāṅnumvyavāye 'pi", "8.4.41": "ṣṭunā ṣṭuḥ", "8.4.53": "jhalāṁ jaś jhaśi",
     "3.1.25": "satyāpapāśarūpavīṇātūlaślokasenālomatvacavarmavarṇacūrṇacurādibhyo ṇic", "6.4.51": "ṇer aniṭi", "6.4.52": "niṣṭhāyāṁ seṭi", "7.1.58": "idito nuṁ dhātoḥ", "8.3.24": "naś cāpadāntasya jhali", "8.4.58": "anusvārasya yayi parasavarṇaḥ",
-    "6.4.19": "cchvoḥ śūḍ anunāsike ca", "6.1.77": "iko yaṇ aci", "6.4.2": "halaḥ", "7.4.43": "jahāteś ca ktvi", "7.3.33": "āto yuk ciṇkṛtoḥ", "6.1.101": "akaḥ savarṇe dīrghaḥ", "1.2.8": "rudavidamuṣagrahisvapipracchaḥ sa~ś ca",
+    "6.4.19": "cchvoḥ śūḍ anunāsike ca", "6.1.77": "iko yaṇ aci", "6.4.2": "halaḥ", "7.4.43": "jahāteś ca ktvi", "7.3.33": "āto yuk ciṇkṛtoḥ", "6.1.101": "akaḥ savarṇe dīrghaḥ", "1.2.2": "vija iṭ", "1.2.8": "rudavidamuṣagrahisvapipracchaḥ sa~ś ca",
     "6.1.64": "dhātvādeḥ ṣaḥ saḥ", "6.1.65": "ṇo naḥ", "7.3.85": "jāgro 'viciṇṇalṅitsu", "7.2.114": "mṛjer vṛddhiḥ", "6.4.42": "janasanakhanāṁ sañjhaloḥ", "6.4.15": "anunāsikasya kvijhaloḥ kṅiti", "7.1.64": "labheś ca",
     "3.2.124": "laṭaḥ śatṛśānacāv aprathamāsamānādhikaraṇe", "3.4.113": "tiṅśit sārvadhātukam", "7.2.82": "āne muk", "7.2.83": "īdāsaḥ", "7.4.21": "śīṅaḥ sārvadhātuke guṇaḥ", "6.1.97": "ato guṇe",
     "8.3.13": "ḍho ḍhe lopaḥ", "6.3.111": "ḍhralope pūrvasya dīrgho 'ṇaḥ", "8.4.56": "vāvasāne",
@@ -82,6 +82,8 @@ class K:
     def form(self): return "".join(self.r + self.it + self.aff)
     def nxt(self): return (self.it + self.aff)[:1]
     def kit(self):   # 1.1.5 kṅiti ca: the kit affix withholds guṇa / vṛddhi — unless 1.2.18 (the seṭ ktvā is not kit) or 1.2.19 (the niṣṭhā after śī, svid, mid, kṣvid, dhṛṣ is not kit)
+        if self.it and self.up_root == "o~vijī~":
+            return True   # 1.2.2 vija iṭ: the iṭ-initial affix is ṅit after vij (vijitum, vijitavya, vijitṛ; theorum/164)
         if not self.kit0:
             return False
         if self.affix == "ktvā" and self.up_root in ("rudi~r", "vida~", "muṣa~", "graha~", "ñiṣvapa~", "pracha~"):

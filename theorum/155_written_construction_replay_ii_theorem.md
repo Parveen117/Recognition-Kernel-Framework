@@ -79,3 +79,5 @@ RH, YM                                                                          
 *Note (theorum/162).* Re-pinned again by theorum/162 (`c27a8317…`): vid declared, R4 replays all 742 of PG19's positions on declared roots (the 234 causal-passive ones remain outside the tables), 739 agree, the three adjudicated ṇatva cells standing; R6's placement 317 rows / 251 ledger / 3,281 neither (3.4.83 and 2.4.55 now in the ledger). The pin `8e5403e2…` holds at commit 6469a92.
 
 *Note (theorum/163).* Re-pinned again by theorum/163 (`9650260f…`): R4 742 of 976 replayed, 739 agree; R6's placement 317 rows / 251 ledger / 3281 neither. The pin `c27a8317…` holds at commit cc7b39b.
+
+*Note (theorum/164).* Re-pinned again by theorum/164 (`f0a6e565…`): R4 742 of 976 replayed, 739 agree; R6's placement 319 rows / 252 ledger / 3278 neither (3.1.56, 7.4.16 and 1.2.2 now in the ledger). The pin `9650260f…` holds at commit d0c2fa2.

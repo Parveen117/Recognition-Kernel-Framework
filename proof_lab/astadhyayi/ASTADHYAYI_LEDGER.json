@@ -10,12 +10,12 @@
   ],
   "counts": {
     "compiled": 10,
-    "meta": 182,
-    "hand_coded": 444,
-    "cited": 409,
+    "meta": 183,
+    "hand_coded": 446,
+    "cited": 408,
     "misnumbered": 2,
-    "entries": 1047,
-    "text_missing": 95,
+    "entries": 1049,
+    "text_missing": 94,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
     "iast_mismatch_with_pinned_edition": 0
@@ -130,6 +130,7 @@
         "theorum/131_ting_rule_table_engine_lit_theorem.md",
         "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
+        "theorum/164_gana_sweep_svadi_kryadi_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md"
       ]
     },
@@ -1040,14 +1041,22 @@
       ]
     },
     "1.2.2": {
-      "text": "",
+      "text": "vija iṭ",
       "text_devanagari": "विज इट्",
       "in_pinned_edition": true,
-      "iast_matches_pinned_edition": null,
-      "level": "cited",
-      "theorems": [],
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T164"
+      ],
       "cited_in": [
-        "theorum/163_gana_sweep_adadi_juhotyadi_rudhadi_tanadi_theorem.md"
+        "proof_lab/krt_rule_table_engine.py",
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/142_panini_kernel_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
+        "theorum/163_gana_sweep_adadi_juhotyadi_rudhadi_tanadi_theorem.md",
+        "theorum/164_gana_sweep_svadi_kryadi_theorem.md"
       ]
     },
     "1.2.4": {
@@ -1114,7 +1123,8 @@
         "proof_lab/krt_rule_table_engine.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/149_ting_rule_table_engine_san_theorem.md",
-        "theorum/151_krt_rule_table_engine_theorem.md"
+        "theorum/151_krt_rule_table_engine_theorem.md",
+        "theorum/164_gana_sweep_svadi_kryadi_theorem.md"
       ]
     },
     "1.2.9": {
@@ -1144,7 +1154,8 @@
       ],
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
-        "theorum/149_ting_rule_table_engine_san_theorem.md"
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/164_gana_sweep_svadi_kryadi_theorem.md"
       ]
     },
     "1.2.11": {
@@ -4101,18 +4112,26 @@
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/146_ting_rule_table_engine_lun_breadth_theorem.md",
         "theorum/149_ting_rule_table_engine_san_theorem.md",
-        "theorum/160_ting_rule_table_engine_written_roots_theorem.md"
+        "theorum/160_ting_rule_table_engine_written_roots_theorem.md",
+        "theorum/164_gana_sweep_svadi_kryadi_theorem.md"
       ]
     },
     "3.1.56": {
-      "text": "",
+      "text": "sarttiśāstyartibhyaśca",
       "text_devanagari": "सर्त्तिशास्त्यर्तिभ्यश्च",
       "in_pinned_edition": true,
-      "iast_matches_pinned_edition": null,
-      "level": "cited",
-      "theorems": [],
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T164"
+      ],
       "cited_in": [
-        "theorum/163_gana_sweep_adadi_juhotyadi_rudhadi_tanadi_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/142_panini_kernel_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
+        "theorum/163_gana_sweep_adadi_juhotyadi_rudhadi_tanadi_theorem.md",
+        "theorum/164_gana_sweep_svadi_kryadi_theorem.md"
       ]
     },
     "3.1.57": {
@@ -4128,7 +4147,8 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/146_ting_rule_table_engine_lun_breadth_theorem.md",
         "theorum/147_ting_rule_table_engine_karmani_theorem.md",
-        "theorum/149_ting_rule_table_engine_san_theorem.md"
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/164_gana_sweep_svadi_kryadi_theorem.md"
       ]
     },
     "3.1.60": {
@@ -10167,7 +10187,8 @@
         "theorum/147_ting_rule_table_engine_karmani_theorem.md",
         "theorum/149_ting_rule_table_engine_san_theorem.md",
         "theorum/157_written_modal_registers_replay_ii_theorem.md",
-        "theorum/158_ting_rule_table_engine_sas_correction_theorem.md"
+        "theorum/158_ting_rule_table_engine_sas_correction_theorem.md",
+        "theorum/164_gana_sweep_svadi_kryadi_theorem.md"
       ]
     },
     "6.4.35": {
@@ -12667,7 +12688,8 @@
         "proof_lab/krt_rule_table_engine.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/149_ting_rule_table_engine_san_theorem.md",
-        "theorum/151_krt_rule_table_engine_theorem.md"
+        "theorum/151_krt_rule_table_engine_theorem.md",
+        "theorum/164_gana_sweep_svadi_kryadi_theorem.md"
       ]
     },
     "7.2.44": {
@@ -13848,6 +13870,17 @@
         "theorum/149_ting_rule_table_engine_san_theorem.md"
       ]
     },
+    "7.3.56": {
+      "text": "",
+      "text_devanagari": "हेरचङि",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": null,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "theorum/164_gana_sweep_svadi_kryadi_theorem.md"
+      ]
+    },
     "7.3.58": {
       "text": "vibhāṣā ceḥ",
       "text_devanagari": "विभाषा चेः",
@@ -14812,6 +14845,23 @@
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
         "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md"
+      ]
+    },
+    "7.4.16": {
+      "text": "ṛdṛśo'ṅi guṇaḥ",
+      "text_devanagari": "ऋदृशोऽङि गुणः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T164"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/142_panini_kernel_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
+        "theorum/164_gana_sweep_svadi_kryadi_theorem.md"
       ]
     },
     "7.4.20": {
@@ -16104,7 +16154,8 @@
         "proof_lab/krt_rule_table_engine.py",
         "theorum/120_krt_mathematical_construction_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
-        "theorum/163_gana_sweep_adadi_juhotyadi_rudhadi_tanadi_theorem.md"
+        "theorum/163_gana_sweep_adadi_juhotyadi_rudhadi_tanadi_theorem.md",
+        "theorum/164_gana_sweep_svadi_kryadi_theorem.md"
       ]
     },
     "8.2.46": {
@@ -16116,7 +16167,8 @@
       "theorems": [],
       "cited_in": [
         "proof_lab/krt_rule_table_engine.py",
-        "theorum/151_krt_rule_table_engine_theorem.md"
+        "theorum/151_krt_rule_table_engine_theorem.md",
+        "theorum/164_gana_sweep_svadi_kryadi_theorem.md"
       ]
     },
     "8.2.51": {
@@ -16805,7 +16857,8 @@
         "theorum/149_ting_rule_table_engine_san_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
         "theorum/157_written_modal_registers_replay_ii_theorem.md",
-        "theorum/158_ting_rule_table_engine_sas_correction_theorem.md"
+        "theorum/158_ting_rule_table_engine_sas_correction_theorem.md",
+        "theorum/164_gana_sweep_svadi_kryadi_theorem.md"
       ]
     },
     "8.3.61": {

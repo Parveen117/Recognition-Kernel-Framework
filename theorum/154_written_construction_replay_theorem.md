@@ -56,3 +56,5 @@ RH, YM                                                                          
 *Note (theorum/162).* Re-pinned again by theorum/162 (`3e9aeeda…`): vid, añj, cakṣ declared, 713 reference forms replay, 658 agree, 53 the other branch of an option — the nine laṭ cells of vid are 3.4.83 *vido laṭo vā*, the written line realising the ṇal series (*veda, vidatuḥ, viduḥ, vettha …*), the table the tiṅ series (*vetti, vittaḥ, vidanti, vetsi …*) — 1 to adjudicate (kṣiṇoti), 1 adjudicated; 20 roots remain undeclared. The pin `cf3b5fce…` holds at commit 6469a92.
 
 *Note (theorum/163).* Re-pinned again by theorum/163 (`92aa86e0…`): 734 replayed, 676 agree, 56 the other branch of an option, 1 to adjudicate, 1 adjudicated; 10 roots undeclared. The pin `3e9aeeda…` holds at commit cc7b39b.
+
+*Note (theorum/164).* Re-pinned again by theorum/164 (`ab73e1a8…`): 736 replayed, 678 agree, 56 the other branch of an option, 1 to adjudicate, 1 adjudicated; 8 roots undeclared. The pin `92aa86e0…` holds at commit d0c2fa2.

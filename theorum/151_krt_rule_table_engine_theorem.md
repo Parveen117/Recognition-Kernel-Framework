@@ -62,3 +62,5 @@ daridrā, śvasta, mṛditvā / mṛḍitvā; śatṛ / śānac, lyuṭ, ghañ, 
 *Note (theorum/162).* Re-pinned again by theorum/162 (`43173c58…`): the lane rebuilt on the forty-eight declared roots (2,012 cells, 2,004 agree), 8.2.29 on the root-final kṣ added (*caṣṭa, caṣṭum*); the table does not read 2.4.54's khyā before a kṛt affix (recorded). The pin `6960478f…` holds at commit 6469a92.
 
 *Note (theorum/163).* Re-pinned again by theorum/163 (`f0f4a4c2…`): the lane 2,265 / 2,275. The pin `43173c58…` holds at commit cc7b39b.
+
+*Note (theorum/164).* Re-pinned again by theorum/164 (`af8d9f69…`): the lane 2,531 / 2,546. The pin `f0f4a4c2…` holds at commit d0c2fa2.

@@ -92,11 +92,14 @@ def repin(mod: str, pin: str, capsule: str, by: int, dry: bool, extra: str = "")
         return True
     pinf.write_text(sha + "\n", encoding="utf-8")
     idx = R / "CERTIFICATE_INDEX.md"; t = idx.read_text(encoding="utf-8")
-    n = t.count(old)
-    if n == 0:
-        print(f"   ! {old[:8]} not in CERTIFICATE_INDEX.md")
-    t = t.replace(old, sha); idx.write_text(t, encoding="utf-8")
-    cap = R / capsule; cap.write_text(cap.read_text(encoding="utf-8").rstrip("\n") + note, encoding="utf-8")
+    prev = cur if (cur != old and cur in t) else old   # a re-run within the session: the index holds the session's earlier re-pin
+    if prev not in t:
+        print(f"   ! {prev[:8]} not in CERTIFICATE_INDEX.md")
+    t = t.replace(prev, sha); idx.write_text(t, encoding="utf-8")
+    cap = R / capsule; body = cap.read_text(encoding="utf-8")
+    m = re.search(r"\n\n\*Note \(theorum/%d\)\.\*[^\n]*\n?$" % by, body)
+    body = body[:m.start()] + "\n" if m else body   # the session's earlier note for the same theorem is replaced, not stacked
+    cap.write_text(body.rstrip("\n") + note, encoding="utf-8")
     return True
 
 
