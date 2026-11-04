@@ -1002,6 +1002,22 @@ the unchanged T159 head and implementation handoff. [Next work](feminine_host_hi
 constructs the earlier lexical/descent preparation of the supplied feminine
 stem. Grammar tests, generators, replay and navigation/operator suites remain deferred.
 
+**Owned गन्ध compounds and descent preparation:**
+
+[PG53](gandha_descent_histories/README.md) constructs **करीषगन्धि → कारीषगन्ध्या**
+and **कुमुदगन्धि → कौमुदगन्ध्या**, the qualified feminine inputs of PG51/52.
+Two paths share one sixteen-stage chain; eight controls give **ten written units**.
+The histories distinguish two गन्ध occurrences and require base-इ deletion
+before the ष्यङ् weight guard. [Native continuation](gandha_descent_histories/DOMAIN_AND_NATIVE.md)
+checks the new domains and reuses the inherited zero-reading/pairing proof.
+[Sources](gandha_descent_histories/SOURCE_EXCERPTS.json) add 49 literal fields; unchanged
+evidence and both **3,983-ID sets / 11,552 positions** are inherited by
+exact references in [state](gandha_descent_histories/STATE.json). No new ID or position
+credit is taken. The revised workflow avoids redundant predecessor audits,
+requires **Python 3.12 only** for Python checks/tests, and keeps grammar tests,
+generators, replay and navigation/operator suites deferred. The T160 report and
+its remaining status inconsistency are recorded separately from execution here.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

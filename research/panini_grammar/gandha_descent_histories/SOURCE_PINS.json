@@ -1,0 +1,184 @@
+{
+  "schema": "rkf.panini.pg53.source_pins.v1",
+  "author": "Monty",
+  "date": "2026-11-04",
+  "base": {
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "tree": "ac503a3de6fe33b2c0374b333d6a7c878d147f25"
+  },
+  "primary": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/data.txt",
+      "reading_scope": "SELECTED_FIELDS_READ_COMPLETE_FILE_HASHED",
+      "bytes": 3979366,
+      "sha256": "6a22591f418cd924ba4bd621944de2359cc06721b5ada79ef08d70f17a07bcc6",
+      "git_blob_sha": "c847b9e41054ec7efb9e63c0fdc093faa0007980"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kashika.txt",
+      "reading_scope": "SELECTED_FIELDS_READ_COMPLETE_FILE_HASHED",
+      "bytes": 3806703,
+      "sha256": "ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254",
+      "git_blob_sha": "e525df7668835ef1dd7c5988c031da07ce0c162b"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/nyaas.txt",
+      "reading_scope": "SELECTED_FIELDS_READ_COMPLETE_FILE_HASHED",
+      "bytes": 9286920,
+      "sha256": "09766f127e9523d911179065fed777a17c4f832b336e745f13c0b2cebc76c0ce",
+      "git_blob_sha": "8ecc8bbb657a42be8606fe07fa0c72c9cb7fa1b1"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/padamanjari.txt",
+      "reading_scope": "SELECTED_FIELDS_READ_COMPLETE_FILE_HASHED",
+      "bytes": 7828904,
+      "sha256": "93b817859e7333f326b0aaec7f17b03d83ff3d34cf3200402e929e8a21ce28cc",
+      "git_blob_sha": "0d926503e6f22d6375c6f2fabb247d1606742258"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kaumudi.txt",
+      "reading_scope": "SELECTED_FIELDS_READ_COMPLETE_FILE_HASHED",
+      "bytes": 2057933,
+      "sha256": "c1938e832ddc2e148ae36257448ee3391f71cdac28be19dc4bfdc3881f3b457d",
+      "git_blob_sha": "686f4b7593f2dd05e1f8b6181425cfa9cf20655b"
+    }
+  ],
+  "inherited": [
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+      "path": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+      "reading_scope": "IMMUTABLE_REFERENCE_PREVIOUS_REVIEW_INHERITED",
+      "bytes": 134052,
+      "sha256": "c44389ac785576a74da2ab92e7ccfba90543acc071c1d9e7ac8844a3c25c9611",
+      "git_blob_sha": "1c9d75ea35c2de4987026432e87f9cd2b8cc0203"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+      "path": "research/panini_grammar/feminine_host_histories/SOURCE_EXCERPTS.json",
+      "reading_scope": "IMMUTABLE_REFERENCE_PREVIOUS_REVIEW_INHERITED",
+      "bytes": 142439,
+      "sha256": "c45ac03f36dac5aa977ae18f5be61e7fc18411a15b4a57fdf21cbf6d6b590031",
+      "git_blob_sha": "35c363d3502934669577ad421961582241a268a7"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+      "path": "research/panini_grammar/feminine_host_histories/DOMAIN_AND_NATIVE.md",
+      "reading_scope": "IMMUTABLE_REFERENCE_PREVIOUS_REVIEW_INHERITED",
+      "bytes": 8032,
+      "sha256": "e7cf7f4ea0758e1bb085926732f3b0598d22b740b631e33799f0da806883ea07",
+      "git_blob_sha": "9982ea50484cf0476010dfd866fb44e584917b29"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+      "path": "research/panini_grammar/feminine_host_histories/SOURCE_PINS.json",
+      "reading_scope": "IMMUTABLE_REFERENCE_PREVIOUS_REVIEW_INHERITED",
+      "bytes": 24491,
+      "sha256": "ff095d54aeb31af7d5444c41f6d001e113bb40c9bcb54655cb9a7d02982a0f7f",
+      "git_blob_sha": "ef1e00710c557bdc8dbec30ec8e8c7b298e6a377"
+    }
+  ],
+  "companion": [
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "fe99fa94b79caeb5a00d218fafd6b78b1c51f488",
+      "path": "theorum/160_ting_rule_table_engine_written_roots_theorem.md",
+      "reading_scope": "CAPSULE_READ_IN_FULL_UPSTREAM_REPORT_ONLY",
+      "bytes": 8748,
+      "sha256": "675e5c7a0fe9554a47c82cbb816aaada3801cede840c708b92db7eee9c19843b",
+      "git_blob_sha": "42aac61fe18c4b48ccef2126a6752b5248bf13cb"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "fe99fa94b79caeb5a00d218fafd6b78b1c51f488",
+      "path": "proof_lab/ting_rule_table_engine.py",
+      "reading_scope": "SELECTED_CHANGED_HUNKS_READ_NOT_FULL_MODULE_AUDIT",
+      "bytes": 177696,
+      "sha256": "2fa4ae8504700d10cdf5b9cd187a0e0df7646a4b17870d85a21a948920031c51",
+      "git_blob_sha": "7e80f51624edf01e1205c249b6e7852fb2f89ad5"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "fe99fa94b79caeb5a00d218fafd6b78b1c51f488",
+      "path": "proof_lab/test_ting_rule_table_engine.py",
+      "reading_scope": "CHANGED_SET_MEMBERSHIP_ASSERTIONS_READ_NOT_RUN",
+      "bytes": 2139,
+      "sha256": "164e48ed94091a797958a5f935d5bd04dae5b04c966a596082d3c87c201cd14c",
+      "git_blob_sha": "01c1706db7488cc76f2d5b7ec675da2a2b066c8e"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "fe99fa94b79caeb5a00d218fafd6b78b1c51f488",
+      "path": "proof_lab/pg_written_replay.py",
+      "reading_scope": "CHANGED_DECLARATIONS_AND_ADJUDICATION_GUARD_PASSAGES_READ_NOT_RUN",
+      "bytes": 31720,
+      "sha256": "6ef81ba4d1b88b29d889d756dd1e7324501228041822a7e4c3015d66d4bf6cc9",
+      "git_blob_sha": "b731683dc22af265a9cd6960c554db86b92bf683"
+    }
+  ],
+  "authored": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 5787,
+      "sha256": "b4861101ee3fc8e3145ac51a3250d86fb51cb72f8101d9aa45d4de44d83852b7",
+      "git_blob_sha": "8d624bef108525e6fcfb204cdda4cbaebeda0edf"
+    },
+    {
+      "path": "MATHEMATICS_INDEX.md",
+      "bytes": 195229,
+      "sha256": "3f300840ab0e623f764ae37a79219c4fb6a20d653f16e1ab8c07bd50848cce04",
+      "git_blob_sha": "ceb88a4328d69296b091fe32402ad0884748a2ac"
+    },
+    {
+      "path": "research/panini_grammar/README.md",
+      "bytes": 70422,
+      "sha256": "01914e08cdbdac785276450518c97caaccd794280920f78db877bb990387562f",
+      "git_blob_sha": "1b107d6c69f58afeb2e274efd1d7450567411435"
+    },
+    {
+      "path": "research/panini_grammar/gandha_descent_histories/DERIVATIONS.md",
+      "bytes": 13325,
+      "sha256": "0c5e4275d33ec1effe194a95434a0ebdec12b64823f0a2349335ed73c7e3c353",
+      "git_blob_sha": "a36e9bc72473c22c0cc3a3afbecafae322bae0b4"
+    },
+    {
+      "path": "research/panini_grammar/gandha_descent_histories/DOMAIN_AND_NATIVE.md",
+      "bytes": 6396,
+      "sha256": "978ad5981afb57145ee5cca21bad55c9f9cf848d6340d23dafb5a9c5041444f0",
+      "git_blob_sha": "644b8f57b832200cafd6bc82257a5a4f45f28f1a"
+    },
+    {
+      "path": "research/panini_grammar/gandha_descent_histories/README.md",
+      "bytes": 6000,
+      "sha256": "eeba3169fdfef66fed0202d26b527b74c72bbd22fbd8b22d483d18092c42a036",
+      "git_blob_sha": "dc1ef856c5204c2263e5fed8b2033043dd4325b0"
+    },
+    {
+      "path": "research/panini_grammar/gandha_descent_histories/SOURCE_EXCERPTS.json",
+      "bytes": 74976,
+      "sha256": "a49ab38324b730c928448b2e2859137a72c7d72b4eb3cd64e97fd23367f13c4d",
+      "git_blob_sha": "3737d1c6456fdf45f0ca493fddaaea501ae92ba7"
+    },
+    {
+      "path": "research/panini_grammar/gandha_descent_histories/STATE.json",
+      "bytes": 9728,
+      "sha256": "695810bc495b0cc008b0cfedeb8adbe20c7c76f729752028a147fe0c88947529",
+      "git_blob_sha": "02d6c6cd5cc2e6db817f99ba1e4511af28805a38"
+    }
+  ],
+  "total_pin_count": 21,
+  "inheritance_policy": "Directly used predecessor surfaces pinned; recursive predecessor/source/certificate audits not repeated. Manifest excludes itself."
+}

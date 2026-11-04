@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG52 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG53 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG52 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG53 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,26 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG53: owned गन्ध compounds and descent preparation
+
+[PG53](research/panini_grammar/gandha_descent_histories/README.md) constructs
+**करीषगन्धि → कारीषगन्ध्या** and **कुमुदगन्धि → कौमुदगन्ध्या**,
+the qualified feminine inputs of PG51/52. Two instantiations of one
+sixteen-stage chain and eight controls give **ten written units**. Separate
+गन्ध occurrences, base-इ deletion before the weight guard, initial वृद्धि,
+owned अण्→ष्यङ् and distinct चाप् remain explicit.
+
+[Native continuation](research/panini_grammar/gandha_descent_histories/DOMAIN_AND_NATIVE.md)
+checks the new operation domains and applies the inherited zero-reading and
+pairing proof. [Sources](research/panini_grammar/gandha_descent_histories/SOURCE_EXCERPTS.json)
+add 49 literal fields; unchanged evidence is inherited by exact pins.
+[State](research/panini_grammar/gandha_descent_histories/STATE.json) keeps both **3,983-ID sets**
+and **11,552 positions**, with zero new ID/position credit. The owner workflow
+now skips redundant predecessor audits and requires **Python 3.12 only** for
+Python checks/tests. Grammar tests, generators, replay and navigation/operator
+suites remain deferred. The bounded T160 review distinguishes reported progress
+from execution here and flags the capsule's unresolved kṣiṇoti status wording.
 
 ## PG52: scoped feminine owners, shortening and a fresh suffix
 

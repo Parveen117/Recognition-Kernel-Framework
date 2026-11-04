@@ -43,6 +43,18 @@ written proofs and only direct checks needed for the changed claim. Do not add
 generic test suites, rerun untouched predecessor suites or regenerate frozen
 certificates merely to accompany a new stage. Report what was actually checked.
 
+Owner workflow update, 4 November 2026: for the ongoing written Pāṇini work,
+reuse unchanged, reviewed sources and results through exact commit/file pins.
+Review the new claims and changed dependencies; do not repeat a full predecessor
+audit merely because another stage is added. Share common derivation steps by
+explicit reference, while retaining each new rule's conditions, source policy,
+affix ownership and open obligations. Run the necessary document checks once
+after a coherent change; repeat only for edits, failures or unresolved concerns.
+Grammar tests, generators and certificate replay remain deferred to Claude's
+implementation work. Any Python checks or tests that are run must use Python
+3.12 only, with an explicit runtime check; do not also run 3.11 or fall back to
+it. If 3.12 is unavailable, report that limitation rather than claiming a pass.
+
 ## Canonical mathematics and verification
 
 Owner clarification during YC26: lambda-space means an operator carrier.
@@ -60,4 +72,4 @@ Use Recognition Kernel terminology and its native premise order. Typed cuts, cut
 
 Keep theorem, computational, formal/Lean, provenance and external review status separate. A finite PASS is not a universal proof. Source inclusion does not upgrade a historical claim. Preserve existing RH, K0, E4D-C and mass-gap boundaries unless a later exact canonical theorem changes them.
 
-Preserve source-pinned paths and native terms, including Śūnya, Cut, Morphisum, Recognition, Bindu, Lopa, Smriti, seam and open residue. Update the mathematics navigation in the same commit as mathematical additions. Run `node operator_foundation/verify_all.cjs --check` for this engine and `python -m unittest proof_lab.test_mathematics_index -v` under the supported Python 3.11/3.12 runtime for navigation changes. Report a missing runtime or an unrun suite instead of claiming success. Never overwrite certificate pins merely to make a failing read-only check pass.
+Preserve source-pinned paths and native terms, including Śūnya, Cut, Morphisum, Recognition, Bindu, Lopa, Smriti, seam and open residue. Update the mathematics navigation in the same commit as mathematical additions. Run `node operator_foundation/verify_all.cjs --check` for this engine and `python3.12 -m unittest proof_lab.test_mathematics_index -v` under Python 3.12 only for navigation changes, subject to the owner's written-work deferral above. Report a missing runtime or an unrun suite instead of claiming success. Never overwrite certificate pins merely to make a failing read-only check pass.
