@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG56 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG57 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG56 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG57 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,27 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG57: चक्ष् substitution, intended affixes and the शानच् control
+
+[PG57](research/panini_grammar/caks_substitution_scope/README.md) supplies
+seven construction groups and eight controls: **fifteen written units**.
+Affix-addressed आर्धधातुक scope supports ख्यायते, ख्यापयति/ख्यापयते,
+चिख्यासति/चिख्यासते and eight kṛt targets; the simple-root शित्
+शानच् target instead retains चक्ष्. The source's आख्येयम् example
+shows why intended-domain substitution precedes root-dependent suffix choice.
+The substitute's ञ् qualifies pada admission independently of the old root.
+
+[Native continuation](research/panini_grammar/caks_substitution_scope/DOMAIN_AND_NATIVE.md)
+extends the full carrier and its typed zero-reading/pairing proof.
+[T162 handoff](research/panini_grammar/caks_substitution_scope/COMPANION_REVIEW.md)
+partitions the reported 153 targets as **144 + 8 + 1**, without claiming
+153 executed or erroneous outputs. [State](research/panini_grammar/caks_substitution_scope/STATE.json)
+retains both **3,983-ID sets / 11,552 positions** with zero new ID or
+paradigm credit. Selected literal sources are pinned; document checks use
+Python 3.12 only. Grammar tests, generators, replay and navigation/operator
+suites remain deferred. The alternative ख्शा/क्शा visibility history,
+nested complete paradigms and runtime integration remain open.
 
 ## PG56: ष्यङ् markers, feminine competitors and stem accent
 

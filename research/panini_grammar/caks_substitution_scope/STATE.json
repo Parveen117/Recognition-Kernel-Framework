@@ -1,0 +1,511 @@
+{
+  "schema": "rkf.panini.pg57.state.v1",
+  "author": "Monty",
+  "date": "2026-11-04",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "24b429719cc54baca68de2df03772b66ce4bad4d",
+    "path": "research/panini_grammar/shyan_marker_accent/STATE.json",
+    "reading_scope": "COUNTS_AND_EXACT_ID_SET_REFERENCES_INHERITED_WITHOUT_REAUDIT",
+    "bytes": 11849,
+    "sha256": "218736ae515d9d051fd6d54adda1231a09e70846718b816e66a4f4d6a7359b29",
+    "git_blob_sha": "74834b765ee9f4bbb5c6a42e48e3f72498825943"
+  },
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "finite_positions": 11552,
+  "new_catalogue_ids": [],
+  "new_positions": 0,
+  "new_paradigm_readings": 0,
+  "written_units": 15,
+  "block_counts": {
+    "H": 7,
+    "C": 8
+  },
+  "stage_record_counts": {
+    "G": 8,
+    "Y": 4,
+    "N": 5,
+    "S": 6,
+    "K": 8,
+    "A": 5,
+    "L": 4,
+    "P": 4
+  },
+  "stage_count_is_new_rule_count": false,
+  "records": [
+    {
+      "id": "H01",
+      "title": "Passive ख्यायते",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/caks_substitution_scope/DERIVATIONS.md",
+      "line": 48,
+      "source_ids": [
+        "1.3.3",
+        "1.3.9",
+        "1.3.13",
+        "2.4.35",
+        "2.4.54",
+        "3.1.67",
+        "3.4.69",
+        "3.4.113",
+        "3.4.114"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "H02",
+      "title": "Causative ख्यापयति and qualified ख्यापयते",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/caks_substitution_scope/DERIVATIONS.md",
+      "line": 64,
+      "source_ids": [
+        "1.1.46",
+        "1.3.3",
+        "1.3.9",
+        "1.3.74",
+        "1.3.78",
+        "2.4.35",
+        "2.4.54",
+        "3.1.26",
+        "3.1.32",
+        "3.1.68",
+        "3.1.91",
+        "3.4.114",
+        "6.1.78",
+        "7.3.33",
+        "7.3.36",
+        "7.3.84"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "H03",
+      "title": "Desiderative चिख्यासति and qualified चिख्यासते",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/caks_substitution_scope/DERIVATIONS.md",
+      "line": 82,
+      "source_ids": [
+        "1.3.62",
+        "1.3.72",
+        "1.3.78",
+        "2.4.35",
+        "2.4.54",
+        "3.1.7",
+        "3.1.32",
+        "3.1.68",
+        "3.4.114",
+        "6.1.9",
+        "7.4.59",
+        "7.4.60",
+        "7.4.62",
+        "7.4.79",
+        "8.4.54"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "H04",
+      "title": "Eight आर्धधातुक kṛt targets",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/caks_substitution_scope/DERIVATIONS.md",
+      "line": 103,
+      "source_ids": [
+        "1.1.26",
+        "1.3.3",
+        "1.3.7",
+        "1.3.9",
+        "2.4.35",
+        "2.4.54",
+        "3.1.96",
+        "3.1.133",
+        "3.2.102",
+        "3.3.10",
+        "3.4.21",
+        "3.4.67",
+        "3.4.114",
+        "6.1.101",
+        "7.1.1",
+        "7.3.33",
+        "8.2.57"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "H05",
+      "title": "Affix choice after the intended substitution: आख्येयम्",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/caks_substitution_scope/DERIVATIONS.md",
+      "line": 133,
+      "source_ids": [
+        "2.4.35",
+        "2.4.54",
+        "3.1.97",
+        "3.1.124",
+        "6.4.65",
+        "7.3.84"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "H06",
+      "title": "Perfect optionality keeps two root histories",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/caks_substitution_scope/DERIVATIONS.md",
+      "line": 149,
+      "source_ids": [
+        "1.3.12",
+        "1.3.72",
+        "1.3.78",
+        "2.4.35",
+        "2.4.54",
+        "2.4.55",
+        "3.4.115"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "H07",
+      "title": "The ninth kṛt target: चक्षाण remains a different case",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/caks_substitution_scope/DERIVATIONS.md",
+      "line": 168,
+      "source_ids": [
+        "1.3.12",
+        "2.4.35",
+        "2.4.54",
+        "2.4.72",
+        "3.1.68",
+        "3.2.124",
+        "3.4.113",
+        "3.4.114",
+        "8.4.1",
+        "8.4.2"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "C01",
+      "title": "A grammatical label cannot classify every member of kṛt",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/caks_substitution_scope/DERIVATIONS.md",
+      "line": 186,
+      "source_ids": [
+        "3.2.124",
+        "3.4.113",
+        "3.4.114"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "C02",
+      "title": "Equal सन् spelling does not imply equal designation",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/caks_substitution_scope/DERIVATIONS.md",
+      "line": 193,
+      "source_ids": [
+        "3.1.5",
+        "3.1.7",
+        "3.4.114"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "C03",
+      "title": "The वर्जन exception retains the old consonant-final base",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/caks_substitution_scope/DERIVATIONS.md",
+      "line": 200,
+      "source_ids": [
+        "2.4.35",
+        "2.4.54",
+        "3.1.124"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "C04",
+      "title": "अस्/अन and names need a witnessed exception policy",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/caks_substitution_scope/DERIVATIONS.md",
+      "line": 207,
+      "source_ids": [
+        "2.4.54"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "C05",
+      "title": "ञ् is operative even though it is not pronounced",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/caks_substitution_scope/DERIVATIONS.md",
+      "line": 216,
+      "source_ids": [
+        "1.1.56",
+        "1.3.12",
+        "1.3.13",
+        "1.3.62",
+        "1.3.72",
+        "1.3.74",
+        "1.3.78",
+        "2.4.54"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "C06",
+      "title": "An outer designation does not replace the inner affix record",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/caks_substitution_scope/DERIVATIONS.md",
+      "line": 225,
+      "source_ids": [
+        "2.4.35",
+        "2.4.54",
+        "2.4.55",
+        "3.1.7",
+        "3.1.26",
+        "3.1.32",
+        "3.1.67",
+        "3.2.124",
+        "3.4.113",
+        "3.4.114",
+        "3.4.115"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "C07",
+      "title": "The alternative क्शा analysis is not an intermediate synonym",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/caks_substitution_scope/DERIVATIONS.md",
+      "line": 233,
+      "source_ids": [
+        "2.4.54"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "C08",
+      "title": "Unknown meaning and surface agreement do not close the gate",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/caks_substitution_scope/DERIVATIONS.md",
+      "line": 241,
+      "source_ids": [
+        "2.4.35",
+        "2.4.54",
+        "3.4.113",
+        "3.4.114"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    }
+  ],
+  "referenced_existing_ids": [
+    "1.1.26",
+    "1.1.46",
+    "1.1.56",
+    "1.3.3",
+    "1.3.7",
+    "1.3.9",
+    "1.3.12",
+    "1.3.13",
+    "1.3.62",
+    "1.3.72",
+    "1.3.74",
+    "1.3.78",
+    "2.4.35",
+    "2.4.54",
+    "2.4.55",
+    "2.4.72",
+    "3.1.5",
+    "3.1.7",
+    "3.1.26",
+    "3.1.32",
+    "3.1.67",
+    "3.1.68",
+    "3.1.91",
+    "3.1.96",
+    "3.1.97",
+    "3.1.124",
+    "3.1.133",
+    "3.2.102",
+    "3.2.124",
+    "3.3.10",
+    "3.4.21",
+    "3.4.67",
+    "3.4.69",
+    "3.4.113",
+    "3.4.114",
+    "3.4.115",
+    "6.1.9",
+    "6.1.78",
+    "6.1.101",
+    "6.4.65",
+    "7.1.1",
+    "7.3.33",
+    "7.3.36",
+    "7.3.84",
+    "7.4.59",
+    "7.4.60",
+    "7.4.62",
+    "7.4.79",
+    "8.2.57",
+    "8.4.1",
+    "8.4.2",
+    "8.4.54"
+  ],
+  "total_selected_literal_fields": 54,
+  "selected_fields_may_repeat_earlier_archives": true,
+  "grammar_executions": 0,
+  "overall_grammar_completion_percent": null,
+  "resolved_previous_frontier": {
+    "qualified_yak_nic_desiderative_san_substitution": true,
+    "krt_partition": {
+      "ardhadhatuka_targets": 8,
+      "sarvadhatuka_shanac_control": 1
+    },
+    "prospective_domain_precedes_root_conditioned_suffix_choice": true,
+    "substitute_nya_qualifies_pada": true,
+    "source_policy": "Kashika khyan in ordinary telling use with stated exceptions excluded",
+    "complete_153_cell_execution": false,
+    "complete_source_branch_coverage": false
+  },
+  "krt_written_targets": [
+    {
+      "affix": "kta",
+      "written": "khyāta",
+      "decision": "SUBSTITUTE"
+    },
+    {
+      "affix": "ktavatu",
+      "written": "khyātavat",
+      "decision": "SUBSTITUTE"
+    },
+    {
+      "affix": "tavya",
+      "written": "khyātavya",
+      "decision": "SUBSTITUTE"
+    },
+    {
+      "affix": "tumun",
+      "written": "khyātum",
+      "decision": "SUBSTITUTE"
+    },
+    {
+      "affix": "ktvā",
+      "written": "khyātvā",
+      "decision": "SUBSTITUTE"
+    },
+    {
+      "affix": "tṛc",
+      "written": "khyātṛ",
+      "decision": "SUBSTITUTE"
+    },
+    {
+      "affix": "anīyar",
+      "written": "khyānīya",
+      "decision": "SUBSTITUTE"
+    },
+    {
+      "affix": "ṇvul",
+      "written": "khyāyaka",
+      "decision": "SUBSTITUTE"
+    },
+    {
+      "affix": "śānac",
+      "written": "cakṣāṇa",
+      "decision": "NO_SUBSTITUTION_FROM_THIS_SIMPLE_ROOT_AFFIX"
+    }
+  ],
+  "companion": {
+    "head": "cc7b39bb70aec81579fefa27c8aac5db89480da5",
+    "previous_head": "cc7b39bb70aec81579fefa27c8aac5db89480da5",
+    "new_commits_observed": 0,
+    "stage": "T162",
+    "review_scope": "UNCHANGED_HEAD; CAPSULE_SCOPE_AND_RELEVANT_GUARD_REVIEW_ONLY",
+    "reported_verbal_groups": {
+      "yak": 36,
+      "nic": 72,
+      "san": 36
+    },
+    "reported_krt_targets": 9,
+    "reported_scope_total": 153,
+    "source_partition": {
+      "verbal": 144,
+      "affected_krt": 8,
+      "shanac_control": 1
+    },
+    "affected_target_count": 152,
+    "affected_count_is_executed_or_verified_cells": false,
+    "expected_set_membership_limit_inherited": true,
+    "pg19_metadata_merge_limit_inherited": true,
+    "execution_rerun": false,
+    "runtime_modified": false,
+    "report_file": "COMPANION_REVIEW.md"
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "python_311_test_runs": 0,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED",
+    "certificate_replay": "DEFERRED",
+    "navigation_suite": "DEFERRED",
+    "operator_suite": "DEFERRED"
+  },
+  "next_work": {
+    "kind": "KHSHAA_KSHAA_ALTERNATIVE_AND_QUERY_RELATIVE_ASIDDHA_HISTORY",
+    "completed": false,
+    "needs": [
+      "Pin the alternative khsha/optional sha-to-ya account and its intermediate queries",
+      "Distinguish nishtha, nominal and sound consumers before projecting to khya/ksha",
+      "Retain pada and it obligations on each admitted branch"
+    ]
+  },
+  "open_obligations": [
+    "Full 144 verbal-cell continuations and all alternative branches.",
+    "Nested nic/san with outer perfect or participle.",
+    "Full krt/krtanta inflection and accent.",
+    "vicaksana lyut/yuc source and accent arbitration.",
+    "General semantic/register/lexical admission and source-policy scheduling.",
+    "Separate Unadi corpus completion.",
+    "Runtime integration and deferred execution."
+  ]
+}

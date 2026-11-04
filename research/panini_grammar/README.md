@@ -1068,6 +1068,25 @@ which is the next written block. Document checks use Python 3.12 only;
 grammar tests, generators, replay and navigation/operator suites remain deferred.
 Full recitation, nominal paradigms and the global marker redesign remain open.
 
+**चक्ष् substitution and the affix's own domain:**
+
+[PG57](caks_substitution_scope/README.md) adds **fifteen written units**:
+seven construction groups and eight controls. It derives the qualified
+ख्यायते, ख्यापयति/ख्यापयते and चिख्यासति/चिख्यासते paths,
+eight ख्या-based kṛt keys, the source's आख्येयम् timing example,
+perfect branch witnesses and the contrasting simple-root चक्षाण.
+Affix prescription, inner/outer host and the substitute's ञ् remain explicit.
+[T162 handoff](caks_substitution_scope/COMPANION_REVIEW.md) separates its
+reported targets into **144 verbal + 8 affected kṛt + 1 शानच् control**;
+no 153-cell execution is claimed. [Native continuation](caks_substitution_scope/DOMAIN_AND_NATIVE.md)
+extends the full carrier with typed zero-reading compatibility.
+[Sources](caks_substitution_scope/SOURCE_EXCERPTS.json) and
+[state](caks_substitution_scope/STATE.json) preserve literal evidence and
+both **3,983-ID sets / 11,552 positions**, with no new ID or paradigm credit.
+Python 3.12 document checks only; grammar tests, generators, replay and
+navigation/operator suites remain deferred. Next: the ख्शा/क्शा source
+branch and its consumer-specific असिद्ध history.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
