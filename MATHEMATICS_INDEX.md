@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG44 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG45 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG44 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG45 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,35 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG45: combined catalogue closure — 3,983 bounded IDs
+
+[PG45](research/panini_grammar/catalogue_gap_closure/README.md) adds the
+**207 remaining combined gaps**: 44 in 3.4, 162 in 4.1 and 8.3.119.
+Combined ID reach becomes **3,983/3,983**; independent written reach
+**3,848**, with **135 written gaps** remaining. Finite positions stay
+**11,552**, with zero new positions/readings. Catalogue closure is not full
+grammar completion or executable verification.
+
+[Domain](research/panini_grammar/catalogue_gap_closure/DOMAIN.md),
+[construction](research/panini_grammar/catalogue_gap_closure/CONSTRUCTION.md)
+and [register](research/panini_grammar/catalogue_gap_closure/RULE_REGISTER.json)
+retain action/role conditions, feminine affix origins, generation-relative
+designations, dependent branches and addressed deletion.
+[Native continuation](research/panini_grammar/catalogue_gap_closure/NATIVE_CONTINUATION.md)
+instantiates the inherited full carrier and typed zero-reading.
+[Source review](research/panini_grammar/catalogue_gap_closure/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/catalogue_gap_closure/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/catalogue_gap_closure/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/catalogue_gap_closure/COVERAGE.json)
+retain **975 literal fields**, 41 file pins and exact independent-written gaps.
+[Predecessor review](research/panini_grammar/catalogue_gap_closure/PREDECESSOR_REVIEW.md)
+checks PG44's 300 rows, 1,215 literals and 42 pins, and documents PG41's omitted
+8.3.119 plus its incorrect 8.3.55 endpoint. Frozen counts remain unchanged.
+[Handoff/work](research/panini_grammar/catalogue_gap_closure/HANDOFF_AND_WORK.md)
+records unchanged T152, deferred suites/replay and the next **135 independent-written
+IDs beginning at 1.1.7**, adding zero combined IDs. Full realization and
+integration remain open.
 
 ## PG44: kṛt meanings and temporal relations — 3,776 bounded IDs
 

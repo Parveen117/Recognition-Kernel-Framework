@@ -800,6 +800,35 @@ records unchanged T152 and deferred suites/replay. **207 combined gaps** and
 **342 independent-written gaps** remain; the next combined gap is **3.4.39**.
 Full realization, separate Uṇādi completion and executable verification remain open.
 
+**Remaining 207: combined catalogue closure:**
+
+[PG45](catalogue_gap_closure/README.md) adds the
+**207 remaining combined gaps**: 44 in 3.4, 162 in 4.1 and 8.3.119.
+Combined ID reach becomes **3,983/3,983**; independent written reach
+**3,848**, with **135 written gaps** remaining. Finite positions stay
+**11,552**, with zero new positions/readings. Catalogue closure is not full
+grammar completion or executable verification.
+
+[Domain](catalogue_gap_closure/DOMAIN.md),
+[construction](catalogue_gap_closure/CONSTRUCTION.md)
+and [register](catalogue_gap_closure/RULE_REGISTER.json)
+retain action/role conditions, feminine affix origins, generation-relative
+designations, dependent branches and addressed deletion.
+[Native continuation](catalogue_gap_closure/NATIVE_CONTINUATION.md)
+instantiates the inherited full carrier and typed zero-reading.
+[Source review](catalogue_gap_closure/SOURCE_REVIEW.md),
+[archive](catalogue_gap_closure/SOURCE_EXCERPTS.json),
+[pins](catalogue_gap_closure/SOURCE_PINS.json) and
+[coverage](catalogue_gap_closure/COVERAGE.json)
+retain **975 literal fields**, 41 file pins and exact independent-written gaps.
+[Predecessor review](catalogue_gap_closure/PREDECESSOR_REVIEW.md)
+checks PG44's 300 rows, 1,215 literals and 42 pins, and documents PG41's omitted
+8.3.119 plus its incorrect 8.3.55 endpoint. Frozen counts remain unchanged.
+[Handoff/work](catalogue_gap_closure/HANDOFF_AND_WORK.md)
+records unchanged T152, deferred suites/replay and the next **135 independent-written
+IDs beginning at 1.1.7**, adding zero combined IDs. Full realization and
+integration remain open.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
