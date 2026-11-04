@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 5 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG62 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 5 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG63 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG62 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG63 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,25 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG63: Ciri register admission and owned i/auxiliary constructions
+
+[PG63](research/panini_grammar/ciri_jiri_rksi_sources/README.md) traces
+ciri's reported classical admission to the inspected Kṛdantarūpamālā
+entry 526. Its named policy adds **54 positions and 94 readings**:
+six complete P paradigms, including 47 perfect readings with separately
+owned kṛ/bhū/as auxiliaries and both external nasal readouts. The total
+is **11,714 written positions**; both **3,983-ID sets remain unchanged**.
+
+The [derivations](research/panini_grammar/ciri_jiri_rksi_sources/DERIVATIONS.md)
+keep root i, it-marker i, pronunciation aids and iṭ distinct. The
+inspected Kṣīrataraṅgiṇī idit/num witness does not erase modern ṛkṣi's
+different account or SK's literal present discrepancy. Jiri's classical
+requests remain held. The [native continuation](research/panini_grammar/ciri_jiri_rksi_sources/DOMAIN_AND_NATIVE.md)
+retains source/role cuts, auxiliary ownership, ordered histories and
+typed zero/pairing compatibility. Python 3.12 changed-document checks
+are separate from deferred grammar/generator/replay/navigation/operator
+suites. Frozen packets and the canonical runtime are unchanged.
 
 ## PG62: svṝ source correction and complete svṝ/śṝñ modals
 

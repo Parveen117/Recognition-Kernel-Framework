@@ -1179,6 +1179,18 @@ requests are source-held; frozen evidence remains unchanged. Python
 3.12 document checks only; grammar tests, generators, replay and
 navigation/operator suites stay deferred. Next: ciri/jiri/ṛkṣi sources.
 
+**PG63** — [Ciri register and ṛkṣi source roles](ciri_jiri_rksi_sources/README.md)
+traces the named KRM526 classical-use report to an inspected page and adds
+six complete ciri P paradigms: **54 positions / 94 readings**, bringing
+the total to **11,714**. Root i survives; perfect ām, auxiliary liṭ,
+san iṭ and future sya have distinct owners. The newly inspected Kṣīra
+idit/num witness is kept separate from the modern ṛkṣi pronunciation-only
+account and SK's literal present. Jiri's wider classical admission stays
+held; no quoted Vedic control is counted as a complete paradigm. Both
+**3,983-ID sets remain unchanged**. Native source-role cuts and typed
+zero/pairing recovery are written; Python 3.12 document checks are separate
+from the deferred grammar, replay and navigation/operator suites.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
