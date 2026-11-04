@@ -1689,7 +1689,7 @@ proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Pāṇini Kernel |
 | Status | `PASS_PANINI_KERNEL_CANDIDATE` |
-| Canonical result SHA-256 | `f569ee6a8b097c5c4bb97825a1cbab0d1b380660e7af693327797cdea7fc1ee2` |
+| Canonical result SHA-256 | `d68d62082a06ab53408583592379018a8459e54b2b4a9a65ed3e82d69aee4d52` |
 | Boundary | the two engines, the ledger and the evidence as one object: 230 sūtras as rows after theorum/143 (225 at first pin 41854a6b…, in the history), 18 shared (junction / tripādī only), every row a ledger entry and every engine ledger entry a row; coverage counted |
 
 ```text
@@ -1921,6 +1921,22 @@ theorum/156_written_modal_registers_replay_theorem.md
 proof_lab/pg_modal_registers.py
 proof_lab/test_pg_modal_registers.py
 proof_lab/PG_MODAL_REGISTERS_EXPECTED.sha256
+```
+
+## Theorem 157 the written modal registers replayed II — PG23's lexical and PG25's abhyasta loṭ / vidhiliṅ, PG31's lṛṅ and PG32's luṅ and māṅ registers: 999 positions, 702 replayed, 692 agree, 10 adjudicated against the table (śās: 6.4.35 missing, 6.4.34 / 8.3.60 not reaching the yāsuṭ cells) packet
+
+| Field | Value |
+|---|---|
+| Certificate class | the written modal registers replayed II — PG23's lexical and PG25's abhyasta loṭ / vidhiliṅ, PG31's lṛṅ and PG32's luṅ and māṅ registers: 999 positions, 702 replayed, 692 agree, 10 adjudicated against the table (śās: 6.4.35 missing, 6.4.34 / 8.3.60 not reaching the yāsuṭ cells) |
+| Status | `PASS_PG_MODAL_REGISTERS_II_CANDIDATE` |
+| Canonical result SHA-256 | `c400f14174919a6710c2db654bc1c935733d8e1316ae85a06f2650f8884a443b` |
+| Boundary | PG23 §P1–P2, PG25 §P1–P3, PG31 §P1–P2 and PG32 §P1–P3 read from the written files: 999 positions, 702 replayed by the verbal table (54 māṅ cells under 6.4.74 by withholding the augment rows 6.4.71 / 6.4.72), 692 agree; 10 cells adjudicated to the written form by 6.4.34 / 6.4.35 / 8.3.60 (quoted) — three row defects of the verbal table on śās, named for correction; 35 cells the other branch of 7.2.44 / 6.4.115 / 6.4.116; 297 positions on 14 undeclared roots, 189 causal lṛṅ and the tāt words placed outside the table — PROVED (exact, finite); the correction itself and which reading is right elsewhere NOT CLAIMED |
+
+```text
+theorum/157_written_modal_registers_replay_ii_theorem.md
+proof_lab/pg_modal_registers_ii.py
+proof_lab/test_pg_modal_registers_ii.py
+proof_lab/PG_MODAL_REGISTERS_II_EXPECTED.sha256
 ```
 
 ## Consolidated parallel-lineage index

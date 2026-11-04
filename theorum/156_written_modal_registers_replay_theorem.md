@@ -44,3 +44,5 @@ THE 15 UNDECLARED ROOTS; THE CAUSAL, KARMAṆI AND BHĀVE ĀŚĪRLIṄ; THE TĀT
 WHICH READING IS RIGHT WHERE THEY DIFFER (kṣiṇ / kṣeṇ against the Kāśikā); PG23–PG34'S REGISTERS                                                NOT CLAIMED
 RH, YM                                                                                                                                      UNTOUCHED
 ```
+
+*Note (theorum/157).* The next four registers (PG23, PG25, PG31, PG32) are replayed by theorem 157: 692 / 702 agree, and the ten śās cells are adjudicated against the table. The kernel is re-pinned again by theorum/157 (`d68d6208…`); commit 9fc4399 holds this theorem's state and its kernel pin `f569ee6a…`.

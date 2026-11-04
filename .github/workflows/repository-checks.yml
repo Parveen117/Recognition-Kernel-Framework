@@ -307,6 +307,9 @@ jobs:
                   'proof_lab/pg_modal_registers.py',
                   'proof_lab/test_pg_modal_registers.py',
                   'proof_lab/PG_MODAL_REGISTERS_EXPECTED.sha256',
+                  'proof_lab/pg_modal_registers_ii.py',
+                  'proof_lab/test_pg_modal_registers_ii.py',
+                  'proof_lab/PG_MODAL_REGISTERS_II_EXPECTED.sha256',
                   'theorum/125_sup_rule_table_engine_theorem.md',
                   'theorum/126_sup_rule_table_engine_s_i_u_r_classes_theorem.md',
                   'theorum/127_sup_rule_table_engine_numerals_theorem.md',
@@ -339,6 +342,7 @@ jobs:
                   'theorum/154_written_construction_replay_theorem.md',
                   'theorum/155_written_construction_replay_ii_theorem.md',
                   'theorum/156_written_modal_registers_replay_theorem.md',
+                  'theorum/157_written_modal_registers_replay_ii_theorem.md',
                   'research/samasa_construction/verify_quotes.py',
                   'research/samasa_construction/QUOTES_VERIFIED.json',
                   'research/panini_grammar/vikarana_lat/LEXICAL_ENTRIES.json',
@@ -399,10 +403,10 @@ jobs:
       - name: Check PG1 Sanskrit text inventory and source pins
         if: steps.scope.outputs.pg1 == 'true'
         run: python research/panini_grammar/check_sources.py
-      - name: Check Theorem 78-156 quoted-source certificates, ledger, pins and the samāsa-construction quotations
+      - name: Check Theorem 78-157 quoted-source certificates, ledger, pins and the samāsa-construction quotations
         if: steps.scope.outputs.shaiva == 'true'
         run: |
-          python -B -m unittest proof_lab.test_shaiva_sources_nativized proof_lab.test_shaiva_sources_varga_crystal proof_lab.test_paninian_instruction_format proof_lab.test_paninian_samjna_sound_layer proof_lab.test_paninian_it_samjna_compiled proof_lab.test_paniniya_siksha_sources proof_lab.test_vedanga_sources_quoted proof_lab.test_nirukta_nama_akhyatajani proof_lab.test_nirukta_dhatupatha_nama proof_lab.test_tripadi_nishtha_compiled proof_lab.test_ap_stem_sup_compiled proof_lab.test_ngi_stem_sup_compiled proof_lab.test_r_stem_sup_compiled proof_lab.test_ghi_stem_sup_compiled proof_lab.test_hal_stem_sup_compiled proof_lab.test_napumsaka_sup_compiled proof_lab.test_sarvanama_sup_compiled proof_lab.test_lan_parasmaipada_compiled proof_lab.test_lot_lin_parasmaipada_compiled proof_lab.test_lrt_lut_parasmaipada_compiled proof_lab.test_sarvanama_ap_sup_compiled proof_lab.test_atmanepada_lan_lot_lin_compiled proof_lab.test_krt_ktva_tumun_tavya_compiled proof_lab.test_lun_parasmaipada_compiled proof_lab.test_lit_parasmaipada_compiled proof_lab.test_taddhita_an_in_yan_compiled proof_lab.test_samasa_compiled proof_lab.test_nic_causative_compiled proof_lab.test_san_desiderative_compiled proof_lab.test_krt_ghan_lyut_nvul_satr_compiled proof_lab.test_yan_intensive_compiled proof_lab.test_ugit_at_stem_sup_compiled proof_lab.test_passive_yak_compiled proof_lab.test_stri_pratyaya_compiled proof_lab.test_atmanepada_lrt_lut_compiled proof_lab.test_pronominal_taddhita_adverbs_compiled proof_lab.test_avyayibhava_dvigu_compiled proof_lab.test_asirlin_parasmaipada_compiled proof_lab.test_atmanepada_lun_compiled proof_lab.test_asirlin_atmanepada_compiled proof_lab.test_in_stem_sup_compiled proof_lab.test_yusmad_asmad_sup_compiled proof_lab.test_sup_rule_table_engine proof_lab.test_ting_rule_table_engine proof_lab.test_panini_kernel proof_lab.test_panini_isa proof_lab.test_krt_rule_table_engine proof_lab.test_krdanta_sup proof_lab.test_pg_replay proof_lab.test_pg_written_replay proof_lab.test_pg_modal_registers proof_lab.test_astadhyayi_ledger -v
+          python -B -m unittest proof_lab.test_shaiva_sources_nativized proof_lab.test_shaiva_sources_varga_crystal proof_lab.test_paninian_instruction_format proof_lab.test_paninian_samjna_sound_layer proof_lab.test_paninian_it_samjna_compiled proof_lab.test_paniniya_siksha_sources proof_lab.test_vedanga_sources_quoted proof_lab.test_nirukta_nama_akhyatajani proof_lab.test_nirukta_dhatupatha_nama proof_lab.test_tripadi_nishtha_compiled proof_lab.test_ap_stem_sup_compiled proof_lab.test_ngi_stem_sup_compiled proof_lab.test_r_stem_sup_compiled proof_lab.test_ghi_stem_sup_compiled proof_lab.test_hal_stem_sup_compiled proof_lab.test_napumsaka_sup_compiled proof_lab.test_sarvanama_sup_compiled proof_lab.test_lan_parasmaipada_compiled proof_lab.test_lot_lin_parasmaipada_compiled proof_lab.test_lrt_lut_parasmaipada_compiled proof_lab.test_sarvanama_ap_sup_compiled proof_lab.test_atmanepada_lan_lot_lin_compiled proof_lab.test_krt_ktva_tumun_tavya_compiled proof_lab.test_lun_parasmaipada_compiled proof_lab.test_lit_parasmaipada_compiled proof_lab.test_taddhita_an_in_yan_compiled proof_lab.test_samasa_compiled proof_lab.test_nic_causative_compiled proof_lab.test_san_desiderative_compiled proof_lab.test_krt_ghan_lyut_nvul_satr_compiled proof_lab.test_yan_intensive_compiled proof_lab.test_ugit_at_stem_sup_compiled proof_lab.test_passive_yak_compiled proof_lab.test_stri_pratyaya_compiled proof_lab.test_atmanepada_lrt_lut_compiled proof_lab.test_pronominal_taddhita_adverbs_compiled proof_lab.test_avyayibhava_dvigu_compiled proof_lab.test_asirlin_parasmaipada_compiled proof_lab.test_atmanepada_lun_compiled proof_lab.test_asirlin_atmanepada_compiled proof_lab.test_in_stem_sup_compiled proof_lab.test_yusmad_asmad_sup_compiled proof_lab.test_sup_rule_table_engine proof_lab.test_ting_rule_table_engine proof_lab.test_panini_kernel proof_lab.test_panini_isa proof_lab.test_krt_rule_table_engine proof_lab.test_krdanta_sup proof_lab.test_pg_replay proof_lab.test_pg_written_replay proof_lab.test_pg_modal_registers proof_lab.test_pg_modal_registers_ii proof_lab.test_astadhyayi_ledger -v
           python -B -m proof_lab.shaiva_sources_nativized --output /tmp/shaiva_actual.json
           python -B -m proof_lab.shaiva_sources_varga_crystal --output /tmp/shaiva_vc_actual.json
           python -B -m proof_lab.paninian_instruction_format --output /tmp/pif_actual.json
@@ -454,6 +458,7 @@ jobs:
           python -B -m proof_lab.pg_replay --output /tmp/pg_replay_actual.json
           python -B -m proof_lab.pg_written_replay --output /tmp/pg_written_replay_actual.json
           python -B -m proof_lab.pg_modal_registers --output /tmp/pg_modal_registers_actual.json
+          python -B -m proof_lab.pg_modal_registers_ii --output /tmp/pg_modal_registers_ii_actual.json
           python -B -m research.samasa_construction.verify_quotes
           python - <<'PY'
           import hashlib
@@ -508,7 +513,8 @@ jobs:
                                    ('/tmp/krdanta_sup_actual.json', 'proof_lab/KRDANTA_SUP_EXPECTED.sha256'),
                                    ('/tmp/pg_replay_actual.json', 'proof_lab/PG_REPLAY_EXPECTED.sha256'),
                                    ('/tmp/pg_written_replay_actual.json', 'proof_lab/PG_WRITTEN_REPLAY_EXPECTED.sha256'),
-                                   ('/tmp/pg_modal_registers_actual.json', 'proof_lab/PG_MODAL_REGISTERS_EXPECTED.sha256')):
+                                   ('/tmp/pg_modal_registers_actual.json', 'proof_lab/PG_MODAL_REGISTERS_EXPECTED.sha256'),
+                                   ('/tmp/pg_modal_registers_ii_actual.json', 'proof_lab/PG_MODAL_REGISTERS_II_EXPECTED.sha256')):
               actual = hashlib.sha256(Path(actual_path).read_bytes()).hexdigest()
               expected = Path(pin).read_text(encoding='utf-8').strip()
               assert actual == expected, (pin, actual, expected)
