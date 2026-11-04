@@ -46,3 +46,5 @@ RH, YM                                                                          
 ```
 
 *Note (theorum/155).* PG19–PG47 of the written line are merged after this theorem; its certificate re-runs unchanged on them (pin `8824583c…` stands: no new packet carries a REFERENCE_CASES.json). Theorem 155 tests what the new packets write that the tables can read — PG19's register, PG47's rule histories, the rule contracts — and names six further undeclared roots. The kernel is re-pinned again by theorum/155 (`578406c8…`); commit 71daacf holds this theorem's state.
+
+*Note (theorum/156).* On the one case to adjudicate, *kṣiṇoti / kṣeṇoti*: the written line's PG21 (merged after this theorem) no longer realises one branch but keeps both as labelled commentary policies (G0 *kṣiṇ-*, G1 *kṣeṇ-*, 3.1.79), each uniform across the tuple; the table realises the guṇa in the strong cells only (*kṣeṇotu, kṣiṇutām*) — a third, mixed reading (theorem 156 §2). The item stands, now stated exactly: whether 7.3.86's laghūpadha guṇa reads the tanādi u, and in which cells — to be adjudicated against the Kāśikā on 3.1.79 / 7.3.86.

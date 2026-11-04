@@ -131,6 +131,7 @@ The advanced numbered surface now runs through Theorem 80:
 81. **153 — the kṛdanta declined.** Three tables by call: the verbal table's laṭ aṅga, the kṛt table's stem, the nominal table's pada, with the feminine rows (4.1.4 / 4.1.5 / 4.1.6, 7.1.80 / 7.1.81, 7.3.44) and the stem's class by the affix; 50,265 / 51,326 padas in three genders on a new lane, every disagreement of a named kind; the nominal table taught one num, 7.1.78, 7.1.80 / 81 before śī, 6.4.14's adhātoḥ, 8.4.2 not before a jhal, 8.4.39.
 82. **154 — the written construction replayed.** The grammar-construction packets' reference forms re-derived by the certified tables from the same Dhātupāṭha entry: 604 / 648 agree, 43 the other branch of eight named options (7.3.95, 8.4.65, 3.1.82, 3.4.84, 6.4.115, 6.4.116, 7.2.114, 7.3.90), 1 to adjudicate (kṣiṇoti); the 161 cited sūtras placed against the edition, the tables and the ledger (20 in neither); re-runs on each packet that arrives.
 83. **155 — the written construction replayed II.** PG19–PG47 merged (review files reworded generically); PG19's loṭ / vidhiliṅ register expanded from its own constructors to its 976 positions and replayed by the verbal table on the declared roots: 541 / 542 agree, the one cell (*kārayāni*) adjudicated to *kārayāṇi* by 8.4.1 / 8.4.2; PG47's 29 worked histories compared step by step with the tables' paths — 11 reached, 12 / 12 agree (order, blocked rules absent, witness word), 18 placed out of scope with reasons; 3,796 written rule contracts all in the pinned edition with its text, 3,849 cited sūtras placed (308 rows, 250 ledger, 3,291 neither); six more undeclared roots named.
+84. **156 — the written modal registers replayed.** PG20's āśīrliṅ (24 rows), PG21's nasal-class loṭ / vidhiliṅ (27 rows, with the S4 / S5 stem interfaces) and PG22's athematic loṭ / vidhiliṅ (36 rows) expanded from the packets' own constructors to 1,026 positions; 693 on declared roots replayed by the verbal table, 693 agree, 0 to adjudicate; 85 cells the other branch of 3.1.82 / 3.1.79 / 8.4.65; the one mixed-branch realisation named (kṣiṇ loṭ: guṇa in the strong cells only — the kṣiṇoti / kṣeṇoti item); 15 undeclared roots and the tātaṅ forms (no 7.1.35 row) placed outside the table.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -178,7 +179,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-155                           PRESENT
+NUMBERED THEOREM FILES 01-156                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT

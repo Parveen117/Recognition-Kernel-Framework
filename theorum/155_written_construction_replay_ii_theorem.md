@@ -67,3 +67,5 @@ THE SIX NEW UNDECLARED ROOTS (hṛ, sthā, pā, vid, budh, kṛṣ) AND THEOREM 
 THE CONTRACTS' CONTENT; THE COMPOUND / TADDHITA / VEDIC HISTORIES; WHICH READING IS RIGHT WHERE THEY DIFFER BEYOND THE ONE ADJUDICATED CELL   NOT CLAIMED
 RH, YM                                                                                                                                      UNTOUCHED
 ```
+
+*Note (theorum/156).* The next three registers (PG20 āśīrliṅ, PG21 nasal-class, PG22 athematic loṭ / vidhiliṅ) are replayed by theorem 156: 693 / 693 agree. The kernel is re-pinned again by theorum/156 (`f569ee6a…`); commit 921ee1e holds this theorem's state and its kernel pin `578406c8…`.

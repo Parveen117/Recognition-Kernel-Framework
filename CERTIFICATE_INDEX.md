@@ -1689,7 +1689,7 @@ proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Pāṇini Kernel |
 | Status | `PASS_PANINI_KERNEL_CANDIDATE` |
-| Canonical result SHA-256 | `578406c8119cf6b8c10a242a85fd206deb7cf2c8f1578e590ee05d0f82acf085` |
+| Canonical result SHA-256 | `f569ee6a8b097c5c4bb97825a1cbab0d1b380660e7af693327797cdea7fc1ee2` |
 | Boundary | the two engines, the ledger and the evidence as one object: 230 sūtras as rows after theorum/143 (225 at first pin 41854a6b…, in the history), 18 shared (junction / tripādī only), every row a ledger entry and every engine ledger entry a row; coverage counted |
 
 ```text
@@ -1905,6 +1905,22 @@ theorum/155_written_construction_replay_ii_theorem.md
 proof_lab/pg_written_replay.py
 proof_lab/test_pg_written_replay.py
 proof_lab/PG_WRITTEN_REPLAY_EXPECTED.sha256
+```
+
+## Theorem 156 the written modal registers replayed — PG20's āśīrliṅ, PG21's nasal-class and PG22's athematic loṭ / vidhiliṅ expanded from the packets' own constructors: 1,026 positions, 693 replayed, 693 agree, 0 to adjudicate; 85 cells the other branch of a named option; the one mixed-branch row named (kṣiṇ, 3.1.79) packet
+
+| Field | Value |
+|---|---|
+| Certificate class | the written modal registers replayed — PG20's āśīrliṅ, PG21's nasal-class and PG22's athematic loṭ / vidhiliṅ expanded from the packets' own constructors: 1,026 positions, 693 replayed, 693 agree, 0 to adjudicate; 85 cells the other branch of a named option; the one mixed-branch row named (kṣiṇ, 3.1.79) |
+| Status | `PASS_PG_MODAL_REGISTERS_CANDIDATE` |
+| Canonical result SHA-256 | `158912ce8cd72587710474fc19a4257780c99e8755aba2e4e837ac16c5c2ccbf` |
+| Boundary | PG20 §P2 (24 rows, B_P / B_A), PG21 §P2 (27 rows, U / A / O constructors with the S4 / S5 interfaces) and PG22 §P1–P2 (18 explicit loṭ tuples, 18 vidhiliṅ factor rows) expanded from the written files to 1,026 positions; 693 on declared roots replayed by the verbal table, 693 agree, 0 to adjudicate; 85 cells the other branch of 3.1.82 / 3.1.79 / 8.4.65 (quoted); of 8 branch rows 6 uniform, 2 mixed (kṣiṇ loṭ: guṇa in the strong cells only — the kṣiṇoti / kṣeṇoti item, named, not decided); 333 positions on 15 undeclared roots, the causal / karmaṇi / bhāve āśīrliṅ and the tātaṅ forms (no 7.1.35 row) placed outside the table — PROVED (exact, finite); which reading is right where they differ NOT CLAIMED |
+
+```text
+theorum/156_written_modal_registers_replay_theorem.md
+proof_lab/pg_modal_registers.py
+proof_lab/test_pg_modal_registers.py
+proof_lab/PG_MODAL_REGISTERS_EXPECTED.sha256
 ```
 
 ## Consolidated parallel-lineage index

@@ -15,7 +15,7 @@
     "cited": 404,
     "misnumbered": 2,
     "entries": 1030,
-    "text_missing": 92,
+    "text_missing": 91,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
     "iast_mismatch_with_pinned_edition": 0
@@ -4174,9 +4174,11 @@
         "T132"
       ],
       "cited_in": [
+        "proof_lab/pg_modal_registers.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
-        "theorum/154_written_construction_replay_theorem.md"
+        "theorum/154_written_construction_replay_theorem.md",
+        "theorum/156_written_modal_registers_replay_theorem.md"
       ]
     },
     "3.1.80": {
@@ -4215,11 +4217,13 @@
         "T134"
       ],
       "cited_in": [
+        "proof_lab/pg_modal_registers.py",
         "proof_lab/pg_replay.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md",
-        "theorum/154_written_construction_replay_theorem.md"
+        "theorum/154_written_construction_replay_theorem.md",
+        "theorum/156_written_modal_registers_replay_theorem.md"
       ]
     },
     "3.1.83": {
@@ -10693,7 +10697,8 @@
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
         "theorum/139_ting_rule_table_engine_open_lane_theorem.md",
-        "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md"
+        "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md",
+        "theorum/156_written_modal_registers_replay_theorem.md"
       ]
     },
     "6.4.120": {
@@ -11688,14 +11693,17 @@
       ]
     },
     "7.1.35": {
-      "text": "",
+      "text": "tuhyos tātaṅṅ āśiṣy anyatarasyām",
       "text_devanagari": "तुह्योस्तातङ्ङाशिष्यन्यतरस्याम्",
       "in_pinned_edition": true,
-      "iast_matches_pinned_edition": null,
+      "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
       "cited_in": [
-        "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md"
+        "proof_lab/pg_modal_registers.py",
+        "theorum/142_panini_kernel_theorem.md",
+        "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md",
+        "theorum/156_written_modal_registers_replay_theorem.md"
       ]
     },
     "7.1.37": {
@@ -13845,7 +13853,8 @@
         "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
         "theorum/148_ting_rule_table_engine_nic_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
-        "theorum/154_written_construction_replay_theorem.md"
+        "theorum/154_written_construction_replay_theorem.md",
+        "theorum/156_written_modal_registers_replay_theorem.md"
       ]
     },
     "7.3.87": {
@@ -16397,6 +16406,7 @@
         "theorum/149_ting_rule_table_engine_san_theorem.md",
         "theorum/150_panini_isa_theorem.md",
         "theorum/155_written_construction_replay_ii_theorem.md",
+        "theorum/156_written_modal_registers_replay_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/89_ngi_stem_sup_compiled_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md",
@@ -16461,7 +16471,8 @@
         "theorum/138_generalisation_test_theorem.md",
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
         "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
-        "theorum/146_ting_rule_table_engine_lun_breadth_theorem.md"
+        "theorum/146_ting_rule_table_engine_lun_breadth_theorem.md",
+        "theorum/156_written_modal_registers_replay_theorem.md"
       ]
     },
     "8.3.79": {
@@ -17000,11 +17011,13 @@
         "T154"
       ],
       "cited_in": [
+        "proof_lab/pg_modal_registers.py",
         "proof_lab/pg_replay.py",
         "proof_lab/shaiva_sources_nativized.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md",
-        "theorum/154_written_construction_replay_theorem.md"
+        "theorum/154_written_construction_replay_theorem.md",
+        "theorum/156_written_modal_registers_replay_theorem.md"
       ]
     }
   }
