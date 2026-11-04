@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG47 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG48 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG47 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG48 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,38 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG48: nested descent origin and addressed य-lopa
+
+[PG48](research/panini_grammar/nested_apatya_history/README.md) constructs one **fourteen-stage
+nested derivation** and **six consumer controls**. The declared replacement
+and spelling policies give **उदमेघ → औदमेघि → औदमेघ्या → औदमेघेय**.
+Inner इञ्→ष्यङ् origin survives the feminine layer and the separate outer
+ढक्→एय; 6.4.151 addresses the inner य् while the outer एय's य् remains.
+Both catalogue sets stay **3,983/3,983**, finite positions **11,552**;
+new IDs, positions and counted paradigm readings are zero.
+
+[Domain/provenance](research/panini_grammar/nested_apatya_history/DOMAIN_AND_PROVENANCE.md),
+[derivation](research/panini_grammar/nested_apatya_history/DERIVATION.md),
+[controls](research/panini_grammar/nested_apatya_history/CONSUMER_CONTROLS.md) and
+[register](research/panini_grammar/nested_apatya_history/HISTORY_REGISTER.json) retain nested owners,
+coalesced-vowel contributors, source-qualified origin and Open exits.
+[Source review](research/panini_grammar/nested_apatya_history/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/nested_apatya_history/SOURCE_EXCERPTS.json) and
+[pins](research/panini_grammar/nested_apatya_history/SOURCE_PINS.json) preserve **148 literal fields**
+and **42 file pins**, now including Padamañjarī. Its Vāmana alternative stays
+a separate policy; the negative model lacks a licensed transfer under the
+selected replacement policy. [Native continuation](research/panini_grammar/nested_apatya_history/NATIVE_CONTINUATION.md)
+retains the full carrier and typed zero-reading under inherited assumptions.
+
+[Predecessor review](research/panini_grammar/nested_apatya_history/PREDECESSOR_REVIEW.md) checks
+PG47's 29 histories, 333 literals and 39 pins; [coverage](research/panini_grammar/nested_apatya_history/COVERAGE.json)
+preserves both ID sets. [Handoff/frontier](research/panini_grammar/nested_apatya_history/HANDOFF_AND_FRONTIER.md)
+targets the policy-sensitive हस्तिशिरस्/शीर्ष history at 6.1.61/62 next.
+The [concurrent review](research/panini_grammar/nested_apatya_history/CONCURRENT_REVIEW.md) records
+T153/T154 reports, their replay scope and the open kṣiṇoti/kṣeṇoti difference. Full accent/inflection, general admission and
+canonical integration remain open; grammar tests, generators, replay and
+navigation/operator suites remain deferred.
 
 ## PG47: addressed interactions and 29 worked history units
 

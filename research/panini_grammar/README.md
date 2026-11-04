@@ -889,6 +889,38 @@ and [frontier](interaction_histories/FRONTIER.md) target the nested
 T152; grammar tests, generators, replay and navigation/operator suites stay
 deferred. Full grammar integration, general admission and accent remain open.
 
+**Nested descent and inherited य-lopa cause:**
+
+[PG48](nested_apatya_history/README.md) constructs one **fourteen-stage
+nested derivation** and **six consumer controls**. The declared replacement
+and spelling policies give **उदमेघ → औदमेघि → औदमेघ्या → औदमेघेय**.
+Inner इञ्→ष्यङ् origin survives the feminine layer and the separate outer
+ढक्→एय; 6.4.151 addresses the inner य् while the outer एय's य् remains.
+Both catalogue sets stay **3,983/3,983**, finite positions **11,552**;
+new IDs, positions and counted paradigm readings are zero.
+
+[Domain/provenance](nested_apatya_history/DOMAIN_AND_PROVENANCE.md),
+[derivation](nested_apatya_history/DERIVATION.md),
+[controls](nested_apatya_history/CONSUMER_CONTROLS.md) and
+[register](nested_apatya_history/HISTORY_REGISTER.json) retain nested owners,
+coalesced-vowel contributors, source-qualified origin and Open exits.
+[Source review](nested_apatya_history/SOURCE_REVIEW.md),
+[archive](nested_apatya_history/SOURCE_EXCERPTS.json) and
+[pins](nested_apatya_history/SOURCE_PINS.json) preserve **148 literal fields**
+and **42 file pins**, now including Padamañjarī. Its Vāmana alternative stays
+a separate policy; the negative model lacks a licensed transfer under the
+selected replacement policy. [Native continuation](nested_apatya_history/NATIVE_CONTINUATION.md)
+retains the full carrier and typed zero-reading under inherited assumptions.
+
+[Predecessor review](nested_apatya_history/PREDECESSOR_REVIEW.md) checks
+PG47's 29 histories, 333 literals and 39 pins; [coverage](nested_apatya_history/COVERAGE.json)
+preserves both ID sets. [Handoff/frontier](nested_apatya_history/HANDOFF_AND_FRONTIER.md)
+targets the policy-sensitive हस्तिशिरस्/शीर्ष history at 6.1.61/62 next.
+The [concurrent review](nested_apatya_history/CONCURRENT_REVIEW.md) records
+T153/T154 reports, their replay scope and the open kṣiṇoti/kṣeṇoti difference. Full accent/inflection, general admission and
+canonical integration remain open; grammar tests, generators, replay and
+navigation/operator suites remain deferred.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
