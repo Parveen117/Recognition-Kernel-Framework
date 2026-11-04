@@ -1689,7 +1689,7 @@ proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Pāṇini Kernel |
 | Status | `PASS_PANINI_KERNEL_CANDIDATE` |
-| Canonical result SHA-256 | `68695f178fc25c19177b0e2d02ce944b817837d569e086fafb66d83c16718f01` |
+| Canonical result SHA-256 | `578406c8119cf6b8c10a242a85fd206deb7cf2c8f1578e590ee05d0f82acf085` |
 | Boundary | the two engines, the ledger and the evidence as one object: 230 sūtras as rows after theorum/143 (225 at first pin 41854a6b…, in the history), 18 shared (junction / tripādī only), every row a ledger entry and every engine ledger entry a row; coverage counted |
 
 ```text
@@ -1889,6 +1889,22 @@ theorum/154_written_construction_replay_theorem.md
 proof_lab/pg_replay.py
 proof_lab/test_pg_replay.py
 proof_lab/PG_REPLAY_EXPECTED.sha256
+```
+
+## Theorem 155 the written construction replayed II — PG19–PG47 merged and tested: PG19's 976 written modal positions (541 / 542 replayed agree, 1 adjudicated), PG47's 29 worked histories compared step by step with the tables' paths (12 / 12 reached agree), 3,796 written rule contracts placed packet
+
+| Field | Value |
+|---|---|
+| Certificate class | the written construction replayed II — PG19–PG47 merged and tested: PG19's 976 written modal positions (541 / 542 replayed agree, 1 adjudicated), PG47's 29 worked histories compared step by step with the tables' paths (12 / 12 reached agree), 3,796 written rule contracts placed |
+| Status | `PASS_PG_WRITTEN_REPLAY_CANDIDATE` |
+| Canonical result SHA-256 | `7d580c51ff6a156127d03099f61b09620112754c438c3fb056fd68e0a5551f19` |
+| Boundary | PG19's loṭ / vidhiliṅ register expanded from its own constructors to exactly 976 positions, 542 replayed by the verbal table, 541 agree, 1 adjudicated by 8.4.1 / 8.4.2 (kārayāṇi), 200 on six undeclared roots, 234 causal-passive outside the tables; PG47's 29 histories: 11 reached, 12 / 12 step-sequence comparisons agree (the history's rule order a subsequence of the table's path, its blocked rules absent, its witness the table's word), 18 placed out of scope with reasons; 3,796 written contracts all in the pinned edition with its text; 3,849 cited sūtras placed: 308 rows, 250 ledger, 3,291 neither — PROVED (exact, finite); the contracts' content, PG20–PG46's positions, which reading is right beyond the adjudicated cell NOT CLAIMED |
+
+```text
+theorum/155_written_construction_replay_ii_theorem.md
+proof_lab/pg_written_replay.py
+proof_lab/test_pg_written_replay.py
+proof_lab/PG_WRITTEN_REPLAY_EXPECTED.sha256
 ```
 
 ## Consolidated parallel-lineage index

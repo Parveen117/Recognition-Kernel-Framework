@@ -72,7 +72,18 @@ REVIEWED_RH_DENIALS = {
 }
 
 
+# Verbatim archives of the pinned commentary editions (Kāśikā, Nyāsa, Kaumudī and
+# their nineteenth-century translations), quoted by the grammar-construction
+# packets and hash-pinned by them: the wording is the source's, not the
+# repository's, and is not rewritten. Only the loaded-language category is
+# waived for them; every other category still applies.
+QUOTED_SOURCE_ARCHIVES = re.compile(
+    r"^research/panini_grammar/[^/]+/SOURCE_EXCERPTS\.json$"
+)
+
+
 def audit_text(relative: str, text: str) -> list[tuple[str, str, int, str]]:
+    quoted_archive = bool(QUOTED_SOURCE_ARCHIVES.match(relative))
     reviewed_spans = [
         (match.start(), match.end())
         for statement in REVIEWED_RH_DENIALS.get(relative, ())
@@ -82,6 +93,8 @@ def audit_text(relative: str, text: str) -> list[tuple[str, str, int, str]]:
     offset = 0
     for line_number, line in enumerate(text.splitlines(keepends=True), start=1):
         for category, pattern in PATTERNS.items():
+            if category == "loaded_language" and quoted_archive:
+                continue
             for match in pattern.finditer(line):
                 if category == "rh_overclaim" and any(
                     start <= offset + match.start()

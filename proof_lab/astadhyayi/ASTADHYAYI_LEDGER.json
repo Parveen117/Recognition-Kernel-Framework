@@ -12,9 +12,9 @@
     "compiled": 10,
     "meta": 178,
     "hand_coded": 436,
-    "cited": 395,
+    "cited": 404,
     "misnumbered": 2,
-    "entries": 1021,
+    "entries": 1030,
     "text_missing": 92,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
@@ -266,6 +266,7 @@
         "T127"
       ],
       "cited_in": [
+        "proof_lab/pg_written_replay.py",
         "proof_lab/sup_rule_table_engine.py",
         "theorum/127_sup_rule_table_engine_numerals_theorem.md"
       ]
@@ -571,10 +572,12 @@
       "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
-        "T80"
+        "T80",
+        "T155"
       ],
       "cited_in": [
         "proof_lab/paninian_instruction_format.py",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md"
       ]
     },
@@ -670,6 +673,7 @@
         "theorum/124_yusmad_asmad_sup_compiled_theorem.md",
         "theorum/128_sup_rule_table_engine_pronouns_theorem.md",
         "theorum/150_panini_isa_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
         "theorum/88_ap_stem_sup_compiled_theorem.md"
       ]
@@ -696,7 +700,9 @@
       "iast_matches_pinned_edition": true,
       "level": "cited",
       "theorems": [],
-      "cited_in": []
+      "cited_in": [
+        "proof_lab/pg_written_replay.py"
+      ]
     },
     "1.1.55": {
       "text": "anekāl śit sarvasya",
@@ -714,11 +720,13 @@
         "proof_lab/ap_stem_sup_compiled.py",
         "proof_lab/panini_isa.py",
         "proof_lab/paninian_instruction_format.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/pronominal_taddhita_adverbs_compiled.py",
         "proof_lab/sup_rule_table_engine.py",
         "theorum/113_pronominal_taddhita_adverbs_compiled_theorem.md",
         "theorum/128_sup_rule_table_engine_pronouns_theorem.md",
         "theorum/150_panini_isa_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
         "theorum/88_ap_stem_sup_compiled_theorem.md"
       ]
@@ -805,6 +813,7 @@
         "proof_lab/karaka_vibhakti_carrier.py",
         "proof_lab/lopa_ledger_contraction.py",
         "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/samasa_compiled.py",
         "proof_lab/sup_rule_table_engine.py",
         "proof_lab/ting_lat_parasmaipada.py",
@@ -812,6 +821,7 @@
         "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md",
         "theorum/123_in_stem_sup_compiled_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/68_karaka_vibhakti_carrier_theorem.md",
@@ -855,6 +865,7 @@
         "proof_lab/atmanepada_lrt_lut_compiled.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/paninian_samjna_sound_layer.py",
+        "proof_lab/pg_written_replay.py",
         "theorum/81_paninian_samjna_sound_layer_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
@@ -872,6 +883,7 @@
       "cited_in": [
         "proof_lab/panini_isa.py",
         "proof_lab/paninian_samjna_sound_layer.py",
+        "proof_lab/pg_written_replay.py",
         "theorum/150_panini_isa_theorem.md",
         "theorum/81_paninian_samjna_sound_layer_theorem.md"
       ]
@@ -883,10 +895,13 @@
       "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
-        "T80"
+        "T80",
+        "T155"
       ],
       "cited_in": [
         "proof_lab/paninian_instruction_format.py",
+        "proof_lab/pg_written_replay.py",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md"
       ]
     },
@@ -897,10 +912,12 @@
       "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
-        "T80"
+        "T80",
+        "T155"
       ],
       "cited_in": [
         "proof_lab/paninian_instruction_format.py",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md"
       ]
     },
@@ -1242,6 +1259,7 @@
       ],
       "cited_in": [
         "proof_lab/avyayibhava_dvigu_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/samasa_compiled.py",
         "theorum/104_samasa_compiled_theorem.md",
         "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
@@ -1257,6 +1275,7 @@
       "level": "cited",
       "theorems": [],
       "cited_in": [
+        "proof_lab/pg_written_replay.py",
         "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md"
       ]
@@ -1332,6 +1351,7 @@
         "T104"
       ],
       "cited_in": [
+        "proof_lab/pg_written_replay.py",
         "proof_lab/samasa_compiled.py",
         "theorum/104_samasa_compiled_theorem.md",
         "theorum/118_samasa_mathematical_construction_theorem.md",
@@ -1347,6 +1367,17 @@
       "theorems": [],
       "cited_in": [
         "theorum/121_taddhita_mathematical_construction_theorem.md"
+      ]
+    },
+    "1.2.50": {
+      "text": "id goṇyāḥ",
+      "text_devanagari": "इद्गोण्याः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/pg_written_replay.py"
       ]
     },
     "1.2.51": {
@@ -1895,6 +1926,7 @@
         "proof_lab/hal_stem_sup_compiled.py",
         "proof_lab/paninian_instruction_format.py",
         "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/rewrite_rules_as_cut_module_operators.py",
         "proof_lab/seam_compensated_confluence_verdict.py",
         "proof_lab/silence_vibration_sutra_flow.py",
@@ -1905,6 +1937,7 @@
         "theorum/122_krt_samasa_source_repairs_theorem.md",
         "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md",
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
@@ -1926,6 +1959,7 @@
       ],
       "cited_in": [
         "proof_lab/ngi_stem_sup_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/sup_rule_table_engine.py",
         "theorum/89_ngi_stem_sup_compiled_theorem.md"
       ]
@@ -2018,6 +2052,7 @@
         "proof_lab/in_stem_sup_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/samasa_compiled.py",
         "proof_lab/sup_rule_table_engine.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
@@ -2025,6 +2060,7 @@
         "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md",
         "theorum/123_in_stem_sup_compiled_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
@@ -2490,6 +2526,7 @@
         "T104"
       ],
       "cited_in": [
+        "proof_lab/pg_written_replay.py",
         "proof_lab/samasa_compiled.py",
         "theorum/104_samasa_compiled_theorem.md",
         "theorum/118_samasa_mathematical_construction_theorem.md"
@@ -2754,6 +2791,7 @@
       "level": "cited",
       "theorems": [],
       "cited_in": [
+        "proof_lab/pg_written_replay.py",
         "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md"
       ]
@@ -2894,6 +2932,7 @@
       ],
       "cited_in": [
         "proof_lab/avyayibhava_dvigu_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/samasa_compiled.py",
         "theorum/104_samasa_compiled_theorem.md",
         "theorum/114_avyayibhava_dvigu_compiled_theorem.md",
@@ -3376,12 +3415,14 @@
       ],
       "cited_in": [
         "proof_lab/krt_rule_table_engine.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
         "theorum/147_ting_rule_table_engine_karmani_theorem.md",
         "theorum/148_ting_rule_table_engine_nic_theorem.md",
         "theorum/150_panini_isa_theorem.md",
-        "theorum/151_krt_rule_table_engine_theorem.md"
+        "theorum/151_krt_rule_table_engine_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md"
       ]
     },
     "2.4.53": {
@@ -3412,6 +3453,17 @@
       "theorems": [],
       "cited_in": [
         "theorum/121_taddhita_mathematical_construction_theorem.md"
+      ]
+    },
+    "2.4.64": {
+      "text": "yañañoś ca",
+      "text_devanagari": "यञञोश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/pg_written_replay.py"
       ]
     },
     "2.4.71": {
@@ -3574,6 +3626,7 @@
         "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
         "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -3680,6 +3733,7 @@
       ],
       "cited_in": [
         "proof_lab/nic_causative_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/148_ting_rule_table_engine_nic_theorem.md"
@@ -3733,6 +3787,7 @@
         "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -3978,6 +4033,7 @@
       ],
       "cited_in": [
         "proof_lab/passive_yak_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/110_passive_yak_compiled_theorem.md",
         "theorum/147_ting_rule_table_engine_karmani_theorem.md"
@@ -4145,7 +4201,8 @@
       ],
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
-        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md"
+        "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md"
       ]
     },
     "3.1.82": {
@@ -4330,6 +4387,7 @@
       "level": "cited",
       "theorems": [],
       "cited_in": [
+        "proof_lab/pg_written_replay.py",
         "theorum/120_krt_mathematical_construction_theorem.md"
       ]
     },
@@ -4583,7 +4641,8 @@
         "theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md",
         "theorum/120_krt_mathematical_construction_theorem.md",
         "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md",
-        "theorum/153_krdanta_declension_theorem.md"
+        "theorum/153_krdanta_declension_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md"
       ]
     },
     "3.2.135": {
@@ -4627,6 +4686,7 @@
       "level": "cited",
       "theorems": [],
       "cited_in": [
+        "proof_lab/pg_written_replay.py",
         "theorum/120_krt_mathematical_construction_theorem.md"
       ]
     },
@@ -5266,7 +5326,8 @@
         "proof_lab/lit_parasmaipada_compiled.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
-        "theorum/131_ting_rule_table_engine_lit_theorem.md"
+        "theorum/131_ting_rule_table_engine_lit_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md"
       ]
     },
     "3.4.83": {
@@ -5370,6 +5431,7 @@
       ],
       "cited_in": [
         "proof_lab/lot_lin_parasmaipada_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md"
@@ -5535,6 +5597,7 @@
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/137_independent_oracle_audit_theorem.md",
         "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md"
       ]
@@ -5592,6 +5655,7 @@
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/150_panini_isa_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
     },
@@ -5615,6 +5679,7 @@
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/139_ting_rule_table_engine_open_lane_theorem.md",
         "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -5699,6 +5764,7 @@
         "theorum/117_asirlin_atmanepada_compiled_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/137_independent_oracle_audit_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
     },
@@ -5774,6 +5840,7 @@
         "proof_lab/nic_causative_compiled.py",
         "proof_lab/paninian_seam_calculus.py",
         "proof_lab/passive_yak_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/seam_compensated_confluence_verdict.py",
         "proof_lab/ting_lat_parasmaipada.py",
         "proof_lab/ting_rule_table_engine.py",
@@ -5785,6 +5852,7 @@
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
@@ -5813,6 +5881,7 @@
         "proof_lab/krt_rule_table_engine.py",
         "proof_lab/lrt_lut_parasmaipada_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/san_desiderative_compiled.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/106_san_desiderative_compiled_theorem.md",
@@ -5834,10 +5903,13 @@
       "iast_matches_pinned_edition": true,
       "level": "meta",
       "theorems": [
-        "T131"
+        "T131",
+        "T155"
       ],
       "cited_in": [
-        "proof_lab/ting_rule_table_engine.py"
+        "proof_lab/pg_written_replay.py",
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/155_written_construction_replay_ii_theorem.md"
       ]
     },
     "3.4.116": {
@@ -5849,12 +5921,14 @@
       "theorems": [
         "T115",
         "T117",
-        "T130"
+        "T130",
+        "T155"
       ],
       "cited_in": [
         "proof_lab/asirlin_atmanepada_compiled.py",
         "proof_lab/asirlin_parasmaipada_compiled.py",
         "proof_lab/lot_lin_parasmaipada_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
         "theorum/117_asirlin_atmanepada_compiled_theorem.md",
@@ -5869,6 +5943,7 @@
       "level": "cited",
       "theorems": [],
       "cited_in": [
+        "proof_lab/pg_written_replay.py",
         "theorum/120_krt_mathematical_construction_theorem.md"
       ]
     },
@@ -5947,6 +6022,7 @@
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
         "proof_lab/krdanta_sup.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/sarvanama_ap_sup_compiled.py",
         "proof_lab/stri_pratyaya_compiled.py",
         "proof_lab/sup_rule_table_engine.py",
@@ -5971,6 +6047,7 @@
         "proof_lab/in_stem_sup_compiled.py",
         "proof_lab/krdanta_sup.py",
         "proof_lab/ngi_stem_sup_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/stri_pratyaya_compiled.py",
         "theorum/111_stri_pratyaya_compiled_theorem.md",
         "theorum/123_in_stem_sup_compiled_theorem.md",
@@ -5990,6 +6067,7 @@
       ],
       "cited_in": [
         "proof_lab/krdanta_sup.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/stri_pratyaya_compiled.py",
         "proof_lab/ugit_at_stem_sup_compiled.py",
         "theorum/109_ugit_at_stem_sup_compiled_theorem.md",
@@ -6056,6 +6134,28 @@
         "theorum/118_samasa_mathematical_construction_theorem.md"
       ]
     },
+    "4.1.36": {
+      "text": "pūtakrator ai ca",
+      "text_devanagari": "पूतक्रतोरै च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/pg_written_replay.py"
+      ]
+    },
+    "4.1.38": {
+      "text": "manor au vā",
+      "text_devanagari": "मनोरौ वा",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/pg_written_replay.py"
+      ]
+    },
     "4.1.41": {
       "text": "ṣidgaurādibhyaś ca",
       "text_devanagari": "षिद्गौरादिभ्यश्च",
@@ -6071,6 +6171,28 @@
         "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md",
         "theorum/121_taddhita_mathematical_construction_theorem.md"
+      ]
+    },
+    "4.1.73": {
+      "text": "śārṅgaravādyaño ṅīn",
+      "text_devanagari": "शार्ङ्गरवाद्यञो ङीन्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/pg_written_replay.py"
+      ]
+    },
+    "4.1.74": {
+      "text": "yaṅaś cāp",
+      "text_devanagari": "यङश्चाप्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/pg_written_replay.py"
       ]
     },
     "4.1.75": {
@@ -6098,6 +6220,17 @@
         "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
         "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/121_taddhita_mathematical_construction_theorem.md"
+      ]
+    },
+    "4.1.78": {
+      "text": "aṇiñor anārṣayor gurūpottamayoḥ ṣyaṅ gotre",
+      "text_devanagari": "अणिञोरनार्षयोर्गुरूपोत्तमयोः ष्यङ् गोत्रे",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/pg_written_replay.py"
       ]
     },
     "4.1.82": {
@@ -6173,6 +6306,7 @@
         "T103"
       ],
       "cited_in": [
+        "proof_lab/pg_written_replay.py",
         "proof_lab/taddhita_an_in_yan_compiled.py",
         "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
         "theorum/121_taddhita_mathematical_construction_theorem.md"
@@ -6199,9 +6333,32 @@
         "T103"
       ],
       "cited_in": [
+        "proof_lab/pg_written_replay.py",
         "proof_lab/taddhita_an_in_yan_compiled.py",
         "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
         "theorum/121_taddhita_mathematical_construction_theorem.md"
+      ]
+    },
+    "4.1.96": {
+      "text": "bāhvādibhyaś ca",
+      "text_devanagari": "बाह्वादिभ्यश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/pg_written_replay.py"
+      ]
+    },
+    "4.1.104": {
+      "text": "anṛṣyānantarye bidādibhyo 'ñ",
+      "text_devanagari": "अनृष्यानन्तर्ये बिदादिभ्योऽञ्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "cited",
+      "theorems": [],
+      "cited_in": [
+        "proof_lab/pg_written_replay.py"
       ]
     },
     "4.1.105": {
@@ -6214,6 +6371,7 @@
         "T103"
       ],
       "cited_in": [
+        "proof_lab/pg_written_replay.py",
         "proof_lab/taddhita_an_in_yan_compiled.py",
         "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
         "theorum/121_taddhita_mathematical_construction_theorem.md"
@@ -7643,7 +7801,8 @@
         "proof_lab/ting_rule_table_engine.py",
         "proof_lab/yan_intensive_compiled.py",
         "theorum/102_lit_parasmaipada_compiled_theorem.md",
-        "theorum/131_ting_rule_table_engine_lit_theorem.md"
+        "theorum/131_ting_rule_table_engine_lit_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md"
       ]
     },
     "6.1.9": {
@@ -7908,6 +8067,7 @@
         "theorum/117_asirlin_atmanepada_compiled_theorem.md",
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md",
@@ -8103,6 +8263,7 @@
         "proof_lab/panini_kernel.py",
         "proof_lab/paninian_instruction_format.py",
         "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/r_stem_sup_compiled.py",
         "proof_lab/rewrite_rules_as_cut_module_operators.py",
         "proof_lab/seam_compensated_confluence_verdict.py",
@@ -8123,6 +8284,7 @@
         "theorum/150_panini_isa_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
         "theorum/153_krdanta_declension_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
@@ -8176,6 +8338,7 @@
         "proof_lab/nic_causative_compiled.py",
         "proof_lab/paninian_instruction_format.py",
         "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/sarvanama_ap_sup_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/shaiva_sources_nativized.py",
@@ -8204,6 +8367,7 @@
         "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md",
         "theorum/148_ting_rule_table_engine_nic_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
@@ -8334,6 +8498,7 @@
         "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/paninian_instruction_format.py",
         "proof_lab/paninian_seam_calculus.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/sarvanama_ap_sup_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/sup_rule_table_engine.py",
@@ -8346,6 +8511,7 @@
         "theorum/140_ting_rule_table_engine_open_lane_ii_theorem.md",
         "theorum/142_panini_kernel_theorem.md",
         "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
@@ -8826,6 +8992,7 @@
       "level": "cited",
       "theorems": [],
       "cited_in": [
+        "proof_lab/pg_written_replay.py",
         "theorum/121_taddhita_mathematical_construction_theorem.md"
       ]
     },
@@ -9047,6 +9214,7 @@
       "level": "cited",
       "theorems": [],
       "cited_in": [
+        "proof_lab/pg_written_replay.py",
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md"
       ]
     },
@@ -9608,6 +9776,7 @@
         "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/128_sup_rule_table_engine_pronouns_theorem.md",
         "theorum/137_independent_oracle_audit_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md",
         "theorum/92_hal_stem_sup_compiled_theorem.md",
         "theorum/93_napumsaka_sup_compiled_theorem.md"
@@ -9970,6 +10139,7 @@
       "cited_in": [
         "proof_lab/krt_rule_table_engine.py",
         "proof_lab/nic_causative_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
@@ -10027,10 +10197,12 @@
       ],
       "cited_in": [
         "proof_lab/krt_rule_table_engine.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/120_krt_mathematical_construction_theorem.md",
         "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
-        "theorum/151_krt_rule_table_engine_theorem.md"
+        "theorum/151_krt_rule_table_engine_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md"
       ]
     },
     "6.4.65": {
@@ -10441,7 +10613,8 @@
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
         "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
         "theorum/139_ting_rule_table_engine_open_lane_theorem.md",
-        "theorum/140_ting_rule_table_engine_open_lane_ii_theorem.md"
+        "theorum/140_ting_rule_table_engine_open_lane_ii_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md"
       ]
     },
     "6.4.114": {
@@ -10667,6 +10840,7 @@
         "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -10680,6 +10854,7 @@
         "T104"
       ],
       "cited_in": [
+        "proof_lab/pg_written_replay.py",
         "proof_lab/samasa_compiled.py",
         "theorum/104_samasa_compiled_theorem.md",
         "theorum/118_samasa_mathematical_construction_theorem.md",
@@ -10725,6 +10900,7 @@
       ],
       "cited_in": [
         "proof_lab/avyayibhava_dvigu_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/stri_pratyaya_compiled.py",
         "proof_lab/taddhita_an_in_yan_compiled.py",
         "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
@@ -10758,6 +10934,7 @@
       "level": "cited",
       "theorems": [],
       "cited_in": [
+        "proof_lab/pg_written_replay.py",
         "theorum/121_taddhita_mathematical_construction_theorem.md"
       ]
     },
@@ -11104,6 +11281,7 @@
       ],
       "cited_in": [
         "proof_lab/napumsaka_sup_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/sarvanama_ap_sup_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/sup_rule_table_engine.py",
@@ -11113,6 +11291,7 @@
         "theorum/125_sup_rule_table_engine_theorem.md",
         "theorum/128_sup_rule_table_engine_pronouns_theorem.md",
         "theorum/142_panini_kernel_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/93_napumsaka_sup_compiled_theorem.md",
         "theorum/94_sarvanama_sup_compiled_theorem.md",
@@ -11293,11 +11472,13 @@
       "cited_in": [
         "proof_lab/in_stem_sup_compiled.py",
         "proof_lab/napumsaka_sup_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/sup_rule_table_engine.py",
         "theorum/123_in_stem_sup_compiled_theorem.md",
         "theorum/125_sup_rule_table_engine_theorem.md",
         "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/128_sup_rule_table_engine_pronouns_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/93_napumsaka_sup_compiled_theorem.md"
       ]
     },
@@ -11327,8 +11508,10 @@
         "T127"
       ],
       "cited_in": [
+        "proof_lab/pg_written_replay.py",
         "proof_lab/sup_rule_table_engine.py",
-        "theorum/127_sup_rule_table_engine_numerals_theorem.md"
+        "theorum/127_sup_rule_table_engine_numerals_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md"
       ]
     },
     "7.1.23": {
@@ -11665,6 +11848,7 @@
         "proof_lab/krt_ghan_lyut_nvul_satr_compiled.py",
         "proof_lab/napumsaka_sup_compiled.py",
         "proof_lab/paninian_it_samjna_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/sup_rule_table_engine.py",
         "proof_lab/ugit_at_stem_sup_compiled.py",
         "theorum/109_ugit_at_stem_sup_compiled_theorem.md",
@@ -11695,6 +11879,7 @@
         "theorum/127_sup_rule_table_engine_numerals_theorem.md",
         "theorum/128_sup_rule_table_engine_pronouns_theorem.md",
         "theorum/153_krdanta_declension_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/93_napumsaka_sup_compiled_theorem.md"
       ]
     },
@@ -11760,6 +11945,7 @@
       "cited_in": [
         "proof_lab/krdanta_sup.py",
         "proof_lab/krt_rule_table_engine.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/sup_rule_table_engine.py",
         "theorum/141_sup_generalisation_test_theorem.md",
         "theorum/153_krdanta_declension_theorem.md"
@@ -11778,6 +11964,7 @@
       "cited_in": [
         "proof_lab/krdanta_sup.py",
         "proof_lab/krt_rule_table_engine.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/stri_pratyaya_compiled.py",
         "proof_lab/sup_rule_table_engine.py",
         "theorum/111_stri_pratyaya_compiled_theorem.md",
@@ -11973,6 +12160,7 @@
       "level": "cited",
       "theorems": [],
       "cited_in": [
+        "proof_lab/pg_written_replay.py",
         "theorum/120_krt_mathematical_construction_theorem.md"
       ]
     },
@@ -12173,6 +12361,7 @@
         "proof_lab/panini_isa.py",
         "proof_lab/panini_kernel.py",
         "proof_lab/paninian_it_samjna_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/san_desiderative_compiled.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/100_krt_ktva_tumun_tavya_compiled_theorem.md",
@@ -12189,6 +12378,7 @@
         "theorum/149_ting_rule_table_engine_san_theorem.md",
         "theorum/150_panini_isa_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -12502,6 +12692,7 @@
         "proof_lab/asirlin_parasmaipada_compiled.py",
         "proof_lab/atmanepada_lan_lot_lin_compiled.py",
         "proof_lab/lot_lin_parasmaipada_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
         "theorum/129_ting_rule_table_engine_theorem.md",
@@ -12509,6 +12700,7 @@
         "theorum/137_independent_oracle_audit_theorem.md",
         "theorum/140_ting_rule_table_engine_open_lane_ii_theorem.md",
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
@@ -12580,7 +12772,9 @@
       ],
       "cited_in": [
         "proof_lab/krt_rule_table_engine.py",
-        "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md"
+        "proof_lab/pg_written_replay.py",
+        "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md"
       ]
     },
     "7.2.84": {
@@ -13081,6 +13275,7 @@
         "T103"
       ],
       "cited_in": [
+        "proof_lab/pg_written_replay.py",
         "proof_lab/taddhita_an_in_yan_compiled.py",
         "theorum/103_taddhita_an_in_yan_compiled_theorem.md",
         "theorum/118_samasa_mathematical_construction_theorem.md",
@@ -13260,6 +13455,7 @@
       ],
       "cited_in": [
         "proof_lab/krdanta_sup.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/stri_pratyaya_compiled.py",
         "theorum/111_stri_pratyaya_compiled_theorem.md",
         "theorum/153_krdanta_declension_theorem.md"
@@ -13304,6 +13500,7 @@
       ],
       "cited_in": [
         "proof_lab/krt_ghan_lyut_nvul_satr_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md",
         "theorum/120_krt_mathematical_construction_theorem.md",
         "theorum/122_krt_samasa_source_repairs_theorem.md"
@@ -13505,7 +13702,8 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md",
-        "theorum/138_generalisation_test_theorem.md"
+        "theorum/138_generalisation_test_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md"
       ]
     },
     "7.3.83": {
@@ -13582,6 +13780,7 @@
         "theorum/148_ting_rule_table_engine_nic_theorem.md",
         "theorum/150_panini_isa_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
@@ -13629,6 +13828,7 @@
         "proof_lab/krt_rule_table_engine.py",
         "proof_lab/nic_causative_compiled.py",
         "proof_lab/panini_kernel.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/105_nic_causative_compiled_theorem.md",
         "theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md",
@@ -13899,12 +14099,14 @@
       ],
       "cited_in": [
         "proof_lab/napumsaka_sup_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/sup_rule_table_engine.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "theorum/118_samasa_mathematical_construction_theorem.md",
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md",
         "theorum/125_sup_rule_table_engine_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/93_napumsaka_sup_compiled_theorem.md",
         "theorum/94_sarvanama_sup_compiled_theorem.md"
@@ -13924,11 +14126,13 @@
       ],
       "cited_in": [
         "proof_lab/napumsaka_sup_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/sup_rule_table_engine.py",
         "proof_lab/sup_vibhakti_resolver_ladder.py",
         "theorum/125_sup_rule_table_engine_theorem.md",
         "theorum/128_sup_rule_table_engine_pronouns_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/93_napumsaka_sup_compiled_theorem.md",
         "theorum/94_sarvanama_sup_compiled_theorem.md"
@@ -14588,7 +14792,8 @@
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
         "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
         "theorum/146_ting_rule_table_engine_lun_breadth_theorem.md",
-        "theorum/149_ting_rule_table_engine_san_theorem.md"
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md"
       ]
     },
     "7.4.60": {
@@ -14996,6 +15201,7 @@
         "proof_lab/lat_atmanepada.py",
         "proof_lab/pada_to_line_external_sandhi.py",
         "proof_lab/panini_isa.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/silence_vibration_sutra_flow.py",
         "proof_lab/stem_classes_gayatri_coverage.py",
         "proof_lab/sup_rule_table_engine.py",
@@ -15031,6 +15237,7 @@
       "cited_in": [
         "proof_lab/hal_stem_sup_compiled.py",
         "proof_lab/in_stem_sup_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/r_stem_sup_compiled.py",
         "proof_lab/samasa_compiled.py",
         "proof_lab/stem_classes_gayatri_coverage.py",
@@ -15042,6 +15249,7 @@
         "theorum/123_in_stem_sup_compiled_theorem.md",
         "theorum/125_sup_rule_table_engine_theorem.md",
         "theorum/127_sup_rule_table_engine_numerals_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md",
         "theorum/92_hal_stem_sup_compiled_theorem.md"
@@ -15660,6 +15868,7 @@
         "proof_lab/napumsaka_sup_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/pada_to_line_external_sandhi.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/pronominal_taddhita_adverbs_compiled.py",
         "proof_lab/r_stem_sup_compiled.py",
         "proof_lab/sarvanama_ap_sup_compiled.py",
@@ -15690,6 +15899,7 @@
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
         "theorum/142_panini_kernel_theorem.md",
         "theorum/150_panini_isa_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
@@ -15760,6 +15970,7 @@
       ],
       "cited_in": [
         "proof_lab/krt_rule_table_engine.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/san_desiderative_compiled.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/106_san_desiderative_compiled_theorem.md",
@@ -15880,6 +16091,7 @@
         "proof_lab/napumsaka_sup_compiled.py",
         "proof_lab/ngi_stem_sup_compiled.py",
         "proof_lab/pada_to_line_external_sandhi.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/pronominal_taddhita_adverbs_compiled.py",
         "proof_lab/r_stem_sup_compiled.py",
         "proof_lab/sarvanama_ap_sup_compiled.py",
@@ -15910,6 +16122,7 @@
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/142_panini_kernel_theorem.md",
         "theorum/150_panini_isa_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/65_stem_classes_gayatri_coverage_theorem.md",
@@ -16183,6 +16396,7 @@
         "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
         "theorum/149_ting_rule_table_engine_san_theorem.md",
         "theorum/150_panini_isa_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/89_ngi_stem_sup_compiled_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md",
@@ -16309,7 +16523,8 @@
         "T90",
         "T91",
         "T104",
-        "T151"
+        "T151",
+        "T155"
       ],
       "cited_in": [
         "proof_lab/ghi_stem_sup_compiled.py",
@@ -16317,6 +16532,7 @@
         "proof_lab/krt_ghan_lyut_nvul_satr_compiled.py",
         "proof_lab/krt_rule_table_engine.py",
         "proof_lab/napumsaka_sup_compiled.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/r_stem_sup_compiled.py",
         "proof_lab/samasa_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
@@ -16326,8 +16542,10 @@
         "theorum/107_krt_ghan_lyut_nvul_satr_compiled_theorem.md",
         "theorum/120_krt_mathematical_construction_theorem.md",
         "theorum/137_independent_oracle_audit_theorem.md",
+        "theorum/142_panini_kernel_theorem.md",
         "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md",
         "theorum/91_ghi_stem_sup_compiled_theorem.md"
       ]
@@ -16347,7 +16565,8 @@
         "T123",
         "T125",
         "T132",
-        "T151"
+        "T151",
+        "T155"
       ],
       "cited_in": [
         "proof_lab/ap_stem_sup_compiled.py",
@@ -16358,6 +16577,7 @@
         "proof_lab/napumsaka_sup_compiled.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
         "proof_lab/nirukta_nama_akhyatajani.py",
+        "proof_lab/pg_written_replay.py",
         "proof_lab/samasa_compiled.py",
         "proof_lab/sarvanama_sup_compiled.py",
         "proof_lab/shaiva_sources_nativized.py",
@@ -16386,6 +16606,7 @@
         "theorum/151_krt_rule_table_engine_theorem.md",
         "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md",
         "theorum/153_krdanta_declension_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
@@ -16516,7 +16737,8 @@
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
         "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
         "theorum/150_panini_isa_theorem.md",
-        "theorum/151_krt_rule_table_engine_theorem.md"
+        "theorum/151_krt_rule_table_engine_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md"
       ]
     },
     "8.4.42": {

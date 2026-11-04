@@ -44,3 +44,5 @@ python -m unittest proof_lab.test_pg_replay -v
 WHICH LINE IS RIGHT WHERE THEY DIFFER (kṣiṇoti); THE 32 UNDECLARED ROOTS; THE REFUSAL AND SELECTION CONTRACTS; PACKETS NOT IN THE REPOSITORY   NOT CLAIMED
 RH, YM                                                                                                                                      UNTOUCHED
 ```
+
+*Note (theorum/155).* PG19–PG47 of the written line are merged after this theorem; its certificate re-runs unchanged on them (pin `8824583c…` stands: no new packet carries a REFERENCE_CASES.json). Theorem 155 tests what the new packets write that the tables can read — PG19's register, PG47's rule histories, the rule contracts — and names six further undeclared roots. The kernel is re-pinned again by theorum/155 (`578406c8…`); commit 71daacf holds this theorem's state.
