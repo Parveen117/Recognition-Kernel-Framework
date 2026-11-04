@@ -30,7 +30,10 @@ def main() -> None:
             up, g, pd0, _ = TIN.NASAL[r]
         else:
             up, pd0 = TIN.ROOTS[r]; g = TIN.GANA.get(r, 1)
-        targets[(r, pd or pd0)] = (up, g)
+        pada = {"NP": "P", "NA": "A", "SP": "P", "SA": "A", "K": None}.get(pd, pd) or pd0   # a ṇic / san / karmaṇi suite cell names the root's kartari pada for this lane (theorum/160)
+        if pada == "U":
+            pada = "P"
+        targets[(r, pada)] = (up, g)
     cells = {}; empty = 0
     for (r, pada), (up, g) in sorted(targets.items()):
         hit = find_dhatu(by, up, g)

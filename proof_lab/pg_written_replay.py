@@ -67,7 +67,8 @@ CONSTRUCTOR_ENDINGS = {
 }
 # the register's stems are written without the thematic a; the written line's own convention (PARADIGMS.md §P1)
 ROOT_KEY = {"bhū": "bhū", "pac": "pac", "edh": "edh", "labh": "labh", "tud": "tud", "nī": "nī", "gam": "gam", "śam": "śam", "kṛ": "kṛ", "krī": "krī", "dā": "dā",
-            "hṛ": None, "sthā": None, "pā": None, "vid": None, "budh": None, "kṛṣ": None}   # None: the verbal table does not declare the root (PG19's domain, D5)
+            "hṛ": "hṛ", "budh": "budh", "kṛṣ": "kṛṣ",   # declared by theorum/160
+            "sthā": None, "pā": None, "vid": None}   # None: the verbal table does not declare the root (PG19's domain, D5)
 LAK = {"loṭ": "loṭ", "vidhiliṅ": "liṅ"}
 SOURCES = {   # quoted from the pinned edition (research/panini_grammar/SUTRAPATHA.tsv), as the ledger writes them
     "8.4.1": "raṣābhyāṁ no ṇaḥ samānapade", "8.4.2": "aṭkupvāṅnumvyavāye 'pi",
@@ -75,6 +76,10 @@ SOURCES = {   # quoted from the pinned edition (research/panini_grammar/SUTRAPAT
 ADJUDICATED = {   # the written register's cells the table does not reproduce, each adjudicated against the source
     "CK02:loṭ:1s": {"written": "kārayāni", "ours": "kārayāṇi", "verdict": "the table's form",
                     "reason": "8.4.1 raṣābhyāṁ no ṇaḥ samānapade with 8.4.2 aṭkupvāṅnumvyavāye 'pi: the n of the uttama ending (mip → ni, 3.4.89) follows the r of kār across a, y, ā — vowels and y are aṭ — so ṇ; the written line applies the same rule to its own karavāṇi (ATHEMATIC_DERIVATIONS.md A2: kar-av-ā-ṇi) and to the ṇic-stem in no other cell; the one cell is a slip of the written register, not a rule it lacks"},
+    "CK06:loṭ:1s": {"written": "hārayāni", "ours": "hārayāṇi", "verdict": "the table's form",
+                    "reason": "8.4.1 raṣābhyāṁ no ṇaḥ samānapade with 8.4.2 aṭkupvāṅnumvyavāye 'pi: the same cell of the same shape as CK02 — the r of hār, then a, y, ā (aṭ), then the n of ni; hṛ declared by theorum/160"},
+    "CK20:loṭ:1s": {"written": "karṣayāni", "ours": "karṣayāṇi", "verdict": "the table's form",
+                    "reason": "8.4.1 raṣābhyāṁ no ṇaḥ samānapade with 8.4.2 aṭkupvāṅnumvyavāye 'pi: here the ṣ of karṣ is the trigger (8.4.1 names r and ṣ), then a, y, ā (aṭ), then the n of ni — the written line writes the same ṇ in its own śinaṣāṇi / pinaṣāṇi (PG22 §P1); kṛṣ declared by theorum/160"},
 }
 
 

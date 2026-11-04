@@ -53,3 +53,5 @@ THAT THE CATALOGUE IS THE ONLY READING; THAT THE GUARDS ARE A FINITE INSTRUCTION
 ```
 
 *Note (theorum/158).* Re-pinned again by theorum/158 (`af942ce6…`) after the verbal table's correction on śās (one new row, 6.4.35, one op); the previous pin `d319faef…` holds at commit 98c91c3.
+
+*Note (theorum/160).* Re-pinned again by theorum/160 (`0b03696e…`) with the verbal table's two new rows and twenty roots; the previous pin `af942ce6…` holds at commit b1059b0.

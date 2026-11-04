@@ -39,6 +39,7 @@ SUTRAPATHA = PG / "SUTRAPATHA.tsv"
 SOURCES = {   # the sūtras named as the options the two lines realised on different branches — quoted from the pinned edition
     "3.4.84": "bruvaḥ pañcānām ādita āho bruvaḥ", "7.2.114": "mṛjer vṛddhiḥ", "3.1.82": "stanbhustunbhuskanbhuskunbhuskuñbhyaḥ śnuś ca", "7.3.95": "turustuśamyamaḥ sārvadhātuke",
     "7.3.90": "ūrṇoter vibhāṣā", "6.4.115": "bhiyo 'nyatarasyām", "6.4.116": "jahāteś ca", "8.4.65": "jharo jhari savarṇe",
+    "8.2.40": "jhaṣas tathor dho 'dhaḥ", "8.4.53": "jhalāṁ jaś jhaśi",   # theorum/160: the adjudication of indhe / inddhe
 }
 OPTIONS = {   # lexical id → the sūtra whose option the two lines realised on different branches (both forms the grammar's)
     "1020039": "3.4.84 bruvaḥ pañcānām ādita āho bruvaḥ (āha / bravīti)", "1020061": "7.2.114 mṛjer vṛddhiḥ with the vārttika mṛjer vibhāṣā (mārjanti / mṛjanti)",
@@ -46,6 +47,11 @@ OPTIONS = {   # lexical id → the sūtra whose option the two lines realised on
     "1020028": "7.3.95 tuś ca … the īṭ of ru / tu / stu optional (ravīti / rauti)", "1020029": "7.3.95 (tavīti / tauti)", "1020038": "7.3.95 (stavīti / stauti)", "1020034": "7.3.90 ūrṇoter vibhāṣā (ūrṇoti / ūrṇauti)",
     "1030002": "6.4.115 bhiyo 'nyatarasyām (bibhitaḥ / bibhītaḥ)", "1030009": "6.4.116 jahāteś ca (jahitaḥ / jahītaḥ)",
     "1070001": "8.4.65 jharo jhari savarṇe (runddhaḥ / rundhaḥ: the d before dh optionally dropped)", "1070006": "8.4.65 (kṣuntte / kṣunte)", "1070008": "8.4.65 (chṛntte / chṛnte)", "1070009": "8.4.65 (tṛntte / tṛnte)",
+    "1070020": "8.4.65 (unttaḥ / untaḥ; und declared by theorum/160)",
+}
+ADJUDICATED = {   # a written reference form the table does not reproduce, adjudicated against the source (theorum/160); the kṣiṇoti case stays to adjudicate
+    "snam_lat:1070011:A:0:50": {"written": "indhe", "ours": "inddhe", "verdict": "the table's form",
+                                "reason": "8.2.40 jhaṣas tathor dho 'dhaḥ: the t of te → dh after the jhaṣ dh of indh (the śnam's a dropped by 6.4.111), then 8.4.53 jhalāṁ jaś jhaśi: dh → d before dh — inddhe; the written line's own 2pl of the same root is inddhve and its other 3sg case writes inddhe; the one case is a slip of the reference list"},
 }
 PERSON = {"prathama": "3", "madhyama": "2", "uttama": "1"}
 NUMBER = {"eka": "s", "dvi": "d", "bahu": "p"}
@@ -144,7 +150,7 @@ def replay_case(case: dict, lex: dict, by_code: dict[str, list[str]]) -> dict[st
 
 
 def r1_replay() -> dict[str, Any]:
-    by_code = engine_roots_by_code(); out = {}; totals = Counter(); disagreements = {}; options = {}; undeclared = Counter()
+    by_code = engine_roots_by_code(); out = {}; totals = Counter(); disagreements = {}; options = {}; undeclared = Counter(); adjudicated = {}
     for p in packets():
         cases = json.loads((p / "REFERENCE_CASES.json").read_text(encoding="utf-8"))["cases"]
         lex = lexical_index(p); exp = expected_iast(p); st = Counter(); agree = 0; replayed = 0
@@ -165,12 +171,14 @@ def r1_replay() -> dict[str, Any]:
                     agree += 1
                 elif lid in OPTIONS:
                     options[f"{p.name}:{c['id']}"] = {"ours": r["ours"], "written": expected, "option": OPTIONS[lid]}
+                elif f"{p.name}:{c['id']}" in ADJUDICATED and ADJUDICATED[f"{p.name}:{c['id']}"]["written"] in expected and ADJUDICATED[f"{p.name}:{c['id']}"]["ours"] == r["ours"]:
+                    adjudicated[f"{p.name}:{c['id']}"] = {"ours": r["ours"], "written": expected, "root": r["root"], "lak": r["lak"], "cell": r["cell"], **ADJUDICATED[f"{p.name}:{c['id']}"]}
                 else:
                     disagreements[f"{p.name}:{c['id']}"] = {"ours": r["ours"], "written": expected, "root": r["root"], "lak": r["lak"], "cell": r["cell"], "pada": r["pada"]}
         out[p.name] = {"cases": len(cases), "replayed": replayed, "agree": agree, "statuses": dict(sorted(st.items()))}
         totals["cases"] += len(cases); totals["replayed"] += replayed; totals["agree"] += agree
-    totals["other_branch_of_an_option"] = len(options); totals["to_adjudicate"] = len(disagreements)
-    return {"packets": out, "totals": dict(totals), "other_branch_of_an_option": options, "to_adjudicate": disagreements, "roots_of_the_written_line_not_declared_by_the_tables": dict(sorted(undeclared.items()))}
+    totals["other_branch_of_an_option"] = len(options); totals["to_adjudicate"] = len(disagreements); totals["adjudicated"] = len(adjudicated)
+    return {"packets": out, "totals": dict(totals), "other_branch_of_an_option": options, "to_adjudicate": disagreements, "adjudicated": adjudicated, "roots_of_the_written_line_not_declared_by_the_tables": dict(sorted(undeclared.items()))}
 
 
 def sutrapatha() -> dict[str, str]:

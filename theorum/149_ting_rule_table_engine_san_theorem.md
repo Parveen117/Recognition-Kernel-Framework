@@ -56,3 +56,5 @@ RH, YM                                                                          
 ```
 
 *Note (theorum/158).* The verbal table is re-pinned again by theorum/158 (`4cf5530a…`): the row 6.4.35 *śā hau* added, 6.4.34 extended to the ṅit yāsuṭ of liṅ and excluded before hi, 8.3.60 freed of its t / v / m restriction — the three defects the written line's PG23 register showed (theorum/157); six witness cells of śās (loṭ 2sg, 3du, 2pl; liṅ 3sg, 3pl, 1sg) added to the suite from that register. This theorem's pin `df6a008d…` stands at commit 98c91c3.
+
+*Note (theorum/160).* Re-pinned again by theorum/160 (`301d276c…`): twenty roots of the written line declared (hṛ, budh, kṛṣ, vand, mud, īkṣ, īh, vṛt, vṛdh, śṛdh, syand, svṛ, nṛt, chid, yuj, śiṣ, piṣ, und, bhuj, indh), two rows added (7.2.59, 7.4.10), 3.1.36's list and 3.1.55's dyutādi extended, the five lanes rebuilt (open 5,997, ārdhadhātuka 12,485, karmaṇi 7,668, ṇic 15,336, san 10,944). The pin `4cf5530a…` (theorum/158) holds at commit b1059b0.

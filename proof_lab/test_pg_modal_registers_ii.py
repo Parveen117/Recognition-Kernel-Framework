@@ -29,8 +29,8 @@ class T157Tests(unittest.TestCase):
         payload = build_certificate()
         self.assertEqual(payload["status"], "PASS_PG_MODAL_REGISTERS_II_CANDIDATE")
         t = payload["totals"]
-        self.assertEqual((t["positions"], t["replayed"] + t["replayed_under_6.4.74_augment_rows_withheld"], t["agree"], t["to_adjudicate"], t["adjudicated"]), (999, 702, 702, 0, 0))
-        self.assertEqual(t["replayed_under_6.4.74_augment_rows_withheld"], 54)
+        self.assertEqual((t["positions"], t["replayed"] + t["replayed_under_6.4.74_augment_rows_withheld"], t["agree"], t["to_adjudicate"], t["adjudicated"]), (999, 954, 954, 0, 0))
+        self.assertEqual(t["replayed_under_6.4.74_augment_rows_withheld"], 144)
         self.assertEqual(payload["adjudicated"], {})   # theorum/158: the table corrected, the ten śās cells agree
         digest = hashlib.sha256(canonical_bytes(payload)).hexdigest()
         self.assertEqual(digest, certificate_sha256(payload))

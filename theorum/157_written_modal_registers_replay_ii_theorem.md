@@ -47,3 +47,5 @@ RH, YM                                                                          
 ```
 
 *Note (theorum/158).* The table corrected as this theorem asked: re-pinned by theorum/158 (`632be289…`), all **702 / 702** replayed positions now agree and the adjudication list is empty (the ten śās cells are in the table's suite as witness cells). The pin `c400f141…`, with the ten adjudicated cells, holds at commit 98c91c3. The kernel is re-pinned by theorum/158 (`21003192…`); this theorem's kernel pin `d68d6208…` holds at commit 98c91c3.
+
+*Note (theorum/160).* Re-pinned by theorum/160 (`97083eeb…`): hṛ, svṛ, nṛt, vṛt, vṛdh, śṛdh, syand, vand, mud, īkṣ, īh declared, 954 of the 999 positions replayed (was 702; the māṅ cells 144, all eight roots), **954 / 954 agree**, 55 option cells (7.2.44: 27, 7.2.57: 9 — nṛt's *anartsyat / anartiṣyat*, the table the seṭ branch); 45 positions on ṛ, iṣ, kṛp remain outside. The pin `632be289…` holds at commit b1059b0.

@@ -50,7 +50,7 @@ class T155Tests(unittest.TestCase):
         payload = build_certificate()
         self.assertEqual(payload["status"], "PASS_PG_WRITTEN_REPLAY_CANDIDATE")
         r4 = payload["r4_pg19_register"]
-        self.assertEqual((r4["positions"], r4["replayed"], r4["agree"]), (976, 542, 541))
+        self.assertEqual((r4["positions"], r4["replayed"], r4["agree"]), (976, 650, 647))
         self.assertEqual(r4["to_adjudicate"], {})
         r5 = payload["r5_pg47_histories"]
         self.assertEqual((r5["histories"], r5["compared_count"], r5["agree"], r5["out_of_scope_count"]), (29, 12, 12, 18))

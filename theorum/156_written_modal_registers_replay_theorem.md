@@ -46,3 +46,5 @@ RH, YM                                                                          
 ```
 
 *Note (theorum/157).* The next four registers (PG23, PG25, PG31, PG32) are replayed by theorem 157: 692 / 702 agree, and the ten śās cells are adjudicated against the table. The kernel is re-pinned again by theorum/157 (`d68d6208…`); commit 9fc4399 holds this theorem's state and its kernel pin `f569ee6a…`.
+
+*Note (theorum/160).* Re-pinned by theorum/160 (`454add96…`): hṛ, chid, yuj, śiṣ, piṣ declared, 819 of the 1,026 positions replayed (was 693), **819 / 819 agree**, 93 option cells (8.4.65 now also chid, śiṣ, piṣ); PG22 is replayed in full. The pin `158912ce…` holds at commit b1059b0.

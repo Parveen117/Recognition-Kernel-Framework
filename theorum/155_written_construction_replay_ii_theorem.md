@@ -71,3 +71,5 @@ RH, YM                                                                          
 *Note (theorum/156).* The next three registers (PG20 āśīrliṅ, PG21 nasal-class, PG22 athematic loṭ / vidhiliṅ) are replayed by theorem 156: 693 / 693 agree. The kernel is re-pinned again by theorum/156 (`f569ee6a…`); commit 921ee1e holds this theorem's state and its kernel pin `578406c8…`.
 
 *Note (theorum/158).* Re-pinned by theorum/158 (`c98d6ba3…`): with 6.4.35 a row of the verbal table, R6's placement of the written line's 3,849 cited sūtras is 309 rows / 250 ledger / 3,290 neither; nothing else changes. The pin `7d580c51…` holds at commit 98c91c3.
+
+*Note (theorum/160).* Re-pinned by theorum/160 (`5c442eb5…`): hṛ, budh and kṛṣ declared, R4 replays 650 of PG19's positions (was 542), 647 agree; two more cells adjudicated to the table's ṇatva by 8.4.1 / 8.4.2 — *hārayāni → hārayāṇi* (the shape of CK02) and *karṣayāni → karṣayāṇi* (the ṣ of karṣ the trigger; the written line's own *śinaṣāṇi, pinaṣāṇi* in PG22); 92 positions on pā, sthā, vid remain outside; R6's placement 311 rows / 250 ledger / 3,288 neither. The pin `c98d6ba3…` holds at commit b1059b0.

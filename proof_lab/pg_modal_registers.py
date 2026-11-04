@@ -64,14 +64,14 @@ O_A = ["īta", "īyātām", "īran", "īthāḥ", "īyāthām", "īdhvam", "īya
 
 # the written roots → the verbal table's keys (None: the table does not declare the root; a dict: by pada)
 KEYS = {"bhū": "bhū", "pac": "pac", "edh": "edh", "labh": "labh", "tud": "tud", "nī": "nī", "gam": "gam", "śam": "śam", "kṛ": "kṛ", "krī": "krī", "dā": "dā",
-        "vac": "vac2", "jāgṛ": "jāgṛ2", "hṛ": None, "sthā": None, "pā": None, "vid": None, "budh": None, "kṛṣ": None,
+        "vac": "vac2", "jāgṛ": "jāgṛ2", "hṛ": "hṛ", "budh": "budh", "kṛṣ": "kṛṣ", "sthā": None, "pā": None, "vid": None,   # hṛ, budh, kṛṣ declared by theorum/160
         "su": "su", "ci": "ci", "āp": "āp", "śak": "śak", "śru": "śru", "tan": "tan", "pū": "pū", "lū": "lū", "sku": {"P": "sku9", "A": "sku9A"}, "kṣiṇ": "kṣiṇ8",
         "stambh": None, "stumbh": None, "skambh": None, "skumbh": None, "ṛṇ": None, "tṛṇ": None, "ghṛṇ": None,
-        "ad": "ad", "as": "as", "hu": "hu", "dhā": "dhā", "rudh": "rudh", "bhid": "bhid", "hiṃs": "hiṁs", "chid": None, "yuj": None, "śiṣ": None, "piṣ": None}
+        "ad": "ad", "as": "as", "hu": "hu", "dhā": "dhā", "rudh": "rudh", "bhid": "bhid", "hiṃs": "hiṁs", "chid": "chid", "yuj": "yuj", "śiṣ": "śiṣ", "piṣ": "piṣ"}   # chid, yuj, śiṣ, piṣ declared by theorum/160
 OPTIONS = {   # a written row with several branch tuples: the sūtra whose option the branches realise (quoted in SOURCES)
     "sku": "3.1.82 stanbhustunbhuskanbhuskunbhuskuñbhyaḥ śnuś ca (śnu / śnā): the table declares sku as a class-9 root (skunāti), the śnā branch",
     "kṣiṇ": "3.1.79 tanādikṛñbhya uḥ with the two commentary policies on the guṇa of the root vowel before u (kṣiṇoti / kṣeṇoti: G0 / G1 of the written line; the table realises G1 in the strong cells, G0 in the weak)",
-    "rudh": "8.4.65 jharo jhari savarṇe (runddhām / rundhām)", "bhid": "8.4.65 (bhinttām / bhintām)", "hiṃs": "8.4.65 (hinddhi / hindhi)",
+    "rudh": "8.4.65 jharo jhari savarṇe (runddhām / rundhām)", "bhid": "8.4.65 (bhinttām / bhintām)", "hiṃs": "8.4.65 (hinddhi / hindhi)", "chid": "8.4.65 (chinttām / chintām; chid declared by theorum/160)", "śiṣ": "8.4.65 (śiṇḍḍhi / śiṇḍhi; theorum/160)", "piṣ": "8.4.65 (piṇḍḍhi / piṇḍhi; theorum/160)",
 }
 SOURCES = {"3.1.82": "stanbhustunbhuskanbhuskunbhuskuñbhyaḥ śnuś ca", "3.1.79": "tanādikṛñbhya uḥ", "8.4.65": "jharo jhari savarṇe", "7.1.35": "tuhyos tātaṅṅ āśiṣy anyatarasyām"}
 

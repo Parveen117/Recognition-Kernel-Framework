@@ -10,11 +10,11 @@
   ],
   "counts": {
     "compiled": 10,
-    "meta": 178,
-    "hand_coded": 437,
-    "cited": 406,
+    "meta": 179,
+    "hand_coded": 439,
+    "cited": 405,
     "misnumbered": 2,
-    "entries": 1033,
+    "entries": 1035,
     "text_missing": 91,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
@@ -1909,6 +1909,21 @@
       "theorems": [],
       "cited_in": [
         "theorum/154_written_construction_replay_theorem.md"
+      ]
+    },
+    "1.3.92": {
+      "text": "vṛdbhyaḥ syasanoḥ",
+      "text_devanagari": "वृद्भ्यः स्यसनोः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T160"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/142_panini_kernel_theorem.md",
+        "theorum/160_ting_rule_table_engine_written_roots_theorem.md"
       ]
     },
     "1.4.2": {
@@ -3818,7 +3833,9 @@
       ],
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
-        "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md"
+        "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/160_ting_rule_table_engine_written_roots_theorem.md"
       ]
     },
     "3.1.37": {
@@ -3874,7 +3891,8 @@
       ],
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
-        "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md"
+        "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
+        "theorum/160_ting_rule_table_engine_written_roots_theorem.md"
       ]
     },
     "3.1.43": {
@@ -3980,7 +3998,9 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/101_lun_parasmaipada_compiled_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
-        "theorum/146_ting_rule_table_engine_lun_breadth_theorem.md"
+        "theorum/146_ting_rule_table_engine_lun_breadth_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/160_ting_rule_table_engine_written_roots_theorem.md"
       ]
     },
     "3.1.57": {
@@ -10626,6 +10646,7 @@
         "T133"
       ],
       "cited_in": [
+        "proof_lab/pg_replay.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/133_ting_rule_table_engine_luk_slu_snam_theorem.md",
         "theorum/139_ting_rule_table_engine_open_lane_theorem.md"
@@ -12456,6 +12477,7 @@
         "theorum/150_panini_isa_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
         "theorum/155_written_construction_replay_ii_theorem.md",
+        "theorum/160_ting_rule_table_engine_written_roots_theorem.md",
         "theorum/97_lrt_lut_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -12507,7 +12529,8 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/122_krt_samasa_source_repairs_theorem.md",
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
-        "theorum/157_written_modal_registers_replay_ii_theorem.md"
+        "theorum/157_written_modal_registers_replay_ii_theorem.md",
+        "theorum/160_ting_rule_table_engine_written_roots_theorem.md"
       ]
     },
     "7.2.49": {
@@ -12573,7 +12596,9 @@
       "cited_in": [
         "proof_lab/pg_modal_registers_ii.py",
         "proof_lab/ting_rule_table_engine.py",
-        "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md"
+        "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
+        "theorum/157_written_modal_registers_replay_ii_theorem.md",
+        "theorum/160_ting_rule_table_engine_written_roots_theorem.md"
       ]
     },
     "7.2.58": {
@@ -12601,10 +12626,16 @@
       "text_devanagari": "न वृद्भ्यश्चतुर्भ्यः",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "hand_coded",
+      "theorems": [
+        "T160"
+      ],
       "cited_in": [
-        "theorum/122_krt_samasa_source_repairs_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/122_krt_samasa_source_repairs_theorem.md",
+        "theorum/142_panini_kernel_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/160_ting_rule_table_engine_written_roots_theorem.md"
       ]
     },
     "7.2.61": {
@@ -14527,6 +14558,22 @@
         "theorum/146_ting_rule_table_engine_lun_breadth_theorem.md"
       ]
     },
+    "7.4.10": {
+      "text": "ṛtaś ca saṁyogāder guṇaḥ",
+      "text_devanagari": "ऋतश्च संयोगादेर्गुणः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T160"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/142_panini_kernel_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/160_ting_rule_table_engine_written_roots_theorem.md"
+      ]
+    },
     "7.4.11": {
       "text": "ṛcchatyṝtām",
       "text_devanagari": "ऋच्छत्यॄताम्",
@@ -14538,7 +14585,8 @@
       ],
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
-        "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md"
+        "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
+        "theorum/160_ting_rule_table_engine_written_roots_theorem.md"
       ]
     },
     "7.4.12": {
@@ -15716,6 +15764,7 @@
         "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/krt_rule_table_engine.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
+        "proof_lab/pg_replay.py",
         "proof_lab/ting_rule_table_engine.py",
         "proof_lab/tripadi_nishtha_compiled.py",
         "theorum/112_atmanepada_lrt_lut_compiled_theorem.md",
@@ -15726,6 +15775,8 @@
         "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
+        "theorum/154_written_construction_replay_theorem.md",
+        "theorum/160_ting_rule_table_engine_written_roots_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md",
         "theorum/87_tripadi_nishtha_compiled_theorem.md"
       ]
@@ -16575,7 +16626,8 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/138_generalisation_test_theorem.md",
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
-        "theorum/146_ting_rule_table_engine_lun_breadth_theorem.md"
+        "theorum/146_ting_rule_table_engine_lun_breadth_theorem.md",
+        "theorum/160_ting_rule_table_engine_written_roots_theorem.md"
       ]
     },
     "8.3.82": {
@@ -16644,6 +16696,7 @@
         "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
         "theorum/155_written_construction_replay_ii_theorem.md",
+        "theorum/160_ting_rule_table_engine_written_roots_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md",
         "theorum/91_ghi_stem_sup_compiled_theorem.md"
       ]
@@ -16705,6 +16758,7 @@
         "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md",
         "theorum/153_krdanta_declension_theorem.md",
         "theorum/155_written_construction_replay_ii_theorem.md",
+        "theorum/160_ting_rule_table_engine_written_roots_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",
@@ -16914,6 +16968,7 @@
         "proof_lab/atmanepada_lun_compiled.py",
         "proof_lab/krt_rule_table_engine.py",
         "proof_lab/nirukta_dhatupatha_nama.py",
+        "proof_lab/pg_replay.py",
         "proof_lab/shaiva_sources_nativized.py",
         "proof_lab/ting_rule_table_engine.py",
         "proof_lab/tripadi_nishtha_compiled.py",
@@ -16925,6 +16980,8 @@
         "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
+        "theorum/154_written_construction_replay_theorem.md",
+        "theorum/160_ting_rule_table_engine_written_roots_theorem.md",
         "theorum/86_nirukta_dhatupatha_nama_theorem.md",
         "theorum/87_tripadi_nishtha_compiled_theorem.md"
       ]
@@ -17106,7 +17163,8 @@
         "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md",
         "theorum/154_written_construction_replay_theorem.md",
         "theorum/156_written_modal_registers_replay_theorem.md",
-        "theorum/159_written_modal_registers_replay_iii_theorem.md"
+        "theorum/159_written_modal_registers_replay_iii_theorem.md",
+        "theorum/160_ting_rule_table_engine_written_roots_theorem.md"
       ]
     }
   }

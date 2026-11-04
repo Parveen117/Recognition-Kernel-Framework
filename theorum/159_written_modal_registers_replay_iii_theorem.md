@@ -42,3 +42,5 @@ THE 28 UNDECLARED OR OTHER-CLASS ROOTS (504 POSITIONS); THE TĀT FORMS (NO 7.1.3
 WHICH READING IS RIGHT WHERE THEY DIFFER; PG28 (bhuj / tṛh: undeclared roots), PG29–PG30, PG33–PG34 (karmaṇi / ṇic beyond the present system)             NOT CLAIMED
 RH, YM                                                                                                                                                     UNTOUCHED
 ```
+
+*Note (theorum/160).* The kernel is re-pinned by theorum/160 (`2ede883c…`); this theorem's certificate re-runs to its pin `ea798cd7…` unchanged after the twenty roots' declaration (none of its undeclared roots is among them). Commit b1059b0 holds its state.
