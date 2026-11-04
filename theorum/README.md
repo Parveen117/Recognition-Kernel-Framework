@@ -136,6 +136,7 @@ The advanced numbered surface now runs through Theorem 80:
 86. **158 — tiṅ rule-table engine XXI: the table corrected on śās.** From the written line's register (theorem 157's ten adjudicated cells): 6.4.35 *śā hau* added, 6.4.34 extended to the ṅit yāsuṭ and excluded before hi, 8.3.60 freed of its t / v / m restriction; six Kāśikā witness cells of PG23 in the suite; 914 / 914, every lane unchanged; the table, the ISA, theorems 155 and 157 re-pinned (theorem 157 now 702 / 702).
 87. **159 — the written modal registers replayed III.** PG24's consonant-final, PG26's vowel-final and PG27's consonant-inventory adādi / rudhādi loṭ / vidhiliṅ registers expanded from the packets' own parametric constructors (U_P(R;Q) with the īṭ overlay, A_P(R), A(W,G,T,Z,D), P(Q,W,G,T,D), O_P / O_A; quoted, found in the files): 1,457 positions, 953 replayed, 953 agree, 0 to adjudicate; 69 cells the other branch of 7.3.95 / 8.4.65 / 7.3.90 / 7.2.114; 28 undeclared or other-class roots placed outside the table. All the written registers the verbal table can carry are now replayed (PG19–PG27, PG31–PG32).
 88. **160 — tiṅ rule-table engine XXII: twenty roots of the written line declared.** hṛ, budh, kṛṣ, vand, mud, īkṣ, īh, vṛt, vṛdh, śṛdh, syand, svṛ, nṛt, chid, yuj, śiṣ, piṣ, und, bhuj, indh; 108 of the written line's cells in the suite (1,006 / 1,006); 7.2.59 and 7.4.10 added, 3.1.36 and 3.1.55 extended; the open-lane builder restored and the five lanes rebuilt (new roots' 5,158 cells all agree with vidyut); theorems 150, 154–157 re-pinned — 2,573 written positions on the new roots, 2,569 agree, 4 adjudicated to the table.
+89. **161 — tiṅ rule-table engine XXIII: five roots of the written line with their rows.** sthā, pā, kṛp, iṣ, tṛh declared by 7.3.78, 7.3.37, 6.4.66 / 6.4.67, 8.2.18, 7.2.60, 7.3.77, 7.3.92; 1,038 / 1,038 suite cells; the five verbal lanes rebuilt (the new roots' 1,217 cells all agree); the kṛt (1,977 / 1,985) and kṛdanta (56,870 / 58,036) lanes rebuilt on the forty-five new roots; the nominal table's idam rows restricted to the pronoun; ISA, kṛt, kṛdanta and theorems 154–157 re-pinned.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -183,7 +184,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-160                           PRESENT
+NUMBERED THEOREM FILES 01-161                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT

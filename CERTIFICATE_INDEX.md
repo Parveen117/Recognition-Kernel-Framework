@@ -1481,7 +1481,7 @@ proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | bhvādi present system: bhū, gam, nī, edh, labh × laṭ, laṅ, loṭ, liṅ; 180 cells from 40 rows |
 
 ```text
@@ -1497,7 +1497,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine II |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | lṛṭ, luṭ, āśīrliṅ, luṅ of bhū, gam, nī, edh, labh on the certified cells; 125 cells from 23 rows; 63 rows on 305 cells |
 
 ```text
@@ -1513,7 +1513,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine III |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | liṭ of bhū, gam, kṛ, nī on the 20 certified cells from 12 rows; the abhyāsa as a segment; 75 rows on 325 cells |
 
 ```text
@@ -1529,7 +1529,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine IV |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | the vikaraṇa classes (śyan, śa, śnu, u, śnā, ṇic) on 79 quoted laṭ cells of seventeen roots; 96 rows on 404 cells |
 
 ```text
@@ -1545,7 +1545,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine V |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | adādi, juhotyādi, rudhādi (luk, ślu, śnam) on 101 quoted laṭ cells of fourteen roots; 109 rows on 505 cells |
 
 ```text
@@ -1561,7 +1561,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine VI |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | 86 svādi / tanādi / kryādi entries on 91 quoted cells from eight new rows; 115 rows on 596 cells |
 
 ```text
@@ -1577,7 +1577,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine VII |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | 38 adādi / juhotyādi entries on 136 quoted cells from ten new rows; 125 rows on 732 cells |
 
 ```text
@@ -1593,7 +1593,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine VIII |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | 32 adādi consonant-root entries on 176 quoted cells from nineteen new rows; 144 rows on 908 cells |
 
 ```text
@@ -1609,7 +1609,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Independent-Oracle Audit |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | both engines against vidyut-prakriya: 1,728 / 1,744 comparable cells agree, no engine form wrong, three attributions corrected (7.2.76, 8.4.40, 3.4.107) |
 
 ```text
@@ -1625,7 +1625,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Generalisation Test |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | 7,052 unseen cells against vidyut: laṭ of classes 1–10 and lṛṭ / āśīrliṅ of the bhvādi 1,373 / 1,373 after five row corrections; laṅ / loṭ / liṅ of classes 2–10 measured as the open lane |
 
 ```text
@@ -1641,7 +1641,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine IX |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | laṅ / loṭ / vidhiliṅ of classes 2–10 from the strong-ending predicate and nine rows: 5,064 / 5,373 generator cells, 6,706 / 7,052 unseen cells overall; 154 rows |
 
 ```text
@@ -1657,7 +1657,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Tiṅ Rule-Table Engine X |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | the open lane, second pass: 5,223 / 5,373 generator cells, 6,865 / 7,052 unseen cells overall; 157 rows |
 
 ```text
@@ -1689,7 +1689,7 @@ proof_lab/SUP_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | Pāṇini Kernel |
 | Status | `PASS_PANINI_KERNEL_CANDIDATE` |
-| Canonical result SHA-256 | `2ede883cdbc0ed34168445c7df494f45b8f3f5a1a3e17f2ac390160fd092f65b` |
+| Canonical result SHA-256 | `ae5d01974be5e32080280e8ed92d9827859896868ddd96352b0551f3886d800b` |
 | Boundary | the two engines, the ledger and the evidence as one object: 230 sūtras as rows after theorum/143 (225 at first pin 41854a6b…, in the history), 18 shared (junction / tripādī only), every row a ledger entry and every engine ledger entry a row; coverage counted |
 
 ```text
@@ -1705,7 +1705,7 @@ proof_lab/PANINI_KERNEL_EXPECTED.sha256
 |---|---|
 | Certificate class | tiṅ rule-table engine XI — the open lane closed: 5,373 / 5,373 |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | laṅ / loṭ / vidhiliṅ of classes 2–10 on the independent generator's cells, 5,373 / 5,373 (from 5,223), with nine new rows and the apṛkta attribution corrected to 6.1.68 — PROVED on the suite (908 / 908), DECLARED on the lane; the 8.2.74 ru branch, 8.4.56's jaś branch, 8.4.65, 7.1.35's tāt, 7.3.95's īṭ recorded as options, not claimed |
 
 ```text
@@ -1721,7 +1721,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | tiṅ rule-table engine XII — the Dhātupāṭha pinned and the ārdhadhātuka lane: lṛṭ, luṭ, āśīrliṅ of every declared root, 1,845 / 1,854 each |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | the Dhātupāṭha (ashtadhyayi.com's list, 2,259 records, pinned) as the ground of 7.2.10; lṛṭ / luṭ / āśīrliṅ of all 194 declared (root, pada) on the generator's cells, 1,845 / 1,854 each (daridrā's nine: a vārttika, not claimed) — PROVED on the suite (908 / 908), DECLARED on the lane; liṭ 514 / 1,849, luṅ 1,042 / 1,854, lṛṅ 0 / 1,854 reported as the next baseline |
 
 ```text
@@ -1737,7 +1737,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | tiṅ rule-table engine XIII — liṭ at breadth (1,799 / 1,849) and lṛṅ (1,845 / 1,854) |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | liṭ of all 194 declared (root, pada) on the generator's cells, 1,799 / 1,849, from 25 new rows (3.4.81, the periphrastic 3.1.35–40, the vowel-initial abhyāsa, 6.1.17, 6.4.120–123, 7.4.11, 7.1.34, 6.4.64 …); lṛṅ 1,845 / 1,854 as the ṅit sya-lakāra — PROVED on the suite (908 / 908), DECLARED on the lane; the 50 liṭ cells left named (jakṣ, stubh, stṛ, ūrṇu, i-thal); luṅ 1,077 / 1,854 the next baseline |
 
 ```text
@@ -1753,7 +1753,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | tiṅ rule-table engine XIV — luṅ at breadth, 1,854 / 1,854: the kartari tiṅanta closed on the lane |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | luṅ of all 194 declared (root, pada) on the generator's cells, 1,854 / 1,854, from the cli substitutes as rows (sic, aṅ, ksa, caṅ, the luk of 2.4.77) with the vṛddhi, iṭ and kit rules of the sic (7.2.1–7.2.5, 7.2.72–73, 1.2.11–12, 1.2.17, 8.2.25–28) — PROVED on the suite (908 / 908), DECLARED on the lane; with it every lakāra of the kartari tiṅanta stands on the lane: 5,373 / 5,373 present, 1,845 / 1,854 ×4, 1,799 / 1,849 liṭ, 1,854 / 1,854 luṅ |
 
 ```text
@@ -1769,7 +1769,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | tiṅ rule-table engine XV — the karmaṇi: the passive present system of every declared root, 6,912 / 6,948 |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | the karmaṇi prayoga on the same table: laṭ / laṅ / loṭ / vidhiliṅ of all 193 declared roots in the passive, 6,912 / 6,948 on the generator's cells (daridrā's 36 a vārttika's), from 3.1.67 yak as a kit vikaraṇa row, 1.3.13, the kit-y rows of āśīrliṅ generalised through one predicate, 7.4.22, 6.4.44 — PROVED on the suite (908 / 908), DECLARED on the lane |
 
 ```text
@@ -1785,7 +1785,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | tiṅ rule-table engine XVI — the ṇic: the causative present system of every declared root in both padas, 13,824 / 13,896 |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | the hetumat ṇic on the same table: laṭ / laṅ / loṭ / vidhiliṅ of all 193 declared roots with ṇic, parasmaipada and ātmanepada, 13,824 / 13,896 on the generator's cells (pā rakṣaṇe's 72 a vārttika's) — 3.1.26 as a row with 3.1.32 / 1.3.74, the root changes before ṇic (2.4.46, 7.3.32, 6.1.48, 7.1.64, 6.1.50, 2.4.52 / 2.4.53), 7.3.36 puk, 7.2.115 / 7.2.116 under 6.4.92, 7.3.86 as pugantalaghūpadhasya — PROVED on the suite (908 / 908), DECLARED on the lane |
 
 ```text
@@ -1801,7 +1801,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | tiṅ rule-table engine XVII — the san: the desiderative present system of every declared root in both padas, 9,756 / 9,936 |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | the desiderative san on the same table: laṭ / laṅ / loṭ / vidhiliṅ of all 193 declared roots with san, both padas, 9,756 / 9,936 on the generator's cells (daridrā's 36 a vārttika's, ūrṇu's 144 not built) — 3.1.7 as the s-initial vikaraṇa row with 1.3.62, the iṭ of san under 7.2.11 / 7.2.12 / 7.2.58 / 7.2.38, the kit of 1.2.8–10 as a predicate, 6.4.16, 7.4.54 / 7.4.55 / 7.4.49 / 7.4.58, 6.1.9 and 6.1.2 with 7.4.79, 8.3.59's ādeśa-s under 8.3.61 — PROVED on the suite (908 / 908), DECLARED on the lane |
 
 ```text
@@ -1817,7 +1817,7 @@ proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | the Pāṇini ISA — every firing of the two rule tables is at most two operations from a closed catalogue of sixteen Pāṇinian types; the tables a staged program |
 | Status | `PASS_PANINI_ISA_CANDIDATE` |
-| Canonical result SHA-256 | `0b03696ef78b21227c4a77a2f87a8e6bf8d2797d88054911f250d01a2475cfc3` |
+| Canonical result SHA-256 | `5661a4b2b4a7ff962cfb221d3e455d9cf4ec65d8322fc5369a8e7b6e1d6fbd92` |
 | Boundary | an observer records the state before and after every firing of the 251 verbal and 90 nominal rows on the suites and all seven lanes (≈ 60,000 derivations, 394,468 firings); every firing is at most two operations from a closed catalogue of 16 types named by the Aṣṭādhyāyī's own sūtras (1.1.46 / 1.1.47 augments, 1.1.60 lopa, 1.1.52 / 1.1.55 / 1.1.65 ādeśa, 1.1.1 / 1.1.2 / 1.2.27 grades, 6.1.1 dvitva, affix, mark, sandhi); the phases are monotone, the tripādī one pass with its 26 + 14 live re-orderings against 8.2.1 listed with evidence (45 + 29 vacuous); the guards read the state through 30 + 7 and 27 readers — PROVED (exact, finite); the catalogue as the only reading, the guards as an instruction set, confluence: NOT CLAIMED |
 
 ```text
@@ -1833,7 +1833,7 @@ proof_lab/PANINI_ISA_EXPECTED.sha256
 |---|---|
 | Certificate class | kṛt rule-table engine I — eight kṛt affixes (kta, ktavatu, tavya, anīya, tumun, ktvā, tṛc, ṇvul) on every declared root, 1,537 / 1,544 |
 | Status | `PASS_KRT_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `f6ec030c3a759e6205ab86a537357cbc547ec8807839f28eb4965e81a55c296c` |
+| Canonical result SHA-256 | `6960478f2df5b40de5e64a99eebb3d0bec50fa763095d8415af4051201e8f10f` |
 | Boundary | the first kṛt table: 72 rows over a three-segment state (root | iṭ | affix) deriving the niṣṭhā (kta, ktavatu), tavya / anīya, tumun, ktvā, tṛc, ṇvul of all 193 declared roots — the affix's kit-ness by 1.1.5 / 1.2.18 / 1.2.19 / 1.2.8 / 1.2.26, its iṭ under 7.2.11 / 7.2.14 / 7.2.15 / 7.2.16 / 7.2.56, the root before the kit (6.4.37, 6.4.42, 6.4.15, 6.1.15 / 6.1.16, 6.4.24, 6.4.19, 7.4.40 / 7.4.42 / 7.4.43 / 7.4.46, 6.4.66, 7.1.100 / 7.1.102 / 8.2.77), the grades before the non-kit and the ṇit (7.3.84, 7.3.86, 7.2.115 / 7.2.116, 7.3.33), the niṣṭhā's n / k / v (8.2.42–8.2.45, 8.2.52, 8.2.56, 8.2.57) and the tripādī — 1,537 / 1,544 on the generator's cells (daridrā, śvasta, mṛditvā / mṛḍitvā named) — PROVED on the agreeing cells, DECLARED on the lane; the aṅga rows shared with the verbal table declared as the one sūtra written twice, to be folded |
 
 ```text
@@ -1849,7 +1849,7 @@ proof_lab/KRT_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | kṛt rule-table engine II — śatṛ and śānac as the verbal table's laṭ aṅga, 212 / 212 |
 | Status | `PASS_KRT_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `f6ec030c3a759e6205ab86a537357cbc547ec8807839f28eb4965e81a55c296c` |
+| Canonical result SHA-256 | `6960478f2df5b40de5e64a99eebb3d0bec50fa763095d8415af4051201e8f10f` |
 | Boundary | śatṛ / śānac of all 193 declared roots in the declared pada: 3.2.124 as one row that calls the verbal table for the laṭ 3p aṅga (3.4.113: the śit kṛt is sārvadhātuka) and places at / āna, with 6.1.97, 6.1.101, 7.2.82 āne muk, 7.2.83 īdāsaḥ, 7.4.21 — 212 / 212 on the generator's cells (bhavat, juhvat, kurvat, ghnat, sat, yat; bhavamāna, kurvāṇa, śayāna, āsīna); the lane 1,756 cells, 1,749 agree; 78 rows load-bearing — PROVED on the agreeing cells, DECLARED on the lane; the first table built from another by call, not restatement |
 
 ```text
@@ -1865,7 +1865,7 @@ proof_lab/KRT_RULE_TABLE_ENGINE_EXPECTED.sha256
 |---|---|
 | Certificate class | the kṛdanta declined — three tables by call (verbal → kṛt → nominal), 50,265 / 51,326 padas in three genders |
 | Status | `PASS_KRDANTA_SUP_CANDIDATE` |
-| Canonical result SHA-256 | `bbea4a11f9700ac3d1b5781650eb841b38e91f6ed8402b29f0b8b23d15f0db89` |
+| Canonical result SHA-256 | `e1275bc73e7393d87326c52b8f97b5037c6fb938da6423de0536b45252751287` |
 | Boundary | the kṛt table's prātipadika (theorum/151–152) handed to the nominal table (theorum/125) in the three genders: the stem's class by the affix (the ugit of ktavatu / śatṛ, the ṛ-stem of tṛc, the a-stem of the rest; tumun / ktvā indeclinable by 1.1.39 / 1.1.40), the feminine stem by 4.1.4 ṭāp, 4.1.5 ṅīp with 6.1.77, 4.1.6 ṅīp after the ugit with 7.1.81 / 7.1.80's num, 7.3.44 as theorum/111 reads it; the nominal table taught one num (7.1.70 / 7.1.72), 7.1.78 nābhyastāc chatuḥ, 7.1.81 / 7.1.80 before the neuter dual, 6.4.14's adhātoḥ, 8.4.2 not before a jhal with 8.4.39, 7.1.21 as the numeral's — 50,265 / 51,326 on the generator's lane (51,326 cells), every disagreement of a named kind (196 the kṛt residue declined, 865 the generator's 7s / 6p of the ṅīp stem against theorum/89's nadī paradigm) — PROVED on the agreeing cells, DECLARED on the lane |
 
 ```text
@@ -1881,7 +1881,7 @@ proof_lab/KRDANTA_SUP_EXPECTED.sha256
 |---|---|
 | Certificate class | the written construction replayed — the grammar-construction packets' reference forms re-derived by the certified tables: 604 / 648 agree, 43 the other branch of a named option, 1 to adjudicate |
 | Status | `PASS_PG_REPLAY_CANDIDATE` |
-| Canonical result SHA-256 | `bf23cf943e0ef3be4fb48bbc0ab4c69f1993fb54a7b2023b8fb34e19f78e7d33` |
+| Canonical result SHA-256 | `cf3b5fce2fe13a9c5d810b87b0c41af1c535df17de1af95ae1d98baf1eaedba3` |
 | Boundary | the test the written line (research/panini_grammar, PG1–PG18) deferred: every reference form the tables can read is re-derived from the same Dhātupāṭha entry by the verbal table and compared — 648 replayed, 604 agree, 43 the other branch of an option both lines know (7.3.95, 8.4.65, 3.1.82, 3.4.84, 6.4.115, 6.4.116, 7.2.114, 7.3.90; quoted), 1 to adjudicate (kṣiṇoti / kṣeṇoti), 115 outside the tables naming 32 undeclared roots; the 161 sūtras the packets cite all in the pinned edition with their text, 106 rows of a table, 35 ledger, 20 in neither (listed) — PROVED (exact, finite); which line is right where they differ NOT CLAIMED |
 
 ```text
@@ -1897,7 +1897,7 @@ proof_lab/PG_REPLAY_EXPECTED.sha256
 |---|---|
 | Certificate class | the written construction replayed II — PG19–PG47 merged and tested: PG19's 976 written modal positions (541 / 542 replayed agree, 1 adjudicated), PG47's 29 worked histories compared step by step with the tables' paths (12 / 12 reached agree), 3,796 written rule contracts placed |
 | Status | `PASS_PG_WRITTEN_REPLAY_CANDIDATE` |
-| Canonical result SHA-256 | `5c442eb57d7ffab4e17fe6f537f4875fb883dfa8af6687334e06066af5236bea` |
+| Canonical result SHA-256 | `8e5403e277a135d47e5ae28325d8750e415f8ab3f3cf1e079c1b5222b942b952` |
 | Boundary | PG19's loṭ / vidhiliṅ register expanded from its own constructors to exactly 976 positions, 542 replayed by the verbal table, 541 agree, 1 adjudicated by 8.4.1 / 8.4.2 (kārayāṇi), 200 on six undeclared roots, 234 causal-passive outside the tables; PG47's 29 histories: 11 reached, 12 / 12 step-sequence comparisons agree (the history's rule order a subsequence of the table's path, its blocked rules absent, its witness the table's word), 18 placed out of scope with reasons; 3,796 written contracts all in the pinned edition with its text; 3,849 cited sūtras placed: 308 rows, 250 ledger, 3,291 neither — PROVED (exact, finite); the contracts' content, PG20–PG46's positions, which reading is right beyond the adjudicated cell NOT CLAIMED |
 
 ```text
@@ -1913,7 +1913,7 @@ proof_lab/PG_WRITTEN_REPLAY_EXPECTED.sha256
 |---|---|
 | Certificate class | the written modal registers replayed — PG20's āśīrliṅ, PG21's nasal-class and PG22's athematic loṭ / vidhiliṅ expanded from the packets' own constructors: 1,026 positions, 693 replayed, 693 agree, 0 to adjudicate; 85 cells the other branch of a named option; the one mixed-branch row named (kṣiṇ, 3.1.79) |
 | Status | `PASS_PG_MODAL_REGISTERS_CANDIDATE` |
-| Canonical result SHA-256 | `454add965bfec760db9947c23e8df17ff9a566e748a5e77817582fc610f992fe` |
+| Canonical result SHA-256 | `b5a5f110fec7eb176a22877588490cda1d222feea4f5ef3d7c4531ce3757d6d1` |
 | Boundary | PG20 §P2 (24 rows, B_P / B_A), PG21 §P2 (27 rows, U / A / O constructors with the S4 / S5 interfaces) and PG22 §P1–P2 (18 explicit loṭ tuples, 18 vidhiliṅ factor rows) expanded from the written files to 1,026 positions; 693 on declared roots replayed by the verbal table, 693 agree, 0 to adjudicate; 85 cells the other branch of 3.1.82 / 3.1.79 / 8.4.65 (quoted); of 8 branch rows 6 uniform, 2 mixed (kṣiṇ loṭ: guṇa in the strong cells only — the kṣiṇoti / kṣeṇoti item, named, not decided); 333 positions on 15 undeclared roots, the causal / karmaṇi / bhāve āśīrliṅ and the tātaṅ forms (no 7.1.35 row) placed outside the table — PROVED (exact, finite); which reading is right where they differ NOT CLAIMED |
 
 ```text
@@ -1929,7 +1929,7 @@ proof_lab/PG_MODAL_REGISTERS_EXPECTED.sha256
 |---|---|
 | Certificate class | the written modal registers replayed II — PG23's lexical and PG25's abhyasta loṭ / vidhiliṅ, PG31's lṛṅ and PG32's luṅ and māṅ registers: 999 positions, 702 replayed, 692 agree, 10 adjudicated against the table (śās: 6.4.35 missing, 6.4.34 / 8.3.60 not reaching the yāsuṭ cells) |
 | Status | `PASS_PG_MODAL_REGISTERS_II_CANDIDATE` |
-| Canonical result SHA-256 | `97083eebd5f8d3e7d2b7c7bb9f078a027d3f6e899492acaef233981a5293ba46` |
+| Canonical result SHA-256 | `97b52d46ce2915d894f52b985ad2a2a2b64070b006a3982988d0f40f8df5df64` |
 | Boundary | PG23 §P1–P2, PG25 §P1–P3, PG31 §P1–P2 and PG32 §P1–P3 read from the written files: 999 positions, 702 replayed by the verbal table (54 māṅ cells under 6.4.74 by withholding the augment rows 6.4.71 / 6.4.72), 692 agree; 10 cells adjudicated to the written form by 6.4.34 / 6.4.35 / 8.3.60 (quoted) — three row defects of the verbal table on śās, named for correction; 35 cells the other branch of 7.2.44 / 6.4.115 / 6.4.116; 297 positions on 14 undeclared roots, 189 causal lṛṅ and the tāt words placed outside the table — PROVED (exact, finite); the correction itself and which reading is right elsewhere NOT CLAIMED |
 
 ```text
@@ -1945,7 +1945,7 @@ proof_lab/PG_MODAL_REGISTERS_II_EXPECTED.sha256
 |---|---|
 | Certificate class | tiṅ rule-table engine XXI — the verbal table corrected on śās from the written line's register: 6.4.35 śā hau added, 6.4.34 reaching the ṅit yāsuṭ, 8.3.60 before any following sound; six Kāśikā witness cells in the suite; 914 / 914, every lane unchanged, theorem 157's ten cells now 702 / 702 |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | the three row defects theorem 157 adjudicated (śiḍḍhi for śādhi; śāsyāt / śisyātām for śiṣyāt) corrected by the quoted sūtras 6.4.35, 6.4.34, 8.3.60; six witness cells of PG23's register (loṭ śādhi / śiṣṭām / śiṣṭa, liṅ śiṣyāt / śiṣyuḥ / śiṣyām) in the suite as a declared oracle; 914 / 914 cells, every lane unchanged, kṛt / kṛdanta pins unchanged; the table, the ISA, theorems 155 and 157 re-pinned (old pins in their capsules); 6.4.35 declared surface-coincident with 8.2.25 on this table, the apavāda carried by 6.4.34's guard — PROVED (exact, finite); vas / ghas under 8.3.60 NOT CLAIMED |
 
 ```text
@@ -1977,11 +1977,27 @@ proof_lab/PG_MODAL_REGISTERS_III_EXPECTED.sha256
 |---|---|
 | Certificate class | tiṅ rule-table engine XXII — twenty roots of the written line declared in the verbal table: 1,006 suite cells (108 the written line's own), two rows added (7.2.59, 7.4.10), 3.1.36 and 3.1.55 extended, the five lanes rebuilt on vidyut (open 5,997 / 5,997, ārdhadhātuka 12,424 / 12,485, karmaṇi 7,632 / 7,668, ṇic 15,264 / 15,336, san 10,764 / 10,944); the replays re-pinned: 2,573 written positions on the new roots, 2,569 agree |
 | Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
-| Canonical result SHA-256 | `301d276c6e4c77cd23d6d4c7807580d3e0c49bd861291c1a342e3ef405cb4696` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
 | Boundary | hṛ, budh, kṛṣ, vand, mud, īkṣ, īh, vṛt, vṛdh, śṛdh, syand, svṛ, nṛt, chid, yuj, śiṣ, piṣ, und, bhuj, indh declared from the Dhātupāṭha; 108 cells the written line writes for them in the suite (set-valued where it writes two readings); 7.2.59 na vṛdbhyaś caturbhyaḥ and 7.4.10 ṛtaś ca saṁyogāder guṇaḥ as rows, 3.1.36's ijādi-gurumat list and 3.1.55's dyutādi extended; the open-lane builder restored and the five lanes rebuilt with every earlier cell unchanged, the new roots' 5,158 lane cells all agreeing with vidyut; theorems 150, 154–157 re-pinned (old pins in their capsules) — PROVED (exact, finite; the lanes a declared oracle); the 26 roots still undeclared and the kṛt / kṛdanta lanes on the new roots NOT CLAIMED |
 
 ```text
 theorum/160_ting_rule_table_engine_written_roots_theorem.md
+proof_lab/ting_rule_table_engine.py
+proof_lab/test_ting_rule_table_engine.py
+proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256
+```
+
+## Theorem 161 tiṅ rule-table engine XXIII — five roots of the written line that needed rows the table lacked (sthā, pā, kṛp, iṣ, tṛh): 7.3.78, 7.3.92, 8.2.18, 7.2.60, 7.3.37 added, 7.3.77 and 6.4.66 / 6.4.67 extended; 1,038 / 1,038 suite cells, the new roots' 1,217 lane cells all agree; the kṛt and kṛdanta lanes rebuilt on the forty-five new roots; the nominal table's idam rows restricted to the pronoun packet
+
+| Field | Value |
+|---|---|
+| Certificate class | tiṅ rule-table engine XXIII — five roots of the written line that needed rows the table lacked (sthā, pā, kṛp, iṣ, tṛh): 7.3.78, 7.3.92, 8.2.18, 7.2.60, 7.3.37 added, 7.3.77 and 6.4.66 / 6.4.67 extended; 1,038 / 1,038 suite cells, the new roots' 1,217 lane cells all agree; the kṛt and kṛdanta lanes rebuilt on the forty-five new roots; the nominal table's idam rows restricted to the pronoun |
+| Status | `PASS_TING_RULE_TABLE_ENGINE_CANDIDATE` |
+| Canonical result SHA-256 | `9a9cbbff51ff8552f943062d234c9b8a59a11d2ac3c3ba3ed2684b7416142eac` |
+| Boundary | sthā, pā (pibati), kṛp, iṣ (icchati), tṛh declared with the rows they need by the quoted sūtras — 7.3.78 piba / tiṣṭha, 7.3.37 yuk, 6.4.66 / 6.4.67 reaching the class-1 pā, 8.2.18 kṛpo ro laḥ (before 8.4.2), 7.2.60 tāsi ca kḷpaḥ, 7.3.77 extended to iṣ, 7.3.92 tṛṇaha im; the written line's cells in the suite, 1,038 / 1,038, every new row load-bearing; the five verbal lanes rebuilt (the new roots' 1,217 cells all agree), the kṛt lane 1,977 / 1,985 and the kṛdanta lane 56,870 / 58,036 on the forty-five new roots (the kṛt table gains 8.2.18 and pā in 6.4.66); the nominal table's idam rows restricted to the pronoun (iddhaḥ, not dhaḥ; idam unchanged); the ISA, kṛt, kṛdanta and theorems 154–157 re-pinned — PROVED (exact, finite; the lanes a declared oracle); syand's ktvā and the 23 undeclared roots NOT CLAIMED |
+
+```text
+theorum/161_ting_rule_table_engine_rows_for_written_roots_theorem.md
 proof_lab/ting_rule_table_engine.py
 proof_lab/test_ting_rule_table_engine.py
 proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256

@@ -64,7 +64,7 @@ O_A = ["īta", "īyātām", "īran", "īthāḥ", "īyāthām", "īdhvam", "īya
 
 # the written roots → the verbal table's keys (None: the table does not declare the root; a dict: by pada)
 KEYS = {"bhū": "bhū", "pac": "pac", "edh": "edh", "labh": "labh", "tud": "tud", "nī": "nī", "gam": "gam", "śam": "śam", "kṛ": "kṛ", "krī": "krī", "dā": "dā",
-        "vac": "vac2", "jāgṛ": "jāgṛ2", "hṛ": "hṛ", "budh": "budh", "kṛṣ": "kṛṣ", "sthā": None, "pā": None, "vid": None,   # hṛ, budh, kṛṣ declared by theorum/160
+        "vac": "vac2", "jāgṛ": "jāgṛ2", "hṛ": "hṛ", "budh": "budh", "kṛṣ": "kṛṣ", "sthā": "sthā", "pā": "pā1", "vid": None,   # hṛ, budh, kṛṣ declared by theorum/160; sthā, pā by theorum/161
         "su": "su", "ci": "ci", "āp": "āp", "śak": "śak", "śru": "śru", "tan": "tan", "pū": "pū", "lū": "lū", "sku": {"P": "sku9", "A": "sku9A"}, "kṣiṇ": "kṣiṇ8",
         "stambh": None, "stumbh": None, "skambh": None, "skumbh": None, "ṛṇ": None, "tṛṇ": None, "ghṛṇ": None,
         "ad": "ad", "as": "as", "hu": "hu", "dhā": "dhā", "rudh": "rudh", "bhid": "bhid", "hiṃs": "hiṁs", "chid": "chid", "yuj": "yuj", "śiṣ": "śiṣ", "piṣ": "piṣ"}   # chid, yuj, śiṣ, piṣ declared by theorum/160

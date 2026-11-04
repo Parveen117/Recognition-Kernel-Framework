@@ -10,12 +10,12 @@
   ],
   "counts": {
     "compiled": 10,
-    "meta": 179,
-    "hand_coded": 439,
-    "cited": 405,
+    "meta": 180,
+    "hand_coded": 443,
+    "cited": 404,
     "misnumbered": 2,
-    "entries": 1035,
-    "text_missing": 91,
+    "entries": 1039,
+    "text_missing": 90,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
     "iast_mismatch_with_pinned_edition": 0
@@ -1924,6 +1924,20 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/142_panini_kernel_theorem.md",
         "theorum/160_ting_rule_table_engine_written_roots_theorem.md"
+      ]
+    },
+    "1.3.93": {
+      "text": "luṭi ca kḷpaḥ",
+      "text_devanagari": "लुटि च कॢपः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T161"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/142_panini_kernel_theorem.md"
       ]
     },
     "1.4.2": {
@@ -8675,6 +8689,7 @@
         "theorum/142_panini_kernel_theorem.md",
         "theorum/149_ting_rule_table_engine_san_theorem.md",
         "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md",
+        "theorum/161_ting_rule_table_engine_rows_for_written_roots_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md",
@@ -10288,7 +10303,9 @@
         "theorum/110_passive_yak_compiled_theorem.md",
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
         "theorum/147_ting_rule_table_engine_karmani_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
+        "theorum/161_ting_rule_table_engine_rows_for_written_roots_theorem.md",
         "theorum/66_lat_atmanepada_theorem.md"
       ]
     },
@@ -10306,7 +10323,9 @@
         "proof_lab/asirlin_parasmaipada_compiled.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
-        "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md"
+        "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/161_ting_rule_table_engine_rows_for_written_roots_theorem.md"
       ]
     },
     "6.4.71": {
@@ -11382,7 +11401,9 @@
         "theorum/125_sup_rule_table_engine_theorem.md",
         "theorum/128_sup_rule_table_engine_pronouns_theorem.md",
         "theorum/142_panini_kernel_theorem.md",
+        "theorum/153_krdanta_declension_theorem.md",
         "theorum/155_written_construction_replay_ii_theorem.md",
+        "theorum/161_ting_rule_table_engine_rows_for_written_roots_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/93_napumsaka_sup_compiled_theorem.md",
         "theorum/94_sarvanama_sup_compiled_theorem.md",
@@ -12638,6 +12659,22 @@
         "theorum/160_ting_rule_table_engine_written_roots_theorem.md"
       ]
     },
+    "7.2.60": {
+      "text": "tāsi ca kḷpaḥ",
+      "text_devanagari": "तासि च कॢपः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T161"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/142_panini_kernel_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/161_ting_rule_table_engine_rows_for_written_roots_theorem.md"
+      ]
+    },
     "7.2.61": {
       "text": "acas tāsvat thaly aniṭo nityam",
       "text_devanagari": "अचस्तास्वत् थल्यनिटो नित्यम्",
@@ -13233,7 +13270,9 @@
       ],
       "cited_in": [
         "proof_lab/sup_rule_table_engine.py",
-        "theorum/128_sup_rule_table_engine_pronouns_theorem.md"
+        "theorum/128_sup_rule_table_engine_pronouns_theorem.md",
+        "theorum/153_krdanta_declension_theorem.md",
+        "theorum/161_ting_rule_table_engine_rows_for_written_roots_theorem.md"
       ]
     },
     "7.2.110": {
@@ -13275,7 +13314,9 @@
       ],
       "cited_in": [
         "proof_lab/sup_rule_table_engine.py",
-        "theorum/128_sup_rule_table_engine_pronouns_theorem.md"
+        "theorum/128_sup_rule_table_engine_pronouns_theorem.md",
+        "theorum/153_krdanta_declension_theorem.md",
+        "theorum/161_ting_rule_table_engine_rows_for_written_roots_theorem.md"
       ]
     },
     "7.2.113": {
@@ -13289,7 +13330,9 @@
       ],
       "cited_in": [
         "proof_lab/sup_rule_table_engine.py",
-        "theorum/128_sup_rule_table_engine_pronouns_theorem.md"
+        "theorum/128_sup_rule_table_engine_pronouns_theorem.md",
+        "theorum/153_krdanta_declension_theorem.md",
+        "theorum/161_ting_rule_table_engine_rows_for_written_roots_theorem.md"
       ]
     },
     "7.2.114": {
@@ -13528,7 +13571,8 @@
         "proof_lab/nic_causative_compiled.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/105_nic_causative_compiled_theorem.md",
-        "theorum/148_ting_rule_table_engine_nic_theorem.md"
+        "theorum/148_ting_rule_table_engine_nic_theorem.md",
+        "theorum/161_ting_rule_table_engine_rows_for_written_roots_theorem.md"
       ]
     },
     "7.3.37": {
@@ -13538,13 +13582,17 @@
       "iast_matches_pinned_edition": true,
       "level": "hand_coded",
       "theorems": [
-        "T105"
+        "T105",
+        "T161"
       ],
       "cited_in": [
         "proof_lab/nic_causative_compiled.py",
         "proof_lab/ting_rule_table_engine.py",
         "theorum/105_nic_causative_compiled_theorem.md",
-        "theorum/148_ting_rule_table_engine_nic_theorem.md"
+        "theorum/142_panini_kernel_theorem.md",
+        "theorum/148_ting_rule_table_engine_nic_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/161_ting_rule_table_engine_rows_for_written_roots_theorem.md"
       ]
     },
     "7.3.43": {
@@ -13781,6 +13829,8 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/130_ting_rule_table_engine_ardhadhatuka_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/161_ting_rule_table_engine_rows_for_written_roots_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/60_seam_compensated_confluence_verdict_theorem.md",
         "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
@@ -13788,6 +13838,22 @@
         "theorum/64_ting_lat_parasmaipada_theorem.md",
         "theorum/80_paninian_instruction_format_theorem.md",
         "theorum/95_lan_parasmaipada_compiled_theorem.md"
+      ]
+    },
+    "7.3.78": {
+      "text": "pāghrādhmāsthāmnādāṇdṛśyarttisarttiśadasadāṁ pibajighradhamatiṣṭhamanayacchapaśyarcchadhauśīyasīdāḥ",
+      "text_devanagari": "पाघ्राध्मास्थाम्नादाण्दृश्यर्त्तिसर्त्तिशदसदां पिबजिघ्रधमतिष्ठमनयच्छपश्यर्च्छधौशीयसीदाः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T161"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/142_panini_kernel_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/161_ting_rule_table_engine_rows_for_written_roots_theorem.md"
       ]
     },
     "7.3.79": {
@@ -13961,7 +14027,8 @@
         "theorum/148_ting_rule_table_engine_nic_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
         "theorum/154_written_construction_replay_theorem.md",
-        "theorum/156_written_modal_registers_replay_theorem.md"
+        "theorum/156_written_modal_registers_replay_theorem.md",
+        "theorum/161_ting_rule_table_engine_rows_for_written_roots_theorem.md"
       ]
     },
     "7.3.87": {
@@ -14047,14 +14114,20 @@
       ]
     },
     "7.3.92": {
-      "text": "",
+      "text": "tṛṇaha im",
       "text_devanagari": "तृणह इम्",
       "in_pinned_edition": true,
-      "iast_matches_pinned_edition": null,
-      "level": "cited",
-      "theorems": [],
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T161"
+      ],
       "cited_in": [
-        "theorum/154_written_construction_replay_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/142_panini_kernel_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/154_written_construction_replay_theorem.md",
+        "theorum/161_ting_rule_table_engine_rows_for_written_roots_theorem.md"
       ]
     },
     "7.3.93": {
@@ -15425,6 +15498,24 @@
         "theorum/119_samasa_construction_ii_uttarapada_aluk_samasanta_theorem.md"
       ]
     },
+    "8.2.18": {
+      "text": "kṛpo ro laḥ",
+      "text_devanagari": "कृपो रो लः",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T161"
+      ],
+      "cited_in": [
+        "proof_lab/krt_rule_table_engine.py",
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/142_panini_kernel_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/151_krt_rule_table_engine_theorem.md",
+        "theorum/161_ting_rule_table_engine_rows_for_written_roots_theorem.md"
+      ]
+    },
     "8.2.23": {
       "text": "saṁyogāntasya lopaḥ",
       "text_devanagari": "संयोगान्तस्य लोपः",
@@ -16759,6 +16850,7 @@
         "theorum/153_krdanta_declension_theorem.md",
         "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/160_ting_rule_table_engine_written_roots_theorem.md",
+        "theorum/161_ting_rule_table_engine_rows_for_written_roots_theorem.md",
         "theorum/63_sup_vibhakti_resolver_ladder_theorem.md",
         "theorum/78_shaiva_sources_maheshvara_spanda_pratyabhijna_theorem.md",
         "theorum/85_nirukta_nama_akhyatajani_theorem.md",

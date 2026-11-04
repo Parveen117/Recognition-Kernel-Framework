@@ -68,7 +68,8 @@ CONSTRUCTOR_ENDINGS = {
 # the register's stems are written without the thematic a; the written line's own convention (PARADIGMS.md §P1)
 ROOT_KEY = {"bhū": "bhū", "pac": "pac", "edh": "edh", "labh": "labh", "tud": "tud", "nī": "nī", "gam": "gam", "śam": "śam", "kṛ": "kṛ", "krī": "krī", "dā": "dā",
             "hṛ": "hṛ", "budh": "budh", "kṛṣ": "kṛṣ",   # declared by theorum/160
-            "sthā": None, "pā": None, "vid": None}   # None: the verbal table does not declare the root (PG19's domain, D5)
+            "sthā": "sthā", "pā": "pā1",   # declared by theorum/161
+            "vid": None}   # None: the verbal table does not declare the root (PG19's domain, D5)
 LAK = {"loṭ": "loṭ", "vidhiliṅ": "liṅ"}
 SOURCES = {   # quoted from the pinned edition (research/panini_grammar/SUTRAPATHA.tsv), as the ledger writes them
     "8.4.1": "raṣābhyāṁ no ṇaḥ samānapade", "8.4.2": "aṭkupvāṅnumvyavāye 'pi",

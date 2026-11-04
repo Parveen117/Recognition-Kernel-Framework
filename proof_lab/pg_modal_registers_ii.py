@@ -43,7 +43,8 @@ KEYS = {"han": "han2", "śās": "śās2", "rud": "rud2", "svap": "svap2", "śvas
         "vij": {"P": "vij3", "A": "vij3A"}, "viṣ": {"P": "viṣ3", "A": "viṣ3A"}, "jāgṛ": "jāgṛ2", "daridrā": "daridrā2", "cakās": "cakās2", "ṛ": None,
         "bhū": "bhū", "gam": "gam", "nī": "nī", "kṛ": "kṛ", "pac": "pac", "labh": "labh", "edh": "edh", "dhūñ": {"P": "dhū5", "A": "dhū5A"},
         "hṛ": "hṛ", "svṛ": "svṛ", "nṛt": "nṛt", "vṛt": "vṛt", "vṛdh": "vṛdh", "śṛdh": "śṛdh", "syand": "syand", "budh": "budh", "kṛṣ": "kṛṣ", "vand": "vand", "mud": "mud", "īkṣ": "īkṣ", "īh": "īh",   # declared by theorum/160
-        "iṣ": None, "kṛp": None, "sthā": None, "dā": "dā", "pā": None, "vid": None}
+        "iṣ": "iṣ6", "kṛp": "kṛp", "sthā": "sthā", "pā": "pā1",   # declared by theorum/161
+        "dā": "dā", "vid": None}
 OPTIONS = {"bhī": "6.4.115 bhiyo 'nyatarasyām (bibhitām / bibhītām)", "hāk": "6.4.116 jahāteś ca (jahitām / jahītām; 6.4.117 ā ca hau: jahāhi / jahihi / jahīhi)",
            "dhūñ": "7.2.44 svaratisūtisūyatidhūñūdito vā (adhoṣyat / adhaviṣyat)", "nṛt": "7.2.57 se 'sici kṛtacṛtacchṛdatṛdanṛtaḥ (anartsyat / anartiṣyat)",
            "syand": "7.2.44 (ūdit: asyantsyata / asyandiṣyata)", "kṛp": "7.2.44 (ūdit: akalpsyata / akalpiṣyata)", "īh": "8.3.79 vibhāṣeṭaḥ (aihidhvam / aihiḍhvam)"}

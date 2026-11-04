@@ -56,3 +56,5 @@ EIGHT KṚT AFFIXES ON 193 ROOTS: 1,537 / 1,544 FROM THE 72 ROWS OF §1; EVERY R
 THE AṄGA ROWS SHARED WITH THE VERBAL TABLE (THE ONE SŪTRA WRITTEN TWICE; TO BE FOLDED)                                        DECLARED (the kernel lists them)
 daridrā, śvasta, mṛditvā / mṛḍitvā; śatṛ / śānac, lyuṭ, ghañ, ṇini, kvip, THE DECLENSION OF THE KṚDANTA, ACCENT; RH, YM        NOT CLAIMED / UNTOUCHED
 ```
+
+*Note (theorum/161).* The kṛt table is re-pinned by theorum/161 (`6960478f…`): its lane rebuilt on the roots theorums 160–161 declared (1,985 cells, 1,977 agree — the old residue of 7 and syand's ktvā), 8.2.18 *kṛpo ro laḥ* added as a row (kḷpta, kalpanīya) and 6.4.66 reaching the class-1 pā (pīta). The pin `f6ec030c…` holds at commit fe99fa9.

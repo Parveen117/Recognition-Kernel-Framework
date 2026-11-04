@@ -60,3 +60,5 @@ THE REPLAYS RE-PINNED: 2,573 WRITTEN POSITIONS ON THE NEW ROOTS, 2,569 AGREE, 4 
 THE 26 ROOTS STILL UNDECLARED (vid, cakṣ, ṛ, tṛh, añj, sthā, pā, kṛp, iṣ, the class-2 nij-group, ṛṇu / tṛṇu / ghṛṇu, stambh-group …); THE KṚT / KṚDANTA LANES ON THE NEW ROOTS   NOT CLAIMED (theorem 161)
 RH, YM                                                                                                                                                                       UNTOUCHED
 ```
+
+*Note (theorum/161).* The verbal table is re-pinned again by theorum/161 (`9a9cbbff…`: sthā, pā, kṛp, iṣ, tṛh with their rows; the lanes rebuilt once more), the kernel by `ae5d0197…`; this theorem's pins `301d276c…` and `2ede883c…` hold at commit fe99fa9.
