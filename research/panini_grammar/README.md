@@ -961,6 +961,26 @@ closes PG49's Nyāsa verification limit and names the next qualified
 records the new T156 report separately. Grammar tests, generators, replay and
 navigation/operator suites remain deferred.
 
+**Addressed ष्यङ् and the actual compound node:**
+
+[PG51](shyan_compound_histories/README.md) constructs **कौमुदगन्धीपुत्रः and
+कौमुदगन्धीपतिः**, each in twelve stages from its supplied feminine stem.
+The ष्यङ्-owned य्→इ, internal vowel coalescence and first-member lengthening
+remain distinct events. Two nested histories distinguish a completed
+[कारीषगन्ध्या + पुत्र] followed by कुल from a first member followed by
+[पुत्र + कुल]. Eight controls give **twelve written units**.
+
+[Domain/native continuation](shyan_compound_histories/DOMAIN_AND_NATIVE.md) proves the bounded
+leaf-order obstruction and typed zero-reading compatibility. [Source notes](shyan_compound_histories/SOURCE_NOTES.md)
+and [archive](shyan_compound_histories/SOURCE_EXCERPTS.json) preserve **103 literal fields**;
+five primary files are directly rehashed. [Coverage](shyan_compound_histories/COVERAGE.json) keeps
+both **3,983-ID sets** and **11,552 positions**, with zero new ID/position credit.
+[Concurrent review](shyan_compound_histories/CONCURRENT_REVIEW.md) records T157–T159 reports and the
+śās correction, the written-versus-engine event-order distinction and the
+omitted śiṣṭāt word count. [Work/continuation](shyan_compound_histories/WORK_RECORD.md) targets
+principal/subordinate feminine-host constructions next. Grammar tests,
+generators, replay and navigation/operator suites remain deferred.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

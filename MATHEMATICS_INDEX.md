@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG50 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG51 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG50 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG51 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,26 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG51: addressed ष्यङ् and the actual compound node
+
+[PG51](research/panini_grammar/shyan_compound_histories/README.md) constructs **कौमुदगन्धीपुत्रः and
+कौमुदगन्धीपतिः**, each in twelve stages from its supplied feminine stem.
+The ष्यङ्-owned य्→इ, internal vowel coalescence and first-member lengthening
+remain distinct events. Two nested histories distinguish a completed
+[कारीषगन्ध्या + पुत्र] followed by कुल from a first member followed by
+[पुत्र + कुल]. Eight controls give **twelve written units**.
+
+[Domain/native continuation](research/panini_grammar/shyan_compound_histories/DOMAIN_AND_NATIVE.md) proves the bounded
+leaf-order obstruction and typed zero-reading compatibility. [Source notes](research/panini_grammar/shyan_compound_histories/SOURCE_NOTES.md)
+and [archive](research/panini_grammar/shyan_compound_histories/SOURCE_EXCERPTS.json) preserve **103 literal fields**;
+five primary files are directly rehashed. [Coverage](research/panini_grammar/shyan_compound_histories/COVERAGE.json) keeps
+both **3,983-ID sets** and **11,552 positions**, with zero new ID/position credit.
+[Concurrent review](research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md) records T157–T159 reports and the
+śās correction, the written-versus-engine event-order distinction and the
+omitted śiṣṭāt word count. [Work/continuation](research/panini_grammar/shyan_compound_histories/WORK_RECORD.md) targets
+principal/subordinate feminine-host constructions next. Grammar tests,
+generators, replay and navigation/operator suites remain deferred.
 
 ## PG50: enabling deletion and fresh admission
 
