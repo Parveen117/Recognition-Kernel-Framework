@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG38 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG39 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG38 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG39 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,38 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG39: compound accent, retained cases and aṅga — 2,260 bounded IDs
+
+[PG39](research/panini_grammar/compound_accent_stems/README.md) adds
+**329 bounded written contracts** for **6.2.55–199, 6.3.1–139 and
+6.4.1–45**. Twenty-nine combined overlaps leave **300 new IDs**:
+**1,960 → 2,260/3,983**. Independent written reach is **1,642 → 1,954**,
+after 17 already-written overlaps. Finite positions remain **11,552**;
+new positions and counted readings are zero.
+
+[Domain](research/panini_grammar/compound_accent_stems/DOMAIN.md),
+[construction](research/panini_grammar/compound_accent_stems/CONSTRUCTION.md)
+and [register](research/panini_grammar/compound_accent_stems/RULE_REGISTER.json)
+retain accent owners and dependent choices, original सुप् and suffix history,
+feminine-member treatment, owned substitutions/augments and same-आश्रय
+visibility. [Native continuation](research/panini_grammar/compound_accent_stems/NATIVE_CONTINUATION.md)
+is an instance of the inherited finite-history construction with typed
+zero-reading; it changes no frozen theorem hypothesis or canonical engine.
+Its output is the bounded written relation, not a physical or universal
+AI-correctness result.
+
+[Source review](research/panini_grammar/compound_accent_stems/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/compound_accent_stems/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/compound_accent_stems/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/compound_accent_stems/COVERAGE.json)
+retain adopted policies, 1,047 literal fields and exact count layers.
+[Predecessor review](research/panini_grammar/compound_accent_stems/PREDECESSOR_REVIEW.md)
+checks PG38's 352 rows, 1,095 fields, 28 file identities and eight targeted
+semantic boundaries. [Handoff/work](research/panini_grammar/compound_accent_stems/HANDOFF_AND_WORK.md)
+records unchanged Claude T152, deferred grammar/navigation/operator suites
+and the sequential frontier at **6.4.46**. Complete realization and lexical
+normalization remain open.
 
 ## PG38: compound endings, sound and accent — 1,960 bounded IDs
 

@@ -645,6 +645,30 @@ records deferred tests/replay, unchanged Claude T152 and the next frontier
 at **6.2.55**. Complete word realization and all lexical extensions remain
 open; these contracts are not runtime-tested whole-rule implementations.
 
+**Next 300: compound accent, case retention and aṅga:**
+[PG39](compound_accent_stems/README.md) adds **329 written contracts**
+for **6.2.55–199, 6.3.1–139 and 6.4.1–45**. After 29 combined overlaps,
+**300 new IDs** take bounded reach **1,960 → 2,260/3,983**. Independent
+written reach is **1,642 → 1,954**, excluding 17 already-written IDs.
+Finite positions stay **11,552**, with zero new positions/readings.
+
+[Domain](compound_accent_stems/DOMAIN.md),
+[construction](compound_accent_stems/CONSTRUCTION.md) and
+[register](compound_accent_stems/RULE_REGISTER.json) preserve dependent
+accent choices, original case and suffix history, augment ownership and
+same-आश्रय visibility. [Native continuation](compound_accent_stems/NATIVE_CONTINUATION.md)
+instantiates the existing full-carrier construction and typed zero-reading.
+[Source review](compound_accent_stems/SOURCE_REVIEW.md),
+[archive](compound_accent_stems/SOURCE_EXCERPTS.json),
+[pins](compound_accent_stems/SOURCE_PINS.json) and
+[coverage](compound_accent_stems/COVERAGE.json) retain adopted policies,
+1,047 literal source fields and exact count layers.
+[Predecessor review](compound_accent_stems/PREDECESSOR_REVIEW.md) checks
+PG38's 352 rows, 1,095 fields, 28 file identities and eight targeted boundaries.
+[Handoff/work](compound_accent_stems/HANDOFF_AND_WORK.md) records unchanged
+Claude T152, deferred grammar/navigation/operator suites and the next
+frontier at **6.4.46**. Full word realization and lexical extensions remain open.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
