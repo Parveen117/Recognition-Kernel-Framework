@@ -829,6 +829,34 @@ records unchanged T152, deferred suites/replay and the next **135 independent-wr
 IDs beginning at 1.1.7**, adding zero combined IDs. Full realization and
 integration remain open.
 
+**Final 135: independent-written ID closure:**
+
+[PG46](independent_written_closure/README.md) writes the **135 remaining
+independent-written IDs**, all already combined. Combined and written
+membership now both equal **3,983/3,983**; new combined credit is **zero**.
+Both tracked gap lists are empty. Finite positions remain **11,552**, with
+zero new positions/readings. This closes the bounded written-ID pass;
+full semantic interpretation, realization and executable integration remain open.
+
+[Domain](independent_written_closure/DOMAIN.md),
+[construction](independent_written_closure/CONSTRUCTION.md) and
+[register](independent_written_closure/RULE_REGISTER.json) retain addressed
+instructions, designation origin, deletion cause, qualified competition and
+noncircular dependent operations. [Native continuation](independent_written_closure/NATIVE_CONTINUATION.md)
+retains the full carrier and typed zero-reading under unchanged assumptions.
+[Source review](independent_written_closure/SOURCE_REVIEW.md),
+[archive](independent_written_closure/SOURCE_EXCERPTS.json),
+[pins](independent_written_closure/SOURCE_PINS.json) and
+[coverage](independent_written_closure/COVERAGE.json) retain **902 literal
+fields**, 41 file pins and exact old/new membership accounting.
+[Predecessor review](independent_written_closure/PREDECESSOR_REVIEW.md)
+rechecks PG45's 207 rows, 975 literals and 41 pins with targeted rereadings.
+[Completion and frontier](independent_written_closure/COMPLETION_AND_FRONTIER.md)
+and [handoff/work](independent_written_closure/HANDOFF_AND_WORK.md) move the
+next stage to **written interaction and realization**, adding zero catalogue
+IDs. The companion remains T152; grammar tests, generators, replay and
+navigation/operator suites remain deferred.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

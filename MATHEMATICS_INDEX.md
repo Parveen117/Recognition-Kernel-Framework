@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG45 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG46 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG45 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG46 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,34 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG46: independent-written ID closure — both sets at 3,983
+
+[PG46](research/panini_grammar/independent_written_closure/README.md) writes the **135 remaining
+independent-written IDs**, all already combined. Combined and written
+membership now both equal **3,983/3,983**; new combined credit is **zero**.
+Both tracked gap lists are empty. Finite positions remain **11,552**, with
+zero new positions/readings. This closes the bounded written-ID pass;
+full semantic interpretation, realization and executable integration remain open.
+
+[Domain](research/panini_grammar/independent_written_closure/DOMAIN.md),
+[construction](research/panini_grammar/independent_written_closure/CONSTRUCTION.md) and
+[register](research/panini_grammar/independent_written_closure/RULE_REGISTER.json) retain addressed
+instructions, designation origin, deletion cause, qualified competition and
+noncircular dependent operations. [Native continuation](research/panini_grammar/independent_written_closure/NATIVE_CONTINUATION.md)
+retains the full carrier and typed zero-reading under unchanged assumptions.
+[Source review](research/panini_grammar/independent_written_closure/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/independent_written_closure/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/independent_written_closure/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/independent_written_closure/COVERAGE.json) retain **902 literal
+fields**, 41 file pins and exact old/new membership accounting.
+[Predecessor review](research/panini_grammar/independent_written_closure/PREDECESSOR_REVIEW.md)
+rechecks PG45's 207 rows, 975 literals and 41 pins with targeted rereadings.
+[Completion and frontier](research/panini_grammar/independent_written_closure/COMPLETION_AND_FRONTIER.md)
+and [handoff/work](research/panini_grammar/independent_written_closure/HANDOFF_AND_WORK.md) move the
+next stage to **written interaction and realization**, adding zero catalogue
+IDs. The companion remains T152; grammar tests, generators, replay and
+navigation/operator suites remain deferred.
 
 ## PG45: combined catalogue closure — 3,983 bounded IDs
 
