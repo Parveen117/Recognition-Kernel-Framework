@@ -1033,6 +1033,24 @@ without new ID/position credit. T160 is unchanged. Changed-document checks use
 Python 3.12 only; grammar tests, generators, replay and navigation/operator suites
 remain deferred. The next separate source-policy history is हास्तिशीर्ष्य.
 
+**हस्तिन् construction and witnessed compound admission:**
+
+[PG55](hastin_compound_admission/README.md) constructs
+**हस्त → हस्तिन् → हस्तिशिरस्** and the admission contract for PG49's
+existing **हास्तिशीर्ष्या** histories. Two constructions, one admission contract
+and eight controls give **eleven written units**. Class use, traditional lexical
+identity, internal सुप-लुक, first-member न् and the later इञ् remain distinct.
+The old suffix histories are referenced without duplicate credit.
+[Native continuation](hastin_compound_admission/DOMAIN_AND_NATIVE.md) applies the
+inherited typed zero-reading proof; [sources](hastin_compound_admission/SOURCE_EXCERPTS.json)
+add **18 literal fields**. [State](hastin_compound_admission/STATE.json) retains
+both **3,983-ID sets / 11,552 positions**, with no new ID/position credit.
+[T161 review](hastin_compound_admission/COMPANION_REVIEW.md) records the new
+companion cutoff, the inspected nominal class guard and remaining evidence limits.
+Changed-document checks use Python 3.12 only; tests, generators, replay and
+navigation/operator suites remain deferred. Next: the 4.1.78 competing feminine
+suffix/marker and accent argument.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

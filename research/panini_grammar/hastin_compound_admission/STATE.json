@@ -1,0 +1,365 @@
+{
+  "schema": "rkf.panini.pg55.state.v1",
+  "author": "Monty",
+  "date": "2026-11-04",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "bf8ab5edafbcad3ab3c92012648b6bfa161327dc",
+    "path": "research/panini_grammar/udamegha_apatya_histories/STATE.json",
+    "reading_scope": "COUNTS_AND_ID_REFERENCES_INHERITED_WITHOUT_FULL_AUDIT",
+    "bytes": 10234,
+    "sha256": "f06ee3aa5d51c850ecb0be3485f5e33b5c5a6d796722a6460e354bb416b76851",
+    "git_blob_sha": "742640217777e764f5d27e2dac8a49bc4437976b"
+  },
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "finite_positions": 11552,
+  "new_catalogue_ids": [],
+  "new_positions": 0,
+  "new_paradigm_readings": 0,
+  "written_units": 11,
+  "block_counts": {
+    "H": 2,
+    "A": 1,
+    "C": 8
+  },
+  "stage_record_counts": {
+    "L": 4,
+    "Q": 5,
+    "G": 5
+  },
+  "stage_count_is_new_rule_count": false,
+  "reused_continuations": [
+    {
+      "call": "G4",
+      "commit": "bf8ab5edafbcad3ab3c92012648b6bfa161327dc",
+      "file": "research/panini_grammar/siras_dependency_history/DERIVATIONS.md",
+      "stages": "S1",
+      "new_suffix_history_credit": 0
+    },
+    {
+      "call": "G5",
+      "commit": "bf8ab5edafbcad3ab3c92012648b6bfa161327dc",
+      "file": "research/panini_grammar/siras_dependency_history/DERIVATIONS.md",
+      "stages": "S2-S5 followed by R1-R7 or A1-A7 under the selected policy",
+      "new_suffix_history_credit": 0
+    }
+  ],
+  "recounted_pg49_suffix_histories": 0,
+  "records": [
+    {
+      "id": "H01",
+      "title": "A class-qualified हस्तिन् stem",
+      "kind": "CONSTRUCTION_HISTORY",
+      "document": "research/panini_grammar/hastin_compound_admission/DERIVATIONS.md",
+      "line": 44,
+      "source_ids": [
+        "1.1.52",
+        "1.2.46",
+        "1.3.2",
+        "1.3.9",
+        "1.4.18",
+        "4.1.76",
+        "5.2.94",
+        "5.2.115",
+        "5.2.133",
+        "6.4.129",
+        "6.4.148"
+      ],
+      "stage_records": 4,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "H02",
+      "title": "The selected genitive compound and its first-member न्",
+      "kind": "CONSTRUCTION_HISTORY",
+      "document": "research/panini_grammar/hastin_compound_admission/DERIVATIONS.md",
+      "line": 58,
+      "source_ids": [
+        "1.1.62",
+        "1.1.63",
+        "1.2.43",
+        "1.2.46",
+        "1.4.14",
+        "2.1.1",
+        "2.2.8",
+        "2.2.30",
+        "2.4.71",
+        "8.2.2",
+        "8.2.7"
+      ],
+      "stage_records": 5,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "A01",
+      "title": "Admit the witnessed compound before reusing PG49",
+      "kind": "ADMISSION_CONTRACT",
+      "document": "research/panini_grammar/hastin_compound_admission/DERIVATIONS.md",
+      "line": 79,
+      "source_ids": [
+        "1.3.3",
+        "1.3.9",
+        "4.1.78",
+        "4.1.92",
+        "4.1.95",
+        "4.1.96",
+        "4.1.162",
+        "6.1.61",
+        "6.1.62",
+        "6.4.168"
+      ],
+      "stage_records": 5,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "C01",
+      "title": "Class designation is not a live possession sensor",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/hastin_compound_admission/DERIVATIONS.md",
+      "line": 102,
+      "source_ids": [
+        "5.2.94",
+        "5.2.115",
+        "5.2.133"
+      ],
+      "stage_records": null,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "C02",
+      "title": "Two इ-bearing suffixes and two vowel deletions",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/hastin_compound_admission/DERIVATIONS.md",
+      "line": 110,
+      "source_ids": [
+        "1.3.2",
+        "1.3.9",
+        "4.1.96",
+        "5.2.133",
+        "6.4.148"
+      ],
+      "stage_records": null,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "C03",
+      "title": "A compound reading does not infer its bearer",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/hastin_compound_admission/DERIVATIONS.md",
+      "line": 118,
+      "source_ids": [
+        "2.1.1",
+        "2.2.8",
+        "4.1.78",
+        "4.1.96",
+        "4.1.162"
+      ],
+      "stage_records": null,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "C04",
+      "title": "Whole सुप-लुक is not marker loss or universal erasure",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/hastin_compound_admission/DERIVATIONS.md",
+      "line": 126,
+      "source_ids": [
+        "1.1.62",
+        "1.1.63",
+        "1.4.14",
+        "2.4.71"
+      ],
+      "stage_records": null,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "C05",
+      "title": "First-member न् and replacement न् are different targets",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/hastin_compound_admission/DERIVATIONS.md",
+      "line": 134,
+      "source_ids": [
+        "6.1.61",
+        "6.4.168",
+        "8.2.7"
+      ],
+      "stage_records": null,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "C06",
+      "title": "The नलोप view is restricted by consumer",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/hastin_compound_admission/DERIVATIONS.md",
+      "line": 142,
+      "source_ids": [
+        "8.2.2",
+        "8.2.7"
+      ],
+      "stage_records": null,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "C07",
+      "title": "A lexical witness is stronger than a spelling match",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/hastin_compound_admission/DERIVATIONS.md",
+      "line": 151,
+      "source_ids": [
+        "4.1.96",
+        "6.1.61",
+        "6.1.62"
+      ],
+      "stage_records": null,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "C08",
+      "title": "Reuse the suffix paths without flattening their policies",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/hastin_compound_admission/DERIVATIONS.md",
+      "line": 164,
+      "source_ids": [
+        "1.1.57",
+        "4.1.78",
+        "6.1.61",
+        "6.1.62",
+        "6.4.148",
+        "6.4.168"
+      ],
+      "stage_records": null,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    }
+  ],
+  "referenced_existing_ids": [
+    "1.1.52",
+    "1.1.57",
+    "1.1.62",
+    "1.1.63",
+    "1.2.43",
+    "1.2.46",
+    "1.3.2",
+    "1.3.3",
+    "1.3.9",
+    "1.4.14",
+    "1.4.18",
+    "2.1.1",
+    "2.2.8",
+    "2.2.30",
+    "2.4.71",
+    "4.1.76",
+    "4.1.78",
+    "4.1.92",
+    "4.1.95",
+    "4.1.96",
+    "4.1.162",
+    "5.2.94",
+    "5.2.115",
+    "5.2.133",
+    "6.1.61",
+    "6.1.62",
+    "6.4.129",
+    "6.4.148",
+    "6.4.168",
+    "8.2.2",
+    "8.2.7"
+  ],
+  "new_literal_fields": 18,
+  "grammar_executions": 0,
+  "overall_grammar_completion_percent": null,
+  "resolved_previous_frontier": {
+    "constructed_prefix": "हस्त → हस्तिन् → हस्तिशिरस्",
+    "compound_policy": "SUPPLIED_GENITIVE_TATPURUSA_NOT_A_UNIQUE_QUOTED_PARSE",
+    "inherited_continuation": "हास्तिशीर्ष्या",
+    "source_qualified_in_admission": true,
+    "automatic_semantic_recognition": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "python_311_test_runs": 0,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED",
+    "certificate_replay": "DEFERRED",
+    "navigation_suite": "DEFERRED",
+    "operator_suite": "DEFERRED"
+  },
+  "companion": {
+    "head": "6469a927b8c75dcd7629a85e8ee84d96e0ebd2be",
+    "prior_head": "fe99fa94b79caeb5a00d218fafd6b78b1c51f488",
+    "commits_observed": 1,
+    "stage": "T161",
+    "review_scope": "CAPSULE_AND_SELECTED_GUARDS_DIFFS_ONLY",
+    "report_file": "COMPANION_REVIEW.md",
+    "reported_suite": {
+      "agree": 1038,
+      "total": 1038
+    },
+    "reported_new_root_lane": {
+      "agree": 1217,
+      "total": 1217
+    },
+    "reported_krt": {
+      "agree": 1977,
+      "total": 1985
+    },
+    "reported_krdanta": {
+      "agree": 56870,
+      "total": 58036
+    },
+    "new_nominal_class_guard_read": true,
+    "expected_set_membership_limit_remains": true,
+    "pg19_metadata_merge_limit_remains": true,
+    "execution_rerun": false,
+    "pg55_runtime_coverage_claimed": false
+  },
+  "next_work": {
+    "kind": "SHYAN_FEMININE_MARKER_COMPETITION_AND_ACCENT",
+    "needs": [
+      "Recognize nit before replacement for vrddhi",
+      "Qualified nip and nis competitors",
+      "Cap versus tap and the source accent argument",
+      "Distinguish proposed marker redesign from the standard prescription"
+    ],
+    "completed": false
+  },
+  "open_obligations": [
+    "Root/Unadi derivations of the supplied hasta and siras nouns.",
+    "Other compound analyses and general semantic/lexical/lineage admission.",
+    "Full accent and nominal paradigms.",
+    "Global source-policy arbitration and scheduling/confluence.",
+    "Separate Unadi corpus completion.",
+    "Runtime integration and deferred execution."
+  ]
+}
