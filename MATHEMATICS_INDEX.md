@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG58 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 5 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG60 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG58 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG60 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,25 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG60: register, pvādi profiles and the separate śṝñ admission
+
+[PG60](research/panini_grammar/register_pvadi_admission/README.md) resolves
+1090015's deferred admission with an independent Kṣīrataraṅgiṇī scan
+and **18 new P/A laṭ positions**. [Derivations](research/panini_grammar/register_pvadi_admission/DERIVATIONS.md)
+also supply **36 alternate readings at existing positions** under a
+named broad-pvādi policy, retaining PG12's narrow policy and the explicit
+jñā exception. Thirteen svādi IDs receive qualified register decisions.
+Eight construction groups, six controls and one admission extension make
+**fifteen written units**. [Native continuation](research/panini_grammar/register_pvadi_admission/DOMAIN_AND_NATIVE.md)
+constructs source, range and exception cuts with typed zero-specialization
+and pairing compatibility. [T164 handoff](research/panini_grammar/register_pvadi_admission/COMPANION_REVIEW.md)
+records an unchanged companion head and pending integration.
+[State](research/panini_grammar/register_pvadi_admission/STATE.json)
+retains both **3,983-ID sets**, with **11,570 written positions**.
+Python 3.12 document checks only; grammar tests, generators, replay and
+navigation/operator suites remain deferred. Next: hi and the svādi
+perfect/derived-stem residues with the qualified register gate.
 
 ## PG59: tanādi उ ownership, source policy and dependent branches
 

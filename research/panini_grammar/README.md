@@ -1126,6 +1126,25 @@ remain unchanged. Python 3.12 document checks only; grammar tests,
 generators, replay and navigation/operator suites remain deferred.
 Next: svādi/kryādi register and exact-entry admission after T164.
 
+**Register, pvādi profiles and the separate śṝñ admission:**
+
+[PG60](register_pvadi_admission/README.md) supplies **fifteen written
+units**, resolves 1090015 using an independent Kṣīrataraṅgiṇī scan,
+and adds **18 P/A laṭ positions**. [Derivations](register_pvadi_admission/DERIVATIONS.md)
+also construct **36 broad-pvādi readings at existing positions**, while
+preserving PG12's narrow profile, the jñā exception and thirteen explicit
+svādi register dispositions. [Native continuation](register_pvadi_admission/DOMAIN_AND_NATIVE.md)
+proves typed zero-specialization for the source/range/exception cuts.
+[T164 handoff](register_pvadi_admission/COMPANION_REVIEW.md) records the
+unchanged companion head and the exact admission/guard work still needed.
+[Archive](register_pvadi_admission/SOURCE_EXCERPTS.json),
+[scan](register_pvadi_admission/KSIRATARANGINI_P280.jpg),
+[pins](register_pvadi_admission/SOURCE_PINS.json) and
+[state](register_pvadi_admission/STATE.json) retain both **3,983-ID sets**
+and a total of **11,570 written positions**. Python 3.12 document checks
+only; grammar tests, generators, replay and navigation/operator suites
+remain deferred. Next: hi and the svādi perfect/derived-stem residues.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
