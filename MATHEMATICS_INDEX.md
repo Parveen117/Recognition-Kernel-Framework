@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG37 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG38 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG37 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG38 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,38 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG38: compound endings, sound and accent — 1,960 bounded IDs
+
+[PG38](research/panini_grammar/compound_sound_accent/README.md) adds
+**352 bounded written contracts** for **5.4.86–160, 6.1.1–223 and
+6.2.1–54**. Fifty combined overlaps leave **302 new IDs**:
+**1,658 → 1,960/3,983**. Independent written reach is **1,318 → 1,642**,
+after 28 already-written overlaps. Finite positions remain **11,552**;
+new positions and counted readings are zero.
+
+[Domain](research/panini_grammar/compound_sound_accent/DOMAIN.md),
+[construction](research/panini_grammar/compound_sound_accent/CONSTRUCTION.md)
+and [register](research/panini_grammar/compound_sound_accent/RULE_REGISTER.json)
+retain compound history, repeated-unit ownership, two-origin joint sound
+replacement, rule-relative visibility and accent ownership/priority.
+[Native continuation](research/panini_grammar/compound_sound_accent/NATIVE_CONTINUATION.md)
+instantiates the inherited full-carrier finite-event construction and typed
+zero-reading without changing the canonical operator engine or frozen theorem
+hypotheses. Its output is the declared written relation, not whole-language
+correctness or a physical quantum/AI result.
+
+[Source review](research/panini_grammar/compound_sound_accent/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/compound_sound_accent/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/compound_sound_accent/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/compound_sound_accent/COVERAGE.json)
+separate literal evidence, adopted readings and exact count layers.
+[Predecessor review](research/panini_grammar/compound_sound_accent/PREDECESSOR_REVIEW.md)
+checks PG37's 321 rows, 988 source fields, 29 file identities and eight
+semantic boundaries. [Handoff/work](research/panini_grammar/compound_sound_accent/HANDOFF_AND_WORK.md)
+records unchanged Claude T152, deferred grammar/navigation/operator suites
+and the sequential frontier at **6.2.55**. Complete realization and lexical
+extensions remain open.
 
 ## PG37: possession/adverbials, predecessor review and 1,658 bounded IDs
 

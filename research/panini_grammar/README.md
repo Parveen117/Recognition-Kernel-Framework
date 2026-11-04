@@ -621,6 +621,30 @@ addressed-history and compound-fibre propositions with typed zero-reading.
 [Handoff/work](possession_adverbials/HANDOFF_AND_WORK.md) records the
 implementation requirements and next frontier at **5.4.86**.
 
+**Next 300: compound endings, sound and accent:**
+[PG38](compound_sound_accent/README.md) adds **352 written contracts**
+for **5.4.86–160, 6.1.1–223 and 6.2.1–54**. After fifty combined overlaps,
+**302 new IDs** take bounded reach **1,658 → 1,960/3,983**. Independent
+written reach is **1,318 → 1,642**, excluding 28 already-written IDs.
+Finite positions stay **11,552**, with zero new positions/readings.
+
+[Domain](compound_sound_accent/DOMAIN.md),
+[construction](compound_sound_accent/CONSTRUCTION.md) and
+[register](compound_sound_accent/RULE_REGISTER.json) retain compound class,
+copy/augment ownership, two-source coalescence, earlier sound visibility,
+case identity and accent priority. [Native continuation](compound_sound_accent/NATIVE_CONTINUATION.md)
+instantiates the inherited full-carrier construction with typed zero-reading.
+[Source review](compound_sound_accent/SOURCE_REVIEW.md),
+[archive](compound_sound_accent/SOURCE_EXCERPTS.json),
+[pins](compound_sound_accent/SOURCE_PINS.json) and
+[coverage](compound_sound_accent/COVERAGE.json) distinguish literal evidence
+from adopted contracts and exact overlaps. [Predecessor review](compound_sound_accent/PREDECESSOR_REVIEW.md)
+checks PG37's 321 rows, 988 source fields, 29 file identities and eight
+selected semantic boundaries. [Handoff/work](compound_sound_accent/HANDOFF_AND_WORK.md)
+records deferred tests/replay, unchanged Claude T152 and the next frontier
+at **6.2.55**. Complete word realization and all lexical extensions remain
+open; these contracts are not runtime-tested whole-rule implementations.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
