@@ -1145,6 +1145,23 @@ and a total of **11,570 written positions**. Python 3.12 document checks
 only; grammar tests, generators, replay and navigation/operator suites
 remain deferred. Next: hi and the svādi perfect/derived-stem residues.
 
+**Owned reduplication and hi/ṛdh branches:** [PG61](hi_rdh_reduplication/README.md)
+adds **36 positions / 47 readings** in four qualified P paradigms:
+hi/ṛdh liṭ and desiderative laṭ. [Derivations](hi_rdh_reduplication/DERIVATIONS.md)
+keep root/copy ownership, thal iṭ, ṇal ṇit and both ṛdh san paths
+separate. Thirteen written units include yaṅ/ṇic-san/caṅ controls
+without extra position credit. [Native continuation](hi_rdh_reduplication/DOMAIN_AND_NATIVE.md)
+proves typed zero recovery and pairing compatibility on the retained
+history carrier. [T165 review](hi_rdh_reduplication/COMPANION_REVIEW.md)
+records the new engine work and PG60's conflicting śṝñ source profile.
+[Archive](hi_rdh_reduplication/SOURCE_EXCERPTS.json),
+[pins](hi_rdh_reduplication/SOURCE_PINS.json) and
+[state](hi_rdh_reduplication/STATE.json) retain both **3,983-ID sets**
+and **11,606 written positions**. Python 3.12 document checks only;
+grammar tests, generators, replay and navigation/operator suites stay
+deferred. Next: the ir/ur imperative source question and qualified
+ciri/jiri/ṛkṣi lexical/register residues.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

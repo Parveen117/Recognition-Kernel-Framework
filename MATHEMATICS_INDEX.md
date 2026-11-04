@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 5 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG60 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 5 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG61 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG60 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG61 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,25 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG61: owned reduplication and hi/ṛdh perfect/desiderative branches
+
+[PG61](research/panini_grammar/hi_rdh_reduplication/README.md) adds
+**36 qualified positions / 47 branch readings** for hi/ṛdh P liṭ and
+desiderative laṭ. [Derivations](research/panini_grammar/hi_rdh_reduplication/DERIVATIONS.md)
+separate root/copy h, thal iṭ, first-person ṇal ṇit, ṛ's r-component
+under nuṭ and the two ṛdh san constructions. Eight construction groups
+and five controls make **thirteen written units**. The yaṅ/ṇic-san/caṅ
+witnesses do not add positions. [Native continuation](research/panini_grammar/hi_rdh_reduplication/DOMAIN_AND_NATIVE.md)
+constructs addressed cuts and branch operators before typed
+zero-specialization, retaining pairing and distinct same-string histories.
+[T165 review](research/panini_grammar/hi_rdh_reduplication/COMPANION_REVIEW.md)
+records new engine paths and the unresolved conflict with PG60's short
+śṝñ source profile. [State](research/panini_grammar/hi_rdh_reduplication/STATE.json)
+retains both **3,983-ID sets**, with **11,606 written positions**.
+Python 3.12 changed-document checks only; grammar tests, generators,
+replay and navigation/operator suites remain deferred. Next: the
+source-qualified ir/ur imperative issue and lexical/register residues.
 
 ## PG60: register, pvādi profiles and the separate śṝñ admission
 

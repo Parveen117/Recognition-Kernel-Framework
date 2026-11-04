@@ -1,0 +1,917 @@
+{
+  "schema": "rkf.panini.pg61.state.v1",
+  "author": "Monty",
+  "date": "2026-11-05",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "fd17de15520dc7a115b87d27d05687455ee0b127",
+    "path": "research/panini_grammar/register_pvadi_admission/STATE.json",
+    "reading_scope": "COUNTS_AND_ID_SET_REFERENCES_INHERITED_WITHOUT_REAUDIT",
+    "bytes": 29403,
+    "sha256": "eff8b31bd7d3758827bfd01ac3307bd340efd9e55fcfe3ade0a5b8dca8b46449",
+    "git_blob_sha": "228d6c3b55b9e6384a5232675ce91ec41988c7b6"
+  },
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "finite_positions": 11606,
+  "new_catalogue_ids": [],
+  "new_positions": 36,
+  "new_written_table_readings": 47,
+  "new_position_readings": 47,
+  "alternate_readings_at_existing_positions": 0,
+  "written_units": 13,
+  "block_counts": {
+    "H": 8,
+    "C": 5
+  },
+  "stage_record_counts": {
+    "F": 6,
+    "S": 5,
+    "X": 4,
+    "V": 6,
+    "D": 7
+  },
+  "stage_count_is_new_rule_count": false,
+  "records": [
+    {
+      "id": "H01",
+      "title": "Two lexical entries and two different affix layers",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/hi_rdh_reduplication/DERIVATIONS.md",
+      "line": 19,
+      "source_ids": [
+        "1.3.2",
+        "1.3.3",
+        "1.3.9",
+        "1.3.62",
+        "1.3.78",
+        "3.1.7",
+        "3.1.32",
+        "3.1.68",
+        "3.2.115",
+        "3.4.115",
+        "7.4.72"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H02",
+      "title": "hi perfect: root kutva and abhyāsa palatalization",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/hi_rdh_reduplication/DERIVATIONS.md",
+      "line": 44,
+      "source_ids": [
+        "1.1.5",
+        "1.1.56",
+        "1.1.59",
+        "1.2.5",
+        "3.4.82",
+        "6.1.8",
+        "6.1.78",
+        "6.4.82",
+        "7.1.91",
+        "7.2.13",
+        "7.2.35",
+        "7.2.61",
+        "7.2.63",
+        "7.2.115",
+        "7.3.56",
+        "7.3.84",
+        "7.4.59",
+        "7.4.60",
+        "7.4.62",
+        "8.4.54"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H03",
+      "title": "hi san: jighīṣa belongs to the inner desiderative",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/hi_rdh_reduplication/DERIVATIONS.md",
+      "line": 73,
+      "source_ids": [
+        "1.1.5",
+        "1.2.9",
+        "3.1.7",
+        "3.1.32",
+        "3.1.68",
+        "6.1.9",
+        "6.4.16",
+        "7.2.10",
+        "7.3.56",
+        "7.4.55",
+        "7.4.58",
+        "7.4.59",
+        "7.4.62",
+        "7.4.79",
+        "8.3.59",
+        "8.4.54"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H04",
+      "title": "7.3.56 reaches more than liṭ and san, but excludes actual caṅ",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/hi_rdh_reduplication/DERIVATIONS.md",
+      "line": 90,
+      "source_ids": [
+        "3.1.7",
+        "3.1.22",
+        "3.1.26",
+        "3.1.48",
+        "6.1.11",
+        "7.2.35",
+        "7.2.115",
+        "7.3.56",
+        "7.3.84",
+        "7.4.1",
+        "7.4.25",
+        "7.4.82",
+        "7.4.93",
+        "7.4.94"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H05",
+      "title": "ṛdh perfect: 7.4.70 addresses the abhyāsa, not root-initial a",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/hi_rdh_reduplication/DERIVATIONS.md",
+      "line": 120,
+      "source_ids": [
+        "1.1.5",
+        "1.1.46",
+        "1.2.5",
+        "3.4.82",
+        "6.1.8",
+        "7.1.91",
+        "7.2.13",
+        "7.2.35",
+        "7.2.61",
+        "7.2.115",
+        "7.2.116",
+        "7.3.86",
+        "7.4.60",
+        "7.4.66",
+        "7.4.70",
+        "7.4.71"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H06",
+      "title": "ṛdh san: optional iṭ selects two different constructions",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/hi_rdh_reduplication/DERIVATIONS.md",
+      "line": 144,
+      "source_ids": [
+        "1.1.5",
+        "1.1.51",
+        "1.1.59",
+        "1.2.10",
+        "3.1.7",
+        "3.1.32",
+        "3.1.68",
+        "6.1.2",
+        "6.1.3",
+        "6.1.9",
+        "7.2.49",
+        "7.3.86",
+        "7.4.55",
+        "7.4.58",
+        "8.3.59",
+        "8.4.54",
+        "8.4.55"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H07",
+      "title": "Complete qualified P paradigms",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/hi_rdh_reduplication/DERIVATIONS.md",
+      "line": 167,
+      "source_ids": [
+        "1.1.5",
+        "1.2.5",
+        "1.3.78",
+        "3.1.32",
+        "3.1.68",
+        "3.4.78",
+        "3.4.82",
+        "6.1.97",
+        "6.4.82",
+        "7.1.3",
+        "7.1.91",
+        "7.2.13",
+        "7.2.35",
+        "7.2.49",
+        "7.2.61",
+        "7.2.63",
+        "7.3.101",
+        "8.2.66",
+        "8.3.15"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H08",
+      "title": "ciri, jiri and ṛkṣi remain qualified lexical residues",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/hi_rdh_reduplication/DERIVATIONS.md",
+      "line": 194,
+      "source_ids": [
+        "1.3.2",
+        "1.3.9",
+        "3.1.22",
+        "7.4.72"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "C01",
+      "title": "Same letter, different owner",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/hi_rdh_reduplication/DERIVATIONS.md",
+      "line": 213,
+      "source_ids": [
+        "7.3.56",
+        "7.4.62",
+        "8.4.54"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "C02",
+      "title": "A lexical iṭ label does not choose every affix branch",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/hi_rdh_reduplication/DERIVATIONS.md",
+      "line": 220,
+      "source_ids": [
+        "7.1.91",
+        "7.2.10",
+        "7.2.13",
+        "7.2.49",
+        "7.2.61",
+        "7.2.63"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "C03",
+      "title": "A source-qualified r-component is not a universal token rewrite",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/hi_rdh_reduplication/DERIVATIONS.md",
+      "line": 228,
+      "source_ids": [
+        "1.2.5",
+        "7.4.66",
+        "7.4.70",
+        "7.4.71"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "C04",
+      "title": "Actual san, s-initial san and san-like behavior are distinct",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/hi_rdh_reduplication/DERIVATIONS.md",
+      "line": 237,
+      "source_ids": [
+        "7.4.55",
+        "7.4.58",
+        "7.4.93"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "C05",
+      "title": "T165's long śṝñ result does not close PG60's short-source profile",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/hi_rdh_reduplication/DERIVATIONS.md",
+      "line": 245,
+      "source_ids": [
+        "7.3.80"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    }
+  ],
+  "referenced_existing_ids": [
+    "1.1.5",
+    "1.1.46",
+    "1.1.51",
+    "1.1.56",
+    "1.1.59",
+    "1.2.5",
+    "1.2.9",
+    "1.2.10",
+    "1.3.2",
+    "1.3.3",
+    "1.3.9",
+    "1.3.62",
+    "1.3.78",
+    "3.1.7",
+    "3.1.22",
+    "3.1.26",
+    "3.1.32",
+    "3.1.48",
+    "3.1.68",
+    "3.2.115",
+    "3.4.78",
+    "3.4.82",
+    "3.4.115",
+    "6.1.2",
+    "6.1.3",
+    "6.1.8",
+    "6.1.9",
+    "6.1.11",
+    "6.1.78",
+    "6.1.97",
+    "6.4.16",
+    "6.4.82",
+    "7.1.3",
+    "7.1.91",
+    "7.2.10",
+    "7.2.13",
+    "7.2.35",
+    "7.2.49",
+    "7.2.61",
+    "7.2.63",
+    "7.2.115",
+    "7.2.116",
+    "7.3.56",
+    "7.3.80",
+    "7.3.84",
+    "7.3.86",
+    "7.3.101",
+    "7.4.1",
+    "7.4.25",
+    "7.4.55",
+    "7.4.58",
+    "7.4.59",
+    "7.4.60",
+    "7.4.62",
+    "7.4.66",
+    "7.4.70",
+    "7.4.71",
+    "7.4.72",
+    "7.4.79",
+    "7.4.82",
+    "7.4.93",
+    "7.4.94",
+    "8.2.66",
+    "8.3.15",
+    "8.3.59",
+    "8.4.54",
+    "8.4.55"
+  ],
+  "local_selected_source_records": 127,
+  "local_records_claimed_globally_new": false,
+  "position_accounting": {
+    "before": 11570,
+    "added": 36,
+    "after": 11606,
+    "unit": "Qualified lexical-id/derivation/pada/lakara/agreement position; distinct strings at the same position are readings, not new positions",
+    "new_cells": [
+      {
+        "root_id": "1050012",
+        "derivation": "basic",
+        "lakara": "lit",
+        "pada": "P",
+        "slot": "3sg",
+        "readings": [
+          "jighāya"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050012",
+        "derivation": "san",
+        "lakara": "lat",
+        "pada": "P",
+        "slot": "3sg",
+        "readings": [
+          "jighīṣati"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050027",
+        "derivation": "basic",
+        "lakara": "lit",
+        "pada": "P",
+        "slot": "3sg",
+        "readings": [
+          "ānardha"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050027",
+        "derivation": "san",
+        "lakara": "lat",
+        "pada": "P",
+        "slot": "3sg",
+        "readings": [
+          "ardidhiṣati",
+          "īrtsati"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050012",
+        "derivation": "basic",
+        "lakara": "lit",
+        "pada": "P",
+        "slot": "3du",
+        "readings": [
+          "jighyatuḥ"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050012",
+        "derivation": "san",
+        "lakara": "lat",
+        "pada": "P",
+        "slot": "3du",
+        "readings": [
+          "jighīṣataḥ"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050027",
+        "derivation": "basic",
+        "lakara": "lit",
+        "pada": "P",
+        "slot": "3du",
+        "readings": [
+          "ānṛdhatuḥ"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050027",
+        "derivation": "san",
+        "lakara": "lat",
+        "pada": "P",
+        "slot": "3du",
+        "readings": [
+          "ardidhiṣataḥ",
+          "īrtsataḥ"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050012",
+        "derivation": "basic",
+        "lakara": "lit",
+        "pada": "P",
+        "slot": "3pl",
+        "readings": [
+          "jighyuḥ"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050012",
+        "derivation": "san",
+        "lakara": "lat",
+        "pada": "P",
+        "slot": "3pl",
+        "readings": [
+          "jighīṣanti"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050027",
+        "derivation": "basic",
+        "lakara": "lit",
+        "pada": "P",
+        "slot": "3pl",
+        "readings": [
+          "ānṛdhuḥ"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050027",
+        "derivation": "san",
+        "lakara": "lat",
+        "pada": "P",
+        "slot": "3pl",
+        "readings": [
+          "ardidhiṣanti",
+          "īrtsanti"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050012",
+        "derivation": "basic",
+        "lakara": "lit",
+        "pada": "P",
+        "slot": "2sg",
+        "readings": [
+          "jighayitha",
+          "jighetha"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050012",
+        "derivation": "san",
+        "lakara": "lat",
+        "pada": "P",
+        "slot": "2sg",
+        "readings": [
+          "jighīṣasi"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050027",
+        "derivation": "basic",
+        "lakara": "lit",
+        "pada": "P",
+        "slot": "2sg",
+        "readings": [
+          "ānardhitha"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050027",
+        "derivation": "san",
+        "lakara": "lat",
+        "pada": "P",
+        "slot": "2sg",
+        "readings": [
+          "ardidhiṣasi",
+          "īrtsasi"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050012",
+        "derivation": "basic",
+        "lakara": "lit",
+        "pada": "P",
+        "slot": "2du",
+        "readings": [
+          "jighyathuḥ"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050012",
+        "derivation": "san",
+        "lakara": "lat",
+        "pada": "P",
+        "slot": "2du",
+        "readings": [
+          "jighīṣathaḥ"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050027",
+        "derivation": "basic",
+        "lakara": "lit",
+        "pada": "P",
+        "slot": "2du",
+        "readings": [
+          "ānṛdhathuḥ"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050027",
+        "derivation": "san",
+        "lakara": "lat",
+        "pada": "P",
+        "slot": "2du",
+        "readings": [
+          "ardidhiṣathaḥ",
+          "īrtsathaḥ"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050012",
+        "derivation": "basic",
+        "lakara": "lit",
+        "pada": "P",
+        "slot": "2pl",
+        "readings": [
+          "jighya"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050012",
+        "derivation": "san",
+        "lakara": "lat",
+        "pada": "P",
+        "slot": "2pl",
+        "readings": [
+          "jighīṣatha"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050027",
+        "derivation": "basic",
+        "lakara": "lit",
+        "pada": "P",
+        "slot": "2pl",
+        "readings": [
+          "ānṛdha"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050027",
+        "derivation": "san",
+        "lakara": "lat",
+        "pada": "P",
+        "slot": "2pl",
+        "readings": [
+          "ardidhiṣatha",
+          "īrtsatha"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050012",
+        "derivation": "basic",
+        "lakara": "lit",
+        "pada": "P",
+        "slot": "1sg",
+        "readings": [
+          "jighaya",
+          "jighāya"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050012",
+        "derivation": "san",
+        "lakara": "lat",
+        "pada": "P",
+        "slot": "1sg",
+        "readings": [
+          "jighīṣāmi"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050027",
+        "derivation": "basic",
+        "lakara": "lit",
+        "pada": "P",
+        "slot": "1sg",
+        "readings": [
+          "ānardha"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050027",
+        "derivation": "san",
+        "lakara": "lat",
+        "pada": "P",
+        "slot": "1sg",
+        "readings": [
+          "ardidhiṣāmi",
+          "īrtsāmi"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050012",
+        "derivation": "basic",
+        "lakara": "lit",
+        "pada": "P",
+        "slot": "1du",
+        "readings": [
+          "jighyiva"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050012",
+        "derivation": "san",
+        "lakara": "lat",
+        "pada": "P",
+        "slot": "1du",
+        "readings": [
+          "jighīṣāvaḥ"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050027",
+        "derivation": "basic",
+        "lakara": "lit",
+        "pada": "P",
+        "slot": "1du",
+        "readings": [
+          "ānṛdhiva"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050027",
+        "derivation": "san",
+        "lakara": "lat",
+        "pada": "P",
+        "slot": "1du",
+        "readings": [
+          "ardidhiṣāvaḥ",
+          "īrtsāvaḥ"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050012",
+        "derivation": "basic",
+        "lakara": "lit",
+        "pada": "P",
+        "slot": "1pl",
+        "readings": [
+          "jighyima"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050012",
+        "derivation": "san",
+        "lakara": "lat",
+        "pada": "P",
+        "slot": "1pl",
+        "readings": [
+          "jighīṣāmaḥ"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050027",
+        "derivation": "basic",
+        "lakara": "lit",
+        "pada": "P",
+        "slot": "1pl",
+        "readings": [
+          "ānṛdhima"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      },
+      {
+        "root_id": "1050027",
+        "derivation": "san",
+        "lakara": "lat",
+        "pada": "P",
+        "slot": "1pl",
+        "readings": [
+          "ardidhiṣāmaḥ",
+          "īrtsāmaḥ"
+        ],
+        "profile": "PG61_SELECTED_CLASSICAL_SVADI",
+        "new_position_credit": 1
+      }
+    ],
+    "new_complete_selected_p_paradigms": 4,
+    "column_readings": [
+      11,
+      9,
+      9,
+      18
+    ],
+    "same_string_history": "rdh lit 1sg optional nit histories share anardha and count as one string",
+    "quoted_yang_nic_san_cang_position_credit": 0,
+    "earlier_tables_reexecuted": false
+  },
+  "retained_residues": [
+    {
+      "root_id": "1050034",
+      "status": "SOURCE_QUALIFIED_WITHHELD",
+      "new_positions": 0
+    },
+    {
+      "root_id": "1050035",
+      "status": "SOURCE_QUALIFIED_WITHHELD",
+      "new_positions": 0
+    },
+    {
+      "root_id": "1050038",
+      "status": "SOURCE_QUALIFIED_WITHHELD",
+      "new_positions": 0
+    }
+  ],
+  "source_profiles": {
+    "default_register": "PG60_SELECTED_CLASSICAL_GATE_INHERITED",
+    "rdh": "SELECTED_SVADI_LISTING_WITH_ALTERNATIVE_NOTE",
+    "shrnj": "KSHIRA_SHRNJ_1090015_SHORT_PROFILE_RETAINED",
+    "long_shrnj_positive_source_adjudicated": false,
+    "rksi_base_discrepancy": "OPEN"
+  },
+  "resolved_frontier": {
+    "hi_selected_perfect_and_san_written": true,
+    "rdh_selected_perfect_and_both_san_branches_written": true,
+    "actual_cang_exclusion_and_nyadhika_witness_written": true,
+    "all_yang_nic_san_cang_forms_complete": false,
+    "runtime_integration_complete": false
+  },
+  "companion": {
+    "head": "bf1228fd5262baf9f3257de19547aab51eb260cc",
+    "parent": "d5194a743663c6f1afd63ed848a6d6e33d48cf91",
+    "new_commits_since_pg60": 1,
+    "review_scope": "COMPLETE_T165_CAPSULE_AND_SELECTED_STATIC_DECLARATIONS_GUARDS",
+    "reported_suite": [
+      1072,
+      1072
+    ],
+    "reported_lane_only_roots": 233,
+    "reported_pin": "843d6a5ab98a0d2bda793ee1d1bf6274542e826b6dcea3dd2299c575d09268b9",
+    "shrnj_source_conflict": true,
+    "lane_files_reaudited": false,
+    "execution_rerun": false,
+    "report_file": "COMPANION_REVIEW.md"
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "python_311_test_runs": 0,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED",
+    "certificate_replay": "DEFERRED",
+    "navigation_suite": "DEFERRED",
+    "operator_suite": "DEFERRED"
+  },
+  "next_work": {
+    "kind": "SOURCE_QUALIFIED_IR_UR_IMPERATIVE_AND_LEXICAL_RESIDUES",
+    "completed": false,
+    "needs": [
+      "3.1.83 after ir/ur with 1.1.56 and source-profile qualification",
+      "ciri/jiri register source and two-vowel bases",
+      "rksi variant/base discrepancy before ardha/san"
+    ]
+  },
+  "open_obligations": [
+    "Full Vedic designations, accents and phonetic branches.",
+    "Full hi yang, nic-san and causative cang paradigms.",
+    "Competing shrnj long-source admission and ir/ur lot 2sg.",
+    "ciri/jiri/rksi broader register and variant adjudication.",
+    "Inherited PG57-PG60 and separate PG19 integration obligations.",
+    "General visibility, separate Unadi corpus, runtime integration."
+  ],
+  "grammar_executions": 0,
+  "overall_grammar_completion_percent": null
+}
