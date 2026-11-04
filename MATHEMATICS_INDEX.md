@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 5 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG61 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 5 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG62 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG61 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG62 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,26 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG62: svṝ source correction and complete svṝ/śṝñ modals
+
+[PG62](research/panini_grammar/svr_shr_modal_sources/README.md) adds
+**54 loṭ/vidhiliṅ positions/readings** and replaces nine earlier
+svṝ present admissions with a named Dhātupradīpa/himsā profile.
+Three inspected scans distinguish svṝ/himsā/svṛṇāti from neighboring
+vṝ/varaṇa. [Derivations](research/panini_grammar/svr_shr_modal_sources/DERIVATIONS.md)
+give svṛṇīhi/śṛṇīhi under the selected short-root profiles and expose
+the lost following-hal premise in a conditional long-root śānac path.
+[Native continuation](research/panini_grammar/svr_shr_modal_sources/DOMAIN_AND_NATIVE.md)
+constructs source/affix cuts and correction history before typed zero
+recovery, retaining pairing and the old source-held request channel.
+[T165 handoff](research/panini_grammar/svr_shr_modal_sources/COMPANION_REVIEW.md)
+records an unchanged companion head and the static guard-order issue.
+[State](research/panini_grammar/svr_shr_modal_sources/STATE.json)
+has **11,606 − 9 + 9 + 54 = 11,660 written positions**; both 3,983-ID
+sets remain unchanged. Python 3.12 document checks only; grammar tests,
+generators, replay and navigation/operator suites remain deferred.
+Next: primary-source lexical/register adjudication for ciri/jiri/ṛkṣi.
 
 ## PG61: owned reduplication and hi/ṛdh perfect/desiderative branches
 

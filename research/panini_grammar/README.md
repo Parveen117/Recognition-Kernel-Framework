@@ -1162,6 +1162,23 @@ grammar tests, generators, replay and navigation/operator suites stay
 deferred. Next: the ir/ur imperative source question and qualified
 ciri/jiri/ṛkṣi lexical/register residues.
 
+**Svṝ source correction and complete modals:** [PG62](svr_shr_modal_sources/README.md)
+uses three inspected Dhātupradīpa scans to separate svṝ/himsā/svṛṇāti
+from neighboring vṝ/varaṇa. [Derivations](svr_shr_modal_sources/DERIVATIONS.md)
+add **54 loṭ/vidhiliṅ positions/readings** for svṝ P and śṝñ P/A,
+plus nine present replacements without extra net credit. The selected
+imperatives are svṛṇīhi/śṛṇīhi. [Native construction](svr_shr_modal_sources/DOMAIN_AND_NATIVE.md)
+retains source correction and affix views through typed zero recovery
+and pairing. [T165 handoff](svr_shr_modal_sources/COMPANION_REVIEW.md)
+records the unchanged head and a following-sound guard issue.
+[Archive](svr_shr_modal_sources/SOURCE_EXCERPTS.json),
+[pins](svr_shr_modal_sources/SOURCE_PINS.json) and
+[state](svr_shr_modal_sources/STATE.json) retain both **3,983-ID sets**
+with **11,660 effective written positions**. The old svṝ/varaṇa
+requests are source-held; frozen evidence remains unchanged. Python
+3.12 document checks only; grammar tests, generators, replay and
+navigation/operator suites stay deferred. Next: ciri/jiri/ṛkṣi sources.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
