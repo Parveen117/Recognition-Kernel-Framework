@@ -54,3 +54,5 @@ THE SAN PRESENT SYSTEM OF 193 ROOTS IN BOTH PADAS: 9,756 / 9,936 FROM THE ROWS O
 daridrā (A VĀRTTIKA), ūrṇu (6.1.2 WITH THE ABHYĀSA'S n), THE SAN OF THE ĀRDHADHĀTUKA LAKĀRAS, yaṅ, san OF THE KARMAṆI             NOT CLAIMED
 RH, YM                                                                                                                         UNTOUCHED
 ```
+
+*Note (theorum/158).* The verbal table is re-pinned again by theorum/158 (`4cf5530a…`): the row 6.4.35 *śā hau* added, 6.4.34 extended to the ṅit yāsuṭ of liṅ and excluded before hi, 8.3.60 freed of its t / v / m restriction — the three defects the written line's PG23 register showed (theorum/157); six witness cells of śās (loṭ 2sg, 3du, 2pl; liṅ 3sg, 3pl, 1sg) added to the suite from that register. This theorem's pin `df6a008d…` stands at commit 98c91c3.

@@ -45,3 +45,5 @@ THE 14 UNDECLARED ROOTS; THE CAUSAL lṛṅ; THE TĀT FORMS (NO 7.1.35 ROW)     
 THE CORRECTION OF THE TABLE (theorum/158); PG24, PG26–PG30, PG33–PG34'S REGISTERS                                                                    NOT CLAIMED HERE
 RH, YM                                                                                                                                             UNTOUCHED
 ```
+
+*Note (theorum/158).* The table corrected as this theorem asked: re-pinned by theorum/158 (`632be289…`), all **702 / 702** replayed positions now agree and the adjudication list is empty (the ten śās cells are in the table's suite as witness cells). The pin `c400f141…`, with the ten adjudicated cells, holds at commit 98c91c3. The kernel is re-pinned by theorum/158 (`21003192…`); this theorem's kernel pin `d68d6208…` holds at commit 98c91c3.

@@ -51,3 +51,5 @@ THE GUARDS' READERS: 30 + 7 AND 27, BY THE SYNTAX TREE                          
 WHICH NAME A SŪTRA GIVES A SOUND CHANGE THE CATALOGUE FILES ELSEWHERE (3.4.79, 7.2.116)                                   RECORDED, NOT CLAIMED
 THAT THE CATALOGUE IS THE ONLY READING; THAT THE GUARDS ARE A FINITE INSTRUCTION SET; CONFLUENCE; "SANSKRIT IS A PROGRAMMING LANGUAGE"; RH, YM   NOT CLAIMED / UNTOUCHED
 ```
+
+*Note (theorum/158).* Re-pinned again by theorum/158 (`af942ce6…`) after the verbal table's correction on śās (one new row, 6.4.35, one op); the previous pin `d319faef…` holds at commit 98c91c3.

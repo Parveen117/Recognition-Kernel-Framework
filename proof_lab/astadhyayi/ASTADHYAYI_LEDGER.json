@@ -11,8 +11,8 @@
   "counts": {
     "compiled": 10,
     "meta": 178,
-    "hand_coded": 436,
-    "cited": 407,
+    "hand_coded": 437,
+    "cited": 406,
     "misnumbered": 2,
     "entries": 1033,
     "text_missing": 91,
@@ -1049,6 +1049,7 @@
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/139_ting_rule_table_engine_open_lane_theorem.md",
         "theorum/152_krt_rule_table_engine_satr_sanac_theorem.md",
+        "theorum/158_ting_rule_table_engine_sas_correction_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md"
       ]
     },
@@ -5686,6 +5687,7 @@
         "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md",
         "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/157_written_modal_registers_replay_ii_theorem.md",
+        "theorum/158_ting_rule_table_engine_sas_correction_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md"
       ]
     },
@@ -10014,7 +10016,9 @@
         "theorum/120_krt_mathematical_construction_theorem.md",
         "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/147_ting_rule_table_engine_karmani_theorem.md",
-        "theorum/157_written_modal_registers_replay_ii_theorem.md"
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/157_written_modal_registers_replay_ii_theorem.md",
+        "theorum/158_ting_rule_table_engine_sas_correction_theorem.md"
       ]
     },
     "6.4.35": {
@@ -10022,12 +10026,19 @@
       "text_devanagari": "शा हौ",
       "in_pinned_edition": true,
       "iast_matches_pinned_edition": true,
-      "level": "cited",
-      "theorems": [],
+      "level": "hand_coded",
+      "theorems": [
+        "T158"
+      ],
       "cited_in": [
         "proof_lab/pg_modal_registers_ii.py",
+        "proof_lab/ting_rule_table_engine.py",
         "theorum/142_panini_kernel_theorem.md",
-        "theorum/157_written_modal_registers_replay_ii_theorem.md"
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/150_panini_isa_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
+        "theorum/157_written_modal_registers_replay_ii_theorem.md",
+        "theorum/158_ting_rule_table_engine_sas_correction_theorem.md"
       ]
     },
     "6.4.36": {
@@ -10508,7 +10519,8 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/138_generalisation_test_theorem.md",
         "theorum/139_ting_rule_table_engine_open_lane_theorem.md",
-        "theorum/157_written_modal_registers_replay_ii_theorem.md"
+        "theorum/157_written_modal_registers_replay_ii_theorem.md",
+        "theorum/158_ting_rule_table_engine_sas_correction_theorem.md"
       ]
     },
     "6.4.105": {
@@ -12768,6 +12780,7 @@
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
         "theorum/155_written_construction_replay_ii_theorem.md",
         "theorum/157_written_modal_registers_replay_ii_theorem.md",
+        "theorum/158_ting_rule_table_engine_sas_correction_theorem.md",
         "theorum/96_lot_lin_parasmaipada_compiled_theorem.md",
         "theorum/99_atmanepada_lan_lot_lin_compiled_theorem.md"
       ]
@@ -15426,7 +15439,8 @@
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
         "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md",
-        "theorum/146_ting_rule_table_engine_lun_breadth_theorem.md"
+        "theorum/146_ting_rule_table_engine_lun_breadth_theorem.md",
+        "theorum/158_ting_rule_table_engine_sas_correction_theorem.md"
       ]
     },
     "8.2.26": {
@@ -16402,6 +16416,7 @@
         "theorum/135_ting_rule_table_engine_adadi_juhotyadi_breadth_theorem.md",
         "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
         "theorum/142_panini_kernel_theorem.md",
+        "theorum/158_ting_rule_table_engine_sas_correction_theorem.md",
         "theorum/89_ngi_stem_sup_compiled_theorem.md",
         "theorum/90_r_stem_sup_compiled_theorem.md"
       ]
@@ -16489,8 +16504,10 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/120_krt_mathematical_construction_theorem.md",
         "theorum/136_ting_rule_table_engine_adadi_consonant_roots_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
-        "theorum/157_written_modal_registers_replay_ii_theorem.md"
+        "theorum/157_written_modal_registers_replay_ii_theorem.md",
+        "theorum/158_ting_rule_table_engine_sas_correction_theorem.md"
       ]
     },
     "8.3.61": {

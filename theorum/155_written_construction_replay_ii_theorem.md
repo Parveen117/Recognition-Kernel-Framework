@@ -69,3 +69,5 @@ RH, YM                                                                          
 ```
 
 *Note (theorum/156).* The next three registers (PG20 āśīrliṅ, PG21 nasal-class, PG22 athematic loṭ / vidhiliṅ) are replayed by theorem 156: 693 / 693 agree. The kernel is re-pinned again by theorum/156 (`f569ee6a…`); commit 921ee1e holds this theorem's state and its kernel pin `578406c8…`.
+
+*Note (theorum/158).* Re-pinned by theorum/158 (`c98d6ba3…`): with 6.4.35 a row of the verbal table, R6's placement of the written line's 3,849 cited sūtras is 309 rows / 250 ledger / 3,290 neither; nothing else changes. The pin `7d580c51…` holds at commit 98c91c3.
