@@ -1,0 +1,584 @@
+{
+  "schema": "rkf.panini.pg58.state.v1",
+  "author": "Monty",
+  "date": "2026-11-04",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "8c825198859c94a396e34a782da8a3759de286dd",
+    "path": "research/panini_grammar/caks_substitution_scope/STATE.json",
+    "reading_scope": "COUNTS_AND_EXACT_ID_SET_REFERENCES_INHERITED_WITHOUT_REAUDIT",
+    "bytes": 13762,
+    "sha256": "1be902bfc0690990b7af25240369d147ef53c7d38e6d9bf22c7dd00a651b445b",
+    "git_blob_sha": "ccbc88d827fdbfb7e55477bdccf2de3cb0ec2ea2"
+  },
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "finite_positions": 11552,
+  "new_catalogue_ids": [],
+  "new_positions": 0,
+  "new_paradigm_readings": 0,
+  "written_units": 15,
+  "block_counts": {
+    "H": 8,
+    "C": 6,
+    "E": 1
+  },
+  "stage_record_counts": {
+    "S": 5,
+    "B": 4,
+    "F": 5,
+    "T": 6,
+    "N": 4,
+    "R": 5,
+    "Q": 5,
+    "V": 3,
+    "L": 3,
+    "E": 4
+  },
+  "stage_count_is_new_rule_count": false,
+  "records": [
+    {
+      "id": "H01",
+      "title": "One underlying cluster, two selected readouts",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/khsha_visibility/DERIVATIONS.md",
+      "line": 50,
+      "source_ids": [
+        "1.3.3",
+        "1.3.9",
+        "1.3.72",
+        "2.4.35",
+        "2.4.54",
+        "2.4.55",
+        "3.2.102",
+        "8.2.1",
+        "8.2.43",
+        "8.4.48",
+        "8.4.55"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "H02",
+      "title": "सौप्रख्यम्: the hidden य् cannot select वुञ्",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/khsha_visibility/DERIVATIONS.md",
+      "line": 71,
+      "source_ids": [
+        "1.3.3",
+        "1.3.6",
+        "1.3.8",
+        "1.3.9",
+        "2.4.54",
+        "3.1.136",
+        "5.1.124",
+        "5.1.132",
+        "6.4.64",
+        "6.4.148",
+        "7.2.117",
+        "8.2.1",
+        "8.4.64"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "H03",
+      "title": "सौप्रख्यीय: a second suffix still needs the earlier history",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/khsha_visibility/DERIVATIONS.md",
+      "line": 89,
+      "source_ids": [
+        "1.1.73",
+        "2.4.54",
+        "3.1.136",
+        "4.1.83",
+        "4.2.68",
+        "4.2.114",
+        "4.2.121",
+        "4.3.53",
+        "6.4.148",
+        "7.1.2",
+        "7.2.117",
+        "8.2.1"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "H04",
+      "title": "आख्यात: निष्ठा त survives without a visible यण् premise",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/khsha_visibility/DERIVATIONS.md",
+      "line": 110,
+      "source_ids": [
+        "2.4.54",
+        "3.2.102",
+        "8.2.1",
+        "8.2.43",
+        "8.2.57"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "H05",
+      "title": "पुंख्यानम्: no रु from a future अम् member",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/khsha_visibility/DERIVATIONS.md",
+      "line": 125,
+      "source_ids": [
+        "1.1.62",
+        "1.4.14",
+        "2.4.54",
+        "2.4.71",
+        "3.3.115",
+        "6.1.101",
+        "7.1.1",
+        "8.2.1",
+        "8.2.23",
+        "8.3.6",
+        "8.3.23",
+        "8.4.58",
+        "8.4.59"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "H06",
+      "title": "पर्याख्यानम्: श् blocks णत्व before it becomes य्",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/khsha_visibility/DERIVATIONS.md",
+      "line": 143,
+      "source_ids": [
+        "2.4.54",
+        "3.3.115",
+        "6.1.77",
+        "6.1.101",
+        "7.1.1",
+        "8.2.1",
+        "8.4.1",
+        "8.4.2",
+        "8.4.29"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "H07",
+      "title": "नमः ख्यात्रे: retain the visarga in the pre-Y sound view",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/khsha_visibility/DERIVATIONS.md",
+      "line": 157,
+      "source_ids": [
+        "2.4.54",
+        "8.2.1",
+        "8.3.35",
+        "8.3.37"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "H08",
+      "title": "The locally visible य् for 3.1.52",
+      "kind": "WRITTEN_CONSTRUCTION_GROUP",
+      "document": "research/panini_grammar/khsha_visibility/DERIVATIONS.md",
+      "line": 173,
+      "source_ids": [
+        "2.4.54",
+        "2.4.55",
+        "3.1.52",
+        "8.2.1"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "C01",
+      "title": "Do not choose चर्त्व before the Y branch",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/khsha_visibility/DERIVATIONS.md",
+      "line": 192,
+      "source_ids": [
+        "2.4.54",
+        "8.2.1",
+        "8.4.48",
+        "8.4.55"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "C02",
+      "title": "A final spelling is not the तद्धित query's complete input",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/khsha_visibility/DERIVATIONS.md",
+      "line": 199,
+      "source_ids": [
+        "2.4.54",
+        "4.2.68",
+        "4.2.121",
+        "4.3.53",
+        "5.1.124",
+        "5.1.132",
+        "8.2.1"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "C03",
+      "title": "Alternative explanations do not repeal standard rules",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/khsha_visibility/DERIVATIONS.md",
+      "line": 206,
+      "source_ids": [
+        "2.4.54",
+        "8.2.43",
+        "8.2.57"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "C04",
+      "title": "Marker silence and perfect इट् remain separate decisions",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/khsha_visibility/DERIVATIONS.md",
+      "line": 214,
+      "source_ids": [
+        "1.3.72",
+        "2.4.54",
+        "2.4.55"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "C05",
+      "title": "Damaged readings remain literal, with explicit interpretation",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/khsha_visibility/DERIVATIONS.md",
+      "line": 221,
+      "source_ids": [
+        "2.4.54",
+        "2.4.55"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "C06",
+      "title": "Evidence boundaries and missing inputs",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/khsha_visibility/DERIVATIONS.md",
+      "line": 231,
+      "source_ids": [
+        "2.4.54",
+        "8.2.1"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    },
+    {
+      "id": "E01",
+      "title": "Effective PG27 correction: vṛj → varj, not vraj",
+      "kind": "EFFECTIVE_CORRECTION",
+      "document": "research/panini_grammar/khsha_visibility/DERIVATIONS.md",
+      "line": 240,
+      "source_ids": [
+        "1.1.2",
+        "1.1.5",
+        "1.1.51",
+        "1.2.4",
+        "3.4.92",
+        "7.3.84",
+        "7.3.86"
+      ],
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED",
+      "complete_paradigm": false,
+      "new_position_credit": 0
+    }
+  ],
+  "referenced_existing_ids": [
+    "1.1.2",
+    "1.1.5",
+    "1.1.51",
+    "1.1.62",
+    "1.1.73",
+    "1.2.4",
+    "1.3.3",
+    "1.3.6",
+    "1.3.8",
+    "1.3.9",
+    "1.3.72",
+    "1.4.14",
+    "2.4.35",
+    "2.4.54",
+    "2.4.55",
+    "2.4.71",
+    "3.1.52",
+    "3.1.136",
+    "3.2.102",
+    "3.3.115",
+    "3.4.92",
+    "4.1.83",
+    "4.2.68",
+    "4.2.114",
+    "4.2.121",
+    "4.3.53",
+    "5.1.124",
+    "5.1.132",
+    "6.1.77",
+    "6.1.101",
+    "6.4.64",
+    "6.4.148",
+    "7.1.1",
+    "7.1.2",
+    "7.2.117",
+    "7.3.84",
+    "7.3.86",
+    "8.2.1",
+    "8.2.23",
+    "8.2.43",
+    "8.2.57",
+    "8.3.6",
+    "8.3.23",
+    "8.3.35",
+    "8.3.37",
+    "8.4.1",
+    "8.4.2",
+    "8.4.29",
+    "8.4.48",
+    "8.4.55",
+    "8.4.58",
+    "8.4.59",
+    "8.4.64"
+  ],
+  "local_literal_fields": 85,
+  "local_fields_claimed_globally_new": false,
+  "grammar_executions": 0,
+  "overall_grammar_completion_percent": null,
+  "source_policy": "Single khsha underlying model; source-ordered optional Y; selected non-doubling pronunciation and explicit H02 y-collapse branch",
+  "resolved_previous_frontier": {
+    "two_selected_stem_branches": [
+      "khyāta",
+      "kśāta"
+    ],
+    "consumer_views": [
+      {
+        "consumer": "5.1.132",
+        "view": "PRE_Y",
+        "decision": "NO_Y_UPADHA"
+      },
+      {
+        "consumer": "4.2.121",
+        "view": "PRE_Y",
+        "decision": "NO_Y_UPADHA"
+      },
+      {
+        "consumer": "8.2.43",
+        "view": "PRE_Y",
+        "decision": "NO_YANVAT_PREMISE"
+      },
+      {
+        "consumer": "8.3.6",
+        "view": "PRE_Y",
+        "decision": "SHA_NOT_AM"
+      },
+      {
+        "consumer": "8.3.35",
+        "view": "PRE_Y",
+        "decision": "KHAR_FOLLOWED_BY_SHAR"
+      },
+      {
+        "consumer": "8.4.29",
+        "view": "PRE_Y",
+        "decision": "SHA_BLOCKS_PATH"
+      },
+      {
+        "consumer": "8.4.55",
+        "view": "POST_Y_CHOICE",
+        "decision": "CARTVA_ONLY_ON_NO_Y_BRANCH"
+      },
+      {
+        "consumer": "KASHIKA_8.4.48_PAUSKARASADI_VARTTIKA",
+        "view": "PRE_CARTVA",
+        "decision": "NO_RETROACTIVE_NEW_K"
+      },
+      {
+        "consumer": "3.1.52",
+        "view": "SOURCE_AUTHORIZED_Y",
+        "decision": "TATTVABODHINI_VIDHISAMARTHYA_EXCEPTION"
+      }
+    ],
+    "complete_perfect_it_branch_coverage": false,
+    "global_visibility_scheduler": false
+  },
+  "effective_corrections": {
+    "document": "DERIVATIONS.md",
+    "record": "E01",
+    "target_packet": "PG27",
+    "root_id": "1020022",
+    "parameter": "G",
+    "old": "vraj",
+    "effective": "varj",
+    "distinct_corrected_strings": 3,
+    "existing_positions_affected": 6,
+    "positions": [
+      {
+        "packet": "PG27",
+        "root_id": "1020022",
+        "pada": "A",
+        "mood": "I",
+        "slot": "1sg",
+        "old": "vrajai",
+        "effective": "varjai"
+      },
+      {
+        "packet": "PG27",
+        "root_id": "1020022",
+        "pada": "A",
+        "mood": "I",
+        "slot": "1du",
+        "old": "vrajāvahai",
+        "effective": "varjāvahai"
+      },
+      {
+        "packet": "PG27",
+        "root_id": "1020022",
+        "pada": "A",
+        "mood": "I",
+        "slot": "1pl",
+        "old": "vrajāmahai",
+        "effective": "varjāmahai"
+      },
+      {
+        "packet": "PG27",
+        "root_id": "1020022",
+        "pada": "A",
+        "mood": "B",
+        "slot": "1sg",
+        "old": "vrajai",
+        "effective": "varjai"
+      },
+      {
+        "packet": "PG27",
+        "root_id": "1020022",
+        "pada": "A",
+        "mood": "B",
+        "slot": "1du",
+        "old": "vrajāvahai",
+        "effective": "varjāvahai"
+      },
+      {
+        "packet": "PG27",
+        "root_id": "1020022",
+        "pada": "A",
+        "mood": "B",
+        "slot": "1pl",
+        "old": "vrajāmahai",
+        "effective": "varjāmahai"
+      }
+    ],
+    "historical_files_unchanged": true,
+    "position_delta": 0,
+    "reading_count_delta": 0,
+    "unchanged_pg27_counts": {
+      "admitted_positions": 997,
+      "readings": 1145
+    },
+    "scope_excludes": [
+      "1020023 num profile",
+      "class-7 vrj",
+      "weak vidhiling"
+    ]
+  },
+  "companion": {
+    "head": "d0c2fa2f2395172bdb2adf44c6b37d711d67bede",
+    "previous_head": "cc7b39bb70aec81579fefa27c8aac5db89480da5",
+    "new_commits_observed": 1,
+    "stage": "T163",
+    "review_scope": "FULL_CAPSULE_AND_SELECTED_CODE_DIFFS_ONLY",
+    "reported_new_lane_roots": 29,
+    "reported_residue_entries": 13,
+    "reported_suite": {
+      "agree": 1072,
+      "total": 1072
+    },
+    "reported_modal_replay": {
+      "replayed": 1385,
+      "agree": 1382,
+      "adjudicated": 3
+    },
+    "reported_reference_replay": {
+      "replayed": 734,
+      "agree": 676,
+      "other_option": 56
+    },
+    "reported_krt": {
+      "agree": 2265,
+      "total": 2275
+    },
+    "lane_files_reaudited": false,
+    "execution_rerun": false,
+    "modal_pair_checked_before_metadata_merge": true,
+    "pg19_merge_concern_repaired": false,
+    "trnu_option_source_adjudicated": false,
+    "pg57_scope_decision_integrated": false,
+    "report_file": "COMPANION_REVIEW.md"
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "python_311_test_runs": 0,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED",
+    "certificate_replay": "DEFERRED",
+    "navigation_suite": "DEFERRED",
+    "operator_suite": "DEFERRED"
+  },
+  "next_work": {
+    "kind": "TANADI_RNU_TRNU_GHRNU_U_OWNERSHIP_AND_GUNA",
+    "completed": false,
+    "needs": [
+      "Pin exact lexical entries and upadesha marker policies",
+      "Separate root-owned u from 3.1.79 vikaranas",
+      "Resolve trnoti/tarnoti claims on identified inputs before accepting an option"
+    ]
+  },
+  "open_obligations": [
+    "Full alternative perfect and it/pada paradigms.",
+    "All nested and inflected continuations.",
+    "Accent and full phonetic multiplicity.",
+    "General visibility, semantic and lexical/register admission.",
+    "vicaksana lyut/yuc source and accent arbitration.",
+    "Separate Unadi corpus completion.",
+    "Runtime integration and deferred execution."
+  ]
+}

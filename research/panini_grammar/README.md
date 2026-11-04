@@ -1087,6 +1087,25 @@ Python 3.12 document checks only; grammar tests, generators, replay and
 navigation/operator suites remain deferred. Next: the ख्शा/क्शा source
 branch and its consumer-specific असिद्ध history.
 
+**ख्शा/क्शा and consumer-specific visibility:**
+
+[PG58](khsha_visibility/README.md) adds **fifteen written units**: eight
+construction groups, six controls and one effective correction. The late
+श् → य् event is hidden from the specified earlier तद्धित, निष्ठा,
+रु, णत्व and visarga queries, but the source expressly permits its
+use by 3.1.52. [PG27's corrected binding](khsha_visibility/DERIVATIONS.md)
+is **varj** for the non-num class-2 vṛj first persons: varjai,
+varjāvahai, varjāmahai. It corrects six existing I/B positions and three
+strings while preserving frozen packet bytes and counts.
+[Native continuation](khsha_visibility/DOMAIN_AND_NATIVE.md) adds typed
+views and correction history with zero-specialization compatibility.
+[Sources](khsha_visibility/SOURCE_EXCERPTS.json), [pins](khsha_visibility/SOURCE_PINS.json)
+and [state](khsha_visibility/STATE.json) retain both **3,983-ID sets /
+11,552 positions**, without new position credit. [T163 review](khsha_visibility/COMPANION_REVIEW.md)
+records the 29 lane-only root declarations and the remaining tanādi
+उ-ownership question. Document checks use Python 3.12 only; grammar tests,
+generators, replay and navigation/operator suites remain deferred.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

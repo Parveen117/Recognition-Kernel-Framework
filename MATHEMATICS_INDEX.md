@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG57 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG58 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG57 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG58 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,29 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG58: ख्शा/क्शा visibility and the effective PG27 vṛj correction
+
+[PG58](research/panini_grammar/khsha_visibility/README.md) constructs the
+alternative ख्शाञ् history, optional late श् → य् and subsequent
+चर्त्व. Eight construction groups, six controls and one correction give
+**fifteen written units**. The source-authorized views distinguish
+तद्धित, निष्ठा, रु, णत्व and visarga queries, while preserving the
+explicit 3.1.52 visibility permission.
+
+[Effective PG27 correction](research/panini_grammar/khsha_visibility/DERIVATIONS.md)
+changes non-num class-2 G = vraj to **varj**: varjai, varjāvahai,
+varjāmahai in both ordinary and blessing loṭ. Three distinct strings in
+six existing positions are corrected without rewriting the frozen packet
+or changing its counts. [Native continuation](research/panini_grammar/khsha_visibility/DOMAIN_AND_NATIVE.md)
+adds typed views and a history-retaining correction with zero-specialization
+compatibility. [T163 review](research/panini_grammar/khsha_visibility/COMPANION_REVIEW.md)
+separates 29 lane-only root declarations and reported replay results from
+the source correction. [State](research/panini_grammar/khsha_visibility/STATE.json)
+retains both **3,983-ID sets / 11,552 positions**. Python 3.12 document
+checks only; grammar tests, generators, replay and navigation/operator
+suites remain deferred. The next written question is the tanādi root-owned
+उ versus vikaraṇa account for ṛṇu/tṛṇu/ghṛṇu.
 
 ## PG57: चक्ष् substitution, intended affixes and the शानच् control
 
