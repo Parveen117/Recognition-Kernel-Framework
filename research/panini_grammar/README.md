@@ -1106,6 +1106,26 @@ records the 29 lane-only root declarations and the remaining tanādi
 उ-ownership question. Document checks use Python 3.12 only; grammar tests,
 generators, replay and navigation/operator suites remain deferred.
 
+**Tanādi उ ownership and source-qualified guṇa:**
+
+[PG59](tanadi_guna_ownership/README.md) supplies **twelve written units**
+and all **54 existing positions / 120 selected branch readings** for
+ṛṇu/tṛṇu/ghṛṇu. [Derivations](tanadi_guna_ownership/DERIVATIONS.md)
+separate teaching उँ, vikaraṇa उ, root guṇa and ending-conditioned
+affix guṇa. The source's तर्णुते admits root guṇa before a weak ending;
+the resulting rṇ cluster blocks optional u-lopa but not the separate
+yaṇ path. [Native continuation](tanadi_guna_ownership/DOMAIN_AND_NATIVE.md)
+constructs the dependent branch relation and proves typed
+zero-specialization compatibility. [T164 handoff](tanadi_guna_ownership/COMPANION_REVIEW.md)
+corrects the option explanation and records the static guard/replay
+obligations. [Archive](tanadi_guna_ownership/SOURCE_EXCERPTS.json),
+[pins](tanadi_guna_ownership/SOURCE_PINS.json) and
+[state](tanadi_guna_ownership/STATE.json) preserve both **3,983-ID sets /
+11,552 positions** with zero new credit; PG12 forms and frozen files
+remain unchanged. Python 3.12 document checks only; grammar tests,
+generators, replay and navigation/operator suites remain deferred.
+Next: svādi/kryādi register and exact-entry admission after T164.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

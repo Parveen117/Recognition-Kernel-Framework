@@ -683,6 +683,26 @@ Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
 
+## PG59: tanādi उ ownership, source policy and dependent branches
+
+[PG59](research/panini_grammar/tanadi_guna_ownership/README.md) resolves
+the ṛṇu/tṛṇu/ghṛṇu source question through the commentary's N/G
+root-guṇa policies, with the same separately owned vikaraṇa उ in both.
+Six construction groups, five controls and one explanatory correction
+give **twelve written units**. [Derivations](research/panini_grammar/tanadi_guna_ownership/DERIVATIONS.md)
+re-express **54 existing positions / 120 selected branch readings**;
+अर्णुतः and तर्णुते expose the two different grade causes, while
+the rṇ cluster makes later u-lopa a dependent choice.
+[Native continuation](research/panini_grammar/tanadi_guna_ownership/DOMAIN_AND_NATIVE.md)
+preserves source, target/nimitta addresses and the rejected branch, with
+typed zero-specialization and pairing compatibility. [T164 review](research/panini_grammar/tanadi_guna_ownership/COMPANION_REVIEW.md)
+records static marker/guard evidence and the corrected option authority;
+runtime integration remains open. [State](research/panini_grammar/tanadi_guna_ownership/STATE.json)
+retains both **3,983-ID sets / 11,552 positions**, with zero new position
+credit. Python 3.12 document checks only; grammar tests, generators,
+replay and navigation/operator suites remain deferred. Next: the
+svādi/kryādi register and lexical-admission boundaries.
+
 ## PG58: ख्शा/क्शा visibility and the effective PG27 vṛj correction
 
 [PG58](research/panini_grammar/khsha_visibility/README.md) constructs the
