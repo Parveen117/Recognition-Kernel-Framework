@@ -83,3 +83,5 @@ RH, YM                                                                          
 *Note (theorum/164).* Re-pinned again by theorum/164 (`f0a6e565…`): R4 742 of 976 replayed, 739 agree; R6's placement 319 rows / 252 ledger / 3278 neither (3.1.56, 7.4.16 and 1.2.2 now in the ledger). The pin `9650260f…` holds at commit d0c2fa2.
 
 *Note (theorum/165).* Re-pinned again by theorum/165 (`d4033fc8…`): R4 742 of 976 replayed, 739 agree; R6's placement 320 rows / 252 ledger / 3277 neither. The pin `f0a6e565…` holds at commit d5194a7.
+
+*Note (theorum/166).* Re-pinned again by theorum/166 (`e4e5af7e…`): R4 742 of 976 replayed, 739 agree; R6's placement 323 rows / 253 ledger / 3273 neither (7.1.59, 3.1.53, 7.4.17 and 3.1.54 now in the ledger). The pin `d4033fc8…` holds at commit bf1228f.

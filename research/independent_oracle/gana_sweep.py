@@ -128,11 +128,11 @@ def main() -> int:
         if vpada != pada:
             print(f"   ({root}: accent says {pada}, vidyut derives {vpada}; using {vpada})")
             pada = vpada
-        TIN.ROOTS[key] = (up, pada); TIN.GANA[key] = a.gana
+        TIN.ROOTS[key] = (up, pada); TIN.GANA[key] = a.gana; TIN.DHATUPATHA_ROOTS[key] = (up, pada, a.gana, entry[0])   # the entry's number travels with the provisional key (3.1.55's puṣādi is read by it)
         try:
             rows = sweep_root(v, key, entry, a.gana, pada)
         finally:
-            del TIN.ROOTS[key]; del TIN.GANA[key]
+            del TIN.ROOTS[key]; del TIN.GANA[key]; del TIN.DHATUPATHA_ROOTS[key]
         n = len(rows); ok = sum(1 for r in rows if r[3])
         bad = [(k, o, f) for k, o, f, g in rows if not g]
         byl = collections.Counter(k.split("|")[0] + "|" + k.split("|")[1] for k, _, _ in bad)

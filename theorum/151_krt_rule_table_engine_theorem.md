@@ -66,3 +66,5 @@ daridrā, śvasta, mṛditvā / mṛḍitvā; śatṛ / śānac, lyuṭ, ghañ, 
 *Note (theorum/164).* Re-pinned again by theorum/164 (`af8d9f69…`): the lane 2,531 / 2,546. The pin `f0f4a4c2…` holds at commit d0c2fa2.
 
 *Note (theorum/165).* Re-pinned again by theorum/165 (`4a46f089…`): the lane 4,074 / 4,119. The pin `af8d9f69…` holds at commit d5194a7.
+
+*Note (theorum/166).* Re-pinned again by theorum/166 (`ce4473db…`): the lane 4,982 / 5,034. The pin `4a46f089…` holds at commit bf1228f.

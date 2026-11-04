@@ -10,12 +10,12 @@
   ],
   "counts": {
     "compiled": 10,
-    "meta": 183,
-    "hand_coded": 447,
-    "cited": 410,
+    "meta": 184,
+    "hand_coded": 450,
+    "cited": 409,
     "misnumbered": 2,
-    "entries": 1052,
-    "text_missing": 96,
+    "entries": 1055,
+    "text_missing": 95,
     "astadhyayi_total": 3983,
     "not_in_pinned_edition": 0,
     "iast_mismatch_with_pinned_edition": 0
@@ -4096,6 +4096,39 @@
         "theorum/162_ting_rule_table_engine_vid_anj_caks_theorem.md"
       ]
     },
+    "3.1.53": {
+      "text": "lipisicihvaśca",
+      "text_devanagari": "लिपिसिचिह्वश्च",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T166"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/142_panini_kernel_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
+        "theorum/166_rows_by_sutra_group_pusadi_mucadi_satva_theorem.md"
+      ]
+    },
+    "3.1.54": {
+      "text": "ātmanepadeṣvanyatarasyām",
+      "text_devanagari": "आत्मनेपदेष्वन्यतरस्याम्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "meta",
+      "theorems": [
+        "T166"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/142_panini_kernel_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
+        "theorum/166_rows_by_sutra_group_pusadi_mucadi_satva_theorem.md"
+      ]
+    },
     "3.1.55": {
       "text": "puṣādidyutādyḷditaḥ parasmaipadeṣu",
       "text_devanagari": "पुषादिद्युताद्यॢदितः परस्मैपदेषु",
@@ -4116,7 +4149,8 @@
         "theorum/149_ting_rule_table_engine_san_theorem.md",
         "theorum/160_ting_rule_table_engine_written_roots_theorem.md",
         "theorum/164_gana_sweep_svadi_kryadi_theorem.md",
-        "theorum/165_gana_sweep_divadi_tudadi_theorem.md"
+        "theorum/165_gana_sweep_divadi_tudadi_theorem.md",
+        "theorum/166_rows_by_sutra_group_pusadi_mucadi_satva_theorem.md"
       ]
     },
     "3.1.56": {
@@ -8077,7 +8111,8 @@
         "theorum/147_ting_rule_table_engine_karmani_theorem.md",
         "theorum/149_ting_rule_table_engine_san_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
-        "theorum/165_gana_sweep_divadi_tudadi_theorem.md"
+        "theorum/165_gana_sweep_divadi_tudadi_theorem.md",
+        "theorum/166_rows_by_sutra_group_pusadi_mucadi_satva_theorem.md"
       ]
     },
     "6.1.17": {
@@ -8406,6 +8441,7 @@
         "theorum/129_ting_rule_table_engine_theorem.md",
         "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
         "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/166_rows_by_sutra_group_pusadi_mucadi_satva_theorem.md",
         "theorum/58_paninian_seam_calculus_theorem.md",
         "theorum/61_rewrite_rules_as_cut_module_operators_theorem.md",
         "theorum/62_silence_vibration_sutra_flow_theorem.md",
@@ -10162,7 +10198,8 @@
         "theorum/147_ting_rule_table_engine_karmani_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
         "theorum/162_ting_rule_table_engine_vid_anj_caks_theorem.md",
-        "theorum/165_gana_sweep_divadi_tudadi_theorem.md"
+        "theorum/165_gana_sweep_divadi_tudadi_theorem.md",
+        "theorum/166_rows_by_sutra_group_pusadi_mucadi_satva_theorem.md"
       ]
     },
     "6.4.26": {
@@ -10572,7 +10609,9 @@
         "theorum/139_ting_rule_table_engine_open_lane_theorem.md",
         "theorum/143_ting_rule_table_engine_open_lane_closed_theorem.md",
         "theorum/145_ting_rule_table_engine_lit_breadth_lrn_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
         "theorum/165_gana_sweep_divadi_tudadi_theorem.md",
+        "theorum/166_rows_by_sutra_group_pusadi_mucadi_satva_theorem.md",
         "theorum/67_pada_to_line_external_sandhi_theorem.md"
       ]
     },
@@ -12109,14 +12148,21 @@
       ]
     },
     "7.1.59": {
-      "text": "",
+      "text": "śe mucādīnām",
       "text_devanagari": "शे मुचादीनाम्",
       "in_pinned_edition": true,
-      "iast_matches_pinned_edition": null,
-      "level": "cited",
-      "theorems": [],
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T166"
+      ],
       "cited_in": [
-        "theorum/165_gana_sweep_divadi_tudadi_theorem.md"
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/142_panini_kernel_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
+        "theorum/165_gana_sweep_divadi_tudadi_theorem.md",
+        "theorum/166_rows_by_sutra_group_pusadi_mucadi_satva_theorem.md"
       ]
     },
     "7.1.64": {
@@ -12354,7 +12400,8 @@
         "theorum/147_ting_rule_table_engine_karmani_theorem.md",
         "theorum/149_ting_rule_table_engine_san_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
-        "theorum/165_gana_sweep_divadi_tudadi_theorem.md"
+        "theorum/165_gana_sweep_divadi_tudadi_theorem.md",
+        "theorum/166_rows_by_sutra_group_pusadi_mucadi_satva_theorem.md"
       ]
     },
     "7.1.102": {
@@ -12454,7 +12501,8 @@
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
         "theorum/146_ting_rule_table_engine_lun_breadth_theorem.md",
-        "theorum/165_gana_sweep_divadi_tudadi_theorem.md"
+        "theorum/165_gana_sweep_divadi_tudadi_theorem.md",
+        "theorum/166_rows_by_sutra_group_pusadi_mucadi_satva_theorem.md"
       ]
     },
     "7.2.8": {
@@ -13973,7 +14021,8 @@
       "level": "cited",
       "theorems": [],
       "cited_in": [
-        "theorum/165_gana_sweep_divadi_tudadi_theorem.md"
+        "theorum/165_gana_sweep_divadi_tudadi_theorem.md",
+        "theorum/166_rows_by_sutra_group_pusadi_mucadi_satva_theorem.md"
       ]
     },
     "7.3.72": {
@@ -14019,7 +14068,8 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/132_ting_rule_table_engine_vikarana_classes_theorem.md",
         "theorum/147_ting_rule_table_engine_karmani_theorem.md",
-        "theorum/165_gana_sweep_divadi_tudadi_theorem.md"
+        "theorum/165_gana_sweep_divadi_tudadi_theorem.md",
+        "theorum/166_rows_by_sutra_group_pusadi_mucadi_satva_theorem.md"
       ]
     },
     "7.3.77": {
@@ -14069,7 +14119,8 @@
         "proof_lab/ting_rule_table_engine.py",
         "theorum/142_panini_kernel_theorem.md",
         "theorum/149_ting_rule_table_engine_san_theorem.md",
-        "theorum/161_ting_rule_table_engine_rows_for_written_roots_theorem.md"
+        "theorum/161_ting_rule_table_engine_rows_for_written_roots_theorem.md",
+        "theorum/166_rows_by_sutra_group_pusadi_mucadi_satva_theorem.md"
       ]
     },
     "7.3.79": {
@@ -14084,7 +14135,8 @@
       "cited_in": [
         "proof_lab/ting_rule_table_engine.py",
         "theorum/134_ting_rule_table_engine_nasal_breadth_theorem.md",
-        "theorum/165_gana_sweep_divadi_tudadi_theorem.md"
+        "theorum/165_gana_sweep_divadi_tudadi_theorem.md",
+        "theorum/166_rows_by_sutra_group_pusadi_mucadi_satva_theorem.md"
       ]
     },
     "7.3.80": {
@@ -14916,6 +14968,23 @@
         "theorum/164_gana_sweep_svadi_kryadi_theorem.md"
       ]
     },
+    "7.4.17": {
+      "text": "asyatesthuk",
+      "text_devanagari": "अस्यतेस्थुक्",
+      "in_pinned_edition": true,
+      "iast_matches_pinned_edition": true,
+      "level": "hand_coded",
+      "theorems": [
+        "T166"
+      ],
+      "cited_in": [
+        "proof_lab/ting_rule_table_engine.py",
+        "theorum/142_panini_kernel_theorem.md",
+        "theorum/149_ting_rule_table_engine_san_theorem.md",
+        "theorum/155_written_construction_replay_ii_theorem.md",
+        "theorum/166_rows_by_sutra_group_pusadi_mucadi_satva_theorem.md"
+      ]
+    },
     "7.4.20": {
       "text": "vaca um",
       "text_devanagari": "वच उम्",
@@ -15008,7 +15077,8 @@
         "theorum/115_asirlin_parasmaipada_compiled_theorem.md",
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
         "theorum/147_ting_rule_table_engine_karmani_theorem.md",
-        "theorum/165_gana_sweep_divadi_tudadi_theorem.md"
+        "theorum/165_gana_sweep_divadi_tudadi_theorem.md",
+        "theorum/166_rows_by_sutra_group_pusadi_mucadi_satva_theorem.md"
       ]
     },
     "7.4.29": {
@@ -16024,7 +16094,8 @@
         "theorum/149_ting_rule_table_engine_san_theorem.md",
         "theorum/151_krt_rule_table_engine_theorem.md",
         "theorum/163_gana_sweep_adadi_juhotyadi_rudhadi_tanadi_theorem.md",
-        "theorum/165_gana_sweep_divadi_tudadi_theorem.md"
+        "theorum/165_gana_sweep_divadi_tudadi_theorem.md",
+        "theorum/166_rows_by_sutra_group_pusadi_mucadi_satva_theorem.md"
       ]
     },
     "8.2.37": {
@@ -16142,7 +16213,8 @@
         "theorum/144_ting_rule_table_engine_ardhadhatuka_lane_theorem.md",
         "theorum/149_ting_rule_table_engine_san_theorem.md",
         "theorum/162_ting_rule_table_engine_vid_anj_caks_theorem.md",
-        "theorum/165_gana_sweep_divadi_tudadi_theorem.md"
+        "theorum/165_gana_sweep_divadi_tudadi_theorem.md",
+        "theorum/166_rows_by_sutra_group_pusadi_mucadi_satva_theorem.md"
       ]
     },
     "8.2.42": {

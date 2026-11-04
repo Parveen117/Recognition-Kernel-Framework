@@ -62,3 +62,5 @@ RH, YM                                                                          
 *Note (theorum/164).* Re-pinned again by theorum/164 (`ad3c2dae…`): 72,710 / 74,400 cells. The pin `1c49be5b…` holds at commit d0c2fa2.
 
 *Note (theorum/165).* Re-pinned again by theorum/165 (`8fbf7061…`): 116,690 / 120,268 cells. The pin `ad3c2dae…` holds at commit d5194a7.
+
+*Note (theorum/166).* Re-pinned again by theorum/166 (`19892ed7…`): 142,659 / 146,970 cells. The pin `8fbf7061…` holds at commit bf1228f.

@@ -60,3 +60,5 @@ RH, YM                                                                          
 *Note (theorum/164).* Re-pinned again by theorum/164 (`ab73e1a8…`): 736 replayed, 678 agree, 56 the other branch of an option, 1 to adjudicate, 1 adjudicated; 8 roots undeclared. The pin `92aa86e0…` holds at commit d0c2fa2.
 
 *Note (theorum/165).* Re-pinned again by theorum/165 (`753db1c6…`): 737 replayed, 679 agree, 56 the other branch of an option, 1 to adjudicate, 1 adjudicated; 7 roots undeclared. The pin `ab73e1a8…` holds at commit d5194a7.
+
+*Note (theorum/166).* Re-pinned again by theorum/166 (`b2f221fb…`): 738 replayed, 680 agree, 56 the other branch of an option, 1 to adjudicate, 1 adjudicated; 6 roots undeclared. The pin `753db1c6…` holds at commit bf1228f.

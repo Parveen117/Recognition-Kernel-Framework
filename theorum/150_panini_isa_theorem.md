@@ -65,3 +65,5 @@ THAT THE CATALOGUE IS THE ONLY READING; THAT THE GUARDS ARE A FINITE INSTRUCTION
 *Note (theorum/164).* Re-pinned again by theorum/164 (`895d31c7…`). The pin `d6a39b60…` holds at commit d0c2fa2.
 
 *Note (theorum/165).* Re-pinned again by theorum/165 (`d8cc309c…`). The pin `895d31c7…` holds at commit d5194a7.
+
+*Note (theorum/166).* Re-pinned again by theorum/166 (`f4b9110e…`). The pin `d8cc309c…` holds at commit bf1228f.

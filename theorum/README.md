@@ -141,6 +141,7 @@ The advanced numbered surface now runs through Theorem 80:
 91. **163 — gaṇa sweep I: adādi, juhotyādi, rudhādi, tanādi from the Dhātupāṭha.** Every undeclared root of the four gaṇas compared with the table on 234 cells each; 29 declared whole with the lanes as their oracle, 13 inventoried by the sūtras their residue points to; theorem 159's replay 1,385 / 1,382 (3 adjudicated: *varjai*, not *vrajai*); the re-pin cascade one command.
 92. **164 — gaṇa sweep II: svādi, kryādi; vij, sṛ, śās's luṅ closed.** 28 roots declared with the lanes as their oracle; 1.2.2 *vija iṭ* (kit test), 3.1.56 and 7.4.16 as rows (*asarat*), 6.4.34 reaching the aṅ (*aśiṣat*); the certificate parallel under `--jobs` with the same digest; 11 entries inventoried.
 93. **165 — gaṇa sweep III: divādi, tudādi; six entries closed; the residue in twelve sūtra-groups.** 168 roots declared with the lanes as their oracle (233 from the Dhātupāṭha now); dhṝ, blī (7.3.80), svṝ, śṝñ (7.1.100 / 7.1.102 / 8.2.77 before the śnā), hi (7.3.56), ṛdh (7.4.70 / 7.4.71) closed; two loṭ 2s cells to adjudicate; 159 residue entries inventoried by sūtra-group (puṣādi 61, mucādi 27, 8.2.36 8 …).
+94. **166 — rows by sūtra-group I: puṣādi by order, mucādi / tṛmphādi, 8.2.36, iyaṅ / ir before śa, 3.1.53, 7.4.17.** The divādi / tudādi residue closed group by group; 101 roots declared (334 from the Dhātupāṭha); vyuṣ / pluṣ before puṣ to adjudicate.
 
 The canonical file number, not branch chronology, controls the reading order. The semantic theorem was filed as `45` on its isolated branch and was renumbered to `77` during the 2026-09-12 consolidation because canonical Theorem 45 already existed. No theorem content or evidence status changed in that rename.
 
@@ -188,7 +189,7 @@ Use the parallel morphic, topology, singularity, stratified, or thermodynamic li
 ## 8. Global claim boundary
 
 ```text
-NUMBERED THEOREM FILES 01-165                           PRESENT
+NUMBERED THEOREM FILES 01-166                           PRESENT
 THERMODYNAMIC FILES 01-10 + LAMBDA GEOMETRY            PRESENT
 MORPHIC RECOGNITION MR-01 THROUGH MR-03                 PRESENT
 RECOGNITION TOPOLOGY RT-01 THROUGH RT-04                PRESENT
