@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG41 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG42 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG41 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG42 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,38 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG42: foundational relations and early compounds — 3,176 bounded IDs
+
+[PG42](research/panini_grammar/foundational_relations/README.md) closes the
+first **300 combined catalogue gaps** from PG41, a sparse selection from
+**1.1.4 through 2.2.3**. All are also newly written IDs. Combined bounded reach
+is **2,876 → 3,176/3,983**; independent written reach is **2,741 → 3,041**.
+Finite positions remain **11,552**, with zero new positions/readings.
+
+[Domain](research/panini_grammar/foundational_relations/DOMAIN.md),
+[construction](research/panini_grammar/foundational_relations/CONSTRUCTION.md)
+and [register](research/panini_grammar/foundational_relations/RULE_REGISTER.json)
+retain scoped designations, original-form queries, contextual pada and kāraka
+relations, particle roles, compound fitness and dependent options. Five
+1.2.53–57 entries are interpretive boundaries, not rewriting operations.
+[Native continuation](research/panini_grammar/foundational_relations/NATIVE_CONTINUATION.md)
+instantiates the inherited full-carrier and typed zero-reading construction;
+the theorem hypotheses and canonical engine remain unchanged.
+
+[Source review](research/panini_grammar/foundational_relations/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/foundational_relations/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/foundational_relations/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/foundational_relations/COVERAGE.json)
+retain **1,371 literal fields**, explicit source differences and exact gaps.
+The extra Kāśikā तिरस्कृत्वा at 1.4.72 remains unresolved; the adopted
+construction has three dependent branches.
+[Predecessor review](research/panini_grammar/foundational_relations/PREDECESSOR_REVIEW.md)
+checks PG41's 391 rows, 1,233 fields and 33 pins, and closes the older Nyāsa
+file/nine-field audit limit. [Handoff/work](research/panini_grammar/foundational_relations/HANDOFF_AND_WORK.md)
+records unchanged companion T152 and deferred grammar/navigation/operator
+suites, independent generators and replay. **807 combined gaps** remain;
+the next is **2.2.4**. Full realization and independent verification remain open.
 
 ## PG41: abhyāsa, sentence context and tripādī — 2,876 bounded IDs
 

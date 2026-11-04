@@ -719,6 +719,33 @@ T152 and deferred suites/replay. The text endpoint leaves **1,107 combined
 catalogue gaps**; the next frontier returns to **1.1.4**. Full realization
 and independent executable verification remain open.
 
+**Next 300: foundational relations, roles and early compounds:**
+[PG42](foundational_relations/README.md) adds **300 new bounded written
+contracts**, closing the first 300 combined gaps from **1.1.4 through 2.2.3**.
+Combined bounded reach rises **2,876 → 3,176/3,983** and independent written
+reach **2,741 → 3,041**, with zero overlap in this batch. Finite positions
+remain **11,552**, with zero new positions/readings.
+
+[Domain](foundational_relations/DOMAIN.md),
+[construction](foundational_relations/CONSTRUCTION.md) and
+[register](foundational_relations/RULE_REGISTER.json) retain scoped
+designations, contextual pada/kāraka relations, particle roles, compound
+fitness and dependent choices. The five 1.2.53–57 entries are interpretive
+boundaries. [Native continuation](foundational_relations/NATIVE_CONTINUATION.md)
+instantiates the inherited full carrier and typed zero-reading.
+[Source review](foundational_relations/SOURCE_REVIEW.md),
+[archive](foundational_relations/SOURCE_EXCERPTS.json),
+[pins](foundational_relations/SOURCE_PINS.json) and
+[coverage](foundational_relations/COVERAGE.json) retain **1,371 literal fields**
+and exact gap accounting. At 1.4.72, three dependent branches are adopted and
+the extra Kāśikā तिरस्कृत्वा remains unresolved.
+[Predecessor review](foundational_relations/PREDECESSOR_REVIEW.md) checks PG41's
+391 rows, 1,233 fields and 33 pins and closes the older Nyāsa file/nine-field
+audit limit. [Handoff/work](foundational_relations/HANDOFF_AND_WORK.md) records
+unchanged Claude T152, deferred suites/replay and **807 remaining combined
+gaps**, beginning at **2.2.4**. Full realization and independent executable
+verification remain open.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
