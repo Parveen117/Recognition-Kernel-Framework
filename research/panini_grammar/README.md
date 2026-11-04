@@ -940,6 +940,27 @@ chain separately disclosed. [Coverage](siras_dependency_history/COVERAGE.json) r
 [Work/continuation](siras_dependency_history/WORK_RECORD.md) records the new T155 review, its lost-ν adapter finding, the unavailable
 local runtime, deferred tests/replay and the next full औडुलोम्या history. The local safeguard does not become a universal scheduling rule.
 
+**Enabling deletion and fresh admission:**
+
+[PG50](uduloman_dependency_history/README.md) constructs **two written paths to औडुलोम्या**
+from उडुलोमन्. Both first delete the whole base-अन् under इञ्, making the
+already-heavy लो penultimate before ष्यङ् admission. Seven shared stages
+lead to six replacement stages or seven added-affix stages. Six controls
+separate target span, weight, preservation conditions and historical witnesses.
+The rejected early-ष्यङ् continuation is diagnostic material only.
+
+[Domain/native continuation](uduloman_dependency_history/DOMAIN_AND_NATIVE.md) gives the
+bounded order witness and typed zero-reading proof. [Source notes](uduloman_dependency_history/SOURCE_NOTES.md)
+and [archive](uduloman_dependency_history/SOURCE_EXCERPTS.json) preserve **83 literal fields**,
+including the literal ड/ङ spelling distinction and qualified source policies.
+[Coverage](uduloman_dependency_history/COVERAGE.json) retains both **3,983-ID sets** and
+**11,552 positions**: zero new ID/position credits. [Work/progress](uduloman_dependency_history/WORK_AND_PROGRESS.md)
+answers the remaining-work question without an unsupported overall percentage,
+closes PG49's Nyāsa verification limit and names the next qualified
+कौमुदगन्धीपुत्रः/पति compound. [Concurrent review](uduloman_dependency_history/CONCURRENT_REVIEW.md)
+records the new T156 report separately. Grammar tests, generators, replay and
+navigation/operator suites remain deferred.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

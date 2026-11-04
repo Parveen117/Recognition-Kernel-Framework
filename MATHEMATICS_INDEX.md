@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG49 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG50 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG49 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG50 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,27 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG50: enabling deletion and fresh admission
+
+[PG50](research/panini_grammar/uduloman_dependency_history/README.md) constructs **two written paths to औडुलोम्या**
+from उडुलोमन्. Both first delete the whole base-अन् under इञ्, making the
+already-heavy लो penultimate before ष्यङ् admission. Seven shared stages
+lead to six replacement stages or seven added-affix stages. Six controls
+separate target span, weight, preservation conditions and historical witnesses.
+The rejected early-ष्यङ् continuation is diagnostic material only.
+
+[Domain/native continuation](research/panini_grammar/uduloman_dependency_history/DOMAIN_AND_NATIVE.md) gives the
+bounded order witness and typed zero-reading proof. [Source notes](research/panini_grammar/uduloman_dependency_history/SOURCE_NOTES.md)
+and [archive](research/panini_grammar/uduloman_dependency_history/SOURCE_EXCERPTS.json) preserve **83 literal fields**,
+including the literal ड/ङ spelling distinction and qualified source policies.
+[Coverage](research/panini_grammar/uduloman_dependency_history/COVERAGE.json) retains both **3,983-ID sets** and
+**11,552 positions**: zero new ID/position credits. [Work/progress](research/panini_grammar/uduloman_dependency_history/WORK_AND_PROGRESS.md)
+answers the remaining-work question without an unsupported overall percentage,
+closes PG49's Nyāsa verification limit and names the next qualified
+कौमुदगन्धीपुत्रः/पति compound. [Concurrent review](research/panini_grammar/uduloman_dependency_history/CONCURRENT_REVIEW.md)
+records the new T156 report separately. Grammar tests, generators, replay and
+navigation/operator suites remain deferred.
 
 ## PG49: शीर्ष replacement and consumer-specific dependency
 
