@@ -669,6 +669,30 @@ PG38's 352 rows, 1,095 fields, 28 file identities and eight targeted boundaries.
 Claude T152, deferred grammar/navigation/operator suites and the next
 frontier at **6.4.46**. Full word realization and lexical extensions remain open.
 
+**Next 300: aṅga, affix and abhyāsa:**
+[PG40](anga_affix_abhyasa/README.md) adds **545 written contracts** for
+**6.4.46–175, all 7.1–7.3 and 7.4.1–74**. After 244 combined overlaps,
+**301 new IDs** take bounded reach **2,260 → 2,561/3,983**. Independent
+written reach rises **1,954 → 2,405**, after 94 already-written overlaps.
+Finite positions remain **11,552**, with zero new positions/readings.
+
+[Domain](anga_affix_abhyasa/DOMAIN.md),
+[construction](anga_affix_abhyasa/CONSTRUCTION.md) and
+[register](anga_affix_abhyasa/RULE_REGISTER.json) retain iṭ origin and
+length decisions, suffix/case ownership, referent versus agreement,
+compound grade and copy histories. [Native continuation](anga_affix_abhyasa/NATIVE_CONTINUATION.md)
+instantiates the inherited full-carrier construction and typed zero-reading.
+[Source review](anga_affix_abhyasa/SOURCE_REVIEW.md),
+[archive](anga_affix_abhyasa/SOURCE_EXCERPTS.json),
+[pins](anga_affix_abhyasa/SOURCE_PINS.json) and
+[coverage](anga_affix_abhyasa/COVERAGE.json) retain 1,691 literal fields,
+adopted source policies and exact overlap accounting.
+[Predecessor review](anga_affix_abhyasa/PREDECESSOR_REVIEW.md) checks
+PG39's 329 rows, 1,047 fields, 29 file identities and eight selected boundaries.
+[Handoff/work](anga_affix_abhyasa/HANDOFF_AND_WORK.md) records unchanged
+Claude T152, deferred grammar/navigation/operator suites and the next
+frontier **7.4.75**. Full word realization and independent verification remain open.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

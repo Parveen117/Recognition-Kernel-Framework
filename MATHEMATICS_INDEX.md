@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG39 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG40 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG39 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG40 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,37 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG40: aṅga, affix and abhyāsa — 2,561 bounded IDs
+
+[PG40](research/panini_grammar/anga_affix_abhyasa/README.md) adds
+**545 bounded written contracts** for **6.4.46–175, all 7.1–7.3 and
+7.4.1–74**. After 244 combined overlaps, **301 new IDs** take bounded
+reach **2,260 → 2,561/3,983**. Independent written reach is
+**1,954 → 2,405**, after 94 already-written overlaps. Finite positions
+remain **11,552**; new positions and counted readings are zero.
+
+[Domain](research/panini_grammar/anga_affix_abhyasa/DOMAIN.md),
+[construction](research/panini_grammar/anga_affix_abhyasa/CONSTRUCTION.md)
+and [register](research/panini_grammar/anga_affix_abhyasa/RULE_REGISTER.json)
+retain iṭ origin/admission/length, exact suffix targets, original case,
+semantic versus external agreement, compound grade and copy histories.
+[Native continuation](research/panini_grammar/anga_affix_abhyasa/NATIVE_CONTINUATION.md)
+instantiates the existing full-carrier finite-history construction and
+typed zero-reading; frozen theorem hypotheses and canonical engine stay
+unchanged. No physical or universal AI-correctness result is claimed.
+
+[Source review](research/panini_grammar/anga_affix_abhyasa/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/anga_affix_abhyasa/SOURCE_EXCERPTS.json),
+[pins](research/panini_grammar/anga_affix_abhyasa/SOURCE_PINS.json) and
+[coverage](research/panini_grammar/anga_affix_abhyasa/COVERAGE.json)
+retain 1,691 literal fields, damaged/disputed readings and exact unions.
+[Predecessor review](research/panini_grammar/anga_affix_abhyasa/PREDECESSOR_REVIEW.md)
+checks PG39's 329 rows, 1,047 fields, 29 file identities and eight selected
+semantic boundaries. [Handoff/work](research/panini_grammar/anga_affix_abhyasa/HANDOFF_AND_WORK.md)
+records unchanged companion T152, deferred grammar/navigation/operator
+suites and the next sequential frontier **7.4.75**. Full realization,
+lexical normalization and runtime verification remain open.
 
 ## PG39: compound accent, retained cases and aṅga — 2,260 bounded IDs
 
