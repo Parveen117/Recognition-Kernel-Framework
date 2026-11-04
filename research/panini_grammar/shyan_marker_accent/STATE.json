@@ -1,0 +1,411 @@
+{
+  "schema": "rkf.panini.pg56.state.v1",
+  "author": "Monty",
+  "date": "2026-11-04",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "51badc7a87c2058157331600224f356b4a77a77a",
+    "path": "research/panini_grammar/hastin_compound_admission/STATE.json",
+    "reading_scope": "COUNTS_AND_ID_REFERENCES_INHERITED_WITHOUT_FULL_AUDIT",
+    "bytes": 10330,
+    "sha256": "a67aaacda36b8a7e4d37cfcacee1ff51a7f58225a748984c5a357bef0cce5386",
+    "git_blob_sha": "cfa1b0ca5c44afd031b6b7b39fb1479055d009c5"
+  },
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "finite_positions": 11552,
+  "new_catalogue_ids": [],
+  "new_positions": 0,
+  "new_paradigm_readings": 0,
+  "written_units": 11,
+  "block_counts": {
+    "H": 2,
+    "D": 3,
+    "C": 6
+  },
+  "stage_record_counts": {
+    "R": 7,
+    "P": 6
+  },
+  "stage_count_is_new_rule_count": false,
+  "reused_continuations": [
+    {
+      "commit": "51badc7a87c2058157331600224f356b4a77a77a",
+      "file": "research/panini_grammar/hastin_compound_admission/DERIVATIONS.md",
+      "address": "A01",
+      "purpose": "Qualified input and admission"
+    },
+    {
+      "commit": "51badc7a87c2058157331600224f356b4a77a77a",
+      "file": "research/panini_grammar/siras_dependency_history/DERIVATIONS.md",
+      "address": "S1-S5, R1-R7, A1-A7",
+      "purpose": "Morphology reused without duplicate credit"
+    },
+    {
+      "commit": "51badc7a87c2058157331600224f356b4a77a77a",
+      "file": "research/panini_grammar/gandha_descent_histories/DERIVATIONS.md",
+      "address": "S1-S16",
+      "purpose": "Existing an replacement for the nip competitor comparison"
+    },
+    {
+      "commit": "51badc7a87c2058157331600224f356b4a77a77a",
+      "file": "research/panini_grammar/feminine_host_histories/DERIVATIONS.md",
+      "address": "H03/F5",
+      "purpose": "Legitimate tap record in the bounded information-loss comparison"
+    }
+  ],
+  "recounted_morphological_histories": 0,
+  "records": [
+    {
+      "id": "H01",
+      "title": "Replacement followed by standard चाप्",
+      "kind": "POSITIVE_ACCENT_HISTORY",
+      "document": "research/panini_grammar/shyan_marker_accent/DERIVATIONS.md",
+      "line": 61,
+      "source_ids": [
+        "1.1.56",
+        "1.3.3",
+        "1.3.6",
+        "1.3.7",
+        "1.3.9",
+        "3.1.3",
+        "3.1.4",
+        "4.1.15",
+        "4.1.65",
+        "4.1.74",
+        "4.1.78",
+        "6.1.84",
+        "6.1.85",
+        "6.1.101",
+        "6.1.158",
+        "6.1.163",
+        "6.1.197",
+        "6.4.148",
+        "7.2.117",
+        "8.2.5"
+      ],
+      "stage_records": 7,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "diagnostic_scope": null,
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "H02",
+      "title": "Added ष्यङ् followed by the standard चाप्",
+      "kind": "POSITIVE_ACCENT_HISTORY",
+      "document": "research/panini_grammar/shyan_marker_accent/DERIVATIONS.md",
+      "line": 78,
+      "source_ids": [
+        "1.1.56",
+        "1.3.3",
+        "1.3.6",
+        "1.3.7",
+        "1.3.9",
+        "3.1.3",
+        "3.1.4",
+        "4.1.15",
+        "4.1.65",
+        "4.1.74",
+        "4.1.78",
+        "6.1.84",
+        "6.1.85",
+        "6.1.101",
+        "6.1.158",
+        "6.1.163",
+        "6.1.197",
+        "6.4.148",
+        "7.2.117",
+        "8.2.5"
+      ],
+      "stage_records": 6,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "diagnostic_scope": null,
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "D01",
+      "title": "Replacing चाप् by टाप् is an accent-changing diagnostic",
+      "kind": "DIAGNOSTIC_PROPOSAL",
+      "document": "research/panini_grammar/shyan_marker_accent/DERIVATIONS.md",
+      "line": 94,
+      "source_ids": [
+        "1.1.56",
+        "3.1.4",
+        "4.1.4",
+        "4.1.74",
+        "4.1.78",
+        "6.1.197"
+      ],
+      "stage_records": null,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "diagnostic_scope": "UNLICENSED_STANDARD_SUBSTITUTION_COUNTERFACTUAL",
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "D02",
+      "title": "Premature replacement cannot discard only the unwanted consequence",
+      "kind": "DIAGNOSTIC_PROPOSAL",
+      "document": "research/panini_grammar/shyan_marker_accent/DERIVATIONS.md",
+      "line": 104,
+      "source_ids": [
+        "1.3.3",
+        "1.3.9",
+        "4.1.78",
+        "6.1.197",
+        "7.2.117"
+      ],
+      "stage_records": null,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "diagnostic_scope": "REJECTED_PREMARKER_STRATEGY",
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "D03",
+      "title": "The redesigned added-affix argument is conditional",
+      "kind": "DIAGNOSTIC_PROPOSAL",
+      "document": "research/panini_grammar/shyan_marker_accent/DERIVATIONS.md",
+      "line": 114,
+      "source_ids": [
+        "3.1.3",
+        "3.1.4",
+        "4.1.4",
+        "4.1.41",
+        "4.1.74",
+        "4.1.78",
+        "6.1.13",
+        "6.1.158",
+        "8.2.5"
+      ],
+      "stage_records": null,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "diagnostic_scope": "CONDITIONAL_REDESIGNED_PRESENTATION_NOT_A_STANDARD_BRANCH",
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "C01",
+      "title": "ञ्, न् and ण् are not one marker class",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/shyan_marker_accent/DERIVATIONS.md",
+      "line": 131,
+      "source_ids": [
+        "6.1.197",
+        "7.2.117"
+      ],
+      "stage_records": null,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "diagnostic_scope": null,
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "C02",
+      "title": "A current vowel must belong to the guarded affix",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/shyan_marker_accent/DERIVATIONS.md",
+      "line": 139,
+      "source_ids": [
+        "1.1.56",
+        "4.1.15",
+        "4.1.65",
+        "4.1.78"
+      ],
+      "stage_records": null,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "diagnostic_scope": null,
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "C03",
+      "title": "Marker projection is different from whole-affix disappearance",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/shyan_marker_accent/DERIVATIONS.md",
+      "line": 147,
+      "source_ids": [
+        "1.1.62",
+        "1.1.63",
+        "1.3.9",
+        "4.1.78",
+        "6.1.197"
+      ],
+      "stage_records": null,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "diagnostic_scope": null,
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "C04",
+      "title": "चित् does not erase पित्",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/shyan_marker_accent/DERIVATIONS.md",
+      "line": 157,
+      "source_ids": [
+        "1.3.3",
+        "1.3.7",
+        "3.1.4",
+        "4.1.74",
+        "6.1.163",
+        "8.2.5"
+      ],
+      "stage_records": null,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "diagnostic_scope": null,
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "C05",
+      "title": "Accent precedence is not global rule-number sorting",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/shyan_marker_accent/DERIVATIONS.md",
+      "line": 165,
+      "source_ids": [
+        "4.1.74",
+        "4.1.78",
+        "6.1.158"
+      ],
+      "stage_records": null,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "diagnostic_scope": null,
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    },
+    {
+      "id": "C06",
+      "title": "Preserve damaged readings without using their wrong addresses",
+      "kind": "CONTROL",
+      "document": "research/panini_grammar/shyan_marker_accent/DERIVATIONS.md",
+      "line": 174,
+      "source_ids": [
+        "4.1.74",
+        "6.1.163"
+      ],
+      "stage_records": null,
+      "status": "BOUNDED_WRITTEN_NOT_EXECUTED",
+      "diagnostic_scope": null,
+      "new_position_credit": 0,
+      "complete_paradigm": false
+    }
+  ],
+  "referenced_existing_ids": [
+    "1.1.56",
+    "1.1.62",
+    "1.1.63",
+    "1.3.3",
+    "1.3.6",
+    "1.3.7",
+    "1.3.9",
+    "3.1.3",
+    "3.1.4",
+    "4.1.4",
+    "4.1.15",
+    "4.1.41",
+    "4.1.65",
+    "4.1.74",
+    "4.1.78",
+    "6.1.13",
+    "6.1.84",
+    "6.1.85",
+    "6.1.101",
+    "6.1.158",
+    "6.1.163",
+    "6.1.197",
+    "6.4.148",
+    "7.2.117",
+    "8.2.5"
+  ],
+  "new_literal_fields": 29,
+  "grammar_executions": 0,
+  "overall_grammar_completion_percent": null,
+  "resolved_previous_frontier": {
+    "marker_recognition_timing": "NIT_RECOGNIZED_WHEN_SUBSTITUTION_OCCURS_NOT_A_UNIVERSAL_ORDER_FOR_THE_GRADE_EVENT",
+    "nip_nis_guard_ownership": true,
+    "standard_cap_accent": "FINAL_AA_UDATTA",
+    "positive_annotated_form": "hāstiśīrṣyā́",
+    "unaccented_form": "हास्तिशीर्ष्या",
+    "notation_is_literal_source_quote": false,
+    "full_recitation": false,
+    "marker_redesign_globally_proved": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "python_311_test_runs": 0,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED",
+    "certificate_replay": "DEFERRED",
+    "navigation_suite": "DEFERRED",
+    "operator_suite": "DEFERRED"
+  },
+  "companion": {
+    "head": "cc7b39bb70aec81579fefa27c8aac5db89480da5",
+    "prior_head": "6469a927b8c75dcd7629a85e8ee84d96e0ebd2be",
+    "commits_observed": 1,
+    "stage": "T162",
+    "review_scope": "CAPSULE_AND_SELECTED_GUARDS_DIFFS_ONLY",
+    "report_file": "COMPANION_REVIEW.md",
+    "reported_suite": {
+      "agree": 1072,
+      "total": 1072
+    },
+    "reported_new_root_kartari": {
+      "agree": 270,
+      "total": 270
+    },
+    "reported_krt": {
+      "agree": 2004,
+      "total": 2012
+    },
+    "reported_krdanta": {
+      "agree": 57643,
+      "total": 58822
+    },
+    "reported_modal_iii": {
+      "agree": 1043,
+      "total": 1043
+    },
+    "reported_runtime": "Python3.12",
+    "caks_disputed_scope_cells": {
+      "verbal": 144,
+      "krt": 9
+    },
+    "krt_agreement_includes_unadjudicated_shared_omission": true,
+    "expected_set_membership_limit_remains": true,
+    "pg19_metadata_merge_limit_inherited": true,
+    "execution_rerun": false,
+    "pg56_runtime_coverage_claimed": false
+  },
+  "next_work": {
+    "kind": "CAKS_KHYA_ARDHADHATUKA_SCOPE_ADJUDICATION",
+    "needs": [
+      "2.4.35/54/55 scope and source examples",
+      "Actual yak/nic/san and krt derivations",
+      "Distinguish shared oracle omission from source validity",
+      "Record any unresolved textual or designation boundary"
+    ],
+    "completed": false
+  },
+  "open_obligations": [
+    "Full recitation, svarita and sentence accent.",
+    "Complete nominal paradigms.",
+    "Full downstream reduced-marker redesign.",
+    "General accent competition, source-policy arbitration and scheduling.",
+    "General semantic/lexical/lineage admission.",
+    "Separate Unadi corpus completion.",
+    "Runtime integration and deferred execution."
+  ]
+}

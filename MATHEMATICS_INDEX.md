@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG55 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG56 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG55 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG56 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,26 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG56: ष्यङ् markers, feminine competitors and stem accent
+
+[PG56](research/panini_grammar/shyan_marker_accent/README.md) adds two positive
+accent histories for **hāstiśīrṣyā́**, with final आ उदात्त, to the inherited
+morphology. Three diagnostic proposals and six controls make **eleven written units**.
+ञित् recognition, the sound-dependent ङीप्/ङीष् guards, चित्/पित्
+competition and coalesced-vowel ownership remain distinct. A proposed marker
+redesign is not installed as a standard optional branch.
+
+[Native continuation](research/panini_grammar/shyan_marker_accent/DOMAIN_AND_NATIVE.md)
+extends the full carrier and reuses the typed zero-reading/pairing proof.
+[Sources](research/panini_grammar/shyan_marker_accent/SOURCE_EXCERPTS.json) add
+**29 literal fields**. [State](research/panini_grammar/shyan_marker_accent/STATE.json)
+retains both **3,983-ID sets / 11,552 positions** with no duplicate morphology
+or new position credit. [T162 review](research/panini_grammar/shyan_marker_accent/COMPANION_REVIEW.md)
+separates reported finite results from selected code inspection and preserves
+the open cakṣ/khyā scope question as the next written task. Changed-document
+checks use Python 3.12 only; grammar tests, generators, replay and navigation/
+operator suites remain deferred. Full recitation and nominal paradigms stay open.
 
 ## PG55: हस्तिन्, compound boundaries and witnessed descent admission
 

@@ -1051,6 +1051,23 @@ Changed-document checks use Python 3.12 only; tests, generators, replay and
 navigation/operator suites remain deferred. Next: the 4.1.78 competing feminine
 suffix/marker and accent argument.
 
+**ष्यङ् marker constraints and the final उदात्त:**
+
+[PG56](shyan_marker_accent/README.md) adds two standard accent histories for
+**hāstiśīrṣyā́**, three diagnostic proposals and six controls: **eleven written units**.
+It distinguishes marker recognition from projection, qualifies the ङीप्/ङीष्
+competitors and records why standard चाप् supplies the final-U accent.
+The alternative टाप्/marker-redesign discussion stays conditional.
+[Native continuation](shyan_marker_accent/DOMAIN_AND_NATIVE.md) retains the
+owned accent and precedence records with typed zero-reading compatibility.
+[Sources](shyan_marker_accent/SOURCE_EXCERPTS.json) add **29 literal fields**;
+[state](shyan_marker_accent/STATE.json) retains both **3,983-ID sets / 11,552 positions**
+without duplicate morphology or new position credit. [T162 review](shyan_marker_accent/COMPANION_REVIEW.md)
+records the companion's new cutoff and the open cakṣ → khyā scope question,
+which is the next written block. Document checks use Python 3.12 only;
+grammar tests, generators, replay and navigation/operator suites remain deferred.
+Full recitation, nominal paradigms and the global marker redesign remain open.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
