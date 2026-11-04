@@ -857,6 +857,38 @@ next stage to **written interaction and realization**, adding zero catalogue
 IDs. The companion remains T152; grammar tests, generators, replay and
 navigation/operator suites remain deferred.
 
+**After ID closure: addressed rule interactions:**
+
+[PG47](interaction_histories/README.md) constructs **29 written history
+units** across addressed instructions, designation/deletion consumers,
+qualified competition and dependent realization. Both catalogue-ID sets
+remain **3,983/3,983**; finite positions remain **11,552**. New ID,
+position and counted-paradigm-reading credit is zero.
+
+The [interface](interaction_histories/INTERFACE.md) preserves revision-bound
+admission, token and sound-version addresses, source-clause/policy origins,
+consumer views and Open obligations. [Instruction](interaction_histories/INSTRUCTION_HISTORIES.md),
+[designation](interaction_histories/DESIGNATION_HISTORIES.md),
+[competition](interaction_histories/COMPETITION_HISTORIES.md) and
+[realization histories](interaction_histories/REALIZATION_HISTORIES.md)
+include coupled मनु branches, inner-affix replacement and the prerequisite
+टि deletion for औडुलोम्या. The [register](interaction_histories/HISTORY_REGISTER.json)
+records each local scope; these are not executed cases or full paradigms.
+
+[Source review](interaction_histories/SOURCE_REVIEW.md),
+[archive](interaction_histories/SOURCE_EXCERPTS.json) and
+[pins](interaction_histories/SOURCE_PINS.json) preserve **333 literal fields**
+and **39 file pins**, including the local Nyāsa 3.4.117 reference correction
+to 6.4.67. [Native continuation](interaction_histories/NATIVE_CONTINUATION.md)
+retains the full carrier and typed zero-reading under inherited assumptions.
+[Predecessor review](interaction_histories/PREDECESSOR_REVIEW.md) checks
+PG46's 135 rows, 902 literals and 41 pins; [coverage](interaction_histories/COVERAGE.json)
+preserves the exact inherited ID sets. [Handoff/work](interaction_histories/HANDOFF_AND_WORK.md)
+and [frontier](interaction_histories/FRONTIER.md) target the nested
+4.1.78→4.1.120→6.4.151 provenance/य-lopa history next. The companion remains
+T152; grammar tests, generators, replay and navigation/operator suites stay
+deferred. Full grammar integration, general admission and accent remain open.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

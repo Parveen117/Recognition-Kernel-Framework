@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG46 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG47 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG46 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG47 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,38 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG47: addressed interactions and 29 worked history units
+
+[PG47](research/panini_grammar/interaction_histories/README.md) constructs **29 written history
+units** across addressed instructions, designation/deletion consumers,
+qualified competition and dependent realization. Both catalogue-ID sets
+remain **3,983/3,983**; finite positions remain **11,552**. New ID,
+position and counted-paradigm-reading credit is zero.
+
+The [interface](research/panini_grammar/interaction_histories/INTERFACE.md) preserves revision-bound
+admission, token and sound-version addresses, source-clause/policy origins,
+consumer views and Open obligations. [Instruction](research/panini_grammar/interaction_histories/INSTRUCTION_HISTORIES.md),
+[designation](research/panini_grammar/interaction_histories/DESIGNATION_HISTORIES.md),
+[competition](research/panini_grammar/interaction_histories/COMPETITION_HISTORIES.md) and
+[realization histories](research/panini_grammar/interaction_histories/REALIZATION_HISTORIES.md)
+include coupled मनु branches, inner-affix replacement and the prerequisite
+टि deletion for औडुलोम्या. The [register](research/panini_grammar/interaction_histories/HISTORY_REGISTER.json)
+records each local scope; these are not executed cases or full paradigms.
+
+[Source review](research/panini_grammar/interaction_histories/SOURCE_REVIEW.md),
+[archive](research/panini_grammar/interaction_histories/SOURCE_EXCERPTS.json) and
+[pins](research/panini_grammar/interaction_histories/SOURCE_PINS.json) preserve **333 literal fields**
+and **39 file pins**, including the local Nyāsa 3.4.117 reference correction
+to 6.4.67. [Native continuation](research/panini_grammar/interaction_histories/NATIVE_CONTINUATION.md)
+retains the full carrier and typed zero-reading under inherited assumptions.
+[Predecessor review](research/panini_grammar/interaction_histories/PREDECESSOR_REVIEW.md) checks
+PG46's 135 rows, 902 literals and 41 pins; [coverage](research/panini_grammar/interaction_histories/COVERAGE.json)
+preserves the exact inherited ID sets. [Handoff/work](research/panini_grammar/interaction_histories/HANDOFF_AND_WORK.md)
+and [frontier](research/panini_grammar/interaction_histories/FRONTIER.md) target the nested
+4.1.78→4.1.120→6.4.151 provenance/य-lopa history next. The companion remains
+T152; grammar tests, generators, replay and navigation/operator suites stay
+deferred. Full grammar integration, general admission and accent remain open.
 
 ## PG46: independent-written ID closure — both sets at 3,983
 
