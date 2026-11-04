@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG51 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 4 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG52 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG51 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG52 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,28 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG52: scoped feminine owners, shortening and a fresh suffix
+
+[PG52](research/panini_grammar/feminine_host_histories/README.md) constructs the inner
+**परमकारीषगन्ध्या / अतिकारीषगन्ध्य** histories and their outer पुत्र/पति
+queries. Three histories and nine controls give **twelve written units**.
+The feminine अति path reconstructs old आ→अ, a fresh टाप्, then अ+आ→आ;
+the new suffix's principal role does not transfer to the old subordinate ष्यङ्.
+[Sources](research/panini_grammar/feminine_host_histories/SOURCE_NOTES.md) distinguish literal
+gender branches, reconstructed intermediates, unresolved mixed readings and
+the corrected पुंवद्भाव catalogue ID **6.3.34**.
+
+[Domain/native continuation](research/panini_grammar/feminine_host_histories/DOMAIN_AND_NATIVE.md)
+retains scoped owner guards and proves typed zero-reading/pairing compatibility.
+The [archive](research/panini_grammar/feminine_host_histories/SOURCE_EXCERPTS.json) contains
+**84 literal fields**; four complete primary files are rehashed.
+[Coverage](research/panini_grammar/feminine_host_histories/COVERAGE.json) preserves both
+**3,983-ID sets** and **11,552 positions**, with no new ID/position credit.
+[Companion review](research/panini_grammar/feminine_host_histories/CONCURRENT_REVIEW.md) records
+the unchanged T159 head and implementation handoff. [Next work](research/panini_grammar/feminine_host_histories/WORK_RECORD.md)
+constructs the earlier lexical/descent preparation of the supplied feminine
+stem. Grammar tests, generators, replay and navigation/operator suites remain deferred.
 
 ## PG51: addressed ष्यङ् and the actual compound node
 

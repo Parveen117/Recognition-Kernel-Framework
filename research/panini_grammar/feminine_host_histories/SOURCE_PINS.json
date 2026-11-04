@@ -1,0 +1,480 @@
+{
+  "schema": "rkf.panini.pg52.source_pins.v1",
+  "author": "Monty",
+  "date": "2026-11-04",
+  "construction_base": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "branch": "codex/panini-grammar-verification",
+    "commit": "dcf53398395303c155403dd180066ccf4d825f46",
+    "tree": "03ac235c591dd94339fe59d6c291700a59d4061c"
+  },
+  "primary": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/data.txt",
+      "bytes": 3979366,
+      "sha256": "6a22591f418cd924ba4bd621944de2359cc06721b5ada79ef08d70f17a07bcc6",
+      "git_blob_sha": "c847b9e41054ec7efb9e63c0fdc093faa0007980"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kashika.txt",
+      "bytes": 3806703,
+      "sha256": "ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254",
+      "git_blob_sha": "e525df7668835ef1dd7c5988c031da07ce0c162b"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/nyaas.txt",
+      "bytes": 9286920,
+      "sha256": "09766f127e9523d911179065fed777a17c4f832b336e745f13c0b2cebc76c0ce",
+      "git_blob_sha": "8ecc8bbb657a42be8606fe07fa0c72c9cb7fa1b1"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/padamanjari.txt",
+      "bytes": 7828904,
+      "sha256": "93b817859e7333f326b0aaec7f17b03d83ff3d34cf3200402e929e8a21ce28cc",
+      "git_blob_sha": "0d926503e6f22d6375c6f2fabb247d1606742258"
+    }
+  ],
+  "predecessors": [
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "path": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md",
+      "bytes": 7866,
+      "sha256": "db37b2090be4c3c6a4a4bd341ed19fcf96a8ca1ffc0353eeae394ba359e618ed",
+      "git_blob_sha": "7611322a1962e559973b814a2288ffab10420da4"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "path": "research/panini_grammar/shyan_compound_histories/CONTROLS.md",
+      "bytes": 7497,
+      "sha256": "e9e9ac2d439b1fa51628f70925de689c614b62d6d1cf9646499a32b579aa8ab6",
+      "git_blob_sha": "e1eb68d07cac81ba36a0733a3204f288aa1f9a20"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "path": "research/panini_grammar/shyan_compound_histories/COVERAGE.json",
+      "bytes": 133930,
+      "sha256": "e06bcc3e585f4bc6650eed643680cef079778b8ed4b6be39ec57a19586aa3a7b",
+      "git_blob_sha": "eb6dc1239269bb97978a2fae2aa91e12dcd871d0"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "path": "research/panini_grammar/shyan_compound_histories/DERIVATIONS.md",
+      "bytes": 11101,
+      "sha256": "6d1ec2a39131d99cd4b808fb61b59f2366a384ff337f1bac47c1281dccb9237b",
+      "git_blob_sha": "e6d36cd6786887ae5788644fbed4c9681108a4b5"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "path": "research/panini_grammar/shyan_compound_histories/DOMAIN_AND_NATIVE.md",
+      "bytes": 7093,
+      "sha256": "07cd64b9a298ad9068c9ec0fea99c047f947b36a62b7052d69d53c8ddc10eb7e",
+      "git_blob_sha": "64b6ecc5b0035ea7cf5697eee18cf63db576e0da"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "path": "research/panini_grammar/shyan_compound_histories/HISTORY_REGISTER.json",
+      "bytes": 10237,
+      "sha256": "7525e40b22c5a293b9b58db3f40e775511eb947158e52697fe4051e4d2cff439",
+      "git_blob_sha": "321bfc593a0e0b11a4d20074dcc8afae05254fa6"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "path": "research/panini_grammar/shyan_compound_histories/README.md",
+      "bytes": 3050,
+      "sha256": "1619c2dbd0c63140abc0dc2634526bfe45520de0b68606ff4b3a634352f1ffd1",
+      "git_blob_sha": "13eee7cbeb578720c9989dd1bb5a610dccd9b6fa"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "path": "research/panini_grammar/shyan_compound_histories/SOURCE_EXCERPTS.json",
+      "bytes": 125586,
+      "sha256": "004b47967916e71970c8e6a3063388849e49365018314d079d8d8c00acdc58a9",
+      "git_blob_sha": "10d9522f5501afb6847559003d12770a2882c3f5"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "path": "research/panini_grammar/shyan_compound_histories/SOURCE_NOTES.md",
+      "bytes": 5541,
+      "sha256": "7c7445934bbd7e5c76c659a334226c01150b1069873063b736f7de10313466fc",
+      "git_blob_sha": "c72e1d1429dafd6c547b94021d322f91fd7e145b"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "path": "research/panini_grammar/shyan_compound_histories/SOURCE_PINS.json",
+      "bytes": 19792,
+      "sha256": "294ddb6d1e6026817de77511512fcdeab470e2624a3b0d8eb830530af1958e47",
+      "git_blob_sha": "6fa4d24489f9e26e79259367f422473b4b6882d1"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "path": "research/panini_grammar/shyan_compound_histories/WORK_RECORD.md",
+      "bytes": 5668,
+      "sha256": "867d9b002463100948a6413a6035bc74faba0dc64adac29b6e70f987383a4ea9",
+      "git_blob_sha": "a5fa3267168e73d9f89b335397c76b9bca6a3395"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "path": "MATHEMATICS_INDEX.md",
+      "bytes": 192091,
+      "sha256": "c3fd2f0670d0b2f95e872d67014a967ecafbbc8a6cb507c8b71466cad563dd91",
+      "git_blob_sha": "8c034d04fc57afdee67a79bfcd973a214a0a9fc3"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "path": "research/panini_grammar/README.md",
+      "bytes": 67672,
+      "sha256": "5d0a72f6345c559ddbbfe0821549f0c29c9b4223770dd19e471a16807d143b2d",
+      "git_blob_sha": "eaaf0375919ed7331f91ae46bb53e8c60b1ea9a9"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "path": "operator_foundation/CANONICAL_HOME.json",
+      "bytes": 440,
+      "sha256": "6c5a7756ff220e7a9afa7fdb72151781f1777e2099880788f21a1e1b780ced39",
+      "git_blob_sha": "f22847fe52944214912fa66524d0edb1fc2448a4"
+    }
+  ],
+  "companion": [
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "1f2453fca40d5fd152684018e6cb0bfc17e17225",
+      "path": "theorum/157_written_modal_registers_replay_ii_theorem.md",
+      "bytes": 7276,
+      "sha256": "3fae08786cc3f32a0eccf3b77e51d0f758f0a5e48909e60066c5d8551fd4684f",
+      "git_blob_sha": "3ce237ab1eb8ce2862bcc851f3c0cf5e16103ffa",
+      "reading_scope": "BYTE_RECHECK_WITH_PG51_SEMANTIC_REVIEW_INHERITED",
+      "prior_commit": "9fc4399b9a785ca830b7c9c507f95fc684a242fd",
+      "inherited_reading_scope": "FULL_FILE_READ",
+      "inherited_review_commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "inherited_review_file": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "1f2453fca40d5fd152684018e6cb0bfc17e17225",
+      "path": "theorum/158_ting_rule_table_engine_sas_correction_theorem.md",
+      "bytes": 5103,
+      "sha256": "3b8b2cf2f23aa97ca6e2a9ab19d4bb7b97872e9548c875676a6607bd1fd97589",
+      "git_blob_sha": "46982a191d38db9498d9e2ef5ed3f4bed2d453f0",
+      "reading_scope": "BYTE_RECHECK_WITH_PG51_SEMANTIC_REVIEW_INHERITED",
+      "prior_commit": "9fc4399b9a785ca830b7c9c507f95fc684a242fd",
+      "inherited_reading_scope": "FULL_FILE_READ",
+      "inherited_review_commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "inherited_review_file": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "1f2453fca40d5fd152684018e6cb0bfc17e17225",
+      "path": "proof_lab/pg_modal_registers_ii.py",
+      "bytes": 18740,
+      "sha256": "3f4d48376f3ad25cf5505e3f9edc99eba0c90f8b72d972d72adb5574ee729f3e",
+      "git_blob_sha": "73d9a1ca8c7a750a8fe403f66eabf50b04ad466e",
+      "reading_scope": "BYTE_RECHECK_WITH_PG51_SEMANTIC_REVIEW_INHERITED",
+      "prior_commit": "9fc4399b9a785ca830b7c9c507f95fc684a242fd",
+      "inherited_reading_scope": "FULL_FILE_READ",
+      "inherited_review_commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "inherited_review_file": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "1f2453fca40d5fd152684018e6cb0bfc17e17225",
+      "path": "proof_lab/test_pg_modal_registers_ii.py",
+      "bytes": 2538,
+      "sha256": "6b5e5456a2b4fd88c8c675b835d4cf78e990e71721132181daf79adc16d3346b",
+      "git_blob_sha": "fa1e902f37e734d0f981b1da541dbf884cc866b8",
+      "reading_scope": "BYTE_RECHECK_WITH_PG51_SEMANTIC_REVIEW_INHERITED",
+      "prior_commit": "9fc4399b9a785ca830b7c9c507f95fc684a242fd",
+      "inherited_reading_scope": "FULL_FILE_READ",
+      "inherited_review_commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "inherited_review_file": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "1f2453fca40d5fd152684018e6cb0bfc17e17225",
+      "path": "proof_lab/test_ting_rule_table_engine.py",
+      "bytes": 1916,
+      "sha256": "8b0cec47b2fcd063bb71ff02c0e4fef67b132d9e7994c31ada811dc6592539ea",
+      "git_blob_sha": "d65acb4956160d98898bc03014d2b446133aeac0",
+      "reading_scope": "BYTE_RECHECK_WITH_PG51_SEMANTIC_REVIEW_INHERITED",
+      "prior_commit": "9fc4399b9a785ca830b7c9c507f95fc684a242fd",
+      "inherited_reading_scope": "FULL_FILE_READ",
+      "inherited_review_commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "inherited_review_file": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "1f2453fca40d5fd152684018e6cb0bfc17e17225",
+      "path": "research/panini_grammar/lexical_modals/PARADIGMS.md",
+      "bytes": 4704,
+      "sha256": "0409ab6117d64bf3702a045253f8fe9c7f31e14307e19b4ee75c13a9d01d89a8",
+      "git_blob_sha": "58ec135cbd9f830870881836c7dbf40748ac3a20",
+      "reading_scope": "BYTE_RECHECK_WITH_PG51_SEMANTIC_REVIEW_INHERITED",
+      "prior_commit": "9fc4399b9a785ca830b7c9c507f95fc684a242fd",
+      "inherited_reading_scope": "FULL_FILE_READ",
+      "inherited_review_commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "inherited_review_file": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "1f2453fca40d5fd152684018e6cb0bfc17e17225",
+      "path": "research/panini_grammar/lexical_modals/EXCEPTION_DERIVATIONS.md",
+      "bytes": 6909,
+      "sha256": "f60084dd30de46210c14f3cab1bd9184acbeec5641de7b426882c5f61c1b859a",
+      "git_blob_sha": "85db6bcadcf0dc0e67e03e4fc333bd5d7b730408",
+      "reading_scope": "BYTE_RECHECK_WITH_PG51_SEMANTIC_REVIEW_INHERITED",
+      "prior_commit": "9fc4399b9a785ca830b7c9c507f95fc684a242fd",
+      "inherited_reading_scope": "FULL_FILE_READ",
+      "inherited_review_commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "inherited_review_file": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "1f2453fca40d5fd152684018e6cb0bfc17e17225",
+      "path": "research/panini_grammar/lexical_modals/SOURCE_REVIEW.md",
+      "bytes": 7019,
+      "sha256": "2228bdeb498eeeff94f55f70bd8d3f26806ed6561367a4ed79ff3a513280c4b9",
+      "git_blob_sha": "d78d028cbfb6b42f7c45adc62ff53374c254e035",
+      "reading_scope": "BYTE_RECHECK_WITH_PG51_SEMANTIC_REVIEW_INHERITED",
+      "prior_commit": "9fc4399b9a785ca830b7c9c507f95fc684a242fd",
+      "inherited_reading_scope": "FULL_FILE_READ",
+      "inherited_review_commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "inherited_review_file": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "1f2453fca40d5fd152684018e6cb0bfc17e17225",
+      "path": "proof_lab/PG_MODAL_REGISTERS_II_EXPECTED.sha256",
+      "bytes": 65,
+      "sha256": "5c6bbcb065ef6864517ede7d9c85edc6ee34832ebef4f92e5ad4c7fd07e5e008",
+      "git_blob_sha": "bd14dd8b6ccff6daeab8d5afc7074a0795bd40a0",
+      "reading_scope": "BYTE_RECHECK_WITH_PG51_SEMANTIC_REVIEW_INHERITED",
+      "prior_commit": "9fc4399b9a785ca830b7c9c507f95fc684a242fd",
+      "inherited_reading_scope": "FULL_FILE_READ",
+      "inherited_review_commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "inherited_review_file": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "1f2453fca40d5fd152684018e6cb0bfc17e17225",
+      "path": "proof_lab/PG_WRITTEN_REPLAY_EXPECTED.sha256",
+      "bytes": 65,
+      "sha256": "8acc0c16659e9dcfbd252ded40cf637238bacc29503a18b9e88031c21444e719",
+      "git_blob_sha": "5a82206a3ca83769bf8db5ec66db37fd98282626",
+      "reading_scope": "BYTE_RECHECK_WITH_PG51_SEMANTIC_REVIEW_INHERITED",
+      "prior_commit": "9fc4399b9a785ca830b7c9c507f95fc684a242fd",
+      "inherited_reading_scope": "FULL_FILE_READ",
+      "inherited_review_commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "inherited_review_file": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "1f2453fca40d5fd152684018e6cb0bfc17e17225",
+      "path": "proof_lab/TING_RULE_TABLE_ENGINE_EXPECTED.sha256",
+      "bytes": 65,
+      "sha256": "00e759ab99414f84b26d06c6eacbc5c775271da5f114bb894494d6169d6d31f4",
+      "git_blob_sha": "5da2f9a6ac6b0bb89f38aa33995953af53f32c01",
+      "reading_scope": "BYTE_RECHECK_WITH_PG51_SEMANTIC_REVIEW_INHERITED",
+      "prior_commit": "9fc4399b9a785ca830b7c9c507f95fc684a242fd",
+      "inherited_reading_scope": "FULL_FILE_READ",
+      "inherited_review_commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "inherited_review_file": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "1f2453fca40d5fd152684018e6cb0bfc17e17225",
+      "path": "proof_lab/PANINI_KERNEL_EXPECTED.sha256",
+      "bytes": 65,
+      "sha256": "7a6dc81a707c0d1e259205c4ecb4b09608efc168a07d5a5625d407861d88921f",
+      "git_blob_sha": "a00c8f413abbb7289f996a77df97b34a4886f557",
+      "reading_scope": "BYTE_RECHECK_WITH_PG51_SEMANTIC_REVIEW_INHERITED",
+      "prior_commit": "9fc4399b9a785ca830b7c9c507f95fc684a242fd",
+      "inherited_reading_scope": "FULL_FILE_READ",
+      "inherited_review_commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "inherited_review_file": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "1f2453fca40d5fd152684018e6cb0bfc17e17225",
+      "path": "proof_lab/ting_rule_table_engine.py",
+      "bytes": 170120,
+      "sha256": "8ba47fac379db202ce514a39a3234eedf03d1e255d172fa4e110e512d32d1a1d",
+      "git_blob_sha": "75259bec934d3e8fb2b03f0c92928d1fc8a69d39",
+      "reading_scope": "BYTE_RECHECK_WITH_PG51_SEMANTIC_REVIEW_INHERITED",
+      "prior_commit": "9fc4399b9a785ca830b7c9c507f95fc684a242fd",
+      "inherited_reading_scope": "CHANGED_ROWS_AND_DIFF_REVIEWED_WHOLE_FILE_HASHED",
+      "inherited_review_commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "inherited_review_file": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "1f2453fca40d5fd152684018e6cb0bfc17e17225",
+      "path": "proof_lab/pg_written_replay.py",
+      "bytes": 30865,
+      "sha256": "f74172768ac2dc3ffa96d517fe4ae9c7c3af792c65ed44ad94abdb8ab371fed4",
+      "git_blob_sha": "b54f0801b480ff0b1cbd4066f7d6badf3dbe792a",
+      "reading_scope": "BYTE_RECHECK_WITH_PG51_SEMANTIC_REVIEW_INHERITED",
+      "prior_commit": "9fc4399b9a785ca830b7c9c507f95fc684a242fd",
+      "inherited_reading_scope": "BYTE_UNCHANGED_PREVIOUS_REVIEW_INHERITED",
+      "inherited_review_commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "inherited_review_file": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "1f2453fca40d5fd152684018e6cb0bfc17e17225",
+      "path": "proof_lab/test_pg_written_replay.py",
+      "bytes": 4135,
+      "sha256": "03eb367195e0418170f6e8c85585fef3ea0d0efb2ab8e0d6264660de87954575",
+      "git_blob_sha": "8f608f174683ef7a22967829e99306b8edea5d61",
+      "reading_scope": "BYTE_RECHECK_WITH_PG51_SEMANTIC_REVIEW_INHERITED",
+      "prior_commit": "9fc4399b9a785ca830b7c9c507f95fc684a242fd",
+      "inherited_reading_scope": "BYTE_UNCHANGED_PREVIOUS_REVIEW_INHERITED",
+      "inherited_review_commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "inherited_review_file": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "b1059b0bcb4bf157b1f4618599cf29c879e7f602",
+      "path": "theorum/159_written_modal_registers_replay_iii_theorem.md",
+      "bytes": 7042,
+      "sha256": "0df2bdc1e5fe6064c206bc7df7d7fe8a130044998b12a9d2437d09704b07549e",
+      "git_blob_sha": "e8ff6f8792043640b048214677d8866b4ef78df2",
+      "reading_scope": "BYTE_RECHECK_WITH_PG51_SEMANTIC_REVIEW_INHERITED",
+      "inherited_reading_scope": "FULL_FILE_READ_LATE_REVIEW_INPUT_PACKETS_NOT_FULLY_REAUDITED",
+      "inherited_review_commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "inherited_review_file": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "b1059b0bcb4bf157b1f4618599cf29c879e7f602",
+      "path": "proof_lab/pg_modal_registers_iii.py",
+      "bytes": 20124,
+      "sha256": "df47b89933cccc8c4b94aa65541c9140fc3f2e70151801087fddac3bd8646c25",
+      "git_blob_sha": "d2755a07c93f89982fe04c07a0c279db7fbfd7db",
+      "reading_scope": "BYTE_RECHECK_WITH_PG51_SEMANTIC_REVIEW_INHERITED",
+      "inherited_reading_scope": "FULL_FILE_READ_LATE_REVIEW_INPUT_PACKETS_NOT_FULLY_REAUDITED",
+      "inherited_review_commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "inherited_review_file": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "b1059b0bcb4bf157b1f4618599cf29c879e7f602",
+      "path": "proof_lab/test_pg_modal_registers_iii.py",
+      "bytes": 2513,
+      "sha256": "388de2cdf15c93091ed0bd7c442ab70551436637e9e54f7f6e620388b29ce9ca",
+      "git_blob_sha": "5665f80b5294966939a1967c0d382d5f6bdd1de2",
+      "reading_scope": "BYTE_RECHECK_WITH_PG51_SEMANTIC_REVIEW_INHERITED",
+      "inherited_reading_scope": "FULL_FILE_READ_LATE_REVIEW_INPUT_PACKETS_NOT_FULLY_REAUDITED",
+      "inherited_review_commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "inherited_review_file": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "b1059b0bcb4bf157b1f4618599cf29c879e7f602",
+      "path": "proof_lab/PG_MODAL_REGISTERS_III_EXPECTED.sha256",
+      "bytes": 65,
+      "sha256": "2cabd534e941067f3a0025dabbb5b9ab4eeb2143320a2e72b7744007a4ebc1e0",
+      "git_blob_sha": "450d5e82ac19d9d533ba54239f70ec3dbe882bfd",
+      "reading_scope": "BYTE_RECHECK_WITH_PG51_SEMANTIC_REVIEW_INHERITED",
+      "inherited_reading_scope": "FULL_FILE_READ_LATE_REVIEW_INPUT_PACKETS_NOT_FULLY_REAUDITED",
+      "inherited_review_commit": "dcf53398395303c155403dd180066ccf4d825f46",
+      "inherited_review_file": "research/panini_grammar/shyan_compound_histories/CONCURRENT_REVIEW.md"
+    }
+  ],
+  "authored_files": [
+    {
+      "path": "MATHEMATICS_INDEX.md",
+      "bytes": 193783,
+      "sha256": "ea5edb12a6311c65a93927ffd13b3a763d6ea5aba5bc8017b7514d83b8247da3",
+      "git_blob_sha": "45cf3a0cbe048691479ccc16e96d074f65326fd3"
+    },
+    {
+      "path": "research/panini_grammar/README.md",
+      "bytes": 69192,
+      "sha256": "40e57e29e8333f97a2d00a68ff582e73677163c89f3e4838714289f0a519b1a4",
+      "git_blob_sha": "6e650b54b7282331f1f313d6bdfea39371aef5e7"
+    },
+    {
+      "path": "research/panini_grammar/feminine_host_histories/CONCURRENT_REVIEW.md",
+      "bytes": 2986,
+      "sha256": "56c9c84d044a0770bf5771dd4a96f38603f171d7e1925e12ed4539d728389b26",
+      "git_blob_sha": "303665d1995dc686bcd2f8a9b06f8c2234871762"
+    },
+    {
+      "path": "research/panini_grammar/feminine_host_histories/CONTROLS.md",
+      "bytes": 5011,
+      "sha256": "4e7420b2c23537750f2c1c5a917e307393954959813308603ee61116885ccde9",
+      "git_blob_sha": "a83962a0b67faaee0710bb37a3b976307a60619b"
+    },
+    {
+      "path": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+      "bytes": 134052,
+      "sha256": "c44389ac785576a74da2ab92e7ccfba90543acc071c1d9e7ac8844a3c25c9611",
+      "git_blob_sha": "1c9d75ea35c2de4987026432e87f9cd2b8cc0203"
+    },
+    {
+      "path": "research/panini_grammar/feminine_host_histories/DERIVATIONS.md",
+      "bytes": 11634,
+      "sha256": "6d9bb5ff36eb0c8ff2a5fae73634d7812bba2c94c2530d93fa9b666a6cf62e04",
+      "git_blob_sha": "388ce3d22d6fc21675f0452c1ae3ed31816ee4d9"
+    },
+    {
+      "path": "research/panini_grammar/feminine_host_histories/DOMAIN_AND_NATIVE.md",
+      "bytes": 8032,
+      "sha256": "e7cf7f4ea0758e1bb085926732f3b0598d22b740b631e33799f0da806883ea07",
+      "git_blob_sha": "9982ea50484cf0476010dfd866fb44e584917b29"
+    },
+    {
+      "path": "research/panini_grammar/feminine_host_histories/HISTORY_REGISTER.json",
+      "bytes": 10121,
+      "sha256": "66fdf3a0566414858b0e708b442fa5535353fc57bc81aab46acbd36ebf95cae9",
+      "git_blob_sha": "b3cf6418dd52bfa762655923737d3e0c57e7bc6d"
+    },
+    {
+      "path": "research/panini_grammar/feminine_host_histories/README.md",
+      "bytes": 3525,
+      "sha256": "1c69249dea73a07fb8d11fcd892a20f25069640b96c6548d1c5652aea2b74a8c",
+      "git_blob_sha": "34698ab74e05d55081330de81be467127c6363ca"
+    },
+    {
+      "path": "research/panini_grammar/feminine_host_histories/SOURCE_EXCERPTS.json",
+      "bytes": 142439,
+      "sha256": "c45ac03f36dac5aa977ae18f5be61e7fc18411a15b4a57fdf21cbf6d6b590031",
+      "git_blob_sha": "35c363d3502934669577ad421961582241a268a7"
+    },
+    {
+      "path": "research/panini_grammar/feminine_host_histories/SOURCE_NOTES.md",
+      "bytes": 5859,
+      "sha256": "bebf448d58522b7d6190364a8bbc31446e912a5e39ebc2eeebe91539c848607f",
+      "git_blob_sha": "f625bdbceb4336646c133daf8bdd06e3c625e154"
+    },
+    {
+      "path": "research/panini_grammar/feminine_host_histories/WORK_RECORD.md",
+      "bytes": 4716,
+      "sha256": "bf629f51fc103d17a90628b42fbaf9403e6534a8a2b3e0f59e99fcb9a9eb82d5",
+      "git_blob_sha": "6c18d87caf714192562e957d0ffc1efc715b577a"
+    }
+  ],
+  "total_pin_count": 49,
+  "status": "49 byte/SHA-256/Git-blob identities directly rehashed; manifest excluded. Semantic reading and inherited-review scopes separately identified."
+}

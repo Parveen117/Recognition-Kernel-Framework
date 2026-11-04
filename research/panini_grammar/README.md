@@ -981,6 +981,27 @@ omitted śiṣṭāt word count. [Work/continuation](shyan_compound_histories/WO
 principal/subordinate feminine-host constructions next. Grammar tests,
 generators, replay and navigation/operator suites remain deferred.
 
+**Scoped feminine owners, shortening and a fresh suffix:**
+
+[PG52](feminine_host_histories/README.md) constructs the inner
+**परमकारीषगन्ध्या / अतिकारीषगन्ध्य** histories and their outer पुत्र/पति
+queries. Three histories and nine controls give **twelve written units**.
+The feminine अति path reconstructs old आ→अ, a fresh टाप्, then अ+आ→आ;
+the new suffix's principal role does not transfer to the old subordinate ष्यङ्.
+[Sources](feminine_host_histories/SOURCE_NOTES.md) distinguish literal gender branches,
+reconstructed intermediates, unresolved mixed readings and the corrected
+पुंवद्भाव catalogue ID **6.3.34**.
+
+[Domain/native continuation](feminine_host_histories/DOMAIN_AND_NATIVE.md) retains scoped
+owner guards and proves typed zero-reading/pairing compatibility. The
+[archive](feminine_host_histories/SOURCE_EXCERPTS.json) contains **84 literal fields**;
+four complete primary files are rehashed. [Coverage](feminine_host_histories/COVERAGE.json)
+preserves both **3,983-ID sets** and **11,552 positions**, with no new
+ID/position credit. [Companion review](feminine_host_histories/CONCURRENT_REVIEW.md) records
+the unchanged T159 head and implementation handoff. [Next work](feminine_host_histories/WORK_RECORD.md)
+constructs the earlier lexical/descent preparation of the supplied feminine
+stem. Grammar tests, generators, replay and navigation/operator suites remain deferred.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
