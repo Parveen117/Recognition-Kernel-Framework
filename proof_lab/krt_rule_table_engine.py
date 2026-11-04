@@ -34,7 +34,7 @@ SOURCES = {
     "7.3.84": "sārvadhātukārdhadhātukayoḥ", "7.3.86": "pugantalaghūpadhasya ca", "7.2.115": "aco ñṇiti", "7.2.116": "ata upadhāyāḥ", "7.3.34": "nodāttopadeśasya māntasyānācameḥ",
     "7.3.32": "hanas to 'ciṇṇaloḥ", "7.3.54": "ho hanter ñṇinneṣu", "6.1.78": "eco 'yavāyāvaḥ", "7.1.100": "ṝta id dhātoḥ", "7.1.102": "udoṣṭhyapūrvasya", "8.2.77": "hali ca",
     "6.4.37": "anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti", "6.1.15": "vacisvapiyajādīnāṁ kiti", "6.1.16": "grahijyāvayivyadhivaṣṭivicativṛścatipṛcchatibhṛjjatīnāṁ ṅiti ca",
-    "6.4.66": "ghumāsthāgāpājahātisāṁ hali", "8.2.18": "kṛpo ro laḥ", "7.4.40": "dyatisyatimāsthām it ti kiti", "7.4.42": "dadhāter hiḥ", "7.4.46": "do dad ghoḥ", "6.4.64": "āto lopa iṭi ca",
+    "6.4.66": "ghumāsthāgāpājahātisāṁ hali", "8.2.18": "kṛpo ro laḥ", "8.2.29": "skoḥ saṁyogādyor ante ca", "7.4.40": "dyatisyatimāsthām it ti kiti", "7.4.42": "dadhāter hiḥ", "7.4.46": "do dad ghoḥ", "6.4.64": "āto lopa iṭi ca",
     "6.4.63": "dīṅo yuḍ aci kṅiti", "6.4.24": "aniditāṁ hala upadhāyāḥ kṅiti",
     "8.2.42": "radābhyāṁ niṣṭhāto naḥ pūrvasya ca daḥ", "8.2.43": "saṁyogāder āto dhātor yaṇvataḥ", "8.2.44": "lvādibhyaḥ", "8.2.45": "oditaś ca", "8.2.46": "kṣiyo dīrghāt",
     "8.2.52": "paco vaḥ", "8.2.56": "nudavidondatrāghrāhrībhyo 'nyatarasyām", "8.2.57": "na dhyākhyāpṝmūrchimadām",
@@ -181,6 +181,7 @@ def rules() -> list[Rule]:
     add("8.2.30", lambda s: s.r[-1] in ("c", "ch", "j", "jh") and s.nxt() and s.nxt()[0] in JHAL and "8.2.36" not in s.done, lambda s: s.r.__setitem__(-1, {"c": "k", "ch": "k", "j": "g", "jh": "g"}[s.r[-1]]), "ku for the cu before jhal (ukta, pakta, bhukta, yukta)")
     add("8.2.31", lambda s: s.r[-1] == "h" and s.nxt() and s.nxt()[0] in JHAL and not (s.r[0] in ("d",) and len(s.r) >= 2), lambda s: s.r.__setitem__(-1, "ḍh"), "ḍh for h before jhal (līḍha, rūḍha, gūḍha)")
     add("8.2.32", lambda s: s.r[-1] == "h" and s.nxt() and s.nxt()[0] in JHAL and s.r[0] == "d", lambda s: s.r.__setitem__(-1, "gh"), "gh for the h of the d-initial root (dagdha, dugdha, digdha)")
+    add("8.2.29", lambda s: s.r[-1:] == ["kṣ"] and s.aff[:1] and s.aff[0] in JHAL and not s.it and "8.2.29" not in s.done, lambda s: s.r.__setitem__(-1, "ṣ"), "the k beginning the root-final conjunct kṣ dropped before a jhal (8.2.29 skoḥ saṁyogādyor ante ca: caṣṭa, caṣṭum; 2.4.54's khyā is not read by this table — recorded, theorum/162)")
     add("8.2.40", lambda s: s.r[-1] in ("jh", "bh", "gh", "ḍh", "dh") and s.aff[:1] in (["t"], ["th"]) and not s.it, lambda s: s.aff.__setitem__(0, "dh"), "dh for the t after a jhaṣ (labdha, buddha, dagdha, līḍha)")
     add("8.4.41", lambda s: s.r[-1] in ("ṣ", "ṭ", "ṭh", "ḍ", "ḍh") and s.aff[:1] in (["t"], ["th"], ["dh"]) and not s.it, lambda s: s.aff.__setitem__(0, {"t": "ṭ", "th": "ṭh", "dh": "ḍh"}[s.aff[0]]), "ṣṭutva: the t after ṣ / ṭu (dṛṣṭa, iṣṭa, līḍha)")
     add("8.3.13", lambda s: s.r[-1] == "ḍh" and s.aff[:1] == ["ḍh"], lambda s: (s.r.pop(), s.flags.add("ḍh-lopa")), "the ḍh before ḍh dropped (līḍha, leḍhum)")

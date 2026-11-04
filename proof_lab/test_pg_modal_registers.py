@@ -30,7 +30,7 @@ class T156Tests(unittest.TestCase):
         payload = build_certificate()
         self.assertEqual(payload["status"], "PASS_PG_MODAL_REGISTERS_CANDIDATE")
         t = payload["totals"]
-        self.assertEqual((t["positions"], t["replayed"], t["agree"], t["to_adjudicate"]), (1026, 837, 837, 0))
+        self.assertEqual((t["positions"], t["replayed"], t["agree"], t["to_adjudicate"]), (1026, 846, 846, 0))
         self.assertEqual((t["branch_rows"], t["branch_rows_mixed"]), (8, 2))
         self.assertEqual(sorted(payload["branch_rows_the_table_realises_mixed"]), ["PG21:NM20:loṭ", "PG21:NM21:loṭ"])
         for p in ("PG20", "PG21", "PG22"):

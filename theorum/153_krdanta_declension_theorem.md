@@ -54,3 +54,5 @@ RH, YM                                                                          
 ```
 
 *Note (theorum/161).* Re-pinned by theorum/161 (`e1275bc7…`): the lane rebuilt on the forty-five roots theorums 160–161 declared — 58,036 cells, 56,870 agree, every disagreement of the two named kinds; the nominal table's idam rows (7.2.112 / 7.2.113 / 7.2.109 and 7.1.9's exception) restricted to the pronoun after they had declined *iddha* as *dhaḥ*. The pin `bbea4a11…` holds at commit fe99fa9.
+
+*Note (theorum/162).* Re-pinned again by theorum/162 (`50757386…`): 58,822 cells, 57,643 agree, every disagreement of the two named kinds. The pin `e1275bc7…` holds at commit 6469a92.

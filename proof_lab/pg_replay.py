@@ -40,6 +40,7 @@ SOURCES = {   # the sūtras named as the options the two lines realised on diffe
     "3.4.84": "bruvaḥ pañcānām ādita āho bruvaḥ", "7.2.114": "mṛjer vṛddhiḥ", "3.1.82": "stanbhustunbhuskanbhuskunbhuskuñbhyaḥ śnuś ca", "7.3.95": "turustuśamyamaḥ sārvadhātuke",
     "7.3.90": "ūrṇoter vibhāṣā", "6.4.115": "bhiyo 'nyatarasyām", "6.4.116": "jahāteś ca", "8.4.65": "jharo jhari savarṇe",
     "8.2.40": "jhaṣas tathor dho 'dhaḥ", "8.4.53": "jhalāṁ jaś jhaśi",   # theorum/160: the adjudication of indhe / inddhe
+    "3.4.83": "vido laṭo vā",   # theorum/162: vid declared
 }
 OPTIONS = {   # lexical id → the sūtra whose option the two lines realised on different branches (both forms the grammar's)
     "1020039": "3.4.84 bruvaḥ pañcānām ādita āho bruvaḥ (āha / bravīti)", "1020061": "7.2.114 mṛjer vṛddhiḥ with the vārttika mṛjer vibhāṣā (mārjanti / mṛjanti)",
@@ -48,6 +49,7 @@ OPTIONS = {   # lexical id → the sūtra whose option the two lines realised on
     "1030002": "6.4.115 bhiyo 'nyatarasyām (bibhitaḥ / bibhītaḥ)", "1030009": "6.4.116 jahāteś ca (jahitaḥ / jahītaḥ)",
     "1070001": "8.4.65 jharo jhari savarṇe (runddhaḥ / rundhaḥ: the d before dh optionally dropped)", "1070006": "8.4.65 (kṣuntte / kṣunte)", "1070008": "8.4.65 (chṛntte / chṛnte)", "1070009": "8.4.65 (tṛntte / tṛnte)",
     "1070020": "8.4.65 (unttaḥ / untaḥ; und declared by theorum/160)",
+    "1020059": "3.4.83 vido laṭo vā: the ṇal-series optional for vid in laṭ (veda / vetti, vidatuḥ / vittaḥ, viduḥ / vidanti, vettha / vetsi, vidathuḥ / vitthaḥ, vida / vittha, veda / vedmi, vidva / vidvaḥ, vidma / vidmaḥ — the written line realises the ṇal branch, the table the tiṅ branch; vid declared by theorum/162)",
 }
 ADJUDICATED = {   # a written reference form the table does not reproduce, adjudicated against the source (theorum/160); the kṣiṇoti case stays to adjudicate
     "snam_lat:1070011:A:0:50": {"written": "indhe", "ours": "inddhe", "verdict": "the table's form",

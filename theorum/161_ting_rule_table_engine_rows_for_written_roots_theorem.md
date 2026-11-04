@@ -52,3 +52,5 @@ THE NOMINAL TABLE'S idam ROWS RESTRICTED TO THE PRONOUN (76 iddha CELLS), THE PR
 syand's ktvā IN THE KṚT LANE; THE 23 ROOTS STILL UNDECLARED (vid, cakṣ, ṛ, añj, the class-2 nij-group, ṛṇu / tṛṇu / ghṛṇu, stambh-group, kṣiṇ's policy …)          NOT CLAIMED
 RH, YM                                                                                                                                                              UNTOUCHED
 ```
+
+*Note (theorum/162).* The verbal table is re-pinned again by theorum/162 (`a7a6606c…`: vid, añj, cakṣ with their rows; the seven lanes rebuilt under one interpreter), the kernel by `11be42cf…`; this theorem's pins `9a9cbbff…` and `ae5d0197…` hold at commit 6469a92.

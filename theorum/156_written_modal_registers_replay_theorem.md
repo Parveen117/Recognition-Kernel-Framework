@@ -50,3 +50,5 @@ RH, YM                                                                          
 *Note (theorum/160).* Re-pinned by theorum/160 (`454add96…`): hṛ, chid, yuj, śiṣ, piṣ declared, 819 of the 1,026 positions replayed (was 693), **819 / 819 agree**, 93 option cells (8.4.65 now also chid, śiṣ, piṣ); PG22 is replayed in full. The pin `158912ce…` holds at commit b1059b0.
 
 *Note (theorum/161).* Re-pinned again by theorum/161 (`b5a5f110…`): sthā and pā declared, 837 of the 1,026 positions replayed (PG20's *stheyāt, peyāt* in), **837 / 837 agree**. The pin `454add96…` holds at commit fe99fa9.
+
+*Note (theorum/162).* Re-pinned again by theorum/162 (`1d07e158…`): vid declared (PG20's *vidyāt* in), 846 replayed, **846 / 846 agree**; the 180 positions of PG21's stambh-group and tanādi roots remain outside. The pin `b5a5f110…` holds at commit 6469a92.

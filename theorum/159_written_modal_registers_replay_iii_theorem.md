@@ -44,3 +44,5 @@ RH, YM                                                                          
 ```
 
 *Note (theorum/160).* The kernel is re-pinned by theorum/160 (`2ede883c…`); this theorem's certificate re-runs to its pin `ea798cd7…` unchanged after the twenty roots' declaration (none of its undeclared roots is among them). Commit b1059b0 holds its state.
+
+*Note (theorum/162).* Re-pinned by theorum/162 (`8f0ffcc…`): cakṣ, añj, the class-2 vid (and theorum/160's und, indh) declared, 1,043 of the 1,457 positions replayed (was 953), **1,043 / 1,043 agree**, 75 option cells (8.4.65 now also und, indh); 396 positions on 22 roots of other classes remain outside. The pin `ea798cd7…` holds at commit 6469a92.

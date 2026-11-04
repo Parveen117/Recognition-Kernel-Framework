@@ -54,11 +54,11 @@ KEYS = {"dviṣ": {"P": "dviṣ2", "A": "dviṣ2A"}, "duh": {"P": "duh2", "A": "
         "yu": "yu2", "ru": "ru2", "tu": "tu2", "nu": "nu2", "kṣu": "kṣu2", "kṣṇu": "kṣṇu2", "snu": "snu2", "ūrṇu": {"P": "ūrṇu2", "A": "ūrṇu2A"}, "dyu": "dyu2", "su": None, "ku": None, "stu": {"P": "stu2", "A": "stu2A"},
         "hnu": "hnu2A", "sū": "sū2A", "yā": "yā2", "vā": "vā2", "bhā": "bhā2", "snā": "snā2", "śrā": None, "drā": "drā2", "psā": "psā2", "pā": "pā2", "rā": None, "lā": "lā2", "dāp": None, "khyā": "khyā2", "prā": None, "mā": "mā2",
         "iṇ": "i2", "vī": "vī2",
-        "cakṣ": None, "īr": "īr2A", "ās": "ās2A", "kas": "kas2A", "kaś": "kaś2A", "nis": None, "nij": None, "śij": None, "pij": None, "pṛj": None, "vṛj": None, "pṛc": None,
-        "ric": "ric", "vic": "vic", "kṣud": "kṣud", "chṛd": "chṛd", "tṛd": "tṛd", "kṛt": "kṛt", "indh": None, "khid": None, "vid": None, "bhañj": None, "und": None, "añj": None, "tañc": None, "vij": None, "vac": "vac2"}
+        "cakṣ": "cakṣ", "īr": "īr2A", "ās": "ās2A", "kas": "kas2A", "kaś": "kaś2A", "nis": None, "nij": None, "śij": None, "pij": None, "pṛj": None, "vṛj": None, "pṛc": None,
+        "ric": "ric", "vic": "vic", "kṣud": "kṣud", "chṛd": "chṛd", "tṛd": "tṛd", "kṛt": "kṛt", "indh": "indh", "khid": None, "vid": None, "bhañj": None, "und": "und", "añj": "añj", "tañc": None, "vij": None, "vac": "vac2"}
 OPTIONS = {"ru": "7.3.95 turustuśamyamaḥ sārvadhātuke (rautu / ravītu)", "tu": "7.3.95 (tautu / tavītu)", "stu": "7.3.95 (stautu / stavītu; stutām / stuvītām)", "ūrṇu": "7.3.90 ūrṇoter vibhāṣā (ūrṇautu / ūrṇotu)",
            "mṛj": "7.2.114 mṛjer vṛddhiḥ with the vārttika mṛjer vibhāṣā (mṛjantu / mārjantu)", "kṣud": "8.4.65 jharo jhari savarṇe (kṣunttām / kṣuntām)", "chṛd": "8.4.65 (chṛnttām / chṛntām)", "tṛd": "8.4.65 (tṛnttām / tṛntām)", "kṛt": "8.4.65 (kṛnttām / kṛntām)",
-           "kas": "8.4.65 (kaṃssva / kaṃsva)", "nis": "8.4.65 (niṃssva / niṃsva)"}
+           "kas": "8.4.65 (kaṃssva / kaṃsva)", "nis": "8.4.65 (niṃssva / niṃsva)", "indh": "8.4.65 (inddhām / indhām; indh declared by theorum/160)", "und": "8.4.65 (unttam / untam; und declared by theorum/160)"}
 SOURCES = {"7.3.95": "turustuśamyamaḥ sārvadhātuke", "7.3.90": "ūrṇoter vibhāṣā", "7.2.114": "mṛjer vṛddhiḥ", "8.4.65": "jharo jhari savarṇe", "7.1.35": "tuhyos tātaṅṅ āśiṣy anyatarasyām"}
 
 
@@ -226,7 +226,7 @@ def pg27() -> dict[str, Any]:
             "placed_outside_the_table": {"tāt words (§P5)": {"reason": "no row for 7.1.35 tuhyos tātaṅṅ āśiṣy anyatarasyām in the table"}, "vac loṭ 3pl": {"reason": "⊥ in the written register (source-excluded on its selected view): not a position"}}}
 
 
-KEYS.update({"kas-num": None, "vid7": None, "vṛj7": None, "pṛc7": None, "vid2": None})
+KEYS.update({"kas-num": None, "vid7": None, "vṛj7": None, "pṛc7": None, "vid2": "vid2"})   # vid2 (vetti) declared by theorum/162; und, indh by theorum/160
 
 
 def build_certificate() -> dict[str, Any]:
