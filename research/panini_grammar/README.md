@@ -1191,6 +1191,15 @@ held; no quoted Vedic control is counted as a complete paradigm. Both
 zero/pairing recovery are written; Python 3.12 document checks are separate
 from the deferred grammar, replay and navigation/operator suites.
 
+**PG64** — [Ciri continuations and jiri's reported scope](ciri_continuations/README.md)
+adds **324 ciri positions and 36 jiri positions**, in all **360 positions
+and 366 readings**. The total is **12,074**. The commentary on *Dhātukāvya*
+2.71 supplies the wider jiri policy. Direct collation of *Puruṣakāra*
+confirms its attribution of the nasal-bearing ṛkṣi words to Kṣīrasvāmin.
+The written tables distinguish active, middle and passive roles, the
+root and ṇic i, and both iṭ owners of the san future. The packet includes
+a T166 handoff, the source pages and the actual document-check status.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
