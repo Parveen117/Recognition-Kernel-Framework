@@ -1265,6 +1265,15 @@ The full native construction retains prefix/root/affix owners and proves
 typed zero/pairing compatibility. Kriyāyoga and lexical permission remain
 explicit premises; grammar tests and replay are deferred.
 
+**PG72** — [Pra + ni modals and perfects](prefix_ni_modals/README.md)
+adds **288 positions in 32 paradigms**, with **384 readings and 385
+labelled paths**, taking the cumulative total to **14,108**. Ending āṭ,
+initial aṭ and nasal recipients remain separate; pac's perfect contraction
+is coupled to its thal iṭ branch. Piṣ first singular keeps two histories
+with one word. The joined exact prefix grid has 567 positions and 63 luṅ
+positions remaining; both sūtra-ID registers remain **3,983**. Full native
+zero/pairing recovery is written; grammar tests and replay remain deferred.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
