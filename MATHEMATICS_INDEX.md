@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 7 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG75 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 7 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG76 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG75 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG76 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,19 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG76: Contextual kram, pada and vikaraṇa alternatives
+
+[PG76](research/panini_grammar/contextual_kram/README.md) adds **228 positions**,
+with **456 readings and paths**, taking the cumulative register to **14,759**.
+Rules 1.3.38–43 retain their mandatory/optional A and prefix/meaning guards.
+Independent śap/śyan alternatives have long root ā in P and short a in A;
+the hi-luk explanation keeps the root/vikaraṇa and ending recipients distinct.
+The [native construction](research/panini_grammar/contextual_kram/DOMAIN_AND_NATIVE.md)
+proves typed zero/pairing compatibility on that declared domain. This is
+24 complete nine-slot paradigms plus four third-person-only luminous-rise tables.
+The same profile/slot target has **342 explicitly unwritten requests** in six
+other labels. Both ID registers remain **3,983**; grammar tests/replay are deferred.
 
 ## PG75: Contextual nī and intended-result restrictions
 

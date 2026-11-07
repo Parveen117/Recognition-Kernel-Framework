@@ -1300,6 +1300,14 @@ The complete basic perfect has ninyiṣe/ninyivahe and optional 2pl dh/ḍh.
 Both ID registers remain **3,983**; tests/replay are deferred. README records the
 requested provisional hours budget for a bounded next package, not full closure.
 
+**PG76** — [Contextual kram and present alternatives](contextual_kram/README.md)
+adds **228 positions**, **456 readings/paths**, taking the cumulative register to
+**14,759**. Mandatory-A meanings, qualified prefix licences and ordinary bare
+A/P optionality remain separate from the śap/śyan option. The present subgrid
+contains 24 full paradigms plus four third-person-only tables; the same finite
+target has 342 unwritten requests in the other six labels. Both ID registers
+remain **3,983**; tests/replay remain deferred.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
