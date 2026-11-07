@@ -1283,6 +1283,15 @@ its complement is empty. Both sūtra-ID registers remain **3,983**.
 The full native construction proves typed zero/pairing recovery. Broader
 grammar, source admissions and executable validation remain open.
 
+**PG74** — [Contextual adhi/vi + kṛ A](contextual_kr/README.md)
+adds **180 positions in 20 paradigms**, with **180 readings and 202
+source-policy paths**, taking the cumulative written register to **14,351**.
+The counted overcoming and sound-object meanings have distinct certificates;
+intransitive 1.3.35 receives admission treatment without extra word credit.
+Kāśikā/Bālamanoramā sic-luk histories remain separate at identical spellings.
+The full native construction retains semantic roles and policy at typed zero.
+Both ID registers remain **3,983**; grammar execution/replay stay deferred.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
