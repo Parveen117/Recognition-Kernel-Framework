@@ -1292,6 +1292,14 @@ Kāśikā/Bālamanoramā sic-luk histories remain separate at identical spelling
 The full native construction retains semantic roles and policy at typed zero.
 Both ID registers remain **3,983**; grammar execution/replay stay deferred.
 
+**PG75** — [Contextual upa/vi + nī A](contextual_ni/README.md)
+adds **180 positions in 20 paradigms**, with **182 readings/paths**, taking the
+cumulative register to **14,531**. The initiation and internal-anger frames keep
+direct results, later teacher status, object roles and result intention distinct.
+The complete basic perfect has ninyiṣe/ninyivahe and optional 2pl dh/ḍh.
+Both ID registers remain **3,983**; tests/replay are deferred. README records the
+requested provisional hours budget for a bounded next package, not full closure.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
