@@ -1236,6 +1236,16 @@ PG12's basic laṭ, its selected present-system grid has **252 positions in
 28 paradigms**. Exact sources, native zero/pairing proof and the unchanged
 T166 static handoff are recorded; grammar tests and replay remain deferred.
 
+**PG69** — [Kṣi ārdhadhātuka continuations](ksi_ardhadhatuka/README.md)
+adds **270 positions, 348 readings and 384 paths**, taking the total
+to **13,433**. Seven source-qualified families receive future,
+conditional and blessing paradigms; basic P also receives perfect
+and aorist, closing its **90-position ten-lakāra set**. Scoped iṭ,
+iyaṅ after kṣ, ciṇvat and retained aniṭ sic are proved with owned
+histories. The selected wider grid has 522 written positions and
+108 remaining. Exact sources, native zero/pairing proof and T166
+static handoff are recorded; grammar tests and replay remain deferred.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
