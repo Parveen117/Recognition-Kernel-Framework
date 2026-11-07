@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 7 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG70 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 7 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG71 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG70 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG71 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,18 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG71: Pra + ni and original-teaching guards
+
+[PG71](research/panini_grammar/prefix_ni/README.md) adds **279 positions,
+358 readings and 359 paths** in 31 prefix-sensitive paradigms, taking
+the cumulative register to **13,820**. Its [source decisions](research/panini_grammar/prefix_ni/SOURCE_DECISIONS.md)
+separate mandatory gad, optional pac/viś and original k/kh/ṣ exclusions;
+ni + viś selects kartari A. Prefix n, śnu n, copy and aṭ retain
+their owners. The [native construction](research/panini_grammar/prefix_ni/DOMAIN_AND_NATIVE.md)
+proves typed zero/pairing compatibility on the declared semantic domain.
+Both sūtra-ID registers remain **3,983**. Wider prefix semantics,
+register/admission and grammar execution remain open.
 
 ## PG70: Kṣi perfect and aorist closure
 

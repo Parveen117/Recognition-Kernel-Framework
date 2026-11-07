@@ -1256,6 +1256,15 @@ actual-ciṇ versus ciṇvat ownership are explicit. Exact sources and
 native zero/pairing compatibility accompany the T166 static handoff;
 grammar tests and replay remain deferred.
 
+**PG71** — [Pra + ni constructions](prefix_ni/README.md)
+adds **279 positions in 31 paradigms**, with **358 readings and 359
+labelled paths**, taking the cumulative total to **13,820**. Original
+teaching controls ni ṇatva despite perfect copies and ś/ṣ/k changes;
+ni + viś requires kartari A. Both ID registers remain **3,983**.
+The full native construction retains prefix/root/affix owners and proves
+typed zero/pairing compatibility. Kriyāyoga and lexical permission remain
+explicit premises; grammar tests and replay are deferred.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
