@@ -1227,6 +1227,15 @@ PG63–67 fill the selected two-root grid: **1,260 positions in 140 complete
 paradigms** across ten named tense/mood requests. Broader grammar coverage
 and executable verification remain open. The companion head is still T166.
 
+**PG68** — [Ṛkṣi admission and kṣi present-system continuations](rksi_admission_ksi_present/README.md)
+adds **243 positions and 245 readings/paths**, taking the total to **13,163**.
+Four ṛkṣi teaching records retain separate permission histories; no held
+Ṛkṣi request receives position credit. The admitted svādi kṣi profile gains
+27 paradigms, including aniṭ san, causal and passive forms. Together with
+PG12's basic laṭ, its selected present-system grid has **252 positions in
+28 paradigms**. Exact sources, native zero/pairing proof and the unchanged
+T166 static handoff are recorded; grammar tests and replay remain deferred.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
