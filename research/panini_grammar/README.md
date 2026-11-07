@@ -1274,6 +1274,15 @@ with one word. The joined exact prefix grid has 567 positions and 63 luṅ
 positions remaining; both sūtra-ID registers remain **3,983**. Full native
 zero/pairing recovery is written; grammar tests and replay remain deferred.
 
+**PG73** — [Pra + ni aorists](prefix_ni_aorist/README.md)
+adds **63 positions in seven paradigms**, with **90 readings and 90 paths**,
+taking the cumulative register to **14,171**. Sic, ksa and ḷit aṅ retain
+their separate markers, grades and lopa recipients. The exact PG71–73
+target is now written at **630 positions, 832 readings and 834 paths**;
+its complement is empty. Both sūtra-ID registers remain **3,983**.
+The full native construction proves typed zero/pairing recovery. Broader
+grammar, source admissions and executable validation remain open.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

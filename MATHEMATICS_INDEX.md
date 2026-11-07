@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 7 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG72 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 7 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG73 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG72 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG73 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,19 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG73: Pra + ni aorists close the declared finite grid
+
+[PG73](research/panini_grammar/prefix_ni_aorist/README.md) adds **63 positions,
+90 readings and 90 paths** in seven luṅ paradigms, taking the cumulative
+register to **14,171**. Its [source decisions](research/panini_grammar/prefix_ni_aorist/SOURCE_DECISIONS.md)
+select sic, ksa and ḷit aṅ with distinct grade, marker and deletion guards.
+Viś's dual and plural require different actual-ending stages; pac's sic-s
+lopa and gad's grade option retain their recipients. The [native construction](research/panini_grammar/prefix_ni_aorist/DOMAIN_AND_NATIVE.md)
+proves typed zero/pairing compatibility with those histories retained.
+PG71–73 closes the exact pra-ni target at **630 positions in 70 paradigms**,
+with 832 readings and 834 paths. Both ID registers remain **3,983**.
+This finite written closure does not close broader grammar or deferred execution.
 
 ## PG72: Pra + ni modals, conditional and perfect recipients
 

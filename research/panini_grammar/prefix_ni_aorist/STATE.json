@@ -1,0 +1,5061 @@
+{
+  "schema": "rkf.panini.pg73.state.v1",
+  "author": "Monty",
+  "date": "2026-11-07",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "18b431eddcae2b41238549d1bf2f8131d640243b",
+    "path": "research/panini_grammar/prefix_ni_modals/STATE.json",
+    "scope": "COUNTS_AND_DECLARED_COMPLEMENT_REUSED_NO_FULL_ID_REAUDIT",
+    "bytes": 621165,
+    "sha256": "cb49db4c08ce90add77d6015a4c88ec88dcfdede0c22a7ea2161e88d5da986be",
+    "git_blob_sha": "0993517d9339734142c869b1bf942aa9047d7b64"
+  },
+  "finite_positions": 14171,
+  "new_positions": 63,
+  "new_position_readings": 90,
+  "new_written_table_readings": 90,
+  "retained_path_count": 90,
+  "corrected_old_positions": 0,
+  "alternate_readings_at_existing_positions": 0,
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "overall_grammar_completion_percent": null,
+  "local_records_claimed_globally_new": false,
+  "referenced_existing_ids": [
+    "1.1.5",
+    "1.1.46",
+    "1.1.50",
+    "1.1.52",
+    "1.1.56",
+    "1.1.57",
+    "1.2.41",
+    "1.3.2",
+    "1.3.3",
+    "1.3.5",
+    "1.3.8",
+    "1.3.9",
+    "1.3.17",
+    "1.3.32",
+    "1.3.72",
+    "1.3.78",
+    "1.4.49",
+    "1.4.54",
+    "1.4.58",
+    "1.4.59",
+    "1.4.60",
+    "1.4.80",
+    "1.4.81",
+    "1.4.82",
+    "1.4.101",
+    "1.4.102",
+    "1.4.104",
+    "1.4.105",
+    "1.4.107",
+    "1.4.108",
+    "2.4.77",
+    "2.4.78",
+    "2.4.79",
+    "2.4.85",
+    "3.1.43",
+    "3.1.44",
+    "3.1.45",
+    "3.1.46",
+    "3.1.47",
+    "3.1.48",
+    "3.1.49",
+    "3.1.50",
+    "3.1.51",
+    "3.1.52",
+    "3.1.53",
+    "3.1.54",
+    "3.1.55",
+    "3.1.56",
+    "3.1.57",
+    "3.1.58",
+    "3.1.59",
+    "3.1.60",
+    "3.1.61",
+    "3.1.62",
+    "3.1.63",
+    "3.1.64",
+    "3.1.65",
+    "3.1.66",
+    "3.2.110",
+    "3.4.69",
+    "3.4.77",
+    "3.4.78",
+    "3.4.79",
+    "3.4.80",
+    "3.4.99",
+    "3.4.100",
+    "3.4.101",
+    "3.4.109",
+    "3.4.113",
+    "3.4.114",
+    "6.1.77",
+    "6.1.97",
+    "6.1.101",
+    "6.4.23",
+    "6.4.71",
+    "6.4.74",
+    "7.1.3",
+    "7.1.5",
+    "7.2.1",
+    "7.2.2",
+    "7.2.3",
+    "7.2.4",
+    "7.2.5",
+    "7.2.6",
+    "7.2.7",
+    "7.2.10",
+    "7.2.35",
+    "7.2.70",
+    "7.2.81",
+    "7.3.72",
+    "7.3.73",
+    "7.3.84",
+    "7.3.86",
+    "7.3.96",
+    "7.3.101",
+    "8.2.1",
+    "8.2.23",
+    "8.2.26",
+    "8.2.27",
+    "8.2.28",
+    "8.2.30",
+    "8.2.36",
+    "8.2.39",
+    "8.2.41",
+    "8.2.66",
+    "8.3.15",
+    "8.3.55",
+    "8.3.57",
+    "8.3.59",
+    "8.3.78",
+    "8.4.17",
+    "8.4.18",
+    "8.4.41",
+    "8.4.56"
+  ],
+  "local_selected_source_records": 188,
+  "written_units": 9,
+  "block_counts": {
+    "H": 8,
+    "E": 1
+  },
+  "native_sections": [
+    "N1",
+    "N2",
+    "N3"
+  ],
+  "records": [
+    {
+      "id": "H01",
+      "title": "Fixed request domain and context",
+      "document": "research/panini_grammar/prefix_ni_aorist/SOURCE_DECISIONS.md",
+      "line": 5,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H02",
+      "title": "Competing cli replacements need marker and pada history",
+      "document": "research/panini_grammar/prefix_ni_aorist/SOURCE_DECISIONS.md",
+      "line": 15,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H03",
+      "title": "Three different vowel-grade decisions",
+      "document": "research/panini_grammar/prefix_ni_aorist/SOURCE_DECISIONS.md",
+      "line": 31,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H04",
+      "title": "Ksa vowel deletion follows the actual ending state",
+      "document": "research/panini_grammar/prefix_ni_aorist/SOURCE_DECISIONS.md",
+      "line": 39,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H05",
+      "title": "Different deletions preserve different sources",
+      "document": "research/panini_grammar/prefix_ni_aorist/SOURCE_DECISIONS.md",
+      "line": 50,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H06",
+      "title": "Five sic paradigms and the two singular augments",
+      "document": "research/panini_grammar/prefix_ni_aorist/DERIVATIONS.md",
+      "line": 7,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H07",
+      "title": "Viś A ksa retains its s and changes only its final a",
+      "document": "research/panini_grammar/prefix_ni_aorist/DERIVATIONS.md",
+      "line": 27,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H08",
+      "title": "Piṣ's retained ḷit history selects aṅ",
+      "document": "research/panini_grammar/prefix_ni_aorist/DERIVATIONS.md",
+      "line": 49,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "E01",
+      "title": "Exact finite closure and its boundary",
+      "document": "research/panini_grammar/prefix_ni_aorist/DERIVATIONS.md",
+      "line": 59,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    }
+  ],
+  "source_profiles": {
+    "KSI": {
+      "key": "SK_KSI_REPORTED_BHASHA_1050033",
+      "lexical_id": "1050033",
+      "root": "kṣi",
+      "gana": 5,
+      "sense": "हिंसायाम्",
+      "teaching_final_i": "ROOT_VOWEL",
+      "basic_pada": "P",
+      "basic_it": "ANIT_EKAC_ANUDATTA",
+      "register": "REPORTED_CLASSICAL_NON_MANTRA",
+      "qualifier": "ACCORDING_TO_SOME",
+      "authority": [
+        "kaumudi:7.4.72",
+        "balamanorama:7.4.72",
+        "KRM:303:317-318"
+      ],
+      "inherited_admission": [
+        "PG12",
+        "PG60:H03"
+      ],
+      "raw_vedic_tag_preserved": true
+    }
+  },
+  "root_profiles": {
+    "gad": {
+      "lexical_id": "1010054",
+      "gana": 1,
+      "original_root": "gad",
+      "aupadeshik": "गदँ",
+      "sense": "व्यक्तायां वाचि",
+      "lexical_pada": "P",
+      "request_pada": "P",
+      "basic_it": "S",
+      "ni_policy": "MANDATORY_8_4_17",
+      "present_vikarana": "śap",
+      "pada_reason": "1.3.78",
+      "principal_result": "NOT_A_PADA_SWITCH_IN_THIS_DOMAIN",
+      "profile": "ORDINARY_BASIC_1010054",
+      "register": "CLASSICAL_NON_MANTRA",
+      "marker_query": "ORIGINAL_NON_MARKER_ROOT_SOUNDS_WITH_MARKER_LEDGER_RETAINED",
+      "prefix_admission": "CONDITIONAL_ACTUAL_KRIYAYOGA_FOR_PRA_AND_NI_NOT_INDEPENDENT_USAGE_ATTESTATION"
+    },
+    "pac": {
+      "lexical_id": "1011151",
+      "gana": 1,
+      "original_root": "pac",
+      "aupadeshik": "डुपचँष्",
+      "sense": "पाके",
+      "lexical_pada": "U",
+      "request_pada": "P",
+      "basic_it": "A",
+      "ni_policy": "OPTIONAL_8_4_18",
+      "present_vikarana": "śap",
+      "pada_reason": "1.3.78_WITH_RESULT_ELSEWHERE",
+      "principal_result": "ELSEWHERE",
+      "profile": "ORDINARY_BASIC_1011151",
+      "register": "CLASSICAL_NON_MANTRA",
+      "marker_query": "ORIGINAL_NON_MARKER_ROOT_SOUNDS_WITH_MARKER_LEDGER_RETAINED",
+      "prefix_admission": "CONDITIONAL_ACTUAL_KRIYAYOGA_FOR_PRA_AND_NI_NOT_INDEPENDENT_USAGE_ATTESTATION"
+    },
+    "viś": {
+      "lexical_id": "1060160",
+      "gana": 6,
+      "original_root": "viś",
+      "aupadeshik": "विशँ",
+      "sense": "प्रवेशने",
+      "lexical_pada": "P",
+      "request_pada": "A",
+      "basic_it": "A",
+      "ni_policy": "OPTIONAL_8_4_18",
+      "present_vikarana": "śa",
+      "pada_reason": "1.3.17",
+      "principal_result": "NOT_A_PADA_SWITCH_IN_THIS_DOMAIN",
+      "profile": "ORDINARY_BASIC_1060160",
+      "register": "CLASSICAL_NON_MANTRA",
+      "marker_query": "ORIGINAL_NON_MARKER_ROOT_SOUNDS_WITH_MARKER_LEDGER_RETAINED",
+      "prefix_admission": "CONDITIONAL_ACTUAL_KRIYAYOGA_FOR_PRA_AND_NI_NOT_INDEPENDENT_USAGE_ATTESTATION"
+    },
+    "kṛ": {
+      "lexical_id": "1080010",
+      "gana": 8,
+      "original_root": "kṛ",
+      "aupadeshik": "डुकृञ्",
+      "sense": "करणे",
+      "lexical_pada": "U",
+      "request_pada": "P",
+      "basic_it": "A",
+      "ni_policy": "BLOCKED_ORIGINAL_K",
+      "present_vikarana": "u",
+      "pada_reason": "1.3.78_WITH_RESULT_ELSEWHERE",
+      "principal_result": "ELSEWHERE",
+      "profile": "ORDINARY_BASIC_1080010",
+      "register": "CLASSICAL_NON_MANTRA",
+      "marker_query": "ORIGINAL_NON_MARKER_ROOT_SOUNDS_WITH_MARKER_LEDGER_RETAINED",
+      "prefix_admission": "CONDITIONAL_ACTUAL_KRIYAYOGA_FOR_PRA_AND_NI_NOT_INDEPENDENT_USAGE_ATTESTATION"
+    },
+    "kṣi": {
+      "lexical_id": "1050033",
+      "gana": 5,
+      "original_root": "kṣi",
+      "aupadeshik": "क्षि",
+      "sense": "हिंसायाम्",
+      "lexical_pada": "P",
+      "request_pada": "P",
+      "basic_it": "A",
+      "ni_policy": "BLOCKED_ORIGINAL_K",
+      "present_vikarana": "śnu",
+      "pada_reason": "1.3.78",
+      "principal_result": "NOT_A_PADA_SWITCH_IN_THIS_DOMAIN",
+      "profile": "SK_KSI_REPORTED_BHASHA_1050033",
+      "register": "REPORTED_CLASSICAL_NON_MANTRA",
+      "marker_query": "ORIGINAL_NON_MARKER_ROOT_SOUNDS_WITH_MARKER_LEDGER_RETAINED",
+      "prefix_admission": "CONDITIONAL_ACTUAL_KRIYAYOGA_FOR_PRA_AND_NI_NOT_INDEPENDENT_USAGE_ATTESTATION"
+    },
+    "piṣ": {
+      "lexical_id": "1070015",
+      "gana": 7,
+      "original_root": "piṣ",
+      "aupadeshik": "पिषॢँ",
+      "sense": "सञ्चूर्णने",
+      "lexical_pada": "P",
+      "request_pada": "P",
+      "basic_it": "A",
+      "ni_policy": "BLOCKED_ORIGINAL_SSA",
+      "present_vikarana": "śnam",
+      "pada_reason": "1.3.78",
+      "principal_result": "NOT_A_PADA_SWITCH_IN_THIS_DOMAIN",
+      "profile": "ORDINARY_BASIC_1070015",
+      "register": "CLASSICAL_NON_MANTRA",
+      "marker_query": "ORIGINAL_NON_MARKER_ROOT_SOUNDS_WITH_MARKER_LEDGER_RETAINED",
+      "prefix_admission": "CONDITIONAL_ACTUAL_KRIYAYOGA_FOR_PRA_AND_NI_NOT_INDEPENDENT_USAGE_ATTESTATION"
+    },
+    "khād": {
+      "lexical_id": "1010051",
+      "gana": 1,
+      "original_root": "khād",
+      "aupadeshik": "खादृँ",
+      "sense": "भक्षणे",
+      "lexical_pada": "P",
+      "request_pada": "P",
+      "basic_it": "S",
+      "ni_policy": "BLOCKED_ORIGINAL_KH",
+      "present_vikarana": "śap",
+      "pada_reason": "1.3.78",
+      "principal_result": "NOT_A_PADA_SWITCH_IN_THIS_DOMAIN",
+      "profile": "ORDINARY_BASIC_1010051",
+      "register": "CLASSICAL_NON_MANTRA",
+      "marker_query": "ORIGINAL_NON_MARKER_ROOT_SOUNDS_WITH_MARKER_LEDGER_RETAINED",
+      "prefix_admission": "CONDITIONAL_ACTUAL_KRIYAYOGA_FOR_PRA_AND_NI_NOT_INDEPENDENT_USAGE_ATTESTATION"
+    }
+  },
+  "context_codes": {
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "aorist_selectors": {
+    "gad": {
+      "selected": "sic",
+      "rule": "3.1.44",
+      "original_marker": "INHERITED_MARKER_LEDGER",
+      "broad_ksa_candidate": false,
+      "overriding_aṅ": false,
+      "kit_ngit": null,
+      "affix_it": "I_VAL_7_2_35",
+      "root_grade_policy": "SHORT_OR_LONG_7_2_7"
+    },
+    "pac": {
+      "selected": "sic",
+      "rule": "3.1.44",
+      "original_marker": "INHERITED_MARKER_LEDGER",
+      "broad_ksa_candidate": false,
+      "overriding_aṅ": false,
+      "kit_ngit": null,
+      "affix_it": null,
+      "root_grade_policy": "MANDATORY_VRDDHI_7_2_3"
+    },
+    "viś": {
+      "selected": "ksa",
+      "rule": "3.1.45",
+      "original_marker": "INHERITED_MARKER_LEDGER",
+      "broad_ksa_candidate": true,
+      "overriding_aṅ": false,
+      "kit_ngit": "KIT_1_3_8",
+      "affix_it": null,
+      "root_grade_policy": "SHORT_I_NO_GUNA_1_1_5"
+    },
+    "kṛ": {
+      "selected": "sic",
+      "rule": "3.1.44",
+      "original_marker": "INHERITED_MARKER_LEDGER",
+      "broad_ksa_candidate": false,
+      "overriding_aṅ": false,
+      "kit_ngit": null,
+      "affix_it": null,
+      "root_grade_policy": "MANDATORY_VRDDHI_7_2_1"
+    },
+    "kṣi": {
+      "selected": "sic",
+      "rule": "3.1.44",
+      "original_marker": "INHERITED_MARKER_LEDGER",
+      "broad_ksa_candidate": false,
+      "overriding_aṅ": false,
+      "kit_ngit": null,
+      "affix_it": null,
+      "root_grade_policy": "MANDATORY_VRDDHI_7_2_1"
+    },
+    "piṣ": {
+      "selected": "aṅ",
+      "rule": "3.1.55",
+      "original_marker": "ḷ_IT",
+      "broad_ksa_candidate": true,
+      "overriding_aṅ": true,
+      "kit_ngit": "NGIT_1_3_3",
+      "affix_it": null,
+      "root_grade_policy": "SHORT_I_NO_GUNA_1_1_5"
+    },
+    "khād": {
+      "selected": "sic",
+      "rule": "3.1.44",
+      "original_marker": "ṛ_IT_NOT_ḷ_IT",
+      "broad_ksa_candidate": false,
+      "overriding_aṅ": false,
+      "kit_ngit": null,
+      "affix_it": "I_VAL_7_2_35",
+      "root_grade_policy": "LEXICAL_LONG_A"
+    }
+  },
+  "source_policies": {
+    "prefix_sequence": [
+      "pra",
+      "ni"
+    ],
+    "admission": "ACTUAL_KRIYAYOGA_COMPATIBLE_COMPLETED_EVENT_REQUIRED",
+    "scope": "CONDITIONAL_MORPHOLOGY_NOT_USAGE_ATTESTATION",
+    "ni_option": "PER_WORD_NOT_PARADIGM_WIDE",
+    "ni_teaching_query": "ORIGINAL_NON_MARKER_ROOT",
+    "piṣ_selection": "ORIGINAL_ḷ_IT_WITH_P_AṄ_OVERRIDES_BROAD_KSA",
+    "khād_marker": "ṛ_IT_NOT_ḷ_IT",
+    "gad_grade": "SHORT_OR_LONG_7_2_7_ALL_P_SIC_SLOTS",
+    "khād_grade": "LEXICAL_LONG_A_NO_SHORT_A_OPTION",
+    "ksa_plural_schedule": "BM_7_3_72_ANT_THEN_FINAL_A_LOPA_SELECTED",
+    "ksa_plural_alternative_explanation": "BM_PARARUPA_REMARK_RETAINED_NOT_ENUMERATED_AS_ANOTHER_WORD_OR_SCHEDULER_PATH",
+    "path_scope": "SOURCE_SELECTED_GRAMMATICAL_CHOICES_NOT_ALL_EQUIVALENT_LEGAL_SCHEDULES",
+    "viś_augment_intervention": "PG72_BM_1_3_17_PERMISSION_REUSED",
+    "sic_lopa_ekadesa": "PG65_SOURCE_QUALIFIED_LOCAL_VISIBILITY_REUSED",
+    "pause": "CAR_SELECTED_8_4_56",
+    "optional_consonant_doubling": "NOT_ENUMERATED",
+    "passive_cinvat_branches": "OUT_OF_DOMAIN"
+  },
+  "position_accounting": {
+    "new_paradigms": 7,
+    "new_positions": 63,
+    "new_readings": 90,
+    "paths": 90,
+    "panels": [
+      {
+        "panel": "P1",
+        "root": "gad",
+        "paradigms": 1,
+        "positions": 9,
+        "readings": 18,
+        "paths": 18
+      },
+      {
+        "panel": "P2",
+        "root": "pac",
+        "paradigms": 1,
+        "positions": 9,
+        "readings": 18,
+        "paths": 18
+      },
+      {
+        "panel": "P3",
+        "root": "viś",
+        "paradigms": 1,
+        "positions": 9,
+        "readings": 18,
+        "paths": 18
+      },
+      {
+        "panel": "P4",
+        "root": "kṛ",
+        "paradigms": 1,
+        "positions": 9,
+        "readings": 9,
+        "paths": 9
+      },
+      {
+        "panel": "P5",
+        "root": "kṣi",
+        "paradigms": 1,
+        "positions": 9,
+        "readings": 9,
+        "paths": 9
+      },
+      {
+        "panel": "P6",
+        "root": "piṣ",
+        "paradigms": 1,
+        "positions": 9,
+        "readings": 9,
+        "paths": 9
+      },
+      {
+        "panel": "P7",
+        "root": "khād",
+        "paradigms": 1,
+        "positions": 9,
+        "readings": 9,
+        "paths": 9
+      }
+    ],
+    "forms": [
+      {
+        "root": "gad",
+        "lexical_id": "1010054",
+        "profile": "ORDINARY_BASIC_1010054",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "panel": "P1",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "MANDATORY_8_4_17",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1010054",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyagadīt",
+          "praṇyagādīt"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyagadīt",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": "IIT_7_3_96",
+            "sic_s_lopa": "IT_SIC_IIT_8_2_28",
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "gad:lung:3sg:b1"
+          },
+          {
+            "reading": "praṇyagādīt",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "LONG",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": "IIT_7_3_96",
+            "sic_s_lopa": "IT_SIC_IIT_8_2_28",
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "gad:lung:3sg:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "gad",
+        "lexical_id": "1010054",
+        "profile": "ORDINARY_BASIC_1010054",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3du",
+        "panel": "P1",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "MANDATORY_8_4_17",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1010054",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyagadiṣṭām",
+          "praṇyagādiṣṭām"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyagadiṣṭām",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "gad:lung:3du:b1"
+          },
+          {
+            "reading": "praṇyagādiṣṭām",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "LONG",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "gad:lung:3du:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "gad",
+        "lexical_id": "1010054",
+        "profile": "ORDINARY_BASIC_1010054",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "panel": "P1",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "MANDATORY_8_4_17",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1010054",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": "JHA_TO_JUS_3_4_109",
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyagadiṣuḥ",
+          "praṇyagādiṣuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyagadiṣuḥ",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "gad:lung:3pl:b1"
+          },
+          {
+            "reading": "praṇyagādiṣuḥ",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "LONG",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "gad:lung:3pl:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "gad",
+        "lexical_id": "1010054",
+        "profile": "ORDINARY_BASIC_1010054",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "panel": "P1",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "MANDATORY_8_4_17",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1010054",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyagadīḥ",
+          "praṇyagādīḥ"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyagadīḥ",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": "IIT_7_3_96",
+            "sic_s_lopa": "IT_SIC_IIT_8_2_28",
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "gad:lung:2sg:b1"
+          },
+          {
+            "reading": "praṇyagādīḥ",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "LONG",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": "IIT_7_3_96",
+            "sic_s_lopa": "IT_SIC_IIT_8_2_28",
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "gad:lung:2sg:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "gad",
+        "lexical_id": "1010054",
+        "profile": "ORDINARY_BASIC_1010054",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2du",
+        "panel": "P1",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "MANDATORY_8_4_17",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1010054",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyagadiṣṭam",
+          "praṇyagādiṣṭam"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyagadiṣṭam",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "gad:lung:2du:b1"
+          },
+          {
+            "reading": "praṇyagādiṣṭam",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "LONG",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "gad:lung:2du:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "gad",
+        "lexical_id": "1010054",
+        "profile": "ORDINARY_BASIC_1010054",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "panel": "P1",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "MANDATORY_8_4_17",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1010054",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyagadiṣṭa",
+          "praṇyagādiṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyagadiṣṭa",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "gad:lung:2pl:b1"
+          },
+          {
+            "reading": "praṇyagādiṣṭa",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "LONG",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "gad:lung:2pl:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "gad",
+        "lexical_id": "1010054",
+        "profile": "ORDINARY_BASIC_1010054",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "panel": "P1",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "MANDATORY_8_4_17",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1010054",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyagadiṣam",
+          "praṇyagādiṣam"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyagadiṣam",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "gad:lung:1sg:b1"
+          },
+          {
+            "reading": "praṇyagādiṣam",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "LONG",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "gad:lung:1sg:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "gad",
+        "lexical_id": "1010054",
+        "profile": "ORDINARY_BASIC_1010054",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1du",
+        "panel": "P1",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "MANDATORY_8_4_17",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1010054",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyagadiṣva",
+          "praṇyagādiṣva"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyagadiṣva",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "gad:lung:1du:b1"
+          },
+          {
+            "reading": "praṇyagādiṣva",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "LONG",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "gad:lung:1du:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "gad",
+        "lexical_id": "1010054",
+        "profile": "ORDINARY_BASIC_1010054",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "panel": "P1",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "MANDATORY_8_4_17",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1010054",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyagadiṣma",
+          "praṇyagādiṣma"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyagadiṣma",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "gad:lung:1pl:b1"
+          },
+          {
+            "reading": "praṇyagādiṣma",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "LONG",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "gad:lung:1pl:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "pac",
+        "lexical_id": "1011151",
+        "profile": "ORDINARY_BASIC_1011151",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "panel": "P2",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "OPTIONAL_8_4_18",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1011151",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": "ROOT_C_TO_K_8_2_30",
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyapākṣīt",
+          "pranyapākṣīt"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyapākṣīt",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "MANDATORY_LONG",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": "IIT_7_3_96",
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "pac:lung:3sg:b1"
+          },
+          {
+            "reading": "pranyapākṣīt",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "MANDATORY_LONG",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": "IIT_7_3_96",
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "pac:lung:3sg:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "pac",
+        "lexical_id": "1011151",
+        "profile": "ORDINARY_BASIC_1011151",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3du",
+        "panel": "P2",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "OPTIONAL_8_4_18",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1011151",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": "ROOT_C_TO_K_8_2_30",
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyapāktām",
+          "pranyapāktām"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyapāktām",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "MANDATORY_LONG",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": "JHAL_SIC_JHAL_8_2_26",
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "pac:lung:3du:b1"
+          },
+          {
+            "reading": "pranyapāktām",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "MANDATORY_LONG",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": "JHAL_SIC_JHAL_8_2_26",
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "pac:lung:3du:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "pac",
+        "lexical_id": "1011151",
+        "profile": "ORDINARY_BASIC_1011151",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "panel": "P2",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "OPTIONAL_8_4_18",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1011151",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": "ROOT_C_TO_K_8_2_30",
+          "ending_it_not_val_augment": false,
+          "third_plural": "JHA_TO_JUS_3_4_109",
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyapākṣuḥ",
+          "pranyapākṣuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyapākṣuḥ",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "MANDATORY_LONG",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "pac:lung:3pl:b1"
+          },
+          {
+            "reading": "pranyapākṣuḥ",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "MANDATORY_LONG",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "pac:lung:3pl:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "pac",
+        "lexical_id": "1011151",
+        "profile": "ORDINARY_BASIC_1011151",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "panel": "P2",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "OPTIONAL_8_4_18",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1011151",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": "ROOT_C_TO_K_8_2_30",
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyapākṣīḥ",
+          "pranyapākṣīḥ"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyapākṣīḥ",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "MANDATORY_LONG",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": "IIT_7_3_96",
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "pac:lung:2sg:b1"
+          },
+          {
+            "reading": "pranyapākṣīḥ",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "MANDATORY_LONG",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": "IIT_7_3_96",
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "pac:lung:2sg:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "pac",
+        "lexical_id": "1011151",
+        "profile": "ORDINARY_BASIC_1011151",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2du",
+        "panel": "P2",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "OPTIONAL_8_4_18",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1011151",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": "ROOT_C_TO_K_8_2_30",
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyapāktam",
+          "pranyapāktam"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyapāktam",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "MANDATORY_LONG",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": "JHAL_SIC_JHAL_8_2_26",
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "pac:lung:2du:b1"
+          },
+          {
+            "reading": "pranyapāktam",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "MANDATORY_LONG",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": "JHAL_SIC_JHAL_8_2_26",
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "pac:lung:2du:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "pac",
+        "lexical_id": "1011151",
+        "profile": "ORDINARY_BASIC_1011151",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "panel": "P2",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "OPTIONAL_8_4_18",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1011151",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": "ROOT_C_TO_K_8_2_30",
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyapākta",
+          "pranyapākta"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyapākta",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "MANDATORY_LONG",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": "JHAL_SIC_JHAL_8_2_26",
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "pac:lung:2pl:b1"
+          },
+          {
+            "reading": "pranyapākta",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "MANDATORY_LONG",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": "JHAL_SIC_JHAL_8_2_26",
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "pac:lung:2pl:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "pac",
+        "lexical_id": "1011151",
+        "profile": "ORDINARY_BASIC_1011151",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "panel": "P2",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "OPTIONAL_8_4_18",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1011151",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": "ROOT_C_TO_K_8_2_30",
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyapākṣam",
+          "pranyapākṣam"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyapākṣam",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "MANDATORY_LONG",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "pac:lung:1sg:b1"
+          },
+          {
+            "reading": "pranyapākṣam",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "MANDATORY_LONG",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "pac:lung:1sg:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "pac",
+        "lexical_id": "1011151",
+        "profile": "ORDINARY_BASIC_1011151",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1du",
+        "panel": "P2",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "OPTIONAL_8_4_18",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1011151",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": "ROOT_C_TO_K_8_2_30",
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyapākṣva",
+          "pranyapākṣva"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyapākṣva",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "MANDATORY_LONG",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "pac:lung:1du:b1"
+          },
+          {
+            "reading": "pranyapākṣva",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "MANDATORY_LONG",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "pac:lung:1du:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "pac",
+        "lexical_id": "1011151",
+        "profile": "ORDINARY_BASIC_1011151",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "panel": "P2",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "OPTIONAL_8_4_18",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1011151",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": "ROOT_C_TO_K_8_2_30",
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyapākṣma",
+          "pranyapākṣma"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyapākṣma",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "MANDATORY_LONG",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "pac:lung:1pl:b1"
+          },
+          {
+            "reading": "pranyapākṣma",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "MANDATORY_LONG",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "pac:lung:1pl:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "viś",
+        "lexical_id": "1060160",
+        "profile": "ORDINARY_BASIC_1060160",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "panel": "P3",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "OPTIONAL_8_4_18",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1060160",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": "BM_1_3_17_AT_VARTTIKA",
+          "selected_affix": "ksa",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": "KIT_1_3_8",
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "KSA_S",
+          "suffix_a": "KSA_A",
+          "root_k_origin": "ROOT_SH_TO_SSA_TO_K_8_2_36_41_NOT_KSA_MARKER",
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyavikṣata",
+          "pranyavikṣata"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyavikṣata",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "ksa",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "viś:lung:3sg:b1"
+          },
+          {
+            "reading": "pranyavikṣata",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "ksa",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "viś:lung:3sg:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "viś",
+        "lexical_id": "1060160",
+        "profile": "ORDINARY_BASIC_1060160",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3du",
+        "panel": "P3",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "OPTIONAL_8_4_18",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1060160",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": "BM_1_3_17_AT_VARTTIKA",
+          "selected_affix": "ksa",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": "KIT_1_3_8",
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "KSA_S",
+          "suffix_a": "KSA_A",
+          "root_k_origin": "ROOT_SH_TO_SSA_TO_K_8_2_36_41_NOT_KSA_MARKER",
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": "BLOCKED_AFTER_KSA_A_LOPA",
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyavikṣātām",
+          "pranyavikṣātām"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyavikṣātām",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "ksa",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": "FINAL_A_ONLY_7_3_72",
+            "ksa_plural_schedule": null,
+            "history_label": "viś:lung:3du:b1"
+          },
+          {
+            "reading": "pranyavikṣātām",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "ksa",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": "FINAL_A_ONLY_7_3_72",
+            "ksa_plural_schedule": null,
+            "history_label": "viś:lung:3du:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "viś",
+        "lexical_id": "1060160",
+        "profile": "ORDINARY_BASIC_1060160",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "panel": "P3",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "OPTIONAL_8_4_18",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1060160",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": "BM_1_3_17_AT_VARTTIKA",
+          "selected_affix": "ksa",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": "KIT_1_3_8",
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "KSA_S",
+          "suffix_a": "KSA_A",
+          "root_k_origin": "ROOT_SH_TO_SSA_TO_K_8_2_36_41_NOT_KSA_MARKER",
+          "ending_it_not_val_augment": false,
+          "third_plural": "JHA_TO_ANT_BEFORE_KSA_A_LOPA",
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyavikṣanta",
+          "pranyavikṣanta"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyavikṣanta",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "ksa",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": "FINAL_A_ONLY_7_3_72",
+            "ksa_plural_schedule": "ANT_THEN_A_LOPA",
+            "history_label": "viś:lung:3pl:b1"
+          },
+          {
+            "reading": "pranyavikṣanta",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "ksa",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": "FINAL_A_ONLY_7_3_72",
+            "ksa_plural_schedule": "ANT_THEN_A_LOPA",
+            "history_label": "viś:lung:3pl:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "viś",
+        "lexical_id": "1060160",
+        "profile": "ORDINARY_BASIC_1060160",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "panel": "P3",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "OPTIONAL_8_4_18",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1060160",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": "BM_1_3_17_AT_VARTTIKA",
+          "selected_affix": "ksa",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": "KIT_1_3_8",
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "KSA_S",
+          "suffix_a": "KSA_A",
+          "root_k_origin": "ROOT_SH_TO_SSA_TO_K_8_2_36_41_NOT_KSA_MARKER",
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyavikṣathāḥ",
+          "pranyavikṣathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyavikṣathāḥ",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "ksa",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "viś:lung:2sg:b1"
+          },
+          {
+            "reading": "pranyavikṣathāḥ",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "ksa",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "viś:lung:2sg:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "viś",
+        "lexical_id": "1060160",
+        "profile": "ORDINARY_BASIC_1060160",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2du",
+        "panel": "P3",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "OPTIONAL_8_4_18",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1060160",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": "BM_1_3_17_AT_VARTTIKA",
+          "selected_affix": "ksa",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": "KIT_1_3_8",
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "KSA_S",
+          "suffix_a": "KSA_A",
+          "root_k_origin": "ROOT_SH_TO_SSA_TO_K_8_2_36_41_NOT_KSA_MARKER",
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": "BLOCKED_AFTER_KSA_A_LOPA",
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyavikṣāthām",
+          "pranyavikṣāthām"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyavikṣāthām",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "ksa",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": "FINAL_A_ONLY_7_3_72",
+            "ksa_plural_schedule": null,
+            "history_label": "viś:lung:2du:b1"
+          },
+          {
+            "reading": "pranyavikṣāthām",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "ksa",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": "FINAL_A_ONLY_7_3_72",
+            "ksa_plural_schedule": null,
+            "history_label": "viś:lung:2du:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "viś",
+        "lexical_id": "1060160",
+        "profile": "ORDINARY_BASIC_1060160",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "panel": "P3",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "OPTIONAL_8_4_18",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1060160",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": "BM_1_3_17_AT_VARTTIKA",
+          "selected_affix": "ksa",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": "KIT_1_3_8",
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "KSA_S",
+          "suffix_a": "KSA_A",
+          "root_k_origin": "ROOT_SH_TO_SSA_TO_K_8_2_36_41_NOT_KSA_MARKER",
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": "DENTAL_AFTER_KSA_A",
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyavikṣadhvam",
+          "pranyavikṣadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyavikṣadhvam",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "ksa",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "viś:lung:2pl:b1"
+          },
+          {
+            "reading": "pranyavikṣadhvam",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "ksa",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "viś:lung:2pl:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "viś",
+        "lexical_id": "1060160",
+        "profile": "ORDINARY_BASIC_1060160",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "panel": "P3",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "OPTIONAL_8_4_18",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1060160",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": "BM_1_3_17_AT_VARTTIKA",
+          "selected_affix": "ksa",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": "KIT_1_3_8",
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "KSA_S",
+          "suffix_a": "KSA_A",
+          "root_k_origin": "ROOT_SH_TO_SSA_TO_K_8_2_36_41_NOT_KSA_MARKER",
+          "ending_it_not_val_augment": true,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyavikṣi",
+          "pranyavikṣi"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyavikṣi",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "ksa",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": "FINAL_A_ONLY_7_3_72",
+            "ksa_plural_schedule": null,
+            "history_label": "viś:lung:1sg:b1"
+          },
+          {
+            "reading": "pranyavikṣi",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "ksa",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": "FINAL_A_ONLY_7_3_72",
+            "ksa_plural_schedule": null,
+            "history_label": "viś:lung:1sg:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "viś",
+        "lexical_id": "1060160",
+        "profile": "ORDINARY_BASIC_1060160",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1du",
+        "panel": "P3",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "OPTIONAL_8_4_18",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1060160",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": "BM_1_3_17_AT_VARTTIKA",
+          "selected_affix": "ksa",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": "KIT_1_3_8",
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "KSA_S",
+          "suffix_a": "KSA_A",
+          "root_k_origin": "ROOT_SH_TO_SSA_TO_K_8_2_36_41_NOT_KSA_MARKER",
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": "7_3_101",
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyavikṣāvahi",
+          "pranyavikṣāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyavikṣāvahi",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "ksa",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "viś:lung:1du:b1"
+          },
+          {
+            "reading": "pranyavikṣāvahi",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "ksa",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "viś:lung:1du:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "viś",
+        "lexical_id": "1060160",
+        "profile": "ORDINARY_BASIC_1060160",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "panel": "P3",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "OPTIONAL_8_4_18",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1060160",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": "BM_1_3_17_AT_VARTTIKA",
+          "selected_affix": "ksa",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": "KIT_1_3_8",
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "KSA_S",
+          "suffix_a": "KSA_A",
+          "root_k_origin": "ROOT_SH_TO_SSA_TO_K_8_2_36_41_NOT_KSA_MARKER",
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": "7_3_101",
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "praṇyavikṣāmahi",
+          "pranyavikṣāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "praṇyavikṣāmahi",
+            "prefix_n": "RETROFLEX",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "ksa",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "viś:lung:1pl:b1"
+          },
+          {
+            "reading": "pranyavikṣāmahi",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "ksa",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "viś:lung:1pl:b2"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "kṛ",
+        "lexical_id": "1080010",
+        "profile": "ORDINARY_BASIC_1080010",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "panel": "P4",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_K",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1080010",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakārṣīt"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakārṣīt",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "AR_VRDDHI",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": "IIT_7_3_96",
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "kṛ:lung:3sg:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "kṛ",
+        "lexical_id": "1080010",
+        "profile": "ORDINARY_BASIC_1080010",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3du",
+        "panel": "P4",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_K",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1080010",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakārṣṭām"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakārṣṭām",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "AR_VRDDHI",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "kṛ:lung:3du:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "kṛ",
+        "lexical_id": "1080010",
+        "profile": "ORDINARY_BASIC_1080010",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "panel": "P4",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_K",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1080010",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": "JHA_TO_JUS_3_4_109",
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakārṣuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakārṣuḥ",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "AR_VRDDHI",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "kṛ:lung:3pl:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "kṛ",
+        "lexical_id": "1080010",
+        "profile": "ORDINARY_BASIC_1080010",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "panel": "P4",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_K",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1080010",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakārṣīḥ"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakārṣīḥ",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "AR_VRDDHI",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": "IIT_7_3_96",
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "kṛ:lung:2sg:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "kṛ",
+        "lexical_id": "1080010",
+        "profile": "ORDINARY_BASIC_1080010",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2du",
+        "panel": "P4",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_K",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1080010",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakārṣṭam"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakārṣṭam",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "AR_VRDDHI",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "kṛ:lung:2du:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "kṛ",
+        "lexical_id": "1080010",
+        "profile": "ORDINARY_BASIC_1080010",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "panel": "P4",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_K",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1080010",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakārṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakārṣṭa",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "AR_VRDDHI",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "kṛ:lung:2pl:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "kṛ",
+        "lexical_id": "1080010",
+        "profile": "ORDINARY_BASIC_1080010",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "panel": "P4",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_K",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1080010",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakārṣam"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakārṣam",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "AR_VRDDHI",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "kṛ:lung:1sg:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "kṛ",
+        "lexical_id": "1080010",
+        "profile": "ORDINARY_BASIC_1080010",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1du",
+        "panel": "P4",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_K",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1080010",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakārṣva"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakārṣva",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "AR_VRDDHI",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "kṛ:lung:1du:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "kṛ",
+        "lexical_id": "1080010",
+        "profile": "ORDINARY_BASIC_1080010",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "panel": "P4",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_K",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1080010",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakārṣma"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakārṣma",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "AR_VRDDHI",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "kṛ:lung:1pl:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "kṣi",
+        "lexical_id": "1050033",
+        "profile": "SK_KSI_REPORTED_BHASHA_1050033",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "panel": "P5",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_K",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1050033",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakṣaiṣīt"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakṣaiṣīt",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "AI_VRDDHI",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": "IIT_7_3_96",
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "kṣi:lung:3sg:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "kṣi",
+        "lexical_id": "1050033",
+        "profile": "SK_KSI_REPORTED_BHASHA_1050033",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3du",
+        "panel": "P5",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_K",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1050033",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakṣaiṣṭām"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakṣaiṣṭām",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "AI_VRDDHI",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "kṣi:lung:3du:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "kṣi",
+        "lexical_id": "1050033",
+        "profile": "SK_KSI_REPORTED_BHASHA_1050033",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "panel": "P5",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_K",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1050033",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": "JHA_TO_JUS_3_4_109",
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakṣaiṣuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakṣaiṣuḥ",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "AI_VRDDHI",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "kṣi:lung:3pl:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "kṣi",
+        "lexical_id": "1050033",
+        "profile": "SK_KSI_REPORTED_BHASHA_1050033",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "panel": "P5",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_K",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1050033",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakṣaiṣīḥ"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakṣaiṣīḥ",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "AI_VRDDHI",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": "IIT_7_3_96",
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "kṣi:lung:2sg:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "kṣi",
+        "lexical_id": "1050033",
+        "profile": "SK_KSI_REPORTED_BHASHA_1050033",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2du",
+        "panel": "P5",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_K",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1050033",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakṣaiṣṭam"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakṣaiṣṭam",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "AI_VRDDHI",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "kṣi:lung:2du:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "kṣi",
+        "lexical_id": "1050033",
+        "profile": "SK_KSI_REPORTED_BHASHA_1050033",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "panel": "P5",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_K",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1050033",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakṣaiṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakṣaiṣṭa",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "AI_VRDDHI",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "kṣi:lung:2pl:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "kṣi",
+        "lexical_id": "1050033",
+        "profile": "SK_KSI_REPORTED_BHASHA_1050033",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "panel": "P5",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_K",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1050033",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakṣaiṣam"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakṣaiṣam",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "AI_VRDDHI",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "kṣi:lung:1sg:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "kṣi",
+        "lexical_id": "1050033",
+        "profile": "SK_KSI_REPORTED_BHASHA_1050033",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1du",
+        "panel": "P5",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_K",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1050033",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakṣaiṣva"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakṣaiṣva",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "AI_VRDDHI",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "kṣi:lung:1du:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "kṣi",
+        "lexical_id": "1050033",
+        "profile": "SK_KSI_REPORTED_BHASHA_1050033",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "panel": "P5",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_K",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1050033",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "INHERITED_MARKER_LEDGER",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakṣaiṣma"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakṣaiṣma",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "AI_VRDDHI",
+            "selected_affix": "sic",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "kṣi:lung:1pl:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "piṣ",
+        "lexical_id": "1070015",
+        "profile": "ORDINARY_BASIC_1070015",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "panel": "P6",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_SSA",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1070015",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "aṅ",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": "NGIT_1_3_3",
+          "selection_marker": "ḷ_IT",
+          "suffix_s": null,
+          "suffix_a": "ANG_A",
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyapiṣat"
+        ],
+        "paths": [
+          {
+            "reading": "pranyapiṣat",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "aṅ",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "piṣ:lung:3sg:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "piṣ",
+        "lexical_id": "1070015",
+        "profile": "ORDINARY_BASIC_1070015",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3du",
+        "panel": "P6",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_SSA",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1070015",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "aṅ",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": "NGIT_1_3_3",
+          "selection_marker": "ḷ_IT",
+          "suffix_s": null,
+          "suffix_a": "ANG_A",
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyapiṣatām"
+        ],
+        "paths": [
+          {
+            "reading": "pranyapiṣatām",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "aṅ",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "piṣ:lung:3du:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "piṣ",
+        "lexical_id": "1070015",
+        "profile": "ORDINARY_BASIC_1070015",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "panel": "P6",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_SSA",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1070015",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "aṅ",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": "NGIT_1_3_3",
+          "selection_marker": "ḷ_IT",
+          "suffix_s": null,
+          "suffix_a": "ANG_A",
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": "JHA_TO_ANT_FINAL_NT_SIMPLIFICATION",
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyapiṣan"
+        ],
+        "paths": [
+          {
+            "reading": "pranyapiṣan",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "aṅ",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "piṣ:lung:3pl:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "piṣ",
+        "lexical_id": "1070015",
+        "profile": "ORDINARY_BASIC_1070015",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "panel": "P6",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_SSA",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1070015",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "aṅ",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": "NGIT_1_3_3",
+          "selection_marker": "ḷ_IT",
+          "suffix_s": null,
+          "suffix_a": "ANG_A",
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyapiṣaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "pranyapiṣaḥ",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "aṅ",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "piṣ:lung:2sg:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "piṣ",
+        "lexical_id": "1070015",
+        "profile": "ORDINARY_BASIC_1070015",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2du",
+        "panel": "P6",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_SSA",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1070015",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "aṅ",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": "NGIT_1_3_3",
+          "selection_marker": "ḷ_IT",
+          "suffix_s": null,
+          "suffix_a": "ANG_A",
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyapiṣatam"
+        ],
+        "paths": [
+          {
+            "reading": "pranyapiṣatam",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "aṅ",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "piṣ:lung:2du:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "piṣ",
+        "lexical_id": "1070015",
+        "profile": "ORDINARY_BASIC_1070015",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "panel": "P6",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_SSA",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1070015",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "aṅ",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": "NGIT_1_3_3",
+          "selection_marker": "ḷ_IT",
+          "suffix_s": null,
+          "suffix_a": "ANG_A",
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyapiṣata"
+        ],
+        "paths": [
+          {
+            "reading": "pranyapiṣata",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "aṅ",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "piṣ:lung:2pl:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "piṣ",
+        "lexical_id": "1070015",
+        "profile": "ORDINARY_BASIC_1070015",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "panel": "P6",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_SSA",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1070015",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "aṅ",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": "NGIT_1_3_3",
+          "selection_marker": "ḷ_IT",
+          "suffix_s": null,
+          "suffix_a": "ANG_A",
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyapiṣam"
+        ],
+        "paths": [
+          {
+            "reading": "pranyapiṣam",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "aṅ",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "piṣ:lung:1sg:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "piṣ",
+        "lexical_id": "1070015",
+        "profile": "ORDINARY_BASIC_1070015",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1du",
+        "panel": "P6",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_SSA",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1070015",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "aṅ",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": "NGIT_1_3_3",
+          "selection_marker": "ḷ_IT",
+          "suffix_s": null,
+          "suffix_a": "ANG_A",
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": "7_3_101",
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyapiṣāva"
+        ],
+        "paths": [
+          {
+            "reading": "pranyapiṣāva",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "aṅ",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "piṣ:lung:1du:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "piṣ",
+        "lexical_id": "1070015",
+        "profile": "ORDINARY_BASIC_1070015",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "panel": "P6",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_SSA",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1070015",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "aṅ",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": "NGIT_1_3_3",
+          "selection_marker": "ḷ_IT",
+          "suffix_s": null,
+          "suffix_a": "ANG_A",
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": "7_3_101",
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyapiṣāma"
+        ],
+        "paths": [
+          {
+            "reading": "pranyapiṣāma",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "SHORT_I",
+            "selected_affix": "aṅ",
+            "affix_it": null,
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "piṣ:lung:1pl:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "khād",
+        "lexical_id": "1010051",
+        "profile": "ORDINARY_BASIC_1010051",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "panel": "P7",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_KH",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1010051",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "ṛ_IT_NOT_ḷ_IT",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakhādīt"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakhādīt",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "LEXICAL_LONG",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": "IIT_7_3_96",
+            "sic_s_lopa": "IT_SIC_IIT_8_2_28",
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "khād:lung:3sg:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "khād",
+        "lexical_id": "1010051",
+        "profile": "ORDINARY_BASIC_1010051",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3du",
+        "panel": "P7",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_KH",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1010051",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "ṛ_IT_NOT_ḷ_IT",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakhādiṣṭām"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakhādiṣṭām",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "LEXICAL_LONG",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "khād:lung:3du:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "khād",
+        "lexical_id": "1010051",
+        "profile": "ORDINARY_BASIC_1010051",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "panel": "P7",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_KH",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1010051",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "ṛ_IT_NOT_ḷ_IT",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": "JHA_TO_JUS_3_4_109",
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakhādiṣuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakhādiṣuḥ",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "LEXICAL_LONG",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "khād:lung:3pl:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "khād",
+        "lexical_id": "1010051",
+        "profile": "ORDINARY_BASIC_1010051",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "panel": "P7",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_KH",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1010051",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "ṛ_IT_NOT_ḷ_IT",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakhādīḥ"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakhādīḥ",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "LEXICAL_LONG",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": "IIT_7_3_96",
+            "sic_s_lopa": "IT_SIC_IIT_8_2_28",
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "khād:lung:2sg:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "khād",
+        "lexical_id": "1010051",
+        "profile": "ORDINARY_BASIC_1010051",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2du",
+        "panel": "P7",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_KH",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1010051",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "ṛ_IT_NOT_ḷ_IT",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakhādiṣṭam"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakhādiṣṭam",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "LEXICAL_LONG",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "khād:lung:2du:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "khād",
+        "lexical_id": "1010051",
+        "profile": "ORDINARY_BASIC_1010051",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "panel": "P7",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_KH",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1010051",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "ṛ_IT_NOT_ḷ_IT",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakhādiṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakhādiṣṭa",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "LEXICAL_LONG",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "khād:lung:2pl:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "khād",
+        "lexical_id": "1010051",
+        "profile": "ORDINARY_BASIC_1010051",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "panel": "P7",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_KH",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1010051",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "ṛ_IT_NOT_ḷ_IT",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakhādiṣam"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakhādiṣam",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "LEXICAL_LONG",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "khād:lung:1sg:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "khād",
+        "lexical_id": "1010051",
+        "profile": "ORDINARY_BASIC_1010051",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1du",
+        "panel": "P7",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_KH",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1010051",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "ṛ_IT_NOT_ḷ_IT",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakhādiṣva"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakhādiṣva",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "LEXICAL_LONG",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "khād:lung:1du:b1"
+          }
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "root": "khād",
+        "lexical_id": "1010051",
+        "profile": "ORDINARY_BASIC_1010051",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "panel": "P7",
+        "context": "completed_witnessed_event_earlier_today_3_2_110_without_mang",
+        "upasarga": [
+          "pra",
+          "ni"
+        ],
+        "kriyayoga": "BOTH_REQUIRED",
+        "participant_roles": [
+          "AGENT",
+          "OBJECT"
+        ],
+        "controller": "AGENT",
+        "ni_policy": "BLOCKED_ORIGINAL_KH",
+        "owners": {
+          "prefix_target": "prefix[1].n",
+          "original_teaching": "1010051",
+          "initial_augment": "AT_AT_VERBAL_ANGA_START_AFTER_PREFIXES",
+          "present_vikarana": null,
+          "viś_augment_intervention": null,
+          "selected_affix": "sic",
+          "affix_class": "ARDHADHATUKA",
+          "ending_class": "SARVADHATUKA",
+          "marker_effect": null,
+          "selection_marker": "ṛ_IT_NOT_ḷ_IT",
+          "suffix_s": "SIC_S",
+          "suffix_a": null,
+          "root_k_origin": null,
+          "ending_it_not_val_augment": false,
+          "third_plural": null,
+          "dual_iy": null,
+          "first_person_a_lengthening": null,
+          "second_plural_dh": null,
+          "pause": "CAR_SELECTED_8_4_56"
+        },
+        "readings": [
+          "pranyakhādiṣma"
+        ],
+        "paths": [
+          {
+            "reading": "pranyakhādiṣma",
+            "prefix_n": "DENTAL",
+            "prefix_i": "Y_BEFORE_AT",
+            "root_grade": "LEXICAL_LONG",
+            "selected_affix": "sic",
+            "affix_it": "I_VAL_7_2_35",
+            "ending_iit": null,
+            "sic_s_lopa": null,
+            "ksa_a_lopa": null,
+            "ksa_plural_schedule": null,
+            "history_label": "khād:lung:1pl:b1"
+          }
+        ],
+        "new_position_credit": 1
+      }
+    ]
+  },
+  "closed_request_grid": {
+    "prefixes": [
+      "pra",
+      "ni"
+    ],
+    "roots": [
+      "gad",
+      "pac",
+      "viś",
+      "kṛ",
+      "kṣi",
+      "piṣ",
+      "khād"
+    ],
+    "lakaras": [
+      "lung"
+    ],
+    "slots": [
+      "3sg",
+      "3du",
+      "3pl",
+      "2sg",
+      "2du",
+      "2pl",
+      "1sg",
+      "1du",
+      "1pl"
+    ],
+    "positions": 63,
+    "paradigms": 7,
+    "within_position_readings": 90,
+    "paths": 90,
+    "remaining_positions": 0,
+    "boundary": "Exact inherited seven-root basic kartari pra-ni luṅ complement."
+  },
+  "joined_prefix_grid": {
+    "predecessors": [
+      {
+        "commit": "18b431eddcae2b41238549d1bf2f8131d640243b",
+        "state": "research/panini_grammar/prefix_ni/STATE.json"
+      },
+      {
+        "commit": "18b431eddcae2b41238549d1bf2f8131d640243b",
+        "state": "research/panini_grammar/prefix_ni_modals/STATE.json"
+      }
+    ],
+    "prefixes": [
+      "pra",
+      "ni"
+    ],
+    "root_profiles": [
+      "gad",
+      "pac",
+      "viś",
+      "kṛ",
+      "kṣi",
+      "piṣ",
+      "khād"
+    ],
+    "target_lakaras": [
+      "lat",
+      "lit",
+      "lut",
+      "lrt",
+      "lot",
+      "lang",
+      "vidhiling",
+      "ashirling",
+      "lung",
+      "lrng"
+    ],
+    "context_codes": {
+      "lat": "present_3_2_123",
+      "lang": "non_today_past_3_2_111_without_mang",
+      "lut": "non_today_future_3_3_15",
+      "lrt": "ordinary_future_3_3_13",
+      "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+      "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+      "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+      "ashirling": "unattained_selected_event_blessing_3_3_173",
+      "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+      "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+    },
+    "slots": [
+      "3sg",
+      "3du",
+      "3pl",
+      "2sg",
+      "2du",
+      "2pl",
+      "1sg",
+      "1du",
+      "1pl"
+    ],
+    "target_positions": 630,
+    "written_positions": 630,
+    "written_paradigms": 70,
+    "readings": 832,
+    "paths": 834,
+    "remaining_positions": 0,
+    "remaining_paradigms": 0,
+    "missing_requests": [],
+    "contributions": [
+      {
+        "stage": "PG71",
+        "positions": 279,
+        "paradigms": 31,
+        "readings": 358,
+        "paths": 359
+      },
+      {
+        "stage": "PG72",
+        "positions": 288,
+        "paradigms": 32,
+        "readings": 384,
+        "paths": 385
+      },
+      {
+        "stage": "PG73",
+        "positions": 63,
+        "paradigms": 7,
+        "readings": 90,
+        "paths": 90
+      }
+    ],
+    "boundary": "SOURCE_QUALIFIED_FINITE_WRITTEN_CLOSURE_NOT_COMPLETE_SANSKRIT_OR_RUNTIME_PROOF"
+  },
+  "native_controls": {
+    "pada_A_agent_controlled_positions": 9,
+    "mandatory_ni_positions": 9,
+    "optional_ni_positions": 18,
+    "blocked_ni_positions": 36,
+    "sic_positions": 45,
+    "ksa_positions": 9,
+    "aṅ_positions": 9,
+    "gad_grade_alternative_positions": 9,
+    "affix_it_positions": 18,
+    "ending_iit_positions": 10,
+    "sic_lopa_positions": 7,
+    "ksa_a_lopa_positions": 4,
+    "overridden_broad_ksa_positions": 9,
+    "new_coincident_reading_paths": 0,
+    "zero_specialization": "RETAIN_SOURCE_MARKER_CONTEXT_ROLES_RECIPIENT_STAGE_BRANCH_SMRTI",
+    "physical_RH_YM_upgrade": false
+  },
+  "companion": {
+    "branch": "shaiva-sources-maheshvara-spanda-pratyabhijna",
+    "commit": "edd98b0685b478cb39468e350b26783bb4cce7ff",
+    "report": "T166",
+    "static_only": true
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_checks": "PASS",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "navigation_operator_suites": "DEFERRED",
+    "document_check_runtime": "3.12.14",
+    "document_check_scope": "188 literal source records, 39 pins, manual-table/register/count/affix-marker/recipient/selected-order/finite-join/link/changed-path checks; no grammar execution or full ID re-audit."
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Executable source-aware grammar validation, prefix adapter, schedule/recipient certificates and replay.",
+    "Other prefix chains, actual semantic admissions and exceptional pada conditions.",
+    "Other voices/formations, accent and Vedic contexts; independent usage evidence beyond quoted examples.",
+    "Wider ṛkṣi admission remains held; broader source consensus and inherited ciri anomaly remain open.",
+    "Physical applications and RH/Yang–Mills boundaries are unchanged."
+  ],
+  "next_work": [
+    "Choose and declare the next bounded prefix/pada/meaning domain from the inherited open obligations.",
+    "Retain the closed seven-root pra-ni target and its 63 newly constructed luṅ requests without recounting them."
+  ]
+}
