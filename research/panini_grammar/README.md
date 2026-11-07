@@ -1209,6 +1209,15 @@ The multi-vowel causal caṅ interpretation is documented and uncounted.
 Exact predecessor pins replace a repeated full audit; grammar and replay
 remain deferred to implementation.
 
+**PG66** — [Source-labelled caṅ and passive continuations](cang_passive_continuations/README.md)
+adds **306 positions and 534 distinct readings**, taking the total to
+**12,758**. The caṅ hold is resolved under two named source interpretations.
+Basic, causal and san passive futures, conditional, blessing and aorist
+retain their separate ciṇ/ciṇvat and augment histories. **622 labelled
+paths** include 88 coincident san paths with no extra spelling credit.
+The packet records the unchanged T166 head; grammar and replay remain
+deferred to implementation.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
