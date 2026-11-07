@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 6 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG64 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 7 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG65 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG64 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG65 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,19 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG65: Jiri continuations and owned sic aorists
+
+[PG65](research/panini_grammar/jiri_ardhadhatuka/README.md) adds **378 written
+positions and 416 readings** across 42 complete paradigms, taking the total
+to **12,452**. Jiri's reported source policy supports the selected perfect,
+future, causal, desiderative and passive continuations. Basic and san sic
+aorists for ciri/jiri distinguish original root-vowel strengthening, san
+a-lopa history, affix iṭ and ending īṭ. The [source decision](research/panini_grammar/jiri_ardhadhatuka/SOURCE_DECISIONS.md)
+keeps causal caṅ's multi-vowel scope explicit and uncounted. Both inherited
+ID registers retain **3,983**. The [native construction](research/panini_grammar/jiri_ardhadhatuka/DOMAIN_AND_NATIVE.md)
+proves typed zero/pairing compatibility on admitted and held histories.
+Changed-document checks are separate from deferred grammar execution.
 
 ## PG64: Ciri continuations and the reported wider jiri scope
 

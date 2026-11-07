@@ -1200,6 +1200,15 @@ The written tables distinguish active, middle and passive roles, the
 root and ṇic i, and both iṭ owners of the san future. The packet includes
 a T166 handoff, the source pages and the actual document-check status.
 
+**PG65** — [Jiri continuations and owned sic aorists](jiri_ardhadhatuka/README.md)
+adds **378 positions and 416 readings** across 42 complete paradigms. The
+total is **12,452**. The reported jiri policy now supports the selected
+perfect, future, causal, desire and passive continuations. Ciri/jiri basic
+and san aorists retain the distinct root, san, iṭ, sic and īṭ histories.
+The multi-vowel causal caṅ interpretation is documented and uncounted.
+Exact predecessor pins replace a repeated full audit; grammar and replay
+remain deferred to implementation.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
