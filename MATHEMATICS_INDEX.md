@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 7 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG66 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 7 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG67 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG66 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG67 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,20 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG67: Derived blessings and voice-aware periphrastic perfects
+
+[PG67](research/panini_grammar/derived_blessing_perfect/README.md) adds
+**162 positions and 628 readings** in 18 complete paradigms, taking the
+total to **12,920**. The [source decisions](research/panini_grammar/derived_blessing_perfect/SOURCE_DECISIONS.md)
+separate primary request voice from auxiliary pada, retain the selected
+passive bhū copy-a account and correlate three as e-ending policies.
+**724 paths** preserve 96 additional coincident histories. PG63–67 now
+fill the declared two-root grid of **1,260 positions in 140 paradigms**;
+this is a bounded request-product closure, not global grammar completion.
+The [native construction](research/panini_grammar/derived_blessing_perfect/DOMAIN_AND_NATIVE.md)
+preserves the cross-slot policy relation and proves typed zero/pairing
+compatibility. Both ID registers remain **3,983**; execution/replay are deferred.
 
 ## PG66: Source-labelled caṅ and passive ārdhadhātuka continuations
 

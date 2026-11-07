@@ -1218,6 +1218,15 @@ paths** include 88 coincident san paths with no extra spelling credit.
 The packet records the unchanged T166 head; grammar and replay remain
 deferred to implementation.
 
+**PG67** — [Derived blessings and periphrastic perfects](derived_blessing_perfect/README.md)
+adds **162 positions and 628 readings**, taking the total to **12,920**.
+Primary request voice and auxiliary pada remain distinct; the passive
+as alternatives retain three correlated source policies. **724 paths**
+include 96 coincident histories without extra reading credit.
+PG63–67 fill the selected two-root grid: **1,260 positions in 140 complete
+paradigms** across ten named tense/mood requests. Broader grammar coverage
+and executable verification remain open. The companion head is still T166.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
