@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 7 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG69 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 7 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG70 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG69 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG70 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,20 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG70: Kṣi perfect and aorist closure
+
+[PG70](research/panini_grammar/ksi_perfect_aorist/README.md) adds
+**108 positions, 320 readings and 360 paths** in 12 paradigms,
+taking the cumulative register to **13,541**. Its [written construction](research/panini_grammar/ksi_perfect_aorist/DERIVATIONS.md)
+distinguishes short but guru caṅ copy i, actual ciṇ from ciṇvat,
+direct passive liṭ and derived auxiliary recipients. The selected
+kṣi grid is complete at **630 positions in 70 paradigms**, with
+924 readings and 1,000 labelled paths across pinned predecessors.
+The [native proof](research/panini_grammar/ksi_perfect_aorist/DOMAIN_AND_NATIVE.md)
+preserves addressed weight/recipient queries and typed zero/pairing
+compatibility. Both sūtra-ID registers remain **3,983**. Wider admission,
+prefix/accent/Vedic domains and grammar execution remain open.
 
 ## PG69: Kṣi ārdhadhātuka continuations
 

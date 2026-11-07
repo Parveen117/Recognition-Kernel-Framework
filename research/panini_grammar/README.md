@@ -1246,6 +1246,16 @@ histories. The selected wider grid has 522 written positions and
 108 remaining. Exact sources, native zero/pairing proof and T166
 static handoff are recorded; grammar tests and replay remain deferred.
 
+**PG70** — [Kṣi perfect and aorist closure](ksi_perfect_aorist/README.md)
+adds **108 positions, 320 readings and 360 paths**, taking the total
+to **13,541**. The remaining direct/derived perfects and caṅ/sic/ciṇ
+aorists complete the selected kṣi grid: **630 positions, 70 paradigms,
+924 readings and 1,000 labelled paths** across PG12/68/69/70.
+Copy weight before kṣ, auxiliary padas, correlated as policies and
+actual-ciṇ versus ciṇvat ownership are explicit. Exact sources and
+native zero/pairing compatibility accompany the T166 static handoff;
+grammar tests and replay remain deferred.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
