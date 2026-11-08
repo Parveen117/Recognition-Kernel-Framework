@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 8 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG77 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 8 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG78 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG77 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG78 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,19 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG78: Kram blessing, perfect and aorist closure
+
+[PG78](research/panini_grammar/kram_blessing_perfect_aorist/README.md) adds
+**171 positions, 172 readings and 172 paths**, taking the cumulative register
+to **15,101**. Perfect-specific iṭ and P thal's nityāniṭ prerequisite are
+separate from the A blessing/sic restriction. P perfect first singular keeps
+two grades; A aorist 2pl retains sic deletion before late dental-n restoration.
+The [full native construction](research/panini_grammar/kram_blessing_perfect_aorist/DOMAIN_AND_NATIVE.md)
+proves typed zero/pairing compatibility and an affix-erasure observation
+obstruction on two declared requests. The selected kram target is written at
+**570/570 positions, 799 readings/paths**, with an empty bounded complement.
+Both ID sets stay **3,983**. Grammar tests, generators and replay remain deferred.
 
 ## PG77: Kram future iṭ, nasal order and conditional endings
 

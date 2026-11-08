@@ -1,0 +1,310 @@
+{
+  "schema": "rkf.panini.pg78.pins.v1",
+  "author": "Monty",
+  "date": "2026-11-08",
+  "base": {
+    "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c",
+    "tree": "f7fe917c526de459c13e49f17638821d7e8469bb"
+  },
+  "primary": [
+    {
+      "path": "sutraani/kashika.txt",
+      "scope": "LITERAL_SELECTED_TRADITIONAL_FIELDS",
+      "bytes": 3806703,
+      "sha256": "ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254",
+      "git_blob_sha": "e525df7668835ef1dd7c5988c031da07ce0c162b",
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6"
+    },
+    {
+      "path": "sutraani/kaumudi.txt",
+      "scope": "LITERAL_SELECTED_TRADITIONAL_FIELDS",
+      "bytes": 2057933,
+      "sha256": "c1938e832ddc2e148ae36257448ee3391f71cdac28be19dc4bfdc3881f3b457d",
+      "git_blob_sha": "686f4b7593f2dd05e1f8b6181425cfa9cf20655b",
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6"
+    },
+    {
+      "path": "sutraani/balamanorama.txt",
+      "scope": "LITERAL_SELECTED_TRADITIONAL_FIELDS",
+      "bytes": 6995341,
+      "sha256": "0810e4c59d1642122186e1f0838af15859ea2d48487f6ee5e9006cf5302e9238",
+      "git_blob_sha": "8f7ab57f5b04648d914f85944b137504d1944961",
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6"
+    },
+    {
+      "path": "sutraani/tattvabodhini.txt",
+      "scope": "LITERAL_SELECTED_TRADITIONAL_FIELDS",
+      "bytes": 4769767,
+      "sha256": "6784a8d4f84de1f7b5653851ab5ff52ca88b3b28204b9515b74f0b75a9d3c2b4",
+      "git_blob_sha": "1f9af68d606f75baa6ede48a946b709da2c14054",
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6"
+    },
+    {
+      "path": "sutraani/nyaas.txt",
+      "scope": "LITERAL_SELECTED_TRADITIONAL_FIELDS",
+      "bytes": 9286920,
+      "sha256": "09766f127e9523d911179065fed777a17c4f832b336e745f13c0b2cebc76c0ce",
+      "git_blob_sha": "8ecc8bbb657a42be8606fe07fa0c72c9cb7fa1b1",
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6"
+    }
+  ],
+  "inherited": [
+    {
+      "path": "AGENTS.md",
+      "scope": "EXACT_REVIEWED_DEPENDENCY_REUSED_NO_RECURSIVE_AUDIT",
+      "bytes": 5787,
+      "sha256": "b4861101ee3fc8e3145ac51a3250d86fb51cb72f8101d9aa45d4de44d83852b7",
+      "git_blob_sha": "8d624bef108525e6fcfb204cdda4cbaebeda0edf",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c"
+    },
+    {
+      "path": "MATHEMATICS_INDEX_2026_09_16.md",
+      "scope": "EXACT_REVIEWED_DEPENDENCY_REUSED_NO_RECURSIVE_AUDIT",
+      "bytes": 43220,
+      "sha256": "6f97f186c123c50b7625c23291d4a084dfe6c2347e82c824b86891a5a2dabbe0",
+      "git_blob_sha": "df1fde6c05540cd2957cb2906e7d4f0e5dd9679f",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c"
+    },
+    {
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "scope": "EXACT_REVIEWED_DEPENDENCY_REUSED_NO_RECURSIVE_AUDIT",
+      "bytes": 270179,
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c"
+    },
+    {
+      "path": "research/panini_grammar/kram_future/STATE.json",
+      "scope": "EXACT_REVIEWED_DEPENDENCY_REUSED_NO_RECURSIVE_AUDIT",
+      "bytes": 547996,
+      "sha256": "94a6ee65fb2042480823239444bbc86b45cfdd4ea4d49c514f830db6e0e847df",
+      "git_blob_sha": "42da1f29d10ddb95ddc1fca450d75f3b9ba108e0",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c"
+    },
+    {
+      "path": "research/panini_grammar/kram_future/DOMAIN_AND_NATIVE.md",
+      "scope": "EXACT_REVIEWED_DEPENDENCY_REUSED_NO_RECURSIVE_AUDIT",
+      "bytes": 5315,
+      "sha256": "45d6d0d76da6b04ad10d63820433ba29e752ebe2e39b229b7a8907dfcc257b1f",
+      "git_blob_sha": "ef0ccc835c13dc42c15f5a1b36214b46ef72067b",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c"
+    },
+    {
+      "path": "research/panini_grammar/kram_future/SOURCE_DECISIONS.md",
+      "scope": "EXACT_REVIEWED_DEPENDENCY_REUSED_NO_RECURSIVE_AUDIT",
+      "bytes": 5653,
+      "sha256": "42bbfc6a84cfbe374988a356b0c5df51d600dd65309f7f9b0ce6cad0f6b6a1b3",
+      "git_blob_sha": "2a5566220772a0b23efdaabf3fe7efc06a03d73e",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c"
+    },
+    {
+      "path": "research/panini_grammar/kram_future/DERIVATIONS.md",
+      "scope": "EXACT_REVIEWED_DEPENDENCY_REUSED_NO_RECURSIVE_AUDIT",
+      "bytes": 7053,
+      "sha256": "818858221c8d18fe186a96cfe932a70a61f75684b61f9aa5b95dcbe3d94da444",
+      "git_blob_sha": "e5e7021ba1bcdf8b9f8ec4cfbab9b799a171df0f",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c"
+    },
+    {
+      "path": "research/panini_grammar/kram_future/SOURCE_PINS.json",
+      "scope": "EXACT_REVIEWED_DEPENDENCY_REUSED_NO_RECURSIVE_AUDIT",
+      "bytes": 14409,
+      "sha256": "b8c319d68832c3d6c9e0758db4fbc62cbae0fc5121eff1934ad186222b6d06ae",
+      "git_blob_sha": "2c94f9861c2feeb12eb9bbdc872b5855f59a4534",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c"
+    },
+    {
+      "path": "research/panini_grammar/kram_future/COMPANION_REVIEW.md",
+      "scope": "EXACT_REVIEWED_DEPENDENCY_REUSED_NO_RECURSIVE_AUDIT",
+      "bytes": 2447,
+      "sha256": "09747b0696b1b5964b861c55da29d1d7c2b7b15ed2500b1e2648524ed70b8225",
+      "git_blob_sha": "f5a18c1b81240fa670a32e45621ac203ade0a2ca",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c"
+    },
+    {
+      "path": "research/panini_grammar/contextual_kram/STATE.json",
+      "scope": "EXACT_REVIEWED_DEPENDENCY_REUSED_NO_RECURSIVE_AUDIT",
+      "bytes": 801082,
+      "sha256": "a1da4481e1ee6e4ea8773c79efb48d50f84c9fce3591b3ec768b033f1b618045",
+      "git_blob_sha": "d46a967a88434328e862f59be823ff1c4144e8a6",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c"
+    },
+    {
+      "path": "research/panini_grammar/contextual_kram/SOURCE_DECISIONS.md",
+      "scope": "EXACT_REVIEWED_DEPENDENCY_REUSED_NO_RECURSIVE_AUDIT",
+      "bytes": 7054,
+      "sha256": "273ebdb29ce65b7915407708641f915ab7638ab4dbd27efe71be120cb37f57e9",
+      "git_blob_sha": "fe1b13298857ee27f47e9d2537a0fbfb177b464c",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c"
+    },
+    {
+      "path": "research/panini_grammar/benediction/DOMAIN.md",
+      "scope": "EXACT_REVIEWED_DEPENDENCY_REUSED_NO_RECURSIVE_AUDIT",
+      "bytes": 6222,
+      "sha256": "69200b254cb887ccb5921df737986dc4e7b2042f674b31c810a212f78934d434",
+      "git_blob_sha": "8ef51ac9f8271476e82a7c39c38d9de57a1eedcb",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c"
+    },
+    {
+      "path": "research/panini_grammar/benediction/ENDING_CONSTRUCTION.md",
+      "scope": "EXACT_REVIEWED_DEPENDENCY_REUSED_NO_RECURSIVE_AUDIT",
+      "bytes": 8904,
+      "sha256": "8582029acde770120ce26e302f5038a83987b706d378c304e72aaee254ba0bb2",
+      "git_blob_sha": "96abb5aea33267180b3cb593667a80628542f3f6",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c"
+    },
+    {
+      "path": "research/panini_grammar/benediction/BASIC_DERIVATIONS.md",
+      "scope": "EXACT_REVIEWED_DEPENDENCY_REUSED_NO_RECURSIVE_AUDIT",
+      "bytes": 6955,
+      "sha256": "c4319ee24232436ecb6d308472b991f0d42bb96d047205ad85901d6a7527e731",
+      "git_blob_sha": "79bc413ae40163d1a17c7d3a352e24a4b5a01c30",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c"
+    },
+    {
+      "path": "research/panini_grammar/prohibitive_lung/DOMAIN_AND_SCOPE.md",
+      "scope": "EXACT_REVIEWED_DEPENDENCY_REUSED_NO_RECURSIVE_AUDIT",
+      "bytes": 4124,
+      "sha256": "4df75615ca29fdce60cb276a794253555b409f1bdc09443e450cc13666eea6cd",
+      "git_blob_sha": "b2590588e65e8da9d7eda9c5a78100d0451d3e23",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c"
+    },
+    {
+      "path": "research/panini_grammar/prohibitive_lung/LUNG_CONSTRUCTION.md",
+      "scope": "EXACT_REVIEWED_DEPENDENCY_REUSED_NO_RECURSIVE_AUDIT",
+      "bytes": 7276,
+      "sha256": "be236df442b26a71aa613f90962daa2e02bd41994c3ada1015a4870f9cd256eb",
+      "git_blob_sha": "595157a0fcd3b6942f3dd4f4f06ce4e68359f36d",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c"
+    },
+    {
+      "path": "research/panini_grammar/prefix_ni_modals/SOURCE_DECISIONS.md",
+      "scope": "EXACT_REVIEWED_DEPENDENCY_REUSED_NO_RECURSIVE_AUDIT",
+      "bytes": 8190,
+      "sha256": "7ffb4f4f07d02b04f531da3e3db8e1938028633893748036bee27fcdabf61cd7",
+      "git_blob_sha": "3d7c32cfbdaa7f396c67ca545935cb702991c2b8",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c"
+    },
+    {
+      "path": "research/panini_grammar/contextual_ni/DERIVATIONS.md",
+      "scope": "EXACT_REVIEWED_DEPENDENCY_REUSED_NO_RECURSIVE_AUDIT",
+      "bytes": 7044,
+      "sha256": "c4718d939611928474ce522f8ba8845d28a1c47fc5f79727dbd221a9aaed2221",
+      "git_blob_sha": "f2c646c3f7f0f8caa57ea61182714bfb7f22c21c",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c"
+    },
+    {
+      "path": "research/panini_grammar/prefix_ni/DERIVATIONS.md",
+      "scope": "EXACT_REVIEWED_DEPENDENCY_REUSED_NO_RECURSIVE_AUDIT",
+      "bytes": 8115,
+      "sha256": "7e584863e320bc797f1d58df0fa4b954d9dc8441dcbfac14f60e27d2fbf8bc0c",
+      "git_blob_sha": "6915058f207c71b6638e181785e8b2454a9fd24d",
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "8df07f8bc2cc278d86eda5f0e686ab50640a049c"
+    }
+  ],
+  "companion": {
+    "branch": "shaiva-sources-maheshvara-spanda-pratyabhijna",
+    "commit": "edd98b0685b478cb39468e350b26783bb4cce7ff",
+    "head_checked": true,
+    "source_review_reused": "PG77_COMPANION_REVIEW_EXACT_PIN",
+    "new_engine_execution": false
+  },
+  "authored": [
+    {
+      "path": "research/panini_grammar/kram_blessing_perfect_aorist/COMPANION_REVIEW.md",
+      "scope": "PG78_AUTHORED",
+      "bytes": 1964,
+      "sha256": "a3b163bce425c86c86ac77183e2e2193b203cdc985c1d07b5a325997e77d57f0",
+      "git_blob_sha": "2cfae130a3a29ad4d2e392a8dc82c487a9f3df12"
+    },
+    {
+      "path": "research/panini_grammar/kram_blessing_perfect_aorist/DERIVATIONS.md",
+      "scope": "PG78_AUTHORED",
+      "bytes": 9506,
+      "sha256": "b39268a66c097877f3e7282a36c58615684baf139ba0b8c045173fab31e3f04a",
+      "git_blob_sha": "ece5b584b5ebfbf0ffffd66947a04758a3cd9280"
+    },
+    {
+      "path": "research/panini_grammar/kram_blessing_perfect_aorist/DOMAIN_AND_NATIVE.md",
+      "scope": "PG78_AUTHORED",
+      "bytes": 4575,
+      "sha256": "2c1d8f18bbc62f7569b944c3775eda064b1c7ec4b3bd0f7c598f90224fa8bebd",
+      "git_blob_sha": "62f2cce3f9cefdefbe21b81b3cb1b1b6c38f961c"
+    },
+    {
+      "path": "research/panini_grammar/kram_blessing_perfect_aorist/PARADIGMS.md",
+      "scope": "PG78_AUTHORED",
+      "bytes": 5007,
+      "sha256": "a5712a9c332bd8fef5414c418a482d48de349c8282accae44aa9b438b102a9d5",
+      "git_blob_sha": "8f840ceef43ba15d25b53f5542b9595a84210933"
+    },
+    {
+      "path": "research/panini_grammar/kram_blessing_perfect_aorist/README.md",
+      "scope": "PG78_AUTHORED",
+      "bytes": 2247,
+      "sha256": "7d619341ec44daf0f48f118dbccddce84a765433a0861cd38047aff58519a5b3",
+      "git_blob_sha": "9a8fb70064c9c4198d33a8f0538f7186646c373e"
+    },
+    {
+      "path": "research/panini_grammar/kram_blessing_perfect_aorist/SOURCE_DECISIONS.md",
+      "scope": "PG78_AUTHORED",
+      "bytes": 5735,
+      "sha256": "c78e1cbd8ea35e43c261920f034f97a9223d044365a8a3779b6a75f68a9b6488",
+      "git_blob_sha": "27affc89c9ce2c645fe854f3ab3f5323b140980a"
+    },
+    {
+      "path": "research/panini_grammar/kram_blessing_perfect_aorist/SOURCE_EXCERPTS.json",
+      "scope": "PG78_AUTHORED",
+      "bytes": 85208,
+      "sha256": "899b423b25fca5be19944c7c6634a85dc2d38b0ad0086fc2c5477f903118c9df",
+      "git_blob_sha": "ed7d451d0d8a4b7252da61ae767a381fdf354f54"
+    },
+    {
+      "path": "research/panini_grammar/kram_blessing_perfect_aorist/STATE.json",
+      "scope": "PG78_AUTHORED",
+      "bytes": 476989,
+      "sha256": "00e44fc64fc2e739cb9efea58d006b817daf028921f21f08f194f41994e97f6b",
+      "git_blob_sha": "c847515177e5ddac59ea743493cf4656628c76cc"
+    },
+    {
+      "path": "MATHEMATICS_INDEX.md",
+      "scope": "PG78_NAVIGATION",
+      "bytes": 222474,
+      "sha256": "11a9707479ad15071cdd5340e07a1c54901bd485d167ecca3abdcdbf60ea26df",
+      "git_blob_sha": "d7b307eeb49c2239b4f3faddac74d3e5f3935b11"
+    },
+    {
+      "path": "research/panini_grammar/README.md",
+      "scope": "PG78_NAVIGATION",
+      "bytes": 90982,
+      "sha256": "fc87204c57f5897491792a9117adca7c0ea497600df2874085ae00d8080ef98e",
+      "git_blob_sha": "6300164b88b6580cbc2408363d186ac8bc912701"
+    }
+  ],
+  "self_pin_policy": "SOURCE_PINS.json excludes its own hash; Git commit binds manifest.",
+  "pin_count": 34
+}

@@ -1315,6 +1315,14 @@ from P kramiṣyati/kramitā; ordered nasal readout and luṭ ending provenance 
 explicit. The bounded ten-label target has 399 of 570 positions written and
 171 still unwritten. Both ID registers remain **3,983**; tests/replay are deferred.
 
+**PG78** — [Kram blessing, perfect and aorist closure](kram_blessing_perfect_aorist/README.md)
+adds **171 positions and 172 readings/paths**, taking the cumulative register
+to **15,101**. Perfect iṭ, the directly witnessed cakramitha, optional
+first-singular ṇit grade and the akrandhvam sic/nasal order retain distinct
+histories. The selected kram grid is now written at **570/570 positions and
+799 readings/paths**. Both ID sets stay **3,983**; grammar tests/replay remain
+deferred. Next: the source-qualified jñā pada contexts of 1.3.44–46.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
