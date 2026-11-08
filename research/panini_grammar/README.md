@@ -1391,6 +1391,18 @@ target closes at **180/180 positions, 556 readings/paths**, twenty full
 paradigms. Both ID sets remain **3,983**; grammar tests, generators and
 replay stay deferred. Next: car 1.3.53–54's contextual pada sources.
 
+**PG85** — [Contextual car and expressed tṛtīyā](contextual_car/README.md)
+adds **180 positions, 186 readings and 186 paths**, taking the cumulative
+register to **16,421**. Intended ud transitivity and sam's actual connected
+third-case phrase are distinct admission premises; an inferred instrument
+does not replace the expression witness. The full ten-label target closes
+at **180/180**, twenty complete paradigms. Short iṭ, perfect car→cer with
+copy lopa, short A sic and augment-sensitive prefix contact retain their
+owners; six 2pl positions have dh/ḍh alternatives. The full native carrier
+proves expression-erasure and typed zero/pairing compatibility. Both ID sets
+remain **3,983**; Python 3.12 source/document checks are separate from the
+deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
