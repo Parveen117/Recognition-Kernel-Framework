@@ -1355,6 +1355,18 @@ retains participant/source tags and proves typed zero/pairing compatibility.
 The target is **357/510** with **153** āśīrliṅ/liṭ/luṅ requests remaining;
 both ID sets stay **3,983**. Grammar tests, generators and replay stay deferred.
 
+**PG82** — [Vad blessing, perfect and aorist closure](vad_blessing_perfect_aorist/README.md)
+fills the exact **153** remaining positions/readings/paths, taking the
+cumulative register to **16,061**. Kit-dependent P blessing ud, A vadiṣī,
+weak perfect's root-before-copy ūd and mandatory P sic vād remain distinct.
+The source field's running lexical discussion does not supply vad with the
+surrounding 3.1.54 aṅ licence. New prefix-vowel seams and dental A 2pl dh
+retain their owners. Full native zero/pairing compatibility is written.
+The selected target closes at **510/510 positions, 510 readings/paths**,
+with 30 complete paradigms and 40 six-slot tables. Both ID sets remain
+**3,983**; grammar tests, generators and replay stay deferred. Next: gṝ
+1.3.51–52 lexical identity and contextual pada sources.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

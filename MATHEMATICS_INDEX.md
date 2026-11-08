@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 8 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG81 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 8 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG82 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG81 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG82 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,22 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG82: Vad blessing, perfect and aorist closure
+
+[PG82](research/panini_grammar/vad_blessing_perfect_aorist/README.md) adds
+**153 positions/readings/paths**, taking the cumulative register to **16,061**.
+P blessing's kit-dependent ud, A blessing's iṭ-bearing vad, weak perfect's
+root-change-before-copy ūd and P sic's mandatory vād retain their different
+affix/pada conditions. The lexical vad subsection inside the 3.1.54 source
+field does not inherit that rule's optional aṅ. Prefix seams and dental A
+2pl dh remain addressed operations. The
+[full carrier](research/panini_grammar/vad_blessing_perfect_aorist/DOMAIN_AND_NATIVE.md)
+proves typed zero/pairing compatibility and a bounded pada-erasure obstruction.
+The exact PG81 complement closes vad at **510/510 positions and 510
+readings/paths**, with 30 full paradigms and 40 six-slot tables. Both ID sets
+stay **3,983**. Grammar tests, generators, replay and navigation/operator suites
+remain deferred; source/document checks use Python 3.12 only.
 
 ## PG81: Contextual vad, participants and local pada options
 
