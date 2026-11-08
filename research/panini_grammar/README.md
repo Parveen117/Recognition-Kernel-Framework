@@ -1334,6 +1334,15 @@ written, with **135** āśīrliṅ/liṭ/luṅ requests remaining. Both ID sets 
 **3,983**. Full native zero/pairing compatibility is written; grammar tests,
 generators and replay stay deferred. Next: the exact 135-request complement.
 
+**PG80** — [Jñā blessing, perfect and aorist closure](jna_blessing_perfect_aorist/README.md)
+adds **135 positions/readings/paths** in **15 full paradigms**, taking the
+cumulative register to **15,551**. Perfect iṭ and root-ā lopa retain the
+selected 1.1.59 copy schedule; blessing/sic keep ā and their iṭ prohibition.
+Jajñe's jñā/jan histories and anujajñe's voice-qualified source witness remain
+separate. The exact PG79 complement is filled: **450/450 bounded positions,
+450 readings/paths**, with 50 complete paradigms. Both ID sets remain **3,983**;
+grammar tests/replay stay deferred. Next: source-qualified vad 1.3.47–50.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
