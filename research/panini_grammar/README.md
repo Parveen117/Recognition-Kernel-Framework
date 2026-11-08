@@ -1343,6 +1343,18 @@ separate. The exact PG79 complement is filled: **450/450 bounded positions,
 450 readings/paths**, with 50 complete paradigms. Both ID sets remain **3,983**;
 grammar tests/replay stay deferred. Next: source-qualified vad 1.3.47–50.
 
+**PG81** — [Contextual vad: meanings, participants and local P/A options](contextual_vad/README.md)
+adds **357 positions/readings/paths**, taking the cumulative register to
+**15,908**: 21 complete paradigms and 28 six-slot tables. The six meaning
+conditions of 1.3.47, participant scope, 1.3.49's removal of jointness and
+1.3.50's renewed jointness/P–A option remain distinct. Kāśikā/Nyāsa's chosen
+classification does not overwrite the differing Tattvabodhinī field. Future
+iṭ is present in both padas; yajādi saṃprasāraṇa still requires addressed kit.
+Actual sam+pra and vi+pra chains survive the augment junction. The full carrier
+retains participant/source tags and proves typed zero/pairing compatibility.
+The target is **357/510** with **153** āśīrliṅ/liṭ/luṅ requests remaining;
+both ID sets stay **3,983**. Grammar tests, generators and replay stay deferred.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
