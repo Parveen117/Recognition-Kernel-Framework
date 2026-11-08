@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 8 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG83 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 8 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG84 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG83 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG84 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,23 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG84: Gṝ blessing, perfect and aorist closure
+
+[PG84](research/panini_grammar/gr_blessing_perfect_aorist/README.md) fills
+the exact **54** remaining gṝ positions with **196 readings/paths**, taking
+the cumulative register to **16,241**. A blessing/sic iṭ is optional;
+its presence changes kit, root grade and the root-r/l interface. Blessing
+and perfect exclude long iṭ, while A sic admits it. Perfect's 7.4.11
+guṇa survives kit, and copied ja, root r and ending irec-r retain their
+owners. Aniṭ 2pl has mandatory ḍh; seṭ has dh/ḍh. The
+[full carrier](research/panini_grammar/gr_blessing_perfect_aorist/DOMAIN_AND_NATIVE.md)
+proves the dependent branch-family count and typed zero/pairing compatibility.
+The bounded target closes at **180/180 positions, 556 readings/paths**,
+twenty full paradigms and no missing requests. Both ID sets stay **3,983**.
+Source/document checks use Python 3.12 only; grammar tests, generators,
+replay and navigation/operator suites remain deferred. Next: contextual
+car under 1.3.53–54 and its expressed third-case condition.
 
 ## PG83: Contextual gṝ, lexical identity and addressed options
 

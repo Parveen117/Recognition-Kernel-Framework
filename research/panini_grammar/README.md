@@ -1380,6 +1380,17 @@ compatibility. Fourteen complete paradigms cover **126/180** positions;
 source/document checks use Python 3.12; grammar tests, generators and replay
 stay deferred.
 
+**PG84** — [Gṝ blessing, perfect and aorist closure](gr_blessing_perfect_aorist/README.md)
+fills the exact **54** remaining positions with **196 readings/paths**,
+taking the cumulative register to **16,241**. Optional A liṅ/sic iṭ
+changes kit and root grade; long iṭ belongs only to the selected A sic
+branches. Perfect's special guṇa, owned ja copy, root-only r/l and
+mandatory/optional 2pl dh→ḍh give distinct branch families. The full native
+carrier proves their counts and typed zero/pairing compatibility. The
+target closes at **180/180 positions, 556 readings/paths**, twenty full
+paradigms. Both ID sets remain **3,983**; grammar tests, generators and
+replay stay deferred. Next: car 1.3.53–54's contextual pada sources.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
