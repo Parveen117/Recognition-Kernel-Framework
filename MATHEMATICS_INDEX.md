@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 8 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG78 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 8 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG79 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG78 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG79 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,20 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG79: Contextual jñā and addressed present/future stems
+
+[PG79](research/panini_grammar/contextual_jna/README.md) adds **315 positions,
+readings and paths** in **35 complete paradigms**, taking the cumulative
+register to **15,416**. Rules 1.3.44–46 retain denial, intransitive engagement,
+actual prefix and non-ādhyāna guards. The adopted yogavibhāga also blocks the
+1.3.45 fallback in longing-remembrance; case presentation does not erase roles.
+Śit-dependent jā, śnā-owned vowel changes and future jñā remain separate.
+The [native construction](research/panini_grammar/contextual_jna/DOMAIN_AND_NATIVE.md)
+proves typed zero/pairing compatibility and a bounded role-erasure obstruction.
+The five-profile ten-label target has **315/450** positions written, with
+**135** āśīrliṅ/liṭ/luṅ requests remaining. Both ID sets stay **3,983**.
+Grammar tests, generators, replay and navigation/operator suites are deferred.
 
 ## PG78: Kram blessing, perfect and aorist closure
 

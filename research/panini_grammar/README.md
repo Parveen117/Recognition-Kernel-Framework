@@ -1323,6 +1323,17 @@ histories. The selected kram grid is now written at **570/570 positions and
 799 readings/paths**. Both ID sets stay **3,983**; grammar tests/replay remain
 deferred. Next: the source-qualified jñā pada contexts of 1.3.44–46.
 
+**PG79** — [Contextual jñā: present, future and conditional](contextual_jna/README.md)
+adds **315 positions/readings/paths** in **35 complete paradigms**, taking
+the cumulative register to **15,416**. Denial, intransitive engagement and
+sam/prati non-ādhyāna preserve their distinct semantic and role conditions;
+the source's yogavibhāga blocks the 1.3.45 fallback in longing-remembrance.
+Śit-dependent jā and śnā-owned vowel changes remain separate from future
+jñā and its 7.2.10 iṭ decision. The declared target has **315/450 positions**
+written, with **135** āśīrliṅ/liṭ/luṅ requests remaining. Both ID sets remain
+**3,983**. Full native zero/pairing compatibility is written; grammar tests,
+generators and replay stay deferred. Next: the exact 135-request complement.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
