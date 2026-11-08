@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 7 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG76 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 8 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG77 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG76 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG77 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,18 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG77: Kram future iṭ, nasal order and conditional endings
+
+[PG77](research/panini_grammar/kram_future/README.md) adds **171 positions,
+readings and paths**, taking the cumulative register to **14,930**. The selected
+lṛṭ/luṭ/lṛṅ families retain root-dependent A iṭ prohibition under 7.2.36 and
+positive P iṭ, distinguish kraṃsya from late dental-n krant, and preserve luṭ
+pada-cause evidence through ending replacement. The kṛt-policy dispute remains
+outside the finite table. Its [native construction](research/panini_grammar/kram_future/DOMAIN_AND_NATIVE.md)
+proves typed zero/pairing compatibility. The same kram target now has **399/570
+positions** written, with **171 requests** left in āśīrliṅ/liṭ/luṅ. Both ID
+registers remain **3,983**; grammar tests/replay remain deferred.
 
 ## PG76: Contextual kram, pada and vikaraṇa alternatives
 

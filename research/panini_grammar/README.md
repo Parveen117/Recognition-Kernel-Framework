@@ -1308,6 +1308,13 @@ contains 24 full paradigms plus four third-person-only tables; the same finite
 target has 342 unwritten requests in the other six labels. Both ID registers
 remain **3,983**; tests/replay remain deferred.
 
+**PG77** — [Kram future and conditional families](kram_future/README.md)
+adds **171 positions/readings/paths**, taking the cumulative register to
+**14,930**. The 7.2.36 root-dependent A restriction distinguishes kraṃsyate/krantā
+from P kramiṣyati/kramitā; ordered nasal readout and luṭ ending provenance are
+explicit. The bounded ten-label target has 399 of 570 positions written and
+171 still unwritten. Both ID registers remain **3,983**; tests/replay are deferred.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
