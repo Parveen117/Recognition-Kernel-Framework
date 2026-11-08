@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 8 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG82 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 8 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG83 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG82 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG83 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,24 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG83: Contextual gṝ, lexical identity and addressed options
+
+[PG83](research/panini_grammar/contextual_gr/README.md) adds **126 positions,
+360 readings and 360 paths**, taking the cumulative register to **16,187**.
+The two A profiles select tudādi gṝ under ava+nigaraṇa and sam+pratijñāna;
+the kryādi homograph and short-gṛ roots remain separate. Present śa blocks
+guṇa and yields gir, while future guṇa yields gar with original ṝ identity
+retained for optional iṭ length. The root-r/l choice gives two present
+readings and combines with i/ī into four future readings; luṭ ending r
+retains its separate owner. The
+[full carrier](research/panini_grammar/contextual_gr/DOMAIN_AND_NATIVE.md)
+proves the bounded branch product, typed zero/pairing compatibility and a
+meaning-erasure obstruction. Fourteen full paradigms cover **126/180** target
+positions; **54** āśīrliṅ/liṭ/luṅ requests remain, without projected reading
+counts. Both ID sets stay **3,983**. Static source/document checks use Python
+3.12 only; grammar tests, generators, replay and navigation/operator suites
+remain deferred.
 
 ## PG82: Vad blessing, perfect and aorist closure
 

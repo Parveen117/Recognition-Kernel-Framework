@@ -1367,6 +1367,19 @@ with 30 complete paradigms and 40 six-slot tables. Both ID sets remain
 **3,983**; grammar tests, generators and replay stay deferred. Next: gṝ
 1.3.51–52 lexical identity and contextual pada sources.
 
+**PG83** — [Contextual gṝ and addressed options](contextual_gr/README.md)
+adds **126 positions, 360 readings and 360 paths**, taking the cumulative
+register to **16,187**. Two A profiles retain the tudādi root's identity,
+ava+nigaraṇa and sam+pratijñāna meanings, and their distinct role frames.
+Present gir follows apit śa; future gar follows guṇa, with original ṝ
+retained for iṭ length. The root-only r/l option gives two present readings
+and four future r/l × i/ī readings, leaving luṭ ending r intact. The full
+native carrier proves the bounded option product and typed zero/pairing
+compatibility. Fourteen complete paradigms cover **126/180** positions;
+**54** āśīrliṅ/liṭ/luṅ requests remain. Both ID sets stay **3,983**. Static
+source/document checks use Python 3.12; grammar tests, generators and replay
+stay deferred.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,
