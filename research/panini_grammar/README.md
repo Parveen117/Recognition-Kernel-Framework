@@ -1403,6 +1403,15 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG96** — [Deceptive ṇyantas](deceptive_nic/README.md) add
+**288 positions / 290 readings and paths**; cumulative **19,499**.
+Gṛdh/vañc deception A and ordinary desire/avoidance P have separate
+sense witnesses; the curādi vañc homonym is excluded. Eight labels
+retain current roles and distinguish ordinary iṭ from P blessing
+ṇic-lopa. Only two A blessing cells have dh/ḍh options. The new
+360-key target has 72 perfect/aorist requests remaining. Native
+zero/pairing proofs and static source checks do not certify execution.
+
 **PG95** — [Causative-role final continuations](causative_role_final/README.md)
 add **108 positions / 458 readings and paths**; cumulative **19,211**.
 Perfect and caṅ aorist close the exact six-profile target at

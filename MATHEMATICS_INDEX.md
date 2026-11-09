@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 9 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG95 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 9 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG96 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG95 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG96 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,21 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG96: Deception-qualified gṛdh/vañc and ordinary controls
+
+[PG96](research/panini_grammar/deceptive_nic/README.md) adds
+**288 positions / 290 readings and paths** in 32 paradigms;
+cumulative **19,499**. Four exact lexical/semantic profiles use
+1.3.69 deception A or positive ordinary desire-production/avoidance
+P. The distinct curādi vañc entry is archived with zero credit.
+Eight labels retain current agent/object, ṇic and ordinary iṭ;
+no karmavat/ciṇvat transfer is inferred from A alone. Only A blessing
+2pl branches dh/ḍh. The new target is 288/360, with 72 exact
+perfect/aorist requests unwritten; PG95's target stays closed.
+Native sense/identity observers have typed zero/pairing recovery.
+Python 3.12 static checks are separate from deferred grammar/replay;
+PG92 corrections and inherited catalogue-ID sets remain unchanged.
 
 ## PG95: Causative-role auxiliary and caṅ closure
 
