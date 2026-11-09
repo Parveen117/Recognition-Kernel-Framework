@@ -1403,6 +1403,20 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG88** — [Final san continuations](san_final_continuations/README.md)
+adds **216 positions and 510 readings/paths**, 24 complete paradigms,
+taking the cumulative written register to **17,411**. Its keys exactly
+fill PG87's missing blessings, perfects and aorists. The perfect retains
+primary/auxiliary pada and ending ownership, with kṛ-specific transfer
+and bhū/as kartari P. San s/ṣ survives the addressed outer sic-lopa;
+initial aṭ, outer iṭ and ending īṭ remain separate. The native
+construction proves the surface-word/auxiliary-family obstruction and
+typed zero/pairing compatibility. Together PG87–88 close **720/720**
+declared requests with **1,014 readings/paths** across eighty complete
+paradigms. Both ID sets remain **3,983**; no whole-grammar percentage
+is claimed. Python 3.12 static checks are separate from deferred grammar
+tests/generators/replay. Next: śad/mṛ under 1.3.60–61.
+
 **PG87** — [Contextual san](san_contextual_continuation/README.md) adds
 **504 positions/readings/paths**, 56 complete paradigms, taking the
 cumulative written register to **17,195**. The eight jñā/śru/smṛ/dṛś

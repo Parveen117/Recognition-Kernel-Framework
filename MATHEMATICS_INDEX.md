@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 9 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG87 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 9 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG88 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG87 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG88 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,24 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG88: San blessings, auxiliary perfects and owned sic
+
+[PG88](research/panini_grammar/san_final_continuations/README.md) adds
+**216 positions and 510 readings/paths**, taking the cumulative written
+register to **17,411**. The new keys exactly fill PG87's missing
+āśīrliṅ, liṭ and luṅ requests. In kartari perfects kṛ follows the
+primary request's licensed pada, while bhū/as remain P. Primary ām,
+liṭ-luk and auxiliary-owned liṭ preserve their different recipients.
+Blessing and aorist retain separate inner san s/ṣ, outer iṭ, sic,
+ending īṭ and initial aṭ histories. The
+[full carrier](research/panini_grammar/san_final_continuations/DOMAIN_AND_NATIVE.md)
+proves the bounded surface-word/auxiliary-family obstruction, finite
+exhaustion and typed zero/pairing compatibility. PG87–88 close their
+declared **720/720** keys with **1,014 readings/paths**, eighty full
+paradigms. Both inherited ID sets remain **3,983**. Python 3.12 static
+checks remain distinct from deferred grammar tests/generators/replay and
+navigation/operator suites. Next: śad/mṛ's 1.3.60–61 environments.
 
 ## PG87: Contextual san and cause-preserving continuation
 
