@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 9 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG86 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 9 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG87 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG86 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG87 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,25 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG87: Contextual san and cause-preserving continuation
+
+[PG87](research/panini_grammar/san_contextual_continuation/README.md) adds
+**504 positions/readings/paths**, taking the cumulative written register
+to **17,195**. Eight profiles span jñā/śru/smṛ/dṛś san, the two
+anu+jñā cause frames and actual prati/āṅ+śru. Rule 1.3.58 cancels
+1.3.57 A while preserving the independent 1.3.45 → 1.3.62 cause.
+Karmapravacanīya prati is distinct from the 1.3.59 upasarga trigger.
+Inner aniṭ, copies, final san-a and the outer derived-root future iṭ
+remain separate owned events. The
+[full carrier](research/panini_grammar/san_contextual_continuation/DOMAIN_AND_NATIVE.md)
+proves the bounded cause-erasure obstruction, finite singleton family
+and typed zero/pairing compatibility. Fifty-six complete paradigms close
+the current seven-label grid; the ten-label target is **504/720**, with
+**216** āśīrliṅ/liṭ/luṅ requests explicitly open and their reading
+counts unknown. Both inherited ID sets remain **3,983**. Static checks
+use Python 3.12; grammar tests, generators, replay and navigation/operator
+suites remain deferred. Next: those remaining three labels.
 
 ## PG86: Contextual dāṇ/yam and distinct yacch histories
 

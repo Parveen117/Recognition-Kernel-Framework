@@ -1403,6 +1403,20 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG87** — [Contextual san](san_contextual_continuation/README.md) adds
+**504 positions/readings/paths**, 56 complete paradigms, taking the
+cumulative written register to **17,195**. The eight jñā/śru/smṛ/dṛś
+profiles retain san admission, the cause-specific anu prohibition and
+actual upasarga versus karmapravacanīya prati. Inner aniṭ and outer
+derived-root future iṭ remain distinct; copies, final-a lopa and ending
+ownership are explicit. The native construction proves the bounded
+cause-erasure obstruction and typed zero/pairing compatibility. The
+ten-label target is **504/720**, with **216** blessing/perfect/aorist
+requests open and no projected reading count. Python 3.12 static checks
+are recorded separately from deferred grammar tests/generators/replay.
+Both inherited ID sets remain **3,983**; no whole-grammar percentage
+is claimed. Next: the remaining three labels for these eight profiles.
+
 **PG86** — [Contextual dāṇ/yam](contextual_dan_yam/README.md) adds **270
 positions and 279 readings/paths**, taking the cumulative register to
 **16,691**. The sam/sam+pra recipient-case profiles and upa+yam marriage
