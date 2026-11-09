@@ -1403,6 +1403,17 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG91** — [Final yuj/kṣṇu continuations](yuj_ksnu_final_continuations/README.md)
+adds **189 positions, 210 readings and 212 paths**, twenty-one full
+paradigms, taking the cumulative written register to **18,221**. The
+new keys exactly fill PG90's missing set, closing **630/630** with
+651 readings/653 paths. P irit aṅ/sic, three kṣṇu dh/ḍh options
+and two coincident perfect ṇal histories have separate source guards.
+The native construction proves the finite option family and typed
+zero/pairing compatibility. Both ID sets remain **3,983**. Python
+3.12 static checks remain distinct from deferred grammar tests,
+generators and replay. Next: source-qualified bhuj under 1.3.66.
+
 **PG90** — [Contextual yuj/kṣṇu](contextual_yuj_ksnu/README.md) adds
 **441 positions/readings/paths**, 49 full paradigms, taking the cumulative
 written register to **18,032**. Seven prefix/use-qualified profiles
