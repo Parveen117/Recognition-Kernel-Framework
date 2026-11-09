@@ -1403,6 +1403,15 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG95** — [Causative-role final continuations](causative_role_final/README.md)
+add **108 positions / 458 readings and paths**; cumulative **19,211**.
+Perfect and caṅ aorist close the exact six-profile target at
+**540/540**, with 1,074 readings/paths. Ṇic→ay before ām, kṛ-only
+pada transfer, auxiliary-owned iṭ, dependent dṛś ṛ/ar copies and
+thematic caṅ endings retain their distinct histories. The native lift
+proves typed zero/pairing compatibility. PG92 corrections stay active;
+Python 3.12 static checks do not replace deferred grammar execution.
+
 **PG94** — [Causative-role futures](causative_role_futures/README.md)
 adds **216 positions and 328 readings/paths** in twenty-four complete
 paradigms; cumulative **19,103**. Both futures, conditional and blessing

@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 9 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG94 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 9 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG95 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG94 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG95 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,20 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG95: Causative-role auxiliary and caṅ closure
+
+[PG95](research/panini_grammar/causative_role_final/README.md) adds
+**108 positions / 458 readings and paths** in twelve paradigms;
+cumulative **19,211**. The exact PG93 target closes at **540/540**
+with 1,074 readings/paths. Perfect retains ṇic→ay by 6.4.55 and
+transfers primary pada only to kṛ; bhū/as remain P. Actual caṅ
+has ṇic-lopa, no outer iṭ and no inherited future ciṇvat option.
+Dṛś's 7.4.7 ṛ/ar choice controls root weight and the dī/da copy.
+The full native lift proves dependent branch, typed zero and pairing
+compatibility. PG92's six-key correction overlay stays active.
+Python 3.12 static integrity is separate from deferred grammar tests,
+generators and replay; no global completion percentage is asserted.
 
 ## PG94: Causative-role futures and query-specific ciṇvat work
 
