@@ -1403,6 +1403,19 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG89** — [Śad/mṛ contexts](shad_mr_contexts/README.md) adds **180
+positions and 183 readings/paths**, twenty complete paradigms, taking
+the cumulative written register to **17,591**. Both basic intransitive
+profiles close their **180/180** ten-label target. The source-qualified
+prospective śit relation precedes pada selection for śad; mṛ's retained
+ṅ marker does not override 1.3.61's restrictions. Present replacements,
+sya-only mṛ iṭ, perfect options and distinct aṅ/sic aorists retain
+their owners. The native construction supplies the local interface
+certificate and typed zero/pairing compatibility. Both ID sets remain
+**3,983**; no whole-grammar percentage is claimed. Python 3.12 static
+checks remain distinct from deferred grammar tests/generators/replay.
+Next: 1.3.64 prefixed yuj and 1.3.65 transitive sam+kṣṇu.
+
 **PG88** — [Final san continuations](san_final_continuations/README.md)
 adds **216 positions and 510 readings/paths**, 24 complete paradigms,
 taking the cumulative written register to **17,411**. Its keys exactly

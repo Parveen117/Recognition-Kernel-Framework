@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 9 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG88 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 9 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG89 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG88 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG89 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,24 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG89: Prospective śit and restricted mṛṅ pada
+
+[PG89](research/panini_grammar/shad_mr_contexts/README.md) adds **180
+positions and 183 readings/paths**, twenty complete paradigms, taking
+the cumulative written register to **17,591**. The basic intransitive
+śad/mṛ profiles close their ten-label target at **180/180**. Śad's
+1.3.60 license retains the certified coming śit relation; mṛ's lexical
+ṅ marker remains subject to 1.3.61's environment restriction. The
+constructions distinguish śīy from riṅ/iyaṅ, mṛ's sya-only iṭ,
+perfect contraction/copy choices and śad P aṅ versus mṛ A sic. The
+[full carrier](research/panini_grammar/shad_mr_contexts/DOMAIN_AND_NATIVE.md)
+constructs the local prospective-interface certificate and proves the
+lexical-pada-only obstruction, finite branch family and typed zero/pairing
+compatibility. Both ID sets remain **3,983**. Python 3.12 static checks
+remain separate from deferred grammar tests/generators/replay and
+navigation/operator suites. Next: prefixed yuj under 1.3.64 and sam+kṣṇu
+under 1.3.65, with their own semantic and transitivity boundaries.
 
 ## PG88: San blessings, auxiliary perfects and owned sic
 
