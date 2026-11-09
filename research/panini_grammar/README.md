@@ -1403,6 +1403,14 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG97** — [Gṛdh/vañc final continuations](deceptive_nic_final/README.md)
+add **72 positions / 238 readings and paths**; cumulative **19,571**.
+Perfect and caṅ close PG96's exact target at **360/360**, with
+528 readings/paths. Original ṛ, copied g→j and root/copy weights
+control jīgṛdh/jagardh versus vavañc; auxiliary and nasal options
+retain their separate owners. Typed zero/pairing proofs and Python
+3.12 static checks accompany written tables; runtime work is deferred.
+
 **PG96** — [Deceptive ṇyantas](deceptive_nic/README.md) add
 **288 positions / 290 readings and paths**; cumulative **19,499**.
 Gṛdh/vañc deception A and ordinary desire/avoidance P have separate
