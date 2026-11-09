@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 9 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG93 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 9 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG94 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG93 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG94 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,21 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG94: Causative-role futures and query-specific ciṇvat work
+
+[PG94](research/panini_grammar/causative_role_futures/README.md)
+adds **216 positions, 328 readings/paths and twenty-four paradigms**;
+cumulative **19,103**. The exact PG93 profiles continue through both
+futures, conditional and blessing, reaching **432/540**, with 108
+perfect/aorist requests remaining. Only the qualified upa+sic karmavat
+frame receives the sourced O/C relation; yak/ciṇ prohibition does not
+erase ciṇvat. Distinct augment origins, ṇic-lopa causes and surviving
+aṅga determine the dependent dh/ḍh options. The full native extension
+proves the branch partition and typed zero/pairing compatibility.
+Literal source-block extent and PG92 corrections stay explicit.
+Python 3.12 static checks do not replace deferred grammar execution,
+replay or full operator/navigation suites.
 
 ## PG93: Historical role identity in causative pada admission
 

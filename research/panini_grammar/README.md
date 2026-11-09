@@ -1403,6 +1403,16 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG94** — [Causative-role futures](causative_role_futures/README.md)
+adds **216 positions and 328 readings/paths** in twenty-four complete
+paradigms; cumulative **19,103**. Both futures, conditional and blessing
+bring PG93's exact target to **432/540**, leaving 108 liṭ/luṅ requests.
+The upa+sic karmavat frame keeps ciṇvat after the yak/ciṇ prohibition;
+ordinary and special iṭ have different ṇic-lopa visibility and late
+dh consequences. Source extent, native zero/pairing proofs and the
+active PG92 correction chain remain explicit. Python 3.12 static
+integrity only; grammar tests, generators and replay remain deferred.
+
 **PG93** — [Causative role identity](causative_role_identity/README.md)
 adds **216 positions, 288 readings/paths and twenty-four paradigms**;
 cumulative **18,887**. Ā+ruh, upa+sic and dṛś retain separate 1.3.67
