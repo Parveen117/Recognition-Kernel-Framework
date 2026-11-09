@@ -1403,6 +1403,17 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG92** — [Bhuj sense and homonym](bhuj_sense_and_homonym/README.md)
+adds **450 positions/readings, 452 paths and fifty complete paradigms**;
+cumulative **18,671**. Five qualified ten-label requests close **450/450**,
+separating rudhādi eating/experience/appropriation A, protection P and
+tudādi curvature P. Lexical identity, semantic certificates and śnam/śa
+owners survive identical surface words. The keyed correction overlay
+replaces six PG91 P sic forms under 8.2.26 with zero added credit;
+its earlier 189/210/212 totals remain intact. Native zero/pairing proofs
+and source pins accompany the tables; grammar tests and replay remain
+deferred, with only Python 3.12 static integrity checks performed.
+
 **PG91** — [Final yuj/kṣṇu continuations](yuj_ksnu_final_continuations/README.md)
 adds **189 positions, 210 readings and 212 paths**, twenty-one full
 paradigms, taking the cumulative written register to **18,221**. The

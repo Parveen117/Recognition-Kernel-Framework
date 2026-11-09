@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 9 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG91 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 9 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG92 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG91 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG92 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,23 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG92: Bhuj's lexical/sense cut and scoped sic correction
+
+[PG92](research/panini_grammar/bhuj_sense_and_homonym/README.md)
+adds **450 positions/readings, 452 paths and fifty paradigms**, closing
+five declared sense/lexical ten-label profiles at **450/450**. Cumulative
+written positions become **18,671**. Rudhādi non-protection admits eating,
+experience and appropriation A; protection and the tudādi curvature
+homonym retain P. The full carrier keeps lexical identity before the
+sense cut and proves word-observer collisions plus typed zero/pairing
+compatibility. An explicit keyed overlay corrects **six PG91 P sic
+readings** under 8.2.26 without new-position credit or alteration of
+the frozen packet. PG91's 189/210/212 counts remain unchanged.
+Both inherited 3,983-ID sets remain unchanged. Python 3.12 static
+source/document checks are distinct from deferred grammar tests,
+generators, replay and full operator/navigation suites. No physical
+claim or whole-grammar percentage is inferred.
 
 ## PG91: Irit options and final yuj/kṣṇu closure
 
