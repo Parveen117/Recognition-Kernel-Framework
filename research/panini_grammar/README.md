@@ -1403,6 +1403,17 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG93** — [Causative role identity](causative_role_identity/README.md)
+adds **216 positions, 288 readings/paths and twenty-four paradigms**;
+cumulative **18,887**. Ā+ruh, upa+sic and dṛś retain separate 1.3.67
+role-identity A and ordinary-causal P frames. The same-action and old-role
+witnesses survive retained ṇic and ruh's h/p root option. Full native
+zero/pairing proofs and source pins accompany all four present-system
+tables. The bounded target is **216/540**, with 324 explicit remaining
+requests; future karmavat/ciṇvat work is still open. PG92 corrections
+remain active. Python 3.12 static integrity checks only; grammar tests
+and replay remain deferred.
+
 **PG92** — [Bhuj sense and homonym](bhuj_sense_and_homonym/README.md)
 adds **450 positions/readings, 452 paths and fifty complete paradigms**;
 cumulative **18,671**. Five qualified ten-label requests close **450/450**,
