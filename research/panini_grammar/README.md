@@ -1403,6 +1403,18 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG86** — [Contextual dāṇ/yam](contextual_dan_yam/README.md) adds **270
+positions and 279 readings/paths**, taking the cumulative register to
+**16,691**. The sam/sam+pra recipient-case profiles and upa+yam marriage
+profile close at **270/270**, thirty complete paradigms. The broader
+Bhāṣya acquisition policy remains distinct and untallied. Equal present
+yacch readouts retain different root/substitution histories; perfect copy
+retention/lopa and ghu root-i versus optional yam sic-kit remain addressed
+operations. The full native carrier proves the finite lexical-memory
+obstruction and typed zero/pairing compatibility. Both ID sets remain
+**3,983**. Static checks use Python 3.12; grammar tests, generators and
+replay stay deferred. Next: san admission and its local exceptions.
+
 ## Read in this order
 
 1. [Sources and editorial policy](SOURCES.md): editions, commentary attribution,

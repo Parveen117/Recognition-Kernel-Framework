@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 9 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG85 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 9 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG86 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG85 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG86 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,25 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG86: Contextual dāṇ/yam and distinct yacch histories
+
+[PG86](research/panini_grammar/contextual_dan_yam/README.md) adds **270
+positions and 279 readings/paths**, taking the cumulative register to
+**16,691**. Sam and sam+pra dāṇ retain the source-qualified third-case
+recipient usage and relational sam premise. Upa+yam selects marriage,
+with the broader Bhāṣya acquisition policy explicitly untallied.
+Equal present yacch factors have different replacement recipients and
+nonpresent continuations. Dāṇ's A sic has root-i and mandatory kit;
+yam's marriage sic has two kit/non-kit histories, including dental
+yadhvam/yandhvam. The
+[full carrier](research/panini_grammar/contextual_dan_yam/DOMAIN_AND_NATIVE.md)
+proves the bounded lexical-memory obstruction, branch count and typed
+zero/pairing compatibility. All three ten-label profiles close at
+**270/270**, thirty complete paradigms. Both ID sets remain **3,983**.
+Static checks use Python 3.12; grammar tests, generators, replay and
+navigation/operator suites remain deferred. Next: san 1.3.57–59 and
+the same-cause restriction in 1.3.62.
 
 ## PG85: Contextual car and expressed third-case evidence
 
