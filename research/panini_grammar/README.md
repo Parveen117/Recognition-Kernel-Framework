@@ -1403,6 +1403,19 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG90** — [Contextual yuj/kṣṇu](contextual_yuj_ksnu/README.md) adds
+**441 positions/readings/paths**, 49 full paradigms, taking the cumulative
+written register to **18,032**. Seven prefix/use-qualified profiles
+cover seven lakāras. The 1.3.64 vessel-use exclusion and chosen prefix
+vārttika remain separate from generic agent-result A; 1.3.65 admits
+transitive sam+kṣṇu. Internal śnam, root-vowel uvaṅ/guṇa, future
+iṭ and prefix/aṭ histories are retained. The native construction proves
+two bounded information-loss results and typed zero/pairing compatibility.
+Both ID sets remain **3,983**; the selected ten-label target has
+**441/630 written** and **189** blessing/perfect/aorist requests left.
+Python 3.12 static checks remain distinct from deferred grammar
+tests/generators/replay. Next: close that exact remaining request grid.
+
 **PG89** — [Śad/mṛ contexts](shad_mr_contexts/README.md) adds **180
 positions and 183 readings/paths**, twenty complete paradigms, taking
 the cumulative written register to **17,591**. Both basic intransitive

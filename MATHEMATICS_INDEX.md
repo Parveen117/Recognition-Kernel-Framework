@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 9 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG89 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 9 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG90 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG89 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG90 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,24 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG90: Use-sensitive yuj and transitive sam+kṣṇu
+
+[PG90](research/panini_grammar/contextual_yuj_ksnu/README.md) adds
+**441 positions/readings/paths**, 49 complete paradigms, taking the
+cumulative written register to **18,032**. Seven profiles have complete
+present, imperfect, ordinary imperative, optative, future, periphrastic
+future and conditional tables. Rule 1.3.64 and the selected svarādyanta
+vārttika retain the ritual-vessel boundary separately from 1.3.72;
+sam+kṣṇu admits a karman under 1.3.65. Internal śnam, root u,
+prefix/aṭ, iṭ and finite ending provenance remain distinct. The
+[full carrier](research/panini_grammar/contextual_yuj_ksnu/DOMAIN_AND_NATIVE.md)
+proves use-witness and word-only inverse obstructions, finite closure
+and typed zero/pairing compatibility. Both ID sets remain **3,983**.
+The bounded ten-label target is **441/630 written**, with **189**
+blessing/perfect/aorist requests left. Python 3.12 static checks are
+separate from deferred grammar tests/generators/replay and full
+navigation/operator suites. No whole-grammar percentage is claimed.
 
 ## PG89: Prospective śit and restricted mṛṅ pada
 
