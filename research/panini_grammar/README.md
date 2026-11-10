@@ -1408,6 +1408,11 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG110 — Pra+vah:** [packet](pra_vah_override/README.md) closes 90
+positions / 92 readings and paths in ten full paradigms; cumulative
+22,361. Root/copy samprasāraṇa and ḍh-lopa o remain owner-specific.
+Python 3.12 static checks only; grammar tests and replay deferred.
+
 **PG109 — Abhi/prati/ati kṣip:** [packet](kship_prefix_override/README.md)
 adds 270 positions / 270 readings / 273 paths and thirty full paradigms;
 cumulative 22,271. Class-six identity, source-dossier boundaries and
