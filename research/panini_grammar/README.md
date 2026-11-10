@@ -1403,6 +1403,14 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG104** — [Upapada-signalled pada option](upapada_pada_option/README.md)
+adds **360 request positions / 436 readings and paths**, cumulative
+**21,461**. Two actor-result events have A/P branches under 1.3.77;
+target **360/360**. Exact PG102/103 words are reused with new roles
+and admission, without new surface-type claims. Kāśikā/Nyāsa's
+aprāpta account is selected; Bālamanoramā's prāpta account remains
+archived and unreconciled. Python 3.12 static checks; grammar/replay deferred.
+
 **PG103** — [Apa+vad result intent](apa_vad_intent/README.md) adds
 **180 positions / 181 readings and paths**, cumulative **21,101**.
 Two basic-root profiles close at **180/180** across ten labels.
