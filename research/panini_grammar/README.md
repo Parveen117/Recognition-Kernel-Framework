@@ -1408,6 +1408,13 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG108** — [Anu/parā kṛ P override](anu_para_kr_override/README.md)
+adds **180 positions / 182 readings and paths**, twenty paradigms;
+cumulative **22,001**. Principal result remains actor-directed while
+1.3.79 prescribes P. Current-agent and karmakartṛ work are distinguished,
+with source-policy references preserved. The complete ten-label target
+closes; Python 3.12 static checks only, grammar tests/replay deferred.
+
 **PG107** — [Ud/ā yam actor-result frames](ud_aa_yam_actor_result/README.md)
 closes the prior **180 queued positions/readings/paths**, twenty complete
 paradigms; cumulative **21,821**. The single-ud and āṅ prefix/aṭ boundaries,

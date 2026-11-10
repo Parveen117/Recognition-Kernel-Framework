@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 10 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG107 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 10 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG108 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG107 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG108 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -687,6 +687,18 @@ The canonical operator engine and frozen evidence remain unchanged.
 **2,070 positions, 3,091 readings/paths and 230 complete paradigms**,
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
+
+## PG108: Anu/parā kṛ and explicit P exception
+
+[PG108](research/panini_grammar/anu_para_kr_override/README.md) adds
+**180 positions / 182 readings and paths**, twenty paradigms, cumulative
+**22,001**. Rule 1.3.79 selects P while principal actor-result remains
+true; ordinary current-agent, passive and karmakartṛ histories stay distinct.
+The preferred kāryātideśa boundary is selected and the alternative
+kartṛ-reference difference is archived. New prefix seams replace all
+old pra/ni owners; future iṭ, initial aṭ and aorist ending īṭ stay separate.
+Full history and typed zero/pairing compatibility are written. Python 3.12
+static checks only; grammar tests, generators and replay remain deferred.
 
 ## PG107: Ud/ā yam and retained prefix-augment history
 
