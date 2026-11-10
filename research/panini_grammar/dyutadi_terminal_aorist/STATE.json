@@ -1,0 +1,2127 @@
+{
+  "schema": "rkf.panini.pg117.state.v1",
+  "author": "Monty",
+  "date": "2026-11-10",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "ef3dcb7b8b779a314c156b2e92f8a73cdb637b9b",
+    "path": "research/panini_grammar/dyutadi_basic_aorist/STATE.json",
+    "scope": "EXACT_REVIEWED_DEPENDENCY_NO_RECURSIVE_AUDIT",
+    "bytes": 492532,
+    "sha256": "7b481a4e674f838414f6d477597d35f463ac05ac84a0c0af697b059daf1a14bc",
+    "git_blob_sha": "6c9ff0895f8e973e04db05cc96481f8233ebab55"
+  },
+  "finite_positions": 26807,
+  "new_positions": 36,
+  "new_position_readings": 54,
+  "new_written_table_readings": 54,
+  "retained_path_count": 54,
+  "additional_readings_within_new_positions": 18,
+  "coincident_additional_paths": 0,
+  "corrected_old_positions": 0,
+  "alternate_readings_at_existing_positions": 0,
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "overall_grammar_completion_percent": null,
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "referenced_existing_ids": [
+    "1.1.5",
+    "1.2.11",
+    "1.3.12",
+    "1.3.91",
+    "1.3.92",
+    "1.3.93",
+    "3.1.43",
+    "3.1.44",
+    "3.1.55",
+    "6.4.24",
+    "6.4.71",
+    "7.2.35",
+    "7.2.44",
+    "7.2.59",
+    "7.2.60",
+    "7.3.86",
+    "8.2.18",
+    "8.2.25",
+    "8.2.26",
+    "8.3.59",
+    "8.3.79",
+    "8.4.53",
+    "8.4.55",
+    "8.4.65"
+  ],
+  "local_selected_source_records": 54,
+  "written_units": 10,
+  "records": [
+    {
+      "id": "H01",
+      "title": "Close the two explicitly deferred lexical families",
+      "document": "research/panini_grammar/dyutadi_terminal_aorist/SOURCE_DECISIONS.md",
+      "line": 5,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H02",
+      "title": "Iṭ alternatives belong inside A sic",
+      "document": "research/panini_grammar/dyutadi_terminal_aorist/SOURCE_DECISIONS.md",
+      "line": 19,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H03",
+      "title": "Exact identities and meanings",
+      "document": "research/panini_grammar/dyutadi_terminal_aorist/SOURCE_DECISIONS.md",
+      "line": 31,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H04",
+      "title": "Selected consonant-cluster normal form",
+      "document": "research/panini_grammar/dyutadi_terminal_aorist/SOURCE_DECISIONS.md",
+      "line": 44,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H05",
+      "title": "Literal source issues remain separate from options",
+      "document": "research/panini_grammar/dyutadi_terminal_aorist/SOURCE_DECISIONS.md",
+      "line": 57,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H06",
+      "title": "P aṅ paths",
+      "document": "research/panini_grammar/dyutadi_terminal_aorist/DERIVATIONS.md",
+      "line": 5,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H07",
+      "title": "A seṭ sic paths",
+      "document": "research/panini_grammar/dyutadi_terminal_aorist/DERIVATIONS.md",
+      "line": 27,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H08",
+      "title": "A aniṭ sic paths",
+      "document": "research/panini_grammar/dyutadi_terminal_aorist/DERIVATIONS.md",
+      "line": 40,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H09",
+      "title": "Joint relation and observation limits",
+      "document": "research/panini_grammar/dyutadi_terminal_aorist/DERIVATIONS.md",
+      "line": 72,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H10",
+      "title": "Two-root completion and remaining scope",
+      "document": "research/panini_grammar/dyutadi_terminal_aorist/DERIVATIONS.md",
+      "line": 86,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    }
+  ],
+  "contextual_profiles": {
+    "SYAND_BASIC_AORIST_P": {
+      "root": "syand",
+      "lexical_id": "1010865",
+      "pada": "P",
+      "pada_by_lakara": {
+        "lung": "P"
+      },
+      "pada_cause": "1.3.91_OPTIONAL_P",
+      "formation": "basic",
+      "upasargas": [],
+      "semantic_certificate": {
+        "sense": "PRASRAVANA",
+        "kartari": true,
+        "agreement_controller": "a",
+        "causative": false,
+        "desiderative": false,
+        "passive": false,
+        "bhava": false,
+        "karmavyatihara": false,
+        "independent_upapada": false
+      },
+      "source_policy": "UDIT_A_SIC_OPTION_SELECTED_SOUND_NORMAL_FORM",
+      "complete_lakaras": [
+        "lung"
+      ],
+      "udit": true
+    },
+    "SYAND_BASIC_AORIST_A": {
+      "root": "syand",
+      "lexical_id": "1010865",
+      "pada": "A",
+      "pada_by_lakara": {
+        "lung": "A"
+      },
+      "pada_cause": "1.3.12_BASIC_A_RETAINED",
+      "formation": "basic",
+      "upasargas": [],
+      "semantic_certificate": {
+        "sense": "PRASRAVANA",
+        "kartari": true,
+        "agreement_controller": "a",
+        "causative": false,
+        "desiderative": false,
+        "passive": false,
+        "bhava": false,
+        "karmavyatihara": false,
+        "independent_upapada": false
+      },
+      "source_policy": "UDIT_A_SIC_OPTION_SELECTED_SOUND_NORMAL_FORM",
+      "complete_lakaras": [
+        "lung"
+      ],
+      "udit": true
+    },
+    "KRP_BASIC_AORIST_P": {
+      "root": "kṛp",
+      "lexical_id": "1010866",
+      "pada": "P",
+      "pada_by_lakara": {
+        "lung": "P"
+      },
+      "pada_cause": "1.3.91_OPTIONAL_P",
+      "formation": "basic",
+      "upasargas": [],
+      "semantic_certificate": {
+        "sense": "SAMARTHYA",
+        "kartari": true,
+        "agreement_controller": "a",
+        "causative": false,
+        "desiderative": false,
+        "passive": false,
+        "bhava": false,
+        "karmavyatihara": false,
+        "independent_upapada": false
+      },
+      "source_policy": "UDIT_A_SIC_OPTION_SELECTED_SOUND_NORMAL_FORM",
+      "complete_lakaras": [
+        "lung"
+      ],
+      "udit": true
+    },
+    "KRP_BASIC_AORIST_A": {
+      "root": "kṛp",
+      "lexical_id": "1010866",
+      "pada": "A",
+      "pada_by_lakara": {
+        "lung": "A"
+      },
+      "pada_cause": "1.3.12_BASIC_A_RETAINED",
+      "formation": "basic",
+      "upasargas": [],
+      "semantic_certificate": {
+        "sense": "SAMARTHYA",
+        "kartari": true,
+        "agreement_controller": "a",
+        "causative": false,
+        "desiderative": false,
+        "passive": false,
+        "bhava": false,
+        "karmavyatihara": false,
+        "independent_upapada": false
+      },
+      "source_policy": "UDIT_A_SIC_OPTION_SELECTED_SOUND_NORMAL_FORM",
+      "complete_lakaras": [
+        "lung"
+      ],
+      "udit": true
+    }
+  },
+  "zero_credit_controls": [
+    {
+      "id": "C1",
+      "request": "NO_IT_TOGGLE_ON_P_ANG",
+      "credit": 0
+    },
+    {
+      "id": "C2",
+      "request": "UDIT_NOT_IDIT_OR_LONG_IT",
+      "credit": 0
+    },
+    {
+      "id": "C3",
+      "request": "KRP_KIT_DEPENDS_ON_ACTUAL_ANIT_INTERFACE",
+      "credit": 0
+    },
+    {
+      "id": "C4",
+      "request": "SYAND_LATE_SIC_LOPA_NOT_EARLY_N_LOPA",
+      "credit": 0
+    },
+    {
+      "id": "C5",
+      "request": "KRP_R_L_MANDATORY_NOT_OPTIONAL",
+      "credit": 0
+    },
+    {
+      "id": "C6",
+      "request": "SYAND_REDUCTION_NOT_KRP_B_DH_REDUCTION",
+      "credit": 0
+    },
+    {
+      "id": "C7",
+      "request": "UNEXPANDED_SOUND_SCHEDULE_NOT_UNGRAMMATICAL",
+      "credit": 0
+    },
+    {
+      "id": "C8",
+      "request": "FUTURES_CONDITIONALS_ZERO_NEW_CREDIT",
+      "credit": 0
+    }
+  ],
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "SYAND_BASIC_AORIST_P",
+        "root": "syand",
+        "lexical_id": "1010865",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "asyadat"
+        ],
+        "paths": [
+          {
+            "reading": "asyadat",
+            "history_label": "SYAND_BASIC_AORIST_P:lung:3sg:b1",
+            "branch": "ANG",
+            "cli_replacement": "aṅ",
+            "ang_ngit": true,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": true,
+            "retained_nasal": false,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SYAND_BASIC_AORIST_P",
+        "root": "syand",
+        "lexical_id": "1010865",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3du",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "asyadatām"
+        ],
+        "paths": [
+          {
+            "reading": "asyadatām",
+            "history_label": "SYAND_BASIC_AORIST_P:lung:3du:b1",
+            "branch": "ANG",
+            "cli_replacement": "aṅ",
+            "ang_ngit": true,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": true,
+            "retained_nasal": false,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SYAND_BASIC_AORIST_P",
+        "root": "syand",
+        "lexical_id": "1010865",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "asyadan"
+        ],
+        "paths": [
+          {
+            "reading": "asyadan",
+            "history_label": "SYAND_BASIC_AORIST_P:lung:3pl:b1",
+            "branch": "ANG",
+            "cli_replacement": "aṅ",
+            "ang_ngit": true,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": true,
+            "retained_nasal": false,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SYAND_BASIC_AORIST_P",
+        "root": "syand",
+        "lexical_id": "1010865",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "asyadaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "asyadaḥ",
+            "history_label": "SYAND_BASIC_AORIST_P:lung:2sg:b1",
+            "branch": "ANG",
+            "cli_replacement": "aṅ",
+            "ang_ngit": true,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": true,
+            "retained_nasal": false,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SYAND_BASIC_AORIST_P",
+        "root": "syand",
+        "lexical_id": "1010865",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2du",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "asyadatam"
+        ],
+        "paths": [
+          {
+            "reading": "asyadatam",
+            "history_label": "SYAND_BASIC_AORIST_P:lung:2du:b1",
+            "branch": "ANG",
+            "cli_replacement": "aṅ",
+            "ang_ngit": true,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": true,
+            "retained_nasal": false,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SYAND_BASIC_AORIST_P",
+        "root": "syand",
+        "lexical_id": "1010865",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "asyadata"
+        ],
+        "paths": [
+          {
+            "reading": "asyadata",
+            "history_label": "SYAND_BASIC_AORIST_P:lung:2pl:b1",
+            "branch": "ANG",
+            "cli_replacement": "aṅ",
+            "ang_ngit": true,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": true,
+            "retained_nasal": false,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SYAND_BASIC_AORIST_P",
+        "root": "syand",
+        "lexical_id": "1010865",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "asyadam"
+        ],
+        "paths": [
+          {
+            "reading": "asyadam",
+            "history_label": "SYAND_BASIC_AORIST_P:lung:1sg:b1",
+            "branch": "ANG",
+            "cli_replacement": "aṅ",
+            "ang_ngit": true,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": true,
+            "retained_nasal": false,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SYAND_BASIC_AORIST_P",
+        "root": "syand",
+        "lexical_id": "1010865",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1du",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "asyadāva"
+        ],
+        "paths": [
+          {
+            "reading": "asyadāva",
+            "history_label": "SYAND_BASIC_AORIST_P:lung:1du:b1",
+            "branch": "ANG",
+            "cli_replacement": "aṅ",
+            "ang_ngit": true,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": true,
+            "retained_nasal": false,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SYAND_BASIC_AORIST_P",
+        "root": "syand",
+        "lexical_id": "1010865",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "asyadāma"
+        ],
+        "paths": [
+          {
+            "reading": "asyadāma",
+            "history_label": "SYAND_BASIC_AORIST_P:lung:1pl:b1",
+            "branch": "ANG",
+            "cli_replacement": "aṅ",
+            "ang_ngit": true,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": true,
+            "retained_nasal": false,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SYAND_BASIC_AORIST_A",
+        "root": "syand",
+        "lexical_id": "1010865",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "asyandiṣṭa",
+          "asyanta"
+        ],
+        "paths": [
+          {
+            "reading": "asyandiṣṭa",
+            "history_label": "SYAND_BASIC_AORIST_A:lung:3sg:b1",
+            "branch": "SIC_SET",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": true,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": true,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          },
+          {
+            "reading": "asyanta",
+            "history_label": "SYAND_BASIC_AORIST_A:lung:3sg:b2",
+            "branch": "SIC_ANIT",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": true,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": "8.4.65_FIRST_STOP_DELETED_ENDING_RETAINED",
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": "UNREDUCED_CLUSTER_ADMITTED_NOT_COUNTED"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SYAND_BASIC_AORIST_A",
+        "root": "syand",
+        "lexical_id": "1010865",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3du",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "asyandiṣātām",
+          "asyantsātām"
+        ],
+        "paths": [
+          {
+            "reading": "asyandiṣātām",
+            "history_label": "SYAND_BASIC_AORIST_A:lung:3du:b1",
+            "branch": "SIC_SET",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": true,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": true,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          },
+          {
+            "reading": "asyantsātām",
+            "history_label": "SYAND_BASIC_AORIST_A:lung:3du:b2",
+            "branch": "SIC_ANIT",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": true,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SYAND_BASIC_AORIST_A",
+        "root": "syand",
+        "lexical_id": "1010865",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "asyandiṣata",
+          "asyantsata"
+        ],
+        "paths": [
+          {
+            "reading": "asyandiṣata",
+            "history_label": "SYAND_BASIC_AORIST_A:lung:3pl:b1",
+            "branch": "SIC_SET",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": true,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": true,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          },
+          {
+            "reading": "asyantsata",
+            "history_label": "SYAND_BASIC_AORIST_A:lung:3pl:b2",
+            "branch": "SIC_ANIT",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": true,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SYAND_BASIC_AORIST_A",
+        "root": "syand",
+        "lexical_id": "1010865",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "asyandiṣṭhāḥ",
+          "asyanthāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "asyandiṣṭhāḥ",
+            "history_label": "SYAND_BASIC_AORIST_A:lung:2sg:b1",
+            "branch": "SIC_SET",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": true,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": true,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          },
+          {
+            "reading": "asyanthāḥ",
+            "history_label": "SYAND_BASIC_AORIST_A:lung:2sg:b2",
+            "branch": "SIC_ANIT",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": true,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": "8.4.65_FIRST_STOP_DELETED_ENDING_RETAINED",
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": "UNREDUCED_CLUSTER_ADMITTED_NOT_COUNTED"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SYAND_BASIC_AORIST_A",
+        "root": "syand",
+        "lexical_id": "1010865",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2du",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "asyandiṣāthām",
+          "asyantsāthām"
+        ],
+        "paths": [
+          {
+            "reading": "asyandiṣāthām",
+            "history_label": "SYAND_BASIC_AORIST_A:lung:2du:b1",
+            "branch": "SIC_SET",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": true,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": true,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          },
+          {
+            "reading": "asyantsāthām",
+            "history_label": "SYAND_BASIC_AORIST_A:lung:2du:b2",
+            "branch": "SIC_ANIT",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": true,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SYAND_BASIC_AORIST_A",
+        "root": "syand",
+        "lexical_id": "1010865",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "asyandidhvam",
+          "asyandhvam"
+        ],
+        "paths": [
+          {
+            "reading": "asyandidhvam",
+            "history_label": "SYAND_BASIC_AORIST_A:lung:2pl:b1",
+            "branch": "SIC_SET",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": true,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": true,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          },
+          {
+            "reading": "asyandhvam",
+            "history_label": "SYAND_BASIC_AORIST_A:lung:2pl:b2",
+            "branch": "SIC_ANIT",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": true,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": "8.4.65_FIRST_STOP_DELETED_ENDING_RETAINED",
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": "UNREDUCED_CLUSTER_ADMITTED_NOT_COUNTED"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SYAND_BASIC_AORIST_A",
+        "root": "syand",
+        "lexical_id": "1010865",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "asyandiṣi",
+          "asyantsi"
+        ],
+        "paths": [
+          {
+            "reading": "asyandiṣi",
+            "history_label": "SYAND_BASIC_AORIST_A:lung:1sg:b1",
+            "branch": "SIC_SET",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": true,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": true,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          },
+          {
+            "reading": "asyantsi",
+            "history_label": "SYAND_BASIC_AORIST_A:lung:1sg:b2",
+            "branch": "SIC_ANIT",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": true,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SYAND_BASIC_AORIST_A",
+        "root": "syand",
+        "lexical_id": "1010865",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1du",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "asyandiṣvahi",
+          "asyantsvahi"
+        ],
+        "paths": [
+          {
+            "reading": "asyandiṣvahi",
+            "history_label": "SYAND_BASIC_AORIST_A:lung:1du:b1",
+            "branch": "SIC_SET",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": true,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": true,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          },
+          {
+            "reading": "asyantsvahi",
+            "history_label": "SYAND_BASIC_AORIST_A:lung:1du:b2",
+            "branch": "SIC_ANIT",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": true,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SYAND_BASIC_AORIST_A",
+        "root": "syand",
+        "lexical_id": "1010865",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "asyandiṣmahi",
+          "asyantsmahi"
+        ],
+        "paths": [
+          {
+            "reading": "asyandiṣmahi",
+            "history_label": "SYAND_BASIC_AORIST_A:lung:1pl:b1",
+            "branch": "SIC_SET",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": true,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": true,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          },
+          {
+            "reading": "asyantsmahi",
+            "history_label": "SYAND_BASIC_AORIST_A:lung:1pl:b2",
+            "branch": "SIC_ANIT",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": true,
+            "krp_r_l_history": null,
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "KRP_BASIC_AORIST_P",
+        "root": "kṛp",
+        "lexical_id": "1010866",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "akḷpat"
+        ],
+        "paths": [
+          {
+            "reading": "akḷpat",
+            "history_label": "KRP_BASIC_AORIST_P:lung:3sg:b1",
+            "branch": "ANG",
+            "cli_replacement": "aṅ",
+            "ang_ngit": true,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "VOCALIC_R_TO_L_NO_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "KRP_BASIC_AORIST_P",
+        "root": "kṛp",
+        "lexical_id": "1010866",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3du",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "akḷpatām"
+        ],
+        "paths": [
+          {
+            "reading": "akḷpatām",
+            "history_label": "KRP_BASIC_AORIST_P:lung:3du:b1",
+            "branch": "ANG",
+            "cli_replacement": "aṅ",
+            "ang_ngit": true,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "VOCALIC_R_TO_L_NO_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "KRP_BASIC_AORIST_P",
+        "root": "kṛp",
+        "lexical_id": "1010866",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "akḷpan"
+        ],
+        "paths": [
+          {
+            "reading": "akḷpan",
+            "history_label": "KRP_BASIC_AORIST_P:lung:3pl:b1",
+            "branch": "ANG",
+            "cli_replacement": "aṅ",
+            "ang_ngit": true,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "VOCALIC_R_TO_L_NO_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "KRP_BASIC_AORIST_P",
+        "root": "kṛp",
+        "lexical_id": "1010866",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "akḷpaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "akḷpaḥ",
+            "history_label": "KRP_BASIC_AORIST_P:lung:2sg:b1",
+            "branch": "ANG",
+            "cli_replacement": "aṅ",
+            "ang_ngit": true,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "VOCALIC_R_TO_L_NO_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "KRP_BASIC_AORIST_P",
+        "root": "kṛp",
+        "lexical_id": "1010866",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2du",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "akḷpatam"
+        ],
+        "paths": [
+          {
+            "reading": "akḷpatam",
+            "history_label": "KRP_BASIC_AORIST_P:lung:2du:b1",
+            "branch": "ANG",
+            "cli_replacement": "aṅ",
+            "ang_ngit": true,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "VOCALIC_R_TO_L_NO_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "KRP_BASIC_AORIST_P",
+        "root": "kṛp",
+        "lexical_id": "1010866",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "akḷpata"
+        ],
+        "paths": [
+          {
+            "reading": "akḷpata",
+            "history_label": "KRP_BASIC_AORIST_P:lung:2pl:b1",
+            "branch": "ANG",
+            "cli_replacement": "aṅ",
+            "ang_ngit": true,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "VOCALIC_R_TO_L_NO_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "KRP_BASIC_AORIST_P",
+        "root": "kṛp",
+        "lexical_id": "1010866",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "akḷpam"
+        ],
+        "paths": [
+          {
+            "reading": "akḷpam",
+            "history_label": "KRP_BASIC_AORIST_P:lung:1sg:b1",
+            "branch": "ANG",
+            "cli_replacement": "aṅ",
+            "ang_ngit": true,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "VOCALIC_R_TO_L_NO_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "KRP_BASIC_AORIST_P",
+        "root": "kṛp",
+        "lexical_id": "1010866",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1du",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "akḷpāva"
+        ],
+        "paths": [
+          {
+            "reading": "akḷpāva",
+            "history_label": "KRP_BASIC_AORIST_P:lung:1du:b1",
+            "branch": "ANG",
+            "cli_replacement": "aṅ",
+            "ang_ngit": true,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "VOCALIC_R_TO_L_NO_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "KRP_BASIC_AORIST_P",
+        "root": "kṛp",
+        "lexical_id": "1010866",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "akḷpāma"
+        ],
+        "paths": [
+          {
+            "reading": "akḷpāma",
+            "history_label": "KRP_BASIC_AORIST_P:lung:1pl:b1",
+            "branch": "ANG",
+            "cli_replacement": "aṅ",
+            "ang_ngit": true,
+            "sic_kit": false,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "VOCALIC_R_TO_L_NO_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "KRP_BASIC_AORIST_A",
+        "root": "kṛp",
+        "lexical_id": "1010866",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "akalpiṣṭa",
+          "akḷpta"
+        ],
+        "paths": [
+          {
+            "reading": "akalpiṣṭa",
+            "history_label": "KRP_BASIC_AORIST_A:lung:3sg:b1",
+            "branch": "SIC_SET",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": true,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "R_TO_L_AFTER_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          },
+          {
+            "reading": "akḷpta",
+            "history_label": "KRP_BASIC_AORIST_A:lung:3sg:b2",
+            "branch": "SIC_ANIT",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": true,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "VOCALIC_R_TO_L_NO_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "KRP_BASIC_AORIST_A",
+        "root": "kṛp",
+        "lexical_id": "1010866",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3du",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "akalpiṣātām",
+          "akḷpsātām"
+        ],
+        "paths": [
+          {
+            "reading": "akalpiṣātām",
+            "history_label": "KRP_BASIC_AORIST_A:lung:3du:b1",
+            "branch": "SIC_SET",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": true,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "R_TO_L_AFTER_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          },
+          {
+            "reading": "akḷpsātām",
+            "history_label": "KRP_BASIC_AORIST_A:lung:3du:b2",
+            "branch": "SIC_ANIT",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": true,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "VOCALIC_R_TO_L_NO_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "KRP_BASIC_AORIST_A",
+        "root": "kṛp",
+        "lexical_id": "1010866",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "akalpiṣata",
+          "akḷpsata"
+        ],
+        "paths": [
+          {
+            "reading": "akalpiṣata",
+            "history_label": "KRP_BASIC_AORIST_A:lung:3pl:b1",
+            "branch": "SIC_SET",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": true,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "R_TO_L_AFTER_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          },
+          {
+            "reading": "akḷpsata",
+            "history_label": "KRP_BASIC_AORIST_A:lung:3pl:b2",
+            "branch": "SIC_ANIT",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": true,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "VOCALIC_R_TO_L_NO_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "KRP_BASIC_AORIST_A",
+        "root": "kṛp",
+        "lexical_id": "1010866",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "akalpiṣṭhāḥ",
+          "akḷpthāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "akalpiṣṭhāḥ",
+            "history_label": "KRP_BASIC_AORIST_A:lung:2sg:b1",
+            "branch": "SIC_SET",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": true,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "R_TO_L_AFTER_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          },
+          {
+            "reading": "akḷpthāḥ",
+            "history_label": "KRP_BASIC_AORIST_A:lung:2sg:b2",
+            "branch": "SIC_ANIT",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": true,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "VOCALIC_R_TO_L_NO_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "KRP_BASIC_AORIST_A",
+        "root": "kṛp",
+        "lexical_id": "1010866",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2du",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "akalpiṣāthām",
+          "akḷpsāthām"
+        ],
+        "paths": [
+          {
+            "reading": "akalpiṣāthām",
+            "history_label": "KRP_BASIC_AORIST_A:lung:2du:b1",
+            "branch": "SIC_SET",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": true,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "R_TO_L_AFTER_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          },
+          {
+            "reading": "akḷpsāthām",
+            "history_label": "KRP_BASIC_AORIST_A:lung:2du:b2",
+            "branch": "SIC_ANIT",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": true,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "VOCALIC_R_TO_L_NO_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "KRP_BASIC_AORIST_A",
+        "root": "kṛp",
+        "lexical_id": "1010866",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "akalpidhvam",
+          "akḷbdhvam"
+        ],
+        "paths": [
+          {
+            "reading": "akalpidhvam",
+            "history_label": "KRP_BASIC_AORIST_A:lung:2pl:b1",
+            "branch": "SIC_SET",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": true,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "R_TO_L_AFTER_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          },
+          {
+            "reading": "akḷbdhvam",
+            "history_label": "KRP_BASIC_AORIST_A:lung:2pl:b2",
+            "branch": "SIC_ANIT",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": true,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "VOCALIC_R_TO_L_NO_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": "8.4.53_P_TO_B",
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "KRP_BASIC_AORIST_A",
+        "root": "kṛp",
+        "lexical_id": "1010866",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "akalpiṣi",
+          "akḷpsi"
+        ],
+        "paths": [
+          {
+            "reading": "akalpiṣi",
+            "history_label": "KRP_BASIC_AORIST_A:lung:1sg:b1",
+            "branch": "SIC_SET",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": true,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "R_TO_L_AFTER_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          },
+          {
+            "reading": "akḷpsi",
+            "history_label": "KRP_BASIC_AORIST_A:lung:1sg:b2",
+            "branch": "SIC_ANIT",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": true,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "VOCALIC_R_TO_L_NO_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "KRP_BASIC_AORIST_A",
+        "root": "kṛp",
+        "lexical_id": "1010866",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1du",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "akalpiṣvahi",
+          "akḷpsvahi"
+        ],
+        "paths": [
+          {
+            "reading": "akalpiṣvahi",
+            "history_label": "KRP_BASIC_AORIST_A:lung:1du:b1",
+            "branch": "SIC_SET",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": true,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "R_TO_L_AFTER_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          },
+          {
+            "reading": "akḷpsvahi",
+            "history_label": "KRP_BASIC_AORIST_A:lung:1du:b2",
+            "branch": "SIC_ANIT",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": true,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "VOCALIC_R_TO_L_NO_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "KRP_BASIC_AORIST_A",
+        "root": "kṛp",
+        "lexical_id": "1010866",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "context_ref": "lung",
+        "owner_contract": "DERIVATIONS_H06_H09",
+        "readings": [
+          "akalpiṣmahi",
+          "akḷpsmahi"
+        ],
+        "paths": [
+          {
+            "reading": "akalpiṣmahi",
+            "history_label": "KRP_BASIC_AORIST_A:lung:1pl:b1",
+            "branch": "SIC_SET",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": false,
+            "outer_it": true,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "R_TO_L_AFTER_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          },
+          {
+            "reading": "akḷpsmahi",
+            "history_label": "KRP_BASIC_AORIST_A:lung:1pl:b2",
+            "branch": "SIC_ANIT",
+            "cli_replacement": "sic",
+            "ang_ngit": false,
+            "sic_kit": true,
+            "outer_it": false,
+            "initial_augment": "AT_6.4.71",
+            "nasal_upadha_lopa": false,
+            "retained_nasal": false,
+            "krp_r_l_history": "VOCALIC_R_TO_L_NO_GUNA",
+            "causal_nic_lopa": false,
+            "reduplication": false,
+            "selected_cluster_reduction": null,
+            "root_p_voicing": null,
+            "unexpanded_phonetic_alternatives": null
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      }
+    ],
+    "panels": [
+      {
+        "panel": "P1",
+        "profile": "SYAND_BASIC_AORIST_P",
+        "lakaras": [
+          "lung"
+        ],
+        "positions": 9,
+        "readings": 9,
+        "paths": 9,
+        "complete_nine_slot_paradigms": 1
+      },
+      {
+        "panel": "P2",
+        "profile": "SYAND_BASIC_AORIST_A",
+        "lakaras": [
+          "lung"
+        ],
+        "positions": 9,
+        "readings": 18,
+        "paths": 18,
+        "complete_nine_slot_paradigms": 1
+      },
+      {
+        "panel": "P3",
+        "profile": "KRP_BASIC_AORIST_P",
+        "lakaras": [
+          "lung"
+        ],
+        "positions": 9,
+        "readings": 9,
+        "paths": 9,
+        "complete_nine_slot_paradigms": 1
+      },
+      {
+        "panel": "P4",
+        "profile": "KRP_BASIC_AORIST_A",
+        "lakaras": [
+          "lung"
+        ],
+        "positions": 9,
+        "readings": 18,
+        "paths": 18,
+        "complete_nine_slot_paradigms": 1
+      }
+    ],
+    "complete_nine_slot_paradigms": 4
+  },
+  "planned_request_grid": {
+    "profiles": [
+      "SYAND_BASIC_AORIST_P",
+      "SYAND_BASIC_AORIST_A",
+      "KRP_BASIC_AORIST_P",
+      "KRP_BASIC_AORIST_A"
+    ],
+    "lakaras": [
+      "lung"
+    ],
+    "slots_by_profile": {
+      "SYAND_BASIC_AORIST_P": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "SYAND_BASIC_AORIST_A": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "KRP_BASIC_AORIST_P": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "KRP_BASIC_AORIST_A": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ]
+    },
+    "positions": 36,
+    "written_positions": 36,
+    "written_readings": 54,
+    "written_paths": 54,
+    "remaining_positions": 0,
+    "missing_requests": [],
+    "complete_nine_slot_paradigms_written": 4
+  },
+  "closed_request_grid": {
+    "profiles": [
+      "SYAND_BASIC_AORIST_P",
+      "SYAND_BASIC_AORIST_A",
+      "KRP_BASIC_AORIST_P",
+      "KRP_BASIC_AORIST_A"
+    ],
+    "lakaras": [
+      "lung"
+    ],
+    "slots_by_profile": {
+      "SYAND_BASIC_AORIST_P": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "SYAND_BASIC_AORIST_A": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "KRP_BASIC_AORIST_P": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "KRP_BASIC_AORIST_A": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ]
+    },
+    "positions": 36,
+    "written_positions": 36,
+    "written_readings": 54,
+    "written_paths": 54,
+    "remaining_positions": 0,
+    "missing_requests": [],
+    "complete_nine_slot_paradigms_written": 4
+  },
+  "companion": {
+    "commit": "edd98b0685b478cb39468e350b26783bb4cce7ff",
+    "head_checked_for_this_block": false,
+    "scope": "INHERITED_ONLY_NOT_FRESH_HEAD_CHECK"
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_checks": "PASS",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "navigation_operator_suites": "DEFERRED",
+    "document_check_runtime": "3.12.14",
+    "document_check_scope": "Source/pin integrity, complete lung grid/table agreement, dependent aṅ/sic/iṭ/kit, syand nasal boundary and selected homorganic reduction, mandatory kṛp r/l and 2pl voicing, counts. Static checks only; no grammar execution or full predecessor audit."
+  },
+  "grammar_executions": [],
+  "native_controls": {
+    "primitive_carrier": "FREE_UNITAL_DAGGER_EXTENSION_OF_PG116",
+    "typed_zero": "N3",
+    "pairing": "N3_NOT_EVENT_ISOMETRY",
+    "physical_identification": null,
+    "clock_adapter": null
+  },
+  "open_obligations": [
+    "Wider semantic admission, independent source scans, accent/doubling and executable/native/calculator integration."
+  ],
+  "next_work": [
+    "Inspect san/kyas finite gaps and vrh membership; retain PG17/PG31 future/conditional zero-credit reuse."
+  ],
+  "document_check_summary": {
+    "positions": 36,
+    "readings": 54,
+    "paths": 54,
+    "source_records": 54,
+    "local_links_checked": 8,
+    "remaining_requests": 0,
+    "grammar_execution": false
+  }
+}
