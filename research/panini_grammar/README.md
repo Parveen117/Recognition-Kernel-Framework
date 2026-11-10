@@ -1403,6 +1403,14 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG99** — [Hetubhaya final continuations](hetubhaya_final/README.md)
+add **72 positions / 274 readings and paths**, cumulative **19,931**.
+The four-profile target closes at **360/360** with **637 readings/paths**.
+Perfect keeps kṛ-only pada transfer; caṅ retains bhī's historical
+puk/ṣuk and long bī, but smi's short si before sm and addressed root ṣ.
+The exact 72-key complement is exhausted. Python 3.12 static checks
+only; grammar tests, generators and replay remain deferred.
+
 **PG98** — [Hetubhaya ṇyantas](hetubhaya_nic/README.md) add
 **288 positions / 363 readings and paths**; cumulative **19,859**.
 Four bhī/vi+smi profiles distinguish causer from instrument,
