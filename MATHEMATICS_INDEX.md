@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 10 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG110 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 10 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG111 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG110 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG111 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -687,6 +687,14 @@ The canonical operator engine and frozen evidence remain unchanged.
 **2,070 positions, 3,091 readings/paths and 230 complete paradigms**,
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
+
+## PG111: pari+mṛṣ and ram lexical/transitivity closure
+
+[PG111](research/panini_grammar/pari_mrsh_ram_scope/README.md) closes
+630 positions / 640 readings / 641 paths in seventy complete paradigms;
+cumulative 22,991. Distinguishes mṛṣ homonyms, upa+ram transitivity,
+ram perfect e/copy work and P-only sak+iṭ. Full typed zero/pairing
+compatibility is written; Python 3.12 static checks only, grammar/replay deferred.
 
 ## PG110: pra+vah, samprasāraṇa and owned ḍh-junctions
 
