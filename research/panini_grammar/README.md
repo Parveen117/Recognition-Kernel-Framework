@@ -1408,6 +1408,11 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG114 — Original conscious agents and nonconscious drying:** [packet](nic_original_agent/README.md) adds
+**360 positions / 511 readings / 511 paths**; cumulative **24,791**.
+Selected target 360/360; Python 3.12 static checks only,
+grammar tests/generators/replay deferred.
+
 **PG113 — Ingestion and shaking with independent ad exceptions:** [packet](nic_ingestion_shaking/README.md) adds
 **720 positions / 1151 readings / 1151 paths**; cumulative **24,431**.
 Selected target 720/720; Python 3.12 static checks only,
