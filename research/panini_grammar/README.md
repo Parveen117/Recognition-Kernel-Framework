@@ -1403,6 +1403,14 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG103** — [Apa+vad result intent](apa_vad_intent/README.md) adds
+**180 positions / 181 readings and paths**, cumulative **21,101**.
+Two basic-root profiles close at **180/180** across ten labels.
+Principal intended result differs from actual reward; kit/root versus
+copy-only perfect, mandatory P sic vād, and prefix apa+a/u/ū seams
+retain their owners. Exact PG81–82 contracts are reused with newly
+qualified P singulars. Python 3.12 static checks only; grammar/replay deferred.
+
 **PG102** — [Mithyā-upapada kṛ](mithya_kr_nic/README.md) adds
 **270 positions / 383 readings and paths**, cumulative **20,921**.
 Three source-qualified recurrence/upapada profiles close at **270/270**
