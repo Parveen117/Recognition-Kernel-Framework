@@ -1408,6 +1408,11 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG112 — Eight named causative P exceptions:** [packet](nic_named_p_exceptions/README.md) adds
+**720 positions / 1060 readings / 1060 paths**; cumulative **23,711**.
+Selected target 720/720; Python 3.12 static checks only,
+grammar tests/generators/replay deferred.
+
 **PG111 — Pari+mṛṣ and ram:** [packet](pari_mrsh_ram_scope/README.md)
 closes **630 positions / 640 readings / 641 paths**, seventy complete
 paradigms; cumulative **22,991**. Lexical and transitivity guards control
