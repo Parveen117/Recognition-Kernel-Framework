@@ -1403,6 +1403,14 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG101** — [Lī final continuations](li_sense_final/README.md) add
+**144 positions / 548 readings and paths**, cumulative **20,651**.
+The eight-profile target closes at **720/720**, with **1,274
+readings/paths**. Perfect retains primary/auxiliary identity; caṅ
+keeps historical puk/root-y, long lī copies and prefix-relative aṭ.
+The exact PG100 complement is exhausted. Python 3.12 static checks
+only; grammar tests, generators and replay remain deferred.
+
 **PG100** — [Lī semantic ṇyantas](li_sense_nic/README.md) add
 **576 positions / 726 readings and paths**, cumulative **20,507**.
 Both divādi and kryādi entries retain separate honour, overpowering,
