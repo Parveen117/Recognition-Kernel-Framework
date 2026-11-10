@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 10 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG101 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 10 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG102 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG101 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG102 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,18 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG102: Mithyā-upapada kṛ and semantic recurrence
+
+[PG102](research/panini_grammar/mithya_kr_nic/README.md) adds
+**270 positions / 383 readings and paths**, cumulative **20,921**.
+The three-profile ten-label target closes at **270/270**. Semantic
+repetition is distinct from phonological copy; primary and auxiliary
+kṛ retain different occurrence IDs. Ending ṇatva, late dental n and
+final n have separate guards. The full carrier retains source and
+complementary histories with typed zero/pairing compatibility.
+PG92's correction overlay remains active. Python 3.12 static checks
+only; grammar tests, generators, replay and wider completeness stay open.
 
 ## PG101: Lī perfect and aorist closure
 

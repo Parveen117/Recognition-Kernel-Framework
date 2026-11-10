@@ -1403,6 +1403,14 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG102** — [Mithyā-upapada kṛ](mithya_kr_nic/README.md) adds
+**270 positions / 383 readings and paths**, cumulative **20,921**.
+Three source-qualified recurrence/upapada profiles close at **270/270**
+across all ten labels. Semantic repetition, morphological copy and
+primary/auxiliary kṛ are distinct; kārayāṇi and late dental n retain
+their separate sound histories. Vac controls remain uncounted.
+Python 3.12 static checks only; grammar and replay stay deferred.
+
 **PG101** — [Lī final continuations](li_sense_final/README.md) add
 **144 positions / 548 readings and paths**, cumulative **20,651**.
 The eight-profile target closes at **720/720**, with **1,274
