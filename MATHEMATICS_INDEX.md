@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 10 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG99 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 10 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG100 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG99 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG100 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,18 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG100: Lī lexical entries and named semantic frames
+
+[PG100](research/panini_grammar/li_sense_nic/README.md) adds
+**576 positions / 726 readings and paths**, cumulative **20,507**.
+Eight lexical/sense profiles distinguish mandatory named-sense lāp
+from ordinary lāp/lāy. Honour roles, prefix-relative aṭ and
+root/ṇic/ending owners remain explicit. The ten-label target is
+**576/720**, leaving **144** perfect/aorist keys. The full carrier
+preserves source and complementary histories with typed zero/pairing
+compatibility. PG92's correction overlay remains active. Python
+3.12 static checks only; grammar and replay gates stay deferred.
 
 ## PG99: Hetubhaya perfect and caṅ closure
 

@@ -1403,6 +1403,15 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG100** — [Lī semantic ṇyantas](li_sense_nic/README.md) add
+**576 positions / 726 readings and paths**, cumulative **20,507**.
+Both divādi and kryādi entries retain separate honour, overpowering,
+deception and ordinary frames. Named A requires lāp; ordinary P
+allows lāp/lāy. Prefix-relative aṭ gives ālā- versus ullā-/udalā-,
+with source roles and y owners retained. Target **576/720**;
+**144** perfect/aorist requests remain. Python 3.12 static checks
+only; grammar tests, generators and replay remain deferred.
+
 **PG99** — [Hetubhaya final continuations](hetubhaya_final/README.md)
 add **72 positions / 274 readings and paths**, cumulative **19,931**.
 The four-profile target closes at **360/360** with **637 readings/paths**.
