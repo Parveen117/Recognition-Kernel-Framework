@@ -1408,6 +1408,11 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG116 — Basic dyutādi aorists with family-owned variants:** [packet](dyutadi_basic_aorist/README.md) adds
+**360 positions / 396 readings / 396 paths**; cumulative **26,771**.
+Selected target 360/360; Python 3.12 static checks only,
+grammar tests/generators/replay deferred.
+
 **PG115 — Named causal exclusions and dhēt extension:** [packet](nic_named_exclusion/README.md) adds
 **1620 positions / 2313 readings / 2313 paths**; cumulative **26,411**.
 Selected target 1620/1620; Python 3.12 static checks only,

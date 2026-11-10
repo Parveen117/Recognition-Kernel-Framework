@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 10 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG115 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 10 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG116 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG115 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG116 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -687,6 +687,12 @@ The canonical operator engine and frozen evidence remain unchanged.
 **2,070 positions, 3,091 readings/paths and 230 complete paradigms**,
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
+
+## PG116: Basic dyutādi aorists with family-owned variants
+
+[PG116](research/panini_grammar/dyutadi_basic_aorist/README.md): 360 positions, 396 readings and 396 paths;
+cumulative 26,771. 40 complete paradigms.
+Python 3.12 static source/document checks; grammar tests and replay deferred.
 
 ## PG115: Named causal exclusions and dhēt extension
 
