@@ -1403,6 +1403,14 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG106** — [Sam+yam actor-result collection](sam_yam_actor_result/README.md)
+adds **90 positions/readings/paths**, closes the selected sam A target
+**90/90**, cumulative **21,641**. The non-grantha collection sense has
+neither gandhana's mandatory kit nor marriage's optional kit; sic has
+one NON_KIT path per slot. Prefix sam and root nasal owners remain
+separate. Ud/ā and P witnesses are uncounted. Python 3.12 static checks
+only; grammar tests, generators and replay remain deferred.
+
 **PG105** — [Transitive jñā actor-result](jna_actor_result/README.md)
 adds **90 positions/readings/paths**, closing the selected A target
 **90/90**, cumulative **21,551**. The source-qualified object frame

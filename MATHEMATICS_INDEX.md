@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 10 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG105 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 10 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG106 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG105 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG106 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -682,6 +682,18 @@ keeps grammar/navigation/operator tests and certificate replay deferred.
 Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
+
+## PG106: Sam+yam collection and meaning-qualified sic
+
+[PG106](research/panini_grammar/sam_yam_actor_result/README.md) adds
+**90 positions/readings/paths**, ten complete paradigms, cumulative
+**21,641**. The 1.3.75 sam collection frame retains actor-result,
+non-grantha and no-result-cue guards. Neither gandhana nor marriage
+licenses sic-kit, so the inherited NON_KIT continuation is selected
+without PG86's marriage option. Root nasal and prefix sam have separate
+owners; samayandhvam keeps late dental n. Full source/complementary
+histories and typed zero/pairing compatibility are written. Python 3.12
+static checks only; grammar tests, generators and replay remain deferred.
 
 ## PG105: Transitive unprefixed jñā and principal actor-result
 
