@@ -683,6 +683,11 @@ Remaining adādi modal exceptions, contextual liṅ meanings, broader
 voice/causative transport and general visibility resolution stay open.
 The canonical operator engine and frozen evidence remain unchanged.
 
+[10 November two-hour session record](research/panini_grammar/session_20261110/SESSION_RECORD.md): PG98–106 added
+**2,070 positions, 3,091 readings/paths and 230 complete paradigms**,
+cumulative **21,641**; static Python 3.12 checks only. The proposed
+ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
+
 ## PG106: Sam+yam collection and meaning-qualified sic
 
 [PG106](research/panini_grammar/sam_yam_actor_result/README.md) adds

@@ -1,0 +1,1712 @@
+{
+  "schema": "rkf.panini.session.20261110.v1",
+  "author": "Monty",
+  "started_at_utc": "2026-11-10T05:10:22+00:00",
+  "started_at_ist": "2026-11-10T10:40:22+05:30",
+  "requested_until_utc": "2026-11-10T07:10:22+00:00",
+  "record_checkpoint_at_utc": "2026-11-10T07:08:56.883489+00:00",
+  "record_checkpoint_at_ist": "2026-11-10T12:38:56.883489+05:30",
+  "elapsed_minutes_at_checkpoint": 118.58,
+  "opening_commit": "9308393019c3729af536e7bb892906124e709f84",
+  "closing_development_commit": "dabc368fe3137abd0a50e0ff5f74ec9d131b0000",
+  "opening_positions": 19571,
+  "session_new_positions": 2070,
+  "session_readings": 3091,
+  "session_paths": 3091,
+  "session_complete_nine_slot_paradigms": 230,
+  "cumulative_positions": 21641,
+  "blocks": [
+    {
+      "stage": "PG98",
+      "directory": "hetubhaya_nic",
+      "commit": "731ee4845f406fd161b2e2a35b93f118425728e4",
+      "positions": 288,
+      "readings": 363,
+      "paths": 363,
+      "complete_nine_slot_paradigms": 32,
+      "cumulative_positions": 19859,
+      "source_records": 135,
+      "document_runtime": "3.12.14",
+      "grammar_execution": false
+    },
+    {
+      "stage": "PG99",
+      "directory": "hetubhaya_final",
+      "commit": "f671ddda1452b37fbbb1cfd7f791a50b04b18708",
+      "positions": 72,
+      "readings": 274,
+      "paths": 274,
+      "complete_nine_slot_paradigms": 8,
+      "cumulative_positions": 19931,
+      "source_records": 136,
+      "document_runtime": "3.12.14",
+      "grammar_execution": false
+    },
+    {
+      "stage": "PG100",
+      "directory": "li_sense_nic",
+      "commit": "70c3e83eccdd017f8bd8263007bb3a175f69ea57",
+      "positions": 576,
+      "readings": 726,
+      "paths": 726,
+      "complete_nine_slot_paradigms": 64,
+      "cumulative_positions": 20507,
+      "source_records": 118,
+      "document_runtime": "3.12.14",
+      "grammar_execution": false
+    },
+    {
+      "stage": "PG101",
+      "directory": "li_sense_final",
+      "commit": "e0b24def84446ec61df6099e208f1fc5be5cacd7",
+      "positions": 144,
+      "readings": 548,
+      "paths": 548,
+      "complete_nine_slot_paradigms": 16,
+      "cumulative_positions": 20651,
+      "source_records": 129,
+      "document_runtime": "3.12.14",
+      "grammar_execution": false
+    },
+    {
+      "stage": "PG102",
+      "directory": "mithya_kr_nic",
+      "commit": "cb9e3c3cbafe797ba97f47e3397e6492eda702f4",
+      "positions": 270,
+      "readings": 383,
+      "paths": 383,
+      "complete_nine_slot_paradigms": 30,
+      "cumulative_positions": 20921,
+      "source_records": 188,
+      "document_runtime": "3.12.14",
+      "grammar_execution": false
+    },
+    {
+      "stage": "PG103",
+      "directory": "apa_vad_intent",
+      "commit": "aaba26a604ec6cbeb0804a64165f4672e44f2ea5",
+      "positions": 180,
+      "readings": 181,
+      "paths": 181,
+      "complete_nine_slot_paradigms": 20,
+      "cumulative_positions": 21101,
+      "source_records": 158,
+      "document_runtime": "3.12.14",
+      "grammar_execution": false
+    },
+    {
+      "stage": "PG104",
+      "directory": "upapada_pada_option",
+      "commit": "e516a06eb1a65bb2543d7386dbc17474e20d2d63",
+      "positions": 360,
+      "readings": 436,
+      "paths": 436,
+      "complete_nine_slot_paradigms": 40,
+      "cumulative_positions": 21461,
+      "source_records": 222,
+      "document_runtime": "3.12.14",
+      "grammar_execution": false
+    },
+    {
+      "stage": "PG105",
+      "directory": "jna_actor_result",
+      "commit": "8bb9c7b50becb4cfbd004a02f293059a89b904d2",
+      "positions": 90,
+      "readings": 90,
+      "paths": 90,
+      "complete_nine_slot_paradigms": 10,
+      "cumulative_positions": 21551,
+      "source_records": 143,
+      "document_runtime": "3.12.14",
+      "grammar_execution": false
+    },
+    {
+      "stage": "PG106",
+      "directory": "sam_yam_actor_result",
+      "commit": "dabc368fe3137abd0a50e0ff5f74ec9d131b0000",
+      "positions": 90,
+      "readings": 90,
+      "paths": 90,
+      "complete_nine_slot_paradigms": 10,
+      "cumulative_positions": 21641,
+      "source_records": 146,
+      "document_runtime": "3.12.14",
+      "grammar_execution": false
+    }
+  ],
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "next_frontier_candidate_positions": 180,
+  "next_frontier_written_credit": 0,
+  "overall_grammar_completion_percent": null,
+  "checks": {
+    "python": "3.12.14",
+    "kind": "STATIC_SESSION_AGGREGATION_AND_COMMIT_PIN_INTEGRITY",
+    "status": "PASS",
+    "checks": [
+      "Nine published sequential commit parents and skip-ci markers",
+      "Per-packet recorded static PASS/runtime/deferred status",
+      "Disjoint counted request keys across the nine blocks",
+      "Cumulative arithmetic and source-record metadata",
+      "Unchanged inherited correction chain",
+      "180 unique next-frontier keys explicitly unwritten and zero-credit"
+    ],
+    "grammar_execution": false,
+    "certificate_replay": false,
+    "full_id_audit": false
+  },
+  "companion": {
+    "branch": "shaiva-sources-maheshvara-spanda-pratyabhijna",
+    "commit": "edd98b0685b478cb39468e350b26783bb4cce7ff",
+    "head_check_stage": "PG98",
+    "fresh_closing_head_check": false
+  },
+  "unresolved": [
+    "1.3.77 aprapta/prapta source reconciliation and independent Bhashya collation",
+    "Wider lexical, meaning, voice and overlapping source domains",
+    "Independent executable grammar validation and general scheduling",
+    "Semantic input recognition and native/calculator adapters"
+  ],
+  "next_frontier": {
+    "source_frontier": "research/panini_grammar/session_20261110/SOURCE_FRONTIER.md",
+    "source_commit": "dabc368fe3137abd0a50e0ff5f74ec9d131b0000",
+    "profiles": {
+      "UD_YAM_LOAD_ACTOR_A": {
+        "status": "PROPOSED_UNWRITTEN_ZERO_CREDIT",
+        "lexical_id": "1011139",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "A",
+        "upasargas": [
+          "ud"
+        ],
+        "pada_rule": "1.3.75",
+        "current_controller": "c",
+        "current_karman": "q",
+        "object_kind": "LOAD",
+        "sense": "LIFT_LOAD",
+        "principal_intended_result_recipient": "c",
+        "required_guards": {
+          "grantha_learning_use": false,
+          "gandhana": false,
+          "marriage": false,
+          "independent_actor_result_upapada": false,
+          "current_transitivity": true
+        },
+        "sic_policy": "NON_KIT_ONLY_ON_SUPPLIED_GUARDS",
+        "candidate_positions": 90,
+        "written_positions": 0,
+        "position_credit": 0
+      },
+      "AA_YAM_CLOTH_ACTOR_A": {
+        "status": "PROPOSED_UNWRITTEN_ZERO_CREDIT",
+        "lexical_id": "1011139",
+        "formation": "basic",
+        "voice": "kartari",
+        "pada": "A",
+        "upasargas": [
+          "ā"
+        ],
+        "pada_rule": "1.3.75",
+        "current_controller": "c",
+        "current_karman": "q",
+        "object_kind": "CLOTH",
+        "sense": "ATTACH_CLOTH_TO_MAT",
+        "principal_intended_result_recipient": "c",
+        "required_guards": {
+          "grantha_learning_use": false,
+          "gandhana": false,
+          "marriage": false,
+          "independent_actor_result_upapada": false,
+          "current_transitivity": true
+        },
+        "sic_policy": "NON_KIT_ONLY_ON_SUPPLIED_GUARDS",
+        "candidate_positions": 90,
+        "written_positions": 0,
+        "position_credit": 0
+      }
+    },
+    "lakaras": [
+      "lat",
+      "lang",
+      "lot",
+      "vidhiling",
+      "lrt",
+      "lut",
+      "lrng",
+      "ashirling",
+      "lit",
+      "lung"
+    ],
+    "slots": [
+      "3sg",
+      "3du",
+      "3pl",
+      "2sg",
+      "2du",
+      "2pl",
+      "1sg",
+      "1du",
+      "1pl"
+    ],
+    "missing_requests": [
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lat",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lat",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lat",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lat",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lat",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lat",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lat",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lat",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lat",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lang",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lang",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lang",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lang",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lang",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lang",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lang",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lang",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lang",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lot",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lot",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lot",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lot",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lot",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lot",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lot",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lot",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lot",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrt",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrt",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrt",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lut",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lut",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lut",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lut",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lut",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lut",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lut",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lut",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lut",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrng",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrng",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrng",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lit",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lit",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lit",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lit",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lit",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lit",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lit",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lit",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lit",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "UD_YAM_LOAD_ACTOR_A",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lat",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lat",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lat",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lat",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lat",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lat",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lat",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lat",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lat",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lang",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lang",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lang",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lang",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lang",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lang",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lang",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lang",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lang",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lot",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lot",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lot",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lot",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lot",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lot",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lot",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lot",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lot",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrt",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrt",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrt",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lut",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lut",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lut",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lut",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lut",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lut",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lut",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lut",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lut",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrng",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrng",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrng",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lit",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lit",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lit",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lit",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lit",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lit",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lit",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lit",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lit",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1du",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      },
+      {
+        "profile": "AA_YAM_CLOTH_ACTOR_A",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "status": "UNWRITTEN",
+        "position_credit": 0
+      }
+    ],
+    "candidate_positions": 180,
+    "written_positions": 0,
+    "new_position_credit": 0,
+    "pre_table_obligations": [
+      "Resolve actual ordered prefix constituents independently of the udāyaṃsta comparison",
+      "Write prefix/aṭ and non-augmented boundary operations",
+      "Discharge ā intransitive and own-limb alternative licences on the selected cloth frame",
+      "Retain source-role certificates and all non-kit root/affix/ending owners",
+      "Write complete tables and source-qualified typed native adapter before any count"
+    ]
+  }
+}

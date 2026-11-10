@@ -1403,6 +1403,11 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+[10 November two-hour session record](session_20261110/SESSION_RECORD.md): PG98–106 added
+**2,070 positions, 3,091 readings/paths and 230 complete paradigms**,
+cumulative **21,641**; static Python 3.12 checks only. The proposed
+ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
+
 **PG106** — [Sam+yam actor-result collection](sam_yam_actor_result/README.md)
 adds **90 positions/readings/paths**, closes the selected sam A target
 **90/90**, cumulative **21,641**. The non-grantha collection sense has
