@@ -1403,6 +1403,14 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG105** — [Transitive jñā actor-result](jna_actor_result/README.md)
+adds **90 positions/readings/paths**, closing the selected A target
+**90/90**, cumulative **21,551**. The source-qualified object frame
+under 1.3.76 differs from PG79's instrument/no-karman frame, with explicit
+absence of the 1.3.77 result cue. Exact old morphology is retained under
+new admission; the passive permission comparison has zero table credit.
+Python 3.12 static checks only; grammar tests and replay remain deferred.
+
 **PG104** — [Upapada-signalled pada option](upapada_pada_option/README.md)
 adds **360 request positions / 436 readings and paths**, cumulative
 **21,461**. Two actor-result events have A/P branches under 1.3.77;
