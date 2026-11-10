@@ -1403,6 +1403,15 @@ proves expression-erasure and typed zero/pairing compatibility. Both ID sets
 remain **3,983**; Python 3.12 source/document checks are separate from the
 deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 
+**PG98** — [Hetubhaya ṇyantas](hetubhaya_nic/README.md) add
+**288 positions / 363 readings and paths**; cumulative **19,859**.
+Four bhī/vi+smi profiles distinguish causer from instrument,
+link pada to dependent ā/puk versus ī/ṣuk work, and preserve
+root-y/ṇic-y/ending-y ownership. Eight labels leave 72 exact
+perfect/aorist requests. Full native zero/pairing proofs and
+Python 3.12 static checks accompany the written tables; T166 is
+unchanged at the fresh session check and runtime work is deferred.
+
 **PG97** — [Gṛdh/vañc final continuations](deceptive_nic_final/README.md)
 add **72 positions / 238 readings and paths**; cumulative **19,571**.
 Perfect and caṅ close PG96's exact target at **360/360**, with
