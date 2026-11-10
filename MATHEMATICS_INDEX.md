@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 10 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG106 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 10 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG107 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG106 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG107 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -687,6 +687,18 @@ The canonical operator engine and frozen evidence remain unchanged.
 **2,070 positions, 3,091 readings/paths and 230 complete paradigms**,
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
+
+## PG107: Ud/ā yam and retained prefix-augment history
+
+[PG107](research/panini_grammar/ud_aa_yam_actor_result/README.md) closes
+exactly **180 queued positions/readings/paths**, twenty paradigms,
+cumulative **21,821**. Load lifting and cloth attachment retain their
+separate current objects, principal actor-result, non-grantha/no-cue and
+non-gandhana/non-marriage guards. The actual single-ud short-aṭ boundary
+and āṅ+aṭ coalescence remain distinct; the own-limb alternative is
+separately discharged. Root and ending contracts reuse PG106. Full history
+and typed zero/pairing compatibility are written. Python 3.12 static checks
+only; grammar tests, generators and replay remain deferred.
 
 ## PG106: Sam+yam collection and meaning-qualified sic
 

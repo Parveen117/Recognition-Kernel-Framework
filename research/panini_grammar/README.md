@@ -1408,6 +1408,13 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG107** — [Ud/ā yam actor-result frames](ud_aa_yam_actor_result/README.md)
+closes the prior **180 queued positions/readings/paths**, twenty complete
+paradigms; cumulative **21,821**. The single-ud and āṅ prefix/aṭ boundaries,
+load/cloth roles and own-limb exclusion are explicit. NON_KIT yam root and
+ending histories remain intact. Python 3.12 static checks only; grammar
+tests, generators and replay remain deferred.
+
 **PG106** — [Sam+yam actor-result collection](sam_yam_actor_result/README.md)
 adds **90 positions/readings/paths**, closes the selected sam A target
 **90/90**, cumulative **21,641**. The non-grantha collection sense has
