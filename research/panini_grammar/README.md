@@ -1408,6 +1408,11 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG141 — Source-conditioned final s and internal s before kyaṅ:** [packet](kyang_s_histories/README.md) adds
+**252 positions / 396 readings / 396 paths**; cumulative **30,695**.
+Selected target 252/252; Python 3.12 static checks only,
+grammar tests/generators/replay deferred.
+
 **PG140 — Mixed-person agreement and the scope of ca.** [Packet](coordinated_agreement/README.md). Five source-grounded controller groups give nine finite agreement analyses. Zero new finite positions. Cumulative **30,443**.
 
 **PG139 — Case realization through tiṅ, kṛt, taddhita and samāsa.** [Packet](case_expression_owners/README.md). Eight analyses record which constituent expresses the selected role and which case an independent noun bears. Zero new finite positions. Cumulative **30,443**.
