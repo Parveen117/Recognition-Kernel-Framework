@@ -1,0 +1,150 @@
+{
+  "primary_group": {
+    "ind": 48,
+    "name": "गौरादिः",
+    "sutra": "4.1.41",
+    "type": "P"
+  },
+  "homonymous_control": {
+    "ind": 231,
+    "name": "गौरादिः",
+    "sutra": "6.2.194",
+    "vartika": "",
+    "words": "गौर । तैष । तैल । लेट । लोट । जिह्वा । कृष्णा । कन्या । गुध । कल्य । पाद ॥",
+    "type": "P"
+  },
+  "comparison": {
+    "ganapatha_source_positions": 153,
+    "kashika_source_positions": 117,
+    "distinct_ganapatha": 152,
+    "distinct_kashika": 117,
+    "shared_distinct_keys": 81,
+    "ganapatha_only": 71,
+    "kashika_only": 36,
+    "joint_directives": 6,
+    "joint_non_directives": 75
+  },
+  "same_key_policy": "Match the exact Devanāgarī lemma or directive after removing whitespace, editorial double angle brackets, and Kāśikā parenthetical gaṇasūtra numbers. Preserve every primary position, diacritic, consonant, vowel and source-only spelling. No fuzzy or reconstructed identity earns an exact match.",
+  "repeated_primary_entry": {
+    "word": "आग्रहायणी",
+    "positions": [
+      101,
+      102
+    ],
+    "counterpart": [
+      82
+    ]
+  },
+  "source_examples": {
+    "नट": [
+      [
+        89
+      ],
+      [
+        72
+      ]
+    ],
+    "नाट": [
+      [],
+      [
+        73
+      ]
+    ],
+    "अनडुही": [
+      [
+        60
+      ],
+      [
+        51
+      ]
+    ],
+    "अनड्वाही": [
+      [
+        61
+      ],
+      [
+        52
+      ]
+    ]
+  },
+  "directives": [
+    {
+      "joint_key": "एषणःकरणे",
+      "gana_position": [
+        62
+      ],
+      "kashika_position": [
+        53
+      ],
+      "gate": "karaṇa",
+      "meaning": "instrument",
+      "source_decision": "eṣaṇī as the instrument with which one searches; a locus has a different ṅīp route."
+    },
+    {
+      "joint_key": "सुमङ्गलात्संज्ञायाम्",
+      "gana_position": [
+        105
+      ],
+      "kashika_position": [
+        85
+      ],
+      "gate": "saṃjñā",
+      "meaning": "proper name",
+      "source_decision": "The Nyāsa gives sumaṅgalā outside the naming condition; it preserves an alternative source of ī for a proper name."
+    },
+    {
+      "joint_key": "रोहिणीनक्षत्रे",
+      "gana_position": [
+        136
+      ],
+      "kashika_position": [
+        102
+      ],
+      "gate": "nakṣatra",
+      "meaning": "asterism",
+      "source_decision": "The Nyāsa contrasts rohitā outside the stellar designation."
+    },
+    {
+      "joint_key": "रेवतीनक्षत्रे",
+      "gana_position": [
+        137
+      ],
+      "kashika_position": [
+        103
+      ],
+      "gate": "nakṣatra",
+      "meaning": "asterism",
+      "source_decision": "A nonstellar a-stem analysis gives revatā. The matup analysis can produce nonstellar revatī with ṅīp, distinguished from ṅīṣ by accent."
+    },
+    {
+      "joint_key": "कटाच्छ्रोणिवचने",
+      "gana_position": [
+        141
+      ],
+      "kashika_position": [
+        107
+      ],
+      "gate": "śroṇi",
+      "meaning": "hip",
+      "source_decision": "The Nyāsa writes kaṭī for the hip and contrasts kaṭā outside this lexical designation."
+    },
+    {
+      "joint_key": "पिप्पल्यादयश्च",
+      "gana_position": [
+        142
+      ],
+      "kashika_position": [
+        108
+      ],
+      "gate": "pippalyādi",
+      "meaning": "nested list of examples",
+      "source_decision": "The Nyāsa treats the words following this directive as the vṛttikāra’s examples. The Bālamanoramā reads gaurādi as an ākṛtigaṇa."
+    }
+  ],
+  "affix_ownership": [
+    "4.1.41 has two entry conditions, ṣ on a qualifying affix and lexical membership in gaurādi. Nartakī illustrates the former and naṭī can be derived using a member naṭa. The two are different input stems.",
+    "Matup can yield ṅīp in nonstellar revatī. An unaccented final ī cannot identify the source suffix.",
+    "With pippalyādi the textual layer of the examples matters. An ākṛtigaṇa permits grammarians to recognize suitable additional examples; absence from one enumerated list is not a universal rejection."
+  ],
+  "projection": "Select source, governing rule and its local gaṇa, source position, meaning and accent path before forming ī. The source with index 231 is headed gaurādi under 6.2.194; that shared heading alone supplies no feminine entitlement. A membership map keyed only by name loses its governing rule."
+}

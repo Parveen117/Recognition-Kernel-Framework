@@ -1,8 +1,8 @@
-# Pāṇini grammar · current written coverage at PG210
+# Pāṇini grammar · current written coverage at PG211
 
 Monty · 12 November 2026
 
-PG202–PG210 add **1,152 finite positions**, taking the written total to **42,485**. The new lexical and compound work gives 264 nominal positions with 290 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG211 add **1,152 finite positions**, taking the written total to **42,485**. The new lexical and compound work gives 264 nominal positions with 290 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
@@ -19,6 +19,7 @@ PG202–PG210 add **1,152 finite positions**, taking the written total to **42,4
 | Disputed middle perfects | All **45/45** requests have a primary on the Bhāṣya/Kāśikā same-word reading, with 135 auxiliary choices and 225 inherited spellings. Of these, 54 match the other table at 18 requests. [Decision and all choices](desiderative_perfect_primary_word_policy/README.md) | A full traditional example of the disputed compound perfect or an explicit alternative rule on early middle entitlement remains to be found. [Traditional controls and search](agent_noun_and_outer_middle/README.md) |
 | The word *strī* | Both literal *ḍaṭ* and source-attested *ḍraṭ* are recorded. All **24 cases and numbers, 26 readings**, with 11 Ṛgvedic examples across six positions. | Only the r-bearing suffix supplies the r by the documented steps. [The readings and the two accusatives](stri_affix_and_vedic_cases/README.md) |
 | *Atistri* compounds | **72 positions and 87 selected readings** in three genders. The Bālamanoramā selects *atistrayaḥ* before *jas*. | Four masculine/feminine nominative and vocative cells differ from the archive. [Full forms and source differences](atistri_compound_priority/README.md) |
+| Gaurādi under 4.1.41 | 153 and 117 source positions compared. Six jointly attested directives have their own lexical or semantic conditions. | Further member-specific inflection and accent. [Two complete lists](gauradi_members_and_conditions/README.md) |
 | Fish, feminine stems and inflection | **72 nominal positions, 73 readings** for *matsya, matsī, matsyā*. The fish has two independently specified masculine accent histories. | Wider lexical senses, feminine accent evidence and the separate 4.105 extension. [Three case tables and readings](matsya_feminine_and_case/README.md) |
 | Uṇādi *śaṇḍha* and the lotus collective | **120 nominal positions, 125 readings**. In Māgha 11.15 the dual verb and commentary choose nominative dual from five readings of *ṣaṇḍe*. | The personal terms, bull and lotus cluster have separately sourced histories. [Words and the two verse contexts](sandha_and_lotus_collectives/README.md) |
 | Agent nouns and object case | Three construction histories for *kartā* yield **27** two-word readings and **18** distinct unaccented pairs. | Nine accusative pairs admit both habitual agent and finite future readings. [Three-way comparison](agent_noun_object_government/README.md) |
