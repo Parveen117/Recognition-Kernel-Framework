@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG240 — The male jackal, the female jackal and a neuter possessor.** [Packet](krostu_gender_and_case_alternations/README.md). Zero new finite positions. Cumulative **45,962**.
+
 **PG239 — Five ordered-ni aorists, perfects and two epic witnesses.** [Packet](inner_ni_perfect_aorist_and_literary_plurals/README.md). 162 positions, 196 readings and 196 paths. Cumulative **45,962**.
 
 **PG238 — Futures and benedictives after pra or pari plus ni.** [Packet](inner_ni_futures_and_blessings/README.md). 324 positions, 324 readings and 324 paths. Cumulative **45,800**.
