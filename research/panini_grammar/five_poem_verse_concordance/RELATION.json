@@ -1,0 +1,104 @@
+{
+  "schema": "rkf.panini.literary-span.v1",
+  "normalization_in": "../bhatti_verse_concordance/RELATION.json",
+  "new_works": {
+    "shishu": {
+      "ambiguous_locations": [
+        "11.2"
+      ],
+      "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mAgha-zizupAlavadha.xml",
+      "sha256": "f3a2c3d433815df659b57454439e0e0a5bf750223e54caed718263463516387b",
+      "bytes": 319405,
+      "regular_verse_locations": 1642,
+      "excluded_lg": {},
+      "publisher": "GRETIL, SUB Göttingen",
+      "edition_terms": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "projection": "NFC string value of l; offsets in Unicode code points, 0-based and end-exclusive; verse label excluded for Māgha"
+    },
+    "raghu": {
+      "ambiguous_locations": [
+        "9.65"
+      ],
+      "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kAlidAsa-raghuvaMza.xml",
+      "sha256": "80bbad8f28dc098704b18327dc4f9449ce6dcc19f041ed1d9fa3bf16457f2c56",
+      "bytes": 612044,
+      "regular_verse_locations": 1566,
+      "excluded_lg": {
+        "decorated_or_irregular_id": 69
+      },
+      "publisher": "GRETIL, SUB Göttingen",
+      "edition_terms": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "projection": "NFC string value of l; offsets in Unicode code points, 0-based and end-exclusive; verse label excluded for Māgha"
+    },
+    "kirata": {
+      "ambiguous_locations": [],
+      "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhAravi-kirAtArjunIya.xml",
+      "sha256": "63675c1520eafcf296392b89f2ca93c20484ae1e277689254df673ce699d7a55",
+      "bytes": 701410,
+      "regular_verse_locations": 1040,
+      "excluded_lg": {},
+      "publisher": "GRETIL, SUB Göttingen",
+      "edition_terms": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "projection": "NFC string value of l; offsets in Unicode code points, 0-based and end-exclusive; verse label excluded for Māgha"
+    },
+    "kumara": {
+      "ambiguous_locations": [],
+      "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kAlidAsa-kumArasaMbhava.xml",
+      "sha256": "1bb08957979e9b8c082e6935579a0d2c24a580d8729f04a57ff323cbeccec75c",
+      "bytes": 196175,
+      "regular_verse_locations": 612,
+      "excluded_lg": {
+        "decorated_or_irregular_id": 1
+      },
+      "publisher": "GRETIL, SUB Göttingen",
+      "edition_terms": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "projection": "NFC string value of l; offsets in Unicode code points, 0-based and end-exclusive; verse label excluded for Māgha"
+    }
+  },
+  "new_work_outcomes": {
+    "kirata": {
+      "whole_boundary": 523,
+      "within_line_string": 28,
+      "no_exact_span": 120
+    },
+    "shishu": {
+      "whole_boundary": 629,
+      "within_line_string": 309,
+      "no_exact_span": 176,
+      "unavailable_verse_id": 1
+    },
+    "raghu": {
+      "whole_boundary": 442,
+      "no_exact_span": 222,
+      "within_line_string": 17,
+      "unavailable_verse_id": 4
+    },
+    "kumara": {
+      "whole_boundary": 251,
+      "no_exact_span": 49,
+      "within_line_string": 5
+    }
+  },
+  "all_five_outcomes": {
+    "whole_boundary": 3400,
+    "within_line_string": 731,
+    "no_exact_span": 1033,
+    "unavailable_verse_id": 9,
+    "empty_archive_word": 35,
+    "segment_boundary": 165,
+    "unsupported_archive_spelling": 4
+  },
+  "archive_row_count": 5377,
+  "rows_with_any_span": 4296,
+  "raw_rule_keys_with_any_span": 1568,
+  "two_part_index": [
+    "../bhatti_verse_concordance/CONCORDANCE.tsv",
+    "CONCORDANCE.tsv"
+  ],
+  "edition_projection": {
+    "kirata": "main lg only; exclude analysis notes",
+    "raghu": "main regular unique id; text of inline hi contributes, separate apparatus and extra labels excluded",
+    "kumara": "regular unique decimal id",
+    "shishu": "canonicalize decimal MSpv labels including leading zeros; exclude both occurrences when repeated"
+  }
+}

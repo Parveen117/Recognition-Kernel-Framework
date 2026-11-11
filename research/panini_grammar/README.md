@@ -1410,6 +1410,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG166 — A five-poem concordance with explicit graphic and edition boundaries.** [Packet](five_poem_verse_concordance/README.md). Zero new finite positions. Cumulative **37,679**.
+
 **PG165 — Locating the indexed Bhaṭṭikāvya words in an edition of the poem.** [Packet](bhatti_verse_concordance/README.md). Zero new finite positions. Cumulative **37,679**.
 
 **PG164 — Indexing 5,377 literary annotations and correcting three source addresses.** [Packet](kavya_evidence_index/README.md). Zero new finite positions. Cumulative **37,679**.

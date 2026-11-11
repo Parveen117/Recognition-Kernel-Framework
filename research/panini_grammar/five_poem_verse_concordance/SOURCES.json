@@ -1,0 +1,100 @@
+{
+  "edition": "5744762f010d677cfb43f347a42d02796cf615d6",
+  "fields": [],
+  "pins": {
+    "edition": {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "files": []
+    },
+    "project": {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "c88b099fa7fea002a96e6ffa63a52e7b3cff3689",
+      "files": [
+        {
+          "path": "research/panini_grammar/bhatti_verse_concordance/STATE.json",
+          "commit": "c88b099fa7fea002a96e6ffa63a52e7b3cff3689",
+          "git_blob_sha": "7f9a99f1080c11244689d80c15a31857ce97e198",
+          "sha256": "f6a34a32c0ef2f6f3543e336269e43957d9648ed619efa80bb2921eee5ab373a",
+          "bytes": 2944
+        },
+        {
+          "path": "research/panini_grammar/kavya_evidence_index/RELATION.json",
+          "commit": "c88b099fa7fea002a96e6ffa63a52e7b3cff3689",
+          "git_blob_sha": "4ce3481d9d7ee3bc302dc32701f50ef58889e2b0",
+          "sha256": "fc2fc3d07835086a2b62b64a4131e278beeaf121a16aa3822c892c47287fe260",
+          "bytes": 273765
+        },
+        {
+          "path": "research/panini_grammar/bhatti_verse_concordance/CONCORDANCE.tsv",
+          "commit": "c88b099fa7fea002a96e6ffa63a52e7b3cff3689",
+          "git_blob_sha": "914614d32c0e99e02daf041485e108a2fc4c6d91",
+          "sha256": "6192db243d3a9efcacfc8de3b0905c8de6b31d1ff5eb06c65402629db2ee60c1",
+          "bytes": 117359
+        }
+      ]
+    },
+    "independent_witnesses": [
+      {
+        "repository": "ashtadhyayi-com/data",
+        "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+        "path": "sutraani/sutra_prayogas.txt",
+        "git_blob_sha": "00901a1f3e21853b2825f8ea0cb0b89dc5b44b39",
+        "sha256": "6e27e413f1523a82a986bdd409f199f0f0d7e31afcc8ef9e134afbc40e83bf09",
+        "selector": "data[rule][zero_based_row]"
+      },
+      {
+        "ambiguous_locations": [
+          "11.2"
+        ],
+        "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mAgha-zizupAlavadha.xml",
+        "sha256": "f3a2c3d433815df659b57454439e0e0a5bf750223e54caed718263463516387b",
+        "bytes": 319405,
+        "regular_verse_locations": 1642,
+        "excluded_lg": {},
+        "publisher": "GRETIL, SUB Göttingen",
+        "edition_terms": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "projection": "NFC string value of l; offsets in Unicode code points, 0-based and end-exclusive; verse label excluded for Māgha"
+      },
+      {
+        "ambiguous_locations": [
+          "9.65"
+        ],
+        "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kAlidAsa-raghuvaMza.xml",
+        "sha256": "80bbad8f28dc098704b18327dc4f9449ce6dcc19f041ed1d9fa3bf16457f2c56",
+        "bytes": 612044,
+        "regular_verse_locations": 1566,
+        "excluded_lg": {
+          "decorated_or_irregular_id": 69
+        },
+        "publisher": "GRETIL, SUB Göttingen",
+        "edition_terms": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "projection": "NFC string value of l; offsets in Unicode code points, 0-based and end-exclusive; verse label excluded for Māgha"
+      },
+      {
+        "ambiguous_locations": [],
+        "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhAravi-kirAtArjunIya.xml",
+        "sha256": "63675c1520eafcf296392b89f2ca93c20484ae1e277689254df673ce699d7a55",
+        "bytes": 701410,
+        "regular_verse_locations": 1040,
+        "excluded_lg": {},
+        "publisher": "GRETIL, SUB Göttingen",
+        "edition_terms": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "projection": "NFC string value of l; offsets in Unicode code points, 0-based and end-exclusive; verse label excluded for Māgha"
+      },
+      {
+        "ambiguous_locations": [],
+        "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kAlidAsa-kumArasaMbhava.xml",
+        "sha256": "1bb08957979e9b8c082e6935579a0d2c24a580d8729f04a57ff323cbeccec75c",
+        "bytes": 196175,
+        "regular_verse_locations": 612,
+        "excluded_lg": {
+          "decorated_or_irregular_id": 1
+        },
+        "publisher": "GRETIL, SUB Göttingen",
+        "edition_terms": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "projection": "NFC string value of l; offsets in Unicode code points, 0-based and end-exclusive; verse label excluded for Māgha"
+      }
+    ]
+  }
+}
