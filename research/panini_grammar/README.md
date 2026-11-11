@@ -1408,6 +1408,8 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG150 — Five prefixed ṇiṅ presents.** [Present forms and inverse event choices](prefixed_ning_present/README.md) add **45 positions / 63 readings**. Cumulative **33,278**.
+
 **PG149 — Intention, purpose and direct experience.** [Five kyaṅ paradigms](intention_and_experience/README.md) add **450 positions and 640 readings** across ten lakāras. Three nominal families admit two source analyses, giving 1,024 word–history pairs. Cumulative **33,233**.
 
 **PG148 — The decision behind the disputed desiderative perfects.** [Packet](desiderative_perfect_policy/README.md). A pinned source-code comparison distinguishes local primary ending ownership from a derivation-level pada tag. Zero new finite positions. Cumulative **32,783**.

@@ -1,0 +1,149 @@
+{
+  "schema": "rkf.panini.pg150.relation.v1",
+  "sources": {
+    "3.1.20": {
+      "repository": "ashtadhyayi-lite/ashtadhyayi-lite.github.io",
+      "commit": "0915bc7ce39395bb124a97ea2f374fa8ee4387d4",
+      "path": "sutra/3.1.20.html",
+      "git_blob_sha": "c719cda155b65eb6e999b3f80f030e7755352051"
+    },
+    "8.3.23": {
+      "repository": "ashtadhyayi-lite/ashtadhyayi-lite.github.io",
+      "commit": "0915bc7ce39395bb124a97ea2f374fa8ee4387d4",
+      "path": "sutra/8.3.23.html",
+      "git_blob_sha": "e011a5da4f8ce7d2b0106d598f9917184faa5a94"
+    },
+    "8.4.58": {
+      "repository": "ashtadhyayi-lite/ashtadhyayi-lite.github.io",
+      "commit": "0915bc7ce39395bb124a97ea2f374fa8ee4387d4",
+      "path": "sutra/8.4.58.html",
+      "git_blob_sha": "aa548ec74a01acbadb8ec4046df01d8e9995ab30"
+    },
+    "8.4.59": {
+      "repository": "ashtadhyayi-lite/ashtadhyayi-lite.github.io",
+      "commit": "0915bc7ce39395bb124a97ea2f374fa8ee4387d4",
+      "path": "sutra/8.4.59.html",
+      "git_blob_sha": "71f47380de63b409ea6ec4855e0846c9589c7d0b"
+    }
+  },
+  "profiles": [
+    {
+      "profile": "UD_PUCCHA",
+      "prefix": "ud",
+      "nominal": "puccha",
+      "source_form": "उत्पुच्छयते",
+      "written_stem_factors": [
+        "utpucchay"
+      ],
+      "event_ids": [
+        "raise_tail"
+      ],
+      "section": "kashika",
+      "affix": "ṇiṅ",
+      "pada": "A"
+    },
+    {
+      "profile": "VI_PUCCHA",
+      "prefix": "vi",
+      "nominal": "puccha",
+      "source_form": "विपुच्छयते",
+      "written_stem_factors": [
+        "vipucchay"
+      ],
+      "event_ids": [
+        "raise_tail_in_diverse_or_opposed_directions"
+      ],
+      "section": "kaumudi",
+      "affix": "ṇiṅ",
+      "pada": "A"
+    },
+    {
+      "profile": "PARI_PUCCHA",
+      "prefix": "pari",
+      "nominal": "puccha",
+      "source_form": "परिपुच्छयते",
+      "written_stem_factors": [
+        "paripucchay"
+      ],
+      "event_ids": [
+        "swing_tail_around"
+      ],
+      "section": "kashika",
+      "affix": "ṇiṅ",
+      "pada": "A"
+    },
+    {
+      "profile": "SAM_BHANDA",
+      "prefix": "sam",
+      "nominal": "bhāṇḍa",
+      "source_form": "संभाण्डयते",
+      "written_stem_factors": [
+        "saṃbhāṇḍay",
+        "sambhāṇḍay"
+      ],
+      "event_ids": [
+        "collect_in_a_heap"
+      ],
+      "section": "kashika",
+      "affix": "ṇiṅ",
+      "pada": "A"
+    },
+    {
+      "profile": "SAM_CIVARA",
+      "prefix": "sam",
+      "nominal": "cīvara",
+      "source_form": "संचीवरयते",
+      "written_stem_factors": [
+        "saṃcīvaray",
+        "sañcīvaray"
+      ],
+      "event_ids": [
+        "acquire_robes",
+        "wear_robes"
+      ],
+      "section": "kashika",
+      "affix": "ṇiṅ",
+      "pada": "A"
+    }
+  ],
+  "probes": [
+    {
+      "surface": "vipucchayate",
+      "admitted": [
+        "raise_tail_in_diverse_or_opposed_directions"
+      ]
+    },
+    {
+      "surface": "saṃcīvarayate",
+      "admitted": [
+        "acquire_robes",
+        "wear_robes"
+      ]
+    },
+    {
+      "surface": "sañcīvarayate",
+      "admitted": [
+        "acquire_robes",
+        "wear_robes"
+      ]
+    },
+    {
+      "surface": "sambhāṇḍayate",
+      "admitted": [
+        "collect_in_a_heap"
+      ]
+    },
+    {
+      "prefix": "pari",
+      "nominal": "cīvara",
+      "admitted": []
+    },
+    {
+      "prefix": "sam",
+      "nominal": "puccha",
+      "admitted": []
+    }
+  ],
+  "negative_scope": "Only the admitted prefix and nominal pairs in this 3.1.20 packet.",
+  "source_policy": "Pin vi-puccha to the Siddhāntakaumudī. The Kāśikā section on the same page prints ud and pari for puccha."
+}
