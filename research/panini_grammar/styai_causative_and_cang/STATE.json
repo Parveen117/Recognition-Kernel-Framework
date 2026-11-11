@@ -1,0 +1,6221 @@
+{
+  "schema": "rkf.panini.pg208.state.v1",
+  "author": "Monty",
+  "date": "2026-11-12",
+  "baseline": {
+    "path": "research/panini_grammar/styai_dental_and_retroflex_desideratives/STATE.json",
+    "commit": "20cbd87333d79caa5a3449fe04532d2be66bf471",
+    "git_blob_sha": "f1fe2611511d1264033a52dc1eecb8a86ca1e0e4",
+    "sha256": "88a07ebf93a530ef711705df5fd1f3c8da55a4186fdcd55543cc69272967a368",
+    "bytes": 70941
+  },
+  "finite_positions": 42413,
+  "new_positions": 360,
+  "new_position_readings": 510,
+  "new_written_table_readings": 510,
+  "retained_path_count": 510,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "styāpayati"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayati"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "styāpayataḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayataḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "styāpayanti"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayanti"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "styāpayasi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayasi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "styāpayathaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayathaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "styāpayatha"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayatha"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "styāpayāmi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāmi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "styāpayāvaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāvaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "styāpayāmaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāmaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "styāpayatu"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayatu"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "styāpayatām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayatām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "styāpayantu"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayantu"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "styāpaya"
+        ],
+        "paths": [
+          {
+            "reading": "styāpaya"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "styāpayatam"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayatam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "styāpayata"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayata"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "styāpayāni"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāni"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "styāpayāva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāva"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "styāpayāma"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāma"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "astyāpayat"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayat"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "astyāpayatām"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayatām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "astyāpayan"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayan"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "astyāpayaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "astyāpayatam"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayatam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "astyāpayata"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayata"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "astyāpayam"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "astyāpayāva"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayāva"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "astyāpayāma"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayāma"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "styāpayet"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayet"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "styāpayetām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayetām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "styāpayeyuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeyuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "styāpayeḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "styāpayetam"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayetam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "styāpayeta"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeta"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "styāpayeyam"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeyam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "styāpayeva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeva"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "styāpayema"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayema"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "styāpayitā"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitā"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "styāpayitārau"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitārau"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "styāpayitāraḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāraḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "styāpayitāsi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāsi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "styāpayitāsthaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāsthaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "styāpayitāstha"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāstha"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "styāpayitāsmi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāsmi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "styāpayitāsvaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāsvaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "styāpayitāsmaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāsmaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "styāpayiṣyati"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyati"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "styāpayiṣyataḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyataḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "styāpayiṣyanti"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyanti"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "styāpayiṣyasi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyasi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "styāpayiṣyathaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyathaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "styāpayiṣyatha"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyatha"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "styāpayiṣyāmi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyāmi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "styāpayiṣyāvaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyāvaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "styāpayiṣyāmaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyāmaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "astyāpayiṣyat"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyat"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "astyāpayiṣyatām"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyatām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "astyāpayiṣyan"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyan"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "astyāpayiṣyaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "astyāpayiṣyatam"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyatam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "astyāpayiṣyata"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyata"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "astyāpayiṣyam"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "astyāpayiṣyāva"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyāva"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "astyāpayiṣyāma"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyāma"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "styāpyāt"
+        ],
+        "paths": [
+          {
+            "reading": "styāpyāt"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "styāpyāstām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpyāstām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "styāpyāsuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpyāsuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "styāpyāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpyāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "styāpyāstam"
+        ],
+        "paths": [
+          {
+            "reading": "styāpyāstam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "styāpyāsta"
+        ],
+        "paths": [
+          {
+            "reading": "styāpyāsta"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "styāpyāsam"
+        ],
+        "paths": [
+          {
+            "reading": "styāpyāsam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "styāpyāsva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpyāsva"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "styāpyāsma"
+        ],
+        "paths": [
+          {
+            "reading": "styāpyāsma"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "styāpayāñcakāra",
+          "styāpayāṃcakāra",
+          "styāpayāmāsa",
+          "styāpayāmbabhūva",
+          "styāpayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakāra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakāra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "styāpayāñcakratuḥ",
+          "styāpayāṃcakratuḥ",
+          "styāpayāmāsatuḥ",
+          "styāpayāmbabhūvatuḥ",
+          "styāpayāṃbabhūvatuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakratuḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakratuḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsatuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvatuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvatuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "styāpayāñcakruḥ",
+          "styāpayāṃcakruḥ",
+          "styāpayāmāsuḥ",
+          "styāpayāmbabhūvuḥ",
+          "styāpayāṃbabhūvuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakruḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakruḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "styāpayāñcakartha",
+          "styāpayāṃcakartha",
+          "styāpayāmāsitha",
+          "styāpayāmbabhūvitha",
+          "styāpayāṃbabhūvitha"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakartha",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakartha",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsitha",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvitha",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvitha",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "styāpayāñcakrathuḥ",
+          "styāpayāṃcakrathuḥ",
+          "styāpayāmāsathuḥ",
+          "styāpayāmbabhūvathuḥ",
+          "styāpayāṃbabhūvathuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakrathuḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakrathuḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsathuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvathuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvathuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "styāpayāñcakra",
+          "styāpayāṃcakra",
+          "styāpayāmāsa",
+          "styāpayāmbabhūva",
+          "styāpayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "styāpayāñcakara",
+          "styāpayāṃcakara",
+          "styāpayāñcakāra",
+          "styāpayāṃcakāra",
+          "styāpayāmāsa",
+          "styāpayāmbabhūva",
+          "styāpayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakara",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakara",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāñcakāra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakāra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "styāpayāñcakṛva",
+          "styāpayāṃcakṛva",
+          "styāpayāmāsiva",
+          "styāpayāmbabhūviva",
+          "styāpayāṃbabhūviva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakṛva",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakṛva",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsiva",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūviva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūviva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "styāpayāñcakṛma",
+          "styāpayāṃcakṛma",
+          "styāpayāmāsima",
+          "styāpayāmbabhūvima",
+          "styāpayāṃbabhūvima"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakṛma",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakṛma",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsima",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvima",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvima",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "atistyapat"
+        ],
+        "paths": [
+          {
+            "reading": "atistyapat"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "atistyapatām"
+        ],
+        "paths": [
+          {
+            "reading": "atistyapatām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "atistyapan"
+        ],
+        "paths": [
+          {
+            "reading": "atistyapan"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "atistyapaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "atistyapaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "atistyapatam"
+        ],
+        "paths": [
+          {
+            "reading": "atistyapatam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "atistyapata"
+        ],
+        "paths": [
+          {
+            "reading": "atistyapata"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "atistyapam"
+        ],
+        "paths": [
+          {
+            "reading": "atistyapam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "atistyapāva"
+        ],
+        "paths": [
+          {
+            "reading": "atistyapāva"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "atistyapāma"
+        ],
+        "paths": [
+          {
+            "reading": "atistyapāma"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "styāpayate"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayate"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "styāpayete"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayete"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "styāpayante"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayante"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "styāpayase"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayase"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "styāpayethe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayethe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "styāpayadhve"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayadhve"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "styāpaye"
+        ],
+        "paths": [
+          {
+            "reading": "styāpaye"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "styāpayāvahe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāvahe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "styāpayāmahe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāmahe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "styāpayatām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayatām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "styāpayetām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayetām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "styāpayantām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayantām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "styāpayasva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayasva"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "styāpayethām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayethām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "styāpayadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayadhvam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "styāpayai"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayai"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "styāpayāvahai"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāvahai"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "styāpayāmahai"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāmahai"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "astyāpayata"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayata"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "astyāpayetām"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayetām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "astyāpayanta"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayanta"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "astyāpayathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayathāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "astyāpayethām"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayethām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "astyāpayadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayadhvam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "astyāpaye"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpaye"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "astyāpayāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayāvahi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "astyāpayāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayāmahi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "styāpayeta"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeta"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "styāpayeyātām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeyātām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "styāpayeran"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeran"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "styāpayethāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayethāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "styāpayeyāthām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeyāthām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "styāpayedhvam"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayedhvam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "styāpayeya"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeya"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "styāpayevahi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayevahi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "styāpayemahi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayemahi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "styāpayitā"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitā"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "styāpayitārau"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitārau"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "styāpayitāraḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāraḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "styāpayitāse"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāse"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "styāpayitāsāthe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāsāthe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "styāpayitādhve"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitādhve"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "styāpayitāhe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāhe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "styāpayitāsvahe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāsvahe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "styāpayitāsmahe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāsmahe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "styāpayiṣyate"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyate"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "styāpayiṣyete"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyete"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "styāpayiṣyante"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyante"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "styāpayiṣyase"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyase"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "styāpayiṣyethe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyethe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "styāpayiṣyadhve"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyadhve"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "styāpayiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣye"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "styāpayiṣyāvahe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyāvahe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "styāpayiṣyāmahe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyāmahe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "astyāpayiṣyata"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyata"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "astyāpayiṣyetām"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyetām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "astyāpayiṣyanta"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyanta"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "astyāpayiṣyathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyathāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "astyāpayiṣyethām"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyethām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "astyāpayiṣyadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyadhvam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "astyāpayiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣye"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "astyāpayiṣyāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyāvahi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "astyāpayiṣyāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyāmahi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "styāpayiṣīṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣīṣṭa",
+            "dentality": "īṣṭa"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "styāpayiṣīyāstām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣīyāstām",
+            "dentality": "īyāstām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "styāpayiṣīran"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣīran",
+            "dentality": "īran"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "styāpayiṣīṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣīṣṭhāḥ",
+            "dentality": "īṣṭhāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "styāpayiṣīyāsthām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣīyāsthām",
+            "dentality": "īyāsthām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "styāpayiṣīḍhvam",
+          "styāpayiṣīdhvam"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣīḍhvam",
+            "dentality": "īḍhvam"
+          },
+          {
+            "reading": "styāpayiṣīdhvam",
+            "dentality": "īdhvam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "styāpayiṣīya"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣīya",
+            "dentality": "īya"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "styāpayiṣīvahi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣīvahi",
+            "dentality": "īvahi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "styāpayiṣīmahi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣīmahi",
+            "dentality": "īmahi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "styāpayāñcakre",
+          "styāpayāṃcakre",
+          "styāpayāmāsa",
+          "styāpayāmbabhūva",
+          "styāpayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "styāpayāñcakrāte",
+          "styāpayāṃcakrāte",
+          "styāpayāmāsatuḥ",
+          "styāpayāmbabhūvatuḥ",
+          "styāpayāṃbabhūvatuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakrāte",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakrāte",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsatuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvatuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvatuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "styāpayāñcakrire",
+          "styāpayāṃcakrire",
+          "styāpayāmāsuḥ",
+          "styāpayāmbabhūvuḥ",
+          "styāpayāṃbabhūvuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakrire",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakrire",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "styāpayāñcakṛṣe",
+          "styāpayāṃcakṛṣe",
+          "styāpayāmāsitha",
+          "styāpayāmbabhūvitha",
+          "styāpayāṃbabhūvitha"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakṛṣe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakṛṣe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsitha",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvitha",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvitha",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "styāpayāñcakrāthe",
+          "styāpayāṃcakrāthe",
+          "styāpayāmāsathuḥ",
+          "styāpayāmbabhūvathuḥ",
+          "styāpayāṃbabhūvathuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakrāthe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakrāthe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsathuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvathuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvathuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "styāpayāñcakṛḍhve",
+          "styāpayāṃcakṛḍhve",
+          "styāpayāmāsa",
+          "styāpayāmbabhūva",
+          "styāpayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakṛḍhve",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakṛḍhve",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "styāpayāñcakre",
+          "styāpayāṃcakre",
+          "styāpayāmāsa",
+          "styāpayāmbabhūva",
+          "styāpayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "styāpayāñcakṛvahe",
+          "styāpayāṃcakṛvahe",
+          "styāpayāmāsiva",
+          "styāpayāmbabhūviva",
+          "styāpayāṃbabhūviva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakṛvahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakṛvahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsiva",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūviva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūviva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "styāpayāñcakṛmahe",
+          "styāpayāṃcakṛmahe",
+          "styāpayāmāsima",
+          "styāpayāmbabhūvima",
+          "styāpayāṃbabhūvima"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakṛmahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakṛmahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsima",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvima",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvima",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "atistyapata"
+        ],
+        "paths": [
+          {
+            "reading": "atistyapata"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "atistyapetām"
+        ],
+        "paths": [
+          {
+            "reading": "atistyapetām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "atistyapanta"
+        ],
+        "paths": [
+          {
+            "reading": "atistyapanta"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "atistyapathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "atistyapathāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "atistyapethām"
+        ],
+        "paths": [
+          {
+            "reading": "atistyapethām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "atistyapadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "atistyapadhvam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "atistyape"
+        ],
+        "paths": [
+          {
+            "reading": "atistyape"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "atistyapāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "atistyapāvahi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "atistyapāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "atistyapāmahi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "styāpayati"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayati"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "styāpayataḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayataḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "styāpayanti"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayanti"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "styāpayasi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayasi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "styāpayathaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayathaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "styāpayatha"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayatha"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "styāpayāmi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāmi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "styāpayāvaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāvaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "styāpayāmaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāmaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "styāpayatu"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayatu"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "styāpayatām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayatām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "styāpayantu"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayantu"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "styāpaya"
+        ],
+        "paths": [
+          {
+            "reading": "styāpaya"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "styāpayatam"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayatam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "styāpayata"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayata"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "styāpayāni"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāni"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "styāpayāva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāva"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "styāpayāma"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāma"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "astyāpayat"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayat"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "astyāpayatām"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayatām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "astyāpayan"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayan"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "astyāpayaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "astyāpayatam"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayatam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "astyāpayata"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayata"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "astyāpayam"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "astyāpayāva"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayāva"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "astyāpayāma"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayāma"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "styāpayet"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayet"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "styāpayetām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayetām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "styāpayeyuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeyuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "styāpayeḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "styāpayetam"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayetam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "styāpayeta"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeta"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "styāpayeyam"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeyam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "styāpayeva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeva"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "styāpayema"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayema"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "styāpayitā"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitā"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "styāpayitārau"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitārau"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "styāpayitāraḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāraḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "styāpayitāsi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāsi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "styāpayitāsthaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāsthaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "styāpayitāstha"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāstha"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "styāpayitāsmi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāsmi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "styāpayitāsvaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāsvaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "styāpayitāsmaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāsmaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "styāpayiṣyati"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyati"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "styāpayiṣyataḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyataḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "styāpayiṣyanti"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyanti"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "styāpayiṣyasi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyasi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "styāpayiṣyathaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyathaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "styāpayiṣyatha"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyatha"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "styāpayiṣyāmi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyāmi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "styāpayiṣyāvaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyāvaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "styāpayiṣyāmaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyāmaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "astyāpayiṣyat"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyat"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "astyāpayiṣyatām"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyatām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "astyāpayiṣyan"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyan"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "astyāpayiṣyaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "astyāpayiṣyatam"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyatam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "astyāpayiṣyata"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyata"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "astyāpayiṣyam"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "astyāpayiṣyāva"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyāva"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "astyāpayiṣyāma"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyāma"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "styāpyāt"
+        ],
+        "paths": [
+          {
+            "reading": "styāpyāt"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "styāpyāstām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpyāstām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "styāpyāsuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpyāsuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "styāpyāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpyāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "styāpyāstam"
+        ],
+        "paths": [
+          {
+            "reading": "styāpyāstam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "styāpyāsta"
+        ],
+        "paths": [
+          {
+            "reading": "styāpyāsta"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "styāpyāsam"
+        ],
+        "paths": [
+          {
+            "reading": "styāpyāsam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "styāpyāsva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpyāsva"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "styāpyāsma"
+        ],
+        "paths": [
+          {
+            "reading": "styāpyāsma"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "styāpayāñcakāra",
+          "styāpayāṃcakāra",
+          "styāpayāmāsa",
+          "styāpayāmbabhūva",
+          "styāpayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakāra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakāra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "styāpayāñcakratuḥ",
+          "styāpayāṃcakratuḥ",
+          "styāpayāmāsatuḥ",
+          "styāpayāmbabhūvatuḥ",
+          "styāpayāṃbabhūvatuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakratuḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakratuḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsatuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvatuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvatuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "styāpayāñcakruḥ",
+          "styāpayāṃcakruḥ",
+          "styāpayāmāsuḥ",
+          "styāpayāmbabhūvuḥ",
+          "styāpayāṃbabhūvuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakruḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakruḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "styāpayāñcakartha",
+          "styāpayāṃcakartha",
+          "styāpayāmāsitha",
+          "styāpayāmbabhūvitha",
+          "styāpayāṃbabhūvitha"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakartha",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakartha",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsitha",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvitha",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvitha",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "styāpayāñcakrathuḥ",
+          "styāpayāṃcakrathuḥ",
+          "styāpayāmāsathuḥ",
+          "styāpayāmbabhūvathuḥ",
+          "styāpayāṃbabhūvathuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakrathuḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakrathuḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsathuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvathuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvathuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "styāpayāñcakra",
+          "styāpayāṃcakra",
+          "styāpayāmāsa",
+          "styāpayāmbabhūva",
+          "styāpayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "styāpayāñcakara",
+          "styāpayāṃcakara",
+          "styāpayāñcakāra",
+          "styāpayāṃcakāra",
+          "styāpayāmāsa",
+          "styāpayāmbabhūva",
+          "styāpayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakara",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakara",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāñcakāra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakāra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "styāpayāñcakṛva",
+          "styāpayāṃcakṛva",
+          "styāpayāmāsiva",
+          "styāpayāmbabhūviva",
+          "styāpayāṃbabhūviva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakṛva",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakṛva",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsiva",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūviva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūviva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "styāpayāñcakṛma",
+          "styāpayāṃcakṛma",
+          "styāpayāmāsima",
+          "styāpayāmbabhūvima",
+          "styāpayāṃbabhūvima"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakṛma",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakṛma",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsima",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvima",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvima",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "atiṣṭyapat"
+        ],
+        "paths": [
+          {
+            "reading": "atiṣṭyapat"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "atiṣṭyapatām"
+        ],
+        "paths": [
+          {
+            "reading": "atiṣṭyapatām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "atiṣṭyapan"
+        ],
+        "paths": [
+          {
+            "reading": "atiṣṭyapan"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "atiṣṭyapaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "atiṣṭyapaḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "atiṣṭyapatam"
+        ],
+        "paths": [
+          {
+            "reading": "atiṣṭyapatam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "atiṣṭyapata"
+        ],
+        "paths": [
+          {
+            "reading": "atiṣṭyapata"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "atiṣṭyapam"
+        ],
+        "paths": [
+          {
+            "reading": "atiṣṭyapam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "atiṣṭyapāva"
+        ],
+        "paths": [
+          {
+            "reading": "atiṣṭyapāva"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "atiṣṭyapāma"
+        ],
+        "paths": [
+          {
+            "reading": "atiṣṭyapāma"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "styāpayate"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayate"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "styāpayete"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayete"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "styāpayante"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayante"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "styāpayase"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayase"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "styāpayethe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayethe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "styāpayadhve"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayadhve"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "styāpaye"
+        ],
+        "paths": [
+          {
+            "reading": "styāpaye"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "styāpayāvahe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāvahe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "styāpayāmahe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāmahe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "styāpayatām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayatām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "styāpayetām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayetām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "styāpayantām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayantām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "styāpayasva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayasva"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "styāpayethām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayethām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "styāpayadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayadhvam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "styāpayai"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayai"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "styāpayāvahai"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāvahai"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "styāpayāmahai"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāmahai"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "astyāpayata"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayata"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "astyāpayetām"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayetām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "astyāpayanta"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayanta"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "astyāpayathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayathāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "astyāpayethām"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayethām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "astyāpayadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayadhvam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "astyāpaye"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpaye"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "astyāpayāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayāvahi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "astyāpayāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayāmahi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "styāpayeta"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeta"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "styāpayeyātām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeyātām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "styāpayeran"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeran"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "styāpayethāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayethāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "styāpayeyāthām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeyāthām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "styāpayedhvam"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayedhvam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "styāpayeya"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayeya"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "styāpayevahi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayevahi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "styāpayemahi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayemahi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "styāpayitā"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitā"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "styāpayitārau"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitārau"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "styāpayitāraḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāraḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "styāpayitāse"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāse"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "styāpayitāsāthe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāsāthe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "styāpayitādhve"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitādhve"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "styāpayitāhe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāhe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "styāpayitāsvahe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāsvahe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "styāpayitāsmahe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayitāsmahe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "styāpayiṣyate"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyate"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "styāpayiṣyete"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyete"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "styāpayiṣyante"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyante"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "styāpayiṣyase"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyase"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "styāpayiṣyethe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyethe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "styāpayiṣyadhve"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyadhve"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "styāpayiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣye"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "styāpayiṣyāvahe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyāvahe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "styāpayiṣyāmahe"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣyāmahe"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "astyāpayiṣyata"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyata"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "astyāpayiṣyetām"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyetām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "astyāpayiṣyanta"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyanta"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "astyāpayiṣyathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyathāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "astyāpayiṣyethām"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyethām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "astyāpayiṣyadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyadhvam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "astyāpayiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣye"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "astyāpayiṣyāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyāvahi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "astyāpayiṣyāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "astyāpayiṣyāmahi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "styāpayiṣīṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣīṣṭa",
+            "dentality": "īṣṭa"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "styāpayiṣīyāstām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣīyāstām",
+            "dentality": "īyāstām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "styāpayiṣīran"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣīran",
+            "dentality": "īran"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "styāpayiṣīṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣīṣṭhāḥ",
+            "dentality": "īṣṭhāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "styāpayiṣīyāsthām"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣīyāsthām",
+            "dentality": "īyāsthām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "styāpayiṣīḍhvam",
+          "styāpayiṣīdhvam"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣīḍhvam",
+            "dentality": "īḍhvam"
+          },
+          {
+            "reading": "styāpayiṣīdhvam",
+            "dentality": "īdhvam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "styāpayiṣīya"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣīya",
+            "dentality": "īya"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "styāpayiṣīvahi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣīvahi",
+            "dentality": "īvahi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "styāpayiṣīmahi"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayiṣīmahi",
+            "dentality": "īmahi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "styāpayāñcakre",
+          "styāpayāṃcakre",
+          "styāpayāmāsa",
+          "styāpayāmbabhūva",
+          "styāpayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "styāpayāñcakrāte",
+          "styāpayāṃcakrāte",
+          "styāpayāmāsatuḥ",
+          "styāpayāmbabhūvatuḥ",
+          "styāpayāṃbabhūvatuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakrāte",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakrāte",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsatuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvatuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvatuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "styāpayāñcakrire",
+          "styāpayāṃcakrire",
+          "styāpayāmāsuḥ",
+          "styāpayāmbabhūvuḥ",
+          "styāpayāṃbabhūvuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakrire",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakrire",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "styāpayāñcakṛṣe",
+          "styāpayāṃcakṛṣe",
+          "styāpayāmāsitha",
+          "styāpayāmbabhūvitha",
+          "styāpayāṃbabhūvitha"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakṛṣe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakṛṣe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsitha",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvitha",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvitha",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "styāpayāñcakrāthe",
+          "styāpayāṃcakrāthe",
+          "styāpayāmāsathuḥ",
+          "styāpayāmbabhūvathuḥ",
+          "styāpayāṃbabhūvathuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakrāthe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakrāthe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsathuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvathuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvathuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "styāpayāñcakṛḍhve",
+          "styāpayāṃcakṛḍhve",
+          "styāpayāmāsa",
+          "styāpayāmbabhūva",
+          "styāpayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakṛḍhve",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakṛḍhve",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "styāpayāñcakre",
+          "styāpayāṃcakre",
+          "styāpayāmāsa",
+          "styāpayāmbabhūva",
+          "styāpayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "styāpayāñcakṛvahe",
+          "styāpayāṃcakṛvahe",
+          "styāpayāmāsiva",
+          "styāpayāmbabhūviva",
+          "styāpayāṃbabhūviva"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakṛvahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakṛvahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsiva",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūviva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūviva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "styāpayāñcakṛmahe",
+          "styāpayāṃcakṛmahe",
+          "styāpayāmāsima",
+          "styāpayāmbabhūvima",
+          "styāpayāṃbabhūvima"
+        ],
+        "paths": [
+          {
+            "reading": "styāpayāñcakṛmahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "styāpayāṃcakṛmahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "styāpayāmāsima",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāmbabhūvima",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "styāpayāṃbabhūvima",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "atiṣṭyapata"
+        ],
+        "paths": [
+          {
+            "reading": "atiṣṭyapata"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "atiṣṭyapetām"
+        ],
+        "paths": [
+          {
+            "reading": "atiṣṭyapetām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "atiṣṭyapanta"
+        ],
+        "paths": [
+          {
+            "reading": "atiṣṭyapanta"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "atiṣṭyapathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "atiṣṭyapathāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "atiṣṭyapethām"
+        ],
+        "paths": [
+          {
+            "reading": "atiṣṭyapethām"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "atiṣṭyapadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "atiṣṭyapadhvam"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "atiṣṭyape"
+        ],
+        "paths": [
+          {
+            "reading": "atiṣṭyape"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "atiṣṭyapāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "atiṣṭyapāvahi"
+          }
+        ]
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "atiṣṭyapāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "atiṣṭyapāmahi"
+          }
+        ]
+      }
+    ],
+    "panels": [
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lat",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lut",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "ashirling",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 47
+      },
+      {
+        "profile": "nich_01_1058_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lat",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lut",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "ashirling",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 45
+      },
+      {
+        "profile": "nich_01_1058_A",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lat",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lut",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "ashirling",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 47
+      },
+      {
+        "profile": "nich_01_1059_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lat",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lut",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "ashirling",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 45
+      },
+      {
+        "profile": "nich_01_1059_A",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      }
+    ],
+    "complete_nine_slot_paradigms": 40
+  },
+  "contextual_profiles": {
+    "nich_01_1058_P": {
+      "source_id": "01.1058",
+      "teaching_form": "स्त्यै",
+      "construction": "kartari causative with one ṇic",
+      "pada": "P",
+      "cause": "residual kartari P under 1.3.78",
+      "ordinary_factor": "styāpay",
+      "cang_factor": "tistyap",
+      "prefix": null
+    },
+    "nich_01_1058_A": {
+      "source_id": "01.1058",
+      "teaching_form": "स्त्यै",
+      "construction": "kartari causative with one ṇic",
+      "pada": "A",
+      "cause": "fruit goes to the causer under 1.3.74",
+      "ordinary_factor": "styāpay",
+      "cang_factor": "tistyap",
+      "prefix": null
+    },
+    "nich_01_1059_P": {
+      "source_id": "01.1059",
+      "teaching_form": "ष्ट्यै",
+      "construction": "kartari causative with one ṇic",
+      "pada": "P",
+      "cause": "residual kartari P under 1.3.78",
+      "ordinary_factor": "styāpay",
+      "cang_factor": "tiṣṭyap",
+      "prefix": null
+    },
+    "nich_01_1059_A": {
+      "source_id": "01.1059",
+      "teaching_form": "ष्ट्यै",
+      "construction": "kartari causative with one ṇic",
+      "pada": "A",
+      "cause": "fruit goes to the causer under 1.3.74",
+      "ordinary_factor": "styāpay",
+      "cang_factor": "tiṣṭyap",
+      "prefix": null
+    }
+  },
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "The semantic restriction on mit in ni + śam and the accent or preverb behavior of other root histories.",
+    "Four literal fields at Uṇādi 4.105, an independent effect of k at 5.56, and runtime verification."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Checked 360 finite cells, 180 root-to-root comparisons, both written nasal boundaries and archive-only spellings; isolated the 18 disjoint caṅ pairs."
+  },
+  "direct_multiple_affix_fields": 99,
+  "inferred_fields": 0,
+  "open_fields": 4,
+  "marker_questions_without_specific_effect": 1,
+  "source_comparison": {
+    "written": 510,
+    "archive": 454,
+    "intersection": 436,
+    "additional_licensed_anusvara": 74,
+    "blessing_imperative_archive_only": 8,
+    "voiced_final_archive_only": 10
+  }
+}
