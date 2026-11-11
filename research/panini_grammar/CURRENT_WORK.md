@@ -1,8 +1,8 @@
-# Pāṇini grammar · current written coverage at PG201
+# Pāṇini grammar · current written coverage at PG202
 
-Monty · 11 November 2026
+Monty · 12 November 2026
 
-PG197–PG201 bring direct assignments to **99 of 103** multiple-affix fields and identify the suffix of the thief at 2.94. Seven ploughing passages are aligned across six Vedic traditions. The fish and its two feminine stems have **72 nominal positions**. The cumulative written finite total is **41,333**.
+PG202 records a dictionary’s explicit *ktin* at Uṇādi 4.105 and the two *māḍhi* stems. Their written table has **48 nominal positions**. The primary multiple-affix count is **99/103** and the cumulative written finite count is **41,333**.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
@@ -10,6 +10,7 @@ PG197–PG201 bring direct assignments to **99 of 103** multiple-affix fields an
 | Finite verb positions | **41,333** written. Three yaṅ-luk roots add 324 positions. [Intensive futures and desires](yangluk_future_and_desire/README.md). Seven agent-model denominatives add 630 positions across ten lakāras. [New forms and inner iṭ](agent_noun_and_outer_middle/README.md). The earlier set of 15 nominal actions have **2,700/2,700** positions in their declared ten-lakāra grid. | Extend to other root senses, prefix and pada combinations. [Finite grid](satya_named_aorists/README.md) |
 | Five-pāda Uṇādi | All **748/748** addresses have a sourced lexical selection. The purpose of k at 4.80 is attested. At 5.56 Jñānendra explicitly says the prescribed ī suffices to exclude guṇa. | An independent effect of five-pāda k at 5.56 remains open. Bhoja and Kātantra have their own roots and suffixes for the Yama word. [Three grammatical histories](kinasa_three_grammatical_schools/README.md) · [4.80](unadi_kit_commentarial_decisions/README.md) · [748 addresses](unadi_fifth_pada_readings/ALL_LEXICAL_READINGS.tsv) |
 | Uṇādi entries with multiple affix labels | **99 direct, zero inference-only and four open out of 103**. The 1956 index assigns tnaṇ to *hotna* (4.105). | The four open primary fields are *sya, ḍha, ḍaṭ, āṭac*. The distinct *hautna* reading retains an inferred affix in Ujjvaladatta. The 2.94 thief has *han + tṛc* in the 1956 index. [Thief and relatives](unadi_thief_and_ten_affix_readings/README.md) [Sacrificer and wind](unadi_sacrificer_and_wind/README.md) |
+| Additional 4.105 dictionary reading | Śabdakalpadruma directly names *māh + ktin* and separately lists *māḍhī* with *ṅīṣ*. Two stem profiles give **48 nominal positions, 52 readings**. | *Ktin* is outside the nine-affix primary list. The bodily-part explanation for the long dental word is conditional. [Entries, conditions and inflection](unadi_madhi_and_feminine_suffix/README.md) |
 | Six Uṇādi lexical examples at 4.105 | 144 nominal positions plus 24 for the lizard. *Dhyātva* now has explicit tvan. The wind has explicit short *aṭac*, the chameleon *aṭan*. | The long-ā field in the primary list still lacks an extension example. [Individual suffix decisions](unadi_sacrificer_and_wind/README.md) · [Six declensions](unadi_six_lexical_paradigms/README.md) |
 | Ten Uṇādi ṛ-stems at 2.95 | Each of the ten has **both tṛn and tṛc somewhere in the sourced analyses**. The two newly compared authorities alone supply both for eight words. All 240 existing nominal positions retain their earlier counting. | Choices are conditional on source and sometimes sense. [Ten paired readings and the thief](unadi_thief_and_ten_affix_readings/README.md) · [Declensions](unadi_ten_r_stem_declensions/README.md) |
 | Ṛgvedic inflection of the ten ṛ-stems | 1,038 source rows reviewed. **1,033** satisfy the lemma and gender conditions and populate **93/240** existing positions. | 147 cells have no token in the selection. The 132 nonmatching word forms have a separate account for Vedic dual endings, *nápat-* and one tagged ablative dual. [Complete concordance](rigvedic_ten_r_stem_concordance/README.md) |

@@ -1,0 +1,569 @@
+{
+  "extension": {
+    "rule": "4.105",
+    "label_as_cited": "ktin",
+    "source": "Śabdakalpadruma L27028, printed vol. 3 p. 689 col. b",
+    "root_as_printed": "māh",
+    "result_stem": "māḍhi",
+    "positive_control_at_same_number": "L22380 assigns itvan to petvam.",
+    "primary_labels": [
+      "इत्वन्",
+      "त्वन्",
+      "त्नण्",
+      "क्निन्",
+      "शक्",
+      "स्य",
+      "ढ",
+      "डट्",
+      "आटच्"
+    ],
+    "new_primary_assignments": 0,
+    "evidence_category": "explicit external lexical attribution; ktin is absent from the nine inherited primary labels."
+  },
+  "two_entries": [
+    {
+      "stem": "māḍhi",
+      "entry": {
+        "work": "skd",
+        "L": "27028",
+        "key": "mAQiH",
+        "page": "3-689-b",
+        "entry_sha256": "5e247fc30c5610a228dafbbe3a359378bc35ce982d95ac4cda0f53af2e5802c3",
+        "literal_spans_in_whitespace_joined_entry": [
+          "mAha +",
+          "4 . 105 . iti ktin",
+          "deSaBedaH . patraSirA",
+          "danta- BedaH"
+        ]
+      },
+      "reported_senses": {
+        "Ratnakośa": [
+          "name of a region",
+          "vein of a leaf"
+        ],
+        "some authors via Bharata": [
+          "a kind of tooth"
+        ]
+      },
+      "chosen_table_sense": "leaf vein"
+    },
+    {
+      "stem": "māḍhī",
+      "entry": {
+        "work": "skd",
+        "L": "27029",
+        "key": "mAQI",
+        "page": "3-689-b",
+        "entry_sha256": "09c4d609e8f8e45ad6c8cf5630e7e0b3105eeed08f83d6da42400138606c2788",
+        "literal_spans_in_whitespace_joined_entry": [
+          "mAQi + kfdikArAditi NIza",
+          "dantaSirA"
+        ]
+      },
+      "base_as_reported": "māḍhi",
+      "suffix_as_reported": "ṅīṣ",
+      "gloss": "dantaśirā, a dental structure (Śabdaratnāvalī)",
+      "chosen_table_sense": "dantaśirā"
+    }
+  ],
+  "authority_decisions": [
+    {
+      "input": "short-i kṛt with ktin (L27028)",
+      "request": "optional ṅīṣ by kṛdikārād aktinaḥ",
+      "result": "excluded by aktinaḥ",
+      "authority": "Kāśikā and Siddhāntakaumudī on 4.1.45"
+    },
+    {
+      "input": "an i-stem naming a living being’s bodily part",
+      "request": "optional ṅīṣ by itaḥ prāṇyaṅgāt",
+      "result": "available under that specific reading",
+      "positive_control": "dhamaniḥ / dhamanī in Nyāsa; māḍhī can be compared on a dental sense. This is a proposed comparison for the dental term."
+    },
+    {
+      "input": "paddhati ending in ktin",
+      "request": "optional ṅīṣ",
+      "result": "the word has a separate named entry in bahvādi; the Kaumudī explicitly gives this as the reason",
+      "scope": "No named māḍhi item appears in the cited Kāśikā list."
+    },
+    {
+      "input": "māh and mah",
+      "request": "identify the named root of every gloss",
+      "result": "māh, to measure, 01.1042, and mah, to honour, 01.0831, are distinct in the pinned Dhātupāṭha. MW’s explicit mah belongs to its honouring gloss. The SKD entry begins with māha. No joint root history has been assumed."
+    }
+  ],
+  "lexical_controls": [
+    {
+      "work": "skd",
+      "L": "22380",
+      "key": "petvaM",
+      "page": "3-232-b",
+      "entry_sha256": "1fb2d4cf58c71c61b5246ae703197e8a1e955cb1eb9e66d0f6b61b81003aceee",
+      "literal_spans_in_whitespace_joined_entry": [
+        "pA pAne",
+        "4 . 105 . iti itvan"
+      ]
+    },
+    {
+      "work": "ap",
+      "L": "26009",
+      "key": "mAQiH",
+      "page": "1257-1",
+      "entry_sha256": "ae09fcdfb596977f28e8e847ca11576cedde69a40659b8b4cb46b963792c861d",
+      "literal_spans_in_whitespace_joined_entry": [
+        "Honouring",
+        "double tooth (also {#mAQI#})"
+      ]
+    },
+    {
+      "work": "mw",
+      "L": "162077",
+      "key": "mAQi",
+      "page": "806,2",
+      "entry_sha256": "0e8fc2c29c5983d0004d6706415d95642c955e621a99893d875e2ee0672462b8",
+      "literal_spans_in_whitespace_joined_entry": [
+        "honouring, reverencing",
+        "mah"
+      ]
+    },
+    {
+      "work": "ap",
+      "L": "26230",
+      "key": "mAh",
+      "page": "1268-1",
+      "entry_sha256": "e0cb0725cf14b6033f17f0205f8c0d36465793fa23c2681fcaa79870bdb45703",
+      "literal_spans_in_whitespace_joined_entry": [
+        "mAhati-te",
+        "To measure"
+      ]
+    }
+  ],
+  "table": "NOMINAL_FORMS.tsv",
+  "positions": 48,
+  "readings": 52,
+  "distinct_spellings": 27,
+  "inverse": {
+    "māḍhiḥ": [
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "nom",
+        "sg"
+      ]
+    ],
+    "māḍhī": [
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "nom",
+        "du"
+      ],
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "acc",
+        "du"
+      ],
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "voc",
+        "du"
+      ],
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "nom",
+        "sg"
+      ]
+    ],
+    "māḍhayaḥ": [
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "nom",
+        "pl"
+      ],
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "voc",
+        "pl"
+      ]
+    ],
+    "māḍhim": [
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "acc",
+        "sg"
+      ]
+    ],
+    "māḍhīḥ": [
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "acc",
+        "pl"
+      ],
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "acc",
+        "pl"
+      ]
+    ],
+    "māḍhyā": [
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "ins",
+        "sg"
+      ],
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "ins",
+        "sg"
+      ]
+    ],
+    "māḍhibhyām": [
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "ins",
+        "du"
+      ],
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "dat",
+        "du"
+      ],
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "abl",
+        "du"
+      ]
+    ],
+    "māḍhibhiḥ": [
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "ins",
+        "pl"
+      ]
+    ],
+    "māḍhaye": [
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "dat",
+        "sg"
+      ]
+    ],
+    "māḍhyai": [
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "dat",
+        "sg"
+      ],
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "dat",
+        "sg"
+      ]
+    ],
+    "māḍhibhyaḥ": [
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "dat",
+        "pl"
+      ],
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "abl",
+        "pl"
+      ]
+    ],
+    "māḍheḥ": [
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "abl",
+        "sg"
+      ],
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "gen",
+        "sg"
+      ]
+    ],
+    "māḍhyāḥ": [
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "abl",
+        "sg"
+      ],
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "gen",
+        "sg"
+      ],
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "abl",
+        "sg"
+      ],
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "gen",
+        "sg"
+      ]
+    ],
+    "māḍhyoḥ": [
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "gen",
+        "du"
+      ],
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "loc",
+        "du"
+      ],
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "gen",
+        "du"
+      ],
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "loc",
+        "du"
+      ]
+    ],
+    "māḍhīnām": [
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "gen",
+        "pl"
+      ],
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "gen",
+        "pl"
+      ]
+    ],
+    "māḍhau": [
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "loc",
+        "sg"
+      ]
+    ],
+    "māḍhyām": [
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "loc",
+        "sg"
+      ],
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "loc",
+        "sg"
+      ]
+    ],
+    "māḍhiṣu": [
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "loc",
+        "pl"
+      ]
+    ],
+    "māḍhe": [
+      [
+        "māḍhi",
+        "leaf vein",
+        "f",
+        "voc",
+        "sg"
+      ]
+    ],
+    "māḍhyau": [
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "nom",
+        "du"
+      ],
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "acc",
+        "du"
+      ],
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "voc",
+        "du"
+      ]
+    ],
+    "māḍhyaḥ": [
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "nom",
+        "pl"
+      ],
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "voc",
+        "pl"
+      ]
+    ],
+    "māḍhīm": [
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "acc",
+        "sg"
+      ]
+    ],
+    "māḍhībhyām": [
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "ins",
+        "du"
+      ],
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "dat",
+        "du"
+      ],
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "abl",
+        "du"
+      ]
+    ],
+    "māḍhībhiḥ": [
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "ins",
+        "pl"
+      ]
+    ],
+    "māḍhībhyaḥ": [
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "dat",
+        "pl"
+      ],
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "abl",
+        "pl"
+      ]
+    ],
+    "māḍhīṣu": [
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "loc",
+        "pl"
+      ]
+    ],
+    "māḍhi": [
+      [
+        "māḍhī",
+        "dantaśirā, a dental structure",
+        "f",
+        "voc",
+        "sg"
+      ]
+    ]
+  },
+  "projection": {
+    "input": "dictionary, entry, root spelling, affix, specific lexical sense, gender rule, case and number",
+    "output": "individual unaccented word",
+    "comparison": "The stem and sense are fixed before the inflectional model is applied. The two dictionary entries remain independent readings wherever their inflected forms coincide."
+  }
+}
