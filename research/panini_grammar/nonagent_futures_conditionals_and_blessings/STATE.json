@@ -1,0 +1,5158 @@
+{
+  "schema": "rkf.panini.pg228.state.v1",
+  "author": "Monty",
+  "date": "2026-11-12",
+  "baseline": {
+    "path": "research/panini_grammar/basic_cin_and_nonagent_aorists/STATE.json",
+    "commit": "4d9923af9d0b29118fd84b1404d44eeab6248beb",
+    "git_blob_sha": "02b4a03ea9f3709d3ad472645701677436ca22b6",
+    "sha256": "16a4401ee307c9e2efffa4a08480c0dd2ffbeb2e9d8d7f6d81b3975691823740",
+    "bytes": 31474
+  },
+  "finite_positions": 44822,
+  "new_positions": 240,
+  "new_position_readings": 362,
+  "new_written_table_readings": 362,
+  "retained_path_count": 362,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "māhitā"
+        ],
+        "paths": [
+          {
+            "reading": "māhitā",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "itā"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "māhitārau"
+        ],
+        "paths": [
+          {
+            "reading": "māhitārau",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "itārau"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "māhitāraḥ"
+        ],
+        "paths": [
+          {
+            "reading": "māhitāraḥ",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "itāraḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "māhitāse"
+        ],
+        "paths": [
+          {
+            "reading": "māhitāse",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "itāse"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "māhitāsāthe"
+        ],
+        "paths": [
+          {
+            "reading": "māhitāsāthe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "itāsāthe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "māhitādhve"
+        ],
+        "paths": [
+          {
+            "reading": "māhitādhve",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "itādhve"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "māhitāhe"
+        ],
+        "paths": [
+          {
+            "reading": "māhitāhe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "itāhe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "māhitāsvahe"
+        ],
+        "paths": [
+          {
+            "reading": "māhitāsvahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "itāsvahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "māhitāsmahe"
+        ],
+        "paths": [
+          {
+            "reading": "māhitāsmahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "itāsmahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "māhiṣyate"
+        ],
+        "paths": [
+          {
+            "reading": "māhiṣyate",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣyate"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "māhiṣyete"
+        ],
+        "paths": [
+          {
+            "reading": "māhiṣyete",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣyete"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "māhiṣyante"
+        ],
+        "paths": [
+          {
+            "reading": "māhiṣyante",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣyante"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "māhiṣyase"
+        ],
+        "paths": [
+          {
+            "reading": "māhiṣyase",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣyase"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "māhiṣyethe"
+        ],
+        "paths": [
+          {
+            "reading": "māhiṣyethe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣyethe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "māhiṣyadhve"
+        ],
+        "paths": [
+          {
+            "reading": "māhiṣyadhve",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣyadhve"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "māhiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "māhiṣye",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣye"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "māhiṣyāvahe"
+        ],
+        "paths": [
+          {
+            "reading": "māhiṣyāvahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣyāvahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "māhiṣyāmahe"
+        ],
+        "paths": [
+          {
+            "reading": "māhiṣyāmahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣyāmahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "amāhiṣyata"
+        ],
+        "paths": [
+          {
+            "reading": "amāhiṣyata",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣyata"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "amāhiṣyetām"
+        ],
+        "paths": [
+          {
+            "reading": "amāhiṣyetām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣyetām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "amāhiṣyanta"
+        ],
+        "paths": [
+          {
+            "reading": "amāhiṣyanta",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣyanta"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "amāhiṣyathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "amāhiṣyathāḥ",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣyathāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "amāhiṣyethām"
+        ],
+        "paths": [
+          {
+            "reading": "amāhiṣyethām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣyethām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "amāhiṣyadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "amāhiṣyadhvam",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣyadhvam"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "amāhiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "amāhiṣye",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣye"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "amāhiṣyāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "amāhiṣyāvahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣyāvahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "amāhiṣyāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "amāhiṣyāmahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣyāmahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "māhiṣīṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "māhiṣīṣṭa",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣīṣṭa"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "māhiṣīyāstām"
+        ],
+        "paths": [
+          {
+            "reading": "māhiṣīyāstām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣīyāstām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "māhiṣīran"
+        ],
+        "paths": [
+          {
+            "reading": "māhiṣīran",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣīran"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "māhiṣīṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "māhiṣīṣṭhāḥ",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣīṣṭhāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "māhiṣīyāsthām"
+        ],
+        "paths": [
+          {
+            "reading": "māhiṣīyāsthām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣīyāsthām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "māhiṣīḍhvam",
+          "māhiṣīdhvam"
+        ],
+        "paths": [
+          {
+            "reading": "māhiṣīḍhvam",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣīḍhvam"
+          },
+          {
+            "reading": "māhiṣīdhvam",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣīdhvam"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "māhiṣīya"
+        ],
+        "paths": [
+          {
+            "reading": "māhiṣīya",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣīya"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "māhiṣīvahi"
+        ],
+        "paths": [
+          {
+            "reading": "māhiṣīvahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣīvahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "māhiṣīmahi"
+        ],
+        "paths": [
+          {
+            "reading": "māhiṣīmahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "māh",
+            "ending": "iṣīmahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "mahitā"
+        ],
+        "paths": [
+          {
+            "reading": "mahitā",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "itā"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "mahitārau"
+        ],
+        "paths": [
+          {
+            "reading": "mahitārau",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "itārau"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "mahitāraḥ"
+        ],
+        "paths": [
+          {
+            "reading": "mahitāraḥ",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "itāraḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "mahitāse"
+        ],
+        "paths": [
+          {
+            "reading": "mahitāse",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "itāse"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "mahitāsāthe"
+        ],
+        "paths": [
+          {
+            "reading": "mahitāsāthe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "itāsāthe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "mahitādhve"
+        ],
+        "paths": [
+          {
+            "reading": "mahitādhve",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "itādhve"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "mahitāhe"
+        ],
+        "paths": [
+          {
+            "reading": "mahitāhe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "itāhe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "mahitāsvahe"
+        ],
+        "paths": [
+          {
+            "reading": "mahitāsvahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "itāsvahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "mahitāsmahe"
+        ],
+        "paths": [
+          {
+            "reading": "mahitāsmahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "itāsmahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "mahiṣyate"
+        ],
+        "paths": [
+          {
+            "reading": "mahiṣyate",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣyate"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "mahiṣyete"
+        ],
+        "paths": [
+          {
+            "reading": "mahiṣyete",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣyete"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "mahiṣyante"
+        ],
+        "paths": [
+          {
+            "reading": "mahiṣyante",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣyante"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "mahiṣyase"
+        ],
+        "paths": [
+          {
+            "reading": "mahiṣyase",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣyase"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "mahiṣyethe"
+        ],
+        "paths": [
+          {
+            "reading": "mahiṣyethe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣyethe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "mahiṣyadhve"
+        ],
+        "paths": [
+          {
+            "reading": "mahiṣyadhve",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣyadhve"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "mahiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "mahiṣye",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣye"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "mahiṣyāvahe"
+        ],
+        "paths": [
+          {
+            "reading": "mahiṣyāvahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣyāvahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "mahiṣyāmahe"
+        ],
+        "paths": [
+          {
+            "reading": "mahiṣyāmahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣyāmahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "amahiṣyata"
+        ],
+        "paths": [
+          {
+            "reading": "amahiṣyata",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣyata"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "amahiṣyetām"
+        ],
+        "paths": [
+          {
+            "reading": "amahiṣyetām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣyetām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "amahiṣyanta"
+        ],
+        "paths": [
+          {
+            "reading": "amahiṣyanta",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣyanta"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "amahiṣyathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "amahiṣyathāḥ",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣyathāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "amahiṣyethām"
+        ],
+        "paths": [
+          {
+            "reading": "amahiṣyethām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣyethām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "amahiṣyadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "amahiṣyadhvam",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣyadhvam"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "amahiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "amahiṣye",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣye"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "amahiṣyāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "amahiṣyāvahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣyāvahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "amahiṣyāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "amahiṣyāmahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣyāmahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "mahiṣīṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "mahiṣīṣṭa",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣīṣṭa"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "mahiṣīyāstām"
+        ],
+        "paths": [
+          {
+            "reading": "mahiṣīyāstām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣīyāstām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "mahiṣīran"
+        ],
+        "paths": [
+          {
+            "reading": "mahiṣīran",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣīran"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "mahiṣīṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "mahiṣīṣṭhāḥ",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣīṣṭhāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "mahiṣīyāsthām"
+        ],
+        "paths": [
+          {
+            "reading": "mahiṣīyāsthām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣīyāsthām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "mahiṣīḍhvam",
+          "mahiṣīdhvam"
+        ],
+        "paths": [
+          {
+            "reading": "mahiṣīḍhvam",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣīḍhvam"
+          },
+          {
+            "reading": "mahiṣīdhvam",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣīdhvam"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "mahiṣīya"
+        ],
+        "paths": [
+          {
+            "reading": "mahiṣīya",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣīya"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "mahiṣīvahi"
+        ],
+        "paths": [
+          {
+            "reading": "mahiṣīvahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣīvahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "mahiṣīmahi"
+        ],
+        "paths": [
+          {
+            "reading": "mahiṣīmahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mah",
+            "ending": "iṣīmahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "mahayitā",
+          "mahitā"
+        ],
+        "paths": [
+          {
+            "reading": "mahayitā",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "itā"
+          },
+          {
+            "reading": "mahitā",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "itā"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "mahayitārau",
+          "mahitārau"
+        ],
+        "paths": [
+          {
+            "reading": "mahayitārau",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "itārau"
+          },
+          {
+            "reading": "mahitārau",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "itārau"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "mahayitāraḥ",
+          "mahitāraḥ"
+        ],
+        "paths": [
+          {
+            "reading": "mahayitāraḥ",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "itāraḥ"
+          },
+          {
+            "reading": "mahitāraḥ",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "itāraḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "mahayitāse",
+          "mahitāse"
+        ],
+        "paths": [
+          {
+            "reading": "mahayitāse",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "itāse"
+          },
+          {
+            "reading": "mahitāse",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "itāse"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "mahayitāsāthe",
+          "mahitāsāthe"
+        ],
+        "paths": [
+          {
+            "reading": "mahayitāsāthe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "itāsāthe"
+          },
+          {
+            "reading": "mahitāsāthe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "itāsāthe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "mahayitādhve",
+          "mahitādhve"
+        ],
+        "paths": [
+          {
+            "reading": "mahayitādhve",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "itādhve"
+          },
+          {
+            "reading": "mahitādhve",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "itādhve"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "mahayitāhe",
+          "mahitāhe"
+        ],
+        "paths": [
+          {
+            "reading": "mahayitāhe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "itāhe"
+          },
+          {
+            "reading": "mahitāhe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "itāhe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "mahayitāsvahe",
+          "mahitāsvahe"
+        ],
+        "paths": [
+          {
+            "reading": "mahayitāsvahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "itāsvahe"
+          },
+          {
+            "reading": "mahitāsvahe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "itāsvahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "mahayitāsmahe",
+          "mahitāsmahe"
+        ],
+        "paths": [
+          {
+            "reading": "mahayitāsmahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "itāsmahe"
+          },
+          {
+            "reading": "mahitāsmahe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "itāsmahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "mahayiṣyate",
+          "mahiṣyate"
+        ],
+        "paths": [
+          {
+            "reading": "mahayiṣyate",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣyate"
+          },
+          {
+            "reading": "mahiṣyate",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣyate"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "mahayiṣyete",
+          "mahiṣyete"
+        ],
+        "paths": [
+          {
+            "reading": "mahayiṣyete",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣyete"
+          },
+          {
+            "reading": "mahiṣyete",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣyete"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "mahayiṣyante",
+          "mahiṣyante"
+        ],
+        "paths": [
+          {
+            "reading": "mahayiṣyante",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣyante"
+          },
+          {
+            "reading": "mahiṣyante",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣyante"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "mahayiṣyase",
+          "mahiṣyase"
+        ],
+        "paths": [
+          {
+            "reading": "mahayiṣyase",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣyase"
+          },
+          {
+            "reading": "mahiṣyase",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣyase"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "mahayiṣyethe",
+          "mahiṣyethe"
+        ],
+        "paths": [
+          {
+            "reading": "mahayiṣyethe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣyethe"
+          },
+          {
+            "reading": "mahiṣyethe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣyethe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "mahayiṣyadhve",
+          "mahiṣyadhve"
+        ],
+        "paths": [
+          {
+            "reading": "mahayiṣyadhve",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣyadhve"
+          },
+          {
+            "reading": "mahiṣyadhve",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣyadhve"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "mahayiṣye",
+          "mahiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "mahayiṣye",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣye"
+          },
+          {
+            "reading": "mahiṣye",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣye"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "mahayiṣyāvahe",
+          "mahiṣyāvahe"
+        ],
+        "paths": [
+          {
+            "reading": "mahayiṣyāvahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣyāvahe"
+          },
+          {
+            "reading": "mahiṣyāvahe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣyāvahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "mahayiṣyāmahe",
+          "mahiṣyāmahe"
+        ],
+        "paths": [
+          {
+            "reading": "mahayiṣyāmahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣyāmahe"
+          },
+          {
+            "reading": "mahiṣyāmahe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣyāmahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "amahayiṣyata",
+          "amahiṣyata"
+        ],
+        "paths": [
+          {
+            "reading": "amahayiṣyata",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣyata"
+          },
+          {
+            "reading": "amahiṣyata",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣyata"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "amahayiṣyetām",
+          "amahiṣyetām"
+        ],
+        "paths": [
+          {
+            "reading": "amahayiṣyetām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣyetām"
+          },
+          {
+            "reading": "amahiṣyetām",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣyetām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "amahayiṣyanta",
+          "amahiṣyanta"
+        ],
+        "paths": [
+          {
+            "reading": "amahayiṣyanta",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣyanta"
+          },
+          {
+            "reading": "amahiṣyanta",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣyanta"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "amahayiṣyathāḥ",
+          "amahiṣyathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "amahayiṣyathāḥ",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣyathāḥ"
+          },
+          {
+            "reading": "amahiṣyathāḥ",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣyathāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "amahayiṣyethām",
+          "amahiṣyethām"
+        ],
+        "paths": [
+          {
+            "reading": "amahayiṣyethām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣyethām"
+          },
+          {
+            "reading": "amahiṣyethām",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣyethām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "amahayiṣyadhvam",
+          "amahiṣyadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "amahayiṣyadhvam",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣyadhvam"
+          },
+          {
+            "reading": "amahiṣyadhvam",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣyadhvam"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "amahayiṣye",
+          "amahiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "amahayiṣye",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣye"
+          },
+          {
+            "reading": "amahiṣye",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣye"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "amahayiṣyāvahi",
+          "amahiṣyāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "amahayiṣyāvahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣyāvahi"
+          },
+          {
+            "reading": "amahiṣyāvahi",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣyāvahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "amahayiṣyāmahi",
+          "amahiṣyāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "amahayiṣyāmahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣyāmahi"
+          },
+          {
+            "reading": "amahiṣyāmahi",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣyāmahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "mahayiṣīṣṭa",
+          "mahiṣīṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "mahayiṣīṣṭa",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣīṣṭa"
+          },
+          {
+            "reading": "mahiṣīṣṭa",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣīṣṭa"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "mahayiṣīyāstām",
+          "mahiṣīyāstām"
+        ],
+        "paths": [
+          {
+            "reading": "mahayiṣīyāstām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣīyāstām"
+          },
+          {
+            "reading": "mahiṣīyāstām",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣīyāstām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "mahayiṣīran",
+          "mahiṣīran"
+        ],
+        "paths": [
+          {
+            "reading": "mahayiṣīran",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣīran"
+          },
+          {
+            "reading": "mahiṣīran",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣīran"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "mahayiṣīṣṭhāḥ",
+          "mahiṣīṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "mahayiṣīṣṭhāḥ",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣīṣṭhāḥ"
+          },
+          {
+            "reading": "mahiṣīṣṭhāḥ",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣīṣṭhāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "mahayiṣīyāsthām",
+          "mahiṣīyāsthām"
+        ],
+        "paths": [
+          {
+            "reading": "mahayiṣīyāsthām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣīyāsthām"
+          },
+          {
+            "reading": "mahiṣīyāsthām",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣīyāsthām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "mahayiṣīḍhvam",
+          "mahayiṣīdhvam",
+          "mahiṣīḍhvam",
+          "mahiṣīdhvam"
+        ],
+        "paths": [
+          {
+            "reading": "mahayiṣīḍhvam",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣīḍhvam"
+          },
+          {
+            "reading": "mahayiṣīdhvam",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣīdhvam"
+          },
+          {
+            "reading": "mahiṣīḍhvam",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣīḍhvam"
+          },
+          {
+            "reading": "mahiṣīdhvam",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣīdhvam"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "mahayiṣīya",
+          "mahiṣīya"
+        ],
+        "paths": [
+          {
+            "reading": "mahayiṣīya",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣīya"
+          },
+          {
+            "reading": "mahiṣīya",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣīya"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "mahayiṣīvahi",
+          "mahiṣīvahi"
+        ],
+        "paths": [
+          {
+            "reading": "mahayiṣīvahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣīvahi"
+          },
+          {
+            "reading": "mahiṣīvahi",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣīvahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "mahayiṣīmahi",
+          "mahiṣīmahi"
+        ],
+        "paths": [
+          {
+            "reading": "mahayiṣīmahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "mahay",
+            "ending": "iṣīmahi"
+          },
+          {
+            "reading": "mahiṣīmahi",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "mah",
+            "ending": "iṣīmahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0963_bhave",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "samitā"
+        ],
+        "paths": [
+          {
+            "reading": "samitā",
+            "outer_route": "seṭ",
+            "pre_it_factor": "sam",
+            "ending": "itā"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0963_bhave",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "samiṣyate"
+        ],
+        "paths": [
+          {
+            "reading": "samiṣyate",
+            "outer_route": "seṭ",
+            "pre_it_factor": "sam",
+            "ending": "iṣyate"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0963_bhave",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "asamiṣyata"
+        ],
+        "paths": [
+          {
+            "reading": "asamiṣyata",
+            "outer_route": "seṭ",
+            "pre_it_factor": "sam",
+            "ending": "iṣyata"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0963_bhave",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "samiṣīṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "samiṣīṣṭa",
+            "outer_route": "seṭ",
+            "pre_it_factor": "sam",
+            "ending": "iṣīṣṭa"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0132_bhave",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "samitā"
+        ],
+        "paths": [
+          {
+            "reading": "samitā",
+            "outer_route": "seṭ",
+            "pre_it_factor": "sam",
+            "ending": "itā"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0132_bhave",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "samiṣyate"
+        ],
+        "paths": [
+          {
+            "reading": "samiṣyate",
+            "outer_route": "seṭ",
+            "pre_it_factor": "sam",
+            "ending": "iṣyate"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0132_bhave",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "asamiṣyata"
+        ],
+        "paths": [
+          {
+            "reading": "asamiṣyata",
+            "outer_route": "seṭ",
+            "pre_it_factor": "sam",
+            "ending": "iṣyata"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0132_bhave",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "samiṣīṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "samiṣīṣṭa",
+            "outer_route": "seṭ",
+            "pre_it_factor": "sam",
+            "ending": "iṣīṣṭa"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1058_bhave",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "styātā",
+          "styāyitā"
+        ],
+        "paths": [
+          {
+            "reading": "styātā",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "styā",
+            "ending": "tā"
+          },
+          {
+            "reading": "styāyitā",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "styāy",
+            "ending": "itā"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1058_bhave",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "styāsyate",
+          "styāyiṣyate"
+        ],
+        "paths": [
+          {
+            "reading": "styāsyate",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "styā",
+            "ending": "syate"
+          },
+          {
+            "reading": "styāyiṣyate",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "styāy",
+            "ending": "iṣyate"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1058_bhave",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "astyāsyata",
+          "astyāyiṣyata"
+        ],
+        "paths": [
+          {
+            "reading": "astyāsyata",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "styā",
+            "ending": "syata"
+          },
+          {
+            "reading": "astyāyiṣyata",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "styāy",
+            "ending": "iṣyata"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1058_bhave",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "styāsīṣṭa",
+          "styāyiṣīṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "styāsīṣṭa",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "styā",
+            "ending": "sīṣṭa"
+          },
+          {
+            "reading": "styāyiṣīṣṭa",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "styāy",
+            "ending": "iṣīṣṭa"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1059_bhave",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "styātā",
+          "styāyitā"
+        ],
+        "paths": [
+          {
+            "reading": "styātā",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "styā",
+            "ending": "tā"
+          },
+          {
+            "reading": "styāyitā",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "styāy",
+            "ending": "itā"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1059_bhave",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "styāsyate",
+          "styāyiṣyate"
+        ],
+        "paths": [
+          {
+            "reading": "styāsyate",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "styā",
+            "ending": "syate"
+          },
+          {
+            "reading": "styāyiṣyate",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "styāy",
+            "ending": "iṣyate"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1059_bhave",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "astyāsyata",
+          "astyāyiṣyata"
+        ],
+        "paths": [
+          {
+            "reading": "astyāsyata",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "styā",
+            "ending": "syata"
+          },
+          {
+            "reading": "astyāyiṣyata",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "styāy",
+            "ending": "iṣyata"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1059_bhave",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "styāsīṣṭa",
+          "styāyiṣīṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "styāsīṣṭa",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "styā",
+            "ending": "sīṣṭa"
+          },
+          {
+            "reading": "styāyiṣīṣṭa",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "styāy",
+            "ending": "iṣīṣṭa"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0347_bhave",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "naṭitā"
+        ],
+        "paths": [
+          {
+            "reading": "naṭitā",
+            "outer_route": "seṭ",
+            "pre_it_factor": "naṭ",
+            "ending": "itā"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0347_bhave",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "naṭiṣyate"
+        ],
+        "paths": [
+          {
+            "reading": "naṭiṣyate",
+            "outer_route": "seṭ",
+            "pre_it_factor": "naṭ",
+            "ending": "iṣyate"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0347_bhave",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "anaṭiṣyata"
+        ],
+        "paths": [
+          {
+            "reading": "anaṭiṣyata",
+            "outer_route": "seṭ",
+            "pre_it_factor": "naṭ",
+            "ending": "iṣyata"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0347_bhave",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "naṭiṣīṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "naṭiṣīṣṭa",
+            "outer_route": "seṭ",
+            "pre_it_factor": "naṭ",
+            "ending": "iṣīṣṭa"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0890_bhave",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "naṭitā"
+        ],
+        "paths": [
+          {
+            "reading": "naṭitā",
+            "outer_route": "seṭ",
+            "pre_it_factor": "naṭ",
+            "ending": "itā"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0890_bhave",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "naṭiṣyate"
+        ],
+        "paths": [
+          {
+            "reading": "naṭiṣyate",
+            "outer_route": "seṭ",
+            "pre_it_factor": "naṭ",
+            "ending": "iṣyate"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0890_bhave",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "anaṭiṣyata"
+        ],
+        "paths": [
+          {
+            "reading": "anaṭiṣyata",
+            "outer_route": "seṭ",
+            "pre_it_factor": "naṭ",
+            "ending": "iṣyata"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0890_bhave",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "naṭiṣīṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "naṭiṣīṣṭa",
+            "outer_route": "seṭ",
+            "pre_it_factor": "naṭ",
+            "ending": "iṣīṣṭa"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "nāṭayitā",
+          "nāṭitā"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayitā",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "itā"
+          },
+          {
+            "reading": "nāṭitā",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "itā"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "nāṭayitārau",
+          "nāṭitārau"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayitārau",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "itārau"
+          },
+          {
+            "reading": "nāṭitārau",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "itārau"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "nāṭayitāraḥ",
+          "nāṭitāraḥ"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayitāraḥ",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "itāraḥ"
+          },
+          {
+            "reading": "nāṭitāraḥ",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "itāraḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "nāṭayitāse",
+          "nāṭitāse"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayitāse",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "itāse"
+          },
+          {
+            "reading": "nāṭitāse",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "itāse"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "nāṭayitāsāthe",
+          "nāṭitāsāthe"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayitāsāthe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "itāsāthe"
+          },
+          {
+            "reading": "nāṭitāsāthe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "itāsāthe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "nāṭayitādhve",
+          "nāṭitādhve"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayitādhve",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "itādhve"
+          },
+          {
+            "reading": "nāṭitādhve",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "itādhve"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "nāṭayitāhe",
+          "nāṭitāhe"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayitāhe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "itāhe"
+          },
+          {
+            "reading": "nāṭitāhe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "itāhe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "nāṭayitāsvahe",
+          "nāṭitāsvahe"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayitāsvahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "itāsvahe"
+          },
+          {
+            "reading": "nāṭitāsvahe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "itāsvahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "nāṭayitāsmahe",
+          "nāṭitāsmahe"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayitāsmahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "itāsmahe"
+          },
+          {
+            "reading": "nāṭitāsmahe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "itāsmahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "nāṭayiṣyate",
+          "nāṭiṣyate"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayiṣyate",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣyate"
+          },
+          {
+            "reading": "nāṭiṣyate",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣyate"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "nāṭayiṣyete",
+          "nāṭiṣyete"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayiṣyete",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣyete"
+          },
+          {
+            "reading": "nāṭiṣyete",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣyete"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "nāṭayiṣyante",
+          "nāṭiṣyante"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayiṣyante",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣyante"
+          },
+          {
+            "reading": "nāṭiṣyante",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣyante"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "nāṭayiṣyase",
+          "nāṭiṣyase"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayiṣyase",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣyase"
+          },
+          {
+            "reading": "nāṭiṣyase",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣyase"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "nāṭayiṣyethe",
+          "nāṭiṣyethe"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayiṣyethe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣyethe"
+          },
+          {
+            "reading": "nāṭiṣyethe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣyethe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "nāṭayiṣyadhve",
+          "nāṭiṣyadhve"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayiṣyadhve",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣyadhve"
+          },
+          {
+            "reading": "nāṭiṣyadhve",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣyadhve"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "nāṭayiṣye",
+          "nāṭiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayiṣye",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣye"
+          },
+          {
+            "reading": "nāṭiṣye",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣye"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "nāṭayiṣyāvahe",
+          "nāṭiṣyāvahe"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayiṣyāvahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣyāvahe"
+          },
+          {
+            "reading": "nāṭiṣyāvahe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣyāvahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "nāṭayiṣyāmahe",
+          "nāṭiṣyāmahe"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayiṣyāmahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣyāmahe"
+          },
+          {
+            "reading": "nāṭiṣyāmahe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣyāmahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "anāṭayiṣyata",
+          "anāṭiṣyata"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭayiṣyata",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣyata"
+          },
+          {
+            "reading": "anāṭiṣyata",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣyata"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "anāṭayiṣyetām",
+          "anāṭiṣyetām"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭayiṣyetām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣyetām"
+          },
+          {
+            "reading": "anāṭiṣyetām",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣyetām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "anāṭayiṣyanta",
+          "anāṭiṣyanta"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭayiṣyanta",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣyanta"
+          },
+          {
+            "reading": "anāṭiṣyanta",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣyanta"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "anāṭayiṣyathāḥ",
+          "anāṭiṣyathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭayiṣyathāḥ",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣyathāḥ"
+          },
+          {
+            "reading": "anāṭiṣyathāḥ",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣyathāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "anāṭayiṣyethām",
+          "anāṭiṣyethām"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭayiṣyethām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣyethām"
+          },
+          {
+            "reading": "anāṭiṣyethām",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣyethām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "anāṭayiṣyadhvam",
+          "anāṭiṣyadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭayiṣyadhvam",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣyadhvam"
+          },
+          {
+            "reading": "anāṭiṣyadhvam",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣyadhvam"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "anāṭayiṣye",
+          "anāṭiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭayiṣye",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣye"
+          },
+          {
+            "reading": "anāṭiṣye",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣye"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "anāṭayiṣyāvahi",
+          "anāṭiṣyāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭayiṣyāvahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣyāvahi"
+          },
+          {
+            "reading": "anāṭiṣyāvahi",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣyāvahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "anāṭayiṣyāmahi",
+          "anāṭiṣyāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭayiṣyāmahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣyāmahi"
+          },
+          {
+            "reading": "anāṭiṣyāmahi",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣyāmahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "nāṭayiṣīṣṭa",
+          "nāṭiṣīṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayiṣīṣṭa",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣīṣṭa"
+          },
+          {
+            "reading": "nāṭiṣīṣṭa",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣīṣṭa"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "nāṭayiṣīyāstām",
+          "nāṭiṣīyāstām"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayiṣīyāstām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣīyāstām"
+          },
+          {
+            "reading": "nāṭiṣīyāstām",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣīyāstām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "nāṭayiṣīran",
+          "nāṭiṣīran"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayiṣīran",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣīran"
+          },
+          {
+            "reading": "nāṭiṣīran",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣīran"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "nāṭayiṣīṣṭhāḥ",
+          "nāṭiṣīṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayiṣīṣṭhāḥ",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣīṣṭhāḥ"
+          },
+          {
+            "reading": "nāṭiṣīṣṭhāḥ",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣīṣṭhāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "nāṭayiṣīyāsthām",
+          "nāṭiṣīyāsthām"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayiṣīyāsthām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣīyāsthām"
+          },
+          {
+            "reading": "nāṭiṣīyāsthām",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣīyāsthām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "nāṭayiṣīḍhvam",
+          "nāṭayiṣīdhvam",
+          "nāṭiṣīdhvam"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayiṣīḍhvam",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣīḍhvam"
+          },
+          {
+            "reading": "nāṭayiṣīdhvam",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣīdhvam"
+          },
+          {
+            "reading": "nāṭiṣīdhvam",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣīdhvam"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "nāṭayiṣīya",
+          "nāṭiṣīya"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayiṣīya",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣīya"
+          },
+          {
+            "reading": "nāṭiṣīya",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣīya"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "nāṭayiṣīvahi",
+          "nāṭiṣīvahi"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayiṣīvahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣīvahi"
+          },
+          {
+            "reading": "nāṭiṣīvahi",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣīvahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "nāṭayiṣīmahi",
+          "nāṭiṣīmahi"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayiṣīmahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "nāṭay",
+            "ending": "iṣīmahi"
+          },
+          {
+            "reading": "nāṭiṣīmahi",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "nāṭ",
+            "ending": "iṣīmahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "nantā"
+        ],
+        "paths": [
+          {
+            "reading": "nantā",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "tā"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "nantārau"
+        ],
+        "paths": [
+          {
+            "reading": "nantārau",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "tārau"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "nantāraḥ"
+        ],
+        "paths": [
+          {
+            "reading": "nantāraḥ",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "tāraḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "nantāse"
+        ],
+        "paths": [
+          {
+            "reading": "nantāse",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "tāse"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "nantāsāthe"
+        ],
+        "paths": [
+          {
+            "reading": "nantāsāthe",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "tāsāthe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "nantādhve"
+        ],
+        "paths": [
+          {
+            "reading": "nantādhve",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "tādhve"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "nantāhe"
+        ],
+        "paths": [
+          {
+            "reading": "nantāhe",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "tāhe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "nantāsvahe"
+        ],
+        "paths": [
+          {
+            "reading": "nantāsvahe",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "tāsvahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "nantāsmahe"
+        ],
+        "paths": [
+          {
+            "reading": "nantāsmahe",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "tāsmahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "naṃsyate"
+        ],
+        "paths": [
+          {
+            "reading": "naṃsyate",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "syate"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "naṃsyete"
+        ],
+        "paths": [
+          {
+            "reading": "naṃsyete",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "syete"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "naṃsyante"
+        ],
+        "paths": [
+          {
+            "reading": "naṃsyante",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "syante"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "naṃsyase"
+        ],
+        "paths": [
+          {
+            "reading": "naṃsyase",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "syase"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "naṃsyethe"
+        ],
+        "paths": [
+          {
+            "reading": "naṃsyethe",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "syethe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "naṃsyadhve"
+        ],
+        "paths": [
+          {
+            "reading": "naṃsyadhve",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "syadhve"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "naṃsye"
+        ],
+        "paths": [
+          {
+            "reading": "naṃsye",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "sye"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "naṃsyāvahe"
+        ],
+        "paths": [
+          {
+            "reading": "naṃsyāvahe",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "syāvahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "naṃsyāmahe"
+        ],
+        "paths": [
+          {
+            "reading": "naṃsyāmahe",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "syāmahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "anaṃsyata"
+        ],
+        "paths": [
+          {
+            "reading": "anaṃsyata",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "syata"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "anaṃsyetām"
+        ],
+        "paths": [
+          {
+            "reading": "anaṃsyetām",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "syetām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "anaṃsyanta"
+        ],
+        "paths": [
+          {
+            "reading": "anaṃsyanta",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "syanta"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "anaṃsyathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "anaṃsyathāḥ",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "syathāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "anaṃsyethām"
+        ],
+        "paths": [
+          {
+            "reading": "anaṃsyethām",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "syethām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "anaṃsyadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "anaṃsyadhvam",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "syadhvam"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "anaṃsye"
+        ],
+        "paths": [
+          {
+            "reading": "anaṃsye",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "sye"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "anaṃsyāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "anaṃsyāvahi",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "syāvahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "anaṃsyāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "anaṃsyāmahi",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "syāmahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "naṃsīṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "naṃsīṣṭa",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "sīṣṭa"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "naṃsīyāstām"
+        ],
+        "paths": [
+          {
+            "reading": "naṃsīyāstām",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "sīyāstām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "naṃsīran"
+        ],
+        "paths": [
+          {
+            "reading": "naṃsīran",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "sīran"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "naṃsīṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "naṃsīṣṭhāḥ",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "sīṣṭhāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "naṃsīyāsthām"
+        ],
+        "paths": [
+          {
+            "reading": "naṃsīyāsthām",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "sīyāsthām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "naṃsīdhvam"
+        ],
+        "paths": [
+          {
+            "reading": "naṃsīdhvam",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "sīdhvam"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "naṃsīya"
+        ],
+        "paths": [
+          {
+            "reading": "naṃsīya",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "sīya"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "naṃsīvahi"
+        ],
+        "paths": [
+          {
+            "reading": "naṃsīvahi",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "sīvahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "naṃsīmahi"
+        ],
+        "paths": [
+          {
+            "reading": "naṃsīmahi",
+            "outer_route": "aniṭ",
+            "pre_it_factor": "nam",
+            "ending": "sīmahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "śāmayitā",
+          "śāmitā"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayitā",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "itā"
+          },
+          {
+            "reading": "śāmitā",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "itā"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "śāmayitārau",
+          "śāmitārau"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayitārau",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "itārau"
+          },
+          {
+            "reading": "śāmitārau",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "itārau"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "śāmayitāraḥ",
+          "śāmitāraḥ"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayitāraḥ",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "itāraḥ"
+          },
+          {
+            "reading": "śāmitāraḥ",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "itāraḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "śāmayitāse",
+          "śāmitāse"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayitāse",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "itāse"
+          },
+          {
+            "reading": "śāmitāse",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "itāse"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "śāmayitāsāthe",
+          "śāmitāsāthe"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayitāsāthe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "itāsāthe"
+          },
+          {
+            "reading": "śāmitāsāthe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "itāsāthe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "śāmayitādhve",
+          "śāmitādhve"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayitādhve",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "itādhve"
+          },
+          {
+            "reading": "śāmitādhve",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "itādhve"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "śāmayitāhe",
+          "śāmitāhe"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayitāhe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "itāhe"
+          },
+          {
+            "reading": "śāmitāhe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "itāhe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "śāmayitāsvahe",
+          "śāmitāsvahe"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayitāsvahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "itāsvahe"
+          },
+          {
+            "reading": "śāmitāsvahe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "itāsvahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "śāmayitāsmahe",
+          "śāmitāsmahe"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayitāsmahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "itāsmahe"
+          },
+          {
+            "reading": "śāmitāsmahe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "itāsmahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "śāmayiṣyate",
+          "śāmiṣyate"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayiṣyate",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣyate"
+          },
+          {
+            "reading": "śāmiṣyate",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣyate"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "śāmayiṣyete",
+          "śāmiṣyete"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayiṣyete",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣyete"
+          },
+          {
+            "reading": "śāmiṣyete",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣyete"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "śāmayiṣyante",
+          "śāmiṣyante"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayiṣyante",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣyante"
+          },
+          {
+            "reading": "śāmiṣyante",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣyante"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "śāmayiṣyase",
+          "śāmiṣyase"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayiṣyase",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣyase"
+          },
+          {
+            "reading": "śāmiṣyase",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣyase"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "śāmayiṣyethe",
+          "śāmiṣyethe"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayiṣyethe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣyethe"
+          },
+          {
+            "reading": "śāmiṣyethe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣyethe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "śāmayiṣyadhve",
+          "śāmiṣyadhve"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayiṣyadhve",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣyadhve"
+          },
+          {
+            "reading": "śāmiṣyadhve",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣyadhve"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "śāmayiṣye",
+          "śāmiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayiṣye",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣye"
+          },
+          {
+            "reading": "śāmiṣye",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣye"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "śāmayiṣyāvahe",
+          "śāmiṣyāvahe"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayiṣyāvahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣyāvahe"
+          },
+          {
+            "reading": "śāmiṣyāvahe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣyāvahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "śāmayiṣyāmahe",
+          "śāmiṣyāmahe"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayiṣyāmahe",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣyāmahe"
+          },
+          {
+            "reading": "śāmiṣyāmahe",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣyāmahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "aśāmayiṣyata",
+          "aśāmiṣyata"
+        ],
+        "paths": [
+          {
+            "reading": "aśāmayiṣyata",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣyata"
+          },
+          {
+            "reading": "aśāmiṣyata",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣyata"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "aśāmayiṣyetām",
+          "aśāmiṣyetām"
+        ],
+        "paths": [
+          {
+            "reading": "aśāmayiṣyetām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣyetām"
+          },
+          {
+            "reading": "aśāmiṣyetām",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣyetām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "aśāmayiṣyanta",
+          "aśāmiṣyanta"
+        ],
+        "paths": [
+          {
+            "reading": "aśāmayiṣyanta",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣyanta"
+          },
+          {
+            "reading": "aśāmiṣyanta",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣyanta"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "aśāmayiṣyathāḥ",
+          "aśāmiṣyathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "aśāmayiṣyathāḥ",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣyathāḥ"
+          },
+          {
+            "reading": "aśāmiṣyathāḥ",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣyathāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "aśāmayiṣyethām",
+          "aśāmiṣyethām"
+        ],
+        "paths": [
+          {
+            "reading": "aśāmayiṣyethām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣyethām"
+          },
+          {
+            "reading": "aśāmiṣyethām",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣyethām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "aśāmayiṣyadhvam",
+          "aśāmiṣyadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "aśāmayiṣyadhvam",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣyadhvam"
+          },
+          {
+            "reading": "aśāmiṣyadhvam",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣyadhvam"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "aśāmayiṣye",
+          "aśāmiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "aśāmayiṣye",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣye"
+          },
+          {
+            "reading": "aśāmiṣye",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣye"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "aśāmayiṣyāvahi",
+          "aśāmiṣyāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "aśāmayiṣyāvahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣyāvahi"
+          },
+          {
+            "reading": "aśāmiṣyāvahi",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣyāvahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "aśāmayiṣyāmahi",
+          "aśāmiṣyāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "aśāmayiṣyāmahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣyāmahi"
+          },
+          {
+            "reading": "aśāmiṣyāmahi",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣyāmahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "śāmayiṣīṣṭa",
+          "śāmiṣīṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayiṣīṣṭa",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣīṣṭa"
+          },
+          {
+            "reading": "śāmiṣīṣṭa",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣīṣṭa"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "śāmayiṣīyāstām",
+          "śāmiṣīyāstām"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayiṣīyāstām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣīyāstām"
+          },
+          {
+            "reading": "śāmiṣīyāstām",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣīyāstām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "śāmayiṣīran",
+          "śāmiṣīran"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayiṣīran",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣīran"
+          },
+          {
+            "reading": "śāmiṣīran",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣīran"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "śāmayiṣīṣṭhāḥ",
+          "śāmiṣīṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayiṣīṣṭhāḥ",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣīṣṭhāḥ"
+          },
+          {
+            "reading": "śāmiṣīṣṭhāḥ",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣīṣṭhāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "śāmayiṣīyāsthām",
+          "śāmiṣīyāsthām"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayiṣīyāsthām",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣīyāsthām"
+          },
+          {
+            "reading": "śāmiṣīyāsthām",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣīyāsthām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "śāmayiṣīḍhvam",
+          "śāmayiṣīdhvam",
+          "śāmiṣīdhvam"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayiṣīḍhvam",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣīḍhvam"
+          },
+          {
+            "reading": "śāmayiṣīdhvam",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣīdhvam"
+          },
+          {
+            "reading": "śāmiṣīdhvam",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣīdhvam"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "śāmayiṣīya",
+          "śāmiṣīya"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayiṣīya",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣīya"
+          },
+          {
+            "reading": "śāmiṣīya",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣīya"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "śāmayiṣīvahi",
+          "śāmiṣīvahi"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayiṣīvahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣīvahi"
+          },
+          {
+            "reading": "śāmiṣīvahi",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣīvahi"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "śāmayiṣīmahi",
+          "śāmiṣīmahi"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayiṣīmahi",
+            "outer_route": "seṭ",
+            "pre_it_factor": "śāmay",
+            "ending": "iṣīmahi"
+          },
+          {
+            "reading": "śāmiṣīmahi",
+            "outer_route": "ciṇvat",
+            "pre_it_factor": "śām",
+            "ending": "iṣīmahi"
+          }
+        ]
+      }
+    ],
+    "panels": [
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lut",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "ashirling",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lut",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "ashirling",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lut",
+        "positions": 9,
+        "readings": 18
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 18
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 18
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "ashirling",
+        "positions": 9,
+        "readings": 20
+      },
+      {
+        "profile": "DP_01_0963_bhave",
+        "lakara": "lut",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_01_0963_bhave",
+        "lakara": "lrt",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_01_0963_bhave",
+        "lakara": "lrng",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_01_0963_bhave",
+        "lakara": "ashirling",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_04_0132_bhave",
+        "lakara": "lut",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_04_0132_bhave",
+        "lakara": "lrt",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_04_0132_bhave",
+        "lakara": "lrng",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_04_0132_bhave",
+        "lakara": "ashirling",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_01_1058_bhave",
+        "lakara": "lut",
+        "positions": 1,
+        "readings": 2
+      },
+      {
+        "profile": "DP_01_1058_bhave",
+        "lakara": "lrt",
+        "positions": 1,
+        "readings": 2
+      },
+      {
+        "profile": "DP_01_1058_bhave",
+        "lakara": "lrng",
+        "positions": 1,
+        "readings": 2
+      },
+      {
+        "profile": "DP_01_1058_bhave",
+        "lakara": "ashirling",
+        "positions": 1,
+        "readings": 2
+      },
+      {
+        "profile": "DP_01_1059_bhave",
+        "lakara": "lut",
+        "positions": 1,
+        "readings": 2
+      },
+      {
+        "profile": "DP_01_1059_bhave",
+        "lakara": "lrt",
+        "positions": 1,
+        "readings": 2
+      },
+      {
+        "profile": "DP_01_1059_bhave",
+        "lakara": "lrng",
+        "positions": 1,
+        "readings": 2
+      },
+      {
+        "profile": "DP_01_1059_bhave",
+        "lakara": "ashirling",
+        "positions": 1,
+        "readings": 2
+      },
+      {
+        "profile": "DP_01_0347_bhave",
+        "lakara": "lut",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_01_0347_bhave",
+        "lakara": "lrt",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_01_0347_bhave",
+        "lakara": "lrng",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_01_0347_bhave",
+        "lakara": "ashirling",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_01_0890_bhave",
+        "lakara": "lut",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_01_0890_bhave",
+        "lakara": "lrt",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_01_0890_bhave",
+        "lakara": "lrng",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_01_0890_bhave",
+        "lakara": "ashirling",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lut",
+        "positions": 9,
+        "readings": 18
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 18
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 18
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "ashirling",
+        "positions": 9,
+        "readings": 19
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lut",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "ashirling",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lut",
+        "positions": 9,
+        "readings": 18
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 18
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 18
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "ashirling",
+        "positions": 9,
+        "readings": 19
+      }
+    ],
+    "complete_nine_slot_paradigms": 24
+  },
+  "contextual_profiles": {
+    "DP_01_1042_karmani": {
+      "root_address": "01.1042",
+      "dhatu": "माहृँ",
+      "artha": "माने",
+      "valency_in_edition": "S",
+      "construction": "karmani",
+      "present_factor": "māhy"
+    },
+    "DP_01_0831_karmani": {
+      "root_address": "01.0831",
+      "dhatu": "महँ",
+      "artha": "पूजायाम्",
+      "valency_in_edition": "S",
+      "construction": "karmani",
+      "present_factor": "mahy"
+    },
+    "DP_10_0406_karmani": {
+      "root_address": "10.0406",
+      "dhatu": "मह",
+      "artha": "पूजायाम्",
+      "valency_in_edition": "S",
+      "construction": "karmani",
+      "present_factor": "mahy"
+    },
+    "DP_01_0963_bhave": {
+      "root_address": "01.0963",
+      "dhatu": "षमँ",
+      "artha": "अवैकल्ये",
+      "valency_in_edition": "A",
+      "construction": "bhave",
+      "present_factor": "samy"
+    },
+    "DP_04_0132_bhave": {
+      "root_address": "04.0132",
+      "dhatu": "समीँ",
+      "artha": "परिणामे",
+      "valency_in_edition": "A",
+      "construction": "bhave",
+      "present_factor": "samy"
+    },
+    "DP_01_1058_bhave": {
+      "root_address": "01.1058",
+      "dhatu": "स्त्यै",
+      "artha": "शब्दसङ्घातयोः",
+      "valency_in_edition": "A",
+      "construction": "bhave",
+      "present_factor": "styāy"
+    },
+    "DP_01_1059_bhave": {
+      "root_address": "01.1059",
+      "dhatu": "ष्ट्यै",
+      "artha": "शब्दसङ्घातयोः",
+      "valency_in_edition": "A",
+      "construction": "bhave",
+      "present_factor": "styāy"
+    },
+    "DP_01_0347_bhave": {
+      "root_address": "01.0347",
+      "dhatu": "णटँ",
+      "artha": "नृत्तौ",
+      "valency_in_edition": "A",
+      "construction": "bhave",
+      "present_factor": "naṭy"
+    },
+    "DP_01_0890_bhave": {
+      "root_address": "01.0890",
+      "dhatu": "णटँ",
+      "artha": "नृत्तौ गतौ च",
+      "valency_in_edition": "A",
+      "construction": "bhave",
+      "present_factor": "naṭy"
+    },
+    "DP_10_0018_karmani": {
+      "root_address": "10.0018",
+      "dhatu": "नटँ",
+      "artha": "अवस्पन्दने",
+      "valency_in_edition": "S",
+      "construction": "karmani",
+      "present_factor": "nāṭy"
+    },
+    "DP_01_1136_karmani": {
+      "root_address": "01.1136",
+      "dhatu": "णमँ",
+      "artha": "प्रह्वत्वे शब्दे च",
+      "valency_in_edition": "S",
+      "construction": "karmani",
+      "present_factor": "namy"
+    },
+    "DP_10_0218_karmani": {
+      "root_address": "10.0218",
+      "dhatu": "शमँ",
+      "artha": "आलोचने",
+      "valency_in_edition": "S",
+      "construction": "karmani",
+      "present_factor": "śāmy"
+    }
+  },
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "Sixty simple and periphrastic perfect requests remain on the nonagentive grid; the pada of each auxiliary and the source policy for ām must be proved.",
+    "The pippalyādi compounds, four 4.105 fields and the independent function of 5.56 k."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Checked 240 source cells, the actual outer-affix and iṭ owners, the two styai branches, eligibility by valency and the single dental/retroflex discrepancy."
+  },
+  "declared_nonagent_grid_done": 540,
+  "declared_nonagent_grid_total": 600,
+  "additional_word_vs_archive": 1
+}
