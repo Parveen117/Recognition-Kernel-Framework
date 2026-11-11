@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG267 — Four future bases and the vowel-initial blessings of sowing and carrying.** [Packet](four_ordered_ni_futures_and_weak_blessings/README.md). 288 positions, 288 readings and 288 paths. Cumulative **49,166**.
+
 **PG266 — Sowing, carrying, piling and smearing after two preverbs.** [Packet](sow_carry_pile_and_smear_with_ordered_ni/README.md). 288 positions, 312 readings and 312 paths. Cumulative **48,878**.
 
 **PG265 — Travelling forms in the Ṛgveda and the two wheels of the wedding chariot.** [Packet](rigvedic_ya_participles_and_the_wedding_chariot/README.md). Zero new finite positions. Cumulative **48,590**.
