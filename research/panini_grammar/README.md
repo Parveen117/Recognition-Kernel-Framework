@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG209 — Ni with śam in seeing and hearing.** [Packet](nisam_seeing_and_hearing/README.md). 72 positions, 72 readings and 72 paths. Cumulative **42,485**.
+
 **PG208 — Causative aorists recover the two styai teaching forms.** [Packet](styai_causative_and_cang/README.md). 360 positions, 510 readings and 510 paths. Cumulative **42,413**.
 
 **PG207 — Two styai teaching forms across all ten desiderative lakāras.** [Packet](styai_dental_and_retroflex_desideratives/README.md). 180 positions, 256 readings and 256 paths. Cumulative **42,053**.

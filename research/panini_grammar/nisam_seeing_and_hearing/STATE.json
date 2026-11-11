@@ -1,0 +1,718 @@
+{
+  "schema": "rkf.panini.pg209.state.v1",
+  "author": "Monty",
+  "date": "2026-11-12",
+  "baseline": {
+    "path": "research/panini_grammar/styai_causative_and_cang/STATE.json",
+    "commit": "0141f15e93d7f22e12ab9d3bdc73f62758db595a",
+    "git_blob_sha": "ff563a9b89197ba24f4e64f88fd04f6189a91a6a",
+    "sha256": "774bf6c0bd043ef5a1523aaa9ecfd2015d36afb6fd33680b6fa393fdd73d0488",
+    "bytes": 137103
+  },
+  "finite_positions": 42485,
+  "new_positions": 72,
+  "new_position_readings": 72,
+  "new_written_table_readings": 72,
+  "retained_path_count": 72,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "niśāmayati"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "niśāmayataḥ"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "niśāmayanti"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "niśāmayasi"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "niśāmayathaḥ"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "niśāmayatha"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "niśāmayāmi"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "niśāmayāvaḥ"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "niśāmayāmaḥ"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "niśāmayatu"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "niśāmayatām"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "niśāmayantu"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "niśāmaya"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "niśāmayatam"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "niśāmayata"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "niśāmayāni"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "niśāmayāva"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "niśāmayāma"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "nyaśāmayat"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "nyaśāmayatām"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "nyaśāmayan"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "nyaśāmayaḥ"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "nyaśāmayatam"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "nyaśāmayata"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "nyaśāmayam"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "nyaśāmayāva"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "nyaśāmayāma"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "niśāmayet"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "niśāmayetām"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "niśāmayeyuḥ"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "niśāmayeḥ"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "niśāmayetam"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "niśāmayeta"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "niśāmayeyam"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "niśāmayeva"
+        ]
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "niśāmayema"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "niśamayati"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "niśamayataḥ"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "niśamayanti"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "niśamayasi"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "niśamayathaḥ"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "niśamayatha"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "niśamayāmi"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "niśamayāvaḥ"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "niśamayāmaḥ"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "niśamayatu"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "niśamayatām"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "niśamayantu"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "niśamaya"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "niśamayatam"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "niśamayata"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "niśamayāni"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "niśamayāva"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "niśamayāma"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "nyaśamayat"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "nyaśamayatām"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "nyaśamayan"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "nyaśamayaḥ"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "nyaśamayatam"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "nyaśamayata"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "nyaśamayam"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "nyaśamayāva"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "nyaśamayāma"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "niśamayet"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "niśamayetām"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "niśamayeyuḥ"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "niśamayeḥ"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "niśamayetam"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "niśamayeta"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "niśamayeyam"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "niśamayeva"
+        ]
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "niśamayema"
+        ]
+      }
+    ],
+    "panels": [
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lat",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "see_ni_sham_P",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lat",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "hear_ni_sham_P",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 9
+      }
+    ],
+    "complete_nine_slot_paradigms": 8
+  },
+  "contextual_profiles": {
+    "see_ni_sham_P": {
+      "object_word": "rūpam",
+      "predicate": "visual perception in Puruṣakāra",
+      "mit": false,
+      "factor": "śāmay"
+    },
+    "hear_ni_sham_P": {
+      "object_word": "ślokam",
+      "predicate": "hearing a verse in Puruṣakāra",
+      "mit": true,
+      "factor": "śamay"
+    }
+  },
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "Inventory the Bhāgavata listening and perception words with their own token numbers and clauses, including the absolutives.",
+    "Four literal primary 4.105 affix assignments, an independent purpose of the 5.56 marker and executable verification."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Checked source notes at 01.0938, 72 unprefixed components in the comparison archive, the two ni+aṭ outputs and the independent Bhāgavata imperative."
+  },
+  "direct_multiple_affix_fields": 99,
+  "inferred_fields": 0,
+  "open_fields": 4,
+  "marker_questions_without_specific_effect": 1,
+  "finite_component_archive_matches": 72
+}
