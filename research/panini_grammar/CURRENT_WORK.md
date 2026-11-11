@@ -1,4 +1,4 @@
-# Pāṇini grammar · current written coverage at PG204
+# Pāṇini grammar · current written coverage at PG205
 
 Monty · 12 November 2026
 
@@ -19,6 +19,7 @@ PG202 records a dictionary’s explicit *ktin* at Uṇādi 4.105 and the two *m�
 | The word *strī* | Both literal *ḍaṭ* and source-attested *ḍraṭ* are recorded. All **24 cases and numbers, 26 readings**, with 11 Ṛgvedic examples across six positions. | Only the r-bearing suffix supplies the r by the documented steps. [The readings and the two accusatives](stri_affix_and_vedic_cases/README.md) |
 | *Atistri* compounds | **72 positions and 87 selected readings** in three genders. The Bālamanoramā selects *atistrayaḥ* before *jas*. | Four masculine/feminine nominative and vocative cells differ from the archive. [Full forms and source differences](atistri_compound_priority/README.md) |
 | Fish, feminine stems and inflection | **72 nominal positions, 73 readings** for *matsya, matsī, matsyā*. The fish has two independently specified masculine accent histories. | Wider lexical senses, feminine accent evidence and the separate 4.105 extension. [Three case tables and readings](matsya_feminine_and_case/README.md) |
+| Uṇādi *śaṇḍha* and the lotus collective | **120 nominal positions, 125 readings**. In Māgha 11.15 the dual verb and commentary choose nominative dual from five readings of *ṣaṇḍe*. | The personal terms, bull and lotus cluster have separately sourced histories. [Words and the two verse contexts](sandha_and_lotus_collectives/README.md) |
 | Agent nouns and object case | Three construction histories for *kartā* yield **27** two-word readings and **18** distinct unaccented pairs. | Nine accusative pairs admit both habitual agent and finite future readings. [Three-way comparison](agent_noun_object_government/README.md) |
 | Ṛgvedic agent nouns in context | **29 head tokens** reviewed across five accent-labelled entries. All 15 occurrences of the slayer have a case-identified dependent, as do the six preaccenting *kartṛ* examples. | Four other *kartṛ* tokens have no dependent assigned. [Readings and exact verse locators](rigvedic_agent_accent_and_objects/README.md) |
 | Vedic ploughman and oxen | **Seven passages in six traditions** give five combinations of preverb, verb and animal case. Ten Paippalāda occurrences have an identified nominal role. | The reported singular animal reading and the selected plural reading retain their own editions. [Parallel clauses and TEI locators](vedic_plough_clause_readings/README.md) |
