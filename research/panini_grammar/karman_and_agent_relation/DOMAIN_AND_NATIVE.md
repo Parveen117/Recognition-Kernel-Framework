@@ -1,0 +1,3 @@
+# Typed role relation
+
+The carrier extends the prior role relation by a pair of event nodes for causing and the original process. A participant edge identifies which event it belongs to; a separate designation edge names its grammatical status. One participant can have a set of simultaneous designations, or a genuine union of mutually exclusive histories, with different types for the two. Projection preserves participant identity, event identity and the controller of agreement. Each displayed case/phrase is the zero-reading of a source-indexed witness. Reversing incidence recovers the principal and secondary objects and leaves implicit actors as variables. Filling an implicit actor with an unsupported personal name would not commute with that specialization.

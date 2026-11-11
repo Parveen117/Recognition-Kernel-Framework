@@ -1,0 +1,488 @@
+{
+  "rows": [
+    {
+      "id": "MAT_OBJECT",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.49",
+        "literal": "कटं करोति"
+      },
+      "phrase": "kaṭaṃ karoti",
+      "focus": {
+        "token": "kaṭam",
+        "lemma": "kaṭa",
+        "number": "SG"
+      },
+      "event": "MAKE",
+      "event_role": "intended result",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "the actor intends the production of the mat",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "VILLAGE_GOAL",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.49",
+        "literal": "ग्रामं गच्छति"
+      },
+      "phrase": "grāmaṃ gacchati",
+      "focus": {
+        "token": "grāmam",
+        "lemma": "grāma",
+        "number": "SG"
+      },
+      "event": "GO",
+      "event_role": "intended destination",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "the moving actor intends to reach the village",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "POISON",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.50",
+        "literal": "विषं भक्षयति"
+      },
+      "phrase": "viṣaṃ bhakṣayati",
+      "focus": {
+        "token": "viṣam",
+        "lemma": "viṣa",
+        "number": "SG"
+      },
+      "event": "EAT",
+      "event_role": "undesired object",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "an undesired item is related to the action in the manner of an intended object",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "THIEVES_SEEN",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.50",
+        "literal": "चौरान् पश्यति"
+      },
+      "phrase": "caurān paśyati",
+      "focus": {
+        "token": "caurān",
+        "lemma": "caura",
+        "number": "PL"
+      },
+      "event": "SEE",
+      "event_role": "unwanted or unselected object of perception",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "the commentary places the perception in the anīpsita frame",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "HAND",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.51",
+        "literal": "पाणिना कांस्यपात्र्यां गां दोग्धि पयः"
+      },
+      "phrase": "pāṇinā kāṃsyapātryāṃ gāṃ dogdhi payaḥ",
+      "focus": {
+        "token": "pāṇinā",
+        "lemma": "pāṇi",
+        "number": "SG"
+      },
+      "event": "MILK_COW",
+      "event_role": "means of milking",
+      "karaka": "karaṇa",
+      "case": "instrumental",
+      "guard": "the hand already has a specific instrument designation",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "VESSEL",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.51",
+        "literal": "पाणिना कांस्यपात्र्यां गां दोग्धि पयः"
+      },
+      "phrase": "pāṇinā kāṃsyapātryāṃ gāṃ dogdhi payaḥ",
+      "focus": {
+        "token": "kāṃsyapātryām",
+        "lemma": "kāṃsyapātrī",
+        "number": "SG"
+      },
+      "event": "MILK_COW",
+      "event_role": "vessel supporting the process",
+      "karaka": "adhikaraṇa",
+      "case": "locative",
+      "guard": "the vessel already has its locus designation",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "COW",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.51",
+        "literal": "पाणिना कांस्यपात्र्यां गां दोग्धि पयः"
+      },
+      "phrase": "pāṇinā kāṃsyapātryāṃ gāṃ dogdhi payaḥ",
+      "focus": {
+        "token": "gām",
+        "lemma": "go",
+        "number": "SG"
+      },
+      "event": "MILK_COW",
+      "event_role": "cow as secondary object",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "the selected cow lacks a competing specific apādāna designation",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "MILK",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.51",
+        "literal": "पाणिना कांस्यपात्र्यां गां दोग्धि पयः"
+      },
+      "phrase": "pāṇinā kāṃsyapātryāṃ gāṃ dogdhi payaḥ",
+      "focus": {
+        "token": "payaḥ",
+        "lemma": "payas",
+        "number": "SG"
+      },
+      "event": "MILK_COW",
+      "event_role": "milk as principal object",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "the milk is the sought material",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "VEDA_PUPIL",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.52",
+        "literal": "पाठयति माणवकं वेदम्"
+      },
+      "phrase": "pāṭhayati māṇavakaṃ vedam",
+      "focus": {
+        "token": "māṇavakam",
+        "lemma": "māṇavaka",
+        "number": "SG"
+      },
+      "event": "CAUSE_RECITE",
+      "event_role": "base reciter as causee",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "the underlying word-object event is recitation; the base actor is the causee",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0,
+      "event_structure": {
+        "outer": "CAUSE(e0,causer,e1)",
+        "inner": "RECITE(e1,causee,text)"
+      }
+    },
+    {
+      "id": "VEDA_TEXT",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.52",
+        "literal": "पाठयति माणवकं वेदम्"
+      },
+      "phrase": "pāṭhayati māṇavakaṃ vedam",
+      "focus": {
+        "token": "vedam",
+        "lemma": "veda",
+        "number": "SG"
+      },
+      "event": "CAUSE_RECITE",
+      "event_role": "prior object retained as content",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "the Veda remains the material of recitation",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0,
+      "event_structure": {
+        "outer": "CAUSE(e0,causer,e1)",
+        "inner": "RECITE(e1,causee,text)"
+      }
+    },
+    {
+      "id": "COOK_CAUSEE",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.52",
+        "literal": "पाचयत्योदनं देवदत्तेनेति"
+      },
+      "phrase": "pācayaty odanaṃ devadattena",
+      "focus": {
+        "token": "devadattena",
+        "lemma": "devadatta",
+        "number": "SG"
+      },
+      "event": "CAUSE_COOK",
+      "event_role": "base cook as causee",
+      "karaka": "kartṛ of base event",
+      "case": "instrumental",
+      "guard": "the source gives this as the contrast to the listed promotion classes",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0,
+      "event_structure": {
+        "outer": "CAUSE(e0,causer,e1)",
+        "inner": "COOK(e1,causee,food)"
+      }
+    },
+    {
+      "id": "MAKE_CAUSEE_ACC",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.53",
+        "literal": "कारयति कटं देवदत्तम्"
+      },
+      "phrase": "kārayati kaṭaṃ devadattam",
+      "focus": {
+        "token": "devadattam",
+        "lemma": "devadatta",
+        "number": "SG"
+      },
+      "event": "CAUSE_MAKE",
+      "event_role": "maker as causee",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "one licensed role for the base actor of kṛ",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0,
+      "event_structure": {
+        "outer": "CAUSE(e0,causer,e1)",
+        "inner": "MAKE(e1,causee,artifact)"
+      }
+    },
+    {
+      "id": "MAKE_CAUSEE_INS",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.53",
+        "literal": "देवदत्तेनेति वा"
+      },
+      "phrase": "kārayati kaṭaṃ devadattena",
+      "focus": {
+        "token": "devadattena",
+        "lemma": "devadatta",
+        "number": "SG"
+      },
+      "event": "CAUSE_MAKE",
+      "event_role": "maker as causee",
+      "karaka": "kartṛ of base event",
+      "case": "instrumental",
+      "guard": "alternate source continuation after the first quoted clause",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0,
+      "event_structure": {
+        "outer": "CAUSE(e0,causer,e1)",
+        "inner": "MAKE(e1,causee,artifact)"
+      }
+    },
+    {
+      "id": "PERSON_AGENT",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.54",
+        "literal": "देवदत्तः पचति"
+      },
+      "phrase": "devadattaḥ pacati",
+      "focus": {
+        "token": "devadattaḥ",
+        "lemma": "devadatta",
+        "number": "SG"
+      },
+      "event": "COOK",
+      "event_role": "independently construed actor",
+      "karaka": "kartṛ",
+      "case": "nominative",
+      "guard": "Devadatta is presented as independent in accomplishing the event",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "POT_AGENT",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.54",
+        "literal": "स्थाली पचति"
+      },
+      "phrase": "sthālī pacati",
+      "focus": {
+        "token": "sthālī",
+        "lemma": "sthālī",
+        "number": "SG"
+      },
+      "event": "COOK",
+      "event_role": "independently construed actor",
+      "karaka": "kartṛ",
+      "case": "nominative",
+      "guard": "the pot is itself construed as the independent actor",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "INDEPENDENT_CAUSER",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.55",
+        "literal": "कुर्वाणं प्रयुङ्क्ते, कारयति"
+      },
+      "phrase": "kārayati",
+      "focus": {
+        "token": "∅",
+        "lemma": "contextual_causer",
+        "number": "SG"
+      },
+      "event": "CAUSE_MAKE",
+      "event_role": "instigator and outer actor",
+      "karaka": "hetu and kartṛ",
+      "case": "expressed by tiṅ",
+      "guard": "the instigator of the independent maker is the actor of causing; no overt subject nominal is supplied",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0,
+      "event_structure": {
+        "outer": "CAUSE(e0,causer,e1)",
+        "inner": "MAKE(e1,causee,artifact)"
+      }
+    }
+  ],
+  "rule_routes": [
+    {
+      "sutra": "1.4.49",
+      "guard": "actor’s most intended attainment",
+      "output": "karman"
+    },
+    {
+      "sutra": "1.4.50",
+      "guard": "analogous action-object relation, including undesired or neutral",
+      "output": "karman"
+    },
+    {
+      "sutra": "1.4.51",
+      "guard": "eligible unassigned secondary participant in selected lexical frame",
+      "output": "karman"
+    },
+    {
+      "sutra": "1.4.52",
+      "guard": "source-selected original actor with ṇic",
+      "output": "causee karman"
+    },
+    {
+      "sutra": "1.4.53",
+      "guard": "original actor with causative hṛ/kṛ",
+      "output": "optional karman"
+    },
+    {
+      "sutra": "1.4.54",
+      "guard": "independently construed participant",
+      "output": "kartṛ"
+    },
+    {
+      "sutra": "1.4.55",
+      "guard": "instigator of that independently construed actor",
+      "output": "hetu AND kartṛ"
+    }
+  ],
+  "reviewed_queries": [
+    {
+      "id": "MILKING_ALL_SLOTS",
+      "input": {
+        "phrase": "pāṇinā kāṃsyapātryāṃ gāṃ dogdhi payaḥ"
+      },
+      "row_ids": [
+        "HAND",
+        "VESSEL",
+        "COW",
+        "MILK"
+      ],
+      "explanation": "One event has four overt role-bearing nominals; two accusatives have distinct functions.",
+      "projection": null,
+      "value": null
+    },
+    {
+      "id": "WHY_TWO_ACCUSATIVES",
+      "input": {
+        "event": "MILK_COW",
+        "case": "accusative"
+      },
+      "row_ids": [
+        "COW",
+        "MILK"
+      ],
+      "explanation": "Secondary and principal karman retain different predicates.",
+      "projection": "case",
+      "value": "accusative"
+    },
+    {
+      "id": "CAUSEE_DOUBLE",
+      "input": {
+        "event": "CAUSE_MAKE",
+        "participant": "base maker"
+      },
+      "row_ids": [
+        "MAKE_CAUSEE_ACC",
+        "MAKE_CAUSEE_INS"
+      ],
+      "explanation": "Two case alternatives for the same causee.",
+      "projection": null,
+      "value": null
+    },
+    {
+      "id": "CAUSAL_READING",
+      "input": {
+        "event": "CAUSE_RECITE"
+      },
+      "row_ids": [
+        "VEDA_PUPIL",
+        "VEDA_TEXT"
+      ],
+      "explanation": "Causee is the reader and Veda is what is read.",
+      "projection": "case",
+      "value": "accusative"
+    },
+    {
+      "id": "PERSPECTIVE",
+      "input": {
+        "event": "COOK",
+        "designation": "kartṛ"
+      },
+      "row_ids": [
+        "PERSON_AGENT",
+        "POT_AGENT"
+      ],
+      "explanation": "The source allows animate or inanimate independent actor.",
+      "projection": "karaka",
+      "value": "kartṛ"
+    },
+    {
+      "id": "ONE_CAUSER_TWO_DESIGNATIONS",
+      "input": {
+        "event": "CAUSE_MAKE",
+        "participant": "instigator"
+      },
+      "row_ids": [
+        "INDEPENDENT_CAUSER"
+      ],
+      "explanation": "Hetu and kartṛ are simultaneous on this single participant, with only the finite word supplied.",
+      "projection": null,
+      "value": null
+    }
+  ],
+  "schema": "rkf.panini.pg137.karaka.v1",
+  "normalization": "The phrase may display external sandhi or separated words. The focus supplies the separated form. The literal source field controls attestation."
+}
