@@ -1,0 +1,112 @@
+{
+  "clause_witnesses": [
+    {
+      "id": "RICE_MOCK",
+      "phrase": "ehi manye odanaṃ bhokṣyase",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.106",
+        "literal": "एहि मन्ये ओदनं भोक्ष्यसे"
+      },
+      "discourse_mode": "PRAHASA",
+      "thought_word": "manye",
+      "thought_slot": "1sg",
+      "other_word": "bhokṣyase",
+      "other_slot": "2sg",
+      "context": "the commentator says the guests have already eaten the rice",
+      "witness_kind": "DIRECT",
+      "position_credit": 0,
+      "imperative": {
+        "word": "ehi",
+        "role": "call to the addressee",
+        "affected_by_1_4_106": false
+      }
+    },
+    {
+      "id": "CHARIOT_MOCK",
+      "phrase": "ehi manye rathena yāsyasi",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.106",
+        "literal": "एहि मन्ये रथेन यास्यसि"
+      },
+      "discourse_mode": "PRAHASA",
+      "thought_word": "manye",
+      "thought_slot": "1sg",
+      "other_word": "yāsyasi",
+      "other_slot": "2sg",
+      "context": "the commentator says the father has gone with the chariot",
+      "witness_kind": "DIRECT",
+      "position_credit": 0,
+      "imperative": {
+        "word": "ehi",
+        "role": "call to the addressee",
+        "affected_by_1_4_106": false
+      }
+    },
+    {
+      "id": "RICE_ORDINARY",
+      "phrase": "ehi manyase odanaṃ bhokṣye",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.106",
+        "literal": "एहि मन्यसे ओदनं भोक्ष्ये"
+      },
+      "discourse_mode": "ORDINARY_CONTROL",
+      "thought_word": "manyase",
+      "thought_slot": "2sg",
+      "other_word": "bhokṣye",
+      "other_slot": "1sg",
+      "context": "the reciprocal changes are not licensed in the non-mocking comparison",
+      "witness_kind": "DIRECT",
+      "position_credit": 0,
+      "imperative": {
+        "word": "ehi",
+        "role": "call to the addressee",
+        "affected_by_1_4_106": false
+      }
+    }
+  ],
+  "ekavat_number_fiber": [
+    {
+      "semantic_thinker_number": "one",
+      "output_person": "uttama",
+      "output_number": "singular",
+      "output_slot": "1sg",
+      "conditional_on": "licensed prahāsa and manya construction",
+      "direct_phrase_attestation": true
+    },
+    {
+      "semantic_thinker_number": "two",
+      "output_person": "uttama",
+      "output_number": "singular",
+      "output_slot": "1sg",
+      "conditional_on": "licensed prahāsa and manya construction",
+      "direct_phrase_attestation": false
+    },
+    {
+      "semantic_thinker_number": "more_than_two",
+      "output_person": "uttama",
+      "output_number": "singular",
+      "output_slot": "1sg",
+      "conditional_on": "licensed prahāsa and manya construction",
+      "direct_phrase_attestation": false
+    }
+  ],
+  "isolated_word_controls": [
+    {
+      "word": "manye",
+      "slot": "1sg",
+      "may_independently_have_ordinary_analysis": true
+    },
+    {
+      "word": "manyase",
+      "slot": "2sg",
+      "may_independently_have_ordinary_analysis": true
+    }
+  ],
+  "requires_both": [
+    "prahāsa",
+    "specified manya-upapada link"
+  ]
+}

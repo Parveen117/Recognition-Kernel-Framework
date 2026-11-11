@@ -1408,6 +1408,8 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG147 — Agreement and the mocking manya construction.** [Packet](prahasa_agreement/README.md). Three direct clause witnesses and the three semantic number classes expose a non-injective person readout. Zero new finite positions. Cumulative **32,783**.
+
 **PG146 — Action and experience across the six outer lakāras:** [packet](kyang_action_outer/README.md) adds
 **864 positions / 1564 readings / 1573 paths**; cumulative **32,783**.
 Selected target 864/864; Python 3.12 static checks only,
