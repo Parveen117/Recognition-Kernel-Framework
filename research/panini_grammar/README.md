@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG186 — The future intensive and the desire to act repeatedly.** [Packet](yangluk_future_and_desire/README.md). 324 positions, 1,323 readings and 1,323 paths. Cumulative **41,333**.
+
 **PG185 — Active and middle present participles of five desideratives.** [Packet](desiderative_present_participles/README.md). Zero new finite positions. Cumulative **41,009**.
 
 **PG184 — The agent noun fixes inner iṭ before the outer middle.** [Packet](agent_noun_and_outer_middle/README.md). 630 positions, 896 readings and 896 paths. Cumulative **41,009**.

@@ -1,11 +1,11 @@
-# Pāṇini grammar · current written coverage at PG185
+# Pāṇini grammar · current written coverage at PG186
 
 Monty · 11 November 2026
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
 | Aṣṭādhyāyī sūtras | 3,983/3,983 IDs reached in the written PG52 register. | Apply those readings to additional lexical and syntactic domains, including scope, rule competition and visibility. [Rule coverage](feminine_host_histories/README.md) |
-| Finite verb positions | **41,009** written. Seven agent-model denominatives add 630 positions across ten lakāras. [New forms and inner iṭ](agent_noun_and_outer_middle/README.md). The latest 15 nominal actions have **2,700/2,700** positions in their declared ten-lakāra grid. | Extend to other root senses, prefix and pada combinations. [Finite grid](satya_named_aorists/README.md) |
+| Finite verb positions | **41,333** written. Three yaṅ-luk roots add 324 positions. [Intensive futures and desires](yangluk_future_and_desire/README.md). Seven agent-model denominatives add 630 positions across ten lakāras. [New forms and inner iṭ](agent_noun_and_outer_middle/README.md). The latest 15 nominal actions have **2,700/2,700** positions in their declared ten-lakāra grid. | Extend to other root senses, prefix and pada combinations. [Finite grid](satya_named_aorists/README.md) |
 | Five-pāda Uṇādi | **748/748** texts collated. **748/748** addresses have at least one written, source-conditioned selection. | All five pādas have a source-conditioned selection at every address. Expand the still unreviewed lexical members of lists, trace accent and inflection, and continue the two kit-purpose questions after the printed and Vedic comparison. [Printed commentary and two lexical senses](unadi_kit_source_questions/README.md). [All 748 lexical addresses](unadi_fifth_pada_readings/ALL_LEXICAL_READINGS.tsv) · [Fifth pāda and evidence](unadi_fifth_pada_readings/README.md) · [Whole text](unadi_concordance/README.md) |
 | Uṇādi entries with multiple affix labels | All 34 entries and 103 listed fields reviewed. 94 fields have a lexical or operational example under the direct-evidence policy. Three further assignments are morphological inferences. | Six fields still lack an individual selection. Three inferences await explicit corroboration. [Individual assignments and traditional differences](unadi_individual_suffix_evidence/README.md) |
 | Present desiderative participles | **720 nominal positions and 893 readings** across the five PG118 roots. All seven available archived stem fields and their gendered nominative singulars agree. | Other roots, kṛt types and sentence contexts. [Word tables and source comparison](desiderative_present_participles/README.md) |

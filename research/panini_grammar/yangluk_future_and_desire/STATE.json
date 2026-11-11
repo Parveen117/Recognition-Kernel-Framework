@@ -1,0 +1,4602 @@
+{
+  "schema": "rkf.panini.pg186.state.v1",
+  "author": "Monty",
+  "date": "2026-11-11",
+  "baseline": {
+    "path": "research/panini_grammar/desiderative_present_participles/STATE.json",
+    "commit": "5506acffdbe27b270b3af3f7d6eb69779e7e8965",
+    "git_blob_sha": "c4a363a5f2642461bc93dba2ec2c8bd5e87af04b",
+    "sha256": "ffb7732e8d18e91f7bd333000f81a864800a4cbe29b580254e7879f57a85ba23",
+    "bytes": 3217
+  },
+  "finite_positions": 41333,
+  "new_positions": 324,
+  "new_position_readings": 1323,
+  "new_written_table_readings": 1323,
+  "retained_path_count": 1323,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "varvartiṣyati",
+          "varivartiṣyati",
+          "varīvartiṣyati"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "varvartiṣyataḥ",
+          "varivartiṣyataḥ",
+          "varīvartiṣyataḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "varvartiṣyanti",
+          "varivartiṣyanti",
+          "varīvartiṣyanti"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "varvartiṣyasi",
+          "varivartiṣyasi",
+          "varīvartiṣyasi"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "varvartiṣyathaḥ",
+          "varivartiṣyathaḥ",
+          "varīvartiṣyathaḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "varvartiṣyatha",
+          "varivartiṣyatha",
+          "varīvartiṣyatha"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "varvartiṣyāmi",
+          "varivartiṣyāmi",
+          "varīvartiṣyāmi"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "varvartiṣyāvaḥ",
+          "varivartiṣyāvaḥ",
+          "varīvartiṣyāvaḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "varvartiṣyāmaḥ",
+          "varivartiṣyāmaḥ",
+          "varīvartiṣyāmaḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "avarvartiṣyat",
+          "avarvartiṣyad",
+          "avarivartiṣyat",
+          "avarivartiṣyad",
+          "avarīvartiṣyat",
+          "avarīvartiṣyad"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "avarvartiṣyatām",
+          "avarivartiṣyatām",
+          "avarīvartiṣyatām"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "avarvartiṣyan",
+          "avarivartiṣyan",
+          "avarīvartiṣyan"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "avarvartiṣyaḥ",
+          "avarivartiṣyaḥ",
+          "avarīvartiṣyaḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "avarvartiṣyatam",
+          "avarivartiṣyatam",
+          "avarīvartiṣyatam"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "avarvartiṣyata",
+          "avarivartiṣyata",
+          "avarīvartiṣyata"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "avarvartiṣyam",
+          "avarivartiṣyam",
+          "avarīvartiṣyam"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "avarvartiṣyāva",
+          "avarivartiṣyāva",
+          "avarīvartiṣyāva"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "avarvartiṣyāma",
+          "avarivartiṣyāma",
+          "avarīvartiṣyāma"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "varvartiṣati",
+          "varivartiṣati",
+          "varīvartiṣati"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "varvartiṣataḥ",
+          "varivartiṣataḥ",
+          "varīvartiṣataḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "varvartiṣanti",
+          "varivartiṣanti",
+          "varīvartiṣanti"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "varvartiṣasi",
+          "varivartiṣasi",
+          "varīvartiṣasi"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "varvartiṣathaḥ",
+          "varivartiṣathaḥ",
+          "varīvartiṣathaḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "varvartiṣatha",
+          "varivartiṣatha",
+          "varīvartiṣatha"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "varvartiṣāmi",
+          "varivartiṣāmi",
+          "varīvartiṣāmi"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "varvartiṣāvaḥ",
+          "varivartiṣāvaḥ",
+          "varīvartiṣāvaḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "varvartiṣāmaḥ",
+          "varivartiṣāmaḥ",
+          "varīvartiṣāmaḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "avarvartiṣat",
+          "avarivartiṣat",
+          "avarīvartiṣat"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "avarvartiṣatām",
+          "avarivartiṣatām",
+          "avarīvartiṣatām"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "avarvartiṣan",
+          "avarivartiṣan",
+          "avarīvartiṣan"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "avarvartiṣaḥ",
+          "avarivartiṣaḥ",
+          "avarīvartiṣaḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "avarvartiṣatam",
+          "avarivartiṣatam",
+          "avarīvartiṣatam"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "avarvartiṣata",
+          "avarivartiṣata",
+          "avarīvartiṣata"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "avarvartiṣam",
+          "avarivartiṣam",
+          "avarīvartiṣam"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "avarvartiṣāva",
+          "avarivartiṣāva",
+          "avarīvartiṣāva"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "avarvartiṣāma",
+          "avarivartiṣāma",
+          "avarīvartiṣāma"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "varvartiṣatu",
+          "varivartiṣatu",
+          "varīvartiṣatu"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "varvartiṣatām",
+          "varivartiṣatām",
+          "varīvartiṣatām"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "varvartiṣantu",
+          "varivartiṣantu",
+          "varīvartiṣantu"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "varvartiṣa",
+          "varivartiṣa",
+          "varīvartiṣa"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "varvartiṣatam",
+          "varivartiṣatam",
+          "varīvartiṣatam"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "varvartiṣata",
+          "varivartiṣata",
+          "varīvartiṣata"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "varvartiṣāṇi",
+          "varivartiṣāṇi",
+          "varīvartiṣāṇi"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "varvartiṣāva",
+          "varivartiṣāva",
+          "varīvartiṣāva"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "varvartiṣāma",
+          "varivartiṣāma",
+          "varīvartiṣāma"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "varvartiṣet",
+          "varivartiṣet",
+          "varīvartiṣet"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "varvartiṣetām",
+          "varivartiṣetām",
+          "varīvartiṣetām"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "varvartiṣeyuḥ",
+          "varivartiṣeyuḥ",
+          "varīvartiṣeyuḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "varvartiṣeḥ",
+          "varivartiṣeḥ",
+          "varīvartiṣeḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "varvartiṣetam",
+          "varivartiṣetam",
+          "varīvartiṣetam"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "varvartiṣeta",
+          "varivartiṣeta",
+          "varīvartiṣeta"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "varvartiṣeyam",
+          "varivartiṣeyam",
+          "varīvartiṣeyam"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "varvartiṣeva",
+          "varivartiṣeva",
+          "varīvartiṣeva"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "varvartiṣema",
+          "varivartiṣema",
+          "varīvartiṣema"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "varvartiṣiṣyati",
+          "varivartiṣiṣyati",
+          "varīvartiṣiṣyati"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "varvartiṣiṣyataḥ",
+          "varivartiṣiṣyataḥ",
+          "varīvartiṣiṣyataḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "varvartiṣiṣyanti",
+          "varivartiṣiṣyanti",
+          "varīvartiṣiṣyanti"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "varvartiṣiṣyasi",
+          "varivartiṣiṣyasi",
+          "varīvartiṣiṣyasi"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "varvartiṣiṣyathaḥ",
+          "varivartiṣiṣyathaḥ",
+          "varīvartiṣiṣyathaḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "varvartiṣiṣyatha",
+          "varivartiṣiṣyatha",
+          "varīvartiṣiṣyatha"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "varvartiṣiṣyāmi",
+          "varivartiṣiṣyāmi",
+          "varīvartiṣiṣyāmi"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "varvartiṣiṣyāvaḥ",
+          "varivartiṣiṣyāvaḥ",
+          "varīvartiṣiṣyāvaḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "varvartiṣiṣyāmaḥ",
+          "varivartiṣiṣyāmaḥ",
+          "varīvartiṣiṣyāmaḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "varvartiṣitā",
+          "varivartiṣitā",
+          "varīvartiṣitā"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "varvartiṣitārau",
+          "varivartiṣitārau",
+          "varīvartiṣitārau"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "varvartiṣitāraḥ",
+          "varivartiṣitāraḥ",
+          "varīvartiṣitāraḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "varvartiṣitāsi",
+          "varivartiṣitāsi",
+          "varīvartiṣitāsi"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "varvartiṣitāsthaḥ",
+          "varivartiṣitāsthaḥ",
+          "varīvartiṣitāsthaḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "varvartiṣitāstha",
+          "varivartiṣitāstha",
+          "varīvartiṣitāstha"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "varvartiṣitāsmi",
+          "varivartiṣitāsmi",
+          "varīvartiṣitāsmi"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "varvartiṣitāsvaḥ",
+          "varivartiṣitāsvaḥ",
+          "varīvartiṣitāsvaḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "varvartiṣitāsmaḥ",
+          "varivartiṣitāsmaḥ",
+          "varīvartiṣitāsmaḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "avarvartiṣiṣyat",
+          "avarivartiṣiṣyat",
+          "avarīvartiṣiṣyat"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "avarvartiṣiṣyatām",
+          "avarivartiṣiṣyatām",
+          "avarīvartiṣiṣyatām"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "avarvartiṣiṣyan",
+          "avarivartiṣiṣyan",
+          "avarīvartiṣiṣyan"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "avarvartiṣiṣyaḥ",
+          "avarivartiṣiṣyaḥ",
+          "avarīvartiṣiṣyaḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "avarvartiṣiṣyatam",
+          "avarivartiṣiṣyatam",
+          "avarīvartiṣiṣyatam"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "avarvartiṣiṣyata",
+          "avarivartiṣiṣyata",
+          "avarīvartiṣiṣyata"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "avarvartiṣiṣyam",
+          "avarivartiṣiṣyam",
+          "avarīvartiṣiṣyam"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "avarvartiṣiṣyāva",
+          "avarivartiṣiṣyāva",
+          "avarīvartiṣiṣyāva"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "avarvartiṣiṣyāma",
+          "avarivartiṣiṣyāma",
+          "avarīvartiṣiṣyāma"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "varvartiṣyāt",
+          "varivartiṣyāt",
+          "varīvartiṣyāt"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "varvartiṣyāstām",
+          "varivartiṣyāstām",
+          "varīvartiṣyāstām"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "varvartiṣyāsuḥ",
+          "varivartiṣyāsuḥ",
+          "varīvartiṣyāsuḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "varvartiṣyāḥ",
+          "varivartiṣyāḥ",
+          "varīvartiṣyāḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "varvartiṣyāstam",
+          "varivartiṣyāstam",
+          "varīvartiṣyāstam"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "varvartiṣyāsta",
+          "varivartiṣyāsta",
+          "varīvartiṣyāsta"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "varvartiṣyāsam",
+          "varivartiṣyāsam",
+          "varīvartiṣyāsam"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "varvartiṣyāsva",
+          "varivartiṣyāsva",
+          "varīvartiṣyāsva"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "varvartiṣyāsma",
+          "varivartiṣyāsma",
+          "varīvartiṣyāsma"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "avarvartiṣīt",
+          "avarivartiṣīt",
+          "avarīvartiṣīt"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "avarvartiṣiṣṭām",
+          "avarivartiṣiṣṭām",
+          "avarīvartiṣiṣṭām"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "avarvartiṣiṣuḥ",
+          "avarivartiṣiṣuḥ",
+          "avarīvartiṣiṣuḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "avarvartiṣīḥ",
+          "avarivartiṣīḥ",
+          "avarīvartiṣīḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "avarvartiṣiṣṭam",
+          "avarivartiṣiṣṭam",
+          "avarīvartiṣiṣṭam"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "avarvartiṣiṣṭa",
+          "avarivartiṣiṣṭa",
+          "avarīvartiṣiṣṭa"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "avarvartiṣiṣam",
+          "avarivartiṣiṣam",
+          "avarīvartiṣiṣam"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "avarvartiṣiṣva",
+          "avarivartiṣiṣva",
+          "avarīvartiṣiṣva"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "avarvartiṣiṣma",
+          "avarivartiṣiṣma",
+          "avarīvartiṣiṣma"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "varvartiṣāṃcakāra",
+          "varvartiṣāñcakāra",
+          "varvartiṣāṃbabhūva",
+          "varvartiṣāmbabhūva",
+          "varvartiṣāmāsa",
+          "varivartiṣāṃcakāra",
+          "varivartiṣāñcakāra",
+          "varivartiṣāṃbabhūva",
+          "varivartiṣāmbabhūva",
+          "varivartiṣāmāsa",
+          "varīvartiṣāṃcakāra",
+          "varīvartiṣāñcakāra",
+          "varīvartiṣāṃbabhūva",
+          "varīvartiṣāmbabhūva",
+          "varīvartiṣāmāsa"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "varvartiṣāṃcakratuḥ",
+          "varvartiṣāñcakratuḥ",
+          "varvartiṣāṃbabhūvatuḥ",
+          "varvartiṣāmbabhūvatuḥ",
+          "varvartiṣāmāsatuḥ",
+          "varivartiṣāṃcakratuḥ",
+          "varivartiṣāñcakratuḥ",
+          "varivartiṣāṃbabhūvatuḥ",
+          "varivartiṣāmbabhūvatuḥ",
+          "varivartiṣāmāsatuḥ",
+          "varīvartiṣāṃcakratuḥ",
+          "varīvartiṣāñcakratuḥ",
+          "varīvartiṣāṃbabhūvatuḥ",
+          "varīvartiṣāmbabhūvatuḥ",
+          "varīvartiṣāmāsatuḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "varvartiṣāṃcakruḥ",
+          "varvartiṣāñcakruḥ",
+          "varvartiṣāṃbabhūvuḥ",
+          "varvartiṣāmbabhūvuḥ",
+          "varvartiṣāmāsuḥ",
+          "varivartiṣāṃcakruḥ",
+          "varivartiṣāñcakruḥ",
+          "varivartiṣāṃbabhūvuḥ",
+          "varivartiṣāmbabhūvuḥ",
+          "varivartiṣāmāsuḥ",
+          "varīvartiṣāṃcakruḥ",
+          "varīvartiṣāñcakruḥ",
+          "varīvartiṣāṃbabhūvuḥ",
+          "varīvartiṣāmbabhūvuḥ",
+          "varīvartiṣāmāsuḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "varvartiṣāṃcakartha",
+          "varvartiṣāñcakartha",
+          "varvartiṣāṃbabhūvitha",
+          "varvartiṣāmbabhūvitha",
+          "varvartiṣāmāsitha",
+          "varivartiṣāṃcakartha",
+          "varivartiṣāñcakartha",
+          "varivartiṣāṃbabhūvitha",
+          "varivartiṣāmbabhūvitha",
+          "varivartiṣāmāsitha",
+          "varīvartiṣāṃcakartha",
+          "varīvartiṣāñcakartha",
+          "varīvartiṣāṃbabhūvitha",
+          "varīvartiṣāmbabhūvitha",
+          "varīvartiṣāmāsitha"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "varvartiṣāṃcakrathuḥ",
+          "varvartiṣāñcakrathuḥ",
+          "varvartiṣāṃbabhūvathuḥ",
+          "varvartiṣāmbabhūvathuḥ",
+          "varvartiṣāmāsathuḥ",
+          "varivartiṣāṃcakrathuḥ",
+          "varivartiṣāñcakrathuḥ",
+          "varivartiṣāṃbabhūvathuḥ",
+          "varivartiṣāmbabhūvathuḥ",
+          "varivartiṣāmāsathuḥ",
+          "varīvartiṣāṃcakrathuḥ",
+          "varīvartiṣāñcakrathuḥ",
+          "varīvartiṣāṃbabhūvathuḥ",
+          "varīvartiṣāmbabhūvathuḥ",
+          "varīvartiṣāmāsathuḥ"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "varvartiṣāṃcakra",
+          "varvartiṣāñcakra",
+          "varvartiṣāṃbabhūva",
+          "varvartiṣāmbabhūva",
+          "varvartiṣāmāsa",
+          "varivartiṣāṃcakra",
+          "varivartiṣāñcakra",
+          "varivartiṣāṃbabhūva",
+          "varivartiṣāmbabhūva",
+          "varivartiṣāmāsa",
+          "varīvartiṣāṃcakra",
+          "varīvartiṣāñcakra",
+          "varīvartiṣāṃbabhūva",
+          "varīvartiṣāmbabhūva",
+          "varīvartiṣāmāsa"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "varvartiṣāṃcakara",
+          "varvartiṣāñcakara",
+          "varvartiṣāṃcakāra",
+          "varvartiṣāñcakāra",
+          "varvartiṣāṃbabhūva",
+          "varvartiṣāmbabhūva",
+          "varvartiṣāmāsa",
+          "varivartiṣāṃcakara",
+          "varivartiṣāñcakara",
+          "varivartiṣāṃcakāra",
+          "varivartiṣāñcakāra",
+          "varivartiṣāṃbabhūva",
+          "varivartiṣāmbabhūva",
+          "varivartiṣāmāsa",
+          "varīvartiṣāṃcakara",
+          "varīvartiṣāñcakara",
+          "varīvartiṣāṃcakāra",
+          "varīvartiṣāñcakāra",
+          "varīvartiṣāṃbabhūva",
+          "varīvartiṣāmbabhūva",
+          "varīvartiṣāmāsa"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "varvartiṣāṃcakṛva",
+          "varvartiṣāñcakṛva",
+          "varvartiṣāṃbabhūviva",
+          "varvartiṣāmbabhūviva",
+          "varvartiṣāmāsiva",
+          "varivartiṣāṃcakṛva",
+          "varivartiṣāñcakṛva",
+          "varivartiṣāṃbabhūviva",
+          "varivartiṣāmbabhūviva",
+          "varivartiṣāmāsiva",
+          "varīvartiṣāṃcakṛva",
+          "varīvartiṣāñcakṛva",
+          "varīvartiṣāṃbabhūviva",
+          "varīvartiṣāmbabhūviva",
+          "varīvartiṣāmāsiva"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "varvartiṣāṃcakṛma",
+          "varvartiṣāñcakṛma",
+          "varvartiṣāṃbabhūvima",
+          "varvartiṣāmbabhūvima",
+          "varvartiṣāmāsima",
+          "varivartiṣāṃcakṛma",
+          "varivartiṣāñcakṛma",
+          "varivartiṣāṃbabhūvima",
+          "varivartiṣāmbabhūvima",
+          "varivartiṣāmāsima",
+          "varīvartiṣāṃcakṛma",
+          "varīvartiṣāñcakṛma",
+          "varīvartiṣāṃbabhūvima",
+          "varīvartiṣāmbabhūvima",
+          "varīvartiṣāmāsima"
+        ],
+        "root_id": "01.0862",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "varvardhiṣyati",
+          "varivardhiṣyati",
+          "varīvardhiṣyati"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "varvardhiṣyataḥ",
+          "varivardhiṣyataḥ",
+          "varīvardhiṣyataḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "varvardhiṣyanti",
+          "varivardhiṣyanti",
+          "varīvardhiṣyanti"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "varvardhiṣyasi",
+          "varivardhiṣyasi",
+          "varīvardhiṣyasi"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "varvardhiṣyathaḥ",
+          "varivardhiṣyathaḥ",
+          "varīvardhiṣyathaḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "varvardhiṣyatha",
+          "varivardhiṣyatha",
+          "varīvardhiṣyatha"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "varvardhiṣyāmi",
+          "varivardhiṣyāmi",
+          "varīvardhiṣyāmi"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "varvardhiṣyāvaḥ",
+          "varivardhiṣyāvaḥ",
+          "varīvardhiṣyāvaḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "varvardhiṣyāmaḥ",
+          "varivardhiṣyāmaḥ",
+          "varīvardhiṣyāmaḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "avarvardhiṣyat",
+          "avarvardhiṣyad",
+          "avarivardhiṣyat",
+          "avarivardhiṣyad",
+          "avarīvardhiṣyat",
+          "avarīvardhiṣyad"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "avarvardhiṣyatām",
+          "avarivardhiṣyatām",
+          "avarīvardhiṣyatām"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "avarvardhiṣyan",
+          "avarivardhiṣyan",
+          "avarīvardhiṣyan"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "avarvardhiṣyaḥ",
+          "avarivardhiṣyaḥ",
+          "avarīvardhiṣyaḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "avarvardhiṣyatam",
+          "avarivardhiṣyatam",
+          "avarīvardhiṣyatam"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "avarvardhiṣyata",
+          "avarivardhiṣyata",
+          "avarīvardhiṣyata"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "avarvardhiṣyam",
+          "avarivardhiṣyam",
+          "avarīvardhiṣyam"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "avarvardhiṣyāva",
+          "avarivardhiṣyāva",
+          "avarīvardhiṣyāva"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "avarvardhiṣyāma",
+          "avarivardhiṣyāma",
+          "avarīvardhiṣyāma"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "varvardhiṣati",
+          "varivardhiṣati",
+          "varīvardhiṣati"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "varvardhiṣataḥ",
+          "varivardhiṣataḥ",
+          "varīvardhiṣataḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "varvardhiṣanti",
+          "varivardhiṣanti",
+          "varīvardhiṣanti"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "varvardhiṣasi",
+          "varivardhiṣasi",
+          "varīvardhiṣasi"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "varvardhiṣathaḥ",
+          "varivardhiṣathaḥ",
+          "varīvardhiṣathaḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "varvardhiṣatha",
+          "varivardhiṣatha",
+          "varīvardhiṣatha"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "varvardhiṣāmi",
+          "varivardhiṣāmi",
+          "varīvardhiṣāmi"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "varvardhiṣāvaḥ",
+          "varivardhiṣāvaḥ",
+          "varīvardhiṣāvaḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "varvardhiṣāmaḥ",
+          "varivardhiṣāmaḥ",
+          "varīvardhiṣāmaḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "avarvardhiṣat",
+          "avarivardhiṣat",
+          "avarīvardhiṣat"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "avarvardhiṣatām",
+          "avarivardhiṣatām",
+          "avarīvardhiṣatām"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "avarvardhiṣan",
+          "avarivardhiṣan",
+          "avarīvardhiṣan"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "avarvardhiṣaḥ",
+          "avarivardhiṣaḥ",
+          "avarīvardhiṣaḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "avarvardhiṣatam",
+          "avarivardhiṣatam",
+          "avarīvardhiṣatam"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "avarvardhiṣata",
+          "avarivardhiṣata",
+          "avarīvardhiṣata"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "avarvardhiṣam",
+          "avarivardhiṣam",
+          "avarīvardhiṣam"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "avarvardhiṣāva",
+          "avarivardhiṣāva",
+          "avarīvardhiṣāva"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "avarvardhiṣāma",
+          "avarivardhiṣāma",
+          "avarīvardhiṣāma"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "varvardhiṣatu",
+          "varivardhiṣatu",
+          "varīvardhiṣatu"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "varvardhiṣatām",
+          "varivardhiṣatām",
+          "varīvardhiṣatām"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "varvardhiṣantu",
+          "varivardhiṣantu",
+          "varīvardhiṣantu"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "varvardhiṣa",
+          "varivardhiṣa",
+          "varīvardhiṣa"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "varvardhiṣatam",
+          "varivardhiṣatam",
+          "varīvardhiṣatam"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "varvardhiṣata",
+          "varivardhiṣata",
+          "varīvardhiṣata"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "varvardhiṣāṇi",
+          "varivardhiṣāṇi",
+          "varīvardhiṣāṇi"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "varvardhiṣāva",
+          "varivardhiṣāva",
+          "varīvardhiṣāva"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "varvardhiṣāma",
+          "varivardhiṣāma",
+          "varīvardhiṣāma"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "varvardhiṣet",
+          "varivardhiṣet",
+          "varīvardhiṣet"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "varvardhiṣetām",
+          "varivardhiṣetām",
+          "varīvardhiṣetām"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "varvardhiṣeyuḥ",
+          "varivardhiṣeyuḥ",
+          "varīvardhiṣeyuḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "varvardhiṣeḥ",
+          "varivardhiṣeḥ",
+          "varīvardhiṣeḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "varvardhiṣetam",
+          "varivardhiṣetam",
+          "varīvardhiṣetam"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "varvardhiṣeta",
+          "varivardhiṣeta",
+          "varīvardhiṣeta"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "varvardhiṣeyam",
+          "varivardhiṣeyam",
+          "varīvardhiṣeyam"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "varvardhiṣeva",
+          "varivardhiṣeva",
+          "varīvardhiṣeva"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "varvardhiṣema",
+          "varivardhiṣema",
+          "varīvardhiṣema"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "varvardhiṣiṣyati",
+          "varivardhiṣiṣyati",
+          "varīvardhiṣiṣyati"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "varvardhiṣiṣyataḥ",
+          "varivardhiṣiṣyataḥ",
+          "varīvardhiṣiṣyataḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "varvardhiṣiṣyanti",
+          "varivardhiṣiṣyanti",
+          "varīvardhiṣiṣyanti"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "varvardhiṣiṣyasi",
+          "varivardhiṣiṣyasi",
+          "varīvardhiṣiṣyasi"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "varvardhiṣiṣyathaḥ",
+          "varivardhiṣiṣyathaḥ",
+          "varīvardhiṣiṣyathaḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "varvardhiṣiṣyatha",
+          "varivardhiṣiṣyatha",
+          "varīvardhiṣiṣyatha"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "varvardhiṣiṣyāmi",
+          "varivardhiṣiṣyāmi",
+          "varīvardhiṣiṣyāmi"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "varvardhiṣiṣyāvaḥ",
+          "varivardhiṣiṣyāvaḥ",
+          "varīvardhiṣiṣyāvaḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "varvardhiṣiṣyāmaḥ",
+          "varivardhiṣiṣyāmaḥ",
+          "varīvardhiṣiṣyāmaḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "varvardhiṣitā",
+          "varivardhiṣitā",
+          "varīvardhiṣitā"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "varvardhiṣitārau",
+          "varivardhiṣitārau",
+          "varīvardhiṣitārau"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "varvardhiṣitāraḥ",
+          "varivardhiṣitāraḥ",
+          "varīvardhiṣitāraḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "varvardhiṣitāsi",
+          "varivardhiṣitāsi",
+          "varīvardhiṣitāsi"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "varvardhiṣitāsthaḥ",
+          "varivardhiṣitāsthaḥ",
+          "varīvardhiṣitāsthaḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "varvardhiṣitāstha",
+          "varivardhiṣitāstha",
+          "varīvardhiṣitāstha"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "varvardhiṣitāsmi",
+          "varivardhiṣitāsmi",
+          "varīvardhiṣitāsmi"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "varvardhiṣitāsvaḥ",
+          "varivardhiṣitāsvaḥ",
+          "varīvardhiṣitāsvaḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "varvardhiṣitāsmaḥ",
+          "varivardhiṣitāsmaḥ",
+          "varīvardhiṣitāsmaḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "avarvardhiṣiṣyat",
+          "avarivardhiṣiṣyat",
+          "avarīvardhiṣiṣyat"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "avarvardhiṣiṣyatām",
+          "avarivardhiṣiṣyatām",
+          "avarīvardhiṣiṣyatām"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "avarvardhiṣiṣyan",
+          "avarivardhiṣiṣyan",
+          "avarīvardhiṣiṣyan"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "avarvardhiṣiṣyaḥ",
+          "avarivardhiṣiṣyaḥ",
+          "avarīvardhiṣiṣyaḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "avarvardhiṣiṣyatam",
+          "avarivardhiṣiṣyatam",
+          "avarīvardhiṣiṣyatam"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "avarvardhiṣiṣyata",
+          "avarivardhiṣiṣyata",
+          "avarīvardhiṣiṣyata"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "avarvardhiṣiṣyam",
+          "avarivardhiṣiṣyam",
+          "avarīvardhiṣiṣyam"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "avarvardhiṣiṣyāva",
+          "avarivardhiṣiṣyāva",
+          "avarīvardhiṣiṣyāva"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "avarvardhiṣiṣyāma",
+          "avarivardhiṣiṣyāma",
+          "avarīvardhiṣiṣyāma"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "varvardhiṣyāt",
+          "varivardhiṣyāt",
+          "varīvardhiṣyāt"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "varvardhiṣyāstām",
+          "varivardhiṣyāstām",
+          "varīvardhiṣyāstām"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "varvardhiṣyāsuḥ",
+          "varivardhiṣyāsuḥ",
+          "varīvardhiṣyāsuḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "varvardhiṣyāḥ",
+          "varivardhiṣyāḥ",
+          "varīvardhiṣyāḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "varvardhiṣyāstam",
+          "varivardhiṣyāstam",
+          "varīvardhiṣyāstam"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "varvardhiṣyāsta",
+          "varivardhiṣyāsta",
+          "varīvardhiṣyāsta"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "varvardhiṣyāsam",
+          "varivardhiṣyāsam",
+          "varīvardhiṣyāsam"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "varvardhiṣyāsva",
+          "varivardhiṣyāsva",
+          "varīvardhiṣyāsva"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "varvardhiṣyāsma",
+          "varivardhiṣyāsma",
+          "varīvardhiṣyāsma"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "avarvardhiṣīt",
+          "avarivardhiṣīt",
+          "avarīvardhiṣīt"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "avarvardhiṣiṣṭām",
+          "avarivardhiṣiṣṭām",
+          "avarīvardhiṣiṣṭām"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "avarvardhiṣiṣuḥ",
+          "avarivardhiṣiṣuḥ",
+          "avarīvardhiṣiṣuḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "avarvardhiṣīḥ",
+          "avarivardhiṣīḥ",
+          "avarīvardhiṣīḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "avarvardhiṣiṣṭam",
+          "avarivardhiṣiṣṭam",
+          "avarīvardhiṣiṣṭam"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "avarvardhiṣiṣṭa",
+          "avarivardhiṣiṣṭa",
+          "avarīvardhiṣiṣṭa"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "avarvardhiṣiṣam",
+          "avarivardhiṣiṣam",
+          "avarīvardhiṣiṣam"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "avarvardhiṣiṣva",
+          "avarivardhiṣiṣva",
+          "avarīvardhiṣiṣva"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "avarvardhiṣiṣma",
+          "avarivardhiṣiṣma",
+          "avarīvardhiṣiṣma"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "varvardhiṣāṃcakāra",
+          "varvardhiṣāñcakāra",
+          "varvardhiṣāṃbabhūva",
+          "varvardhiṣāmbabhūva",
+          "varvardhiṣāmāsa",
+          "varivardhiṣāṃcakāra",
+          "varivardhiṣāñcakāra",
+          "varivardhiṣāṃbabhūva",
+          "varivardhiṣāmbabhūva",
+          "varivardhiṣāmāsa",
+          "varīvardhiṣāṃcakāra",
+          "varīvardhiṣāñcakāra",
+          "varīvardhiṣāṃbabhūva",
+          "varīvardhiṣāmbabhūva",
+          "varīvardhiṣāmāsa"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "varvardhiṣāṃcakratuḥ",
+          "varvardhiṣāñcakratuḥ",
+          "varvardhiṣāṃbabhūvatuḥ",
+          "varvardhiṣāmbabhūvatuḥ",
+          "varvardhiṣāmāsatuḥ",
+          "varivardhiṣāṃcakratuḥ",
+          "varivardhiṣāñcakratuḥ",
+          "varivardhiṣāṃbabhūvatuḥ",
+          "varivardhiṣāmbabhūvatuḥ",
+          "varivardhiṣāmāsatuḥ",
+          "varīvardhiṣāṃcakratuḥ",
+          "varīvardhiṣāñcakratuḥ",
+          "varīvardhiṣāṃbabhūvatuḥ",
+          "varīvardhiṣāmbabhūvatuḥ",
+          "varīvardhiṣāmāsatuḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "varvardhiṣāṃcakruḥ",
+          "varvardhiṣāñcakruḥ",
+          "varvardhiṣāṃbabhūvuḥ",
+          "varvardhiṣāmbabhūvuḥ",
+          "varvardhiṣāmāsuḥ",
+          "varivardhiṣāṃcakruḥ",
+          "varivardhiṣāñcakruḥ",
+          "varivardhiṣāṃbabhūvuḥ",
+          "varivardhiṣāmbabhūvuḥ",
+          "varivardhiṣāmāsuḥ",
+          "varīvardhiṣāṃcakruḥ",
+          "varīvardhiṣāñcakruḥ",
+          "varīvardhiṣāṃbabhūvuḥ",
+          "varīvardhiṣāmbabhūvuḥ",
+          "varīvardhiṣāmāsuḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "varvardhiṣāṃcakartha",
+          "varvardhiṣāñcakartha",
+          "varvardhiṣāṃbabhūvitha",
+          "varvardhiṣāmbabhūvitha",
+          "varvardhiṣāmāsitha",
+          "varivardhiṣāṃcakartha",
+          "varivardhiṣāñcakartha",
+          "varivardhiṣāṃbabhūvitha",
+          "varivardhiṣāmbabhūvitha",
+          "varivardhiṣāmāsitha",
+          "varīvardhiṣāṃcakartha",
+          "varīvardhiṣāñcakartha",
+          "varīvardhiṣāṃbabhūvitha",
+          "varīvardhiṣāmbabhūvitha",
+          "varīvardhiṣāmāsitha"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "varvardhiṣāṃcakrathuḥ",
+          "varvardhiṣāñcakrathuḥ",
+          "varvardhiṣāṃbabhūvathuḥ",
+          "varvardhiṣāmbabhūvathuḥ",
+          "varvardhiṣāmāsathuḥ",
+          "varivardhiṣāṃcakrathuḥ",
+          "varivardhiṣāñcakrathuḥ",
+          "varivardhiṣāṃbabhūvathuḥ",
+          "varivardhiṣāmbabhūvathuḥ",
+          "varivardhiṣāmāsathuḥ",
+          "varīvardhiṣāṃcakrathuḥ",
+          "varīvardhiṣāñcakrathuḥ",
+          "varīvardhiṣāṃbabhūvathuḥ",
+          "varīvardhiṣāmbabhūvathuḥ",
+          "varīvardhiṣāmāsathuḥ"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "varvardhiṣāṃcakra",
+          "varvardhiṣāñcakra",
+          "varvardhiṣāṃbabhūva",
+          "varvardhiṣāmbabhūva",
+          "varvardhiṣāmāsa",
+          "varivardhiṣāṃcakra",
+          "varivardhiṣāñcakra",
+          "varivardhiṣāṃbabhūva",
+          "varivardhiṣāmbabhūva",
+          "varivardhiṣāmāsa",
+          "varīvardhiṣāṃcakra",
+          "varīvardhiṣāñcakra",
+          "varīvardhiṣāṃbabhūva",
+          "varīvardhiṣāmbabhūva",
+          "varīvardhiṣāmāsa"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "varvardhiṣāṃcakara",
+          "varvardhiṣāñcakara",
+          "varvardhiṣāṃcakāra",
+          "varvardhiṣāñcakāra",
+          "varvardhiṣāṃbabhūva",
+          "varvardhiṣāmbabhūva",
+          "varvardhiṣāmāsa",
+          "varivardhiṣāṃcakara",
+          "varivardhiṣāñcakara",
+          "varivardhiṣāṃcakāra",
+          "varivardhiṣāñcakāra",
+          "varivardhiṣāṃbabhūva",
+          "varivardhiṣāmbabhūva",
+          "varivardhiṣāmāsa",
+          "varīvardhiṣāṃcakara",
+          "varīvardhiṣāñcakara",
+          "varīvardhiṣāṃcakāra",
+          "varīvardhiṣāñcakāra",
+          "varīvardhiṣāṃbabhūva",
+          "varīvardhiṣāmbabhūva",
+          "varīvardhiṣāmāsa"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "varvardhiṣāṃcakṛva",
+          "varvardhiṣāñcakṛva",
+          "varvardhiṣāṃbabhūviva",
+          "varvardhiṣāmbabhūviva",
+          "varvardhiṣāmāsiva",
+          "varivardhiṣāṃcakṛva",
+          "varivardhiṣāñcakṛva",
+          "varivardhiṣāṃbabhūviva",
+          "varivardhiṣāmbabhūviva",
+          "varivardhiṣāmāsiva",
+          "varīvardhiṣāṃcakṛva",
+          "varīvardhiṣāñcakṛva",
+          "varīvardhiṣāṃbabhūviva",
+          "varīvardhiṣāmbabhūviva",
+          "varīvardhiṣāmāsiva"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "varvardhiṣāṃcakṛma",
+          "varvardhiṣāñcakṛma",
+          "varvardhiṣāṃbabhūvima",
+          "varvardhiṣāmbabhūvima",
+          "varvardhiṣāmāsima",
+          "varivardhiṣāṃcakṛma",
+          "varivardhiṣāñcakṛma",
+          "varivardhiṣāṃbabhūvima",
+          "varivardhiṣāmbabhūvima",
+          "varivardhiṣāmāsima",
+          "varīvardhiṣāṃcakṛma",
+          "varīvardhiṣāñcakṛma",
+          "varīvardhiṣāṃbabhūvima",
+          "varīvardhiṣāmbabhūvima",
+          "varīvardhiṣāmāsima"
+        ],
+        "root_id": "01.0863",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "śarśardhiṣyati",
+          "śariśardhiṣyati",
+          "śarīśardhiṣyati"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "śarśardhiṣyataḥ",
+          "śariśardhiṣyataḥ",
+          "śarīśardhiṣyataḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "śarśardhiṣyanti",
+          "śariśardhiṣyanti",
+          "śarīśardhiṣyanti"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "śarśardhiṣyasi",
+          "śariśardhiṣyasi",
+          "śarīśardhiṣyasi"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "śarśardhiṣyathaḥ",
+          "śariśardhiṣyathaḥ",
+          "śarīśardhiṣyathaḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "śarśardhiṣyatha",
+          "śariśardhiṣyatha",
+          "śarīśardhiṣyatha"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "śarśardhiṣyāmi",
+          "śariśardhiṣyāmi",
+          "śarīśardhiṣyāmi"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "śarśardhiṣyāvaḥ",
+          "śariśardhiṣyāvaḥ",
+          "śarīśardhiṣyāvaḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "śarśardhiṣyāmaḥ",
+          "śariśardhiṣyāmaḥ",
+          "śarīśardhiṣyāmaḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "aśarśardhiṣyat",
+          "aśarśardhiṣyad",
+          "aśariśardhiṣyat",
+          "aśariśardhiṣyad",
+          "aśarīśardhiṣyat",
+          "aśarīśardhiṣyad"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "aśarśardhiṣyatām",
+          "aśariśardhiṣyatām",
+          "aśarīśardhiṣyatām"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "aśarśardhiṣyan",
+          "aśariśardhiṣyan",
+          "aśarīśardhiṣyan"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "aśarśardhiṣyaḥ",
+          "aśariśardhiṣyaḥ",
+          "aśarīśardhiṣyaḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "aśarśardhiṣyatam",
+          "aśariśardhiṣyatam",
+          "aśarīśardhiṣyatam"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "aśarśardhiṣyata",
+          "aśariśardhiṣyata",
+          "aśarīśardhiṣyata"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "aśarśardhiṣyam",
+          "aśariśardhiṣyam",
+          "aśarīśardhiṣyam"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "aśarśardhiṣyāva",
+          "aśariśardhiṣyāva",
+          "aśarīśardhiṣyāva"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "aśarśardhiṣyāma",
+          "aśariśardhiṣyāma",
+          "aśarīśardhiṣyāma"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → sya"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "śarśardhiṣati",
+          "śariśardhiṣati",
+          "śarīśardhiṣati"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "śarśardhiṣataḥ",
+          "śariśardhiṣataḥ",
+          "śarīśardhiṣataḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "śarśardhiṣanti",
+          "śariśardhiṣanti",
+          "śarīśardhiṣanti"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "śarśardhiṣasi",
+          "śariśardhiṣasi",
+          "śarīśardhiṣasi"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "śarśardhiṣathaḥ",
+          "śariśardhiṣathaḥ",
+          "śarīśardhiṣathaḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "śarśardhiṣatha",
+          "śariśardhiṣatha",
+          "śarīśardhiṣatha"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "śarśardhiṣāmi",
+          "śariśardhiṣāmi",
+          "śarīśardhiṣāmi"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "śarśardhiṣāvaḥ",
+          "śariśardhiṣāvaḥ",
+          "śarīśardhiṣāvaḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "śarśardhiṣāmaḥ",
+          "śariśardhiṣāmaḥ",
+          "śarīśardhiṣāmaḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "aśarśardhiṣat",
+          "aśariśardhiṣat",
+          "aśarīśardhiṣat"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "aśarśardhiṣatām",
+          "aśariśardhiṣatām",
+          "aśarīśardhiṣatām"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "aśarśardhiṣan",
+          "aśariśardhiṣan",
+          "aśarīśardhiṣan"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "aśarśardhiṣaḥ",
+          "aśariśardhiṣaḥ",
+          "aśarīśardhiṣaḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "aśarśardhiṣatam",
+          "aśariśardhiṣatam",
+          "aśarīśardhiṣatam"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "aśarśardhiṣata",
+          "aśariśardhiṣata",
+          "aśarīśardhiṣata"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "aśarśardhiṣam",
+          "aśariśardhiṣam",
+          "aśarīśardhiṣam"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "aśarśardhiṣāva",
+          "aśariśardhiṣāva",
+          "aśarīśardhiṣāva"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "aśarśardhiṣāma",
+          "aśariśardhiṣāma",
+          "aśarīśardhiṣāma"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "śarśardhiṣatu",
+          "śariśardhiṣatu",
+          "śarīśardhiṣatu"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "śarśardhiṣatām",
+          "śariśardhiṣatām",
+          "śarīśardhiṣatām"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "śarśardhiṣantu",
+          "śariśardhiṣantu",
+          "śarīśardhiṣantu"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "śarśardhiṣa",
+          "śariśardhiṣa",
+          "śarīśardhiṣa"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "śarśardhiṣatam",
+          "śariśardhiṣatam",
+          "śarīśardhiṣatam"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "śarśardhiṣata",
+          "śariśardhiṣata",
+          "śarīśardhiṣata"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "śarśardhiṣāṇi",
+          "śariśardhiṣāṇi",
+          "śarīśardhiṣāṇi"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "śarśardhiṣāva",
+          "śariśardhiṣāva",
+          "śarīśardhiṣāva"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "śarśardhiṣāma",
+          "śariśardhiṣāma",
+          "śarīśardhiṣāma"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "śarśardhiṣet",
+          "śariśardhiṣet",
+          "śarīśardhiṣet"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "śarśardhiṣetām",
+          "śariśardhiṣetām",
+          "śarīśardhiṣetām"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "śarśardhiṣeyuḥ",
+          "śariśardhiṣeyuḥ",
+          "śarīśardhiṣeyuḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "śarśardhiṣeḥ",
+          "śariśardhiṣeḥ",
+          "śarīśardhiṣeḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "śarśardhiṣetam",
+          "śariśardhiṣetam",
+          "śarīśardhiṣetam"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "śarśardhiṣeta",
+          "śariśardhiṣeta",
+          "śarīśardhiṣeta"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "śarśardhiṣeyam",
+          "śariśardhiṣeyam",
+          "śarīśardhiṣeyam"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "śarśardhiṣeva",
+          "śariśardhiṣeva",
+          "śarīśardhiṣeva"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "śarśardhiṣema",
+          "śariśardhiṣema",
+          "śarīśardhiṣema"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "śarśardhiṣiṣyati",
+          "śariśardhiṣiṣyati",
+          "śarīśardhiṣiṣyati"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "śarśardhiṣiṣyataḥ",
+          "śariśardhiṣiṣyataḥ",
+          "śarīśardhiṣiṣyataḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "śarśardhiṣiṣyanti",
+          "śariśardhiṣiṣyanti",
+          "śarīśardhiṣiṣyanti"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "śarśardhiṣiṣyasi",
+          "śariśardhiṣiṣyasi",
+          "śarīśardhiṣiṣyasi"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "śarśardhiṣiṣyathaḥ",
+          "śariśardhiṣiṣyathaḥ",
+          "śarīśardhiṣiṣyathaḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "śarśardhiṣiṣyatha",
+          "śariśardhiṣiṣyatha",
+          "śarīśardhiṣiṣyatha"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "śarśardhiṣiṣyāmi",
+          "śariśardhiṣiṣyāmi",
+          "śarīśardhiṣiṣyāmi"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "śarśardhiṣiṣyāvaḥ",
+          "śariśardhiṣiṣyāvaḥ",
+          "śarīśardhiṣiṣyāvaḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "śarśardhiṣiṣyāmaḥ",
+          "śariśardhiṣiṣyāmaḥ",
+          "śarīśardhiṣiṣyāmaḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "śarśardhiṣitā",
+          "śariśardhiṣitā",
+          "śarīśardhiṣitā"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "śarśardhiṣitārau",
+          "śariśardhiṣitārau",
+          "śarīśardhiṣitārau"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "śarśardhiṣitāraḥ",
+          "śariśardhiṣitāraḥ",
+          "śarīśardhiṣitāraḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "śarśardhiṣitāsi",
+          "śariśardhiṣitāsi",
+          "śarīśardhiṣitāsi"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "śarśardhiṣitāsthaḥ",
+          "śariśardhiṣitāsthaḥ",
+          "śarīśardhiṣitāsthaḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "śarśardhiṣitāstha",
+          "śariśardhiṣitāstha",
+          "śarīśardhiṣitāstha"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "śarśardhiṣitāsmi",
+          "śariśardhiṣitāsmi",
+          "śarīśardhiṣitāsmi"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "śarśardhiṣitāsvaḥ",
+          "śariśardhiṣitāsvaḥ",
+          "śarīśardhiṣitāsvaḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "śarśardhiṣitāsmaḥ",
+          "śariśardhiṣitāsmaḥ",
+          "śarīśardhiṣitāsmaḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "aśarśardhiṣiṣyat",
+          "aśariśardhiṣiṣyat",
+          "aśarīśardhiṣiṣyat"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "aśarśardhiṣiṣyatām",
+          "aśariśardhiṣiṣyatām",
+          "aśarīśardhiṣiṣyatām"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "aśarśardhiṣiṣyan",
+          "aśariśardhiṣiṣyan",
+          "aśarīśardhiṣiṣyan"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "aśarśardhiṣiṣyaḥ",
+          "aśariśardhiṣiṣyaḥ",
+          "aśarīśardhiṣiṣyaḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "aśarśardhiṣiṣyatam",
+          "aśariśardhiṣiṣyatam",
+          "aśarīśardhiṣiṣyatam"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "aśarśardhiṣiṣyata",
+          "aśariśardhiṣiṣyata",
+          "aśarīśardhiṣiṣyata"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "aśarśardhiṣiṣyam",
+          "aśariśardhiṣiṣyam",
+          "aśarīśardhiṣiṣyam"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "aśarśardhiṣiṣyāva",
+          "aśariśardhiṣiṣyāva",
+          "aśarīśardhiṣiṣyāva"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "aśarśardhiṣiṣyāma",
+          "aśariśardhiṣiṣyāma",
+          "aśarīśardhiṣiṣyāma"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "śarśardhiṣyāt",
+          "śariśardhiṣyāt",
+          "śarīśardhiṣyāt"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "śarśardhiṣyāstām",
+          "śariśardhiṣyāstām",
+          "śarīśardhiṣyāstām"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "śarśardhiṣyāsuḥ",
+          "śariśardhiṣyāsuḥ",
+          "śarīśardhiṣyāsuḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "śarśardhiṣyāḥ",
+          "śariśardhiṣyāḥ",
+          "śarīśardhiṣyāḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "śarśardhiṣyāstam",
+          "śariśardhiṣyāstam",
+          "śarīśardhiṣyāstam"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "śarśardhiṣyāsta",
+          "śariśardhiṣyāsta",
+          "śarīśardhiṣyāsta"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "śarśardhiṣyāsam",
+          "śariśardhiṣyāsam",
+          "śarīśardhiṣyāsam"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "śarśardhiṣyāsva",
+          "śariśardhiṣyāsva",
+          "śarīśardhiṣyāsva"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "śarśardhiṣyāsma",
+          "śariśardhiṣyāsma",
+          "śarīśardhiṣyāsma"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "aśarśardhiṣīt",
+          "aśariśardhiṣīt",
+          "aśarīśardhiṣīt"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "aśarśardhiṣiṣṭām",
+          "aśariśardhiṣiṣṭām",
+          "aśarīśardhiṣiṣṭām"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "aśarśardhiṣiṣuḥ",
+          "aśariśardhiṣiṣuḥ",
+          "aśarīśardhiṣiṣuḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "aśarśardhiṣīḥ",
+          "aśariśardhiṣīḥ",
+          "aśarīśardhiṣīḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "aśarśardhiṣiṣṭam",
+          "aśariśardhiṣiṣṭam",
+          "aśarīśardhiṣiṣṭam"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "aśarśardhiṣiṣṭa",
+          "aśariśardhiṣiṣṭa",
+          "aśarīśardhiṣiṣṭa"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "aśarśardhiṣiṣam",
+          "aśariśardhiṣiṣam",
+          "aśarīśardhiṣiṣam"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "aśarśardhiṣiṣva",
+          "aśariśardhiṣiṣva",
+          "aśarīśardhiṣiṣva"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "aśarśardhiṣiṣma",
+          "aśariśardhiṣiṣma",
+          "aśarīśardhiṣiṣma"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "śarśardhiṣāṃcakāra",
+          "śarśardhiṣāñcakāra",
+          "śarśardhiṣāṃbabhūva",
+          "śarśardhiṣāmbabhūva",
+          "śarśardhiṣāmāsa",
+          "śariśardhiṣāṃcakāra",
+          "śariśardhiṣāñcakāra",
+          "śariśardhiṣāṃbabhūva",
+          "śariśardhiṣāmbabhūva",
+          "śariśardhiṣāmāsa",
+          "śarīśardhiṣāṃcakāra",
+          "śarīśardhiṣāñcakāra",
+          "śarīśardhiṣāṃbabhūva",
+          "śarīśardhiṣāmbabhūva",
+          "śarīśardhiṣāmāsa"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "śarśardhiṣāṃcakratuḥ",
+          "śarśardhiṣāñcakratuḥ",
+          "śarśardhiṣāṃbabhūvatuḥ",
+          "śarśardhiṣāmbabhūvatuḥ",
+          "śarśardhiṣāmāsatuḥ",
+          "śariśardhiṣāṃcakratuḥ",
+          "śariśardhiṣāñcakratuḥ",
+          "śariśardhiṣāṃbabhūvatuḥ",
+          "śariśardhiṣāmbabhūvatuḥ",
+          "śariśardhiṣāmāsatuḥ",
+          "śarīśardhiṣāṃcakratuḥ",
+          "śarīśardhiṣāñcakratuḥ",
+          "śarīśardhiṣāṃbabhūvatuḥ",
+          "śarīśardhiṣāmbabhūvatuḥ",
+          "śarīśardhiṣāmāsatuḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "śarśardhiṣāṃcakruḥ",
+          "śarśardhiṣāñcakruḥ",
+          "śarśardhiṣāṃbabhūvuḥ",
+          "śarśardhiṣāmbabhūvuḥ",
+          "śarśardhiṣāmāsuḥ",
+          "śariśardhiṣāṃcakruḥ",
+          "śariśardhiṣāñcakruḥ",
+          "śariśardhiṣāṃbabhūvuḥ",
+          "śariśardhiṣāmbabhūvuḥ",
+          "śariśardhiṣāmāsuḥ",
+          "śarīśardhiṣāṃcakruḥ",
+          "śarīśardhiṣāñcakruḥ",
+          "śarīśardhiṣāṃbabhūvuḥ",
+          "śarīśardhiṣāmbabhūvuḥ",
+          "śarīśardhiṣāmāsuḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "śarśardhiṣāṃcakartha",
+          "śarśardhiṣāñcakartha",
+          "śarśardhiṣāṃbabhūvitha",
+          "śarśardhiṣāmbabhūvitha",
+          "śarśardhiṣāmāsitha",
+          "śariśardhiṣāṃcakartha",
+          "śariśardhiṣāñcakartha",
+          "śariśardhiṣāṃbabhūvitha",
+          "śariśardhiṣāmbabhūvitha",
+          "śariśardhiṣāmāsitha",
+          "śarīśardhiṣāṃcakartha",
+          "śarīśardhiṣāñcakartha",
+          "śarīśardhiṣāṃbabhūvitha",
+          "śarīśardhiṣāmbabhūvitha",
+          "śarīśardhiṣāmāsitha"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "śarśardhiṣāṃcakrathuḥ",
+          "śarśardhiṣāñcakrathuḥ",
+          "śarśardhiṣāṃbabhūvathuḥ",
+          "śarśardhiṣāmbabhūvathuḥ",
+          "śarśardhiṣāmāsathuḥ",
+          "śariśardhiṣāṃcakrathuḥ",
+          "śariśardhiṣāñcakrathuḥ",
+          "śariśardhiṣāṃbabhūvathuḥ",
+          "śariśardhiṣāmbabhūvathuḥ",
+          "śariśardhiṣāmāsathuḥ",
+          "śarīśardhiṣāṃcakrathuḥ",
+          "śarīśardhiṣāñcakrathuḥ",
+          "śarīśardhiṣāṃbabhūvathuḥ",
+          "śarīśardhiṣāmbabhūvathuḥ",
+          "śarīśardhiṣāmāsathuḥ"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "śarśardhiṣāṃcakra",
+          "śarśardhiṣāñcakra",
+          "śarśardhiṣāṃbabhūva",
+          "śarśardhiṣāmbabhūva",
+          "śarśardhiṣāmāsa",
+          "śariśardhiṣāṃcakra",
+          "śariśardhiṣāñcakra",
+          "śariśardhiṣāṃbabhūva",
+          "śariśardhiṣāmbabhūva",
+          "śariśardhiṣāmāsa",
+          "śarīśardhiṣāṃcakra",
+          "śarīśardhiṣāñcakra",
+          "śarīśardhiṣāṃbabhūva",
+          "śarīśardhiṣāmbabhūva",
+          "śarīśardhiṣāmāsa"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "śarśardhiṣāṃcakara",
+          "śarśardhiṣāñcakara",
+          "śarśardhiṣāṃcakāra",
+          "śarśardhiṣāñcakāra",
+          "śarśardhiṣāṃbabhūva",
+          "śarśardhiṣāmbabhūva",
+          "śarśardhiṣāmāsa",
+          "śariśardhiṣāṃcakara",
+          "śariśardhiṣāñcakara",
+          "śariśardhiṣāṃcakāra",
+          "śariśardhiṣāñcakāra",
+          "śariśardhiṣāṃbabhūva",
+          "śariśardhiṣāmbabhūva",
+          "śariśardhiṣāmāsa",
+          "śarīśardhiṣāṃcakara",
+          "śarīśardhiṣāñcakara",
+          "śarīśardhiṣāṃcakāra",
+          "śarīśardhiṣāñcakāra",
+          "śarīśardhiṣāṃbabhūva",
+          "śarīśardhiṣāmbabhūva",
+          "śarīśardhiṣāmāsa"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "śarśardhiṣāṃcakṛva",
+          "śarśardhiṣāñcakṛva",
+          "śarśardhiṣāṃbabhūviva",
+          "śarśardhiṣāmbabhūviva",
+          "śarśardhiṣāmāsiva",
+          "śariśardhiṣāṃcakṛva",
+          "śariśardhiṣāñcakṛva",
+          "śariśardhiṣāṃbabhūviva",
+          "śariśardhiṣāmbabhūviva",
+          "śariśardhiṣāmāsiva",
+          "śarīśardhiṣāṃcakṛva",
+          "śarīśardhiṣāñcakṛva",
+          "śarīśardhiṣāṃbabhūviva",
+          "śarīśardhiṣāmbabhūviva",
+          "śarīśardhiṣāmāsiva"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "śarśardhiṣāṃcakṛma",
+          "śarśardhiṣāñcakṛma",
+          "śarśardhiṣāṃbabhūvima",
+          "śarśardhiṣāmbabhūvima",
+          "śarśardhiṣāmāsima",
+          "śariśardhiṣāṃcakṛma",
+          "śariśardhiṣāñcakṛma",
+          "śariśardhiṣāṃbabhūvima",
+          "śariśardhiṣāmbabhūvima",
+          "śariśardhiṣāmāsima",
+          "śarīśardhiṣāṃcakṛma",
+          "śarīśardhiṣāñcakṛma",
+          "śarīśardhiṣāṃbabhūvima",
+          "śarīśardhiṣāmbabhūvima",
+          "śarīśardhiṣāmāsima"
+        ],
+        "root_id": "01.0864",
+        "formation": "intensive root → san → outer lakāra"
+      }
+    ],
+    "panels": [
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRT_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 30
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRT_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 141
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 30
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "VRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 141
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SYA_P",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 30
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lat",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lut",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "ashirling",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "SHRDH_YANG_LUK_SAN_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 141
+      }
+    ],
+    "complete_nine_slot_paradigms": 36
+  },
+  "contextual_profiles": {
+    "VRT_YANG_LUK_SYA_P": {
+      "root": "vṛt",
+      "id": "01.0862",
+      "formation": "yaṅ with luk, direct sya",
+      "pada": "P",
+      "copy_readings": {
+        "ruk": "varvart",
+        "rik": "varivart",
+        "rīk": "varīvart"
+      }
+    },
+    "VRT_YANG_LUK_SAN_P": {
+      "root": "vṛt",
+      "id": "01.0862",
+      "formation": "san on the already reduplicated yaṅ-luk dhātu",
+      "pada": "P",
+      "copy_readings": {
+        "ruk": "varvart",
+        "rik": "varivart",
+        "rīk": "varīvart"
+      }
+    },
+    "VRDH_YANG_LUK_SYA_P": {
+      "root": "vṛdh",
+      "id": "01.0863",
+      "formation": "yaṅ with luk, direct sya",
+      "pada": "P",
+      "copy_readings": {
+        "ruk": "varvardh",
+        "rik": "varivardh",
+        "rīk": "varīvardh"
+      }
+    },
+    "VRDH_YANG_LUK_SAN_P": {
+      "root": "vṛdh",
+      "id": "01.0863",
+      "formation": "san on the already reduplicated yaṅ-luk dhātu",
+      "pada": "P",
+      "copy_readings": {
+        "ruk": "varvardh",
+        "rik": "varivardh",
+        "rīk": "varīvardh"
+      }
+    },
+    "SHRDH_YANG_LUK_SYA_P": {
+      "root": "śṛdh",
+      "id": "01.0864",
+      "formation": "yaṅ with luk, direct sya",
+      "pada": "P",
+      "copy_readings": {
+        "ruk": "śarśardh",
+        "rik": "śariśardh",
+        "rīk": "śarīśardh"
+      }
+    },
+    "SHRDH_YANG_LUK_SAN_P": {
+      "root": "śṛdh",
+      "id": "01.0864",
+      "formation": "san on the already reduplicated yaṅ-luk dhātu",
+      "pada": "P",
+      "copy_readings": {
+        "ruk": "śarśardh",
+        "rik": "śariśardh",
+        "rīk": "śarīśardh"
+      }
+    }
+  },
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "Extend source comparison on the ūdit intensive and other nested affixes.",
+    "The historical Uṇādi marker purposes and the PG121 middle-entitlement perfect requests.",
+    "Broader Sanskrit lexical and syntactic admissions and executable review."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Checked the two explicit commentary anchors, 324 unique finite keys, three copy histories for each root, P imperative ṇatva, the P periphrastic perfect and all 171 archived direct future readings."
+  },
+  "secondary_san_positions": 270,
+  "direct_intensive_sya_positions": 54,
+  "disputed_desiderative_middle_perfect_requests": 45
+}
