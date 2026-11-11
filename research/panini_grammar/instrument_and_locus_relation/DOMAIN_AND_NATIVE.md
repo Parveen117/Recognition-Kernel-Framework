@@ -1,0 +1,3 @@
+# Typed role relation
+
+The full carrier stores the lexical formation (including finite versus nominal host), focus role, sense and policy. Under an optional designation, one fully supplied input branches to two case arrows. Under a complement of senses, each complete input has one relevant case arrow, while an unspecified sense takes their support union. A distributed usage additionally requires a source witness. Projection of these labelled paths reproduces the selected expressions, with their co-reference and event attachment. The converse retains the policy that licensed each path; it cannot collapse the three policies to an undifferentiated two-word list. This is a written finite-domain correspondence with the ordinary case readout.

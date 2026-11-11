@@ -1,0 +1,522 @@
+{
+  "rows": [
+    {
+      "id": "SICKLE",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.42",
+        "literal": "दात्रेण लुनाति"
+      },
+      "phrase": "dātreṇa lunāti",
+      "focus": {
+        "token": "dātreṇa",
+        "lemma": "dātra",
+        "number": "SG"
+      },
+      "event": "REAP",
+      "event_role": "most effective means",
+      "karaka": "karaṇa",
+      "case": "instrumental",
+      "guard": "the sickle is construed as the most effective means of reaping",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "AXE",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.42",
+        "literal": "परशुना छिनत्ति"
+      },
+      "phrase": "paraśunā chinatti",
+      "focus": {
+        "token": "paraśunā",
+        "lemma": "paraśu",
+        "number": "SG"
+      },
+      "event": "CUT",
+      "event_role": "most effective means",
+      "karaka": "karaṇa",
+      "case": "instrumental",
+      "guard": "the axe is construed as the most effective means of cutting",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "DICE_ACC",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.43",
+        "literal": "अक्षान् दीव्यति"
+      },
+      "phrase": "akṣān dīvyati",
+      "focus": {
+        "token": "akṣān",
+        "lemma": "akṣa",
+        "number": "PL"
+      },
+      "event": "PLAY_DICE",
+      "event_role": "means used in play",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "the effective means of the specified div event; karman reading",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "DICE_INS",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.43",
+        "literal": "अक्षैर्दीव्यति"
+      },
+      "phrase": "akṣair dīvyati",
+      "focus": {
+        "token": "akṣaiḥ",
+        "lemma": "akṣa",
+        "number": "PL"
+      },
+      "event": "PLAY_DICE",
+      "event_role": "means used in play",
+      "karaka": "karaṇa",
+      "case": "instrumental",
+      "guard": "the same effective means of play; karaṇa reading",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "HIRE_INS",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.44",
+        "literal": "शतेन परिक्रीतोऽनुब्रूहि"
+      },
+      "phrase": "śatena parikrīto ’nubrūhi",
+      "focus": {
+        "token": "śatena",
+        "lemma": "śata",
+        "number": "SG"
+      },
+      "event": "HIRE_TEMPORARILY",
+      "event_role": "compensation",
+      "karaka": "karaṇa",
+      "case": "instrumental",
+      "guard": "bounded-period engagement at the stated wage",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "HIRE_DAT",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.44",
+        "literal": "शताय परिक्रीतोऽनुब्रूहि"
+      },
+      "phrase": "śatāya parikrīto ’nubrūhi",
+      "focus": {
+        "token": "śatāya",
+        "lemma": "śata",
+        "number": "SG"
+      },
+      "event": "HIRE_TEMPORARILY",
+      "event_role": "compensation",
+      "karaka": "sampradāna",
+      "case": "dative",
+      "guard": "bounded-period engagement; optional sampradāna",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "MAT",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.45",
+        "literal": "कटे आस्ते"
+      },
+      "phrase": "kaṭe āste",
+      "focus": {
+        "token": "kaṭe",
+        "lemma": "kaṭa",
+        "number": "SG"
+      },
+      "event": "SIT",
+      "event_role": "support of the actor",
+      "karaka": "adhikaraṇa",
+      "case": "locative",
+      "guard": "a mat supports the seated participant",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "POT",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.45",
+        "literal": "स्थाल्यां पचति"
+      },
+      "phrase": "sthālyāṃ pacati",
+      "focus": {
+        "token": "sthālyām",
+        "lemma": "sthālī",
+        "number": "SG"
+      },
+      "event": "COOK",
+      "event_role": "support of the cooking event",
+      "karaka": "adhikaraṇa",
+      "case": "locative",
+      "guard": "the pot provides the locus for the material being cooked",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "ADHI_SHI",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.46",
+        "literal": "ग्राममधिशेते"
+      },
+      "phrase": "grāmam adhiśete",
+      "focus": {
+        "token": "grāmam",
+        "lemma": "grāma",
+        "number": "SG"
+      },
+      "event": "LIE_IN",
+      "event_role": "support",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "adhi is attached to śī; the support is selected as karman",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "ADHI_STHA",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.46",
+        "literal": "ग्राममधितिष्ठति"
+      },
+      "phrase": "grāmam adhitiṣṭhati",
+      "focus": {
+        "token": "grāmam",
+        "lemma": "grāma",
+        "number": "SG"
+      },
+      "event": "OCCUPY",
+      "event_role": "support",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "adhi is attached to sthā",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "ADHI_AS",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.46",
+        "literal": "पर्वतमध्यास्ते"
+      },
+      "phrase": "parvatam adhyāste",
+      "focus": {
+        "token": "parvatam",
+        "lemma": "parvata",
+        "number": "SG"
+      },
+      "event": "SIT_ON",
+      "event_role": "support",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "adhi is attached to ās",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "ABHINI_ENTER",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.47",
+        "literal": "ग्राममभिनिविशते"
+      },
+      "phrase": "grāmam abhiniviśate",
+      "focus": {
+        "token": "grāmam",
+        "lemma": "grāma",
+        "number": "SG"
+      },
+      "event": "ENTER",
+      "event_role": "support",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "the sequence abhi-ni is attached to viś in the cited usage",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "ABHINI_FIXATION",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.47",
+        "literal": "पापेऽभिनिवेशः"
+      },
+      "phrase": "pāpe ’bhiniveśaḥ",
+      "focus": {
+        "token": "pāpe",
+        "lemma": "pāpa",
+        "number": "SG"
+      },
+      "event": "FIXATION_NOMINAL",
+      "event_role": "domain of fixation",
+      "karaka": "adhikaraṇa",
+      "case": "locative",
+      "guard": "source-given fixed usage of a deverbal noun",
+      "example_type": "DISTRIBUTED_EXCEPTION",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "UPA_DWELL",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.48",
+        "literal": "ग्राममुपवसति सेना"
+      },
+      "phrase": "grāmam upavasati senā",
+      "focus": {
+        "token": "grāmam",
+        "lemma": "grāma",
+        "number": "SG"
+      },
+      "event": "DWELL",
+      "event_role": "place of dwelling",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "upa+vas with an army dwelling in the village",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "ANU_DWELL",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.48",
+        "literal": "ग्राममनुवसति"
+      },
+      "phrase": "grāmam anuvasati",
+      "focus": {
+        "token": "grāmam",
+        "lemma": "grāma",
+        "number": "SG"
+      },
+      "event": "DWELL",
+      "event_role": "place of dwelling",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "anu+vas in the residence sense",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "ADHI_DWELL",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.48",
+        "literal": "ग्राममधिवसति"
+      },
+      "phrase": "grāmam adhivasati",
+      "focus": {
+        "token": "grāmam",
+        "lemma": "grāma",
+        "number": "SG"
+      },
+      "event": "DWELL",
+      "event_role": "place of dwelling",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "adhi+vas in the residence sense",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "A_DWELL",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.48",
+        "literal": "ग्राममावसति"
+      },
+      "phrase": "grāmam āvasati",
+      "focus": {
+        "token": "grāmam",
+        "lemma": "grāma",
+        "number": "SG"
+      },
+      "event": "DWELL",
+      "event_role": "place of dwelling",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "āṅ+vas in the residence sense",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "UPA_FAST",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.48",
+        "literal": "ग्राम उपवसति"
+      },
+      "phrase": "grāma upavasati",
+      "focus": {
+        "token": "grāme",
+        "lemma": "grāma",
+        "number": "SG"
+      },
+      "event": "FAST",
+      "event_role": "place of fasting",
+      "karaka": "adhikaraṇa",
+      "case": "locative",
+      "guard": "abstaining from food; source vārttika excludes the promotion",
+      "example_type": "VARTTIKA_CONTRAST",
+      "finite_position_credit": 0
+    }
+  ],
+  "rule_routes": [
+    {
+      "sutra": "1.4.42",
+      "guard": "most effective means",
+      "designations": [
+        "karaṇa"
+      ],
+      "policy": "perspectival"
+    },
+    {
+      "sutra": "1.4.43",
+      "guard": "effective means of div",
+      "designations": [
+        "karman",
+        "karaṇa"
+      ],
+      "policy": "two licensed case routes"
+    },
+    {
+      "sutra": "1.4.44",
+      "guard": "payment in temporary hiring",
+      "designations": [
+        "karaṇa",
+        "sampradāna"
+      ],
+      "policy": "optional designation"
+    },
+    {
+      "sutra": "1.4.45",
+      "guard": "support of the actor or object underlying the event",
+      "designations": [
+        "adhikaraṇa"
+      ],
+      "policy": "general"
+    },
+    {
+      "sutra": "1.4.46",
+      "guard": "support with adhi+śī/sthā/ās",
+      "designations": [
+        "karman"
+      ],
+      "policy": "specified override"
+    },
+    {
+      "sutra": "1.4.47",
+      "guard": "abhi-ni+viś",
+      "designations": [
+        "karman",
+        "adhikaraṇa"
+      ],
+      "policy": "vyavasthita; distribute by source usage"
+    },
+    {
+      "sutra": "1.4.48",
+      "guard": "upa/anu/adhi/āṅ+vas",
+      "designations": [
+        "karman",
+        "adhikaraṇa"
+      ],
+      "policy": "residence versus explicit fasting exception"
+    }
+  ],
+  "reviewed_queries": [
+    {
+      "id": "DICE_ALTERNATIVE",
+      "input": {
+        "event": "PLAY_DICE",
+        "focus": "dice"
+      },
+      "row_ids": [
+        "DICE_ACC",
+        "DICE_INS"
+      ],
+      "explanation": "One underlying means role has two licensed cases.",
+      "projection": null,
+      "value": null
+    },
+    {
+      "id": "WAGE_ALTERNATIVE",
+      "input": {
+        "event": "HIRE_TEMPORARILY",
+        "wage": "hundred"
+      },
+      "row_ids": [
+        "HIRE_INS",
+        "HIRE_DAT"
+      ],
+      "explanation": "Two licensed compensation case expressions.",
+      "projection": null,
+      "value": null
+    },
+    {
+      "id": "UPAVASATI_UNRESOLVED",
+      "input": {
+        "verb": "upavasati",
+        "nominal": "grāma",
+        "sense": "unknown"
+      },
+      "row_ids": [
+        "UPA_DWELL",
+        "UPA_FAST"
+      ],
+      "explanation": "Residence and fasting have different case outcomes; the unknown sense must survive.",
+      "projection": null,
+      "value": null
+    },
+    {
+      "id": "ABHINI_LIMITED",
+      "input": {
+        "prefix": [
+          "abhi",
+          "ni"
+        ],
+        "root": "viś"
+      },
+      "row_ids": [
+        "ABHINI_ENTER",
+        "ABHINI_FIXATION"
+      ],
+      "explanation": "Fixed uses exemplify the distributed vibhāṣā; only the former row is a finite verb.",
+      "projection": null,
+      "value": null
+    },
+    {
+      "id": "ADHI_CLASS",
+      "input": {
+        "rule": "1.4.46"
+      },
+      "row_ids": [
+        "ADHI_SHI",
+        "ADHI_STHA",
+        "ADHI_AS"
+      ],
+      "explanation": "The examples select accusative support under the three named verb bases.",
+      "projection": "case",
+      "value": "accusative"
+    }
+  ],
+  "schema": "rkf.panini.pg136.karaka.v1",
+  "normalization": "The phrase may display external sandhi or separated words. The focus supplies the separated form. The literal source field controls attestation."
+}
