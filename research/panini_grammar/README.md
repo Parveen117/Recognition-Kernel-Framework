@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG265 — Travelling forms in the Ṛgveda and the two wheels of the wedding chariot.** [Packet](rigvedic_ya_participles_and_the_wedding_chariot/README.md). Zero new finite positions. Cumulative **48,590**.
+
 **PG264 — The traveller and the wind, with and without the participial nasal.** [Packet](ya_va_active_participles_and_optional_num/README.md). Zero new finite positions. Cumulative **48,590**.
 
 **PG263 — Four complete adādi histories and the wind in two settings.** [Packet](four_adadi_perfects_and_the_wind/README.md). 144 positions, 152 readings and 152 paths. Cumulative **48,590**.
