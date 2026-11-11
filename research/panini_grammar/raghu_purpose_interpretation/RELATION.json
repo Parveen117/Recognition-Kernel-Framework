@@ -1,0 +1,164 @@
+{
+  "frame": {
+    "id": "RAGHU_8_33_PURPOSE",
+    "events": [
+      {
+        "id": "travel",
+        "predicate": "go",
+        "formation": "yā + liṭ, yayau"
+      },
+      {
+        "id": "play",
+        "predicate": "sing near Śiva with a vīṇā",
+        "formation": "upa + vīṇā + ṇic + tumun"
+      }
+    ],
+    "entities": [
+      {
+        "id": "narada",
+        "lemma": "nārada",
+        "surface_status": "overt"
+      },
+      {
+        "id": "deity",
+        "lemma": "īśvara",
+        "surface_status": "overt"
+      },
+      {
+        "id": "instrument_kind",
+        "lemma": "vīṇā",
+        "surface_status": "implicit"
+      }
+    ],
+    "role_edges": [
+      {
+        "event": "travel",
+        "entity": "narada",
+        "role": "traveller",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": "nominative",
+        "source_rows": [
+          "Ragh_8.33/l[2]"
+        ],
+        "source_status": "explicit"
+      },
+      {
+        "event": "travel",
+        "entity": "deity",
+        "role": "destination of the journey on the selected reading",
+        "designations": [
+          "karman"
+        ],
+        "case": "accusative",
+        "source_rows": [
+          "Ragh_8.33/l[1]"
+        ],
+        "source_status": "explicit"
+      },
+      {
+        "event": "play",
+        "entity": "narada",
+        "role": "intended performer",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": null,
+        "source_rows": [
+          "Ragh_8.33/l[2]"
+        ],
+        "source_status": "contextual"
+      },
+      {
+        "event": "play",
+        "entity": "instrument_kind",
+        "role": "instrument incorporated in the intended performance",
+        "designations": [
+          "karaṇa"
+        ],
+        "case": null,
+        "source_rows": [
+          "3.1.25#0"
+        ],
+        "source_status": "contextual"
+      }
+    ],
+    "agreement": [
+      {
+        "event": "travel",
+        "controller": "narada",
+        "slot": "3sg"
+      }
+    ],
+    "event_links": [],
+    "source_scope": "Raghuvaṃśa 8.33. Selected motion, destination and purpose. The nominal base contributes an instrument kind inside the intended performance."
+  },
+  "anchors": {
+    "nāradaḥ": [
+      [
+        2,
+        43,
+        50,
+        "W"
+      ]
+    ],
+    "yayau": [
+      [
+        2,
+        13,
+        18,
+        "W"
+      ]
+    ],
+    "upavīṇayituṃ": [
+      [
+        2,
+        0,
+        12,
+        "W"
+      ]
+    ],
+    "īśvaram": [
+      [
+        1,
+        48,
+        55,
+        "W"
+      ]
+    ]
+  },
+  "purpose": {
+    "matrix": "travel",
+    "description": "play",
+    "intended_actor": "narada",
+    "near": "deity",
+    "actualization": "open"
+  },
+  "models": [
+    {
+      "journey_occurs": true,
+      "performance_is_purpose": true,
+      "performer_is_narada": true,
+      "performance_occurs": false
+    },
+    {
+      "journey_occurs": true,
+      "performance_is_purpose": true,
+      "performer_is_narada": true,
+      "performance_occurs": true
+    }
+  ],
+  "query_results": {
+    "journey_occurs": "entailed",
+    "performance_is_purpose": "entailed",
+    "performer_is_narada": "entailed",
+    "performance_occurs": "open"
+  },
+  "domain": "assertion in verse 8.33, excluding later narrative",
+  "evidence_classes": {
+    "poem": "word and reference",
+    "commentary": "lexical construction and sense",
+    "attachment_and_models": "written analysis"
+  }
+}

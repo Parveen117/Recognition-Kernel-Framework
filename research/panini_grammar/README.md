@@ -1410,6 +1410,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG169 — Nārada’s journey and its intended performance.** [Packet](raghu_purpose_interpretation/README.md). Zero new finite positions. Cumulative **40,109**.
+
 **PG168 — Five outer inflections of the named nominal actions.** [Packet](satya_named_outer/README.md). 1,350 positions, 2,622 readings and 2,622 paths. Cumulative **40,109**.
 
 **PG167 — Fifteen prefix-sensitive actions under the satyāpa nominal rule.** [Packet](satya_named_nominal_actions/README.md). 1,080 positions, 1,134 readings and 1,134 paths. Cumulative **38,759**.
