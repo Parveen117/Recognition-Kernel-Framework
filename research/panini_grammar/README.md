@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG274 — The cutting and striking roots across augment and reduplication.** [Packet](cutting_and_striking_ordered_prefix_and_reduplication/README.md). 42 positions, 48 readings and 48 paths. Cumulative **50,072**.
+
 **PG273 — Four aorist–imperfect coincidences and the completed middle schedules.** [Packet](four_ordered_middle_aorists_and_ks_loss/README.md). 144 positions, 178 readings and 178 paths. Cumulative **50,030**.
 
 **PG272 — Shared third-person futures and four middle blessing clusters.** [Packet](four_ordered_middle_futures_and_blessing_clusters/README.md). 288 positions, 288 readings and 288 paths. Cumulative **49,886**.
