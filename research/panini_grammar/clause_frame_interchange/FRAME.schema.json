@@ -1,0 +1,216 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Scoped Sanskrit clause frames",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "minLength": 1
+      },
+      "events": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string",
+              "minLength": 1
+            },
+            "predicate": {
+              "type": "string",
+              "minLength": 1
+            },
+            "formation": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "id",
+            "predicate",
+            "formation"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "entities": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string",
+              "minLength": 1
+            },
+            "lemma": {
+              "type": "string",
+              "minLength": 1
+            },
+            "surface_status": {
+              "enum": [
+                "overt",
+                "implicit"
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "lemma",
+            "surface_status"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "role_edges": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "properties": {
+            "event": {
+              "type": "string",
+              "minLength": 1
+            },
+            "entity": {
+              "type": "string",
+              "minLength": 1
+            },
+            "role": {
+              "type": "string",
+              "minLength": 1
+            },
+            "designations": {
+              "type": "array",
+              "minItems": 1,
+              "uniqueItems": true,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "case": {
+              "enum": [
+                "nominative",
+                "accusative",
+                "instrumental",
+                "dative",
+                "ablative",
+                "genitive",
+                "locative",
+                null
+              ]
+            },
+            "source_rows": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "source_status": {
+              "enum": [
+                "explicit",
+                "contextual"
+              ]
+            }
+          },
+          "required": [
+            "event",
+            "entity",
+            "role",
+            "designations",
+            "case",
+            "source_rows",
+            "source_status"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "agreement": {
+        "type": "array",
+        "minItems": 0,
+        "items": {
+          "type": "object",
+          "properties": {
+            "event": {
+              "type": "string",
+              "minLength": 1
+            },
+            "controller": {
+              "type": "string",
+              "minLength": 1
+            },
+            "slot": {
+              "enum": [
+                "3sg",
+                "3du",
+                "3pl",
+                "2sg",
+                "2du",
+                "2pl",
+                "1sg",
+                "1du",
+                "1pl"
+              ]
+            }
+          },
+          "required": [
+            "event",
+            "controller",
+            "slot"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "event_links": {
+        "type": "array",
+        "minItems": 0,
+        "items": {
+          "type": "object",
+          "properties": {
+            "from": {
+              "type": "string",
+              "minLength": 1
+            },
+            "relation": {
+              "enum": [
+                "precedes",
+                "causes"
+              ]
+            },
+            "to": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "from",
+            "relation",
+            "to"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "source_scope": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "required": [
+      "id",
+      "events",
+      "entities",
+      "role_edges",
+      "agreement",
+      "event_links",
+      "source_scope"
+    ],
+    "additionalProperties": false
+  }
+}

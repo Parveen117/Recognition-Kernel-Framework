@@ -1,0 +1,789 @@
+[
+  {
+    "id": "MILK",
+    "events": [
+      {
+        "id": "e",
+        "predicate": "milk",
+        "formation": "finite kartari"
+      }
+    ],
+    "entities": [
+      {
+        "id": "x",
+        "lemma": "unknown",
+        "surface_status": "implicit"
+      },
+      {
+        "id": "h",
+        "lemma": "pāṇi",
+        "surface_status": "overt"
+      },
+      {
+        "id": "v",
+        "lemma": "kāṃsyapātrī",
+        "surface_status": "overt"
+      },
+      {
+        "id": "c",
+        "lemma": "go",
+        "surface_status": "overt"
+      },
+      {
+        "id": "m",
+        "lemma": "payas",
+        "surface_status": "overt"
+      }
+    ],
+    "role_edges": [
+      {
+        "event": "e",
+        "entity": "x",
+        "role": "milker",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": null,
+        "source_rows": [],
+        "source_status": "contextual"
+      },
+      {
+        "event": "e",
+        "entity": "h",
+        "role": "instrument",
+        "designations": [
+          "karaṇa"
+        ],
+        "case": "instrumental",
+        "source_rows": [
+          "HAND"
+        ],
+        "source_status": "explicit"
+      },
+      {
+        "event": "e",
+        "entity": "v",
+        "role": "vessel",
+        "designations": [
+          "adhikaraṇa"
+        ],
+        "case": "locative",
+        "source_rows": [
+          "VESSEL"
+        ],
+        "source_status": "explicit"
+      },
+      {
+        "event": "e",
+        "entity": "c",
+        "role": "milked animal",
+        "designations": [
+          "karman"
+        ],
+        "case": "accusative",
+        "source_rows": [
+          "COW"
+        ],
+        "source_status": "explicit"
+      },
+      {
+        "event": "e",
+        "entity": "m",
+        "role": "yield",
+        "designations": [
+          "karman"
+        ],
+        "case": "accusative",
+        "source_rows": [
+          "MILK"
+        ],
+        "source_status": "explicit"
+      }
+    ],
+    "agreement": [
+      {
+        "event": "e",
+        "controller": "x",
+        "slot": "3sg"
+      }
+    ],
+    "event_links": [],
+    "source_scope": "Kāśikā 1.4.51 selected akathita interpretation"
+  },
+  {
+    "id": "MODAKA",
+    "events": [
+      {
+        "id": "e",
+        "predicate": "please",
+        "formation": "finite kartari"
+      }
+    ],
+    "entities": [
+      {
+        "id": "x",
+        "lemma": "modaka",
+        "surface_status": "overt"
+      },
+      {
+        "id": "d",
+        "lemma": "devadatta",
+        "surface_status": "overt"
+      }
+    ],
+    "role_edges": [
+      {
+        "event": "e",
+        "entity": "x",
+        "role": "stimulus",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": "nominative",
+        "source_rows": [
+          "MODAKA_ACTOR"
+        ],
+        "source_status": "explicit"
+      },
+      {
+        "event": "e",
+        "entity": "d",
+        "role": "pleased experiencer",
+        "designations": [
+          "sampradāna"
+        ],
+        "case": "dative",
+        "source_rows": [
+          "LIKE_MODAKA"
+        ],
+        "source_status": "explicit"
+      }
+    ],
+    "agreement": [
+      {
+        "event": "e",
+        "controller": "x",
+        "slot": "3sg"
+      }
+    ],
+    "event_links": [],
+    "source_scope": "Kāśikā 1.4.33"
+  },
+  {
+    "id": "POT_AS_ACTOR",
+    "events": [
+      {
+        "id": "e",
+        "predicate": "cook",
+        "formation": "finite kartari"
+      }
+    ],
+    "entities": [
+      {
+        "id": "v",
+        "lemma": "sthālī",
+        "surface_status": "overt"
+      }
+    ],
+    "role_edges": [
+      {
+        "event": "e",
+        "entity": "v",
+        "role": "independently construed actor",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": "nominative",
+        "source_rows": [
+          "POT_AGENT"
+        ],
+        "source_status": "explicit"
+      }
+    ],
+    "agreement": [
+      {
+        "event": "e",
+        "controller": "v",
+        "slot": "3sg"
+      }
+    ],
+    "event_links": [],
+    "source_scope": "Kāśikā 1.4.54; actor-facing perspective"
+  },
+  {
+    "id": "POT_AS_LOCUS",
+    "events": [
+      {
+        "id": "e",
+        "predicate": "cook",
+        "formation": "finite kartari"
+      }
+    ],
+    "entities": [
+      {
+        "id": "x",
+        "lemma": "unknown",
+        "surface_status": "implicit"
+      },
+      {
+        "id": "v",
+        "lemma": "sthālī",
+        "surface_status": "overt"
+      }
+    ],
+    "role_edges": [
+      {
+        "event": "e",
+        "entity": "x",
+        "role": "cook",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": null,
+        "source_rows": [],
+        "source_status": "contextual"
+      },
+      {
+        "event": "e",
+        "entity": "v",
+        "role": "locus",
+        "designations": [
+          "adhikaraṇa"
+        ],
+        "case": "locative",
+        "source_rows": [
+          "POT"
+        ],
+        "source_status": "explicit"
+      }
+    ],
+    "agreement": [
+      {
+        "event": "e",
+        "controller": "x",
+        "slot": "3sg"
+      }
+    ],
+    "event_links": [],
+    "source_scope": "Kāśikā 1.4.45; location-facing perspective"
+  },
+  {
+    "id": "DICE_KARMAN",
+    "events": [
+      {
+        "id": "e",
+        "predicate": "play_dice",
+        "formation": "finite kartari"
+      }
+    ],
+    "entities": [
+      {
+        "id": "x",
+        "lemma": "unknown",
+        "surface_status": "implicit"
+      },
+      {
+        "id": "d",
+        "lemma": "akṣa",
+        "surface_status": "overt"
+      }
+    ],
+    "role_edges": [
+      {
+        "event": "e",
+        "entity": "x",
+        "role": "player",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": null,
+        "source_rows": [],
+        "source_status": "contextual"
+      },
+      {
+        "event": "e",
+        "entity": "d",
+        "role": "means of play",
+        "designations": [
+          "karman"
+        ],
+        "case": "accusative",
+        "source_rows": [
+          "DICE_ACC"
+        ],
+        "source_status": "explicit"
+      }
+    ],
+    "agreement": [
+      {
+        "event": "e",
+        "controller": "x",
+        "slot": "3sg"
+      }
+    ],
+    "event_links": [],
+    "source_scope": "Kāśikā 1.4.43; same input, licensed designation alternative"
+  },
+  {
+    "id": "DICE_KARANA",
+    "events": [
+      {
+        "id": "e",
+        "predicate": "play_dice",
+        "formation": "finite kartari"
+      }
+    ],
+    "entities": [
+      {
+        "id": "x",
+        "lemma": "unknown",
+        "surface_status": "implicit"
+      },
+      {
+        "id": "d",
+        "lemma": "akṣa",
+        "surface_status": "overt"
+      }
+    ],
+    "role_edges": [
+      {
+        "event": "e",
+        "entity": "x",
+        "role": "player",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": null,
+        "source_rows": [],
+        "source_status": "contextual"
+      },
+      {
+        "event": "e",
+        "entity": "d",
+        "role": "means of play",
+        "designations": [
+          "karaṇa"
+        ],
+        "case": "instrumental",
+        "source_rows": [
+          "DICE_INS"
+        ],
+        "source_status": "explicit"
+      }
+    ],
+    "agreement": [
+      {
+        "event": "e",
+        "controller": "x",
+        "slot": "3sg"
+      }
+    ],
+    "event_links": [],
+    "source_scope": "Kāśikā 1.4.43; same input, licensed designation alternative"
+  },
+  {
+    "id": "DWELL",
+    "events": [
+      {
+        "id": "e",
+        "predicate": "dwell",
+        "formation": "finite kartari"
+      }
+    ],
+    "entities": [
+      {
+        "id": "x",
+        "lemma": "senā",
+        "surface_status": "overt"
+      },
+      {
+        "id": "l",
+        "lemma": "grāma",
+        "surface_status": "overt"
+      }
+    ],
+    "role_edges": [
+      {
+        "event": "e",
+        "entity": "x",
+        "role": "actor",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": "nominative",
+        "source_rows": [],
+        "source_status": "contextual"
+      },
+      {
+        "event": "e",
+        "entity": "l",
+        "role": "place",
+        "designations": [
+          "karman"
+        ],
+        "case": "accusative",
+        "source_rows": [
+          "UPA_DWELL"
+        ],
+        "source_status": "explicit"
+      }
+    ],
+    "agreement": [
+      {
+        "event": "e",
+        "controller": "x",
+        "slot": "3sg"
+      }
+    ],
+    "event_links": [],
+    "source_scope": "Kāśikā 1.4.48; sense-conditioned place"
+  },
+  {
+    "id": "FAST",
+    "events": [
+      {
+        "id": "e",
+        "predicate": "fast",
+        "formation": "finite kartari"
+      }
+    ],
+    "entities": [
+      {
+        "id": "x",
+        "lemma": "unknown",
+        "surface_status": "implicit"
+      },
+      {
+        "id": "l",
+        "lemma": "grāma",
+        "surface_status": "overt"
+      }
+    ],
+    "role_edges": [
+      {
+        "event": "e",
+        "entity": "x",
+        "role": "actor",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": null,
+        "source_rows": [],
+        "source_status": "contextual"
+      },
+      {
+        "event": "e",
+        "entity": "l",
+        "role": "place",
+        "designations": [
+          "adhikaraṇa"
+        ],
+        "case": "locative",
+        "source_rows": [
+          "UPA_FAST"
+        ],
+        "source_status": "explicit"
+      }
+    ],
+    "agreement": [
+      {
+        "event": "e",
+        "controller": "x",
+        "slot": "3sg"
+      }
+    ],
+    "event_links": [],
+    "source_scope": "Kāśikā 1.4.48; sense-conditioned place"
+  },
+  {
+    "id": "PROMISE",
+    "events": [
+      {
+        "id": "e0",
+        "predicate": "solicit",
+        "formation": "contextual prior event"
+      },
+      {
+        "id": "e1",
+        "predicate": "promise",
+        "formation": "prati+śru finite kartari"
+      }
+    ],
+    "entities": [
+      {
+        "id": "x",
+        "lemma": "unknown",
+        "surface_status": "implicit"
+      },
+      {
+        "id": "d",
+        "lemma": "devadatta",
+        "surface_status": "overt"
+      },
+      {
+        "id": "c",
+        "lemma": "go",
+        "surface_status": "overt"
+      }
+    ],
+    "role_edges": [
+      {
+        "event": "e0",
+        "entity": "d",
+        "role": "solicitor",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": null,
+        "source_rows": [],
+        "source_status": "contextual"
+      },
+      {
+        "event": "e1",
+        "entity": "x",
+        "role": "promisor",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": null,
+        "source_rows": [],
+        "source_status": "contextual"
+      },
+      {
+        "event": "e1",
+        "entity": "d",
+        "role": "prior solicitor addressed",
+        "designations": [
+          "sampradāna"
+        ],
+        "case": "dative",
+        "source_rows": [
+          "PROMISE"
+        ],
+        "source_status": "explicit"
+      },
+      {
+        "event": "e1",
+        "entity": "c",
+        "role": "thing promised",
+        "designations": [
+          "karman"
+        ],
+        "case": "accusative",
+        "source_rows": [],
+        "source_status": "contextual"
+      }
+    ],
+    "agreement": [
+      {
+        "event": "e1",
+        "controller": "x",
+        "slot": "3sg"
+      }
+    ],
+    "event_links": [
+      {
+        "from": "e0",
+        "relation": "precedes",
+        "to": "e1"
+      }
+    ],
+    "source_scope": "Kāśikā 1.4.40; preceding request and current promise"
+  },
+  {
+    "id": "CAUSE_MAKE_OBJECT",
+    "events": [
+      {
+        "id": "e0",
+        "predicate": "cause",
+        "formation": "ṇic, finite kartari"
+      },
+      {
+        "id": "e1",
+        "predicate": "make",
+        "formation": "embedded base event"
+      }
+    ],
+    "entities": [
+      {
+        "id": "x",
+        "lemma": "unknown",
+        "surface_status": "implicit"
+      },
+      {
+        "id": "m",
+        "lemma": "devadatta",
+        "surface_status": "overt"
+      },
+      {
+        "id": "a",
+        "lemma": "kaṭa",
+        "surface_status": "overt"
+      }
+    ],
+    "role_edges": [
+      {
+        "event": "e0",
+        "entity": "x",
+        "role": "instigator",
+        "designations": [
+          "hetu",
+          "kartṛ"
+        ],
+        "case": null,
+        "source_rows": [
+          "INDEPENDENT_CAUSER"
+        ],
+        "source_status": "explicit"
+      },
+      {
+        "event": "e0",
+        "entity": "m",
+        "role": "causee",
+        "designations": [
+          "karman"
+        ],
+        "case": "accusative",
+        "source_rows": [
+          "MAKE_CAUSEE_ACC"
+        ],
+        "source_status": "explicit"
+      },
+      {
+        "event": "e1",
+        "entity": "m",
+        "role": "maker",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": null,
+        "source_rows": [],
+        "source_status": "contextual"
+      },
+      {
+        "event": "e1",
+        "entity": "a",
+        "role": "artifact",
+        "designations": [
+          "karman"
+        ],
+        "case": "accusative",
+        "source_rows": [],
+        "source_status": "contextual"
+      }
+    ],
+    "agreement": [
+      {
+        "event": "e0",
+        "controller": "x",
+        "slot": "3sg"
+      }
+    ],
+    "event_links": [
+      {
+        "from": "e0",
+        "relation": "causes",
+        "to": "e1"
+      }
+    ],
+    "source_scope": "Kāśikā 1.4.53/55; source-selected causative of kṛ"
+  },
+  {
+    "id": "CAUSE_MAKE_INSTRUMENTAL",
+    "events": [
+      {
+        "id": "e0",
+        "predicate": "cause",
+        "formation": "ṇic, finite kartari"
+      },
+      {
+        "id": "e1",
+        "predicate": "make",
+        "formation": "embedded base event"
+      }
+    ],
+    "entities": [
+      {
+        "id": "x",
+        "lemma": "unknown",
+        "surface_status": "implicit"
+      },
+      {
+        "id": "m",
+        "lemma": "devadatta",
+        "surface_status": "overt"
+      },
+      {
+        "id": "a",
+        "lemma": "kaṭa",
+        "surface_status": "overt"
+      }
+    ],
+    "role_edges": [
+      {
+        "event": "e0",
+        "entity": "x",
+        "role": "instigator",
+        "designations": [
+          "hetu",
+          "kartṛ"
+        ],
+        "case": null,
+        "source_rows": [
+          "INDEPENDENT_CAUSER"
+        ],
+        "source_status": "explicit"
+      },
+      {
+        "event": "e0",
+        "entity": "m",
+        "role": "causee",
+        "designations": [
+          "kartṛ of base event"
+        ],
+        "case": "instrumental",
+        "source_rows": [
+          "MAKE_CAUSEE_INS"
+        ],
+        "source_status": "explicit"
+      },
+      {
+        "event": "e1",
+        "entity": "m",
+        "role": "maker",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": null,
+        "source_rows": [],
+        "source_status": "contextual"
+      },
+      {
+        "event": "e1",
+        "entity": "a",
+        "role": "artifact",
+        "designations": [
+          "karman"
+        ],
+        "case": "accusative",
+        "source_rows": [],
+        "source_status": "contextual"
+      }
+    ],
+    "agreement": [
+      {
+        "event": "e0",
+        "controller": "x",
+        "slot": "3sg"
+      }
+    ],
+    "event_links": [
+      {
+        "from": "e0",
+        "relation": "causes",
+        "to": "e1"
+      }
+    ],
+    "source_scope": "Kāśikā 1.4.53/55; source-selected causative of kṛ"
+  }
+]

@@ -1,0 +1,527 @@
+{
+  "row_index": {
+    "VILLAGE": {
+      "file": "apadana_role_relation/RELATION.json",
+      "row_id": "VILLAGE",
+      "sutra": "1.4.24",
+      "event_role": "departure boundary",
+      "case": "ablative"
+    },
+    "MOUNTAIN": {
+      "file": "apadana_role_relation/RELATION.json",
+      "row_id": "MOUNTAIN",
+      "sutra": "1.4.24",
+      "event_role": "departure boundary",
+      "case": "ablative"
+    },
+    "THIEVES_FEAR": {
+      "file": "apadana_role_relation/RELATION.json",
+      "row_id": "THIEVES_FEAR",
+      "sutra": "1.4.25",
+      "event_role": "threat",
+      "case": "ablative"
+    },
+    "THIEVES_PROTECT": {
+      "file": "apadana_role_relation/RELATION.json",
+      "row_id": "THIEVES_PROTECT",
+      "sutra": "1.4.25",
+      "event_role": "threat",
+      "case": "ablative"
+    },
+    "FOREST": {
+      "file": "apadana_role_relation/RELATION.json",
+      "row_id": "FOREST",
+      "sutra": "1.4.25",
+      "event_role": "scene of fear",
+      "case": "locative"
+    },
+    "STUDY_DEFEAT": {
+      "file": "apadana_role_relation/RELATION.json",
+      "row_id": "STUDY_DEFEAT",
+      "sutra": "1.4.26",
+      "event_role": "unendurable undertaking",
+      "case": "ablative"
+    },
+    "DEFEAT_ENEMIES": {
+      "file": "apadana_role_relation/RELATION.json",
+      "row_id": "DEFEAT_ENEMIES",
+      "sutra": "1.4.26",
+      "event_role": "defeated opponent",
+      "case": "accusative"
+    },
+    "BARLEY": {
+      "file": "apadana_role_relation/RELATION.json",
+      "row_id": "BARLEY",
+      "sutra": "1.4.27",
+      "event_role": "desired object kept away",
+      "case": "ablative"
+    },
+    "FIELD": {
+      "file": "apadana_role_relation/RELATION.json",
+      "row_id": "FIELD",
+      "sutra": "1.4.27",
+      "event_role": "place of prevention",
+      "case": "locative"
+    },
+    "TEACHER_HIDE": {
+      "file": "apadana_role_relation/RELATION.json",
+      "row_id": "TEACHER_HIDE",
+      "sutra": "1.4.28",
+      "event_role": "intended excluded observer",
+      "case": "ablative"
+    },
+    "TEACHER_STUDY": {
+      "file": "apadana_role_relation/RELATION.json",
+      "row_id": "TEACHER_STUDY",
+      "sutra": "1.4.29",
+      "event_role": "instructor",
+      "case": "ablative"
+    },
+    "PERFORMER": {
+      "file": "apadana_role_relation/RELATION.json",
+      "row_id": "PERFORMER",
+      "sutra": "1.4.29",
+      "event_role": "attributed performer",
+      "case": "genitive"
+    },
+    "HORN": {
+      "file": "apadana_role_relation/RELATION.json",
+      "row_id": "HORN",
+      "sutra": "1.4.30",
+      "event_role": "material source",
+      "case": "ablative"
+    },
+    "GANGA": {
+      "file": "apadana_role_relation/RELATION.json",
+      "row_id": "GANGA",
+      "sutra": "1.4.31",
+      "event_role": "first manifestation point",
+      "case": "ablative"
+    },
+    "VITASTA": {
+      "file": "apadana_role_relation/RELATION.json",
+      "row_id": "VITASTA",
+      "sutra": "1.4.31",
+      "event_role": "first manifestation point",
+      "case": "ablative"
+    },
+    "GIVE_TEACHER": {
+      "file": "sampradana_role_relation/RELATION.json",
+      "row_id": "GIVE_TEACHER",
+      "sutra": "1.4.32",
+      "event_role": "intended recipient",
+      "case": "dative"
+    },
+    "GIVE_PUPIL": {
+      "file": "sampradana_role_relation/RELATION.json",
+      "row_id": "GIVE_PUPIL",
+      "sutra": "1.4.32",
+      "event_role": "intended recipient",
+      "case": "dative"
+    },
+    "LIKE_MODAKA": {
+      "file": "sampradana_role_relation/RELATION.json",
+      "row_id": "LIKE_MODAKA",
+      "sutra": "1.4.33",
+      "event_role": "pleased experiencer",
+      "case": "dative"
+    },
+    "MODAKA_ACTOR": {
+      "file": "sampradana_role_relation/RELATION.json",
+      "row_id": "MODAKA_ACTOR",
+      "sutra": "1.4.33",
+      "event_role": "grammatical actor of pleasing",
+      "case": "nominative"
+    },
+    "PRAISE": {
+      "file": "sampradana_role_relation/RELATION.json",
+      "row_id": "PRAISE",
+      "sutra": "1.4.34",
+      "event_role": "person intended to know",
+      "case": "dative"
+    },
+    "DEBT": {
+      "file": "sampradana_role_relation/RELATION.json",
+      "row_id": "DEBT",
+      "sutra": "1.4.35",
+      "event_role": "creditor",
+      "case": "dative"
+    },
+    "FLOWERS": {
+      "file": "sampradana_role_relation/RELATION.json",
+      "row_id": "FLOWERS",
+      "sutra": "1.4.36",
+      "event_role": "desired entity",
+      "case": "dative"
+    },
+    "WOOD": {
+      "file": "sampradana_role_relation/RELATION.json",
+      "row_id": "WOOD",
+      "sutra": "1.4.36",
+      "event_role": "location of longing",
+      "case": "locative"
+    },
+    "ANGER": {
+      "file": "sampradana_role_relation/RELATION.json",
+      "row_id": "ANGER",
+      "sutra": "1.4.37",
+      "event_role": "target of anger",
+      "case": "dative"
+    },
+    "HOSTILITY": {
+      "file": "sampradana_role_relation/RELATION.json",
+      "row_id": "HOSTILITY",
+      "sutra": "1.4.37",
+      "event_role": "target of hostility",
+      "case": "dative"
+    },
+    "ABHI_ANGER": {
+      "file": "sampradana_role_relation/RELATION.json",
+      "row_id": "ABHI_ANGER",
+      "sutra": "1.4.38",
+      "event_role": "target of anger",
+      "case": "accusative"
+    },
+    "ABHI_HOSTILITY": {
+      "file": "sampradana_role_relation/RELATION.json",
+      "row_id": "ABHI_HOSTILITY",
+      "sutra": "1.4.38",
+      "event_role": "target of hostility",
+      "case": "accusative"
+    },
+    "FORTUNE": {
+      "file": "sampradana_role_relation/RELATION.json",
+      "row_id": "FORTUNE",
+      "sutra": "1.4.39",
+      "event_role": "person whose fortune is in question",
+      "case": "dative"
+    },
+    "PROMISE": {
+      "file": "sampradana_role_relation/RELATION.json",
+      "row_id": "PROMISE",
+      "sutra": "1.4.40",
+      "event_role": "agent of preceding solicitation",
+      "case": "dative"
+    },
+    "ASSENT": {
+      "file": "sampradana_role_relation/RELATION.json",
+      "row_id": "ASSENT",
+      "sutra": "1.4.40",
+      "event_role": "agent of preceding solicitation",
+      "case": "dative"
+    },
+    "HOTR": {
+      "file": "sampradana_role_relation/RELATION.json",
+      "row_id": "HOTR",
+      "sutra": "1.4.41",
+      "event_role": "agent of preceding recitation",
+      "case": "dative"
+    },
+    "SICKLE": {
+      "file": "instrument_and_locus_relation/RELATION.json",
+      "row_id": "SICKLE",
+      "sutra": "1.4.42",
+      "event_role": "most effective means",
+      "case": "instrumental"
+    },
+    "AXE": {
+      "file": "instrument_and_locus_relation/RELATION.json",
+      "row_id": "AXE",
+      "sutra": "1.4.42",
+      "event_role": "most effective means",
+      "case": "instrumental"
+    },
+    "DICE_ACC": {
+      "file": "instrument_and_locus_relation/RELATION.json",
+      "row_id": "DICE_ACC",
+      "sutra": "1.4.43",
+      "event_role": "means used in play",
+      "case": "accusative"
+    },
+    "DICE_INS": {
+      "file": "instrument_and_locus_relation/RELATION.json",
+      "row_id": "DICE_INS",
+      "sutra": "1.4.43",
+      "event_role": "means used in play",
+      "case": "instrumental"
+    },
+    "HIRE_INS": {
+      "file": "instrument_and_locus_relation/RELATION.json",
+      "row_id": "HIRE_INS",
+      "sutra": "1.4.44",
+      "event_role": "compensation",
+      "case": "instrumental"
+    },
+    "HIRE_DAT": {
+      "file": "instrument_and_locus_relation/RELATION.json",
+      "row_id": "HIRE_DAT",
+      "sutra": "1.4.44",
+      "event_role": "compensation",
+      "case": "dative"
+    },
+    "MAT": {
+      "file": "instrument_and_locus_relation/RELATION.json",
+      "row_id": "MAT",
+      "sutra": "1.4.45",
+      "event_role": "support of the actor",
+      "case": "locative"
+    },
+    "POT": {
+      "file": "instrument_and_locus_relation/RELATION.json",
+      "row_id": "POT",
+      "sutra": "1.4.45",
+      "event_role": "support of the cooking event",
+      "case": "locative"
+    },
+    "ADHI_SHI": {
+      "file": "instrument_and_locus_relation/RELATION.json",
+      "row_id": "ADHI_SHI",
+      "sutra": "1.4.46",
+      "event_role": "support",
+      "case": "accusative"
+    },
+    "ADHI_STHA": {
+      "file": "instrument_and_locus_relation/RELATION.json",
+      "row_id": "ADHI_STHA",
+      "sutra": "1.4.46",
+      "event_role": "support",
+      "case": "accusative"
+    },
+    "ADHI_AS": {
+      "file": "instrument_and_locus_relation/RELATION.json",
+      "row_id": "ADHI_AS",
+      "sutra": "1.4.46",
+      "event_role": "support",
+      "case": "accusative"
+    },
+    "ABHINI_ENTER": {
+      "file": "instrument_and_locus_relation/RELATION.json",
+      "row_id": "ABHINI_ENTER",
+      "sutra": "1.4.47",
+      "event_role": "support",
+      "case": "accusative"
+    },
+    "ABHINI_FIXATION": {
+      "file": "instrument_and_locus_relation/RELATION.json",
+      "row_id": "ABHINI_FIXATION",
+      "sutra": "1.4.47",
+      "event_role": "domain of fixation",
+      "case": "locative"
+    },
+    "UPA_DWELL": {
+      "file": "instrument_and_locus_relation/RELATION.json",
+      "row_id": "UPA_DWELL",
+      "sutra": "1.4.48",
+      "event_role": "place of dwelling",
+      "case": "accusative"
+    },
+    "ANU_DWELL": {
+      "file": "instrument_and_locus_relation/RELATION.json",
+      "row_id": "ANU_DWELL",
+      "sutra": "1.4.48",
+      "event_role": "place of dwelling",
+      "case": "accusative"
+    },
+    "ADHI_DWELL": {
+      "file": "instrument_and_locus_relation/RELATION.json",
+      "row_id": "ADHI_DWELL",
+      "sutra": "1.4.48",
+      "event_role": "place of dwelling",
+      "case": "accusative"
+    },
+    "A_DWELL": {
+      "file": "instrument_and_locus_relation/RELATION.json",
+      "row_id": "A_DWELL",
+      "sutra": "1.4.48",
+      "event_role": "place of dwelling",
+      "case": "accusative"
+    },
+    "UPA_FAST": {
+      "file": "instrument_and_locus_relation/RELATION.json",
+      "row_id": "UPA_FAST",
+      "sutra": "1.4.48",
+      "event_role": "place of fasting",
+      "case": "locative"
+    },
+    "MAT_OBJECT": {
+      "file": "karman_and_agent_relation/RELATION.json",
+      "row_id": "MAT_OBJECT",
+      "sutra": "1.4.49",
+      "event_role": "intended result",
+      "case": "accusative"
+    },
+    "VILLAGE_GOAL": {
+      "file": "karman_and_agent_relation/RELATION.json",
+      "row_id": "VILLAGE_GOAL",
+      "sutra": "1.4.49",
+      "event_role": "intended destination",
+      "case": "accusative"
+    },
+    "POISON": {
+      "file": "karman_and_agent_relation/RELATION.json",
+      "row_id": "POISON",
+      "sutra": "1.4.50",
+      "event_role": "undesired object",
+      "case": "accusative"
+    },
+    "THIEVES_SEEN": {
+      "file": "karman_and_agent_relation/RELATION.json",
+      "row_id": "THIEVES_SEEN",
+      "sutra": "1.4.50",
+      "event_role": "unwanted or unselected object of perception",
+      "case": "accusative"
+    },
+    "HAND": {
+      "file": "karman_and_agent_relation/RELATION.json",
+      "row_id": "HAND",
+      "sutra": "1.4.51",
+      "event_role": "means of milking",
+      "case": "instrumental"
+    },
+    "VESSEL": {
+      "file": "karman_and_agent_relation/RELATION.json",
+      "row_id": "VESSEL",
+      "sutra": "1.4.51",
+      "event_role": "vessel supporting the process",
+      "case": "locative"
+    },
+    "COW": {
+      "file": "karman_and_agent_relation/RELATION.json",
+      "row_id": "COW",
+      "sutra": "1.4.51",
+      "event_role": "cow as secondary object",
+      "case": "accusative"
+    },
+    "MILK": {
+      "file": "karman_and_agent_relation/RELATION.json",
+      "row_id": "MILK",
+      "sutra": "1.4.51",
+      "event_role": "milk as principal object",
+      "case": "accusative"
+    },
+    "VEDA_PUPIL": {
+      "file": "karman_and_agent_relation/RELATION.json",
+      "row_id": "VEDA_PUPIL",
+      "sutra": "1.4.52",
+      "event_role": "base reciter as causee",
+      "case": "accusative"
+    },
+    "VEDA_TEXT": {
+      "file": "karman_and_agent_relation/RELATION.json",
+      "row_id": "VEDA_TEXT",
+      "sutra": "1.4.52",
+      "event_role": "prior object retained as content",
+      "case": "accusative"
+    },
+    "COOK_CAUSEE": {
+      "file": "karman_and_agent_relation/RELATION.json",
+      "row_id": "COOK_CAUSEE",
+      "sutra": "1.4.52",
+      "event_role": "base cook as causee",
+      "case": "instrumental"
+    },
+    "MAKE_CAUSEE_ACC": {
+      "file": "karman_and_agent_relation/RELATION.json",
+      "row_id": "MAKE_CAUSEE_ACC",
+      "sutra": "1.4.53",
+      "event_role": "maker as causee",
+      "case": "accusative"
+    },
+    "MAKE_CAUSEE_INS": {
+      "file": "karman_and_agent_relation/RELATION.json",
+      "row_id": "MAKE_CAUSEE_INS",
+      "sutra": "1.4.53",
+      "event_role": "maker as causee",
+      "case": "instrumental"
+    },
+    "PERSON_AGENT": {
+      "file": "karman_and_agent_relation/RELATION.json",
+      "row_id": "PERSON_AGENT",
+      "sutra": "1.4.54",
+      "event_role": "independently construed actor",
+      "case": "nominative"
+    },
+    "POT_AGENT": {
+      "file": "karman_and_agent_relation/RELATION.json",
+      "row_id": "POT_AGENT",
+      "sutra": "1.4.54",
+      "event_role": "independently construed actor",
+      "case": "nominative"
+    },
+    "INDEPENDENT_CAUSER": {
+      "file": "karman_and_agent_relation/RELATION.json",
+      "row_id": "INDEPENDENT_CAUSER",
+      "sutra": "1.4.55",
+      "event_role": "instigator and outer actor",
+      "case": "expressed by tiṅ"
+    }
+  },
+  "comparison_groups": [
+    {
+      "label": "Optional designation",
+      "frame_ids": [
+        "DICE_KARMAN",
+        "DICE_KARANA"
+      ],
+      "variable": "designation; input event stable"
+    },
+    {
+      "label": "Lexical sense",
+      "frame_ids": [
+        "DWELL",
+        "FAST"
+      ],
+      "variable": "event predicate"
+    },
+    {
+      "label": "View of a participant",
+      "frame_ids": [
+        "POT_AS_ACTOR",
+        "POT_AS_LOCUS"
+      ],
+      "variable": "construal and agreement controller"
+    },
+    {
+      "label": "Causee designation",
+      "frame_ids": [
+        "CAUSE_MAKE_OBJECT",
+        "CAUSE_MAKE_INSTRUMENTAL"
+      ],
+      "variable": "outer status of an enduring inner actor"
+    }
+  ],
+  "rule_ids": [
+    "1.4.24",
+    "1.4.25",
+    "1.4.26",
+    "1.4.27",
+    "1.4.28",
+    "1.4.29",
+    "1.4.30",
+    "1.4.31",
+    "1.4.32",
+    "1.4.33",
+    "1.4.34",
+    "1.4.35",
+    "1.4.36",
+    "1.4.37",
+    "1.4.38",
+    "1.4.39",
+    "1.4.40",
+    "1.4.41",
+    "1.4.42",
+    "1.4.43",
+    "1.4.44",
+    "1.4.45",
+    "1.4.46",
+    "1.4.47",
+    "1.4.48",
+    "1.4.49",
+    "1.4.50",
+    "1.4.51",
+    "1.4.52",
+    "1.4.53",
+    "1.4.54",
+    "1.4.55"
+  ]
+}

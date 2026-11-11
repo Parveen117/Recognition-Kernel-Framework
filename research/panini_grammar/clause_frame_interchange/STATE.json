@@ -1,0 +1,88 @@
+{
+  "schema": "rkf.panini.pg138.state.v1",
+  "author": "Monty",
+  "date": "2026-11-11",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "e8530fdd1c786ed5ebe5e1348ac6f7e336a5ab90",
+    "path": "research/panini_grammar/karman_and_agent_relation/STATE.json",
+    "scope": "EXACT_REVIEWED_DEPENDENCY_NO_RECURSIVE_AUDIT",
+    "bytes": 3342,
+    "sha256": "5d61de2042004d367aaa9dbff9f0d2183593abc861cea855c15a8f4a50cf24e4",
+    "git_blob_sha": "fb9326b9c94c9a68c871b8874cde7c7c26a25e13"
+  },
+  "finite_positions": 30443,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_written_table_readings": 0,
+  "retained_path_count": 0,
+  "new_catalogue_ids": [],
+  "position_accounting": {
+    "forms": [],
+    "panels": [],
+    "complete_nine_slot_paradigms": 0
+  },
+  "contextual_profiles": {},
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "companion": {
+    "commit": "edd98b0685b478cb39468e350b26783bb4cce7ff",
+    "head_checked_for_this_block": false,
+    "scope": "INHERITED_ONLY_NOT_FRESH_HEAD_CHECK"
+  },
+  "overall_grammar_completion_percent": null,
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "semantic_accounting": {
+    "event_frames": 11,
+    "referenced_participant_records": 65,
+    "source_rule_ids": 32,
+    "reviewed_cross_packet_queries": 22
+  },
+  "open_obligations": [
+    "General parsing, accent, other frames and abhihita realization beyond these examples.",
+    "PG121 and PG131 historical qualifications."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_checks": "PASS",
+    "document_check_runtime": "3.12.14",
+    "document_check_scope": "JSON Schema 2020-12 meta-validation and all 11 document instances checked with Python 3.12/jsonschema 4.26.0; unique keys, case/provenance edges, current controllers and event endpoints checked directly. No grammar engine or CI.",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  }
+}

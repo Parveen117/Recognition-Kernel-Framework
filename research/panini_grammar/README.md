@@ -1408,6 +1408,8 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG138 — Interchange schema for typed Sanskrit clause frames.** [Packet](clause_frame_interchange/README.md). Eleven worked frames and sixty-five source-role references span thirty-two numbered case-designation rules. Zero new finite positions. Cumulative **30,443**.
+
 **PG137 — Two objects, an unexpressed actor, and one causer.** [Packet](karman_and_agent_relation/README.md). 16 reviewed participant records and 6 explicit role queries. Zero new finite positions. Cumulative **30,443**.
 
 **PG136 — When a location or instrument becomes karman.** [Packet](instrument_and_locus_relation/README.md). 18 reviewed participant records and 5 explicit role queries. Zero new finite positions. Cumulative **30,443**.
