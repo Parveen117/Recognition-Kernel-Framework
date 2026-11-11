@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG204 — Rule priority in the three genders of atistri.** [Packet](atistri_compound_priority/README.md). Zero new finite positions. Cumulative **41,333**.
+
 **PG203 — The r of strī, its two accusatives and its Ṛgvedic cases.** [Packet](stri_affix_and_vedic_cases/README.md). Zero new finite positions. Cumulative **41,333**.
 
 **PG202 — A new 4.105 dictionary reading and the two māḍhi stems.** [Packet](unadi_madhi_and_feminine_suffix/README.md). Zero new finite positions. Cumulative **41,333**.
