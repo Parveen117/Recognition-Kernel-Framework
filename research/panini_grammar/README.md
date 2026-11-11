@@ -1410,6 +1410,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG160 — Repetition, crooked motion and censure in the intensive.** [Packet](yang_semantic_conditions/README.md). 792 positions, 1,044 readings and 1,044 paths. Cumulative **36,545**.
+
 **PG159 — What an event reading asserts, excludes or leaves open.** [Packet](denominative_event_entailments/README.md). Zero new finite positions. Cumulative **35,753**.
 
 **PG158 — Four witnessed aorists and the nominal vowel before ṇic.** [Packet](munda_nominal_aorists/README.md). 198 positions, 198 readings and 270 paths. Cumulative **35,753**.
