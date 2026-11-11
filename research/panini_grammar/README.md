@@ -1408,6 +1408,11 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG142 — Dependent outer y-loss after lexical s selection:** [packet](kyang_s_outer/README.md) adds
+**378 positions / 1372 readings / 1372 paths**; cumulative **31,073**.
+Selected target 378/378; Python 3.12 static checks only,
+grammar tests/generators/replay deferred.
+
 **PG141 — Source-conditioned final s and internal s before kyaṅ:** [packet](kyang_s_histories/README.md) adds
 **252 positions / 396 readings / 396 paths**; cumulative **30,695**.
 Selected target 252/252; Python 3.12 static checks only,
