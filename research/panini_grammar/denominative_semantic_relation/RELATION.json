@@ -1,0 +1,764 @@
+{
+  "schema": "rkf.panini.denominative_semantic_relation.v1",
+  "signatures": {
+    "WANT_FOR_SELF": [
+      "agent",
+      "theme",
+      "beneficiary"
+    ],
+    "TREAT_AS": [
+      "agent",
+      "patient",
+      "standard"
+    ],
+    "ACT_IN_AS_IF": [
+      "agent",
+      "locus",
+      "standard"
+    ],
+    "BEHAVE_LIKE": [
+      "agent",
+      "standard"
+    ],
+    "HUNGER": [
+      "experiencer"
+    ],
+    "THIRST": [
+      "experiencer"
+    ],
+    "COVET_WEALTH": [
+      "experiencer"
+    ]
+  },
+  "facts": [
+    {
+      "id": "PUTRA_DESIRE",
+      "word": "putrīyati",
+      "lexical_nominal": "putra",
+      "predicate": {
+        "symbol": "WANT_FOR_SELF",
+        "arguments": [
+          {
+            "role": "agent",
+            "term": "$x"
+          },
+          {
+            "role": "theme",
+            "term": "putra"
+          },
+          {
+            "role": "beneficiary",
+            "term": "$x"
+          }
+        ]
+      },
+      "source": {
+        "book": "kashika",
+        "sutra": "3.1.8",
+        "literal": "पुत्रीयति"
+      },
+      "example_phrase": "putrīyati",
+      "visible_bindings": [],
+      "guard": "self-related desire",
+      "finite_ref": {
+        "file": "nominal_role_relations/STATE.json",
+        "profile": "PUTRA_KYAC_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "word": "putrīyati"
+      },
+      "position_credit": 0
+    },
+    {
+      "id": "PUTRA_PATIENT",
+      "word": "putrīyati",
+      "lexical_nominal": "putra",
+      "predicate": {
+        "symbol": "TREAT_AS",
+        "arguments": [
+          {
+            "role": "agent",
+            "term": "$x"
+          },
+          {
+            "role": "patient",
+            "term": "$z"
+          },
+          {
+            "role": "standard",
+            "term": "putra"
+          }
+        ]
+      },
+      "source": {
+        "book": "kashika",
+        "sutra": "3.1.10",
+        "literal": "पुत्रीयति छात्रम्"
+      },
+      "example_phrase": "putrīyati chātram",
+      "visible_bindings": [
+        {
+          "token": "chātram",
+          "lemma": "chātra",
+          "case": "accusative",
+          "bind": "$z",
+          "role": "patient"
+        }
+      ],
+      "guard": "patient-standard behavior",
+      "finite_ref": {
+        "file": "nominal_role_relations/STATE.json",
+        "profile": "PUTRA_KYAC_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "word": "putrīyati"
+      },
+      "position_credit": 0
+    },
+    {
+      "id": "PUTRA_KAMYA",
+      "word": "putrakāmyati",
+      "lexical_nominal": "putra",
+      "predicate": {
+        "symbol": "WANT_FOR_SELF",
+        "arguments": [
+          {
+            "role": "agent",
+            "term": "$x"
+          },
+          {
+            "role": "theme",
+            "term": "putra"
+          },
+          {
+            "role": "beneficiary",
+            "term": "$x"
+          }
+        ]
+      },
+      "source": {
+        "book": "kashika",
+        "sutra": "3.1.9",
+        "literal": "पुत्रकाम्यति"
+      },
+      "example_phrase": "putrakāmyati",
+      "visible_bindings": [],
+      "guard": "self-related desire",
+      "finite_ref": {
+        "file": "nominal_role_relations/STATE.json",
+        "profile": "PUTRA_KAMYAC_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "word": "putrakāmyati"
+      },
+      "position_credit": 0
+    },
+    {
+      "id": "VASTRA_KAMYA",
+      "word": "vastrakāmyati",
+      "lexical_nominal": "vastra",
+      "predicate": {
+        "symbol": "WANT_FOR_SELF",
+        "arguments": [
+          {
+            "role": "agent",
+            "term": "$x"
+          },
+          {
+            "role": "theme",
+            "term": "vastra"
+          },
+          {
+            "role": "beneficiary",
+            "term": "$x"
+          }
+        ]
+      },
+      "source": {
+        "book": "kashika",
+        "sutra": "3.1.9",
+        "literal": "वस्त्रकाम्यति"
+      },
+      "example_phrase": "vastrakāmyati",
+      "visible_bindings": [],
+      "guard": "self-related desire",
+      "finite_ref": {
+        "file": "nominal_role_relations/STATE.json",
+        "profile": "VASTRA_KAMYAC_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "word": "vastrakāmyati"
+      },
+      "position_credit": 0
+    },
+    {
+      "id": "PRAVARA_PATIENT",
+      "word": "prāvārīyati",
+      "lexical_nominal": "prāvāra",
+      "predicate": {
+        "symbol": "TREAT_AS",
+        "arguments": [
+          {
+            "role": "agent",
+            "term": "$x"
+          },
+          {
+            "role": "patient",
+            "term": "$z"
+          },
+          {
+            "role": "standard",
+            "term": "prāvāra"
+          }
+        ]
+      },
+      "source": {
+        "book": "kashika",
+        "sutra": "3.1.10",
+        "literal": "प्रावारीयति कम्बलम्"
+      },
+      "example_phrase": "prāvārīyati kambalam",
+      "visible_bindings": [
+        {
+          "token": "kambalam",
+          "lemma": "kambala",
+          "case": "accusative",
+          "bind": "$z",
+          "role": "patient"
+        }
+      ],
+      "guard": "patient-standard behavior",
+      "finite_ref": {
+        "file": "nominal_role_relations/STATE.json",
+        "profile": "PRAVARA_KYAC_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "word": "prāvārīyati"
+      },
+      "position_credit": 0
+    },
+    {
+      "id": "PRASADA_LOCUS",
+      "word": "prāsādīyati",
+      "lexical_nominal": "prāsāda",
+      "predicate": {
+        "symbol": "ACT_IN_AS_IF",
+        "arguments": [
+          {
+            "role": "agent",
+            "term": "$x"
+          },
+          {
+            "role": "locus",
+            "term": "$z"
+          },
+          {
+            "role": "standard",
+            "term": "prāsāda"
+          }
+        ]
+      },
+      "source": {
+        "book": "kashika",
+        "sutra": "3.1.10",
+        "literal": "प्रासादीयति कुट्याम्"
+      },
+      "example_phrase": "prāsādīyati kuṭyām",
+      "visible_bindings": [
+        {
+          "token": "kuṭyām",
+          "lemma": "kuṭī",
+          "case": "locative",
+          "bind": "$z",
+          "role": "locus"
+        }
+      ],
+      "guard": "locative vārttika",
+      "finite_ref": {
+        "file": "nominal_role_relations/STATE.json",
+        "profile": "PRASADA_KYAC_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "word": "prāsādīyati"
+      },
+      "position_credit": 0
+    },
+    {
+      "id": "PARYANKA_LOCUS",
+      "word": "paryaṅkīyati",
+      "lexical_nominal": "paryaṅka",
+      "predicate": {
+        "symbol": "ACT_IN_AS_IF",
+        "arguments": [
+          {
+            "role": "agent",
+            "term": "$x"
+          },
+          {
+            "role": "locus",
+            "term": "$z"
+          },
+          {
+            "role": "standard",
+            "term": "paryaṅka"
+          }
+        ]
+      },
+      "source": {
+        "book": "kashika",
+        "sutra": "3.1.10",
+        "literal": "पर्यङ्कीयति मञ्चके"
+      },
+      "example_phrase": "paryaṅkīyati mañcake",
+      "visible_bindings": [
+        {
+          "token": "mañcake",
+          "lemma": "mañcaka",
+          "case": "locative",
+          "bind": "$z",
+          "role": "locus"
+        }
+      ],
+      "guard": "locative vārttika",
+      "finite_ref": {
+        "file": "nominal_role_relations/STATE.json",
+        "profile": "PARYANKA_KYAC_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "word": "paryaṅkīyati"
+      },
+      "position_credit": 0
+    },
+    {
+      "id": "SHYENA_AGENT",
+      "word": "śyenāyate",
+      "lexical_nominal": "śyena",
+      "predicate": {
+        "symbol": "BEHAVE_LIKE",
+        "arguments": [
+          {
+            "role": "agent",
+            "term": "$x"
+          },
+          {
+            "role": "standard",
+            "term": "śyena"
+          }
+        ]
+      },
+      "source": {
+        "book": "kashika",
+        "sutra": "3.1.11",
+        "literal": "श्येनायते"
+      },
+      "example_phrase": "kākaḥ śyenāyate",
+      "visible_bindings": [
+        {
+          "token": "kākaḥ",
+          "lemma": "kāka",
+          "case": "nominative",
+          "bind": "$x",
+          "role": "agent"
+        }
+      ],
+      "guard": "actor-standard behavior",
+      "finite_ref": {
+        "file": "nominal_role_relations/STATE.json",
+        "profile": "SHYENA_KYANG_A",
+        "lakara": "lat",
+        "slot": "3sg",
+        "word": "śyenāyate"
+      },
+      "position_credit": 0
+    },
+    {
+      "id": "PUSKARA_AGENT",
+      "word": "puṣkarāyate",
+      "lexical_nominal": "puṣkara",
+      "predicate": {
+        "symbol": "BEHAVE_LIKE",
+        "arguments": [
+          {
+            "role": "agent",
+            "term": "$x"
+          },
+          {
+            "role": "standard",
+            "term": "puṣkara"
+          }
+        ]
+      },
+      "source": {
+        "book": "kashika",
+        "sutra": "3.1.11",
+        "literal": "कुमुदं पुष्करायते"
+      },
+      "example_phrase": "kumudaṃ puṣkarāyate",
+      "visible_bindings": [
+        {
+          "token": "kumudam",
+          "lemma": "kumuda",
+          "case": "nominative",
+          "bind": "$x",
+          "role": "agent"
+        }
+      ],
+      "guard": "neuter actor fixed by example",
+      "finite_ref": {
+        "file": "nominal_role_relations/STATE.json",
+        "profile": "PUSKARA_KYANG_A",
+        "lakara": "lat",
+        "slot": "3sg",
+        "word": "puṣkarāyate"
+      },
+      "position_credit": 0
+    },
+    {
+      "id": "ASHANA_HUNGER",
+      "word": "aśanāyati",
+      "lexical_nominal": "aśana",
+      "predicate": {
+        "symbol": "HUNGER",
+        "arguments": [
+          {
+            "role": "experiencer",
+            "term": "$x"
+          }
+        ]
+      },
+      "source": {
+        "book": "kashika",
+        "sutra": "7.4.34",
+        "literal": "अशनायतीति"
+      },
+      "example_phrase": "aśanāyati",
+      "visible_bindings": [],
+      "guard": "hunger",
+      "finite_ref": {
+        "file": "nominal_desire_purposes/STATE.json",
+        "profile": "ASHANA_KYAC_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "word": "aśanāyati"
+      },
+      "position_credit": 0
+    },
+    {
+      "id": "ASHANA_ORDINARY_FOOD_DESIRE",
+      "word": "aśanīyati",
+      "lexical_nominal": "aśana",
+      "predicate": {
+        "symbol": "WANT_FOR_SELF",
+        "arguments": [
+          {
+            "role": "agent",
+            "term": "$x"
+          },
+          {
+            "role": "theme",
+            "term": "aśana"
+          },
+          {
+            "role": "beneficiary",
+            "term": "$x"
+          }
+        ]
+      },
+      "source": {
+        "book": "kashika",
+        "sutra": "7.4.34",
+        "literal": "अशनीयति"
+      },
+      "example_phrase": "aśanīyati",
+      "visible_bindings": [],
+      "guard": "ordinary_food_desire",
+      "finite_ref": {
+        "file": "nominal_desire_purposes/STATE.json",
+        "profile": "ASHANA_KYAC_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "word": "aśanīyati"
+      },
+      "position_credit": 0
+    },
+    {
+      "id": "UDAKA_THIRST",
+      "word": "udanyati",
+      "lexical_nominal": "udaka",
+      "predicate": {
+        "symbol": "THIRST",
+        "arguments": [
+          {
+            "role": "experiencer",
+            "term": "$x"
+          }
+        ]
+      },
+      "source": {
+        "book": "kashika",
+        "sutra": "7.4.34",
+        "literal": "उदन्यतीति"
+      },
+      "example_phrase": "udanyati",
+      "visible_bindings": [],
+      "guard": "thirst",
+      "finite_ref": {
+        "file": "nominal_desire_purposes/STATE.json",
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "word": "udanyati"
+      },
+      "position_credit": 0
+    },
+    {
+      "id": "UDAKA_ORDINARY_WATER_DESIRE",
+      "word": "udakīyati",
+      "lexical_nominal": "udaka",
+      "predicate": {
+        "symbol": "WANT_FOR_SELF",
+        "arguments": [
+          {
+            "role": "agent",
+            "term": "$x"
+          },
+          {
+            "role": "theme",
+            "term": "udaka"
+          },
+          {
+            "role": "beneficiary",
+            "term": "$x"
+          }
+        ]
+      },
+      "source": {
+        "book": "kashika",
+        "sutra": "7.4.34",
+        "literal": "उदकीयति"
+      },
+      "example_phrase": "udakīyati",
+      "visible_bindings": [],
+      "guard": "ordinary_water_desire",
+      "finite_ref": {
+        "file": "nominal_desire_purposes/STATE.json",
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "word": "udakīyati"
+      },
+      "position_credit": 0
+    },
+    {
+      "id": "DHANA_COVETING",
+      "word": "dhanāyati",
+      "lexical_nominal": "dhana",
+      "predicate": {
+        "symbol": "COVET_WEALTH",
+        "arguments": [
+          {
+            "role": "experiencer",
+            "term": "$x"
+          }
+        ]
+      },
+      "source": {
+        "book": "kashika",
+        "sutra": "7.4.34",
+        "literal": "धनायतीति"
+      },
+      "example_phrase": "dhanāyati",
+      "visible_bindings": [],
+      "guard": "coveting",
+      "finite_ref": {
+        "file": "nominal_desire_purposes/STATE.json",
+        "profile": "DHANA_KYAC_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "word": "dhanāyati"
+      },
+      "position_credit": 0
+    },
+    {
+      "id": "DHANA_ORDINARY_WEALTH_DESIRE",
+      "word": "dhanīyati",
+      "lexical_nominal": "dhana",
+      "predicate": {
+        "symbol": "WANT_FOR_SELF",
+        "arguments": [
+          {
+            "role": "agent",
+            "term": "$x"
+          },
+          {
+            "role": "theme",
+            "term": "dhana"
+          },
+          {
+            "role": "beneficiary",
+            "term": "$x"
+          }
+        ]
+      },
+      "source": {
+        "book": "kashika",
+        "sutra": "7.4.34",
+        "literal": "धनीयति"
+      },
+      "example_phrase": "dhanīyati",
+      "visible_bindings": [],
+      "guard": "ordinary_wealth_desire",
+      "finite_ref": {
+        "file": "nominal_desire_purposes/STATE.json",
+        "profile": "DHANA_KYAC_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "word": "dhanīyati"
+      },
+      "position_credit": 0
+    }
+  ],
+  "queries": [
+    {
+      "id": "BARE_PUTRIYATI",
+      "input": {
+        "word": "putrīyati"
+      },
+      "semantic_analysis_ids": [
+        "PUTRA_DESIRE",
+        "PUTRA_PATIENT"
+      ],
+      "evidence_state": "MULTIPLE",
+      "reason": "Two commentary contexts license the same form. Unfilled arguments stay variable."
+    },
+    {
+      "id": "PATIENT_BOUND",
+      "input": {
+        "word": "putrīyati",
+        "bound_roles": {
+          "patient": "chātra"
+        }
+      },
+      "semantic_analysis_ids": [
+        "PUTRA_PATIENT"
+      ],
+      "evidence_state": "SINGLE",
+      "reason": "The overt accusative has been attached as patient in the source phrase."
+    },
+    {
+      "id": "SELF_WISH_REALIZATIONS",
+      "input": {
+        "predicate": "WANT_FOR_SELF",
+        "theme": "putra",
+        "beneficiary_equals_agent": true
+      },
+      "semantic_analysis_ids": [
+        "PUTRA_DESIRE",
+        "PUTRA_KAMYA"
+      ],
+      "evidence_state": "MULTIPLE",
+      "reason": "One semantic input has two distinct attested affix choices."
+    },
+    {
+      "id": "OTHER_BENEFICIARY",
+      "input": {
+        "predicate": "WANT_FOR_SELF",
+        "theme": "putra",
+        "beneficiary_equals_agent": false
+      },
+      "semantic_analysis_ids": [],
+      "evidence_state": "OUTSIDE_PACKET",
+      "reason": "Conflicts with 3.1.8/9 self-relation on this classical domain."
+    },
+    {
+      "id": "LOCUS_BOUND",
+      "input": {
+        "word": "prāsādīyati",
+        "bound_roles": {
+          "locus": "kuṭī"
+        }
+      },
+      "semantic_analysis_ids": [
+        "PRASADA_LOCUS"
+      ],
+      "evidence_state": "SINGLE",
+      "reason": "Locus is the hut; palace is the comparison standard."
+    },
+    {
+      "id": "NEUTER_ACTOR",
+      "input": {
+        "word": "puṣkarāyate",
+        "bound_roles": {
+          "agent": "kumuda"
+        }
+      },
+      "semantic_analysis_ids": [
+        "PUSKARA_AGENT"
+      ],
+      "evidence_state": "SINGLE",
+      "reason": "A neuter -am surface is nominative here. Case needs the frame."
+    },
+    {
+      "id": "GOAL_MISSING",
+      "input": {
+        "nominal": "udaka",
+        "purpose": "unknown"
+      },
+      "semantic_analysis_ids": [
+        "UDAKA_THIRST",
+        "UDAKA_ORDINARY_WATER_DESIRE"
+      ],
+      "evidence_state": "MULTIPLE",
+      "reason": "A missing purpose does not supply an ordinary-sense certificate."
+    },
+    {
+      "id": "BATH",
+      "input": {
+        "nominal": "udaka",
+        "purpose": "bathing"
+      },
+      "semantic_analysis_ids": [
+        "UDAKA_ORDINARY_WATER_DESIRE"
+      ],
+      "evidence_state": "SINGLE",
+      "reason": "Tattvabodhinī names this ordinary-purpose scenario."
+    },
+    {
+      "id": "IRRIGATE",
+      "input": {
+        "nominal": "udaka",
+        "purpose": "irrigation"
+      },
+      "semantic_analysis_ids": [
+        "UDAKA_ORDINARY_WATER_DESIRE"
+      ],
+      "evidence_state": "SINGLE",
+      "reason": "Bālamanoramā names this ordinary-purpose scenario."
+    },
+    {
+      "id": "THIRST",
+      "input": {
+        "nominal": "udaka",
+        "purpose": "thirst"
+      },
+      "semantic_analysis_ids": [
+        "UDAKA_THIRST"
+      ],
+      "evidence_state": "SINGLE",
+      "reason": "7.4.34 supplies the existential thirst predicate."
+    },
+    {
+      "id": "FOREIGN_AFFIX",
+      "input": {
+        "word": "putrakāmyati",
+        "bound_roles": {
+          "patient": "chātra"
+        },
+        "predicate": "TREAT_AS"
+      },
+      "semantic_analysis_ids": [],
+      "evidence_state": "OUTSIDE_PACKET",
+      "reason": "The behavior rule inherits kyac; kāmyac is outside that formation."
+    }
+  ]
+}
