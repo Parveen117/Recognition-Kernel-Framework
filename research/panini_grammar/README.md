@@ -1413,6 +1413,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 Selected target 90/90; Python 3.12 static checks only,
 grammar tests/generators/replay deferred.
 
+[PG121 source qualification](vrtadi_san_perfect_collation/README.md): 45 middle-perfect primary reading sets remain open for adjudication.
+
 **PG120 — Blessings and ordinary aorists of the five desideratives:** [packet](vrtadi_san_blessing_aorist/README.md) adds
 **180 positions / 216 readings / 216 paths**; cumulative **27,617**.
 Selected target 180/180; Python 3.12 static checks only,

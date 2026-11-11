@@ -694,6 +694,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 cumulative 27,707. 10 complete paradigms.
 Python 3.12 static source/document checks; grammar tests and replay deferred.
 
+[Source qualification](research/panini_grammar/vrtadi_san_perfect_collation/README.md): all 45 A-entitlement perfect keys have an open primary-stem discrepancy with the published computed table. No new position credit.
+
 ## PG120: Blessings and ordinary aorists of the five desideratives
 
 [PG120](research/panini_grammar/vrtadi_san_blessing_aorist/README.md): 180 positions, 216 readings and 216 paths;
