@@ -1,0 +1,529 @@
+{
+  "rows": [
+    {
+      "id": "GIVE_TEACHER",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.32",
+        "literal": "उपाध्यायाय गां ददाति"
+      },
+      "phrase": "upādhyāyāya gāṃ dadāti",
+      "focus": {
+        "token": "upādhyāyāya",
+        "lemma": "upādhyāya",
+        "number": "SG"
+      },
+      "event": "GIVE",
+      "event_role": "intended recipient",
+      "karaka": "sampradāna",
+      "case": "dative",
+      "guard": "the cow is given to the teacher",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "GIVE_PUPIL",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.32",
+        "literal": "माणवकाय भिक्षां ददाति"
+      },
+      "phrase": "māṇavakāya bhikṣāṃ dadāti",
+      "focus": {
+        "token": "māṇavakāya",
+        "lemma": "māṇavaka",
+        "number": "SG"
+      },
+      "event": "GIVE",
+      "event_role": "intended recipient",
+      "karaka": "sampradāna",
+      "case": "dative",
+      "guard": "alms are given to the pupil",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "LIKE_MODAKA",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.33",
+        "literal": "देवदत्ताय रोचते मोदकः"
+      },
+      "phrase": "devadattāya rocate modakaḥ",
+      "focus": {
+        "token": "devadattāya",
+        "lemma": "devadatta",
+        "number": "SG"
+      },
+      "event": "PLEASE",
+      "event_role": "pleased experiencer",
+      "karaka": "sampradāna",
+      "case": "dative",
+      "guard": "the modaka gives rise to liking in Devadatta",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "MODAKA_ACTOR",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.33",
+        "literal": "देवदत्ताय रोचते मोदकः"
+      },
+      "phrase": "devadattāya rocate modakaḥ",
+      "focus": {
+        "token": "modakaḥ",
+        "lemma": "modaka",
+        "number": "SG"
+      },
+      "event": "PLEASE",
+      "event_role": "grammatical actor of pleasing",
+      "karaka": "kartṛ",
+      "case": "nominative",
+      "guard": "source specifically designates the modaka as kartṛ on this reading",
+      "example_type": "CONTRAST",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "PRAISE",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.34",
+        "literal": "देवदत्ताय श्लाघते"
+      },
+      "phrase": "devadattāya ślāghate",
+      "focus": {
+        "token": "devadattāya",
+        "lemma": "devadatta",
+        "number": "SG"
+      },
+      "event": "PRAISE",
+      "event_role": "person intended to know",
+      "karaka": "sampradāna",
+      "case": "dative",
+      "guard": "the praise is intended to become known to Devadatta",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "DEBT",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.35",
+        "literal": "देवदत्ताय शतं धारयति"
+      },
+      "phrase": "devadattāya śataṃ dhārayati",
+      "focus": {
+        "token": "devadattāya",
+        "lemma": "devadatta",
+        "number": "SG"
+      },
+      "event": "OWE",
+      "event_role": "creditor",
+      "karaka": "sampradāna",
+      "case": "dative",
+      "guard": "Devadatta owns the money owed",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "FLOWERS",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.36",
+        "literal": "पुष्पेभ्यः स्पृहयति"
+      },
+      "phrase": "puṣpebhyaḥ spṛhayati",
+      "focus": {
+        "token": "puṣpebhyaḥ",
+        "lemma": "puṣpa",
+        "number": "PL"
+      },
+      "event": "LONG_FOR",
+      "event_role": "desired entity",
+      "karaka": "sampradāna",
+      "case": "dative",
+      "guard": "flowers are the intended objects of longing",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "WOOD",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.36",
+        "literal": "पुष्पेभ्यो वने स्पृहयति"
+      },
+      "phrase": "puṣpebhyo vane spṛhayati",
+      "focus": {
+        "token": "vane",
+        "lemma": "vana",
+        "number": "SG"
+      },
+      "event": "LONG_FOR",
+      "event_role": "location of longing",
+      "karaka": "adhikaraṇa",
+      "case": "locative",
+      "guard": "the forest locates the event",
+      "example_type": "CONTRAST",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "ANGER",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.37",
+        "literal": "देवदत्ताय क्रुध्यति"
+      },
+      "phrase": "devadattāya krudhyati",
+      "focus": {
+        "token": "devadattāya",
+        "lemma": "devadatta",
+        "number": "SG"
+      },
+      "event": "BE_ANGRY",
+      "event_role": "target of anger",
+      "karaka": "sampradāna",
+      "case": "dative",
+      "guard": "the anger is directed at Devadatta in the specified unprefixed construction",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "HOSTILITY",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.37",
+        "literal": "देवदत्ताय द्रुह्यति"
+      },
+      "phrase": "devadattāya druhyati",
+      "focus": {
+        "token": "devadattāya",
+        "lemma": "devadatta",
+        "number": "SG"
+      },
+      "event": "BE_HOSTILE",
+      "event_role": "target of hostility",
+      "karaka": "sampradāna",
+      "case": "dative",
+      "guard": "unprefixed druh, with hostility directed at Devadatta",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "ABHI_ANGER",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.38",
+        "literal": "देवदत्तमभिक्रुध्यति"
+      },
+      "phrase": "devadattam abhikrudhyati",
+      "focus": {
+        "token": "devadattam",
+        "lemma": "devadatta",
+        "number": "SG"
+      },
+      "event": "BE_ANGRY",
+      "event_role": "target of anger",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "abhi is an upasarga on krudh; 1.4.38 selects karman",
+      "example_type": "CONTRAST",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "ABHI_HOSTILITY",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.38",
+        "literal": "देवदत्तमभिद्रुह्यति"
+      },
+      "phrase": "devadattam abhidruhyati",
+      "focus": {
+        "token": "devadattam",
+        "lemma": "devadatta",
+        "number": "SG"
+      },
+      "event": "BE_HOSTILE",
+      "event_role": "target of hostility",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "abhi is an upasarga on druh",
+      "example_type": "CONTRAST",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "FORTUNE",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.39",
+        "literal": "देवदत्ताय राध्यति"
+      },
+      "phrase": "devadattāya rādhyati",
+      "focus": {
+        "token": "devadattāya",
+        "lemma": "devadatta",
+        "number": "SG"
+      },
+      "event": "INQUIRE_FORTUNE",
+      "event_role": "person whose fortune is in question",
+      "karaka": "sampradāna",
+      "case": "dative",
+      "guard": "the inquirer examines Devadatta’s good or ill fortune",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "PROMISE",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.40",
+        "literal": "देवदत्ताय गां प्रतिशृणोति"
+      },
+      "phrase": "devadattāya gāṃ pratiśṛṇoti",
+      "focus": {
+        "token": "devadattāya",
+        "lemma": "devadatta",
+        "number": "SG"
+      },
+      "event": "PROMISE",
+      "event_role": "agent of preceding solicitation",
+      "karaka": "sampradāna",
+      "case": "dative",
+      "guard": "the person who prompted the promise is Devadatta",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0,
+      "ordered_events": [
+        {
+          "event_id": "e0",
+          "predicate": "SOLICIT",
+          "agent": "focus"
+        },
+        {
+          "event_id": "e1",
+          "predicate": "PROMISE",
+          "agent": "other_actor",
+          "sampradana": "focus"
+        }
+      ],
+      "strict_order": [
+        "e0",
+        "e1"
+      ]
+    },
+    {
+      "id": "ASSENT",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.40",
+        "literal": "देवदत्ताय गामाशृणोति"
+      },
+      "phrase": "devadattāya gām āśṛṇoti",
+      "focus": {
+        "token": "devadattāya",
+        "lemma": "devadatta",
+        "number": "SG"
+      },
+      "event": "PROMISE",
+      "event_role": "agent of preceding solicitation",
+      "karaka": "sampradāna",
+      "case": "dative",
+      "guard": "āṅ+śru in the promise sense with an earlier prompting act",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0,
+      "ordered_events": [
+        {
+          "event_id": "e0",
+          "predicate": "SOLICIT",
+          "agent": "focus"
+        },
+        {
+          "event_id": "e1",
+          "predicate": "PROMISE",
+          "agent": "other_actor",
+          "sampradana": "focus"
+        }
+      ],
+      "strict_order": [
+        "e0",
+        "e1"
+      ]
+    },
+    {
+      "id": "HOTR",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.41",
+        "literal": "होत्रे प्रतिगृणाति"
+      },
+      "phrase": "hotre pratigṛṇāti",
+      "focus": {
+        "token": "hotre",
+        "lemma": "hotṛ",
+        "number": "SG"
+      },
+      "event": "ENCOURAGE_RECITER",
+      "event_role": "agent of preceding recitation",
+      "karaka": "sampradāna",
+      "case": "dative",
+      "guard": "the hotṛ recites first; another responds in encouragement",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0,
+      "ordered_events": [
+        {
+          "event_id": "e0",
+          "predicate": "RECITE",
+          "agent": "focus"
+        },
+        {
+          "event_id": "e1",
+          "predicate": "ENCOURAGE_RECITER",
+          "agent": "other_actor",
+          "sampradana": "focus"
+        }
+      ],
+      "strict_order": [
+        "e0",
+        "e1"
+      ]
+    }
+  ],
+  "rule_routes": [
+    {
+      "sutra": "1.4.32",
+      "role": "recipient",
+      "output": "sampradāna",
+      "case_rule": "2.3.13"
+    },
+    {
+      "sutra": "1.4.33",
+      "role": "pleased one",
+      "output": "sampradāna",
+      "case_rule": "2.3.13"
+    },
+    {
+      "sutra": "1.4.34",
+      "role": "intended knower",
+      "output": "sampradāna",
+      "case_rule": "2.3.13"
+    },
+    {
+      "sutra": "1.4.35",
+      "role": "creditor",
+      "output": "sampradāna",
+      "case_rule": "2.3.13"
+    },
+    {
+      "sutra": "1.4.36",
+      "role": "desired entity",
+      "output": "sampradāna",
+      "case_rule": "2.3.13"
+    },
+    {
+      "sutra": "1.4.37",
+      "role": "anger target",
+      "output": "sampradāna",
+      "case_rule": "2.3.13"
+    },
+    {
+      "sutra": "1.4.38",
+      "role": "prefixed krudh/druh target",
+      "output": "karman",
+      "case_rule": "2.3.2"
+    },
+    {
+      "sutra": "1.4.39",
+      "role": "person whose fortune is queried",
+      "output": "sampradāna",
+      "case_rule": "2.3.13"
+    },
+    {
+      "sutra": "1.4.40",
+      "role": "agent of prior solicitation",
+      "output": "sampradāna",
+      "case_rule": "2.3.13"
+    },
+    {
+      "sutra": "1.4.41",
+      "role": "agent of prior recitation",
+      "output": "sampradāna",
+      "case_rule": "2.3.13"
+    }
+  ],
+  "reviewed_queries": [
+    {
+      "id": "WHO_CONTROLS_ROCATE",
+      "input": {
+        "phrase": "devadattāya rocate modakaḥ"
+      },
+      "row_ids": [
+        "LIKE_MODAKA",
+        "MODAKA_ACTOR"
+      ],
+      "explanation": "The pleased one is dative; the modaka is kartṛ.",
+      "projection": null,
+      "value": null
+    },
+    {
+      "id": "KRUDH_WITHOUT_PREFIX_INFO",
+      "input": {
+        "event": "BE_ANGRY"
+      },
+      "row_ids": [
+        "ANGER",
+        "ABHI_ANGER"
+      ],
+      "explanation": "The two attested morphological prefixes and roles must remain visible.",
+      "projection": null,
+      "value": null
+    },
+    {
+      "id": "DEVADATTAYA_ROLES",
+      "input": {
+        "focus": "devadattāya"
+      },
+      "row_ids": [
+        "LIKE_MODAKA",
+        "PRAISE",
+        "DEBT",
+        "ANGER",
+        "HOSTILITY",
+        "FORTUNE",
+        "PROMISE",
+        "ASSENT"
+      ],
+      "explanation": "The same word can occupy multiple event positions.",
+      "projection": "case",
+      "value": "dative"
+    },
+    {
+      "id": "PREVIOUS_ACTOR",
+      "input": {
+        "condition": "participant acted in an earlier event"
+      },
+      "row_ids": [
+        "PROMISE",
+        "ASSENT",
+        "HOTR"
+      ],
+      "explanation": "The dative requires the source-specific preceding act and current verb.",
+      "projection": null,
+      "value": null
+    },
+    {
+      "id": "FLOWER_OR_PLACE",
+      "input": {
+        "event": "LONG_FOR"
+      },
+      "row_ids": [
+        "FLOWERS",
+        "WOOD"
+      ],
+      "explanation": "The desired flowers are dative in the attested construction; the place is locative.",
+      "projection": null,
+      "value": null
+    }
+  ],
+  "schema": "rkf.panini.pg135.karaka.v1",
+  "normalization": "The phrase may display external sandhi or separated words. The focus supplies the separated form. The literal source field controls attestation."
+}

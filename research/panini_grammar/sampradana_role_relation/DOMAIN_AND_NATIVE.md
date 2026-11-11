@@ -1,0 +1,3 @@
+# Typed role relation
+
+A basis input carries typed participants, the selected verb sense, addressed prefix, any required earlier event and the anabhihita status of the relation. The same nominal may be the agent of one event and the dative of another. A role-preserving link between two events records their source-established order. Extending the inherited carrier with these arrows leaves person/number on the current kartṛ in the selected active examples. On each supplied input, projection after role and prefix selection yields the attested case; the reverse retrieves all rows with the supplied observations. Finitely supported incidence preserves multiplicities. A unique answer follows only when the observed verb, prefix and role actually determine a single analysis.
