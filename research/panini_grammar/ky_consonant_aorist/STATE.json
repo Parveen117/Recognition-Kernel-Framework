@@ -1,0 +1,1792 @@
+{
+  "schema": "rkf.panini.pg127.state.v1",
+  "author": "Monty",
+  "date": "2026-11-11",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "9af1ef0f9d0f20d5d4a7b5f0ed7021accc6670bb",
+    "path": "research/panini_grammar/ky_consonant_blessing_perfect/STATE.json",
+    "scope": "EXACT_REVIEWED_DEPENDENCY_NO_RECURSIVE_AUDIT",
+    "bytes": 226288,
+    "sha256": "f338076cfe67c9c7322d78c96e43573a33a355d1ee6436477cd06dc8a28ab12d",
+    "git_blob_sha": "55355c8a1876e4b5d6c665a3dfb240fd67c4b712"
+  },
+  "finite_positions": 29057,
+  "new_positions": 36,
+  "new_position_readings": 74,
+  "new_written_table_readings": 74,
+  "retained_path_count": 74,
+  "additional_readings_within_new_positions": 38,
+  "coincident_additional_paths": 0,
+  "corrected_old_positions": 0,
+  "alternate_readings_at_existing_positions": 0,
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "overall_grammar_completion_percent": null,
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "referenced_existing_ids": [
+    "1.1.57",
+    "3.1.43",
+    "3.1.44",
+    "6.4.48",
+    "6.4.50",
+    "6.4.71",
+    "7.2.1",
+    "7.2.4",
+    "7.2.5",
+    "7.2.7",
+    "7.2.35",
+    "7.3.96",
+    "8.2.25",
+    "8.2.28",
+    "8.3.79"
+  ],
+  "local_selected_source_records": 34,
+  "written_units": 10,
+  "records": [
+    {
+      "id": "H01",
+      "title": "Start from the derived root",
+      "document": "research/panini_grammar/ky_consonant_aorist/SOURCE_DECISIONS.md",
+      "line": 3,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H02",
+      "title": "Guard optional y by its own host",
+      "document": "research/panini_grammar/ky_consonant_aorist/SOURCE_DECISIONS.md",
+      "line": 7,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H03",
+      "title": "Direct grade control for samidh",
+      "document": "research/panini_grammar/ky_consonant_aorist/SOURCE_DECISIONS.md",
+      "line": 11,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H04",
+      "title": "The avadhīt precedent for dṛṣad",
+      "document": "research/panini_grammar/ky_consonant_aorist/SOURCE_DECISIONS.md",
+      "line": 15,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H05",
+      "title": "Distinguish this case from ordinary optional vṛddhi",
+      "document": "research/panini_grammar/ky_consonant_aorist/SOURCE_DECISIONS.md",
+      "line": 19,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H06",
+      "title": "Select augment and stem separately",
+      "document": "research/panini_grammar/ky_consonant_aorist/DERIVATIONS.md",
+      "line": 3,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H07",
+      "title": "Two long-vowel P endings",
+      "document": "research/panini_grammar/ky_consonant_aorist/DERIVATIONS.md",
+      "line": 7,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H08",
+      "title": "A endings and the exceptional 2pl",
+      "document": "research/panini_grammar/ky_consonant_aorist/DERIVATIONS.md",
+      "line": 11,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H09",
+      "title": "Inverse controls",
+      "document": "research/panini_grammar/ky_consonant_aorist/DERIVATIONS.md",
+      "line": 15,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H10",
+      "title": "Close the selected grid",
+      "document": "research/panini_grammar/ky_consonant_aorist/DERIVATIONS.md",
+      "line": 19,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    }
+  ],
+  "contextual_profiles": {
+    "SAMIDH_KYAC_P": {
+      "root": "samidh",
+      "nominal_base": "samidh",
+      "lexical_id": "kashika/6.4.50/SAMIDH",
+      "lexical_id_type": "COMMENTARY_NOMINAL_WITNESS",
+      "formation": "kyac",
+      "pada": "P",
+      "semantic_relation": "SELF_WANTS_OBJECT",
+      "pada_by_lakara": {
+        "lung": "P"
+      },
+      "complete_lakaras": [
+        "lung"
+      ],
+      "semantic_conditions": [
+        "wisher=beneficiary",
+        "nominal=desired object"
+      ]
+    },
+    "SAMIDH_KYANG_A": {
+      "root": "samidh",
+      "nominal_base": "samidh",
+      "lexical_id": "kashika/6.4.50/SAMIDH",
+      "lexical_id_type": "COMMENTARY_NOMINAL_WITNESS",
+      "formation": "kyaṅ",
+      "pada": "A",
+      "semantic_relation": "ACTOR_BEHAVES_LIKE_STANDARD",
+      "pada_by_lakara": {
+        "lung": "A"
+      },
+      "complete_lakaras": [
+        "lung"
+      ],
+      "semantic_conditions": [
+        "nominal=agent standard",
+        "outer actor controls agreement"
+      ]
+    },
+    "DRSAD_KYAC_P": {
+      "root": "dṛṣad",
+      "nominal_base": "dṛṣad",
+      "lexical_id": "kashika/6.4.50/DRSAD",
+      "lexical_id_type": "COMMENTARY_NOMINAL_WITNESS",
+      "formation": "kyac",
+      "pada": "P",
+      "semantic_relation": "SELF_WANTS_OBJECT",
+      "pada_by_lakara": {
+        "lung": "P"
+      },
+      "complete_lakaras": [
+        "lung"
+      ],
+      "semantic_conditions": [
+        "wisher=beneficiary",
+        "nominal=desired object"
+      ]
+    },
+    "DRSAD_KYANG_A": {
+      "root": "dṛṣad",
+      "nominal_base": "dṛṣad",
+      "lexical_id": "kashika/6.4.50/DRSAD",
+      "lexical_id_type": "COMMENTARY_NOMINAL_WITNESS",
+      "formation": "kyaṅ",
+      "pada": "A",
+      "semantic_relation": "ACTOR_BEHAVES_LIKE_STANDARD",
+      "pada_by_lakara": {
+        "lung": "A"
+      },
+      "complete_lakaras": [
+        "lung"
+      ],
+      "semantic_conditions": [
+        "nominal=agent standard",
+        "outer actor controls agreement"
+      ]
+    }
+  },
+  "zero_credit_controls": [
+    {
+      "id": "C1",
+      "request": "NO_DRSAD_TO_DRSAD_LONG_A_ON_LATE_SURFACE",
+      "credit": 0
+    },
+    {
+      "id": "C2",
+      "request": "NO_SAMEDH",
+      "credit": 0
+    },
+    {
+      "id": "C3",
+      "request": "NO_RETROFLEX_AFTER_BARE_STOP",
+      "credit": 0
+    },
+    {
+      "id": "C4",
+      "request": "NO_ADDITIONAL_POSITION_FOR_IT_OR_IIT",
+      "credit": 0
+    }
+  ],
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "SAMIDH_KYAC_P",
+        "root": "samidh",
+        "lexical_id": "kashika/6.4.50/SAMIDH",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": true,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "6.4.50_STHANIVAT",
+        "readings": [
+          "asamidhyīt",
+          "asamidhīt"
+        ],
+        "paths": [
+          {
+            "history_label": "SAMIDH_KYAC_P/lung/3sg/Y_KEEP/1",
+            "reading": "asamidhyīt",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "SAMIDH_KYAC_P/lung/3sg/Y_DROP/1",
+            "reading": "asamidhīt",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "dh",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SAMIDH_KYAC_P",
+        "root": "samidh",
+        "lexical_id": "kashika/6.4.50/SAMIDH",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3du",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "6.4.50_STHANIVAT",
+        "readings": [
+          "asamidhyiṣṭām",
+          "asamidhiṣṭām"
+        ],
+        "paths": [
+          {
+            "history_label": "SAMIDH_KYAC_P/lung/3du/Y_KEEP/1",
+            "reading": "asamidhyiṣṭām",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "SAMIDH_KYAC_P/lung/3du/Y_DROP/1",
+            "reading": "asamidhiṣṭām",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "dh",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SAMIDH_KYAC_P",
+        "root": "samidh",
+        "lexical_id": "kashika/6.4.50/SAMIDH",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "6.4.50_STHANIVAT",
+        "readings": [
+          "asamidhyiṣuḥ",
+          "asamidhiṣuḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "SAMIDH_KYAC_P/lung/3pl/Y_KEEP/1",
+            "reading": "asamidhyiṣuḥ",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "SAMIDH_KYAC_P/lung/3pl/Y_DROP/1",
+            "reading": "asamidhiṣuḥ",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "dh",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SAMIDH_KYAC_P",
+        "root": "samidh",
+        "lexical_id": "kashika/6.4.50/SAMIDH",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": true,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "6.4.50_STHANIVAT",
+        "readings": [
+          "asamidhyīḥ",
+          "asamidhīḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "SAMIDH_KYAC_P/lung/2sg/Y_KEEP/1",
+            "reading": "asamidhyīḥ",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "SAMIDH_KYAC_P/lung/2sg/Y_DROP/1",
+            "reading": "asamidhīḥ",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "dh",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SAMIDH_KYAC_P",
+        "root": "samidh",
+        "lexical_id": "kashika/6.4.50/SAMIDH",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2du",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "6.4.50_STHANIVAT",
+        "readings": [
+          "asamidhyiṣṭam",
+          "asamidhiṣṭam"
+        ],
+        "paths": [
+          {
+            "history_label": "SAMIDH_KYAC_P/lung/2du/Y_KEEP/1",
+            "reading": "asamidhyiṣṭam",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "SAMIDH_KYAC_P/lung/2du/Y_DROP/1",
+            "reading": "asamidhiṣṭam",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "dh",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SAMIDH_KYAC_P",
+        "root": "samidh",
+        "lexical_id": "kashika/6.4.50/SAMIDH",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "6.4.50_STHANIVAT",
+        "readings": [
+          "asamidhyiṣṭa",
+          "asamidhiṣṭa"
+        ],
+        "paths": [
+          {
+            "history_label": "SAMIDH_KYAC_P/lung/2pl/Y_KEEP/1",
+            "reading": "asamidhyiṣṭa",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "SAMIDH_KYAC_P/lung/2pl/Y_DROP/1",
+            "reading": "asamidhiṣṭa",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "dh",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SAMIDH_KYAC_P",
+        "root": "samidh",
+        "lexical_id": "kashika/6.4.50/SAMIDH",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "6.4.50_STHANIVAT",
+        "readings": [
+          "asamidhyiṣam",
+          "asamidhiṣam"
+        ],
+        "paths": [
+          {
+            "history_label": "SAMIDH_KYAC_P/lung/1sg/Y_KEEP/1",
+            "reading": "asamidhyiṣam",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "SAMIDH_KYAC_P/lung/1sg/Y_DROP/1",
+            "reading": "asamidhiṣam",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "dh",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SAMIDH_KYAC_P",
+        "root": "samidh",
+        "lexical_id": "kashika/6.4.50/SAMIDH",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1du",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "6.4.50_STHANIVAT",
+        "readings": [
+          "asamidhyiṣva",
+          "asamidhiṣva"
+        ],
+        "paths": [
+          {
+            "history_label": "SAMIDH_KYAC_P/lung/1du/Y_KEEP/1",
+            "reading": "asamidhyiṣva",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "SAMIDH_KYAC_P/lung/1du/Y_DROP/1",
+            "reading": "asamidhiṣva",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "dh",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SAMIDH_KYAC_P",
+        "root": "samidh",
+        "lexical_id": "kashika/6.4.50/SAMIDH",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "6.4.50_STHANIVAT",
+        "readings": [
+          "asamidhyiṣma",
+          "asamidhiṣma"
+        ],
+        "paths": [
+          {
+            "history_label": "SAMIDH_KYAC_P/lung/1pl/Y_KEEP/1",
+            "reading": "asamidhyiṣma",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "SAMIDH_KYAC_P/lung/1pl/Y_DROP/1",
+            "reading": "asamidhiṣma",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "dh",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SAMIDH_KYANG_A",
+        "root": "samidh",
+        "lexical_id": "kashika/6.4.50/SAMIDH",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "6.4.50_STHANIVAT",
+        "readings": [
+          "asamidhyiṣṭa",
+          "asamidhiṣṭa"
+        ],
+        "paths": [
+          {
+            "history_label": "SAMIDH_KYANG_A/lung/3sg/Y_KEEP/1",
+            "reading": "asamidhyiṣṭa",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "SAMIDH_KYANG_A/lung/3sg/Y_DROP/1",
+            "reading": "asamidhiṣṭa",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "dh",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SAMIDH_KYANG_A",
+        "root": "samidh",
+        "lexical_id": "kashika/6.4.50/SAMIDH",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3du",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "6.4.50_STHANIVAT",
+        "readings": [
+          "asamidhyiṣātām",
+          "asamidhiṣātām"
+        ],
+        "paths": [
+          {
+            "history_label": "SAMIDH_KYANG_A/lung/3du/Y_KEEP/1",
+            "reading": "asamidhyiṣātām",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "SAMIDH_KYANG_A/lung/3du/Y_DROP/1",
+            "reading": "asamidhiṣātām",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "dh",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SAMIDH_KYANG_A",
+        "root": "samidh",
+        "lexical_id": "kashika/6.4.50/SAMIDH",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "6.4.50_STHANIVAT",
+        "readings": [
+          "asamidhyiṣata",
+          "asamidhiṣata"
+        ],
+        "paths": [
+          {
+            "history_label": "SAMIDH_KYANG_A/lung/3pl/Y_KEEP/1",
+            "reading": "asamidhyiṣata",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "SAMIDH_KYANG_A/lung/3pl/Y_DROP/1",
+            "reading": "asamidhiṣata",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "dh",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SAMIDH_KYANG_A",
+        "root": "samidh",
+        "lexical_id": "kashika/6.4.50/SAMIDH",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "6.4.50_STHANIVAT",
+        "readings": [
+          "asamidhyiṣṭhāḥ",
+          "asamidhiṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "SAMIDH_KYANG_A/lung/2sg/Y_KEEP/1",
+            "reading": "asamidhyiṣṭhāḥ",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "SAMIDH_KYANG_A/lung/2sg/Y_DROP/1",
+            "reading": "asamidhiṣṭhāḥ",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "dh",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SAMIDH_KYANG_A",
+        "root": "samidh",
+        "lexical_id": "kashika/6.4.50/SAMIDH",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2du",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "6.4.50_STHANIVAT",
+        "readings": [
+          "asamidhyiṣāthām",
+          "asamidhiṣāthām"
+        ],
+        "paths": [
+          {
+            "history_label": "SAMIDH_KYANG_A/lung/2du/Y_KEEP/1",
+            "reading": "asamidhyiṣāthām",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "SAMIDH_KYANG_A/lung/2du/Y_DROP/1",
+            "reading": "asamidhiṣāthām",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "dh",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SAMIDH_KYANG_A",
+        "root": "samidh",
+        "lexical_id": "kashika/6.4.50/SAMIDH",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "6.4.50_STHANIVAT",
+        "readings": [
+          "asamidhyidhvam",
+          "asamidhyiḍhvam",
+          "asamidhidhvam"
+        ],
+        "paths": [
+          {
+            "history_label": "SAMIDH_KYANG_A/lung/2pl/Y_KEEP/1",
+            "reading": "asamidhyidhvam",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "SAMIDH_KYANG_A/lung/2pl/Y_KEEP/2",
+            "reading": "asamidhyiḍhvam",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": true
+          },
+          {
+            "history_label": "SAMIDH_KYANG_A/lung/2pl/Y_DROP/1",
+            "reading": "asamidhidhvam",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "dh",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SAMIDH_KYANG_A",
+        "root": "samidh",
+        "lexical_id": "kashika/6.4.50/SAMIDH",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "6.4.50_STHANIVAT",
+        "readings": [
+          "asamidhyiṣi",
+          "asamidhiṣi"
+        ],
+        "paths": [
+          {
+            "history_label": "SAMIDH_KYANG_A/lung/1sg/Y_KEEP/1",
+            "reading": "asamidhyiṣi",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "SAMIDH_KYANG_A/lung/1sg/Y_DROP/1",
+            "reading": "asamidhiṣi",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "dh",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SAMIDH_KYANG_A",
+        "root": "samidh",
+        "lexical_id": "kashika/6.4.50/SAMIDH",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1du",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "6.4.50_STHANIVAT",
+        "readings": [
+          "asamidhyiṣvahi",
+          "asamidhiṣvahi"
+        ],
+        "paths": [
+          {
+            "history_label": "SAMIDH_KYANG_A/lung/1du/Y_KEEP/1",
+            "reading": "asamidhyiṣvahi",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "SAMIDH_KYANG_A/lung/1du/Y_DROP/1",
+            "reading": "asamidhiṣvahi",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "dh",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "SAMIDH_KYANG_A",
+        "root": "samidh",
+        "lexical_id": "kashika/6.4.50/SAMIDH",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "6.4.50_STHANIVAT",
+        "readings": [
+          "asamidhyiṣmahi",
+          "asamidhiṣmahi"
+        ],
+        "paths": [
+          {
+            "history_label": "SAMIDH_KYANG_A/lung/1pl/Y_KEEP/1",
+            "reading": "asamidhyiṣmahi",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "SAMIDH_KYANG_A/lung/1pl/Y_DROP/1",
+            "reading": "asamidhiṣmahi",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "dh",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DRSAD_KYAC_P",
+        "root": "dṛṣad",
+        "lexical_id": "kashika/6.4.50/DRSAD",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": true,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "1.1.57_AVADHIT_7.2.7_ANALOGY",
+        "readings": [
+          "adṛṣadyīt",
+          "adṛṣadīt"
+        ],
+        "paths": [
+          {
+            "history_label": "DRSAD_KYAC_P/lung/3sg/Y_KEEP/1",
+            "reading": "adṛṣadyīt",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "DRSAD_KYAC_P/lung/3sg/Y_DROP/1",
+            "reading": "adṛṣadīt",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "d",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DRSAD_KYAC_P",
+        "root": "dṛṣad",
+        "lexical_id": "kashika/6.4.50/DRSAD",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3du",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "1.1.57_AVADHIT_7.2.7_ANALOGY",
+        "readings": [
+          "adṛṣadyiṣṭām",
+          "adṛṣadiṣṭām"
+        ],
+        "paths": [
+          {
+            "history_label": "DRSAD_KYAC_P/lung/3du/Y_KEEP/1",
+            "reading": "adṛṣadyiṣṭām",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "DRSAD_KYAC_P/lung/3du/Y_DROP/1",
+            "reading": "adṛṣadiṣṭām",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "d",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DRSAD_KYAC_P",
+        "root": "dṛṣad",
+        "lexical_id": "kashika/6.4.50/DRSAD",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "1.1.57_AVADHIT_7.2.7_ANALOGY",
+        "readings": [
+          "adṛṣadyiṣuḥ",
+          "adṛṣadiṣuḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "DRSAD_KYAC_P/lung/3pl/Y_KEEP/1",
+            "reading": "adṛṣadyiṣuḥ",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "DRSAD_KYAC_P/lung/3pl/Y_DROP/1",
+            "reading": "adṛṣadiṣuḥ",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "d",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DRSAD_KYAC_P",
+        "root": "dṛṣad",
+        "lexical_id": "kashika/6.4.50/DRSAD",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": true,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "1.1.57_AVADHIT_7.2.7_ANALOGY",
+        "readings": [
+          "adṛṣadyīḥ",
+          "adṛṣadīḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "DRSAD_KYAC_P/lung/2sg/Y_KEEP/1",
+            "reading": "adṛṣadyīḥ",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "DRSAD_KYAC_P/lung/2sg/Y_DROP/1",
+            "reading": "adṛṣadīḥ",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "d",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DRSAD_KYAC_P",
+        "root": "dṛṣad",
+        "lexical_id": "kashika/6.4.50/DRSAD",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2du",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "1.1.57_AVADHIT_7.2.7_ANALOGY",
+        "readings": [
+          "adṛṣadyiṣṭam",
+          "adṛṣadiṣṭam"
+        ],
+        "paths": [
+          {
+            "history_label": "DRSAD_KYAC_P/lung/2du/Y_KEEP/1",
+            "reading": "adṛṣadyiṣṭam",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "DRSAD_KYAC_P/lung/2du/Y_DROP/1",
+            "reading": "adṛṣadiṣṭam",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "d",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DRSAD_KYAC_P",
+        "root": "dṛṣad",
+        "lexical_id": "kashika/6.4.50/DRSAD",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "1.1.57_AVADHIT_7.2.7_ANALOGY",
+        "readings": [
+          "adṛṣadyiṣṭa",
+          "adṛṣadiṣṭa"
+        ],
+        "paths": [
+          {
+            "history_label": "DRSAD_KYAC_P/lung/2pl/Y_KEEP/1",
+            "reading": "adṛṣadyiṣṭa",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "DRSAD_KYAC_P/lung/2pl/Y_DROP/1",
+            "reading": "adṛṣadiṣṭa",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "d",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DRSAD_KYAC_P",
+        "root": "dṛṣad",
+        "lexical_id": "kashika/6.4.50/DRSAD",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "1.1.57_AVADHIT_7.2.7_ANALOGY",
+        "readings": [
+          "adṛṣadyiṣam",
+          "adṛṣadiṣam"
+        ],
+        "paths": [
+          {
+            "history_label": "DRSAD_KYAC_P/lung/1sg/Y_KEEP/1",
+            "reading": "adṛṣadyiṣam",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "DRSAD_KYAC_P/lung/1sg/Y_DROP/1",
+            "reading": "adṛṣadiṣam",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "d",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DRSAD_KYAC_P",
+        "root": "dṛṣad",
+        "lexical_id": "kashika/6.4.50/DRSAD",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1du",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "1.1.57_AVADHIT_7.2.7_ANALOGY",
+        "readings": [
+          "adṛṣadyiṣva",
+          "adṛṣadiṣva"
+        ],
+        "paths": [
+          {
+            "history_label": "DRSAD_KYAC_P/lung/1du/Y_KEEP/1",
+            "reading": "adṛṣadyiṣva",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "DRSAD_KYAC_P/lung/1du/Y_DROP/1",
+            "reading": "adṛṣadiṣva",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "d",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DRSAD_KYAC_P",
+        "root": "dṛṣad",
+        "lexical_id": "kashika/6.4.50/DRSAD",
+        "pada": "P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "1.1.57_AVADHIT_7.2.7_ANALOGY",
+        "readings": [
+          "adṛṣadyiṣma",
+          "adṛṣadiṣma"
+        ],
+        "paths": [
+          {
+            "history_label": "DRSAD_KYAC_P/lung/1pl/Y_KEEP/1",
+            "reading": "adṛṣadyiṣma",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "DRSAD_KYAC_P/lung/1pl/Y_DROP/1",
+            "reading": "adṛṣadiṣma",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "d",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DRSAD_KYANG_A",
+        "root": "dṛṣad",
+        "lexical_id": "kashika/6.4.50/DRSAD",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "NO_P_SIC_VRDDHI",
+        "readings": [
+          "adṛṣadyiṣṭa",
+          "adṛṣadiṣṭa"
+        ],
+        "paths": [
+          {
+            "history_label": "DRSAD_KYANG_A/lung/3sg/Y_KEEP/1",
+            "reading": "adṛṣadyiṣṭa",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "DRSAD_KYANG_A/lung/3sg/Y_DROP/1",
+            "reading": "adṛṣadiṣṭa",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "d",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DRSAD_KYANG_A",
+        "root": "dṛṣad",
+        "lexical_id": "kashika/6.4.50/DRSAD",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3du",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "NO_P_SIC_VRDDHI",
+        "readings": [
+          "adṛṣadyiṣātām",
+          "adṛṣadiṣātām"
+        ],
+        "paths": [
+          {
+            "history_label": "DRSAD_KYANG_A/lung/3du/Y_KEEP/1",
+            "reading": "adṛṣadyiṣātām",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "DRSAD_KYANG_A/lung/3du/Y_DROP/1",
+            "reading": "adṛṣadiṣātām",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "d",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DRSAD_KYANG_A",
+        "root": "dṛṣad",
+        "lexical_id": "kashika/6.4.50/DRSAD",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "NO_P_SIC_VRDDHI",
+        "readings": [
+          "adṛṣadyiṣata",
+          "adṛṣadiṣata"
+        ],
+        "paths": [
+          {
+            "history_label": "DRSAD_KYANG_A/lung/3pl/Y_KEEP/1",
+            "reading": "adṛṣadyiṣata",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "DRSAD_KYANG_A/lung/3pl/Y_DROP/1",
+            "reading": "adṛṣadiṣata",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "d",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DRSAD_KYANG_A",
+        "root": "dṛṣad",
+        "lexical_id": "kashika/6.4.50/DRSAD",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "NO_P_SIC_VRDDHI",
+        "readings": [
+          "adṛṣadyiṣṭhāḥ",
+          "adṛṣadiṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "DRSAD_KYANG_A/lung/2sg/Y_KEEP/1",
+            "reading": "adṛṣadyiṣṭhāḥ",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "DRSAD_KYANG_A/lung/2sg/Y_DROP/1",
+            "reading": "adṛṣadiṣṭhāḥ",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "d",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DRSAD_KYANG_A",
+        "root": "dṛṣad",
+        "lexical_id": "kashika/6.4.50/DRSAD",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2du",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "NO_P_SIC_VRDDHI",
+        "readings": [
+          "adṛṣadyiṣāthām",
+          "adṛṣadiṣāthām"
+        ],
+        "paths": [
+          {
+            "history_label": "DRSAD_KYANG_A/lung/2du/Y_KEEP/1",
+            "reading": "adṛṣadyiṣāthām",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "DRSAD_KYANG_A/lung/2du/Y_DROP/1",
+            "reading": "adṛṣadiṣāthām",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "d",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DRSAD_KYANG_A",
+        "root": "dṛṣad",
+        "lexical_id": "kashika/6.4.50/DRSAD",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "NO_P_SIC_VRDDHI",
+        "readings": [
+          "adṛṣadyidhvam",
+          "adṛṣadyiḍhvam",
+          "adṛṣadidhvam"
+        ],
+        "paths": [
+          {
+            "history_label": "DRSAD_KYANG_A/lung/2pl/Y_KEEP/1",
+            "reading": "adṛṣadyidhvam",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "DRSAD_KYANG_A/lung/2pl/Y_KEEP/2",
+            "reading": "adṛṣadyiḍhvam",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": true
+          },
+          {
+            "history_label": "DRSAD_KYANG_A/lung/2pl/Y_DROP/1",
+            "reading": "adṛṣadidhvam",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "d",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DRSAD_KYANG_A",
+        "root": "dṛṣad",
+        "lexical_id": "kashika/6.4.50/DRSAD",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "NO_P_SIC_VRDDHI",
+        "readings": [
+          "adṛṣadyiṣi",
+          "adṛṣadiṣi"
+        ],
+        "paths": [
+          {
+            "history_label": "DRSAD_KYANG_A/lung/1sg/Y_KEEP/1",
+            "reading": "adṛṣadyiṣi",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "DRSAD_KYANG_A/lung/1sg/Y_DROP/1",
+            "reading": "adṛṣadiṣi",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "d",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DRSAD_KYANG_A",
+        "root": "dṛṣad",
+        "lexical_id": "kashika/6.4.50/DRSAD",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1du",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "NO_P_SIC_VRDDHI",
+        "readings": [
+          "adṛṣadyiṣvahi",
+          "adṛṣadiṣvahi"
+        ],
+        "paths": [
+          {
+            "history_label": "DRSAD_KYANG_A/lung/1du/Y_KEEP/1",
+            "reading": "adṛṣadyiṣvahi",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "DRSAD_KYANG_A/lung/1du/Y_DROP/1",
+            "reading": "adṛṣadiṣvahi",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "d",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DRSAD_KYANG_A",
+        "root": "dṛṣad",
+        "lexical_id": "kashika/6.4.50/DRSAD",
+        "pada": "A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "context_ref": "lung",
+        "outer_affix": "sic",
+        "outer_it": true,
+        "ending_iit": false,
+        "nominal_grade": "UNCHANGED",
+        "nominal_grade_evidence": "NO_P_SIC_VRDDHI",
+        "readings": [
+          "adṛṣadyiṣmahi",
+          "adṛṣadiṣmahi"
+        ],
+        "paths": [
+          {
+            "history_label": "DRSAD_KYANG_A/lung/1pl/Y_KEEP/1",
+            "reading": "adṛṣadyiṣmahi",
+            "ky_initial_y_retained": true,
+            "sound_before_it": "y",
+            "retroflex_after_it": false
+          },
+          {
+            "history_label": "DRSAD_KYANG_A/lung/1pl/Y_DROP/1",
+            "reading": "adṛṣadiṣmahi",
+            "ky_initial_y_retained": false,
+            "sound_before_it": "d",
+            "retroflex_after_it": false
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      }
+    ],
+    "panels": [
+      {
+        "panel": "P1",
+        "profile": "SAMIDH_KYAC_P",
+        "lakaras": [
+          "lung"
+        ],
+        "positions": 9,
+        "readings": 18,
+        "paths": 18,
+        "complete_nine_slot_paradigms": 1
+      },
+      {
+        "panel": "P2",
+        "profile": "SAMIDH_KYANG_A",
+        "lakaras": [
+          "lung"
+        ],
+        "positions": 9,
+        "readings": 19,
+        "paths": 19,
+        "complete_nine_slot_paradigms": 1
+      },
+      {
+        "panel": "P3",
+        "profile": "DRSAD_KYAC_P",
+        "lakaras": [
+          "lung"
+        ],
+        "positions": 9,
+        "readings": 18,
+        "paths": 18,
+        "complete_nine_slot_paradigms": 1
+      },
+      {
+        "panel": "P4",
+        "profile": "DRSAD_KYANG_A",
+        "lakaras": [
+          "lung"
+        ],
+        "positions": 9,
+        "readings": 19,
+        "paths": 19,
+        "complete_nine_slot_paradigms": 1
+      }
+    ],
+    "complete_nine_slot_paradigms": 4
+  },
+  "planned_request_grid": {
+    "profiles": [
+      "SAMIDH_KYAC_P",
+      "SAMIDH_KYANG_A",
+      "DRSAD_KYAC_P",
+      "DRSAD_KYANG_A"
+    ],
+    "lakaras": [
+      "lung"
+    ],
+    "slots_by_profile": {
+      "SAMIDH_KYAC_P": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "SAMIDH_KYANG_A": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "DRSAD_KYAC_P": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "DRSAD_KYANG_A": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ]
+    },
+    "positions": 36,
+    "written_positions": 36,
+    "written_readings": 74,
+    "written_paths": 74,
+    "remaining_positions": 0,
+    "missing_requests": [],
+    "complete_nine_slot_paradigms_written": 4
+  },
+  "closed_request_grid": {
+    "profiles": [
+      "SAMIDH_KYAC_P",
+      "SAMIDH_KYANG_A",
+      "DRSAD_KYAC_P",
+      "DRSAD_KYANG_A"
+    ],
+    "lakaras": [
+      "lung"
+    ],
+    "slots_by_profile": {
+      "SAMIDH_KYAC_P": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "SAMIDH_KYANG_A": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "DRSAD_KYAC_P": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "DRSAD_KYANG_A": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ]
+    },
+    "positions": 36,
+    "written_positions": 36,
+    "written_readings": 74,
+    "written_paths": 74,
+    "remaining_positions": 0,
+    "missing_requests": [],
+    "complete_nine_slot_paradigms_written": 4
+  },
+  "companion": {
+    "commit": "edd98b0685b478cb39468e350b26783bb4cce7ff",
+    "head_checked_for_this_block": false,
+    "scope": "INHERITED_ONLY_NOT_FRESH_HEAD_CHECK"
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_checks": "PASS",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "navigation_operator_suites": "DEFERRED",
+    "document_check_runtime": "3.12.14",
+    "document_check_scope": "Local Sanskrit avadhīt and akaṇīt/akāṇīt precedents; all 36 aorist keys, grade and ending controls; disjoint three-stage 360-key grid, 876 readings and 894 histories. Static checks only; no grammar execution or full predecessor audit."
+  },
+  "grammar_executions": [],
+  "native_controls": {
+    "primitive_carrier": "FREE_UNITAL_DAGGER_EXTENSION_OF_PG126",
+    "typed_zero": "N3",
+    "pairing": "N3_NOT_EVENT_ISOMETRY",
+    "physical_identification": null,
+    "clock_adapter": null
+  },
+  "open_obligations": [
+    "Wider semantic admission, independent source scans, accent/doubling and executable/native/calculator integration."
+  ],
+  "next_work": [
+    "Witnessed meaning contrasts in nominal kyac, kāmyac and behavioral kyaṅ."
+  ],
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "comparison_grid": {
+    "stages": [
+      125,
+      126,
+      127
+    ],
+    "profiles": 4,
+    "positions": 360,
+    "readings": 876,
+    "paths": 894
+  },
+  "document_check_summary": {
+    "positions": 36,
+    "readings": 74,
+    "paths": 74,
+    "source_records": 34,
+    "local_links_checked": 7,
+    "remaining_requests": 0,
+    "grammar_execution": false
+  }
+}
