@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG243 — Two causative futures, blessings and the spoken word.** [Packet](nisam_futures_blessings_and_spoken_word/README.md). 72 positions, 72 readings and 72 paths. Cumulative **46,034**.
+
 **PG242 — Two feminine draught-animal stems and the Ṛgvedic strong vowel.** [Packet](anaduh_optional_feminine_and_vedic_oxen/README.md). Zero new finite positions. Cumulative **45,962**.
 
 **PG241 — The price of five female jackals and the accent of kroṣṭrī.** [Packet](five_jackals_feminine_price_and_accent/README.md). Zero new finite positions. Cumulative **45,962**.
