@@ -1,0 +1,2106 @@
+{
+  "schema": "rkf.panini.pg176.first-pada.v1",
+  "scope": "One selected lexical history per new source address; one or two selected readings may occur on a history. The scope preserves contrasts explicitly selected below.",
+  "offsets": "Zero-based Unicode code-point indexes in the pinned JSON value, end exclusive. A source span may include inflection, external sandhi, or its gloss.",
+  "previous_ranges": [
+    [
+      "1.1",
+      "1.6",
+      "PG172"
+    ],
+    [
+      "1.7",
+      "1.21",
+      "PG173"
+    ]
+  ],
+  "current_range": [
+    "1.22",
+    "1.157"
+  ],
+  "aggregate": {
+    "primary_text_records": 748,
+    "all_first_pada": 157,
+    "new_rule_requests": 136,
+    "new_selected_output_labels": 138,
+    "equivalent_rule_reviews_remaining": 591,
+    "remaining_by_pada": {
+      "2": 123,
+      "3": 160,
+      "4": 238,
+      "5": 70
+    }
+  },
+  "witness_comparisons": [
+    {
+      "primary_rule": "1.30",
+      "witness": "Uṇādikośa 1.30",
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=402191",
+      "reviewed_strings": [
+        "ऊर्णोत्याच्छादयति या सा ऊरुः"
+      ]
+    },
+    {
+      "primary_rule": "1.31",
+      "witness": "Uṇādikośa 1.31",
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=402191",
+      "reviewed_strings": [
+        "ऊर्णोत्याच्छादयत्यल्पानिति उरु महत्"
+      ]
+    },
+    {
+      "primary_rule": "1.128",
+      "witness": "Uṇādikośa 1.131",
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=402191",
+      "reviewed_strings": [
+        "दृमातेः षुग्घ्रस्वश्च",
+        "दीर्यतेऽसौ दृषत् पाषाणो वा",
+        "धातोः षुक्"
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "id": "1.22",
+      "publisher_id": "1022",
+      "source_affix_label": "कु",
+      "source_sutra": "कुर्भ्रश्च",
+      "selected_input": "bhṛ, lexicalized babhru",
+      "reading_iast": [
+        "babhru"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 17,
+      "quoted_source": "बभ्रुर्मुन्यन्तरे",
+      "licensing_decision": "Bind the ku formation to the enumerated babhru reading. The commentator’s other examples under ca have their own bases."
+    },
+    {
+      "id": "1.23",
+      "publisher_id": "1023",
+      "source_affix_label": "कु",
+      "source_sutra": "पॄभिदिव्यधिगृधिधृषिभ्यः",
+      "selected_input": "bhid",
+      "reading_iast": [
+        "bhidu"
+      ],
+      "source_field": "sk",
+      "source_begin": 29,
+      "source_end": 41,
+      "quoted_source": "भिदुर्वज्रम्",
+      "licensing_decision": "Select bhid from the five-root list and the thunderbolt gloss. The saṃprasāraṇa instruction cited later applies to vyadh."
+    },
+    {
+      "id": "1.24",
+      "publisher_id": "1024",
+      "source_affix_label": "कु",
+      "source_sutra": "कृग्रोरुच्च",
+      "selected_input": "kṛ",
+      "reading_iast": [
+        "kuru"
+      ],
+      "source_field": "sk",
+      "source_begin": 8,
+      "source_end": 13,
+      "quoted_source": "कुरुः",
+      "licensing_decision": "Use the u replacement on the kṛ branch. The paired gṝ example yields guru."
+    },
+    {
+      "id": "1.25",
+      "publisher_id": "1025",
+      "source_affix_label": "कु",
+      "source_sutra": "अपदुःसुषु स्थः",
+      "selected_input": "su + sthā",
+      "reading_iast": [
+        "suṣṭhu"
+      ],
+      "source_field": "sk",
+      "source_begin": 70,
+      "source_end": 76,
+      "quoted_source": "सुष्ठु",
+      "licensing_decision": "Require a named first member with sthā. Preserve the ṣatva cited under 8.3.98."
+    },
+    {
+      "id": "1.26",
+      "publisher_id": "1026",
+      "source_affix_label": "कु",
+      "source_sutra": "रपेरिच्चोपधायाः",
+      "selected_input": "rap",
+      "reading_iast": [
+        "ripu"
+      ],
+      "source_field": "sk",
+      "source_begin": 15,
+      "source_end": 20,
+      "quoted_source": "रिपुः",
+      "licensing_decision": "Replace the penultimate vowel with i in this lexical formation. The gloss concerns one who speaks or brings harm."
+    },
+    {
+      "id": "1.27",
+      "publisher_id": "1027",
+      "source_affix_label": "कु",
+      "source_sutra": "अर्जिदृशिकम्यमिपशिबाधामृजिपसितुक्धुक्दीर्घहकाराश्च",
+      "selected_input": "bādh",
+      "reading_iast": [
+        "bāhu"
+      ],
+      "source_field": "sk",
+      "source_begin": 149,
+      "source_end": 154,
+      "quoted_source": "बाहुः",
+      "licensing_decision": "Select the final h modification belonging to bādh in the list of heterogeneous substitutions. The source gives the arm sense."
+    },
+    {
+      "id": "1.28",
+      "publisher_id": "1028",
+      "source_affix_label": "कु",
+      "source_sutra": "प्रथिम्रदिभ्रस्जां संप्रसारणं सलोपश्च",
+      "selected_input": "prath",
+      "reading_iast": [
+        "pṛthu"
+      ],
+      "source_field": "sk",
+      "source_begin": 43,
+      "source_end": 48,
+      "quoted_source": "पृथुः",
+      "licensing_decision": "Use saṃprasāraṇa on prath. The s deletion specified for bhrasj belongs to that other member."
+    },
+    {
+      "id": "1.29",
+      "publisher_id": "1029",
+      "source_affix_label": "कु",
+      "source_sutra": "लङ्घिबंह्योर्नलोपश्च",
+      "selected_input": "laṅgh",
+      "reading_iast": [
+        "laghu"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 4,
+      "quoted_source": "लघुः",
+      "licensing_decision": "Apply nasal loss. The separately quoted vārttika supports Raghu in its named scope."
+    },
+    {
+      "id": "1.30",
+      "publisher_id": "1030",
+      "source_affix_label": "कु",
+      "source_sutra": "ऊर्णोतेर्नुलोपश्च",
+      "selected_input": "ūrṇu",
+      "reading_iast": [
+        "ūru"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 10,
+      "quoted_source": "ऊरुः सक्थि",
+      "licensing_decision": "Remove nu in the cited thigh formation. The first vowel is long."
+    },
+    {
+      "id": "1.31",
+      "publisher_id": "1031",
+      "source_affix_label": "कु",
+      "source_sutra": "महति ह्रस्वश्च",
+      "selected_input": "ūrṇu in the sense mahat",
+      "reading_iast": [
+        "uru"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 8,
+      "quoted_source": "उरु महत्",
+      "licensing_decision": "In the meaning large, also shorten the initial vowel. Compare the thigh of 1.30."
+    },
+    {
+      "id": "1.32",
+      "publisher_id": "1032",
+      "source_affix_label": "कु",
+      "source_sutra": "श्लिषेः कश्च",
+      "selected_input": "śliṣ",
+      "reading_iast": [
+        "śliku"
+      ],
+      "source_field": "sk",
+      "source_begin": 12,
+      "source_end": 26,
+      "quoted_source": "श्लिकुर्भृत्यः",
+      "licensing_decision": "Retain the prescribed k in the word for a servant."
+    },
+    {
+      "id": "1.33",
+      "publisher_id": "1033",
+      "source_affix_label": "कु",
+      "source_sutra": "आङ्परयोः खनिशॄभ्यां डिच्च",
+      "selected_input": "āṅ + khan",
+      "reading_iast": [
+        "ākhu"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 12,
+      "quoted_source": "आखनतीत्याखुः",
+      "licensing_decision": "Keep āṅ with khan and the suffix’s ḍit status. Para with śṝ is the other pairing."
+    },
+    {
+      "id": "1.34",
+      "publisher_id": "1034",
+      "source_affix_label": "कु",
+      "source_sutra": "हरिमितयोर्द्रुवः",
+      "selected_input": "mita with dru",
+      "reading_iast": [
+        "mitadru"
+      ],
+      "source_field": "sk",
+      "source_begin": 94,
+      "source_end": 110,
+      "quoted_source": "मितद्रुः समुद्रः",
+      "licensing_decision": "Require the accompanying nominal mita in the ocean reading. The commentary carries forward ḍit on ku."
+    },
+    {
+      "id": "1.35",
+      "publisher_id": "1035",
+      "source_affix_label": "कु",
+      "source_sutra": "शते च",
+      "selected_input": "śata with dru",
+      "reading_iast": [
+        "śatadru"
+      ],
+      "source_field": "sk",
+      "source_begin": 12,
+      "source_end": 19,
+      "quoted_source": "शतद्रुः",
+      "licensing_decision": "Extend the dru construction to śata. The separate bare-root tree example is attributed to bahulaka."
+    },
+    {
+      "id": "1.36",
+      "publisher_id": "1036",
+      "source_affix_label": "कु",
+      "source_sutra": "खरु शङ्कु पीयु नीलङ्गु लिगु",
+      "selected_input": "one of the five fixed words",
+      "reading_iast": [
+        "śaṅku"
+      ],
+      "source_field": "sk",
+      "source_begin": 94,
+      "source_end": 114,
+      "quoted_source": "शङ्कुर्ना कीलशल्ययोः",
+      "licensing_decision": "Admit the enumerated word with the peg or dart gloss. Other members carry different stem changes."
+    },
+    {
+      "id": "1.37",
+      "publisher_id": "1037",
+      "source_affix_label": "कु",
+      "source_sutra": "मृगय्वादयश्च",
+      "selected_input": "mṛga with yā",
+      "reading_iast": [
+        "mṛgayu"
+      ],
+      "source_field": "sk",
+      "source_begin": 45,
+      "source_end": 58,
+      "quoted_source": "मृगयुर्व्याधः",
+      "licensing_decision": "Preserve the hunter reading. The commentator calls this an ākṛtigaṇa, so the cited examples do not exhaust membership."
+    },
+    {
+      "id": "1.38",
+      "publisher_id": "1038",
+      "source_affix_label": "उरच्",
+      "source_sutra": "मन्दिवाशिमथिचतिचङ्क्यङ्किभ्य उरच्",
+      "selected_input": "mandi",
+      "reading_iast": [
+        "mandurā"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 16,
+      "quoted_source": "मन्दुरा वाजिशाला",
+      "licensing_decision": "Select the stable for horses in this urac entry. The words derived from the other named roots have their own senses."
+    },
+    {
+      "id": "1.39",
+      "publisher_id": "1039",
+      "source_affix_label": "उरच्",
+      "source_sutra": "व्यथेः संप्रसारणं किच्च",
+      "selected_input": "vyath",
+      "reading_iast": [
+        "vithura"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 17,
+      "quoted_source": "विथुरश्चोररक्षसोः",
+      "licensing_decision": "Keep saṃprasāraṇa and the local kit status for this input."
+    },
+    {
+      "id": "1.40",
+      "publisher_id": "1040",
+      "source_affix_label": "उरच्",
+      "source_sutra": "मुकुरदर्दुरौ",
+      "selected_input": "enumerated mukura",
+      "reading_iast": [
+        "mukura"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 13,
+      "quoted_source": "मुकुरो दर्पणः",
+      "licensing_decision": "The mirror has the listed form. Makura is separately attributed to the broad usage policy."
+    },
+    {
+      "id": "1.41",
+      "publisher_id": "1041",
+      "source_affix_label": "उरच्",
+      "source_sutra": "मद्गुरादयश्च",
+      "selected_input": "mad in the madgurādi list",
+      "reading_iast": [
+        "madgura"
+      ],
+      "source_field": "sk",
+      "source_begin": 38,
+      "source_end": 56,
+      "quoted_source": "मद्गुरो मत्स्यभेदः",
+      "licensing_decision": "Record guK on the fish-name derivation. The other lexicalized members retain their own instructions."
+    },
+    {
+      "id": "1.42",
+      "publisher_id": "1042",
+      "source_affix_label": "उरन्",
+      "source_sutra": "असेरुरन्",
+      "selected_input": "as",
+      "reading_iast": [
+        "asura"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "असुरः",
+      "licensing_decision": "Use uran for the primary form. The subsequent āsura is assigned a different derivative affix in the gloss."
+    },
+    {
+      "id": "1.43",
+      "publisher_id": "1043",
+      "source_affix_label": "उरन्",
+      "source_sutra": "मसेश्च",
+      "selected_input": "mas",
+      "reading_iast": [
+        "masura"
+      ],
+      "source_field": "sk",
+      "source_begin": 42,
+      "source_end": 47,
+      "quoted_source": "मसुरा",
+      "licensing_decision": "Keep the short-u uran reading. The commentary points to a separate long-ū formation in pāda five."
+    },
+    {
+      "id": "1.44",
+      "publisher_id": "1044",
+      "source_affix_label": "उरन्",
+      "source_sutra": "शावशेराप्तौ",
+      "selected_input": "the śu and aś construction in the āpti sense",
+      "reading_iast": [
+        "śvaśura"
+      ],
+      "source_field": "sk",
+      "source_begin": 18,
+      "source_end": 25,
+      "quoted_source": "श्वशुरः",
+      "licensing_decision": "Keep the specified companion and reaching sense in the term for father-in-law. The gloss also gives the female kinship term."
+    },
+    {
+      "id": "1.45",
+      "publisher_id": "1045",
+      "source_affix_label": "टिषच्",
+      "source_sutra": "अविमह्योष्टिषच्",
+      "selected_input": "mahi",
+      "reading_iast": [
+        "mahiṣa"
+      ],
+      "source_field": "sk",
+      "source_begin": 8,
+      "source_end": 13,
+      "quoted_source": "महिषः",
+      "licensing_decision": "Choose the second of the two named inputs to ṭiṣac. The first gives aviṣa."
+    },
+    {
+      "id": "1.46",
+      "publisher_id": "1046",
+      "source_affix_label": "टिषच्",
+      "source_sutra": "अमेर्दीर्घश्च",
+      "selected_input": "am",
+      "reading_iast": [
+        "āmiṣa"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "आमिषं",
+      "licensing_decision": "Lengthen the vowel. The commentary gives meat and a thing enjoyed as lexical senses."
+    },
+    {
+      "id": "1.47",
+      "publisher_id": "1047",
+      "source_affix_label": "टिषच्",
+      "source_sutra": "रुहेर्वृद्धिश्च",
+      "selected_input": "ruh",
+      "reading_iast": [
+        "rauhiṣa"
+      ],
+      "source_field": "sk",
+      "source_begin": 20,
+      "source_end": 34,
+      "quoted_source": "रौहिषो मृगभेदे",
+      "licensing_decision": "Use vṛddhi with ṭiṣac. Preserve the deer and grass senses cited in different genders."
+    },
+    {
+      "id": "1.48",
+      "publisher_id": "1048",
+      "source_affix_label": "टिषच्",
+      "source_sutra": "तवेर्णिद्वा",
+      "selected_input": "tav, a root given by the rule",
+      "reading_iast": [
+        "taviṣī",
+        "tāviṣī"
+      ],
+      "source_field": "sk",
+      "source_begin": 59,
+      "source_end": 71,
+      "quoted_source": "तविषी ताविषी",
+      "licensing_decision": "The ṇit property is optional. The two vowel grades are witnessed in the feminine examples."
+    },
+    {
+      "id": "1.49",
+      "publisher_id": "1049",
+      "source_affix_label": "टिषच्",
+      "source_sutra": "नञि व्यथेः",
+      "selected_input": "nañ with vyath",
+      "reading_iast": [
+        "avyathiṣa"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 21,
+      "quoted_source": "अव्यथिषोऽब्धिसूर्ययोः",
+      "licensing_decision": "Require the negative companion for the sea and sun readings cited here."
+    },
+    {
+      "id": "1.50",
+      "publisher_id": "1050",
+      "source_affix_label": "टिषच्",
+      "source_sutra": "किलेर्बुक् च",
+      "selected_input": "kil",
+      "reading_iast": [
+        "kilbiṣa"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 9,
+      "quoted_source": "किल्बिषम्",
+      "licensing_decision": "Keep the local buK augment before the inherited affix."
+    },
+    {
+      "id": "1.51",
+      "publisher_id": "1051",
+      "source_affix_label": "किरच्",
+      "source_sutra": "इषिमदिमुदिखिदिच्छिदिभिदिमन्दिचन्दितिमिमिहिमुहिमुचिरुचिरुधिबन्धिशुषिभ्यः किरच्",
+      "selected_input": "mand",
+      "reading_iast": [
+        "mandira"
+      ],
+      "source_field": "sk",
+      "source_begin": 119,
+      "source_end": 132,
+      "quoted_source": "मन्दिरं गृहम्",
+      "licensing_decision": "Select the house sense from the multi-root kirac list. Preserve the commentator’s additional gender notice."
+    },
+    {
+      "id": "1.52",
+      "publisher_id": "1052",
+      "source_affix_label": "किरच्",
+      "source_sutra": "अशेर्णित्",
+      "selected_input": "aś",
+      "reading_iast": [
+        "āśira"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "आशिरो",
+      "licensing_decision": "Give the inherited suffix ṇit on this input. The source lists fire and a rakṣas."
+    },
+    {
+      "id": "1.53",
+      "publisher_id": "1053",
+      "source_affix_label": "किरच्",
+      "source_sutra": "अजिरशिशिरशिथिलस्थिरस्फिरस्थविरखदिराः",
+      "selected_input": "listed sthira from sthā",
+      "reading_iast": [
+        "sthira"
+      ],
+      "source_field": "sk",
+      "source_begin": 184,
+      "source_end": 199,
+      "quoted_source": "स्थिरं निश्चलम्",
+      "licensing_decision": "Retain the listed stable word and the commentary’s ṭi deletion for its source stem."
+    },
+    {
+      "id": "1.54",
+      "publisher_id": "1054",
+      "source_affix_label": "इलच्",
+      "source_sutra": "सलिकल्यनिमहिभडिभण्डिशण्डिपिण्डितुण्डिकुकिभूभ्य इलच्",
+      "selected_input": "sal",
+      "reading_iast": [
+        "salila"
+      ],
+      "source_field": "sk",
+      "source_begin": 22,
+      "source_end": 28,
+      "quoted_source": "सलिलम्",
+      "licensing_decision": "Use ilac on the named verb of movement in the water gloss. Other members of the list have their own words."
+    },
+    {
+      "id": "1.55",
+      "publisher_id": "1055",
+      "source_affix_label": "इलच्",
+      "source_sutra": "कमेः पश्च",
+      "selected_input": "kam",
+      "reading_iast": [
+        "kapila"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "कपिलः",
+      "licensing_decision": "Keep the locally stipulated p change with the inherited ilac."
+    },
+    {
+      "id": "1.56",
+      "publisher_id": "1056",
+      "source_affix_label": "इलच्",
+      "source_sutra": "गुपादिभ्यः कित्",
+      "selected_input": "gup",
+      "reading_iast": [
+        "gupila"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 11,
+      "quoted_source": "गुपिलो राजा",
+      "licensing_decision": "Here ilac is kit. The attached example denotes a king."
+    },
+    {
+      "id": "1.57",
+      "publisher_id": "1057",
+      "source_affix_label": "इलच्",
+      "source_sutra": "मिथिलादयश्च",
+      "selected_input": "listed Mithilā",
+      "reading_iast": [
+        "mithilā"
+      ],
+      "source_field": "sk",
+      "source_begin": 19,
+      "source_end": 30,
+      "quoted_source": "मिथिला नगरी",
+      "licensing_decision": "Keep the city-name reading in the listed family. Membership follows the source examples."
+    },
+    {
+      "id": "1.58",
+      "publisher_id": "1058",
+      "source_affix_label": "एरक्",
+      "source_sutra": "पतिकठिकुठिगडिगुडिदंशिभ्य एरक्",
+      "selected_input": "pat",
+      "reading_iast": [
+        "patera"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 11,
+      "quoted_source": "पतेरः पक्षी",
+      "licensing_decision": "Use erak on the named input. Bird and goer are meanings supplied for the same word."
+    },
+    {
+      "id": "1.59",
+      "publisher_id": "1059",
+      "source_affix_label": "एरक्",
+      "source_sutra": "कुम्बेर्नलोपश्च",
+      "selected_input": "kumb",
+      "reading_iast": [
+        "kubera"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "कुबेरः",
+      "licensing_decision": "The rule removes the nasal on this root before the inherited formation."
+    },
+    {
+      "id": "1.60",
+      "publisher_id": "1060",
+      "source_affix_label": "एरक्",
+      "source_sutra": "शदेस्त च",
+      "selected_input": "śad",
+      "reading_iast": [
+        "śatera"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 12,
+      "quoted_source": "शतेरः शत्रुः",
+      "licensing_decision": "Retain the local t change on the enemy-name reading."
+    },
+    {
+      "id": "1.61",
+      "publisher_id": "1061",
+      "source_affix_label": "एरक्",
+      "source_sutra": "मूलेरादयः",
+      "selected_input": "listed mūlera",
+      "reading_iast": [
+        "mūlera"
+      ],
+      "source_field": "sk",
+      "source_begin": 22,
+      "source_end": 32,
+      "quoted_source": "मूलेरो जटा",
+      "licensing_decision": "Keep the matted-hair sense in the nipātana list of erak words."
+    },
+    {
+      "id": "1.62",
+      "publisher_id": "1062",
+      "source_affix_label": "ओतच्",
+      "source_sutra": "कबेरोतच् पश्च",
+      "selected_input": "kab",
+      "reading_iast": [
+        "kapota"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 11,
+      "quoted_source": "कपोतः पक्षी",
+      "licensing_decision": "Use otac with the locally prescribed p substitution for the bird name."
+    },
+    {
+      "id": "1.63",
+      "publisher_id": "1063",
+      "source_affix_label": "डवतु",
+      "source_sutra": "भातेर्डवतुः",
+      "selected_input": "bhā",
+      "reading_iast": [
+        "bhavān"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 12,
+      "quoted_source": "भातीति भवान्",
+      "licensing_decision": "Assign ḍavatu and retain the nominative example bhavān. It is an inflected word here."
+    },
+    {
+      "id": "1.64",
+      "publisher_id": "1064",
+      "source_affix_label": "ओरन्",
+      "source_sutra": "कठिचकिभ्यामोरन्",
+      "selected_input": "kaṭh",
+      "reading_iast": [
+        "kaṭhora"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "कठोरः",
+      "licensing_decision": "Select kaṭh with oran. The other named member cak supplies cakora."
+    },
+    {
+      "id": "1.65",
+      "publisher_id": "1065",
+      "source_affix_label": "ओरन्",
+      "source_sutra": "किशोरादयश्च",
+      "selected_input": "kim with the named cutting verb",
+      "reading_iast": [
+        "kiśora"
+      ],
+      "source_field": "sk",
+      "source_begin": 42,
+      "source_end": 56,
+      "quoted_source": "किशोरोऽश्वशावः",
+      "licensing_decision": "Keep deletion on the verbal member and the final segment of kim in the foal example."
+    },
+    {
+      "id": "1.66",
+      "publisher_id": "1066",
+      "source_affix_label": "ओलच्",
+      "source_sutra": "कपिगडिगण्डिकटिपटिभ्य ओलच्",
+      "selected_input": "kapi as taught in the sūtra",
+      "reading_iast": [
+        "kapola"
+      ],
+      "source_field": "sk",
+      "source_begin": 24,
+      "source_end": 29,
+      "quoted_source": "कपोलः",
+      "licensing_decision": "Preserve the source’s nasal-loss decision on the cited teaching form."
+    },
+    {
+      "id": "1.67",
+      "publisher_id": "1067",
+      "source_affix_label": "ऊरन्",
+      "source_sutra": "मीनातेरूरन्",
+      "selected_input": "mīnāti",
+      "reading_iast": [
+        "mayūra"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "मयूरः",
+      "licensing_decision": "Use ūran on the named verbal input. The lexical output is mayūra."
+    },
+    {
+      "id": "1.68",
+      "publisher_id": "1068",
+      "source_affix_label": "ऊरन्",
+      "source_sutra": "स्यन्देः संप्रसारणं च",
+      "selected_input": "syand",
+      "reading_iast": [
+        "sindūra"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 9,
+      "quoted_source": "सिन्दूरम्",
+      "licensing_decision": "Keep saṃprasāraṇa and long ū of this suffix, distinct from the sindhu of 1.11."
+    },
+    {
+      "id": "1.69",
+      "publisher_id": "1069",
+      "source_affix_label": "तुन्",
+      "source_sutra": "सितनिगमिमसिसच्यविधाञ्क्रुशिभ्यस्तुन्",
+      "selected_input": "si",
+      "reading_iast": [
+        "setu"
+      ],
+      "source_field": "sk",
+      "source_begin": 9,
+      "source_end": 14,
+      "quoted_source": "सेतुः",
+      "licensing_decision": "Use tun and the cited iṭ prohibition of 7.2.9. The rule also lists other roots."
+    },
+    {
+      "id": "1.70",
+      "publisher_id": "1070",
+      "source_affix_label": "तुन्",
+      "source_sutra": "पः किच्च",
+      "selected_input": "pā in pibati",
+      "reading_iast": [
+        "pitu"
+      ],
+      "source_field": "sk",
+      "source_begin": 8,
+      "source_end": 19,
+      "quoted_source": "पितुर्वह्नौ",
+      "licensing_decision": "Preserve the local kit status on this reading. The gloss names fire and the sun."
+    },
+    {
+      "id": "1.71",
+      "publisher_id": "1071",
+      "source_affix_label": "तु",
+      "source_sutra": "अर्तेश्च तुः",
+      "selected_input": "ṛ as in arti",
+      "reading_iast": [
+        "ṛtu"
+      ],
+      "source_field": "sk",
+      "source_begin": 28,
+      "source_end": 32,
+      "quoted_source": "ऋतुः",
+      "licensing_decision": "The source explicitly gives kit tu and the time or menstruation senses."
+    },
+    {
+      "id": "1.72",
+      "publisher_id": "1072",
+      "source_affix_label": "तु",
+      "source_sutra": "कमिमनिजनिगाभायाहिभ्यश्च",
+      "selected_input": "jan",
+      "reading_iast": [
+        "jantu"
+      ],
+      "source_field": "sk",
+      "source_begin": 58,
+      "source_end": 71,
+      "quoted_source": "जन्तुः प्राणी",
+      "licensing_decision": "Select the living-being reading of jan from the named tu inputs."
+    },
+    {
+      "id": "1.73",
+      "publisher_id": "1073",
+      "source_affix_label": "तु",
+      "source_sutra": "चायः किः",
+      "selected_input": "cāy",
+      "reading_iast": [
+        "ketu"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 17,
+      "quoted_source": "केतुर्ग्रहपताकयोः",
+      "licensing_decision": "Retain the locally specified ki in the cited ketu formation. The gloss gives the celestial-body and banner senses."
+    },
+    {
+      "id": "1.74",
+      "publisher_id": "1074",
+      "source_affix_label": "तु",
+      "source_sutra": "आप्नोतेर्ह्रस्वश्च",
+      "selected_input": "āp",
+      "reading_iast": [
+        "aptu"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 13,
+      "quoted_source": "अप्तुः शरीरम्",
+      "licensing_decision": "Shorten the vowel in the body-name example."
+    },
+    {
+      "id": "1.75",
+      "publisher_id": "1075",
+      "source_affix_label": "तुन्",
+      "source_sutra": "वसेस्तुन्",
+      "selected_input": "vas",
+      "reading_iast": [
+        "vastu"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "वस्तु",
+      "licensing_decision": "Select the tun reading without the building restriction introduced by the next rule."
+    },
+    {
+      "id": "1.76",
+      "publisher_id": "1076",
+      "source_affix_label": "तुन्",
+      "source_sutra": "अगारे णिच्च",
+      "selected_input": "vas in the agāra sense",
+      "reading_iast": [
+        "vāstu"
+      ],
+      "source_field": "sk",
+      "source_begin": 9,
+      "source_end": 26,
+      "quoted_source": "वास्तुरस्त्रियाम्",
+      "licensing_decision": "The building or site sense adds the ṇit condition and yields the long initial vowel."
+    },
+    {
+      "id": "1.77",
+      "publisher_id": "1077",
+      "source_affix_label": "कतु",
+      "source_sutra": "कृञः कतुः",
+      "selected_input": "kṛñ",
+      "reading_iast": [
+        "kratu"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 12,
+      "quoted_source": "क्रतुर्यज्ञः",
+      "licensing_decision": "Assign the specified katu formation for the sacrifice sense."
+    },
+    {
+      "id": "1.78",
+      "publisher_id": "1078",
+      "source_affix_label": "चतु",
+      "source_sutra": "एधिवह्योश्चतुः",
+      "selected_input": "vah",
+      "reading_iast": [
+        "vahatu"
+      ],
+      "source_field": "sk",
+      "source_begin": 15,
+      "source_end": 27,
+      "quoted_source": "वहतुरनड्वान्",
+      "licensing_decision": "Choose vah from the pair taking catu. The gloss gives a draught ox."
+    },
+    {
+      "id": "1.79",
+      "publisher_id": "1079",
+      "source_affix_label": "आतु",
+      "source_sutra": "जीवेरातुः",
+      "selected_input": "jīv",
+      "reading_iast": [
+        "jīvātu"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 16,
+      "quoted_source": "जीवातुरस्त्रियां",
+      "licensing_decision": "Select ātu in the listed nourishment, life or life-giving medicine readings."
+    },
+    {
+      "id": "1.80",
+      "publisher_id": "1080",
+      "source_affix_label": "आतृकन्",
+      "source_sutra": "आतृकन् वृद्धिश्च",
+      "selected_input": "jīv carried from 1.79",
+      "reading_iast": [
+        "jaivātṛka"
+      ],
+      "source_field": "sk",
+      "source_begin": 14,
+      "source_end": 27,
+      "quoted_source": "जैवातृकस्त्वि",
+      "licensing_decision": "Use ātṛkan and vṛddhi on the inherited jīv input."
+    },
+    {
+      "id": "1.81",
+      "publisher_id": "1081",
+      "source_affix_label": "ऊ",
+      "source_sutra": "कृषिचमितनिधनिसर्जिखर्जिभ्य ऊः",
+      "selected_input": "cam",
+      "reading_iast": [
+        "camū"
+      ],
+      "source_field": "sk",
+      "source_begin": 53,
+      "source_end": 57,
+      "quoted_source": "चमूः",
+      "licensing_decision": "Assign the long-ū suffix on the cam member. The root list includes distinct further outputs."
+    },
+    {
+      "id": "1.82",
+      "publisher_id": "1082",
+      "source_affix_label": "ऊ",
+      "source_sutra": "मृजेर्गुणश्च",
+      "selected_input": "mṛj",
+      "reading_iast": [
+        "marjū"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 17,
+      "quoted_source": "मर्जूः शुद्धिकृत्",
+      "licensing_decision": "Carry long ū and apply the specifically prescribed guṇa on this input."
+    },
+    {
+      "id": "1.83",
+      "publisher_id": "1083",
+      "source_affix_label": "ऊ",
+      "source_sutra": "वहो धश्च",
+      "selected_input": "vah",
+      "reading_iast": [
+        "vadhū"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 9,
+      "quoted_source": "वधूर्जाया",
+      "licensing_decision": "Use the prescribed dh replacement for the lexical kinship form."
+    },
+    {
+      "id": "1.84",
+      "publisher_id": "1084",
+      "source_affix_label": "ऊ",
+      "source_sutra": "कषेश्छश्च",
+      "selected_input": "kaṣ",
+      "reading_iast": [
+        "kacchū"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 11,
+      "quoted_source": "कच्छूः पामा",
+      "licensing_decision": "Retain the local ch change in the skin-disease term."
+    },
+    {
+      "id": "1.85",
+      "publisher_id": "1085",
+      "source_affix_label": "ऊ",
+      "source_sutra": "णित्कसिपद्यर्तेः",
+      "selected_input": "pad",
+      "reading_iast": [
+        "pādū"
+      ],
+      "source_field": "sk",
+      "source_begin": 15,
+      "source_end": 30,
+      "quoted_source": "पादूश्चरणधारिणी",
+      "licensing_decision": "The suffix is ṇit on the named inputs. This selection bears the foot-covering sense."
+    },
+    {
+      "id": "1.86",
+      "publisher_id": "1086",
+      "source_affix_label": "ऊ",
+      "source_sutra": "अणो डश्च",
+      "selected_input": "aṇ",
+      "reading_iast": [
+        "āḍū"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 19,
+      "quoted_source": "आडूर्जलप्लवद्रव्यम्",
+      "licensing_decision": "Carry the prescribed ḍ change and the water-floating object gloss."
+    },
+    {
+      "id": "1.87",
+      "publisher_id": "1087",
+      "source_affix_label": "ऊ",
+      "source_sutra": "नञि लम्बेर्नलोपश्च",
+      "selected_input": "nañ with lamb",
+      "reading_iast": [
+        "alābū"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 15,
+      "quoted_source": "तुम्ब्यलाबूरुभे",
+      "licensing_decision": "Require the negative companion and nasal loss. The cited lexical equivalence is with tumbī."
+    },
+    {
+      "id": "1.88",
+      "publisher_id": "1088",
+      "source_affix_label": "ऊ",
+      "source_sutra": "के श्र एरङ् चास्य",
+      "selected_input": "ka with the named cutting verb",
+      "reading_iast": [
+        "kaśerū"
+      ],
+      "source_field": "sk",
+      "source_begin": 41,
+      "source_end": 56,
+      "quoted_source": "कशेरूस्तृणकन्दे",
+      "licensing_decision": "Use the companion ka and prescribed replacement for the long-ū tuber name. The commentary gives a separate short-u route."
+    },
+    {
+      "id": "1.89",
+      "publisher_id": "1089",
+      "source_affix_label": "ऊ",
+      "source_sutra": "त्रो दुट् च",
+      "selected_input": "tṝ",
+      "reading_iast": [
+        "tardū"
+      ],
+      "source_field": "sk",
+      "source_begin": 26,
+      "source_end": 32,
+      "quoted_source": "तर्दूः",
+      "licensing_decision": "Attach duṭ in the cited long-ū formation."
+    },
+    {
+      "id": "1.90",
+      "publisher_id": "1090",
+      "source_affix_label": "ऊ",
+      "source_sutra": "दरिद्रातेर्यालोपश्च",
+      "selected_input": "daridrā",
+      "reading_iast": [
+        "dardrū"
+      ],
+      "source_field": "sk",
+      "source_begin": 25,
+      "source_end": 46,
+      "quoted_source": "दर्द्रूः कुष्ठप्रभेदः",
+      "licensing_decision": "The commentary specifies deletion of i and ā. Keep the particular disease sense."
+    },
+    {
+      "id": "1.91",
+      "publisher_id": "1091",
+      "source_affix_label": "कू",
+      "source_sutra": "नृतिशृध्योः कूः",
+      "selected_input": "nṛt",
+      "reading_iast": [
+        "nṛtū"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 12,
+      "quoted_source": "नृतूर्नर्तकः",
+      "licensing_decision": "Select kū on nṛt in the dancer reading."
+    },
+    {
+      "id": "1.92",
+      "publisher_id": "1092",
+      "source_affix_label": "कू",
+      "source_sutra": "ऋतेरम् च",
+      "selected_input": "ṛti, the sūtra’s root",
+      "reading_iast": [
+        "rantū"
+      ],
+      "source_field": "sk",
+      "source_begin": 37,
+      "source_end": 50,
+      "quoted_source": "रन्तूर्देवनदी",
+      "licensing_decision": "Retain the am augment. The commentary gives the divine-river gloss among its readings."
+    },
+    {
+      "id": "1.93",
+      "publisher_id": "1093",
+      "source_affix_label": "कू",
+      "source_sutra": "अन्दूदृम्भूजम्बूकफेलूकर्कन्धूदिधिषूः",
+      "selected_input": "enumerated andū",
+      "reading_iast": [
+        "andū"
+      ],
+      "source_field": "sk",
+      "source_begin": 33,
+      "source_end": 47,
+      "quoted_source": "अन्दूर्बन्धनम्",
+      "licensing_decision": "Keep the listed binding word. The ensuing discussion gives separate nasal readings on other members."
+    },
+    {
+      "id": "1.94",
+      "publisher_id": "1094",
+      "source_affix_label": "उति",
+      "source_sutra": "मृग्रोरुतिः",
+      "selected_input": "mṛ",
+      "reading_iast": [
+        "marut"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "मरुत्",
+      "licensing_decision": "Select uti on mṛ. The other root supplies garut."
+    },
+    {
+      "id": "1.95",
+      "publisher_id": "1095",
+      "source_affix_label": "उति",
+      "source_sutra": "ग्रो मुट् च",
+      "selected_input": "girati",
+      "reading_iast": [
+        "garmut"
+      ],
+      "source_field": "sk",
+      "source_begin": 25,
+      "source_end": 39,
+      "quoted_source": "गर्मुत्सुवर्णं",
+      "licensing_decision": "Keep muṭ in addition to the inherited uti. The commentary mentions gold and a grass."
+    },
+    {
+      "id": "1.96",
+      "publisher_id": "1096",
+      "source_affix_label": "उलच्",
+      "source_sutra": "हृषेरुलच्",
+      "selected_input": "hṛṣ",
+      "reading_iast": [
+        "harṣula"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 7,
+      "quoted_source": "हर्षुलो",
+      "licensing_decision": "Assign ulac on the named root. The extension to caṭ is attributed to usage."
+    },
+    {
+      "id": "1.97",
+      "publisher_id": "1097",
+      "source_affix_label": "इति",
+      "source_sutra": "हृसृरुहियुषिभ्य इतिः",
+      "selected_input": "hṛ",
+      "reading_iast": [
+        "harit"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 10,
+      "quoted_source": "हरित्ककुभि",
+      "licensing_decision": "Select iti on hṛ. The commentary lists direction and colour among the meanings."
+    },
+    {
+      "id": "1.98",
+      "publisher_id": "1098",
+      "source_affix_label": "इति",
+      "source_sutra": "ताडेर्णिलुक् च",
+      "selected_input": "tāḍ with ṇi",
+      "reading_iast": [
+        "taḍit"
+      ],
+      "source_field": "sk",
+      "source_begin": 9,
+      "source_end": 14,
+      "quoted_source": "तडित्",
+      "licensing_decision": "Remove the specified ṇi under luk in this formation. The word retains its lexical history."
+    },
+    {
+      "id": "1.99",
+      "publisher_id": "1099",
+      "source_affix_label": "ढ",
+      "source_sutra": "शमेर्ढः",
+      "selected_input": "śam",
+      "reading_iast": [
+        "śaṇḍha"
+      ],
+      "source_field": "sk",
+      "source_begin": 33,
+      "source_end": 38,
+      "quoted_source": "शण्ढः",
+      "licensing_decision": "Use the stipulated ḍha formation on śam. Preserve the commentary’s special affix treatment and its two lexical glosses."
+    },
+    {
+      "id": "1.100",
+      "publisher_id": "1100",
+      "source_affix_label": "अठ",
+      "source_sutra": "कमेरठः",
+      "selected_input": "kam",
+      "reading_iast": [
+        "kamaṭha"
+      ],
+      "source_field": "sk",
+      "source_begin": 7,
+      "source_end": 18,
+      "quoted_source": "कमठः कच्छपे",
+      "licensing_decision": "Use aṭha with the tortoise reading. The neuter container sense belongs to the same lexical entry."
+    },
+    {
+      "id": "1.101",
+      "publisher_id": "1101",
+      "source_affix_label": "अठ",
+      "source_sutra": "रमेर्वृद्धिश्च",
+      "selected_input": "ram",
+      "reading_iast": [
+        "rāmaṭha"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 12,
+      "quoted_source": "रामठं हिङ्गु",
+      "licensing_decision": "Carry aṭha and apply vṛddhi in the asafoetida reading."
+    },
+    {
+      "id": "1.102",
+      "publisher_id": "1102",
+      "source_affix_label": "ख",
+      "source_sutra": "शमेः खः",
+      "selected_input": "śam",
+      "reading_iast": [
+        "śaṅkha"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "शङ्खः",
+      "licensing_decision": "Apply the locally named kha affix to this base."
+    },
+    {
+      "id": "1.103",
+      "publisher_id": "1103",
+      "source_affix_label": "ठ",
+      "source_sutra": "कणेष्ठः",
+      "selected_input": "kaṇ",
+      "reading_iast": [
+        "kaṇṭha"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "कण्ठः",
+      "licensing_decision": "Apply the named ṭha affix to kaṇ."
+    },
+    {
+      "id": "1.104",
+      "publisher_id": "1104",
+      "source_affix_label": "कल",
+      "source_sutra": "कलस्तृपश्च",
+      "selected_input": "tṛp",
+      "reading_iast": [
+        "tṛpalā"
+      ],
+      "source_field": "sk",
+      "source_begin": 31,
+      "source_end": 40,
+      "quoted_source": "तृपला लता",
+      "licensing_decision": "Select the creeper gloss. The commentary distinguishes this word from triphalā, a group of three fruits."
+    },
+    {
+      "id": "1.105",
+      "publisher_id": "1105",
+      "source_affix_label": "कल",
+      "source_sutra": "शपेर्बश्च",
+      "selected_input": "śap",
+      "reading_iast": [
+        "śabala"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 4,
+      "quoted_source": "शबलः",
+      "licensing_decision": "Preserve the local b substitution in the inherited kala formation."
+    },
+    {
+      "id": "1.106",
+      "publisher_id": "1106",
+      "source_affix_label": "कल",
+      "source_sutra": "वृषादिभ्यश्चित्",
+      "selected_input": "vṛṣ among vṛṣādi",
+      "reading_iast": [
+        "vṛṣala"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "वृषलः",
+      "licensing_decision": "Give the suffix its cit status in the named group. Separate gaṇasūtras extend particular entries."
+    },
+    {
+      "id": "1.107",
+      "publisher_id": "1107",
+      "source_affix_label": "कल",
+      "source_sutra": "मृजेष्टिलोपश्च",
+      "selected_input": "mṛj",
+      "reading_iast": [
+        "mala"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 4,
+      "quoted_source": "मलम्",
+      "licensing_decision": "Retain the specifically prescribed ṭi deletion on this input."
+    },
+    {
+      "id": "1.108",
+      "publisher_id": "1108",
+      "source_affix_label": "कल",
+      "source_sutra": "चुपेरच्चोपधायाः",
+      "selected_input": "cup",
+      "reading_iast": [
+        "capala"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "चपलम्",
+      "licensing_decision": "The rule changes the penultimate vowel to a on this input."
+    },
+    {
+      "id": "1.109",
+      "publisher_id": "1109",
+      "source_affix_label": "कल",
+      "source_sutra": "शकिशम्योर्नित्",
+      "selected_input": "śak",
+      "reading_iast": [
+        "śakala"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "शकलम्",
+      "licensing_decision": "The affix is nit for śak and śam. Preserve the selected śak result."
+    },
+    {
+      "id": "1.110",
+      "publisher_id": "1110",
+      "source_affix_label": "कल",
+      "source_sutra": "छो गुक् ह्रस्वश्च",
+      "selected_input": "the root indicated by chaḥ",
+      "reading_iast": [
+        "chagala"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 4,
+      "quoted_source": "छगलः",
+      "licensing_decision": "The local instructions supply guK and shortening. The derivative chāgala in the gloss has another history."
+    },
+    {
+      "id": "1.111",
+      "publisher_id": "1111",
+      "source_affix_label": "ड",
+      "source_sutra": "ञमन्ताड्डः",
+      "selected_input": "licensed ñam-final base in the cited list",
+      "reading_iast": [
+        "daṇḍa"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "दण्डः",
+      "licensing_decision": "Require the rule’s final-sound class before ḍa. The commentary supplies the word daṇḍa under that qualification."
+    },
+    {
+      "id": "1.112",
+      "publisher_id": "1112",
+      "source_affix_label": "ड",
+      "source_sutra": "क्वादिभ्यः कित्",
+      "selected_input": "ku-class initial root",
+      "reading_iast": [
+        "kuṇḍa"
+      ],
+      "source_field": "sk",
+      "source_begin": 29,
+      "source_end": 36,
+      "quoted_source": "कुण्डम्",
+      "licensing_decision": "Use kit ḍa under the velar-initial guard. Membership is checked on the root."
+    },
+    {
+      "id": "1.113",
+      "publisher_id": "1113",
+      "source_affix_label": "आलच्, वालच्, आलीयच्",
+      "source_sutra": "स्थाचतिमृजेरालज्वालजालीयचः",
+      "selected_input": "sthā",
+      "reading_iast": [
+        "sthāla"
+      ],
+      "source_field": "sk",
+      "source_begin": 15,
+      "source_end": 22,
+      "quoted_source": "स्थालम्",
+      "licensing_decision": "Pair sthā with ālac. The distinct vālac and ālīyac belong to cat and mṛj."
+    },
+    {
+      "id": "1.114",
+      "publisher_id": "1114",
+      "source_affix_label": "आलञ्",
+      "source_sutra": "पतिचण्डिभ्यामालञ्",
+      "selected_input": "pat",
+      "reading_iast": [
+        "pātāla"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 7,
+      "quoted_source": "पातालम्",
+      "licensing_decision": "Use ālañ on pat. The same record separately treats caṇḍ and a further secondary derivation."
+    },
+    {
+      "id": "1.115",
+      "publisher_id": "1115",
+      "source_affix_label": "कालन्",
+      "source_sutra": "तमिविशिबिडिमृणिकुलिकपिपलिपञ्चिभ्यः कालन्",
+      "selected_input": "tam",
+      "reading_iast": [
+        "tamāla"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "तमालः",
+      "licensing_decision": "Select tam from the explicitly named kālan inputs."
+    },
+    {
+      "id": "1.116",
+      "publisher_id": "1116",
+      "source_affix_label": "अङ्गच्",
+      "source_sutra": "पतेरङ्गच् पक्षिणि",
+      "selected_input": "pat with the bird meaning",
+      "reading_iast": [
+        "pataṅga"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "पतङ्गः",
+      "licensing_decision": "Require pakṣin in the licensing request for aṅgac on pat."
+    },
+    {
+      "id": "1.117",
+      "publisher_id": "1117",
+      "source_affix_label": "अङ्गच्",
+      "source_sutra": "तरत्यादिभ्यश्च",
+      "selected_input": "tṝ in the taratyādi list",
+      "reading_iast": [
+        "taraṅga"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "तरङ्गः",
+      "licensing_decision": "Extend the aṅgac reading to the named list. The source also quotes lavaṅga."
+    },
+    {
+      "id": "1.118",
+      "publisher_id": "1118",
+      "source_affix_label": "अङ्गच्",
+      "source_sutra": "विडादिभ्यः कित्",
+      "selected_input": "viḍ among viḍādi",
+      "reading_iast": [
+        "viḍaṅga"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 7,
+      "quoted_source": "विडङ्गः",
+      "licensing_decision": "Carry the named kit property on the list member."
+    },
+    {
+      "id": "1.119",
+      "publisher_id": "1119",
+      "source_affix_label": "अङ्गच्",
+      "source_sutra": "सृवृञोर्वृद्धिश्च",
+      "selected_input": "sṛ",
+      "reading_iast": [
+        "sāraṅga"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 7,
+      "quoted_source": "सारङ्गः",
+      "licensing_decision": "Add the named vṛddhi on sṛ. Vṛñ has a separately illustrated result."
+    },
+    {
+      "id": "1.120",
+      "publisher_id": "1120",
+      "source_affix_label": "गन्",
+      "source_sutra": "गन् गम्यद्योः",
+      "selected_input": "gam",
+      "reading_iast": [
+        "gaṅgā"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "गङ्गा",
+      "licensing_decision": "Apply gan on the first of the two source inputs. The commentary distinguishes the ad formation."
+    },
+    {
+      "id": "1.121",
+      "publisher_id": "1121",
+      "source_affix_label": "गन्",
+      "source_sutra": "छापूखडिभ्यः कित्",
+      "selected_input": "khaḍ",
+      "reading_iast": [
+        "khaḍga"
+      ],
+      "source_field": "sk",
+      "source_begin": 14,
+      "source_end": 19,
+      "quoted_source": "खड्गः",
+      "licensing_decision": "Use kit gan for this explicitly named input."
+    },
+    {
+      "id": "1.122",
+      "publisher_id": "1122",
+      "source_affix_label": "गन्",
+      "source_sutra": "भृञः किन्नुट् च",
+      "selected_input": "bhṛñ",
+      "reading_iast": [
+        "bhṛṅga"
+      ],
+      "source_field": "sk",
+      "source_begin": 33,
+      "source_end": 40,
+      "quoted_source": "भृङ्गाः",
+      "licensing_decision": "Retain kit and the nuṭ addition. The source verse cites the plural."
+    },
+    {
+      "id": "1.123",
+      "publisher_id": "1123",
+      "source_affix_label": "गन्",
+      "source_sutra": "शृणातेर्ह्रस्वश्च",
+      "selected_input": "the cutting verb śṛṇāti",
+      "reading_iast": [
+        "śṛṅga"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 7,
+      "quoted_source": "शृङ्गम्",
+      "licensing_decision": "Keep the short vowel required on this formation with the inherited local context."
+    },
+    {
+      "id": "1.124",
+      "publisher_id": "1124",
+      "source_affix_label": "गण्",
+      "source_sutra": "गण् शकुनौ",
+      "selected_input": "the inherited base with bird sense",
+      "reading_iast": [
+        "śārṅga"
+      ],
+      "source_field": "sk",
+      "source_begin": 21,
+      "source_end": 29,
+      "quoted_source": "शार्ङ्गः",
+      "licensing_decision": "Use gaṇ in the bird sense and carry the nuṭ specified in the commentary."
+    },
+    {
+      "id": "1.125",
+      "publisher_id": "1125",
+      "source_affix_label": "गक्, ग",
+      "source_sutra": "मुदिग्रोर्गग्गौ",
+      "selected_input": "mud",
+      "reading_iast": [
+        "mudga"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "मुद्गः",
+      "licensing_decision": "Pair mud with gak. The distinct ga formation on gṝ supplies garga."
+    },
+    {
+      "id": "1.126",
+      "publisher_id": "1126",
+      "source_affix_label": "अण्डन्",
+      "source_sutra": "अण्डन्कृसृभृवृञः",
+      "selected_input": "kṛ",
+      "reading_iast": [
+        "karaṇḍa"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "करण्डः",
+      "licensing_decision": "Choose kṛ from the four named inputs to aṇḍan."
+    },
+    {
+      "id": "1.127",
+      "publisher_id": "1127",
+      "source_affix_label": "अदि",
+      "source_sutra": "शॄदॄभसोऽदिः",
+      "selected_input": "śṝ",
+      "reading_iast": [
+        "śarad"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 4,
+      "quoted_source": "शरत्",
+      "licensing_decision": "Apply adi to śṝ. The quoted pause form śarat preserves a distinct final-sound readout."
+    },
+    {
+      "id": "1.128",
+      "publisher_id": "1128",
+      "source_affix_label": "अदि",
+      "source_sutra": "दृणातेर्दृग् ह्रस्वश्च",
+      "selected_input": "the verb dṛṇāti",
+      "reading_iast": [
+        "dṛṣad"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "दृषत्",
+      "licensing_decision": "Retain the pinned sūtra’s printed दृग् and hrasva. The separately numbered Uṇādikośa 1.131 gives ṣuk in its explanation. Both cite dṛṣat. The two segmental instructions require separate evidence."
+    },
+    {
+      "id": "1.129",
+      "publisher_id": "1129",
+      "source_affix_label": "अदि",
+      "source_sutra": "त्यजितनियजिभ्यो डित्",
+      "selected_input": "tan",
+      "reading_iast": [
+        "tad"
+      ],
+      "source_field": "sk",
+      "source_begin": 8,
+      "source_end": 11,
+      "quoted_source": "तद्",
+      "licensing_decision": "Use the affix as ḍit on this listed pronominal formation. The companion words tyad and yad retain their own inputs."
+    },
+    {
+      "id": "1.130",
+      "publisher_id": "1130",
+      "source_affix_label": "अदि",
+      "source_sutra": "एतेस्तुट् च",
+      "selected_input": "the verb eti",
+      "reading_iast": [
+        "etad"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 4,
+      "quoted_source": "एतद्",
+      "licensing_decision": "Keep the local tuṭ instruction on the demonstrative formation."
+    },
+    {
+      "id": "1.131",
+      "publisher_id": "1131",
+      "source_affix_label": "अटि",
+      "source_sutra": "सर्तेरटिः",
+      "selected_input": "the verb sarati",
+      "reading_iast": [
+        "saraṭ"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 4,
+      "quoted_source": "सरट्",
+      "licensing_decision": "The commentary separates its lexical senses from a Vedic interpreter’s bee reading."
+    },
+    {
+      "id": "1.132",
+      "publisher_id": "1132",
+      "source_affix_label": "अटि",
+      "source_sutra": "लङ्घेर्नलोपश्च",
+      "selected_input": "laṅgh",
+      "reading_iast": [
+        "laghaṭ"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 10,
+      "quoted_source": "लघट् वायुः",
+      "licensing_decision": "Apply nasal loss in the named word for wind."
+    },
+    {
+      "id": "1.133",
+      "publisher_id": "1133",
+      "source_affix_label": "अजि",
+      "source_sutra": "पारयतेरजिः",
+      "selected_input": "pārayati",
+      "reading_iast": [
+        "pārak"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 14,
+      "quoted_source": "पारक् सुवर्णम्",
+      "licensing_decision": "Use aji on this input. The commentary gives the gold sense and a pause form ending in k."
+    },
+    {
+      "id": "1.134",
+      "publisher_id": "1134",
+      "source_affix_label": "अजि",
+      "source_sutra": "प्रथः कित्संप्रसारणं च",
+      "selected_input": "prath",
+      "reading_iast": [
+        "pṛthak"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "पृथक्",
+      "licensing_decision": "Retain kit, saṃprasāraṇa and the separate source of indeclinability in the svarādi list."
+    },
+    {
+      "id": "1.135",
+      "publisher_id": "1135",
+      "source_affix_label": "अजि",
+      "source_sutra": "भियः षुक् ह्रस्वश्च",
+      "selected_input": "bhī",
+      "reading_iast": [
+        "bhiṣak"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "भिषक्",
+      "licensing_decision": "Retain ṣuK and the prescribed shortening. The commentary quotes the pause spelling bhiṣak."
+    },
+    {
+      "id": "1.136",
+      "publisher_id": "1136",
+      "source_affix_label": "मदिक्",
+      "source_sutra": "युष्यसिभ्यां मदिक्",
+      "selected_input": "yuṣ, a root given in the rule",
+      "reading_iast": [
+        "yuṣmad"
+      ],
+      "source_field": "sk",
+      "source_begin": 20,
+      "source_end": 27,
+      "quoted_source": "युष्मद्",
+      "licensing_decision": "Use madik in the pronominal history. The later tvam is an inflected illustration under that entry."
+    },
+    {
+      "id": "1.137",
+      "publisher_id": "1137",
+      "source_affix_label": "मन्",
+      "source_sutra": "अर्तिस्तुसुहुसृधृभिक्षुभायावापदियक्षिनीभ्यो मन्",
+      "selected_input": "stu",
+      "reading_iast": [
+        "stoma"
+      ],
+      "source_field": "sk",
+      "source_begin": 42,
+      "source_end": 56,
+      "quoted_source": "स्तोमः सङ्घातः",
+      "licensing_decision": "Select the collection sense on stu under man. Other roots in the fourteen-member list have distinct outputs."
+    },
+    {
+      "id": "1.138",
+      "publisher_id": "1138",
+      "source_affix_label": "मन्",
+      "source_sutra": "जहातेः सन्वदालोपश्च",
+      "selected_input": "the verb jahāti",
+      "reading_iast": [
+        "jihma"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "जिह्मः",
+      "licensing_decision": "Retain the san-like operation and loss of ā in this formation."
+    },
+    {
+      "id": "1.139",
+      "publisher_id": "1139",
+      "source_affix_label": "मन्",
+      "source_sutra": "अवतेष्टिलोपश्च",
+      "selected_input": "av",
+      "reading_iast": [
+        "om"
+      ],
+      "source_field": "sk",
+      "source_begin": 233,
+      "source_end": 236,
+      "quoted_source": "ओम्",
+      "licensing_decision": "The commentary assigns ṭi deletion to the man suffix. The root undergoes a separate vowel operation and the indeclinability reading has its own list authority."
+    },
+    {
+      "id": "1.140",
+      "publisher_id": "1140",
+      "source_affix_label": "मन्",
+      "source_sutra": "ग्रसेरा च",
+      "selected_input": "gras",
+      "reading_iast": [
+        "grāma"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "ग्रामः",
+      "licensing_decision": "Use the stipulated ā with the inherited affix."
+    },
+    {
+      "id": "1.141",
+      "publisher_id": "1141",
+      "source_affix_label": "मन्",
+      "source_sutra": "अविसिविसिशुषिभ्यः कित्",
+      "selected_input": "av",
+      "reading_iast": [
+        "ūma"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 9,
+      "quoted_source": "ऊमं नगरम्",
+      "licensing_decision": "The affix has kit status in this named group. The city sense belongs to ūma."
+    },
+    {
+      "id": "1.142",
+      "publisher_id": "1142",
+      "source_affix_label": "मक्",
+      "source_sutra": "इषियुधीन्धिदसिश्याधूसूभ्यो मक्",
+      "selected_input": "indh",
+      "reading_iast": [
+        "idhma"
+      ],
+      "source_field": "sk",
+      "source_begin": 65,
+      "source_end": 76,
+      "quoted_source": "इध्मः समित्",
+      "licensing_decision": "Use mak on the indh member. The commentary cites the kindling term."
+    },
+    {
+      "id": "1.143",
+      "publisher_id": "1143",
+      "source_affix_label": "मक्",
+      "source_sutra": "युजिरुचितिजां कुश्च",
+      "selected_input": "yuj",
+      "reading_iast": [
+        "yugma"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 7,
+      "quoted_source": "युग्मम्",
+      "licensing_decision": "Carry the named guttural treatment with the mak formation on yuj."
+    },
+    {
+      "id": "1.144",
+      "publisher_id": "1144",
+      "source_affix_label": "मक्",
+      "source_sutra": "हन्तेर्हि च",
+      "selected_input": "han",
+      "reading_iast": [
+        "hima"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "हिमम्",
+      "licensing_decision": "Keep hi as the locally specified change on han."
+    },
+    {
+      "id": "1.145",
+      "publisher_id": "1145",
+      "source_affix_label": "मक्",
+      "source_sutra": "भियः षुग्वा",
+      "selected_input": "bhī",
+      "reading_iast": [
+        "bhīma",
+        "bhīṣma"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 13,
+      "quoted_source": "भीमः । भीष्मः",
+      "licensing_decision": "The ṣuK augment is optional. Its presence distinguishes the two words on the same input."
+    },
+    {
+      "id": "1.146",
+      "publisher_id": "1146",
+      "source_affix_label": "मक्",
+      "source_sutra": "घर्मः",
+      "selected_input": "ghṛ",
+      "reading_iast": [
+        "gharma"
+      ],
+      "source_field": "sutra",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "घर्मः",
+      "licensing_decision": "The sūtra supplies the lexical word. Its commentary names mak and stipulated guṇa."
+    },
+    {
+      "id": "1.147",
+      "publisher_id": "1147",
+      "source_affix_label": "मक्",
+      "source_sutra": "ग्रीष्मः",
+      "selected_input": "gras",
+      "reading_iast": [
+        "grīṣma"
+      ],
+      "source_field": "sutra",
+      "source_begin": 0,
+      "source_end": 8,
+      "quoted_source": "ग्रीष्मः",
+      "licensing_decision": "The sūtra supplies the lexical word. The commentary treats it as a nipātana of gras."
+    },
+    {
+      "id": "1.148",
+      "publisher_id": "1148",
+      "source_affix_label": "षिवन्",
+      "source_sutra": "प्रथेः षिवन् संप्रसारणं च",
+      "selected_input": "prath",
+      "reading_iast": [
+        "pṛthivī"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "पृथिवी",
+      "licensing_decision": "Keep ṣivan and saṃprasāraṇa on the selected account. The commentary also transmits other analyses and spellings."
+    },
+    {
+      "id": "1.149",
+      "publisher_id": "1149",
+      "source_affix_label": "क्वन्",
+      "source_sutra": "अशूप्रुषिलटिकणिखटिविशिभ्यः क्वन्",
+      "selected_input": "aśū in the named list",
+      "reading_iast": [
+        "aśva"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "अश्वः",
+      "licensing_decision": "Select the first of the stated kvan inputs. Further named roots have their own properties."
+    },
+    {
+      "id": "1.150",
+      "publisher_id": "1150",
+      "source_affix_label": "वन्",
+      "source_sutra": "इण्शीभ्यां वन्",
+      "selected_input": "iṇ",
+      "reading_iast": [
+        "eva"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 9,
+      "quoted_source": "एवो गन्ता",
+      "licensing_decision": "Use van in the goer reading. The gloss distinguishes the use as a particle."
+    },
+    {
+      "id": "1.151",
+      "publisher_id": "1151",
+      "source_affix_label": "वन्",
+      "source_sutra": "सर्वनीघृष्वरिष्वलष्वशिवपट्वप्रह्वेष्वा अस्वतन्त्रे",
+      "selected_input": "sṛ with a non-agent role",
+      "reading_iast": [
+        "sarva"
+      ],
+      "source_field": "sk",
+      "source_begin": 44,
+      "source_end": 50,
+      "quoted_source": "सर्वम्",
+      "licensing_decision": "Apply the asvatantra restriction. The explicit actor examples in the commentary fall outside this reading."
+    },
+    {
+      "id": "1.152",
+      "publisher_id": "1152",
+      "source_affix_label": "वण्",
+      "source_sutra": "शेवयह्वजिह्वाग्रीवाप्वामीवाः",
+      "selected_input": "lih",
+      "reading_iast": [
+        "jihvā"
+      ],
+      "source_field": "sk",
+      "source_begin": 77,
+      "source_end": 83,
+      "quoted_source": "जिह्वा",
+      "licensing_decision": "Preserve j for l and the stated absence of guṇa in the word for tongue. Other enumerated members have separate operations."
+    },
+    {
+      "id": "1.153",
+      "publisher_id": "1153",
+      "source_affix_label": "व",
+      "source_sutra": "कॄगॄशॄदॄभ्यो वः",
+      "selected_input": "gṝ",
+      "reading_iast": [
+        "garva"
+      ],
+      "source_field": "sk",
+      "source_begin": 19,
+      "source_end": 24,
+      "quoted_source": "गर्वः",
+      "licensing_decision": "Use va on the gṝ member of the four-root list."
+    },
+    {
+      "id": "1.154",
+      "publisher_id": "1154",
+      "source_affix_label": "कनिन्",
+      "source_sutra": "कनिन् युवृषितक्षिराजिधन्विद्युप्रतिदिवः",
+      "selected_input": "rāj",
+      "reading_iast": [
+        "rājan"
+      ],
+      "source_field": "sk",
+      "source_begin": 37,
+      "source_end": 41,
+      "quoted_source": "राजा",
+      "licensing_decision": "Keep kanin in the nominal stem and the quoted nominative rājā in separate fields."
+    },
+    {
+      "id": "1.155",
+      "publisher_id": "1155",
+      "source_affix_label": "कनिन्",
+      "source_sutra": "सप्यशूभ्यां तुट् च",
+      "selected_input": "sap",
+      "reading_iast": [
+        "saptan"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 4,
+      "quoted_source": "सप्त",
+      "licensing_decision": "Retain the tuṭ instruction and the quoted numeral form. The paired aśū reading is separately enumerated."
+    },
+    {
+      "id": "1.156",
+      "publisher_id": "1156",
+      "source_affix_label": "कनिन्",
+      "source_sutra": "नञि जहातेः",
+      "selected_input": "nañ with jahāti",
+      "reading_iast": [
+        "ahan"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 3,
+      "quoted_source": "अहः",
+      "licensing_decision": "Require the negative member and retain the cited form ahaḥ of the word for day."
+    },
+    {
+      "id": "1.157",
+      "publisher_id": "1157",
+      "source_affix_label": "कनिन्",
+      "source_sutra": "श्वन्नुक्षन्पूषन्प्लीहन्क्लेदन्स्नेहन्मूर्धन्मज्जन्नर्यमन्विश्वप्सन्परिज्जन्मातरिश्वन्मघवन्निति",
+      "selected_input": "listed śvan",
+      "reading_iast": [
+        "śvan"
+      ],
+      "source_field": "sk",
+      "source_begin": 51,
+      "source_end": 55,
+      "quoted_source": "श्वा",
+      "licensing_decision": "The sūtra names thirteen frozen kanin stems. The commentary gives the nominative śvā and supplies separate histories for other members."
+    }
+  ]
+}

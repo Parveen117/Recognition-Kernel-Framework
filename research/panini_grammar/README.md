@@ -2,6 +2,8 @@
 
 Author: Monty. 1 November 2026.
 
+[Current written coverage and remaining work at PG176](unadi_first_pada_readings/REMAINING.md) · [First Uṇādi pāda](unadi_first_pada_readings/README.md)
+
 This stage establishes the Sanskrit grammar specification before extending its
 software or applying it in the quantum calculator. It integrates the existing
 T78–T80 research and records the linguistic obligations that their finite
@@ -1409,6 +1411,8 @@ cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
+
+**PG176 — A lexical reading for every rule in the first Uṇādi pāda.** [Packet](unadi_first_pada_readings/README.md). Zero new finite positions. Cumulative **40,379**.
 
 **PG175 — The complete words shared by the two disputed perfect tables.** [Packet](desiderative_perfect_word_intersection/README.md). Zero new finite positions. Cumulative **40,379**.
 
