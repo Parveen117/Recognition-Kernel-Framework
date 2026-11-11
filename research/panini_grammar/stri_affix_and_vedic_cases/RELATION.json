@@ -1,0 +1,253 @@
+{
+  "primary": {
+    "rule": "4.165",
+    "named_root": "styāyate (styai)",
+    "published_affix": "ḍaṭ",
+    "word": "strī",
+    "SLP1_control": "styAyaterqaw",
+    "limit": "The primary record names the word. Applying the ḍraṭ derivation verbatim to ḍaṭ would leave r without a source."
+  },
+  "alternate": {
+    "affix": "ḍraṭ",
+    "sourced_steps": [
+      "The r is present in the suffix spelling.",
+      "The ḍ marker licenses ṭi deletion. At the remaining contact y before r, Ujjvaladatta invokes deletion before val (6.1.66).",
+      "The final ṭ licenses the feminine ṅīp under 4.1.15; removal of the markers and the stem-final a produces strī."
+    ],
+    "evidence": {
+      "Dayananda_digital_locus": "4.166",
+      "Satyavrata_printed_locus": "4.167 p. 222, footnote 1",
+      "Bhasya_verse": "at 1.2.64 and 4.1.3",
+      "Tattvabodhini": "contrasts the numbered rule with the wording of the verse in which saṃstyāne occurs."
+    }
+  },
+  "root_controls": [
+    {
+      "baseindex": "01.1058",
+      "dhatu": "स्त्यै",
+      "aupadeshik": "स्त्यै",
+      "artha": "शब्दसङ्घातयोः",
+      "pada": "P"
+    },
+    {
+      "baseindex": "01.1059",
+      "dhatu": "स्त्यै",
+      "aupadeshik": "ष्ट्यै",
+      "artha": "शब्दसङ्घातयोः",
+      "pada": "P"
+    }
+  ],
+  "case_conditions": [
+    {
+      "scope": "the lexical word strī",
+      "decision": "6.4.79 supplies iyaṅ before a vowel-initial ending. The Nyāsa specifies this word as such; the scope does not extend to every feminine."
+    },
+    {
+      "scope": "accusative sg am and pl śas",
+      "decision": "6.4.80 makes iyaṅ optional in these two cases."
+    },
+    {
+      "scope": "genitive plural ām",
+      "decision": "the later nuṭ (7.1.54) takes priority according to the Kāśikā at 6.4.79. The resulting word is strīṇām."
+    },
+    {
+      "scope": "address singular",
+      "decision": "the explicit exception for strī in 1.4.4 retains nadī status; the short vocative is stri."
+    }
+  ],
+  "table": "NOMINAL_FORMS.tsv",
+  "slots": 24,
+  "readings": 26,
+  "corpus": {
+    "corpus_id": "strI_10263",
+    "tokens": [
+      {
+        "rownum": 27653,
+        "verse": "01.164.16",
+        "pada": "a",
+        "form": "stríyaḥ",
+        "cas": "Akk.",
+        "num": "Pl.",
+        "gender": "f.",
+        "lemma": "strī́-",
+        "case": "acc",
+        "number": "pl",
+        "unaccented": "striyaḥ"
+      },
+      {
+        "rownum": 55925,
+        "verse": "04.030.08",
+        "pada": "c",
+        "form": "stríyam",
+        "cas": "Akk.",
+        "num": "Sg.",
+        "gender": "f.",
+        "lemma": "strī́-",
+        "case": "acc",
+        "number": "sg",
+        "unaccented": "striyam"
+      },
+      {
+        "rownum": 63407,
+        "verse": "05.030.09",
+        "pada": "a",
+        "form": "stríyaḥ",
+        "cas": "Akk.",
+        "num": "Pl.",
+        "gender": "f.",
+        "lemma": "strī́-",
+        "case": "acc",
+        "number": "pl",
+        "unaccented": "striyaḥ"
+      },
+      {
+        "rownum": 68838,
+        "verse": "05.061.06",
+        "pada": "a",
+        "form": "strī́",
+        "cas": "Nom.",
+        "num": "Sg.",
+        "gender": "f.",
+        "lemma": "strī́-",
+        "case": "nom",
+        "number": "sg",
+        "unaccented": "strī"
+      },
+      {
+        "rownum": 91911,
+        "verse": "07.055.08",
+        "pada": "c",
+        "form": "stríyaḥ",
+        "cas": "Nom.",
+        "num": "Pl.",
+        "gender": "f.",
+        "lemma": "strī́-",
+        "case": "nom",
+        "number": "pl",
+        "unaccented": "striyaḥ"
+      },
+      {
+        "rownum": 98436,
+        "verse": "07.104.24",
+        "pada": "b",
+        "form": "stríyam",
+        "cas": "Akk.",
+        "num": "Sg.",
+        "gender": "f.",
+        "lemma": "strī́-",
+        "case": "acc",
+        "number": "sg",
+        "unaccented": "striyam"
+      },
+      {
+        "rownum": 107704,
+        "verse": "08.033.17",
+        "pada": "b",
+        "form": "striyā́ḥ",
+        "cas": "Gen.",
+        "num": "Sg.",
+        "gender": "f.",
+        "lemma": "strī́-",
+        "case": "gen",
+        "number": "sg",
+        "unaccented": "striyāḥ"
+      },
+      {
+        "rownum": 107735,
+        "verse": "08.033.19",
+        "pada": "d",
+        "form": "strī́",
+        "cas": "Nom.",
+        "num": "Sg.",
+        "gender": "f.",
+        "lemma": "strī́-",
+        "case": "nom",
+        "number": "sg",
+        "unaccented": "strī"
+      },
+      {
+        "rownum": 139124,
+        "verse": "10.027.10",
+        "pada": "c",
+        "form": "strībhíḥ",
+        "cas": "Instr.",
+        "num": "Pl.",
+        "gender": "f.",
+        "lemma": "strī́-",
+        "case": "ins",
+        "number": "pl",
+        "unaccented": "strībhiḥ"
+      },
+      {
+        "rownum": 140756,
+        "verse": "10.034.11",
+        "pada": "a",
+        "form": "stríyam",
+        "cas": "Akk.",
+        "num": "Sg.",
+        "gender": "f.",
+        "lemma": "strī́-",
+        "case": "acc",
+        "number": "sg",
+        "unaccented": "striyam"
+      },
+      {
+        "rownum": 150997,
+        "verse": "10.086.06",
+        "pada": "a",
+        "form": "strī́",
+        "cas": "Nom.",
+        "num": "Sg.",
+        "gender": "f.",
+        "lemma": "strī́-",
+        "case": "nom",
+        "number": "sg",
+        "unaccented": "strī"
+      }
+    ],
+    "distinct_case_number": 6,
+    "two_token_comparisons": [
+      [
+        {
+          "rownum": 27653,
+          "verse": "01.164.16",
+          "pada": "a",
+          "form": "stríyaḥ",
+          "cas": "Akk.",
+          "num": "Pl."
+        },
+        {
+          "rownum": 27654,
+          "verse": "01.164.16",
+          "pada": "a",
+          "form": "satī́ḥ",
+          "cas": "Akk.",
+          "num": "Pl."
+        }
+      ],
+      [
+        {
+          "rownum": 91911,
+          "verse": "07.055.08",
+          "pada": "c",
+          "form": "stríyaḥ",
+          "cas": "Nom.",
+          "num": "Pl."
+        },
+        {
+          "rownum": 91912,
+          "verse": "07.055.08",
+          "pada": "c",
+          "form": "yā́ḥ",
+          "cas": "Nom.",
+          "num": "Pl."
+        }
+      ]
+    ]
+  },
+  "projection": {
+    "input": "authority, exact suffix spelling and marker history, lexical stem, case, number and text when applicable",
+    "output": "the inflected word with separately recorded source accent",
+    "boundary": "Inflection starts at the established stem. No lexical or verse occurrence supplies the missing r for a source that writes ḍaṭ. The explicit 4.165 label does not reallocate an affix under 4.105."
+  }
+}
