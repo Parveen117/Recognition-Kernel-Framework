@@ -1,0 +1,2065 @@
+{
+  "schema": "rkf.panini.pg177.pada.v1",
+  "declared_domain": "One or more selected source-conditioned lexical readings, contextual forms or explicit negative decisions for each address of this pāda. The primary affix label describes a source row. Its values can have different lexical owners.",
+  "offsets": "Zero-based Unicode code-point offsets, end exclusive, in the indicated field of the primary record.",
+  "cumulative": {
+    "primary_records": 748,
+    "reviewed_source_addresses": 280,
+    "new_addresses": 123,
+    "remaining_addresses": 468
+  },
+  "witness_comparisons": [
+    {
+      "primary_address": "2.60",
+      "kosha_address": "2.59",
+      "strings": [
+        "परिव्राट्, परिव्राजौ, परिव्राजः"
+      ],
+      "witness_url": "https://sa.wikisource.org/w/index.php?oldid=402151"
+    },
+    {
+      "primary_address": "2.66",
+      "kosha_address": "2.65",
+      "strings": [
+        "ग्लौकरोति। ग्लौभवति",
+        "नौकरोति"
+      ],
+      "witness_url": "https://sa.wikisource.org/w/index.php?oldid=402151"
+    },
+    {
+      "primary_address": "2.76",
+      "kosha_address": "2.75",
+      "strings": [
+        "रशना स्त्रियः",
+        "रसना जिह्वा"
+      ],
+      "witness_url": "https://sa.wikisource.org/w/index.php?oldid=402151"
+    },
+    {
+      "primary_address": "2.93",
+      "kosha_address": "2.94",
+      "strings": [
+        "यथाक्रमं तृन्तृचौ तौ चानिटौ",
+        "शंस्तरौ, शंस्तरः"
+      ],
+      "witness_url": "https://sa.wikisource.org/w/index.php?oldid=402151"
+    },
+    {
+      "primary_address": "2.98",
+      "kosha_address": "2.98",
+      "strings": [
+        "ननान्दा। ननन्दा"
+      ],
+      "witness_url": "https://sa.wikisource.org/w/index.php?oldid=402151"
+    },
+    {
+      "primary_address": "2.123",
+      "kosha_address": "2.122",
+      "strings": [
+        "नौ षदेः",
+        "निषद्वरः पङ्को",
+        "निषद्वरी"
+      ],
+      "witness_url": "https://sa.wikisource.org/w/index.php?oldid=402151"
+    }
+  ],
+  "readings": [
+    {
+      "id": "2.1",
+      "publisher_id": "2001",
+      "source_sutra": "कृहृभ्यामेणुः",
+      "source_affix_label": "एणु",
+      "selected_input": "kṛ, hṛ",
+      "reading_iast": [
+        "kareṇu",
+        "hareṇu"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 28,
+      "quoted_source": "करेणुः । हरेणुर्गन्धद्रव्यम्",
+      "licensing_decision": "Pair eṇu with each of the two named roots. Only the second quoted word is glossed here as an aromatic substance.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.2",
+      "publisher_id": "2002",
+      "source_sutra": "हनिकुषिनरिकाशिभ्यः कथन्",
+      "source_affix_label": "कथन्",
+      "selected_input": "han",
+      "reading_iast": [
+        "hatha"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 11,
+      "quoted_source": "हथो विषण्णः",
+      "licensing_decision": "Select the han member of kathan and the despondent sense. The three other listed inputs have their own outputs.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.3",
+      "publisher_id": "2003",
+      "source_sutra": "अवे भृञः",
+      "source_affix_label": "कथन्",
+      "selected_input": "ava with bhṛñ",
+      "reading_iast": [
+        "avabhṛtha"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "अवभृथः",
+      "licensing_decision": "Require the named prefix on the inherited kathan formation.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.4",
+      "publisher_id": "2004",
+      "source_sutra": "उषिकुषिगार्तिभ्यः स्थन्",
+      "source_affix_label": "स्थन्",
+      "selected_input": "uṣ",
+      "reading_iast": [
+        "oṣṭha"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "ओष्ठः",
+      "licensing_decision": "Select uṣ with sthan. The extension to śotha is separately attributed to bahulaka.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.5",
+      "publisher_id": "2005",
+      "source_sutra": "सर्तेर्णित्",
+      "source_affix_label": "स्थन्",
+      "selected_input": "sṛ",
+      "reading_iast": [
+        "sārtha"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 12,
+      "quoted_source": "सार्थः समूहः",
+      "licensing_decision": "Give the inherited affix ṇit in the collective sense illustrated by the commentary.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.6",
+      "publisher_id": "2006",
+      "source_sutra": "जॄवृञ्भ्यामूथन्",
+      "source_affix_label": "ऊथन्",
+      "selected_input": "jṝ",
+      "reading_iast": [
+        "jarūtha"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 12,
+      "quoted_source": "जरूथं मांसम्",
+      "licensing_decision": "Select jṝ with ūthan and the meat sense. Varūtha belongs to vṛñ.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.7",
+      "publisher_id": "2007",
+      "source_sutra": "पातॄतुदिवचिरिचिसिचिभ्यस्थक्",
+      "source_affix_label": "थक्",
+      "selected_input": "tṝ",
+      "reading_iast": [
+        "tīrtha"
+      ],
+      "source_field": "sk",
+      "source_begin": 23,
+      "source_end": 42,
+      "quoted_source": "तीर्थं शास्त्राध्वर",
+      "licensing_decision": "Use thak on this member. The gloss lists several senses of the same noun.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.8",
+      "publisher_id": "2008",
+      "source_sutra": "अर्तेर्निरि",
+      "source_affix_label": "थक्",
+      "selected_input": "nir with ṛ",
+      "reading_iast": [
+        "nirṛtha"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 11,
+      "quoted_source": "निर्ऋथं साम",
+      "licensing_decision": "Require nir in this thak formation. Preserve the unusual vowel sequence in the edition.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.9",
+      "publisher_id": "2009",
+      "source_sutra": "निशीथगोपीथावगथाः",
+      "source_affix_label": "थक्",
+      "selected_input": "listed niśītha",
+      "reading_iast": [
+        "niśītha"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 16,
+      "quoted_source": "निशीथोऽर्धरात्रः",
+      "licensing_decision": "The fixed thak word may denote midnight or night as given in the gloss.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.10",
+      "publisher_id": "2010",
+      "source_sutra": "गश्चोदि",
+      "source_affix_label": "थक्",
+      "selected_input": "ud with the gā member",
+      "reading_iast": [
+        "udgītha"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 24,
+      "quoted_source": "उद्गीथः साम्नो भागविशेषः",
+      "licensing_decision": "Require ud and retain the specified portion of a sāman as its lexical sense.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.11",
+      "publisher_id": "2011",
+      "source_sutra": "समीणः",
+      "source_affix_label": "थक्",
+      "selected_input": "sam with iṇ",
+      "reading_iast": [
+        "samitha"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 12,
+      "quoted_source": "समिथो वह्निः",
+      "licensing_decision": "The prefix is required. The commentary gives fire and battle as senses.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.12",
+      "publisher_id": "2012",
+      "source_sutra": "तिथपृष्ठगूथयूथप्रोथाः",
+      "source_affix_label": "थक्",
+      "selected_input": "tij in the fixed list",
+      "reading_iast": [
+        "titha"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 22,
+      "quoted_source": "तिजेर्जलोपः । तिथोऽनलः",
+      "licensing_decision": "Retain the cited loss of j in the examples of fire and Kāma.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.13",
+      "publisher_id": "2013",
+      "source_sutra": "स्फायितञ्चिवञ्चिशकिक्षिपिक्षुदिसृपितृपिदृपिवन्द्युन्दिश्वितिवृत्यजिनीपदिमदिमुदिखिदिछिदिभिदिमन्दिचन्दिदहिदसिदम्भिवसिवाशिशीङ्हसिसिधिशुभिभ्यो रक्",
+      "source_affix_label": "रक्",
+      "selected_input": "kṣip",
+      "reading_iast": [
+        "kṣipra"
+      ],
+      "source_field": "sk",
+      "source_begin": 105,
+      "source_end": 114,
+      "quoted_source": "क्षिप्रम्",
+      "licensing_decision": "Select one member of the thirty-two roots taking rak. Further listed roots have independent spellings.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.14",
+      "publisher_id": "2014",
+      "source_sutra": "चकिरम्योरुच्चोपधायाः",
+      "source_affix_label": "रक्",
+      "selected_input": "cak",
+      "reading_iast": [
+        "cukra"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 17,
+      "quoted_source": "चुक्रमम्लद्रव्यम्",
+      "licensing_decision": "Change the penultimate vowel to u on this acid-substance reading.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.15",
+      "publisher_id": "2015",
+      "source_sutra": "वौ कसेः",
+      "source_affix_label": "रक्",
+      "selected_input": "vi with kas",
+      "reading_iast": [
+        "vikusra"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 16,
+      "quoted_source": "विकुस्रश्चन्द्रः",
+      "licensing_decision": "Require vi in the moon-name example under rak.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.16",
+      "publisher_id": "2016",
+      "source_sutra": "अमितम्योर्दीर्घश्च",
+      "source_affix_label": "रक्",
+      "selected_input": "am",
+      "reading_iast": [
+        "āmra"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "आम्रम्",
+      "licensing_decision": "Use the local lengthening. The paired tam input yields tāmra.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.17",
+      "publisher_id": "2017",
+      "source_sutra": "निन्देर्नलोपश्च",
+      "source_affix_label": "रक्",
+      "selected_input": "nind",
+      "reading_iast": [
+        "nidrā"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "निद्रा",
+      "licensing_decision": "Keep nasal loss on the named root in the word for sleep.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.18",
+      "publisher_id": "2018",
+      "source_sutra": "अर्देर्दीर्घश्च",
+      "source_affix_label": "रक्",
+      "selected_input": "ard",
+      "reading_iast": [
+        "ārdra"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 8,
+      "quoted_source": "आर्द्रम्",
+      "licensing_decision": "Lengthen under the inherited rak formation.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.19",
+      "publisher_id": "2019",
+      "source_sutra": "शुचेर्दश्च",
+      "source_affix_label": "रक्",
+      "selected_input": "śuc",
+      "reading_iast": [
+        "śūdra"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "शूद्रः",
+      "licensing_decision": "Retain the locally specified d change on the selected word.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.20",
+      "publisher_id": "2020",
+      "source_sutra": "दुरीणो लोपश्च",
+      "source_affix_label": "रक्",
+      "selected_input": "dur with iṇ",
+      "reading_iast": [
+        "dūra"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 29,
+      "quoted_source": "दुःखेनेयते प्राप्यत इति दूरम्",
+      "licensing_decision": "Retain the named prefix and the lopa instruction. The commentary glosses what is reached with difficulty.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.21",
+      "publisher_id": "2021",
+      "source_sutra": "कृतेश्छः क्रू च",
+      "source_affix_label": "रक्",
+      "selected_input": "kṛt",
+      "reading_iast": [
+        "krūra"
+      ],
+      "source_field": "sk",
+      "source_begin": 13,
+      "source_end": 19,
+      "quoted_source": "क्रूरः",
+      "licensing_decision": "Select the krū branch. The other published example has an irregular graphic cluster and receives no independent reading here.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.22",
+      "publisher_id": "2022",
+      "source_sutra": "रोदेर्णिलुक् च",
+      "source_affix_label": "रक्",
+      "selected_input": "causative rod-/rud input",
+      "reading_iast": [
+        "rudra"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 15,
+      "quoted_source": "रोदयतीति रुद्रः",
+      "licensing_decision": "Remove ṇi under luk on the source’s causative history.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.23",
+      "publisher_id": "2023",
+      "source_sutra": "बहुलमन्यत्रापि संज्ञाछन्दसोः",
+      "source_affix_label": "रक्",
+      "selected_input": "the named or metrical extension on the parṇa-śuṣ example",
+      "reading_iast": [
+        "parṇaśuṣaḥ"
+      ],
+      "source_field": "sk",
+      "source_begin": 21,
+      "source_end": 39,
+      "quoted_source": "पर्णशुषो वातास्ततः",
+      "licensing_decision": "Restrict the extension to names or Chandas and preserve the preceding ṇi-luk as instructed. The selected citation has a sandhi-joined plural.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.24",
+      "publisher_id": "2024",
+      "source_sutra": "जोरी च",
+      "source_affix_label": "रक्",
+      "selected_input": "the root quoted as joḥ",
+      "reading_iast": [
+        "jīra"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 8,
+      "quoted_source": "जीरोऽणुः",
+      "licensing_decision": "The rule prescribes ī. The commentary reports a second formulation separately.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.25",
+      "publisher_id": "2025",
+      "source_sutra": "सुसूधागृधिभ्यः क्रन्",
+      "source_affix_label": "क्रन्",
+      "selected_input": "dhā",
+      "reading_iast": [
+        "dhīra"
+      ],
+      "source_field": "sk",
+      "source_begin": 14,
+      "source_end": 18,
+      "quoted_source": "धीरः",
+      "licensing_decision": "Select the dhā member of the four roots listed with kran.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.26",
+      "publisher_id": "2026",
+      "source_sutra": "शुसिचिमीनां दीर्घश्च",
+      "source_affix_label": "क्रन्",
+      "selected_input": "śu, the rule’s own root",
+      "reading_iast": [
+        "śūra"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 17,
+      "quoted_source": "शुः सौत्रः । शूरः",
+      "licensing_decision": "Keep the locally prescribed lengthening and the identification as a root taught here.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.27",
+      "publisher_id": "2027",
+      "source_sutra": "वा विन्धेः",
+      "source_affix_label": "क्रन्",
+      "selected_input": "vindh",
+      "reading_iast": [
+        "vīdhra"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 13,
+      "quoted_source": "वीध्रं विमलम्",
+      "licensing_decision": "Preserve the optional instruction and the clean or clear sense of the cited word. This entry quotes one outcome.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.28",
+      "publisher_id": "2028",
+      "source_sutra": "वृधिवपिभ्यां रन्",
+      "source_affix_label": "रन्",
+      "selected_input": "vap",
+      "reading_iast": [
+        "vapra"
+      ],
+      "source_field": "sk",
+      "source_begin": 15,
+      "source_end": 29,
+      "quoted_source": "वप्रः प्राकारः",
+      "licensing_decision": "Use ran for the rampart sense. The paired vṛdh entry is glossed as leather.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.29",
+      "publisher_id": "2029",
+      "source_sutra": "ऋज्रेन्द्राग्रवज्रविप्रकुव्रचुव्रक्षुरखुरभद्रोग्रभेरभेलशुक्रशुक्लगौरवम्रेरामालाः",
+      "source_affix_label": "रन्",
+      "selected_input": "listed vajra",
+      "reading_iast": [
+        "vajra"
+      ],
+      "source_field": "sk",
+      "source_begin": 93,
+      "source_end": 115,
+      "quoted_source": "वज्रोऽस्त्री हीरके पवौ",
+      "licensing_decision": "Admit this enumerated ran word under the diamond and thunderbolt glosses.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.30",
+      "publisher_id": "2030",
+      "source_sutra": "समि कस उकन्",
+      "source_affix_label": "उकन्",
+      "selected_input": "sam with kas",
+      "reading_iast": [
+        "saṅkasuka"
+      ],
+      "source_field": "sk",
+      "source_begin": 45,
+      "source_end": 61,
+      "quoted_source": "सङ्कसुको दुर्जनः",
+      "licensing_decision": "Require sam and ukan. The gloss makes the sense and compound history explicit.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.31",
+      "publisher_id": "2031",
+      "source_sutra": "पचिनशोर्णुकन्कनुमौ च",
+      "source_affix_label": "णुकन्, कनुम्",
+      "selected_input": "pac, naś",
+      "reading_iast": [
+        "pākuka",
+        "naṃśuka"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 45,
+      "quoted_source": "पचेः कः । पाकुकः सूपकारः । नशेर्नुम् । नंशुकः",
+      "licensing_decision": "The common affix is ṇukan. The k instruction belongs to pac and num to naś. The publisher’s compound label is retained verbatim.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.32",
+      "publisher_id": "2032",
+      "source_sutra": "भियः क्रुकन्",
+      "source_affix_label": "क्रुकन्",
+      "selected_input": "bhī",
+      "reading_iast": [
+        "bhīruka"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "भीरुकः",
+      "licensing_decision": "Select krukan on the named root.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.33",
+      "publisher_id": "2033",
+      "source_sutra": "क्वुन् शिल्पिसंज्ञयोरपूर्वस्यापि",
+      "source_affix_label": "क्वुन्",
+      "selected_input": "craft or personal name",
+      "reading_iast": [
+        "rajaka"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 4,
+      "quoted_source": "रजकः",
+      "licensing_decision": "The kvun rule admits the named domains, including an unprefixed base. The commentary quotes the washerman word.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.34",
+      "publisher_id": "2034",
+      "source_sutra": "रमे रश्च लो वा",
+      "source_affix_label": "क्वुन्",
+      "selected_input": "ram",
+      "reading_iast": [
+        "ramaka",
+        "lamaka"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 18,
+      "quoted_source": "रमको विलासी । लमकः",
+      "licensing_decision": "The optional r-to-l reading yields two forms on a single request.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.35",
+      "publisher_id": "2035",
+      "source_sutra": "जहातेर्द्वे च",
+      "source_affix_label": "क्वुन्",
+      "selected_input": "jahāti",
+      "reading_iast": [
+        "jahaka"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 18,
+      "quoted_source": "जहकस्त्यागी कालश्च",
+      "licensing_decision": "Keep the twofold-copy instruction in the cited giver-up or time readings.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.36",
+      "publisher_id": "2036",
+      "source_sutra": "ध्मो धम च",
+      "source_affix_label": "क्वुन्",
+      "selected_input": "dhmā",
+      "reading_iast": [
+        "dhamaka"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 13,
+      "quoted_source": "धमकः कर्मकारः",
+      "licensing_decision": "The rule gives dham in the formation for the artisan.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.37",
+      "publisher_id": "2037",
+      "source_sutra": "हनो वध च",
+      "source_affix_label": "क्वुन्",
+      "selected_input": "han",
+      "reading_iast": [
+        "vadhaka"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 4,
+      "quoted_source": "वधकः",
+      "licensing_decision": "Keep the locally stipulated vadh substitution with kvun.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.38",
+      "publisher_id": "2038",
+      "source_sutra": "बहुलमन्यत्रापि",
+      "source_affix_label": "क्वुन्",
+      "selected_input": "kuh",
+      "reading_iast": [
+        "kuhaka"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 21,
+      "quoted_source": "कुह विस्मापने । कुहकः",
+      "licensing_decision": "The wider-use rule admits the commentary’s kuh example with its named sense.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.39",
+      "publisher_id": "2039",
+      "source_sutra": "कृषेर्वृद्धिश्चोदीचाम्",
+      "source_affix_label": "क्वुन्",
+      "selected_input": "kṛṣ with regional usage",
+      "reading_iast": [
+        "kārṣaka",
+        "kṛṣaka"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 15,
+      "quoted_source": "कार्षकः । कृषकः",
+      "licensing_decision": "Tie vṛddhi to the northern usage named in the sūtra. The primary commentary quotes both words.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.40",
+      "publisher_id": "2040",
+      "source_sutra": "उदकं च",
+      "source_affix_label": "क्वुन्",
+      "selected_input": "fixed udaka",
+      "reading_iast": [
+        "udaka"
+      ],
+      "source_field": "sutra",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "उदकं च",
+      "licensing_decision": "Read the explicitly named word in the sūtra. The commentary only says the item is given for elaboration.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.41",
+      "publisher_id": "2041",
+      "source_sutra": "वृश्चिकृष्योः किकन्",
+      "source_affix_label": "किकन्",
+      "selected_input": "vṛśc",
+      "reading_iast": [
+        "vṛścika"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 8,
+      "quoted_source": "वृश्चिकः",
+      "licensing_decision": "Select kikan on the first root. The kṛṣ member is separately named.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.42",
+      "publisher_id": "2042",
+      "source_sutra": "प्राङिपणिकषः",
+      "source_affix_label": "किकन्",
+      "selected_input": "pra with paṇ",
+      "reading_iast": [
+        "prāpaṇika"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 21,
+      "quoted_source": "प्रापणिकः पण्यविक्रयी",
+      "licensing_decision": "Require pra and select the vendor sense. Kaṣ has its own lexical reading.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.43",
+      "publisher_id": "2043",
+      "source_sutra": "मुषेर्दीर्घश्च",
+      "source_affix_label": "किकन्",
+      "selected_input": "muṣ",
+      "reading_iast": [
+        "mūṣika"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 10,
+      "quoted_source": "मूषिक आखुः",
+      "licensing_decision": "Keep lengthening in the mouse word.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.44",
+      "publisher_id": "2044",
+      "source_sutra": "स्यमेः संप्रसारणं च",
+      "source_affix_label": "किकन्",
+      "selected_input": "syam",
+      "reading_iast": [
+        "sīmika"
+      ],
+      "source_field": "sk",
+      "source_begin": 13,
+      "source_end": 29,
+      "quoted_source": "सीमिको वृक्षभेदः",
+      "licensing_decision": "The commentary carries both saṃprasāraṇa and lengthening in the name of a tree.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.45",
+      "publisher_id": "2045",
+      "source_sutra": "क्रिय इकन्",
+      "source_affix_label": "इकन्",
+      "selected_input": "krī",
+      "reading_iast": [
+        "krayika"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 14,
+      "quoted_source": "क्रयिकः क्रेता",
+      "licensing_decision": "Use ikan in the buyer sense quoted by the commentary.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.46",
+      "publisher_id": "2046",
+      "source_sutra": "आङि पणिपनिपतिखनिभ्यः",
+      "source_affix_label": "इकन्",
+      "selected_input": "āṅ with khan",
+      "reading_iast": [
+        "ākhanika"
+      ],
+      "source_field": "sk",
+      "source_begin": 66,
+      "source_end": 87,
+      "quoted_source": "आखनिको मूषिको वराहश्च",
+      "licensing_decision": "Keep the prefix and ikan in the mouse or boar reading.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.47",
+      "publisher_id": "2047",
+      "source_sutra": "श्यास्त्याहृञविभ्य इनच्",
+      "source_affix_label": "इनच्",
+      "selected_input": "śyā",
+      "reading_iast": [
+        "śyena"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "श्येनः",
+      "licensing_decision": "Select the first of the named inputs to inac.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.48",
+      "publisher_id": "2048",
+      "source_sutra": "वृजेः किच्च",
+      "source_affix_label": "इनच्",
+      "selected_input": "vṛj",
+      "reading_iast": [
+        "vṛjina"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 7,
+      "quoted_source": "वृजिनम्",
+      "licensing_decision": "Mark the inherited inac as kit on this input.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.49",
+      "publisher_id": "2049",
+      "source_sutra": "अजेरज च",
+      "source_affix_label": "इनच्",
+      "selected_input": "aj",
+      "reading_iast": [
+        "ajina"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 24,
+      "quoted_source": "वीभावबाधनार्थम् । अजिनम्",
+      "licensing_decision": "Preserve the explicit aj instruction that blocks the expected vī substitution.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.50",
+      "publisher_id": "2050",
+      "source_sutra": "बहुलमन्यत्रापि",
+      "source_affix_label": "इनच्",
+      "selected_input": "the listed extended example",
+      "reading_iast": [
+        "nalina"
+      ],
+      "source_field": "sk",
+      "source_begin": 9,
+      "source_end": 15,
+      "quoted_source": "नलिनम्",
+      "licensing_decision": "The wider-use rule licenses the cited word alongside separately given examples.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.51",
+      "publisher_id": "2051",
+      "source_sutra": "द्रुदक्षिभ्यामिनन्",
+      "source_affix_label": "इनन्",
+      "selected_input": "dru",
+      "reading_iast": [
+        "draviṇa"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 8,
+      "quoted_source": "द्रविणम्",
+      "licensing_decision": "Use inan on dru. The paired dakṣ entry supplies dakṣiṇa and dakṣiṇā.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.52",
+      "publisher_id": "2052",
+      "source_sutra": "अर्तेः किदिच्च",
+      "source_affix_label": "इनन्",
+      "selected_input": "ṛ",
+      "reading_iast": [
+        "iriṇa"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 13,
+      "quoted_source": "इरिणं शून्यम्",
+      "licensing_decision": "Retain the kit and i instructions on the word glossed as empty.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.53",
+      "publisher_id": "2053",
+      "source_sutra": "वेपितुह्योर्ह्रस्वश्च",
+      "source_affix_label": "इनन्",
+      "selected_input": "vep",
+      "reading_iast": [
+        "vipina"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 7,
+      "quoted_source": "विपिनम्",
+      "licensing_decision": "Keep the stated shortening on this selection. The separate tuh input gives tuhina.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.54",
+      "publisher_id": "2054",
+      "source_sutra": "तलिपुलिभ्यां च",
+      "source_affix_label": "इनन्",
+      "selected_input": "tal",
+      "reading_iast": [
+        "talina"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 11,
+      "quoted_source": "तलिनं विरले",
+      "licensing_decision": "Use inan on this member. The gloss admits sparse, slight and clear senses.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.55",
+      "publisher_id": "2055",
+      "source_sutra": "गर्वेरत उच्च",
+      "source_affix_label": "इनन्",
+      "selected_input": "garv",
+      "reading_iast": [
+        "gurviṇī"
+      ],
+      "source_field": "sk",
+      "source_begin": 20,
+      "source_end": 28,
+      "quoted_source": "गुर्विणी",
+      "licensing_decision": "Preserve the u instruction and the feminine ṅīṣ attributed to the gaurādi list.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.56",
+      "publisher_id": "2056",
+      "source_sutra": "रुहेश्च",
+      "source_affix_label": "इनन्",
+      "selected_input": "ruh",
+      "reading_iast": [
+        "rohiṇa"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "रोहिणः",
+      "licensing_decision": "Extend the stated formation to ruh with the quoted result.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.57",
+      "publisher_id": "2057",
+      "source_sutra": "महेरिनण् च",
+      "source_affix_label": "इनण्",
+      "selected_input": "mah",
+      "reading_iast": [
+        "mahina"
+      ],
+      "source_field": "sk",
+      "source_begin": 20,
+      "source_end": 33,
+      "quoted_source": "महिनं राज्यम्",
+      "licensing_decision": "Choose the inan branch added by ca for the realm sense. The rule also gives inaṇ and the source prints its other reading separately.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.58",
+      "publisher_id": "2058",
+      "source_sutra": "क्विब्वचिप्रच्छिश्रिस्रुद्रुप्रुज्वां दीर्घोऽसंप्रसारणं च",
+      "source_affix_label": "क्विप्",
+      "selected_input": "vac",
+      "reading_iast": [
+        "vāk"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 4,
+      "quoted_source": "वाक्",
+      "licensing_decision": "The kvip rule retains length and blocks saṃprasāraṇa on its named inputs. The source quotes the pause form.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.59",
+      "publisher_id": "2059",
+      "source_sutra": "आप्नोतेर्ह्रस्वश्च",
+      "source_affix_label": "क्विप्",
+      "selected_input": "āp",
+      "reading_iast": [
+        "apaḥ"
+      ],
+      "source_field": "sk",
+      "source_begin": 6,
+      "source_end": 9,
+      "quoted_source": "अपः",
+      "licensing_decision": "Read the shortened water form among the quoted inflections. The source also gives āpaḥ, adbhiḥ and adbhyaḥ.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.60",
+      "publisher_id": "2060",
+      "source_sutra": "परौ व्रजेः षश्च पदान्ते",
+      "source_affix_label": "क्विप्",
+      "selected_input": "pari with vraj",
+      "reading_iast": [
+        "parivrāṭ",
+        "parivrājau"
+      ],
+      "source_field": "sk",
+      "source_begin": 43,
+      "source_end": 64,
+      "quoted_source": "परिव्राट् । परिव्राजौ",
+      "licensing_decision": "The special ṣ condition is pada-final. Preserve the singular edge and the internal j visible before the dual ending.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.61",
+      "publisher_id": "2061",
+      "source_sutra": "हुवः श्लुवच्च",
+      "source_affix_label": "क्विप्",
+      "selected_input": "hu",
+      "reading_iast": [
+        "juhū"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "जुहूः",
+      "licensing_decision": "Carry kvip and the prescribed ślu-like operation on the ladle word.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.62",
+      "publisher_id": "2062",
+      "source_sutra": "स्रुवः कः",
+      "source_affix_label": "क",
+      "selected_input": "sru, as cited in the sruva entry",
+      "reading_iast": [
+        "sruva"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "स्रुवः",
+      "licensing_decision": "Keep the locally prescribed ka affix and the source’s nominative example.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.63",
+      "publisher_id": "2063",
+      "source_sutra": "चिक् च",
+      "source_affix_label": "चिक्",
+      "selected_input": "the sru entry under cik",
+      "reading_iast": [
+        "srucaḥ"
+      ],
+      "source_field": "sk",
+      "source_begin": 36,
+      "source_end": 53,
+      "quoted_source": "स्रुवं च स्रुचश्च",
+      "licensing_decision": "The commentary treats i as pronunciation support and k as a marker. The cited phrase contains the inflected ladle word.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.64",
+      "publisher_id": "2064",
+      "source_sutra": "तनोतेरनश्च वः",
+      "source_affix_label": "चिक्",
+      "selected_input": "tan",
+      "reading_iast": [
+        "tvak"
+      ],
+      "source_field": "sk",
+      "source_begin": 42,
+      "source_end": 47,
+      "quoted_source": "त्वक्",
+      "licensing_decision": "The commentary specifies replacement of an by va and the cik affix. Preserve the pause form.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.65",
+      "publisher_id": "2065",
+      "source_sutra": "ग्लानुदिभ्यां डौः",
+      "source_affix_label": "डौ",
+      "selected_input": "glā, nud",
+      "reading_iast": [
+        "glauḥ",
+        "nauḥ"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 11,
+      "quoted_source": "ग्लौः । नौः",
+      "licensing_decision": "Pair the two inputs in order with ḍau. The source quotes the nominatives.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.66",
+      "publisher_id": "2066",
+      "source_sutra": "च्विरव्ययम्",
+      "source_affix_label": "डौ",
+      "selected_input": "cvi with the preceding ḍau formation",
+      "reading_iast": [
+        "glaukaroti"
+      ],
+      "source_field": "sk",
+      "source_begin": 12,
+      "source_end": 21,
+      "quoted_source": "ग्लौकरोति",
+      "licensing_decision": "The commentary restricts the indeclinable use to the cvi-ending construction and cites the combined expression.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.67",
+      "publisher_id": "2067",
+      "source_sutra": "रातेर्डैः",
+      "source_affix_label": "डै",
+      "selected_input": "rā",
+      "reading_iast": [
+        "rāḥ",
+        "rāyau"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 10,
+      "quoted_source": "राः । रायौ",
+      "licensing_decision": "Keep ḍai and preserve the difference between the singular and dual examples.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.68",
+      "publisher_id": "2068",
+      "source_sutra": "गमेर्डोः",
+      "source_affix_label": "डो",
+      "selected_input": "gam",
+      "reading_iast": [
+        "gauḥ"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "गौर्ना",
+      "licensing_decision": "Use ḍo on the named root. Gender and meaning are differentiated in the full gloss.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.69",
+      "publisher_id": "2069",
+      "source_sutra": "भ्रमेश्च डूः",
+      "source_affix_label": "डू",
+      "selected_input": "bhram",
+      "reading_iast": [
+        "bhrū"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "भ्रूः",
+      "licensing_decision": "Select ḍū on bhram. The extension to gam is separately attributed to ca.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.70",
+      "publisher_id": "2070",
+      "source_sutra": "दमेर्डोसिः",
+      "source_affix_label": "डोसि",
+      "selected_input": "dam",
+      "reading_iast": [
+        "doḥ",
+        "doṣau"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 10,
+      "quoted_source": "दोः । दोषौ",
+      "licensing_decision": "Keep ḍosi and both cited inflections with their distinct final and internal sounds.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.71",
+      "publisher_id": "2071",
+      "source_sutra": "पणेरिज्यादेश्च वः",
+      "source_affix_label": "इजि",
+      "selected_input": "paṇ",
+      "reading_iast": [
+        "vaṇik"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "वणिक्",
+      "licensing_decision": "Use iji and the specified initial v in the quoted word. The later secondary formation has its own affix.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.72",
+      "publisher_id": "2072",
+      "source_sutra": "वशेः कित्",
+      "source_affix_label": "इजि",
+      "selected_input": "vaś",
+      "reading_iast": [
+        "uśik"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 8,
+      "quoted_source": "उशिगग्नौ",
+      "licensing_decision": "Give inherited iji kit status on this root. The joined example glosses the word as fire or ghee.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.73",
+      "publisher_id": "2073",
+      "source_sutra": "भृञ ऊच्च",
+      "source_affix_label": "इजि",
+      "selected_input": "bhṛñ",
+      "reading_iast": [
+        "bhūrik"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 12,
+      "quoted_source": "भूरिक् भूमिः",
+      "licensing_decision": "Retain the stated ū in the term for earth.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.74",
+      "publisher_id": "2074",
+      "source_sutra": "जसिसहोरुरिन्",
+      "source_affix_label": "उरिन्",
+      "selected_input": "sah",
+      "reading_iast": [
+        "sahuri"
+      ],
+      "source_field": "sk",
+      "source_begin": 18,
+      "source_end": 40,
+      "quoted_source": "सहुरिरादित्यः पृथिवी च",
+      "licensing_decision": "Select urin on sah. The same word is glossed with sun and earth.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.75",
+      "publisher_id": "2075",
+      "source_sutra": "सुयुरुवृञो युच्",
+      "source_affix_label": "युच्",
+      "selected_input": "yu",
+      "reading_iast": [
+        "yavana"
+      ],
+      "source_field": "sk",
+      "source_begin": 16,
+      "source_end": 20,
+      "quoted_source": "यवनः",
+      "licensing_decision": "Choose the yu member of the roots named for yuc.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.76",
+      "publisher_id": "2076",
+      "source_sutra": "अशेरश च",
+      "source_affix_label": "युच्",
+      "selected_input": "aś",
+      "reading_iast": [
+        "raśanā"
+      ],
+      "source_field": "sk",
+      "source_begin": 33,
+      "source_end": 44,
+      "quoted_source": "रशना काञ्ची",
+      "licensing_decision": "Select yuc and the locally specified raś replacement in the girdle sense. The tongue word has dental s.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.77",
+      "publisher_id": "2077",
+      "source_sutra": "उन्देर्नलोपश्च",
+      "source_affix_label": "युच्",
+      "selected_input": "und",
+      "reading_iast": [
+        "odana"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 4,
+      "quoted_source": "ओदनः",
+      "licensing_decision": "Keep the specified loss of the nasal in the yuc formation.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.78",
+      "publisher_id": "2078",
+      "source_sutra": "गमेर्गश्च",
+      "source_affix_label": "युच्",
+      "selected_input": "gam",
+      "reading_iast": [
+        "gagana"
+      ],
+      "source_field": "sk",
+      "source_begin": 28,
+      "source_end": 33,
+      "quoted_source": "गगनम्",
+      "licensing_decision": "Preserve the local ga substitution with yuc.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.79",
+      "publisher_id": "2079",
+      "source_sutra": "बहुलमन्यत्रापि",
+      "source_affix_label": "युच्",
+      "selected_input": "syand",
+      "reading_iast": [
+        "syandana"
+      ],
+      "source_field": "sk",
+      "source_begin": 14,
+      "source_end": 22,
+      "quoted_source": "स्यन्दनः",
+      "licensing_decision": "The wider-use provision quotes this yuc word and a separate rocanā example.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.80",
+      "publisher_id": "2080",
+      "source_sutra": "रञ्जेः क्युन्",
+      "source_affix_label": "क्युन्",
+      "selected_input": "rañj",
+      "reading_iast": [
+        "rajana"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "रजनम्",
+      "licensing_decision": "Use kyun on the named root.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.81",
+      "publisher_id": "2081",
+      "source_sutra": "भूसूधूभ्रस्जिभ्यश्छन्दसि",
+      "source_affix_label": "क्युन्",
+      "selected_input": "bhū in Chandas",
+      "reading_iast": [
+        "bhuvana"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "भुवनम्",
+      "licensing_decision": "The Vedic condition applies to the kyun list. The first example is selected here.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.82",
+      "publisher_id": "2082",
+      "source_sutra": "कॄपॄवृजिमन्दिनिधाञः क्युः",
+      "source_affix_label": "क्यु",
+      "selected_input": "mand",
+      "reading_iast": [
+        "mandana"
+      ],
+      "source_field": "sk",
+      "source_begin": 42,
+      "source_end": 58,
+      "quoted_source": "मन्दनं स्तोत्रम्",
+      "licensing_decision": "Use kyu on the named member in the hymn or praise sense.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.83",
+      "publisher_id": "2083",
+      "source_sutra": "धृषेर्धिष् च संज्ञायाम्",
+      "source_affix_label": "क्यु",
+      "selected_input": "dhṛṣ in a name",
+      "reading_iast": [
+        "dhiṣaṇa"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 11,
+      "quoted_source": "धिषणो गुरुः",
+      "licensing_decision": "Require the name condition and preserve the dhiṣ substitution in the cited teacher reading.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.84",
+      "publisher_id": "2084",
+      "source_sutra": "वर्तमाने पृषद्बृहन्महज्जगच्छतृवच्च",
+      "source_affix_label": "अति",
+      "selected_input": "gam, present sense",
+      "reading_iast": [
+        "jagat"
+      ],
+      "source_field": "sk",
+      "source_begin": 63,
+      "source_end": 82,
+      "quoted_source": "गमेर्जगादेशः । जगत्",
+      "licensing_decision": "Apply the specified jag substitution and the śatṛ-like treatment to the listed ati word.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.85",
+      "publisher_id": "2085",
+      "source_sutra": "संश्चत्तृपद्वेहत्",
+      "source_affix_label": "अति",
+      "selected_input": "sam with ci",
+      "reading_iast": [
+        "saṃścat"
+      ],
+      "source_field": "sk",
+      "source_begin": 80,
+      "source_end": 93,
+      "quoted_source": "संश्चत् कुहकः",
+      "licensing_decision": "The commentator’s separate listing removes śatṛ-like treatment. The cited form has suṭ and i deletion in its derivation.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.86",
+      "publisher_id": "2086",
+      "source_sutra": "छन्दस्यसानच् शुजॄभ्याम्",
+      "source_affix_label": "असानच्",
+      "selected_input": "jṝ in Chandas",
+      "reading_iast": [
+        "jarasāna"
+      ],
+      "source_field": "sk",
+      "source_begin": 16,
+      "source_end": 29,
+      "quoted_source": "जरसानः पुरुषः",
+      "licensing_decision": "Select the Vedic asānac formation and the man gloss on jṝ.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.87",
+      "publisher_id": "2087",
+      "source_sutra": "ऋञ्जिवृद्धिमन्दिसहिभ्यः कित्",
+      "source_affix_label": "असानच्",
+      "selected_input": "sah",
+      "reading_iast": [
+        "sahasāna"
+      ],
+      "source_field": "sk",
+      "source_begin": 57,
+      "source_end": 77,
+      "quoted_source": "सहसानो यज्ञो मयूरश्च",
+      "licensing_decision": "Locally mark asānac as kit. Both sacrifice and peacock are given as senses of this word.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.88",
+      "publisher_id": "2088",
+      "source_sutra": "अर्तेर्गुणः शुट् च",
+      "source_affix_label": "असानच्",
+      "selected_input": "ṛ",
+      "reading_iast": [
+        "arśasāna"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 14,
+      "quoted_source": "अर्शसानोऽग्निः",
+      "licensing_decision": "Retain guṇa and śuṭ in the fire name.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.89",
+      "publisher_id": "2089",
+      "source_sutra": "सम्यानच्स्तुवः",
+      "source_affix_label": "आनच्",
+      "selected_input": "sam with stu",
+      "reading_iast": [
+        "saṃstavāna"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 16,
+      "quoted_source": "संस्तवानो वाग्मी",
+      "licensing_decision": "Require sam and select ānac in the eloquent-speaker example.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.90",
+      "publisher_id": "2090",
+      "source_sutra": "युधिबुधिदृशिभ्यः किच्च",
+      "source_affix_label": "आनच्",
+      "selected_input": "dṛś",
+      "reading_iast": [
+        "dṛśāna"
+      ],
+      "source_field": "sk",
+      "source_begin": 18,
+      "source_end": 33,
+      "quoted_source": "दृशानो लोकपालकः",
+      "licensing_decision": "Give ānac kit status on the named root. The gloss gives the protector sense.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.91",
+      "publisher_id": "2091",
+      "source_sutra": "हुर्छेः सनो लुक् छलोपश्च",
+      "source_affix_label": "आनच्",
+      "selected_input": "hurch",
+      "reading_iast": [
+        "juhurāṇa"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 18,
+      "quoted_source": "जुहुराणश्चन्द्रमाः",
+      "licensing_decision": "Retain san-luk and ch-lopa. The source glosses the moon.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.92",
+      "publisher_id": "2092",
+      "source_sutra": "श्वितेर्दश्च",
+      "source_affix_label": "आनच्",
+      "selected_input": "śvit",
+      "reading_iast": [
+        "śiśvidāna"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 21,
+      "quoted_source": "शिश्विदानः पुण्यकर्मा",
+      "licensing_decision": "Keep the d instruction in this ānac formation.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.93",
+      "publisher_id": "2093",
+      "source_sutra": "तृन्तृचौ शंसिक्षदादिभ्यः संज्ञायां चानिटौ",
+      "source_affix_label": "तृन्, तृच्",
+      "selected_input": "śaṃs",
+      "reading_iast": [
+        "śaṃstā",
+        "śaṃstarau"
+      ],
+      "source_field": "sk",
+      "source_begin": 53,
+      "source_end": 76,
+      "quoted_source": "शंस्ता स्तोता । शंस्तरौ",
+      "licensing_decision": "The commentary assigns tṛn to śaṃs and tṛc to the kṣadādi group in order. Both are aniṭ. Preserve the singular and dual of the selected history.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.94",
+      "publisher_id": "2094",
+      "source_sutra": "बहुलमन्यत्रापि",
+      "source_affix_label": "तृन्, तृच्",
+      "selected_input": "man",
+      "reading_iast": [
+        "mantā"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 11,
+      "quoted_source": "मन् । मन्ता",
+      "licensing_decision": "The wider-use provision quotes man and han separately. This selection follows the man example.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.95",
+      "publisher_id": "2095",
+      "source_sutra": "नप्तृनेष्टृत्वष्टृहोतृपोतृभ्रातृजामातृमातृपितृदुहितृ",
+      "source_affix_label": "तृन्, तृच्",
+      "selected_input": "listed mātṛ with mān",
+      "reading_iast": [
+        "mātṛ"
+      ],
+      "source_field": "sk",
+      "source_begin": 168,
+      "source_end": 192,
+      "quoted_source": "मान पूजायां नलोपः । माता",
+      "licensing_decision": "Retain the commentator’s root reading and nasal loss on this kinship noun. Mātā is the cited nominative.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.96",
+      "publisher_id": "2096",
+      "source_sutra": "सुञ्यसेर्ऋन्",
+      "source_affix_label": "ऋन्",
+      "selected_input": "su and as in the listed formation",
+      "reading_iast": [
+        "svasṛ"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "स्वसा",
+      "licensing_decision": "Use ṛn in the sister word. Preserve the source nominative svasā separately from the nominal stem.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.97",
+      "publisher_id": "2097",
+      "source_sutra": "यतेर्वृद्धिश्च",
+      "source_affix_label": "ऋन्",
+      "selected_input": "yat",
+      "reading_iast": [
+        "yātṛ"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 4,
+      "quoted_source": "याता",
+      "licensing_decision": "Retain vṛddhi and the kinship relation between the wives of brothers.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.98",
+      "publisher_id": "2098",
+      "source_sutra": "नञि च नन्देः",
+      "source_affix_label": "ऋन्",
+      "selected_input": "nañ with nand",
+      "reading_iast": [
+        "nanāndā",
+        "nanandā"
+      ],
+      "source_field": "sk",
+      "source_begin": 50,
+      "source_end": 80,
+      "quoted_source": "ननान्दा तु स्वसा पत्युर्ननन्दा",
+      "licensing_decision": "The long and short readings correspond to competing inheritance of vṛddhi. Both occur in the quoted lexical source for a husband’s sister.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.99",
+      "publisher_id": "2099",
+      "source_sutra": "दिवेर्ऋः",
+      "source_affix_label": "ऋ",
+      "selected_input": "div",
+      "reading_iast": [
+        "devṛ"
+      ],
+      "source_field": "sk",
+      "source_begin": 13,
+      "source_end": 32,
+      "quoted_source": "स्वामिनो देवृ देवरौ",
+      "licensing_decision": "Select ṛ on the kinship word. The commentary distinguishes the forms in its lexical citation.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.100",
+      "publisher_id": "2100",
+      "source_sutra": "नयतेर्डिच्च",
+      "source_affix_label": "ऋ",
+      "selected_input": "nī",
+      "reading_iast": [
+        "nā",
+        "narau"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 8,
+      "quoted_source": "ना । नरौ",
+      "licensing_decision": "Retain the ḍit status of ṛ and the quoted singular and dual.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.101",
+      "publisher_id": "2101",
+      "source_sutra": "सव्ये स्थश्छन्दसि",
+      "source_affix_label": "ऋ",
+      "selected_input": "savya with sthā in Chandas",
+      "reading_iast": [
+        "savyeṣṭā"
+      ],
+      "source_field": "sk",
+      "source_begin": 68,
+      "source_end": 84,
+      "quoted_source": "सव्येष्टा सारथिः",
+      "licensing_decision": "Require the partner and Vedic register. The commentary ties ṣ to the supplementary prescription under 8.3.97.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.102",
+      "publisher_id": "2102",
+      "source_sutra": "अर्तिसृधृधम्यश्यवितॄभ्योऽनिः",
+      "source_affix_label": "अनि",
+      "selected_input": "sṛ",
+      "reading_iast": [
+        "saraṇi"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 5,
+      "quoted_source": "सरणिः",
+      "licensing_decision": "Select ani on this named member. Other roots in the same entry have separate outputs.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.103",
+      "publisher_id": "2103",
+      "source_sutra": "आङि शुषेः सनश्छन्दसि",
+      "source_affix_label": "अनि",
+      "selected_input": "āṅ with san of śuṣ in Chandas",
+      "reading_iast": [
+        "āśuśukṣaṇi"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 23,
+      "quoted_source": "आशुशुक्षणिरग्निर्वातश्च",
+      "licensing_decision": "Keep the prefix, san and Vedic register. The commentary gives fire and wind as lexical senses.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.104",
+      "publisher_id": "2104",
+      "source_sutra": "कृषेरादेश्च चः",
+      "source_affix_label": "अनि",
+      "selected_input": "kṛṣ",
+      "reading_iast": [
+        "carṣaṇi"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 11,
+      "quoted_source": "चर्षणिर्जनः",
+      "licensing_decision": "Preserve the locally specified initial c in the word for a person or people.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.105",
+      "publisher_id": "2105",
+      "source_sutra": "अदेर्मुट् च",
+      "source_affix_label": "अनि",
+      "selected_input": "ad",
+      "reading_iast": [
+        "admani"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 12,
+      "quoted_source": "अद्मनिरग्निः",
+      "licensing_decision": "The rule adds muṭ in the fire name.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.106",
+      "publisher_id": "2106",
+      "source_sutra": "वृतेश्च",
+      "source_affix_label": "अनि",
+      "selected_input": "vṛt",
+      "reading_iast": [
+        "vartani",
+        "vartmani"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 49,
+      "quoted_source": "वर्तनिः । गोवर्धनस्तु चकारान्मुट् वर्त्मनिरित्याह",
+      "licensing_decision": "The primary example lacks m. Govardhana reads ca as carrying muṭ and supplies the second word.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.107",
+      "publisher_id": "2107",
+      "source_sutra": "क्षिपेः किच्च",
+      "source_affix_label": "अनि",
+      "selected_input": "kṣip",
+      "reading_iast": [
+        "kṣipaṇi"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 14,
+      "quoted_source": "क्षिपणिरायुधम्",
+      "licensing_decision": "The inherited affix is kit on the named root in the weapon sense.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.108",
+      "publisher_id": "2108",
+      "source_sutra": "अर्चिशुचिहुसृपिछादिछर्दिभ्य इसिः",
+      "source_affix_label": "इसि",
+      "selected_input": "hu",
+      "reading_iast": [
+        "havis"
+      ],
+      "source_field": "sk",
+      "source_begin": 74,
+      "source_end": 85,
+      "quoted_source": "हविः सर्पिः",
+      "licensing_decision": "Select isi on hu. The quoted inflection has visarga and is glossed as ghee.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.109",
+      "publisher_id": "2109",
+      "source_sutra": "बृंहेर्नलोपश्च",
+      "source_affix_label": "इसि",
+      "selected_input": "bṛṃh",
+      "reading_iast": [
+        "barhis"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 9,
+      "quoted_source": "बर्हिर्ना",
+      "licensing_decision": "Keep the stated nasal loss and the cited lexical senses.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.110",
+      "publisher_id": "2110",
+      "source_sutra": "द्युतेरिसिन्नादेश्च जः",
+      "source_affix_label": "इसिन्",
+      "selected_input": "dyut",
+      "reading_iast": [
+        "jyotis"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 7,
+      "quoted_source": "ज्योतिः",
+      "licensing_decision": "Use isin and change the initial sound to j on the cited word for light.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.111",
+      "publisher_id": "2111",
+      "source_sutra": "वसौ रुचेः संज्ञायाम्",
+      "source_affix_label": "इसिन्",
+      "selected_input": "vasu with ruc in a name",
+      "reading_iast": [
+        "vasurocis"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 14,
+      "quoted_source": "वसुरोचिर्यज्ञः",
+      "licensing_decision": "Require vasu and the name condition for the sacrifice in this gloss.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.112",
+      "publisher_id": "2112",
+      "source_sutra": "भुवः कित्",
+      "source_affix_label": "इसिन्",
+      "selected_input": "bhū",
+      "reading_iast": [
+        "bhuvis"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 13,
+      "quoted_source": "भुविः समुद्रः",
+      "licensing_decision": "Give isin kit status on the named root. The gloss denotes the ocean.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.113",
+      "publisher_id": "2113",
+      "source_sutra": "सहो धश्च",
+      "source_affix_label": "इसिन्",
+      "selected_input": "sah",
+      "reading_iast": [
+        "sidhis"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 12,
+      "quoted_source": "सिधिरनड्वान्",
+      "licensing_decision": "Retain the named dh change in the draught-ox gloss.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.114",
+      "publisher_id": "2114",
+      "source_sutra": "पिबतेस्थुक्",
+      "source_affix_label": "इसिन्",
+      "selected_input": "pibati",
+      "reading_iast": [
+        "pāthis"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 21,
+      "quoted_source": "पाथिश्चक्षुःसमुद्रयोः",
+      "licensing_decision": "Keep thuk and the eye or ocean senses of the cited word.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.115",
+      "publisher_id": "2115",
+      "source_sutra": "जनेरुसिः",
+      "source_affix_label": "उसि",
+      "selected_input": "jan",
+      "reading_iast": [
+        "janus"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 10,
+      "quoted_source": "जनुर्जननम्",
+      "licensing_decision": "Select usi in the birth reading on jan.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.116",
+      "publisher_id": "2116",
+      "source_sutra": "मनेर्धश्छन्दसि",
+      "source_affix_label": "उसि",
+      "selected_input": "man in Chandas",
+      "reading_iast": [
+        "madhus"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 4,
+      "quoted_source": "मधुः",
+      "licensing_decision": "Require Chandas and the dh instruction on this usi history. The quoted form ends in visarga.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.117",
+      "publisher_id": "2117",
+      "source_sutra": "अर्तिपॄवपियजितनिधनितपिभ्यो नित्",
+      "source_affix_label": "उसि",
+      "selected_input": "tan",
+      "reading_iast": [
+        "tanus"
+      ],
+      "source_field": "sk",
+      "source_begin": 37,
+      "source_end": 58,
+      "quoted_source": "तनुः । तनुषी । तनूंषि",
+      "licensing_decision": "The suffix is nit. The commentary supplies forms where the s-ending inflection becomes overt.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.118",
+      "publisher_id": "2118",
+      "source_sutra": "एतेर्णिच्च",
+      "source_affix_label": "उसि",
+      "selected_input": "eti",
+      "reading_iast": [
+        "āyus"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 12,
+      "quoted_source": "आयुः । आयुषी",
+      "licensing_decision": "Retain the ṇit prescription and the dual showing the s stem. The first-pāda Vedic āyu word has a different history.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.119",
+      "publisher_id": "2119",
+      "source_sutra": "चक्षेः शिच्च",
+      "source_affix_label": "उसि",
+      "selected_input": "cakṣ",
+      "reading_iast": [
+        "cakṣus"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 6,
+      "quoted_source": "चक्षुः",
+      "licensing_decision": "Keep the local śit property of the usi formation.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.120",
+      "publisher_id": "2120",
+      "source_sutra": "मुहेः किच्च",
+      "source_affix_label": "उसि",
+      "selected_input": "muh",
+      "reading_iast": [
+        "muhur"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 11,
+      "quoted_source": "मुहुरव्ययम्",
+      "licensing_decision": "The affix is kit on muh. Preserve the commentary’s indeclinable reading and its sandhi form.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.121",
+      "publisher_id": "2121",
+      "source_sutra": "बहुलमन्यत्रापि",
+      "source_affix_label": "उसि",
+      "selected_input": "ā with cakṣ",
+      "reading_iast": [
+        "ācakṣuḥ"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 7,
+      "quoted_source": "आचक्षुः",
+      "licensing_decision": "The wider-use entry gives prefixed words. The selected cited word is the ā formation.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.122",
+      "publisher_id": "2122",
+      "source_sutra": "कॄगॄशॄवृञ्चतिभ्यः ष्वरच्",
+      "source_affix_label": "ष्वरच्",
+      "selected_input": "cat",
+      "reading_iast": [
+        "catvara"
+      ],
+      "source_field": "sk",
+      "source_begin": 79,
+      "source_end": 86,
+      "quoted_source": "चत्वरम्",
+      "licensing_decision": "Select ṣvarac on the cat member. Other listed bases supply different lexical words.",
+      "evidence_for_selection": "Pinned Uṇādi text and commentary. The source quote can show an inflection, a joined form or a selected contextual expression."
+    },
+    {
+      "id": "2.123",
+      "publisher_id": "2123",
+      "source_sutra": "नौ सदेः",
+      "source_affix_label": "ष्वरच्",
+      "selected_input": "ni with sad",
+      "reading_iast": [
+        "niṣadvara"
+      ],
+      "source_field": "sk",
+      "source_begin": 0,
+      "source_end": 19,
+      "quoted_source": "निपद्वरस्तु जम्बालः",
+      "licensing_decision": "The primary field prints nipadvara in the mire sense. The Kośa and two dictionaries support niṣadvara. Preserve the p as a reading of this digital field and select ṣ for the lexical word.",
+      "evidence_for_selection": "The Kośa at its 2.122, Monier-Williams L110689/L110691 and Apte L19280/L19280.002 supply the selected lexical spelling. The primary quote documents its p discrepancy."
+    }
+  ],
+  "source_decisions": {
+    "niṣadvara": {
+      "primary": "nipadvara",
+      "selected": "niṣadvara",
+      "sense": "mud, mire",
+      "feminine_sense": "night",
+      "primary_sutra": "नौ सदेः",
+      "kosha_sutra": "नौ षदेः",
+      "dictionary_entries": [
+        "MW L110689",
+        "MW L110691",
+        "Apte L19280",
+        "Apte L19280.002"
+      ],
+      "alternatives_admitted_from_typography": 0
+    }
+  }
+}
