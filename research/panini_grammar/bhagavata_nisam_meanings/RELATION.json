@@ -1,0 +1,98 @@
+{
+  "GRETIL": {
+    "work": "Bhāgavatapurāṇa; electronic text contributed by Ulrich Stiehl, GRETIL, SUB Göttingen",
+    "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhAgavatapurANa.xml",
+    "edition_date": "2020-07-31",
+    "bytes": 2600905,
+    "sha256": "5b4271b0703cb1ad21c97142e7366a61de608988c6073464eef0749bcfa20d43",
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "word_for_word_source": {
+    "work": "FolioCorpus, English Śrīmad-Bhāgavatam word-for-word edition as displayed in the sreegd/shastra-folio public archive",
+    "repository": "sreegd/shastra-folio",
+    "commit": "61639c6307e276c502842a286e76d86b3df16d83",
+    "file_count": 112,
+    "file_index": "one blob and SHA-256 per linked row of VERSE_SENSES.tsv",
+    "url": "https://github.com/sreegd/shastra-folio/tree/61639c6307e276c502842a286e76d86b3df16d83/sb",
+    "field": "cr-syn-iast and its associated cr-syn-en in the same cr-syn-item; linked Sanskrit passage from cr-iast-line."
+  },
+  "comparison_method": "Carry the GRETIL verse, original token and previously adjudicated citation form. Confirm that the word-for-word column actually has that same Sanskrit lemma and that the surrounding Sanskrit matches its counterpart. Joined words and grouped verses use their stated editions. A nearby numbered verse with the same lemma is insufficient. The numeric overlap of normalized Sanskrit character 7-grams is recorded only as a collation diagnostic, not as evidence for a meaning. Each of the 112 retained pages is distinct.",
+  "independent_tokens": 112,
+  "previously_reviewed": 12,
+  "additional_sense_rows": 100,
+  "sense_counts": {
+    "auditory": 91,
+    "visual": 17,
+    "deliberation or understanding": 3,
+    "observation without sensory mode specified": 1
+  },
+  "by_citation_form": {
+    "niśamya": {
+      "auditory": 81,
+      "deliberation or understanding": 1,
+      "visual": 5
+    },
+    "niśāmya": {
+      "visual": 12,
+      "auditory": 4,
+      "observation without sensory mode specified": 1
+    },
+    "niśāmaya": {
+      "deliberation or understanding": 2,
+      "auditory": 1
+    },
+    "niśāmayantyāḥ": {
+      "auditory": 1
+    },
+    "niśāmayantīnām": {
+      "auditory": 1
+    },
+    "anuniśamya": {
+      "auditory": 1
+    },
+    "niśamyatām": {
+      "auditory": 1
+    },
+    "niśāmayan": {
+      "auditory": 1
+    }
+  },
+  "actual_cross_edition_number_changes": [
+    [
+      "2.9.42",
+      "2.9.43"
+    ],
+    [
+      "5.3.18",
+      "5.3.19"
+    ],
+    [
+      "7.8.17",
+      "7.8.16"
+    ],
+    [
+      "8.7.46",
+      "8.7.45"
+    ],
+    [
+      "10.62.35",
+      "10.62.33"
+    ]
+  ],
+  "lowest_span_overlap_diagnostic": 0.947,
+  "short_absolutive_visual_loci": [
+    "9.6.28",
+    "9.14.17",
+    "10.19.13",
+    "10.25.24",
+    "10.25.25"
+  ],
+  "long_absolutive_auditory_loci": [
+    "3.6.1",
+    "7.8.35",
+    "8.5.17",
+    "8.23.5"
+  ],
+  "source_scope": "The semantic headings summarize one word-for-word gloss tradition. The free translation, the Sanskrit commentator, and other traditions may make different contextual choices. The observations do not generalize the root-vowel rules of the Puruṣakāra to every construction.",
+  "construction": "For a grammar reading retain the preverb chain, root-vowel length, finite or participial ending or absolutive suffix, source verse, case/pada and the lexical gloss receiver. Projection may coincide for a hearing or a seeing selection; no deterministic reverse lookup from the long or short vowel distinguishes all possibilities."
+}

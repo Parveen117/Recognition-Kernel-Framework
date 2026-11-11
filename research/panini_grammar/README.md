@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG214 — Bhāgavata senses and edition concordance for 112 perception words.** [Packet](bhagavata_nisam_meanings/README.md). Zero new finite positions. Cumulative **42,890**.
+
 **PG213 — Three future schedules for the twelve Uṇādi-related root entries.** [Packet](unadi_root_future_schedules/README.md). 405 positions, 405 readings and 405 paths. Cumulative **42,890**.
 
 **PG212 — Feminine suffix histories across thirteen sense-specific declensions.** [Packet](gauradi_sense_and_declension/README.md). Zero new finite positions. Cumulative **42,485**.
