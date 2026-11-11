@@ -1,0 +1,1824 @@
+{
+  "schema": "rkf.panini.pg233.state.v1",
+  "author": "Monty",
+  "date": "2026-11-12",
+  "baseline": {
+    "path": "research/panini_grammar/klis_kles_three_present_systems/STATE.json",
+    "commit": "d9a5a75eeb4d1b98d04e180e124fde991d32e972",
+    "git_blob_sha": "3f249b3e397ed9a65f4853f97a47183c5c161b30",
+    "sha256": "ef41b274faa43203243a926a8f7aaf5cc61c7d7c4644a3691c26f544f1ddebd9",
+    "bytes": 22423
+  },
+  "finite_positions": 45098,
+  "new_positions": 108,
+  "new_position_readings": 135,
+  "new_written_table_readings": 135,
+  "retained_path_count": 135,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "kleśitā"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitā",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "kleśitārau"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitārau",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "kleśitāraḥ"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitāraḥ",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "kleśitāse"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitāse",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "kleśitāsāthe"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitāsāthe",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "kleśitādhve"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitādhve",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "kleśitāhe"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitāhe",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "kleśitāsvahe"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitāsvahe",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "kleśitāsmahe"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitāsmahe",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "kleśiṣyate"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyate",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "kleśiṣyete"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyete",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "kleśiṣyante"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyante",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "kleśiṣyase"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyase",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "kleśiṣyethe"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyethe",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "kleśiṣyadhve"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyadhve",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "kleśiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣye",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "kleśiṣyāvahe"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyāvahe",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "kleśiṣyāmahe"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyāmahe",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "akleśiṣyata"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyata",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "akleśiṣyetām"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyetām",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "akleśiṣyanta"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyanta",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "akleśiṣyathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyathāḥ",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "akleśiṣyethām"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyethām",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "akleśiṣyadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyadhvam",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "akleśiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣye",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "akleśiṣyāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyāvahi",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "akleśiṣyāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyāmahi",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "kleśiṣīṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣīṣṭa",
+            "route": "middle benedictive, seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "kleśiṣīyāstām"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣīyāstām",
+            "route": "middle benedictive, seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "kleśiṣīran"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣīran",
+            "route": "middle benedictive, seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "kleśiṣīṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣīṣṭhāḥ",
+            "route": "middle benedictive, seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "kleśiṣīyāsthām"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣīyāsthām",
+            "route": "middle benedictive, seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "kleśiṣīdhvam"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣīdhvam",
+            "route": "middle benedictive, seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "kleśiṣīya"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣīya",
+            "route": "middle benedictive, seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "kleśiṣīvahi"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣīvahi",
+            "route": "middle benedictive, seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "kleśiṣīmahi"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣīmahi",
+            "route": "middle benedictive, seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "kleśitā"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitā",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "kleśitārau"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitārau",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "kleśitāraḥ"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitāraḥ",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "kleśitāse"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitāse",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "kleśitāsāthe"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitāsāthe",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "kleśitādhve"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitādhve",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "kleśitāhe"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitāhe",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "kleśitāsvahe"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitāsvahe",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "kleśitāsmahe"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitāsmahe",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "kleśiṣyate"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyate",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "kleśiṣyete"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyete",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "kleśiṣyante"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyante",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "kleśiṣyase"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyase",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "kleśiṣyethe"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyethe",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "kleśiṣyadhve"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyadhve",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "kleśiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣye",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "kleśiṣyāvahe"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyāvahe",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "kleśiṣyāmahe"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyāmahe",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "akleśiṣyata"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyata",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "akleśiṣyetām"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyetām",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "akleśiṣyanta"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyanta",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "akleśiṣyathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyathāḥ",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "akleśiṣyethām"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyethām",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "akleśiṣyadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyadhvam",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "akleśiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣye",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "akleśiṣyāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyāvahi",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "akleśiṣyāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyāmahi",
+            "route": "seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "kleśiṣīṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣīṣṭa",
+            "route": "middle benedictive, seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "kleśiṣīyāstām"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣīyāstām",
+            "route": "middle benedictive, seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "kleśiṣīran"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣīran",
+            "route": "middle benedictive, seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "kleśiṣīṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣīṣṭhāḥ",
+            "route": "middle benedictive, seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "kleśiṣīyāsthām"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣīyāsthām",
+            "route": "middle benedictive, seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "kleśiṣīdhvam"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣīdhvam",
+            "route": "middle benedictive, seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "kleśiṣīya"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣīya",
+            "route": "middle benedictive, seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "kleśiṣīvahi"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣīvahi",
+            "route": "middle benedictive, seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "kleśiṣīmahi"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣīmahi",
+            "route": "middle benedictive, seṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "kleśitā",
+          "kleṣṭā"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitā",
+            "route": "seṭ"
+          },
+          {
+            "reading": "kleṣṭā",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "kleśitārau",
+          "kleṣṭārau"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitārau",
+            "route": "seṭ"
+          },
+          {
+            "reading": "kleṣṭārau",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "kleśitāraḥ",
+          "kleṣṭāraḥ"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitāraḥ",
+            "route": "seṭ"
+          },
+          {
+            "reading": "kleṣṭāraḥ",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "kleśitāsi",
+          "kleṣṭāsi"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitāsi",
+            "route": "seṭ"
+          },
+          {
+            "reading": "kleṣṭāsi",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "kleśitāsthaḥ",
+          "kleṣṭāsthaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitāsthaḥ",
+            "route": "seṭ"
+          },
+          {
+            "reading": "kleṣṭāsthaḥ",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "kleśitāstha",
+          "kleṣṭāstha"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitāstha",
+            "route": "seṭ"
+          },
+          {
+            "reading": "kleṣṭāstha",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "kleśitāsmi",
+          "kleṣṭāsmi"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitāsmi",
+            "route": "seṭ"
+          },
+          {
+            "reading": "kleṣṭāsmi",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "kleśitāsvaḥ",
+          "kleṣṭāsvaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitāsvaḥ",
+            "route": "seṭ"
+          },
+          {
+            "reading": "kleṣṭāsvaḥ",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "kleśitāsmaḥ",
+          "kleṣṭāsmaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "kleśitāsmaḥ",
+            "route": "seṭ"
+          },
+          {
+            "reading": "kleṣṭāsmaḥ",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "kleśiṣyati",
+          "klekṣyati"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyati",
+            "route": "seṭ"
+          },
+          {
+            "reading": "klekṣyati",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "kleśiṣyataḥ",
+          "klekṣyataḥ"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyataḥ",
+            "route": "seṭ"
+          },
+          {
+            "reading": "klekṣyataḥ",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "kleśiṣyanti",
+          "klekṣyanti"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyanti",
+            "route": "seṭ"
+          },
+          {
+            "reading": "klekṣyanti",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "kleśiṣyasi",
+          "klekṣyasi"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyasi",
+            "route": "seṭ"
+          },
+          {
+            "reading": "klekṣyasi",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "kleśiṣyathaḥ",
+          "klekṣyathaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyathaḥ",
+            "route": "seṭ"
+          },
+          {
+            "reading": "klekṣyathaḥ",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "kleśiṣyatha",
+          "klekṣyatha"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyatha",
+            "route": "seṭ"
+          },
+          {
+            "reading": "klekṣyatha",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "kleśiṣyāmi",
+          "klekṣyāmi"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyāmi",
+            "route": "seṭ"
+          },
+          {
+            "reading": "klekṣyāmi",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "kleśiṣyāvaḥ",
+          "klekṣyāvaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyāvaḥ",
+            "route": "seṭ"
+          },
+          {
+            "reading": "klekṣyāvaḥ",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "kleśiṣyāmaḥ",
+          "klekṣyāmaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "kleśiṣyāmaḥ",
+            "route": "seṭ"
+          },
+          {
+            "reading": "klekṣyāmaḥ",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "akleśiṣyat",
+          "aklekṣyat"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyat",
+            "route": "seṭ"
+          },
+          {
+            "reading": "aklekṣyat",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "akleśiṣyatām",
+          "aklekṣyatām"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyatām",
+            "route": "seṭ"
+          },
+          {
+            "reading": "aklekṣyatām",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "akleśiṣyan",
+          "aklekṣyan"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyan",
+            "route": "seṭ"
+          },
+          {
+            "reading": "aklekṣyan",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "akleśiṣyaḥ",
+          "aklekṣyaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyaḥ",
+            "route": "seṭ"
+          },
+          {
+            "reading": "aklekṣyaḥ",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "akleśiṣyatam",
+          "aklekṣyatam"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyatam",
+            "route": "seṭ"
+          },
+          {
+            "reading": "aklekṣyatam",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "akleśiṣyata",
+          "aklekṣyata"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyata",
+            "route": "seṭ"
+          },
+          {
+            "reading": "aklekṣyata",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "akleśiṣyam",
+          "aklekṣyam"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyam",
+            "route": "seṭ"
+          },
+          {
+            "reading": "aklekṣyam",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "akleśiṣyāva",
+          "aklekṣyāva"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyāva",
+            "route": "seṭ"
+          },
+          {
+            "reading": "aklekṣyāva",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "akleśiṣyāma",
+          "aklekṣyāma"
+        ],
+        "paths": [
+          {
+            "reading": "akleśiṣyāma",
+            "route": "seṭ"
+          },
+          {
+            "reading": "aklekṣyāma",
+            "route": "aniṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "kliśyāt"
+        ],
+        "paths": [
+          {
+            "reading": "kliśyāt",
+            "route": "active benedictive, kit"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "kliśyāstām"
+        ],
+        "paths": [
+          {
+            "reading": "kliśyāstām",
+            "route": "active benedictive, kit"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "kliśyāsuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "kliśyāsuḥ",
+            "route": "active benedictive, kit"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "kliśyāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "kliśyāḥ",
+            "route": "active benedictive, kit"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "kliśyāstam"
+        ],
+        "paths": [
+          {
+            "reading": "kliśyāstam",
+            "route": "active benedictive, kit"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "kliśyāsta"
+        ],
+        "paths": [
+          {
+            "reading": "kliśyāsta",
+            "route": "active benedictive, kit"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "kliśyāsam"
+        ],
+        "paths": [
+          {
+            "reading": "kliśyāsam",
+            "route": "active benedictive, kit"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "kliśyāsva"
+        ],
+        "paths": [
+          {
+            "reading": "kliśyāsva",
+            "route": "active benedictive, kit"
+          }
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "kliśyāsma"
+        ],
+        "paths": [
+          {
+            "reading": "kliśyāsma",
+            "route": "active benedictive, kit"
+          }
+        ]
+      }
+    ],
+    "panels": [
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lut",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "ashirling",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lut",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "ashirling",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lut",
+        "positions": 9,
+        "readings": 18
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 18
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 18
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "ashirling",
+        "positions": 9,
+        "readings": 9
+      }
+    ],
+    "complete_nine_slot_paradigms": 12
+  },
+  "contextual_profiles": {
+    "DP_01_0691_A": {
+      "address": "01.0691",
+      "aupadeshik": "क्लेशँ",
+      "artha": "अव्यक्तायां वाचि",
+      "pada": "A",
+      "settva": "S",
+      "karma": "S",
+      "karma_note": null
+    },
+    "DP_04_0057_A": {
+      "address": "04.0057",
+      "aupadeshik": "क्लिशँ",
+      "artha": "उपतापे",
+      "pada": "A",
+      "settva": "S",
+      "karma": "A",
+      "karma_note": null
+    },
+    "DP_09_0058_P": {
+      "address": "09.0058",
+      "aupadeshik": "क्लिशूँ",
+      "artha": "विबाधने",
+      "pada": "P",
+      "settva": "V",
+      "karma": "A",
+      "karma_note": "सकर्मकः इति केचन ।"
+    }
+  },
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "Compare the three reduplicated perfects, the actual choice of ksa and sic and the two differing transcribed aorist witnesses.",
+    "The kroṣṭrī price compound and open Uṇādi fields."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Checked all 108 handwritten requests against the finite archive and the two futures with and without iṭ against independent traditional citations; compared all 36 middle pairs."
+  },
+  "equal_middle_pairs_in_packet": 36
+}
