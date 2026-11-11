@@ -2,7 +2,7 @@
 
 Monty · 12 November 2026
 
-The *Mādhavīyadhātuvṛtti* prints **niśāmayati vacaḥ** with a long vowel, immediately before an explanation invoking *mit* for an *am*-final root. It also prints **niśāmayati rūpam** and expressly excludes *mit* in seeing. The XML and the printed page agree on both words. By comparison, Puruṣakāra gives short **niśamayati ślokam** for hearing a verse. The vowel of the example with *vacas* and its accompanying grammatical explanation are preserved separately.
+The printed *Mādhavīyadhātuvṛtti* gives short **niśamayati vacaḥ** with its *mit* explanation, and long **niśāmayati rūpam** for seeing. The electronic entry 842 has **niśāmayati vacaḥ** with long *ā* in the first example. Puruṣakāra gives short **niśamayati ślokam** for hearing a verse. [PG244 records the corrected reading of the printed page](../nisam_cang_merger_and_printed_readings/README.md).
 
 | Selected Puruṣakāra construction | Periphrastic future | Simple future | Conditional | Active blessing |
 | --- | --- | --- | --- | --- |
