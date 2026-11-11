@@ -1408,6 +1408,8 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG134 — Eight routes to apādāna.** [Packet](apadana_role_relation/README.md). 15 reviewed participant records and 6 explicit role queries. Zero new finite positions. Cumulative **30,443**.
+
 **PG133 — A Sanskrit phrase-to-predicate relation.** [Packet](denominative_semantic_relation/README.md). Fifteen source-backed analyses link fourteen words to seven typed predicates. Zero new finite positions. Cumulative **30,443**.
 
 **PG132 — Noun boundaries and dependent consonants before ky:** [packet](nominal_boundary_dependencies/README.md) adds

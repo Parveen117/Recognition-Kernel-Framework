@@ -1,0 +1,459 @@
+{
+  "rows": [
+    {
+      "id": "VILLAGE",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.24",
+        "literal": "ग्रामादागच्छति"
+      },
+      "phrase": "grāmād āgacchati",
+      "focus": {
+        "token": "grāmāt",
+        "lemma": "grāma",
+        "number": "SG"
+      },
+      "event": "COME",
+      "event_role": "departure boundary",
+      "karaka": "apādāna",
+      "case": "ablative",
+      "guard": "village is the reference point of separation",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "MOUNTAIN",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.24",
+        "literal": "पर्वतादवरोहति"
+      },
+      "phrase": "parvatād avarohati",
+      "focus": {
+        "token": "parvatāt",
+        "lemma": "parvata",
+        "number": "SG"
+      },
+      "event": "DESCEND",
+      "event_role": "departure boundary",
+      "karaka": "apādāna",
+      "case": "ablative",
+      "guard": "descent away from the reference point",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "THIEVES_FEAR",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.25",
+        "literal": "चौरेभ्यो बिभेति"
+      },
+      "phrase": "caurebhyo bibheti",
+      "focus": {
+        "token": "caurebhyaḥ",
+        "lemma": "caura",
+        "number": "PL"
+      },
+      "event": "FEAR",
+      "event_role": "threat",
+      "karaka": "apādāna",
+      "case": "ablative",
+      "guard": "the thieves are the cause of fear",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "THIEVES_PROTECT",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.25",
+        "literal": "चौरेभ्यो रक्षति"
+      },
+      "phrase": "caurebhyo rakṣati",
+      "focus": {
+        "token": "caurebhyaḥ",
+        "lemma": "caura",
+        "number": "PL"
+      },
+      "event": "PROTECT",
+      "event_role": "threat",
+      "karaka": "apādāna",
+      "case": "ablative",
+      "guard": "the thieves are the danger against which protection is provided",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "FOREST",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.25",
+        "literal": "अरण्ये बिभेति"
+      },
+      "phrase": "araṇye bibheti",
+      "focus": {
+        "token": "araṇye",
+        "lemma": "araṇya",
+        "number": "SG"
+      },
+      "event": "FEAR",
+      "event_role": "scene of fear",
+      "karaka": "adhikaraṇa",
+      "case": "locative",
+      "guard": "the forest is supplied as the place of fearing",
+      "example_type": "CONTRAST",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "STUDY_DEFEAT",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.26",
+        "literal": "अध्ययनात् पराजयते"
+      },
+      "phrase": "adhyayanāt parājayate",
+      "focus": {
+        "token": "adhyayanāt",
+        "lemma": "adhyayana",
+        "number": "SG"
+      },
+      "event": "PARA_JI",
+      "event_role": "unendurable undertaking",
+      "karaka": "apādāna",
+      "case": "ablative",
+      "guard": "the study is too much for the participant",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "DEFEAT_ENEMIES",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.26",
+        "literal": "शत्रून् पराजयते"
+      },
+      "phrase": "śatrūn parājayate",
+      "focus": {
+        "token": "śatrūn",
+        "lemma": "śatru",
+        "number": "PL"
+      },
+      "event": "PARA_JI",
+      "event_role": "defeated opponent",
+      "karaka": "karman",
+      "case": "accusative",
+      "guard": "the participant overcomes the enemies",
+      "example_type": "CONTRAST",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "BARLEY",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.27",
+        "literal": "यवेभ्यो गा वारयति"
+      },
+      "phrase": "yavebhyo gā vārayati",
+      "focus": {
+        "token": "yavebhyaḥ",
+        "lemma": "yava",
+        "number": "PL"
+      },
+      "event": "KEEP_AWAY",
+      "event_role": "desired object kept away",
+      "karaka": "apādāna",
+      "case": "ablative",
+      "guard": "the cows tend toward the barley and are restrained",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "FIELD",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.27",
+        "literal": "यवेभ्यो गा वारयति क्षेत्रे"
+      },
+      "phrase": "yavebhyo gā vārayati kṣetre",
+      "focus": {
+        "token": "kṣetre",
+        "lemma": "kṣetra",
+        "number": "SG"
+      },
+      "event": "KEEP_AWAY",
+      "event_role": "place of prevention",
+      "karaka": "adhikaraṇa",
+      "case": "locative",
+      "guard": "the field locates the preventing; the barley is the desired object",
+      "example_type": "CONTRAST",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "TEACHER_HIDE",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.28",
+        "literal": "उपाध्यायाद् निलीयते"
+      },
+      "phrase": "upādhyāyād nilīyate",
+      "focus": {
+        "token": "upādhyāyāt",
+        "lemma": "upādhyāya",
+        "number": "SG"
+      },
+      "event": "HIDE",
+      "event_role": "intended excluded observer",
+      "karaka": "apādāna",
+      "case": "ablative",
+      "guard": "the subject wishes to avoid being seen by the teacher",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "TEACHER_STUDY",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.29",
+        "literal": "उपाध्यायादधीते"
+      },
+      "phrase": "upādhyāyād adhīte",
+      "focus": {
+        "token": "upādhyāyāt",
+        "lemma": "upādhyāya",
+        "number": "SG"
+      },
+      "event": "LEARN",
+      "event_role": "instructor",
+      "karaka": "apādāna",
+      "case": "ablative",
+      "guard": "discipline-governed acquisition of knowledge from a teacher",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "PERFORMER",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.29",
+        "literal": "नटस्य गाथां शृणोति"
+      },
+      "phrase": "naṭasya gāthāṃ śṛṇoti",
+      "focus": {
+        "token": "naṭasya",
+        "lemma": "naṭa",
+        "number": "SG"
+      },
+      "event": "LISTEN",
+      "event_role": "attributed performer",
+      "karaka": "śeṣa relation",
+      "case": "genitive",
+      "guard": "hearing a performer’s song in the contrasting non-instructional reading",
+      "example_type": "CONTRAST",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "HORN",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.30",
+        "literal": "शृङ्गाच् छरो जायते"
+      },
+      "phrase": "śṛṅgāc charo jāyate",
+      "focus": {
+        "token": "śṛṅgāt",
+        "lemma": "śṛṅga",
+        "number": "SG"
+      },
+      "event": "ARISE",
+      "event_role": "material source",
+      "karaka": "apādāna",
+      "case": "ablative",
+      "guard": "the source text presents the horn as material cause of what arises",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "GANGA",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.31",
+        "literal": "हिमवतो गङ्गा प्रभवति"
+      },
+      "phrase": "himavato gaṅgā prabhavati",
+      "focus": {
+        "token": "himavataḥ",
+        "lemma": "himavat",
+        "number": "SG"
+      },
+      "event": "ORIGINATE",
+      "event_role": "first manifestation point",
+      "karaka": "apādāna",
+      "case": "ablative",
+      "guard": "the river is first encountered from that source",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "VITASTA",
+      "source": {
+        "book": "kashika",
+        "sutra": "1.4.31",
+        "literal": "काश्मीरेभ्यो वितस्ता प्रभवति"
+      },
+      "phrase": "kāśmīrebhyo vitastā prabhavati",
+      "focus": {
+        "token": "kāśmīrebhyaḥ",
+        "lemma": "kāśmīra",
+        "number": "PL"
+      },
+      "event": "ORIGINATE",
+      "event_role": "first manifestation point",
+      "karaka": "apādāna",
+      "case": "ablative",
+      "guard": "the geographical source is framed as first appearance",
+      "example_type": "POSITIVE",
+      "finite_position_credit": 0
+    }
+  ],
+  "rule_routes": [
+    {
+      "sutra": "1.4.24",
+      "focus": "boundary of departure",
+      "designation": "apādāna",
+      "case_rule": "2.3.28",
+      "under": "2.3.1 anabhihite"
+    },
+    {
+      "sutra": "1.4.25",
+      "focus": "cause of fear/protection",
+      "designation": "apādāna",
+      "case_rule": "2.3.28",
+      "under": "2.3.1 anabhihite"
+    },
+    {
+      "sutra": "1.4.26",
+      "focus": "unendurable object with parā+ji",
+      "designation": "apādāna",
+      "case_rule": "2.3.28",
+      "under": "2.3.1 anabhihite"
+    },
+    {
+      "sutra": "1.4.27",
+      "focus": "desired object prevented",
+      "designation": "apādāna",
+      "case_rule": "2.3.28",
+      "under": "2.3.1 anabhihite"
+    },
+    {
+      "sutra": "1.4.28",
+      "focus": "observer whose seeing is to be avoided",
+      "designation": "apādāna",
+      "case_rule": "2.3.28",
+      "under": "2.3.1 anabhihite"
+    },
+    {
+      "sutra": "1.4.29",
+      "focus": "source teacher in disciplined learning",
+      "designation": "apādāna",
+      "case_rule": "2.3.28",
+      "under": "2.3.1 anabhihite"
+    },
+    {
+      "sutra": "1.4.30",
+      "focus": "material cause of what arises",
+      "designation": "apādāna",
+      "case_rule": "2.3.28",
+      "under": "2.3.1 anabhihite"
+    },
+    {
+      "sutra": "1.4.31",
+      "focus": "source of first appearance",
+      "designation": "apādāna",
+      "case_rule": "2.3.28",
+      "under": "2.3.1 anabhihite"
+    }
+  ],
+  "reviewed_queries": [
+    {
+      "id": "SAME_FEAR_VERB",
+      "input": {
+        "event": "FEAR"
+      },
+      "row_ids": [
+        "THIEVES_FEAR",
+        "FOREST"
+      ],
+      "explanation": "Cause and location have distinct case routes.",
+      "projection": null,
+      "value": null
+    },
+    {
+      "id": "SAME_ABLATIVE_TEACHER",
+      "input": {
+        "participant": "upādhyāyāt"
+      },
+      "row_ids": [
+        "TEACHER_HIDE",
+        "TEACHER_STUDY"
+      ],
+      "explanation": "Same ablative word; intended excluded observer or instructor.",
+      "projection": null,
+      "value": null
+    },
+    {
+      "id": "OUTCOME_NOT_REQUIRED",
+      "input": {
+        "event": "HIDE",
+        "teacher_may_have_seen_subject": true
+      },
+      "row_ids": [
+        "TEACHER_HIDE"
+      ],
+      "explanation": "1.4.28 requires the intention, compatible with actually being seen.",
+      "projection": null,
+      "value": null
+    },
+    {
+      "id": "PARA_JI",
+      "input": {
+        "verb": "parājayate"
+      },
+      "row_ids": [
+        "STUDY_DEFEAT",
+        "DEFEAT_ENEMIES"
+      ],
+      "explanation": "Sense and role determine the case.",
+      "projection": null,
+      "value": null
+    },
+    {
+      "id": "RESPOND_TO_KEPT_AWAY",
+      "input": {
+        "event": "KEEP_AWAY"
+      },
+      "row_ids": [
+        "BARLEY",
+        "FIELD"
+      ],
+      "explanation": "Two participants can occur in one supplied clause with different case functions.",
+      "projection": null,
+      "value": null
+    },
+    {
+      "id": "BHYAS_PLURAL_HERE",
+      "input": {
+        "separated_focus": "caurebhyaḥ"
+      },
+      "row_ids": [
+        "THIEVES_FEAR",
+        "THIEVES_PROTECT"
+      ],
+      "explanation": "Context establishes the selected ablative reading of a syncretic ending.",
+      "projection": "case",
+      "value": "ablative"
+    }
+  ],
+  "schema": "rkf.panini.pg134.karaka.v1",
+  "normalization": "The phrase may display external sandhi or separated words. The focus supplies the separated form. The literal source field controls attestation."
+}
