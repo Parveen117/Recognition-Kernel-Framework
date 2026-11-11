@@ -1,0 +1,118 @@
+{
+  "dictionary_entries": [
+    {
+      "work": "mw",
+      "L": "213000",
+      "key": "Samin",
+      "page": "1054,1",
+      "entry_sha256": "ce1e0a9d8421fac51043b0ee3618a6ffb1b2fe7d12574a92e71397660c6bd7a9",
+      "literal_spans_in_whitespace_joined_entry": [
+        "tranquil, pacific",
+        "<s>SaminI-tarA</s>"
+      ]
+    },
+    {
+      "work": "ap",
+      "L": "31669",
+      "key": "Samin",
+      "page": "1534-2",
+      "entry_sha256": "0ce5dcca0e449eb66a12db07e48cf4820d2a188358d519f2a0e6355c193df4ee",
+      "literal_spans_in_whitespace_joined_entry": [
+        "Calm, tranquil, pacific."
+      ]
+    },
+    {
+      "work": "ap",
+      "L": "31670",
+      "key": "SamI",
+      "page": "1534-2",
+      "entry_sha256": "2da082616ce74a933b9271e6a28b9f9d3de1d2050af950d4a6f93345b9641a37",
+      "literal_spans_in_whitespace_joined_entry": [
+        "of a tree"
+      ]
+    }
+  ],
+  "source_suffix_readings": {
+    "Kāśikā_3.2.141": "ghinuṇ, after the eight listed divādi roots in the habitual-agent senses",
+    "Mādhavīya_842": "ghinuṇ for the habitual agent and ṅīṣ through pippalyādi for the feminine tree",
+    "Kṣīrataraṅgiṇī_861": "the electronic entry reads ghiniṇ at the agent, then separately identifies śamī vṛkṣaḥ in gaurādi"
+  },
+  "comparison": {
+    "masculine_agent": "śamī is nominative singular of śamin under 3.2.141 and 7.3.34; the n-less nominative conceals the in-stem.",
+    "feminine_agent": "śaminī bears feminine ī after n; it also coincides in writing with the neuter dual of śamin.",
+    "tree": "The existing PG230 feminine tree has śamī in the nominative and śamīm in the accusative. The epic calls it dense and large and later refers to its foliage."
+  },
+  "epic_tree_tokens": [
+    {
+      "code": "04005012a",
+      "address": "4.5.12a",
+      "token": "शमी",
+      "role": "free",
+      "position": "nom.sg",
+      "character_offset": 32
+    },
+    {
+      "code": "04005027c",
+      "address": "4.5.27c",
+      "token": "शमीमिमाम्",
+      "role": "free",
+      "position": "acc.sg",
+      "character_offset": 28
+    },
+    {
+      "code": "04037001c",
+      "address": "4.37.1c",
+      "token": "शमीमभिमुखं",
+      "role": "free",
+      "position": "acc.sg",
+      "character_offset": 0
+    },
+    {
+      "code": "04038001a",
+      "address": "4.38.1a",
+      "token": "शमीमुपसंगम्य",
+      "role": "free",
+      "position": "acc.sg",
+      "character_offset": 4
+    },
+    {
+      "code": "04038004a",
+      "address": "4.38.4a",
+      "token": "शमीमेतां",
+      "role": "free",
+      "position": "acc.sg",
+      "character_offset": 19
+    },
+    {
+      "code": "04038014c",
+      "address": "4.38.14c",
+      "token": "शमीवृक्षं",
+      "role": "compound",
+      "position": "śamīvṛkṣam, acc.sg of masculine vṛkṣa",
+      "character_offset": 7
+    },
+    {
+      "code": "04041001a",
+      "address": "4.41.1a",
+      "token": "शमीं",
+      "role": "free",
+      "position": "acc.sg",
+      "character_offset": 21
+    },
+    {
+      "code": "04041002c",
+      "address": "4.41.2c",
+      "token": "शमीमूले",
+      "role": "compound",
+      "position": "śamīmūle, loc.sg of neuter mūla",
+      "character_offset": 9
+    }
+  ],
+  "source_coverage": "Eight occurrences containing the exact sequence शमी in the Virāṭaparvan file, classified individually. Six are inflected independent tree words; two are initial members of compounds. This literal search is not a survey of every spelling or derivative in the epic.",
+  "accounting": {
+    "new_agent_positions": 72,
+    "new_agent_readings": 73,
+    "old_tree_positions": 24,
+    "tree_positions_newly_observed_in_epic": 2
+  }
+}
