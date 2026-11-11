@@ -1,0 +1,125 @@
+{
+  "targeted_Bhāgavata": {
+    "TEI_body_literal": 2,
+    "verse_words": [
+      {
+        "locator": "BhP_03.22.013",
+        "source_span": "kīnāśam abhiyācate",
+        "word": "kīnāśam",
+        "case_number": "acc.sg",
+        "role": "person asked, miser",
+        "normalized_group_offset": 20
+      },
+      {
+        "locator": "BhP_03.30.013",
+        "source_span": "kīnāśā iva",
+        "word": "kīnāśāḥ",
+        "case_number": "nom.pl",
+        "role": "farmers in the comparison",
+        "normalized_group_offset": 72
+      },
+      {
+        "locator": "BhP_03.30.013",
+        "source_span": "go-jaram",
+        "word": "gojaram",
+        "case_number": "acc.sg",
+        "role": "aged ox",
+        "normalized_group_offset": 83
+      }
+    ],
+    "source_based_senses": {
+      "3.22.13": "The person approached is a miser and has the Sanskrit accusative. The nearby udyatam is attached to anādṛtya in the word-by-word witness, so the verse does not give two overt objects of abhiyācate.",
+      "3.30.13": "The plural kīnāśāḥ appears before iva as kīnāśā. It identifies farmers in a comparison. The thing no longer respected is the aged ox, go-jaram."
+    }
+  },
+  "compared_kavya": {
+    "source": {
+      "work": "Śrīharṣa, Naiṣadhīyacarita 6.75, Sanskrit text",
+      "url": "https://www.wisdomlib.org/hinduism/book/naishadha-charita-sanskrit/d/doc372558.html",
+      "bytes": 41718,
+      "sha256": "093aa6d5acba3c4dcb094d90635d9f06febcd36c0398f10ab8f939ff5def8936",
+      "witnesses": [
+        {
+          "text": "हुताशकीनाशजलेशदूतीर्",
+          "normalized_text_offset": 2877
+        }
+      ]
+    },
+    "surface": "hutāśakīnāśajaleśadūtīr",
+    "role": "Kīnāśa as the name Yama, between the names of Fire and the Lord of Waters, within a compound headed by the plural female messengers. The ending belongs to the messengers.",
+    "dictionary_control": {
+      "work": "mw",
+      "L": "50754",
+      "key": "kInASa",
+      "page": "285,1",
+      "entry_sha256": "f134d98b49a172b9cae2dc233d48bf80c2d148e65229a86dee318f821d97f708",
+      "literal_spans_in_whitespace_joined_entry": [
+        "Yama",
+        "Naiṣ. vi, 75"
+      ]
+    },
+    "earlier_Māgha_1_73": "Previously documented at the five-pāda marker survey and not credited as a new textual locus."
+  },
+  "lexical_records": [
+    {
+      "work": "mw",
+      "L": "50751",
+      "key": "kInASa",
+      "page": "285,1",
+      "entry_sha256": "ff1964d050d048de2cff07c11c82e0941b68b9d1b7a2fa93ac35b00d57f35318",
+      "literal_spans_in_whitespace_joined_entry": [
+        "a cultivator of the soil"
+      ]
+    },
+    {
+      "work": "mw",
+      "L": "50752",
+      "key": "kInASa",
+      "page": "285,1",
+      "entry_sha256": "7a446ff79ce671d359a473b7af6aea5aa23a7b230f00d8d161d2d42d6a704c96",
+      "literal_spans_in_whitespace_joined_entry": [
+        "niggard"
+      ]
+    },
+    {
+      "work": "mw",
+      "L": "67018",
+      "key": "gojara",
+      "page": "364,2",
+      "entry_sha256": "8aacf40339e29aefc9be9e961cc8bd58a8dfaa2be7bbbb49b6419db1e26dcab6",
+      "literal_spans_in_whitespace_joined_entry": [
+        "an old ox or bull",
+        "iii, 30, 14"
+      ]
+    },
+    {
+      "work": "ap",
+      "L": "14268.088",
+      "key": "gojaraH",
+      "page": "0672-1",
+      "entry_sha256": "df228cce8fa46b70176d201788dde990b1c75df05719513d11dd905e5fb30372",
+      "literal_spans_in_whitespace_joined_entry": [
+        "3. 30. 13"
+      ]
+    },
+    {
+      "work": "vcp",
+      "L": "18015",
+      "key": "gojara",
+      "page": "2695,a",
+      "entry_sha256": "2716b913144ed8f7c21bb8be57da83c7986137b01b703fd8fe9c26aaffa1a4a7",
+      "literal_spans_in_whitespace_joined_entry": [
+        "vfdDavalIvardDam",
+        "SrIDaraH"
+      ]
+    }
+  ],
+  "numbering": "Apte points to 3.30.13 (as GRETIL and the word-by-word edition do). Monier-Williams and Vācaspatyam print 3.30.14. Vācaspatyam quotes Śrīdhara’s gloss; it is an attributed citation, not a newly consulted manuscript.",
+  "marker_status": "These uses distinguish three lexical senses. They provide no independent operation of kan’s initial k.",
+  "accounting": {
+    "three_new_kinasa_contexts": 3,
+    "associated_ox_token": 1,
+    "new_nominal_positions": 24,
+    "new_kinasa_positions": 0
+  }
+}

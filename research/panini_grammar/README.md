@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG256 — Three literary senses of kīnāśa and the old ox.** [Packet](kinasa_miser_farmer_and_yama_in_context/README.md). Zero new finite positions. Cumulative **47,150**.
+
 **PG255 — The active and middle aorists of the two class-three ghu roots.** [Packet](ordered_ghu_aorist_pada_and_perfect/README.md). 144 positions, 148 readings and 148 paths. Cumulative **47,150**.
 
 **PG254 — Shared third-person futures and the two benedictive grades.** [Packet](ordered_ghu_futures_and_two_blessing_grades/README.md). 288 positions, 288 readings and 288 paths. Cumulative **47,006**.
