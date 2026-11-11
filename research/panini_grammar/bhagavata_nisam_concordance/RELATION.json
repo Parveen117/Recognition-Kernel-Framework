@@ -1,0 +1,115 @@
+{
+  "corpus": {
+    "work": "Bhāgavatapurāṇa; electronic text contributed by Ulrich Stiehl, GRETIL, SUB Göttingen",
+    "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhAgavatapurANa.xml",
+    "edition_date": "2020-07-31",
+    "bytes": 2600905,
+    "sha256": "5b4271b0703cb1ad21c97142e7366a61de608988c6073464eef0749bcfa20d43",
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "search_scope": "All unaccented occurrences of niśam/niśām immediately followed by y or ay in the TEI body, including longer tokens and joined next words. This excludes other suffixes, other preverbs without ni, and other works.",
+  "locators": "Use the recorded XML line (one-based), Unicode character offset (zero-based in that line), and next original printed verse-end label, retaining any source asterisk. All five duplicated occurrences are exact repeats of the preceding XML line at the same verse label; both addresses remain in the table.",
+  "counts": {
+    "physical_hits": 117,
+    "distinct_token_loci": 112,
+    "repeated_XML_lines": 5,
+    "by_construction": {
+      "absolutive": 105,
+      "imperative_2sg": 3,
+      "present_participle": 3,
+      "passive_imperative_3sg": 1
+    },
+    "by_citation_form": {
+      "niśamya": 87,
+      "niśāmya": 17,
+      "niśāmaya": 3,
+      "niśāmayantyāḥ": 1,
+      "niśāmayantīnām": 1,
+      "anuniśamya": 1,
+      "niśamyatām": 1,
+      "niśāmayan": 1
+    }
+  },
+  "context_controls": [
+    {
+      "GRETIL": "4.19.34",
+      "word_for_word_edition": "https://vedabase.io/en/library/sb/4/19/34/",
+      "category": "speech considered",
+      "context": "niśāmaya + asmad-vacaḥ forms niśāmayāsmad-vaca in connected text."
+    },
+    {
+      "GRETIL": "4.29.52",
+      "word_for_word_edition": "https://vedabase.io/en/library/sb/4/29/52/",
+      "category": "hearing",
+      "context": "Nārada is speaking; the addressee is invited to hear the secret."
+    },
+    {
+      "GRETIL": "5.3.18",
+      "word_for_word_edition": "https://vedabase.io/en/library/sb/5/3/19/",
+      "category": "listening participle",
+      "context": "Genitive singular niśāmayantyāḥ agrees with merudevyāḥ; the surface visarga is absent before voiced m. GRETIL 5.3.18 corresponds to 5.3.19 in the glossary edition."
+    },
+    {
+      "GRETIL": "5.4.19",
+      "word_for_word_edition": "https://vedabase.io/en/library/sb/5/4/19/",
+      "category": "listening participle",
+      "context": "Feminine genitive plural niśāmayantīnām agrees with prajānām. The citizens are listening as the sons are instructed."
+    },
+    {
+      "GRETIL": "6.1.30",
+      "word_for_word_edition": "https://vedabase.io/en/library/sb/6/1/30/",
+      "category": "hearing",
+      "context": "The short-vowel absolutive is applied to chanting heard from the mouth of a dying man."
+    },
+    {
+      "GRETIL": "7.5.25",
+      "word_for_word_edition": "https://vedabase.io/en/library/sb/7/5/25/",
+      "category": "hearing",
+      "context": "The object of the absolutive is what a son said; niśamya + etat gives niśamyaitat."
+    },
+    {
+      "GRETIL": "9.6.28",
+      "word_for_word_edition": "https://vedabase.io/en/library/sb/9/6/28/",
+      "category": "seeing",
+      "context": "The observers find the waterpot empty. The short-vowel absolutive niśamya joins atha."
+    },
+    {
+      "GRETIL": "10.19.13",
+      "word_for_word_edition": "https://vedabase.io/en/library/sb/10/19/13/",
+      "category": "seeing",
+      "context": "The cowherds open their eyes before perceiving themselves and the cows safe. This is short-vowel niśamya."
+    },
+    {
+      "GRETIL": "10.34.19",
+      "word_for_word_edition": "https://vedabase.io/en/library/sb/10/34/19/",
+      "category": "seeing",
+      "context": "Long-vowel niśāmya applies to witnessing the display of Kṛṣṇa."
+    },
+    {
+      "GRETIL": "10.36.22",
+      "word_for_word_edition": "https://vedabase.io/en/library/sb/10/36/22-23/",
+      "category": "passive command",
+      "context": "The command niśamyatām takes singular etat, while the two called by name are dual. Position and number are different from an active 2du."
+    },
+    {
+      "GRETIL": "10.89.34",
+      "word_for_word_edition": "https://vedabase.io/en/library/sb/10/89/34/",
+      "category": "listening participle",
+      "context": "Masculine nominative singular niśāmayan agrees with vipraḥ. The subject returns home upon hearing of Arjuna’s prowess."
+    },
+    {
+      "GRETIL": "11.25.17",
+      "word_for_word_edition": "https://vedabase.io/en/library/sb/11/25/17/",
+      "category": "inference",
+      "context": "Etaiḥ directs the addressee to recognize rajas by its signs; the imperative is niśāmaya."
+    }
+  ],
+  "fully_reviewed_senses_in_this_packet": 12,
+  "other_senses": "The other 100 grammatical tokens have an identified construction; their individual perception senses remain open here.",
+  "operations": {
+    "absolutives": "Identify the previous action on the shared subject, retaining the preverb and the lyap construction under 3.4.21 and 7.1.37. Vowel sandhi against the next word is recorded separately.",
+    "participles": "niśāmayat-/niśāmayantī- are nominal forms. Assign agreement from their own head, including the singular genitive before voiced m.",
+    "two_commands": "niśāmaya is an active 2sg imperative. At 10.36.22 niśamyatām has the passive yak and a 3sg ending; the singular demonstrative, not the dual vocative pair, supplies its agreement.",
+    "projection": "Retain the source locator, root-vowel length, suffix class, agreement, co-text and any following-word boundary. The two short-vowel visual absolutives and the long-vowel hearing forms show that a vowel-to-sense lookup cannot recover the source interpretation."
+  }
+}
