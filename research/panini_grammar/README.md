@@ -1410,6 +1410,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG155 — Linking two attested gerunds to one speaker across four verses.** [Packet](bhatti_clause_chain/README.md). Zero new finite positions. Cumulative **33,773**.
+
 **PG154 — Dividing goods, lowering the tail and an understood causer.** [Packet](prefixed_ning_division/README.md). 90 positions, 127 readings and 127 paths. Cumulative **33,773**.
 
 **PG153 — Five outer lakāras and two independent nasal junctions.** [Packet](prefixed_ning_outer/README.md). 225 positions, 556 readings and 711 paths. Cumulative **33,683**.

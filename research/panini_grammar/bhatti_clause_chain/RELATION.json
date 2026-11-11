@@ -1,0 +1,272 @@
+{
+  "source_witnesses": {
+    "3.1.20": {
+      "word": "संभाण्ड्य",
+      "text": "भट्टिकाव्यम्",
+      "loc": "5.62",
+      "url": "https://sanskritsahitya.org/bhattikavyam/5.62",
+      "pada": "मात्राः संभाण्ड्य दण्ड-वान्",
+      "ref": "`पुच्छ - भाण्ड` इत्यादिना णिङ्।"
+    },
+    "3.1.21": {
+      "word": "संवस्त्र्य",
+      "text": "भट्टिकाव्यम्",
+      "loc": "5.62",
+      "url": "https://sanskritsahitya.org/bhattikavyam/5.62",
+      "pada": "संवस्त्र्य लाक्षिके वस्त्रे",
+      "ref": "`मुण्डमिश्र` इत्यादिना णिच्।"
+    }
+  },
+  "passage_url": "https://ambuda.org/texts/bhattikavyam/5",
+  "textgrid_record": "https://textgridrep.org/browse/49m1v.0",
+  "finite_anchor": "ūce",
+  "frame": {
+    "id": "BHATTI_5_61_64_SELECTED",
+    "events": [
+      {
+        "id": "leave",
+        "predicate": "depart",
+        "formation": "locative absolute, past participle"
+      },
+      {
+        "id": "dress",
+        "predicate": "put on two garments",
+        "formation": "sam + vastra + ṇic, lyap"
+      },
+      {
+        "id": "collect",
+        "predicate": "gather requisites",
+        "formation": "sam + bhāṇḍa + ṇiṅ, lyap"
+      },
+      {
+        "id": "arrive",
+        "predicate": "approach",
+        "formation": "sam + ā + gam, absolutive"
+      },
+      {
+        "id": "speak",
+        "predicate": "address",
+        "formation": "finite ūce"
+      },
+      {
+        "id": "be_well",
+        "predicate": "be well",
+        "formation": "quoted imperative bhava"
+      }
+    ],
+    "entities": [
+      {
+        "id": "r",
+        "lemma": "rāvaṇa",
+        "surface_status": "overt"
+      },
+      {
+        "id": "l",
+        "lemma": "saḥ, referent from preceding stanza",
+        "surface_status": "overt"
+      },
+      {
+        "id": "s",
+        "lemma": "sītā",
+        "surface_status": "overt"
+      },
+      {
+        "id": "robes",
+        "lemma": "vastra, two lac-coloured garments",
+        "surface_status": "overt"
+      },
+      {
+        "id": "things",
+        "lemma": "mātrā, requisites",
+        "surface_status": "overt"
+      }
+    ],
+    "role_edges": [
+      {
+        "event": "leave",
+        "entity": "l",
+        "role": "departing participant",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": "locative",
+        "source_rows": [],
+        "source_status": "explicit"
+      },
+      {
+        "event": "dress",
+        "entity": "r",
+        "role": "one dressing",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": null,
+        "source_rows": [],
+        "source_status": "contextual"
+      },
+      {
+        "event": "dress",
+        "entity": "robes",
+        "role": "garments donned",
+        "designations": [
+          "karman"
+        ],
+        "case": "accusative",
+        "source_rows": [],
+        "source_status": "explicit"
+      },
+      {
+        "event": "collect",
+        "entity": "r",
+        "role": "collector",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": null,
+        "source_rows": [],
+        "source_status": "contextual"
+      },
+      {
+        "event": "collect",
+        "entity": "things",
+        "role": "things gathered",
+        "designations": [
+          "karman"
+        ],
+        "case": "accusative",
+        "source_rows": [],
+        "source_status": "explicit"
+      },
+      {
+        "event": "arrive",
+        "entity": "r",
+        "role": "one approaching",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": null,
+        "source_rows": [],
+        "source_status": "contextual"
+      },
+      {
+        "event": "speak",
+        "entity": "r",
+        "role": "speaker",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": "nominative",
+        "source_rows": [],
+        "source_status": "explicit"
+      },
+      {
+        "event": "speak",
+        "entity": "s",
+        "role": "addressee",
+        "designations": [
+          "karman"
+        ],
+        "case": "accusative",
+        "source_rows": [],
+        "source_status": "explicit"
+      },
+      {
+        "event": "be_well",
+        "entity": "s",
+        "role": "person addressed",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": null,
+        "source_rows": [],
+        "source_status": "contextual"
+      }
+    ],
+    "agreement": [
+      {
+        "event": "speak",
+        "controller": "r",
+        "slot": "3sg"
+      },
+      {
+        "event": "be_well",
+        "controller": "s",
+        "slot": "2sg"
+      }
+    ],
+    "event_links": [
+      {
+        "from": "leave",
+        "relation": "precedes",
+        "to": "speak"
+      },
+      {
+        "from": "dress",
+        "relation": "precedes",
+        "to": "speak"
+      },
+      {
+        "from": "collect",
+        "relation": "precedes",
+        "to": "speak"
+      },
+      {
+        "from": "arrive",
+        "relation": "precedes",
+        "to": "speak"
+      }
+    ],
+    "source_scope": "Bhaṭṭikāvya 5.61–64, selected predicates only; GRETIL and Ambuda text, plus two independently addressable grammar-archive witness records."
+  },
+  "quotative": {
+    "matrix": "speak",
+    "content": "be_well",
+    "speaker": "r",
+    "addressee": "s"
+  },
+  "required_precedence_semantics": "false means not entailed by the stored grammatical edges; no ban on that event ordering",
+  "checks": [
+    {
+      "operation": "same_agent",
+      "left": "dress",
+      "right": "collect",
+      "answer": true
+    },
+    {
+      "operation": "same_agent",
+      "left": "collect",
+      "right": "speak",
+      "answer": true
+    },
+    {
+      "operation": "same_agent",
+      "left": "leave",
+      "right": "speak",
+      "answer": false
+    },
+    {
+      "operation": "same_agent",
+      "left": "speak",
+      "right": "be_well",
+      "answer": false
+    },
+    {
+      "operation": "required_precedence",
+      "left": "collect",
+      "right": "speak",
+      "answer": true
+    },
+    {
+      "operation": "required_precedence",
+      "left": "dress",
+      "right": "collect",
+      "answer": false
+    },
+    {
+      "operation": "required_precedence",
+      "left": "collect",
+      "right": "dress",
+      "answer": false
+    }
+  ]
+}
