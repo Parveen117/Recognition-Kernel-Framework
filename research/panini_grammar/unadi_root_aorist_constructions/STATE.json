@@ -1,0 +1,1407 @@
+{
+  "schema": "rkf.panini.pg217.state.v1",
+  "author": "Monty",
+  "date": "2026-11-12",
+  "baseline": {
+    "path": "research/panini_grammar/styai_prefixes_and_nistha/STATE.json",
+    "commit": "c8356989854ca3e23e4606d62e3083453338c9a0",
+    "git_blob_sha": "e90041b2d7c57f07907c6990bf646d124086623d",
+    "sha256": "c8bbb6c5004684279aa7ca2184fa279eaa04e827ece2e1f5803d2cf1a9d26fae",
+    "bytes": 3250
+  },
+  "finite_positions": 43160,
+  "new_positions": 135,
+  "new_position_readings": 154,
+  "new_written_table_readings": 154,
+  "retained_path_count": 154,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "amāhīt"
+        ]
+      },
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "amāhiṣṭām"
+        ]
+      },
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "amāhiṣuḥ"
+        ]
+      },
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "amāhīḥ"
+        ]
+      },
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "amāhiṣṭam"
+        ]
+      },
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "amāhiṣṭa"
+        ]
+      },
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "amāhiṣam"
+        ]
+      },
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "amāhiṣva"
+        ]
+      },
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "amāhiṣma"
+        ]
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "amāhiṣṭa"
+        ]
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "amāhiṣātām"
+        ]
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "amāhiṣata"
+        ]
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "amāhiṣṭhāḥ"
+        ]
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "amāhiṣāthām"
+        ]
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "amāhiḍhvam",
+          "amāhidhvam"
+        ]
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "amāhiṣi"
+        ]
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "amāhiṣvahi"
+        ]
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "amāhiṣmahi"
+        ]
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "amahīt"
+        ]
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "amahiṣṭām"
+        ]
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "amahiṣuḥ"
+        ]
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "amahīḥ"
+        ]
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "amahiṣṭam"
+        ]
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "amahiṣṭa"
+        ]
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "amahiṣam"
+        ]
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "amahiṣva"
+        ]
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "amahiṣma"
+        ]
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "amamahat"
+        ]
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "amamahatām"
+        ]
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "amamahan"
+        ]
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "amamahaḥ"
+        ]
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "amamahatam"
+        ]
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "amamahata"
+        ]
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "amamaham"
+        ]
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "amamahāva"
+        ]
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "amamahāma"
+        ]
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "amamahata"
+        ]
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "amamahetām"
+        ]
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "amamahanta"
+        ]
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "amamahathāḥ"
+        ]
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "amamahethām"
+        ]
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "amamahadhvam"
+        ]
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "amamahe"
+        ]
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "amamahāvahi"
+        ]
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "amamahāmahi"
+        ]
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "asamīt"
+        ]
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "asamiṣṭām"
+        ]
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "asamiṣuḥ"
+        ]
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "asamīḥ"
+        ]
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "asamiṣṭam"
+        ]
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "asamiṣṭa"
+        ]
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "asamiṣam"
+        ]
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "asamiṣva"
+        ]
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "asamiṣma"
+        ]
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "asamat"
+        ]
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "asamatām"
+        ]
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "asaman"
+        ]
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "asamaḥ"
+        ]
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "asamatam"
+        ]
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "asamata"
+        ]
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "asamam"
+        ]
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "asamāva"
+        ]
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "asamāma"
+        ]
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "astyāsīt"
+        ]
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "astyāsiṣṭām"
+        ]
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "astyāsiṣuḥ"
+        ]
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "astyāsīḥ"
+        ]
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "astyāsiṣṭam"
+        ]
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "astyāsiṣṭa"
+        ]
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "astyāsiṣam"
+        ]
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "astyāsiṣva"
+        ]
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "astyāsiṣma"
+        ]
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "astyāsīt"
+        ]
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "astyāsiṣṭām"
+        ]
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "astyāsiṣuḥ"
+        ]
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "astyāsīḥ"
+        ]
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "astyāsiṣṭam"
+        ]
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "astyāsiṣṭa"
+        ]
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "astyāsiṣam"
+        ]
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "astyāsiṣva"
+        ]
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "astyāsiṣma"
+        ]
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "anaṭīt",
+          "anāṭīt"
+        ]
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "anaṭiṣṭām",
+          "anāṭiṣṭām"
+        ]
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "anaṭiṣuḥ",
+          "anāṭiṣuḥ"
+        ]
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "anaṭīḥ",
+          "anāṭīḥ"
+        ]
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "anaṭiṣṭam",
+          "anāṭiṣṭam"
+        ]
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "anaṭiṣṭa",
+          "anāṭiṣṭa"
+        ]
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "anaṭiṣam",
+          "anāṭiṣam"
+        ]
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "anaṭiṣva",
+          "anāṭiṣva"
+        ]
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "anaṭiṣma",
+          "anāṭiṣma"
+        ]
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "anaṭīt",
+          "anāṭīt"
+        ]
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "anaṭiṣṭām",
+          "anāṭiṣṭām"
+        ]
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "anaṭiṣuḥ",
+          "anāṭiṣuḥ"
+        ]
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "anaṭīḥ",
+          "anāṭīḥ"
+        ]
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "anaṭiṣṭam",
+          "anāṭiṣṭam"
+        ]
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "anaṭiṣṭa",
+          "anāṭiṣṭa"
+        ]
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "anaṭiṣam",
+          "anāṭiṣam"
+        ]
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "anaṭiṣva",
+          "anāṭiṣva"
+        ]
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "anaṭiṣma",
+          "anāṭiṣma"
+        ]
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "anīnaṭat"
+        ]
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "anīnaṭatām"
+        ]
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "anīnaṭan"
+        ]
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "anīnaṭaḥ"
+        ]
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "anīnaṭatam"
+        ]
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "anīnaṭata"
+        ]
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "anīnaṭam"
+        ]
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "anīnaṭāva"
+        ]
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "anīnaṭāma"
+        ]
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "anīnaṭata"
+        ]
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "anīnaṭetām"
+        ]
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "anīnaṭanta"
+        ]
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "anīnaṭathāḥ"
+        ]
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "anīnaṭethām"
+        ]
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "anīnaṭadhvam"
+        ]
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "anīnaṭe"
+        ]
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "anīnaṭāvahi"
+        ]
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "anīnaṭāmahi"
+        ]
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "anaṃsīt"
+        ]
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "anaṃsiṣṭām"
+        ]
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "anaṃsiṣuḥ"
+        ]
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "anaṃsīḥ"
+        ]
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "anaṃsiṣṭam"
+        ]
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "anaṃsiṣṭa"
+        ]
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "anaṃsiṣam"
+        ]
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "anaṃsiṣva"
+        ]
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "anaṃsiṣma"
+        ]
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "aśīśamata"
+        ]
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "aśīśametām"
+        ]
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "aśīśamanta"
+        ]
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "aśīśamathāḥ"
+        ]
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "aśīśamethām"
+        ]
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "aśīśamadhvam"
+        ]
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "aśīśame"
+        ]
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "aśīśamāvahi"
+        ]
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "aśīśamāmahi"
+        ]
+      }
+    ],
+    "panels": [
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 18
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 18
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      }
+    ],
+    "complete_nine_slot_paradigms": 15
+  },
+  "contextual_profiles": {
+    "DP_01_1042_P": {
+      "id": "01.1042",
+      "pada": "P",
+      "construction": "sic",
+      "pre_ending_factors": [
+        "māh"
+      ],
+      "condition": "Long radical ā. The middle second plural has two dentalities."
+    },
+    "DP_01_1042_A": {
+      "id": "01.1042",
+      "pada": "A",
+      "construction": "sic",
+      "pre_ending_factors": [
+        "māh"
+      ],
+      "condition": "Long radical ā. The middle second plural has two dentalities."
+    },
+    "DP_01_0831_P": {
+      "id": "01.0831",
+      "pada": "P",
+      "construction": "sic",
+      "pre_ending_factors": [
+        "mah"
+      ],
+      "condition": "An h-final takes no optional strengthening before iṭ-sic under 7.2.5."
+    },
+    "DP_10_0406_P": {
+      "id": "10.0406",
+      "pada": "P",
+      "construction": "caṅ",
+      "pre_ending_factors": [
+        "mamah"
+      ],
+      "condition": "The adanta curādi has loss of its vowel before ṇic. The anaglopa condition of 7.4.93–94 excludes san-like i and length here."
+    },
+    "DP_10_0406_A": {
+      "id": "10.0406",
+      "pada": "A",
+      "construction": "caṅ",
+      "pre_ending_factors": [
+        "mamah"
+      ],
+      "condition": "The adanta curādi has loss of its vowel before ṇic. The anaglopa condition of 7.4.93–94 excludes san-like i and length here."
+    },
+    "DP_01_0963_P": {
+      "id": "01.0963",
+      "pada": "P",
+      "construction": "sic",
+      "pre_ending_factors": [
+        "sam"
+      ],
+      "condition": "An m-final takes no optional strengthening before iṭ-sic under 7.2.5."
+    },
+    "DP_04_0132_P": {
+      "id": "04.0132",
+      "pada": "P",
+      "construction": "aṅ",
+      "pre_ending_factors": [
+        "sam"
+      ],
+      "condition": "The class-four variant is expressly in the puṣādi subgroup at the selected Dhātupāṭha address."
+    },
+    "DP_01_1058_P": {
+      "id": "01.1058",
+      "pada": "P",
+      "construction": "sak + iṭ-sic",
+      "pre_ending_factors": [
+        "styās"
+      ],
+      "condition": "Non-śit gives ā. An ā-final receives sak and iṭ under 7.2.73."
+    },
+    "DP_01_1059_P": {
+      "id": "01.1059",
+      "pada": "P",
+      "construction": "sak + iṭ-sic",
+      "pre_ending_factors": [
+        "styās"
+      ],
+      "condition": "The same environment contains no i-bearing reduplicant conditioning initial retroflexion."
+    },
+    "DP_01_0347_P": {
+      "id": "01.0347",
+      "pada": "P",
+      "construction": "sic",
+      "pre_ending_factors": [
+        "naṭ",
+        "nāṭ"
+      ],
+      "condition": "The short, consonant-initial root permits both grades before active iṭ-sic, 7.2.7."
+    },
+    "DP_01_0890_P": {
+      "id": "01.0890",
+      "pada": "P",
+      "construction": "sic",
+      "pre_ending_factors": [
+        "naṭ",
+        "nāṭ"
+      ],
+      "condition": "The second dancing/motion entry has the same two grades."
+    },
+    "DP_10_0018_P": {
+      "id": "10.0018",
+      "pada": "P",
+      "construction": "caṅ",
+      "pre_ending_factors": [
+        "nīnaṭ"
+      ],
+      "condition": "The nī copy and shortened radical vowel are confirmed by the Bālamanoramā’s anīnaṭat."
+    },
+    "DP_10_0018_A": {
+      "id": "10.0018",
+      "pada": "A",
+      "construction": "caṅ",
+      "pre_ending_factors": [
+        "nīnaṭ"
+      ],
+      "condition": "The nī copy and shortened radical vowel are confirmed by the Bālamanoramā’s anīnaṭat."
+    },
+    "DP_01_1136_P": {
+      "id": "01.1136",
+      "pada": "P",
+      "construction": "sak + iṭ-sic",
+      "pre_ending_factors": [
+        "naṃs"
+      ],
+      "condition": "The named nam takes sak and iṭ. Root-final m is an anusvāra before s."
+    },
+    "DP_10_0218_A": {
+      "id": "10.0218",
+      "pada": "A",
+      "construction": "caṅ",
+      "pre_ending_factors": [
+        "śīśam"
+      ],
+      "condition": "The curādi has the short radical syllable and long i copy in agentive luṅ."
+    }
+  },
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "135 agentive perfect positions remain on this root–pada grid.",
+    "Four literal 4.105 labels, an independently witnessed effect of k at 5.56 and the executable track remain open."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Parsed all 135 explicit aorist selections against the archive. Separately collated the eighteen published nam and ṣṭyai cells and the curādi lexical examples."
+  },
+  "declared_basic_grid_done": 1215,
+  "declared_basic_grid_total": 1350,
+  "archive_readings": 167,
+  "second_table_cells": 18
+}
