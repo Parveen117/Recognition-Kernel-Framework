@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG235 — The ten-pāda miser, the hair word and the explicit judgment on k.** [Packet](kinasa_ten_pada_marker_and_agent/README.md). Zero new finite positions. Cumulative **45,152**.
+
 **PG234 — The two kliś aorists and four readings checked against print.** [Packet](klis_perfect_aorist_and_manuscript_readings/README.md). 54 positions, 66 readings and 66 paths. Cumulative **45,152**.
 
 **PG233 — Why two middle futures agree and the ū-marked future divides.** [Packet](klis_futures_and_benedictives/README.md). 108 positions, 135 readings and 135 paths. Cumulative **45,098**.
