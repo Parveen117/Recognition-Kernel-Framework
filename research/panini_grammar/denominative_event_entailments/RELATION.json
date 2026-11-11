@@ -1,0 +1,417 @@
+{
+  "domain": "affirmative event report with fixed actor, object and occurrence; truth values are entailments internal to a selected reading",
+  "term_sorts": {
+    "actor": "person",
+    "patient": "person",
+    "food": "object",
+    "robe": "object",
+    "hardship": "state"
+  },
+  "signatures": {
+    "consume": [
+      "person",
+      "object"
+    ],
+    "intend_wrong": [
+      "person"
+    ],
+    "perform_wrong": [
+      "person"
+    ],
+    "experience": [
+      "person",
+      "state"
+    ],
+    "acquire": [
+      "person",
+      "object"
+    ],
+    "wear": [
+      "person",
+      "object"
+    ],
+    "want_son": [
+      "person"
+    ],
+    "treat_as_son": [
+      "person",
+      "person"
+    ],
+    "is_son_of": [
+      "person",
+      "person"
+    ],
+    "make_shaven": [
+      "person",
+      "person"
+    ],
+    "result_goes_to": [
+      "person"
+    ],
+    "same_person": [
+      "person",
+      "person"
+    ]
+  },
+  "logical_readout": "Only listed positive and negative atoms are decided. Others are open. An unspecified guard preserves every candidate history. Different role variables need not denote different individuals.",
+  "facts": [
+    {
+      "surface": "vratayati",
+      "history": "vrata/consume",
+      "guard": "vow_requires_this_food",
+      "positive": [
+        {
+          "predicate": "consume",
+          "arguments": [
+            "actor",
+            "food"
+          ]
+        }
+      ],
+      "negative": []
+    },
+    {
+      "surface": "vratayati",
+      "history": "vrata/abstain",
+      "guard": "vow_excludes_this_food",
+      "positive": [],
+      "negative": [
+        {
+          "predicate": "consume",
+          "arguments": [
+            "actor",
+            "food"
+          ]
+        }
+      ]
+    },
+    {
+      "surface": "kṛcchrāyate",
+      "history": "kṛcchra/intend",
+      "guard": "intention_to_do_wrong",
+      "positive": [
+        {
+          "predicate": "intend_wrong",
+          "arguments": [
+            "actor"
+          ]
+        }
+      ],
+      "negative": []
+    },
+    {
+      "surface": "kṛcchrāyate",
+      "history": "kṛcchra/experience",
+      "guard": "actor_bears_the_state",
+      "positive": [
+        {
+          "predicate": "experience",
+          "arguments": [
+            "actor",
+            "hardship"
+          ]
+        }
+      ],
+      "negative": []
+    },
+    {
+      "surface": "saṃcīvarayate",
+      "history": "cīvara/acquire",
+      "guard": "acquiring_robe",
+      "positive": [
+        {
+          "predicate": "acquire",
+          "arguments": [
+            "actor",
+            "robe"
+          ]
+        }
+      ],
+      "negative": []
+    },
+    {
+      "surface": "saṃcīvarayate",
+      "history": "cīvara/wear",
+      "guard": "wearing_robe",
+      "positive": [
+        {
+          "predicate": "wear",
+          "arguments": [
+            "actor",
+            "robe"
+          ]
+        }
+      ],
+      "negative": []
+    },
+    {
+      "surface": "putrīyati",
+      "history": "putra/desire",
+      "guard": "self_related_desire",
+      "positive": [
+        {
+          "predicate": "want_son",
+          "arguments": [
+            "actor"
+          ]
+        }
+      ],
+      "negative": []
+    },
+    {
+      "surface": "putrīyati",
+      "history": "putra/treat",
+      "guard": "has_patient_compared_to_son",
+      "positive": [
+        {
+          "predicate": "treat_as_son",
+          "arguments": [
+            "actor",
+            "patient"
+          ]
+        }
+      ],
+      "negative": []
+    },
+    {
+      "surface": "muṇḍayate",
+      "history": "muṇḍa/result",
+      "guard": "own_principal_result",
+      "positive": [
+        {
+          "predicate": "make_shaven",
+          "arguments": [
+            "actor",
+            "patient"
+          ]
+        },
+        {
+          "predicate": "result_goes_to",
+          "arguments": [
+            "actor"
+          ]
+        }
+      ],
+      "negative": []
+    }
+  ],
+  "queries": [
+    {
+      "surface": "vratayati",
+      "context": null,
+      "query": {
+        "predicate": "consume",
+        "arguments": [
+          "actor",
+          "food"
+        ]
+      },
+      "answers": [
+        {
+          "history": "vrata/consume",
+          "answer": "entailed"
+        },
+        {
+          "history": "vrata/abstain",
+          "answer": "excluded"
+        }
+      ]
+    },
+    {
+      "surface": "vratayati",
+      "context": "vow_excludes_this_food",
+      "query": {
+        "predicate": "consume",
+        "arguments": [
+          "actor",
+          "food"
+        ]
+      },
+      "answers": [
+        {
+          "history": "vrata/abstain",
+          "answer": "excluded"
+        }
+      ]
+    },
+    {
+      "surface": "vratayati",
+      "context": "vow_requires_this_food",
+      "query": {
+        "predicate": "consume",
+        "arguments": [
+          "actor",
+          "food"
+        ]
+      },
+      "answers": [
+        {
+          "history": "vrata/consume",
+          "answer": "entailed"
+        }
+      ]
+    },
+    {
+      "surface": "kṛcchrāyate",
+      "context": null,
+      "query": {
+        "predicate": "intend_wrong",
+        "arguments": [
+          "actor"
+        ]
+      },
+      "answers": [
+        {
+          "history": "kṛcchra/intend",
+          "answer": "entailed"
+        },
+        {
+          "history": "kṛcchra/experience",
+          "answer": "open"
+        }
+      ]
+    },
+    {
+      "surface": "kṛcchrāyate",
+      "context": "intention_to_do_wrong",
+      "query": {
+        "predicate": "perform_wrong",
+        "arguments": [
+          "actor"
+        ]
+      },
+      "answers": [
+        {
+          "history": "kṛcchra/intend",
+          "answer": "open"
+        }
+      ]
+    },
+    {
+      "surface": "kṛcchrāyate",
+      "context": "actor_bears_the_state",
+      "query": {
+        "predicate": "experience",
+        "arguments": [
+          "actor",
+          "hardship"
+        ]
+      },
+      "answers": [
+        {
+          "history": "kṛcchra/experience",
+          "answer": "entailed"
+        }
+      ]
+    },
+    {
+      "surface": "saṃcīvarayate",
+      "context": null,
+      "query": {
+        "predicate": "wear",
+        "arguments": [
+          "actor",
+          "robe"
+        ]
+      },
+      "answers": [
+        {
+          "history": "cīvara/acquire",
+          "answer": "open"
+        },
+        {
+          "history": "cīvara/wear",
+          "answer": "entailed"
+        }
+      ]
+    },
+    {
+      "surface": "saṃcīvarayate",
+      "context": "wearing_robe",
+      "query": {
+        "predicate": "acquire",
+        "arguments": [
+          "actor",
+          "robe"
+        ]
+      },
+      "answers": [
+        {
+          "history": "cīvara/wear",
+          "answer": "open"
+        }
+      ]
+    },
+    {
+      "surface": "putrīyati",
+      "context": null,
+      "query": {
+        "predicate": "is_son_of",
+        "arguments": [
+          "patient",
+          "actor"
+        ]
+      },
+      "answers": [
+        {
+          "history": "putra/desire",
+          "answer": "open"
+        },
+        {
+          "history": "putra/treat",
+          "answer": "open"
+        }
+      ]
+    },
+    {
+      "surface": "putrīyati",
+      "context": "has_patient_compared_to_son",
+      "query": {
+        "predicate": "treat_as_son",
+        "arguments": [
+          "actor",
+          "patient"
+        ]
+      },
+      "answers": [
+        {
+          "history": "putra/treat",
+          "answer": "entailed"
+        }
+      ]
+    },
+    {
+      "surface": "muṇḍayate",
+      "context": "own_principal_result",
+      "query": {
+        "predicate": "same_person",
+        "arguments": [
+          "actor",
+          "patient"
+        ]
+      },
+      "answers": [
+        {
+          "history": "muṇḍa/result",
+          "answer": "open"
+        }
+      ]
+    },
+    {
+      "surface": "muṇḍayate",
+      "context": "own_principal_result",
+      "query": {
+        "predicate": "result_goes_to",
+        "arguments": [
+          "actor"
+        ]
+      },
+      "answers": [
+        {
+          "history": "muṇḍa/result",
+          "answer": "entailed"
+        }
+      ]
+    }
+  ]
+}

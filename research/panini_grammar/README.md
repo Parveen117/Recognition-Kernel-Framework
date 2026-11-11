@@ -1410,6 +1410,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG159 — What an event reading asserts, excludes or leaves open.** [Packet](denominative_event_entailments/README.md). Zero new finite positions. Cumulative **35,753**.
+
 **PG158 — Four witnessed aorists and the nominal vowel before ṇic.** [Packet](munda_nominal_aorists/README.md). 198 positions, 198 readings and 270 paths. Cumulative **35,753**.
 
 **PG157 — Future, blessing and perfect of the nominal ṇic actions.** [Packet](munda_nominal_outer/README.md). 990 positions, 1,962 readings and 2,622 paths. Cumulative **35,555**.
