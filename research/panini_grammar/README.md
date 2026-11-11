@@ -1408,6 +1408,11 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG132 — Noun boundaries and dependent consonants before ky:** [packet](nominal_boundary_dependencies/README.md) adds
+**450 positions / 658 readings / 658 paths**; cumulative **30,443**.
+Selected target 450/450; Python 3.12 static checks only,
+grammar tests/generators/replay deferred.
+
 **PG131 — Outer purpose-conditioned forms and a water-form lower bound:** [packet](nominal_desire_outer/README.md) adds
 **108 positions / 368 readings / 368 paths**; cumulative **29,993**.
 Selected target 108/108; Python 3.12 static checks only,
