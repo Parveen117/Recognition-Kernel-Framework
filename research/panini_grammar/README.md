@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG229 — Perfect auxiliaries with patient and impersonal agreement.** [Packet](nonagent_perfect_auxiliaries_and_grid/README.md). 60 positions, 176 readings and 176 paths. Cumulative **44,882**.
+
 **PG228 — Activity and patient futures, conditionals and benedictives.** [Packet](nonagent_futures_conditionals_and_blessings/README.md). 240 positions, 362 readings and 362 paths. Cumulative **44,822**.
 
 **PG227 — Radical accent and actual ciṇ in the activity and patient aorists.** [Packet](basic_cin_and_nonagent_aorists/README.md). 57 positions, 87 readings and 87 paths. Cumulative **44,582**.
