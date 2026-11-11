@@ -1,0 +1,278 @@
+{
+  "frame": {
+    "id": "KIRATA_11_81_QUOTATION",
+    "events": [
+      {
+        "id": "utter",
+        "predicate": "speak",
+        "formation": "ud + car + ṇic, lyap"
+      },
+      {
+        "id": "vanish",
+        "predicate": "disappear",
+        "formation": "tiras + bhū, impersonal liṭ"
+      },
+      {
+        "id": "stir",
+        "predicate": "make the opponents’ Fortune eager for oneself",
+        "formation": "sam + utsuka + ṇic, kartari luṭ"
+      },
+      {
+        "id": "pleased",
+        "predicate": "be pleased",
+        "formation": "prī, past participle in a locative absolute"
+      }
+    ],
+    "entities": [
+      {
+        "id": "indra",
+        "lemma": "indra",
+        "surface_status": "overt"
+      },
+      {
+        "id": "arjuna",
+        "lemma": "arjuna",
+        "surface_status": "implicit"
+      },
+      {
+        "id": "fortune",
+        "lemma": "lakṣmī",
+        "surface_status": "overt"
+      },
+      {
+        "id": "shiva",
+        "lemma": "pinākin",
+        "surface_status": "overt"
+      },
+      {
+        "id": "speech",
+        "lemma": "vāc",
+        "surface_status": "overt"
+      }
+    ],
+    "role_edges": [
+      {
+        "event": "utter",
+        "entity": "indra",
+        "role": "speaker shared with the agent of the main verb",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": null,
+        "source_rows": [
+          "BhKir_11.80/l[2]"
+        ],
+        "source_status": "contextual"
+      },
+      {
+        "event": "utter",
+        "entity": "speech",
+        "role": "utterance",
+        "designations": [
+          "karman"
+        ],
+        "case": "accusative",
+        "source_rows": [
+          "BhKir_11.81/l[2]"
+        ],
+        "source_status": "explicit"
+      },
+      {
+        "event": "vanish",
+        "entity": "indra",
+        "role": "agent expressed by tena",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": "instrumental",
+        "source_rows": [
+          "BhKir_11.81/l[2]"
+        ],
+        "source_status": "explicit"
+      },
+      {
+        "event": "stir",
+        "entity": "arjuna",
+        "role": "addressee and prospective agent",
+        "designations": [
+          "kartṛ"
+        ],
+        "case": null,
+        "source_rows": [
+          "BhKir_11.80/l[1]"
+        ],
+        "source_status": "contextual"
+      },
+      {
+        "event": "stir",
+        "entity": "fortune",
+        "role": "object to be made eager",
+        "designations": [
+          "karman"
+        ],
+        "case": "accusative",
+        "source_rows": [
+          "BhKir_11.81/l[2]"
+        ],
+        "source_status": "explicit"
+      },
+      {
+        "event": "pleased",
+        "entity": "shiva",
+        "role": "bearer of the resulting state under a patient reading of the participle",
+        "designations": [
+          "karman"
+        ],
+        "case": "locative",
+        "source_rows": [
+          "BhKir_11.81/l[1]"
+        ],
+        "source_status": "explicit"
+      }
+    ],
+    "agreement": [
+      {
+        "event": "stir",
+        "controller": "arjuna",
+        "slot": "2sg"
+      }
+    ],
+    "event_links": [
+      {
+        "from": "utter",
+        "relation": "precedes",
+        "to": "vanish"
+      }
+    ],
+    "source_scope": "Kirātārjunīya 11.80–81, selected action and state relations. The lexical and voice decisions on the two finite verbs follow Mallinātha’s Ghaṇṭāpatha at 11.81."
+  },
+  "anchors": {
+    "prīte": [
+      [
+        1,
+        0,
+        5,
+        "W"
+      ]
+    ],
+    "pinākini": [
+      [
+        1,
+        6,
+        14,
+        "W"
+      ]
+    ],
+    "lakṣmīṃ": [
+      [
+        2,
+        0,
+        7,
+        "W"
+      ]
+    ],
+    "samutsukayitāsi": [
+      [
+        2,
+        8,
+        23,
+        "W"
+      ]
+    ],
+    "uccārya": [
+      [
+        2,
+        39,
+        46,
+        "W"
+      ]
+    ],
+    "vācam": [
+      [
+        2,
+        47,
+        52,
+        "W"
+      ]
+    ],
+    "iti": [
+      [
+        2,
+        53,
+        56,
+        "W"
+      ]
+    ],
+    "tena": [
+      [
+        2,
+        57,
+        61,
+        "W"
+      ]
+    ],
+    "tirobabhūve": [
+      [
+        2,
+        62,
+        73,
+        "W"
+      ]
+    ]
+  },
+  "preceding_verse_anchors": {
+    "tanūjam": [
+      [
+        1,
+        35,
+        42,
+        "W"
+      ]
+    ],
+    "maghavā": [
+      [
+        2,
+        13,
+        20,
+        "W"
+      ]
+    ]
+  },
+  "quoted_content": {
+    "speaker": "indra",
+    "addressee": "arjuna",
+    "condition": "pleased",
+    "prospective_event": "stir",
+    "asserting_event": "utter"
+  },
+  "impersonal": {
+    "event": "vanish",
+    "agent": "indra",
+    "finite_slot": "3sg",
+    "agreement_controller": null
+  },
+  "models": [
+    {
+      "utterance_occurs": true,
+      "speaker_vanishes": true,
+      "arjuna_is_predicted_actor": true,
+      "indra_is_predicted_actor": false,
+      "predicted_event_occurs": false
+    },
+    {
+      "utterance_occurs": true,
+      "speaker_vanishes": true,
+      "arjuna_is_predicted_actor": true,
+      "indra_is_predicted_actor": false,
+      "predicted_event_occurs": true
+    }
+  ],
+  "query_results": {
+    "utterance_occurs": "entailed",
+    "speaker_vanishes": "entailed",
+    "arjuna_is_predicted_actor": "entailed",
+    "indra_is_predicted_actor": "excluded",
+    "predicted_event_occurs": "open"
+  },
+  "lexical_extension": "3.1.25#1 cites the gaṇasūtra tat karoti"
+}
