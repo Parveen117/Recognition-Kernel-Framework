@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG212 — Feminine suffix histories across thirteen sense-specific declensions.** [Packet](gauradi_sense_and_declension/README.md). Zero new finite positions. Cumulative **42,485**.
+
 **PG211 — The two gaurādi lists and six conditions on the feminine.** [Packet](gauradi_members_and_conditions/README.md). Zero new finite positions. Cumulative **42,485**.
 
 **PG210 — Perceiving, hearing and listening in Bhāgavata clauses.** [Packet](bhagavata_nisam_concordance/README.md). Zero new finite positions. Cumulative **42,485**.
