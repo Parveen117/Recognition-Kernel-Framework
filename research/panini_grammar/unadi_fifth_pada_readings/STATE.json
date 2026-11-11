@@ -1,0 +1,93 @@
+{
+  "schema": "rkf.panini.pg180.state.v1",
+  "author": "Monty",
+  "date": "2026-11-11",
+  "baseline": {
+    "path": "research/panini_grammar/unadi_fourth_pada_readings/STATE.json",
+    "commit": "eb5f0772cf473d61f5dc1e6a1848a3b30f792a8f",
+    "git_blob_sha": "2320c037ab2ca5f4705e917eeb12ad93d94a88c7",
+    "sha256": "b16d9585faadcd7b73a2b7765a35ef92efdca2e5511e1126bd772f4ffd0d3c1f",
+    "bytes": 3321
+  },
+  "finite_positions": 40379,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_written_table_readings": 0,
+  "retained_path_count": 0,
+  "position_accounting": {
+    "forms": [],
+    "panels": [],
+    "complete_nine_slot_paradigms": 0
+  },
+  "contextual_profiles": {},
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "Other enumerated members, variant histories, accent and inflections can have further obligations within reviewed Uṇādi addresses.",
+    "Traditional cross-word iṭ decision in 45 PG121 middle perfects.",
+    "Linguistic coverage beyond selected lexical, syntactic and Vedic domains and Claude’s executable verification."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Checked all 70 local rule numbers and Sanskrit quote intervals, verified 6 selected Kośa comparisons and the cumulative address union."
+  },
+  "unadi_text_records": 748,
+  "unadi_reviewed_in_this_lexical_register": 748,
+  "unadi_lexical_records_remaining": 0,
+  "disputed_desiderative_middle_perfect_requests": 45,
+  "full_unadi_written_set_audit": {
+    "checked_source_addresses": 748,
+    "checked_distinct_written_addresses": 748,
+    "unmatched_addresses": [],
+    "per_pada": {
+      "1": 157,
+      "2": 123,
+      "3": 160,
+      "4": 238,
+      "5": 70
+    },
+    "finite_position_credit": 0,
+    "scope": "One or more selected lexical cases at each source address. Ordered relationships, exemptions, accent and inflection can require further evidence."
+  }
+}
