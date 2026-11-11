@@ -1410,6 +1410,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG174 — Two Sanskrit dictionaries indexed against all 748 Uṇādi records.** [Packet](unadi_dictionary_concordance/README.md). Zero new finite positions. Cumulative **40,379**.
+
 **PG173 — An inherited accent and forty lexical readings of Uṇādi u.** [Packet](unadi_u_lexical_readings/README.md). Zero new finite positions. Cumulative **40,379**.
 
 **PG172 — All 748 Uṇādi text addresses and the first two suffix families.** [Packet](unadi_concordance/README.md). Zero new finite positions. Cumulative **40,379**.

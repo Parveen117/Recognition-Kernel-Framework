@@ -1,0 +1,90 @@
+{
+  "schema": "rkf.panini.pg174.state.v1",
+  "author": "Monty",
+  "date": "2026-11-11",
+  "baseline": {
+    "path": "research/panini_grammar/unadi_u_lexical_readings/STATE.json",
+    "commit": "a44341a53ae903254407dd78a2d146b06612ca26",
+    "git_blob_sha": "096fd33efd2be623c846bc2d56aadc86a95fe493",
+    "sha256": "677be3c3e215d5a6522f1c4781fc55fef83eb37b312ca09b0998ff9495a572b8",
+    "bytes": 3195
+  },
+  "finite_positions": 40379,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_written_table_readings": 0,
+  "retained_path_count": 0,
+  "position_accounting": {
+    "forms": [],
+    "panels": [],
+    "complete_nine_slot_paradigms": 0
+  },
+  "contextual_profiles": {},
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "Uṇādi lexical licensing from 1.22 onward (727 other records in this ledger); full accent and declension realization.",
+    "Traditional same-word applicability on the 45 PG121 middle perfects.",
+    "General lexical and sentence admission, Vedic readings, and a validated executable grammar."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Checked every relevant dictionary tag against an independent full-file total, unique entry/tag selectors, reference classes and the exact commentary token intervals on single numbered references."
+  },
+  "unadi_text_records": 748,
+  "unadi_reviewed_in_this_lexical_register": 21,
+  "unadi_lexical_records_remaining": 727,
+  "external_dictionary_coverage": {
+    "source_records": 748,
+    "dictionary_tags": 1797,
+    "single_address_in_range_records": 602,
+    "only_group_address_records": 6,
+    "no_in_range_locator_records": 140,
+    "records_with_literal_commentary_token_and_single_citation": 171,
+    "tags_with_literal_commentary_token_and_single_citation": 221,
+    "unnumbered_or_underspecified_tags": 223,
+    "fully_numbered_tags_with_out_of_range_id": 10,
+    "nontransliterable_primary_prose_tokens_skipped": 0
+  }
+}
