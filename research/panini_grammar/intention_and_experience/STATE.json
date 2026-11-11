@@ -1,0 +1,6246 @@
+{
+  "schema": "rkf.panini.pg149.state.v1",
+  "author": "Monty",
+  "date": "2026-11-11",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "7f2a2e5d78b93bc71a28bca97a0a3624c976575c",
+    "path": "research/panini_grammar/desiderative_perfect_policy/STATE.json",
+    "git_blob_sha": "10f3882928f63faeeaf93b1aa6737def17faf914"
+  },
+  "new_positions": 450,
+  "finite_positions": 33233,
+  "new_position_readings": 640,
+  "new_written_table_readings": 640,
+  "retained_path_count": 1024,
+  "path_expansion": "One retained path per (profile, lakara, slot, reading, guard_id). Ending and auxiliary distinctions use the pinned PG145/146 table cell with the same lakara, slot and reading index.",
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "satrāyate"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "asatrāyata"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "satrāyatām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "satrāyeta"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "satrāyete"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "asatrāyetām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "satrāyetām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "satrāyeyātām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "satrāyante"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "asatrāyanta"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "satrāyantām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "satrāyeran"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "satrāyase"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "asatrāyathāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "satrāyasva"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "satrāyethāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "satrāyethe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "asatrāyethām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "satrāyethām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "satrāyeyāthām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "satrāyadhve"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "asatrāyadhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "satrāyadhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "satrāyedhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "satrāye"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "asatrāye"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "satrāyai"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "satrāyeya"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "satrāyāvahe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "asatrāyāvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "satrāyāvahai"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "satrāyevahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "satrāyāmahe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "asatrāyāmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "satrāyāmahai"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "satrāyemahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "satrāyiṣyate"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "satrāyitā"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "asatrāyiṣyata"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "satrāyiṣīṣṭa"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "satrāyāṃcakre",
+          "satrāyāñcakre",
+          "satrāyāṃbabhūva",
+          "satrāyāmbabhūva",
+          "satrāyāmāsa"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "asatrāyiṣṭa"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "satrāyiṣyete"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "satrāyitārau"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "asatrāyiṣyetām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "satrāyiṣīyāstām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "satrāyāṃcakrāte",
+          "satrāyāñcakrāte",
+          "satrāyāṃbabhūvatuḥ",
+          "satrāyāmbabhūvatuḥ",
+          "satrāyāmāsatuḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "asatrāyiṣātām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "satrāyiṣyante"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "satrāyitāraḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "asatrāyiṣyanta"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "satrāyiṣīran"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "satrāyāṃcakrire",
+          "satrāyāñcakrire",
+          "satrāyāṃbabhūvuḥ",
+          "satrāyāmbabhūvuḥ",
+          "satrāyāmāsuḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "asatrāyiṣata"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "satrāyiṣyase"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "satrāyitāse"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "asatrāyiṣyathāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "satrāyiṣīṣṭhāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "satrāyāṃcakṛṣe",
+          "satrāyāñcakṛṣe",
+          "satrāyāṃbabhūvitha",
+          "satrāyāmbabhūvitha",
+          "satrāyāmāsitha"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "asatrāyiṣṭhāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "satrāyiṣyethe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "satrāyitāsāthe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "asatrāyiṣyethām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "satrāyiṣīyāsthām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "satrāyāṃcakrāthe",
+          "satrāyāñcakrāthe",
+          "satrāyāṃbabhūvathuḥ",
+          "satrāyāmbabhūvathuḥ",
+          "satrāyāmāsathuḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "asatrāyiṣāthām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "satrāyiṣyadhve"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "satrāyitādhve"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "asatrāyiṣyadhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "satrāyiṣīdhvam",
+          "satrāyiṣīḍhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "satrāyāṃcakṛḍhve",
+          "satrāyāñcakṛḍhve",
+          "satrāyāṃbabhūva",
+          "satrāyāmbabhūva",
+          "satrāyāmāsa"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "asatrāyidhvam",
+          "asatrāyiḍhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "satrāyiṣye"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "satrāyitāhe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "asatrāyiṣye"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "satrāyiṣīya"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "satrāyāṃcakre",
+          "satrāyāñcakre",
+          "satrāyāṃbabhūva",
+          "satrāyāmbabhūva",
+          "satrāyāmāsa"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "asatrāyiṣi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "satrāyiṣyāvahe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "satrāyitāsvahe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "asatrāyiṣyāvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "satrāyiṣīvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "satrāyāṃcakṛvahe",
+          "satrāyāñcakṛvahe",
+          "satrāyāṃbabhūviva",
+          "satrāyāmbabhūviva",
+          "satrāyāmāsiva"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "asatrāyiṣvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "satrāyiṣyāmahe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "satrāyitāsmahe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "asatrāyiṣyāmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "satrāyiṣīmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "satrāyāṃcakṛmahe",
+          "satrāyāñcakṛmahe",
+          "satrāyāṃbabhūvima",
+          "satrāyāmbabhūvima",
+          "satrāyāmāsima"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "asatrāyiṣmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "kaṣṭāyate"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "akaṣṭāyata"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "kaṣṭāyatām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "kaṣṭāyeta"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "kaṣṭāyete"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "akaṣṭāyetām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "kaṣṭāyetām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "kaṣṭāyeyātām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "kaṣṭāyante"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "akaṣṭāyanta"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "kaṣṭāyantām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "kaṣṭāyeran"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "kaṣṭāyase"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "akaṣṭāyathāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "kaṣṭāyasva"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "kaṣṭāyethāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "kaṣṭāyethe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "akaṣṭāyethām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "kaṣṭāyethām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "kaṣṭāyeyāthām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "kaṣṭāyadhve"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "akaṣṭāyadhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "kaṣṭāyadhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "kaṣṭāyedhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "kaṣṭāye"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "akaṣṭāye"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "kaṣṭāyai"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "kaṣṭāyeya"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "kaṣṭāyāvahe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "akaṣṭāyāvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "kaṣṭāyāvahai"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "kaṣṭāyevahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "kaṣṭāyāmahe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "akaṣṭāyāmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "kaṣṭāyāmahai"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "kaṣṭāyemahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "kaṣṭāyiṣyate"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "kaṣṭāyitā"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "akaṣṭāyiṣyata"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "kaṣṭāyiṣīṣṭa"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "kaṣṭāyāṃcakre",
+          "kaṣṭāyāñcakre",
+          "kaṣṭāyāṃbabhūva",
+          "kaṣṭāyāmbabhūva",
+          "kaṣṭāyāmāsa"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "akaṣṭāyiṣṭa"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "kaṣṭāyiṣyete"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "kaṣṭāyitārau"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "akaṣṭāyiṣyetām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "kaṣṭāyiṣīyāstām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "kaṣṭāyāṃcakrāte",
+          "kaṣṭāyāñcakrāte",
+          "kaṣṭāyāṃbabhūvatuḥ",
+          "kaṣṭāyāmbabhūvatuḥ",
+          "kaṣṭāyāmāsatuḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "akaṣṭāyiṣātām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "kaṣṭāyiṣyante"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "kaṣṭāyitāraḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "akaṣṭāyiṣyanta"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "kaṣṭāyiṣīran"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "kaṣṭāyāṃcakrire",
+          "kaṣṭāyāñcakrire",
+          "kaṣṭāyāṃbabhūvuḥ",
+          "kaṣṭāyāmbabhūvuḥ",
+          "kaṣṭāyāmāsuḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "akaṣṭāyiṣata"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "kaṣṭāyiṣyase"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "kaṣṭāyitāse"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "akaṣṭāyiṣyathāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "kaṣṭāyiṣīṣṭhāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "kaṣṭāyāṃcakṛṣe",
+          "kaṣṭāyāñcakṛṣe",
+          "kaṣṭāyāṃbabhūvitha",
+          "kaṣṭāyāmbabhūvitha",
+          "kaṣṭāyāmāsitha"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "akaṣṭāyiṣṭhāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "kaṣṭāyiṣyethe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "kaṣṭāyitāsāthe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "akaṣṭāyiṣyethām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "kaṣṭāyiṣīyāsthām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "kaṣṭāyāṃcakrāthe",
+          "kaṣṭāyāñcakrāthe",
+          "kaṣṭāyāṃbabhūvathuḥ",
+          "kaṣṭāyāmbabhūvathuḥ",
+          "kaṣṭāyāmāsathuḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "akaṣṭāyiṣāthām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "kaṣṭāyiṣyadhve"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "kaṣṭāyitādhve"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "akaṣṭāyiṣyadhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "kaṣṭāyiṣīdhvam",
+          "kaṣṭāyiṣīḍhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "kaṣṭāyāṃcakṛḍhve",
+          "kaṣṭāyāñcakṛḍhve",
+          "kaṣṭāyāṃbabhūva",
+          "kaṣṭāyāmbabhūva",
+          "kaṣṭāyāmāsa"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "akaṣṭāyidhvam",
+          "akaṣṭāyiḍhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "kaṣṭāyiṣye"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "kaṣṭāyitāhe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "akaṣṭāyiṣye"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "kaṣṭāyiṣīya"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "kaṣṭāyāṃcakre",
+          "kaṣṭāyāñcakre",
+          "kaṣṭāyāṃbabhūva",
+          "kaṣṭāyāmbabhūva",
+          "kaṣṭāyāmāsa"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "akaṣṭāyiṣi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "kaṣṭāyiṣyāvahe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "kaṣṭāyitāsvahe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "akaṣṭāyiṣyāvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "kaṣṭāyiṣīvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "kaṣṭāyāṃcakṛvahe",
+          "kaṣṭāyāñcakṛvahe",
+          "kaṣṭāyāṃbabhūviva",
+          "kaṣṭāyāmbabhūviva",
+          "kaṣṭāyāmāsiva"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "akaṣṭāyiṣvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "kaṣṭāyiṣyāmahe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "kaṣṭāyitāsmahe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "akaṣṭāyiṣyāmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "kaṣṭāyiṣīmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "kaṣṭāyāṃcakṛmahe",
+          "kaṣṭāyāñcakṛmahe",
+          "kaṣṭāyāṃbabhūvima",
+          "kaṣṭāyāmbabhūvima",
+          "kaṣṭāyāmāsima"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "akaṣṭāyiṣmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "crooked_undertaking"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "kakṣāyate"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "akakṣāyata"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "kakṣāyatām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "kakṣāyeta"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "kakṣāyete"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "akakṣāyetām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "kakṣāyetām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "kakṣāyeyātām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "kakṣāyante"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "akakṣāyanta"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "kakṣāyantām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "kakṣāyeran"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "kakṣāyase"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "akakṣāyathāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "kakṣāyasva"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "kakṣāyethāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "kakṣāyethe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "akakṣāyethām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "kakṣāyethām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "kakṣāyeyāthām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "kakṣāyadhve"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "akakṣāyadhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "kakṣāyadhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "kakṣāyedhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "kakṣāye"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "akakṣāye"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "kakṣāyai"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "kakṣāyeya"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "kakṣāyāvahe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "akakṣāyāvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "kakṣāyāvahai"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "kakṣāyevahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "kakṣāyāmahe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "akakṣāyāmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "kakṣāyāmahai"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "kakṣāyemahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "kakṣāyiṣyate"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "kakṣāyitā"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "akakṣāyiṣyata"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "kakṣāyiṣīṣṭa"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "kakṣāyāṃcakre",
+          "kakṣāyāñcakre",
+          "kakṣāyāṃbabhūva",
+          "kakṣāyāmbabhūva",
+          "kakṣāyāmāsa"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "akakṣāyiṣṭa"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "kakṣāyiṣyete"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "kakṣāyitārau"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "akakṣāyiṣyetām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "kakṣāyiṣīyāstām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "kakṣāyāṃcakrāte",
+          "kakṣāyāñcakrāte",
+          "kakṣāyāṃbabhūvatuḥ",
+          "kakṣāyāmbabhūvatuḥ",
+          "kakṣāyāmāsatuḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "akakṣāyiṣātām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "kakṣāyiṣyante"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "kakṣāyitāraḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "akakṣāyiṣyanta"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "kakṣāyiṣīran"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "kakṣāyāṃcakrire",
+          "kakṣāyāñcakrire",
+          "kakṣāyāṃbabhūvuḥ",
+          "kakṣāyāmbabhūvuḥ",
+          "kakṣāyāmāsuḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "akakṣāyiṣata"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "kakṣāyiṣyase"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "kakṣāyitāse"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "akakṣāyiṣyathāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "kakṣāyiṣīṣṭhāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "kakṣāyāṃcakṛṣe",
+          "kakṣāyāñcakṛṣe",
+          "kakṣāyāṃbabhūvitha",
+          "kakṣāyāmbabhūvitha",
+          "kakṣāyāmāsitha"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "akakṣāyiṣṭhāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "kakṣāyiṣyethe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "kakṣāyitāsāthe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "akakṣāyiṣyethām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "kakṣāyiṣīyāsthām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "kakṣāyāṃcakrāthe",
+          "kakṣāyāñcakrāthe",
+          "kakṣāyāṃbabhūvathuḥ",
+          "kakṣāyāmbabhūvathuḥ",
+          "kakṣāyāmāsathuḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "akakṣāyiṣāthām"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "kakṣāyiṣyadhve"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "kakṣāyitādhve"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "akakṣāyiṣyadhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "kakṣāyiṣīdhvam",
+          "kakṣāyiṣīḍhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "kakṣāyāṃcakṛḍhve",
+          "kakṣāyāñcakṛḍhve",
+          "kakṣāyāṃbabhūva",
+          "kakṣāyāmbabhūva",
+          "kakṣāyāmāsa"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "akakṣāyidhvam",
+          "akakṣāyiḍhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "kakṣāyiṣye"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "kakṣāyitāhe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "akakṣāyiṣye"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "kakṣāyiṣīya"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "kakṣāyāṃcakre",
+          "kakṣāyāñcakre",
+          "kakṣāyāṃbabhūva",
+          "kakṣāyāmbabhūva",
+          "kakṣāyāmāsa"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "akakṣāyiṣi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "kakṣāyiṣyāvahe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "kakṣāyitāsvahe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "akakṣāyiṣyāvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "kakṣāyiṣīvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "kakṣāyāṃcakṛvahe",
+          "kakṣāyāñcakṛvahe",
+          "kakṣāyāṃbabhūviva",
+          "kakṣāyāmbabhūviva",
+          "kakṣāyāmāsiva"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "akakṣāyiṣvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "kakṣāyiṣyāmahe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "kakṣāyitāsmahe"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "akakṣāyiṣyāmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "kakṣāyiṣīmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "kakṣāyāṃcakṛmahe",
+          "kakṣāyāñcakṛmahe",
+          "kakṣāyāṃbabhūvima",
+          "kakṣāyāmbabhūvima",
+          "kakṣāyāmāsima"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "akakṣāyiṣmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "kṛcchrāyate"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "akṛcchrāyata"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "kṛcchrāyatām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "kṛcchrāyeta"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "kṛcchrāyete"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "akṛcchrāyetām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "kṛcchrāyetām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "kṛcchrāyeyātām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "kṛcchrāyante"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "akṛcchrāyanta"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "kṛcchrāyantām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "kṛcchrāyeran"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "kṛcchrāyase"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "akṛcchrāyathāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "kṛcchrāyasva"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "kṛcchrāyethāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "kṛcchrāyethe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "akṛcchrāyethām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "kṛcchrāyethām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "kṛcchrāyeyāthām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "kṛcchrāyadhve"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "akṛcchrāyadhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "kṛcchrāyadhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "kṛcchrāyedhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "kṛcchrāye"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "akṛcchrāye"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "kṛcchrāyai"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "kṛcchrāyeya"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "kṛcchrāyāvahe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "akṛcchrāyāvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "kṛcchrāyāvahai"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "kṛcchrāyevahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "kṛcchrāyāmahe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "akṛcchrāyāmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "kṛcchrāyāmahai"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "kṛcchrāyemahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "kṛcchrāyiṣyate"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "kṛcchrāyitā"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "akṛcchrāyiṣyata"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "kṛcchrāyiṣīṣṭa"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "kṛcchrāyāṃcakre",
+          "kṛcchrāyāñcakre",
+          "kṛcchrāyāṃbabhūva",
+          "kṛcchrāyāmbabhūva",
+          "kṛcchrāyāmāsa"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "akṛcchrāyiṣṭa"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "kṛcchrāyiṣyete"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "kṛcchrāyitārau"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "akṛcchrāyiṣyetām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "kṛcchrāyiṣīyāstām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "kṛcchrāyāṃcakrāte",
+          "kṛcchrāyāñcakrāte",
+          "kṛcchrāyāṃbabhūvatuḥ",
+          "kṛcchrāyāmbabhūvatuḥ",
+          "kṛcchrāyāmāsatuḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "akṛcchrāyiṣātām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "kṛcchrāyiṣyante"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "kṛcchrāyitāraḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "akṛcchrāyiṣyanta"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "kṛcchrāyiṣīran"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "kṛcchrāyāṃcakrire",
+          "kṛcchrāyāñcakrire",
+          "kṛcchrāyāṃbabhūvuḥ",
+          "kṛcchrāyāmbabhūvuḥ",
+          "kṛcchrāyāmāsuḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "akṛcchrāyiṣata"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "kṛcchrāyiṣyase"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "kṛcchrāyitāse"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "akṛcchrāyiṣyathāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "kṛcchrāyiṣīṣṭhāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "kṛcchrāyāṃcakṛṣe",
+          "kṛcchrāyāñcakṛṣe",
+          "kṛcchrāyāṃbabhūvitha",
+          "kṛcchrāyāmbabhūvitha",
+          "kṛcchrāyāmāsitha"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "akṛcchrāyiṣṭhāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "kṛcchrāyiṣyethe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "kṛcchrāyitāsāthe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "akṛcchrāyiṣyethām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "kṛcchrāyiṣīyāsthām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "kṛcchrāyāṃcakrāthe",
+          "kṛcchrāyāñcakrāthe",
+          "kṛcchrāyāṃbabhūvathuḥ",
+          "kṛcchrāyāmbabhūvathuḥ",
+          "kṛcchrāyāmāsathuḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "akṛcchrāyiṣāthām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "kṛcchrāyiṣyadhve"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "kṛcchrāyitādhve"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "akṛcchrāyiṣyadhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "kṛcchrāyiṣīdhvam",
+          "kṛcchrāyiṣīḍhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "kṛcchrāyāṃcakṛḍhve",
+          "kṛcchrāyāñcakṛḍhve",
+          "kṛcchrāyāṃbabhūva",
+          "kṛcchrāyāmbabhūva",
+          "kṛcchrāyāmāsa"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "akṛcchrāyidhvam",
+          "akṛcchrāyiḍhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "kṛcchrāyiṣye"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "kṛcchrāyitāhe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "akṛcchrāyiṣye"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "kṛcchrāyiṣīya"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "kṛcchrāyāṃcakre",
+          "kṛcchrāyāñcakre",
+          "kṛcchrāyāṃbabhūva",
+          "kṛcchrāyāmbabhūva",
+          "kṛcchrāyāmāsa"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "akṛcchrāyiṣi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "kṛcchrāyiṣyāvahe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "kṛcchrāyitāsvahe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "akṛcchrāyiṣyāvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "kṛcchrāyiṣīvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "kṛcchrāyāṃcakṛvahe",
+          "kṛcchrāyāñcakṛvahe",
+          "kṛcchrāyāṃbabhūviva",
+          "kṛcchrāyāmbabhūviva",
+          "kṛcchrāyāmāsiva"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "akṛcchrāyiṣvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "kṛcchrāyiṣyāmahe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "kṛcchrāyitāsmahe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "akṛcchrāyiṣyāmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "kṛcchrāyiṣīmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "kṛcchrāyāṃcakṛmahe",
+          "kṛcchrāyāñcakṛmahe",
+          "kṛcchrāyāṃbabhūvima",
+          "kṛcchrāyāmbabhūvima",
+          "kṛcchrāyāmāsima"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "akṛcchrāyiṣmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "gahanāyate"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "agahanāyata"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "gahanāyatām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "gahanāyeta"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "gahanāyete"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "agahanāyetām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "gahanāyetām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "gahanāyeyātām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "gahanāyante"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "agahanāyanta"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "gahanāyantām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "gahanāyeran"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "gahanāyase"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "agahanāyathāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "gahanāyasva"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "gahanāyethāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "gahanāyethe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "agahanāyethām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "gahanāyethām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "gahanāyeyāthām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "gahanāyadhve"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "agahanāyadhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "gahanāyadhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "gahanāyedhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "gahanāye"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "agahanāye"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "gahanāyai"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "gahanāyeya"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "gahanāyāvahe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "agahanāyāvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "gahanāyāvahai"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "gahanāyevahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "gahanāyāmahe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "agahanāyāmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "gahanāyāmahai"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "gahanāyemahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "gahanāyiṣyate"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "gahanāyitā"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "agahanāyiṣyata"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "gahanāyiṣīṣṭa"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "gahanāyāṃcakre",
+          "gahanāyāñcakre",
+          "gahanāyāṃbabhūva",
+          "gahanāyāmbabhūva",
+          "gahanāyāmāsa"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "agahanāyiṣṭa"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "gahanāyiṣyete"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "gahanāyitārau"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "agahanāyiṣyetām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "gahanāyiṣīyāstām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "gahanāyāṃcakrāte",
+          "gahanāyāñcakrāte",
+          "gahanāyāṃbabhūvatuḥ",
+          "gahanāyāmbabhūvatuḥ",
+          "gahanāyāmāsatuḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "agahanāyiṣātām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "gahanāyiṣyante"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "gahanāyitāraḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "agahanāyiṣyanta"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "gahanāyiṣīran"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "gahanāyāṃcakrire",
+          "gahanāyāñcakrire",
+          "gahanāyāṃbabhūvuḥ",
+          "gahanāyāmbabhūvuḥ",
+          "gahanāyāmāsuḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "agahanāyiṣata"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "gahanāyiṣyase"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "gahanāyitāse"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "agahanāyiṣyathāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "gahanāyiṣīṣṭhāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "gahanāyāṃcakṛṣe",
+          "gahanāyāñcakṛṣe",
+          "gahanāyāṃbabhūvitha",
+          "gahanāyāmbabhūvitha",
+          "gahanāyāmāsitha"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "agahanāyiṣṭhāḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "gahanāyiṣyethe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "gahanāyitāsāthe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "agahanāyiṣyethām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "gahanāyiṣīyāsthām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "gahanāyāṃcakrāthe",
+          "gahanāyāñcakrāthe",
+          "gahanāyāṃbabhūvathuḥ",
+          "gahanāyāmbabhūvathuḥ",
+          "gahanāyāmāsathuḥ"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "agahanāyiṣāthām"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "gahanāyiṣyadhve"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "gahanāyitādhve"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "agahanāyiṣyadhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "gahanāyiṣīdhvam",
+          "gahanāyiṣīḍhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "gahanāyāṃcakṛḍhve",
+          "gahanāyāñcakṛḍhve",
+          "gahanāyāṃbabhūva",
+          "gahanāyāmbabhūva",
+          "gahanāyāmāsa"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "agahanāyidhvam",
+          "agahanāyiḍhvam"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "gahanāyiṣye"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "gahanāyitāhe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "agahanāyiṣye"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "gahanāyiṣīya"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "gahanāyāṃcakre",
+          "gahanāyāñcakre",
+          "gahanāyāṃbabhūva",
+          "gahanāyāmbabhūva",
+          "gahanāyāmāsa"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "agahanāyiṣi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "gahanāyiṣyāvahe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "gahanāyitāsvahe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "agahanāyiṣyāvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "gahanāyiṣīvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "gahanāyāṃcakṛvahe",
+          "gahanāyāñcakṛvahe",
+          "gahanāyāṃbabhūviva",
+          "gahanāyāmbabhūviva",
+          "gahanāyāmāsiva"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "agahanāyiṣvahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "gahanāyiṣyāmahe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "gahanāyitāsmahe"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "agahanāyiṣyāmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "gahanāyiṣīmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "gahanāyāṃcakṛmahe",
+          "gahanāyāñcakṛmahe",
+          "gahanāyāṃbabhūvima",
+          "gahanāyāmbabhūvima",
+          "gahanāyāmāsima"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "agahanāyiṣmahi"
+        ],
+        "guard_ids": [
+          "intended_wrong",
+          "own_experience"
+        ],
+        "new_position_credit": 1
+      }
+    ],
+    "panels": [
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lat",
+        "positions": 9
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lang",
+        "positions": 9
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lot",
+        "positions": 9
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "vidhiling",
+        "positions": 9
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrt",
+        "positions": 9
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lut",
+        "positions": 9
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lrng",
+        "positions": 9
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "ashirling",
+        "positions": 9
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lit",
+        "positions": 9
+      },
+      {
+        "profile": "SATRA_KYANG_A",
+        "lakara": "lung",
+        "positions": 9
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lat",
+        "positions": 9
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lang",
+        "positions": 9
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lot",
+        "positions": 9
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "vidhiling",
+        "positions": 9
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrt",
+        "positions": 9
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lut",
+        "positions": 9
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lrng",
+        "positions": 9
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "ashirling",
+        "positions": 9
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lit",
+        "positions": 9
+      },
+      {
+        "profile": "KASHTA_KYANG_A",
+        "lakara": "lung",
+        "positions": 9
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lat",
+        "positions": 9
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lang",
+        "positions": 9
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lot",
+        "positions": 9
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "vidhiling",
+        "positions": 9
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrt",
+        "positions": 9
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lut",
+        "positions": 9
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lrng",
+        "positions": 9
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "ashirling",
+        "positions": 9
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lit",
+        "positions": 9
+      },
+      {
+        "profile": "KAKSHA_KYANG_A",
+        "lakara": "lung",
+        "positions": 9
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lat",
+        "positions": 9
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lang",
+        "positions": 9
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lot",
+        "positions": 9
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "vidhiling",
+        "positions": 9
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrt",
+        "positions": 9
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lut",
+        "positions": 9
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lrng",
+        "positions": 9
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "ashirling",
+        "positions": 9
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lit",
+        "positions": 9
+      },
+      {
+        "profile": "KRCCHRA_KYANG_A",
+        "lakara": "lung",
+        "positions": 9
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lat",
+        "positions": 9
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lang",
+        "positions": 9
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lot",
+        "positions": 9
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "vidhiling",
+        "positions": 9
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrt",
+        "positions": 9
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lut",
+        "positions": 9
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lrng",
+        "positions": 9
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "ashirling",
+        "positions": 9
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lit",
+        "positions": 9
+      },
+      {
+        "profile": "GAHANA_KYANG_A",
+        "lakara": "lung",
+        "positions": 9
+      }
+    ],
+    "complete_nine_slot_paradigms": 50
+  },
+  "contextual_profiles": {
+    "SATRA_KYANG_A": {
+      "profile": "SATRA_KYANG_A",
+      "root": "satra",
+      "source_present_3sg": "सत्रायते",
+      "guard_ids": [
+        "intended_wrong"
+      ],
+      "stem": "satrāya",
+      "pada": "A",
+      "affix": "kyaṅ"
+    },
+    "KASHTA_KYANG_A": {
+      "profile": "KASHTA_KYANG_A",
+      "root": "kaṣṭa",
+      "source_present_3sg": "कष्टायते",
+      "guard_ids": [
+        "intended_wrong",
+        "crooked_undertaking"
+      ],
+      "stem": "kaṣṭāya",
+      "pada": "A",
+      "affix": "kyaṅ"
+    },
+    "KAKSHA_KYANG_A": {
+      "profile": "KAKSHA_KYANG_A",
+      "root": "kakṣa",
+      "source_present_3sg": "कक्षायते",
+      "guard_ids": [
+        "intended_wrong"
+      ],
+      "stem": "kakṣāya",
+      "pada": "A",
+      "affix": "kyaṅ"
+    },
+    "KRCCHRA_KYANG_A": {
+      "profile": "KRCCHRA_KYANG_A",
+      "root": "kṛcchra",
+      "source_present_3sg": "कृच्छ्रायते",
+      "guard_ids": [
+        "intended_wrong",
+        "own_experience"
+      ],
+      "stem": "kṛcchrāya",
+      "pada": "A",
+      "affix": "kyaṅ"
+    },
+    "GAHANA_KYANG_A": {
+      "profile": "GAHANA_KYANG_A",
+      "root": "gahana",
+      "source_present_3sg": "गहनायते",
+      "guard_ids": [
+        "intended_wrong",
+        "own_experience"
+      ],
+      "stem": "gahanāya",
+      "pada": "A",
+      "affix": "kyaṅ"
+    }
+  },
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "new_catalogue_ids": [],
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "Traditional same-word applicability in the 45 A perfects remains unresolved.",
+    "54 PG131 outer udaka requests retain lower-bound status.",
+    "Other orthographies and lexical senses need their own source scope."
+  ],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "python_run_for_this_packet": false,
+    "document_checks": "Static table and source comparisons in JavaScript. No Python runtime was available for this last packet.",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}

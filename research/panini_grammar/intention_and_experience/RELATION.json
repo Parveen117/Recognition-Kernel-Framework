@@ -1,0 +1,156 @@
+{
+  "schema": "rkf.panini.pg149.relation.v1",
+  "guards": {
+    "intended_wrong": {
+      "rule": "3.1.14",
+      "authority": "Kāśikā, reported extension; Siddhāntakaumudī on the same extension",
+      "input_case": "accusative",
+      "requires": [
+        "intent_to_perform_wrong"
+      ],
+      "role": "intended deed",
+      "source": "intention"
+    },
+    "crooked_undertaking": {
+      "rule": "3.1.14",
+      "authority": "sūtra as read in Kāśikā and Siddhāntakaumudī",
+      "input_case": "dative",
+      "requires": [
+        "purpose_of_crooked_undertaking"
+      ],
+      "role": "purpose",
+      "source": "intention"
+    },
+    "own_experience": {
+      "rule": "3.1.18",
+      "authority": "Kāśikā, listed member of sukhādi",
+      "input_case": "accusative",
+      "requires": [
+        "direct_experience",
+        "actor_is_bearer_of_experienced_state"
+      ],
+      "role": "experienced state",
+      "source": "experience"
+    }
+  },
+  "profiles": [
+    {
+      "profile": "SATRA_KYANG_A",
+      "root": "satra",
+      "source_present_3sg": "सत्रायते",
+      "guard_ids": [
+        "intended_wrong"
+      ],
+      "stem": "satrāya",
+      "pada": "A",
+      "affix": "kyaṅ"
+    },
+    {
+      "profile": "KASHTA_KYANG_A",
+      "root": "kaṣṭa",
+      "source_present_3sg": "कष्टायते",
+      "guard_ids": [
+        "intended_wrong",
+        "crooked_undertaking"
+      ],
+      "stem": "kaṣṭāya",
+      "pada": "A",
+      "affix": "kyaṅ"
+    },
+    {
+      "profile": "KAKSHA_KYANG_A",
+      "root": "kakṣa",
+      "source_present_3sg": "कक्षायते",
+      "guard_ids": [
+        "intended_wrong"
+      ],
+      "stem": "kakṣāya",
+      "pada": "A",
+      "affix": "kyaṅ"
+    },
+    {
+      "profile": "KRCCHRA_KYANG_A",
+      "root": "kṛcchra",
+      "source_present_3sg": "कृच्छ्रायते",
+      "guard_ids": [
+        "intended_wrong",
+        "own_experience"
+      ],
+      "stem": "kṛcchrāya",
+      "pada": "A",
+      "affix": "kyaṅ"
+    },
+    {
+      "profile": "GAHANA_KYANG_A",
+      "root": "gahana",
+      "source_present_3sg": "गहनायते",
+      "guard_ids": [
+        "intended_wrong",
+        "own_experience"
+      ],
+      "stem": "gahanāya",
+      "pada": "A",
+      "affix": "kyaṅ"
+    }
+  ],
+  "queries": [
+    {
+      "profile": "KASHTA_KYANG_A",
+      "surface": "kaṣṭāyate",
+      "features": null,
+      "admitted": [
+        "intended_wrong",
+        "crooked_undertaking"
+      ]
+    },
+    {
+      "profile": "KRCCHRA_KYANG_A",
+      "surface": "kṛcchrāyate",
+      "features": null,
+      "admitted": [
+        "intended_wrong",
+        "own_experience"
+      ]
+    },
+    {
+      "profile": "GAHANA_KYANG_A",
+      "surface": "gahanāyate",
+      "features": null,
+      "admitted": [
+        "intended_wrong",
+        "own_experience"
+      ]
+    },
+    {
+      "profile": "GAHANA_KYANG_A",
+      "surface": "gahanāyate",
+      "features": [
+        "direct_experience",
+        "actor_is_bearer_of_experienced_state"
+      ],
+      "closed_features": true,
+      "admitted": [
+        "own_experience"
+      ]
+    },
+    {
+      "profile": "KASHTA_KYANG_A",
+      "source_phrase": "ajaḥ kaṣṭaṃ krāmati",
+      "features": [
+        "literal_locomotion"
+      ],
+      "closed_features": true,
+      "admitted": []
+    },
+    {
+      "profile": "KRCCHRA_KYANG_A",
+      "scenario": "The actor perceives another person’s hardship; there is no intention to commit a wrong.",
+      "features": [
+        "different_bearer"
+      ],
+      "closed_features": true,
+      "admitted": []
+    }
+  ],
+  "query_semantics": "With null features return candidate histories. A closed feature set supplies all positive facts for this bounded query. Select profile histories whose entire requires list is present. Empty output denies only the selected denominative route."
+}
