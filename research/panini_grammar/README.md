@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG269 — The smeared object, the threshold and the one who has a body.** [Packet](smeared_object_body_bearer_and_threshold/README.md). Zero new finite positions. Cumulative **49,310**.
+
 **PG268 — Four ordered active schedules, two ci perfects and the carried pair.** [Packet](four_ordered_ni_perfects_and_aorist_contrasts/README.md). 144 positions, 178 readings and 178 paths. Cumulative **49,310**.
 
 **PG267 — Four future bases and the vowel-initial blessings of sowing and carrying.** [Packet](four_ordered_ni_futures_and_weak_blessings/README.md). 288 positions, 288 readings and 288 paths. Cumulative **49,166**.
