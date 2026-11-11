@@ -688,6 +688,8 @@ The canonical operator engine and frozen evidence remain unchanged.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+[11 November Sanskrit session record](research/panini_grammar/session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
+
 ## PG150 · Prefixed ṇiṅ in the present
 
 [Five source-qualified requests across nine slots](research/panini_grammar/prefixed_ning_present/README.md) add 45 positions, 63 readings and 81 word–history pairs. Cumulative **33,278**.
