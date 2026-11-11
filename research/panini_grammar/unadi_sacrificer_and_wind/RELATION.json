@@ -1,0 +1,150 @@
+{
+  "scope": "Five-pāda Uṇādi 4.105 and individually identified lexical paths in aligned sources.",
+  "prior": {
+    "direct": 98,
+    "inferred": 1,
+    "open": 4,
+    "total": 103
+  },
+  "current": {
+    "direct": 99,
+    "inferred": 0,
+    "open": 4,
+    "total": 103
+  },
+  "primary_4_105": [
+    {
+      "affix": "itvan",
+      "status": "direct",
+      "evidence": "PG183 and the earlier lexical evidence for petva"
+    },
+    {
+      "affix": "tvan",
+      "status": "direct",
+      "evidence": "netvaḥ, the explicit Nārāyaṇa example; Satyavrata 4.106, p. 200, also names tvan for dhyātva (thought)."
+    },
+    {
+      "affix": "tnaṇ",
+      "status": "direct",
+      "evidence": "Glossarial index to Mahādeva, p. 260: hu + tnaṇ under 4.105, with hotna in the sacrificer sense. The independent au spelling in Ujjvaladatta remains a separate reading."
+    },
+    {
+      "affix": "knin",
+      "status": "direct",
+      "evidence": "lūniḥ, with the lū + kni indication in Śvetavanavāsin"
+    },
+    {
+      "affix": "śak",
+      "status": "direct",
+      "evidence": "kaccha in Ujjvaladatta"
+    },
+    {
+      "affix": "sya",
+      "status": "open",
+      "evidence": "Matsya is given under the ordered precursor. No additional root with this literal affix is identified under the extension in the inspected pages."
+    },
+    {
+      "affix": "ḍha",
+      "status": "open",
+      "evidence": "The comparative list instead names distinct technical affixes including kha/ṭha. Do not equate them to primary ḍha."
+    },
+    {
+      "affix": "ḍaṭ",
+      "status": "open",
+      "evidence": "The comparative ṭa or ṭak entries differ from primary ḍaṭ in initial or final marker."
+    },
+    {
+      "affix": "āṭac",
+      "status": "open",
+      "evidence": "The parallel commentary explicitly assigns short-a aṭac under its extension. Neither its examples nor primary bharaṭa supplies an independent long-ā extension example."
+    }
+  ],
+  "decisions": [
+    {
+      "root": "hu",
+      "affix": "tnaṇ",
+      "rule": "4.105",
+      "witness": "1956 glossarial index p. 260 and verse 585 p. 91",
+      "form": "hotna",
+      "sense": "sacrificer",
+      "grade": "o",
+      "evidence": "direct in the editor’s index",
+      "projection": "lexical spelling in this edition"
+    },
+    {
+      "root": "hu",
+      "affix": "tnaṇ",
+      "rule": "4.105",
+      "witness": "Aufrecht 1859 p. 112",
+      "form": "hautna",
+      "sense": "sacrificer",
+      "grade": "au",
+      "evidence": "word direct, individual affix inferred via ordinary ṇit vṛddhi and its lexical parallel"
+    },
+    {
+      "root": "dhyai",
+      "affix": "tvan",
+      "witness": "Satyavrata p. 200 under 4.106",
+      "form": "dhyātva",
+      "sense": "thought",
+      "evidence": "explicit"
+    },
+    {
+      "root": "sṛ",
+      "affix": "aṭac",
+      "witness": "1956 index p. 249 at 4.105 and Satyavrata p. 200 at 4.106",
+      "form": "saraṭa",
+      "sense": "wind",
+      "evidence": "explicit, short a"
+    },
+    {
+      "root": "sṛ",
+      "affix": "aṭan",
+      "witness": "1956 index p. 249 at 4.81",
+      "form": "saraṭa",
+      "sense": "chameleon",
+      "evidence": "explicit, n marker"
+    },
+    {
+      "root": "bhṛñ",
+      "affix": "śak",
+      "witness": "Jñānendra Sarasvatī on the extension, digital selector in SOURCES",
+      "form": "bhṛśam",
+      "sense": "intensely",
+      "evidence": "explicit"
+    },
+    {
+      "root": "pā",
+      "affix": "itvan",
+      "witness": "Satyavrata p. 200 and Jñānendra Sarasvatī on the extension",
+      "form": "petvam",
+      "sense": "nectar in the selected lexical reading",
+      "evidence": "explicit"
+    }
+  ],
+  "controls": [
+    {
+      "form": "cyautna",
+      "root": "cyu",
+      "affix": "tnaṇ",
+      "rule": "4.104",
+      "index_page": 165,
+      "explanation": "Jñānendra explicitly attributes the preceding word’s vṛddhi to ṇ in the suffix. The positive control is a preceding-rule example."
+    },
+    {
+      "form": "hotṛ",
+      "root": "hu",
+      "affix": "tṛc",
+      "local_rule": "2.96",
+      "index_page": 260
+    },
+    {
+      "form": "hotra",
+      "root": "hu",
+      "affix": "tran",
+      "local_rule": "4.167",
+      "index_page": 260
+    }
+  ],
+  "field_policy": "Use PG193’s criterion: one individually identified word and the matching affix under the aligned extension. Keep authors, editorial glosses, lexical grades and ordinary rules in different fields."
+}
