@@ -1410,6 +1410,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG162 — Seven consonant-host intensives lose ya before outer endings.** [Packet](yang_outer_consonant_hosts/README.md). 378 positions, 636 readings and 636 paths. Cumulative **36,977**.
+
 **PG161 — A printed witness resolves the 54 outer water requests.** [Packet](udan_outer_y_decision/README.md). 54 positions, 276 readings and 285 paths. Cumulative **36,599**.
 
 **PG160 — Repetition, crooked motion and censure in the intensive.** [Packet](yang_semantic_conditions/README.md). 792 positions, 1,044 readings and 1,044 paths. Cumulative **36,545**.
