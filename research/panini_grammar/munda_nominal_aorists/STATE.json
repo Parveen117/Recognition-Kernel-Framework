@@ -1,0 +1,4619 @@
+{
+  "schema": "rkf.panini.pg158.state.v1",
+  "author": "Monty",
+  "date": "2026-11-11",
+  "baseline": {
+    "path": "research/panini_grammar/munda_nominal_outer/STATE.json",
+    "commit": "519500b8908373560a4b09a6b52c8bfa0af48a96",
+    "git_blob_sha": "60b79509bcfd33176fdc28ea4c0bfe5fb186e661",
+    "sha256": "d0ccc842209ee4708f7705771019e3a737abf9ec37c38afabfc973de4c46e4fb",
+    "bytes": 919384
+  },
+  "finite_positions": 35753,
+  "new_positions": 198,
+  "new_position_readings": 198,
+  "new_written_table_readings": 198,
+  "retained_path_count": 270,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "MUNDA_NIC_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "amumuṇḍat"
+        ],
+        "paths": [
+          {
+            "reading": "amumuṇḍat",
+            "nominal_factor": "amumuṇḍ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_shaven"
+          }
+        ]
+      },
+      {
+        "profile": "MUNDA_NIC_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "amumuṇḍatām"
+        ],
+        "paths": [
+          {
+            "reading": "amumuṇḍatām",
+            "nominal_factor": "amumuṇḍ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_shaven"
+          }
+        ]
+      },
+      {
+        "profile": "MUNDA_NIC_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "amumuṇḍan"
+        ],
+        "paths": [
+          {
+            "reading": "amumuṇḍan",
+            "nominal_factor": "amumuṇḍ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_shaven"
+          }
+        ]
+      },
+      {
+        "profile": "MUNDA_NIC_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "amumuṇḍaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "amumuṇḍaḥ",
+            "nominal_factor": "amumuṇḍ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_shaven"
+          }
+        ]
+      },
+      {
+        "profile": "MUNDA_NIC_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "amumuṇḍatam"
+        ],
+        "paths": [
+          {
+            "reading": "amumuṇḍatam",
+            "nominal_factor": "amumuṇḍ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_shaven"
+          }
+        ]
+      },
+      {
+        "profile": "MUNDA_NIC_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "amumuṇḍata"
+        ],
+        "paths": [
+          {
+            "reading": "amumuṇḍata",
+            "nominal_factor": "amumuṇḍ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_shaven"
+          }
+        ]
+      },
+      {
+        "profile": "MUNDA_NIC_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "amumuṇḍam"
+        ],
+        "paths": [
+          {
+            "reading": "amumuṇḍam",
+            "nominal_factor": "amumuṇḍ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_shaven"
+          }
+        ]
+      },
+      {
+        "profile": "MUNDA_NIC_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "amumuṇḍāva"
+        ],
+        "paths": [
+          {
+            "reading": "amumuṇḍāva",
+            "nominal_factor": "amumuṇḍ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_shaven"
+          }
+        ]
+      },
+      {
+        "profile": "MUNDA_NIC_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "amumuṇḍāma"
+        ],
+        "paths": [
+          {
+            "reading": "amumuṇḍāma",
+            "nominal_factor": "amumuṇḍ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_shaven"
+          }
+        ]
+      },
+      {
+        "profile": "MUNDA_NIC_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "amumuṇḍata"
+        ],
+        "paths": [
+          {
+            "reading": "amumuṇḍata",
+            "nominal_factor": "amumuṇḍ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_shaven"
+          }
+        ]
+      },
+      {
+        "profile": "MUNDA_NIC_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "amumuṇḍetām"
+        ],
+        "paths": [
+          {
+            "reading": "amumuṇḍetām",
+            "nominal_factor": "amumuṇḍ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_shaven"
+          }
+        ]
+      },
+      {
+        "profile": "MUNDA_NIC_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "amumuṇḍanta"
+        ],
+        "paths": [
+          {
+            "reading": "amumuṇḍanta",
+            "nominal_factor": "amumuṇḍ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_shaven"
+          }
+        ]
+      },
+      {
+        "profile": "MUNDA_NIC_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "amumuṇḍathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "amumuṇḍathāḥ",
+            "nominal_factor": "amumuṇḍ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_shaven"
+          }
+        ]
+      },
+      {
+        "profile": "MUNDA_NIC_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "amumuṇḍethām"
+        ],
+        "paths": [
+          {
+            "reading": "amumuṇḍethām",
+            "nominal_factor": "amumuṇḍ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_shaven"
+          }
+        ]
+      },
+      {
+        "profile": "MUNDA_NIC_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "amumuṇḍadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "amumuṇḍadhvam",
+            "nominal_factor": "amumuṇḍ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_shaven"
+          }
+        ]
+      },
+      {
+        "profile": "MUNDA_NIC_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "amumuṇḍe"
+        ],
+        "paths": [
+          {
+            "reading": "amumuṇḍe",
+            "nominal_factor": "amumuṇḍ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_shaven"
+          }
+        ]
+      },
+      {
+        "profile": "MUNDA_NIC_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "amumuṇḍāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "amumuṇḍāvahi",
+            "nominal_factor": "amumuṇḍ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_shaven"
+          }
+        ]
+      },
+      {
+        "profile": "MUNDA_NIC_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "amumuṇḍāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "amumuṇḍāmahi",
+            "nominal_factor": "amumuṇḍ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_shaven"
+          }
+        ]
+      },
+      {
+        "profile": "MISHRA_NIC_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "amimiśrat"
+        ],
+        "paths": [
+          {
+            "reading": "amimiśrat",
+            "nominal_factor": "amimiśr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_mixed"
+          }
+        ]
+      },
+      {
+        "profile": "MISHRA_NIC_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "amimiśratām"
+        ],
+        "paths": [
+          {
+            "reading": "amimiśratām",
+            "nominal_factor": "amimiśr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_mixed"
+          }
+        ]
+      },
+      {
+        "profile": "MISHRA_NIC_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "amimiśran"
+        ],
+        "paths": [
+          {
+            "reading": "amimiśran",
+            "nominal_factor": "amimiśr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_mixed"
+          }
+        ]
+      },
+      {
+        "profile": "MISHRA_NIC_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "amimiśraḥ"
+        ],
+        "paths": [
+          {
+            "reading": "amimiśraḥ",
+            "nominal_factor": "amimiśr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_mixed"
+          }
+        ]
+      },
+      {
+        "profile": "MISHRA_NIC_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "amimiśratam"
+        ],
+        "paths": [
+          {
+            "reading": "amimiśratam",
+            "nominal_factor": "amimiśr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_mixed"
+          }
+        ]
+      },
+      {
+        "profile": "MISHRA_NIC_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "amimiśrata"
+        ],
+        "paths": [
+          {
+            "reading": "amimiśrata",
+            "nominal_factor": "amimiśr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_mixed"
+          }
+        ]
+      },
+      {
+        "profile": "MISHRA_NIC_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "amimiśram"
+        ],
+        "paths": [
+          {
+            "reading": "amimiśram",
+            "nominal_factor": "amimiśr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_mixed"
+          }
+        ]
+      },
+      {
+        "profile": "MISHRA_NIC_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "amimiśrāva"
+        ],
+        "paths": [
+          {
+            "reading": "amimiśrāva",
+            "nominal_factor": "amimiśr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_mixed"
+          }
+        ]
+      },
+      {
+        "profile": "MISHRA_NIC_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "amimiśrāma"
+        ],
+        "paths": [
+          {
+            "reading": "amimiśrāma",
+            "nominal_factor": "amimiśr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_mixed"
+          }
+        ]
+      },
+      {
+        "profile": "MISHRA_NIC_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "amimiśrata"
+        ],
+        "paths": [
+          {
+            "reading": "amimiśrata",
+            "nominal_factor": "amimiśr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_mixed"
+          }
+        ]
+      },
+      {
+        "profile": "MISHRA_NIC_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "amimiśretām"
+        ],
+        "paths": [
+          {
+            "reading": "amimiśretām",
+            "nominal_factor": "amimiśr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_mixed"
+          }
+        ]
+      },
+      {
+        "profile": "MISHRA_NIC_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "amimiśranta"
+        ],
+        "paths": [
+          {
+            "reading": "amimiśranta",
+            "nominal_factor": "amimiśr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_mixed"
+          }
+        ]
+      },
+      {
+        "profile": "MISHRA_NIC_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "amimiśrathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "amimiśrathāḥ",
+            "nominal_factor": "amimiśr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_mixed"
+          }
+        ]
+      },
+      {
+        "profile": "MISHRA_NIC_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "amimiśrethām"
+        ],
+        "paths": [
+          {
+            "reading": "amimiśrethām",
+            "nominal_factor": "amimiśr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_mixed"
+          }
+        ]
+      },
+      {
+        "profile": "MISHRA_NIC_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "amimiśradhvam"
+        ],
+        "paths": [
+          {
+            "reading": "amimiśradhvam",
+            "nominal_factor": "amimiśr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_mixed"
+          }
+        ]
+      },
+      {
+        "profile": "MISHRA_NIC_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "amimiśre"
+        ],
+        "paths": [
+          {
+            "reading": "amimiśre",
+            "nominal_factor": "amimiśr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_mixed"
+          }
+        ]
+      },
+      {
+        "profile": "MISHRA_NIC_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "amimiśrāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "amimiśrāvahi",
+            "nominal_factor": "amimiśr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_mixed"
+          }
+        ]
+      },
+      {
+        "profile": "MISHRA_NIC_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "amimiśrāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "amimiśrāmahi",
+            "nominal_factor": "amimiśr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_mixed"
+          }
+        ]
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "aśaślakṣṇat"
+        ],
+        "paths": [
+          {
+            "reading": "aśaślakṣṇat",
+            "nominal_factor": "aśaślakṣṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_smooth"
+          }
+        ]
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "aśaślakṣṇatām"
+        ],
+        "paths": [
+          {
+            "reading": "aśaślakṣṇatām",
+            "nominal_factor": "aśaślakṣṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_smooth"
+          }
+        ]
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "aśaślakṣṇan"
+        ],
+        "paths": [
+          {
+            "reading": "aśaślakṣṇan",
+            "nominal_factor": "aśaślakṣṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_smooth"
+          }
+        ]
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "aśaślakṣṇaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "aśaślakṣṇaḥ",
+            "nominal_factor": "aśaślakṣṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_smooth"
+          }
+        ]
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "aśaślakṣṇatam"
+        ],
+        "paths": [
+          {
+            "reading": "aśaślakṣṇatam",
+            "nominal_factor": "aśaślakṣṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_smooth"
+          }
+        ]
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "aśaślakṣṇata"
+        ],
+        "paths": [
+          {
+            "reading": "aśaślakṣṇata",
+            "nominal_factor": "aśaślakṣṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_smooth"
+          }
+        ]
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "aśaślakṣṇam"
+        ],
+        "paths": [
+          {
+            "reading": "aśaślakṣṇam",
+            "nominal_factor": "aśaślakṣṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_smooth"
+          }
+        ]
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "aśaślakṣṇāva"
+        ],
+        "paths": [
+          {
+            "reading": "aśaślakṣṇāva",
+            "nominal_factor": "aśaślakṣṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_smooth"
+          }
+        ]
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "aśaślakṣṇāma"
+        ],
+        "paths": [
+          {
+            "reading": "aśaślakṣṇāma",
+            "nominal_factor": "aśaślakṣṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_smooth"
+          }
+        ]
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "aśaślakṣṇata"
+        ],
+        "paths": [
+          {
+            "reading": "aśaślakṣṇata",
+            "nominal_factor": "aśaślakṣṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_smooth"
+          }
+        ]
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "aśaślakṣṇetām"
+        ],
+        "paths": [
+          {
+            "reading": "aśaślakṣṇetām",
+            "nominal_factor": "aśaślakṣṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_smooth"
+          }
+        ]
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "aśaślakṣṇanta"
+        ],
+        "paths": [
+          {
+            "reading": "aśaślakṣṇanta",
+            "nominal_factor": "aśaślakṣṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_smooth"
+          }
+        ]
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "aśaślakṣṇathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "aśaślakṣṇathāḥ",
+            "nominal_factor": "aśaślakṣṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_smooth"
+          }
+        ]
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "aśaślakṣṇethām"
+        ],
+        "paths": [
+          {
+            "reading": "aśaślakṣṇethām",
+            "nominal_factor": "aśaślakṣṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_smooth"
+          }
+        ]
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "aśaślakṣṇadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "aśaślakṣṇadhvam",
+            "nominal_factor": "aśaślakṣṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_smooth"
+          }
+        ]
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "aśaślakṣṇe"
+        ],
+        "paths": [
+          {
+            "reading": "aśaślakṣṇe",
+            "nominal_factor": "aśaślakṣṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_smooth"
+          }
+        ]
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "aśaślakṣṇāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "aśaślakṣṇāvahi",
+            "nominal_factor": "aśaślakṣṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_smooth"
+          }
+        ]
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "aśaślakṣṇāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "aśaślakṣṇāmahi",
+            "nominal_factor": "aśaślakṣṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_smooth"
+          }
+        ]
+      },
+      {
+        "profile": "LAVANA_NIC_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "alalavaṇat"
+        ],
+        "paths": [
+          {
+            "reading": "alalavaṇat",
+            "nominal_factor": "alalavaṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_salty"
+          }
+        ]
+      },
+      {
+        "profile": "LAVANA_NIC_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "alalavaṇatām"
+        ],
+        "paths": [
+          {
+            "reading": "alalavaṇatām",
+            "nominal_factor": "alalavaṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_salty"
+          }
+        ]
+      },
+      {
+        "profile": "LAVANA_NIC_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "alalavaṇan"
+        ],
+        "paths": [
+          {
+            "reading": "alalavaṇan",
+            "nominal_factor": "alalavaṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_salty"
+          }
+        ]
+      },
+      {
+        "profile": "LAVANA_NIC_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "alalavaṇaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "alalavaṇaḥ",
+            "nominal_factor": "alalavaṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_salty"
+          }
+        ]
+      },
+      {
+        "profile": "LAVANA_NIC_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "alalavaṇatam"
+        ],
+        "paths": [
+          {
+            "reading": "alalavaṇatam",
+            "nominal_factor": "alalavaṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_salty"
+          }
+        ]
+      },
+      {
+        "profile": "LAVANA_NIC_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "alalavaṇata"
+        ],
+        "paths": [
+          {
+            "reading": "alalavaṇata",
+            "nominal_factor": "alalavaṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_salty"
+          }
+        ]
+      },
+      {
+        "profile": "LAVANA_NIC_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "alalavaṇam"
+        ],
+        "paths": [
+          {
+            "reading": "alalavaṇam",
+            "nominal_factor": "alalavaṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_salty"
+          }
+        ]
+      },
+      {
+        "profile": "LAVANA_NIC_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "alalavaṇāva"
+        ],
+        "paths": [
+          {
+            "reading": "alalavaṇāva",
+            "nominal_factor": "alalavaṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_salty"
+          }
+        ]
+      },
+      {
+        "profile": "LAVANA_NIC_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "alalavaṇāma"
+        ],
+        "paths": [
+          {
+            "reading": "alalavaṇāma",
+            "nominal_factor": "alalavaṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_salty"
+          }
+        ]
+      },
+      {
+        "profile": "LAVANA_NIC_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "alalavaṇata"
+        ],
+        "paths": [
+          {
+            "reading": "alalavaṇata",
+            "nominal_factor": "alalavaṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_salty"
+          }
+        ]
+      },
+      {
+        "profile": "LAVANA_NIC_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "alalavaṇetām"
+        ],
+        "paths": [
+          {
+            "reading": "alalavaṇetām",
+            "nominal_factor": "alalavaṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_salty"
+          }
+        ]
+      },
+      {
+        "profile": "LAVANA_NIC_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "alalavaṇanta"
+        ],
+        "paths": [
+          {
+            "reading": "alalavaṇanta",
+            "nominal_factor": "alalavaṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_salty"
+          }
+        ]
+      },
+      {
+        "profile": "LAVANA_NIC_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "alalavaṇathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "alalavaṇathāḥ",
+            "nominal_factor": "alalavaṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_salty"
+          }
+        ]
+      },
+      {
+        "profile": "LAVANA_NIC_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "alalavaṇethām"
+        ],
+        "paths": [
+          {
+            "reading": "alalavaṇethām",
+            "nominal_factor": "alalavaṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_salty"
+          }
+        ]
+      },
+      {
+        "profile": "LAVANA_NIC_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "alalavaṇadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "alalavaṇadhvam",
+            "nominal_factor": "alalavaṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_salty"
+          }
+        ]
+      },
+      {
+        "profile": "LAVANA_NIC_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "alalavaṇe"
+        ],
+        "paths": [
+          {
+            "reading": "alalavaṇe",
+            "nominal_factor": "alalavaṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_salty"
+          }
+        ]
+      },
+      {
+        "profile": "LAVANA_NIC_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "alalavaṇāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "alalavaṇāvahi",
+            "nominal_factor": "alalavaṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_salty"
+          }
+        ]
+      },
+      {
+        "profile": "LAVANA_NIC_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "alalavaṇāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "alalavaṇāmahi",
+            "nominal_factor": "alalavaṇ",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "make_salty"
+          }
+        ]
+      },
+      {
+        "profile": "VRATA_NIC_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "avavratat"
+        ],
+        "paths": [
+          {
+            "reading": "avavratat",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "consume_under_vow"
+          },
+          {
+            "reading": "avavratat",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "abstain_under_vow"
+          }
+        ]
+      },
+      {
+        "profile": "VRATA_NIC_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "avavratatām"
+        ],
+        "paths": [
+          {
+            "reading": "avavratatām",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "consume_under_vow"
+          },
+          {
+            "reading": "avavratatām",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "abstain_under_vow"
+          }
+        ]
+      },
+      {
+        "profile": "VRATA_NIC_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "avavratan"
+        ],
+        "paths": [
+          {
+            "reading": "avavratan",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "consume_under_vow"
+          },
+          {
+            "reading": "avavratan",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "abstain_under_vow"
+          }
+        ]
+      },
+      {
+        "profile": "VRATA_NIC_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "avavrataḥ"
+        ],
+        "paths": [
+          {
+            "reading": "avavrataḥ",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "consume_under_vow"
+          },
+          {
+            "reading": "avavrataḥ",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "abstain_under_vow"
+          }
+        ]
+      },
+      {
+        "profile": "VRATA_NIC_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "avavratatam"
+        ],
+        "paths": [
+          {
+            "reading": "avavratatam",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "consume_under_vow"
+          },
+          {
+            "reading": "avavratatam",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "abstain_under_vow"
+          }
+        ]
+      },
+      {
+        "profile": "VRATA_NIC_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "avavratata"
+        ],
+        "paths": [
+          {
+            "reading": "avavratata",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "consume_under_vow"
+          },
+          {
+            "reading": "avavratata",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "abstain_under_vow"
+          }
+        ]
+      },
+      {
+        "profile": "VRATA_NIC_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "avavratam"
+        ],
+        "paths": [
+          {
+            "reading": "avavratam",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "consume_under_vow"
+          },
+          {
+            "reading": "avavratam",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "abstain_under_vow"
+          }
+        ]
+      },
+      {
+        "profile": "VRATA_NIC_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "avavratāva"
+        ],
+        "paths": [
+          {
+            "reading": "avavratāva",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "consume_under_vow"
+          },
+          {
+            "reading": "avavratāva",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "abstain_under_vow"
+          }
+        ]
+      },
+      {
+        "profile": "VRATA_NIC_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "avavratāma"
+        ],
+        "paths": [
+          {
+            "reading": "avavratāma",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "consume_under_vow"
+          },
+          {
+            "reading": "avavratāma",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "abstain_under_vow"
+          }
+        ]
+      },
+      {
+        "profile": "VRATA_NIC_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "avavratata"
+        ],
+        "paths": [
+          {
+            "reading": "avavratata",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "consume_under_vow"
+          },
+          {
+            "reading": "avavratata",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "abstain_under_vow"
+          }
+        ]
+      },
+      {
+        "profile": "VRATA_NIC_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "avavratetām"
+        ],
+        "paths": [
+          {
+            "reading": "avavratetām",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "consume_under_vow"
+          },
+          {
+            "reading": "avavratetām",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "abstain_under_vow"
+          }
+        ]
+      },
+      {
+        "profile": "VRATA_NIC_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "avavratanta"
+        ],
+        "paths": [
+          {
+            "reading": "avavratanta",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "consume_under_vow"
+          },
+          {
+            "reading": "avavratanta",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "abstain_under_vow"
+          }
+        ]
+      },
+      {
+        "profile": "VRATA_NIC_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "avavratathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "avavratathāḥ",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "consume_under_vow"
+          },
+          {
+            "reading": "avavratathāḥ",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "abstain_under_vow"
+          }
+        ]
+      },
+      {
+        "profile": "VRATA_NIC_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "avavratethām"
+        ],
+        "paths": [
+          {
+            "reading": "avavratethām",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "consume_under_vow"
+          },
+          {
+            "reading": "avavratethām",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "abstain_under_vow"
+          }
+        ]
+      },
+      {
+        "profile": "VRATA_NIC_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "avavratadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "avavratadhvam",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "consume_under_vow"
+          },
+          {
+            "reading": "avavratadhvam",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "abstain_under_vow"
+          }
+        ]
+      },
+      {
+        "profile": "VRATA_NIC_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "avavrate"
+        ],
+        "paths": [
+          {
+            "reading": "avavrate",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "consume_under_vow"
+          },
+          {
+            "reading": "avavrate",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "abstain_under_vow"
+          }
+        ]
+      },
+      {
+        "profile": "VRATA_NIC_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "avavratāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "avavratāvahi",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "consume_under_vow"
+          },
+          {
+            "reading": "avavratāvahi",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "abstain_under_vow"
+          }
+        ]
+      },
+      {
+        "profile": "VRATA_NIC_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "avavratāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "avavratāmahi",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "consume_under_vow"
+          },
+          {
+            "reading": "avavratāmahi",
+            "nominal_factor": "avavrat",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "abstain_under_vow"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "samavavastrat"
+        ],
+        "paths": [
+          {
+            "reading": "samavavastrat",
+            "nominal_factor": "samavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "cover_completely"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "samavavastratām"
+        ],
+        "paths": [
+          {
+            "reading": "samavavastratām",
+            "nominal_factor": "samavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "cover_completely"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "samavavastran"
+        ],
+        "paths": [
+          {
+            "reading": "samavavastran",
+            "nominal_factor": "samavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "cover_completely"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "samavavastraḥ"
+        ],
+        "paths": [
+          {
+            "reading": "samavavastraḥ",
+            "nominal_factor": "samavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "cover_completely"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "samavavastratam"
+        ],
+        "paths": [
+          {
+            "reading": "samavavastratam",
+            "nominal_factor": "samavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "cover_completely"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "samavavastrata"
+        ],
+        "paths": [
+          {
+            "reading": "samavavastrata",
+            "nominal_factor": "samavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "cover_completely"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "samavavastram"
+        ],
+        "paths": [
+          {
+            "reading": "samavavastram",
+            "nominal_factor": "samavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "cover_completely"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "samavavastrāva"
+        ],
+        "paths": [
+          {
+            "reading": "samavavastrāva",
+            "nominal_factor": "samavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "cover_completely"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "samavavastrāma"
+        ],
+        "paths": [
+          {
+            "reading": "samavavastrāma",
+            "nominal_factor": "samavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "cover_completely"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "samavavastrata"
+        ],
+        "paths": [
+          {
+            "reading": "samavavastrata",
+            "nominal_factor": "samavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "cover_completely"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "samavavastretām"
+        ],
+        "paths": [
+          {
+            "reading": "samavavastretām",
+            "nominal_factor": "samavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "cover_completely"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "samavavastranta"
+        ],
+        "paths": [
+          {
+            "reading": "samavavastranta",
+            "nominal_factor": "samavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "cover_completely"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "samavavastrathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "samavavastrathāḥ",
+            "nominal_factor": "samavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "cover_completely"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "samavavastrethām"
+        ],
+        "paths": [
+          {
+            "reading": "samavavastrethām",
+            "nominal_factor": "samavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "cover_completely"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "samavavastradhvam"
+        ],
+        "paths": [
+          {
+            "reading": "samavavastradhvam",
+            "nominal_factor": "samavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "cover_completely"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "samavavastre"
+        ],
+        "paths": [
+          {
+            "reading": "samavavastre",
+            "nominal_factor": "samavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "cover_completely"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "samavavastrāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "samavavastrāvahi",
+            "nominal_factor": "samavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "cover_completely"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "samavavastrāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "samavavastrāmahi",
+            "nominal_factor": "samavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "cover_completely"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "paryavavastrat"
+        ],
+        "paths": [
+          {
+            "reading": "paryavavastrat",
+            "nominal_factor": "paryavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "put_on_a_garment"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "paryavavastratām"
+        ],
+        "paths": [
+          {
+            "reading": "paryavavastratām",
+            "nominal_factor": "paryavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "put_on_a_garment"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "paryavavastran"
+        ],
+        "paths": [
+          {
+            "reading": "paryavavastran",
+            "nominal_factor": "paryavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "put_on_a_garment"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "paryavavastraḥ"
+        ],
+        "paths": [
+          {
+            "reading": "paryavavastraḥ",
+            "nominal_factor": "paryavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "put_on_a_garment"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "paryavavastratam"
+        ],
+        "paths": [
+          {
+            "reading": "paryavavastratam",
+            "nominal_factor": "paryavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "put_on_a_garment"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "paryavavastrata"
+        ],
+        "paths": [
+          {
+            "reading": "paryavavastrata",
+            "nominal_factor": "paryavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "put_on_a_garment"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "paryavavastram"
+        ],
+        "paths": [
+          {
+            "reading": "paryavavastram",
+            "nominal_factor": "paryavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "put_on_a_garment"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "paryavavastrāva"
+        ],
+        "paths": [
+          {
+            "reading": "paryavavastrāva",
+            "nominal_factor": "paryavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "put_on_a_garment"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "paryavavastrāma"
+        ],
+        "paths": [
+          {
+            "reading": "paryavavastrāma",
+            "nominal_factor": "paryavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "put_on_a_garment"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "paryavavastrata"
+        ],
+        "paths": [
+          {
+            "reading": "paryavavastrata",
+            "nominal_factor": "paryavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "put_on_a_garment"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "paryavavastretām"
+        ],
+        "paths": [
+          {
+            "reading": "paryavavastretām",
+            "nominal_factor": "paryavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "put_on_a_garment"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "paryavavastranta"
+        ],
+        "paths": [
+          {
+            "reading": "paryavavastranta",
+            "nominal_factor": "paryavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "put_on_a_garment"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "paryavavastrathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "paryavavastrathāḥ",
+            "nominal_factor": "paryavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "put_on_a_garment"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "paryavavastrethām"
+        ],
+        "paths": [
+          {
+            "reading": "paryavavastrethām",
+            "nominal_factor": "paryavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "put_on_a_garment"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "paryavavastradhvam"
+        ],
+        "paths": [
+          {
+            "reading": "paryavavastradhvam",
+            "nominal_factor": "paryavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "put_on_a_garment"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "paryavavastre"
+        ],
+        "paths": [
+          {
+            "reading": "paryavavastre",
+            "nominal_factor": "paryavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "put_on_a_garment"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "paryavavastrāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "paryavavastrāvahi",
+            "nominal_factor": "paryavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "put_on_a_garment"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "paryavavastrāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "paryavavastrāmahi",
+            "nominal_factor": "paryavavastr",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "put_on_a_garment"
+          }
+        ]
+      },
+      {
+        "profile": "HALI_NIC_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "ajahalat"
+        ],
+        "paths": [
+          {
+            "reading": "ajahalat",
+            "nominal_factor": "ajahal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_hold_of_the_large_plough"
+          }
+        ]
+      },
+      {
+        "profile": "HALI_NIC_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "ajahalatām"
+        ],
+        "paths": [
+          {
+            "reading": "ajahalatām",
+            "nominal_factor": "ajahal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_hold_of_the_large_plough"
+          }
+        ]
+      },
+      {
+        "profile": "HALI_NIC_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "ajahalan"
+        ],
+        "paths": [
+          {
+            "reading": "ajahalan",
+            "nominal_factor": "ajahal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_hold_of_the_large_plough"
+          }
+        ]
+      },
+      {
+        "profile": "HALI_NIC_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "ajahalaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "ajahalaḥ",
+            "nominal_factor": "ajahal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_hold_of_the_large_plough"
+          }
+        ]
+      },
+      {
+        "profile": "HALI_NIC_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "ajahalatam"
+        ],
+        "paths": [
+          {
+            "reading": "ajahalatam",
+            "nominal_factor": "ajahal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_hold_of_the_large_plough"
+          }
+        ]
+      },
+      {
+        "profile": "HALI_NIC_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "ajahalata"
+        ],
+        "paths": [
+          {
+            "reading": "ajahalata",
+            "nominal_factor": "ajahal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_hold_of_the_large_plough"
+          }
+        ]
+      },
+      {
+        "profile": "HALI_NIC_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "ajahalam"
+        ],
+        "paths": [
+          {
+            "reading": "ajahalam",
+            "nominal_factor": "ajahal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_hold_of_the_large_plough"
+          }
+        ]
+      },
+      {
+        "profile": "HALI_NIC_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "ajahalāva"
+        ],
+        "paths": [
+          {
+            "reading": "ajahalāva",
+            "nominal_factor": "ajahal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_hold_of_the_large_plough"
+          }
+        ]
+      },
+      {
+        "profile": "HALI_NIC_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "ajahalāma"
+        ],
+        "paths": [
+          {
+            "reading": "ajahalāma",
+            "nominal_factor": "ajahal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_hold_of_the_large_plough"
+          }
+        ]
+      },
+      {
+        "profile": "HALI_NIC_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "ajahalata"
+        ],
+        "paths": [
+          {
+            "reading": "ajahalata",
+            "nominal_factor": "ajahal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_hold_of_the_large_plough"
+          }
+        ]
+      },
+      {
+        "profile": "HALI_NIC_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "ajahaletām"
+        ],
+        "paths": [
+          {
+            "reading": "ajahaletām",
+            "nominal_factor": "ajahal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_hold_of_the_large_plough"
+          }
+        ]
+      },
+      {
+        "profile": "HALI_NIC_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "ajahalanta"
+        ],
+        "paths": [
+          {
+            "reading": "ajahalanta",
+            "nominal_factor": "ajahal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_hold_of_the_large_plough"
+          }
+        ]
+      },
+      {
+        "profile": "HALI_NIC_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "ajahalathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "ajahalathāḥ",
+            "nominal_factor": "ajahal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_hold_of_the_large_plough"
+          }
+        ]
+      },
+      {
+        "profile": "HALI_NIC_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "ajahalethām"
+        ],
+        "paths": [
+          {
+            "reading": "ajahalethām",
+            "nominal_factor": "ajahal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_hold_of_the_large_plough"
+          }
+        ]
+      },
+      {
+        "profile": "HALI_NIC_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "ajahaladhvam"
+        ],
+        "paths": [
+          {
+            "reading": "ajahaladhvam",
+            "nominal_factor": "ajahal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_hold_of_the_large_plough"
+          }
+        ]
+      },
+      {
+        "profile": "HALI_NIC_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "ajahale"
+        ],
+        "paths": [
+          {
+            "reading": "ajahale",
+            "nominal_factor": "ajahal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_hold_of_the_large_plough"
+          }
+        ]
+      },
+      {
+        "profile": "HALI_NIC_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "ajahalāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "ajahalāvahi",
+            "nominal_factor": "ajahal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_hold_of_the_large_plough"
+          }
+        ]
+      },
+      {
+        "profile": "HALI_NIC_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "ajahalāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "ajahalāmahi",
+            "nominal_factor": "ajahal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_hold_of_the_large_plough"
+          }
+        ]
+      },
+      {
+        "profile": "KALI_NIC_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "acakalat"
+        ],
+        "paths": [
+          {
+            "reading": "acakalat",
+            "nominal_factor": "acakal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kali"
+          }
+        ]
+      },
+      {
+        "profile": "KALI_NIC_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "acakalatām"
+        ],
+        "paths": [
+          {
+            "reading": "acakalatām",
+            "nominal_factor": "acakal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kali"
+          }
+        ]
+      },
+      {
+        "profile": "KALI_NIC_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "acakalan"
+        ],
+        "paths": [
+          {
+            "reading": "acakalan",
+            "nominal_factor": "acakal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kali"
+          }
+        ]
+      },
+      {
+        "profile": "KALI_NIC_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "acakalaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "acakalaḥ",
+            "nominal_factor": "acakal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kali"
+          }
+        ]
+      },
+      {
+        "profile": "KALI_NIC_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "acakalatam"
+        ],
+        "paths": [
+          {
+            "reading": "acakalatam",
+            "nominal_factor": "acakal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kali"
+          }
+        ]
+      },
+      {
+        "profile": "KALI_NIC_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "acakalata"
+        ],
+        "paths": [
+          {
+            "reading": "acakalata",
+            "nominal_factor": "acakal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kali"
+          }
+        ]
+      },
+      {
+        "profile": "KALI_NIC_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "acakalam"
+        ],
+        "paths": [
+          {
+            "reading": "acakalam",
+            "nominal_factor": "acakal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kali"
+          }
+        ]
+      },
+      {
+        "profile": "KALI_NIC_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "acakalāva"
+        ],
+        "paths": [
+          {
+            "reading": "acakalāva",
+            "nominal_factor": "acakal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kali"
+          }
+        ]
+      },
+      {
+        "profile": "KALI_NIC_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "acakalāma"
+        ],
+        "paths": [
+          {
+            "reading": "acakalāma",
+            "nominal_factor": "acakal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kali"
+          }
+        ]
+      },
+      {
+        "profile": "KALI_NIC_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "acakalata"
+        ],
+        "paths": [
+          {
+            "reading": "acakalata",
+            "nominal_factor": "acakal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kali"
+          }
+        ]
+      },
+      {
+        "profile": "KALI_NIC_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "acakaletām"
+        ],
+        "paths": [
+          {
+            "reading": "acakaletām",
+            "nominal_factor": "acakal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kali"
+          }
+        ]
+      },
+      {
+        "profile": "KALI_NIC_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "acakalanta"
+        ],
+        "paths": [
+          {
+            "reading": "acakalanta",
+            "nominal_factor": "acakal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kali"
+          }
+        ]
+      },
+      {
+        "profile": "KALI_NIC_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "acakalathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "acakalathāḥ",
+            "nominal_factor": "acakal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kali"
+          }
+        ]
+      },
+      {
+        "profile": "KALI_NIC_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "acakalethām"
+        ],
+        "paths": [
+          {
+            "reading": "acakalethām",
+            "nominal_factor": "acakal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kali"
+          }
+        ]
+      },
+      {
+        "profile": "KALI_NIC_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "acakaladhvam"
+        ],
+        "paths": [
+          {
+            "reading": "acakaladhvam",
+            "nominal_factor": "acakal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kali"
+          }
+        ]
+      },
+      {
+        "profile": "KALI_NIC_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "acakale"
+        ],
+        "paths": [
+          {
+            "reading": "acakale",
+            "nominal_factor": "acakal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kali"
+          }
+        ]
+      },
+      {
+        "profile": "KALI_NIC_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "acakalāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "acakalāvahi",
+            "nominal_factor": "acakal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kali"
+          }
+        ]
+      },
+      {
+        "profile": "KALI_NIC_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "acakalāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "acakalāmahi",
+            "nominal_factor": "acakal",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kali"
+          }
+        ]
+      },
+      {
+        "profile": "KRITA_NIC_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "acakṛtat"
+        ],
+        "paths": [
+          {
+            "reading": "acakṛtat",
+            "nominal_factor": "acakṛt",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kṛta"
+          }
+        ]
+      },
+      {
+        "profile": "KRITA_NIC_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "acakṛtatām"
+        ],
+        "paths": [
+          {
+            "reading": "acakṛtatām",
+            "nominal_factor": "acakṛt",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kṛta"
+          }
+        ]
+      },
+      {
+        "profile": "KRITA_NIC_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "acakṛtan"
+        ],
+        "paths": [
+          {
+            "reading": "acakṛtan",
+            "nominal_factor": "acakṛt",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kṛta"
+          }
+        ]
+      },
+      {
+        "profile": "KRITA_NIC_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "acakṛtaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "acakṛtaḥ",
+            "nominal_factor": "acakṛt",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kṛta"
+          }
+        ]
+      },
+      {
+        "profile": "KRITA_NIC_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "acakṛtatam"
+        ],
+        "paths": [
+          {
+            "reading": "acakṛtatam",
+            "nominal_factor": "acakṛt",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kṛta"
+          }
+        ]
+      },
+      {
+        "profile": "KRITA_NIC_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "acakṛtata"
+        ],
+        "paths": [
+          {
+            "reading": "acakṛtata",
+            "nominal_factor": "acakṛt",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kṛta"
+          }
+        ]
+      },
+      {
+        "profile": "KRITA_NIC_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "acakṛtam"
+        ],
+        "paths": [
+          {
+            "reading": "acakṛtam",
+            "nominal_factor": "acakṛt",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kṛta"
+          }
+        ]
+      },
+      {
+        "profile": "KRITA_NIC_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "acakṛtāva"
+        ],
+        "paths": [
+          {
+            "reading": "acakṛtāva",
+            "nominal_factor": "acakṛt",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kṛta"
+          }
+        ]
+      },
+      {
+        "profile": "KRITA_NIC_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "acakṛtāma"
+        ],
+        "paths": [
+          {
+            "reading": "acakṛtāma",
+            "nominal_factor": "acakṛt",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kṛta"
+          }
+        ]
+      },
+      {
+        "profile": "KRITA_NIC_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "acakṛtata"
+        ],
+        "paths": [
+          {
+            "reading": "acakṛtata",
+            "nominal_factor": "acakṛt",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kṛta"
+          }
+        ]
+      },
+      {
+        "profile": "KRITA_NIC_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "acakṛtetām"
+        ],
+        "paths": [
+          {
+            "reading": "acakṛtetām",
+            "nominal_factor": "acakṛt",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kṛta"
+          }
+        ]
+      },
+      {
+        "profile": "KRITA_NIC_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "acakṛtanta"
+        ],
+        "paths": [
+          {
+            "reading": "acakṛtanta",
+            "nominal_factor": "acakṛt",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kṛta"
+          }
+        ]
+      },
+      {
+        "profile": "KRITA_NIC_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "acakṛtathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "acakṛtathāḥ",
+            "nominal_factor": "acakṛt",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kṛta"
+          }
+        ]
+      },
+      {
+        "profile": "KRITA_NIC_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "acakṛtethām"
+        ],
+        "paths": [
+          {
+            "reading": "acakṛtethām",
+            "nominal_factor": "acakṛt",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kṛta"
+          }
+        ]
+      },
+      {
+        "profile": "KRITA_NIC_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "acakṛtadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "acakṛtadhvam",
+            "nominal_factor": "acakṛt",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kṛta"
+          }
+        ]
+      },
+      {
+        "profile": "KRITA_NIC_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "acakṛte"
+        ],
+        "paths": [
+          {
+            "reading": "acakṛte",
+            "nominal_factor": "acakṛt",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kṛta"
+          }
+        ]
+      },
+      {
+        "profile": "KRITA_NIC_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "acakṛtāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "acakṛtāvahi",
+            "nominal_factor": "acakṛt",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kṛta"
+          }
+        ]
+      },
+      {
+        "profile": "KRITA_NIC_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "acakṛtāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "acakṛtāmahi",
+            "nominal_factor": "acakṛt",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "take_kṛta"
+          }
+        ]
+      },
+      {
+        "profile": "VI_TUSTA_NIC_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vyatutūstat"
+        ],
+        "paths": [
+          {
+            "reading": "vyatutūstat",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disperse_hair"
+          },
+          {
+            "reading": "vyatutūstat",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "undo_matted_hair"
+          },
+          {
+            "reading": "vyatutūstat",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "dispel_evil"
+          },
+          {
+            "reading": "vyatutūstat",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disentangle_fringe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_TUSTA_NIC_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "vyatutūstatām"
+        ],
+        "paths": [
+          {
+            "reading": "vyatutūstatām",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disperse_hair"
+          },
+          {
+            "reading": "vyatutūstatām",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "undo_matted_hair"
+          },
+          {
+            "reading": "vyatutūstatām",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "dispel_evil"
+          },
+          {
+            "reading": "vyatutūstatām",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disentangle_fringe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_TUSTA_NIC_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vyatutūstan"
+        ],
+        "paths": [
+          {
+            "reading": "vyatutūstan",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disperse_hair"
+          },
+          {
+            "reading": "vyatutūstan",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "undo_matted_hair"
+          },
+          {
+            "reading": "vyatutūstan",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "dispel_evil"
+          },
+          {
+            "reading": "vyatutūstan",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disentangle_fringe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_TUSTA_NIC_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vyatutūstaḥ"
+        ],
+        "paths": [
+          {
+            "reading": "vyatutūstaḥ",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disperse_hair"
+          },
+          {
+            "reading": "vyatutūstaḥ",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "undo_matted_hair"
+          },
+          {
+            "reading": "vyatutūstaḥ",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "dispel_evil"
+          },
+          {
+            "reading": "vyatutūstaḥ",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disentangle_fringe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_TUSTA_NIC_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "vyatutūstatam"
+        ],
+        "paths": [
+          {
+            "reading": "vyatutūstatam",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disperse_hair"
+          },
+          {
+            "reading": "vyatutūstatam",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "undo_matted_hair"
+          },
+          {
+            "reading": "vyatutūstatam",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "dispel_evil"
+          },
+          {
+            "reading": "vyatutūstatam",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disentangle_fringe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_TUSTA_NIC_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vyatutūstata"
+        ],
+        "paths": [
+          {
+            "reading": "vyatutūstata",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disperse_hair"
+          },
+          {
+            "reading": "vyatutūstata",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "undo_matted_hair"
+          },
+          {
+            "reading": "vyatutūstata",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "dispel_evil"
+          },
+          {
+            "reading": "vyatutūstata",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disentangle_fringe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_TUSTA_NIC_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vyatutūstam"
+        ],
+        "paths": [
+          {
+            "reading": "vyatutūstam",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disperse_hair"
+          },
+          {
+            "reading": "vyatutūstam",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "undo_matted_hair"
+          },
+          {
+            "reading": "vyatutūstam",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "dispel_evil"
+          },
+          {
+            "reading": "vyatutūstam",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disentangle_fringe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_TUSTA_NIC_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "vyatutūstāva"
+        ],
+        "paths": [
+          {
+            "reading": "vyatutūstāva",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disperse_hair"
+          },
+          {
+            "reading": "vyatutūstāva",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "undo_matted_hair"
+          },
+          {
+            "reading": "vyatutūstāva",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "dispel_evil"
+          },
+          {
+            "reading": "vyatutūstāva",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disentangle_fringe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_TUSTA_NIC_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vyatutūstāma"
+        ],
+        "paths": [
+          {
+            "reading": "vyatutūstāma",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disperse_hair"
+          },
+          {
+            "reading": "vyatutūstāma",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "undo_matted_hair"
+          },
+          {
+            "reading": "vyatutūstāma",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "dispel_evil"
+          },
+          {
+            "reading": "vyatutūstāma",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disentangle_fringe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_TUSTA_NIC_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vyatutūstata"
+        ],
+        "paths": [
+          {
+            "reading": "vyatutūstata",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disperse_hair"
+          },
+          {
+            "reading": "vyatutūstata",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "undo_matted_hair"
+          },
+          {
+            "reading": "vyatutūstata",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "dispel_evil"
+          },
+          {
+            "reading": "vyatutūstata",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disentangle_fringe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_TUSTA_NIC_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "vyatutūstetām"
+        ],
+        "paths": [
+          {
+            "reading": "vyatutūstetām",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disperse_hair"
+          },
+          {
+            "reading": "vyatutūstetām",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "undo_matted_hair"
+          },
+          {
+            "reading": "vyatutūstetām",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "dispel_evil"
+          },
+          {
+            "reading": "vyatutūstetām",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disentangle_fringe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_TUSTA_NIC_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vyatutūstanta"
+        ],
+        "paths": [
+          {
+            "reading": "vyatutūstanta",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disperse_hair"
+          },
+          {
+            "reading": "vyatutūstanta",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "undo_matted_hair"
+          },
+          {
+            "reading": "vyatutūstanta",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "dispel_evil"
+          },
+          {
+            "reading": "vyatutūstanta",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disentangle_fringe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_TUSTA_NIC_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vyatutūstathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "vyatutūstathāḥ",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disperse_hair"
+          },
+          {
+            "reading": "vyatutūstathāḥ",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "undo_matted_hair"
+          },
+          {
+            "reading": "vyatutūstathāḥ",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "dispel_evil"
+          },
+          {
+            "reading": "vyatutūstathāḥ",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disentangle_fringe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_TUSTA_NIC_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "vyatutūstethām"
+        ],
+        "paths": [
+          {
+            "reading": "vyatutūstethām",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disperse_hair"
+          },
+          {
+            "reading": "vyatutūstethām",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "undo_matted_hair"
+          },
+          {
+            "reading": "vyatutūstethām",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "dispel_evil"
+          },
+          {
+            "reading": "vyatutūstethām",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disentangle_fringe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_TUSTA_NIC_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vyatutūstadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "vyatutūstadhvam",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disperse_hair"
+          },
+          {
+            "reading": "vyatutūstadhvam",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "undo_matted_hair"
+          },
+          {
+            "reading": "vyatutūstadhvam",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "dispel_evil"
+          },
+          {
+            "reading": "vyatutūstadhvam",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disentangle_fringe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_TUSTA_NIC_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vyatutūste"
+        ],
+        "paths": [
+          {
+            "reading": "vyatutūste",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disperse_hair"
+          },
+          {
+            "reading": "vyatutūste",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "undo_matted_hair"
+          },
+          {
+            "reading": "vyatutūste",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "dispel_evil"
+          },
+          {
+            "reading": "vyatutūste",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disentangle_fringe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_TUSTA_NIC_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "vyatutūstāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "vyatutūstāvahi",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disperse_hair"
+          },
+          {
+            "reading": "vyatutūstāvahi",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "undo_matted_hair"
+          },
+          {
+            "reading": "vyatutūstāvahi",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "dispel_evil"
+          },
+          {
+            "reading": "vyatutūstāvahi",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disentangle_fringe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_TUSTA_NIC_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vyatutūstāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "vyatutūstāmahi",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disperse_hair"
+          },
+          {
+            "reading": "vyatutūstāmahi",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "undo_matted_hair"
+          },
+          {
+            "reading": "vyatutūstāmahi",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "dispel_evil"
+          },
+          {
+            "reading": "vyatutūstāmahi",
+            "nominal_factor": "vyatutūst",
+            "initial_junction": "augment",
+            "ending_schedule": "caṅ",
+            "meaning": "disentangle_fringe"
+          }
+        ]
+      }
+    ],
+    "panels": [
+      {
+        "profile": "MUNDA_NIC_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "MUNDA_NIC_A",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "MISHRA_NIC_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "MISHRA_NIC_A",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "SHLAKSHNA_NIC_A",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "LAVANA_NIC_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "LAVANA_NIC_A",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "VRATA_NIC_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "VRATA_NIC_A",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "SAM_VASTRA_NIC_A",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "PARI_VASTRA_NIC_A",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "HALI_NIC_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "HALI_NIC_A",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "KALI_NIC_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "KALI_NIC_A",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "KRITA_NIC_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "KRITA_NIC_A",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "VI_TUSTA_NIC_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "VI_TUSTA_NIC_A",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      }
+    ],
+    "complete_nine_slot_paradigms": 22
+  },
+  "contextual_profiles": {
+    "MUNDA_NIC_P": {
+      "profile": "MUNDA_NIC_P",
+      "nominal": "muṇḍa",
+      "prefix": "",
+      "nominal_factor": "muṇḍ",
+      "copy_and_base": "mumuṇḍ",
+      "meaning_ids": [
+        "make_shaven"
+      ],
+      "pada": "P",
+      "primary_result": "goes_to_another_in_the_selected_frame",
+      "present_source_witness": "मुण्डयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    },
+    "MUNDA_NIC_A": {
+      "profile": "MUNDA_NIC_A",
+      "nominal": "muṇḍa",
+      "prefix": "",
+      "nominal_factor": "muṇḍ",
+      "copy_and_base": "mumuṇḍ",
+      "meaning_ids": [
+        "make_shaven"
+      ],
+      "pada": "A",
+      "primary_result": "goes_to_actor",
+      "present_source_witness": "मुण्डयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    },
+    "MISHRA_NIC_P": {
+      "profile": "MISHRA_NIC_P",
+      "nominal": "miśra",
+      "prefix": "",
+      "nominal_factor": "miśr",
+      "copy_and_base": "mimiśr",
+      "meaning_ids": [
+        "make_mixed"
+      ],
+      "pada": "P",
+      "primary_result": "goes_to_another_in_the_selected_frame",
+      "present_source_witness": "मिश्रयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    },
+    "MISHRA_NIC_A": {
+      "profile": "MISHRA_NIC_A",
+      "nominal": "miśra",
+      "prefix": "",
+      "nominal_factor": "miśr",
+      "copy_and_base": "mimiśr",
+      "meaning_ids": [
+        "make_mixed"
+      ],
+      "pada": "A",
+      "primary_result": "goes_to_actor",
+      "present_source_witness": "मिश्रयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    },
+    "SHLAKSHNA_NIC_P": {
+      "profile": "SHLAKSHNA_NIC_P",
+      "nominal": "ślakṣṇa",
+      "prefix": "",
+      "nominal_factor": "ślakṣṇ",
+      "copy_and_base": "śaślakṣṇ",
+      "meaning_ids": [
+        "make_smooth"
+      ],
+      "pada": "P",
+      "primary_result": "goes_to_another_in_the_selected_frame",
+      "present_source_witness": "श्लक्ष्णयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    },
+    "SHLAKSHNA_NIC_A": {
+      "profile": "SHLAKSHNA_NIC_A",
+      "nominal": "ślakṣṇa",
+      "prefix": "",
+      "nominal_factor": "ślakṣṇ",
+      "copy_and_base": "śaślakṣṇ",
+      "meaning_ids": [
+        "make_smooth"
+      ],
+      "pada": "A",
+      "primary_result": "goes_to_actor",
+      "present_source_witness": "श्लक्ष्णयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    },
+    "LAVANA_NIC_P": {
+      "profile": "LAVANA_NIC_P",
+      "nominal": "lavaṇa",
+      "prefix": "",
+      "nominal_factor": "lavaṇ",
+      "copy_and_base": "lalavaṇ",
+      "meaning_ids": [
+        "make_salty"
+      ],
+      "pada": "P",
+      "primary_result": "goes_to_another_in_the_selected_frame",
+      "present_source_witness": "लवणयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    },
+    "LAVANA_NIC_A": {
+      "profile": "LAVANA_NIC_A",
+      "nominal": "lavaṇa",
+      "prefix": "",
+      "nominal_factor": "lavaṇ",
+      "copy_and_base": "lalavaṇ",
+      "meaning_ids": [
+        "make_salty"
+      ],
+      "pada": "A",
+      "primary_result": "goes_to_actor",
+      "present_source_witness": "लवणयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    },
+    "VRATA_NIC_P": {
+      "profile": "VRATA_NIC_P",
+      "nominal": "vrata",
+      "prefix": "",
+      "nominal_factor": "vrat",
+      "copy_and_base": "vavrat",
+      "meaning_ids": [
+        "consume_under_vow",
+        "abstain_under_vow"
+      ],
+      "pada": "P",
+      "primary_result": "goes_to_another_in_the_selected_frame",
+      "present_source_witness": "व्रतयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    },
+    "VRATA_NIC_A": {
+      "profile": "VRATA_NIC_A",
+      "nominal": "vrata",
+      "prefix": "",
+      "nominal_factor": "vrat",
+      "copy_and_base": "vavrat",
+      "meaning_ids": [
+        "consume_under_vow",
+        "abstain_under_vow"
+      ],
+      "pada": "A",
+      "primary_result": "goes_to_actor",
+      "present_source_witness": "व्रतयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    },
+    "SAM_VASTRA_NIC_P": {
+      "profile": "SAM_VASTRA_NIC_P",
+      "nominal": "vastra",
+      "prefix": "sam",
+      "nominal_factor": "vastr",
+      "copy_and_base": "vavastr",
+      "meaning_ids": [
+        "cover_completely"
+      ],
+      "pada": "P",
+      "primary_result": "goes_to_another_in_the_selected_frame",
+      "present_source_witness": "संवस्त्रयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    },
+    "SAM_VASTRA_NIC_A": {
+      "profile": "SAM_VASTRA_NIC_A",
+      "nominal": "vastra",
+      "prefix": "sam",
+      "nominal_factor": "vastr",
+      "copy_and_base": "vavastr",
+      "meaning_ids": [
+        "cover_completely"
+      ],
+      "pada": "A",
+      "primary_result": "goes_to_actor",
+      "present_source_witness": "संवस्त्रयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    },
+    "PARI_VASTRA_NIC_P": {
+      "profile": "PARI_VASTRA_NIC_P",
+      "nominal": "vastra",
+      "prefix": "pari",
+      "nominal_factor": "vastr",
+      "copy_and_base": "vavastr",
+      "meaning_ids": [
+        "put_on_a_garment"
+      ],
+      "pada": "P",
+      "primary_result": "goes_to_another_in_the_selected_frame",
+      "present_source_witness": "परिवस्त्रयति",
+      "witness_pada": "P",
+      "quoted_authority": "Prakriyāsarvasva citing Bhoja"
+    },
+    "PARI_VASTRA_NIC_A": {
+      "profile": "PARI_VASTRA_NIC_A",
+      "nominal": "vastra",
+      "prefix": "pari",
+      "nominal_factor": "vastr",
+      "copy_and_base": "vavastr",
+      "meaning_ids": [
+        "put_on_a_garment"
+      ],
+      "pada": "A",
+      "primary_result": "goes_to_actor",
+      "present_source_witness": "परिवस्त्रयति",
+      "witness_pada": "P",
+      "quoted_authority": "Prakriyāsarvasva citing Bhoja"
+    },
+    "HALI_NIC_P": {
+      "profile": "HALI_NIC_P",
+      "nominal": "hali",
+      "prefix": "",
+      "nominal_factor": "hal",
+      "copy_and_base": "jahal",
+      "meaning_ids": [
+        "take_hold_of_the_large_plough"
+      ],
+      "pada": "P",
+      "primary_result": "goes_to_another_in_the_selected_frame",
+      "present_source_witness": "हलयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    },
+    "HALI_NIC_A": {
+      "profile": "HALI_NIC_A",
+      "nominal": "hali",
+      "prefix": "",
+      "nominal_factor": "hal",
+      "copy_and_base": "jahal",
+      "meaning_ids": [
+        "take_hold_of_the_large_plough"
+      ],
+      "pada": "A",
+      "primary_result": "goes_to_actor",
+      "present_source_witness": "हलयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    },
+    "KALI_NIC_P": {
+      "profile": "KALI_NIC_P",
+      "nominal": "kali",
+      "prefix": "",
+      "nominal_factor": "kal",
+      "copy_and_base": "cakal",
+      "meaning_ids": [
+        "take_kali"
+      ],
+      "pada": "P",
+      "primary_result": "goes_to_another_in_the_selected_frame",
+      "present_source_witness": "कलयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    },
+    "KALI_NIC_A": {
+      "profile": "KALI_NIC_A",
+      "nominal": "kali",
+      "prefix": "",
+      "nominal_factor": "kal",
+      "copy_and_base": "cakal",
+      "meaning_ids": [
+        "take_kali"
+      ],
+      "pada": "A",
+      "primary_result": "goes_to_actor",
+      "present_source_witness": "कलयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    },
+    "KRITA_NIC_P": {
+      "profile": "KRITA_NIC_P",
+      "nominal": "kṛta",
+      "prefix": "",
+      "nominal_factor": "kṛt",
+      "copy_and_base": "cakṛt",
+      "meaning_ids": [
+        "take_kṛta"
+      ],
+      "pada": "P",
+      "primary_result": "goes_to_another_in_the_selected_frame",
+      "present_source_witness": "कृतयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    },
+    "KRITA_NIC_A": {
+      "profile": "KRITA_NIC_A",
+      "nominal": "kṛta",
+      "prefix": "",
+      "nominal_factor": "kṛt",
+      "copy_and_base": "cakṛt",
+      "meaning_ids": [
+        "take_kṛta"
+      ],
+      "pada": "A",
+      "primary_result": "goes_to_actor",
+      "present_source_witness": "कृतयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    },
+    "VI_TUSTA_NIC_P": {
+      "profile": "VI_TUSTA_NIC_P",
+      "nominal": "tūsta",
+      "prefix": "vi",
+      "nominal_factor": "tūst",
+      "copy_and_base": "tutūst",
+      "meaning_ids": [
+        "disperse_hair",
+        "undo_matted_hair",
+        "dispel_evil",
+        "disentangle_fringe"
+      ],
+      "pada": "P",
+      "primary_result": "goes_to_another_in_the_selected_frame",
+      "present_source_witness": "वितूस्तयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    },
+    "VI_TUSTA_NIC_A": {
+      "profile": "VI_TUSTA_NIC_A",
+      "nominal": "tūsta",
+      "prefix": "vi",
+      "nominal_factor": "tūst",
+      "copy_and_base": "tutūst",
+      "meaning_ids": [
+        "disperse_hair",
+        "undo_matted_hair",
+        "dispel_evil",
+        "disentangle_fringe"
+      ],
+      "pada": "A",
+      "primary_result": "goes_to_actor",
+      "present_source_witness": "वितूस्तयति",
+      "witness_pada": "P",
+      "quoted_authority": "Kāśikā/Kaumudī with Prakriyāsarvasva lexical glosses"
+    }
+  },
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "Traditional same-word applicability in the 45 A perfects remains unresolved.",
+    "54 PG131 outer udaka requests retain lower-bound status.",
+    "Other orthographies and lexical senses need their own source scope."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Checked four printed copy forms, two prefix/augment stems, 198 consistent morphological cells, and all action-labeled paths."
+  },
+  "full_ten_lakara_grid_positions": 1980,
+  "separate_primary_lexical_inputs": 10,
+  "prefix_nominal_profiles": 11
+}
