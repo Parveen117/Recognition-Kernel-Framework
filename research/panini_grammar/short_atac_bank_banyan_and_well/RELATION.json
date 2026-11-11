@@ -1,0 +1,122 @@
+{
+  "text": {
+    "work": "Śvetavanavāsin, §541, explicitly marked alternative vṛtti",
+    "three_lexical_derivations": [
+      {
+        "root": "tan, expand",
+        "affix": "aṭac",
+        "operation": "The author invokes the deletion of final nasal.",
+        "result": "taṭaḥ",
+        "gloss": "kūlam, bank"
+      },
+      {
+        "root": "van",
+        "affix": "aṭac",
+        "operation": "The author expressly mentions loss of the nasal.",
+        "result": "vaṭaḥ",
+        "gloss": "nyagrodhaḥ, banyan"
+      },
+      {
+        "root": "av, protect",
+        "affix": "aṭac",
+        "result": "avaṭaḥ",
+        "gloss": "kūpaḥ, well"
+      }
+    ]
+  },
+  "lexical_controls": [
+    {
+      "work": "mw",
+      "L": "81664",
+      "key": "tawa",
+      "page": "432,1",
+      "entry_sha256": "45de2f2d041f0a083ad48985d6dac8e069e39dbf22650f561025b7ffdcf2b6aa",
+      "literal_spans_in_whitespace_joined_entry": [
+        "a shore"
+      ]
+    },
+    {
+      "work": "mw",
+      "L": "185176",
+      "key": "vawa",
+      "page": "914,3",
+      "entry_sha256": "7a0e854133af4a0313ec5f02b9115f12ee0d889b6644e5818a939647788a5c8a",
+      "literal_spans_in_whitespace_joined_entry": [
+        "Banyan"
+      ]
+    },
+    {
+      "work": "mw",
+      "L": "17277",
+      "key": "avawa",
+      "page": "98,2",
+      "entry_sha256": "4271d342668c1e3cfa518610e204cbbb68b47b2b4bd3014330a2807543d9b593",
+      "literal_spans_in_whitespace_joined_entry": [
+        "a hole, vacuity in the ground"
+      ]
+    }
+  ],
+  "corpus_examples": [
+    {
+      "locator": "ViP_1,12.2",
+      "source_span": "yamunātaṭam",
+      "word": "yamunātaṭam",
+      "case_number": "acc.sg",
+      "role": "compound with bank as final member",
+      "normalized_group_offset": 74
+    },
+    {
+      "locator": "ViP_2,15.6",
+      "source_span": "devikāyāstaṭe",
+      "word": "taṭe",
+      "case_number": "loc.sg",
+      "role": "river name in the genitive before bank",
+      "normalized_group_offset": 0
+    },
+    {
+      "locator": "ViP_5,9.2",
+      "source_span": "bhāṇḍīravaṭam",
+      "word": "bhāṇḍīravaṭam",
+      "case_number": "acc.sg",
+      "role": "tree as final compound member",
+      "normalized_group_offset": 66
+    },
+    {
+      "locator": "ViP_5,9.15",
+      "source_span": "bhāṇḍīraṃ vaṭametya",
+      "word": "vaṭam",
+      "case_number": "acc.sg",
+      "role": "separate tree word before etya",
+      "normalized_group_offset": 24
+    },
+    {
+      "locator": "BhP_01.07.002",
+      "source_span": "paścime taṭe",
+      "word": "taṭe",
+      "case_number": "loc.sg",
+      "role": "western bank of the Sarasvatī",
+      "normalized_group_offset": 33
+    },
+    {
+      "locator": "BhP_10.18.022",
+      "source_span": "bhāṇḍīrakaṃ nāma vaṭaṃ",
+      "word": "vaṭam",
+      "case_number": "acc.sg",
+      "role": "separate tree word named Bhāṇḍīraka",
+      "normalized_group_offset": 48
+    }
+  ],
+  "register": {
+    "four_open": [
+      "sya",
+      "ḍha",
+      "ḍaṭ",
+      "āṭac"
+    ],
+    "direct": 99,
+    "total": 103,
+    "primary_long_a_receives_new_support": false,
+    "reason": "All three explicit technical suffixes on this page begin with short a. The poems establish that the words and senses are used, and supply no information about the name or vowel quantity of the technical suffix."
+  },
+  "nominal_count": "Three distinct masculine heads in the alternative commentary; the additional dictionary gender reports are outside this count."
+}

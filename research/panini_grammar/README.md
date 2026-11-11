@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG251 — Three short-a extension words in the commentary and the Purāṇas.** [Packet](short_atac_bank_banyan_and_well/README.md). Zero new finite positions. Cumulative **46,430**.
+
 **PG250 — The later action on the gerund and two nouns for acquired property.** [Packet](exchange_gerund_and_two_borrowing_nouns/README.md). Zero new finite positions. Cumulative **46,430**.
 
 **PG249 — Two complete mā histories and an explicitly prefixed aorist.** [Packet](two_ma_roots_perfect_aorist_and_coverage/README.md). 72 positions, 72 readings and 72 paths. Cumulative **46,430**.
