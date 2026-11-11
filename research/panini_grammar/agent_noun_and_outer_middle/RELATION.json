@@ -1,0 +1,690 @@
+{
+  "qualified_scope": "A later ending of a denominative formed on an agent noun cannot retroactively settle the inner affix. The first two attested desideratives show opposite prescribed outcomes.",
+  "source_controls": [
+    {
+      "work": "bhashya",
+      "rule": "7.2.36",
+      "literal": "प्रस्नवितेवाचरति प्रस्नवित्रीयते",
+      "span": [
+        1027,
+        1059
+      ]
+    },
+    {
+      "work": "bhashya",
+      "rule": "7.2.58",
+      "literal": "जिगमिषिता",
+      "span": [
+        124,
+        133
+      ]
+    },
+    {
+      "work": "bhashya",
+      "rule": "7.2.59",
+      "literal": "विवृत्सिता",
+      "span": [
+        106,
+        116
+      ]
+    },
+    {
+      "work": "padamanjari",
+      "rule": "7.2.60",
+      "literal": "चिकॢप्सिता",
+      "span": [
+        95,
+        105
+      ]
+    },
+    {
+      "work": "tattvabodhini",
+      "rule": "7.2.59",
+      "literal": "विवर्द्धिषते",
+      "span": [
+        725,
+        737
+      ]
+    },
+    {
+      "work": "tattvabodhini",
+      "rule": "7.2.59",
+      "literal": "पश्चात्तङि कृतेऽपि न निवर्तते",
+      "span": [
+        882,
+        911
+      ]
+    },
+    {
+      "work": "kaumudi",
+      "rule": "7.2.59",
+      "literal": "तङानयोरभावे",
+      "span": [
+        37,
+        48
+      ]
+    },
+    {
+      "work": "tattvabodhini",
+      "rule": "2.4.81",
+      "literal": "तिङाद्यपवादत्वाल्लावस्थायायमेवायं लुक्",
+      "span": [
+        205,
+        243
+      ]
+    },
+    {
+      "work": "tattvabodhini",
+      "rule": "1.3.63",
+      "literal": "आम्प्रत्ययान्तस्यात्मनेपदाऽभावादाह",
+      "span": [
+        53,
+        87
+      ]
+    }
+  ],
+  "profiles": {
+    "AGENT_MODEL_TURN_KYANG_A": {
+      "root": "vṛt",
+      "root_id": "01.0862",
+      "agent_stem": "vivṛtsitṛ",
+      "agent_model_factor": "vivṛtsitrīya",
+      "meaning_of_inner_action": "turn or continue",
+      "inner_desire": true,
+      "selector": "behaving like the agent specified by the input noun",
+      "outer_pada": "A, from ṅ of kyaṅ",
+      "direct_outer_present": {
+        "work": "tattvabodhini",
+        "rule": "7.2.59",
+        "literal": "विवृत्सित्रीयते",
+        "span": [
+          772,
+          787
+        ]
+      }
+    },
+    "AGENT_MODEL_GROW_KYANG_A": {
+      "root": "vṛdh",
+      "root_id": "01.0863",
+      "agent_stem": "vivṛtsitṛ",
+      "agent_model_factor": "vivṛtsitrīya",
+      "meaning_of_inner_action": "grow",
+      "inner_desire": true,
+      "selector": "behaving like the agent specified by the input noun",
+      "outer_pada": "A, from ṅ of kyaṅ",
+      "direct_outer_present": null
+    },
+    "AGENT_MODEL_SHRDH_KYANG_A": {
+      "root": "śṛdh",
+      "root_id": "01.0864",
+      "agent_stem": "śiśṛtsitṛ",
+      "agent_model_factor": "śiśṛtsitrīya",
+      "meaning_of_inner_action": "make a disparaging sound, on the selected PG118 sense",
+      "inner_desire": true,
+      "selector": "behaving like the agent specified by the input noun",
+      "outer_pada": "A, from ṅ of kyaṅ",
+      "direct_outer_present": null
+    },
+    "AGENT_MODEL_FLOW_KYANG_A": {
+      "root": "syand",
+      "root_id": "01.0865",
+      "agent_stem": "sisyantsitṛ",
+      "agent_model_factor": "sisyantsitrīya",
+      "meaning_of_inner_action": "flow",
+      "inner_desire": true,
+      "selector": "behaving like the agent specified by the input noun",
+      "outer_pada": "A, from ṅ of kyaṅ",
+      "direct_outer_present": null
+    },
+    "AGENT_MODEL_CAPABLE_KYANG_A": {
+      "root": "kṛp",
+      "root_id": "01.0866",
+      "agent_stem": "cikḷpsitṛ",
+      "agent_model_factor": "cikḷpsitrīya",
+      "meaning_of_inner_action": "be capable",
+      "inner_desire": true,
+      "selector": "behaving like the agent specified by the input noun",
+      "outer_pada": "A, from ṅ of kyaṅ",
+      "direct_outer_present": null
+    },
+    "AGENT_MODEL_GO_KYANG_A": {
+      "root": "gam",
+      "root_id": "01.1137",
+      "agent_stem": "jigamiṣitṛ",
+      "agent_model_factor": "jigamiṣitrīya",
+      "meaning_of_inner_action": "go",
+      "inner_desire": true,
+      "selector": "behaving like the agent specified by the input noun",
+      "outer_pada": "A, from ṅ of kyaṅ",
+      "direct_outer_present": {
+        "work": "padamanjari",
+        "rule": "7.2.58",
+        "literal": "जिगमिषित्रीयत",
+        "span": [
+          156,
+          169
+        ]
+      }
+    },
+    "AGENT_MODEL_FLOW_PRA_KYANG_A": {
+      "root": "pra + snu",
+      "root_id": "02.0033",
+      "agent_stem": "prasnavitṛ",
+      "agent_model_factor": "prasnavitrīya",
+      "meaning_of_inner_action": "flow forth",
+      "inner_desire": false,
+      "selector": "behaving like the agent specified by the input noun",
+      "outer_pada": "A, from ṅ of kyaṅ",
+      "direct_outer_present": {
+        "work": "bhashya",
+        "rule": "7.2.36",
+        "literal": "प्रस्नवित्रीयते",
+        "span": [
+          1044,
+          1059
+        ]
+      }
+    }
+  },
+  "source_selection_vs_published_krt": [
+    {
+      "root": "vṛt",
+      "root_key": "01.0862",
+      "field": "तृच्",
+      "source_class": "published computed data",
+      "selected_nominative": "विवृत्सिता",
+      "published_nominatives": [
+        "विवर्तिषिता"
+      ],
+      "stored_field": "विवर्तिषितृ,विवर्तिषिता,विवर्तिषित्री,विवर्तिषितृ",
+      "comparison": "disjoint"
+    },
+    {
+      "root": "vṛdh",
+      "root_key": "01.0863",
+      "field": "तृच्",
+      "source_class": "published computed data",
+      "selected_nominative": "विवृत्सिता",
+      "published_nominatives": [
+        "विवर्धिषिता"
+      ],
+      "stored_field": "विवर्धिषितृ,विवर्धिषिता,विवर्धिषित्री,विवर्धिषितृ",
+      "comparison": "disjoint"
+    },
+    {
+      "root": "śṛdh",
+      "root_key": "01.0864",
+      "field": "तृच्",
+      "source_class": "published computed data",
+      "selected_nominative": "शिशृत्सिता",
+      "published_nominatives": [
+        "शिशर्धिषिता"
+      ],
+      "stored_field": "शिशर्धिषितृ,शिशर्धिषिता,शिशर्धिषित्री,शिशर्धिषितृ",
+      "comparison": "disjoint"
+    },
+    {
+      "root": "syand",
+      "root_key": "01.0865",
+      "field": "तृच्",
+      "source_class": "published computed data",
+      "selected_nominative": "सिस्यन्त्सिता",
+      "published_nominatives": [
+        "सिस्यन्त्सिता",
+        "सिस्यन्दिषिता"
+      ],
+      "stored_field": "सिस्यन्त्सितृ,सिस्यन्त्सिता,सिस्यन्त्सित्री,सिस्यन्त्सितृ;सिस्यन्दिषितृ,सिस्यन्दिषिता,सिस्यन्दिषित्री,सिस्यन्दिषितृ",
+      "comparison": "contains_selected_and_additional"
+    },
+    {
+      "root": "kṛp",
+      "root_key": "01.0866",
+      "field": "तृच्",
+      "source_class": "published computed data",
+      "selected_nominative": "चिकॢप्सिता",
+      "published_nominatives": [
+        "चिकॢप्सिता",
+        "चिकल्पिषिता"
+      ],
+      "stored_field": "चिकॢप्सितृ,चिकॢप्सिता,चिकॢप्सित्री,चिकॢप्सितृ;चिकल्पिषितृ,चिकल्पिषिता,चिकल्पिषित्री,चिकल्पिषितृ",
+      "comparison": "contains_selected_and_additional"
+    },
+    {
+      "root": "gam",
+      "root_key": "01.1137",
+      "field": "तृच्",
+      "source_class": "published computed data",
+      "selected_nominative": "जिगमिषिता",
+      "published_nominatives": [
+        "जिगंसिता"
+      ],
+      "stored_field": "जिगंसितृ,जिगंसिता,जिगंसित्री,जिगंसितृ",
+      "comparison": "disjoint"
+    }
+  ],
+  "search": {
+    "search_method": "Per text field, first a broad stem + long ā + nasal search, then a secondary filter on the three permitted auxiliaries. The broad candidates were also inspected. A hit in the computed table verifies the recognizer on the target construction. Separate generic periphrastic and grammatical controls test visibility in the historical files. Text without a literal target, another spelling, or a lacuna may remain undetected.",
+    "patterns": [
+      "(?:विवृत्स|विवर्तिष|विवर्त्तिष|विवर्धिष|विवर्द्धिष|शिशृत्स|शिशर्धिष|शिशर्द्धिष|सिस्यन्त्स|सिस्यंत्स|सिस्यन्दिष|सिस्यंदिष|चिकॢप्स|चिक्ऌप्स|चिक्लृप्स|चिक्लॢप्स|चिकल्पिष)ा(?:ं|ँ|म्|म|ञ्)[\\s\\-।|]*(?:च[कख]|बभ|आस|ास)",
+      "(?:vivfts|vivartiz|vivarttiz|vivarDiz|vivardDiz|SiSfts|SiSarDiz|SiSardDiz|sisyants|sisyaMts|sisyandiz|sisyaMdiz|cikxps|ciklfps|cikalpiz)A(?:M|~|m|Y)[\\s\\-।|]*(?:ca[kK]|baB|[Aa]s)"
+    ],
+    "broad_patterns": [
+      "(?:विवृत्स|विवर्तिष|विवर्त्तिष|विवर्धिष|विवर्द्धिष|शिशृत्स|शिशर्धिष|शिशर्द्धिष|सिस्यन्त्स|सिस्यंत्स|सिस्यन्दिष|सिस्यंदिष|चिकॢप्स|चिक्ऌप्स|चिक्लृप्स|चिक्लॢप्स|चिकल्पिष)ा(?:ं|ँ|म्|म|ञ्)",
+      "(?:vivfts|vivartiz|vivarttiz|vivarDiz|vivardDiz|SiSfts|SiSarDiz|SiSardDiz|sisyants|sisyaMts|sisyandiz|sisyaMdiz|cikxps|ciklfps|cikalpiz)A(?:M|~|m|Y)"
+    ],
+    "controls": {
+      "dev_forms": "विवृत्सिता|विवर्द्धिषते|विवर्धिषते|चिक्ऌप्सिता|चिकॢप्सिता|जिगमिषिता|प्रस्नवित्रीयते",
+      "slp_forms": "vivftsitA|vivard?Dizate|cikxpsitA|jigamizitA|prasnavitrIyate",
+      "dev_peri": "एधा(?:ं|ँ|ञ्|म्|म)\\s*(?:चक्रे|बभूव|आस|ास)",
+      "slp_peri": "eDA(?:M|Y|m)\\s*(?:cakre|baBUva|As)"
+    },
+    "reports": [
+      {
+        "work": "sutraani/kashika.txt",
+        "script": "dev",
+        "source": {
+          "repository": "ashtadhyayi-com/data",
+          "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+          "path": "sutraani/kashika.txt",
+          "sha256": "ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254",
+          "git_blob_sha": "e525df7668835ef1dd7c5988c031da07ce0c162b",
+          "bytes": 3806703
+        },
+        "record_count": 3983,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 5,
+        "generic_periphrastic_controls": 0
+      },
+      {
+        "work": "sutraani/nyaas.txt",
+        "script": "dev",
+        "source": {
+          "repository": "ashtadhyayi-com/data",
+          "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+          "path": "sutraani/nyaas.txt",
+          "sha256": "09766f127e9523d911179065fed777a17c4f832b336e745f13c0b2cebc76c0ce",
+          "git_blob_sha": "8ecc8bbb657a42be8606fe07fa0c72c9cb7fa1b1",
+          "bytes": 9286920
+        },
+        "record_count": 3983,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 2,
+        "generic_periphrastic_controls": 0
+      },
+      {
+        "work": "sutraani/padamanjari.txt",
+        "script": "dev",
+        "source": {
+          "repository": "ashtadhyayi-com/data",
+          "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+          "path": "sutraani/padamanjari.txt",
+          "sha256": "93b817859e7333f326b0aaec7f17b03d83ff3d34cf3200402e929e8a21ce28cc",
+          "git_blob_sha": "0d926503e6f22d6375c6f2fabb247d1606742258",
+          "bytes": 7828904
+        },
+        "record_count": 3983,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 1,
+        "generic_periphrastic_controls": 1
+      },
+      {
+        "work": "sutraani/bhashya.txt",
+        "script": "dev",
+        "source": {
+          "repository": "ashtadhyayi-com/data",
+          "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+          "path": "sutraani/bhashya.txt",
+          "sha256": "6ce286c683dadaf8d88891699add7c0f3139095c782adb799c6d198e7e49f954",
+          "git_blob_sha": "e1220bd6b793992747ee3c23cfb09f9fc15fdf81",
+          "bytes": 6213939
+        },
+        "record_count": 3983,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 3,
+        "generic_periphrastic_controls": 0
+      },
+      {
+        "work": "sutraani/kaumudi.txt",
+        "script": "dev",
+        "source": {
+          "repository": "ashtadhyayi-com/data",
+          "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+          "path": "sutraani/kaumudi.txt",
+          "sha256": "c1938e832ddc2e148ae36257448ee3391f71cdac28be19dc4bfdc3881f3b457d",
+          "git_blob_sha": "686f4b7593f2dd05e1f8b6181425cfa9cf20655b",
+          "bytes": 2057933
+        },
+        "record_count": 3983,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 3,
+        "generic_periphrastic_controls": 6
+      },
+      {
+        "work": "sutraani/prakriyasarvasvam.txt",
+        "script": "dev",
+        "source": {
+          "repository": "ashtadhyayi-com/data",
+          "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+          "path": "sutraani/prakriyasarvasvam.txt",
+          "sha256": "78750fdd7372dcb0bf9c3a098542783404537e2e9114832ffe6138e47b8293c9",
+          "git_blob_sha": "87898d0b4c8659741a2b407f0a7246d82288c633",
+          "bytes": 2237275
+        },
+        "record_count": 3670,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 5,
+        "generic_periphrastic_controls": 0
+      },
+      {
+        "work": "sutraani/balamanorama.txt",
+        "script": "dev",
+        "source": {
+          "repository": "ashtadhyayi-com/data",
+          "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+          "path": "sutraani/balamanorama.txt",
+          "sha256": "0810e4c59d1642122186e1f0838af15859ea2d48487f6ee5e9006cf5302e9238",
+          "git_blob_sha": "8f7ab57f5b04648d914f85944b137504d1944961",
+          "bytes": 6995341
+        },
+        "record_count": 3983,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 1,
+        "generic_periphrastic_controls": 11
+      },
+      {
+        "work": "sutraani/tattvabodhini.txt",
+        "script": "dev",
+        "source": {
+          "repository": "ashtadhyayi-com/data",
+          "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+          "path": "sutraani/tattvabodhini.txt",
+          "sha256": "6784a8d4f84de1f7b5653851ab5ff52ca88b3b28204b9515b74f0b75a9d3c2b4",
+          "git_blob_sha": "1f9af68d606f75baa6ede48a946b709da2c14054",
+          "bytes": 4769767
+        },
+        "record_count": 3983,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 4,
+        "generic_periphrastic_controls": 5
+      },
+      {
+        "work": "sutraani/laghukaumudi.txt",
+        "script": "dev",
+        "source": {
+          "repository": "ashtadhyayi-com/data",
+          "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+          "path": "sutraani/laghukaumudi.txt",
+          "sha256": "ac02643c3e389022710ef9cb0c21fc8f94876f67d28956c214078297ff088862",
+          "git_blob_sha": "f1debb3f699b5201399ff968093b54b9804fb814",
+          "bytes": 433216
+        },
+        "record_count": 3991,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 0,
+        "generic_periphrastic_controls": 4
+      },
+      {
+        "work": "sutraani/laghushabdendushekhar.txt",
+        "script": "dev",
+        "source": {
+          "repository": "ashtadhyayi-com/data",
+          "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+          "path": "sutraani/laghushabdendushekhar.txt",
+          "sha256": "a15f701551c3d44a6135fc99925191c287de8ab46eee534b7087abaea89586be",
+          "git_blob_sha": "c0e2d127d8d6d01c142bcd08fe41c1a777f329c1",
+          "bytes": 316400
+        },
+        "record_count": 86,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 0,
+        "generic_periphrastic_controls": 0
+      },
+      {
+        "work": "sutraani/praudhamanorama.txt",
+        "script": "dev",
+        "source": {
+          "repository": "ashtadhyayi-com/data",
+          "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+          "path": "sutraani/praudhamanorama.txt",
+          "sha256": "a70d823399dffb76b4dd12d950f72588a397dceabd16a4a59f587792334be0fa",
+          "git_blob_sha": "00c4b9f496ee120f48298afb14eb1cc6d267f4e0",
+          "bytes": 825568
+        },
+        "record_count": 462,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 0,
+        "generic_periphrastic_controls": 0
+      },
+      {
+        "work": "sutraani/sudha.txt",
+        "script": "dev",
+        "source": {
+          "repository": "ashtadhyayi-com/data",
+          "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+          "path": "sutraani/sudha.txt",
+          "sha256": "a792ef16fbb30ee5a25db7421f6ebce2f1cc64b618bcf2089d30f6e6f9413efe",
+          "git_blob_sha": "a5149af6f9741e083b7efbe3c053c72611818ea6",
+          "bytes": 903225
+        },
+        "record_count": 425,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 0,
+        "generic_periphrastic_controls": 0
+      },
+      {
+        "work": "bhushanasara/data.txt",
+        "script": "dev",
+        "source": {
+          "repository": "ashtadhyayi-com/data",
+          "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+          "path": "bhushanasara/data.txt",
+          "sha256": "648675449f0671264dcdb20a41aaa98099ee6521d880524af2862f939edc784c",
+          "git_blob_sha": "fca3af61390e75893fb3ce0d5089aa32d7006636",
+          "bytes": 347484
+        },
+        "record_count": 303,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 0,
+        "generic_periphrastic_controls": 1
+      },
+      {
+        "work": "paramalaghumanjoosha/data.txt",
+        "script": "dev",
+        "source": {
+          "repository": "ashtadhyayi-com/data",
+          "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+          "path": "paramalaghumanjoosha/data.txt",
+          "sha256": "671eb1bdc47eb6e85675f043c61a19cd2fe7ade4f3f3bc1f7137bd981cdb302e",
+          "git_blob_sha": "cac51502e77da3b6019e5fa4dc480c712d4392f2",
+          "bytes": 238498
+        },
+        "record_count": 43,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 0,
+        "generic_periphrastic_controls": 1
+      },
+      {
+        "work": "paribhashendushekhar/data.txt",
+        "script": "dev",
+        "source": {
+          "repository": "ashtadhyayi-com/data",
+          "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+          "path": "paribhashendushekhar/data.txt",
+          "sha256": "59ab6cd2a00277765454437eeb97607c209693551101d2d395223423ffbdd900",
+          "git_blob_sha": "4b8b264224ec890a354a0bf0bf1ff3a677df2cac",
+          "bytes": 344369
+        },
+        "record_count": 533,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 0,
+        "generic_periphrastic_controls": 0
+      },
+      {
+        "work": "dhatu/dhatuprayogas.txt",
+        "script": "dev",
+        "source": {
+          "repository": "ashtadhyayi-com/data",
+          "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+          "path": "dhatu/dhatuprayogas.txt",
+          "sha256": "56d2ce62ba7825e524d0705746e91e39e5eacd08dd00c3b989259d9fec5b65e5",
+          "git_blob_sha": "901cb84df6223c8d803652ff95c05e48fa8a9728",
+          "bytes": 3222981
+        },
+        "record_count": 33568,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 0,
+        "generic_periphrastic_controls": 0
+      },
+      {
+        "work": "Mādhavīyadhātuvṛtti",
+        "script": "dev",
+        "source": {
+          "commit": "1ec51dc4cbfecf271e4f3cb0bba41f25b5921572",
+          "path": "dhaatupaatha/files/madhaviya_XAwuvqwwi_new.xml",
+          "repository": "samsaadhanii/scl",
+          "sha256": "4562749571a7efe3b474b1c68f821cfc7271b07893e753ffc66e2fc7a4a79e76",
+          "git_blob_sha": "d14a4235af32a9256615e263b4589e61c9ce25e7"
+        },
+        "record_count": 1,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 2,
+        "generic_periphrastic_controls": 3
+      },
+      {
+        "work": "skd",
+        "script": "slp",
+        "source": {
+          "repository": "sanskrit-lexicon/csl-orig",
+          "commit": "776f75662b804497939e179f2ae1468b83ad55a7",
+          "path": "v02/skd/skd.txt",
+          "git_blob_sha": "79cc75acddecedec3b3814ff28e8102a1ab11088",
+          "sha256": "c7d7c8a89a81b14e264ccde5963241c5549bfe820e60777504c7de5f7c5d4cec",
+          "bytes": 22867341
+        },
+        "record_count": 42531,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 0,
+        "generic_periphrastic_controls": 0
+      },
+      {
+        "work": "vcp",
+        "script": "slp",
+        "source": {
+          "repository": "sanskrit-lexicon/csl-orig",
+          "commit": "776f75662b804497939e179f2ae1468b83ad55a7",
+          "path": "v02/vcp/vcp.txt",
+          "git_blob_sha": "2514e49be65b6fc8675e1f172194ca07778232df",
+          "sha256": "18e50a21f57c625c0ba4ff7b40dbe89b8f0f24647c170235992ff00b25aeab6a",
+          "bytes": 25107867
+        },
+        "record_count": 50135,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 1,
+        "generic_periphrastic_controls": 0
+      },
+      {
+        "work": "ap",
+        "script": "slp",
+        "source": {
+          "repository": "sanskrit-lexicon/csl-orig",
+          "commit": "776f75662b804497939e179f2ae1468b83ad55a7",
+          "path": "v02/ap/ap.txt",
+          "git_blob_sha": "24a90b5bc14c9f28d918ff6a3509706feea79aed",
+          "sha256": "222dae081dfc3049881570be9dcec3191277b8e574c1a018a5ac9a87e3906b78",
+          "bytes": 18528867
+        },
+        "record_count": 90856,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 1,
+        "generic_periphrastic_controls": 1
+      },
+      {
+        "work": "mw",
+        "script": "slp",
+        "source": {
+          "repository": "sanskrit-lexicon/csl-orig",
+          "commit": "776f75662b804497939e179f2ae1468b83ad55a7",
+          "path": "v02/mw/mw.txt",
+          "git_blob_sha": "e72bbf56f93897b7967dbec0a882ce1489720b7c",
+          "sha256": "e4641dc4384de459408368a9b34b2a13c90a19b0ecd4671f92c055b7578d0129",
+          "bytes": 50163993
+        },
+        "record_count": 286525,
+        "matching_auxiliary_candidates": [],
+        "broader_long_a_nasal_candidates": [],
+        "agent_or_middle_controls": 1,
+        "generic_periphrastic_controls": 0
+      }
+    ],
+    "computed_positive_control": {
+      "work": "PUBLISHED COMPUTED TABLE AS SEARCH CONTROL",
+      "script": "dev",
+      "source": {
+        "repository": "ashtadhyayi-com/data",
+        "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+        "path": "dhatu/dhatuforms_vidyut_san_kartari.txt",
+        "sha256": "924684d3b4556c7ce40ab308beb060a775c34b89c5045818bcb769ce13bffb35",
+        "git_blob_sha": "1667b40a14d8ec1b115f1926bb01f276dd37a292",
+        "bytes": 17095472
+      },
+      "record_count": 10,
+      "agent_or_middle_controls": 0,
+      "generic_periphrastic_controls": 0,
+      "matching_candidate_count": 329,
+      "matching_examples": [
+        [
+          "01.0862/plit",
+          "विवृत्साञ्चकार,विवृत्सामास,विवृ"
+        ],
+        [
+          "01.0862/plit",
+          "विवृत्साञ्चकार,विवृत्सामास,विवृत्साम्बभूव;विव"
+        ],
+        [
+          "01.0862/plit",
+          "्चकार,विवृत्सामास,विवृत्साम्बभूव;विवृत्साञ्चक्रतु"
+        ],
+        [
+          "01.0862/plit",
+          "ास,विवृत्साम्बभूव;विवृत्साञ्चक्रतुः,विवृत्सामासतु"
+        ]
+      ],
+      "broader_count": 329
+    }
+  },
+  "candidate_test": {
+    "observable": "Need a traditional ām perfect of one of the five roots or an explicit rule on early construction-level entitlement in its primary. Generic later A is insufficient.",
+    "agent_model": "outer A belongs to kyaṅ, the ṅ-marked imitation formation. Its root, nominal intervening host and iṭ recipient can all be named.",
+    "ām_perfect": "The base can pass an entitlement to auxiliary kṛ, although the primary word is atiṅanta under the pre-tiṅ luk account. The traditional agent-noun counterexample rejects backwards licensing from a late A alone. It does not exclude an entitlement present earlier for this particular ām construction.",
+    "lopa": "1.1.62 presupposes a suffix that was elided. Under 2.4.81 the primary lakāra is removed before a taṅ substitute is installed. 1.1.62 by itself cannot recover that never-installed taṅ. 1.1.63 distinguishes aṅga operations, without deciding whether the construction has another early ground for iṭ.",
+    "shared_word_pairs_in_prior_comparison": 54,
+    "agreed_slots": 18,
+    "disjoint_slots": 27,
+    "traditionally_open": 45
+  },
+  "carrier": {
+    "domain": "lexical root and sense, optional prefixed root, desire if selected, named agent nominal, comparison-standard role, outer kāraka and finite request",
+    "lift": "Fix inner iṭ at the recipient, store the agent and rīṅ, attach kyaṅ to that noun, then select the outer A ending. The imitator and model are independently assigned.",
+    "projection": "Erasing the ordered owners yields the literal three attested present controls on their labels and the inflected model readout slot by slot. Ṛ-to-rī belongs to the comparison noun, never to the desired root."
+  }
+}

@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG184 — The agent noun fixes inner iṭ before the outer middle.** [Packet](agent_noun_and_outer_middle/README.md). 630 positions, 896 readings and 896 paths. Cumulative **41,009**.
+
 **PG183 — Individual suffix evidence for four deferred Uṇādi rules.** [Packet](unadi_individual_suffix_evidence/README.md). Zero new finite positions. Cumulative **40,379**.
 
 **PG182 — Who owns each affix in all 34 multiple-label Uṇādi entries.** [Packet](unadi_multiple_affix_ownership/README.md). Zero new finite positions. Cumulative **40,379**.
