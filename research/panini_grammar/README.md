@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG193 — The last of ten kinship and priest stems and the open tṛn field.** [Packet](unadi_priest_and_kinship_suffixes/README.md). Zero new finite positions. Cumulative **41,333**.
+
 **PG192 — Accent and the dependent in 29 Ṛgvedic agent-noun occurrences.** [Packet](rigvedic_agent_accent_and_objects/README.md). Zero new finite positions. Cumulative **41,333**.
 
 **PG191 — Three histories for kartā and the case of the mat.** [Packet](agent_noun_object_government/README.md). Zero new finite positions. Cumulative **41,333**.
