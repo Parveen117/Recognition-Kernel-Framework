@@ -1,0 +1,1461 @@
+{
+  "schema": "rkf.panini.pg259.state.v1",
+  "author": "Monty",
+  "date": "2026-11-12",
+  "baseline": {
+    "path": "research/panini_grammar/four_ghu_outer_grades_and_future_source_readings/STATE.json",
+    "commit": "0f144bb3d31d1fd38f434524e5f9784fc11f471c",
+    "git_blob_sha": "6e66d4d18d5960ac97df055db2a9586dc59868e1",
+    "sha256": "fc2be342e887b7f070ddc14c3c7d8f096e86d77ce8cf052c94d07b017dc9b174",
+    "bytes": 58768
+  },
+  "finite_positions": 47870,
+  "new_positions": 144,
+  "new_position_readings": 188,
+  "new_written_table_readings": 188,
+  "retained_path_count": 188,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "praṇidadhau"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "pariṇidadhau"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "praṇidadhatuḥ"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "pariṇidadhatuḥ"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "praṇidadhuḥ"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "pariṇidadhuḥ"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "praṇidadhātha",
+          "praṇidadhitha"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "pariṇidadhātha",
+          "pariṇidadhitha"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "praṇidadhathuḥ"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "pariṇidadhathuḥ"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "praṇidadha"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "pariṇidadha"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "praṇidadhau"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "pariṇidadhau"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "praṇidadhiva"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "pariṇidadhiva"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "praṇidadhima"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "pariṇidadhima"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "praṇyadadhat",
+          "praṇyadhāt",
+          "praṇyadhāsīt"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "pariṇyadadhat",
+          "pariṇyadhāt",
+          "pariṇyadhāsīt"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "praṇyadadhatām",
+          "praṇyadhātām",
+          "praṇyadhāsiṣṭām"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "pariṇyadadhatām",
+          "pariṇyadhātām",
+          "pariṇyadhāsiṣṭām"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "praṇyadadhan",
+          "praṇyadhuḥ",
+          "praṇyadhāsiṣuḥ"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "pariṇyadadhan",
+          "pariṇyadhuḥ",
+          "pariṇyadhāsiṣuḥ"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "praṇyadadhaḥ",
+          "praṇyadhāḥ",
+          "praṇyadhāsīḥ"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "pariṇyadadhaḥ",
+          "pariṇyadhāḥ",
+          "pariṇyadhāsīḥ"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "praṇyadadhatam",
+          "praṇyadhātam",
+          "praṇyadhāsiṣṭam"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "pariṇyadadhatam",
+          "pariṇyadhātam",
+          "pariṇyadhāsiṣṭam"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "praṇyadadhata",
+          "praṇyadhāta",
+          "praṇyadhāsiṣṭa"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "pariṇyadadhata",
+          "pariṇyadhāta",
+          "pariṇyadhāsiṣṭa"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "praṇyadadham",
+          "praṇyadhām",
+          "praṇyadhāsiṣam"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "pariṇyadadham",
+          "pariṇyadhām",
+          "pariṇyadhāsiṣam"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "praṇyadadhāva",
+          "praṇyadhāva",
+          "praṇyadhāsiṣva"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "pariṇyadadhāva",
+          "pariṇyadhāva",
+          "pariṇyadhāsiṣva"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "praṇyadadhāma",
+          "praṇyadhāma",
+          "praṇyadhāsiṣma"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "pariṇyadadhāma",
+          "pariṇyadhāma",
+          "pariṇyadhāsiṣma"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "praṇidadau"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "pariṇidadau"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "praṇidadatuḥ"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "pariṇidadatuḥ"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "praṇidaduḥ"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "pariṇidaduḥ"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "praṇidadātha",
+          "praṇidaditha"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "pariṇidadātha",
+          "pariṇidaditha"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "praṇidadathuḥ"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "pariṇidadathuḥ"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "praṇidada"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "pariṇidada"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "praṇidadau"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "pariṇidadau"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "praṇidadiva"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "pariṇidadiva"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "praṇidadima"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "pariṇidadima"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "praṇyadāt"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "pariṇyadāt"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "praṇyadātām"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "pariṇyadātām"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "praṇyaduḥ"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "pariṇyaduḥ"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "praṇyadāḥ"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "pariṇyadāḥ"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "praṇyadātam"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "pariṇyadātam"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "praṇyadāta"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "pariṇyadāta"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "praṇyadām"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "pariṇyadām"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "praṇyadāva"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "pariṇyadāva"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "praṇyadāma"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "pariṇyadāma"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "praṇidigye"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "pariṇidigye"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "praṇidigyāte"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "pariṇidigyāte"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "praṇidigyire"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "pariṇidigyire"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "praṇidigyiṣe"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "pariṇidigyiṣe"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "praṇidigyāthe"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "pariṇidigyāthe"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "praṇidigyiḍhve",
+          "praṇidigyidhve"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "pariṇidigyiḍhve",
+          "pariṇidigyidhve"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "praṇidigye"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "pariṇidigye"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "praṇidigyivahe"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "pariṇidigyivahe"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "praṇidigyimahe"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "pariṇidigyimahe"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "praṇyadita"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "pariṇyadita"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "praṇyadiṣātām"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "pariṇyadiṣātām"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "praṇyadiṣata"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "pariṇyadiṣata"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "praṇyadithāḥ"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "pariṇyadithāḥ"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "praṇyadiṣāthām"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "pariṇyadiṣāthām"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "praṇyadiḍhvam"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "pariṇyadiḍhvam"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "praṇyadiṣi"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "pariṇyadiṣi"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "praṇyadiṣvahi"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "pariṇyadiṣvahi"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "praṇyadiṣmahi"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "pariṇyadiṣmahi"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "praṇidadau"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "pariṇidadau"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "praṇidadatuḥ"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "pariṇidadatuḥ"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "praṇidaduḥ"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "pariṇidaduḥ"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "praṇidadātha",
+          "praṇidaditha"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "pariṇidadātha",
+          "pariṇidaditha"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "praṇidadathuḥ"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "pariṇidadathuḥ"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "praṇidada"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "pariṇidada"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "praṇidadau"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "pariṇidadau"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "praṇidadiva"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "pariṇidadiva"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "praṇidadima"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "pariṇidadima"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "praṇyadāt"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "pariṇyadāt"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "praṇyadātām"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "pariṇyadātām"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "praṇyaduḥ"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "pariṇyaduḥ"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "praṇyadāḥ"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "pariṇyadāḥ"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "praṇyadātam"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "pariṇyadātam"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "praṇyadāta"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "pariṇyadāta"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "praṇyadām"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "pariṇyadām"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "praṇyadāva"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "pariṇyadāva"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "praṇyadāma"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "pariṇyadāma"
+        ]
+      }
+    ],
+    "panels": [
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "pra_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "pari_ni_DP_01_1050_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "pra_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "pari_ni_DP_01_1079_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "pra_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "pari_ni_DP_01_1117_A",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "pra_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "pari_ni_DP_04_0043_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      }
+    ],
+    "complete_nine_slot_paradigms": 16
+  },
+  "contextual_profiles": {
+    "pra_ni_DP_01_1050_P": {
+      "root_address": "01.1050",
+      "teaching": "धेट्",
+      "sense": "drink or suckle",
+      "pada": "P",
+      "prefixes": [
+        "pra",
+        "ni"
+      ],
+      "source_ghu_definition": "1.1.20"
+    },
+    "pari_ni_DP_01_1050_P": {
+      "root_address": "01.1050",
+      "teaching": "धेट्",
+      "sense": "drink or suckle",
+      "pada": "P",
+      "prefixes": [
+        "pari",
+        "ni"
+      ],
+      "source_ghu_definition": "1.1.20"
+    },
+    "pra_ni_DP_01_1079_P": {
+      "root_address": "01.1079",
+      "teaching": "दाण्",
+      "sense": "give",
+      "pada": "P",
+      "prefixes": [
+        "pra",
+        "ni"
+      ],
+      "source_ghu_definition": "1.1.20"
+    },
+    "pari_ni_DP_01_1079_P": {
+      "root_address": "01.1079",
+      "teaching": "दाण्",
+      "sense": "give",
+      "pada": "P",
+      "prefixes": [
+        "pari",
+        "ni"
+      ],
+      "source_ghu_definition": "1.1.20"
+    },
+    "pra_ni_DP_01_1117_A": {
+      "root_address": "01.1117",
+      "teaching": "देङ्",
+      "sense": "protect",
+      "pada": "A",
+      "prefixes": [
+        "pra",
+        "ni"
+      ],
+      "source_ghu_definition": "1.1.20"
+    },
+    "pari_ni_DP_01_1117_A": {
+      "root_address": "01.1117",
+      "teaching": "देङ्",
+      "sense": "protect",
+      "pada": "A",
+      "prefixes": [
+        "pari",
+        "ni"
+      ],
+      "source_ghu_definition": "1.1.20"
+    },
+    "pra_ni_DP_04_0043_P": {
+      "root_address": "04.0043",
+      "teaching": "दो",
+      "sense": "cut into parts",
+      "pada": "P",
+      "prefixes": [
+        "pra",
+        "ni"
+      ],
+      "source_ghu_definition": "1.1.20"
+    },
+    "pari_ni_DP_04_0043_P": {
+      "root_address": "04.0043",
+      "teaching": "दो",
+      "sense": "cut into parts",
+      "pada": "P",
+      "prefixes": [
+        "pari",
+        "ni"
+      ],
+      "source_ghu_definition": "1.1.20"
+    }
+  },
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "Other explicitly named, non-ghu roots in 8.4.17, including the four simple ā-final adādi roots.",
+    "The four primary extension fields and k at 5.56 remain open."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Checked 1,440 unique profile/lakāra/slot keys, 160 nine-slot panels, every three-way dheṭ aorist, the dental/retroflex perfect alternatives and six independent root-commentary entries."
+  },
+  "four_additional_ghu_positions": 720,
+  "four_additional_ghu_declared": 720,
+  "six_ghu_total_positions": 1440,
+  "six_ghu_total_profiles": 16
+}
