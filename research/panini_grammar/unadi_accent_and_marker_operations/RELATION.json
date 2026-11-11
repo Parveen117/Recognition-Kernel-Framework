@@ -1,0 +1,260 @@
+{
+  "coverage": {
+    "fields": 103,
+    "direct_under_inherited_policy": 94,
+    "argued_individual_selections": 4,
+    "open_individual_selections": 5,
+    "prior_14": [
+      {
+        "unadi": "2.94",
+        "field": 1,
+        "affix": "तृन्",
+        "status": "open"
+      },
+      {
+        "unadi": "2.94",
+        "field": 2,
+        "affix": "तृच्",
+        "status": "explicit"
+      },
+      {
+        "unadi": "2.95",
+        "field": 1,
+        "affix": "तृन्",
+        "status": "explicit"
+      },
+      {
+        "unadi": "4.98",
+        "field": 1,
+        "affix": "द",
+        "status": "inferred"
+      },
+      {
+        "unadi": "4.98",
+        "field": 2,
+        "affix": "दन्",
+        "status": "explicit"
+      },
+      {
+        "unadi": "4.105",
+        "field": 1,
+        "affix": "इत्वन्",
+        "status": "explicit"
+      },
+      {
+        "unadi": "4.105",
+        "field": 2,
+        "affix": "त्वन्",
+        "status": "inferred"
+      },
+      {
+        "unadi": "4.105",
+        "field": 3,
+        "affix": "त्नण्",
+        "status": "inferred"
+      },
+      {
+        "unadi": "4.105",
+        "field": 4,
+        "affix": "क्निन्",
+        "status": "inferred"
+      },
+      {
+        "unadi": "4.105",
+        "field": 5,
+        "affix": "शक्",
+        "status": "explicit"
+      },
+      {
+        "unadi": "4.105",
+        "field": 6,
+        "affix": "स्य",
+        "status": "open"
+      },
+      {
+        "unadi": "4.105",
+        "field": 7,
+        "affix": "ढ",
+        "status": "open"
+      },
+      {
+        "unadi": "4.105",
+        "field": 8,
+        "affix": "डट्",
+        "status": "open"
+      },
+      {
+        "unadi": "4.105",
+        "field": 9,
+        "affix": "आटच्",
+        "status": "open"
+      }
+    ]
+  },
+  "accent_readings": [
+    {
+      "primary_rule": "4.98",
+      "word": "ábda",
+      "sense": "year or cloud",
+      "printed_glossary_page": 182,
+      "pdf_page": 206,
+      "source_class": "Aufrecht glossary accent",
+      "ordinary_two_affix_model": "dan",
+      "compare": {
+        "work": "skd",
+        "L": "2697",
+        "key": "abdaH",
+        "page": "1-135-a",
+        "entry_sha256": "59157337b34072c4afe51712b1cdf8a8e0cac0709946535f15a7cb971404ed0f",
+        "literal_spans_in_whitespace_joined_entry": [
+          "ava + dan"
+        ]
+      }
+    },
+    {
+      "primary_rule": "4.98",
+      "word": "kundá",
+      "sense": "jasmine",
+      "printed_glossary_page": 198,
+      "pdf_page": 222,
+      "source_class": "Aufrecht glossary accent",
+      "ordinary_two_affix_model": "da",
+      "other_history": {
+        "work": "vcp",
+        "L": "14051",
+        "key": "kunda",
+        "page": "2102,a",
+        "entry_sha256": "13f5387d3ac2d68e85c70d7eb65ca925263f5bb841a3f621b4345937df902d6b",
+        "literal_spans_in_whitespace_joined_entry": [
+          "kOteH avdA0 dan"
+        ]
+      },
+      "conditions": "Only da/dan, with their ordinary suffix-initial or derivative-initial accents, respectively. The glossary does not name the grammatical suffix or cite a Vedic occurrence at this entry. Vācaspatyam positively assigns dan to the ku etymology."
+    }
+  ],
+  "unmarked_glossary_controls": [
+    {
+      "primary_rule": "2.94",
+      "word": "mantṛ",
+      "glossary_page": 233,
+      "pdf_page": 257,
+      "sense": "wise man"
+    },
+    {
+      "primary_rule": "2.94",
+      "word": "hantṛ",
+      "glossary_page": 266,
+      "pdf_page": 290,
+      "sense": "thief, robber"
+    }
+  ],
+  "kliś": {
+    "selected_root": "09.0058",
+    "inputs": {
+      "root_segments": [
+        "k",
+        "l",
+        "i",
+        "ś"
+      ],
+      "affix": "kan",
+      "nominal_augment": "nām"
+    },
+    "operations": [
+      {
+        "target": "original penultimate i of kliś",
+        "result": "ī"
+      },
+      {
+        "target": "root l",
+        "result": "lopa"
+      },
+      {
+        "target": "after last root vowel, by mit placement",
+        "result": "nā after ī and before root ś"
+      },
+      {
+        "target": "k and final n of kan; final m of nām",
+        "result": "indicators disappear, surface affix a and augment nā"
+      }
+    ],
+    "surface_segments": [
+      "k",
+      "ī",
+      "n",
+      "ā",
+      "ś",
+      "a"
+    ],
+    "specialized_reading": "kīnāśa",
+    "dictionary_witness": {
+      "work": "skd",
+      "L": "7795",
+      "key": "kInASaH",
+      "page": "2-132-a",
+      "entry_sha256": "3943bb36704703b8f134f147cf0f6de8466ce878a155a603ade54a587fc189d9",
+      "literal_spans_in_whitespace_joined_entry": [
+        "iti kan upaDAyA ItvaM lalopo nAmAgamaSca"
+      ]
+    },
+    "guna_comparison": {
+      "domain": "Apply stated root shape, retain the same nām insertion, compare only ordinary guṇa under 7.3.84/86 with and without explicit kit.",
+      "after_i_lengthening_before_nam": "upadhā is long ī",
+      "after_nam": "final root segment ś, penultimate vowel of augmented root is long ā",
+      "no_short_upadha_or_final_ik": true,
+      "separate_historical_purpose": "open"
+    },
+    "observed_accent": [
+      {
+        "work": "mw",
+        "L": "50751",
+        "key": "kInASa",
+        "page": "285,1",
+        "entry_sha256": "ff1964d050d048de2cff07c11c82e0941b68b9d1b7a2fa93ac35b00d57f35318",
+        "literal_spans_in_whitespace_joined_entry": [
+          "kInA/Sa",
+          "cultivator"
+        ]
+      },
+      "kīnā́śā abʰí yantu vāhaíḥ"
+    ]
+  },
+  "both_markers": {
+    "4.80": {
+      "word": "kuṭaru",
+      "gloss": "cloth dwelling",
+      "source": {
+        "work": "skd",
+        "L": "7919",
+        "key": "kuwaruH",
+        "page": "2-136-c",
+        "entry_sha256": "bb8cf6f227d4857ce3df1870749c4e3a536d799f6838baac9fb92254e7937351",
+        "literal_spans_in_whitespace_joined_entry": [
+          "ityaruH kiYca"
+        ]
+      },
+      "bird_accent_separate": {
+        "work": "mw",
+        "L": "51627",
+        "key": "kuwaru",
+        "page": "288,2",
+        "entry_sha256": "b5925a02a07ed4506123f79780befd22837d8c314eb4e719c19718d0eb395833",
+        "literal_spans_in_whitespace_joined_entry": [
+          "kuwa/ru",
+          "a cock"
+        ]
+      }
+    },
+    "5.56": {
+      "word": "kīnāśa",
+      "root": "kliś vibādhane"
+    },
+    "kitaḥ_6_1_165": "Kāśikā inherits taddhitasya from 6.1.164. As kṛt/Uṇādi derivations these two do not satisfy that domain.",
+    "historical_purposes_resolved": 0
+  },
+  "carrier": {
+    "input": "word sense, witness, named affix and its declared operators, original root and ordered segment targets",
+    "output": "accented or unaccented word under the stated witness, with the counterfactual confined to the same operation",
+    "projection": "Applying the specified replacements to the marked kliś input, then erasing the indicators, gives kīnāśa. In the ordinary da/dan accent comparison erasing accent collapses kundá and an initial-accent candidate to one spelling, while the morphological alternatives remain distinct."
+  }
+}
