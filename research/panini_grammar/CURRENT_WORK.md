@@ -1,8 +1,8 @@
-# Pāṇini grammar · current written coverage at PG259
+# Pāṇini grammar · current written coverage at PG260
 
 Monty · 12 November 2026
 
-PG202–PG259 add **6,537 finite positions**, taking the written total to **47,870**. The new lexical and compound work gives 2,580 nominal positions with 3,063 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG260 add **6,537 finite positions**, taking the written total to **47,870**. The new lexical and compound work gives 2,652 nominal positions with 3,138 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
@@ -26,7 +26,7 @@ PG202–PG259 add **6,537 finite positions**, taking the written total to **47,8
 | Uṇādi *śaṇḍha* and the lotus collective | **120 nominal positions, 125 readings**. In Māgha 11.15 the dual verb and commentary choose nominative dual from five readings of *ṣaṇḍe*. | The personal terms, bull and lotus cluster have separately sourced histories. [Words and the two verse contexts](sandha_and_lotus_collectives/README.md) |
 | Agent nouns and object case | Three construction histories for *kartā* yield **27** two-word readings and **18** distinct unaccented pairs. | Nine accusative pairs admit both habitual agent and finite future readings. [Three-way comparison](agent_noun_object_government/README.md) |
 | Ṛgvedic agent nouns in context | **29 head tokens** reviewed across five accent-labelled entries. All 15 occurrences of the slayer have a case-identified dependent, as do the six preaccenting *kartṛ* examples. | Four other *kartṛ* tokens have no dependent assigned. [Readings and exact verse locators](rigvedic_agent_accent_and_objects/README.md) |
-| Vedic ploughman and oxen | **Seven passages in six traditions** give five combinations of preverb, verb and animal case. Ten Paippalāda occurrences have an identified nominal role. | The reported singular animal reading and the selected plural reading retain their own editions. [Parallel clauses and TEI locators](vedic_plough_clause_readings/README.md) |
+| Vedic ploughman and oxen | **Seven passages in six traditions** give five combinations of preverb, verb and animal case. Ten Paippalāda occurrences have an identified nominal role. | The reported singular animal reading and the selected plural reading retain their own editions. [Cultivator, herders and the Maruts](kinasa_yajurvedic_occupations_and_cases/README.md). [Parallel clauses and TEI locators](vedic_plough_clause_readings/README.md) |
 | Wider Sanskrit derivation | [The exchange construction and two taddhitas](exchange_gerund_and_two_borrowing_nouns/README.md) add 48 neuter positions. The existing packets treat selected nominal, kṛt, taddhita, compound, sentence and accent questions. | Extend to the outstanding members, semantic conditions, syntactic readings and Vedic traditions. [Detailed grammar-wide register](unadi_first_pada_readings/REMAINING.md) |
 | Executable verification | These stages provide written source decisions and derivations. | Claude’s Python 3.12 grammar tests, generators and certificate replay are pending. |
 
