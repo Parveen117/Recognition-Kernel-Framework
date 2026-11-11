@@ -1408,6 +1408,11 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG118 — Five vṛtādi desideratives in the present system:** [packet](vrtadi_san_present/README.md) adds
+**360 positions / 432 readings / 432 paths**; cumulative **27,167**.
+Selected target 360/360; Python 3.12 static checks only,
+grammar tests/generators/replay deferred.
+
 **PG117 — Terminal dyutādi aorists with dependent iṭ/kit:** [packet](dyutadi_terminal_aorist/README.md) adds
 **36 positions / 54 readings / 54 paths**; cumulative **26,807**.
 Selected target 36/36; Python 3.12 static checks only,
