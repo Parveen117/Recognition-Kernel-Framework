@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG261 — Four ā-final adādi roots and Śākaṭāyana’s imperfect plural.** [Packet](four_adadi_ordered_ni_imperfect_plurals/README.md). 288 positions, 312 readings and 312 paths. Cumulative **48,158**.
+
 **PG260 — The cultivator in two Yajurvedic lists and the Marut predication.** [Packet](kinasa_yajurvedic_occupations_and_cases/README.md). Zero new finite positions. Cumulative **47,870**.
 
 **PG259 — All six ghu roots and the three aorists of the suckling verb.** [Packet](six_ghu_roots_perfects_and_three_aorists/README.md). 144 positions, 188 readings and 188 paths. Cumulative **47,870**.
