@@ -1410,6 +1410,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG172 — All 748 Uṇādi text addresses and the first two suffix families.** [Packet](unadi_concordance/README.md). Zero new finite positions. Cumulative **40,379**.
+
 **PG171 — The final 270 aorist positions of the named nominal actions.** [Packet](satya_named_aorists/README.md). 270 positions, 288 readings and 288 paths. Cumulative **40,379**.
 
 **PG170 — A quoted future and an impersonal perfect in the same verse.** [Packet](kirata_quotation_interpretation/README.md). Zero new finite positions. Cumulative **40,109**.
