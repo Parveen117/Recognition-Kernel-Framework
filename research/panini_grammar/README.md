@@ -1408,6 +1408,11 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG131 — Outer purpose-conditioned forms and a water-form lower bound:** [packet](nominal_desire_outer/README.md) adds
+**108 positions / 368 readings / 368 paths**; cumulative **29,993**.
+Selected target 108/108; Python 3.12 static checks only,
+grammar tests/generators/replay deferred.
+
 **PG130 — Purpose-conditioned kyac for food, water and wealth:** [packet](nominal_desire_purposes/README.md) adds
 **108 positions / 216 readings / 216 paths**; cumulative **29,885**.
 Selected target 108/108; Python 3.12 static checks only,
