@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG178 — Every third-pāda Uṇādi rule and the two accents of kuṇapa.** [Packet](unadi_third_pada_readings/README.md). Zero new finite positions. Cumulative **40,379**.
+
 **PG177 — The second Uṇādi pāda and the mire-word niṣadvara.** [Packet](unadi_second_pada_readings/README.md). Zero new finite positions. Cumulative **40,379**.
 
 **PG176 — A lexical reading for every rule in the first Uṇādi pāda.** [Packet](unadi_first_pada_readings/README.md). Zero new finite positions. Cumulative **40,379**.
