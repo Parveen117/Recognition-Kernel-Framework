@@ -1,0 +1,2881 @@
+{
+  "decision_scope": "strict same-word analysis of the Bhāṣya joined to Kāśikā 7.2.60 for kṛp",
+  "policy": "Evaluate the 7.2.59/60 condition on an actual taṅ or āna of the same primary word. An entitlement used to select an auxiliary is stored on its own edge.",
+  "textual_premises": [
+    {
+      "work": "bhashya",
+      "rule": "2.4.81",
+      "field": "24081",
+      "excerpt": "लुग् आदेशानामपवादः",
+      "begin": 1397,
+      "end": 1415
+    },
+    {
+      "work": "bhashya",
+      "rule": "2.4.81",
+      "field": "24081",
+      "excerpt": "सुबन्तं पदम् इति पदसंज्ञा भविष्यति",
+      "begin": 1588,
+      "end": 1622
+    },
+    {
+      "work": "bhashya",
+      "rule": "2.4.81",
+      "field": "24081",
+      "excerpt": "लकारः कृत्",
+      "begin": 1764,
+      "end": 1774
+    },
+    {
+      "work": "bhashya",
+      "rule": "2.4.81",
+      "field": "24081",
+      "excerpt": "अव्ययादिति लुग् भविष्यति",
+      "begin": 1964,
+      "end": 1988
+    },
+    {
+      "work": "bhashya",
+      "rule": "2.4.81",
+      "field": "24081",
+      "excerpt": "चक्षुष्कामं याजयांचकार",
+      "begin": 2430,
+      "end": 2452
+    },
+    {
+      "work": "bhashya",
+      "rule": "2.4.81",
+      "field": "24081",
+      "excerpt": "न चकार कारयाम्",
+      "begin": 2780,
+      "end": 2794
+    },
+    {
+      "work": "bhashya",
+      "rule": "7.2.59",
+      "field": "72059",
+      "excerpt": "वृतादीनामात्मनेपदेन समानपदस्थस्ये",
+      "begin": 560,
+      "end": 593
+    },
+    {
+      "work": "kashika",
+      "rule": "7.2.60",
+      "field": "72060",
+      "excerpt": "क्ऌपेरप्यात्मनेपदेन समानपदस्थस्येडागम इष्यते",
+      "begin": 200,
+      "end": 244
+    },
+    {
+      "work": "kashika",
+      "rule": "1.4.100",
+      "field": "14100",
+      "excerpt": "आन इति शानच्कानचोर्ग्रहणम्",
+      "begin": 35,
+      "end": 61
+    },
+    {
+      "work": "padamanjari",
+      "rule": "1.3.63",
+      "field": "13063",
+      "excerpt": "आम्प्रत्ययो यस्मादिति",
+      "begin": 250,
+      "end": 271
+    },
+    {
+      "work": "bhashya",
+      "rule": "1.3.63",
+      "field": "13063",
+      "excerpt": "आम्प्रत्ययवत्पूर्ववच्चेति",
+      "begin": 658,
+      "end": 683
+    },
+    {
+      "work": "tattvabodhini",
+      "rule": "7.2.59",
+      "field": "72059",
+      "excerpt": "पश्चात्तङि कृतेऽपि न निवर्तते",
+      "begin": 882,
+      "end": 911
+    }
+  ],
+  "primary_construction": [
+    {
+      "step": "san",
+      "recipient": "root-to-san on the primary",
+      "query": "same-pada middle affix?"
+    },
+    {
+      "step": "ām before the primary lakāra",
+      "primary_lakara": "luk replaces the substitutions",
+      "primary_middle_substitutes": []
+    },
+    {
+      "step": "primary has pada status",
+      "mechanism": "prātipadika, sup, avyaya-sup-luk per Bhāṣya 2.4.81",
+      "result": "separate atiṅanta word"
+    },
+    {
+      "step": "auxiliary receives own liṭ",
+      "kṛ": "base-to-auxiliary pada transfer",
+      "as_or_bhū": "their P in this kartari construction"
+    },
+    {
+      "step": "surface sandhi",
+      "effect_on_primary_membership": "none"
+    }
+  ],
+  "aggregate": {
+    "requests": 45,
+    "root_person_number_auxiliary_selections": 135,
+    "strict_written_slot_word_pairs": 225,
+    "shared_slot_word_pairs": 54,
+    "only_in_selected_policy": 171,
+    "only_in_published": 135,
+    "slots_with_overlap": 18,
+    "slots_without_overlap": 27,
+    "direct_historical_examples_of_the_target_combinations_located": 0,
+    "tradition_wide_dispute": "open"
+  },
+  "primary_by_root_profile": {
+    "VRT_SAN_A": "vivṛtsām",
+    "VRDH_SAN_A": "vivṛtsām",
+    "SHRDH_SAN_A": "śiśṛtsām",
+    "SYAND_SAN_A": "sisyantsām",
+    "KRP_SAN_A": "cikḷpsām"
+  },
+  "requests": [
+    {
+      "profile": "VRT_SAN_A",
+      "slot": "3sg",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakre",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃcakre",
+            "vivṛtsāñcakre"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūva",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃbabhūva",
+            "vivṛtsāmbabhūva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsa",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāmāsa"
+          ]
+        }
+      ],
+      "local_readings": [
+        "vivṛtsāṃcakre",
+        "vivṛtsāñcakre",
+        "vivṛtsāṃbabhūva",
+        "vivṛtsāmbabhūva",
+        "vivṛtsāmāsa"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0862",
+        "external_field": "alit",
+        "external_literal_cell": "विवर्तिषाञ्चक्रे,विवर्तिषामास,विवर्तिषाम्बभूव"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "vivartiṣāñcakre",
+        "vivartiṣāmāsa",
+        "vivartiṣāmbabhūva"
+      ]
+    },
+    {
+      "profile": "VRT_SAN_A",
+      "slot": "3du",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakrāte",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃcakrāte",
+            "vivṛtsāñcakrāte"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvatuḥ",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃbabhūvatuḥ",
+            "vivṛtsāmbabhūvatuḥ"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsatuḥ",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāmāsatuḥ"
+          ]
+        }
+      ],
+      "local_readings": [
+        "vivṛtsāṃcakrāte",
+        "vivṛtsāñcakrāte",
+        "vivṛtsāṃbabhūvatuḥ",
+        "vivṛtsāmbabhūvatuḥ",
+        "vivṛtsāmāsatuḥ"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0862",
+        "external_field": "alit",
+        "external_literal_cell": "विवर्तिषाञ्चक्राते,विवर्तिषामासतुः,विवर्तिषाम्बभूवतुः"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "vivartiṣāñcakrāte",
+        "vivartiṣāmāsatuḥ",
+        "vivartiṣāmbabhūvatuḥ"
+      ]
+    },
+    {
+      "profile": "VRT_SAN_A",
+      "slot": "3pl",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakrire",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃcakrire",
+            "vivṛtsāñcakrire"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvuḥ",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃbabhūvuḥ",
+            "vivṛtsāmbabhūvuḥ"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsuḥ",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāmāsuḥ"
+          ]
+        }
+      ],
+      "local_readings": [
+        "vivṛtsāṃcakrire",
+        "vivṛtsāñcakrire",
+        "vivṛtsāṃbabhūvuḥ",
+        "vivṛtsāmbabhūvuḥ",
+        "vivṛtsāmāsuḥ"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0862",
+        "external_field": "alit",
+        "external_literal_cell": "विवर्तिषाञ्चक्रिरे,विवर्तिषामासुः,विवर्तिषाम्बभूवुः"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "vivartiṣāñcakrire",
+        "vivartiṣāmāsuḥ",
+        "vivartiṣāmbabhūvuḥ"
+      ]
+    },
+    {
+      "profile": "VRT_SAN_A",
+      "slot": "2sg",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛṣe",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃcakṛṣe",
+            "vivṛtsāñcakṛṣe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvitha",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃbabhūvitha",
+            "vivṛtsāmbabhūvitha"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsitha",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāmāsitha"
+          ]
+        }
+      ],
+      "local_readings": [
+        "vivṛtsāṃcakṛṣe",
+        "vivṛtsāñcakṛṣe",
+        "vivṛtsāṃbabhūvitha",
+        "vivṛtsāmbabhūvitha",
+        "vivṛtsāmāsitha"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0862",
+        "external_field": "alit",
+        "external_literal_cell": "विवर्तिषाञ्चकृषे,विवर्तिषामासिथ,विवर्तिषाम्बभूविथ"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "vivartiṣāñcakṛṣe",
+        "vivartiṣāmāsitha",
+        "vivartiṣāmbabhūvitha"
+      ]
+    },
+    {
+      "profile": "VRT_SAN_A",
+      "slot": "2du",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakrāthe",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃcakrāthe",
+            "vivṛtsāñcakrāthe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvathuḥ",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃbabhūvathuḥ",
+            "vivṛtsāmbabhūvathuḥ"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsathuḥ",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāmāsathuḥ"
+          ]
+        }
+      ],
+      "local_readings": [
+        "vivṛtsāṃcakrāthe",
+        "vivṛtsāñcakrāthe",
+        "vivṛtsāṃbabhūvathuḥ",
+        "vivṛtsāmbabhūvathuḥ",
+        "vivṛtsāmāsathuḥ"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0862",
+        "external_field": "alit",
+        "external_literal_cell": "विवर्तिषाञ्चक्राथे,विवर्तिषामासथुः,विवर्तिषाम्बभूवथुः"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "vivartiṣāñcakrāthe",
+        "vivartiṣāmāsathuḥ",
+        "vivartiṣāmbabhūvathuḥ"
+      ]
+    },
+    {
+      "profile": "VRT_SAN_A",
+      "slot": "2pl",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛḍhve",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃcakṛḍhve",
+            "vivṛtsāñcakṛḍhve"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūva",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃbabhūva",
+            "vivṛtsāmbabhūva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsa",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāmāsa"
+          ]
+        }
+      ],
+      "local_readings": [
+        "vivṛtsāṃcakṛḍhve",
+        "vivṛtsāñcakṛḍhve",
+        "vivṛtsāṃbabhūva",
+        "vivṛtsāmbabhūva",
+        "vivṛtsāmāsa"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0862",
+        "external_field": "alit",
+        "external_literal_cell": "विवर्तिषाञ्चकृढ्वे,विवर्तिषामास,विवर्तिषाम्बभूव"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "vivartiṣāñcakṛḍhve",
+        "vivartiṣāmāsa",
+        "vivartiṣāmbabhūva"
+      ]
+    },
+    {
+      "profile": "VRT_SAN_A",
+      "slot": "1sg",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakre",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃcakre",
+            "vivṛtsāñcakre"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūva",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃbabhūva",
+            "vivṛtsāmbabhūva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsa",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāmāsa"
+          ]
+        }
+      ],
+      "local_readings": [
+        "vivṛtsāṃcakre",
+        "vivṛtsāñcakre",
+        "vivṛtsāṃbabhūva",
+        "vivṛtsāmbabhūva",
+        "vivṛtsāmāsa"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0862",
+        "external_field": "alit",
+        "external_literal_cell": "विवर्तिषाञ्चक्रे,विवर्तिषामास,विवर्तिषाम्बभूव"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "vivartiṣāñcakre",
+        "vivartiṣāmāsa",
+        "vivartiṣāmbabhūva"
+      ]
+    },
+    {
+      "profile": "VRT_SAN_A",
+      "slot": "1du",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛvahe",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃcakṛvahe",
+            "vivṛtsāñcakṛvahe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūviva",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃbabhūviva",
+            "vivṛtsāmbabhūviva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsiva",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāmāsiva"
+          ]
+        }
+      ],
+      "local_readings": [
+        "vivṛtsāṃcakṛvahe",
+        "vivṛtsāñcakṛvahe",
+        "vivṛtsāṃbabhūviva",
+        "vivṛtsāmbabhūviva",
+        "vivṛtsāmāsiva"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0862",
+        "external_field": "alit",
+        "external_literal_cell": "विवर्तिषाञ्चकृवहे,विवर्तिषामासिव,विवर्तिषाम्बभूविव"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "vivartiṣāñcakṛvahe",
+        "vivartiṣāmāsiva",
+        "vivartiṣāmbabhūviva"
+      ]
+    },
+    {
+      "profile": "VRT_SAN_A",
+      "slot": "1pl",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛmahe",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃcakṛmahe",
+            "vivṛtsāñcakṛmahe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvima",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃbabhūvima",
+            "vivṛtsāmbabhūvima"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsima",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāmāsima"
+          ]
+        }
+      ],
+      "local_readings": [
+        "vivṛtsāṃcakṛmahe",
+        "vivṛtsāñcakṛmahe",
+        "vivṛtsāṃbabhūvima",
+        "vivṛtsāmbabhūvima",
+        "vivṛtsāmāsima"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0862",
+        "external_field": "alit",
+        "external_literal_cell": "विवर्तिषाञ्चकृमहे,विवर्तिषामासिम,विवर्तिषाम्बभूविम"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "vivartiṣāñcakṛmahe",
+        "vivartiṣāmāsima",
+        "vivartiṣāmbabhūvima"
+      ]
+    },
+    {
+      "profile": "VRDH_SAN_A",
+      "slot": "3sg",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakre",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃcakre",
+            "vivṛtsāñcakre"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūva",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃbabhūva",
+            "vivṛtsāmbabhūva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsa",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāmāsa"
+          ]
+        }
+      ],
+      "local_readings": [
+        "vivṛtsāṃcakre",
+        "vivṛtsāñcakre",
+        "vivṛtsāṃbabhūva",
+        "vivṛtsāmbabhūva",
+        "vivṛtsāmāsa"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0863",
+        "external_field": "alit",
+        "external_literal_cell": "विवर्धिषाञ्चक्रे,विवर्धिषामास,विवर्धिषाम्बभूव"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "vivardhiṣāñcakre",
+        "vivardhiṣāmāsa",
+        "vivardhiṣāmbabhūva"
+      ]
+    },
+    {
+      "profile": "VRDH_SAN_A",
+      "slot": "3du",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakrāte",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃcakrāte",
+            "vivṛtsāñcakrāte"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvatuḥ",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃbabhūvatuḥ",
+            "vivṛtsāmbabhūvatuḥ"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsatuḥ",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāmāsatuḥ"
+          ]
+        }
+      ],
+      "local_readings": [
+        "vivṛtsāṃcakrāte",
+        "vivṛtsāñcakrāte",
+        "vivṛtsāṃbabhūvatuḥ",
+        "vivṛtsāmbabhūvatuḥ",
+        "vivṛtsāmāsatuḥ"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0863",
+        "external_field": "alit",
+        "external_literal_cell": "विवर्धिषाञ्चक्राते,विवर्धिषामासतुः,विवर्धिषाम्बभूवतुः"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "vivardhiṣāñcakrāte",
+        "vivardhiṣāmāsatuḥ",
+        "vivardhiṣāmbabhūvatuḥ"
+      ]
+    },
+    {
+      "profile": "VRDH_SAN_A",
+      "slot": "3pl",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakrire",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃcakrire",
+            "vivṛtsāñcakrire"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvuḥ",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃbabhūvuḥ",
+            "vivṛtsāmbabhūvuḥ"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsuḥ",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāmāsuḥ"
+          ]
+        }
+      ],
+      "local_readings": [
+        "vivṛtsāṃcakrire",
+        "vivṛtsāñcakrire",
+        "vivṛtsāṃbabhūvuḥ",
+        "vivṛtsāmbabhūvuḥ",
+        "vivṛtsāmāsuḥ"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0863",
+        "external_field": "alit",
+        "external_literal_cell": "विवर्धिषाञ्चक्रिरे,विवर्धिषामासुः,विवर्धिषाम्बभूवुः"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "vivardhiṣāñcakrire",
+        "vivardhiṣāmāsuḥ",
+        "vivardhiṣāmbabhūvuḥ"
+      ]
+    },
+    {
+      "profile": "VRDH_SAN_A",
+      "slot": "2sg",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛṣe",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃcakṛṣe",
+            "vivṛtsāñcakṛṣe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvitha",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃbabhūvitha",
+            "vivṛtsāmbabhūvitha"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsitha",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāmāsitha"
+          ]
+        }
+      ],
+      "local_readings": [
+        "vivṛtsāṃcakṛṣe",
+        "vivṛtsāñcakṛṣe",
+        "vivṛtsāṃbabhūvitha",
+        "vivṛtsāmbabhūvitha",
+        "vivṛtsāmāsitha"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0863",
+        "external_field": "alit",
+        "external_literal_cell": "विवर्धिषाञ्चकृषे,विवर्धिषामासिथ,विवर्धिषाम्बभूविथ"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "vivardhiṣāñcakṛṣe",
+        "vivardhiṣāmāsitha",
+        "vivardhiṣāmbabhūvitha"
+      ]
+    },
+    {
+      "profile": "VRDH_SAN_A",
+      "slot": "2du",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakrāthe",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃcakrāthe",
+            "vivṛtsāñcakrāthe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvathuḥ",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃbabhūvathuḥ",
+            "vivṛtsāmbabhūvathuḥ"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsathuḥ",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāmāsathuḥ"
+          ]
+        }
+      ],
+      "local_readings": [
+        "vivṛtsāṃcakrāthe",
+        "vivṛtsāñcakrāthe",
+        "vivṛtsāṃbabhūvathuḥ",
+        "vivṛtsāmbabhūvathuḥ",
+        "vivṛtsāmāsathuḥ"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0863",
+        "external_field": "alit",
+        "external_literal_cell": "विवर्धिषाञ्चक्राथे,विवर्धिषामासथुः,विवर्धिषाम्बभूवथुः"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "vivardhiṣāñcakrāthe",
+        "vivardhiṣāmāsathuḥ",
+        "vivardhiṣāmbabhūvathuḥ"
+      ]
+    },
+    {
+      "profile": "VRDH_SAN_A",
+      "slot": "2pl",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛḍhve",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃcakṛḍhve",
+            "vivṛtsāñcakṛḍhve"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūva",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃbabhūva",
+            "vivṛtsāmbabhūva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsa",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāmāsa"
+          ]
+        }
+      ],
+      "local_readings": [
+        "vivṛtsāṃcakṛḍhve",
+        "vivṛtsāñcakṛḍhve",
+        "vivṛtsāṃbabhūva",
+        "vivṛtsāmbabhūva",
+        "vivṛtsāmāsa"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0863",
+        "external_field": "alit",
+        "external_literal_cell": "विवर्धिषाञ्चकृढ्वे,विवर्धिषामास,विवर्धिषाम्बभूव"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "vivardhiṣāñcakṛḍhve",
+        "vivardhiṣāmāsa",
+        "vivardhiṣāmbabhūva"
+      ]
+    },
+    {
+      "profile": "VRDH_SAN_A",
+      "slot": "1sg",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakre",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃcakre",
+            "vivṛtsāñcakre"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūva",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃbabhūva",
+            "vivṛtsāmbabhūva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsa",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāmāsa"
+          ]
+        }
+      ],
+      "local_readings": [
+        "vivṛtsāṃcakre",
+        "vivṛtsāñcakre",
+        "vivṛtsāṃbabhūva",
+        "vivṛtsāmbabhūva",
+        "vivṛtsāmāsa"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0863",
+        "external_field": "alit",
+        "external_literal_cell": "विवर्धिषाञ्चक्रे,विवर्धिषामास,विवर्धिषाम्बभूव"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "vivardhiṣāñcakre",
+        "vivardhiṣāmāsa",
+        "vivardhiṣāmbabhūva"
+      ]
+    },
+    {
+      "profile": "VRDH_SAN_A",
+      "slot": "1du",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛvahe",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃcakṛvahe",
+            "vivṛtsāñcakṛvahe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūviva",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃbabhūviva",
+            "vivṛtsāmbabhūviva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsiva",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāmāsiva"
+          ]
+        }
+      ],
+      "local_readings": [
+        "vivṛtsāṃcakṛvahe",
+        "vivṛtsāñcakṛvahe",
+        "vivṛtsāṃbabhūviva",
+        "vivṛtsāmbabhūviva",
+        "vivṛtsāmāsiva"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0863",
+        "external_field": "alit",
+        "external_literal_cell": "विवर्धिषाञ्चकृवहे,विवर्धिषामासिव,विवर्धिषाम्बभूविव"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "vivardhiṣāñcakṛvahe",
+        "vivardhiṣāmāsiva",
+        "vivardhiṣāmbabhūviva"
+      ]
+    },
+    {
+      "profile": "VRDH_SAN_A",
+      "slot": "1pl",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛmahe",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃcakṛmahe",
+            "vivṛtsāñcakṛmahe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvima",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāṃbabhūvima",
+            "vivṛtsāmbabhūvima"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsima",
+          "primary_word": "vivṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "vivṛtsāmāsima"
+          ]
+        }
+      ],
+      "local_readings": [
+        "vivṛtsāṃcakṛmahe",
+        "vivṛtsāñcakṛmahe",
+        "vivṛtsāṃbabhūvima",
+        "vivṛtsāmbabhūvima",
+        "vivṛtsāmāsima"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0863",
+        "external_field": "alit",
+        "external_literal_cell": "विवर्धिषाञ्चकृमहे,विवर्धिषामासिम,विवर्धिषाम्बभूविम"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "vivardhiṣāñcakṛmahe",
+        "vivardhiṣāmāsima",
+        "vivardhiṣāmbabhūvima"
+      ]
+    },
+    {
+      "profile": "SHRDH_SAN_A",
+      "slot": "3sg",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakre",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāṃcakre",
+            "śiśṛtsāñcakre"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūva",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāṃbabhūva",
+            "śiśṛtsāmbabhūva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsa",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāmāsa"
+          ]
+        }
+      ],
+      "local_readings": [
+        "śiśṛtsāṃcakre",
+        "śiśṛtsāñcakre",
+        "śiśṛtsāṃbabhūva",
+        "śiśṛtsāmbabhūva",
+        "śiśṛtsāmāsa"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0864",
+        "external_field": "alit",
+        "external_literal_cell": "शिशर्धिषाञ्चक्रे,शिशर्धिषामास,शिशर्धिषाम्बभूव"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "śiśardhiṣāñcakre",
+        "śiśardhiṣāmāsa",
+        "śiśardhiṣāmbabhūva"
+      ]
+    },
+    {
+      "profile": "SHRDH_SAN_A",
+      "slot": "3du",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakrāte",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāṃcakrāte",
+            "śiśṛtsāñcakrāte"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvatuḥ",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāṃbabhūvatuḥ",
+            "śiśṛtsāmbabhūvatuḥ"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsatuḥ",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāmāsatuḥ"
+          ]
+        }
+      ],
+      "local_readings": [
+        "śiśṛtsāṃcakrāte",
+        "śiśṛtsāñcakrāte",
+        "śiśṛtsāṃbabhūvatuḥ",
+        "śiśṛtsāmbabhūvatuḥ",
+        "śiśṛtsāmāsatuḥ"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0864",
+        "external_field": "alit",
+        "external_literal_cell": "शिशर्धिषाञ्चक्राते,शिशर्धिषामासतुः,शिशर्धिषाम्बभूवतुः"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "śiśardhiṣāñcakrāte",
+        "śiśardhiṣāmāsatuḥ",
+        "śiśardhiṣāmbabhūvatuḥ"
+      ]
+    },
+    {
+      "profile": "SHRDH_SAN_A",
+      "slot": "3pl",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakrire",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāṃcakrire",
+            "śiśṛtsāñcakrire"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvuḥ",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāṃbabhūvuḥ",
+            "śiśṛtsāmbabhūvuḥ"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsuḥ",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāmāsuḥ"
+          ]
+        }
+      ],
+      "local_readings": [
+        "śiśṛtsāṃcakrire",
+        "śiśṛtsāñcakrire",
+        "śiśṛtsāṃbabhūvuḥ",
+        "śiśṛtsāmbabhūvuḥ",
+        "śiśṛtsāmāsuḥ"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0864",
+        "external_field": "alit",
+        "external_literal_cell": "शिशर्धिषाञ्चक्रिरे,शिशर्धिषामासुः,शिशर्धिषाम्बभूवुः"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "śiśardhiṣāñcakrire",
+        "śiśardhiṣāmāsuḥ",
+        "śiśardhiṣāmbabhūvuḥ"
+      ]
+    },
+    {
+      "profile": "SHRDH_SAN_A",
+      "slot": "2sg",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛṣe",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāṃcakṛṣe",
+            "śiśṛtsāñcakṛṣe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvitha",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāṃbabhūvitha",
+            "śiśṛtsāmbabhūvitha"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsitha",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāmāsitha"
+          ]
+        }
+      ],
+      "local_readings": [
+        "śiśṛtsāṃcakṛṣe",
+        "śiśṛtsāñcakṛṣe",
+        "śiśṛtsāṃbabhūvitha",
+        "śiśṛtsāmbabhūvitha",
+        "śiśṛtsāmāsitha"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0864",
+        "external_field": "alit",
+        "external_literal_cell": "शिशर्धिषाञ्चकृषे,शिशर्धिषामासिथ,शिशर्धिषाम्बभूविथ"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "śiśardhiṣāñcakṛṣe",
+        "śiśardhiṣāmāsitha",
+        "śiśardhiṣāmbabhūvitha"
+      ]
+    },
+    {
+      "profile": "SHRDH_SAN_A",
+      "slot": "2du",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakrāthe",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāṃcakrāthe",
+            "śiśṛtsāñcakrāthe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvathuḥ",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāṃbabhūvathuḥ",
+            "śiśṛtsāmbabhūvathuḥ"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsathuḥ",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāmāsathuḥ"
+          ]
+        }
+      ],
+      "local_readings": [
+        "śiśṛtsāṃcakrāthe",
+        "śiśṛtsāñcakrāthe",
+        "śiśṛtsāṃbabhūvathuḥ",
+        "śiśṛtsāmbabhūvathuḥ",
+        "śiśṛtsāmāsathuḥ"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0864",
+        "external_field": "alit",
+        "external_literal_cell": "शिशर्धिषाञ्चक्राथे,शिशर्धिषामासथुः,शिशर्धिषाम्बभूवथुः"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "śiśardhiṣāñcakrāthe",
+        "śiśardhiṣāmāsathuḥ",
+        "śiśardhiṣāmbabhūvathuḥ"
+      ]
+    },
+    {
+      "profile": "SHRDH_SAN_A",
+      "slot": "2pl",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛḍhve",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāṃcakṛḍhve",
+            "śiśṛtsāñcakṛḍhve"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūva",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāṃbabhūva",
+            "śiśṛtsāmbabhūva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsa",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāmāsa"
+          ]
+        }
+      ],
+      "local_readings": [
+        "śiśṛtsāṃcakṛḍhve",
+        "śiśṛtsāñcakṛḍhve",
+        "śiśṛtsāṃbabhūva",
+        "śiśṛtsāmbabhūva",
+        "śiśṛtsāmāsa"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0864",
+        "external_field": "alit",
+        "external_literal_cell": "शिशर्धिषाञ्चकृढ्वे,शिशर्धिषामास,शिशर्धिषाम्बभूव"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "śiśardhiṣāñcakṛḍhve",
+        "śiśardhiṣāmāsa",
+        "śiśardhiṣāmbabhūva"
+      ]
+    },
+    {
+      "profile": "SHRDH_SAN_A",
+      "slot": "1sg",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakre",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāṃcakre",
+            "śiśṛtsāñcakre"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūva",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāṃbabhūva",
+            "śiśṛtsāmbabhūva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsa",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāmāsa"
+          ]
+        }
+      ],
+      "local_readings": [
+        "śiśṛtsāṃcakre",
+        "śiśṛtsāñcakre",
+        "śiśṛtsāṃbabhūva",
+        "śiśṛtsāmbabhūva",
+        "śiśṛtsāmāsa"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0864",
+        "external_field": "alit",
+        "external_literal_cell": "शिशर्धिषाञ्चक्रे,शिशर्धिषामास,शिशर्धिषाम्बभूव"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "śiśardhiṣāñcakre",
+        "śiśardhiṣāmāsa",
+        "śiśardhiṣāmbabhūva"
+      ]
+    },
+    {
+      "profile": "SHRDH_SAN_A",
+      "slot": "1du",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛvahe",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāṃcakṛvahe",
+            "śiśṛtsāñcakṛvahe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūviva",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāṃbabhūviva",
+            "śiśṛtsāmbabhūviva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsiva",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāmāsiva"
+          ]
+        }
+      ],
+      "local_readings": [
+        "śiśṛtsāṃcakṛvahe",
+        "śiśṛtsāñcakṛvahe",
+        "śiśṛtsāṃbabhūviva",
+        "śiśṛtsāmbabhūviva",
+        "śiśṛtsāmāsiva"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0864",
+        "external_field": "alit",
+        "external_literal_cell": "शिशर्धिषाञ्चकृवहे,शिशर्धिषामासिव,शिशर्धिषाम्बभूविव"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "śiśardhiṣāñcakṛvahe",
+        "śiśardhiṣāmāsiva",
+        "śiśardhiṣāmbabhūviva"
+      ]
+    },
+    {
+      "profile": "SHRDH_SAN_A",
+      "slot": "1pl",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛmahe",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāṃcakṛmahe",
+            "śiśṛtsāñcakṛmahe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvima",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāṃbabhūvima",
+            "śiśṛtsāmbabhūvima"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsima",
+          "primary_word": "śiśṛtsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "śiśṛtsāmāsima"
+          ]
+        }
+      ],
+      "local_readings": [
+        "śiśṛtsāṃcakṛmahe",
+        "śiśṛtsāñcakṛmahe",
+        "śiśṛtsāṃbabhūvima",
+        "śiśṛtsāmbabhūvima",
+        "śiśṛtsāmāsima"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0864",
+        "external_field": "alit",
+        "external_literal_cell": "शिशर्धिषाञ्चकृमहे,शिशर्धिषामासिम,शिशर्धिषाम्बभूविम"
+      },
+      "shared_readings": [],
+      "only_in_published": [
+        "śiśardhiṣāñcakṛmahe",
+        "śiśardhiṣāmāsima",
+        "śiśardhiṣāmbabhūvima"
+      ]
+    },
+    {
+      "profile": "SYAND_SAN_A",
+      "slot": "3sg",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakre",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāṃcakre",
+            "sisyantsāñcakre"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūva",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāṃbabhūva",
+            "sisyantsāmbabhūva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsa",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāmāsa"
+          ]
+        }
+      ],
+      "local_readings": [
+        "sisyantsāṃcakre",
+        "sisyantsāñcakre",
+        "sisyantsāṃbabhūva",
+        "sisyantsāmbabhūva",
+        "sisyantsāmāsa"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0865",
+        "external_field": "alit",
+        "external_literal_cell": "सिस्यन्त्साञ्चक्रे,सिस्यन्त्सामास,सिस्यन्त्साम्बभूव,सिस्यन्दिषाञ्चक्रे,सिस्यन्दिषामास,सिस्यन्दिषाम्बभूव"
+      },
+      "shared_readings": [
+        "sisyantsāmbabhūva",
+        "sisyantsāmāsa",
+        "sisyantsāñcakre"
+      ],
+      "only_in_published": [
+        "sisyandiṣāñcakre",
+        "sisyandiṣāmāsa",
+        "sisyandiṣāmbabhūva"
+      ]
+    },
+    {
+      "profile": "SYAND_SAN_A",
+      "slot": "3du",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakrāte",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāṃcakrāte",
+            "sisyantsāñcakrāte"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvatuḥ",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāṃbabhūvatuḥ",
+            "sisyantsāmbabhūvatuḥ"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsatuḥ",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāmāsatuḥ"
+          ]
+        }
+      ],
+      "local_readings": [
+        "sisyantsāṃcakrāte",
+        "sisyantsāñcakrāte",
+        "sisyantsāṃbabhūvatuḥ",
+        "sisyantsāmbabhūvatuḥ",
+        "sisyantsāmāsatuḥ"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0865",
+        "external_field": "alit",
+        "external_literal_cell": "सिस्यन्त्साञ्चक्राते,सिस्यन्त्सामासतुः,सिस्यन्त्साम्बभूवतुः,सिस्यन्दिषाञ्चक्राते,सिस्यन्दिषामासतुः,सिस्यन्दिषाम्बभूवतुः"
+      },
+      "shared_readings": [
+        "sisyantsāmbabhūvatuḥ",
+        "sisyantsāmāsatuḥ",
+        "sisyantsāñcakrāte"
+      ],
+      "only_in_published": [
+        "sisyandiṣāñcakrāte",
+        "sisyandiṣāmāsatuḥ",
+        "sisyandiṣāmbabhūvatuḥ"
+      ]
+    },
+    {
+      "profile": "SYAND_SAN_A",
+      "slot": "3pl",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakrire",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāṃcakrire",
+            "sisyantsāñcakrire"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvuḥ",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāṃbabhūvuḥ",
+            "sisyantsāmbabhūvuḥ"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsuḥ",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāmāsuḥ"
+          ]
+        }
+      ],
+      "local_readings": [
+        "sisyantsāṃcakrire",
+        "sisyantsāñcakrire",
+        "sisyantsāṃbabhūvuḥ",
+        "sisyantsāmbabhūvuḥ",
+        "sisyantsāmāsuḥ"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0865",
+        "external_field": "alit",
+        "external_literal_cell": "सिस्यन्त्साञ्चक्रिरे,सिस्यन्त्सामासुः,सिस्यन्त्साम्बभूवुः,सिस्यन्दिषाञ्चक्रिरे,सिस्यन्दिषामासुः,सिस्यन्दिषाम्बभूवुः"
+      },
+      "shared_readings": [
+        "sisyantsāmbabhūvuḥ",
+        "sisyantsāmāsuḥ",
+        "sisyantsāñcakrire"
+      ],
+      "only_in_published": [
+        "sisyandiṣāñcakrire",
+        "sisyandiṣāmāsuḥ",
+        "sisyandiṣāmbabhūvuḥ"
+      ]
+    },
+    {
+      "profile": "SYAND_SAN_A",
+      "slot": "2sg",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛṣe",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāṃcakṛṣe",
+            "sisyantsāñcakṛṣe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvitha",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāṃbabhūvitha",
+            "sisyantsāmbabhūvitha"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsitha",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāmāsitha"
+          ]
+        }
+      ],
+      "local_readings": [
+        "sisyantsāṃcakṛṣe",
+        "sisyantsāñcakṛṣe",
+        "sisyantsāṃbabhūvitha",
+        "sisyantsāmbabhūvitha",
+        "sisyantsāmāsitha"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0865",
+        "external_field": "alit",
+        "external_literal_cell": "सिस्यन्त्साञ्चकृषे,सिस्यन्त्सामासिथ,सिस्यन्त्साम्बभूविथ,सिस्यन्दिषाञ्चकृषे,सिस्यन्दिषामासिथ,सिस्यन्दिषाम्बभूविथ"
+      },
+      "shared_readings": [
+        "sisyantsāmbabhūvitha",
+        "sisyantsāmāsitha",
+        "sisyantsāñcakṛṣe"
+      ],
+      "only_in_published": [
+        "sisyandiṣāñcakṛṣe",
+        "sisyandiṣāmāsitha",
+        "sisyandiṣāmbabhūvitha"
+      ]
+    },
+    {
+      "profile": "SYAND_SAN_A",
+      "slot": "2du",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakrāthe",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāṃcakrāthe",
+            "sisyantsāñcakrāthe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvathuḥ",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāṃbabhūvathuḥ",
+            "sisyantsāmbabhūvathuḥ"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsathuḥ",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāmāsathuḥ"
+          ]
+        }
+      ],
+      "local_readings": [
+        "sisyantsāṃcakrāthe",
+        "sisyantsāñcakrāthe",
+        "sisyantsāṃbabhūvathuḥ",
+        "sisyantsāmbabhūvathuḥ",
+        "sisyantsāmāsathuḥ"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0865",
+        "external_field": "alit",
+        "external_literal_cell": "सिस्यन्त्साञ्चक्राथे,सिस्यन्त्सामासथुः,सिस्यन्त्साम्बभूवथुः,सिस्यन्दिषाञ्चक्राथे,सिस्यन्दिषामासथुः,सिस्यन्दिषाम्बभूवथुः"
+      },
+      "shared_readings": [
+        "sisyantsāmbabhūvathuḥ",
+        "sisyantsāmāsathuḥ",
+        "sisyantsāñcakrāthe"
+      ],
+      "only_in_published": [
+        "sisyandiṣāñcakrāthe",
+        "sisyandiṣāmāsathuḥ",
+        "sisyandiṣāmbabhūvathuḥ"
+      ]
+    },
+    {
+      "profile": "SYAND_SAN_A",
+      "slot": "2pl",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛḍhve",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāṃcakṛḍhve",
+            "sisyantsāñcakṛḍhve"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūva",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāṃbabhūva",
+            "sisyantsāmbabhūva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsa",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāmāsa"
+          ]
+        }
+      ],
+      "local_readings": [
+        "sisyantsāṃcakṛḍhve",
+        "sisyantsāñcakṛḍhve",
+        "sisyantsāṃbabhūva",
+        "sisyantsāmbabhūva",
+        "sisyantsāmāsa"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0865",
+        "external_field": "alit",
+        "external_literal_cell": "सिस्यन्त्साञ्चकृढ्वे,सिस्यन्त्सामास,सिस्यन्त्साम्बभूव,सिस्यन्दिषाञ्चकृढ्वे,सिस्यन्दिषामास,सिस्यन्दिषाम्बभूव"
+      },
+      "shared_readings": [
+        "sisyantsāmbabhūva",
+        "sisyantsāmāsa",
+        "sisyantsāñcakṛḍhve"
+      ],
+      "only_in_published": [
+        "sisyandiṣāñcakṛḍhve",
+        "sisyandiṣāmāsa",
+        "sisyandiṣāmbabhūva"
+      ]
+    },
+    {
+      "profile": "SYAND_SAN_A",
+      "slot": "1sg",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakre",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāṃcakre",
+            "sisyantsāñcakre"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūva",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāṃbabhūva",
+            "sisyantsāmbabhūva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsa",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāmāsa"
+          ]
+        }
+      ],
+      "local_readings": [
+        "sisyantsāṃcakre",
+        "sisyantsāñcakre",
+        "sisyantsāṃbabhūva",
+        "sisyantsāmbabhūva",
+        "sisyantsāmāsa"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0865",
+        "external_field": "alit",
+        "external_literal_cell": "सिस्यन्त्साञ्चक्रे,सिस्यन्त्सामास,सिस्यन्त्साम्बभूव,सिस्यन्दिषाञ्चक्रे,सिस्यन्दिषामास,सिस्यन्दिषाम्बभूव"
+      },
+      "shared_readings": [
+        "sisyantsāmbabhūva",
+        "sisyantsāmāsa",
+        "sisyantsāñcakre"
+      ],
+      "only_in_published": [
+        "sisyandiṣāñcakre",
+        "sisyandiṣāmāsa",
+        "sisyandiṣāmbabhūva"
+      ]
+    },
+    {
+      "profile": "SYAND_SAN_A",
+      "slot": "1du",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛvahe",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāṃcakṛvahe",
+            "sisyantsāñcakṛvahe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūviva",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāṃbabhūviva",
+            "sisyantsāmbabhūviva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsiva",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāmāsiva"
+          ]
+        }
+      ],
+      "local_readings": [
+        "sisyantsāṃcakṛvahe",
+        "sisyantsāñcakṛvahe",
+        "sisyantsāṃbabhūviva",
+        "sisyantsāmbabhūviva",
+        "sisyantsāmāsiva"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0865",
+        "external_field": "alit",
+        "external_literal_cell": "सिस्यन्त्साञ्चकृवहे,सिस्यन्त्सामासिव,सिस्यन्त्साम्बभूविव,सिस्यन्दिषाञ्चकृवहे,सिस्यन्दिषामासिव,सिस्यन्दिषाम्बभूविव"
+      },
+      "shared_readings": [
+        "sisyantsāmbabhūviva",
+        "sisyantsāmāsiva",
+        "sisyantsāñcakṛvahe"
+      ],
+      "only_in_published": [
+        "sisyandiṣāñcakṛvahe",
+        "sisyandiṣāmāsiva",
+        "sisyandiṣāmbabhūviva"
+      ]
+    },
+    {
+      "profile": "SYAND_SAN_A",
+      "slot": "1pl",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛmahe",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāṃcakṛmahe",
+            "sisyantsāñcakṛmahe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvima",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāṃbabhūvima",
+            "sisyantsāmbabhūvima"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsima",
+          "primary_word": "sisyantsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "sisyantsāmāsima"
+          ]
+        }
+      ],
+      "local_readings": [
+        "sisyantsāṃcakṛmahe",
+        "sisyantsāñcakṛmahe",
+        "sisyantsāṃbabhūvima",
+        "sisyantsāmbabhūvima",
+        "sisyantsāmāsima"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0865",
+        "external_field": "alit",
+        "external_literal_cell": "सिस्यन्त्साञ्चकृमहे,सिस्यन्त्सामासिम,सिस्यन्त्साम्बभूविम,सिस्यन्दिषाञ्चकृमहे,सिस्यन्दिषामासिम,सिस्यन्दिषाम्बभूविम"
+      },
+      "shared_readings": [
+        "sisyantsāmbabhūvima",
+        "sisyantsāmāsima",
+        "sisyantsāñcakṛmahe"
+      ],
+      "only_in_published": [
+        "sisyandiṣāñcakṛmahe",
+        "sisyandiṣāmāsima",
+        "sisyandiṣāmbabhūvima"
+      ]
+    },
+    {
+      "profile": "KRP_SAN_A",
+      "slot": "3sg",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakre",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāṃcakre",
+            "cikḷpsāñcakre"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūva",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāṃbabhūva",
+            "cikḷpsāmbabhūva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsa",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāmāsa"
+          ]
+        }
+      ],
+      "local_readings": [
+        "cikḷpsāṃcakre",
+        "cikḷpsāñcakre",
+        "cikḷpsāṃbabhūva",
+        "cikḷpsāmbabhūva",
+        "cikḷpsāmāsa"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0866",
+        "external_field": "alit",
+        "external_literal_cell": "चिकल्पिषाञ्चक्रे,चिकल्पिषामास,चिकल्पिषाम्बभूव,चिकॢप्साञ्चक्रे,चिकॢप्सामास,चिकॢप्साम्बभूव"
+      },
+      "shared_readings": [
+        "cikḷpsāmbabhūva",
+        "cikḷpsāmāsa",
+        "cikḷpsāñcakre"
+      ],
+      "only_in_published": [
+        "cikalpiṣāñcakre",
+        "cikalpiṣāmāsa",
+        "cikalpiṣāmbabhūva"
+      ]
+    },
+    {
+      "profile": "KRP_SAN_A",
+      "slot": "3du",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakrāte",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāṃcakrāte",
+            "cikḷpsāñcakrāte"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvatuḥ",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāṃbabhūvatuḥ",
+            "cikḷpsāmbabhūvatuḥ"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsatuḥ",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāmāsatuḥ"
+          ]
+        }
+      ],
+      "local_readings": [
+        "cikḷpsāṃcakrāte",
+        "cikḷpsāñcakrāte",
+        "cikḷpsāṃbabhūvatuḥ",
+        "cikḷpsāmbabhūvatuḥ",
+        "cikḷpsāmāsatuḥ"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0866",
+        "external_field": "alit",
+        "external_literal_cell": "चिकल्पिषाञ्चक्राते,चिकल्पिषामासतुः,चिकल्पिषाम्बभूवतुः,चिकॢप्साञ्चक्राते,चिकॢप्सामासतुः,चिकॢप्साम्बभूवतुः"
+      },
+      "shared_readings": [
+        "cikḷpsāmbabhūvatuḥ",
+        "cikḷpsāmāsatuḥ",
+        "cikḷpsāñcakrāte"
+      ],
+      "only_in_published": [
+        "cikalpiṣāñcakrāte",
+        "cikalpiṣāmāsatuḥ",
+        "cikalpiṣāmbabhūvatuḥ"
+      ]
+    },
+    {
+      "profile": "KRP_SAN_A",
+      "slot": "3pl",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakrire",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāṃcakrire",
+            "cikḷpsāñcakrire"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvuḥ",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāṃbabhūvuḥ",
+            "cikḷpsāmbabhūvuḥ"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsuḥ",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāmāsuḥ"
+          ]
+        }
+      ],
+      "local_readings": [
+        "cikḷpsāṃcakrire",
+        "cikḷpsāñcakrire",
+        "cikḷpsāṃbabhūvuḥ",
+        "cikḷpsāmbabhūvuḥ",
+        "cikḷpsāmāsuḥ"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0866",
+        "external_field": "alit",
+        "external_literal_cell": "चिकल्पिषाञ्चक्रिरे,चिकल्पिषामासुः,चिकल्पिषाम्बभूवुः,चिकॢप्साञ्चक्रिरे,चिकॢप्सामासुः,चिकॢप्साम्बभूवुः"
+      },
+      "shared_readings": [
+        "cikḷpsāmbabhūvuḥ",
+        "cikḷpsāmāsuḥ",
+        "cikḷpsāñcakrire"
+      ],
+      "only_in_published": [
+        "cikalpiṣāñcakrire",
+        "cikalpiṣāmāsuḥ",
+        "cikalpiṣāmbabhūvuḥ"
+      ]
+    },
+    {
+      "profile": "KRP_SAN_A",
+      "slot": "2sg",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛṣe",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāṃcakṛṣe",
+            "cikḷpsāñcakṛṣe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvitha",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāṃbabhūvitha",
+            "cikḷpsāmbabhūvitha"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsitha",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāmāsitha"
+          ]
+        }
+      ],
+      "local_readings": [
+        "cikḷpsāṃcakṛṣe",
+        "cikḷpsāñcakṛṣe",
+        "cikḷpsāṃbabhūvitha",
+        "cikḷpsāmbabhūvitha",
+        "cikḷpsāmāsitha"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0866",
+        "external_field": "alit",
+        "external_literal_cell": "चिकल्पिषाञ्चकृषे,चिकल्पिषामासिथ,चिकल्पिषाम्बभूविथ,चिकॢप्साञ्चकृषे,चिकॢप्सामासिथ,चिकॢप्साम्बभूविथ"
+      },
+      "shared_readings": [
+        "cikḷpsāmbabhūvitha",
+        "cikḷpsāmāsitha",
+        "cikḷpsāñcakṛṣe"
+      ],
+      "only_in_published": [
+        "cikalpiṣāñcakṛṣe",
+        "cikalpiṣāmāsitha",
+        "cikalpiṣāmbabhūvitha"
+      ]
+    },
+    {
+      "profile": "KRP_SAN_A",
+      "slot": "2du",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakrāthe",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāṃcakrāthe",
+            "cikḷpsāñcakrāthe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvathuḥ",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāṃbabhūvathuḥ",
+            "cikḷpsāmbabhūvathuḥ"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsathuḥ",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāmāsathuḥ"
+          ]
+        }
+      ],
+      "local_readings": [
+        "cikḷpsāṃcakrāthe",
+        "cikḷpsāñcakrāthe",
+        "cikḷpsāṃbabhūvathuḥ",
+        "cikḷpsāmbabhūvathuḥ",
+        "cikḷpsāmāsathuḥ"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0866",
+        "external_field": "alit",
+        "external_literal_cell": "चिकल्पिषाञ्चक्राथे,चिकल्पिषामासथुः,चिकल्पिषाम्बभूवथुः,चिकॢप्साञ्चक्राथे,चिकॢप्सामासथुः,चिकॢप्साम्बभूवथुः"
+      },
+      "shared_readings": [
+        "cikḷpsāmbabhūvathuḥ",
+        "cikḷpsāmāsathuḥ",
+        "cikḷpsāñcakrāthe"
+      ],
+      "only_in_published": [
+        "cikalpiṣāñcakrāthe",
+        "cikalpiṣāmāsathuḥ",
+        "cikalpiṣāmbabhūvathuḥ"
+      ]
+    },
+    {
+      "profile": "KRP_SAN_A",
+      "slot": "2pl",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛḍhve",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāṃcakṛḍhve",
+            "cikḷpsāñcakṛḍhve"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūva",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāṃbabhūva",
+            "cikḷpsāmbabhūva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsa",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāmāsa"
+          ]
+        }
+      ],
+      "local_readings": [
+        "cikḷpsāṃcakṛḍhve",
+        "cikḷpsāñcakṛḍhve",
+        "cikḷpsāṃbabhūva",
+        "cikḷpsāmbabhūva",
+        "cikḷpsāmāsa"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0866",
+        "external_field": "alit",
+        "external_literal_cell": "चिकल्पिषाञ्चकृढ्वे,चिकल्पिषामास,चिकल्पिषाम्बभूव,चिकॢप्साञ्चकृढ्वे,चिकॢप्सामास,चिकॢप्साम्बभूव"
+      },
+      "shared_readings": [
+        "cikḷpsāmbabhūva",
+        "cikḷpsāmāsa",
+        "cikḷpsāñcakṛḍhve"
+      ],
+      "only_in_published": [
+        "cikalpiṣāñcakṛḍhve",
+        "cikalpiṣāmāsa",
+        "cikalpiṣāmbabhūva"
+      ]
+    },
+    {
+      "profile": "KRP_SAN_A",
+      "slot": "1sg",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakre",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāṃcakre",
+            "cikḷpsāñcakre"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūva",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāṃbabhūva",
+            "cikḷpsāmbabhūva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsa",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāmāsa"
+          ]
+        }
+      ],
+      "local_readings": [
+        "cikḷpsāṃcakre",
+        "cikḷpsāñcakre",
+        "cikḷpsāṃbabhūva",
+        "cikḷpsāmbabhūva",
+        "cikḷpsāmāsa"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0866",
+        "external_field": "alit",
+        "external_literal_cell": "चिकल्पिषाञ्चक्रे,चिकल्पिषामास,चिकल्पिषाम्बभूव,चिकॢप्साञ्चक्रे,चिकॢप्सामास,चिकॢप्साम्बभूव"
+      },
+      "shared_readings": [
+        "cikḷpsāmbabhūva",
+        "cikḷpsāmāsa",
+        "cikḷpsāñcakre"
+      ],
+      "only_in_published": [
+        "cikalpiṣāñcakre",
+        "cikalpiṣāmāsa",
+        "cikalpiṣāmbabhūva"
+      ]
+    },
+    {
+      "profile": "KRP_SAN_A",
+      "slot": "1du",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛvahe",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāṃcakṛvahe",
+            "cikḷpsāñcakṛvahe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūviva",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāṃbabhūviva",
+            "cikḷpsāmbabhūviva"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsiva",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāmāsiva"
+          ]
+        }
+      ],
+      "local_readings": [
+        "cikḷpsāṃcakṛvahe",
+        "cikḷpsāñcakṛvahe",
+        "cikḷpsāṃbabhūviva",
+        "cikḷpsāmbabhūviva",
+        "cikḷpsāmāsiva"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0866",
+        "external_field": "alit",
+        "external_literal_cell": "चिकल्पिषाञ्चकृवहे,चिकल्पिषामासिव,चिकल्पिषाम्बभूविव,चिकॢप्साञ्चकृवहे,चिकॢप्सामासिव,चिकॢप्साम्बभूविव"
+      },
+      "shared_readings": [
+        "cikḷpsāmbabhūviva",
+        "cikḷpsāmāsiva",
+        "cikḷpsāñcakṛvahe"
+      ],
+      "only_in_published": [
+        "cikalpiṣāñcakṛvahe",
+        "cikalpiṣāmāsiva",
+        "cikalpiṣāmbabhūviva"
+      ]
+    },
+    {
+      "profile": "KRP_SAN_A",
+      "slot": "1pl",
+      "local_policy_groups": [
+        {
+          "auxiliary": "K_A",
+          "auxiliary_word": "cakṛmahe",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāṃcakṛmahe",
+            "cikḷpsāñcakṛmahe"
+          ]
+        },
+        {
+          "auxiliary": "BHU_P",
+          "auxiliary_word": "babhūvima",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāṃbabhūvima",
+            "cikḷpsāmbabhūvima"
+          ]
+        },
+        {
+          "auxiliary": "AS_P",
+          "auxiliary_word": "āsima",
+          "primary_word": "cikḷpsām",
+          "ending_owner": "auxiliary",
+          "primary_tang_or_ana": false,
+          "primary_inner_san_it": false,
+          "readings": [
+            "cikḷpsāmāsima"
+          ]
+        }
+      ],
+      "local_readings": [
+        "cikḷpsāṃcakṛmahe",
+        "cikḷpsāñcakṛmahe",
+        "cikḷpsāṃbabhūvima",
+        "cikḷpsāmbabhūvima",
+        "cikḷpsāmāsima"
+      ],
+      "published_comparison_cell": {
+        "external_record": "01.0866",
+        "external_field": "alit",
+        "external_literal_cell": "चिकल्पिषाञ्चकृमहे,चिकल्पिषामासिम,चिकल्पिषाम्बभूविम,चिकॢप्साञ्चकृमहे,चिकॢप्सामासिम,चिकॢप्साम्बभूविम"
+      },
+      "shared_readings": [
+        "cikḷpsāmbabhūvima",
+        "cikḷpsāmāsima",
+        "cikḷpsāñcakṛmahe"
+      ],
+      "only_in_published": [
+        "cikalpiṣāñcakṛmahe",
+        "cikalpiṣāmāsima",
+        "cikalpiṣāmbabhūvima"
+      ]
+    }
+  ],
+  "carrier": {
+    "inputs": "root and desire, middle base entitlement, ām policy, person/number, auxiliary, and outer sandhi convention",
+    "arrows": "The strict relation fixes the primary and passes the entitlement only along the 1.3.63 edge. The alternative permits it to control an earlier inner iṭ. These are separate models.",
+    "projection": "On each strict branch erasing the two-word history after external sandhi recovers the corresponding PG121 word. Changing the auxiliary or sandhi edge cannot change the primary. Keeping the policy tag prevents the union of the two repositories from being read as optional traditional variation."
+  }
+}

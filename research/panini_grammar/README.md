@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG189 — A source-defined decision for all 45 desiderative middle perfects.** [Packet](desiderative_perfect_primary_word_policy/README.md). Zero new finite positions. Cumulative **41,333**.
+
 **PG188 — The ten Uṇādi ṛ-stems across case and number.** [Packet](unadi_ten_r_stem_declensions/README.md). Zero new finite positions. Cumulative **41,333**.
 
 **PG187 — Accent evidence for da and the internal derivation of kīnāśa.** [Packet](unadi_accent_and_marker_operations/README.md). Zero new finite positions. Cumulative **41,333**.

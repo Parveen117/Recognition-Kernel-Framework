@@ -1,4 +1,4 @@
-# Pāṇini grammar · current written coverage at PG188
+# Pāṇini grammar · current written coverage at PG189
 
 Monty · 11 November 2026
 
@@ -10,7 +10,7 @@ Monty · 11 November 2026
 | Uṇādi entries with multiple affix labels | All 34 entries and 103 listed fields reviewed. 94 fields have a lexical or operational example under the direct-evidence policy. Four further assignments are morphological inferences. | Five fields still lack an individual selection. Four inferences await explicit corroboration. [Glossary accents](unadi_accent_and_marker_operations/README.md). [Individual assignments and traditional differences](unadi_individual_suffix_evidence/README.md) |
 | Ten Uṇādi ṛ-stems at 2.95 | **240/240 nominal slots** agree with the inflection archive. Five stems have long *ār* in the nominative dual and five have short *ar*. | The individual jāmātṛ marker remains open. [Declensions and meaning of potṛ](unadi_ten_r_stem_declensions/README.md) |
 | Present desiderative participles | **720 nominal positions and 893 readings** across the five PG118 roots. All seven available archived stem fields and their gendered nominative singulars agree. | Other roots, kṛt types and sentence contexts. [Word tables and source comparison](desiderative_present_participles/README.md) |
-| Disputed middle perfects | 54 complete spellings agree at 18 of 45 requests. No whole-word overlap at the other 27. | A traditional derivation must determine the inner iṭ entitlement when the ending is borne by the auxiliary. The dispute remains open at all 45. Traditional agent nouns now decide two independent iṭ controls and exclude retroactive licensing by an outer middle alone. [New evidence](agent_noun_and_outer_middle/README.md). [Source comparison](desiderative_perfect_word_intersection/README.md) |
+| Disputed middle perfects | All **45/45** requests have a primary on the Bhāṣya/Kāśikā same-word reading, with 135 auxiliary choices and 225 inherited spellings. Of these, 54 match the other table at 18 requests. [Decision and all choices](desiderative_perfect_primary_word_policy/README.md) | A direct traditional compound example or an explicit alternative rule on early middle entitlement remains to be found. [Traditional controls and search](agent_noun_and_outer_middle/README.md) |
 | Wider Sanskrit derivation | The existing packets treat selected nominal, kṛt, taddhita, compound, sentence and accent questions. | Extend to the outstanding members, semantic conditions, syntactic readings and Vedic traditions. [Detailed grammar-wide register](unadi_first_pada_readings/REMAINING.md) |
 | Executable verification | These stages provide written source decisions and derivations. | Claude’s Python 3.12 grammar tests, generators and certificate replay are pending. |
 
