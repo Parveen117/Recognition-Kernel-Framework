@@ -1,0 +1,53 @@
+{
+  "source_selection": "All 47 rows of workbook v3 whose head is √nam- (Grassmann nam_4841). Each row has a sheet row and a verse/pāda/token address. The token form is the annotated word and can differ from the continuous verse under saṃhitā sandhi.",
+  "observations": {
+    "basic active compared at the same tense and agreement": 10,
+    "simple middle in Vedic context": 17,
+    "secondary finite": 4,
+    "injunctive or subjunctive": 10,
+    "nonfinite": 6
+  },
+  "same_slot_comparisons": {
+    "differs": 3,
+    "outside this comparison": 37,
+    "matches": 7
+  },
+  "texts_identified": {
+    "active_perfect_with_long_copy": [
+      "01.048.08a",
+      "02.033.12b",
+      "04.025.02a"
+    ],
+    "middle_perfect": [
+      "01.057.05d"
+    ],
+    "middle_present_first_singular": [
+      "01.139.09f",
+      "01.139.09g",
+      "06.051.09d",
+      "07.032.20c"
+    ],
+    "uncertain_mood": [
+      "07.041.06a"
+    ]
+  },
+  "boundaries": [
+    "Compare a Vedic primary active word with PG206/218 only if mood, tense, person and number are all available in that panel. Ignore pitch for this word comparison alone; retain vowel length.",
+    "The source tags nanámaḥ twice and nīnamaḥ once as aorist injunctive. Monier-Williams separately reports a form nanamas as a subjunctive in the perfect discussion. The disagreement in description is retained; a lookup by spelling cannot decide the tenses.",
+    "The presence of separated preverbs and verse sandhi is part of each passage. The four middle name tokens are evidence for middle endings under their own readings and contexts, not four new unprefixed Classical cells.",
+    "A participle may have voice and number yet lack finite agreement person. The four participles and two infinitives are each left outside the finite count."
+  ],
+  "projection_examples": [
+    {
+      "locus": "01.057.05d",
+      "token": "neme",
+      "continuous": "nema ójase",
+      "analysis": "3sg perfect middle; do not transcribe the sandhied final vowel as a second morphological ending."
+    },
+    {
+      "locus": "07.041.06a",
+      "token": "namanta",
+      "analysis": "Source marks present injunctive/subjunctive; both retained."
+    }
+  ]
+}
