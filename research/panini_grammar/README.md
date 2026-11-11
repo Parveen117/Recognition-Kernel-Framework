@@ -1410,6 +1410,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG152 — A source decision for the bhāṇḍa aorist and three nominal copies.** [Packet](prefixed_ning_aorist/README.md). 45 positions, 45 readings and 54 paths. Cumulative **33,458**.
+
 **PG151 — The prefix and the imperfect augment in five ṇiṅ verbs.** [Packet](prefixed_ning_present_extensions/README.md). 135 positions, 171 readings and 216 paths. Cumulative **33,413**.
 
 **PG150 — Five prefixed ṇiṅ presents.** [Present forms and inverse event choices](prefixed_ning_present/README.md) add **45 positions / 63 readings**. Cumulative **33,278**.
