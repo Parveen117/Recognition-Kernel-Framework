@@ -1,0 +1,163 @@
+{
+  "rule_4_105_sense_records": 6,
+  "rule_4_105_nominal_slots": 144,
+  "rule_4_105_slot_readings": 153,
+  "control_slots": 24,
+  "control_readings": 25,
+  "all_nominal_slots": 168,
+  "all_nominal_readings": 178,
+  "profiles": [
+    {
+      "rule": "4.105",
+      "stem": "petva",
+      "sense": "nectar",
+      "gender": "n",
+      "model": "@bAla2",
+      "affix": "itvan, explicit in both dictionaries"
+    },
+    {
+      "rule": "4.105",
+      "stem": "kaccha",
+      "sense": "vegetable root or bulb",
+      "gender": "m",
+      "model": "@bAla1",
+      "affix": "śak, explicit in Ujjvaladatta"
+    },
+    {
+      "rule": "4.105",
+      "stem": "saraṭa",
+      "sense": "wind",
+      "gender": "m",
+      "model": "@bAla1",
+      "affix": "printed ninth aṭac inferred by parallel with bharaṭa; primary āṭac unresolved"
+    },
+    {
+      "rule": "4.105",
+      "stem": "dhyātva",
+      "sense": "thought",
+      "gender": "n",
+      "model": "@bAla2",
+      "affix": "tvan, inferred"
+    },
+    {
+      "rule": "4.105",
+      "stem": "hautna",
+      "sense": "sacrificer",
+      "gender": "m",
+      "model": "@bAla1",
+      "affix": "tnaṇ, inferred"
+    },
+    {
+      "rule": "4.105",
+      "stem": "lūni",
+      "sense": "rice, the grain",
+      "gender": "f",
+      "model": "@mati1",
+      "affix": "knin, inferred"
+    },
+    {
+      "rule": "4.81",
+      "stem": "saraṭa",
+      "sense": "lizard",
+      "gender": "m",
+      "model": "@bAla1",
+      "affix": "aṭan, explicit in Śabdakalpadruma"
+    }
+  ],
+  "comparison": {
+    "lexical_witnesses": [
+      {
+        "source": "Ujjvaladatta 4.81, printed p.108",
+        "sense": "lizard",
+        "text": "सरटः कृकलासः",
+        "inherited_affix": "अटन्"
+      },
+      {
+        "source": "Ujjvaladatta 4.105, printed p.112",
+        "sense": "wind",
+        "text": "सरटो वातः"
+      },
+      {
+        "source": "Aufrecht glossary p.260, PDF p.284",
+        "sense": "two separate headwords with their own rule addresses"
+      },
+      {
+        "source": "Aufrecht appendix p.269, no.5, PDF p.293",
+        "further_evidence": "lists saraṭa under the surface suffix aṭa, without choosing a sense or a technical marker"
+      }
+    ],
+    "affix_field": {
+      "index": 9,
+      "primary_explicit_label_4_104_and_4_105": "आटच्",
+      "ujjvaladatta_separate_enumeration_4_104": "अटच्",
+      "preceding_ordered_example": "bhṛ → bharaṭa, potter",
+      "candidate_4_105": "sṛ → saraṭa, wind",
+      "ordinary_grade": "bhṛ → bhar and sṛ → sar before the printed short-a suffix. Appending aṭa gives bharaṭa and saraṭa. Final c is the marker of this source’s aṭac.",
+      "long_label_test": "Using the primary long-ā label and exactly the same ordinary grade would produce sarāṭa, not the written wind word. No shortening prescription for that specific reading is established here.",
+      "lexical_class": "source-conditioned inference for the ninth position in the printed edition. The primary literal āṭac remains unallocated."
+    },
+    "selected_glossary": [
+      {
+        "work": "skd",
+        "L": "38216",
+        "key": "sarawaH",
+        "page": "5-287-c",
+        "entry_sha256": "449b2ff2b8bb7c3fa14a83dcb0e4936ab8fefa770703983a2b1bd67ee4db78b8",
+        "literal_spans_in_whitespace_joined_entry": [
+          "SakAditvAdawan",
+          "kfkalAsaH",
+          "vAtaH . ityuRAdiwIkAyAmujjvaladattaH . 4 . 105"
+        ]
+      },
+      {
+        "work": "mw",
+        "L": "237776",
+        "key": "sarawa",
+        "page": "1183,2",
+        "entry_sha256": "d6a4892b031d9c6231fe822a2485133eaa8042626a8f142c85bb3f5ef55c6f00",
+        "literal_spans_in_whitespace_joined_entry": [
+          "wind, <ls>Uṇ. iv, 105</ls>"
+        ]
+      }
+    ]
+  },
+  "primary_label_register": {
+    "direct": 94,
+    "inferred": 4,
+    "unassigned": 5,
+    "new_printed_only_candidate": {
+      "rule": "4.105",
+      "field": 9,
+      "suffix": "aṭac",
+      "word": "saraṭa",
+      "scope": "printed short-a witness only"
+    }
+  },
+  "inflection_boundary": {
+    "models": {
+      "@bAla1": {
+        "source_id": "@bAla1",
+        "archive_forms": "बालः;बालौ;बालाः;बालम्;बालौ;बालान्;बालेन;बालाभ्याम्;बालैः;बालाय;बालाभ्याम्;बालेभ्यः;बालाद्-बालात्;बालाभ्याम्;बालेभ्यः;बालस्य;बालयोः;बालानाम्;बाले;बालयोः;बालेषु;हे बाल;हे बालौ;हे बालाः"
+      },
+      "@bAla2": {
+        "source_id": "@bAla2",
+        "archive_forms": "बालम्;बाले;बालानि;बालम्;बाले;बालानि;बालेन;बालाभ्याम्;बालैः;बालाय;बालाभ्याम्;बालेभ्यः;बालाद्-बालात्;बालाभ्याम्;बालेभ्यः;बालस्य;बालयोः;बालानाम्;बाले;बालयोः;बालेषु;हे बाल;हे बाले;हे बालानि"
+      },
+      "@mati1": {
+        "source_id": "@mati1",
+        "archive_forms": "मतिः;मती;मतयः;मतिम्;मती;मतीः;मत्या;मतिभ्याम्;मतिभिः;मतये-मत्यै;मतिभ्याम्;मतिभ्यः;मतेः-मत्याः;मतिभ्याम्;मतिभ्यः;मतेः-मत्याः;मत्योः;मतीनाम्;मतौ-मत्याम्;मत्योः;मतिषु;हे मते;हे मती;हे मतयः"
+      }
+    },
+    "kaccha_form_check": {
+      "id": "@kaccha1",
+      "source_sense": "जलाधिकदेशः, नन्दिवृक्षः, अञ्चलः, परिधानम्",
+      "identical_positions": 24,
+      "sense_policy": "This comparison checks forms. The vegetable-root sense comes independently from the printed Uṇādi commentary."
+    },
+    "word_table": "NOMINAL_FORMS.tsv"
+  },
+  "carrier": {
+    "domain": "witness, Uṇādi rule, sense, root, marker history, lexical gender and inflection request",
+    "projection": "The wind and lizard have identical surfaces in every one of 24 cells on the selected masculine schedule. Their separate rules, marker evidence and meanings survive in the full history. Neither the noun ending nor its homography can choose between them."
+  }
+}
