@@ -1408,6 +1408,11 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG146 — Action and experience across the six outer lakāras:** [packet](kyang_action_outer/README.md) adds
+**864 positions / 1564 readings / 1573 paths**; cumulative **32,783**.
+Selected target 864/864; Python 3.12 static checks only,
+grammar tests/generators/replay deferred.
+
 **PG145 — Source-conditioned action and experience denominatives:** [packet](kyang_action_and_experience/README.md) adds
 **576 positions / 576 readings / 576 paths**; cumulative **31,919**.
 Selected target 576/576; Python 3.12 static checks only,
