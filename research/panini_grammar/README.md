@@ -1408,6 +1408,11 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG122 — Nominal colour and imitative sound in kyaṣ and kyaṅ:** [packet](kyas_present/README.md) adds
+**396 positions / 396 readings / 396 paths**; cumulative **28,103**.
+Selected target 396/396; Python 3.12 static checks only,
+grammar tests/generators/replay deferred.
+
 **PG121 — Periphrastic perfects and primary-word taṅ:** [packet](vrtadi_san_perfect/README.md) adds
 **90 positions / 460 readings / 460 paths**; cumulative **27,707**.
 Selected target 90/90; Python 3.12 static checks only,
