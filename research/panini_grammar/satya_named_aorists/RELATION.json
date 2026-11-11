@@ -1,0 +1,273 @@
+{
+  "scope": "fifteen PG167 named prefix/action inputs, P/A result conditions, ordinary kartari caṅ, selected sources and junction policy",
+  "factors": [
+    {
+      "input": "SATYA",
+      "prefix_augment_and_pre_copy_material": "a",
+      "stem_remainder": "satyap",
+      "copy_choices": [
+        {
+          "policy": "common",
+          "copy": "sa"
+        }
+      ],
+      "inner_nominal_vowel_loss": false
+    },
+    {
+      "input": "ARTHA",
+      "prefix_augment_and_pre_copy_material": "ār",
+      "stem_remainder": "thap",
+      "copy_choices": [
+        {
+          "policy": "kaumudi_preferred",
+          "copy": "tī"
+        },
+        {
+          "policy": "madhava_reported",
+          "copy": "ta"
+        }
+      ],
+      "inner_nominal_vowel_loss": false
+    },
+    {
+      "input": "VEDA",
+      "prefix_augment_and_pre_copy_material": "a",
+      "stem_remainder": "vedap",
+      "copy_choices": [
+        {
+          "policy": "common",
+          "copy": "vi"
+        }
+      ],
+      "inner_nominal_vowel_loss": false
+    },
+    {
+      "input": "VI_PASHA",
+      "prefix_augment_and_pre_copy_material": "vya",
+      "stem_remainder": "pāś",
+      "copy_choices": [
+        {
+          "policy": "common",
+          "copy": "pa"
+        }
+      ],
+      "inner_nominal_vowel_loss": true
+    },
+    {
+      "input": "NI_RUPA",
+      "prefix_augment_and_pre_copy_material": "nya",
+      "stem_remainder": "rūp",
+      "copy_choices": [
+        {
+          "policy": "common",
+          "copy": "ru"
+        }
+      ],
+      "inner_nominal_vowel_loss": true
+    },
+    {
+      "input": "UPA_VINA",
+      "prefix_augment_and_pre_copy_material": "upā",
+      "stem_remainder": "vīṇ",
+      "copy_choices": [
+        {
+          "policy": "common",
+          "copy": "vi"
+        }
+      ],
+      "inner_nominal_vowel_loss": true
+    },
+    {
+      "input": "ANU_TULA",
+      "prefix_augment_and_pre_copy_material": "anva",
+      "stem_remainder": "tūl",
+      "copy_choices": [
+        {
+          "policy": "common",
+          "copy": "tu"
+        }
+      ],
+      "inner_nominal_vowel_loss": true
+    },
+    {
+      "input": "UPA_SHLOKA",
+      "prefix_augment_and_pre_copy_material": "upā",
+      "stem_remainder": "ślok",
+      "copy_choices": [
+        {
+          "policy": "common",
+          "copy": "śu"
+        }
+      ],
+      "inner_nominal_vowel_loss": true
+    },
+    {
+      "input": "ABHI_SENA",
+      "prefix_augment_and_pre_copy_material": "abhya",
+      "stem_remainder": "ṣeṇ",
+      "copy_choices": [
+        {
+          "policy": "common",
+          "copy": "ṣi"
+        }
+      ],
+      "inner_nominal_vowel_loss": true
+    },
+    {
+      "input": "PARI_SENA",
+      "prefix_augment_and_pre_copy_material": "parya",
+      "stem_remainder": "ṣeṇ",
+      "copy_choices": [
+        {
+          "policy": "common",
+          "copy": "ṣi"
+        }
+      ],
+      "inner_nominal_vowel_loss": true
+    },
+    {
+      "input": "ANU_LOMA",
+      "prefix_augment_and_pre_copy_material": "anva",
+      "stem_remainder": "lom",
+      "copy_choices": [
+        {
+          "policy": "common",
+          "copy": "lu"
+        }
+      ],
+      "inner_nominal_vowel_loss": true
+    },
+    {
+      "input": "TVACA",
+      "prefix_augment_and_pre_copy_material": "a",
+      "stem_remainder": "tvac",
+      "copy_choices": [
+        {
+          "policy": "common",
+          "copy": "ta"
+        }
+      ],
+      "inner_nominal_vowel_loss": true
+    },
+    {
+      "input": "SAM_VARMA",
+      "prefix_augment_and_pre_copy_material": "sama",
+      "stem_remainder": "varm",
+      "copy_choices": [
+        {
+          "policy": "common",
+          "copy": "va"
+        }
+      ],
+      "inner_nominal_vowel_loss": true
+    },
+    {
+      "input": "VARNA",
+      "prefix_augment_and_pre_copy_material": "a",
+      "stem_remainder": "varṇ",
+      "copy_choices": [
+        {
+          "policy": "common",
+          "copy": "va"
+        }
+      ],
+      "inner_nominal_vowel_loss": true
+    },
+    {
+      "input": "AVA_CURNA",
+      "prefix_augment_and_pre_copy_material": "avā",
+      "stem_remainder": "cūrṇ",
+      "copy_choices": [
+        {
+          "policy": "common",
+          "copy": "cu"
+        }
+      ],
+      "inner_nominal_vowel_loss": true
+    }
+  ],
+  "ending_schedule": {
+    "P": [
+      "at",
+      "atām",
+      "an",
+      "aḥ",
+      "atam",
+      "ata",
+      "am",
+      "āva",
+      "āma"
+    ],
+    "A": [
+      "ata",
+      "etām",
+      "anta",
+      "athāḥ",
+      "ethām",
+      "adhvam",
+      "e",
+      "āvahi",
+      "āmahi"
+    ]
+  },
+  "source_policy_contrast": {
+    "profile": "ARTHA",
+    "madhava_reported": "ārtathapat",
+    "kaumudi_preferred": "ārtīthapat",
+    "unrelated_root_control": "ārtathata",
+    "policy_union_is_free_option": false
+  },
+  "source_witnesses": [
+    {
+      "work": "kashika",
+      "rule": "7.4.2",
+      "literal": "लोमान्यनुमृष्टवानन्वलुलोमत्",
+      "word": "anvalulomat"
+    },
+    {
+      "work": "tattvabodhini",
+      "rule": "7.4.94",
+      "literal": "आर्तीथपदित्येव",
+      "word_at_pause": "ārtīthapat"
+    },
+    {
+      "work": "tattvabodhini",
+      "rule": "7.4.94",
+      "literal": "आर्तथपत्",
+      "word_at_pause": "ārtathapat"
+    }
+  ],
+  "grid": {
+    "profiles": 30,
+    "labels": [
+      "ashirling",
+      "lang",
+      "lat",
+      "lit",
+      "lot",
+      "lrng",
+      "lrt",
+      "lung",
+      "lut",
+      "vidhiling"
+    ],
+    "slots": [
+      "3sg",
+      "3du",
+      "3pl",
+      "2sg",
+      "2du",
+      "2pl",
+      "1sg",
+      "1du",
+      "1pl"
+    ],
+    "prior_keys": 2430,
+    "new_keys": 270,
+    "remaining_keys": 0,
+    "union": 2700,
+    "per_policy_readings_in_new_keys": 270,
+    "all_policies_distinct_position_readings": 288
+  },
+  "untallied": "other lexemes, Vedic conditions, further copy-site policies and optional phonetic doubling"
+}
