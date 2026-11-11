@@ -1408,6 +1408,11 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG126 — Consonant-host blessings and periphrastic perfects:** [packet](ky_consonant_blessing_perfect/README.md) adds
+**72 positions / 442 readings / 460 paths**; cumulative **29,021**.
+Selected target 72/72; Python 3.12 static checks only,
+grammar tests/generators/replay deferred.
+
 **PG125 — Consonant-final denominatives in present and future:** [packet](ky_consonant_hosts/README.md) adds
 **252 positions / 360 readings / 360 paths**; cumulative **28,949**.
 Selected target 252/252; Python 3.12 static checks only,
