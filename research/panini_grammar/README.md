@@ -1410,6 +1410,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG156 — Ten nominal inputs to ṇic and the two uses of a vow.** [Packet](munda_nominal_actions/README.md). 792 positions, 846 readings and 1,134 paths. Cumulative **34,565**.
+
 **PG155 — Linking two attested gerunds to one speaker across four verses.** [Packet](bhatti_clause_chain/README.md). Zero new finite positions. Cumulative **33,773**.
 
 **PG154 — Dividing goods, lowering the tail and an understood causer.** [Packet](prefixed_ning_division/README.md). 90 positions, 127 readings and 127 paths. Cumulative **33,773**.
