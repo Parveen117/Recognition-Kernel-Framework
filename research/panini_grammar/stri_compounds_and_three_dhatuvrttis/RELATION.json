@@ -1,0 +1,126 @@
+{
+  "witnesses": [
+    {
+      "work": "Mādhavīya",
+      "repository": "samsaadhanii/scl",
+      "commit": "1ec51dc4cbfecf271e4f3cb0bba41f25b5921572",
+      "path": "dhaatupaatha/files/madhaviya_XAwuvqwwi_new.xml",
+      "entry_id": "577",
+      "git_blob_sha": "d14a4235af32a9256615e263b4589e61c9ce25e7",
+      "sha256": "4562749571a7efe3b474b1c68f821cfc7271b07893e753ffc66e2fc7a4a79e76",
+      "bytes": 3572767,
+      "extracted_text_sha256": "71a50f4828fb632ccd2fcfddd0d5dee0fb1e6b078ef85af62daf244193864781",
+      "anchors": [
+        {
+          "text": "कौस्त्रम्",
+          "offset": 2616
+        },
+        {
+          "text": "दौस्त्रम्",
+          "offset": 2648
+        },
+        {
+          "text": "युवादित्वादण्",
+          "offset": 2628
+        }
+      ]
+    },
+    {
+      "work": "Kṣīrataraṅgiṇī",
+      "repository": "samsaadhanii/scl",
+      "commit": "1ec51dc4cbfecf271e4f3cb0bba41f25b5921572",
+      "path": "dhaatupaatha/files/kRIrawarangiNI_new.xml",
+      "entry_id": "601",
+      "git_blob_sha": "bcd9060ffbd3bb59a2e40c4027b8b9c953dd9e7d",
+      "sha256": "408fa688fd4b4b9798efe2bd405f9a2c6b33a8c67af76569c35cfb9c80d9cf73",
+      "bytes": 1060642,
+      "extracted_text_sha256": "3abf34cd4f9acb256f3739315224966f5597896b6fd7602c455dcfe23a029665",
+      "anchors": [
+        {
+          "text": "ष्ट्यायति स्त्यायति",
+          "offset": 28
+        },
+        {
+          "text": "स्त्यातेर्ड्रट् ( उ04165) स्त्री",
+          "offset": 273
+        }
+      ]
+    },
+    {
+      "work": "Dhātupradīpa",
+      "repository": "samsaadhanii/scl",
+      "commit": "1ec51dc4cbfecf271e4f3cb0bba41f25b5921572",
+      "path": "dhaatupaatha/files/XAwupraxIpaH_new.xml",
+      "entry_id": "613",
+      "git_blob_sha": "1853a3b6bbffeadc3ed257443567e3831e7541ab",
+      "sha256": "a8b0103bfad2c2d9c7e810abb22a45cc12b1fbf71974eb713c57a087a89498f0",
+      "bytes": 761243,
+      "extracted_text_sha256": "3823dceca90b29dcb36f19208544cc8c40b48dd40b1d9aee8f4cff963c5c9f81",
+      "anchors": [
+        {
+          "text": "स्त्यायति",
+          "offset": 67
+        },
+        {
+          "text": "तिष्ट्यासति",
+          "offset": 79
+        },
+        {
+          "text": "कुस्त्री",
+          "offset": 126
+        },
+        {
+          "text": "दुःस्त्री",
+          "offset": 137
+        },
+        {
+          "text": "कौस्रम्, दौःस्रम्",
+          "offset": 157
+        }
+      ]
+    }
+  ],
+  "source_membership": {
+    "primary_gana": {
+      "index": 168,
+      "literal_sequence": [
+        "कुस्त्री",
+        "सुस्त्रि",
+        "दःस्त्री"
+      ]
+    },
+    "kashika": [
+      "कुस्त्री",
+      "सुस्त्री"
+    ],
+    "scope": "Preserve the primary anomalous दः rather than silently restoring a vowel. The Dhātupradīpa gives दुःस्त्री directly. A named word in a distinct text does not make it part of the Kāśikā’s local list."
+  },
+  "derived_lexemes": [
+    {
+      "source": "Mādhavīya 577",
+      "ku": "kaustram",
+      "dus": "daustram",
+      "operation": "aṇ expressly named under yuvādi for bhāva or karman"
+    },
+    {
+      "source": "Dhātupradīpa 613",
+      "ku": "kausram",
+      "dus": "dauḥsram",
+      "operation": "occurs in an abstract gloss. The exact transcription lacks t in both words. No t-deletion rule is supplied here and no extra case series is inferred."
+    },
+    {
+      "source": "MW L57594, L97174",
+      "ku": "kaustra",
+      "dus": "dauḥstra",
+      "operation": "lexicographic heads; the second has a distinct gloss for discord between women"
+    }
+  ],
+  "root_sources": "Kṣīrasvāmin in his own entry gives initial ṣṭ in ṣṭyāyati beside styāyati. His citation for strī has ḍraṭ and local number 4.165. The same-number primary digital Uṇādi text has ḍaṭ. These are witnesses at the same address, not a closure of the separate 4.105 field. Maitreya prints styāyati and tiṣṭyāsati.",
+  "nominal_scope": "The two compounds have strī as their inflecting feminine head. The 26-reading strī schedule, including the two optional accusatives, survives with both directly compared head-final controls. For the three t-bearing neuters use an a-stem whose last consonant r triggers ending ṇ. The Mādhavīya’s formal abstract and the dictionary-specific sense remain separately labelled.",
+  "compound_controls": {
+    "@kulastrI1": 24,
+    "@vArastrI1": 24
+  },
+  "nominal_positions": 120,
+  "readings": 127
+}

@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG225 — Three Dhātuvṛtti readings of strī and the abstracts of its compounds.** [Packet](stri_compounds_and_three_dhatuvrttis/README.md). Zero new finite positions. Cumulative **44,297**.
+
 **PG224 — Star names, birth names and the reintroduced feminine affix.** [Packet](asterism_birth_names_and_feminine_reentry/README.md). Zero new finite positions. Cumulative **44,297**.
 
 **PG223 — Pitch, case and referent of the stellar and descriptive feminine words.** [Packet](revati_rohini_stellar_and_descriptive_accents/README.md). Zero new finite positions. Cumulative **44,297**.

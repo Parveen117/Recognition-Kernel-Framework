@@ -1,8 +1,8 @@
-# Pāṇini grammar · current written coverage at PG224
+# Pāṇini grammar · current written coverage at PG225
 
 Monty · 12 November 2026
 
-PG202–PG224 add **2,964 finite positions**, taking the written total to **44,297**. The new lexical and compound work gives 1,512 nominal positions with 1,765 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG225 add **2,964 finite positions**, taking the written total to **44,297**. The new lexical and compound work gives 1,632 nominal positions with 1,892 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
@@ -18,7 +18,7 @@ PG202–PG224 add **2,964 finite positions**, taking the written total to **44,2
 | Ṛgvedic inflection of the ten ṛ-stems | 1,038 source rows reviewed. **1,033** satisfy the lemma and gender conditions and populate **93/240** existing positions. | 147 cells have no token in the selection. The 132 nonmatching word forms have a separate account for Vedic dual endings, *nápat-* and one tagged ablative dual. [Complete concordance](rigvedic_ten_r_stem_concordance/README.md) |
 | Present desiderative participles | **720 nominal positions and 893 readings** across the five PG118 roots. All seven available archived stem fields and their gendered nominative singulars agree. | Other roots, kṛt types and sentence contexts. [Word tables and source comparison](desiderative_present_participles/README.md) |
 | Disputed middle perfects | All **45/45** requests have a primary on the Bhāṣya/Kāśikā same-word reading, with 135 auxiliary choices and 225 inherited spellings. Of these, 54 match the other table at 18 requests. [Decision and all choices](desiderative_perfect_primary_word_policy/README.md) | A full traditional example of the disputed compound perfect or an explicit alternative rule on early middle entitlement remains to be found. [Traditional controls and search](agent_noun_and_outer_middle/README.md) |
-| The word *strī* | Both literal *ḍaṭ* and source-attested *ḍraṭ* are recorded. All **24 cases and numbers, 26 readings**, with 11 Ṛgvedic examples across six positions. | Only the r-bearing suffix supplies the r by the documented steps. [The readings and the two accusatives](stri_affix_and_vedic_cases/README.md) |
+| The word *strī* | Both literal *ḍaṭ* and source-attested *ḍraṭ* are recorded. All **24 cases and numbers, 26 readings**, with 11 Ṛgvedic examples across six positions. | Kṣīrasvāmin gives ḍraṭ at 4.165. [Three Dhātuvṛttis and the compounds](stri_compounds_and_three_dhatuvrttis/README.md). Only the r-bearing suffix supplies r by the documented steps. [The readings and the two accusatives](stri_affix_and_vedic_cases/README.md) |
 | *Atistri* compounds | **72 positions and 87 selected readings** in three genders. The Bālamanoramā selects *atistrayaḥ* before *jas*. | Four masculine/feminine nominative and vocative cells differ from the archive. [Full forms and source differences](atistri_compound_priority/README.md) |
 | Gaurādi under 4.1.41 | 153 and 117 source positions compared. Six jointly attested directives have their own lexical or semantic conditions. | Thirteen histories now have 312 nominal positions. [Forms and Vedic comparisons](gauradi_sense_and_declension/README.md). The two Vedic traditions add [19 accent and sense observations](revati_rohini_stellar_and_descriptive_accents/README.md). The [birth-name derivations](asterism_birth_names_and_feminine_reentry/README.md) add 360 positions. Further lexical members remain. [Two complete lists](gauradi_members_and_conditions/README.md) |
 | *Styai* past participles | Four ordered prefix contexts yield 576 nominal positions. [Whole tables and source disagreement](styai_prefixes_and_nistha/README.md) | Four published root–affix fields differ from the selected unprefixed *n*. |
