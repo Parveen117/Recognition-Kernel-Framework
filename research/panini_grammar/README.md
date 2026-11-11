@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG215 — Benedictive ā and e and the four middle second plurals.** [Packet](unadi_root_benedictives/README.md). 135 positions, 157 readings and 157 paths. Cumulative **43,025**.
+
 **PG214 — Bhāgavata senses and edition concordance for 112 perception words.** [Packet](bhagavata_nisam_meanings/README.md). Zero new finite positions. Cumulative **42,890**.
 
 **PG213 — Three future schedules for the twelve Uṇādi-related root entries.** [Packet](unadi_root_future_schedules/README.md). 405 positions, 405 readings and 405 paths. Cumulative **42,890**.
