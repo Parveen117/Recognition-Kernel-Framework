@@ -1,0 +1,1043 @@
+{
+  "schema": "rkf.panini.pg232.state.v1",
+  "author": "Monty",
+  "date": "2026-11-12",
+  "baseline": {
+    "path": "research/panini_grammar/klis_kinasa_and_optional_it/STATE.json",
+    "commit": "7d53322138adca0cb52ff6d88ffe976496ef20bb",
+    "git_blob_sha": "be690bcd43c63dbf2bdac10f7920672d7ca09e58",
+    "sha256": "41cf971d0649e92fbcd49f69eed7d7bd975be9970a39134046ebf644ad9619c9",
+    "bytes": 3280
+  },
+  "finite_positions": 44990,
+  "new_positions": 108,
+  "new_position_readings": 108,
+  "new_written_table_readings": 108,
+  "retained_path_count": 108,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "kleśate"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "kleśete"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "kleśante"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "kleśase"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "kleśethe"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "kleśadhve"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "kleśe"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "kleśāvahe"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "kleśāmahe"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "kleśatām"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "kleśetām"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "kleśantām"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "kleśasva"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "kleśethām"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "kleśadhvam"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "kleśai"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "kleśāvahai"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "kleśāmahai"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "akleśata"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "akleśetām"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "akleśanta"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "akleśathāḥ"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "akleśethām"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "akleśadhvam"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "akleśe"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "akleśāvahi"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "akleśāmahi"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "kleśeta"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "kleśeyātām"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "kleśeran"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "kleśethāḥ"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "kleśeyāthām"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "kleśedhvam"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "kleśeya"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "kleśevahi"
+        ]
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "kleśemahi"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "kliśyate"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "kliśyete"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "kliśyante"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "kliśyase"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "kliśyethe"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "kliśyadhve"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "kliśye"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "kliśyāvahe"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "kliśyāmahe"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "kliśyatām"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "kliśyetām"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "kliśyantām"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "kliśyasva"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "kliśyethām"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "kliśyadhvam"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "kliśyai"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "kliśyāvahai"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "kliśyāmahai"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "akliśyata"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "akliśyetām"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "akliśyanta"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "akliśyathāḥ"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "akliśyethām"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "akliśyadhvam"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "akliśye"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "akliśyāvahi"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "akliśyāmahi"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "kliśyeta"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "kliśyeyātām"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "kliśyeran"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "kliśyethāḥ"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "kliśyeyāthām"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "kliśyedhvam"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "kliśyeya"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "kliśyevahi"
+        ]
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "kliśyemahi"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "kliśnāti"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "kliśnītaḥ"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "kliśnanti"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "kliśnāsi"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "kliśnīthaḥ"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "kliśnītha"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "kliśnāmi"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "kliśnīvaḥ"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "kliśnīmaḥ"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "kliśnātu"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "kliśnītām"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "kliśnantu"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "kliśāna"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "kliśnītam"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "kliśnīta"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "kliśnāni"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "kliśnāva"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "kliśnāma"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "akliśnāt"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "akliśnītām"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "akliśnan"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "akliśnāḥ"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "akliśnītam"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "akliśnīta"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "akliśnām"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "akliśnīva"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "akliśnīma"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "kliśnīyāt"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "kliśnīyātām"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "kliśnīyuḥ"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "kliśnīyāḥ"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "kliśnīyātam"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "kliśnīyāta"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "kliśnīyām"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "kliśnīyāva"
+        ]
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "kliśnīyāma"
+        ]
+      }
+    ],
+    "panels": [
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lat",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_0691_A",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lat",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_04_0057_A",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lat",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_09_0058_P",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 9
+      }
+    ],
+    "complete_nine_slot_paradigms": 12
+  },
+  "contextual_profiles": {
+    "DP_01_0691_A": {
+      "address": "01.0691",
+      "aupadeshik": "क्लेशँ",
+      "artha": "अव्यक्तायां वाचि",
+      "pada": "A",
+      "settva": "S",
+      "karma": "S",
+      "karma_note": null
+    },
+    "DP_04_0057_A": {
+      "address": "04.0057",
+      "aupadeshik": "क्लिशँ",
+      "artha": "उपतापे",
+      "pada": "A",
+      "settva": "S",
+      "karma": "A",
+      "karma_note": null
+    },
+    "DP_09_0058_P": {
+      "address": "09.0058",
+      "aupadeshik": "क्लिशूँ",
+      "artha": "विबाधने",
+      "pada": "P",
+      "settva": "V",
+      "karma": "A",
+      "karma_note": "सकर्मकः इति केचन ।"
+    }
+  },
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "Three lexical entries outside the present system: compare the two futures of kriyādi and the sārvadhātuka/ārdhadhātuka contrast with class four.",
+    "The kroṣṭrī price compound, four unassigned 4.105 fields and independent 5.56 k."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Compared 108 present-system cells, three lexical entry histories and both editions of the one literary clause, including its object and the exact divergent source spellings."
+  },
+  "new_root_pada_profiles": 3,
+  "present_system_positions": 108,
+  "literary_tokens_with_confirmed_object": 1
+}

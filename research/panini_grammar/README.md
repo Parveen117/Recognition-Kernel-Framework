@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG232 — Three kleś and kliś presents and the object of kliśnāti.** [Packet](klis_kles_three_present_systems/README.md). 108 positions, 108 readings and 108 paths. Cumulative **44,990**.
+
 **PG231 — A ten-pāda kīnāśa reading and the two kliś entries.** [Packet](klis_kinasa_and_optional_it/README.md). Zero new finite positions. Cumulative **44,882**.
 
 **PG230 — Seven pippalyādi examples and four possessive compounds.** [Packet](pippalyadi_and_retained_compound_feminines/README.md). Zero new finite positions. Cumulative **44,882**.
