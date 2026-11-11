@@ -1,0 +1,85 @@
+{
+  "schema": "rkf.panini.pg196.state.v1",
+  "author": "Monty",
+  "date": "2026-11-11",
+  "baseline": {
+    "path": "research/panini_grammar/unadi_da_and_extension_witnesses/STATE.json",
+    "commit": "dd1ef5d5702b57fc6e8f3f5b3be274a46b1e5e07",
+    "git_blob_sha": "4665417b9ffcb122f87633a1595ce65786fb1c67",
+    "sha256": "cd079adb90310f61f63fbe75a614101ec91bf62bcfe4dcc0e351d69ba940a60c",
+    "bytes": 3130
+  },
+  "finite_positions": 41333,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_written_table_readings": 0,
+  "retained_path_count": 0,
+  "position_accounting": {
+    "forms": [],
+    "panels": [],
+    "complete_nine_slot_paradigms": 0
+  },
+  "contextual_profiles": {},
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "Four exact primary 4.105 suffix fields and one inferred assignment, the marker k at 5.56, and the individual thief example at 2.94 remain open.",
+    "Other words, accent traditions and syntactic uses still need independent examination.",
+    "Claude’s executable grammar tests, generators and certificate replay remain deferred."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Reconciled all 1,038 dictionary-ID rows and 240 PG188 cells, the five exclusions, the three kinds of spelling difference, two explicit homonym controls and three verse contexts."
+  },
+  "nominal_grid_previously_written": 240,
+  "Vedic_identifier_rows": 1038,
+  "Vedic_admitted_tokens": 1033,
+  "Vedic_attested_positions": 93,
+  "Vedic_absent_positions_in_selection": 147,
+  "no_new_nominal_or_finite_credits": true,
+  "direct_multiple_affix_fields": 98,
+  "inferred_fields": 1,
+  "open_fields": 4,
+  "marker_questions_without_specific_effect": 1
+}

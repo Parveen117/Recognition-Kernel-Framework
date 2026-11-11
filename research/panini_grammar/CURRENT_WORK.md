@@ -1,8 +1,8 @@
-# Pāṇini grammar · current written coverage at PG195
+# Pāṇini grammar · current written coverage at PG196
 
 Monty · 11 November 2026
 
-PG191 adds 27 written agent–object readings. PG183–PG190 previously added 954 finite positions and 1,128 nominal positions. Current finite total: **41,333**.
+PG191–PG196 add source-backed affix decisions, clause readings and Ṛgvedic attestations. The cumulative written finite total is **41,333**. The ten ṛ-stems now have 10/10 individually sourced suffixes. Their Ṛgvedic comparison admits 1,033 tokens, covering 93 of the 240 previously written nominal positions.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
@@ -12,6 +12,7 @@ PG191 adds 27 written agent–object readings. PG183–PG190 previously added 95
 | Uṇādi entries with multiple affix labels | Across 34 entries and 103 fields, **98 direct, one inferred, four open**. The newly explicit fields are 2.94 tṛn, 4.98 da and 4.105 tvan and knin. | The five outstanding affix fields are in **4.105**. Evidence for *tnaṇ* on *hautna* is inferential. The open literal fields are *sya, ḍha, ḍaṭ, āṭac*. The particular thief sense at 2.94 still lacks its own marker. [Field evidence](unadi_da_and_extension_witnesses/README.md) · [Priest names](unadi_priest_and_kinship_suffixes/README.md) |
 | Six Uṇādi lexical examples at 4.105 | 144 nominal positions plus 24 for the homonymous lizard. The separate printed **short aṭac** now has three directly named extension examples. | The primary list spells **āṭac** with a long ā. [Comparative lists](unadi_da_and_extension_witnesses/README.md) · [Six declensions](unadi_six_lexical_paradigms/README.md) |
 | Ten Uṇādi ṛ-stems at 2.95 | All **10/10** have a named affix in at least one commentary, including *jāmātṛ* with tṛc. All 240 written case–number slots agree with the inflection archive. | Cross-edition alternatives persist for individual stems. [Ten declensions](unadi_ten_r_stem_declensions/README.md) · [New lexical evidence](unadi_priest_and_kinship_suffixes/README.md) |
+| Ṛgvedic inflection of the ten ṛ-stems | 1,038 source rows reviewed. **1,033** satisfy the lemma and gender conditions and populate **93/240** existing positions. | 147 cells have no token in the selection. The 132 nonmatching word forms have a separate account for Vedic dual endings, *nápat-* and one tagged ablative dual. [Complete concordance](rigvedic_ten_r_stem_concordance/README.md) |
 | Present desiderative participles | **720 nominal positions and 893 readings** across the five PG118 roots. All seven available archived stem fields and their gendered nominative singulars agree. | Other roots, kṛt types and sentence contexts. [Word tables and source comparison](desiderative_present_participles/README.md) |
 | Disputed middle perfects | All **45/45** requests have a primary on the Bhāṣya/Kāśikā same-word reading, with 135 auxiliary choices and 225 inherited spellings. Of these, 54 match the other table at 18 requests. [Decision and all choices](desiderative_perfect_primary_word_policy/README.md) | A full traditional example of the disputed compound perfect or an explicit alternative rule on early middle entitlement remains to be found. [Traditional controls and search](agent_noun_and_outer_middle/README.md) |
 | Agent nouns and object case | Three construction histories for *kartā* yield **27** two-word readings and **18** distinct unaccented pairs. | Nine accusative pairs admit both habitual agent and finite future readings. [Three-way comparison](agent_noun_object_government/README.md) |

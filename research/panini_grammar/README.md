@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG196 — The ten Uṇādi ṛ-stems in the annotated Ṛgveda.** [Packet](rigvedic_ten_r_stem_concordance/README.md). Zero new finite positions. Cumulative **41,333**.
+
 **PG195 — Three directly evidenced affixes and the differing 4.105 lists.** [Packet](unadi_da_and_extension_witnesses/README.md). Zero new finite positions. Cumulative **41,333**.
 
 **PG194 — Why kuṭaru carries k and what remains open in kīnāśa.** [Packet](unadi_kit_commentarial_decisions/README.md). Zero new finite positions. Cumulative **41,333**.

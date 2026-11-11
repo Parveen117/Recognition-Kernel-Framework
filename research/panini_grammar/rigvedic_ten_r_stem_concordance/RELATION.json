@@ -1,0 +1,167 @@
+{
+  "scope": "All rows with the ten selected Grassmann identifiers in the pinned Zürich workbook, across all ten maṇḍalas. Compare only the named Zürich lemma and the PG188 gender. Token readings reflect the workbook FORM field, not a regularized spelling of the continuous text. A lexical link between two registers does not guarantee the same sense or the same stem class in every verse.",
+  "source": {
+    "title": "The morphologically glossed Rigveda – The Zurich annotation corpus revised and extended",
+    "authors": "Antje Casaretto, Pascal Coenen, Anna Fischer, Jakob Halfmann, Daniel Kölligan, Natalie Korobzov, Uta Reinöhl",
+    "version": "v3",
+    "doi": "10.5281/zenodo.21527084",
+    "url": "https://doi.org/10.5281/zenodo.21527084",
+    "file": "vedaweb_zurich.xlsx",
+    "sheet": "vedaweb_zurich",
+    "sha256": "5b85de05564b83e98f9a48838bdf8a841e2228e37cd719852a71e8ad6f0f7513",
+    "md5": "cafa0415fde0a8a9232069a7de234e00",
+    "bytes": 10369921,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "text": "Lubotsky; morphological annotations from the Zürich and VedaWeb teams. Selected fields and new comparisons or readings are identified separately."
+  },
+  "inputs": [
+    {
+      "PG188_lemma": "naptṛ",
+      "Zurich_lemma": "nápat-",
+      "Grassmann": "naptf_4827",
+      "PG188_gender": "m"
+    },
+    {
+      "PG188_lemma": "neṣṭṛ",
+      "Zurich_lemma": "néṣṭar-",
+      "Grassmann": "nezwf_5138",
+      "PG188_gender": "m"
+    },
+    {
+      "PG188_lemma": "tvaṣṭṛ",
+      "Zurich_lemma": "tváṣṭar-",
+      "Grassmann": "tvazwf_3992",
+      "PG188_gender": "m"
+    },
+    {
+      "PG188_lemma": "hotṛ",
+      "Zurich_lemma": "hótar-",
+      "Grassmann": "hotf_10749",
+      "PG188_gender": "m"
+    },
+    {
+      "PG188_lemma": "potṛ",
+      "Zurich_lemma": "pótar-",
+      "Grassmann": "potf_5818",
+      "PG188_gender": "m"
+    },
+    {
+      "PG188_lemma": "bhrātṛ",
+      "Zurich_lemma": "bhrā́tar-",
+      "Grassmann": "BrAtf_6469",
+      "PG188_gender": "m"
+    },
+    {
+      "PG188_lemma": "jāmātṛ",
+      "Zurich_lemma": "jā́mātar-",
+      "Grassmann": "jAmAtf_3483",
+      "PG188_gender": "m"
+    },
+    {
+      "PG188_lemma": "mātṛ",
+      "Zurich_lemma": "mātár-",
+      "Grassmann": "mAtf_6775",
+      "PG188_gender": "f"
+    },
+    {
+      "PG188_lemma": "pitṛ",
+      "Zurich_lemma": "pitár-",
+      "Grassmann": "pitf_5481",
+      "PG188_gender": "m"
+    },
+    {
+      "PG188_lemma": "duhitṛ",
+      "Zurich_lemma": "duhitár-",
+      "Grassmann": "duhitf_4378",
+      "PG188_gender": "f"
+    }
+  ],
+  "units": {
+    "scanned_source_rows_in_ten_identifiers": 1038,
+    "in_scope_tokens": 1033,
+    "other_lemma_same_identifier": 2,
+    "other_source_gender": 3,
+    "distinct_source_attested_case_number_cells": 93,
+    "PG188_cells": 240,
+    "cells_without_in_scope_tokens": 147,
+    "exact_segmental_form_after_accent_and_transliteration": 838,
+    "final_r_instead_of_pause_visarga": 63,
+    "different_segmental_form": 132
+  },
+  "normalization": [
+    "Unicode-canonical normalization. Convert syllabic r/l with ring below to the PG188 dot-below convention, retain vowel length and strip acute, grave or circumflex only for the segmental comparison. The accented source token is a separate column.",
+    "No final r is silently converted to ḥ. All 63 such pairs are vocative singular in these data. Medial morphology remains unchanged in that class.",
+    "PG188 supplied a word with \"he\" already removed from address slots. Matrix rows with zero corpus tokens describe this selection alone.",
+    "Keep all five rows excluded by the lemma or gender condition. In particular, the database’s feminine duals in the father entry and masculine plural in mother are not evidence for the PG188 gender-specific cell."
+  ],
+  "nonmatching_classes": [
+    {
+      "id": "RV_napat_lexeme",
+      "n": 67,
+      "decision": "The dictionary cross-reference links Vedic nápat- with the naptṛ entry. Strong napāt-, weak alternants, and the single dative nádbhyaḥ remain source forms. Eight further tokens happen to agree with the PG188 word. The source does not give the regular naptṛ paradigm for all 75."
+    },
+    {
+      "id": "Vedic_dual_ā",
+      "n": 64,
+      "decision": "In five named lemmas a direct dual of the PG188 -au schedule occurs with -ā. Kāśikā 7.1.39 explicitly illustrates ā with yantārā for yantārau. The exact extension here is restricted to the corpus keys in the TSV."
+    },
+    {
+      "id": "pitror_origin_reading",
+      "n": 1,
+      "decision": "RV 10.31.10c. Source form pitróḥ, tagged ablative dual. Sāyaṇa paraphrases emergence from the two fire sticks. That supports the source relation, but does not establish a general ablative dual ending -oḥ. In this gloss the explicit citation of 7.1.39 belongs to a different word, śamyām."
+    }
+  ],
+  "lexical_controls": [
+    {
+      "row": 109239,
+      "verse": "08.041.04",
+      "pada": "c",
+      "form": "mā́tā",
+      "lemma": "mā́tar-",
+      "id": "mA_6755",
+      "source_sense": "Abmesser",
+      "reason": "masculine measurer, distinct from mother"
+    },
+    {
+      "row": 126250,
+      "verse": "09.067.22",
+      "pada": "c",
+      "form": "potā́",
+      "lemma": "potár-",
+      "id": "potf_5819",
+      "source_sense": "der reinigen kann",
+      "reason": "the one able to purify, distinct from the named priest"
+    }
+  ],
+  "case_controls": [
+    {
+      "verse": "8.26.21b",
+      "rows": [
+        106356,
+        106357
+      ],
+      "head": "Vāyu addressed as son-in-law",
+      "relation": "genitive tváṣṭuḥ depends on the kinship word in the vocative"
+    },
+    {
+      "verse": "8.26.22a",
+      "rows": [
+        106362,
+        106363
+      ],
+      "head": "Vāyu as the one petitioned",
+      "relation": "the same genitive depends on the accusative son-in-law"
+    },
+    {
+      "verse": "10.60.6a",
+      "rows": [
+        145426,
+        145427
+      ],
+      "head": "nádbhyaḥ",
+      "relation": "Annotated dative plural with Agastya in the genitive. Sāyaṇa construes the beneficiaries as kin and others who gladden him. That gloss is not an assertion that this word is regularly built from the classical naptṛ stem."
+    }
+  ],
+  "class_bounds": "The printed jāmātṛ tṛc decision comes from PG193. Its occurrence with initial accent in a Vedic entry is independent evidence for the actual words. The source and the grammatical tradition each retain their own analysis."
+}
