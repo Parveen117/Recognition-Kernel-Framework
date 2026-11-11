@@ -1,4 +1,4 @@
-# Pāṇini grammar · current written coverage at PG181
+# Pāṇini grammar · current written coverage at PG182
 
 Monty · 11 November 2026
 
@@ -7,6 +7,7 @@ Monty · 11 November 2026
 | Aṣṭādhyāyī sūtras | 3,983/3,983 IDs reached in the written PG52 register. | Apply those readings to additional lexical and syntactic domains, including scope, rule competition and visibility. [Rule coverage](feminine_host_histories/README.md) |
 | Finite verb positions | **40,379** written. The latest 15 nominal actions have **2,700/2,700** positions in their declared ten-lakāra grid. | Extend to other root senses, prefix and pada combinations. [Finite grid](satya_named_aorists/README.md) |
 | Five-pāda Uṇādi | **748/748** texts collated. **748/748** addresses have at least one written, source-conditioned selection. | All five pādas have a source-conditioned selection at every address. Expand the still unreviewed lexical members of lists, trace accent and inflection, and continue the two kit-purpose questions after the printed and Vedic comparison. [Printed commentary and two lexical senses](unadi_kit_source_questions/README.md). [All 748 lexical addresses](unadi_fifth_pada_readings/ALL_LEXICAL_READINGS.tsv) · [Fifth pāda and evidence](unadi_fifth_pada_readings/README.md) · [Whole text](unadi_concordance/README.md) |
+| Uṇādi entries with multiple affix labels | All 34 entries and 103 listed fields reviewed. 89 fields have a lexical or operational example. | Study the 14 inherited or individually unresolved fields at 2.94, 2.95, 4.98 and 4.105. [Affix owners](unadi_multiple_affix_ownership/README.md) |
 | Disputed middle perfects | 54 complete spellings agree at 18 of 45 requests. No whole-word overlap at the other 27. | A traditional derivation must determine the inner iṭ entitlement when the ending is borne by the auxiliary. The dispute remains open at all 45. [Source comparison](desiderative_perfect_word_intersection/README.md) |
 | Wider Sanskrit derivation | The existing packets treat selected nominal, kṛt, taddhita, compound, sentence and accent questions. | Extend to the outstanding members, semantic conditions, syntactic readings and Vedic traditions. [Detailed grammar-wide register](unadi_first_pada_readings/REMAINING.md) |
 | Executable verification | These stages provide written source decisions and derivations. | Claude’s Python 3.12 grammar tests, generators and certificate replay are pending. |
