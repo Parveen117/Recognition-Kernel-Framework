@@ -1,0 +1,138 @@
+{
+  "lexical_rule": "Uṇādi 2.95 (Aufrecht 2.96)",
+  "lexical_records": [
+    {
+      "stem": "naptṛ",
+      "observed_gender": "m",
+      "selected_sense": "grandson, including daughter’s son",
+      "publisher_id": "@naptR1",
+      "publisher_sense": "नप्ता (पौत्रः, दौहित्रः)",
+      "source_suffix": "tṛc",
+      "exceptional_long_grade": true,
+      "forms_sha256": "6a8ef08a4951853188d86a5cfaf19413d3c3ab0683feedde7524744bdc14b109"
+    },
+    {
+      "stem": "neṣṭṛ",
+      "observed_gender": "m",
+      "selected_sense": "priest, neṣṭṛ",
+      "publisher_id": "@neSTR1",
+      "publisher_sense": "नेता",
+      "source_suffix": "tṛn",
+      "exceptional_long_grade": true,
+      "forms_sha256": "3ff0107737ad06e1aec8fb26ff0e268319b506667abfcd1fc9daad805dfda2bb"
+    },
+    {
+      "stem": "tvaṣṭṛ",
+      "observed_gender": "m",
+      "selected_sense": "Tvaṣṭṛ",
+      "publisher_id": "@tvaSTR1",
+      "publisher_sense": "तक्षः, देवशिल्पिः",
+      "source_suffix": "tṛc on tviṣ",
+      "exceptional_long_grade": true,
+      "forms_sha256": "d29f336de22b005b6a7b1e194ec7f37f46fe2c2c0df0203823f8198961e27905"
+    },
+    {
+      "stem": "hotṛ",
+      "observed_gender": "m",
+      "selected_sense": "officiating priest",
+      "publisher_id": "@hotR1",
+      "publisher_sense": "ऋग्वेदकर्मकर्ता",
+      "source_suffix": "tṛn for the named nipātana in Śabdakalpadruma; that entry also gives hu + tṛc separately",
+      "exceptional_long_grade": true,
+      "forms_sha256": "12e708d1e991cc8d00f35fe01323a91a8e8c3668b491af1d7fd2604ef60b53dc"
+    },
+    {
+      "stem": "potṛ",
+      "observed_gender": "m",
+      "selected_sense": "priest, potṛ",
+      "publisher_id": "@potR1",
+      "publisher_sense": "पोता (पौत्रः)",
+      "source_suffix": "tṛn",
+      "exceptional_long_grade": true,
+      "forms_sha256": "9ea3c7795191aa5405c9e055f1c98c364d56c4fbe1353c8158860373225fb646"
+    },
+    {
+      "stem": "bhrātṛ",
+      "observed_gender": "m",
+      "selected_sense": "brother",
+      "publisher_id": "@bhrAtR1",
+      "publisher_sense": "भ्राता, बन्धुः, सहोदरः",
+      "source_suffix": "Śabdakalpadruma tṛn; Vācaspatyam tṛc with pṛṣodarādi treatment",
+      "exceptional_long_grade": false,
+      "forms_sha256": "a265229f06da53b1f3d6adb54828a84a65006f5f9c73b57a0cd5caf4c87dc9f1"
+    },
+    {
+      "stem": "jāmātṛ",
+      "observed_gender": "m",
+      "selected_sense": "son-in-law",
+      "publisher_id": "@jAmAtR1",
+      "publisher_sense": "पुत्र्याः पतिः",
+      "source_suffix": "lexical nipātana, individual choice open in the selected text",
+      "exceptional_long_grade": false,
+      "forms_sha256": "817a92ad29ed6e9f4fa55e320bf199d862eb5a45e9b686ddd7caf19914926c77"
+    },
+    {
+      "stem": "mātṛ",
+      "observed_gender": "f",
+      "selected_sense": "mother",
+      "publisher_id": "@mAtR1",
+      "publisher_sense": "माता, जननी, गौः",
+      "source_suffix": "tṛc on the cited Uṇādi path",
+      "exceptional_long_grade": false,
+      "forms_sha256": "0e96b8ede422e4ee3a40609e16ef8d8e45da139effad145891b343eb8e9e5d00"
+    },
+    {
+      "stem": "pitṛ",
+      "observed_gender": "m",
+      "selected_sense": "father",
+      "publisher_id": "@pitR1",
+      "publisher_sense": "पिता",
+      "source_suffix": "tṛc",
+      "exceptional_long_grade": false,
+      "forms_sha256": "c61f83cf18860b0a0034a022ade289efb2c44b7dc0aceafcb11abe87a2bfe0e7"
+    },
+    {
+      "stem": "duhitṛ",
+      "observed_gender": "f",
+      "selected_sense": "daughter",
+      "publisher_id": "@duhitR1",
+      "publisher_sense": "पुत्री, कन्या",
+      "source_suffix": "tṛc",
+      "exceptional_long_grade": false,
+      "forms_sha256": "a556fc296fbef727101ea290d9b1db7be30da47a33b3f2a481570fc8a46ec18e"
+    }
+  ],
+  "nominal_positions": 240,
+  "readings": 240,
+  "rules": {
+    "6.4.11": "Lengthening in the designated sarvanāmasthāna environment, except the address condition. For Uṇādi formations the named list governs. When addressed, the singular in this table uses -aḥ, as in he kartaḥ. The cited dual and plural with he retain the ordinary dual/plural readings.",
+    "1.1.43": "The five initial sup endings receive the sarvanāmasthāna designation for the selected non-neuter stems. The sg, du and pl columns have independent source locators.",
+    "6.1.111": "Ablative and genitive singular -uḥ for these ṛ-final stems.",
+    "nearby_cases": "Long ṝ in the accusative plural and genitive plural has its own environment. The inherited lexical long a in bhrā-, jāmā-, mā- is distinct from the diagnostic vowel directly before r in the strong stem."
+  },
+  "model": {
+    "pre_final_ṛ": "retain the whole initial factor, including retroflex stops in neṣṭṛ and tvaṣṭṛ",
+    "named_long_strong": "ār",
+    "short_strong": "ar",
+    "lexical_count_per_schedule": 5,
+    "masculine_objects_plural": "-ṝn",
+    "feminine_objects_plural": "-ṝḥ",
+    "table": "NOMINAL_FORMS.tsv"
+  },
+  "sense_controls": {
+    "potṛ": {
+      "primary_gloss": "होता । पोता ऋत्विग्भेदः",
+      "archive_table_gloss": "पोता (पौत्रः)",
+      "decision": "Use the archive only for the inflection. Uṇādi and the lexicon supply the priest sense. The archive gloss calls this a grandson."
+    },
+    "jāmātṛ": {
+      "licensed_readouts": 24,
+      "individual_affix_attribution": "still unassigned in the PG183 witness set",
+      "nominative_dual": "jāmātarau"
+    }
+  },
+  "carrier": {
+    "input": "edition, lexical history, sense, gender, named-list membership, case or address and number",
+    "specialization": "Retaining or forgetting the separate n/c marker attribution commutes with reading the selected nominal grid: the inflection rule indexes the lexical list and the requested endings. This assertion is confined to this unaccented inflection, and the morphology retains the source of each marker."
+  }
+}
