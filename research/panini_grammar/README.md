@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG238 — Futures and benedictives after pra or pari plus ni.** [Packet](inner_ni_futures_and_blessings/README.md). 324 positions, 324 readings and 324 paths. Cumulative **45,800**.
+
 **PG237 — Two ordered preverbs and five directly named present systems.** [Packet](inner_ni_five_listed_present_roots/README.md). 324 positions, 324 readings and 324 paths. Cumulative **45,476**.
 
 **PG236 — Seven ten-pāda extension examples and their stated roles.** [Packet](seven_ten_pada_extension_words/README.md). Zero new finite positions. Cumulative **45,152**.
