@@ -1,0 +1,548 @@
+{
+  "written_positions": 72,
+  "cell_readings": 73,
+  "distinct_unaccented_forms": 38,
+  "source_word": "mad (मद्), the fish word in the selected five-pāda tradition",
+  "derivations": [
+    {
+      "locus": "Uṇādi 4.2",
+      "root": "mad",
+      "suffix": "syan",
+      "marker": "final n, lost on the surface",
+      "masculine_accent": "initial, mátsya",
+      "evidence": "ordered position 7; Siddhāntakaumudī also names mad and syan together; compare Pāṇini 6.1.197"
+    },
+    {
+      "locus": "Uṇādi 4.104",
+      "root": "mad",
+      "suffix": "sya",
+      "marker": "no final n in this label",
+      "masculine_accent": "final, matsyá",
+      "evidence": "ordered position 6; Tattvabodhinī and Perusūri contrast this with the initial-accented derivation"
+    }
+  ],
+  "shared_consonant_operation": "Root-final d is devoiced to t before suffix-initial s, as specified for 4.104 by the Tattvabodhinī. Both histories then show ts in the unaccented word.",
+  "feminine_branches": [
+    {
+      "input": "matsya, female fish",
+      "suffix": "ṅīṣ",
+      "conditions": [
+        "gaurādi, 4.1.41",
+        "the restricted y deletion of 6.4.149 with the ī suffix"
+      ],
+      "stem": "matsī",
+      "paradigm_model": "nadī"
+    },
+    {
+      "input": "matsya, female fish",
+      "suffix": "ṭāp",
+      "conditions": [
+        "a stem, 4.1.4",
+        "the source admits a branch without ṅīṣ; y is retained"
+      ],
+      "stem": "matsyā",
+      "paradigm_model": "latā"
+    }
+  ],
+  "locality_controls": [
+    {
+      "form": "matsyacarī",
+      "source": "Kāśikā 6.4.149",
+      "scope": "The counterexample under upadhā preserves the earlier y."
+    },
+    {
+      "form": "mātsyam",
+      "source": "Kāśikā 6.4.149",
+      "scope": "The expression for its flesh retains y under the restriction on matsya; this relational adjective has its own suffix history."
+    }
+  ],
+  "table": "NOMINAL_FORMS.tsv",
+  "archive_checks": {
+    "exact_masculine": "@matsya1",
+    "masculine_model": "@bAla1",
+    "female_i_model": "@nadI1",
+    "female_a_model": "@latA1",
+    "positions_checked_per_profile": 24
+  },
+  "indexed_surface_to_stem_case_number": {
+    "matsi": [
+      [
+        "matsī",
+        "voc",
+        "sg"
+      ]
+    ],
+    "matsya": [
+      [
+        "matsya",
+        "voc",
+        "sg"
+      ]
+    ],
+    "matsyai": [
+      [
+        "matsī",
+        "dat",
+        "sg"
+      ]
+    ],
+    "matsyaiḥ": [
+      [
+        "matsya",
+        "ins",
+        "pl"
+      ]
+    ],
+    "matsyam": [
+      [
+        "matsya",
+        "acc",
+        "sg"
+      ]
+    ],
+    "matsyasya": [
+      [
+        "matsya",
+        "gen",
+        "sg"
+      ]
+    ],
+    "matsyau": [
+      [
+        "matsya",
+        "nom",
+        "du"
+      ],
+      [
+        "matsya",
+        "acc",
+        "du"
+      ],
+      [
+        "matsya",
+        "voc",
+        "du"
+      ],
+      [
+        "matsī",
+        "nom",
+        "du"
+      ],
+      [
+        "matsī",
+        "acc",
+        "du"
+      ],
+      [
+        "matsī",
+        "voc",
+        "du"
+      ]
+    ],
+    "matsyayoḥ": [
+      [
+        "matsya",
+        "gen",
+        "du"
+      ],
+      [
+        "matsya",
+        "loc",
+        "du"
+      ],
+      [
+        "matsyā",
+        "gen",
+        "du"
+      ],
+      [
+        "matsyā",
+        "loc",
+        "du"
+      ]
+    ],
+    "matsyayā": [
+      [
+        "matsyā",
+        "ins",
+        "sg"
+      ]
+    ],
+    "matsyaḥ": [
+      [
+        "matsya",
+        "nom",
+        "sg"
+      ],
+      [
+        "matsī",
+        "nom",
+        "pl"
+      ],
+      [
+        "matsī",
+        "voc",
+        "pl"
+      ]
+    ],
+    "matsye": [
+      [
+        "matsya",
+        "loc",
+        "sg"
+      ],
+      [
+        "matsyā",
+        "nom",
+        "du"
+      ],
+      [
+        "matsyā",
+        "acc",
+        "du"
+      ],
+      [
+        "matsyā",
+        "voc",
+        "sg"
+      ],
+      [
+        "matsyā",
+        "voc",
+        "du"
+      ]
+    ],
+    "matsyebhyaḥ": [
+      [
+        "matsya",
+        "dat",
+        "pl"
+      ],
+      [
+        "matsya",
+        "abl",
+        "pl"
+      ]
+    ],
+    "matsyena": [
+      [
+        "matsya",
+        "ins",
+        "sg"
+      ]
+    ],
+    "matsyeṣu": [
+      [
+        "matsya",
+        "loc",
+        "pl"
+      ]
+    ],
+    "matsyoḥ": [
+      [
+        "matsī",
+        "gen",
+        "du"
+      ],
+      [
+        "matsī",
+        "loc",
+        "du"
+      ]
+    ],
+    "matsyā": [
+      [
+        "matsī",
+        "ins",
+        "sg"
+      ],
+      [
+        "matsyā",
+        "nom",
+        "sg"
+      ]
+    ],
+    "matsyābhiḥ": [
+      [
+        "matsyā",
+        "ins",
+        "pl"
+      ]
+    ],
+    "matsyābhyaḥ": [
+      [
+        "matsyā",
+        "dat",
+        "pl"
+      ],
+      [
+        "matsyā",
+        "abl",
+        "pl"
+      ]
+    ],
+    "matsyābhyām": [
+      [
+        "matsya",
+        "ins",
+        "du"
+      ],
+      [
+        "matsya",
+        "dat",
+        "du"
+      ],
+      [
+        "matsya",
+        "abl",
+        "du"
+      ],
+      [
+        "matsyā",
+        "ins",
+        "du"
+      ],
+      [
+        "matsyā",
+        "dat",
+        "du"
+      ],
+      [
+        "matsyā",
+        "abl",
+        "du"
+      ]
+    ],
+    "matsyād": [
+      [
+        "matsya",
+        "abl",
+        "sg"
+      ]
+    ],
+    "matsyām": [
+      [
+        "matsī",
+        "loc",
+        "sg"
+      ],
+      [
+        "matsyā",
+        "acc",
+        "sg"
+      ]
+    ],
+    "matsyān": [
+      [
+        "matsya",
+        "acc",
+        "pl"
+      ]
+    ],
+    "matsyānām": [
+      [
+        "matsya",
+        "gen",
+        "pl"
+      ],
+      [
+        "matsyā",
+        "gen",
+        "pl"
+      ]
+    ],
+    "matsyāsu": [
+      [
+        "matsyā",
+        "loc",
+        "pl"
+      ]
+    ],
+    "matsyāt": [
+      [
+        "matsya",
+        "abl",
+        "sg"
+      ]
+    ],
+    "matsyāya": [
+      [
+        "matsya",
+        "dat",
+        "sg"
+      ]
+    ],
+    "matsyāyai": [
+      [
+        "matsyā",
+        "dat",
+        "sg"
+      ]
+    ],
+    "matsyāyām": [
+      [
+        "matsyā",
+        "loc",
+        "sg"
+      ]
+    ],
+    "matsyāyāḥ": [
+      [
+        "matsyā",
+        "abl",
+        "sg"
+      ],
+      [
+        "matsyā",
+        "gen",
+        "sg"
+      ]
+    ],
+    "matsyāḥ": [
+      [
+        "matsya",
+        "nom",
+        "pl"
+      ],
+      [
+        "matsya",
+        "voc",
+        "pl"
+      ],
+      [
+        "matsī",
+        "abl",
+        "sg"
+      ],
+      [
+        "matsī",
+        "gen",
+        "sg"
+      ],
+      [
+        "matsyā",
+        "nom",
+        "pl"
+      ],
+      [
+        "matsyā",
+        "acc",
+        "pl"
+      ],
+      [
+        "matsyā",
+        "voc",
+        "pl"
+      ]
+    ],
+    "matsī": [
+      [
+        "matsī",
+        "nom",
+        "sg"
+      ]
+    ],
+    "matsībhiḥ": [
+      [
+        "matsī",
+        "ins",
+        "pl"
+      ]
+    ],
+    "matsībhyaḥ": [
+      [
+        "matsī",
+        "dat",
+        "pl"
+      ],
+      [
+        "matsī",
+        "abl",
+        "pl"
+      ]
+    ],
+    "matsībhyām": [
+      [
+        "matsī",
+        "ins",
+        "du"
+      ],
+      [
+        "matsī",
+        "dat",
+        "du"
+      ],
+      [
+        "matsī",
+        "abl",
+        "du"
+      ]
+    ],
+    "matsīm": [
+      [
+        "matsī",
+        "acc",
+        "sg"
+      ]
+    ],
+    "matsīnām": [
+      [
+        "matsī",
+        "gen",
+        "pl"
+      ]
+    ],
+    "matsīḥ": [
+      [
+        "matsī",
+        "acc",
+        "pl"
+      ]
+    ],
+    "matsīṣu": [
+      [
+        "matsī",
+        "loc",
+        "pl"
+      ]
+    ]
+  },
+  "vedic_workbook": [
+    {
+      "rownum": 86657,
+      "verse": "07.018.06",
+      "pada": "b",
+      "form": "mátsyāsaḥ",
+      "cas": "Nom.",
+      "gender": "m.",
+      "num": "Pl.",
+      "lemma": "mátsya-",
+      "grass": "matsya_6526",
+      "sense_in_verse": "Name of the Matsya people; the dictionary annotation also identifies wordplay on fish.",
+      "comparison": "nominal plural with Vedic -āsaḥ; counted outside the fish-sense table"
+    },
+    {
+      "rownum": 147672,
+      "verse": "10.068.08",
+      "pada": "b",
+      "form": "mátsyam",
+      "cas": "Akk.",
+      "gender": "m.",
+      "num": "Sg.",
+      "lemma": "mátsya-",
+      "grass": "matsya_6526",
+      "sense_in_verse": "Fish in a simile with ná and a locative phrase for scant water.",
+      "comparison": "unaccented matsyam matches the masculine accusative singular in the table"
+    }
+  ],
+  "bounds": [
+    "Both masculine accent histories apply to the unaccented fish word. The written case table is unaccented. It gives no inferred accent paradigm for a feminine.",
+    "Both feminine fish stems are named in the 4.104 witnesses. The Vedic ethnic name is recorded only for the particular verse.",
+    "A source for mad + sya at 4.104 cannot allocate a new root to sya at extension rule 4.105. Four primary extension fields remain open."
+  ],
+  "projection": {
+    "domain": "source, Uṇādi rule, root, suffix and marker, lexical sense, gender branch, case and number",
+    "output": "unaccented inflected word",
+    "agreement": "The forward table gives the same 72 profile/case/number cells under the stated model comparisons. Each projected spelling retains all corresponding histories in the reverse index."
+  }
+}

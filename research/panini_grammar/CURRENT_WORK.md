@@ -1,8 +1,8 @@
-# Pāṇini grammar · current written coverage at PG200
+# Pāṇini grammar · current written coverage at PG201
 
 Monty · 11 November 2026
 
-PG191–PG196 add source-backed affix decisions, clause readings and Ṛgvedic attestations. The cumulative written finite total is **41,333**. The ten ṛ-stems now have 10/10 individually sourced suffixes. Their Ṛgvedic comparison admits 1,033 tokens, covering 93 of the 240 previously written nominal positions.
+PG197–PG201 bring direct assignments to **99 of 103** multiple-affix fields and identify the suffix of the thief at 2.94. Seven ploughing passages are aligned across six Vedic traditions. The fish and its two feminine stems have **72 nominal positions**. The cumulative written finite total is **41,333**.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
@@ -15,6 +15,7 @@ PG191–PG196 add source-backed affix decisions, clause readings and Ṛgvedic a
 | Ṛgvedic inflection of the ten ṛ-stems | 1,038 source rows reviewed. **1,033** satisfy the lemma and gender conditions and populate **93/240** existing positions. | 147 cells have no token in the selection. The 132 nonmatching word forms have a separate account for Vedic dual endings, *nápat-* and one tagged ablative dual. [Complete concordance](rigvedic_ten_r_stem_concordance/README.md) |
 | Present desiderative participles | **720 nominal positions and 893 readings** across the five PG118 roots. All seven available archived stem fields and their gendered nominative singulars agree. | Other roots, kṛt types and sentence contexts. [Word tables and source comparison](desiderative_present_participles/README.md) |
 | Disputed middle perfects | All **45/45** requests have a primary on the Bhāṣya/Kāśikā same-word reading, with 135 auxiliary choices and 225 inherited spellings. Of these, 54 match the other table at 18 requests. [Decision and all choices](desiderative_perfect_primary_word_policy/README.md) | A full traditional example of the disputed compound perfect or an explicit alternative rule on early middle entitlement remains to be found. [Traditional controls and search](agent_noun_and_outer_middle/README.md) |
+| Fish, feminine stems and inflection | **72 nominal positions, 73 readings** for *matsya, matsī, matsyā*. The fish has two independently specified masculine accent histories. | Wider lexical senses, feminine accent evidence and the separate 4.105 extension. [Three case tables and readings](matsya_feminine_and_case/README.md) |
 | Agent nouns and object case | Three construction histories for *kartā* yield **27** two-word readings and **18** distinct unaccented pairs. | Nine accusative pairs admit both habitual agent and finite future readings. [Three-way comparison](agent_noun_object_government/README.md) |
 | Ṛgvedic agent nouns in context | **29 head tokens** reviewed across five accent-labelled entries. All 15 occurrences of the slayer have a case-identified dependent, as do the six preaccenting *kartṛ* examples. | Four other *kartṛ* tokens have no dependent assigned. [Readings and exact verse locators](rigvedic_agent_accent_and_objects/README.md) |
 | Vedic ploughman and oxen | **Seven passages in six traditions** give five combinations of preverb, verb and animal case. Ten Paippalāda occurrences have an identified nominal role. | The reported singular animal reading and the selected plural reading retain their own editions. [Parallel clauses and TEI locators](vedic_plough_clause_readings/README.md) |
