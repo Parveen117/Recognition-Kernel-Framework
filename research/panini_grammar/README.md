@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG247 — The two mā teachings selected by the ordered preverbs.** [Packet](two_ma_roots_with_ordered_ni/README.md). 144 positions, 144 readings and 144 paths. Cumulative **46,214**.
+
 **PG246 — Ritual work and the tree in the accented Saṃhitās.** [Packet](sami_ritual_work_and_vedic_tree_accents/README.md). Zero new finite positions. Cumulative **46,070**.
 
 **PG245 — The tranquil agent and Arjuna’s śamī tree.** [Packet](samin_agent_and_sami_tree_in_virata/README.md). Zero new finite positions. Cumulative **46,070**.
