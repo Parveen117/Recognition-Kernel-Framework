@@ -1,4 +1,4 @@
-# Pāṇini grammar · current written coverage at PG191
+# Pāṇini grammar · current written coverage at PG192
 
 Monty · 11 November 2026
 
@@ -15,6 +15,7 @@ PG191 adds 27 written agent–object readings. PG183–PG190 previously added 95
 | Present desiderative participles | **720 nominal positions and 893 readings** across the five PG118 roots. All seven available archived stem fields and their gendered nominative singulars agree. | Other roots, kṛt types and sentence contexts. [Word tables and source comparison](desiderative_present_participles/README.md) |
 | Disputed middle perfects | All **45/45** requests have a primary on the Bhāṣya/Kāśikā same-word reading, with 135 auxiliary choices and 225 inherited spellings. Of these, 54 match the other table at 18 requests. [Decision and all choices](desiderative_perfect_primary_word_policy/README.md) | A full traditional example of the disputed compound perfect or an explicit alternative rule on early middle entitlement remains to be found. [Traditional controls and search](agent_noun_and_outer_middle/README.md) |
 | Agent nouns and object case | Three construction histories for *kartā* yield **27** two-word readings and **18** distinct unaccented pairs. | Nine accusative pairs admit both habitual agent and finite future readings. [Three-way comparison](agent_noun_object_government/README.md) |
+| Ṛgvedic agent nouns in context | **29 head tokens** reviewed across five accent-labelled entries. All 15 occurrences of the slayer have a case-identified dependent, as do the six preaccenting *kartṛ* examples. | Four other *kartṛ* tokens have no dependent assigned. [Readings and exact verse locators](rigvedic_agent_accent_and_objects/README.md) |
 | Wider Sanskrit derivation | The existing packets treat selected nominal, kṛt, taddhita, compound, sentence and accent questions. | Extend to the outstanding members, semantic conditions, syntactic readings and Vedic traditions. [Detailed grammar-wide register](unadi_first_pada_readings/REMAINING.md) |
 | Executable verification | These stages provide written source decisions and derivations. | Claude’s Python 3.12 grammar tests, generators and certificate replay are pending. |
 

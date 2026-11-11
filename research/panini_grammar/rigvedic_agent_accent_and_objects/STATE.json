@@ -1,0 +1,80 @@
+{
+  "schema": "rkf.panini.pg192.state.v1",
+  "author": "Monty",
+  "date": "2026-11-11",
+  "baseline": {
+    "path": "research/panini_grammar/agent_noun_object_government/STATE.json",
+    "commit": "97999e2fbc3720c326c1345282f8889b741f081a",
+    "git_blob_sha": "1f2bb84f98dc6debd6ed125ac45e50f677623be4",
+    "sha256": "8e3ff87d29cfb83be63e469329896003f7bd4bcd2639472406e6962336f591c8",
+    "bytes": 3112
+  },
+  "finite_positions": 41333,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_written_table_readings": 0,
+  "retained_path_count": 0,
+  "position_accounting": {
+    "forms": [],
+    "panels": [],
+    "complete_nine_slot_paradigms": 0
+  },
+  "contextual_profiles": {},
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "Identify the specific lexical thief on the Uṇādi path by traditional evidence.",
+    "Compare the ten earlier Uṇādi ṛ-stem paradigms with Vedic inflection and source senses.",
+    "Broader lexical and sentence scope and deferred executable verification."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Matched the complete set of 29 annotated head rows for these five accents, checked dependent case and pāda, and recorded secondary attachments, head case and the four unassigned complements."
+  },
+  "reviewed_corpus_head_tokens": 29,
+  "nonempty_dependent_selections": 25,
+  "lexical_han_occurrences": 15,
+  "lexical_kr_occurrences": 13,
+  "lexical_bhid_occurrences": 1
+}

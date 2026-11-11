@@ -1,0 +1,899 @@
+{
+  "source": {
+    "title": "The morphologically glossed Rigveda – The Zurich annotation corpus revised and extended",
+    "authors": "Antje Casaretto, Pascal Coenen, Anna Fischer, Jakob Halfmann, Daniel Kölligan, Natalie Korobzov, Uta Reinöhl",
+    "version": "v3",
+    "doi": "10.5281/zenodo.21527084",
+    "url": "https://doi.org/10.5281/zenodo.21527084",
+    "file": "vedaweb_zurich.xlsx",
+    "sheet": "vedaweb_zurich",
+    "sha256": "5b85de05564b83e98f9a48838bdf8a841e2228e37cd719852a71e8ad6f0f7513",
+    "md5": "cafa0415fde0a8a9232069a7de234e00",
+    "bytes": 10369921,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "text": "Lubotsky; morphological annotations from the Zürich and VedaWeb teams. Selected fields and new comparisons or readings are identified separately."
+  },
+  "source_query": "Exact Zurich lemma field for the five labels listed in the summary, across all ten books. Preserve each physical worksheet row, even when a single verse contains two eligible heads. FORM is the token field, and may differ from the sandhied Saṃhitā line.",
+  "heads": [
+    {
+      "head": {
+        "rownum": 8498,
+        "verse": "01.055.08",
+        "pada": "c",
+        "ptok": "4.0",
+        "form": "kartŕ̥bhiḥ",
+        "lemma": "kartár-",
+        "grass": "kartf_2462",
+        "cas": "Instr.",
+        "num": "Pl."
+      },
+      "dependent": null,
+      "attachment_status": "no_dependent_assigned",
+      "interpretation": "instrumental agent expression in a simile; no complement assigned"
+    },
+    {
+      "head": {
+        "rownum": 15239,
+        "verse": "01.100.06",
+        "pada": "a",
+        "ptok": "4.0",
+        "form": "kartā́",
+        "lemma": "kartár-",
+        "grass": "kartf_2462",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 15238,
+        "verse": "01.100.06",
+        "pada": "a",
+        "ptok": "3.0",
+        "form": "samádanasya",
+        "lemma": "samádana-",
+        "grass": "samadana_9364",
+        "cas": "Gen.",
+        "num": "Sg."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "conflict or battle"
+    },
+    {
+      "head": {
+        "rownum": 22087,
+        "verse": "01.129.11",
+        "pada": "d",
+        "ptok": "1.0",
+        "form": "hantā́",
+        "lemma": "hantár-",
+        "grass": "hantf_10545",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 22089,
+        "verse": "01.129.11",
+        "pada": "d",
+        "ptok": "3.0",
+        "form": "rakṣásaḥ",
+        "lemma": "rakṣás-",
+        "grass": "rakzas_7210",
+        "cas": "Gen.",
+        "num": "Sg."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "affected being"
+    },
+    {
+      "head": {
+        "rownum": 23770,
+        "verse": "01.139.07",
+        "pada": "f",
+        "ptok": "5.0",
+        "form": "kartári +",
+        "lemma": "kartár-",
+        "grass": "kartf_2462",
+        "cas": "Lok.",
+        "num": "Sg."
+      },
+      "dependent": null,
+      "attachment_status": "no_dependent_assigned",
+      "interpretation": "locative with an editorial + in the lexical form; no object assigned"
+    },
+    {
+      "head": {
+        "rownum": 34548,
+        "verse": "02.012.10",
+        "pada": "d",
+        "ptok": "3.0",
+        "form": "hantā́",
+        "lemma": "hantár-",
+        "grass": "hantf_10545",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 34547,
+        "verse": "02.012.10",
+        "pada": "d",
+        "ptok": "2.0",
+        "form": "dásyoḥ",
+        "lemma": "dásyu-",
+        "grass": "dasyu_4157",
+        "cas": "Gen.",
+        "num": "Sg."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "opponent"
+    },
+    {
+      "head": {
+        "rownum": 36728,
+        "verse": "02.023.17",
+        "pada": "d",
+        "ptok": "2.0",
+        "form": "hantā́",
+        "lemma": "hantár-",
+        "grass": "hantf_10545",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 36727,
+        "verse": "02.023.17",
+        "pada": "d",
+        "ptok": "1.0",
+        "form": "druháḥ",
+        "lemma": "drúh-",
+        "grass": "druh_4571",
+        "cas": "Gen.",
+        "num": "Sg."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "harm or hostile power"
+    },
+    {
+      "head": {
+        "rownum": 44776,
+        "verse": "03.031.02",
+        "pada": "d",
+        "ptok": "2.0",
+        "form": "kartā́",
+        "lemma": "kartár-",
+        "grass": "kartf_2462",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 44777,
+        "verse": "03.031.02",
+        "pada": "d",
+        "ptok": "3.0",
+        "form": "sukŕ̥toḥ",
+        "lemma": "sukŕ̥t-",
+        "grass": "sukft_9708",
+        "cas": "Gen.",
+        "num": "Du."
+      },
+      "attachment_status": "genitive_present_referent_open",
+      "interpretation": "genitive dependent sukṛtoḥ; exact referent and semantic interpretation left open"
+    },
+    {
+      "head": {
+        "rownum": 53477,
+        "verse": "04.017.04",
+        "pada": "b",
+        "ptok": "2.0",
+        "form": "kartā́",
+        "lemma": "kartár-",
+        "grass": "kartf_2462",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 53476,
+        "verse": "04.017.04",
+        "pada": "b",
+        "ptok": "1.0",
+        "form": "índrasya",
+        "lemma": "índra-",
+        "grass": "indra_1708",
+        "cas": "Gen.",
+        "num": "Sg."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "Indra"
+    },
+    {
+      "head": {
+        "rownum": 53552,
+        "verse": "04.017.08",
+        "pada": "c",
+        "ptok": "1.0",
+        "form": "hántā",
+        "lemma": "hántar-",
+        "grass": "han_10541",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 53554,
+        "verse": "04.017.08",
+        "pada": "c",
+        "ptok": "3.0",
+        "form": "vr̥trám",
+        "lemma": "vr̥trá-",
+        "grass": "vftra_8365",
+        "cas": "Akk.",
+        "num": "Sg."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "Vṛtra"
+    },
+    {
+      "head": {
+        "rownum": 53711,
+        "verse": "04.017.17",
+        "pada": "d",
+        "ptok": "1.0",
+        "form": "kártā",
+        "lemma": "kártar-",
+        "grass": "kf_2645",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 53713,
+        "verse": "04.017.17",
+        "pada": "d",
+        "ptok": "3.0",
+        "form": "ulokám",
+        "lemma": "uloká-",
+        "grass": "loka_7521",
+        "cas": "Akk.",
+        "num": "Sg."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "space"
+    },
+    {
+      "head": {
+        "rownum": 54622,
+        "verse": "04.021.10",
+        "pada": "b",
+        "ptok": "1.0",
+        "form": "hántā",
+        "lemma": "hántar-",
+        "grass": "han_10541",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 54623,
+        "verse": "04.021.10",
+        "pada": "b",
+        "ptok": "2.0",
+        "form": "vr̥trám",
+        "lemma": "vr̥trá-",
+        "grass": "vftra_8365",
+        "cas": "Akk.",
+        "num": "Sg."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "Vṛtra"
+    },
+    {
+      "head": {
+        "rownum": 74979,
+        "verse": "06.019.01",
+        "pada": "d",
+        "ptok": "4.0",
+        "form": "kartŕ̥bhiḥ",
+        "lemma": "kartár-",
+        "grass": "kartf_2462",
+        "cas": "Instr.",
+        "num": "Pl."
+      },
+      "dependent": null,
+      "attachment_status": "no_dependent_assigned",
+      "interpretation": "instrumental maker with a participial predicate; no object assigned"
+    },
+    {
+      "head": {
+        "rownum": 75911,
+        "verse": "06.023.03",
+        "pada": "c",
+        "ptok": "1.0",
+        "form": "kártā",
+        "lemma": "kártar-",
+        "grass": "kf_2645",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 75914,
+        "verse": "06.023.03",
+        "pada": "c",
+        "ptok": "4.0",
+        "form": "ulokám",
+        "lemma": "uloká-",
+        "grass": "loka_7521",
+        "cas": "Akk.",
+        "num": "Sg."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "space"
+    },
+    {
+      "head": {
+        "rownum": 75930,
+        "verse": "06.023.04",
+        "pada": "c",
+        "ptok": "1.0",
+        "form": "kártā",
+        "lemma": "kártar-",
+        "grass": "kf_2645",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 75931,
+        "verse": "06.023.04",
+        "pada": "c",
+        "ptok": "2.0",
+        "form": "vīrám",
+        "lemma": "vīrá-",
+        "grass": "vIra_8312",
+        "cas": "Akk.",
+        "num": "Sg."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "hero"
+    },
+    {
+      "head": {
+        "rownum": 78452,
+        "verse": "06.044.15",
+        "pada": "b",
+        "ptok": "1.0",
+        "form": "hántā",
+        "lemma": "hántar-",
+        "grass": "han_10541",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 78453,
+        "verse": "06.044.15",
+        "pada": "b",
+        "ptok": "2.0",
+        "form": "vr̥trám",
+        "lemma": "vr̥trá-",
+        "grass": "vftra_8365",
+        "cas": "Akk.",
+        "num": "Sg."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "Vṛtra"
+    },
+    {
+      "head": {
+        "rownum": 87231,
+        "verse": "07.020.02",
+        "pada": "a",
+        "ptok": "1.0",
+        "form": "hántā",
+        "lemma": "hántar-",
+        "grass": "han_10541",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 87232,
+        "verse": "07.020.02",
+        "pada": "a",
+        "ptok": "2.0",
+        "form": "vr̥trám",
+        "lemma": "vr̥trá-",
+        "grass": "vftra_8365",
+        "cas": "Akk.",
+        "num": "Sg."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "Vṛtra"
+    },
+    {
+      "head": {
+        "rownum": 87241,
+        "verse": "07.020.02",
+        "pada": "c",
+        "ptok": "1.0",
+        "form": "kártā",
+        "lemma": "kártar-",
+        "grass": "kf_2645",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 87245,
+        "verse": "07.020.02",
+        "pada": "c",
+        "ptok": "5.0",
+        "form": "ulokám",
+        "lemma": "uloká-",
+        "grass": "loka_7521",
+        "cas": "Akk.",
+        "num": "Sg."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "space for Sudās"
+    },
+    {
+      "head": {
+        "rownum": 93043,
+        "verse": "07.062.01",
+        "pada": "d",
+        "ptok": "4.0",
+        "form": "kartŕ̥bhiḥ",
+        "lemma": "kartár-",
+        "grass": "kartf_2462",
+        "cas": "Instr.",
+        "num": "Pl."
+      },
+      "dependent": null,
+      "attachment_status": "no_dependent_assigned",
+      "interpretation": "instrumental maker with a participial predicate; no object assigned"
+    },
+    {
+      "head": {
+        "rownum": 99311,
+        "verse": "08.002.32",
+        "pada": "a",
+        "ptok": "1.0",
+        "form": "hántā",
+        "lemma": "hántar-",
+        "grass": "han_10541",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 99312,
+        "verse": "08.002.32",
+        "pada": "a",
+        "ptok": "2.0",
+        "form": "vr̥trám",
+        "lemma": "vr̥trá-",
+        "grass": "vftra_8365",
+        "cas": "Akk.",
+        "num": "Sg."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "Vṛtra"
+    },
+    {
+      "head": {
+        "rownum": 99357,
+        "verse": "08.002.36",
+        "pada": "b",
+        "ptok": "1.0",
+        "form": "hántā",
+        "lemma": "hántar-",
+        "grass": "han_10541",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 99358,
+        "verse": "08.002.36",
+        "pada": "b",
+        "ptok": "2.0",
+        "form": "vr̥trám",
+        "lemma": "vr̥trá-",
+        "grass": "vftra_8365",
+        "cas": "Akk.",
+        "num": "Sg."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "Vṛtra"
+    },
+    {
+      "head": {
+        "rownum": 103332,
+        "verse": "08.016.10",
+        "pada": "b",
+        "ptok": "1.0",
+        "form": "kártāram",
+        "lemma": "kártar-",
+        "grass": "kf_2645",
+        "cas": "Akk.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 103333,
+        "verse": "08.016.10",
+        "pada": "b",
+        "ptok": "2.0",
+        "form": "jyótiḥ",
+        "lemma": "jyótis-",
+        "grass": "jyotis_3598",
+        "cas": "Akk.",
+        "num": "Sg."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "light"
+    },
+    {
+      "head": {
+        "rownum": 103511,
+        "verse": "08.017.14",
+        "pada": "c",
+        "ptok": "2.0",
+        "form": "bhettā́",
+        "lemma": "bhettár-",
+        "grass": "Bettf_6449",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 103512,
+        "verse": "08.017.14",
+        "pada": "c",
+        "ptok": "3.0",
+        "form": "purā́m",
+        "lemma": "púr-",
+        "grass": "pur_5549",
+        "cas": "Gen.",
+        "num": "Pl."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "strongholds"
+    },
+    {
+      "head": {
+        "rownum": 119025,
+        "verse": "08.096.19",
+        "pada": "c",
+        "ptok": "6.0",
+        "form": "kártā",
+        "lemma": "kártar-",
+        "grass": "kf_2645",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 119024,
+        "verse": "08.096.19",
+        "pada": "c",
+        "ptok": "5.0",
+        "form": "ápāṃsi",
+        "lemma": "ápas-",
+        "grass": "apas_646",
+        "cas": "Akk.",
+        "num": "Pl."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "deeds"
+    },
+    {
+      "head": {
+        "rownum": 119388,
+        "verse": "08.098.06",
+        "pada": "c",
+        "ptok": "1.0",
+        "form": "hantā́",
+        "lemma": "hantár-",
+        "grass": "hantf_10545",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 119389,
+        "verse": "08.098.06",
+        "pada": "c",
+        "ptok": "2.0",
+        "form": "dásyoḥ",
+        "lemma": "dásyu-",
+        "grass": "dasyu_4157",
+        "cas": "Gen.",
+        "num": "Sg."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "opponent"
+    },
+    {
+      "head": {
+        "rownum": 129935,
+        "verse": "09.088.04",
+        "pada": "b",
+        "ptok": "1.0",
+        "form": "hantā́",
+        "lemma": "hantár-",
+        "grass": "hantf_10545",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 129936,
+        "verse": "09.088.04",
+        "pada": "b",
+        "ptok": "2.0",
+        "form": "vr̥trā́ṇām",
+        "lemma": "vr̥trá-",
+        "grass": "vftra_8365",
+        "cas": "Gen.",
+        "num": "Pl."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "adversaries"
+    },
+    {
+      "head": {
+        "rownum": 129945,
+        "verse": "09.088.04",
+        "pada": "d",
+        "ptok": "1.0",
+        "form": "hantā́",
+        "lemma": "hantár-",
+        "grass": "hantf_10545",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 129949,
+        "verse": "09.088.04",
+        "pada": "d",
+        "ptok": "5.0",
+        "form": "dásyoḥ",
+        "lemma": "dásyu-",
+        "grass": "dasyu_4157",
+        "cas": "Gen.",
+        "num": "Sg."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "opponent"
+    },
+    {
+      "head": {
+        "rownum": 131936,
+        "verse": "09.097.43",
+        "pada": "a",
+        "ptok": "4.0",
+        "form": "hantā́",
+        "lemma": "hantár-",
+        "grass": "hantf_10545",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 131935,
+        "verse": "09.097.43",
+        "pada": "a",
+        "ptok": "3.0",
+        "form": "vr̥jinásya",
+        "lemma": "vr̥jiná-",
+        "grass": "vfjina_8358",
+        "cas": "Gen.",
+        "num": "Sg."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "wrong or crookedness"
+    },
+    {
+      "head": {
+        "rownum": 151692,
+        "verse": "10.087.22",
+        "pada": "d",
+        "ptok": "1.0",
+        "form": "hantā́ram",
+        "lemma": "hantár-",
+        "grass": "hantf_10545",
+        "cas": "Akk.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 151693,
+        "verse": "10.087.22",
+        "pada": "d",
+        "ptok": "2.0",
+        "form": "bhaṅgurā́vatām",
+        "lemma": "bhaṅgurā́vant-",
+        "grass": "BaNgurAvat_6292",
+        "cas": "Gen.",
+        "num": "Pl."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "harmful ones"
+    },
+    {
+      "head": {
+        "rownum": 163374,
+        "verse": "10.166.01",
+        "pada": "c",
+        "ptok": "1.0",
+        "form": "hantā́ram",
+        "lemma": "hantár-",
+        "grass": "hantf_10545",
+        "cas": "Akk.",
+        "num": "Sg."
+      },
+      "dependent": {
+        "rownum": 163375,
+        "verse": "10.166.01",
+        "pada": "c",
+        "ptok": "2.0",
+        "form": "śátrūṇām",
+        "lemma": "śátru-",
+        "grass": "Satru_8639",
+        "cas": "Gen.",
+        "num": "Pl."
+      },
+      "attachment_status": "dependent_assigned",
+      "interpretation": "enemies"
+    }
+  ],
+  "additional_context": [
+    {
+      "head": {
+        "rownum": 78452,
+        "verse": "06.044.15",
+        "pada": "b",
+        "ptok": "1.0",
+        "form": "hántā",
+        "lemma": "hántar-",
+        "grass": "han_10541",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "other": {
+        "rownum": 78454,
+        "verse": "06.044.15",
+        "pada": "b",
+        "ptok": "3.0",
+        "form": "vájreṇa",
+        "lemma": "vájra-",
+        "grass": "vajra_7579",
+        "cas": "Instr.",
+        "num": "Sg."
+      },
+      "interpretation": "instrument of striking, distinct from the affected entity"
+    },
+    {
+      "head": {
+        "rownum": 75911,
+        "verse": "06.023.03",
+        "pada": "c",
+        "ptok": "1.0",
+        "form": "kártā",
+        "lemma": "kártar-",
+        "grass": "kf_2645",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "other": {
+        "rownum": 75912,
+        "verse": "06.023.03",
+        "pada": "c",
+        "ptok": "2.0",
+        "form": "vīrā́ya",
+        "lemma": "vīrá-",
+        "grass": "vIra_8312",
+        "cas": "Dat.",
+        "num": "Sg."
+      },
+      "interpretation": "beneficiary, qualified by the next dative, distinct from the created space"
+    },
+    {
+      "head": {
+        "rownum": 103511,
+        "verse": "08.017.14",
+        "pada": "c",
+        "ptok": "2.0",
+        "form": "bhettā́",
+        "lemma": "bhettár-",
+        "grass": "Bettf_6449",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "other": {
+        "rownum": 103513,
+        "verse": "08.017.14",
+        "pada": "c",
+        "ptok": "4.0",
+        "form": "śáśvatīnām",
+        "lemma": "śáśvant-",
+        "grass": "SaSvat_8720",
+        "cas": "Gen.",
+        "num": "Pl."
+      },
+      "interpretation": "adjective in the genitive plural agreeing with the strongholds"
+    },
+    {
+      "head": {
+        "rownum": 129945,
+        "verse": "09.088.04",
+        "pada": "d",
+        "ptok": "1.0",
+        "form": "hantā́",
+        "lemma": "hantár-",
+        "grass": "hantf_10545",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "other": {
+        "rownum": 129946,
+        "verse": "09.088.04",
+        "pada": "d",
+        "ptok": "2.0",
+        "form": "víśvasya",
+        "lemma": "víśva-",
+        "grass": "viSva_8151",
+        "cas": "Gen.",
+        "num": "Sg."
+      },
+      "interpretation": "genitive modifier of the distant dasyoḥ, separated by the copula and the addressed Soma"
+    },
+    {
+      "head": {
+        "rownum": 53552,
+        "verse": "04.017.08",
+        "pada": "c",
+        "ptok": "1.0",
+        "form": "hántā",
+        "lemma": "hántar-",
+        "grass": "han_10541",
+        "cas": "Nom.",
+        "num": "Sg."
+      },
+      "other": {
+        "rownum": 53556,
+        "verse": "04.017.08",
+        "pada": "c",
+        "ptok": "5.0",
+        "form": "utá",
+        "lemma": "utá",
+        "grass": "uta_1879",
+        "cas": null,
+        "num": null
+      },
+      "interpretation": "object of the second head sanitar, not of the first head hantar"
+    }
+  ],
+  "summary": [
+    {
+      "lemma": "hántar-",
+      "dependent_case": "Akk.",
+      "count": 6
+    },
+    {
+      "lemma": "hantár-",
+      "dependent_case": "Gen.",
+      "count": 9
+    },
+    {
+      "lemma": "kártar-",
+      "dependent_case": "Akk.",
+      "count": 6
+    },
+    {
+      "lemma": "kartár-",
+      "dependent_case": "Gen.",
+      "count": 3
+    },
+    {
+      "lemma": "kartár-",
+      "dependent_case": "-",
+      "count": 4
+    },
+    {
+      "lemma": "bhettár-",
+      "dependent_case": "Gen.",
+      "count": 1
+    }
+  ],
+  "limits": [
+    "Lexical morphology and the case tags are source data. The attachment is this packet’s verse reading. For 3.31.2d the genitive is visible; its precise interpretation is open.",
+    "The Zürich lemma labels group both accent classes as nominal stems. Comparing them with tṛn and tṛc does not label any Vedic word as a finite luṭ or prove the later grammatical semantic analysis.",
+    "No selected verse gives the lexical thief reading for the grammatical illustration under Uṇādi 2.94.",
+    "Stem labels and accents in this corpus are an edition-specific annotation, not a rule for all recitations."
+  ]
+}
