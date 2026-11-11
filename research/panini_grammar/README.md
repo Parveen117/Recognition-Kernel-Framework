@@ -1408,6 +1408,8 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG143 — Three samidh readings and an explicit reflexive patient.** [Packet](samidh_three_analyses/README.md). One additional source-supported semantic frame covers ninety previously written P cells with zero new word credit. Zero new finite positions. Cumulative **31,073**.
+
 **PG142 — Dependent outer y-loss after lexical s selection:** [packet](kyang_s_outer/README.md) adds
 **378 positions / 1372 readings / 1372 paths**; cumulative **31,073**.
 Selected target 378/378; Python 3.12 static checks only,

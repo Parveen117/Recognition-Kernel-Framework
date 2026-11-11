@@ -1,0 +1,9 @@
+# Connecting semantic preimages to frozen morphology
+
+Kāśikā 6.4.50 illustrates two stop-final nominal formations. Nyāsa explains the “as applicable” phrase by distinguishing wanting kindling for oneself; treating oneself like kindling; and behaving like kindling. The first two select kyac, the third kyaṅ. Preserve the digital Nyāsa field verbatim, including editorial question marks near the affix notation. All three numbered sūtra references and the point of the contrast are visible. The corresponding object-model phrase explicitly names samidh. A direct Nyāsa attestation for dṛṣad is not claimed by this crosswalk.
+
+The new TREAT_AS(x,x,samidh) analysis instantiates both agent and patient slots of the existing PG133 signature. It remains different from BEHAVE_LIKE(x,samidh) despite a closely related English rendering. An overt reflexive/self binding belongs to the predicate; the finite agreement still comes from the actual actor. The ordinary SELF_WISH frame binds agent to beneficiary instead.
+
+For each of the 90 P morphology keys, take its exact existing path set from PG125–127 and attach the newly witnessed semantic arrow. This reuses 220 within-key ordinary readings and 229 original derivational paths. The nine differences come from the two sound/morphological preimages previously identified in P blessings. Each new labelled path projects to the same old word at the same old key. Hence the zero-reading commutes with projection and contributes zero new keys or spellings. The seven exact inverse queries are computed as finite document joins over already-written words, not by grammar replay.
+
+The highest-level lesson is operational: a fixed samidh perfect word may hide grammatical ending ownership and semantic valency simultaneously. In this example the kṛ auxiliary retains the P/A cue, and the as auxiliary can erase it. The inverse data preserve each surviving frame and its source.

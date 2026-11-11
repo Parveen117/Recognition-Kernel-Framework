@@ -1,0 +1,1371 @@
+{
+  "semantic_frames": {
+    "SELF_WISH": {
+      "predicate": "WANT_FOR_SELF",
+      "arguments": {
+        "agent": "x",
+        "theme": "samidh",
+        "beneficiary": "x"
+      },
+      "selection": "kyac",
+      "pada": "P",
+      "rule": "3.1.8"
+    },
+    "REFLEXIVE_OBJECT_MODEL": {
+      "predicate": "TREAT_AS",
+      "arguments": {
+        "agent": "x",
+        "patient": "x",
+        "standard": "samidh"
+      },
+      "selection": "kyac",
+      "pada": "P",
+      "rule": "3.1.10"
+    },
+    "AGENT_MODEL": {
+      "predicate": "BEHAVE_LIKE",
+      "arguments": {
+        "agent": "x",
+        "standard": "samidh"
+      },
+      "selection": "kyaṅ",
+      "pada": "A",
+      "rule": "3.1.11"
+    }
+  },
+  "existing_cells": [
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lat",
+        "slot": "3sg"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lat",
+        "slot": "3du"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lat",
+        "slot": "3pl"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lat",
+        "slot": "2sg"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lat",
+        "slot": "2du"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lat",
+        "slot": "2pl"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lat",
+        "slot": "1sg"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lat",
+        "slot": "1du"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lat",
+        "slot": "1pl"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lang",
+        "slot": "3sg"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lang",
+        "slot": "3du"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lang",
+        "slot": "3pl"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lang",
+        "slot": "2sg"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lang",
+        "slot": "2du"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lang",
+        "slot": "2pl"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lang",
+        "slot": "1sg"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lang",
+        "slot": "1du"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lang",
+        "slot": "1pl"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lot",
+        "slot": "3sg"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lot",
+        "slot": "3du"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lot",
+        "slot": "3pl"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lot",
+        "slot": "2sg"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lot",
+        "slot": "2du"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lot",
+        "slot": "2pl"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lot",
+        "slot": "1sg"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lot",
+        "slot": "1du"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lot",
+        "slot": "1pl"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "vidhiling",
+        "slot": "3sg"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "vidhiling",
+        "slot": "3du"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "vidhiling",
+        "slot": "3pl"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "vidhiling",
+        "slot": "2sg"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "vidhiling",
+        "slot": "2du"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "vidhiling",
+        "slot": "2pl"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "vidhiling",
+        "slot": "1sg"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "vidhiling",
+        "slot": "1du"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "vidhiling",
+        "slot": "1pl"
+      },
+      "word_reading_count": 1,
+      "original_paths": 1,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lrt",
+        "slot": "3sg"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lrt",
+        "slot": "3du"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lrt",
+        "slot": "3pl"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lrt",
+        "slot": "2sg"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lrt",
+        "slot": "2du"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lrt",
+        "slot": "2pl"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lrt",
+        "slot": "1sg"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lrt",
+        "slot": "1du"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lrt",
+        "slot": "1pl"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lut",
+        "slot": "3sg"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lut",
+        "slot": "3du"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lut",
+        "slot": "3pl"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lut",
+        "slot": "2sg"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lut",
+        "slot": "2du"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lut",
+        "slot": "2pl"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lut",
+        "slot": "1sg"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lut",
+        "slot": "1du"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lut",
+        "slot": "1pl"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lrng",
+        "slot": "3sg"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lrng",
+        "slot": "3du"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lrng",
+        "slot": "3pl"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lrng",
+        "slot": "2sg"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lrng",
+        "slot": "2du"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lrng",
+        "slot": "2pl"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lrng",
+        "slot": "1sg"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lrng",
+        "slot": "1du"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_hosts",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lrng",
+        "slot": "1pl"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_blessing_perfect",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "ashirling",
+        "slot": "3sg"
+      },
+      "word_reading_count": 2,
+      "original_paths": 3,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_blessing_perfect",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "ashirling",
+        "slot": "3du"
+      },
+      "word_reading_count": 2,
+      "original_paths": 3,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_blessing_perfect",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "ashirling",
+        "slot": "3pl"
+      },
+      "word_reading_count": 2,
+      "original_paths": 3,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_blessing_perfect",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "ashirling",
+        "slot": "2sg"
+      },
+      "word_reading_count": 2,
+      "original_paths": 3,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_blessing_perfect",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "ashirling",
+        "slot": "2du"
+      },
+      "word_reading_count": 2,
+      "original_paths": 3,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_blessing_perfect",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "ashirling",
+        "slot": "2pl"
+      },
+      "word_reading_count": 2,
+      "original_paths": 3,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_blessing_perfect",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "ashirling",
+        "slot": "1sg"
+      },
+      "word_reading_count": 2,
+      "original_paths": 3,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_blessing_perfect",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "ashirling",
+        "slot": "1du"
+      },
+      "word_reading_count": 2,
+      "original_paths": 3,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_blessing_perfect",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "ashirling",
+        "slot": "1pl"
+      },
+      "word_reading_count": 2,
+      "original_paths": 3,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_blessing_perfect",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lit",
+        "slot": "3sg"
+      },
+      "word_reading_count": 10,
+      "original_paths": 10,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_blessing_perfect",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lit",
+        "slot": "3du"
+      },
+      "word_reading_count": 10,
+      "original_paths": 10,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_blessing_perfect",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lit",
+        "slot": "3pl"
+      },
+      "word_reading_count": 10,
+      "original_paths": 10,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_blessing_perfect",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lit",
+        "slot": "2sg"
+      },
+      "word_reading_count": 10,
+      "original_paths": 10,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_blessing_perfect",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lit",
+        "slot": "2du"
+      },
+      "word_reading_count": 10,
+      "original_paths": 10,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_blessing_perfect",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lit",
+        "slot": "2pl"
+      },
+      "word_reading_count": 10,
+      "original_paths": 10,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_blessing_perfect",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lit",
+        "slot": "1sg"
+      },
+      "word_reading_count": 14,
+      "original_paths": 14,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_blessing_perfect",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lit",
+        "slot": "1du"
+      },
+      "word_reading_count": 10,
+      "original_paths": 10,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_blessing_perfect",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lit",
+        "slot": "1pl"
+      },
+      "word_reading_count": 10,
+      "original_paths": 10,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_aorist",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lung",
+        "slot": "3sg"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_aorist",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lung",
+        "slot": "3du"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_aorist",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lung",
+        "slot": "3pl"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_aorist",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lung",
+        "slot": "2sg"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_aorist",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lung",
+        "slot": "2du"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_aorist",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lung",
+        "slot": "2pl"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_aorist",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lung",
+        "slot": "1sg"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_aorist",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lung",
+        "slot": "1du"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    },
+    {
+      "source_packet": "ky_consonant_aorist",
+      "request": {
+        "profile": "SAMIDH_KYAC_P",
+        "lakara": "lung",
+        "slot": "1pl"
+      },
+      "word_reading_count": 2,
+      "original_paths": 2,
+      "new_semantic_preimage": "REFLEXIVE_OBJECT_MODEL",
+      "link_policy": "REUSE_ALL_AND_ONLY_INDICATED_SOURCE_PATH_IDS",
+      "new_position_credit": 0,
+      "new_spelling_credit": 0
+    }
+  ],
+  "inverse_queries": [
+    {
+      "word": "samidhyati",
+      "lakara": "lat",
+      "slot": "3sg",
+      "remaining_semantic_frames": [
+        "SELF_WISH",
+        "REFLEXIVE_OBJECT_MODEL"
+      ],
+      "lexical_domain": "samidh only"
+    },
+    {
+      "word": "samidhyate",
+      "lakara": "lat",
+      "slot": "3sg",
+      "remaining_semantic_frames": [
+        "AGENT_MODEL"
+      ],
+      "lexical_domain": "samidh only"
+    },
+    {
+      "word": "samidhitā",
+      "lakara": "lut",
+      "slot": "3sg",
+      "remaining_semantic_frames": [
+        "SELF_WISH",
+        "REFLEXIVE_OBJECT_MODEL",
+        "AGENT_MODEL"
+      ],
+      "lexical_domain": "samidh only"
+    },
+    {
+      "word": "samidhyitā",
+      "lakara": "lut",
+      "slot": "3sg",
+      "remaining_semantic_frames": [
+        "SELF_WISH",
+        "REFLEXIVE_OBJECT_MODEL",
+        "AGENT_MODEL"
+      ],
+      "lexical_domain": "samidh only"
+    },
+    {
+      "word": "samidhāñcakāra",
+      "lakara": "lit",
+      "slot": "3sg",
+      "remaining_semantic_frames": [
+        "SELF_WISH",
+        "REFLEXIVE_OBJECT_MODEL"
+      ],
+      "lexical_domain": "samidh only"
+    },
+    {
+      "word": "samidhāñcakre",
+      "lakara": "lit",
+      "slot": "3sg",
+      "remaining_semantic_frames": [
+        "AGENT_MODEL"
+      ],
+      "lexical_domain": "samidh only"
+    },
+    {
+      "word": "samidhāmāsa",
+      "lakara": "lit",
+      "slot": "3sg",
+      "remaining_semantic_frames": [
+        "SELF_WISH",
+        "REFLEXIVE_OBJECT_MODEL",
+        "AGENT_MODEL"
+      ],
+      "lexical_domain": "samidh only"
+    }
+  ]
+}
