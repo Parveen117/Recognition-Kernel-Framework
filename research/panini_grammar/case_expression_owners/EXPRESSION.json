@@ -1,0 +1,251 @@
+{
+  "analyses": [
+    {
+      "id": "ACTIVE_MAT",
+      "source": {
+        "book": "kashika",
+        "sutra": "2.3.1",
+        "literal": "कटं करोति"
+      },
+      "display": "kaṭaṃ karoti",
+      "role_edge": {
+        "predicate": "MAKE",
+        "role": "karman",
+        "entity": "mat"
+      },
+      "expression": {
+        "carrier": "UNEXPRESSED_AT_ROLE_GATE",
+        "host": null
+      },
+      "separate_nominal_case": "accusative",
+      "decision": "APPLY_2_3_2",
+      "explanation": "The active ending expresses the maker. The independent mat nominal receives the accusative.",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "ACTIVE_GOAL",
+      "source": {
+        "book": "kashika",
+        "sutra": "2.3.1",
+        "literal": "ग्रामं गच्छति"
+      },
+      "display": "grāmaṃ gacchati",
+      "role_edge": {
+        "predicate": "GO_TO",
+        "role": "karman",
+        "entity": "village"
+      },
+      "expression": {
+        "carrier": "UNEXPRESSED_AT_ROLE_GATE",
+        "host": null
+      },
+      "separate_nominal_case": "accusative",
+      "decision": "APPLY_2_3_2",
+      "explanation": "The designated destination is karman and its relation has no prior expression by a listed carrier.",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "FINITE_PASSIVE",
+      "source": {
+        "book": "kashika",
+        "sutra": "2.3.1",
+        "literal": "क्रियते कटः"
+      },
+      "display": "kriyate kaṭaḥ",
+      "role_edge": {
+        "predicate": "MAKE",
+        "role": "karman",
+        "entity": "mat"
+      },
+      "expression": {
+        "carrier": "TING",
+        "host": "kriyate"
+      },
+      "separate_nominal_case": "nominative",
+      "decision": "ROLE_ALREADY_EXPRESSED",
+      "explanation": "The passive finite ending expresses the karman. The independent mat nominal is nominative.",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "KRT_PARTICIPLE",
+      "source": {
+        "book": "kashika",
+        "sutra": "2.3.1",
+        "literal": "कृतः कटः"
+      },
+      "display": "kṛtaḥ kaṭaḥ",
+      "role_edge": {
+        "predicate": "MAKE",
+        "role": "karman",
+        "entity": "mat"
+      },
+      "expression": {
+        "carrier": "KRT",
+        "host": "kta in kṛtaḥ"
+      },
+      "separate_nominal_case": "nominative",
+      "decision": "ROLE_ALREADY_EXPRESSED",
+      "explanation": "The participial kta expresses the mat as made. The co-referring mat nominal is nominative.",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "TADDHITA_YAT",
+      "source": {
+        "book": "kashika",
+        "sutra": "2.3.1",
+        "literal": "शत्यः"
+      },
+      "display": "śatyaḥ",
+      "role_edge": {
+        "predicate": "BUY_FOR_PRICE",
+        "role": "karman",
+        "entity": "purchased_item"
+      },
+      "expression": {
+        "carrier": "TADDHITA",
+        "host": "yat on śata"
+      },
+      "separate_nominal_case": null,
+      "decision": "ROLE_ALREADY_EXPRESSED",
+      "explanation": "The derivative denotes the purchased article. No separate object nominal is printed in this example.",
+      "finite_position_credit": 0,
+      "semantic_roles": {
+        "purchase_object": "purchased_item",
+        "price": "one_hundred"
+      },
+      "derivative_case": "nominative masculine singular in 2.3.1"
+    },
+    {
+      "id": "TADDHITA_THAN",
+      "source": {
+        "book": "kashika",
+        "sutra": "2.3.1",
+        "literal": "शतिकः"
+      },
+      "display": "śatikaḥ",
+      "role_edge": {
+        "predicate": "BUY_FOR_PRICE",
+        "role": "karman",
+        "entity": "purchased_item"
+      },
+      "expression": {
+        "carrier": "TADDHITA",
+        "host": "ṭhan on śata"
+      },
+      "separate_nominal_case": null,
+      "decision": "ROLE_ALREADY_EXPRESSED",
+      "explanation": "A second affix expresses the same relation under the named śata conditions.",
+      "finite_position_credit": 0,
+      "semantic_roles": {
+        "purchase_object": "purchased_item",
+        "price": "one_hundred"
+      },
+      "derivative_case": "nominative masculine singular in 2.3.1"
+    },
+    {
+      "id": "COMPOUND",
+      "source": {
+        "book": "kashika",
+        "sutra": "2.3.1",
+        "literal": "प्राप्तोदको ग्रामः"
+      },
+      "display": "prāptodako grāmaḥ",
+      "role_edge": {
+        "predicate": "REACH",
+        "role": "karman",
+        "entity": "village"
+      },
+      "expression": {
+        "carrier": "SAMASA",
+        "host": "prāptodaka"
+      },
+      "separate_nominal_case": "nominative",
+      "decision": "ROLE_ALREADY_EXPRESSED",
+      "explanation": "The outside referent of the compound is the village reached by the water.",
+      "finite_position_credit": 0,
+      "semantic_roles": {
+        "reaching_participant": "water",
+        "reached_entity": "village",
+        "external_compound_referent": "village"
+      }
+    },
+    {
+      "id": "AGREEING_MODIFIERS",
+      "source": {
+        "book": "kashika",
+        "sutra": "2.3.1",
+        "literal": "कटं करोति भीष्ममुदारं दर्शनीयम्"
+      },
+      "display": "kaṭaṃ karoti bhīṣmam udāraṃ darśanīyam",
+      "role_edge": {
+        "predicate": "MAKE",
+        "role": "karman",
+        "entity": "mat"
+      },
+      "expression": {
+        "carrier": "UNEXPRESSED_AT_ROLE_GATE",
+        "host": null
+      },
+      "separate_nominal_case": "accusative",
+      "decision": "APPLY_2_3_2_WITH_CONCORD",
+      "explanation": "Marking the mat accusative still allows accusative agreement on its modifiers.",
+      "finite_position_credit": 0,
+      "concord": {
+        "referent": "mat",
+        "modifier_words": [
+          "bhīṣmam",
+          "udāram",
+          "darśanīyam"
+        ],
+        "case": "accusative",
+        "separate_object_count": 1
+      }
+    }
+  ],
+  "cross_source_checks": [
+    {
+      "source": "5.1.21",
+      "literal": "शतेन क्रीतं शतिकम्। शत्यम्।",
+      "distinction": "price of one hundred versus the article bought; neuter exemplars in this field"
+    },
+    {
+      "source": "2.2.24",
+      "literal": "प्राप्तोदको ग्रामः",
+      "distinction": "external referent of bahuvrīhi"
+    },
+    {
+      "source": "2.3.1",
+      "literal": "प्राप्तमुदकं यं ग्रामम्",
+      "distinction": "expanded relative expression explicitly contains accusative yam grāmam"
+    }
+  ],
+  "queries": [
+    {
+      "input": "karman=mat and finite voice=kartari",
+      "rows": [
+        "ACTIVE_MAT",
+        "AGREEING_MODIFIERS"
+      ]
+    },
+    {
+      "input": "karman=mat and case of independent mat=nominative",
+      "rows": [
+        "FINITE_PASSIVE",
+        "KRT_PARTICIPLE"
+      ]
+    },
+    {
+      "input": "purchased for a hundred on selected 5.1.21 domain",
+      "rows": [
+        "TADDHITA_YAT",
+        "TADDHITA_THAN"
+      ]
+    },
+    {
+      "input": "external village reached by water in compound",
+      "rows": [
+        "COMPOUND"
+      ]
+    }
+  ]
+}

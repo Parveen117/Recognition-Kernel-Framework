@@ -1,0 +1,87 @@
+{
+  "schema": "rkf.panini.pg139.state.v1",
+  "author": "Monty",
+  "date": "2026-11-11",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "4f9b18995bd18f8d39990acff04a7dc9c3d3e34e",
+    "path": "research/panini_grammar/clause_frame_interchange/STATE.json",
+    "scope": "EXACT_REVIEWED_DEPENDENCY_NO_RECURSIVE_AUDIT",
+    "bytes": 3459,
+    "sha256": "7eb679925af3814e856a5276e9e8ea7cf7b0f1b543ad7e5be38bea072a6bccbb",
+    "git_blob_sha": "2827e6179538046c1ddbf17f98ca8028f392cd46"
+  },
+  "finite_positions": 30443,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_written_table_readings": 0,
+  "retained_path_count": 0,
+  "new_catalogue_ids": [],
+  "position_accounting": {
+    "forms": [],
+    "panels": [],
+    "complete_nine_slot_paradigms": 0
+  },
+  "contextual_profiles": {},
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "companion": {
+    "commit": "edd98b0685b478cb39468e350b26783bb4cce7ff",
+    "head_checked_for_this_block": false,
+    "scope": "INHERITED_ONLY_NOT_FRESH_HEAD_CHECK"
+  },
+  "overall_grammar_completion_percent": null,
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "semantic_accounting": {
+    "analyses": 8,
+    "expression_carriers": 4,
+    "inverse_queries": 4
+  },
+  "open_obligations": [
+    "Wider word-specific formation, alternative scholarly policies and complete case agreement.",
+    "PG121 and PG131 qualifications retained."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_checks": "PASS",
+    "document_check_runtime": "3.12.14",
+    "document_check_scope": "All eight 2.3.1 examples tied to literal fields; cross-checks at 2.2.24 and 5.1.21, carrier enumeration, cardinalities, separate noun versus derivative case, and concord instance checked.",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  }
+}
