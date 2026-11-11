@@ -1,0 +1,124 @@
+{
+  "root_entries": {
+    "04.0057": {
+      "dhatu": "क्लिश्",
+      "aupadeshik": "क्लिशँ",
+      "artha": "उपतापे",
+      "pada": "A",
+      "settva": "S",
+      "karma": "A",
+      "karma_note": null
+    },
+    "09.0058": {
+      "dhatu": "क्लिश्",
+      "aupadeshik": "क्लिशूँ",
+      "artha": "विबाधने",
+      "pada": "P",
+      "settva": "V",
+      "karma": "A",
+      "karma_note": "सकर्मकः इति केचन ।"
+    }
+  },
+  "ten_pada_evidence": [
+    {
+      "work": "Kṣīrataraṅgiṇī",
+      "repository": "samsaadhanii/scl",
+      "commit": "1ec51dc4cbfecf271e4f3cb0bba41f25b5921572",
+      "path": "dhaatupaatha/files/kRIrawarangiNI_new.xml",
+      "entry_id": "823",
+      "git_blob_sha": "bcd9060ffbd3bb59a2e40c4027b8b9c953dd9e7d",
+      "sha256": "408fa688fd4b4b9798efe2bd405f9a2c6b33a8c67af76569c35cfb9c80d9cf73",
+      "bytes": 1060642,
+      "extracted_text_sha256": "ee26631259a5e028c6a060b8633238207a77cbd18cf1e968e91e3a124e642961",
+      "anchors": [
+        {
+          "text": "क्लिश्यते",
+          "codepoint_offset": 14
+        },
+        {
+          "text": "क्लिश्नाति",
+          "codepoint_offset": 94
+        },
+        {
+          "text": "कल् लोपश्च लोनाम् च (दश0 उ0 99 ङपाठः) कीनाशः",
+          "codepoint_offset": 260
+        },
+        {
+          "text": "क्लिशेरल् लोपश्च लः",
+          "codepoint_offset": 305
+        },
+        {
+          "text": "क्लिष्टः, क्लिशितः",
+          "codepoint_offset": 183
+        }
+      ]
+    },
+    {
+      "work": "Kṣīrataraṅgiṇī",
+      "repository": "samsaadhanii/scl",
+      "commit": "1ec51dc4cbfecf271e4f3cb0bba41f25b5921572",
+      "path": "dhaatupaatha/files/kRIrawarangiNI_new.xml",
+      "entry_id": "1137",
+      "git_blob_sha": "bcd9060ffbd3bb59a2e40c4027b8b9c953dd9e7d",
+      "sha256": "408fa688fd4b4b9798efe2bd405f9a2c6b33a8c67af76569c35cfb9c80d9cf73",
+      "bytes": 1060642,
+      "extracted_text_sha256": "b7e52d711dfd358b4cad93e9c1f1f1d5eeb6ec9bf95290bc69d0df1434fc1bf6",
+      "anchors": [
+        {
+          "text": "क्लिश्नाति",
+          "codepoint_offset": 15
+        },
+        {
+          "text": "क्लेष्टा क्लेशिता",
+          "codepoint_offset": 26
+        },
+        {
+          "text": "क्लिश्यति क्लेशः, कीनाशः",
+          "codepoint_offset": 132
+        }
+      ]
+    }
+  ],
+  "lexical_disambiguation": {
+    "823": "Divādi kliśa upatāpe. The XML cites a ten-pāda variant reading, with literal suffix कल्, for kīnāśa. Its locator is preserved as 99 ङपाठः. The following entry, literally 92, derives keśa with al and l-loss. The text itself does not gloss kīnāśa as Yama here.",
+    "1137": "The kryādi entry gives kliśnāti, kleṣṭā/kleśitā and then cross-refers to divādi. In this cross-reference the literal form is kliśyati, while the divādi discussion itself supplies kliśyate. Both spellings and their locations are retained.",
+    "scope": "The five-pāda 5.56 reading is kan. The ten-pāda variant with kal documents a separate reading. Neither the different final marker nor the explicit ī identifies an additional function for five-pāda k. The four 4.105 fields also retain their previous status."
+  },
+  "nonfinite_account": {
+    "ktva": [
+      "kliṣṭvā",
+      "kliśitvā"
+    ],
+    "optional_it": "7.2.50 covers both entries in ktvā and niṣṭhā. For the ūdit kryādi teaching, the ktvā option would already follow; niṣṭhā would encounter 7.2.15. For the divādi teaching ordinary iṭ would be obligatory. 1.2.7 keeps ktvā kit even with iṭ, so the written form is kliśitvā.",
+    "habitual_agent": "3.2.146 names both roots for vuñ in the habitual agent sense. Guṇa gives kleś-, vuñ supplies -aka, and the feminine before āp gives -ikā.",
+    "accounting": "Decline the two niṣṭhā families and one shared vuñ family once each in three genders. The two equivalent root sources are not multiplied. The indeclinables are listed outside nominal and finite counts."
+  },
+  "source_comparison": {
+    "04.0057": {
+      "dhatu/dhatuforms_krut.txt": {
+        "क्त": "क्लिशितः,क्लिष्टः,क्लिशिता,क्लिष्टा",
+        "क्तवतुँ": "क्लिशितवान्,क्लिष्टवान्,क्लिशितवती,क्लिष्टवती",
+        "क्त्वा": "क्लिशित्वा,क्लिष्ट्वा"
+      },
+      "dhatu/dhatuforms_vidyut_shuddha_krut.txt": {
+        "क्त": "क्लिशित,क्लिशितः,क्लिशिता,क्लिशितम्;क्लिष्ट,क्लिष्टः,क्लिष्टा,क्लिष्टम्",
+        "क्तवतु": "क्लिशितवत्,क्लिशितवान्,क्लिशितवती,क्लिशितवत्/क्लिशितवद्;क्लिष्टवत्,क्लिष्टवान्,क्लिष्टवती,क्लिष्टवत्/क्लिष्टवद्",
+        "क्त्वा": "क्लिशित्वा,,,;क्लिष्ट्वा,,,",
+        "वुञ्": "क्लेशक,क्लेशकः,क्लेशिका,क्लेशकम्"
+      }
+    },
+    "09.0058": {
+      "dhatu/dhatuforms_krut.txt": {
+        "क्त": "क्लिशितः,क्लिष्टः,क्लिशिता,क्लिष्टा",
+        "क्तवतुँ": "क्लिशितवान्,क्लिष्टवान्,क्लिशितवती,क्लिष्टवती",
+        "क्त्वा": "क्लिशित्वा,क्लिष्ट्वा"
+      },
+      "dhatu/dhatuforms_vidyut_shuddha_krut.txt": {
+        "क्त": "क्लिशित,क्लिशितः,क्लिशिता,क्लिशितम्;क्लिष्ट,क्लिष्टः,क्लिष्टा,क्लिष्टम्",
+        "क्तवतु": "क्लिशितवत्,क्लिशितवान्,क्लिशितवती,क्लिशितवत्/क्लिशितवद्;क्लिष्टवत्,क्लिष्टवान्,क्लिष्टवती,क्लिष्टवत्/क्लिष्टवद्",
+        "क्त्वा": "क्लिशित्वा,,,;क्लिष्ट्वा,,,",
+        "वुञ्": "क्लेशक,क्लेशकः,क्लेशिका,क्लेशकम्"
+      }
+    }
+  }
+}
