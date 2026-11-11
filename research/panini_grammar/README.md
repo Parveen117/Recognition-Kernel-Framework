@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG191 — Three histories for kartā and the case of the mat.** [Packet](agent_noun_object_government/README.md). Zero new finite positions. Cumulative **41,333**.
+
 **PG190 — The six words of Uṇādi 4.105 and two histories of saraṭa.** [Packet](unadi_six_lexical_paradigms/README.md). Zero new finite positions. Cumulative **41,333**.
 
 **PG189 — A source-defined decision for all 45 desiderative middle perfects.** [Packet](desiderative_perfect_primary_word_policy/README.md). Zero new finite positions. Cumulative **41,333**.

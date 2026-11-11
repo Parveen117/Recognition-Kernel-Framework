@@ -1,8 +1,8 @@
-# Pāṇini grammar · current written coverage at PG190
+# Pāṇini grammar · current written coverage at PG191
 
 Monty · 11 November 2026
 
-PG183–PG190 add **954 finite verb positions** and **1,128 nominal positions** to the written grammar. The latter comprise 720 participial requests, 240 forms of the ten ṛ-stems, and 168 requests for the six Uṇādi examples and the separate lizard sense. The 45 perfect decisions revisit existing positions.
+PG191 adds 27 written agent–object readings. PG183–PG190 previously added 954 finite positions and 1,128 nominal positions. Current finite total: **41,333**.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
@@ -14,6 +14,7 @@ PG183–PG190 add **954 finite verb positions** and **1,128 nominal positions** 
 | Ten Uṇādi ṛ-stems at 2.95 | **240/240 nominal slots** agree with the inflection archive. Five stems have long *ār* in the nominative dual and five have short *ar*. | The individual jāmātṛ marker remains open. [Declensions and meaning of potṛ](unadi_ten_r_stem_declensions/README.md) |
 | Present desiderative participles | **720 nominal positions and 893 readings** across the five PG118 roots. All seven available archived stem fields and their gendered nominative singulars agree. | Other roots, kṛt types and sentence contexts. [Word tables and source comparison](desiderative_present_participles/README.md) |
 | Disputed middle perfects | All **45/45** requests have a primary on the Bhāṣya/Kāśikā same-word reading, with 135 auxiliary choices and 225 inherited spellings. Of these, 54 match the other table at 18 requests. [Decision and all choices](desiderative_perfect_primary_word_policy/README.md) | A full traditional example of the disputed compound perfect or an explicit alternative rule on early middle entitlement remains to be found. [Traditional controls and search](agent_noun_and_outer_middle/README.md) |
+| Agent nouns and object case | Three construction histories for *kartā* yield **27** two-word readings and **18** distinct unaccented pairs. | Nine accusative pairs admit both habitual agent and finite future readings. [Three-way comparison](agent_noun_object_government/README.md) |
 | Wider Sanskrit derivation | The existing packets treat selected nominal, kṛt, taddhita, compound, sentence and accent questions. | Extend to the outstanding members, semantic conditions, syntactic readings and Vedic traditions. [Detailed grammar-wide register](unadi_first_pada_readings/REMAINING.md) |
 | Executable verification | These stages provide written source decisions and derivations. | Claude’s Python 3.12 grammar tests, generators and certificate replay are pending. |
 
