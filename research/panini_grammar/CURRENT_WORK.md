@@ -1,8 +1,8 @@
-# Pāṇini grammar · current written coverage at PG215
+# Pāṇini grammar · current written coverage at PG216
 
 Monty · 12 November 2026
 
-PG202–PG215 add **1,692 finite positions**, taking the written total to **43,025**. The new lexical and compound work gives 576 nominal positions with 602 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG216 add **1,692 finite positions**, taking the written total to **43,025**. The new lexical and compound work gives 1,152 nominal positions with 1,347 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
@@ -20,6 +20,7 @@ PG202–PG215 add **1,692 finite positions**, taking the written total to **43,0
 | The word *strī* | Both literal *ḍaṭ* and source-attested *ḍraṭ* are recorded. All **24 cases and numbers, 26 readings**, with 11 Ṛgvedic examples across six positions. | Only the r-bearing suffix supplies the r by the documented steps. [The readings and the two accusatives](stri_affix_and_vedic_cases/README.md) |
 | *Atistri* compounds | **72 positions and 87 selected readings** in three genders. The Bālamanoramā selects *atistrayaḥ* before *jas*. | Four masculine/feminine nominative and vocative cells differ from the archive. [Full forms and source differences](atistri_compound_priority/README.md) |
 | Gaurādi under 4.1.41 | 153 and 117 source positions compared. Six jointly attested directives have their own lexical or semantic conditions. | Thirteen histories now have 312 nominal positions. [Forms and Vedic comparisons](gauradi_sense_and_declension/README.md). Further members and accent. [Two complete lists](gauradi_members_and_conditions/README.md) |
+| *Styai* past participles | Four ordered prefix contexts yield 576 nominal positions. [Whole tables and source disagreement](styai_prefixes_and_nistha/README.md) | Four published root–affix fields differ from the selected unprefixed *n*. |
 | Fish, feminine stems and inflection | **72 nominal positions, 73 readings** for *matsya, matsī, matsyā*. The fish has two independently specified masculine accent histories. | Wider lexical senses, feminine accent evidence and the separate 4.105 extension. [Three case tables and readings](matsya_feminine_and_case/README.md) |
 | Uṇādi *śaṇḍha* and the lotus collective | **120 nominal positions, 125 readings**. In Māgha 11.15 the dual verb and commentary choose nominative dual from five readings of *ṣaṇḍe*. | The personal terms, bull and lotus cluster have separately sourced histories. [Words and the two verse contexts](sandha_and_lotus_collectives/README.md) |
 | Agent nouns and object case | Three construction histories for *kartā* yield **27** two-word readings and **18** distinct unaccented pairs. | Nine accusative pairs admit both habitual agent and finite future readings. [Three-way comparison](agent_noun_object_government/README.md) |

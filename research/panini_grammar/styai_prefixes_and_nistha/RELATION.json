@@ -1,0 +1,167 @@
+{
+  "scope": {
+    "underlying_roots": [
+      "01.1058",
+      "01.1059"
+    ],
+    "input_domain": "Both root teachings normalized to styā on the selected account; retain both. The four prefix contexts are counted once each, with two suffix families, three genders and 24 cases/numbers. Optional t/m belongs to the same requested cell.",
+    "new_nominal_positions": 576,
+    "readings": 745,
+    "new_finite_positions": 0
+  },
+  "prefix_table": {
+    "bare": [
+      "styāna"
+    ],
+    "sam": [
+      "saṃstyāna"
+    ],
+    "pra": [
+      "prastīta",
+      "prastīma"
+    ],
+    "pra+sam": [
+      "prasaṃstīta"
+    ]
+  },
+  "nominal_models": {
+    "kta": {
+      "m": [
+        "@bAla1",
+        "bāl"
+      ],
+      "f": [
+        "@bAlA1",
+        "bāl"
+      ],
+      "n": [
+        "@bAla2",
+        "bāl"
+      ]
+    },
+    "ktavatu": {
+      "m": [
+        "@balavat1",
+        "bala"
+      ],
+      "f": [
+        "@puSpavatI1",
+        "puṣpa"
+      ],
+      "n": [
+        "@Atmavat2",
+        "ātma"
+      ]
+    }
+  },
+  "operator_history": {
+    "bare_or_sam": "Under 6.1.45, ai to ā before non-śit niṣṭhā. The consonant-initial cluster, ā and y now satisfy 8.2.43. Niṣṭhā t becomes n. Sam does not license 6.1.23 on its own.",
+    "pra": "6.1.23 selects root-internal y for saṃprasāraṇa; 6.1.108 gives the preceding vowel reading and 6.4.2 supplies length. The resulting stī has no original y/ā environment left for 8.2.43. Optional 8.2.54 changes niṣṭhā t to m. Retain prastīta and prastīma.",
+    "pra+sam": "The adjective prapūrva describes the whole preverb/root complex, so 6.1.23 still supplies stī with intervening sam. The Padamañjarī explicitly blocks m of 8.2.54 here. Only the t branch survives. The diagnostic applies both to kta and ktavatu."
+  },
+  "sources": {
+    "genuinely_direct_examples": [
+      "prastītaḥ",
+      "prastītavān",
+      "prastīmaḥ",
+      "prastīmavān",
+      "saṃstyānaḥ",
+      "saṃstyānavān",
+      "prasaṃstītaḥ",
+      "prasaṃstītavān",
+      "styānaḥ"
+    ],
+    "public_lexical_anchors": [
+      {
+        "work": "mw",
+        "L": "138239",
+        "key": "prastIta",
+        "page": "699,1",
+        "entry_sha256": "953193fd2fcfb56a2491017ea47fa8fce8873edcf0f283a3d608615b0ab7f8e0",
+        "literal_spans_in_whitespace_joined_entry": [
+          "swarming"
+        ]
+      },
+      {
+        "work": "mw",
+        "L": "227168",
+        "key": "saMstyAna",
+        "page": "1121,2",
+        "entry_sha256": "e12c3a598b30ee2e8e37df8b82d14d2964c78f8f1b550f71debb1cfdb75034d5",
+        "literal_spans_in_whitespace_joined_entry": [
+          "coagulated"
+        ]
+      },
+      {
+        "work": "mw",
+        "L": "254913",
+        "key": "styAna",
+        "page": "1260,3",
+        "entry_sha256": "6e8d1a219d9c11f2f513dfb21ff2ecc6f96209c03053c7ed64b50b4ea8492764",
+        "literal_spans_in_whitespace_joined_entry": [
+          "grown dense"
+        ]
+      }
+    ],
+    "archive_krt": {
+      "dhatu/dhatuforms_krut.txt": {
+        "01.1058": {
+          "क्त": "स्त्यानः,स्त्याना",
+          "क्तवतुँ": "स्त्यानवान्,स्त्यानवती",
+          "ल्युट्": "स्त्यानम्"
+        },
+        "01.1059": "selected participial fields absent"
+      },
+      "dhatu/dhatuforms_vidyut_shuddha_krut.txt": {
+        "01.1058": {
+          "क्त": "स्त्यात,स्त्यातः,स्त्याता,स्त्यातम्",
+          "क्तवतु": "स्त्यातवत्,स्त्यातवान्,स्त्यातवती,स्त्यातवत्/स्त्यातवद्",
+          "ल्युट्": "स्त्यान,,,स्त्यानम्"
+        },
+        "01.1059": {
+          "क्त": "स्त्यात,स्त्यातः,स्त्याता,स्त्यातम्",
+          "क्तवतु": "स्त्यातवत्,स्त्यातवान्,स्त्यातवती,स्त्यातवत्/स्त्यातवद्",
+          "ल्युट्": "स्त्यान,,,स्त्यानम्"
+        }
+      }
+    },
+    "compared_unprefixed_fields": "Both Vidyut-archived root records have t in the kta and ktavatu stem, so each differs from the n prediction of the Kāśikā/Kaumudī source selection. These are four affected root/affix fields. Source provenance is preserved. The other kṛt archive agrees for the two fields supplied under 01.1058."
+  },
+  "word_collision": {
+    "styānam": [
+      "neuter nominative or accusative singular of the past participle, also vocative as a grammatical word",
+      "separately archived lyuṭ action noun in the same spelling"
+    ],
+    "prastītavatī": [
+      [
+        "prastītavat / prastīmavat",
+        "pra + ktavatu",
+        "f",
+        "nom",
+        "sg"
+      ],
+      [
+        "prastītavat / prastīmavat",
+        "pra + ktavatu",
+        "n",
+        "nom",
+        "du"
+      ],
+      [
+        "prastītavat / prastīmavat",
+        "pra + ktavatu",
+        "n",
+        "acc",
+        "du"
+      ],
+      [
+        "prastītavat / prastīmavat",
+        "pra + ktavatu",
+        "n",
+        "voc",
+        "du"
+      ]
+    ]
+  },
+  "source_comparison": "The two roots get no second nominal position count for identical prefix data. These are written context-conditioned forms and comparisons; they do not assume general corpus attestation of the whole grid."
+}
