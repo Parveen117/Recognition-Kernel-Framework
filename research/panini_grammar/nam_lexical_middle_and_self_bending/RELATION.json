@@ -1,0 +1,110 @@
+{
+  "source_conditioned_profiles": {
+    "pra_nam_A_lexical": {
+      "role": "worshipper",
+      "prefix": "pra",
+      "authority": "MW L131079 gives P and Ā; Bhāgavata 10.64.42 attests 1sg Ā with accusative viprān. Apte L22272 labels the lemma P."
+    },
+    "pari_nam_A_lexical": {
+      "role": "subject undergoing change, ripening, or turning aside as appropriate to the source",
+      "prefix": "pari",
+      "authority": "MW L117520 and Apte L20195 list both padas; Apte adduces pariṇamate in a transformation context."
+    },
+    "nam_karmakartari_rod": {
+      "role": "the rod which would be bent is itself presented as performing the change",
+      "subject_by_number": [
+        "daṇḍaḥ",
+        "daṇḍau",
+        "daṇḍāḥ"
+      ],
+      "authority": "Kāśikā 3.1.87 and 3.1.89; yak/ciṇ blocked for nam in this construction."
+    },
+    "nam_karmani_rod": {
+      "role": "the rod is the expressed patient of an external agent’s bending",
+      "subject_by_number": [
+        "daṇḍaḥ",
+        "daṇḍau",
+        "daṇḍāḥ"
+      ],
+      "authority": "1.3.13, 3.1.67 and 3.1.66. Named-root exclusion of 3.1.89 belongs to karmakartari."
+    }
+  },
+  "matched_unprefixed_rod_frames": {
+    "lat 3sg": {
+      "nam_karmakartari_rod": "namate",
+      "nam_karmani_rod": "namyate"
+    },
+    "lat 3du": {
+      "nam_karmakartari_rod": "namete",
+      "nam_karmani_rod": "namyete"
+    },
+    "lat 3pl": {
+      "nam_karmakartari_rod": "namante",
+      "nam_karmani_rod": "namyante"
+    },
+    "lot 3sg": {
+      "nam_karmakartari_rod": "namatām",
+      "nam_karmani_rod": "namyatām"
+    },
+    "lot 3du": {
+      "nam_karmakartari_rod": "nametām",
+      "nam_karmani_rod": "namyetām"
+    },
+    "lot 3pl": {
+      "nam_karmakartari_rod": "namantām",
+      "nam_karmani_rod": "namyantām"
+    },
+    "lang 3sg": {
+      "nam_karmakartari_rod": "anamata",
+      "nam_karmani_rod": "anamyata"
+    },
+    "lang 3du": {
+      "nam_karmakartari_rod": "anametām",
+      "nam_karmani_rod": "anamyetām"
+    },
+    "lang 3pl": {
+      "nam_karmakartari_rod": "anamanta",
+      "nam_karmani_rod": "anamyanta"
+    },
+    "vidhiling 3sg": {
+      "nam_karmakartari_rod": "nameta",
+      "nam_karmani_rod": "namyeta"
+    },
+    "vidhiling 3du": {
+      "nam_karmakartari_rod": "nameyātām",
+      "nam_karmani_rod": "namyeyātām"
+    },
+    "vidhiling 3pl": {
+      "nam_karmakartari_rod": "nameran",
+      "nam_karmani_rod": "namyeran"
+    },
+    "lung 3sg": {
+      "nam_karmakartari_rod": "anaṃsta",
+      "nam_karmani_rod": "anāmi"
+    },
+    "lung 3du": {
+      "nam_karmakartari_rod": "anaṃsātām",
+      "nam_karmani_rod": "anaṃsātām"
+    },
+    "lung 3pl": {
+      "nam_karmakartari_rod": "anaṃsata",
+      "nam_karmani_rod": "anaṃsata"
+    }
+  },
+  "coincident_cells": [
+    "lung 3du",
+    "lung 3pl"
+  ],
+  "role_diagnostics": {
+    "agentive_lexical_middle": "In the Bhāgavata, aham is the person bowing and viprān is the accusative plural designating the recipients. The root has a middle ending in a transitive worship construction in that verse. Converting this to a passive or self-bending rod analysis would lose both participants. The following namata addresses yūyam in P.",
+    "karmakartari": "In the commentarial example the event can be predicated of the rod itself, svayam eva. The ordinary transfer of patient-like operations under 3.1.87 is qualified: nam lacks yak and ciṇ under 3.1.89 but retains middle endings. The Kāśikā prints both namate and anaṃsta in full clauses. In the unsuffixed description a causal sense can be implicit, as explained in the Śabdakaustubha.",
+    "karmani": "The expression of a real patient takes yak in the sārvadhātuka present-domain and ciṇ in aorist 3sg. In the other third-person aorists the common sic-middle forms no longer distinguish the two histories."
+  },
+  "new_positions_ledger": {
+    "two_lexical_middle_profiles_four_lakaras": 72,
+    "two_unprefixed_roles_three_third_person_numbers_five_lakaras": 30,
+    "earlier_unprefixed_and_prefixed_active_forms": 0,
+    "verse_tokens_are_not_additional_grid_cells": true
+  },
+  "source_boundaries": "Lexical P/Ā headings are source-specific; the Bhāgavata line is evidence for its actual first singular. The grammatical schedules are licensed extensions within the indicated lexical register."
+}

@@ -1,0 +1,1033 @@
+{
+  "schema": "rkf.panini.pg221.state.v1",
+  "author": "Monty",
+  "date": "2026-11-12",
+  "baseline": {
+    "path": "research/panini_grammar/pra_pari_nam_nat_outer_lakaras/STATE.json",
+    "commit": "6a7cf391b1ace24a6a10e8570a01b3d83b34d610",
+    "git_blob_sha": "57a393f1509ab492938f9eed6f32dcd08464fd60",
+    "sha256": "e9f846877b2ccc1f601c9061a3404b8dfe79678efae007188aef4e94a1aba3ab",
+    "bytes": 111858
+  },
+  "finite_positions": 44297,
+  "new_positions": 102,
+  "new_position_readings": 102,
+  "new_written_table_readings": 102,
+  "retained_path_count": 102,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "praṇamate"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "praṇamete"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "praṇamante"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "praṇamase"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "praṇamethe"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "praṇamadhve"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "praṇame"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "praṇamāvahe"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "praṇamāmahe"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "praṇamatām"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "praṇametām"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "praṇamantām"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "praṇamasva"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "praṇamethām"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "praṇamadhvam"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "praṇamai"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "praṇamāvahai"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "praṇamāmahai"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "prāṇamata"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "prāṇametām"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "prāṇamanta"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "prāṇamathāḥ"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "prāṇamethām"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "prāṇamadhvam"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "prāṇame"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "prāṇamāvahi"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "prāṇamāmahi"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "praṇameta"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "praṇameyātām"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "praṇameran"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "praṇamethāḥ"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "praṇameyāthām"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "praṇamedhvam"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "praṇameya"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "praṇamevahi"
+        ]
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "praṇamemahi"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "pariṇamate"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "pariṇamete"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "pariṇamante"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "pariṇamase"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "pariṇamethe"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "pariṇamadhve"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "pariṇame"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "pariṇamāvahe"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "pariṇamāmahe"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "pariṇamatām"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "pariṇametām"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "pariṇamantām"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "pariṇamasva"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "pariṇamethām"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "pariṇamadhvam"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "pariṇamai"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "pariṇamāvahai"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "pariṇamāmahai"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "paryaṇamata"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "paryaṇametām"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "paryaṇamanta"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "paryaṇamathāḥ"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "paryaṇamethām"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "paryaṇamadhvam"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "paryaṇame"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "paryaṇamāvahi"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "paryaṇamāmahi"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "pariṇameta"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "pariṇameyātām"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "pariṇameran"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "pariṇamethāḥ"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "pariṇameyāthām"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "pariṇamedhvam"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "pariṇameya"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "pariṇamevahi"
+        ]
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "pariṇamemahi"
+        ]
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "namate"
+        ]
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "namete"
+        ]
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "namante"
+        ]
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "namatām"
+        ]
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "nametām"
+        ]
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "namantām"
+        ]
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "anamata"
+        ]
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "anametām"
+        ]
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "anamanta"
+        ]
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "nameta"
+        ]
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "nameyātām"
+        ]
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "nameran"
+        ]
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "anaṃsta"
+        ]
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "anaṃsātām"
+        ]
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "anaṃsata"
+        ]
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "namyate"
+        ]
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "namyete"
+        ]
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "namyante"
+        ]
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "namyatām"
+        ]
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "namyetām"
+        ]
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "namyantām"
+        ]
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "anamyata"
+        ]
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "anamyetām"
+        ]
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "anamyanta"
+        ]
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "namyeta"
+        ]
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "namyeyātām"
+        ]
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "namyeran"
+        ]
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "anāmi"
+        ]
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "anaṃsātām"
+        ]
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "anaṃsata"
+        ]
+      }
+    ],
+    "panels": [
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lat",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "pra_nam_A_lexical",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lat",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "pari_nam_A_lexical",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "lat",
+        "positions": 3,
+        "readings": 3
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "lot",
+        "positions": 3,
+        "readings": 3
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "lang",
+        "positions": 3,
+        "readings": 3
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "vidhiling",
+        "positions": 3,
+        "readings": 3
+      },
+      {
+        "profile": "nam_karmakartari_rod",
+        "lakara": "lung",
+        "positions": 3,
+        "readings": 3
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "lat",
+        "positions": 3,
+        "readings": 3
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "lot",
+        "positions": 3,
+        "readings": 3
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "lang",
+        "positions": 3,
+        "readings": 3
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "vidhiling",
+        "positions": 3,
+        "readings": 3
+      },
+      {
+        "profile": "nam_karmani_rod",
+        "lakara": "lung",
+        "positions": 3,
+        "readings": 3
+      }
+    ],
+    "complete_nine_slot_paradigms": 8
+  },
+  "contextual_profiles": {
+    "pra_nam_A_lexical": {
+      "role": "worshipper",
+      "prefix": "pra",
+      "authority": "MW L131079 gives P and Ā; Bhāgavata 10.64.42 attests 1sg Ā with accusative viprān. Apte L22272 labels the lemma P."
+    },
+    "pari_nam_A_lexical": {
+      "role": "subject undergoing change, ripening, or turning aside as appropriate to the source",
+      "prefix": "pari",
+      "authority": "MW L117520 and Apte L20195 list both padas; Apte adduces pariṇamate in a transformation context."
+    },
+    "nam_karmakartari_rod": {
+      "role": "the rod which would be bent is itself presented as performing the change",
+      "subject_by_number": [
+        "daṇḍaḥ",
+        "daṇḍau",
+        "daṇḍāḥ"
+      ],
+      "authority": "Kāśikā 3.1.87 and 3.1.89; yak/ciṇ blocked for nam in this construction."
+    },
+    "nam_karmani_rod": {
+      "role": "the rod is the expressed patient of an external agent’s bending",
+      "subject_by_number": [
+        "daṇḍaḥ",
+        "daṇḍau",
+        "daṇḍāḥ"
+      ],
+      "authority": "1.3.13, 3.1.67 and 3.1.66. Named-root exclusion of 3.1.89 belongs to karmakartari."
+    }
+  },
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "Compare Ṛgvedic √nam with the classical middle, present, perfect, causal, intensive and subjunctive. Extend patient/impersonal work to the other PG206 senses.",
+    "Four literal Uṇādi fields and the separate 5.56 marker question."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Read the Bhāgavata clause and both dictionary pada labels, checked the fifteen ordinary passive slots and the two exactly coincident third-person aorists under the two rod constructions."
+  },
+  "new_lexical_middle_positions": 72,
+  "new_rod_positions": 30,
+  "ordinary_passive_comparator_cells": 15,
+  "open_fields": 4
+}

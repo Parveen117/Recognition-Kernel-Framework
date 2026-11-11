@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG221 — The worshipper, the self-bending rod and the ordinary passive.** [Packet](nam_lexical_middle_and_self_bending/README.md). 102 positions, 102 readings and 102 paths. Cumulative **44,297**.
+
 **PG220 — Prefixed perfects and the two readings of the elephant’s aorist.** [Packet](pra_pari_nam_nat_outer_lakaras/README.md). 540 positions, 734 readings and 734 paths. Cumulative **44,195**.
 
 **PG219 — Pra and pari distinguish the teaching initials of nam and naṭ.** [Packet](pra_pari_nam_nat_present_system/README.md). 360 positions, 360 readings and 360 paths. Cumulative **43,655**.
