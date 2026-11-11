@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG253 — Giving and placing after pra or pari plus ni.** [Packet](ordered_ni_ghu_donation_and_placement/README.md). 288 positions, 296 readings and 296 paths. Cumulative **46,718**.
+
 **PG252 — The dental well and the retroflex ritual pit.** [Packet](dental_and_retroflex_wells_in_three_vedic_sources/README.md). Zero new finite positions. Cumulative **46,430**.
 
 **PG251 — Three short-a extension words in the commentary and the Purāṇas.** [Packet](short_atac_bank_banyan_and_well/README.md). Zero new finite positions. Cumulative **46,430**.
