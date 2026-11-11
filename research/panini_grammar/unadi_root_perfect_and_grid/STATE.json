@@ -1,0 +1,3485 @@
+{
+  "schema": "rkf.panini.pg218.state.v1",
+  "author": "Monty",
+  "date": "2026-11-12",
+  "baseline": {
+    "path": "research/panini_grammar/unadi_root_aorist_constructions/STATE.json",
+    "commit": "ba20d630017bd569fe781d591a874ad59e65db23",
+    "git_blob_sha": "2564613f154bb9137d8869753f64bcd7e70099ff",
+    "sha256": "77bebc4def2455e616c4b58dc47498c91646203dd75c46ee2be533d94ead3061",
+    "bytes": 30821
+  },
+  "finite_positions": 43295,
+  "new_positions": 135,
+  "new_position_readings": 329,
+  "new_written_table_readings": 329,
+  "retained_path_count": 329,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "mamāha"
+        ],
+        "paths": [
+          {
+            "reading": "mamāha"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "mamāhatuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "mamāhatuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "mamāhuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "mamāhuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "mamāhitha"
+        ],
+        "paths": [
+          {
+            "reading": "mamāhitha"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "mamāhathuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "mamāhathuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "mamāha"
+        ],
+        "paths": [
+          {
+            "reading": "mamāha"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "mamāha"
+        ],
+        "paths": [
+          {
+            "reading": "mamāha"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "mamāhiva"
+        ],
+        "paths": [
+          {
+            "reading": "mamāhiva"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "mamāhima"
+        ],
+        "paths": [
+          {
+            "reading": "mamāhima"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "mamāhe"
+        ],
+        "paths": [
+          {
+            "reading": "mamāhe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "mamāhāte"
+        ],
+        "paths": [
+          {
+            "reading": "mamāhāte"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "mamāhire"
+        ],
+        "paths": [
+          {
+            "reading": "mamāhire"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "mamāhiṣe"
+        ],
+        "paths": [
+          {
+            "reading": "mamāhiṣe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "mamāhāthe"
+        ],
+        "paths": [
+          {
+            "reading": "mamāhāthe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "mamāhiḍhve",
+          "mamāhidhve"
+        ],
+        "paths": [
+          {
+            "reading": "mamāhiḍhve"
+          },
+          {
+            "reading": "mamāhidhve"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "mamāhe"
+        ],
+        "paths": [
+          {
+            "reading": "mamāhe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "mamāhivahe"
+        ],
+        "paths": [
+          {
+            "reading": "mamāhivahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "mamāhimahe"
+        ],
+        "paths": [
+          {
+            "reading": "mamāhimahe"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "mamāha"
+        ],
+        "paths": [
+          {
+            "reading": "mamāha"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "mehatuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "mehatuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "mehuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "mehuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "mehitha"
+        ],
+        "paths": [
+          {
+            "reading": "mehitha"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "mehathuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "mehathuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "meha"
+        ],
+        "paths": [
+          {
+            "reading": "meha"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "mamaha",
+          "mamāha"
+        ],
+        "paths": [
+          {
+            "reading": "mamaha"
+          },
+          {
+            "reading": "mamāha"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "mehiva"
+        ],
+        "paths": [
+          {
+            "reading": "mehiva"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "mehima"
+        ],
+        "paths": [
+          {
+            "reading": "mehima"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "mahayāñcakāra",
+          "mahayāṃcakāra",
+          "mahayāmāsa",
+          "mahayāmbabhūva",
+          "mahayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "mahayāñcakāra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "mahayāṃcakāra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "mahayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "mahayāñcakratuḥ",
+          "mahayāṃcakratuḥ",
+          "mahayāmāsatuḥ",
+          "mahayāmbabhūvatuḥ",
+          "mahayāṃbabhūvatuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "mahayāñcakratuḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "mahayāṃcakratuḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "mahayāmāsatuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāmbabhūvatuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāṃbabhūvatuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "mahayāñcakruḥ",
+          "mahayāṃcakruḥ",
+          "mahayāmāsuḥ",
+          "mahayāmbabhūvuḥ",
+          "mahayāṃbabhūvuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "mahayāñcakruḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "mahayāṃcakruḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "mahayāmāsuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāmbabhūvuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāṃbabhūvuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "mahayāñcakartha",
+          "mahayāṃcakartha",
+          "mahayāmāsitha",
+          "mahayāmbabhūvitha",
+          "mahayāṃbabhūvitha"
+        ],
+        "paths": [
+          {
+            "reading": "mahayāñcakartha",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "mahayāṃcakartha",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "mahayāmāsitha",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāmbabhūvitha",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāṃbabhūvitha",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "mahayāñcakrathuḥ",
+          "mahayāṃcakrathuḥ",
+          "mahayāmāsathuḥ",
+          "mahayāmbabhūvathuḥ",
+          "mahayāṃbabhūvathuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "mahayāñcakrathuḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "mahayāṃcakrathuḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "mahayāmāsathuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāmbabhūvathuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāṃbabhūvathuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "mahayāñcakra",
+          "mahayāṃcakra",
+          "mahayāmāsa",
+          "mahayāmbabhūva",
+          "mahayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "mahayāñcakra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "mahayāṃcakra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "mahayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "mahayāñcakara",
+          "mahayāṃcakara",
+          "mahayāñcakāra",
+          "mahayāṃcakāra",
+          "mahayāmāsa",
+          "mahayāmbabhūva",
+          "mahayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "mahayāñcakara",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "mahayāṃcakara",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "mahayāñcakāra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "mahayāṃcakāra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "mahayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "mahayāñcakṛva",
+          "mahayāṃcakṛva",
+          "mahayāmāsiva",
+          "mahayāmbabhūviva",
+          "mahayāṃbabhūviva"
+        ],
+        "paths": [
+          {
+            "reading": "mahayāñcakṛva",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "mahayāṃcakṛva",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "mahayāmāsiva",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāmbabhūviva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāṃbabhūviva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "mahayāñcakṛma",
+          "mahayāṃcakṛma",
+          "mahayāmāsima",
+          "mahayāmbabhūvima",
+          "mahayāṃbabhūvima"
+        ],
+        "paths": [
+          {
+            "reading": "mahayāñcakṛma",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "mahayāṃcakṛma",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "mahayāmāsima",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāmbabhūvima",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāṃbabhūvima",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "mahayāñcakre",
+          "mahayāṃcakre",
+          "mahayāmāsa",
+          "mahayāmbabhūva",
+          "mahayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "mahayāñcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "mahayāṃcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "mahayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "mahayāñcakrāte",
+          "mahayāṃcakrāte",
+          "mahayāmāsatuḥ",
+          "mahayāmbabhūvatuḥ",
+          "mahayāṃbabhūvatuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "mahayāñcakrāte",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "mahayāṃcakrāte",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "mahayāmāsatuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāmbabhūvatuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāṃbabhūvatuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "mahayāñcakrire",
+          "mahayāṃcakrire",
+          "mahayāmāsuḥ",
+          "mahayāmbabhūvuḥ",
+          "mahayāṃbabhūvuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "mahayāñcakrire",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "mahayāṃcakrire",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "mahayāmāsuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāmbabhūvuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāṃbabhūvuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "mahayāñcakṛṣe",
+          "mahayāṃcakṛṣe",
+          "mahayāmāsitha",
+          "mahayāmbabhūvitha",
+          "mahayāṃbabhūvitha"
+        ],
+        "paths": [
+          {
+            "reading": "mahayāñcakṛṣe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "mahayāṃcakṛṣe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "mahayāmāsitha",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāmbabhūvitha",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāṃbabhūvitha",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "mahayāñcakrāthe",
+          "mahayāṃcakrāthe",
+          "mahayāmāsathuḥ",
+          "mahayāmbabhūvathuḥ",
+          "mahayāṃbabhūvathuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "mahayāñcakrāthe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "mahayāṃcakrāthe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "mahayāmāsathuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāmbabhūvathuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāṃbabhūvathuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "mahayāñcakṛḍhve",
+          "mahayāṃcakṛḍhve",
+          "mahayāmāsa",
+          "mahayāmbabhūva",
+          "mahayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "mahayāñcakṛḍhve",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "mahayāṃcakṛḍhve",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "mahayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "mahayāñcakre",
+          "mahayāṃcakre",
+          "mahayāmāsa",
+          "mahayāmbabhūva",
+          "mahayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "mahayāñcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "mahayāṃcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "mahayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "mahayāñcakṛvahe",
+          "mahayāṃcakṛvahe",
+          "mahayāmāsiva",
+          "mahayāmbabhūviva",
+          "mahayāṃbabhūviva"
+        ],
+        "paths": [
+          {
+            "reading": "mahayāñcakṛvahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "mahayāṃcakṛvahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "mahayāmāsiva",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāmbabhūviva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāṃbabhūviva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "mahayāñcakṛmahe",
+          "mahayāṃcakṛmahe",
+          "mahayāmāsima",
+          "mahayāmbabhūvima",
+          "mahayāṃbabhūvima"
+        ],
+        "paths": [
+          {
+            "reading": "mahayāñcakṛmahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "mahayāṃcakṛmahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "mahayāmāsima",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāmbabhūvima",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "mahayāṃbabhūvima",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "sasāma"
+        ],
+        "paths": [
+          {
+            "reading": "sasāma"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "sematuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "sematuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "semuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "semuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "semitha"
+        ],
+        "paths": [
+          {
+            "reading": "semitha"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "semathuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "semathuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "sema"
+        ],
+        "paths": [
+          {
+            "reading": "sema"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "sasama",
+          "sasāma"
+        ],
+        "paths": [
+          {
+            "reading": "sasama"
+          },
+          {
+            "reading": "sasāma"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "semiva"
+        ],
+        "paths": [
+          {
+            "reading": "semiva"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "semima"
+        ],
+        "paths": [
+          {
+            "reading": "semima"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "sasāma"
+        ],
+        "paths": [
+          {
+            "reading": "sasāma"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "sematuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "sematuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "semuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "semuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "semitha"
+        ],
+        "paths": [
+          {
+            "reading": "semitha"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "semathuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "semathuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "sema"
+        ],
+        "paths": [
+          {
+            "reading": "sema"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "sasama",
+          "sasāma"
+        ],
+        "paths": [
+          {
+            "reading": "sasama"
+          },
+          {
+            "reading": "sasāma"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "semiva"
+        ],
+        "paths": [
+          {
+            "reading": "semiva"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "semima"
+        ],
+        "paths": [
+          {
+            "reading": "semima"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "tastyau"
+        ],
+        "paths": [
+          {
+            "reading": "tastyau"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "tastyatuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "tastyatuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "tastyuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "tastyuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "tastyātha",
+          "tastyitha"
+        ],
+        "paths": [
+          {
+            "reading": "tastyātha"
+          },
+          {
+            "reading": "tastyitha"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "tastyathuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "tastyathuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "tastya"
+        ],
+        "paths": [
+          {
+            "reading": "tastya"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "tastyau"
+        ],
+        "paths": [
+          {
+            "reading": "tastyau"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "tastyiva"
+        ],
+        "paths": [
+          {
+            "reading": "tastyiva"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "tastyima"
+        ],
+        "paths": [
+          {
+            "reading": "tastyima"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "tastyau"
+        ],
+        "paths": [
+          {
+            "reading": "tastyau"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "tastyatuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "tastyatuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "tastyuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "tastyuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "tastyātha",
+          "tastyitha"
+        ],
+        "paths": [
+          {
+            "reading": "tastyātha"
+          },
+          {
+            "reading": "tastyitha"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "tastyathuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "tastyathuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "tastya"
+        ],
+        "paths": [
+          {
+            "reading": "tastya"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "tastyau"
+        ],
+        "paths": [
+          {
+            "reading": "tastyau"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "tastyiva"
+        ],
+        "paths": [
+          {
+            "reading": "tastyiva"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "tastyima"
+        ],
+        "paths": [
+          {
+            "reading": "tastyima"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "nanāṭa"
+        ],
+        "paths": [
+          {
+            "reading": "nanāṭa"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "neṭatuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "neṭatuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "neṭuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "neṭuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "neṭitha"
+        ],
+        "paths": [
+          {
+            "reading": "neṭitha"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "neṭathuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "neṭathuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "neṭa"
+        ],
+        "paths": [
+          {
+            "reading": "neṭa"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "nanaṭa",
+          "nanāṭa"
+        ],
+        "paths": [
+          {
+            "reading": "nanaṭa"
+          },
+          {
+            "reading": "nanāṭa"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "neṭiva"
+        ],
+        "paths": [
+          {
+            "reading": "neṭiva"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "neṭima"
+        ],
+        "paths": [
+          {
+            "reading": "neṭima"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "nanāṭa"
+        ],
+        "paths": [
+          {
+            "reading": "nanāṭa"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "neṭatuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "neṭatuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "neṭuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "neṭuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "neṭitha"
+        ],
+        "paths": [
+          {
+            "reading": "neṭitha"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "neṭathuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "neṭathuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "neṭa"
+        ],
+        "paths": [
+          {
+            "reading": "neṭa"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "nanaṭa",
+          "nanāṭa"
+        ],
+        "paths": [
+          {
+            "reading": "nanaṭa"
+          },
+          {
+            "reading": "nanāṭa"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "neṭiva"
+        ],
+        "paths": [
+          {
+            "reading": "neṭiva"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "neṭima"
+        ],
+        "paths": [
+          {
+            "reading": "neṭima"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "nāṭayāñcakāra",
+          "nāṭayāṃcakāra",
+          "nāṭayāmāsa",
+          "nāṭayāmbabhūva",
+          "nāṭayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayāñcakāra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "nāṭayāṃcakāra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "nāṭayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "nāṭayāñcakratuḥ",
+          "nāṭayāṃcakratuḥ",
+          "nāṭayāmāsatuḥ",
+          "nāṭayāmbabhūvatuḥ",
+          "nāṭayāṃbabhūvatuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayāñcakratuḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "nāṭayāṃcakratuḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "nāṭayāmāsatuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāmbabhūvatuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāṃbabhūvatuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "nāṭayāñcakruḥ",
+          "nāṭayāṃcakruḥ",
+          "nāṭayāmāsuḥ",
+          "nāṭayāmbabhūvuḥ",
+          "nāṭayāṃbabhūvuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayāñcakruḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "nāṭayāṃcakruḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "nāṭayāmāsuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāmbabhūvuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāṃbabhūvuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "nāṭayāñcakartha",
+          "nāṭayāṃcakartha",
+          "nāṭayāmāsitha",
+          "nāṭayāmbabhūvitha",
+          "nāṭayāṃbabhūvitha"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayāñcakartha",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "nāṭayāṃcakartha",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "nāṭayāmāsitha",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāmbabhūvitha",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāṃbabhūvitha",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "nāṭayāñcakrathuḥ",
+          "nāṭayāṃcakrathuḥ",
+          "nāṭayāmāsathuḥ",
+          "nāṭayāmbabhūvathuḥ",
+          "nāṭayāṃbabhūvathuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayāñcakrathuḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "nāṭayāṃcakrathuḥ",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "nāṭayāmāsathuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāmbabhūvathuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāṃbabhūvathuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "nāṭayāñcakra",
+          "nāṭayāṃcakra",
+          "nāṭayāmāsa",
+          "nāṭayāmbabhūva",
+          "nāṭayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayāñcakra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "nāṭayāṃcakra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "nāṭayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "nāṭayāñcakara",
+          "nāṭayāṃcakara",
+          "nāṭayāñcakāra",
+          "nāṭayāṃcakāra",
+          "nāṭayāmāsa",
+          "nāṭayāmbabhūva",
+          "nāṭayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayāñcakara",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "nāṭayāṃcakara",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "nāṭayāñcakāra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "nāṭayāṃcakāra",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "nāṭayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "nāṭayāñcakṛva",
+          "nāṭayāṃcakṛva",
+          "nāṭayāmāsiva",
+          "nāṭayāmbabhūviva",
+          "nāṭayāṃbabhūviva"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayāñcakṛva",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "nāṭayāṃcakṛva",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "nāṭayāmāsiva",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāmbabhūviva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāṃbabhūviva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "nāṭayāñcakṛma",
+          "nāṭayāṃcakṛma",
+          "nāṭayāmāsima",
+          "nāṭayāmbabhūvima",
+          "nāṭayāṃbabhūvima"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayāñcakṛma",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "nāṭayāṃcakṛma",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "nāṭayāmāsima",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāmbabhūvima",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāṃbabhūvima",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "nāṭayāñcakre",
+          "nāṭayāṃcakre",
+          "nāṭayāmāsa",
+          "nāṭayāmbabhūva",
+          "nāṭayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayāñcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "nāṭayāṃcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "nāṭayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "nāṭayāñcakrāte",
+          "nāṭayāṃcakrāte",
+          "nāṭayāmāsatuḥ",
+          "nāṭayāmbabhūvatuḥ",
+          "nāṭayāṃbabhūvatuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayāñcakrāte",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "nāṭayāṃcakrāte",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "nāṭayāmāsatuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāmbabhūvatuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāṃbabhūvatuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "nāṭayāñcakrire",
+          "nāṭayāṃcakrire",
+          "nāṭayāmāsuḥ",
+          "nāṭayāmbabhūvuḥ",
+          "nāṭayāṃbabhūvuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayāñcakrire",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "nāṭayāṃcakrire",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "nāṭayāmāsuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāmbabhūvuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāṃbabhūvuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "nāṭayāñcakṛṣe",
+          "nāṭayāṃcakṛṣe",
+          "nāṭayāmāsitha",
+          "nāṭayāmbabhūvitha",
+          "nāṭayāṃbabhūvitha"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayāñcakṛṣe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "nāṭayāṃcakṛṣe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "nāṭayāmāsitha",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāmbabhūvitha",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāṃbabhūvitha",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "nāṭayāñcakrāthe",
+          "nāṭayāṃcakrāthe",
+          "nāṭayāmāsathuḥ",
+          "nāṭayāmbabhūvathuḥ",
+          "nāṭayāṃbabhūvathuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayāñcakrāthe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "nāṭayāṃcakrāthe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "nāṭayāmāsathuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāmbabhūvathuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāṃbabhūvathuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "nāṭayāñcakṛḍhve",
+          "nāṭayāṃcakṛḍhve",
+          "nāṭayāmāsa",
+          "nāṭayāmbabhūva",
+          "nāṭayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayāñcakṛḍhve",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "nāṭayāṃcakṛḍhve",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "nāṭayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "nāṭayāñcakre",
+          "nāṭayāṃcakre",
+          "nāṭayāmāsa",
+          "nāṭayāmbabhūva",
+          "nāṭayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayāñcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "nāṭayāṃcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "nāṭayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "nāṭayāñcakṛvahe",
+          "nāṭayāṃcakṛvahe",
+          "nāṭayāmāsiva",
+          "nāṭayāmbabhūviva",
+          "nāṭayāṃbabhūviva"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayāñcakṛvahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "nāṭayāṃcakṛvahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "nāṭayāmāsiva",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāmbabhūviva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāṃbabhūviva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "nāṭayāñcakṛmahe",
+          "nāṭayāṃcakṛmahe",
+          "nāṭayāmāsima",
+          "nāṭayāmbabhūvima",
+          "nāṭayāṃbabhūvima"
+        ],
+        "paths": [
+          {
+            "reading": "nāṭayāñcakṛmahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "nāṭayāṃcakṛmahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "nāṭayāmāsima",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāmbabhūvima",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "nāṭayāṃbabhūvima",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "nanāma"
+        ],
+        "paths": [
+          {
+            "reading": "nanāma"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "nematuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "nematuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "nemuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "nemuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "nanantha",
+          "nemitha"
+        ],
+        "paths": [
+          {
+            "reading": "nanantha"
+          },
+          {
+            "reading": "nemitha"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "nemathuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "nemathuḥ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "nema"
+        ],
+        "paths": [
+          {
+            "reading": "nema"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "nanama",
+          "nanāma"
+        ],
+        "paths": [
+          {
+            "reading": "nanama"
+          },
+          {
+            "reading": "nanāma"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "nemiva"
+        ],
+        "paths": [
+          {
+            "reading": "nemiva"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "nemima"
+        ],
+        "paths": [
+          {
+            "reading": "nemima"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "śāmayāñcakre",
+          "śāmayāṃcakre",
+          "śāmayāmāsa",
+          "śāmayāmbabhūva",
+          "śāmayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayāñcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "śāmayāṃcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "śāmayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "śāmayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "śāmayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "śāmayāñcakrāte",
+          "śāmayāṃcakrāte",
+          "śāmayāmāsatuḥ",
+          "śāmayāmbabhūvatuḥ",
+          "śāmayāṃbabhūvatuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayāñcakrāte",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "śāmayāṃcakrāte",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "śāmayāmāsatuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "śāmayāmbabhūvatuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "śāmayāṃbabhūvatuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "śāmayāñcakrire",
+          "śāmayāṃcakrire",
+          "śāmayāmāsuḥ",
+          "śāmayāmbabhūvuḥ",
+          "śāmayāṃbabhūvuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayāñcakrire",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "śāmayāṃcakrire",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "śāmayāmāsuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "śāmayāmbabhūvuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "śāmayāṃbabhūvuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "śāmayāñcakṛṣe",
+          "śāmayāṃcakṛṣe",
+          "śāmayāmāsitha",
+          "śāmayāmbabhūvitha",
+          "śāmayāṃbabhūvitha"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayāñcakṛṣe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "śāmayāṃcakṛṣe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "śāmayāmāsitha",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "śāmayāmbabhūvitha",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "śāmayāṃbabhūvitha",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "śāmayāñcakrāthe",
+          "śāmayāṃcakrāthe",
+          "śāmayāmāsathuḥ",
+          "śāmayāmbabhūvathuḥ",
+          "śāmayāṃbabhūvathuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayāñcakrāthe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "śāmayāṃcakrāthe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "śāmayāmāsathuḥ",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "śāmayāmbabhūvathuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "śāmayāṃbabhūvathuḥ",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "śāmayāñcakṛḍhve",
+          "śāmayāṃcakṛḍhve",
+          "śāmayāmāsa",
+          "śāmayāmbabhūva",
+          "śāmayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayāñcakṛḍhve",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "śāmayāṃcakṛḍhve",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "śāmayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "śāmayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "śāmayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "śāmayāñcakre",
+          "śāmayāṃcakre",
+          "śāmayāmāsa",
+          "śāmayāmbabhūva",
+          "śāmayāṃbabhūva"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayāñcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "śāmayāṃcakre",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "śāmayāmāsa",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "śāmayāmbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "śāmayāṃbabhūva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "śāmayāñcakṛvahe",
+          "śāmayāṃcakṛvahe",
+          "śāmayāmāsiva",
+          "śāmayāmbabhūviva",
+          "śāmayāṃbabhūviva"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayāñcakṛvahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "śāmayāṃcakṛvahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "śāmayāmāsiva",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "śāmayāmbabhūviva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "śāmayāṃbabhūviva",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "śāmayāñcakṛmahe",
+          "śāmayāṃcakṛmahe",
+          "śāmayāmāsima",
+          "śāmayāmbabhūvima",
+          "śāmayāṃbabhūvima"
+        ],
+        "paths": [
+          {
+            "reading": "śāmayāñcakṛmahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ñ"
+          },
+          {
+            "reading": "śāmayāṃcakṛmahe",
+            "auxiliary": "kṛ",
+            "auxiliary_pada": "A",
+            "nasal": "ṃ"
+          },
+          {
+            "reading": "śāmayāmāsima",
+            "auxiliary": "as",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "śāmayāmbabhūvima",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "m"
+          },
+          {
+            "reading": "śāmayāṃbabhūvima",
+            "auxiliary": "bhū",
+            "auxiliary_pada": "P",
+            "nasal": "ṃ"
+          }
+        ]
+      }
+    ],
+    "panels": [
+      {
+        "profile": "DP_01_1042_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "DP_01_1042_A",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "DP_01_0831_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "DP_10_0406_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 47
+      },
+      {
+        "profile": "DP_10_0406_A",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 45
+      },
+      {
+        "profile": "DP_01_0963_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "DP_04_0132_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "DP_01_1058_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "DP_01_1059_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "DP_01_0347_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "DP_01_0890_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "DP_10_0018_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 47
+      },
+      {
+        "profile": "DP_10_0018_A",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 45
+      },
+      {
+        "profile": "DP_01_1136_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 11
+      },
+      {
+        "profile": "DP_10_0218_A",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 45
+      }
+    ],
+    "complete_nine_slot_paradigms": 15
+  },
+  "contextual_profiles": {
+    "DP_01_1042_P": {
+      "address": "01.1042",
+      "pada": "P",
+      "construction": "simple reduplicated perfect",
+      "factor": "mamāha"
+    },
+    "DP_01_1042_A": {
+      "address": "01.1042",
+      "pada": "A",
+      "construction": "simple reduplicated perfect",
+      "factor": "mamāhe"
+    },
+    "DP_01_0831_P": {
+      "address": "01.0831",
+      "pada": "P",
+      "construction": "simple reduplicated perfect",
+      "factor": "mamāha"
+    },
+    "DP_10_0406_P": {
+      "address": "10.0406",
+      "pada": "P",
+      "construction": "ām with kṛ/as/bhū",
+      "factor": "mahay"
+    },
+    "DP_10_0406_A": {
+      "address": "10.0406",
+      "pada": "A",
+      "construction": "ām with kṛ/as/bhū",
+      "factor": "mahay"
+    },
+    "DP_01_0963_P": {
+      "address": "01.0963",
+      "pada": "P",
+      "construction": "simple reduplicated perfect",
+      "factor": "sasāma"
+    },
+    "DP_04_0132_P": {
+      "address": "04.0132",
+      "pada": "P",
+      "construction": "simple reduplicated perfect",
+      "factor": "sasāma"
+    },
+    "DP_01_1058_P": {
+      "address": "01.1058",
+      "pada": "P",
+      "construction": "simple reduplicated perfect",
+      "factor": "tastyau"
+    },
+    "DP_01_1059_P": {
+      "address": "01.1059",
+      "pada": "P",
+      "construction": "simple reduplicated perfect",
+      "factor": "tastyau"
+    },
+    "DP_01_0347_P": {
+      "address": "01.0347",
+      "pada": "P",
+      "construction": "simple reduplicated perfect",
+      "factor": "nanāṭa"
+    },
+    "DP_01_0890_P": {
+      "address": "01.0890",
+      "pada": "P",
+      "construction": "simple reduplicated perfect",
+      "factor": "nanāṭa"
+    },
+    "DP_10_0018_P": {
+      "address": "10.0018",
+      "pada": "P",
+      "construction": "ām with kṛ/as/bhū",
+      "factor": "nāṭay"
+    },
+    "DP_10_0018_A": {
+      "address": "10.0018",
+      "pada": "A",
+      "construction": "ām with kṛ/as/bhū",
+      "factor": "nāṭay"
+    },
+    "DP_01_1136_P": {
+      "address": "01.1136",
+      "pada": "P",
+      "construction": "simple reduplicated perfect",
+      "factor": "nanāma"
+    },
+    "DP_10_0218_A": {
+      "address": "10.0218",
+      "pada": "A",
+      "construction": "ām with kṛ/as/bhū",
+      "factor": "śāmay"
+    }
+  },
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "Extend the prefix-sensitive n of ṇopadeśa nam and the two naṭ entries against dental curādi naṭ; preserve the distinction between verb and lexical compound.",
+    "Four literal 4.105 fields and the independent marker purpose at 5.56 remain open."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Independently compared eighteen concordance cells; checked all 135 perfect slots and the exact Cartesian membership of the 1,350 positions across five source packets."
+  },
+  "declared_basic_grid_done": 1350,
+  "declared_basic_grid_total": 1350,
+  "comparison": {
+    "written": 329,
+    "archive": 237,
+    "additional_anusvara": 92,
+    "simple_positions": 90,
+    "periphrastic_positions": 45
+  },
+  "grid_readings": 1585
+}

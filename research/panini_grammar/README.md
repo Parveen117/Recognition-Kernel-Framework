@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG218 — Perfect reduplication and closure of the fifteen-profile grid.** [Packet](unadi_root_perfect_and_grid/README.md). 135 positions, 329 readings and 329 paths. Cumulative **43,295**.
+
 **PG217 — Four aorist constructions of the twelve lexical entries.** [Packet](unadi_root_aorist_constructions/README.md). 135 positions, 154 readings and 154 paths. Cumulative **43,160**.
 
 **PG216 — Adjacent and intervening prefixes in the past participles of styai.** [Packet](styai_prefixes_and_nistha/README.md). Zero new finite positions. Cumulative **43,025**.
