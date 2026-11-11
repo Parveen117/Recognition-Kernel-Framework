@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG272 — Shared third-person futures and four middle blessing clusters.** [Packet](four_ordered_middle_futures_and_blessing_clusters/README.md). 288 positions, 288 readings and 288 paths. Cumulative **49,886**.
+
 **PG271 — Four middle presents, the smearing consonants and optional u.** [Packet](four_ordered_middles_and_their_present_grades/README.md). 288 positions, 296 readings and 296 paths. Cumulative **49,598**.
 
 **PG270 — Ninety-nine ramparts and one Vedic accusative plural.** [Packet](rigvedic_ramparts_and_the_embodied_singular/README.md). Zero new finite positions. Cumulative **49,310**.
