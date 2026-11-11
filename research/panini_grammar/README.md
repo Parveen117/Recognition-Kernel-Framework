@@ -1408,6 +1408,8 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG148 — The decision behind the disputed desiderative perfects.** [Packet](desiderative_perfect_policy/README.md). A pinned source-code comparison distinguishes local primary ending ownership from a derivation-level pada tag. Zero new finite positions. Cumulative **32,783**.
+
 **PG147 — Agreement and the mocking manya construction.** [Packet](prahasa_agreement/README.md). Three direct clause witnesses and the three semantic number classes expose a non-injective person readout. Zero new finite positions. Cumulative **32,783**.
 
 **PG146 — Action and experience across the six outer lakāras:** [packet](kyang_action_outer/README.md) adds
