@@ -1,0 +1,49 @@
+{
+  "new_profile": {
+    "profile": "VI_BHANDA",
+    "prefix": "vi",
+    "nominal": "bhāṇḍa",
+    "source_form": "विभाण्डयते",
+    "written_stem_factors": [
+      "vibhāṇḍay"
+    ],
+    "event_ids": [
+      "divide_goods"
+    ],
+    "section": "prakriyasarvasvam",
+    "reported_authority": "Śṛṅgāra as cited by Prakriyāsarvasva",
+    "affix": "ṇiṅ",
+    "pada": "A"
+  },
+  "added_source_analyses": [
+    {
+      "profile": "UD_PUCCHA",
+      "source_clause": "utpucchayate gām",
+      "interpretation": "cause the cow to raise its tail",
+      "extra_participant": "cow as affected participant of an implicitly causative event",
+      "authority": "Prakriyāsarvasva",
+      "outer_affixes_appended": 0
+    },
+    {
+      "profile": "VI_PUCCHA",
+      "source_clause": "vipucchayate śvā",
+      "interpretation": "the dog lowers its tail",
+      "extra_participant": null,
+      "authority": "Prakriyāsarvasva",
+      "outer_affixes_appended": 0
+    }
+  ],
+  "overlays_on_existing_cells": {
+    "UD_PUCCHA": {
+      "previous_positions": 90,
+      "previous_position_readings": 127,
+      "additional_guard": "cause the cow to raise its tail"
+    },
+    "VI_PUCCHA": {
+      "previous_positions": 90,
+      "previous_position_readings": 127,
+      "additional_guard": "the dog lowers its tail"
+    }
+  },
+  "admission": "edition-scoped; no unrestricted prefix substitution"
+}

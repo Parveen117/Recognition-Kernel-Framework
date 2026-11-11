@@ -1,0 +1,1945 @@
+{
+  "schema": "rkf.panini.pg154.state.v1",
+  "author": "Monty",
+  "date": "2026-11-11",
+  "baseline": {
+    "path": "research/panini_grammar/prefixed_ning_outer/STATE.json",
+    "commit": "1ccb41d3cd337e7c8cb6fa9e84b4a4c3a66cc725",
+    "git_blob_sha": "12079f7b5f421bf2a15d9fe253ed8bfd2276fc4a",
+    "sha256": "5042d447d400210a40deca4c48c6e855df9e943c20ea5c9319027e9500a46ebd",
+    "bytes": 221930
+  },
+  "finite_positions": 33773,
+  "new_positions": 90,
+  "new_position_readings": 127,
+  "new_written_table_readings": 127,
+  "retained_path_count": 127,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayiṣyate"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayiṣyate",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrt",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayiṣyete"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayiṣyete",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayiṣyante"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayiṣyante",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayiṣyase"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayiṣyase",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrt",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayiṣyethe"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayiṣyethe",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayiṣyadhve"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayiṣyadhve",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayiṣye",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrt",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayiṣyāvahe"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayiṣyāvahe",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayiṣyāmahe"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayiṣyāmahe",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lut",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayitā"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayitā",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "tāsi"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lut",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayitārau"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayitārau",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "tāsi"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lut",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayitāraḥ"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayitāraḥ",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "tāsi"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lut",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayitāse"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayitāse",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "tāsi"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lut",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayitāsāthe"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayitāsāthe",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "tāsi"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lut",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayitādhve"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayitādhve",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "tāsi"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lut",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayitāhe"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayitāhe",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "tāsi"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lut",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayitāsvahe"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayitāsvahe",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "tāsi"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lut",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayitāsmahe"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayitāsmahe",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "tāsi"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vyabhāṇḍayiṣyata"
+        ],
+        "paths": [
+          {
+            "reading": "vyabhāṇḍayiṣyata",
+            "primary_factor": "vyabhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrng",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "vyabhāṇḍayiṣyetām"
+        ],
+        "paths": [
+          {
+            "reading": "vyabhāṇḍayiṣyetām",
+            "primary_factor": "vyabhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vyabhāṇḍayiṣyanta"
+        ],
+        "paths": [
+          {
+            "reading": "vyabhāṇḍayiṣyanta",
+            "primary_factor": "vyabhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vyabhāṇḍayiṣyathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "vyabhāṇḍayiṣyathāḥ",
+            "primary_factor": "vyabhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrng",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "vyabhāṇḍayiṣyethām"
+        ],
+        "paths": [
+          {
+            "reading": "vyabhāṇḍayiṣyethām",
+            "primary_factor": "vyabhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vyabhāṇḍayiṣyadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "vyabhāṇḍayiṣyadhvam",
+            "primary_factor": "vyabhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vyabhāṇḍayiṣye"
+        ],
+        "paths": [
+          {
+            "reading": "vyabhāṇḍayiṣye",
+            "primary_factor": "vyabhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrng",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "vyabhāṇḍayiṣyāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "vyabhāṇḍayiṣyāvahi",
+            "primary_factor": "vyabhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vyabhāṇḍayiṣyāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "vyabhāṇḍayiṣyāmahi",
+            "primary_factor": "vyabhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayiṣīṣṭa"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayiṣīṣṭa",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sīyuṭ"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayiṣīyāstām"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayiṣīyāstām",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sīyuṭ"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayiṣīran"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayiṣīran",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sīyuṭ"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayiṣīṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayiṣīṣṭhāḥ",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sīyuṭ"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayiṣīyāsthām"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayiṣīyāsthām",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sīyuṭ"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayiṣīdhvam",
+          "vibhāṇḍayiṣīḍhvam"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayiṣīdhvam",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sīyuṭ"
+          },
+          {
+            "reading": "vibhāṇḍayiṣīḍhvam",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sīyuṭ_8_3_79"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayiṣīya"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayiṣīya",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sīyuṭ"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayiṣīvahi"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayiṣīvahi",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sīyuṭ"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayiṣīmahi"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayiṣīmahi",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "sīyuṭ"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lit",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayāṃcakre",
+          "vibhāṇḍayāñcakre",
+          "vibhāṇḍayāṃbabhūva",
+          "vibhāṇḍayāmbabhūva",
+          "vibhāṇḍayāmāsa"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayāṃcakre",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "K_ANUSVARA"
+          },
+          {
+            "reading": "vibhāṇḍayāñcakre",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "K_HOMORGANIC"
+          },
+          {
+            "reading": "vibhāṇḍayāṃbabhūva",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "BHU_ANUSVARA"
+          },
+          {
+            "reading": "vibhāṇḍayāmbabhūva",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "BHU_HOMORGANIC"
+          },
+          {
+            "reading": "vibhāṇḍayāmāsa",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "AS_UNCHANGED_M"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lit",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayāṃcakrāte",
+          "vibhāṇḍayāñcakrāte",
+          "vibhāṇḍayāṃbabhūvatuḥ",
+          "vibhāṇḍayāmbabhūvatuḥ",
+          "vibhāṇḍayāmāsatuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayāṃcakrāte",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "K_ANUSVARA"
+          },
+          {
+            "reading": "vibhāṇḍayāñcakrāte",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "K_HOMORGANIC"
+          },
+          {
+            "reading": "vibhāṇḍayāṃbabhūvatuḥ",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "BHU_ANUSVARA"
+          },
+          {
+            "reading": "vibhāṇḍayāmbabhūvatuḥ",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "BHU_HOMORGANIC"
+          },
+          {
+            "reading": "vibhāṇḍayāmāsatuḥ",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "AS_UNCHANGED_M"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lit",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayāṃcakrire",
+          "vibhāṇḍayāñcakrire",
+          "vibhāṇḍayāṃbabhūvuḥ",
+          "vibhāṇḍayāmbabhūvuḥ",
+          "vibhāṇḍayāmāsuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayāṃcakrire",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "K_ANUSVARA"
+          },
+          {
+            "reading": "vibhāṇḍayāñcakrire",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "K_HOMORGANIC"
+          },
+          {
+            "reading": "vibhāṇḍayāṃbabhūvuḥ",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "BHU_ANUSVARA"
+          },
+          {
+            "reading": "vibhāṇḍayāmbabhūvuḥ",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "BHU_HOMORGANIC"
+          },
+          {
+            "reading": "vibhāṇḍayāmāsuḥ",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "AS_UNCHANGED_M"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lit",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayāṃcakṛṣe",
+          "vibhāṇḍayāñcakṛṣe",
+          "vibhāṇḍayāṃbabhūvitha",
+          "vibhāṇḍayāmbabhūvitha",
+          "vibhāṇḍayāmāsitha"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayāṃcakṛṣe",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "K_ANUSVARA"
+          },
+          {
+            "reading": "vibhāṇḍayāñcakṛṣe",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "K_HOMORGANIC"
+          },
+          {
+            "reading": "vibhāṇḍayāṃbabhūvitha",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "BHU_ANUSVARA"
+          },
+          {
+            "reading": "vibhāṇḍayāmbabhūvitha",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "BHU_HOMORGANIC"
+          },
+          {
+            "reading": "vibhāṇḍayāmāsitha",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "AS_UNCHANGED_M"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lit",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayāṃcakrāthe",
+          "vibhāṇḍayāñcakrāthe",
+          "vibhāṇḍayāṃbabhūvathuḥ",
+          "vibhāṇḍayāmbabhūvathuḥ",
+          "vibhāṇḍayāmāsathuḥ"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayāṃcakrāthe",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "K_ANUSVARA"
+          },
+          {
+            "reading": "vibhāṇḍayāñcakrāthe",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "K_HOMORGANIC"
+          },
+          {
+            "reading": "vibhāṇḍayāṃbabhūvathuḥ",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "BHU_ANUSVARA"
+          },
+          {
+            "reading": "vibhāṇḍayāmbabhūvathuḥ",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "BHU_HOMORGANIC"
+          },
+          {
+            "reading": "vibhāṇḍayāmāsathuḥ",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "AS_UNCHANGED_M"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lit",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayāṃcakṛḍhve",
+          "vibhāṇḍayāñcakṛḍhve",
+          "vibhāṇḍayāṃbabhūva",
+          "vibhāṇḍayāmbabhūva",
+          "vibhāṇḍayāmāsa"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayāṃcakṛḍhve",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "K_ANUSVARA"
+          },
+          {
+            "reading": "vibhāṇḍayāñcakṛḍhve",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "K_HOMORGANIC"
+          },
+          {
+            "reading": "vibhāṇḍayāṃbabhūva",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "BHU_ANUSVARA"
+          },
+          {
+            "reading": "vibhāṇḍayāmbabhūva",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "BHU_HOMORGANIC"
+          },
+          {
+            "reading": "vibhāṇḍayāmāsa",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "AS_UNCHANGED_M"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lit",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayāṃcakre",
+          "vibhāṇḍayāñcakre",
+          "vibhāṇḍayāṃbabhūva",
+          "vibhāṇḍayāmbabhūva",
+          "vibhāṇḍayāmāsa"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayāṃcakre",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "K_ANUSVARA"
+          },
+          {
+            "reading": "vibhāṇḍayāñcakre",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "K_HOMORGANIC"
+          },
+          {
+            "reading": "vibhāṇḍayāṃbabhūva",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "BHU_ANUSVARA"
+          },
+          {
+            "reading": "vibhāṇḍayāmbabhūva",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "BHU_HOMORGANIC"
+          },
+          {
+            "reading": "vibhāṇḍayāmāsa",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "AS_UNCHANGED_M"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lit",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayāṃcakṛvahe",
+          "vibhāṇḍayāñcakṛvahe",
+          "vibhāṇḍayāṃbabhūviva",
+          "vibhāṇḍayāmbabhūviva",
+          "vibhāṇḍayāmāsiva"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayāṃcakṛvahe",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "K_ANUSVARA"
+          },
+          {
+            "reading": "vibhāṇḍayāñcakṛvahe",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "K_HOMORGANIC"
+          },
+          {
+            "reading": "vibhāṇḍayāṃbabhūviva",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "BHU_ANUSVARA"
+          },
+          {
+            "reading": "vibhāṇḍayāmbabhūviva",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "BHU_HOMORGANIC"
+          },
+          {
+            "reading": "vibhāṇḍayāmāsiva",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "AS_UNCHANGED_M"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lit",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayāṃcakṛmahe",
+          "vibhāṇḍayāñcakṛmahe",
+          "vibhāṇḍayāṃbabhūvima",
+          "vibhāṇḍayāmbabhūvima",
+          "vibhāṇḍayāmāsima"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayāṃcakṛmahe",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "K_ANUSVARA"
+          },
+          {
+            "reading": "vibhāṇḍayāñcakṛmahe",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "K_HOMORGANIC"
+          },
+          {
+            "reading": "vibhāṇḍayāṃbabhūvima",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "BHU_ANUSVARA"
+          },
+          {
+            "reading": "vibhāṇḍayāmbabhūvima",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "BHU_HOMORGANIC"
+          },
+          {
+            "reading": "vibhāṇḍayāmāsima",
+            "primary_factor": "vibhāṇḍay",
+            "source_event": "divide_goods",
+            "realization": "AS_UNCHANGED_M"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lat",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayate"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayate",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "ate"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lat",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayete"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayete",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "ete"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lat",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayante"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayante",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "ante"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lat",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayase"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayase",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "ase"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lat",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayethe"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayethe",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "ethe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lat",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayadhve"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayadhve",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "adhve"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lat",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍaye"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍaye",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "e"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lat",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayāvahe"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayāvahe",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "āvahe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lat",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayāmahe"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayāmahe",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "āmahe"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lot",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayatām"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayatām",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "atām"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lot",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayetām"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayetām",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "etām"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lot",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayantām"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayantām",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "antām"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lot",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayasva"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayasva",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "asva"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lot",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayethām"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayethām",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "ethām"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lot",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayadhvam",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "adhvam"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lot",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayai"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayai",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "ai"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lot",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayāvahai"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayāvahai",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "āvahai"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lot",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayāmahai"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayāmahai",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "āmahai"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayeta"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayeta",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "eta"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayeyātām"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayeyātām",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "eyātām"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayeran"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayeran",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "eran"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayethāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayethāḥ",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "ethāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayeyāthām"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayeyāthām",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "eyāthām"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayedhvam"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayedhvam",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "edhvam"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayeya"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayeya",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "eya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayevahi"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayevahi",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "evahi"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vibhāṇḍayemahi"
+        ],
+        "paths": [
+          {
+            "reading": "vibhāṇḍayemahi",
+            "source_event": "divide_goods",
+            "primary_factor": "vibhāṇḍay",
+            "ending": "emahi"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lang",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vyabhāṇḍayata"
+        ],
+        "paths": [
+          {
+            "reading": "vyabhāṇḍayata",
+            "source_event": "divide_goods",
+            "primary_factor": "vyabhāṇḍay",
+            "ending": "ata"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lang",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "vyabhāṇḍayetām"
+        ],
+        "paths": [
+          {
+            "reading": "vyabhāṇḍayetām",
+            "source_event": "divide_goods",
+            "primary_factor": "vyabhāṇḍay",
+            "ending": "etām"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lang",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vyabhāṇḍayanta"
+        ],
+        "paths": [
+          {
+            "reading": "vyabhāṇḍayanta",
+            "source_event": "divide_goods",
+            "primary_factor": "vyabhāṇḍay",
+            "ending": "anta"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lang",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vyabhāṇḍayathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "vyabhāṇḍayathāḥ",
+            "source_event": "divide_goods",
+            "primary_factor": "vyabhāṇḍay",
+            "ending": "athāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lang",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "vyabhāṇḍayethām"
+        ],
+        "paths": [
+          {
+            "reading": "vyabhāṇḍayethām",
+            "source_event": "divide_goods",
+            "primary_factor": "vyabhāṇḍay",
+            "ending": "ethām"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lang",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vyabhāṇḍayadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "vyabhāṇḍayadhvam",
+            "source_event": "divide_goods",
+            "primary_factor": "vyabhāṇḍay",
+            "ending": "adhvam"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lang",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vyabhāṇḍaye"
+        ],
+        "paths": [
+          {
+            "reading": "vyabhāṇḍaye",
+            "source_event": "divide_goods",
+            "primary_factor": "vyabhāṇḍay",
+            "ending": "e"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lang",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "vyabhāṇḍayāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "vyabhāṇḍayāvahi",
+            "source_event": "divide_goods",
+            "primary_factor": "vyabhāṇḍay",
+            "ending": "āvahi"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lang",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vyabhāṇḍayāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "vyabhāṇḍayāmahi",
+            "source_event": "divide_goods",
+            "primary_factor": "vyabhāṇḍay",
+            "ending": "āmahi"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vyababhāṇḍata"
+        ],
+        "paths": [
+          {
+            "reading": "vyababhāṇḍata",
+            "source_event": "divide_goods",
+            "primary_factor": "vyababhāṇḍ",
+            "ending": "ata"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "vyababhāṇḍetām"
+        ],
+        "paths": [
+          {
+            "reading": "vyababhāṇḍetām",
+            "source_event": "divide_goods",
+            "primary_factor": "vyababhāṇḍ",
+            "ending": "etām"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vyababhāṇḍanta"
+        ],
+        "paths": [
+          {
+            "reading": "vyababhāṇḍanta",
+            "source_event": "divide_goods",
+            "primary_factor": "vyababhāṇḍ",
+            "ending": "anta"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vyababhāṇḍathāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "vyababhāṇḍathāḥ",
+            "source_event": "divide_goods",
+            "primary_factor": "vyababhāṇḍ",
+            "ending": "athāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "vyababhāṇḍethām"
+        ],
+        "paths": [
+          {
+            "reading": "vyababhāṇḍethām",
+            "source_event": "divide_goods",
+            "primary_factor": "vyababhāṇḍ",
+            "ending": "ethām"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vyababhāṇḍadhvam"
+        ],
+        "paths": [
+          {
+            "reading": "vyababhāṇḍadhvam",
+            "source_event": "divide_goods",
+            "primary_factor": "vyababhāṇḍ",
+            "ending": "adhvam"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "vyababhāṇḍe"
+        ],
+        "paths": [
+          {
+            "reading": "vyababhāṇḍe",
+            "source_event": "divide_goods",
+            "primary_factor": "vyababhāṇḍ",
+            "ending": "e"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "vyababhāṇḍāvahi"
+        ],
+        "paths": [
+          {
+            "reading": "vyababhāṇḍāvahi",
+            "source_event": "divide_goods",
+            "primary_factor": "vyababhāṇḍ",
+            "ending": "āvahi"
+          }
+        ]
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "vyababhāṇḍāmahi"
+        ],
+        "paths": [
+          {
+            "reading": "vyababhāṇḍāmahi",
+            "source_event": "divide_goods",
+            "primary_factor": "vyababhāṇḍ",
+            "ending": "āmahi"
+          }
+        ]
+      }
+    ],
+    "panels": [
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lut",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "ashirling",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 45
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lat",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "VI_BHANDA",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 9
+      }
+    ],
+    "complete_nine_slot_paradigms": 10
+  },
+  "contextual_profiles": {
+    "VI_BHANDA": {
+      "profile": "VI_BHANDA",
+      "prefix": "vi",
+      "nominal": "bhāṇḍa",
+      "source_form": "विभाण्डयते",
+      "written_stem_factors": [
+        "vibhāṇḍay"
+      ],
+      "event_ids": [
+        "divide_goods"
+      ],
+      "section": "prakriyasarvasvam",
+      "reported_authority": "Śṛṅgāra as cited by Prakriyāsarvasva",
+      "affix": "ṇiṅ",
+      "pada": "A"
+    }
+  },
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "Traditional same-word applicability in the 45 A perfects remains unresolved.",
+    "54 PG131 outer udaka requests retain lower-bound status.",
+    "Other orthographies and lexical senses need their own source scope."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Collated the three literal source anchors, exact earlier keys, and 90 new VI_BHANDA word cells against the written tables."
+  },
+  "previous_positions_with_additional_source_history": 180,
+  "previous_position_readings_with_additional_source_history": 254
+}
