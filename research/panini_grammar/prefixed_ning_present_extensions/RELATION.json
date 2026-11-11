@@ -1,0 +1,95 @@
+{
+  "contexts": {
+    "lot": "command_or_other_selected_vidhyadi",
+    "vidhiling": "selected_vidhyadi",
+    "lang": "non_today_past_without_prohibitive_ma"
+  },
+  "profiles": {
+    "UD_PUCCHA": {
+      "profile": "UD_PUCCHA",
+      "prefix": "ud",
+      "nominal": "puccha",
+      "source_form": "उत्पुच्छयते",
+      "written_stem_factors": [
+        "utpucchay"
+      ],
+      "event_ids": [
+        "raise_tail"
+      ],
+      "section": "kashika",
+      "affix": "ṇiṅ",
+      "pada": "A"
+    },
+    "VI_PUCCHA": {
+      "profile": "VI_PUCCHA",
+      "prefix": "vi",
+      "nominal": "puccha",
+      "source_form": "विपुच्छयते",
+      "written_stem_factors": [
+        "vipucchay"
+      ],
+      "event_ids": [
+        "raise_tail_in_diverse_or_opposed_directions"
+      ],
+      "section": "kaumudi",
+      "affix": "ṇiṅ",
+      "pada": "A"
+    },
+    "PARI_PUCCHA": {
+      "profile": "PARI_PUCCHA",
+      "prefix": "pari",
+      "nominal": "puccha",
+      "source_form": "परिपुच्छयते",
+      "written_stem_factors": [
+        "paripucchay"
+      ],
+      "event_ids": [
+        "swing_tail_around"
+      ],
+      "section": "kashika",
+      "affix": "ṇiṅ",
+      "pada": "A"
+    },
+    "SAM_BHANDA": {
+      "profile": "SAM_BHANDA",
+      "prefix": "sam",
+      "nominal": "bhāṇḍa",
+      "source_form": "संभाण्डयते",
+      "written_stem_factors": [
+        "saṃbhāṇḍay",
+        "sambhāṇḍay"
+      ],
+      "event_ids": [
+        "collect_in_a_heap"
+      ],
+      "section": "kashika",
+      "affix": "ṇiṅ",
+      "pada": "A"
+    },
+    "SAM_CIVARA": {
+      "profile": "SAM_CIVARA",
+      "prefix": "sam",
+      "nominal": "cīvara",
+      "source_form": "संचीवरयते",
+      "written_stem_factors": [
+        "saṃcīvaray",
+        "sañcīvaray"
+      ],
+      "event_ids": [
+        "acquire_robes",
+        "wear_robes"
+      ],
+      "section": "kashika",
+      "affix": "ṇiṅ",
+      "pada": "A"
+    }
+  },
+  "augmented_factors": {
+    "UD_PUCCHA": "udapucchay",
+    "VI_PUCCHA": "vyapucchay",
+    "PARI_PUCCHA": "paryapucchay",
+    "SAM_BHANDA": "samabhāṇḍay",
+    "SAM_CIVARA": "samacīvaray"
+  },
+  "source_policy": "3.1.20 admits the lexical input; the full new words are written inferences."
+}

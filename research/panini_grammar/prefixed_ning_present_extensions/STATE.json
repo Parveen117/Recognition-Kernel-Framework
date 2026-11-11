@@ -1,0 +1,3496 @@
+{
+  "schema": "rkf.panini.pg151.state.v1",
+  "author": "Monty",
+  "date": "2026-11-11",
+  "baseline": {
+    "path": "research/panini_grammar/prefixed_ning_present/STATE.json",
+    "commit": "09f60afae6c488f16cbecb6479a15e90811efe47",
+    "git_blob_sha": "1ab1cc26e71c5d001da247586e32adaeea961fca",
+    "sha256": "8654887cdb2fbf0b3b6643d4dc5bcc7c17135ef0761e7f06324ba8bf83ac8575",
+    "bytes": 17538
+  },
+  "finite_positions": 33413,
+  "new_positions": 135,
+  "new_position_readings": 171,
+  "new_written_table_readings": 171,
+  "retained_path_count": 216,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "utpucchayatām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "utpucchayatām",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "utpucchay",
+            "ending": "atām"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "utpucchayetām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "utpucchayetām",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "utpucchay",
+            "ending": "etām"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "utpucchayantām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "utpucchayantām",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "utpucchay",
+            "ending": "antām"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "utpucchayasva"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "utpucchayasva",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "utpucchay",
+            "ending": "asva"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "utpucchayethām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "utpucchayethām",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "utpucchay",
+            "ending": "ethām"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "utpucchayadhvam"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "utpucchayadhvam",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "utpucchay",
+            "ending": "adhvam"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "utpucchayai"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "utpucchayai",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "utpucchay",
+            "ending": "ai"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "utpucchayāvahai"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "utpucchayāvahai",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "utpucchay",
+            "ending": "āvahai"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "utpucchayāmahai"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "utpucchayāmahai",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "utpucchay",
+            "ending": "āmahai"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "utpucchayeta"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "utpucchayeta",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "utpucchay",
+            "ending": "eta"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "utpucchayeyātām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "utpucchayeyātām",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "utpucchay",
+            "ending": "eyātām"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "utpucchayeran"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "utpucchayeran",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "utpucchay",
+            "ending": "eran"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "utpucchayethāḥ"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "utpucchayethāḥ",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "utpucchay",
+            "ending": "ethāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "utpucchayeyāthām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "utpucchayeyāthām",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "utpucchay",
+            "ending": "eyāthām"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "utpucchayedhvam"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "utpucchayedhvam",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "utpucchay",
+            "ending": "edhvam"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "utpucchayeya"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "utpucchayeya",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "utpucchay",
+            "ending": "eya"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "utpucchayevahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "utpucchayevahi",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "utpucchay",
+            "ending": "evahi"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "utpucchayemahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "utpucchayemahi",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "utpucchay",
+            "ending": "emahi"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "udapucchayata"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "udapucchayata",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "udapucchay",
+            "ending": "ata"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "udapucchayetām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "udapucchayetām",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "udapucchay",
+            "ending": "etām"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "udapucchayanta"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "udapucchayanta",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "udapucchay",
+            "ending": "anta"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "udapucchayathāḥ"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "udapucchayathāḥ",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "udapucchay",
+            "ending": "athāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "udapucchayethām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "udapucchayethām",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "udapucchay",
+            "ending": "ethām"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "udapucchayadhvam"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "udapucchayadhvam",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "udapucchay",
+            "ending": "adhvam"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "udapucchaye"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "udapucchaye",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "udapucchay",
+            "ending": "e"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "udapucchayāvahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "udapucchayāvahi",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "udapucchay",
+            "ending": "āvahi"
+          }
+        ]
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "udapucchayāmahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "udapucchayāmahi",
+            "source_event": "raise_tail",
+            "prefix": "ud",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "udapucchay",
+            "ending": "āmahi"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "vipucchayatām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vipucchayatām",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "vipucchay",
+            "ending": "atām"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "vipucchayetām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vipucchayetām",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "vipucchay",
+            "ending": "etām"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "vipucchayantām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vipucchayantām",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "vipucchay",
+            "ending": "antām"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "vipucchayasva"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vipucchayasva",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "vipucchay",
+            "ending": "asva"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "vipucchayethām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vipucchayethām",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "vipucchay",
+            "ending": "ethām"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "vipucchayadhvam"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vipucchayadhvam",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "vipucchay",
+            "ending": "adhvam"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "vipucchayai"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vipucchayai",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "vipucchay",
+            "ending": "ai"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "vipucchayāvahai"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vipucchayāvahai",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "vipucchay",
+            "ending": "āvahai"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "vipucchayāmahai"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vipucchayāmahai",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "vipucchay",
+            "ending": "āmahai"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "vipucchayeta"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vipucchayeta",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "vipucchay",
+            "ending": "eta"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "vipucchayeyātām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vipucchayeyātām",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "vipucchay",
+            "ending": "eyātām"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "vipucchayeran"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vipucchayeran",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "vipucchay",
+            "ending": "eran"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "vipucchayethāḥ"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vipucchayethāḥ",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "vipucchay",
+            "ending": "ethāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "vipucchayeyāthām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vipucchayeyāthām",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "vipucchay",
+            "ending": "eyāthām"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "vipucchayedhvam"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vipucchayedhvam",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "vipucchay",
+            "ending": "edhvam"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "vipucchayeya"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vipucchayeya",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "vipucchay",
+            "ending": "eya"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "vipucchayevahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vipucchayevahi",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "vipucchay",
+            "ending": "evahi"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "vipucchayemahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vipucchayemahi",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "vipucchay",
+            "ending": "emahi"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "vyapucchayata"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vyapucchayata",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "vyapucchay",
+            "ending": "ata"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "vyapucchayetām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vyapucchayetām",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "vyapucchay",
+            "ending": "etām"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "vyapucchayanta"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vyapucchayanta",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "vyapucchay",
+            "ending": "anta"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "vyapucchayathāḥ"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vyapucchayathāḥ",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "vyapucchay",
+            "ending": "athāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "vyapucchayethām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vyapucchayethām",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "vyapucchay",
+            "ending": "ethām"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "vyapucchayadhvam"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vyapucchayadhvam",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "vyapucchay",
+            "ending": "adhvam"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "vyapucchaye"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vyapucchaye",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "vyapucchay",
+            "ending": "e"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "vyapucchayāvahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vyapucchayāvahi",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "vyapucchay",
+            "ending": "āvahi"
+          }
+        ]
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "vyapucchayāmahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "vyapucchayāmahi",
+            "source_event": "raise_tail_in_diverse_or_opposed_directions",
+            "prefix": "vi",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "vyapucchay",
+            "ending": "āmahi"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "paripucchayatām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paripucchayatām",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "paripucchay",
+            "ending": "atām"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "paripucchayetām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paripucchayetām",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "paripucchay",
+            "ending": "etām"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "paripucchayantām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paripucchayantām",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "paripucchay",
+            "ending": "antām"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "paripucchayasva"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paripucchayasva",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "paripucchay",
+            "ending": "asva"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "paripucchayethām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paripucchayethām",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "paripucchay",
+            "ending": "ethām"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "paripucchayadhvam"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paripucchayadhvam",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "paripucchay",
+            "ending": "adhvam"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "paripucchayai"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paripucchayai",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "paripucchay",
+            "ending": "ai"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "paripucchayāvahai"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paripucchayāvahai",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "paripucchay",
+            "ending": "āvahai"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "paripucchayāmahai"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paripucchayāmahai",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "paripucchay",
+            "ending": "āmahai"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "paripucchayeta"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paripucchayeta",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "paripucchay",
+            "ending": "eta"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "paripucchayeyātām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paripucchayeyātām",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "paripucchay",
+            "ending": "eyātām"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "paripucchayeran"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paripucchayeran",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "paripucchay",
+            "ending": "eran"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "paripucchayethāḥ"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paripucchayethāḥ",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "paripucchay",
+            "ending": "ethāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "paripucchayeyāthām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paripucchayeyāthām",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "paripucchay",
+            "ending": "eyāthām"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "paripucchayedhvam"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paripucchayedhvam",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "paripucchay",
+            "ending": "edhvam"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "paripucchayeya"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paripucchayeya",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "paripucchay",
+            "ending": "eya"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "paripucchayevahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paripucchayevahi",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "paripucchay",
+            "ending": "evahi"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "paripucchayemahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paripucchayemahi",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "paripucchay",
+            "ending": "emahi"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "paryapucchayata"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paryapucchayata",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "paryapucchay",
+            "ending": "ata"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "paryapucchayetām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paryapucchayetām",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "paryapucchay",
+            "ending": "etām"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "paryapucchayanta"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paryapucchayanta",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "paryapucchay",
+            "ending": "anta"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "paryapucchayathāḥ"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paryapucchayathāḥ",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "paryapucchay",
+            "ending": "athāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "paryapucchayethām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paryapucchayethām",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "paryapucchay",
+            "ending": "ethām"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "paryapucchayadhvam"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paryapucchayadhvam",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "paryapucchay",
+            "ending": "adhvam"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "paryapucchaye"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paryapucchaye",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "paryapucchay",
+            "ending": "e"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "paryapucchayāvahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paryapucchayāvahi",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "paryapucchay",
+            "ending": "āvahi"
+          }
+        ]
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "paryapucchayāmahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "paryapucchayāmahi",
+            "source_event": "swing_tail_around",
+            "prefix": "pari",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "paryapucchay",
+            "ending": "āmahi"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "saṃbhāṇḍayatām",
+          "sambhāṇḍayatām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃbhāṇḍayatām",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃbhāṇḍay",
+            "ending": "atām"
+          },
+          {
+            "reading": "sambhāṇḍayatām",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sambhāṇḍay",
+            "ending": "atām"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "saṃbhāṇḍayetām",
+          "sambhāṇḍayetām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃbhāṇḍayetām",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃbhāṇḍay",
+            "ending": "etām"
+          },
+          {
+            "reading": "sambhāṇḍayetām",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sambhāṇḍay",
+            "ending": "etām"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "saṃbhāṇḍayantām",
+          "sambhāṇḍayantām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃbhāṇḍayantām",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃbhāṇḍay",
+            "ending": "antām"
+          },
+          {
+            "reading": "sambhāṇḍayantām",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sambhāṇḍay",
+            "ending": "antām"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "saṃbhāṇḍayasva",
+          "sambhāṇḍayasva"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃbhāṇḍayasva",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃbhāṇḍay",
+            "ending": "asva"
+          },
+          {
+            "reading": "sambhāṇḍayasva",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sambhāṇḍay",
+            "ending": "asva"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "saṃbhāṇḍayethām",
+          "sambhāṇḍayethām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃbhāṇḍayethām",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃbhāṇḍay",
+            "ending": "ethām"
+          },
+          {
+            "reading": "sambhāṇḍayethām",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sambhāṇḍay",
+            "ending": "ethām"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "saṃbhāṇḍayadhvam",
+          "sambhāṇḍayadhvam"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃbhāṇḍayadhvam",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃbhāṇḍay",
+            "ending": "adhvam"
+          },
+          {
+            "reading": "sambhāṇḍayadhvam",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sambhāṇḍay",
+            "ending": "adhvam"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "saṃbhāṇḍayai",
+          "sambhāṇḍayai"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃbhāṇḍayai",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃbhāṇḍay",
+            "ending": "ai"
+          },
+          {
+            "reading": "sambhāṇḍayai",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sambhāṇḍay",
+            "ending": "ai"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "saṃbhāṇḍayāvahai",
+          "sambhāṇḍayāvahai"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃbhāṇḍayāvahai",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃbhāṇḍay",
+            "ending": "āvahai"
+          },
+          {
+            "reading": "sambhāṇḍayāvahai",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sambhāṇḍay",
+            "ending": "āvahai"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "saṃbhāṇḍayāmahai",
+          "sambhāṇḍayāmahai"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃbhāṇḍayāmahai",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃbhāṇḍay",
+            "ending": "āmahai"
+          },
+          {
+            "reading": "sambhāṇḍayāmahai",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sambhāṇḍay",
+            "ending": "āmahai"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "saṃbhāṇḍayeta",
+          "sambhāṇḍayeta"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃbhāṇḍayeta",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃbhāṇḍay",
+            "ending": "eta"
+          },
+          {
+            "reading": "sambhāṇḍayeta",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sambhāṇḍay",
+            "ending": "eta"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "saṃbhāṇḍayeyātām",
+          "sambhāṇḍayeyātām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃbhāṇḍayeyātām",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃbhāṇḍay",
+            "ending": "eyātām"
+          },
+          {
+            "reading": "sambhāṇḍayeyātām",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sambhāṇḍay",
+            "ending": "eyātām"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "saṃbhāṇḍayeran",
+          "sambhāṇḍayeran"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃbhāṇḍayeran",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃbhāṇḍay",
+            "ending": "eran"
+          },
+          {
+            "reading": "sambhāṇḍayeran",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sambhāṇḍay",
+            "ending": "eran"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "saṃbhāṇḍayethāḥ",
+          "sambhāṇḍayethāḥ"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃbhāṇḍayethāḥ",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃbhāṇḍay",
+            "ending": "ethāḥ"
+          },
+          {
+            "reading": "sambhāṇḍayethāḥ",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sambhāṇḍay",
+            "ending": "ethāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "saṃbhāṇḍayeyāthām",
+          "sambhāṇḍayeyāthām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃbhāṇḍayeyāthām",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃbhāṇḍay",
+            "ending": "eyāthām"
+          },
+          {
+            "reading": "sambhāṇḍayeyāthām",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sambhāṇḍay",
+            "ending": "eyāthām"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "saṃbhāṇḍayedhvam",
+          "sambhāṇḍayedhvam"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃbhāṇḍayedhvam",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃbhāṇḍay",
+            "ending": "edhvam"
+          },
+          {
+            "reading": "sambhāṇḍayedhvam",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sambhāṇḍay",
+            "ending": "edhvam"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "saṃbhāṇḍayeya",
+          "sambhāṇḍayeya"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃbhāṇḍayeya",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃbhāṇḍay",
+            "ending": "eya"
+          },
+          {
+            "reading": "sambhāṇḍayeya",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sambhāṇḍay",
+            "ending": "eya"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "saṃbhāṇḍayevahi",
+          "sambhāṇḍayevahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃbhāṇḍayevahi",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃbhāṇḍay",
+            "ending": "evahi"
+          },
+          {
+            "reading": "sambhāṇḍayevahi",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sambhāṇḍay",
+            "ending": "evahi"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "saṃbhāṇḍayemahi",
+          "sambhāṇḍayemahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃbhāṇḍayemahi",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃbhāṇḍay",
+            "ending": "emahi"
+          },
+          {
+            "reading": "sambhāṇḍayemahi",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sambhāṇḍay",
+            "ending": "emahi"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "samabhāṇḍayata"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "samabhāṇḍayata",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samabhāṇḍay",
+            "ending": "ata"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "samabhāṇḍayetām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "samabhāṇḍayetām",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samabhāṇḍay",
+            "ending": "etām"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "samabhāṇḍayanta"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "samabhāṇḍayanta",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samabhāṇḍay",
+            "ending": "anta"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "samabhāṇḍayathāḥ"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "samabhāṇḍayathāḥ",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samabhāṇḍay",
+            "ending": "athāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "samabhāṇḍayethām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "samabhāṇḍayethām",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samabhāṇḍay",
+            "ending": "ethām"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "samabhāṇḍayadhvam"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "samabhāṇḍayadhvam",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samabhāṇḍay",
+            "ending": "adhvam"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "samabhāṇḍaye"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "samabhāṇḍaye",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samabhāṇḍay",
+            "ending": "e"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "samabhāṇḍayāvahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "samabhāṇḍayāvahi",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samabhāṇḍay",
+            "ending": "āvahi"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "samabhāṇḍayāmahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "samabhāṇḍayāmahi",
+            "source_event": "collect_in_a_heap",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samabhāṇḍay",
+            "ending": "āmahi"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "saṃcīvarayatām",
+          "sañcīvarayatām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃcīvarayatām",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "atām"
+          },
+          {
+            "reading": "saṃcīvarayatām",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "atām"
+          },
+          {
+            "reading": "sañcīvarayatām",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "atām"
+          },
+          {
+            "reading": "sañcīvarayatām",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "atām"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "saṃcīvarayetām",
+          "sañcīvarayetām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃcīvarayetām",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "etām"
+          },
+          {
+            "reading": "saṃcīvarayetām",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "etām"
+          },
+          {
+            "reading": "sañcīvarayetām",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "etām"
+          },
+          {
+            "reading": "sañcīvarayetām",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "etām"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "saṃcīvarayantām",
+          "sañcīvarayantām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃcīvarayantām",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "antām"
+          },
+          {
+            "reading": "saṃcīvarayantām",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "antām"
+          },
+          {
+            "reading": "sañcīvarayantām",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "antām"
+          },
+          {
+            "reading": "sañcīvarayantām",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "antām"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "saṃcīvarayasva",
+          "sañcīvarayasva"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃcīvarayasva",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "asva"
+          },
+          {
+            "reading": "saṃcīvarayasva",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "asva"
+          },
+          {
+            "reading": "sañcīvarayasva",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "asva"
+          },
+          {
+            "reading": "sañcīvarayasva",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "asva"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "saṃcīvarayethām",
+          "sañcīvarayethām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃcīvarayethām",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "ethām"
+          },
+          {
+            "reading": "saṃcīvarayethām",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "ethām"
+          },
+          {
+            "reading": "sañcīvarayethām",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "ethām"
+          },
+          {
+            "reading": "sañcīvarayethām",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "ethām"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "saṃcīvarayadhvam",
+          "sañcīvarayadhvam"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃcīvarayadhvam",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "adhvam"
+          },
+          {
+            "reading": "saṃcīvarayadhvam",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "adhvam"
+          },
+          {
+            "reading": "sañcīvarayadhvam",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "adhvam"
+          },
+          {
+            "reading": "sañcīvarayadhvam",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "adhvam"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "saṃcīvarayai",
+          "sañcīvarayai"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃcīvarayai",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "ai"
+          },
+          {
+            "reading": "saṃcīvarayai",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "ai"
+          },
+          {
+            "reading": "sañcīvarayai",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "ai"
+          },
+          {
+            "reading": "sañcīvarayai",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "ai"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "saṃcīvarayāvahai",
+          "sañcīvarayāvahai"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃcīvarayāvahai",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "āvahai"
+          },
+          {
+            "reading": "saṃcīvarayāvahai",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "āvahai"
+          },
+          {
+            "reading": "sañcīvarayāvahai",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "āvahai"
+          },
+          {
+            "reading": "sañcīvarayāvahai",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "āvahai"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "saṃcīvarayāmahai",
+          "sañcīvarayāmahai"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃcīvarayāmahai",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "āmahai"
+          },
+          {
+            "reading": "saṃcīvarayāmahai",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "āmahai"
+          },
+          {
+            "reading": "sañcīvarayāmahai",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "āmahai"
+          },
+          {
+            "reading": "sañcīvarayāmahai",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "āmahai"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "saṃcīvarayeta",
+          "sañcīvarayeta"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃcīvarayeta",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "eta"
+          },
+          {
+            "reading": "saṃcīvarayeta",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "eta"
+          },
+          {
+            "reading": "sañcīvarayeta",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "eta"
+          },
+          {
+            "reading": "sañcīvarayeta",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "eta"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "saṃcīvarayeyātām",
+          "sañcīvarayeyātām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃcīvarayeyātām",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "eyātām"
+          },
+          {
+            "reading": "saṃcīvarayeyātām",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "eyātām"
+          },
+          {
+            "reading": "sañcīvarayeyātām",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "eyātām"
+          },
+          {
+            "reading": "sañcīvarayeyātām",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "eyātām"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "saṃcīvarayeran",
+          "sañcīvarayeran"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃcīvarayeran",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "eran"
+          },
+          {
+            "reading": "saṃcīvarayeran",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "eran"
+          },
+          {
+            "reading": "sañcīvarayeran",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "eran"
+          },
+          {
+            "reading": "sañcīvarayeran",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "eran"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "saṃcīvarayethāḥ",
+          "sañcīvarayethāḥ"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃcīvarayethāḥ",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "ethāḥ"
+          },
+          {
+            "reading": "saṃcīvarayethāḥ",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "ethāḥ"
+          },
+          {
+            "reading": "sañcīvarayethāḥ",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "ethāḥ"
+          },
+          {
+            "reading": "sañcīvarayethāḥ",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "ethāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "saṃcīvarayeyāthām",
+          "sañcīvarayeyāthām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃcīvarayeyāthām",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "eyāthām"
+          },
+          {
+            "reading": "saṃcīvarayeyāthām",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "eyāthām"
+          },
+          {
+            "reading": "sañcīvarayeyāthām",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "eyāthām"
+          },
+          {
+            "reading": "sañcīvarayeyāthām",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "eyāthām"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "saṃcīvarayedhvam",
+          "sañcīvarayedhvam"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃcīvarayedhvam",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "edhvam"
+          },
+          {
+            "reading": "saṃcīvarayedhvam",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "edhvam"
+          },
+          {
+            "reading": "sañcīvarayedhvam",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "edhvam"
+          },
+          {
+            "reading": "sañcīvarayedhvam",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "edhvam"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "saṃcīvarayeya",
+          "sañcīvarayeya"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃcīvarayeya",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "eya"
+          },
+          {
+            "reading": "saṃcīvarayeya",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "eya"
+          },
+          {
+            "reading": "sañcīvarayeya",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "eya"
+          },
+          {
+            "reading": "sañcīvarayeya",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "eya"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "saṃcīvarayevahi",
+          "sañcīvarayevahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃcīvarayevahi",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "evahi"
+          },
+          {
+            "reading": "saṃcīvarayevahi",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "evahi"
+          },
+          {
+            "reading": "sañcīvarayevahi",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "evahi"
+          },
+          {
+            "reading": "sañcīvarayevahi",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "evahi"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "saṃcīvarayemahi",
+          "sañcīvarayemahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "saṃcīvarayemahi",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "emahi"
+          },
+          {
+            "reading": "saṃcīvarayemahi",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "saṃcīvaray",
+            "ending": "emahi"
+          },
+          {
+            "reading": "sañcīvarayemahi",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "emahi"
+          },
+          {
+            "reading": "sañcīvarayemahi",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": false,
+            "factor": "sañcīvaray",
+            "ending": "emahi"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "samacīvarayata"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "samacīvarayata",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samacīvaray",
+            "ending": "ata"
+          },
+          {
+            "reading": "samacīvarayata",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samacīvaray",
+            "ending": "ata"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "samacīvarayetām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "samacīvarayetām",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samacīvaray",
+            "ending": "etām"
+          },
+          {
+            "reading": "samacīvarayetām",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samacīvaray",
+            "ending": "etām"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "samacīvarayanta"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "samacīvarayanta",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samacīvaray",
+            "ending": "anta"
+          },
+          {
+            "reading": "samacīvarayanta",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samacīvaray",
+            "ending": "anta"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "samacīvarayathāḥ"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "samacīvarayathāḥ",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samacīvaray",
+            "ending": "athāḥ"
+          },
+          {
+            "reading": "samacīvarayathāḥ",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samacīvaray",
+            "ending": "athāḥ"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "samacīvarayethām"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "samacīvarayethām",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samacīvaray",
+            "ending": "ethām"
+          },
+          {
+            "reading": "samacīvarayethām",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samacīvaray",
+            "ending": "ethām"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "samacīvarayadhvam"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "samacīvarayadhvam",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samacīvaray",
+            "ending": "adhvam"
+          },
+          {
+            "reading": "samacīvarayadhvam",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samacīvaray",
+            "ending": "adhvam"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "samacīvaraye"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "samacīvaraye",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samacīvaray",
+            "ending": "e"
+          },
+          {
+            "reading": "samacīvaraye",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samacīvaray",
+            "ending": "e"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "samacīvarayāvahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "samacīvarayāvahi",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samacīvaray",
+            "ending": "āvahi"
+          },
+          {
+            "reading": "samacīvarayāvahi",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samacīvaray",
+            "ending": "āvahi"
+          }
+        ]
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "samacīvarayāmahi"
+        ],
+        "new_position_credit": 1,
+        "paths": [
+          {
+            "reading": "samacīvarayāmahi",
+            "source_event": "acquire_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samacīvaray",
+            "ending": "āmahi"
+          },
+          {
+            "reading": "samacīvarayāmahi",
+            "source_event": "wear_robes",
+            "prefix": "sam",
+            "augment_between_prefix_and_nominal": true,
+            "factor": "samacīvaray",
+            "ending": "āmahi"
+          }
+        ]
+      }
+    ],
+    "panels": [
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "UD_PUCCHA",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "VI_PUCCHA",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "PARI_PUCCHA",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 18
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 18
+      },
+      {
+        "profile": "SAM_BHANDA",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 9
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lot",
+        "positions": 9,
+        "readings": 18
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "vidhiling",
+        "positions": 9,
+        "readings": 18
+      },
+      {
+        "profile": "SAM_CIVARA",
+        "lakara": "lang",
+        "positions": 9,
+        "readings": 9
+      }
+    ],
+    "complete_nine_slot_paradigms": 15
+  },
+  "contextual_profiles": {
+    "UD_PUCCHA": {
+      "profile": "UD_PUCCHA",
+      "prefix": "ud",
+      "nominal": "puccha",
+      "source_form": "उत्पुच्छयते",
+      "written_stem_factors": [
+        "utpucchay"
+      ],
+      "event_ids": [
+        "raise_tail"
+      ],
+      "section": "kashika",
+      "affix": "ṇiṅ",
+      "pada": "A"
+    },
+    "VI_PUCCHA": {
+      "profile": "VI_PUCCHA",
+      "prefix": "vi",
+      "nominal": "puccha",
+      "source_form": "विपुच्छयते",
+      "written_stem_factors": [
+        "vipucchay"
+      ],
+      "event_ids": [
+        "raise_tail_in_diverse_or_opposed_directions"
+      ],
+      "section": "kaumudi",
+      "affix": "ṇiṅ",
+      "pada": "A"
+    },
+    "PARI_PUCCHA": {
+      "profile": "PARI_PUCCHA",
+      "prefix": "pari",
+      "nominal": "puccha",
+      "source_form": "परिपुच्छयते",
+      "written_stem_factors": [
+        "paripucchay"
+      ],
+      "event_ids": [
+        "swing_tail_around"
+      ],
+      "section": "kashika",
+      "affix": "ṇiṅ",
+      "pada": "A"
+    },
+    "SAM_BHANDA": {
+      "profile": "SAM_BHANDA",
+      "prefix": "sam",
+      "nominal": "bhāṇḍa",
+      "source_form": "संभाण्डयते",
+      "written_stem_factors": [
+        "saṃbhāṇḍay",
+        "sambhāṇḍay"
+      ],
+      "event_ids": [
+        "collect_in_a_heap"
+      ],
+      "section": "kashika",
+      "affix": "ṇiṅ",
+      "pada": "A"
+    },
+    "SAM_CIVARA": {
+      "profile": "SAM_CIVARA",
+      "prefix": "sam",
+      "nominal": "cīvara",
+      "source_form": "संचीवरयते",
+      "written_stem_factors": [
+        "saṃcīvaray",
+        "sañcīvaray"
+      ],
+      "event_ids": [
+        "acquire_robes",
+        "wear_robes"
+      ],
+      "section": "kashika",
+      "affix": "ṇiṅ",
+      "pada": "A"
+    }
+  },
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "Traditional same-word applicability in the 45 A perfects remains unresolved.",
+    "54 PG131 outer udaka requests retain lower-bound status.",
+    "Other orthographies and lexical senses need their own source scope.",
+    "Six outer lakāras for the five ṇiṅ profiles remain, including a separate bhāṇḍa past source decision."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Checked all 135 machine and written cells, five singular augment controls, the robe imperative and the counts of realized words and action histories."
+  }
+}
