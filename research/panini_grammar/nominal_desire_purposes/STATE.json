@@ -1,0 +1,4173 @@
+{
+  "schema": "rkf.panini.pg130.state.v1",
+  "author": "Monty",
+  "date": "2026-11-11",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "2246aff16d57e4a610fcb191c6692193b4317882",
+    "path": "research/panini_grammar/nominal_role_outer/STATE.json",
+    "scope": "EXACT_REVIEWED_DEPENDENCY_NO_RECURSIVE_AUDIT",
+    "bytes": 575068,
+    "sha256": "2171e35ae833ba22c2c7b8ea373c7f173b4d466cfba1e1e8449b0f74c0835f4a",
+    "git_blob_sha": "d826ce79efbbe9865fb1ee3af6f18922c306840e"
+  },
+  "finite_positions": 29885,
+  "new_positions": 108,
+  "new_position_readings": 216,
+  "new_written_table_readings": 216,
+  "retained_path_count": 216,
+  "additional_readings_within_new_positions": 108,
+  "coincident_additional_paths": 0,
+  "corrected_old_positions": 0,
+  "alternate_readings_at_existing_positions": 0,
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "overall_grammar_completion_percent": null,
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "referenced_existing_ids": [
+    "1.3.78",
+    "1.4.15",
+    "3.1.8",
+    "3.1.32",
+    "3.1.68",
+    "6.1.90",
+    "6.4.71",
+    "6.4.72",
+    "7.4.25",
+    "7.4.33",
+    "7.4.34",
+    "8.2.7"
+  ],
+  "local_selected_source_records": 28,
+  "written_units": 10,
+  "records": [
+    {
+      "id": "H1",
+      "title": "Three sense gates in order",
+      "document": "research/panini_grammar/nominal_desire_purposes/SOURCE_DECISIONS.md",
+      "line": 3,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H2",
+      "title": "Food now or for later use",
+      "document": "research/panini_grammar/nominal_desire_purposes/SOURCE_DECISIONS.md",
+      "line": 7,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H3",
+      "title": "Water for drinking or for a different purpose",
+      "document": "research/panini_grammar/nominal_desire_purposes/SOURCE_DECISIONS.md",
+      "line": 11,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H4",
+      "title": "Wealth and intensity of desire",
+      "document": "research/panini_grammar/nominal_desire_purposes/SOURCE_DECISIONS.md",
+      "line": 15,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H5",
+      "title": "Three special stem histories",
+      "document": "research/panini_grammar/nominal_desire_purposes/SOURCE_DECISIONS.md",
+      "line": 19,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H6",
+      "title": "Six attested third singulars",
+      "document": "research/panini_grammar/nominal_desire_purposes/DERIVATIONS.md",
+      "line": 3,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H7",
+      "title": "The augment looks at the beginning of the whole word",
+      "document": "research/panini_grammar/nominal_desire_purposes/DERIVATIONS.md",
+      "line": 7,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H8",
+      "title": "The rest of the present system",
+      "document": "research/panini_grammar/nominal_desire_purposes/DERIVATIONS.md",
+      "line": 11,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H9",
+      "title": "Inverse meaning is a scoped inference",
+      "document": "research/panini_grammar/nominal_desire_purposes/DERIVATIONS.md",
+      "line": 15,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    },
+    {
+      "id": "H10",
+      "title": "Count the common morphology once",
+      "document": "research/panini_grammar/nominal_desire_purposes/DERIVATIONS.md",
+      "line": 19,
+      "status": "SOURCE_QUALIFIED_WRITTEN_NOT_EXECUTED"
+    }
+  ],
+  "contextual_profiles": {
+    "ASHANA_KYAC_P": {
+      "root": "aśana",
+      "lexical_id": "kaumudi/7.4.34/aśana",
+      "lexical_id_type": "COMMENTARY_NOMINAL_WITNESS",
+      "pada": "P",
+      "formation": "kyac",
+      "stem": "aśanāya",
+      "roles": [
+        "SELF_WISH"
+      ],
+      "stem_alternatives": [
+        {
+          "id": "EAT_NOW",
+          "stem": "aśanāya",
+          "augmented_factor": "āśanāy"
+        },
+        {
+          "id": "OTHER_FOOD_WISH",
+          "stem": "aśanīya",
+          "augmented_factor": "āśanīy"
+        }
+      ],
+      "choice_policy": "MUTUALLY_CONDITIONED_BY_INTENDED_SENSE",
+      "complete_lakaras": [
+        "lat",
+        "lang",
+        "lot",
+        "vidhiling"
+      ],
+      "pada_by_lakara": {
+        "lat": "P",
+        "lang": "P",
+        "lot": "P",
+        "vidhiling": "P"
+      }
+    },
+    "UDAKA_KYAC_P": {
+      "root": "udaka",
+      "lexical_id": "kaumudi/7.4.34/udaka",
+      "lexical_id_type": "COMMENTARY_NOMINAL_WITNESS",
+      "pada": "P",
+      "formation": "kyac",
+      "stem": "udanya",
+      "roles": [
+        "SELF_WISH"
+      ],
+      "stem_alternatives": [
+        {
+          "id": "THIRST",
+          "stem": "udanya",
+          "augmented_factor": "audany"
+        },
+        {
+          "id": "OTHER_WATER_WISH",
+          "stem": "udakīya",
+          "augmented_factor": "audakīy"
+        }
+      ],
+      "choice_policy": "MUTUALLY_CONDITIONED_BY_INTENDED_SENSE",
+      "complete_lakaras": [
+        "lat",
+        "lang",
+        "lot",
+        "vidhiling"
+      ],
+      "pada_by_lakara": {
+        "lat": "P",
+        "lang": "P",
+        "lot": "P",
+        "vidhiling": "P"
+      }
+    },
+    "DHANA_KYAC_P": {
+      "root": "dhana",
+      "lexical_id": "kaumudi/7.4.34/dhana",
+      "lexical_id_type": "COMMENTARY_NOMINAL_WITNESS",
+      "pada": "P",
+      "formation": "kyac",
+      "stem": "dhanāya",
+      "roles": [
+        "SELF_WISH"
+      ],
+      "stem_alternatives": [
+        {
+          "id": "COVETING",
+          "stem": "dhanāya",
+          "augmented_factor": "adhanāy"
+        },
+        {
+          "id": "ORDINARY_WEALTH_WISH",
+          "stem": "dhanīya",
+          "augmented_factor": "adhanīy"
+        }
+      ],
+      "choice_policy": "MUTUALLY_CONDITIONED_BY_INTENDED_SENSE",
+      "complete_lakaras": [
+        "lat",
+        "lang",
+        "lot",
+        "vidhiling"
+      ],
+      "pada_by_lakara": {
+        "lat": "P",
+        "lang": "P",
+        "lot": "P",
+        "vidhiling": "P"
+      }
+    }
+  },
+  "zero_credit_controls": [
+    {
+      "id": "C1",
+      "request": "UNKNOWN_PURPOSE_IS_NOT_ORDINARY",
+      "credit": 0
+    },
+    {
+      "id": "C2",
+      "request": "NO_EXTRA_CREDIT_FOR_IRRIGATION_VS_BATHING",
+      "credit": 0
+    },
+    {
+      "id": "C3",
+      "request": "NO_AUTOMATIC_N_LOPA_IN_UDANYA",
+      "credit": 0
+    },
+    {
+      "id": "C4",
+      "request": "NO_SHORT_A_PLUS_U_FOR_AUDANYAT",
+      "credit": 0
+    }
+  ],
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyati",
+          "aśanīyati"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lat/3sg/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyati",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lat/3sg/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyati",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "3du",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyataḥ",
+          "aśanīyataḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lat/3du/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyataḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lat/3du/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyataḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "3pl",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyanti",
+          "aśanīyanti"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lat/3pl/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyanti",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lat/3pl/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyanti",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "2sg",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyasi",
+          "aśanīyasi"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lat/2sg/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyasi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lat/2sg/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyasi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "2du",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyathaḥ",
+          "aśanīyathaḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lat/2du/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyathaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lat/2du/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyathaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "2pl",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyatha",
+          "aśanīyatha"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lat/2pl/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyatha",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lat/2pl/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyatha",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "1sg",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyāmi",
+          "aśanīyāmi"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lat/1sg/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyāmi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lat/1sg/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyāmi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "1du",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyāvaḥ",
+          "aśanīyāvaḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lat/1du/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyāvaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lat/1du/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyāvaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "1pl",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyāmaḥ",
+          "aśanīyāmaḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lat/1pl/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyāmaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lat/1pl/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyāmaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "3sg",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "āśanāyat",
+          "āśanīyat"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lang/3sg/SELF_WISH/EAT_NOW/1",
+            "reading": "āśanāyat",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lang/3sg/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "āśanīyat",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "3du",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "āśanāyatām",
+          "āśanīyatām"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lang/3du/SELF_WISH/EAT_NOW/1",
+            "reading": "āśanāyatām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lang/3du/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "āśanīyatām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "3pl",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "āśanāyan",
+          "āśanīyan"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lang/3pl/SELF_WISH/EAT_NOW/1",
+            "reading": "āśanāyan",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lang/3pl/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "āśanīyan",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "2sg",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "āśanāyaḥ",
+          "āśanīyaḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lang/2sg/SELF_WISH/EAT_NOW/1",
+            "reading": "āśanāyaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lang/2sg/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "āśanīyaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "2du",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "āśanāyatam",
+          "āśanīyatam"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lang/2du/SELF_WISH/EAT_NOW/1",
+            "reading": "āśanāyatam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lang/2du/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "āśanīyatam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "2pl",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "āśanāyata",
+          "āśanīyata"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lang/2pl/SELF_WISH/EAT_NOW/1",
+            "reading": "āśanāyata",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lang/2pl/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "āśanīyata",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "1sg",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "āśanāyam",
+          "āśanīyam"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lang/1sg/SELF_WISH/EAT_NOW/1",
+            "reading": "āśanāyam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lang/1sg/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "āśanīyam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "1du",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "āśanāyāva",
+          "āśanīyāva"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lang/1du/SELF_WISH/EAT_NOW/1",
+            "reading": "āśanāyāva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lang/1du/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "āśanīyāva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "1pl",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "āśanāyāma",
+          "āśanīyāma"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lang/1pl/SELF_WISH/EAT_NOW/1",
+            "reading": "āśanāyāma",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lang/1pl/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "āśanīyāma",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "3sg",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyatu",
+          "aśanīyatu"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lot/3sg/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyatu",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lot/3sg/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyatu",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "3du",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyatām",
+          "aśanīyatām"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lot/3du/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyatām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lot/3du/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyatām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "3pl",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyantu",
+          "aśanīyantu"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lot/3pl/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyantu",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lot/3pl/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyantu",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "2sg",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "aśanāya",
+          "aśanīya"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lot/2sg/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāya",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lot/2sg/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīya",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "2du",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyatam",
+          "aśanīyatam"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lot/2du/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyatam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lot/2du/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyatam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "2pl",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyata",
+          "aśanīyata"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lot/2pl/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyata",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lot/2pl/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyata",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "1sg",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyāni",
+          "aśanīyāni"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lot/1sg/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyāni",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lot/1sg/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyāni",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "1du",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyāva",
+          "aśanīyāva"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lot/1du/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyāva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lot/1du/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyāva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "1pl",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyāma",
+          "aśanīyāma"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/lot/1pl/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyāma",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/lot/1pl/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyāma",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyet",
+          "aśanīyet"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/vidhiling/3sg/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyet",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/vidhiling/3sg/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyet",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyetām",
+          "aśanīyetām"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/vidhiling/3du/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyetām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/vidhiling/3du/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyetām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyeyuḥ",
+          "aśanīyeyuḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/vidhiling/3pl/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyeyuḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/vidhiling/3pl/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyeyuḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyeḥ",
+          "aśanīyeḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/vidhiling/2sg/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyeḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/vidhiling/2sg/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyeḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyetam",
+          "aśanīyetam"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/vidhiling/2du/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyetam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/vidhiling/2du/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyetam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyeta",
+          "aśanīyeta"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/vidhiling/2pl/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyeta",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/vidhiling/2pl/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyeta",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyeyam",
+          "aśanīyeyam"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/vidhiling/1sg/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyeyam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/vidhiling/1sg/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyeyam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyeva",
+          "aśanīyeva"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/vidhiling/1du/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyeva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/vidhiling/1du/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyeva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "ASHANA_KYAC_P",
+        "root": "aśana",
+        "lexical_id": "kaumudi/7.4.34/aśana",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "aśanāyema",
+          "aśanīyema"
+        ],
+        "paths": [
+          {
+            "history_label": "ASHANA_KYAC_P/vidhiling/1pl/SELF_WISH/EAT_NOW/1",
+            "reading": "aśanāyema",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "EAT_NOW",
+            "stem_word": "aśanāya"
+          },
+          {
+            "history_label": "ASHANA_KYAC_P/vidhiling/1pl/SELF_WISH/OTHER_FOOD_WISH/1",
+            "reading": "aśanīyema",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_FOOD_WISH",
+            "stem_word": "aśanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "udanyati",
+          "udakīyati"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lat/3sg/SELF_WISH/THIRST/1",
+            "reading": "udanyati",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lat/3sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyati",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "3du",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "udanyataḥ",
+          "udakīyataḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lat/3du/SELF_WISH/THIRST/1",
+            "reading": "udanyataḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lat/3du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyataḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "3pl",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "udanyanti",
+          "udakīyanti"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lat/3pl/SELF_WISH/THIRST/1",
+            "reading": "udanyanti",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lat/3pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyanti",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "2sg",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "udanyasi",
+          "udakīyasi"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lat/2sg/SELF_WISH/THIRST/1",
+            "reading": "udanyasi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lat/2sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyasi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "2du",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "udanyathaḥ",
+          "udakīyathaḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lat/2du/SELF_WISH/THIRST/1",
+            "reading": "udanyathaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lat/2du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyathaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "2pl",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "udanyatha",
+          "udakīyatha"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lat/2pl/SELF_WISH/THIRST/1",
+            "reading": "udanyatha",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lat/2pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyatha",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "1sg",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "udanyāmi",
+          "udakīyāmi"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lat/1sg/SELF_WISH/THIRST/1",
+            "reading": "udanyāmi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lat/1sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyāmi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "1du",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "udanyāvaḥ",
+          "udakīyāvaḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lat/1du/SELF_WISH/THIRST/1",
+            "reading": "udanyāvaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lat/1du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyāvaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "1pl",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "udanyāmaḥ",
+          "udakīyāmaḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lat/1pl/SELF_WISH/THIRST/1",
+            "reading": "udanyāmaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lat/1pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyāmaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "3sg",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "audanyat",
+          "audakīyat"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lang/3sg/SELF_WISH/THIRST/1",
+            "reading": "audanyat",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lang/3sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyat",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "3du",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "audanyatām",
+          "audakīyatām"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lang/3du/SELF_WISH/THIRST/1",
+            "reading": "audanyatām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lang/3du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyatām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "3pl",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "audanyan",
+          "audakīyan"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lang/3pl/SELF_WISH/THIRST/1",
+            "reading": "audanyan",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lang/3pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyan",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "2sg",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "audanyaḥ",
+          "audakīyaḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lang/2sg/SELF_WISH/THIRST/1",
+            "reading": "audanyaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lang/2sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "2du",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "audanyatam",
+          "audakīyatam"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lang/2du/SELF_WISH/THIRST/1",
+            "reading": "audanyatam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lang/2du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyatam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "2pl",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "audanyata",
+          "audakīyata"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lang/2pl/SELF_WISH/THIRST/1",
+            "reading": "audanyata",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lang/2pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyata",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "1sg",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "audanyam",
+          "audakīyam"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lang/1sg/SELF_WISH/THIRST/1",
+            "reading": "audanyam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lang/1sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "1du",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "audanyāva",
+          "audakīyāva"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lang/1du/SELF_WISH/THIRST/1",
+            "reading": "audanyāva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lang/1du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyāva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "1pl",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "audanyāma",
+          "audakīyāma"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lang/1pl/SELF_WISH/THIRST/1",
+            "reading": "audanyāma",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lang/1pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyāma",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "3sg",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "udanyatu",
+          "udakīyatu"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lot/3sg/SELF_WISH/THIRST/1",
+            "reading": "udanyatu",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lot/3sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyatu",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "3du",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "udanyatām",
+          "udakīyatām"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lot/3du/SELF_WISH/THIRST/1",
+            "reading": "udanyatām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lot/3du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyatām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "3pl",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "udanyantu",
+          "udakīyantu"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lot/3pl/SELF_WISH/THIRST/1",
+            "reading": "udanyantu",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lot/3pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyantu",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "2sg",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "udanya",
+          "udakīya"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lot/2sg/SELF_WISH/THIRST/1",
+            "reading": "udanya",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lot/2sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīya",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "2du",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "udanyatam",
+          "udakīyatam"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lot/2du/SELF_WISH/THIRST/1",
+            "reading": "udanyatam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lot/2du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyatam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "2pl",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "udanyata",
+          "udakīyata"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lot/2pl/SELF_WISH/THIRST/1",
+            "reading": "udanyata",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lot/2pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyata",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "1sg",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "udanyāni",
+          "udakīyāni"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lot/1sg/SELF_WISH/THIRST/1",
+            "reading": "udanyāni",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lot/1sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyāni",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "1du",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "udanyāva",
+          "udakīyāva"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lot/1du/SELF_WISH/THIRST/1",
+            "reading": "udanyāva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lot/1du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyāva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "1pl",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "udanyāma",
+          "udakīyāma"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lot/1pl/SELF_WISH/THIRST/1",
+            "reading": "udanyāma",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lot/1pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyāma",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "udanyet",
+          "udakīyet"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/vidhiling/3sg/SELF_WISH/THIRST/1",
+            "reading": "udanyet",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/vidhiling/3sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyet",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "udanyetām",
+          "udakīyetām"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/vidhiling/3du/SELF_WISH/THIRST/1",
+            "reading": "udanyetām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/vidhiling/3du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyetām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "udanyeyuḥ",
+          "udakīyeyuḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/vidhiling/3pl/SELF_WISH/THIRST/1",
+            "reading": "udanyeyuḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/vidhiling/3pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyeyuḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "udanyeḥ",
+          "udakīyeḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/vidhiling/2sg/SELF_WISH/THIRST/1",
+            "reading": "udanyeḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/vidhiling/2sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyeḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "udanyetam",
+          "udakīyetam"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/vidhiling/2du/SELF_WISH/THIRST/1",
+            "reading": "udanyetam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/vidhiling/2du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyetam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "udanyeta",
+          "udakīyeta"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/vidhiling/2pl/SELF_WISH/THIRST/1",
+            "reading": "udanyeta",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/vidhiling/2pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyeta",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "udanyeyam",
+          "udakīyeyam"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/vidhiling/1sg/SELF_WISH/THIRST/1",
+            "reading": "udanyeyam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/vidhiling/1sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyeyam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "udanyeva",
+          "udakīyeva"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/vidhiling/1du/SELF_WISH/THIRST/1",
+            "reading": "udanyeva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/vidhiling/1du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyeva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "root": "udaka",
+        "lexical_id": "kaumudi/7.4.34/udaka",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "udanyema",
+          "udakīyema"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/vidhiling/1pl/SELF_WISH/THIRST/1",
+            "reading": "udanyema",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/vidhiling/1pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyema",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyati",
+          "dhanīyati"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lat/3sg/SELF_WISH/COVETING/1",
+            "reading": "dhanāyati",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lat/3sg/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyati",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "3du",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyataḥ",
+          "dhanīyataḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lat/3du/SELF_WISH/COVETING/1",
+            "reading": "dhanāyataḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lat/3du/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyataḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "3pl",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyanti",
+          "dhanīyanti"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lat/3pl/SELF_WISH/COVETING/1",
+            "reading": "dhanāyanti",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lat/3pl/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyanti",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "2sg",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyasi",
+          "dhanīyasi"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lat/2sg/SELF_WISH/COVETING/1",
+            "reading": "dhanāyasi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lat/2sg/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyasi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "2du",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyathaḥ",
+          "dhanīyathaḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lat/2du/SELF_WISH/COVETING/1",
+            "reading": "dhanāyathaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lat/2du/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyathaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "2pl",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyatha",
+          "dhanīyatha"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lat/2pl/SELF_WISH/COVETING/1",
+            "reading": "dhanāyatha",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lat/2pl/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyatha",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "1sg",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyāmi",
+          "dhanīyāmi"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lat/1sg/SELF_WISH/COVETING/1",
+            "reading": "dhanāyāmi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lat/1sg/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyāmi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "1du",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyāvaḥ",
+          "dhanīyāvaḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lat/1du/SELF_WISH/COVETING/1",
+            "reading": "dhanāyāvaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lat/1du/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyāvaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lat",
+        "slot": "1pl",
+        "context_ref": "lat",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyāmaḥ",
+          "dhanīyāmaḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lat/1pl/SELF_WISH/COVETING/1",
+            "reading": "dhanāyāmaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lat/1pl/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyāmaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "3sg",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "adhanāyat",
+          "adhanīyat"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lang/3sg/SELF_WISH/COVETING/1",
+            "reading": "adhanāyat",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lang/3sg/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "adhanīyat",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "3du",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "adhanāyatām",
+          "adhanīyatām"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lang/3du/SELF_WISH/COVETING/1",
+            "reading": "adhanāyatām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lang/3du/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "adhanīyatām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "3pl",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "adhanāyan",
+          "adhanīyan"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lang/3pl/SELF_WISH/COVETING/1",
+            "reading": "adhanāyan",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lang/3pl/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "adhanīyan",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "2sg",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "adhanāyaḥ",
+          "adhanīyaḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lang/2sg/SELF_WISH/COVETING/1",
+            "reading": "adhanāyaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lang/2sg/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "adhanīyaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "2du",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "adhanāyatam",
+          "adhanīyatam"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lang/2du/SELF_WISH/COVETING/1",
+            "reading": "adhanāyatam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lang/2du/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "adhanīyatam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "2pl",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "adhanāyata",
+          "adhanīyata"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lang/2pl/SELF_WISH/COVETING/1",
+            "reading": "adhanāyata",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lang/2pl/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "adhanīyata",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "1sg",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "adhanāyam",
+          "adhanīyam"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lang/1sg/SELF_WISH/COVETING/1",
+            "reading": "adhanāyam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lang/1sg/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "adhanīyam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "1du",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "adhanāyāva",
+          "adhanīyāva"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lang/1du/SELF_WISH/COVETING/1",
+            "reading": "adhanāyāva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lang/1du/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "adhanīyāva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lang",
+        "slot": "1pl",
+        "context_ref": "lang",
+        "initial_augment": true,
+        "readings": [
+          "adhanāyāma",
+          "adhanīyāma"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lang/1pl/SELF_WISH/COVETING/1",
+            "reading": "adhanāyāma",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lang/1pl/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "adhanīyāma",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "3sg",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyatu",
+          "dhanīyatu"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lot/3sg/SELF_WISH/COVETING/1",
+            "reading": "dhanāyatu",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lot/3sg/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyatu",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "3du",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyatām",
+          "dhanīyatām"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lot/3du/SELF_WISH/COVETING/1",
+            "reading": "dhanāyatām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lot/3du/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyatām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "3pl",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyantu",
+          "dhanīyantu"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lot/3pl/SELF_WISH/COVETING/1",
+            "reading": "dhanāyantu",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lot/3pl/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyantu",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "2sg",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "dhanāya",
+          "dhanīya"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lot/2sg/SELF_WISH/COVETING/1",
+            "reading": "dhanāya",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lot/2sg/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīya",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "2du",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyatam",
+          "dhanīyatam"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lot/2du/SELF_WISH/COVETING/1",
+            "reading": "dhanāyatam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lot/2du/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyatam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "2pl",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyata",
+          "dhanīyata"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lot/2pl/SELF_WISH/COVETING/1",
+            "reading": "dhanāyata",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lot/2pl/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyata",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "1sg",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyāni",
+          "dhanīyāni"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lot/1sg/SELF_WISH/COVETING/1",
+            "reading": "dhanāyāni",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lot/1sg/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyāni",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "1du",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyāva",
+          "dhanīyāva"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lot/1du/SELF_WISH/COVETING/1",
+            "reading": "dhanāyāva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lot/1du/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyāva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "lot",
+        "slot": "1pl",
+        "context_ref": "lot",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyāma",
+          "dhanīyāma"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/lot/1pl/SELF_WISH/COVETING/1",
+            "reading": "dhanāyāma",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/lot/1pl/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyāma",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyet",
+          "dhanīyet"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/vidhiling/3sg/SELF_WISH/COVETING/1",
+            "reading": "dhanāyet",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/vidhiling/3sg/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyet",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyetām",
+          "dhanīyetām"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/vidhiling/3du/SELF_WISH/COVETING/1",
+            "reading": "dhanāyetām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/vidhiling/3du/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyetām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyeyuḥ",
+          "dhanīyeyuḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/vidhiling/3pl/SELF_WISH/COVETING/1",
+            "reading": "dhanāyeyuḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/vidhiling/3pl/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyeyuḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyeḥ",
+          "dhanīyeḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/vidhiling/2sg/SELF_WISH/COVETING/1",
+            "reading": "dhanāyeḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/vidhiling/2sg/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyeḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyetam",
+          "dhanīyetam"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/vidhiling/2du/SELF_WISH/COVETING/1",
+            "reading": "dhanāyetam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/vidhiling/2du/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyetam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyeta",
+          "dhanīyeta"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/vidhiling/2pl/SELF_WISH/COVETING/1",
+            "reading": "dhanāyeta",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/vidhiling/2pl/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyeta",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyeyam",
+          "dhanīyeyam"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/vidhiling/1sg/SELF_WISH/COVETING/1",
+            "reading": "dhanāyeyam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/vidhiling/1sg/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyeyam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyeva",
+          "dhanīyeva"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/vidhiling/1du/SELF_WISH/COVETING/1",
+            "reading": "dhanāyeva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/vidhiling/1du/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyeva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      },
+      {
+        "profile": "DHANA_KYAC_P",
+        "root": "dhana",
+        "lexical_id": "kaumudi/7.4.34/dhana",
+        "pada": "P",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "context_ref": "vidhiling",
+        "initial_augment": false,
+        "readings": [
+          "dhanāyema",
+          "dhanīyema"
+        ],
+        "paths": [
+          {
+            "history_label": "DHANA_KYAC_P/vidhiling/1pl/SELF_WISH/COVETING/1",
+            "reading": "dhanāyema",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "COVETING",
+            "stem_word": "dhanāya"
+          },
+          {
+            "history_label": "DHANA_KYAC_P/vidhiling/1pl/SELF_WISH/ORDINARY_WEALTH_WISH/1",
+            "reading": "dhanīyema",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "ORDINARY_WEALTH_WISH",
+            "stem_word": "dhanīya"
+          }
+        ],
+        "new_position_credit": 1,
+        "word_evidence": "WRITTEN_RULE_INFERENCE_NOT_INDIVIDUAL_ATTESTATION"
+      }
+    ],
+    "panels": [
+      {
+        "panel": "P1",
+        "profile": "ASHANA_KYAC_P",
+        "lakaras": [
+          "lat",
+          "lang",
+          "lot",
+          "vidhiling"
+        ],
+        "positions": 36,
+        "readings": 72,
+        "paths": 72,
+        "complete_nine_slot_paradigms": 4
+      },
+      {
+        "panel": "P2",
+        "profile": "UDAKA_KYAC_P",
+        "lakaras": [
+          "lat",
+          "lang",
+          "lot",
+          "vidhiling"
+        ],
+        "positions": 36,
+        "readings": 72,
+        "paths": 72,
+        "complete_nine_slot_paradigms": 4
+      },
+      {
+        "panel": "P3",
+        "profile": "DHANA_KYAC_P",
+        "lakaras": [
+          "lat",
+          "lang",
+          "lot",
+          "vidhiling"
+        ],
+        "positions": 36,
+        "readings": 72,
+        "paths": 72,
+        "complete_nine_slot_paradigms": 4
+      }
+    ],
+    "complete_nine_slot_paradigms": 12
+  },
+  "planned_request_grid": {
+    "profiles": [
+      "ASHANA_KYAC_P",
+      "UDAKA_KYAC_P",
+      "DHANA_KYAC_P"
+    ],
+    "lakaras": [
+      "lat",
+      "lang",
+      "lot",
+      "vidhiling"
+    ],
+    "slots_by_profile": {
+      "ASHANA_KYAC_P": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "UDAKA_KYAC_P": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "DHANA_KYAC_P": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ]
+    },
+    "positions": 108,
+    "written_positions": 108,
+    "written_readings": 216,
+    "written_paths": 216,
+    "remaining_positions": 0,
+    "missing_requests": [],
+    "complete_nine_slot_paradigms_written": 12
+  },
+  "closed_request_grid": {
+    "profiles": [
+      "ASHANA_KYAC_P",
+      "UDAKA_KYAC_P",
+      "DHANA_KYAC_P"
+    ],
+    "lakaras": [
+      "lat",
+      "lang",
+      "lot",
+      "vidhiling"
+    ],
+    "slots_by_profile": {
+      "ASHANA_KYAC_P": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "UDAKA_KYAC_P": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "DHANA_KYAC_P": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ]
+    },
+    "positions": 108,
+    "written_positions": 108,
+    "written_readings": 216,
+    "written_paths": 216,
+    "remaining_positions": 0,
+    "missing_requests": [],
+    "complete_nine_slot_paradigms_written": 12
+  },
+  "companion": {
+    "commit": "edd98b0685b478cb39468e350b26783bb4cce7ff",
+    "head_checked_for_this_block": false,
+    "scope": "INHERITED_ONLY_NOT_FRESH_HEAD_CHECK"
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_checks": "PASS",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "navigation_operator_suites": "DEFERRED",
+    "document_check_runtime": "3.12.14",
+    "document_check_scope": "All six literal source forms, paired purpose guards and two sources for ordinary water desire; 108 disjoint keys, 216 guarded readings, a/u vowel augments and exception to n-lopa checked. Static checks only; no grammar execution or full predecessor audit."
+  },
+  "grammar_executions": [],
+  "native_controls": {
+    "primitive_carrier": "FREE_UNITAL_DAGGER_EXTENSION_OF_PG129",
+    "typed_zero": "N3",
+    "pairing": "N3_NOT_EVENT_ISOMETRY",
+    "physical_identification": null,
+    "clock_adapter": null
+  },
+  "open_obligations": [
+    "Wider semantic admission, independent source scans, accent/doubling and executable/native/calculator integration."
+  ],
+  "next_work": [
+    "Resolve the outer status of substituted udan; use source-conditioned forms for the other two families."
+  ],
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "sense_witnesses": {
+    "EAT_NOW": [
+      "want food to eat now"
+    ],
+    "OTHER_FOOD_WISH": [
+      "want to store food for later use"
+    ],
+    "THIRST": [
+      "want water to drink"
+    ],
+    "OTHER_WATER_WISH": [
+      "want water to bathe",
+      "want water for irrigation"
+    ],
+    "COVETING": [
+      "already has wealth and covets more"
+    ],
+    "ORDINARY_WEALTH_WISH": [
+      "wants means of subsistence"
+    ]
+  },
+  "unknown_purpose": "RETURN_BOTH_CONDITIONED_CANDIDATES",
+  "word_shape_polarity": "Source examples identify complementary senses within the self-wish domain.",
+  "document_check_summary": {
+    "positions": 108,
+    "readings": 216,
+    "paths": 216,
+    "source_records": 28,
+    "local_links_checked": 5,
+    "remaining_requests": 0,
+    "grammar_execution": false
+  }
+}

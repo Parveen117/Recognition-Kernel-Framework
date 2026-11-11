@@ -1408,6 +1408,11 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG130 — Purpose-conditioned kyac for food, water and wealth:** [packet](nominal_desire_purposes/README.md) adds
+**108 positions / 216 readings / 216 paths**; cumulative **29,885**.
+Selected target 108/108; Python 3.12 static checks only,
+grammar tests/generators/replay deferred.
+
 **PG129 — Outer nominal-role forms and meaningful kāmyac:** [packet](nominal_role_outer/README.md) adds
 **432 positions / 754 readings / 846 paths**; cumulative **29,777**.
 Selected target 432/432; Python 3.12 static checks only,
