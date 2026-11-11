@@ -1,0 +1,82 @@
+{
+  "schema": "rkf.panini.pg200.state.v1",
+  "author": "Monty",
+  "date": "2026-11-11",
+  "baseline": {
+    "path": "research/panini_grammar/kinasa_three_grammatical_schools/STATE.json",
+    "commit": "a4308c99c0d619ae117bd8fcfe3fb721129dad3c",
+    "git_blob_sha": "b35571c7396da5b9782b246663b565c2d8fdad5e",
+    "sha256": "5b5952a69d98999af6629158d4df6c61a708f8d06f32dc39d3efa4ab02edf6eb",
+    "bytes": 3254
+  },
+  "finite_positions": 41333,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_written_table_readings": 0,
+  "retained_path_count": 0,
+  "position_accounting": {
+    "forms": [],
+    "panels": [],
+    "complete_nine_slot_paradigms": 0
+  },
+  "contextual_profiles": {},
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "Other Saṃhitā and manuscript readings may differ. The ten lexical occurrences are limited to the selected Paippalāda TEI and search spellings.",
+    "Four primary 4.105 affix assignments, the specific k effect at 5.56, further lexical domains and executable verification."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Compared seven located clauses and their word order, workbook cases, six source traditions, separate manuscript readings, TEI editorial markers and ten independently located Paippalāda roles."
+  },
+  "direct_multiple_affix_fields": 99,
+  "inferred_fields": 0,
+  "open_fields": 4,
+  "marker_questions_without_specific_effect": 1,
+  "Vedic_traditions": 6,
+  "aligned_farming_passages": 7,
+  "attested_verb_case_patterns": 5,
+  "paippalada_form_occurrences": 10
+}

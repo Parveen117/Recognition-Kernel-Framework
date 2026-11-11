@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG200 — The ploughman and the oxen in six Vedic traditions.** [Packet](vedic_plough_clause_readings/README.md). Zero new finite positions. Cumulative **41,333**.
+
 **PG199 — Three grammatical histories for the Yama word kīnāśa.** [Packet](kinasa_three_grammatical_schools/README.md). Zero new finite positions. Cumulative **41,333**.
 
 **PG198 — The thief’s tṛc and both recorded markers for all ten ṛ-stems.** [Packet](unadi_thief_and_ten_affix_readings/README.md). Zero new finite positions. Cumulative **41,333**.

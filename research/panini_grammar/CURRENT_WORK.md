@@ -1,4 +1,4 @@
-# Pāṇini grammar · current written coverage at PG199
+# Pāṇini grammar · current written coverage at PG200
 
 Monty · 11 November 2026
 
@@ -17,6 +17,7 @@ PG191–PG196 add source-backed affix decisions, clause readings and Ṛgvedic a
 | Disputed middle perfects | All **45/45** requests have a primary on the Bhāṣya/Kāśikā same-word reading, with 135 auxiliary choices and 225 inherited spellings. Of these, 54 match the other table at 18 requests. [Decision and all choices](desiderative_perfect_primary_word_policy/README.md) | A full traditional example of the disputed compound perfect or an explicit alternative rule on early middle entitlement remains to be found. [Traditional controls and search](agent_noun_and_outer_middle/README.md) |
 | Agent nouns and object case | Three construction histories for *kartā* yield **27** two-word readings and **18** distinct unaccented pairs. | Nine accusative pairs admit both habitual agent and finite future readings. [Three-way comparison](agent_noun_object_government/README.md) |
 | Ṛgvedic agent nouns in context | **29 head tokens** reviewed across five accent-labelled entries. All 15 occurrences of the slayer have a case-identified dependent, as do the six preaccenting *kartṛ* examples. | Four other *kartṛ* tokens have no dependent assigned. [Readings and exact verse locators](rigvedic_agent_accent_and_objects/README.md) |
+| Vedic ploughman and oxen | **Seven passages in six traditions** give five combinations of preverb, verb and animal case. Ten Paippalāda occurrences have an identified nominal role. | The reported singular animal reading and the selected plural reading retain their own editions. [Parallel clauses and TEI locators](vedic_plough_clause_readings/README.md) |
 | Wider Sanskrit derivation | The existing packets treat selected nominal, kṛt, taddhita, compound, sentence and accent questions. | Extend to the outstanding members, semantic conditions, syntactic readings and Vedic traditions. [Detailed grammar-wide register](unadi_first_pada_readings/REMAINING.md) |
 | Executable verification | These stages provide written source decisions and derivations. | Claude’s Python 3.12 grammar tests, generators and certificate replay are pending. |
 
