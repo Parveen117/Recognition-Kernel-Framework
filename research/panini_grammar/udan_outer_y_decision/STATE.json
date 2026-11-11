@@ -1,0 +1,3698 @@
+{
+  "schema": "rkf.panini.pg161.state.v1",
+  "author": "Monty",
+  "date": "2026-11-11",
+  "baseline": {
+    "path": "research/panini_grammar/yang_semantic_conditions/STATE.json",
+    "commit": "5249ca7c4b0fd34760556638690517f2dd4a669d",
+    "git_blob_sha": "a74e45e8c610c1dbbe82bdf998f96fe33f6d873e",
+    "sha256": "cde16f0003c99dfae607bf09abb82c4257e36ce9d73d07e185088414761df8fc",
+    "bytes": 371474
+  },
+  "finite_positions": 36599,
+  "new_positions": 54,
+  "new_position_readings": 276,
+  "new_written_table_readings": 276,
+  "retained_path_count": 285,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyiṣyati",
+          "udakīyiṣyati",
+          "udaniṣyati"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lrt/3sg/SELF_WISH/THIRST/1",
+            "reading": "udanyiṣyati",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lrt/3sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyiṣyati",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udaniṣyati",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lrt/3sg/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrt",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyiṣyataḥ",
+          "udakīyiṣyataḥ",
+          "udaniṣyataḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lrt/3du/SELF_WISH/THIRST/1",
+            "reading": "udanyiṣyataḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lrt/3du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyiṣyataḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udaniṣyataḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lrt/3du/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyiṣyanti",
+          "udakīyiṣyanti",
+          "udaniṣyanti"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lrt/3pl/SELF_WISH/THIRST/1",
+            "reading": "udanyiṣyanti",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lrt/3pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyiṣyanti",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udaniṣyanti",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lrt/3pl/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyiṣyasi",
+          "udakīyiṣyasi",
+          "udaniṣyasi"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lrt/2sg/SELF_WISH/THIRST/1",
+            "reading": "udanyiṣyasi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lrt/2sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyiṣyasi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udaniṣyasi",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lrt/2sg/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrt",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyiṣyathaḥ",
+          "udakīyiṣyathaḥ",
+          "udaniṣyathaḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lrt/2du/SELF_WISH/THIRST/1",
+            "reading": "udanyiṣyathaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lrt/2du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyiṣyathaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udaniṣyathaḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lrt/2du/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyiṣyatha",
+          "udakīyiṣyatha",
+          "udaniṣyatha"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lrt/2pl/SELF_WISH/THIRST/1",
+            "reading": "udanyiṣyatha",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lrt/2pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyiṣyatha",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udaniṣyatha",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lrt/2pl/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyiṣyāmi",
+          "udakīyiṣyāmi",
+          "udaniṣyāmi"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lrt/1sg/SELF_WISH/THIRST/1",
+            "reading": "udanyiṣyāmi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lrt/1sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyiṣyāmi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udaniṣyāmi",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lrt/1sg/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrt",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyiṣyāvaḥ",
+          "udakīyiṣyāvaḥ",
+          "udaniṣyāvaḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lrt/1du/SELF_WISH/THIRST/1",
+            "reading": "udanyiṣyāvaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lrt/1du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyiṣyāvaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udaniṣyāvaḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lrt/1du/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyiṣyāmaḥ",
+          "udakīyiṣyāmaḥ",
+          "udaniṣyāmaḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lrt/1pl/SELF_WISH/THIRST/1",
+            "reading": "udanyiṣyāmaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lrt/1pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyiṣyāmaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udaniṣyāmaḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lrt/1pl/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lut",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyitā",
+          "udakīyitā",
+          "udanitā"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lut/3sg/SELF_WISH/THIRST/1",
+            "reading": "udanyitā",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lut/3sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyitā",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanitā",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lut/3sg/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lut",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyitārau",
+          "udakīyitārau",
+          "udanitārau"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lut/3du/SELF_WISH/THIRST/1",
+            "reading": "udanyitārau",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lut/3du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyitārau",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanitārau",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lut/3du/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lut",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyitāraḥ",
+          "udakīyitāraḥ",
+          "udanitāraḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lut/3pl/SELF_WISH/THIRST/1",
+            "reading": "udanyitāraḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lut/3pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyitāraḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanitāraḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lut/3pl/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lut",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyitāsi",
+          "udakīyitāsi",
+          "udanitāsi"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lut/2sg/SELF_WISH/THIRST/1",
+            "reading": "udanyitāsi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lut/2sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyitāsi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanitāsi",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lut/2sg/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lut",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyitāsthaḥ",
+          "udakīyitāsthaḥ",
+          "udanitāsthaḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lut/2du/SELF_WISH/THIRST/1",
+            "reading": "udanyitāsthaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lut/2du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyitāsthaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanitāsthaḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lut/2du/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lut",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyitāstha",
+          "udakīyitāstha",
+          "udanitāstha"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lut/2pl/SELF_WISH/THIRST/1",
+            "reading": "udanyitāstha",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lut/2pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyitāstha",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanitāstha",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lut/2pl/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lut",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyitāsmi",
+          "udakīyitāsmi",
+          "udanitāsmi"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lut/1sg/SELF_WISH/THIRST/1",
+            "reading": "udanyitāsmi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lut/1sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyitāsmi",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanitāsmi",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lut/1sg/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lut",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyitāsvaḥ",
+          "udakīyitāsvaḥ",
+          "udanitāsvaḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lut/1du/SELF_WISH/THIRST/1",
+            "reading": "udanyitāsvaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lut/1du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyitāsvaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanitāsvaḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lut/1du/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lut",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyitāsmaḥ",
+          "udakīyitāsmaḥ",
+          "udanitāsmaḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lut/1pl/SELF_WISH/THIRST/1",
+            "reading": "udanyitāsmaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lut/1pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyitāsmaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanitāsmaḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lut/1pl/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "audanyiṣyat",
+          "audakīyiṣyat",
+          "audaniṣyat"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lrng/3sg/SELF_WISH/THIRST/1",
+            "reading": "audanyiṣyat",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lrng/3sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyiṣyat",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "audaniṣyat",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lrng/3sg/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrng",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "audanyiṣyatām",
+          "audakīyiṣyatām",
+          "audaniṣyatām"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lrng/3du/SELF_WISH/THIRST/1",
+            "reading": "audanyiṣyatām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lrng/3du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyiṣyatām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "audaniṣyatām",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lrng/3du/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "audanyiṣyan",
+          "audakīyiṣyan",
+          "audaniṣyan"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lrng/3pl/SELF_WISH/THIRST/1",
+            "reading": "audanyiṣyan",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lrng/3pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyiṣyan",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "audaniṣyan",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lrng/3pl/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "audanyiṣyaḥ",
+          "audakīyiṣyaḥ",
+          "audaniṣyaḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lrng/2sg/SELF_WISH/THIRST/1",
+            "reading": "audanyiṣyaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lrng/2sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyiṣyaḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "audaniṣyaḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lrng/2sg/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrng",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "audanyiṣyatam",
+          "audakīyiṣyatam",
+          "audaniṣyatam"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lrng/2du/SELF_WISH/THIRST/1",
+            "reading": "audanyiṣyatam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lrng/2du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyiṣyatam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "audaniṣyatam",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lrng/2du/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "audanyiṣyata",
+          "audakīyiṣyata",
+          "audaniṣyata"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lrng/2pl/SELF_WISH/THIRST/1",
+            "reading": "audanyiṣyata",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lrng/2pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyiṣyata",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "audaniṣyata",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lrng/2pl/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "audanyiṣyam",
+          "audakīyiṣyam",
+          "audaniṣyam"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lrng/1sg/SELF_WISH/THIRST/1",
+            "reading": "audanyiṣyam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lrng/1sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyiṣyam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "audaniṣyam",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lrng/1sg/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrng",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "audanyiṣyāva",
+          "audakīyiṣyāva",
+          "audaniṣyāva"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lrng/1du/SELF_WISH/THIRST/1",
+            "reading": "audanyiṣyāva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lrng/1du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyiṣyāva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "audaniṣyāva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lrng/1du/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "audanyiṣyāma",
+          "audakīyiṣyāma",
+          "audaniṣyāma"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lrng/1pl/SELF_WISH/THIRST/1",
+            "reading": "audanyiṣyāma",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lrng/1pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyiṣyāma",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "audaniṣyāma",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lrng/1pl/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyyāt",
+          "udanyāt",
+          "udakīyyāt"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/3sg/SELF_WISH/THIRST/1",
+            "reading": "udanyyāt",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/3sg/SELF_WISH/THIRST/2",
+            "reading": "udanyāt",
+            "ending_sound_schedule": "YAM_REDUCTION_8.4.64",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/3sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyyāt",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanyāt",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/ashirling/3sg/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyyāstām",
+          "udanyāstām",
+          "udakīyyāstām"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/3du/SELF_WISH/THIRST/1",
+            "reading": "udanyyāstām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/3du/SELF_WISH/THIRST/2",
+            "reading": "udanyāstām",
+            "ending_sound_schedule": "YAM_REDUCTION_8.4.64",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/3du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyyāstām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanyāstām",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/ashirling/3du/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyyāsuḥ",
+          "udanyāsuḥ",
+          "udakīyyāsuḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/3pl/SELF_WISH/THIRST/1",
+            "reading": "udanyyāsuḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/3pl/SELF_WISH/THIRST/2",
+            "reading": "udanyāsuḥ",
+            "ending_sound_schedule": "YAM_REDUCTION_8.4.64",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/3pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyyāsuḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanyāsuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/ashirling/3pl/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyyāḥ",
+          "udanyāḥ",
+          "udakīyyāḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/2sg/SELF_WISH/THIRST/1",
+            "reading": "udanyyāḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/2sg/SELF_WISH/THIRST/2",
+            "reading": "udanyāḥ",
+            "ending_sound_schedule": "YAM_REDUCTION_8.4.64",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/2sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyyāḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanyāḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/ashirling/2sg/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyyāstam",
+          "udanyāstam",
+          "udakīyyāstam"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/2du/SELF_WISH/THIRST/1",
+            "reading": "udanyyāstam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/2du/SELF_WISH/THIRST/2",
+            "reading": "udanyāstam",
+            "ending_sound_schedule": "YAM_REDUCTION_8.4.64",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/2du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyyāstam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanyāstam",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/ashirling/2du/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyyāsta",
+          "udanyāsta",
+          "udakīyyāsta"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/2pl/SELF_WISH/THIRST/1",
+            "reading": "udanyyāsta",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/2pl/SELF_WISH/THIRST/2",
+            "reading": "udanyāsta",
+            "ending_sound_schedule": "YAM_REDUCTION_8.4.64",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/2pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyyāsta",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanyāsta",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/ashirling/2pl/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyyāsam",
+          "udanyāsam",
+          "udakīyyāsam"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/1sg/SELF_WISH/THIRST/1",
+            "reading": "udanyyāsam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/1sg/SELF_WISH/THIRST/2",
+            "reading": "udanyāsam",
+            "ending_sound_schedule": "YAM_REDUCTION_8.4.64",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/1sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyyāsam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanyāsam",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/ashirling/1sg/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyyāsva",
+          "udanyāsva",
+          "udakīyyāsva"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/1du/SELF_WISH/THIRST/1",
+            "reading": "udanyyāsva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/1du/SELF_WISH/THIRST/2",
+            "reading": "udanyāsva",
+            "ending_sound_schedule": "YAM_REDUCTION_8.4.64",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/1du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyyāsva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanyāsva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/ashirling/1du/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyyāsma",
+          "udanyāsma",
+          "udakīyyāsma"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/1pl/SELF_WISH/THIRST/1",
+            "reading": "udanyyāsma",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/1pl/SELF_WISH/THIRST/2",
+            "reading": "udanyāsma",
+            "ending_sound_schedule": "YAM_REDUCTION_8.4.64",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/ashirling/1pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "udakīyyāsma",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanyāsma",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/ashirling/1pl/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lit",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyāṃcakāra",
+          "udanyāñcakāra",
+          "udanyāṃbabhūva",
+          "udanyāmbabhūva",
+          "udanyāmāsa",
+          "udakīyāṃcakāra",
+          "udakīyāñcakāra",
+          "udakīyāṃbabhūva",
+          "udakīyāmbabhūva",
+          "udakīyāmāsa",
+          "udanāṃcakāra",
+          "udanāñcakāra",
+          "udanāṃbabhūva",
+          "udanāmbabhūva",
+          "udanāmāsa"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3sg/SELF_WISH/THIRST/K_P/1/ANUSVARA",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakāra",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udanyāṃcakāra",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3sg/SELF_WISH/THIRST/K_P/1/HOMORGANIC",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakāra",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udanyāñcakāra",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3sg/SELF_WISH/THIRST/BHU_P/1/ANUSVARA",
+            "primary_word": "udanyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udanyāṃbabhūva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3sg/SELF_WISH/THIRST/BHU_P/1/HOMORGANIC",
+            "primary_word": "udanyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udanyāmbabhūva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3sg/SELF_WISH/THIRST/AS_P/1/UNCHANGED_M",
+            "primary_word": "udanyām",
+            "auxiliary": "AS",
+            "auxiliary_word": "āsa",
+            "auxiliary_pada": "P",
+            "boundary_readout": "UNCHANGED_M",
+            "reading": "udanyāmāsa",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3sg/SELF_WISH/OTHER_WATER_WISH/K_P/1/ANUSVARA",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakāra",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udakīyāṃcakāra",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3sg/SELF_WISH/OTHER_WATER_WISH/K_P/1/HOMORGANIC",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakāra",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udakīyāñcakāra",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3sg/SELF_WISH/OTHER_WATER_WISH/BHU_P/1/ANUSVARA",
+            "primary_word": "udakīyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udakīyāṃbabhūva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3sg/SELF_WISH/OTHER_WATER_WISH/BHU_P/1/HOMORGANIC",
+            "primary_word": "udakīyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udakīyāmbabhūva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3sg/SELF_WISH/OTHER_WATER_WISH/AS_P/1/UNCHANGED_M",
+            "primary_word": "udakīyām",
+            "auxiliary": "AS",
+            "auxiliary_word": "āsa",
+            "auxiliary_pada": "P",
+            "boundary_readout": "UNCHANGED_M",
+            "reading": "udakīyāmāsa",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanāṃcakāra",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/3sg/1"
+          },
+          {
+            "reading": "udanāñcakāra",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/3sg/2"
+          },
+          {
+            "reading": "udanāṃbabhūva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/3sg/3"
+          },
+          {
+            "reading": "udanāmbabhūva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/3sg/4"
+          },
+          {
+            "reading": "udanāmāsa",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/3sg/5"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lit",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyāṃcakratuḥ",
+          "udanyāñcakratuḥ",
+          "udanyāṃbabhūvatuḥ",
+          "udanyāmbabhūvatuḥ",
+          "udanyāmāsatuḥ",
+          "udakīyāṃcakratuḥ",
+          "udakīyāñcakratuḥ",
+          "udakīyāṃbabhūvatuḥ",
+          "udakīyāmbabhūvatuḥ",
+          "udakīyāmāsatuḥ",
+          "udanāṃcakratuḥ",
+          "udanāñcakratuḥ",
+          "udanāṃbabhūvatuḥ",
+          "udanāmbabhūvatuḥ",
+          "udanāmāsatuḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3du/SELF_WISH/THIRST/K_P/1/ANUSVARA",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakratuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udanyāṃcakratuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3du/SELF_WISH/THIRST/K_P/1/HOMORGANIC",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakratuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udanyāñcakratuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3du/SELF_WISH/THIRST/BHU_P/1/ANUSVARA",
+            "primary_word": "udanyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvatuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udanyāṃbabhūvatuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3du/SELF_WISH/THIRST/BHU_P/1/HOMORGANIC",
+            "primary_word": "udanyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvatuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udanyāmbabhūvatuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3du/SELF_WISH/THIRST/AS_P/1/UNCHANGED_M",
+            "primary_word": "udanyām",
+            "auxiliary": "AS",
+            "auxiliary_word": "āsatuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "UNCHANGED_M",
+            "reading": "udanyāmāsatuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3du/SELF_WISH/OTHER_WATER_WISH/K_P/1/ANUSVARA",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakratuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udakīyāṃcakratuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3du/SELF_WISH/OTHER_WATER_WISH/K_P/1/HOMORGANIC",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakratuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udakīyāñcakratuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3du/SELF_WISH/OTHER_WATER_WISH/BHU_P/1/ANUSVARA",
+            "primary_word": "udakīyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvatuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udakīyāṃbabhūvatuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3du/SELF_WISH/OTHER_WATER_WISH/BHU_P/1/HOMORGANIC",
+            "primary_word": "udakīyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvatuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udakīyāmbabhūvatuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3du/SELF_WISH/OTHER_WATER_WISH/AS_P/1/UNCHANGED_M",
+            "primary_word": "udakīyām",
+            "auxiliary": "AS",
+            "auxiliary_word": "āsatuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "UNCHANGED_M",
+            "reading": "udakīyāmāsatuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanāṃcakratuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/3du/1"
+          },
+          {
+            "reading": "udanāñcakratuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/3du/2"
+          },
+          {
+            "reading": "udanāṃbabhūvatuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/3du/3"
+          },
+          {
+            "reading": "udanāmbabhūvatuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/3du/4"
+          },
+          {
+            "reading": "udanāmāsatuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/3du/5"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lit",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyāṃcakruḥ",
+          "udanyāñcakruḥ",
+          "udanyāṃbabhūvuḥ",
+          "udanyāmbabhūvuḥ",
+          "udanyāmāsuḥ",
+          "udakīyāṃcakruḥ",
+          "udakīyāñcakruḥ",
+          "udakīyāṃbabhūvuḥ",
+          "udakīyāmbabhūvuḥ",
+          "udakīyāmāsuḥ",
+          "udanāṃcakruḥ",
+          "udanāñcakruḥ",
+          "udanāṃbabhūvuḥ",
+          "udanāmbabhūvuḥ",
+          "udanāmāsuḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3pl/SELF_WISH/THIRST/K_P/1/ANUSVARA",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakruḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udanyāṃcakruḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3pl/SELF_WISH/THIRST/K_P/1/HOMORGANIC",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakruḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udanyāñcakruḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3pl/SELF_WISH/THIRST/BHU_P/1/ANUSVARA",
+            "primary_word": "udanyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udanyāṃbabhūvuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3pl/SELF_WISH/THIRST/BHU_P/1/HOMORGANIC",
+            "primary_word": "udanyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udanyāmbabhūvuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3pl/SELF_WISH/THIRST/AS_P/1/UNCHANGED_M",
+            "primary_word": "udanyām",
+            "auxiliary": "AS",
+            "auxiliary_word": "āsuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "UNCHANGED_M",
+            "reading": "udanyāmāsuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3pl/SELF_WISH/OTHER_WATER_WISH/K_P/1/ANUSVARA",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakruḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udakīyāṃcakruḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3pl/SELF_WISH/OTHER_WATER_WISH/K_P/1/HOMORGANIC",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakruḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udakīyāñcakruḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3pl/SELF_WISH/OTHER_WATER_WISH/BHU_P/1/ANUSVARA",
+            "primary_word": "udakīyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udakīyāṃbabhūvuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3pl/SELF_WISH/OTHER_WATER_WISH/BHU_P/1/HOMORGANIC",
+            "primary_word": "udakīyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udakīyāmbabhūvuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/3pl/SELF_WISH/OTHER_WATER_WISH/AS_P/1/UNCHANGED_M",
+            "primary_word": "udakīyām",
+            "auxiliary": "AS",
+            "auxiliary_word": "āsuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "UNCHANGED_M",
+            "reading": "udakīyāmāsuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanāṃcakruḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/3pl/1"
+          },
+          {
+            "reading": "udanāñcakruḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/3pl/2"
+          },
+          {
+            "reading": "udanāṃbabhūvuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/3pl/3"
+          },
+          {
+            "reading": "udanāmbabhūvuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/3pl/4"
+          },
+          {
+            "reading": "udanāmāsuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/3pl/5"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lit",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyāṃcakartha",
+          "udanyāñcakartha",
+          "udanyāṃbabhūvitha",
+          "udanyāmbabhūvitha",
+          "udanyāmāsitha",
+          "udakīyāṃcakartha",
+          "udakīyāñcakartha",
+          "udakīyāṃbabhūvitha",
+          "udakīyāmbabhūvitha",
+          "udakīyāmāsitha",
+          "udanāṃcakartha",
+          "udanāñcakartha",
+          "udanāṃbabhūvitha",
+          "udanāmbabhūvitha",
+          "udanāmāsitha"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2sg/SELF_WISH/THIRST/K_P/1/ANUSVARA",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakartha",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udanyāṃcakartha",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2sg/SELF_WISH/THIRST/K_P/1/HOMORGANIC",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakartha",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udanyāñcakartha",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2sg/SELF_WISH/THIRST/BHU_P/1/ANUSVARA",
+            "primary_word": "udanyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvitha",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udanyāṃbabhūvitha",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2sg/SELF_WISH/THIRST/BHU_P/1/HOMORGANIC",
+            "primary_word": "udanyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvitha",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udanyāmbabhūvitha",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2sg/SELF_WISH/THIRST/AS_P/1/UNCHANGED_M",
+            "primary_word": "udanyām",
+            "auxiliary": "AS",
+            "auxiliary_word": "āsitha",
+            "auxiliary_pada": "P",
+            "boundary_readout": "UNCHANGED_M",
+            "reading": "udanyāmāsitha",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2sg/SELF_WISH/OTHER_WATER_WISH/K_P/1/ANUSVARA",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakartha",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udakīyāṃcakartha",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2sg/SELF_WISH/OTHER_WATER_WISH/K_P/1/HOMORGANIC",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakartha",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udakīyāñcakartha",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2sg/SELF_WISH/OTHER_WATER_WISH/BHU_P/1/ANUSVARA",
+            "primary_word": "udakīyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvitha",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udakīyāṃbabhūvitha",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2sg/SELF_WISH/OTHER_WATER_WISH/BHU_P/1/HOMORGANIC",
+            "primary_word": "udakīyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvitha",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udakīyāmbabhūvitha",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2sg/SELF_WISH/OTHER_WATER_WISH/AS_P/1/UNCHANGED_M",
+            "primary_word": "udakīyām",
+            "auxiliary": "AS",
+            "auxiliary_word": "āsitha",
+            "auxiliary_pada": "P",
+            "boundary_readout": "UNCHANGED_M",
+            "reading": "udakīyāmāsitha",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanāṃcakartha",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/2sg/1"
+          },
+          {
+            "reading": "udanāñcakartha",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/2sg/2"
+          },
+          {
+            "reading": "udanāṃbabhūvitha",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/2sg/3"
+          },
+          {
+            "reading": "udanāmbabhūvitha",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/2sg/4"
+          },
+          {
+            "reading": "udanāmāsitha",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/2sg/5"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lit",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyāṃcakrathuḥ",
+          "udanyāñcakrathuḥ",
+          "udanyāṃbabhūvathuḥ",
+          "udanyāmbabhūvathuḥ",
+          "udanyāmāsathuḥ",
+          "udakīyāṃcakrathuḥ",
+          "udakīyāñcakrathuḥ",
+          "udakīyāṃbabhūvathuḥ",
+          "udakīyāmbabhūvathuḥ",
+          "udakīyāmāsathuḥ",
+          "udanāṃcakrathuḥ",
+          "udanāñcakrathuḥ",
+          "udanāṃbabhūvathuḥ",
+          "udanāmbabhūvathuḥ",
+          "udanāmāsathuḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2du/SELF_WISH/THIRST/K_P/1/ANUSVARA",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakrathuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udanyāṃcakrathuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2du/SELF_WISH/THIRST/K_P/1/HOMORGANIC",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakrathuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udanyāñcakrathuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2du/SELF_WISH/THIRST/BHU_P/1/ANUSVARA",
+            "primary_word": "udanyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvathuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udanyāṃbabhūvathuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2du/SELF_WISH/THIRST/BHU_P/1/HOMORGANIC",
+            "primary_word": "udanyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvathuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udanyāmbabhūvathuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2du/SELF_WISH/THIRST/AS_P/1/UNCHANGED_M",
+            "primary_word": "udanyām",
+            "auxiliary": "AS",
+            "auxiliary_word": "āsathuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "UNCHANGED_M",
+            "reading": "udanyāmāsathuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2du/SELF_WISH/OTHER_WATER_WISH/K_P/1/ANUSVARA",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakrathuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udakīyāṃcakrathuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2du/SELF_WISH/OTHER_WATER_WISH/K_P/1/HOMORGANIC",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakrathuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udakīyāñcakrathuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2du/SELF_WISH/OTHER_WATER_WISH/BHU_P/1/ANUSVARA",
+            "primary_word": "udakīyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvathuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udakīyāṃbabhūvathuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2du/SELF_WISH/OTHER_WATER_WISH/BHU_P/1/HOMORGANIC",
+            "primary_word": "udakīyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvathuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udakīyāmbabhūvathuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2du/SELF_WISH/OTHER_WATER_WISH/AS_P/1/UNCHANGED_M",
+            "primary_word": "udakīyām",
+            "auxiliary": "AS",
+            "auxiliary_word": "āsathuḥ",
+            "auxiliary_pada": "P",
+            "boundary_readout": "UNCHANGED_M",
+            "reading": "udakīyāmāsathuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanāṃcakrathuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/2du/1"
+          },
+          {
+            "reading": "udanāñcakrathuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/2du/2"
+          },
+          {
+            "reading": "udanāṃbabhūvathuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/2du/3"
+          },
+          {
+            "reading": "udanāmbabhūvathuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/2du/4"
+          },
+          {
+            "reading": "udanāmāsathuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/2du/5"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lit",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyāṃcakra",
+          "udanyāñcakra",
+          "udanyāṃbabhūva",
+          "udanyāmbabhūva",
+          "udanyāmāsa",
+          "udakīyāṃcakra",
+          "udakīyāñcakra",
+          "udakīyāṃbabhūva",
+          "udakīyāmbabhūva",
+          "udakīyāmāsa",
+          "udanāṃcakra",
+          "udanāñcakra",
+          "udanāṃbabhūva",
+          "udanāmbabhūva",
+          "udanāmāsa"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2pl/SELF_WISH/THIRST/K_P/1/ANUSVARA",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakra",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udanyāṃcakra",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2pl/SELF_WISH/THIRST/K_P/1/HOMORGANIC",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakra",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udanyāñcakra",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2pl/SELF_WISH/THIRST/BHU_P/1/ANUSVARA",
+            "primary_word": "udanyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udanyāṃbabhūva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2pl/SELF_WISH/THIRST/BHU_P/1/HOMORGANIC",
+            "primary_word": "udanyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udanyāmbabhūva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2pl/SELF_WISH/THIRST/AS_P/1/UNCHANGED_M",
+            "primary_word": "udanyām",
+            "auxiliary": "AS",
+            "auxiliary_word": "āsa",
+            "auxiliary_pada": "P",
+            "boundary_readout": "UNCHANGED_M",
+            "reading": "udanyāmāsa",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2pl/SELF_WISH/OTHER_WATER_WISH/K_P/1/ANUSVARA",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakra",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udakīyāṃcakra",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2pl/SELF_WISH/OTHER_WATER_WISH/K_P/1/HOMORGANIC",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakra",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udakīyāñcakra",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2pl/SELF_WISH/OTHER_WATER_WISH/BHU_P/1/ANUSVARA",
+            "primary_word": "udakīyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udakīyāṃbabhūva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2pl/SELF_WISH/OTHER_WATER_WISH/BHU_P/1/HOMORGANIC",
+            "primary_word": "udakīyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udakīyāmbabhūva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/2pl/SELF_WISH/OTHER_WATER_WISH/AS_P/1/UNCHANGED_M",
+            "primary_word": "udakīyām",
+            "auxiliary": "AS",
+            "auxiliary_word": "āsa",
+            "auxiliary_pada": "P",
+            "boundary_readout": "UNCHANGED_M",
+            "reading": "udakīyāmāsa",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanāṃcakra",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/2pl/1"
+          },
+          {
+            "reading": "udanāñcakra",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/2pl/2"
+          },
+          {
+            "reading": "udanāṃbabhūva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/2pl/3"
+          },
+          {
+            "reading": "udanāmbabhūva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/2pl/4"
+          },
+          {
+            "reading": "udanāmāsa",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/2pl/5"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lit",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyāṃcakara",
+          "udanyāñcakara",
+          "udanyāṃcakāra",
+          "udanyāñcakāra",
+          "udanyāṃbabhūva",
+          "udanyāmbabhūva",
+          "udanyāmāsa",
+          "udakīyāṃcakara",
+          "udakīyāñcakara",
+          "udakīyāṃcakāra",
+          "udakīyāñcakāra",
+          "udakīyāṃbabhūva",
+          "udakīyāmbabhūva",
+          "udakīyāmāsa",
+          "udanāṃcakara",
+          "udanāñcakara",
+          "udanāṃcakāra",
+          "udanāñcakāra",
+          "udanāṃbabhūva",
+          "udanāmbabhūva",
+          "udanāmāsa"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1sg/SELF_WISH/THIRST/K_P/1/ANUSVARA",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakara",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udanyāṃcakara",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1sg/SELF_WISH/THIRST/K_P/1/HOMORGANIC",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakara",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udanyāñcakara",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1sg/SELF_WISH/THIRST/K_P/2/ANUSVARA",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakāra",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udanyāṃcakāra",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1sg/SELF_WISH/THIRST/K_P/2/HOMORGANIC",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakāra",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udanyāñcakāra",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1sg/SELF_WISH/THIRST/BHU_P/1/ANUSVARA",
+            "primary_word": "udanyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udanyāṃbabhūva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1sg/SELF_WISH/THIRST/BHU_P/1/HOMORGANIC",
+            "primary_word": "udanyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udanyāmbabhūva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1sg/SELF_WISH/THIRST/AS_P/1/UNCHANGED_M",
+            "primary_word": "udanyām",
+            "auxiliary": "AS",
+            "auxiliary_word": "āsa",
+            "auxiliary_pada": "P",
+            "boundary_readout": "UNCHANGED_M",
+            "reading": "udanyāmāsa",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1sg/SELF_WISH/OTHER_WATER_WISH/K_P/1/ANUSVARA",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakara",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udakīyāṃcakara",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1sg/SELF_WISH/OTHER_WATER_WISH/K_P/1/HOMORGANIC",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakara",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udakīyāñcakara",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1sg/SELF_WISH/OTHER_WATER_WISH/K_P/2/ANUSVARA",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakāra",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udakīyāṃcakāra",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1sg/SELF_WISH/OTHER_WATER_WISH/K_P/2/HOMORGANIC",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakāra",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udakīyāñcakāra",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1sg/SELF_WISH/OTHER_WATER_WISH/BHU_P/1/ANUSVARA",
+            "primary_word": "udakīyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udakīyāṃbabhūva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1sg/SELF_WISH/OTHER_WATER_WISH/BHU_P/1/HOMORGANIC",
+            "primary_word": "udakīyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udakīyāmbabhūva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1sg/SELF_WISH/OTHER_WATER_WISH/AS_P/1/UNCHANGED_M",
+            "primary_word": "udakīyām",
+            "auxiliary": "AS",
+            "auxiliary_word": "āsa",
+            "auxiliary_pada": "P",
+            "boundary_readout": "UNCHANGED_M",
+            "reading": "udakīyāmāsa",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanāṃcakara",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/1sg/1"
+          },
+          {
+            "reading": "udanāñcakara",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/1sg/2"
+          },
+          {
+            "reading": "udanāṃcakāra",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/1sg/3"
+          },
+          {
+            "reading": "udanāñcakāra",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/1sg/4"
+          },
+          {
+            "reading": "udanāṃbabhūva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/1sg/5"
+          },
+          {
+            "reading": "udanāmbabhūva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/1sg/6"
+          },
+          {
+            "reading": "udanāmāsa",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/1sg/7"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lit",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyāṃcakṛva",
+          "udanyāñcakṛva",
+          "udanyāṃbabhūviva",
+          "udanyāmbabhūviva",
+          "udanyāmāsiva",
+          "udakīyāṃcakṛva",
+          "udakīyāñcakṛva",
+          "udakīyāṃbabhūviva",
+          "udakīyāmbabhūviva",
+          "udakīyāmāsiva",
+          "udanāṃcakṛva",
+          "udanāñcakṛva",
+          "udanāṃbabhūviva",
+          "udanāmbabhūviva",
+          "udanāmāsiva"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1du/SELF_WISH/THIRST/K_P/1/ANUSVARA",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakṛva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udanyāṃcakṛva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1du/SELF_WISH/THIRST/K_P/1/HOMORGANIC",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakṛva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udanyāñcakṛva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1du/SELF_WISH/THIRST/BHU_P/1/ANUSVARA",
+            "primary_word": "udanyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūviva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udanyāṃbabhūviva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1du/SELF_WISH/THIRST/BHU_P/1/HOMORGANIC",
+            "primary_word": "udanyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūviva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udanyāmbabhūviva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1du/SELF_WISH/THIRST/AS_P/1/UNCHANGED_M",
+            "primary_word": "udanyām",
+            "auxiliary": "AS",
+            "auxiliary_word": "āsiva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "UNCHANGED_M",
+            "reading": "udanyāmāsiva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1du/SELF_WISH/OTHER_WATER_WISH/K_P/1/ANUSVARA",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakṛva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udakīyāṃcakṛva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1du/SELF_WISH/OTHER_WATER_WISH/K_P/1/HOMORGANIC",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakṛva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udakīyāñcakṛva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1du/SELF_WISH/OTHER_WATER_WISH/BHU_P/1/ANUSVARA",
+            "primary_word": "udakīyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūviva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udakīyāṃbabhūviva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1du/SELF_WISH/OTHER_WATER_WISH/BHU_P/1/HOMORGANIC",
+            "primary_word": "udakīyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūviva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udakīyāmbabhūviva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1du/SELF_WISH/OTHER_WATER_WISH/AS_P/1/UNCHANGED_M",
+            "primary_word": "udakīyām",
+            "auxiliary": "AS",
+            "auxiliary_word": "āsiva",
+            "auxiliary_pada": "P",
+            "boundary_readout": "UNCHANGED_M",
+            "reading": "udakīyāmāsiva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanāṃcakṛva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/1du/1"
+          },
+          {
+            "reading": "udanāñcakṛva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/1du/2"
+          },
+          {
+            "reading": "udanāṃbabhūviva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/1du/3"
+          },
+          {
+            "reading": "udanāmbabhūviva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/1du/4"
+          },
+          {
+            "reading": "udanāmāsiva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/1du/5"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lit",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "udanyāṃcakṛma",
+          "udanyāñcakṛma",
+          "udanyāṃbabhūvima",
+          "udanyāmbabhūvima",
+          "udanyāmāsima",
+          "udakīyāṃcakṛma",
+          "udakīyāñcakṛma",
+          "udakīyāṃbabhūvima",
+          "udakīyāmbabhūvima",
+          "udakīyāmāsima",
+          "udanāṃcakṛma",
+          "udanāñcakṛma",
+          "udanāṃbabhūvima",
+          "udanāmbabhūvima",
+          "udanāmāsima"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1pl/SELF_WISH/THIRST/K_P/1/ANUSVARA",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakṛma",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udanyāṃcakṛma",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1pl/SELF_WISH/THIRST/K_P/1/HOMORGANIC",
+            "primary_word": "udanyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakṛma",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udanyāñcakṛma",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1pl/SELF_WISH/THIRST/BHU_P/1/ANUSVARA",
+            "primary_word": "udanyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvima",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udanyāṃbabhūvima",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1pl/SELF_WISH/THIRST/BHU_P/1/HOMORGANIC",
+            "primary_word": "udanyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvima",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udanyāmbabhūvima",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1pl/SELF_WISH/THIRST/AS_P/1/UNCHANGED_M",
+            "primary_word": "udanyām",
+            "auxiliary": "AS",
+            "auxiliary_word": "āsima",
+            "auxiliary_pada": "P",
+            "boundary_readout": "UNCHANGED_M",
+            "reading": "udanyāmāsima",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1pl/SELF_WISH/OTHER_WATER_WISH/K_P/1/ANUSVARA",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakṛma",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udakīyāṃcakṛma",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1pl/SELF_WISH/OTHER_WATER_WISH/K_P/1/HOMORGANIC",
+            "primary_word": "udakīyām",
+            "auxiliary": "K",
+            "auxiliary_word": "cakṛma",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udakīyāñcakṛma",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1pl/SELF_WISH/OTHER_WATER_WISH/BHU_P/1/ANUSVARA",
+            "primary_word": "udakīyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvima",
+            "auxiliary_pada": "P",
+            "boundary_readout": "ANUSVARA",
+            "reading": "udakīyāṃbabhūvima",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1pl/SELF_WISH/OTHER_WATER_WISH/BHU_P/1/HOMORGANIC",
+            "primary_word": "udakīyām",
+            "auxiliary": "BHU",
+            "auxiliary_word": "babhūvima",
+            "auxiliary_pada": "P",
+            "boundary_readout": "HOMORGANIC",
+            "reading": "udakīyāmbabhūvima",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lit/1pl/SELF_WISH/OTHER_WATER_WISH/AS_P/1/UNCHANGED_M",
+            "primary_word": "udakīyām",
+            "auxiliary": "AS",
+            "auxiliary_word": "āsima",
+            "auxiliary_pada": "P",
+            "boundary_readout": "UNCHANGED_M",
+            "reading": "udakīyāmāsima",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "udanāṃcakṛma",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/1pl/1"
+          },
+          {
+            "reading": "udanāñcakṛma",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/1pl/2"
+          },
+          {
+            "reading": "udanāṃbabhūvima",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/1pl/3"
+          },
+          {
+            "reading": "udanāmbabhūvima",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/1pl/4"
+          },
+          {
+            "reading": "udanāmāsima",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lit/1pl/5"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lung",
+        "slot": "3sg",
+        "new_position_credit": 1,
+        "readings": [
+          "audanyīt",
+          "audakīyīt",
+          "audanīt"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lung/3sg/SELF_WISH/THIRST/1",
+            "reading": "audanyīt",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lung/3sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyīt",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "audanīt",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lung/3sg/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lung",
+        "slot": "3du",
+        "new_position_credit": 1,
+        "readings": [
+          "audanyiṣṭām",
+          "audakīyiṣṭām",
+          "audaniṣṭām"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lung/3du/SELF_WISH/THIRST/1",
+            "reading": "audanyiṣṭām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lung/3du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyiṣṭām",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "audaniṣṭām",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lung/3du/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lung",
+        "slot": "3pl",
+        "new_position_credit": 1,
+        "readings": [
+          "audanyiṣuḥ",
+          "audakīyiṣuḥ",
+          "audaniṣuḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lung/3pl/SELF_WISH/THIRST/1",
+            "reading": "audanyiṣuḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lung/3pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyiṣuḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "audaniṣuḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lung/3pl/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "new_position_credit": 1,
+        "readings": [
+          "audanyīḥ",
+          "audakīyīḥ",
+          "audanīḥ"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lung/2sg/SELF_WISH/THIRST/1",
+            "reading": "audanyīḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lung/2sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyīḥ",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "audanīḥ",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lung/2sg/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "new_position_credit": 1,
+        "readings": [
+          "audanyiṣṭam",
+          "audakīyiṣṭam",
+          "audaniṣṭam"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lung/2du/SELF_WISH/THIRST/1",
+            "reading": "audanyiṣṭam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lung/2du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyiṣṭam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "audaniṣṭam",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lung/2du/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "new_position_credit": 1,
+        "readings": [
+          "audanyiṣṭa",
+          "audakīyiṣṭa",
+          "audaniṣṭa"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lung/2pl/SELF_WISH/THIRST/1",
+            "reading": "audanyiṣṭa",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lung/2pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyiṣṭa",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "audaniṣṭa",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lung/2pl/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "new_position_credit": 1,
+        "readings": [
+          "audanyiṣam",
+          "audakīyiṣam",
+          "audaniṣam"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lung/1sg/SELF_WISH/THIRST/1",
+            "reading": "audanyiṣam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lung/1sg/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyiṣam",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "audaniṣam",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lung/1sg/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "new_position_credit": 1,
+        "readings": [
+          "audanyiṣva",
+          "audakīyiṣva",
+          "audaniṣva"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lung/1du/SELF_WISH/THIRST/1",
+            "reading": "audanyiṣva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lung/1du/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyiṣva",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "audaniṣva",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lung/1du/1"
+          }
+        ]
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "new_position_credit": 1,
+        "readings": [
+          "audanyiṣma",
+          "audakīyiṣma",
+          "audaniṣma"
+        ],
+        "paths": [
+          {
+            "history_label": "UDAKA_KYAC_P/lung/1pl/SELF_WISH/THIRST/1",
+            "reading": "audanyiṣma",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "stem_word": "udanya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "history_label": "UDAKA_KYAC_P/lung/1pl/SELF_WISH/OTHER_WATER_WISH/1",
+            "reading": "audakīyiṣma",
+            "ending_sound_schedule": "UNREDUCED",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "OTHER_WATER_WISH",
+            "stem_word": "udakīya",
+            "source_status": "PG131_GUARANTEED"
+          },
+          {
+            "reading": "audaniṣma",
+            "semantic_history": "SELF_WISH",
+            "stem_history": "THIRST",
+            "ky_initial_y": "deleted_6_4_50",
+            "history_label": "thirst_y_lopa/lung/1pl/1"
+          }
+        ]
+      }
+    ],
+    "panels": [
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrt",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lut",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lrng",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "ashirling",
+        "positions": 9,
+        "readings": 27
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lit",
+        "positions": 9,
+        "readings": 141
+      },
+      {
+        "profile": "UDAKA_KYAC_P",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 27
+      }
+    ],
+    "complete_nine_slot_paradigms": 6
+  },
+  "contextual_profiles": {
+    "UDAKA_KYAC_P": {
+      "pada": "P",
+      "root": "udaka",
+      "senses": [
+        "thirst",
+        "other purpose"
+      ],
+      "formation": "kyac"
+    }
+  },
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "Traditional same-word applicability in the 45 A perfects remains unresolved.",
+    "Other orthographies and lexical senses need their own source scope."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Visually collated printed column 1137b with exact Cologne L9091 bytes; preserved every earlier path and checked all 54 keys, the three -tā readings and nine double-history blessings."
+  },
+  "reconciled_partial_stage": "PG131",
+  "prior_credited_positions_in_this_subset": 0,
+  "unique_surface_additions_to_prior_lower_bound": 83
+}
