@@ -1,0 +1,177 @@
+{
+  "prior": {
+    "direct": 95,
+    "inferred": 4,
+    "open": 4,
+    "total": 103
+  },
+  "current": {
+    "direct": 98,
+    "inferred": 1,
+    "open": 4,
+    "total": 103
+  },
+  "new_individually_supported_fields": [
+    {
+      "rule": "4.98",
+      "affix": "da",
+      "word": "abda (year)",
+      "root": "ad bhakṣaṇe",
+      "source": "Śvetavanavāsin 4.107 §533 p. 162",
+      "new_class": "direct",
+      "evidence": "He names da on the eating root, specifies the changed final consonant, and explains why the alternative water-giving derivation would lose the required accent. He names dan for kunda on p. 163.",
+      "alternate": "PG187 also infers da from the accent of a jasmine word. Other lexica give dan for abda or kunda under other analyses. This new evidence applies to ad + da."
+    },
+    {
+      "rule": "4.105",
+      "affix": "tvan",
+      "word": "netvaḥ",
+      "root": "nī",
+      "source": "Nārāyaṇa 4.116 §549 p. 103",
+      "new_class": "direct",
+      "evidence": "He directly names tvan on the root and guṇa, followed by the word netvaḥ.",
+      "alternate": "The earlier assignment of dhyātva (thought) to tvan is still morphological. This word supplies an independent direct example for the field."
+    },
+    {
+      "rule": "4.105",
+      "affix": "knin",
+      "word": "lūniḥ",
+      "root": "lū",
+      "source": "Śvetavanavāsin 4.114–115 §§540–541 pp. 165–166",
+      "new_class": "direct",
+      "evidence": "The parent list spells knin. The local comment pairs the lū root with the short citation kniḥ. The following alternative vṛtti names lūniḥ from lunāti. The source spelling and the short technical citation together identify the fourth field.",
+      "alternate": "The rice meaning is supplied by Ujjvaladatta. This edition supplies affix evidence and the spelling without giving that gloss here."
+    }
+  ],
+  "primary_4_105": [
+    {
+      "affix": "itvan",
+      "status": "direct",
+      "evidence": "PG183 and the earlier lexical evidence for petva"
+    },
+    {
+      "affix": "tvan",
+      "status": "direct",
+      "evidence": "netvaḥ, the explicit Nārāyaṇa example"
+    },
+    {
+      "affix": "tnaṇ",
+      "status": "inferred",
+      "evidence": "hautna, the sacrificer in the printed Ujjvaladatta reading"
+    },
+    {
+      "affix": "knin",
+      "status": "direct",
+      "evidence": "lūniḥ, with the lū + kni indication in Śvetavanavāsin"
+    },
+    {
+      "affix": "śak",
+      "status": "direct",
+      "evidence": "kaccha in Ujjvaladatta"
+    },
+    {
+      "affix": "sya",
+      "status": "open",
+      "evidence": "Matsya is given under the ordered precursor. No additional root with this literal affix is identified under the extension in the inspected pages."
+    },
+    {
+      "affix": "ḍha",
+      "status": "open",
+      "evidence": "The comparative list instead names distinct technical affixes including kha/ṭha. Do not equate them to primary ḍha."
+    },
+    {
+      "affix": "ḍaṭ",
+      "status": "open",
+      "evidence": "The comparative ṭa or ṭak entries differ from primary ḍaṭ in initial or final marker."
+    },
+    {
+      "affix": "āṭac",
+      "status": "open",
+      "evidence": "The parallel commentary explicitly assigns short-a aṭac under its extension. Neither its examples nor primary bharaṭa supplies an independent long-ā extension example."
+    }
+  ],
+  "ordered_precursors": [
+    {
+      "edition": "Primary data 4.104–105",
+      "ordered_technical_labels": [
+        "इत्वन्",
+        "त्वन्",
+        "त्नण्",
+        "क्निन्",
+        "शक्",
+        "स्य",
+        "ढ",
+        "डट्",
+        "आटच्"
+      ],
+      "count": 9
+    },
+    {
+      "edition": "Śvetavanavāsin 4.114–115, literal enumeration in the vṛtti",
+      "ordered_technical_labels": [
+        "इत्वन्",
+        "त्वन्",
+        "त्नण्",
+        "क्निन्",
+        "शक्",
+        "स्य",
+        "ख",
+        "ठ",
+        "ट",
+        "अटच्"
+      ],
+      "count": 10
+    },
+    {
+      "edition": "Nārāyaṇa 4.115–116, labels read from the heading with the adjacent individual explanations",
+      "ordered_technical_labels": [
+        "इत्वन्",
+        "त्वन्",
+        "क्तन्",
+        "क्ति",
+        "शक्",
+        "छक्",
+        "ख",
+        "ठक्",
+        "टक्",
+        "अटच्"
+      ],
+      "count": 10
+    }
+  ],
+  "short_a_extension": [
+    {
+      "root": "tan",
+      "form": "taṭa",
+      "sense": "bank",
+      "location": "Śvetavanavāsin, alternative vṛtti, p. 166"
+    },
+    {
+      "root": "van",
+      "form": "vaṭa",
+      "sense": "banyan",
+      "location": "same passage"
+    },
+    {
+      "root": "av",
+      "form": "avaṭa",
+      "sense": "well",
+      "location": "same passage"
+    }
+  ],
+  "one_remaining_inference": "primary 4.105 tnaṇ → hautna, in the sacrificer sense",
+  "sense_separation": [
+    {
+      "word": "petva",
+      "Ujjvaladatta": "nectar",
+      "Narayana": "ram",
+      "Svetavanavasin_alternative": "nectar and mouth"
+    },
+    {
+      "word": "kaccha",
+      "Ujjvaladatta": "vegetable root or bulb",
+      "Svetavanavasin": "bodily region, apānapradeśa"
+    }
+  ],
+  "comparison_rule": "Compare affix, word, heading and scope separately. A different technical marker or a word only in the preceding ordered rule does not fill an extension field."
+}
