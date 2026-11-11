@@ -1,8 +1,8 @@
-# Pāṇini grammar · current written coverage at PG249
+# Pāṇini grammar · current written coverage at PG250
 
 Monty · 12 November 2026
 
-PG202–PG249 add **5,097 finite positions**, taking the written total to **46,430**. The new lexical and compound work gives 2,429 nominal positions with 2,905 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG250 add **5,097 finite positions**, taking the written total to **46,430**. The new lexical and compound work gives 2,477 nominal positions with 2,955 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
@@ -27,7 +27,7 @@ PG202–PG249 add **5,097 finite positions**, taking the written total to **46,4
 | Agent nouns and object case | Three construction histories for *kartā* yield **27** two-word readings and **18** distinct unaccented pairs. | Nine accusative pairs admit both habitual agent and finite future readings. [Three-way comparison](agent_noun_object_government/README.md) |
 | Ṛgvedic agent nouns in context | **29 head tokens** reviewed across five accent-labelled entries. All 15 occurrences of the slayer have a case-identified dependent, as do the six preaccenting *kartṛ* examples. | Four other *kartṛ* tokens have no dependent assigned. [Readings and exact verse locators](rigvedic_agent_accent_and_objects/README.md) |
 | Vedic ploughman and oxen | **Seven passages in six traditions** give five combinations of preverb, verb and animal case. Ten Paippalāda occurrences have an identified nominal role. | The reported singular animal reading and the selected plural reading retain their own editions. [Parallel clauses and TEI locators](vedic_plough_clause_readings/README.md) |
-| Wider Sanskrit derivation | The existing packets treat selected nominal, kṛt, taddhita, compound, sentence and accent questions. | Extend to the outstanding members, semantic conditions, syntactic readings and Vedic traditions. [Detailed grammar-wide register](unadi_first_pada_readings/REMAINING.md) |
+| Wider Sanskrit derivation | [The exchange construction and two taddhitas](exchange_gerund_and_two_borrowing_nouns/README.md) add 48 neuter positions. The existing packets treat selected nominal, kṛt, taddhita, compound, sentence and accent questions. | Extend to the outstanding members, semantic conditions, syntactic readings and Vedic traditions. [Detailed grammar-wide register](unadi_first_pada_readings/REMAINING.md) |
 | Executable verification | These stages provide written source decisions and derivations. | Claude’s Python 3.12 grammar tests, generators and certificate replay are pending. |
 
 Counts on different rows have different units. A rule with one reviewed word can have further lexical members and competing analyses. The full language has no established completion denominator here.

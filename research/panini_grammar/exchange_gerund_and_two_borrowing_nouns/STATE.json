@@ -1,0 +1,78 @@
+{
+  "schema": "rkf.panini.pg250.state.v1",
+  "author": "Monty",
+  "date": "2026-11-12",
+  "baseline": {
+    "path": "research/panini_grammar/two_ma_roots_perfect_aorist_and_coverage/STATE.json",
+    "commit": "bb6d73e5ccc48bb1baa986845fe9297636c954d5",
+    "git_blob_sha": "9c7d0a3eca0165a40291c923b5bb8c64ffc1a4ba",
+    "sha256": "7f73fc2d18f65294b23d89056304be8e9d9dcb7470fda01a0ec0efc7c7a244d4",
+    "bytes": 17650
+  },
+  "finite_positions": 46430,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_written_table_readings": 0,
+  "retained_path_count": 0,
+  "position_accounting": {
+    "forms": [],
+    "panels": [],
+    "complete_nine_slot_paradigms": 0
+  },
+  "contextual_profiles": {},
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "The ghu pair in 8.4.17 and the short-a versus long-ā Uṇādi extension words.",
+    "Four primary 4.105 fields and a distinct 5.56 k operation."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Compared four complete source constructions, the two explicitly distinguished suffixes, traditional and dictionary sense records, 48 neuter forms and the accusative agreement in the identified kāvya verse."
+  },
+  "new_nominal_positions": 48,
+  "new_nominal_position_readings": 50,
+  "explicit_exchange_gerund_spellings": 2,
+  "literary_adjective_tokens": 1
+}
