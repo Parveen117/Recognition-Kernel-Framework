@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG181 — Two traditional marker questions and the two senses of kīnāśa.** [Packet](unadi_kit_source_questions/README.md). Zero new finite positions. Cumulative **40,379**.
+
 **PG180 — Written lexical cases for all 748 Uṇādi addresses.** [Packet](unadi_fifth_pada_readings/README.md). Zero new finite positions. Cumulative **40,379**.
 
 **PG179 — The fourth Uṇādi pāda, ordered affix assignment and a Vedic witness.** [Packet](unadi_fourth_pada_readings/README.md). Zero new finite positions. Cumulative **40,379**.

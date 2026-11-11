@@ -1,0 +1,113 @@
+{
+  "domain": [
+    "4.80",
+    "5.56"
+  ],
+  "historical_marker_justifications_resolved": 0,
+  "candidate_roots": {
+    "06.0093": {
+      "i": "1060093",
+      "dhatu": "कुट्",
+      "aupadeshik": "कुटँ",
+      "artha": "कौटिल्ये",
+      "gana": "6",
+      "antarganas": "कुटादिः"
+    },
+    "06.0136": {
+      "i": "1060136",
+      "dhatu": "कु",
+      "aupadeshik": "कुङ्",
+      "artha": "शब्दे",
+      "gana": "6",
+      "antarganas": "कुटादिः"
+    },
+    "10.0222": {
+      "i": "1100222",
+      "dhatu": "कुट्",
+      "aupadeshik": "कुटँ",
+      "artha": "छेदने",
+      "gana": "10",
+      "antarganas": "आकुस्मीयः"
+    },
+    "09.0058": {
+      "i": "1090058",
+      "dhatu": "क्लिश्",
+      "aupadeshik": "क्लिशूँ",
+      "artha": "विबाधने",
+      "gana": "9",
+      "antarganas": ""
+    },
+    "04.0057": {
+      "i": "1040057",
+      "dhatu": "क्लिश्",
+      "aupadeshik": "क्लिशँ",
+      "artha": "उपतापे",
+      "gana": "4",
+      "antarganas": ""
+    }
+  },
+  "printed_witness": [
+    {
+      "address": "4.80",
+      "printed_page": 108,
+      "pdf_page": 132,
+      "finding": "The aru affix is kit. The witness gives kuṭaru in the tent sense and leaves the purpose of kit for investigation."
+    },
+    {
+      "address": "5.56",
+      "printed_page": 145,
+      "pdf_page": 169,
+      "root_gloss": "विबाधने",
+      "selected_publisher_root": "09.0058",
+      "finding": "The witness names farmer, Yama and the Māgha citation. It says the effect of the k marker is not seen."
+    }
+  ],
+  "restricted_inference": {
+    "domain": "kuṭ in kuṭādi, primary 06.0093, affix aru with neither ñ nor ṇ as a marker",
+    "rules": [
+      "1.2.1",
+      "1.1.5",
+      "7.3.86"
+    ],
+    "comparison": [
+      {
+        "explicit_kit": true,
+        "ngit_like_under_1_2_1": true,
+        "ordinary_guna_for_short_u": "blocked"
+      },
+      {
+        "explicit_kit": false,
+        "ngit_like_under_1_2_1": true,
+        "ordinary_guna_for_short_u": "blocked"
+      }
+    ],
+    "unsettled": "Whether the explicit marker has another effect or is needed in another lexical history. No claim of global dispensability."
+  },
+  "independent_attestations": [
+    {
+      "address": "4.80",
+      "label": "kuṭarūn",
+      "work": "Mādhyandina Vājasaneyi Saṃhitā 24.23",
+      "context": "accusative plural in a list of birds",
+      "sense_attribution": "MW L51627 and Apte L12367 identify the cock sense. The tent sense is distinct."
+    },
+    {
+      "address": "5.56",
+      "label": "kīnā́śā",
+      "work": "Ṛgveda 4.57.8",
+      "context": "plural, cultivated ground and draught animals"
+    },
+    {
+      "address": "5.56",
+      "work": "Śiśupālavadha 1.73",
+      "verse_line_one_based": 1,
+      "line": "tadenamullaṅghitaśāsanaṃ vidhervidhehi kīnāśaniketanātithim /",
+      "exact_span_zero_based": [
+        39,
+        59
+      ],
+      "word": "kīnāśaniketanātithim",
+      "interpretation": "Mallinātha explicitly reads Yama and his dwelling. The compound is the requested guest in an injunction."
+    }
+  ]
+}
