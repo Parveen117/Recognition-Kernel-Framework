@@ -1408,6 +1408,11 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG121 — Periphrastic perfects and primary-word taṅ:** [packet](vrtadi_san_perfect/README.md) adds
+**90 positions / 460 readings / 460 paths**; cumulative **27,707**.
+Selected target 90/90; Python 3.12 static checks only,
+grammar tests/generators/replay deferred.
+
 **PG120 — Blessings and ordinary aorists of the five desideratives:** [packet](vrtadi_san_blessing_aorist/README.md) adds
 **180 positions / 216 readings / 216 paths**; cumulative **27,617**.
 Selected target 180/180; Python 3.12 static checks only,
