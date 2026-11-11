@@ -1,0 +1,310 @@
+{
+  "unary_person_examples": [
+    {
+      "discourse_person": "speaker",
+      "traditional_person": "uttama",
+      "reference": "1.4.107",
+      "singular": "pacāmi",
+      "dual": "pacāvaḥ",
+      "plural": "pacāmaḥ"
+    },
+    {
+      "discourse_person": "addressee",
+      "traditional_person": "madhyama",
+      "reference": "1.4.105",
+      "singular": "pacasi",
+      "dual": "pacathaḥ",
+      "plural": "pacatha"
+    },
+    {
+      "discourse_person": "other",
+      "traditional_person": "prathama",
+      "reference": "1.4.108",
+      "singular": "pacati",
+      "dual": "pacataḥ",
+      "plural": "pacanti"
+    }
+  ],
+  "participant_types": {
+    "R": {
+      "lemma": "rāma",
+      "person": "other",
+      "number": "sg"
+    },
+    "Y": {
+      "lemma": "yuṣmad",
+      "person": "addressee",
+      "number": "sg"
+    },
+    "I": {
+      "lemma": "asmad",
+      "person": "speaker",
+      "number": "sg"
+    },
+    "S": {
+      "lemma": "śyāma",
+      "person": "other",
+      "number": "sg"
+    },
+    "B": {
+      "lemma": "bhīma",
+      "person": "other",
+      "number": "sg"
+    }
+  },
+  "coordinated_groups": [
+    {
+      "id": "OTHER_SPEAKER",
+      "members_in_source_order": [
+        "R",
+        "I"
+      ],
+      "distinct_entities": 2,
+      "controller_role": "kartṛ",
+      "predicate": "GO",
+      "joined_by": "ca",
+      "group_person": "speaker",
+      "readings": [
+        {
+          "controller": "RIGHTMOST_MEMBER",
+          "controller_members": [
+            "I"
+          ],
+          "slot": "1sg",
+          "finite_word": "gacchāmi"
+        },
+        {
+          "controller": "WHOLE_GROUP",
+          "controller_members": [
+            "R",
+            "I"
+          ],
+          "slot": "1du",
+          "finite_word": "gacchāvaḥ"
+        }
+      ]
+    },
+    {
+      "id": "ADDRESSEE_SPEAKER",
+      "members_in_source_order": [
+        "Y",
+        "I"
+      ],
+      "distinct_entities": 2,
+      "controller_role": "kartṛ",
+      "predicate": "GO",
+      "joined_by": "ca",
+      "group_person": "speaker",
+      "readings": [
+        {
+          "controller": "RIGHTMOST_MEMBER",
+          "controller_members": [
+            "I"
+          ],
+          "slot": "1sg",
+          "finite_word": "gacchāmi"
+        },
+        {
+          "controller": "WHOLE_GROUP",
+          "controller_members": [
+            "Y",
+            "I"
+          ],
+          "slot": "1du",
+          "finite_word": "gacchāvaḥ"
+        }
+      ]
+    },
+    {
+      "id": "OTHER_ADDRESSEE",
+      "members_in_source_order": [
+        "R",
+        "Y"
+      ],
+      "distinct_entities": 2,
+      "controller_role": "kartṛ",
+      "predicate": "GO",
+      "joined_by": "ca",
+      "group_person": "addressee",
+      "readings": [
+        {
+          "controller": "RIGHTMOST_MEMBER",
+          "controller_members": [
+            "Y"
+          ],
+          "slot": "2sg",
+          "finite_word": "gacchasi"
+        },
+        {
+          "controller": "WHOLE_GROUP",
+          "controller_members": [
+            "R",
+            "Y"
+          ],
+          "slot": "2du",
+          "finite_word": "gacchathaḥ"
+        }
+      ]
+    },
+    {
+      "id": "OTHER_ADDRESSEE_SPEAKER",
+      "members_in_source_order": [
+        "R",
+        "Y",
+        "I"
+      ],
+      "distinct_entities": 3,
+      "controller_role": "kartṛ",
+      "predicate": "GO",
+      "joined_by": "ca",
+      "group_person": "speaker",
+      "readings": [
+        {
+          "controller": "RIGHTMOST_MEMBER",
+          "controller_members": [
+            "I"
+          ],
+          "slot": "1sg",
+          "finite_word": "gacchāmi"
+        },
+        {
+          "controller": "WHOLE_GROUP",
+          "controller_members": [
+            "R",
+            "Y",
+            "I"
+          ],
+          "slot": "1pl",
+          "finite_word": "gacchāmaḥ"
+        }
+      ]
+    },
+    {
+      "id": "THREE_NAMED_ACTORS",
+      "members_in_source_order": [
+        "R",
+        "S",
+        "B"
+      ],
+      "distinct_entities": 3,
+      "controller_role": "kartṛ",
+      "predicate": "GO",
+      "joined_by": "final ca",
+      "group_person": "other",
+      "readings": [
+        {
+          "controller": "WHOLE_GROUP",
+          "controller_members": [
+            "R",
+            "S",
+            "B"
+          ],
+          "slot": "3pl",
+          "finite_word": "gacchanti"
+        }
+      ]
+    }
+  ],
+  "finite_word_inverse": {
+    "gacchāmi": [
+      {
+        "group": "OTHER_SPEAKER",
+        "schedule": "RIGHTMOST_MEMBER",
+        "slot": "1sg"
+      },
+      {
+        "group": "ADDRESSEE_SPEAKER",
+        "schedule": "RIGHTMOST_MEMBER",
+        "slot": "1sg"
+      },
+      {
+        "group": "OTHER_ADDRESSEE_SPEAKER",
+        "schedule": "RIGHTMOST_MEMBER",
+        "slot": "1sg"
+      }
+    ],
+    "gacchāvaḥ": [
+      {
+        "group": "OTHER_SPEAKER",
+        "schedule": "WHOLE_GROUP",
+        "slot": "1du"
+      },
+      {
+        "group": "ADDRESSEE_SPEAKER",
+        "schedule": "WHOLE_GROUP",
+        "slot": "1du"
+      }
+    ],
+    "gacchasi": [
+      {
+        "group": "OTHER_ADDRESSEE",
+        "schedule": "RIGHTMOST_MEMBER",
+        "slot": "2sg"
+      }
+    ],
+    "gacchathaḥ": [
+      {
+        "group": "OTHER_ADDRESSEE",
+        "schedule": "WHOLE_GROUP",
+        "slot": "2du"
+      }
+    ],
+    "gacchāmaḥ": [
+      {
+        "group": "OTHER_ADDRESSEE_SPEAKER",
+        "schedule": "WHOLE_GROUP",
+        "slot": "1pl"
+      }
+    ],
+    "gacchanti": [
+      {
+        "group": "THREE_NAMED_ACTORS",
+        "schedule": "WHOLE_GROUP",
+        "slot": "3pl"
+      }
+    ]
+  },
+  "scope_controls": [
+    {
+      "id": "MISSING_COHERENT_SPEAKER",
+      "condition": "finite 1sg in the shown ca domain without other controller data",
+      "effect": "retain the three source groups that can project to gacchāmi"
+    },
+    {
+      "id": "NON_CONTROLLER",
+      "condition": "object or other noncontroller contains speaker or addressee",
+      "effect": "exclude it from group-person calculation"
+    },
+    {
+      "id": "ORDER",
+      "condition": "member order unattested in selected examples",
+      "effect": "group hierarchy can be stated, but nearby-member licensing remains unverified for this order"
+    },
+    {
+      "id": "OMITTED_PRONOUN",
+      "condition": "same-referent speaker/addressee known but unexpressed",
+      "effect": "1.4.105/107 allow the designated person"
+    },
+    {
+      "id": "PRAHASA",
+      "condition": "mocking manya construction",
+      "effect": "transfer to separate 1.4.106 policy; avoid naïve role inference"
+    }
+  ],
+  "external_evidence": {
+    "authors": [
+      "Sanjeev Panchal",
+      "Amba Kulkarni"
+    ],
+    "title": "Co-ordination in Sanskrit",
+    "journal": "Indian Linguistics",
+    "volume": "80(1–2)",
+    "year": 2019,
+    "pages": "59–76",
+    "passage": "pp. 67–69, concord section, p. 74 note 3, and figs. 12–13",
+    "url": "https://sanskrit.uohyd.ac.in/faculty/amba/PUBLICATIONS/papers/ca_Indian_Linguistics_2019.pdf",
+    "sha256": "5b3304e04344755ac1e47391f22fc3312b28be00537a82f54ce5a67123cd87ac",
+    "bytes": 762726,
+    "kind": "SECONDARY_EXPLICIT_WORKED_EXAMPLES"
+  }
+}
