@@ -1408,6 +1408,11 @@ deferred grammar tests, generators and replay. Next: dāṇ/yam 1.3.55–56.
 cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
+**PG128 — Nominal roles and the two meanings of putrīyati:** [packet](nominal_role_relations/README.md) adds
+**288 positions / 288 readings / 324 paths**; cumulative **29,345**.
+Selected target 288/288; Python 3.12 static checks only,
+grammar tests/generators/replay deferred.
+
 **PG127 — Aorist grade and deleted a on stop-final denominatives:** [packet](ky_consonant_aorist/README.md) adds
 **36 positions / 74 readings / 74 paths**; cumulative **29,057**.
 Selected target 36/36; Python 3.12 static checks only,
