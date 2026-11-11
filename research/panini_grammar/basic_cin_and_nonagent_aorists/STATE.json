@@ -1,0 +1,1278 @@
+{
+  "schema": "rkf.panini.pg227.state.v1",
+  "author": "Monty",
+  "date": "2026-11-12",
+  "baseline": {
+    "path": "research/panini_grammar/basic_patient_and_impersonal_present/STATE.json",
+    "commit": "75c179ca04c0cfdc58dae189c52b32293bafdad8",
+    "git_blob_sha": "cdb7ea3533cb2537df91adc3def1f7fbe3a40cec",
+    "sha256": "97edc7e8bd58f9d2ea95c4f616f9af0fa533d30f3458105c20015363fafeb1bb",
+    "bytes": 49497
+  },
+  "finite_positions": 44582,
+  "new_positions": 57,
+  "new_position_readings": 87,
+  "new_written_table_readings": 87,
+  "retained_path_count": 87,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "amāhi"
+        ],
+        "paths": [
+          {
+            "reading": "amāhi",
+            "construction": "actual ciṇ",
+            "following_ta": "luk"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "amāhiṣātām"
+        ],
+        "paths": [
+          {
+            "reading": "amāhiṣātām",
+            "construction": "ordinary",
+            "before_it": "māh"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "amāhiṣata"
+        ],
+        "paths": [
+          {
+            "reading": "amāhiṣata",
+            "construction": "ordinary",
+            "before_it": "māh"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "amāhiṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "amāhiṣṭhāḥ",
+            "construction": "ordinary",
+            "before_it": "māh"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "amāhiṣāthām"
+        ],
+        "paths": [
+          {
+            "reading": "amāhiṣāthām",
+            "construction": "ordinary",
+            "before_it": "māh"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "amāhiḍhvam",
+          "amāhidhvam"
+        ],
+        "paths": [
+          {
+            "reading": "amāhiḍhvam",
+            "construction": "ordinary",
+            "before_it": "māh"
+          },
+          {
+            "reading": "amāhidhvam",
+            "construction": "ordinary",
+            "before_it": "māh"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "amāhiṣi"
+        ],
+        "paths": [
+          {
+            "reading": "amāhiṣi",
+            "construction": "ordinary",
+            "before_it": "māh"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "amāhiṣvahi"
+        ],
+        "paths": [
+          {
+            "reading": "amāhiṣvahi",
+            "construction": "ordinary",
+            "before_it": "māh"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "amāhiṣmahi"
+        ],
+        "paths": [
+          {
+            "reading": "amāhiṣmahi",
+            "construction": "ordinary",
+            "before_it": "māh"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "amāhi"
+        ],
+        "paths": [
+          {
+            "reading": "amāhi",
+            "construction": "actual ciṇ",
+            "following_ta": "luk"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "amahiṣātām"
+        ],
+        "paths": [
+          {
+            "reading": "amahiṣātām",
+            "construction": "ordinary",
+            "before_it": "mah"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "amahiṣata"
+        ],
+        "paths": [
+          {
+            "reading": "amahiṣata",
+            "construction": "ordinary",
+            "before_it": "mah"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "amahiṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "amahiṣṭhāḥ",
+            "construction": "ordinary",
+            "before_it": "mah"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "amahiṣāthām"
+        ],
+        "paths": [
+          {
+            "reading": "amahiṣāthām",
+            "construction": "ordinary",
+            "before_it": "mah"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "amahiḍhvam",
+          "amahidhvam"
+        ],
+        "paths": [
+          {
+            "reading": "amahiḍhvam",
+            "construction": "ordinary",
+            "before_it": "mah"
+          },
+          {
+            "reading": "amahidhvam",
+            "construction": "ordinary",
+            "before_it": "mah"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "amahiṣi"
+        ],
+        "paths": [
+          {
+            "reading": "amahiṣi",
+            "construction": "ordinary",
+            "before_it": "mah"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "amahiṣvahi"
+        ],
+        "paths": [
+          {
+            "reading": "amahiṣvahi",
+            "construction": "ordinary",
+            "before_it": "mah"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "amahiṣmahi"
+        ],
+        "paths": [
+          {
+            "reading": "amahiṣmahi",
+            "construction": "ordinary",
+            "before_it": "mah"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "amahi"
+        ],
+        "paths": [
+          {
+            "reading": "amahi",
+            "construction": "actual ciṇ",
+            "following_ta": "luk"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "amahayiṣātām",
+          "amahiṣātām"
+        ],
+        "paths": [
+          {
+            "reading": "amahayiṣātām",
+            "construction": "ordinary",
+            "before_it": "mahay"
+          },
+          {
+            "reading": "amahiṣātām",
+            "construction": "ciṇvat",
+            "before_it": "mah"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "amahayiṣata",
+          "amahiṣata"
+        ],
+        "paths": [
+          {
+            "reading": "amahayiṣata",
+            "construction": "ordinary",
+            "before_it": "mahay"
+          },
+          {
+            "reading": "amahiṣata",
+            "construction": "ciṇvat",
+            "before_it": "mah"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "amahayiṣṭhāḥ",
+          "amahiṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "amahayiṣṭhāḥ",
+            "construction": "ordinary",
+            "before_it": "mahay"
+          },
+          {
+            "reading": "amahiṣṭhāḥ",
+            "construction": "ciṇvat",
+            "before_it": "mah"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "amahayiṣāthām",
+          "amahiṣāthām"
+        ],
+        "paths": [
+          {
+            "reading": "amahayiṣāthām",
+            "construction": "ordinary",
+            "before_it": "mahay"
+          },
+          {
+            "reading": "amahiṣāthām",
+            "construction": "ciṇvat",
+            "before_it": "mah"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "amahayiḍhvam",
+          "amahayidhvam",
+          "amahiḍhvam",
+          "amahidhvam"
+        ],
+        "paths": [
+          {
+            "reading": "amahayiḍhvam",
+            "construction": "ordinary",
+            "before_it": "mahay"
+          },
+          {
+            "reading": "amahayidhvam",
+            "construction": "ordinary",
+            "before_it": "mahay"
+          },
+          {
+            "reading": "amahiḍhvam",
+            "construction": "ciṇvat",
+            "before_it": "mah"
+          },
+          {
+            "reading": "amahidhvam",
+            "construction": "ciṇvat",
+            "before_it": "mah"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "amahayiṣi",
+          "amahiṣi"
+        ],
+        "paths": [
+          {
+            "reading": "amahayiṣi",
+            "construction": "ordinary",
+            "before_it": "mahay"
+          },
+          {
+            "reading": "amahiṣi",
+            "construction": "ciṇvat",
+            "before_it": "mah"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "amahayiṣvahi",
+          "amahiṣvahi"
+        ],
+        "paths": [
+          {
+            "reading": "amahayiṣvahi",
+            "construction": "ordinary",
+            "before_it": "mahay"
+          },
+          {
+            "reading": "amahiṣvahi",
+            "construction": "ciṇvat",
+            "before_it": "mah"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "amahayiṣmahi",
+          "amahiṣmahi"
+        ],
+        "paths": [
+          {
+            "reading": "amahayiṣmahi",
+            "construction": "ordinary",
+            "before_it": "mahay"
+          },
+          {
+            "reading": "amahiṣmahi",
+            "construction": "ciṇvat",
+            "before_it": "mah"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0963_bhave",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "asami"
+        ],
+        "paths": [
+          {
+            "reading": "asami",
+            "construction": "actual ciṇ",
+            "following_ta": "luk"
+          }
+        ]
+      },
+      {
+        "profile": "DP_04_0132_bhave",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "asami"
+        ],
+        "paths": [
+          {
+            "reading": "asami",
+            "construction": "actual ciṇ",
+            "following_ta": "luk"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1058_bhave",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "astyāyi"
+        ],
+        "paths": [
+          {
+            "reading": "astyāyi",
+            "construction": "actual ciṇ",
+            "following_ta": "luk"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1059_bhave",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "astyāyi"
+        ],
+        "paths": [
+          {
+            "reading": "astyāyi",
+            "construction": "actual ciṇ",
+            "following_ta": "luk"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0347_bhave",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "anāṭi"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭi",
+            "construction": "actual ciṇ",
+            "following_ta": "luk"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_0890_bhave",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "anāṭi"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭi",
+            "construction": "actual ciṇ",
+            "following_ta": "luk"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "anāṭi"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭi",
+            "construction": "actual ciṇ",
+            "following_ta": "luk"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "anāṭayiṣātām",
+          "anāṭiṣātām"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭayiṣātām",
+            "construction": "ordinary",
+            "before_it": "nāṭay"
+          },
+          {
+            "reading": "anāṭiṣātām",
+            "construction": "ciṇvat",
+            "before_it": "nāṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "anāṭayiṣata",
+          "anāṭiṣata"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭayiṣata",
+            "construction": "ordinary",
+            "before_it": "nāṭay"
+          },
+          {
+            "reading": "anāṭiṣata",
+            "construction": "ciṇvat",
+            "before_it": "nāṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "anāṭayiṣṭhāḥ",
+          "anāṭiṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭayiṣṭhāḥ",
+            "construction": "ordinary",
+            "before_it": "nāṭay"
+          },
+          {
+            "reading": "anāṭiṣṭhāḥ",
+            "construction": "ciṇvat",
+            "before_it": "nāṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "anāṭayiṣāthām",
+          "anāṭiṣāthām"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭayiṣāthām",
+            "construction": "ordinary",
+            "before_it": "nāṭay"
+          },
+          {
+            "reading": "anāṭiṣāthām",
+            "construction": "ciṇvat",
+            "before_it": "nāṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "anāṭayiḍhvam",
+          "anāṭayidhvam",
+          "anāṭidhvam"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭayiḍhvam",
+            "construction": "ordinary",
+            "before_it": "nāṭay"
+          },
+          {
+            "reading": "anāṭayidhvam",
+            "construction": "ordinary",
+            "before_it": "nāṭay"
+          },
+          {
+            "reading": "anāṭidhvam",
+            "construction": "ciṇvat",
+            "before_it": "nāṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "anāṭayiṣi",
+          "anāṭiṣi"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭayiṣi",
+            "construction": "ordinary",
+            "before_it": "nāṭay"
+          },
+          {
+            "reading": "anāṭiṣi",
+            "construction": "ciṇvat",
+            "before_it": "nāṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "anāṭayiṣvahi",
+          "anāṭiṣvahi"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭayiṣvahi",
+            "construction": "ordinary",
+            "before_it": "nāṭay"
+          },
+          {
+            "reading": "anāṭiṣvahi",
+            "construction": "ciṇvat",
+            "before_it": "nāṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "anāṭayiṣmahi",
+          "anāṭiṣmahi"
+        ],
+        "paths": [
+          {
+            "reading": "anāṭayiṣmahi",
+            "construction": "ordinary",
+            "before_it": "nāṭay"
+          },
+          {
+            "reading": "anāṭiṣmahi",
+            "construction": "ciṇvat",
+            "before_it": "nāṭ"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "anaṃsthāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "anaṃsthāḥ",
+            "construction": "ordinary aniṭ sic in A"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "anaṃsāthām"
+        ],
+        "paths": [
+          {
+            "reading": "anaṃsāthām",
+            "construction": "ordinary aniṭ sic in A"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "anandhvam"
+        ],
+        "paths": [
+          {
+            "reading": "anandhvam",
+            "construction": "ordinary aniṭ sic in A"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "anaṃsi"
+        ],
+        "paths": [
+          {
+            "reading": "anaṃsi",
+            "construction": "ordinary aniṭ sic in A"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "anaṃsvahi"
+        ],
+        "paths": [
+          {
+            "reading": "anaṃsvahi",
+            "construction": "ordinary aniṭ sic in A"
+          }
+        ]
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "anaṃsmahi"
+        ],
+        "paths": [
+          {
+            "reading": "anaṃsmahi",
+            "construction": "ordinary aniṭ sic in A"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "aśāmi"
+        ],
+        "paths": [
+          {
+            "reading": "aśāmi",
+            "construction": "actual ciṇ",
+            "following_ta": "luk"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "aśāmayiṣātām",
+          "aśāmiṣātām"
+        ],
+        "paths": [
+          {
+            "reading": "aśāmayiṣātām",
+            "construction": "ordinary",
+            "before_it": "śāmay"
+          },
+          {
+            "reading": "aśāmiṣātām",
+            "construction": "ciṇvat",
+            "before_it": "śām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "aśāmayiṣata",
+          "aśāmiṣata"
+        ],
+        "paths": [
+          {
+            "reading": "aśāmayiṣata",
+            "construction": "ordinary",
+            "before_it": "śāmay"
+          },
+          {
+            "reading": "aśāmiṣata",
+            "construction": "ciṇvat",
+            "before_it": "śām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "aśāmayiṣṭhāḥ",
+          "aśāmiṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "reading": "aśāmayiṣṭhāḥ",
+            "construction": "ordinary",
+            "before_it": "śāmay"
+          },
+          {
+            "reading": "aśāmiṣṭhāḥ",
+            "construction": "ciṇvat",
+            "before_it": "śām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "aśāmayiṣāthām",
+          "aśāmiṣāthām"
+        ],
+        "paths": [
+          {
+            "reading": "aśāmayiṣāthām",
+            "construction": "ordinary",
+            "before_it": "śāmay"
+          },
+          {
+            "reading": "aśāmiṣāthām",
+            "construction": "ciṇvat",
+            "before_it": "śām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "aśāmayiḍhvam",
+          "aśāmayidhvam",
+          "aśāmidhvam"
+        ],
+        "paths": [
+          {
+            "reading": "aśāmayiḍhvam",
+            "construction": "ordinary",
+            "before_it": "śāmay"
+          },
+          {
+            "reading": "aśāmayidhvam",
+            "construction": "ordinary",
+            "before_it": "śāmay"
+          },
+          {
+            "reading": "aśāmidhvam",
+            "construction": "ciṇvat",
+            "before_it": "śām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "aśāmayiṣi",
+          "aśāmiṣi"
+        ],
+        "paths": [
+          {
+            "reading": "aśāmayiṣi",
+            "construction": "ordinary",
+            "before_it": "śāmay"
+          },
+          {
+            "reading": "aśāmiṣi",
+            "construction": "ciṇvat",
+            "before_it": "śām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "aśāmayiṣvahi",
+          "aśāmiṣvahi"
+        ],
+        "paths": [
+          {
+            "reading": "aśāmayiṣvahi",
+            "construction": "ordinary",
+            "before_it": "śāmay"
+          },
+          {
+            "reading": "aśāmiṣvahi",
+            "construction": "ciṇvat",
+            "before_it": "śām"
+          }
+        ]
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "aśāmayiṣmahi",
+          "aśāmiṣmahi"
+        ],
+        "paths": [
+          {
+            "reading": "aśāmayiṣmahi",
+            "construction": "ordinary",
+            "before_it": "śāmay"
+          },
+          {
+            "reading": "aśāmiṣmahi",
+            "construction": "ciṇvat",
+            "before_it": "śām"
+          }
+        ]
+      }
+    ],
+    "panels": [
+      {
+        "profile": "DP_01_1042_karmani",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "DP_01_0831_karmani",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 10
+      },
+      {
+        "profile": "DP_10_0406_karmani",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 19
+      },
+      {
+        "profile": "DP_01_0963_bhave",
+        "lakara": "lung",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_04_0132_bhave",
+        "lakara": "lung",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_01_1058_bhave",
+        "lakara": "lung",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_01_1059_bhave",
+        "lakara": "lung",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_01_0347_bhave",
+        "lakara": "lung",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_01_0890_bhave",
+        "lakara": "lung",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "profile": "DP_10_0018_karmani",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 18
+      },
+      {
+        "profile": "DP_01_1136_karmani",
+        "lakara": "lung",
+        "positions": 6,
+        "readings": 6
+      },
+      {
+        "profile": "DP_10_0218_karmani",
+        "lakara": "lung",
+        "positions": 9,
+        "readings": 18
+      }
+    ],
+    "complete_nine_slot_paradigms": 5
+  },
+  "contextual_profiles": {
+    "DP_01_1042_karmani": {
+      "root_address": "01.1042",
+      "dhatu": "माहृँ",
+      "artha": "माने",
+      "valency_in_edition": "S",
+      "construction": "karmani",
+      "present_factor": "māhy"
+    },
+    "DP_01_0831_karmani": {
+      "root_address": "01.0831",
+      "dhatu": "महँ",
+      "artha": "पूजायाम्",
+      "valency_in_edition": "S",
+      "construction": "karmani",
+      "present_factor": "mahy"
+    },
+    "DP_10_0406_karmani": {
+      "root_address": "10.0406",
+      "dhatu": "मह",
+      "artha": "पूजायाम्",
+      "valency_in_edition": "S",
+      "construction": "karmani",
+      "present_factor": "mahy"
+    },
+    "DP_01_0963_bhave": {
+      "root_address": "01.0963",
+      "dhatu": "षमँ",
+      "artha": "अवैकल्ये",
+      "valency_in_edition": "A",
+      "construction": "bhave",
+      "present_factor": "samy"
+    },
+    "DP_04_0132_bhave": {
+      "root_address": "04.0132",
+      "dhatu": "समीँ",
+      "artha": "परिणामे",
+      "valency_in_edition": "A",
+      "construction": "bhave",
+      "present_factor": "samy"
+    },
+    "DP_01_1058_bhave": {
+      "root_address": "01.1058",
+      "dhatu": "स्त्यै",
+      "artha": "शब्दसङ्घातयोः",
+      "valency_in_edition": "A",
+      "construction": "bhave",
+      "present_factor": "styāy"
+    },
+    "DP_01_1059_bhave": {
+      "root_address": "01.1059",
+      "dhatu": "ष्ट्यै",
+      "artha": "शब्दसङ्घातयोः",
+      "valency_in_edition": "A",
+      "construction": "bhave",
+      "present_factor": "styāy"
+    },
+    "DP_01_0347_bhave": {
+      "root_address": "01.0347",
+      "dhatu": "णटँ",
+      "artha": "नृत्तौ",
+      "valency_in_edition": "A",
+      "construction": "bhave",
+      "present_factor": "naṭy"
+    },
+    "DP_01_0890_bhave": {
+      "root_address": "01.0890",
+      "dhatu": "णटँ",
+      "artha": "नृत्तौ गतौ च",
+      "valency_in_edition": "A",
+      "construction": "bhave",
+      "present_factor": "naṭy"
+    },
+    "DP_10_0018_karmani": {
+      "root_address": "10.0018",
+      "dhatu": "नटँ",
+      "artha": "अवस्पन्दने",
+      "valency_in_edition": "S",
+      "construction": "karmani",
+      "present_factor": "nāṭy"
+    },
+    "DP_01_1136_karmani": {
+      "root_address": "01.1136",
+      "dhatu": "णमँ",
+      "artha": "प्रह्वत्वे शब्दे च",
+      "valency_in_edition": "S",
+      "construction": "karmani",
+      "present_factor": "namy"
+    },
+    "DP_10_0218_karmani": {
+      "root_address": "10.0218",
+      "dhatu": "शमँ",
+      "artha": "आलोचने",
+      "valency_in_edition": "S",
+      "construction": "karmani",
+      "present_factor": "śāmy"
+    }
+  },
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_lot_3_3_161_162",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "The ordinary and ciṇvat choices before sya, tās and sīyuṭ, plus the simple versus ām perfect in these role-conditioned profiles.",
+    "Source-specific 4.105 and 5.56 issues and pippalyādi compounds."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Checked all sixty licensed aorists, the three reused forms, original m-final accents, the actual ciṇ and alternative sic path ownership, and the single archive discrepancy."
+  },
+  "declared_nonagent_grid_done": 300,
+  "declared_nonagent_grid_total": 600,
+  "aorist_reused_rod_cells": 3,
+  "comparison_additional_readings": 1
+}

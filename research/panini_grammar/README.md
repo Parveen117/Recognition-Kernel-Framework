@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG227 — Radical accent and actual ciṇ in the activity and patient aorists.** [Packet](basic_cin_and_nonagent_aorists/README.md). 57 positions, 87 readings and 87 paths. Cumulative **44,582**.
+
 **PG226 — Patient agreement and impersonal third singular across twelve roots.** [Packet](basic_patient_and_impersonal_present/README.md). 228 positions, 228 readings and 228 paths. Cumulative **44,525**.
 
 **PG225 — Three Dhātuvṛtti readings of strī and the abstracts of its compounds.** [Packet](stri_compounds_and_three_dhatuvrttis/README.md). Zero new finite positions. Cumulative **44,297**.
