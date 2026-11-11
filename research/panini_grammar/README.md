@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG207 — Two styai teaching forms across all ten desiderative lakāras.** [Packet](styai_dental_and_retroflex_desideratives/README.md). 180 positions, 256 readings and 256 paths. Cumulative **42,053**.
+
 **PG206 — Four present-system lakāras on twelve Uṇādi-related root entries.** [Packet](unadi_root_present_families/README.md). 540 positions, 540 readings and 540 paths. Cumulative **41,873**.
 
 **PG205 — Śaṇḍha, ṣaṇḍha and the two lotus beds.** [Packet](sandha_and_lotus_collectives/README.md). Zero new finite positions. Cumulative **41,333**.
