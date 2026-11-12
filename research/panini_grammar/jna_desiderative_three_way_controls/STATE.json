@@ -1,0 +1,59 @@
+{
+  "schema": "rkf.panini.pg303.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "94da5c32041e1676326e396413deb8531f648402",
+    "path": "research/panini_grammar/sam_jna_recollective_active_case_controls/STATE.json"
+  },
+  "finite_positions": 51149,
+  "new_positions": 3,
+  "new_position_readings": 3,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "JNA_DESIDERATIVE_DHARMA_A",
+        "lakara": "lat",
+        "slot": "3sg",
+        "pada": "A",
+        "readings": [
+          "jijñāsate"
+        ]
+      },
+      {
+        "profile": "ANU_JNA_DESIDERATIVE_SON_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "pada": "P",
+        "readings": [
+          "anujijñāsati"
+        ]
+      },
+      {
+        "profile": "ANU_JNA_DESIDERATIVE_MEDICINE_GENITIVE_A",
+        "lakara": "lat",
+        "slot": "3sg",
+        "pada": "A",
+        "readings": [
+          "anujijñāsate"
+        ]
+      }
+    ]
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Pinned HTML, literal desiderative clauses, typed keys, counts, Unicode and navigation only."
+  },
+  "open_obligations": [
+    "Optional self-marked jna collation",
+    "nonthird desiderative persons and outer lakaras",
+    "other prefix/transitivity contrasts"
+  ],
+  "current_summary_note": "Pinned Madhaviya directly supplies three jna desiderative cells distinguishing ordinary middle, transitive anu-active and intransitive anu-middle. [Three-way desiderative controls](jna_desiderative_three_way_controls/README.md)."
+}
