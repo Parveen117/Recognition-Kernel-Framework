@@ -1,0 +1,40 @@
+{
+  "schema": "rkf.panini.pg299.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "b319f444f464bd9d82426a4783f5171ac6886e3d",
+    "path": "research/panini_grammar/aa_han_direct_outer_third_persons/STATE.json"
+  },
+  "finite_positions": 51135,
+  "new_positions": 1,
+  "new_position_readings": 1,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "PRA_JNA_HEAVEN_WORLD_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "prajānāti"
+        ]
+      }
+    ]
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Current literal clause, key, count, Unicode and navigation only."
+  },
+  "open_obligations": [
+    "Other literal prefixed jna clauses",
+    "wider prefix/root senses",
+    "PG282 prefixed ja/vadha corroboration remains separate"
+  ],
+  "current_summary_note": "Kasika 1.3.76 directly witnesses one negative pra+jna active clause with a heaven-world object. [Literal prefixed control](pra_jna_heaven_literal_control/README.md)."
+}
