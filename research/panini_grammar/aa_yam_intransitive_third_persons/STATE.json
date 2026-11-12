@@ -1,0 +1,56 @@
+{
+  "schema": "rkf.panini.pg294.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "4fa495a6e9e5d573710a63f65d12ed979c308414",
+    "path": "research/panini_grammar/aa_han_intransitive_third_persons/STATE.json"
+  },
+  "finite_positions": 51031,
+  "new_positions": 3,
+  "new_position_readings": 3,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "AA_YAM_INTRANSITIVE_A",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "āyacchate"
+        ]
+      },
+      {
+        "profile": "AA_YAM_INTRANSITIVE_A",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "āyacchete"
+        ]
+      },
+      {
+        "profile": "AA_YAM_INTRANSITIVE_A",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "āyacchante"
+        ]
+      }
+    ]
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Current packet source equality, keys, counts, Unicode and navigation only."
+  },
+  "open_obligations": [
+    "Remaining intransitive present persons",
+    "outer lakaras",
+    "transitive controls remain separately typed"
+  ],
+  "current_summary_note": "Kasika directly supplies three intransitive aa+yam middle third persons under a route distinct from the own-limb object profile. [Intransitive aa+yam](aa_yam_intransitive_third_persons/README.md)."
+}

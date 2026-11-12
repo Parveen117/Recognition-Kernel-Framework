@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG294 — Intransitive ā + yam has three directly printed middle third persons.** [Packet](aa_yam_intransitive_third_persons/README.md). 3 finite positions and 3 readings. Cumulative **51,031**.
+
 **PG293 — Intransitive ā + han has three directly printed middle third persons.** [Packet](aa_han_intransitive_third_persons/README.md). 3 finite positions and 3 readings. Cumulative **51,028**.
 
 **PG292 — Two more ā + han middle cells have direct prefixed witnesses.** [Packet](aa_han_two_more_middle_witnesses/README.md). 2 finite positions and 2 readings; the 2du remains open. Cumulative **51,025**.
