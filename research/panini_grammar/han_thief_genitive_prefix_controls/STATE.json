@@ -1,0 +1,56 @@
+{
+  "schema": "rkf.panini.pg311.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "149ca82e056c146486f73d32fda4c2a0800bbb94",
+    "path": "research/panini_grammar/pra_han_direct_present_nasal_controls/STATE.json"
+  },
+  "finite_positions": 51154,
+  "new_positions": 2,
+  "new_position_readings": 2,
+  "new_nominal_positions": 0,
+  "new_source_observations": 1,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "NI_PRA_HAN_THIEF_GENITIVE_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "niprahanti"
+        ]
+      },
+      {
+        "profile": "NI_HAN_THIEF_GENITIVE_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "nihanti"
+        ]
+      }
+    ]
+  },
+  "source_observations": [
+    {
+      "id": "MADHAVIYA_662_LITERAL_PRANIHANTI",
+      "source": "चोरस्य प्रणिहन्ति",
+      "normalized": "chorasya praṇihanti",
+      "relation": "literal corroboration of existing pra_ni_DP_02_0002_P lat 3sg; no new key or reading credit"
+    }
+  ],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Pinned source line, prior-key match for praṇihanti, two new key checks, counts, Unicode and navigation only."
+  },
+  "open_obligations": [
+    "The literal praṇihanti witness does not corroborate PG282 ja/vadha/NIC outputs",
+    "other persons and lakaras for ni+pra and ni remain open",
+    "do not duplicate PG310 prahanti"
+  ],
+  "current_summary_note": "Madhaviya's thief-genitive line adds literal niprahanti and nihanti profiles; praṇihanti is one corroborating observation for an existing key, not duplicate credit. [Thief-genitive prefix controls](han_thief_genitive_prefix_controls/README.md)."
+}

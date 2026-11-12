@@ -1,0 +1,61 @@
+{
+  "root": {
+    "address": "02.0002",
+    "teaching": "han"
+  },
+  "condition": {
+    "participant_relation": "the thief is expressed in the printed genitive construction",
+    "source_rule": "जासिनिप्रहणनाटक्राथपिषां हिंसायाम्"
+  },
+  "positions": [
+    {
+      "profile": "NI_PRA_HAN_THIEF_GENITIVE_P",
+      "prefixes": [
+        "ni",
+        "pra"
+      ],
+      "lakara": "lat",
+      "slot": "3sg",
+      "pada": "P",
+      "word": "niprahanti"
+    },
+    {
+      "profile": "NI_HAN_THIEF_GENITIVE_P",
+      "prefixes": [
+        "ni"
+      ],
+      "lakara": "lat",
+      "slot": "3sg",
+      "pada": "P",
+      "word": "nihanti"
+    }
+  ],
+  "corroboration": {
+    "source": "चोरस्य प्रणिहन्ति",
+    "existing_key": {
+      "profile": "pra_ni_DP_02_0002_P",
+      "lakara": "lat",
+      "slot": "3sg",
+      "reading": "praṇihanti"
+    },
+    "accounting": "one source observation; zero new positions and readings"
+  },
+  "already_counted_here_elsewhere": {
+    "source": "चोरस्य प्रहन्ति",
+    "packet": "PG310",
+    "accounting": "zero new credit in PG311"
+  },
+  "boundary": "Only two previously unwritten prefix histories receive finite credit.",
+  "nonclaims": [
+    "No full ni+pra or ni paradigm",
+    "no duplicate pra+ni position",
+    "no PG282 ja/vadha/NIC literal corroboration"
+  ],
+  "counting": {
+    "new_finite_positions": 2,
+    "new_written_readings": 2,
+    "new_nominal_positions": 0,
+    "new_source_observations": 1,
+    "finite_positions_after": 51154
+  }
+}
