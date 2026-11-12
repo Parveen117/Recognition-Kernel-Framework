@@ -1,0 +1,48 @@
+{
+  "schema": "rkf.panini.pg292.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "5d69ce35ecb629b74003e1e2c1a5c6d84e862ec9",
+    "path": "research/panini_grammar/aa_han_middle_second_plural_witness/STATE.json"
+  },
+  "finite_positions": 51025,
+  "new_positions": 2,
+  "new_position_readings": 2,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "āhase"
+        ]
+      },
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "āhane"
+        ]
+      }
+    ]
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Current packet source strings, keys, counts, Unicode and navigation only."
+  },
+  "open_obligations": [
+    "Collate the Shabdikabharana 2du spelling",
+    "printed collation of Madhaviya entry 662",
+    "remaining aa+han persons and lakaras"
+  ],
+  "current_summary_note": "The immutable own-limb series directly adds aa+han middle 2sg and 1sg; its 2du remains uncounted. [Two more middle witnesses](aa_han_two_more_middle_witnesses/README.md)."
+}
