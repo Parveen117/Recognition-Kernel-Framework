@@ -1,0 +1,15 @@
+{
+  "schema":"rkf.panini.pg291.state.v1",
+  "author":"Monty",
+  "date":"2026-11-13",
+  "baseline":{"repository":"Parveen117/Recognition-Kernel-Framework","commit":"d1f94ec31e7e24d1b266b246dccc8713d0e92fae","path":"research/panini_grammar/aa_han_own_and_other_head_present/STATE.json"},
+  "finite_positions":51023,
+  "new_positions":1,
+  "new_position_readings":1,
+  "new_nominal_positions":0,
+  "new_source_observations":1,
+  "position_accounting":{"forms":[{"profile":"AA_HAN_OWN_LIMB_A","lakara":"lat","slot":"2pl","readings":["āhadhve"]}]},
+  "runtime_policy":{"python":"3.12 only","grammar_tests":"DEFERRED_TO_CLAUDE","generators":"DEFERRED_TO_CLAUDE","certificate_replay":"DEFERRED_TO_CLAUDE","document_checks":"Current packet source strings, keys, counts, Unicode and navigation only."},
+  "open_obligations":["Printed collation of Madhaviya entry 662","remaining aa+han persons and lakaras","the Shabdikabharana online series' short-prefix 3du spelling"],
+  "current_summary_note":"An independent immutable revision directly witnesses aa+han middle 2pl ahadhve; Madhaviya printed collation remains open. [Middle 2pl witness](aa_han_middle_second_plural_witness/README.md)."
+}

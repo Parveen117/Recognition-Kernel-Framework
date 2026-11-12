@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG291 — Ā + han middle 2pl has an independent prefixed witness.** [Packet](aa_han_middle_second_plural_witness/README.md). 1 finite position, 1 reading and 1 source observation. Cumulative **51,023**.
+
 **PG290 — Ā + han: own head and another's head split the pada.** [Packet](aa_han_own_and_other_head_present/README.md). 2 finite positions and 2 readings. Cumulative **51,022**.
 
 **PG289 — Ā + yam with one's own hand has its own middle route.** [Packet](aa_yam_own_limb_middle/README.md). 90 finite positions and 90 readings. Cumulative **51,020**.
