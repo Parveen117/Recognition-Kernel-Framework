@@ -6,11 +6,11 @@
   "baseline_commit": "3861c38680913b411b608cf43894c09813811954",
   "baseline_stage": "PG275",
   "baseline_finite_positions": 50108,
-  "writer": "04:25 checkpoint ChatGPT worker",
-  "status": "active",
-  "heartbeat_utc": "2026-11-13T00:34:00.000000+00:00",
-  "published_stage": "PG305 once this packet is published",
-  "current_work": "PG305 writes five direct jna intensive/causative controls after prior-tree audit. Nonthird/outer derived cells and independent context witnesses remain open.",
+  "writer": null,
+  "status": "available_for_checkpoint",
+  "heartbeat_utc": "2026-11-13T00:40:00.000000+00:00",
+  "published_stage": "PG305 at 4178d17cf748ec8f6be652cfa025739e04098457",
+  "current_work": "PG292-PG305 added a corrected net 120 finite positions and 121 readings. PG304 removed 11 duplicate jna credits after prior-key audit. Continue only after checking prior semantic keys; aa+han blanks, optional self-marked jna, four Unadi fields and primary 5.56 effect remain open.",
   "handoff_policy": "Checkpoint workers must avoid concurrent writes while foreground is active. If heartbeat is older than 20 minutes and branch has no newer active writer, inspect current head and take over sequentially. At deadline only verify/report.",
   "constraints": [
     "Python 3.12 document checks only",
@@ -34,5 +34,14 @@
     "new_nominal_positions": 0,
     "new_source_observations": 2,
     "finite_positions_after": 51023
+  },
+  "checkpoint_0425_totals": {
+    "published_stages": "PG292-PG305",
+    "new_finite_positions": 120,
+    "new_written_readings": 121,
+    "new_nominal_positions": 0,
+    "new_source_observations": 0,
+    "finite_positions_after": 51143,
+    "correction": "PG304 subtracts 11 provisional duplicate positions/readings from PG300-PG302"
   }
 }
