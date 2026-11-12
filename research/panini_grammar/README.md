@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG305 — Direct jñā intensive and causative controls separate grade and voice.** [Packet](jna_intensive_and_causative_direct_controls/README.md). 5 finite positions and 5 readings. Corrected cumulative **51,143**.
+
 **PG304 — Prior-coverage audit removes eleven duplicate jñā credits.** [Packet](jna_prior_coverage_correction/README.md). Corrected cumulative **51,138**.
 
 **PG303 — Three jñā desideratives keep prefix and transitivity distinct.** [Packet](jna_desiderative_three_way_controls/README.md). 3 finite positions and 3 readings. Cumulative after PG304 correction **51,138**.

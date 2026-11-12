@@ -1,0 +1,72 @@
+{
+  "source_entry": 36,
+  "positions": [
+    {
+      "profile": "JNA_INTENSIVE_A",
+      "formation": "intensive",
+      "sense": "repeated/intensive knowing",
+      "lakara": "lat",
+      "slot": "3sg",
+      "pada": "A",
+      "word": "jājñāyate",
+      "source": "जाज्ञायते"
+    },
+    {
+      "profile": "JNA_INTENSIVE_P",
+      "formation": "intensive",
+      "sense": "repeated/intensive knowing",
+      "lakara": "lat",
+      "slot": "3sg",
+      "pada": "P",
+      "word": "jājñāti",
+      "source": "जाज्ञाति"
+    },
+    {
+      "profile": "JNA_CAUSATIVE_GENERAL_P",
+      "formation": "nic causative",
+      "sense": "general causative",
+      "lakara": "lat",
+      "slot": "3sg",
+      "pada": "P",
+      "word": "jñāpayati",
+      "source": "ज्ञापयति"
+    },
+    {
+      "profile": "JNA_CAUSATIVE_GENERAL_AORIST_P",
+      "formation": "nic causative",
+      "sense": "general causative completed event",
+      "lakara": "lung",
+      "slot": "3sg",
+      "pada": "P",
+      "word": "ajijñapat",
+      "source": "अजिज्ञपत्"
+    },
+    {
+      "profile": "JNA_CAUSATIVE_KILLING_MIT_P",
+      "formation": "nic causative",
+      "sense": "killing and related ghaṭādi domain",
+      "lakara": "lat",
+      "slot": "3sg",
+      "pada": "P",
+      "word": "jñapayati",
+      "source": "मारणदौ ज्ञपयति"
+    }
+  ],
+  "derivational_distinctions": {
+    "intensive": "A and P outputs are both printed.",
+    "causative": "General long-grade jnapayati and killing-domain short-grade jnapayati remain separate; the aorist ajijnapat is separately keyed."
+  },
+  "prior_coverage_audit": "No jna intensive/causative packet appears in the branch tree; PG79 explicitly left derived san/nic domains open.",
+  "nonclaims": [
+    "No full paradigms",
+    "no transfer of short grade outside stated domain",
+    "no additional voice options"
+  ],
+  "counting": {
+    "new_finite_positions": 5,
+    "new_written_readings": 5,
+    "new_nominal_positions": 0,
+    "new_source_observations": 0,
+    "finite_positions_after": 51143
+  }
+}

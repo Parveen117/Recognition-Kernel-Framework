@@ -1,0 +1,82 @@
+{
+  "schema": "rkf.panini.pg305.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "de5ca5d4411d8d95c7205cdf223467e8adfd6fdb",
+    "path": "research/panini_grammar/jna_prior_coverage_correction/STATE.json"
+  },
+  "finite_positions": 51143,
+  "new_positions": 5,
+  "new_position_readings": 5,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "JNA_INTENSIVE_A",
+        "formation": "intensive",
+        "lakara": "lat",
+        "slot": "3sg",
+        "pada": "A",
+        "readings": [
+          "jājñāyate"
+        ]
+      },
+      {
+        "profile": "JNA_INTENSIVE_P",
+        "formation": "intensive",
+        "lakara": "lat",
+        "slot": "3sg",
+        "pada": "P",
+        "readings": [
+          "jājñāti"
+        ]
+      },
+      {
+        "profile": "JNA_CAUSATIVE_GENERAL_P",
+        "formation": "nic causative",
+        "lakara": "lat",
+        "slot": "3sg",
+        "pada": "P",
+        "readings": [
+          "jñāpayati"
+        ]
+      },
+      {
+        "profile": "JNA_CAUSATIVE_GENERAL_AORIST_P",
+        "formation": "nic causative",
+        "lakara": "lung",
+        "slot": "3sg",
+        "pada": "P",
+        "readings": [
+          "ajijñapat"
+        ]
+      },
+      {
+        "profile": "JNA_CAUSATIVE_KILLING_MIT_P",
+        "formation": "nic causative",
+        "lakara": "lat",
+        "slot": "3sg",
+        "pada": "P",
+        "readings": [
+          "jñapayati"
+        ]
+      }
+    ]
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Pinned HTML, prior packet-tree audit, literal forms, keys, counts, Unicode and navigation only."
+  },
+  "open_obligations": [
+    "Nonthird and outer intensive/causative cells",
+    "independent context witnesses",
+    "other causative semantic grades"
+  ],
+  "current_summary_note": "Pinned Madhaviya directly supplies five jna intensive/causative controls, with long and killing-domain short causative grades separate. [Intensive and causative controls](jna_intensive_and_causative_direct_controls/README.md)."
+}
