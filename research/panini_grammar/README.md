@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG302 — Recollective sam + jñā keeps three active case controls.** [Packet](sam_jna_recollective_active_case_controls/README.md). 3 finite positions and 3 readings. Cumulative **51,146**.
+
 **PG301 — Six direct jñā middle controls preserve sense and case.** [Packet](jna_six_direct_middle_controls/README.md). 6 finite positions and 6 readings. Cumulative **51,143**.
 
 **PG300 — Cow and horse give two literal jñā actor-result middle cells.** [Packet](jna_cow_horse_actor_result_middle/README.md). 2 finite positions and 2 readings. Cumulative **51,137**.
