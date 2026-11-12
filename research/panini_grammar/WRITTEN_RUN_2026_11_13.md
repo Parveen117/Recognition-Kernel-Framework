@@ -31,15 +31,16 @@ The foreground packets PG276–PG284 add **426 finite positions and 456 selected
 | PG292 | b521f6b282a21d0e3e877c7b60b0f9c05c4f0941 | 2 | 2 | 0 |
 | PG293 | 4fa495a6e9e5d573710a63f65d12ed979c308414 | 3 | 3 | 0 |
 | PG294 | e585e9535280155aa1da3f8c7d641599a405f01a | 3 | 3 | 0 |
-| PG295 | This packet commit; obtain its actual SHA from branch history | 2 | 2 | 0 |
+| PG295 | eea8863e254d452235cb6535b90d061b9d8052fb | 2 | 2 | 0 |
+| PG296 | This packet commit; obtain its actual SHA from branch history | 87 | 87 | 0 |
 
-Checkpoint through PG295: **925 finite positions, 1,017 selected readings, zero nominal positions and four source observations** in this run; cumulative finite coverage **51,033**.
+Checkpoint through PG296: **1,012 finite positions, 1,104 selected readings, zero nominal positions and four source observations** in this run; cumulative finite coverage **51,120**.
 
 ## Concrete next work
 
 PG285 completed the two result-qualified han NIC-P profiles at **180/180** positions. Its perfect keeps the ām host and all three auxiliary histories distinct under 3.1.35/40 and 6.4.55; its caṅ aorist records the 3.1.48, 6.1.11, 6.4.51, 7.4.1 and 7.4.93/94 sequence. PG286–PG289 then wrote four source-qualified residual or special-pada profiles. PG290 wrote the exact *ā + han* own-head/other-head present pair.
 
-PG291 found an independent immutable *Śābdikābharaṇa* witness for **āhadhve**, contrasting with digital Mādhavīya entry 662's **ahadhve**. PG292 writes the same line's directly printed **āhase** and **āhane**; its **āghnāthe** remains uncounted pending collation. PG293 separately writes Kāśikā's three directly printed intransitive *ā + han* third-person forms. PG294 writes the parallel directly printed intransitive *ā + yam* triplet under its own route. PG295 keeps the two explicit object-bearing active controls as narrower clause profiles. It writes only that 2pl cell and counts the textual difference separately as one source observation. Printed Mādhavīya collation and the rest of the *ā + han* schedule remain open; the online *Śābdikābharaṇa* series' 3du spelling also needs collation before wider use.
+PG291 found an independent immutable *Śābdikābharaṇa* witness for **āhadhve**, contrasting with digital Mādhavīya entry 662's **ahadhve**. PG292 writes the same line's directly printed **āhase** and **āhane**; its **āghnāthe** remains uncounted pending collation. PG293 separately writes Kāśikā's three directly printed intransitive *ā + han* third-person forms. PG294 writes the parallel directly printed intransitive *ā + yam* triplet under its own route. PG295 keeps the two explicit object-bearing active controls as narrower clause profiles. PG296 completes the intransitive *ā + yam* grid by adding only the 87 cells not already credited in PG294. It writes only that 2pl cell and counts the textual difference separately as one source observation. Printed Mādhavīya collation and the rest of the *ā + han* schedule remain open; the online *Śābdikābharaṇa* series' 3du spelling also needs collation before wider use.
 
 PG282's prefixed ja/vadha words use an explicitly selected non-al lexical-membership reading of 1.1.56/8.4.17. They remain written derivations, not literal prefixed attestations. Preserve that distinction in future expansions. The same source policy is explicit for the new NIC words. Seek independent prefixed corroboration without inventing a witness.
 

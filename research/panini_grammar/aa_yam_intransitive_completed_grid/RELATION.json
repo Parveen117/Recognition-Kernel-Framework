@@ -1,0 +1,70 @@
+{
+  "rule": "1.3.28",
+  "profile": "AA_YAM_INTRANSITIVE_A",
+  "root": {
+    "address": "01.1139",
+    "teaching": "yam",
+    "prefixes": [
+      "aa"
+    ],
+    "pada": "A"
+  },
+  "admission": "Kasika directly assigns A to intransitive aa+yam.",
+  "participants": {
+    "agent": "current controller",
+    "object": null
+  },
+  "surface_schedule": "Byte-identical table body inherited from the reviewed PG289 aa+yam A schedule.",
+  "already_counted": [
+    {
+      "stage": "PG294",
+      "lakara": "lat",
+      "slots": [
+        "3sg",
+        "3du",
+        "3pl"
+      ],
+      "positions": 3
+    }
+  ],
+  "new_scope": {
+    "lakaras": [
+      "lat",
+      "lang",
+      "lot",
+      "vidhiling",
+      "lrt",
+      "lut",
+      "lrng",
+      "ashirling",
+      "lit",
+      "lung"
+    ],
+    "slots": [
+      "3sg",
+      "3du",
+      "3pl",
+      "2sg",
+      "2du",
+      "2pl",
+      "1sg",
+      "1du",
+      "1pl"
+    ],
+    "total_grid": 90,
+    "excluded_prior": 3,
+    "new_positions": 87
+  },
+  "exclusions": [
+    "own-hand object profile",
+    "cloth actor-result profile",
+    "rope-from-well active control"
+  ],
+  "counting": {
+    "new_finite_positions": 87,
+    "new_written_readings": 87,
+    "new_nominal_positions": 0,
+    "new_source_observations": 0,
+    "finite_positions_after": 51120
+  }
+}
