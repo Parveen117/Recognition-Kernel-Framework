@@ -1,0 +1,70 @@
+{
+  "causation": "3.1.26 selects the causing/commissioning activity of the prayojaka; 1.4.55 gives that participant both hetu and kartṛ designations. The input is a semantic event frame, not merely a request to append aya.",
+  "pada": "1.3.74 selects A when the causative action-result is intended for its kartṛ. These two profiles explicitly select the residual P request under 1.3.78, as in the commentary’s karayati parasya control. They do not convert every causative to P.",
+  "root_and_suffix_ownership": "7.3.32 changes the final n of han to t before the relevant ñ/ṇ-it suffix, excluding ciṇ and ṇal; 7.3.54 changes its h to gh. Ṇic retains its marker history for the root vowel operation. The suffix vowel passes through guṇa and e→ay before the present marker, under 7.3.84/6.1.78. The resulting root t is dental, distinct from the prefix ṇ.",
+  "identity": "The new derived profile retains DP_02_0002 provenance and the PG282 lexical-membership policy for inner ni. It has its own NIC derivation and does not reuse a simple-han position key.",
+  "semantic_collision": "3.1.26 also records an ākhyāna vārttika: kamsavadham ācaṣṭe, kamsaṃ ghātayati. That narrating construction is excluded from the causing profiles here. Surface agreement alone does not license merging the two histories.",
+  "reading_context_qualifications": [
+    {
+      "profile": "pra_ni_DP_02_0002_NIC_P",
+      "lakara": "lot",
+      "slot": "3sg",
+      "reading": "praṇighātayatāt",
+      "requires": "ashis_3_3_173",
+      "rule": "7.1.35",
+      "excludes": "ordinary_vidhyadi_without_ashis"
+    },
+    {
+      "profile": "pra_ni_DP_02_0002_NIC_P",
+      "lakara": "lot",
+      "slot": "2sg",
+      "reading": "praṇighātayatāt",
+      "requires": "ashis_3_3_173",
+      "rule": "7.1.35",
+      "excludes": "ordinary_vidhyadi_without_ashis"
+    },
+    {
+      "profile": "pari_ni_DP_02_0002_NIC_P",
+      "lakara": "lot",
+      "slot": "3sg",
+      "reading": "pariṇighātayatāt",
+      "requires": "ashis_3_3_173",
+      "rule": "7.1.35",
+      "excludes": "ordinary_vidhyadi_without_ashis"
+    },
+    {
+      "profile": "pari_ni_DP_02_0002_NIC_P",
+      "lakara": "lot",
+      "slot": "2sg",
+      "reading": "pariṇighātayatāt",
+      "requires": "ashis_3_3_173",
+      "rule": "7.1.35",
+      "excludes": "ordinary_vidhyadi_without_ashis"
+    }
+  ],
+  "domain": "The two result-qualified hetumati NIC-P profiles of han under ordered pra+ni and pari+ni. The four simple profiles retain their separate 360-position register. Unaccented Classical pause forms; no A-pada, narrative NIC or yaṅ-luk expansion.",
+  "counting": {
+    "new_finite_positions": 72,
+    "new_nominal_positions": 0,
+    "new_source_observations": 1,
+    "new_readings": 76,
+    "simple_pair_positions": 360,
+    "tracked_simple_and_derived_positions": 432,
+    "new_series": {
+      "name": "han_hetumati_NIC_P_under_two_ordered_preverbs",
+      "positions_written": 72,
+      "target_selected_grid_positions": 180,
+      "complete_lakaras": [
+        "lat",
+        "lot",
+        "lang",
+        "vidhiling"
+      ],
+      "profiles": [
+        "pra_ni_DP_02_0002_NIC_P",
+        "pari_ni_DP_02_0002_NIC_P"
+      ]
+    }
+  },
+  "observed_and_composed": "The Kāśikā directly gives ghātayati under both 7.3.32 and 7.3.54, and separately states the causative semantics and pada condition. The prefixed NIC words are written derivations under the declared PG282 lexical-membership reading, not literal new word attestations. Thirty-six bare archived NIC cells are a separate comparison. One source observation distinguishes the narrating-vārttika from causing; it adds no finite or nominal credit."
+}
