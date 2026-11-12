@@ -1,0 +1,48 @@
+{
+  "schema": "rkf.panini.pg295.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "e585e9535280155aa1da3f8c7d641599a405f01a",
+    "path": "research/panini_grammar/aa_yam_intransitive_third_persons/STATE.json"
+  },
+  "finite_positions": 51033,
+  "new_positions": 2,
+  "new_position_readings": 2,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "AA_YAM_ROPE_FROM_WELL_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "āyacchati"
+        ]
+      },
+      {
+        "profile": "AA_HAN_OUTCASTE_WITH_FOOT_P",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "āhanti"
+        ]
+      }
+    ]
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Current packet literal clauses, keys, counts, Unicode and navigation only."
+  },
+  "open_obligations": [
+    "Other literal transitive frames",
+    "remaining intransitive persons",
+    "own-limb 2du and printed Madhaviya collation"
+  ],
+  "current_summary_note": "Two literal object-bearing aa+yam/han controls preserve active endings when the intransitive condition is absent. [Transitive active controls](aa_yam_han_transitive_active_controls/README.md)."
+}
