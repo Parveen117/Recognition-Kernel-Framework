@@ -1,0 +1,40 @@
+{
+  "schema": "rkf.panini.pg319.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "a7786da7492cf4a47692afb8639d0e1e9a23880e",
+    "path": "research/panini_grammar/aa_han_karmakartri_self_agent_controls/STATE.json"
+  },
+  "finite_positions": 51174,
+  "new_positions": 1,
+  "new_position_readings": 1,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "UPA_JNA_FIRST_KNOWLEDGE_PASSIVE",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "upajñāyate"
+        ]
+      }
+    ]
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Pinned source substring, sandhi-boundary normalization, semantic profile, prior-key search, counts and Unicode only."
+  },
+  "open_obligations": [
+    "No full upa+jñā schedule",
+    "the nominal upajñā derivation receives no nominal-position credit here",
+    "other prefixed literal clauses need separate witnesses"
+  ],
+  "current_summary_note": "Madhaviya's upajñā derivation directly supplies sandhied upajñāyata iti, normalized only at the boundary to passive upajñāyate in the first-knowledge frame. [First-knowledge passive control](upa_jna_first_knowledge_passive_control/README.md)."
+}
