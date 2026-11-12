@@ -1,0 +1,83 @@
+{
+  "schema": "rkf.panini.pg285.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "ec6327a682f6e21c90a093da4360a0b212a90016",
+    "path": "research/panini_grammar/han_causative_futures_and_blessing_nic_lopa/STATE.json"
+  },
+  "finite_positions": 50570,
+  "new_positions": 36,
+  "new_position_readings": 74,
+  "new_nominal_positions": 0,
+  "new_source_observations": 1,
+  "position_accounting": {
+    "forms": [
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lit","slot":"3sg","readings":["praṇighātayāñcakāra","praṇighātayāmāsa","praṇighātayāmbabhūva"]},
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lit","slot":"3du","readings":["praṇighātayāñcakratuḥ","praṇighātayāmāsatuḥ","praṇighātayāmbabhūvatuḥ"]},
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lit","slot":"3pl","readings":["praṇighātayāñcakruḥ","praṇighātayāmāsuḥ","praṇighātayāmbabhūvuḥ"]},
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lit","slot":"2sg","readings":["praṇighātayāñcakartha","praṇighātayāmāsitha","praṇighātayāmbabhūvitha"]},
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lit","slot":"2du","readings":["praṇighātayāñcakrathuḥ","praṇighātayāmāsathuḥ","praṇighātayāmbabhūvathuḥ"]},
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lit","slot":"2pl","readings":["praṇighātayāñcakra","praṇighātayāmāsa","praṇighātayāmbabhūva"]},
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lit","slot":"1sg","readings":["praṇighātayāñcakara","praṇighātayāñcakāra","praṇighātayāmāsa","praṇighātayāmbabhūva"]},
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lit","slot":"1du","readings":["praṇighātayāñcakṛva","praṇighātayāmāsiva","praṇighātayāmbabhūviva"]},
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lit","slot":"1pl","readings":["praṇighātayāñcakṛma","praṇighātayāmāsima","praṇighātayāmbabhūvima"]},
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lung","slot":"3sg","readings":["praṇyajīghatat"]},
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lung","slot":"3du","readings":["praṇyajīghatatām"]},
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lung","slot":"3pl","readings":["praṇyajīghatan"]},
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lung","slot":"2sg","readings":["praṇyajīghataḥ"]},
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lung","slot":"2du","readings":["praṇyajīghatatam"]},
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lung","slot":"2pl","readings":["praṇyajīghatata"]},
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lung","slot":"1sg","readings":["praṇyajīghatam"]},
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lung","slot":"1du","readings":["praṇyajīghatāva"]},
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lung","slot":"1pl","readings":["praṇyajīghatāma"]},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lit","slot":"3sg","readings":["pariṇighātayāñcakāra","pariṇighātayāmāsa","pariṇighātayāmbabhūva"]},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lit","slot":"3du","readings":["pariṇighātayāñcakratuḥ","pariṇighātayāmāsatuḥ","pariṇighātayāmbabhūvatuḥ"]},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lit","slot":"3pl","readings":["pariṇighātayāñcakruḥ","pariṇighātayāmāsuḥ","pariṇighātayāmbabhūvuḥ"]},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lit","slot":"2sg","readings":["pariṇighātayāñcakartha","pariṇighātayāmāsitha","pariṇighātayāmbabhūvitha"]},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lit","slot":"2du","readings":["pariṇighātayāñcakrathuḥ","pariṇighātayāmāsathuḥ","pariṇighātayāmbabhūvathuḥ"]},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lit","slot":"2pl","readings":["pariṇighātayāñcakra","pariṇighātayāmāsa","pariṇighātayāmbabhūva"]},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lit","slot":"1sg","readings":["pariṇighātayāñcakara","pariṇighātayāñcakāra","pariṇighātayāmāsa","pariṇighātayāmbabhūva"]},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lit","slot":"1du","readings":["pariṇighātayāñcakṛva","pariṇighātayāmāsiva","pariṇighātayāmbabhūviva"]},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lit","slot":"1pl","readings":["pariṇighātayāñcakṛma","pariṇighātayāmāsima","pariṇighātayāmbabhūvima"]},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lung","slot":"3sg","readings":["pariṇyajīghatat"]},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lung","slot":"3du","readings":["pariṇyajīghatatām"]},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lung","slot":"3pl","readings":["pariṇyajīghatan"]},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lung","slot":"2sg","readings":["pariṇyajīghataḥ"]},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lung","slot":"2du","readings":["pariṇyajīghatatam"]},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lung","slot":"2pl","readings":["pariṇyajīghatata"]},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lung","slot":"1sg","readings":["pariṇyajīghatam"]},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lung","slot":"1du","readings":["pariṇyajīghatāva"]},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lung","slot":"1pl","readings":["pariṇyajīghatāma"]}
+    ],
+    "panels": [
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lit","positions":9,"readings":28},
+      {"profile":"pra_ni_DP_02_0002_NIC_P","lakara":"lung","positions":9,"readings":9},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lit","positions":9,"readings":28},
+      {"profile":"pari_ni_DP_02_0002_NIC_P","lakara":"lung","positions":9,"readings":9}
+    ]
+  },
+  "new_series_accounting": {
+    "name": "han_hetumati_NIC_P_under_two_ordered_preverbs",
+    "positions_written": 180,
+    "target_selected_grid_positions": 180,
+    "complete_lakaras": ["lat","lot","lang","vidhiling","lut","lrt","lrng","ashirling","lit","lung"],
+    "profiles": ["pra_ni_DP_02_0002_NIC_P","pari_ni_DP_02_0002_NIC_P"]
+  },
+  "source_observations": [
+    {"work":"Madhaviya","entry_id":"662","observation":"The independent entry prints bare ghatayati and ajighatat together; no prefixed word is claimed."}
+  ],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Current packet JSON, Unicode, counts, source pins, source excerpts, word-table and navigation only."
+  },
+  "open_obligations": [
+    "Independent literal prefixed ja/vadha/NIC word corroboration remains open.",
+    "Four primary Unadi 4.105 fields and an independent primary 5.56 k effect remain open."
+  ],
+  "current_summary_note": "Both result-qualified han causative profiles now fill 180/180 positions; the perfect preserves three auxiliary histories and the aorist preserves the caN derivation. [Perfect and caN completion](han_causative_perfect_and_cang_completion/README.md)."
+}

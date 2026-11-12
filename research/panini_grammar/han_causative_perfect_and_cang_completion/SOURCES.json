@@ -1,0 +1,50 @@
+{
+  "source_policy": "Exact source text is pinned by repository commit, blob, byte count and SHA256. Bare archive cells are copied literally. The prefixed Latin-script forms are written derivations, not literal archive or Madhaviya attestations.",
+  "pins": [
+    {"repository":"ashtadhyayi-com/data","commit":"5744762f010d677cfb43f347a42d02796cf615d6","path":"sutraani/kashika.txt","git_blob_sha":"e525df7668835ef1dd7c5988c031da07ce0c162b","sha256":"ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254","bytes":3806703},
+    {"repository":"ashtadhyayi-com/data","commit":"5744762f010d677cfb43f347a42d02796cf615d6","path":"dhatu/dhatuforms_vidyut_nich_kartari.txt","git_blob_sha":"b107f232ae9969620f425a4b9977cdc2f532ba43","sha256":"7135d8cbaaffe48855ea8cda1907825174c8e90502371d13326b91564f69c93f","bytes":17600064},
+    {"repository":"samsaadhanii/scl","commit":"1ec51dc4cbfecf271e4f3cb0bba41f25b5921572","path":"dhaatupaatha/files/madhaviya_XAwuvqwwi_new.xml","git_blob_sha":"d14a4235af32a9256615e263b4589e61c9ce25e7","sha256":"4562749571a7efe3b474b1c68f821cfc7271b07893e753ffc66e2fc7a4a79e76","bytes":3572767},
+    {"repository":"Parveen117/Recognition-Kernel-Framework","commit":"ec6327a682f6e21c90a093da4360a0b212a90016","path":"research/panini_grammar/han_causative_futures_and_blessing_nic_lopa/STATE.json","git_blob_sha":"e60534ed99ffc4e4e8fed28dc2a3f6270b9c84cf","sha256":"280c5ec7f5e3b93cb17981ed12c8a6f68e22a8f2c1f2ae30c21e4a220097daa1","bytes":21203}
+  ],
+  "kashika_fields": [
+    {"rule":"3.1.35","field":"31035","selected_text":"प्रत्ययान्तेभ्यश्च धातुभ्य आम् प्रत्ययो भवति लिटि परतोऽमन्त्रविषये"},
+    {"rule":"3.1.40","field":"31040","selected_text":"आम्प्रत्ययस्य पश्चात् कृञनुप्रयुज्यते लिटि परतः ... पाचयाञ्चकार। पाचयाम्बभूव। पाचयामास"},
+    {"rule":"3.1.48","field":"31048","selected_text":"ण्यन्तेभ्यो धातुभ्यः ... परस्य च्लेश्चङादेशो भवति कर्तृवाचिनि लुङि परतः"},
+    {"rule":"6.1.11","field":"61011","selected_text":"पचादीनां ण्यन्तानां चङि कृते णिलोप उपधाह्रस्वत्वं द्विर्वचनमित्येषां कार्याणां प्रवृत्तिक्रमः"},
+    {"rule":"6.4.51","field":"64051","selected_text":"अनिडादावार्धधातुके णेर्लोपो भवति"},
+    {"rule":"6.4.55","field":"64055","selected_text":"आम् ... परतो णेरयादेशो भवति। कारयांचकार। हारयांचकार"},
+    {"rule":"7.4.1","field":"74001","selected_text":"चङ्परे णौ यदङ्गम्, तस्य उपधाया ह्रस्वो भवति"},
+    {"rule":"7.4.93","field":"74093","selected_text":"लघुनि धात्वक्षरे परतो योऽभ्यासः तस्य चङ्परे णौ परतः सनीव कार्यं भवति अनग्लोपे"},
+    {"rule":"7.4.94","field":"74094","selected_text":"दीर्घा भवति लघोः अभ्यासस्य लघुनि णौ चङ्परे अनग्लोपे"}
+  ],
+  "bare_archive_cells": [
+    {"root":"02.0002","field":"plit","slot":"3sg","raw_cell":"घातयाञ्चकार,घातयामास,घातयाम्बभूव"},
+    {"root":"02.0002","field":"plit","slot":"3du","raw_cell":"घातयाञ्चक्रतुः,घातयामासतुः,घातयाम्बभूवतुः"},
+    {"root":"02.0002","field":"plit","slot":"3pl","raw_cell":"घातयाञ्चक्रुः,घातयामासुः,घातयाम्बभूवुः"},
+    {"root":"02.0002","field":"plit","slot":"2sg","raw_cell":"घातयाञ्चकर्थ,घातयामासिथ,घातयाम्बभूविथ"},
+    {"root":"02.0002","field":"plit","slot":"2du","raw_cell":"घातयाञ्चक्रथुः,घातयामासथुः,घातयाम्बभूवथुः"},
+    {"root":"02.0002","field":"plit","slot":"2pl","raw_cell":"घातयाञ्चक्र,घातयामास,घातयाम्बभूव"},
+    {"root":"02.0002","field":"plit","slot":"1sg","raw_cell":"घातयाञ्चकर,घातयाञ्चकार,घातयामास,घातयाम्बभूव"},
+    {"root":"02.0002","field":"plit","slot":"1du","raw_cell":"घातयाञ्चकृव,घातयामासिव,घातयाम्बभूविव"},
+    {"root":"02.0002","field":"plit","slot":"1pl","raw_cell":"घातयाञ्चकृम,घातयामासिम,घातयाम्बभूविम"},
+    {"root":"02.0002","field":"plung","slot":"3sg","raw_cell":"अजीघतत्,अजीघतद्","selected_pause_reading":"अजीघतत्"},
+    {"root":"02.0002","field":"plung","slot":"3du","raw_cell":"अजीघतताम्"},
+    {"root":"02.0002","field":"plung","slot":"3pl","raw_cell":"अजीघतन्"},
+    {"root":"02.0002","field":"plung","slot":"2sg","raw_cell":"अजीघतः"},
+    {"root":"02.0002","field":"plung","slot":"2du","raw_cell":"अजीघततम्"},
+    {"root":"02.0002","field":"plung","slot":"2pl","raw_cell":"अजीघतत"},
+    {"root":"02.0002","field":"plung","slot":"1sg","raw_cell":"अजीघतम्"},
+    {"root":"02.0002","field":"plung","slot":"1du","raw_cell":"अजीघताव"},
+    {"root":"02.0002","field":"plung","slot":"1pl","raw_cell":"अजीघताम"}
+  ],
+  "madhaviya": {
+    "entry_id": "662",
+    "entry_utf8_bytes": 64955,
+    "entry_sha256": "93cc2be4dcc4d2a377030dd9dcdf452502cf352c0c775e71a045a377f9226b40",
+    "anchors": [
+      {"text":"(घातयति)","utf8_character_offset":4778},
+      {"text":"(अजीघतत्)","utf8_character_offset":4787}
+    ],
+    "credit": "One lexical source observation; zero direct prefixed finite positions."
+  }
+}
