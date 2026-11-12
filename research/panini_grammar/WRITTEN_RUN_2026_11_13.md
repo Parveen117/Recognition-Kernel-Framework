@@ -20,28 +20,22 @@ The foreground packets PG276–PG284 add **426 finite positions and 456 selected
 | PG281 | 18597dd4245d2542ad73dd31d632a2537f9827cf | 12 | 24 | 0 |
 | PG282 | b86c0129c0370d2d3842fc3206752b0dab948ea2 | 54 | 58 | 0 |
 | PG283 | d7115b9a546c155aff173fe6dfd443cfde483cea | 72 | 76 | 1 |
-| PG284 | This packet commit; obtain its actual SHA from branch history | 72 | 72 | 0 |
-| PG285 | This packet commit; obtain its actual SHA from branch history | 36 | 74 | 1 |
-
-| PG286 | This packet commit; obtain its actual SHA from branch history | 90 | 94 | 0 |
-
-| PG287 | This packet commit; obtain its actual SHA from branch history | 180 | 188 | 0 |
-
-| PG288 | This packet commit; obtain its actual SHA from branch history | 90 | 102 | 0 |
-
-| PG289 | This packet commit; obtain its actual SHA from branch history | 90 | 90 | 0 |
-
-| PG290 | This packet commit; obtain its actual SHA from branch history | 2 | 2 | 0 |
-
-| PG291 | This packet commit; obtain its actual SHA from branch history | 1 | 1 | 1 |
+| PG284 | ec6327a682f6e21c90a093da4360a0b212a90016 | 72 | 72 | 0 |
+| PG285 | 2f937575d47eecc1e012612039715f6cdbc5399e | 36 | 74 | 1 |
+| PG286 | 1a90da52ce984cad40f3a611f7389bc9265f8002 | 90 | 94 | 0 |
+| PG287 | cecf2171fbcf91cc3fc8db86d9ea8f3964137cdf | 180 | 188 | 0 |
+| PG288 | 7a5653259b3097fdc57a27047723270005699398 | 90 | 102 | 0 |
+| PG289 | e20c434aea4a81217e8238089e9c2ba8eb21cd81 | 90 | 90 | 0 |
+| PG290 | d1f94ec31e7e24d1b266b246dccc8713d0e92fae | 2 | 2 | 0 |
+| PG291 | 5d69ce35ecb629b74003e1e2c1a5c6d84e862ec9 | 1 | 1 | 1 |
 
 Checkpoint through PG291: **915 finite positions, 1,007 selected readings, zero nominal positions and four source observations** in this run; cumulative finite coverage **51,023**.
 
 ## Concrete next work
 
-The four simple han/ṣo profiles have 360 distinct positions under the declared source policy. The two result-qualified han NIC-P profiles have **144/180** positions; periphrastic perfect and caṅ aorist remain, 36 positions in all. Their source archive is pinned in PG283/PG284 at `ashtadhyayi-com/data` commit `5744762f010d677cfb43f347a42d02796cf615d6`, `dhatu/dhatuforms_vidyut_nich_kartari.txt`.
+PG285 completed the two result-qualified han NIC-P profiles at **180/180** positions. Its perfect keeps the ām host and all three auxiliary histories distinct under 3.1.35/40 and 6.4.55; its caṅ aorist records the 3.1.48, 6.1.11, 6.4.51, 7.4.1 and 7.4.93/94 sequence. PG286–PG289 then wrote four source-qualified residual or special-pada profiles. PG290 wrote the exact *ā + han* own-head/other-head present pair.
 
-For the perfect, review 3.1.35/40 and especially 6.4.55 before carrying an ordinary vowel rule into the ām host. Keep auxiliary choices, first-person alternatives, same-word policy and the result-qualified P request distinct. For the aorist, review 3.1.48, 6.1.11, 6.4.51, 7.4.1 and the abhyāsa conditions at 7.4.93/94. Mādhavīya entry 662 is an independent lexical source to collate. These are next-source leads, not a claim that the next packet has been completed.
+PG291 found an independent immutable *Śābdikābharaṇa* witness for **āhadhve**, contrasting with digital Mādhavīya entry 662's **ahadhve**. It writes only that 2pl cell and counts the textual difference separately as one source observation. Printed Mādhavīya collation and the rest of the *ā + han* schedule remain open; the online *Śābdikābharaṇa* series' 3du spelling also needs collation before wider use.
 
 PG282's prefixed ja/vadha words use an explicitly selected non-al lexical-membership reading of 1.1.56/8.4.17. They remain written derivations, not literal prefixed attestations. Preserve that distinction in future expansions. The same source policy is explicit for the new NIC words. Seek independent prefixed corroboration without inventing a witness.
 
