@@ -6,11 +6,11 @@
   "baseline_commit": "3861c38680913b411b608cf43894c09813811954",
   "baseline_stage": "PG275",
   "baseline_finite_positions": 50108,
-  "writer": null,
-  "status": "available_for_checkpoint",
-  "heartbeat_utc": "2026-11-12T22:34:00.000000+00:00",
-  "published_stage": "PG291 at 5d69ce35ecb629b74003e1e2c1a5c6d84e862ec9",
-  "current_work": "PG285 completed the result-qualified han NIC-P perfect and cang grids. PG286-PG291 added four source-qualified profiles, the direct aa+han semantic pair, and an independent aa+han middle 2pl witness. Printed Madhaviya collation, remaining aa+han cells, literal prefixed corroboration, wider limb profiles, four Unadi fields and primary 5.56 marker effect remain open.",
+  "writer": "04:25 checkpoint ChatGPT worker",
+  "status": "active",
+  "heartbeat_utc": "2026-11-12T22:59:00.000000+00:00",
+  "published_stage": "PG291",
+  "current_work": "Review PG291 witness and continue source-qualified aa+han or other documented grammar without forcing printed collation, four Unadi fields or primary 5.56 marker effect.",
   "handoff_policy": "Checkpoint workers must avoid concurrent writes while foreground is active. If heartbeat is older than 20 minutes and branch has no newer active writer, inspect current head and take over sequentially. At deadline only verify/report.",
   "constraints": [
     "Python 3.12 document checks only",
@@ -19,7 +19,7 @@
     "Count finite, nominal and observations separately"
   ],
   "foreground_released_utc": "2026-11-12T21:50:48.478373+00:00",
-  "handoff_to": "13 November 2026 04:25 IST checkpoint or next available worker",
+  "handoff_to": "13 November 2026 05:25 IST checkpoint or next available worker",
   "foreground_totals": {
     "new_finite_positions": 426,
     "new_written_readings": 456,
