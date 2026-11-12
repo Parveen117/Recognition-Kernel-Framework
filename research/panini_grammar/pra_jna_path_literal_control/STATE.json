@@ -1,0 +1,40 @@
+{
+  "schema": "rkf.panini.pg308.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "515fc6a68cc4388cdfa80139cc9985515b0fd46e",
+    "path": "research/panini_grammar/jna_svayam_optional_pada_control/STATE.json"
+  },
+  "finite_positions": 51146,
+  "new_positions": 1,
+  "new_position_readings": 1,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "PRA_JNA_PATH_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "prajānāti"
+        ]
+      }
+    ]
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Literal source substring, profile distinction, prior-key search, count, Unicode and navigation only."
+  },
+  "open_obligations": [
+    "No general pra+jñā schedule",
+    "other literal prefixed clauses require their own witnesses",
+    "PG282 prefixed ja/vadha and NIC corroboration remains open"
+  ],
+  "current_summary_note": "Pinned Madhaviya directly cites panthānaṃ prajānāti in the path-object frame, separate from PG299's negative heaven-world clause. [Path-object literal control](pra_jna_path_literal_control/README.md)."
+}
