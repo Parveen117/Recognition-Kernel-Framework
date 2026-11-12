@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG288 — Jñā with another's cow takes the residual active.** [Packet](jna_other_result_residual_p/README.md). 90 finite positions and 102 readings. Cumulative **50,930**.
+
 **PG287 — Sam/ā + yam residual-active controls.** [Packet](sam_aa_yam_residual_p_controls/README.md). 180 finite positions and 188 readings. Cumulative **50,840**.
 
 **PG286 — Ud + yam medical study takes the residual active.** [Packet](ud_yam_medical_study_residual_p/README.md). 90 finite positions and 94 readings. Cumulative **50,660**.

@@ -1,0 +1,15 @@
+{
+  "schema":"rkf.panini.pg288.state.v1",
+  "author":"Monty",
+  "date":"2026-11-13",
+  "baseline":{"repository":"Parveen117/Recognition-Kernel-Framework","commit":"cecf2171fbcf91cc3fc8db86d9ea8f3964137cdf","path":"research/panini_grammar/sam_aa_yam_residual_p_controls/STATE.json"},
+  "finite_positions":50930,
+  "new_positions":90,
+  "new_position_readings":102,
+  "new_nominal_positions":0,
+  "new_source_observations":0,
+  "position_accounting":{"profile":"JNA_DEVADATTA_COW_OTHER_RESULT_P","lakaras":["lat","lang","lot","vidhiling","lrt","lut","lrng","ashirling","lit","lung"],"slots":["3sg","3du","3pl","2sg","2du","2pl","1sg","1du","1pl"],"positions":90,"readings":102,"alternative_cells":{"lot.3sg":2,"lot.2sg":2,"lit.2sg":2,"ashirling.all_nine":2},"table":"PARADIGMS.md"},
+  "runtime_policy":{"python":"3.12 only","grammar_tests":"DEFERRED_TO_CLAUDE","generators":"DEFERRED_TO_CLAUDE","certificate_replay":"DEFERRED_TO_CLAUDE","document_checks":"Current packet table, source pins/excerpts, counts, Unicode and navigation only."},
+  "open_obligations":["Prefixed jna, own-limb yam and wider overlapping meanings remain uncounted."],
+  "current_summary_note":"The direct Devadatta-cow jna contrast adds 90 residual-P positions with both benedictive grades. [Jna residual active](jna_other_result_residual_p/README.md)."
+}
