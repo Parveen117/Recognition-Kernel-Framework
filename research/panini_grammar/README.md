@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG281 — The cutting aorist has a root-owned sak as well as sic.** [Packet](cutting_aorist_sak_and_completed_grid/README.md). 12 positions, 24 readings and 24 paths. Cumulative **50,336**.
+
 **PG280 — Cutting: imperative and blessing have different stems and conditions.** [Packet](cutting_imperative_and_blessing_contexts/README.md). 36 positions, 40 readings and 40 paths. Cumulative **50,324**.
 
 **PG279 — Ordinary optatives retain han and the present-system cutting stem.** [Packet](striking_and_cutting_ordinary_optatives/README.md). 36 positions, 36 readings and 36 paths. Cumulative **50,288**.

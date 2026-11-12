@@ -1,0 +1,256 @@
+{
+  "schema": "rkf.panini.pg281.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "9d0ff6d996fed4b8f634af2b7aa3e1db617561be",
+    "path": "research/panini_grammar/cutting_imperative_and_blessing_contexts/STATE.json",
+    "git_blob_sha": "1ca1e2f150b174b26022bb27525f92c1b0325d14",
+    "sha256": "04f3c61a03d9c1726d4ca2f6fe3afea0205b1fb484ba61455bb68fe4bed6c8fa",
+    "bytes": 12184
+  },
+  "finite_positions": 50336,
+  "new_positions": 12,
+  "new_position_readings": 24,
+  "new_written_table_readings": 24,
+  "retained_path_count": 24,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "pra_ni_DP_04_0042_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "praṇyaṣāḥ",
+          "praṇyaṣāsīḥ"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0042_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "praṇyaṣātam",
+          "praṇyaṣāsiṣṭam"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0042_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "praṇyaṣāta",
+          "praṇyaṣāsiṣṭa"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0042_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "praṇyaṣām",
+          "praṇyaṣāsiṣam"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0042_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "praṇyaṣāva",
+          "praṇyaṣāsiṣva"
+        ]
+      },
+      {
+        "profile": "pra_ni_DP_04_0042_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "praṇyaṣāma",
+          "praṇyaṣāsiṣma"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0042_P",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "pariṇyaṣāḥ",
+          "pariṇyaṣāsīḥ"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0042_P",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "pariṇyaṣātam",
+          "pariṇyaṣāsiṣṭam"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0042_P",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "pariṇyaṣāta",
+          "pariṇyaṣāsiṣṭa"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0042_P",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "pariṇyaṣām",
+          "pariṇyaṣāsiṣam"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0042_P",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "pariṇyaṣāva",
+          "pariṇyaṣāsiṣva"
+        ]
+      },
+      {
+        "profile": "pari_ni_DP_04_0042_P",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "pariṇyaṣāma",
+          "pariṇyaṣāsiṣma"
+        ]
+      }
+    ],
+    "panels": [
+      {
+        "profile": "pra_ni_DP_04_0042_P",
+        "lakara": "lung",
+        "positions": 6,
+        "readings": 12
+      },
+      {
+        "profile": "pari_ni_DP_04_0042_P",
+        "lakara": "lung",
+        "positions": 6,
+        "readings": 12
+      }
+    ],
+    "complete_nine_slot_paradigms": 0
+  },
+  "contextual_profiles": {
+    "pra_ni_DP_02_0002_P": {
+      "root_address": "02.0002",
+      "teaching": "हनँ",
+      "ordered_prefixes": [
+        "pra",
+        "ni"
+      ],
+      "pada": "P"
+    },
+    "pari_ni_DP_02_0002_P": {
+      "root_address": "02.0002",
+      "teaching": "हनँ",
+      "ordered_prefixes": [
+        "pari",
+        "ni"
+      ],
+      "pada": "P"
+    },
+    "pra_ni_DP_04_0042_P": {
+      "root_address": "04.0042",
+      "teaching": "षो",
+      "ordered_prefixes": [
+        "pra",
+        "ni"
+      ],
+      "pada": "P"
+    },
+    "pari_ni_DP_04_0042_P": {
+      "root_address": "04.0042",
+      "teaching": "षो",
+      "ordered_prefixes": [
+        "pari",
+        "ni"
+      ],
+      "pada": "P"
+    }
+  },
+  "context_codes": {
+    "lat": "present_3_2_123",
+    "lot": "ordinary_vidhyadi_3_3_161_162_or_unattained_event_ashis_3_3_173_with_per_reading_7_1_35_guards",
+    "vidhiling": "ordinary_vidhyadi_ling_3_3_161",
+    "lang": "non_today_past_3_2_111_without_mang",
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti",
+    "ashirling": "unattained_selected_event_blessing_3_3_173",
+    "lit": "non_mantra_non_today_paroksha_3_2_115_with_first_person_premise",
+    "lung": "completed_witnessed_event_earlier_today_3_2_110_without_mang"
+  },
+  "correction_register_chain": [
+    {
+      "stage": "PG92",
+      "path": "research/panini_grammar/bhuj_sense_and_homonym/STATE.json",
+      "domain": "SIX_PG91_P_LUNG_SIC_KEYS",
+      "application": "REPLACE_KEYED_WORD_AND_LOPA_METADATA_NO_NEW_CREDIT",
+      "commit": "e48668979f89a362d1e58de41e7fa94d6cf9d1d1"
+    }
+  ],
+  "new_catalogue_ids": [],
+  "inherited_id_sets": {
+    "file": "research/panini_grammar/feminine_host_histories/COVERAGE.json",
+    "commit": "f7834e475ec53f8c22fc7aa82f80d9cf511d0bde",
+    "combined_selector": "bounded_rule_reach.all_distinct_ids",
+    "independent_selector": "bounded_rule_reach.independent_written_ids_through_pg52",
+    "combined_count": 3983,
+    "independent_written_count": 3983,
+    "prior_exact_set_audit_inherited": true,
+    "full_audit_repeated": false
+  },
+  "qualified_prior_readings": {
+    "packet": "vrtadi_san_perfect_collation",
+    "disputed_A_perfect_keys": 45,
+    "change_to_position_count": 0
+  },
+  "overall_grammar_completion_percent": null,
+  "open_obligations": [
+    "The cutting grid is complete at 180/180. Han is at 126/180: its imperative ja and the two vadh lakāras need their separate ordered-ni review. Continue other documented grammar if a direct witness remains unavailable.",
+    "Four primary Uṇādi 4.105 assignments and independent 5.56 k effect remain open."
+  ],
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Current packet document, source-byte, excerpt, count, overlap, table and navigation checks only. No grammatical execution, generator, predecessor suite or certificate replay."
+  },
+  "two_named_roots_positions_so_far": 306,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "current_summary_note": "Cutting now has 180/180 positions across the two ordered P profiles; striking has 126/180. [The root-owned aorist augment and full cutting grid](cutting_aorist_sak_and_completed_grid/README.md).",
+  "source_observations": [],
+  "reading_context_qualifications": [],
+  "completed_finite_profiles": [
+    {
+      "profile": "pra_ni_DP_04_0042_P",
+      "lakara_count": 10,
+      "person_number_count": 9,
+      "positions": 90,
+      "scope": "selected Classical sense, P-pada, ordered preverbs and inherited request conditions"
+    },
+    {
+      "profile": "pari_ni_DP_04_0042_P",
+      "lakara_count": 10,
+      "person_number_count": 9,
+      "positions": 90,
+      "scope": "selected Classical sense, P-pada, ordered preverbs and inherited request conditions"
+    }
+  ]
+}
