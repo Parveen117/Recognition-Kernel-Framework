@@ -1,0 +1,48 @@
+{
+  "schema": "rkf.panini.pg309.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "966e7d6321009d4a5dfa88d7bffea684f49a7206",
+    "path": "research/panini_grammar/pra_jna_path_literal_control/STATE.json"
+  },
+  "finite_positions": 51148,
+  "new_positions": 2,
+  "new_position_readings": 2,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "HAN_SAN_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "jighāṃsati"
+        ]
+      },
+      {
+        "profile": "HAN_YANG_A",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "jaṅghanyate"
+        ]
+      }
+    ]
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Pinned source substrings, derived-profile separation, prior-key search, counts, Unicode and navigation only."
+  },
+  "open_obligations": [
+    "No nine-person or outer-lakāra expansion for either derived profile",
+    "the neighboring yaṅ-luk forms require separate slot and reading collation",
+    "PG282 prefixed literal corroboration remains open"
+  ],
+  "current_summary_note": "Pinned Madhaviya 662 directly prints one han desiderative active and one yaṅ-intensive middle control without expanding either derived domain. [Desiderative and intensive controls](han_desiderative_and_intensive_direct_controls/README.md)."
+}
