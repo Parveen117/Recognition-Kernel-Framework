@@ -1,0 +1,21 @@
+{
+  "schema": "rkf.panini.written_run.v1",
+  "run_id": "2026-11-13T02:25+05:30_four_hours",
+  "start_ist": "2026-11-13T02:25:00+05:30",
+  "end_ist": "2026-11-13T06:25:00+05:30",
+  "baseline_commit": "3861c38680913b411b608cf43894c09813811954",
+  "baseline_stage": "PG275",
+  "baseline_finite_positions": 50108,
+  "writer": "foreground ChatGPT worker in Monty current thread",
+  "status": "active",
+  "heartbeat_utc": "2026-11-12T21:01:13.824382+00:00",
+  "published_stage": "PG276 once this packet commit is published",
+  "current_work": "Continue the two ordered roots through their remaining moods/persons; han→vadh needs its own source-backed prefix decision.",
+  "handoff_policy": "Checkpoint workers must avoid concurrent writes while foreground is active. If heartbeat is older than 20 minutes and branch has no newer active writer, inspect current head and take over sequentially. At deadline only verify/report.",
+  "constraints": [
+    "Python 3.12 document checks only",
+    "No grammar tests, generators or replay",
+    "Same branch, [skip ci], current parent, non-forced compare-and-swap",
+    "Count finite, nominal and observations separately"
+  ]
+}

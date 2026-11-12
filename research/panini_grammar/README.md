@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG276 — Striking and cutting: the six remaining persons in the two future series.** [Packet](striking_and_cutting_nonthird_futures/README.md). 72 positions, 72 readings and 72 paths; twelve panels completed with PG275. Cumulative **50,180**.
+
 **PG275 — The future iṭ of striking and the long vowel of cutting.** [Packet](striking_and_cutting_two_futures_and_conditional/README.md). 36 positions, 36 readings and 36 paths. Cumulative **50,108**.
 
 **PG274 — The cutting and striking roots across augment and reduplication.** [Packet](cutting_and_striking_ordered_prefix_and_reduplication/README.md). 42 positions, 48 readings and 48 paths. Cumulative **50,072**.
