@@ -1,0 +1,42 @@
+{
+  "schema": "rkf.panini.pg317.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "252c42575a0f835a055e6fceba7afdb2eaebfe52",
+    "path": "research/panini_grammar/han_passive_outer_lakara_direct_controls/STATE.json"
+  },
+  "finite_positions": 51171,
+  "new_positions": 1,
+  "new_position_readings": 3,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "HAN_PASSIVE",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "avadhiṣātām",
+          "ahasātām",
+          "aghāniṣātām"
+        ]
+      }
+    ]
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Pinned ordered source sequence, -ātām slot collation, one-position/three-reading accounting, counts and Unicode only."
+  },
+  "open_obligations": [
+    "Other passive aorist persons remain open",
+    "retain the three derivation histories separately",
+    "no expansion from ityādi"
+  ],
+  "current_summary_note": "The three following passive aorist -ātām words collate as one third-dual request with three retained histories. [Passive aorist dual](han_passive_aorist_dual_alternatives/README.md)."
+}
