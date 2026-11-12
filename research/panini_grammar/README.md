@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG297 — Ā + han middle first dual and plural are directly witnessed.** [Packet](aa_han_middle_first_dual_plural_witnesses/README.md). 2 finite positions and 2 readings. Cumulative **51,122**.
+
 **PG296 — The intransitive ā + yam middle grid is complete.** [Packet](aa_yam_intransitive_completed_grid/README.md). 87 new finite positions and 87 readings after excluding PG294's three cells. Cumulative **51,120**.
 
 **PG295 — Two transitive ā + yam/han clauses preserve active endings.** [Packet](aa_yam_han_transitive_active_controls/README.md). 2 finite positions and 2 readings. Cumulative **51,033**.

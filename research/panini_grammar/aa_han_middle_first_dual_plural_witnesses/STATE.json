@@ -1,0 +1,48 @@
+{
+  "schema": "rkf.panini.pg297.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "ff1741da44ca93da9676caaa46c6029c8ad9f48d",
+    "path": "research/panini_grammar/aa_yam_intransitive_completed_grid/STATE.json"
+  },
+  "finite_positions": 51122,
+  "new_positions": 2,
+  "new_position_readings": 2,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "āhanvahe"
+        ]
+      },
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "āhanmahe"
+        ]
+      }
+    ]
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Current packet immutable-source strings, keys, counts, Unicode and navigation only."
+  },
+  "open_obligations": [
+    "Independent collation of aa+han middle 2du",
+    "remaining outer persons",
+    "printed Madhaviya entry 662"
+  ],
+  "current_summary_note": "The immutable own-limb series directly adds aa+han middle laT first dual and plural; 2du remains uncounted. [First dual and plural witnesses](aa_han_middle_first_dual_plural_witnesses/README.md)."
+}
