@@ -1,0 +1,45 @@
+{
+  "rule": "1.3.76",
+  "admission": "Unprefixed jna takes A when the principal result is intended for the agent.",
+  "positions": [
+    {
+      "profile": "JNA_COW_ACTOR_RESULT_A",
+      "lakara": "lat",
+      "slot": "3sg",
+      "participants": {
+        "agent": "current controller",
+        "object": "cow"
+      },
+      "result_for": "agent",
+      "pada": "A",
+      "word": "jānīte",
+      "source_clause": "गां जानीते"
+    },
+    {
+      "profile": "JNA_HORSE_ACTOR_RESULT_A",
+      "lakara": "lat",
+      "slot": "3sg",
+      "participants": {
+        "agent": "current controller",
+        "object": "horse"
+      },
+      "result_for": "agent",
+      "pada": "A",
+      "word": "jānīte",
+      "source_clause": "अश्वं जानीते"
+    }
+  ],
+  "boundary": "The source supplies two examples, not a universal animal or object class.",
+  "nonclaims": [
+    "No full middle paradigm",
+    "no other object",
+    "no prefixed extension"
+  ],
+  "counting": {
+    "new_finite_positions": 2,
+    "new_written_readings": 2,
+    "new_nominal_positions": 0,
+    "new_source_observations": 0,
+    "finite_positions_after": 51137
+  }
+}
