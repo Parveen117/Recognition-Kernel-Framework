@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG301 — Six direct jñā middle controls preserve sense and case.** [Packet](jna_six_direct_middle_controls/README.md). 6 finite positions and 6 readings. Cumulative **51,143**.
+
 **PG300 — Cow and horse give two literal jñā actor-result middle cells.** [Packet](jna_cow_horse_actor_result_middle/README.md). 2 finite positions and 2 readings. Cumulative **51,137**.
 
 **PG299 — Pra + jñā has a literal Kāśikā control.** [Packet](pra_jna_heaven_literal_control/README.md). 1 finite position and 1 reading. Cumulative **51,135**.
