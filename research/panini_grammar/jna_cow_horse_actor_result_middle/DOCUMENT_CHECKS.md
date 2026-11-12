@@ -8,4 +8,6 @@ Checked with Python 3.12.14 on 13 November 2026.
 - PG288's other-result active cow profile is not merged.
 - JSON, NFC, source pin, counts and navigation agree.
 
+- PG304 cross-audit found this semantic domain already written in PG81 BARE_JNA_ACTOR_RESULT_A; new-position and new-reading credit is zero.
+
 No Sanskrit generator, grammar execution, certificate replay, predecessor suite or hardware job ran.

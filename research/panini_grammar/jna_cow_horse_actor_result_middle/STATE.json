@@ -7,13 +7,15 @@
     "commit": "9242461eba97160c0dbbba9eda72f902b4240064",
     "path": "research/panini_grammar/pra_jna_heaven_literal_control/STATE.json"
   },
-  "finite_positions": 51137,
-  "new_positions": 2,
-  "new_position_readings": 2,
+  "finite_positions": 51135,
+  "new_positions": 0,
+  "new_position_readings": 0,
   "new_nominal_positions": 0,
   "new_source_observations": 0,
   "position_accounting": {
-    "forms": [
+    "status": "CORROBORATION_ONLY_ALREADY_WRITTEN",
+    "prior_domain": "PG81 BARE_JNA_ACTOR_RESULT_A",
+    "requested_forms": [
       {
         "profile": "JNA_COW_ACTOR_RESULT_A",
         "lakara": "lat",
@@ -30,7 +32,10 @@
           "jānīte"
         ]
       }
-    ]
+    ],
+    "new_positions": 0,
+    "new_readings": 0,
+    "correction_stage": "PG304"
   },
   "runtime_policy": {
     "python": "3.12 only",
@@ -42,7 +47,8 @@
   "open_obligations": [
     "Other actor-result objects",
     "nonthird persons and outer lakaras",
-    "independent prefixed corroboration beyond pra control"
+    "independent prefixed corroboration beyond pra control",
+    "PG304 corrects duplicate finite/readings credit; clauses remain literal corroboration."
   ],
   "current_summary_note": "Kasika directly supplies two unprefixed jna actor-result middle cells for cow and horse objects. [Cow and horse middle](jna_cow_horse_actor_result_middle/README.md)."
 }

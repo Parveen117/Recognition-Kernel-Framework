@@ -7,13 +7,15 @@
     "commit": "d75e14ad6830a86e8ee4d699bcde9fbf9e4fb25b",
     "path": "research/panini_grammar/jna_cow_horse_actor_result_middle/STATE.json"
   },
-  "finite_positions": 51143,
-  "new_positions": 6,
-  "new_position_readings": 6,
+  "finite_positions": 51135,
+  "new_positions": 0,
+  "new_position_readings": 0,
   "new_nominal_positions": 0,
   "new_source_observations": 0,
   "position_accounting": {
-    "forms": [
+    "status": "CORROBORATION_ONLY_ALREADY_WRITTEN",
+    "prior_domain": "PG79/PG80 contextual jna profiles",
+    "requested_forms": [
       {
         "profile": "APA_JNA_HUNDRED_DENIAL_A",
         "lakara": "lat",
@@ -62,7 +64,10 @@
           "jānīte"
         ]
       }
-    ]
+    ],
+    "new_positions": 0,
+    "new_readings": 0,
+    "correction_stage": "PG304"
   },
   "runtime_policy": {
     "python": "3.12 only",
@@ -73,7 +78,8 @@
   },
   "open_obligations": [
     "Recollective active contrasts",
-    "nonthird persons and outer lakaras"
+    "nonthird persons and outer lakaras",
+    "PG304 corrects duplicate finite/readings credit; clauses remain literal corroboration."
   ],
   "current_summary_note": "Pinned Madhaviya directly supplies six jna middle controls. [Six direct middle controls](jna_six_direct_middle_controls/README.md)."
 }

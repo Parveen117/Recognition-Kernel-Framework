@@ -1,0 +1,25 @@
+{
+  "schema": "rkf.panini.pg304.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "0643a2c944d86a0c7ae17b798012753ca591f014",
+    "path": "research/panini_grammar/jna_desiderative_three_way_controls/STATE.json"
+  },
+  "finite_positions": 51138,
+  "correction_to_positions": -11,
+  "correction_to_readings": -11,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Cross-packet semantic-key and prior-coverage audit only."
+  },
+  "current_summary_note": "PG304 removes eleven duplicate jna credits while retaining the clauses as literal corroboration; PG303 remains new."
+}

@@ -1,0 +1,37 @@
+{
+  "correction_stage": "PG304",
+  "reason": "Existing semantic domains were already written before this run.",
+  "adjustments": [
+    {
+      "stage": "PG300",
+      "positions": -2,
+      "readings": -2,
+      "prior_domain": "PG81 BARE_JNA_ACTOR_RESULT_A"
+    },
+    {
+      "stage": "PG301",
+      "positions": -6,
+      "readings": -6,
+      "prior_domain": "PG79/PG80 APA_DENIAL, BARE_ENGAGEMENT, SAM_NON_ADHYANA, PRATI_NON_ADHYANA and PG81 actor-result"
+    },
+    {
+      "stage": "PG302",
+      "positions": -3,
+      "readings": -3,
+      "prior_domain": "PG79 zero-credit recollective active controls"
+    }
+  ],
+  "retained": {
+    "stage": "PG303",
+    "positions": 3,
+    "readings": 3,
+    "reason": "Derived san/desiderative domain was explicitly open in prior coverage."
+  },
+  "totals": {
+    "finite_delta": -11,
+    "reading_delta": -11,
+    "nominal_delta": 0,
+    "source_observation_delta": 0,
+    "finite_positions_after": 51138
+  }
+}

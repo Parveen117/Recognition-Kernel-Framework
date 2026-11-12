@@ -7,4 +7,6 @@ Checked with Python 3.12.14 on 13 November 2026.
 - Prefix, sense, case and voice remain explicit; recollective active controls are excluded.
 - JSON, NFC, counts and navigation agree.
 
+- PG304 cross-audit found this semantic domain already written in PG79/PG80 contextual jna profiles; new-position and new-reading credit is zero.
+
 No Sanskrit generator, grammar execution, certificate replay, predecessor suite or hardware job ran.

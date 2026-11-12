@@ -12,6 +12,6 @@ The three case frames remain distinct positions. Their coexistence is not promot
 | SAM_JNA_MOTHER_ACCUSATIVE_RECOLLECTIVE_P | accusative | saṃjānāti |
 | SAM_JNA_MOTHER_INSTRUMENTAL_RECOLLECTIVE_P | instrumental | saṃjānāti |
 
-**3 finite positions, 3 selected readings, zero nominal positions and zero new source observations. Cumulative finite total: 51,146.**
+**Zero new finite positions, zero new readings, zero nominal positions and zero new source observations. These literal clauses corroborate the already-written PG79 zero-credit recollective active controls domain; PG304 removes the duplicate credit. Cumulative finite total remains 51,135.**
 
 [Relation](RELATION.json) · [State](STATE.json) · [Sources](SOURCES.json) · [Checks](DOCUMENT_CHECKS.md)

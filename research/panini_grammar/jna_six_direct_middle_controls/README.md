@@ -13,6 +13,6 @@ Pinned Mādhavīya entry 36 directly prints six middle clauses across denial, me
 | PRATI_JNA_HUNDRED_NONRECOLLECTIVE_A | pratijānīte | hundred object; non-recollective |
 | JNA_DHARMA_ACTOR_RESULT_A | jānīte | dharma object; actor-result |
 
-**6 finite positions, 6 selected readings, zero nominal positions and zero new source observations. Cumulative finite total: 51,143.**
+**Zero new finite positions, zero new readings, zero nominal positions and zero new source observations. These literal clauses corroborate the already-written PG79/PG80 contextual jna profiles domain; PG304 removes the duplicate credit. Cumulative finite total remains 51,135.**
 
 [Relation](RELATION.json) · [State](STATE.json) · [Sources](SOURCES.json) · [Checks](DOCUMENT_CHECKS.md)

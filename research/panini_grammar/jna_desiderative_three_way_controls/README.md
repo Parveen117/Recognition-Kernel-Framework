@@ -12,6 +12,6 @@ Only the three complete clauses are written. The nearby optional self-marked spe
 | ANU_JNA_DESIDERATIVE_SON_P | anujijñāsati | P | transitive son object |
 | ANU_JNA_DESIDERATIVE_MEDICINE_GENITIVE_A | anujijñāsate | A | intransitive medicine-genitive |
 
-**3 finite positions, 3 selected readings, zero nominal positions and zero new source observations. Cumulative finite total: 51,149.**
+**3 finite positions, 3 selected readings, zero nominal positions and zero new source observations. Cumulative finite total after the PG304 prior-coverage correction: 51,138.**
 
 [Relation](RELATION.json) · [State](STATE.json) · [Sources](SOURCES.json) · [Checks](DOCUMENT_CHECKS.md)

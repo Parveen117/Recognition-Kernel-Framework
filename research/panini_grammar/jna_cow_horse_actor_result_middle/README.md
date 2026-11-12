@@ -11,6 +11,6 @@ This packet writes only the two literal laṭ 3sg cells. It does not infer a gen
 | JNA_COW_ACTOR_RESULT_A | cow | laṭ | 3sg | A | jānīte |
 | JNA_HORSE_ACTOR_RESULT_A | horse | laṭ | 3sg | A | jānīte |
 
-**2 finite positions, 2 selected readings, zero nominal positions and zero new source observations. Cumulative finite total: 51,137.**
+**Zero new finite positions, zero new readings, zero nominal positions and zero new source observations. These literal clauses corroborate the already-written PG81 BARE_JNA_ACTOR_RESULT_A domain; PG304 removes the duplicate credit. Cumulative finite total remains 51,135.**
 
 [Relation](RELATION.json) · [State](STATE.json) · [Sources](SOURCES.json) · [Checks](DOCUMENT_CHECKS.md)

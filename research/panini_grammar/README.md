@@ -1412,13 +1412,15 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
-**PG303 — Three jñā desideratives keep prefix and transitivity distinct.** [Packet](jna_desiderative_three_way_controls/README.md). 3 finite positions and 3 readings. Cumulative **51,149**.
+**PG304 — Prior-coverage audit removes eleven duplicate jñā credits.** [Packet](jna_prior_coverage_correction/README.md). Corrected cumulative **51,138**.
 
-**PG302 — Recollective sam + jñā keeps three active case controls.** [Packet](sam_jna_recollective_active_case_controls/README.md). 3 finite positions and 3 readings. Cumulative **51,146**.
+**PG303 — Three jñā desideratives keep prefix and transitivity distinct.** [Packet](jna_desiderative_three_way_controls/README.md). 3 finite positions and 3 readings. Cumulative after PG304 correction **51,138**.
 
-**PG301 — Six direct jñā middle controls preserve sense and case.** [Packet](jna_six_direct_middle_controls/README.md). 6 finite positions and 6 readings. Cumulative **51,143**.
+**PG302 — Recollective sam + jñā controls corroborate prior coverage.** [Packet](sam_jna_recollective_active_case_controls/README.md). Zero new credit after PG304.
 
-**PG300 — Cow and horse give two literal jñā actor-result middle cells.** [Packet](jna_cow_horse_actor_result_middle/README.md). 2 finite positions and 2 readings. Cumulative **51,137**.
+**PG301 — Six direct jñā middle controls corroborate prior coverage.** [Packet](jna_six_direct_middle_controls/README.md). Zero new credit after PG304.
+
+**PG300 — Cow and horse corroborate the prior actor-result grid.** [Packet](jna_cow_horse_actor_result_middle/README.md). Zero new credit after PG304.
 
 **PG299 — Pra + jñā has a literal Kāśikā control.** [Packet](pra_jna_heaven_literal_control/README.md). 1 finite position and 1 reading. Cumulative **51,135**.
 

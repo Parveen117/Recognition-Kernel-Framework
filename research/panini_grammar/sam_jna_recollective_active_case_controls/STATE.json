@@ -7,13 +7,15 @@
     "commit": "64366413edb34322582de26ccb48f549243fe65d",
     "path": "research/panini_grammar/jna_six_direct_middle_controls/STATE.json"
   },
-  "finite_positions": 51146,
-  "new_positions": 3,
-  "new_position_readings": 3,
+  "finite_positions": 51135,
+  "new_positions": 0,
+  "new_position_readings": 0,
   "new_nominal_positions": 0,
   "new_source_observations": 0,
   "position_accounting": {
-    "forms": [
+    "status": "CORROBORATION_ONLY_ALREADY_WRITTEN",
+    "prior_domain": "PG79 zero-credit recollective active controls",
+    "requested_forms": [
       {
         "profile": "SAM_JNA_MOTHER_GENITIVE_RECOLLECTIVE_P",
         "lakara": "lat",
@@ -38,7 +40,10 @@
           "saṃjānāti"
         ]
       }
-    ]
+    ],
+    "new_positions": 0,
+    "new_readings": 0,
+    "correction_stage": "PG304"
   },
   "runtime_policy": {
     "python": "3.12 only",
@@ -50,7 +55,8 @@
   "open_obligations": [
     "Other recollective dependents",
     "nonthird persons and outer lakaras",
-    "wider sam/prati sense comparison"
+    "wider sam/prati sense comparison",
+    "PG304 corrects duplicate finite/readings credit; clauses remain literal corroboration."
   ],
   "current_summary_note": "Pinned Madhaviya directly supplies three recollective sam+jna active case controls, kept separate from non-recollective middle. [Recollective active controls](sam_jna_recollective_active_case_controls/README.md)."
 }
