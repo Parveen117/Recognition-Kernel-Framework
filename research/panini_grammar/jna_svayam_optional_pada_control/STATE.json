@@ -1,0 +1,41 @@
+{
+  "schema": "rkf.panini.pg307.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "b527b6c8317fb1c6cf4222fed57054dedfda3c71",
+    "path": "research/panini_grammar/aa_han_middle_second_dual_collation/STATE.json"
+  },
+  "finite_positions": 51145,
+  "new_positions": 1,
+  "new_position_readings": 2,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "SVAYAM_JNA_OPTIONAL",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "jānāti",
+          "jānīte"
+        ]
+      }
+    ]
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Source substring, prior-key search, one-key/two-reading accounting, Unicode and navigation only."
+  },
+  "open_obligations": [
+    "No extension beyond the explicit svayam upapada",
+    "compare other independently attested upapadas before widening",
+    "primary Unadi 4.105 fields and 5.56 marker effect remain open"
+  ],
+  "current_summary_note": "Pinned Madhaviya directly gives self-marked svayam jānāti/jānīte as active-middle alternatives for one explicit-upapada request. [Self-marked optional pada](jna_svayam_optional_pada_control/README.md)."
+}
