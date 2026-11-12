@@ -1,0 +1,15 @@
+{
+  "schema":"rkf.panini.pg290.state.v1",
+  "author":"Monty",
+  "date":"2026-11-13",
+  "baseline":{"repository":"Parveen117/Recognition-Kernel-Framework","commit":"e20c434aea4a81217e8238089e9c2ba8eb21cd81","path":"research/panini_grammar/aa_yam_own_limb_middle/STATE.json"},
+  "finite_positions":51022,
+  "new_positions":2,
+  "new_position_readings":2,
+  "new_nominal_positions":0,
+  "new_source_observations":0,
+  "position_accounting":{"forms":[{"profile":"AA_HAN_OWN_HEAD_A","lakara":"lat","slot":"3sg","readings":["āhate"]},{"profile":"AA_HAN_OTHER_HEAD_P","lakara":"lat","slot":"3sg","readings":["āhanti"]}]},
+  "runtime_policy":{"python":"3.12 only","grammar_tests":"DEFERRED_TO_CLAUDE","generators":"DEFERRED_TO_CLAUDE","certificate_replay":"DEFERRED_TO_CLAUDE","document_checks":"Current packet source equality, keys, counts, Unicode and navigation only."},
+  "open_obligations":["Printed collation of the Madhaviya aa+han middle 2pl; remaining persons and lakaras; other own-limb objects."],
+  "current_summary_note":"The exact own-head/other-head pair writes two distinct aa+han present requests. [Own and other head](aa_han_own_and_other_head_present/README.md)."
+}
