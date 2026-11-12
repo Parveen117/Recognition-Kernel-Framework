@@ -8,9 +8,9 @@
   "baseline_finite_positions": 50108,
   "writer": "foreground ChatGPT worker in Monty current thread",
   "status": "active",
-  "heartbeat_utc": "2026-11-12T21:08:56.696696+00:00",
-  "published_stage": "PG277 once this packet is published",
-  "current_work": "Complete the two roots’ imperatives, ordinary optatives, perfect persons and blessings; obtain evidence for ni across han→vadh and the whole-root imperative ja.",
+  "heartbeat_utc": "2026-11-12T21:14:54.338700+00:00",
+  "published_stage": "PG278 once this packet is published",
+  "current_work": "Write the ordinary optatives, cutting-root imperatives/blessings and remaining aorist persons; obtain direct ordered-ni evidence or a fully reviewed substitution argument for the han imperative ja and vadh histories.",
   "handoff_policy": "Checkpoint workers must avoid concurrent writes while foreground is active. If heartbeat is older than 20 minutes and branch has no newer active writer, inspect current head and take over sequentially. At deadline only verify/report.",
   "constraints": [
     "Python 3.12 document checks only",
