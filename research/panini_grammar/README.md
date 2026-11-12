@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG279 — Ordinary optatives retain han and the present-system cutting stem.** [Packet](striking_and_cutting_ordinary_optatives/README.md). 36 positions, 36 readings and 36 paths. Cumulative **50,288**.
+
 **PG278 — Perfect persons and a printed weak-stem difference.** [Packet](striking_and_cutting_perfect_persons_and_printed_variant/README.md). 24 positions, 30 readings and 30 paths. Cumulative **50,252**.
 
 **PG277 — Present and imperfect persons: the inner preverb and the root nasal.** [Packet](striking_and_cutting_present_and_imperfect_persons/README.md). 48 positions, 48 readings and 48 paths. Cumulative **50,228**.
