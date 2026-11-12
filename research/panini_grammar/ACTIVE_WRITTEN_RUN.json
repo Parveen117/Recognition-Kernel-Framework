@@ -6,16 +6,25 @@
   "baseline_commit": "3861c38680913b411b608cf43894c09813811954",
   "baseline_stage": "PG275",
   "baseline_finite_positions": 50108,
-  "writer": "foreground ChatGPT worker in Monty current thread",
-  "status": "active",
-  "heartbeat_utc": "2026-11-12T21:38:10.995313+00:00",
-  "published_stage": "PG283 once this packet is published",
-  "current_work": "The two new han NIC-P profiles have 72/180 positions: four present-system lakāras. Source-review their two futures, conditional, blessing, perfect and aorist next; retain the action-result condition and distinct narrating construction.",
+  "writer": null,
+  "status": "available_for_checkpoint",
+  "heartbeat_utc": "2026-11-12T21:50:48.478361+00:00",
+  "published_stage": "PG284",
+  "current_work": "Complete the 36 remaining selected han NIC-P perfect/aorist positions, reviewing the am/auxiliary and cang histories; then advance further documented grammar.",
   "handoff_policy": "Checkpoint workers must avoid concurrent writes while foreground is active. If heartbeat is older than 20 minutes and branch has no newer active writer, inspect current head and take over sequentially. At deadline only verify/report.",
   "constraints": [
     "Python 3.12 document checks only",
     "No grammar tests, generators or replay",
     "Same branch, [skip ci], current parent, non-forced compare-and-swap",
     "Count finite, nominal and observations separately"
-  ]
+  ],
+  "foreground_released_utc": "2026-11-12T21:50:48.478373+00:00",
+  "handoff_to": "13 November 2026 03:25 IST checkpoint or next available worker",
+  "foreground_totals": {
+    "new_finite_positions": 426,
+    "new_written_readings": 456,
+    "new_nominal_positions": 0,
+    "new_source_observations": 2,
+    "finite_positions_after": 50534
+  }
 }

@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG284 — Causative futures retain ṇic; blessing has a different affix history.** [Packet](han_causative_futures_and_blessing_nic_lopa/README.md). 72 positions, 72 readings and 72 paths. Cumulative **50,534**.
+
 **PG283 — Han causatives: four present-system lakāras and the result condition.** [Packet](han_causative_present_system_and_result_condition/README.md). 72 positions, 76 readings and 76 paths. Cumulative **50,462**.
 
 **PG282 — Han substitutions retain lexical membership, not every sound property.** [Packet](han_substitutions_lexical_identity_and_completed_grid/README.md). 54 positions, 58 readings and 58 paths. Cumulative **50,390**.
