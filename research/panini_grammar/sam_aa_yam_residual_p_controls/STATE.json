@@ -1,0 +1,23 @@
+{
+  "schema": "rkf.panini.pg287.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {"repository":"Parveen117/Recognition-Kernel-Framework","commit":"1a90da52ce984cad40f3a611f7389bc9265f8002","path":"research/panini_grammar/ud_yam_medical_study_residual_p/STATE.json"},
+  "finite_positions": 50840,
+  "new_positions": 180,
+  "new_position_readings": 188,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "position_accounting": {
+    "profiles": ["SAM_YAM_OTHER_RESULT_P","AA_YAM_OTHER_RESULT_P"],
+    "lakaras": ["lat","lang","lot","vidhiling","lrt","lut","lrng","ashirling","lit","lung"],
+    "slots": ["3sg","3du","3pl","2sg","2du","2pl","1sg","1du","1pl"],
+    "positions_per_profile":90,
+    "readings_per_profile":94,
+    "alternative_cells_per_profile":{"lot.3sg":2,"lot.2sg":2,"lit.2sg":2,"lit.1sg":2},
+    "table":"PARADIGMS.md"
+  },
+  "runtime_policy": {"python":"3.12 only","grammar_tests":"DEFERRED_TO_CLAUDE","generators":"DEFERRED_TO_CLAUDE","certificate_replay":"DEFERRED_TO_CLAUDE","document_checks":"Current packet tables, source pins/excerpts, counts, Unicode and navigation only."},
+  "open_obligations": ["Specific unnamed other-result objects, jna, own-limb and wider overlapping meanings remain uncounted."],
+  "current_summary_note": "The directly cited sam/aa yam residual-active controls add 180 positions without inventing objects. [Residual active controls](sam_aa_yam_residual_p_controls/README.md)."
+}
