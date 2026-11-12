@@ -1,0 +1,48 @@
+{
+  "schema": "rkf.panini.pg313.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "5fb828b8da08e5816533860f75fca2fb5cf181bc",
+    "path": "research/panini_grammar/pra_han_passive_and_imperative_controls/STATE.json"
+  },
+  "finite_positions": 51158,
+  "new_positions": 2,
+  "new_position_readings": 2,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "PRATI_HAN_YANGLUK_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "pratijaṅghati"
+        ]
+      },
+      {
+        "profile": "PRA_NI_HAN_YANGLUK_THIEF_P",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "praṇijaṅghati"
+        ]
+      }
+    ]
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Pinned source substrings, yaṅ-luk classification, profile/condition separation, prior-key search, counts and Unicode only."
+  },
+  "open_obligations": [
+    "No full yaṅ-luk paradigm",
+    "do not transfer the thief-genitive condition to the prati example",
+    "other prefixed yaṅ-luk words require their own witnesses"
+  ],
+  "current_summary_note": "Entry 662 directly prints prati and pra+ni yaṅ-luk jaṅghati controls; the thief-genitive condition remains attached to the latter. [Prefixed yaṅ-luk controls](han_yangluk_prefixed_direct_controls/README.md)."
+}

@@ -48,6 +48,7 @@ The foreground packets PG276–PG284 add **426 finite positions and 456 selected
 | PG309 | d73e79444df0e0607f882fa52060ab6b9affe972 | 2 | 2 | 0 |
 | PG310 | 149ca82e056c146486f73d32fda4c2a0800bbb94 | 4 | 7 | 0 |
 | PG311 | ff31aaf17b958d2e5f302085d5369b1505edc716 | 2 | 2 | 1 |
+| PG312 | 5fb828b8da08e5816533860f75fca2fb5cf181bc | 2 | 2 | 0 |
 
 Checkpoint through PG305 after prior-coverage correction: **1,035 finite positions, 1,128 selected readings, zero nominal positions and four source observations** in this run; cumulative finite coverage **51,143**. The 04:25 checkpoint contributes a corrected net **120 finite positions and 121 readings**, with zero new nominal positions or source observations.
 
