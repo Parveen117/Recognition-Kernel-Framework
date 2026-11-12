@@ -1,0 +1,58 @@
+{
+  "imperative": "Ordinary loṭ retains the śyan stem sy-. The second singular has hi-luk under 6.4.105; first persons retain the appropriate āṭ/mip changes. In this root there is no whole-root ja substitution.",
+  "blessing": "3.3.173 selects the desired but unattained event. 3.4.116/104 supply the ārdhadhātuka/kit blessing-liṅ context, and 6.4.67 supplies root e: seyāt. The sārvadhātuka present-system stem is not carried into that liṅ.",
+  "tatan_guard": "7.1.35 is an optional replacement of tu/hi only in āśis. Ordinary vidhi alone does not license syatāt. All four retained tatāṅ readings in the two profiles are guarded individually in STATE.json.",
+  "reading_context_qualifications": [
+    {
+      "profile": "pra_ni_DP_04_0042_P",
+      "lakara": "lot",
+      "slot": "3sg",
+      "reading": "praṇiṣyatāt",
+      "requires": "ashis_3_3_173",
+      "rule": "7.1.35",
+      "excludes": "ordinary_vidhyadi_without_ashis"
+    },
+    {
+      "profile": "pra_ni_DP_04_0042_P",
+      "lakara": "lot",
+      "slot": "2sg",
+      "reading": "praṇiṣyatāt",
+      "requires": "ashis_3_3_173",
+      "rule": "7.1.35",
+      "excludes": "ordinary_vidhyadi_without_ashis"
+    },
+    {
+      "profile": "pari_ni_DP_04_0042_P",
+      "lakara": "lot",
+      "slot": "3sg",
+      "reading": "pariṇiṣyatāt",
+      "requires": "ashis_3_3_173",
+      "rule": "7.1.35",
+      "excludes": "ordinary_vidhyadi_without_ashis"
+    },
+    {
+      "profile": "pari_ni_DP_04_0042_P",
+      "lakara": "lot",
+      "slot": "2sg",
+      "reading": "pariṇiṣyatāt",
+      "requires": "ashis_3_3_173",
+      "rule": "7.1.35",
+      "excludes": "ordinary_vidhyadi_without_ashis"
+    }
+  ],
+  "negative_controls": [
+    "Do not offer praṇiṣyatāt as an unconditional ordinary command.",
+    "Do not replace ordinary praṇiṣyet by blessing praṇiṣeyāt merely because the translation uses may.",
+    "Do not take blessing loṭ as ārdhadhātuka merely because blessing liṅ is."
+  ],
+  "domain": "The four inherited, sense-qualified ordered pra+ni / pari+ni P profiles. Unaccented Classical pause forms; no A-pada or yaṅ-luk expansion.",
+  "counting": {
+    "new_finite_positions": 36,
+    "new_nominal_positions": 0,
+    "new_source_observations": 0,
+    "new_readings": 40,
+    "pair_positions_after": 294,
+    "current_four_profile_target": 360
+  },
+  "observed_and_composed": "Kāśikā 6.4.66 explicitly identifies ṣo antakarmaṇi and 6.4.67 gives avaseyāt. The ordered-prefix and dental/retroflex histories are inherited through PG274/PG279. Eighteen bare archived cells are finite comparisons; the prefixed words are written compositions. The archive mixes the tatāṅ words into its imperative cells, but the written relation adds their source-required blessing guard. Zero new nominal positions and zero separately counted source observations."
+}
