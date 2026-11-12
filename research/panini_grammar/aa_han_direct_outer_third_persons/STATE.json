@@ -1,0 +1,65 @@
+{
+  "schema": "rkf.panini.pg298.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "e2561658d53929966f9adfad56479a173ae5ff84",
+    "path": "research/panini_grammar/aa_han_middle_first_dual_plural_witnesses/STATE.json"
+  },
+  "finite_positions": 51134,
+  "new_positions": 12,
+  "new_position_readings": 13,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "position_accounting": {
+    "profile": "AA_HAN_OWN_LIMB_A",
+    "panels": [
+      {
+        "lakara": "lang",
+        "positions": 3,
+        "readings": 3
+      },
+      {
+        "lakara": "lot",
+        "positions": 3,
+        "readings": 3
+      },
+      {
+        "lakara": "vidhiling",
+        "positions": 3,
+        "readings": 3
+      },
+      {
+        "lakara": "ashirling",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "lakara": "lit",
+        "positions": 1,
+        "readings": 1
+      },
+      {
+        "lakara": "lung",
+        "positions": 1,
+        "readings": 2
+      }
+    ],
+    "positions": 12,
+    "readings": 13
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Current packet immutable-source cells, optional aorist pair, keys, counts, Unicode and navigation only."
+  },
+  "open_obligations": [
+    "Unprinted persons in six outer lakaras",
+    "simple and periphrastic futures",
+    "present 2du and printed Madhaviya collation"
+  ],
+  "current_summary_note": "The immutable aa+han series directly adds twelve outer third-person positions and preserves both aorist outputs. [Direct outer third persons](aa_han_direct_outer_third_persons/README.md)."
+}
