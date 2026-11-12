@@ -1,0 +1,79 @@
+{
+  "root": {
+    "address": "02.0002",
+    "teaching": "han",
+    "prefixes": [
+      "pra"
+    ],
+    "pada": "P"
+  },
+  "rule_notes": [
+    {
+      "rule": "8.4.22",
+      "scope": "n of han after a qualifying prefix"
+    },
+    {
+      "rule": "8.4.23",
+      "reading": "vamor vā",
+      "scope": "optional n/ṇ before m or v in the printed first-person forms"
+    }
+  ],
+  "positions": [
+    {
+      "profile": "PRA_HAN_DIRECT_P",
+      "lakara": "lat",
+      "slot": "3sg",
+      "readings": [
+        "prahanti"
+      ]
+    },
+    {
+      "profile": "PRA_HAN_DIRECT_P",
+      "lakara": "lat",
+      "slot": "1sg",
+      "readings": [
+        "prahaṇmi",
+        "prahanmi"
+      ]
+    },
+    {
+      "profile": "PRA_HAN_DIRECT_P",
+      "lakara": "lat",
+      "slot": "1du",
+      "readings": [
+        "prahanvaḥ",
+        "prahaṇvaḥ"
+      ]
+    },
+    {
+      "profile": "PRA_HAN_DIRECT_P",
+      "lakara": "lat",
+      "slot": "1pl",
+      "readings": [
+        "prahanmaḥ",
+        "prahaṇmaḥ"
+      ]
+    }
+  ],
+  "literal_clause": {
+    "slot": "3sg",
+    "source": "चोरस्य प्रहन्ति",
+    "participants": {
+      "object_relation": "thief in the printed genitive construction"
+    }
+  },
+  "boundary": "Only four complete present cells literally printed in the pinned entry receive credit.",
+  "nonclaims": [
+    "No complete present paradigm",
+    "no outer-lakāra schedule",
+    "no ordered pra+ni identity",
+    "no literal corroboration of PG282 ja/vadha/NIC words"
+  ],
+  "counting": {
+    "new_finite_positions": 4,
+    "new_written_readings": 7,
+    "new_nominal_positions": 0,
+    "new_source_observations": 0,
+    "finite_positions_after": 51152
+  }
+}
