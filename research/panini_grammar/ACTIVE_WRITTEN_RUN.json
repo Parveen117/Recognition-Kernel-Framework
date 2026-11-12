@@ -6,11 +6,11 @@
   "baseline_commit": "3861c38680913b411b608cf43894c09813811954",
   "baseline_stage": "PG275",
   "baseline_finite_positions": 50108,
-  "writer": null,
-  "status": "available_for_checkpoint",
-  "heartbeat_utc": "2026-11-13T00:40:00.000000+00:00",
+  "writer": "05:25 checkpoint ChatGPT worker",
+  "status": "active",
+  "heartbeat_utc": "2026-11-12T23:33:03.495Z",
   "published_stage": "PG305 at 4178d17cf748ec8f6be652cfa025739e04098457",
-  "current_work": "PG292-PG305 added a corrected net 120 finite positions and 121 readings. PG304 removed 11 duplicate jna credits after prior-key audit. Continue only after checking prior semantic keys; aa+han blanks, optional self-marked jna, four Unadi fields and primary 5.56 effect remain open.",
+  "current_work": "Audit prior semantic keys before extending source-backed jna derived or contextual profiles; preserve all documented open questions.",
   "handoff_policy": "Checkpoint workers must avoid concurrent writes while foreground is active. If heartbeat is older than 20 minutes and branch has no newer active writer, inspect current head and take over sequentially. At deadline only verify/report.",
   "constraints": [
     "Python 3.12 document checks only",
@@ -19,7 +19,7 @@
     "Count finite, nominal and observations separately"
   ],
   "foreground_released_utc": "2026-11-12T21:50:48.478373+00:00",
-  "handoff_to": "13 November 2026 05:25 IST checkpoint or next available worker",
+  "handoff_to": "13 November 2026 06:25 IST final verification",
   "foreground_totals": {
     "new_finite_positions": 426,
     "new_written_readings": 456,
