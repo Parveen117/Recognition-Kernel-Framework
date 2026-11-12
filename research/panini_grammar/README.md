@@ -1412,6 +1412,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
 
+**PG286 — Ud + yam medical study takes the residual active.** [Packet](ud_yam_medical_study_residual_p/README.md). 90 finite positions and 94 readings. Cumulative **50,660**.
+
 **PG285 — Han causative perfect and caṅ aorist complete the selected grids.** [Packet](han_causative_perfect_and_cang_completion/README.md). 36 finite positions, 74 readings and one source observation. Cumulative **50,570**.
 
 **PG284 — Causative futures retain ṇic; blessing has a different affix history.** [Packet](han_causative_futures_and_blessing_nic_lopa/README.md). 72 positions, 72 readings and 72 paths. Cumulative **50,534**.

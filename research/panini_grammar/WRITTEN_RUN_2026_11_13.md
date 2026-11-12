@@ -23,7 +23,9 @@ The foreground packets PG276–PG284 add **426 finite positions and 456 selected
 | PG284 | This packet commit; obtain its actual SHA from branch history | 72 | 72 | 0 |
 | PG285 | This packet commit; obtain its actual SHA from branch history | 36 | 74 | 1 |
 
-Checkpoint through PG285: **462 finite positions, 530 selected readings, zero nominal positions and three source observations** in this run; cumulative finite coverage **50,570**.
+| PG286 | This packet commit; obtain its actual SHA from branch history | 90 | 94 | 0 |
+
+Checkpoint through PG286: **552 finite positions, 624 selected readings, zero nominal positions and three source observations** in this run; cumulative finite coverage **50,660**.
 
 ## Concrete next work
 
