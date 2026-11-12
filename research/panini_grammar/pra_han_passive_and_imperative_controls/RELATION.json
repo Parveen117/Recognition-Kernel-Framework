@@ -1,0 +1,42 @@
+{
+  "root": {
+    "address": "02.0002",
+    "teaching": "han",
+    "prefixes": [
+      "pra"
+    ]
+  },
+  "rule": "8.4.22",
+  "positions": [
+    {
+      "profile": "PRA_HAN_PASSIVE",
+      "construction": "passive",
+      "lakara": "lat",
+      "slot": "3sg",
+      "word": "prahaṇyate",
+      "source": "प्रहण्यते"
+    },
+    {
+      "profile": "PRA_HAN_DIRECT_P",
+      "construction": "active",
+      "lakara": "lot",
+      "slot": "1sg",
+      "word": "prahaṇāni",
+      "source": "प्रहणानि"
+    }
+  ],
+  "admission": "The source uses both complete words as examples of the regular retroflexion, contrasted with the optional m/v environment.",
+  "boundary": "Only the two printed cells receive credit.",
+  "nonclaims": [
+    "No passive grid",
+    "no imperative grid",
+    "no prefixed ja/vadha/NIC attestation"
+  ],
+  "counting": {
+    "new_finite_positions": 2,
+    "new_written_readings": 2,
+    "new_nominal_positions": 0,
+    "new_source_observations": 0,
+    "finite_positions_after": 51156
+  }
+}

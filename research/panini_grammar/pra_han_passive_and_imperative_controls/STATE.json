@@ -1,0 +1,48 @@
+{
+  "schema": "rkf.panini.pg312.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "ff31aaf17b958d2e5f302085d5369b1505edc716",
+    "path": "research/panini_grammar/han_thief_genitive_prefix_controls/STATE.json"
+  },
+  "finite_positions": 51156,
+  "new_positions": 2,
+  "new_position_readings": 2,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "PRA_HAN_PASSIVE",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "prahaṇyate"
+        ]
+      },
+      {
+        "profile": "PRA_HAN_DIRECT_P",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "prahaṇāni"
+        ]
+      }
+    ]
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Pinned source substring, construction and slot separation, prior-key search, counts, Unicode and navigation only."
+  },
+  "open_obligations": [
+    "No passive or imperative paradigm completion",
+    "preserve PG310's m/v alternatives separately",
+    "other entry-662 prefix and yaṅ-luk examples require their own audit"
+  ],
+  "current_summary_note": "Entry 662's nasal-rule discussion directly prints passive prahaṇyate and imperative prahaṇāni, adding two narrow pra+han controls. [Passive and imperative controls](pra_han_passive_and_imperative_controls/README.md)."
+}
