@@ -6,11 +6,11 @@
   "baseline_commit": "3861c38680913b411b608cf43894c09813811954",
   "baseline_stage": "PG275",
   "baseline_finite_positions": 50108,
-  "writer": "05:25 checkpoint ChatGPT worker",
-  "status": "active",
-  "heartbeat_utc": "2026-11-13T00:08:23.624Z",
-  "published_stage": "PG320 at 4ac62465241737a5597642c08ddc432a18345786",
-  "current_work": "PG321 backfills exact UTF-8 byte and SHA-256 pins for the shared Madhaviya 662 blob across eleven new source records; zero coverage credit.",
+  "writer": null,
+  "status": "available_for_checkpoint",
+  "heartbeat_utc": "2026-11-13T00:10:58.920Z",
+  "published_stage": "PG321 at 50c9211a3b63c147b0a422e49008cc8be2ba7ff4",
+  "current_work": "PG306-PG321 add 31 finite positions, 41 readings, zero nominal positions and two source observations. Final 06:25 checkpoint must verify actual head and totals only; four Unadi fields, primary 5.56 effect, PG282 ja/vadha/NIC literal corroboration and uncited paradigm cells remain open.",
   "handoff_policy": "Checkpoint workers must avoid concurrent writes while foreground is active. If heartbeat is older than 20 minutes and branch has no newer active writer, inspect current head and take over sequentially. At deadline only verify/report.",
   "constraints": [
     "Python 3.12 document checks only",
@@ -19,7 +19,7 @@
     "Count finite, nominal and observations separately"
   ],
   "foreground_released_utc": "2026-11-12T21:50:48.478373+00:00",
-  "handoff_to": "13 November 2026 06:25 IST final verification",
+  "handoff_to": "13 November 2026 06:25 IST final verification checkpoint",
   "foreground_totals": {
     "new_finite_positions": 426,
     "new_written_readings": 456,
@@ -43,5 +43,14 @@
     "new_source_observations": 0,
     "finite_positions_after": 51143,
     "correction": "PG304 subtracts 11 provisional duplicate positions/readings from PG300-PG302"
+  },
+  "checkpoint_0525_totals": {
+    "published_stages": "PG306-PG321",
+    "new_finite_positions": 31,
+    "new_written_readings": 41,
+    "new_nominal_positions": 0,
+    "new_source_observations": 2,
+    "finite_positions_after": 51174,
+    "source_pin": "Madhaviya 662 blob f29c08ef09f87682c464d42126d7b912fb32fbe2; 65122 bytes; sha256 e6092fdbc8f3491a5c498cf7d8eb38150c7676503cc04e14050d99a1800684f6"
   }
 }
