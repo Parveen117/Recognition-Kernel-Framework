@@ -1,0 +1,45 @@
+{
+  "schema": "rkf.panini.pg320.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "cff4cb9e8f6a1341a138c32e8c440f98476f28c3",
+    "path": "research/panini_grammar/upa_jna_first_knowledge_passive_control/STATE.json"
+  },
+  "finite_positions": 51174,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 0,
+  "new_source_observations": 1,
+  "position_accounting": {
+    "forms": []
+  },
+  "source_observations": [
+    {
+      "id": "JNA_PAST_PARTICIPLE_OPTIONAL_NIC_LOPA",
+      "readings": [
+        "jñaptaḥ",
+        "jñāpitaḥ"
+      ],
+      "source": [
+        "ज्ञप्तः",
+        "ज्ञापितः"
+      ],
+      "status": "nonfinite; no position credit"
+    }
+  ],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Pinned source substring, nonfinite classification, zero-position accounting, Unicode and navigation only."
+  },
+  "open_obligations": [
+    "No finite schedule inferred from the participles",
+    "no nominal inflection positions assigned",
+    "compare independent witnesses before broader optional-lopa claims"
+  ],
+  "current_summary_note": "Madhaviya directly contrasts nonfinite jñaptaḥ/jñāpitaḥ under optional ṇic lopa; this is one source observation with no position credit. [Optional nic-lopa observation](jna_participle_optional_nic_lopa_observation/README.md)."
+}
