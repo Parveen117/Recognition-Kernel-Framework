@@ -1454,6 +1454,10 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 **PG285 — Han causative perfect and caṅ aorist complete the selected grids.** [Packet](han_causative_perfect_and_cang_completion/README.md). 36 finite positions, 74 readings and one source observation. Cumulative **50,570**.
 
+**PG322 — Ā + han own-limb futures and conditional.** [Packet](aa_han_own_limb_futures_and_conditional/README.md). 27 new positions and 27 readings, including two literal controls. Cumulative **51,201**.
+
+**Checkpoint work PG285–PG321.** The completed 13 November run reached 51,174 finite positions; its later packets and source distinctions are linked in [Current work](CURRENT_WORK.md).
+
 **PG284 — Causative futures retain ṇic; blessing has a different affix history.** [Packet](han_causative_futures_and_blessing_nic_lopa/README.md). 72 positions, 72 readings and 72 paths. Cumulative **50,534**.
 
 **PG283 — Han causatives: four present-system lakāras and the result condition.** [Packet](han_causative_present_system_and_result_condition/README.md). 72 positions, 76 readings and 76 paths. Cumulative **50,462**.
