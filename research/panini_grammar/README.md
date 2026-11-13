@@ -1454,6 +1454,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 **PG285 — Han causative perfect and caṅ aorist complete the selected grids.** [Packet](han_causative_perfect_and_cang_completion/README.md). 36 finite positions, 74 readings and one source observation. Cumulative **50,570**.
 
+**PG323 — Own-limb present register and first-singular qualification.** [Packet](aa_han_present_register_and_first_singular_qualification/README.md). Two new positions/readings, one source observation; an existing 1sg is qualified without re-credit. Cumulative **51,203**.
+
 **PG322 — Ā + han own-limb futures and conditional.** [Packet](aa_han_own_limb_futures_and_conditional/README.md). 27 new positions and 27 readings, including two literal controls. Cumulative **51,201**.
 
 **Checkpoint work PG285–PG321.** The completed 13 November run reached 51,174 finite positions; its later packets and source distinctions are linked in [Current work](CURRENT_WORK.md).

@@ -1,0 +1,146 @@
+{
+  "schema": "rkf.panini.pg323.state.v1",
+  "author": "Monty",
+  "date": "2026-11-13",
+  "publication_parent": "9824f59607bb34a3d77d002d96c3c5f22b241843",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "9824f59607bb34a3d77d002d96c3c5f22b241843",
+    "path": "research/panini_grammar/aa_han_own_limb_futures_and_conditional/STATE.json",
+    "git_blob_sha": "77d90e14ae95263337e10c6a626d73b8c9a46a22",
+    "sha256": "71a754f2d17459c83334b3f8216d3ca1b6e0456c2db34952261927cb0b6d052b",
+    "bytes": 8535
+  },
+  "finite_positions": 51203,
+  "new_positions": 2,
+  "new_position_readings": 2,
+  "new_written_table_readings": 2,
+  "retained_path_count": 2,
+  "new_nominal_positions": 0,
+  "new_source_observations": 1,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "āghnāte"
+        ],
+        "evidence": "DIRECT_MADHAVIYA_PRESENT_SERIES"
+      },
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "āghnate"
+        ],
+        "evidence": "DIRECT_MADHAVIYA_PRESENT_SERIES"
+      }
+    ]
+  },
+  "corrected_existing_reading_count": 1,
+  "correction_register": [
+    {
+      "target_stage": "PG292",
+      "target_state": {
+        "repository": "Parveen117/Recognition-Kernel-Framework",
+        "commit": "9824f59607bb34a3d77d002d96c3c5f22b241843",
+        "path": "research/panini_grammar/aa_han_two_more_middle_witnesses/STATE.json",
+        "git_blob_sha": "d5fe6ec995c51cd50cede82d4e050e6bd83fb1e3",
+        "sha256": "e6171a8bbe19195345a95406499e99267432c656d7a186f7916629494b2fdaf1",
+        "bytes": 1473
+      },
+      "profile": "AA_HAN_OWN_LIMB_A",
+      "lakara": "lat",
+      "slot": "1sg",
+      "action": "QUALIFY_LITERAL_AND_SELECT_PRIMARY_NO_NEW_CREDIT",
+      "historical_literal": "āhane",
+      "selected_primary": "āghne",
+      "source_literal": "आघ्ने",
+      "unselected_literal_status": "Śābdikābharaṇa digital āhane remains a source spelling to collate; it is not admitted as a free alternative by this packet.",
+      "new_position_credit": 0,
+      "new_reading_credit": 0
+    }
+  ],
+  "source_observations": [
+    {
+      "kind": "first_singular_source_spelling_difference",
+      "madhaviya": "आघ्ने",
+      "inherited_shabdikabharana_record": "आहने",
+      "count": 1,
+      "position_credit": 0,
+      "readings_credit": 0
+    }
+  ],
+  "present_register": {
+    "profile": "AA_HAN_OWN_LIMB_A",
+    "inherited_positions": 7,
+    "new_positions": 2,
+    "total_positions": 9,
+    "head_instance_alias": "AA_HAN_OWN_HEAD_A is the directly supplied own-head example used for the existing 3sg; it receives no second credit.",
+    "selected_rows": [
+      {
+        "slot": "3sg",
+        "reading": "āhate",
+        "provenance": "PG290, AA_HAN_OWN_HEAD_A head instance"
+      },
+      {
+        "slot": "3du",
+        "reading": "āghnāte",
+        "provenance": "PG323, exact Mādhavīya"
+      },
+      {
+        "slot": "3pl",
+        "reading": "āghnate",
+        "provenance": "PG323, exact Mādhavīya"
+      },
+      {
+        "slot": "2sg",
+        "reading": "āhase",
+        "provenance": "PG292"
+      },
+      {
+        "slot": "2du",
+        "reading": "āghnāthe",
+        "provenance": "PG306"
+      },
+      {
+        "slot": "2pl",
+        "reading": "āhadhve",
+        "provenance": "PG291; retain its ahadhve/āhadhve source distinction"
+      },
+      {
+        "slot": "1sg",
+        "reading": "āghne",
+        "provenance": "PG292 position, qualified primary in PG323"
+      },
+      {
+        "slot": "1du",
+        "reading": "āhanvahe",
+        "provenance": "PG297"
+      },
+      {
+        "slot": "1pl",
+        "reading": "āhanmahe",
+        "provenance": "PG297"
+      }
+    ]
+  },
+  "grammar_executions": [],
+  "overall_grammar_completion_percent": null,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Two new present keys; seven inherited keys and the selected first-singular qualification; literal anchors, source bytes, rule fields, table/register/count/navigation agreement only."
+  },
+  "open_obligations": [
+    "A printed or otherwise independently controlled Śābdikābharaṇa collation for its short-prefix 3du spelling and āhane first singular remains open. Do not erase those literal source records.",
+    "Other own-limb ā+han persons outside the completed present/future panels remain to be written.",
+    "The existing 2pl ahadhve/āhadhve distinction, PG282 literal-prefixed corroboration, four primary Uṇādi 4.105 fields and independent 5.56 marker effect remain unchanged."
+  ]
+}

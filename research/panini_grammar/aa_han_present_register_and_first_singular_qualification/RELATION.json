@@ -1,0 +1,63 @@
+{
+  "profile": "AA_HAN_OWN_LIMB_A",
+  "new_positions": [
+    {
+      "profile": "AA_HAN_OWN_LIMB_A",
+      "lakara": "lat",
+      "slot": "3du",
+      "readings": [
+        "āghnāte"
+      ],
+      "evidence": "DIRECT_MADHAVIYA_PRESENT_SERIES"
+    },
+    {
+      "profile": "AA_HAN_OWN_LIMB_A",
+      "lakara": "lat",
+      "slot": "3pl",
+      "readings": [
+        "āghnate"
+      ],
+      "evidence": "DIRECT_MADHAVIYA_PRESENT_SERIES"
+    }
+  ],
+  "existing_first_singular": {
+    "target_stage": "PG292",
+    "target_state": {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "9824f59607bb34a3d77d002d96c3c5f22b241843",
+      "path": "research/panini_grammar/aa_han_two_more_middle_witnesses/STATE.json",
+      "git_blob_sha": "d5fe6ec995c51cd50cede82d4e050e6bd83fb1e3",
+      "sha256": "e6171a8bbe19195345a95406499e99267432c656d7a186f7916629494b2fdaf1",
+      "bytes": 1473
+    },
+    "profile": "AA_HAN_OWN_LIMB_A",
+    "lakara": "lat",
+    "slot": "1sg",
+    "action": "QUALIFY_LITERAL_AND_SELECT_PRIMARY_NO_NEW_CREDIT",
+    "historical_literal": "āhane",
+    "selected_primary": "āghne",
+    "source_literal": "आघ्ने",
+    "unselected_literal_status": "Śābdikābharaṇa digital āhane remains a source spelling to collate; it is not admitted as a free alternative by this packet.",
+    "new_position_credit": 0,
+    "new_reading_credit": 0
+  },
+  "selected_history": [
+    "The adādi śap has luk under 2.4.72.",
+    "The supplied A 1sg ending is apit; the relevant sārvadhātuka condition is ṅid-vat under 1.2.4.",
+    "6.4.98 deletes the root upadhā before the qualifying vowel-initial ending.",
+    "7.3.54 supplies gh for h before the now adjacent n, with the rule-specific visibility explained in the Kāśikā.",
+    "The A tiṭ ending has e under 3.4.79; retain the actual prefix ā. The resulting selected word is āghne."
+  ],
+  "source_selection": "The actual Mādhavīya āghne and the stated operation conditions support the selected primary. PG292 remains the historical record of the Śābdikābharaṇa digital āhane string; no new optional derivation for that string is asserted.",
+  "third_person_controls": "Mādhavīya directly supplies āghnāte and āghnate; Kāśikā 1.3.28 independently has those word shapes and states the own-limb extension. The own-limb event frame is retained, distinct from separately credited intransitive requests.",
+  "completed_domain": "Nine selected own-limb present person-number requests, including the inherited head instance and source qualifications; this is not a claim of agreement in every digitized witness.",
+  "counting": {
+    "new_finite_positions": 2,
+    "new_readings": 2,
+    "new_nominal_positions": 0,
+    "new_source_observations": 1,
+    "existing_first_singular_recredited": 0,
+    "present_positions_after": 9,
+    "finite_positions_after": 51203
+  }
+}
