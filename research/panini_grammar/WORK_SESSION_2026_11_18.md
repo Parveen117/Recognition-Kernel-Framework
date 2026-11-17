@@ -35,3 +35,11 @@ Monty. Bounded continuation; no claim of continuous elapsed execution.
 - All whole words written. P kit overrides ordinary ṅit; root i retained; y-initial val premise fails, so no iṭ even before lexical aniṭ fallback. PG20 source-qualified two-s schedule reused, not a general new scheduler. Three st words retain suṭ s rather than yāsuṭ s.
 - Blessing loṭ and ordinary optative remain old domains. New ordinary P coverage 72/90; next perfect/aorist (18 requests), subject to prior prose/factored review. Independent outer middle and prior source gaps stay open.
 - Direct Python 3.12 document/source/count checks only; generators, grammar execution, old suites and replay deferred.
+
+## PG339 · Bhid perfect
+
+- Parent `6edf2a119618bacd3c45ec62aedaf08cf2d1e017`; [packet](bhid_perfect_and_boundary_specific_it/README.md). New 9 finite positions/readings, cumulative **51,387**. Zero nominal/source-observation additions; nominal 2,917/3,465.
+- Five literal Kāśikā controls, four written cells. 7.2.13 supplies bibhidiva/bibhidima despite lexical aniṭ; 7.2.61–62 explicitly give bibheditha. No unlicensed bibhettha option. Original root and abhyāsa remain separate; apit liṭ kit is not sārvadhātuka ṅidvat.
+- Require supplied past-anadyatana parokṣa, including separate first-person evidence. Other liṭ contextual permissions are not constructed.
+- Ordinary P 81/90; next aorist nine requests with independent prior/source review. Middle and earlier source obligations remain open.
+- Python 3.12 direct document/source/count checks only; generators, grammar execution, old suites and replay deferred.

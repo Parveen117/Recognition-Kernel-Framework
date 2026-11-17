@@ -1,0 +1,162 @@
+{
+  "schema": "rkf.panini.pg339.state.v1",
+  "author": "Monty",
+  "date": "2026-11-18",
+  "publication_parent": "6edf2a119618bacd3c45ec62aedaf08cf2d1e017",
+  "baseline": {
+    "commit": "6edf2a119618bacd3c45ec62aedaf08cf2d1e017",
+    "path": "research/panini_grammar/bhid_benedictive_and_owned_two_s/STATE.json",
+    "finite_positions": 51378
+  },
+  "new_positions": 9,
+  "new_position_readings": 9,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "finite_positions": 51387,
+  "nominal_positions": 2917,
+  "nominal_readings": 3465,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "bibheda"
+        ],
+        "owned_pre_readout_view": "bi|bhed|a",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "bibhidatuḥ"
+        ],
+        "owned_pre_readout_view": "bi|bhid|atus",
+        "evidence": "DIRECT_KASHIKA_WORD",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "bibhiduḥ"
+        ],
+        "owned_pre_readout_view": "bi|bhid|us",
+        "evidence": "DIRECT_KASHIKA_WORD",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "bibheditha"
+        ],
+        "owned_pre_readout_view": "bi|bhed|i_it|tha",
+        "evidence": "DIRECT_KASHIKA_WORD",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "bibhidathuḥ"
+        ],
+        "owned_pre_readout_view": "bi|bhid|athus",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "bibhida"
+        ],
+        "owned_pre_readout_view": "bi|bhid|a",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "bibheda"
+        ],
+        "owned_pre_readout_view": "bi|bhed|a",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "bibhidiva"
+        ],
+        "owned_pre_readout_view": "bi|bhid|i_it|va",
+        "evidence": "DIRECT_KASHIKA_WORD",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "bibhidima"
+        ],
+        "owned_pre_readout_view": "bi|bhid|i_it|ma",
+        "evidence": "DIRECT_KASHIKA_WORD",
+        "position_credit": 1,
+        "reading_credit": 1
+      }
+    ]
+  },
+  "root_domain": {
+    "selected_P_positions": 81,
+    "remaining_selected_P_positions": 9,
+    "remaining_lakaras": [
+      "lung"
+    ]
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_runtime": "3.12.14",
+    "document_check_status": "PASS"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Aorist requires its own source and prior-domain review; not yet a full 90-key closure.",
+    "Independent outer middle domains and other perfect semantic permissions remain open.",
+    "Prior PG337 source typo origin and Bhatti/commentary/Madhaviya/Unadi textual gaps remain open."
+  ]
+}

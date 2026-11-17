@@ -2266,3 +2266,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG338 · Bhid benedictive
 
 [PG338](bhid_benedictive_and_owned_two_s/README.md) adds 9 finite positions/readings, cumulative **51,378**. Root i is retained under P kit; yāsuṭ and suṭ s histories stay distinct. Full PG14 typed recovery is written; runtime/replay deferred. Nominal totals remain 2,917/3,465.
+
+## PG339 · Bhid perfect
+
+[PG339](bhid_perfect_and_boundary_specific_it/README.md) adds nine finite positions/readings, cumulative **51,387**. Five literal controls and four written cells distinguish liṭ iṭ from lexical aniṭ and retain copy/root ownership. Full PG14 typed zero-recovery is written; grammar execution/replay deferred. Nominal totals 2,917/3,465 unchanged.
