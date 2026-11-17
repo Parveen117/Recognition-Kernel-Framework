@@ -57,3 +57,19 @@ Necessary checks use Python 3.12 only and run once after each coherent change.
 Do not execute grammar generators, old test suites or certificate replay.
 
 Publication note: read-only Git fetching works in the active execution. The shell push did not have credentials; PG324 was published successfully through the connected GitHub tree/commit/ref actions with an expected-head lease and no force. Reuse an authorized publication route without requesting or exposing tokens.
+
+## PG328 continuation
+
+- Parent: `64bf71efaa7cca097c3518247234f97e331a1ae7`.
+- [Intransitive present system](aa_han_intransitive_present_system/README.md):
+  33 new finite positions/readings; 3 inherited present third persons plus
+  33 written compositions give 36/90 selected requests. Cumulative **51,278**.
+- Zero new nominal positions/source observations; nominal totals remain
+  2,917 positions / 3,465 readings. No literal-attestation inflation.
+- The restricted dependency proof permits shared morphology only after
+  independently establishing akarmaka admission. Native histories retain
+  that semantic route through zero-specialization.
+- Next: six intransitive outer lakāras (54 requests), source disagreements
+  at PG323/324/327 and the existing Uṇādi obligations remain open.
+- Necessary Python 3.12 document/source checks only; grammar execution,
+  generators, old suites and certificate replay remain deferred to Claude.

@@ -2184,3 +2184,12 @@ close each family's inherited scopes, exceptions, lexical classes and
 attested alternatives against the chosen commentary. The inventory explicitly
 keeps unreviewed material open. No new Sanskrit runtime, calculator feature or
 automatic parser is added by PG1.
+
+## PG328 · Intransitive admission and four present-system panels
+
+[PG328](aa_han_intransitive_present_system/README.md) independently admits the
+akarmaka ā + han profile under Kāśikā 1.3.28, then reuses explicitly pinned
+owned-sound operations without copying an own-limb object history. It adds
+33 written positions/readings to the three PG293 controls: 36/90 selected
+requests, cumulative 51,278 finite positions. No nominal positions or source
+observations are added. Native zero-reading retains the admission distinction.

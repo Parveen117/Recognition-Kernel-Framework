@@ -1,0 +1,552 @@
+{
+  "schema": "rkf.panini.pg328.state.v1",
+  "author": "Monty",
+  "date": "2026-11-17",
+  "publication_parent": "64bf71efaa7cca097c3518247234f97e331a1ae7",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "64bf71efaa7cca097c3518247234f97e331a1ae7",
+    "path": "research/panini_grammar/aa_han_own_limb_aorist_and_selected_grid/STATE.json",
+    "bytes": 6226,
+    "sha256": "d83fecf40b3ac2e4871bb1651ec6314ae43164bb483953822bd8378cad22363a",
+    "git_blob_sha": "d7839a2479f0dab12d1de8225cce2746933cca67"
+  },
+  "finite_positions": 51278,
+  "new_positions": 33,
+  "new_position_readings": 33,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "nominal_positions": 2917,
+  "nominal_readings": 3465,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "āhate"
+        ],
+        "position_credit": 0,
+        "reading_credit": 0,
+        "evidence": "INHERITED_DIRECT_KASHIKA_PG293",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "āghnāte"
+        ],
+        "position_credit": 0,
+        "reading_credit": 0,
+        "evidence": "INHERITED_DIRECT_KASHIKA_PG293",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "āghnate"
+        ],
+        "position_credit": 0,
+        "reading_credit": 0,
+        "evidence": "INHERITED_DIRECT_KASHIKA_PG293",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "āhase"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "āghnāthe"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "āhadhve"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "āghne"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "āhanvahe"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "āhanmahe"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "āhata"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "āghnātām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "āghnata"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "āhathāḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "āghnāthām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "āhadhvam"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "āghni"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "āhanvahi"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "āhanmahi"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lot",
+        "slot": "3sg",
+        "readings": [
+          "āhatām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lot",
+        "slot": "3du",
+        "readings": [
+          "āghnātām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lot",
+        "slot": "3pl",
+        "readings": [
+          "āghnatām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lot",
+        "slot": "2sg",
+        "readings": [
+          "āhasva"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lot",
+        "slot": "2du",
+        "readings": [
+          "āghnāthām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lot",
+        "slot": "2pl",
+        "readings": [
+          "āhadhvam"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lot",
+        "slot": "1sg",
+        "readings": [
+          "āhanai"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lot",
+        "slot": "1du",
+        "readings": [
+          "āhanāvahai"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lot",
+        "slot": "1pl",
+        "readings": [
+          "āhanāmahai"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "vidhiling",
+        "slot": "3sg",
+        "readings": [
+          "āghnīta"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "vidhiling",
+        "slot": "3du",
+        "readings": [
+          "āghnīyātām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "vidhiling",
+        "slot": "3pl",
+        "readings": [
+          "āghnīran"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "vidhiling",
+        "slot": "2sg",
+        "readings": [
+          "āghnīthāḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "vidhiling",
+        "slot": "2du",
+        "readings": [
+          "āghnīyāthām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "vidhiling",
+        "slot": "2pl",
+        "readings": [
+          "āghnīdhvam"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "vidhiling",
+        "slot": "1sg",
+        "readings": [
+          "āghnīya"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "vidhiling",
+        "slot": "1du",
+        "readings": [
+          "āghnīvahi"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "vidhiling",
+        "slot": "1pl",
+        "readings": [
+          "āghnīmahi"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "voice": "agent",
+        "pada": "A"
+      }
+    ]
+  },
+  "intransitive_domain": {
+    "position_keys_before": 3,
+    "position_keys_after": 36,
+    "selected_target": 90,
+    "remaining_outer_positions": 54
+  },
+  "grammar_executions": [],
+  "overall_grammar_completion_percent": null,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_runtime": "3.12.14",
+    "document_check_status": "PASS"
+  },
+  "open_obligations": [
+    "Six outer lakaras remain unconstructed for this intransitive profile (54 requests).",
+    "Digital spelling collations inherited from PG323/324 remain unresolved; selected words are not free source variants.",
+    "PG327 aorist commentary comparison remains open; no aorist policy is imported here.",
+    "Four primary Unadi 4.105 affix fields and the independent 5.56 marker effect remain open.",
+    "Runtime implementation and general Sanskrit completeness are not established."
+  ]
+}

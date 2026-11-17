@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG327 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG328 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG327 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG328 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4396,6 +4396,17 @@ and [audit](papers/rkf_completed_weil_endpoint/development/SE17_SCOPE.md).
 The positive radius stays 21/25. Eta=1/2, cofinal eta-zero signs,
 critical contractivity, historical five-label closure, K0 and RH
 remain open. No formal or external verification is claimed.
+
+## PG328: intransitive admission before shared ā + han morphology
+
+[PG328](research/panini_grammar/aa_han_intransitive_present_system/README.md)
+adds 33 written finite positions to three inherited intransitive controls,
+completing 36 present-system requests and taking the finite total to 51,278.
+The restricted morphology-reuse proof separately preserves akarmaka and
+own-limb admission histories. Its PG14 native operator lift recovers each
+labelled finite branch under typed zero-specialization, retaining accepted,
+excluded and Open channels. This is written derivation, not grammar runtime
+validation; nominal counts and predecessor bytes are unchanged.
 
 ## Full framework register, preserved
 
