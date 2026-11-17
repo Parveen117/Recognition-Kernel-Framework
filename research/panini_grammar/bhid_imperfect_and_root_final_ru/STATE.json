@@ -1,0 +1,169 @@
+{
+  "schema": "rkf.panini.pg337.state.v1",
+  "author": "Monty",
+  "date": "2026-11-18",
+  "publication_parent": "1ed51255cef4d4d1f52e5f4a58bae592c80b35b7",
+  "baseline": {
+    "commit": "1ed51255cef4d4d1f52e5f4a58bae592c80b35b7",
+    "path": "research/panini_grammar/bhid_periphrastic_future_owned_tas/STATE.json",
+    "finite_positions": 51360
+  },
+  "new_positions": 9,
+  "new_position_readings": 13,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "finite_positions": 51369,
+  "nominal_positions": 2917,
+  "nominal_readings": 3465,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lang",
+        "slot": "3sg",
+        "readings": [
+          "abhinat"
+        ],
+        "owned_pre_readout_view": "a|bhina|d|t",
+        "evidence": "WRITTEN_COMPOSITION_WITH_SOURCE_CONTROLLED_OPERATIONS",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lang",
+        "slot": "3du",
+        "readings": [
+          "abhintām",
+          "abhinttām"
+        ],
+        "owned_pre_readout_view": "a|bhin|d|tām",
+        "evidence": "WRITTEN_COMPOSITION_WITH_SOURCE_CONTROLLED_OPERATIONS",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lang",
+        "slot": "3pl",
+        "readings": [
+          "abhindan"
+        ],
+        "owned_pre_readout_view": "a|bhin|d|ant",
+        "evidence": "WRITTEN_COMPOSITION_WITH_SOURCE_CONTROLLED_OPERATIONS",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lang",
+        "slot": "2sg",
+        "readings": [
+          "abhinaḥ",
+          "abhinat"
+        ],
+        "owned_pre_readout_view": "a|bhina|d|s",
+        "evidence": "WRITTEN_COMPOSITION_WITH_SOURCE_CONTROLLED_OPERATIONS",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lang",
+        "slot": "2du",
+        "readings": [
+          "abhintam",
+          "abhinttam"
+        ],
+        "owned_pre_readout_view": "a|bhin|d|tam",
+        "evidence": "WRITTEN_COMPOSITION_WITH_SOURCE_CONTROLLED_OPERATIONS",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lang",
+        "slot": "2pl",
+        "readings": [
+          "abhinta",
+          "abhintta"
+        ],
+        "owned_pre_readout_view": "a|bhin|d|ta",
+        "evidence": "WRITTEN_COMPOSITION_WITH_SOURCE_CONTROLLED_OPERATIONS",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lang",
+        "slot": "1sg",
+        "readings": [
+          "abhinadam"
+        ],
+        "owned_pre_readout_view": "a|bhina|d|am",
+        "evidence": "WRITTEN_COMPOSITION_WITH_SOURCE_CONTROLLED_OPERATIONS",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lang",
+        "slot": "1du",
+        "readings": [
+          "abhindva"
+        ],
+        "owned_pre_readout_view": "a|bhin|d|vas",
+        "evidence": "WRITTEN_COMPOSITION_WITH_SOURCE_CONTROLLED_OPERATIONS",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lang",
+        "slot": "1pl",
+        "readings": [
+          "abhindma"
+        ],
+        "owned_pre_readout_view": "a|bhin|d|mas",
+        "evidence": "WRITTEN_COMPOSITION_WITH_SOURCE_CONTROLLED_OPERATIONS",
+        "position_credit": 1,
+        "reading_credit": 1
+      }
+    ]
+  },
+  "root_domain": {
+    "selected_P_positions": 63,
+    "remaining_selected_P_positions": 27,
+    "remaining_lakaras": [
+      "lit",
+      "ashirling",
+      "lung"
+    ]
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_runtime": "3.12.14",
+    "document_check_status": "PASS"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Three remaining P panels require prior prose/factored coverage review.",
+    "Kashika 3.2.111 typo origin not collated to printed editions.",
+    "Voiced pause and recitation/accent are outside selected spelling profile.",
+    "Prior Bhatti/commentary/Madhaviya/Unadi obligations remain open."
+  ]
+}

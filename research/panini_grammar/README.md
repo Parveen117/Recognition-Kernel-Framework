@@ -2258,3 +2258,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG336 · Bhid periphrastic future
 
 [PG336](bhid_periphrastic_future_owned_tas/README.md) adds 9 finite positions/readings, cumulative **51,360**. Root, tās and third-person ending histories remain separate through ṭi/s lopa. Nominal totals remain 2,917/3,465; no observation credit. PG14 full-carrier typed recovery is written; grammar runtime/replay deferred.
+
+## PG337 · Bhid imperfect
+
+[PG337](bhid_imperfect_and_root_final_ru/README.md) adds 9 finite positions / 13 readings, cumulative **51,369**. Original ending, infix and root ru/d histories remain distinct. Kaumudī/Bālamanoramā control laṅ against the preserved Kāśikā typo. Full PG14 typed zero-recovery written; grammar execution/replay deferred.

@@ -19,3 +19,12 @@ Monty. Bounded continuation; no claim of continuous elapsed execution.
   Madhaviya/Unadi textual obligations remain open.
 - Python 3.12 direct changed-document/source/count checks only. Sanskrit
   generators, grammar execution, old suites and replay deferred to Claude.
+
+## PG337 · Bhid imperfect with source-qualified root ru/d
+
+- Parent `1ed51255cef4d4d1f52e5f4a58bae592c80b35b7`; [packet](bhid_imperfect_and_root_final_ru/README.md).
+- New 9 finite positions / 13 readings; cumulative **51,369**. Zero new nominal/readings or source observations; nominal 2,917/3,465.
+- Past anadyatana laṅ selected from Kaumudī/Bālamanoramā; raw Kāśikā field incorrectly says luṅ and remains unchanged. Edition/transmission origin open.
+- 6.1.68 deletes ending t/s, not root d; retained sip context licenses 8.2.75 ru/d. Pause abhinaḥ/abhinat are written, the literal controls are external tvam. Three weak dental doublets are separate from this root alternative. Voiced pause is outside selected spelling, not rejected as ungrammatical.
+- Ordinary P coverage 63/90. Next review perfect, benedictive, aorist (27 requests) against all prior written domains; middle and old textual obligations remain open.
+- Python 3.12 direct checks only; generators, grammar execution, old suites and replay deferred.
