@@ -198,3 +198,11 @@ Publication note: read-only Git fetching works in the active execution. The shel
   present credit. Keep prior Bhatti/source/commentary/Uṇādi gaps separate.
 - Direct Python 3.12 document/source checks only; grammar generation and
   execution, predecessor suites and certificate replay remain deferred.
+
+## PG335 · Future domain and substantive prior-coverage correction
+
+- Parent `329911fe5c5d99eabe51735cccef523faf6fdaa7`. [Packet](bhid_future_conditional_and_prior_coverage/README.md).
+- 18 new finite positions/readings; correction −9 positions/−12 readings from PG334 because PG7 already covers the same bhid present profile. Net +9/+6; cumulative **51,351**. Zero new nominal or source-observation credit; nominal 2,917/3,465. Frozen predecessors untouched.
+- PG22 already covers bhid ordinary imperative/optative P/A, including factored optative cells. New ordinary P coverage 45/90; remaining five panels are lang, lit, lut, ashirling and lung (45 selected requests), subject to prior-domain review. PG334’s 81-remaining claim is superseded locally.
+- Future root guṇa/aniṭ and sya are distinct from present śnam. Conditional requires supplied future liṅ-nimitta/kriyātipatti; aṭ is not a prefix. All 18 words are written compositions, no whole-word attestation claimed.
+- Direct Python 3.12 checks only; generators, grammar execution, old suites and replay deferred. Next: the remaining bhid panels or genuine source obligations; search prose/factored registers as well as STATE records before crediting.

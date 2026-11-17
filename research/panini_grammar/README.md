@@ -2250,3 +2250,7 @@ selected readings. The construction distinguishes root, mit-infix and
 ending owners, pit/apit-dependent a-lopa and optional weak dental-cluster
 lopa. Cumulative finite positions: 51,342; nominal totals unchanged. Other
 padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
+
+## PG335 · Bhid futures and prior-domain reconciliation
+
+[PG335](bhid_future_conditional_and_prior_coverage/README.md) adds 18 future/conditional positions/readings, withdrawing PG334’s duplicate 9/12 present credits. Net +9/+6; cumulative **51,351** finite. Nominal totals remain 2,917/3,465. Exact source and PG7/PG22 pins preserve frozen evidence; typed full-carrier recovery is written, runtime checks deferred.

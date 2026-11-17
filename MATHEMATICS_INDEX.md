@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG334 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG335 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG334 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG335 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4482,3 +4482,7 @@ The navigation integrity test reads this current routing layer together with the
 Native object is not a chosen representation. A transition is not automatically physical time. A normal-form quotient is not full history equality. Native dagger is not automatically the transpose of a coordinate action. A finite PASS is not a universal proof. An explicit theorem or adapter is required to transport a native result to a classical or physical conclusion.
 
 Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in force. Consolidation and successful code execution do not close those application-specific obligations.
+
+## PG335 · Bhid future ownership and prior coverage
+
+[New panels and reconciliation](research/panini_grammar/bhid_future_conditional_and_prior_coverage/README.md) construct 18 future/conditional positions/readings and withdraw 9/12 duplicate present credits. Net +9/+6; cumulative finite **51,351**. Root guṇa, aniṭ, sya and conditional aṭ retain separate owners on PG14’s full carrier, with typed zero recovery. No grammar execution or certificate replay.
