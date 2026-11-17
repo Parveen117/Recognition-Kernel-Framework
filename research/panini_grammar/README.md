@@ -2262,3 +2262,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG337 · Bhid imperfect
 
 [PG337](bhid_imperfect_and_root_final_ru/README.md) adds 9 finite positions / 13 readings, cumulative **51,369**. Original ending, infix and root ru/d histories remain distinct. Kaumudī/Bālamanoramā control laṅ against the preserved Kāśikā typo. Full PG14 typed zero-recovery written; grammar execution/replay deferred.
+
+## PG338 · Bhid benedictive
+
+[PG338](bhid_benedictive_and_owned_two_s/README.md) adds 9 finite positions/readings, cumulative **51,378**. Root i is retained under P kit; yāsuṭ and suṭ s histories stay distinct. Full PG14 typed recovery is written; runtime/replay deferred. Nominal totals remain 2,917/3,465.

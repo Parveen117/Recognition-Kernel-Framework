@@ -28,3 +28,10 @@ Monty. Bounded continuation; no claim of continuous elapsed execution.
 - 6.1.68 deletes ending t/s, not root d; retained sip context licenses 8.2.75 ru/d. Pause abhinaḥ/abhinat are written, the literal controls are external tvam. Three weak dental doublets are separate from this root alternative. Voiced pause is outside selected spelling, not rejected as ungrammatical.
 - Ordinary P coverage 63/90. Next review perfect, benedictive, aorist (27 requests) against all prior written domains; middle and old textual obligations remain open.
 - Python 3.12 direct checks only; generators, grammar execution, old suites and replay deferred.
+
+## PG338 · Bhid benedictive
+
+- Parent `b11902366970b4eb17cf5ccab597dc6f63ca6c0a`; [packet](bhid_benedictive_and_owned_two_s/README.md). New 9 finite positions/readings, cumulative **51,378**. Zero new nominal/observation credits; nominal 2,917/3,465.
+- All whole words written. P kit overrides ordinary ṅit; root i retained; y-initial val premise fails, so no iṭ even before lexical aniṭ fallback. PG20 source-qualified two-s schedule reused, not a general new scheduler. Three st words retain suṭ s rather than yāsuṭ s.
+- Blessing loṭ and ordinary optative remain old domains. New ordinary P coverage 72/90; next perfect/aorist (18 requests), subject to prior prose/factored review. Independent outer middle and prior source gaps stay open.
+- Direct Python 3.12 document/source/count checks only; generators, grammar execution, old suites and replay deferred.

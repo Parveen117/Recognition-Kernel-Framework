@@ -1,0 +1,164 @@
+{
+  "schema": "rkf.panini.pg338.state.v1",
+  "author": "Monty",
+  "date": "2026-11-18",
+  "publication_parent": "b11902366970b4eb17cf5ccab597dc6f63ca6c0a",
+  "baseline": {
+    "commit": "b11902366970b4eb17cf5ccab597dc6f63ca6c0a",
+    "path": "research/panini_grammar/bhid_imperfect_and_root_final_ru/STATE.json",
+    "finite_positions": 51369
+  },
+  "new_positions": 9,
+  "new_position_readings": 9,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "finite_positions": 51378,
+  "nominal_positions": 2917,
+  "nominal_readings": 3465,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "bhidyāt"
+        ],
+        "owned_pre_readout_view": "bhid|yās|s_sut|t",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "bhidyāstām"
+        ],
+        "owned_pre_readout_view": "bhid|yās|s_sut|tām",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "bhidyāsuḥ"
+        ],
+        "owned_pre_readout_view": "bhid|yās|us",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "bhidyāḥ"
+        ],
+        "owned_pre_readout_view": "bhid|yās|s_ending",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "bhidyāstam"
+        ],
+        "owned_pre_readout_view": "bhid|yās|s_sut|tam",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "bhidyāsta"
+        ],
+        "owned_pre_readout_view": "bhid|yās|s_sut|ta",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "bhidyāsam"
+        ],
+        "owned_pre_readout_view": "bhid|yās|am",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "bhidyāsva"
+        ],
+        "owned_pre_readout_view": "bhid|yās|va",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "bhidyāsma"
+        ],
+        "owned_pre_readout_view": "bhid|yās|ma",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      }
+    ]
+  },
+  "root_domain": {
+    "selected_P_positions": 72,
+    "remaining_selected_P_positions": 18,
+    "remaining_lakaras": [
+      "lit",
+      "lung"
+    ]
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_runtime": "3.12.14",
+    "document_check_status": "PASS"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Perfect and aorist require source/old-domain review, not automatic credit.",
+    "Independent middle outer domains not constructed.",
+    "PG337 raw source typo origin and earlier Bhatti/commentary/Madhaviya/Unadi gaps remain open.",
+    "No universal Tripadi resolver or exhaustive pronunciation inventory claimed."
+  ]
+}

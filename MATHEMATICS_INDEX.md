@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG337 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG338 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG337 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG338 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4494,3 +4494,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG337 · Bhid imperfect and retained ending context
 
 [Owned imperfect](research/panini_grammar/bhid_imperfect_and_root_final_ru/README.md) adds 9 positions / 13 readings, cumulative finite **51,369**. The source-qualified ru/d root alternatives retain deleted sip context and separate complementary channels on PG14’s full carrier, with typed zero recovery. Grammar execution/replay deferred.
+
+## PG338 · Bhid benedictive and two owned s sounds
+
+[New benedictive](research/panini_grammar/bhid_benedictive_and_owned_two_s/README.md) supplies 9 positions/readings, cumulative **51,378**. Source-qualified P kit and the PG20 deletion policy act on the full PG14 carrier with retained complementary channels and typed zero recovery. Grammar execution/replay deferred.
