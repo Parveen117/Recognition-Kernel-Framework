@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG332 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG333 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG332 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG333 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4450,6 +4450,16 @@ full-history extension retains differently typed attestation/grammar/context
 components and their complementary channels under zero-specialization.
 Two source observations add no finite/nominal positions. No universal
 corpus absence, critical-edition agreement or runtime verification is claimed.
+
+## PG333: purpose ellipsis and owned nonfinite morphology
+
+[PG333](research/panini_grammar/bhettum_purpose_ellipsis_and_owned_infinitive/README.md)
+uses the full Kaumudī purpose alternative for two supplied semantic/control
+graphs and an explicit bhid + tumun word construction. The PG14 full-history
+adapter preserves source policy, role/control edges and root/suffix owners
+under typed zero-specialization. Word-shape evidence does not select the
+literary interpretation or prove a universal ellipsis resolver. No finite/
+nominal positions or readings are re-credited; runtime work remains deferred.
 
 ## Full framework register, preserved
 

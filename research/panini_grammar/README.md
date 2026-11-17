@@ -2232,3 +2232,12 @@ source-policy records distinguish attestation, pada route and contextual
 fit. GRETIL/Ambuda lineage is not counted as independent witnesses; the
 Bhaṭṭi locator remains uncorroborated in the checked snapshot. No finite
 or nominal positions/readings are added; finite total remains 51,333.
+
+## PG333 · Explicit purpose alternative and bhettum construction
+
+[PG333](bhettum_purpose_ellipsis_and_owned_infinitive/README.md) expands the
+previous purpose hint using the exact full Siddhāntakaumudī 1.3.28 field.
+Two source-qualified purpose graphs and the written bhid→bhed→bhettum
+construction retain object recipient, actor control and root/suffix owners.
+The reconstructed clauses are not new printed poem readings. No finite or
+nominal position/readings are added; the finite total remains 51,333.

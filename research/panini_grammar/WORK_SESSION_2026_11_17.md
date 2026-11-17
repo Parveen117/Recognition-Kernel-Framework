@@ -160,3 +160,20 @@ Publication note: read-only Git fetching works in the active execution. The shel
   obligations. Do not count the same mirrored verse as new finite positions.
 - Only direct Python 3.12 document/source checks; grammar execution,
   generators, predecessor suites and certificate replay stay deferred.
+
+## PG333 · Purpose alternative continuation
+
+- Parent: `81aeef8502fdb9014bfd65af29ae86e2da55ee21`.
+- [Purpose ellipsis and owned infinitive](bhettum_purpose_ellipsis_and_owned_infinitive/README.md):
+  **two supplied source-conditioned analyses and one explicit nonfinite word
+  derivation**, zero new finite/nominal positions/readings or observations.
+  Totals remain **51,333 finite**, 2,917 nominal positions / 3,465 readings.
+- Full pinned Kaumudī 1.3.28 explicitly gives the tumun ellipsis alternative.
+  Purpose/role/control guards make the two written reconstructions conditional;
+  do not call them newly found printed sentences. Bhid aniṭ, 7.3.86 upadhā
+  guṇa and 8.4.55 give bhettum, independently printed by Kāśikā.
+- The PG330 purpose-hint obligation is closed only on these local supplied
+  frames. Primary Bhaṭṭi locator, authorial choice, root-address mapping,
+  broader ellipsis domains and prior commentary/printed/Uṇādi gaps stay open.
+- Direct Python 3.12 document/source checks only. Sanskrit generators,
+  grammar execution, old suites and certificate replay remain deferred.

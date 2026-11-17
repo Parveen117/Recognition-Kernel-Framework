@@ -1,0 +1,161 @@
+{
+  "schema": "rkf.panini.pg333.relation.v1",
+  "analyses": [
+    {
+      "id": "KIRATA_BHETTUM_PURPOSE",
+      "source_policy": "SIDDHANTAKAUMUDI_1_3_28_TUMUN_ELLIPSIS",
+      "original_finite": "ājaghne",
+      "context_locator": "Kiratarjuniya 17.63 as established at PG332",
+      "analytical_expansion": "viṣamavilocanasya vakṣaḥ [bhettum] ājaghne",
+      "supplied_words": [
+        "bhettum"
+      ],
+      "full_expansion_printed_in_source": false,
+      "predicates": [
+        "HAN_MATRIX",
+        "BHID_PURPOSE"
+      ],
+      "role_edges": [
+        {
+          "nominal": "vakshas",
+          "predicate": "BHID_PURPOSE",
+          "role": "karman",
+          "owner": "VISAMAVILOCANA"
+        }
+      ],
+      "purpose_edge": {
+        "matrix": "HAN_MATRIX",
+        "purpose": "BHID_PURPOSE",
+        "actor_coreference": "SUPPLIED_SAME_ACTOR",
+        "intended_later_relative_to_matrix": true
+      },
+      "han_karman_edges": [],
+      "positive_akarmaka_policy": "Source-selected tumun ellipsis; do not infer from missing edge alone.",
+      "pada_route": "1.3.28_AKARMAKA",
+      "status": "WRITTEN_LOCAL_ANALYSIS_COMPLETE_UNDER_SUPPLIED_GUARDS",
+      "finite_position_credit": 0
+    },
+    {
+      "id": "BHATTI_BHETTUM_PURPOSE",
+      "source_policy": "SIDDHANTAKAUMUDI_1_3_28_TUMUN_ELLIPSIS",
+      "original_finite": "āhadhvam",
+      "context_locator": "Commentator quotation; primary poem locator remains open",
+      "analytical_expansion": "raghūttamam [bhettum] mā | āhadhvam",
+      "supplied_words": [
+        "bhettum"
+      ],
+      "full_expansion_printed_in_source": false,
+      "predicates": [
+        "HAN_MATRIX",
+        "BHID_PURPOSE"
+      ],
+      "role_edges": [
+        {
+          "nominal": "raghuttama",
+          "predicate": "BHID_PURPOSE",
+          "role": "karman"
+        }
+      ],
+      "purpose_edge": {
+        "matrix": "HAN_MATRIX",
+        "purpose": "BHID_PURPOSE",
+        "actor_coreference": "SUPPLIED_SAME_PLURAL_ACTORS",
+        "intended_later_relative_to_matrix": true
+      },
+      "han_karman_edges": [],
+      "positive_akarmaka_policy": "Source-selected tumun ellipsis; no new general transitive-middle permission.",
+      "pada_route": "1.3.28_AKARMAKA",
+      "status": "WRITTEN_LOCAL_ANALYSIS_COMPLETE_WITH_PG331_PROHIBITIVE_GUARDS",
+      "finite_position_credit": 0
+    }
+  ],
+  "nonfinite_derivation": {
+    "id": "BHID_TUMUN_BHETTUM",
+    "root": "bhid",
+    "lexical_identity": "Kashika 7.2.10 bhid among anit dental-final roots; 3.1.78 bhinatti control",
+    "numeric_dhatupatha_address": null,
+    "original_root_owned_sounds": "bhid",
+    "teaching_suffix": "tumun",
+    "visible_suffix": "tum",
+    "suffix_status": "ardhadhatuka_not_ting_not_shit",
+    "it_augmentation": false,
+    "events": [
+      {
+        "id": "PURPOSE_TUMUN",
+        "rule": "3.3.10",
+        "input": "bhid",
+        "output": "bhid|tumun",
+        "guard": "Supplied matrix action is for the prospective bhid action; selected tumun route, not every future complement."
+      },
+      {
+        "id": "ADDRESSED_MARKER_CLEARANCE",
+        "rule": "1.3.2/3/9",
+        "input": "bhid|tumun_teaching_record",
+        "output": "bhid|tum",
+        "guard": "Preserve the tumun suffix identity and its addressed teaching-marker metadata; first structural u of tum remains."
+      },
+      {
+        "id": "ARDHADHATUKA",
+        "rule": "3.4.114",
+        "input": "bhid|tum",
+        "output": "bhid|tum[ardha]",
+        "guard": "tumun is neither ting nor shit."
+      },
+      {
+        "id": "NO_IT",
+        "rule": "7.2.10",
+        "input": "bhid|tum[ardha]",
+        "output": "bhid|tum[anit]",
+        "guard": "The cited original bhid is the anit lexical root; not a borrowed han/vadha property."
+      },
+      {
+        "id": "LAGHUPADHA_GUNA",
+        "rule": "7.3.84/86",
+        "input": "bhid|tum",
+        "output": "bhed|tum",
+        "guard": "Short penultimate root i, ardhadhatuka, no k/ngit blocker; no present shnam inserted."
+      },
+      {
+        "id": "CHAR_BEFORE_T",
+        "rule": "8.4.55",
+        "input": "bhed|tum",
+        "output": "bhet|tum",
+        "guard": "root-owned d before actual suffix t, a khar sound."
+      },
+      {
+        "id": "NONFINITE_WORD_OBSERVATION",
+        "rule": "owned concatenation",
+        "input": "bhet|tum",
+        "output": "bhettum",
+        "guard": "A completed nonfinite word, not a finite person or nominal case cell."
+      }
+    ],
+    "word": "bhettum",
+    "direct_whole_word_control": {
+      "work": "kashika",
+      "field": "84055",
+      "word": "भेत्तुम्"
+    },
+    "finite_position_credit": 0,
+    "nominal_position_credit": 0
+  },
+  "output_components": [
+    "source-alternative status",
+    "purpose/role/control graph",
+    "nonfinite owned-word history",
+    "matrix pada/morphology status"
+  ],
+  "excluded": [
+    "inventing prapya and bhettum together in the same selected alternative",
+    "transferring an object edge with no source-selected semantic policy",
+    "inserting present shnam into the tumun derivation",
+    "copying han/vadha it decisions to bhid",
+    "treating the supplied infinitive as printed in the poem"
+  ],
+  "open": [
+    "unknown prospective-purpose or actor-control premises",
+    "unspecified matrix pada/mood/source policy",
+    "primary Bhatti locator and authorial interpretation"
+  ],
+  "native_adapter": "PURPOSE_DERIVATION_AND_NATIVE_RECOVERY.md"
+}
