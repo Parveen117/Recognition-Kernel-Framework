@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG330 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG331 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG330 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG331 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4429,6 +4429,17 @@ complete morphology. The PG14 full-history operator extension proves typed
 zero-compatibility and recovery on this finite analysis domain. It supplies
 neither a universal ellipsis resolver nor independent poem collation/runtime
 validation; finite/nominal counts are unchanged.
+
+## PG331: prohibitive luṅ, retained prefix and blocked augment
+
+[PG331](research/panini_grammar/aa_han_bhatti_prohibitive_and_blocked_augment/README.md)
+completes one source-conditioned second-plural request with two selected
+readings. A positive māṅ/no-sma frame selects luṅ and blocks past aṭ while
+retaining prefix ā; the native history records the blocked event rather
+than inventing insertion/lopa. Typed zero-recovery preserves this distinction
+from an ordinary-past surface collision and the external-phonetic readout.
+Cumulative finite positions: 51,333. Full poem collation, commentary-wide
+agreement and runtime implementation are not asserted.
 
 ## Full framework register, preserved
 

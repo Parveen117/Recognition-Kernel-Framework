@@ -2212,3 +2212,13 @@ to supplied prāpya, an actor-owned chest, a rejected split and unresolved
 prohibitive morphology. The native extension retains those typed semantic
 edges and status components under zero-reading. No finite/nominal position,
 reading or observation credit is added; cumulative finite total stays 51,332.
+
+## PG331 · Bhaṭṭi prohibition and blocked past augment
+
+[PG331](aa_han_bhatti_prohibitive_and_blocked_augment/README.md) completes
+one selected māṅ/no-sma second-plural ā + han request under PG330's
+prāpya/avivakṣā policy. One new position has two readings, cumulative
+51,333 finite positions. The construction distinguishes prefix ā from
+blocked past aṭ and finite morphology from external anusvāra. The vadh
+alternative remains conditional on PG327's explicit 2pl commentary policy;
+poem collation and authorial interpretation remain open.

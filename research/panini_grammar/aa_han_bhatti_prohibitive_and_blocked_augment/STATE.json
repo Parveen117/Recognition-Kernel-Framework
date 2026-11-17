@@ -1,0 +1,60 @@
+{
+  "schema": "rkf.panini.pg331.state.v1",
+  "author": "Monty",
+  "date": "2026-11-17",
+  "publication_parent": "5d3c93356184b50dd1540225fc7e40ec21df5905",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "5d3c93356184b50dd1540225fc7e40ec21df5905",
+    "path": "research/panini_grammar/aa_han_literary_objects_and_predicate_binding/STATE.json",
+    "bytes": 1793,
+    "sha256": "0e8bac2e95c0a0c6b4b6e79252ab4085770e18ccff3002e2ae668b0d286b6a75",
+    "git_blob_sha": "86db1a5151dd106235d68c938e54f181432c71a9"
+  },
+  "finite_positions": 51333,
+  "new_positions": 1,
+  "new_position_readings": 2,
+  "new_nominal_positions": 0,
+  "nominal_positions": 2917,
+  "nominal_readings": 3465,
+  "new_source_observations": 0,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "AA_HAN_BHATTI_PRAPYA_MANG_A",
+        "lakara": "lung",
+        "construction": "mang_prohibitive_no_sma",
+        "slot": "2pl",
+        "readings": [
+          "āhadhvam",
+          "āvadhiḍhvam"
+        ],
+        "position_credit": 1,
+        "reading_credit": 2,
+        "evidence": [
+          "SOURCE_QUOTED_NO_VADHA_WORD_WITH_WRITTEN_PROHIBITIVE_DERIVATION",
+          "WRITTEN_OPTIONAL_VADHA_PROHIBITIVE_COMPOSITION"
+        ],
+        "source_policy": "BALAMANORAMA_PRAPYA_WITH_AVIVAKSHA_AND_PG327_SELECTED_VADHA_2PL_POLICY"
+      }
+    ]
+  },
+  "closed_local_obligation": "PG330 BHATTI_PRAPYA prohibitive finite-word/quoted-order morphology under its supplied role policy",
+  "grammar_executions": [],
+  "overall_grammar_completion_percent": null,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_runtime": "3.12.14",
+    "document_check_status": "PASS"
+  },
+  "open_obligations": [
+    "Exact poem verse/edition locator and independent primary-poem collation remain unverified.",
+    "The source-conditioned prapya parse is not proven authorial intent.",
+    "Vadha 2pl Nyasa/Balamanorama comparison remains open; no additional dental variant inferred.",
+    "Other prohibitive persons, mang+sma and non-ngit ma are not constructed here.",
+    "Printed Madhaviya spelling collations, four Unadi 4.105 fields and independent 5.56 marker effect remain open."
+  ]
+}

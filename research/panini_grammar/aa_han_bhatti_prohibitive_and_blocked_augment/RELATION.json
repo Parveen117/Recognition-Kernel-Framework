@@ -1,0 +1,97 @@
+{
+  "schema": "rkf.panini.pg331.relation.v1",
+  "frame": {
+    "root": "han",
+    "root_address": "02.0002",
+    "preverbs": [
+      "ā"
+    ],
+    "voice": "agent",
+    "agreement_controller": "plural addressees",
+    "person": 2,
+    "number": "plural",
+    "mang": true,
+    "sma": false,
+    "selected_role_policy": "PG330 BHATTI_PRAPYA",
+    "predicates": [
+      "PRAPYA",
+      "HAN"
+    ],
+    "object_bindings": [
+      {
+        "nominal": "raghuttama",
+        "predicate": "PRAPYA",
+        "role": "karman"
+      }
+    ],
+    "han_transitivity": "source-selected akarmaka by avivaksha",
+    "pada": "A",
+    "supplied_word": "prāpya"
+  },
+  "rows": [
+    {
+      "profile": "AA_HAN_BHATTI_PRAPYA_MANG_A",
+      "lakara": "lung",
+      "construction": "mang_prohibitive_no_sma",
+      "slot": "2pl",
+      "readings": [
+        "āhadhvam",
+        "āvadhiḍhvam"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": [
+        "SOURCE_QUOTED_NO_VADHA_WORD_WITH_WRITTEN_PROHIBITIVE_DERIVATION",
+        "WRITTEN_OPTIONAL_VADHA_PROHIBITIVE_COMPOSITION"
+      ],
+      "source_policy": "BALAMANORAMA_PRAPYA_WITH_AVIVAKSHA_AND_PG327_SELECTED_VADHA_2PL_POLICY"
+    }
+  ],
+  "morphology": {
+    "lakara_rule": "3.3.175",
+    "augment_prohibition": "6.4.74",
+    "past_augment_inserted": false,
+    "prefix_aa_retained": true,
+    "branches": [
+      {
+        "id": "RETAINED_HAN_KIT_SIC",
+        "owned_seam": "ā_prefix|ha_root|sic_lopa|dhvam_ending",
+        "finite_word": "āhadhvam",
+        "quoted_order_samhita": "āhadhvaṃ mā raghūttamam"
+      },
+      {
+        "id": "OPTIONAL_VADHA_IT_INNER_SIC",
+        "owned_seam": "ā_prefix|vadh_root|i_of_sic|sic_lopa|ḍhvam_selected_ending",
+        "finite_word": "āvadhiḍhvam",
+        "quoted_order_samhita": "āvadhiḍhvaṃ mā raghūttamam",
+        "source_policy": "BAPAT_PRINT_WITH_BALAMANORAMA_AORIST_IC_FINAL_ANGA_ACCOUNT",
+        "literal_bhatti_quote": false
+      }
+    ]
+  },
+  "supersedes": {
+    "packet": "PG330",
+    "record": "BHATTI_PRAPYA",
+    "component": "full_derivation_status",
+    "old": "OPEN_PROHIBITIVE_FRAME",
+    "new": "WRITTEN_LOCAL_REQUEST_COMPLETE_UNDER_DECLARED_POLICIES",
+    "retained_obligations": [
+      "poem/edition locator",
+      "authorial parse choice",
+      "inherited aorist 2pl commentary comparison"
+    ]
+  },
+  "excluded": [
+    "ordinary-past aṭ insertion in this request",
+    "removal of lexical ā prefix by 6.4.74",
+    "mā without positive māṅ identification",
+    "māṅ+sma 3.3.176 domain",
+    "other-head direct-object analysis without supplied prāpya/avivaksha",
+    "passive/bhava, karmakartri and derived bases"
+  ],
+  "open": [
+    "unknown parse/policy or addressee agreement",
+    "unspecified vadha-branch 2pl source policy"
+  ],
+  "native_adapter": "PROHIBITIVE_DERIVATION_AND_NATIVE_RECOVERY.md"
+}

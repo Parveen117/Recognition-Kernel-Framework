@@ -113,3 +113,27 @@ Publication note: read-only Git fetching works in the active execution. The shel
   accusative anywhere in a sentence into every predicate's karman.
 - Direct Python 3.12 source/document checks only; see result JSON. No
   grammar resolver execution, generators, old suites or certificate replay.
+
+## PG331 continuation and bounded-pass handoff
+
+- Parent: `5d3c93356184b50dd1540225fc7e40ec21df5905`.
+- [Bhaṭṭi prohibitive](aa_han_bhatti_prohibitive_and_blocked_augment/README.md):
+  **one new finite request / two readings**, zero nominal positions and
+  source observations. Cumulative finite **51,333**. Nominal totals remain
+  2,917 positions / 3,465 readings.
+- PG330's local prohibitive-morphology obligation is completed under its
+  selected prāpya/avivakṣā analysis, with prefix ā retained and past aṭ
+  blocked by 6.4.74. The no-vadha quotation and composed vadh alternative
+  remain separate evidence classes. Poem locator/edition and interpretation
+  are still open, as are the Nyāsa/Bālamanoramā 2pl comparison and prior
+  printed-source/Uṇādi obligations.
+- Actual gain since PG323 across PG324–PG331: **130 finite positions and
+  148 readings**, plus seven separately typed PG330 analysis records; no
+  nominal-position gain. This is actual authored work, not evidence that
+  the requested time window was spent in uninterrupted execution.
+- All stage checks were direct Python 3.12 document/source checks. Grammar
+  execution, generators, old suites and certificate replay remain deferred.
+- Next substantive work: independently locate/collate the quoted poem lines;
+  expand a genuinely admitted prohibitive domain only after its semantic
+  guards are supplied, or resolve existing printed/commentarial/Uṇādi gaps.
+  Do not restart the completed selected 90-key families or re-credit them.
