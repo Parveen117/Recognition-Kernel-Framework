@@ -15,7 +15,8 @@ are continuation opportunities, not evidence of continuous elapsed work.
   twelve written compositions and one unassigned digital-source observation.
   The selected own-limb ā + han domain advances from 48/90 to 66/90.
 - [PG325](aa_han_own_limb_perfect_and_printed_table/README.md): eight new perfect positions/readings, using the visually read printed word table with separately inherited semantic admission. The own-limb grid is **74/90**.
-- Cumulative written finite total: **51,229**. No nominal positions added.
+- [PG326](aa_han_own_limb_benedictive_completion/README.md): eight new blessing positions/readings, one direct new word-shape control and seven compositions. The bounded own-limb grid is **82/90**.
+- Cumulative written finite total: **51,237**; active-pass gain **34** finite positions/readings. No nominal positions added.
 - The changed-document/source check passed under **Python 3.12.14**.
   Grammar executions, generators and certificate replay remain deferred.
 - Root mathematical navigation now also routes PG276–PG323 through the
@@ -31,10 +32,10 @@ are continuation opportunities, not evidence of continuous elapsed work.
    URL: https://www.ebharatisampat.in/pdfs/ebharati-pdf-1617860011A-guide-to-sanskrit-verbs-kriya-pada-prakasa-1886.pdf
    Admit word-shape controls separately from the inherited own-limb semantic
    licence. Retain dental dh in ājaghnidhve on the stated iṭ-origin query.
-2. Complete the eight uncredited own-limb āśīrliṅ persons, using the
+2. **Completed at PG326:** the eight formerly uncredited own-limb āśīrliṅ persons, using the
    pinned PG20 A-ending construction and the exact Mādhavīya vadh/iṭ controls.
    Ordinary optative s-lopa must not be imported into this ārdhadhātuka panel.
-3. Review the eight uncredited aorist persons. Keep optional vadh versus
+3. Review the eight uncredited aorist persons. The digital strings **आवधिषिढ्वम्** in the vadh series and the late **आहन्वहि** in the no-vadh series need targeted collation; do not automatically delete or assign their extra i/n as grammatical alternatives. Keep optional vadh versus
    han/sic history, the actual iṭ/kit guards, and literal source problems
    separate. Do not claim 90/90 until those cells are actually written.
 4. Then advance a substantive source obligation or additional clearly

@@ -1,0 +1,132 @@
+{
+  "schema": "rkf.panini.pg326.state.v1",
+  "author": "Monty",
+  "date": "2026-11-17",
+  "publication_parent": "8a32d6459b5645c0b4b09abd1bd205c146ecd54e",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "8a32d6459b5645c0b4b09abd1bd205c146ecd54e",
+    "path": "research/panini_grammar/aa_han_own_limb_perfect_and_printed_table/STATE.json",
+    "bytes": 3956,
+    "sha256": "fc95edac01e35ed3e0da77d30d9473b59e47a8e48ff949dbe168de2d1c40e367",
+    "git_blob_sha": "4d0199ae8084244da9fb98c9da811d50bb389597"
+  },
+  "finite_positions": 51237,
+  "new_positions": 8,
+  "new_position_readings": 8,
+  "new_written_table_readings": 8,
+  "retained_path_count": 8,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "literal_cell_controls": 1,
+  "written_composed_cells": 7,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "āvadhiṣīyāstām"
+        ],
+        "position_credit": 1,
+        "evidence": "DIRECT_MADHAVIYA_WORD_SHAPE"
+      },
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "āvadhiṣīran"
+        ],
+        "position_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION"
+      },
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "āvadhiṣīṣṭhāḥ"
+        ],
+        "position_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION"
+      },
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "āvadhiṣīyāsthām"
+        ],
+        "position_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION"
+      },
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "āvadhiṣīdhvam"
+        ],
+        "position_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION"
+      },
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "āvadhiṣīya"
+        ],
+        "position_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION"
+      },
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "āvadhiṣīvahi"
+        ],
+        "position_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION"
+      },
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "āvadhiṣīmahi"
+        ],
+        "position_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION"
+      }
+    ]
+  },
+  "own_limb_domain": {
+    "position_keys_before": 74,
+    "new_position_keys": 8,
+    "position_keys_after": 82,
+    "declared_target": 90,
+    "remaining": {
+      "lung": 8
+    }
+  },
+  "grammar_executions": [],
+  "overall_grammar_completion_percent": null,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Current rows, direct source anchor, changed field decisions, constructor interface, inherited-key separation and table/JSON/count/Unicode/navigation agreement only."
+  },
+  "open_obligations": [
+    "Eight uncredited own-limb aorist persons, retaining optional vadh versus han/sic histories.",
+    "Aorist digital strings including āvadhiṣiḍhvam and a late āhanvahi need their own owned-ending/source collation; this blessing packet does not select an aorist emendation.",
+    "PG324’s unassigned loṭ string and inherited present spellings remain source obligations.",
+    "Four primary Uṇādi fields and independent 5.56 marker effect remain open."
+  ]
+}
