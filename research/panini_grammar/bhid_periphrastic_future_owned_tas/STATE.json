@@ -1,0 +1,165 @@
+{
+  "schema": "rkf.panini.pg336.state.v1",
+  "author": "Monty",
+  "date": "2026-11-18",
+  "publication_parent": "a4190239238b91328d8f096a4626bd33e6aeea73",
+  "baseline": {
+    "commit": "a4190239238b91328d8f096a4626bd33e6aeea73",
+    "path": "research/panini_grammar/bhid_future_conditional_and_prior_coverage/STATE.json",
+    "finite_positions": 51351
+  },
+  "new_positions": 9,
+  "new_position_readings": 9,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "finite_positions": 51360,
+  "nominal_positions": 2917,
+  "nominal_readings": 3465,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "bhettā"
+        ],
+        "owned_pre_readout_view": "bhed|t|ā",
+        "evidence": "DIRECT_KASHIKA_WORD",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "bhettārau"
+        ],
+        "owned_pre_readout_view": "bhed|tās|rau",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "bhettāraḥ"
+        ],
+        "owned_pre_readout_view": "bhed|tās|ras",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "bhettāsi"
+        ],
+        "owned_pre_readout_view": "bhed|tās|si",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "bhettāsthaḥ"
+        ],
+        "owned_pre_readout_view": "bhed|tās|thas",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "bhettāstha"
+        ],
+        "owned_pre_readout_view": "bhed|tās|tha",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "bhettāsmi"
+        ],
+        "owned_pre_readout_view": "bhed|tās|mi",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "bhettāsvaḥ"
+        ],
+        "owned_pre_readout_view": "bhed|tās|vas",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "bhettāsmaḥ"
+        ],
+        "owned_pre_readout_view": "bhed|tās|mas",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      }
+    ]
+  },
+  "root_domain": {
+    "selected_P_positions": 54,
+    "remaining_selected_P_positions": 36,
+    "remaining_lakaras": [
+      "lang",
+      "lit",
+      "ashirling",
+      "lung"
+    ]
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_runtime": "3.12.14",
+    "document_check_status": "PASS"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Four remaining P panels subject to prior prose/factored coverage review.",
+    "Independent outer middle domains and other semantic luṭ permissions not constructed.",
+    "Prior Bhatti/commentary/Madhaviya/Unadi source obligations remain open."
+  ]
+}

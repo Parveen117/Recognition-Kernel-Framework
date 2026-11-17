@@ -2254,3 +2254,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG335 · Bhid futures and prior-domain reconciliation
 
 [PG335](bhid_future_conditional_and_prior_coverage/README.md) adds 18 future/conditional positions/readings, withdrawing PG334’s duplicate 9/12 present credits. Net +9/+6; cumulative **51,351** finite. Nominal totals remain 2,917/3,465. Exact source and PG7/PG22 pins preserve frozen evidence; typed full-carrier recovery is written, runtime checks deferred.
+
+## PG336 · Bhid periphrastic future
+
+[PG336](bhid_periphrastic_future_owned_tas/README.md) adds 9 finite positions/readings, cumulative **51,360**. Root, tās and third-person ending histories remain separate through ṭi/s lopa. Nominal totals remain 2,917/3,465; no observation credit. PG14 full-carrier typed recovery is written; grammar runtime/replay deferred.
