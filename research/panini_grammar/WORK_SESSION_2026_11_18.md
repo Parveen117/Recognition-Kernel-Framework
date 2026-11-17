@@ -43,3 +43,11 @@ Monty. Bounded continuation; no claim of continuous elapsed execution.
 - Require supplied past-anadyatana parokṣa, including separate first-person evidence. Other liṭ contextual permissions are not constructed.
 - Ordinary P 81/90; next aorist nine requests with independent prior/source review. Middle and earlier source obligations remain open.
 - Python 3.12 direct document/source/count checks only; generators, grammar execution, old suites and replay deferred.
+
+## PG340 · Bhid aorist and selected closure
+
+- Parent `bfae3eeb4a2f16cbbd2f9a528ddeb7cf56deb600`; [packet](bhid_aorist_alternatives_and_selected_grid/README.md). New 9 finite positions / 18 readings, cumulative **51,396**. No nominal/source-observation additions; nominal 2,917/3,465.
+- 3.1.57 explicitly gives abhidat/abhaitsīt for irit bhid in P. Preserve optional aṅ and retained sic at all nine requests. No ksa: d is not śal. Sic vṛddhi differs from aṅ kit; short pre-sic iṭ is absent, long ending īṭ exists at single t/s. Two literal words, sixteen written words.
+- Selected residual-P grid is 90 keys/110 readings. Re-observe old PG7/PG22 domains without new credits; PG335’s duplicate correction remains. From the PG333 baseline this bounded continuation now adds **63 unique finite positions / 76 readings net**, with zero nominal additions, across PG334–PG340 (PG334’s 9/12 withdrawn). No claim of continuous executed hours.
+- Next substantive frontier: independently admitted outer middle bhid domains, or actual source obligations. Check old prose/factored grids first. Do not re-open this selected P grid merely to recount it. Earlier Bhatti locator, PG337 typo origin, commentary/Madhaviya strings and four Uṇādi fields stay open.
+- Python 3.12 direct checks only; grammar generators/execution, old suites and certificate replay deferred. This is a bounded pass, not daily ongoing work.

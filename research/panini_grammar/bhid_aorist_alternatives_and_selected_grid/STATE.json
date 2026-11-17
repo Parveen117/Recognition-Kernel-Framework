@@ -1,0 +1,200 @@
+{
+  "schema": "rkf.panini.pg340.state.v1",
+  "author": "Monty",
+  "date": "2026-11-18",
+  "publication_parent": "bfae3eeb4a2f16cbbd2f9a528ddeb7cf56deb600",
+  "baseline": {
+    "commit": "bfae3eeb4a2f16cbbd2f9a528ddeb7cf56deb600",
+    "path": "research/panini_grammar/bhid_perfect_and_boundary_specific_it/STATE.json",
+    "finite_positions": 51387
+  },
+  "new_positions": 9,
+  "new_position_readings": 18,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "finite_positions": 51396,
+  "nominal_positions": 2917,
+  "nominal_readings": 3465,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "abhidat",
+          "abhaitsīt"
+        ],
+        "branches": [
+          "ANG_IRIT",
+          "SIC_ANIT"
+        ],
+        "evidence": "TWO_DIRECT_KASHIKA_WORDS",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "abhidatām",
+          "abhaittām"
+        ],
+        "branches": [
+          "ANG_IRIT",
+          "SIC_ANIT"
+        ],
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "abhidan",
+          "abhaitsuḥ"
+        ],
+        "branches": [
+          "ANG_IRIT",
+          "SIC_ANIT"
+        ],
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "abhidaḥ",
+          "abhaitsīḥ"
+        ],
+        "branches": [
+          "ANG_IRIT",
+          "SIC_ANIT"
+        ],
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "abhidatam",
+          "abhaittam"
+        ],
+        "branches": [
+          "ANG_IRIT",
+          "SIC_ANIT"
+        ],
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "abhidata",
+          "abhaitta"
+        ],
+        "branches": [
+          "ANG_IRIT",
+          "SIC_ANIT"
+        ],
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "abhidam",
+          "abhaitsam"
+        ],
+        "branches": [
+          "ANG_IRIT",
+          "SIC_ANIT"
+        ],
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "abhidāva",
+          "abhaitsva"
+        ],
+        "branches": [
+          "ANG_IRIT",
+          "SIC_ANIT"
+        ],
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "abhidāma",
+          "abhaitsma"
+        ],
+        "branches": [
+          "ANG_IRIT",
+          "SIC_ANIT"
+        ],
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      }
+    ]
+  },
+  "selected_grid": {
+    "profile": "BHID_VIDARANA_RESIDUAL_P",
+    "positions": 90,
+    "readings": 110,
+    "path": "SELECTED_DOMAIN.tsv",
+    "old_keys_recredited": 0,
+    "source_scope": "Explicit selected classical unaccented morphological policies; PG335 duplicate correction retained."
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_runtime": "3.12.14",
+    "document_check_status": "PASS"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Closure is only the selected residual-P 90-key grid, not all bhid senses/voices/meanings.",
+    "Independent outer middle domains remain unconstructed.",
+    "PG337 typo provenance, Bhatti locator, commentary/Madhaviya differences and four Unadi fields remain open.",
+    "No exhaustive accent/recitation or executable-grammar claim."
+  ]
+}
