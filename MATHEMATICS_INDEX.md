@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 11 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG275 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG324 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG275 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG324 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -689,6 +689,14 @@ cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](research/panini_grammar/session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
+
+## PG324 · Ā + han: the remaining present-system persons
+
+[Grammar and full-carrier adapter](research/panini_grammar/aa_han_own_limb_present_system_completion/README.md). Eighteen new written finite positions/readings complete the three selected imperfect/imperative/optative panels. Six new word-shape controls are literal; twelve cells are compositions. The own-limb target reaches 66/90 and the cumulative finite total is **51,221**. The unassigned digital āhanva string remains open for printed collation. The pinned PG14 full operator/history carrier supplies typed zero-recovery, pairing and complementary cuts for the declared new guarded events; no executable-grammar claim is made.
+
+## PG276–PG323 · Source-qualified lexical and own-limb continuation
+
+The [current register](research/panini_grammar/CURRENT_WORK.md) and [stage navigation](research/panini_grammar/README.md) route the subsequent written stages through PG323. Their source decisions, duplicate-credit corrections and exact lexical profiles remain inside their pinned packets. PG323's finite total is **51,203**. Catalogue coverage, written derivations and executable verification remain separate; grammar execution and certificate replay are deferred.
 
 ## PG275 · The future iṭ of striking and the long vowel of cutting
 
