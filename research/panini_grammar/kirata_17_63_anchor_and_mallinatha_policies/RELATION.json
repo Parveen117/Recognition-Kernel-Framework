@@ -1,0 +1,104 @@
+{
+  "schema": "rkf.panini.pg332.relation.v1",
+  "observations": [
+    {
+      "id": "KIRATA_17_63_FINITE_SOURCE_ANCHOR",
+      "kind": "located_poem_token",
+      "source": "bhakirpu.htm",
+      "locus": "BhKir_17.63",
+      "observed_finite": "ājaghne",
+      "raw_local_context": "gāṇḍīvī kanakaśilānibhaṃ bhujābhyām ājaghne viṣam avilocanasya vakṣaḥ",
+      "selected_compound": "viṣamavilocanasya",
+      "normalization": "Join the displayed internal whitespace for the source-qualified compound analysis; retain raw split, with no new phonemes.",
+      "finite_position_credit": 0,
+      "nominal_position_credit": 0
+    },
+    {
+      "id": "MALLINATHA_17_63_CONTEXTUAL_OBJECTION",
+      "kind": "source_attributed_interpretive_judgement",
+      "source": "kirata_mallinatha_201401.html",
+      "locus": "17.63 commentary",
+      "judgement": "The commentary interprets the external chest, questions the middle, rejects the proposed own-chest contextual reading and reports others supplying prapya.",
+      "finite_position_credit": 0,
+      "nominal_position_credit": 0
+    }
+  ],
+  "analyses": [
+    {
+      "id": "MALLINATHA_LITERAL_EXTERNAL_CHEST",
+      "source_policy": "MALLINATHA_PRIMARY_GLOSS",
+      "object_owner": "VISAMAVILOCANA",
+      "actor": "GANDIVIN_ARJUNA",
+      "pada_status": "QUESTIONED_IN_THE_COMMENTARY",
+      "context_status": "GLOSS_SELECTED",
+      "open": "Alternative grammar is suggested without construction here."
+    },
+    {
+      "id": "MALLINATHA_OWN_CHEST",
+      "source_policy": "MALLINATHA_CONTEXTUAL_OBJECTION",
+      "object_owner": "ACTOR_UNDER_REPORTED_REANALYSIS",
+      "pada_status": "SVANGA_ROUTE_CONDITIONAL_ON_THAT_FRAME",
+      "context_status": "REJECTED_UNDER_THIS_COMMENTARY_POLICY",
+      "open": "Do not erase the differently selected Bala/Tattva policy in PG330."
+    },
+    {
+      "id": "MALLINATHA_REPORTS_PRAPYA",
+      "source_policy": "MALLINATHA_REPORT_OF_OTHERS",
+      "object_owner": "VISAMAVILOCANA",
+      "actor": "GANDIVIN_ARJUNA",
+      "pada_status": "AKARMAKA_UNDER_REPORTED_ELLIPSIS",
+      "context_status": "REPORTED_ALTERNATIVE",
+      "open": "A report of kecit is not an unqualified primary endorsement or authorial-intent proof."
+    },
+    {
+      "id": "UNSPECIFIED_OTHER_GRAMMAR",
+      "source_policy": "MALLINATHA_VYAKARANANTARA_SUGGESTION",
+      "pada_status": "OPEN",
+      "context_status": "UNCONSTRUCTED",
+      "open": "No unnamed school is fabricated as an implemented Paninian exception."
+    }
+  ],
+  "annotations": [
+    {
+      "token": "gāṇḍīvī",
+      "role": "actor/controller",
+      "person": 3,
+      "number": "singular",
+      "source_support": "Mallinatha explicitly identifies Arjuna; nominative actor analysis is retained."
+    },
+    {
+      "token": "bhujābhyām",
+      "role": "instrument in the selected gloss",
+      "number": "dual",
+      "case_candidates": [
+        "instrumental",
+        "dative",
+        "ablative"
+      ],
+      "source_support": "The commentary connects the two arms to the striking action; dual instrument count does not select a dual finite ending."
+    },
+    {
+      "token": "vakṣaḥ",
+      "role": "object in the literal external-chest gloss",
+      "case_candidates": [
+        "neuter nominative singular",
+        "neuter accusative singular"
+      ],
+      "source_support": "Case syncretism alone does not choose the analysis. The source gloss supplies the selected role."
+    },
+    {
+      "token": "viṣam avilocanasya",
+      "role": "raw digital segmentation",
+      "selected_analysis": "viṣamavilocanasya",
+      "source_support": "The revision-pinned Devanagari poem/commentary supplies the compound and glosses Tryambaka; no second poison/eyeless parse is automatically credited."
+    }
+  ],
+  "output_components": [
+    "textual_attestation",
+    "morphological_analysis",
+    "pada_route",
+    "contextual_fit",
+    "source_policy"
+  ],
+  "native_adapter": "SOURCE_ATTACHMENT_AND_NATIVE_RECOVERY.md"
+}

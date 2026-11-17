@@ -2222,3 +2222,13 @@ prāpya/avivakṣā policy. One new position has two readings, cumulative
 blocked past aṭ and finite morphology from external anusvāra. The vadh
 alternative remains conditional on PG327's explicit 2pl commentary policy;
 poem collation and authorial interpretation remain open.
+
+## PG332 · Kirāta 17.63 source anchor and Mallinātha policies
+
+[PG332](kirata_17_63_anchor_and_mallinatha_policies/README.md) positively
+locates the full ājaghne verse and retains a revision-pinned contextual
+objection to the own-chest analysis. Two source observations and four
+source-policy records distinguish attestation, pada route and contextual
+fit. GRETIL/Ambuda lineage is not counted as independent witnesses; the
+Bhaṭṭi locator remains uncorroborated in the checked snapshot. No finite
+or nominal positions/readings are added; finite total remains 51,333.

@@ -137,3 +137,26 @@ Publication note: read-only Git fetching works in the active execution. The shel
   expand a genuinely admitted prohibitive domain only after its semantic
   guards are supplied, or resolve existing printed/commentarial/Uṇādi gaps.
   Do not restart the completed selected 90-key families or re-credit them.
+
+## PG332 · New two-hour authorization
+
+- Owner requested the next two hours after PG331. A single bounded
+  continuation is scheduled for 19:58 IST; report only work actually done.
+- Parent: `04acd3ab73438765ebe9a8fb97d411409b5ac3d1`.
+- [Kirāta anchor and Mallinātha policies](kirata_17_63_anchor_and_mallinatha_policies/README.md):
+  **two source observations, four source-conditioned records, zero new
+  finite/nominal positions or readings**. Totals remain 51,333 finite and
+  2,917 nominal positions / 3,465 nominal readings.
+- The full Kirāta verse is located at 17.63. Preserve GRETIL's raw
+  viṣam avilocanasya seam and the qualified compound analysis. Ambuda
+  and GRETIL display variants are one lineage.
+- Mallinātha revision 201401 questions the middle and rejects the own-chest
+  contextual explanation while reporting others' prāpya analysis; PG330's
+  Bala/Tattva source policy remains a separate retained history.
+- A bounded lookup of the complete GRETIL Bhaṭṭi snapshot did not corroborate
+  the quotation. This is not universal absence or a false-attribution finding.
+- Next: independently collate primary page images/other editions, locate
+  the Bhaṭṭi line, or advance the open commentary/printed-source/Uṇādi
+  obligations. Do not count the same mirrored verse as new finite positions.
+- Only direct Python 3.12 document/source checks; grammar execution,
+  generators, predecessor suites and certificate replay stay deferred.

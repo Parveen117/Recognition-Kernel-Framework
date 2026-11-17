@@ -1,0 +1,105 @@
+{
+  "source_policy": "Pin source bytes and exact normalized HTML text excerpts. GRETIL format variants and Ambuda derivative views are one lineage, not independent critical witnesses. A positive poem locus does not select a universal grammar analysis.",
+  "snapshots": [
+    {
+      "local_snapshot_name": "bhakirau.htm",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/5_poetry/2_kavya/bhakirau.htm",
+      "bytes": 199271,
+      "sha256": "000007014072def3076a4eebbff73a992c5d60acb1963c910354cab4dea263ba",
+      "snapshot_date": "2026-11-17",
+      "revision_id": null
+    },
+    {
+      "local_snapshot_name": "bhakirpu.htm",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/5_poetry/2_kavya/bhakirpu.htm",
+      "bytes": 191846,
+      "sha256": "7ef0d1f744e0aab82957bc82d856c4dbbf6111f8977632a40ce64001e3f5608c",
+      "snapshot_date": "2026-11-17",
+      "revision_id": null
+    },
+    {
+      "local_snapshot_name": "bhattiku.htm",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/5_poetry/2_kavya/bhattiku.htm",
+      "bytes": 269087,
+      "sha256": "3b4e0876703db37e0d07bafa13aba8bd137105d19f212c24073a4197ceeff167",
+      "snapshot_date": "2026-11-17",
+      "revision_id": null
+    },
+    {
+      "local_snapshot_name": "kirata_mallinatha_201401.html",
+      "url": "https://sa.wikisource.org/w/index.php?oldid=201401",
+      "bytes": 2224801,
+      "sha256": "b82e12792ae6584cbefb10480930663ce4f9a52675c4b6db584c41c9ffbcc7dd",
+      "snapshot_date": "2026-11-17",
+      "revision_id": 201401
+    }
+  ],
+  "extraction": "UTF-8 decode; replace HTML tags by spaces, HTML entity unescape, collapse whitespace. No Sanskrit phoneme correction or transliteration generation.",
+  "kirata_verse": {
+    "locus": "BhKir_17.63",
+    "snapshot": "bhakirpu.htm",
+    "text": "unmajjan makara ivāmārāpagāyā vegena pratimukham etya bāṇanadyāḥ / gāṇḍīvī kanakaśilānibhaṃ bhujābhyām ājaghne viṣam avilocanasya vakṣaḥ // BhKir_17.63 //"
+  },
+  "mallinatha_excerpt": {
+    "locus": "17.63 commentary; rendered printed pages 282–283",
+    "snapshot": "kirata_mallinatha_201401.html",
+    "normalized_text": "गाण्डीव्यर्जुन उन्मज्जन्नुत्तरन्मकरो जलग्राहविशेषोऽमरापगाया गङ्गाया इव बाणनद्या बाणप्रवाहाद्वेगेन प्रतिमुखमभिमुखमेत्यागत्य कनकशिलानिभम् । कनकग्रहणं काठिन्यातिशयद्योतनार्थम् । विषमविलोचनस्य त्र्यम्बकस्य वक्षो हृदयं २८३ अष्टादशः सर्गः। भुजाभ्यामाजघ्ने ताडितवान् । अत्रात्मनेपदं विचार्यम् । 'आङो यमहनः' इत्यत्राकर्म- काधिकारात् 'स्वाङ्गकर्मकाच्च' इति वक्तव्यत्वात् । न च शिवस्य प्रतिमुखमित्यन्व- यात्कनकशिलानिभं कनकनिकष्रतुल्यं श्यामं स्ववक्ष आजघ्न इत्यर्थ इतिवाच्यमनौचित्याचरणात् । न हि युद्धाय संनद्धा निपुणा अपि मल्लाः स्ववक्षस्ताडनमाचरन्ति । किं तु स्वभुजास्फालनम् । किं च । अनन्तरं वक्ष्यमाणभवकर्तृकाविनयसहनविरोधाद्वक्ष एवेत्यन्वयस्याव्यवधानाच्च पूर्वैरेव दूषितत्वात् । अतो व्याकरणान्तराद्द्रष्टव्यम् । केचित्तु 'त्र्यम्बकस्य वक्षः प्राप्य' इत्यध्याहारं स्वीकृत्याकर्मकत्वादात्मनेपदमाहुः",
+    "source_status": "Revision-pinned public transcription; page images/manuscripts are not newly collated."
+  },
+  "bhatti_lookup": {
+    "snapshot": "bhattiku.htm",
+    "scope": "Only this complete GRETIL file and its mechanically added Nirnaya Sagara 1887 verse labels",
+    "search_pattern": "(?<![a-zāīūṛṝḷṅñṭḍṇśṣṃḥ])ā[\\s\\-\\x27]*hadhv",
+    "matches": [],
+    "chapter_8_15": "Bhk_8.15-1 tīvramuttapamāno 'yama-śakyaḥ soḍhumātapaḥ, Bhk_8.15-2 āghnāna iva saṃdīptairalātaiḥ sarvato muhuḥ.",
+    "conclusion": "The queried quotation locator is not corroborated in this snapshot. No universal absence or false attribution conclusion follows."
+  },
+  "lineage": {
+    "gretil_analytical": "bhakirau.htm",
+    "gretil_plain": "bhakirpu.htm",
+    "ambuda": "https://ambuda.org/texts/kiratarjuniyam/17",
+    "note": "Ambuda declares GRETIL derivation; these are not three independent attestations."
+  },
+  "dependency_pins": [
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "04acd3ab73438765ebe9a8fb97d411409b5ac3d1",
+      "path": "research/panini_grammar/aa_han_literary_objects_and_predicate_binding/RELATION.json",
+      "bytes": 6294,
+      "sha256": "acbf6bc33123bf2042e2140b51bf474850c401eca68c71babdd552cdf5a1b90a",
+      "git_blob_sha": "3d1d73f2634a03659ec58b8fd626234f5a150033"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "04acd3ab73438765ebe9a8fb97d411409b5ac3d1",
+      "path": "research/panini_grammar/aa_han_literary_objects_and_predicate_binding/SOURCES.json",
+      "bytes": 11927,
+      "sha256": "9a47b6f5dd868923c668550211c2a25160554bee0cb45b6d02cd200c30b5fc0d",
+      "git_blob_sha": "1074cd76be4473dec5e81edc98b41d379dc465ce"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "04acd3ab73438765ebe9a8fb97d411409b5ac3d1",
+      "path": "research/panini_grammar/aa_han_literary_objects_and_predicate_binding/PREDICATE_BINDING_AND_NATIVE_RECOVERY.md",
+      "bytes": 7162,
+      "sha256": "4dae4a966e781d972cf4afa0097fb7e2466659f1bab50b163922da489f3e2a63",
+      "git_blob_sha": "bdf8229bb9c8789ad2682abec16af89706413093"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "04acd3ab73438765ebe9a8fb97d411409b5ac3d1",
+      "path": "research/panini_grammar/aa_han_bhatti_prohibitive_and_blocked_augment/STATE.json",
+      "bytes": 2356,
+      "sha256": "4aa3c266b15e0165d3314be20f28fc2f872330408b4b0db70dcb476402d3444a",
+      "git_blob_sha": "232c4a15093e5d51b11caba9e84c33136310c8a1"
+    },
+    {
+      "repository": "Parveen117/Recognition-Kernel-Framework",
+      "commit": "04acd3ab73438765ebe9a8fb97d411409b5ac3d1",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    }
+  ]
+}

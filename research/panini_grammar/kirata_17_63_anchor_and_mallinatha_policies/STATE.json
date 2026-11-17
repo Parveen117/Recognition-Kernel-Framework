@@ -1,0 +1,41 @@
+{
+  "schema": "rkf.panini.pg332.state.v1",
+  "author": "Monty",
+  "date": "2026-11-17",
+  "publication_parent": "04acd3ab73438765ebe9a8fb97d411409b5ac3d1",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "04acd3ab73438765ebe9a8fb97d411409b5ac3d1",
+    "path": "research/panini_grammar/aa_han_bhatti_prohibitive_and_blocked_augment/STATE.json",
+    "bytes": 2356,
+    "sha256": "4aa3c266b15e0165d3314be20f28fc2f872330408b4b0db70dcb476402d3444a",
+    "git_blob_sha": "232c4a15093e5d51b11caba9e84c33136310c8a1"
+  },
+  "finite_positions": 51333,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 0,
+  "nominal_positions": 2917,
+  "nominal_readings": 3465,
+  "new_source_observations": 2,
+  "new_source_conditioned_analysis_records": 4,
+  "position_accounting": {
+    "forms": []
+  },
+  "closed_obligation": "Positive e-text locus for the Kirata quotation at 17.63; not universal critical-edition collation or parse agreement.",
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_runtime": "3.12.14",
+    "document_check_status": "PASS"
+  },
+  "open_obligations": [
+    "Bhaṭṭi quotation exact poem locus remains uncorroborated in the checked GRETIL snapshot.",
+    "Independent manuscript/scan collation and primary authorial interpretation remain open.",
+    "The alternative unnamed grammar suggested by Mallinatha is not constructed.",
+    "Aorist 2pl Nyasa/Balamanorama comparison, digital Madhaviya spellings and prior Unadi obligations remain open."
+  ]
+}
