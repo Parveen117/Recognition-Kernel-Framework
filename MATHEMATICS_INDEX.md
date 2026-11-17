@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG329 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG330 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG329 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG330 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4418,6 +4418,17 @@ substitution, optional aorist, inner sic and outer ending iṭ; the PG14 full
 history/operator lift recovers exactly the selected finite relation under
 typed zero-specialization. Cumulative finite total is 51,332. Commentarial
 collations, whole-language completeness and runtime verification remain open.
+
+## PG330: predicate-indexed object roles and source-conditioned literary analyses
+
+[PG330](research/panini_grammar/aa_han_literary_objects_and_predicate_binding/README.md)
+constructs typed nominal-to-predicate role edges before pada selection for
+two quoted literary problems. Its seven source-conditioned records separate
+akarmaka, own-limb, rejected and unresolved analyses, and pada admission from
+complete morphology. The PG14 full-history operator extension proves typed
+zero-compatibility and recovery on this finite analysis domain. It supplies
+neither a universal ellipsis resolver nor independent poem collation/runtime
+validation; finite/nominal counts are unchanged.
 
 ## Full framework register, preserved
 

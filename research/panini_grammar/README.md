@@ -2202,3 +2202,13 @@ finite positions and 63 readings, reaching 90/90 selected intransitive
 optional vadha and inner-sic versus outer-ending iṭ remain distinct. The
 selected aorist 2pl policy does not resolve the Nyāsa comparison. Cumulative
 finite total: 51,332; no nominal positions or source observations added.
+
+## PG330 · Literary objects and predicate-wise role binding
+
+[PG330](aa_han_literary_objects_and_predicate_binding/README.md) reads exact
+Bālamanoramā/Tattvabodhinī 1.3.28 fields against the frozen Mādhavīya
+literary objections. Seven analysis records distinguish an object belonging
+to supplied prāpya, an actor-owned chest, a rejected split and unresolved
+prohibitive morphology. The native extension retains those typed semantic
+edges and status components under zero-reading. No finite/nominal position,
+reading or observation credit is added; cumulative finite total stays 51,332.

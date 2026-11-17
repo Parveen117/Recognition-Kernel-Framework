@@ -93,3 +93,23 @@ Publication note: read-only Git fetching works in the active execution. The shel
   completion does not close those source obligations or all Sanskrit.
 - Check DOCUMENT_CHECK_RESULT.json for direct Python 3.12 document checks;
   grammar execution, generators, old suites and certificates remain deferred.
+
+## PG330 continuation
+
+- Parent: `464ca7f717a1f5bb5c042767f16ad52002737b45`.
+- [Literary objects and predicate binding](aa_han_literary_objects_and_predicate_binding/README.md):
+  seven explicitly sourced analysis records across two quoted literary
+  problems. **Zero new finite/nominal positions, readings or observations**;
+  cumulative finite **51,332**, nominal 2,917 / 3,465 readings.
+- Exact newly read Bālamanoramā and Tattvabodhinī 1.3.28 fields explain
+  prāpya object binding and an alternative own-chest interpretation. Their
+  role/policy histories stay distinct; this is not authorial-intent proof.
+- The reported āja/ghne split is rejected under Mādhavīya's stated policy.
+  The brief bhettum hint remains unexpanded. Bhaṭṭi's mā keeps a separate
+  prohibitive morphology obligation; explained pada is not a completed word.
+- Immediate next frontier: targeted primary-poem/edition collation and a
+  source-grounded prohibitive construction, or the prior Nyāsa/Bālamanoramā,
+  printed Mādhavīya and Uṇādi source obligations. Do not convert an
+  accusative anywhere in a sentence into every predicate's karman.
+- Direct Python 3.12 source/document checks only; see result JSON. No
+  grammar resolver execution, generators, old suites or certificate replay.

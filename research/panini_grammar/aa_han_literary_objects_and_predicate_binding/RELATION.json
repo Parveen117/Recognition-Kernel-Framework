@@ -1,0 +1,202 @@
+{
+  "schema": "rkf.panini.pg330.relation.v1",
+  "author": "Monty",
+  "domain": "Source-conditioned pada analysis of two quoted literary problems, not full poem validation.",
+  "rows": [
+    {
+      "id": "KIRATA_EXTERNAL_HAN",
+      "source_policy": "KASHIKA_BASE_NO_ELLIPSIS",
+      "clause": "KIRATA_QUOTED_PROBLEM",
+      "root": "han",
+      "preverbs": [
+        "ā"
+      ],
+      "voice": "agent",
+      "predicates": [
+        "HAN"
+      ],
+      "object_bindings": [
+        {
+          "nominal": "vakshas",
+          "predicate": "HAN",
+          "role": "karman",
+          "owner": "VISAMAVILOCANA_NOT_ACTOR"
+        }
+      ],
+      "supplied_words": [],
+      "han_transitivity": "transitive",
+      "route": "NONE",
+      "pada_route_status": "EXCLUDED",
+      "full_derivation_status": "OPEN",
+      "reason": "Neither akarmaka nor own-limb condition holds on this literal external-object analysis."
+    },
+    {
+      "id": "KIRATA_PRAPYA",
+      "source_policy": "BALAMANORAMA_PRAPYA_WITH_AVIVAKSHA",
+      "clause": "KIRATA_QUOTED_PROBLEM",
+      "root": "han",
+      "preverbs": [
+        "ā"
+      ],
+      "voice": "agent",
+      "predicates": [
+        "PRAPYA",
+        "HAN"
+      ],
+      "object_bindings": [
+        {
+          "nominal": "vakshas",
+          "predicate": "PRAPYA",
+          "role": "karman",
+          "owner": "VISAMAVILOCANA"
+        }
+      ],
+      "supplied_words": [
+        "prāpya"
+      ],
+      "han_transitivity": "akarmaka_by_source_selected_avivaksha",
+      "route": "1.3.28_AKARMAKA",
+      "pada_route_status": "ADMITTED",
+      "full_derivation_status": "OPEN",
+      "reason": "Source assigns the object to attainment and explicitly does not select its actual-world objecthood for han; an accusative elsewhere in the sentence is not a han karman."
+    },
+    {
+      "id": "KIRATA_OWN_CHEST",
+      "source_policy": "BALAMANORAMA_TATTVABODHINI_SVANGA_REANALYSIS",
+      "clause": "KIRATA_QUOTED_PROBLEM",
+      "root": "han",
+      "preverbs": [
+        "ā"
+      ],
+      "voice": "agent",
+      "predicates": [
+        "APPROACH",
+        "HAN"
+      ],
+      "object_bindings": [
+        {
+          "nominal": "vakshas",
+          "predicate": "HAN",
+          "role": "karman",
+          "owner": "ACTOR"
+        }
+      ],
+      "supplied_words": [
+        "samīpam etya",
+        "svīyam"
+      ],
+      "han_transitivity": "transitive_own_limb",
+      "route": "1.3.28_SVANGA_VARTTIKA",
+      "pada_route_status": "ADMITTED",
+      "full_derivation_status": "OPEN",
+      "reason": "Source reassigns chest ownership to the actor and interprets the genitive with approaching the other participant; this is a competing parse, not a simultaneous property of the external chest."
+    },
+    {
+      "id": "KIRATA_AJA_GHNE_SPLIT",
+      "source_policy": "MADHAVIYA_REJECTION_OF_REPORTED_SPLIT",
+      "clause": "KIRATA_QUOTED_PROBLEM",
+      "root": "aj_plus_han_nonfinite_proposal",
+      "preverbs": [],
+      "voice": "reported_analysis",
+      "predicates": [
+        "AJ",
+        "GHNE_DATIVE"
+      ],
+      "object_bindings": [],
+      "supplied_words": [
+        "segmentation āja + ghne"
+      ],
+      "han_transitivity": "NOT_AN_AA_HAN_FINITE_INPUT",
+      "route": "NONE",
+      "pada_route_status": "OUTSIDE_DOMAIN",
+      "full_derivation_status": "REJECTED_UNDER_SOURCE_POLICY",
+      "reason": "Madhaviya reports the split and calls it ayukta on the aj/vi replacement objection; no new finite han word or universally accepted alternative is credited."
+    },
+    {
+      "id": "BHATTI_PRAPYA",
+      "source_policy": "BALAMANORAMA_PRAPYA_WITH_AVIVAKSHA",
+      "clause": "BHATTI_QUOTED_PROBLEM",
+      "root": "han",
+      "preverbs": [
+        "ā"
+      ],
+      "voice": "agent",
+      "predicates": [
+        "PRAPYA",
+        "HAN"
+      ],
+      "object_bindings": [
+        {
+          "nominal": "raghuttama",
+          "predicate": "PRAPYA",
+          "role": "karman",
+          "owner": "EXTERNAL_PARTICIPANT"
+        }
+      ],
+      "supplied_words": [
+        "prāpya"
+      ],
+      "han_transitivity": "akarmaka_by_source_selected_avivaksha",
+      "route": "1.3.28_AKARMAKA",
+      "pada_route_status": "ADMITTED",
+      "full_derivation_status": "OPEN_PROHIBITIVE_FRAME",
+      "reason": "The pada explanation is supplied, but the quotation contains ma. PG328/329 excluded prohibitive mang; no ordinary-past lung cell or complete prohibitive derivation is inferred here."
+    },
+    {
+      "id": "UNSELECTED_LITERARY_PARSE",
+      "source_policy": "UNSELECTED",
+      "clause": "KIRATA_QUOTED_PROBLEM",
+      "root": "han",
+      "preverbs": [
+        "ā"
+      ],
+      "voice": "agent",
+      "predicates": [
+        "HAN"
+      ],
+      "object_bindings": [],
+      "supplied_words": [],
+      "han_transitivity": "UNKNOWN",
+      "route": "OPEN",
+      "pada_route_status": "OPEN",
+      "full_derivation_status": "OPEN",
+      "reason": "A matching finite surface does not select its own parse or source tradition; absence of an assigned edge does not prove akarmaka."
+    },
+    {
+      "id": "PURPOSE_HINT_ONLY",
+      "source_policy": "TATTVABODHINI_BHETTUM_CROSS_REFERENCE_ONLY",
+      "clause": "KIRATA_QUOTED_PROBLEM",
+      "root": "han",
+      "preverbs": [
+        "ā"
+      ],
+      "voice": "agent",
+      "predicates": [
+        "HAN",
+        "UNEXPANDED_PURPOSE"
+      ],
+      "object_bindings": [],
+      "supplied_words": [
+        "bhettum: cross-reference, not a completed parse"
+      ],
+      "han_transitivity": "UNKNOWN",
+      "route": "OPEN",
+      "pada_route_status": "OPEN",
+      "full_derivation_status": "OPEN",
+      "reason": "The source mentions bhettum ityadi, but this packet does not supply the whole base exposition or infer a new completed purpose-binding derivation from that hint alone."
+    }
+  ],
+  "output_type": [
+    "pada_route_status",
+    "full_derivation_status"
+  ],
+  "state_components": [
+    "predicate IDs and supplied/printed distinction",
+    "nominal-to-predicate role edges",
+    "owner/coreference constraints",
+    "source-selected vivaksha and transitivity",
+    "original root and preverb order",
+    "parse policy and reported objections"
+  ],
+  "native_adapter": "PREDICATE_BINDING_AND_NATIVE_RECOVERY.md"
+}
