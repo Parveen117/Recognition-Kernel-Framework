@@ -16,7 +16,8 @@ are continuation opportunities, not evidence of continuous elapsed work.
   The selected own-limb ā + han domain advances from 48/90 to 66/90.
 - [PG325](aa_han_own_limb_perfect_and_printed_table/README.md): eight new perfect positions/readings, using the visually read printed word table with separately inherited semantic admission. The own-limb grid is **74/90**.
 - [PG326](aa_han_own_limb_benedictive_completion/README.md): eight new blessing positions/readings, one direct new word-shape control and seven compositions. The bounded own-limb grid is **82/90**.
-- Cumulative written finite total: **51,237**; active-pass gain **34** finite positions/readings. No nominal positions added.
+- [PG327](aa_han_own_limb_aorist_and_selected_grid/README.md): eight new aorist positions and sixteen readings. The selected own-limb grid is **90/90** under the explicitly declared printed/Bālamanoramā 2pl policy. Three unselected digital-source observations and the Nyāsa prāpti comparison remain open.
+- Cumulative written finite total: **51,245**; active-pass gain **42** finite positions and **50** readings, with **four** source observations. No nominal positions added.
 - The changed-document/source check passed under **Python 3.12.14**.
   Grammar executions, generators and certificate replay remain deferred.
 - Root mathematical navigation now also routes PG276–PG323 through the
@@ -35,10 +36,10 @@ are continuation opportunities, not evidence of continuous elapsed work.
 2. **Completed at PG326:** the eight formerly uncredited own-limb āśīrliṅ persons, using the
    pinned PG20 A-ending construction and the exact Mādhavīya vadh/iṭ controls.
    Ordinary optative s-lopa must not be imported into this ārdhadhātuka panel.
-3. Review the eight uncredited aorist persons. The digital strings **आवधिषिढ्वम्** in the vadh series and the late **आहन्वहि** in the no-vadh series need targeted collation; do not automatically delete or assign their extra i/n as grammatical alternatives. Keep optional vadh versus
+3. **Completed at PG327 under its declared selected policy:** the eight formerly uncredited aorist persons. The digital strings **आवधिषिढ्वम्** in the vadh series and the late **आहन्वहि** in the no-vadh series need targeted collation; do not automatically delete or assign their extra i/n as grammatical alternatives. Keep optional vadh versus
    han/sic history, the actual iṭ/kit guards, and literal source problems
-   separate. Do not claim 90/90 until those cells are actually written.
-4. Then advance a substantive source obligation or additional clearly
+   separate. PG327 now supplies the selected 90-key register. Do not relabel its conditional source-policy closure as agreement of every commentary.
+4. **Next frontier:** reconcile the aorist second-plural account or advance a substantive source obligation/additional clearly
    admitted lexical family. Four primary Uṇādi 4.105 fields, an independent
    5.56 marker effect and several digital/printed spelling collations remain
    open. Do not fill them with inferred examples labelled as direct evidence.

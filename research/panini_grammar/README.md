@@ -1454,6 +1454,8 @@ ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 **PG285 — Han causative perfect and caṅ aorist complete the selected grids.** [Packet](han_causative_perfect_and_cang_completion/README.md). 36 finite positions, 74 readings and one source observation. Cumulative **50,570**.
 
+**PG327 — Ā + han aorist and the selected 90-request grid.** [Packet](aa_han_own_limb_aorist_and_selected_grid/README.md). Eight new positions and sixteen readings, with three digital-source observations. The selected own-limb grid is **90/90** under the stated second-plural source policy; commentarial reconciliation remains open. Cumulative **51,245**.
+
 **PG326 — Ā + han own-limb blessing completion.** [Packet](aa_han_own_limb_benedictive_completion/README.md). Eight new positions/readings; one direct new cell and seven compositions. Mandatory vadha and retained sīyuṭ/suṭ remain separate from luṅ optionality. Own-limb target **82/90**. Cumulative **51,237**.
 
 **PG325 — Ā + han perfect and the printed first plural.** [Packet](aa_han_own_limb_perfect_and_printed_table/README.md). Eight new positions/readings; nine printed word-shape controls including the zero-credit inherited 3sg. Own-limb target **74/90**. Cumulative **51,229**.
