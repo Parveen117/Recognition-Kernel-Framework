@@ -1,0 +1,165 @@
+{
+  "schema": "rkf.panini.pg334.relation.v1",
+  "frame": {
+    "root_id": "1070002",
+    "root_address": "07.0002",
+    "teaching": "भिदिँर्",
+    "root": "bhid",
+    "sense": "vidāraṇa",
+    "preverbs": [],
+    "voice": "agent",
+    "transitivity": "transitive, supplied object",
+    "main_result_for_actor": false,
+    "pada": "P",
+    "pada_licence": "1.3.78 residual, outside supplied 1.3.72 actor-result condition",
+    "present_frame": "3.2.123",
+    "agreement_controller": "actor"
+  },
+  "rows": [
+    {
+      "profile": "BHID_VIDARANA_RESIDUAL_P",
+      "root_address": "07.0002",
+      "lakara": "lat",
+      "slot": "3sg",
+      "readings": [
+        "bhinatti"
+      ],
+      "ending_class": "pit",
+      "owned_stem_view": "bhina|d",
+      "evidence": "DIRECT_KASHIKA_WORD",
+      "position_credit": 1,
+      "reading_credit": 1
+    },
+    {
+      "profile": "BHID_VIDARANA_RESIDUAL_P",
+      "root_address": "07.0002",
+      "lakara": "lat",
+      "slot": "3du",
+      "readings": [
+        "bhintaḥ",
+        "bhinttaḥ"
+      ],
+      "ending_class": "apit",
+      "owned_stem_view": "bhin|d",
+      "evidence": "SHORT_DIRECT_KASHIKA_WITH_WRITTEN_RETAINED_CLUSTER",
+      "position_credit": 1,
+      "reading_credit": 2
+    },
+    {
+      "profile": "BHID_VIDARANA_RESIDUAL_P",
+      "root_address": "07.0002",
+      "lakara": "lat",
+      "slot": "3pl",
+      "readings": [
+        "bhindanti"
+      ],
+      "ending_class": "apit",
+      "owned_stem_view": "bhin|d",
+      "evidence": "DIRECT_KASHIKA_WORD",
+      "position_credit": 1,
+      "reading_credit": 1
+    },
+    {
+      "profile": "BHID_VIDARANA_RESIDUAL_P",
+      "root_address": "07.0002",
+      "lakara": "lat",
+      "slot": "2sg",
+      "readings": [
+        "bhinatsi"
+      ],
+      "ending_class": "pit",
+      "owned_stem_view": "bhina|d",
+      "evidence": "WRITTEN_COMPOSITION",
+      "position_credit": 1,
+      "reading_credit": 1
+    },
+    {
+      "profile": "BHID_VIDARANA_RESIDUAL_P",
+      "root_address": "07.0002",
+      "lakara": "lat",
+      "slot": "2du",
+      "readings": [
+        "bhinthaḥ",
+        "bhintthaḥ"
+      ],
+      "ending_class": "apit",
+      "owned_stem_view": "bhin|d",
+      "evidence": "WRITTEN_COMPOSITION_TWO_CLUSTER_HISTORIES",
+      "position_credit": 1,
+      "reading_credit": 2
+    },
+    {
+      "profile": "BHID_VIDARANA_RESIDUAL_P",
+      "root_address": "07.0002",
+      "lakara": "lat",
+      "slot": "2pl",
+      "readings": [
+        "bhintha",
+        "bhinttha"
+      ],
+      "ending_class": "apit",
+      "owned_stem_view": "bhin|d",
+      "evidence": "WRITTEN_COMPOSITION_TWO_CLUSTER_HISTORIES",
+      "position_credit": 1,
+      "reading_credit": 2
+    },
+    {
+      "profile": "BHID_VIDARANA_RESIDUAL_P",
+      "root_address": "07.0002",
+      "lakara": "lat",
+      "slot": "1sg",
+      "readings": [
+        "bhinadmi"
+      ],
+      "ending_class": "pit",
+      "owned_stem_view": "bhina|d",
+      "evidence": "WRITTEN_COMPOSITION",
+      "position_credit": 1,
+      "reading_credit": 1
+    },
+    {
+      "profile": "BHID_VIDARANA_RESIDUAL_P",
+      "root_address": "07.0002",
+      "lakara": "lat",
+      "slot": "1du",
+      "readings": [
+        "bhindvaḥ"
+      ],
+      "ending_class": "apit",
+      "owned_stem_view": "bhin|d",
+      "evidence": "WRITTEN_COMPOSITION",
+      "position_credit": 1,
+      "reading_credit": 1
+    },
+    {
+      "profile": "BHID_VIDARANA_RESIDUAL_P",
+      "root_address": "07.0002",
+      "lakara": "lat",
+      "slot": "1pl",
+      "readings": [
+        "bhindmaḥ"
+      ],
+      "ending_class": "apit",
+      "owned_stem_view": "bhin|d",
+      "evidence": "WRITTEN_COMPOSITION",
+      "position_credit": 1,
+      "reading_credit": 1
+    }
+  ],
+  "infix": {
+    "teaching": "śnam",
+    "visible": "na",
+    "position": "after last root vowel by 1.1.47",
+    "owner": "VIKARANA_SNAM",
+    "marker_sh": "śit retained after lopa",
+    "marker_m": "mit placement retained after lopa"
+  },
+  "excluded": [
+    "actor-result A, passive/bhava, karmakartri",
+    "prefixed/causative/desiderative/intensive bases",
+    "tumun or other ardhadhatuka boundary",
+    "unknown principal-result or lexical sense",
+    "unbounded optional phonetic length/accent enumeration"
+  ],
+  "native_adapter": "PRESENT_DERIVATION_AND_NATIVE_RECOVERY.md"
+}

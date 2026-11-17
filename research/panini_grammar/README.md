@@ -2241,3 +2241,12 @@ Two source-qualified purpose graphs and the written bhid→bhed→bhettum
 construction retain object recipient, actor control and root/suffix owners.
 The reconstructed clauses are not new printed poem readings. No finite or
 nominal position/readings are added; the finite total remains 51,333.
+
+## PG334 · Bhid present and owned śnam
+
+[PG334](bhid_residual_p_present_and_snam_ownership/README.md) maps bhid to
+1070002 / 07.0002 and adds nine residual-P present positions / twelve
+selected readings. The construction distinguishes root, mit-infix and
+ending owners, pit/apit-dependent a-lopa and optional weak dental-cluster
+lopa. Cumulative finite positions: 51,342; nominal totals unchanged. Other
+padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.

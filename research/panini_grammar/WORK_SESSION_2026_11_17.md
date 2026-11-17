@@ -177,3 +177,24 @@ Publication note: read-only Git fetching works in the active execution. The shel
   broader ellipsis domains and prior commentary/printed/Uṇādi gaps stay open.
 - Direct Python 3.12 document/source checks only. Sanskrit generators,
   grammar execution, old suites and certificate replay remain deferred.
+
+## PG334 · Seven-hour authorization and new lexical present domain
+
+- The owner requested a new seven-hour pass after PG333. Six bounded hourly
+  continuation opportunities are set from 23:37 IST on 17 November through
+  04:37 IST on 18 November. They do not establish continuous executed hours.
+- Parent: `d86ec6e66caa009c4f8abf1676216b46e7cd3a26`.
+- [Bhid present](bhid_residual_p_present_and_snam_ownership/README.md):
+  **9 new finite positions / 12 readings**, zero nominal positions or
+  source observations. Cumulative finite **51,342**; nominal 2,917 / 3,465.
+- The exact lexical row maps bhid to 1070002 / 07.0002, closing PG333's
+  local address mapping without rewriting it. Residual-P admission is
+  positive and supplied; U is not free pada choice. Three short words have
+  direct Kāśikā controls, with the rest explicitly written.
+- Strong pit a-retention, apit/ṅidvat infix-a lopa, root d→t and optional
+  weak-cluster lopa have separate owners and retained native histories.
+- Next: bhid other lakāras (81 selected requests) and/or independently
+  admitted middle domains, using actual source conditions and no duplicate
+  present credit. Keep prior Bhatti/source/commentary/Uṇādi gaps separate.
+- Direct Python 3.12 document/source checks only; grammar generation and
+  execution, predecessor suites and certificate replay remain deferred.

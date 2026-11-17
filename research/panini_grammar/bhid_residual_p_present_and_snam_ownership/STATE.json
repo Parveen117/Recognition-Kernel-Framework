@@ -1,0 +1,175 @@
+{
+  "schema": "rkf.panini.pg334.state.v1",
+  "author": "Monty",
+  "date": "2026-11-17",
+  "publication_parent": "d86ec6e66caa009c4f8abf1676216b46e7cd3a26",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "d86ec6e66caa009c4f8abf1676216b46e7cd3a26",
+    "path": "research/panini_grammar/bhettum_purpose_ellipsis_and_owned_infinitive/STATE.json",
+    "bytes": 1946,
+    "sha256": "1221a808af1427c66fbd451ceb2356e4d696367b13ddc2119313740f4146aa15",
+    "git_blob_sha": "7c045bcfd662abe084c1477d2119afb43d11560c"
+  },
+  "finite_positions": 51342,
+  "new_positions": 9,
+  "new_position_readings": 12,
+  "new_nominal_positions": 0,
+  "nominal_positions": 2917,
+  "nominal_readings": 3465,
+  "new_source_observations": 0,
+  "new_root_address_mapping": "bhid 1070002 / 07.0002; locally qualifies the previously unassigned PG333 address without editing it",
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "bhinatti"
+        ],
+        "ending_class": "pit",
+        "owned_stem_view": "bhina|d",
+        "evidence": "DIRECT_KASHIKA_WORD",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "bhintaḥ",
+          "bhinttaḥ"
+        ],
+        "ending_class": "apit",
+        "owned_stem_view": "bhin|d",
+        "evidence": "SHORT_DIRECT_KASHIKA_WITH_WRITTEN_RETAINED_CLUSTER",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "bhindanti"
+        ],
+        "ending_class": "apit",
+        "owned_stem_view": "bhin|d",
+        "evidence": "DIRECT_KASHIKA_WORD",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "bhinatsi"
+        ],
+        "ending_class": "pit",
+        "owned_stem_view": "bhina|d",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "bhinthaḥ",
+          "bhintthaḥ"
+        ],
+        "ending_class": "apit",
+        "owned_stem_view": "bhin|d",
+        "evidence": "WRITTEN_COMPOSITION_TWO_CLUSTER_HISTORIES",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "bhintha",
+          "bhinttha"
+        ],
+        "ending_class": "apit",
+        "owned_stem_view": "bhin|d",
+        "evidence": "WRITTEN_COMPOSITION_TWO_CLUSTER_HISTORIES",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "bhinadmi"
+        ],
+        "ending_class": "pit",
+        "owned_stem_view": "bhina|d",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "bhindvaḥ"
+        ],
+        "ending_class": "apit",
+        "owned_stem_view": "bhin|d",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_RESIDUAL_P",
+        "root_address": "07.0002",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "bhindmaḥ"
+        ],
+        "ending_class": "apit",
+        "owned_stem_view": "bhin|d",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      }
+    ]
+  },
+  "root_domain": {
+    "selected_present_p_positions": 9,
+    "middle_domain": "not constructed here",
+    "other_lakara_positions_remaining": 81
+  },
+  "grammar_executions": [],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_runtime": "3.12.14",
+    "document_check_status": "PASS"
+  },
+  "open_obligations": [
+    "Outer lakaras and independently admitted middle domains for this root.",
+    "Selected written forms are not an exhaustive recitation/accent inventory.",
+    "Publisher lexical metadata are not an independent recovery of every accent from unaccented teaching text.",
+    "Prior Bhatti locator, aorist commentary, digital Madhaviya and Unadi obligations remain open."
+  ]
+}
