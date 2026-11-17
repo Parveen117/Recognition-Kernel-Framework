@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG328 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG329 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG328 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG329 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4407,6 +4407,17 @@ own-limb admission histories. Its PG14 native operator lift recovers each
 labelled finite branch under typed zero-specialization, retaining accepted,
 excluded and Open channels. This is written derivation, not grammar runtime
 validation; nominal counts and predecessor bytes are unchanged.
+
+## PG329: six intransitive outer lakāras and typed selected closure
+
+[PG329](research/panini_grammar/aa_han_intransitive_outer_lakaras_and_grid/README.md)
+adds 54 written positions / 63 readings to the independent akarmaka ā + han
+profile, closing its selected 90-key/99-reading register under explicit
+request and source-policy guards. The owned derivations distinguish blessing
+substitution, optional aorist, inner sic and outer ending iṭ; the PG14 full
+history/operator lift recovers exactly the selected finite relation under
+typed zero-specialization. Cumulative finite total is 51,332. Commentarial
+collations, whole-language completeness and runtime verification remain open.
 
 ## Full framework register, preserved
 

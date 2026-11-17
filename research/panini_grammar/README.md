@@ -2193,3 +2193,12 @@ owned-sound operations without copying an own-limb object history. It adds
 33 written positions/readings to the three PG293 controls: 36/90 selected
 requests, cumulative 51,278 finite positions. No nominal positions or source
 observations are added. Native zero-reading retains the admission distinction.
+
+## PG329 · Six intransitive outer lakāras and selected closure
+
+[PG329](aa_han_intransitive_outer_lakaras_and_grid/README.md) adds 54 written
+finite positions and 63 readings, reaching 90/90 selected intransitive
+ā + han requests with 99 readings. Temporal/modal frames, compulsory versus
+optional vadha and inner-sic versus outer-ending iṭ remain distinct. The
+selected aorist 2pl policy does not resolve the Nyāsa comparison. Cumulative
+finite total: 51,332; no nominal positions or source observations added.

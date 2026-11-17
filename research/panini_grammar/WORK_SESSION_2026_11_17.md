@@ -73,3 +73,23 @@ Publication note: read-only Git fetching works in the active execution. The shel
   at PG323/324/327 and the existing Uṇādi obligations remain open.
 - Necessary Python 3.12 document/source checks only; grammar execution,
   generators, old suites and certificate replay remain deferred to Claude.
+
+## PG329 continuation
+
+- Parent: `d23b1cda0d71b8dfe98157d3d2648130c0f67776`.
+- [Intransitive outer lakāras](aa_han_intransitive_outer_lakaras_and_grid/README.md):
+  **54 new finite positions, 63 readings**, zero nominal positions and
+  source observations. Cumulative **51,332** finite positions.
+- Intransitive ā + han now has **90/90 selected keys and 99 readings**,
+  under supplied tense/modality frames and PG327's explicit aorist 2pl policy.
+- Nominal totals unchanged at 2,917 positions / 3,465 readings. The pass
+  since PG323 adds 129 finite positions / 146 readings in PG324–PG329.
+- All 54 new requests are compositions, not additional literal utterances.
+  Source/semantic histories and the compulsory/optional substitute distinction
+  survive the native zero-reading.
+- Next frontier: root-specific Nyāsa/Bālamanoramā collation, printed Mādhavīya
+  spellings, four primary Uṇādi 4.105 fields and 5.56 marker effect, or another
+  independently admitted lexical/syntactic domain. This selected 90-key
+  completion does not close those source obligations or all Sanskrit.
+- Check DOCUMENT_CHECK_RESULT.json for direct Python 3.12 document checks;
+  grammar execution, generators, old suites and certificates remain deferred.

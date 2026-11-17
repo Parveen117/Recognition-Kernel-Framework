@@ -1,0 +1,986 @@
+{
+  "schema": "rkf.panini.pg329.state.v1",
+  "author": "Monty",
+  "date": "2026-11-17",
+  "publication_parent": "d23b1cda0d71b8dfe98157d3d2648130c0f67776",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "d23b1cda0d71b8dfe98157d3d2648130c0f67776",
+    "path": "research/panini_grammar/aa_han_intransitive_present_system/STATE.json",
+    "bytes": 15816,
+    "sha256": "5595a000ead259a430210ebc149d2db7d50b815cfc7932d25bf19fce2ac0b66a",
+    "git_blob_sha": "edf7a4152443bc553378cc189e24fab723104061"
+  },
+  "finite_positions": 51332,
+  "new_positions": 54,
+  "new_position_readings": 63,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "nominal_positions": 2917,
+  "nominal_readings": 3465,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "āhantā"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.15: unambiguously non-today future",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LUT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "āhantārau"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.15: unambiguously non-today future",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LUT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "āhantāraḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.15: unambiguously non-today future",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LUT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "āhantāse"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.15: unambiguously non-today future",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LUT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "āhantāsāthe"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.15: unambiguously non-today future",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LUT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "āhantādhve"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.15: unambiguously non-today future",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LUT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "āhantāhe"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.15: unambiguously non-today future",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LUT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "āhantāsvahe"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.15: unambiguously non-today future",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LUT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "āhantāsmahe"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.15: unambiguously non-today future",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LUT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "āhaniṣyate"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.13: supplied simple future",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LRT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "āhaniṣyete"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.13: supplied simple future",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LRT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "āhaniṣyante"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.13: supplied simple future",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LRT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "āhaniṣyase"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.13: supplied simple future",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LRT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "āhaniṣyethe"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.13: supplied simple future",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LRT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "āhaniṣyadhve"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.13: supplied simple future",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LRT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "āhaniṣye"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.13: supplied simple future",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LRT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "āhaniṣyāvahe"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.13: supplied simple future",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LRT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "āhaniṣyāmahe"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.13: supplied simple future",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LRT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "āhaniṣyata"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.139: future ling-nimitta cause/consequence with supplied kriyatipatti",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LRNG"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "āhaniṣyetām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.139: future ling-nimitta cause/consequence with supplied kriyatipatti",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LRNG"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "āhaniṣyanta"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.139: future ling-nimitta cause/consequence with supplied kriyatipatti",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LRNG"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "āhaniṣyathāḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.139: future ling-nimitta cause/consequence with supplied kriyatipatti",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LRNG"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "āhaniṣyethām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.139: future ling-nimitta cause/consequence with supplied kriyatipatti",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LRNG"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "āhaniṣyadhvam"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.139: future ling-nimitta cause/consequence with supplied kriyatipatti",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LRNG"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "āhaniṣye"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.139: future ling-nimitta cause/consequence with supplied kriyatipatti",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LRNG"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "āhaniṣyāvahi"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.139: future ling-nimitta cause/consequence with supplied kriyatipatti",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LRNG"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "āhaniṣyāmahi"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.139: future ling-nimitta cause/consequence with supplied kriyatipatti",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LRNG"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lit",
+        "slot": "3sg",
+        "readings": [
+          "ājaghne"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.2.115: non-today past and paroksha; first-person paroksha witness supplied",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LIT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "ājaghnāte"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.2.115: non-today past and paroksha; first-person paroksha witness supplied",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LIT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "ājaghnire"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.2.115: non-today past and paroksha; first-person paroksha witness supplied",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LIT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "ājaghniṣe"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.2.115: non-today past and paroksha; first-person paroksha witness supplied",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LIT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "ājaghnāthe"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.2.115: non-today past and paroksha; first-person paroksha witness supplied",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LIT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "ājaghnidhve"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.2.115: non-today past and paroksha; first-person paroksha witness supplied",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LIT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "ājaghne"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.2.115: non-today past and paroksha; first-person paroksha witness supplied",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LIT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "ājaghnivahe"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.2.115: non-today past and paroksha; first-person paroksha witness supplied",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LIT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "ājaghnimahe"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.2.115: non-today past and paroksha; first-person paroksha witness supplied",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "PINNED_OWNED_LIT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "āvadhiṣīṣṭa"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.173: ashis, desired not-yet-attained result",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "COMPULSORY_VADHA_ENDING_IT_SIYUT_SUT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "āvadhiṣīyāstām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.173: ashis, desired not-yet-attained result",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "COMPULSORY_VADHA_ENDING_IT_SIYUT_SUT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "āvadhiṣīran"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.173: ashis, desired not-yet-attained result",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "COMPULSORY_VADHA_ENDING_IT_SIYUT_SUT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "āvadhiṣīṣṭhāḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.173: ashis, desired not-yet-attained result",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "COMPULSORY_VADHA_ENDING_IT_SIYUT_SUT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "āvadhiṣīyāsthām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.173: ashis, desired not-yet-attained result",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "COMPULSORY_VADHA_ENDING_IT_SIYUT_SUT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "āvadhiṣīdhvam"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.173: ashis, desired not-yet-attained result",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "COMPULSORY_VADHA_ENDING_IT_SIYUT_SUT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "āvadhiṣīya"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.173: ashis, desired not-yet-attained result",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "COMPULSORY_VADHA_ENDING_IT_SIYUT_SUT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "āvadhiṣīvahi"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.173: ashis, desired not-yet-attained result",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "COMPULSORY_VADHA_ENDING_IT_SIYUT_SUT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "āvadhiṣīmahi"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.3.173: ashis, desired not-yet-attained result",
+        "source_policy": "PINNED_SELECTED_MORPHOLOGY",
+        "branch_histories": [
+          "COMPULSORY_VADHA_ENDING_IT_SIYUT_SUT"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "āvadhiṣṭa",
+          "āhata"
+        ],
+        "position_credit": 1,
+        "reading_credit": 2,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.2.110: supplied ordinary past, excluding prohibitive mang",
+        "source_policy": "PINNED_VADHA_AND_HAN_SIC_ALTERNATIVES",
+        "branch_histories": [
+          "OPTIONAL_VADHA_IT_OF_INNER_SIC",
+          "RETAINED_HAN_KIT_SIC"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "āvadhiṣātām",
+          "āhasātām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 2,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.2.110: supplied ordinary past, excluding prohibitive mang",
+        "source_policy": "PINNED_VADHA_AND_HAN_SIC_ALTERNATIVES",
+        "branch_histories": [
+          "OPTIONAL_VADHA_IT_OF_INNER_SIC",
+          "RETAINED_HAN_KIT_SIC"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "āvadhiṣata",
+          "āhasata"
+        ],
+        "position_credit": 1,
+        "reading_credit": 2,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.2.110: supplied ordinary past, excluding prohibitive mang",
+        "source_policy": "PINNED_VADHA_AND_HAN_SIC_ALTERNATIVES",
+        "branch_histories": [
+          "OPTIONAL_VADHA_IT_OF_INNER_SIC",
+          "RETAINED_HAN_KIT_SIC"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "āvadhiṣṭhāḥ",
+          "āhathāḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 2,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.2.110: supplied ordinary past, excluding prohibitive mang",
+        "source_policy": "PINNED_VADHA_AND_HAN_SIC_ALTERNATIVES",
+        "branch_histories": [
+          "OPTIONAL_VADHA_IT_OF_INNER_SIC",
+          "RETAINED_HAN_KIT_SIC"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "āvadhiṣāthām",
+          "āhasāthām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 2,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.2.110: supplied ordinary past, excluding prohibitive mang",
+        "source_policy": "PINNED_VADHA_AND_HAN_SIC_ALTERNATIVES",
+        "branch_histories": [
+          "OPTIONAL_VADHA_IT_OF_INNER_SIC",
+          "RETAINED_HAN_KIT_SIC"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "āvadhiḍhvam",
+          "āhadhvam"
+        ],
+        "position_credit": 1,
+        "reading_credit": 2,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.2.110: supplied ordinary past, excluding prohibitive mang",
+        "source_policy": "BAPAT_PRINT_WITH_BALAMANORAMA_AORIST_IC_FINAL_ANGA_ACCOUNT",
+        "branch_histories": [
+          "OPTIONAL_VADHA_IT_OF_INNER_SIC",
+          "RETAINED_HAN_KIT_SIC"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "āvadhiṣi",
+          "āhasi"
+        ],
+        "position_credit": 1,
+        "reading_credit": 2,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.2.110: supplied ordinary past, excluding prohibitive mang",
+        "source_policy": "PINNED_VADHA_AND_HAN_SIC_ALTERNATIVES",
+        "branch_histories": [
+          "OPTIONAL_VADHA_IT_OF_INNER_SIC",
+          "RETAINED_HAN_KIT_SIC"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "āvadhiṣvahi",
+          "āhasvahi"
+        ],
+        "position_credit": 1,
+        "reading_credit": 2,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.2.110: supplied ordinary past, excluding prohibitive mang",
+        "source_policy": "PINNED_VADHA_AND_HAN_SIC_ALTERNATIVES",
+        "branch_histories": [
+          "OPTIONAL_VADHA_IT_OF_INNER_SIC",
+          "RETAINED_HAN_KIT_SIC"
+        ]
+      },
+      {
+        "profile": "AA_HAN_INTRANSITIVE_A",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "āvadhiṣmahi",
+          "āhasmahi"
+        ],
+        "position_credit": 1,
+        "reading_credit": 2,
+        "evidence": "WRITTEN_RULE_COMPOSITION_WITH_PINNED_MORPHOLOGY",
+        "admission": "KASHIKA_1_3_28_AKARMAKA",
+        "frame": "3.2.110: supplied ordinary past, excluding prohibitive mang",
+        "source_policy": "PINNED_VADHA_AND_HAN_SIC_ALTERNATIVES",
+        "branch_histories": [
+          "OPTIONAL_VADHA_IT_OF_INNER_SIC",
+          "RETAINED_HAN_KIT_SIC"
+        ]
+      }
+    ]
+  },
+  "intransitive_domain": {
+    "position_keys_before": 36,
+    "new_position_keys": 54,
+    "position_keys_after": 90,
+    "selected_readings_after": 99,
+    "declared_target": 90,
+    "closure_scope": "Selected written actor-intransitive requests under declared temporal/modal and commentary policies; not literal attestation or agreement of all commentators.",
+    "register": "DOMAIN_REGISTER.tsv"
+  },
+  "grammar_executions": [],
+  "overall_grammar_completion_percent": null,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_runtime": "3.12.14",
+    "document_check_status": "PASS"
+  },
+  "open_obligations": [
+    "Root-specific reconciliation of Nyasa and Balamanorama aorist 2pl prapti accounts remains open; no extra dental-vadha option credited.",
+    "Printed Madhaviya collation of PG323/324/327 digital spellings remains open.",
+    "Four primary Unadi 4.105 affix fields and independent 5.56 marker effect remain open.",
+    "Other lexical/sense/syntactic domains, Vedic options and runtime implementation remain open."
+  ]
+}
