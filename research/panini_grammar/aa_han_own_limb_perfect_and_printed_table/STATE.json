@@ -1,0 +1,131 @@
+{
+  "schema": "rkf.panini.pg325.state.v1",
+  "author": "Monty",
+  "date": "2026-11-17",
+  "publication_parent": "a5d8c3cd467208b9964c52cce536ad4d5c6bb116",
+  "baseline": {
+    "repository": "Parveen117/Recognition-Kernel-Framework",
+    "commit": "a5d8c3cd467208b9964c52cce536ad4d5c6bb116",
+    "path": "research/panini_grammar/aa_han_own_limb_present_system_completion/STATE.json",
+    "bytes": 6371,
+    "sha256": "5fda6bbe91a0bd974be43d430d9db659278d1d85462bdb8878600b5929aeca8e",
+    "git_blob_sha": "0661429634a46c6bb06af401f500b2f887c54224"
+  },
+  "finite_positions": 51229,
+  "new_positions": 8,
+  "new_position_readings": 8,
+  "new_written_table_readings": 8,
+  "retained_path_count": 8,
+  "new_nominal_positions": 0,
+  "new_source_observations": 0,
+  "printed_word_shape_controls": 8,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "lit",
+        "slot": "3du",
+        "readings": [
+          "ājaghnāte"
+        ],
+        "position_credit": 1,
+        "evidence": "PRINTED_WORD_SHAPE_WITH_INHERITED_SEMANTIC_FRAME"
+      },
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "lit",
+        "slot": "3pl",
+        "readings": [
+          "ājaghnire"
+        ],
+        "position_credit": 1,
+        "evidence": "PRINTED_WORD_SHAPE_WITH_INHERITED_SEMANTIC_FRAME"
+      },
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "lit",
+        "slot": "2sg",
+        "readings": [
+          "ājaghniṣe"
+        ],
+        "position_credit": 1,
+        "evidence": "PRINTED_WORD_SHAPE_WITH_INHERITED_SEMANTIC_FRAME"
+      },
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "lit",
+        "slot": "2du",
+        "readings": [
+          "ājaghnāthe"
+        ],
+        "position_credit": 1,
+        "evidence": "PRINTED_WORD_SHAPE_WITH_INHERITED_SEMANTIC_FRAME"
+      },
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "lit",
+        "slot": "2pl",
+        "readings": [
+          "ājaghnidhve"
+        ],
+        "position_credit": 1,
+        "evidence": "PRINTED_WORD_SHAPE_WITH_INHERITED_SEMANTIC_FRAME"
+      },
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "lit",
+        "slot": "1sg",
+        "readings": [
+          "ājaghne"
+        ],
+        "position_credit": 1,
+        "evidence": "PRINTED_WORD_SHAPE_WITH_INHERITED_SEMANTIC_FRAME"
+      },
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "lit",
+        "slot": "1du",
+        "readings": [
+          "ājaghnivahe"
+        ],
+        "position_credit": 1,
+        "evidence": "PRINTED_WORD_SHAPE_WITH_INHERITED_SEMANTIC_FRAME"
+      },
+      {
+        "profile": "AA_HAN_OWN_LIMB_A",
+        "lakara": "lit",
+        "slot": "1pl",
+        "readings": [
+          "ājaghnimahe"
+        ],
+        "position_credit": 1,
+        "evidence": "PRINTED_WORD_SHAPE_WITH_INHERITED_SEMANTIC_FRAME"
+      }
+    ]
+  },
+  "own_limb_domain": {
+    "position_keys_before": 66,
+    "new_position_keys": 8,
+    "position_keys_after": 74,
+    "declared_target": 90,
+    "remaining": {
+      "ashirling": 8,
+      "lung": 8
+    }
+  },
+  "grammar_executions": [],
+  "overall_grammar_completion_percent": null,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_runtime": "3.12.14",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_checks": "Printed transcription versus manual written rows, PDF source bytes, exact commentary fields, inherited-key separation, table/count/Unicode/navigation agreement only."
+  },
+  "open_obligations": [
+    "Eight uncredited persons each in own-limb āśīrliṅ and luṅ.",
+    "The print controls morphological words, not nine independently quoted own-limb clauses.",
+    "PG324’s unassigned loṭ digital string and the inherited present-spelling collations remain open."
+  ]
+}

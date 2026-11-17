@@ -14,7 +14,8 @@ are continuation opportunities, not evidence of continuous elapsed work.
   finite positions/readings, six literal Mādhavīya word-shape controls,
   twelve written compositions and one unassigned digital-source observation.
   The selected own-limb ā + han domain advances from 48/90 to 66/90.
-- Cumulative written finite total: **51,221**. No nominal positions added.
+- [PG325](aa_han_own_limb_perfect_and_printed_table/README.md): eight new perfect positions/readings, using the visually read printed word table with separately inherited semantic admission. The own-limb grid is **74/90**.
+- Cumulative written finite total: **51,229**. No nominal positions added.
 - The changed-document/source check passed under **Python 3.12.14**.
   Grammar executions, generators and certificate replay remain deferred.
 - Root mathematical navigation now also routes PG276–PG323 through the
@@ -22,7 +23,7 @@ are continuation opportunities, not evidence of continuous elapsed work.
 
 ## Immediate next grammar work
 
-1. Complete the eight uncredited own-limb liṭ persons. The scan of Govind
+1. **Completed at PG325:** the eight formerly uncredited own-limb liṭ persons. The scan of Govind
    Shankar Shastri Bapat, *A Guide to Sanskrit Verbs* (Bombay, 1886),
    printed page 63 / one-based PDF page 84, has all nine ā + han middle
    perfect word shapes. It visibly has **ājaghnimahe** in first plural;
@@ -52,3 +53,5 @@ readings, source observations and corrected existing credits distinct.
 Reuse exact unchanged source pins and the PG14 full operator/history carrier.
 Necessary checks use Python 3.12 only and run once after each coherent change.
 Do not execute grammar generators, old test suites or certificate replay.
+
+Publication note: read-only Git fetching works in the active execution. The shell push did not have credentials; PG324 was published successfully through the connected GitHub tree/commit/ref actions with an expected-head lease and no force. Reuse an authorized publication route without requesting or exposing tokens.

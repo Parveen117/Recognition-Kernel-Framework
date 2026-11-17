@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG324 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG325 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG324 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG325 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -689,6 +689,10 @@ cumulative **21,641**; static Python 3.12 checks only. The proposed
 ud/ā-yam frontier is uncounted and grammar tests/replay remain deferred.
 
 [11 November Sanskrit session record](research/panini_grammar/session_20261111/SESSION_RECORD.md) · PG119–150, 6,111 new positions and 10,747 readings, cumulative 33,278.
+
+## PG325 · Ā + han perfect and the printed first plural
+
+[Grammar and source collation](research/panini_grammar/aa_han_own_limb_perfect_and_printed_table/README.md). Eight new written finite positions/readings complete the selected perfect panel. The scan controls all nine word shapes; its first plural is ājaghnimahe and the own-limb semantic licence is inherited separately. Cumulative **51,229**, bounded own-limb target **74/90**. The full native history carrier and typed zero-recovery are reused without a runtime or external-verification upgrade.
 
 ## PG324 · Ā + han: the remaining present-system persons
 
