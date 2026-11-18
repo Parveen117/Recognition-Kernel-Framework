@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG344 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG345 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG344 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG345 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4522,3 +4522,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG344 · Local A kit and two addressed s queries
 
 [Middle blessing](research/panini_grammar/bhid_middle_benedictive_and_two_s_queries/README.md) adds nine positions/readings, cumulative finite **51,441**. Initial sīyuṭ and internal suṭ, dual dental st/sth and dental 2pl dh retain source-qualified ownership on PG14’s full carrier with typed zero recovery. Runtime/replay deferred.
+
+## PG345 · Middle aorist and source-policy channels
+
+[Owned middle aorist](research/panini_grammar/bhid_middle_aorist_and_sic_lopa_scope/README.md) adds nine positions/readings, cumulative finite **51,450**. A-specific sic kit, actual lopa neighbours and separate Kaumudī/Kāśikā scope policies remain on PG14’s full carrier with typed zero recovery. Runtime grammar/replay deferred.

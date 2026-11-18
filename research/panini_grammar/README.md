@@ -2290,3 +2290,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG344 · Bhid middle benedictive
 
 [PG344](bhid_middle_benedictive_and_two_s_queries/README.md) adds nine finite positions/readings, cumulative **51,441**. One literal word and eight compositions retain local A kit and distinct initial/internal s histories on PG14’s full carrier, with typed zero recovery. Middle target 72/90; nominal totals 2,917/3,465 unchanged. Grammar execution/replay deferred.
+
+## PG345 · Bhid middle aorist
+
+[PG345](bhid_middle_aorist_and_sic_lopa_scope/README.md) adds nine finite positions/readings, cumulative **51,450**. Four literal controls and five compositions separate actual sic-lopa gates on PG14’s full carrier with typed zero recovery. Kaumudī supplies a positive luṭ dhve source route while contrary/misaligned fields remain explicit. Middle target 81/90; nominal totals unchanged; runtime/replay deferred.

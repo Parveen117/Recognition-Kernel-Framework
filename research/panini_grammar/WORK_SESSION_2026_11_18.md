@@ -82,3 +82,11 @@ Monty. Bounded continuation; no claim of continuous elapsed execution.
 - One literal Kāśikā bhitsīṣṭa control; eight written cells. Aniṭ leaves sīyuṭ jhal-initial, licensing A 1.2.11 kit. P 3.4.104/ordinary apit-sārvadhātuka are not copied. Initial s stays dental, internal singular suṭ-s becomes ṣ; dual internal s remains dental. No iṭ and d-final root defeat 2pl dh retroflexion.
 - Middle selected target 72/90. Next lut/lung (18 requests), after independent source/prior review. Luṭ tās-s before dhve still needs exact source policy; do not replace its obligation by a sic-only explanation. Earlier textual gaps remain open.
 - Python 3.12 direct checks only; generators, grammar execution, old suites and replay deferred.
+
+## PG345 · Bhid middle aorist and luṭ source route
+
+- Parent `9b4d9cd532ff3862d2bb09c3539467aba8a584a8`; [packet](bhid_middle_aorist_and_sic_lopa_scope/README.md). New 9 finite positions/readings; cumulative **51,450**. No nominal/source-observation additions; nominal 2,917/3,465.
+- Four literal controls, five compositions. Retain A kit sic/root i; no P-only irit aṅ or P vṛddhi. Sic-s deletion at 3sg/2sg/2pl, retention before actual vowel/v/m at six other cells. No A ending apṛkta-hal īṭ, no 2pl hal-before-root collapse or iṇ-based retroflexion.
+- Positive luṭ bridge: exact Kaumudī 8.2.25 explicitly prints edhitādhve. Use this named broad policy for future tās-s/dhve if selected; preserve Kāśikā sic-only scope separately. Raw Bālamanoramā field 82025 is a ho dhah exposition, so digital field alignment stays Open; no silent normalization.
+- Middle selected target 81/90; next luṭ nine requests with explicit policy plus prior-coverage review. Closed P and PG335 correction remain frozen; prior textual obligations open.
+- Python 3.12 direct checks only; Sanskrit generation/execution, old suites and replay deferred.
