@@ -2326,3 +2326,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG353 · Niṣṭhā role binding and dependent case
 
 [PG353](nistha_role_binding_and_case_competition/README.md) constructs four past-participle predications: patient kta with instrumental agent, agent ktavatu with accusative object. The 2.3.69 block, present-kta exception, residual-possession channel and owned external readout stay distinct. Four syntactic constructions, zero new finite/nominal credits or source observations; totals 51,459 finite and 3,055/3,606 nominal. Full PG14 carrier with typed zero recovery; runtime/replay deferred.
+
+## PG354 · Bhittvā and prabhidya with common actor
+
+[PG354](bhid_prior_action_ktva_and_pra_lyap/README.md) constructs two new nonfinite words/readings under supplied same-actor relative-prior-action evidence. Non-nañ verbal pra licenses whole-affix lyap replacement; retained kit and actual val-initial iṭ queries remain distinct. PG14 full carrier with typed zero recovery; no new finite/nominal/source credits, totals 51,459 finite and 3,055/3,606 nominal unchanged. Runtime/replay deferred.

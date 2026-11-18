@@ -1,0 +1,97 @@
+{
+  "stage": "PG354",
+  "kind": "two new written nonfinite constructions, not finite/nominal cells",
+  "accepted": [
+    {
+      "id": "BHID_UNPREFIXED_KTVA",
+      "root": "1070002 / 07.0002",
+      "sense": "विदारणे",
+      "prefixes": [],
+      "formation": "simple",
+      "first_event": "split supplied wood",
+      "later_event": "go",
+      "agent_first": "A",
+      "agent_later": "A",
+      "relative_order": "split precedes go",
+      "affix_origin": "ktva under 3.4.21",
+      "actual_affix": "ktva -> tva",
+      "reading": "bhittvā",
+      "owned_readout": "bhi-t_root|tva_affix",
+      "example": "kāṣṭhaṃ bhittvā vrajati",
+      "evidence": "WRITTEN_COMPOSITION",
+      "nonfinite_credit": 1
+    },
+    {
+      "id": "PRA_BHID_LYAP",
+      "root": "1070002 / 07.0002",
+      "sense": "विदारणे",
+      "prefixes": [
+        "pra"
+      ],
+      "formation": "simple verbal pra compound; positively supplied gati/non-nan evidence",
+      "first_event": "split supplied wood with verbal pra",
+      "later_event": "go",
+      "agent_first": "A",
+      "agent_later": "A",
+      "relative_order": "split precedes go",
+      "affix_origin": "ktva under 3.4.21, replaced by lyap under 7.1.37",
+      "actual_affix": "lyap -> ya",
+      "reading": "prabhidya",
+      "owned_readout": "pra_prefix|bhid_root|ya_affix",
+      "example": "kāṣṭhaṃ prabhidya vrajati",
+      "evidence": "WRITTEN_COMPOSITION",
+      "nonfinite_credit": 1
+    }
+  ],
+  "diagnostics": [
+    {
+      "id": "DIFFERENT_AGENTS",
+      "given": "agent A splits, distinct B goes",
+      "outcome": "EXCLUDED_LOCAL_3_4_21",
+      "reason": "same actor premise false"
+    },
+    {
+      "id": "SIMULTANEOUS_ORDINARY",
+      "given": "splitting and going concurrent; no separately sourced exceptional permission",
+      "outcome": "EXCLUDED_LOCAL_3_4_21",
+      "reason": "relative prior premise false"
+    },
+    {
+      "id": "UNKNOWN_ACTOR_IDENTITY",
+      "given": "unsupplied whether the actors coincide",
+      "outcome": "OPEN_ACTOR_EVIDENCE"
+    },
+    {
+      "id": "UNKNOWN_COMPOUND_STATUS",
+      "given": "pra letters present, but verbal gati/non-nan compound evidence missing",
+      "outcome": "OPEN_LYAP_ADMISSION"
+    },
+    {
+      "id": "NAN_ONLY_PREFIX",
+      "given": "nan-purva compound only",
+      "outcome": "EXCLUDED_LOCAL_LYAP_EDGE",
+      "reason": "7.1.37 non-nan premise false; not a ban on ktva itself"
+    }
+  ],
+  "kit_policy": "Retain source-justified ktva kit query for lyap; do not copy the old val-initial sound condition into the actual y-initial it query.",
+  "case_policy": "Independent object accusative under 2.3.1/2; avyaya genitive exception at 2.3.69, no new object declension credit.",
+  "exclusions": [
+    "nistha n-substitution on ktva t",
+    "present snam carried into nonfinite root",
+    "copy absolute past-nistha admission",
+    "free ktva/lyap alternative for admitted pra compound",
+    "derive action chronology from grammar history length"
+  ],
+  "open": [
+    "exceptional nonprior constructions beyond cited source examples",
+    "other prefixes/senses/derived roots and unrestricted clause parser"
+  ],
+  "credits": {
+    "new_nonfinite_constructions": 2,
+    "new_nonfinite_readings": 2,
+    "new_syntactic_constructions": 0,
+    "new_finite_positions": 0,
+    "new_nominal_positions": 0,
+    "new_source_observations": 0
+  }
+}

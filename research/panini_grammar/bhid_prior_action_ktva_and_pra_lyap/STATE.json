@@ -1,0 +1,126 @@
+{
+  "schema": "rkf.panini.pg354.state.v1",
+  "author": "Monty",
+  "date": "2026-11-18",
+  "publication_parent": "827d519e7477125c4d87ba5cd8445decdc98b27e",
+  "baseline": {
+    "commit": "827d519e7477125c4d87ba5cd8445decdc98b27e",
+    "path": "research/panini_grammar/nistha_role_binding_and_case_competition/STATE.json",
+    "finite_positions": 51459,
+    "nominal_positions": 3055,
+    "nominal_readings": 3606
+  },
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "new_nonfinite_constructions": 2,
+  "new_nonfinite_readings": 2,
+  "new_syntactic_constructions": 0,
+  "finite_positions": 51459,
+  "nominal_positions": 3055,
+  "nominal_readings": 3606,
+  "position_accounting": {
+    "finite_forms": [],
+    "nominal_forms": []
+  },
+  "nonfinite_constructions": [
+    {
+      "id": "BHID_UNPREFIXED_KTVA",
+      "root": "1070002 / 07.0002",
+      "sense": "विदारणे",
+      "prefixes": [],
+      "formation": "simple",
+      "first_event": "split supplied wood",
+      "later_event": "go",
+      "agent_first": "A",
+      "agent_later": "A",
+      "relative_order": "split precedes go",
+      "affix_origin": "ktva under 3.4.21",
+      "actual_affix": "ktva -> tva",
+      "reading": "bhittvā",
+      "owned_readout": "bhi-t_root|tva_affix",
+      "example": "kāṣṭhaṃ bhittvā vrajati",
+      "evidence": "WRITTEN_COMPOSITION",
+      "nonfinite_credit": 1
+    },
+    {
+      "id": "PRA_BHID_LYAP",
+      "root": "1070002 / 07.0002",
+      "sense": "विदारणे",
+      "prefixes": [
+        "pra"
+      ],
+      "formation": "simple verbal pra compound; positively supplied gati/non-nan evidence",
+      "first_event": "split supplied wood with verbal pra",
+      "later_event": "go",
+      "agent_first": "A",
+      "agent_later": "A",
+      "relative_order": "split precedes go",
+      "affix_origin": "ktva under 3.4.21, replaced by lyap under 7.1.37",
+      "actual_affix": "lyap -> ya",
+      "reading": "prabhidya",
+      "owned_readout": "pra_prefix|bhid_root|ya_affix",
+      "example": "kāṣṭhaṃ prabhidya vrajati",
+      "evidence": "WRITTEN_COMPOSITION",
+      "nonfinite_credit": 1
+    }
+  ],
+  "diagnostics": [
+    {
+      "id": "DIFFERENT_AGENTS",
+      "given": "agent A splits, distinct B goes",
+      "outcome": "EXCLUDED_LOCAL_3_4_21",
+      "reason": "same actor premise false"
+    },
+    {
+      "id": "SIMULTANEOUS_ORDINARY",
+      "given": "splitting and going concurrent; no separately sourced exceptional permission",
+      "outcome": "EXCLUDED_LOCAL_3_4_21",
+      "reason": "relative prior premise false"
+    },
+    {
+      "id": "UNKNOWN_ACTOR_IDENTITY",
+      "given": "unsupplied whether the actors coincide",
+      "outcome": "OPEN_ACTOR_EVIDENCE"
+    },
+    {
+      "id": "UNKNOWN_COMPOUND_STATUS",
+      "given": "pra letters present, but verbal gati/non-nan compound evidence missing",
+      "outcome": "OPEN_LYAP_ADMISSION"
+    },
+    {
+      "id": "NAN_ONLY_PREFIX",
+      "given": "nan-purva compound only",
+      "outcome": "EXCLUDED_LOCAL_LYAP_EDGE",
+      "reason": "7.1.37 non-nan premise false; not a ban on ktva itself"
+    }
+  ],
+  "bounded_pass": {
+    "stages": "PG347-PG354",
+    "new_unique_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 138,
+    "new_nominal_readings": 141,
+    "new_source_observations": 4,
+    "new_syntactic_constructions": 4,
+    "new_nonfinite_constructions": 2,
+    "new_nonfinite_readings": 2
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Wider same-agent/relative-order semantics, exceptional ktva admissions, other prefixes/derived roots and accent.",
+    "Earlier Bhatti locator, digital field alignment, typo provenance and Unadi obligations.",
+    "Grammar implementation/generators/execution, untouched suites and replay deferred to Claude."
+  ]
+}
