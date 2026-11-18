@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG351 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG352 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG351 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG352 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4550,3 +4550,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG351 · Agentive niṣṭhā and the strong/weak nominal interface
 
 [Bhinnavat masculine construction](research/panini_grammar/bhinnavat_agent_and_masculine_strong_weak/README.md) independently admits ktavatu agent meaning, retains kit/ugit and constructs strong num, nominative-only lengthening and weak final-t readout. Nineteen new nominal positions/readings, five old-control keys withheld. PG14 full carrier, complementary channels and typed zero recovery; totals finite 51,459, nominal 3,007/3,555; runtime/replay deferred.
+
+## PG352 · Homographic suffix/ending ī and single neuter num
+
+[Gendered agentive construction](research/panini_grammar/bhinnavat_feminine_i_and_neuter_endings/README.md) adds 48 nominal positions/51 readings. Feminine ṅīp and neuter dual śī have different owners; the later 7.1.72 num is not duplicated. Full PG14 carrier, complementary outcomes and typed zero recovery preserve pause alternatives/homographs. Totals finite 51,459; nominal 3,055/3,606. Runtime/replay deferred.

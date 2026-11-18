@@ -140,3 +140,12 @@ Monty. Bounded continuation; no claim of continuous elapsed execution.
 - All 24 masculine keys manually written. Prior bhinnavān/bhinnavadbhyām/bhinnavadbhiḥ controls cause five conservatively withheld credits, not a claim of old ledger inclusion. Later readout d cannot retrigger root-d niṣṭhā replacement. PG216 ending interface reused through exact pins; old patient and finite grids unchanged.
 - Next feminine/neuter ktavatu or independently unconstructed semantic/derived domains after source/prior-coverage review. Earlier textual obligations stay Open; no whole-Sanskrit completion ETA or continuous-hours claim.
 - Python 3.12 direct changed-document/source/count checks only; grammar generators/execution, untouched suites and certificate replay deferred to Claude.
+
+## PG352 · Feminine bhinnavatī and neuter dual/num histories
+
+- Parent `ab0a8e9b97c216c6ec2e2868bbccc531712295d7`; [packet](bhinnavat_feminine_i_and_neuter_endings/README.md). New 48 nominal positions / 51 readings, zero finite/source observations. Totals finite 51,459; nominal **3,055 / 3,606**. Bounded PG347–352: 138 nominal positions/141 readings, 0 finite, 4 source observations.
+- PG351 agentive admission reused on unchanged root/sense/prefix/formation conditions; feminine/neuter referents supplied independently. Ṅīp-ī differs from neuter dual śī-ending ī. Later 7.1.72 expressly governs the ugit consonant-final neuter num; no duplicate 7.1.70 num. Neuter bhinnavanti has short a, unlike n-final patient bhinnāni. Both t/d pause branches retained in neuter nom/acc/voc singular.
+- Full 48-key tables manually written; 51 selected readings. Shared PG216 ending interface source-pinned, no generator run. PG14 full-carrier extension and typed zero recovery retain homographs, owner histories and outcome complements.
+- Selected past-patient kta and past-agent ktavatu three-gender scope now 144 keys /147 readings. PG349–352 credit only 138/141 after six conservative old-control withholdings; no whole-niṣṭhā or Sanskrit completion claim. Closed finite grids and PG335 correction unchanged.
+- Next genuinely unconstructed root/sense/prefix/derived/syntactic domains or actual textual gaps; do not recount these selected niṣṭhā panels. Accent, broad semantic parsing, Bhatti locator, source alignment/typo provenance and Unadi obligations stay Open. No narrow global ETA.
+- Only Python 3.12 changed-document/source/count checks; grammar execution/generators, untouched suites and certificate replay deferred to Claude.

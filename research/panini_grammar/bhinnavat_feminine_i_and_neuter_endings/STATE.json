@@ -1,0 +1,694 @@
+{
+  "schema": "rkf.panini.pg352.state.v1",
+  "author": "Monty",
+  "date": "2026-11-18",
+  "publication_parent": "ab0a8e9b97c216c6ec2e2868bbccc531712295d7",
+  "baseline": {
+    "commit": "ab0a8e9b97c216c6ec2e2868bbccc531712295d7",
+    "path": "research/panini_grammar/bhinnavat_agent_and_masculine_strong_weak/STATE.json",
+    "finite_positions": 51459,
+    "nominal_positions": 3007,
+    "nominal_readings": 3555
+  },
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 48,
+  "new_nominal_readings": 51,
+  "new_source_observations": 0,
+  "finite_positions": 51459,
+  "nominal_positions": 3055,
+  "nominal_readings": 3606,
+  "position_accounting": {
+    "finite_forms": [],
+    "nominal_forms": [
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "nom",
+        "number": "sg",
+        "readings": [
+          "bhinnavatī"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "nom",
+        "number": "du",
+        "readings": [
+          "bhinnavatyau"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "nom",
+        "number": "pl",
+        "readings": [
+          "bhinnavatyaḥ"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "acc",
+        "number": "sg",
+        "readings": [
+          "bhinnavatīm"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "acc",
+        "number": "du",
+        "readings": [
+          "bhinnavatyau"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "acc",
+        "number": "pl",
+        "readings": [
+          "bhinnavatīḥ"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "ins",
+        "number": "sg",
+        "readings": [
+          "bhinnavatyā"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "ins",
+        "number": "du",
+        "readings": [
+          "bhinnavatībhyām"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "ins",
+        "number": "pl",
+        "readings": [
+          "bhinnavatībhiḥ"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "dat",
+        "number": "sg",
+        "readings": [
+          "bhinnavatyai"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "dat",
+        "number": "du",
+        "readings": [
+          "bhinnavatībhyām"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "dat",
+        "number": "pl",
+        "readings": [
+          "bhinnavatībhyaḥ"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "abl",
+        "number": "sg",
+        "readings": [
+          "bhinnavatyāḥ"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "abl",
+        "number": "du",
+        "readings": [
+          "bhinnavatībhyām"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "abl",
+        "number": "pl",
+        "readings": [
+          "bhinnavatībhyaḥ"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "gen",
+        "number": "sg",
+        "readings": [
+          "bhinnavatyāḥ"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "gen",
+        "number": "du",
+        "readings": [
+          "bhinnavatyoḥ"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "gen",
+        "number": "pl",
+        "readings": [
+          "bhinnavatīnām"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "loc",
+        "number": "sg",
+        "readings": [
+          "bhinnavatyām"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "loc",
+        "number": "du",
+        "readings": [
+          "bhinnavatyoḥ"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "loc",
+        "number": "pl",
+        "readings": [
+          "bhinnavatīṣu"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "voc",
+        "number": "sg",
+        "readings": [
+          "bhinnavati"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "voc",
+        "number": "du",
+        "readings": [
+          "bhinnavatyau"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavatī",
+        "gender": "f",
+        "case": "voc",
+        "number": "pl",
+        "readings": [
+          "bhinnavatyaḥ"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "nom",
+        "number": "sg",
+        "readings": [
+          "bhinnavad",
+          "bhinnavat"
+        ],
+        "credit_here": 1,
+        "reading_credit": 2,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "nom",
+        "number": "du",
+        "readings": [
+          "bhinnavatī"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "nom",
+        "number": "pl",
+        "readings": [
+          "bhinnavanti"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "acc",
+        "number": "sg",
+        "readings": [
+          "bhinnavad",
+          "bhinnavat"
+        ],
+        "credit_here": 1,
+        "reading_credit": 2,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "acc",
+        "number": "du",
+        "readings": [
+          "bhinnavatī"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "acc",
+        "number": "pl",
+        "readings": [
+          "bhinnavanti"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "ins",
+        "number": "sg",
+        "readings": [
+          "bhinnavatā"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "ins",
+        "number": "du",
+        "readings": [
+          "bhinnavadbhyām"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "ins",
+        "number": "pl",
+        "readings": [
+          "bhinnavadbhiḥ"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "dat",
+        "number": "sg",
+        "readings": [
+          "bhinnavate"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "dat",
+        "number": "du",
+        "readings": [
+          "bhinnavadbhyām"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "dat",
+        "number": "pl",
+        "readings": [
+          "bhinnavadbhyaḥ"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "abl",
+        "number": "sg",
+        "readings": [
+          "bhinnavataḥ"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "abl",
+        "number": "du",
+        "readings": [
+          "bhinnavadbhyām"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "abl",
+        "number": "pl",
+        "readings": [
+          "bhinnavadbhyaḥ"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "gen",
+        "number": "sg",
+        "readings": [
+          "bhinnavataḥ"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "gen",
+        "number": "du",
+        "readings": [
+          "bhinnavatoḥ"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "gen",
+        "number": "pl",
+        "readings": [
+          "bhinnavatām"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "loc",
+        "number": "sg",
+        "readings": [
+          "bhinnavati"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "loc",
+        "number": "du",
+        "readings": [
+          "bhinnavatoḥ"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "loc",
+        "number": "pl",
+        "readings": [
+          "bhinnavatsu"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "voc",
+        "number": "sg",
+        "readings": [
+          "bhinnavad",
+          "bhinnavat"
+        ],
+        "credit_here": 1,
+        "reading_credit": 2,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "voc",
+        "number": "du",
+        "readings": [
+          "bhinnavatī"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_AGENT_KTAVATU",
+        "stem": "bhinnavat",
+        "gender": "n",
+        "case": "voc",
+        "number": "pl",
+        "readings": [
+          "bhinnavanti"
+        ],
+        "credit_here": 1,
+        "reading_credit": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      }
+    ]
+  },
+  "selected_panels": {
+    "feminine_positions": 24,
+    "feminine_readings": 24,
+    "neuter_positions": 24,
+    "neuter_readings": 27,
+    "old_masculine_keys_recredited": 0
+  },
+  "selected_nistha_scope": {
+    "patient_positions": 72,
+    "patient_readings": 72,
+    "agent_positions": 72,
+    "agent_readings": 75,
+    "combined_positions": 144,
+    "combined_readings": 147,
+    "credited_PG349_to_PG352_positions": 138,
+    "credited_PG349_to_PG352_readings": 141,
+    "conservatively_withheld_keys": 6
+  },
+  "bounded_pass": {
+    "stages": "PG347-PG352",
+    "new_unique_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 138,
+    "new_nominal_readings": 141,
+    "new_source_observations": 4
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Wider root/sense/prefix/derived contexts, accent and unrestricted nominal syntax.",
+    "Earlier Bhatti locator, digital source alignment, Kashika typo transmission and Unadi fields/marker obligations.",
+    "Sanskrit generators/execution, untouched suites, implementation and replay deferred to Claude."
+  ]
+}

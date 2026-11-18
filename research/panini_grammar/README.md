@@ -2318,3 +2318,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG351 · Agentive bhinnavat masculine cases
 
 [PG351](bhinnavat_agent_and_masculine_strong_weak/README.md) independently admits past-agent ktavatu and writes the 24-key masculine panel: 19 new nominal positions/readings with five old-control keys withheld. Strong num, nominative-only ā and final t/d have separate owners. PG14 full native carrier with typed zero recovery; totals finite 51,459, nominal 3,007/3,555; runtime/replay deferred.
+
+## PG352 · Agentive feminine ī and neuter endings
+
+[PG352](bhinnavat_feminine_i_and_neuter_endings/README.md) adds 48 nominal positions / 51 readings with independent feminine/neuter agreement, distinct homographic ī histories, one neuter num and retained singular t/d pause doublets. Selected kta/ktavatu scope 144 keys/147 readings; only 138/141 new credits after six old-control withholdings. Totals finite 51,459, nominal 3,055/3,606. PG14 full carrier and typed zero recovery; runtime/replay deferred.
