@@ -59,3 +59,11 @@ Monty. Bounded continuation; no claim of continuous elapsed execution.
 - Actor principal fruit under 1.3.72 is independently supplied; wages-only benefit does not suffice. All words written. P local suffix/grade results reused only through unchanged exact conditions; A ending and e histories independently constructed.
 - Middle selected target 45/90: old PG7/PG22 27 positions, new 18. Next lang/lit/lut/ashirling/lung (45 requests), after prior prose/factored review. Closed PG340 P grid and PG335 correction preserved. Earlier textual obligations remain open.
 - Python 3.12 direct document/source/count checks only; generators, grammar execution, old suites and replay deferred. No narrow completion ETA supported by a measured global backlog yet.
+
+## PG342 · Bhid middle imperfect
+
+- Parent `b3e48db8aa3dba6e7881250ad235c06f084727e9`; [packet](bhid_middle_imperfect_and_uniform_weak_query/README.md). New 9 finite positions / 12 readings; cumulative **51,423**. No nominal/source-observation additions; nominal 2,917/3,465.
+- Actual A laṅ endings all apit; infix a-lopa in every cell. Consonant-ending aṅga licenses 7.1.5 at and defeats 7.2.81 short-a dual change. Root d/ending t-th-dh collapse options occur only at 3sg/2sg/2pl. First singular i is an ending, not iṭ augment. All words written.
+- Preserve PG337 Kaumudī/Bālamanoramā laṅ selection and raw Kāśikā typo, with provenance unresolved. No P sip-root-ru branch or future e-dual copied.
+- Middle selected target 54/90; next lit/lut/ashirling/lung (36 requests), after prior-domain/source review. Closed P and old credit corrections stay frozen. Earlier textual obligations open.
+- Python 3.12 direct checks only; grammar execution/generators, old suites and replay deferred.

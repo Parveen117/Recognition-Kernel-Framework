@@ -2278,3 +2278,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG341 · Bhid actor-result middle futures
 
 [PG341](bhid_actor_result_middle_futures/README.md) adds 18 finite positions/readings, cumulative **51,414**. Principal result is distinguished from incidental wages; A ending histories are constructed on PG14’s full carrier with typed zero recovery. Middle selected coverage 45/90; nominal 2,917/3,465 unchanged. Grammar execution/replay deferred.
+
+## PG342 · Bhid middle imperfect
+
+[PG342](bhid_middle_imperfect_and_uniform_weak_query/README.md) adds nine finite positions/twelve readings, cumulative **51,423**. Ending-conditioned infix-a lopa, an-at third plural and three dental-collapse sites retain ownership on PG14’s full carrier with typed zero recovery. Middle target 54/90; nominal 2,917/3,465 unchanged. Grammar execution/replay deferred.
