@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG352 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG353 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG352 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG353 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4554,3 +4554,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG352 · Homographic suffix/ending ī and single neuter num
 
 [Gendered agentive construction](research/panini_grammar/bhinnavat_feminine_i_and_neuter_endings/README.md) adds 48 nominal positions/51 readings. Feminine ṅīp and neuter dual śī have different owners; the later 7.1.72 num is not duplicated. Full PG14 carrier, complementary outcomes and typed zero recovery preserve pause alternatives/homographs. Totals finite 51,459; nominal 3,055/3,606. Runtime/replay deferred.
+
+## PG353 · Role-bound case competition and nominal predication
+
+[Niṣṭhā case construction](research/panini_grammar/nistha_role_binding_and_case_competition/README.md) supplies four role-bound syntactic compositions, not new position credits. Niṣṭhā genitive blocking, present-kta exception, residual relation and context-specific external readout retain full PG14 history and typed zero recovery. Totals finite 51,459, nominal 3,055/3,606 unchanged; runtime/replay deferred.

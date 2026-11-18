@@ -2322,3 +2322,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG352 · Agentive feminine ī and neuter endings
 
 [PG352](bhinnavat_feminine_i_and_neuter_endings/README.md) adds 48 nominal positions / 51 readings with independent feminine/neuter agreement, distinct homographic ī histories, one neuter num and retained singular t/d pause doublets. Selected kta/ktavatu scope 144 keys/147 readings; only 138/141 new credits after six old-control withholdings. Totals finite 51,459, nominal 3,055/3,606. PG14 full carrier and typed zero recovery; runtime/replay deferred.
+
+## PG353 · Niṣṭhā role binding and dependent case
+
+[PG353](nistha_role_binding_and_case_competition/README.md) constructs four past-participle predications: patient kta with instrumental agent, agent ktavatu with accusative object. The 2.3.69 block, present-kta exception, residual-possession channel and owned external readout stay distinct. Four syntactic constructions, zero new finite/nominal credits or source observations; totals 51,459 finite and 3,055/3,606 nominal. Full PG14 carrier with typed zero recovery; runtime/replay deferred.

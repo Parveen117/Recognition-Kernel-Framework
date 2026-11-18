@@ -1,0 +1,156 @@
+{
+  "schema": "rkf.panini.pg353.state.v1",
+  "author": "Monty",
+  "date": "2026-11-18",
+  "publication_parent": "ed45b737fe1dd2e8fc2797c2374cb47bd4c704fd",
+  "baseline": {
+    "commit": "ed45b737fe1dd2e8fc2797c2374cb47bd4c704fd",
+    "path": "research/panini_grammar/bhinnavat_feminine_i_and_neuter_endings/STATE.json",
+    "finite_positions": 51459,
+    "nominal_positions": 3055,
+    "nominal_readings": 3606
+  },
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "new_syntactic_constructions": 4,
+  "finite_positions": 51459,
+  "nominal_positions": 3055,
+  "nominal_readings": 3606,
+  "position_accounting": {
+    "finite_forms": [],
+    "nominal_forms": []
+  },
+  "syntactic_constructions": [
+    {
+      "id": "PATIENT_NEUTER",
+      "event": "E1",
+      "affix": "kta",
+      "head_role": "karman",
+      "agent": "Devadatta:m:sg",
+      "patient": "kastha:n:sg",
+      "agent_case": "ins",
+      "patient_case": "nom",
+      "citation_words": [
+        "kāṣṭham",
+        "bhinnam",
+        "devadattena"
+      ],
+      "selected_readout": "kāṣṭhaṃ bhinnaṃ devadattena",
+      "outcome": "ACCEPTED_WRITTEN",
+      "syntactic_construction_credit": 1
+    },
+    {
+      "id": "AGENT_MASCULINE",
+      "event": "E1",
+      "affix": "ktavatu",
+      "head_role": "kartr",
+      "agent": "Devadatta:m:sg",
+      "patient": "kastha:n:sg",
+      "agent_case": "nom",
+      "patient_case": "acc",
+      "citation_words": [
+        "devadattaḥ",
+        "bhinnavān",
+        "kāṣṭham"
+      ],
+      "selected_readout": "devadatto bhinnavān kāṣṭham",
+      "outcome": "ACCEPTED_WRITTEN",
+      "syntactic_construction_credit": 1
+    },
+    {
+      "id": "PATIENT_FEMININE",
+      "event": "E2",
+      "affix": "kta",
+      "head_role": "karman",
+      "agent": "Devadatta_long_a:f:sg",
+      "patient": "lata:f:sg",
+      "agent_case": "ins",
+      "patient_case": "nom",
+      "citation_words": [
+        "latā",
+        "bhinnā",
+        "devadattayā"
+      ],
+      "selected_readout": "latā bhinnā devadattayā",
+      "outcome": "ACCEPTED_WRITTEN",
+      "syntactic_construction_credit": 1
+    },
+    {
+      "id": "AGENT_FEMININE",
+      "event": "E2",
+      "affix": "ktavatu",
+      "head_role": "kartr",
+      "agent": "Devadatta_long_a:f:sg",
+      "patient": "lata:f:sg",
+      "agent_case": "nom",
+      "patient_case": "acc",
+      "citation_words": [
+        "devadattā",
+        "bhinnavatī",
+        "latām"
+      ],
+      "selected_readout": "devadattā bhinnavatī latām",
+      "outcome": "ACCEPTED_WRITTEN",
+      "syntactic_construction_credit": 1
+    }
+  ],
+  "diagnostics": [
+    {
+      "id": "FORCED_AGENT_GENITIVE",
+      "affix": "kta",
+      "given": "past event; devadattasya required to express agent, not possessor",
+      "outcome": "EXCLUDED_LOCAL_CASE_EDGE",
+      "reason": "2.3.69 blocks 2.3.65 genitive; unexpressed agent requires 2.3.18",
+      "credit": 0
+    },
+    {
+      "id": "FORCED_OBJECT_GENITIVE",
+      "affix": "ktavatu",
+      "given": "past event; kasthasya required to express independent karman, not residual relation",
+      "outcome": "EXCLUDED_LOCAL_CASE_EDGE",
+      "reason": "2.3.69 blocks 2.3.65 genitive; independent object requires 2.3.2",
+      "credit": 0
+    },
+    {
+      "id": "UNBOUND_GENITIVE",
+      "given": "devadattasya without a supplied head/relation",
+      "outcome": "OPEN_RELATION",
+      "reason": "A residual possessor analysis may use 2.3.50; do not force agenthood from spelling",
+      "credit": 0
+    },
+    {
+      "id": "UNRESOLVED_I_OWNER",
+      "given": "bhinnavati_long_i without gender/number/role witnesses",
+      "outcome": "OPEN_AGREEMENT_FRAME",
+      "reason": "PG352 feminine nom sg and neuter dual histories cannot be identified by surface long i",
+      "credit": 0
+    }
+  ],
+  "bounded_pass": {
+    "stages": "PG347-PG353",
+    "new_unique_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 138,
+    "new_nominal_readings": 141,
+    "new_source_observations": 4,
+    "new_syntactic_constructions": 4
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Wider kta semantic permissions, present-kta exceptions, compounds, unrestricted agreement/role parser and accent.",
+    "Earlier Bhatti locator, digital field alignment, typo transmission and Unadi fields/marker obligations.",
+    "Sanskrit generators/execution, untouched suites and replay deferred to Claude."
+  ]
+}

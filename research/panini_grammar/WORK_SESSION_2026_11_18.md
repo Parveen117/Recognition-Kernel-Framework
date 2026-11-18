@@ -149,3 +149,11 @@ Monty. Bounded continuation; no claim of continuous elapsed execution.
 - Selected past-patient kta and past-agent ktavatu three-gender scope now 144 keys /147 readings. PG349–352 credit only 138/141 after six conservative old-control withholdings; no whole-niṣṭhā or Sanskrit completion claim. Closed finite grids and PG335 correction unchanged.
 - Next genuinely unconstructed root/sense/prefix/derived/syntactic domains or actual textual gaps; do not recount these selected niṣṭhā panels. Accent, broad semantic parsing, Bhatti locator, source alignment/typo provenance and Unadi obligations stay Open. No narrow global ETA.
 - Only Python 3.12 changed-document/source/count checks; grammar execution/generators, untouched suites and certificate replay deferred to Claude.
+
+## PG353 · Past-niṣṭhā role binding and case competition
+
+- Parent `ed45b737fe1dd2e8fc2797c2374cb47bd4c704fd`; [packet](nistha_role_binding_and_case_competition/README.md). Four new syntactic constructions, zero new finite/nominal positions or word readings/source observations. Totals 51,459 finite; nominal **3,055 / 3,606**. Bounded pass retains 138 nominal positions/141 readings, 4 source observations, now 4 syntactic constructions separately.
+- Source 2.3.69 niṣṭhā controls positively support patient-kta instrumental agent and agent-ktavatu accusative object. General kṛt genitive is locally blocked; present-kta 2.3.67 and residual-possession 2.3.50 remain separate. Four positive compositions, two forced-role exclusions and two missing-relation/agreement Open diagnostics; examples authored, not literal quotations.
+- Whole morphology reused by exact pins, no table recount. Neuter kāṣṭham has different nom/acc roles in the two constructions. Selected anusvāra and factored optional homorganic boundary alternatives, plus devadatto before bh, retain ending/boundary owners. PG14 full role-to-case/boundary carrier extension has typed zero recovery.
+- Next genuinely unconstructed semantic/syntactic/root/derived domain or source obligation. Do not recount selected bhid finite or niṣṭhā panels. Earlier Bhatti locator, source alignment/typo transmission and Unadi obligations remain Open; no narrow completion ETA.
+- Explicit Python 3.12 changed-document/source/count checks only; grammar generators/execution, untouched suites and replay deferred to Claude.
