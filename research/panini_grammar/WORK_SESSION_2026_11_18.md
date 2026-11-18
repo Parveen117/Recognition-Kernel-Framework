@@ -124,3 +124,11 @@ Monty. Bounded continuation; no claim of continuous elapsed execution.
 - Past karman kta admission precedes marker lopa/aniṭ/kit decisions. 8.2.42 changes root d and suffix t to separately owned n occurrences. No present śnam, finite A/P choice, causative or passive yak copied. Ordinary masculine a-stem interface reused through exact pins; root/affix/ending and nuṭ n owners retained. Full PG14 native carrier with typed zero recovery; no engine modification.
 - Next genuinely unconstructed nominal extensions: feminine/neuter bhinna or agentive bhinnavat after source and prior-grid review; earlier textual obligations remain Open. Closed bhid finite grids and PG335 correction preserved. No whole-Sanskrit completion or continuous-hours claim.
 - Only direct Python 3.12 changed-document/source/count checks; Sanskrit generators/execution, old suites and certificate replay deferred to Claude.
+
+## PG350 · Feminine ṭāp and neuter num panels
+
+- Parent `028e066b1068cd5ca1fd304650fc0bc9fcd802fc`; [packet](bhinna_feminine_tap_and_neuter_num/README.md). New 48 nominal positions/readings, zero finite/source observations; totals 51,459 finite, nominal **2,988 / 3,536**. Bounded PG347–350 gains 71 nominal positions/readings, 0 finite and 4 source observations.
+- PG349 owned past-patient kta formation reused only on matching conditions; independently supplied feminine/neuter referents, no finite pada or agentive reading copied. PG216 ordinary gendered kta endings reused through exact pins. Two complete 24-cell tables manually written; no Sanskrit generator executed.
+- Feminine ṭāp and yāṭ histories differ from neuter śī/śi and num. Root n, kta n, num n and genitive nuṭ n retain separate owners. Vocative plural is not technical sambuddhi singular; feminine āsu and neuter eṣu conditions explicit. Full PG14 native extension and typed zero recovery supplied.
+- Masculine PG349 credits and its withheld literal remain unchanged; no homograph merging or finite-grid recount. Next agentive bhinnavat or genuinely new semantic/derived domains after source/prior-coverage review. Earlier textual obligations remain Open; no global completion ETA.
+- Only asserted Python 3.12 direct changed-document/source/count checks; grammar execution/generators, untouched suites and replay deferred to Claude.

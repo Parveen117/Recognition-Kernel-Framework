@@ -1,0 +1,536 @@
+{
+  "schema": "rkf.panini.pg350.state.v1",
+  "author": "Monty",
+  "date": "2026-11-18",
+  "publication_parent": "028e066b1068cd5ca1fd304650fc0bc9fcd802fc",
+  "baseline": {
+    "commit": "028e066b1068cd5ca1fd304650fc0bc9fcd802fc",
+    "path": "research/panini_grammar/bhinna_patient_kta_and_masculine_cases/STATE.json",
+    "finite_positions": 51459,
+    "nominal_positions": 2940,
+    "nominal_readings": 3488
+  },
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 48,
+  "new_nominal_readings": 48,
+  "new_source_observations": 0,
+  "finite_positions": 51459,
+  "nominal_positions": 2988,
+  "nominal_readings": 3536,
+  "position_accounting": {
+    "finite_forms": [],
+    "nominal_forms": [
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "nom",
+        "number": "sg",
+        "written_form": "bhinnā",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "nom",
+        "number": "du",
+        "written_form": "bhinne",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "nom",
+        "number": "pl",
+        "written_form": "bhinnāḥ",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "acc",
+        "number": "sg",
+        "written_form": "bhinnām",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "acc",
+        "number": "du",
+        "written_form": "bhinne",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "acc",
+        "number": "pl",
+        "written_form": "bhinnāḥ",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "ins",
+        "number": "sg",
+        "written_form": "bhinnayā",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "ins",
+        "number": "du",
+        "written_form": "bhinnābhyām",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "ins",
+        "number": "pl",
+        "written_form": "bhinnābhiḥ",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "dat",
+        "number": "sg",
+        "written_form": "bhinnāyai",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "dat",
+        "number": "du",
+        "written_form": "bhinnābhyām",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "dat",
+        "number": "pl",
+        "written_form": "bhinnābhyaḥ",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "abl",
+        "number": "sg",
+        "written_form": "bhinnāyāḥ",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "abl",
+        "number": "du",
+        "written_form": "bhinnābhyām",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "abl",
+        "number": "pl",
+        "written_form": "bhinnābhyaḥ",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "gen",
+        "number": "sg",
+        "written_form": "bhinnāyāḥ",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "gen",
+        "number": "du",
+        "written_form": "bhinnayoḥ",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "gen",
+        "number": "pl",
+        "written_form": "bhinnānām",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "loc",
+        "number": "sg",
+        "written_form": "bhinnāyām",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "loc",
+        "number": "du",
+        "written_form": "bhinnayoḥ",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "loc",
+        "number": "pl",
+        "written_form": "bhinnāsu",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "voc",
+        "number": "sg",
+        "written_form": "bhinne",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "voc",
+        "number": "du",
+        "written_form": "bhinne",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinnā",
+        "gender": "f",
+        "case": "voc",
+        "number": "pl",
+        "written_form": "bhinnāḥ",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "nom",
+        "number": "sg",
+        "written_form": "bhinnam",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "nom",
+        "number": "du",
+        "written_form": "bhinne",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "nom",
+        "number": "pl",
+        "written_form": "bhinnāni",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "acc",
+        "number": "sg",
+        "written_form": "bhinnam",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "acc",
+        "number": "du",
+        "written_form": "bhinne",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "acc",
+        "number": "pl",
+        "written_form": "bhinnāni",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "ins",
+        "number": "sg",
+        "written_form": "bhinnena",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "ins",
+        "number": "du",
+        "written_form": "bhinnābhyām",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "ins",
+        "number": "pl",
+        "written_form": "bhinnaiḥ",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "dat",
+        "number": "sg",
+        "written_form": "bhinnāya",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "dat",
+        "number": "du",
+        "written_form": "bhinnābhyām",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "dat",
+        "number": "pl",
+        "written_form": "bhinnebhyaḥ",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "abl",
+        "number": "sg",
+        "written_form": "bhinnāt",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "abl",
+        "number": "du",
+        "written_form": "bhinnābhyām",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "abl",
+        "number": "pl",
+        "written_form": "bhinnebhyaḥ",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "gen",
+        "number": "sg",
+        "written_form": "bhinnasya",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "gen",
+        "number": "du",
+        "written_form": "bhinnayoḥ",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "gen",
+        "number": "pl",
+        "written_form": "bhinnānām",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "loc",
+        "number": "sg",
+        "written_form": "bhinne",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "loc",
+        "number": "du",
+        "written_form": "bhinnayoḥ",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "loc",
+        "number": "pl",
+        "written_form": "bhinneṣu",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "voc",
+        "number": "sg",
+        "written_form": "bhinna",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "voc",
+        "number": "du",
+        "written_form": "bhinne",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      },
+      {
+        "profile": "BHID_VIDARANA_PAST_PATIENT_KTA",
+        "stem": "bhinna",
+        "gender": "n",
+        "case": "voc",
+        "number": "pl",
+        "written_form": "bhinnāni",
+        "credit_here": 1,
+        "evidence": "WRITTEN_COMPOSITION"
+      }
+    ]
+  },
+  "selected_panels": {
+    "feminine_positions": 24,
+    "neuter_positions": 24,
+    "one_reading_per_key": true,
+    "prior_masculine_keys_recredited": 0,
+    "homographs": "distinct gender/case/number keys; not distinct surface-string count"
+  },
+  "bounded_pass": {
+    "stages": "PG347-PG350",
+    "new_unique_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 71,
+    "new_nominal_readings": 71,
+    "new_source_observations": 4
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Agentive bhinnavat, wider sense/prefix/derived domains and accent.",
+    "Earlier Bhatti locator, digital source alignment, Kashika typo transmission and Unadi fields/marker gaps.",
+    "Implementation, grammar execution, generators, old suites and replay deferred to Claude."
+  ]
+}

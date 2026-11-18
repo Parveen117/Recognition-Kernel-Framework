@@ -2310,3 +2310,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG349 · Bhinna patient participle and masculine cases
 
 [PG349](bhinna_patient_kta_and_masculine_cases/README.md) constructs kta patient bhinna with separately owned d→n and t→n, then writes all 24 masculine case-number forms. Withhold the old literal bhinnaḥ: 23 new nominal positions/readings, cumulative 2,940/3,488. Finite remains 51,459; source observations zero. PG14 full carrier and typed zero recovery preserve the semantic/affix owners; runtime/replay deferred.
+
+## PG350 · Feminine bhinnā and neuter bhinna
+
+[PG350](bhinna_feminine_tap_and_neuter_num/README.md) adds two complete 24-cell gender panels: 48 new nominal positions/readings, totals 2,988/3,536; finite remains 51,459 and new source observations zero. Feminine ṭāp, neuter plural num and oblique nuṭ have distinct owners. Full PG14 carrier and typed zero recovery retain complementary outcome/gender channels; old masculine/finite credits unchanged. Runtime/replay deferred.
