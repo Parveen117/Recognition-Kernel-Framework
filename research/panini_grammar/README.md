@@ -2298,3 +2298,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG346 · Bhid middle luṭ and selected closure
 
 [PG346](bhid_middle_lut_and_source_qualified_grid/README.md) adds nine finite positions/readings, cumulative **51,459**. Selected A coverage is 90 keys/97 readings under a named Kaumudī 2pl policy; contrary/source-provenance channels stay Open on PG14’s full carrier with typed zero recovery. PG341–PG346 add 63 positions/66 readings; nominal totals 2,917/3,465 unchanged. Runtime/replay deferred.
+
+## PG347 · Dhi ca commentary scope resolved locally
+
+[PG347](dhi_ca_commentary_scope_and_non_sic_controls/README.md) locates Bālamanoramā’s broad non-sic s-lopa and Tattvabodhinī’s explicit Vāmana/Bhāṣya distinction. Two new source observations add zero finite/nominal positions or readings; totals remain 51,459 finite and 2,917 nominal / 3,465 readings. The corroborating source-qualified edge uses PG14’s full carrier with typed zero recovery. Raw 82025 alignment and independent edition provenance stay Open; closed bhid grids and PG335 correction stay frozen. Runtime/replay deferred.

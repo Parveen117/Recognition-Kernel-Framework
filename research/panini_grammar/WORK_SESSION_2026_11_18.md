@@ -99,3 +99,12 @@ Monty. Bounded continuation; no claim of continuous elapsed execution.
 - Bounded PG341–PG346 pass adds **63 unique finite positions / 66 readings**, zero nominal additions; no continuous-hour claim or whole-project completion.
 - Next substantive work: actual textual/source obligations (Bhatti locator, field alignment, PG337 typo provenance, four Uṇādi fields/5.56 marker), or explicitly new lexical/sense/prefix/derived/passive domains. Do not recount closed P/A grids or fabricate a global completion ETA.
 - Only Python 3.12 direct checks; Sanskrit generators/execution, old suites and certificate replay deferred.
+
+## PG347 · New bounded ten-hour authorization; located non-sic policy
+
+- Owner requested next approximate ten-hour continuation: current work plus nine finite hourly opportunities. The schedule is not continuous executed time; do not create further recurring tasks from its future runs.
+- Parent `90c24f8dd69a5238088b3d10df56fe2c58c79b0c`; [packet](dhi_ca_commentary_scope_and_non_sic_controls/README.md). Zero new finite positions/readings or nominal credits; two new source observations. Cumulative finite **51,459**, nominal **2,917 / 3,465**.
+- Bāla 64112 embedded cakās discussion explicitly prefers broad s-lopa and reports sic-only dissent. Tattva 82028 explicitly attributes Vāmana sic versus Bhāṣya s. Bāla 13014 vyati-as is supporting non-sic corroboration with zero separate credit. These are located commentary reports, not new independent Bhāṣya editions.
+- The broad policy corroborates PG346 tās.s deletion without recredit or semantic readmission. Both digital 82025 fields still expound ho ḍhaḥ; source alignment and print provenance remain Open. Narrow policy excludes that non-sic deletion edge; its full request stays Open. Native source-evidence/local-lopa refinement starts on PG14’s full carrier and proves typed zero recovery, retaining separate channels.
+- Frozen PG340 P 90/110, PG346 A 90/97 and PG335 correction unchanged. Do not recount them. Next genuine source frontier: independent mapping/edition collation, PG337 typo transmission, Bhatti locator, remaining Unadi fields/5.56; or a genuinely unconstructed semantic/derived domain after prior prose/factored review. No narrow global completion ETA from current counts.
+- Explicit Python 3.12 direct changed-document/source/count checks only, once for this coherent stage. Sanskrit generators, grammar execution, old navigation/engine suites and certificate replay deferred to Claude.

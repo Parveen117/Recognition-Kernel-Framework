@@ -1,0 +1,83 @@
+{
+  "schema": "rkf.panini.pg347.state.v1",
+  "author": "Monty",
+  "date": "2026-11-18",
+  "publication_parent": "90c24f8dd69a5238088b3d10df56fe2c58c79b0c",
+  "baseline": {
+    "commit": "90c24f8dd69a5238088b3d10df56fe2c58c79b0c",
+    "path": "research/panini_grammar/bhid_middle_lut_and_source_qualified_grid/STATE.json",
+    "finite_positions": 51459
+  },
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 2,
+  "finite_positions": 51459,
+  "nominal_positions": 2917,
+  "nominal_readings": 3465,
+  "position_accounting": {
+    "forms": []
+  },
+  "source_observations": [
+    {
+      "id": "BALA_CAKAS_NON_SIC_SCOPE",
+      "source": "balamanorama.txt",
+      "field": "64112",
+      "embedded_topic": "cakas loT hi/dhi boundary",
+      "decision": "BROAD_S_LOPA_ADOPTED_SIC_ONLY_REPORTED_DISSENT",
+      "source_observation_credit": 1,
+      "finite_position_credit": 0,
+      "finite_reading_credit": 0
+    },
+    {
+      "id": "TATTVA_VAMANA_BHASYA_DISTINCTION",
+      "source": "tattvabodhini.txt",
+      "field": "82028",
+      "embedded_topic": "explicit retrospective scope distinction at dhi ca",
+      "decision": "VAMANA_SIC_ONLY_VERSUS_BHASYA_S",
+      "source_observation_credit": 1,
+      "finite_position_credit": 0,
+      "finite_reading_credit": 0
+    }
+  ],
+  "source_obligation_decision": "Bala broader non-sic policy and reported narrower dissent now located; Tattva explicitly attributes the split. Raw field alignment and independent edition collation remain Open.",
+  "closed_selected_grids": {
+    "P": {
+      "stage": "PG340",
+      "positions": 90,
+      "readings": 110
+    },
+    "A": {
+      "stage": "PG346",
+      "positions": 90,
+      "readings": 97
+    }
+  },
+  "bounded_pass": {
+    "authorization": "new ten-hour bounded pass; current work plus nine hourly opportunities",
+    "new_unique_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 2,
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_runtime": "3.12.14",
+    "document_check_status": "PASS"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Raw Bala/Tattva keyed 82025 alignment and independent Bhasya/Vamana edition provenance.",
+    "PG337 Kashika 3.2.111 typo transmission; Bhatti exact poem locator.",
+    "Madhaviya/commentary differences; four Unadi fields and independent 5.56 marker effect.",
+    "Unconstructed lexical/sense/prefix/derived/passive domains and unrestricted semantic parsing.",
+    "Grammar execution, generators, old suites and certificate replay deferred to Claude."
+  ]
+}

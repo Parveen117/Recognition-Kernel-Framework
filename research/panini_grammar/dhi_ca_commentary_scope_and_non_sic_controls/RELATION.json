@@ -1,0 +1,94 @@
+{
+  "stage": "PG347",
+  "kind": "source-qualified local relation refinement",
+  "reuse_frame": {
+    "root_id": "1070002",
+    "root_address": "07.0002",
+    "sense": "विदारणे",
+    "preverbs": [],
+    "voice": "kartari",
+    "pada": "A",
+    "formation": "simple",
+    "affix": "tasi -> tas",
+    "slot": "lut 2pl",
+    "principal_result_for_actor": true,
+    "future_anadyatana": true,
+    "baseline": "PG346 exact pin; no new semantic admission"
+  },
+  "local_action": {
+    "input": "bhed_root|tas_affix|dhve_ending",
+    "deleted_occurrence": "tas_affix.s",
+    "retained_occurrences": [
+      "root.d and its t readout ancestry",
+      "affix.t",
+      "affix.a_long",
+      "ending.dh and ve"
+    ],
+    "output": "bhed_root|ta_affix|dhve_ending -> bhettadhve",
+    "scope": "identified suffix-initial dh boundary; no external sandhi generalization"
+  },
+  "policy_channels": [
+    {
+      "policy": "KAUMUDI_BROAD_8_2_25",
+      "source_address": "kaumudi.txt:82025",
+      "input_owner": "tas.s",
+      "outcome": "ACCEPTED_EXISTING_BHETTADHVE",
+      "credit": 0
+    },
+    {
+      "policy": "BALA_REPORTED_BHASYA_BROAD_8_2_25",
+      "source_address": "balamanorama.txt:64112 embedded cakas discussion",
+      "input_owner": "tas.s",
+      "outcome": "ACCEPTED_CORROBORATING_LOCAL_EDGE",
+      "credit": 0
+    },
+    {
+      "policy": "KASHIKA_VAMANA_SIC_ONLY_8_2_25",
+      "source_address": "kashika.txt:82025; distinguished by tattvabodhini.txt:82028",
+      "input_owner": "tas.s",
+      "outcome": "OPEN_NO_SIC_WITNESS_FOR_THIS_DELETION",
+      "credit": 0
+    },
+    {
+      "policy": "DIGITAL_82025_ALIGNMENT",
+      "source_address": "balamanorama.txt:82025 and tattvabodhini.txt:82025",
+      "outcome": "OPEN_HO_DHAH_FIELDS_UNCHANGED",
+      "credit": 0
+    }
+  ],
+  "source_observations": [
+    {
+      "id": "BALA_CAKAS_NON_SIC_SCOPE",
+      "source": "balamanorama.txt",
+      "field": "64112",
+      "embedded_topic": "cakas loT hi/dhi boundary",
+      "decision": "BROAD_S_LOPA_ADOPTED_SIC_ONLY_REPORTED_DISSENT",
+      "source_observation_credit": 1,
+      "finite_position_credit": 0,
+      "finite_reading_credit": 0
+    },
+    {
+      "id": "TATTVA_VAMANA_BHASYA_DISTINCTION",
+      "source": "tattvabodhini.txt",
+      "field": "82028",
+      "embedded_topic": "explicit retrospective scope distinction at dhi ca",
+      "decision": "VAMANA_SIC_ONLY_VERSUS_BHASYA_S",
+      "source_observation_credit": 1,
+      "finite_position_credit": 0,
+      "finite_reading_credit": 0
+    }
+  ],
+  "excluded_edges": [
+    "sic-only deletion when owner is tas",
+    "deletion of root d or ending dh",
+    "treat raw 82025 ho dhah as dhi ca evidence",
+    "free surface alternative from unresolved policy",
+    "new finite position from an additional source witness"
+  ],
+  "open_channels": [
+    "printed edition provenance of both 82025 misassignments",
+    "independent Bhasya/Vamana edition collation",
+    "ending-vowel orthography of cakas quotations is retained literally, not normalized or newly derived",
+    "external word-boundary deletion without a separate source contract"
+  ]
+}
