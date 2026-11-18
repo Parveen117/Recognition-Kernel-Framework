@@ -1,0 +1,165 @@
+{
+  "frame": {
+    "root_id": "1070002",
+    "sense": "विदारणे",
+    "preverbs": [],
+    "voice": "kartari",
+    "pada": "A",
+    "main_result_for_actor": true,
+    "wages_only_sufficient": false,
+    "object_supplied": true,
+    "temporal": "supplied future anadyatana; no mixed today/tomorrow frame"
+  },
+  "rows": [
+    {
+      "profile": "BHID_VIDARANA_ACTOR_RESULT_A",
+      "root_address": "07.0002",
+      "lakara": "lut",
+      "slot": "3sg",
+      "readings": [
+        "bhettā"
+      ],
+      "owned_pre_readout_view": "bhed|t|ā",
+      "source_policy": "PINNED_KASHIKA_RULES",
+      "evidence": "WRITTEN_COMPOSITION",
+      "position_credit": 1,
+      "reading_credit": 1
+    },
+    {
+      "profile": "BHID_VIDARANA_ACTOR_RESULT_A",
+      "root_address": "07.0002",
+      "lakara": "lut",
+      "slot": "3du",
+      "readings": [
+        "bhettārau"
+      ],
+      "owned_pre_readout_view": "bhed|tās|rau",
+      "source_policy": "PINNED_KASHIKA_RULES",
+      "evidence": "WRITTEN_COMPOSITION",
+      "position_credit": 1,
+      "reading_credit": 1
+    },
+    {
+      "profile": "BHID_VIDARANA_ACTOR_RESULT_A",
+      "root_address": "07.0002",
+      "lakara": "lut",
+      "slot": "3pl",
+      "readings": [
+        "bhettāraḥ"
+      ],
+      "owned_pre_readout_view": "bhed|tās|ras",
+      "source_policy": "PINNED_KASHIKA_RULES",
+      "evidence": "WRITTEN_COMPOSITION",
+      "position_credit": 1,
+      "reading_credit": 1
+    },
+    {
+      "profile": "BHID_VIDARANA_ACTOR_RESULT_A",
+      "root_address": "07.0002",
+      "lakara": "lut",
+      "slot": "2sg",
+      "readings": [
+        "bhettāse"
+      ],
+      "owned_pre_readout_view": "bhed|tās|se",
+      "source_policy": "PINNED_KASHIKA_RULES",
+      "evidence": "WRITTEN_COMPOSITION",
+      "position_credit": 1,
+      "reading_credit": 1
+    },
+    {
+      "profile": "BHID_VIDARANA_ACTOR_RESULT_A",
+      "root_address": "07.0002",
+      "lakara": "lut",
+      "slot": "2du",
+      "readings": [
+        "bhettāsāthe"
+      ],
+      "owned_pre_readout_view": "bhed|tās|āthe",
+      "source_policy": "PINNED_KASHIKA_RULES",
+      "evidence": "WRITTEN_COMPOSITION",
+      "position_credit": 1,
+      "reading_credit": 1
+    },
+    {
+      "profile": "BHID_VIDARANA_ACTOR_RESULT_A",
+      "root_address": "07.0002",
+      "lakara": "lut",
+      "slot": "2pl",
+      "readings": [
+        "bhettādhve"
+      ],
+      "owned_pre_readout_view": "bhed|tās|dhve",
+      "source_policy": "KAUMUDI_BROAD_8_2_25",
+      "evidence": "WRITTEN_COMPOSITION",
+      "position_credit": 1,
+      "reading_credit": 1
+    },
+    {
+      "profile": "BHID_VIDARANA_ACTOR_RESULT_A",
+      "root_address": "07.0002",
+      "lakara": "lut",
+      "slot": "1sg",
+      "readings": [
+        "bhettāhe"
+      ],
+      "owned_pre_readout_view": "bhed|tās|e",
+      "source_policy": "PINNED_KASHIKA_RULES",
+      "evidence": "WRITTEN_COMPOSITION",
+      "position_credit": 1,
+      "reading_credit": 1
+    },
+    {
+      "profile": "BHID_VIDARANA_ACTOR_RESULT_A",
+      "root_address": "07.0002",
+      "lakara": "lut",
+      "slot": "1du",
+      "readings": [
+        "bhettāsvahe"
+      ],
+      "owned_pre_readout_view": "bhed|tās|vahe",
+      "source_policy": "PINNED_KASHIKA_RULES",
+      "evidence": "WRITTEN_COMPOSITION",
+      "position_credit": 1,
+      "reading_credit": 1
+    },
+    {
+      "profile": "BHID_VIDARANA_ACTOR_RESULT_A",
+      "root_address": "07.0002",
+      "lakara": "lut",
+      "slot": "1pl",
+      "readings": [
+        "bhettāsmahe"
+      ],
+      "owned_pre_readout_view": "bhed|tās|mahe",
+      "source_policy": "PINNED_KASHIKA_RULES",
+      "evidence": "WRITTEN_COMPOSITION",
+      "position_credit": 1,
+      "reading_credit": 1
+    }
+  ],
+  "policy_channels": [
+    {
+      "policy": "KAUMUDI_BROAD_8_2_25",
+      "input": "bhed|tas|dhve",
+      "outcome": "ACCEPTED bhettadhve under broader dh-initial s-lopa",
+      "scope": "selected local lut 2pl construction"
+    },
+    {
+      "policy": "KASHIKA_SIC_ONLY_8_2_25",
+      "input": "bhed|tas|dhve",
+      "outcome": "OPEN tas is not sic; no unproved extension of this local deletion",
+      "scope": "retained competing source policy, not a freely selectable extra spelling"
+    },
+    {
+      "policy": "BALAMANORAMA_DIGITAL_82025",
+      "outcome": "OPEN field alignment; raw field expounds ho dhah"
+    }
+  ],
+  "excluded": [
+    "wages-only fruit admission",
+    "present snam or perfect copy",
+    "passive/derived/prefixed input",
+    "unrestricted future meaning"
+  ]
+}

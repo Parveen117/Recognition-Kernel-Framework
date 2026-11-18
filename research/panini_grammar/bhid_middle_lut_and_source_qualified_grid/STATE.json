@@ -1,0 +1,181 @@
+{
+  "schema": "rkf.panini.pg346.state.v1",
+  "author": "Monty",
+  "date": "2026-11-18",
+  "publication_parent": "bfdd56e550b208322b23a0db74540039553279e4",
+  "baseline": {
+    "commit": "bfdd56e550b208322b23a0db74540039553279e4",
+    "path": "research/panini_grammar/bhid_middle_aorist_and_sic_lopa_scope/STATE.json",
+    "finite_positions": 51450
+  },
+  "new_positions": 9,
+  "new_position_readings": 9,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "finite_positions": 51459,
+  "nominal_positions": 2917,
+  "nominal_readings": 3465,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "BHID_VIDARANA_ACTOR_RESULT_A",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "bhettā"
+        ],
+        "owned_pre_readout_view": "bhed|t|ā",
+        "source_policy": "PINNED_KASHIKA_RULES",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_ACTOR_RESULT_A",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "bhettārau"
+        ],
+        "owned_pre_readout_view": "bhed|tās|rau",
+        "source_policy": "PINNED_KASHIKA_RULES",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_ACTOR_RESULT_A",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "bhettāraḥ"
+        ],
+        "owned_pre_readout_view": "bhed|tās|ras",
+        "source_policy": "PINNED_KASHIKA_RULES",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_ACTOR_RESULT_A",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "bhettāse"
+        ],
+        "owned_pre_readout_view": "bhed|tās|se",
+        "source_policy": "PINNED_KASHIKA_RULES",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_ACTOR_RESULT_A",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "bhettāsāthe"
+        ],
+        "owned_pre_readout_view": "bhed|tās|āthe",
+        "source_policy": "PINNED_KASHIKA_RULES",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_ACTOR_RESULT_A",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "bhettādhve"
+        ],
+        "owned_pre_readout_view": "bhed|tās|dhve",
+        "source_policy": "KAUMUDI_BROAD_8_2_25",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_ACTOR_RESULT_A",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "bhettāhe"
+        ],
+        "owned_pre_readout_view": "bhed|tās|e",
+        "source_policy": "PINNED_KASHIKA_RULES",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_ACTOR_RESULT_A",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "bhettāsvahe"
+        ],
+        "owned_pre_readout_view": "bhed|tās|vahe",
+        "source_policy": "PINNED_KASHIKA_RULES",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_ACTOR_RESULT_A",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "bhettāsmahe"
+        ],
+        "owned_pre_readout_view": "bhed|tās|mahe",
+        "source_policy": "PINNED_KASHIKA_RULES",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      }
+    ]
+  },
+  "selected_middle_grid": {
+    "positions": 90,
+    "readings": 97,
+    "path": "SELECTED_MIDDLE_GRID.tsv",
+    "old_keys_recredited": 0,
+    "condition": "Explicit Kaumudi broad 8.2.25 selection at lut 2pl; competing source policies retained."
+  },
+  "bounded_pass": {
+    "stages": "PG341-PG346",
+    "baseline_finite_positions": 51396,
+    "new_unique_finite_positions": 63,
+    "new_finite_readings": 66,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_runtime": "3.12.14",
+    "document_check_status": "PASS"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Cross-commentary reconciliation of tas dhve deletion; selected Kaumudi route is local, not universal agreement.",
+    "Digital Balamanorama 82025 field alignment and PG337 3.2.111 typo provenance.",
+    "Bhatti exact locator, Madhaviya/commentary differences, four Unadi multiple-affix fields and independent 5.56 marker effect.",
+    "Other roots/senses/prefixes/derived/passive frames and unrestricted semantic parser are outside the selected grids.",
+    "Grammar execution, generators, untouched suites and certificate replay remain deferred."
+  ]
+}

@@ -2294,3 +2294,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG345 · Bhid middle aorist
 
 [PG345](bhid_middle_aorist_and_sic_lopa_scope/README.md) adds nine finite positions/readings, cumulative **51,450**. Four literal controls and five compositions separate actual sic-lopa gates on PG14’s full carrier with typed zero recovery. Kaumudī supplies a positive luṭ dhve source route while contrary/misaligned fields remain explicit. Middle target 81/90; nominal totals unchanged; runtime/replay deferred.
+
+## PG346 · Bhid middle luṭ and selected closure
+
+[PG346](bhid_middle_lut_and_source_qualified_grid/README.md) adds nine finite positions/readings, cumulative **51,459**. Selected A coverage is 90 keys/97 readings under a named Kaumudī 2pl policy; contrary/source-provenance channels stay Open on PG14’s full carrier with typed zero recovery. PG341–PG346 add 63 positions/66 readings; nominal totals 2,917/3,465 unchanged. Runtime/replay deferred.

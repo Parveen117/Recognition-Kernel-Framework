@@ -90,3 +90,12 @@ Monty. Bounded continuation; no claim of continuous elapsed execution.
 - Positive luṭ bridge: exact Kaumudī 8.2.25 explicitly prints edhitādhve. Use this named broad policy for future tās-s/dhve if selected; preserve Kāśikā sic-only scope separately. Raw Bālamanoramā field 82025 is a ho dhah exposition, so digital field alignment stays Open; no silent normalization.
 - Middle selected target 81/90; next luṭ nine requests with explicit policy plus prior-coverage review. Closed P and PG335 correction remain frozen; prior textual obligations open.
 - Python 3.12 direct checks only; Sanskrit generation/execution, old suites and replay deferred.
+
+## PG346 · Bhid middle luṭ and bounded-pass handoff
+
+- Parent `bfdd56e550b208322b23a0db74540039553279e4`; [packet](bhid_middle_lut_and_source_qualified_grid/README.md). New 9 finite positions/readings, cumulative **51,459**. No nominal/source-observation additions; nominal 2,917/3,465. All nine A cells written, including three P/A homographs with distinct original pada/controller histories.
+- Select exact Kaumudī broad 8.2.25 at 2pl for tās-s deletion: edhitādhve controls that boundary; bhettādhve is composed. Kāśikā sic-only route stays Open, not an output alternative; Bālamanoramā keyed field mismatch remains provenance Open. Local positive-route obligation closed, cross-commentary agreement not claimed.
+- Selected A grid is 90 requests/97 readings. Old PG7/PG22 and PG341–345 keys are re-observed without recredit; frozen P 90/110 and PG335 correction preserved.
+- Bounded PG341–PG346 pass adds **63 unique finite positions / 66 readings**, zero nominal additions; no continuous-hour claim or whole-project completion.
+- Next substantive work: actual textual/source obligations (Bhatti locator, field alignment, PG337 typo provenance, four Uṇādi fields/5.56 marker), or explicitly new lexical/sense/prefix/derived/passive domains. Do not recount closed P/A grids or fabricate a global completion ETA.
+- Only Python 3.12 direct checks; Sanskrit generators/execution, old suites and certificate replay deferred.

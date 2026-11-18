@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG345 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG346 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG345 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG346 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4526,3 +4526,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG345 · Middle aorist and source-policy channels
 
 [Owned middle aorist](research/panini_grammar/bhid_middle_aorist_and_sic_lopa_scope/README.md) adds nine positions/readings, cumulative finite **51,450**. A-specific sic kit, actual lopa neighbours and separate Kaumudī/Kāśikā scope policies remain on PG14’s full carrier with typed zero recovery. Runtime grammar/replay deferred.
+
+## PG346 · Source-qualified middle luṭ and selected 90-key relation
+
+[Middle luṭ and grid](research/panini_grammar/bhid_middle_lut_and_source_qualified_grid/README.md) add nine positions/readings, cumulative finite **51,459**. The selected A grid has 90 requests/97 readings, retaining broad Kaumudī acceptance and narrow Kāśikā Open channels on PG14’s full carrier with typed zero recovery. Runtime/replay deferred.
