@@ -1,0 +1,179 @@
+{
+  "schema": "rkf.panini.pg355.state.v1",
+  "author": "Monty",
+  "date": "2026-11-18",
+  "publication_parent": "c17172a5e9cfd33b180c7a66cd486f5ade78a748",
+  "baseline": {
+    "commit": "c17172a5e9cfd33b180c7a66cd486f5ade78a748",
+    "path": "research/panini_grammar/bhid_prior_action_ktva_and_pra_lyap/STATE.json",
+    "finite_positions": 51459,
+    "nominal_positions": 3055,
+    "nominal_readings": 3606
+  },
+  "new_positions": 9,
+  "new_position_readings": 9,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "new_syntactic_constructions": 0,
+  "new_nonfinite_constructions": 0,
+  "finite_positions": 51468,
+  "nominal_positions": 3055,
+  "nominal_readings": 3606,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lat",
+        "slot": "3sg",
+        "readings": [
+          "bhidyate"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_present_anga": "bhid_root|ya_yak",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lat",
+        "slot": "3du",
+        "readings": [
+          "bhidyete"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_present_anga": "bhid_root|ya_yak",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lat",
+        "slot": "3pl",
+        "readings": [
+          "bhidyante"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_present_anga": "bhid_root|ya_yak",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lat",
+        "slot": "2sg",
+        "readings": [
+          "bhidyase"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_present_anga": "bhid_root|ya_yak",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lat",
+        "slot": "2du",
+        "readings": [
+          "bhidyethe"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_present_anga": "bhid_root|ya_yak",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lat",
+        "slot": "2pl",
+        "readings": [
+          "bhidyadhve"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_present_anga": "bhid_root|ya_yak",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lat",
+        "slot": "1sg",
+        "readings": [
+          "bhidye"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_present_anga": "bhid_root|ya_yak",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lat",
+        "slot": "1du",
+        "readings": [
+          "bhidyāvahe"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_present_anga": "bhid_root|ya_yak",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lat",
+        "slot": "1pl",
+        "readings": [
+          "bhidyāmahe"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_present_anga": "bhid_root|ya_yak",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      }
+    ]
+  },
+  "bounded_pass": {
+    "stages": "PG347-PG355",
+    "new_unique_finite_positions": 9,
+    "new_finite_readings": 9,
+    "new_nominal_positions": 138,
+    "new_nominal_readings": 141,
+    "new_source_observations": 4,
+    "new_syntactic_constructions": 4,
+    "new_nonfinite_constructions": 2,
+    "new_nonfinite_readings": 2
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Other passive lakaras, derived/prefixed/root-sense domains and accent.",
+    "Earlier Bhatti locator, source alignment/typo provenance and Unadi obligations.",
+    "Sanskrit generators/execution, untouched suites, implementation and replay deferred to Claude."
+  ]
+}

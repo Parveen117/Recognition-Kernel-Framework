@@ -2330,3 +2330,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG354 · Bhittvā and prabhidya with common actor
 
 [PG354](bhid_prior_action_ktva_and_pra_lyap/README.md) constructs two new nonfinite words/readings under supplied same-actor relative-prior-action evidence. Non-nañ verbal pra licenses whole-affix lyap replacement; retained kit and actual val-initial iṭ queries remain distinct. PG14 full carrier with typed zero recovery; no new finite/nominal/source credits, totals 51,459 finite and 3,055/3,606 nominal unchanged. Runtime/replay deferred.
+
+## PG355 · Bhid external-agent karma-passive present
+
+[PG355](bhid_external_agent_passive_present/README.md) adds nine finite positions/readings with patient agreement, independent karma-A admission and owned kit yak. Prior self-agent bhidyate and actor-middle profiles stay distinct. Full PG14 carrier with typed zero recovery; cumulative finite 51,468, nominal 3,055/3,606 unchanged. Runtime/replay deferred.
