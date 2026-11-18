@@ -2334,3 +2334,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG355 · Bhid external-agent karma-passive present
 
 [PG355](bhid_external_agent_passive_present/README.md) adds nine finite positions/readings with patient agreement, independent karma-A admission and owned kit yak. Prior self-agent bhidyate and actor-middle profiles stay distinct. Full PG14 carrier with typed zero recovery; cumulative finite 51,468, nominal 3,055/3,606 unchanged. Runtime/replay deferred.
+
+## PG356 · Bhid passive present-system completion
+
+[PG356](bhid_passive_present_system_completion/README.md) adds 27 finite positions/readings in loṭ/laṅ/ordinary vidhiliṅ, giving 36 selected passive present-system keys including old laṭ. Root-side aṭ, ending āṭ and sīyuṭ/suṭ owners remain distinct on PG14’s full carrier with typed zero recovery. Cumulative finite 51,495, nominal 3,055/3,606. PG347–356 adds 36 finite and 138 nominal positions (141 nominal readings), plus separate source/syntax/nonfinite work. [Dated handoff](WORK_SESSION_2026_11_19.md); runtime/replay deferred.

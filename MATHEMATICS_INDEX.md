@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG355 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 19 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG356 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG355 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG356 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4566,3 +4566,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG355 · Passive patient agreement and owned present yak
 
 [Bhid karma-passive laṭ](research/panini_grammar/bhid_external_agent_passive_present/README.md) adds nine finite positions/readings on a supplied distinct-external-agent frame. Patient agreement, kit yak and thematic-A junctions retain full PG14 carrier, complementary outcomes and typed zero recovery. Self-agent/actor profiles are not recredited. Totals finite 51,468, nominal 3,055/3,606; runtime/replay deferred.
+
+## PG356 · Three passive ending histories and selected present-system closure
+
+[Passive present-system completion](research/panini_grammar/bhid_passive_present_system_completion/README.md) adds 27 finite positions/readings and completes 36 selected present-system keys. PG14 full carrier retains patient agreement, root-side/ending augments, source-qualified ordinary-liṅ queries and typed zero recovery. Total finite 51,495, nominal 3,055/3,606; [bounded-pass handoff](research/panini_grammar/WORK_SESSION_2026_11_19.md). Grammar runtime/replay deferred.
