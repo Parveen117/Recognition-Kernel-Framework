@@ -67,3 +67,11 @@ Monty. Bounded continuation; no claim of continuous elapsed execution.
 - Preserve PG337 Kaumudī/Bālamanoramā laṅ selection and raw Kāśikā typo, with provenance unresolved. No P sip-root-ru branch or future e-dual copied.
 - Middle selected target 54/90; next lit/lut/ashirling/lung (36 requests), after prior-domain/source review. Closed P and old credit corrections stay frozen. Earlier textual obligations open.
 - Python 3.12 direct checks only; grammar execution/generators, old suites and replay deferred.
+
+## PG343 · Bhid middle perfect
+
+- Parent `575717fd0c63556ef64009140397815904f30a8f`; [packet](bhid_middle_perfect_and_dental_dhvam/README.md). New 9 finite positions/readings, cumulative **51,432**. Zero nominal/source-observation additions; nominal 2,917/3,465.
+- All nine words written. A apit-liṭ kit retains root i throughout; four iṭ sites se/dhve/vahe/mahe differ from ending-owned i in ire. Dental bibhididhve: root d is not iṇ and iṭ is not preceded by iṇ; neither 8.3.78 nor 79 licenses invented retroflex alternative. Unrelated upadidīyidhve commentary policies remain separate.
+- Positive actor-result and past-anadyatana parokṣa guards retained, including independent first-person evidence. Copy/root/augment vowels remain distinct.
+- Middle selected 63/90; next lut/ashirling/lung (27 requests), with prior/source review. For luṭ inspect the exact tās-s before dhve policy rather than silently borrowing a sic-only explanation. Earlier textual gaps remain open.
+- Python 3.12 direct checks only; Sanskrit generation/execution, old suites and replay deferred.

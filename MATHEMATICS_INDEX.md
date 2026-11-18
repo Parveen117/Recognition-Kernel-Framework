@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG342 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG343 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG342 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG343 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4514,3 +4514,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG342 · Middle imperfect and the actual weak-aṅga query
 
 [Owned middle imperfect](research/panini_grammar/bhid_middle_imperfect_and_uniform_weak_query/README.md) adds nine positions/twelve readings, cumulative finite **51,423**. Three optional dental branches and uniform infix-a lopa live on PG14’s full history carrier with typed zero-specialization. Runtime grammar and replay remain deferred.
+
+## PG343 · Middle perfect and the actual pre-iṭ boundary
+
+[Owned middle perfect](research/panini_grammar/bhid_middle_perfect_and_dental_dhvam/README.md) adds nine positions/readings, cumulative finite **51,432**. Apit-liṭ kit, original/copy/augment vowels and failed retroflexion premises are retained on PG14’s full carrier with typed zero recovery. Runtime grammar/replay deferred.

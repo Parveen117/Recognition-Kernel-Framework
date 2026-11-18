@@ -2282,3 +2282,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG342 · Bhid middle imperfect
 
 [PG342](bhid_middle_imperfect_and_uniform_weak_query/README.md) adds nine finite positions/twelve readings, cumulative **51,423**. Ending-conditioned infix-a lopa, an-at third plural and three dental-collapse sites retain ownership on PG14’s full carrier with typed zero recovery. Middle target 54/90; nominal 2,917/3,465 unchanged. Grammar execution/replay deferred.
+
+## PG343 · Bhid middle perfect
+
+[PG343](bhid_middle_perfect_and_dental_dhvam/README.md) adds nine finite positions/readings, cumulative **51,432**. Root/copy i, four iṭ sites and dental dhve retain explicit ownership on PG14’s full carrier with typed zero recovery. Middle target 63/90; nominal 2,917/3,465 unchanged. Runtime/replay deferred.
