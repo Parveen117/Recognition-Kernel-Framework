@@ -116,3 +116,11 @@ Monty. Bounded continuation; no claim of continuous elapsed execution.
 - Explicit supplied day/reference adapter separates known today/mixed/generic local-rule exclusion from missing-evidence Open. Its full-carrier guard composes with old PG337/PG342 panels and proves typed zero-specialization; no new paradigm credit or physical clock/parser claim.
 - Closed PG340/PG346 grids, PG335 correction and all frozen packets preserved. Next actual sources: print/transmission collation, Bhatti locator, 82025 alignment, Unadi four fields/5.56; or independently unconstructed grammar domains. No global completion ETA established.
 - Direct Python 3.12 document/source/count checks only; grammar execution/generators, old suites and certificate replay deferred to Claude.
+
+## PG349 · Bhinna past-patient masculine panel
+
+- Parent `f1323d059541aecde6f618aa8e09a57ea374d74c`; [packet](bhinna_patient_kta_and_masculine_cases/README.md). New 23 nominal positions/23 readings, zero finite/source observations. Totals finite 51,459; nominal **2,940 / 3,488**. PG347–349 bounded pass: 0 finite, 23 nominal positions/readings, 4 source observations.
+- Full 24-key masculine panel written; literal bhinnaḥ already occurs in PG41 and primary rule controls, so withhold that credit without asserting it was an old separately counted nominal ledger entry. Prior prose/factored/TSV coverage reviewed. No generator used.
+- Past karman kta admission precedes marker lopa/aniṭ/kit decisions. 8.2.42 changes root d and suffix t to separately owned n occurrences. No present śnam, finite A/P choice, causative or passive yak copied. Ordinary masculine a-stem interface reused through exact pins; root/affix/ending and nuṭ n owners retained. Full PG14 native carrier with typed zero recovery; no engine modification.
+- Next genuinely unconstructed nominal extensions: feminine/neuter bhinna or agentive bhinnavat after source and prior-grid review; earlier textual obligations remain Open. Closed bhid finite grids and PG335 correction preserved. No whole-Sanskrit completion or continuous-hours claim.
+- Only direct Python 3.12 changed-document/source/count checks; Sanskrit generators/execution, old suites and certificate replay deferred to Claude.

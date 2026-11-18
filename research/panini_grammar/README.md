@@ -2306,3 +2306,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG348 · Anadyatana source and temporal admission
 
 [PG348](anadyatana_source_collation_and_temporal_guard/README.md) locates revision-pinned Kāśikā laṅ and Padamañjarī mixed/generic-past rationale, then constructs an explicit temporal guard on PG14’s full carrier with typed zero recovery. Two source observations, no new finite/nominal positions/readings; totals 51,459 finite and 2,917 nominal / 3,465 readings. Typo transmission and printed provenance stay Open. Runtime/replay deferred.
+
+## PG349 · Bhinna patient participle and masculine cases
+
+[PG349](bhinna_patient_kta_and_masculine_cases/README.md) constructs kta patient bhinna with separately owned d→n and t→n, then writes all 24 masculine case-number forms. Withhold the old literal bhinnaḥ: 23 new nominal positions/readings, cumulative 2,940/3,488. Finite remains 51,459; source observations zero. PG14 full carrier and typed zero recovery preserve the semantic/affix owners; runtime/replay deferred.

@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG348 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG349 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG348 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG349 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4538,3 +4538,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG348 · Source-qualified temporal admission before imperfect morphology
 
 [Temporal guard](research/panini_grammar/anadyatana_source_collation_and_temporal_guard/README.md) distinguishes mixed/generic reference from missing evidence and composes admitted frames with frozen imperfect panels. Revision-addressed sources yield two observations, zero new positions/readings. Full PG14 carrier, retained outcome cuts and typed zero-specialization; no physical clock or parser derived. Counts remain finite 51,459, nominal 2,917/3,465; runtime/replay deferred.
+
+## PG349 · Owned niṣṭhā consonants and patient nominal agreement
+
+[Bhinna construction](research/panini_grammar/bhinna_patient_kta_and_masculine_cases/README.md) separates root d→n and kta t→n before masculine inflection. The 24-key panel credits 23 new nominal positions/readings, withholding the old literal. Full PG14 carrier, pairing/complement channels and typed zero-specialization; no finite-pada inference from kta. Totals 51,459 finite; nominal 2,940/3,488; runtime/replay deferred.
