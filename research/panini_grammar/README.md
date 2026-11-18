@@ -2314,3 +2314,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG350 · Feminine bhinnā and neuter bhinna
 
 [PG350](bhinna_feminine_tap_and_neuter_num/README.md) adds two complete 24-cell gender panels: 48 new nominal positions/readings, totals 2,988/3,536; finite remains 51,459 and new source observations zero. Feminine ṭāp, neuter plural num and oblique nuṭ have distinct owners. Full PG14 carrier and typed zero recovery retain complementary outcome/gender channels; old masculine/finite credits unchanged. Runtime/replay deferred.
+
+## PG351 · Agentive bhinnavat masculine cases
+
+[PG351](bhinnavat_agent_and_masculine_strong_weak/README.md) independently admits past-agent ktavatu and writes the 24-key masculine panel: 19 new nominal positions/readings with five old-control keys withheld. Strong num, nominative-only ā and final t/d have separate owners. PG14 full native carrier with typed zero recovery; totals finite 51,459, nominal 3,007/3,555; runtime/replay deferred.

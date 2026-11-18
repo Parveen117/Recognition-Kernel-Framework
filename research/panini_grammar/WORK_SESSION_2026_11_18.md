@@ -132,3 +132,11 @@ Monty. Bounded continuation; no claim of continuous elapsed execution.
 - Feminine ṭāp and yāṭ histories differ from neuter śī/śi and num. Root n, kta n, num n and genitive nuṭ n retain separate owners. Vocative plural is not technical sambuddhi singular; feminine āsu and neuter eṣu conditions explicit. Full PG14 native extension and typed zero recovery supplied.
 - Masculine PG349 credits and its withheld literal remain unchanged; no homograph merging or finite-grid recount. Next agentive bhinnavat or genuinely new semantic/derived domains after source/prior-coverage review. Earlier textual obligations remain Open; no global completion ETA.
 - Only asserted Python 3.12 direct changed-document/source/count checks; grammar execution/generators, untouched suites and replay deferred to Claude.
+
+## PG351 · Agentive bhinnavat strong/weak masculine panel
+
+- Parent `abbee170002736165066120c0fa1537e3f81bea4`; [packet](bhinnavat_agent_and_masculine_strong_weak/README.md). New 19 nominal positions/readings; zero finite/source observations. Totals finite 51,459; nominal **3,007 / 3,555**. Bounded PG347–351: 90 nominal positions/readings, 0 finite, 4 source observations.
+- Agentive ktavatu separately admitted under 3.4.67, not patient kta or possessive matup. Kit/ugit persist after marker lopa. Strong num, source-required 6.4.14-before-num order, nom-only ā, short vocative bhinnavan and weak t/d readout explicitly derived on PG14 full carrier with typed zero recovery.
+- All 24 masculine keys manually written. Prior bhinnavān/bhinnavadbhyām/bhinnavadbhiḥ controls cause five conservatively withheld credits, not a claim of old ledger inclusion. Later readout d cannot retrigger root-d niṣṭhā replacement. PG216 ending interface reused through exact pins; old patient and finite grids unchanged.
+- Next feminine/neuter ktavatu or independently unconstructed semantic/derived domains after source/prior-coverage review. Earlier textual obligations stay Open; no whole-Sanskrit completion ETA or continuous-hours claim.
+- Python 3.12 direct changed-document/source/count checks only; grammar generators/execution, untouched suites and certificate replay deferred to Claude.
