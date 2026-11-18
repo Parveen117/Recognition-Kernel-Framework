@@ -75,3 +75,10 @@ Monty. Bounded continuation; no claim of continuous elapsed execution.
 - Positive actor-result and past-anadyatana parokṣa guards retained, including independent first-person evidence. Copy/root/augment vowels remain distinct.
 - Middle selected 63/90; next lut/ashirling/lung (27 requests), with prior/source review. For luṭ inspect the exact tās-s before dhve policy rather than silently borrowing a sic-only explanation. Earlier textual gaps remain open.
 - Python 3.12 direct checks only; Sanskrit generation/execution, old suites and replay deferred.
+
+## PG344 · Bhid middle benedictive
+
+- Parent `19edeb93f619944415d9d40227d1cd01803e68bc`; [packet](bhid_middle_benedictive_and_two_s_queries/README.md). New 9 finite positions/readings, cumulative **51,441**. No nominal/source-observation additions; nominal 2,917/3,465.
+- One literal Kāśikā bhitsīṣṭa control; eight written cells. Aniṭ leaves sīyuṭ jhal-initial, licensing A 1.2.11 kit. P 3.4.104/ordinary apit-sārvadhātuka are not copied. Initial s stays dental, internal singular suṭ-s becomes ṣ; dual internal s remains dental. No iṭ and d-final root defeat 2pl dh retroflexion.
+- Middle selected target 72/90. Next lut/lung (18 requests), after independent source/prior review. Luṭ tās-s before dhve still needs exact source policy; do not replace its obligation by a sic-only explanation. Earlier textual gaps remain open.
+- Python 3.12 direct checks only; generators, grammar execution, old suites and replay deferred.

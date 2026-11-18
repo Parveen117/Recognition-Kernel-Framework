@@ -2286,3 +2286,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG343 · Bhid middle perfect
 
 [PG343](bhid_middle_perfect_and_dental_dhvam/README.md) adds nine finite positions/readings, cumulative **51,432**. Root/copy i, four iṭ sites and dental dhve retain explicit ownership on PG14’s full carrier with typed zero recovery. Middle target 63/90; nominal 2,917/3,465 unchanged. Runtime/replay deferred.
+
+## PG344 · Bhid middle benedictive
+
+[PG344](bhid_middle_benedictive_and_two_s_queries/README.md) adds nine finite positions/readings, cumulative **51,441**. One literal word and eight compositions retain local A kit and distinct initial/internal s histories on PG14’s full carrier, with typed zero recovery. Middle target 72/90; nominal totals 2,917/3,465 unchanged. Grammar execution/replay deferred.
