@@ -2302,3 +2302,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG347 · Dhi ca commentary scope resolved locally
 
 [PG347](dhi_ca_commentary_scope_and_non_sic_controls/README.md) locates Bālamanoramā’s broad non-sic s-lopa and Tattvabodhinī’s explicit Vāmana/Bhāṣya distinction. Two new source observations add zero finite/nominal positions or readings; totals remain 51,459 finite and 2,917 nominal / 3,465 readings. The corroborating source-qualified edge uses PG14’s full carrier with typed zero recovery. Raw 82025 alignment and independent edition provenance stay Open; closed bhid grids and PG335 correction stay frozen. Runtime/replay deferred.
+
+## PG348 · Anadyatana source and temporal admission
+
+[PG348](anadyatana_source_collation_and_temporal_guard/README.md) locates revision-pinned Kāśikā laṅ and Padamañjarī mixed/generic-past rationale, then constructs an explicit temporal guard on PG14’s full carrier with typed zero recovery. Two source observations, no new finite/nominal positions/readings; totals 51,459 finite and 2,917 nominal / 3,465 readings. Typo transmission and printed provenance stay Open. Runtime/replay deferred.

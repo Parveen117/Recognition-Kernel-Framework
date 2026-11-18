@@ -1,0 +1,50 @@
+{
+  "schema": "rkf.panini.pg348.state.v1",
+  "author": "Monty",
+  "date": "2026-11-18",
+  "publication_parent": "5ccec0e86491031576027e8c4068ce8ffd0512e2",
+  "baseline": {
+    "commit": "5ccec0e86491031576027e8c4068ce8ffd0512e2",
+    "path": "research/panini_grammar/dhi_ca_commentary_scope_and_non_sic_controls/STATE.json",
+    "finite_positions": 51459
+  },
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 2,
+  "finite_positions": 51459,
+  "nominal_positions": 2917,
+  "nominal_readings": 3465,
+  "position_accounting": {
+    "forms": []
+  },
+  "new_source_decisions": [
+    "Kashika Wikisource revision 90384 explicitly reads lang; pinned data 32111 lung unchanged.",
+    "Padamanjari revision 402551 explains exclusion of mixed and generic past under the bahuvrihi reading."
+  ],
+  "bounded_pass": {
+    "stages": "PG347-PG348",
+    "new_unique_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 4
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Printed/manuscript source and causal transmission history of raw Kashika lung spelling; web transcription lineage not proven independent.",
+    "Raw 82025 alignment; independent Bhasya/Vamana edition collation.",
+    "Bhatti exact quotation locator; Madhaviya strings; four Unadi fields and 5.56 marker effect.",
+    "Unconstructed lexical/sense/derived/prefix domains; general day/time and Sanskrit semantic parser."
+  ]
+}

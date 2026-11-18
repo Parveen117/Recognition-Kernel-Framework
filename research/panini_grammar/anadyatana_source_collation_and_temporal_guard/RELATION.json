@@ -1,0 +1,67 @@
+{
+  "stage": "PG348",
+  "kind": "written source-qualified temporal guard, not a date parser",
+  "frame_reuse": {
+    "root": "bhid 1070002 / 07.0002",
+    "sense": "विदारणे",
+    "prefixes": [],
+    "voice": "kartari",
+    "pada": "P at PG337 or independently admitted A at PG342",
+    "formation": "simple",
+    "morphology": "exact frozen lang panels, no new ending/affix/position"
+  },
+  "controls": [
+    {
+      "id": "EXPLICIT_YESTERDAY",
+      "past": true,
+      "today_component": false,
+      "knowledge": "complete",
+      "outcome": "ADMITTED_3_2_111"
+    },
+    {
+      "id": "EXPLICIT_TODAY",
+      "past": true,
+      "today_component": true,
+      "knowledge": "complete",
+      "outcome": "EXCLUDED_3_2_111"
+    },
+    {
+      "id": "TODAY_OR_YESTERDAY_MIXED",
+      "past": true,
+      "today_component": true,
+      "knowledge": "complete",
+      "outcome": "EXCLUDED_3_2_111"
+    },
+    {
+      "id": "PAST_GENERIC",
+      "past": true,
+      "today_component": true,
+      "knowledge": "complete",
+      "outcome": "EXCLUDED_3_2_111"
+    },
+    {
+      "id": "UNRESOLVED_DATE_FRAME",
+      "past": true,
+      "today_component": null,
+      "knowledge": "incomplete",
+      "outcome": "OPEN_TEMPORAL_EVIDENCE"
+    }
+  ],
+  "guard": "past and absence of any today component in the expressed temporal reference; missing evidence is Open",
+  "known_excluded": [
+    "explicit today",
+    "mixed today/yesterday",
+    "undifferentiated generic past for this specific lang prescription"
+  ],
+  "open": [
+    "missing temporal evidence",
+    "day-boundary adapter unspecified",
+    "special/contextual tense permissions not included"
+  ],
+  "not_claimed": [
+    "all excluded lang requests are ungrammatical under every Sanskrit permission",
+    "lung is compulsory in every rejected context",
+    "physical time derived from history depth",
+    "automatic correction of raw source bytes"
+  ]
+}

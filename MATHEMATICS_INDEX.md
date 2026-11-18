@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG347 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 17 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG348 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG347 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG348 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4534,3 +4534,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG347 · Addressed non-sic lopa and competing commentary policies
 
 [Located policy construction](research/panini_grammar/dhi_ca_commentary_scope_and_non_sic_controls/README.md) adds two source observations with no new finite/nominal positions or readings. Bāla’s broad policy and Tattva’s Vāmana/Bhāṣya distinction refine the source-qualified relation on PG14’s full native history carrier with typed zero-specialization. Narrow-policy Open and malformed-key provenance remain distinct. Totals remain finite 51,459, nominal 2,917/3,465. Runtime/replay deferred.
+
+## PG348 · Source-qualified temporal admission before imperfect morphology
+
+[Temporal guard](research/panini_grammar/anadyatana_source_collation_and_temporal_guard/README.md) distinguishes mixed/generic reference from missing evidence and composes admitted frames with frozen imperfect panels. Revision-addressed sources yield two observations, zero new positions/readings. Full PG14 carrier, retained outcome cuts and typed zero-specialization; no physical clock or parser derived. Counts remain finite 51,459, nominal 2,917/3,465; runtime/replay deferred.
