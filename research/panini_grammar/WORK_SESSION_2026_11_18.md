@@ -51,3 +51,11 @@ Monty. Bounded continuation; no claim of continuous elapsed execution.
 - Selected residual-P grid is 90 keys/110 readings. Re-observe old PG7/PG22 domains without new credits; PG335’s duplicate correction remains. From the PG333 baseline this bounded continuation now adds **63 unique finite positions / 76 readings net**, with zero nominal additions, across PG334–PG340 (PG334’s 9/12 withdrawn). No claim of continuous executed hours.
 - Next substantive frontier: independently admitted outer middle bhid domains, or actual source obligations. Check old prose/factored grids first. Do not re-open this selected P grid merely to recount it. Earlier Bhatti locator, PG337 typo origin, commentary/Madhaviya strings and four Uṇādi fields stay open.
 - Python 3.12 direct checks only; grammar generators/execution, old suites and certificate replay deferred. This is a bounded pass, not daily ongoing work.
+
+## PG341 · New bounded six-hour authorization; middle futures
+
+- Owner authorized another approximate six-hour continuation. Current pass plus five bounded hourly continuation opportunities; this does not establish continuous executed hours or whole-project completion.
+- Parent `6e7def06a5583f55241100eb79f4157038c9566a`; [packet](bhid_actor_result_middle_futures/README.md). New 18 finite positions/readings; cumulative **51,414**. No new nominal/source observations; nominal 2,917/3,465.
+- Actor principal fruit under 1.3.72 is independently supplied; wages-only benefit does not suffice. All words written. P local suffix/grade results reused only through unchanged exact conditions; A ending and e histories independently constructed.
+- Middle selected target 45/90: old PG7/PG22 27 positions, new 18. Next lang/lit/lut/ashirling/lung (45 requests), after prior prose/factored review. Closed PG340 P grid and PG335 correction preserved. Earlier textual obligations remain open.
+- Python 3.12 direct document/source/count checks only; generators, grammar execution, old suites and replay deferred. No narrow completion ETA supported by a measured global backlog yet.

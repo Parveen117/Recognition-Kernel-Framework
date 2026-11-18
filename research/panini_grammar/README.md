@@ -2274,3 +2274,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG340 · Bhid aorist and selected-grid closure
 
 [PG340](bhid_aorist_alternatives_and_selected_grid/README.md) adds 9 finite positions / 18 readings, cumulative **51,396**. Optional aṅ and sic close the selected bhid P grid at 90 keys/110 readings, retaining the PG335 correction. Full PG14 typed zero recovery is written; middle/textual gaps and runtime/replay remain open. Nominal totals stay 2,917/3,465.
+
+## PG341 · Bhid actor-result middle futures
+
+[PG341](bhid_actor_result_middle_futures/README.md) adds 18 finite positions/readings, cumulative **51,414**. Principal result is distinguished from incidental wages; A ending histories are constructed on PG14’s full carrier with typed zero recovery. Middle selected coverage 45/90; nominal 2,917/3,465 unchanged. Grammar execution/replay deferred.
