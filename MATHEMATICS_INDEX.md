@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 19 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG358 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 19 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG359 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG358 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG359 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4578,3 +4578,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG358 · Actual-affix branching and agreement retained through luk
 
 [Passive aorist](research/panini_grammar/bhid_passive_aorist_actual_cin_and_sic/README.md) distinguishes actual ciṇ/ta-luk at third singular from eight sic constructions. Root guṇa versus kit-blocked guṇa and the two final-i owners retain source and agreement witnesses on PG14's full carrier with typed zero recovery. Nine new finite requests/readings, cumulative 51,522; nominal 3,055/3,606. Old actor/passive keys frozen; runtime, old suites and replay deferred.
+
+## PG359 · Independent epistemic cuts and passive perfect histories
+
+[Passive perfect](research/panini_grammar/bhid_passive_perfect_and_paroksa_guard/README.md) constructs nine patient-agreement requests under independently supplied source-qualified parokṣa. Exclusive ārdhadhātuka designation, apit-liṭ kit and origin-sensitive iṭ/dh queries retain full PG14 history and typed zero-specialization. Two bibhide slots remain distinct histories. Cumulative finite 51,531; nominal 3,055/3,606. Direct document/source checks only; runtime, untouched suites and replay deferred.

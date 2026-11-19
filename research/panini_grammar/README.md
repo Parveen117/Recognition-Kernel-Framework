@@ -2346,3 +2346,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG358 · Bhid passive actual-ciṇ aorist
 
 [PG358](bhid_passive_aorist_actual_cin_and_sic/README.md) adds nine finite positions/readings, cumulative **51,522**. Actual ciṇ-i and following ta-luk give abhedi; the other eight patient-controlled requests retain actual sic and match old actor-middle spellings without recredit. Full PG14 carrier with typed zero recovery retains agreement after luk. Selected passive grid 63/90; nominal 3,055/3,606 unchanged. Runtime/replay deferred.
+
+## PG359 · Passive perfect and independent parokṣa evidence
+
+[PG359](bhid_passive_perfect_and_paroksa_guard/README.md) adds nine finite requests/readings, cumulative **51,531**. Patient agreement and parokṣa evidence remain independent; exclusively ārdhadhātuka liṭ excludes present yak, with copy/root/ending/iṭ ownership retained on the full PG14 carrier and typed zero recovery. Nine keys share eight strings; old actor spellings are controls, not old passive credits. Selected passive 72/90; nominal 3,055/3,606 unchanged. Runtime/replay deferred.

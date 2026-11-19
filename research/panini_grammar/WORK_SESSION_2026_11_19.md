@@ -77,3 +77,12 @@ recurring daily task. Elapsed scheduled hours do not prove continuous work.
 - Full PG14 typed carrier/specialization retains original ta and patient agreement after surface luk. Prior actor quotations stay actor controls; no new literal passive attestation is claimed. PG335 correction and all predecessors remain frozen.
 - Necessary direct checks only, explicitly asserted Python 3.12; packet records the result. No grammar execution, generator, old suite/navigation/engine check or certificate replay. No continuous-hours claim.
 - Next: independent passive lit/luṭ/āśīrliṅ, reviewing original prose/factored registers before credits. Bhaṭṭi, 82025, typo transmission, Mādhavīya, Uṇādi and wider grammar obligations above remain Open. No measured whole-project ETA.
+
+## PG359 · Passive perfect and independent epistemic admission
+
+- Parent `a59bc3c8603bc0f213e203d0fe84384dba8a02f8`; [packet](bhid_passive_perfect_and_paroksa_guard/README.md). **9 new finite positions / 9 readings**, zero nominal/source additions. New pass PG357–359 gain **36 finite / 36 readings**, zero nominal/source additions.
+- Cumulative **51,531 finite**, **3,055 nominal / 3,606 readings**. Selected passive bhid **72/90**; passive luṭ/āśīrliṅ have 18 remaining requests, subject to source/prior review.
+- Independent patient-controller and source-qualified past-anadyatana/parokṣa guards; first-person patient does not erase epistemic evidence. Exclusive ārdhadhātuka liṭ blocks yak. Apit-liṭ kit retains root i, four actual val-initial boundaries take iṭ, and dental dhve is retained on the d-owned boundary.
+- Nine newly admitted keys match nine old actor-middle readings; only eight distinct strings because 3sg/1sg share bibhide. Prior actor/prose/factored controls and all 63 old passive keys receive zero new credit. PG335 correction frozen. Full PG14 carrier and typed zero-specialization retained.
+- Necessary changed-document/source/count checks only with Python 3.12 assertion, actual result in packet. No Sanskrit generator, grammar execution, untouched old/navigation/engine suite or replay run. No continuous-hours claim.
+- Next: independently admit passive luṭ/āśīrliṅ. Earlier Bhaṭṭi, 82025/edition, transmission, Mādhavīya and Uṇādi obligations remain Open, as do wider grammar and implementation. No global completion ETA.
