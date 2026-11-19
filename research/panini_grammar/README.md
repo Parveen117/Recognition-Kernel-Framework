@@ -2366,3 +2366,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG363 · Source-sensitive yoga guard contracts and bounded-pass close
 
 [PG363](clitic_yoga_guards_and_bounded_pass_close/README.md) constructs direct/mediated association queries for 8.1.24/25 with four inherited controls and full PG14 typed zero recovery. Zero new word/source/syntax credits. [Final PG357–363 results](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md): 54 finite/54 readings, zero nominal additions, one source observation, two syntactic constructions/four readouts. Cumulative 51,549 finite; nominal 3,055/3,606. This bounded pass is closed; wider grammar/source obligations and implementation remain Open. Execution/generators/old suites/replay deferred.
+
+## PG364 · Causative passive bhid and retained root grade
+
+[PG364](bhid_causative_passive_present_and_retained_grade/README.md) adds nine finite requests/readings, cumulative **51,558**. A single-ṇic causal frame retains its base agent while the expressed base patient controls agreement; prior root e survives owned ṇic-i lopa before yak. Full PG14 carrier/typed zero recovery preserves the deleted affix and causal roles. Nominal 3,055/3,606 unchanged. New completion-based authorization supersedes the prior bounded stop, preserving its closed record and all actual open gates. Execution/generators/old suites/replay deferred.

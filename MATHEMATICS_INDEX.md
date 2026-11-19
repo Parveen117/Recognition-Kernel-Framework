@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 19 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG363 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 19 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG364 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG363 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG364 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4598,3 +4598,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG363 · Rule-relative yoga queries and typed guard outcomes
 
 [Clitic guard contracts](research/panini_grammar/clitic_yoga_guards_and_bounded_pass_close/README.md) distinguish direct particle yoga from direct/mediated nonocular cognition, with four inherited source controls. Blanket any-association/direct-only shortcuts fail different controls; full PG14 histories and typed zero-specialization preserve rule, sense and evidence. Zero new position/source/syntax credits. [Bounded-pass close](research/panini_grammar/clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md): finite total 51,549, nominal 3,055/3,606; wider claims remain Open, runtime/old suites/replay deferred.
+
+## PG364 · Causal role grades and ordinary-lopa memory
+
+[Bhid causal passive](research/panini_grammar/bhid_causative_passive_present_and_retained_grade/README.md) constructs nine present patient-agreement requests with retained causee-agent and causal root e after ṇic-i lopa. Source/affix/role history lives on the full PG14 carrier with typed zero recovery, distinguishing bhedya from simple bhidya. Total finite 51,558; nominal 3,055/3,606. Completion gates remain Open; old bounded results preserved, runtime/generators/old suites/replay deferred.
