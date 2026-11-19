@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 19 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG362 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 19 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG363 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG362 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG363 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4594,3 +4594,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG362 · Predicate-indexed case and discourse-labelled clitic relations
 
 [Two pronominal compositions](research/panini_grammar/ma_clitic_case_binding_and_two_ellipsis_frames/README.md) bind asmad accusative to supplied prāpya/bhettum while independent plural matrix actors control āhadhvam. Position/particle/semantic/discourse guards and a named optional-clitic source policy produce four selected readouts on PG14's full history carrier with typed zero recovery. Two syntactic constructions; zero word-position/source credits. Totals 51,549 finite, nominal 3,055/3,606; actual poem mood and runtime verification remain Open/deferred.
+
+## PG363 · Rule-relative yoga queries and typed guard outcomes
+
+[Clitic guard contracts](research/panini_grammar/clitic_yoga_guards_and_bounded_pass_close/README.md) distinguish direct particle yoga from direct/mediated nonocular cognition, with four inherited source controls. Blanket any-association/direct-only shortcuts fail different controls; full PG14 histories and typed zero-specialization preserve rule, sense and evidence. Zero new position/source/syntax credits. [Bounded-pass close](research/panini_grammar/clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md): finite total 51,549, nominal 3,055/3,606; wider claims remain Open, runtime/old suites/replay deferred.

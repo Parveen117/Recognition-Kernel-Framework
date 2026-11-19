@@ -2362,3 +2362,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG362 · Pronominal case/clitic binding with two supplied predicates
 
 [PG362](ma_clitic_case_binding_and_two_ellipsis_frames/README.md) adds two syntactic constructions/four selected readouts, zero finite/nominal/source/nonfinite additions. First-person object, plural second-person matrix controller, clitic placement/restrictions and reported first-mention optionality stay distinct on the full PG14 carrier with typed zero recovery. Analytical loṭ is supplied; actual poem mood/locus remains Open. Totals 51,549 finite; nominal 3,055/3,606. Execution/generators/replay deferred.
+
+## PG363 · Source-sensitive yoga guard contracts and bounded-pass close
+
+[PG363](clitic_yoga_guards_and_bounded_pass_close/README.md) constructs direct/mediated association queries for 8.1.24/25 with four inherited controls and full PG14 typed zero recovery. Zero new word/source/syntax credits. [Final PG357–363 results](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md): 54 finite/54 readings, zero nominal additions, one source observation, two syntactic constructions/four readouts. Cumulative 51,549 finite; nominal 3,055/3,606. This bounded pass is closed; wider grammar/source obligations and implementation remain Open. Execution/generators/old suites/replay deferred.

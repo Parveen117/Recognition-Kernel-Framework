@@ -1,0 +1,57 @@
+{
+  "schema": "rkf.panini.pg363.state.v1",
+  "author": "Monty",
+  "date": "2026-11-19",
+  "publication_parent": "f19db620b4350e22d9232730a86e66d07ee9ebbf",
+  "baseline": {
+    "commit": "f19db620b4350e22d9232730a86e66d07ee9ebbf",
+    "path": "research/panini_grammar/ma_clitic_case_binding_and_two_ellipsis_frames/STATE.json",
+    "finite_positions": 51549
+  },
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "new_syntactic_constructions": 0,
+  "new_query_contracts": 2,
+  "inherited_source_control_records": 4,
+  "finite_positions": 51549,
+  "nominal_positions": 3055,
+  "nominal_readings": 3606,
+  "position_accounting": {
+    "forms": []
+  },
+  "bounded_pass": {
+    "status": "CLOSED",
+    "stages": "PG357-PG363",
+    "baseline_commit": "9f6000230409c9fcc64a9ffe7403738beaeb6826",
+    "new_unique_finite_positions": 54,
+    "new_finite_readings": 54,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 1,
+    "new_syntactic_constructions": 2,
+    "new_syntactic_readings": 4,
+    "new_query_contracts": 2,
+    "continuous_executed_hours_claimed": false,
+    "whole_project_complete": false,
+    "global_completion_eta": "not established without measured backlog"
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Exact Bhatti poem/edition/lakara/authorial context; PG361 is a subcommentary witness and PG362 supplies analytical lot only.",
+    "Independent 82025 edition collation; Kashika 3.2.111 causal transmission; Madhaviya differences.",
+    "Four primary Unadi fields sya/dha/dhat/aatac and 5.56 independent marker effect.",
+    "Wider lexical/semantic/preverb/derived/accent domains, arbitrary prose parsing and native/runtime implementation."
+  ]
+}

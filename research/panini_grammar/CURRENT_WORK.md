@@ -1,8 +1,10 @@
-# Pāṇini grammar · current written coverage at PG362
+# Pāṇini grammar · current written coverage at PG363
 
 Monty · 19 November 2026
 
-PG202–PG362 add **10,216 finite positions**, taking the written total to **51,549**. The new lexical and compound work gives 3,055 nominal positions with 3,606 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+The bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
+
+PG202–PG363 add **10,216 finite positions**, taking the written total to **51,549**. The new lexical and compound work gives 3,055 nominal positions with 3,606 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

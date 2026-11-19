@@ -1,0 +1,69 @@
+{
+  "domain": "supplied source-qualified lexical/semantic/association graph; not an automatic parse of surface text",
+  "query_contracts": [
+    {
+      "id": "Q24_DIRECT_PARTICLE",
+      "rule": "8.1.24",
+      "trigger": "known direct yoga to ca/va/ha/aha/eva",
+      "mediated_only": "does not establish this trigger",
+      "unknown": "Open"
+    },
+    {
+      "id": "Q25_NONOCULAR_ASSOCIATION",
+      "rule": "8.1.25",
+      "trigger": "known direct or source-licensed mediated yoga with a pashyartha in nonocular cognition sense",
+      "ocular": "semantic trigger false",
+      "unlicensed_longer_path": "Open, no arbitrary transitive closure",
+      "unknown": "Open"
+    }
+  ],
+  "controls": [
+    {
+      "id": "C24_DIRECT",
+      "rule": "8.1.24",
+      "source_field": "81024",
+      "text": "ग्रामो मां च पश्यति,",
+      "association": "direct pronoun-particle yoga",
+      "block": true,
+      "outcome": "clitic replacement Excluded on this premise; source retains full pronoun"
+    },
+    {
+      "id": "C24_MEDIATED",
+      "rule": "8.1.24",
+      "source_field": "81024",
+      "text": "ग्रामश्च ते स्वम्।",
+      "association": "particle associated through another item, not directly with pronoun",
+      "block": false,
+      "outcome": "not blocked by this rule; other clitic guards still required"
+    },
+    {
+      "id": "C25_MEDIATED_NONOCULAR",
+      "rule": "8.1.25",
+      "source_field": "81025",
+      "text": "ग्रामो मम स्वं समीक्ष्यागतः।",
+      "association": "source-licensed mediated yoga with nonocular knowing",
+      "block": true,
+      "outcome": "clitic replacement Excluded on this premise; source retains full pronoun"
+    },
+    {
+      "id": "C25_OCULAR",
+      "rule": "8.1.25",
+      "source_field": "81025",
+      "text": "ग्रामो मा पश्यति।",
+      "association": "ocular seeing; nonocular semantic premise false",
+      "block": false,
+      "outcome": "not blocked by this rule; source clitic control"
+    }
+  ],
+  "credits": {
+    "new_query_contracts": 2,
+    "inherited_control_records": 4,
+    "new_positions": 0,
+    "new_position_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0,
+    "new_syntactic_constructions": 0
+  },
+  "shared_rule": "known block true excludes the local replacement edge; known false only removes this blocker; unknown retains Open, never blanket acceptance"
+}
