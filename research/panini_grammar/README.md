@@ -2386,3 +2386,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG368 · Causal blessing and dependent dh choice
 
 [PG368](bhid_causative_blessing_and_dependent_dh/README.md) adds **9 finite positions / 19 readings**, cumulative **51,621**, nominal **3,055/3,606** unchanged. On O the pre-iṭ constituent ends in ṇic-owned y, licensing dh/ḍh at 2pl; C ṇic-lopa leaves root d and dental dh only. Source-qualified sīyuṭ, two s queries, patient roles and full PG14 typed zero recovery retained. [Backlog](WRITTEN_BACKLOG.md) leaves causal liṭ/luṅ 18 candidate requests plus genuine textual/wider gates Open. No grammar/generator execution or untouched suite/replay.
+
+## PG369 · Causal passive aorist and actual affix types
+
+[PG369](bhid_causative_aorist_actual_cin_and_sic/README.md) adds **9 finite positions / 18 readings**, cumulative **51,630**, nominal **3,055/3,606** unchanged. Actual ciṇ at original 3sg ta has owned ṇic-lopa and following ending-luk; other eight slots retain sic O/C and dependent dh choice. Causative caṅ requires kartari, so cannot replace this passive constructor. Old simple-passive abhedi keeps its separate history. Full PG14 carrier/typed zero recovery preserved. [Backlog](WRITTEN_BACKLOG.md): causal liṭ nine candidate requests plus textual/wider written gates Open. Execution/generators/untouched suites/replay deferred.

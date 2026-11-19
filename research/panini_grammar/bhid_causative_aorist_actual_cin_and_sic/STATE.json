@@ -1,0 +1,361 @@
+{
+  "schema": "rkf.panini.pg369.state.v1",
+  "author": "Monty",
+  "date": "2026-11-19",
+  "publication_parent": "56d03bd2a2dc26ef1d05e34f438265667baac7de",
+  "baseline": {
+    "commit": "56d03bd2a2dc26ef1d05e34f438265667baac7de",
+    "path": "research/panini_grammar/bhid_causative_blessing_and_dependent_dh/STATE.json",
+    "finite_positions": 51621
+  },
+  "new_positions": 9,
+  "new_position_readings": 18,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "new_syntactic_constructions": 0,
+  "new_nonfinite_constructions": 0,
+  "finite_positions": 51630,
+  "nominal_positions": 3055,
+  "nominal_readings": 3606,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lung",
+        "slot": "3sg",
+        "readings": [
+          "abhedi"
+        ],
+        "paths": [
+          {
+            "word": "abhedi",
+            "branch": "ACTUAL_CIN",
+            "actual_affix": "cin, vowel i",
+            "outer_augment": "none; cin-i is actual suffix",
+            "nic": "owned nic-i lopa",
+            "dh_query": "not 2pl"
+          }
+        ],
+        "patient_controller": "c",
+        "temporal_guard": "completed witnessed causal event earlier on utterance day; ordinary past augmentation, no mang",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lung",
+        "slot": "3du",
+        "readings": [
+          "abhedayiṣātām",
+          "abhediṣātām"
+        ],
+        "paths": [
+          {
+            "word": "abhedayiṣātām",
+            "branch": "O",
+            "actual_affix": "sic",
+            "outer_augment": "i_val 7.2.35",
+            "nic": "retained nic -> ay",
+            "dh_query": "not 2pl"
+          },
+          {
+            "word": "abhediṣātām",
+            "branch": "C",
+            "actual_affix": "sic",
+            "outer_augment": "i_cv 6.4.62",
+            "nic": "owned nic-i lopa",
+            "dh_query": "not 2pl"
+          }
+        ],
+        "patient_controller": "c",
+        "temporal_guard": "completed witnessed causal event earlier on utterance day; ordinary past augmentation, no mang",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lung",
+        "slot": "3pl",
+        "readings": [
+          "abhedayiṣata",
+          "abhediṣata"
+        ],
+        "paths": [
+          {
+            "word": "abhedayiṣata",
+            "branch": "O",
+            "actual_affix": "sic",
+            "outer_augment": "i_val 7.2.35",
+            "nic": "retained nic -> ay",
+            "dh_query": "not 2pl"
+          },
+          {
+            "word": "abhediṣata",
+            "branch": "C",
+            "actual_affix": "sic",
+            "outer_augment": "i_cv 6.4.62",
+            "nic": "owned nic-i lopa",
+            "dh_query": "not 2pl"
+          }
+        ],
+        "patient_controller": "c",
+        "temporal_guard": "completed witnessed causal event earlier on utterance day; ordinary past augmentation, no mang",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lung",
+        "slot": "2sg",
+        "readings": [
+          "abhedayiṣṭhāḥ",
+          "abhediṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "word": "abhedayiṣṭhāḥ",
+            "branch": "O",
+            "actual_affix": "sic",
+            "outer_augment": "i_val 7.2.35",
+            "nic": "retained nic -> ay",
+            "dh_query": "not 2pl"
+          },
+          {
+            "word": "abhediṣṭhāḥ",
+            "branch": "C",
+            "actual_affix": "sic",
+            "outer_augment": "i_cv 6.4.62",
+            "nic": "owned nic-i lopa",
+            "dh_query": "not 2pl"
+          }
+        ],
+        "patient_controller": "c",
+        "temporal_guard": "completed witnessed causal event earlier on utterance day; ordinary past augmentation, no mang",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lung",
+        "slot": "2du",
+        "readings": [
+          "abhedayiṣāthām",
+          "abhediṣāthām"
+        ],
+        "paths": [
+          {
+            "word": "abhedayiṣāthām",
+            "branch": "O",
+            "actual_affix": "sic",
+            "outer_augment": "i_val 7.2.35",
+            "nic": "retained nic -> ay",
+            "dh_query": "not 2pl"
+          },
+          {
+            "word": "abhediṣāthām",
+            "branch": "C",
+            "actual_affix": "sic",
+            "outer_augment": "i_cv 6.4.62",
+            "nic": "owned nic-i lopa",
+            "dh_query": "not 2pl"
+          }
+        ],
+        "patient_controller": "c",
+        "temporal_guard": "completed witnessed causal event earlier on utterance day; ordinary past augmentation, no mang",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lung",
+        "slot": "2pl",
+        "readings": [
+          "abhedayidhvam",
+          "abhedayiḍhvam",
+          "abhedidhvam"
+        ],
+        "paths": [
+          {
+            "word": "abhedayidhvam",
+            "branch": "O",
+            "actual_affix": "sic",
+            "outer_augment": "i_val 7.2.35",
+            "nic": "retained nic -> ay",
+            "dh_query": "y-final before i_val; dental/retroflex option"
+          },
+          {
+            "word": "abhedayiḍhvam",
+            "branch": "O",
+            "actual_affix": "sic",
+            "outer_augment": "i_val 7.2.35",
+            "nic": "retained nic -> ay",
+            "dh_query": "y-final before i_val; dental/retroflex option"
+          },
+          {
+            "word": "abhedidhvam",
+            "branch": "C",
+            "actual_affix": "sic",
+            "outer_augment": "i_cv 6.4.62",
+            "nic": "owned nic-i lopa",
+            "dh_query": "d-final before i_cv; dental only"
+          }
+        ],
+        "patient_controller": "c",
+        "temporal_guard": "completed witnessed causal event earlier on utterance day; ordinary past augmentation, no mang",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 3
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lung",
+        "slot": "1sg",
+        "readings": [
+          "abhedayiṣi",
+          "abhediṣi"
+        ],
+        "paths": [
+          {
+            "word": "abhedayiṣi",
+            "branch": "O",
+            "actual_affix": "sic",
+            "outer_augment": "i_val 7.2.35",
+            "nic": "retained nic -> ay",
+            "dh_query": "not 2pl"
+          },
+          {
+            "word": "abhediṣi",
+            "branch": "C",
+            "actual_affix": "sic",
+            "outer_augment": "i_cv 6.4.62",
+            "nic": "owned nic-i lopa",
+            "dh_query": "not 2pl"
+          }
+        ],
+        "patient_controller": "c",
+        "temporal_guard": "completed witnessed causal event earlier on utterance day; ordinary past augmentation, no mang",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lung",
+        "slot": "1du",
+        "readings": [
+          "abhedayiṣvahi",
+          "abhediṣvahi"
+        ],
+        "paths": [
+          {
+            "word": "abhedayiṣvahi",
+            "branch": "O",
+            "actual_affix": "sic",
+            "outer_augment": "i_val 7.2.35",
+            "nic": "retained nic -> ay",
+            "dh_query": "not 2pl"
+          },
+          {
+            "word": "abhediṣvahi",
+            "branch": "C",
+            "actual_affix": "sic",
+            "outer_augment": "i_cv 6.4.62",
+            "nic": "owned nic-i lopa",
+            "dh_query": "not 2pl"
+          }
+        ],
+        "patient_controller": "c",
+        "temporal_guard": "completed witnessed causal event earlier on utterance day; ordinary past augmentation, no mang",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lung",
+        "slot": "1pl",
+        "readings": [
+          "abhedayiṣmahi",
+          "abhediṣmahi"
+        ],
+        "paths": [
+          {
+            "word": "abhedayiṣmahi",
+            "branch": "O",
+            "actual_affix": "sic",
+            "outer_augment": "i_val 7.2.35",
+            "nic": "retained nic -> ay",
+            "dh_query": "not 2pl"
+          },
+          {
+            "word": "abhediṣmahi",
+            "branch": "C",
+            "actual_affix": "sic",
+            "outer_augment": "i_cv 6.4.62",
+            "nic": "owned nic-i lopa",
+            "dh_query": "not 2pl"
+          }
+        ],
+        "patient_controller": "c",
+        "temporal_guard": "completed witnessed causal event earlier on utterance day; ordinary past augmentation, no mang",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      }
+    ]
+  },
+  "branch_accounting": {
+    "actual_cin": 1,
+    "ordinary_sic_readings": 9,
+    "cinvat_sic_readings": 8
+  },
+  "prior_coverage": {
+    "shared_old_word": "abhedi",
+    "old_profile": "simple external-agent bhid karma passive, PG358",
+    "decision": "same word, different causal event/formation; old simple request not recredited"
+  },
+  "selected_causal_coverage": {
+    "positions": 81,
+    "readings": 127,
+    "remaining_candidate_lakaras": [
+      "lit"
+    ],
+    "remaining_candidate_requests": 9
+  },
+  "authorization": {
+    "completion_status": "OPEN",
+    "previous_PG357_PG363": "CLOSED preserved",
+    "new_authorization_gain_positions": 81,
+    "new_authorization_gain_readings": 127,
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "9 candidate causal lit requests require independent auxiliary-policy/source/prior review.",
+    "Source obligations S1-S7 and wider written gates remain Open; see ../WRITTEN_BACKLOG.md."
+  ]
+}

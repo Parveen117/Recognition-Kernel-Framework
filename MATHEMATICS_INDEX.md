@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 19 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG368 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 19 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG369 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG368 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG369 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4618,3 +4618,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG368 · Consumer-relative visibility and dependent blessing branches
 
 [Causal blessing](research/panini_grammar/bhid_causative_blessing_and_dependent_dh/README.md) constructs nine keys/nineteen readings: O 2pl dh/ḍh versus C dental-only depends on the actual pre-iṭ constituent after ṇic-lopa. Early Q_51 invisibility is not late Q_dh invisibility; the option relation has three edges rather than a Cartesian product. Full PG14 operator/history carrier and typed zero proof preserve source/role/owned sounds and that branch relation. Finite total 51,621; nominal 3,055/3,606. Two causal outer labels and textual/wider gates remain Open; execution/generators/untouched suites/replay deferred.
+
+## PG369 · Ta-addressed ciṇ, kartari caṅ guard and causal sic histories
+
+[Causal aorist](research/panini_grammar/bhid_causative_aorist_actual_cin_and_sic/README.md) supplies nine new keys/eighteen readings, preserving actual-ciṇ versus ciṇvat types, ṇic-lopa versus ending-luk owners, patient agreement and sic-2pl dependence. Caṅ's kartari premise fails the passive frame. Full PG14 history/module/pairing and typed zero proof recover the same labelled branches; same-surface abhedi does not identify causal and simple events. Finite 51,630; nominal 3,055/3,606. Causal liṭ/source/wider gates remain Open; runtime and untouched suites/replay deferred.

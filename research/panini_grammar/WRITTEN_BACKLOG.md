@@ -1,6 +1,6 @@
-# Written-development backlog at PG368
+# Written-development backlog at PG369
 
-Monty · 19 November 2026 · reviewed parent `fa4cd833a6caddb6f8010cc5c0391cee7bf59ead`.
+Monty · 19 November 2026 · reviewed parent `56d03bd2a2dc26ef1d05e34f438265667baac7de`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -32,7 +32,7 @@ Selected causal present+future+conditional after [PG366](bhid_causative_futures_
 
 | Queue | Concrete next evidence/construction | Status/denominator |
 | --- | --- | --- |
-| C1 · causal bhid outer system | PG366/367 supply futures, conditional and luṭ; [PG368](bhid_causative_blessing_and_dependent_dh/README.md) adds blessing with dependent O/C dh choices. Selected causal coverage 72 keys/109 readings. Review actual ṇyanta liṭ and luṅ next: auxiliary/root reduplication, actual ciṇ versus sic/caṅ, sourced iṭ/lopa and patient roles. | UNCONSTRUCTED: two labels × nine patient slots = **18 candidate requests**. Only positively derived blessing removes nine of the prior 27 candidates. |
+| C1 · causal bhid outer system | [PG369](bhid_causative_aorist_actual_cin_and_sic/README.md) adds passive luṅ: actual ciṇ at original ta, sic O/C elsewhere, no kartari caṅ. Selected causal coverage 81 keys/127 readings. Review liṭ auxiliary kṛ/bhū/as, primary ām/luk, independent parokṣa and paradigm-scoped H/I/S policy next. | UNCONSTRUCTED: liṭ × nine patient slots = **9 candidate requests**. Only positively derived luṅ removes nine of the previous 18 candidates. |
 | C2 · derived roles and formations | Review inanimate/unspecified base-agent frames, other causee classes, doubled karman selection, san/yaṅ and nested ṇic with typed event ownership. | UNCONSTRUCTED beyond named packet domains; lexical/sense/formation inventory unmeasured. |
 | C3 · lexical/prefix extensions | For each actual root ID/sense/preverb/pada, prove entitlement, grade, iṭ and visibility before adding word panels; compare prose and factored tables as well as STATE. | Selected roots closed only on declared profiles; whole inventory is not all derived requests. |
 | C4 · wider written gates | Nominal classes/pronouns/numerals, kṛt/taddhita semantic membership and competition, compounds/aluk/samāsānta, kāraka/controller/quotation/attachment, internal/external sound domains and accent/Vedic traditions: enumerate actual unclosed local contracts from the gate/register links above before claiming package closure. | OPEN expansion and reconciliation; **not yet globally measured**. Historical remaining rows can have later closures; review them before credits. |
