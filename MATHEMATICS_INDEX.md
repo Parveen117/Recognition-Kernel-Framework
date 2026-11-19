@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 19 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG364 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 19 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG365 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG364 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG365 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4602,3 +4602,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG364 · Causal role grades and ordinary-lopa memory
 
 [Bhid causal passive](research/panini_grammar/bhid_causative_passive_present_and_retained_grade/README.md) constructs nine present patient-agreement requests with retained causee-agent and causal root e after ṇic-i lopa. Source/affix/role history lives on the full PG14 carrier with typed zero recovery, distinguishing bhedya from simple bhidya. Total finite 51,558; nominal 3,055/3,606. Completion gates remain Open; old bounded results preserved, runtime/generators/old suites/replay deferred.
+
+## PG365 · Modal and augment ownership on retained causal histories
+
+[Causal present system](research/panini_grammar/bhid_causative_passive_present_system_completion/README.md) composes independent request/past-anadyatana admission with retained causal grade, ṇic-lopa, yak and three owned ending paths on PG14's full carrier. Written typed zero-specialization preserves causer/causee/patient, source policy, and ending āṭ versus root aṭ; ordinary optative īy has its own dual seam. Adds 27 finite positions/readings; selected causal present 36/36, cumulative finite 51,585, nominal 3,055/3,606. [Current evidence-linked backlog](research/panini_grammar/WRITTEN_BACKLOG.md) leaves outer causal/source/wider written gates Open; runtime/generators/untouched suites/replay deferred.

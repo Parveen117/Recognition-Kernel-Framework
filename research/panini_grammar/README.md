@@ -2370,3 +2370,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG364 · Causative passive bhid and retained root grade
 
 [PG364](bhid_causative_passive_present_and_retained_grade/README.md) adds nine finite requests/readings, cumulative **51,558**. A single-ṇic causal frame retains its base agent while the expressed base patient controls agreement; prior root e survives owned ṇic-i lopa before yak. Full PG14 carrier/typed zero recovery preserves the deleted affix and causal roles. Nominal 3,055/3,606 unchanged. New completion-based authorization supersedes the prior bounded stop, preserving its closed record and all actual open gates. Execution/generators/old suites/replay deferred.
+
+## PG365 · Causal passive moods, augment ownership and current backlog
+
+[PG365](bhid_causative_passive_present_system_completion/README.md) adds **27 finite positions / 27 readings**, closes the selected single-ṇic causal passive present system at 36/36, and withholds nine PG364 controls. Patient agreement, retained causal e and distinct causee-agent survive ending āṭ versus root aṭ and ordinary-liṅ īy. Full PG14 carrier and typed zero compatibility retained. Total finite **51,585**; nominal **3,055/3,606** unchanged. [Auditable backlog](WRITTEN_BACKLOG.md) separates closed domains, 54 candidate outer causal requests, real textual obligations and Claude-deferred execution. No global completeness, ETA, new source attestation or runtime claim.
