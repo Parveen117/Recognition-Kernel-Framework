@@ -1,0 +1,611 @@
+{
+  "schema": "rkf.panini.pg366.state.v1",
+  "author": "Monty",
+  "date": "2026-11-19",
+  "publication_parent": "07dcddc1d77101221dfe8912eb9757b79d8e7aa8",
+  "baseline": {
+    "commit": "07dcddc1d77101221dfe8912eb9757b79d8e7aa8",
+    "path": "research/panini_grammar/bhid_causative_passive_present_system_completion/STATE.json",
+    "finite_positions": 51585
+  },
+  "new_positions": 18,
+  "new_position_readings": 36,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "new_syntactic_constructions": 0,
+  "new_nonfinite_constructions": 0,
+  "finite_positions": 51603,
+  "nominal_positions": 3055,
+  "nominal_readings": 3606,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "bhedayiṣyate",
+          "bhediṣyate"
+        ],
+        "paths": [
+          {
+            "branch": "O",
+            "word": "bhedayiṣyate",
+            "augment": "i_val, 7.2.35",
+            "nic": "retained i -> e -> ay, owned nic",
+            "lopa_query": "i_val visible; anit condition false"
+          },
+          {
+            "branch": "C",
+            "word": "bhediṣyate",
+            "augment": "i_cv, coupled 6.4.62",
+            "nic": "owned nic-i lopa, retained causal root e/history",
+            "lopa_query": "i_cv invisible only to 6.4.51 under adopted 6.4.22 view"
+          }
+        ],
+        "agreement_controller": "expressed base patient c",
+        "temporal_guard": "future causal event under 3.3.13",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "bhedayiṣyete",
+          "bhediṣyete"
+        ],
+        "paths": [
+          {
+            "branch": "O",
+            "word": "bhedayiṣyete",
+            "augment": "i_val, 7.2.35",
+            "nic": "retained i -> e -> ay, owned nic",
+            "lopa_query": "i_val visible; anit condition false"
+          },
+          {
+            "branch": "C",
+            "word": "bhediṣyete",
+            "augment": "i_cv, coupled 6.4.62",
+            "nic": "owned nic-i lopa, retained causal root e/history",
+            "lopa_query": "i_cv invisible only to 6.4.51 under adopted 6.4.22 view"
+          }
+        ],
+        "agreement_controller": "expressed base patient c",
+        "temporal_guard": "future causal event under 3.3.13",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "bhedayiṣyante",
+          "bhediṣyante"
+        ],
+        "paths": [
+          {
+            "branch": "O",
+            "word": "bhedayiṣyante",
+            "augment": "i_val, 7.2.35",
+            "nic": "retained i -> e -> ay, owned nic",
+            "lopa_query": "i_val visible; anit condition false"
+          },
+          {
+            "branch": "C",
+            "word": "bhediṣyante",
+            "augment": "i_cv, coupled 6.4.62",
+            "nic": "owned nic-i lopa, retained causal root e/history",
+            "lopa_query": "i_cv invisible only to 6.4.51 under adopted 6.4.22 view"
+          }
+        ],
+        "agreement_controller": "expressed base patient c",
+        "temporal_guard": "future causal event under 3.3.13",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "bhedayiṣyase",
+          "bhediṣyase"
+        ],
+        "paths": [
+          {
+            "branch": "O",
+            "word": "bhedayiṣyase",
+            "augment": "i_val, 7.2.35",
+            "nic": "retained i -> e -> ay, owned nic",
+            "lopa_query": "i_val visible; anit condition false"
+          },
+          {
+            "branch": "C",
+            "word": "bhediṣyase",
+            "augment": "i_cv, coupled 6.4.62",
+            "nic": "owned nic-i lopa, retained causal root e/history",
+            "lopa_query": "i_cv invisible only to 6.4.51 under adopted 6.4.22 view"
+          }
+        ],
+        "agreement_controller": "expressed base patient c",
+        "temporal_guard": "future causal event under 3.3.13",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "bhedayiṣyethe",
+          "bhediṣyethe"
+        ],
+        "paths": [
+          {
+            "branch": "O",
+            "word": "bhedayiṣyethe",
+            "augment": "i_val, 7.2.35",
+            "nic": "retained i -> e -> ay, owned nic",
+            "lopa_query": "i_val visible; anit condition false"
+          },
+          {
+            "branch": "C",
+            "word": "bhediṣyethe",
+            "augment": "i_cv, coupled 6.4.62",
+            "nic": "owned nic-i lopa, retained causal root e/history",
+            "lopa_query": "i_cv invisible only to 6.4.51 under adopted 6.4.22 view"
+          }
+        ],
+        "agreement_controller": "expressed base patient c",
+        "temporal_guard": "future causal event under 3.3.13",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "bhedayiṣyadhve",
+          "bhediṣyadhve"
+        ],
+        "paths": [
+          {
+            "branch": "O",
+            "word": "bhedayiṣyadhve",
+            "augment": "i_val, 7.2.35",
+            "nic": "retained i -> e -> ay, owned nic",
+            "lopa_query": "i_val visible; anit condition false"
+          },
+          {
+            "branch": "C",
+            "word": "bhediṣyadhve",
+            "augment": "i_cv, coupled 6.4.62",
+            "nic": "owned nic-i lopa, retained causal root e/history",
+            "lopa_query": "i_cv invisible only to 6.4.51 under adopted 6.4.22 view"
+          }
+        ],
+        "agreement_controller": "expressed base patient c",
+        "temporal_guard": "future causal event under 3.3.13",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "bhedayiṣye",
+          "bhediṣye"
+        ],
+        "paths": [
+          {
+            "branch": "O",
+            "word": "bhedayiṣye",
+            "augment": "i_val, 7.2.35",
+            "nic": "retained i -> e -> ay, owned nic",
+            "lopa_query": "i_val visible; anit condition false"
+          },
+          {
+            "branch": "C",
+            "word": "bhediṣye",
+            "augment": "i_cv, coupled 6.4.62",
+            "nic": "owned nic-i lopa, retained causal root e/history",
+            "lopa_query": "i_cv invisible only to 6.4.51 under adopted 6.4.22 view"
+          }
+        ],
+        "agreement_controller": "expressed base patient c",
+        "temporal_guard": "future causal event under 3.3.13",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "bhedayiṣyāvahe",
+          "bhediṣyāvahe"
+        ],
+        "paths": [
+          {
+            "branch": "O",
+            "word": "bhedayiṣyāvahe",
+            "augment": "i_val, 7.2.35",
+            "nic": "retained i -> e -> ay, owned nic",
+            "lopa_query": "i_val visible; anit condition false"
+          },
+          {
+            "branch": "C",
+            "word": "bhediṣyāvahe",
+            "augment": "i_cv, coupled 6.4.62",
+            "nic": "owned nic-i lopa, retained causal root e/history",
+            "lopa_query": "i_cv invisible only to 6.4.51 under adopted 6.4.22 view"
+          }
+        ],
+        "agreement_controller": "expressed base patient c",
+        "temporal_guard": "future causal event under 3.3.13",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "bhedayiṣyāmahe",
+          "bhediṣyāmahe"
+        ],
+        "paths": [
+          {
+            "branch": "O",
+            "word": "bhedayiṣyāmahe",
+            "augment": "i_val, 7.2.35",
+            "nic": "retained i -> e -> ay, owned nic",
+            "lopa_query": "i_val visible; anit condition false"
+          },
+          {
+            "branch": "C",
+            "word": "bhediṣyāmahe",
+            "augment": "i_cv, coupled 6.4.62",
+            "nic": "owned nic-i lopa, retained causal root e/history",
+            "lopa_query": "i_cv invisible only to 6.4.51 under adopted 6.4.22 view"
+          }
+        ],
+        "agreement_controller": "expressed base patient c",
+        "temporal_guard": "future causal event under 3.3.13",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "abhedayiṣyata",
+          "abhediṣyata"
+        ],
+        "paths": [
+          {
+            "branch": "O",
+            "word": "abhedayiṣyata",
+            "augment": "i_val, 7.2.35",
+            "nic": "retained i -> e -> ay, owned nic",
+            "lopa_query": "i_val visible; anit condition false"
+          },
+          {
+            "branch": "C",
+            "word": "abhediṣyata",
+            "augment": "i_cv, coupled 6.4.62",
+            "nic": "owned nic-i lopa, retained causal root e/history",
+            "lopa_query": "i_cv invisible only to 6.4.51 under adopted 6.4.22 view"
+          }
+        ],
+        "agreement_controller": "expressed base patient c",
+        "temporal_guard": "future ling-nimitta and positively known causal kriyatipatti under 3.3.139",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "abhedayiṣyetām",
+          "abhediṣyetām"
+        ],
+        "paths": [
+          {
+            "branch": "O",
+            "word": "abhedayiṣyetām",
+            "augment": "i_val, 7.2.35",
+            "nic": "retained i -> e -> ay, owned nic",
+            "lopa_query": "i_val visible; anit condition false"
+          },
+          {
+            "branch": "C",
+            "word": "abhediṣyetām",
+            "augment": "i_cv, coupled 6.4.62",
+            "nic": "owned nic-i lopa, retained causal root e/history",
+            "lopa_query": "i_cv invisible only to 6.4.51 under adopted 6.4.22 view"
+          }
+        ],
+        "agreement_controller": "expressed base patient c",
+        "temporal_guard": "future ling-nimitta and positively known causal kriyatipatti under 3.3.139",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "abhedayiṣyanta",
+          "abhediṣyanta"
+        ],
+        "paths": [
+          {
+            "branch": "O",
+            "word": "abhedayiṣyanta",
+            "augment": "i_val, 7.2.35",
+            "nic": "retained i -> e -> ay, owned nic",
+            "lopa_query": "i_val visible; anit condition false"
+          },
+          {
+            "branch": "C",
+            "word": "abhediṣyanta",
+            "augment": "i_cv, coupled 6.4.62",
+            "nic": "owned nic-i lopa, retained causal root e/history",
+            "lopa_query": "i_cv invisible only to 6.4.51 under adopted 6.4.22 view"
+          }
+        ],
+        "agreement_controller": "expressed base patient c",
+        "temporal_guard": "future ling-nimitta and positively known causal kriyatipatti under 3.3.139",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "abhedayiṣyathāḥ",
+          "abhediṣyathāḥ"
+        ],
+        "paths": [
+          {
+            "branch": "O",
+            "word": "abhedayiṣyathāḥ",
+            "augment": "i_val, 7.2.35",
+            "nic": "retained i -> e -> ay, owned nic",
+            "lopa_query": "i_val visible; anit condition false"
+          },
+          {
+            "branch": "C",
+            "word": "abhediṣyathāḥ",
+            "augment": "i_cv, coupled 6.4.62",
+            "nic": "owned nic-i lopa, retained causal root e/history",
+            "lopa_query": "i_cv invisible only to 6.4.51 under adopted 6.4.22 view"
+          }
+        ],
+        "agreement_controller": "expressed base patient c",
+        "temporal_guard": "future ling-nimitta and positively known causal kriyatipatti under 3.3.139",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "abhedayiṣyethām",
+          "abhediṣyethām"
+        ],
+        "paths": [
+          {
+            "branch": "O",
+            "word": "abhedayiṣyethām",
+            "augment": "i_val, 7.2.35",
+            "nic": "retained i -> e -> ay, owned nic",
+            "lopa_query": "i_val visible; anit condition false"
+          },
+          {
+            "branch": "C",
+            "word": "abhediṣyethām",
+            "augment": "i_cv, coupled 6.4.62",
+            "nic": "owned nic-i lopa, retained causal root e/history",
+            "lopa_query": "i_cv invisible only to 6.4.51 under adopted 6.4.22 view"
+          }
+        ],
+        "agreement_controller": "expressed base patient c",
+        "temporal_guard": "future ling-nimitta and positively known causal kriyatipatti under 3.3.139",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "abhedayiṣyadhvam",
+          "abhediṣyadhvam"
+        ],
+        "paths": [
+          {
+            "branch": "O",
+            "word": "abhedayiṣyadhvam",
+            "augment": "i_val, 7.2.35",
+            "nic": "retained i -> e -> ay, owned nic",
+            "lopa_query": "i_val visible; anit condition false"
+          },
+          {
+            "branch": "C",
+            "word": "abhediṣyadhvam",
+            "augment": "i_cv, coupled 6.4.62",
+            "nic": "owned nic-i lopa, retained causal root e/history",
+            "lopa_query": "i_cv invisible only to 6.4.51 under adopted 6.4.22 view"
+          }
+        ],
+        "agreement_controller": "expressed base patient c",
+        "temporal_guard": "future ling-nimitta and positively known causal kriyatipatti under 3.3.139",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "abhedayiṣye",
+          "abhediṣye"
+        ],
+        "paths": [
+          {
+            "branch": "O",
+            "word": "abhedayiṣye",
+            "augment": "i_val, 7.2.35",
+            "nic": "retained i -> e -> ay, owned nic",
+            "lopa_query": "i_val visible; anit condition false"
+          },
+          {
+            "branch": "C",
+            "word": "abhediṣye",
+            "augment": "i_cv, coupled 6.4.62",
+            "nic": "owned nic-i lopa, retained causal root e/history",
+            "lopa_query": "i_cv invisible only to 6.4.51 under adopted 6.4.22 view"
+          }
+        ],
+        "agreement_controller": "expressed base patient c",
+        "temporal_guard": "future ling-nimitta and positively known causal kriyatipatti under 3.3.139",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "abhedayiṣyāvahi",
+          "abhediṣyāvahi"
+        ],
+        "paths": [
+          {
+            "branch": "O",
+            "word": "abhedayiṣyāvahi",
+            "augment": "i_val, 7.2.35",
+            "nic": "retained i -> e -> ay, owned nic",
+            "lopa_query": "i_val visible; anit condition false"
+          },
+          {
+            "branch": "C",
+            "word": "abhediṣyāvahi",
+            "augment": "i_cv, coupled 6.4.62",
+            "nic": "owned nic-i lopa, retained causal root e/history",
+            "lopa_query": "i_cv invisible only to 6.4.51 under adopted 6.4.22 view"
+          }
+        ],
+        "agreement_controller": "expressed base patient c",
+        "temporal_guard": "future ling-nimitta and positively known causal kriyatipatti under 3.3.139",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "abhedayiṣyāmahi",
+          "abhediṣyāmahi"
+        ],
+        "paths": [
+          {
+            "branch": "O",
+            "word": "abhedayiṣyāmahi",
+            "augment": "i_val, 7.2.35",
+            "nic": "retained i -> e -> ay, owned nic",
+            "lopa_query": "i_val visible; anit condition false"
+          },
+          {
+            "branch": "C",
+            "word": "abhediṣyāmahi",
+            "augment": "i_cv, coupled 6.4.62",
+            "nic": "owned nic-i lopa, retained causal root e/history",
+            "lopa_query": "i_cv invisible only to 6.4.51 under adopted 6.4.22 view"
+          }
+        ],
+        "agreement_controller": "expressed base patient c",
+        "temporal_guard": "future ling-nimitta and positively known causal kriyatipatti under 3.3.139",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      }
+    ]
+  },
+  "prior_coverage": {
+    "negative_control_path": "research/panini_grammar/bhid_passive_futures_and_cinvat_exclusion/DERIVATION_AND_NATIVE_RECOVERY.md",
+    "old_negative_word": "bhediṣyate",
+    "interpretation": "PG357 explicitly excludes this from simple bhid only; not an old admitted causal position or universal prohibition",
+    "pg365_selected_present_positions": 36,
+    "old_present_credit_here": 0
+  },
+  "authorization": {
+    "scope": "completion-based; PG357-PG363 CLOSED preserved",
+    "new_authorization_gain_positions": 54,
+    "new_authorization_gain_readings": 72,
+    "completion_status": "OPEN",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Four remaining selected causal lakaras lit/lut/lung/ashirling: 36 candidate requests, source/prior review required.",
+    "Source obligations S1-S7 and wider written gates remain; see ../WRITTEN_BACKLOG.md."
+  ]
+}

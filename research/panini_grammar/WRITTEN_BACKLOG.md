@@ -1,6 +1,6 @@
-# Written-development backlog at PG365
+# Written-development backlog at PG366
 
-Monty · 19 November 2026 · reviewed parent `674f7507f6b886e859af2dd1661cb2019103c37a`.
+Monty · 19 November 2026 · reviewed parent `07dcddc1d77101221dfe8912eb9757b79d8e7aa8`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -26,11 +26,13 @@ reverification of every linked packet is made.
 | PG335 correction | [Frozen STATE](bhid_future_conditional_and_prior_coverage/STATE.json) | -9 finite/-12 readings already removed; never restore PG334 duplicates. |
 | Historical bounded pass PG357–363 | [CLOSED results](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md) | 54 finite/54 readings, one source observation, two syntactic constructions/four readouts; historical, not this run's additions. |
 
+Selected causal present+future+conditional after [PG366](bhid_causative_futures_and_augment_origin/README.md): 54 keys/72 readings. Future C reuses the taught ṇic vowel; it does not invalidate the simple-root negative control. This adds no source-observation unit.
+
 ## Genuine unconstructed work: positive next deliverables
 
 | Queue | Concrete next evidence/construction | Status/denominator |
 | --- | --- | --- |
-| C1 · causal bhid outer system | Review actual ṇyanta source rules for liṭ, luṭ, lṛṭ, luṅ, āśīrliṅ, lṛṅ; preserve nic-lopa/ciṇvat, iṭ, reduplication and expression/role guards separately. Start with exact sources and prior registers, not simple-passive word copying. | UNCONSTRUCTED in this selected causal profile: six lakāras × nine patient slots = **54 candidate requests**, zero credit until independently admitted/derived. |
+| C1 · causal bhid outer system | [PG366](bhid_causative_futures_and_augment_origin/README.md) now constructs lṛṭ/lṛṅ: 18 keys/36 O/C readings. Review actual ṇyanta rules next for liṭ, luṭ, luṅ and āśīrliṅ, preserving nic-lopa/ciṇvat, iṭ, reduplication and expression/role guards. | UNCONSTRUCTED in this selected causal profile: four lakāras × nine patient slots = **36 candidate requests**. The old 54-candidate queue lost only the 18 positively derived requests; zero credit for the rest. |
 | C2 · derived roles and formations | Review inanimate/unspecified base-agent frames, other causee classes, doubled karman selection, san/yaṅ and nested ṇic with typed event ownership. | UNCONSTRUCTED beyond named packet domains; lexical/sense/formation inventory unmeasured. |
 | C3 · lexical/prefix extensions | For each actual root ID/sense/preverb/pada, prove entitlement, grade, iṭ and visibility before adding word panels; compare prose and factored tables as well as STATE. | Selected roots closed only on declared profiles; whole inventory is not all derived requests. |
 | C4 · wider written gates | Nominal classes/pronouns/numerals, kṛt/taddhita semantic membership and competition, compounds/aluk/samāsānta, kāraka/controller/quotation/attachment, internal/external sound domains and accent/Vedic traditions: enumerate actual unclosed local contracts from the gate/register links above before claiming package closure. | OPEN expansion and reconciliation; **not yet globally measured**. Historical remaining rows can have later closures; review them before credits. |
