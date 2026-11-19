@@ -2378,3 +2378,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG366 · Causal futures and query-specific augment origin
 
 [PG366](bhid_causative_futures_and_augment_origin/README.md) adds **18 finite positions / 36 readings**, cumulative **51,603**; nominal **3,055/3,606** unchanged. Original ṇic vowel admits coupled ciṇvat/i_cv despite simple bhid's excluded edge. Ordinary i_val retains ṇic as ay; C deletes only owned ṇic-i while retaining the audible augment and root e. The written information-loss argument explains why lopa cannot consult raw letters alone. Full PG14 typed zero recovery preserves query/history/patient roles. [Current backlog](WRITTEN_BACKLOG.md): four causal outer labels/36 candidate requests and real textual/wider gates remain Open. Execution/generators/old suites/replay deferred.
+
+## PG367 · Causal luṭ and owned tās changes
+
+[PG367](bhid_causative_lut_and_owned_tas/README.md) adds **9 finite positions / 18 readings**, cumulative **51,612**; nominal **3,055/3,606** unchanged. O/C retains distinct augment/ṇic history, third-person ending ā versus suffix ā, and sourced s-lopa/s→h. Broad Kaumudī 2pl construction is selected; narrow full request stays Open. Full PG14 carrier/typed zero recovery preserved. [Backlog](WRITTEN_BACKLOG.md): three outer causal labels/27 candidate requests plus real textual/wider written gates remain. Execution/generators/untouched suites/replay deferred.

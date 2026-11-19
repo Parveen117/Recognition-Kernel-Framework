@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 19 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG366 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 19 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG367 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG366 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG367 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4610,3 +4610,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG366 · Augment-origin obstruction and conditional causal lift
 
 [Causal futures](research/panini_grammar/bhid_causative_futures_and_augment_origin/README.md) supplies eighteen new keys/thirty-six readings under independent causal future/conditional guards. Original ṇic vowel admits optional coupled ciṇvat/i_cv. Its query-specific invisibility permits ṇic-lopa, while ordinary i_val retains ay; the same erased raw letters cannot determine both lopa outcomes. Full PG14 carrier, actual sya/role/source histories and typed zero-specialization retain the necessary augment-origin query. Cumulative finite 51,603; nominal 3,055/3,606. Four outer causal labels and source/wider written gates remain Open; runtime and untouched suites/replay deferred.
+
+## PG367 · Causal tāsi, ending ownership and policy channels
+
+[Causal luṭ](research/panini_grammar/bhid_causative_lut_and_owned_tas/README.md) constructs nine patient-controlled keys/eighteen sourced O/C readings. Actual tāsi, third-singular ṭi deletion, dual/plural s-lopa, first-singular s→h and named broad 2pl deletion retain their owners. Narrow-policy full request stays Open. PG14 full operator/history carrier and typed zero proof preserve augment origin, suffix/ending ā, roles and source policy. Finite total 51,612; nominal 3,055/3,606. Three outer causal labels/source/wider gates remain Open; execution and untouched suites/replay deferred.

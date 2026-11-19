@@ -1,0 +1,327 @@
+{
+  "schema": "rkf.panini.pg367.state.v1",
+  "author": "Monty",
+  "date": "2026-11-19",
+  "publication_parent": "8b3e2dce0e1bab80147bcd62d35fdcb5f7ce0752",
+  "baseline": {
+    "commit": "8b3e2dce0e1bab80147bcd62d35fdcb5f7ce0752",
+    "path": "research/panini_grammar/bhid_causative_futures_and_augment_origin/STATE.json",
+    "finite_positions": 51603
+  },
+  "new_positions": 9,
+  "new_position_readings": 18,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "new_syntactic_constructions": 0,
+  "new_nonfinite_constructions": 0,
+  "finite_positions": 51612,
+  "nominal_positions": 3055,
+  "nominal_readings": 3606,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "3sg",
+        "readings": [
+          "bhedayitā",
+          "bheditā"
+        ],
+        "branches": [
+          {
+            "label": "O",
+            "word": "bhedayitā",
+            "augment": "i_val 7.2.35",
+            "nic": "retained -> ay"
+          },
+          {
+            "label": "C",
+            "word": "bheditā",
+            "augment": "coupled i_cv 6.4.62",
+            "nic": "owned i lopa, root e retained"
+          }
+        ],
+        "patient_controller": "c",
+        "temporal_guard": "future-anadyatana causal event, 3.3.15",
+        "policy": "inherited owned tas ending policy",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "3du",
+        "readings": [
+          "bhedayitārau",
+          "bheditārau"
+        ],
+        "branches": [
+          {
+            "label": "O",
+            "word": "bhedayitārau",
+            "augment": "i_val 7.2.35",
+            "nic": "retained -> ay"
+          },
+          {
+            "label": "C",
+            "word": "bheditārau",
+            "augment": "coupled i_cv 6.4.62",
+            "nic": "owned i lopa, root e retained"
+          }
+        ],
+        "patient_controller": "c",
+        "temporal_guard": "future-anadyatana causal event, 3.3.15",
+        "policy": "inherited owned tas ending policy",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "3pl",
+        "readings": [
+          "bhedayitāraḥ",
+          "bheditāraḥ"
+        ],
+        "branches": [
+          {
+            "label": "O",
+            "word": "bhedayitāraḥ",
+            "augment": "i_val 7.2.35",
+            "nic": "retained -> ay"
+          },
+          {
+            "label": "C",
+            "word": "bheditāraḥ",
+            "augment": "coupled i_cv 6.4.62",
+            "nic": "owned i lopa, root e retained"
+          }
+        ],
+        "patient_controller": "c",
+        "temporal_guard": "future-anadyatana causal event, 3.3.15",
+        "policy": "inherited owned tas ending policy",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "2sg",
+        "readings": [
+          "bhedayitāse",
+          "bheditāse"
+        ],
+        "branches": [
+          {
+            "label": "O",
+            "word": "bhedayitāse",
+            "augment": "i_val 7.2.35",
+            "nic": "retained -> ay"
+          },
+          {
+            "label": "C",
+            "word": "bheditāse",
+            "augment": "coupled i_cv 6.4.62",
+            "nic": "owned i lopa, root e retained"
+          }
+        ],
+        "patient_controller": "c",
+        "temporal_guard": "future-anadyatana causal event, 3.3.15",
+        "policy": "inherited owned tas ending policy",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "2du",
+        "readings": [
+          "bhedayitāsāthe",
+          "bheditāsāthe"
+        ],
+        "branches": [
+          {
+            "label": "O",
+            "word": "bhedayitāsāthe",
+            "augment": "i_val 7.2.35",
+            "nic": "retained -> ay"
+          },
+          {
+            "label": "C",
+            "word": "bheditāsāthe",
+            "augment": "coupled i_cv 6.4.62",
+            "nic": "owned i lopa, root e retained"
+          }
+        ],
+        "patient_controller": "c",
+        "temporal_guard": "future-anadyatana causal event, 3.3.15",
+        "policy": "inherited owned tas ending policy",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "2pl",
+        "readings": [
+          "bhedayitādhve",
+          "bheditādhve"
+        ],
+        "branches": [
+          {
+            "label": "O",
+            "word": "bhedayitādhve",
+            "augment": "i_val 7.2.35",
+            "nic": "retained -> ay"
+          },
+          {
+            "label": "C",
+            "word": "bheditādhve",
+            "augment": "coupled i_cv 6.4.62",
+            "nic": "owned i lopa, root e retained"
+          }
+        ],
+        "patient_controller": "c",
+        "temporal_guard": "future-anadyatana causal event, 3.3.15",
+        "policy": "Kaumudi broad tas-s lopa at 2pl; narrow sic-only request Open",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "1sg",
+        "readings": [
+          "bhedayitāhe",
+          "bheditāhe"
+        ],
+        "branches": [
+          {
+            "label": "O",
+            "word": "bhedayitāhe",
+            "augment": "i_val 7.2.35",
+            "nic": "retained -> ay"
+          },
+          {
+            "label": "C",
+            "word": "bheditāhe",
+            "augment": "coupled i_cv 6.4.62",
+            "nic": "owned i lopa, root e retained"
+          }
+        ],
+        "patient_controller": "c",
+        "temporal_guard": "future-anadyatana causal event, 3.3.15",
+        "policy": "inherited owned tas ending policy",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "1du",
+        "readings": [
+          "bhedayitāsvahe",
+          "bheditāsvahe"
+        ],
+        "branches": [
+          {
+            "label": "O",
+            "word": "bhedayitāsvahe",
+            "augment": "i_val 7.2.35",
+            "nic": "retained -> ay"
+          },
+          {
+            "label": "C",
+            "word": "bheditāsvahe",
+            "augment": "coupled i_cv 6.4.62",
+            "nic": "owned i lopa, root e retained"
+          }
+        ],
+        "patient_controller": "c",
+        "temporal_guard": "future-anadyatana causal event, 3.3.15",
+        "policy": "inherited owned tas ending policy",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lut",
+        "slot": "1pl",
+        "readings": [
+          "bhedayitāsmahe",
+          "bheditāsmahe"
+        ],
+        "branches": [
+          {
+            "label": "O",
+            "word": "bhedayitāsmahe",
+            "augment": "i_val 7.2.35",
+            "nic": "retained -> ay"
+          },
+          {
+            "label": "C",
+            "word": "bheditāsmahe",
+            "augment": "coupled i_cv 6.4.62",
+            "nic": "owned i lopa, root e retained"
+          }
+        ],
+        "patient_controller": "c",
+        "temporal_guard": "future-anadyatana causal event, 3.3.15",
+        "policy": "inherited owned tas ending policy",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      }
+    ]
+  },
+  "selected_causal_coverage": {
+    "positions": 63,
+    "readings": 90,
+    "remaining_candidate_lakaras": [
+      "lit",
+      "lung",
+      "ashirling"
+    ],
+    "remaining_candidate_requests": 27
+  },
+  "authorization": {
+    "completion_status": "OPEN",
+    "previous_PG357_PG363": "CLOSED preserved",
+    "new_authorization_gain_positions": 63,
+    "new_authorization_gain_readings": 90,
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "27 candidate causal lit/lung/ashirling requests require independent source/prior review.",
+    "Broad/narrow commentary policies and S1-S7 textual obligations remain explicit.",
+    "Wider written gates unmeasured, not complete Sanskrit; see ../WRITTEN_BACKLOG.md."
+  ]
+}
