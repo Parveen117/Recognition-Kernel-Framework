@@ -2410,3 +2410,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG374 · Causal-agent ktavatu and masculine strength
 
 [PG374](bheditavat_causer_and_masculine_strength/README.md) adds **24 nominal keys/readings**, cumulative **3,151/3,702**; finite unchanged **51,639**. Bheditavat selects causal kartṛ a, not patient c or inner causee b. Source-timed niṣṭhā lopa, retained ugit, nominative length before num and weak suffix-final t/d have explicit owners. Full PG14 typed zero proof supplied. Other genders/formation/source/native gates Open; execution/generators/untouched suites/replay deferred.
+
+## PG375 · Causal-agent feminine ī, neuter endings and pause
+
+[PG375](bheditavat_feminine_nip_and_neuter_pause/README.md) adds **48 nominal positions / 51 readings**, cumulative **3,199/3,753**, finite unchanged **51,639**. Supplied causer agreement derives feminine ṅīp ī separately from neuter dual śī; neuter plural bheditavanti has one num, singular bheditavad/bheditavat both pause readings. Selected causal niṣṭhā now144 keys/147 readings; old masculine homographs receive zero new credit. PG14 full typed zero proof supplied; wider written/source gates Open, execution/generators/untouched suites/replay deferred.

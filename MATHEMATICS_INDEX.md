@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG374 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG375 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG374 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG375 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4642,3 +4642,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG374 · Event-indexed causal agent, pre-num length and weak consonant owners
 
 [Causal-agent masculine](research/panini_grammar/bheditavat_causer_and_masculine_strength/README.md) constructs 24 nominal keys/readings selecting outer causal kartṛ rather than base causee/patient. Owned ktavatu and source-timed ṇic-lopa yield bheditavat; nominative-only length precedes num, while weak suffix-final t/d cannot be retargeted as base-root d. Full PG14 history/pairing and typed zero proof preserve those types. Finite 51,639; nominal 3,151/3,702. Wider gender/source/written gates Open; execution and untouched suites/replay deferred.
+
+## PG375 · Typed gender recipients and owned ī/num/pause branches
+
+[Causal-agent feminine/neuter](research/panini_grammar/bheditavat_feminine_nip_and_neuter_pause/README.md) adds48 nominal keys/51 readings with independently supplied causer gender. Ṅīp ī differs from dual ending ī; later neuter num is single and distinct from nuṭ, while pause retains both t/d readings on three singular keys. Full PG14 carrier/pairing and typed zero recovery preserve these histories and old male homographs. Finite51,639; nominal3,199/3,753. Selected causal niṣṭhā144 keys/147 readings locally closed, wider gates Open; execution/untouched suites/replay deferred.

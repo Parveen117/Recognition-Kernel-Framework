@@ -1,6 +1,6 @@
-# Written-development backlog at PG374
+# Written-development backlog at PG375
 
-Monty · 20 November 2026 · reviewed parent `16d5a9de3f71c9e4162841d0893f1e2495ce7867`.
+Monty · 20 November 2026 · reviewed parent `7c6efa50052798b802e93551e49743edad83d255`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -45,6 +45,8 @@ PG372 constructs [causal-kta masculine bhedita](bhedita_causal_kta_and_it_before
 PG373 adds [causal-kta feminine/neuter](bhedita_feminine_tap_and_neuter_num/README.md), 48 nominal keys/readings. PG372–373 selected patient-gender panels total 72 keys/readings; ṭāp/num and old masculine/finite homographs keep distinct owners. Agentive ktavatu and broader senses/prefixes/nested/syntax/accent remain unconstructed. Fresh S1 lookup was inconclusive, no new source credit and no gap closure.
 
 PG374 supplies [causal-agent ktavatu masculine](bheditavat_causer_and_masculine_strength/README.md), 24 nominal keys/readings: outer causal kartṛ a rather than base causee b/patient c, with pre-num nominative length and distinct weak suffix-final d. Feminine/neuter ktavatu and broader C2–C5/S1–S7 remain Open; no source or finite credit.
+
+PG375 supplies [causal-agent feminine/neuter](bheditavat_feminine_nip_and_neuter_pause/README.md), 48 nominal keys/51 readings. PG372–375 selected causal patient/agent three-gender panels are locally CLOSED at144 keys/147 readings; feminine suffix ī versus neuter ending ī, num/nuṭ and pause alternatives retain owners. Earlier forward references to unconstructed causal ktavatu genders are now superseded on exactly this domain; other C2–C5/S1–S7 obligations remain Open, no finite/source credits.
 
 ## Source readings: remain Open until positive evidence
 
