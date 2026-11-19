@@ -2338,3 +2338,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG356 · Bhid passive present-system completion
 
 [PG356](bhid_passive_present_system_completion/README.md) adds 27 finite positions/readings in loṭ/laṅ/ordinary vidhiliṅ, giving 36 selected passive present-system keys including old laṭ. Root-side aṭ, ending āṭ and sīyuṭ/suṭ owners remain distinct on PG14’s full carrier with typed zero recovery. Cumulative finite 51,495, nominal 3,055/3,606. PG347–356 adds 36 finite and 138 nominal positions (141 nominal readings), plus separate source/syntax/nonfinite work. [Dated handoff](WORK_SESSION_2026_11_19.md); runtime/replay deferred.
+
+## PG357 · Bhid passive futures and lexical ciṇvat exclusion
+
+[PG357](bhid_passive_futures_and_cinvat_exclusion/README.md) adds 18 independently admitted passive lṛṭ/lṛṅ positions/readings, cumulative **51,513**. Kaumudī's vikaraṇa exception and 6.4.62's original-vowel/special-root guard prevent yak stacking and spurious iṭ; known actor-middle homographs retain distinct controller histories. Full PG14 carrier with typed zero recovery. Selected passive grid 54/90, nominal 3,055/3,606 unchanged. [New seven-hour pass](WORK_SESSION_2026_11_19.md#new-seven-hour-pass--pg357); runtime/replay deferred.

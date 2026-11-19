@@ -52,3 +52,19 @@ Claude. Written proofs, finite document checks, implementation and independent
 source/linguistic review must not be conflated. Fetch before any publication;
 preserve concurrent contributions and use only this review branch without
 force or main merge.
+
+## New seven-hour pass · PG357
+
+New owner authorization on 19 November: bounded seven-hour continuation.
+The completed PG347–356 results above remain the previous pass; do not add
+them to this new pass's gain. Existing finite task is rescheduled, not a new
+recurring daily task. Elapsed scheduled hours do not prove continuous work.
+
+- Publication parent `9f6000230409c9fcc64a9ffe7403738beaeb6826`.
+- [PG357](bhid_passive_futures_and_cinvat_exclusion/README.md): **18 new finite positions / 18 readings**, zero new nominal positions/readings or source observations. New-pass cumulative gain so far is exactly those 18/18.
+- Current total **51,513 finite**, **3,055 nominal / 3,606 readings**. Selected passive bhid grid **54/90**, comprising old 36 present-system keys and new 18 lṛṭ/lṛṅ keys.
+- Source decision: 3.1.33's explicit Kaumudī exception selects sya instead of stacking yak. Simple bhid's final d and the distinct nasalized teaching-marker i exclude 6.4.62's ciṇvat/iṭ edge; ordinary iṭ independently fails under 7.2.10. The eighteen old actor-middle word homographs retain different expressed-role/controller histories; no old position is recredited.
+- PG14 full operator/history carrier is reused and typed zero-specialization proved on the new finite relation, with Accepted/Open/Excluded cuts retained. This is written grammar, not executable validation.
+- Next actual frontier: independently source passive lit/luṭ/āśīrliṅ/luṅ (36 selected requests). Review original prose/factored coverage before credits; in particular luṅ 3sg actual ciṇ must not be copied from the actor-middle sic table. Preserve PG335 and all closed actor/present/niṣṭhā domains.
+- Earlier Bhaṭṭi locator, 82025/edition collation, typo transmission, Mādhavīya and Uṇādi source obligations above remain Open. There is no measured global backlog supporting a narrow whole-project completion ETA.
+- Necessary changed-document/source/count checks only with explicit Python 3.12 assertion; see this packet's actual result. Generators, grammar execution, old suites/navigation/engine checks and certificate replay remain deferred to Claude. Fetch before each publication; preserve concurrent changes; no force or main merge.

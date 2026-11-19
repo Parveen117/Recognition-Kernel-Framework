@@ -1,0 +1,352 @@
+{
+  "schema": "rkf.panini.pg357.state.v1",
+  "author": "Monty",
+  "date": "2026-11-19",
+  "publication_parent": "9f6000230409c9fcc64a9ffe7403738beaeb6826",
+  "baseline": {
+    "commit": "9f6000230409c9fcc64a9ffe7403738beaeb6826",
+    "path": "research/panini_grammar/bhid_passive_present_system_completion/STATE.json",
+    "finite_positions": 51495
+  },
+  "new_positions": 18,
+  "new_position_readings": 18,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "finite_positions": 51513,
+  "nominal_positions": 3055,
+  "nominal_readings": 3606,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrt",
+        "slot": "3sg",
+        "readings": [
+          "bhetsyate"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_anga": "bhet_root|sya",
+        "root_facing_affix": "sya: ardhadhatuka",
+        "it_augment": "absent: 7.2.10; 6.4.62 lexical guard false",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrt",
+        "slot": "3du",
+        "readings": [
+          "bhetsyete"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_anga": "bhet_root|sya",
+        "root_facing_affix": "sya: ardhadhatuka",
+        "it_augment": "absent: 7.2.10; 6.4.62 lexical guard false",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrt",
+        "slot": "3pl",
+        "readings": [
+          "bhetsyante"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_anga": "bhet_root|sya",
+        "root_facing_affix": "sya: ardhadhatuka",
+        "it_augment": "absent: 7.2.10; 6.4.62 lexical guard false",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrt",
+        "slot": "2sg",
+        "readings": [
+          "bhetsyase"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_anga": "bhet_root|sya",
+        "root_facing_affix": "sya: ardhadhatuka",
+        "it_augment": "absent: 7.2.10; 6.4.62 lexical guard false",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrt",
+        "slot": "2du",
+        "readings": [
+          "bhetsyethe"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_anga": "bhet_root|sya",
+        "root_facing_affix": "sya: ardhadhatuka",
+        "it_augment": "absent: 7.2.10; 6.4.62 lexical guard false",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrt",
+        "slot": "2pl",
+        "readings": [
+          "bhetsyadhve"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_anga": "bhet_root|sya",
+        "root_facing_affix": "sya: ardhadhatuka",
+        "it_augment": "absent: 7.2.10; 6.4.62 lexical guard false",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrt",
+        "slot": "1sg",
+        "readings": [
+          "bhetsye"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_anga": "bhet_root|sya",
+        "root_facing_affix": "sya: ardhadhatuka",
+        "it_augment": "absent: 7.2.10; 6.4.62 lexical guard false",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrt",
+        "slot": "1du",
+        "readings": [
+          "bhetsyāvahe"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_anga": "bhet_root|sya",
+        "root_facing_affix": "sya: ardhadhatuka",
+        "it_augment": "absent: 7.2.10; 6.4.62 lexical guard false",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrt",
+        "slot": "1pl",
+        "readings": [
+          "bhetsyāmahe"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_anga": "bhet_root|sya",
+        "root_facing_affix": "sya: ardhadhatuka",
+        "it_augment": "absent: 7.2.10; 6.4.62 lexical guard false",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrng",
+        "slot": "3sg",
+        "readings": [
+          "abhetsyata"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_anga": "bhet_root|sya",
+        "root_facing_affix": "sya: ardhadhatuka",
+        "it_augment": "absent: 7.2.10; 6.4.62 lexical guard false",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrng",
+        "slot": "3du",
+        "readings": [
+          "abhetsyetām"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_anga": "bhet_root|sya",
+        "root_facing_affix": "sya: ardhadhatuka",
+        "it_augment": "absent: 7.2.10; 6.4.62 lexical guard false",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrng",
+        "slot": "3pl",
+        "readings": [
+          "abhetsyanta"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_anga": "bhet_root|sya",
+        "root_facing_affix": "sya: ardhadhatuka",
+        "it_augment": "absent: 7.2.10; 6.4.62 lexical guard false",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrng",
+        "slot": "2sg",
+        "readings": [
+          "abhetsyathāḥ"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_anga": "bhet_root|sya",
+        "root_facing_affix": "sya: ardhadhatuka",
+        "it_augment": "absent: 7.2.10; 6.4.62 lexical guard false",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrng",
+        "slot": "2du",
+        "readings": [
+          "abhetsyethām"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_anga": "bhet_root|sya",
+        "root_facing_affix": "sya: ardhadhatuka",
+        "it_augment": "absent: 7.2.10; 6.4.62 lexical guard false",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrng",
+        "slot": "2pl",
+        "readings": [
+          "abhetsyadhvam"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_anga": "bhet_root|sya",
+        "root_facing_affix": "sya: ardhadhatuka",
+        "it_augment": "absent: 7.2.10; 6.4.62 lexical guard false",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrng",
+        "slot": "1sg",
+        "readings": [
+          "abhetsye"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_anga": "bhet_root|sya",
+        "root_facing_affix": "sya: ardhadhatuka",
+        "it_augment": "absent: 7.2.10; 6.4.62 lexical guard false",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrng",
+        "slot": "1du",
+        "readings": [
+          "abhetsyāvahi"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_anga": "bhet_root|sya",
+        "root_facing_affix": "sya: ardhadhatuka",
+        "it_augment": "absent: 7.2.10; 6.4.62 lexical guard false",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "profile": "BHID_VIDARANA_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "lrng",
+        "slot": "1pl",
+        "readings": [
+          "abhetsyāmahi"
+        ],
+        "agreement_controller": "expressed patient",
+        "owned_anga": "bhet_root|sya",
+        "root_facing_affix": "sya: ardhadhatuka",
+        "it_augment": "absent: 7.2.10; 6.4.62 lexical guard false",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 1
+      }
+    ]
+  },
+  "selected_passive_domain": {
+    "constructed_keys": 54,
+    "target_keys": 90,
+    "readings_on_constructed_keys": 54,
+    "old_present_keys_recredited": 0,
+    "remaining_lakaras": [
+      "lit",
+      "lut",
+      "asirling",
+      "lung"
+    ],
+    "remaining_requests": 36,
+    "path": "SELECTED_PASSIVE_GRID.tsv"
+  },
+  "bounded_pass": {
+    "authorization": "new seven-hour pass authorized 19 November 2026",
+    "baseline_commit": "9f6000230409c9fcc64a9ffe7403738beaeb6826",
+    "stages": "PG357",
+    "new_unique_finite_positions": 18,
+    "new_finite_readings": 18,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0,
+    "continuous_executed_hours_claimed": false,
+    "whole_project_completion_eta": "not established: no measured global backlog"
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Four selected outer passive panels remain: lit/lut/asirling/lung (36 requests), subject to source and prior-coverage review.",
+    "Bhatti quotation locator; 82025 alignment and edition collation; Kashika 3.2.111 transmission; Madhaviya differences; four Unadi fields and 5.56 marker effect.",
+    "Wider lexical/semantic/derived coverage, accent, arbitrary prose interpretation and native implementation."
+  ]
+}
