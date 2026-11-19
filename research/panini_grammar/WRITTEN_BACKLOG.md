@@ -1,6 +1,6 @@
-# Written-development backlog at PG371
+# Written-development backlog at PG372
 
-Monty · 20 November 2026 · reviewed parent `bcf94fdef0c25e1a765e41e9f2953eb1189094cb`.
+Monty · 20 November 2026 · reviewed parent `c311a15fab15e04f1e385f367a56d4e9bf9c43a8`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -39,6 +39,8 @@ Selected causal present+future+conditional after [PG366](bhid_causative_futures_
 | C5 · native written integration | Map owned sound records and rule-relative queries to PG14/operator category without losing histories; prove branch correspondence on each admitted adapter. | PG14 local algebraic zero recovery constructed; universal runtime map and new native relations not proved. Execution separately deferred. |
 
 PG371 constructs [two causal prior-action domains](bhid_causative_prior_action_and_causer_control/README.md): common causer rather than internal causee supplies control; seṭ ktvā retains ṇic, actual lyap licenses owned lopa. This is a concrete C2/C4 increment, two nonfinite units/readings and zero word-position/source credits. It does not close the wider C2/C4 rows or any S1–S7 textual gap.
+
+PG372 constructs [causal-kta masculine bhedita](bhedita_causal_kta_and_it_before_nic_lopa/README.md), 24 nominal keys/readings: source-timed outer iṭ precedes ṇic-lopa and survives it. This is a concrete C4 kṛt/nominal increment; feminine/neuter, agentive ktavatu, other senses/prefixes and wider kṛt/source packages stay Open. No finite-grid or source-observation recredit.
 
 ## Source readings: remain Open until positive evidence
 

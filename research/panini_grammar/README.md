@@ -2398,3 +2398,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG371 · Causal prior action and common-causer control
 
 [PG371](bhid_causative_prior_action_and_causer_control/README.md) derives **bhedayitvā / prabhedya**, two new nonfinite constructions/readings with zero finite/nominal/source/syntax additions. Seṭ ktvā is akit and retains ṇic→ay before outer i_val; actual y-initial lyap licenses only owned ṇic-i lopa, retaining causal e. Common actor is the causer of the earlier causal dhātvartha, not merely its internal causee. Full PG14 carrier/typed zero proof preserves event/control/query types. Totals unchanged at 51,639 finite; nominal 3,055/3,606. Closed grids untouched; real textual/wider gates and Claude-deferred execution remain separate.
+
+## PG372 · Causal kta and source-timed ṇic-lopa
+
+[PG372](bhedita_causal_kta_and_it_before_nic_lopa/README.md) adds **24 nominal positions / 24 readings** for masculine bhedita, cumulative nominal **3,079/3,630**. Finite unchanged **51,639**. 6.4.52 explicitly requires iṭ before ṇic-lopa; the surviving augment separates root d from kta-t, so simple bhinna's nn path does not apply. Past causal-patient meaning, vowel owners and masculine sup histories retained on PG14 with typed zero proof. No finite/source/syntax/nonfinite credit. Wider gender/formation/source/native gates Open; execution/generators/untouched suites/replay deferred.
