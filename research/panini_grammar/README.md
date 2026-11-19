@@ -2342,3 +2342,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG357 · Bhid passive futures and lexical ciṇvat exclusion
 
 [PG357](bhid_passive_futures_and_cinvat_exclusion/README.md) adds 18 independently admitted passive lṛṭ/lṛṅ positions/readings, cumulative **51,513**. Kaumudī's vikaraṇa exception and 6.4.62's original-vowel/special-root guard prevent yak stacking and spurious iṭ; known actor-middle homographs retain distinct controller histories. Full PG14 carrier with typed zero recovery. Selected passive grid 54/90, nominal 3,055/3,606 unchanged. [New seven-hour pass](WORK_SESSION_2026_11_19.md#new-seven-hour-pass--pg357); runtime/replay deferred.
+
+## PG358 · Bhid passive actual-ciṇ aorist
+
+[PG358](bhid_passive_aorist_actual_cin_and_sic/README.md) adds nine finite positions/readings, cumulative **51,522**. Actual ciṇ-i and following ta-luk give abhedi; the other eight patient-controlled requests retain actual sic and match old actor-middle spellings without recredit. Full PG14 carrier with typed zero recovery retains agreement after luk. Selected passive grid 63/90; nominal 3,055/3,606 unchanged. Runtime/replay deferred.

@@ -68,3 +68,12 @@ recurring daily task. Elapsed scheduled hours do not prove continuous work.
 - Next actual frontier: independently source passive lit/luṭ/āśīrliṅ/luṅ (36 selected requests). Review original prose/factored coverage before credits; in particular luṅ 3sg actual ciṇ must not be copied from the actor-middle sic table. Preserve PG335 and all closed actor/present/niṣṭhā domains.
 - Earlier Bhaṭṭi locator, 82025/edition collation, typo transmission, Mādhavīya and Uṇādi source obligations above remain Open. There is no measured global backlog supporting a narrow whole-project completion ETA.
 - Necessary changed-document/source/count checks only with explicit Python 3.12 assertion; see this packet's actual result. Generators, grammar execution, old suites/navigation/engine checks and certificate replay remain deferred to Claude. Fetch before each publication; preserve concurrent changes; no force or main merge.
+
+## PG358 · Passive aorist actual-ciṇ decision
+
+- Parent `dba7447bd846c054bb3d3d01b3eef1c4f9466143`; [packet](bhid_passive_aorist_actual_cin_and_sic/README.md). **9 new finite positions / 9 readings**, zero nominal/source additions. New seven-hour pass PG357–358 gain **27 finite / 27 readings**; nominal and source additions zero.
+- Cumulative **51,522 finite**, **3,055 nominal / 3,606 readings**. Selected bhid passive **63/90**, 27 requests remain in lit/luṭ/āśīrliṅ.
+- 3.1.66 prescribes actual ciṇ only at the ta-conditioned third singular. Root i→e guṇa and 6.4.104 following-ta luk give authored **abhedi**; final i is affix material, distinct from ending i of **abhitsi**. Optional ciṇvat and actor-middle **abhitta** do not substitute for this route. Eight other words reuse the matched local sic constructor after independent patient admission.
+- Full PG14 typed carrier/specialization retains original ta and patient agreement after surface luk. Prior actor quotations stay actor controls; no new literal passive attestation is claimed. PG335 correction and all predecessors remain frozen.
+- Necessary direct checks only, explicitly asserted Python 3.12; packet records the result. No grammar execution, generator, old suite/navigation/engine check or certificate replay. No continuous-hours claim.
+- Next: independent passive lit/luṭ/āśīrliṅ, reviewing original prose/factored registers before credits. Bhaṭṭi, 82025, typo transmission, Mādhavīya, Uṇādi and wider grammar obligations above remain Open. No measured whole-project ETA.
