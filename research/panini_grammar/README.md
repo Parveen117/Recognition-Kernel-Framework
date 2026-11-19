@@ -2382,3 +2382,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG367 · Causal luṭ and owned tās changes
 
 [PG367](bhid_causative_lut_and_owned_tas/README.md) adds **9 finite positions / 18 readings**, cumulative **51,612**; nominal **3,055/3,606** unchanged. O/C retains distinct augment/ṇic history, third-person ending ā versus suffix ā, and sourced s-lopa/s→h. Broad Kaumudī 2pl construction is selected; narrow full request stays Open. Full PG14 carrier/typed zero recovery preserved. [Backlog](WRITTEN_BACKLOG.md): three outer causal labels/27 candidate requests plus real textual/wider written gates remain. Execution/generators/untouched suites/replay deferred.
+
+## PG368 · Causal blessing and dependent dh choice
+
+[PG368](bhid_causative_blessing_and_dependent_dh/README.md) adds **9 finite positions / 19 readings**, cumulative **51,621**, nominal **3,055/3,606** unchanged. On O the pre-iṭ constituent ends in ṇic-owned y, licensing dh/ḍh at 2pl; C ṇic-lopa leaves root d and dental dh only. Source-qualified sīyuṭ, two s queries, patient roles and full PG14 typed zero recovery retained. [Backlog](WRITTEN_BACKLOG.md) leaves causal liṭ/luṅ 18 candidate requests plus genuine textual/wider gates Open. No grammar/generator execution or untouched suite/replay.

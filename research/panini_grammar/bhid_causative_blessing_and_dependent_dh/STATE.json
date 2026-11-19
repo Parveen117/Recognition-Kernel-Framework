@@ -1,0 +1,348 @@
+{
+  "schema": "rkf.panini.pg368.state.v1",
+  "author": "Monty",
+  "date": "2026-11-19",
+  "publication_parent": "fa4cd833a6caddb6f8010cc5c0391cee7bf59ead",
+  "baseline": {
+    "commit": "fa4cd833a6caddb6f8010cc5c0391cee7bf59ead",
+    "path": "research/panini_grammar/bhid_causative_lut_and_owned_tas/STATE.json",
+    "finite_positions": 51612
+  },
+  "new_positions": 9,
+  "new_position_readings": 19,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "new_syntactic_constructions": 0,
+  "new_nonfinite_constructions": 0,
+  "finite_positions": 51621,
+  "nominal_positions": 3055,
+  "nominal_readings": 3606,
+  "position_accounting": {
+    "forms": [
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "ashirling",
+        "slot": "3sg",
+        "readings": [
+          "bhedayiṣīṣṭa",
+          "bhediṣīṣṭa"
+        ],
+        "paths": [
+          {
+            "word": "bhedayiṣīṣṭa",
+            "branch": "O",
+            "augment": "i_val 7.2.35",
+            "pre_augment_constituent": "bheday, nic-owned y-final",
+            "dh_choice": "not a dh-option slot"
+          },
+          {
+            "word": "bhediṣīṣṭa",
+            "branch": "C",
+            "augment": "i_cv 6.4.62",
+            "pre_augment_constituent": "bhed_root, d-final",
+            "dh_choice": "not a dh-option slot"
+          }
+        ],
+        "patient_controller": "c",
+        "modal_guard": "supplied asis for not-yet-attained desired causal good; choose ling 3.3.173",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "ashirling",
+        "slot": "3du",
+        "readings": [
+          "bhedayiṣīyāstām",
+          "bhediṣīyāstām"
+        ],
+        "paths": [
+          {
+            "word": "bhedayiṣīyāstām",
+            "branch": "O",
+            "augment": "i_val 7.2.35",
+            "pre_augment_constituent": "bheday, nic-owned y-final",
+            "dh_choice": "not a dh-option slot"
+          },
+          {
+            "word": "bhediṣīyāstām",
+            "branch": "C",
+            "augment": "i_cv 6.4.62",
+            "pre_augment_constituent": "bhed_root, d-final",
+            "dh_choice": "not a dh-option slot"
+          }
+        ],
+        "patient_controller": "c",
+        "modal_guard": "supplied asis for not-yet-attained desired causal good; choose ling 3.3.173",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "ashirling",
+        "slot": "3pl",
+        "readings": [
+          "bhedayiṣīran",
+          "bhediṣīran"
+        ],
+        "paths": [
+          {
+            "word": "bhedayiṣīran",
+            "branch": "O",
+            "augment": "i_val 7.2.35",
+            "pre_augment_constituent": "bheday, nic-owned y-final",
+            "dh_choice": "not a dh-option slot"
+          },
+          {
+            "word": "bhediṣīran",
+            "branch": "C",
+            "augment": "i_cv 6.4.62",
+            "pre_augment_constituent": "bhed_root, d-final",
+            "dh_choice": "not a dh-option slot"
+          }
+        ],
+        "patient_controller": "c",
+        "modal_guard": "supplied asis for not-yet-attained desired causal good; choose ling 3.3.173",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "ashirling",
+        "slot": "2sg",
+        "readings": [
+          "bhedayiṣīṣṭhāḥ",
+          "bhediṣīṣṭhāḥ"
+        ],
+        "paths": [
+          {
+            "word": "bhedayiṣīṣṭhāḥ",
+            "branch": "O",
+            "augment": "i_val 7.2.35",
+            "pre_augment_constituent": "bheday, nic-owned y-final",
+            "dh_choice": "not a dh-option slot"
+          },
+          {
+            "word": "bhediṣīṣṭhāḥ",
+            "branch": "C",
+            "augment": "i_cv 6.4.62",
+            "pre_augment_constituent": "bhed_root, d-final",
+            "dh_choice": "not a dh-option slot"
+          }
+        ],
+        "patient_controller": "c",
+        "modal_guard": "supplied asis for not-yet-attained desired causal good; choose ling 3.3.173",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "ashirling",
+        "slot": "2du",
+        "readings": [
+          "bhedayiṣīyāsthām",
+          "bhediṣīyāsthām"
+        ],
+        "paths": [
+          {
+            "word": "bhedayiṣīyāsthām",
+            "branch": "O",
+            "augment": "i_val 7.2.35",
+            "pre_augment_constituent": "bheday, nic-owned y-final",
+            "dh_choice": "not a dh-option slot"
+          },
+          {
+            "word": "bhediṣīyāsthām",
+            "branch": "C",
+            "augment": "i_cv 6.4.62",
+            "pre_augment_constituent": "bhed_root, d-final",
+            "dh_choice": "not a dh-option slot"
+          }
+        ],
+        "patient_controller": "c",
+        "modal_guard": "supplied asis for not-yet-attained desired causal good; choose ling 3.3.173",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "ashirling",
+        "slot": "2pl",
+        "readings": [
+          "bhedayiṣīdhvam",
+          "bhedayiṣīḍhvam",
+          "bhediṣīdhvam"
+        ],
+        "paths": [
+          {
+            "word": "bhedayiṣīdhvam",
+            "branch": "O",
+            "augment": "i_val 7.2.35",
+            "pre_augment_constituent": "bheday, nic-owned y-final",
+            "dh_choice": "dental"
+          },
+          {
+            "word": "bhedayiṣīḍhvam",
+            "branch": "O",
+            "augment": "i_val 7.2.35",
+            "pre_augment_constituent": "bheday, nic-owned y-final",
+            "dh_choice": "retroflex"
+          },
+          {
+            "word": "bhediṣīdhvam",
+            "branch": "C",
+            "augment": "i_cv 6.4.62",
+            "pre_augment_constituent": "bhed_root, d-final",
+            "dh_choice": "dental only"
+          }
+        ],
+        "patient_controller": "c",
+        "modal_guard": "supplied asis for not-yet-attained desired causal good; choose ling 3.3.173",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 3
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "ashirling",
+        "slot": "1sg",
+        "readings": [
+          "bhedayiṣīya",
+          "bhediṣīya"
+        ],
+        "paths": [
+          {
+            "word": "bhedayiṣīya",
+            "branch": "O",
+            "augment": "i_val 7.2.35",
+            "pre_augment_constituent": "bheday, nic-owned y-final",
+            "dh_choice": "not a dh-option slot"
+          },
+          {
+            "word": "bhediṣīya",
+            "branch": "C",
+            "augment": "i_cv 6.4.62",
+            "pre_augment_constituent": "bhed_root, d-final",
+            "dh_choice": "not a dh-option slot"
+          }
+        ],
+        "patient_controller": "c",
+        "modal_guard": "supplied asis for not-yet-attained desired causal good; choose ling 3.3.173",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "ashirling",
+        "slot": "1du",
+        "readings": [
+          "bhedayiṣīvahi",
+          "bhediṣīvahi"
+        ],
+        "paths": [
+          {
+            "word": "bhedayiṣīvahi",
+            "branch": "O",
+            "augment": "i_val 7.2.35",
+            "pre_augment_constituent": "bheday, nic-owned y-final",
+            "dh_choice": "not a dh-option slot"
+          },
+          {
+            "word": "bhediṣīvahi",
+            "branch": "C",
+            "augment": "i_cv 6.4.62",
+            "pre_augment_constituent": "bhed_root, d-final",
+            "dh_choice": "not a dh-option slot"
+          }
+        ],
+        "patient_controller": "c",
+        "modal_guard": "supplied asis for not-yet-attained desired causal good; choose ling 3.3.173",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "profile": "BHID_VIDARANA_SINGLE_NIC_EXTERNAL_AGENT_KARMA_PASSIVE",
+        "root_address": "07.0002",
+        "lakara": "ashirling",
+        "slot": "1pl",
+        "readings": [
+          "bhedayiṣīmahi",
+          "bhediṣīmahi"
+        ],
+        "paths": [
+          {
+            "word": "bhedayiṣīmahi",
+            "branch": "O",
+            "augment": "i_val 7.2.35",
+            "pre_augment_constituent": "bheday, nic-owned y-final",
+            "dh_choice": "not a dh-option slot"
+          },
+          {
+            "word": "bhediṣīmahi",
+            "branch": "C",
+            "augment": "i_cv 6.4.62",
+            "pre_augment_constituent": "bhed_root, d-final",
+            "dh_choice": "not a dh-option slot"
+          }
+        ],
+        "patient_controller": "c",
+        "modal_guard": "supplied asis for not-yet-attained desired causal good; choose ling 3.3.173",
+        "evidence": "WRITTEN_COMPOSITION",
+        "position_credit": 1,
+        "reading_credit": 2
+      }
+    ]
+  },
+  "dependent_options": {
+    "ordinary_readings": 10,
+    "cinvat_readings": 9,
+    "extra_readings_only_at": "O 2pl",
+    "not_cartesian_product": true
+  },
+  "selected_causal_coverage": {
+    "positions": 72,
+    "readings": 109,
+    "remaining_candidate_lakaras": [
+      "lit",
+      "lung"
+    ],
+    "remaining_candidate_requests": 18
+  },
+  "authorization": {
+    "completion_status": "OPEN",
+    "previous_PG357_PG363": "CLOSED preserved",
+    "new_authorization_gain_positions": 72,
+    "new_authorization_gain_readings": 109,
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "18 candidate causal lit/lung requests need independent source/prior review.",
+    "Source obligations S1-S7, commentary policies and wider written gates remain Open; see ../WRITTEN_BACKLOG.md."
+  ]
+}
