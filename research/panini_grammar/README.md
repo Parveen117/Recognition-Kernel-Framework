@@ -2394,3 +2394,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG370 · Causal perfect and source-policy-qualified grid closure
 
 [PG370](bhid_causative_perfect_and_policy_correlated_grid/README.md) adds **9 finite positions / 49 readings**, retaining 65 paths. Primary bhedayām and A kṛ/bhū/as auxiliaries preserve event/controller; H/I/S as interpretations remain correlated across the paradigm, with strict S separately corroborated. Selected causal grid closes at **90 keys/176 readings**, withholding 81 old controls. Finite total **51,639**; nominal **3,055/3,606** unchanged. Full PG14 carrier/typed zero proof retained. [Backlog](WRITTEN_BACKLOG.md): advance real S1–S7 source obligations or C2–C5 unconstructed contracts, not another grid recount. Wider completion Open; execution/generators/untouched suites/replay deferred.
+
+## PG371 · Causal prior action and common-causer control
+
+[PG371](bhid_causative_prior_action_and_causer_control/README.md) derives **bhedayitvā / prabhedya**, two new nonfinite constructions/readings with zero finite/nominal/source/syntax additions. Seṭ ktvā is akit and retains ṇic→ay before outer i_val; actual y-initial lyap licenses only owned ṇic-i lopa, retaining causal e. Common actor is the causer of the earlier causal dhātvartha, not merely its internal causee. Full PG14 carrier/typed zero proof preserves event/control/query types. Totals unchanged at 51,639 finite; nominal 3,055/3,606. Closed grids untouched; real textual/wider gates and Claude-deferred execution remain separate.

@@ -1,0 +1,91 @@
+{
+  "frame": {
+    "base_event": "E, bhid splitting with base agent b and patient c",
+    "causal_event": "F, causer a causes E; one nic, distinct a/b/c",
+    "matrix_event": "G, supplied later going with actor a",
+    "order": "F precedes G, relative semantic evidence not an absolute past tense",
+    "root_address": "07.0002",
+    "register": "classical unaccented non-doubling",
+    "finite_pada": "none selected for nonfinite member"
+  },
+  "constructions": [
+    {
+      "id": "CAUSAL_BHID_KTVA",
+      "root": "1070002",
+      "sense": "vidarana, ordinary transitive splitting",
+      "formation": "single nic",
+      "preverbs": [],
+      "word": "bhedayitvā",
+      "controller": "causer a = matrix actor; causee b distinct",
+      "owned_boundary": "bhed_root|ay_nic|i_val|tva",
+      "kit_query": "set ktva is not kit, 1.2.18",
+      "evidence": "WRITTEN_COMPOSITION"
+    },
+    {
+      "id": "PRA_CAUSAL_BHID_LYAP",
+      "root": "1070002",
+      "sense": "vidarana, ordinary transitive splitting",
+      "formation": "single nic",
+      "preverbs": [
+        "pra"
+      ],
+      "word": "prabhedya",
+      "controller": "causer a = matrix actor; causee b distinct",
+      "owned_boundary": "pra|bhed_root|empty_nic|ya_lyap",
+      "kit_query": "inherited source-qualified lyap marker-property contract; actual y is not val",
+      "evidence": "WRITTEN_COMPOSITION"
+    }
+  ],
+  "diagnostics": [
+    {
+      "id": "D1",
+      "causer_equals_matrix": true,
+      "causee_equals_matrix": false,
+      "result": "Accepted"
+    },
+    {
+      "id": "D2",
+      "causer_equals_matrix": false,
+      "causee_equals_matrix": true,
+      "result": "Excluded local 3.4.21 edge"
+    },
+    {
+      "id": "D3",
+      "causer_equals_matrix": "unknown",
+      "result": "Open"
+    },
+    {
+      "id": "D4",
+      "order": "known simultaneous F/G",
+      "result": "Excluded ordinary prior-action edge; special exceptions not generalized"
+    }
+  ],
+  "examples": [
+    {
+      "word": "bhedayitvā",
+      "use": "śiṣyeṇa kāṣṭhaṃ bhedayitvā vrajati",
+      "evidence": "AUTHORED_USE_WITH_SUPPLIED_NOMINALS"
+    },
+    {
+      "word": "prabhedya",
+      "use": "śiṣyeṇa kāṣṭhaṃ prabhedya vrajati",
+      "evidence": "AUTHORED_USE_WITH_SUPPLIED_NOMINALS"
+    }
+  ],
+  "excluded": [
+    "base causee identity substituted for causal kartṛ identity",
+    "bare-root aniṭ suppresses derived causal i_val before ktva",
+    "set ktva treated as kit despite 1.2.18",
+    "ordinary nic-lopa before set ktva",
+    "old ktva t-initial val view copied into actual lyap boundary",
+    "later lyap kit globally undoes earlier causal root e",
+    "prefix substring alone triggers lyap without verbal/non-nan compound evidence",
+    "new finite/nominal or syntax credit for reused vrajati and supplied case words"
+  ],
+  "open": [
+    "unknown causation/common-causer/order evidence",
+    "unknown pra compound or source-view evidence",
+    "nested formations, other senses/prefixes and exceptional nonprior contexts",
+    "all S1-S7 textual obligations and wider C2-C5 written/native gates"
+  ]
+}

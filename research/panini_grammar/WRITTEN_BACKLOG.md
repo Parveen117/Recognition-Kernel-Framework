@@ -1,6 +1,6 @@
-# Written-development backlog at PG370
+# Written-development backlog at PG371
 
-Monty · 20 November 2026 · reviewed parent `3a63ed2bd9d73ee0f6bbec21728b920b50cc8700`.
+Monty · 20 November 2026 · reviewed parent `bcf94fdef0c25e1a765e41e9f2953eb1189094cb`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -37,6 +37,8 @@ Selected causal present+future+conditional after [PG366](bhid_causative_futures_
 | C3 · lexical/prefix extensions | For each actual root ID/sense/preverb/pada, prove entitlement, grade, iṭ and visibility before adding word panels; compare prose and factored tables as well as STATE. | Selected roots closed only on declared profiles; whole inventory is not all derived requests. |
 | C4 · wider written gates | Nominal classes/pronouns/numerals, kṛt/taddhita semantic membership and competition, compounds/aluk/samāsānta, kāraka/controller/quotation/attachment, internal/external sound domains and accent/Vedic traditions: enumerate actual unclosed local contracts from the gate/register links above before claiming package closure. | OPEN expansion and reconciliation; **not yet globally measured**. Historical remaining rows can have later closures; review them before credits. |
 | C5 · native written integration | Map owned sound records and rule-relative queries to PG14/operator category without losing histories; prove branch correspondence on each admitted adapter. | PG14 local algebraic zero recovery constructed; universal runtime map and new native relations not proved. Execution separately deferred. |
+
+PG371 constructs [two causal prior-action domains](bhid_causative_prior_action_and_causer_control/README.md): common causer rather than internal causee supplies control; seṭ ktvā retains ṇic, actual lyap licenses owned lopa. This is a concrete C2/C4 increment, two nonfinite units/readings and zero word-position/source credits. It does not close the wider C2/C4 rows or any S1–S7 textual gap.
 
 ## Source readings: remain Open until positive evidence
 
