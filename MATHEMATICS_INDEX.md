@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 19 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG369 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG370 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG369 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG370 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4622,3 +4622,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG369 · Ta-addressed ciṇ, kartari caṅ guard and causal sic histories
 
 [Causal aorist](research/panini_grammar/bhid_causative_aorist_actual_cin_and_sic/README.md) supplies nine new keys/eighteen readings, preserving actual-ciṇ versus ciṇvat types, ṇic-lopa versus ending-luk owners, patient agreement and sic-2pl dependence. Caṅ's kartari premise fails the passive frame. Full PG14 history/module/pairing and typed zero proof recover the same labelled branches; same-surface abhedi does not identify causal and simple events. Finite 51,630; nominal 3,055/3,606. Causal liṭ/source/wider gates remain Open; runtime and untouched suites/replay deferred.
+
+## PG370 · Auxiliary recipient change and correlated source-policy specialization
+
+[Causal perfect](research/panini_grammar/bhid_causative_perfect_and_policy_correlated_grid/README.md) constructs nine keys/49 source-qualified readings/65 paths from primary ām, owned ṇic→ay, primary liṭ-luk and separate A auxiliary liṭ. Full PG14 carrier retains event/controller and a paradigm-scoped as policy; typed zero recovery preserves three allowed singular pairs without introducing the independent fourth pair. Selected causal grid 90 keys/176 readings; 81 old controls withheld. Finite total 51,639; nominal 3,055/3,606. Genuine source/wider written gates remain Open; execution and untouched suites/replay deferred.

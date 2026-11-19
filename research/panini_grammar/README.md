@@ -2390,3 +2390,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG369 · Causal passive aorist and actual affix types
 
 [PG369](bhid_causative_aorist_actual_cin_and_sic/README.md) adds **9 finite positions / 18 readings**, cumulative **51,630**, nominal **3,055/3,606** unchanged. Actual ciṇ at original 3sg ta has owned ṇic-lopa and following ending-luk; other eight slots retain sic O/C and dependent dh choice. Causative caṅ requires kartari, so cannot replace this passive constructor. Old simple-passive abhedi keeps its separate history. Full PG14 carrier/typed zero recovery preserved. [Backlog](WRITTEN_BACKLOG.md): causal liṭ nine candidate requests plus textual/wider written gates Open. Execution/generators/untouched suites/replay deferred.
+
+## PG370 · Causal perfect and source-policy-qualified grid closure
+
+[PG370](bhid_causative_perfect_and_policy_correlated_grid/README.md) adds **9 finite positions / 49 readings**, retaining 65 paths. Primary bhedayām and A kṛ/bhū/as auxiliaries preserve event/controller; H/I/S as interpretations remain correlated across the paradigm, with strict S separately corroborated. Selected causal grid closes at **90 keys/176 readings**, withholding 81 old controls. Finite total **51,639**; nominal **3,055/3,606** unchanged. Full PG14 carrier/typed zero proof retained. [Backlog](WRITTEN_BACKLOG.md): advance real S1–S7 source obligations or C2–C5 unconstructed contracts, not another grid recount. Wider completion Open; execution/generators/untouched suites/replay deferred.

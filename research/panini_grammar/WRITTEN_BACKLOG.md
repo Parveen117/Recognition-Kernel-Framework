@@ -1,6 +1,6 @@
-# Written-development backlog at PG369
+# Written-development backlog at PG370
 
-Monty · 19 November 2026 · reviewed parent `56d03bd2a2dc26ef1d05e34f438265667baac7de`.
+Monty · 20 November 2026 · reviewed parent `3a63ed2bd9d73ee0f6bbec21728b920b50cc8700`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -32,7 +32,7 @@ Selected causal present+future+conditional after [PG366](bhid_causative_futures_
 
 | Queue | Concrete next evidence/construction | Status/denominator |
 | --- | --- | --- |
-| C1 · causal bhid outer system | [PG369](bhid_causative_aorist_actual_cin_and_sic/README.md) adds passive luṅ: actual ciṇ at original ta, sic O/C elsewhere, no kartari caṅ. Selected causal coverage 81 keys/127 readings. Review liṭ auxiliary kṛ/bhū/as, primary ām/luk, independent parokṣa and paradigm-scoped H/I/S policy next. | UNCONSTRUCTED: liṭ × nine patient slots = **9 candidate requests**. Only positively derived luṅ removes nine of the previous 18 candidates. |
+| C1 · selected causal bhid grid | [PG370](bhid_causative_perfect_and_policy_correlated_grid/README.md) closes liṭ with 49 source-qualified readings/65 retained paths. Exact [90-key ledger](bhid_causative_perfect_and_policy_correlated_grid/SELECTED_GRID.tsv) retains old ownership and zero old credits. | CLOSED on declared source-policy family: **90 keys/176 readings**, no remaining C1 candidates. This does not close C2–C5 or S1–S7; do not start another recount packet. |
 | C2 · derived roles and formations | Review inanimate/unspecified base-agent frames, other causee classes, doubled karman selection, san/yaṅ and nested ṇic with typed event ownership. | UNCONSTRUCTED beyond named packet domains; lexical/sense/formation inventory unmeasured. |
 | C3 · lexical/prefix extensions | For each actual root ID/sense/preverb/pada, prove entitlement, grade, iṭ and visibility before adding word panels; compare prose and factored tables as well as STATE. | Selected roots closed only on declared profiles; whole inventory is not all derived requests. |
 | C4 · wider written gates | Nominal classes/pronouns/numerals, kṛt/taddhita semantic membership and competition, compounds/aluk/samāsānta, kāraka/controller/quotation/attachment, internal/external sound domains and accent/Vedic traditions: enumerate actual unclosed local contracts from the gate/register links above before claiming package closure. | OPEN expansion and reconciliation; **not yet globally measured**. Historical remaining rows can have later closures; review them before credits. |
@@ -59,8 +59,8 @@ integration and independent validation need their own admitted scope. The
 current run performs only necessary changed-document/source/count checks under
 an explicit Python 3.12 assertion. No automation or continuous-hours claim.
 
-Project written completion remains **OPEN**, with C1 a concrete next local
-construction and S1–S7 genuine evidence/reconciliation tasks. This queue itself
+Project written completion remains **OPEN**, with C1 locally closed and C2–C5 requiring actual unconstructed
+contracts, alongside S1–S7 genuine evidence/reconciliation tasks. This queue itself
 is not a completion certificate or a measured all-Sanskrit ETA. Keep actual
 source gaps Open; stop only on honest declared closure or a real blocker
 requiring evidence/access/decision, not because an arbitrary table counter fills.
