@@ -2402,3 +2402,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG372 · Causal kta and source-timed ṇic-lopa
 
 [PG372](bhedita_causal_kta_and_it_before_nic_lopa/README.md) adds **24 nominal positions / 24 readings** for masculine bhedita, cumulative nominal **3,079/3,630**. Finite unchanged **51,639**. 6.4.52 explicitly requires iṭ before ṇic-lopa; the surviving augment separates root d from kta-t, so simple bhinna's nn path does not apply. Past causal-patient meaning, vowel owners and masculine sup histories retained on PG14 with typed zero proof. No finite/source/syntax/nonfinite credit. Wider gender/formation/source/native gates Open; execution/generators/untouched suites/replay deferred.
+
+## PG373 · Causal-kta gender suffix and plural-augment owners
+
+[PG373](bhedita_feminine_tap_and_neuter_num/README.md) adds **48 nominal keys/readings**, 24 feminine/24 neuter, cumulative **3,127/3,678**; finite unchanged **51,639**. Ṭāp ā and neuter num n have actual owners, genitive nuṭ is separate, and gender is supplied evidence. Old masculine/finite homographs receive no recredit. Full PG14 carrier/typed zero proof supplied. Bhaṭṭi exact locator remains Open after inconclusive lookup, source credits zero. Wider written gates and execution remain Open/deferred.
