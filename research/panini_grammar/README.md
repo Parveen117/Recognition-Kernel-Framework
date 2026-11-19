@@ -2358,3 +2358,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG361 · Located pronominal mā subcommentary witness
 
 [PG361](bhatti_ma_pronoun_and_lavanya_witness/README.md) adds one source observation and three analysis records, zero finite/nominal positions or readings. Printed Siddhahema subcommentary pp. 244–245 expands mā as māṃ with Daśaratha/citizens; this does not satisfy PG331's positive māṅ guard. Actual Bhaṭṭi locus/authorial reading stays Open. Full PG14 source-history carrier and typed zero recovery preserve the distinct channels. Totals 51,549 finite; nominal 3,055/3,606. Runtime/replay deferred.
+
+## PG362 · Pronominal case/clitic binding with two supplied predicates
+
+[PG362](ma_clitic_case_binding_and_two_ellipsis_frames/README.md) adds two syntactic constructions/four selected readouts, zero finite/nominal/source/nonfinite additions. First-person object, plural second-person matrix controller, clitic placement/restrictions and reported first-mention optionality stay distinct on the full PG14 carrier with typed zero recovery. Analytical loṭ is supplied; actual poem mood/locus remains Open. Totals 51,549 finite; nominal 3,055/3,606. Execution/generators/replay deferred.

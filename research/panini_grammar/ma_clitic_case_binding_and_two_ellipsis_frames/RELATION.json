@@ -1,0 +1,101 @@
+{
+  "frames": [
+    {
+      "id": "PRONOMINAL_PRAPYA_ANALYTICAL",
+      "matrix": {
+        "root": "han 02.0002",
+        "prefixes": [
+          "ā"
+        ],
+        "voice": "actor",
+        "pada": "A under independently supplied akarmaka 1.3.28",
+        "lakara": "lot supplied prarthana",
+        "actor": "addressed plural citizens",
+        "word": "āhadhvam",
+        "old_owner": "PG328"
+      },
+      "dependent": {
+        "predicate": "PRAPYA",
+        "word": "prāpya",
+        "status": "supplied ellipsis, not newly printed poem text",
+        "actor": "same plural citizens",
+        "target": "speaker Dasaratha",
+        "relation": "attainment before matrix action; 3.4.21 supplied common-actor/prior premise"
+      },
+      "object": {
+        "identity": "asmad acc.sg co-referent with raghuttamam",
+        "governor": "PRAPYA",
+        "not_matrix_karman": true
+      },
+      "readouts": [
+        "āhadhvaṃ mā raghūttamam [prāpya]",
+        "āhadhvaṃ māṃ raghūttamam [prāpya]"
+      ]
+    },
+    {
+      "id": "PRONOMINAL_BHETTUM_ANALYTICAL",
+      "matrix": {
+        "root": "han 02.0002",
+        "prefixes": [
+          "ā"
+        ],
+        "voice": "actor",
+        "pada": "A under independently supplied akarmaka 1.3.28",
+        "lakara": "lot supplied prarthana",
+        "actor": "addressed plural citizens",
+        "word": "āhadhvam",
+        "old_owner": "PG328"
+      },
+      "dependent": {
+        "predicate": "BHID_PURPOSE",
+        "word": "bhettum",
+        "status": "supplied ellipsis; existing PG333 word",
+        "actor": "same plural citizens",
+        "target": "speaker Dasaratha",
+        "relation": "intended prospective breaking; no realized-breaking assertion"
+      },
+      "object": {
+        "identity": "asmad acc.sg co-referent with raghuttamam",
+        "governor": "BHID_PURPOSE",
+        "not_matrix_karman": true
+      },
+      "readouts": [
+        "āhadhvaṃ mā raghūttamam [bhettum]",
+        "āhadhvaṃ māṃ raghūttamam [bhettum]"
+      ]
+    }
+  ],
+  "common_guard": {
+    "pronoun": "asmad, accusative singular; positively selected, not mang",
+    "case": "unexpressed dependent karman under 2.3.1/2, epithet coreference supplied",
+    "discourse": "ananvadesha supplied, reported all-vannavadi optional policy selected",
+    "clitic_position": "after preceding matrix verbal pada in same sentence; not rkpada/slokapada initial",
+    "direct_particle_yoga": "none of ca/va/ha/aha/eva",
+    "epistemic_seeing_yoga": "none: attaining/striking/breaking selected, not knowledge/seeing predicates",
+    "preceding_nominative_sapurva": "absent: actual preceding word is verbal",
+    "matrix": "prarthana lot explicitly supplied for new analytical examples only"
+  },
+  "credits": {
+    "new_syntactic_constructions": 2,
+    "new_syntactic_readings": 4,
+    "new_positions": 0,
+    "new_position_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_nonfinite_constructions": 0,
+    "new_source_observations": 0
+  },
+  "excluded": [
+    "surface ma alone treated as mang",
+    "first-person object controls plural second-person matrix ending",
+    "clitic forced at pada beginning or direct ca etc association",
+    "raw graph reassignment without positive matrix akarmaka witness",
+    "abhihita patient finite route substituted for these kartari frames"
+  ],
+  "open": [
+    "poem actual lakara/locus/authorial context",
+    "unknown accent/position/discourse/predicate or role evidence",
+    "other discourse policies and semantic contexts",
+    "independent edition alignment/Unadi/Madhaviya and runtime integration"
+  ]
+}

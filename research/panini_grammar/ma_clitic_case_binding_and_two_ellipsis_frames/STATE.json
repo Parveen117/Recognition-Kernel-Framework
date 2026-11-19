@@ -1,0 +1,51 @@
+{
+  "schema": "rkf.panini.pg362.state.v1",
+  "author": "Monty",
+  "date": "2026-11-19",
+  "publication_parent": "3f37a8d2031dc0d3660bc9a86d92771d9a2e763a",
+  "baseline": {
+    "commit": "3f37a8d2031dc0d3660bc9a86d92771d9a2e763a",
+    "path": "research/panini_grammar/bhatti_ma_pronoun_and_lavanya_witness/STATE.json",
+    "finite_positions": 51549
+  },
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "new_syntactic_constructions": 2,
+  "new_syntactic_readings": 4,
+  "new_nonfinite_constructions": 0,
+  "finite_positions": 51549,
+  "nominal_positions": 3055,
+  "nominal_readings": 3606,
+  "position_accounting": {
+    "forms": []
+  },
+  "bounded_pass": {
+    "stages": "PG357-PG362",
+    "new_unique_finite_positions": 54,
+    "new_finite_readings": 54,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 1,
+    "new_syntactic_constructions": 2,
+    "new_syntactic_readings": 4,
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Actual Bhatti poem locus/lakara/authorial context remain Open; analytical lot is positively supplied, not inferred.",
+    "Other discourse/clitic/accent/semantic readings and independent edition/textual obligations.",
+    "Wider grammar, generators, execution and native/runtime implementation."
+  ]
+}
