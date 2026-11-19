@@ -2414,3 +2414,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG375 · Causal-agent feminine ī, neuter endings and pause
 
 [PG375](bheditavat_feminine_nip_and_neuter_pause/README.md) adds **48 nominal positions / 51 readings**, cumulative **3,199/3,753**, finite unchanged **51,639**. Supplied causer agreement derives feminine ṅīp ī separately from neuter dual śī; neuter plural bheditavanti has one num, singular bheditavad/bheditavat both pause readings. Selected causal niṣṭhā now144 keys/147 readings; old masculine homographs receive zero new credit. PG14 full typed zero proof supplied; wider written/source gates Open, execution/generators/untouched suites/replay deferred.
+
+## PG376 · A named alternative for the old tiraskṛtvā gap
+
+[PG376](tiras_non_gati_s_and_reported_madhava_policy/README.md) adds **one source-policy observation**, zero position/readings or other construction credits. Bāla explicitly reports unnamed scholars omitting tiras-s gati anuvṛtti; Tattva gives a related Mādhava-attributed view. Non-gati ktvā+s is now constructible on that named policy without creating gati/lyap; the K default remains unchanged. Kāśikā authorial/transmission reconciliation, original Mādhava and exact damaged report collation stay Open. Totals51,639 finite; nominal3,199/3,753. Full PG14 typed zero recovery; execution/untouched suites/replay deferred.

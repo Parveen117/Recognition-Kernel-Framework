@@ -1,0 +1,150 @@
+{
+  "frame": {
+    "root_id": "1080010",
+    "root_address": "08.0010",
+    "root_upadesha": "dukrn",
+    "sense": "karane, tiras in supplied antardhi/concealment relation",
+    "particle": "tiras",
+    "other_preverbs": [],
+    "formation": "simple kr plus ktva, with admitted gati compound choosing lyap; no nic/san/yang",
+    "prior_action": "supplied same actor of concealment E and matrix F; E precedes F",
+    "finite_pada": "none; no finite request or new nominal paradigm",
+    "register": "selected unaccented orthographic display; full recitation allophones not constructed"
+  },
+  "policy_guards": {
+    "K_GATI": "positive tiras visarga, following ku/pu and selected gati required",
+    "R_NOGATI_S": "positive tiras visarga and following ku/pu; gati not required for this sound consumer only",
+    "syntax": "same 1.4.72 optional-gati and 2.2.18/7.1.37 dependent syntax in both"
+  },
+  "rows": [
+    {
+      "policy": "K_GATI",
+      "gati": true,
+      "compound": true,
+      "affix": "lyap",
+      "sound": "s",
+      "word": "tiraskṛtya",
+      "status": "Accepted",
+      "reason": "old PG42 gati compound/s branch"
+    },
+    {
+      "policy": "K_GATI",
+      "gati": true,
+      "compound": true,
+      "affix": "lyap",
+      "sound": "H",
+      "word": "tiraḥkṛtya",
+      "status": "Accepted",
+      "reason": "old PG42 gati compound/visarga branch"
+    },
+    {
+      "policy": "K_GATI",
+      "gati": false,
+      "compound": false,
+      "affix": "ktva",
+      "sound": "H",
+      "word": "tiraḥ kṛtvā",
+      "status": "Accepted",
+      "reason": "old PG42 phrase retains visarga"
+    },
+    {
+      "policy": "K_GATI",
+      "gati": false,
+      "compound": false,
+      "affix": "ktva",
+      "sound": "s",
+      "word": "tiraskṛtvā",
+      "status": "Excluded",
+      "reason": "explicit gati condition false for this sound edge; raw Kashi display remains Open"
+    },
+    {
+      "policy": "R_NOGATI_S",
+      "gati": true,
+      "compound": true,
+      "affix": "lyap",
+      "sound": "s",
+      "word": "tiraskṛtya",
+      "status": "Accepted",
+      "reason": "gati syntax unchanged; reported sound policy allows s"
+    },
+    {
+      "policy": "R_NOGATI_S",
+      "gati": true,
+      "compound": true,
+      "affix": "lyap",
+      "sound": "H",
+      "word": "tiraḥkṛtya",
+      "status": "Accepted",
+      "reason": "gati syntax unchanged; optional visarga retained"
+    },
+    {
+      "policy": "R_NOGATI_S",
+      "gati": false,
+      "compound": false,
+      "affix": "ktva",
+      "sound": "H",
+      "word": "tiraḥ kṛtvā",
+      "status": "Accepted",
+      "reason": "phrase syntax unchanged; visarga retained"
+    },
+    {
+      "policy": "R_NOGATI_S",
+      "gati": false,
+      "compound": false,
+      "affix": "ktva",
+      "sound": "s",
+      "word": "tiraskṛtvā",
+      "status": "Accepted",
+      "reason": "reported sound policy omits gati guard only"
+    },
+    {
+      "policy": "UNKNOWN",
+      "gati": false,
+      "compound": false,
+      "affix": "ktva",
+      "sound": "s",
+      "word": "tiraskṛtvā",
+      "status": "Open",
+      "reason": "choose source policy before admitting s; no unconditional optionality"
+    },
+    {
+      "policy": "EITHER",
+      "gati": false,
+      "compound": false,
+      "affix": "lyap",
+      "sound": "s",
+      "word": "tiraskṛtya",
+      "status": "Excluded",
+      "reason": "sound policy cannot create gati compound/lyap entitlement"
+    },
+    {
+      "policy": "EITHER",
+      "gati": true,
+      "compound": true,
+      "affix": "ktva",
+      "sound": "s",
+      "word": "tiraskṛtvā",
+      "status": "Excluded",
+      "reason": "actual selected ordinary non-nanj gati compound requires lyap"
+    }
+  ],
+  "accepted": [
+    "reported M source policy constructs non-gati ktva plus s without granting gati or lyap",
+    "K default three dependent PG42 branches remain unchanged",
+    "raw Kashi tiraskrtva display retained with unresolved authorial policy"
+  ],
+  "open": [
+    "Kashi 1.4.72 versus its own 8.3.42 authorial/transmission reconciliation",
+    "independent Madhava original passage/edition and exact damage collation",
+    "unknown selected policy when non-gati s is requested",
+    "missing concealment/common-actor/prior-action or compound evidence",
+    "other S1-S7 readings and wider C2-C5 grammar/native gates"
+  ],
+  "excluded": [
+    "known non-gati s edge under K_GATI only",
+    "M sound-policy choice silently creates gati compound or lyap",
+    "free Cartesian product of gati/ktva/lyap/s branches",
+    "different kr root 05.0007 himsayam or unproved sense/prefix substituted",
+    "old displayed words recredited as new positions/reading units"
+  ]
+}

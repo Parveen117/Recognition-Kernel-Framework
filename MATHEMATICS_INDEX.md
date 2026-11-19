@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG375 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG376 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG375 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG376 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4646,3 +4646,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG375 · Typed gender recipients and owned ī/num/pause branches
 
 [Causal-agent feminine/neuter](research/panini_grammar/bheditavat_feminine_nip_and_neuter_pause/README.md) adds48 nominal keys/51 readings with independently supplied causer gender. Ṅīp ī differs from dual ending ī; later neuter num is single and distinct from nuṭ, while pause retains both t/d readings on three singular keys. Full PG14 carrier/pairing and typed zero recovery preserve these histories and old male homographs. Finite51,639; nominal3,199/3,753. Selected causal niṣṭhā144 keys/147 readings locally closed, wider gates Open; execution/untouched suites/replay deferred.
+
+## PG376 · Policy-relative sound queries without compound-entitlement transfer
+
+[Tiras reported-policy relation](research/panini_grammar/tiras_non_gati_s_and_reported_madhava_policy/README.md) locates Bāla’s explicit unnamed alternative and a related Tattva Mādhava-attributed report of one sound policy and constructs non-gati ktvā+s while preserving the different K default and source/compound guards. Full PG14 operator/history carrier and typed zero-specialization retain policy-dependent Accepted/Open/Excluded; printed-word fusion cannot license lyap. No new word-position/readings; totals51,639 finite, nominal3,199/3,753. Original K/Mādhava textual questions and wider gates Open; execution/untouched suites/replay deferred.

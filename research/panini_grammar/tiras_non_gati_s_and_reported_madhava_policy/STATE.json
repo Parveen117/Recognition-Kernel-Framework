@@ -1,0 +1,54 @@
+{
+  "schema": "rkf.panini.pg376.state.v1",
+  "author": "Monty",
+  "date": "2026-11-20",
+  "publication_parent": "eece4620fb9481dc369a8598d4da396900d10653",
+  "baseline": {
+    "commit": "eece4620fb9481dc369a8598d4da396900d10653",
+    "path": "research/panini_grammar/bheditavat_feminine_nip_and_neuter_pause/STATE.json"
+  },
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 1,
+  "new_syntactic_constructions": 0,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "finite_positions": 51639,
+  "nominal_positions": 3199,
+  "nominal_readings": 3753,
+  "source_accounting": [
+    {
+      "unit": "ONE_REPORTED_SOUND_POLICY",
+      "witnesses": [
+        "Balam 14071, embedded 1.4.72 discussion",
+        "Tattva 14072"
+      ],
+      "decision": "Balam explicitly reports some omitting gati from tiras s; Tattva has a related Madhava-attributed report. Source-qualified non-gati tiraskrtva now constructible.",
+      "independence": "distinct reports in one digital source collection; Balam does not name Madhava, no identity/genealogy or original-Madhava confirmation inferred",
+      "position_credit": 0,
+      "word_reading_credit": 0,
+      "source_observation_credit": 1
+    }
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Kashi original intended policy and independent Madhava/source-damage collation remain Open, not excluded.",
+    "Other S7 loci and S1-S6/C2-C5 remain separately auditable obligations."
+  ]
+}

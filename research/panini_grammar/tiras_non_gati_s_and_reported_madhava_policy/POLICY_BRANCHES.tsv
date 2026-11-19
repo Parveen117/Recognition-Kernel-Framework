@@ -1,0 +1,12 @@
+policy	gati	compound	affix	sound	word	status	reason
+K_GATI	True	True	lyap	s	tiraskṛtya	Accepted	old PG42 gati compound/s branch
+K_GATI	True	True	lyap	H	tiraḥkṛtya	Accepted	old PG42 gati compound/visarga branch
+K_GATI	False	False	ktva	H	tiraḥ kṛtvā	Accepted	old PG42 phrase retains visarga
+K_GATI	False	False	ktva	s	tiraskṛtvā	Excluded	explicit gati condition false for this sound edge; raw Kashi display remains Open
+R_NOGATI_S	True	True	lyap	s	tiraskṛtya	Accepted	gati syntax unchanged; reported sound policy allows s
+R_NOGATI_S	True	True	lyap	H	tiraḥkṛtya	Accepted	gati syntax unchanged; optional visarga retained
+R_NOGATI_S	False	False	ktva	H	tiraḥ kṛtvā	Accepted	phrase syntax unchanged; visarga retained
+R_NOGATI_S	False	False	ktva	s	tiraskṛtvā	Accepted	reported sound policy omits gati guard only
+UNKNOWN	False	False	ktva	s	tiraskṛtvā	Open	choose source policy before admitting s; no unconditional optionality
+EITHER	False	False	lyap	s	tiraskṛtya	Excluded	sound policy cannot create gati compound/lyap entitlement
+EITHER	True	True	ktva	s	tiraskṛtvā	Excluded	actual selected ordinary non-nanj gati compound requires lyap
