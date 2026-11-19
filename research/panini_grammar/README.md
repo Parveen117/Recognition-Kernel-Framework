@@ -2350,3 +2350,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG359 · Passive perfect and independent parokṣa evidence
 
 [PG359](bhid_passive_perfect_and_paroksa_guard/README.md) adds nine finite requests/readings, cumulative **51,531**. Patient agreement and parokṣa evidence remain independent; exclusively ārdhadhātuka liṭ excludes present yak, with copy/root/ending/iṭ ownership retained on the full PG14 carrier and typed zero recovery. Nine keys share eight strings; old actor spellings are controls, not old passive credits. Selected passive 72/90; nominal 3,055/3,606 unchanged. Runtime/replay deferred.
+
+## PG360 · Passive luṭ/blessing and selected grid closure
+
+[PG360](bhid_passive_lut_blessing_and_selected_grid/README.md) adds 18 finite positions/readings, cumulative **51,549**. Named broad luṭ tās-s lopa, competing narrow-policy Open, and separate blessing sīyuṭ/suṭ histories remain on the full PG14 carrier with typed zero recovery. Selected simple external-agent passive is 90/90 keys/90 readings; all 72 predecessors get zero new credit. Nominal 3,055/3,606 unchanged. Wider source/grammar obligations and runtime/replay remain Open/deferred.

@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 19 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG359 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 19 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG360 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG359 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG360 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4582,3 +4582,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG359 · Independent epistemic cuts and passive perfect histories
 
 [Passive perfect](research/panini_grammar/bhid_passive_perfect_and_paroksa_guard/README.md) constructs nine patient-agreement requests under independently supplied source-qualified parokṣa. Exclusive ārdhadhātuka designation, apit-liṭ kit and origin-sensitive iṭ/dh queries retain full PG14 history and typed zero-specialization. Two bibhide slots remain distinct histories. Cumulative finite 51,531; nominal 3,055/3,606. Direct document/source checks only; runtime, untouched suites and replay deferred.
+
+## PG360 · Policy-labelled outer-passive composition and selected closure
+
+[Passive luṭ/blessing](research/panini_grammar/bhid_passive_lut_blessing_and_selected_grid/README.md) adds 18 patient-controlled requests with named broad tās-s lopa and separate internal/root-facing blessing s queries. Full PG14 history retains competing narrow-policy Open and typed zero-specialization without inferring policy from surface. Selected passive 90 keys/90 readings; cumulative finite 51,549, nominal 3,055/3,606. Complete Sanskrit and universal commentary agreement remain unclaimed; runtime, old suites and replay deferred.
