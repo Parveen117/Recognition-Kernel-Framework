@@ -2406,3 +2406,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG373 · Causal-kta gender suffix and plural-augment owners
 
 [PG373](bhedita_feminine_tap_and_neuter_num/README.md) adds **48 nominal keys/readings**, 24 feminine/24 neuter, cumulative **3,127/3,678**; finite unchanged **51,639**. Ṭāp ā and neuter num n have actual owners, genitive nuṭ is separate, and gender is supplied evidence. Old masculine/finite homographs receive no recredit. Full PG14 carrier/typed zero proof supplied. Bhaṭṭi exact locator remains Open after inconclusive lookup, source credits zero. Wider written gates and execution remain Open/deferred.
+
+## PG374 · Causal-agent ktavatu and masculine strength
+
+[PG374](bheditavat_causer_and_masculine_strength/README.md) adds **24 nominal keys/readings**, cumulative **3,151/3,702**; finite unchanged **51,639**. Bheditavat selects causal kartṛ a, not patient c or inner causee b. Source-timed niṣṭhā lopa, retained ugit, nominative length before num and weak suffix-final t/d have explicit owners. Full PG14 typed zero proof supplied. Other genders/formation/source/native gates Open; execution/generators/untouched suites/replay deferred.

@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG373 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG374 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG373 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG374 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4638,3 +4638,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG373 · Gender evidence, feminine ā and neuter num specialization
 
 [Causal-kta genders](research/panini_grammar/bhedita_feminine_tap_and_neuter_num/README.md) constructs 48 nominal keys/readings with source-owned ṭāp, sup replacements, num/nuṭ/yāṭ and recipient distinctions. Full PG14 carrier/typed zero compatibility preserves homographic feminine/neuter/masculine and finite luṭ histories; singular sambuddhi does not suppress neuter plural lengthening. Totals 51,639 finite, nominal 3,127/3,678. S1 lookup unresolved with zero source credits; genuine source/wider written obligations remain Open, execution/untouched suites/replay deferred.
+
+## PG374 · Event-indexed causal agent, pre-num length and weak consonant owners
+
+[Causal-agent masculine](research/panini_grammar/bheditavat_causer_and_masculine_strength/README.md) constructs 24 nominal keys/readings selecting outer causal kartṛ rather than base causee/patient. Owned ktavatu and source-timed ṇic-lopa yield bheditavat; nominative-only length precedes num, while weak suffix-final t/d cannot be retargeted as base-root d. Full PG14 history/pairing and typed zero proof preserve those types. Finite 51,639; nominal 3,151/3,702. Wider gender/source/written gates Open; execution and untouched suites/replay deferred.
