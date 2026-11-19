@@ -2354,3 +2354,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG360 · Passive luṭ/blessing and selected grid closure
 
 [PG360](bhid_passive_lut_blessing_and_selected_grid/README.md) adds 18 finite positions/readings, cumulative **51,549**. Named broad luṭ tās-s lopa, competing narrow-policy Open, and separate blessing sīyuṭ/suṭ histories remain on the full PG14 carrier with typed zero recovery. Selected simple external-agent passive is 90/90 keys/90 readings; all 72 predecessors get zero new credit. Nominal 3,055/3,606 unchanged. Wider source/grammar obligations and runtime/replay remain Open/deferred.
+
+## PG361 · Located pronominal mā subcommentary witness
+
+[PG361](bhatti_ma_pronoun_and_lavanya_witness/README.md) adds one source observation and three analysis records, zero finite/nominal positions or readings. Printed Siddhahema subcommentary pp. 244–245 expands mā as māṃ with Daśaratha/citizens; this does not satisfy PG331's positive māṅ guard. Actual Bhaṭṭi locus/authorial reading stays Open. Full PG14 source-history carrier and typed zero recovery preserve the distinct channels. Totals 51,549 finite; nominal 3,055/3,606. Runtime/replay deferred.

@@ -1,0 +1,57 @@
+{
+  "root": {
+    "id": "1020002",
+    "address": "02.0002",
+    "root": "han",
+    "prefixes": [
+      "ā"
+    ],
+    "voice": "actor",
+    "quoted_agreement": "2pl"
+  },
+  "source_observation": {
+    "id": "PG361-S1",
+    "witness": "Siddhahema 3.3.86 Nyasanusandhana, printed 244–245",
+    "claim": "ma interpreted as asmat accusative singular, expanded mam; attributed Dasaratha speaker/target and citizens actors"
+  },
+  "analyses": [
+    {
+      "id": "PRONOUN_PRAPYA",
+      "source_status": "positive in this witness",
+      "ma_identity": "asmat acc.sg, not mang",
+      "actor": "citizens",
+      "speaker_target": "Dasaratha",
+      "object_binding": "mam/raghuttamam governed by supplied prapya; han object unselected",
+      "lakara": "Open; no imperative/aorist chosen solely from this source",
+      "panini_transfer": "requires separately matched PG330 premises; Hemacandra address not silently relabelled"
+    },
+    {
+      "id": "PRONOUN_BHETTUM",
+      "source_status": "positive in this witness",
+      "ma_identity": "asmat acc.sg",
+      "object_binding": "mam/raghuttamam governed by supplied bhettum; not han",
+      "new_nonfinite_credit": 0,
+      "lakara": "Open"
+    },
+    {
+      "id": "PG331_CONDITIONAL_PROHIBITION",
+      "source_status": "old construction retained on its own explicit positive mang guard",
+      "ma_identity": "mang required",
+      "compatibility": "that guard is false on the new pronominal witness frame; unknown uncollated poem remains Open",
+      "new_finite_credit": 0
+    }
+  ],
+  "excluded": [
+    "apply 3.3.175/6.4.74 solely because the surface token is ma",
+    "infer Rama as target solely from raghuttama epithet",
+    "infer automatic lot or mandatory past at after excluding mang",
+    "rename Hemacandra 3.3.86 as Panini 1.3.28",
+    "treat host OCR columns as critical-edition text"
+  ],
+  "open": [
+    "exact Bhatti poem locus/edition and authorial context",
+    "quote identity and pronoun/particle across independent poem witnesses",
+    "lakara/morphology of this newly addressed pronominal reading",
+    "independent source-edition attribution/year; universal commentary agreement"
+  ]
+}
