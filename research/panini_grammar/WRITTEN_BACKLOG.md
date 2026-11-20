@@ -1,6 +1,6 @@
-# Written-development backlog at PG395
+# Written-development backlog at PG396
 
-Monty · 20 November 2026 · reviewed parent `c510487b9ed3e80819f363768bcb9fd430b0aa46`.
+Monty · 20 November 2026 · reviewed parent `5433f61fd25984b518289496790304d2da3fbe7b`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -129,6 +129,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### S7/C4 · Direct RV7.92.2 witness and nit accent at PG395
 
 [PG395](pibadhyai_rigveda_witness_and_nit_accent/README.md) directly locates complete verse2, saṃhitā/pada पिब॑ध्यै and labelled Sāyaṇa drinking-purpose gloss in revision201440. One source observation and one selected Kaumudī śadhyain accent construction/readout,0 new word or old-locator/nonfinite credits. Surviving F.n gives initial U; owned joint-a receives dependent S without deleting that U, and following ai uses the selected ekaśruti display. The local electronic word witness and selected accent path now close; earlier Open references superseded only there. Unique rival suffix/marker/nipātana reconciliation, raw Nyāsa/digital duplicate, printed/phonetic/full-verse and exact yak-luk scope remain Open; all wider C2–C5/S1–S7 gates remain genuine.
+
+### S7/C2/C4 · Mad semantic mittva and source-local śap at PG396
+
+[PG396](mad_causal_senses_and_vedic_shap/README.md) constructs two supplied-meaning nonfinite payloads: H harṣa/glēpana madayadhyai, C other cittavikāra-production mādayadhyai. Kaumudī raw74068 body815 positively specifies semantic mittva of divādi mad1040105 through teaching repeat1010927. One source observation, two nonfinite constructions/readouts,0 finite/nominal positions/readings; old long word gets0 credit and short word is authored, not newly attested. Source-local śap replaces candidate yak, not an inserted/deleted Y; retained N.i→e→ay and S/F junction are owned. Local conditional H/C paths close; actual Vedic meaning/override (including old Nyāsa harṣa/long tension), raw Padamañjarī spelling, original suffix/accent assignments, printed/verse and wider gates remain Open.
 
 ## Claude-deferred execution: separate gates
 

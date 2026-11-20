@@ -1,5 +1,8 @@
 # Canonical Mathematics Index
 
+PG396 constructs [mad semantic mit and Vedic śap](research/panini_grammar/mad_causal_senses_and_vedic_shap/README.md): two source-conditional nonfinite constructions/readouts and one semantic source observation;0 new finite/nominal positions/readings. Harṣa/glēpana shortens owned root ā; separately supplied cittavikāra production retains it. Actual N.i→e→ay and S.a/F.a junction remain distinct. Actual Vedic sense/override and rival suffix/accent readings stay Open; totals51,648 finite,3,245 nominal/3,799 readings.
+
+
 PG395 adds [direct RV7.92.2 piba witness and selected nit accent](research/panini_grammar/pibadhyai_rigveda_witness_and_nit_accent/README.md): one source observation and one accent construction/readout;0 new finite/nominal/nonfinite word credits. Source saṃhitā/pada पिब॑ध्यै and Sāyaṇa's drinking-purpose gloss align with owned F.n→initial U→dependent S. Rival suffix/edition and wider gates stay Open; totals51,648 finite,3,245 nominal/3,799 readings.
 
 
@@ -34,7 +37,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG395 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG396 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -43,7 +46,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG395 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG396 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 

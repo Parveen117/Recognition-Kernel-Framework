@@ -1,0 +1,87 @@
+{
+  "frame": {
+    "root": "1040105/04.0105 divadi mad",
+    "teaching_root": "1010927/01.0927 repeated for semantic mit qualification",
+    "excluded_homonym": "1100229 curadi mad trptiyoga",
+    "prefixes": [],
+    "formation": "one hetumat nic + Vedic tumartha/bhava F",
+    "roles": "a causes b to undergo explicitly supplied H or C action; no new nominal case or controller paradigm",
+    "lakara": null,
+    "pada": null
+  },
+  "suffix_policies": [
+    {
+      "policy": "KAUMUDI_34009_MADAYA",
+      "suffix": "śadhyai",
+      "n_marker": false
+    },
+    {
+      "policy": "ARCHIVED_NYASA_34009_MADAYA",
+      "suffix": "śadhyain",
+      "n_marker": true
+    }
+  ],
+  "branches": [
+    {
+      "id": "H",
+      "root": "1040105",
+      "teaching_record": "1010927",
+      "sense": "harsa or glepana explicitly supplied",
+      "mit": true,
+      "root_after_vrddhi": "mād",
+      "root_after_mit_query": "mad",
+      "nic_after_grade": "e",
+      "nic_before_shap": "ay",
+      "word": "madayadhyai",
+      "status": "AUTHORED_SOURCE_CONDITIONAL_UNACCENTED_NOT_NEW_ATTESTATION"
+    },
+    {
+      "id": "C",
+      "root": "1040105",
+      "teaching_record": "1010927",
+      "sense": "other: cittavikaram utpadayati explicitly supplied under Kaumudi",
+      "mit": false,
+      "root_after_vrddhi": "mād",
+      "root_after_mit_query": "mād",
+      "nic_after_grade": "e",
+      "nic_before_shap": "ay",
+      "word": "mādayadhyai",
+      "status": "AUTHORED_SOURCE_CONDITIONAL_UNACCENTED; OLD_CITED_SPELLING_ZERO_WORD_CREDIT"
+    }
+  ],
+  "shared_events": [
+    "positive causal licence3.1.26 and original N.nic owner",
+    "7.2.116 root-upadha a->aa before actual N.nit",
+    "source-qualified mit query: H true ->6.4.92 short; C false ->long retained",
+    "F.shit makes sarvadhatuka3.4.113; bhava normally offers yak3.1.67",
+    "source-local Padamanjari vyatyaya selects S.shap instead of candidate Y.yak",
+    "actual S.shap pit ->N.i guna e7.3.84 then e->ay before S.a6.1.78",
+    "actual S.a plus F.initial a ->pararupa6.1.97"
+  ],
+  "ownership": {
+    "root_aa": "root-upadha vrddhi; retained or shortened by semantic mit guard",
+    "nic_ay": "N.i -> e -> ay, not root-y or F payload",
+    "shap_a": "S payload after S.sh/p marker lopa",
+    "junction_a": "S.a / F.initial a coalescence, not N original i",
+    "yak": "unselected candidate in this local vyatyaya; not an inserted/deleted Y"
+  },
+  "accepted": [
+    "two supplied semantic branches with two authored unaccented readouts",
+    "same mit teaching applies to divadi root, not two optional roots for same meaning",
+    "source-local Vedic shap relation retains bhava despite ordinary kartari-shap rule"
+  ],
+  "excluded": [
+    "choose short or long freely for unchanged input meaning",
+    "infer actual Vedic sense from long vowel alone",
+    "claim root1100229 curadi identity merely from visible ay",
+    "insert and delete yak as in piba",
+    "use finite P/A labels or divadi syan here",
+    "delete N.nic under6.4.51 despite actual sarvadhatuka S/F"
+  ],
+  "open": [
+    "actual Vedic madayadhyai sense and any source-qualified chandasa override if harsa asserted",
+    "original suffix/accent assignment and raw Padamanjari madayardhyai text",
+    "independent verse/printed commentary collation, exact canonical scope of local shap-vyatyaya",
+    "wider roots/prefixes/causal roles/sayadi/native and C2-C5/S1-S7 gates"
+  ]
+}

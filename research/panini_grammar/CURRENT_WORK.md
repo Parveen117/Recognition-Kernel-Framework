@@ -1,4 +1,7 @@
-# Pāṇini grammar · current written coverage at PG395
+# Pāṇini grammar · current written coverage at PG396
+
+PG396 constructs [mad semantic mit and Vedic śap](mad_causal_senses_and_vedic_shap/README.md): two source-conditional nonfinite constructions/readouts and one semantic source observation;0 new finite/nominal positions/readings. Harṣa/glēpana shortens owned root ā; separately supplied cittavikāra production retains it. Actual N.i→e→ay and S.a/F.a junction remain distinct. Actual Vedic sense/override and rival suffix/accent readings stay Open; totals51,648 finite,3,245 nominal/3,799 readings.
+
 
 PG395 adds [direct RV7.92.2 piba witness and selected nit accent](pibadhyai_rigveda_witness_and_nit_accent/README.md): one source observation and one accent construction/readout;0 new finite/nominal/nonfinite word credits. Source saṃhitā/pada पिब॑ध्यै and Sāyaṇa's drinking-purpose gloss align with owned F.n→initial U→dependent S. Rival suffix/edition and wider gates stay Open; totals51,648 finite,3,245 nominal/3,799 readings.
 
@@ -39,7 +42,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG395 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,245 nominal positions with 3,799 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG396 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,245 nominal positions with 3,799 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
