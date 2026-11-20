@@ -1,5 +1,8 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG389 locates [primary Bhāṣya4.1.150 marker dialectic](bhasya_41150_marker_purpose_and_policy_limits/README.md): one source observation,0 new word/construction credits. Revision401923 addresses already-vṛddha objection, puṃvad-prohibition purpose and5304 counterargument. Raw compound spelling, adjacent scope and original four-branch/ordered-pair reconciliation stay Open; frozen Mimata panels unchanged.
+
+
 PG388 adds [Saṃhitā locator and proposed unmarked snu](dams_samhita_locator_and_bhasya_snu_proposal/README.md): two source observations and one source-conditional morphology construction/readout;0 finite/nominal word credits. Revision401251 locates Vājasaneyi15.15/biting-animal gloss; Bhāṣya85751 positively proposes plain snu then returns to git. The proposed daṃś arm retains n without pretending generic kit has the same guard. PG386 default stays frozen; broader kit/edition/accent and written gates remain Open.
 
 

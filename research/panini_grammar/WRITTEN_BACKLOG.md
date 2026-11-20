@@ -1,6 +1,6 @@
-# Written-development backlog at PG388
+# Written-development backlog at PG389
 
-Monty · 20 November 2026 · reviewed parent `cccef1ba43264dd3bbafbfadcb2676dbd1f01367`.
+Monty · 20 November 2026 · reviewed parent `3437f5ee306b289dd33a8027ade1af83b6b3670e`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -101,6 +101,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### S7/C5 · Direct Vedic locator and proposed snu arm at PG388
 
 [PG388](dams_samhita_locator_and_bhasya_snu_proposal/README.md) directly locates Vājasaneyi15.15 in revision401251 with labelled biting-habit glosses, and Mahābhāṣya85751’s plain-snu restructuring proposal followed by return to git. Two source observations, one source-conditional morphology construction/readout,0 word credits. The proposed Vedic daṃś+unmarked-snu arm now has positive evidence and owned completion; PG386 git remains default. This supersedes its direct electronic Saṃhitā-locator residual and supplies one local alternative nasal-preservation account. Generic kit daṃś, broader four-root rival grammar, original commentator attribution, independent print/manuscript/lineage/accent and wider S1–S7/C2–C5 remain Open; proposal is not final free optionality.
+
+### S7 · Primary Bhāṣya4.1.150 marker-purpose locator at PG389
+
+[PG389](bhasya_41150_marker_purpose_and_policy_limits/README.md) positively addresses revision401923’s5302–5304 objection/answer/counterargument and adjacent Sauvīra-gotra scope. One source observation,0 word/construction credits. Primary-work electronic locator closes locally; original printed/manuscript collation, raw short-a compound display versus stated puṃvad prohibition,5304 scope and four-branch/ordered-pair reconciliation remain Open. No frozen Mimata panel or policy is rewritten. Other S1–S7/C2–C5 remain genuine.
 
 ## Claude-deferred execution: separate gates
 
