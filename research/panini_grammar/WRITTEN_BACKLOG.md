@@ -1,6 +1,6 @@
-# Written-development backlog at PG406
+# Written-development backlog at PG407
 
-Monty · 21 November 2026 · reviewed parent daf76978022dca5deef266b81c3af83a6e336ce5.
+Monty · 21 November 2026 · reviewed parent ae61e7b2f40a56a47a24b42cdc6625480d07a28d.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -173,6 +173,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4 · New bhū future śatṛ masculine panel at PG406
 
 [PG406](bhu_future_shatr_masculine_and_finite_collision/README.md) completes24 new masculine future-sat nominal keys/24 readings: simple1010001/P/lṛṭ→śatṛ, guarded nominal context, inherited future+iṭ/sya and old śatṛ inflection, with distinct S/F seam, strong num and weak stop ownership. No old PG16 finite or PG185 san-present word-key recredit. Finite/nominal bhaviṣyati and bhaviṣyataḥ collisions retain histories. Cumulative nominal3,269/3,823, finite51,648 unchanged. Feminine/neuter and middle future participle panels are explicit unconstructed next targets; other roots/senses/prefix/derived/accent/source/native and wider C2–C5/S1–S7 remain Open.
+
+### C4 · Future śatṛ genders completed locally at PG407
+
+[PG407](bhu_future_shatr_feminine_neuter_optional_num/README.md) completes48 new feminine/neuter nominal keys/78 readings. Actual future sya gives optional7.1.80 num before nadī/śī, not compulsory7.1.81 śap/śyan treatment. Two feminine whole-stem histories retain correlation; neuter dual ī is sup, plural has one specific num and singular t/d is a pause alternative. Both K7.1.80 guard explanations remain labelled, not globally harmonized. With PG406, selected simple bhū future P śatṛ three-gender72 keys/102 readings closes; earlier gender-Open references superseded only here. Cumulative nominal3,317/3,901, finite51,648. Śānac, other roots/senses/derived/prefix/accent/phonetic/source/native and wider C2–C5/S1–S7 remain Open.
 
 ## Claude-deferred execution: separate gates
 

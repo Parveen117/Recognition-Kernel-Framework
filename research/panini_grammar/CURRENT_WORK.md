@@ -1,4 +1,7 @@
-# Pāṇini grammar · current written coverage at PG406
+# Pāṇini grammar · current written coverage at PG407
+
+PG407 constructs [bhū future śatṛ feminine/neuter optional num](bhu_future_shatr_feminine_neuter_optional_num/README.md):48 new nominal keys/78 readings,0 finite/source/separate construction credits. Actual sya retains7.1.80 optional num, unlike śap/śyan7.1.81; feminine ī and neuter dual ī retain distinct owners, plural has one mandatory num. PG406–407 selected three-gender domain closes at72 keys/102 readings; wider gates Open. Totals51,648 finite,3,317 nominal/3,901 readings.
+
 
 PG406 constructs [bhū future śatṛ masculine and finite collisions](bhu_future_shatr_masculine_and_finite_collision/README.md):24 new nominal keys/readings,0 finite/source/separate construction credits. Future sat context3.3.14 precedes owned sya/śatṛ seam and strong-num inflection; locative bhaviṣyati and weak bhaviṣyataḥ keep nominal owners despite old finite homographs. Selected masculine panel closes; other genders/roots/accent and wider gates Open. Totals51,648 finite,3,269 nominal/3,823 readings.
 
@@ -72,7 +75,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG406 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,269 nominal positions with 3,823 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG407 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,317 nominal positions with 3,901 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
