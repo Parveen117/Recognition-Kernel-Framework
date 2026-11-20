@@ -96,3 +96,12 @@ Four substantive stages: **0 new finite positions/finite readings;48 new nominal
 - Necessary explicit-Python3.12 document/source/count checks only; actual result in packet. No Sanskrit/generator/proof execution, untouched suites/replay, continuous-hours or completion/ETA claim. Summaries/navigation/backlog updated; wider gates remain Open, continue sequentially without agents/new automation.
 
 - PG380 check retry: exact source has sandhied corāyayatītyāpatter, whereas first matcher expected isolated corāyayati. Corrected only the literal matcher, not source/grammar/trace; retry recorded.
+
+## Completion continuation · PG381
+
+- Actual fetched parent `068052ce171175663e9842f45d4bbca4660bed55`, clean aligned repository, no overlapping mutation observed. [PG381](nested_gam_owned_nic_lopa_and_present_bridge/README.md) adds **one morphology construction/readout**, zero finite/nominal positions/readings, source observations, syntax/nonfinite units. Totals **51,639 finite**, **3,199 nominal / 3,753 readings**. PG335/frozen predecessors and PG357–363 CLOSED history preserved.
+- Exact gam1011137 gatau/no prefix/mit licence, two hetumat H1/H2 and distinct Y/D/V; unlike PG380, H1 is not svārtha. Generic ṇyantāṇ ṇic inner-lopa applies before H1 growth; exposed gam uses the pinned PG13 root constructor (gām then mit-short gam) and H2 supplies ay before śap/ti. Independent outer non-own-result P3sg admission and V control stated. Complete written gamayati connects to the actual source’s case clause, without old finite or new source credit.
+- H1-lopa does not erase E1 or retrospectively satisfy aṇau: PG379’s D instrumental/Y accusative history survives with outer V agreement. Only this supplied P3sg present morphology bridge locally CLOSED; general nested pada/person/lakāra, other roots/prefixes/passive and caṅ-jāti policy remain Open. Full PG14 operator/history/pairing with typed zero proof supplied.
+- Necessary explicit-Python3.12 changed-document/source/count checks only; actual result in packet. No generator/Sanskrit/grammar/proof execution, untouched suites/replay, ETA/whole-language completion/continuous-hours claim. Summaries/navigation/backlog updated; wider C2–C5/S1–S7 gates still Open, continue sequentially without agents/new automation.
+
+- PG381 document-check retry: a line break between not/svārtha failed the literal written-proof marker check. Normalized matcher whitespace only; no proof/source/grammar/trace repair, retry recorded.

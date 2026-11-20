@@ -2434,3 +2434,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG380 · Inner svārtha ṇic lopa before outer causal vṛddhi
 
 [PG380](curadi_inner_nic_lopa_before_outer_vrddhi/README.md) adds one morphology construction/readout and one addressed source observation, zero word credits. Kaumudī/Bāla74081 require early inner S-lopa, rejecting corāyayati and preserving H-owned ay in corayati. Svārtha S adds no separate causer. Caṅ-jāti dissent, two-hetu gam morphology and wider gates Open; full PG14 typed zero proof supplied. Totals51,639 finite, nominal3,199/3,753; execution/untouched suites/replay deferred.
+
+## PG381 · Two-hetu gam present morphology and retained inner event
+
+[PG381](nested_gam_owned_nic_lopa_and_present_bridge/README.md) adds one morphology construction/readout, no word/source credits. Inner H1-lopa before growth, the pinned mit gam root constructor and surviving H2-ay yield gamayati, connecting PG379’s roles with outer V agreement and instrumental D. Only the supplied P3sg present bridge is locally closed; wider nested paradigms/pada and caṅ/source/native obligations Open. Full PG14 typed zero proof; totals51,639 finite, nominal3,199/3,753. Execution/untouched suites/replay deferred.
