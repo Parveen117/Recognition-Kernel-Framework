@@ -2438,3 +2438,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG381 · Two-hetu gam present morphology and retained inner event
 
 [PG381](nested_gam_owned_nic_lopa_and_present_bridge/README.md) adds one morphology construction/readout, no word/source credits. Inner H1-lopa before growth, the pinned mit gam root constructor and surviving H2-ay yield gamayati, connecting PG379’s roles with outer V agreement and instrumental D. Only the supplied P3sg present bridge is locally closed; wider nested paradigms/pada and caṅ/source/native obligations Open. Full PG14 typed zero proof; totals51,639 finite, nominal3,199/3,753. Execution/untouched suites/replay deferred.
+
+## PG382 · Outer event-indexed result and nested A/P
+
+[PG382](nested_gam_outer_result_and_pada/README.md) adds **one syntax/pada contract / four readouts**, no word/source credits. F2 belongs to outer V, distinct from inner D’s F1; actual U2 makes A optional under1.3.77. H2-ay with A ta→te gives active gamayate while D remains instrumental, Y accusative and V controller. Full PG14 typed zero proof supplied. Totals51,639 finite, nominal3,199/3,753; only ordinary nested-gam result relation/3sg present displays close, wider gates and execution remain Open/deferred.

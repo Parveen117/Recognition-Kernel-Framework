@@ -1,0 +1,86 @@
+{
+  "frame": {
+    "root_id": "1011137",
+    "root_address": "01.1137",
+    "sense": "gatau, ordinary locomotion not kampana",
+    "preverbs": [],
+    "formation": "two hetumat nic H1/H2, PG381 owned root/affix construction",
+    "events": "E1=D causes E0(Y moves); E2=V causes E1; Y,D,V distinct",
+    "immediate_input": "causative E1, with Y as karman, not bare noncausal root",
+    "voice": "E2 kartari only, not karma-passive",
+    "agreement": "V3sg",
+    "roles": "Y retained object/accusative; D immediate unexpressed causee-agent/instrumental; V outer expressed agent",
+    "result_predicate": "F2: principal intended result of E2 belongs to V; independent of any E1 result for D",
+    "upapada": "U2: actual nearby word conveys that same E2-to-V principal result; U2 implies F2 on consistent complete frames",
+    "false_exception_guards": [
+      "1.3.67-71 special contexts",
+      "1.3.86 listed identity",
+      "1.3.87 ingestion/kampana sense",
+      "1.3.88 noncausal-intransitive input",
+      "1.3.89 listed override"
+    ]
+  },
+  "rows": [
+    {
+      "outer_result_to_V": false,
+      "result_upapada": false,
+      "pada": "P",
+      "word": "gamayati",
+      "rule": "1.3.78",
+      "status": "Accepted",
+      "finite_credit": 0,
+      "word_reading_credit": 0
+    },
+    {
+      "outer_result_to_V": true,
+      "result_upapada": false,
+      "pada": "A",
+      "word": "gamayate",
+      "rule": "1.3.74",
+      "status": "Accepted",
+      "finite_credit": 0,
+      "word_reading_credit": 0
+    },
+    {
+      "outer_result_to_V": true,
+      "result_upapada": true,
+      "pada": "A",
+      "word": "gamayate",
+      "rule": "1.3.77 A",
+      "status": "Accepted",
+      "finite_credit": 0,
+      "word_reading_credit": 0
+    },
+    {
+      "outer_result_to_V": true,
+      "result_upapada": true,
+      "pada": "P",
+      "word": "gamayati",
+      "rule": "1.3.77 residual P",
+      "status": "Accepted",
+      "finite_credit": 0,
+      "word_reading_credit": 0
+    }
+  ],
+  "accepted": [
+    "one outer event-indexed pada contract with four completed condition/pada readouts",
+    "outer A3sg ta to te on PG381 H2-ay/shap input gives gamayate",
+    "inner beneficiary unknown is irrelevant if outer F2/U2 established",
+    "A remains active, D instrumental/Y accusative and V agreement unchanged"
+  ],
+  "excluded": [
+    "F1 for inner D used instead of F2 for outer V",
+    "U2=true F2=false asserted as a consistent complete frame",
+    "lexical root P or inner finite ending copied as outer obligatory pada",
+    "outer A treated as passive with Y agreement",
+    "D changed to accusative by importing hṛ/kṛ 1.4.53 alternative on gam",
+    "1.3.88 P-only chosen by querying ultimate mover Y rather than immediate E1",
+    "unknown outer beneficiary reported as free optional A/P"
+  ],
+  "open": [
+    "missing F2/U2 or sense/formation/role evidence",
+    "special frames, other roots/preverbs, identity-coincident roles or karma-passive",
+    "other person-number/lakara words beyond selected 3sg present displays",
+    "cang jati/instance source dispute, broader C2-C5 and S1-S7 obligations"
+  ]
+}

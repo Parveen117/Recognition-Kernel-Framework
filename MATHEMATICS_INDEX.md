@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG381 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG382 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG381 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG382 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4670,3 +4670,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG381 · Sound deletion with retained event-indexed causee roles
 
 [Nested gam present bridge](research/panini_grammar/nested_gam_owned_nic_lopa_and_present_bridge/README.md) composes generic inner-ṇic lopa, exact gam mit normalization and outer-H2 present endings on PG379’s two-hetu frame. The full PG14 carrier/pairing and typed zero proof retain deleted H1’s causal event/case view independently of visible H2-ay. One morphology unit/readout, no word/source credit; totals51,639 finite, nominal3,199/3,753. Only selected P3sg trace closes; general nested/source/runtime gates Open, execution deferred.
+
+## PG382 · Event-indexed nested result queries and active A ownership
+
+[Nested outer-result/pada](research/panini_grammar/nested_gam_outer_result_and_pada/README.md) constructs one syntax contract/four readouts, separating F2-to-V from F1-to-D and actual upapada optionality from unknown evidence. Full PG14 carrier/pairing and typed zero proof retain branch, H2/ending and role owners; te does not change kartari to passive. Zero word/source credits; totals51,639 finite, nominal3,199/3,753. Ordinary local relation and3sg displays close, broader source/written/runtime gates Open; execution deferred.

@@ -1,6 +1,6 @@
-# Written-development backlog at PG381
+# Written-development backlog at PG382
 
-Monty · 20 November 2026 · reviewed parent `068052ce171175663e9842f45d4bbca4660bed55`.
+Monty · 20 November 2026 · reviewed parent `fc8f47fe85b9f0f2e2d87f549b2b21329ed66bc5`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -55,6 +55,8 @@ PG379 constructs [nested gam roles](nested_gam_immediate_input_and_causee_case/R
 PG380 constructs [curādi S/H affix ownership](curadi_inner_nic_lopa_before_outer_vrddhi/README.md): svārtha ṇic S plus hetumat H, early S-lopa before vṛddhi and H-owned ay yield corayati. One morphology unit/readout and one source-order observation, zero word credits. This is not PG379’s two-hetu gam formation; its full morphology stays Open. Later caṅ-jāti/instance and reported Śabdenduśekhara objection remain Open, as do wider C2–C5/S1–S7.
 
 PG381 adds [two-hetu gam present bridge](nested_gam_owned_nic_lopa_and_present_bridge/README.md), one morphology construction/readout, zero word/source credits. PG379’s selected role frame now has an owned P3sg present trace: H1-lopa, exact mit root constructor and H2-ay; the deleted H1 does not erase the inner causal event or instrumental D. Earlier Open references are superseded only for this P3sg supplied domain. General nested person/lakāra/pada, other roots/prefixes/passive and caṅ source policies remain Open, alongside other C2–C5/S1–S7.
+
+PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/README.md): one syntax contract/four condition-pada readouts, zero word/source credits. Ordinary outer F2/U2 selection on the admitted two-hetu frame is now locally CLOSED, with active A gamayate and P gamayati displays; inner F1 for D is distinct. Earlier general-pada Open references are superseded only on this ordinary frame. Special contexts, other roots/prefixes/senses, other person/lakāra realizations, passive and caṅ/source/native contracts remain Open.
 
 ## Source readings: remain Open until positive evidence
 
