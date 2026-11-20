@@ -1,0 +1,75 @@
+{
+  "frame": {
+    "profile": "IDIT_MATH_VIOLENCE_SIMPLE_PASSIVE",
+    "root": "1010044",
+    "address": "01.0044",
+    "sense": "himsā, supplied transitive violence; not unspecified intransitive suffering",
+    "preverbs": [],
+    "formation": "simple karma passive, no nic/san/yang",
+    "lakara": "lat",
+    "pada": "A_PASSIVE",
+    "person": "3",
+    "number": "sg",
+    "word": "manthyate",
+    "position_credit": 1,
+    "reading_credit": 1,
+    "evidence": "WRITTEN_COMPOSITION; earlier prose spelling only, explicit own-sense passive Open"
+  },
+  "roles": {
+    "actor": "A, supplied plural violence agents, unexpressed/instrumental",
+    "patient": "P, singular affected patient, sole karman expressed/nominative/controller",
+    "time": "positive present",
+    "nominal_words": "supplied case controls only, no new nominal paradigm"
+  },
+  "trace": [
+    {
+      "event": "ORIGINAL_MARKER",
+      "input": "math_R|i_it",
+      "output": "math_R [retained R.idit]",
+      "witness": "1.3.2/9; lexical1010044 teaching mathim, not mantha nasal-a"
+    },
+    {
+      "event": "NUM",
+      "input": "math_R [R.idit]",
+      "output": "ma_R|n_NUM|th_R",
+      "witness": "7.1.58 upadesha-stage num; its m-it selects1.1.47 placement after last root vowel; num payload n and root i-marker have distinct owners"
+    },
+    {
+      "event": "YAK",
+      "input": "manth_R[NUM.n]|yak_Y|ta_T",
+      "output": "manth_R[NUM.n]|ya_Y[kit]|ta_T",
+      "witness": "passive present3.1.67/1.3.13; final Y.k it-lopa retains kit, no active shap"
+    },
+    {
+      "event": "N_LOPA_GUARD_FALSE",
+      "input": "manth_R[NUM.n]|ya_Y[kit]|ta_T",
+      "output": "manth_R[NUM.n]|ya_Y[kit]|ta_T",
+      "witness": "6.4.24 anidit false on retained original R.idit, even though n now penultimate; do not relabel kit as ineffective"
+    },
+    {
+      "event": "ENDING",
+      "input": "manth_R[NUM.n]|ya_Y|ta_T",
+      "output": "manth_R[NUM.n]|ya_Y|te_T = manthyate",
+      "witness": "lat A3sg ta3.4.78; tit ending change3.4.79, conventional unaccented readout"
+    }
+  ],
+  "prior_boundary": "PG390 mentions manthyate while explicitly leaving root1010044 own-sense passive Open; no licensed finite cell or owned num/passive construction there",
+  "accepted": [
+    "one root/sense-specific passive3sg completion",
+    "upadesha idit causes num and excludes6.4.24 later; original identity remains after i-lopa",
+    "NUM.n is not inherited lexical n of churning1090047"
+  ],
+  "excluded": [
+    "use churning1090047 sense/lexical nasal history for violence1010044",
+    "delete augmented n under6.4.24 despite original idit",
+    "turn num into active nasal vikaran or passive yak marker",
+    "insert it merely because lexical entry is set",
+    "apply two-karman churning secondary-object selection to this one-patient violence frame"
+  ],
+  "open": [
+    "intransitive/suffering interpretation requires its own supplied role frame",
+    "other persons/lakaras, prefixes, derived/nested forms and lexical homonyms",
+    "accent/external phonetic alternatives and independent literal passive attestation",
+    "wider C2-C5/S1-S7 source/native/written gates"
+  ]
+}

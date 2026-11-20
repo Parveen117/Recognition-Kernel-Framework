@@ -1,5 +1,8 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG392 completes [idit violence math passive](idit_math_num_origin_and_violence_passive/README.md): one new finite position/reading, cumulative51,640. Exact1010044 original idit causes teaching-stage num and blocks later6.4.24 n-lopa, yielding owned manthyate; churning1090047 stays separate. Old prose mentioned the spelling while explicitly leaving this own-sense passive Open. No nominal/source/other unit credits; wider written gates remain Open.
+
+
 PG391 constructs [manth source/genitive controller change](manth_apadana_and_genitive_controller_change/README.md): two supplied-construal syntax/controller constructions/readouts,0 word/morphology/source credits. Explicit apādāna S receives ablative; product-relative nominal S receives genitive; sole karman nectar P now controls. Old akathita S-control is preserved. Shared kṣīranidheḥ/mathyate displays do not erase distinct case histories; unknown construal remains Open.
 
 

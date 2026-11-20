@@ -1,6 +1,6 @@
-# Written-development backlog at PG391
+# Written-development backlog at PG392
 
-Monty · 20 November 2026 · reviewed parent `f05702d28b5e64721b26d322e1319a0b44e54d4b`.
+Monty · 20 November 2026 · reviewed parent `0696ba53a850055c75a008ba6468e9be573e5c7a`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -113,6 +113,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C2 · Manth explicit source and nominal genitive at PG391
 
 [PG391](manth_apadana_and_genitive_controller_change/README.md) closes two supplied-construal role/controller contracts: explicit apādāna S→ablative and product-relative non-kāraka S→genitive. P is sole karman/nominative/controller in both; old PG390 akathita S-control stays frozen and gets0 credit. Two syntax constructions/readouts,0 word/morphology/source credits. PG390’s positive source/genitive construal alternatives are now locally constructed; actual unknown/mixed intentions, other policies/roots/persons/lakāras and wider S1–S7/C2–C5 stay Open. Equal kṣīranidheḥ case displays are not free semantic variation.
+
+### C3 · Idit violence-root num/passive completion at PG392
+
+[PG392](idit_math_num_origin_and_violence_passive/README.md) closes1010044/01.0044’s supplied transitive violence passive laṭ A3sg, with one new finite position/reading. Original idit causes num, whose payload n survives yak-kit because6.4.24 anidit is false. Earlier PG390 bare manthyate spelling was not a completed position and explicitly left this own-sense domain Open. Churning1090047 and its old credit remain unchanged. Cumulative finite51,640; nominal3,245/3,799 unchanged. Intransitive suffering, other persons/lakāras/prefixes/derived forms, accent/attestation and wider C2–C5/S1–S7 remain Open.
 
 ## Claude-deferred execution: separate gates
 

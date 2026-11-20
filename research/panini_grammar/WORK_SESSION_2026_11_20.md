@@ -189,3 +189,12 @@ Five substantive stages: **0 new finite positions/finite readings;23 new nominal
 - Necessary explicit-Python3.12 changed-document/source/count checks only; actual result in packet. No generators/grammar/proof execution, old/navigation/engine suites/replay, ETA/global-completion/continuous-hours claim. Summaries/navigation/backlog/handoff updated; no agents/new automation.
 
 PG391 document-check retry: lowercase unknown matcher failed against the written heading Unknown evidence. Corrected only the case-sensitive proof-marker matcher; source, grammar and proof unchanged. Retry justified by this document matcher failure.
+
+## Completion continuation · PG392
+
+- Actual fetched parent `0696ba53a850055c75a008ba6468e9be573e5c7a`, clean aligned repository, no overlapping mutation observed. [PG392](idit_math_num_origin_and_violence_passive/README.md) adds **one new finite position/one reading**,0 nominal positions/readings, source observations or other construction units. Cumulative **51,640 finite;3,245 nominal/3,799 readings**. Frozen predecessors/PG335 correction/PG357–363 CLOSED preserved.
+- Exact1010044/01.0044 mathĩ in supplied transitive violence frame, no preverb/derived formation. Original idit causes teaching num; mit gives insertion after last root vowel. NUM.n is distinct from lexical n of churning1090047 and passive Y.k. Original idit blocks6.4.24 despite current yak-kit; owned trace finishes manthyate with patient3sg control. Kaumudī/Bāla benedictive retained-n controls are not passive quotations or new source decisions.
+- Prior prose/factored/STATE review found only PG390’s bare spelling warning and explicit own-sense passive Open, not a licensed finite cell/num derivation for1010044. Credit exact new root/sense/passive/lat/A3sg key once; no old churning recount. Full PG14 carrier and typed zero proof included. Selected violence frame closes; unspecified/intransitive suffering, other realization/lexical/source/native gates remain Open.
+- Necessary explicit-Python3.12 changed-document/source/count checks only; actual result in packet. No generators/grammar/proof execution, old/navigation/engine suites/replay, ETA/global-completion/continuous-hours claim. Summaries/navigation/backlog/handoff updated; no agents/new automation.
+
+PG392 document-check retry: proof matcher used a paraphrased prior-cell phrase and lowercase intransitive instead of the actual written wording/case. Corrected those two document markers only; grammar/source/proof unchanged. Retry justified by matcher failure.
