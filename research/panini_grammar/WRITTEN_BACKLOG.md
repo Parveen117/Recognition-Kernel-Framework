@@ -1,6 +1,6 @@
-# Written-development backlog at PG383
+# Written-development backlog at PG384
 
-Monty · 20 November 2026 · reviewed parent `d77b7214ebaab5ddfc1eb2017c4b10f8f11d40f3`.
+Monty · 20 November 2026 · reviewed parent `cd9503eacbeeeffee1da4500dce8672d60c82e01`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -81,6 +81,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### S7 · Mimata depth and source-qualified ṇit effect at PG383
 
 [PG383](mimata_na_marker_and_source_qualified_patronymic/README.md) addresses Bāla’s direct non-gotra apatya reading for Mimata and Tattva’s explicit Vṛtti-policy maimata ṇit effect. Selected Mimata+ṇa masculine panel locally CLOSED at24 keys,23 newly credited positions/readings after old maimataḥ. One source observation. Four-branch and reported ordered-pair policies remain separate; original Bhāṣya/Kaumudī display reconciliation, damaged other-base collation, geographic-scope residual, phiñ/other genders and other S7 loci remain Open. No blanket source-gap exclusion.
+
+### S7 · Common phiñ edge and initial-sound ownership at PG384
+
+[PG384](mimata_phin_initial_replacement_and_short_i/README.md) completes the selected Mimata+phiñ masculine short-i panel:24 keys,23 new positions/readings after old nominative withholding. Initial ph→āyan retains original i and source-selected non-it n; one addressed marker/recipient observation. This edge is common to both declared policy records, without settling original Bhāṣya/Kaumudī display reconciliation. Other-gender/depth/region scope, damaged jñāpaka wording and other S7/S1–S6/C2–C5 remain Open. Earlier phiñ Open references are superseded only on this selected male direct-child domain.
 
 ## Claude-deferred execution: separate gates
 

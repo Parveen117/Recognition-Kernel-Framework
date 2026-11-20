@@ -2446,3 +2446,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG383 · Mimata apatya, source policy and ṇit vṛddhi
 
 [PG383](mimata_na_marker_and_source_qualified_patronymic/README.md) adds **23 nominal positions/readings** in a24-key masculine ṇa panel, withholding old maimataḥ. One addressed Bāla/Tattva source qualification distinguishes direct non-gotra apatya and Vṛtti-policy ṇit effect; initial i→ai and owned base-a lopa derive maimata. Reported Bhāṣya ordered pairing/original collation, phiñ/other genders stay Open. Totals51,639 finite, nominal3,222/3,776. Full PG14 typed zero proof; execution/untouched suites/replay deferred.
+
+## PG384 · Phiñ initial replacement and masculine short-i
+
+[PG384](mimata_phin_initial_replacement_and_short_i/README.md) adds **23 nominal positions/readings** and one source observation. Initial ph→āyan preserves original phiñ-i and non-it replacement n; masculine ghi inflection differs from phak’s a-stem and feminine options. Old maimatāyaniḥ withheld; common admission under both declared policy records does not settle original Bhāṣya. Totals51,639 finite, nominal3,245/3,799. Full PG14 typed zero proof supplied; other genders/contexts/source/native gates Open, execution deferred.
