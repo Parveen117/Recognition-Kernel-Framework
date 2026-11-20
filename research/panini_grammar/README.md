@@ -2418,3 +2418,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG376 · A named alternative for the old tiraskṛtvā gap
 
 [PG376](tiras_non_gati_s_and_reported_madhava_policy/README.md) adds **one source-policy observation**, zero position/readings or other construction credits. Bāla explicitly reports unnamed scholars omitting tiras-s gati anuvṛtti; Tattva gives a related Mādhava-attributed view. Non-gati ktvā+s is now constructible on that named policy without creating gati/lyap; the K default remains unchanged. Kāśikā authorial/transmission reconciliation, original Mādhava and exact damaged report collation stay Open. Totals51,639 finite; nominal3,199/3,753. Full PG14 typed zero recovery; execution/untouched suites/replay deferred.
+
+## PG377 · Inanimate causee is not absence of agency
+
+[PG377](inanimate_bhu_stha_causees_and_pada_guards/README.md) adds **two causal-role/pada constructions / eight readouts**, zero word-position/readings/source credits. In supplied bhū/sthā frames, non-conscious b remains E0 agent and becomes E1 object; 1.3.88’s conscious-agent P exception is false. Causer-directed result/upapada predicates admit active bhāvayate/sthāpayate separately from P controls, preserving a’s agreement and nominal accusative b. Partial evidence is conditional/Open. Full PG14 typed zero recovery; totals51,639 finite, nominal3,199/3,753, wider gates Open and execution/untouched suites/replay deferred.

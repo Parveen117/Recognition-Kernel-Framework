@@ -1,6 +1,6 @@
-# Written-development backlog at PG376
+# Written-development backlog at PG377
 
-Monty · 20 November 2026 · reviewed parent `eece4620fb9481dc369a8598d4da396900d10653`.
+Monty · 20 November 2026 · reviewed parent `fda7ea63801469b00f27b8bb812dbf467d528e23`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -47,6 +47,8 @@ PG373 adds [causal-kta feminine/neuter](bhedita_feminine_tap_and_neuter_num/READ
 PG374 supplies [causal-agent ktavatu masculine](bheditavat_causer_and_masculine_strength/README.md), 24 nominal keys/readings: outer causal kartṛ a rather than base causee b/patient c, with pre-num nominative length and distinct weak suffix-final d. Feminine/neuter ktavatu and broader C2–C5/S1–S7 remain Open; no source or finite credit.
 
 PG375 supplies [causal-agent feminine/neuter](bheditavat_feminine_nip_and_neuter_pause/README.md), 48 nominal keys/51 readings. PG372–375 selected causal patient/agent three-gender panels are locally CLOSED at144 keys/147 readings; feminine suffix ī versus neuter ending ī, num/nuṭ and pause alternatives retain owners. Earlier forward references to unconstructed causal ktavatu genders are now superseded on exactly this domain; other C2–C5/S1–S7 obligations remain Open, no finite/source credits.
+
+PG377 constructs [inanimate bhū/sthā causees](inanimate_bhu_stha_causees_and_pada_guards/README.md): two supplied causal-role/pada contracts, eight readouts, zero word-position/source credits. PG14 conscious controls remain frozen; non-conscious b keeps base agency and becomes outer object, while 1.3.88 no longer forces P. Result/upapada evidence determines active A/P and retained causer agreement. This closes only that C2 subdomain; unspecified causee identity, other roots/senses, double-karman/passive/nested/accent/native and S1–S7 remain Open.
 
 ## Source readings: remain Open until positive evidence
 
