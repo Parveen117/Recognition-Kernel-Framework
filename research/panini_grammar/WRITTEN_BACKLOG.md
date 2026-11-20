@@ -1,6 +1,6 @@
-# Written-development backlog at PG405
+# Written-development backlog at PG406
 
-Monty · 21 November 2026 · reviewed parent 2d2b7e5060335f6a62a4e48e2f169c2ae6f8b83b.
+Monty · 21 November 2026 · reviewed parent daf76978022dca5deef266b81c3af83a6e336ce5.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -169,6 +169,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### S4 · Positive printed Haima comparison at PG405
 
 [PG405](haima_printed_desiderative_perfect_witness/README.md) visually locates printed Haima handbook202–203, rows11/21, with vṛdh vivardhiṣāñcakre and vṛt vivartiṣāñcakre. One paired source observation,0 word/licence/construction credits. This closes printed cross-school witness availability for those two spellings; source school and root namespaces are not merged into Pāṇini. No unique perfect person or full paradigm assigned from cakre. Exact bytes/visual excerpts and preserved computed-cell comparisons pinned. All45 Paninian same-pada/iṭ licences, Mādhavīya adjudication, Haima rule/edition analysis, other roots/auxiliaries and wider gates remain Open.
+
+### C4 · New bhū future śatṛ masculine panel at PG406
+
+[PG406](bhu_future_shatr_masculine_and_finite_collision/README.md) completes24 new masculine future-sat nominal keys/24 readings: simple1010001/P/lṛṭ→śatṛ, guarded nominal context, inherited future+iṭ/sya and old śatṛ inflection, with distinct S/F seam, strong num and weak stop ownership. No old PG16 finite or PG185 san-present word-key recredit. Finite/nominal bhaviṣyati and bhaviṣyataḥ collisions retain histories. Cumulative nominal3,269/3,823, finite51,648 unchanged. Feminine/neuter and middle future participle panels are explicit unconstructed next targets; other roots/senses/prefix/derived/accent/source/native and wider C2–C5/S1–S7 remain Open.
 
 ## Claude-deferred execution: separate gates
 
