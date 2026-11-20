@@ -1,6 +1,6 @@
-# Written-development backlog at PG402
+# Written-development backlog at PG403
 
-Monty · 20 November 2026 · reviewed parent c74b03e4a445e093142779eb59f495e3877c4490.
+Monty · 20 November 2026 · reviewed parent f5a1cc5821d0a3731f6d130a1538b7a2d71e96a8.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -157,6 +157,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C3/S7 · Calling-root huve bridge at PG402
 
 [PG402](huve_vedic_calling_root_and_owned_present_ending/README.md) completes the selected Vedic plain-present1sgA hveñ1011163 trace on supplied principal-result-to-agent and witnessed śap-luk/samprasāraṇa. Root ā/u/ū/uv and ending e retain separate owners; derived hu is not lexical sacrificing1030001.6.1.34 licenses this present, without manufacturing abhyasta premises from adjacent6.1.32/33 citations. One morphology unit/readout,0 new finite/nominal/source credits because huve was already quoted in prose. Full accent, other root/pada/person/lakāra/prefix policies and historical/full-verse/native/S1–S7/C2–C5 gates stay Open. No broad bahulam optionality or source-locator repair inferred.
+
+### C2/C4 · Inanimate bhū/sthā causal passive at PG403
+
+[PG403](inanimate_bhu_stha_passive_causee_agreement/README.md) closes PG377's selected inanimate causal-passive residual: two syntax/controller contracts/six singular-dual-plural readouts. PG15's conscious-only domain is preserved; its old words receive0 credit. Positive akarmaka E0 promotes inanimate b to sole E1 object; that q controls A karmaṇi while causer a is instrumental. Base agency remains event-indexed, and active1.3.88/74/77 choices do not create passive P/optionality or bhāva-singular restrictions. No fresh morphology/source/finite/nominal credits. Unknown transitivity/extra karmans and other roots/derived/prefix/lakāra/accent/native/S1–S7/C2–C5 domains remain Open. Earlier passive-Open references superseded only on these selected inputs.
 
 ## Claude-deferred execution: separate gates
 
