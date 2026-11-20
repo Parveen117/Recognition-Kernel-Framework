@@ -1,5 +1,8 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG394 constructs [pibadhyai bhāva through yak-luk](pibadhyai_bhava_and_deleted_yak/README.md): one newly addressed Padamañjarī source observation and one nonfinite construction/readout;0 new finite/nominal positions/readings. Surviving F.śit licenses piba after owned Y-luk while bhāva persists. Competing śadhyai/śadhyain policies, damaged Nyāsa and accent remain explicit/Open; totals51,648 finite,3,245 nominal/3,799 readings.
+
+
 PG393 completes [idit violence-root present passive](idit_math_passive_present_persons_and_endings/README.md):8 new finite positions/readings,9-key panel with old3sg0 credit; cumulative51,648. Actual dual ā→iy, first-person yak-a lengthening and patient-controlled person/number retain distinct owners. No nominal/source/other unit credits; other lakāras/senses/derived/source/native gates remain Open.
 
 

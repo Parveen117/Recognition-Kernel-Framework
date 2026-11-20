@@ -1,6 +1,6 @@
-# Written-development backlog at PG393
+# Written-development backlog at PG394
 
-Monty · 20 November 2026 · reviewed parent `94cf7adb35e39bf1e96fd46929234472c080e786`.
+Monty · 20 November 2026 · reviewed parent `59664d52d7aa1125d751f0bbdcf7a5d464b6d566`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -121,6 +121,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C3 · Selected idit violence present-passive panel at PG393
 
 [PG393](idit_math_passive_present_persons_and_endings/README.md) completes9/9 selected laṭ A passive keys for1010044 with8 new positions/readings; PG3923sg0 credit. Dual ending ā→iy/y-lopa and first-du/pl yak-a lengthening are separately owned; agreement follows speaker/addressee/other patient, not actor. Cumulative51,648 finite; nominal3,245/3,799 unchanged. Earlier other-person Open references superseded only for this selected present panel. Other lakāras/senses/prefixes/derived/nested/accent/source/native and wider C2–C5/S1–S7 remain Open.
+
+### S7/C4 · Padamañjarī yak-luk and nonfinite bhāva at PG394
+
+[PG394](pibadhyai_bhava_and_deleted_yak/README.md) positively addresses revision402553's pibadhyai yak-luk/piba explanation and constructs its owned nonfinite bhāva payload. One source observation and one nonfinite construction/readout,0 finite/nominal positions/readings; old PG44 source word gets0 credit. Surviving suffix F.ś, rather than removed Y, supplies7.3.78's consumer condition. Śadhyai/śadhyain policies keep separate marker histories and one unaccented display. Damaged Nyāsa label/ksen, unique accent/assignment reconciliation, exact canonical scope/number of cited yak-luk licence, printed/verse collation, causal madayadhyai and other sayādi/source/native gates remain Open. The new positive local bridge does not close all3.4.9 or S7.
 
 ## Claude-deferred execution: separate gates
 

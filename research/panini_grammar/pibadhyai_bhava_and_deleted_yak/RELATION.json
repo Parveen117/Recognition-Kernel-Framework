@@ -1,0 +1,94 @@
+{
+  "frame": {
+    "root": "1011074",
+    "address": "01.1074",
+    "sense": "pāne, drinking; not protecting1020051",
+    "preverbs": [],
+    "formation": "Vedic tumartha/bhava sayadi nonfinite",
+    "lakara": null,
+    "pada": null,
+    "person": null,
+    "number": null,
+    "derived_affixes": [],
+    "semantics": "supplied drinking action, not denoted finite actor or patient"
+  },
+  "suffix_policies": [
+    {
+      "policy": "PADAMANJARI_PIBA_WITH_ARCHIVED_NYASA_SHADHYAI_EXPLANATION",
+      "suffix": "śadhyai",
+      "original_markers": [
+        "ś"
+      ],
+      "payload": "adhyai",
+      "n_marker": false,
+      "limit": "Nyasa label remains damaged; positive piba label and yak-luk are Padamanjari"
+    },
+    {
+      "policy": "KAUMUDI_34009_PIBA",
+      "suffix": "śadhyain",
+      "original_markers": [
+        "ś",
+        "n"
+      ],
+      "payload": "adhyai",
+      "n_marker": true,
+      "limit": "explicit opposite example assignment retained; accent not silently harmonized"
+    }
+  ],
+  "trace": [
+    {
+      "event": "CHOOSE_BHAVA_SUFFIX",
+      "input": "pā_R",
+      "output": "pā_R|F_śadhyai[n-policy]",
+      "guard": "3.4.9 Vedic bhava and positively admitted witness/policy"
+    },
+    {
+      "event": "YAK_ADMISSION",
+      "input": "pā_R|F",
+      "output": "pā_R|Y_yak|F",
+      "guard": "F original śit ->3.4.113 sarvadhatuka; actual bhava ->3.1.67"
+    },
+    {
+      "event": "SOURCE_LOCAL_YAK_LUK",
+      "input": "pā_R|Y_yak|F",
+      "output": "pā_R|Y_deleted_luk|F",
+      "guard": "Padamanjari3.4.9 explicit yak-luk witness, not unrestricted bahulam"
+    },
+    {
+      "event": "PIBA_FROM_SURVIVING_F",
+      "input": "pā_R|Y_deleted_luk|F",
+      "output": "piba_R|Y_deleted_luk|F_adhyai",
+      "guard": "7.3.78 queries surviving F.śit, not deleted Y.kit or absent active śap"
+    },
+    {
+      "event": "OWNED_A_JUNCTION",
+      "input": "pib+a_R|a_F+dhyai",
+      "output": "pib|a_joint|dhyai",
+      "guard": "actual short-a nonfinal-pada junction6.1.97;6.4.48 ardhadhatuka guard false"
+    }
+  ],
+  "word": "pibadhyai",
+  "devanagari": "पिबध्यै",
+  "accent_status": "OPEN source-qualified n/default/nipata interaction; no generated accented paradigm",
+  "accepted": [
+    "one source-qualified nonfinite payload construction; two declared marker histories with one unaccented display",
+    "bhava survives deletion of yak",
+    "surviving F original śit admits piba even after Y whole-luk",
+    "no finite/nominal word recredit"
+  ],
+  "excluded": [
+    "infer kartari merely because piba resembles finite active",
+    "license piba from removed yak via pratyayalaksana",
+    "delete or add F.n to make commentary assignments agree",
+    "use2.4.76 slU as this luk or generalize2.4.73 shap clause to every yak",
+    "introduce śap in this piba branch or transfer madayardhyai explanation to it",
+    "silently replace old Nyasa ahuvadhyai label"
+  ],
+  "open": [
+    "damaged Nyasa label, ksen/kasen and transmission/edition cause",
+    "unique shadhyai/shadhyain example and accent reconciliation",
+    "printed Padamanjari/Nyasa collation and exact canonical scope/number of cited yak-luk licence",
+    "independent full Vedic verse/padapatha/accent alignment, other sayadi clauses, causal madayadhyai trace",
+    "wider C2-C5/S1-S7/native integration and Claude-deferred execution"
+  ]
+}
