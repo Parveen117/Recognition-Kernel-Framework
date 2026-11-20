@@ -1,4 +1,7 @@
-# Pāṇini grammar · current written coverage at PG396
+# Pāṇini grammar · current written coverage at PG397
+
+PG397 constructs [actual VS3.13 commentary/purpose contracts](madayadhyai_vs313_commentary_and_purpose/README.md): one source observation, two syntax constructions/three readouts;0 new finite/nominal positions/readings. Uvaṭa common dining and Mahīdhara desired causal satisfaction/delight retain distinct roles; explicit mad tṛptau is a positive source alternative, precise lexical/affix adapter Open. Totals51,648 finite,3,245 nominal/3,799 readings; wider gates remain Open.
+
 
 PG396 constructs [mad semantic mit and Vedic śap](mad_causal_senses_and_vedic_shap/README.md): two source-conditional nonfinite constructions/readouts and one semantic source observation;0 new finite/nominal positions/readings. Harṣa/glēpana shortens owned root ā; separately supplied cittavikāra production retains it. Actual N.i→e→ay and S.a/F.a junction remain distinct. Actual Vedic sense/override and rival suffix/accent readings stay Open; totals51,648 finite,3,245 nominal/3,799 readings.
 
@@ -42,7 +45,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG396 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,245 nominal positions with 3,799 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG397 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,245 nominal positions with 3,799 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

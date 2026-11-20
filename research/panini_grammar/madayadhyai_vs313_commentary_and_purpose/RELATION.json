@@ -1,0 +1,69 @@
+{
+  "source": "VS3.13 U/M electronic410585",
+  "shared_entities": {
+    "I": "utterance speaker; first singular only in supplied matrix paraphrases",
+    "D": "addressed Indra/Agni pair; Mahidhara additionally interprets as ahavaniya/garhapatya",
+    "R": "havis/wealth offering, source-policy relation retained",
+    "Q2": "actual huve clause, speaker I invokes D for vajasya sataye; relation to Q1 not forced into event identity"
+  },
+  "constructions": 2,
+  "readouts": [
+    {
+      "policy": "UVATA_313",
+      "construction": "U",
+      "invocation": "Q1: speaker I calls addressed pair D",
+      "matrix": "ahuvadhyai paraphrased ahvayami; no supplied desire predicate",
+      "purpose": "EAT(D), together in one offering occasion R",
+      "causee": null,
+      "root_policy": "madyati bhojanartha; exact lexical/morphological adapter Open"
+    },
+    {
+      "policy": "MAHIDHARA_TRPTI_313",
+      "construction": "M",
+      "invocation": "Q1: desired calling of D by I",
+      "matrix": "DESIRE(I, CALL(I,D)); icchami supplied by commentary",
+      "purpose": "DESIRE(I, CAUSE(I, SATISFIED(D))) in one simultaneous act with R",
+      "causee": "D",
+      "root_policy": "mad trptau, nijanta + shadhyai explicitly reported; candidate1100229 mapping/affix depth Open"
+    },
+    {
+      "policy": "MAHIDHARA_HARSA_313",
+      "construction": "M",
+      "invocation": "Q1: desired calling of D by I",
+      "matrix": "DESIRE(I, CALL(I,D)); icchami supplied by commentary",
+      "purpose": "DESIRE(I, CAUSE(I, DELIGHT(D))) in one simultaneous act with R",
+      "causee": "D",
+      "root_policy": "madi harsa, nijanta + shadhyai explicitly reported; semantic mit/long tension Open"
+    }
+  ],
+  "word": "mādayadhyai",
+  "verse_call_token": "आहु॒वध्या॑",
+  "commentary_call_token": "आहुवध्यै",
+  "ownership": {
+    "root": "source-qualified proposals only; no surface-based forced ID",
+    "sense": "U eating vs M satisfaction/delight alternatives",
+    "preverb": "saha is co-occurrence adverb here, not an inserted lexical preverb",
+    "voice": "no finite P/A or patient-agreement assignment to nonfinite purpose",
+    "affix": "M explicitly nijanta/shadhyai; U cannot silently inherit that entire analysis"
+  },
+  "accepted": [
+    "U direct call plus common-dining purpose graph",
+    "M desire ellipsis plus alternative causal satisfaction/delight purpose graphs",
+    "source-labelled entity and event roles; same displayed word retains different graphs"
+  ],
+  "excluded": [
+    "insert icchami into U merely because M supplies it",
+    "merge M satisfaction and delight into a jointly mandatory reading",
+    "force U dining into PG396 C cittavikara meaning or hetumat event",
+    "infer curadi1100229 identity/inner-outer nic count merely from mad trptau",
+    "give addressed pair finite person/number agreement in the nonfinite word",
+    "silently repair verse ahuvadhyaa to commentary ahuvadhyai"
+  ],
+  "open": [
+    "precise lexical/root/affix-depth adapter for mad trptau and U bhojanartha",
+    "harsa long-vowel/mit reconciliation or positive Vedic override; PG396 conditional paths preserved",
+    "original suffix/accent competition, raw Padamanjari/Nyasa readings",
+    "printed/independent verse collation and verse/commentary ahuvadhyaa/ahuvadhyai relationship",
+    "Q1/Q2 event identity/iteration beyond stated source graphs; wider C2-C5/S1-S7/native and Claude execution"
+  ]
+}

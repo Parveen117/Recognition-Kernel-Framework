@@ -1,6 +1,6 @@
-# Written-development backlog at PG396
+# Written-development backlog at PG397
 
-Monty · 20 November 2026 · reviewed parent `5433f61fd25984b518289496790304d2da3fbe7b`.
+Monty · 20 November 2026 · reviewed parent `2541239d667acde3876d81a804404a7a91788a4b`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -133,6 +133,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### S7/C2/C4 · Mad semantic mittva and source-local śap at PG396
 
 [PG396](mad_causal_senses_and_vedic_shap/README.md) constructs two supplied-meaning nonfinite payloads: H harṣa/glēpana madayadhyai, C other cittavikāra-production mādayadhyai. Kaumudī raw74068 body815 positively specifies semantic mittva of divādi mad1040105 through teaching repeat1010927. One source observation, two nonfinite constructions/readouts,0 finite/nominal positions/readings; old long word gets0 credit and short word is authored, not newly attested. Source-local śap replaces candidate yak, not an inserted/deleted Y; retained N.i→e→ay and S/F junction are owned. Local conditional H/C paths close; actual Vedic meaning/override (including old Nyāsa harṣa/long tension), raw Padamañjarī spelling, original suffix/accent assignments, printed/verse and wider gates remain Open.
+
+### S7/C2 · Actual VS3.13 source policies at PG397
+
+[PG397](madayadhyai_vs313_commentary_and_purpose/README.md) positively locates electronic410585's Uvaṭa dining-purpose and Mahīdhara desire/causal satisfaction-or-delight readings, including explicit mad tṛptau root alternative. Two syntax constructions/three readouts, one source observation,0 word credits. The actual electronic passage's source-qualified meaning/attachment contracts now close locally; earlier unspecified actual-sense references superseded only there. Precise tṛptau/curādi candidate1100229 adapter and ṇic depth, U bhojana morphology, harṣa long-vowel/mit or override, original suffix/accent/text, verse āhuvadhyā versus commentary āhuvadhyai and Q1/Q2 event alignment remain Open. PG396's local curādi exclusion is not a universal exclusion. Other C2–C5/S1–S7 and Claude-deferred gates remain genuine.
 
 ## Claude-deferred execution: separate gates
 
