@@ -2426,3 +2426,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG378 · Printed Bāla dhi ca and actual tās recipient
 
 [PG378](dhi_ca_printed_bala_lut_alignment/README.md) adds **one source observation**: visually read scan52/printed41, numbered entry2249 (8.2.25), and lower Bāla’s explicit tās-s lopa/edhitādhve. Exact image/HTML/revision pins retain layers and catalogue-year discrepancy. Printed Bāla alignment closes locally; digital82025 repair, printed Tattva and narrow full request stay Open. Zero word-position/readings or other construction credits; totals51,639 finite, nominal3,199/3,753. Full PG14 typed zero evidence adapter; execution/untouched suites/replay deferred.
+
+## PG379 · Nested causee case and the immediate-input view
+
+[Nested gam](nested_gam_immediate_input_and_causee_case/README.md) adds **one syntactic construction/readout**, zero word/source credits. An already-causal input fails1.4.52’s aṇau condition, even though its oldest root was simple. Explicit source roles retain Devadatta instrumental, Yajñadatta accusative and outer Viṣṇumitra agreement. Full PG14 typed zero proof retains these event/formation grades. Totals51,639 finite; nominal3,199/3,753. Nested affix morphology/general pada and wider source/written gates Open; execution/untouched suites/replay deferred.

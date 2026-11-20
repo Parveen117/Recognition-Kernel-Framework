@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG378 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG379 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG378 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG379 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4658,3 +4658,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG378 · Printed source layers as typed evidence for an owned lopa edge
 
 [Printed Bāla dhi ca](research/panini_grammar/dhi_ca_printed_bala_lut_alignment/README.md) locates scan52/printed41, entry2249 and lower commentary explicitly deleting tās-s. New evidence on the full PG14 carrier has a typed joint-history interface to the old owned tās/dh edge; zero recovery preserves source layer, raw mismatch and narrow Open channel. One source observation, zero word-position/readings; totals51,639 finite, nominal3,199/3,753. Printed Bāla alignment closed locally, digital repair/printed Tattva/narrow-request and wider gates Open; execution/untouched suites/replay deferred.
+
+## PG379 · Event-indexed nested causation and immediate-input visibility
+
+[Nested gam role contract](research/panini_grammar/nested_gam_immediate_input_and_causee_case/README.md) constructs one source-anchored syntax readout beyond PG14’s nonnested domain. Immediate-input aṇau visibility preserves inner objecthood, outer instrumental causee and causer-controlled active agreement. Full PG14 carrier/pairing and typed zero recovery retain these grades and the Open outer-affix continuation. No word/source credits; totals51,639 finite, nominal3,199/3,753. Wider gates Open; execution/untouched suites/replay deferred.

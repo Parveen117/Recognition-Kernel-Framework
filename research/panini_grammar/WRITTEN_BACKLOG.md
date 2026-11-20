@@ -1,6 +1,6 @@
-# Written-development backlog at PG378
+# Written-development backlog at PG379
 
-Monty · 20 November 2026 · reviewed parent `2126236a85741167635d8b9076d280f31089e8d9`.
+Monty · 20 November 2026 · reviewed parent `8cb5adb8f71d82f95dd528257f67fa71f2aed9da`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -49,6 +49,8 @@ PG374 supplies [causal-agent ktavatu masculine](bheditavat_causer_and_masculine_
 PG375 supplies [causal-agent feminine/neuter](bheditavat_feminine_nip_and_neuter_pause/README.md), 48 nominal keys/51 readings. PG372–375 selected causal patient/agent three-gender panels are locally CLOSED at144 keys/147 readings; feminine suffix ī versus neuter ending ī, num/nuṭ and pause alternatives retain owners. Earlier forward references to unconstructed causal ktavatu genders are now superseded on exactly this domain; other C2–C5/S1–S7 obligations remain Open, no finite/source credits.
 
 PG377 constructs [inanimate bhū/sthā causees](inanimate_bhu_stha_causees_and_pada_guards/README.md): two supplied causal-role/pada contracts, eight readouts, zero word-position/source credits. PG14 conscious controls remain frozen; non-conscious b keeps base agency and becomes outer object, while 1.3.88 no longer forces P. Result/upapada evidence determines active A/P and retained causer agreement. This closes only that C2 subdomain; unspecified causee identity, other roots/senses, double-karman/passive/nested/accent/native and S1–S7 remain Open.
+
+PG379 constructs [nested gam roles](nested_gam_immediate_input_and_causee_case/README.md), one syntactic contract/readout: Kāśikā1.4.52’s aṇau view reads the immediate already-causal input, retaining outer causee Devadatta instrumental, Yajñadatta accusative and Viṣṇumitra as active controller. This closes only that source-anchored role/case subdomain. Source-supplied gamayati is not a completed nested affix derivation; nested morphology/general pada and wider C2–C5/S1–S7 remain Open. Zero finite/nominal/source credits.
 
 ## Source readings: remain Open until positive evidence
 
