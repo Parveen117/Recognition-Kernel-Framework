@@ -1,4 +1,7 @@
-# Pāṇini grammar · current written coverage at PG390
+# Pāṇini grammar · current written coverage at PG391
+
+PG391 constructs [manth source/genitive controller change](manth_apadana_and_genitive_controller_change/README.md): two supplied-construal syntax/controller constructions/readouts,0 word/morphology/source credits. Explicit apādāna S receives ablative; product-relative nominal S receives genitive; sole karman nectar P now controls. Old akathita S-control is preserved. Shared kṣīranidheḥ/mathyate displays do not erase distinct case histories; unknown construal remains Open.
+
 
 PG390 constructs [manth secondary-object passive](manth_secondary_passive_and_owned_nasal_loss/README.md): one syntax/controller and one morphology construction/readout,0 finite/nominal/source credits. Exact1090047 churning selects ocean S over desired nectar P; yak-kit deletes owned root n to mathyate while preserving root identity. The idit violence homonym and other churning roots are not merged. Wider policies/frames/lakāras/source/native gates stay Open.
 
@@ -24,7 +27,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG390 add **10,306 finite positions**, taking the written total to **51,639**. The new lexical and compound work gives 3,245 nominal positions with 3,799 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG391 add **10,306 finite positions**, taking the written total to **51,639**. The new lexical and compound work gives 3,245 nominal positions with 3,799 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

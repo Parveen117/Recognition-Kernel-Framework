@@ -1,0 +1,111 @@
+{
+  "schema": "rkf.panini.pg391.state.v1",
+  "author": "Monty",
+  "date": "2026-11-20",
+  "publication_parent": "f05702d28b5e64721b26d322e1319a0b44e54d4b",
+  "baseline": {
+    "commit": "f05702d28b5e64721b26d322e1319a0b44e54d4b",
+    "path": "research/panini_grammar/manth_secondary_passive_and_owned_nasal_loss/STATE.json"
+  },
+  "finite_positions": 51639,
+  "nominal_positions": 3245,
+  "nominal_readings": 3799,
+  "new_syntactic_constructions": 2,
+  "new_syntactic_readouts": 2,
+  "construction_accounting": {
+    "frames": [
+      {
+        "id": "AKATHITA_OLD_CONTROL",
+        "new_credit": 0,
+        "S_role": "secondary karman",
+        "karmans": [
+          "P",
+          "S"
+        ],
+        "expressed": "S",
+        "S_case": "nom",
+        "P_case": "acc",
+        "A_case": "ins",
+        "controller": "S",
+        "readout_padas": [
+          "kṣīranidhiḥ",
+          "sudhām",
+          "devaiḥ",
+          "mathyate"
+        ]
+      },
+      {
+        "id": "EXPLICIT_APADANA",
+        "new_credit": 1,
+        "S_role": "apadana positively supplied as fixed separation-limit",
+        "karmans": [
+          "P"
+        ],
+        "expressed": "P",
+        "S_case": "abl",
+        "P_case": "nom",
+        "A_case": "ins",
+        "controller": "P",
+        "readout_padas": [
+          "kṣīranidheḥ",
+          "sudhā",
+          "devaiḥ",
+          "mathyate"
+        ]
+      },
+      {
+        "id": "PRODUCT_GENITIVE",
+        "new_credit": 1,
+        "S_role": "nominal sesha relation to P; no event-karaka assigned to this mention",
+        "karmans": [
+          "P"
+        ],
+        "expressed": "P",
+        "S_case": "gen",
+        "P_case": "nom",
+        "A_case": "ins",
+        "controller": "P",
+        "readout_padas": [
+          "kṣīranidheḥ",
+          "sudhā",
+          "devaiḥ",
+          "mathyate"
+        ]
+      }
+    ],
+    "old_akathita_control_credit": 0,
+    "new_case_word_credits": 0
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "actual unconstrued sentence and mixed/unknown source-role evidence",
+    "other source policies, number/person/lakara realizations, other manth/math roots",
+    "full nominal paradigms/external sandhi/accent/literary attestation for these authored clauses",
+    "wider C2-C5/S1-S7 and runtime integration"
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "new_morphological_constructions": 0,
+  "new_morphological_readouts": 0,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "new_compound_constructions": 0,
+  "new_compound_readouts": 0
+}

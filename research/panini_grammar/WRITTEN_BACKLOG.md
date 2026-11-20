@@ -1,6 +1,6 @@
-# Written-development backlog at PG390
+# Written-development backlog at PG391
 
-Monty · 20 November 2026 · reviewed parent `0ad9cb473d015e7fa7c8ef8b2a96d53c543fd91a`.
+Monty · 20 November 2026 · reviewed parent `f05702d28b5e64721b26d322e1319a0b44e54d4b`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -109,6 +109,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C2/C3 · Simple churning manth secondary passive at PG390
 
 [PG390](manth_secondary_passive_and_owned_nasal_loss/README.md) closes the supplied simple1090047 manth present3sg secondary-object passive: ocean S expressed/nominative/controller, desired nectar P accusative, plural agent instrumental. One syntax/controller plus one morphology construction/readout; yak-kit licenses owned anidit root-n lopa to mathyate.0 finite/nominal/source credits, no nī/duh or bhid recredit. Other manth/math homonyms, idit violence root, case construals/source policies, persons/lakāras/derived/nested/accent/native and S1–S7 remain Open.
+
+### C2 · Manth explicit source and nominal genitive at PG391
+
+[PG391](manth_apadana_and_genitive_controller_change/README.md) closes two supplied-construal role/controller contracts: explicit apādāna S→ablative and product-relative non-kāraka S→genitive. P is sole karman/nominative/controller in both; old PG390 akathita S-control stays frozen and gets0 credit. Two syntax constructions/readouts,0 word/morphology/source credits. PG390’s positive source/genitive construal alternatives are now locally constructed; actual unknown/mixed intentions, other policies/roots/persons/lakāras and wider S1–S7/C2–C5 stay Open. Equal kṣīranidheḥ case displays are not free semantic variation.
 
 ## Claude-deferred execution: separate gates
 

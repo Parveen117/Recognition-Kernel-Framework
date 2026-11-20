@@ -1,0 +1,93 @@
+{
+  "root": "1090047/09.0047",
+  "sense": "vilodane churning",
+  "preverbs": [],
+  "formation": "simple passive, no nic/san/yang",
+  "agreement_input": "A plural, P/S singular; third singular follows the actually expressed karman",
+  "frames": [
+    {
+      "id": "AKATHITA_OLD_CONTROL",
+      "new_credit": 0,
+      "S_role": "secondary karman",
+      "karmans": [
+        "P",
+        "S"
+      ],
+      "expressed": "S",
+      "S_case": "nom",
+      "P_case": "acc",
+      "A_case": "ins",
+      "controller": "S",
+      "readout_padas": [
+        "kṣīranidhiḥ",
+        "sudhām",
+        "devaiḥ",
+        "mathyate"
+      ]
+    },
+    {
+      "id": "EXPLICIT_APADANA",
+      "new_credit": 1,
+      "S_role": "apadana positively supplied as fixed separation-limit",
+      "karmans": [
+        "P"
+      ],
+      "expressed": "P",
+      "S_case": "abl",
+      "P_case": "nom",
+      "A_case": "ins",
+      "controller": "P",
+      "readout_padas": [
+        "kṣīranidheḥ",
+        "sudhā",
+        "devaiḥ",
+        "mathyate"
+      ]
+    },
+    {
+      "id": "PRODUCT_GENITIVE",
+      "new_credit": 1,
+      "S_role": "nominal sesha relation to P; no event-karaka assigned to this mention",
+      "karmans": [
+        "P"
+      ],
+      "expressed": "P",
+      "S_case": "gen",
+      "P_case": "nom",
+      "A_case": "ins",
+      "controller": "P",
+      "readout_padas": [
+        "kṣīranidheḥ",
+        "sudhā",
+        "devaiḥ",
+        "mathyate"
+      ]
+    }
+  ],
+  "source_generalization": "Tattva14051 explicitly contrasts cow source-ablative and cow as milk-related genitive; instantiate the distinction only on positively supplied manth frames",
+  "guards": {
+    "apadana": "true source-limit excludes local akathita assignment to same occurrence",
+    "genitive": "positive nominal relation and absence of event-karaka construal; not every source noun freely genitive",
+    "unknown": "Open construal, conditional controller/case branches, not free case optionality"
+  },
+  "morphology_reuse": "same1090047 root, no prefix/derivation, passive yak-kit and third-singular ta; preserve new frame labels while lifting PG390 owned sound events",
+  "accepted": [
+    "two new supplied-construal role/controller contracts",
+    "old akathita frame zero-credit control",
+    "unique P eligible after S ceases to be karman",
+    "case homography does not merge ablative/source and genitive/product relation"
+  ],
+  "excluded": [
+    "carry S-object promotion from PG390 after explicit apadana designation",
+    "keep fixed two-karman selector on a one-karman input",
+    "infer source role or genitive solely from ksiranidheh letters",
+    "infer semantic free variation or promote an unexpressed object from raw proximity",
+    "identify genitive dependent S as a new causal agent"
+  ],
+  "open": [
+    "actual unconstrued sentence and mixed/unknown source-role evidence",
+    "other source policies, number/person/lakara realizations, other manth/math roots",
+    "full nominal paradigms/external sandhi/accent/literary attestation for these authored clauses",
+    "wider C2-C5/S1-S7 and runtime integration"
+  ]
+}
