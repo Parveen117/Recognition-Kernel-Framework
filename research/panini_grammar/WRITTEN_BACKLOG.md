@@ -1,6 +1,6 @@
-# Written-development backlog at PG392
+# Written-development backlog at PG393
 
-Monty · 20 November 2026 · reviewed parent `0696ba53a850055c75a008ba6468e9be573e5c7a`.
+Monty · 20 November 2026 · reviewed parent `94cf7adb35e39bf1e96fd46929234472c080e786`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -117,6 +117,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C3 · Idit violence-root num/passive completion at PG392
 
 [PG392](idit_math_num_origin_and_violence_passive/README.md) closes1010044/01.0044’s supplied transitive violence passive laṭ A3sg, with one new finite position/reading. Original idit causes num, whose payload n survives yak-kit because6.4.24 anidit is false. Earlier PG390 bare manthyate spelling was not a completed position and explicitly left this own-sense domain Open. Churning1090047 and its old credit remain unchanged. Cumulative finite51,640; nominal3,245/3,799 unchanged. Intransitive suffering, other persons/lakāras/prefixes/derived forms, accent/attestation and wider C2–C5/S1–S7 remain Open.
+
+### C3 · Selected idit violence present-passive panel at PG393
+
+[PG393](idit_math_passive_present_persons_and_endings/README.md) completes9/9 selected laṭ A passive keys for1010044 with8 new positions/readings; PG3923sg0 credit. Dual ending ā→iy/y-lopa and first-du/pl yak-a lengthening are separately owned; agreement follows speaker/addressee/other patient, not actor. Cumulative51,648 finite; nominal3,245/3,799 unchanged. Earlier other-person Open references superseded only for this selected present panel. Other lakāras/senses/prefixes/derived/nested/accent/source/native and wider C2–C5/S1–S7 remain Open.
 
 ## Claude-deferred execution: separate gates
 

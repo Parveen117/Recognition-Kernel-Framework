@@ -198,3 +198,11 @@ PG391 document-check retry: lowercase unknown matcher failed against the written
 - Necessary explicit-Python3.12 changed-document/source/count checks only; actual result in packet. No generators/grammar/proof execution, old/navigation/engine suites/replay, ETA/global-completion/continuous-hours claim. Summaries/navigation/backlog/handoff updated; no agents/new automation.
 
 PG392 document-check retry: proof matcher used a paraphrased prior-cell phrase and lowercase intransitive instead of the actual written wording/case. Corrected those two document markers only; grammar/source/proof unchanged. Retry justified by matcher failure.
+
+## Completion continuation · PG393
+
+- Actual fetched parent `94cf7adb35e39bf1e96fd46929234472c080e786`, clean aligned repository, no overlapping mutation observed. [PG393](idit_math_passive_present_persons_and_endings/README.md) adds **8 new finite positions/8 readings**,0 nominal/source/other construction credits. Selected1010044 transitive violence laṭ passive closes9/9 keys with PG3923sg withheld. Cumulative **51,648 finite;3,245 nominal/3,799 readings**. Frozen predecessors/PG335/PG357–363 CLOSED preserved.
+- Exact PG392 root/idit/num/yak construction reused before completed3sg word; actual endpoints derive dual ā→iy/y-lopa/a+i guṇa,3pl ante/pararūpa,2sg se,1sg e/pararūpa,1du/pl yak-a lengthening. Patient speaker/addressee/other person/number supplied independently of external agent. NUM.n, Y.y/a/k and ending replacement/markers distinct; no actor/churning sense transfer.
+- Full PG14 carrier and typed zero proof supplied. Only selected present-passive panel closes; other lakāras/senses/prefixes/derived/nested/source/phonetic/native obligations remain Open. Necessary explicit-Python3.12 changed-document/source/count checks only; actual result in packet. No generators/grammar/proof execution, untouched suites/replay, ETA/global-completion/continuous-hours claim. Summaries/navigation/backlog/handoff updated; no agents/new automation.
+
+PG393 check retry: the first pass detected abbreviated sense/formation labels in the new panel against the frozen PG392 key. Restored the exact sense, formation and root-address strings on all nine STATE/RELATION rows and the literal TSV fields; meanings, word forms and credits remain unchanged. The corrected documents require a fresh check.

@@ -1,5 +1,8 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG393 completes [idit violence-root present passive](idit_math_passive_present_persons_and_endings/README.md):8 new finite positions/readings,9-key panel with old3sg0 credit; cumulative51,648. Actual dual ā→iy, first-person yak-a lengthening and patient-controlled person/number retain distinct owners. No nominal/source/other unit credits; other lakāras/senses/derived/source/native gates remain Open.
+
+
 PG392 completes [idit violence math passive](idit_math_num_origin_and_violence_passive/README.md): one new finite position/reading, cumulative51,640. Exact1010044 original idit causes teaching-stage num and blocks later6.4.24 n-lopa, yielding owned manthyate; churning1090047 stays separate. Old prose mentioned the spelling while explicitly leaving this own-sense passive Open. No nominal/source/other unit credits; wider written gates remain Open.
 
 
