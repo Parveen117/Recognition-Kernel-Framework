@@ -1,6 +1,6 @@
-# Written-development backlog at PG401
+# Written-development backlog at PG402
 
-Monty · 20 November 2026 · reviewed parent b51faff9bf9972063675aa4d4bc4505e2bf846d3.
+Monty · 20 November 2026 · reviewed parent c74b03e4a445e093142779eb59f495e3877c4490.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -153,6 +153,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C3/C4/S7 · Case-owned Vedic dual ubhā at PG401
 
 [PG401](ubha_vedic_dual_case_owners_and_owned_coalescence/README.md) completes selected masculine dual sup→ā and actual a+ā seam on supplied nominal/accusative roles and pre-junction accents. One morphology relation/two readouts, one newly addressed B accusative-dual/8.2.5 statement in the existing pinned blob; no independent witness or old-word credit. Nominative au versus accusative auṭ and marker ṭ histories remain distinct; normal ubhau has6.1.104's ic guard. Four source-qualified clause uses do not become four new constructions. Full lexical accent, unknown clause attachment, other cases/genders/numbers, source lineage and wider gates stay Open. S1 fresh GRETIL/Jayamaṅgalā lookup did not locate the exact quoted clause; no poem-absence, misattribution or closure claim.
+
+### C3/S7 · Calling-root huve bridge at PG402
+
+[PG402](huve_vedic_calling_root_and_owned_present_ending/README.md) completes the selected Vedic plain-present1sgA hveñ1011163 trace on supplied principal-result-to-agent and witnessed śap-luk/samprasāraṇa. Root ā/u/ū/uv and ending e retain separate owners; derived hu is not lexical sacrificing1030001.6.1.34 licenses this present, without manufacturing abhyasta premises from adjacent6.1.32/33 citations. One morphology unit/readout,0 new finite/nominal/source credits because huve was already quoted in prose. Full accent, other root/pada/person/lakāra/prefix policies and historical/full-verse/native/S1–S7/C2–C5 gates stay Open. No broad bahulam optionality or source-locator repair inferred.
 
 ## Claude-deferred execution: separate gates
 

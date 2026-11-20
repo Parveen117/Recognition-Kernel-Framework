@@ -1,5 +1,8 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG402 constructs [huve calling-root and owned present ending](huve_vedic_calling_root_and_owned_present_ending/README.md): one morphology construction/readout,0 new finite/nominal/source credits. Exact calling1011163 stays distinct from sacrificing1030001 through śap-luk, vocalisation/pūrvarūpa, length/uvaṅ and ending-owned e; speaker I controls1sgA on supplied result premise. Selected bridge closes, wider source/accent/native gates Open; totals51,648 finite,3,245 nominal/3,799 readings.
+
+
 PG401 constructs [ubhā Vedic dual case owners and seam](ubha_vedic_dual_case_owners_and_owned_coalescence/README.md): one morphology construction/two case-owned readouts and one addressed accusative-dual source observation. Nominative au and accusative auṭ retain distinct histories through actual ā and a+ā coalescence; ordinary a+au is protected by6.1.104. Pre-junction accent/roles are supplied, wider gates Open.0 new finite/nominal positions/readings; totals51,648 finite,3,245 nominal/3,799 readings.
 
 

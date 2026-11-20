@@ -1,0 +1,122 @@
+{
+  "input": {
+    "root": "1011163",
+    "address": "01.1163",
+    "teaching": "ह्वेञ्",
+    "sense": "शब्दे: calling/invoking D",
+    "preverbs": [],
+    "lakara": "LAT",
+    "voice": "AGENT",
+    "person": 1,
+    "number": "SG",
+    "controller": "I speaker, not addressed pair D",
+    "principal_result_recipient": "I supplied; food acquisition purpose from Q2",
+    "pada": "A",
+    "pada_entitlement": "original root ñit plus supplied principal-result-to-agent1.3.72",
+    "register": "VEDIC selected witnessed huve branch"
+  },
+  "events": [
+    {
+      "id": "ENDING",
+      "owner": "LAT_A_1SG",
+      "old": "iṭ",
+      "new": "e",
+      "rules": [
+        "3.4.78",
+        "3.4.79"
+      ],
+      "note": "whole single-vowel ti part becomes e; not it augment"
+    },
+    {
+      "id": "SHAP_LUK",
+      "owner": "S_SHAP",
+      "old": "a with original ś/p markers",
+      "new": "",
+      "rules": [
+        "2.4.73"
+      ],
+      "note": "witnessed Vedic luk; not a deleted yak or nic"
+    },
+    {
+      "id": "ROOT_ATVA",
+      "owner": "ROOT",
+      "old": "hve",
+      "new": "hvā",
+      "rules": [
+        "6.1.45"
+      ],
+      "note": "ā-normalized calling root before surviving non-shit ending; old teaching e retained"
+    },
+    {
+      "id": "VEDIC_SAMPRASARANA",
+      "owner": "ROOT.v",
+      "old": "v",
+      "new": "u",
+      "rules": [
+        "6.1.34"
+      ],
+      "note": "no reduplication premise supplied;6.1.32/33 not independently applicable here"
+    },
+    {
+      "id": "PURVARUPA",
+      "owner": "ROOT.u/ROOT.ā",
+      "old": "huā",
+      "new": "hu",
+      "rules": [
+        "6.1.108"
+      ],
+      "note": "root-internal coalescence, not coalescence with ending e"
+    },
+    {
+      "id": "SAMPRASARANA_LENGTH",
+      "owner": "ROOT.u",
+      "old": "hu",
+      "new": "hū",
+      "rules": [
+        "6.4.2"
+      ],
+      "note": "samprasarana after root consonant h; long-vowel ancestry persists"
+    },
+    {
+      "id": "UVANG",
+      "owner": "ROOT.ū",
+      "old": "hū + e",
+      "new": "huv + e",
+      "rules": [
+        "6.4.77"
+      ],
+      "note": "uvang replaces root vowel; final v belongs to root replacement, e to ending"
+    }
+  ],
+  "grade_guard": {
+    "ending": "apit sarvadhatuka by3.4.113",
+    "nit_like": "1.2.4",
+    "guṇa_block": "1.1.5 blocks7.3.84 grade; ending e is not root guna",
+    "root_identity_after_hu": "still1011163, not1030001"
+  },
+  "readout": {
+    "word": "huve",
+    "devanagari": "हुवे",
+    "owned_seam": "h_ROOT|uv_ROOT_REPLACEMENT|e_LAT_A_1SG",
+    "old_word_credit": 0
+  },
+  "accepted": [
+    "one selected witnessed Vedic present morphology bridge",
+    "first-person singular active speaker controller with A entitlement supplied",
+    "samprasarana then root-internal purvarupa then length/uvang preserve vowel ancestry"
+  ],
+  "excluded": [
+    "switch to sacrificing hu1030001 from current hu string",
+    "insert lexical ā preverb from root-internal ā",
+    "treat e as root guna or as it augment",
+    "infer present reduplication from nearby6.1.32/33 citations",
+    "make every Vedic hve present undergo shap-luk/samprasarana",
+    "promote ordinary P ahvayami commentary paraphrase into huve actual P ending"
+  ],
+  "open": [
+    "other hve padas/persons/lakaras/prefixes and actual source-qualified optionalities",
+    "complete accent/full-verse external sandhi and independent printed source alignment",
+    "unique historical parsing of ahuvadhya/ahuvadhyai and rival commentators",
+    "S1-S7/C2-C5 broader written grammar/native integration and Claude execution"
+  ]
+}
