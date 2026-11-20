@@ -1,5 +1,8 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG399 constructs [mādayadhyai word and saha-context accent](madayadhyai_word_and_saha_context_accent/README.md): one selected accent relation/two readouts;0 new word or source credits. F initial-U survives S/F ekādeśa; initial mā-S in the actual phrase comes from preceding saha-U. N.a remains lower before joint U. Selected non-nit local accent closes, rival/printed/full-verse gates Open; totals51,648 finite,3,245 nominal/3,799 readings.
+
+
 PG398 constructs [curādi mad single-ṇic satisfaction nonfinite](curadi_mad_single_nic_satisfaction_nonfinite/README.md): one nonfinite construction/readout and one lexical source observation;0 new finite/nominal positions/readings. Exact1100229/Kaumudī1706 supplies one svārtha ṇic and long-root control; semantic causation does not add an unlicensed outer H. Selected satisfaction adapter closes locally; historical/rival text/accent and wider gates Open. Totals51,648 finite,3,245 nominal/3,799 readings.
 
 

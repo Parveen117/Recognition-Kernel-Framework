@@ -1,6 +1,6 @@
-# Written-development backlog at PG398
+# Written-development backlog at PG399
 
-Monty · 20 November 2026 · reviewed parent `403d20f288f60da41eaa0877dcb1004f94729617`.
+Monty · 20 November 2026 · reviewed parent `0b7eaefbee75f8bfa69e29348026855338f2d365`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -141,6 +141,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### S7/C2/C4 · Selected curādi satisfaction adapter at PG398
 
 [PG398](curadi_mad_single_nic_satisfaction_nonfinite/README.md) constructs the selected1100229/10.0229 satisfaction path under Kaumudī1706 mad tṛptiyoge/mādayate and3.1.25 svārtha ṇic. One nonfinite construction/readout and one lexical source observation,0 word credits. One N, no outer H; root ā, N.ay and S/F junction retain ownership. PG397 precise adapter Open references are superseded only for this declared source-compatible satisfaction arm, not every historical abbreviated citation. Full authorial root identity, U bhojana/M harṣa and mit override, original suffix/accent/raw text, printed/verse/general śap scope and wider C2–C5/S1–S7/native gates remain Open. Separate lexical numbering1705/1706 retained.
+
+### S7/C4 · Selected word/context accent at PG399
+
+[PG399](madayadhyai_word_and_saha_context_accent/README.md) completes selected PG398 non-nit F accent and one supplied saha context: authored isolated मा॒द॒यध्यै॑ versus exact reused phrase स॒ह मा॑द॒यध्यै॑. One accent construction/two readouts,0 word/source credits. F.initial-a U and S.a A coalesce with U preserved; external saha-U gives contextual initial mā-S while N.a before joint U remains lower. Earlier selected-accent Open references superseded only here. Rival nit/root/source analyses, original readings, independent printed/padapāṭha/phonetic and full-verse/native/wider gates stay Open; isolated readout is authored, not a new attestation.
 
 ## Claude-deferred execution: separate gates
 

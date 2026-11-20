@@ -1,4 +1,7 @@
-# Pāṇini grammar · current written coverage at PG398
+# Pāṇini grammar · current written coverage at PG399
+
+PG399 constructs [mādayadhyai word and saha-context accent](madayadhyai_word_and_saha_context_accent/README.md): one selected accent relation/two readouts;0 new word or source credits. F initial-U survives S/F ekādeśa; initial mā-S in the actual phrase comes from preceding saha-U. N.a remains lower before joint U. Selected non-nit local accent closes, rival/printed/full-verse gates Open; totals51,648 finite,3,245 nominal/3,799 readings.
+
 
 PG398 constructs [curādi mad single-ṇic satisfaction nonfinite](curadi_mad_single_nic_satisfaction_nonfinite/README.md): one nonfinite construction/readout and one lexical source observation;0 new finite/nominal positions/readings. Exact1100229/Kaumudī1706 supplies one svārtha ṇic and long-root control; semantic causation does not add an unlicensed outer H. Selected satisfaction adapter closes locally; historical/rival text/accent and wider gates Open. Totals51,648 finite,3,245 nominal/3,799 readings.
 
@@ -48,7 +51,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG398 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,245 nominal positions with 3,799 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG399 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,245 nominal positions with 3,799 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
