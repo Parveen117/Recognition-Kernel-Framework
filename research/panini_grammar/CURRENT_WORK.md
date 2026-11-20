@@ -1,4 +1,7 @@
-# Pāṇini grammar · current written coverage at PG394
+# Pāṇini grammar · current written coverage at PG395
+
+PG395 adds [direct RV7.92.2 piba witness and selected nit accent](pibadhyai_rigveda_witness_and_nit_accent/README.md): one source observation and one accent construction/readout;0 new finite/nominal/nonfinite word credits. Source saṃhitā/pada पिब॑ध्यै and Sāyaṇa's drinking-purpose gloss align with owned F.n→initial U→dependent S. Rival suffix/edition and wider gates stay Open; totals51,648 finite,3,245 nominal/3,799 readings.
+
 
 PG394 constructs [pibadhyai bhāva through yak-luk](pibadhyai_bhava_and_deleted_yak/README.md): one newly addressed Padamañjarī source observation and one nonfinite construction/readout;0 new finite/nominal positions/readings. Surviving F.śit licenses piba after owned Y-luk while bhāva persists. Competing śadhyai/śadhyain policies, damaged Nyāsa and accent remain explicit/Open; totals51,648 finite,3,245 nominal/3,799 readings.
 
@@ -36,7 +39,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG394 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,245 nominal positions with 3,799 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG395 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,245 nominal positions with 3,799 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

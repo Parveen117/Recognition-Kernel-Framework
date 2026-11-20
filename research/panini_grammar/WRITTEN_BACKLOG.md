@@ -1,6 +1,6 @@
-# Written-development backlog at PG394
+# Written-development backlog at PG395
 
-Monty · 20 November 2026 · reviewed parent `59664d52d7aa1125d751f0bbdcf7a5d464b6d566`.
+Monty · 20 November 2026 · reviewed parent `c510487b9ed3e80819f363768bcb9fd430b0aa46`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -125,6 +125,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### S7/C4 · Padamañjarī yak-luk and nonfinite bhāva at PG394
 
 [PG394](pibadhyai_bhava_and_deleted_yak/README.md) positively addresses revision402553's pibadhyai yak-luk/piba explanation and constructs its owned nonfinite bhāva payload. One source observation and one nonfinite construction/readout,0 finite/nominal positions/readings; old PG44 source word gets0 credit. Surviving suffix F.ś, rather than removed Y, supplies7.3.78's consumer condition. Śadhyai/śadhyain policies keep separate marker histories and one unaccented display. Damaged Nyāsa label/ksen, unique accent/assignment reconciliation, exact canonical scope/number of cited yak-luk licence, printed/verse collation, causal madayadhyai and other sayādi/source/native gates remain Open. The new positive local bridge does not close all3.4.9 or S7.
+
+### S7/C4 · Direct RV7.92.2 witness and nit accent at PG395
+
+[PG395](pibadhyai_rigveda_witness_and_nit_accent/README.md) directly locates complete verse2, saṃhitā/pada पिब॑ध्यै and labelled Sāyaṇa drinking-purpose gloss in revision201440. One source observation and one selected Kaumudī śadhyain accent construction/readout,0 new word or old-locator/nonfinite credits. Surviving F.n gives initial U; owned joint-a receives dependent S without deleting that U, and following ai uses the selected ekaśruti display. The local electronic word witness and selected accent path now close; earlier Open references superseded only there. Unique rival suffix/marker/nipātana reconciliation, raw Nyāsa/digital duplicate, printed/phonetic/full-verse and exact yak-luk scope remain Open; all wider C2–C5/S1–S7 gates remain genuine.
 
 ## Claude-deferred execution: separate gates
 

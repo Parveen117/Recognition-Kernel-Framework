@@ -1,0 +1,93 @@
+{
+  "input": {
+    "predecessor": "PG394 owned unaccented piba payload",
+    "root": "1011074",
+    "address": "01.1074",
+    "sense": "pāne drinking",
+    "preverbs": [],
+    "formation": "Vedic tumartha/bhava nonfinite",
+    "suffix": "śadhyain",
+    "original_markers": [
+      "ś",
+      "n"
+    ],
+    "selected_policy": "KAUMUDI_34009_PIBA",
+    "deleted_instance": "Y_yak_luk",
+    "surviving_instance": "F_śadhyain",
+    "finite_agreement": null
+  },
+  "vowels": [
+    {
+      "index": 0,
+      "segment": "i",
+      "owner": "piba_R",
+      "primary_accent": "U",
+      "continuous_accent": "U"
+    },
+    {
+      "index": 1,
+      "segment": "a",
+      "owner": "root-final a / F-initial a coalescence",
+      "primary_accent": "A",
+      "continuous_accent": "S_DEPENDENT"
+    },
+    {
+      "index": 2,
+      "segment": "ai",
+      "owner": "F_adhyai",
+      "primary_accent": "A",
+      "continuous_accent": "EKASHRUTI_AFTER_S"
+    }
+  ],
+  "trace": [
+    {
+      "event": "NIT_INITIAL_UDATTA",
+      "rule": "6.1.197",
+      "guard": "surviving F original n-it, not deleted Y or sounded n",
+      "effect": "i_R is U"
+    },
+    {
+      "event": "OTHER_VOWELS_ANUDATTA",
+      "rule": "6.1.158",
+      "guard": "one specifically prescribed word accent",
+      "effect": "joint a and suffix ai are A before continuous-tone rules"
+    },
+    {
+      "event": "DEPENDENT_SVARITA",
+      "rule": "8.4.66",
+      "guard": "joint a is immediately after U; following ai is A so8.4.67 blocking premise absent",
+      "effect": "joint a is S_DEPENDENT"
+    },
+    {
+      "event": "POST_SVARITA_EKASHRUTI",
+      "rule": "1.2.39",
+      "guard": "continuous internal word display, remaining ai originally A after S",
+      "effect": "ai receives post-svarita ekashruti reading in selected notation"
+    }
+  ],
+  "word": "pibadhyai",
+  "devanagari_readout": "पिब॑ध्यै",
+  "witness_token_samhita": "पिब॑ध्यै",
+  "witness_token_padapatha": "पिब॑ध्यै",
+  "semantic_gloss": "pānārtham; source distinguishes soma-presser/adhvaryu from Indra-Vayu beneficiaries of the drinking purpose",
+  "accepted": [
+    "one selected nit accent adapter and one displayed readout matched to addressed witness",
+    "observed direct RV7.92.2 whole verse/pada/gloss alignment",
+    "0 old finite/nominal/nonfinite word credits"
+  ],
+  "excluded": [
+    "read the visible svarita mark above ba as primary udātta on ba",
+    "treat accent transcription as an audio measurement",
+    "infer unique original suffix marker from the observed word alone",
+    "replace bhava with kartari or matrix-presser agreement",
+    "use deleted yak marker to admit the nit accent",
+    "silently repair the raw indray duplicate or old Nyasa label"
+  ],
+  "open": [
+    "un-nitted policy full accent/competition and unique shadhyai-shadhyain assignment reconciliation",
+    "printed/independent editions, acoustic/recitation variants and whole-verse sound derivations",
+    "damaged Nyasa label/ksen and source-transmission cause",
+    "exact canonical scope/number of cited yak-luk licence; causal madayadhyai and other sayadi clauses",
+    "wider C2-C5/S1-S7/native integration and Claude-deferred execution"
+  ]
+}
