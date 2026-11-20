@@ -1,6 +1,6 @@
-# Written-development backlog at PG385
+# Written-development backlog at PG386
 
-Monty · 20 November 2026 · reviewed parent `7f2a4a0d89a9fd45e5839444b778aab36bf446d5`.
+Monty · 20 November 2026 · reviewed parent `638ca55ce0911ff30d214e35baee1983e5e1f47c`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -89,6 +89,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### S7 · Reported gaṇa-membership explanation and owned luk at PG385
 
 [PG385](gotra_dvandva_luk_and_reported_gana_objection/README.md) addresses Tattva24069’s reported Kaiyaṭa anārṣa objection on its particular Bhraṣṭraka–Kapiṣṭhala example. One source observation, not independent original Bhāṣya/Kaiyaṭa evidence or removal of all overlaps. Selected Upaka–Lamaka has one compound construction/two uniform readouts under preserved K versus SK policies: paired whole-phak luk blocks its aṅga effects under1.1.63; inner-sup luk has another owner. Both source words already old,0 finite/nominal credits. Original witnesses, damaged/variant other-pair text, mixed-member paths and wider C2–C5/S1–S7 remain Open. Earlier2.4.69 policy distinction is preserved, not recounted or harmonized.
+
+### S7/C5 · Git consumer views and the owned nasal trace at PG386
+
+[PG386](git_consumer_views_and_dams_nasal_owners/README.md) supplies one selected kṛt morphology construction/readout, with four operation-indexed marker views and the full reported Vedic daṃś trace. Old daṅkṣṇavaḥ/git source decisions have0 word/source credits. Selected K/SK git condition covers root guṇa/iṭ, but not6.4.66/24; root and suffix nasals and outer jas guṇa remain separately owned. This closes that local query/formation contract, not the rival kit nasal-preservation/segmentation policy, independent Saṃhitā/accent collation, full Vedic paradigm or universal native adapter. Other S7/S1–S6/C2–C5 stay Open.
 
 ## Claude-deferred execution: separate gates
 

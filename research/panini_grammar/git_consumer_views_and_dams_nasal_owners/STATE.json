@@ -1,0 +1,129 @@
+{
+  "schema": "rkf.panini.pg386.state.v1",
+  "author": "Monty",
+  "date": "2026-11-20",
+  "publication_parent": "638ca55ce0911ff30d214e35baee1983e5e1f47c",
+  "baseline": {
+    "commit": "638ca55ce0911ff30d214e35baee1983e5e1f47c",
+    "path": "research/panini_grammar/gotra_dvandva_luk_and_reported_gana_objection/STATE.json"
+  },
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "new_morphological_constructions": 1,
+  "new_morphological_readouts": 1,
+  "new_syntactic_constructions": 0,
+  "new_syntactic_readouts": 0,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "new_compound_constructions": 0,
+  "new_compound_readouts": 0,
+  "finite_positions": 51639,
+  "nominal_positions": 3245,
+  "nominal_readings": 3799,
+  "construction_accounting": {
+    "unit": "one selected git-krt derivation with four addressed marker views",
+    "marker_queries": [
+      {
+        "consumer": "1.1.5",
+        "view": "guna_vrddhi_marker_blocker",
+        "g_included": true,
+        "scope": "affix-caused root grade only; actual other root/operation guards still required"
+      },
+      {
+        "consumer": "7.2.11",
+        "view": "it_prohibition_marker_guard",
+        "g_included": true,
+        "scope": "requires sri/one-vowel uk-ending root; dams is not an example of this root condition"
+      },
+      {
+        "consumer": "6.4.66",
+        "view": "stha_ii_marker_guard",
+        "g_included": false,
+        "scope": "do not import g inclusion from1.1.5 or7.2.11"
+      },
+      {
+        "consumer": "6.4.24",
+        "view": "root_upadha_n_lopa_marker_guard",
+        "g_included": false,
+        "scope": "dams is anidit consonant-final but git is not kit/ngit on this consumer"
+      }
+    ],
+    "trace": [
+      {
+        "event": "ROOT_ID",
+        "owned": "R.dental_n plus R.final_sh",
+        "display": "danś",
+        "evidence": "1011144/01.1144 dansha-biting; teaching dansham anunasika-a is it, not idit"
+      },
+      {
+        "event": "VEDIC_GIT_KRT",
+        "owned": "P.g_marker and P.s/P.n/P.u",
+        "display": "danś|snu",
+        "evidence": "selected K/SK32139; final root n not deleted by6.4.24; no shap6.4.25; root-conditioned no-it7.2.10 rather than7.2.11"
+      },
+      {
+        "event": "S_TO_RETROFLEX_THEN_K",
+        "owned": "R.final_sh",
+        "display": "danṣ|snu → dank|snu",
+        "evidence": "8.2.36 then8.2.41 before actual affix s"
+      },
+      {
+        "event": "ROOT_N_ANUSVARA",
+        "owned": "R.dental_n",
+        "display": "daṃk|snu",
+        "evidence": "8.3.24 not whole nasal deletion"
+      },
+      {
+        "event": "AFFIX_S_RETROFLEX",
+        "owned": "P.s",
+        "display": "daṃk|ṣnu",
+        "evidence": "8.3.59 following k"
+      },
+      {
+        "event": "AFFIX_N_RETROFLEX",
+        "owned": "P.n",
+        "display": "daṃk|ṣṇu",
+        "evidence": "8.4.1; different from R.n"
+      },
+      {
+        "event": "ROOT_N_HOMORGANIC",
+        "owned": "R.dental_n via anusvara",
+        "display": "daṅk|ṣṇu",
+        "evidence": "8.4.58 before actual k; yields velar nasal, not suffix retroflex nasal"
+      },
+      {
+        "event": "SELECTED_NOM_PL",
+        "owned": "P.u now stem-final; J.jas separate",
+        "display": "daṅkṣṇu|as → daṅkṣṇo|as → daṅkṣṇav|as → daṅkṣṇavaḥ",
+        "evidence": "1.3.7 jas marker; selected Vedic guṇa branch7.3.109,6.1.78,8.2.66/8.3.15; no root-grade blocker transported across owner"
+      }
+    ],
+    "word": "daṅkṣṇavaḥ",
+    "new_word_credits": 0,
+    "query_rows_are_not_independent_word_credits": true
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "authorization": {
+    "completion_status": "OPEN wider written gates",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "open_obligations": [
+    "rival kit analysis needs its own nasal preservation and stha-aa segmentation/policy account",
+    "independent Samhita manuscript/edition and accent realization",
+    "other Vedic jas branches/full nominal panel and lexical senses/prefixes",
+    "broader S1-S7/C2-C5 native/grammar contracts"
+  ]
+}

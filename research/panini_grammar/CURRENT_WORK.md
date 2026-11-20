@@ -1,5 +1,8 @@
 # Pāṇini grammar · current written coverage at PG384
 
+PG386 constructs [git consumer views and owned daṃś nasals](git_consumer_views_and_dams_nasal_owners/README.md): one kṛt morphology construction/readout with four rule-indexed marker views;0 finite/nominal/source credits. Original git enters root guṇa/iṭ conditions but not6.4.66/24; root n→ṅ differs from suffix n→ṇ, and outer jas has its own guṇa owner. Reported Vedic source word is old. Rival kit policy, independent Saṃhitā/accent and wider gates remain Open.
+
+
 PG385 constructs [gotra dvandva whole-affix luk](gotra_dvandva_luk_and_reported_gana_objection/README.md): one compound construction/two uniform readouts and one newly addressed Tattva report of a Kaiyaṭa gaṇa-list objection. Upaka–Lamaka retains independent phak/inner-sup owners;1.1.63 blocks lost-affix aṅga triggers. Old source words receive0 finite/nominal credits. Original Bhāṣya/Kaiyaṭa/other-pair textual reconciliation and wider gates stay Open.
 
 
@@ -9,7 +12,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG385 add **10,306 finite positions**, taking the written total to **51,639**. The new lexical and compound work gives 3,245 nominal positions with 3,799 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG386 add **10,306 finite positions**, taking the written total to **51,639**. The new lexical and compound work gives 3,245 nominal positions with 3,799 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

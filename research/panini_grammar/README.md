@@ -1,5 +1,8 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG386 constructs [git consumer views and owned daṃś nasals](git_consumer_views_and_dams_nasal_owners/README.md): one kṛt morphology construction/readout with four rule-indexed marker views;0 finite/nominal/source credits. Original git enters root guṇa/iṭ conditions but not6.4.66/24; root n→ṅ differs from suffix n→ṇ, and outer jas has its own guṇa owner. Reported Vedic source word is old. Rival kit policy, independent Saṃhitā/accent and wider gates remain Open.
+
+
 PG385 constructs [gotra dvandva whole-affix luk](gotra_dvandva_luk_and_reported_gana_objection/README.md): one compound construction/two uniform readouts and one newly addressed Tattva report of a Kaiyaṭa gaṇa-list objection. Upaka–Lamaka retains independent phak/inner-sup owners;1.1.63 blocks lost-affix aṅga triggers. Old source words receive0 finite/nominal credits. Original Bhāṣya/Kaiyaṭa/other-pair textual reconciliation and wider gates stay Open.
 
 
