@@ -1,0 +1,65 @@
+{
+  "source_observation": {
+    "unit": "ADDRESSED_KASHIKA_24028_GENDER_WITNESS",
+    "credit": 1,
+    "raw_archive": "kashika.txt@5744762f010d677cfb43f347a42d02796cf615d6:24028",
+    "raw_status": "MISASSIGNED_NONOPERATIVE_LITERAL_FIELD",
+    "new_witness": "Sanskrit Wikisource revision90381:2-4-28",
+    "new_status": "ADDRESSED_ELECTRONIC_GENDER_WITNESS",
+    "decision": "source-qualified Kasika first-member gender support positively located; old archive not renamed or repaired"
+  },
+  "frames": [
+    {
+      "compound": "hemanta-sisira",
+      "input_genders": [
+        "m",
+        "n"
+      ],
+      "register": "supplied chandas",
+      "result_gender": "m",
+      "reported_control": "hemantasishirau",
+      "control_new_word_credit": 0
+    },
+    {
+      "compound": "ahar-ratri",
+      "input_genders": [
+        "n",
+        "f"
+      ],
+      "register": "supplied chandas",
+      "result_gender": "n",
+      "reported_controls": [
+        "ahoratre",
+        "ahoratrani"
+      ],
+      "control_new_word_credit": 0
+    }
+  ],
+  "scope": {
+    "number": "source explicitly not restricted to dual; plural control reported",
+    "meaning": "artha-atidesa, not frozen nipatana",
+    "vedic_guard": "true accepted local first-member edge; false excludes only that Vedic edge; unknown Open",
+    "ordinary": "retain matched2.4.26/29 gender paths; source reports neuter hemantasishire and masculine ahoratrau",
+    "lexical_gender": "selected input genders; no universal decision that sisira has no other lexical tradition",
+    "verbal_root_prefix_voice_affix": "not a verbal root/voice/lakara claim; no new affix inserted by gender source attachment"
+  },
+  "accepted": [
+    "new electronic Kasika witness corroborates adopted first-member-gender contract",
+    "old misassigned field remains addressable nonoperative evidence",
+    "source-level plural example supports number-independent gender rule on admitted compounds"
+  ],
+  "excluded": [
+    "overwrite frozen kashika24028 with new text",
+    "infer whole-file key offset or proven transmission cause",
+    "treat old deity-affix topic as gender evidence",
+    "infer general Classical first-member gender from Vedic clause",
+    "count old quoted dual/plural controls as new nominal words"
+  ],
+  "open": [
+    "upstream wrong-key transmission cause and repair history",
+    "independent printed/manuscript Kasika collation and electronic witness lineage",
+    "literal citations/tag defects and precise Vedic source-locus reconciliation",
+    "full compound morphology/accent and other lexical-gender policies",
+    "other S1-S7/C2-C5 written/native contracts"
+  ]
+}

@@ -1,5 +1,8 @@
 # Pāṇini grammar · current written coverage at PG384
 
+PG387 adds [addressed Kāśikā2.4.28 gender witness](kashika_24028_addressed_gender_witness/README.md): one source observation,0 finite/nominal/construction credits. Revision90381 supplies the correct-topic first-member Vedic gender/number clause; the frozen misassigned deity field stays nonoperative. Rendered excerpt provenance is explicit, no raw-HTML/scan or manuscript claim. Transmission cause/repair, independent editions and wider gates remain Open.
+
+
 PG386 constructs [git consumer views and owned daṃś nasals](git_consumer_views_and_dams_nasal_owners/README.md): one kṛt morphology construction/readout with four rule-indexed marker views;0 finite/nominal/source credits. Original git enters root guṇa/iṭ conditions but not6.4.66/24; root n→ṅ differs from suffix n→ṇ, and outer jas has its own guṇa owner. Reported Vedic source word is old. Rival kit policy, independent Saṃhitā/accent and wider gates remain Open.
 
 
@@ -12,7 +15,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG386 add **10,306 finite positions**, taking the written total to **51,639**. The new lexical and compound work gives 3,245 nominal positions with 3,799 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG387 add **10,306 finite positions**, taking the written total to **51,639**. The new lexical and compound work gives 3,245 nominal positions with 3,799 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

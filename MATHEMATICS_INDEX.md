@@ -1,5 +1,8 @@
 # Canonical Mathematics Index
 
+PG387 adds [addressed Kāśikā2.4.28 gender witness](research/panini_grammar/kashika_24028_addressed_gender_witness/README.md): one source observation,0 finite/nominal/construction credits. Revision90381 supplies the correct-topic first-member Vedic gender/number clause; the frozen misassigned deity field stays nonoperative. Rendered excerpt provenance is explicit, no raw-HTML/scan or manuscript claim. Transmission cause/repair, independent editions and wider gates remain Open.
+
+
 PG386 constructs [git consumer views and owned daṃś nasals](research/panini_grammar/git_consumer_views_and_dams_nasal_owners/README.md): one kṛt morphology construction/readout with four rule-indexed marker views;0 finite/nominal/source credits. Original git enters root guṇa/iṭ conditions but not6.4.66/24; root n→ṅ differs from suffix n→ṇ, and outer jas has its own guṇa owner. Reported Vedic source word is old. Rival kit policy, independent Saṃhitā/accent and wider gates remain Open.
 
 
@@ -7,7 +10,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG386 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG387 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 

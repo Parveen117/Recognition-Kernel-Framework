@@ -1,6 +1,6 @@
-# Written-development backlog at PG386
+# Written-development backlog at PG387
 
-Monty · 20 November 2026 · reviewed parent `638ca55ce0911ff30d214e35baee1983e5e1f47c`.
+Monty · 20 November 2026 · reviewed parent `e21b67bbad45bfd54dcc1fce54a24a502310f960`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -93,6 +93,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### S7/C5 · Git consumer views and the owned nasal trace at PG386
 
 [PG386](git_consumer_views_and_dams_nasal_owners/README.md) supplies one selected kṛt morphology construction/readout, with four operation-indexed marker views and the full reported Vedic daṃś trace. Old daṅkṣṇavaḥ/git source decisions have0 word/source credits. Selected K/SK git condition covers root guṇa/iṭ, but not6.4.66/24; root and suffix nasals and outer jas guṇa remain separately owned. This closes that local query/formation contract, not the rival kit nasal-preservation/segmentation policy, independent Saṃhitā/accent collation, full Vedic paradigm or universal native adapter. Other S7/S1–S6/C2–C5 stay Open.
+
+### S7 · Correct-topic Kāśikā2.4.28 witness at PG387
+
+[PG387](kashika_24028_addressed_gender_witness/README.md) positively locates revision90381’s Kāśikā gender passage under2.4.28, with artha-atideśa/number-not-dual-only and plural control. One new addressed electronic witness/observation;0 word/construction credits, no independent manuscript lineage claim. The correct-topic locator obligation closes on this electronic-witness domain. Original upstream24028 stays misassigned/nonoperative and frozen. Raw-field transmission cause/repair, independent printed/manuscript collation, literal Vedic citations and broader S7/S1–S6/C2–C5 remain Open.
 
 ## Claude-deferred execution: separate gates
 
