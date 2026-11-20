@@ -1,0 +1,56 @@
+{
+  "schema": "rkf.panini.pg400.state.v1",
+  "author": "Monty",
+  "date": "2026-11-20",
+  "publication_parent": "bebb2a235426111dddd5bb1d0c0e6448d972f2a5",
+  "baseline": {
+    "commit": "bebb2a235426111dddd5bb1d0c0e6448d972f2a5",
+    "path": "research/panini_grammar/madayadhyai_word_and_saha_context_accent/STATE.json"
+  },
+  "finite_positions": 51648,
+  "nominal_positions": 3245,
+  "nominal_readings": 3799,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 1,
+  "new_syntactic_constructions": 2,
+  "new_syntactic_readouts": 2,
+  "position_accounting": {
+    "forms": [],
+    "old_word_credit": 0,
+    "old_mad_retention_credit": 0
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "unique attachment when E_SATISFY versus invocation is not supplied",
+    "original printed/manuscript lineage and attribution of expanded source; modern transcription errors not repaired",
+    "other referents e.g. stuti in second repeated paragraph and unselected case/number paradigms",
+    "full Vedic external sandhi/accent/recitation of this nominal in the verse",
+    "U/M/B historical reconciliation and ahuvadhya/ahuvadhyai, rival mad root/suffix readings",
+    "C2-C5/S1-S7 wider grammar/native integration and Claude-deferred execution"
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "new_morphological_constructions": 0,
+  "new_morphological_readouts": 0,
+  "new_accent_constructions": 0,
+  "new_accent_readouts": 0,
+  "new_compound_constructions": 0,
+  "new_compound_readouts": 0
+}

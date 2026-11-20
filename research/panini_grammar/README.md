@@ -1,5 +1,8 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG400 constructs [rādhasaḥ Vedic case and event attachment](radhas_vedic_case_replacement_and_event_attachment/README.md): two supplied-role syntax contracts/two readouts and one labelled Bhaṭṭabhāskara case-choice observation. Means/genitive and cause/ablative retain different role/sup histories behind one paused display; substance-cause2.3.25 is not misapplied.0 new finite/nominal positions/readings; totals51,648 finite,3,245 nominal/3,799 readings. Selected bridge closes, unsupplied attachments/source lineage and wider gates Open.
+
+
 PG399 constructs [mādayadhyai word and saha-context accent](madayadhyai_word_and_saha_context_accent/README.md): one selected accent relation/two readouts;0 new word or source credits. F initial-U survives S/F ekādeśa; initial mā-S in the actual phrase comes from preceding saha-U. N.a remains lower before joint U. Selected non-nit local accent closes, rival/printed/full-verse gates Open; totals51,648 finite,3,245 nominal/3,799 readings.
 
 

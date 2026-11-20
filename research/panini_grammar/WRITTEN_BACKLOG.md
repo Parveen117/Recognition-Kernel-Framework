@@ -1,6 +1,6 @@
-# Written-development backlog at PG399
+# Written-development backlog at PG400
 
-Monty · 20 November 2026 · reviewed parent `0b7eaefbee75f8bfa69e29348026855338f2d365`.
+Monty · 20 November 2026 · reviewed parent `bebb2a235426111dddd5bb1d0c0e6448d972f2a5`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -145,6 +145,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### S7/C4 · Selected word/context accent at PG399
 
 [PG399](madayadhyai_word_and_saha_context_accent/README.md) completes selected PG398 non-nit F accent and one supplied saha context: authored isolated मा॒द॒यध्यै॑ versus exact reused phrase स॒ह मा॑द॒यध्यै॑. One accent construction/two readouts,0 word/source credits. F.initial-a U and S.a A coalesce with U preserved; external saha-U gives contextual initial mā-S while N.a before joint U remains lower. Earlier selected-accent Open references superseded only here. Rival nit/root/source analyses, original readings, independent printed/padapāṭha/phonetic and full-verse/native/wider gates stay Open; isolated readout is authored, not a new attestation.
+
+### C4/S7 · Supplied rādhas case/attachment bridge at PG400
+
+[PG400](radhas_vedic_case_replacement_and_event_attachment/README.md) completes two supplied-role case bridges: most-effective means→ordinary instrumental→Vedic genitive, cause→ordinary instrumental→source-local Vedic ablative. Both paused rādhasaḥ readouts retain original relation and actual sup; source word has0 nominal credit. One new labelled Bhaṭṭabhāskara case-choice observation; Sāyaṇa corroborates, old ṇic-retention receives0 recredit. Exact expanded Markdown blob/commit pinned; no independent printed/manuscript lineage or authorial reconciliation claim.2.3.25 does not supply an unrestricted substance-cause ablative, and adjacent saha does not assign R accompaniment. Unspecified event attachment, other referents/numbers, full nominal accent/recitation and historical U/M/B reconciliation stay Open alongside wider C2–C5/S1–S7. Fresh S5 lookup yielded no positive closure; its four exact fields remain Open.
 
 ## Claude-deferred execution: separate gates
 

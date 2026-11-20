@@ -1,0 +1,99 @@
+{
+  "input": {
+    "stem": "rādhas",
+    "stem_status": "SUPPLIED lexical s-stem; no newly constructed root/krt/Unadi",
+    "referent": "R: supplied havis/odana offering; wealth paraphrase source-qualified",
+    "number": "SG",
+    "event": "E_SATISFY(I,D)",
+    "root_adapter": "PG398 curadi1100229/trptiyoga, one svartha N, S=shap, F=non-nit shadhyai; no new exact root identification imposed on BhattaBhaskara",
+    "preverbs": [],
+    "voice": "NONFINITE_PURPOSE; no new finite P/A or agreement",
+    "anabhihita": true,
+    "source_policy": "B labelled commentary; no identification of all U/M/B graphs"
+  },
+  "branches": [
+    {
+      "id": "B_MEANS_GENITIVE",
+      "semantic_role": "KARANA",
+      "attachment": "E_SATISFY",
+      "ordinary_case": "TRTIYA",
+      "ordinary_case_rule": "2.3.18",
+      "replacement_case": "SASTHI",
+      "replacement_sup": "ṅas",
+      "replacement_license": "7.1.39 supam supo bhavanti; witnessed local means reading",
+      "number": "SG",
+      "display": "rādhasaḥ",
+      "devanagari": "राधसः",
+      "readout": "R is supplied most effective means/offering for I satisfying D; actual genitive sup preserves instrumental meaning"
+    },
+    {
+      "id": "B_CAUSE_ABLATIVE",
+      "semantic_role": "HETU",
+      "attachment": "E_SATISFY",
+      "ordinary_case": "TRTIYA",
+      "ordinary_case_rule": "2.3.23",
+      "replacement_case": "PANCAMI",
+      "replacement_sup": "ṅasi",
+      "replacement_license": "source-local Vedic case replacement under7.1.39; not generic substance-cause2.3.25",
+      "number": "SG",
+      "display": "rādhasaḥ",
+      "devanagari": "राधसः",
+      "readout": "R is supplied cause/occasion for I satisfying D; witnessed ablative preserves cause relation"
+    }
+  ],
+  "sup_interface": {
+    "status": "SUPPLIED effective consonant-stem sup payload; not new complete it-lopa/paradigm construction",
+    "formal_endings": [
+      "ṅas",
+      "ṅasi"
+    ],
+    "effective_payloads": [
+      "as",
+      "as"
+    ],
+    "payload_owners": [
+      "GEN_SUP",
+      "ABL_SUP"
+    ],
+    "stem_final_owner": "R_STEM.s",
+    "word_pre_pause": "rādhasas",
+    "final_s_owner": "SUP.final_s",
+    "pause_path": [
+      "8.2.66 final sup-s ->ru",
+      "8.3.15 ru ->visarga at supplied avasana"
+    ],
+    "display": "rādhasaḥ"
+  },
+  "corroboration": [
+    "Sayana rādhasā rādhakena haviṣā supports means paraphrase; does not select genitive sup independently",
+    "B explicit sārvadhātukatvān nic-lopa na kriyate confirms earlier retention; no new mad morphology credit"
+  ],
+  "policy_separation": {
+    "U": "old literal rādhaso dhanasya retained with dining; not overwritten by B genitive-in-instrumental-meaning",
+    "M": "old literal dhanād havirlakṣaṇāt retained with desire/purpose; not blanket-identified with B local cause",
+    "B": "two supplied-role contracts; alternatives require distinct premises, not arbitrary free case swapping"
+  },
+  "accepted": [
+    "source-qualified genitive in means meaning",
+    "source-qualified ablative in cause meaning",
+    "same paused display retains two role/case/sup histories",
+    "saha here groups D simultaneously, not automatically R as subordinate companion"
+  ],
+  "excluded": [
+    "ordinary unrestricted substance-cause ablative under2.3.25",
+    "unlicensed free swapping of every sup with every sup",
+    "force cause to karana merely because both ordinary cases are instrumental",
+    "derive R case from adjacent saha without semantic accompaniment premise",
+    "conflate R cause for satisfaction with gods being givers as explicit reason for invocation",
+    "treat sup final s as an it marker and erase it",
+    "new nominal/root/source credit for old displayed rādhasaḥ"
+  ],
+  "open": [
+    "unique attachment when E_SATISFY versus invocation is not supplied",
+    "original printed/manuscript lineage and attribution of expanded source; modern transcription errors not repaired",
+    "other referents e.g. stuti in second repeated paragraph and unselected case/number paradigms",
+    "full Vedic external sandhi/accent/recitation of this nominal in the verse",
+    "U/M/B historical reconciliation and ahuvadhya/ahuvadhyai, rival mad root/suffix readings",
+    "C2-C5/S1-S7 wider grammar/native integration and Claude-deferred execution"
+  ]
+}
