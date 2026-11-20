@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG410 constructs [nested gam kta with outer iṭ before second lopa](research/panini_grammar/nested_gam_kta_outer_it_before_second_lopa/README.md):one morphology construction/readout,0 new finite/nominal positions/readings/source observations. Completed past E2 and patient Y precede kta; H1-lopa, outer iṭ, then seṭ-niṣṭhā H2-lopa give gamita with i_IT retained and both causal events preserved. Totals51,648 finite;3,389 nominal/3,975 readings. Wider nested/nominal/source/native gates remain Open.
+
 PG409 constructs [nested gam passive with two owned lopas](research/panini_grammar/nested_gam_passive_two_lopas_and_retained_agents/README.md):one syntax contract/readout and one morphology contract/readout,0 new finite/nominal positions/readings/source observations. H1-lopa before H2 growth and H2-lopa before aniṭ yak yield gamyate while E1/E2 agents remain distinct instrumentals; expressed Y controls. No-additional-karman is supplied, not inferred from an omitted goal. Totals51,648 finite,3,389 nominal/3,975 readings; other nested/source/native gates Open.
 
 
@@ -76,7 +78,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG409 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG410 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 

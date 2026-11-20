@@ -1,0 +1,65 @@
+{
+  "input": {
+    "root": "1011137",
+    "sense": "gatau",
+    "preverbs": [],
+    "formation": "two distinct hetumat nic H1/H2",
+    "events": [
+      "E0:Y moves",
+      "E1:D causes E0",
+      "E2:V causes E1"
+    ],
+    "past": "completed E2 causation, not merely E0 past movement",
+    "karman": "unique Y; no additional intended goal/secondary karman positively supplied",
+    "affix": "KTA, original k marker retained after it-lopa; not ktavatu",
+    "nominal": "masculine nominative singular interface supplied; no new case panel"
+  },
+  "trace": [
+    {
+      "id": "L1",
+      "input": "gam_ROOT|i_H1|i_H2",
+      "output": "gam_ROOT|empty_H1|i_H2",
+      "rule": "6.4.51 early H1-lopa before H1 growth; matched PG381 mit root normalizer"
+    },
+    {
+      "id": "I",
+      "input": "gam_ROOT|empty_H1|i_H2|ta_KTA",
+      "output": "gam_ROOT|empty_H1|i_H2|i_IT|ta_KTA",
+      "rule": "7.2.35 at actual derived-dhatu/val-initial kta boundary; 1.1.6 protects i_IT"
+    },
+    {
+      "id": "L2",
+      "input": "gam_ROOT|empty_H1|i_H2|i_IT|ta_KTA",
+      "output": "gam_ROOT|empty_H1|empty_H2|i_IT|ta_KTA",
+      "rule": "6.4.52 set-nistha; i_IT before H2-lopa by explicit kalavadharana"
+    }
+  ],
+  "readout": {
+    "stem": "gamita",
+    "nominal_control": "gamitaḥ",
+    "i_owner": "outer iṭ, neither H1 nor H2",
+    "m_owner": "lexical root m",
+    "ta_owner": "kta",
+    "referent": "Y patient of E2, not D/V causer",
+    "agents": "D and V retain distinct event-indexed instrumental interfaces from PG409"
+  },
+  "accepted": [
+    "one nested-kta morphology construction/readout",
+    "H1-lopa -> outer iṭ -> H2-lopa with both causal events retained",
+    "past E2 and Y patient admission before kta; no finite P/A choice"
+  ],
+  "excluded": [
+    "treat past E0 alone as completed past E2 evidence",
+    "delete H2 by aniṭ6.4.51 before allowing outer iṭ",
+    "pronounce both H2-i and i_IT or discard both",
+    "copy seṭ ktvā nic retention into kta",
+    "return an agent ktavatu interpretation for the kta request",
+    "infer optional gāmita from ciṇ/ṇamul6.4.93",
+    "erase E1/E2 or use root m as an it marker"
+  ],
+  "open": [
+    "other genders/cases and lexical/derived/prefix/voice/sense domains not constructed by this trace",
+    "additional or unknown karmans, participant collapse, accent/phonetic variants and independent nested-kta attestation",
+    "other nested lakaras/pada and caṅ jati/instance source dispute; C2-C5/S1-S7 and native runtime map"
+  ]
+}

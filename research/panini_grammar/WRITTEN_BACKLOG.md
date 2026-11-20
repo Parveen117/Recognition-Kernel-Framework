@@ -1,6 +1,6 @@
-# Written-development backlog at PG409
+# Written-development backlog at PG410
 
-Monty · 21 November 2026 · reviewed parent 625ad433e686b867c9f999a7564c5e2bee36ebdf.
+Monty · 21 November 2026 · reviewed parent ee70c4e19ab7efb9edcf762ed6e63a85fb1ad97a.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -185,6 +185,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C2/C4 · Selected nested gam passive bridge at PG409
 
 [PG409](nested_gam_passive_two_lopas_and_retained_agents/README.md) closes the supplied two-hetu gam unique-Y-karman laṭ3sg passive bridge: one syntax/controller contract/readout plus one morphology contract/readout,0 word-position/readings/source credits. Immediate already-causal E1 keeps D an agent; Y is the only positively supplied karman and controls A. H1-lopa precedes H2 growth; actual aniṭ yak then independently deletes H2, giving old-display gamyate with both causal events retained. D and V remain distinct instrumental agents. The no-additional-karman restriction is supplied, not inferred from source silence; the passive clause is authored, not a fresh primary quotation. Earlier passive-Open references are superseded only here. Additional/unknown karmans, general nested pada/person/lakāra/roots/prefix/identity/accent/phonetics, caṅ policies, independent passive attestation and wider C2–C5/S1–S7/native gates remain Open. Totals unchanged51,648 finite;3,389 nominal/3,975 readings.
+
+### C2/C4 · Nested gam past-patient kta at PG410
+
+[PG410](nested_gam_kta_outer_it_before_second_lopa/README.md) closes one selected two-hetu gam past-E2 patient morphology contract/readout: H1-lopa precedes H2 growth; outer iṭ precedes seṭ-niṣṭhā H2-lopa6.4.52. Gamita retains i_IT, lexical m and both causal events. Patient Y/agents D,V reuse PG409's unique-karman input; completed past E2 is supplied separately from E0. No new finite/nominal keys/readings/source/syntax units. Totals unchanged51,648 finite;3,389 nominal/3,975 readings. No full paradigm/independent nested quotation claimed. Other nested/nominal/object/accent/caṅ/source/native domains and S1–S7/C2–C5 remain Open.
 
 ## Claude-deferred execution: separate gates
 
