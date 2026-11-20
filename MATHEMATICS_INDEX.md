@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG382 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG383 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG382 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG383 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4674,3 +4674,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG382 · Event-indexed nested result queries and active A ownership
 
 [Nested outer-result/pada](research/panini_grammar/nested_gam_outer_result_and_pada/README.md) constructs one syntax contract/four readouts, separating F2-to-V from F1-to-D and actual upapada optionality from unknown evidence. Full PG14 carrier/pairing and typed zero proof retain branch, H2/ending and role owners; te does not change kartari to passive. Zero word/source credits; totals51,639 finite, nominal3,199/3,753. Ordinary local relation and3sg displays close, broader source/written/runtime gates Open; execution deferred.
+
+## PG383 · Policy-qualified patronymic marker and vowel ownership
+
+[Mimata ṇa relation](research/panini_grammar/mimata_na_marker_and_source_qualified_patronymic/README.md) constructs23 new nominal keys/readings with old nominative withholding, plus one source qualification. Full PG14 carrier/pairing and typed zero proof retain non-gotra apatya depth, Vṛtti/ordered source policy, ṇit initial vṛddhi and base-a versus suffix-a ownership. Totals51,639 finite, nominal3,222/3,776. Original Bhāṣya/text/gender/phiñ and wider gates Open; execution deferred.

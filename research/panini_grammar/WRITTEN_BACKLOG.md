@@ -1,6 +1,6 @@
-# Written-development backlog at PG382
+# Written-development backlog at PG383
 
-Monty · 20 November 2026 · reviewed parent `fc8f47fe85b9f0f2e2d87f549b2b21329ed66bc5`.
+Monty · 20 November 2026 · reviewed parent `d77b7214ebaab5ddfc1eb2017c4b10f8f11d40f3`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -77,6 +77,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### S2 · Independent printed Bāla alignment at PG378
 
 [PG378](dhi_ca_printed_bala_lut_alignment/README.md) manually reads main entry2249 (8.2.25) and lower Bāla dhiceti on scan52/printed41: explicit tās-s lopa and edhitādhve. Snapshot bytes/revision297505 pinned. One source observation, no old edh/bhid word credits. This closes the printed Bāla locator/control sub-obligation; original digital82025 bytes, cause/repair, printed Tattva,1910-vs1911 catalogue difference and narrow full request remain Open.
+
+### S7 · Mimata depth and source-qualified ṇit effect at PG383
+
+[PG383](mimata_na_marker_and_source_qualified_patronymic/README.md) addresses Bāla’s direct non-gotra apatya reading for Mimata and Tattva’s explicit Vṛtti-policy maimata ṇit effect. Selected Mimata+ṇa masculine panel locally CLOSED at24 keys,23 newly credited positions/readings after old maimataḥ. One source observation. Four-branch and reported ordered-pair policies remain separate; original Bhāṣya/Kaumudī display reconciliation, damaged other-base collation, geographic-scope residual, phiñ/other genders and other S7 loci remain Open. No blanket source-gap exclusion.
 
 ## Claude-deferred execution: separate gates
 

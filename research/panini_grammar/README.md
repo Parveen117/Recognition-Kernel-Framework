@@ -2442,3 +2442,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG382 · Outer event-indexed result and nested A/P
 
 [PG382](nested_gam_outer_result_and_pada/README.md) adds **one syntax/pada contract / four readouts**, no word/source credits. F2 belongs to outer V, distinct from inner D’s F1; actual U2 makes A optional under1.3.77. H2-ay with A ta→te gives active gamayate while D remains instrumental, Y accusative and V controller. Full PG14 typed zero proof supplied. Totals51,639 finite, nominal3,199/3,753; only ordinary nested-gam result relation/3sg present displays close, wider gates and execution remain Open/deferred.
+
+## PG383 · Mimata apatya, source policy and ṇit vṛddhi
+
+[PG383](mimata_na_marker_and_source_qualified_patronymic/README.md) adds **23 nominal positions/readings** in a24-key masculine ṇa panel, withholding old maimataḥ. One addressed Bāla/Tattva source qualification distinguishes direct non-gotra apatya and Vṛtti-policy ṇit effect; initial i→ai and owned base-a lopa derive maimata. Reported Bhāṣya ordered pairing/original collation, phiñ/other genders stay Open. Totals51,639 finite, nominal3,222/3,776. Full PG14 typed zero proof; execution/untouched suites/replay deferred.
