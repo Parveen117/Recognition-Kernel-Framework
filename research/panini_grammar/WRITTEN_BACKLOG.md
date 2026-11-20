@@ -1,6 +1,6 @@
-# Written-development backlog at PG408
+# Written-development backlog at PG409
 
-Monty · 21 November 2026 · reviewed parent ce62a4742d0e000dac91c79c14abaf6788aec56c.
+Monty · 21 November 2026 · reviewed parent 625ad433e686b867c9f999a7564c5e2bee36ebdf.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -181,6 +181,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4 · Actual A-entitled edh future śānac at PG408
 
 [PG408](edh_future_shanac_muk_and_three_genders/README.md) completes72 new nominal keys/74 readings across M/F/N for edh1010002 agent future śānac. Positive anudātteta source-group premise supplies A; lexical root-vowel udātta is a different field. Exact inherited edhiṣya gets a-owned muk m before F.āna; ṣ licenses original F.n→ṇ, not later nominal num/nuṭ n. Feminine is ṭāp, not śatṛ's ṅīp/optional-num. M/N ablative pause t/d accounts for two extra readings. Totals nominal3,389/3,975, finite51,648 unchanged. This closes a selected agent-A śānac domain, not automatic bhū P→A/passive conversion. Bhū bhāva/karma future-participle selection, other lexical/derived/prefix/voice/accent/native/S1–S7/C2–C5 remain Open.
+
+### C2/C4 · Selected nested gam passive bridge at PG409
+
+[PG409](nested_gam_passive_two_lopas_and_retained_agents/README.md) closes the supplied two-hetu gam unique-Y-karman laṭ3sg passive bridge: one syntax/controller contract/readout plus one morphology contract/readout,0 word-position/readings/source credits. Immediate already-causal E1 keeps D an agent; Y is the only positively supplied karman and controls A. H1-lopa precedes H2 growth; actual aniṭ yak then independently deletes H2, giving old-display gamyate with both causal events retained. D and V remain distinct instrumental agents. The no-additional-karman restriction is supplied, not inferred from source silence; the passive clause is authored, not a fresh primary quotation. Earlier passive-Open references are superseded only here. Additional/unknown karmans, general nested pada/person/lakāra/roots/prefix/identity/accent/phonetics, caṅ policies, independent passive attestation and wider C2–C5/S1–S7/native gates remain Open. Totals unchanged51,648 finite;3,389 nominal/3,975 readings.
 
 ## Claude-deferred execution: separate gates
 

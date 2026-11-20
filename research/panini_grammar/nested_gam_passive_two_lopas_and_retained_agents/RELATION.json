@@ -1,0 +1,87 @@
+{
+  "input": {
+    "root": "1011137",
+    "address": "01.1137",
+    "sense": "gatau ordinary movement",
+    "preverbs": [],
+    "formation": "two distinct hetumat nic H1/H2; not svartha H1",
+    "events": [
+      "E0:Y moves",
+      "E1:D causes E0",
+      "E2:V causes E1"
+    ],
+    "participants_distinct": true,
+    "additional_karman": "positively none intended in this supplied subdomain; not inferred from source silence",
+    "expression": "KARMA of E2",
+    "lakara": "LAT",
+    "slot": "3sg from expressed Y=Yajnadatta",
+    "phonetics": "unaccented conventional undoubled, separate nominal padas supplied"
+  },
+  "roles": {
+    "Y": {
+      "E0": "agent",
+      "E1": "karman by1.4.52",
+      "E2": "retained unique karman; expressed q=Y",
+      "case": "nom",
+      "pada": "yajñadattaḥ"
+    },
+    "D": {
+      "E1": "hetu/kartṛ",
+      "E2": "immediate causee remains unexpressed agent; not karman",
+      "case": "ins",
+      "pada": "devadattena"
+    },
+    "V": {
+      "E2": "outer hetu/kartṛ unexpressed",
+      "case": "ins",
+      "pada": "viṣṇumitreṇa"
+    }
+  },
+  "derivation": {
+    "before_inner_lopa": "gam_ROOT|i_H1|i_H2",
+    "after_inner_lopa": "gam_ROOT|empty_H1|i_H2",
+    "root_grade": "matched H2 7.2.116/6.4.92 gam->gām->gam; retains H1/H2 phase witnesses",
+    "before_outer_lopa": "gam_ROOT|empty_H1|i_H2|ya_YAK|te_A",
+    "after_outer_lopa": "gam_ROOT|empty_H1|empty_H2|ya_YAK|te_A",
+    "word": "gamyate",
+    "yak_class": "kit ardhatuka3.4.114, y outside val, no7.2.35 it",
+    "ending_class": "ting sarvadhatuka3.4.113, A by1.3.13; q=Y controls"
+  },
+  "pada_readout": [
+    "yajñadattaḥ",
+    "devadattena",
+    "viṣṇumitreṇa",
+    "gamyate"
+  ],
+  "unit_accounting": {
+    "syntactic_contracts": 1,
+    "syntactic_readouts": 1,
+    "morphological_contracts": 1,
+    "morphological_readouts": 1,
+    "new_finite_keys": 0,
+    "new_nominal_keys": 0,
+    "new_word_readings": 0,
+    "new_sources": 0
+  },
+  "accepted": [
+    "one selected nested-karma controller/case bridge, q=Y while D and V remain distinct instrumental agents",
+    "one selected two-lopa laṭ3sg morphology bridge; H1 lost before H2 growth, H2 lost only before aniṭ yak",
+    "ordinary-lopa history retains both inducing events, marker identities, short mit root and passive agreement",
+    "pada-level authored readout only, no external-sandhi claim"
+  ],
+  "excluded": [
+    "rerun1.4.52 on bare gam after H1-lopa to promote D",
+    "select D or V as q when neither has karman designation",
+    "copy PG15 double-karman gam choice without constructing current karman set",
+    "derive passive by stripping finished gamayati or copying its P tip",
+    "erase H1/H2 events when their sounded i vowels disappear",
+    "invent gāmyate or gamāyyate from caṅ or late inner growth here",
+    "turn ordinary-lopa into lumat erasure or unrestricted deleted-sound visibility"
+  ],
+  "open": [
+    "additional goal/secondary karman or unspecified object, other lexical senses/roots/preverbs and identity-coincident participants",
+    "other person-number/lakara/phonetic/accent domains and independent attestation of the authored nested passive clause",
+    "general nested A/P and caṅ jāti/instance source dispute, native runtime map and wider C2-C5/S1-S7",
+    "missing participant binding or formation evidence remains Open rather than false"
+  ]
+}

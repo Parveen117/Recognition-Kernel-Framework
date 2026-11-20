@@ -1,4 +1,7 @@
-# Pāṇini grammar · current written coverage at PG408
+# Pāṇini grammar · current written coverage at PG409
+
+PG409 constructs [nested gam passive with two owned lopas](nested_gam_passive_two_lopas_and_retained_agents/README.md):one syntax contract/readout and one morphology contract/readout,0 new finite/nominal positions/readings/source observations. H1-lopa before H2 growth and H2-lopa before aniṭ yak yield gamyate while E1/E2 agents remain distinct instrumentals; expressed Y controls. No-additional-karman is supplied, not inferred from an omitted goal. Totals51,648 finite,3,389 nominal/3,975 readings; other nested/source/native gates Open.
+
 
 PG408 constructs [edh future śānac with muk and three genders](edh_future_shanac_muk_and_three_genders/README.md):72 new nominal keys/74 readings,0 finite/source/separate construction credits. Positive edh1010002 A entitlement precedes future śānac; muk m belongs to S.a, future ṣ licences F.n→ṇ while later nominal n stays dental. Selected agent middle panel closes, other voices/roots/accent/wider gates Open. Totals51,648 finite,3,389 nominal/3,975 readings.
 
@@ -78,7 +81,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG408 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,389 nominal positions with 3,975 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG409 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,389 nominal positions with 3,975 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
