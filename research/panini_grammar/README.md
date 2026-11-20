@@ -1,5 +1,8 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG398 constructs [curādi mad single-ṇic satisfaction nonfinite](curadi_mad_single_nic_satisfaction_nonfinite/README.md): one nonfinite construction/readout and one lexical source observation;0 new finite/nominal positions/readings. Exact1100229/Kaumudī1706 supplies one svārtha ṇic and long-root control; semantic causation does not add an unlicensed outer H. Selected satisfaction adapter closes locally; historical/rival text/accent and wider gates Open. Totals51,648 finite,3,245 nominal/3,799 readings.
+
+
 PG397 constructs [actual VS3.13 commentary/purpose contracts](madayadhyai_vs313_commentary_and_purpose/README.md): one source observation, two syntax constructions/three readouts;0 new finite/nominal positions/readings. Uvaṭa common dining and Mahīdhara desired causal satisfaction/delight retain distinct roles; explicit mad tṛptau is a positive source alternative, precise lexical/affix adapter Open. Totals51,648 finite,3,245 nominal/3,799 readings; wider gates remain Open.
 
 

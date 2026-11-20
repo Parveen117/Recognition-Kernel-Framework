@@ -1,4 +1,7 @@
-# Pāṇini grammar · current written coverage at PG397
+# Pāṇini grammar · current written coverage at PG398
+
+PG398 constructs [curādi mad single-ṇic satisfaction nonfinite](curadi_mad_single_nic_satisfaction_nonfinite/README.md): one nonfinite construction/readout and one lexical source observation;0 new finite/nominal positions/readings. Exact1100229/Kaumudī1706 supplies one svārtha ṇic and long-root control; semantic causation does not add an unlicensed outer H. Selected satisfaction adapter closes locally; historical/rival text/accent and wider gates Open. Totals51,648 finite,3,245 nominal/3,799 readings.
+
 
 PG397 constructs [actual VS3.13 commentary/purpose contracts](madayadhyai_vs313_commentary_and_purpose/README.md): one source observation, two syntax constructions/three readouts;0 new finite/nominal positions/readings. Uvaṭa common dining and Mahīdhara desired causal satisfaction/delight retain distinct roles; explicit mad tṛptau is a positive source alternative, precise lexical/affix adapter Open. Totals51,648 finite,3,245 nominal/3,799 readings; wider gates remain Open.
 
@@ -45,7 +48,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG397 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,245 nominal positions with 3,799 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG398 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,245 nominal positions with 3,799 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

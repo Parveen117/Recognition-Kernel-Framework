@@ -1,0 +1,77 @@
+{
+  "frame": {
+    "root": "1100229",
+    "address": "10.0229",
+    "teaching": "मदँ",
+    "sense": "trptiyoga, lexical satisfy/please",
+    "preverbs": [],
+    "formation": "one curadi svartha N.nic under3.1.25 + Vedic bhava F.shadhyai",
+    "nic_instances": [
+      "N_SVARTHA"
+    ],
+    "hetumat_instances": [],
+    "policy": "MAHIDHARA_TRPTI_313_SELECTED_CURADI_ADAPTER",
+    "roles": "I satisfies addressed D in PG397 desired purpose; lexical satisfaction event does not prove an extra3.1.26 affix",
+    "lakara": null,
+    "pada": null
+  },
+  "trace": [
+    {
+      "event": "LEXICAL_NIC",
+      "input": "mad_R",
+      "output": "mad_R|i_N",
+      "rule": "3.1.25 curadi svartha; N original nn/c retained in history"
+    },
+    {
+      "event": "ROOT_VRDDHI",
+      "input": "mad_R|i_N",
+      "output": "mād_R|i_N",
+      "rule": "7.2.116, root upadha a before actual N.nit; no divadi semantic mit transfer"
+    },
+    {
+      "event": "SHAP_SELECTION",
+      "input": "mād_R|i_N|F_shadhyai",
+      "output": "mād_R|i_N|a_S|adhyai_F",
+      "rule": "F original sh ->sarvadhatuka; source-local shap instead of candidate yak; S pit"
+    },
+    {
+      "event": "NIC_GUNA",
+      "input": "mād_R|i_N|a_S|adhyai_F",
+      "output": "mād_R|e_N|a_S|adhyai_F",
+      "rule": "7.3.84 before actual S;6.4.51 ardhadhatuka guard absent"
+    },
+    {
+      "event": "NIC_AY",
+      "input": "mād_R|e_N|a_S|adhyai_F",
+      "output": "mād_R|ay_N|a_S|adhyai_F",
+      "rule": "6.1.78 e->ay before actual S.a"
+    },
+    {
+      "event": "JUNCTION",
+      "input": "mād_R|ay_N|a_S|adhyai_F",
+      "output": "mādayadhyai",
+      "rule": "6.1.97 S.a/F.initial a pararupa"
+    }
+  ],
+  "old_control": "mādayate, Kaumudi1706; zero finite credit",
+  "word": "mādayadhyai",
+  "accepted": [
+    "one selected curadi satisfaction nonfinite payload, one N instance",
+    "PG397 lexical satisfaction paraphrase bound to this selected source/root licence",
+    "long root aa and N.ay/S.a/F junction retain distinct owners"
+  ],
+  "excluded": [
+    "add outer hetumat nic solely from semantic CAUSE notation",
+    "transfer divadi1040105/teaching1010927 mit into1100229",
+    "strip te from madayate to manufacture the nonfinite",
+    "insert/delete yak as in piba instead of selecting witnessed shap",
+    "infer finite A ending from lexical akusmiya tag for this nonfinite",
+    "recredit old word, finite control or PG396 conditional paths"
+  ],
+  "open": [
+    "historical exact root identification beyond selected Kaumudi/lexicon adapter",
+    "U bhojana and M harsa morphology/mit override, rival suffix/accent/text policies",
+    "independent printed/verse collation and general source-local shap scope",
+    "other senses/prefixes/outer hetumat/nested formation and wider C2-C5/S1-S7/native/Claude gates"
+  ]
+}

@@ -1,6 +1,6 @@
-# Written-development backlog at PG397
+# Written-development backlog at PG398
 
-Monty · 20 November 2026 · reviewed parent `2541239d667acde3876d81a804404a7a91788a4b`.
+Monty · 20 November 2026 · reviewed parent `403d20f288f60da41eaa0877dcb1004f94729617`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -137,6 +137,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### S7/C2 · Actual VS3.13 source policies at PG397
 
 [PG397](madayadhyai_vs313_commentary_and_purpose/README.md) positively locates electronic410585's Uvaṭa dining-purpose and Mahīdhara desire/causal satisfaction-or-delight readings, including explicit mad tṛptau root alternative. Two syntax constructions/three readouts, one source observation,0 word credits. The actual electronic passage's source-qualified meaning/attachment contracts now close locally; earlier unspecified actual-sense references superseded only there. Precise tṛptau/curādi candidate1100229 adapter and ṇic depth, U bhojana morphology, harṣa long-vowel/mit or override, original suffix/accent/text, verse āhuvadhyā versus commentary āhuvadhyai and Q1/Q2 event alignment remain Open. PG396's local curādi exclusion is not a universal exclusion. Other C2–C5/S1–S7 and Claude-deferred gates remain genuine.
+
+### S7/C2/C4 · Selected curādi satisfaction adapter at PG398
+
+[PG398](curadi_mad_single_nic_satisfaction_nonfinite/README.md) constructs the selected1100229/10.0229 satisfaction path under Kaumudī1706 mad tṛptiyoge/mādayate and3.1.25 svārtha ṇic. One nonfinite construction/readout and one lexical source observation,0 word credits. One N, no outer H; root ā, N.ay and S/F junction retain ownership. PG397 precise adapter Open references are superseded only for this declared source-compatible satisfaction arm, not every historical abbreviated citation. Full authorial root identity, U bhojana/M harṣa and mit override, original suffix/accent/raw text, printed/verse/general śap scope and wider C2–C5/S1–S7/native gates remain Open. Separate lexical numbering1705/1706 retained.
 
 ## Claude-deferred execution: separate gates
 
