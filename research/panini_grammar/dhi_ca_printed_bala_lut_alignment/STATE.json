@@ -1,0 +1,60 @@
+{
+  "schema": "rkf.panini.pg378.state.v1",
+  "author": "Monty",
+  "date": "2026-11-20",
+  "publication_parent": "2126236a85741167635d8b9076d280f31089e8d9",
+  "baseline": {
+    "commit": "2126236a85741167635d8b9076d280f31089e8d9",
+    "path": "research/panini_grammar/inanimate_bhu_stha_causees_and_pada_guards/STATE.json"
+  },
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 1,
+  "new_syntactic_constructions": 0,
+  "new_syntactic_readouts": 0,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "finite_positions": 51639,
+  "nominal_positions": 3199,
+  "nominal_readings": 3753,
+  "source_accounting": [
+    {
+      "unit": "ONE_PRINTED_BALA_DHI_CA_LUT_CONTROL",
+      "scan_leaf": 52,
+      "printed_page": 41,
+      "entry": 2249,
+      "sutra": "8.2.25",
+      "main_word": "edhitādhve",
+      "lower_commentary": "tas.s lopa explicitly stated",
+      "source_observation_credit": 1,
+      "word_position_credit": 0,
+      "word_reading_credit": 0
+    }
+  ],
+  "local_S2_status": {
+    "printed_Bala_dhi_ca_alignment": "CLOSED on identified page/layer",
+    "digital_misassignment_cause_and_repair": "OPEN",
+    "printed_Tattva_and_narrow_full_request": "OPEN"
+  },
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Printed Bala address/control resolved locally; exact digital repair/cause, printed Tattva and competing narrow full request remain Open.",
+    "Other S1-S7/C2-C5 written/native gates and Claude execution remain separate."
+  ]
+}

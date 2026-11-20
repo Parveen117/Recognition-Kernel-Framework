@@ -2422,3 +2422,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG377 · Inanimate causee is not absence of agency
 
 [PG377](inanimate_bhu_stha_causees_and_pada_guards/README.md) adds **two causal-role/pada constructions / eight readouts**, zero word-position/readings/source credits. In supplied bhū/sthā frames, non-conscious b remains E0 agent and becomes E1 object; 1.3.88’s conscious-agent P exception is false. Causer-directed result/upapada predicates admit active bhāvayate/sthāpayate separately from P controls, preserving a’s agreement and nominal accusative b. Partial evidence is conditional/Open. Full PG14 typed zero recovery; totals51,639 finite, nominal3,199/3,753, wider gates Open and execution/untouched suites/replay deferred.
+
+## PG378 · Printed Bāla dhi ca and actual tās recipient
+
+[PG378](dhi_ca_printed_bala_lut_alignment/README.md) adds **one source observation**: visually read scan52/printed41, numbered entry2249 (8.2.25), and lower Bāla’s explicit tās-s lopa/edhitādhve. Exact image/HTML/revision pins retain layers and catalogue-year discrepancy. Printed Bāla alignment closes locally; digital82025 repair, printed Tattva and narrow full request stay Open. Zero word-position/readings or other construction credits; totals51,639 finite, nominal3,199/3,753. Full PG14 typed zero evidence adapter; execution/untouched suites/replay deferred.

@@ -1,7 +1,7 @@
 # Canonical Mathematics Index
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG377 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG378 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -10,7 +10,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG377 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG378 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 
@@ -4654,3 +4654,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG377 · Event-indexed inanimate agency and guarded derived pada
 
 [Inanimate bhū/sthā relation](research/panini_grammar/inanimate_bhu_stha_causees_and_pada_guards/README.md) constructs two role/pada contracts/eight readouts beyond PG14’s conscious base-agent domain. Positive non-conscious evidence changes 1.3.88’s guard while retaining base kartṛ, outer karman and causer-controlled active agreement. Root/ṇic/puk/śap/ending owners and conditional/stable result-upapada branches live on the full PG14 carrier with typed zero recovery. No word-position/source credits; totals51,639 finite, nominal3,199/3,753. Wider source/written/runtime gates Open; execution/untouched suites/replay deferred.
+
+## PG378 · Printed source layers as typed evidence for an owned lopa edge
+
+[Printed Bāla dhi ca](research/panini_grammar/dhi_ca_printed_bala_lut_alignment/README.md) locates scan52/printed41, entry2249 and lower commentary explicitly deleting tās-s. New evidence on the full PG14 carrier has a typed joint-history interface to the old owned tās/dh edge; zero recovery preserves source layer, raw mismatch and narrow Open channel. One source observation, zero word-position/readings; totals51,639 finite, nominal3,199/3,753. Printed Bāla alignment closed locally, digital repair/printed Tattva/narrow-request and wider gates Open; execution/untouched suites/replay deferred.

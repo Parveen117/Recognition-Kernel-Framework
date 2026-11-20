@@ -69,3 +69,14 @@ Do not recount the closed causal grid. Advance a positive S1–S7 source decisio
 - Only this inanimate C2 subdomain is locally constructed. Unknown causee identity, other senses/roots/nested/double-karman/passive/accent/native and S1–S7 wider gates remain Open. Necessary explicit-Python3.12 changed-document/source/count checks only, actual result in packet; no Sanskrit/generator/proof execution, untouched suites/replay. No global completion/ETA/continuous-hours claim; continue sequentially, no agents/new automation.
 
 - PG377 check retry: first pass stopped on isolated akarmakāṇām versus the archived joined śabdakarmakāṇāmakarmakāṇām. Corrected only the literal matcher; grammar/source/table unchanged, justified retry recorded in packet.
+
+## Completion continuation · PG378
+
+- Actual fetched/aligned parent `2126236a85741167635d8b9076d280f31089e8d9`, clean repository. [PG378](dhi_ca_printed_bala_lut_alignment/README.md) adds **one independently located printed-source observation**, zero finite/nominal positions/readings or other construction credits. Totals **51,639 finite**, **3,199 nominal / 3,753 readings**. PG335, frozen/closed grids and PG357–363 CLOSED history preserved.
+- Manually read downloaded Wikimedia scan52/printed41: main entry2249 dhi ca8.2.25/edhitādhve and lower Bāla dhiceti explicitly delete tās-s; next h eti is a separate rule. Image bytes/hash/blob, captured HTML and oldid297505 pinned; no DjVu hash invented. Index1911/file-description1910 conflict retained, no title-page adjudication or two-host independence claim.
+- Printed Bāla locator/tās-recipient sub-obligation is now CLOSED on that witness. Source-bearing evidence adapter corroborates the old broad bhid middle-luṭ2pl edge without moving edh iṭ/root conditions or recounting words. Digital82025 remains hoḍhaḥ; its cause/repair, printed Tattva and full narrow-policy request remain Open. Full PG14 history/pairing and typed zero-specialization supplied.
+- Necessary explicit-Python3.12 changed-document/source/count checks only, actual result in packet; no Sanskrit/generator/proof execution, untouched suites/replay. Wider C2–C5 and S1–S7 residual gates remain Open, no completion ETA/global completeness/continuous-hours claim. Continue substantive work sequentially, no agents/new automation.
+
+### Actual PG375–378 increment at this handoff
+
+Four substantive stages: **0 new finite positions/finite readings;48 new nominal positions/51 nominal readings;2 source observations;2 causal-role/pada constructions/8 readouts**. No other construction units. PG375 selects causal-agent genders; PG376 positively constructs a reported non-gati sound policy with distinct Bāla/Tattva attribution; PG377 extends the actual inanimate semantic frontier; PG378 supplies an independently addressed printed source control. Whole written completion remains Open on the actual backlog; these are neither all-Sanskrit completion nor elapsed-hours claims.
