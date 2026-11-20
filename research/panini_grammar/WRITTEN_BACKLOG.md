@@ -1,6 +1,6 @@
-# Written-development backlog at PG400
+# Written-development backlog at PG401
 
-Monty · 20 November 2026 · reviewed parent `bebb2a235426111dddd5bb1d0c0e6448d972f2a5`.
+Monty · 20 November 2026 · reviewed parent b51faff9bf9972063675aa4d4bc4505e2bf846d3.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -149,6 +149,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/S7 · Supplied rādhas case/attachment bridge at PG400
 
 [PG400](radhas_vedic_case_replacement_and_event_attachment/README.md) completes two supplied-role case bridges: most-effective means→ordinary instrumental→Vedic genitive, cause→ordinary instrumental→source-local Vedic ablative. Both paused rādhasaḥ readouts retain original relation and actual sup; source word has0 nominal credit. One new labelled Bhaṭṭabhāskara case-choice observation; Sāyaṇa corroborates, old ṇic-retention receives0 recredit. Exact expanded Markdown blob/commit pinned; no independent printed/manuscript lineage or authorial reconciliation claim.2.3.25 does not supply an unrestricted substance-cause ablative, and adjacent saha does not assign R accompaniment. Unspecified event attachment, other referents/numbers, full nominal accent/recitation and historical U/M/B reconciliation stay Open alongside wider C2–C5/S1–S7. Fresh S5 lookup yielded no positive closure; its four exact fields remain Open.
+
+### C3/C4/S7 · Case-owned Vedic dual ubhā at PG401
+
+[PG401](ubha_vedic_dual_case_owners_and_owned_coalescence/README.md) completes selected masculine dual sup→ā and actual a+ā seam on supplied nominal/accusative roles and pre-junction accents. One morphology relation/two readouts, one newly addressed B accusative-dual/8.2.5 statement in the existing pinned blob; no independent witness or old-word credit. Nominative au versus accusative auṭ and marker ṭ histories remain distinct; normal ubhau has6.1.104's ic guard. Four source-qualified clause uses do not become four new constructions. Full lexical accent, unknown clause attachment, other cases/genders/numbers, source lineage and wider gates stay Open. S1 fresh GRETIL/Jayamaṅgalā lookup did not locate the exact quoted clause; no poem-absence, misattribution or closure claim.
 
 ## Claude-deferred execution: separate gates
 

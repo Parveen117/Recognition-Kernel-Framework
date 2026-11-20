@@ -1,0 +1,55 @@
+{
+  "schema": "rkf.panini.pg401.state.v1",
+  "author": "Monty",
+  "date": "2026-11-20",
+  "publication_parent": "b51faff9bf9972063675aa4d4bc4505e2bf846d3",
+  "baseline": {
+    "commit": "b51faff9bf9972063675aa4d4bc4505e2bf846d3",
+    "path": "research/panini_grammar/radhas_vedic_case_replacement_and_event_attachment/STATE.json"
+  },
+  "finite_positions": 51648,
+  "nominal_positions": 3245,
+  "nominal_readings": 3799,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 1,
+  "new_morphological_constructions": 1,
+  "new_morphological_readouts": 2,
+  "position_accounting": {
+    "forms": [],
+    "old_word_credit": 0,
+    "ordinary_control_credit": 0
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "full lexical/affix accent entitlement before supplied A/U inputs",
+    "independent printed/manuscript lineage of expanded source and historical authorial interpretation",
+    "other gender/number/case Vedic realizations and vām clitic/phonetic scope beyond old guards",
+    "exact Bhatti poem locus/edition/authorial reading S1; fresh GRETIL/Jayamangalā electronic lookup did not locate quoted clause",
+    "other S1-S7/C2-C5 and native/runtime integration; Claude-deferred execution"
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "new_syntactic_constructions": 0,
+  "new_syntactic_readouts": 0,
+  "new_accent_constructions": 0,
+  "new_accent_readouts": 0,
+  "new_compound_constructions": 0,
+  "new_compound_readouts": 0
+}

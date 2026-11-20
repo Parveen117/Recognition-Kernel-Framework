@@ -1,0 +1,112 @@
+{
+  "input": {
+    "stem": "ubha",
+    "stem_status": "SUPPLIED masculine a-stem on dual addressed pair D",
+    "number": "DU",
+    "gender": "M",
+    "preverbs": [],
+    "root_affix": "No verbal root/nic/krt ownership added; adjective agrees with D in supplied clause",
+    "source_policy": "labelled B accusative-dual statement and labelled Sayana copular/giver paraphrase; original source lineage Open",
+    "vowel_input": {
+      "stem_final_a": "A supplied witness-compatible pre-junction input",
+      "replacement_aa": "U supplied source-qualified accent input; full accent selection not newly derived"
+    }
+  },
+  "branches": [
+    {
+      "id": "ACC_DU",
+      "role": "D unexpressed object of supplied CALL(I,D)",
+      "case": "ACC",
+      "case_rule": "2.3.2 under2.3.1",
+      "formal_sup": "auṭ",
+      "markers": [
+        "ṭ"
+      ],
+      "marker_events": [
+        "1.3.3 terminal ṭ it",
+        "1.3.9 ṭ-lopa; original marker retained in history"
+      ],
+      "ordinary_payload": "au",
+      "vedic_replacement": "ā",
+      "replacement_rule": "7.1.39 ā, explicitly witnessed for accusative dual",
+      "joint_payload": "ā",
+      "joint_ancestry": [
+        "STEM.final_a",
+        "ACC_SUP.replacement_aa"
+      ],
+      "output": "ubhā",
+      "devanagari": "उभा",
+      "source_display": "उ॒भा"
+    },
+    {
+      "id": "NOM_DU",
+      "role": "D is subject of supplied giver/copular predication",
+      "case": "NOM",
+      "case_rule": "2.3.46",
+      "formal_sup": "au",
+      "markers": [],
+      "marker_events": [],
+      "ordinary_payload": "au",
+      "vedic_replacement": "ā",
+      "replacement_rule": "7.1.39 ā; K nominative dvā yantārau control plus supplied source copular construal",
+      "joint_payload": "ā",
+      "joint_ancestry": [
+        "STEM.final_a",
+        "NOM_SUP.replacement_aa"
+      ],
+      "output": "ubhā",
+      "devanagari": "उभा",
+      "source_display": "उ॒भा"
+    }
+  ],
+  "junction": {
+    "payload": "ubha + ā ->ubhā",
+    "ordinary_control": "ubha + au ->ubhau under6.1.88, after6.1.104 blocks6.1.102",
+    "vedic_action": "a+ā savarna coalescence6.1.101;6.1.102 same long-a result if first-two-case view used",
+    "accent_action": "supplied A/U -> joint U by8.2.5; original constituent owners retained",
+    "lower_vowel": "initial u supplied A; display उ॒भा"
+  },
+  "occurrence_mapping": [
+    {
+      "occurrence": 1,
+      "case": "ACC_DU",
+      "source_local_reason": "B explicitly dvitiyadvivacana, linked to huve/yuvam ahvayami"
+    },
+    {
+      "occurrence": 2,
+      "case": "ACC_DU",
+      "source_local_reason": "supplied pair is object in selected satisfaction-purpose paraphrase; no new finite agreement"
+    },
+    {
+      "occurrence": 3,
+      "case": "NOM_DU",
+      "source_local_reason": "Sayana tau yuvam datarau sthah supplies subject/giver copular frame"
+    },
+    {
+      "occurrence": 4,
+      "case": "ACC_DU",
+      "source_local_reason": "supplied CALL(I,D) with huve vam; no forced event identity with occurrence1"
+    }
+  ],
+  "accepted": [
+    "one local Vedic dual-sup replacement relation with distinct nominative/accusative owners",
+    "same ubhā and joint-U display without merging original sup histories",
+    "normal ubhau is a comparison control, not newly attested variant in this verse"
+  ],
+  "excluded": [
+    "treat final ā as feminine ṭāp",
+    "delete entire dual affix or dual number to explain ā",
+    "read all four tokens as nominative solely because surface agrees",
+    "read ā as augment āṭ or lexical preverb",
+    "derive ordinary a+au as ā ignoring6.1.104",
+    "claim new finite agreement or new nominal paradigm",
+    "transfer accusative original ṭ marker to nominative au history"
+  ],
+  "open": [
+    "full lexical/affix accent entitlement before supplied A/U inputs",
+    "independent printed/manuscript lineage of expanded source and historical authorial interpretation",
+    "other gender/number/case Vedic realizations and vām clitic/phonetic scope beyond old guards",
+    "exact Bhatti poem locus/edition/authorial reading S1; fresh GRETIL/Jayamangalā electronic lookup did not locate quoted clause",
+    "other S1-S7/C2-C5 and native/runtime integration; Claude-deferred execution"
+  ]
+}
