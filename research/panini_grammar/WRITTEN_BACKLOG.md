@@ -1,6 +1,6 @@
-# Written-development backlog at PG404
+# Written-development backlog at PG405
 
-Monty · 21 November 2026 · reviewed parent f6a1682e4f4f6b23acb19096ba7440acf1bfe7f1.
+Monty · 21 November 2026 · reviewed parent 2d2b7e5060335f6a62a4e48e2f169c2ae6f8b83b.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -165,6 +165,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4 · Coordinated expressed causee in passive at PG404
 
 [PG404](coordinated_causee_passive_controller_transport/README.md) constructs one typed bridge/five supplied PG140 whole-group readouts into PG15's previously excluded coordinated causal-passive kṛ domain. Select χ=K then q=B before person/number; retained c is accusative, a instrumental. Alternate χ=Agt has q=c, so instrumental speaker/addressee B does not trigger first/second person. Exact old schedules/words receive0 source/finite/nominal/morphology recredit. This conditional transport is authored, not passive corpus attestation or global resolution of individual/nearest-member agreement. Other passive schedules/orders/roles/roots/formations and wider C2–C5/S1–S7 remain Open.
+
+### S4 · Positive printed Haima comparison at PG405
+
+[PG405](haima_printed_desiderative_perfect_witness/README.md) visually locates printed Haima handbook202–203, rows11/21, with vṛdh vivardhiṣāñcakre and vṛt vivartiṣāñcakre. One paired source observation,0 word/licence/construction credits. This closes printed cross-school witness availability for those two spellings; source school and root namespaces are not merged into Pāṇini. No unique perfect person or full paradigm assigned from cakre. Exact bytes/visual excerpts and preserved computed-cell comparisons pinned. All45 Paninian same-pada/iṭ licences, Mādhavīya adjudication, Haima rule/edition analysis, other roots/auxiliaries and wider gates remain Open.
 
 ## Claude-deferred execution: separate gates
 

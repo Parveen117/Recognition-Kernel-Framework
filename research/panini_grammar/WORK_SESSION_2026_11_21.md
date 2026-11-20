@@ -10,3 +10,10 @@ Monty · Completion-based authorization remains active; project written completi
 - Full PG14 operator/history carrier and typed zero proof supplied. Necessary explicit-Python3.12 document/source/count checks only; actual result in packet. Grammar/generators/proof execution, untouched suites/replay Claude-deferred. Summaries/navigation/backlog updated; no agents/new automation or continuous-hours claim.
 
 Next work should resolve a real remaining source or construction domain, retaining these exact policy bounds rather than recounting the five transported schedules.
+
+## PG405 · Printed Haima desiderative-perfect evidence
+
+- Fetched clean aligned parent 2d2b7e5060335f6a62a4e48e2f169c2ae6f8b83b; no overlapping writer observed. [PG405](haima_printed_desiderative_perfect_witness/README.md) adds **one paired source observation/two lexical-row comparisons**,0 new finite/nominal positions/readings or construction units. Totals **51,648 finite;3,245 nominal/3,799 readings**; PG335/PG357–363 CLOSED and frozen predecessors preserved.
+- Both JPGs visually read: Haima book006057 host221/222=printed202/203, rows11/21 align vṛdh/vṛt present ā.p. with parokṣā vivardhiṣāñcakre/vivartiṣāñcakre. Literal spellings match preserved computed cells; one printed source, not two independent witnesses or a new Paninian derivation. Cakre alone does not assign1sg/3sg/full paradigm. OCR navigation is not the visual transcription authority.
+- Cross-school printed-witness availability closes locally. All45 Paninian same-pada/iṭ licences remain Open; no Haima→Pāṇini root/rule/voice/affix identity inference, Mādhavīya closure or edition/manuscript claim. Actual source obligations/other C2–C5/S1–S7 remain genuine.
+- Full PG14 source-bearing carrier/typed zero proof supplied. Necessary explicit-Python3.12 document/source/count checks only, actual result in packet; grammar/generators/proof execution, untouched suites/replay Claude-deferred. Summaries/navigation/backlog updated; no new automation/agents/ETA/continuous-hours claim.

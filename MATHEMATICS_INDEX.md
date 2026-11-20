@@ -1,5 +1,8 @@
 # Canonical Mathematics Index
 
+PG405 locates [printed Haima desiderative-perfect witness](research/panini_grammar/haima_printed_desiderative_perfect_witness/README.md): one paired source observation/two lexical rows,0 new word or construction credits. Visually read printed202–203 give vṛt vivartiṣāñcakre and vṛdh vivardhiṣāñcakre; exact computed-cell spellings now have a separate printed Haima witness. School/person/rule boundaries retained; all45 Paninian licences remain Open. Totals51,648 finite,3,245 nominal/3,799 readings.
+
+
 PG404 constructs [coordinated causee passive controller transport](research/panini_grammar/coordinated_causee_passive_controller_transport/README.md): one syntax/controller bridge/five supplied collective readouts;0 new finite/nominal/source/morphology credits. PG140 whole-group schedules feed expressed causee q on PG15 kṛ χ=K; instrumental speaker/addressee on χ=Agt cannot control pot q. Other passive schedules remain Open; totals51,648 finite,3,245 nominal/3,799 readings.
 
 
@@ -61,7 +64,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG404 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG405 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
@@ -70,7 +73,7 @@ reconciles every branch in the recorded snapshot, preserves all scientific sourc
 bytes and resolves the historical engine replay mismatch by using the archived
 Node 22.16.0 runtime. Earlier stage reports remain dated records. The current
 Python 3.12 navigation result recorded for that integration is passing;
-Navigation reruns for PG14–PG404 are deferred as recorded below. RH,
+Navigation reruns for PG14–PG405 are deferred as recorded below. RH,
 global eta-zero positivity, K0 and the
 Yang–Mills mass gap remain open; research integration does not close them.
 

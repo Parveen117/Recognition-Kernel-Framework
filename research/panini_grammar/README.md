@@ -1,5 +1,8 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG405 locates [printed Haima desiderative-perfect witness](haima_printed_desiderative_perfect_witness/README.md): one paired source observation/two lexical rows,0 new word or construction credits. Visually read printed202–203 give vṛt vivartiṣāñcakre and vṛdh vivardhiṣāñcakre; exact computed-cell spellings now have a separate printed Haima witness. School/person/rule boundaries retained; all45 Paninian licences remain Open. Totals51,648 finite,3,245 nominal/3,799 readings.
+
+
 PG404 constructs [coordinated causee passive controller transport](coordinated_causee_passive_controller_transport/README.md): one syntax/controller bridge/five supplied collective readouts;0 new finite/nominal/source/morphology credits. PG140 whole-group schedules feed expressed causee q on PG15 kṛ χ=K; instrumental speaker/addressee on χ=Agt cannot control pot q. Other passive schedules remain Open; totals51,648 finite,3,245 nominal/3,799 readings.
 
 
