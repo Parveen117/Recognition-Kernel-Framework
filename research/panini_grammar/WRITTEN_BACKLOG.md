@@ -1,6 +1,6 @@
-# Written-development backlog at PG407
+# Written-development backlog at PG408
 
-Monty · 21 November 2026 · reviewed parent ae61e7b2f40a56a47a24b42cdc6625480d07a28d.
+Monty · 21 November 2026 · reviewed parent ce62a4742d0e000dac91c79c14abaf6788aec56c.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -177,6 +177,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4 · Future śatṛ genders completed locally at PG407
 
 [PG407](bhu_future_shatr_feminine_neuter_optional_num/README.md) completes48 new feminine/neuter nominal keys/78 readings. Actual future sya gives optional7.1.80 num before nadī/śī, not compulsory7.1.81 śap/śyan treatment. Two feminine whole-stem histories retain correlation; neuter dual ī is sup, plural has one specific num and singular t/d is a pause alternative. Both K7.1.80 guard explanations remain labelled, not globally harmonized. With PG406, selected simple bhū future P śatṛ three-gender72 keys/102 readings closes; earlier gender-Open references superseded only here. Cumulative nominal3,317/3,901, finite51,648. Śānac, other roots/senses/derived/prefix/accent/phonetic/source/native and wider C2–C5/S1–S7 remain Open.
+
+### C4 · Actual A-entitled edh future śānac at PG408
+
+[PG408](edh_future_shanac_muk_and_three_genders/README.md) completes72 new nominal keys/74 readings across M/F/N for edh1010002 agent future śānac. Positive anudātteta source-group premise supplies A; lexical root-vowel udātta is a different field. Exact inherited edhiṣya gets a-owned muk m before F.āna; ṣ licenses original F.n→ṇ, not later nominal num/nuṭ n. Feminine is ṭāp, not śatṛ's ṅīp/optional-num. M/N ablative pause t/d accounts for two extra readings. Totals nominal3,389/3,975, finite51,648 unchanged. This closes a selected agent-A śānac domain, not automatic bhū P→A/passive conversion. Bhū bhāva/karma future-participle selection, other lexical/derived/prefix/voice/accent/native/S1–S7/C2–C5 remain Open.
 
 ## Claude-deferred execution: separate gates
 
