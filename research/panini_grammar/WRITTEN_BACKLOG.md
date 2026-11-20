@@ -1,6 +1,6 @@
-# Written-development backlog at PG389
+# Written-development backlog at PG390
 
-Monty · 20 November 2026 · reviewed parent `3437f5ee306b289dd33a8027ade1af83b6b3670e`.
+Monty · 20 November 2026 · reviewed parent `0ad9cb473d015e7fa7c8ef8b2a96d53c543fd91a`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -105,6 +105,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### S7 · Primary Bhāṣya4.1.150 marker-purpose locator at PG389
 
 [PG389](bhasya_41150_marker_purpose_and_policy_limits/README.md) positively addresses revision401923’s5302–5304 objection/answer/counterargument and adjacent Sauvīra-gotra scope. One source observation,0 word/construction credits. Primary-work electronic locator closes locally; original printed/manuscript collation, raw short-a compound display versus stated puṃvad prohibition,5304 scope and four-branch/ordered-pair reconciliation remain Open. No frozen Mimata panel or policy is rewritten. Other S1–S7/C2–C5 remain genuine.
+
+### C2/C3 · Simple churning manth secondary passive at PG390
+
+[PG390](manth_secondary_passive_and_owned_nasal_loss/README.md) closes the supplied simple1090047 manth present3sg secondary-object passive: ocean S expressed/nominative/controller, desired nectar P accusative, plural agent instrumental. One syntax/controller plus one morphology construction/readout; yak-kit licenses owned anidit root-n lopa to mathyate.0 finite/nominal/source credits, no nī/duh or bhid recredit. Other manth/math homonyms, idit violence root, case construals/source policies, persons/lakāras/derived/nested/accent/native and S1–S7 remain Open.
 
 ## Claude-deferred execution: separate gates
 
