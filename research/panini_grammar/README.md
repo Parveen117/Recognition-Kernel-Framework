@@ -1,5 +1,8 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG385 constructs [gotra dvandva whole-affix luk](gotra_dvandva_luk_and_reported_gana_objection/README.md): one compound construction/two uniform readouts and one newly addressed Tattva report of a Kaiyaṭa gaṇa-list objection. Upaka–Lamaka retains independent phak/inner-sup owners;1.1.63 blocks lost-affix aṅga triggers. Old source words receive0 finite/nominal credits. Original Bhāṣya/Kaiyaṭa/other-pair textual reconciliation and wider gates stay Open.
+
+
 Author: Monty. 1 November 2026.
 
 [Current written coverage and remaining work](CURRENT_WORK.md) · [All 748 Uṇādi lexical entries](unadi_fifth_pada_readings/ALL_LEXICAL_READINGS.tsv)

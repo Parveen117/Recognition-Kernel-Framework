@@ -1,0 +1,104 @@
+{
+  "schema": "rkf.panini.pg385.state.v1",
+  "author": "Monty",
+  "date": "2026-11-20",
+  "publication_parent": "7f2a4a0d89a9fd45e5839444b778aab36bf446d5",
+  "baseline": {
+    "commit": "7f2a4a0d89a9fd45e5839444b778aab36bf446d5",
+    "path": "research/panini_grammar/mimata_phin_initial_replacement_and_short_i/STATE.json"
+  },
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 1,
+  "new_compound_constructions": 1,
+  "new_compound_readouts": 2,
+  "new_syntactic_constructions": 0,
+  "new_syntactic_readouts": 0,
+  "new_morphological_constructions": 0,
+  "new_morphological_readouts": 0,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "finite_positions": 51639,
+  "nominal_positions": 3245,
+  "nominal_readings": 3799,
+  "construction_accounting": {
+    "unit": "one source-qualified two-uniform-branch gotra compound",
+    "forms": [
+      {
+        "id": "LUK_BOTH",
+        "phak_owners": [
+          "P_UPAKA",
+          "P_LAMAKA"
+        ],
+        "lopa": "each whole gotra affix; includes replacement aayan plus original suffix a",
+        "anga_query": "1.1.63 blocks affix-induced initial growth and bha-dependent final-a loss via deleted phak",
+        "stems": [
+          "upaka",
+          "lamaka"
+        ],
+        "compound_stem": "upakalamaka",
+        "word": "upakalamakāḥ",
+        "policies": [
+          "KASHIKA_ORIGINAL_OVERLAP",
+          "KAUMUDI_OPTIONAL_DISPLAY"
+        ],
+        "new_nominal_positions": 0,
+        "new_nominal_readings": 0
+      },
+      {
+        "id": "RETAIN_BOTH",
+        "phak_owners": [
+          "P_UPAKA",
+          "P_LAMAKA"
+        ],
+        "lopa": "no gotra-affix luk; inner sup luk is separate",
+        "anga_query": "retained kit7.2.118 and bha6.4.148 act on each owned base",
+        "stems": [
+          "aupakāyana",
+          "lāmakāyana"
+        ],
+        "compound_stem": "aupakāyanalāmakāyana",
+        "word": "aupakāyanalāmakāyanāḥ",
+        "policies": [
+          "KAUMUDI_OPTIONAL_DISPLAY"
+        ],
+        "new_nominal_positions": 0,
+        "new_nominal_readings": 0
+      }
+    ],
+    "new_word_credits": 0
+  },
+  "source_accounting": [
+    {
+      "unit": "REPORTED_KAIYATA_GANA_PATHA_OBJECTION",
+      "raw_field": "tattvabodhini24069",
+      "direct_topic": "the source-specific bhrashtraka-kapishthala pair, not automatic removal of all three pairs",
+      "claim": "Tattva reports Kaiyata calling that24068 listing non-arsha on an attributed Bhasya retained-form example; supplies a membership/edition explanation for optionality",
+      "original_sources_collated": false,
+      "raw_variants_preserved": true
+    }
+  ],
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "authorization": {
+    "completion_status": "OPEN wider written gates",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "open_obligations": [
+    "independent original Bhasya/Kaiyata edition and authenticity of reported gana patha",
+    "raw Tattva24069 repetitive/damaged text and member spelling collation",
+    "mixed-member individual-choice paths not constructed by this two-uniform-branch contract",
+    "other pair lists, non-dvandva, other numbers/genders, accent and wider grammar/source/native gates"
+  ]
+}

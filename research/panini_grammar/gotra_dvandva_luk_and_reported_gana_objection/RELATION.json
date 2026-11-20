@@ -1,0 +1,105 @@
+{
+  "frame": {
+    "category": "nominal gotra itaretara-dvandva; no verbal root/prefix/voice",
+    "bases": [
+      "upaka",
+      "lamaka"
+    ],
+    "teaching_affix_each": "phak_4.1.99",
+    "genealogy": "supplied male grandsons-or-later of the respective base, satisfying4.1.162",
+    "number": "plural persons supplied; two member classes do not force dual",
+    "case": "external nominative plural",
+    "source_membership": "Kashika41099 explicitly lists both bases;24068 supplies this exact overlapping pair",
+    "readout": "conventional unaccented orthography, no exhaustive external recitation"
+  },
+  "policies": [
+    {
+      "id": "KASHIKA_ORIGINAL_OVERLAP",
+      "gana_pair_status": "overlapping pair admitted to24068",
+      "choices": [
+        "LUK_BOTH"
+      ],
+      "witness": "kashika24068/24069"
+    },
+    {
+      "id": "KAUMUDI_OPTIONAL_DISPLAY",
+      "gana_pair_status": "follow explicit optional display, without inventing source reconciliation",
+      "choices": [
+        "LUK_BOTH",
+        "RETAIN_BOTH"
+      ],
+      "witness": "kaumudi24069"
+    }
+  ],
+  "branches": [
+    {
+      "id": "LUK_BOTH",
+      "phak_owners": [
+        "P_UPAKA",
+        "P_LAMAKA"
+      ],
+      "lopa": "each whole gotra affix; includes replacement aayan plus original suffix a",
+      "anga_query": "1.1.63 blocks affix-induced initial growth and bha-dependent final-a loss via deleted phak",
+      "stems": [
+        "upaka",
+        "lamaka"
+      ],
+      "compound_stem": "upakalamaka",
+      "word": "upakalamakāḥ",
+      "policies": [
+        "KASHIKA_ORIGINAL_OVERLAP",
+        "KAUMUDI_OPTIONAL_DISPLAY"
+      ],
+      "new_nominal_positions": 0,
+      "new_nominal_readings": 0
+    },
+    {
+      "id": "RETAIN_BOTH",
+      "phak_owners": [
+        "P_UPAKA",
+        "P_LAMAKA"
+      ],
+      "lopa": "no gotra-affix luk; inner sup luk is separate",
+      "anga_query": "retained kit7.2.118 and bha6.4.148 act on each owned base",
+      "stems": [
+        "aupakāyana",
+        "lāmakāyana"
+      ],
+      "compound_stem": "aupakāyanalāmakāyana",
+      "word": "aupakāyanalāmakāyanāḥ",
+      "policies": [
+        "KAUMUDI_OPTIONAL_DISPLAY"
+      ],
+      "new_nominal_positions": 0,
+      "new_nominal_readings": 0
+    }
+  ],
+  "source_observation": {
+    "unit": "REPORTED_KAIYATA_GANA_PATHA_OBJECTION",
+    "raw_field": "tattvabodhini24069",
+    "direct_topic": "the source-specific bhrashtraka-kapishthala pair, not automatic removal of all three pairs",
+    "claim": "Tattva reports Kaiyata calling that24068 listing non-arsha on an attributed Bhasya retained-form example; supplies a membership/edition explanation for optionality",
+    "original_sources_collated": false,
+    "raw_variants_preserved": true
+  },
+  "unknown_policy": {
+    "stable_common_edge": "LUK_BOTH with policy history still retained",
+    "conditional_edge": "RETAIN_BOTH only if selected policy licenses it",
+    "status": "Open policy, not free optional Sanskrit"
+  },
+  "excluded": [
+    "use highest sutra ID as universal override",
+    "erase both affixes but retain their initial vrddhi by unrestricted1.1.62",
+    "delete only ph from the gotra affix",
+    "transfer Kaiyata reported objection to all pairs without evidence",
+    "mix one retained and one deleted member from the two uniform compound displays",
+    "force dual from two member classes despite plural-person frame",
+    "repair raw bhrashtaka/bhrashtraka or Kaumudi aupaka display silently"
+  ],
+  "open": [
+    "independent original Bhasya/Kaiyata edition and authenticity of reported gana patha",
+    "raw Tattva24069 repetitive/damaged text and member spelling collation",
+    "mixed-member individual-choice paths not constructed by this two-uniform-branch contract",
+    "other pair lists, non-dvandva, other numbers/genders, accent and wider grammar/source/native gates"
+  ]
+}

@@ -1,6 +1,6 @@
-# Written-development backlog at PG384
+# Written-development backlog at PG385
 
-Monty · 20 November 2026 · reviewed parent `cd9503eacbeeeffee1da4500dce8672d60c82e01`.
+Monty · 20 November 2026 · reviewed parent `7f2a4a0d89a9fd45e5839444b778aab36bf446d5`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -85,6 +85,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### S7 · Common phiñ edge and initial-sound ownership at PG384
 
 [PG384](mimata_phin_initial_replacement_and_short_i/README.md) completes the selected Mimata+phiñ masculine short-i panel:24 keys,23 new positions/readings after old nominative withholding. Initial ph→āyan retains original i and source-selected non-it n; one addressed marker/recipient observation. This edge is common to both declared policy records, without settling original Bhāṣya/Kaumudī display reconciliation. Other-gender/depth/region scope, damaged jñāpaka wording and other S7/S1–S6/C2–C5 remain Open. Earlier phiñ Open references are superseded only on this selected male direct-child domain.
+
+### S7 · Reported gaṇa-membership explanation and owned luk at PG385
+
+[PG385](gotra_dvandva_luk_and_reported_gana_objection/README.md) addresses Tattva24069’s reported Kaiyaṭa anārṣa objection on its particular Bhraṣṭraka–Kapiṣṭhala example. One source observation, not independent original Bhāṣya/Kaiyaṭa evidence or removal of all overlaps. Selected Upaka–Lamaka has one compound construction/two uniform readouts under preserved K versus SK policies: paired whole-phak luk blocks its aṅga effects under1.1.63; inner-sup luk has another owner. Both source words already old,0 finite/nominal credits. Original witnesses, damaged/variant other-pair text, mixed-member paths and wider C2–C5/S1–S7 remain Open. Earlier2.4.69 policy distinction is preserved, not recounted or harmonized.
 
 ## Claude-deferred execution: separate gates
 
