@@ -1,5 +1,8 @@
 # Pāṇini grammar · current written coverage at PG384
 
+PG388 adds [Saṃhitā locator and proposed unmarked snu](dams_samhita_locator_and_bhasya_snu_proposal/README.md): two source observations and one source-conditional morphology construction/readout;0 finite/nominal word credits. Revision401251 locates Vājasaneyi15.15/biting-animal gloss; Bhāṣya85751 positively proposes plain snu then returns to git. The proposed daṃś arm retains n without pretending generic kit has the same guard. PG386 default stays frozen; broader kit/edition/accent and written gates remain Open.
+
+
 PG387 adds [addressed Kāśikā2.4.28 gender witness](kashika_24028_addressed_gender_witness/README.md): one source observation,0 finite/nominal/construction credits. Revision90381 supplies the correct-topic first-member Vedic gender/number clause; the frozen misassigned deity field stays nonoperative. Rendered excerpt provenance is explicit, no raw-HTML/scan or manuscript claim. Transmission cause/repair, independent editions and wider gates remain Open.
 
 
@@ -15,7 +18,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG387 add **10,306 finite positions**, taking the written total to **51,639**. The new lexical and compound work gives 3,245 nominal positions with 3,799 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG388 add **10,306 finite positions**, taking the written total to **51,639**. The new lexical and compound work gives 3,245 nominal positions with 3,799 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

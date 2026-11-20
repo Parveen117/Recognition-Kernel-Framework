@@ -1,5 +1,8 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG388 adds [Saṃhitā locator and proposed unmarked snu](dams_samhita_locator_and_bhasya_snu_proposal/README.md): two source observations and one source-conditional morphology construction/readout;0 finite/nominal word credits. Revision401251 locates Vājasaneyi15.15/biting-animal gloss; Bhāṣya85751 positively proposes plain snu then returns to git. The proposed daṃś arm retains n without pretending generic kit has the same guard. PG386 default stays frozen; broader kit/edition/accent and written gates remain Open.
+
+
 PG387 adds [addressed Kāśikā2.4.28 gender witness](kashika_24028_addressed_gender_witness/README.md): one source observation,0 finite/nominal/construction credits. Revision90381 supplies the correct-topic first-member Vedic gender/number clause; the frozen misassigned deity field stays nonoperative. Rendered excerpt provenance is explicit, no raw-HTML/scan or manuscript claim. Transmission cause/repair, independent editions and wider gates remain Open.
 
 

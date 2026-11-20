@@ -155,3 +155,14 @@ PG385 second document-check retry: prior-credit scan read the modified live summ
 ### Actual PG384–387 increment
 
 Four stages: **0 new finite positions/finite readings;23 new nominal positions/23 nominal readings;3 source observations;one compound construction/two uniform readouts;one kṛt morphology construction/readout with four addressed marker views**. Correct source witnesses and new structural derivations do not recredit old word tables. Written project completion remains Open on the evidence-linked backlog; no new completion ETA or continuous-hours claim.
+
+## Completion continuation · PG388
+
+- Actual fetched parent `cccef1ba43264dd3bbafbfadcb2676dbd1f01367`, clean aligned repository before mutation, no overlapping writer observed. [PG388](dams_samhita_locator_and_bhasya_snu_proposal/README.md) adds **two source observations and one source-conditional kṛt morphology construction/readout**,0 finite/nominal positions/readings. Totals **51,639 finite;3,245 nominal/3,799 readings**. PG335/frozen predecessors/PG357–363 CLOSED preserved.
+- Exact revision401251 positively locates Vājasaneyi15.15 plus labelled Uvaṭa/Mahīdhara biting-habit glosses; no independent manuscript-lineage/accent claim. Exact Mahābhāṣya85751 at3.2.139/wārttika3061 positively discusses plain snu for Vedic daṃś, then objects to splitting and returns to git. One coherent observation per source decision, not per layer/sentence; selected rendered excerpts, no raw HTML/scan hashes.
+- Proposed plain-snu arm now has owned completion: no g/k/ṅ marker, no imported1.2.4 ārdhadhātuka→ṅit, root-conditioned aniṭ and no6.4.24/25 n-lopa; actual sounded input then reuses exact PG386 phonology/outer jas to old daṅkṣṇavaḥ. Proposed grammar remains conditional and PG386 git stays adopted default. Full PG14 typed zero proof retains both histories; same word cannot recover unequal original-marker queries. Wider kit/attribution/edition/Vedic/native contracts Open.
+- Necessary explicit-Python3.12 changed-document/source/count checks only; actual result in packet. No Sanskrit/generator/grammar/proof execution, untouched suites/replay, ETA/whole-language/continuous-hours claim. Summaries/navigation/backlog updated; no agents/new automation.
+
+### Actual PG384–388 increment
+
+Five substantive stages: **0 new finite positions/finite readings;23 new nominal positions/23 nominal readings;5 source observations;one compound construction/two uniform readouts;two kṛt morphology constructions/two readouts** (one is explicitly source-proposed rather than adopted default). PG386’s four marker-query rows are not extra word credits. Totals remain **51,639 finite;3,245 nominal/3,799 readings**. Full written completion remains Open on the concrete linked backlog; source gaps are not exclusions and elapsed time is not claimed as continuous executed work.

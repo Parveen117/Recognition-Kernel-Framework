@@ -1,6 +1,6 @@
-# Written-development backlog at PG387
+# Written-development backlog at PG388
 
-Monty · 20 November 2026 · reviewed parent `e21b67bbad45bfd54dcc1fce54a24a502310f960`.
+Monty · 20 November 2026 · reviewed parent `cccef1ba43264dd3bbafbfadcb2676dbd1f01367`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -97,6 +97,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### S7 · Correct-topic Kāśikā2.4.28 witness at PG387
 
 [PG387](kashika_24028_addressed_gender_witness/README.md) positively locates revision90381’s Kāśikā gender passage under2.4.28, with artha-atideśa/number-not-dual-only and plural control. One new addressed electronic witness/observation;0 word/construction credits, no independent manuscript lineage claim. The correct-topic locator obligation closes on this electronic-witness domain. Original upstream24028 stays misassigned/nonoperative and frozen. Raw-field transmission cause/repair, independent printed/manuscript collation, literal Vedic citations and broader S7/S1–S6/C2–C5 remain Open.
+
+### S7/C5 · Direct Vedic locator and proposed snu arm at PG388
+
+[PG388](dams_samhita_locator_and_bhasya_snu_proposal/README.md) directly locates Vājasaneyi15.15 in revision401251 with labelled biting-habit glosses, and Mahābhāṣya85751’s plain-snu restructuring proposal followed by return to git. Two source observations, one source-conditional morphology construction/readout,0 word credits. The proposed Vedic daṃś+unmarked-snu arm now has positive evidence and owned completion; PG386 git remains default. This supersedes its direct electronic Saṃhitā-locator residual and supplies one local alternative nasal-preservation account. Generic kit daṃś, broader four-root rival grammar, original commentator attribution, independent print/manuscript/lineage/accent and wider S1–S7/C2–C5 remain Open; proposal is not final free optionality.
 
 ## Claude-deferred execution: separate gates
 

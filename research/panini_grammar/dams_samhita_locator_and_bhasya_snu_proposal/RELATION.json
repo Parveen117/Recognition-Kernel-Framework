@@ -1,0 +1,94 @@
+{
+  "frame": {
+    "root": "1011144",
+    "root_address": "01.1144",
+    "sense": "daśane, biting",
+    "preverbs": [],
+    "voice_lakara": "not finite; habitual actor krt with supplied Vedic register",
+    "case_number_gender": "masculine nominative plural, same source-displayed guna branch as PG386"
+  },
+  "policies": [
+    {
+      "id": "KASHIKA_KAUMUDI_GIT",
+      "source_status": "PG386 selected account, corroborated by later Bhasya git return",
+      "affix": "interpreted original g-marker plus sounded snu",
+      "adopted_default": true
+    },
+    {
+      "id": "BHASYA_RESTRUCTURING_PROPOSAL",
+      "source_status": "positive dialectical proposal, followed by objection and return; constructed conditionally",
+      "affix": "independently prescribed unmarked snu, not generic kit ksnu",
+      "adopted_default": false
+    }
+  ],
+  "new_construction": {
+    "policy": "BHASYA_RESTRUCTURING_PROPOSAL",
+    "trace": [
+      {
+        "event": "ADMIT_PROPOSAL",
+        "input": "DAMS_VEDIC_ACTOR_FRAME",
+        "output": "R.dansh|P.snu",
+        "policy": "BHASYA_RESTRUCTURING_PROPOSAL",
+        "original_marker": null,
+        "source": "Bhasya3061, positive unmarked snu for dams in chandas"
+      },
+      {
+        "event": "ROOT_IT_AND_N_QUERY",
+        "input": "R.dansh|P.snu",
+        "output": "R.dansh|P.snu",
+        "it": "one-vowel anudatta root7.2.10 blocks7.2.35 general it; not7.2.11",
+        "n_lopa": "6.4.24 marker guard false;3.4.114 ardhadhatuka is not1.2.4 sarvadhatuka-apit ngit; no shap6.4.25"
+      },
+      {
+        "event": "PINNED_OWNED_PHONOLOGY",
+        "input": "R.dansh|P.snu",
+        "output": "daṅkṣṇu",
+        "dependency": "PG386 exact danś|snu sound trace; R.n to anusvara to velar ng, P.n to retroflex n; no old g-marker event copied"
+      },
+      {
+        "event": "PINNED_OUTER_JAS",
+        "input": "daṅkṣṇu|J.jas",
+        "output": "daṅkṣṇavaḥ",
+        "dependency": "PG386 selected Vedic nominal guna branch7.3.109/6.1.78 and conventional visarga, same owned J, no full accent closure"
+      }
+    ],
+    "readout": "daṅkṣṇavaḥ",
+    "new_finite_credit": 0,
+    "new_nominal_credit": 0,
+    "new_word_reading_credit": 0
+  },
+  "source_accounting": [
+    {
+      "id": "VS15_15_LOCATOR_AND_BITING_SENSE",
+      "credit": 1,
+      "witness": "VS15_15@401251",
+      "decision": "mantra15.15 directly has the word in animal context; separately labelled Uvata/Mahidhara gloss biting habit",
+      "independence": "one located electronic text/context unit, not three independent manuscripts"
+    },
+    {
+      "id": "BHASYA_UNMARKED_SNU_PROPOSAL_AND_RETURN",
+      "credit": 1,
+      "witness": "BHASYA3_2_139@85751",
+      "decision": "unmarked snu proposal for stha/dams precedes objection to rule splitting and return to git solution",
+      "independence": "one addressed dialectic unit, not final equal optionality or independent critical edition"
+    }
+  ],
+  "accepted": [
+    "source-located unmarked-snu route accounts for nasal on this proposed chandas dams arm",
+    "PG386 git default retained; proposed branch is source-conditional, not free optionality",
+    "Vajasaneyi15.15 e-text/labelled traditional glosses positively located independently of Kasika report"
+  ],
+  "excluded": [
+    "supply ordinary kit ksnu on dams but copy no-n-lopa effect from unmarked snu",
+    "call the dialectical proposal the final Bhasya choice",
+    "treat mantra surface as proof of which original affix marker was taught",
+    "count the same word again as a new nominal key/reading",
+    "claim all stha/glā/ji/bhu kit alternatives or accent construction completed"
+  ],
+  "open": [
+    "independent printed/manuscript collation and electronic source lineage",
+    "exact Vamana/Kaiyata attribution and broader rival-kit four-root grammar",
+    "other Vedic nominal branches/accent/recitation and wider lexical domains",
+    "other S1-S7/C2-C5 grammar/native/source obligations"
+  ]
+}
