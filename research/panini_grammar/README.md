@@ -2430,3 +2430,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG379 · Nested causee case and the immediate-input view
 
 [Nested gam](nested_gam_immediate_input_and_causee_case/README.md) adds **one syntactic construction/readout**, zero word/source credits. An already-causal input fails1.4.52’s aṇau condition, even though its oldest root was simple. Explicit source roles retain Devadatta instrumental, Yajñadatta accusative and outer Viṣṇumitra agreement. Full PG14 typed zero proof retains these event/formation grades. Totals51,639 finite; nominal3,199/3,753. Nested affix morphology/general pada and wider source/written gates Open; execution/untouched suites/replay deferred.
+
+## PG380 · Inner svārtha ṇic lopa before outer causal vṛddhi
+
+[PG380](curadi_inner_nic_lopa_before_outer_vrddhi/README.md) adds one morphology construction/readout and one addressed source observation, zero word credits. Kaumudī/Bāla74081 require early inner S-lopa, rejecting corāyayati and preserving H-owned ay in corayati. Svārtha S adds no separate causer. Caṅ-jāti dissent, two-hetu gam morphology and wider gates Open; full PG14 typed zero proof supplied. Totals51,639 finite, nominal3,199/3,753; execution/untouched suites/replay deferred.

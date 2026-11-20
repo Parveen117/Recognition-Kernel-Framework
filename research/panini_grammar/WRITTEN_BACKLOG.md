@@ -1,6 +1,6 @@
-# Written-development backlog at PG379
+# Written-development backlog at PG380
 
-Monty · 20 November 2026 · reviewed parent `8cb5adb8f71d82f95dd528257f67fa71f2aed9da`.
+Monty · 20 November 2026 · reviewed parent `6ff44a51f7f790dfcaab875786bd00298800b395`.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -51,6 +51,8 @@ PG375 supplies [causal-agent feminine/neuter](bheditavat_feminine_nip_and_neuter
 PG377 constructs [inanimate bhū/sthā causees](inanimate_bhu_stha_causees_and_pada_guards/README.md): two supplied causal-role/pada contracts, eight readouts, zero word-position/source credits. PG14 conscious controls remain frozen; non-conscious b keeps base agency and becomes outer object, while 1.3.88 no longer forces P. Result/upapada evidence determines active A/P and retained causer agreement. This closes only that C2 subdomain; unspecified causee identity, other roots/senses, double-karman/passive/nested/accent/native and S1–S7 remain Open.
 
 PG379 constructs [nested gam roles](nested_gam_immediate_input_and_causee_case/README.md), one syntactic contract/readout: Kāśikā1.4.52’s aṇau view reads the immediate already-causal input, retaining outer causee Devadatta instrumental, Yajñadatta accusative and Viṣṇumitra as active controller. This closes only that source-anchored role/case subdomain. Source-supplied gamayati is not a completed nested affix derivation; nested morphology/general pada and wider C2–C5/S1–S7 remain Open. Zero finite/nominal/source credits.
+
+PG380 constructs [curādi S/H affix ownership](curadi_inner_nic_lopa_before_outer_vrddhi/README.md): svārtha ṇic S plus hetumat H, early S-lopa before vṛddhi and H-owned ay yield corayati. One morphology unit/readout and one source-order observation, zero word credits. This is not PG379’s two-hetu gam formation; its full morphology stays Open. Later caṅ-jāti/instance and reported Śabdenduśekhara objection remain Open, as do wider C2–C5/S1–S7.
 
 ## Source readings: remain Open until positive evidence
 
