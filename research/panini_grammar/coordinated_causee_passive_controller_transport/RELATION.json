@@ -1,0 +1,180 @@
+{
+  "input": {
+    "root": "1080010 kṛ karaṇe",
+    "preverbs": [],
+    "formation": "single hetumat nic; unaccented classical LAT KARMANI",
+    "causer": "a distinct from all B members and c",
+    "base_object": "c supplied pot, distinct from B and a",
+    "causee": "B supplied joint-agent group, distinct individual members",
+    "causee_role_policy": "selected chi=K under1.4.53; chi=Agt not erased",
+    "controller_policy": "PG140 supplied WHOLE_GROUP schedule only; source order retained",
+    "special": "no1.4.106 prahasa/manya, no reciprocal/karmakartri/nested/san/yang"
+  },
+  "rows": [
+    {
+      "group": "OTHER_SPEAKER",
+      "members": [
+        "R",
+        "I"
+      ],
+      "distinct_members": 2,
+      "schedule": "WHOLE_GROUP",
+      "base_role": "E0 joint kartṛ B",
+      "outer_role": "E1 karman B under selected chi=K",
+      "expressed": "q=B",
+      "controller_members": [
+        "R",
+        "I"
+      ],
+      "slot": "1du",
+      "word": "kāryāvahe",
+      "causee_case": "NOM",
+      "base_object_case": "ACC",
+      "causer_case": "INS",
+      "pada": "A",
+      "finite_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "group": "ADDRESSEE_SPEAKER",
+      "members": [
+        "Y",
+        "I"
+      ],
+      "distinct_members": 2,
+      "schedule": "WHOLE_GROUP",
+      "base_role": "E0 joint kartṛ B",
+      "outer_role": "E1 karman B under selected chi=K",
+      "expressed": "q=B",
+      "controller_members": [
+        "Y",
+        "I"
+      ],
+      "slot": "1du",
+      "word": "kāryāvahe",
+      "causee_case": "NOM",
+      "base_object_case": "ACC",
+      "causer_case": "INS",
+      "pada": "A",
+      "finite_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "group": "OTHER_ADDRESSEE",
+      "members": [
+        "R",
+        "Y"
+      ],
+      "distinct_members": 2,
+      "schedule": "WHOLE_GROUP",
+      "base_role": "E0 joint kartṛ B",
+      "outer_role": "E1 karman B under selected chi=K",
+      "expressed": "q=B",
+      "controller_members": [
+        "R",
+        "Y"
+      ],
+      "slot": "2du",
+      "word": "kāryethe",
+      "causee_case": "NOM",
+      "base_object_case": "ACC",
+      "causer_case": "INS",
+      "pada": "A",
+      "finite_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "group": "OTHER_ADDRESSEE_SPEAKER",
+      "members": [
+        "R",
+        "Y",
+        "I"
+      ],
+      "distinct_members": 3,
+      "schedule": "WHOLE_GROUP",
+      "base_role": "E0 joint kartṛ B",
+      "outer_role": "E1 karman B under selected chi=K",
+      "expressed": "q=B",
+      "controller_members": [
+        "R",
+        "Y",
+        "I"
+      ],
+      "slot": "1pl",
+      "word": "kāryāmahe",
+      "causee_case": "NOM",
+      "base_object_case": "ACC",
+      "causer_case": "INS",
+      "pada": "A",
+      "finite_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "group": "THREE_NAMED_ACTORS",
+      "members": [
+        "R",
+        "S",
+        "B"
+      ],
+      "distinct_members": 3,
+      "schedule": "WHOLE_GROUP",
+      "base_role": "E0 joint kartṛ B",
+      "outer_role": "E1 karman B under selected chi=K",
+      "expressed": "q=B",
+      "controller_members": [
+        "R",
+        "S",
+        "B"
+      ],
+      "slot": "3pl",
+      "word": "kāryante",
+      "causee_case": "NOM",
+      "base_object_case": "ACC",
+      "causer_case": "INS",
+      "pada": "A",
+      "finite_credit": 0,
+      "reading_credit": 0
+    }
+  ],
+  "case_contract": {
+    "karman_set": [
+      "B",
+      "c"
+    ],
+    "eligible_expressed": "B under PG15 kṛ chi=K policy",
+    "B": "expressed by ting, residual NOM",
+    "c": "unexpressed karman ACC2.3.1/2",
+    "a": "unexpressed outer kartṛ INS2.3.18"
+  },
+  "negative_control": {
+    "branch": "chi=Agt",
+    "karman_set": [
+      "c"
+    ],
+    "expressed": "c",
+    "slot": "3sg supplied pot",
+    "word": "kāryate",
+    "B_case": "INS",
+    "a_case": "INS",
+    "reason": "speaker/addressee in instrumental B is not co-referential with expressed c; no first/second person trigger"
+  },
+  "accepted": [
+    "one typed collective-controller transport to causal passive, five supplied group readouts",
+    "same group member/person data, new event-role owner for ting controller",
+    "group chosen before person/number; non-controller mentions cannot enter resolution"
+  ],
+  "excluded": [
+    "count PG140 collective schedules as new source/coordination discoveries",
+    "assign person from every speaker/addressee mention in clause",
+    "retain active causer as karma-passive controller",
+    "treat two distinct members as one entity because one group controller object is supplied",
+    "credit old PG15 inflected words as new positions/readings",
+    "make chi=K mandatory for all kṛ causal inputs"
+  ],
+  "open": [
+    "passive individual/nearest-conjunct schedules and other orders/registers; not declared impossible",
+    "unsupplied group membership or unknown causee role; chi=Agt/controller alternatives retained",
+    "other roots/voice/derived/prefix/lakara/coordination/ekasesa/accent domains",
+    "S1-S7/C2-C5 wider grammar/source/native integration and Claude execution"
+  ]
+}

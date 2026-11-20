@@ -1,5 +1,8 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG404 constructs [coordinated causee passive controller transport](coordinated_causee_passive_controller_transport/README.md): one syntax/controller bridge/five supplied collective readouts;0 new finite/nominal/source/morphology credits. PG140 whole-group schedules feed expressed causee q on PG15 kṛ χ=K; instrumental speaker/addressee on χ=Agt cannot control pot q. Other passive schedules remain Open; totals51,648 finite,3,245 nominal/3,799 readings.
+
+
 PG403 constructs [inanimate bhū/sthā passive causee agreement](inanimate_bhu_stha_passive_causee_agreement/README.md): two syntax/controller contracts/six number readouts;0 new finite/nominal/source/morphology credits. Non-conscious b retains E0 agency, becomes sole E1 karman and controls karmaṇi agreement; active result/pada choices do not multiply passive A. PG15 words reused beyond its old conscious-input boundary. Selected PG377 passive residual closes; totals51,648 finite,3,245 nominal/3,799 readings; wider gates Open.
 
 

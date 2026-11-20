@@ -1,6 +1,6 @@
-# Written-development backlog at PG403
+# Written-development backlog at PG404
 
-Monty · 20 November 2026 · reviewed parent f5a1cc5821d0a3731f6d130a1538b7a2d71e96a8.
+Monty · 21 November 2026 · reviewed parent f6a1682e4f4f6b23acb19096ba7440acf1bfe7f1.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -161,6 +161,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C2/C4 · Inanimate bhū/sthā causal passive at PG403
 
 [PG403](inanimate_bhu_stha_passive_causee_agreement/README.md) closes PG377's selected inanimate causal-passive residual: two syntax/controller contracts/six singular-dual-plural readouts. PG15's conscious-only domain is preserved; its old words receive0 credit. Positive akarmaka E0 promotes inanimate b to sole E1 object; that q controls A karmaṇi while causer a is instrumental. Base agency remains event-indexed, and active1.3.88/74/77 choices do not create passive P/optionality or bhāva-singular restrictions. No fresh morphology/source/finite/nominal credits. Unknown transitivity/extra karmans and other roots/derived/prefix/lakāra/accent/native/S1–S7/C2–C5 domains remain Open. Earlier passive-Open references superseded only on these selected inputs.
+
+### C4 · Coordinated expressed causee in passive at PG404
+
+[PG404](coordinated_causee_passive_controller_transport/README.md) constructs one typed bridge/five supplied PG140 whole-group readouts into PG15's previously excluded coordinated causal-passive kṛ domain. Select χ=K then q=B before person/number; retained c is accusative, a instrumental. Alternate χ=Agt has q=c, so instrumental speaker/addressee B does not trigger first/second person. Exact old schedules/words receive0 source/finite/nominal/morphology recredit. This conditional transport is authored, not passive corpus attestation or global resolution of individual/nearest-member agreement. Other passive schedules/orders/roles/roots/formations and wider C2–C5/S1–S7 remain Open.
 
 ## Claude-deferred execution: separate gates
 
