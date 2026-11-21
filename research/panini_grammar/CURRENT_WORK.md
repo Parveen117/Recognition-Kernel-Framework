@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG410
+# Pāṇini grammar · current written coverage at PG411
+
+PG411 constructs [nested gam prior action and laghu-lyap ay](nested_gam_prior_action_and_lyap_laghu_ay/README.md):two nonfinite constructions/readouts,0 finite/nominal positions/readings/source observations. Common outer V and E2≺G precede gamayitvā or supplied pra-compound pragamayya; specific6.4.56 uses visible short ga and keeps H2 as ay rather than lopa. The two y owners remain distinct. Totals51,648 finite;3,389 nominal/3,975 readings; wider gates Open.
 
 PG410 constructs [nested gam kta with outer iṭ before second lopa](nested_gam_kta_outer_it_before_second_lopa/README.md):one morphology construction/readout,0 new finite/nominal positions/readings/source observations. Completed past E2 and patient Y precede kta; H1-lopa, outer iṭ, then seṭ-niṣṭhā H2-lopa give gamita with i_IT retained and both causal events preserved. Totals51,648 finite;3,389 nominal/3,975 readings. Wider nested/nominal/source/native gates remain Open.
 
@@ -83,7 +85,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG410 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,389 nominal positions with 3,975 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG411 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,389 nominal positions with 3,975 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

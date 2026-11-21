@@ -1,0 +1,71 @@
+{
+  "input": {
+    "root": "1011137",
+    "sense": "ordinary gatau",
+    "participants": "distinct Y,D,V",
+    "events": [
+      "E0:Y moves",
+      "E1:D induces E0",
+      "E2:V induces E1",
+      "G:V performs a later action"
+    ],
+    "formation": "two hetumat nic H1/H2, no svartha nic",
+    "order": "E2 strictly prior to G supplied; no absolute utterance-time past required",
+    "control": "kartṛ(E2)=kartṛ(G)=V, not merely D or Y",
+    "karman": "Y only positively supplied; no inferred additional goal",
+    "phonetics": "unaccented conventional undoubled except distinct required H2-y plus lyap-y"
+  },
+  "branches": [
+    {
+      "id": "KTVA",
+      "prefixes": [],
+      "compound": false,
+      "input": "gam_ROOT|empty_H1|i_H2|i_IT|tvā_KTVA",
+      "events": [
+        "outer iṭ7.2.35",
+        "seṭ ktvā akit1.2.18",
+        "6.4.51 aniṭ false;6.4.52 niṣṭhā false",
+        "H2-i->e->ay7.3.84/6.1.78"
+      ],
+      "output": "gam_ROOT|empty_H1|ay_H2|i_IT|tvā_KTVA",
+      "word": "gamayitvā"
+    },
+    {
+      "id": "LYAP",
+      "prefixes": [
+        "pra"
+      ],
+      "compound": "positively supplied verbal gati/upasarga non-nañ compound",
+      "input": "pra|gam_ROOT|empty_H1|i_H2|ya_LYAP",
+      "events": [
+        "whole ktvā->lyap7.1.37",
+        "actual y outside val: no outer iṭ",
+        "root ga short/laghu before H2, visible to6.4.56 by different asraya",
+        "6.4.56 H2-i->ay instead of candidate6.4.51 lopa"
+      ],
+      "output": "pra|gam_ROOT|empty_H1|ay_H2|ya_LYAP",
+      "word": "pragamayya"
+    }
+  ],
+  "shared_history": "PG381 early H1-lopa and matched gam->gām->gam mit interface, with retained E1/E2",
+  "accepted": [
+    "two new nonfinite formation/control contracts and two readouts",
+    "outer V supplies common agent and E2 supplies prior action, neither inner causee substitutes",
+    "H2 survives as ay in both arms with different licences; only ktvā has outer iṭ",
+    "lyap double y belongs separately to H2 and actual lyap, not optional repetition"
+  ],
+  "excluded": [
+    "known different outer causal and matrix agents despite shared inner D/Y",
+    "known nonprior E2 on this ordinary3.4.21 edge",
+    "copy PG410 set-nistha H2-lopa into ktvā",
+    "copy PG409 aniṭ-yak lopa or PG371 non-laghu bhid lyap lopa into this laghu gam",
+    "infer verbal compound solely from pra substring",
+    "erase H1 causal event after its sound lopa",
+    "treat gamayya double y as a single unowned suffix or optional phonetic doubling"
+  ],
+  "open": [
+    "missing control/order/compound/object evidence remains Open",
+    "other prefixes/roots/senses, nested depths, absolute tense, nonprior exceptions and independent nested clause attestation",
+    "caṅ jati/instance source dispute, accent/other phonetic branches and broader C2-C5/S1-S7/native integration"
+  ]
+}

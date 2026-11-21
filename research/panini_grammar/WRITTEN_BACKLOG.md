@@ -1,4 +1,4 @@
-# Written-development backlog at PG410
+# Written-development backlog at PG411
 
 Monty · 21 November 2026 · reviewed parent ee70c4e19ab7efb9edcf762ed6e63a85fb1ad97a.
 
@@ -189,6 +189,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C2/C4 · Nested gam past-patient kta at PG410
 
 [PG410](nested_gam_kta_outer_it_before_second_lopa/README.md) closes one selected two-hetu gam past-E2 patient morphology contract/readout: H1-lopa precedes H2 growth; outer iṭ precedes seṭ-niṣṭhā H2-lopa6.4.52. Gamita retains i_IT, lexical m and both causal events. Patient Y/agents D,V reuse PG409's unique-karman input; completed past E2 is supplied separately from E0. No new finite/nominal keys/readings/source/syntax units. Totals unchanged51,648 finite;3,389 nominal/3,975 readings. No full paradigm/independent nested quotation claimed. Other nested/nominal/object/accent/caṅ/source/native domains and S1–S7/C2–C5 remain Open.
+
+### C2/C4/C5 · Nested prior action and specific laghu-lyap ay at PG411
+
+[PG411](nested_gam_prior_action_and_lyap_laghu_ay/README.md) closes two supplied nonfinite contracts/readouts: common outer V and E2≺G, unprefixed gamayitvā versus actual verbal pra-compound pragamayya. Seṭ ktvā retains H2/outer iṭ; actual lyap lacks iṭ but specific6.4.56 keeps H2 as ay on short-ga/laghu input, rather than generic lopa. K's different-āśraya explanation makes the short-root witness visible for this consumer; H2-y/lyap-y remain distinct. PG409/410 and single-ṇic bhid receive no recredit.0 finite/nominal/source or separate morphology/syntax units; totals51,648 finite;3,389 nominal/3,975 readings. Other nested/compound/control/order/object/sense/accent/attestation/caṅ/source/native domains and C2–C5/S1–S7 remain Open.
 
 ## Claude-deferred execution: separate gates
 
