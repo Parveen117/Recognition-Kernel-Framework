@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG438
+# Pāṇini grammar · current written coverage at PG439
+
+PG439 constructs [aś remaining cases and the selected idam replacement partition](ash_remaining_cases_and_idam_replacement_partition/README.md):36 keys38 readings,all old PG435 words withheld;1 morphology/case-transport adapter,0 new finite/nominal/source credits. Whole aś versus plain id-part lopa retains different history and licensed class/accent views. With PG437 ena, selected original-no-ak idam replacement domain closes54 keys57 readings,0 aggregate credit. Totals51,648 finite;4,265 nominal/4,936 readings unchanged; wider gates Open.
 
 PG438 constructs [akac-idam M/N obliques and three no-k guards](akac_idam_obliques_and_three_no_k_guards/README.md):30 keys32 readings,16/18 new nominal credits after14 controls withheld;1 morphology adapter. Actual ak survives in imaka; no-k guards7.2.112/113 and7.1.11 fail separately, so imakena/imakābhyām/imakaiḥ retain class and matched endings.0 finite/source credits. Totals51,648 finite;4,265 nominal/4,936 readings; female/direct/aś/source/native gates Open.
 
@@ -139,7 +141,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG438 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 4,265 nominal positions with 4,936 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG439 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 4,265 nominal positions with 4,936 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

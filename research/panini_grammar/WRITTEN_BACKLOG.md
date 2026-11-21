@@ -1,6 +1,6 @@
-# Written-development backlog at PG438
+# Written-development backlog at PG439
 
-Monty · 21 November 2026 · reviewed parent e3dee2507d4d1c318da30a50331943afc6cbb703.
+Monty · 21 November 2026 · reviewed parent 1b70e9f91b0336a2d6b95d3cc94fdcc031d36c12.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -314,6 +314,10 @@ S1 closure. Actual links/limitations and published results are logged in
 ### C4/C5 · Plain akac-idam M/N obliques at PG438
 
 [PG438](akac_idam_obliques_and_three_no_k_guards/README.md) closes30 M/N five-oblique-case sg/du/pl keys32 readings,16/18 new after14 source controls conservatively withheld;1 composed morphology adapter,0 finite/source credits. Actual pre-original-ṭi ak and separate d/m changes give imaka. No-k guards for an/id-lopa and special ais prohibition fail without deleting class: imakena/imakābhyām/imakaiḥ. Totals51,648 finite;4,265 nominal/4,936 readings. Remaining: akac-idam direct/female cases, actual anvādeśa interaction/full aś cases, source/print/raw Bala72110 and C2–C5/S1–S7/native/accent/Vedic/compound/external domains. Earlier akac-idam Open references superseded only for this plain ajñāta M/N oblique domain.
+
+### C4/C5 · Aś remaining no-ak cases and selected partition at PG439
+
+[PG439](ash_remaining_cases_and_idam_replacement_partition/README.md) closes36 aś case/gender/number keys38 readings,all same PG435 plain words withheld;1 case-transport adapter,0 finite/nominal/source credits. Whole recipient differs from part-lopa while permitted non-al class views and actual sound consumers remain separate. Combined with PG437 ena, selected original-no-ak idam replacement domain locally CLOSED54 keys57 readings,0 aggregate credit. Totals51,648 finite;4,265 nominal/4,936 readings unchanged. Remaining: original-akac-to-aś interaction, akac-idam female/direct cases, actual discourse recognition, full accent/print/Tattva/Bhāṣya/raw-source and C2–C5/S1–S7/native/vocative/Vedic/compound/external domains. Earlier full-aś-case Open references superseded only for this selected original-no-ak domain.
 
 ## Claude-deferred execution: separate gates
 
