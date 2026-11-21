@@ -1,6 +1,6 @@
-# Written-development backlog at PG421
+# Written-development backlog at PG422
 
-Monty · 21 November 2026 · reviewed parent b1919cbf33173148f79581d811f54c6246418371.
+Monty · 21 November 2026 · reviewed parent 5f44a6b483a83df4b1201aed3e0749a39c7f134b.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -237,6 +237,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/C5 · Neuter adḍ instruction/marker/ṭi ownership at PG421
 
 [PG421](neuter_ad_instruction_marker_and_owned_ti_lopa/README.md) closes one morphology adapter on five source-supplied member stems,10 case-owned readouts/20 selected pause spellings with **zero new word-position/readings credits**. One addressed Bāla7.1.25 observation reports Kaiyaṭa's instruction-display clarification; it is not independently collated Kaiyaṭa. Whole su/am→adḍ retains original case and separates d_PAYLOAD, deleted ḍ_IT/retained ḍit and deleted stem ṭi. Correct accusative spelling alone cannot verify that path. Raw suffix-pair token डक्त्रडतमौ remains unamended/Open, positive ḍatarac/ḍatamac identities separately sourced. Cumulative51,648 finite;3,658 nominal/4,275 readings unchanged. Upstream full taddhita semantic/word formations, all complete pronoun panels and vocative/Vedic/other sound domains, original source collation and C2–C5/S1–S7/native gates remain Open; this does not recredit old katarat/anyat source controls.
+
+### C4/C5 · Selected-member taddhita constructors and two ṭi owners at PG422
+
+[PG422](determination_taddhita_member_ownership_and_two_ti_lopas/README.md) closes2 selected source-qualified constructors with6 kim/yad/tad stem readouts;1 addressed electronic Bāla comparison observation,0 finite/nominal word credits. Q must denote selected x, not comparison E. K_STRICT and SK_BALA_REPORTED_BROAD guards remain distinct; no silent removal of two/jāti qualifiers. Initial ḍit deletes original im/ad_Q; the PG421 N ending later deletes a_FINAL_TADDHITA, not the same sound. Selected katara/katama upstream bridge now constructed without new credits for old katarat/katamat words. Totals51,648 finite;3,658 nominal/4,275 readings unchanged. Positive akac alternative and analytic q-word realization are concrete next obligations, alongside full paradigms/accent/cit/Vedic/compound/original commentary and C2–C5/S1–S7/native gates. Reported broader policy is not independent original Bhāṣya/Kaiyaṭa collation; malformed raw Bāla lines remain preserved/Open.
 
 ## Claude-deferred execution: separate gates
 

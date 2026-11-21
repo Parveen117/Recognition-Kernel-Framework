@@ -1,0 +1,142 @@
+{
+  "input": {
+    "bases": [
+      "kim",
+      "yad",
+      "tad"
+    ],
+    "role": "base refers to selected member x, not comparison set E",
+    "relation": "x∈E supplied; determine x by a source-licensed property, no free truth inference",
+    "root": null,
+    "preverbs": [],
+    "voice": null,
+    "policies": [
+      "K_STRICT",
+      "SK_BALA_REPORTED_BROAD"
+    ],
+    "register": "ordinary unaccented selected affixed branches"
+  },
+  "rows": [
+    {
+      "base": "kim",
+      "base_sense": "interrogative selected x",
+      "affix": "ḍatarac",
+      "payload": "atara",
+      "initial_it": "ḍ_IT_D_ATARA",
+      "final_it": "c_IT_D_ATARA",
+      "deleted_ti": "im_Q",
+      "retained": "k_Q",
+      "stem": "katara",
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "base": "yad",
+      "base_sense": "relative selected x",
+      "affix": "ḍatarac",
+      "payload": "atara",
+      "initial_it": "ḍ_IT_D_ATARA",
+      "final_it": "c_IT_D_ATARA",
+      "deleted_ti": "ad_Q",
+      "retained": "y_Q",
+      "stem": "yatara",
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "base": "tad",
+      "base_sense": "correlative selected x",
+      "affix": "ḍatarac",
+      "payload": "atara",
+      "initial_it": "ḍ_IT_D_ATARA",
+      "final_it": "c_IT_D_ATARA",
+      "deleted_ti": "ad_Q",
+      "retained": "t_Q",
+      "stem": "tatara",
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "base": "kim",
+      "base_sense": "interrogative selected x",
+      "affix": "ḍatamac",
+      "payload": "atama",
+      "initial_it": "ḍ_IT_D_ATAMA",
+      "final_it": "c_IT_D_ATAMA",
+      "deleted_ti": "im_Q",
+      "retained": "k_Q",
+      "stem": "katama",
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "base": "yad",
+      "base_sense": "relative selected x",
+      "affix": "ḍatamac",
+      "payload": "atama",
+      "initial_it": "ḍ_IT_D_ATAMA",
+      "final_it": "c_IT_D_ATAMA",
+      "deleted_ti": "ad_Q",
+      "retained": "y_Q",
+      "stem": "yatama",
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "base": "tad",
+      "base_sense": "correlative selected x",
+      "affix": "ḍatamac",
+      "payload": "atama",
+      "initial_it": "ḍ_IT_D_ATAMA",
+      "final_it": "c_IT_D_ATAMA",
+      "deleted_ti": "ad_Q",
+      "retained": "t_Q",
+      "stem": "tatama",
+      "position_credit": 0,
+      "reading_credit": 0
+    }
+  ],
+  "policies": {
+    "K_STRICT": {
+      "ḍatarac": "|E|=2, one x determined by class/action/quality/name; q denotes x",
+      "ḍatamac": "|E|>2, jāti property; kim additionally genuine question, not mere personal-name selection",
+      "alternatives": "mahāvibhāṣā permits unextended analytic q;5.3.93 vā also reopens akac; reported kim ḍatara in many-group separately recorded"
+    },
+    "SK_BALA_REPORTED_BROAD": {
+      "ḍatarac": "two or many comparison group, including named-person determination; selected x remains affix recipient",
+      "ḍatamac": "many comparison group; class/action/quality/name determination admitted; expressed kṣepa not admitted",
+      "attribution": "SK says jātīparipraśna rejected in ākara; Bāla reports vārttika/Kaiyaṭa dropping prior dvayoḥ and current jātīparipraśna qualifiers; not independent original witness",
+      "alternatives": "analytic option from mahāvibhāṣā; explicit vā preserves akac in ḍatama domain, not original ḍatara domain"
+    }
+  },
+  "alternatives": {
+    "analytic": "source-admitted k/ya/sa inflected choices with supplied determination relation, retained; no new full singular pronominal derivation here",
+    "akac": "source-admitted positive alternative in5.3.93, actual marker/insertion/word realization remains Open",
+    "reported_kim_datara_many": "K attributed kecit path and broader Bāla account retained separately, not silently made the strict default"
+  },
+  "composition": {
+    "kim_to_katara_to_katarad": "first deletes im_Q before initial-ḍit atara; PG421 later deletes final a_ATARA before adḍ, supplies a_AD/d_PAYLOAD",
+    "kim_to_katama_to_katamad": "first deletes im_Q before atama; PG421 later deletes a_ATAMA before adḍ; original event histories survive",
+    "status": "two selected upstream bridges constructed, no old word/position credits"
+  },
+  "accepted": [
+    "two source-qualified taddhita constructors/six literal stem readouts",
+    "selected-member vs comparison-set recipient invariant",
+    "K strict and SK/Bāla reported broad policies retained as different guards",
+    "two composed ṭi deletions have different owners and do not delete semantic membership"
+  ],
+  "excluded": [
+    "attach determination affix to q denoting comparison set in kayor anyataro frame",
+    "erase strict jāti/two conditions without selecting and reporting the broader policy",
+    "admit any isolated -tara/-tama word by spelling alone",
+    "treat analytic or akac option as proof the source-affixed branch is unlicensed",
+    "delete original q semantic referent with its ṭi sounds or identify later affix-a lopa with first q-lopa",
+    "claim upstream six stems are six new finite/nominal positions or complete all pronoun paradigms"
+  ],
+  "open": [
+    "akac positive alternative actual marker/insertion/word derivation",
+    "full inflected panels and analytic q-word derivations, accent/cit effects/Vedic/compound domains",
+    "independent original Bhāṣya/Kaiyaṭa/printed collation and duplicated/malformed Bāla lines",
+    "other taddhita semantics/source alternatives and C2-C5/S1-S7/native runtime gates"
+  ]
+}
