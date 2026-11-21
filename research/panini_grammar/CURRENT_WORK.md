@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG414
+# Pāṇini grammar · current written coverage at PG415
+
+PG415 constructs [catur numeral ām augment and three genders](catur_numeral_am_augment_and_three_genders/README.md):21-row seven-case M/F/N panel,20 new nominal positions/readings after withholding old Uṇādi5.58 catvāraḥ. Catvāri has mit-ām7.1.98, not num; caturṇām has special nuṭ7.1.55. K single-ṇ selected, SK double-ṇṇ recorded outside chosen undoubled scope.0 finite/source/separate construction credits. Totals51,648 finite;3,450 nominal/4,036 readings; wider gates Open.
 
 PG414 constructs [tri numeral, tisṛ ordering and three genders](tri_numeral_tisr_ordering_and_three_genders/README.md):21 new nominal positions/readings, seven-case M/F/N plural panel. F tisṛ/nuṭ precedes r-replacement with6.4.4 short-ṛ block; M/N trayāṇām and N trīṇi retain separate nuṭ/num/śas-n owners.0 finite/source/separate construction credits. Totals51,648 finite;3,430 nominal/4,016 readings; vocative/Vedic/compound/wider gates Open.
 
@@ -91,7 +93,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG414 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,430 nominal positions with 4,016 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG415 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,450 nominal positions with 4,036 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
