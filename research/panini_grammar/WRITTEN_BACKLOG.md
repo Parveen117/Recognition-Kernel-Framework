@@ -1,6 +1,6 @@
-# Written-development backlog at PG445
+# Written-development backlog at PG446
 
-Monty · 21 November 2026 · reviewed parent 755940f63477fff57bc70b20c52346099107c266.
+Monty · 22 November 2026 · reviewed parent 90ab15b03430498a4fedb1fca448b991367a7eff.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -342,6 +342,10 @@ S1 closure. Actual links/limitations and published results are logged in
 ### C4/C5 · Rule-relative s ownership quantifiers at PG445
 
 [PG445](satva_substitute_identity_and_suffix_part_ownership/README.md) constructs8.3.59 SubstituteIdentity(s) OR SuffixPart(s),not arbitrary SubstitutePart. One morphology/sound adapter/seven ownership readouts,0 word/source credits. Positive etad-su and rāmeṣu controls contrast tisṛ whole-substitute parts;two tisṛṣu s slots stay distinct.K8.3.60 explicitly admits ghas-root s by a separate named-root edge,so failed8.3.59 ownership is not universal rejection. Bāla's reported Prāuḍha genitive analysis is source-qualified,not an independent original-work confirmation. Totals unchanged51,648 finite;4,288 nominal/4,959 readings. The PG44452-CLOSED/2-SOURCE_OPEN prior-ak backlog is unchanged;two bhis questions not excluded or recredited. Full8.3 visibility/exception/lexical admission,raw Bāla/independent print and C2–C5/S1–S7/native/semantic/accent/Vedic/compound/external domains remain Open.
+
+### S7 · Printed imakasmai witness at PG446
+
+[PG446](imakasmai_printed_bala_and_electronic_divergence/README.md) manually reads JainQQ020746 scan249/printed240 lower Bāla imaka case list:imakasmai. One printed source-observation unit,0 new word/morphology credits;PG438 dative already counted. Exact intact image saved with byte/hash/blob pins. This print-witness locator/reading sub-obligation is CLOSED;raw electronic11021 imakasyai remains unchanged and its cause/stage/other editions/authorial reading remain Open. Earlier requests to find a printed comparator are superseded only for this exact witness,not a blanket resolution of every raw-token question. Provider1941/editor metadata is catalogue-qualified;no independent imprint/original-work claim. Two post-aś bhis requests,raw72110 tail and C2–C5/S1–S7/native/semantic/accent/Vedic/compound/external domains remain Open. Totals unchanged51,648 finite;4,288 nominal/4,959 readings.
 
 ## Claude-deferred execution: separate gates
 
