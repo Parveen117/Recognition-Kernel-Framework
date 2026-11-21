@@ -1,6 +1,6 @@
-# Written-development backlog at PG455
+# Written-development backlog at PG456
 
-Monty · 22 November 2026 · reviewed parent 43f69c06e0b22d92c89ceecd77fc398acde5ac0a.
+Monty · 22 November 2026 · reviewed parent ec0c01739a61cc29919967670d25849cbe6df789.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -397,3 +397,7 @@ PG454 locates [printed Tattva dhi ca policy retrospective](dhi_ca_printed_tattva
 ### C2/C3/C5 · Causal vah owned future/conditional at PG455
 
 PG455 completes [causal vah passive future/conditional](vah_causal_passive_future_and_conditional_augment_owners/README.md):18 new finite positions/36 O/C readings,0 nominal/source/separate construction units. Derived i_val retains ṇic ay;coupled i_cv permits owned ṇic-lopa with root ā/causal history retained. Actual sya is not kit/ciṇ;no simple vah→uh replay. Totals51,702 finite;4,336 nominal/5,007 readings. Selected present+future+conditional54 keys72 readings CLOSED,no aggregate credit;four outer/source/wider gates Open. Earlier six-outer-lakāra Open references superseded only for lṛṭ/lṛṅ on this exact supplied traveller/source family. Liṭ/luṭ/luṅ/āśīrliṅ remain genuine four-label work,not already credited. Generic O/C/ending/zero-recovery constructors are reused,not new theorem/source units. Project written completion remains **OPEN**.
+
+### C2/C3/C5 · Causal vah luṭ at PG456
+
+PG456 completes [causal vah luṭ and owned tāsi endings](vah_causal_passive_lut_and_owned_tas_endings/README.md):9 new finite positions/18 O/C readings,0 nominal/source/separate construction units. Third-person ending ā versus suffix ā,non-thematic2du s retention,1sg s→h and broad2pl s-lopa remain separately owned. Totals51,711 finite;4,336 nominal/5,007 readings. Selected causal-vah63 keys90 readings CLOSED,no aggregate recredit;three outer labels/narrow whole request/source/wider gates Open. Earlier four-outer-label references superseded only for selected broad luṭ on this frame. Remaining three labels liṭ/luṅ/āśīrliṅ require source/prior review;complete sic-only vah/bhid luṭ2pl requests remain Open despite excluded local tās.s deletion edges. Project written completion remains **OPEN**.

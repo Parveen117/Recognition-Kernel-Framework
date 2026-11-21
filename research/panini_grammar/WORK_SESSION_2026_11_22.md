@@ -153,3 +153,47 @@ suites or replay. Fetch/expected-parent guarded review-branch publication,
 no force/main merge. Four outer causal-vah labels,source/original-authority/
 raw-key/narrow-request,other C2–C5/S1–S7/accent/native gates remain Open.
 No agents/new automation,ETA,overall completion or continuous-hours claim.
+
+## PG456 · Causal-vah luṭ and an honest results handoff
+
+Continued sequentially from publishedec0c01739a61cc29919967670d25849cbe6df789
+PG455,aligned clean tree/no concurrent writer observed. Reviewed PG367 exact
+tāsi ending proof,old PG18/33 causal lists,prose/factored/STATE/TSV before
+credits. Independent future-anadyatana causal event3.3.15 on old traveller
+q=c precedes tāsi;old sya words/endings are not copied as a thematic recipe.
+O/C keeps PG455 augment-origin/query contract. Third3sg ending ā versus
+dual/plural suffix ā,2du retained s/āthe,1sg F.s→h and broad2pl lopa retain
+actual owners. PG378/454 source evidence reused without another observation;
+narrow full luṭ2pl request stays Open for both vah and old bhid.
+
+PG456 adds9 finite positions/18 readings,0 nominal/source/separate grammar
+construction credits. Totals51,711 finite;4,336 nominal/5,007 readings. Local
+selected causal-vah63keys90readings CLOSED with0 aggregate recredit;liṭ/luṅ/
+āśīrliṅ remain actual three-label frontier,not counted cells. No other
+source/semantic/Vedic/native gate closes;frozen/PG335/PG357–363 preserved.
+
+Actual additions in this continuation:PG45334 finite positions/34 readings
+plus1 traveller syntax contract/9 readouts;PG4541 independent printed Tattva
+source observation/two continuing loci,0 word credits;PG45518 finite/36
+readings;PG4569 finite/18 readings. Combined61 new finite positions/88
+readings,0 new nominal positions/readings,1 source observation and1 syntax
+contract/9 readouts,0 new morphology/nonfinite/accent/compound units. Source
+prints clarify Vāmana sic-only versus Bhāṣya broader s without falsely
+closing raw-key transmission,original-authority collation or narrow full
+requests. All actual source/dependency/file pins and typed full PG14 zero
+proofs are in the new packets.
+
+Necessary explicit-Python3.12.14 checks only:PG453383/3 attempts(two checker
+marker corrections),PG454202/2 attempts(prose-marker comparison correction),
+PG455344/1 attempt;PG456 actual result/attempts in its packet. Manual page
+reading separately performed. No generators,grammar/proof execution,untouched
+predecessor/navigation/engine suites or replay. Fetch/expected-parent guarded
+publication to the same review branch,no force/main merge. No subagents/new
+automation,completion ETA or executed-hours claim.
+
+This handoff is an actual-results checkpoint,not overall written completion
+or a claim of full blockage. Remaining audit queue:three selected causal-vah
+outer labels;S2 raw82025 cause/repair,original Vāmana/Bhāṣya evidence,narrow
+full requests/edition lineage;other S1/S3–S7 positive source obligations;
+C2–C5 lexical/formation/semantic/nominal/Vedic/accent/native contracts. Keep
+these distinct from Claude-deferred execution and all already closed targets.
