@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG443 constructs [prior-ak whole ena/enad and feminine reset](prior_ak_ena_whole_substitution_and_feminine_reset/README.md):1 morphology interaction adapter;18 eligible keys19 old readings all withheld,0 new finite/nominal/source credits. Whole replacement consumes actual ak;fresh Fāp gives enā,no inherited k-itva;Naccsg payload d survives whole-am luk. Prior-ak local backlog27/54 keys constructed,27 unconstructed;no global percentage. Totals unchanged51,648 finite;4,288 nominal/4,959 readings;wider gates Open.
+
 PG442 constructs [akac-to-aś whole recipient and bhyām bridge](akac_ash_whole_recipient_and_bhyam_bridge/README.md):K2.4.32 explicitly supports imakābhyām→ābhyām;whole replacement consumes actual ak but retains affix history.9 matched M/F/N dual-bhyām readouts all withheld;1 morphology adapter,0 new finite/nominal/source credits. Post-aś no-k/bhis/ena consumers and wider gates stay Open. Totals51,648 finite;4,288 nominal/4,959 readings unchanged.
 
 PG441 constructs [akac-idam feminine m-retention and owned itva](akac_idam_feminine_m_retention_and_owned_itva/README.md):21 new F positions/readings;1 morphology adapter,0 finite/source credits. Fsu iyakam retains m without āp/itva;other cases compose positive āp/affix-k itva to imike/imikasyai/imikāsām. Written rule compositions,not direct full-panel attestations. With PG438/440 selected three-gender63 keys65 readings close,no aggregate credit. Raw imakasyai/whole-aś/wider gates Open. Totals51,648 finite;4,288 nominal/4,959 readings.

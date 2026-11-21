@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG443 constructs [prior-ak whole ena/enad and feminine reset](research/panini_grammar/prior_ak_ena_whole_substitution_and_feminine_reset/README.md):1 morphology interaction adapter;18 eligible keys19 old readings all withheld,0 new finite/nominal/source credits. Whole replacement consumes actual ak;fresh Fāp gives enā,no inherited k-itva;Naccsg payload d survives whole-am luk. Prior-ak local backlog27/54 keys constructed,27 unconstructed;no global percentage. Totals unchanged51,648 finite;4,288 nominal/4,959 readings;wider gates Open.
+
 PG442 constructs [akac-to-aś whole recipient and bhyām bridge](research/panini_grammar/akac_ash_whole_recipient_and_bhyam_bridge/README.md):K2.4.32 explicitly supports imakābhyām→ābhyām;whole replacement consumes actual ak but retains affix history.9 matched M/F/N dual-bhyām readouts all withheld;1 morphology adapter,0 new finite/nominal/source credits. Post-aś no-k/bhis/ena consumers and wider gates stay Open. Totals51,648 finite;4,288 nominal/4,959 readings unchanged.
 
 PG441 constructs [akac-idam feminine m-retention and owned itva](research/panini_grammar/akac_idam_feminine_m_retention_and_owned_itva/README.md):21 new F positions/readings;1 morphology adapter,0 finite/source credits. Fsu iyakam retains m without āp/itva;other cases compose positive āp/affix-k itva to imike/imikasyai/imikāsām. Written rule compositions,not direct full-panel attestations. With PG438/440 selected three-gender63 keys65 readings close,no aggregate credit. Raw imakasyai/whole-aś/wider gates Open. Totals51,648 finite;4,288 nominal/4,959 readings.
@@ -142,7 +144,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG442 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG443 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 

@@ -364,3 +364,11 @@ generators, grammar/proof execution, untouched predecessor/navigation/engine
 suites and certificate replay were **not run** and remain deferred to Claude.
 No agents or new automation. Authorization remains completion-based; this
 checkpoint does not silently turn remaining Open evidence into exclusions.
+
+## PG443 · Prior-ak specialized whole ena/enad and actual feminine reset
+
+Read AGENTS/actual fetched aligned remote9422009105f90401c0a18bb8ab58771f56260539/current PG442 STATE/newest dated handoff/navigation/current and historical remaining registers;clean tree,no concurrent writer observed. PG443 adds1 morphology interaction adapter,0 new finite positions/readings,0 nominal positions/readings,0 source observations or separately credited morphology readouts. Totals unchanged51,648 finite;4,288 nominal/4,959 readings. All18 keys19 readings withheld against PG437;frozen predecessors/PG335 -9/-12/PG357–363 CLOSED/inherited corrections preserved.
+
+Constructive inference composes original-idam recognition with internal ak(K24032/B11021),2.4.34 specialized whole recipient without no-k restriction,and PG437 matched consumers. Actual ak is consumed;F fresh āp gives enā rather than inherited k-itva;reported Naccsg enad retains replacement-payload d after whole-am luk. Written composition,not direct full prior-ak panel attestation or independent Bhāṣya witness. PG14 full operator/history carrier and typed local zero square written. Local54-key backlog now27 constructed/27 unconstructed;remaining aś consumers and specifically bhis7.1.11 current/original no-k distinction remain Open,alongside raw-text/source/semantic/accent/C2–C5/S1–S7/native gates. No global completion/ETA/hours claim or new automation.
+
+Necessary explicit-Python3.12 changed-document/source/count checks only;actual pass/attempts in packet manifest. Sanskrit generators,grammar/proof execution,untouched predecessor/navigation/engine suites and certificate replay not run,Claude-deferred. Next substantive work:remaining post-aś ordinary singular/plural consumers on owned source views,then source-qualified bhis guard decision. This is a results handoff,not project completion.

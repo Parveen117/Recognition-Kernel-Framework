@@ -1,6 +1,6 @@
-# Written-development backlog at PG442
+# Written-development backlog at PG443
 
-Monty · 21 November 2026 · reviewed parent bbcfd94906ffed08eb36fd43ec05918b6ae0be38.
+Monty · 21 November 2026 · reviewed parent 9422009105f90401c0a18bb8ab58771f56260539.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -330,6 +330,10 @@ S1 closure. Actual links/limitations and published results are logged in
 ### C4/C5/S7 · Positive prior-ak whole-aś recipient and exact residual at PG442
 
 [PG442](akac_ash_whole_recipient_and_bhyam_bridge/README.md) applies the already pinned K24032 explicit sa-akac purpose/imakābhyām→ābhyām informative continuation. Whole aś consumes current ak while retaining original affix/source/semantic history;9 M/F/N ins/dat/abl dual-bhyām readouts locally CLOSED,all old PG439 words withheld.1 morphology adapter,0 new finite/nominal/source credits. Totals unchanged51,648 finite;4,288 nominal/4,959 readings. Historical original-ak-to-aś-Open references are superseded only for whole recipient/this bridge. Concrete residual: bhis7.1.11 original ak exclusion versus current-k absence after aś needs source-qualified entitlement;do not copy original-no-ak policy or claim full original-ak36/54-cell grid. Other ak→ena consumers/accent/semantics/independent print/raw Bāla and C2–C5/S1–S7/native/vocative/Vedic/compound/external gates stay Open.
+
+### C4/C5 · Prior-ak specialized ena consumers at PG443
+
+[PG443](prior_ak_ena_whole_substitution_and_feminine_reset/README.md) constructs whole ena/enad after original-idam internal ak,with fresh Fāp/no-current-k itva and source-reported Naccsg payload-d/whole-am luk.1 morphology interaction adapter,18 keys19 old readings withheld against PG437,0 finite/nominal/source credits. Written source-rule composition,not fresh prior-ak full-panel attestation. The [54-key local backlog](prior_ak_ena_whole_substitution_and_feminine_reset/PRIOR_AK_BACKLOG.json) separates27 constructed keys(18 here+9 PG442 bhyām) from27 unconstructed aś consumers. No global percentage/aggregate credits;totals51,648 finite;4,288 nominal/4,959 readings unchanged. Older ak→ena-Open forward references are superseded only for supplied principal idam ordinary eligible cases. Original-ak etad,remaining aś consumers including post-aś7.1.11 bhis qualification,actual discourse/full accent/independent Bhāṣya/raw Bāla and C2–C5/S1–S7/native/external/Vedic/compound/vocative gates remain Open.
 
 ## Claude-deferred execution: separate gates
 
