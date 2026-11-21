@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG426 constructs [neuter kim early-luk priority and dental num](research/panini_grammar/analytic_kim_neuter_luk_priority_and_dental_num/README.md):21 new nominal positions22 readings,1 addressed Tattva observation explicitly blocking kim→ka after early su/am luk. Singular kim keeps stem-m; surviving dual/plural gives ke/kāni, dental num-n. PG424–426 selected three-gender domain closes63 keys65 readings,62/64 newly credited; no aggregate recredit.0 finite/separate construction units. Totals51,648 finite;3,720 nominal/4,339 readings; wider gates Open.
+
 PG425 constructs [analytic kim feminine ṭāp, syāṭ and dental suṭ](research/panini_grammar/analytic_kim_feminine_tap_syad_and_dental_sut/README.md):21 new seven-case sg/du/pl nominal positions/readings. Owned āp/shortening and syāṭ give kasyai/kasyām; F dual ke differs from M plural ke. Actual longā preserves dental kāsām/kāsu instead of copying keṣām/keṣu. PG419 locative policies remain distinct.0 finite/source/separate construction credits. Totals51,648 finite;3,699 nominal/4,317 readings; neuter/wider gates Open.
 
 PG424 constructs [analytic kim masculine cases and lexical ka guard](research/panini_grammar/analytic_kim_masculine_cases_and_lexical_ka_guard/README.md):21 seven-case sg/du/pl keys22 readings,20/21 new nominal credits after old analytic kaḥ withholding. Whole kim→ka retains original interrogative class; same-spelled deity/name ka is not automatically admitted. Pronominal smai/smāt/smin, dental kena/kān and genitive suṭ-keṣām retain owners.0 finite/source/separate construction credits. Totals51,648 finite;3,678 nominal/4,296 readings; wider gates Open.
@@ -108,7 +110,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG425 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG426 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 

@@ -1,6 +1,6 @@
-# Written-development backlog at PG425
+# Written-development backlog at PG426
 
-Monty · 21 November 2026 · reviewed parent 3ecf3cacf30b4add85b6ec864b7d3c1ea687a199.
+Monty · 21 November 2026 · reviewed parent cd28daa67b864f081876b79a5fcb617205e0b047.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -253,6 +253,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/C5 · Analytic kim feminine panel at PG425
 
 [PG425](analytic_kim_feminine_tap_syad_and_dental_sut/README.md) closes21 new F seven-case sg/du/pl keys/readings;0 finite/source/separate construction units. Whole kim→ka in supplied case domain, feminine ṭāp and PG419 gender-qualified class/āp views precede syāṭ/dual śī/suṭ. Actual longā gives dental kāsām/kāsu; masculine e/ṣ paths are not copied. K_GEN_AM_ONLY and BALA_SYAD_COMPETITION remain source-qualified locative explanations. Totals51,648 finite;3,699 nominal/4,317 readings. Earlier F kim Open references superseded only on this principal ordinary panel. Concrete next targets: neuter kim, analytic yad/tad, other akac/pronoun/compound/accent/Vedic/source/native contracts; C2–C5/S1–S7 still Open without all-language denominator or ETA.
+
+### C4/C5 · Neuter and selected three-gender kim closure at PG426
+
+[PG426](analytic_kim_neuter_luk_priority_and_dental_num/README.md) closes21 new N keys22 readings;1 addressed electronic Tattva7.1.23 observation explicitly blocks ka after early su/am luk. Stem m remains in direct kim; actual surviving śī/śi gives ke/kāni with dental num-n. K earlier-priority OR nitya and Tattva pūrvavipratiṣedha source accounts stay explicit, not a global scheduler.0 finite/separate construction credits; totals51,648 finite;3,720 nominal/4,339 readings. PG424–426 selected principal ordinary seven-case three-number three-gender kim locally CLOSED:63 keys65 readings,62/64 new after old kaḥ withholding, zero aggregate credits. Do not recount these panels. Actual next contracts: analytic yad/tad; remaining akac cases/genders and distinct semantic/placement domains; kim vocative/accent/Vedic/name/compound/recognition; independent source/priority-policy C2–C5/S1–S7/native gates. No open textual gap excluded for closure.
 
 ## Claude-deferred execution: separate gates
 
