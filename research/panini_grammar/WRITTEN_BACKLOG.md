@@ -1,6 +1,6 @@
-# Written-development backlog at PG427
+# Written-development backlog at PG428
 
-Monty · 21 November 2026 · reviewed parent e9fce3e05cd92c2aa8d531936b6a956fb367a2a7.
+Monty · 21 November 2026 · reviewed parent 7ac9ea943da5dea4701b95bd3c0a94c84c867ffe.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -261,6 +261,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/C5 · Analytic relative yad selected gender panels at PG427
 
 [PG427](analytic_yad_three_genders_final_atva_and_relative_identity/README.md) closes63 keys67 readings across seven cases/three numbers/three genders,62/66 new nominal credits after old analytic yaḥ withholding;1 addressed Bāla comparison,0 finite/separate construction credits. Final d→a/pararūpa retains relative identity; no whole-kim ka or tad-specific s transfer. Bāla positively grounds sup-domain atva before feminine ṭāp; N direct early-luk keeps stem d in yat/yad, distinct from PG421 ending d; yāni num dental. Supplied binding features are not unrestricted semantic parsing; Uṇādi root yat remains another owner. Totals51,648 finite;3,782 nominal/4,405 readings. Do not recount closed selected yad or kim panels. Actual next contracts: analytic tad, remaining akac, vocative/accent/Vedic/name/compound/unsupplied binding and original source/native C2–C5/S1–S7. Raw repeated/malformed Bāla text is preserved/Open; no gap excluded for completion.
+
+### C4/C5 · Analytic tad selected pause gender panels at PG428
+
+[PG428](analytic_tad_three_genders_su_satva_and_pause_boundary/README.md) closes63 keys67 readings,60/62 new credits after withholding old saḥ and BOTH T65 N directsg keys including pause readings conservatively; no baseline correction or certificate replay. Actual su-indexed original t→s gives M saḥ/F sā; other tad forms retain t. F ordinary āp-sulopa differs from N lumat luk, which blocks atva/satva and preserves stem d. External sa6.1.132 requires its own saṃhitā/hal/no-ak/no-nañ guards and is not an extra pause reading.0 finite/source/separate construction units; totals51,648 finite;3,842 nominal/4,467 readings. Selected analytic kim/yad/tad panels now locally closed on their stated scopes; do not recount. Actual next contracts: remaining akac cases/genders, specific new pronoun/lexical members and compound-class/syntax/accent/Vedic domains, independent source/global-policy C2–C5/S1–S7/native gates. Full external/deictic recognition remains Open, not implicitly closed by these panels.
 
 ## Claude-deferred execution: separate gates
 
