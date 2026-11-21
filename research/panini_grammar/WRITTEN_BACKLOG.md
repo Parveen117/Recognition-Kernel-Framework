@@ -1,6 +1,6 @@
-# Written-development backlog at PG416
+# Written-development backlog at PG417
 
-Monty · 21 November 2026 · reviewed parent ee70c4e19ab7efb9edcf762ed6e63a85fb1ad97a.
+Monty · 21 November 2026 · reviewed parent c9cd0deeb7d038d251dc0839c67964a8cdc0154f.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -213,6 +213,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/C5 · N-final principal5/7/9/10 panels at PG416
 
 [PG416](n_final_numerals_sup_luk_and_consumer_views/README.md) closes four complete seven-case M/F/N panels,84 keys/readings and83 new credits after old worked pañcan F instrumental withholding, no baseline adjustment. Ṣaṭ designation depends on original numerical n-final identity; sup-luk retains case/number/pada history but blocks deleted-ending aṅgakārya.8.2.2 keeps n-lopa asiddha for sañjā/subvidhi consumers, blocking false feminine ṭāp/a-stem ais/e. Genitive nuṭ and6.4.7 n-upadhā length retain separate stem/augment n owners. Source's conditional per-consumer sañjā re-entry account is not made universal.0 finite/source/separate construction credits; totals51,648 finite;3,533 nominal/4,119 readings. Ṣaṣ/aṣṭan, other numerals/pronouns/vocative/accent/name/compound/source/native gates remain Open.
+
+### C4/C5 · Principal six sound and case panel at PG417
+
+[PG417](sas_numeral_stop_nasal_and_locative_owners/README.md) closes21 seven-case M/F/N plural keys with30 selected readings, all new nominal credits. Old schematic nām controls explicitly did not derive the complete word. Sup-luk and stem ṣ→ḍ/pause retain ending history; nām-excepted retroflexion plus mandatory ordinary suffixal nasal assimilation give two separately owned ṇ in ṣaṇṇām. Locative ṣaṭsu/ṣaṭtsu has optional ending-owned dental dhuṭ, with8.4.42 blocking false retroflexion.0 finite/source/separate construction credits; totals51,648 finite;3,554 nominal/4,149 readings. This supersedes prior six Open references only on the selected undoubled seven-case domain. Aṣṭan optionality is a concrete next contract; vocative/accent/Vedic/general doubling/name/compound/other nominal/source/native and C2–C5/S1–S7 gates remain Open.
 
 ## Claude-deferred execution: separate gates
 
