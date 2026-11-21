@@ -1,6 +1,6 @@
-# Written-development backlog at PG424
+# Written-development backlog at PG425
 
-Monty · 21 November 2026 · reviewed parent 3608bdf58f9234d0ac462903d2c2302a05cd86f8.
+Monty · 21 November 2026 · reviewed parent 3ecf3cacf30b4add85b6ec864b7d3c1ea687a199.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -249,6 +249,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/C5 · Analytic kim masculine panel at PG424
 
 [PG424](analytic_kim_masculine_cases_and_lexical_ka_guard/README.md) closes21 seven-case M sg/du/pl keys22 readings,20/21 newly credited after conservative old analytic kaḥ withholding, no baseline adjustment. Original interrogative kim→ka retains class/meaning; named/deity ka homonyms and Bāla's Brahman competing accounts remain separately Open. Case-specific smai/smāt/smin, dental ina-n/kān-n and suṭ→keṣām retain owners;0 finite/source/separate construction units. Totals51,648 finite;3,678 nominal/4,296 readings. Prior analytic kim Open references superseded only on this selected M domain; actual next targets are F/N kim, analytic yad/tad and remaining akac/compound/accent/Vedic/source/native contracts. Original printed/semantic/global-policy and C2–C5/S1–S7 gates remain Open; no full-language closure or ETA.
+
+### C4/C5 · Analytic kim feminine panel at PG425
+
+[PG425](analytic_kim_feminine_tap_syad_and_dental_sut/README.md) closes21 new F seven-case sg/du/pl keys/readings;0 finite/source/separate construction units. Whole kim→ka in supplied case domain, feminine ṭāp and PG419 gender-qualified class/āp views precede syāṭ/dual śī/suṭ. Actual longā gives dental kāsām/kāsu; masculine e/ṣ paths are not copied. K_GEN_AM_ONLY and BALA_SYAD_COMPETITION remain source-qualified locative explanations. Totals51,648 finite;3,699 nominal/4,317 readings. Earlier F kim Open references superseded only on this principal ordinary panel. Concrete next targets: neuter kim, analytic yad/tad, other akac/pronoun/compound/accent/Vedic/source/native contracts; C2–C5/S1–S7 still Open without all-language denominator or ETA.
 
 ## Claude-deferred execution: separate gates
 

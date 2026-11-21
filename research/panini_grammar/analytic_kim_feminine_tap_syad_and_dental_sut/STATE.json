@@ -1,0 +1,57 @@
+{
+  "schema": "rkf.panini.pg425.state.v1",
+  "author": "Monty",
+  "date": "2026-11-21",
+  "publication_parent": "3ecf3cacf30b4add85b6ec864b7d3c1ea687a199",
+  "baseline": {
+    "commit": "3ecf3cacf30b4add85b6ec864b7d3c1ea687a199",
+    "path": "research/panini_grammar/analytic_kim_masculine_cases_and_lexical_ka_guard/STATE.json"
+  },
+  "finite_positions": 51648,
+  "nominal_positions": 3699,
+  "nominal_readings": 4317,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "kim neuter and vocative/accent/Vedic/name/compound domains",
+    "analytic yad/tad and other akac/pronoun full panels",
+    "source-policy global reconciliation, Brahman class alternatives and independent printed collation",
+    "C2-C5/S1-S7/native runtime and wider grammar"
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "local_closure": "principal analytic kim feminine seven-case three-number panel CLOSED; wider grammar OPEN",
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 21,
+  "new_nominal_readings": 21,
+  "new_source_observations": 0,
+  "new_morphological_constructions": 0,
+  "new_morphological_readouts": 0,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "new_syntactic_constructions": 0,
+  "new_syntactic_readouts": 0,
+  "new_accent_constructions": 0,
+  "new_accent_readouts": 0,
+  "new_compound_constructions": 0,
+  "new_compound_readouts": 0,
+  "position_accounting": {
+    "panel_positions": 21,
+    "panel_readings": 21,
+    "new_nominal_positions": 21,
+    "new_nominal_readings": 21,
+    "baseline_adjustment": 0
+  }
+}
