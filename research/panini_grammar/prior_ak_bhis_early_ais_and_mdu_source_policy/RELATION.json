@@ -1,0 +1,77 @@
+{
+  "input": {
+    "original_lemma": "idam",
+    "derived_affix": "akac with supplied ajñāta purpose",
+    "discourse": "same referent,new information;positive anvadesa admission",
+    "genders": [
+      "M",
+      "N"
+    ],
+    "case": "ins",
+    "number": "pl",
+    "original_ending": "bhis",
+    "root": null,
+    "preverbs": [],
+    "voice": null,
+    "source_policy": "MDU_2003_P164_EARLY_AIS"
+  },
+  "rows": [
+    {
+      "lemma": "idam+akac→aś",
+      "sense": "supplied principal idam with independently admitted akac/ajñāta history and same-referent informative continuation",
+      "gender": "M",
+      "case": "ins",
+      "number": "pl",
+      "original_ending": "bhis",
+      "current_ending_before_whole_substitution": "ais",
+      "source_policy": "MDU_2003_P164_EARLY_AIS",
+      "words": [
+        "aiḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1
+    },
+    {
+      "lemma": "idam+akac→aś",
+      "sense": "supplied principal idam with independently admitted akac/ajñāta history and same-referent informative continuation",
+      "gender": "N",
+      "case": "ins",
+      "number": "pl",
+      "original_ending": "bhis",
+      "current_ending_before_whole_substitution": "ais",
+      "source_policy": "MDU_2003_P164_EARLY_AIS",
+      "words": [
+        "aiḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1
+    }
+  ],
+  "accounting": {
+    "panel_positions": 2,
+    "panel_readings": 2,
+    "new_nominal_positions": 2,
+    "new_nominal_readings": 2,
+    "withheld_prior_or_control_positions": 0,
+    "withheld_prior_or_control_readings": 0,
+    "prior": "No accepted aiḥ M/N insplural prior-ak anvadesa word found in prose/factored/TSV register;earlier aiḥ mention was an explicitly unaccepted Open candidate.",
+    "baseline_adjustment": 0
+  },
+  "accepted": [
+    "MDU selected order:current-k no-k prohibition fails,bhis→ais precedes whole aś,ais survives base replacement,a+ais→ais→aiḥ",
+    "old no-ak ebhiḥ and plain ak imakaiḥ remain their independent owners"
+  ],
+  "excluded": [
+    "reinsert k after whole aś",
+    "erase prior-bhis identity and block2.4.32 merely because current ais starts with a vowel",
+    "conflate no-ak ebhiḥ or non-anvadesa imakaiḥ with selected prior-ak continuation aiḥ",
+    "promote modern-course policy into unnamed original Bhasya/Kasika agreement",
+    "repair source idakaiḥ into imakaiḥ without separate evidence"
+  ],
+  "open": [
+    "unqualified traditional/source-policy decision for two post-aś M/Nbhis requests remains SOURCE_OPEN;modern selected policy is positive,not universal confluence",
+    "modern course schematic idakam/idakaiḥ d/m spelling rationale and traditional primary confirmation;not silently repaired",
+    "other source policies/unknown discourse/root/sense admission/full accent and S1-S7 textual obligations",
+    "broader C2-C5 lexical/derived-role/nominal/syntax/native runtime written integration"
+  ]
+}

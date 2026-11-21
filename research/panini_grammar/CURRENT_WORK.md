@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG449
+# Pāṇini grammar · current written coverage at PG450
+
+PG450 constructs [prior-ak bhis early-ais source policy](prior_ak_bhis_early_ais_and_mdu_source_policy/README.md):MDU course printed164 footnote1 positively orders bhis→ais before whole aś,then aiḥ.2 new M/N nominal positions/readings,1 morphology adapter/1 modern-source observation,0 finite credits. Selected policy54 constructed;unqualified52/2SOURCE_OPEN preserved in additive overlay,not universal closure. Totals51,648 finite;4,336 nominal/5,007 readings;traditional/schematic/full accent/wider gates Open.
 
 PG449 constructs [hemanta–śiśira register-gender dual/plural cases](hemantasishira_register_gender_and_dual_plural_cases/README.md):28 keys/readings,24 new nominal positions/24 readings after4 direct-dual source controls withheld. Supplied hemanta M + śiśira N gives ordinary N2.4.26 versus chandas M2.4.28;PG448 ending interface reused,0 new finite/source/separate construction units. Totals51,648 finite;4,334 nominal/5,005 readings. Other lexical genders/full Vedic/source/wider gates Open.
 
@@ -161,7 +163,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG449 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 4,334 nominal positions with 5,005 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG450 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 4,336 nominal positions with 5,007 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

@@ -1,6 +1,6 @@
-# Written-development backlog at PG449
+# Written-development backlog at PG450
 
-Monty · 22 November 2026 · reviewed parent 3454b4d868d763fe931b0457ff87684621eaf033.
+Monty · 22 November 2026 · reviewed parent c5ed111c89f13640cee611472d4855da36833e52.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -358,6 +358,10 @@ S1 closure. Actual links/limitations and published results are logged in
 ### C4/C5 · Hemanta–śiśira selected register/case domain at PG449
 
 [PG449](hemantasishira_register_gender_and_dual_plural_cases/README.md) completes28 selected ordinary-N/chandas-M dual/plural seven-case keys/readings on hemanta M + śiśira N,24/24 new after4 old direct-dual controls withheld. PG448 ending/native interfaces reused with independent lexical/register owners;0 new finite/source/separate construction units. Totals51,648 finite;4,334 nominal/5,005 readings. Source gender clause is not dual-only, but full Vedic endings/accent,other śiśira genders/senses,singular/samāhāra/vocative and independent print/verse/raw-key questions remain Open. Two post-aś bhis and broad C2–C5/S1–S7/native gates unchanged. No global completion/denominator asserted.
+
+### C4/C5 and source policy · Positive prior-ak bhis trace at PG450
+
+[PG450](prior_ak_bhis_early_ais_and_mdu_source_policy/README.md) adds a manually read modern MDU course source policy at printed164 footnote1:early bhis→ais while k remains,then whole aś and aiḥ.2 new M/Nnominal positions/readings,1 morphology adapter/1 source observation;0 finite credits. Exact external PDF file/page/byte pins retained,limited observation only;schematic idakam/idakaiḥ not silently repaired. Totals51,648 finite;4,336 nominal/5,007 readings. [Additive policy backlog](prior_ak_bhis_early_ais_and_mdu_source_policy/PRIOR_AK_POLICY_BACKLOG.json) keeps frozen PG44452/2 as unqualified52 CLOSED/2SOURCE_OPEN,while all54 have selected constructions on the augmented modern-policy family. The two rows are POLICY_SPLIT,not globally CLOSED or excluded. Traditional original-source/current-k decision,modern d/m rationale,full accent and broader C2–C5/S1–S7/native obligations remain Open.
 
 ## Claude-deferred execution: separate gates
 
