@@ -1,6 +1,6 @@
-# Written-development backlog at PG446
+# Written-development backlog at PG447
 
-Monty · 22 November 2026 · reviewed parent 90ab15b03430498a4fedb1fca448b991367a7eff.
+Monty · 22 November 2026 · reviewed parent 580cf39faad8fbd3141b77518a93e96f3967255c.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -346,6 +346,10 @@ S1 closure. Actual links/limitations and published results are logged in
 ### S7 · Printed imakasmai witness at PG446
 
 [PG446](imakasmai_printed_bala_and_electronic_divergence/README.md) manually reads JainQQ020746 scan249/printed240 lower Bāla imaka case list:imakasmai. One printed source-observation unit,0 new word/morphology credits;PG438 dative already counted. Exact intact image saved with byte/hash/blob pins. This print-witness locator/reading sub-obligation is CLOSED;raw electronic11021 imakasyai remains unchanged and its cause/stage/other editions/authorial reading remain Open. Earlier requests to find a printed comparator are superseded only for this exact witness,not a blanket resolution of every raw-token question. Provider1941/editor metadata is catalogue-qualified;no independent imprint/original-work claim. Two post-aś bhis requests,raw72110 tail and C2–C5/S1–S7/native/semantic/accent/Vedic/compound/external domains remain Open. Totals unchanged51,648 finite;4,288 nominal/4,959 readings.
+
+### S7 · Printed asyām/āsu tail comparison at PG447
+
+[PG447](asyam_asu_printed_bala_and_owned_locatives/README.md) manually reads JainQQ020746 scan320/printed311:asyām has originalṅi→ām/syāṭ/shortening;āsu has originalsu and a single separate explanation before anvādeśe tviti.1 new printed source observation,0 new word/morphology credits. Exact image saved/pinned. This witness's locator/reading and nonduplicated tail locally CLOSED;raw72110 duplicated paragraphs remain verbatim,their cause/other editions/authorial text Open. No critical-text repair or extra grammatical variants. Older calls for a printed72110-tail comparator superseded only on this witness. PG446 imakasmai result and two post-aś bhis SOURCE_OPEN requests remain separate. Totals unchanged51,648 finite;4,288 nominal/4,959 readings;C2–C5/S1–S7/native/semantic/accent/Vedic/compound/external gates Open.
 
 ## Claude-deferred execution: separate gates
 

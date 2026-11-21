@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG447 records [printed asyām/āsu and distinct locative owners](asyam_asu_printed_bala_and_owned_locatives/README.md):1 new printed source observation,JainQQ020746 scan320/printed311 separates singular ṅi→ām/syāṭ/shortening from one plural su passage.Raw72110 duplicated tail unchanged;witness reading locally CLOSED,transmission/other editions Open.0 new finite/nominal/morphology credits;totals51,648 finite;4,288 nominal/4,959 readings unchanged;wider gates Open.
+
 PG446 records [printed Bāla imakasmai and electronic divergence](imakasmai_printed_bala_and_electronic_divergence/README.md):1 new manually read printed source observation,JainQQ020746 scan249/printed240 has imakasmai in M case-list;raw11021 imakasyai preserved. Printed locator/reading locally CLOSED,transmission cause/other editions/authorial original Open.0 new finite/nominal/morphology credits;totals51,648 finite;4,288 nominal/4,959 readings unchanged;wider gates Open.
 
 PG445 constructs [ṣatva substitute-identity versus suffix-part ownership](satva_substitute_identity_and_suffix_part_ownership/README.md):1 morphology sound adapter/7 ownership readouts;0 new finite/nominal/source credits.8.3.59 uses SubstituteIdentity OR SuffixPart,not arbitrary SubstitutePart;two tisṛṣu s slots differ.K8.3.60 separately admits ghas-root s despite whole-root substitute ancestry.Totals unchanged51,648 finite;4,288 nominal/4,959 readings;post-aś bhis and wider gates Open.
