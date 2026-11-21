@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG423
+# Pāṇini grammar · current written coverage at PG424
+
+PG424 constructs [analytic kim masculine cases and lexical ka guard](analytic_kim_masculine_cases_and_lexical_ka_guard/README.md):21 seven-case sg/du/pl keys22 readings,20/21 new nominal credits after old analytic kaḥ withholding. Whole kim→ka retains original interrogative class; same-spelled deity/name ka is not automatically admitted. Pronominal smai/smāt/smin, dental kena/kān and genitive suṭ-keṣām retain owners.0 finite/source/separate construction credits. Totals51,648 finite;3,678 nominal/4,296 readings; wider gates Open.
 
 PG423 constructs [positive determination akac and whole-kim replacement](determination_akac_payload_and_whole_kim_replacement/README.md):1 morphology adapter/3 supplied M nom-sg readouts,1 addressed Bāla comparison;0 new word credits. Actual payload ak enters before q-ṭi; whole kakim→ka prevents wrong kaka, while yakad/takad give yakaḥ/sakaḥ with retained affix owners. Analytic kaḥ and akac kaḥ keep different histories. Totals51,648 finite;3,658 nominal/4,275 readings; remaining akac/pronoun/source/native gates Open.
 
@@ -109,7 +111,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG423 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,658 nominal positions with 4,275 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG424 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,678 nominal positions with 4,296 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

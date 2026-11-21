@@ -1,0 +1,57 @@
+{
+  "schema": "rkf.panini.pg424.state.v1",
+  "author": "Monty",
+  "date": "2026-11-21",
+  "publication_parent": "3608bdf58f9234d0ac462903d2c2302a05cd86f8",
+  "baseline": {
+    "commit": "3608bdf58f9234d0ac462903d2c2302a05cd86f8",
+    "path": "research/panini_grammar/determination_akac_payload_and_whole_kim_replacement/STATE.json"
+  },
+  "finite_positions": 51648,
+  "nominal_positions": 3678,
+  "nominal_readings": 4296,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "kim feminine/neuter and vocative/accent/Vedic/full semantic domains",
+    "analytic yad/tad panels and remaining akac cases/genders/numbers",
+    "named/deity ka/Brahman competing class policies and independent printed collation",
+    "other pronoun/compound/taddhita and C2-C5/S1-S7/native runtime gates"
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "local_closure": "principal analytic kim masculine seven-case three-number panel CLOSED; wider grammar OPEN",
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 20,
+  "new_nominal_readings": 21,
+  "new_source_observations": 0,
+  "new_morphological_constructions": 0,
+  "new_morphological_readouts": 0,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "new_syntactic_constructions": 0,
+  "new_syntactic_readouts": 0,
+  "new_accent_constructions": 0,
+  "new_accent_readouts": 0,
+  "new_compound_constructions": 0,
+  "new_compound_readouts": 0,
+  "position_accounting": {
+    "panel_positions": 21,
+    "panel_readings": 22,
+    "new_nominal_positions": 20,
+    "new_nominal_readings": 21,
+    "withheld_prior_control": "analytic M nomsg kaḥ already source-worked in PG422/PG423 comparison, no baseline adjustment"
+  }
+}

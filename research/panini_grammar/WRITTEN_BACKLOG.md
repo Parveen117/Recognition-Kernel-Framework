@@ -1,6 +1,6 @@
-# Written-development backlog at PG423
+# Written-development backlog at PG424
 
-Monty · 21 November 2026 · reviewed parent 52e9bbefb748aa5af68319f59144a33453a1ef1d.
+Monty · 21 November 2026 · reviewed parent 3608bdf58f9234d0ac462903d2c2302a05cd86f8.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -245,6 +245,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/C5 · Positive determination-akac realization at PG423
 
 [PG423](determination_akac_payload_and_whole_kim_replacement/README.md) closes PG422's positive akac alternative on supplied kim/yad/tad M nom-sg shared many/jāti determination frames:1 morphology adapter/3 readouts and1 addressed Bāla comparison,0 finite/nominal word credits. Actual consonant-final ak differs from teaching aka; Bāla restricts these pronouns to base-level pre-ṭi insertion. Whole sa-akac-kim→ka gives kaḥ, not im-only kakaḥ; yad/tad retain ak in yakaḥ/sakaḥ, with original tad t→s in actual su domain. Affix disappearance does not erase semantic/source history. Totals51,648 finite;3,658 nominal/4,275 readings unchanged. Earlier akac Open references superseded only on these three selected frames. Remaining actual targets: analytic no-affix q-word derivations/full paradigms, other akac cases/genders/numbers and meanings, yuṣmad/asmad/avyaya/tiṅ placement, independent print/original-source/malformed Bāla collation, C2–C5/S1–S7/native gates. All positive alternatives remain retained; no textual gap becomes Excluded.
+
+### C4/C5 · Analytic kim masculine panel at PG424
+
+[PG424](analytic_kim_masculine_cases_and_lexical_ka_guard/README.md) closes21 seven-case M sg/du/pl keys22 readings,20/21 newly credited after conservative old analytic kaḥ withholding, no baseline adjustment. Original interrogative kim→ka retains class/meaning; named/deity ka homonyms and Bāla's Brahman competing accounts remain separately Open. Case-specific smai/smāt/smin, dental ina-n/kān-n and suṭ→keṣām retain owners;0 finite/source/separate construction units. Totals51,648 finite;3,678 nominal/4,296 readings. Prior analytic kim Open references superseded only on this selected M domain; actual next targets are F/N kim, analytic yad/tad and remaining akac/compound/accent/Vedic/source/native contracts. Original printed/semantic/global-policy and C2–C5/S1–S7 gates remain Open; no full-language closure or ETA.
 
 ## Claude-deferred execution: separate gates
 
