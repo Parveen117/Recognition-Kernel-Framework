@@ -1,6 +1,6 @@
-# Written-development backlog at PG435
+# Written-development backlog at PG436
 
-Monty · 21 November 2026 · reviewed parent 76d6dca498b9a3c2c9286daabcfa5a743d11cb77.
+Monty · 21 November 2026 · reviewed parent 5cb2a046690c42d47579468284a77d4efafbcfe5.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -302,6 +302,10 @@ S1 closure. Actual links/limitations and published results are logged in
 ### C4/C5 · Plain idam part/consumer composition at PG435
 
 [PG435](idam_owned_parts_case_pratyahara_and_hal_consumers/README.md) closes one composed no-ak/non-anvādeśa idam morphology adapter and63-key65-reading M/F/N seven-case sg/du/pl panel;19/21 new nominal credits after44/44 conservative source/control/homograph withholding,0 separate morphology-readout/finite/source credits. Original id/d/m, m→m/no-atva, N early-luk, case-pratyāhāra āp versus feminine āp, vowel-an versus actual-hal lopa and no-ak bhis→ais prohibition retain owners; alternate K lopa histories remain explicit. Totals51,648 finite;4,243 nominal/4,912 readings. Actual next idam contracts: akac-imaka guards/whole resulting paradigms, same-referent anvādeśa āś/ena semantic admission and word histories, raw Bāla72110 duplicated āsu tail/independent print, accent/Vedic/vocative/compound/name/deictic/external domains. Source gaps are not excluded to close the selected panel; wider C2–C5/S1–S7/native gates Open.
+
+### C4/C5 · Anvādeśa supplied new-information gate at PG436
+
+[PG436](anvadesa_new_information_and_owned_ash_ena/README.md) closes one supplied discourse gate/six aś-ena frame readouts and two whole-replacement adapters,1 addressed Bāla comparison. New information is not restricted to imperative mood; first mention need not use idam. Teaching aś is short a plus ś_IT, additive correction of PG435 āś labels with frozen words/counts intact.0 finite/nominal credits; totals51,648 finite;4,243 nominal/4,912 readings. Next: full aś/ena paradigms/etad/N enad, actual semantic recognition and independent original Bhāṣya/accent/print evidence, akac-idam complete words and C2–C5/S1–S7/native gates. Earlier anvādeśa Open references superseded only for these supplied gates/selected frames, not all discourse or inflection.
 
 ## Claude-deferred execution: separate gates
 

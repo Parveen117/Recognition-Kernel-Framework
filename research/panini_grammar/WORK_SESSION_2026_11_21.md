@@ -256,3 +256,9 @@ selected panels. No old source gap has become an exclusion to claim done.
 
 Handoff-only document/link/count/whitespace check: PASS under explicit
 Python3.12.14; no additional grammar or predecessor-suite run.
+
+## PG436 · Anvādeśa informative continuation and whole replacements
+
+- Read AGENTS/fetched aligned head5cb2a046690c42d47579468284a77d4efafbcfe5/current PG435 STATE/newest handoff/navigation/backlog and frozen PG43 anaphoric register; clean tree/no concurrent writer observed. PG436 adds1 syntax contract/6 supplied frame readouts,2 morphology adapters and1 addressed Bāla comparison;0 finite/nominal positions/readings. Totals51,648 finite;4,243 nominal/4,912 readings unchanged. PG335/PG357–363 CLOSED/frozen predecessors and prior ina correction preserved.
+- Source vidhātum gloss apūrvaṃ bodhayitum supports new informative declaratives as well as commands; Bāla permits first mention other than idam, reported Bhāṣya attribution not independently verified. Same referent alone/identification-only/different-referent counterframes retained. Whole short-a aś versus ena and source-specific ending specialization derived. Additive correction of PG435 āś labels to aś; original packet unchanged. Full accent/etad/N enad/inflection/semantic recognizer and source gaps Open.
+- PG14 full carrier/typed zero square written. Necessary explicit-Python3.12 changed-document/source/count checks only, actual result in packet; no generators/grammar/proof execution/untouched suites/replay, agents/new automation or completion/ETA/continuous-hours claim. Remaining C2–C5/S1–S7/native gates Open.

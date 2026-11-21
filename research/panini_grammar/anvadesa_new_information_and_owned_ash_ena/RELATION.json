@@ -1,0 +1,122 @@
+{
+  "input": {
+    "referent": "supplied stable entity q, potentially a supplied dual group",
+    "first_use": "new informative predication, not identification-only/anaphoric rehearsal",
+    "second_use": "same q, different new informative predication",
+    "lexical_recipient": "second idam; ena also source-positive etad, not realized here",
+    "root": null,
+    "preverbs": [],
+    "voice": null
+  },
+  "frames": [
+    {
+      "id": "AS_DAT",
+      "first": "give this student a blanket",
+      "second": "give the same student a cloth",
+      "origin": "idam",
+      "case": "dat",
+      "number": "sg",
+      "gender": "M",
+      "branch": "aś",
+      "word": "asmai",
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "id": "ENA_ACC",
+      "first": "teach this student chandas",
+      "second": "teach the same student grammar",
+      "origin": "idam",
+      "case": "acc",
+      "number": "sg",
+      "gender": "M",
+      "branch": "ena",
+      "word": "enam",
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "id": "ENA_INS",
+      "first": "this student studied during the night",
+      "second": "the same student also studied during the day",
+      "origin": "idam",
+      "case": "ins",
+      "number": "sg",
+      "gender": "M",
+      "branch": "ena",
+      "word": "enena",
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "id": "ENA_GEN_DU",
+      "first": "these two students have excellent conduct",
+      "second": "the same two have abundant property",
+      "origin": "idam",
+      "case": "gen",
+      "number": "du",
+      "gender": "M",
+      "branch": "ena",
+      "word": "enayoḥ",
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "id": "ENA_LOC_DU",
+      "first": "these two students are supplied as the earlier subject of a new assertion",
+      "second": "a different supplied new assertion concerns the same two as locus",
+      "origin": "idam",
+      "case": "loc",
+      "number": "du",
+      "gender": "M",
+      "branch": "ena",
+      "word": "enayoḥ",
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "id": "NONPRONOUN_FIRST",
+      "first": "teach Devadatta chandas",
+      "second": "teach that same student grammar",
+      "origin": "idam at second mention; first proper name",
+      "case": "acc",
+      "number": "sg",
+      "gender": "M",
+      "branch": "ena",
+      "word": "enam",
+      "position_credit": 0,
+      "reading_credit": 0
+    }
+  ],
+  "scope": {
+    "aś": "idam third-case onward, outside selected ena subset",
+    "ena": "idam/etad accusative series or instrumental singular ṭā or gen/loc dual os; selected6 frames only"
+  },
+  "source_observation": "Bāla24034 apūrvaṃ bodhayitum plus na tvidamaivetyāgraha: new information, first mention not necessarily idam",
+  "additive_corrections": [
+    {
+      "target_commit": "5a0389753e0eb02a9de45d7ef9ce42756008cf73",
+      "path": "research/panini_grammar/idam_owned_parts_case_pratyahara_and_hal_consumers/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "correction": "References spelling the2.4.32 teaching replacement āś should read aś, short a plus ś_IT; source अनुदात्तोऽशादेशः. Words/counters unchanged; frozen bytes preserved."
+    }
+  ],
+  "accepted": [
+    "same referent plus genuine informative continuation; declaratives can qualify",
+    "first proper name permitted by the reported Bāla interpretation",
+    "aś short-a/śit whole replacement and ena whole replacement keep separate owners"
+  ],
+  "excluded": [
+    "later mention of a different referent qualifies automatically",
+    "initial object identification followed by a single instruction suffices",
+    "only imperative mood can carry new informative predication",
+    "first mention must necessarily use idam",
+    "aś payload long ā or ś retained as spoken consonant",
+    "make aś and ena free variants on the selected specialized endings"
+  ],
+  "open": [
+    "full aś/ena inflection, etad and neuter enad extension, other genders/numbers and accent propagation",
+    "semantic recognition of referent identity/new-information status versus supplied evidence",
+    "original Bhāṣya/printed collation of Bāla report and competing source interpretations",
+    "akac-idam full paradigms, raw Bāla72110 tail and C2-C5/S1-S7/native runtime"
+  ]
+}
