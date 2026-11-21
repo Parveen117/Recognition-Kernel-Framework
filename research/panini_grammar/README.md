@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG418 constructs [aṣṭan optional ā/auś and convergent genitive](astan_optional_aa_aush_and_convergent_genitive/README.md):21 new seven-case M/F/N positions/39 readings. Positive ā correlates with whole-ending auś instead of sup-luk; K6.1.172 retains ṣaṭ status, and two genitive paths share one aṣṭānām reading.0 finite/source/separate construction credits. Totals51,648 finite;3,575 nominal/4,188 readings; eka/pronominal and wider gates Open.
+
 PG417 constructs [ṣaṣ six, two nasals and locative dhuṭ](sas_numeral_stop_nasal_and_locative_owners/README.md):21 new seven-case M/F/N plural positions/30 readings. Sup-luk leads to ṣaṭ/ṣaḍ pause; suffixal nasal assimilation with the nām exception gives ṣaṇṇām, while optional ending-owned dhuṭ gives ṣaṭsu/ṣaṭtsu.0 finite/source/separate construction credits. Totals51,648 finite;3,554 nominal/4,149 readings; eight/wider gates Open.
 
 PG416 constructs [n-final numerals, sup-luk and consumer views](n_final_numerals_sup_luk_and_consumer_views/README.md):four complete seven-case M/F/N panels for principal5/7/9/10,84 rows/83 new nominal positions/readings after withholding old pañcan F instrumental. Ṣaṭ/sup-luk and consumer-specific n-lopa visibility block false ṭāp/ais/e; special nuṭ and n-upadhā length give genitives.0 finite/source/separate construction credits. Totals51,648 finite;3,533 nominal/4,119 readings; six/eight/wider gates Open.

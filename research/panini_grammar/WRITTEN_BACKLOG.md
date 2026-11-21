@@ -1,6 +1,6 @@
-# Written-development backlog at PG417
+# Written-development backlog at PG418
 
-Monty · 21 November 2026 · reviewed parent c9cd0deeb7d038d251dc0839c67964a8cdc0154f.
+Monty · 21 November 2026 · reviewed parent 4acecadd3d2bb56ddf42a23d126eeb2cf76d557b.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -217,6 +217,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/C5 · Principal six sound and case panel at PG417
 
 [PG417](sas_numeral_stop_nasal_and_locative_owners/README.md) closes21 seven-case M/F/N plural keys with30 selected readings, all new nominal credits. Old schematic nām controls explicitly did not derive the complete word. Sup-luk and stem ṣ→ḍ/pause retain ending history; nām-excepted retroflexion plus mandatory ordinary suffixal nasal assimilation give two separately owned ṇ in ṣaṇṇām. Locative ṣaṭsu/ṣaṭtsu has optional ending-owned dental dhuṭ, with8.4.42 blocking false retroflexion.0 finite/source/separate construction credits; totals51,648 finite;3,554 nominal/4,149 readings. This supersedes prior six Open references only on the selected undoubled seven-case domain. Aṣṭan optionality is a concrete next contract; vocative/accent/Vedic/general doubling/name/compound/other nominal/source/native and C2–C5/S1–S7 gates remain Open.
+
+### C4/C5 · Principal eight optionality and convergent genitive at PG418
+
+[PG418](astan_optional_aa_aush_and_convergent_genitive/README.md) closes21 seven-case M/F/N plural keys with39 selected readings, all new nominal credits. K/SK7.1.21 supplies actual jas/śas ā-jñāpaka and whole-ending auś as the positive exception to luk; K6.1.172 separately retains ṣaṭ status after ā. Short n-lopa versus positive oral-ā histories are not conflated. Nuṭ first enables halādi at genitive nām; optional ā/coalescence or n-upadhā length/lopa both give one dental-n aṣṭānām reading per key.0 finite/source/separate construction credits; totals51,648 finite;3,575 nominal/4,188 readings. Prior eight Open references are superseded only on this declared panel. Eka/pronominal inflection, remaining lexical/semantic membership, vocative/accent/Vedic/phonetics/name/compound/source/native and C2–C5/S1–S7 remain Open; no gap is converted to Excluded.
 
 ## Claude-deferred execution: separate gates
 

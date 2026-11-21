@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG418 constructs [aṣṭan optional ā/auś and convergent genitive](research/panini_grammar/astan_optional_aa_aush_and_convergent_genitive/README.md):21 new seven-case M/F/N positions/39 readings. Positive ā correlates with whole-ending auś instead of sup-luk; K6.1.172 retains ṣaṭ status, and two genitive paths share one aṣṭānām reading.0 finite/source/separate construction credits. Totals51,648 finite;3,575 nominal/4,188 readings; eka/pronominal and wider gates Open.
+
 PG417 constructs [ṣaṣ six, two nasals and locative dhuṭ](research/panini_grammar/sas_numeral_stop_nasal_and_locative_owners/README.md):21 new seven-case M/F/N plural positions/30 readings. Sup-luk leads to ṣaṭ/ṣaḍ pause; suffixal nasal assimilation with the nām exception gives ṣaṇṇām, while optional ending-owned dhuṭ gives ṣaṭsu/ṣaṭtsu.0 finite/source/separate construction credits. Totals51,648 finite;3,554 nominal/4,149 readings; eight/wider gates Open.
 
 PG416 constructs [n-final numerals, sup-luk and consumer views](research/panini_grammar/n_final_numerals_sup_luk_and_consumer_views/README.md):four complete seven-case M/F/N panels for principal5/7/9/10,84 rows/83 new nominal positions/readings after withholding old pañcan F instrumental. Ṣaṭ/sup-luk and consumer-specific n-lopa visibility block false ṭāp/ais/e; special nuṭ and n-upadhā length give genitives.0 finite/source/separate construction credits. Totals51,648 finite;3,533 nominal/4,119 readings; six/eight/wider gates Open.
@@ -92,7 +94,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG417 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG418 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
