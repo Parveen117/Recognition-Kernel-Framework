@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG422
+# Pāṇini grammar · current written coverage at PG423
+
+PG423 constructs [positive determination akac and whole-kim replacement](determination_akac_payload_and_whole_kim_replacement/README.md):1 morphology adapter/3 supplied M nom-sg readouts,1 addressed Bāla comparison;0 new word credits. Actual payload ak enters before q-ṭi; whole kakim→ka prevents wrong kaka, while yakad/takad give yakaḥ/sakaḥ with retained affix owners. Analytic kaḥ and akac kaḥ keep different histories. Totals51,648 finite;3,658 nominal/4,275 readings; remaining akac/pronoun/source/native gates Open.
 
 PG422 constructs [determination taddhitas, member ownership and two ṭi-lopas](determination_taddhita_member_ownership_and_two_ti_lopas/README.md):2 morphology constructors/6 kim-yad-tad stem readouts,1 addressed Bāla source comparison;0 new word credits. Selected-member q differs from group E; K strict and SK/Bāla reported broader guards stay separate. Initial-ḍit deletes original im/ad; later PG421 deletes a different new-affix final a. Akac/analytic realizations and wider gates Open. Totals51,648 finite;3,658 nominal/4,275 readings.
 
@@ -107,7 +109,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG422 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,658 nominal positions with 4,275 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG423 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,658 nominal positions with 4,275 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

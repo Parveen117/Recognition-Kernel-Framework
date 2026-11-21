@@ -1,6 +1,6 @@
-# Written-development backlog at PG422
+# Written-development backlog at PG423
 
-Monty · 21 November 2026 · reviewed parent 5f44a6b483a83df4b1201aed3e0749a39c7f134b.
+Monty · 21 November 2026 · reviewed parent 52e9bbefb748aa5af68319f59144a33453a1ef1d.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -241,6 +241,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/C5 · Selected-member taddhita constructors and two ṭi owners at PG422
 
 [PG422](determination_taddhita_member_ownership_and_two_ti_lopas/README.md) closes2 selected source-qualified constructors with6 kim/yad/tad stem readouts;1 addressed electronic Bāla comparison observation,0 finite/nominal word credits. Q must denote selected x, not comparison E. K_STRICT and SK_BALA_REPORTED_BROAD guards remain distinct; no silent removal of two/jāti qualifiers. Initial ḍit deletes original im/ad_Q; the PG421 N ending later deletes a_FINAL_TADDHITA, not the same sound. Selected katara/katama upstream bridge now constructed without new credits for old katarat/katamat words. Totals51,648 finite;3,658 nominal/4,275 readings unchanged. Positive akac alternative and analytic q-word realization are concrete next obligations, alongside full paradigms/accent/cit/Vedic/compound/original commentary and C2–C5/S1–S7/native gates. Reported broader policy is not independent original Bhāṣya/Kaiyaṭa collation; malformed raw Bāla lines remain preserved/Open.
+
+### C4/C5 · Positive determination-akac realization at PG423
+
+[PG423](determination_akac_payload_and_whole_kim_replacement/README.md) closes PG422's positive akac alternative on supplied kim/yad/tad M nom-sg shared many/jāti determination frames:1 morphology adapter/3 readouts and1 addressed Bāla comparison,0 finite/nominal word credits. Actual consonant-final ak differs from teaching aka; Bāla restricts these pronouns to base-level pre-ṭi insertion. Whole sa-akac-kim→ka gives kaḥ, not im-only kakaḥ; yad/tad retain ak in yakaḥ/sakaḥ, with original tad t→s in actual su domain. Affix disappearance does not erase semantic/source history. Totals51,648 finite;3,658 nominal/4,275 readings unchanged. Earlier akac Open references superseded only on these three selected frames. Remaining actual targets: analytic no-affix q-word derivations/full paradigms, other akac cases/genders/numbers and meanings, yuṣmad/asmad/avyaya/tiṅ placement, independent print/original-source/malformed Bāla collation, C2–C5/S1–S7/native gates. All positive alternatives remain retained; no textual gap becomes Excluded.
 
 ## Claude-deferred execution: separate gates
 

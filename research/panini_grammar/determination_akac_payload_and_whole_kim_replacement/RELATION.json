@@ -1,0 +1,94 @@
+{
+  "input": {
+    "context": "PG422 determination of one x among many E by jāti, kim actual question, not expressed kṣepa",
+    "policies": [
+      "K_STRICT",
+      "SK_BALA_REPORTED_BROAD"
+    ],
+    "branch": "5.3.93 explicit vā permits akac alternative, not simultaneous ḍatamac+akac",
+    "bases": [
+      "kim",
+      "yad",
+      "tad"
+    ],
+    "root": null,
+    "preverbs": [],
+    "voice": null,
+    "case": "M nom sg independently supplied",
+    "register": "ordinary unaccented"
+  },
+  "rows": [
+    {
+      "base": "kim",
+      "function": "interrogative selected x",
+      "placement": "k_Q | ak_AK | im_Q",
+      "intermediate": "kakim",
+      "case_adapter": "whole sa-akac-kim→ka_KADESA7.2.103",
+      "word": "kaḥ",
+      "original_sup": "su_NOM",
+      "gender": "M",
+      "number": "sg",
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "base": "yad",
+      "function": "relative selected x",
+      "placement": "y_Q | ak_AK | ad_Q",
+      "intermediate": "yakad",
+      "case_adapter": "final d_Q→a7.2.102; a+a pararupa6.1.97",
+      "word": "yakaḥ",
+      "original_sup": "su_NOM",
+      "gender": "M",
+      "number": "sg",
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "base": "tad",
+      "function": "correlative selected x",
+      "placement": "t_Q | ak_AK | ad_Q",
+      "intermediate": "takad",
+      "case_adapter": "final d_Q→a7.2.102; pararupa; original nonfinal t→s7.2.106 before su",
+      "word": "sakaḥ",
+      "original_sup": "su_NOM",
+      "gender": "M",
+      "number": "sg",
+      "position_credit": 0,
+      "reading_credit": 0
+    }
+  ],
+  "payload": {
+    "teaching": "akac",
+    "final_it": "c_IT",
+    "pronunciation_only": "post-k a_UCCARANA, not a payload vowel and not a new it marker",
+    "actual": "ak",
+    "placement": "before original q ṭi im/ad, here at prātipadika level per Bāla5.3.73; do not globalize yusmad/asmad split"
+  },
+  "history": {
+    "kim": "entire inserted ak sound span disappears with whole ka replacement; akac licence and selected x/E survive in history",
+    "yad": "ak_AK survives, original q final d replaced; final coalesced a retains both old/new-q junction provenance",
+    "tad": "same plus source-licensed nonfinal original t→s in actual su domain",
+    "analytic_collision": "akac-kim kaḥ may coincide with no-affix analytic kaḥ; different source-affix history"
+  },
+  "accepted": [
+    "selected positive PG422 akac branch now realized for kim/yad/tad supplied M nom sg",
+    "one morphology adapter/three case-owned readouts,zero new word credits",
+    "actual ak is consonant-final, not aka",
+    "whole sa-akac-kim replacement and retained semantic/source history"
+  ],
+  "excluded": [
+    "silently replace akac payload by aka and introduce a false a-vowel junction",
+    "treat pronunciation-only a as a second grammatical marker or as current payload",
+    "append akac after every word rather than before the source-selected ṭi",
+    "apply im-only a repair to kakim and accept kakaḥ",
+    "infer akac in the original ḍatarac domain from analytic optionality alone",
+    "claim every pronoun/avyaya/tiṅ insertion or all gender/case forms complete"
+  ],
+  "open": [
+    "analytic no-affix kim/yad/tad full owned declensions and remaining akac cases/genders/numbers",
+    "other semantic akac domains, yusmad/asmad base-vs-word placement and avyaya/ting contracts",
+    "original Bhāṣya/printed source collation and malformed raw Bāla5.3.73/93 readings",
+    "C2-C5/S1-S7/source-policy/native runtime and wider gates"
+  ]
+}

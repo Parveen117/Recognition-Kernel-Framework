@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG423 constructs [positive determination akac and whole-kim replacement](research/panini_grammar/determination_akac_payload_and_whole_kim_replacement/README.md):1 morphology adapter/3 supplied M nom-sg readouts,1 addressed Bāla comparison;0 new word credits. Actual payload ak enters before q-ṭi; whole kakim→ka prevents wrong kaka, while yakad/takad give yakaḥ/sakaḥ with retained affix owners. Analytic kaḥ and akac kaḥ keep different histories. Totals51,648 finite;3,658 nominal/4,275 readings; remaining akac/pronoun/source/native gates Open.
+
 PG422 constructs [determination taddhitas, member ownership and two ṭi-lopas](research/panini_grammar/determination_taddhita_member_ownership_and_two_ti_lopas/README.md):2 morphology constructors/6 kim-yad-tad stem readouts,1 addressed Bāla source comparison;0 new word credits. Selected-member q differs from group E; K strict and SK/Bāla reported broader guards stay separate. Initial-ḍit deletes original im/ad; later PG421 deletes a different new-affix final a. Akac/analytic realizations and wider gates Open. Totals51,648 finite;3,658 nominal/4,275 readings.
 
 PG421 constructs [neuter ad instruction marker and owned ṭi-lopa](research/panini_grammar/neuter_ad_instruction_marker_and_owned_ti_lopa/README.md):1 morphology adapter/10 case-owned readouts,1 addressed Bāla reported-Kaiyaṭa source observation;0 new finite/nominal positions/readings. Whole adḍ replacement separates surviving d, removed ḍ_IT and deleted stem-a; nominative length is blocked while accusative surface agreement alone is not path proof. Raw suffix token/independent Kaiyaṭa remain Open. Totals51,648 finite;3,658 nominal/4,275 readings; wider gates Open.
@@ -102,7 +104,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG422 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG423 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 

@@ -1,0 +1,59 @@
+{
+  "schema": "rkf.panini.pg423.state.v1",
+  "author": "Monty",
+  "date": "2026-11-21",
+  "publication_parent": "52e9bbefb748aa5af68319f59144a33453a1ef1d",
+  "baseline": {
+    "commit": "52e9bbefb748aa5af68319f59144a33453a1ef1d",
+    "path": "research/panini_grammar/determination_taddhita_member_ownership_and_two_ti_lopas/STATE.json"
+  },
+  "finite_positions": 51648,
+  "nominal_positions": 3658,
+  "nominal_readings": 4275,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "analytic no-affix kim/yad/tad full owned declensions and remaining akac cases/genders/numbers",
+    "other semantic akac domains, yusmad/asmad base-vs-word placement and avyaya/ting contracts",
+    "original Bhāṣya/printed source collation and malformed raw Bāla5.3.73/93 readings",
+    "C2-C5/S1-S7/source-policy/native runtime and wider gates"
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "local_closure": "positive determination akac branch on supplied kim/yad/tad M nom-sg frames CLOSED; analytic/full paradigms/other akac domains/wider grammar OPEN",
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 1,
+  "new_morphological_constructions": 1,
+  "new_morphological_readouts": 3,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "new_syntactic_constructions": 0,
+  "new_syntactic_readouts": 0,
+  "new_accent_constructions": 0,
+  "new_accent_readouts": 0,
+  "new_compound_constructions": 0,
+  "new_compound_readouts": 0,
+  "position_accounting": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 3,
+    "new_source_observations": 1
+  }
+}
