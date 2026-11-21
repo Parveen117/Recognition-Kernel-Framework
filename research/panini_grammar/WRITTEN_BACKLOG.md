@@ -1,6 +1,6 @@
-# Written-development backlog at PG431
+# Written-development backlog at PG432
 
-Monty · 21 November 2026 · reviewed parent aa498ae956e3cde03e7d4a00ad607ad1cf6b7ec5.
+Monty · 21 November 2026 · reviewed parent 8c72fd57b118bcd84dbb68075cf80a0609176045.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -277,6 +277,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/C5 · Six determination-derived singular panels at PG431
 
 [PG431](determination_six_stems_singular_gender_cases/README.md) closes six principal katara/katama/yatara/yatama/tatara/tatama M/F/N seven-case singular panels126 keys150 readings,116/136 new after10 prior keys14 readings withheld. First q-ṭi and later new-affix a-ṭi deletion remain distinct; N adḍ supplies ending d, derived designation licenses pronominal endings without simple-q ka/s re-entry. Tara ina-n→ṇ versus tama dental and feminine āp/syāṭ owners explicit.0 finite/source/separate construction units; totals51,648 finite;4,080 nominal/4,733 readings. Next: dual/plural realization with explicitly supplied member-number/context transport, other eka/anya/itara/compound/name members and specific C2–C5/S1–S7/native/accent/Vedic/external contracts. Raw Bāla71025 suffix-token and independent Kaiyaṭa/printed-source obligations stay Open. Singular local closure is not full determination-family/global grammar completion.
+
+### C4/C5 · Sarva-akac positive feminine itva at PG432
+
+[PG432](sarvaka_three_genders_positive_itva_and_owned_ap/README.md) closes selected ajñāta sarva+akac M/F/N seven-case sg/du/pl panels63 keys65 readings,60/62 new after three prior/source controls. Bāla's āp-before-ak path targets affix a_AK→i, giving sarvikā, not inherited yad/tad no-itva; actual āp/num/ina/suṭ consumers retain owners. Explicit additive correction for frozen PG431: ṭā→ina is7.1.12, not7.1.9;7.1.9 is bhis→ais. Forms/counts/pins unchanged; future consumers use this correction.0 finite/source/separate construction units. Totals51,648 finite;4,140 nominal/4,795 readings. Other ajñāta specific-property recognition, lexical/akac/word-level placement, determination dual/plural context transport, compound/semantic/accent/Vedic/external and C2–C5/S1–S7/native-source gates remain Open.
 
 ## Claude-deferred execution: separate gates
 
