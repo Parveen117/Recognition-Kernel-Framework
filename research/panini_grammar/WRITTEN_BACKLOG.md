@@ -1,6 +1,6 @@
-# Written-development backlog at PG419
+# Written-development backlog at PG420
 
-Monty · 21 November 2026 · reviewed parent a21763a49fecc2b0ac96c3f47020c10bb1da9673.
+Monty · 21 November 2026 · reviewed parent f356572d4b500193ebe7d0cc6e7edb0c89df5ffe.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -229,6 +229,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### Closed C4 subdomain · Selected principal cardinals1–10
 
 [PG419 combined ledger](eka_singular_pronominal_endings_and_feminine_syad/DERIVATION_AND_NATIVE_RECOVERY.md) audits PG413–419: ten lemmas, each seven cases/three genders, singular one, dual two, plural three through ten. **210 keys/239 selected readings;207/236 newly credited** after three old controls. This is a declared local closure with zero aggregate credits. Do not reopen/recount these panels. Actual next nominal contracts are **sarvādi members beyond eka, noncardinal numeral meanings, vocative admission and specific compound/name requests**, each needing its own source-qualified case/formation and priority proof. Accent/Vedic/general phonetic branches, other kṛt/taddhita/syntax inventories, C2–C5 and S1–S7 remain Open, not excluded or globally measured.
+
+### C4/C5 · Freestanding sarva all genders/numbers at PG420
+
+[PG420](sarva_three_genders_shi_sut_and_nasal_owners/README.md) closes63 seven-case M/F/N sg/du/pl keys with65 selected readings,62/64 new credits after withholding the old worked M nom-pl sarve token.0 finite/source/separately counted construction units; totals51,648 finite;3,658 nominal/4,275 readings. Three source śī domains retain M plural versus F/N dual; N plural has short śi with one num, length and ṇatva. Original ina/num/śas n and actual suṭ s owners remain distinct; gen-pl MN e yields sarveṣām, while F ā preserves dental sarvāsām. PG419 feminine/class/policy source contracts reused by exact pins. Earlier broad sarvādi next references are superseded only for **this freestanding sarva** panel, not all members. Actual next contracts include other members/lexical senses and1.1.31/32 compound designation competition, plus vocative/accent/Vedic/source/native C2–C5/S1–S7 gates. The complete printed Sanskrit phrases do not authorize blanket class recognition in new compounds.
 
 ## Claude-deferred execution: separate gates
 
