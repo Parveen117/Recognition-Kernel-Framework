@@ -1,6 +1,6 @@
-# Written-development backlog at PG436
+# Written-development backlog at PG437
 
-Monty · 21 November 2026 · reviewed parent 5cb2a046690c42d47579468284a77d4efafbcfe5.
+Monty · 21 November 2026 · reviewed parent 184617a8ebd03f150733fd94ddbd6c4a80b9a867.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -306,6 +306,10 @@ S1 closure. Actual links/limitations and published results are logged in
 ### C4/C5 · Anvādeśa supplied new-information gate at PG436
 
 [PG436](anvadesa_new_information_and_owned_ash_ena/README.md) closes one supplied discourse gate/six aś-ena frame readouts and two whole-replacement adapters,1 addressed Bāla comparison. New information is not restricted to imperative mood; first mention need not use idam. Teaching aś is short a plus ś_IT, additive correction of PG435 āś labels with frozen words/counts intact.0 finite/nominal credits; totals51,648 finite;4,243 nominal/4,912 readings. Next: full aś/ena paradigms/etad/N enad, actual semantic recognition and independent original Bhāṣya/accent/print evidence, akac-idam complete words and C2–C5/S1–S7/native gates. Earlier anvādeśa Open references superseded only for these supplied gates/selected frames, not all discourse or inflection.
+
+### C4/C5 · Ena eligible-domain gender panels at PG437
+
+[PG437](ena_eligible_gender_panels_and_neuter_enad/README.md) closes selected18 eligible gender/case/number cells19 readings,6/6 new after12/13 conservative control withholding;1 morphology adapter,0 finite/source credits. Accusatives/ins-sg/gen-loc-du only; no invented standalone63-cell ena declension. Both idam/etad source histories retained without duplicate word credit. Reported Naccsg enad has payload d/whole-am luk and non-aṅga case query, not5-family adḍ or universal reopening of aṅgakārya. Totals51,648 finite;4,249 nominal/4,918 readings. Selected ena inflection/etad origin/N extension earlier Open references superseded only on this supplied discourse/ending domain. Full aś remaining cases, akac-idam, original Bhāṣya/printed/accent/semantic recognition and wider C2–C5/S1–S7/native/vocative/Vedic/compound/external gates stay Open.
 
 ## Claude-deferred execution: separate gates
 

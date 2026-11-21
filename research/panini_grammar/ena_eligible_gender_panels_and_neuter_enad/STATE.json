@@ -1,0 +1,75 @@
+{
+  "schema": "rkf.panini.pg437.state.v1",
+  "author": "Monty",
+  "date": "2026-11-21",
+  "publication_parent": "184617a8ebd03f150733fd94ddbd6c4a80b9a867",
+  "baseline": {
+    "commit": "184617a8ebd03f150733fd94ddbd6c4a80b9a867",
+    "path": "research/panini_grammar/anvadesa_new_information_and_owned_ash_ena/STATE.json"
+  },
+  "finite_positions": 51648,
+  "nominal_positions": 4249,
+  "nominal_readings": 4918,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "full aś remaining case domain and akac-idam realization",
+    "semantic recognition, original Mahabhasya enad collation and accent propagation",
+    "other historical source gaps including Bala72110 tail; vocative/Vedic/compound/external domains",
+    "C2-C5/S1-S7/native runtime and wider grammar"
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "local_closure": "selected ena eligible18 gender/case/number cells19 readings incl reported Naccsg enad CLOSED; unrestricted63-cell paradigm not admitted; wider grammar OPEN",
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 6,
+  "new_nominal_readings": 6,
+  "new_source_observations": 0,
+  "new_morphological_constructions": 1,
+  "new_morphological_readouts": 0,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "new_syntactic_constructions": 0,
+  "new_syntactic_readouts": 0,
+  "new_accent_constructions": 0,
+  "new_accent_readouts": 0,
+  "new_compound_constructions": 0,
+  "new_compound_readouts": 0,
+  "position_accounting": {
+    "panel_positions": 18,
+    "panel_readings": 19,
+    "new_nominal_positions": 6,
+    "new_nominal_readings": 6,
+    "withheld_prior_or_control_positions": 12,
+    "withheld_prior_or_control_readings": 13,
+    "prior": "all6 M controls in K/SK/PG436;F gen/locdu2 enayoḥ homographs;N accsg enat/d source controls plus ins/gen/loc3 shared M controls, conservative no recredit",
+    "baseline_adjustment": 0
+  },
+  "inherited_additive_corrections": [
+    {
+      "target_commit": "8c72fd57b118bcd84dbb68075cf80a0609176045",
+      "path": "research/panini_grammar/determination_six_stems_singular_gender_cases/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "old_attribution": "Ṭā→ina7.1.9",
+      "correct_attribution": "Ṭā→ina7.1.12",
+      "evidence": "K7.1.12 explicitly ṭā/ṅasi/ṅas→ina/āt/sya;7.1.9 is bhis→ais",
+      "effect": "citation-only additive correction; all PG431 words, counts, frozen bytes and source pins unchanged"
+    },
+    {
+      "target_commit": "5a0389753e0eb02a9de45d7ef9ce42756008cf73",
+      "path": "research/panini_grammar/idam_owned_parts_case_pratyahara_and_hal_consumers/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "correction": "References spelling the2.4.32 teaching replacement āś should read aś, short a plus ś_IT; source अनुदात्तोऽशादेशः. Words/counters unchanged; frozen bytes preserved."
+    }
+  ]
+}

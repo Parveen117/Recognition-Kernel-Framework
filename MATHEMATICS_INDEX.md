@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG437 constructs [ena eligible gender panels and neuter enad](research/panini_grammar/ena_eligible_gender_panels_and_neuter_enad/README.md):18 eligible keys19 readings,6/6 new nominal credits after12/13 controls withheld;1 morphology adapter. F enām/ene/enāḥ/enayā and N ene/enāni complete the selected ending domain; Naccsg enad has payload d and whole-am luk, not adḍ or a new nominative. Idam/etad origins retained without double credit.0 finite/source credits. Totals51,648 finite;4,249 nominal/4,918 readings; wider gates Open.
+
 PG436 constructs [anvādeśa new-information gate and owned aś/ena replacements](research/panini_grammar/anvadesa_new_information_and_owned_ash_ena/README.md):1 syntax contract/6 frame readouts,2 morphology adapters,1 addressed Bāla comparison. Vidhātum means conveying new information, not imperative-only; first mention need not be idam. Whole short-a aś versus ena retains original case/affix/accent owners. Additive PG435 āś→aś transcription correction;0 finite/nominal positions/readings. Totals51,648 finite;4,243 nominal/4,912 readings unchanged; wider gates Open.
 
 PG435 constructs [idam owned parts, case-pratyāhāra and hal consumers](research/panini_grammar/idam_owned_parts_case_pratyahara_and_hal_consumers/README.md):1 composed morphology adapter;63 keys65 readings,19/21 new nominal credits after44/44 conservative withholding. Ayam/iyam/im-/an-/a- paths retain original id/d/m owners; āp7.2.112 is case-pratyāhāra, not feminine ṭāp. Ebhiḥ blocks ais under no-ak7.1.11; K alternative lopa histories stay distinct. Raw Bāla āsu tail/anvādeśa/akac remain Open.0 finite/source credits. Totals51,648 finite;4,243 nominal/4,912 readings; wider gates Open.
@@ -130,7 +132,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG436 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG437 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
