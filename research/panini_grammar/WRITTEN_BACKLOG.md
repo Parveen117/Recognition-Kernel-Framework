@@ -1,6 +1,6 @@
-# Written-development backlog at PG426
+# Written-development backlog at PG427
 
-Monty · 21 November 2026 · reviewed parent cd28daa67b864f081876b79a5fcb617205e0b047.
+Monty · 21 November 2026 · reviewed parent e9fce3e05cd92c2aa8d531936b6a956fb367a2a7.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -257,6 +257,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/C5 · Neuter and selected three-gender kim closure at PG426
 
 [PG426](analytic_kim_neuter_luk_priority_and_dental_num/README.md) closes21 new N keys22 readings;1 addressed electronic Tattva7.1.23 observation explicitly blocks ka after early su/am luk. Stem m remains in direct kim; actual surviving śī/śi gives ke/kāni with dental num-n. K earlier-priority OR nitya and Tattva pūrvavipratiṣedha source accounts stay explicit, not a global scheduler.0 finite/separate construction credits; totals51,648 finite;3,720 nominal/4,339 readings. PG424–426 selected principal ordinary seven-case three-number three-gender kim locally CLOSED:63 keys65 readings,62/64 new after old kaḥ withholding, zero aggregate credits. Do not recount these panels. Actual next contracts: analytic yad/tad; remaining akac cases/genders and distinct semantic/placement domains; kim vocative/accent/Vedic/name/compound/recognition; independent source/priority-policy C2–C5/S1–S7/native gates. No open textual gap excluded for closure.
+
+### C4/C5 · Analytic relative yad selected gender panels at PG427
+
+[PG427](analytic_yad_three_genders_final_atva_and_relative_identity/README.md) closes63 keys67 readings across seven cases/three numbers/three genders,62/66 new nominal credits after old analytic yaḥ withholding;1 addressed Bāla comparison,0 finite/separate construction credits. Final d→a/pararūpa retains relative identity; no whole-kim ka or tad-specific s transfer. Bāla positively grounds sup-domain atva before feminine ṭāp; N direct early-luk keeps stem d in yat/yad, distinct from PG421 ending d; yāni num dental. Supplied binding features are not unrestricted semantic parsing; Uṇādi root yat remains another owner. Totals51,648 finite;3,782 nominal/4,405 readings. Do not recount closed selected yad or kim panels. Actual next contracts: analytic tad, remaining akac, vocative/accent/Vedic/name/compound/unsupplied binding and original source/native C2–C5/S1–S7. Raw repeated/malformed Bāla text is preserved/Open; no gap excluded for completion.
 
 ## Claude-deferred execution: separate gates
 

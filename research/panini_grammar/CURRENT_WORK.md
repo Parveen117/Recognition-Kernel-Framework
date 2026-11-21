@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG426
+# Pāṇini grammar · current written coverage at PG427
+
+PG427 constructs [analytic yad three genders, final-atva and relative identity](analytic_yad_three_genders_final_atva_and_relative_identity/README.md):63 keys67 readings,62/66 new nominal credits after old yaḥ withholding;1 addressed Bāla comparison. Final d→a/pararūpa differs from whole kim→ka; Bāla grounds sup→atva→ṭāp and no tad-s transfer. N direct yat/yad keeps stem d after early luk; yāni n dental.0 finite/separate construction credits. Totals51,648 finite;3,782 nominal/4,405 readings; wider gates Open.
 
 PG426 constructs [neuter kim early-luk priority and dental num](analytic_kim_neuter_luk_priority_and_dental_num/README.md):21 new nominal positions22 readings,1 addressed Tattva observation explicitly blocking kim→ka after early su/am luk. Singular kim keeps stem-m; surviving dual/plural gives ke/kāni, dental num-n. PG424–426 selected three-gender domain closes63 keys65 readings,62/64 newly credited; no aggregate recredit.0 finite/separate construction units. Totals51,648 finite;3,720 nominal/4,339 readings; wider gates Open.
 
@@ -115,7 +117,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG426 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,720 nominal positions with 4,339 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG427 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,782 nominal positions with 4,405 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
