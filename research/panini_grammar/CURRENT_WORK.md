@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG441
+# Pāṇini grammar · current written coverage at PG442
+
+PG442 constructs [akac-to-aś whole recipient and bhyām bridge](akac_ash_whole_recipient_and_bhyam_bridge/README.md):K2.4.32 explicitly supports imakābhyām→ābhyām;whole replacement consumes actual ak but retains affix history.9 matched M/F/N dual-bhyām readouts all withheld;1 morphology adapter,0 new finite/nominal/source credits. Post-aś no-k/bhis/ena consumers and wider gates stay Open. Totals51,648 finite;4,288 nominal/4,959 readings unchanged.
 
 PG441 constructs [akac-idam feminine m-retention and owned itva](akac_idam_feminine_m_retention_and_owned_itva/README.md):21 new F positions/readings;1 morphology adapter,0 finite/source credits. Fsu iyakam retains m without āp/itva;other cases compose positive āp/affix-k itva to imike/imikasyai/imikāsām. Written rule compositions,not direct full-panel attestations. With PG438/440 selected three-gender63 keys65 readings close,no aggregate credit. Raw imakasyai/whole-aś/wider gates Open. Totals51,648 finite;4,288 nominal/4,959 readings.
 
@@ -145,7 +147,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG441 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 4,288 nominal positions with 4,959 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG442 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 4,288 nominal positions with 4,959 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

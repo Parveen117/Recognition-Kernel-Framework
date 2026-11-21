@@ -1,6 +1,6 @@
-# Written-development backlog at PG441
+# Written-development backlog at PG442
 
-Monty · 21 November 2026 · reviewed parent 0733d887967c953749d5341e82800bce35fad669.
+Monty · 21 November 2026 · reviewed parent bbcfd94906ffed08eb36fd43ec05918b6ae0be38.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -326,6 +326,10 @@ S1 closure. Actual links/limitations and published results are logged in
 ### C4/C5 · Akac-idam feminine source-order composition at PG441
 
 [PG441](akac_idam_feminine_m_retention_and_owned_itva/README.md) supplies21 new F positions/readings and1 morphology adapter. Fsu original-d→y plus final-m reaffirmation gives iyakam,no actual āp/itva;other cases compose Bāla's positive sup→atva→āp and actual affix-k itva to imikā-derived forms. Earlier operative sup is not itself the compound-internal āp-after-sup prohibition. Original idam is not yad/tad7.3.45. Written compositions are distinguished from direct full-panel attestations;0 source-observation credits. Selected PG438/440/441 three-gender domain locally CLOSED63 keys65 readings,39/41 new across those three stages,no aggregate recredit. Totals51,648 finite;4,288 nominal/4,959 readings. Historical female-Open forward references superseded only on this ordinary supplied ajñāta domain; raw Bāla imakasyai is not silently changed or resolved. Original-akac→whole-aś interaction, source collation/actual semantics/accent and C2–C5/S1–S7/native/vocative/Vedic/compound/external domains remain Open.
+
+### C4/C5/S7 · Positive prior-ak whole-aś recipient and exact residual at PG442
+
+[PG442](akac_ash_whole_recipient_and_bhyam_bridge/README.md) applies the already pinned K24032 explicit sa-akac purpose/imakābhyām→ābhyām informative continuation. Whole aś consumes current ak while retaining original affix/source/semantic history;9 M/F/N ins/dat/abl dual-bhyām readouts locally CLOSED,all old PG439 words withheld.1 morphology adapter,0 new finite/nominal/source credits. Totals unchanged51,648 finite;4,288 nominal/4,959 readings. Historical original-ak-to-aś-Open references are superseded only for whole recipient/this bridge. Concrete residual: bhis7.1.11 original ak exclusion versus current-k absence after aś needs source-qualified entitlement;do not copy original-no-ak policy or claim full original-ak36/54-cell grid. Other ak→ena consumers/accent/semantics/independent print/raw Bāla and C2–C5/S1–S7/native/vocative/Vedic/compound/external gates stay Open.
 
 ## Claude-deferred execution: separate gates
 
