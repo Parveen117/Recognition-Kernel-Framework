@@ -1,4 +1,4 @@
-# Written-development backlog at PG411
+# Written-development backlog at PG412
 
 Monty · 21 November 2026 · reviewed parent ee70c4e19ab7efb9edcf762ed6e63a85fb1ad97a.
 
@@ -193,6 +193,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C2/C4/C5 · Nested prior action and specific laghu-lyap ay at PG411
 
 [PG411](nested_gam_prior_action_and_lyap_laghu_ay/README.md) closes two supplied nonfinite contracts/readouts: common outer V and E2≺G, unprefixed gamayitvā versus actual verbal pra-compound pragamayya. Seṭ ktvā retains H2/outer iṭ; actual lyap lacks iṭ but specific6.4.56 keeps H2 as ay on short-ga/laghu input, rather than generic lopa. K's different-āśraya explanation makes the short-root witness visible for this consumer; H2-y/lyap-y remain distinct. PG409/410 and single-ṇic bhid receive no recredit.0 finite/nominal/source or separate morphology/syntax units; totals51,648 finite;3,389 nominal/3,975 readings. Other nested/compound/control/order/object/sense/accent/attestation/caṅ/source/native domains and C2–C5/S1–S7 remain Open.
+
+### C2/C3/C5 · Long-root pat lyap contrast at PG412
+
+[PG412](nested_pat_lyap_long_root_and_owned_lopa/README.md) closes one selected two-hetu bhvādi pat1010979 prior-action contract/readout: long pāt root, early H1-lopa, actual pra-compound lyap, false6.4.56 laghu guard then H2-lopa yield prapātya. Only lyap supplies y; both causal events and common outer V remain. This contrasts PG411's short ga/H2-ay without recredit.0 finite/nominal/source/separate syntax/morphology units; totals51,648 finite;3,389 nominal/3,975 readings. Abbreviated source control does not uniquely establish authorial root numbering or nested attestation; other pat/curādi senses, prefixes/objects/identity/accent/caṅ/source/native gates remain Open. Fresh S1 quote lookup again gave no exact poem locus and no new evidence credit.
 
 ## Claude-deferred execution: separate gates
 

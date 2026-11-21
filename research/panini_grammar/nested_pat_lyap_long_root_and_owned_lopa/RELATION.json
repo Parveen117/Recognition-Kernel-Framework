@@ -1,0 +1,77 @@
+{
+  "input": {
+    "root": "1010979",
+    "address": "01.0979",
+    "teaching": "पतॢँ",
+    "sense": "ordinary downward movement/falling, selected intransitive base",
+    "preverbs": [
+      "pra"
+    ],
+    "compound": "positively supplied verbal gati/upasarga non-nañ compound, source-compatible ordinary pra movement",
+    "formation": "two hetumat nic H1/H2, no curadi svartha",
+    "events": [
+      "E0:Y falls",
+      "E1:D induces E0",
+      "E2:V induces E1",
+      "G:V later acts"
+    ],
+    "control": "V is kartṛ of E2 and G; E2≺G supplied",
+    "karman": "Y only, no other intended goal positively supplied",
+    "phonetics": "unaccented conventional undoubled"
+  },
+  "roles": {
+    "Y": "E0 agent ->E1 karman by1.4.52 -> retained E2 karman",
+    "D": "E1 inducing agent; immediate already-causal input prevents fresh E2 causee-karman promotion",
+    "V": "E2 inducing agent and common later G actor"
+  },
+  "trace": [
+    {
+      "id": "ROOT",
+      "input": "pat_ROOT|i_H1",
+      "output": "pāt_ROOT|i_H1",
+      "rule": "7.2.116 upadha a-vrddhi, no admitted mit shortening on this selected root"
+    },
+    {
+      "id": "L1",
+      "input": "pāt_ROOT|i_H1|i_H2",
+      "output": "pāt_ROOT|empty_H1|i_H2",
+      "rule": "generic6.4.51 early H1-lopa before competing H1 growth; root ā retained"
+    },
+    {
+      "id": "SELECT",
+      "input": "pra|pāt_ROOT|empty_H1|i_H2|KTVA",
+      "output": "pra|pāt_ROOT|empty_H1|i_H2|ya_LYAP",
+      "rule": "7.1.37 whole ktva replacement on supplied compound; actual y outside val, no it"
+    },
+    {
+      "id": "L2",
+      "input": "pra|pāt_ROOT|empty_H1|i_H2|ya_LYAP",
+      "output": "pra|pāt_ROOT|empty_H1|empty_H2|ya_LYAP",
+      "rule": "6.4.56 laghu guard false on pā;6.4.51 anit lopa addresses H2"
+    }
+  ],
+  "readout": "prapātya",
+  "owners": {
+    "long_a": "root-side vrddhi, not H2 or lyap",
+    "y": "actual lyap only, unlike PG411 H2-y plus lyap-y",
+    "deleted": "H1 and H2 sounded i, distinct lopa events; both causal licences survive"
+  },
+  "accepted": [
+    "one new selected two-hetu pat prior-action nonfinite contract/readout",
+    "long root witness makes6.4.56 ay edge false and leaves H2-lopa positive",
+    "outer V and E2≺G control, with D and Y roles separately retained"
+  ],
+  "excluded": [
+    "merge1010979 bhvadi pat with curadi/adanta pat or drinking pa",
+    "copy gam mit shortening without pat membership evidence",
+    "insert H2-ay despite false laghu guard",
+    "delete root ā with nic vowels",
+    "read source prapatya word as proof of two causal events",
+    "replace common V by D or Y solely because all are agents somewhere"
+  ],
+  "open": [
+    "other pat senses/curadi roots, uncertain lexical identification of abbreviated historical control",
+    "other prefix/compound/object/participant-binding domains and missing E2≺G evidence",
+    "other persons/lakaras/nominals/accent/phonetic domains, independent nested-clause attestation, cang dispute and C2-C5/S1-S7/native integration"
+  ]
+}

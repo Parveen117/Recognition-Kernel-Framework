@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG412 constructs [nested pat lyap with long root and owned lopa](nested_pat_lyap_long_root_and_owned_lopa/README.md):one nonfinite construction/readout,0 finite/nominal positions/readings/source observations. Selected bhvādi1010979 pāt keeps long root ā; actual lyap6.4.56 laghu guard fails, so H2-lopa gives prapātya with one lyap-owned y. Both causal events and common outer V survive. Totals51,648 finite;3,389 nominal/3,975 readings; wider source/native gates Open.
+
 PG411 constructs [nested gam prior action and laghu-lyap ay](nested_gam_prior_action_and_lyap_laghu_ay/README.md):two nonfinite constructions/readouts,0 finite/nominal positions/readings/source observations. Common outer V and E2≺G precede gamayitvā or supplied pra-compound pragamayya; specific6.4.56 uses visible short ga and keeps H2 as ay rather than lopa. The two y owners remain distinct. Totals51,648 finite;3,389 nominal/3,975 readings; wider gates Open.
 
 PG410 constructs [nested gam kta with outer iṭ before second lopa](nested_gam_kta_outer_it_before_second_lopa/README.md):one morphology construction/readout,0 new finite/nominal positions/readings/source observations. Completed past E2 and patient Y precede kta; H1-lopa, outer iṭ, then seṭ-niṣṭhā H2-lopa give gamita with i_IT retained and both causal events preserved. Totals51,648 finite;3,389 nominal/3,975 readings. Wider nested/nominal/source/native gates remain Open.
