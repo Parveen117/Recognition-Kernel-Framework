@@ -1,0 +1,125 @@
+{
+  "input": {
+    "root_record": {
+      "i": "1011159",
+      "baseindex": "01.1159",
+      "dhatu": "वह्",
+      "aupadeshik": "वहँ",
+      "gana": "1",
+      "pada": "U",
+      "settva": "A",
+      "karma": "D",
+      "artha": "प्रापणे",
+      "artha_english": "to flow, to propel, to carry, to  haul, to drag",
+      "tags": "अनुदात्तोपदेशः,common",
+      "dhaturoopnandini": "1004",
+      "dhatu_note": "अयं धातुः प्रापणार्थे (नयनम् अस्मिन् अर्थे) द्विकर्मकः अस्ति, यथा 'रामः ग्रामं भारं वहति' इति । परन्तु वहनार्थे (स्वयं प्रवहति अस्मिन् अर्थे) अकर्मकः यस्ति, यथा - 'नदी वेगेन वहति' इति ।",
+      "sk": "1004",
+      "lsk_sutra": "546",
+      "sk_sutra": "2409",
+      "artha_hindi": "बहना, झरना, ढोना, ढो ले जाना",
+      "upasargas": [],
+      "antarganas": "यजादिः",
+      "dhaturoopnandini_note": " प्रापणे = धारणे ' इति काशकृत्स्नः ।"
+    },
+    "source_selector": "SK_BALA71069_OTHER_NYANTA_CAUSEE_AFTER_DESIGNATION",
+    "root_owner": "vah1011159 prāpane",
+    "affix_owner": "one hetumat ṇic then independently owned yak/tiṅ",
+    "voice": "karmaṇi",
+    "root": "vah",
+    "prefixes": [],
+    "semantic_guards": "supplied positive animal-driver chariot versus non-driver human-porter load contexts from PG451/SK14052",
+    "scope": "two selected unaccented present slots;not all passive object policies"
+  },
+  "rows": [
+    {
+      "root_id": "1011159",
+      "root": "vah",
+      "sense": "prāpane,carrying",
+      "preverbs": [],
+      "formation": "one hetumat ṇic",
+      "voice": "karmani",
+      "lakara": "lat",
+      "frame": "ANIMAL_DRIVER_CHARIOT",
+      "outer_niyantr": true,
+      "causer": "a,sg animal-driver",
+      "causee": "b,pl carrying animals",
+      "patient": "c,sg chariot",
+      "causee_role": "E1karman plus E0kartṛ retained",
+      "karmans": [
+        "b",
+        "c"
+      ],
+      "expressed_karman": "b",
+      "causer_case": "ins",
+      "causee_case": "nom",
+      "patient_case": "acc",
+      "agreement_controller": "b",
+      "person": "3",
+      "number": "pl",
+      "word": "vāhyante",
+      "position_credit": 1,
+      "reading_credit": 1
+    },
+    {
+      "root_id": "1011159",
+      "root": "vah",
+      "sense": "prāpane,carrying",
+      "preverbs": [],
+      "formation": "one hetumat ṇic",
+      "voice": "karmani",
+      "lakara": "lat",
+      "frame": "HUMAN_PORTER_LOAD",
+      "outer_niyantr": false,
+      "causer": "a,sg distinct supervisor",
+      "causee": "b,sg human porter",
+      "patient": "c,sg load",
+      "causee_role": "E0kartṛ retained,no E1karman conversion",
+      "karmans": [
+        "c"
+      ],
+      "expressed_karman": "c",
+      "causer_case": "ins",
+      "causee_case": "ins",
+      "patient_case": "nom",
+      "agreement_controller": "c",
+      "person": "3",
+      "number": "sg",
+      "word": "vāhyate",
+      "position_credit": 1,
+      "reading_credit": 1
+    }
+  ],
+  "accounting": {
+    "new_finite_positions": 2,
+    "new_finite_readings": 2,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "withheld_prior_finite_positions": 0,
+    "withheld_prior_finite_readings": 0,
+    "independent_slots": [
+      "vah1011159,prāpane,one-nic,karmani,lat,3sg",
+      "vah1011159,prāpane,one-nic,karmani,lat,3pl"
+    ],
+    "prior": "PG15 simple uhyate and PG451 active vahayati/vahayate are different voice/formation owners;no accepted prior causal vah passive word panel found in prose/factored TSV/STATE review."
+  },
+  "accepted": [
+    "NI belongs to unexpressed outer kartṛ a even when b/c controls nominative/tiṅ",
+    "choose q only from already designated karmans;selected other-nyanta policy chooses b on animal frame,unique c on porter frame",
+    "yak is aniṭ ārdhadhātuka,tiṅ separately sarvadhatuka;nic-i consumed,root a→ā retained",
+    "K61015 root-svarupa/tatpratyaya guard prevents treating this whole causative yak as a new simple-root kit attachment"
+  ],
+  "excluded": [
+    "porter b controls despite no E1karman designation",
+    "select c freely on chosen driver-frame selector just because it is the principal object",
+    "carry active F/U A/P alternatives into passive1.3.13",
+    "replay simple vah samprasarana as a rollback of causal grade/history",
+    "erase nic vowel and root-vowel distinction or derive passive by chopping active ayati"
+  ],
+  "open": [
+    "other source selectors/unknown driver or causal role designation;no arbitrary object choice from noun order",
+    "full nine-slot causal vah passive grid,other lakaras/preverbs/senses,intransitive flow,bhava/nesting/coordination/accent/external-sandhi and universal ordering",
+    "unqualified prior-ak bhis and source schematic d-m/other S1-S7 textual obligations",
+    "broader C2-C5 lexical/derived-role/nominal/syntax/native runtime integration"
+  ]
+}

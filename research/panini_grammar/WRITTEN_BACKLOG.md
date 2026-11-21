@@ -1,6 +1,6 @@
-# Written-development backlog at PG451
+# Written-development backlog at PG452
 
-Monty · 22 November 2026 · reviewed parent 5642bad8ddfb1e5add4c09b525461525163b7f6c.
+Monty · 22 November 2026 · reviewed parent 430901309bd72204f1c7f718f75c2b236440b742.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -366,6 +366,10 @@ S1 closure. Actual links/limitations and published results are logged in
 ### C2/C5 · Vah carrying, outer driver and active pada at PG451
 
 [PG451](vah_outer_driver_causee_and_active_pada/README.md) closes one supplied two-context syntax contract/8 role-pada readouts beyond PG14's twelve-root causal domain. Rootvah1011159/prāpane,one ṇic:the outer animal-driver guard—not the oxen's property—selects causee karman/acc versus retained-agent/ins on the source porter control. Independent F/U/special guards select active A/P and outer-causer3sg agreement. Old simple-vah passive and source words are not new finite/nominal/source/morphology credits;totals51,648 finite;4,336 nominal/5,007 readings unchanged. Unknown driving/result/upapada evidence,other vah senses/voices/lakāras,derived-role/morphology/accent and C2–C5/S1–S7/native obligations remain Open. C2 is narrowed on this exact contract,not globally closed. One additive provenance correction distinguishes actual upstream raw dhātu blobb5d037 from historical project-clean d39a41;full source bytes/length/SHA256 and frozen PG377 metadata unchanged. No extra grammatical reading/source-observation credit.
+
+### C2/C5 · Vah causal-passive controller/grade at PG452
+
+[PG452](vah_causal_passive_controller_and_retained_grade/README.md) adds2 finite positions/readings on selected passive laṭ3sg/3pl,one syntax bridge/2 readouts and one morphology adapter. Driver-causee q=b3pl gives vāhyante;porter's unique load q=c3sg gives vāhyate. NI remains on unexpressed outer causer a;source-selected q follows designation. Ṇic-i lopa retains root ā,and K6.1.15 tatpratyaya restricts the simple-root samprasāraṇa replay.0 nominal/source/provenance credits. Totals51,650 finite;4,336 nominal/5,007 readings. Seven other present slots/full grid,other voices/lakāras/senses/source selectors/accent and C2–C5/S1–S7/native gates remain Open;no global percentage/closure.
 
 ## Claude-deferred execution: separate gates
 
