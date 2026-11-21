@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG413 constructs [dvi numeral dual genders and sup owners](dvi_numeral_dual_genders_and_sup_owners/README.md):21-row seven-case M/F/N panel,20 new nominal positions/readings after withholding PG401 M nominative dvau control. Principal numeral dvi gets final-a; F ṭāp/śī7.1.18 and N śī7.1.19 remain distinct despite dve, as do bhyām/os case owners.0 finite/source/separate construction credits. Totals51,648 finite;3,409 nominal/3,995 readings; vocative/Vedic/wider gates Open.
+
 PG412 constructs [nested pat lyap with long root and owned lopa](nested_pat_lyap_long_root_and_owned_lopa/README.md):one nonfinite construction/readout,0 finite/nominal positions/readings/source observations. Selected bhvādi1010979 pāt keeps long root ā; actual lyap6.4.56 laghu guard fails, so H2-lopa gives prapātya with one lyap-owned y. Both causal events and common outer V survive. Totals51,648 finite;3,389 nominal/3,975 readings; wider source/native gates Open.
 
 PG411 constructs [nested gam prior action and laghu-lyap ay](nested_gam_prior_action_and_lyap_laghu_ay/README.md):two nonfinite constructions/readouts,0 finite/nominal positions/readings/source observations. Common outer V and E2≺G precede gamayitvā or supplied pra-compound pragamayya; specific6.4.56 uses visible short ga and keeps H2 as ay rather than lopa. The two y owners remain distinct. Totals51,648 finite;3,389 nominal/3,975 readings; wider gates Open.

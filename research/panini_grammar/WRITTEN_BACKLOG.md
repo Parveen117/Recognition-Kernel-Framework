@@ -1,4 +1,4 @@
-# Written-development backlog at PG412
+# Written-development backlog at PG413
 
 Monty · 21 November 2026 · reviewed parent ee70c4e19ab7efb9edcf762ed6e63a85fb1ad97a.
 
@@ -197,6 +197,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C2/C3/C5 · Long-root pat lyap contrast at PG412
 
 [PG412](nested_pat_lyap_long_root_and_owned_lopa/README.md) closes one selected two-hetu bhvādi pat1010979 prior-action contract/readout: long pāt root, early H1-lopa, actual pra-compound lyap, false6.4.56 laghu guard then H2-lopa yield prapātya. Only lyap supplies y; both causal events and common outer V remain. This contrasts PG411's short ga/H2-ay without recredit.0 finite/nominal/source/separate syntax/morphology units; totals51,648 finite;3,389 nominal/3,975 readings. Abbreviated source control does not uniquely establish authorial root numbering or nested attestation; other pat/curādi senses, prefixes/objects/identity/accent/caṅ/source/native gates remain Open. Fresh S1 quote lookup again gave no exact poem locus and no new evidence credit.
+
+### C4 · Dvi numeral seven-case dual genders at PG413
+
+[PG413](dvi_numeral_dual_genders_and_sup_owners/README.md) closes21 literal M/F/N dual keys/readings across seven cases;20 new nominal positions/readings after conservative withholding of PG401's explicit dvau nominative control, no baseline adjustment. Principal numeral/two-ness precedes final-a, F ṭāp then7.1.18 śī versus N7.1.19 śī; bhyām/os homographs retain case/gender/length owners.0 finite/source/separate construction credits. Totals51,648 finite;3,409 nominal/3,995 readings. Vocative/Vedic/accent, names/upasarjana/compounds, other numeral/pronoun inventories, independent printed collation and C2–C5/S1–S7/native gates remain Open.
 
 ## Claude-deferred execution: separate gates
 

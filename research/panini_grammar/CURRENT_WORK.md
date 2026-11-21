@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG412
+# Pāṇini grammar · current written coverage at PG413
+
+PG413 constructs [dvi numeral dual genders and sup owners](dvi_numeral_dual_genders_and_sup_owners/README.md):21-row seven-case M/F/N panel,20 new nominal positions/readings after withholding PG401 M nominative dvau control. Principal numeral dvi gets final-a; F ṭāp/śī7.1.18 and N śī7.1.19 remain distinct despite dve, as do bhyām/os case owners.0 finite/source/separate construction credits. Totals51,648 finite;3,409 nominal/3,995 readings; vocative/Vedic/wider gates Open.
 
 PG412 constructs [nested pat lyap with long root and owned lopa](nested_pat_lyap_long_root_and_owned_lopa/README.md):one nonfinite construction/readout,0 finite/nominal positions/readings/source observations. Selected bhvādi1010979 pāt keeps long root ā; actual lyap6.4.56 laghu guard fails, so H2-lopa gives prapātya with one lyap-owned y. Both causal events and common outer V survive. Totals51,648 finite;3,389 nominal/3,975 readings; wider source/native gates Open.
 
@@ -87,7 +89,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG412 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,389 nominal positions with 3,975 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG413 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,409 nominal positions with 3,995 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
