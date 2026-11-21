@@ -1,6 +1,6 @@
-# Written-development backlog at PG434
+# Written-development backlog at PG435
 
-Monty · 21 November 2026 · reviewed parent 4b5a468d632b5bdc4b248fbb7f567720bd64c439.
+Monty · 21 November 2026 · reviewed parent 76d6dca498b9a3c2c9286daabcfa5a743d11cb77.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -289,6 +289,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/C5 · Other-pronoun singular panels and itara-register contract at PG434
 
 [PG434](itara_anya_anyatara_singular_and_register_owned_endings/README.md) closes supplied principal itara/anya/anyatara ordinary M/F/N seven-case singular panels63 keys75 readings,46/52 new after17 keys23 readings conservatively withheld, including gender-unspecified old dative/locative source controls. Two separate zero-credit itara-chandas ending controls use7.1.26 block plus7.1.24 at-am; ordinary itarat/d remains positive adḍ. One operation's block does not delete class; anyatara is a supplied lexical member, no invented productive genealogy.0 finite/source/separate construction credits; totals51,648 finite;4,224 nominal/4,891 readings. Remaining: wider numbers/senses and lexical ancestry, independent Maitrāyaṇī1.6.12/Saṃhitā-accent/print, compound/name/subordination/vocative/external and C2–C5/S1–S7/native gates. Earlier itara/anya/anyatara Open references superseded only on these selected singular and source-qualified ending domains.
+
+### C4/C5 · Plain idam part/consumer composition at PG435
+
+[PG435](idam_owned_parts_case_pratyahara_and_hal_consumers/README.md) closes one composed no-ak/non-anvādeśa idam morphology adapter and63-key65-reading M/F/N seven-case sg/du/pl panel;19/21 new nominal credits after44/44 conservative source/control/homograph withholding,0 separate morphology-readout/finite/source credits. Original id/d/m, m→m/no-atva, N early-luk, case-pratyāhāra āp versus feminine āp, vowel-an versus actual-hal lopa and no-ak bhis→ais prohibition retain owners; alternate K lopa histories remain explicit. Totals51,648 finite;4,243 nominal/4,912 readings. Actual next idam contracts: akac-imaka guards/whole resulting paradigms, same-referent anvādeśa āś/ena semantic admission and word histories, raw Bāla72110 duplicated āsu tail/independent print, accent/Vedic/vocative/compound/name/deictic/external domains. Source gaps are not excluded to close the selected panel; wider C2–C5/S1–S7/native gates Open.
 
 ## Claude-deferred execution: separate gates
 

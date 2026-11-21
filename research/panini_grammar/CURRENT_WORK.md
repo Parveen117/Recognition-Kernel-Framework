@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG434
+# Pāṇini grammar · current written coverage at PG435
+
+PG435 constructs [idam owned parts, case-pratyāhāra and hal consumers](idam_owned_parts_case_pratyahara_and_hal_consumers/README.md):1 composed morphology adapter;63 keys65 readings,19/21 new nominal credits after44/44 conservative withholding. Ayam/iyam/im-/an-/a- paths retain original id/d/m owners; āp7.2.112 is case-pratyāhāra, not feminine ṭāp. Ebhiḥ blocks ais under no-ak7.1.11; K alternative lopa histories stay distinct. Raw Bāla āsu tail/anvādeśa/akac remain Open.0 finite/source credits. Totals51,648 finite;4,243 nominal/4,912 readings; wider gates Open.
 
 PG434 constructs [itara/anya/anyatara singular cases and register-owned endings](itara_anya_anyatara_singular_and_register_owned_endings/README.md):63 ordinary keys75 readings,46/52 new nominal credits after17/23 conservative withholding. Separate itara-chandas at-am gives itaram with0 control credits, ordinary itarat/d stays adḍ; one blocked N operation does not erase class. No invented productive lexical genealogy.0 finite/source/separate construction units. Totals51,648 finite;4,224 nominal/4,891 readings; wider gates Open.
 
@@ -131,7 +133,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG434 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 4,224 nominal positions with 4,891 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG435 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 4,243 nominal positions with 4,912 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
