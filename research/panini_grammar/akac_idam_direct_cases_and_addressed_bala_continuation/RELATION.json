@@ -1,0 +1,204 @@
+{
+  "input": {
+    "lemma": "idam",
+    "affix": "akac,PG438 plain supplied ajñāta context,no anvādeśa replacement",
+    "genders": [
+      "M",
+      "N"
+    ],
+    "cases": [
+      "nom",
+      "acc"
+    ],
+    "numbers": [
+      "sg",
+      "du",
+      "pl"
+    ],
+    "root": null,
+    "preverbs": [],
+    "voice": null
+  },
+  "rows": [
+    {
+      "lemma": "idam+akac",
+      "gender": "M",
+      "case": "nom",
+      "number": "sg",
+      "ending": "su",
+      "words": [
+        "ayakam"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "lemma": "idam+akac",
+      "gender": "M",
+      "case": "nom",
+      "number": "du",
+      "ending": "au",
+      "words": [
+        "imakau"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "lemma": "idam+akac",
+      "gender": "M",
+      "case": "nom",
+      "number": "pl",
+      "ending": "jas",
+      "words": [
+        "imake"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "lemma": "idam+akac",
+      "gender": "M",
+      "case": "acc",
+      "number": "sg",
+      "ending": "am",
+      "words": [
+        "imakam"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "lemma": "idam+akac",
+      "gender": "M",
+      "case": "acc",
+      "number": "du",
+      "ending": "auṭ",
+      "words": [
+        "imakau"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "lemma": "idam+akac",
+      "gender": "M",
+      "case": "acc",
+      "number": "pl",
+      "ending": "śas",
+      "words": [
+        "imakān"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "lemma": "idam+akac",
+      "gender": "N",
+      "case": "nom",
+      "number": "sg",
+      "ending": "su",
+      "words": [
+        "idakam"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "lemma": "idam+akac",
+      "gender": "N",
+      "case": "nom",
+      "number": "du",
+      "ending": "au",
+      "words": [
+        "imake"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "lemma": "idam+akac",
+      "gender": "N",
+      "case": "nom",
+      "number": "pl",
+      "ending": "jas",
+      "words": [
+        "imakāni"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1
+    },
+    {
+      "lemma": "idam+akac",
+      "gender": "N",
+      "case": "acc",
+      "number": "sg",
+      "ending": "am",
+      "words": [
+        "idakam"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "lemma": "idam+akac",
+      "gender": "N",
+      "case": "acc",
+      "number": "du",
+      "ending": "auṭ",
+      "words": [
+        "imake"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "lemma": "idam+akac",
+      "gender": "N",
+      "case": "acc",
+      "number": "pl",
+      "ending": "śas",
+      "words": [
+        "imakāni"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1
+    }
+  ],
+  "accounting": {
+    "panel_positions": 12,
+    "panel_readings": 12,
+    "new_nominal_positions": 2,
+    "new_nominal_readings": 2,
+    "withheld_prior_or_control_positions": 10,
+    "withheld_prior_or_control_readings": 10,
+    "prior": "all6 M SK controls;Nsg original idakam controls2 and Ndu imake old Mpl homographs2 conservatively withheld",
+    "baseline_adjustment": 0
+  },
+  "source_observation": "Bala11021 header adyantavadekasmin has later idam continuation: idakam→ayakam by original-idam recognition,three no-k failures explicit;raw imakasyai retained Open",
+  "owners": {
+    "Mnomsg": "actual7.2.108 final m→m prevents atva;7.2.111 original id part→ay retains ak and original a/m;hal-su lopa6.1.68 gives ayakam",
+    "other_surviving": "original d→m7.2.109 plus final-m atva/pararupa gives imaka;actual endings independent",
+    "Nsg": "whole su/am luk blocks relevant aṅgakārya;original idakam including d,ak,final m retained",
+    "Nplural": "short śi/num and length give imakāni,dental num-n distinct from stem-m"
+  },
+  "accepted": [
+    "12 direct keys12 readings,2/2 new Nplural after10 controls",
+    "M/N selected full42-key44-reading domain with PG438,18/20 new across both stages;no aggregate credit",
+    "raw source continuation addressed without changing its field identifier or earlier accepted K rule path"
+  ],
+  "excluded": [
+    "change M ayakam to ayakaḥ by applying final-atva despite positive m-reaffirmation",
+    "copy M imakam into Nsg despite whole-luk",
+    "erase ak or change original d in Nsg idakam after whole-luk",
+    "use long dual ī as plural short śi or add retroflex num without trigger",
+    "adopt raw imakasyai as an extra Mdat alternative without reading/context evidence",
+    "claim feminine/direct-school/accent completion beyond these M/N cases"
+  ],
+  "open": [
+    "akac-idam feminine su exception/itva/other case realization",
+    "Bala11021 continuation raw imakasyai case/gender/printed reading and other source defects",
+    "original-akac-to-aś interaction, actual discourse/reference recognition and accent propagation",
+    "C2-C5/S1-S7/native runtime/vocative/Vedic/compound/external grammar"
+  ]
+}

@@ -1,6 +1,6 @@
-# Written-development backlog at PG439
+# Written-development backlog at PG440
 
-Monty · 21 November 2026 · reviewed parent 1b70e9f91b0336a2d6b95d3cc94fdcc031d36c12.
+Monty · 21 November 2026 · reviewed parent ba78fe755e3c276bddd66625aa1d4b24644ea2d6.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -318,6 +318,10 @@ S1 closure. Actual links/limitations and published results are logged in
 ### C4/C5 · Aś remaining no-ak cases and selected partition at PG439
 
 [PG439](ash_remaining_cases_and_idam_replacement_partition/README.md) closes36 aś case/gender/number keys38 readings,all same PG435 plain words withheld;1 case-transport adapter,0 finite/nominal/source credits. Whole recipient differs from part-lopa while permitted non-al class views and actual sound consumers remain separate. Combined with PG437 ena, selected original-no-ak idam replacement domain locally CLOSED54 keys57 readings,0 aggregate credit. Totals51,648 finite;4,265 nominal/4,936 readings unchanged. Remaining: original-akac-to-aś interaction, akac-idam female/direct cases, actual discourse recognition, full accent/print/Tattva/Bhāṣya/raw-source and C2–C5/S1–S7/native/vocative/Vedic/compound/external domains. Earlier full-aś-case Open references superseded only for this selected original-no-ak domain.
+
+### C4/C5/S7 · Akac-idam direct M/N and addressed source continuation at PG440
+
+[PG440](akac_idam_direct_cases_and_addressed_bala_continuation/README.md) closes12 direct M/N keys12 readings,2/2 new Nplural credits after10 controls withheld;1 morphology adapter and1 addressed electronic Bāla11021 later-idam continuation observation. Header11021 not remapped to a later rule; positive original-idam recognition/three no-k failures located in body. Raw imakasyai token's case/gender/printed status remains Open, not an adopted extra M dative or silent correction of PG438 K-backed imakasmai. With PG438, selected plain ajñāta M/N domain CLOSED42 keys44 readings,18/20 new across both stages,no aggregate recredit. Totals51,648 finite;4,267 nominal/4,938 readings. Female cases/original-akac-to-aś interaction, actual semantics/accent/independent print/raw-source and C2–C5/S1–S7/native/vocative/Vedic/compound/external domains remain Open.
 
 ## Claude-deferred execution: separate gates
 
