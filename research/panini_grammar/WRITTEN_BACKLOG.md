@@ -1,6 +1,6 @@
-# Written-development backlog at PG456
+# Written-development backlog at PG457
 
-Monty · 22 November 2026 · reviewed parent ec0c01739a61cc29919967670d25849cbe6df789.
+Monty · 22 November 2026 · reviewed parent 10f33add5c24d2cf4000511baf38fe8dec162b70.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -401,3 +401,7 @@ PG455 completes [causal vah passive future/conditional](vah_causal_passive_futur
 ### C2/C3/C5 · Causal vah luṭ at PG456
 
 PG456 completes [causal vah luṭ and owned tāsi endings](vah_causal_passive_lut_and_owned_tas_endings/README.md):9 new finite positions/18 O/C readings,0 nominal/source/separate construction units. Third-person ending ā versus suffix ā,non-thematic2du s retention,1sg s→h and broad2pl s-lopa remain separately owned. Totals51,711 finite;4,336 nominal/5,007 readings. Selected causal-vah63 keys90 readings CLOSED,no aggregate recredit;three outer labels/narrow whole request/source/wider gates Open. Earlier four-outer-label references superseded only for selected broad luṭ on this frame. Remaining three labels liṭ/luṅ/āśīrliṅ require source/prior review;complete sic-only vah/bhid luṭ2pl requests remain Open despite excluded local tās.s deletion edges. Project written completion remains **OPEN**.
+
+### C2/C3/C5 · Vah blessing,h-final late query at PG457
+
+PG457 completes [causal vah blessing and h-final dh option](vah_causal_blessing_and_h_final_dh_option/README.md):9 new finite positions/20 readings,0 nominal/source/separate construction units. O pre-iṭ y and C post-lopa h both belong to selected iṇ,so each admits2pl dh/ḍh;old bhid d-final C negative control preserved. Totals51,720 finite;4,336 nominal/5,007 readings. Selected causal-vah72keys110readings CLOSED,no aggregate credit;liṭ/luṅ/source/wider gates Open. Earlier three-label Open references superseded only for this selected blessing. Two labels liṭ/luṅ and all actual textual/native contracts remain Open;h membership is a positive local premise,not an exclusion of a textual gap. Project written completion remains **OPEN**.

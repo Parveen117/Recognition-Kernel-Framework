@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG457 completes [causal vah blessing and h-final dh option](vah_causal_blessing_and_h_final_dh_option/README.md):9 new finite positions/20 readings,0 nominal/source/separate construction units. O pre-iṭ y and C post-lopa h both belong to selected iṇ,so each admits2pl dh/ḍh;old bhid d-final C negative control preserved. Totals51,720 finite;4,336 nominal/5,007 readings. Selected causal-vah72keys110readings CLOSED,no aggregate credit;liṭ/luṅ/source/wider gates Open.
+
 PG456 completes [causal vah luṭ and owned tāsi endings](vah_causal_passive_lut_and_owned_tas_endings/README.md):9 new finite positions/18 O/C readings,0 nominal/source/separate construction units. Third-person ending ā versus suffix ā,non-thematic2du s retention,1sg s→h and broad2pl s-lopa remain separately owned. Totals51,711 finite;4,336 nominal/5,007 readings. Selected causal-vah63 keys90 readings CLOSED,no aggregate recredit;three outer labels/narrow whole request/source/wider gates Open.
 
 PG455 completes [causal vah passive future/conditional](vah_causal_passive_future_and_conditional_augment_owners/README.md):18 new finite positions/36 O/C readings,0 nominal/source/separate construction units. Derived i_val retains ṇic ay;coupled i_cv permits owned ṇic-lopa with root ā/causal history retained. Actual sya is not kit/ciṇ;no simple vah→uh replay. Totals51,702 finite;4,336 nominal/5,007 readings. Selected present+future+conditional54 keys72 readings CLOSED,no aggregate credit;four outer/source/wider gates Open.

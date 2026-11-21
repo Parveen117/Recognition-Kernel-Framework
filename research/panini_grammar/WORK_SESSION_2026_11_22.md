@@ -197,3 +197,33 @@ outer labels;S2 raw82025 cause/repair,original Vāmana/Bhāṣya evidence,narrow
 full requests/edition lineage;other S1/S3–S7 positive source obligations;
 C2–C5 lexical/formation/semantic/nominal/Vedic/accent/native contracts. Keep
 these distinct from Claude-deferred execution and all already closed targets.
+
+## PG457 · Causal vah blessing and a genuine late-source guard difference
+
+Started from actual fetched10f33add5c24d2cf4000511baf38fe8dec162b70 PG456,
+clean aligned tree/no active writer observed. Read AGENTS/current/latest STATE/
+newest handoff/navigation/backlog and PG20/368 prose/factored word contracts.
+Independently supply āśīs3.3.173 on old vah1011159/prāpane/single-ṇic
+physical-traveller q=c frame. Before credits,prior prose/TSV/STATE search found
+no causal-vah blessing panel. Original-nic-vowel/O-C query/ending constructors
+reused through exact pins;no new source observation or generic theorem credit.
+
+PG457 adds9 finite positions/20 readings,0 nominal positions/readings or
+separate construction/source units. Both O pre-iṭ y and C post-lopa root h
+belong to selected later-marker iṇ;both therefore admit optional2pl dh/ḍh.
+Bhid's old C final d does not,so its19-reading result remains frozen while
+vah has20. Distinguish single h from stop dh and source-relative earlier Q51
+invisibility from this late Qdh query. All words are written compositions,
+not generator output or independent full-table attestations.
+
+Totals51,720 finite;4,336 nominal positions/5,007 nominal readings. Combined
+selected causal-vah72keys110readings CLOSED,no aggregate recredit. Liṭ/luṅ
+are actual remaining two-label frontier;source S1–S7/C2–C5/accent/Vedic/native
+and narrow whole luṭ requests remain Open. PG335 -9/-12,PG357–363 CLOSED,
+frozen predecessors and inherited source/provenance corrections preserved.
+Full PG14 operator/history and typed zero square written. Necessary explicit
+Python3.12 changed-document/source/count check result/attempts in packet;
+no Sanskrit generators,grammar/proof execution,untouched predecessor/
+navigation/engine suites or certificate replay. Fetch/expected-parent guarded
+publication to existing review branch,no force/main merge. No agents/new
+automation,ETA,overall completion or continuous executed-hours claim.
