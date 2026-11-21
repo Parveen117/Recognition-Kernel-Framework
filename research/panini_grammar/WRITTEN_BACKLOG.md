@@ -1,6 +1,6 @@
-# Written-development backlog at PG437
+# Written-development backlog at PG438
 
-Monty · 21 November 2026 · reviewed parent 184617a8ebd03f150733fd94ddbd6c4a80b9a867.
+Monty · 21 November 2026 · reviewed parent e3dee2507d4d1c318da30a50331943afc6cbb703.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -310,6 +310,10 @@ S1 closure. Actual links/limitations and published results are logged in
 ### C4/C5 · Ena eligible-domain gender panels at PG437
 
 [PG437](ena_eligible_gender_panels_and_neuter_enad/README.md) closes selected18 eligible gender/case/number cells19 readings,6/6 new after12/13 conservative control withholding;1 morphology adapter,0 finite/source credits. Accusatives/ins-sg/gen-loc-du only; no invented standalone63-cell ena declension. Both idam/etad source histories retained without duplicate word credit. Reported Naccsg enad has payload d/whole-am luk and non-aṅga case query, not5-family adḍ or universal reopening of aṅgakārya. Totals51,648 finite;4,249 nominal/4,918 readings. Selected ena inflection/etad origin/N extension earlier Open references superseded only on this supplied discourse/ending domain. Full aś remaining cases, akac-idam, original Bhāṣya/printed/accent/semantic recognition and wider C2–C5/S1–S7/native/vocative/Vedic/compound/external gates stay Open.
+
+### C4/C5 · Plain akac-idam M/N obliques at PG438
+
+[PG438](akac_idam_obliques_and_three_no_k_guards/README.md) closes30 M/N five-oblique-case sg/du/pl keys32 readings,16/18 new after14 source controls conservatively withheld;1 composed morphology adapter,0 finite/source credits. Actual pre-original-ṭi ak and separate d/m changes give imaka. No-k guards for an/id-lopa and special ais prohibition fail without deleting class: imakena/imakābhyām/imakaiḥ. Totals51,648 finite;4,265 nominal/4,936 readings. Remaining: akac-idam direct/female cases, actual anvādeśa interaction/full aś cases, source/print/raw Bala72110 and C2–C5/S1–S7/native/accent/Vedic/compound/external domains. Earlier akac-idam Open references superseded only for this plain ajñāta M/N oblique domain.
 
 ## Claude-deferred execution: separate gates
 

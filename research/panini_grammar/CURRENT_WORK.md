@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG437
+# Pāṇini grammar · current written coverage at PG438
+
+PG438 constructs [akac-idam M/N obliques and three no-k guards](akac_idam_obliques_and_three_no_k_guards/README.md):30 keys32 readings,16/18 new nominal credits after14 controls withheld;1 morphology adapter. Actual ak survives in imaka; no-k guards7.2.112/113 and7.1.11 fail separately, so imakena/imakābhyām/imakaiḥ retain class and matched endings.0 finite/source credits. Totals51,648 finite;4,265 nominal/4,936 readings; female/direct/aś/source/native gates Open.
 
 PG437 constructs [ena eligible gender panels and neuter enad](ena_eligible_gender_panels_and_neuter_enad/README.md):18 eligible keys19 readings,6/6 new nominal credits after12/13 controls withheld;1 morphology adapter. F enām/ene/enāḥ/enayā and N ene/enāni complete the selected ending domain; Naccsg enad has payload d and whole-am luk, not adḍ or a new nominative. Idam/etad origins retained without double credit.0 finite/source credits. Totals51,648 finite;4,249 nominal/4,918 readings; wider gates Open.
 
@@ -137,7 +139,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG437 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 4,249 nominal positions with 4,918 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG438 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 4,265 nominal positions with 4,936 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
