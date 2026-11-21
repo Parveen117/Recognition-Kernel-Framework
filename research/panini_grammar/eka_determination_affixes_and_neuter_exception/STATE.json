@@ -1,0 +1,70 @@
+{
+  "schema": "rkf.panini.pg433.state.v1",
+  "author": "Monty",
+  "date": "2026-11-21",
+  "publication_parent": "5b3c426d491f1e4d1df48c4dfec826094e1e42dd",
+  "baseline": {
+    "commit": "5b3c426d491f1e4d1df48c4dfec826094e1e42dd",
+    "path": "research/panini_grammar/sarvaka_three_genders_positive_itva_and_owned_ap/STATE.json"
+  },
+  "finite_positions": 51648,
+  "nominal_positions": 4178,
+  "nominal_readings": 4839,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "dual/plural member-number/context transport and other senses/compounds",
+    "independent printed yoga-vibhaga/Kaiyata and raw Bala71025 suffix-token collation",
+    "Vedic/accent/vocative/external realization and universal semantic recognition",
+    "C2-C5/S1-S7/native runtime and wider grammar"
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "local_closure": "two eka affix formations and principal M/F/N seven-case singular panels42 keys48 readings CLOSED on K source policy; wider grammar OPEN",
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 38,
+  "new_nominal_readings": 44,
+  "new_source_observations": 0,
+  "new_morphological_constructions": 2,
+  "new_morphological_readouts": 2,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "new_syntactic_constructions": 0,
+  "new_syntactic_readouts": 0,
+  "new_accent_constructions": 0,
+  "new_accent_readouts": 0,
+  "new_compound_constructions": 0,
+  "new_compound_readouts": 0,
+  "position_accounting": {
+    "panel_positions": 42,
+    "panel_readings": 48,
+    "new_nominal_positions": 38,
+    "new_nominal_readings": 44,
+    "withheld_prior_or_control_positions": 4,
+    "withheld_prior_or_control_readings": 4,
+    "prior": "two M nominative controls in5.3.94 factored register; K7.1.26 N nom/acc ekataram controls already cited in PG421/431",
+    "baseline_adjustment": 0
+  },
+  "inherited_additive_corrections": [
+    {
+      "target_commit": "8c72fd57b118bcd84dbb68075cf80a0609176045",
+      "path": "research/panini_grammar/determination_six_stems_singular_gender_cases/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "old_attribution": "Ṭā→ina7.1.9",
+      "correct_attribution": "Ṭā→ina7.1.12",
+      "evidence": "K7.1.12 explicitly ṭā/ṅasi/ṅas→ina/āt/sya;7.1.9 is bhis→ais",
+      "effect": "citation-only additive correction; all PG431 words, counts, frozen bytes and source pins unchanged"
+    }
+  ]
+}

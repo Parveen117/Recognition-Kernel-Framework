@@ -1,6 +1,6 @@
-# Written-development backlog at PG432
+# Written-development backlog at PG433
 
-Monty · 21 November 2026 · reviewed parent 8c72fd57b118bcd84dbb68075cf80a0609176045.
+Monty · 21 November 2026 · reviewed parent 5b3c426d491f1e4d1df48c4dfec826094e1e42dd.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -281,6 +281,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/C5 · Sarva-akac positive feminine itva at PG432
 
 [PG432](sarvaka_three_genders_positive_itva_and_owned_ap/README.md) closes selected ajñāta sarva+akac M/F/N seven-case sg/du/pl panels63 keys65 readings,60/62 new after three prior/source controls. Bāla's āp-before-ak path targets affix a_AK→i, giving sarvikā, not inherited yad/tad no-itva; actual āp/num/ina/suṭ consumers retain owners. Explicit additive correction for frozen PG431: ṭā→ina is7.1.12, not7.1.9;7.1.9 is bhis→ais. Forms/counts/pins unchanged; future consumers use this correction.0 finite/source/separate construction units. Totals51,648 finite;4,140 nominal/4,795 readings. Other ajñāta specific-property recognition, lexical/akac/word-level placement, determination dual/plural context transport, compound/semantic/accent/Vedic/external and C2–C5/S1–S7/native-source gates remain Open.
+
+### C4/C5 · Eka affixes and selective neuter exception at PG433
+
+[PG433](eka_determination_affixes_and_neuter_exception/README.md) closes two owned eka→ekatara/ekatama morphology constructions/two stems plus singular M/F/N seven-case panels42 keys48 readings,38/44 new after four controls. K5.3.94's independent admission/noncontinued class-question restriction/optional honourific-teacher reading retained. K7.1.26 explicitly blocks only ekatara adḍ in ordinary and Vedic registers: ekataram, not katara-like final d; ekatama keeps adḍ and a separate new-affix ṭi-lopa. Blocked one operation does not delete pronominal class.0 finite/source-observation credits; totals51,648 finite;4,178 nominal/4,839 readings. Dual/plural contextual transport, other lexical/compound/source/accent/Vedic/external/native and C2–C5/S1–S7 gates remain Open. Earlier ekatara/eka-member Open references are superseded only on these stated constructions/singular panels, not all derived meanings.
 
 ## Claude-deferred execution: separate gates
 

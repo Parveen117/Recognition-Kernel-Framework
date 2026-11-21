@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG433 constructs [eka determination affixes and the ekatara neuter exception](research/panini_grammar/eka_determination_affixes_and_neuter_exception/README.md):2 morphology constructions/2 stem readouts;42 singular keys48 readings,38/44 new nominal credits after4 controls. K5.3.94 drops class-question restriction and preserves optionality; K7.1.26 blocks adḍ for ekatara even in ordinary register, giving ekataram, while ekatama gives ekatamat/d. Pronominal obliques remain.0 finite/source credits. Totals51,648 finite;4,178 nominal/4,839 readings; wider gates Open.
+
 PG432 constructs [sarvaka three genders, positive itva and owned āp](research/panini_grammar/sarvaka_three_genders_positive_itva_and_owned_ap/README.md):63 keys65 readings,60/62 new nominal credits after three controls. Bāla āp-before-ak path changes a_AK→i to sarvikā, unlike yad/tad no-itva; MN sarvakeṇa/sarvakāṇi retain distinct nasal owners. Additive PG431 citation correction: ṭā→ina7.1.12, not7.1.9 (bhis→ais); frozen forms/counts unchanged.0 finite/source/separate construction units. Totals51,648 finite;4,140 nominal/4,795 readings; wider gates Open.
 
 PG431 constructs [six determination stems singular gender/case panels](research/panini_grammar/determination_six_stems_singular_gender_cases/README.md):126 keys150 readings,116/136 new nominal credits after10 old keys14 readings withheld. Original-q ṭi and later new-affix ṭi are distinct deletions; N adḍ supplies ending-owned d, unlike akac retained stem d. Derived ḍatara/ḍatama designation licences pronominal endings, not simple-q ka/s re-entry. Tara ina-n becomes ṇ; tama stays dental.0 finite/source/separate construction units. Totals51,648 finite;4,080 nominal/4,733 readings; other numbers/wider gates Open.
@@ -122,7 +124,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG432 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG433 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
