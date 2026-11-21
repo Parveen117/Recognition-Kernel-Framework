@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG430
+# Pāṇini grammar · current written coverage at PG431
+
+PG431 constructs [six determination stems singular gender/case panels](determination_six_stems_singular_gender_cases/README.md):126 keys150 readings,116/136 new nominal credits after10 old keys14 readings withheld. Original-q ṭi and later new-affix ṭi are distinct deletions; N adḍ supplies ending-owned d, unlike akac retained stem d. Derived ḍatara/ḍatama designation licences pronominal endings, not simple-q ka/s re-entry. Tara ina-n becomes ṇ; tama stays dental.0 finite/source/separate construction units. Totals51,648 finite;4,080 nominal/4,733 readings; other numbers/wider gates Open.
 
 PG430 constructs [akac kim whole replacement versus neuter early-luk](akac_kim_whole_replacement_and_neuter_luk/README.md):63 keys65 readings;61 shared analytic-word positions63 readings withheld, only2 N directsg kakim positions/readings new. Surviving sup licences whole kakim→ka; early su/am luk blocks it and retains ak. F kā has no pre-k vowel for itva. Selected PG429–430 akac kim/yad/tad panels locally close189 keys199 readings, no aggregate recredit.0 finite/source/separate construction units. Totals51,648 finite;3,964 nominal/4,597 readings; wider gates Open.
 
@@ -123,7 +125,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG430 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,964 nominal positions with 4,597 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG431 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 4,080 nominal positions with 4,733 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

@@ -1,6 +1,6 @@
-# Written-development backlog at PG430
+# Written-development backlog at PG431
 
-Monty · 21 November 2026 · reviewed parent 1bf985f92577d1541855296fb1f980619e91744a.
+Monty · 21 November 2026 · reviewed parent aa498ae956e3cde03e7d4a00ad607ad1cf6b7ec5.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -273,6 +273,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/C5 · Akac kim and selected determination panels at PG430
 
 [PG430](akac_kim_whole_replacement_and_neuter_luk/README.md) closes selected kim M/F/N seven-case sg/du/pl panel63 keys65 readings. Only N directsg kakim2/2 credited;61/63 shared analytic words conservatively withheld despite distinct retained affix histories. Surviving vibhakti permits whole ka, early N luk blocks it and leaves inserted ak; F kā has no pre-k vowel for7.3.44. Selected positive-akac kim/yad/tad PG429–430 locally CLOSED189 keys199 readings,122/130 newly credited across both stages, no aggregate credit.0 finite/source/separate construction units. Totals51,648 finite;3,964 nominal/4,597 readings. This supersedes earlier akac-kim case/gender Open only on the shared determination domain. Next contracts remain other semantic uses/pronouns, yuṣmad/asmad word/base placement, specific compounds/nominal classes/syntax/accent/Vedic/external domains and independent source/native C2–C5/S1–S7 gates. No global completion inferred.
+
+### C4/C5 · Six determination-derived singular panels at PG431
+
+[PG431](determination_six_stems_singular_gender_cases/README.md) closes six principal katara/katama/yatara/yatama/tatara/tatama M/F/N seven-case singular panels126 keys150 readings,116/136 new after10 prior keys14 readings withheld. First q-ṭi and later new-affix a-ṭi deletion remain distinct; N adḍ supplies ending d, derived designation licenses pronominal endings without simple-q ka/s re-entry. Tara ina-n→ṇ versus tama dental and feminine āp/syāṭ owners explicit.0 finite/source/separate construction units; totals51,648 finite;4,080 nominal/4,733 readings. Next: dual/plural realization with explicitly supplied member-number/context transport, other eka/anya/itara/compound/name members and specific C2–C5/S1–S7/native/accent/Vedic/external contracts. Raw Bāla71025 suffix-token and independent Kaiyaṭa/printed-source obligations stay Open. Singular local closure is not full determination-family/global grammar completion.
 
 ## Claude-deferred execution: separate gates
 
