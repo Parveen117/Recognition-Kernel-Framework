@@ -1,0 +1,105 @@
+{
+  "input": {
+    "type": "supplied owned current s slot with exact replacement/affix/root provenance",
+    "register": "source-qualified ordinary controls,not new whole-word paradigms",
+    "root": "absent for nominal controls;ghas/ad and pis supplied only where labelled",
+    "preverbs": "none inferred",
+    "voice": "no new entitlement/finite request"
+  },
+  "rows": [
+    {
+      "id": "etad_su",
+      "control": "eṣaḥ",
+      "slot": "nonfinal original t→s before actual su",
+      "owner": "S_SUBSTITUTE_IDENTITY",
+      "rule59_owner": true,
+      "rule60_extension": false,
+      "source": "K72106/83059",
+      "word_credit": 0
+    },
+    {
+      "id": "rama_loc",
+      "control": "rāmeṣu",
+      "slot": "s part of original sup",
+      "owner": "SUFFIX_PART",
+      "rule59_owner": true,
+      "rule60_extension": false,
+      "source": "B83059",
+      "word_credit": 0
+    },
+    {
+      "id": "tisr_gen_stem",
+      "control": "tisṛṇām",
+      "slot": "s inside whole tisṛ substitute for tri",
+      "owner": "SUBSTITUTE_PART_ONLY",
+      "rule59_owner": false,
+      "rule60_extension": false,
+      "source": "B83059/K72099",
+      "word_credit": 0
+    },
+    {
+      "id": "tisr_loc_stem",
+      "control": "tisṛṣu",
+      "slot": "stem s inside whole tisṛ substitute",
+      "owner": "SUBSTITUTE_PART_ONLY",
+      "rule59_owner": false,
+      "rule60_extension": false,
+      "source": "PG414/B83059",
+      "word_credit": 0
+    },
+    {
+      "id": "tisr_loc_ending",
+      "control": "tisṛṣu",
+      "slot": "s part of locative sup after current ṛ",
+      "owner": "SUFFIX_PART",
+      "rule59_owner": true,
+      "rule60_extension": false,
+      "source": "PG414/K83059",
+      "word_credit": 0
+    },
+    {
+      "id": "ghas_root_s",
+      "control": "jakṣatuḥ (K control only)",
+      "slot": "root s inside whole ghas substitute",
+      "owner": "ROOT_S_SUBSTITUTE_PART",
+      "rule59_owner": false,
+      "rule60_extension": true,
+      "source": "K83060/24037",
+      "word_credit": 0
+    },
+    {
+      "id": "pis_root_s",
+      "control": "raw सुपिसाविति (B control)",
+      "slot": "root pis s,not substitute-s or suffix part",
+      "owner": "LEXICAL_ROOT_S",
+      "rule59_owner": false,
+      "rule60_extension": false,
+      "source": "B83059",
+      "word_credit": 0
+    }
+  ],
+  "guard": {
+    "rule": "8.3.59",
+    "ownership": "SubstituteIdentity(s) OR SuffixPart(s),not SubstitutePart(s)",
+    "other_conditions": "actual s,non-pada-final,eligible iṇ/ku environment and rule-relative visibility/exceptions independently required",
+    "extension": "8.3.60 named-root edge distinct;ghas root may be whole substitute while its s is not substitute-s"
+  },
+  "accepted": [
+    "seven source-qualified ownership readouts,not seven new words",
+    "tisṛṣu stem-s and suffix-s receive opposite ownership answers without losing word history",
+    "Kghas named-root extension proves failure of8.3.59 ownership does not universally block ṣatva"
+  ],
+  "excluded": [
+    "replace SubstituteIdentity by arbitrary SubstitutePart",
+    "require suffix to consist only of s and thereby lose rameṣu",
+    "force all s in a word to share the same eligibility",
+    "claim a failed8.3.59 arm blocks every other rule",
+    "infer newly licensed finite ghas forms or normalize raw Bpis/doubled examples as new variants"
+  ],
+  "open": [
+    "full conflict/visibility/source-specific8.3 domain beyond supplied slots;no universal scheduler or Sanskrit generator",
+    "independent Praudha/Bhasya/printed collation and raw Bala repeated/damaged examples",
+    "post-aś two M/Nbhis7.1.11 questions and raw Bala11021/72110 remain unchanged Open",
+    "C2-C5/S1-S7/native runtime/semantic recognition/complete accent/Vedic/compound/external domains"
+  ]
+}

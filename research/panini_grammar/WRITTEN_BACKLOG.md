@@ -1,6 +1,6 @@
-# Written-development backlog at PG444
+# Written-development backlog at PG445
 
-Monty · 21 November 2026 · reviewed parent e098d8948d9e720134e4abfde1c307953ef3f1e9.
+Monty · 21 November 2026 · reviewed parent 755940f63477fff57bc70b20c52346099107c266.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -338,6 +338,10 @@ S1 closure. Actual links/limitations and published results are logged in
 ### C4/C5/S7 · Prior-ak post-aś consumers and additive citation correction at PG444
 
 [PG444](prior_ak_ash_consumers_and_syad_attribution/README.md) constructs25 remaining ordinary post-aś requests27 old readings using current a/āp and licensed non-al pronominal class,without importing unresolved M/Nbhis no-k qualification.1 morphology adapter,0 new word/source credits. Additive correction to frozen PG429/441 āp-shortening attribution:7.3.114,not7.2.107;all words/counts/pins preserved. [Local54-key backlog](prior_ak_ash_consumers_and_syad_attribution/PRIOR_AK_BACKLOG.json) now52 CLOSED,2 SOURCE_OPEN(M/Ninsplural bhis7.1.11 original-ak versus current-k absence). Older27-unconstructed forward references superseded on exactly these25 requests;two source gaps not excluded or granted speculative forms. Totals unchanged51,648 finite;4,288 nominal/4,959 readings. Raw Bāla/independent source/actual semantics/accent/C2–C5/S1–S7/native/Vedic/compound/vocative/external gates remain Open.
+
+### C4/C5 · Rule-relative s ownership quantifiers at PG445
+
+[PG445](satva_substitute_identity_and_suffix_part_ownership/README.md) constructs8.3.59 SubstituteIdentity(s) OR SuffixPart(s),not arbitrary SubstitutePart. One morphology/sound adapter/seven ownership readouts,0 word/source credits. Positive etad-su and rāmeṣu controls contrast tisṛ whole-substitute parts;two tisṛṣu s slots stay distinct.K8.3.60 explicitly admits ghas-root s by a separate named-root edge,so failed8.3.59 ownership is not universal rejection. Bāla's reported Prāuḍha genitive analysis is source-qualified,not an independent original-work confirmation. Totals unchanged51,648 finite;4,288 nominal/4,959 readings. The PG44452-CLOSED/2-SOURCE_OPEN prior-ak backlog is unchanged;two bhis questions not excluded or recredited. Full8.3 visibility/exception/lexical admission,raw Bāla/independent print and C2–C5/S1–S7/native/semantic/accent/Vedic/compound/external domains remain Open.
 
 ## Claude-deferred execution: separate gates
 

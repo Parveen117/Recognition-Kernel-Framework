@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG445 constructs [ṣatva substitute-identity versus suffix-part ownership](research/panini_grammar/satva_substitute_identity_and_suffix_part_ownership/README.md):1 morphology sound adapter/7 ownership readouts;0 new finite/nominal/source credits.8.3.59 uses SubstituteIdentity OR SuffixPart,not arbitrary SubstitutePart;two tisṛṣu s slots differ.K8.3.60 separately admits ghas-root s despite whole-root substitute ancestry.Totals unchanged51,648 finite;4,288 nominal/4,959 readings;post-aś bhis and wider gates Open.
+
 PG444 constructs [prior-ak aś consumers and corrected syāṭ attribution](research/panini_grammar/prior_ak_ash_consumers_and_syad_attribution/README.md):1 morphology adapter;25 requests27 old readings withheld,0 new finite/nominal/source credits. Current a/āp with licensed class gives ordinary consumers;two M/Nbhis remain SOURCE_OPEN. Additive PG429/441 citation correction:āp shortening7.3.114,not7.2.107;words/counts/frozen bytes unchanged. Local52/54 constructed,2 source-Open;totals51,648 finite;4,288 nominal/4,959 readings;wider gates Open.
 
 PG443 constructs [prior-ak whole ena/enad and feminine reset](research/panini_grammar/prior_ak_ena_whole_substitution_and_feminine_reset/README.md):1 morphology interaction adapter;18 eligible keys19 old readings all withheld,0 new finite/nominal/source credits. Whole replacement consumes actual ak;fresh Fāp gives enā,no inherited k-itva;Naccsg payload d survives whole-am luk. Prior-ak local backlog27/54 keys constructed,27 unconstructed;no global percentage. Totals unchanged51,648 finite;4,288 nominal/4,959 readings;wider gates Open.
@@ -146,7 +148,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG444 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG445 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
