@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG452
+# Pāṇini grammar · current written coverage at PG453
+
+PG453 completes [vah causal passive traveller present system](vah_causal_passive_traveller_and_present_system/README.md):36 laṭ/loṭ/laṅ/ordinary-liṅ keys/readings,34 new finite positions/34 readings after2 PG452 keys withheld.1 traveller-controller syntax contract/9 readouts,0 nominal/source/new morphology/provenance credits. Distinct human traveller q=c owns person;ending āṭ/past aṭ/optative īy stay separate. Totals51,684 finite;4,336 nominal/5,007 readings. Selected present system CLOSED;outer/source/wider gates Open.
 
 PG452 constructs [vah causal passive controller and retained grade](vah_causal_passive_controller_and_retained_grade/README.md):2 new finite positions/readings,vāhyante3pl(causee q) and vāhyate3sg(load q);1 syntax bridge/2 readouts,1 morphology adapter,0 nominal/source/provenance credits. NI stays on outer a;dependent karman selection precedes agreement,ṇic-i lopa retains root ā,and K6.1.15 tatpratyaya guard separates simple uhyate. Totals51,650 finite;4,336 nominal/5,007 readings;full grid/other policies/wider gates Open.
 
@@ -167,7 +169,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG452 add **10,317 finite positions**, taking the written total to **51,650**. The new lexical and compound work gives 4,336 nominal positions with 5,007 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG453 add **10,351 finite positions**, taking the written total to **51,684**. The new lexical and compound work gives 4,336 nominal positions with 5,007 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

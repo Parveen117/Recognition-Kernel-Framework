@@ -1,6 +1,6 @@
-# Written-development backlog at PG452
+# Written-development backlog at PG453
 
-Monty · 22 November 2026 · reviewed parent 430901309bd72204f1c7f718f75c2b236440b742.
+Monty · 22 November 2026 · reviewed parent 0c891bff213b4ed2ba9f64d0c6670d70e94141c7.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -370,6 +370,10 @@ S1 closure. Actual links/limitations and published results are logged in
 ### C2/C5 · Vah causal-passive controller/grade at PG452
 
 [PG452](vah_causal_passive_controller_and_retained_grade/README.md) adds2 finite positions/readings on selected passive laṭ3sg/3pl,one syntax bridge/2 readouts and one morphology adapter. Driver-causee q=b3pl gives vāhyante;porter's unique load q=c3sg gives vāhyate. NI remains on unexpressed outer causer a;source-selected q follows designation. Ṇic-i lopa retains root ā,and K6.1.15 tatpratyaya restricts the simple-root samprasāraṇa replay.0 nominal/source/provenance credits. Totals51,650 finite;4,336 nominal/5,007 readings. Seven other present slots/full grid,other voices/lakāras/senses/source selectors/accent and C2–C5/S1–S7/native gates remain Open;no global percentage/closure.
+
+### C2/C5 · Vah traveller present-system completion at PG453
+
+[PG453](vah_causal_passive_traveller_and_present_system/README.md) closes36 selected causal-vah passive laṭ/loṭ/laṅ/ordinary-liṅ keys/readings on supplied distinct human-porter/traveller frames,q=c.34 new finite positions/readings after PG452 laṭ3sg/3pl withheld;1 traveller-controller syntax contract/9 readouts,0 nominal/source/new morphology/provenance credits. Totals51,684 finite;4,336 nominal/5,007 readings. This supersedes PG452's Open reference to seven remaining present slots on exactly this admitted profile,not every animal-driver speech frame. Six outer lakāras/other senses/preverbs,unknown role/time/mood,accent/recitation/selector policies,S1–S7 and C2–C5/native gates remain Open. PG348 rawK32111 luṅ discrepancy/transmission question preserved,not silently repaired or excluded.
 
 ## Claude-deferred execution: separate gates
 

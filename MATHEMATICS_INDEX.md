@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG453 completes [vah causal passive traveller present system](research/panini_grammar/vah_causal_passive_traveller_and_present_system/README.md):36 laṭ/loṭ/laṅ/ordinary-liṅ keys/readings,34 new finite positions/34 readings after2 PG452 keys withheld.1 traveller-controller syntax contract/9 readouts,0 nominal/source/new morphology/provenance credits. Distinct human traveller q=c owns person;ending āṭ/past aṭ/optative īy stay separate. Totals51,684 finite;4,336 nominal/5,007 readings. Selected present system CLOSED;outer/source/wider gates Open.
+
 PG452 constructs [vah causal passive controller and retained grade](research/panini_grammar/vah_causal_passive_controller_and_retained_grade/README.md):2 new finite positions/readings,vāhyante3pl(causee q) and vāhyate3sg(load q);1 syntax bridge/2 readouts,1 morphology adapter,0 nominal/source/provenance credits. NI stays on outer a;dependent karman selection precedes agreement,ṇic-i lopa retains root ā,and K6.1.15 tatpratyaya guard separates simple uhyate. Totals51,650 finite;4,336 nominal/5,007 readings;full grid/other policies/wider gates Open.
 
 PG451 constructs [vah outer animal-driver/causee and active pada](research/panini_grammar/vah_outer_driver_causee_and_active_pada/README.md):1 syntax contract/8 readouts;outer-causer NI guard controls causee acc/ins,independent principal-result/upapada guards control active A/P. Causer3sg agreement retained despite plural oxen;root1011159/prāpane/one ṇic explicit.0 new finite/nominal/source/morphology credits;1 additive raw-versus-project-clean dhātu blob provenance correction,frozen metadata/bytes preserved. Totals51,648 finite;4,336 nominal/5,007 readings unchanged. Unknown guards/other vah/source/wider gates Open.
@@ -162,7 +164,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG452 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG453 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
