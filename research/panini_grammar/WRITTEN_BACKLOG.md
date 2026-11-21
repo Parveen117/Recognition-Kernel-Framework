@@ -1,6 +1,6 @@
-# Written-development backlog at PG454
+# Written-development backlog at PG455
 
-Monty · 22 November 2026 · reviewed parent 01ce510b58113c4ac81f46c849a5a7381748d9cf.
+Monty · 22 November 2026 · reviewed parent 43f69c06e0b22d92c89ceecd77fc398acde5ac0a.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -393,3 +393,7 @@ requiring evidence/access/decision, not because an arbitrary table counter fills
 ### S2 · Printed Tattva reported-policy locator at PG454
 
 PG454 locates [printed Tattva dhi ca policy retrospective](dhi_ca_printed_tattva_policy_retrospective/README.md):1 new printed-source observation across printed54–55/leaves59–60. Labelled Tattva reports Vāmana sic-only versus Bhāṣya broader s;PG347 digital report/PG378 printed Bāla/old bhid words receive0 recredit.0 new finite/nominal/construction units;totals51,684 finite;4,336 nominal/5,007 readings unchanged. Printed locator CLOSED;raw mapping/original witnesses/narrow full request/edition/wider gates Open. Earlier printed-Tattva Open references are superseded only for this independently addressed report;they are historical records,not edits to frozen source packets. No open textual gap becomes an exclusion. Narrow edge false on tās.s does not close/exclude its whole request. Project written completion remains **OPEN**.
+
+### C2/C3/C5 · Causal vah owned future/conditional at PG455
+
+PG455 completes [causal vah passive future/conditional](vah_causal_passive_future_and_conditional_augment_owners/README.md):18 new finite positions/36 O/C readings,0 nominal/source/separate construction units. Derived i_val retains ṇic ay;coupled i_cv permits owned ṇic-lopa with root ā/causal history retained. Actual sya is not kit/ciṇ;no simple vah→uh replay. Totals51,702 finite;4,336 nominal/5,007 readings. Selected present+future+conditional54 keys72 readings CLOSED,no aggregate credit;four outer/source/wider gates Open. Earlier six-outer-lakāra Open references superseded only for lṛṭ/lṛṅ on this exact supplied traveller/source family. Liṭ/luṭ/luṅ/āśīrliṅ remain genuine four-label work,not already credited. Generic O/C/ending/zero-recovery constructors are reused,not new theorem/source units. Project written completion remains **OPEN**.

@@ -124,3 +124,32 @@ Printed Tattva report locator is now locally CLOSED;S2 original-authority
 collation,raw82025 cause/repair and complete narrow bhid luṭ2pl request remain
 Open. Other source/semantic/formation/nominal/accent/Vedic/C2–C5/native gates
 remain genuine work;neither overall completion nor full blockage is claimed.
+
+## PG455 · Causal-vah future/conditional source composition
+
+Continued sequentially from published43f69c06e0b22d92c89ceecd77fc398acde5ac0a
+PG454,aligned clean tree/no concurrent writer observed. Reviewed old prose/
+factored/STATE/TSV plus PG18/33/366 exact source contracts before any new
+credits. Actual PG453 human-traveller q=c frame and original vah1011159/
+prāpane/one-ṇic grade admission retained;no automatic speaking-ox or bare-root
+aniṭ transfer. Independent future causation versus future liṅ-nimitta/causal
+kriyātipatti required,not generic past or mere base-event failure.
+
+Adds18 unique finite positions/36 O/C readings;lṛṭ/lṛṅ both9 slots.
+0 new nominal/source/separate grammar-construction units. Ordinary i_val
+retains ṇic ay,while coupled i_cv is invisible to Q51 only and permits owned
+ṇic-i lopa. Root ā/causal event and pronounced short augment remain. Actual
+sya is neither kit nor actual ciṇ;no chapter6.1 simple-vah samprasāraṇa or
+ciṇ-ending-luk transported. First-person long ā belongs to sya-a;conditional
+initial aṭ differs from root ā and ending āṭ. Complete literal words pinned,
+not engine output/full-table attestations. Totals51,702 finite;4,336 nominal/
+5,007 nominal readings. With old36 present keys,selected54/72 closes with
+zero aggregate credit. PG335/PG357–363/frozen predecessors preserved.
+
+Full PG14 operator/history and typed zero square written. Necessary explicit
+Python3.12 document/source/count checks only;actual result/attempts in packet.
+No generators,grammar/proof execution,untouched predecessor/navigation/engine
+suites or replay. Fetch/expected-parent guarded review-branch publication,
+no force/main merge. Four outer causal-vah labels,source/original-authority/
+raw-key/narrow-request,other C2–C5/S1–S7/accent/native gates remain Open.
+No agents/new automation,ETA,overall completion or continuous-hours claim.

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG455 completes [causal vah passive future/conditional](research/panini_grammar/vah_causal_passive_future_and_conditional_augment_owners/README.md):18 new finite positions/36 O/C readings,0 nominal/source/separate construction units. Derived i_val retains ṇic ay;coupled i_cv permits owned ṇic-lopa with root ā/causal history retained. Actual sya is not kit/ciṇ;no simple vah→uh replay. Totals51,702 finite;4,336 nominal/5,007 readings. Selected present+future+conditional54 keys72 readings CLOSED,no aggregate credit;four outer/source/wider gates Open.
+
 PG454 locates [printed Tattva dhi ca policy retrospective](research/panini_grammar/dhi_ca_printed_tattva_policy_retrospective/README.md):1 new printed-source observation across printed54–55/leaves59–60. Labelled Tattva reports Vāmana sic-only versus Bhāṣya broader s;PG347 digital report/PG378 printed Bāla/old bhid words receive0 recredit.0 new finite/nominal/construction units;totals51,684 finite;4,336 nominal/5,007 readings unchanged. Printed locator CLOSED;raw mapping/original witnesses/narrow full request/edition/wider gates Open.
 
 PG453 completes [vah causal passive traveller present system](research/panini_grammar/vah_causal_passive_traveller_and_present_system/README.md):36 laṭ/loṭ/laṅ/ordinary-liṅ keys/readings,34 new finite positions/34 readings after2 PG452 keys withheld.1 traveller-controller syntax contract/9 readouts,0 nominal/source/new morphology/provenance credits. Distinct human traveller q=c owns person;ending āṭ/past aṭ/optative īy stay separate. Totals51,684 finite;4,336 nominal/5,007 readings. Selected present system CLOSED;outer/source/wider gates Open.
@@ -166,7 +168,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG454 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG455 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 

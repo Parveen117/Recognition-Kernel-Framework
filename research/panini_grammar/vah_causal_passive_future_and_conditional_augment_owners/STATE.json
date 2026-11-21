@@ -1,0 +1,107 @@
+{
+  "schema": "rkf.panini.pg455.state.v1",
+  "author": "Monty",
+  "date": "2026-11-22",
+  "publication_parent": "43f69c06e0b22d92c89ceecd77fc398acde5ac0a",
+  "baseline": {
+    "commit": "43f69c06e0b22d92c89ceecd77fc398acde5ac0a",
+    "path": "research/panini_grammar/dhi_ca_printed_tattva_policy_retrospective/STATE.json"
+  },
+  "finite_positions": 51702,
+  "nominal_positions": 4336,
+  "nominal_readings": 5007,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "four remaining causal-vah outer lakaras lit/lut/lung/asirling;other senses/preverbs/selector policies/animal-causee speech frames",
+    "unknown role/time/kriyatipatti evidence;other visibility or cinvat commentary policies/full accent/recitation/external junctions",
+    "S2 original witnesses/raw82025 cause-repair/narrow bhid whole request and other S1-S7 textual obligations,unqualified prior-ak bhis/modern schematic d-m",
+    "C2-C5 unconstructed lexical/formation/nominal/syntax/native integration;Claude-deferred execution remains separate"
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "local_closure": "Selected causal-vah lrt/lrng CLOSED18 keys36 O/C readings;combined present+future+conditional54 keys72 readings,zero aggregate recredit;four outer lakaras/source/wider gates OPEN",
+  "new_positions": 18,
+  "new_position_readings": 36,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "new_morphological_constructions": 0,
+  "new_morphological_readouts": 0,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "new_syntactic_constructions": 0,
+  "new_syntactic_readouts": 0,
+  "new_accent_constructions": 0,
+  "new_accent_readouts": 0,
+  "new_compound_constructions": 0,
+  "new_compound_readouts": 0,
+  "position_accounting": {
+    "panel_positions": 18,
+    "panel_readings": 36,
+    "new_finite_positions": 18,
+    "new_finite_readings": 36,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0,
+    "new_morphological_constructions": 0,
+    "new_syntactic_constructions": 0,
+    "old_present_positions_withheld": 36,
+    "combined_selected_present_future_conditional_positions": 54,
+    "combined_selected_present_future_conditional_readings": 72,
+    "no_combined_aggregate_credit": true
+  },
+  "inherited_additive_corrections": [
+    {
+      "target_commit": "8c72fd57b118bcd84dbb68075cf80a0609176045",
+      "path": "research/panini_grammar/determination_six_stems_singular_gender_cases/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "old_attribution": "Ṭā→ina7.1.9",
+      "correct_attribution": "Ṭā→ina7.1.12",
+      "evidence": "K7.1.12 explicitly ṭā/ṅasi/ṅas→ina/āt/sya;7.1.9 is bhis→ais",
+      "effect": "citation-only additive correction; all PG431 words, counts, frozen bytes and source pins unchanged"
+    },
+    {
+      "target_commit": "5a0389753e0eb02a9de45d7ef9ce42756008cf73",
+      "path": "research/panini_grammar/idam_owned_parts_case_pratyahara_and_hal_consumers/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "correction": "References spelling the2.4.32 teaching replacement āś should read aś, short a plus ś_IT; source अनुदात्तोऽशादेशः. Words/counters unchanged; frozen bytes preserved."
+    },
+    {
+      "targets": [
+        {
+          "commit": "1bf985f92577d1541855296fb1f980619e91744a",
+          "path": "research/panini_grammar/akac_yad_tad_three_genders_and_feminine_itva_block/DERIVATION_AND_NATIVE_RECOVERY.md"
+        },
+        {
+          "commit": "bbcfd94906ffed08eb36fd43ec05918b6ae0be38",
+          "path": "research/panini_grammar/akac_idam_feminine_m_retention_and_owned_itva/DERIVATION_AND_NATIVE_RECOVERY.md"
+        }
+      ],
+      "old_attribution": "āp-shortening7.2.107",
+      "correct_attribution": "āp shortening and syāṭ7.3.114",
+      "evidence": "K7.3.114 explicitly syāḍ āgamaḥ hrasvaś ca;K7.2.107 prescribes adas au/su-lopa,not this feminine operation",
+      "effect": "citation-only additive correction,all frozen bytes/word tables/counters unchanged;PG419 already has correct owned7.3.114 proof"
+    },
+    {
+      "target_commit": "5642bad8ddfb1e5add4c09b525461525163b7f6c",
+      "path": "research/panini_grammar/inanimate_bhu_stha_causees_and_pada_guards/SOURCES.json",
+      "field": "upstream_pins entry dhatu/data.txt git_blob_sha",
+      "historical_clean_blob_sha": "d39a41a998199e60e1c69740541dd78f1464e578",
+      "actual_upstream_blob_sha": "b5d0370790598ca969db659e7833ccf0df98a9a4",
+      "upstream_commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "evidence": "GitHub fetch_file metadata at exact commit returned raw blob b5d037;cached full-byte SHA256/length unchanged. git hash-object --no-filters matches raw b5d037;project text=auto cleaning of CRLF yields d39a41.",
+      "effect": "Additive provenance-metadata distinction only;frozen file,source bytes,root record,words and counters unchanged. New consumer uses actual upstream blob and retains historical clean hash explicitly."
+    }
+  ],
+  "new_provenance_corrections": 0
+}
