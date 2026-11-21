@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG416 constructs [n-final numerals, sup-luk and consumer views](research/panini_grammar/n_final_numerals_sup_luk_and_consumer_views/README.md):four complete seven-case M/F/N panels for principal5/7/9/10,84 rows/83 new nominal positions/readings after withholding old pañcan F instrumental. Ṣaṭ/sup-luk and consumer-specific n-lopa visibility block false ṭāp/ais/e; special nuṭ and n-upadhā length give genitives.0 finite/source/separate construction credits. Totals51,648 finite;3,533 nominal/4,119 readings; six/eight/wider gates Open.
+
 PG415 constructs [catur numeral ām augment and three genders](research/panini_grammar/catur_numeral_am_augment_and_three_genders/README.md):21-row seven-case M/F/N panel,20 new nominal positions/readings after withholding old Uṇādi5.58 catvāraḥ. Catvāri has mit-ām7.1.98, not num; caturṇām has special nuṭ7.1.55. K single-ṇ selected, SK double-ṇṇ recorded outside chosen undoubled scope.0 finite/source/separate construction credits. Totals51,648 finite;3,450 nominal/4,036 readings; wider gates Open.
 
 PG414 constructs [tri numeral, tisṛ ordering and three genders](research/panini_grammar/tri_numeral_tisr_ordering_and_three_genders/README.md):21 new nominal positions/readings, seven-case M/F/N plural panel. F tisṛ/nuṭ precedes r-replacement with6.4.4 short-ṛ block; M/N trayāṇām and N trīṇi retain separate nuṭ/num/śas-n owners.0 finite/source/separate construction credits. Totals51,648 finite;3,430 nominal/4,016 readings; vocative/Vedic/compound/wider gates Open.
@@ -88,7 +90,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG415 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG416 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 

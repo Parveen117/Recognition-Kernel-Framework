@@ -1,4 +1,4 @@
-# Written-development backlog at PG415
+# Written-development backlog at PG416
 
 Monty · 21 November 2026 · reviewed parent ee70c4e19ab7efb9edcf762ed6e63a85fb1ad97a.
 
@@ -209,6 +209,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/C5 · Catur ām and source-qualified genitive phonetics at PG415
 
 [PG415](catur_numeral_am_augment_and_three_genders/README.md) closes21 selected seven-case M/F/N plural keys/readings,20 newly credited after old Uṇādi5.58 catvāraḥ withholding, no baseline adjustment. Catvāri uses mit-ām7.1.98 and u→v, not num; r-final genitive gets special nuṭ7.1.55 and cannot be classified ṣaṭ for sup-luk. F catasṛ has matched local nuṭ/r precedence and short-ṛ block. K_SINGLE_SELECTED caturṇām versus SK_DOUBLE_RECORDED caturṇṇām retained; broader doubling is not declared ungrammatical.0 finite/source/separate construction credits; totals51,648 finite;3,450 nominal/4,036 readings. Vocative/accent/phonetic/name/upasarjana/compound/Uṇādi/wider source/native gates remain Open.
+
+### C4/C5 · N-final principal5/7/9/10 panels at PG416
+
+[PG416](n_final_numerals_sup_luk_and_consumer_views/README.md) closes four complete seven-case M/F/N panels,84 keys/readings and83 new credits after old worked pañcan F instrumental withholding, no baseline adjustment. Ṣaṭ designation depends on original numerical n-final identity; sup-luk retains case/number/pada history but blocks deleted-ending aṅgakārya.8.2.2 keeps n-lopa asiddha for sañjā/subvidhi consumers, blocking false feminine ṭāp/a-stem ais/e. Genitive nuṭ and6.4.7 n-upadhā length retain separate stem/augment n owners. Source's conditional per-consumer sañjā re-entry account is not made universal.0 finite/source/separate construction credits; totals51,648 finite;3,533 nominal/4,119 readings. Ṣaṣ/aṣṭan, other numerals/pronouns/vocative/accent/name/compound/source/native gates remain Open.
 
 ## Claude-deferred execution: separate gates
 
