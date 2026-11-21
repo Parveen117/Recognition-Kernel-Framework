@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG428
+# Pāṇini grammar · current written coverage at PG429
+
+PG429 constructs [paired yad/tad akac gender panels and feminine no-itva](akac_yad_tad_three_genders_and_feminine_itva_block/README.md):126 keys134 readings,120/128 new nominal credits after six conservative controls. Original-q7.3.45 blocks i across cases: yakā/sakā and yakām/takām; actual su alone gives s. N early-luk retains ak and stem d in yakat/d,takat/d.0 finite/source/separate construction units. Totals51,648 finite;3,962 nominal/4,595 readings; wider gates Open.
 
 PG428 constructs [analytic tad three genders, su-satva and pause boundary](analytic_tad_three_genders_su_satva_and_pause_boundary/README.md):63 keys67 readings,60/62 new nominal credits after withholding old saḥ and BOTH T65 N direct-singular keys/readings. Su-specific stem t→s gives saḥ/sā, other forms retain t; N tat/tad preserves stem d after early luk. External sa6.1.132 stays outside pause ledger.0 finite/source/separate construction units. Totals51,648 finite;3,842 nominal/4,467 readings; wider gates Open.
 
@@ -119,7 +121,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG428 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,842 nominal positions with 4,467 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG429 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,962 nominal positions with 4,595 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

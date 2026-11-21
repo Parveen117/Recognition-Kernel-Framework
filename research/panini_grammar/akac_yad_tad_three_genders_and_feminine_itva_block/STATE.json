@@ -1,0 +1,60 @@
+{
+  "schema": "rkf.panini.pg429.state.v1",
+  "author": "Monty",
+  "date": "2026-11-21",
+  "publication_parent": "5a8f67cb92b5c266746ecc2f4e29efc2c2882399",
+  "baseline": {
+    "commit": "5a8f67cb92b5c266746ecc2f4e29efc2c2882399",
+    "path": "research/panini_grammar/analytic_tad_three_genders_su_satva_and_pause_boundary/STATE.json"
+  },
+  "finite_positions": 51648,
+  "nominal_positions": 3962,
+  "nominal_readings": 4595,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "akac kim cases/genders and whole-replacement versus early-luk interaction",
+    "other akac senses/pronouns and yuṣmad/asmad/avyaya/tiṅ placement",
+    "vocative/accent/Vedic/compound/external-sandhi and independent print/source-policy reconciliation",
+    "C2-C5/S1-S7/native runtime and wider grammar"
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "local_closure": "selected yad/tad positive-akac three-gender seven-case three-number pause panels126 keys134 readings CLOSED; wider grammar OPEN",
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 120,
+  "new_nominal_readings": 128,
+  "new_source_observations": 0,
+  "new_morphological_constructions": 0,
+  "new_morphological_readouts": 0,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "new_syntactic_constructions": 0,
+  "new_syntactic_readouts": 0,
+  "new_accent_constructions": 0,
+  "new_accent_readouts": 0,
+  "new_compound_constructions": 0,
+  "new_compound_readouts": 0,
+  "position_accounting": {
+    "panel_positions": 126,
+    "panel_readings": 134,
+    "new_nominal_positions": 120,
+    "new_nominal_readings": 128,
+    "withheld_prior_or_control_positions": 6,
+    "withheld_prior_or_control_readings": 6,
+    "prior": "PG423 M nominative singular yakaḥ/sakaḥ; PG40/source feminine controls yakā/sakā and source yakām/takām conservatively withheld",
+    "baseline_adjustment": 0
+  }
+}

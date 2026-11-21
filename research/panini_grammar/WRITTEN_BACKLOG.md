@@ -1,6 +1,6 @@
-# Written-development backlog at PG428
+# Written-development backlog at PG429
 
-Monty · 21 November 2026 · reviewed parent 7ac9ea943da5dea4701b95bd3c0a94c84c867ffe.
+Monty · 21 November 2026 · reviewed parent 5a8f67cb92b5c266746ecc2f4e29efc2c2882399.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -265,6 +265,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/C5 · Analytic tad selected pause gender panels at PG428
 
 [PG428](analytic_tad_three_genders_su_satva_and_pause_boundary/README.md) closes63 keys67 readings,60/62 new credits after withholding old saḥ and BOTH T65 N directsg keys including pause readings conservatively; no baseline correction or certificate replay. Actual su-indexed original t→s gives M saḥ/F sā; other tad forms retain t. F ordinary āp-sulopa differs from N lumat luk, which blocks atva/satva and preserves stem d. External sa6.1.132 requires its own saṃhitā/hal/no-ak/no-nañ guards and is not an extra pause reading.0 finite/source/separate construction units; totals51,648 finite;3,842 nominal/4,467 readings. Selected analytic kim/yad/tad panels now locally closed on their stated scopes; do not recount. Actual next contracts: remaining akac cases/genders, specific new pronoun/lexical members and compound-class/syntax/accent/Vedic domains, independent source/global-policy C2–C5/S1–S7/native gates. Full external/deictic recognition remains Open, not implicitly closed by these panels.
+
+### C4/C5 · Positive akac yad/tad matched panels at PG429
+
+[PG429](akac_yad_tad_three_genders_and_feminine_itva_block/README.md) closes selected two M/F/N seven-case sg/du/pl panels126 keys134 readings,120/128 new after six conservative source/old controls. Original-q7.3.45 blocks feminine itva beyond nominative, actual su alone gives sakaḥ/sakā, while N early-luk retains ak and stem d. Existing locative commentary paths and external no-ak guard retained separately.0 finite/source/separate construction units. Totals51,648 finite;3,962 nominal/4,595 readings. Actual next akac contracts: kim whole replacement versus N early-luk and its F formation; other semantic uses and pronouns, yuṣmad/asmad word-level placements and source-specific accent/Vedic/compound/external domains. Selected Y/T panels are now closed only on the stated shared determination scope, not a universal nominal/semantic grammar. Other C2–C5/S1–S7/native gates stay Open.
 
 ## Claude-deferred execution: separate gates
 

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG429 constructs [paired yad/tad akac gender panels and feminine no-itva](research/panini_grammar/akac_yad_tad_three_genders_and_feminine_itva_block/README.md):126 keys134 readings,120/128 new nominal credits after six conservative controls. Original-q7.3.45 blocks i across cases: yakā/sakā and yakām/takām; actual su alone gives s. N early-luk retains ak and stem d in yakat/d,takat/d.0 finite/source/separate construction units. Totals51,648 finite;3,962 nominal/4,595 readings; wider gates Open.
+
 PG428 constructs [analytic tad three genders, su-satva and pause boundary](research/panini_grammar/analytic_tad_three_genders_su_satva_and_pause_boundary/README.md):63 keys67 readings,60/62 new nominal credits after withholding old saḥ and BOTH T65 N direct-singular keys/readings. Su-specific stem t→s gives saḥ/sā, other forms retain t; N tat/tad preserves stem d after early luk. External sa6.1.132 stays outside pause ledger.0 finite/source/separate construction units. Totals51,648 finite;3,842 nominal/4,467 readings; wider gates Open.
 
 PG427 constructs [analytic yad three genders, final-atva and relative identity](research/panini_grammar/analytic_yad_three_genders_final_atva_and_relative_identity/README.md):63 keys67 readings,62/66 new nominal credits after old yaḥ withholding;1 addressed Bāla comparison. Final d→a/pararūpa differs from whole kim→ka; Bāla grounds sup→atva→ṭāp and no tad-s transfer. N direct yat/yad keeps stem d after early luk; yāni n dental.0 finite/separate construction credits. Totals51,648 finite;3,782 nominal/4,405 readings; wider gates Open.
@@ -114,7 +116,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG428 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG429 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
