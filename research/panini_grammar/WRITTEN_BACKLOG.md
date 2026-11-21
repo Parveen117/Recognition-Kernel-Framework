@@ -1,6 +1,6 @@
-# Written-development backlog at PG447
+# Written-development backlog at PG448
 
-Monty · 22 November 2026 · reviewed parent 580cf39faad8fbd3141b77518a93e96f3967255c.
+Monty · 22 November 2026 · reviewed parent 9215624c35c92ab04e0b7540540805783c8cc8c7.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -350,6 +350,10 @@ S1 closure. Actual links/limitations and published results are logged in
 ### S7 · Printed asyām/āsu tail comparison at PG447
 
 [PG447](asyam_asu_printed_bala_and_owned_locatives/README.md) manually reads JainQQ020746 scan320/printed311:asyām has originalṅi→ām/syāṭ/shortening;āsu has originalsu and a single separate explanation before anvādeśe tviti.1 new printed source observation,0 new word/morphology credits. Exact image saved/pinned. This witness's locator/reading and nonduplicated tail locally CLOSED;raw72110 duplicated paragraphs remain verbatim,their cause/other editions/authorial text Open. No critical-text repair or extra grammatical variants. Older calls for a printed72110-tail comparator superseded only on this witness. PG446 imakasmai result and two post-aś bhis SOURCE_OPEN requests remain separate. Totals unchanged51,648 finite;4,288 nominal/4,959 readings;C2–C5/S1–S7/native/semantic/accent/Vedic/compound/external gates Open.
+
+### C4/C5 · Ahorātra register-owned dual/plural inflection at PG448
+
+[PG448](ahoratra_register_gender_and_dual_plural_cases/README.md) constructs ordinary M versus supplied chandas first-member N ahorātra on selected common-sup dual/plural seven-case inputs:28 keys28 readings,6 old/source direct controls withheld,22 new nominal positions/readings.1 composed morphology adapter,0 new finite/source/compound-definition credits. PG387 addressed gender witness reused without recredit;raw misassigned K24028 remains nonoperative. Internal num/nuṭ ṇ differs from final Mśas dental n. Totals51,648 finite;4,310 nominal/4,981 readings. This closes exactly the two-number selected panels,not singular/samāhāra/vocative/full Vedic endings/accent/verse-source/other compound domains. Independent printed Kāśikā/raw-key transmission,post-aś bhis and C2–C5/S1–S7/native/semantic/external gates remain Open.
 
 ## Claude-deferred execution: separate gates
 

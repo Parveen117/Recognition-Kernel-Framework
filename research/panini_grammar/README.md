@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG448 constructs [ahorātra register-gender and dual/plural cases](ahoratra_register_gender_and_dual_plural_cases/README.md):28 M/N seven-case dual/plural keys/readings,22/22 new after6 source controls withheld;1 morphology adapter,0 finite/source credits. Ordinary M contrasts supplied chandas first-member N;num/nuṭ internal ṇ versus final śas dental n retained. PG387 source reused,raw24028 still nonoperative. Totals51,648 finite;4,310 nominal/4,981 readings;singular/full Vedic/accent/wider gates Open.
+
 PG447 records [printed asyām/āsu and distinct locative owners](asyam_asu_printed_bala_and_owned_locatives/README.md):1 new printed source observation,JainQQ020746 scan320/printed311 separates singular ṅi→ām/syāṭ/shortening from one plural su passage.Raw72110 duplicated tail unchanged;witness reading locally CLOSED,transmission/other editions Open.0 new finite/nominal/morphology credits;totals51,648 finite;4,288 nominal/4,959 readings unchanged;wider gates Open.
 
 PG446 records [printed Bāla imakasmai and electronic divergence](imakasmai_printed_bala_and_electronic_divergence/README.md):1 new manually read printed source observation,JainQQ020746 scan249/printed240 has imakasmai in M case-list;raw11021 imakasyai preserved. Printed locator/reading locally CLOSED,transmission cause/other editions/authorial original Open.0 new finite/nominal/morphology credits;totals51,648 finite;4,288 nominal/4,959 readings unchanged;wider gates Open.
