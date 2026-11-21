@@ -298,3 +298,69 @@ Python3.12.14; no additional grammar or predecessor-suite run.
 - Read aligned fetched headbbcfd94906ffed08eb36fd43ec05918b6ae0be38/current PG441 STATE/latest handoff/navigation/backlog;AGENTS/frozen/source boundaries retained,clean tree/no concurrent writer observed.1 morphology adapter;9 old matched bhyām keys/readings withheld,0 new finite/nominal/source credits. Totals unchanged51,648 finite;4,288 nominal/4,959 readings. PG335/PG357–363 CLOSED/frozen predecessors/corrections preserved.
 - Already pinned K24032 expressly sa-akac purpose/imakābhyām→ābhyām and Tattva marker discussion positively close actual ak consumption under whole-aś,with source/history retained. M/F/N ins/dat/abl dual current a/āp+bhyām bridge locally closed. Other ak→aś consumers remain concrete Open:7.1.11 bhis original-ak qualification versus current-k absence needs independent source argument;not a full original-ak36/54-key grid,not new source observation. Ak→ena/full accent/raw-text/actual semantics/wider gates stay Open.
 - PG14 full carrier/typed zero square and necessary explicit-Python3.12 changed-document/source/count checks only,actual result in packet. No Sanskrit generator/grammar/proof execution/untouched suites/replay,agents/new automation or overall completion/ETA/continuous-hours claim.
+
+## PG438–PG442 · Published results checkpoint and actual remaining work
+
+This is an actual development/results checkpoint, **not project completion**
+or a claim of continuous hours. Review branch only, no force/main merge;
+all five substantive packets and five summary/navigation surfaces published.
+Fresh fetch/read parent/source pins and a clean tree preceded each mutation;
+no overlapping contributor edits observed. Exact published grammar commits:
+
+| Stage | Published commit | New finite positions/readings | New nominal positions/readings | Morphology adapters | Source observations | Document checks/attempts |
+| --- | --- | --- | --- | --- | --- | --- |
+| [PG438](akac_idam_obliques_and_three_no_k_guards/README.md) | [1b70e9f](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/1b70e9f91b0336a2d6b95d3cc94fdcc031d36c12) | 0/0 | 16/18 | 1 | 0 | 252/1 |
+| [PG439](ash_remaining_cases_and_idam_replacement_partition/README.md) | [ba78fe7](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/ba78fe755e3c276bddd66625aa1d4b24644ea2d6) | 0/0 | 0/0 | 1 | 0 | 261/1 |
+| [PG440](akac_idam_direct_cases_and_addressed_bala_continuation/README.md) | [0733d88](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/0733d887967c953749d5341e82800bce35fad669) | 0/0 | 2/2 | 1 | 1 | 217/1 |
+| [PG441](akac_idam_feminine_m_retention_and_owned_itva/README.md) | [bbcfd94](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/bbcfd94906ffed08eb36fd43ec05918b6ae0be38) | 0/0 | 21/21 | 1 | 0 | 249/1 |
+| [PG442](akac_ash_whole_recipient_and_bhyam_bridge/README.md) | [31f28f6](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/31f28f6badd11b38b08e00699149e602fe6bba67) | 0/0 | 0/0 | 1 | 0 | 205/1 |
+
+Net **0 finite positions/readings,39 nominal positions/41 readings,
+5 morphology adapters,1 addressed electronic source observation**. No
+separate morphology-readout credits and no aggregate recredit. Cumulative
+**51,648 finite positions;4,288 nominal positions/4,959 selected nominal
+readings**. Prior PG335 -9/-12 and PG357–363 CLOSED preserved. All source
+files retain publisher commit5744762f010d677cfb43f347a42d02796cf615d6 and
+exact byte/digest/blob pins; predecessor bytes/pins remain frozen.
+
+Source decisions: PG438's three no-k guards fail on actual inserted ak;
+PG439 separates whole aś from part-lopa despite shared words. PG440 locates
+Bāla11021's later original-idam continuation without reindexing its header;
+raw imakasyai stays unresolved. PG441 composes the positive non-su
+āp/affix-k itva path separately from Fsu iyakam/no-āp, without claiming
+full-table direct attestations. PG442 uses already-read K/Tattva sa-akac
+support to consume current ak under whole aś, retaining original history.
+No new source-observation credit for repeated evidence. Native extensions
+all start on PG14's full operator/history carrier and include typed local
+zero-specialization proofs; universal integration is not claimed.
+
+Selected local closures now include original-no-ak replacement54 keys57
+readings, plain supplied-ajñāta akac-idam three-gender63 keys65 readings,
+and the prior-ak whole-aś9-key bhyām bridge. These domains keep their
+original ownership and zero aggregate credits; they do not close all grammar.
+
+**Actual next source/construction obligations:**
+
+1. After prior-ak whole-aś, settle7.1.11 bhis original-ak qualification
+   versus current-k absence through a positive source argument/collation.
+   Do not copy original-no-ak guards or admit speculative extra words.
+2. Construct original-ak→ena specialized consumers with owned whole
+   recipient/affix/accent histories; do not infer full54-cell closure from
+   the9-key bhyām bridge.
+3. Resolve raw Bāla11021 imakasyai case/gender/printed status and72110
+   duplicated āsu-tail through independent evidence. New written F forms
+   are not a repair or direct attestation of that damaged/unsettled record.
+4. Retain [C2–C5 and S1–S7](WRITTEN_BACKLOG.md), actual discourse/reference
+   admission, accent/Vedic/compound/vocative/external domains and universal
+   native mapping. Their global inventory remains unmeasured; no completion
+   percentage, narrow ETA or complete-Sanskrit claim is justified.
+
+**Checks actually performed:** each coherent grammar stage had one necessary
+changed-document/source/count pass under an explicitly asserted
+Python3.12.14, with the checks/attempts in the table. Stored result manifests
+are linked from their packets. This handoff has a separate changed-handoff
+link/result/arithmetic/whitespace check, not another grammar run. Sanskrit
+generators, grammar/proof execution, untouched predecessor/navigation/engine
+suites and certificate replay were **not run** and remain deferred to Claude.
+No agents or new automation. Authorization remains completion-based; this
+checkpoint does not silently turn remaining Open evidence into exclusions.
