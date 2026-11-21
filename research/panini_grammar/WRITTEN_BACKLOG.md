@@ -1,6 +1,6 @@
-# Written-development backlog at PG418
+# Written-development backlog at PG419
 
-Monty · 21 November 2026 · reviewed parent 4acecadd3d2bb56ddf42a23d126eeb2cf76d557b.
+Monty · 21 November 2026 · reviewed parent a21763a49fecc2b0ac96c3f47020c10bb1da9673.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -221,6 +221,14 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/C5 · Principal eight optionality and convergent genitive at PG418
 
 [PG418](astan_optional_aa_aush_and_convergent_genitive/README.md) closes21 seven-case M/F/N plural keys with39 selected readings, all new nominal credits. K/SK7.1.21 supplies actual jas/śas ā-jñāpaka and whole-ending auś as the positive exception to luk; K6.1.172 separately retains ṣaṭ status after ā. Short n-lopa versus positive oral-ā histories are not conflated. Nuṭ first enables halādi at genitive nām; optional ā/coalescence or n-upadhā length/lopa both give one dental-n aṣṭānām reading per key.0 finite/source/separate construction credits; totals51,648 finite;3,575 nominal/4,188 readings. Prior eight Open references are superseded only on this declared panel. Eka/pronominal inflection, remaining lexical/semantic membership, vocative/accent/Vedic/phonetics/name/compound/source/native and C2–C5/S1–S7 remain Open; no gap is converted to Excluded.
+
+### C4/C5 · Cardinal-one singular and feminine pronominal history at PG419
+
+[PG419](eka_singular_pronominal_endings_and_feminine_syad/README.md) closes21 M/F/N singular seven-case keys with23 word readings, all new nominal credits;1 addressed electronic Bāla7.3.114 source observation,0 finite/separate construction units. Eka is explicitly sarvādi, not ṣaṭ; MN smai/smāt/smin and N am retain their actual ending contracts. F sarvanāma is positively supplied by liṅgaviśiṣṭa, āp by its own junction view; shortened āp and ending syāṭ retain separate owners. K_GEN_AM_ONLY and BALA_SYAD_COMPETITION both yield ekasyām but remain different source explanations, with original locative ṅi distinct from genitive-plural ām. Totals51,648 finite;3,596 nominal/4,211 readings. Prior eka Open references superseded only for ordinary cardinal-one singular. Noncardinal/dual/plural/vocative/accent/Vedic/name/compound, other sarvādi/pronoun/nominal membership, independent source/global policy reconciliation and C2–C5/S1–S7/native gates remain Open.
+
+### Closed C4 subdomain · Selected principal cardinals1–10
+
+[PG419 combined ledger](eka_singular_pronominal_endings_and_feminine_syad/DERIVATION_AND_NATIVE_RECOVERY.md) audits PG413–419: ten lemmas, each seven cases/three genders, singular one, dual two, plural three through ten. **210 keys/239 selected readings;207/236 newly credited** after three old controls. This is a declared local closure with zero aggregate credits. Do not reopen/recount these panels. Actual next nominal contracts are **sarvādi members beyond eka, noncardinal numeral meanings, vocative admission and specific compound/name requests**, each needing its own source-qualified case/formation and priority proof. Accent/Vedic/general phonetic branches, other kṛt/taddhita/syntax inventories, C2–C5 and S1–S7 remain Open, not excluded or globally measured.
 
 ## Claude-deferred execution: separate gates
 

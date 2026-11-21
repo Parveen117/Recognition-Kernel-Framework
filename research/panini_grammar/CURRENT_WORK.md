@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG418
+# Pāṇini grammar · current written coverage at PG419
+
+PG419 constructs [eka singular pronominal endings and feminine syāṭ](eka_singular_pronominal_endings_and_feminine_syad/README.md):21 new M/F/N positions/23 readings;1 addressed Bāla source observation. Positive sarvādi membership gives MN smai/smāt/smin; F gender-qualified class, āp shortening and owned syāṭ give ekasyai/ekasyām. K genitive-ām restriction and Bāla locative suṭ competition stay distinct policies.0 finite/separate construction credits. Totals51,648 finite;3,596 nominal/4,211 readings; wider gates Open.
 
 PG418 constructs [aṣṭan optional ā/auś and convergent genitive](astan_optional_aa_aush_and_convergent_genitive/README.md):21 new seven-case M/F/N positions/39 readings. Positive ā correlates with whole-ending auś instead of sup-luk; K6.1.172 retains ṣaṭ status, and two genitive paths share one aṣṭānām reading.0 finite/source/separate construction credits. Totals51,648 finite;3,575 nominal/4,188 readings; eka/pronominal and wider gates Open.
 
@@ -99,7 +101,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG418 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,575 nominal positions with 4,188 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG419 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 3,596 nominal positions with 4,211 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

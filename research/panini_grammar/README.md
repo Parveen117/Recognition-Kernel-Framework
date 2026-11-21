@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG419 constructs [eka singular pronominal endings and feminine syāṭ](eka_singular_pronominal_endings_and_feminine_syad/README.md):21 new M/F/N positions/23 readings;1 addressed Bāla source observation. Positive sarvādi membership gives MN smai/smāt/smin; F gender-qualified class, āp shortening and owned syāṭ give ekasyai/ekasyām. K genitive-ām restriction and Bāla locative suṭ competition stay distinct policies.0 finite/separate construction credits. Totals51,648 finite;3,596 nominal/4,211 readings; wider gates Open.
+
 PG418 constructs [aṣṭan optional ā/auś and convergent genitive](astan_optional_aa_aush_and_convergent_genitive/README.md):21 new seven-case M/F/N positions/39 readings. Positive ā correlates with whole-ending auś instead of sup-luk; K6.1.172 retains ṣaṭ status, and two genitive paths share one aṣṭānām reading.0 finite/source/separate construction credits. Totals51,648 finite;3,575 nominal/4,188 readings; eka/pronominal and wider gates Open.
 
 PG417 constructs [ṣaṣ six, two nasals and locative dhuṭ](sas_numeral_stop_nasal_and_locative_owners/README.md):21 new seven-case M/F/N plural positions/30 readings. Sup-luk leads to ṣaṭ/ṣaḍ pause; suffixal nasal assimilation with the nām exception gives ṣaṇṇām, while optional ending-owned dhuṭ gives ṣaṭsu/ṣaṭtsu.0 finite/source/separate construction credits. Totals51,648 finite;3,554 nominal/4,149 readings; eight/wider gates Open.
