@@ -1,6 +1,6 @@
-# Written-development backlog at PG450
+# Written-development backlog at PG451
 
-Monty · 22 November 2026 · reviewed parent c5ed111c89f13640cee611472d4855da36833e52.
+Monty · 22 November 2026 · reviewed parent 5642bad8ddfb1e5add4c09b525461525163b7f6c.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -362,6 +362,10 @@ S1 closure. Actual links/limitations and published results are logged in
 ### C4/C5 and source policy · Positive prior-ak bhis trace at PG450
 
 [PG450](prior_ak_bhis_early_ais_and_mdu_source_policy/README.md) adds a manually read modern MDU course source policy at printed164 footnote1:early bhis→ais while k remains,then whole aś and aiḥ.2 new M/Nnominal positions/readings,1 morphology adapter/1 source observation;0 finite credits. Exact external PDF file/page/byte pins retained,limited observation only;schematic idakam/idakaiḥ not silently repaired. Totals51,648 finite;4,336 nominal/5,007 readings. [Additive policy backlog](prior_ak_bhis_early_ais_and_mdu_source_policy/PRIOR_AK_POLICY_BACKLOG.json) keeps frozen PG44452/2 as unqualified52 CLOSED/2SOURCE_OPEN,while all54 have selected constructions on the augmented modern-policy family. The two rows are POLICY_SPLIT,not globally CLOSED or excluded. Traditional original-source/current-k decision,modern d/m rationale,full accent and broader C2–C5/S1–S7/native obligations remain Open.
+
+### C2/C5 · Vah carrying, outer driver and active pada at PG451
+
+[PG451](vah_outer_driver_causee_and_active_pada/README.md) closes one supplied two-context syntax contract/8 role-pada readouts beyond PG14's twelve-root causal domain. Rootvah1011159/prāpane,one ṇic:the outer animal-driver guard—not the oxen's property—selects causee karman/acc versus retained-agent/ins on the source porter control. Independent F/U/special guards select active A/P and outer-causer3sg agreement. Old simple-vah passive and source words are not new finite/nominal/source/morphology credits;totals51,648 finite;4,336 nominal/5,007 readings unchanged. Unknown driving/result/upapada evidence,other vah senses/voices/lakāras,derived-role/morphology/accent and C2–C5/S1–S7/native obligations remain Open. C2 is narrowed on this exact contract,not globally closed. One additive provenance correction distinguishes actual upstream raw dhātu blobb5d037 from historical project-clean d39a41;full source bytes/length/SHA256 and frozen PG377 metadata unchanged. No extra grammatical reading/source-observation credit.
 
 ## Claude-deferred execution: separate gates
 
