@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG448
+# Pāṇini grammar · current written coverage at PG449
+
+PG449 constructs [hemanta–śiśira register-gender dual/plural cases](hemantasishira_register_gender_and_dual_plural_cases/README.md):28 keys/readings,24 new nominal positions/24 readings after4 direct-dual source controls withheld. Supplied hemanta M + śiśira N gives ordinary N2.4.26 versus chandas M2.4.28;PG448 ending interface reused,0 new finite/source/separate construction units. Totals51,648 finite;4,334 nominal/5,005 readings. Other lexical genders/full Vedic/source/wider gates Open.
 
 PG448 constructs [ahorātra register-gender and dual/plural cases](ahoratra_register_gender_and_dual_plural_cases/README.md):28 M/N seven-case dual/plural keys/readings,22/22 new after6 source controls withheld;1 morphology adapter,0 finite/source credits. Ordinary M contrasts supplied chandas first-member N;num/nuṭ internal ṇ versus final śas dental n retained. PG387 source reused,raw24028 still nonoperative. Totals51,648 finite;4,310 nominal/4,981 readings;singular/full Vedic/accent/wider gates Open.
 
@@ -159,7 +161,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG448 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 4,310 nominal positions with 4,981 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG449 add **10,315 finite positions**, taking the written total to **51,648**. The new lexical and compound work gives 4,334 nominal positions with 5,005 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

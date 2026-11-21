@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG449 constructs [hemanta–śiśira register-gender dual/plural cases](research/panini_grammar/hemantasishira_register_gender_and_dual_plural_cases/README.md):28 keys/readings,24 new nominal positions/24 readings after4 direct-dual source controls withheld. Supplied hemanta M + śiśira N gives ordinary N2.4.26 versus chandas M2.4.28;PG448 ending interface reused,0 new finite/source/separate construction units. Totals51,648 finite;4,334 nominal/5,005 readings. Other lexical genders/full Vedic/source/wider gates Open.
+
 PG448 constructs [ahorātra register-gender and dual/plural cases](research/panini_grammar/ahoratra_register_gender_and_dual_plural_cases/README.md):28 M/N seven-case dual/plural keys/readings,22/22 new after6 source controls withheld;1 morphology adapter,0 finite/source credits. Ordinary M contrasts supplied chandas first-member N;num/nuṭ internal ṇ versus final śas dental n retained. PG387 source reused,raw24028 still nonoperative. Totals51,648 finite;4,310 nominal/4,981 readings;singular/full Vedic/accent/wider gates Open.
 
 PG447 records [printed asyām/āsu and distinct locative owners](research/panini_grammar/asyam_asu_printed_bala_and_owned_locatives/README.md):1 new printed source observation,JainQQ020746 scan320/printed311 separates singular ṅi→ām/syāṭ/shortening from one plural su passage.Raw72110 duplicated tail unchanged;witness reading locally CLOSED,transmission/other editions Open.0 new finite/nominal/morphology credits;totals51,648 finite;4,288 nominal/4,959 readings unchanged;wider gates Open.
@@ -154,7 +156,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG448 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG449 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 

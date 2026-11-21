@@ -1,6 +1,6 @@
-# Written-development backlog at PG448
+# Written-development backlog at PG449
 
-Monty · 22 November 2026 · reviewed parent 9215624c35c92ab04e0b7540540805783c8cc8c7.
+Monty · 22 November 2026 · reviewed parent 3454b4d868d763fe931b0457ff87684621eaf033.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -354,6 +354,10 @@ S1 closure. Actual links/limitations and published results are logged in
 ### C4/C5 · Ahorātra register-owned dual/plural inflection at PG448
 
 [PG448](ahoratra_register_gender_and_dual_plural_cases/README.md) constructs ordinary M versus supplied chandas first-member N ahorātra on selected common-sup dual/plural seven-case inputs:28 keys28 readings,6 old/source direct controls withheld,22 new nominal positions/readings.1 composed morphology adapter,0 new finite/source/compound-definition credits. PG387 addressed gender witness reused without recredit;raw misassigned K24028 remains nonoperative. Internal num/nuṭ ṇ differs from final Mśas dental n. Totals51,648 finite;4,310 nominal/4,981 readings. This closes exactly the two-number selected panels,not singular/samāhāra/vocative/full Vedic endings/accent/verse-source/other compound domains. Independent printed Kāśikā/raw-key transmission,post-aś bhis and C2–C5/S1–S7/native/semantic/external gates remain Open.
+
+### C4/C5 · Hemanta–śiśira selected register/case domain at PG449
+
+[PG449](hemantasishira_register_gender_and_dual_plural_cases/README.md) completes28 selected ordinary-N/chandas-M dual/plural seven-case keys/readings on hemanta M + śiśira N,24/24 new after4 old direct-dual controls withheld. PG448 ending/native interfaces reused with independent lexical/register owners;0 new finite/source/separate construction units. Totals51,648 finite;4,334 nominal/5,005 readings. Source gender clause is not dual-only, but full Vedic endings/accent,other śiśira genders/senses,singular/samāhāra/vocative and independent print/verse/raw-key questions remain Open. Two post-aś bhis and broad C2–C5/S1–S7/native gates unchanged. No global completion/denominator asserted.
 
 ## Claude-deferred execution: separate gates
 
