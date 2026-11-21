@@ -1,6 +1,6 @@
-# Written-development backlog at PG420
+# Written-development backlog at PG421
 
-Monty · 21 November 2026 · reviewed parent f356572d4b500193ebe7d0cc6e7edb0c89df5ffe.
+Monty · 21 November 2026 · reviewed parent b1919cbf33173148f79581d811f54c6246418371.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -233,6 +233,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/C5 · Freestanding sarva all genders/numbers at PG420
 
 [PG420](sarva_three_genders_shi_sut_and_nasal_owners/README.md) closes63 seven-case M/F/N sg/du/pl keys with65 selected readings,62/64 new credits after withholding the old worked M nom-pl sarve token.0 finite/source/separately counted construction units; totals51,648 finite;3,658 nominal/4,275 readings. Three source śī domains retain M plural versus F/N dual; N plural has short śi with one num, length and ṇatva. Original ina/num/śas n and actual suṭ s owners remain distinct; gen-pl MN e yields sarveṣām, while F ā preserves dental sarvāsām. PG419 feminine/class/policy source contracts reused by exact pins. Earlier broad sarvādi next references are superseded only for **this freestanding sarva** panel, not all members. Actual next contracts include other members/lexical senses and1.1.31/32 compound designation competition, plus vocative/accent/Vedic/source/native C2–C5/S1–S7 gates. The complete printed Sanskrit phrases do not authorize blanket class recognition in new compounds.
+
+### C4/C5 · Neuter adḍ instruction/marker/ṭi ownership at PG421
+
+[PG421](neuter_ad_instruction_marker_and_owned_ti_lopa/README.md) closes one morphology adapter on five source-supplied member stems,10 case-owned readouts/20 selected pause spellings with **zero new word-position/readings credits**. One addressed Bāla7.1.25 observation reports Kaiyaṭa's instruction-display clarification; it is not independently collated Kaiyaṭa. Whole su/am→adḍ retains original case and separates d_PAYLOAD, deleted ḍ_IT/retained ḍit and deleted stem ṭi. Correct accusative spelling alone cannot verify that path. Raw suffix-pair token डक्त्रडतमौ remains unamended/Open, positive ḍatarac/ḍatamac identities separately sourced. Cumulative51,648 finite;3,658 nominal/4,275 readings unchanged. Upstream full taddhita semantic/word formations, all complete pronoun panels and vocative/Vedic/other sound domains, original source collation and C2–C5/S1–S7/native gates remain Open; this does not recredit old katarat/anyat source controls.
 
 ## Claude-deferred execution: separate gates
 
