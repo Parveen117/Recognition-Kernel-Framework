@@ -1,0 +1,97 @@
+{
+  "stage": "PG454",
+  "kind": "independent printed reported-policy evidence refinement",
+  "source_observation": {
+    "id": "PRINTED_TATTVA_54_55_DHI_CA_RETROSPECTIVE",
+    "credit": 1,
+    "paired_loci": [
+      {
+        "leaf": 59,
+        "printed": 54,
+        "layer": "ta.",
+        "function": "itaiti anchor/start lemma"
+      },
+      {
+        "leaf": 60,
+        "printed": 55,
+        "layer": "ta.",
+        "function": "named Vamana/Bhasya policy split"
+      }
+    ],
+    "not_new": [
+      "PG347 digital Tattva observation",
+      "PG378 printed Bala control",
+      "PG346 bhettadhve word"
+    ]
+  },
+  "reuse_frame": {
+    "root_id": "1070002",
+    "root_address": "07.0002",
+    "sense": "vidarane",
+    "preverbs": [],
+    "formation": "simple",
+    "voice": "kartari",
+    "pada": "A",
+    "slot": "lut2pl",
+    "principal_result_for_actor": true,
+    "future_anadyatana": true,
+    "input": "bhed_R|tas_F|dhve_E",
+    "selected_existing_output": "bhettādhve",
+    "new_position_credit": 0,
+    "new_reading_credit": 0
+  },
+  "policy_channels": [
+    {
+      "policy": "TATTVA_PRINTED_REPORTED_VAMANA",
+      "recipient_owner": "sic.s",
+      "local_scope": "s-only deletion requires actual sic owner",
+      "status": "SOURCE_REPORTED_POLICY_CLOSED_ON_THIS_WITNESS",
+      "word_credit": 0
+    },
+    {
+      "policy": "TATTVA_PRINTED_REPORTED_BHASYA",
+      "recipient_owner": "s with owned eligible dh-initial suffix boundary",
+      "local_scope": "broader s wording;does not erase suffix-boundary or ownership guards",
+      "status": "SOURCE_REPORTED_POLICY_CLOSED_ON_THIS_WITNESS",
+      "word_credit": 0
+    },
+    {
+      "policy": "PG346_SELECTED_KAUMUDI_BROAD",
+      "recipient_owner": "tas.s in bhed_root|tas_affix|dhve_ending",
+      "local_scope": "old admitted bhid frame and old broad trace corroborated,not reconstructed/recounted",
+      "status": "ACCEPTED_EXISTING_BHETTADHVE",
+      "word_credit": 0
+    },
+    {
+      "policy": "SIC_ONLY_BHID_TAS_EDGE",
+      "recipient_owner": "tas.s,not sic.s",
+      "local_scope": "local owner test false;no licensed sic deletion on this recipient",
+      "status": "EXCLUDED_LOCAL_EDGE_ONLY_WHOLE_REQUEST_OPEN",
+      "word_credit": 0
+    },
+    {
+      "policy": "RAW_82025_REPAIR",
+      "recipient_owner": "raw ho-dhah fields",
+      "local_scope": "print evidence cannot silently remap raw keys",
+      "status": "OPEN",
+      "word_credit": 0
+    }
+  ],
+  "accepted": [
+    "printed Tattva retrospective located at itaiti54-55,not an invented Tattva commentary under dhi ca43",
+    "source-qualified broad/narrow distinction preserved without majority vote or school collapse"
+  ],
+  "excluded": [
+    "using raw ho-dhah82025 as an operative dhi ca witness",
+    "deleting root d or ending dh instead of owned tas.s",
+    "sic-only local deletion on tas.s",
+    "new word/source credit for PG378 Bala or PG347 digital report"
+  ],
+  "open": [
+    "S2 raw Bala/Tattva82025 ho-dhah mapping cause/transmission and an evidenced repair;frozen raw fields stay nonoperative for dhi ca",
+    "independent original Vamana/Bhasya witnesses/argument collation;printed Tattva is a named report,not those originals",
+    "complete simple bhid1070002 vidarane unprefixed middle lut2pl request under a sic-only policy remains Open,no invented replacement word",
+    "full edition lineage/imprint year of this catalogue1940 scan and older PG3781910-vs1911 metadata difference",
+    "other S1/S3-S7 positive source decisions;C2-C5 lexical/semantic/formation/accent/Vedic/native integration and execution deferred to Claude"
+  ]
+}

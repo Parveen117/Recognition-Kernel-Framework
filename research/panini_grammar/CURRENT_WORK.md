@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG453
+# Pāṇini grammar · current written coverage at PG454
+
+PG454 locates [printed Tattva dhi ca policy retrospective](dhi_ca_printed_tattva_policy_retrospective/README.md):1 new printed-source observation across printed54–55/leaves59–60. Labelled Tattva reports Vāmana sic-only versus Bhāṣya broader s;PG347 digital report/PG378 printed Bāla/old bhid words receive0 recredit.0 new finite/nominal/construction units;totals51,684 finite;4,336 nominal/5,007 readings unchanged. Printed locator CLOSED;raw mapping/original witnesses/narrow full request/edition/wider gates Open.
 
 PG453 completes [vah causal passive traveller present system](vah_causal_passive_traveller_and_present_system/README.md):36 laṭ/loṭ/laṅ/ordinary-liṅ keys/readings,34 new finite positions/34 readings after2 PG452 keys withheld.1 traveller-controller syntax contract/9 readouts,0 nominal/source/new morphology/provenance credits. Distinct human traveller q=c owns person;ending āṭ/past aṭ/optative īy stay separate. Totals51,684 finite;4,336 nominal/5,007 readings. Selected present system CLOSED;outer/source/wider gates Open.
 
@@ -169,7 +171,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG453 add **10,351 finite positions**, taking the written total to **51,684**. The new lexical and compound work gives 4,336 nominal positions with 5,007 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG454 add **10,351 finite positions**, taking the written total to **51,684**. The new lexical and compound work gives 4,336 nominal positions with 5,007 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

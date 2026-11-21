@@ -1,6 +1,6 @@
-# Written-development backlog at PG453
+# Written-development backlog at PG454
 
-Monty · 22 November 2026 · reviewed parent 0c891bff213b4ed2ba9f64d0c6670d70e94141c7.
+Monty · 22 November 2026 · reviewed parent 01ce510b58113c4ac81f46c849a5a7381748d9cf.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -63,7 +63,7 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 | Obligation | Preserved evidence and next action | Closure criterion |
 | --- | --- | --- |
 | S1 · Bhaṭṭi quote | [PG361 witness](bhatti_ma_pronoun_and_lavanya_witness/README.md) identifies citizens/Daśaratha and expands māṃ. Prior 8.15/5.12 lookups failed; [PG362](ma_clitic_case_binding_and_two_ellipsis_frames/README.md) supplies analytical loṭ, not poem evidence. | Locate exact poem/edition/context and actual lakāra/authorial reading. Do not convert pronominal mā into positive māṅ or claim the analytical mood attested. |
-| S2 · digital 82025 / policies | [PG347](dhi_ca_commentary_scope_and_non_sic_controls/README.md) positively locates broad non-sic Bāla material and Tattva Vāmana/Bhāṣya distinction; digital 82025 misalignment remains. | [PG378 printed Bāla](dhi_ca_printed_bala_lut_alignment/README.md) now closes that witness’s exact dhi ca/tās-s alignment at scan52/printed41. Exact digital mismatch cause/repair, printed Tattva, edition metadata and narrow full-request derivation remain Open; preserve source policies. A local excluded edge does not exclude the whole request. |
+| S2 · digital 82025 / policies | [PG347](dhi_ca_commentary_scope_and_non_sic_controls/README.md) positively locates broad non-sic Bāla material and Tattva Vāmana/Bhāṣya distinction; digital 82025 misalignment remains. | [PG378 printed Bāla](dhi_ca_printed_bala_lut_alignment/README.md) now closes that witness’s exact dhi ca/tās-s alignment at scan52/printed41. [PG454 printed Tattva](dhi_ca_printed_tattva_policy_retrospective/README.md) closes the named report locator at printed54–55/leaves59–60. Exact digital mismatch cause/repair, original Vāmana/Bhāṣya collation, edition metadata and narrow full-request derivation remain Open; preserve source policies. A local excluded edge does not exclude the whole request. |
 | S3 · 3.2.111 transmission | [PG348](anadyatana_source_collation_and_temporal_guard/README.md) collates raw Kāśikā luṅ against explicit laṅ witnesses. | Positive evidence for the cause/stage of transmission discrepancy; do not repair frozen text silently. Selected temporal adapter already usable. |
 | S4 · Mādhavīya / desiderative perfects | [PG175 comparison](desiderative_perfect_word_intersection/README.md), [earlier policy](desiderative_perfect_word_intersection/STATE.json). Distinguish auxiliary ending entitlement from inner iṭ and actual cited witnesses. | Traditional witness/argument for each outstanding licensed reading, source-qualified reconciliation. Existing 45 requests already credited; no new position credit for a decision alone. |
 | S5 · Uṇādi 4.105 fields | [Affix register](unadi_sacrificer_and_wind/README.md): 99/103 directly assigned; primary sya, ḍha, ḍaṭ, āṭac remain. Other numbered ḍha/ḍaṭ examples or short aṭac editions are not these primary fields. | Exact primary-field lexical/affix witness or an explicitly evidenced textual decision; no invented field deletion or exclusion. |
@@ -389,3 +389,7 @@ contracts, alongside S1–S7 genuine evidence/reconciliation tasks. This queue i
 is not a completion certificate or a measured all-Sanskrit ETA. Keep actual
 source gaps Open; stop only on honest declared closure or a real blocker
 requiring evidence/access/decision, not because an arbitrary table counter fills.
+
+### S2 · Printed Tattva reported-policy locator at PG454
+
+PG454 locates [printed Tattva dhi ca policy retrospective](dhi_ca_printed_tattva_policy_retrospective/README.md):1 new printed-source observation across printed54–55/leaves59–60. Labelled Tattva reports Vāmana sic-only versus Bhāṣya broader s;PG347 digital report/PG378 printed Bāla/old bhid words receive0 recredit.0 new finite/nominal/construction units;totals51,684 finite;4,336 nominal/5,007 readings unchanged. Printed locator CLOSED;raw mapping/original witnesses/narrow full request/edition/wider gates Open. Earlier printed-Tattva Open references are superseded only for this independently addressed report;they are historical records,not edits to frozen source packets. No open textual gap becomes an exclusion. Narrow edge false on tās.s does not close/exclude its whole request. Project written completion remains **OPEN**.

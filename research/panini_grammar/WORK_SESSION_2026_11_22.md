@@ -91,3 +91,36 @@ PG453 completes36 source-qualified causal vah passive present-system keys/readin
 Full PG14 operator/history carrier and typed local zero square written. Necessary explicit-Python3.12 changed-document/source/count checks only;actual result/attempts in packet. Sanskrit generators,grammar/proof execution,untouched predecessor/navigation/engine suites and certificate replay remain Claude-deferred. Fetch/lease before existing-review-branch publication,no force/main merge. Selected present system is CLOSED,not six outer lakāras/other senses/voices/source policies or broad C2–C5/S1–S7/native scope. No agents/new automation/overall completion/ETA/continuous-hours claim.
 
 PG453 actual necessary document/source/count result:383 PASS,Python3.12.14,3 attempts. Two checker-only retries corrected source sandhi tokens and sentence-initial capitalization;no source bytes,grammar claim or Sanskrit word changed for those retries. No grammar execution or old suite ran. Local selected36-key panel is closed with34 new credits;global written-development gates remain Open.
+
+## PG454 · Positive printed Tattva policy evidence
+
+Continued sequentially from published01ce510b58113c4ac81f46c849a5a7381748d9cf
+PG453;actual fetched head aligned,clean tree/no other writer observed before
+mutation. Read AGENTS/current/latest STATE/newest handoff/backlog/navigation,
+PG347 electronic distinction and PG378 already closed printed Bāla boundary.
+Independent Archive four-commentary Kaumudī scan catalogued1940 manually read:
+leaf59/printed54 main itaiti8.2.28 and ta. catch lemma continue into
+leaf60/printed55 ta. first paragraph expressly reporting Vāmana sic-only versus
+Bhāṣya broader s. Leaf48/printed43 main dhi ca/Bāla/Śekhara is context only,
+not a misattributed Tattva lemma or another source unit. English-only OCR is
+nonoperative;absence of Sanskrit OCR is not evidence of absent content.
+
+One new printed-source observation/two continuing loci;0 new finite/nominal
+positions/readings or grammar construction units. Cumulative51,684 finite;
+4,336 nominal/5,007 nominal readings. Old PG347/378/346 credits withheld;
+PG335 correction,PG357–363 CLOSED/frozen predecessors/additive corrections
+preserved. Exact page JPEG bytes/URLs and captured metadata pinned;not
+repository-vendored. Full-PDF MD5/size provider-manifest-only,not measured.
+Catalogue1940/imprint and older1910/1911 metadata remain unadjudicated.
+
+Full PG14 operator/history evidence extension and typed state/operator/scalar
+zero square written. Necessary explicit-Python3.12 changed-document/source/count
+checks only;actual result/attempts in packet. No Sanskrit generators,grammar/
+proof execution,untouched predecessor/navigation/engine suites or replay.
+Fetch/expected-parent review-branch publication,no force/main merge. No agents,
+new automation,ETA or continuous-hours claim.
+
+Printed Tattva report locator is now locally CLOSED;S2 original-authority
+collation,raw82025 cause/repair and complete narrow bhid luṭ2pl request remain
+Open. Other source/semantic/formation/nominal/accent/Vedic/C2–C5/native gates
+remain genuine work;neither overall completion nor full blockage is claimed.
