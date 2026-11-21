@@ -1,6 +1,6 @@
-# Written-development backlog at PG429
+# Written-development backlog at PG430
 
-Monty · 21 November 2026 · reviewed parent 5a8f67cb92b5c266746ecc2f4e29efc2c2882399.
+Monty · 21 November 2026 · reviewed parent 1bf985f92577d1541855296fb1f980619e91744a.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -269,6 +269,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/C5 · Positive akac yad/tad matched panels at PG429
 
 [PG429](akac_yad_tad_three_genders_and_feminine_itva_block/README.md) closes selected two M/F/N seven-case sg/du/pl panels126 keys134 readings,120/128 new after six conservative source/old controls. Original-q7.3.45 blocks feminine itva beyond nominative, actual su alone gives sakaḥ/sakā, while N early-luk retains ak and stem d. Existing locative commentary paths and external no-ak guard retained separately.0 finite/source/separate construction units. Totals51,648 finite;3,962 nominal/4,595 readings. Actual next akac contracts: kim whole replacement versus N early-luk and its F formation; other semantic uses and pronouns, yuṣmad/asmad word-level placements and source-specific accent/Vedic/compound/external domains. Selected Y/T panels are now closed only on the stated shared determination scope, not a universal nominal/semantic grammar. Other C2–C5/S1–S7/native gates stay Open.
+
+### C4/C5 · Akac kim and selected determination panels at PG430
+
+[PG430](akac_kim_whole_replacement_and_neuter_luk/README.md) closes selected kim M/F/N seven-case sg/du/pl panel63 keys65 readings. Only N directsg kakim2/2 credited;61/63 shared analytic words conservatively withheld despite distinct retained affix histories. Surviving vibhakti permits whole ka, early N luk blocks it and leaves inserted ak; F kā has no pre-k vowel for7.3.44. Selected positive-akac kim/yad/tad PG429–430 locally CLOSED189 keys199 readings,122/130 newly credited across both stages, no aggregate credit.0 finite/source/separate construction units. Totals51,648 finite;3,964 nominal/4,597 readings. This supersedes earlier akac-kim case/gender Open only on the shared determination domain. Next contracts remain other semantic uses/pronouns, yuṣmad/asmad word/base placement, specific compounds/nominal classes/syntax/accent/Vedic/external domains and independent source/native C2–C5/S1–S7 gates. No global completion inferred.
 
 ## Claude-deferred execution: separate gates
 

@@ -1,0 +1,59 @@
+{
+  "schema": "rkf.panini.pg430.state.v1",
+  "author": "Monty",
+  "date": "2026-11-21",
+  "publication_parent": "1bf985f92577d1541855296fb1f980619e91744a",
+  "baseline": {
+    "commit": "1bf985f92577d1541855296fb1f980619e91744a",
+    "path": "research/panini_grammar/akac_yad_tad_three_genders_and_feminine_itva_block/STATE.json"
+  },
+  "finite_positions": 51648,
+  "nominal_positions": 3964,
+  "nominal_readings": 4597,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "other akac semantic uses/pronouns and yuṣmad/asmad/avyaya/tiṅ placement",
+    "vocative/accent/Vedic/compound/external-sandhi and independent print/source-policy reconciliation",
+    "C2-C5/S1-S7/native runtime and wider grammar"
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "local_closure": "selected positive-akac kim M/F/N seven-case sg/du/pl panel63 keys65 readings CLOSED; PG429-430 selected kim/yad/tad akac panels189 keys199 readings CLOSED, no aggregate credit; wider grammar OPEN",
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 2,
+  "new_nominal_readings": 2,
+  "new_source_observations": 0,
+  "new_morphological_constructions": 0,
+  "new_morphological_readouts": 0,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "new_syntactic_constructions": 0,
+  "new_syntactic_readouts": 0,
+  "new_accent_constructions": 0,
+  "new_accent_readouts": 0,
+  "new_compound_constructions": 0,
+  "new_compound_readouts": 0,
+  "position_accounting": {
+    "panel_positions": 63,
+    "panel_readings": 65,
+    "new_nominal_positions": 2,
+    "new_nominal_readings": 2,
+    "withheld_shared_positions": 61,
+    "withheld_shared_readings": 63,
+    "prior": "61 case-owned words coincide with prior analytic kim PG424-426; histories remain distinct but conservatively no second credit. PG423 kaḥ included among withheld controls.",
+    "baseline_adjustment": 0
+  }
+}
