@@ -1,4 +1,4 @@
-# Written-development backlog at PG413
+# Written-development backlog at PG414
 
 Monty · 21 November 2026 · reviewed parent ee70c4e19ab7efb9edcf762ed6e63a85fb1ad97a.
 
@@ -201,6 +201,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4 · Dvi numeral seven-case dual genders at PG413
 
 [PG413](dvi_numeral_dual_genders_and_sup_owners/README.md) closes21 literal M/F/N dual keys/readings across seven cases;20 new nominal positions/readings after conservative withholding of PG401's explicit dvau nominative control, no baseline adjustment. Principal numeral/two-ness precedes final-a, F ṭāp then7.1.18 śī versus N7.1.19 śī; bhyām/os homographs retain case/gender/length owners.0 finite/source/separate construction credits. Totals51,648 finite;3,409 nominal/3,995 readings. Vocative/Vedic/accent, names/upasarjana/compounds, other numeral/pronoun inventories, independent printed collation and C2–C5/S1–S7/native gates remain Open.
+
+### C4/C5 · Tri feminine precedence and three-gender cases at PG414
+
+[PG414](tri_numeral_tisr_ordering_and_three_genders/README.md) closes21 new seven-case M/F/N plural numeral keys/readings: feminine tisṛ takes source-timed nuṭ before7.2.100 r-substitution, with6.4.4 blocking long ṝ; M/N genitive trayāṇām and N direct trīṇi have separate nuṭ/num histories, unlike M accusative śas-n.0 finite/source/separate construction credits; totals51,648 finite;3,430 nominal/4,016 readings. Original fields retain embedded dvyoḥ spelling without modifying frozen dvi. Vocative/Vedic/accent/compound/name/upasarjana and broader nominal/source/native gates remain Open; no atistri compound or catalogue example recredit.
 
 ## Claude-deferred execution: separate gates
 
