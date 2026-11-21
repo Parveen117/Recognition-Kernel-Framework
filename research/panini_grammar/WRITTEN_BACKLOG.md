@@ -1,6 +1,6 @@
-# Written-development backlog at PG433
+# Written-development backlog at PG434
 
-Monty · 21 November 2026 · reviewed parent 5b3c426d491f1e4d1df48c4dfec826094e1e42dd.
+Monty · 21 November 2026 · reviewed parent 4b5a468d632b5bdc4b248fbb7f567720bd64c439.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -285,6 +285,10 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 ### C4/C5 · Eka affixes and selective neuter exception at PG433
 
 [PG433](eka_determination_affixes_and_neuter_exception/README.md) closes two owned eka→ekatara/ekatama morphology constructions/two stems plus singular M/F/N seven-case panels42 keys48 readings,38/44 new after four controls. K5.3.94's independent admission/noncontinued class-question restriction/optional honourific-teacher reading retained. K7.1.26 explicitly blocks only ekatara adḍ in ordinary and Vedic registers: ekataram, not katara-like final d; ekatama keeps adḍ and a separate new-affix ṭi-lopa. Blocked one operation does not delete pronominal class.0 finite/source-observation credits; totals51,648 finite;4,178 nominal/4,839 readings. Dual/plural contextual transport, other lexical/compound/source/accent/Vedic/external/native and C2–C5/S1–S7 gates remain Open. Earlier ekatara/eka-member Open references are superseded only on these stated constructions/singular panels, not all derived meanings.
+
+### C4/C5 · Other-pronoun singular panels and itara-register contract at PG434
+
+[PG434](itara_anya_anyatara_singular_and_register_owned_endings/README.md) closes supplied principal itara/anya/anyatara ordinary M/F/N seven-case singular panels63 keys75 readings,46/52 new after17 keys23 readings conservatively withheld, including gender-unspecified old dative/locative source controls. Two separate zero-credit itara-chandas ending controls use7.1.26 block plus7.1.24 at-am; ordinary itarat/d remains positive adḍ. One operation's block does not delete class; anyatara is a supplied lexical member, no invented productive genealogy.0 finite/source/separate construction credits; totals51,648 finite;4,224 nominal/4,891 readings. Remaining: wider numbers/senses and lexical ancestry, independent Maitrāyaṇī1.6.12/Saṃhitā-accent/print, compound/name/subordination/vocative/external and C2–C5/S1–S7/native gates. Earlier itara/anya/anyatara Open references superseded only on these selected singular and source-qualified ending domains.
 
 ## Claude-deferred execution: separate gates
 
