@@ -70,6 +70,15 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 | S6 · primary Uṇādi 5.56 | [Marker source decisions](unadi_kit_commentarial_decisions/README.md), [1943 note](kinasa_ten_pada_marker_and_agent/README.md), [three schools](kinasa_three_grammatical_schools/README.md). | Independent effect of the primary marker distinguished from prescribed ī, ten-pāda and other-school histories. Current positive evidence does not settle it. |
 | S7 · other historical source contracts | [PG46 F3](independent_written_closure/COMPLETION_AND_FRONTIER.md) retains 1.4.72, 2.4.28/69, 3.2.139, 3.4.9, 4.1.150 and metarule distinctions. | Reconcile against later packets individually; maintain source-qualified policy where justified. This run has not declared every historical issue still unsolved or already settled. |
 
+### S1 · Nonoperative lookup at the PG433–PG435 results checkpoint
+
+Fresh exact-phrase searches and in-page searches of two digital Bhaṭṭikāvya
+texts still did not locate the exact quoted verse. Repeated dictionary
+8.15/5.12 references are not new independent poem evidence; OCR/search
+failure is not proof of absence.0 source/word credits, no mood/context or
+S1 closure. Actual links/limitations and published results are logged in
+[the dated handoff](WORK_SESSION_2026_11_21.md#pg433pg435--published-continuation-results-and-exact-next-obligations).
+
 ### S7 · 1.4.72 positive reported-policy increment at PG376
 
 [PG376](tiras_non_gati_s_and_reported_madhava_policy/README.md) locates a non-gati sound policy in Bālamanoramā14071 (body label1.4.72), where unnamed kecit explicitly omit the continuation; Tattvabodhinī14072 gives a related Mādhava-attributed report. Its source-qualified non-gati ktvā+s path is now constructed; old K_GATI default remains unchanged. No word-position/readings recredit. This settles availability of that reported policy, not Kāśikā authorial intent, original Mādhava or damaged-glyph collation. Those exact residuals remain Open; other S7 loci are unreconciled individually. One source observation, not two original-source confirmations; Bāla does not name Mādhava.

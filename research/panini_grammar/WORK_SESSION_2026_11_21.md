@@ -203,3 +203,56 @@ Next work should resolve a real remaining source or construction domain, retaini
 - Read aligned fetched head76d6dca498b9a3c2c9286daabcfa5a743d11cb77/current PG434 STATE/latest handoff/backlog/preserved factored idam rows/navigation; AGENTS/gates retained, clean tree/no overlapping writer. [PG435](idam_owned_parts_case_pratyahara_and_hal_consumers/README.md) adds1 composed morphology adapter and19 nominal positions/21 readings over63 keys65 readings with44/44 conservative source/control/homograph withholding.0 finite/source/separate morphology-readout credits. Totals51,648 finite;4,243 nominal/4,912 readings. Frozen/PG335/PG357–363 CLOSED/PG432 correction preserved.
 - Compose actual id/d/m recipients, identical m-substitution preventing atva, N early-luk, āp as case-pratyāhāra versus separately owned feminine āp, vowel-an and source-qualified whole-id/alternate-an hal-lopa, and no-ak bhis→ais block. Plain/anvādeśa homographs withheld, no generic later-mention recognizer. Raw Bāla72110 duplicated āsu tail remains verbatim/Open; coherent loc-pl independently matched, no silent repair or fresh source-discovery claim.
 - PG14 full carrier/typed zero recovery, necessary explicit-Python3.12 changed-document/source/count checks only, actual result in packet. No generators/grammar/proof execution/untouched suites/replay, agents/new automation or overall completion/ETA/continuous-hours claim. Actual akac/anvādeśa/ena/source/accent/Vedic/external/compound/native C2–C5/S1–S7 obligations remain Open.
+
+## PG433–PG435 · Published continuation results and exact next obligations
+
+This is a results checkpoint, **not overall written completion** and not a
+claim of continuous elapsed-session hours. All three substantive stages
+are published on the existing review branch without force or main merge:
+
+| Stage | Exact published commit | New nominal positions/readings | Other new units |
+| --- | --- | --- | --- |
+| PG433 | [4b5a468](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/4b5a468d632b5bdc4b248fbb7f567720bd64c439) | 38/44 | 2 owned eka-affix constructions/2 stem readouts |
+| PG434 | [76d6dca](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/76d6dca498b9a3c2c9286daabcfa5a743d11cb77) | 46/52 | 2 separate itara-chandas controls,0 new construction/word credits |
+| PG435 | [5a03897](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/5a0389753e0eb02a9de45d7ef9ce42756008cf73) | 19/21 | 1 composed plain-idam adapter;0 separate morphology-readout credits |
+
+Net103 nominal positions117 readings;0 finite positions/readings and0
+source-observation credits. Cumulative51,648 finite;4,243 nominal positions/
+4,912 nominal readings. Exact source commit5744762f010d677cfb43f347a42d02796cf615d6,
+file bytes/digests/blob identities and predecessor pins remain in each packet.
+PG335 -9/-12, PG357–363 CLOSED and frozen predecessors remain intact;
+PG432's additive7.1.12 ina citation correction is inherited, not recredited.
+
+Necessary changed-document/source/count checks actually performed under
+explicit Python3.12.14: PG433: 273 checks/1 attempt; PG434: 331 checks/2 attempts
+(initial input absent after writer metadata-key parse error, fixed without
+changing grammar claims); PG435: 330 checks/1 attempt. These are document
+checks, not Sanskrit generator/grammar/proof execution. Untouched old/
+navigation/engine suites and certificate replay remain Claude-deferred.
+PG14 full operator/history carrier and typed local zero squares are written
+in all three packets; no universal/runtime/physical identification claimed.
+
+### Nonoperative S1 lookup in this continuation
+
+Fresh exact-phrase queries through both search engines and searches inside
+[digital Bhaṭṭikāvya](https://sa.wikisource.org/wiki/भट्टिकाव्यम्) and
+[JainQQ book034481](https://jainqq.org/booktext/Bhattikavyam/034481)
+did not locate an exact āhadhvaṃ mā raghūttamam verse. Dictionary results
+still repeat8.15/5.12; these repetitions are not new independent poem
+witnesses. OCR/edition limitations prevent an original-poem absence claim.
+No new source unit, poem locator, authorial mood/context or S1 closure is
+claimed. PG361's printed subcommentary reading remains its own qualified
+witness; PG362 analytical loṭ does not become an attested poem reading.
+These lookup links are a nonoperative activity log, not new frozen source
+pins used to derive a grammatical result. S1 remains Open.
+
+Actual next local contracts remain idam-akac no-k guards and word histories,
+same-referent anvādeśa āś/ena admission/history, determination-derived
+dual/plural member-number contexts, and raw Bāla72110 duplicated āsu-tail
+print collation. Wider C2–C5 and S1–S7 remain evidence-linked in
+[WRITTEN_BACKLOG](WRITTEN_BACKLOG.md); complete Sanskrit, an unmeasured
+global percentage or a narrow completion ETA is not inferred from these
+selected panels. No old source gap has become an exclusion to claim done.
+
+Handoff-only document/link/count/whitespace check: PASS under explicit
+Python3.12.14; no additional grammar or predecessor-suite run.
