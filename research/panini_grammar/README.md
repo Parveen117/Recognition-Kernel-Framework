@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG444 constructs [prior-ak aś consumers and corrected syāṭ attribution](prior_ak_ash_consumers_and_syad_attribution/README.md):1 morphology adapter;25 requests27 old readings withheld,0 new finite/nominal/source credits. Current a/āp with licensed class gives ordinary consumers;two M/Nbhis remain SOURCE_OPEN. Additive PG429/441 citation correction:āp shortening7.3.114,not7.2.107;words/counts/frozen bytes unchanged. Local52/54 constructed,2 source-Open;totals51,648 finite;4,288 nominal/4,959 readings;wider gates Open.
+
 PG443 constructs [prior-ak whole ena/enad and feminine reset](prior_ak_ena_whole_substitution_and_feminine_reset/README.md):1 morphology interaction adapter;18 eligible keys19 old readings all withheld,0 new finite/nominal/source credits. Whole replacement consumes actual ak;fresh Fāp gives enā,no inherited k-itva;Naccsg payload d survives whole-am luk. Prior-ak local backlog27/54 keys constructed,27 unconstructed;no global percentage. Totals unchanged51,648 finite;4,288 nominal/4,959 readings;wider gates Open.
 
 PG442 constructs [akac-to-aś whole recipient and bhyām bridge](akac_ash_whole_recipient_and_bhyam_bridge/README.md):K2.4.32 explicitly supports imakābhyām→ābhyām;whole replacement consumes actual ak but retains affix history.9 matched M/F/N dual-bhyām readouts all withheld;1 morphology adapter,0 new finite/nominal/source credits. Post-aś no-k/bhis/ena consumers and wider gates stay Open. Totals51,648 finite;4,288 nominal/4,959 readings unchanged.

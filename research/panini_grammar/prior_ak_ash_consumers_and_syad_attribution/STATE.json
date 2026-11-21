@@ -1,0 +1,91 @@
+{
+  "schema": "rkf.panini.pg444.state.v1",
+  "author": "Monty",
+  "date": "2026-11-21",
+  "publication_parent": "e098d8948d9e720134e4abfde1c307953ef3f1e9",
+  "baseline": {
+    "commit": "e098d8948d9e720134e4abfde1c307953ef3f1e9",
+    "path": "research/panini_grammar/prior_ak_ena_whole_substitution_and_feminine_reset/STATE.json"
+  },
+  "finite_positions": 51648,
+  "nominal_positions": 4288,
+  "nominal_readings": 4959,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "two M/N instrumental-plural post-aś bhis requests:7.1.11 original-ak exclusion versus current no-k entitlement needs source argument",
+    "raw Bala11021 imakasyai/72110 duplicated asu tail and S1-S7 textual obligations",
+    "original-ak etad,actual discourse/reference admission,full accent/independent Bhāṣya/source collation",
+    "C2-C5/native runtime/vocative/Vedic/compound/external domains"
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "local_closure": "25 remaining non-disputed post-aś keys27 readings locally CLOSED;selected prior-ak domain52/54 constructed,2 SOURCE_OPEN;wider gates OPEN",
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 0,
+  "new_morphological_constructions": 1,
+  "new_morphological_readouts": 0,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "new_syntactic_constructions": 0,
+  "new_syntactic_readouts": 0,
+  "new_accent_constructions": 0,
+  "new_accent_readouts": 0,
+  "new_compound_constructions": 0,
+  "new_compound_readouts": 0,
+  "position_accounting": {
+    "panel_positions": 25,
+    "panel_readings": 27,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "withheld_shared_positions": 25,
+    "withheld_shared_readings": 27,
+    "prior": "All25 matched PG439 case/gender/number words,including two inherited ablsg pause alternatives;no second word credit",
+    "baseline_adjustment": 0
+  },
+  "inherited_additive_corrections": [
+    {
+      "target_commit": "8c72fd57b118bcd84dbb68075cf80a0609176045",
+      "path": "research/panini_grammar/determination_six_stems_singular_gender_cases/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "old_attribution": "Ṭā→ina7.1.9",
+      "correct_attribution": "Ṭā→ina7.1.12",
+      "evidence": "K7.1.12 explicitly ṭā/ṅasi/ṅas→ina/āt/sya;7.1.9 is bhis→ais",
+      "effect": "citation-only additive correction; all PG431 words, counts, frozen bytes and source pins unchanged"
+    },
+    {
+      "target_commit": "5a0389753e0eb02a9de45d7ef9ce42756008cf73",
+      "path": "research/panini_grammar/idam_owned_parts_case_pratyahara_and_hal_consumers/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "correction": "References spelling the2.4.32 teaching replacement āś should read aś, short a plus ś_IT; source अनुदात्तोऽशादेशः. Words/counters unchanged; frozen bytes preserved."
+    },
+    {
+      "targets": [
+        {
+          "commit": "1bf985f92577d1541855296fb1f980619e91744a",
+          "path": "research/panini_grammar/akac_yad_tad_three_genders_and_feminine_itva_block/DERIVATION_AND_NATIVE_RECOVERY.md"
+        },
+        {
+          "commit": "bbcfd94906ffed08eb36fd43ec05918b6ae0be38",
+          "path": "research/panini_grammar/akac_idam_feminine_m_retention_and_owned_itva/DERIVATION_AND_NATIVE_RECOVERY.md"
+        }
+      ],
+      "old_attribution": "āp-shortening7.2.107",
+      "correct_attribution": "āp shortening and syāṭ7.3.114",
+      "evidence": "K7.3.114 explicitly syāḍ āgamaḥ hrasvaś ca;K7.2.107 prescribes adas au/su-lopa,not this feminine operation",
+      "effect": "citation-only additive correction,all frozen bytes/word tables/counters unchanged;PG419 already has correct owned7.3.114 proof"
+    }
+  ]
+}

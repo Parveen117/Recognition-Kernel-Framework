@@ -1,6 +1,6 @@
-# Written-development backlog at PG443
+# Written-development backlog at PG444
 
-Monty · 21 November 2026 · reviewed parent 9422009105f90401c0a18bb8ab58771f56260539.
+Monty · 21 November 2026 · reviewed parent e098d8948d9e720134e4abfde1c307953ef3f1e9.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -334,6 +334,10 @@ S1 closure. Actual links/limitations and published results are logged in
 ### C4/C5 · Prior-ak specialized ena consumers at PG443
 
 [PG443](prior_ak_ena_whole_substitution_and_feminine_reset/README.md) constructs whole ena/enad after original-idam internal ak,with fresh Fāp/no-current-k itva and source-reported Naccsg payload-d/whole-am luk.1 morphology interaction adapter,18 keys19 old readings withheld against PG437,0 finite/nominal/source credits. Written source-rule composition,not fresh prior-ak full-panel attestation. The [54-key local backlog](prior_ak_ena_whole_substitution_and_feminine_reset/PRIOR_AK_BACKLOG.json) separates27 constructed keys(18 here+9 PG442 bhyām) from27 unconstructed aś consumers. No global percentage/aggregate credits;totals51,648 finite;4,288 nominal/4,959 readings unchanged. Older ak→ena-Open forward references are superseded only for supplied principal idam ordinary eligible cases. Original-ak etad,remaining aś consumers including post-aś7.1.11 bhis qualification,actual discourse/full accent/independent Bhāṣya/raw Bāla and C2–C5/S1–S7/native/external/Vedic/compound/vocative gates remain Open.
+
+### C4/C5/S7 · Prior-ak post-aś consumers and additive citation correction at PG444
+
+[PG444](prior_ak_ash_consumers_and_syad_attribution/README.md) constructs25 remaining ordinary post-aś requests27 old readings using current a/āp and licensed non-al pronominal class,without importing unresolved M/Nbhis no-k qualification.1 morphology adapter,0 new word/source credits. Additive correction to frozen PG429/441 āp-shortening attribution:7.3.114,not7.2.107;all words/counts/pins preserved. [Local54-key backlog](prior_ak_ash_consumers_and_syad_attribution/PRIOR_AK_BACKLOG.json) now52 CLOSED,2 SOURCE_OPEN(M/Ninsplural bhis7.1.11 original-ak versus current-k absence). Older27-unconstructed forward references superseded on exactly these25 requests;two source gaps not excluded or granted speculative forms. Totals unchanged51,648 finite;4,288 nominal/4,959 readings. Raw Bāla/independent source/actual semantics/accent/C2–C5/S1–S7/native/Vedic/compound/vocative/external gates remain Open.
 
 ## Claude-deferred execution: separate gates
 
