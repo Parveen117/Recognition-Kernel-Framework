@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG493 completes [viduṣī comparative policy-correlated Fcases](vidusi_comparative_policy_correlated_feminine_cases/README.md):23new nominal positions/69readings,0finite/source/separate construction credits.24keys72union readings withhold1old key/3readings.K retains3readings per case,SK_BALA2;shared paths/policies not extra positions.Actual terminal degree input required,not shortening permission alone.Totals51,819finite;4,994nominal/5,816readings;wider gates Open.
+
 PG492 locates [primary Bhāṣya hrasva hierarchy/typed permission gate](hrasva_primary_bhasya_and_typed_permission_gate/README.md):1source observation plus1morphology permission adapter/4outputs,0new word/finite/nominal credits.Grouped63043 has nadī utsarga,many-vowel apavāda,ugit vibhāṣā and kṛt-nadī prohibition;neighbor keys empty.Permission KEEP is not terminal word acceptance;PG491 policies preserved.Totals51,819finite;4,971nominal/5,747readings unchanged.
 
 PG491 constructs [viduṣī ugit-degree/source-policy adapter](vidusi_ugit_degree_and_competing_pumvad_policies/README.md):1morphology adapter/3readouts,0finite/nominal/source-observation credits.K admits SHORT/KEEP/puṃvad readouts;SK/Bāla rejects KEEP.Full vidvas restoration and owned s→d→t give vidvattarā;K unexpressed-gender mechanism needs its own premise.Raw Kaumudī spelling/critical reconciliation stay Open.Totals51,819finite;4,971nominal/5,747readings unchanged.

@@ -1,6 +1,6 @@
-# Written-development backlog at PG492
+# Written-development backlog at PG493
 
-Monty · 23 November 2026 · reviewed parent 7235474c9ba51d237d2cd2ed5a140088b46e8361.
+Monty · 23 November 2026 · reviewed parent fb639bba76dda495951178bae8ac7d15f6ceb643.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -565,3 +565,9 @@ C4 selected viduṣī/tarap morphological/source-policy interaction CLOSED;full 
 PG492 locates [primary Bhāṣya hrasva hierarchy/typed permission gate](hrasva_primary_bhasya_and_typed_permission_gate/README.md):1source observation plus1morphology permission adapter/4outputs,0new word/finite/nominal credits.Grouped63043 has nadī utsarga,many-vowel apavāda,ugit vibhāṣā and kṛt-nadī prohibition;neighbor keys empty.Permission KEEP is not terminal word acceptance;PG491 policies preserved.Totals51,819finite;4,971nominal/5,747readings unchanged.
 
 S7/C4/C5 gain only this directly located primary-work hierarchy and finite permission interface.Empty63044/45 keys not absent original discussion;retained-ī/no-puṃvad original-text reconciliation not closed by search negatives.K/SK terminal policies remain distinct.All unknown class overlaps/global lexical/source/native gates and Claude execution stay Open/deferred.No old word/source-report recredit.
+
+## PG493 · Terminal degree policies continued through feminine cases
+
+PG493 completes [viduṣī comparative policy-correlated Fcases](vidusi_comparative_policy_correlated_feminine_cases/README.md):23new nominal positions/69readings,0finite/source/separate construction credits.24keys72union readings withhold1old key/3readings.K retains3readings per case,SK_BALA2;shared paths/policies not extra positions.Actual terminal degree input required,not shortening permission alone.Totals51,819finite;4,994nominal/5,816readings;wider gates Open.
+
+PG491 comparative Fcase panel now locally CLOSED;superlative/other contexts/genders stay Open.PG492 permissions do not bypass terminal policy masks.K_KEEP present only in K;K_UNEXPRESSED still has its own vivakṣā premise.Source spelling/critical questions and S1-S7/C2-C5/native/execution channels unchanged.No old nom.sg or policy/path recredit.
