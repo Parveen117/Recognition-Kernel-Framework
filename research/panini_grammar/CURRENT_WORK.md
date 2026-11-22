@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG486
+# Pāṇini grammar · current written coverage at PG487
+
+PG487 locates [Vācaspatyam tiraskāra affix/role witness](tiraskara_vacaspati_bhava_agent_affix_witness/README.md):1source observation/2analysis records,0finite/nominal/construction credits.L22789 p3302a distinguishes bhāva ghañ/anādara from kartṛ aṇ/avajñākāraka.Same word does not erase role/affix;root-ID/compound mechanism/original Mādhava stay Open.Totals51,819finite;4,832nominal/5,515readings unchanged.
 
 PG486 locates [primary Bhāṣya pronoun rule/local ṭhak and unresolved pair](pumvad_primary_bhasya_general_rule_and_unresolved_pair/README.md):1source observation,0finite/nominal/construction credits.Raw53028 directly supplies general-pronoun vṛtti remedy;63035 supplies local ṭhak necessity but retains Gārga/Āgneya conflict.22026/22028 overlap not independent witnesses.Primary electronic locator CLOSED;print/critical scope/source disagreement Open.Totals51,819finite;4,832nominal/5,515readings.
 

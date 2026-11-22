@@ -1,0 +1,66 @@
+{
+  "stage": "PG487",
+  "source_head": "tiraskāra",
+  "source_form": "SLP1 tiraskAra",
+  "analyses": [
+    {
+      "id": "VCP_BHAVA",
+      "source_L": "22789",
+      "source_affix": "ghañ",
+      "source_role": "bhāva",
+      "source_gender": "m",
+      "source_sense": "anādara",
+      "literal": "tiras + kf--BAve GaY . 1 anAdare halA0 .",
+      "outcome": "Accepted_lexicographic_analysis_report",
+      "grammar_request": "Open_compound_licence_and_complete_derivation"
+    },
+    {
+      "id": "VCP_AGENT",
+      "source_L": "22789",
+      "source_affix": "aṇ",
+      "source_role": "kartṛ",
+      "source_gender": "adjectival tri0",
+      "source_sense": "avajñākāraka",
+      "literal": "karttari aR . 2 avajYAkArake tri0 .",
+      "outcome": "Accepted_lexicographic_analysis_report",
+      "grammar_request": "Open_agent_affix_conditions_and_compound_licence"
+    }
+  ],
+  "retained_project_request": {
+    "root_id": "1080010/08.0010",
+    "sense": "karaṇe",
+    "particle": "tiras",
+    "other_preverbs": "none",
+    "formation": "PG480 simple kṛ context;no new nic/san/yang or finite voice/pada",
+    "source_boundary": "Lexicon supplies root spelling kṛ,not this publisher ID",
+    "sound_policy": "PG376/480 default and kecit reports remain unchanged;lexical s does not itself grant gati"
+  },
+  "controls": [
+    {
+      "id": "ONE_STRING_ONE_AFFIX",
+      "outcome": "Excluded_role_affix_conflation"
+    },
+    {
+      "id": "ANADARA_IMPLIES_ANTARDHI",
+      "outcome": "Excluded_unsupported_sense_transport"
+    },
+    {
+      "id": "LEXICAL_S_PROVES_GATI",
+      "outcome": "Excluded_unsupported_gati_licence"
+    },
+    {
+      "id": "DICTIONARY_QUOTE_EQUALS_POEM_WITNESS",
+      "outcome": "Excluded_source_level_mix"
+    },
+    {
+      "id": "UNKNOWN_COMPOUND_RULE",
+      "outcome": "Open_grammar"
+    }
+  ],
+  "open": [
+    "Full source-grounded Pāṇinian parābhava noun-compound licence/complete derivation remains Open;dictionary analysis is not a replacement for the missing mechanism.",
+    "Original Mādhava work/locus,printed Tattva damaged-glyph collation,Prāuḍha/Kāśikā lineage and authorial-policy reconciliation remain Open.",
+    "Dictionary kṛ spelling has no publisher root ID;PG4801080010/08.0010 karaṇe is the retained project request context,not an ID printed by this entry.Independent homonym alignment remains a separate premise.",
+    "Halāyudha and Kirāta references are reported lexicographic attributions;original passages and independent edition collation not performed.S1-S7/C2-C5/native/accent and Claude-deferred execution stay separate."
+  ]
+}

@@ -1,6 +1,6 @@
-# Written-development backlog at PG486
+# Written-development backlog at PG487
 
-Monty · 22 November 2026 · reviewed parent cfc86f51b00eaaceec7357f4055282d371661383.
+Monty · 22 November 2026 · reviewed parent fa71b4e23c4d49ed63522b0d2201167f30d0a2c8.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -529,3 +529,9 @@ PG484 remaining F/N agreement now superseded only on this supplied teacher/pupil
 PG486 locates [primary Bhāṣya pronoun rule/local ṭhak and unresolved pair](pumvad_primary_bhasya_general_rule_and_unresolved_pair/README.md):1source observation,0finite/nominal/construction credits.Raw53028 directly supplies general-pronoun vṛtti remedy;63035 supplies local ṭhak necessity but retains Gārga/Āgneya conflict.22026/22028 overlap not independent witnesses.Primary electronic locator CLOSED;print/critical scope/source disagreement Open.Totals51,819finite;4,832nominal/5,515readings.
 
 PG484 missing original-work electronic locator now CLOSED at53028;independent printed collation/universal pronoun implementation remain Open.PG483 source dispute positively remains unresolved in63035,not converted into an exclusion.S7 gains only this actual primary source contract;all other S1-S7/C2-C5/native gates and Claude-deferred execution remain separately Open/deferred.
+
+## PG487 · Positive noun-affix witness,without a false compound closure
+
+PG487 locates [Vācaspatyam tiraskāra affix/role witness](tiraskara_vacaspati_bhava_agent_affix_witness/README.md):1source observation/2analysis records,0finite/nominal/construction credits.L22789 p3302a distinguishes bhāva ghañ/anādara from kartṛ aṇ/avajñākāraka.Same word does not erase role/affix;root-ID/compound mechanism/original Mādhava stay Open.Totals51,819finite;4,832nominal/5,515readings unchanged.
+
+S7 tiras gains the individually pinned lexical affix/sense evidence previously missing fromPG480.The complete compound/affix-entitlement mechanism,original Mādhava/printed Tattva/lineage remain Open.Source spelling kṛ has no publisher ID;do not silently promote retained project1080010 to dictionary evidence.S1 latest full Jayamaṅgalā OCR lookup did not locate exact āhadhvaṃ quote,0credit/no closure.All other S1-S7/C2-C5/native and Claude-deferred channels unchanged.
