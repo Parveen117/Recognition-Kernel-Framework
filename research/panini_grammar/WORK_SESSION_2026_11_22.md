@@ -338,3 +338,27 @@ navigation/engine suites or replay.Fetch/expected-parent existing-review
 branch publication,no force/main merge.No automation,continuous-hours,ETA
 or overall-completion claim.C2–C5/S1–S7/source/semantic/native work remains
 Open and Claude-deferred execution stays a separate gate.
+
+
+## PG462 · Four narrow written requests gain positive owned continuations
+
+Resumed published e0fa93fbfa1403ed37d9ddc27b21617b0b9f2a0a;one repository
+sequentially,no overlapping mutation observed,no agents.
+
+PG462 completes [narrow luṭ owned jaś continuation](narrow_lut_tas_retention_and_owned_jashtva/README.md) on4 existing bhid/vah2pl requests:0 new finite positions,6 new source-qualified finite readings(5 literal strings),1 morphology adapter/6 readouts;0 nominal/source credits.Retained tās.s→d8.4.53 before ending dh,root d→t only on simple bhid,ā-before-cluster blocks8.4.65.Selected broad grids stay frozen.Totals unchanged51,738 finite;4,336 nominal/5,007 readings.Four narrow written requests locally CLOSED;independent whole-word attestation/original Vāmana/print/raw/source/wider gates Open.
+
+Finite additions are0 unique positions/6 variant request-readings,not6 new
+positions or6 literal strings.Two simple-bhid voice histories share one word.
+No nominal/source credits.Full original frames and O/C owners are pinned;
+source-selected alternatives remain distinct.Frozen PG346/360/367/456/461
+Open claims superseded only for four written profiles,not historical whole-
+word attestation or original authorities.SourceS1 fresh search inconclusive,
+no source credit or gap closure.Other realS1-S7/C2-C5 gates remain Open.
+
+Full PG14 operator/history/typed zero proof written.PG335 correction and
+PG357–363 CLOSED/frozen predecessors/inherited additive corrections preserved.
+Necessary explicitPython3.12 changed-document/source/count result/attempts in
+packet.No Sanskrit generators,grammar/proof execution,old/navigation/engine
+suites or replay.Fetch/expected-parent existing-review-branch publication,
+no force/main merge.No automation,continuous-hours,ETA or global-completion
+claim.Claude-deferred execution remains separate.
