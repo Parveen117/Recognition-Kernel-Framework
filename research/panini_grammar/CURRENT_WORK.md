@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG477
+# Pāṇini grammar · current written coverage at PG478
+
+PG478 completes [vācāla/vācāṭa blame-guard human M/F case panels](vacala_vacata_blame_guard_and_human_gender_panels/README.md):94new nominal positions/96readings,0finite/source/separate construction credits.96selected keys/98readings include2old source nom.sg controls0credit.K5.2.125 kutsite versus proper speech retained;internal ṭ of āṭac is sounded,final c alone removed;ṭāp/sup/nuṭ owners explicit.Uṇādi4.105 fourfields stay Open.Totals51,819finite;4,574nominal/5,250readings;wider gates Open.
 
 PG477 locates [anadyatana direct-parent laṅ→luṅ transition](anadyatana_direct_parent_lung_transition/README.md):1 source-transmission observation,0 finite/nominal/construction credits.Direct Git parent063648b reads laṅ;childcd9f92b(Update kashika.txt,2023-12-30)reads luṅ and its entire32111 field equals frozen5744762.Initial tracked snapshot also reads laṅ.Exact repository-stage locator CLOSED;edit source/intent,independent historical lineage and upstream repair stay Open.Frozen bytes untouched.Totals51,819 finite;4,480 nominal/5,154 readings.
 

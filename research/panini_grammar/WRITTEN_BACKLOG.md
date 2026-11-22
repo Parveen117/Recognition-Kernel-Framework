@@ -1,6 +1,6 @@
-# Written-development backlog at PG477
+# Written-development backlog at PG478
 
-Monty · 22 November 2026 · reviewed parent ffb3ca905337718982fa91f86b6394eaa7c779d8.
+Monty · 22 November 2026 · reviewed parent f48bc18e405d4e9cfe23ef9ad8609bb13bba58e5.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -485,3 +485,7 @@ PG476 completes [idit violence-math passive aorist/perfect](idit_math_passive_ao
 ### S3 · Exact direct-parent transmission stage at PG477
 
 PG477 locates [anadyatana direct-parent laṅ→luṅ transition](anadyatana_direct_parent_lung_transition/README.md):1 source-transmission observation,0 finite/nominal/construction credits.Direct Git parent063648b reads laṅ;childcd9f92b(Update kashika.txt,2023-12-30)reads luṅ and its entire32111 field equals frozen5744762.Initial tracked snapshot also reads laṅ.Exact repository-stage locator CLOSED;edit source/intent,independent historical lineage and upstream repair stay Open.Frozen bytes untouched.Totals51,819 finite;4,480 nominal/5,154 readings. Earlier unspecified repository-transition-stage Open is superseded only on this directly witnessed pair.Ten inspected snapshots/171history metadata records are not an exhaustive field-history audit.No unique/first-ever change,manuscript/OCR/editorial-intent claim.Original source used in2023 and independent historical print/critical collation remain concrete residuals.S1/S2/S4/S5/S6/S7 and unconstructed C2-C5/native inventory stay Open;Claude-deferred execution remains separate.Project written completion remains **OPEN**.
+
+### C4 · Censured-talkativeness human gender/case realization at PG478
+
+PG478 completes [vācāla/vācāṭa blame-guard human M/F case panels](vacala_vacata_blame_guard_and_human_gender_panels/README.md):94new nominal positions/96readings,0finite/source/separate construction credits.96selected keys/98readings include2old source nom.sg controls0credit.K5.2.125 kutsite versus proper speech retained;internal ṭ of āṭac is sounded,final c alone removed;ṭāp/sup/nuṭ owners explicit.Uṇādi4.105 fourfields stay Open.Totals51,819finite;4,574nominal/5,250readings;wider gates Open. Old5.2.125 meaning/affix/source units0recredit.New local inflection96keys is distinct from unmeasured wider taddhita semantics.Neuter/nonhuman/figurative/accent/external syntax/independent paradigms remain concrete residuals.S5 fresh lookup supplied0witnesses;no primary āṭac closure follows from homonymous taddhita spelling.Project written completion remains **OPEN**.

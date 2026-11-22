@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG478 completes [vācāla/vācāṭa blame-guard human M/F case panels](research/panini_grammar/vacala_vacata_blame_guard_and_human_gender_panels/README.md):94new nominal positions/96readings,0finite/source/separate construction credits.96selected keys/98readings include2old source nom.sg controls0credit.K5.2.125 kutsite versus proper speech retained;internal ṭ of āṭac is sounded,final c alone removed;ṭāp/sup/nuṭ owners explicit.Uṇādi4.105 fourfields stay Open.Totals51,819finite;4,574nominal/5,250readings;wider gates Open.
+
 PG477 locates [anadyatana direct-parent laṅ→luṅ transition](research/panini_grammar/anadyatana_direct_parent_lung_transition/README.md):1 source-transmission observation,0 finite/nominal/construction credits.Direct Git parent063648b reads laṅ;childcd9f92b(Update kashika.txt,2023-12-30)reads luṅ and its entire32111 field equals frozen5744762.Initial tracked snapshot also reads laṅ.Exact repository-stage locator CLOSED;edit source/intent,independent historical lineage and upstream repair stay Open.Frozen bytes untouched.Totals51,819 finite;4,480 nominal/5,154 readings.
 
 PG476 completes [idit violence-math passive aorist/perfect](research/panini_grammar/idit_math_passive_aorist_perfect_and_cluster_guard/README.md):18 new finite positions/18 readings,0 nominal/source/separate construction credits.Actual ciṇ3sg amanthi preserves n-upadhā;other sic cells have ordinary iṭ.Perfect ma-copy/root n owners stay distinct;cluster-final manth fails1.2.5 kit and6.4.120 etva,without arbitrary grade change.With72old0-credit keys,the selected ten-lakāra90keys/91readings is CLOSED.Totals51,819 finite;4,480 nominal/5,154 readings;wider gates Open.
@@ -212,7 +214,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG477 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG478 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
