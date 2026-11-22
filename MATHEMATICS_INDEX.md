@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG461 addresses [primary Bhāṣya dhi-ca dialogue](research/panini_grammar/bhasya_dhi_ca_primary_dialogue_and_scope/README.md):1 new primary-work electronic source observation,0 finite/nominal/nonfinite/construction credits.Revision407550 identified by rendered footer;explicit oldid/API unavailable,not raw revision bytes.Records47–50 positively include non-sic cakādhi;proposal/recap and next-heading62 remain separately owned.Totals unchanged51,738 finite;4,336 nominal/5,007 readings.Narrow luṭ whole requests,independent editions/original Vāmana/raw-key cause and wider gates remain Open.
+
 PG460 constructs [causal vah prior action and outer control](research/panini_grammar/vah_prior_action_outer_control_and_lyap_owners/README.md):2 nonfinite constructions/2 word readings(vāhayitvā/pravāhya),4 driver/porter case readouts;0 finite/nominal/source/separate syntax units.Common actor is outer a;causee b is acc for driver versus ins for porter.Seṭ ktvā retains ṇic;actual lyap/long vā defeats laghu-ay then licenses owned lopa.Totals unchanged51,738 finite;4,336 nominal/5,007 readings.Closed finite90 grid untouched;source/wider gates Open.
 
 PG459 completes [causal vah perfect and correlated auxiliary policies](research/panini_grammar/vah_causal_perfect_and_correlated_auxiliary_policies/README.md):9 new finite positions/49 readings65 paths,0 nominal/source/separate construction units.Primary vāhayām ay/ām/liṭ-luk and auxiliary own-liṭ/controller retained;H/I/S as policies correlated,bhū a-copy selected.Totals51,738 finite;4,336 nominal/5,007 readings.Selected causal-vah90keys178readings CLOSED,no aggregate recredit;source/wider gates Open.
@@ -178,7 +180,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG460 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG461 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 

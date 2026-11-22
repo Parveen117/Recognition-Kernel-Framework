@@ -315,3 +315,26 @@ branch publication,no force/main merge.No new automation,ETA,overall
 completion or elapsed-time-as-continuous-work claim.SourceS1–S7/C2–C5/
 other semantic-role-prefix-control/accent/native tasks remain genuine Open;
 no text gap becomes an exclusion and execution deferral stays separate.
+
+
+## PG461 · Primary-work electronic dhi-ca dialogue
+
+Resumed from published047492594f3a06416a8630f4cc50d7827df052a0 with clean
+tree after fetch/no concurrent mutation observed.
+
+PG461 addresses [primary Bhāṣya dhi-ca dialogue](bhasya_dhi_ca_primary_dialogue_and_scope/README.md):1 new primary-work electronic source observation,0 finite/nominal/nonfinite/construction credits.Revision407550 identified by rendered footer;explicit oldid/API unavailable,not raw revision bytes.Records47–50 positively include non-sic cakādhi;proposal/recap and next-heading62 remain separately owned.Totals unchanged51,738 finite;4,336 nominal/5,007 readings.Narrow luṭ whole requests,independent editions/original Vāmana/raw-key cause and wider gates remain Open.
+
+New1 source observation,not62 units or old report/word recredits.Source1–61
+dialogue/recap versus62 next-topic heading explicitly retained.Full PG14
+operator/history source-refinement square written;PG335/PG357–363/frozen
+predecessors/additive corrections preserved.Source fetch helper initially
+lacked requests;stdlib API reached403;explicit oldid/permanent-link requests
+inaccessible.Rendered primary text/footer remained reviewable;local retained
+retrieval/excerpt hashes do not assert raw API or print access.
+
+Only necessary explicitPython3.12 changed-document/source/count result and
+actual attempts in packet.No generators,grammar/proof execution,old/
+navigation/engine suites or replay.Fetch/expected-parent existing-review
+branch publication,no force/main merge.No automation,continuous-hours,ETA
+or overall-completion claim.C2–C5/S1–S7/source/semantic/native work remains
+Open and Claude-deferred execution stays a separate gate.
