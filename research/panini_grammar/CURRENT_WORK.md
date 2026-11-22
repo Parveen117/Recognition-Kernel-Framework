@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG476
+# Pāṇini grammar · current written coverage at PG477
+
+PG477 locates [anadyatana direct-parent laṅ→luṅ transition](anadyatana_direct_parent_lung_transition/README.md):1 source-transmission observation,0 finite/nominal/construction credits.Direct Git parent063648b reads laṅ;childcd9f92b(Update kashika.txt,2023-12-30)reads luṅ and its entire32111 field equals frozen5744762.Initial tracked snapshot also reads laṅ.Exact repository-stage locator CLOSED;edit source/intent,independent historical lineage and upstream repair stay Open.Frozen bytes untouched.Totals51,819 finite;4,480 nominal/5,154 readings.
 
 PG476 completes [idit violence-math passive aorist/perfect](idit_math_passive_aorist_perfect_and_cluster_guard/README.md):18 new finite positions/18 readings,0 nominal/source/separate construction credits.Actual ciṇ3sg amanthi preserves n-upadhā;other sic cells have ordinary iṭ.Perfect ma-copy/root n owners stay distinct;cluster-final manth fails1.2.5 kit and6.4.120 etva,without arbitrary grade change.With72old0-credit keys,the selected ten-lakāra90keys/91readings is CLOSED.Totals51,819 finite;4,480 nominal/5,154 readings;wider gates Open.
 

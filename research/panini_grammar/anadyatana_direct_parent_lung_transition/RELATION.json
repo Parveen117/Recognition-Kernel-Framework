@@ -1,0 +1,45 @@
+{
+  "stage": "PG477",
+  "source_address": "Kāśikā3.2.111 / raw32111",
+  "transition": {
+    "parent": "063648b627ea6a04687da305559777a7711c6ea9",
+    "child": "cd9f92b000d46045f50419968497839e368f5c55",
+    "child_git_parent": "063648b627ea6a04687da305559777a7711c6ea9",
+    "date": "2023-12-30T07:45:56Z",
+    "message": "Update kashika.txt",
+    "before": "धातोर्लङ् प्रत्ययो भवति",
+    "after": "धातोर्लुङ् प्रत्ययो भवति",
+    "field_exactly_matches_frozen": true
+  },
+  "observations": [
+    {
+      "id": "INITIAL_LANG",
+      "outcome": "Accepted_snapshot_reading"
+    },
+    {
+      "id": "DIRECT_PARENT_LANG_TO_LUNG",
+      "outcome": "Accepted_repository_stage"
+    },
+    {
+      "id": "FROZEN_FIELD_EQUALITY",
+      "outcome": "Accepted_exact_endpoint_field_equality"
+    },
+    {
+      "id": "EDIT_SOURCE_OR_INTENT",
+      "outcome": "Open_not_in_commit_message"
+    },
+    {
+      "id": "HISTORICAL_LINEAGE",
+      "outcome": "Open_independent_collation"
+    },
+    {
+      "id": "USE_RAW_LUNG_AS_REPAIRED_LANG",
+      "outcome": "Excluded_silent_source_rewrite"
+    }
+  ],
+  "open": [
+    "S3 tracked direct-parent transmission stage locally CLOSED;editorial reason/source used by2023 edit,independent historical print/manuscript/critical lineage and upstream repair remain Open.",
+    "S1 exact Bhaṭṭi poem/context,S2 pre-import82025/original policies,S4 actual45 desires,S5 four Uṇādi fields,S6 independent marker purpose,S7 individual source contracts remain Open.",
+    "Wider C2-C5/native written inventories remain unmeasured/unconstructed beyond named closures;Claude-deferred Sanskrit generators/grammar execution/old suites/replay are separate."
+  ]
+}
