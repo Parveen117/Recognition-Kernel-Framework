@@ -1,6 +1,6 @@
-# Written-development backlog at PG483
+# Written-development backlog at PG484
 
-Monty · 22 November 2026 · reviewed parent 392d670c1d27616dc49ec5941df92539bf812c25.
+Monty · 22 November 2026 · reviewed parent d25db450c4edfbbb6f320fbafdf60504f9d9a6ba.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -511,3 +511,9 @@ PG482 completes [hastinī collective puṃvad/visibility and neuter cases](hasti
 PG483 constructs [agnāyī deity affix-origin and puṃvad policies](agnayi_deity_affix_origin_and_pumvad_policies/README.md):1morphology adapter/1readout,0finite/nominal positions/readings/source observations.4.2.33 deity ḍhak versus4.1.120 apatya origin survives eya.SK/Tattva restore full agni;Bāla reports that trace then rejects its same-nimitta premise.Kāśikā authorial question/alternative derivation remain Open.Totals51,819finite;4,693nominal/5,372readings.
 
 C4 gains only this explicit policy/owned-derivation interface.The old āgneya source/control is0word credit.K63035 effort question is preserved;Bāla final nimitta objection is not silently absorbed into SK acceptance.S6 lookup rediscovered the already-pinned1859 Ujjvaladatta passage,0new source credit and no independent k-effect solution.S1-S7/C2-C5 and Claude-deferred execution remain separate.
+
+## PG484 · Early restoration is not late bha restoration
+
+PG484 completes [bhavatī pupil early puṃvad/sit-pada panels](bhavati_students_early_pumvad_and_sit_pada/README.md):44new nominal positions/46readings,0finite/source/separate construction credits.Two24-slot panels total48keys/50readings and withhold4old controls.Ṭhak needs t-final restoration before ika;chas sit assigns pada overriding bha and gives t→d.Teacher D/pupil P and markers retain owners.Old register भवतीय corrected additively.Totals51,819finite;4,737nominal/5,418readings;wider gates Open.
+
+Only female honorific teacher/male-pupil two-affix contract CLOSED;other genders/relations/participles/inner etymology/accents remain Open.K-local and SK-general-pronoun sufficiency policies retained;no independent original-Bhāṣya claim.Old controls/prose/factored registers checked before credits.S1-S7/C2-C5 and Claude-deferred execution remain separate.

@@ -1,0 +1,658 @@
+{
+  "stage": "PG484",
+  "input": {
+    "teacher": "female honorific bhavatī D",
+    "masculine_correspondent": "pronominal bhavat",
+    "relation": "her pupils,source śaiṣika student relation",
+    "outer_referent": "male pupil P,independent outer case and number",
+    "finite_voice": "inapplicable:nominal derivation"
+  },
+  "policies": [
+    {
+      "id": "K_LOCAL_VARTTIKA",
+      "outcome": "Accepted",
+      "permission": "ṭhak/chas-specific puṃvad63035"
+    },
+    {
+      "id": "SK_GENERAL_PRONOUN",
+      "outcome": "Accepted_as_reported_sufficiency_policy",
+      "permission": "sarvanāmno vṛttimātre puṃvad;local varttika deemed redundant",
+      "boundary": "not independent original-Bhāṣya collation or universal implementation"
+    }
+  ],
+  "traces": [
+    {
+      "affix": "ṭhak",
+      "steps": [
+        "4.2.115 vṛddha pronoun entitlement",
+        "early63035 puṃvad bhavatī→bhavat while suffix still ṭha",
+        "t-final7.3.51 ṭha→ka overrides7.3.50 ika;retained original k_IT gives7.2.118 initial a→ā",
+        "1.4.17 pada;8.2.39 t→d then8.4.55 d→t before k;tripādī invisible to earlier7.3.51 by8.2.1",
+        "bhāvatka with female D retained"
+      ]
+    },
+    {
+      "affix": "chas",
+      "steps": [
+        "4.2.115 vṛddha pronoun entitlement;final s_IT retained after marker lopa",
+        "7.1.2 ch→īy,remaining a gives īya",
+        "siti ca1.4.16 assigns pada despite vowel;prior exception blocks1.4.18 bha",
+        "63035 specific puṃvad restores bhavat;generic bhā/non-ḍha varttika cannot supply this edge",
+        "8.2.39 root-base t→d yields bhavadīya;no k_IT and no outer initial-vowel vṛddhi"
+      ]
+    }
+  ],
+  "controls": [
+    {
+      "id": "BHU_SATR_SAME_LETTERS",
+      "outcome": "Excluded_4_2_115_entitlement",
+      "source_control": "4.2.115 instead gives ordinary aṇ bhāvata"
+    },
+    {
+      "id": "LATE_THAK_RESCUE_BY_BHA",
+      "outcome": "Excluded_unlicensed_restored_k_analogy"
+    },
+    {
+      "id": "CHAS_BHA",
+      "outcome": "Excluded_sit_pada_exception"
+    },
+    {
+      "id": "CHAS_GIVES_VRDDHI",
+      "outcome": "Excluded_wrong_marker"
+    },
+    {
+      "id": "INNER_TEACHER_GENDER_IS_OUTER_GENDER",
+      "outcome": "Excluded_referent_mix"
+    },
+    {
+      "id": "UNKNOWN_STUDENT_RELATION",
+      "outcome": "Open_semantics"
+    }
+  ],
+  "rows": [
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "nom",
+      "number": "sg",
+      "readings": [
+        "bhāvatkaḥ"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0,
+      "evidence": "OLD_SOURCE_CONTROL"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "nom",
+      "number": "du",
+      "readings": [
+        "bhāvatkau"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "nom",
+      "number": "pl",
+      "readings": [
+        "bhāvatkāḥ"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0,
+      "evidence": "OLD_SOURCE_CONTROL"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "acc",
+      "number": "sg",
+      "readings": [
+        "bhāvatkam"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "acc",
+      "number": "du",
+      "readings": [
+        "bhāvatkau"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "acc",
+      "number": "pl",
+      "readings": [
+        "bhāvatkān"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "ins",
+      "number": "sg",
+      "readings": [
+        "bhāvatkena"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "ins",
+      "number": "du",
+      "readings": [
+        "bhāvatkābhyām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "ins",
+      "number": "pl",
+      "readings": [
+        "bhāvatkaiḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "dat",
+      "number": "sg",
+      "readings": [
+        "bhāvatkāya"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "dat",
+      "number": "du",
+      "readings": [
+        "bhāvatkābhyām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "dat",
+      "number": "pl",
+      "readings": [
+        "bhāvatkebhyaḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "abl",
+      "number": "sg",
+      "readings": [
+        "bhāvatkāt",
+        "bhāvatkād"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "abl",
+      "number": "du",
+      "readings": [
+        "bhāvatkābhyām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "abl",
+      "number": "pl",
+      "readings": [
+        "bhāvatkebhyaḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "gen",
+      "number": "sg",
+      "readings": [
+        "bhāvatkasya"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "gen",
+      "number": "du",
+      "readings": [
+        "bhāvatkayoḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "gen",
+      "number": "pl",
+      "readings": [
+        "bhāvatkānām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "loc",
+      "number": "sg",
+      "readings": [
+        "bhāvatke"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "loc",
+      "number": "du",
+      "readings": [
+        "bhāvatkayoḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "loc",
+      "number": "pl",
+      "readings": [
+        "bhāvatkeṣu"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "voc",
+      "number": "sg",
+      "readings": [
+        "bhāvatka"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "voc",
+      "number": "du",
+      "readings": [
+        "bhāvatkau"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "THAK",
+      "gender": "m",
+      "case": "voc",
+      "number": "pl",
+      "readings": [
+        "bhāvatkāḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "nom",
+      "number": "sg",
+      "readings": [
+        "bhavadīyaḥ"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0,
+      "evidence": "OLD_SOURCE_CONTROL"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "nom",
+      "number": "du",
+      "readings": [
+        "bhavadīyau"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "nom",
+      "number": "pl",
+      "readings": [
+        "bhavadīyāḥ"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0,
+      "evidence": "OLD_SOURCE_CONTROL"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "acc",
+      "number": "sg",
+      "readings": [
+        "bhavadīyam"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "acc",
+      "number": "du",
+      "readings": [
+        "bhavadīyau"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "acc",
+      "number": "pl",
+      "readings": [
+        "bhavadīyān"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "ins",
+      "number": "sg",
+      "readings": [
+        "bhavadīyena"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "ins",
+      "number": "du",
+      "readings": [
+        "bhavadīyābhyām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "ins",
+      "number": "pl",
+      "readings": [
+        "bhavadīyaiḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "dat",
+      "number": "sg",
+      "readings": [
+        "bhavadīyāya"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "dat",
+      "number": "du",
+      "readings": [
+        "bhavadīyābhyām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "dat",
+      "number": "pl",
+      "readings": [
+        "bhavadīyebhyaḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "abl",
+      "number": "sg",
+      "readings": [
+        "bhavadīyāt",
+        "bhavadīyād"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "abl",
+      "number": "du",
+      "readings": [
+        "bhavadīyābhyām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "abl",
+      "number": "pl",
+      "readings": [
+        "bhavadīyebhyaḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "gen",
+      "number": "sg",
+      "readings": [
+        "bhavadīyasya"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "gen",
+      "number": "du",
+      "readings": [
+        "bhavadīyayoḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "gen",
+      "number": "pl",
+      "readings": [
+        "bhavadīyānām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "loc",
+      "number": "sg",
+      "readings": [
+        "bhavadīye"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "loc",
+      "number": "du",
+      "readings": [
+        "bhavadīyayoḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "loc",
+      "number": "pl",
+      "readings": [
+        "bhavadīyeṣu"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "voc",
+      "number": "sg",
+      "readings": [
+        "bhavadīya"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "voc",
+      "number": "du",
+      "readings": [
+        "bhavadīyau"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "CHAS",
+      "gender": "m",
+      "case": "voc",
+      "number": "pl",
+      "readings": [
+        "bhavadīyāḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    }
+  ],
+  "open": [
+    "Only supplied honorific female-teacher/male-pupil two-affix48-key50-reading panel CLOSED;other semantic relations,participles,female/neuter pupils and accent domains remain Open.",
+    "Inner etymology/full feminine teaching history of honorific bhavatī is not reconstructed;input is the source-supplied corresponding-form pair.",
+    "Kaumudī global pronoun-vṛtti/Bhāṣya-iṣṭi explanation is preserved as a different sufficiency policy;independent original-Bhāṣya collation/universal pronoun rule implementation remains Open.",
+    "PG483 Bāla alternative/Kāśikā authorial questions,PG479 female abstracts,S1-S7/C2-C5/native completion and Claude-deferred execution remain separate."
+  ]
+}
