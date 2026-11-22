@@ -1,0 +1,667 @@
+{
+  "stage": "PG458",
+  "frame": {
+    "root_record": {
+      "i": "1011159",
+      "baseindex": "01.1159",
+      "dhatu": "वह्",
+      "aupadeshik": "वहँ",
+      "gana": "1",
+      "pada": "U",
+      "settva": "A",
+      "karma": "D",
+      "artha": "प्रापणे",
+      "artha_english": "to flow, to propel, to carry, to  haul, to drag",
+      "tags": "अनुदात्तोपदेशः,common",
+      "dhaturoopnandini": "1004",
+      "dhatu_note": "अयं धातुः प्रापणार्थे (नयनम् अस्मिन् अर्थे) द्विकर्मकः अस्ति, यथा 'रामः ग्रामं भारं वहति' इति । परन्तु वहनार्थे (स्वयं प्रवहति अस्मिन् अर्थे) अकर्मकः यस्ति, यथा - 'नदी वेगेन वहति' इति ।",
+      "sk": "1004",
+      "lsk_sutra": "546",
+      "sk_sutra": "2409",
+      "artha_hindi": "बहना, झरना, ढोना, ढो ले जाना",
+      "upasargas": [],
+      "antarganas": "यजादिः",
+      "dhaturoopnandini_note": " प्रापणे = धारणे ' इति काशकृत्स्नः ।"
+    },
+    "preverbs": [],
+    "formation": "one hetumat ṇic",
+    "voice": "karmaṇi",
+    "pada": "A1.3.13",
+    "roles": "distinct a causer,b human porter,c conveyed human traveller/group;NI(a,E1)=false,K(E1)={c},q=c",
+    "controllers": [
+      {
+        "slot": "3sg",
+        "person": "3",
+        "number": "sg",
+        "controller": "c,positively supplied conveyed human traveller/group",
+        "nominative_interface": "saḥ",
+        "physical_carrying_sense": "human traveller is physically conveyed by human porter(s);not marriage,river-flow or shaking",
+        "outer_causer": "a,distinct non-driver supervisor",
+        "base_agent": "b,distinct human porter/group",
+        "outer_niyantr": false,
+        "karmans": [
+          "c"
+        ],
+        "expressed_karman": "c",
+        "case_map": {
+          "a": "ins",
+          "b": "ins",
+          "c": "nom"
+        },
+        "co_reference_source": "1.4.108 residual",
+        "new_nominal_position_credit": 0,
+        "new_nominal_reading_credit": 0
+      },
+      {
+        "slot": "3du",
+        "person": "3",
+        "number": "du",
+        "controller": "c,positively supplied conveyed human traveller/group",
+        "nominative_interface": "tau",
+        "physical_carrying_sense": "human traveller is physically conveyed by human porter(s);not marriage,river-flow or shaking",
+        "outer_causer": "a,distinct non-driver supervisor",
+        "base_agent": "b,distinct human porter/group",
+        "outer_niyantr": false,
+        "karmans": [
+          "c"
+        ],
+        "expressed_karman": "c",
+        "case_map": {
+          "a": "ins",
+          "b": "ins",
+          "c": "nom"
+        },
+        "co_reference_source": "1.4.108 residual",
+        "new_nominal_position_credit": 0,
+        "new_nominal_reading_credit": 0
+      },
+      {
+        "slot": "3pl",
+        "person": "3",
+        "number": "pl",
+        "controller": "c,positively supplied conveyed human traveller/group",
+        "nominative_interface": "te",
+        "physical_carrying_sense": "human traveller is physically conveyed by human porter(s);not marriage,river-flow or shaking",
+        "outer_causer": "a,distinct non-driver supervisor",
+        "base_agent": "b,distinct human porter/group",
+        "outer_niyantr": false,
+        "karmans": [
+          "c"
+        ],
+        "expressed_karman": "c",
+        "case_map": {
+          "a": "ins",
+          "b": "ins",
+          "c": "nom"
+        },
+        "co_reference_source": "1.4.108 residual",
+        "new_nominal_position_credit": 0,
+        "new_nominal_reading_credit": 0
+      },
+      {
+        "slot": "2sg",
+        "person": "2",
+        "number": "sg",
+        "controller": "c,positively supplied conveyed human traveller/group",
+        "nominative_interface": "tvam",
+        "physical_carrying_sense": "human traveller is physically conveyed by human porter(s);not marriage,river-flow or shaking",
+        "outer_causer": "a,distinct non-driver supervisor",
+        "base_agent": "b,distinct human porter/group",
+        "outer_niyantr": false,
+        "karmans": [
+          "c"
+        ],
+        "expressed_karman": "c",
+        "case_map": {
+          "a": "ins",
+          "b": "ins",
+          "c": "nom"
+        },
+        "co_reference_source": "1.4.105 yusmad",
+        "new_nominal_position_credit": 0,
+        "new_nominal_reading_credit": 0
+      },
+      {
+        "slot": "2du",
+        "person": "2",
+        "number": "du",
+        "controller": "c,positively supplied conveyed human traveller/group",
+        "nominative_interface": "yuvām",
+        "physical_carrying_sense": "human traveller is physically conveyed by human porter(s);not marriage,river-flow or shaking",
+        "outer_causer": "a,distinct non-driver supervisor",
+        "base_agent": "b,distinct human porter/group",
+        "outer_niyantr": false,
+        "karmans": [
+          "c"
+        ],
+        "expressed_karman": "c",
+        "case_map": {
+          "a": "ins",
+          "b": "ins",
+          "c": "nom"
+        },
+        "co_reference_source": "1.4.105 yusmad",
+        "new_nominal_position_credit": 0,
+        "new_nominal_reading_credit": 0
+      },
+      {
+        "slot": "2pl",
+        "person": "2",
+        "number": "pl",
+        "controller": "c,positively supplied conveyed human traveller/group",
+        "nominative_interface": "yūyam",
+        "physical_carrying_sense": "human traveller is physically conveyed by human porter(s);not marriage,river-flow or shaking",
+        "outer_causer": "a,distinct non-driver supervisor",
+        "base_agent": "b,distinct human porter/group",
+        "outer_niyantr": false,
+        "karmans": [
+          "c"
+        ],
+        "expressed_karman": "c",
+        "case_map": {
+          "a": "ins",
+          "b": "ins",
+          "c": "nom"
+        },
+        "co_reference_source": "1.4.105 yusmad",
+        "new_nominal_position_credit": 0,
+        "new_nominal_reading_credit": 0
+      },
+      {
+        "slot": "1sg",
+        "person": "1",
+        "number": "sg",
+        "controller": "c,positively supplied conveyed human traveller/group",
+        "nominative_interface": "aham",
+        "physical_carrying_sense": "human traveller is physically conveyed by human porter(s);not marriage,river-flow or shaking",
+        "outer_causer": "a,distinct non-driver supervisor",
+        "base_agent": "b,distinct human porter/group",
+        "outer_niyantr": false,
+        "karmans": [
+          "c"
+        ],
+        "expressed_karman": "c",
+        "case_map": {
+          "a": "ins",
+          "b": "ins",
+          "c": "nom"
+        },
+        "co_reference_source": "1.4.107 asmad",
+        "new_nominal_position_credit": 0,
+        "new_nominal_reading_credit": 0
+      },
+      {
+        "slot": "1du",
+        "person": "1",
+        "number": "du",
+        "controller": "c,positively supplied conveyed human traveller/group",
+        "nominative_interface": "āvām",
+        "physical_carrying_sense": "human traveller is physically conveyed by human porter(s);not marriage,river-flow or shaking",
+        "outer_causer": "a,distinct non-driver supervisor",
+        "base_agent": "b,distinct human porter/group",
+        "outer_niyantr": false,
+        "karmans": [
+          "c"
+        ],
+        "expressed_karman": "c",
+        "case_map": {
+          "a": "ins",
+          "b": "ins",
+          "c": "nom"
+        },
+        "co_reference_source": "1.4.107 asmad",
+        "new_nominal_position_credit": 0,
+        "new_nominal_reading_credit": 0
+      },
+      {
+        "slot": "1pl",
+        "person": "1",
+        "number": "pl",
+        "controller": "c,positively supplied conveyed human traveller/group",
+        "nominative_interface": "vayam",
+        "physical_carrying_sense": "human traveller is physically conveyed by human porter(s);not marriage,river-flow or shaking",
+        "outer_causer": "a,distinct non-driver supervisor",
+        "base_agent": "b,distinct human porter/group",
+        "outer_niyantr": false,
+        "karmans": [
+          "c"
+        ],
+        "expressed_karman": "c",
+        "case_map": {
+          "a": "ins",
+          "b": "ins",
+          "c": "nom"
+        },
+        "co_reference_source": "1.4.107 asmad",
+        "new_nominal_position_credit": 0,
+        "new_nominal_reading_credit": 0
+      }
+    ]
+  },
+  "rows": [
+    {
+      "profile": "VAH1011159_PRAPANA_ONE_NIC_KARMANI_TRAVELLER",
+      "root_id": "1011159",
+      "sense": "prāpane physical carrying",
+      "preverbs": [],
+      "formation": "one hetumat ṇic",
+      "voice": "karmani",
+      "pada": "A",
+      "lakara": "lung",
+      "slot": "3sg",
+      "controller": "c",
+      "temporal_guard": "completed witnessed causal event earlier on utterance day3.2.110,no mang",
+      "readings": [
+        "avāhi"
+      ],
+      "paths": [
+        {
+          "branch": "ACTUAL_CIN",
+          "word": "avāhi",
+          "actual_affix": "ciṇ",
+          "augment": "none;ciṇ owns pronounced i",
+          "nic": "owned i_NIC lopa",
+          "ending": "original ta luk6.4.104",
+          "pre_it_final": "not an iṭ query",
+          "dh_option": "not2pl"
+        }
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "evidence": "WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "VAH1011159_PRAPANA_ONE_NIC_KARMANI_TRAVELLER",
+      "root_id": "1011159",
+      "sense": "prāpane physical carrying",
+      "preverbs": [],
+      "formation": "one hetumat ṇic",
+      "voice": "karmani",
+      "pada": "A",
+      "lakara": "lung",
+      "slot": "3du",
+      "controller": "c",
+      "temporal_guard": "completed witnessed causal event earlier on utterance day3.2.110,no mang",
+      "readings": [
+        "avāhayiṣātām",
+        "avāhiṣātām"
+      ],
+      "paths": [
+        {
+          "branch": "O",
+          "word": "avāhayiṣātām",
+          "actual_affix": "sic",
+          "augment": "i_val7.2.35",
+          "nic": "retained ay_NIC",
+          "ending": "secondary A ending retained",
+          "pre_it_final": "y",
+          "dh_option": "not2pl"
+        },
+        {
+          "branch": "C",
+          "word": "avāhiṣātām",
+          "actual_affix": "sic",
+          "augment": "i_cv6.4.62",
+          "nic": "owned i_NIC lopa",
+          "ending": "secondary A ending retained",
+          "pre_it_final": "h",
+          "dh_option": "not2pl"
+        }
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "VAH1011159_PRAPANA_ONE_NIC_KARMANI_TRAVELLER",
+      "root_id": "1011159",
+      "sense": "prāpane physical carrying",
+      "preverbs": [],
+      "formation": "one hetumat ṇic",
+      "voice": "karmani",
+      "pada": "A",
+      "lakara": "lung",
+      "slot": "3pl",
+      "controller": "c",
+      "temporal_guard": "completed witnessed causal event earlier on utterance day3.2.110,no mang",
+      "readings": [
+        "avāhayiṣata",
+        "avāhiṣata"
+      ],
+      "paths": [
+        {
+          "branch": "O",
+          "word": "avāhayiṣata",
+          "actual_affix": "sic",
+          "augment": "i_val7.2.35",
+          "nic": "retained ay_NIC",
+          "ending": "secondary A ending retained",
+          "pre_it_final": "y",
+          "dh_option": "not2pl"
+        },
+        {
+          "branch": "C",
+          "word": "avāhiṣata",
+          "actual_affix": "sic",
+          "augment": "i_cv6.4.62",
+          "nic": "owned i_NIC lopa",
+          "ending": "secondary A ending retained",
+          "pre_it_final": "h",
+          "dh_option": "not2pl"
+        }
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "VAH1011159_PRAPANA_ONE_NIC_KARMANI_TRAVELLER",
+      "root_id": "1011159",
+      "sense": "prāpane physical carrying",
+      "preverbs": [],
+      "formation": "one hetumat ṇic",
+      "voice": "karmani",
+      "pada": "A",
+      "lakara": "lung",
+      "slot": "2sg",
+      "controller": "c",
+      "temporal_guard": "completed witnessed causal event earlier on utterance day3.2.110,no mang",
+      "readings": [
+        "avāhayiṣṭhāḥ",
+        "avāhiṣṭhāḥ"
+      ],
+      "paths": [
+        {
+          "branch": "O",
+          "word": "avāhayiṣṭhāḥ",
+          "actual_affix": "sic",
+          "augment": "i_val7.2.35",
+          "nic": "retained ay_NIC",
+          "ending": "secondary A ending retained",
+          "pre_it_final": "y",
+          "dh_option": "not2pl"
+        },
+        {
+          "branch": "C",
+          "word": "avāhiṣṭhāḥ",
+          "actual_affix": "sic",
+          "augment": "i_cv6.4.62",
+          "nic": "owned i_NIC lopa",
+          "ending": "secondary A ending retained",
+          "pre_it_final": "h",
+          "dh_option": "not2pl"
+        }
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "VAH1011159_PRAPANA_ONE_NIC_KARMANI_TRAVELLER",
+      "root_id": "1011159",
+      "sense": "prāpane physical carrying",
+      "preverbs": [],
+      "formation": "one hetumat ṇic",
+      "voice": "karmani",
+      "pada": "A",
+      "lakara": "lung",
+      "slot": "2du",
+      "controller": "c",
+      "temporal_guard": "completed witnessed causal event earlier on utterance day3.2.110,no mang",
+      "readings": [
+        "avāhayiṣāthām",
+        "avāhiṣāthām"
+      ],
+      "paths": [
+        {
+          "branch": "O",
+          "word": "avāhayiṣāthām",
+          "actual_affix": "sic",
+          "augment": "i_val7.2.35",
+          "nic": "retained ay_NIC",
+          "ending": "secondary A ending retained",
+          "pre_it_final": "y",
+          "dh_option": "not2pl"
+        },
+        {
+          "branch": "C",
+          "word": "avāhiṣāthām",
+          "actual_affix": "sic",
+          "augment": "i_cv6.4.62",
+          "nic": "owned i_NIC lopa",
+          "ending": "secondary A ending retained",
+          "pre_it_final": "h",
+          "dh_option": "not2pl"
+        }
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "VAH1011159_PRAPANA_ONE_NIC_KARMANI_TRAVELLER",
+      "root_id": "1011159",
+      "sense": "prāpane physical carrying",
+      "preverbs": [],
+      "formation": "one hetumat ṇic",
+      "voice": "karmani",
+      "pada": "A",
+      "lakara": "lung",
+      "slot": "2pl",
+      "controller": "c",
+      "temporal_guard": "completed witnessed causal event earlier on utterance day3.2.110,no mang",
+      "readings": [
+        "avāhayidhvam",
+        "avāhayiḍhvam",
+        "avāhidhvam",
+        "avāhiḍhvam"
+      ],
+      "paths": [
+        {
+          "branch": "O",
+          "word": "avāhayidhvam",
+          "actual_affix": "sic",
+          "augment": "i_val7.2.35",
+          "nic": "retained ay_NIC",
+          "ending": "secondary A ending retained",
+          "pre_it_final": "y",
+          "dh_option": "dh"
+        },
+        {
+          "branch": "O",
+          "word": "avāhayiḍhvam",
+          "actual_affix": "sic",
+          "augment": "i_val7.2.35",
+          "nic": "retained ay_NIC",
+          "ending": "secondary A ending retained",
+          "pre_it_final": "y",
+          "dh_option": "ḍh"
+        },
+        {
+          "branch": "C",
+          "word": "avāhidhvam",
+          "actual_affix": "sic",
+          "augment": "i_cv6.4.62",
+          "nic": "owned i_NIC lopa",
+          "ending": "secondary A ending retained",
+          "pre_it_final": "h",
+          "dh_option": "dh"
+        },
+        {
+          "branch": "C",
+          "word": "avāhiḍhvam",
+          "actual_affix": "sic",
+          "augment": "i_cv6.4.62",
+          "nic": "owned i_NIC lopa",
+          "ending": "secondary A ending retained",
+          "pre_it_final": "h",
+          "dh_option": "ḍh"
+        }
+      ],
+      "position_credit": 1,
+      "reading_credit": 4,
+      "evidence": "WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "VAH1011159_PRAPANA_ONE_NIC_KARMANI_TRAVELLER",
+      "root_id": "1011159",
+      "sense": "prāpane physical carrying",
+      "preverbs": [],
+      "formation": "one hetumat ṇic",
+      "voice": "karmani",
+      "pada": "A",
+      "lakara": "lung",
+      "slot": "1sg",
+      "controller": "c",
+      "temporal_guard": "completed witnessed causal event earlier on utterance day3.2.110,no mang",
+      "readings": [
+        "avāhayiṣi",
+        "avāhiṣi"
+      ],
+      "paths": [
+        {
+          "branch": "O",
+          "word": "avāhayiṣi",
+          "actual_affix": "sic",
+          "augment": "i_val7.2.35",
+          "nic": "retained ay_NIC",
+          "ending": "secondary A ending retained",
+          "pre_it_final": "y",
+          "dh_option": "not2pl"
+        },
+        {
+          "branch": "C",
+          "word": "avāhiṣi",
+          "actual_affix": "sic",
+          "augment": "i_cv6.4.62",
+          "nic": "owned i_NIC lopa",
+          "ending": "secondary A ending retained",
+          "pre_it_final": "h",
+          "dh_option": "not2pl"
+        }
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "VAH1011159_PRAPANA_ONE_NIC_KARMANI_TRAVELLER",
+      "root_id": "1011159",
+      "sense": "prāpane physical carrying",
+      "preverbs": [],
+      "formation": "one hetumat ṇic",
+      "voice": "karmani",
+      "pada": "A",
+      "lakara": "lung",
+      "slot": "1du",
+      "controller": "c",
+      "temporal_guard": "completed witnessed causal event earlier on utterance day3.2.110,no mang",
+      "readings": [
+        "avāhayiṣvahi",
+        "avāhiṣvahi"
+      ],
+      "paths": [
+        {
+          "branch": "O",
+          "word": "avāhayiṣvahi",
+          "actual_affix": "sic",
+          "augment": "i_val7.2.35",
+          "nic": "retained ay_NIC",
+          "ending": "secondary A ending retained",
+          "pre_it_final": "y",
+          "dh_option": "not2pl"
+        },
+        {
+          "branch": "C",
+          "word": "avāhiṣvahi",
+          "actual_affix": "sic",
+          "augment": "i_cv6.4.62",
+          "nic": "owned i_NIC lopa",
+          "ending": "secondary A ending retained",
+          "pre_it_final": "h",
+          "dh_option": "not2pl"
+        }
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "VAH1011159_PRAPANA_ONE_NIC_KARMANI_TRAVELLER",
+      "root_id": "1011159",
+      "sense": "prāpane physical carrying",
+      "preverbs": [],
+      "formation": "one hetumat ṇic",
+      "voice": "karmani",
+      "pada": "A",
+      "lakara": "lung",
+      "slot": "1pl",
+      "controller": "c",
+      "temporal_guard": "completed witnessed causal event earlier on utterance day3.2.110,no mang",
+      "readings": [
+        "avāhayiṣmahi",
+        "avāhiṣmahi"
+      ],
+      "paths": [
+        {
+          "branch": "O",
+          "word": "avāhayiṣmahi",
+          "actual_affix": "sic",
+          "augment": "i_val7.2.35",
+          "nic": "retained ay_NIC",
+          "ending": "secondary A ending retained",
+          "pre_it_final": "y",
+          "dh_option": "not2pl"
+        },
+        {
+          "branch": "C",
+          "word": "avāhiṣmahi",
+          "actual_affix": "sic",
+          "augment": "i_cv6.4.62",
+          "nic": "owned i_NIC lopa",
+          "ending": "secondary A ending retained",
+          "pre_it_final": "h",
+          "dh_option": "not2pl"
+        }
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "WRITTEN_COMPOSITION"
+    }
+  ],
+  "accounting": {
+    "new_finite_positions": 9,
+    "new_finite_readings": 19,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0,
+    "actual_cin_readings": 1,
+    "sic_O_readings": 9,
+    "sic_C_readings": 9,
+    "prior_selected_positions": 72,
+    "prior_selected_readings": 110,
+    "combined_selected_positions": 81,
+    "combined_selected_readings": 129,
+    "no_aggregate_recredit": true
+  },
+  "accepted": [
+    "positive witnessed same-day causal past then cli selection",
+    "actual ciṇ only before original ta3sg;other8 slots actual sic",
+    "caṅ kartari premise fails in karmaṇi,not an unproved universal causal prohibition",
+    "two independent lopa owners at3sg:ṇic-i lopa and ta whole-luk",
+    "sic2pl both O y and C h pre-it in iṇ,optional dh/ḍh after actual sic-s lopa"
+  ],
+  "excluded": [
+    "passive ṇyanta automatically caṅ",
+    "internal dual t mistaken for original ta ending",
+    "actual-ciṇ ta-luk transported to all sic endings",
+    "actual ciṇ plus a second ordinary/cinvat iṭ",
+    "copy bhid C final-d dental-only result to vah h",
+    "treat source-policy raw mismatch as an excluded whole grammatical request"
+  ],
+  "open": [
+    "remaining causal-vah lit9 request slots require auxiliary/source-policy and prior-coverage review;other root senses/preverbs/role/modal/accent domains",
+    "complete sic-only vah/bhid lut2pl requests;S2 raw82025 cause/repair,original authorities/edition lineage;other S1/S3-S7 source readings",
+    "full accent/Vedic/external junctions,C2-C5 lexical/formation/nominal/syntax/native integration;Claude-deferred execution stays separate"
+  ]
+}

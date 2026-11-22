@@ -227,3 +227,29 @@ no Sanskrit generators,grammar/proof execution,untouched predecessor/
 navigation/engine suites or certificate replay. Fetch/expected-parent guarded
 publication to existing review branch,no force/main merge. No agents/new
 automation,ETA,overall completion or continuous executed-hours claim.
+
+## PG458 · Causal-vah witnessed past,actual-ciṇ versus sic
+
+Read AGENTS,actual fetched remote ef685e7fd7afbb703fe2ab31a3e3ee7c09254f70
+PG457,current/latest STATE/newest handoff/navigation/backlog. Clean aligned
+tree;one repository sequential,no agents or observed other writer. Reviewed
+PG70/369 source/prose/factored contracts and prior words before credits.
+Supply witnessed completed same-day causal event,no māṅ,on retained physical
+traveller q=c frame. Actual cli selection first:karmaṇi fails caṅ's kartari
+premise,3sg original ta selects actual ciṇ,other8 sic.3sg avāhi has separate
+ṇic-i lopa and following ta-luk,no second iṭ. Eight sic O/C paths retain
+augment-origin/query distinction;late pre-iṭ y/h each admits2pl dh/ḍh after
+actual sic-s lopa,including the sic-only policy. Narrow tāsi requests/source
+mismatches stay Open;old bhid d-final control unchanged.
+
+Adds9 finite positions/19 readings;0 nominal positions/readings,source or
+separate construction units. Totals51,729 finite;4,336 nominal/5,007 readings.
+Selected causal-vah81keys129readings CLOSED,zero aggregate recredit. Liṭ9
+slots remain actual local frontier;S1–S7/C2–C5/native/semantic/accent/Vedic
+and narrow full luṭ obligations remain. Frozen/PG335 -9/-12/PG357–363 CLOSED
+and inherited corrections preserved. Full PG14 operator/history and typed
+zero square written. Necessary Python3.12 source/document/count actual result/
+attempts in packet;no generators,grammar/proof execution,untouched old/
+navigation/engine suites or replay. Fetch/expected-parent guarded existing
+review-branch publication,no force/main merge. No new automation,ETA,
+overall completion or elapsed-time-as-executed-hours claim.

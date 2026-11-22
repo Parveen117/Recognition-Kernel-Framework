@@ -1,6 +1,6 @@
-# Written-development backlog at PG457
+# Written-development backlog at PG458
 
-Monty · 22 November 2026 · reviewed parent 10f33add5c24d2cf4000511baf38fe8dec162b70.
+Monty · 22 November 2026 · reviewed parent ef685e7fd7afbb703fe2ab31a3e3ee7c09254f70.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -405,3 +405,7 @@ PG456 completes [causal vah luṭ and owned tāsi endings](vah_causal_passive_lu
 ### C2/C3/C5 · Vah blessing,h-final late query at PG457
 
 PG457 completes [causal vah blessing and h-final dh option](vah_causal_blessing_and_h_final_dh_option/README.md):9 new finite positions/20 readings,0 nominal/source/separate construction units. O pre-iṭ y and C post-lopa h both belong to selected iṇ,so each admits2pl dh/ḍh;old bhid d-final C negative control preserved. Totals51,720 finite;4,336 nominal/5,007 readings. Selected causal-vah72keys110readings CLOSED,no aggregate credit;liṭ/luṅ/source/wider gates Open. Earlier three-label Open references superseded only for this selected blessing. Two labels liṭ/luṅ and all actual textual/native contracts remain Open;h membership is a positive local premise,not an exclusion of a textual gap. Project written completion remains **OPEN**.
+
+### C2/C3/C5 · Vah actual-ciṇ/sic luṅ at PG458
+
+PG458 completes [causal vah actual-ciṇ/sic aorist](vah_causal_aorist_actual_cin_and_sic_owners/README.md):9 new finite positions/19 readings,0 nominal/source/separate construction units. Karmaṇi blocks kartari-caṅ;3sg avāhi has separate ṇic-lopa/ta-luk,other8 sic O/C;2pl y/h both admit dh/ḍh. Totals51,729 finite;4,336 nominal/5,007 readings. Selected causal-vah81keys129readings CLOSED,no aggregate credit;liṭ/source/wider gates Open. Earlier two-label Open references superseded only for this selected luṅ;liṭ9 slots still need source/prior review. Actual sic-s lopa does not resolve narrow non-sic luṭ whole requests. Project written completion remains **OPEN**.
