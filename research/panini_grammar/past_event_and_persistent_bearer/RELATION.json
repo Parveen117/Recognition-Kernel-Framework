@@ -1,0 +1,136 @@
+{
+  "stage": "PG467",
+  "domain": {
+    "root_record": {
+      "i": "1010001",
+      "baseindex": "01.0001",
+      "dhatu": "भू",
+      "aupadeshik": "भू",
+      "gana": "1",
+      "pada": "P",
+      "settva": "S",
+      "karma": "A",
+      "artha": "सत्तायाम्",
+      "artha_english": "to exist, to become, to be, to happen",
+      "tags": "उदात्तोपदेशः,mspsetu,chittoor3,common",
+      "dhaturoopnandini": "1",
+      "sk": "1",
+      "lsk_sutra": "372",
+      "sk_sutra": "2165",
+      "artha_hindi": "होना",
+      "upasargas": [
+        {
+          "name": "अधि",
+          "artha_hindi": "सत्ता चलाना"
+        },
+        {
+          "name": "अनु",
+          "artha_hindi": "समझना, अनुभव करना"
+        },
+        {
+          "name": "अभि",
+          "artha_hindi": "जीतना, पीडा देना"
+        },
+        {
+          "name": "उद्",
+          "artha_hindi": "उत्पन्न होना"
+        },
+        {
+          "name": "परा",
+          "artha_hindi": "पराभव करना"
+        },
+        {
+          "name": "प्र",
+          "artha_hindi": "प्रकट होना, निकलना"
+        },
+        {
+          "name": "प्रति",
+          "artha_hindi": "बदले में देना"
+        },
+        {
+          "name": "परि",
+          "artha_hindi": "अपमान करना, तिरस्कार करना, घेरना"
+        },
+        {
+          "name": "वि",
+          "artha_hindi": "आश्रय देना, पालन करना"
+        },
+        {
+          "name": "वि + अति",
+          "artha_hindi": "परस्पर मित्र होना"
+        },
+        {
+          "name": "सम्",
+          "artha_hindi": "उत्पन्न होना, हो सकना"
+        }
+      ],
+      "antarganas": "",
+      "dhaturoopnandini_note": "\"सत्तायां भवति, प्राप्तौ णिचि भावयते तङि । भवते शपि तत्रैव, भावयत्यवकल्कने ॥ \" (श्लो. 3) इति देवः ।"
+    },
+    "preverbs": [],
+    "formation": "simple",
+    "voice": "kartari",
+    "pada": "P",
+    "slot": "source-supplied third singular",
+    "referent": "x supplied non-speaker/non-addressee jar entity",
+    "event": "e contextual origination-or-like activity with bearer(e)=x",
+    "focus": "positively supplied GENERAL_PAST;ordinary affirmative,no special override",
+    "readout": "source-supplied ghaṭo’bhūt,not a new complete morphological derivation"
+  },
+  "sorts": [
+    "Entity",
+    "Event",
+    "ExternalTime"
+  ],
+  "controls": [
+    {
+      "id": "PERSIST",
+      "event": "supplied origination event ended before utterance",
+      "bearer": "exists now",
+      "past_event": true,
+      "outcome": "Accepted_past_interface"
+    },
+    {
+      "id": "CEASED",
+      "event": "supplied origination event ended before utterance",
+      "bearer": "no longer exists",
+      "past_event": true,
+      "outcome": "Accepted_past_interface"
+    },
+    {
+      "id": "LOSS_ONLY",
+      "event": "origination event timing unknown",
+      "bearer": "no longer exists",
+      "past_event": null,
+      "outcome": "Open_event_time"
+    },
+    {
+      "id": "EXISTENCE_ONLY",
+      "event": "origination event timing unknown",
+      "bearer": "exists now",
+      "past_event": null,
+      "outcome": "Open_event_time"
+    },
+    {
+      "id": "ONGOING",
+      "event": "selected event positively ongoing now",
+      "bearer": "exists now",
+      "past_event": false,
+      "outcome": "Excluded_local_past"
+    },
+    {
+      "id": "UNBOUND",
+      "event": "selected past occurrence not bound to bearer",
+      "bearer": "exists now",
+      "past_event": null,
+      "outcome": "Open_event_binding"
+    }
+  ],
+  "new_semantic_constructions": 1,
+  "new_semantic_readouts": 6,
+  "open": [
+    "recognition of actual event/participant binding,lexical sense and utterance time;source metaphysical analysis versus other traditions/print lineage",
+    "ongoing/existence-state interpretations,other events and special tense/prohibitive/pura/sma/paroksha/conditional/Vedic domains require independent contracts",
+    "S1-S7 textual obligations and C2-C5 genuine unconstructed lexical/semantic/native domains;execution separately Claude-deferred"
+  ]
+}

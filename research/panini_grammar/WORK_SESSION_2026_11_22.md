@@ -440,3 +440,11 @@ Fetched aligned parent 9e8f8a213cb8006affb510a857a21990c951d3c7,clean tree;no co
 PG466 constructs [past vivakṣā/calendar separation](past_vivaksha_and_calendar_separation/README.md):1 semantic adapter/7 written readouts,1 raw Bhūṣaṇasāra23 source observation,0 finite/nominal/nonfinite word credits.General-past focus admits luṅ without a today-only claim;selected anadyatana-past focus separately needs PG348 day guard for laṅ.Unknown focus stays Open;raw miscitations remain preserved.Totals51,738 finite;4,480 nominal/5,154 readings.S3 transmission and wider gates Open.
 
 New raw source bhushanasara/data.txt at reused5744762 commit replaces rewritten-web summaries as evidence.Direct Wikisource fetch403;not consumed as raw.Full PG14 typed lift,source-number errors/nonoperative channels and unknown-focus Open retained.PG335/PG357–363/frozen predecessors preserved.Necessary Python3.12 checks only;actual result in packet.No execution/generators/old suites/replay.Fetch before existing-review-branch publication,no force/main merge.No automation,ETA,continuous-hours or overall closure claim.
+
+## PG467 · Event-pastness/bearer persistence
+
+Fetched aligned parent d3d6d2cea921f9fc458f2a120ef36a09881452d8,clean tree,no other writer observed.One repository sequentially,no agents.
+
+PG467 constructs [past event/persistent bearer bridge](past_event_and_persistent_bearer/README.md):1 semantic adapter/6 written readouts,0 finite/nominal/nonfinite/source credits.Source-compatible bhū1010001 origination event can be past while jar bearer persists;entity absence alone cannot supply event timing/binding.Unknown evidence stays Open.PG466 record23 reused without source recredit.Totals51,738 finite;4,480 nominal/5,154 readings.Wider contracts/source gates Open.
+
+Source record23/word already PG466,0 recredit.Exact bhū root/source/file/commit pins retained.Full PG14 operator/history typed zero square written.PG335/PG357–363 CLOSED/frozen predecessors/corrections preserved.Necessary explicitPython3.12 changed-document/source/count result/attempts in packet.No Sanskrit generators,grammar execution,old/navigation/engine suites or replay.Fetch before publication,existing review branch only,no force/main merge.No new automation,continuous-hours,ETA or overall closure claim.Other C2-C5/S1-S7/native tasks remain actual Open.

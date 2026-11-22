@@ -1,6 +1,6 @@
-# Written-development backlog at PG466
+# Written-development backlog at PG467
 
-Monty · 22 November 2026 · reviewed parent 9e8f8a213cb8006affb510a857a21990c951d3c7.
+Monty · 22 November 2026 · reviewed parent d3d6d2cea921f9fc458f2a120ef36a09881452d8.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -441,3 +441,7 @@ PG465 completes [causal vah outer-agent ktavatu three genders](vah_causal_ktavat
 ### C4/C5 · Past focus versus calendar at PG466
 
 PG466 constructs [past vivakṣā/calendar separation](past_vivaksha_and_calendar_separation/README.md):1 semantic adapter/7 written readouts,1 raw Bhūṣaṇasāra23 source observation,0 finite/nominal/nonfinite word credits.General-past focus admits luṅ without a today-only claim;selected anadyatana-past focus separately needs PG348 day guard for laṅ.Unknown focus stays Open;raw miscitations remain preserved.Totals51,738 finite;4,480 nominal/5,154 readings.S3 transmission and wider gates Open. This closes only the supplied ordinary affirmative focus contract,not universal parsing,all temporal contexts or S3 source transmission.Project written completion remains **OPEN**.
+
+### C4/C5 · Event versus bearer at PG467
+
+PG467 constructs [past event/persistent bearer bridge](past_event_and_persistent_bearer/README.md):1 semantic adapter/6 written readouts,0 finite/nominal/nonfinite/source credits.Source-compatible bhū1010001 origination event can be past while jar bearer persists;entity absence alone cannot supply event timing/binding.Unknown evidence stays Open.PG466 record23 reused without source recredit.Totals51,738 finite;4,480 nominal/5,154 readings.Wider contracts/source gates Open. Only the supplied bhū/utpattyādi bridge closes;general lexical/aspect/utterance recognition and actual textual obligations remain Open.Project written completion remains **OPEN**.

@@ -1,0 +1,143 @@
+{
+  "upstream_pins": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "bhushanasara/data.txt",
+      "local_snapshot_name": "bhushanasara.txt",
+      "bytes": 347484,
+      "sha256": "648675449f0671264dcdb20a41aaa98099ee6521d880524af2862f939edc784c",
+      "git_blob_sha": "fca3af61390e75893fb3ce0d5089aa32d7006636"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "dhatu/data.txt",
+      "local_snapshot_name": "dhatu_data.txt",
+      "bytes": 2505028,
+      "sha256": "e8c0e929294c4ab68455b461ee81234e7a0febac1b72e6873ea832354a28b641",
+      "git_blob_sha": "b5d0370790598ca969db659e7833ccf0df98a9a4",
+      "historical_project_clean_blob_sha": "d39a41a998199e60e1c69740541dd78f1464e578",
+      "blob_policy": "Actual upstream GitHub blob/raw source bytes;historical project-clean LF object retained separately. Exact full-byte SHA256/length and source commit unchanged."
+    }
+  ],
+  "root_record": {
+    "i": "1010001",
+    "baseindex": "01.0001",
+    "dhatu": "भू",
+    "aupadeshik": "भू",
+    "gana": "1",
+    "pada": "P",
+    "settva": "S",
+    "karma": "A",
+    "artha": "सत्तायाम्",
+    "artha_english": "to exist, to become, to be, to happen",
+    "tags": "उदात्तोपदेशः,mspsetu,chittoor3,common",
+    "dhaturoopnandini": "1",
+    "sk": "1",
+    "lsk_sutra": "372",
+    "sk_sutra": "2165",
+    "artha_hindi": "होना",
+    "upasargas": [
+      {
+        "name": "अधि",
+        "artha_hindi": "सत्ता चलाना"
+      },
+      {
+        "name": "अनु",
+        "artha_hindi": "समझना, अनुभव करना"
+      },
+      {
+        "name": "अभि",
+        "artha_hindi": "जीतना, पीडा देना"
+      },
+      {
+        "name": "उद्",
+        "artha_hindi": "उत्पन्न होना"
+      },
+      {
+        "name": "परा",
+        "artha_hindi": "पराभव करना"
+      },
+      {
+        "name": "प्र",
+        "artha_hindi": "प्रकट होना, निकलना"
+      },
+      {
+        "name": "प्रति",
+        "artha_hindi": "बदले में देना"
+      },
+      {
+        "name": "परि",
+        "artha_hindi": "अपमान करना, तिरस्कार करना, घेरना"
+      },
+      {
+        "name": "वि",
+        "artha_hindi": "आश्रय देना, पालन करना"
+      },
+      {
+        "name": "वि + अति",
+        "artha_hindi": "परस्पर मित्र होना"
+      },
+      {
+        "name": "सम्",
+        "artha_hindi": "उत्पन्न होना, हो सकना"
+      }
+    ],
+    "antarganas": "",
+    "dhaturoopnandini_note": "\"सत्तायां भवति, प्राप्तौ णिचि भावयते तङि । भवते शपि तत्रैव, भावयत्यवकल्कने ॥ \" (श्लो. 3) इति देवः ।"
+  },
+  "record_address": {
+    "path": "research/panini_grammar/past_vivaksha_and_calendar_separation/SOURCE_RECORD.json",
+    "num": 23,
+    "field": "vyakhyaa",
+    "segment_start": "लुङर्थमाह",
+    "source_word": "घटोऽभूत्",
+    "credit": "PG466 addressed source reused,0 new source observation/word readings"
+  },
+  "dependency_pins": [
+    {
+      "commit": "d3d6d2cea921f9fc458f2a120ef36a09881452d8",
+      "path": "research/panini_grammar/past_vivaksha_and_calendar_separation/STATE.json",
+      "bytes": 5121,
+      "sha256": "1341a4cebc2b12433200b2823b681cd32835a1bb45e507255f44f8398b2587cd",
+      "git_blob_sha": "d7ccf0c2ef775512c7264f5990170aad93a37699"
+    },
+    {
+      "commit": "d3d6d2cea921f9fc458f2a120ef36a09881452d8",
+      "path": "research/panini_grammar/past_vivaksha_and_calendar_separation/SOURCE_RECORD.json",
+      "bytes": 8348,
+      "sha256": "82bf1d319678c90ea3cbb3f14d396432a17add41fe5eaac1255b40a0416c70b1",
+      "git_blob_sha": "c28ef2426a2b0775c55c4f181dd224a292f57c1b"
+    },
+    {
+      "commit": "d3d6d2cea921f9fc458f2a120ef36a09881452d8",
+      "path": "research/panini_grammar/past_vivaksha_and_calendar_separation/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "bytes": 7654,
+      "sha256": "ec3886ead865eb67cba0b2602100d3ae1235cc80c1472da84a1abf25327f4299",
+      "git_blob_sha": "e9bf983e8198f9f85f4dd9502d53997a60992a02"
+    },
+    {
+      "commit": "d3d6d2cea921f9fc458f2a120ef36a09881452d8",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    },
+    {
+      "commit": "d3d6d2cea921f9fc458f2a120ef36a09881452d8",
+      "path": "research/panini_grammar/grammar_construction/STATE_AND_COMPOSITION.md",
+      "bytes": 8210,
+      "sha256": "b9164206d5389f91a77bbd90b523dbce40a79e2dbd7983bc5adbad45a7539b99",
+      "git_blob_sha": "593f548f92c6398508db1fa943352fbe23cb51c9"
+    },
+    {
+      "commit": "d3d6d2cea921f9fc458f2a120ef36a09881452d8",
+      "path": "research/panini_grammar/bhid_future_conditional_and_prior_coverage/STATE.json",
+      "bytes": 7385,
+      "sha256": "3bee6e936fcace399ecb40a632031c9a57196f0e40e19296526b48bf6db2c1fc",
+      "git_blob_sha": "dcbd3f67d2fdeb17c65552845bf3ab586274122e"
+    }
+  ],
+  "source_policy": "Reuse exact raw record23 event-relative account;do not replace it by destruction of the entity.No independent print/whole-paradigm/source-observation claim."
+}

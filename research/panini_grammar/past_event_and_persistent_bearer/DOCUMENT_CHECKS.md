@@ -1,0 +1,1 @@
+Explicit Python3.12 assertion;necessary exact source/root/dependency pins,six literal typed controls,zero position/source credits,unchanged totals/corrections,typed proof and changed links/Unicode/confinement only.No grammar execution,generators,old suites or replay.Result/attempts recorded.

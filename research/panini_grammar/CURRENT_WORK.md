@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG466
+# Pāṇini grammar · current written coverage at PG467
+
+PG467 constructs [past event/persistent bearer bridge](past_event_and_persistent_bearer/README.md):1 semantic adapter/6 written readouts,0 finite/nominal/nonfinite/source credits.Source-compatible bhū1010001 origination event can be past while jar bearer persists;entity absence alone cannot supply event timing/binding.Unknown evidence stays Open.PG466 record23 reused without source recredit.Totals51,738 finite;4,480 nominal/5,154 readings.Wider contracts/source gates Open.
 
 PG466 constructs [past vivakṣā/calendar separation](past_vivaksha_and_calendar_separation/README.md):1 semantic adapter/7 written readouts,1 raw Bhūṣaṇasāra23 source observation,0 finite/nominal/nonfinite word credits.General-past focus admits luṅ without a today-only claim;selected anadyatana-past focus separately needs PG348 day guard for laṅ.Unknown focus stays Open;raw miscitations remain preserved.Totals51,738 finite;4,480 nominal/5,154 readings.S3 transmission and wider gates Open.
 
@@ -195,7 +197,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG466 add **10,405 finite positions**, taking the written total to **51,738**. The new lexical and compound work gives 4,480 nominal positions with 5,154 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG467 add **10,405 finite positions**, taking the written total to **51,738**. The new lexical and compound work gives 4,480 nominal positions with 5,154 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
