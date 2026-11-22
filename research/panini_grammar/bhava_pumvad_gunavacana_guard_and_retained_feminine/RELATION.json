@@ -1,0 +1,76 @@
+{
+  "stage": "PG481",
+  "rows": [
+    {
+      "input": "paṭvī",
+      "lexical_masculine": "paṭu",
+      "actual_outer": "tva",
+      "guard": "K63035 supplied guṇavacana",
+      "transport": "restore full paṭu,retain female referent/ṅīṣ history",
+      "output_base": "paṭutva",
+      "output_gender": "n"
+    },
+    {
+      "input": "paṭvī",
+      "lexical_masculine": "paṭu",
+      "actual_outer": "tal",
+      "guard": "K63035 supplied guṇavacana",
+      "transport": "restore full paṭu,retain female referent/ṅīṣ history",
+      "output_base": "paṭutā",
+      "output_gender": "f"
+    },
+    {
+      "input": "kaṭhī",
+      "actual_outer": "tva",
+      "guard": "K63035 non-guṇavacana control",
+      "transport": "retain kaṭhī;this puṃvad edge false",
+      "output_base": "kaṭhītva",
+      "output_gender": "n"
+    },
+    {
+      "input": "kaṭhī",
+      "actual_outer": "tal",
+      "guard": "K63035 non-guṇavacana control",
+      "transport": "retain kaṭhī;this puṃvad edge false",
+      "output_base": "kaṭhītā",
+      "output_gender": "f"
+    }
+  ],
+  "vasala_gate": {
+    "input": [
+      "vācālā",
+      "vācāṭā"
+    ],
+    "retained_derivation": "PG478 taddhita ālac/āṭac plus feminine ṭāp",
+    "source_policy": "Bāla63035 operation-specific class",
+    "local_edge": "Excluded_taddhitanta_not_gunavacana_under_this_policy",
+    "whole_request": "Open_other_licensed_analysis"
+  },
+  "controls": [
+    {
+      "id": "STRIP_I_ONLY",
+      "outcome": "Excluded_wrong_paṭv_stem"
+    },
+    {
+      "id": "ANY_QUALITY_WORD",
+      "outcome": "Excluded_wrong_consumer_definition"
+    },
+    {
+      "id": "ARBITRARY_PROPERTY",
+      "outcome": "Open_bhava_meaning"
+    },
+    {
+      "id": "UNSUPPLIED_FEMININE_HISTORY",
+      "outcome": "Open_lexical_input"
+    },
+    {
+      "id": "ONE_FAILED_EDGE_EXCLUDES_WORD",
+      "outcome": "Excluded_scope_error"
+    }
+  ],
+  "open": [
+    "PG479 vācālā/vācāṭā female-input whole requests remain Open:under Bāla strict tvatal class,taddhitānta fails this particular puṃvad edge;no whole-word exclusion or invented long-ā spelling.",
+    "Other commentary-specific class readings,independent printed/original Bhāṣya collation,general-neuter reanalysis,feminine-input lexical classes and full inflection/attestation remain Open.",
+    "Actual S1-S7/C2-C5/native written inventories and Claude-deferred execution remain separate;old abstract and human case panels closed only on their stated inputs."
+  ]
+}

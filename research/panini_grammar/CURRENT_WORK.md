@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG480
+# Pāṇini grammar · current written coverage at PG481
+
+PG481 constructs [bhāva puṃvad class guard/feminine retention](bhava_pumvad_gunavacana_guard_and_retained_feminine/README.md):1morphology adapter/4base readouts and1source-class observation;0finite/nominal credits.K63035 paṭvī restores full paṭu before tva/tal,kaṭhī retains ī.Bāla explicitly excludes taddhitānta in this consumer class,so PG479 vācālā/vācāṭā fails that local edge;whole requests remain Open.Policies/source histories retained.Totals51,819finite;4,670nominal/5,348readings.
 
 PG480 locates [Prāuḍha undamaged named tiras report](tiras_praudhamanorama_named_report/README.md):1new source observation,0finite/nominal/construction credits.Raw14072 clearly separates default gati continuation,kecit removal citing parābhava tiraskāra,and iti Mādhava attribution.OldPG376 words/policies0recredit;not original Mādhava or independent lineage.Noun compound/antardhi licence not inferred.Totals51,819finite;4,670nominal/5,348readings;wider gates Open.
 

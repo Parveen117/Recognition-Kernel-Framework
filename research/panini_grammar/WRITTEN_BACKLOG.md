@@ -1,6 +1,6 @@
-# Written-development backlog at PG480
+# Written-development backlog at PG481
 
-Monty · 22 November 2026 · reviewed parent eb30d8540312feda838e69d2ec41460c99b119ed.
+Monty · 22 November 2026 · reviewed parent efd74fa008a038eddab19752faa67adff16dd643.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -497,3 +497,7 @@ PG479 completes [vācāla/vācāṭa designation-ground tva/tal abstracts](vacal
 ### S7 · Undamaged Prāuḍha named-report witness at PG480
 
 PG480 locates [Prāuḍha undamaged named tiras report](tiras_praudhamanorama_named_report/README.md):1new source observation,0finite/nominal/construction credits.Raw14072 clearly separates default gati continuation,kecit removal citing parābhava tiraskāra,and iti Mādhava attribution.OldPG376 words/policies0recredit;not original Mādhava or independent lineage.Noun compound/antardhi licence not inferred.Totals51,819finite;4,670nominal/5,348readings;wider gates Open. Electronic named-report availability locally CLOSED;original Mādhava work/passage,printed Tattva glyphs,independent lineage/Kāśikā authorial reconciliation and full parābhava noun derivation remain concrete Open tasks.No broader policy or compound admission is inferred.Project written completion remains **OPEN**.
+
+### C4/S7 · Operation-specific feminine abstract transport at PG481
+
+PG481 constructs [bhāva puṃvad class guard/feminine retention](bhava_pumvad_gunavacana_guard_and_retained_feminine/README.md):1morphology adapter/4base readouts and1source-class observation;0finite/nominal credits.K63035 paṭvī restores full paṭu before tva/tal,kaṭhī retains ī.Bāla explicitly excludes taddhitānta in this consumer class,so PG479 vācālā/vācāṭā fails that local edge;whole requests remain Open.Policies/source histories retained.Totals51,819finite;4,670nominal/5,348readings. Selected paṭvī/kaṭhī adapter closes;PG479 female taddhita-input whole requests remain Open with Bāla local edge now specifically blocked.Other source-class/retention/general-neuter analyses require their own positive evidence.No new nominal panels or global female-input closure.Project written completion remains **OPEN**.
