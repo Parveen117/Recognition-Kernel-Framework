@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG465
+# Pāṇini grammar · current written coverage at PG466
+
+PG466 constructs [past vivakṣā/calendar separation](past_vivaksha_and_calendar_separation/README.md):1 semantic adapter/7 written readouts,1 raw Bhūṣaṇasāra23 source observation,0 finite/nominal/nonfinite word credits.General-past focus admits luṅ without a today-only claim;selected anadyatana-past focus separately needs PG348 day guard for laṅ.Unknown focus stays Open;raw miscitations remain preserved.Totals51,738 finite;4,480 nominal/5,154 readings.S3 transmission and wider gates Open.
 
 PG465 completes [causal vah outer-agent ktavatu three genders](vah_causal_ktavatu_causer_and_three_gender_panels/README.md):72 new nominal positions/75 readings(24m/24,24f/24,24n/27),0 finite/source/separate construction credits.Outer E1kartṛ a—not b/c—is referent;ugit/length-before-num,ṅīp versus neuter-ending ī,single neuter num and3pause-doublet keys retain owners.Totals51,738 finite;4,480 nominal/5,154 readings.PG464–465 selected niṣṭhā144keys147readings CLOSED,72old rows0credits;source/other frames/wider gates Open.
 
@@ -193,7 +195,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG465 add **10,405 finite positions**, taking the written total to **51,738**. The new lexical and compound work gives 4,480 nominal positions with 5,154 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG466 add **10,405 finite positions**, taking the written total to **51,738**. The new lexical and compound work gives 4,480 nominal positions with 5,154 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

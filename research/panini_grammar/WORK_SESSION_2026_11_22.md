@@ -432,3 +432,11 @@ navigation/engine suites or replay.Fetch/expected-parent existing-review
 publication,no force/main merge.No automation,continuous-hours/ETA or global
 completion claim.C2-C5/S1-S7 source/native/semantic tasks remain genuine Open
 and separate Claude-deferred execution remains unrun.
+
+## PG466 · Source-grounded past focus
+
+Fetched aligned parent 9e8f8a213cb8006affb510a857a21990c951d3c7,clean tree;no concurrent writer observed.One repository,no agents.
+
+PG466 constructs [past vivakṣā/calendar separation](past_vivaksha_and_calendar_separation/README.md):1 semantic adapter/7 written readouts,1 raw Bhūṣaṇasāra23 source observation,0 finite/nominal/nonfinite word credits.General-past focus admits luṅ without a today-only claim;selected anadyatana-past focus separately needs PG348 day guard for laṅ.Unknown focus stays Open;raw miscitations remain preserved.Totals51,738 finite;4,480 nominal/5,154 readings.S3 transmission and wider gates Open.
+
+New raw source bhushanasara/data.txt at reused5744762 commit replaces rewritten-web summaries as evidence.Direct Wikisource fetch403;not consumed as raw.Full PG14 typed lift,source-number errors/nonoperative channels and unknown-focus Open retained.PG335/PG357–363/frozen predecessors preserved.Necessary Python3.12 checks only;actual result in packet.No execution/generators/old suites/replay.Fetch before existing-review-branch publication,no force/main merge.No automation,ETA,continuous-hours or overall closure claim.

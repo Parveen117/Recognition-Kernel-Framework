@@ -1,6 +1,6 @@
-# Written-development backlog at PG465
+# Written-development backlog at PG466
 
-Monty · 22 November 2026 · reviewed parent 122575bb173aaa637d8ad8c7fdc2c658bf9d66c1.
+Monty · 22 November 2026 · reviewed parent 9e8f8a213cb8006affb510a857a21990c951d3c7.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -437,3 +437,7 @@ PG464 completes [causal vah kta timed-lopa and three genders](vah_causal_kta_tim
 ### C2/C4/C5 · Selected causal-vah niṣṭhā closure at PG465
 
 PG465 completes [causal vah outer-agent ktavatu three genders](vah_causal_ktavatu_causer_and_three_gender_panels/README.md):72 new nominal positions/75 readings(24m/24,24f/24,24n/27),0 finite/source/separate construction credits.Outer E1kartṛ a—not b/c—is referent;ugit/length-before-num,ṅīp versus neuter-ending ī,single neuter num and3pause-doublet keys retain owners.Totals51,738 finite;4,480 nominal/5,154 readings.PG464–465 selected niṣṭhā144keys147readings CLOSED,72old rows0credits;source/other frames/wider gates Open. Earlier agent-ktavatu Open references are superseded only on this supplied unprefixed/past-E1/outer-a/three-gender ordinary profile.Other lexical/semantic/role/accent/source/native contracts remain genuine and independent textual attestations remain Open.Project written completion remains **OPEN**.
+
+### C4/C5 · Past focus versus calendar at PG466
+
+PG466 constructs [past vivakṣā/calendar separation](past_vivaksha_and_calendar_separation/README.md):1 semantic adapter/7 written readouts,1 raw Bhūṣaṇasāra23 source observation,0 finite/nominal/nonfinite word credits.General-past focus admits luṅ without a today-only claim;selected anadyatana-past focus separately needs PG348 day guard for laṅ.Unknown focus stays Open;raw miscitations remain preserved.Totals51,738 finite;4,480 nominal/5,154 readings.S3 transmission and wider gates Open. This closes only the supplied ordinary affirmative focus contract,not universal parsing,all temporal contexts or S3 source transmission.Project written completion remains **OPEN**.

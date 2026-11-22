@@ -1,0 +1,1 @@
+Explicit Python3.12 assertion;changed source/dependency bytes,exact record,seven literal semantic controls,count/typed-square/link/Unicode/confinement only.No Sanskrit generator,grammar execution,old suites or replay.Result/runtime/attempts recorded.

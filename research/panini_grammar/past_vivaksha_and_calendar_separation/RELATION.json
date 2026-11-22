@@ -1,0 +1,79 @@
+{
+  "stage": "PG466",
+  "domain": {
+    "root_id": "1070002",
+    "root_address": "07.0002",
+    "sense": "vidāraṇa",
+    "preverbs": [],
+    "formation": "simple",
+    "voice": "kartari",
+    "pada": "independently supplied P or actor-result A,unchanged",
+    "special_contexts": "ordinary affirmative,no mang/sma/pura/special tense override",
+    "event": "positively supplied completed past event;focus is independent input"
+  },
+  "controls": [
+    {
+      "id": "Y_GENERAL",
+      "calendar": "yesterday-only past",
+      "focus": "GENERAL_PAST",
+      "past": true,
+      "day_guard": true,
+      "outcome": "Accepted_lung"
+    },
+    {
+      "id": "Y_SPECIFIC",
+      "calendar": "yesterday-only past",
+      "focus": "ANADYATANA_PAST",
+      "past": true,
+      "day_guard": true,
+      "outcome": "Accepted_lang"
+    },
+    {
+      "id": "T_GENERAL",
+      "calendar": "today-only past",
+      "focus": "GENERAL_PAST",
+      "past": true,
+      "day_guard": false,
+      "outcome": "Accepted_lung"
+    },
+    {
+      "id": "M_GENERAL",
+      "calendar": "mixed today/yesterday past",
+      "focus": "GENERAL_PAST",
+      "past": true,
+      "day_guard": false,
+      "outcome": "Accepted_lung"
+    },
+    {
+      "id": "M_SPECIFIC",
+      "calendar": "mixed today/yesterday past",
+      "focus": "ANADYATANA_PAST",
+      "past": true,
+      "day_guard": false,
+      "outcome": "Excluded_local_lang"
+    },
+    {
+      "id": "Y_UNKNOWN",
+      "calendar": "yesterday-only past",
+      "focus": "UNKNOWN",
+      "past": true,
+      "day_guard": true,
+      "outcome": "Open_focus"
+    },
+    {
+      "id": "NOT_PAST",
+      "calendar": "known future",
+      "focus": "GENERAL_PAST",
+      "past": false,
+      "day_guard": false,
+      "outcome": "Excluded_local_lung"
+    }
+  ],
+  "semantic_constructions": 1,
+  "semantic_readouts": 7,
+  "open": [
+    "actual focus recognition/day boundary and lexical semantic parsing;special upapada/prohibitive/sma/pura/paroksha/conditional/Vedic domains need their own guards",
+    "S3 rawK32111 transmission cause/print/lineage and Bhusanasara miscitation/editorial history;no silent source repair",
+    "S1-S7 actual textual obligations and C2-C5 genuine unconstructed grammar/native contracts;Claude-deferred execution separate"
+  ]
+}
