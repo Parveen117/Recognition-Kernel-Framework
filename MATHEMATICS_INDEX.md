@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG482 completes [hastinī collective puṃvad/visibility and neuter cases](research/panini_grammar/hastini_collective_pumvad_visibility_and_neuter_cases/README.md):23new nominal positions/24readings,0finite/source/separate construction credits.24selected keys/25readings withhold old hāstikam nom.sg.Puṃvad hastin precedes operative n-final ṭi-lopa;ordinary ī-lopa not interchangeable under source visibility defence.Inner female set E/collective G and deleted-inner/outer-num/nuṭ nasals remain distinct.Totals51,819finite;4,693nominal/5,372readings;wider gates Open.
+
 PG481 constructs [bhāva puṃvad class guard/feminine retention](research/panini_grammar/bhava_pumvad_gunavacana_guard_and_retained_feminine/README.md):1morphology adapter/4base readouts and1source-class observation;0finite/nominal credits.K63035 paṭvī restores full paṭu before tva/tal,kaṭhī retains ī.Bāla explicitly excludes taddhitānta in this consumer class,so PG479 vācālā/vācāṭā fails that local edge;whole requests remain Open.Policies/source histories retained.Totals51,819finite;4,670nominal/5,348readings.
 
 PG480 locates [Prāuḍha undamaged named tiras report](research/panini_grammar/tiras_praudhamanorama_named_report/README.md):1new source observation,0finite/nominal/construction credits.Raw14072 clearly separates default gati continuation,kecit removal citing parābhava tiraskāra,and iti Mādhava attribution.OldPG376 words/policies0recredit;not original Mādhava or independent lineage.Noun compound/antardhi licence not inferred.Totals51,819finite;4,670nominal/5,348readings;wider gates Open.
@@ -220,7 +222,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG481 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG482 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 

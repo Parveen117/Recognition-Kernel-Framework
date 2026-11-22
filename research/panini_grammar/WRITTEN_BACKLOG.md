@@ -1,6 +1,6 @@
-# Written-development backlog at PG481
+# Written-development backlog at PG482
 
-Monty · 22 November 2026 · reviewed parent efd74fa008a038eddab19752faa67adff16dd643.
+Monty · 22 November 2026 · reviewed parent ac924da98b015e2dc9271c6cd14dc054db245f83.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -501,3 +501,7 @@ PG480 locates [Prāuḍha undamaged named tiras report](tiras_praudhamanorama_na
 ### C4/S7 · Operation-specific feminine abstract transport at PG481
 
 PG481 constructs [bhāva puṃvad class guard/feminine retention](bhava_pumvad_gunavacana_guard_and_retained_feminine/README.md):1morphology adapter/4base readouts and1source-class observation;0finite/nominal credits.K63035 paṭvī restores full paṭu before tva/tal,kaṭhī retains ī.Bāla explicitly excludes taddhitānta in this consumer class,so PG479 vācālā/vācāṭā fails that local edge;whole requests remain Open.Policies/source histories retained.Totals51,819finite;4,670nominal/5,348readings. Selected paṭvī/kaṭhī adapter closes;PG479 female taddhita-input whole requests remain Open with Bāla local edge now specifically blocked.Other source-class/retention/general-neuter analyses require their own positive evidence.No new nominal panels or global female-input closure.Project written completion remains **OPEN**.
+
+### C4/C5 · Female-elephant collective query views at PG482
+
+PG482 completes [hastinī collective puṃvad/visibility and neuter cases](hastini_collective_pumvad_visibility_and_neuter_cases/README.md):23new nominal positions/24readings,0finite/source/separate construction credits.24selected keys/25readings withhold old hāstikam nom.sg.Puṃvad hastin precedes operative n-final ṭi-lopa;ordinary ī-lopa not interchangeable under source visibility defence.Inner female set E/collective G and deleted-inner/outer-num/nuṭ nasals remain distinct.Totals51,819finite;4,693nominal/5,372readings;wider gates Open. Local bhā/non-ḍha extension and source-specific jāti-prohibition scope now composed with24outer case keys.Other species/collectives/affixes,critical visibility reconciliation and PG479 female abstract whole requests remain Open.No universal deletion-view engine or whole-language gate is inferred.Project written completion remains **OPEN**.
