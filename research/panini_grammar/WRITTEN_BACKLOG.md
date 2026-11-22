@@ -1,6 +1,6 @@
-# Written-development backlog at PG470
+# Written-development backlog at PG471
 
-Monty · 22 November 2026 · reviewed parent a9669d2a7720f9119b561fb772321a35daf107ef.
+Monty · 22 November 2026 · reviewed parent ca8d37e8ad815b21b3ecbab01e7c7155109550c8.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -457,3 +457,7 @@ PG469 locates [original Śekhara caṅ objection and Bhāṣya addition](cang_sh
 ### C2/C5 · Cur explicit-addition permission adapter at PG470
 
 PG470 constructs [cur S/H explicit caṅ additions](curadi_explicit_cang_additions_and_policy_branches/README.md):1 morphology permission adapter/1 accepted readout and new policy path,0 new finite/nominal positions/readings/source credits.Individually scoped U_SHORT/U_SANVAT/U_LONG instantiate the adopted Bhāṣya ṇic-on-ṇic policy on exact cur1100001 S/H;PG468 jāti path preserved.Same acūcurat is one old word,two retained mechanisms;missing permissions Open.Selected rival mechanism locally CLOSED,other roots/critical lineage/wider gates Open.Totals51,738 finite;4,480 nominal/5,154 readings. PG469 root-specific rival-operator Open is superseded only for this cur S/H P3sg input under declared structural transport.Other roots/frames and musical-vad root/sense binding remain unconstructed;no universal jāti ordering inferred.Project written completion remains **OPEN**.
+
+### C2/C3 · Musical vad bridge and nested caṅ at PG471
+
+PG471 completes [musical vad lexical bridge and nested caṅ](musical_vad_lexical_bridge_and_nested_cang/README.md):1 lexical source decision,1 morphology construction/readout avīvadat;0 new finite/nominal positions/readings.Apte1890 class1 P causal musical sense binds vad1011164 separately from curadi1100379;H1/player and H2/outer-causer survive distinct lopas.Bhāṣya additions license root-shortening/copied a→i→ī,not cur u→ū.Pari in player noun is not a finite preverb.Selected bridge/P3sg locally CLOSED;other domains/source/native gates Open.Totals51,738 finite;4,480 nominal/5,154 readings. Earlier musical-vad root/sense and full P3sg morphology Open is superseded only on this named dictionary crosswalk/explicit-addition policy.Other lexical alignments,frames and source obligations remain genuine Open.Project written completion remains **OPEN**.

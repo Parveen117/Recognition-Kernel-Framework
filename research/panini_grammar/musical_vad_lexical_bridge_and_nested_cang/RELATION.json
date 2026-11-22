@@ -1,0 +1,144 @@
+{
+  "stage": "PG471",
+  "root_record": {
+    "i": "1011164",
+    "baseindex": "01.1164",
+    "dhatu": "वद्",
+    "aupadeshik": "वदँ",
+    "gana": "1",
+    "pada": "P",
+    "settva": "S",
+    "karma": "S",
+    "artha": "व्यक्तायां वाचि",
+    "artha_english": "to talk, to speak, to tell, to describe, to inform, to explain to utter, to communicate",
+    "tags": "उदात्तोपदेशः,chittoor3",
+    "dhaturoopnandini": "1009",
+    "sk": "1009",
+    "lsk_sutra": "",
+    "sk_sutra": "2419",
+    "artha_hindi": "कहना, स्पष्ट बोलना",
+    "upasargas": [
+      {
+        "name": "अनु",
+        "artha_hindi": "पीछे से बोलना"
+      },
+      {
+        "name": "अप",
+        "artha_hindi": "निन्दा करना, अपकार कारक भाषण करना"
+      },
+      {
+        "name": "अभि",
+        "artha_hindi": "सत्कार पूर्वक अभिनन्दन करना"
+      },
+      {
+        "name": "परि",
+        "artha_hindi": "विरुद्ध बोलना"
+      },
+      {
+        "name": "प्रति",
+        "artha_hindi": "उत्तर देना"
+      },
+      {
+        "name": "वि",
+        "artha_hindi": "वाद विवाद करना"
+      },
+      {
+        "name": "वि + प्र",
+        "artha_hindi": "बकवास करना"
+      }
+    ],
+    "antarganas": "यजादिः",
+    "dhaturoopnandini_note": " व्यक्तवाचि वदेद्वा णौ वादयेद् वदते वदेत् ' (श्लो. 109) - देवः ।"
+  },
+  "preverbs": [],
+  "sense": "source-qualified instrument-sounding/causal playing,AP90 causal sense2 under class1 vad",
+  "formation": "two hetumat nic H1/H2,no curadi svartha S",
+  "events": {
+    "E0": "instrument c sounds",
+    "E1": "player b causes E0",
+    "E2": "outer causer a induces b in E1"
+  },
+  "voice": "kartari",
+  "pada": "P",
+  "slot": "third singular,outer a non-speaker/non-addressee singular",
+  "pada_evidence": "supplied principal result not for a,no special upapada override;not automatic lexical-P copying",
+  "source_phrase_ownership": "vina acc/player instrumental are quoted controls,not a new case theorem;pari in parivadakena belongs to player noun,not the finite verb",
+  "policy": "BHASYA_EXPLICIT_NIC_ON_NIC_ADDITIONS",
+  "trace": [
+    {
+      "id": "H1",
+      "state": "vaad_R|i_H1",
+      "reason": "7.2.116 root a to aa before first causal nic"
+    },
+    {
+      "id": "H2",
+      "state": "vaad_R|empty_H1|i_H2",
+      "reason": "second hetumat nic,early H1 lopa6.4.51 before H1 vrddhi;retained root aa"
+    },
+    {
+      "id": "CANG",
+      "state": "vaad_R|empty_H1|i_H2|a_CANG|t_TIP",
+      "reason": "actual kartari lung cli to cang3.1.48;no shap/sic"
+    },
+    {
+      "id": "LOPA",
+      "state": "vaad_R|empty_H1|empty_H2|a_CANG|t_TIP",
+      "reason": "6.4.51 outer H2 lopa before anit cang,distinct owner"
+    },
+    {
+      "id": "SHORT",
+      "state": "vad_R|empty_H1|empty_H2|a_CANG|t_TIP",
+      "reason": "explicit nic-on-nic shortening addition,7.4.1 aa to a"
+    },
+    {
+      "id": "COPY",
+      "state": "va_ABHYASA|vad_R|empty_H1|empty_H2|a_CANG|t_TIP",
+      "reason": "6.1.11 and7.4.60 owned copy after shortening"
+    },
+    {
+      "id": "ITVA",
+      "state": "vi_ABHYASA|vad_R|empty_H1|empty_H2|a_CANG|t_TIP",
+      "reason": "explicit sanvat permission plus7.4.79 copied a to i"
+    },
+    {
+      "id": "LONG",
+      "state": "vii_ABHYASA|vad_R|empty_H1|empty_H2|a_CANG|t_TIP",
+      "reason": "explicit length permission7.4.94,root a stays short"
+    },
+    {
+      "id": "WORD",
+      "state": "a_AT|vii_ABHYASA|vad_R|empty_H1|empty_H2|a_CANG|t_TIP",
+      "reason": "6.4.71 outer at,owned P3sg t",
+      "word": "avīvadat",
+      "devanagari": "अवीवदत्"
+    }
+  ],
+  "controls": [
+    {
+      "id": "TWO_HETU",
+      "outcome": "Accepted",
+      "word": "avīvadat"
+    },
+    {
+      "id": "CURADI_HOMONYM",
+      "outcome": "Excluded_this_root_crosswalk"
+    },
+    {
+      "id": "MISSING_MUSIC_SENSE",
+      "outcome": "Open_lexical_bridge"
+    },
+    {
+      "id": "MISSING_ADDITION",
+      "outcome": "Open_consumer_permission"
+    },
+    {
+      "id": "PARI_FROM_NOUN",
+      "outcome": "Excluded_prefix_invention"
+    }
+  ],
+  "open": [
+    "Other root/sense crosswalks and independent print/critical lineage;AP90 cited literary loci not independently collated.",
+    "Other persons/padas/lakaras/prefixes/passive/nominal music forms and general double-causative case assignment unconstructed here.",
+    "General jati/instance adjudication,source transmission and actual C2-C5/S1-S7 residuals remain Open;Claude execution separate."
+  ]
+}

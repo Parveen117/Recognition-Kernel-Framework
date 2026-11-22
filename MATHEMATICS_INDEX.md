@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG471 completes [musical vad lexical bridge and nested caṅ](research/panini_grammar/musical_vad_lexical_bridge_and_nested_cang/README.md):1 lexical source decision,1 morphology construction/readout avīvadat;0 new finite/nominal positions/readings.Apte1890 class1 P causal musical sense binds vad1011164 separately from curadi1100379;H1/player and H2/outer-causer survive distinct lopas.Bhāṣya additions license root-shortening/copied a→i→ī,not cur u→ū.Pari in player noun is not a finite preverb.Selected bridge/P3sg locally CLOSED;other domains/source/native gates Open.Totals51,738 finite;4,480 nominal/5,154 readings.
+
 PG470 constructs [cur S/H explicit caṅ additions](research/panini_grammar/curadi_explicit_cang_additions_and_policy_branches/README.md):1 morphology permission adapter/1 accepted readout and new policy path,0 new finite/nominal positions/readings/source credits.Individually scoped U_SHORT/U_SANVAT/U_LONG instantiate the adopted Bhāṣya ṇic-on-ṇic policy on exact cur1100001 S/H;PG468 jāti path preserved.Same acūcurat is one old word,two retained mechanisms;missing permissions Open.Selected rival mechanism locally CLOSED,other roots/critical lineage/wider gates Open.Totals51,738 finite;4,480 nominal/5,154 readings.
 
 PG469 locates [original Śekhara caṅ objection and Bhāṣya addition](research/panini_grammar/cang_shekhara_objection_and_bhasya_addition/README.md):1 coherent source decision,0 new finite/nominal positions/readings or grammar-construction credits.Printed617–618 separates Vṛtti accommodation,pare objection and lower-ṭīkā attribution;raw Bhāṣya74001/74093 positively requires distinct ṇic-on-ṇic additions.Missing-original-discussion witness locally CLOSED;PG468 selected cur policy preserved,root-specific rival operators/critical lineage remain Open.Totals51,738 finite;4,480 nominal/5,154 readings.
@@ -198,7 +200,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG470 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG471 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
