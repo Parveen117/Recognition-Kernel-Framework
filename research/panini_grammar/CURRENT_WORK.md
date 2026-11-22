@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG490
+# Pāṇini grammar · current written coverage at PG491
+
+PG491 constructs [viduṣī ugit-degree/source-policy adapter](vidusi_ugit_degree_and_competing_pumvad_policies/README.md):1morphology adapter/3readouts,0finite/nominal/source-observation credits.K admits SHORT/KEEP/puṃvad readouts;SK/Bāla rejects KEEP.Full vidvas restoration and owned s→d→t give vidvattarā;K unexpressed-gender mechanism needs its own premise.Raw Kaumudī spelling/critical reconciliation stay Open.Totals51,819finite;4,971nominal/5,747readings unchanged.
 
 PG490 completes [brahmabandhū ūṅ/coalescence residual degree panels](brahmabandhu_ung_residual_degree_and_coalescence/README.md):47new nominal positions/94readings,0finite/source/separate construction credits.48keys96readings withhold1old comparative key/2readings.Actual ūṅ blocks puṃvad,not residual hrasva;coalesced base u/suffix ū,SHORT/KEEP and outer ṭāp retain owners.Totals51,819finite;4,971nominal/5,747readings;wider gates Open.
 

@@ -1,6 +1,6 @@
-# Written-development backlog at PG490
+# Written-development backlog at PG491
 
-Monty · 23 November 2026 · reviewed parent 7ff96d88e17f74ececfcaf7fa82bd61b32f957c7.
+Monty · 23 November 2026 · reviewed parent 3c03c780c3a03ee6241944093867c820a72fe817.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -553,3 +553,9 @@ C4 selected strī two-affix/F residual48-key96-reading interface CLOSED,not all 
 PG490 completes [brahmabandhū ūṅ/coalescence residual degree panels](brahmabandhu_ung_residual_degree_and_coalescence/README.md):47new nominal positions/94readings,0finite/source/separate construction credits.48keys96readings withhold1old comparative key/2readings.Actual ūṅ blocks puṃvad,not residual hrasva;coalesced base u/suffix ū,SHORT/KEEP and outer ṭāp retain owners.Totals51,819finite;4,971nominal/5,747readings;wider gates Open.
 
 C4 supplied brahmabandhū two-affix/F48keys96readings CLOSED;other ūṅ inputs/kṛt-nadī controls not automatically settled.Puṃvad edge exclusion is not whole-word exclusion.Full inner compound etymology/social identity not inferred.S1-S7/C2-C5/native and Claude-deferred execution remain separate.
+
+## PG491 · Actual ugit/multi-vowel degree policy split
+
+PG491 constructs [viduṣī ugit-degree/source-policy adapter](vidusi_ugit_degree_and_competing_pumvad_policies/README.md):1morphology adapter/3readouts,0finite/nominal/source-observation credits.K admits SHORT/KEEP/puṃvad readouts;SK/Bāla rejects KEEP.Full vidvas restoration and owned s→d→t give vidvattarā;K unexpressed-gender mechanism needs its own premise.Raw Kaumudī spelling/critical reconciliation stay Open.Totals51,819finite;4,971nominal/5,747readings unchanged.
+
+C4 selected viduṣī/tarap morphological/source-policy interaction CLOSED;full case grids/other ugit bases remain Open.K_KEEP not deleted globally;SK local exclusion stays policy-indexed.K prior-gender non-vivakṣā is a distinct supplied frame.Kaumudī literal विद्धत्तरा kept unmodified/unsettled;critical reconciliation not inferred.No old source-word/position recredit.S1-S7/C2-C5/native and execution remain separate.

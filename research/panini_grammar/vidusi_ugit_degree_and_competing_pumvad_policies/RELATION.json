@@ -1,0 +1,121 @@
+{
+  "stage": "PG491",
+  "root": {
+    "i": "1020059",
+    "baseindex": "02.0059",
+    "sense": "jñāne",
+    "preverbs": [],
+    "pada": "P source lexical context,not new finite credit"
+  },
+  "input": "supplied licensed śatṛ on vid;7.1.36 vasu substitute,not liṭ kvasu;female q with comparative5.3.57 evidence",
+  "base_trace": [
+    "actual vasu is ugit;4.1.6 selects ṅīp",
+    "bha before vowel;6.4.131 v→u/6.1.108 contraction;8.3.59 suffix s→ṣ gives viduṣī",
+    "actual multi-vowel ugit-nadī uses6.3.45 special interface,not6.3.44 residual arm"
+  ],
+  "paths": [
+    {
+      "id": "K_SHORT",
+      "policy": "K",
+      "premise": "actual ugit-nadī + chosen hrasva",
+      "events": [
+        "viduṣī→viduṣi",
+        "tarap p_IT lopa",
+        "outer ṭāp"
+      ],
+      "readout": "viduṣitarā",
+      "input_type": "SuppliedViduṣiComparison"
+    },
+    {
+      "id": "K_KEEP",
+      "policy": "K",
+      "premise": "hrasva not chosen;source retains feminine",
+      "events": [
+        "viduṣī retained",
+        "tarap p_IT lopa",
+        "outer ṭāp"
+      ],
+      "readout": "viduṣītarā",
+      "input_type": "SuppliedViduṣiComparison"
+    },
+    {
+      "id": "K_PUMVAD",
+      "policy": "K",
+      "premise": "separately admitted optional puṃvad extension",
+      "events": [
+        "restore full vidvas;ṅīp/saṃprasāraṇa/ṣ histories retained",
+        "8.2.72 s→d",
+        "8.4.55 d→t before tara",
+        "outer ṭāp"
+      ],
+      "readout": "vidvattarā",
+      "input_type": "SuppliedViduṣiComparison"
+    },
+    {
+      "id": "K_UNEXPRESSED",
+      "policy": "K",
+      "premise": "explicit pre-degree feminine non-vivakṣā",
+      "events": [
+        "use general corresponding vidvas at pre-degree stage;not a feminine lopa event",
+        "same s→d→t degree boundary",
+        "outer female ṭāp"
+      ],
+      "readout": "vidvattarā",
+      "input_type": "SuppliedUnexpressedGenderComparison"
+    },
+    {
+      "id": "SK_SHORT",
+      "policy": "SK_BALA",
+      "premise": "chosen hrasva",
+      "events": [
+        "same owned shortening/outer gender"
+      ],
+      "readout": "viduṣitarā",
+      "input_type": "SuppliedViduṣiComparison"
+    },
+    {
+      "id": "SK_PUMVAD",
+      "policy": "SK_BALA",
+      "premise": "hrasva absent;6.3.35 puṃvad unavoidable in this policy",
+      "events": [
+        "same full restoration/s→d→t/outer gender"
+      ],
+      "readout": "vidvattarā",
+      "input_type": "SuppliedViduṣiComparison"
+    }
+  ],
+  "distinct_readouts": [
+    "viduṣitarā",
+    "viduṣītarā",
+    "vidvattarā"
+  ],
+  "controls": [
+    {
+      "id": "SK_KEEP",
+      "outcome": "Excluded_under_SK_BALA_policy",
+      "whole_word": "Accepted_only_under_K_policy_in_this_packet"
+    },
+    {
+      "id": "REMOVE_VISIBLE_I_ONLY",
+      "outcome": "Excluded_wrong_masculine_correspondent"
+    },
+    {
+      "id": "PUMVAD_IS_ALWAYS_REQUIRED",
+      "outcome": "Excluded_cross_policy_conflation"
+    },
+    {
+      "id": "FEMALE_MEANS_UNEXPRESSED_GENDER",
+      "outcome": "Open_requires_independent_vivaksa"
+    },
+    {
+      "id": "KWASU_INSTEAD_OF_VASU",
+      "outcome": "Excluded_wrong_actual_affix"
+    }
+  ],
+  "open": [
+    "Only supplied vid1020059 śatṛ-vasu/viduṣī/tarap female-reference source-policy adapter CLOSED;full case grids,other roots/ugit bases/suffixes/comparison contexts and accent remain Open.",
+    "K versus SK/Bāla retained-ī and extra-puṃvad policies remain distinct;original Bhāṣya/printed-source reconciliation and Kaumudī literal विद्धत्तरा collation remain Open.",
+    "K gender-unexpressed alternate mechanism requires its own supplied pre-degree vivakṣā premise;female reference alone does not make that premise true.",
+    "S1-S7/C2-C5 wider source/semantic/native completion,PG488 textual difference and Claude-deferred execution remain separate Open/deferred channels."
+  ]
+}
