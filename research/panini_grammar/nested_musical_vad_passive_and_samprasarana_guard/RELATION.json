@@ -1,0 +1,147 @@
+{
+  "stage": "PG472",
+  "root_record": {
+    "i": "1011164",
+    "baseindex": "01.1164",
+    "dhatu": "वद्",
+    "aupadeshik": "वदँ",
+    "gana": "1",
+    "pada": "P",
+    "settva": "S",
+    "karma": "S",
+    "artha": "व्यक्तायां वाचि",
+    "artha_english": "to talk, to speak, to tell, to describe, to inform, to explain to utter, to communicate",
+    "tags": "उदात्तोपदेशः,chittoor3",
+    "dhaturoopnandini": "1009",
+    "sk": "1009",
+    "lsk_sutra": "",
+    "sk_sutra": "2419",
+    "artha_hindi": "कहना, स्पष्ट बोलना",
+    "upasargas": [
+      {
+        "name": "अनु",
+        "artha_hindi": "पीछे से बोलना"
+      },
+      {
+        "name": "अप",
+        "artha_hindi": "निन्दा करना, अपकार कारक भाषण करना"
+      },
+      {
+        "name": "अभि",
+        "artha_hindi": "सत्कार पूर्वक अभिनन्दन करना"
+      },
+      {
+        "name": "परि",
+        "artha_hindi": "विरुद्ध बोलना"
+      },
+      {
+        "name": "प्रति",
+        "artha_hindi": "उत्तर देना"
+      },
+      {
+        "name": "वि",
+        "artha_hindi": "वाद विवाद करना"
+      },
+      {
+        "name": "वि + प्र",
+        "artha_hindi": "बकवास करना"
+      }
+    ],
+    "antarganas": "यजादिः",
+    "dhaturoopnandini_note": " व्यक्तवाचि वदेद्वा णौ वादयेद् वदते वदेत् ' (श्लो. 109) - देवः ।"
+  },
+  "preverbs": [],
+  "formation": "two hetumat nic H1/H2;no svartha S",
+  "events": {
+    "E0": "intransitive instrument c sounding,supplied",
+    "E1": "player b causes E0",
+    "E2": "outer a induces E1"
+  },
+  "domain": "PG471 source-qualified musical sense;no additional intended karman positively supplied,external-agent karmani lat3sg",
+  "karman_sets": {
+    "E0": [],
+    "E1": [
+      "c"
+    ],
+    "E2": [
+      "c"
+    ]
+  },
+  "controller": "q=c,non-speaker/non-addressee singular instrument",
+  "roles": [
+    {
+      "id": "c",
+      "role": "E0 agent,E1/E2 karman",
+      "case": "nominative residual",
+      "supplied_pada": "vīṇā"
+    },
+    {
+      "id": "b",
+      "role": "E1 causer/agent,E2 causee-agent",
+      "case": "instrumental unexpressed agent",
+      "supplied_pada": "parivādakena"
+    },
+    {
+      "id": "a",
+      "role": "E2 causer/agent",
+      "case": "instrumental unexpressed agent",
+      "supplied_pada": "prayojakena"
+    }
+  ],
+  "trace": [
+    {
+      "id": "PRE_YAK",
+      "state": "vaad_R|empty_H1|i_H2",
+      "reason": "PG471 pre-cang interface,early H1 lopa/root aa retained;no cang shortening copied"
+    },
+    {
+      "id": "YAK",
+      "state": "vaad_R|empty_H1|i_H2|ya_YAK|te_A",
+      "reason": "karmani3.1.67 yak,non-val y no ordinary it;A by1.3.13"
+    },
+    {
+      "id": "H2_LOPA",
+      "state": "vaad_R|empty_H1|empty_H2|ya_YAK|te_A",
+      "reason": "6.4.51 H2 lopa,kit yak not a direct root-affix for6.1.15"
+    },
+    {
+      "id": "WORD",
+      "word": "vādyate",
+      "devanagari": "वाद्यते",
+      "state": "vaad_R|empty_H1|empty_H2|ya_YAK|te_A"
+    }
+  ],
+  "phrase": [
+    "vīṇā",
+    "parivādakena",
+    "prayojakena",
+    "vādyate"
+  ],
+  "controls": [
+    {
+      "id": "MATCHED",
+      "outcome": "Accepted_c_controller"
+    },
+    {
+      "id": "PLAYER_AS_Q",
+      "outcome": "Excluded_nonmember_controller"
+    },
+    {
+      "id": "UNKNOWN_EXTRA_OBJECT",
+      "outcome": "Open_karman_set"
+    },
+    {
+      "id": "BARE_ROOT_REPLAY",
+      "outcome": "Excluded_here_samprasarana_not_global_udyate_ban"
+    },
+    {
+      "id": "CANG_SHORTENING",
+      "outcome": "Excluded_wrong_actual_affix"
+    }
+  ],
+  "open": [
+    "Unknown/additional karman,other sense/root/prefix/person/number/voice/pada and participant coalescence/coordination require independent contracts.",
+    "Independent nested-passive phrase attestation,full nominal/external-sandhi/accent realization and critical lexical/source lineage remain Open.",
+    "Actual remaining C2-C5/S1-S7/native gates and Claude-deferred execution are separate;no global Sanskrit closure."
+  ]
+}

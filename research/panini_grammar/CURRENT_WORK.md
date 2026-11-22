@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG471
+# Pāṇini grammar · current written coverage at PG472
+
+PG472 constructs [nested musical-vad passive and saṃprasāraṇa guard](nested_musical_vad_passive_and_samprasarana_guard/README.md):1 syntax/controller contract/readout and1 morphology contract/readout,0 new finite/nominal positions/readings/source credits.Supplied intransitive instrument c becomes unique retained object;player b stays agent,not a new outer object.Two ṇic lopas retain vād;actual derived yak/tatpratyaya guard blocks simple udyate replay and yields vādyate.Source roles override English instrument naming.Selected passive frame CLOSED,wider gates Open.Totals51,738 finite;4,480 nominal/5,154 readings.
 
 PG471 completes [musical vad lexical bridge and nested caṅ](musical_vad_lexical_bridge_and_nested_cang/README.md):1 lexical source decision,1 morphology construction/readout avīvadat;0 new finite/nominal positions/readings.Apte1890 class1 P causal musical sense binds vad1011164 separately from curadi1100379;H1/player and H2/outer-causer survive distinct lopas.Bhāṣya additions license root-shortening/copied a→i→ī,not cur u→ū.Pari in player noun is not a finite preverb.Selected bridge/P3sg locally CLOSED;other domains/source/native gates Open.Totals51,738 finite;4,480 nominal/5,154 readings.
 

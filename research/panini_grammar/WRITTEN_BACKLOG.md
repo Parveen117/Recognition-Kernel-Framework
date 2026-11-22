@@ -1,6 +1,6 @@
-# Written-development backlog at PG471
+# Written-development backlog at PG472
 
-Monty · 22 November 2026 · reviewed parent ca8d37e8ad815b21b3ecbab01e7c7155109550c8.
+Monty · 22 November 2026 · reviewed parent efec374128ab3fbe9944727c684bd6b5aa587a25.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -461,3 +461,7 @@ PG470 constructs [cur S/H explicit caṅ additions](curadi_explicit_cang_additio
 ### C2/C3 · Musical vad bridge and nested caṅ at PG471
 
 PG471 completes [musical vad lexical bridge and nested caṅ](musical_vad_lexical_bridge_and_nested_cang/README.md):1 lexical source decision,1 morphology construction/readout avīvadat;0 new finite/nominal positions/readings.Apte1890 class1 P causal musical sense binds vad1011164 separately from curadi1100379;H1/player and H2/outer-causer survive distinct lopas.Bhāṣya additions license root-shortening/copied a→i→ī,not cur u→ū.Pari in player noun is not a finite preverb.Selected bridge/P3sg locally CLOSED;other domains/source/native gates Open.Totals51,738 finite;4,480 nominal/5,154 readings. Earlier musical-vad root/sense and full P3sg morphology Open is superseded only on this named dictionary crosswalk/explicit-addition policy.Other lexical alignments,frames and source obligations remain genuine Open.Project written completion remains **OPEN**.
+
+### C2/C5 · Instrument-controlled nested musical passive at PG472
+
+PG472 constructs [nested musical-vad passive and saṃprasāraṇa guard](nested_musical_vad_passive_and_samprasarana_guard/README.md):1 syntax/controller contract/readout and1 morphology contract/readout,0 new finite/nominal positions/readings/source credits.Supplied intransitive instrument c becomes unique retained object;player b stays agent,not a new outer object.Two ṇic lopas retain vād;actual derived yak/tatpratyaya guard blocks simple udyate replay and yields vādyate.Source roles override English instrument naming.Selected passive frame CLOSED,wider gates Open.Totals51,738 finite;4,480 nominal/5,154 readings. Earlier musical passive Open is superseded only on the supplied no-additional-object laṭ3sg frame.General doubled karman,other controllers and source obligations remain Open.Project written completion remains **OPEN**.
