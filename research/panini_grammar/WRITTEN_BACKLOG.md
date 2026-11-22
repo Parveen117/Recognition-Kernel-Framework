@@ -1,6 +1,6 @@
-# Written-development backlog at PG491
+# Written-development backlog at PG492
 
-Monty · 23 November 2026 · reviewed parent 3c03c780c3a03ee6241944093867c820a72fe817.
+Monty · 23 November 2026 · reviewed parent 7235474c9ba51d237d2cd2ed5a140088b46e8361.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -559,3 +559,9 @@ C4 supplied brahmabandhū two-affix/F48keys96readings CLOSED;other ūṅ inputs/
 PG491 constructs [viduṣī ugit-degree/source-policy adapter](vidusi_ugit_degree_and_competing_pumvad_policies/README.md):1morphology adapter/3readouts,0finite/nominal/source-observation credits.K admits SHORT/KEEP/puṃvad readouts;SK/Bāla rejects KEEP.Full vidvas restoration and owned s→d→t give vidvattarā;K unexpressed-gender mechanism needs its own premise.Raw Kaumudī spelling/critical reconciliation stay Open.Totals51,819finite;4,971nominal/5,747readings unchanged.
 
 C4 selected viduṣī/tarap morphological/source-policy interaction CLOSED;full case grids/other ugit bases remain Open.K_KEEP not deleted globally;SK local exclusion stays policy-indexed.K prior-gender non-vivakṣā is a distinct supplied frame.Kaumudī literal विद्धत्तरा kept unmodified/unsettled;critical reconciliation not inferred.No old source-word/position recredit.S1-S7/C2-C5/native and execution remain separate.
+
+## PG492 · Primary local hierarchy before terminal source-policy acceptance
+
+PG492 locates [primary Bhāṣya hrasva hierarchy/typed permission gate](hrasva_primary_bhasya_and_typed_permission_gate/README.md):1source observation plus1morphology permission adapter/4outputs,0new word/finite/nominal credits.Grouped63043 has nadī utsarga,many-vowel apavāda,ugit vibhāṣā and kṛt-nadī prohibition;neighbor keys empty.Permission KEEP is not terminal word acceptance;PG491 policies preserved.Totals51,819finite;4,971nominal/5,747readings unchanged.
+
+S7/C4/C5 gain only this directly located primary-work hierarchy and finite permission interface.Empty63044/45 keys not absent original discussion;retained-ī/no-puṃvad original-text reconciliation not closed by search negatives.K/SK terminal policies remain distinct.All unknown class overlaps/global lexical/source/native gates and Claude execution stay Open/deferred.No old word/source-report recredit.

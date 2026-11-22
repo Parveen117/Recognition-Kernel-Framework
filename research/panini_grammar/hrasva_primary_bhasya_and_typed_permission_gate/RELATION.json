@@ -1,0 +1,88 @@
+{
+  "stage": "PG492",
+  "primary_source": {
+    "field": "63043",
+    "argument": [
+      "optional nadī shortening stated as utsarga",
+      "many-vowel mandatory shortening as apavāda",
+      "ugit vibhāṣā introduced against the mandatory case",
+      "Saunāga reading explicitly prohibits kṛt-nadī shortening"
+    ],
+    "field_controls": {
+      "63044": "",
+      "63045": ""
+    },
+    "absence_boundary": "Empty keys/search-negative phrases do not prove absence from every original edition."
+  },
+  "permission_profiles": [
+    {
+      "id": "PATVI",
+      "base": "paṭvī",
+      "source_contract": "PG488 supplied multi-vowel ṅī feminine;non-ugit",
+      "permission": [
+        "SHORT"
+      ],
+      "terminal": "PG488 selected SK/Bāla word constructor separately pinned"
+    },
+    {
+      "id": "BRAHMABANDHU",
+      "base": "brahmabandhū",
+      "source_contract": "PG490 supplied non-ṅī ūṅ residual nadī",
+      "permission": [
+        "SHORT",
+        "KEEP"
+      ],
+      "terminal": "PG490 outer gender/sup independently required"
+    },
+    {
+      "id": "VIDUSI",
+      "base": "viduṣī",
+      "source_contract": "PG491 supplied multi-vowel ugit-nadī,vid1020059 śatṛ-vasu",
+      "permission": [
+        "SHORT",
+        "KEEP"
+      ],
+      "terminal": "K KEEP may retain feminine;SK_BALA unshortened stage must restore vidvas rather than accept viduṣītarā"
+    },
+    {
+      "id": "LAKSMI",
+      "base": "lakṣmī",
+      "source_contract": "K/Bāla supplied direct kṛt-nadī prohibition control;full etymology not reconstructed",
+      "permission": [
+        "KEEP"
+      ],
+      "terminal": "Only hrasva denied;no blanket word rejection"
+    }
+  ],
+  "permission_history_count": 6,
+  "permission_output_count": 4,
+  "terminal_acceptance_is_separate": true,
+  "controls": [
+    {
+      "id": "EMPTY_KEY_MEANS_NO_BHASYA",
+      "outcome": "Excluded_inference"
+    },
+    {
+      "id": "PERMISSION_KEEP_EQUALS_ACCEPTED_WORD",
+      "outcome": "Excluded_type_error"
+    },
+    {
+      "id": "KRT_MEANS_EVERY_DERIVED_WORD",
+      "outcome": "Excluded_overbroad_source_class"
+    },
+    {
+      "id": "HYPOTHETICAL_CLASS_OVERLAP",
+      "outcome": "Open_unconstructed_priority"
+    },
+    {
+      "id": "UNSUPPLIED_PROFILE",
+      "outcome": "Open_evidence"
+    }
+  ],
+  "open": [
+    "Direct grouped primary-work hrasva hierarchy locator CLOSED;independent print/critical edition/editorial segmentation and exact original retained-ī/no-puṃvad reconciliation remain Open.",
+    "Four supplied permission profiles only;unknown or hypothetical overlapping classes are Open,not a globally proved priority order or exhaustive nadī classifier.",
+    "KEEP is permission-stage non-shortening,not terminal acceptance of a retained feminine word in every commentary;PG491 K/SK policies remain distinct.",
+    "No new Lakṣmī etymology/full word paradigm;other roots/senses/genders/accents,S1-S7/C2-C5/native and Claude-deferred execution remain separate."
+  ]
+}
