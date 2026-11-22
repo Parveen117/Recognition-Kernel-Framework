@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG490 completes [brahmabandhū ūṅ/coalescence residual degree panels](brahmabandhu_ung_residual_degree_and_coalescence/README.md):47new nominal positions/94readings,0finite/source/separate construction credits.48keys96readings withhold1old comparative key/2readings.Actual ūṅ blocks puṃvad,not residual hrasva;coalesced base u/suffix ū,SHORT/KEEP and outer ṭāp retain owners.Totals51,819finite;4,971nominal/5,747readings;wider gates Open.
+
 PG489 completes [strī residual-nadī optional degree panels](stri_residual_nadi_degree_optional_readings/README.md):46new nominal positions/92readings,0finite/source/separate construction credits.48keys96readings withhold2old keys/4readings.SHORT/KEEP stay readings of one key;Bāla/Tattva drop bhāṣitapuṃska here.TARAP r gives outer ṇ,TAMAP lexical r blocked by t.Totals51,819finite;4,924nominal/5,653readings;wider gates Open.
 
 PG488 completes [paṭvī degree hrasva-before-puṃvad panels](patvi_degree_shortening_before_pumvad/README.md):46new nominal positions/46readings,0finite/source/separate construction credits.48selected Fkeys withhold2old nom.sg controls.Inner ī→i retains v;outer ṭāp adds ā.Comparative r triggers gen.pl paṭvitarāṇām versus paṭvitamānām.K63042 initial-ā source difference stays Open.Totals51,819finite;4,878nominal/5,561readings;wider gates Open.

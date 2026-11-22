@@ -1,6 +1,6 @@
-# Written-development backlog at PG489
+# Written-development backlog at PG490
 
-Monty · 22 November 2026 · reviewed parent 0ca1220fed25dd6593c4a0ddbb57a80c1b19df5c.
+Monty · 23 November 2026 · reviewed parent 7ff96d88e17f74ececfcaf7fa82bd61b32f957c7.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -547,3 +547,9 @@ C4 gains only this selected ṅī-feminine/gha/outer-gender48-key contract.K6304
 PG489 completes [strī residual-nadī optional degree panels](stri_residual_nadi_degree_optional_readings/README.md):46new nominal positions/92readings,0finite/source/separate construction credits.48keys96readings withhold2old keys/4readings.SHORT/KEEP stay readings of one key;Bāla/Tattva drop bhāṣitapuṃska here.TARAP r gives outer ṇ,TAMAP lexical r blocked by t.Totals51,819finite;4,924nominal/5,653readings;wider gates Open.
 
 C4 selected strī two-affix/F residual48-key96-reading interface CLOSED,not all residual nadī inputs or exceptions.The optional histories are not duplicate positions.Other ūṅ bases/kṛt-nadī controls/source questions/S1-S7/C2-C5/native gates remain Open;execution separate Claude-deferred.No old examples or source observations recredited.
+
+## PG490 · Actual ūṅ is independent of the residual hrasva consumer
+
+PG490 completes [brahmabandhū ūṅ/coalescence residual degree panels](brahmabandhu_ung_residual_degree_and_coalescence/README.md):47new nominal positions/94readings,0finite/source/separate construction credits.48keys96readings withhold1old comparative key/2readings.Actual ūṅ blocks puṃvad,not residual hrasva;coalesced base u/suffix ū,SHORT/KEEP and outer ṭāp retain owners.Totals51,819finite;4,971nominal/5,747readings;wider gates Open.
+
+C4 supplied brahmabandhū two-affix/F48keys96readings CLOSED;other ūṅ inputs/kṛt-nadī controls not automatically settled.Puṃvad edge exclusion is not whole-word exclusion.Full inner compound etymology/social identity not inferred.S1-S7/C2-C5/native and Claude-deferred execution remain separate.
