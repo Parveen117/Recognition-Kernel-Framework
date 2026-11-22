@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG489 completes [strī residual-nadī optional degree panels](stri_residual_nadi_degree_optional_readings/README.md):46new nominal positions/92readings,0finite/source/separate construction credits.48keys96readings withhold2old keys/4readings.SHORT/KEEP stay readings of one key;Bāla/Tattva drop bhāṣitapuṃska here.TARAP r gives outer ṇ,TAMAP lexical r blocked by t.Totals51,819finite;4,924nominal/5,653readings;wider gates Open.
+
 PG488 completes [paṭvī degree hrasva-before-puṃvad panels](patvi_degree_shortening_before_pumvad/README.md):46new nominal positions/46readings,0finite/source/separate construction credits.48selected Fkeys withhold2old nom.sg controls.Inner ī→i retains v;outer ṭāp adds ā.Comparative r triggers gen.pl paṭvitarāṇām versus paṭvitamānām.K63042 initial-ā source difference stays Open.Totals51,819finite;4,878nominal/5,561readings;wider gates Open.
 
 PG487 locates [Vācaspatyam tiraskāra affix/role witness](tiraskara_vacaspati_bhava_agent_affix_witness/README.md):1source observation/2analysis records,0finite/nominal/construction credits.L22789 p3302a distinguishes bhāva ghañ/anādara from kartṛ aṇ/avajñākāraka.Same word does not erase role/affix;root-ID/compound mechanism/original Mādhava stay Open.Totals51,819finite;4,832nominal/5,515readings unchanged.

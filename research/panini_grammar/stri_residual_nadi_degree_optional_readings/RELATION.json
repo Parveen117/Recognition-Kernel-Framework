@@ -1,0 +1,919 @@
+{
+  "stage": "PG489",
+  "input": {
+    "base": "strī",
+    "classification": "source63044 one-vowel ṅī-feminine in residual nadī class",
+    "referent": "supplied female q",
+    "finite_voice": "nominal;no dhātu,pada or preverb",
+    "semantic_requirement": "source-supported contextual prakarsa;tarap two/divided comparison,tamap contextual atisayana,no numerical universal ranking"
+  },
+  "guard": {
+    "residual": "one-vowel ṅī class,not PG488 multi-vowel compulsory hrasva",
+    "bhasitapumska_required": false,
+    "authority": "Bāla/Tattva63044 explicitly deny continuation",
+    "krt_nadi_exception": "source Lakṣmī/tantrī direct kṛt-nadī cases not admitted to this shortening branch"
+  },
+  "branches": [
+    {
+      "id": "SHORT",
+      "trace": "strī|tarap/tamap→stri|tara/tama via optional6.3.44 shortening;outer ṭāp gives stritarā/stritamā"
+    },
+    {
+      "id": "KEEP",
+      "trace": "strī|tarap/tamap retains ī;outer ṭāp gives strītarā/strītamā"
+    }
+  ],
+  "rows": [
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "nom",
+      "number": "sg",
+      "readings": [
+        "stritarā",
+        "strītarā"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0,
+      "evidence": "OLD_SOURCE_CONTROL"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "nom",
+      "number": "du",
+      "readings": [
+        "stritare",
+        "strītare"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "nom",
+      "number": "pl",
+      "readings": [
+        "stritarāḥ",
+        "strītarāḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "acc",
+      "number": "sg",
+      "readings": [
+        "stritarām",
+        "strītarām"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "acc",
+      "number": "du",
+      "readings": [
+        "stritare",
+        "strītare"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "acc",
+      "number": "pl",
+      "readings": [
+        "stritarāḥ",
+        "strītarāḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "ins",
+      "number": "sg",
+      "readings": [
+        "stritarayā",
+        "strītarayā"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "ins",
+      "number": "du",
+      "readings": [
+        "stritarābhyām",
+        "strītarābhyām"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "ins",
+      "number": "pl",
+      "readings": [
+        "stritarābhiḥ",
+        "strītarābhiḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "dat",
+      "number": "sg",
+      "readings": [
+        "stritarāyai",
+        "strītarāyai"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "dat",
+      "number": "du",
+      "readings": [
+        "stritarābhyām",
+        "strītarābhyām"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "dat",
+      "number": "pl",
+      "readings": [
+        "stritarābhyaḥ",
+        "strītarābhyaḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "abl",
+      "number": "sg",
+      "readings": [
+        "stritarāyāḥ",
+        "strītarāyāḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "abl",
+      "number": "du",
+      "readings": [
+        "stritarābhyām",
+        "strītarābhyām"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "abl",
+      "number": "pl",
+      "readings": [
+        "stritarābhyaḥ",
+        "strītarābhyaḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "gen",
+      "number": "sg",
+      "readings": [
+        "stritarāyāḥ",
+        "strītarāyāḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "gen",
+      "number": "du",
+      "readings": [
+        "stritarayoḥ",
+        "strītarayoḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "gen",
+      "number": "pl",
+      "readings": [
+        "stritarāṇām",
+        "strītarāṇām"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "loc",
+      "number": "sg",
+      "readings": [
+        "stritarāyām",
+        "strītarāyām"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "loc",
+      "number": "du",
+      "readings": [
+        "stritarayoḥ",
+        "strītarayoḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "loc",
+      "number": "pl",
+      "readings": [
+        "stritarāsu",
+        "strītarāsu"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "voc",
+      "number": "sg",
+      "readings": [
+        "stritare",
+        "strītare"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "voc",
+      "number": "du",
+      "readings": [
+        "stritare",
+        "strītare"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TARAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "voc",
+      "number": "pl",
+      "readings": [
+        "stritarāḥ",
+        "strītarāḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "nom",
+      "number": "sg",
+      "readings": [
+        "stritamā",
+        "strītamā"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0,
+      "evidence": "OLD_SOURCE_CONTROL"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "nom",
+      "number": "du",
+      "readings": [
+        "stritame",
+        "strītame"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "nom",
+      "number": "pl",
+      "readings": [
+        "stritamāḥ",
+        "strītamāḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "acc",
+      "number": "sg",
+      "readings": [
+        "stritamām",
+        "strītamām"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "acc",
+      "number": "du",
+      "readings": [
+        "stritame",
+        "strītame"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "acc",
+      "number": "pl",
+      "readings": [
+        "stritamāḥ",
+        "strītamāḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "ins",
+      "number": "sg",
+      "readings": [
+        "stritamayā",
+        "strītamayā"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "ins",
+      "number": "du",
+      "readings": [
+        "stritamābhyām",
+        "strītamābhyām"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "ins",
+      "number": "pl",
+      "readings": [
+        "stritamābhiḥ",
+        "strītamābhiḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "dat",
+      "number": "sg",
+      "readings": [
+        "stritamāyai",
+        "strītamāyai"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "dat",
+      "number": "du",
+      "readings": [
+        "stritamābhyām",
+        "strītamābhyām"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "dat",
+      "number": "pl",
+      "readings": [
+        "stritamābhyaḥ",
+        "strītamābhyaḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "abl",
+      "number": "sg",
+      "readings": [
+        "stritamāyāḥ",
+        "strītamāyāḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "abl",
+      "number": "du",
+      "readings": [
+        "stritamābhyām",
+        "strītamābhyām"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "abl",
+      "number": "pl",
+      "readings": [
+        "stritamābhyaḥ",
+        "strītamābhyaḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "gen",
+      "number": "sg",
+      "readings": [
+        "stritamāyāḥ",
+        "strītamāyāḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "gen",
+      "number": "du",
+      "readings": [
+        "stritamayoḥ",
+        "strītamayoḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "gen",
+      "number": "pl",
+      "readings": [
+        "stritamānām",
+        "strītamānām"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "loc",
+      "number": "sg",
+      "readings": [
+        "stritamāyām",
+        "strītamāyām"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "loc",
+      "number": "du",
+      "readings": [
+        "stritamayoḥ",
+        "strītamayoḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "loc",
+      "number": "pl",
+      "readings": [
+        "stritamāsu",
+        "strītamāsu"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "voc",
+      "number": "sg",
+      "readings": [
+        "stritame",
+        "strītame"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "voc",
+      "number": "du",
+      "readings": [
+        "stritame",
+        "strītame"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    },
+    {
+      "profile": "TAMAP",
+      "input": "strī",
+      "gender": "f",
+      "case": "voc",
+      "number": "pl",
+      "readings": [
+        "stritamāḥ",
+        "strītamāḥ"
+      ],
+      "branches": [
+        "SHORT",
+        "KEEP"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION"
+    }
+  ],
+  "controls": [
+    {
+      "id": "REQUIRE_MALE_CORRESPONDENT",
+      "outcome": "Excluded_wrong_inherited_guard"
+    },
+    {
+      "id": "OPTIONAL_BRANCH_IS_NEW_KEY",
+      "outcome": "Excluded_duplicate_position_credit"
+    },
+    {
+      "id": "ANY_KRT_ETYMOLOGY_BLOCKS",
+      "outcome": "Excluded_overbroad_exception"
+    },
+    {
+      "id": "ROOT_R_RETROFLEXES_THROUGH_T",
+      "outcome": "Excluded_disallowed_intervener"
+    },
+    {
+      "id": "UNSUPPLIED_COMPARISON",
+      "outcome": "Open_semantics"
+    }
+  ],
+  "open": [
+    "Only supplied K/Bāla/Tattva one-vowel strī/degree/F48-key96-reading domain CLOSED;other residual ūṅ bases,kṛt-nadī exceptions,comparison domains/genders/accents remain Open.",
+    "Input strī one-vowel ṅī-feminine status is source-supplied;full lexical etymology is not reconstructed or independently proved.",
+    "PG488 K63042 initial-vowel question,PG479 female abstracts,S1-S7/C2-C5/native inventories and Claude-deferred execution remain separate Open/deferred channels."
+  ]
+}

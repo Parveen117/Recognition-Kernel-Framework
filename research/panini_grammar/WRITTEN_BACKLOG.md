@@ -1,6 +1,6 @@
-# Written-development backlog at PG488
+# Written-development backlog at PG489
 
-Monty · 22 November 2026 · reviewed parent 6b506254f67997329b806e483ac29713192d3874.
+Monty · 22 November 2026 · reviewed parent 0ca1220fed25dd6593c4a0ddbb57a80c1b19df5c.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -541,3 +541,9 @@ S7 tiras gains the individually pinned lexical affix/sense evidence previously m
 PG488 completes [paṭvī degree hrasva-before-puṃvad panels](patvi_degree_shortening_before_pumvad/README.md):46new nominal positions/46readings,0finite/source/separate construction credits.48selected Fkeys withhold2old nom.sg controls.Inner ī→i retains v;outer ṭāp adds ā.Comparative r triggers gen.pl paṭvitarāṇām versus paṭvitamānām.K63042 initial-ā source difference stays Open.Totals51,819finite;4,878nominal/5,561readings;wider gates Open.
 
 C4 gains only this selected ṅī-feminine/gha/outer-gender48-key contract.K63042 comparative initial-vowel discrepancy remains a source question,not excluded/free optionality.Other comparison inputs/genders/īyasun-iṣṭhan and S1-S7/C2-C5/native gates remain Open.No source or old control recredit.
+
+## PG489 · Residual one-vowel nadī and optional reading ownership
+
+PG489 completes [strī residual-nadī optional degree panels](stri_residual_nadi_degree_optional_readings/README.md):46new nominal positions/92readings,0finite/source/separate construction credits.48keys96readings withhold2old keys/4readings.SHORT/KEEP stay readings of one key;Bāla/Tattva drop bhāṣitapuṃska here.TARAP r gives outer ṇ,TAMAP lexical r blocked by t.Totals51,819finite;4,924nominal/5,653readings;wider gates Open.
+
+C4 selected strī two-affix/F residual48-key96-reading interface CLOSED,not all residual nadī inputs or exceptions.The optional histories are not duplicate positions.Other ūṅ bases/kṛt-nadī controls/source questions/S1-S7/C2-C5/native gates remain Open;execution separate Claude-deferred.No old examples or source observations recredited.
