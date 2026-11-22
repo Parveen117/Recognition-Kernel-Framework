@@ -1,0 +1,704 @@
+{
+  "stage": "PG494",
+  "input": {
+    "root_i": "1020059",
+    "baseindex": "02.0059",
+    "sense": "jñāne",
+    "preverbs": [],
+    "inner": "supplied licensed śatṛ→vasu/ugit feminine viduṣī",
+    "actual_affix": "tamap5.3.55,gha1.1.22",
+    "semantic_premise": "supplied contextual atisayana;5.3.57 two/divided-upapada exception not triggered on this request",
+    "outer_reference": "female q with independent case/number",
+    "finite_pada": "P lexical source context only"
+  },
+  "paths": [
+    {
+      "id": "K_TAMAP_SHORT",
+      "policy": "K",
+      "mechanism_from": "K_SHORT",
+      "input_type": "SuppliedViduṣiSuperlative",
+      "readout": "viduṣitamā"
+    },
+    {
+      "id": "K_TAMAP_KEEP",
+      "policy": "K",
+      "mechanism_from": "K_KEEP",
+      "input_type": "SuppliedViduṣiSuperlative",
+      "readout": "viduṣītamā"
+    },
+    {
+      "id": "K_TAMAP_PUMVAD",
+      "policy": "K",
+      "mechanism_from": "K_PUMVAD",
+      "input_type": "SuppliedViduṣiSuperlative",
+      "readout": "vidvattamā"
+    },
+    {
+      "id": "K_TAMAP_UNEXPRESSED",
+      "policy": "K",
+      "mechanism_from": "K_UNEXPRESSED",
+      "input_type": "SuppliedUnexpressedGenderSuperlative",
+      "readout": "vidvattamā"
+    },
+    {
+      "id": "SK_TAMAP_SHORT",
+      "policy": "SK_BALA",
+      "mechanism_from": "SK_SHORT",
+      "input_type": "SuppliedViduṣiSuperlative",
+      "readout": "viduṣitamā"
+    },
+    {
+      "id": "SK_TAMAP_PUMVAD",
+      "policy": "SK_BALA",
+      "mechanism_from": "SK_PUMVAD",
+      "input_type": "SuppliedViduṣiSuperlative",
+      "readout": "vidvattamā"
+    }
+  ],
+  "trace": [
+    "actual tamap entitlement before gha query;not inherited comparative entitlement",
+    "K SHORT/KEEP/optional puṃvad or separate non-vivakṣā mechanism;SK_BALA SHORT/mandatory restoration when hrasva absent",
+    "restore vidvas only on admitted branch;8.2.72 s→d then8.4.55 d→t before actual tama,not tara",
+    "outer ṭāp and independently supplied Fsup",
+    "gen.pl nuṭ-n dental:two ṣ branches blocked by degree t;restored branch has no r/ṣ trigger"
+  ],
+  "rows": [
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "nom",
+      "number": "sg",
+      "readings": [
+        "viduṣitamā",
+        "viduṣītamā",
+        "vidvattamā"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "nom",
+      "number": "du",
+      "readings": [
+        "viduṣitame",
+        "viduṣītame",
+        "vidvattame"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "nom",
+      "number": "pl",
+      "readings": [
+        "viduṣitamāḥ",
+        "viduṣītamāḥ",
+        "vidvattamāḥ"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "acc",
+      "number": "sg",
+      "readings": [
+        "viduṣitamām",
+        "viduṣītamām",
+        "vidvattamām"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "acc",
+      "number": "du",
+      "readings": [
+        "viduṣitame",
+        "viduṣītame",
+        "vidvattame"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "acc",
+      "number": "pl",
+      "readings": [
+        "viduṣitamāḥ",
+        "viduṣītamāḥ",
+        "vidvattamāḥ"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "ins",
+      "number": "sg",
+      "readings": [
+        "viduṣitamayā",
+        "viduṣītamayā",
+        "vidvattamayā"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "ins",
+      "number": "du",
+      "readings": [
+        "viduṣitamābhyām",
+        "viduṣītamābhyām",
+        "vidvattamābhyām"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "ins",
+      "number": "pl",
+      "readings": [
+        "viduṣitamābhiḥ",
+        "viduṣītamābhiḥ",
+        "vidvattamābhiḥ"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "dat",
+      "number": "sg",
+      "readings": [
+        "viduṣitamāyai",
+        "viduṣītamāyai",
+        "vidvattamāyai"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "dat",
+      "number": "du",
+      "readings": [
+        "viduṣitamābhyām",
+        "viduṣītamābhyām",
+        "vidvattamābhyām"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "dat",
+      "number": "pl",
+      "readings": [
+        "viduṣitamābhyaḥ",
+        "viduṣītamābhyaḥ",
+        "vidvattamābhyaḥ"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "abl",
+      "number": "sg",
+      "readings": [
+        "viduṣitamāyāḥ",
+        "viduṣītamāyāḥ",
+        "vidvattamāyāḥ"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "abl",
+      "number": "du",
+      "readings": [
+        "viduṣitamābhyām",
+        "viduṣītamābhyām",
+        "vidvattamābhyām"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "abl",
+      "number": "pl",
+      "readings": [
+        "viduṣitamābhyaḥ",
+        "viduṣītamābhyaḥ",
+        "vidvattamābhyaḥ"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "gen",
+      "number": "sg",
+      "readings": [
+        "viduṣitamāyāḥ",
+        "viduṣītamāyāḥ",
+        "vidvattamāyāḥ"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "gen",
+      "number": "du",
+      "readings": [
+        "viduṣitamayoḥ",
+        "viduṣītamayoḥ",
+        "vidvattamayoḥ"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "gen",
+      "number": "pl",
+      "readings": [
+        "viduṣitamānām",
+        "viduṣītamānām",
+        "vidvattamānām"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "loc",
+      "number": "sg",
+      "readings": [
+        "viduṣitamāyām",
+        "viduṣītamāyām",
+        "vidvattamāyām"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "loc",
+      "number": "du",
+      "readings": [
+        "viduṣitamayoḥ",
+        "viduṣītamayoḥ",
+        "vidvattamayoḥ"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "loc",
+      "number": "pl",
+      "readings": [
+        "viduṣitamāsu",
+        "viduṣītamāsu",
+        "vidvattamāsu"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "voc",
+      "number": "sg",
+      "readings": [
+        "viduṣitame",
+        "viduṣītame",
+        "vidvattame"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "voc",
+      "number": "du",
+      "readings": [
+        "viduṣitame",
+        "viduṣītame",
+        "vidvattame"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    },
+    {
+      "profile": "VIDUSI_TAMAP_F",
+      "gender": "f",
+      "case": "voc",
+      "number": "pl",
+      "readings": [
+        "viduṣitamāḥ",
+        "viduṣītamāḥ",
+        "vidvattamāḥ"
+      ],
+      "policy_reading_indices": {
+        "K": [
+          0,
+          1,
+          2
+        ],
+        "SK_BALA": [
+          0,
+          2
+        ]
+      },
+      "position_credit": 1,
+      "reading_credit": 3,
+      "evidence": "AUTHORED_WRITTEN_COMPOSITION_NOT_NEW_ATTESTATION"
+    }
+  ],
+  "combined_selected_degree_scope": {
+    "keys": 48,
+    "union_readings": 144,
+    "K_readings": 144,
+    "SK_BALA_readings": 96,
+    "old_comparative_control_keys": 1,
+    "old_control_readings": 3,
+    "new_PG493_PG494_positions": 47,
+    "new_PG493_PG494_readings": 141
+  },
+  "controls": [
+    {
+      "id": "SUPERLATIVE_MODE_IS_ENTITLEMENT",
+      "outcome": "Open_requires_semantic_and_exception_evidence"
+    },
+    {
+      "id": "SK_KEEP",
+      "outcome": "Excluded_under_SK_BALA_only"
+    },
+    {
+      "id": "COPY_COMPARATIVE_NATVA",
+      "outcome": "Excluded_wrong_intervener_history"
+    },
+    {
+      "id": "GENERIC_GENDER_PREMISE_MISSING",
+      "outcome": "Open_vivaksa"
+    },
+    {
+      "id": "TAMAP_IS_NEW_ANCIENT_QUOTE",
+      "outcome": "Excluded_evidence_level_error"
+    }
+  ],
+  "open": [
+    "Selected vid1020059 śatṛ-vasu/no-prefix/tamap/F24case keys72source-qualified union readings CLOSED under stated K/SK_BALA family;other roots/genders/degree/accents remain Open.",
+    "5.3.55 requires supplied contextual prakarsa and applicable exceptions checked;an unknown5.3.57 trigger or missing degree context is Open,not automatic tamap entitlement.",
+    "K unexpressed-gender premise remains independently supplied;printed-source/original-Bhāṣya disagreement,PG488 textual issue,S1-S7/C2-C5/native and Claude execution remain separate Open/deferred channels."
+  ]
+}

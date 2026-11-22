@@ -1,6 +1,6 @@
-# Written-development backlog at PG493
+# Written-development backlog at PG494
 
-Monty · 23 November 2026 · reviewed parent fb639bba76dda495951178bae8ac7d15f6ceb643.
+Monty · 23 November 2026 · reviewed parent 66c92863017b5be07e18b29131fc84f6165e4d67.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -571,3 +571,9 @@ S7/C4/C5 gain only this directly located primary-work hierarchy and finite permi
 PG493 completes [viduṣī comparative policy-correlated Fcases](vidusi_comparative_policy_correlated_feminine_cases/README.md):23new nominal positions/69readings,0finite/source/separate construction credits.24keys72union readings withhold1old key/3readings.K retains3readings per case,SK_BALA2;shared paths/policies not extra positions.Actual terminal degree input required,not shortening permission alone.Totals51,819finite;4,994nominal/5,816readings;wider gates Open.
 
 PG491 comparative Fcase panel now locally CLOSED;superlative/other contexts/genders stay Open.PG492 permissions do not bypass terminal policy masks.K_KEEP present only in K;K_UNEXPRESSED still has its own vivakṣā premise.Source spelling/critical questions and S1-S7/C2-C5/native/execution channels unchanged.No old nom.sg or policy/path recredit.
+
+## PG494 · Actual tamap joins selected feminine degree grid
+
+PG494 completes [viduṣī tamap superlative policy-case grid](vidusi_superlative_tamap_and_policy_case_grid/README.md):24new nominal positions/72readings,0finite/source/separate construction credits.Actual5.3.55 context and tamap gha entitlement established;K3readings/SK_BALA2 per case preserved.Gen.pl dental n because ṣ cannot cross degree t;no comparative r.Paired selected Fdegree48keys144union readings CLOSED.Totals51,819finite;5,018nominal/5,888readings;wider gates Open.
+
+Earlier PG491/493 superlative Open now superseded only for this declared F/source-policy frame.Other degree contexts/genders/roots/accents remain Open;source reconciliation not closed.5.3.55 semantic/exception premises supplied before gha operations,not inherited from comparison.Keep source policies/unknown class and terminal-permission distinctions.S1-S7/C2-C5/native and Claude execution remain separate.

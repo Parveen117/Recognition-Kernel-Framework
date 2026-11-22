@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG493
+# Pāṇini grammar · current written coverage at PG494
+
+PG494 completes [viduṣī tamap superlative policy-case grid](vidusi_superlative_tamap_and_policy_case_grid/README.md):24new nominal positions/72readings,0finite/source/separate construction credits.Actual5.3.55 context and tamap gha entitlement established;K3readings/SK_BALA2 per case preserved.Gen.pl dental n because ṣ cannot cross degree t;no comparative r.Paired selected Fdegree48keys144union readings CLOSED.Totals51,819finite;5,018nominal/5,888readings;wider gates Open.
 
 PG493 completes [viduṣī comparative policy-correlated Fcases](vidusi_comparative_policy_correlated_feminine_cases/README.md):23new nominal positions/69readings,0finite/source/separate construction credits.24keys72union readings withhold1old key/3readings.K retains3readings per case,SK_BALA2;shared paths/policies not extra positions.Actual terminal degree input required,not shortening permission alone.Totals51,819finite;4,994nominal/5,816readings;wider gates Open.
 
