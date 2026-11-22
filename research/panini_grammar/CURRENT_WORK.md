@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG475
+# Pāṇini grammar · current written coverage at PG476
+
+PG476 completes [idit violence-math passive aorist/perfect](idit_math_passive_aorist_perfect_and_cluster_guard/README.md):18 new finite positions/18 readings,0 nominal/source/separate construction credits.Actual ciṇ3sg amanthi preserves n-upadhā;other sic cells have ordinary iṭ.Perfect ma-copy/root n owners stay distinct;cluster-final manth fails1.2.5 kit and6.4.120 etva,without arbitrary grade change.With72old0-credit keys,the selected ten-lakāra90keys/91readings is CLOSED.Totals51,819 finite;4,480 nominal/5,154 readings;wider gates Open.
 
 PG475 completes [idit violence-math passive modal/future/blessing panels](idit_math_passive_modal_future_and_blessing/README.md):63 new unique finite positions/64 source-qualified readings in loṭ,laṅ,ordinary liṅ,lṛṭ,lṛṅ,luṭ and āśīrliṅ;0 nominal/source/separate construction credits.Original idit/num retained;actual yak versus ordinary iṭ/outer affixes and patient agreement preserved.Luṭ2pl broad manthitādhve/narrow manthitāddhve remain named policies.With9 old laṭ controls,selected72keys/73readings CLOSED;luṅ/liṭ18 and wider gates Open.Totals51,801 finite;4,480 nominal/5,154 readings.
 

@@ -1,6 +1,6 @@
-# Written-development backlog at PG475
+# Written-development backlog at PG476
 
-Monty · 22 November 2026 · reviewed parent 14e73532234e2587d7e9bb2bf588a5c4c8c3b445.
+Monty · 22 November 2026 · reviewed parent 66f71d65633f94bf07ac133b7d9c0a63ce11b61a.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -477,3 +477,7 @@ PG474 completes [nested musical-vad niṣṭhā/ktvā affix owners](nested_music
 ### C3 · Idit violence-math seven passive continuations at PG475
 
 PG475 completes [idit violence-math passive modal/future/blessing panels](idit_math_passive_modal_future_and_blessing/README.md):63 new unique finite positions/64 source-qualified readings in loṭ,laṅ,ordinary liṅ,lṛṭ,lṛṅ,luṭ and āśīrliṅ;0 nominal/source/separate construction credits.Original idit/num retained;actual yak versus ordinary iṭ/outer affixes and patient agreement preserved.Luṭ2pl broad manthitādhve/narrow manthitāddhve remain named policies.With9 old laṭ controls,selected72keys/73readings CLOSED;luṅ/liṭ18 and wider gates Open.Totals51,801 finite;4,480 nominal/5,154 readings. Earlier PG393 other-lakāra Open is superseded only for these seven panels. Concrete residual:luṅ/liṭ9keys each need their own source/grade/reduplication/sic/ciṇ review;they are not excluded.C2/C3/C4/C5 wider inventories remain unmeasured;S1-S7 positive-evidence obligations and Claude-deferred execution stay separate.Project written completion remains **OPEN**.
+
+### C3 · Selected idit violence-root passive grid closes at PG476
+
+PG476 completes [idit violence-math passive aorist/perfect](idit_math_passive_aorist_perfect_and_cluster_guard/README.md):18 new finite positions/18 readings,0 nominal/source/separate construction credits.Actual ciṇ3sg amanthi preserves n-upadhā;other sic cells have ordinary iṭ.Perfect ma-copy/root n owners stay distinct;cluster-final manth fails1.2.5 kit and6.4.120 etva,without arbitrary grade change.With72old0-credit keys,the selected ten-lakāra90keys/91readings is CLOSED.Totals51,819 finite;4,480 nominal/5,154 readings;wider gates Open. PG475's18 luṅ/liṭ next keys now superseded only on the exact source-qualified violence/simple-passive profile.No additional selected-grid recount is needed.Other senses/formations/nominal/attestation domains stay unconstructed or Open;actual S1-S7 source readings,wider C2-C5 and Claude-deferred execution remain separate.Project written completion remains **OPEN**.

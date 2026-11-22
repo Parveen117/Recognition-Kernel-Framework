@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG476 completes [idit violence-math passive aorist/perfect](research/panini_grammar/idit_math_passive_aorist_perfect_and_cluster_guard/README.md):18 new finite positions/18 readings,0 nominal/source/separate construction credits.Actual ciṇ3sg amanthi preserves n-upadhā;other sic cells have ordinary iṭ.Perfect ma-copy/root n owners stay distinct;cluster-final manth fails1.2.5 kit and6.4.120 etva,without arbitrary grade change.With72old0-credit keys,the selected ten-lakāra90keys/91readings is CLOSED.Totals51,819 finite;4,480 nominal/5,154 readings;wider gates Open.
+
 PG475 completes [idit violence-math passive modal/future/blessing panels](research/panini_grammar/idit_math_passive_modal_future_and_blessing/README.md):63 new unique finite positions/64 source-qualified readings in loṭ,laṅ,ordinary liṅ,lṛṭ,lṛṅ,luṭ and āśīrliṅ;0 nominal/source/separate construction credits.Original idit/num retained;actual yak versus ordinary iṭ/outer affixes and patient agreement preserved.Luṭ2pl broad manthitādhve/narrow manthitāddhve remain named policies.With9 old laṭ controls,selected72keys/73readings CLOSED;luṅ/liṭ18 and wider gates Open.Totals51,801 finite;4,480 nominal/5,154 readings.
 
 PG474 completes [nested musical-vad niṣṭhā/ktvā affix owners](research/panini_grammar/nested_musical_vad_nistha_and_ktva_affix_owners/README.md):1 morphology interaction/3 readouts vādita,vāditavat,vādayitvā;0 new finite/nominal positions/readings/nonfinite word/source credits.Past E2 selects kta-patient c versus ktavatu outer-agent a;ordinary ktvā needs common outer a and E2 before G.Outer iṭ precedes H2-lopa only for seṭ niṣṭhā;seṭ ktvā retains H2-ay under its akit rule.Selected three-affix domain CLOSED;inflection/other frames/source gates Open.Totals51,738 finite;4,480 nominal/5,154 readings.
@@ -208,7 +210,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG475 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG476 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 
