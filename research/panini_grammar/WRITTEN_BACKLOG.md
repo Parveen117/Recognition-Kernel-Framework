@@ -1,6 +1,6 @@
-# Written-development backlog at PG498
+# Written-development backlog at PG499
 
-Monty · 23 November 2026 · reviewed parent 2b7b7252294641883a90368cb473024880ccd20b.
+Monty · 23 November 2026 · reviewed parent 5a278c1df573b7dc9a399ae4dbb4730eb0ddd0fc.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -601,3 +601,9 @@ Selected śoka/roga48case keys120readings locally CLOSED under named K/SK/Śāka
 PG498 locates [Uṇādi4.105 initial tracked import/stability](unadi_4105_initial_import_and_unchanged_affix_row/README.md):1new transmission source observation,0word/reading/construction/field-closure credits.All4open labels already at10May2020 addition76e28f3;direct parent lacks this path;all13selected ancestry path revisions have the same whole row.Four lexical links/original editorial-print cause remain Open;99/103direct unchanged.Totals51,819finite;5,064nominal/6,004readings;wider gates Open.
 
 S5 import/stability locator sub-obligation now CLOSED on the named path/pinned ancestry:76e28f3addition,directparent41bc537has no path.All4primary lexical links remain Open,not exclusions.The13revisions are one transmission chain;neither raw long-ā field correctness nor identity with old short-aṭac prints is proved.No extra lexical/word credits.Older/untracked/renamed history,print/editorial source and authorized repair remain Open alongside global S1-S7/C2-C5/native and Claude execution.
+
+## PG499 · Named hṛdya M/N membership and additive pause continuation
+
+PG499 constructs [named hṛdya M/N cases and owned ablative pause](hrdya_named_denotations_and_owned_ablative_pause/README.md):46new nominal positions/53readings,0finite/source/separate construction credits.4.4.95 named deśa/vana and putra block precede actual yat/hṛd;48new-panel keys50readings minus2old nominatives yields46/48.Add5voiced pause readings on old PG497 keys,0positions;frozen char readings retained.Totals51,819finite;5,110nominal/6,057readings;wider gates Open.
+
+Selected named deśa/vana M/N48keys50readings locally CLOSED.Other heads/female/human/4.4.96mantra/lexical homographs and accent/teacher products remain Open,not generic adjective expansion.PG497 selected48key grid gains5old-key pause readings120→125;its frozen -āt/char-selected presentation preserved,zero old position recredit.Source-fields reused;0new observations.S1-S7/C2-C5/native/Claude execution remain separate;S5fourlinksstillOpen99/103direct.

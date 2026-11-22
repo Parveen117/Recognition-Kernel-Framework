@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG498
+# Pāṇini grammar · current written coverage at PG499
+
+PG499 constructs [named hṛdya M/N cases and owned ablative pause](hrdya_named_denotations_and_owned_ablative_pause/README.md):46new nominal positions/53readings,0finite/source/separate construction credits.4.4.95 named deśa/vana and putra block precede actual yat/hṛd;48new-panel keys50readings minus2old nominatives yields46/48.Add5voiced pause readings on old PG497 keys,0positions;frozen char readings retained.Totals51,819finite;5,110nominal/6,057readings;wider gates Open.
 
 PG498 locates [Uṇādi4.105 initial tracked import/stability](unadi_4105_initial_import_and_unchanged_affix_row/README.md):1new transmission source observation,0word/reading/construction/field-closure credits.All4open labels already at10May2020 addition76e28f3;direct parent lacks this path;all13selected ancestry path revisions have the same whole row.Four lexical links/original editorial-print cause remain Open;99/103direct unchanged.Totals51,819finite;5,064nominal/6,004readings;wider gates Open.
 
