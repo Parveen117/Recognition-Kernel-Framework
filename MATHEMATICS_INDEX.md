@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG465 completes [causal vah outer-agent ktavatu three genders](research/panini_grammar/vah_causal_ktavatu_causer_and_three_gender_panels/README.md):72 new nominal positions/75 readings(24m/24,24f/24,24n/27),0 finite/source/separate construction credits.Outer E1kartṛ a—not b/c—is referent;ugit/length-before-num,ṅīp versus neuter-ending ī,single neuter num and3pause-doublet keys retain owners.Totals51,738 finite;4,480 nominal/5,154 readings.PG464–465 selected niṣṭhā144keys147readings CLOSED,72old rows0credits;source/other frames/wider gates Open.
+
 PG464 completes [causal vah kta timed-lopa and three genders](research/panini_grammar/vah_causal_kta_timed_lopa_and_three_gender_panels/README.md):72 new nominal positions/readings(24m/24f/24n),0 finite/source/separate construction credits.Past outer causation/c-patient input,outer iṭ before6.4.52 ṇic-lopa preserves root ā;seṭ kta stays kit,unlike ktvā.Feminine ṭāp/neuter num/genitive nuṭ and finite vāhitā homograph retain owners.Totals51,738 finite;4,408 nominal/5,079 readings.Selected patient panels CLOSED;causal ktavatu/other frames/source/wider gates Open.
 
 PG463 locates [initial-import82025 transmission boundary](research/panini_grammar/dhi_ca_initial_import_transmission_boundary/README.md):1 coherent two-file source observation,0 finite/nominal/nonfinite/construction credits.Bāla/Tattva hoḍhaḥ fields already present at tracked-path addition72c69459(2020-10-12),both field texts identical at frozen5744762.Full initial raw blobs/bytes pinned;whole files not identical.Pre-import mapping/editorial cause and upstream repair remain Open;no automatic key offset.Totals unchanged51,738 finite;4,336 nominal/5,007 readings.
@@ -186,7 +188,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG464 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG465 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 

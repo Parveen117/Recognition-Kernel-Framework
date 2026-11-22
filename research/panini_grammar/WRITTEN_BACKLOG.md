@@ -1,6 +1,6 @@
-# Written-development backlog at PG464
+# Written-development backlog at PG465
 
-Monty · 22 November 2026 · reviewed parent de9154ff8facee4cb34e4a9c8fc42a4b27d0e20a.
+Monty · 22 November 2026 · reviewed parent 122575bb173aaa637d8ad8c7fdc2c658bf9d66c1.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -433,3 +433,7 @@ PG463 locates [initial-import82025 transmission boundary](dhi_ca_initial_import_
 ### C2/C4/C5 · Causal vah patient-kta panels at PG464
 
 PG464 completes [causal vah kta timed-lopa and three genders](vah_causal_kta_timed_lopa_and_three_gender_panels/README.md):72 new nominal positions/readings(24m/24f/24n),0 finite/source/separate construction credits.Past outer causation/c-patient input,outer iṭ before6.4.52 ṇic-lopa preserves root ā;seṭ kta stays kit,unlike ktvā.Feminine ṭāp/neuter num/genitive nuṭ and finite vāhitā homograph retain owners.Totals51,738 finite;4,408 nominal/5,079 readings.Selected patient panels CLOSED;causal ktavatu/other frames/source/wider gates Open. This supersedes unconstructed-kta references only on the selected past/c-patient/m-f-n/ordinary-sup profile,not every kṛt sense,agentive ktavatu or source/semantic/native gate.No finite grid/source recount.Project written completion remains **OPEN**.
+
+### C2/C4/C5 · Selected causal-vah niṣṭhā closure at PG465
+
+PG465 completes [causal vah outer-agent ktavatu three genders](vah_causal_ktavatu_causer_and_three_gender_panels/README.md):72 new nominal positions/75 readings(24m/24,24f/24,24n/27),0 finite/source/separate construction credits.Outer E1kartṛ a—not b/c—is referent;ugit/length-before-num,ṅīp versus neuter-ending ī,single neuter num and3pause-doublet keys retain owners.Totals51,738 finite;4,480 nominal/5,154 readings.PG464–465 selected niṣṭhā144keys147readings CLOSED,72old rows0credits;source/other frames/wider gates Open. Earlier agent-ktavatu Open references are superseded only on this supplied unprefixed/past-E1/outer-a/three-gender ordinary profile.Other lexical/semantic/role/accent/source/native contracts remain genuine and independent textual attestations remain Open.Project written completion remains **OPEN**.

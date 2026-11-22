@@ -411,3 +411,24 @@ source/native gates and separate Claude-execution work remain Open.
 PG464 document-check attempt1 stopped at a missing consumed Kaumudī
 full-source manifest pin;manifest corrected to include every quoted source
 file before the justified retry.No Sanskrit execution was involved.
+
+
+## PG465 · Outer-causer ktavatu and selected causal niṣṭhā closure
+
+Resumed published122575bb173aaa637d8ad8c7fdc2c658bf9d66c1,clean tree
+after fetch;one repository sequentially,no agents or overlapping mutation.
+
+PG465 completes [causal vah outer-agent ktavatu three genders](vah_causal_ktavatu_causer_and_three_gender_panels/README.md):72 new nominal positions/75 readings(24m/24,24f/24,24n/27),0 finite/source/separate construction credits.Outer E1kartṛ a—not b/c—is referent;ugit/length-before-num,ṅīp versus neuter-ending ī,single neuter num and3pause-doublet keys retain owners.Totals51,738 finite;4,480 nominal/5,154 readings.PG464–465 selected niṣṭhā144keys147readings CLOSED,72old rows0credits;source/other frames/wider gates Open.
+
+Actual new72nominal keys/75readings,0finite/source/separate units.New stage
+finishes complementary outer-agent domain rather than recopying patient c.
+Only new agent rows credited;combined144/147 ledger is0aggregate credit.
+All words authored source compositions;pastE1,role/gender/affix/augment and
+competing pause histories explicit.PG14 full operator/history typed zero
+square written.PG335/PG357–363 CLOSED/frozen bytes/inherited corrections
+preserved.Necessary explicitPython3.12 changed-document/source/count actual
+result/attempts in packet.No generators,grammar/proof execution,old/
+navigation/engine suites or replay.Fetch/expected-parent existing-review
+publication,no force/main merge.No automation,continuous-hours/ETA or global
+completion claim.C2-C5/S1-S7 source/native/semantic tasks remain genuine Open
+and separate Claude-deferred execution remains unrun.
