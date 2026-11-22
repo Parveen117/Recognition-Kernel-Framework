@@ -1,6 +1,6 @@
-# Written-development backlog at PG495
+# Written-development backlog at PG496
 
-Monty · 23 November 2026 · reviewed parent e204458e10ab2b03f5f8b74a4e93ab45bd56b473.
+Monty · 23 November 2026 · reviewed parent 710bc73609d0a1fbeffc8c406ad44d700a77daca.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -583,3 +583,9 @@ Earlier PG491/493 superlative Open now superseded only for this declared F/sourc
 PG495 constructs [hṛdaya+lekha exact-affix replacement](hrdaya_lekha_exact_affix_and_surface_nonfactorability/README.md):1morphology/visibility adapter,2controlled stem readouts,0new finite/nominal positions/readings/source observations.Aṇ lekha gives owned hṛd→hṛl before l;ghañ lekha retains hṛdaya.Missing affix identity stays Open;surface-only guard cannot distinguish the two histories.Source words are old controls,not new credits.Totals51,819finite;5,018nominal/5,888readings;wider gates Open.
 
 Locally CLOSED only on the two supplied licensed lekha compound frames.Old PG39 examples/IDs not recredited.No automatic tadanta expansion in this uttarapada rule;not a universal ban elsewhere.Raw Bāla damage and competing explanatory policies retained.Other6.3.50 frames/6.3.51/inner semantics/compound/accent/source/native obligations remain Open.Execution remains Claude-deferred.
+
+## PG496 · Optional hṛd controls later vowel queries
+
+PG496 constructs [su-hṛdaya ṣyañ and branch-dependent vṛddhi](suhrdaya_syan_optional_hrd_and_two_member_vrddhi/README.md):1morphological construction/2stem readouts,0new finite/nominal positions/readings/source observations.Actual ṣyañ/ñ_IT and5.1.124 witness retained.Hṛd branch has both-member vṛddhi→sauhārdya;retained hṛdaya has initial vṛddhi and owned a-lopa→sauhṛdayya,with two y owners.Old source controls withheld;totals51,819finite;5,018nominal/5,888readings unchanged.Wider gates Open.
+
+Selected exact su-hṛdaya bhāva+ṣyañ stem relation locally CLOSED.Other6.3.50/51 frames,full nominal gender/case/accent panels and independent hṛd lexical paths remain Open;raw source damage not a new variant.No source-observation or old word recredit.Conditional semantic/compound inputs remain explicit.S1-S7/C2-C5/global/native and Claude execution stay separate.

@@ -1,0 +1,153 @@
+{
+  "stage": "PG496",
+  "input": {
+    "id": "SU_HRDAYA_BHAVA_SYAN",
+    "nominal_base": "su|hṛdaya",
+    "semantics": "supplied su-hṛdayasya bhāvaḥ,not arbitrary relatedness/property or action",
+    "compound_licence": "supplied source-qualified su-hṛdaya constituent structure",
+    "prefix": "nominal compound su first member,not a verbal upasarga assignment",
+    "root": "no new verbal root/voice is assigned to nominal hṛdaya",
+    "outer_affix": "actual ṣyañ5.1.124;not aṇ",
+    "register": "selected unaccented source frame"
+  },
+  "paths": [
+    {
+      "id": "HRD_OPTION",
+      "input": "SU_HRDAYA_BHAVA_SYAN",
+      "selected_option": "6.3.51 hṛd",
+      "affix": {
+        "teaching": "ṣyañ",
+        "sounded": "ya",
+        "markers": [
+          "ṣ_IT",
+          "ñ_IT"
+        ],
+        "role": "taddhita bhāva",
+        "source": "5.1.124 brahmaṇādi witnessed by K63051"
+      },
+      "trace": [
+        {
+          "event": "6.3.51",
+          "before": "su|hṛdaya+ṣyañ",
+          "after": "su|hṛd+ṣyañ",
+          "owner": "last compound member"
+        },
+        {
+          "event": "1.3.6/1.3.3/1.3.9",
+          "before": "su|hṛd+ṣyañ",
+          "after": "su|hṛd+ya",
+          "owner": "outer affix markers only"
+        },
+        {
+          "event": "7.3.19",
+          "before": "su|hṛd+ya",
+          "after": "sau|hārd+ya",
+          "owner": "first vowel of each member;u→au,ṛ→ār"
+        },
+        {
+          "event": "readout",
+          "after": "sauhārdya",
+          "owner": "whole derived nominal stem"
+        }
+      ],
+      "stem": "sauhārdya",
+      "old_source_control": "sauhārdyam"
+    },
+    {
+      "id": "KEEP_HRDAYA",
+      "input": "SU_HRDAYA_BHAVA_SYAN",
+      "selected_option": "6.3.51 no hṛd",
+      "affix": {
+        "teaching": "ṣyañ",
+        "sounded": "ya",
+        "markers": [
+          "ṣ_IT",
+          "ñ_IT"
+        ],
+        "role": "taddhita bhāva",
+        "source": "5.1.124 brahmaṇādi witnessed by K63051"
+      },
+      "trace": [
+        {
+          "event": "6.3.51_decline",
+          "before": "su|hṛdaya+ṣyañ",
+          "after": "su|hṛdaya+ṣyañ",
+          "owner": "explicit optional retention"
+        },
+        {
+          "event": "1.3.6/1.3.3/1.3.9",
+          "before": "su|hṛdaya+ṣyañ",
+          "after": "su|hṛdaya+ya",
+          "owner": "outer affix markers only"
+        },
+        {
+          "event": "7.2.117",
+          "before": "su|hṛdaya+ya",
+          "after": "sau|hṛdaya+ya",
+          "owner": "whole aṅga first vowel only;u→au"
+        },
+        {
+          "event": "1.4.18/6.4.148",
+          "before": "sau|hṛdaya+ya",
+          "after": "sau|hṛday+ya",
+          "owner": "base-final a lopa;both sounded y tokens retained"
+        },
+        {
+          "event": "readout",
+          "after": "sauhṛdayya",
+          "owner": "whole derived nominal stem"
+        }
+      ],
+      "stem": "sauhṛdayya",
+      "old_source_control": "sauhṛdayyam"
+    }
+  ],
+  "source_analyses": {
+    "independent_hrd": "K63051 notes separate synonymous hṛd lexeme;its paths require a different initial lexical record and receive no new construction/word credit here",
+    "raw_damage": "K/SK clean readings selected;Bāla सौहाद्र्य/hma and Tattva सौहार्य/typos retained in literal source fields"
+  },
+  "controls": [
+    {
+      "id": "COPY_BOTH_MEMBER_VRDDHI_TO_KEEP",
+      "outcome": "Excluded_local_edge",
+      "reason": "actual retained final member is hṛdaya,not hṛd;7.3.19 does not admit this frame"
+    },
+    {
+      "id": "CLIP_Y_TO_ONE",
+      "outcome": "Excluded_local_edge",
+      "reason": "6.4.148 removes only base a,not its preceding y or outer ya y"
+    },
+    {
+      "id": "FORGET_NIT_AFTER_LOPA",
+      "outcome": "Excluded_history_erasure",
+      "reason": "ñ_IT ownership remains available to vṛddhi queries"
+    },
+    {
+      "id": "ARBITRARY_AKRITIGANA_MEMBER",
+      "outcome": "Open",
+      "reason": "selected source witness does not enumerate universal productive membership"
+    },
+    {
+      "id": "AṆ_RELATION_INSTEAD_OF_BHAVA",
+      "outcome": "Open_other_formation",
+      "reason": "K73019 lists separate sauhārda relation;aṇ is not this ṣyañ request"
+    },
+    {
+      "id": "NO_COMPOUND_OR_SENSE_EVIDENCE",
+      "outcome": "Open"
+    },
+    {
+      "id": "ALL_GENDERS_CASES_ACCENTS",
+      "outcome": "Open_outside_selected_stem_relation"
+    }
+  ],
+  "counts": {
+    "morphological_constructions": 1,
+    "morphological_readouts": 2,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0
+  }
+}

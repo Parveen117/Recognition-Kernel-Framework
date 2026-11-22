@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG495
+# Pāṇini grammar · current written coverage at PG496
+
+PG496 constructs [su-hṛdaya ṣyañ and branch-dependent vṛddhi](suhrdaya_syan_optional_hrd_and_two_member_vrddhi/README.md):1morphological construction/2stem readouts,0new finite/nominal positions/readings/source observations.Actual ṣyañ/ñ_IT and5.1.124 witness retained.Hṛd branch has both-member vṛddhi→sauhārdya;retained hṛdaya has initial vṛddhi and owned a-lopa→sauhṛdayya,with two y owners.Old source controls withheld;totals51,819finite;5,018nominal/5,888readings unchanged.Wider gates Open.
 
 PG495 constructs [hṛdaya+lekha exact-affix replacement](hrdaya_lekha_exact_affix_and_surface_nonfactorability/README.md):1morphology/visibility adapter,2controlled stem readouts,0new finite/nominal positions/readings/source observations.Aṇ lekha gives owned hṛd→hṛl before l;ghañ lekha retains hṛdaya.Missing affix identity stays Open;surface-only guard cannot distinguish the two histories.Source words are old controls,not new credits.Totals51,819finite;5,018nominal/5,888readings;wider gates Open.
 
