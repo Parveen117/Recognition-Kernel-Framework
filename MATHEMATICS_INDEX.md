@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG474 completes [nested musical-vad niṣṭhā/ktvā affix owners](research/panini_grammar/nested_musical_vad_nistha_and_ktva_affix_owners/README.md):1 morphology interaction/3 readouts vādita,vāditavat,vādayitvā;0 new finite/nominal positions/readings/nonfinite word/source credits.Past E2 selects kta-patient c versus ktavatu outer-agent a;ordinary ktvā needs common outer a and E2 before G.Outer iṭ precedes H2-lopa only for seṭ niṣṭhā;seṭ ktvā retains H2-ay under its akit rule.Selected three-affix domain CLOSED;inflection/other frames/source gates Open.Totals51,738 finite;4,480 nominal/5,154 readings.
+
 PG473 locates [anadyatana PDF glyph reading and search boundary](research/panini_grammar/anadyatana_pdf_glyph_reading_and_search_boundary/README.md):1 electronic source observation,0 new finite/nominal positions/readings/construction credits.Wilbourhall PDF page98 visibly reads laṅ in3.2.111 heading and prescription,contrasting preceding luṅ;search snippet is not a visible counter-witness.Word2007/self-reported2008 metadata does not establish independent printed lineage or raw32111 transmission cause;both remain Open.Old PG348 temporal guard preserved.Totals51,738 finite;4,480 nominal/5,154 readings.
 
 PG472 constructs [nested musical-vad passive and saṃprasāraṇa guard](research/panini_grammar/nested_musical_vad_passive_and_samprasarana_guard/README.md):1 syntax/controller contract/readout and1 morphology contract/readout,0 new finite/nominal positions/readings/source credits.Supplied intransitive instrument c becomes unique retained object;player b stays agent,not a new outer object.Two ṇic lopas retain vād;actual derived yak/tatpratyaya guard blocks simple udyate replay and yields vādyate.Source roles override English instrument naming.Selected passive frame CLOSED,wider gates Open.Totals51,738 finite;4,480 nominal/5,154 readings.
@@ -204,7 +206,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG473 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG474 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 

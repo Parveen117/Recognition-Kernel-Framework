@@ -1,0 +1,130 @@
+{
+  "stage": "PG474",
+  "root_record": {
+    "i": "1011164",
+    "baseindex": "01.1164",
+    "dhatu": "वद्",
+    "aupadeshik": "वदँ",
+    "gana": "1",
+    "pada": "P",
+    "settva": "S",
+    "karma": "S",
+    "artha": "व्यक्तायां वाचि",
+    "artha_english": "to talk, to speak, to tell, to describe, to inform, to explain to utter, to communicate",
+    "tags": "उदात्तोपदेशः,chittoor3",
+    "dhaturoopnandini": "1009",
+    "sk": "1009",
+    "lsk_sutra": "",
+    "sk_sutra": "2419",
+    "artha_hindi": "कहना, स्पष्ट बोलना",
+    "upasargas": [
+      {
+        "name": "अनु",
+        "artha_hindi": "पीछे से बोलना"
+      },
+      {
+        "name": "अप",
+        "artha_hindi": "निन्दा करना, अपकार कारक भाषण करना"
+      },
+      {
+        "name": "अभि",
+        "artha_hindi": "सत्कार पूर्वक अभिनन्दन करना"
+      },
+      {
+        "name": "परि",
+        "artha_hindi": "विरुद्ध बोलना"
+      },
+      {
+        "name": "प्रति",
+        "artha_hindi": "उत्तर देना"
+      },
+      {
+        "name": "वि",
+        "artha_hindi": "वाद विवाद करना"
+      },
+      {
+        "name": "वि + प्र",
+        "artha_hindi": "बकवास करना"
+      }
+    ],
+    "antarganas": "यजादिः",
+    "dhaturoopnandini_note": " व्यक्तवाचि वदेद्वा णौ वादयेद् वदते वदेत् ' (श्लो. 109) - देवः ।"
+  },
+  "preverbs": [],
+  "formation": "two hetumat nic H1/H2,no svartha S",
+  "events": {
+    "E0": "intransitive instrument c sounding,supplied",
+    "E1": "player b causes E0",
+    "E2": "outer a induces E1"
+  },
+  "input_state": "vaad_R|empty_H1|i_H2",
+  "domain": "PG471 lexical sense,PG472 unique-c/no-additional-object frame;no finite voice/pada ending selected",
+  "readouts": [
+    {
+      "id": "KTA",
+      "actual_affix": "kta",
+      "sound": "ta",
+      "event_premise": "completed past E2 positively supplied",
+      "referent": "c,outer unique karman",
+      "effective_kit": true,
+      "outer_it": "present before H2 lopa",
+      "H2": "deleted by6.4.52",
+      "owned_output": "vaad_R|empty_H1|empty_H2|i_IT|ta_KTA",
+      "readout": "vādita",
+      "output_type": "uninflected participial base"
+    },
+    {
+      "id": "KTAVATU",
+      "actual_affix": "ktavatu",
+      "sound": "tavat",
+      "event_premise": "completed past E2 positively supplied",
+      "referent": "a,E2 kartṛ",
+      "effective_kit": true,
+      "outer_it": "present before H2 lopa",
+      "H2": "deleted by6.4.52",
+      "owned_output": "vaad_R|empty_H1|empty_H2|i_IT|tavat_KTAVATU",
+      "readout": "vāditavat",
+      "output_type": "uninflected ugit participial base"
+    },
+    {
+      "id": "KTVA",
+      "actual_affix": "ktva",
+      "sound": "tvā",
+      "event_premise": "E2 earlier than G,and kartṛ(G)=a positively supplied",
+      "referent": "a,common outer kartṛ",
+      "effective_kit": false,
+      "outer_it": "present,protected short i",
+      "H2": "retained;guṇa/ayādi on H2-i",
+      "owned_output": "vaad_R|empty_H1|ay_H2|i_IT|tvaa_KTVA",
+      "readout": "vādayitvā",
+      "output_type": "indeclinable prior-action word"
+    }
+  ],
+  "controls": [
+    {
+      "id": "PAST_E0_ONLY",
+      "outcome": "Open_E2_past_evidence"
+    },
+    {
+      "id": "INNER_PLAYER_CONTROL_ONLY",
+      "outcome": "Excluded_ordinary_ktva_edge"
+    },
+    {
+      "id": "UNKNOWN_CONTROL_ORDER",
+      "outcome": "Open_control_order"
+    },
+    {
+      "id": "KTVA_NISTHA_LOPA",
+      "outcome": "Excluded_wrong_actual_affix"
+    },
+    {
+      "id": "IT_DELETED_AS_NIC",
+      "outcome": "Excluded_wrong_owner"
+    }
+  ],
+  "open": [
+    "Other objects/participants/senses/preverbs and kṛt exceptions,case/gender/number inflection and other derived formations not constructed.",
+    "Independent nested-kṛt sentence attestation/printed lexical lineage and general event/control recognition remain Open.",
+    "Actual C2-C5/S1-S7/native gates and Claude-deferred grammar execution/generators/old suites/replay remain separate."
+  ]
+}
