@@ -1,6 +1,6 @@
-# Written-development backlog at PG487
+# Written-development backlog at PG488
 
-Monty · 22 November 2026 · reviewed parent fa71b4e23c4d49ed63522b0d2201167f30d0a2c8.
+Monty · 22 November 2026 · reviewed parent 6b506254f67997329b806e483ac29713192d3874.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -535,3 +535,9 @@ PG484 missing original-work electronic locator now CLOSED at53028;independent pr
 PG487 locates [Vācaspatyam tiraskāra affix/role witness](tiraskara_vacaspati_bhava_agent_affix_witness/README.md):1source observation/2analysis records,0finite/nominal/construction credits.L22789 p3302a distinguishes bhāva ghañ/anādara from kartṛ aṇ/avajñākāraka.Same word does not erase role/affix;root-ID/compound mechanism/original Mādhava stay Open.Totals51,819finite;4,832nominal/5,515readings unchanged.
 
 S7 tiras gains the individually pinned lexical affix/sense evidence previously missing fromPG480.The complete compound/affix-entitlement mechanism,original Mādhava/printed Tattva/lineage remain Open.Source spelling kṛ has no publisher ID;do not silently promote retained project1080010 to dictionary evidence.S1 latest full Jayamaṅgalā OCR lookup did not locate exact āhadhvaṃ quote,0credit/no closure.All other S1-S7/C2-C5/native and Claude-deferred channels unchanged.
+
+## PG488 · Selected inner feminine shortening before degree restoration
+
+PG488 completes [paṭvī degree hrasva-before-puṃvad panels](patvi_degree_shortening_before_pumvad/README.md):46new nominal positions/46readings,0finite/source/separate construction credits.48selected Fkeys withhold2old nom.sg controls.Inner ī→i retains v;outer ṭāp adds ā.Comparative r triggers gen.pl paṭvitarāṇām versus paṭvitamānām.K63042 initial-ā source difference stays Open.Totals51,819finite;4,878nominal/5,561readings;wider gates Open.
+
+C4 gains only this selected ṅī-feminine/gha/outer-gender48-key contract.K63042 comparative initial-vowel discrepancy remains a source question,not excluded/free optionality.Other comparison inputs/genders/īyasun-iṣṭhan and S1-S7/C2-C5/native gates remain Open.No source or old control recredit.
