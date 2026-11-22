@@ -1,0 +1,856 @@
+{
+  "stage": "PG497",
+  "domain": {
+    "lexical_first_member": "hṛdaya",
+    "selected_relations": [
+      "supplied licensed hṛdaya GEN+śoka tatpuruṣa,grief sense",
+      "supplied licensed hṛdaya GEN+roga tatpuruṣa,disease sense"
+    ],
+    "gender": "masculine outer heads,positive Vācaspatyam pu0 observations",
+    "root_policy": "nominal heads;VCP reports śuc+ghañ and ruj+ghañ without exact root IDs;no finite root-ID/sense/pada claim is inferred",
+    "preverbs": "none;no verbal upasarga assignment",
+    "independent_hrd": "different initial lexeme,not merged or separately credited"
+  },
+  "policy": {
+    "primary": "K/SK6.3.51 optional hṛd and8.4.63 optional ch;Śākalya8.4.51 no additional pronunciation dvitva",
+    "other_teachers": "other duplication/recitation policies and their full products remain Open,not globally Excluded"
+  },
+  "paths": [
+    {
+      "id": "SOKA_HRD_CH",
+      "trace": [
+        "6.3.51 hṛdaya→hṛd",
+        "1.1.62/1.4.14 retained compound-member padānta",
+        "8.4.40 d→j before ś",
+        "8.4.55 j→c before ś",
+        "8.4.63 ś→ch before o;Śākalya no additional dvitva"
+      ],
+      "stem": "hṛcchoka"
+    },
+    {
+      "id": "SOKA_HRD_KEEP_S",
+      "trace": [
+        "6.3.51 hṛdaya→hṛd",
+        "retained member padānta",
+        "8.4.40 d→j",
+        "8.4.55 j→c",
+        "decline8.4.63;Śākalya no additional dvitva"
+      ],
+      "stem": "hṛcśoka"
+    },
+    {
+      "id": "SOKA_KEEP_HRDAYA",
+      "trace": [
+        "decline6.3.51",
+        "no adjacent jhay at ś,8.4.63 not admitted"
+      ],
+      "stem": "hṛdayaśoka"
+    },
+    {
+      "id": "ROGA_HRD",
+      "trace": [
+        "6.3.51 hṛdaya→hṛd",
+        "d before r remains d;no invented c/ch"
+      ],
+      "stem": "hṛdroga"
+    },
+    {
+      "id": "ROGA_KEEP_HRDAYA",
+      "trace": [
+        "decline6.3.51"
+      ],
+      "stem": "hṛdayaroga"
+    }
+  ],
+  "rows": [
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "nom",
+      "number": "sg",
+      "readings": [
+        "hṛcchokaḥ",
+        "hṛcśokaḥ",
+        "hṛdayaśokaḥ"
+      ],
+      "position_credit": 0,
+      "reading_credit": 1,
+      "old_reading_indices": [
+        0,
+        2
+      ],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "nom",
+      "number": "du",
+      "readings": [
+        "hṛcchokau",
+        "hṛcśokau",
+        "hṛdayaśokau"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "nom",
+      "number": "pl",
+      "readings": [
+        "hṛcchokāḥ",
+        "hṛcśokāḥ",
+        "hṛdayaśokāḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "acc",
+      "number": "sg",
+      "readings": [
+        "hṛcchokam",
+        "hṛcśokam",
+        "hṛdayaśokam"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "acc",
+      "number": "du",
+      "readings": [
+        "hṛcchokau",
+        "hṛcśokau",
+        "hṛdayaśokau"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "acc",
+      "number": "pl",
+      "readings": [
+        "hṛcchokān",
+        "hṛcśokān",
+        "hṛdayaśokān"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "ins",
+      "number": "sg",
+      "readings": [
+        "hṛcchokena",
+        "hṛcśokena",
+        "hṛdayaśokena"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "ins",
+      "number": "du",
+      "readings": [
+        "hṛcchokābhyām",
+        "hṛcśokābhyām",
+        "hṛdayaśokābhyām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "ins",
+      "number": "pl",
+      "readings": [
+        "hṛcchokaiḥ",
+        "hṛcśokaiḥ",
+        "hṛdayaśokaiḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "dat",
+      "number": "sg",
+      "readings": [
+        "hṛcchokāya",
+        "hṛcśokāya",
+        "hṛdayaśokāya"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "dat",
+      "number": "du",
+      "readings": [
+        "hṛcchokābhyām",
+        "hṛcśokābhyām",
+        "hṛdayaśokābhyām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "dat",
+      "number": "pl",
+      "readings": [
+        "hṛcchokebhyaḥ",
+        "hṛcśokebhyaḥ",
+        "hṛdayaśokebhyaḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "abl",
+      "number": "sg",
+      "readings": [
+        "hṛcchokāt",
+        "hṛcśokāt",
+        "hṛdayaśokāt"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "abl",
+      "number": "du",
+      "readings": [
+        "hṛcchokābhyām",
+        "hṛcśokābhyām",
+        "hṛdayaśokābhyām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "abl",
+      "number": "pl",
+      "readings": [
+        "hṛcchokebhyaḥ",
+        "hṛcśokebhyaḥ",
+        "hṛdayaśokebhyaḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "gen",
+      "number": "sg",
+      "readings": [
+        "hṛcchokasya",
+        "hṛcśokasya",
+        "hṛdayaśokasya"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "gen",
+      "number": "du",
+      "readings": [
+        "hṛcchokayoḥ",
+        "hṛcśokayoḥ",
+        "hṛdayaśokayoḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "gen",
+      "number": "pl",
+      "readings": [
+        "hṛcchokānām",
+        "hṛcśokānām",
+        "hṛdayaśokānām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "loc",
+      "number": "sg",
+      "readings": [
+        "hṛcchoke",
+        "hṛcśoke",
+        "hṛdayaśoke"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "loc",
+      "number": "du",
+      "readings": [
+        "hṛcchokayoḥ",
+        "hṛcśokayoḥ",
+        "hṛdayaśokayoḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "loc",
+      "number": "pl",
+      "readings": [
+        "hṛcchokeṣu",
+        "hṛcśokeṣu",
+        "hṛdayaśokeṣu"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "voc",
+      "number": "sg",
+      "readings": [
+        "hṛcchoka",
+        "hṛcśoka",
+        "hṛdayaśoka"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "voc",
+      "number": "du",
+      "readings": [
+        "hṛcchokau",
+        "hṛcśokau",
+        "hṛdayaśokau"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_SOKA",
+      "gender": "m",
+      "case": "voc",
+      "number": "pl",
+      "readings": [
+        "hṛcchokāḥ",
+        "hṛcśokāḥ",
+        "hṛdayaśokāḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 3,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "nom",
+      "number": "sg",
+      "readings": [
+        "hṛdrogaḥ",
+        "hṛdayarogaḥ"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0,
+      "old_reading_indices": [
+        0,
+        1
+      ],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "nom",
+      "number": "du",
+      "readings": [
+        "hṛdrogau",
+        "hṛdayarogau"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "nom",
+      "number": "pl",
+      "readings": [
+        "hṛdrogāḥ",
+        "hṛdayarogāḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "acc",
+      "number": "sg",
+      "readings": [
+        "hṛdrogam",
+        "hṛdayarogam"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "acc",
+      "number": "du",
+      "readings": [
+        "hṛdrogau",
+        "hṛdayarogau"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "acc",
+      "number": "pl",
+      "readings": [
+        "hṛdrogān",
+        "hṛdayarogān"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "ins",
+      "number": "sg",
+      "readings": [
+        "hṛdrogeṇa",
+        "hṛdayarogeṇa"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "ins",
+      "number": "du",
+      "readings": [
+        "hṛdrogābhyām",
+        "hṛdayarogābhyām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "ins",
+      "number": "pl",
+      "readings": [
+        "hṛdrogaiḥ",
+        "hṛdayarogaiḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "dat",
+      "number": "sg",
+      "readings": [
+        "hṛdrogāya",
+        "hṛdayarogāya"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "dat",
+      "number": "du",
+      "readings": [
+        "hṛdrogābhyām",
+        "hṛdayarogābhyām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "dat",
+      "number": "pl",
+      "readings": [
+        "hṛdrogebhyaḥ",
+        "hṛdayarogebhyaḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "abl",
+      "number": "sg",
+      "readings": [
+        "hṛdrogāt",
+        "hṛdayarogāt"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "abl",
+      "number": "du",
+      "readings": [
+        "hṛdrogābhyām",
+        "hṛdayarogābhyām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "abl",
+      "number": "pl",
+      "readings": [
+        "hṛdrogebhyaḥ",
+        "hṛdayarogebhyaḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "gen",
+      "number": "sg",
+      "readings": [
+        "hṛdrogasya",
+        "hṛdayarogasya"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "gen",
+      "number": "du",
+      "readings": [
+        "hṛdrogayoḥ",
+        "hṛdayarogayoḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "gen",
+      "number": "pl",
+      "readings": [
+        "hṛdrogāṇām",
+        "hṛdayarogāṇām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "loc",
+      "number": "sg",
+      "readings": [
+        "hṛdroge",
+        "hṛdayaroge"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "loc",
+      "number": "du",
+      "readings": [
+        "hṛdrogayoḥ",
+        "hṛdayarogayoḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "loc",
+      "number": "pl",
+      "readings": [
+        "hṛdrogeṣu",
+        "hṛdayarogeṣu"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "voc",
+      "number": "sg",
+      "readings": [
+        "hṛdroga",
+        "hṛdayaroga"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "voc",
+      "number": "du",
+      "readings": [
+        "hṛdrogau",
+        "hṛdayarogau"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    },
+    {
+      "profile": "HRDAYA_ROGA",
+      "gender": "m",
+      "case": "voc",
+      "number": "pl",
+      "readings": [
+        "hṛdrogāḥ",
+        "hṛdayarogāḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "policy": "K_SK_SHAKALYA_NO_ADDITIONAL_DVITVA",
+      "evidence": "AUTHORED_COMPOSITION_EXCEPT_EXPLICIT_OLD_NOM_SG_CONTROLS"
+    }
+  ],
+  "controls": [
+    {
+      "id": "FORCE_CH",
+      "outcome": "Excluded_local_inference",
+      "reason": "8.4.63 explicitly anyatarasyām"
+    },
+    {
+      "id": "HRT_SOKA_TERMINAL",
+      "outcome": "Excluded_under_selected_scuttva_policy",
+      "reason": "before ś,8.4.40 palatalization required;do not omit it on no-ch branch"
+    },
+    {
+      "id": "ARBITRARY_S_TO_CH",
+      "outcome": "Excluded_local_edge",
+      "reason": "retained hṛdaya lacks adjacent jhay before ś"
+    },
+    {
+      "id": "ALL_PRONUNCIATION_POLICIES_CLOSED",
+      "outcome": "Open",
+      "reason": "other dvitva/recitation families not constructed here"
+    },
+    {
+      "id": "UNKNOWN_COMPOUND_OR_MEANING",
+      "outcome": "Open"
+    }
+  ],
+  "counts": {
+    "selected_keys": 48,
+    "selected_readings": 120,
+    "old_nom_keys": 2,
+    "old_nom_readings": 4,
+    "new_nominal_positions": 46,
+    "new_nominal_readings": 116,
+    "new_reading_on_old_key": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_source_observations": 2,
+    "separate_construction_credits": 0
+  }
+}

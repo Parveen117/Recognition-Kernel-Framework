@@ -1,6 +1,6 @@
-# Written-development backlog at PG496
+# Written-development backlog at PG497
 
-Monty · 23 November 2026 · reviewed parent 710bc73609d0a1fbeffc8c406ad44d700a77daca.
+Monty · 23 November 2026 · reviewed parent f0675e125310d4aa406be47801fea997c48244f3.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -589,3 +589,9 @@ Locally CLOSED only on the two supplied licensed lekha compound frames.Old PG39 
 PG496 constructs [su-hṛdaya ṣyañ and branch-dependent vṛddhi](suhrdaya_syan_optional_hrd_and_two_member_vrddhi/README.md):1morphological construction/2stem readouts,0new finite/nominal positions/readings/source observations.Actual ṣyañ/ñ_IT and5.1.124 witness retained.Hṛd branch has both-member vṛddhi→sauhārdya;retained hṛdaya has initial vṛddhi and owned a-lopa→sauhṛdayya,with two y owners.Old source controls withheld;totals51,819finite;5,018nominal/5,888readings unchanged.Wider gates Open.
 
 Selected exact su-hṛdaya bhāva+ṣyañ stem relation locally CLOSED.Other6.3.50/51 frames,full nominal gender/case/accent panels and independent hṛd lexical paths remain Open;raw source damage not a new variant.No source-observation or old word recredit.Conditional semantic/compound inputs remain explicit.S1-S7/C2-C5/global/native and Claude execution stay separate.
+
+## PG497 · Masculine heart grief/disease cases and dependent ch
+
+PG497 completes [hṛdaya grief/disease masculine cases with optional ch](hrdaya_soka_roga_cases_and_optional_ch_policy/README.md):46new nominal positions/116readings,0finite/separate construction credits,2lexical-entry observations in one Vācaspatyam work.48keys120readings minus2oldnom.sg keys4readings;new hṛcśokaḥ adds a reading on an old key.Śākalya no-additional-dvitva policy and K/SK optional ch explicit;other teachers Open.Head roga r gives ṇ,śoka dental n.Totals51,819finite;5,064nominal/6,004readings;wider gates Open.
+
+Selected śoka/roga48case keys120readings locally CLOSED under named K/SK/Śākalya no-additional-dvitva family.Other teacher/recitation products remain genuine Open obligations,together with independent hṛd lexical paths,inner nominal root-ID derivations,other6.3.50/51 frames,PG496 abstract gender/cases/accents and global S1-S7/C2-C5/native.Two source entries establish head gender/sense in one work,not independent original Amara/Rājanighaṇṭu collation.Execution Claude-deferred.
