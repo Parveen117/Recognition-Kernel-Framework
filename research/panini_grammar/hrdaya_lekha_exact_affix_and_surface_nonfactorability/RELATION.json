@@ -1,0 +1,107 @@
+{
+  "stage": "PG495",
+  "domain": "SuppliedLicensedHrdayaLekhaCompounds with verified right-member aṇ/ghañ history;both stems already licensed,not a new universal kṛt constructor",
+  "inputs": [
+    {
+      "id": "LEKHA_AN",
+      "first_member": "hṛdaya",
+      "right_visible_stem": "lekha",
+      "right_root_i": "1060092",
+      "right_root_baseindex": "06.0092",
+      "root_sense": "akṣaravinyāse",
+      "preverbs": [],
+      "root_pada": "P lexical context only",
+      "actual_affix": "aṇ",
+      "affix_role": "kṛt kartari with hṛdaya karman-upapada",
+      "compound": "supplied licensed upapada tatpuruṣa",
+      "semantic_source": "hṛdayaṃ likhati",
+      "entitlement_source": [
+        "K63050",
+        "BALA63050",
+        "K32001",
+        "K22019"
+      ],
+      "marker_history": "aṇ teaching form and final ṇ_IT retained after marker loss",
+      "query_status": "APPLY_HRD",
+      "written_steps": [
+        "hṛdaya|lekha",
+        "hṛd|lekha",
+        "hṛl|lekha",
+        "hṛllekha"
+      ],
+      "source_control": "hṛllekhaḥ"
+    },
+    {
+      "id": "LEKHA_GHAN",
+      "first_member": "hṛdaya",
+      "right_visible_stem": "lekha",
+      "right_root_i": "1060092",
+      "right_root_baseindex": "06.0092",
+      "root_sense": "akṣaravinyāse",
+      "preverbs": [],
+      "root_pada": "P lexical context only",
+      "actual_affix": "ghañ",
+      "affix_role": "supplied licensed nominal lekha;inner bhāva/kāraka analysis not newly adjudicated",
+      "compound": "supplied licensed genitive tatpuruṣa",
+      "semantic_source": "hṛdayasya lekhaḥ",
+      "entitlement_source": [
+        "K63050",
+        "SK63050",
+        "K22008"
+      ],
+      "marker_history": "ghañ teaching form and gh/ñ_IT history retained;not aṇ",
+      "query_status": "DO_NOT_APPLY_HRD",
+      "written_steps": [
+        "hṛdaya|lekha",
+        "hṛdaya|lekha",
+        "hṛdayalekha"
+      ],
+      "source_control": "hṛdayalekhaḥ"
+    }
+  ],
+  "outputs": [
+    {
+      "input": "LEKHA_AN",
+      "history": "6.3.50 whole hṛdaya→hṛd;8.4.60 dental d→l before right l;retain two l owners",
+      "stem": "hṛllekha"
+    },
+    {
+      "input": "LEKHA_GHAN",
+      "history": "explicit source-qualified no-hrd compound continuation;6.3.50 edge excluded locally",
+      "stem": "hṛdayalekha"
+    }
+  ],
+  "controls": [
+    {
+      "id": "LOST_AFFIX_IDENTITY",
+      "outcome": "Open",
+      "obligation": "visible lekha does not determine aṇ/ghañ;do not output them as freely optional readings"
+    },
+    {
+      "id": "WRONG_GHAN_HRD_EDGE",
+      "outcome": "Excluded_local_edge_only",
+      "whole_request": "Derived_hṛdayalekha_when_remaining_supplied_premises_hold"
+    },
+    {
+      "id": "ANY_AN_ENDING_EXPANSION",
+      "outcome": "Excluded_unlicensed_inference_in_uttarapada_scope",
+      "obligation": "named lekha needs explicit member licence;do not turn the suffix aṇ clause into all aṇ-ending words"
+    },
+    {
+      "id": "UNLICENSED_COMPOUND",
+      "outcome": "Open",
+      "obligation": "6.3.50 is a replacement rule,not a compound-entitlement rule"
+    },
+    {
+      "id": "NON_LEKHA_OR_OTHER_ROOT",
+      "outcome": "Open_outside_selected_adapter"
+    }
+  ],
+  "policy_justifications": {
+    "K_SK": "explicitly named aṇ-ending lekha;separate ghañ counterexample;uttarapada no automatic tadanta expansion",
+    "BALA": "reports older aṇ-sāhacarya explanation,then vyākhyāna as preferred explanation",
+    "TATTVA": "states aṇ-sāhacarya explanation;common selected extension,distinct explanatory policy"
+  },
+  "word_credits": 0,
+  "readout_credits": 2
+}

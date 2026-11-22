@@ -1,6 +1,6 @@
-# Written-development backlog at PG494
+# Written-development backlog at PG495
 
-Monty · 23 November 2026 · reviewed parent 66c92863017b5be07e18b29131fc84f6165e4d67.
+Monty · 23 November 2026 · reviewed parent e204458e10ab2b03f5f8b74a4e93ab45bd56b473.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -577,3 +577,9 @@ PG491 comparative Fcase panel now locally CLOSED;superlative/other contexts/gend
 PG494 completes [viduṣī tamap superlative policy-case grid](vidusi_superlative_tamap_and_policy_case_grid/README.md):24new nominal positions/72readings,0finite/source/separate construction credits.Actual5.3.55 context and tamap gha entitlement established;K3readings/SK_BALA2 per case preserved.Gen.pl dental n because ṣ cannot cross degree t;no comparative r.Paired selected Fdegree48keys144union readings CLOSED.Totals51,819finite;5,018nominal/5,888readings;wider gates Open.
 
 Earlier PG491/493 superlative Open now superseded only for this declared F/source-policy frame.Other degree contexts/genders/roots/accents remain Open;source reconciliation not closed.5.3.55 semantic/exception premises supplied before gha operations,not inherited from comparison.Keep source policies/unknown class and terminal-permission distinctions.S1-S7/C2-C5/native and Claude execution remain separate.
+
+## PG495 · Exact-affix compound replacement and blocked near-case
+
+PG495 constructs [hṛdaya+lekha exact-affix replacement](hrdaya_lekha_exact_affix_and_surface_nonfactorability/README.md):1morphology/visibility adapter,2controlled stem readouts,0new finite/nominal positions/readings/source observations.Aṇ lekha gives owned hṛd→hṛl before l;ghañ lekha retains hṛdaya.Missing affix identity stays Open;surface-only guard cannot distinguish the two histories.Source words are old controls,not new credits.Totals51,819finite;5,018nominal/5,888readings;wider gates Open.
+
+Locally CLOSED only on the two supplied licensed lekha compound frames.Old PG39 examples/IDs not recredited.No automatic tadanta expansion in this uttarapada rule;not a universal ban elsewhere.Raw Bāla damage and competing explanatory policies retained.Other6.3.50 frames/6.3.51/inner semantics/compound/accent/source/native obligations remain Open.Execution remains Claude-deferred.
