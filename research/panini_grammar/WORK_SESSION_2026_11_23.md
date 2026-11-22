@@ -83,3 +83,60 @@ Fetched/published aligned parent 5a278c1df573b7dc9a399ae4dbb4730eb0ddd0fc;one re
 PG499 constructs [named hṛdya M/N cases and owned ablative pause](hrdya_named_denotations_and_owned_ablative_pause/README.md):46new nominal positions/53readings,0finite/source/separate construction credits.4.4.95 named deśa/vana and putra block precede actual yat/hṛd;48new-panel keys50readings minus2old nominatives yields46/48.Add5voiced pause readings on old PG497 keys,0positions;frozen char readings retained.Totals51,819finite;5,110nominal/6,057readings;wider gates Open.
 
 Actual new46nominal positions/53readings,0finite/source/separate construction credits.Selected K4.4.95 named deśaM/vanaN48keys50readings minus2old nominatives gives46/48.Generic pleasantness/putra not thisroute;other lexical/female/human domains Open.4.4.96mantra homograph separate.Actualyat finalt_IT and mandatorywhole hṛd replacement preserve ṛ,no copiedṣyañvṛddhi.Dentald blocks outer n→ṇ.Separate inherited ablativepause t/d gives5newvoiced readings on oldPG497keys;no newpositions/frozenedits.PG497selected48keys125pausequalifiedreadingsnow,otherteachersexternaljunctionsOpen.PG14 typed joint A/R/S/P square and old-owned-ablative restriction supplied.Necessary checks recorded;grammar/execution/old suites/replay Claude-deferred.Frozen PG335/PG357–363/predecessors/pins preserved.S1-S7/C2-C5/global gates Open.Fetch/expected-parent/nonforce existing review publication only.
+
+## PG500 · Explicit member licence defeats a blanket ghañ filter
+
+Fetched aligned parent bbd81af212a0dd33515d605b184ddff59d71f02c;one target repo sequentially,no subagents/new automation/other writer observed.Read PG39/PG495 exact source/prose/factored records before construction.
+
+PG500 constructs [named ghañ-lāsa and affix-only guard failure](hrllasa_named_ghan_member_and_affix_only_guard_failure/README.md):1morphology/selector construction/1stem readout,0finite/nominal/source credits.Explicit lāsa ghañ admits hṛd→hṛl before l→hṛllāsa;PG495 ghañ lekha stays blocked locally.Not a blanket ghañ ban or universal suffix-ending expansion.Inner lāsa source-sense/root-ID contract remains Open outside supplied nominal input.Totals51,819finite;5,110nominal/6,057readings;wider gates Open.
+
+Actual new1morphology/selector construction/1stem readout;0finite/nominal positions/readings/source observations.K63050 explicit lāsa and Bāla positive ghañ permit replacement despite PG495 ghañ lekha local block;named-member+affix guard required.No speculative las homonym/root-ID or full inner kṛt derivation is claimed.Actual whole hṛdaya→hṛd then8.4.60d→l retains two l owners.Old hṛllāsa source word and inherited lekha control get zero new credits.PG14 typed A/R/L zero square supplied.Necessary checks recorded,grammar/execution/old suites/replay Claude-deferred.Frozen PG335/PG357–363/predecessors/pins preserved.Global gates remain Open;concrete next contracts in backlog.Fetch/expected-parent/nonforce existing review branch publication only.
+
+## PG494–PG500 · Actual continuation results and review handoff
+
+Review baseline:66c92863017b5be07e18b29131fc84f6165e4d67(PG493).
+No predecessor-stage results are included as fresh work below.
+
+|New stage|New finite positions/readings|New nominal positions/readings|Other new units|Exact publication/evidence|
+|---|---|---|---|---|
+|PG494|0/0|24/72|0source/separate construction|[e204458](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/e204458e10ab2b03f5f8b74a4e93ab45bd56b473):actual tamap entitlement and policy-correlated Fcases|
+|PG495|0/0|0/0|1morphology adapter/2readouts|[710bc73](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/710bc73609d0a1fbeffc8c406ad44d700a77daca):aṇ/ghañ lekha and surface nonfactorability|
+|PG496|0/0|0/0|1morphology construction/2readouts|[f0675e1](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/f0675e125310d4aa406be47801fea997c48244f3):actual ṣyañ,optional hṛd and one/two-member vṛddhi|
+|PG497|0/0|46/116|2lexical entry observations in one Vācaspatyam work|[2b7b725](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/2b7b7252294641883a90368cb473024880ccd20b):śoka/roga Mpanels,dependent optional ch,positive head genders|
+|PG498|0/0|0/0|1tracked-transmission source observation|[5a278c1](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/5a278c1df573b7dc9a399ae4dbb4730eb0ddd0fc):initial4105 row/import locator;four lexical fields still Open|
+|PG499|0/0|46/53|0source/separate construction|[bbd81af](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/bbd81af212a0dd33515d605b184ddff59d71f02c):named hṛdya M/N and5voiced readings on oldPG497keys|
+|PG500|0/0|0/0|1morphology/selector construction/1readout|Containing review commit:[packet](hrllasa_named_ghan_member_and_affix_only_guard_failure/README.md);source-pinned ghañ lāsa versus ghañ lekha|
+
+Actual additions:0finite positions/0finite readings;116unique nominal
+positions/241nominal readings;3morphology constructions/adapters with
+5readouts;3source observations(two lexical entries in one work,one
+repository transmission boundary).These units are separate,not summed as
+word coverage.No source-policy/independent-work/field-closure credits were
+invented.Cumulative51,819finite positions;5,110nominal positions and
+6,057nominalreadings.No audited cumulative finite-reading denominator is
+asserted.The PG335 -9/-12 correction and PG357–363 CLOSED historical
+results remain frozen.
+
+Necessary changed-document/source/count checks use Python3.12.14 with
+explicit3.12assertions;actual results/attempts are in each packet.No
+Sanskrit generators,grammar execution,untouched old/navigation/engine
+suites or certificate replay ran.Those stay Claude-deferred.All additions
+carry PG14 full native operator/history lifts and typed zero-compatibility
+on their declared domains;none upgrades universal native/runtime closure.
+
+Source decisions:retain K/SK_BALA degree-policy masks;retain source-qualified
+Śākalya no-additional-dvitva and optional-ch histories;retain named deśa/
+vana versus excluded-putra4.4.95 route and distinct4.4.96mantra profile;
+retain explicit ghañ lāsa despite blocked ghañ lekha;retain long-ā raw
+4105label at its initial tracked addition without equating it to the old
+short-aṭac print witness or excluding the four missing lexical links.
+All newly composed forms remain authored derivations,not invented ancient
+quotations.Critical/raw-source disagreements remain visible.
+
+Overall written-development completion:OPEN.The immediate positive next
+contracts are6.3.50 actual aṇ hṛdayasya idam/hārda and4.4.96 hṛdya
+mantra's distinct ṛṣi=Veda/binding-function semantics.Other independent
+hṛd profiles/teacher-recitation products,unmeasured C2–C5 domains and
+S1–S7 original/textual obligations remain genuine.The four S5 fields
+sya/ḍha/ḍaṭ/āṭac are still Open at99/103direct;initial import location
+is not lexical closure.No completion/hours/ETA claim or new automation.

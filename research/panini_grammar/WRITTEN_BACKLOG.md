@@ -1,6 +1,6 @@
-# Written-development backlog at PG499
+# Written-development backlog at PG500
 
-Monty · 23 November 2026 · reviewed parent 5a278c1df573b7dc9a399ae4dbb4730eb0ddd0fc.
+Monty · 23 November 2026 · reviewed parent bbd81af212a0dd33515d605b184ddff59d71f02c.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -607,3 +607,11 @@ S5 import/stability locator sub-obligation now CLOSED on the named path/pinned a
 PG499 constructs [named hṛdya M/N cases and owned ablative pause](hrdya_named_denotations_and_owned_ablative_pause/README.md):46new nominal positions/53readings,0finite/source/separate construction credits.4.4.95 named deśa/vana and putra block precede actual yat/hṛd;48new-panel keys50readings minus2old nominatives yields46/48.Add5voiced pause readings on old PG497 keys,0positions;frozen char readings retained.Totals51,819finite;5,110nominal/6,057readings;wider gates Open.
 
 Selected named deśa/vana M/N48keys50readings locally CLOSED.Other heads/female/human/4.4.96mantra/lexical homographs and accent/teacher products remain Open,not generic adjective expansion.PG497 selected48key grid gains5old-key pause readings120→125;its frozen -āt/char-selected presentation preserved,zero old position recredit.Source-fields reused;0new observations.S1-S7/C2-C5/native/Claude execution remain separate;S5fourlinksstillOpen99/103direct.
+
+## PG500 · Named lāsa is a positive ghañ counterexample
+
+PG500 constructs [named ghañ-lāsa and affix-only guard failure](hrllasa_named_ghan_member_and_affix_only_guard_failure/README.md):1morphology/selector construction/1stem readout,0finite/nominal/source credits.Explicit lāsa ghañ admits hṛd→hṛl before l→hṛllāsa;PG495 ghañ lekha stays blocked locally.Not a blanket ghañ ban or universal suffix-ending expansion.Inner lāsa source-sense/root-ID contract remains Open outside supplied nominal input.Totals51,819finite;5,110nominal/6,057readings;wider gates Open.
+
+Locally CLOSED only supplied source-qualified hṛdaya GEN+lāsa nominal replacement/sound composition.Affix-only guard cannot model the lāsa/lekha pair.Inner lāsa root-ID/sense derivation remains Open;do not silently choose homonymous las entries.No source/old word/control recredit.
+
+Concrete next unconstructed contracts:6.3.50 actual aṇ hṛdayasya idam/hārda versus PG496 ṣyañ bhāva;4.4.96 hṛdya mantra with ṛṣi=Veda and binding-function semantics,distinct from PG499 priya deśa/vana;independent initial hṛd source profiles and other teacher/recitation products before claiming their full panels.S1-S7 source evidence remains mandatory;S5fourlinksOpen99/103direct despite located import boundary.C2-C5/global denominators remain unmeasured and Open,Claude execution separate.

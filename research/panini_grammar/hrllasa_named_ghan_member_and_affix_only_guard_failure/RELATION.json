@@ -1,0 +1,86 @@
+{
+  "stage": "PG500",
+  "input": {
+    "type": "SuppliedLicensedHrdayaLasaCompound",
+    "first_nominal": "hṛdaya",
+    "right_nominal": "lāsa",
+    "right_actual_affix": "ghañ",
+    "relation": "supplied licensed GEN hṛdayasya lāsaḥ tatpuruṣa",
+    "root_scope": "inner lāsa already licensed nominal input;this source prints no exact project dhātu ID,so no unverified las homonym/finite voice/preverb assignment is made",
+    "prefixes": "no verbal upasarga assignment",
+    "source_policy": "K/SK clean hṛllāsa;Bāla ghañ identification with raw damage retained",
+    "affix_source": "positively identified in Bāla63050",
+    "hrd_guard": true
+  },
+  "trace": [
+    {
+      "rule": "6.3.50",
+      "before": "hṛdaya|lāsa",
+      "after": "hṛd|lāsa",
+      "target_owner": "whole first nominal node,retain original ancestry",
+      "guard": "expressly named lāsa member;ghañ is not a blanket exclusion"
+    },
+    {
+      "rule": "8.4.60",
+      "before": "hṛd|lāsa",
+      "after": "hṛl|lāsa",
+      "target_owner": "replacement-owned dental d before right-member l"
+    },
+    {
+      "rule": "stem_observation",
+      "before": "hṛl|lāsa",
+      "after": "hṛllāsa",
+      "target_owner": "two surviving l occurrences with distinct owners"
+    }
+  ],
+  "new_stem_readouts": [
+    "hṛllāsa"
+  ],
+  "inherited_control": {
+    "stage": "PG495",
+    "input": "LEKHA_GHAN",
+    "right_member": "lekha",
+    "actual_affix": "ghañ",
+    "hrd_guard": false,
+    "stem": "hṛdayalekha",
+    "new_credit": 0
+  },
+  "controls": [
+    {
+      "id": "ALL_GHAN_BLOCKS_HRD",
+      "outcome": "Excluded_inference",
+      "reason": "named lāsa with same ghañ is a positive counterexample"
+    },
+    {
+      "id": "ALL_GHAN_ENDING_WORDS_ALLOWED",
+      "outcome": "Excluded_inference",
+      "reason": "ghañ lekha remains source-excluded from hṛd replacement"
+    },
+    {
+      "id": "COPY_63051_OPTIONALITY",
+      "outcome": "Excluded_local_edge",
+      "reason": "6.3.50 named lāsa replacement is not optional6.3.51"
+    },
+    {
+      "id": "UNKNOWN_MEMBER_OR_COMPOUND",
+      "outcome": "Open"
+    },
+    {
+      "id": "LAS_ROOT_ID_AND_INNER_DERIVATION",
+      "outcome": "Open_outside_this_supplied_nominal_interface"
+    },
+    {
+      "id": "INDEPENDENT_HRD_LEXEME",
+      "outcome": "Open_separate_initial_history"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0
+  }
+}
