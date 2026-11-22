@@ -1,6 +1,6 @@
-# Written-development backlog at PG497
+# Written-development backlog at PG498
 
-Monty · 23 November 2026 · reviewed parent f0675e125310d4aa406be47801fea997c48244f3.
+Monty · 23 November 2026 · reviewed parent 2b7b7252294641883a90368cb473024880ccd20b.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -595,3 +595,9 @@ Selected exact su-hṛdaya bhāva+ṣyañ stem relation locally CLOSED.Other6.3.
 PG497 completes [hṛdaya grief/disease masculine cases with optional ch](hrdaya_soka_roga_cases_and_optional_ch_policy/README.md):46new nominal positions/116readings,0finite/separate construction credits,2lexical-entry observations in one Vācaspatyam work.48keys120readings minus2oldnom.sg keys4readings;new hṛcśokaḥ adds a reading on an old key.Śākalya no-additional-dvitva policy and K/SK optional ch explicit;other teachers Open.Head roga r gives ṇ,śoka dental n.Totals51,819finite;5,064nominal/6,004readings;wider gates Open.
 
 Selected śoka/roga48case keys120readings locally CLOSED under named K/SK/Śākalya no-additional-dvitva family.Other teacher/recitation products remain genuine Open obligations,together with independent hṛd lexical paths,inner nominal root-ID derivations,other6.3.50/51 frames,PG496 abstract gender/cases/accents and global S1-S7/C2-C5/native.Two source entries establish head gender/sense in one work,not independent original Amara/Rājanighaṇṭu collation.Execution Claude-deferred.
+
+## PG498 · S5 tracked import boundary positively located
+
+PG498 locates [Uṇādi4.105 initial tracked import/stability](unadi_4105_initial_import_and_unchanged_affix_row/README.md):1new transmission source observation,0word/reading/construction/field-closure credits.All4open labels already at10May2020 addition76e28f3;direct parent lacks this path;all13selected ancestry path revisions have the same whole row.Four lexical links/original editorial-print cause remain Open;99/103direct unchanged.Totals51,819finite;5,064nominal/6,004readings;wider gates Open.
+
+S5 import/stability locator sub-obligation now CLOSED on the named path/pinned ancestry:76e28f3addition,directparent41bc537has no path.All4primary lexical links remain Open,not exclusions.The13revisions are one transmission chain;neither raw long-ā field correctness nor identity with old short-aṭac prints is proved.No extra lexical/word credits.Older/untracked/renamed history,print/editorial source and authorized repair remain Open alongside global S1-S7/C2-C5/native and Claude execution.

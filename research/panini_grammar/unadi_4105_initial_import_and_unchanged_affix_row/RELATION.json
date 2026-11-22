@@ -1,0 +1,66 @@
+{
+  "stage": "PG498",
+  "input": {
+    "target_commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+    "path": "unaadi/data.txt",
+    "row_id": "4105",
+    "required_fields": [
+      "i",
+      "sutra",
+      "pratyay",
+      "sk"
+    ]
+  },
+  "evidence": {
+    "first_tracked_commit": "76e28f3dc44507d171334b8bd21ae2a7372d8de9",
+    "direct_parent": "41bc53729dddb5b16b03bbff865c033888d48223",
+    "first_date_utc": "2020-05-10T22:23:01Z",
+    "path_absent_at_direct_parent": true,
+    "tracked_revision_count": 13,
+    "whole_row_equal_to_target_at_each": true,
+    "raw_four_open_labels": [
+      "स्य",
+      "ढ",
+      "डट्",
+      "आटच्"
+    ]
+  },
+  "outcomes": [
+    {
+      "id": "TRACKED_IMPORT_BOUNDARY",
+      "status": "LOCATED",
+      "claim": "All four labels already present at exact tracked path addition;no later introduction among the13selected ancestry path revisions"
+    },
+    {
+      "id": "FOUR_LEXICAL_AFFIX_LINKS",
+      "status": "Open",
+      "fields": [
+        "sya",
+        "ḍha",
+        "ḍaṭ",
+        "āṭac"
+      ],
+      "direct_fields": 99,
+      "total_fields": 103
+    },
+    {
+      "id": "EDITORIAL_OR_PRINT_CAUSE",
+      "status": "Open",
+      "claim": "No original source,editorial explanation,untracked prior/renamed path lineage or repair decision established"
+    },
+    {
+      "id": "SHORT_ATAC_IS_IDENTICAL",
+      "status": "Excluded_inference_only",
+      "claim": "Known printed short aṭac and initial long āṭac differ;stability alone does not identify their primary fields or delete either reading"
+    }
+  ],
+  "counts": {
+    "new_source_observations": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_construction_units": 0,
+    "new_affix_field_closures": 0
+  }
+}

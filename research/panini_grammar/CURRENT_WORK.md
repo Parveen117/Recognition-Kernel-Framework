@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG497
+# Pāṇini grammar · current written coverage at PG498
+
+PG498 locates [Uṇādi4.105 initial tracked import/stability](unadi_4105_initial_import_and_unchanged_affix_row/README.md):1new transmission source observation,0word/reading/construction/field-closure credits.All4open labels already at10May2020 addition76e28f3;direct parent lacks this path;all13selected ancestry path revisions have the same whole row.Four lexical links/original editorial-print cause remain Open;99/103direct unchanged.Totals51,819finite;5,064nominal/6,004readings;wider gates Open.
 
 PG497 completes [hṛdaya grief/disease masculine cases with optional ch](hrdaya_soka_roga_cases_and_optional_ch_policy/README.md):46new nominal positions/116readings,0finite/separate construction credits,2lexical-entry observations in one Vācaspatyam work.48keys120readings minus2oldnom.sg keys4readings;new hṛcśokaḥ adds a reading on an old key.Śākalya no-additional-dvitva policy and K/SK optional ch explicit;other teachers Open.Head roga r gives ṇ,śoka dental n.Totals51,819finite;5,064nominal/6,004readings;wider gates Open.
 
