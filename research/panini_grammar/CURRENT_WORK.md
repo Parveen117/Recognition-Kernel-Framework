@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG474
+# Pāṇini grammar · current written coverage at PG475
+
+PG475 completes [idit violence-math passive modal/future/blessing panels](idit_math_passive_modal_future_and_blessing/README.md):63 new unique finite positions/64 source-qualified readings in loṭ,laṅ,ordinary liṅ,lṛṭ,lṛṅ,luṭ and āśīrliṅ;0 nominal/source/separate construction credits.Original idit/num retained;actual yak versus ordinary iṭ/outer affixes and patient agreement preserved.Luṭ2pl broad manthitādhve/narrow manthitāddhve remain named policies.With9 old laṭ controls,selected72keys/73readings CLOSED;luṅ/liṭ18 and wider gates Open.Totals51,801 finite;4,480 nominal/5,154 readings.
 
 PG474 completes [nested musical-vad niṣṭhā/ktvā affix owners](nested_musical_vad_nistha_and_ktva_affix_owners/README.md):1 morphology interaction/3 readouts vādita,vāditavat,vādayitvā;0 new finite/nominal positions/readings/nonfinite word/source credits.Past E2 selects kta-patient c versus ktavatu outer-agent a;ordinary ktvā needs common outer a and E2 before G.Outer iṭ precedes H2-lopa only for seṭ niṣṭhā;seṭ ktvā retains H2-ay under its akit rule.Selected three-affix domain CLOSED;inflection/other frames/source gates Open.Totals51,738 finite;4,480 nominal/5,154 readings.
 

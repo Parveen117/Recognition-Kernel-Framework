@@ -1,6 +1,6 @@
-# Written-development backlog at PG474
+# Written-development backlog at PG475
 
-Monty · 22 November 2026 · reviewed parent 403a4e68d6f8cef03aca6c9af7930f4ed0da3a0b.
+Monty · 22 November 2026 · reviewed parent 14e73532234e2587d7e9bb2bf588a5c4c8c3b445.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -473,3 +473,7 @@ PG473 locates [anadyatana PDF glyph reading and search boundary](anadyatana_pdf_
 ### C2/C4 · Nested musical-vad three-affix continuation at PG474
 
 PG474 completes [nested musical-vad niṣṭhā/ktvā affix owners](nested_musical_vad_nistha_and_ktva_affix_owners/README.md):1 morphology interaction/3 readouts vādita,vāditavat,vādayitvā;0 new finite/nominal positions/readings/nonfinite word/source credits.Past E2 selects kta-patient c versus ktavatu outer-agent a;ordinary ktvā needs common outer a and E2 before G.Outer iṭ precedes H2-lopa only for seṭ niṣṭhā;seṭ ktvā retains H2-ay under its akit rule.Selected three-affix domain CLOSED;inflection/other frames/source gates Open.Totals51,738 finite;4,480 nominal/5,154 readings. The earlier nested-musical kṛt Open is superseded only on this exact past-E2/ordinary outer-control domain.No gender/case panel or general prefix/compound admission is inferred.Project written completion remains **OPEN**.
+
+### C3 · Idit violence-math seven passive continuations at PG475
+
+PG475 completes [idit violence-math passive modal/future/blessing panels](idit_math_passive_modal_future_and_blessing/README.md):63 new unique finite positions/64 source-qualified readings in loṭ,laṅ,ordinary liṅ,lṛṭ,lṛṅ,luṭ and āśīrliṅ;0 nominal/source/separate construction credits.Original idit/num retained;actual yak versus ordinary iṭ/outer affixes and patient agreement preserved.Luṭ2pl broad manthitādhve/narrow manthitāddhve remain named policies.With9 old laṭ controls,selected72keys/73readings CLOSED;luṅ/liṭ18 and wider gates Open.Totals51,801 finite;4,480 nominal/5,154 readings. Earlier PG393 other-lakāra Open is superseded only for these seven panels. Concrete residual:luṅ/liṭ9keys each need their own source/grade/reduplication/sic/ciṇ review;they are not excluded.C2/C3/C4/C5 wider inventories remain unmeasured;S1-S7 positive-evidence obligations and Claude-deferred execution stay separate.Project written completion remains **OPEN**.
