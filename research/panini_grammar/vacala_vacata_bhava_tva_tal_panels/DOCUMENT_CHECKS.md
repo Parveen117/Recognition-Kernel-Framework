@@ -1,0 +1,1 @@
+ExplicitPython3.12 necessary changed-document/source/count checks only:exact consumed fields/pins,96unique keys/98literal readings,cumulative arithmetic,meaning/gender/affix/inner-sup boundaries,typed written compatibility,new links/UTF8/confinement.No Sanskrit generators,grammar execution,untouched suites or certificate replay.Actual result/attempts recorded.

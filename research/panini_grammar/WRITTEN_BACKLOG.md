@@ -1,6 +1,6 @@
-# Written-development backlog at PG478
+# Written-development backlog at PG479
 
-Monty · 22 November 2026 · reviewed parent f48bc18e405d4e9cfe23ef9ad8609bb13bba58e5.
+Monty · 22 November 2026 · reviewed parent bd895ac55b101d586956290b701ffc4289231113.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -489,3 +489,7 @@ PG477 locates [anadyatana direct-parent laṅ→luṅ transition](anadyatana_dir
 ### C4 · Censured-talkativeness human gender/case realization at PG478
 
 PG478 completes [vācāla/vācāṭa blame-guard human M/F case panels](vacala_vacata_blame_guard_and_human_gender_panels/README.md):94new nominal positions/96readings,0finite/source/separate construction credits.96selected keys/98readings include2old source nom.sg controls0credit.K5.2.125 kutsite versus proper speech retained;internal ṭ of āṭac is sounded,final c alone removed;ṭāp/sup/nuṭ owners explicit.Uṇādi4.105 fourfields stay Open.Totals51,819finite;4,574nominal/5,250readings;wider gates Open. Old5.2.125 meaning/affix/source units0recredit.New local inflection96keys is distinct from unmeasured wider taddhita semantics.Neuter/nonhuman/figurative/accent/external syntax/independent paradigms remain concrete residuals.S5 fresh lookup supplied0witnesses;no primary āṭac closure follows from homonymous taddhita spelling.Project written completion remains **OPEN**.
+
+### C4 · Designation-ground abstracts at PG479
+
+PG479 completes [vācāla/vācāṭa designation-ground tva/tal abstracts](vacala_vacata_bhava_tva_tal_panels/README.md):96new nominal positions/98readings,0finite/source/separate construction credits.Four24-slot tva-neuter/tal-feminine panels retain inner adjective,genitive-luk and outer abstract sup/gender owners.Non-yac t boundary blocks bha-lopa;other abstract affixes coexist under5.1.120,not excluded.Totals51,819finite;4,670nominal/5,348readings;wider gates Open. Input only PG478 masculine a-stems;female-input/puṃvad transport,karma/ṣyañ/other abstracts and independent accent/attestation remain Open.New neuter PROPERTY heads do not close neuter HUMAN adjective admission.Actual S1-S7 and C2-C5/native inventories remain genuine;Claude-deferred execution separate.Project written completion remains **OPEN**.

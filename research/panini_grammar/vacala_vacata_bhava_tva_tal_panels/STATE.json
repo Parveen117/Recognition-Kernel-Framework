@@ -1,0 +1,1254 @@
+{
+  "schema": "rkf.panini.pg479.state.v1",
+  "author": "Monty",
+  "date": "2026-11-22",
+  "publication_parent": "bd895ac55b101d586956290b701ffc4289231113",
+  "baseline": {
+    "commit": "bd895ac55b101d586956290b701ffc4289231113",
+    "path": "research/panini_grammar/vacala_vacata_blame_guard_and_human_gender_panels/STATE.json"
+  },
+  "finite_positions": 51819,
+  "nominal_positions": 4670,
+  "nominal_readings": 5348,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14"
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Only selected tva/tal bhāva on two PG478 masculine a-stem inputs and supplied abstract case/number is closed;other affixes including5.1.124 ṣyañ remain separately admitted/unconstructed,not excluded.",
+    "Female-input transport/pumvad,karma readings,nonhuman/metaphorical reference,accent/external syntax and independent full-word attestation remain Open.",
+    "All actual S1-S7/C2-C5/native source and wider written gates remain Open;Claude-deferred execution separate."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "local_closure": "Four selected bhāva tva-N/tal-F24-slot panels CLOSED;other abstract licences/wider gates Open",
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 96,
+  "new_nominal_readings": 98,
+  "new_source_observations": 0,
+  "new_morphological_constructions": 0,
+  "new_morphological_readouts": 0,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "new_syntactic_constructions": 0,
+  "new_syntactic_readouts": 0,
+  "new_accent_constructions": 0,
+  "new_accent_readouts": 0,
+  "new_compound_constructions": 0,
+  "new_compound_readouts": 0,
+  "position_accounting": {
+    "forms": [
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "nom",
+        "number": "sg",
+        "readings": [
+          "vācālatvam"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "nom",
+        "number": "sg",
+        "readings": [
+          "vācālatā"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "nom",
+        "number": "sg",
+        "readings": [
+          "vācāṭatvam"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "nom",
+        "number": "sg",
+        "readings": [
+          "vācāṭatā"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "nom",
+        "number": "du",
+        "readings": [
+          "vācālatve"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "nom",
+        "number": "du",
+        "readings": [
+          "vācālate"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "nom",
+        "number": "du",
+        "readings": [
+          "vācāṭatve"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "nom",
+        "number": "du",
+        "readings": [
+          "vācāṭate"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "nom",
+        "number": "pl",
+        "readings": [
+          "vācālatvāni"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "nom",
+        "number": "pl",
+        "readings": [
+          "vācālatāḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "nom",
+        "number": "pl",
+        "readings": [
+          "vācāṭatvāni"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "nom",
+        "number": "pl",
+        "readings": [
+          "vācāṭatāḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "acc",
+        "number": "sg",
+        "readings": [
+          "vācālatvam"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "acc",
+        "number": "sg",
+        "readings": [
+          "vācālatām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "acc",
+        "number": "sg",
+        "readings": [
+          "vācāṭatvam"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "acc",
+        "number": "sg",
+        "readings": [
+          "vācāṭatām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "acc",
+        "number": "du",
+        "readings": [
+          "vācālatve"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "acc",
+        "number": "du",
+        "readings": [
+          "vācālate"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "acc",
+        "number": "du",
+        "readings": [
+          "vācāṭatve"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "acc",
+        "number": "du",
+        "readings": [
+          "vācāṭate"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "acc",
+        "number": "pl",
+        "readings": [
+          "vācālatvāni"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "acc",
+        "number": "pl",
+        "readings": [
+          "vācālatāḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "acc",
+        "number": "pl",
+        "readings": [
+          "vācāṭatvāni"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "acc",
+        "number": "pl",
+        "readings": [
+          "vācāṭatāḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "ins",
+        "number": "sg",
+        "readings": [
+          "vācālatvena"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "ins",
+        "number": "sg",
+        "readings": [
+          "vācālatayā"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "ins",
+        "number": "sg",
+        "readings": [
+          "vācāṭatvena"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "ins",
+        "number": "sg",
+        "readings": [
+          "vācāṭatayā"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "ins",
+        "number": "du",
+        "readings": [
+          "vācālatvābhyām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "ins",
+        "number": "du",
+        "readings": [
+          "vācālatābhyām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "ins",
+        "number": "du",
+        "readings": [
+          "vācāṭatvābhyām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "ins",
+        "number": "du",
+        "readings": [
+          "vācāṭatābhyām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "ins",
+        "number": "pl",
+        "readings": [
+          "vācālatvaiḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "ins",
+        "number": "pl",
+        "readings": [
+          "vācālatābhiḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "ins",
+        "number": "pl",
+        "readings": [
+          "vācāṭatvaiḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "ins",
+        "number": "pl",
+        "readings": [
+          "vācāṭatābhiḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "dat",
+        "number": "sg",
+        "readings": [
+          "vācālatvāya"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "dat",
+        "number": "sg",
+        "readings": [
+          "vācālatāyai"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "dat",
+        "number": "sg",
+        "readings": [
+          "vācāṭatvāya"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "dat",
+        "number": "sg",
+        "readings": [
+          "vācāṭatāyai"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "dat",
+        "number": "du",
+        "readings": [
+          "vācālatvābhyām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "dat",
+        "number": "du",
+        "readings": [
+          "vācālatābhyām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "dat",
+        "number": "du",
+        "readings": [
+          "vācāṭatvābhyām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "dat",
+        "number": "du",
+        "readings": [
+          "vācāṭatābhyām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "dat",
+        "number": "pl",
+        "readings": [
+          "vācālatvebhyaḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "dat",
+        "number": "pl",
+        "readings": [
+          "vācālatābhyaḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "dat",
+        "number": "pl",
+        "readings": [
+          "vācāṭatvebhyaḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "dat",
+        "number": "pl",
+        "readings": [
+          "vācāṭatābhyaḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "abl",
+        "number": "sg",
+        "readings": [
+          "vācālatvāt",
+          "vācālatvād"
+        ],
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "abl",
+        "number": "sg",
+        "readings": [
+          "vācālatāyāḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "abl",
+        "number": "sg",
+        "readings": [
+          "vācāṭatvāt",
+          "vācāṭatvād"
+        ],
+        "position_credit": 1,
+        "reading_credit": 2
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "abl",
+        "number": "sg",
+        "readings": [
+          "vācāṭatāyāḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "abl",
+        "number": "du",
+        "readings": [
+          "vācālatvābhyām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "abl",
+        "number": "du",
+        "readings": [
+          "vācālatābhyām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "abl",
+        "number": "du",
+        "readings": [
+          "vācāṭatvābhyām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "abl",
+        "number": "du",
+        "readings": [
+          "vācāṭatābhyām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "abl",
+        "number": "pl",
+        "readings": [
+          "vācālatvebhyaḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "abl",
+        "number": "pl",
+        "readings": [
+          "vācālatābhyaḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "abl",
+        "number": "pl",
+        "readings": [
+          "vācāṭatvebhyaḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "abl",
+        "number": "pl",
+        "readings": [
+          "vācāṭatābhyaḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "gen",
+        "number": "sg",
+        "readings": [
+          "vācālatvasya"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "gen",
+        "number": "sg",
+        "readings": [
+          "vācālatāyāḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "gen",
+        "number": "sg",
+        "readings": [
+          "vācāṭatvasya"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "gen",
+        "number": "sg",
+        "readings": [
+          "vācāṭatāyāḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "gen",
+        "number": "du",
+        "readings": [
+          "vācālatvayoḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "gen",
+        "number": "du",
+        "readings": [
+          "vācālatayoḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "gen",
+        "number": "du",
+        "readings": [
+          "vācāṭatvayoḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "gen",
+        "number": "du",
+        "readings": [
+          "vācāṭatayoḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "gen",
+        "number": "pl",
+        "readings": [
+          "vācālatvānām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "gen",
+        "number": "pl",
+        "readings": [
+          "vācālatānām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "gen",
+        "number": "pl",
+        "readings": [
+          "vācāṭatvānām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "gen",
+        "number": "pl",
+        "readings": [
+          "vācāṭatānām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "loc",
+        "number": "sg",
+        "readings": [
+          "vācālatve"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "loc",
+        "number": "sg",
+        "readings": [
+          "vācālatāyām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "loc",
+        "number": "sg",
+        "readings": [
+          "vācāṭatve"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "loc",
+        "number": "sg",
+        "readings": [
+          "vācāṭatāyām"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "loc",
+        "number": "du",
+        "readings": [
+          "vācālatvayoḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "loc",
+        "number": "du",
+        "readings": [
+          "vācālatayoḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "loc",
+        "number": "du",
+        "readings": [
+          "vācāṭatvayoḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "loc",
+        "number": "du",
+        "readings": [
+          "vācāṭatayoḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "loc",
+        "number": "pl",
+        "readings": [
+          "vācālatveṣu"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "loc",
+        "number": "pl",
+        "readings": [
+          "vācālatāsu"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "loc",
+        "number": "pl",
+        "readings": [
+          "vācāṭatveṣu"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "loc",
+        "number": "pl",
+        "readings": [
+          "vācāṭatāsu"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "voc",
+        "number": "sg",
+        "readings": [
+          "vācālatva"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "voc",
+        "number": "sg",
+        "readings": [
+          "vācālate"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "voc",
+        "number": "sg",
+        "readings": [
+          "vācāṭatva"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "voc",
+        "number": "sg",
+        "readings": [
+          "vācāṭate"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "voc",
+        "number": "du",
+        "readings": [
+          "vācālatve"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "voc",
+        "number": "du",
+        "readings": [
+          "vācālate"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "voc",
+        "number": "du",
+        "readings": [
+          "vācāṭatve"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "voc",
+        "number": "du",
+        "readings": [
+          "vācāṭate"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "voc",
+        "number": "pl",
+        "readings": [
+          "vācālatvāni"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāla",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "voc",
+        "number": "pl",
+        "readings": [
+          "vācālatāḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tva",
+        "gender": "n",
+        "case": "voc",
+        "number": "pl",
+        "readings": [
+          "vācāṭatvāni"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      },
+      {
+        "base": "vācāṭa",
+        "outer_affix": "tal",
+        "gender": "f",
+        "case": "voc",
+        "number": "pl",
+        "readings": [
+          "vācāṭatāḥ"
+        ],
+        "position_credit": 1,
+        "reading_credit": 1
+      }
+    ],
+    "new_nominal_positions": 96,
+    "new_nominal_readings": 98,
+    "old_credit": 0
+  },
+  "inherited_additive_corrections": [
+    {
+      "target_commit": "8c72fd57b118bcd84dbb68075cf80a0609176045",
+      "path": "research/panini_grammar/determination_six_stems_singular_gender_cases/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "old_attribution": "Ṭā→ina7.1.9",
+      "correct_attribution": "Ṭā→ina7.1.12",
+      "evidence": "K7.1.12 explicitly ṭā/ṅasi/ṅas→ina/āt/sya;7.1.9 is bhis→ais",
+      "effect": "citation-only additive correction; all PG431 words, counts, frozen bytes and source pins unchanged"
+    },
+    {
+      "target_commit": "5a0389753e0eb02a9de45d7ef9ce42756008cf73",
+      "path": "research/panini_grammar/idam_owned_parts_case_pratyahara_and_hal_consumers/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "correction": "References spelling the2.4.32 teaching replacement āś should read aś, short a plus ś_IT; source अनुदात्तोऽशादेशः. Words/counters unchanged; frozen bytes preserved."
+    },
+    {
+      "targets": [
+        {
+          "commit": "1bf985f92577d1541855296fb1f980619e91744a",
+          "path": "research/panini_grammar/akac_yad_tad_three_genders_and_feminine_itva_block/DERIVATION_AND_NATIVE_RECOVERY.md"
+        },
+        {
+          "commit": "bbcfd94906ffed08eb36fd43ec05918b6ae0be38",
+          "path": "research/panini_grammar/akac_idam_feminine_m_retention_and_owned_itva/DERIVATION_AND_NATIVE_RECOVERY.md"
+        }
+      ],
+      "old_attribution": "āp-shortening7.2.107",
+      "correct_attribution": "āp shortening and syāṭ7.3.114",
+      "evidence": "K7.3.114 explicitly syāḍ āgamaḥ hrasvaś ca;K7.2.107 prescribes adas au/su-lopa,not this feminine operation",
+      "effect": "citation-only additive correction,all frozen bytes/word tables/counters unchanged;PG419 already has correct owned7.3.114 proof"
+    },
+    {
+      "target_commit": "5642bad8ddfb1e5add4c09b525461525163b7f6c",
+      "path": "research/panini_grammar/inanimate_bhu_stha_causees_and_pada_guards/SOURCES.json",
+      "field": "upstream_pins entry dhatu/data.txt git_blob_sha",
+      "historical_clean_blob_sha": "d39a41a998199e60e1c69740541dd78f1464e578",
+      "actual_upstream_blob_sha": "b5d0370790598ca969db659e7833ccf0df98a9a4",
+      "upstream_commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "evidence": "GitHub fetch_file metadata at exact commit returned raw blob b5d037;cached full-byte SHA256/length unchanged. git hash-object --no-filters matches raw b5d037;project text=auto cleaning of CRLF yields d39a41.",
+      "effect": "Additive provenance-metadata distinction only;frozen file,source bytes,root record,words and counters unchanged. New consumer uses actual upstream blob and retains historical clean hash explicitly."
+    }
+  ],
+  "new_provenance_corrections": 0,
+  "new_semantic_constructions": 0,
+  "new_semantic_readouts": 0
+}
