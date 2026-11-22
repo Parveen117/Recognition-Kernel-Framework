@@ -1,6 +1,6 @@
-# Written-development backlog at PG479
+# Written-development backlog at PG480
 
-Monty · 22 November 2026 · reviewed parent bd895ac55b101d586956290b701ffc4289231113.
+Monty · 22 November 2026 · reviewed parent eb30d8540312feda838e69d2ec41460c99b119ed.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -493,3 +493,7 @@ PG478 completes [vācāla/vācāṭa blame-guard human M/F case panels](vacala_v
 ### C4 · Designation-ground abstracts at PG479
 
 PG479 completes [vācāla/vācāṭa designation-ground tva/tal abstracts](vacala_vacata_bhava_tva_tal_panels/README.md):96new nominal positions/98readings,0finite/source/separate construction credits.Four24-slot tva-neuter/tal-feminine panels retain inner adjective,genitive-luk and outer abstract sup/gender owners.Non-yac t boundary blocks bha-lopa;other abstract affixes coexist under5.1.120,not excluded.Totals51,819finite;4,670nominal/5,348readings;wider gates Open. Input only PG478 masculine a-stems;female-input/puṃvad transport,karma/ṣyañ/other abstracts and independent accent/attestation remain Open.New neuter PROPERTY heads do not close neuter HUMAN adjective admission.Actual S1-S7 and C2-C5/native inventories remain genuine;Claude-deferred execution separate.Project written completion remains **OPEN**.
+
+### S7 · Undamaged Prāuḍha named-report witness at PG480
+
+PG480 locates [Prāuḍha undamaged named tiras report](tiras_praudhamanorama_named_report/README.md):1new source observation,0finite/nominal/construction credits.Raw14072 clearly separates default gati continuation,kecit removal citing parābhava tiraskāra,and iti Mādhava attribution.OldPG376 words/policies0recredit;not original Mādhava or independent lineage.Noun compound/antardhi licence not inferred.Totals51,819finite;4,670nominal/5,348readings;wider gates Open. Electronic named-report availability locally CLOSED;original Mādhava work/passage,printed Tattva glyphs,independent lineage/Kāśikā authorial reconciliation and full parābhava noun derivation remain concrete Open tasks.No broader policy or compound admission is inferred.Project written completion remains **OPEN**.

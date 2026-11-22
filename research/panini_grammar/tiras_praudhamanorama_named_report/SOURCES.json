@@ -1,0 +1,109 @@
+{
+  "upstream_pins": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/praudhamanorama.txt",
+      "local_snapshot_name": "praudhamanorama.txt",
+      "bytes": 825568,
+      "sha256": "a70d823399dffb76b4dd12d950f72588a397dceabd16a4a59f587792334be0fa",
+      "git_blob_sha": "00c4b9f496ee120f48298afb14eb1cc6d267f4e0"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/balamanorama.txt",
+      "local_snapshot_name": "balamanorama.txt",
+      "bytes": 6995341,
+      "sha256": "0810e4c59d1642122186e1f0838af15859ea2d48487f6ee5e9006cf5302e9238",
+      "git_blob_sha": "8f7ab57f5b04648d914f85944b137504d1944961"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/tattvabodhini.txt",
+      "local_snapshot_name": "tattvabodhini.txt",
+      "bytes": 4769767,
+      "sha256": "6784a8d4f84de1f7b5653851ab5ff52ca88b3b28204b9515b74f0b75a9d3c2b4",
+      "git_blob_sha": "1f9af68d606f75baa6ede48a946b709da2c14054"
+    }
+  ],
+  "fields": [
+    {
+      "source": "praudhamanorama.txt",
+      "field": "14072",
+      "text": "विभाषा कृञि ॥ <w>तिरः कृत्वेति ।</w> गतित्वाऽभावपक्षे सत्वमपि न । ‘तिरसोऽन्यतरस्यामि’ति सत्वविधौ गतिग्रहणाऽनुवृत्तेः । केचित्तु पराभवे तिरस्कारशब्दप्रयोगमनुरुन्धानाः सत्वविधौ गतिग्रहणं निवर्त्तयन्तीति माधवः ।"
+    },
+    {
+      "source": "balamanorama.txt",
+      "field": "14071",
+      "text": "<<विभाषा कृञि>> - विभाषा कृञि । कृञि प्रयुज्यमाने तिरसित्यव्ययं गतिसंज्ञं वा स्यादित्यर्थः । तिरस्कृत्य तिरः कृत्येति । गतिसंज्ञापक्षे गतिसमासे क्त्वो ल्यप् ।तिरसोऽन्यतरस्या॑मिति सत्वविकल्पः । तिरः कृत्वेति । गतित्वाऽभावपक्षे सत्वमपि न भवति, तद्विधौ गतिग्रहणानुवृत्तेरित्याहुः । केचित्तु तिरस्कार इति परिभवे प्रयोगदर्शनात्सत्वविधौ गतिग्रहणं नानुवर्तयन्ति ।"
+    },
+    {
+      "source": "tattvabodhini.txt",
+      "field": "14072",
+      "text": "विभाषा कृञि। तिरः कृत्वेति। गतित्वाऽभावपक्षे `तिरसोऽन्यतरस्या`मिति सत्वमपि न भवति, तद्विधौ गतिग्रहणानुवृत्तेः। माधवस्तु - पराभवे `तिरस्कार`इति प्रयोगदर्शनात्सत्वविधौ गतिग्रहणानुवृतिं?त केचिन्नेच्छन्तीत्याह। (673) उपाजेऽन्वाजे।1.4.73।"
+    }
+  ],
+  "dependency_pins": [
+    {
+      "commit": "eb30d8540312feda838e69d2ec41460c99b119ed",
+      "path": "research/panini_grammar/vacala_vacata_bhava_tva_tal_panels/STATE.json",
+      "bytes": 30529,
+      "sha256": "aee41dcf3c456b0a6dc7b4c2d0efa05cbfa325f5b0f72f1ed2c0f40266e73dd7",
+      "git_blob_sha": "aa04fe3ffe77c5e76bee97878278e8187098e463"
+    },
+    {
+      "commit": "eb30d8540312feda838e69d2ec41460c99b119ed",
+      "path": "research/panini_grammar/tiras_non_gati_s_and_reported_madhava_policy/RELATION.json",
+      "bytes": 4712,
+      "sha256": "ff044a11f4af3cde02fb6a236ac546d469fd3d5c97a3420fa03f68266c7a1a33",
+      "git_blob_sha": "10e6af0ad82aea6b9c0b5d7dd1e83a11a1488286"
+    },
+    {
+      "commit": "eb30d8540312feda838e69d2ec41460c99b119ed",
+      "path": "research/panini_grammar/tiras_non_gati_s_and_reported_madhava_policy/SOURCES.json",
+      "bytes": 23121,
+      "sha256": "b85a89994c0bef80a00461c21bdc9d9e562ab22d96495c4bfbdb5ebd557674d8",
+      "git_blob_sha": "28b6a6cd2cc88482473fcf6be5a7f121be19e78b"
+    },
+    {
+      "commit": "eb30d8540312feda838e69d2ec41460c99b119ed",
+      "path": "research/panini_grammar/tiras_non_gati_s_and_reported_madhava_policy/SOURCE_DECISION_AND_NATIVE_RECOVERY.md",
+      "bytes": 9241,
+      "sha256": "46d8045df9019217e40418f98695555e5b93bcd8833f6201a77335a1d3136e05",
+      "git_blob_sha": "a66efc661daf846b0143b3e3da1eaf2a4fe64c27"
+    },
+    {
+      "commit": "eb30d8540312feda838e69d2ec41460c99b119ed",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    },
+    {
+      "commit": "eb30d8540312feda838e69d2ec41460c99b119ed",
+      "path": "research/panini_grammar/grammar_construction/STATE_AND_COMPOSITION.md",
+      "bytes": 8210,
+      "sha256": "b9164206d5389f91a77bbd90b523dbce40a79e2dbd7983bc5adbad45a7539b99",
+      "git_blob_sha": "593f548f92c6398508db1fa943352fbe23cb51c9"
+    },
+    {
+      "commit": "eb30d8540312feda838e69d2ec41460c99b119ed",
+      "path": "research/panini_grammar/bhid_future_conditional_and_prior_coverage/STATE.json",
+      "bytes": 7385,
+      "sha256": "3bee6e936fcace399ecb40a632031c9a57196f0e40e19296526b48bf6db2c1fc",
+      "git_blob_sha": "dcbd3f67d2fdeb17c65552845bf3ab586274122e"
+    }
+  ],
+  "new_evidence": {
+    "work": "Prāuḍhamanoramā",
+    "raw_field": "14072",
+    "topic": "vibhāṣā kṛñi1.4.72",
+    "sha_from_GitHub_directory": "00c4b9f496ee120f48298afb14eb1cc6d267f4e0",
+    "web_topic": "https://ashtadhyayi.com/sutraani/1/4/72",
+    "web_work": "https://ashtadhyayi.com/praudhamanorama/18?scroll=praudhamanorama-63046",
+    "warning": "UI scroll key63046 is a locator only,not the raw field key14072;no key renumbering inferred"
+  },
+  "policy": "One newly addressed undamaged named-report field,not an original Mādhava quotation or independent manuscript lineage.The two old reports/source-policy words receive0recredit."
+}
