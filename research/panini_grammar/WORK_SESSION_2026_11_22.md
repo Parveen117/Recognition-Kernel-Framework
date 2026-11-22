@@ -285,3 +285,33 @@ decisions,not recounting closed vah90 or bhid90.Narrow sic-only non-sic luṭ
 whole requests,raw82025 cause/repair,original authorities/edition lineage and
 unselected bhu/as policies remain Open.Execution deferred to Claude is recorded
 separately;selected-family closure is not complete Sanskrit or full blockage.
+
+## PG460 · Prior-action control and causee case beyond the closed finite grid
+
+Read AGENTS,actual fetched aa94be269cc474f4828632625a9a0f0fd5cf95bb PG459,
+current/latest STATE/newest handoff/navigation/backlog.Clean aligned tree/no
+other writer observed.One repository sequential,no agents.Reviewed PG371/
+354 prior-action and PG451/452 vah role/sound contracts,PG411/412 short/long
+lyap guards,prose/factored/STATE/TSV before credits.Nested gam prior-action
+was already PG411,so no duplicate construction;selected new vah two domains.
+
+Adds2 nonfinite constructions/2 word readings vāhayitvā/pravāhya,4 owned
+case/control readouts(driver/porter×actual affix);0 finite/nominal positions/
+readings,source or separate syntax/morphology units.Common actor is outer
+a,E1≺G supplied,not passive q=c or shared internal b.Driver causee b gets
+accusative while porter b retained-agent instrumental;load c acc in both.
+Seṭ ktvā akit retains ṇic ay/i_val;actual verbal pra lyap has no iṭ,long
+vā fails6.4.56 laghu-ay,then owned ṇic-i lopa yields pravāhya.Tatpratyaya
+history blocks fabricated simple-vah samprasāraṇa after formation erasure.
+All words are authored compositions,not independent clause attestations.
+
+Totals unchanged51,738 finite;4,336 nominal positions/5,007 nominal readings.
+Closed vah90/bhid90,PG335 correction/PG357–363 CLOSED/frozen predecessors/
+additive corrections preserved.Full PG14 operator/history typed zero square
+written.Necessary explicitPython3.12 source/document/count result/attempts
+in packet.No generators,grammar/proof execution,untouched predecessor/
+navigation/engine suites or replay.Fetch/expected-parent existing review
+branch publication,no force/main merge.No new automation,ETA,overall
+completion or elapsed-time-as-continuous-work claim.SourceS1–S7/C2–C5/
+other semantic-role-prefix-control/accent/native tasks remain genuine Open;
+no text gap becomes an exclusion and execution deferral stays separate.

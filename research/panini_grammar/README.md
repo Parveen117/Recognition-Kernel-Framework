@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG460 constructs [causal vah prior action and outer control](vah_prior_action_outer_control_and_lyap_owners/README.md):2 nonfinite constructions/2 word readings(vāhayitvā/pravāhya),4 driver/porter case readouts;0 finite/nominal/source/separate syntax units.Common actor is outer a;causee b is acc for driver versus ins for porter.Seṭ ktvā retains ṇic;actual lyap/long vā defeats laghu-ay then licenses owned lopa.Totals unchanged51,738 finite;4,336 nominal/5,007 readings.Closed finite90 grid untouched;source/wider gates Open.
+
 PG459 completes [causal vah perfect and correlated auxiliary policies](vah_causal_perfect_and_correlated_auxiliary_policies/README.md):9 new finite positions/49 readings65 paths,0 nominal/source/separate construction units.Primary vāhayām ay/ām/liṭ-luk and auxiliary own-liṭ/controller retained;H/I/S as policies correlated,bhū a-copy selected.Totals51,738 finite;4,336 nominal/5,007 readings.Selected causal-vah90keys178readings CLOSED,no aggregate recredit;source/wider gates Open.
 
 PG458 completes [causal vah actual-ciṇ/sic aorist](vah_causal_aorist_actual_cin_and_sic_owners/README.md):9 new finite positions/19 readings,0 nominal/source/separate construction units. Karmaṇi blocks kartari-caṅ;3sg avāhi has separate ṇic-lopa/ta-luk,other8 sic O/C;2pl y/h both admit dh/ḍh. Totals51,729 finite;4,336 nominal/5,007 readings. Selected causal-vah81keys129readings CLOSED,no aggregate credit;liṭ/source/wider gates Open.

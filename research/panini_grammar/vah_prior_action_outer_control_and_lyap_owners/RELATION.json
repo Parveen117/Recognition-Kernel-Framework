@@ -1,0 +1,182 @@
+{
+  "stage": "PG460",
+  "root_record": {
+    "i": "1011159",
+    "baseindex": "01.1159",
+    "dhatu": "वह्",
+    "aupadeshik": "वहँ",
+    "gana": "1",
+    "pada": "U",
+    "settva": "A",
+    "karma": "D",
+    "artha": "प्रापणे",
+    "artha_english": "to flow, to propel, to carry, to  haul, to drag",
+    "tags": "अनुदात्तोपदेशः,common",
+    "dhaturoopnandini": "1004",
+    "dhatu_note": "अयं धातुः प्रापणार्थे (नयनम् अस्मिन् अर्थे) द्विकर्मकः अस्ति, यथा 'रामः ग्रामं भारं वहति' इति । परन्तु वहनार्थे (स्वयं प्रवहति अस्मिन् अर्थे) अकर्मकः यस्ति, यथा - 'नदी वेगेन वहति' इति ।",
+    "sk": "1004",
+    "lsk_sutra": "546",
+    "sk_sutra": "2409",
+    "artha_hindi": "बहना, झरना, ढोना, ढो ले जाना",
+    "upasargas": [],
+    "antarganas": "यजादिः",
+    "dhaturoopnandini_note": " प्रापणे = धारणे ' इति काशकृत्स्नः ।"
+  },
+  "frames": [
+    {
+      "id": "DRIVER",
+      "ni": true,
+      "E0_agent": "b carrying oxen",
+      "E0_patient": "c conveyed barley/load",
+      "E1_agent": "a animal-driver",
+      "E1_karmans": [
+        "b",
+        "c"
+      ],
+      "causee_case": "acc",
+      "patient_case": "acc"
+    },
+    {
+      "id": "PORTER",
+      "ni": false,
+      "E0_agent": "b human porter",
+      "E0_patient": "c conveyed load",
+      "E1_agent": "a non-driver supervisor",
+      "E1_karmans": [
+        "c"
+      ],
+      "causee_case": "ins",
+      "patient_case": "acc"
+    }
+  ],
+  "readouts": [
+    {
+      "frame": "DRIVER",
+      "nonfinite": "ktva",
+      "word": "vāhayitvā",
+      "preverbs": [],
+      "formation": "one hetumat ṇic",
+      "E0": "carry(b,c)",
+      "E1": "cause(a,E0)",
+      "later_event": "G,actor a",
+      "control": "kartṛ(E1)=kartṛ(G)=a",
+      "order": "E1 precedes G,supplied",
+      "case_map": {
+        "b": "acc",
+        "c": "acc"
+      },
+      "nonfinite_pada": "none;no finite A/P",
+      "nic": "retained ay before i_val",
+      "augment": "i_val7.2.35",
+      "lyap_laghu_guard": "not queried",
+      "samprasarana": "set ktva akit1.2.18",
+      "position_credit": 0,
+      "nominal_credit": 0
+    },
+    {
+      "frame": "PORTER",
+      "nonfinite": "ktva",
+      "word": "vāhayitvā",
+      "preverbs": [],
+      "formation": "one hetumat ṇic",
+      "E0": "carry(b,c)",
+      "E1": "cause(a,E0)",
+      "later_event": "G,actor a",
+      "control": "kartṛ(E1)=kartṛ(G)=a",
+      "order": "E1 precedes G,supplied",
+      "case_map": {
+        "b": "ins",
+        "c": "acc"
+      },
+      "nonfinite_pada": "none;no finite A/P",
+      "nic": "retained ay before i_val",
+      "augment": "i_val7.2.35",
+      "lyap_laghu_guard": "not queried",
+      "samprasarana": "set ktva akit1.2.18",
+      "position_credit": 0,
+      "nominal_credit": 0
+    },
+    {
+      "frame": "DRIVER",
+      "nonfinite": "lyap",
+      "word": "pravāhya",
+      "preverbs": [
+        "pra"
+      ],
+      "formation": "one hetumat ṇic",
+      "E0": "carry(b,c)",
+      "E1": "cause(a,E0)",
+      "later_event": "G,actor a",
+      "control": "kartṛ(E1)=kartṛ(G)=a",
+      "order": "E1 precedes G,supplied",
+      "case_map": {
+        "b": "acc",
+        "c": "acc"
+      },
+      "nonfinite_pada": "none;no finite A/P",
+      "nic": "owned i_NIC lopa",
+      "augment": "none,y outside val",
+      "lyap_laghu_guard": "false,long root vā",
+      "samprasarana": "kit view retained only on justified consumer;introduced on whole nyanta,not bare vah tatpratyaya",
+      "position_credit": 0,
+      "nominal_credit": 0
+    },
+    {
+      "frame": "PORTER",
+      "nonfinite": "lyap",
+      "word": "pravāhya",
+      "preverbs": [
+        "pra"
+      ],
+      "formation": "one hetumat ṇic",
+      "E0": "carry(b,c)",
+      "E1": "cause(a,E0)",
+      "later_event": "G,actor a",
+      "control": "kartṛ(E1)=kartṛ(G)=a",
+      "order": "E1 precedes G,supplied",
+      "case_map": {
+        "b": "ins",
+        "c": "acc"
+      },
+      "nonfinite_pada": "none;no finite A/P",
+      "nic": "owned i_NIC lopa",
+      "augment": "none,y outside val",
+      "lyap_laghu_guard": "false,long root vā",
+      "samprasarana": "kit view retained only on justified consumer;introduced on whole nyanta,not bare vah tatpratyaya",
+      "position_credit": 0,
+      "nominal_credit": 0
+    }
+  ],
+  "nonfinite_constructions": [
+    {
+      "id": "VAH_CAUSAL_KTVA",
+      "word": "vāhayitvā",
+      "credit": 1,
+      "word_reading_credit": 1
+    },
+    {
+      "id": "PRA_VAH_CAUSAL_LYAP",
+      "word": "pravāhya",
+      "credit": 1,
+      "word_reading_credit": 1
+    }
+  ],
+  "accepted": [
+    "common outer causer and actual E1/G order before affix choice",
+    "NI remains a-at-E1 guard;driver b acc versus porter b ins",
+    "actual source compound before lyap replacement,long ā non-laghu before generic nic-lopa"
+  ],
+  "excluded": [
+    "base b alone shared with later actor while outer a differs",
+    "copy passive q=c agreement into an avyaya",
+    "copy active F/U A/P selection into ktva/lyap",
+    "copy ktva t-initial val condition into actual lyap y",
+    "6.4.56 laghu ay after long root vā",
+    "erase nic history to restart simple-vah samprasarana"
+  ],
+  "open": [
+    "other vah semantic/control/identity/prefix frames,actual source attestation of authored whole clauses,nonprior exceptions/full accent/Vedic/external sandhi",
+    "C2-C5 other derived roles/formation/nominal/syntax/native integration;S1-S7 textual obligations/narrow lut whole requests remain Open",
+    "actual semantic recognition and runtime mapping;generators/execution/old suites/replay separately Claude-deferred"
+  ]
+}
