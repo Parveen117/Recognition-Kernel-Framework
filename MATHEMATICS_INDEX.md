@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG469 locates [original Śekhara caṅ objection and Bhāṣya addition](research/panini_grammar/cang_shekhara_objection_and_bhasya_addition/README.md):1 coherent source decision,0 new finite/nominal positions/readings or grammar-construction credits.Printed617–618 separates Vṛtti accommodation,pare objection and lower-ṭīkā attribution;raw Bhāṣya74001/74093 positively requires distinct ṇic-on-ṇic additions.Missing-original-discussion witness locally CLOSED;PG468 selected cur policy preserved,root-specific rival operators/critical lineage remain Open.Totals51,738 finite;4,480 nominal/5,154 readings.
+
 PG468 completes [curādi two-ṇic caṅ continuation](research/panini_grammar/curadi_two_nic_cang_and_source_policy/README.md):1 source-qualified morphology construction/readout acūcurat,1 printed missing-clause observation;0 new finite/nominal positions/readings.Kāśikā/Kaumudī ṇi-jāti policy retains separate deleted S/H,root u/copied ū and distinct caṅ/aṭ;hypothetical acucorat is not accepted.Printed426/scan432 supplies raw74081 missing second-instance aglopi argument.Original Śabdenduśekhara/other policies remain Open.Totals51,738 finite;4,480 nominal/5,154 readings.
 
 PG467 constructs [past event/persistent bearer bridge](research/panini_grammar/past_event_and_persistent_bearer/README.md):1 semantic adapter/6 written readouts,0 finite/nominal/nonfinite/source credits.Source-compatible bhū1010001 origination event can be past while jar bearer persists;entity absence alone cannot supply event timing/binding.Unknown evidence stays Open.PG466 record23 reused without source recredit.Totals51,738 finite;4,480 nominal/5,154 readings.Wider contracts/source gates Open.
@@ -194,7 +196,7 @@ PG385 constructs [gotra dvandva whole-affix luk](research/panini_grammar/gotra_d
 
 
 Canonical repository: `Parveen117/Recognition-Kernel-Framework`; branch: `main`.
-Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG468 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
+Index update: 20 November 2026; integrated MR-04–MR-07, R3–R4, SS1, SE1–SE49, SP1 and Theorems 78–82; added the PG1–PG469 Sanskrit grammar source, verification and mathematical construction stages. The canonical operator engine remains version 0.5.
 
 ## Integration and verification status
 

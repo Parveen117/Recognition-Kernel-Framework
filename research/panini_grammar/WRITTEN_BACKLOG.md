@@ -1,6 +1,6 @@
-# Written-development backlog at PG468
+# Written-development backlog at PG469
 
-Monty · 22 November 2026 · reviewed parent 8642b05ee4fa92b778a8dbb93a75960bef7e59ed.
+Monty · 22 November 2026 · reviewed parent 6fc40b23cd1229392b5874049f61f197defa0a71.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -449,3 +449,7 @@ PG467 constructs [past event/persistent bearer bridge](past_event_and_persistent
 ### C2/S7 · Cur S/H caṅ and a positive printed gap at PG468
 
 PG468 completes [curādi two-ṇic caṅ continuation](curadi_two_nic_cang_and_source_policy/README.md):1 source-qualified morphology construction/readout acūcurat,1 printed missing-clause observation;0 new finite/nominal positions/readings.Kāśikā/Kaumudī ṇi-jāti policy retains separate deleted S/H,root u/copied ū and distinct caṅ/aṭ;hypothetical acucorat is not accepted.Printed426/scan432 supplies raw74081 missing second-instance aglopi argument.Original Śabdenduśekhara/other policies remain Open.Totals51,738 finite;4,480 nominal/5,154 readings. Earlier PG380 caṅ Open is superseded only for the selected source-qualified P3sg written morphology.Original Śabdenduśekhara argument/alternative mechanism,full transmission collation and general nested caṅ remain Open.No source gap is turned into exclusion.Project written completion remains **OPEN**.
+
+### S7 · Original caṅ objection now located at PG469
+
+PG469 locates [original Śekhara caṅ objection and Bhāṣya addition](cang_shekhara_objection_and_bhasya_addition/README.md):1 coherent source decision,0 new finite/nominal positions/readings or grammar-construction credits.Printed617–618 separates Vṛtti accommodation,pare objection and lower-ṭīkā attribution;raw Bhāṣya74001/74093 positively requires distinct ṇic-on-ṇic additions.Missing-original-discussion witness locally CLOSED;PG468 selected cur policy preserved,root-specific rival operators/critical lineage remain Open.Totals51,738 finite;4,480 nominal/5,154 readings. Earlier references saying the original-work discussion is not obtained are superseded on this exact printed main/ṭīkā witness,not by altering frozen packets.Positive explicit-addition rationale is now identified;actual request-level rival mechanisms,independent critical lineage and raw transmission remain separate Open work.Project written completion remains **OPEN**.
