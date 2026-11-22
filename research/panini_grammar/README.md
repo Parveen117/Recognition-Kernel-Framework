@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG501 constructs [actual hṛdaya aṇ relation and mantra-yat semantic ownership](hrdaya_an_relation_and_mantra_yat_semantic_ownership/README.md):1morphology construction/1readout hārda plus1semantic contract/1readout hṛdya with reused morphology;0finite/nominal/source credits.Actual aṇ/retained ṇit gives ṛ→ār;4.4.96 ṛṣi=Veda and bandhana=means,not human sage or4.4.95 pleasant-place profile.Totals51,819finite;5,110nominal/6,057readings;global gates Open.
+
 PG500 constructs [named ghañ-lāsa and affix-only guard failure](hrllasa_named_ghan_member_and_affix_only_guard_failure/README.md):1morphology/selector construction/1stem readout,0finite/nominal/source credits.Explicit lāsa ghañ admits hṛd→hṛl before l→hṛllāsa;PG495 ghañ lekha stays blocked locally.Not a blanket ghañ ban or universal suffix-ending expansion.Inner lāsa source-sense/root-ID contract remains Open outside supplied nominal input.Totals51,819finite;5,110nominal/6,057readings;wider gates Open.
 
 PG499 constructs [named hṛdya M/N cases and owned ablative pause](hrdya_named_denotations_and_owned_ablative_pause/README.md):46new nominal positions/53readings,0finite/source/separate construction credits.4.4.95 named deśa/vana and putra block precede actual yat/hṛd;48new-panel keys50readings minus2old nominatives yields46/48.Add5voiced pause readings on old PG497 keys,0positions;frozen char readings retained.Totals51,819finite;5,110nominal/6,057readings;wider gates Open.

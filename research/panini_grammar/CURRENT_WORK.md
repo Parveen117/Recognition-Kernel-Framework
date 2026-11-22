@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG500
+# Pāṇini grammar · current written coverage at PG501
+
+PG501 constructs [actual hṛdaya aṇ relation and mantra-yat semantic ownership](hrdaya_an_relation_and_mantra_yat_semantic_ownership/README.md):1morphology construction/1readout hārda plus1semantic contract/1readout hṛdya with reused morphology;0finite/nominal/source credits.Actual aṇ/retained ṇit gives ṛ→ār;4.4.96 ṛṣi=Veda and bandhana=means,not human sage or4.4.95 pleasant-place profile.Totals51,819finite;5,110nominal/6,057readings;global gates Open.
 
 PG500 constructs [named ghañ-lāsa and affix-only guard failure](hrllasa_named_ghan_member_and_affix_only_guard_failure/README.md):1morphology/selector construction/1stem readout,0finite/nominal/source credits.Explicit lāsa ghañ admits hṛd→hṛl before l→hṛllāsa;PG495 ghañ lekha stays blocked locally.Not a blanket ghañ ban or universal suffix-ending expansion.Inner lāsa source-sense/root-ID contract remains Open outside supplied nominal input.Totals51,819finite;5,110nominal/6,057readings;wider gates Open.
 

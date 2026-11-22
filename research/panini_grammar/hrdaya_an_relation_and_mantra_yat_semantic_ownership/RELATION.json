@@ -1,0 +1,92 @@
+{
+  "stage": "PG501",
+  "paths": [
+    {
+      "id": "HRDAYA_AN_RELATION",
+      "input_type": "SuppliedHrdayaIdamRelation",
+      "input": {
+        "base": "hṛdaya",
+        "semantic_relation": "source-qualified hṛdayasya idam;admitted genitive sambandha",
+        "selected_affix": "aṇ4.1.83/4.3.120,positive K63050 witness",
+        "root": "nominal base,no new verbal root-ID/sense/pada/preverb",
+        "gender_case_scope": "stem only;no new inflection or gender panel"
+      },
+      "trace": [
+        "hṛdaya+aṇ",
+        "6.3.50 mandatory whole-base replacement→hṛd+aṇ",
+        "1.3.3/9 final ṇ_IT sound loss→hṛd+a,retain ṇit history",
+        "7.2.117 actual ṇit taddhita first-vowel ṛ→ār→hārd+a",
+        "hārda"
+      ],
+      "readout": "hārda",
+      "credit_kind": "morphological_construction"
+    },
+    {
+      "id": "HRDAYA_MANTRA_YAT",
+      "input_type": "SuppliedNamedHrdayaBindingVedaUse",
+      "input": {
+        "base": "hṛdaya",
+        "genitive_target": "H:the heart targeted in the source description",
+        "denoted_object": "M:Veda/mantra in named binding-function use,not human sage",
+        "role": "M is described as the means by which H is bound;bandhana is karaṇa",
+        "selected_affix": "yat4.4.96",
+        "world_claim": "supplied traditional use annotation,not a new proof of efficacy or an identified hymn",
+        "root": "nominal base,no new verbal root-ID/sense/pada/preverb"
+      },
+      "trace": [
+        "admit named bandhana-karaṇa/Veda frame;reject human-ṛṣi interpretation locally",
+        "hṛdaya+yat(4.4.96)",
+        "reuse owned6.3.50 whole hṛd and1.3.3/9 t_IT loss from PG499 on this separately licensed input",
+        "hṛd+ya→hṛdya,no ñit/ṇit vṛddhi"
+      ],
+      "readout": "hṛdya",
+      "credit_kind": "semantic_construction_with_reused_morphology"
+    }
+  ],
+  "controls": [
+    {
+      "id": "ARBITRARY_GENITIVE_TO_AN",
+      "status": "Open",
+      "reason": "need admitted sambandha/usage and selector/exception evidence;K43120 explicit Devadatta-anantara near-case remains excluded on that source route"
+    },
+    {
+      "id": "B HAVA_TO_AN_RELATION",
+      "status": "Excluded_profile_merge",
+      "reason": "PG496 ṣyañ bhāva is a separate source/affix request,not this idam premise"
+    },
+    {
+      "id": "RṢI_HUMAN_SAGE",
+      "status": "Excluded_44096_route",
+      "reason": "K/SK ṛṣi=Veda;Tattva explicitly denies Vasiṣṭhādi human reading"
+    },
+    {
+      "id": "MANTRA_IS_HEART_UNDERGOER",
+      "status": "Excluded_role_swap",
+      "reason": "M is the denoted means;H is targeted heart in the traditional function description"
+    },
+    {
+      "id": "PLEASANT_PLACE_IS_BINDING_MANTRA",
+      "status": "Excluded_profile_merge",
+      "reason": "4.4.95 priya deśa/vana differs from4.4.96 bandhana/Veda"
+    },
+    {
+      "id": "UNKNOWN_NAMED_VEDA_USE",
+      "status": "Open"
+    },
+    {
+      "id": "HYM N_OR_EFFICACY_EVIDENCE",
+      "status": "Open_outside_grammatical_contract"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 1,
+    "new_semantic_constructions": 1,
+    "new_semantic_readouts": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0
+  }
+}

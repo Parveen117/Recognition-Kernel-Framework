@@ -1,6 +1,6 @@
-# Written-development backlog at PG500
+# Written-development backlog at PG501
 
-Monty · 23 November 2026 · reviewed parent bbd81af212a0dd33515d605b184ddff59d71f02c.
+Monty · 23 November 2026 · reviewed parent d38fc60c760a72a8ad2745632c30cc8673d2bdd4.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -615,3 +615,9 @@ PG500 constructs [named ghañ-lāsa and affix-only guard failure](hrllasa_named_
 Locally CLOSED only supplied source-qualified hṛdaya GEN+lāsa nominal replacement/sound composition.Affix-only guard cannot model the lāsa/lekha pair.Inner lāsa root-ID/sense derivation remains Open;do not silently choose homonymous las entries.No source/old word/control recredit.
 
 Concrete next unconstructed contracts:6.3.50 actual aṇ hṛdayasya idam/hārda versus PG496 ṣyañ bhāva;4.4.96 hṛdya mantra with ṛṣi=Veda and binding-function semantics,distinct from PG499 priya deśa/vana;independent initial hṛd source profiles and other teacher/recitation products before claiming their full panels.S1-S7 source evidence remains mandatory;S5fourlinksOpen99/103direct despite located import boundary.C2-C5/global denominators remain unmeasured and Open,Claude execution separate.
+
+## PG501 · Two queued source contracts now constructed
+
+PG501 constructs [actual hṛdaya aṇ relation and mantra-yat semantic ownership](hrdaya_an_relation_and_mantra_yat_semantic_ownership/README.md):1morphology construction/1readout hārda plus1semantic contract/1readout hṛdya with reused morphology;0finite/nominal/source credits.Actual aṇ/retained ṇit gives ṛ→ār;4.4.96 ṛṣi=Veda and bandhana=means,not human sage or4.4.95 pleasant-place profile.Totals51,819finite;5,110nominal/6,057readings;global gates Open.
+
+Earlier next-contract pointers to aṇ hārda and4.4.96 mantra are superseded only on these declared supplied domains.No new word credit;the old source controls remain withheld.Next positive work:source-qualified hārda gender/case evidence,independent initial-hṛd lexical paths and full teacher/recitation products.Actual hymn/utterance and missing named-use evidence remain Open;no efficacy conclusion.S1-S7 and unmeasured C2-C5/global/native/Claude execution stay separate.Open S5fourlinks still99/103direct.

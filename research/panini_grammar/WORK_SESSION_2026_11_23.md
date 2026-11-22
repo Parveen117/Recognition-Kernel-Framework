@@ -140,3 +140,11 @@ hṛd profiles/teacher-recitation products,unmeasured C2–C5 domains and
 S1–S7 original/textual obligations remain genuine.The four S5 fields
 sya/ḍha/ḍaṭ/āṭac are still Open at99/103direct;initial import location
 is not lexical closure.No completion/hours/ETA claim or new automation.
+
+## PG501 · Source relation and means/target ownership
+
+Fetched clean aligned parent d38fc60c760a72a8ad2745632c30cc8673d2bdd4;one target repository sequentially,no subagents/new automation or other editing observed.Read AGENTS/currentSTATE/newest dated handoff and actual source/prose/factored registers before credits.
+
+PG501 constructs [actual hṛdaya aṇ relation and mantra-yat semantic ownership](hrdaya_an_relation_and_mantra_yat_semantic_ownership/README.md):1morphology construction/1readout hārda plus1semantic contract/1readout hṛdya with reused morphology;0finite/nominal/source credits.Actual aṇ/retained ṇit gives ṛ→ār;4.4.96 ṛṣi=Veda and bandhana=means,not human sage or4.4.95 pleasant-place profile.Totals51,819finite;5,110nominal/6,057readings;global gates Open.
+
+Actual additions:0newfinite positions/0finite readings;0newnominal positions/0nominal readings;1morphology construction/1readout plus1semantic contract/1readout;0source observations.Cumulative51,819finite;5,110nominal/6,057nominalreadings.K43120 admits sambandha with anabhidhāna boundary;K63050 actualaṇ hārda carries ṇit after lopa and first-vowelṛ→ār.K/SK44096 ṛṣi=Veda,Tattva karana and Vasiṣṭhādi denial;mantra is denoted means,heart targeted.The traditional functional description is not an identified hymn or new efficacy result.PG499 owned-yat sound constructor reused on separately admitted4.4.96 input;PG496 ṣyañ bhāva separate.Two typed PG14 zero squares supplied.Frozen PG335/PG357–363 and predecessor/source bytes preserved.Necessary Python3.12 check results in packet;generators/grammar execution/untouched suites/replay Claude-deferred.Global gates Open,remaining contracts in backlog.Fetch/expected-parent/nonforce existing-review publication only.
