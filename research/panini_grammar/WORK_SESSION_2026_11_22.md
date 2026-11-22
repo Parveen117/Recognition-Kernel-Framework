@@ -386,3 +386,28 @@ No Sanskrit generators,grammar/proof execution,old/navigation/engine suites
 or certificate replay.Fetch/expected-parent existing-review publication,
 no force/main merge.No automation,continuous-hours/ETA or overall closure
 claim.C2-C5 and actualS1-S7/source/native/Claude-deferred gates remain Open.
+
+
+## PG464 · Causal-vah kta and all selected patient gender panels
+
+Resumed de9154ff8facee4cb34e4a9c8fc42a4b27d0e20a on the fetched clean
+existing review branch;one repository sequentially,no agents/overlap.
+
+PG464 completes [causal vah kta timed-lopa and three genders](vah_causal_kta_timed_lopa_and_three_gender_panels/README.md):72 new nominal positions/readings(24m/24f/24n),0 finite/source/separate construction credits.Past outer causation/c-patient input,outer iṭ before6.4.52 ṇic-lopa preserves root ā;seṭ kta stays kit,unlike ktvā.Feminine ṭāp/neuter num/genitive nuṭ and finite vāhitā homograph retain owners.Totals51,738 finite;4,408 nominal/5,079 readings.Selected patient panels CLOSED;causal ktavatu/other frames/source/wider gates Open.
+
+Actual new72 nominal keys/readings,not72 unique strings or new finite
+positions.One coherent three-gender stage rather than recrediting generic
+sup or the already closed causal90-key family.All words are authored source
+compositions;supplied grammatical gender/case/past-E1 evidence remains explicit.
+Exact raw/source/root/commit pins and inherited additive provenance distinction
+retained.PG335 -9/-12 and PG357–363 CLOSED/frozen predecessors preserved.
+Full PG14 typed zero square written.Necessary explicitPython3.12 changed-
+document/source/count actual result/attempts in packet.No generators,grammar/
+proof execution,old/navigation/engine suites or replay.Fetch/expected-parent
+existing-review branch publication,no force/main merge.No new automation,
+continuous-hours/ETA or global completion claim.C2-C5/S1-S7 real written/
+source/native gates and separate Claude-execution work remain Open.
+
+PG464 document-check attempt1 stopped at a missing consumed Kaumudī
+full-source manifest pin;manifest corrected to include every quoted source
+file before the justified retry.No Sanskrit execution was involved.

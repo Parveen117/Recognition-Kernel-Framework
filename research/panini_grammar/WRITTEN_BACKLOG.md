@@ -1,6 +1,6 @@
-# Written-development backlog at PG463
+# Written-development backlog at PG464
 
-Monty · 22 November 2026 · reviewed parent 66ef21b2e98b19e44e528e72b1f59ef5c802238b.
+Monty · 22 November 2026 · reviewed parent de9154ff8facee4cb34e4a9c8fc42a4b27d0e20a.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -429,3 +429,7 @@ PG462 completes [narrow luṭ owned jaś continuation](narrow_lut_tas_retention_
 ### S2 · Tracked-entry transmission stage at PG463
 
 PG463 locates [initial-import82025 transmission boundary](dhi_ca_initial_import_transmission_boundary/README.md):1 coherent two-file source observation,0 finite/nominal/nonfinite/construction credits.Bāla/Tattva hoḍhaḥ fields already present at tracked-path addition72c69459(2020-10-12),both field texts identical at frozen5744762.Full initial raw blobs/bytes pinned;whole files not identical.Pre-import mapping/editorial cause and upstream repair remain Open;no automatic key offset.Totals unchanged51,738 finite;4,336 nominal/5,007 readings. Earlier unknown tracked-entry-stage references are superseded only for these two paths/two endpoint fields;pre-import source/procedure/cause remains Open.No full intermediate-commit replay,repair or original edition attribution is inferred.Project written completion remains **OPEN**.
+
+### C2/C4/C5 · Causal vah patient-kta panels at PG464
+
+PG464 completes [causal vah kta timed-lopa and three genders](vah_causal_kta_timed_lopa_and_three_gender_panels/README.md):72 new nominal positions/readings(24m/24f/24n),0 finite/source/separate construction credits.Past outer causation/c-patient input,outer iṭ before6.4.52 ṇic-lopa preserves root ā;seṭ kta stays kit,unlike ktvā.Feminine ṭāp/neuter num/genitive nuṭ and finite vāhitā homograph retain owners.Totals51,738 finite;4,408 nominal/5,079 readings.Selected patient panels CLOSED;causal ktavatu/other frames/source/wider gates Open. This supersedes unconstructed-kta references only on the selected past/c-patient/m-f-n/ordinary-sup profile,not every kṛt sense,agentive ktavatu or source/semantic/native gate.No finite grid/source recount.Project written completion remains **OPEN**.
