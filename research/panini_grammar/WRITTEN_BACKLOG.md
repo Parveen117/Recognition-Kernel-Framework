@@ -1,6 +1,6 @@
-# Written-development backlog at PG484
+# Written-development backlog at PG485
 
-Monty · 22 November 2026 · reviewed parent d25db450c4edfbbb6f320fbafdf60504f9d9a6ba.
+Monty · 22 November 2026 · reviewed parent 37cc8bc303209016f9dfa37d98a567eb9739b023.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -492,7 +492,7 @@ PG478 completes [vācāla/vācāṭa blame-guard human M/F case panels](vacala_v
 
 ### C4 · Designation-ground abstracts at PG479
 
-PG479 completes [vācāla/vācāṭa designation-ground tva/tal abstracts](vacala_vacata_bhava_tva_tal_panels/README.md):96new nominal positions/98readings,0finite/source/separate construction credits.Four24-slot tva-neuter/tal-feminine panels retain inner adjective,genitive-luk and outer abstract sup/gender owners.Non-yac t boundary blocks bha-lopa;other abstract affixes coexist under5.1.120,not excluded.Totals51,819finite;4,670nominal/5,348readings;wider gates Open. Input only PG478 masculine a-stems;female-input/puṃvad transport,karma/ṣyañ/other abstracts and independent accent/attestation remain Open.New neuter PROPERTY heads do not close neuter HUMAN adjective admission.Actual S1-S7 and C2-C5/native inventories remain genuine;Claude-deferred execution separate.Project written completion remains **OPEN**.
+PG479 completes [vācāla/vācāṭa designation-ground tva/tal abstracts](vacala_vacata_bhava_tva_tal_panels/README.md):95new nominal positions/97readings,0finite/source/separate construction credits.Four24-slot tva-neuter/tal-feminine panels retain inner adjective,genitive-luk and outer abstract sup/gender owners.Non-yac t boundary blocks bha-lopa;other abstract affixes coexist under5.1.120,not excluded.Totals51,819finite;4,670nominal/5,348readings;wider gates Open. Input only PG478 masculine a-stems;female-input/puṃvad transport,karma/ṣyañ/other abstracts and independent accent/attestation remain Open.New neuter PROPERTY heads do not close neuter HUMAN adjective admission.Actual S1-S7 and C2-C5/native inventories remain genuine;Claude-deferred execution separate.Project written completion remains **OPEN**.
 
 ### S7 · Undamaged Prāuḍha named-report witness at PG480
 
@@ -517,3 +517,9 @@ C4 gains only this explicit policy/owned-derivation interface.The old āgneya so
 PG484 completes [bhavatī pupil early puṃvad/sit-pada panels](bhavati_students_early_pumvad_and_sit_pada/README.md):44new nominal positions/46readings,0finite/source/separate construction credits.Two24-slot panels total48keys/50readings and withhold4old controls.Ṭhak needs t-final restoration before ika;chas sit assigns pada overriding bha and gives t→d.Teacher D/pupil P and markers retain owners.Old register भवतीय corrected additively.Totals51,819finite;4,737nominal/5,418readings;wider gates Open.
 
 Only female honorific teacher/male-pupil two-affix contract CLOSED;other genders/relations/participles/inner etymology/accents remain Open.K-local and SK-general-pronoun sufficiency policies retained;no independent original-Bhāṣya claim.Old controls/prose/factored registers checked before credits.S1-S7/C2-C5 and Claude-deferred execution remain separate.
+
+## PG485 · Outer pupil genders completed on actual affix identities
+
+PG485 completes [bhavatī pupil outer-gender/ṭhak-ṅīp panels](bhavati_pupil_outer_gender_and_thak_nip/README.md):95new nominal positions/97readings,0finite/source/separate construction credits.Original ṭhak selects ṅīp bhāvatkī,chas ordinary ṭāp bhavadīyā;neuter has separate sup/num and supplied pupil-head agreement.Teacher D unchanged,48old M keys0credit.Selected M/F/N144keys148readings CLOSED.Totals51,819finite;4,832nominal/5,515readings;wider gates Open.
+
+PG484 remaining F/N agreement now superseded only on this supplied teacher/pupil frame.Neuter grammatical-head adapter is an explicit assumption,not independently attested lexical expansion.No teacher-feminine/M-source control recredit.Other relations/inner lexical etymologies/accent/S1-S7/C2-C5/native inventory and execution remain separate Open/deferred channels.
