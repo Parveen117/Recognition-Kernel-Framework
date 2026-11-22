@@ -1,6 +1,6 @@
-# Written-development backlog at PG467
+# Written-development backlog at PG468
 
-Monty · 22 November 2026 · reviewed parent d3d6d2cea921f9fc458f2a120ef36a09881452d8.
+Monty · 22 November 2026 · reviewed parent 8642b05ee4fa92b778a8dbb93a75960bef7e59ed.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -445,3 +445,7 @@ PG466 constructs [past vivakṣā/calendar separation](past_vivaksha_and_calenda
 ### C4/C5 · Event versus bearer at PG467
 
 PG467 constructs [past event/persistent bearer bridge](past_event_and_persistent_bearer/README.md):1 semantic adapter/6 written readouts,0 finite/nominal/nonfinite/source credits.Source-compatible bhū1010001 origination event can be past while jar bearer persists;entity absence alone cannot supply event timing/binding.Unknown evidence stays Open.PG466 record23 reused without source recredit.Totals51,738 finite;4,480 nominal/5,154 readings.Wider contracts/source gates Open. Only the supplied bhū/utpattyādi bridge closes;general lexical/aspect/utterance recognition and actual textual obligations remain Open.Project written completion remains **OPEN**.
+
+### C2/S7 · Cur S/H caṅ and a positive printed gap at PG468
+
+PG468 completes [curādi two-ṇic caṅ continuation](curadi_two_nic_cang_and_source_policy/README.md):1 source-qualified morphology construction/readout acūcurat,1 printed missing-clause observation;0 new finite/nominal positions/readings.Kāśikā/Kaumudī ṇi-jāti policy retains separate deleted S/H,root u/copied ū and distinct caṅ/aṭ;hypothetical acucorat is not accepted.Printed426/scan432 supplies raw74081 missing second-instance aglopi argument.Original Śabdenduśekhara/other policies remain Open.Totals51,738 finite;4,480 nominal/5,154 readings. Earlier PG380 caṅ Open is superseded only for the selected source-qualified P3sg written morphology.Original Śabdenduśekhara argument/alternative mechanism,full transmission collation and general nested caṅ remain Open.No source gap is turned into exclusion.Project written completion remains **OPEN**.

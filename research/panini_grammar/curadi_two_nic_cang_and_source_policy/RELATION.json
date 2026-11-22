@@ -1,0 +1,119 @@
+{
+  "stage": "PG468",
+  "frame": {
+    "root_record": {
+      "i": "1100001",
+      "baseindex": "10.0001",
+      "dhatu": "चुर्",
+      "aupadeshik": "चुरँ",
+      "gana": "10",
+      "pada": "U",
+      "settva": "S",
+      "karma": "S",
+      "artha": "स्तेये",
+      "artha_english": "to steal",
+      "tags": "उदात्तोपदेशः,mspsetu,chittoor3,common,नित्यणिच्",
+      "dhaturoopnandini": "1534",
+      "sk": "1534",
+      "lsk_sutra": "691",
+      "sk_sutra": "2563",
+      "artha_hindi": "चोरी करना",
+      "upasargas": [],
+      "antarganas": "",
+      "dhaturoopnandini_note": " ' स्तेये चोरयतीति स्यात्, चुरेश्छेदे चुरेदिति ' (श्लो. 151) - देवः ।"
+    },
+    "preverbs": [],
+    "formation": "curadi svartha nic S plus hetumat nic H;not two causal nic events",
+    "roles": "a causes thief b stealing patient c;S is lexical,not a second causal event",
+    "scope": "supplied ordinary affirmative past,kartari P third singular;principal result not for a,no special pada exception",
+    "policy": "KASHIKA_NIJATI_AND_KAUMUDI74081",
+    "word": "acūcurat"
+  },
+  "owners": {
+    "R": "root cur,earlier o shortened to u",
+    "S": "lexical nic i deleted before H growth",
+    "H": "causal nic i deleted before cang",
+    "ABHYASA": "copied cu,lengthened to cuu",
+    "CANG": "vikarana a,not nic or augment",
+    "AT": "outer past augment a",
+    "TIP": "third-singular ending t"
+  },
+  "trace": [
+    {
+      "id": "SH",
+      "state": "cor_R|i_S|i_H",
+      "event": "PG380 lexical S-grade and independent H licence;source-selected early S-lopa precedes its potential vrddhi"
+    },
+    {
+      "id": "S_LOPA",
+      "state": "cor_R|empty_S|i_H",
+      "event": "6.4.51 S-lopa before outer H growth;PG380 reused"
+    },
+    {
+      "id": "CANG",
+      "state": "cor_R|empty_S|i_H|a_CANG|t_TIP",
+      "event": "3.1.43 cli,3.1.48 kartari cang replacing cli;it-lopa/3.4.100 yield owned a/t,no shap/sic"
+    },
+    {
+      "id": "H_LOPA",
+      "state": "cor_R|empty_S|empty_H|a_CANG|t_TIP",
+      "event": "6.4.51 H-lopa before actual anit cang;retain both owned deleted vowels"
+    },
+    {
+      "id": "SHORT",
+      "state": "cur_R|empty_S|empty_H|a_CANG|t_TIP",
+      "event": "7.4.1 root o to u on selected ni-jati view;K6.1.11 local order"
+    },
+    {
+      "id": "COPY",
+      "state": "cu_ABHYASA|cur_R|empty_S|empty_H|a_CANG|t_TIP",
+      "event": "6.1.11 reduplication and7.4.60 haladi sesha;root and copy separate"
+    },
+    {
+      "id": "LONG",
+      "state": "cuu_ABHYASA|cur_R|empty_S|empty_H|a_CANG|t_TIP",
+      "event": "7.4.93/94 sanvat and long abhyasa u;7.4.80 i not licensed before root c"
+    },
+    {
+      "id": "WORD",
+      "state": "a_AT|cuu_ABHYASA|cur_R|empty_S|empty_H|a_CANG|t_TIP",
+      "event": "6.4.71 outer at;readout acucurat with long copied u",
+      "iast": "acūcurat",
+      "devanagari": "अचूचुरत्"
+    }
+  ],
+  "controls": [
+    {
+      "id": "SELECTED",
+      "outcome": "Accepted_policy_word",
+      "word": "acūcurat"
+    },
+    {
+      "id": "INDIVIDUAL_ONLY",
+      "outcome": "Open_competing_mechanism",
+      "reason": "individual S blocked by H adjacency;H subject to earlier S-lopa aglopi objection,not a grammatical accepted alternative"
+    },
+    {
+      "id": "PURVAPAKSHA",
+      "outcome": "Excluded_selected_policy",
+      "word": "acucorat",
+      "reason": "Tattva acucorat is hypothetical consequence of no shortening/length,not an accepted doublet"
+    },
+    {
+      "id": "PASSIVE",
+      "outcome": "Excluded_cang_edge",
+      "reason": "3.1.48 kartari required;no universal rejection of passive request"
+    },
+    {
+      "id": "UNKNOWN_POLICY",
+      "outcome": "Open_source_policy",
+      "reason": "cannot decide original Shekhara by copying selected jati account"
+    }
+  ],
+  "open": [
+    "Original Shabdendushekhara objection,its argument/alternative mechanism and independent edition adjudication;partial electronic file lacks the locus. Do not turn absence of field into exclusion.",
+    "Raw74081 transmission cause and full printed/digital collation;manual local missing-clause witness is not silent repair.",
+    "Other roots/senses/preverbs/padas/lakaras,nested two-hetu gam cang,general ni-jati/instance query and semantic recognizers not closed.",
+    "C2-C5/S1-S7 actual written/source/native gates remain Open;Claude-deferred Sanskrit execution/generators/old suites/replay unrun."
+  ]
+}
