@@ -1,0 +1,167 @@
+{
+  "upstream_pins": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "72c69459b731588eba7abb5011c935c1244cb976",
+      "path": "sutraani/balamanorama.txt",
+      "local_snapshot_name": "balamanorama_initial_72c694.txt",
+      "bytes": 6990555,
+      "sha256": "4f4ec6abd133cbc958797f29803f7d0d93232a2cfb5040382d265038504522bb",
+      "git_blob_sha": "e2207e53017ebc927590b2814546b6801030a230"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/balamanorama.txt",
+      "bytes": 6995341,
+      "sha256": "0810e4c59d1642122186e1f0838af15859ea2d48487f6ee5e9006cf5302e9238",
+      "git_blob_sha": "8f7ab57f5b04648d914f85944b137504d1944961",
+      "local_snapshot_name": "balamanorama.txt"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "72c69459b731588eba7abb5011c935c1244cb976",
+      "path": "sutraani/tattvabodhini.txt",
+      "local_snapshot_name": "tattvabodhini_initial_72c694.txt",
+      "bytes": 4765285,
+      "sha256": "2402164905f51e4833e7144a39e8e33219dc04ee7eeda4d095a885530536db37",
+      "git_blob_sha": "642b9b5028c7c4e9fc45f3bf800270f080f4055c"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/tattvabodhini.txt",
+      "bytes": 4769767,
+      "sha256": "6784a8d4f84de1f7b5653851ab5ff52ca88b3b28204b9515b74f0b75a9d3c2b4",
+      "git_blob_sha": "1f9af68d606f75baa6ede48a946b709da2c14054",
+      "local_snapshot_name": "tattvabodhini.txt"
+    }
+  ],
+  "history_capture_pin": {
+    "path": "HISTORY_CAPTURE.json",
+    "bytes": 18573,
+    "sha256": "be1f1b0da57f8417d78a08e1cb96d12891dd03e6b95ca04bf1c40ad0dfb02ba2",
+    "git_blob_sha": "634624bc0b791dd20cb121e78649b0ffdcc28870"
+  },
+  "record_pin": {
+    "path": "TRANSMISSION_RECORDS.json",
+    "bytes": 10989,
+    "sha256": "548ca128bbcbd821df13e0fa729b515e01c5e13ac2f40ac8c6a01a15ffdde217",
+    "git_blob_sha": "8a17a27dedd177e2ba16ca96765dc0ec9b190809"
+  },
+  "addition_commit": {
+    "sha": "72c69459b731588eba7abb5011c935c1244cb976",
+    "date": "2020-10-12T02:27:47Z",
+    "message": "balamanorama, tattvabodhini,nyaas,padamanjari,bhashya",
+    "parents": [
+      "e8cb599234a4d1376830f54bfb3c416f273718d4"
+    ],
+    "files": [
+      {
+        "filename": "sutraani/balamanorama.txt",
+        "status": "added",
+        "sha": "e2207e53017ebc927590b2814546b6801030a230",
+        "additions": 3985,
+        "deletions": 0,
+        "patch_present": false
+      },
+      {
+        "filename": "sutraani/bhashya.txt",
+        "status": "added",
+        "sha": "e593d525e91acd5c5cccc31dc6545857c10a60c6",
+        "additions": 3985,
+        "deletions": 0,
+        "patch_present": false
+      },
+      {
+        "filename": "sutraani/nyaas.txt",
+        "status": "added",
+        "sha": "a2126e6eaf0821d7daeb0b4a35e4e3aef532615d",
+        "additions": 3985,
+        "deletions": 0,
+        "patch_present": false
+      },
+      {
+        "filename": "sutraani/padamanjari.txt",
+        "status": "added",
+        "sha": "a80423f3fb143a7c06561a5eda6136c978802ef6",
+        "additions": 3985,
+        "deletions": 0,
+        "patch_present": false
+      },
+      {
+        "filename": "sutraani/tattvabodhini.txt",
+        "status": "added",
+        "sha": "642b9b5028c7c4e9fc45f3bf800270f080f4055c",
+        "additions": 3985,
+        "deletions": 0,
+        "patch_present": false
+      }
+    ]
+  },
+  "history_scope": {
+    "head": "5744762f010d677cfb43f347a42d02796cf615d6",
+    "path": "sutraani/balamanorama.txt",
+    "per_page": 100,
+    "returned": 72
+  },
+  "dependency_pins": [
+    {
+      "commit": "66ef21b2e98b19e44e528e72b1f59ef5c802238b",
+      "path": "research/panini_grammar/narrow_lut_tas_retention_and_owned_jashtva/STATE.json",
+      "bytes": 5376,
+      "sha256": "8548d9c09137fb8001aaef83a16fa0fb12a079526b4d32749d6d6795affe6aeb",
+      "git_blob_sha": "c8fe46f9e39c76ac17b12e45d05b9980ef67ced5"
+    },
+    {
+      "commit": "66ef21b2e98b19e44e528e72b1f59ef5c802238b",
+      "path": "research/panini_grammar/dhi_ca_commentary_scope_and_non_sic_controls/SOURCE_DECISIONS_AND_NATIVE_RECOVERY.md",
+      "bytes": 7765,
+      "sha256": "6e42f2e5c27b28b3aca7c6e12fca113284780dbcd7f24d7f780640b810dc4d75",
+      "git_blob_sha": "2978433517fbd0064ae1af86ecff40e03d303e8b"
+    },
+    {
+      "commit": "66ef21b2e98b19e44e528e72b1f59ef5c802238b",
+      "path": "research/panini_grammar/dhi_ca_printed_bala_lut_alignment/PRINTED_SOURCE_AND_NATIVE_RECOVERY.md",
+      "bytes": 7117,
+      "sha256": "3be27eceeeffdf31829da25a1a5571b665c96d8b0542a0d5c059290274a320c8",
+      "git_blob_sha": "cdad6a863bb4bfb4289b117d7e0847ab188ef85c"
+    },
+    {
+      "commit": "66ef21b2e98b19e44e528e72b1f59ef5c802238b",
+      "path": "research/panini_grammar/dhi_ca_printed_tattva_policy_retrospective/PRINTED_SOURCE_AND_NATIVE_RECOVERY.md",
+      "bytes": 8530,
+      "sha256": "f885d238c9b1df5ccaec98adc7f431bcf934b24df6cf0efc4cd35dd03b63386f",
+      "git_blob_sha": "4fb4f6574557fec7dbbdbd984532e37ea6338a0f"
+    },
+    {
+      "commit": "66ef21b2e98b19e44e528e72b1f59ef5c802238b",
+      "path": "research/panini_grammar/bhasya_dhi_ca_primary_dialogue_and_scope/SOURCE_DECISION_AND_NATIVE_RECOVERY.md",
+      "bytes": 8599,
+      "sha256": "cd9f3ea0da39fa6701f87aac83e734b778561ddd7cfb9759a20d72ada94b5825",
+      "git_blob_sha": "8ee8ff774d837223b474eaf9a5c7562a8776eddb"
+    },
+    {
+      "commit": "66ef21b2e98b19e44e528e72b1f59ef5c802238b",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    },
+    {
+      "commit": "66ef21b2e98b19e44e528e72b1f59ef5c802238b",
+      "path": "research/panini_grammar/grammar_construction/STATE_AND_COMPOSITION.md",
+      "bytes": 8210,
+      "sha256": "b9164206d5389f91a77bbd90b523dbce40a79e2dbd7983bc5adbad45a7539b99",
+      "git_blob_sha": "593f548f92c6398508db1fa943352fbe23cb51c9"
+    },
+    {
+      "commit": "66ef21b2e98b19e44e528e72b1f59ef5c802238b",
+      "path": "research/panini_grammar/bhid_future_conditional_and_prior_coverage/STATE.json",
+      "bytes": 7385,
+      "sha256": "3bee6e936fcace399ecb40a632031c9a57196f0e40e19296526b48bf6db2c1fc",
+      "git_blob_sha": "dcbd3f67d2fdeb17c65552845bf3ab586274122e"
+    }
+  ],
+  "source_policy": "One coherent two-file tracked-path-addition observation. Full initial raw blobs match GitHub addition metadata exactly. No correction to frozen current source bytes,constant offset,pre-import author/mapping cause,or new grammatical alternative inferred."
+}

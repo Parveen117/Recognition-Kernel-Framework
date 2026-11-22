@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG462
+# Pāṇini grammar · current written coverage at PG463
+
+PG463 locates [initial-import82025 transmission boundary](dhi_ca_initial_import_transmission_boundary/README.md):1 coherent two-file source observation,0 finite/nominal/nonfinite/construction credits.Bāla/Tattva hoḍhaḥ fields already present at tracked-path addition72c69459(2020-10-12),both field texts identical at frozen5744762.Full initial raw blobs/bytes pinned;whole files not identical.Pre-import mapping/editorial cause and upstream repair remain Open;no automatic key offset.Totals unchanged51,738 finite;4,336 nominal/5,007 readings.
 
 PG462 completes [narrow luṭ owned jaś continuation](narrow_lut_tas_retention_and_owned_jashtva/README.md) on4 existing bhid/vah2pl requests:0 new finite positions,6 new source-qualified finite readings(5 literal strings),1 morphology adapter/6 readouts;0 nominal/source credits.Retained tās.s→d8.4.53 before ending dh,root d→t only on simple bhid,ā-before-cluster blocks8.4.65.Selected broad grids stay frozen.Totals unchanged51,738 finite;4,336 nominal/5,007 readings.Four narrow written requests locally CLOSED;independent whole-word attestation/original Vāmana/print/raw/source/wider gates Open.
 
@@ -187,7 +189,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG462 add **10,405 finite positions**, taking the written total to **51,738**. The new lexical and compound work gives 4,336 nominal positions with 5,007 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG463 add **10,405 finite positions**, taking the written total to **51,738**. The new lexical and compound work gives 4,336 nominal positions with 5,007 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

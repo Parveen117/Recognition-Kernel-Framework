@@ -362,3 +362,27 @@ packet.No Sanskrit generators,grammar/proof execution,old/navigation/engine
 suites or replay.Fetch/expected-parent existing-review-branch publication,
 no force/main merge.No automation,continuous-hours,ETA or global-completion
 claim.Claude-deferred execution remains separate.
+
+
+## PG463 · Positive initial-import transmission boundary
+
+Resumed66ef21b2e98b19e44e528e72b1f59ef5c802238b,clean existing review
+branch after fetch,one repository sequentially,no agents/overlapping writer.
+
+PG463 locates [initial-import82025 transmission boundary](dhi_ca_initial_import_transmission_boundary/README.md):1 coherent two-file source observation,0 finite/nominal/nonfinite/construction credits.Bāla/Tattva hoḍhaḥ fields already present at tracked-path addition72c69459(2020-10-12),both field texts identical at frozen5744762.Full initial raw blobs/bytes pinned;whole files not identical.Pre-import mapping/editorial cause and upstream repair remain Open;no automatic key offset.Totals unchanged51,738 finite;4,336 nominal/5,007 readings.
+
+0 new grammar/word credits;one coherent import-stage observation covers2
+files/pairs.Full GitHub blob/raw download match;large-file contents-line
+interface returned empty content and was not interpreted as a source.Git
+metadata capture is an explicit projection,not raw HTTP or intermediate72-
+blob replay.Pre-import assignment/editorial cause remains unresolved;wrong-
+topic consumer quarantine does not exclude the textual question.PG462 four
+narrow written closures stay preserved without fresh reading credits.
+
+PG14 full native source/history square,PG335 correction/PG357–363 CLOSED/
+frozen bytes/inherited corrections preserved.Only necessary explicitPython
+3.12 changed-document/source/count result and actual attempts in packet.
+No Sanskrit generators,grammar/proof execution,old/navigation/engine suites
+or certificate replay.Fetch/expected-parent existing-review publication,
+no force/main merge.No automation,continuous-hours/ETA or overall closure
+claim.C2-C5 and actualS1-S7/source/native/Claude-deferred gates remain Open.
