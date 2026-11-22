@@ -1,0 +1,46 @@
+{
+  "stage": "PG473",
+  "locus": "Kashika3.2.111",
+  "observations": [
+    {
+      "id": "PRECEDING",
+      "owner": "PDF page98,3.2.110 heading",
+      "manual_reading": "लुङ्",
+      "role": "local contrasting luṅ glyph control"
+    },
+    {
+      "id": "HEADING",
+      "owner": "PDF page98,3.2.111 heading",
+      "manual_reading": "अनद्यतने लङ्",
+      "role": "positive laṅ heading"
+    },
+    {
+      "id": "PRESCRIPTION",
+      "owner": "PDF page98,3.2.111 first prose line",
+      "manual_reading": "धातोर्लङ् प्रत्ययो भवति",
+      "role": "positive laṅ prose,not only heading"
+    },
+    {
+      "id": "FOLLOWING",
+      "owner": "PDF page98,3.2.112 heading",
+      "manual_reading": "अभिज्ञावचने लृट्",
+      "role": "next heading excluded from the consumed prescription"
+    }
+  ],
+  "decision": "PDF_VISIBLE_LANG,not a positive visible lung counter-witness;search snippet is not a surrogate for rendered evidence",
+  "new_source_observations": 1,
+  "new_word_credits": 0,
+  "open": [
+    "Cause/stage of raw Kashika32111 lung transmission discrepancy and independent printed/manuscript lineage remain Open;PDF metadata does not establish either.",
+    "Search-index text generation process for the erroneous lung-looking snippet is not diagnosed;no claim whether OCR,font conversion,or another stale extraction caused it.",
+    "Existing PG348/466 temporal guards and lexical/voice/lakara contracts remain unchanged;actual C2-C5/S1-S7/native obligations and Claude-deferred execution remain separate."
+  ],
+  "nonoperative_search_observation": {
+    "kind": "manual projection of search-service display,not raw HTTP/index bytes",
+    "query": "\"काशिका\" \"अनद्यतने लङ्\" \"भूते\"",
+    "result_url": "https://www.wilbourhall.org/pdfs/kashika.pdf",
+    "displayed_heading": "अनद्यतने लुङ्।। 3.2.111",
+    "displayed_fragment": "अविद्यमानादनद्यतने भूतार्थे वर्तमानाद् धातोर्लुङ् प्रत्ययो भवति",
+    "authority": "Discovery only;not a substitute for the PDF glyphs or a diagnosis of index generation"
+  }
+}

@@ -1,6 +1,6 @@
-# Written-development backlog at PG472
+# Written-development backlog at PG473
 
-Monty · 22 November 2026 · reviewed parent efec374128ab3fbe9944727c684bd6b5aa587a25.
+Monty · 22 November 2026 · reviewed parent 627b2f4883aeb0e4a9e4f13c1a9d22cde94beaa6.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -465,3 +465,7 @@ PG471 completes [musical vad lexical bridge and nested caṅ](musical_vad_lexica
 ### C2/C5 · Instrument-controlled nested musical passive at PG472
 
 PG472 constructs [nested musical-vad passive and saṃprasāraṇa guard](nested_musical_vad_passive_and_samprasarana_guard/README.md):1 syntax/controller contract/readout and1 morphology contract/readout,0 new finite/nominal positions/readings/source credits.Supplied intransitive instrument c becomes unique retained object;player b stays agent,not a new outer object.Two ṇic lopas retain vād;actual derived yak/tatpratyaya guard blocks simple udyate replay and yields vādyate.Source roles override English instrument naming.Selected passive frame CLOSED,wider gates Open.Totals51,738 finite;4,480 nominal/5,154 readings. Earlier musical passive Open is superseded only on the supplied no-additional-object laṭ3sg frame.General doubled karman,other controllers and source obligations remain Open.Project written completion remains **OPEN**.
+
+### S3 · Named PDF visible reading at PG473
+
+PG473 locates [anadyatana PDF glyph reading and search boundary](anadyatana_pdf_glyph_reading_and_search_boundary/README.md):1 electronic source observation,0 new finite/nominal positions/readings/construction credits.Wilbourhall PDF page98 visibly reads laṅ in3.2.111 heading and prescription,contrasting preceding luṅ;search snippet is not a visible counter-witness.Word2007/self-reported2008 metadata does not establish independent printed lineage or raw32111 transmission cause;both remain Open.Old PG348 temporal guard preserved.Totals51,738 finite;4,480 nominal/5,154 readings. This closes only the named PDF visible-reading query.The actual S3 raw-transmission/independent-print criteria remain genuine Open,no exclusion or automatic repair.Project written completion remains **OPEN**.

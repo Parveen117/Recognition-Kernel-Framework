@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG472
+# Pāṇini grammar · current written coverage at PG473
+
+PG473 locates [anadyatana PDF glyph reading and search boundary](anadyatana_pdf_glyph_reading_and_search_boundary/README.md):1 electronic source observation,0 new finite/nominal positions/readings/construction credits.Wilbourhall PDF page98 visibly reads laṅ in3.2.111 heading and prescription,contrasting preceding luṅ;search snippet is not a visible counter-witness.Word2007/self-reported2008 metadata does not establish independent printed lineage or raw32111 transmission cause;both remain Open.Old PG348 temporal guard preserved.Totals51,738 finite;4,480 nominal/5,154 readings.
 
 PG472 constructs [nested musical-vad passive and saṃprasāraṇa guard](nested_musical_vad_passive_and_samprasarana_guard/README.md):1 syntax/controller contract/readout and1 morphology contract/readout,0 new finite/nominal positions/readings/source credits.Supplied intransitive instrument c becomes unique retained object;player b stays agent,not a new outer object.Two ṇic lopas retain vād;actual derived yak/tatpratyaya guard blocks simple udyate replay and yields vādyate.Source roles override English instrument naming.Selected passive frame CLOSED,wider gates Open.Totals51,738 finite;4,480 nominal/5,154 readings.
 

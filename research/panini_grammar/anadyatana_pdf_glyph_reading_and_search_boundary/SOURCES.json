@@ -1,0 +1,92 @@
+{
+  "dependency_pins": [
+    {
+      "commit": "627b2f4883aeb0e4a9e4f13c1a9d22cde94beaa6",
+      "path": "research/panini_grammar/nested_musical_vad_passive_and_samprasarana_guard/STATE.json",
+      "bytes": 5270,
+      "sha256": "57f2dbffbe5c56e98052e2b40abd4b54d555037cd05b6574bff4498e5670b5db",
+      "git_blob_sha": "8782a35f0893c79a87ab25e991d21fe57949a202"
+    },
+    {
+      "commit": "627b2f4883aeb0e4a9e4f13c1a9d22cde94beaa6",
+      "path": "research/panini_grammar/anadyatana_source_collation_and_temporal_guard/SOURCES.json",
+      "bytes": 7945,
+      "sha256": "d59610a5ecb93e384a55eea9bcafab168e9434fc3a6232b29991261ea0061d78",
+      "git_blob_sha": "33beac17688f9445508f7e886e5ffdead3d00b15"
+    },
+    {
+      "commit": "627b2f4883aeb0e4a9e4f13c1a9d22cde94beaa6",
+      "path": "research/panini_grammar/anadyatana_source_collation_and_temporal_guard/STATE.json",
+      "bytes": 1877,
+      "sha256": "020675a2bab4da556b1258d61d199d78a17779d0093f17bf4aad64a0d9fba9d6",
+      "git_blob_sha": "bce81248831fe8c519a7e3229f4bf1e4d03238dd"
+    },
+    {
+      "commit": "627b2f4883aeb0e4a9e4f13c1a9d22cde94beaa6",
+      "path": "research/panini_grammar/anadyatana_source_collation_and_temporal_guard/TEMPORAL_ADMISSION_AND_NATIVE_RECOVERY.md",
+      "bytes": 6243,
+      "sha256": "5775262bc678225f84dfb8d98907aded05d9f52fabc4345c94b383d6b96ad2f4",
+      "git_blob_sha": "7518928e80d4cfc5527b0fb08a374ea80d71a090"
+    },
+    {
+      "commit": "627b2f4883aeb0e4a9e4f13c1a9d22cde94beaa6",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    },
+    {
+      "commit": "627b2f4883aeb0e4a9e4f13c1a9d22cde94beaa6",
+      "path": "research/panini_grammar/grammar_construction/STATE_AND_COMPOSITION.md",
+      "bytes": 8210,
+      "sha256": "b9164206d5389f91a77bbd90b523dbce40a79e2dbd7983bc5adbad45a7539b99",
+      "git_blob_sha": "593f548f92c6398508db1fa943352fbe23cb51c9"
+    },
+    {
+      "commit": "627b2f4883aeb0e4a9e4f13c1a9d22cde94beaa6",
+      "path": "research/panini_grammar/bhid_future_conditional_and_prior_coverage/STATE.json",
+      "bytes": 7385,
+      "sha256": "3bee6e936fcace399ecb40a632031c9a57196f0e40e19296526b48bf6db2c1fc",
+      "git_blob_sha": "dcbd3f67d2fdeb17c65552845bf3ab586274122e"
+    }
+  ],
+  "upstream_pins": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kashika.txt",
+      "local_snapshot_name": "kashika.txt",
+      "bytes": 3806703,
+      "sha256": "ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254",
+      "git_blob_sha": "e525df7668835ef1dd7c5988c031da07ce0c162b"
+    }
+  ],
+  "pdf": {
+    "url": "https://www.wilbourhall.org/pdfs/kashika.pdf",
+    "retrieved_date": "2026-11-22",
+    "local_cache_name": "kashika_wilbour.pdf",
+    "bytes": 15190786,
+    "sha256": "05f327af0aa37c7ffa89c5c049315e34e7e9af9abf1e172857a9b556b5eba328",
+    "git_blob_sha": "1dea0925b59b3f899d4ded7428a23087cb6b06f1",
+    "pages": 2309,
+    "page_number": 98,
+    "status": "Electronic word-processor PDF,not identified as an independently collated historical printed edition.Full retrieved file hashed;only page98 rendered/read.",
+    "metadata": "PDFINFO.txt;self-reported Word2007/creation2008 metadata is not authenticated public-availability or lineage dating"
+  },
+  "render": {
+    "local_file": "SOURCE_PDF_PAGE98.png",
+    "bytes": 322334,
+    "sha256": "bcb865cbc03798bbbae1bfc9f2fa010612418882221088059572243006e738f2",
+    "git_blob_sha": "cf023b93a3b46c3575c0752876f8b45c90435d0e",
+    "command": "pdftoppm -f 98 -l 98 -scale-to 1800 -png -singlefile INPUT OUTPUT",
+    "status": "New local visual rendering,not original PDF bytes;page number98 and3.2.110-112 context manually read"
+  },
+  "extraction": {
+    "local_cache_name": "kashika_wilbour.txt",
+    "bytes": 17459350,
+    "sha256": "b52a110744310b2253e6f8817bcb527c35a89030c30e6bd891545933a70e7e06",
+    "git_blob_sha": "947357116de02db1b113a392a2f63003987c3cac",
+    "status": "pdftotext -layout output has legacy-font bytes/mojibake;used for page location,not silently converted into a Unicode source transcript"
+  },
+  "source_policy": "One newly visually addressed PDF glyph observation;PG348 revision-addressed lang reading/temporal guard and old root words are reused,not credited again."
+}
