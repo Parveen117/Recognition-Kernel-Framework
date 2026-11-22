@@ -1,0 +1,149 @@
+{
+  "stage": "PG470",
+  "frame": {
+    "root_record": {
+      "i": "1100001",
+      "baseindex": "10.0001",
+      "dhatu": "चुर्",
+      "aupadeshik": "चुरँ",
+      "gana": "10",
+      "pada": "U",
+      "settva": "S",
+      "karma": "S",
+      "artha": "स्तेये",
+      "artha_english": "to steal",
+      "tags": "उदात्तोपदेशः,mspsetu,chittoor3,common,नित्यणिच्",
+      "dhaturoopnandini": "1534",
+      "sk": "1534",
+      "lsk_sutra": "691",
+      "sk_sutra": "2563",
+      "artha_hindi": "चोरी करना",
+      "upasargas": [],
+      "antarganas": "",
+      "dhaturoopnandini_note": " ' स्तेये चोरयतीति स्यात्, चुरेश्छेदे चुरेदिति ' (श्लो. 151) - देवः ।"
+    },
+    "preverbs": [],
+    "formation": "curadi svartha nic S plus hetumat nic H;not two causal nic events",
+    "roles": "a causes thief b stealing patient c;S is lexical,not a second causal event",
+    "scope": "supplied ordinary affirmative past,kartari P third singular;principal result not for a,no special pada exception",
+    "policy": "KASHIKA_NIJATI_AND_KAUMUDI74081",
+    "word": "acūcurat"
+  },
+  "new_policy": "BHASYA_EXPLICIT_NIC_ON_NIC_ADDITIONS",
+  "transport_assumption": "Adopt the generic structural neḥ nici prescriptions on already licensed cur S/H;no extra semantic restriction of first nic supplied by quoted prescription.This is an authored bounded instantiation.",
+  "input_state": "cor_R|empty_S|empty_H|a_CANG|t_TIP",
+  "permissions": [
+    {
+      "id": "U_SHORT",
+      "consumer": "root upadha shortening7.4.1",
+      "source": "bhashya74001",
+      "target": "R.o→u under1.1.48",
+      "retained_context": [
+        "deleted S nic",
+        "deleted H nic",
+        "actual CANG"
+      ]
+    },
+    {
+      "id": "U_SANVAT",
+      "consumer": "sanvat admission7.4.93",
+      "source": "bhashya74093",
+      "target": "this short-root-followed ABHYASA only",
+      "retained_context": [
+        "deleted S nic",
+        "deleted H nic",
+        "actual CANG"
+      ]
+    },
+    {
+      "id": "U_LONG",
+      "consumer": "abhyasa length7.4.94",
+      "source": "bhashya74093",
+      "target": "ABHYASA.u→uu,not R.u",
+      "retained_context": [
+        "deleted S nic",
+        "deleted H nic",
+        "actual CANG"
+      ]
+    }
+  ],
+  "reused_trace_pin": "PG468 eight authored states,replace only its source-policy eligibility justification",
+  "accepted_paths": [
+    {
+      "id": "OLD_JATI",
+      "policy": "PG468 KASHIKA_NIJATI_AND_KAUMUDI74081",
+      "word": "acūcurat",
+      "new_path_credit": 0
+    },
+    {
+      "id": "NEW_ADDITION",
+      "policy": "BHASYA_EXPLICIT_NIC_ON_NIC_ADDITIONS",
+      "word": "acūcurat",
+      "new_path_credit": 1
+    }
+  ],
+  "new_morphological_constructions": 1,
+  "new_morphological_readouts": 1,
+  "controls": [
+    {
+      "id": "FULL_ADDITION",
+      "permissions": [
+        "U_SHORT",
+        "U_SANVAT",
+        "U_LONG"
+      ],
+      "scope": "exact cur S/H kartari P3sg cang",
+      "outcome": "Accepted_UPASAMKHYANA_word",
+      "word": "acūcurat"
+    },
+    {
+      "id": "SHORT_ONLY",
+      "permissions": [
+        "U_SHORT"
+      ],
+      "scope": "exact cur S/H kartari P3sg cang",
+      "outcome": "Open_sanvat_and_length_permission"
+    },
+    {
+      "id": "NO_SHORT",
+      "permissions": [
+        "U_SANVAT",
+        "U_LONG"
+      ],
+      "scope": "exact cur S/H kartari P3sg cang",
+      "outcome": "Open_shortening_permission"
+    },
+    {
+      "id": "ONE_NIC",
+      "permissions": [
+        "U_SHORT",
+        "U_SANVAT",
+        "U_LONG"
+      ],
+      "scope": "S only,no H",
+      "outcome": "Excluded_this_two_nic_adapter_not_simple_cur_grammar"
+    },
+    {
+      "id": "NO_CANG",
+      "permissions": [
+        "U_SHORT",
+        "U_SANVAT",
+        "U_LONG"
+      ],
+      "scope": "actual lat shap instead of cang",
+      "outcome": "Excluded_this_cang_adapter_not_present_grammar"
+    },
+    {
+      "id": "UNNAMED_POLICY",
+      "permissions": [],
+      "scope": "source policy unknown",
+      "outcome": "Open_source_policy"
+    }
+  ],
+  "open": [
+    "Unconstructed other roots/senses/preverbs/persons/padas/lakaras and general nic-on-nic operator;only exact cur S/H P3sg interface transported.",
+    "Musical-vad root/sense binding and full nested-vad derivation remain separate;do not identify cur S with a first hetumat event.",
+    "Critical source lineage/raw74081 transmission and actual remaining S1-S7/C2-C5/native obligations;policy-explicit local closure is not universal Sanskrit completion.",
+    "Claude-deferred grammar execution/generators/untouched old suites/certificate replay not run."
+  ]
+}

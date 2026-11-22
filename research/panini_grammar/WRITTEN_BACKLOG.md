@@ -1,6 +1,6 @@
-# Written-development backlog at PG469
+# Written-development backlog at PG470
 
-Monty · 22 November 2026 · reviewed parent 6fc40b23cd1229392b5874049f61f197defa0a71.
+Monty · 22 November 2026 · reviewed parent a9669d2a7720f9119b561fb772321a35daf107ef.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -453,3 +453,7 @@ PG468 completes [curādi two-ṇic caṅ continuation](curadi_two_nic_cang_and_s
 ### S7 · Original caṅ objection now located at PG469
 
 PG469 locates [original Śekhara caṅ objection and Bhāṣya addition](cang_shekhara_objection_and_bhasya_addition/README.md):1 coherent source decision,0 new finite/nominal positions/readings or grammar-construction credits.Printed617–618 separates Vṛtti accommodation,pare objection and lower-ṭīkā attribution;raw Bhāṣya74001/74093 positively requires distinct ṇic-on-ṇic additions.Missing-original-discussion witness locally CLOSED;PG468 selected cur policy preserved,root-specific rival operators/critical lineage remain Open.Totals51,738 finite;4,480 nominal/5,154 readings. Earlier references saying the original-work discussion is not obtained are superseded on this exact printed main/ṭīkā witness,not by altering frozen packets.Positive explicit-addition rationale is now identified;actual request-level rival mechanisms,independent critical lineage and raw transmission remain separate Open work.Project written completion remains **OPEN**.
+
+### C2/C5 · Cur explicit-addition permission adapter at PG470
+
+PG470 constructs [cur S/H explicit caṅ additions](curadi_explicit_cang_additions_and_policy_branches/README.md):1 morphology permission adapter/1 accepted readout and new policy path,0 new finite/nominal positions/readings/source credits.Individually scoped U_SHORT/U_SANVAT/U_LONG instantiate the adopted Bhāṣya ṇic-on-ṇic policy on exact cur1100001 S/H;PG468 jāti path preserved.Same acūcurat is one old word,two retained mechanisms;missing permissions Open.Selected rival mechanism locally CLOSED,other roots/critical lineage/wider gates Open.Totals51,738 finite;4,480 nominal/5,154 readings. PG469 root-specific rival-operator Open is superseded only for this cur S/H P3sg input under declared structural transport.Other roots/frames and musical-vad root/sense binding remain unconstructed;no universal jāti ordering inferred.Project written completion remains **OPEN**.

@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG469
+# Pāṇini grammar · current written coverage at PG470
+
+PG470 constructs [cur S/H explicit caṅ additions](curadi_explicit_cang_additions_and_policy_branches/README.md):1 morphology permission adapter/1 accepted readout and new policy path,0 new finite/nominal positions/readings/source credits.Individually scoped U_SHORT/U_SANVAT/U_LONG instantiate the adopted Bhāṣya ṇic-on-ṇic policy on exact cur1100001 S/H;PG468 jāti path preserved.Same acūcurat is one old word,two retained mechanisms;missing permissions Open.Selected rival mechanism locally CLOSED,other roots/critical lineage/wider gates Open.Totals51,738 finite;4,480 nominal/5,154 readings.
 
 PG469 locates [original Śekhara caṅ objection and Bhāṣya addition](cang_shekhara_objection_and_bhasya_addition/README.md):1 coherent source decision,0 new finite/nominal positions/readings or grammar-construction credits.Printed617–618 separates Vṛtti accommodation,pare objection and lower-ṭīkā attribution;raw Bhāṣya74001/74093 positively requires distinct ṇic-on-ṇic additions.Missing-original-discussion witness locally CLOSED;PG468 selected cur policy preserved,root-specific rival operators/critical lineage remain Open.Totals51,738 finite;4,480 nominal/5,154 readings.
 
@@ -201,7 +203,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG469 add **10,405 finite positions**, taking the written total to **51,738**. The new lexical and compound work gives 4,480 nominal positions with 5,154 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG470 add **10,405 finite positions**, taking the written total to **51,738**. The new lexical and compound work gives 4,480 nominal positions with 5,154 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |
