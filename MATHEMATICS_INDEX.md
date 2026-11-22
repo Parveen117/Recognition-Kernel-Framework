@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG486 locates [primary Bhāṣya pronoun rule/local ṭhak and unresolved pair](research/panini_grammar/pumvad_primary_bhasya_general_rule_and_unresolved_pair/README.md):1source observation,0finite/nominal/construction credits.Raw53028 directly supplies general-pronoun vṛtti remedy;63035 supplies local ṭhak necessity but retains Gārga/Āgneya conflict.22026/22028 overlap not independent witnesses.Primary electronic locator CLOSED;print/critical scope/source disagreement Open.Totals51,819finite;4,832nominal/5,515readings.
+
 PG485 completes [bhavatī pupil outer-gender/ṭhak-ṅīp panels](research/panini_grammar/bhavati_pupil_outer_gender_and_thak_nip/README.md):95new nominal positions/97readings,0finite/source/separate construction credits.Original ṭhak selects ṅīp bhāvatkī,chas ordinary ṭāp bhavadīyā;neuter has separate sup/num and supplied pupil-head agreement.Teacher D unchanged,48old M keys0credit.Selected M/F/N144keys148readings CLOSED.Totals51,819finite;4,832nominal/5,515readings;wider gates Open.
 
 PG484 completes [bhavatī pupil early puṃvad/sit-pada panels](research/panini_grammar/bhavati_students_early_pumvad_and_sit_pada/README.md):44new nominal positions/46readings,0finite/source/separate construction credits.Two24-slot panels total48keys/50readings and withhold4old controls.Ṭhak needs t-final restoration before ika;chas sit assigns pada overriding bha and gives t→d.Teacher D/pupil P and markers retain owners.Old register भवतीय corrected additively.Totals51,819finite;4,737nominal/5,418readings;wider gates Open.

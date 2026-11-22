@@ -1,6 +1,6 @@
-# Written-development backlog at PG485
+# Written-development backlog at PG486
 
-Monty · 22 November 2026 · reviewed parent 37cc8bc303209016f9dfa37d98a567eb9739b023.
+Monty · 22 November 2026 · reviewed parent cfc86f51b00eaaceec7357f4055282d371661383.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -523,3 +523,9 @@ Only female honorific teacher/male-pupil two-affix contract CLOSED;other genders
 PG485 completes [bhavatī pupil outer-gender/ṭhak-ṅīp panels](bhavati_pupil_outer_gender_and_thak_nip/README.md):95new nominal positions/97readings,0finite/source/separate construction credits.Original ṭhak selects ṅīp bhāvatkī,chas ordinary ṭāp bhavadīyā;neuter has separate sup/num and supplied pupil-head agreement.Teacher D unchanged,48old M keys0credit.Selected M/F/N144keys148readings CLOSED.Totals51,819finite;4,832nominal/5,515readings;wider gates Open.
 
 PG484 remaining F/N agreement now superseded only on this supplied teacher/pupil frame.Neuter grammatical-head adapter is an explicit assumption,not independently attested lexical expansion.No teacher-feminine/M-source control recredit.Other relations/inner lexical etymologies/accent/S1-S7/C2-C5/native inventory and execution remain separate Open/deferred channels.
+
+## PG486 · Primary locator closes,the primary objection does not
+
+PG486 locates [primary Bhāṣya pronoun rule/local ṭhak and unresolved pair](pumvad_primary_bhasya_general_rule_and_unresolved_pair/README.md):1source observation,0finite/nominal/construction credits.Raw53028 directly supplies general-pronoun vṛtti remedy;63035 supplies local ṭhak necessity but retains Gārga/Āgneya conflict.22026/22028 overlap not independent witnesses.Primary electronic locator CLOSED;print/critical scope/source disagreement Open.Totals51,819finite;4,832nominal/5,515readings.
+
+PG484 missing original-work electronic locator now CLOSED at53028;independent printed collation/universal pronoun implementation remain Open.PG483 source dispute positively remains unresolved in63035,not converted into an exclusion.S7 gains only this actual primary source contract;all other S1-S7/C2-C5/native gates and Claude-deferred execution remain separately Open/deferred.
