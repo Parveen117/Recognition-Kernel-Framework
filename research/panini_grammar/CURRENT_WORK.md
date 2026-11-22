@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG458
+# Pāṇini grammar · current written coverage at PG459
+
+PG459 completes [causal vah perfect and correlated auxiliary policies](vah_causal_perfect_and_correlated_auxiliary_policies/README.md):9 new finite positions/49 readings65 paths,0 nominal/source/separate construction units.Primary vāhayām ay/ām/liṭ-luk and auxiliary own-liṭ/controller retained;H/I/S as policies correlated,bhū a-copy selected.Totals51,738 finite;4,336 nominal/5,007 readings.Selected causal-vah90keys178readings CLOSED,no aggregate recredit;source/wider gates Open.
 
 PG458 completes [causal vah actual-ciṇ/sic aorist](vah_causal_aorist_actual_cin_and_sic_owners/README.md):9 new finite positions/19 readings,0 nominal/source/separate construction units. Karmaṇi blocks kartari-caṅ;3sg avāhi has separate ṇic-lopa/ta-luk,other8 sic O/C;2pl y/h both admit dh/ḍh. Totals51,729 finite;4,336 nominal/5,007 readings. Selected causal-vah81keys129readings CLOSED,no aggregate credit;liṭ/source/wider gates Open.
 
@@ -179,7 +181,7 @@ New authorization: continue source-grounded written development until the declar
 
 The previous bounded PG357–363 continuation is closed: **54 new finite positions / 54 readings**, zero nominal additions, one source observation and two syntactic constructions/four readouts. [Exact final results and obligations](clitic_yoga_guards_and_bounded_pass_close/PASS_RESULTS.md).
 
-PG202–PG458 add **10,396 finite positions**, taking the written total to **51,729**. The new lexical and compound work gives 4,336 nominal positions with 5,007 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
+PG202–PG459 add **10,405 finite positions**, taking the written total to **51,738**. The new lexical and compound work gives 4,336 nominal positions with 5,007 selected readings. The primary Uṇādi multiple-affix register has **99 of 103** directly assigned fields.
 
 | Domain | Current result | What remains |
 | --- | --- | --- |

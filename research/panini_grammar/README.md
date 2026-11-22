@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG459 completes [causal vah perfect and correlated auxiliary policies](vah_causal_perfect_and_correlated_auxiliary_policies/README.md):9 new finite positions/49 readings65 paths,0 nominal/source/separate construction units.Primary vāhayām ay/ām/liṭ-luk and auxiliary own-liṭ/controller retained;H/I/S as policies correlated,bhū a-copy selected.Totals51,738 finite;4,336 nominal/5,007 readings.Selected causal-vah90keys178readings CLOSED,no aggregate recredit;source/wider gates Open.
+
 PG458 completes [causal vah actual-ciṇ/sic aorist](vah_causal_aorist_actual_cin_and_sic_owners/README.md):9 new finite positions/19 readings,0 nominal/source/separate construction units. Karmaṇi blocks kartari-caṅ;3sg avāhi has separate ṇic-lopa/ta-luk,other8 sic O/C;2pl y/h both admit dh/ḍh. Totals51,729 finite;4,336 nominal/5,007 readings. Selected causal-vah81keys129readings CLOSED,no aggregate credit;liṭ/source/wider gates Open.
 
 PG457 completes [causal vah blessing and h-final dh option](vah_causal_blessing_and_h_final_dh_option/README.md):9 new finite positions/20 readings,0 nominal/source/separate construction units. O pre-iṭ y and C post-lopa h both belong to selected iṇ,so each admits2pl dh/ḍh;old bhid d-final C negative control preserved. Totals51,720 finite;4,336 nominal/5,007 readings. Selected causal-vah72keys110readings CLOSED,no aggregate credit;liṭ/luṅ/source/wider gates Open.

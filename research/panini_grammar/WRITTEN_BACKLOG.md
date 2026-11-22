@@ -1,6 +1,6 @@
-# Written-development backlog at PG458
+# Written-development backlog at PG459
 
-Monty · 22 November 2026 · reviewed parent ef685e7fd7afbb703fe2ab31a3e3ee7c09254f70.
+Monty · 22 November 2026 · reviewed parent 3e1121da7472dd6ee1905ba953081be1e260dde8.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -409,3 +409,7 @@ PG457 completes [causal vah blessing and h-final dh option](vah_causal_blessing_
 ### C2/C3/C5 · Vah actual-ciṇ/sic luṅ at PG458
 
 PG458 completes [causal vah actual-ciṇ/sic aorist](vah_causal_aorist_actual_cin_and_sic_owners/README.md):9 new finite positions/19 readings,0 nominal/source/separate construction units. Karmaṇi blocks kartari-caṅ;3sg avāhi has separate ṇic-lopa/ta-luk,other8 sic O/C;2pl y/h both admit dh/ḍh. Totals51,729 finite;4,336 nominal/5,007 readings. Selected causal-vah81keys129readings CLOSED,no aggregate credit;liṭ/source/wider gates Open. Earlier two-label Open references superseded only for this selected luṅ;liṭ9 slots still need source/prior review. Actual sic-s lopa does not resolve narrow non-sic luṭ whole requests. Project written completion remains **OPEN**.
+
+### C2/C3/C5 · Selected causal-vah family closure at PG459
+
+PG459 completes [causal vah perfect and correlated auxiliary policies](vah_causal_perfect_and_correlated_auxiliary_policies/README.md):9 new finite positions/49 readings65 paths,0 nominal/source/separate construction units.Primary vāhayām ay/ām/liṭ-luk and auxiliary own-liṭ/controller retained;H/I/S as policies correlated,bhū a-copy selected.Totals51,738 finite;4,336 nominal/5,007 readings.Selected causal-vah90keys178readings CLOSED,no aggregate recredit;source/wider gates Open. Earlier liṭ9-slot Open references superseded only for this source-qualified family. Current selected90-key ledger retains81 old rows0 credits. Next work must address actual other semantic/role/formation/accent/native or S1–S7 source contracts,not another recount of this family. Narrow non-sic luṭ whole requests and other bhu/as policies remain Open. Project written completion remains **OPEN**.

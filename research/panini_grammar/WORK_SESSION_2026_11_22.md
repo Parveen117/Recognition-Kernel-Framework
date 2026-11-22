@@ -253,3 +253,35 @@ attempts in packet;no generators,grammar/proof execution,untouched old/
 navigation/engine suites or replay. Fetch/expected-parent guarded existing
 review-branch publication,no force/main merge. No new automation,ETA,
 overall completion or elapsed-time-as-executed-hours claim.
+
+## PG459 · Causal-vah periphrastic perfect and selected-family closure
+
+Resumed actual fetched3e1121da7472dd6ee1905ba953081be1e260dde8 PG458,
+clean aligned tree/no other writer observed.Read AGENTS,current/latest STATE,
+newest handoff/navigation/backlog and PG67/229/359/370 source/prose/factored
+registers before credits.Primary vāh|i_NIC gets direct ay6.4.55 before
+non-Mantra ām,primary liṭ luk then auxiliary own-liṭ.Positively supplied
+past-anadyatana/parokṣa causal event and old traveller q=c controller retained;
+first-person identity alone does not establish epistemic admission.All three
+auxiliaries take A through same primary meaning,not independent kartari metadata.
+Selected TB bhū a-copy and reported H/I/S as policies kept distinct;one as
+policy applies to whole paradigm,excluding unsupported pair(āhe,āse).
+
+Adds9 finite positions/49 readings65 policy-labelled paths,0 nominal positions/
+readings,source or separate construction units.Totals51,738 finite;4,336
+nominal positions/5,007 nominal readings.Selected causal-vah90keys178readings
+locally CLOSED;81 old keys129readings withheld,0 aggregate recredit.All words
+are authored compositions,not independent table attestations or generator output.
+Frozen predecessors/PG335 -9/-12/PG357–363 CLOSED/additive corrections retained.
+Full PG14 operator/history and typed zero square written.Necessary explicit
+Python3.12 changed-document/source/count result/attempts in packet;no generators,
+grammar/proof execution,untouched predecessor/navigation/engine suites or replay.
+Fetch/expected-parent publication on existing review branch,no force/main merge.
+No agents/new automation,ETA or elapsed-time-as-continuous-work assertion.
+
+Overall written completion remains Open.Next actual work is other role/semantic/
+formation/nominal/accent/Vedic/native C2–C5 contracts or positive S1–S7 source
+decisions,not recounting closed vah90 or bhid90.Narrow sic-only non-sic luṭ
+whole requests,raw82025 cause/repair,original authorities/edition lineage and
+unselected bhu/as policies remain Open.Execution deferred to Claude is recorded
+separately;selected-family closure is not complete Sanskrit or full blockage.
