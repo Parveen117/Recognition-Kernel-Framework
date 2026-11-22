@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG483 constructs [agnāyī deity affix-origin and puṃvad policies](agnayi_deity_affix_origin_and_pumvad_policies/README.md):1morphology adapter/1readout,0finite/nominal positions/readings/source observations.4.2.33 deity ḍhak versus4.1.120 apatya origin survives eya.SK/Tattva restore full agni;Bāla reports that trace then rejects its same-nimitta premise.Kāśikā authorial question/alternative derivation remain Open.Totals51,819finite;4,693nominal/5,372readings.
+
 PG482 completes [hastinī collective puṃvad/visibility and neuter cases](hastini_collective_pumvad_visibility_and_neuter_cases/README.md):23new nominal positions/24readings,0finite/source/separate construction credits.24selected keys/25readings withhold old hāstikam nom.sg.Puṃvad hastin precedes operative n-final ṭi-lopa;ordinary ī-lopa not interchangeable under source visibility defence.Inner female set E/collective G and deleted-inner/outer-num/nuṭ nasals remain distinct.Totals51,819finite;4,693nominal/5,372readings;wider gates Open.
 
 PG481 constructs [bhāva puṃvad class guard/feminine retention](bhava_pumvad_gunavacana_guard_and_retained_feminine/README.md):1morphology adapter/4base readouts and1source-class observation;0finite/nominal credits.K63035 paṭvī restores full paṭu before tva/tal,kaṭhī retains ī.Bāla explicitly excludes taddhitānta in this consumer class,so PG479 vācālā/vācāṭā fails that local edge;whole requests remain Open.Policies/source histories retained.Totals51,819finite;4,670nominal/5,348readings.

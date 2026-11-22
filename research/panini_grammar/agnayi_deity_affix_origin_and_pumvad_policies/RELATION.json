@@ -1,0 +1,76 @@
+{
+  "stage": "PG483",
+  "input": {
+    "base": "agni nominal name,not dhātu",
+    "feminine": "agnāyī",
+    "feminine_history": "K4.1.37 puṃyoga;ṅīp plus i→ai followed by āy before ī",
+    "relation": "agnāyī is deity of supplied sthālīpāka G under4.2.24",
+    "outer_head": "sthālīpāka G,masculine source example",
+    "voice": "not finite;pada/preverb inapplicable"
+  },
+  "policies": [
+    {
+      "id": "K_QUESTION",
+      "outcome": "Open_authorial_resolution",
+      "evidence": "63035 kartavyo atra yatnaḥ"
+    },
+    {
+      "id": "SK_TATTVA_REPAIR",
+      "outcome": "Accepted_selected_written_policy",
+      "affix_origin": "4.2.33 agner ḍhak,gender-specific extension as stated by Bāla reported account",
+      "pumvad": "Allowed;non-ḍha veto in this extension refers to4.1.120 strībhyo ḍhak"
+    },
+    {
+      "id": "B_REPORTED",
+      "outcome": "Accepted_as_report_only",
+      "trace": "agni|eya→agneya→āgneya;not Bāla final endorsement"
+    },
+    {
+      "id": "B_VASTUTAS",
+      "outcome": "Excluded_this_pumvad_edge",
+      "reason": "masculine agnitva versus feminine Agni-relation are different pravṛttinimitta",
+      "whole_request": "Open_alternative_derivation"
+    }
+  ],
+  "owned_trace": [
+    "agni|ṅīp with4.1.37 i→ai;ai before ī→āy under6.1.78;agnāyī retains Agni-related female referent D",
+    "D deity of G licenses nominal4.2.24 relation;4.2.33 ḍhak through admitted gender-specific-name inclusion",
+    "ḍhak final k_IT removed1.3.3/9 but kit history retained;ḍh→ey7.1.2;remaining a gives eya",
+    "eya faces original nominal base,bha1.4.18;SK policy checks4.2.33 origin,not just visible ḍh/eya",
+    "puṃvad restores corresponding agni,retaining D,ṅīp and ai/āy histories",
+    "agni|eya→agn|eya under6.4.148;initial a→ā under7.2.118:āgneya",
+    "outer relation-bearing adjective of G;no new sup panel or accent readout"
+  ],
+  "controls": [
+    {
+      "id": "VISIBLE_DHA_ONLY",
+      "outcome": "Excluded_origin_erasure"
+    },
+    {
+      "id": "FEMININE_MEANS_APATYA",
+      "outcome": "Excluded_semantic_mix"
+    },
+    {
+      "id": "B_REPORTED_EQUALS_FINAL",
+      "outcome": "Excluded_report_stratum_mix"
+    },
+    {
+      "id": "CLIP_FINAL_I",
+      "outcome": "Excluded_wrong_corresponding_form",
+      "bad_base": "agnāy"
+    },
+    {
+      "id": "COUNTERFACTUAL_WORD_ACCEPTANCE",
+      "outcome": "Open_source_licence"
+    },
+    {
+      "id": "UNKNOWN_DEITY_RELATION",
+      "outcome": "Open_semantics"
+    }
+  ],
+  "open": [
+    "K63035 authorial resolution/independent critical commentary reconciliation remains Open:SK/Tattva repair does not overwrite its kartavyo yatnaḥ.",
+    "Bāla vastutas rejects puṃvad for this relation due different pravṛttinimitta;its final accepted lexical derivation or independent whole-word attestation for the counterfactual āgnāyeya is not supplied here.",
+    "Other deity/apatya/nominal/accent contracts,PG479 female abstract-input requests and wider S1-S7/C2-C5/native inventory remain Open;execution separately Claude-deferred."
+  ]
+}

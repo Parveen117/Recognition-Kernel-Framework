@@ -1,6 +1,6 @@
-# Written-development backlog at PG482
+# Written-development backlog at PG483
 
-Monty · 22 November 2026 · reviewed parent ac924da98b015e2dc9271c6cd14dc054db245f83.
+Monty · 22 November 2026 · reviewed parent 392d670c1d27616dc49ec5941df92539bf812c25.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -505,3 +505,9 @@ PG481 constructs [bhāva puṃvad class guard/feminine retention](bhava_pumvad_g
 ### C4/C5 · Female-elephant collective query views at PG482
 
 PG482 completes [hastinī collective puṃvad/visibility and neuter cases](hastini_collective_pumvad_visibility_and_neuter_cases/README.md):23new nominal positions/24readings,0finite/source/separate construction credits.24selected keys/25readings withhold old hāstikam nom.sg.Puṃvad hastin precedes operative n-final ṭi-lopa;ordinary ī-lopa not interchangeable under source visibility defence.Inner female set E/collective G and deleted-inner/outer-num/nuṭ nasals remain distinct.Totals51,819finite;4,693nominal/5,372readings;wider gates Open. Local bhā/non-ḍha extension and source-specific jāti-prohibition scope now composed with24outer case keys.Other species/collectives/affixes,critical visibility reconciliation and PG479 female abstract whole requests remain Open.No universal deletion-view engine or whole-language gate is inferred.Project written completion remains **OPEN**.
+
+## PG483 · Affix-origin guard and genuine source-policy disagreement
+
+PG483 constructs [agnāyī deity affix-origin and puṃvad policies](agnayi_deity_affix_origin_and_pumvad_policies/README.md):1morphology adapter/1readout,0finite/nominal positions/readings/source observations.4.2.33 deity ḍhak versus4.1.120 apatya origin survives eya.SK/Tattva restore full agni;Bāla reports that trace then rejects its same-nimitta premise.Kāśikā authorial question/alternative derivation remain Open.Totals51,819finite;4,693nominal/5,372readings.
+
+C4 gains only this explicit policy/owned-derivation interface.The old āgneya source/control is0word credit.K63035 effort question is preserved;Bāla final nimitta objection is not silently absorbed into SK acceptance.S6 lookup rediscovered the already-pinned1859 Ujjvaladatta passage,0new source credit and no independent k-effect solution.S1-S7/C2-C5 and Claude-deferred execution remain separate.
