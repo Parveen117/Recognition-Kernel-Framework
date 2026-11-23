@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG542
+# Pāṇini grammar · current written coverage at PG543
+
+PG543 constructs [Devadatta affectionate affixes/tail lopa and shared cases](devadatta_affectionate_affixes_tail_lopa_and_shared_cases/README.md):1morphology construction5interfaces;23new nominal positions120readings,0finite/source. Mainṭh/ajādītailcutretainssecondvowelbeforeseparatebha-a-lopa;plainkafull/optional-tailpaths distinct. One24key125readingfamilyminus5oldnomreadings,not5positioncounts. Totals51,819finite;6,292nominal/7,391readings;global gates Open.
 
 PG542 constructs [command akac prefix/ending and dhi-before-insertion](command_akac_prefix_ending_and_dhi_before_insertion/README.md):1morphology adapter4prototypes6readouts;0finite/nominal/source increments. āṅ+iṇehaki versusadaddhaki,sourceK64101dhibeforeakac,bhid/chidoptionalclusterbranchesretained. Originalendingi/rooti/prefixseamdistinct;quotationīnotnewending. Totalsunchanged51,819finite;6,269nominal/7,271readings;global gates Open.
 

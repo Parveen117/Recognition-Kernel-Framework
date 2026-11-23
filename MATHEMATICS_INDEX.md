@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG543 constructs [Devadatta affectionate affixes/tail lopa and shared cases](research/panini_grammar/devadatta_affectionate_affixes_tail_lopa_and_shared_cases/README.md):1morphology construction5interfaces;23new nominal positions120readings,0finite/source. Mainṭh/ajādītailcutretainssecondvowelbeforeseparatebha-a-lopa;plainkafull/optional-tailpaths distinct. One24key125readingfamilyminus5oldnomreadings,not5positioncounts. Totals51,819finite;6,292nominal/7,391readings;global gates Open.
+
 PG542 constructs [command akac prefix/ending and dhi-before-insertion](research/panini_grammar/command_akac_prefix_ending_and_dhi_before_insertion/README.md):1morphology adapter4prototypes6readouts;0finite/nominal/source increments. āṅ+iṇehaki versusadaddhaki,sourceK64101dhibeforeakac,bhid/chidoptionalclusterbranchesretained. Originalendingi/rooti/prefixseamdistinct;quotationīnotnewending. Totalsunchanged51,819finite;6,269nominal/7,271readings;global gates Open.
 
 PG541 constructs [indirect-compassion dhānā gender and owned vowel choices](research/panini_grammar/indirect_compassion_dhana_gender_and_owned_vowel_choices/README.md):1morphology construction4stems+1semanticmeanscontract/readout;14new nominal positions29readings,0finite/source. F8keys/3correlatedvowels+reportedM8keys=16keys32readingsminus3controls;oldpreka/newṭāpownersdistinct. Totals51,819finite;6,269nominal/7,271readings;global gates Open.

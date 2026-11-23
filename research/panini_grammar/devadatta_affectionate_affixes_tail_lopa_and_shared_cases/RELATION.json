@@ -1,0 +1,697 @@
+{
+  "stage": "PG543",
+  "input": {
+    "name": "Devadatta",
+    "root_id": null,
+    "preverb": null,
+    "voice": null,
+    "pada": null,
+    "sense": "sourcehumanpersonalname,compassionorcompatible nīti independentlysupplied",
+    "bahvac_vowels": [
+      "e",
+      "a",
+      "a",
+      "a"
+    ],
+    "gender": "m",
+    "inner_name_etymology": "Open_below_suppliedpropername_boundary"
+  },
+  "paths": [
+    {
+      "id": "THAC",
+      "actual_affix": "ṭhac",
+      "marker": "c_IT;ṭh remainsprescribedreplacementtarget",
+      "truncation": "deva|datta→deva,retainsecondvowela;deleteentiretaildatta",
+      "affix_realization": "initialṭh→ik7.3.50,originalaffixaretained:ik|a",
+      "base_final_a": "6.4.148bha/vowelinitialsuffixa-lopaaftertailcut",
+      "stem": "devika",
+      "old_control": "devikaḥ"
+    },
+    {
+      "id": "GHAN",
+      "actual_affix": "ghan",
+      "marker": "n_ITdental,notsubstituteṇIT",
+      "truncation": "deva|datta→deva,retainsecondvowela;deleteentiretaildatta",
+      "affix_realization": "initialgh→iy7.1.2,originalaffixaretained:iy|a",
+      "base_final_a": "6.4.148bha/vowelinitialsuffixa-lopaaftertailcut",
+      "stem": "deviya",
+      "old_control": "deviyaḥ"
+    },
+    {
+      "id": "ILAC",
+      "actual_affix": "ilac",
+      "marker": "c_IT",
+      "truncation": "deva|datta→deva,retainsecondvowela;deleteentiretaildatta",
+      "affix_realization": "soundedila",
+      "base_final_a": "6.4.148bha/vowelinitialsuffixa-lopaaftertailcut",
+      "stem": "devila",
+      "old_control": "devilaḥ"
+    },
+    {
+      "id": "KA_FULL",
+      "actual_affix": "ka",
+      "marker": "initialksoundedtaddhitaexception",
+      "truncation": "no5.3.83ṭh/vowelinitialpremise;retainDevadatta",
+      "affix_realization": "soundedka",
+      "base_final_a": "noactualvowelinitialbhaasinthreefirstpaths",
+      "stem": "devadattaka",
+      "old_control": "devadattakaḥ"
+    },
+    {
+      "id": "KA_OPTIONAL_TAIL",
+      "actual_affix": "ka",
+      "marker": "initialksoundedtaddhitaexception",
+      "truncation": "separatenonajādīvārttikaoptiondeva|datta→deva",
+      "affix_realization": "soundedka",
+      "base_final_a": "retaineddeva a beforeconsonantk",
+      "stem": "devaka",
+      "old_control": "devakaḥ"
+    }
+  ],
+  "rows": [
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "nom",
+      "number": "sg",
+      "readings": [
+        "devikaḥ",
+        "deviyaḥ",
+        "devilaḥ",
+        "devadattakaḥ",
+        "devakaḥ"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0,
+      "old_reading_indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "acc",
+      "number": "sg",
+      "readings": [
+        "devikam",
+        "deviyam",
+        "devilam",
+        "devadattakam",
+        "devakam"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "ins",
+      "number": "sg",
+      "readings": [
+        "devikena",
+        "deviyena",
+        "devilena",
+        "devadattakena",
+        "devakena"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "dat",
+      "number": "sg",
+      "readings": [
+        "devikāya",
+        "deviyāya",
+        "devilāya",
+        "devadattakāya",
+        "devakāya"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "abl",
+      "number": "sg",
+      "readings": [
+        "devikāt",
+        "devikād",
+        "deviyāt",
+        "deviyād",
+        "devilāt",
+        "devilād",
+        "devadattakāt",
+        "devadattakād",
+        "devakāt",
+        "devakād"
+      ],
+      "reading_branches": [
+        "THAC",
+        "THAC",
+        "GHAN",
+        "GHAN",
+        "ILAC",
+        "ILAC",
+        "KA_FULL",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 10,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "gen",
+      "number": "sg",
+      "readings": [
+        "devikasya",
+        "deviyasya",
+        "devilasya",
+        "devadattakasya",
+        "devakasya"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "loc",
+      "number": "sg",
+      "readings": [
+        "devike",
+        "deviye",
+        "devile",
+        "devadattake",
+        "devake"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "voc",
+      "number": "sg",
+      "readings": [
+        "devika",
+        "deviya",
+        "devila",
+        "devadattaka",
+        "devaka"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "nom",
+      "number": "du",
+      "readings": [
+        "devikau",
+        "deviyau",
+        "devilau",
+        "devadattakau",
+        "devakau"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "acc",
+      "number": "du",
+      "readings": [
+        "devikau",
+        "deviyau",
+        "devilau",
+        "devadattakau",
+        "devakau"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "ins",
+      "number": "du",
+      "readings": [
+        "devikābhyām",
+        "deviyābhyām",
+        "devilābhyām",
+        "devadattakābhyām",
+        "devakābhyām"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "dat",
+      "number": "du",
+      "readings": [
+        "devikābhyām",
+        "deviyābhyām",
+        "devilābhyām",
+        "devadattakābhyām",
+        "devakābhyām"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "abl",
+      "number": "du",
+      "readings": [
+        "devikābhyām",
+        "deviyābhyām",
+        "devilābhyām",
+        "devadattakābhyām",
+        "devakābhyām"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "gen",
+      "number": "du",
+      "readings": [
+        "devikayoḥ",
+        "deviyayoḥ",
+        "devilayoḥ",
+        "devadattakayoḥ",
+        "devakayoḥ"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "loc",
+      "number": "du",
+      "readings": [
+        "devikayoḥ",
+        "deviyayoḥ",
+        "devilayoḥ",
+        "devadattakayoḥ",
+        "devakayoḥ"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "voc",
+      "number": "du",
+      "readings": [
+        "devikau",
+        "deviyau",
+        "devilau",
+        "devadattakau",
+        "devakau"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "nom",
+      "number": "pl",
+      "readings": [
+        "devikāḥ",
+        "deviyāḥ",
+        "devilāḥ",
+        "devadattakāḥ",
+        "devakāḥ"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "acc",
+      "number": "pl",
+      "readings": [
+        "devikān",
+        "deviyān",
+        "devilān",
+        "devadattakān",
+        "devakān"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "ins",
+      "number": "pl",
+      "readings": [
+        "devikaiḥ",
+        "deviyaiḥ",
+        "devilaiḥ",
+        "devadattakaiḥ",
+        "devakaiḥ"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "dat",
+      "number": "pl",
+      "readings": [
+        "devikebhyaḥ",
+        "deviyebhyaḥ",
+        "devilebhyaḥ",
+        "devadattakebhyaḥ",
+        "devakebhyaḥ"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "abl",
+      "number": "pl",
+      "readings": [
+        "devikebhyaḥ",
+        "deviyebhyaḥ",
+        "devilebhyaḥ",
+        "devadattakebhyaḥ",
+        "devakebhyaḥ"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "gen",
+      "number": "pl",
+      "readings": [
+        "devikānām",
+        "deviyānām",
+        "devilānām",
+        "devadattakānām",
+        "devakānām"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "loc",
+      "number": "pl",
+      "readings": [
+        "devikeṣu",
+        "deviyeṣu",
+        "devileṣu",
+        "devadattakeṣu",
+        "devakeṣu"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "DEVADATTA_AFFECTION_SELECTED_FIVE_M",
+      "gender": "m",
+      "case": "voc",
+      "number": "pl",
+      "readings": [
+        "devikāḥ",
+        "deviyāḥ",
+        "devilāḥ",
+        "devadattakāḥ",
+        "devakāḥ"
+      ],
+      "reading_branches": [
+        "THAC",
+        "GHAN",
+        "ILAC",
+        "KA_FULL",
+        "KA_OPTIONAL_TAIL"
+      ],
+      "position_credit": 1,
+      "reading_credit": 5,
+      "old_reading_indices": []
+    }
+  ],
+  "controls": [
+    {
+      "id": "NONHUMAN_OR_NOT_NAME_USES_SAME_SPECIAL_AFFIX",
+      "status": "Open_missing_human_name_gate"
+    },
+    {
+      "id": "TWO_VOWEL_SHORT_NAME_GETS_SPECIAL_THAC",
+      "status": "Excluded_bahvac_guard_only_not_ordinaryka"
+    },
+    {
+      "id": "CUT_SECOND_VOWEL_ITSELF_UNDER_5383",
+      "status": "Excluded_wrong_recipient"
+    },
+    {
+      "id": "DELETE_ONE_SOUND_ONLY_OF_DATTA_TAIL",
+      "status": "Excluded_wrong_whole_tail_scope"
+    },
+    {
+      "id": "GHAN_IY_SUBSTITUTE_ERASES_ORIGINAL_SUFFIX_A",
+      "status": "Excluded_initial_only_owner"
+    },
+    {
+      "id": "THAC_MARKED_NN_IT_OR_VERBAL_ROOT_VRDDHI",
+      "status": "Excluded_marker_identity"
+    },
+    {
+      "id": "DEVEYA_FROM_GUNA_INSTEAD_OF_BHA_A_LOPA",
+      "status": "Excluded_selected_64148_source_trace"
+    },
+    {
+      "id": "ORDINARY_KA_ALWAYS_FORCES_MAIN_TAIL_LOPA",
+      "status": "Excluded_missing_ṭh_ajādi_premise"
+    },
+    {
+      "id": "FIRST_MEMBER_LOPA_AFFIXLESS_OTHER_GENDERS",
+      "status": "Open_other_positive_source_paths"
+    },
+    {
+      "id": "UPA_U_R_OR_THIRD_FOURTH_VOWEL_EXCEPTIONS",
+      "status": "Open_next_actual_domains"
+    },
+    {
+      "id": "FULL_NAME_INNER_ETYMology_ACCENT_PRINT",
+      "status": "Open_below_input_or_other_query"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 5,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 23,
+    "new_nominal_readings": 120,
+    "new_source_observations": 0
+  },
+  "source_boundary": "Selected5branchesonly;24uniqueMcasekeys125unionreadingsminusoneoldnomkey5oldsourcecontrols=23newkeys120readings,not5independent24keycounts.First-memberandaffixlesssourcealternativesnotexcluded,butoutsidecurrentconstruction."
+}
