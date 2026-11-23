@@ -1,6 +1,6 @@
-# Written-development backlog at PG507
+# Written-development backlog at PG508
 
-Monty · 23 November 2026 · reviewed parent 995ac7b54fbcbff8c1885087a457dfa129e7d859.
+Monty · 23 November 2026 · reviewed parent 59782ff8997b6519ada28f5cdecca588fe1b8339.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -657,3 +657,9 @@ PG505 GKV extension pointer superseded only for supplied licensed M/Fframes,3ste
 PG507 constructs [aṣṭan ritual kapāla/yoked go with owned affix histories](astan_ritual_kapala_and_yoked_go_owned_extensions/README.md):2morphology/composition adapters/4stem readouts,5retained histories;0finite/nominal/source additions.Ritual aṇ-luk4.1.88 differs from nonritual single aggregate;bahuvrīhi ac differs from aggregate ṭac plus licensed cart-directed transfer.Vedic6.3.126 scope retained independently.Totals51,819finite;5,179nominal/6,128readings;global gates Open.
 
 PG506 aṣṭan pointers superseded only on declared five nominal histories.Four oldsource stems/wholewords0credits.Next unconstructed:ritual purōḍāśa-linked M cases;nonritual kapāla N aggregate singular(8keys,not24);external yoked śakaṭa-linked N cases under preserved ac/ṭac histories.Other gender/head/lexical/Vedic/accent/teacher products,unknown meaning-transfer evidence,original critical/source-case/policy reconciliation remain Open.S1-S7/C2-C5/native/Claude obligations separate;S5fourfields99/103direct.
+
+## PG508 · Proper outer case domains locally closed
+
+PG508 completes [aṣṭan offering/cart cases and two singular aggregate panels](astan_offering_cart_and_single_aggregate_cases/README.md):55new nominal positions/59readings,0finite/source/separate construction credits.64keys68readings minus9old/conservative controls;offering M24,cart N24,two aggregates N8each.Dental n blocked from initial ṣ by ṭ;four abl.sg pause doublets.Two cart mechanisms retain one word ledger.Totals51,819finite;5,234nominal/6,187readings;global gates Open.
+
+PG507 selected-case pointers superseded:ritual purōḍāśa-linked M24/cart śakaṭa-linked N24/two singular-aggregate N8panels CLOSED at64keys68readings.9old/conservative source keys withheld;B/Tcart ac/ṭac histories are not duplicate words.Other gender/head/multipleaggregate/innerlexical/Vedic/accent/teacher frames,unknown semantic/compound/lakṣaṇā,original critical/source-case/policies remain Open.Genuine next source/register contract:6.3.47–49 numeral compound ā/trayas/optionalhigher-tens with excluded eighty/hundred/bahuvrīhi and separate Vedic route;check later prose/factored closures before credit.S1-S7/C2-C5/native/Claude remain distinct;S5fourfields99/103direct.

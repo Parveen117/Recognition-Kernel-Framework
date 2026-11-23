@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG507
+# Pāṇini grammar · current written coverage at PG508
+
+PG508 completes [aṣṭan offering/cart cases and two singular aggregate panels](astan_offering_cart_and_single_aggregate_cases/README.md):55new nominal positions/59readings,0finite/source/separate construction credits.64keys68readings minus9old/conservative controls;offering M24,cart N24,two aggregates N8each.Dental n blocked from initial ṣ by ṭ;four abl.sg pause doublets.Two cart mechanisms retain one word ledger.Totals51,819finite;5,234nominal/6,187readings;global gates Open.
 
 PG507 constructs [aṣṭan ritual kapāla/yoked go with owned affix histories](astan_ritual_kapala_and_yoked_go_owned_extensions/README.md):2morphology/composition adapters/4stem readouts,5retained histories;0finite/nominal/source additions.Ritual aṇ-luk4.1.88 differs from nonritual single aggregate;bahuvrīhi ac differs from aggregate ṭac plus licensed cart-directed transfer.Vedic6.3.126 scope retained independently.Totals51,819finite;5,179nominal/6,128readings;global gates Open.
 
