@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG532 constructs [nañ-akac partial n-lopa and owned masculine cases](nanj_akac_partial_lopa_and_masculine_case_owners/README.md): 23 new nominal positions/24 readings;24keys25readings minus1conservative source control. One morphology adapter/one stem interface;0finite/source additions. Reuse actualak, n|ak|a→naka then onlyoriginaln-lopa→aka;oldlexicalṇ blocks latercase-n ṇatva. Totals51,819finite;6,057nominal/7,038readings; global gates Open.
+
 PG531 constructs [finite avakṣepa nañ/separate-a source-policy contract](finite_avaksepa_nanj_separate_a_and_source_policies/README.md): 1syntax contract/4controlled expressions,1primaryBhāṣya63073entry observation;0new finite/nominal positions/readings. Censure means sourcekutsitaṃpacasi,not factual event absence;a is a separatepada,not past augment/compound verb. Lexical-a/nañ and ordinaryna histories distinct;originala-authorityOpen. Totals unchanged51,819finite;6,034nominal/7,014readings; global gates Open.
 
 PG530 constructs [Nakṣatra atran root-n and shared-case bridge](naksatra_atran_root_n_and_shared_case_bridge/README.md): 1 morphology adapter/1 stem interface,0new finite/nominal/source credits. Primary3.105/nakṣ1010752 supplies actual atran; initial ṇ→n is root-owned, no nañ event. Frozen N24keys25readings reused at0credit; VCP arm locally CLOSED, Nyāsa critical root remains Open. Totals unchanged51,819finite;6,034nominal/7,014readings; global gates Open.

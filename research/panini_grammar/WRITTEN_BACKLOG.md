@@ -1,4 +1,4 @@
-# Written-development backlog at PG531
+# Written-development backlog at PG532
 
 Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
@@ -822,3 +822,10 @@ PG525/529 VCP-nakṣ+atran pointers are superseded only on exact primary3.105/ro
 PG531 constructs [finite avakṣepa nañ/separate-a source-policy contract](finite_avaksepa_nanj_separate_a_and_source_policies/README.md): 1syntax contract/4controlled expressions,1primaryBhāṣya63073entry observation;0new finite/nominal positions/readings. Censure means sourcekutsitaṃpacasi,not factual event absence;a is a separatepada,not past augment/compound verb. Lexical-a/nañ and ordinaryna histories distinct;originala-authorityOpen. Totals unchanged51,819finite;6,034nominal/7,014readings; global gates Open.
 
 Already closed locally: two supplied censure inputs/ordinary na-pacasi and na-asti controls, actual separate-pada a, attributed nañ-extension/independent-a policies and finite-source/controller preservation. Genuine unconstructed domains: other roots/persons/lakāras/vowel-initial finite requests and automatic speech/particle parsing. Unresolved source readings: independent-a original authority/print lineage remains Open; source vai-present/absent displays are attributed, not a freely optional particle theorem. Next positive nañ construction: actual akac inside nañ before outer negative compound n-lopa, distinguishing the other taddhita nañ4.1.87; review closed akac/gender/source register packets before credits. Earlier Nakṣatracritical/Navedassemantic/Napuṃsakadeeper and S1–S7/C2–C5/native/Claude obligations remain Open/deferred.
+
+
+### PG532 · Nañ/akac actual payload, partial deletion and lexical ṇ guard
+
+PG532 constructs [nañ-akac partial n-lopa and owned masculine cases](nanj_akac_partial_lopa_and_masculine_case_owners/README.md): 23 new nominal positions/24 readings;24keys25readings minus1conservative source control. One morphology adapter/one stem interface;0finite/source additions. Reuse actualak, n|ak|a→naka then onlyoriginaln-lopa→aka;oldlexicalṇ blocks latercase-n ṇatva. Totals51,819finite;6,057nominal/7,038readings; global gates Open.
+
+Already closed locally: admitted avyaya-nañ akac insertion/outercompound partialn-lopa and M24key25reading family; old pronoun akac panels/payload/source observation uncredited. Genuine unconstructed next: finite tiṅ-akac positive pacataki/jalpataki inputs under5.3.70–74, with their own finite-pada/actual prāk-ṭi location; no transfer of the negative compound/a-particle path. Other avyaya/meaning/F/N/source-semantic/critical-print domains remain Open. Prior actual source/lexical/number/teacher/accent and S1–S7/C2–C5/native/Claude remain as declared; no open reading converted to exclusion.
