@@ -983,3 +983,10 @@ Selected5.3.85–87 contract CLOSED on supplied evidence;all unmeasured quantity
 PG554 constructs [lexical diminutives,gender policies and defining-property attenuation](lexical_diminutives_gender_policies_and_defining_property_attenuation/README.md):3morphology contracts10stems;1semantic contract4frames;1kutupa gender-source decision;1primary53091observation;0word increments. Long-vowel/ṭi/n/ṣIT/ṅīṣ owners distinct;Kneuter andSK/Bāla masculine accepted separately;bodythinness not defining-property attenuation. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 
 Selected5.3.88–91 contracts locally CLOSED;both kutupa genders accepted by named source paths. Original critical gender/ṅIT-text lineage,other senses/case/accent remain Open. Next5.3.95–100meaningandlupworkafterclosed5.3.92–94review. C2-C5/S1-S7/native/Claude unchanged.
+
+
+### PG555 · Disparagement/replica/name semantic contracts
+
+PG555 constructs [disparagement means,replica and resemblance-name roles](disparagement_means_replica_and_resemblance_name_roles/README.md):3semantic contracts8readouts;1positive source-policy decision;1primary53095observation;0morphology/word increments. CitedmeansX versuscensuredY,materialreplica versuswhole-name witness and2Tattvareferenceaccounts explicit;prāgivīyascopeends95. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
+
+Selected95means/96replica/97nonhumannameframeslocallyCLOSED. OriginalK53095directkanmicroreadingstillOpen;positiveprimary/Tattvadecisiondoesnotrepairit. Next98humanlupgender-number/adjectiveand99–100replicalupconditions. OtherC2-C5/S1-S7/native/Claude unchanged.

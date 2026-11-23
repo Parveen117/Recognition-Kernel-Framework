@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG555 constructs [disparagement means,replica and resemblance-name roles](research/panini_grammar/disparagement_means_replica_and_resemblance_name_roles/README.md):3semantic contracts8readouts;1positive source-policy decision;1primary53095observation;0morphology/word increments. CitedmeansX versuscensuredY,materialreplica versuswhole-name witness and2Tattvareferenceaccounts explicit;prāgivīyascopeends95. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
+
 PG554 constructs [lexical diminutives,gender policies and defining-property attenuation](research/panini_grammar/lexical_diminutives_gender_policies_and_defining_property_attenuation/README.md):3morphology contracts10stems;1semantic contract4frames;1kutupa gender-source decision;1primary53091observation;0word increments. Long-vowel/ṭi/n/ṣIT/ṅīṣ owners distinct;Kneuter andSK/Bāla masculine accepted separately;bodythinness not defining-property attenuation. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 
 PG553 constructs [quantity,length,naming and original avyaya ṭi](research/panini_grammar/quantity_length_naming_and_owned_avyaya_final_ti/README.md):1morphology adapter10interfaces(8stems,2avyaya);1semantic contract3domains;4prior pronoun/finite controls reused;0newword/source credits. Amount,length and naming evidence stay distinct;uccais/nīcais retain original ai+s across actualak insertion. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
