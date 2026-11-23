@@ -1,0 +1,308 @@
+{
+  "stage": "PG554",
+  "ra_paths": [
+    {
+      "id": "KUTI_RA",
+      "base": "kuṭī",
+      "base_gender": "f",
+      "suffix": "ra",
+      "payload": "ra",
+      "markers": [],
+      "retained_final_vowel": "ī_base",
+      "readout": "kuṭīra",
+      "output_gender": "m",
+      "rule": "5.3.88",
+      "meaning": "relative_shortness",
+      "name_required": false,
+      "gender_source": "K/Bālaexplicitusage_notautomaticbaseinheritance",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "position_credit": 0
+    },
+    {
+      "id": "SAMI_RA",
+      "base": "śamī",
+      "base_gender": "f",
+      "suffix": "ra",
+      "payload": "ra",
+      "markers": [],
+      "retained_final_vowel": "ī_base",
+      "readout": "śamīra",
+      "output_gender": "m",
+      "rule": "5.3.88",
+      "meaning": "relative_shortness",
+      "name_required": false,
+      "gender_source": "K/Bālaexplicitusage_notautomaticbaseinheritance",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "position_credit": 0
+    },
+    {
+      "id": "SUNDA_RA",
+      "base": "śuṇḍā",
+      "base_gender": "f",
+      "suffix": "ra",
+      "payload": "ra",
+      "markers": [],
+      "retained_final_vowel": "ā_base",
+      "readout": "śuṇḍāra",
+      "output_gender": "m",
+      "rule": "5.3.88",
+      "meaning": "relative_shortness",
+      "name_required": false,
+      "gender_source": "K/Bālaexplicitusage_notautomaticbaseinheritance",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "position_credit": 0
+    }
+  ],
+  "dupac_path": {
+    "id": "KUTU_DUPAC",
+    "base": "kutū",
+    "base_gender": "f",
+    "sense": "leather_oil_container",
+    "meaning": "relative_shortness",
+    "rule": "5.3.89",
+    "suffix": "ḍupac",
+    "markers": [
+      "ḍ_IT",
+      "c_IT"
+    ],
+    "payload": "upa",
+    "ti": [
+      "ū_base"
+    ],
+    "ti_operation": "6.4.143_ḍIT_lopa",
+    "retained_base": "kut",
+    "readout": "kutupa",
+    "root_id": null,
+    "preverb": null,
+    "voice": null,
+    "pada": null,
+    "position_credit": 0,
+    "gender_policies": [
+      {
+        "id": "KASIKA_N",
+        "gender": "n",
+        "source_form": "कुतुपम्",
+        "accepted": true
+      },
+      {
+        "id": "KAUMUDI_BALA_M",
+        "gender": "m",
+        "source_form": "कुतुपः",
+        "accepted": true
+      }
+    ]
+  },
+  "starac_paths": [
+    {
+      "base": "kāsū",
+      "rule": "5.3.90",
+      "meaning": "relative_shortness",
+      "base_sense": "weapon_śakti",
+      "suffix": "ṣṭarac",
+      "markers": [
+        "ṣ_IT",
+        "c_IT"
+      ],
+      "teaching_t": "ṣ-triggered_ṣṭutva_display;underlying_payload_dental_t",
+      "payload": "tara",
+      "feminine": "ṅīṣ_4.1.41_under_ṣIT_and_feminine_request",
+      "final_tara_a": "lopa_6.4.148_before_new_ī",
+      "readout": "kāsūtarī",
+      "output_gender": "f",
+      "old_vowel": "ū_base",
+      "new_vowel": "ī_FROM_NIS",
+      "position_credit": 0,
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null
+    },
+    {
+      "base": "goṇī",
+      "rule": "5.3.90",
+      "meaning": "relative_shortness",
+      "base_sense": "supplied_goṇī_bag",
+      "suffix": "ṣṭarac",
+      "markers": [
+        "ṣ_IT",
+        "c_IT"
+      ],
+      "teaching_t": "ṣ-triggered_ṣṭutva_display;underlying_payload_dental_t",
+      "payload": "tara",
+      "feminine": "ṅīṣ_4.1.41_under_ṣIT_and_feminine_request",
+      "final_tara_a": "lopa_6.4.148_before_new_ī",
+      "readout": "goṇītarī",
+      "output_gender": "f",
+      "old_vowel": "ī_base",
+      "new_vowel": "ī_FROM_NIS",
+      "position_credit": 0,
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null
+    },
+    {
+      "base": "vatsa",
+      "rule": "5.3.91",
+      "meaning": "first_age_property_attenuated_by_reaching_second_age",
+      "suffix": "ṣṭarac",
+      "markers": [
+        "ṣ_IT",
+        "c_IT"
+      ],
+      "teaching_t": "ṣ-triggered_ṣṭutva_display;underlying_payload_dental_t",
+      "payload": "tara",
+      "feminine": null,
+      "readout": "vatsatara",
+      "output_gender": "m",
+      "hrasva_required": false,
+      "body_thinness_alone": false,
+      "ukṣan_n": null,
+      "position_credit": 0,
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null
+    },
+    {
+      "base": "ukṣan",
+      "rule": "5.3.91",
+      "meaning": "young_bull_property_attenuated_by_reaching_third_age",
+      "suffix": "ṣṭarac",
+      "markers": [
+        "ṣ_IT",
+        "c_IT"
+      ],
+      "teaching_t": "ṣ-triggered_ṣṭutva_display;underlying_payload_dental_t",
+      "payload": "tara",
+      "feminine": null,
+      "readout": "ukṣatara",
+      "output_gender": "m",
+      "hrasva_required": false,
+      "body_thinness_alone": false,
+      "ukṣan_n": "8.2.7_pada_n_lopa_only;retained_a",
+      "position_credit": 0,
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null
+    },
+    {
+      "base": "aśva",
+      "rule": "5.3.91",
+      "meaning": "traditional_parentage_property_other_father",
+      "suffix": "ṣṭarac",
+      "markers": [
+        "ṣ_IT",
+        "c_IT"
+      ],
+      "teaching_t": "ṣ-triggered_ṣṭutva_display;underlying_payload_dental_t",
+      "payload": "tara",
+      "feminine": null,
+      "readout": "aśvatara",
+      "output_gender": "m",
+      "hrasva_required": false,
+      "body_thinness_alone": false,
+      "ukṣan_n": null,
+      "position_credit": 0,
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null
+    },
+    {
+      "base": "ṛṣabha",
+      "rule": "5.3.91",
+      "meaning": "load_carrying_capacity_diminished",
+      "suffix": "ṣṭarac",
+      "markers": [
+        "ṣ_IT",
+        "c_IT"
+      ],
+      "teaching_t": "ṣ-triggered_ṣṭutva_display;underlying_payload_dental_t",
+      "payload": "tara",
+      "feminine": null,
+      "readout": "ṛṣabhatara",
+      "output_gender": "m",
+      "hrasva_required": false,
+      "body_thinness_alone": false,
+      "ukṣan_n": null,
+      "position_credit": 0,
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null
+    }
+  ],
+  "controls": [
+    {
+      "id": "all_svārthika_inherit_base_gender",
+      "status": "Excluded_explicit_usage_counterexamples"
+    },
+    {
+      "id": "kutupa_N_and_M_are_one_repaired_source",
+      "status": "Excluded_named_policies_must_survive"
+    },
+    {
+      "id": "Bala_raw_ṅIT_creates_new_marker",
+      "status": "Excluded_unpinned_marker_repair"
+    },
+    {
+      "id": "ṣṭarac_ṭ_reclassified_initial_IT_after_ṣ_lopa",
+      "status": "Excluded_teaching_context_confusion"
+    },
+    {
+      "id": "ṣIT_forces_every_output_feminine",
+      "status": "Excluded_feminine_request_missing"
+    },
+    {
+      "id": "ukṣan_an_ti_lopa_before_tara",
+      "status": "Excluded_wrong_bha_and_wrong_a_deletion"
+    },
+    {
+      "id": "body_thinness_alone_licenses_91",
+      "status": "Excluded_positive_primary_defining_property_guard"
+    },
+    {
+      "id": "all_tara_are_comparative_tarap",
+      "status": "Excluded_affix_sense_conflation"
+    },
+    {
+      "id": "kutupa_original_print_gender_reconciliation",
+      "status": "Open"
+    },
+    {
+      "id": "broader_defining_property_semantics_and_lexica",
+      "status": "Open"
+    },
+    {
+      "id": "other_cases_genders_accord_accent_recitation",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 3,
+    "new_morphological_readouts": 10,
+    "new_semantic_constructions": 1,
+    "new_semantic_readouts": 4,
+    "new_source_policy_decisions": 1,
+    "new_source_observations": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  },
+  "source_observation_units": [
+    "primary53091entry2249_varttika5894_defining_property_argument"
+  ],
+  "unit_boundary": "3ra+1kutupa+6starac=10uniqueunaccentedstems;kutupatwogenderpoliciesarenot2uniquestems.4semanticsare91classboundattenuations.No case/wordcensus or grammar execution."
+}

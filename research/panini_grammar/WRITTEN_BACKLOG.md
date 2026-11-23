@@ -976,3 +976,10 @@ Selected5.3.81–82 adapters locally CLOSED;old register words0recredit. Other s
 PG553 constructs [quantity,length,naming and original avyaya ṭi](quantity_length_naming_and_owned_avyaya_final_ti/README.md):1morphology adapter10interfaces(8stems,2avyaya);1semantic contract3domains;4prior pronoun/finite controls reused;0newword/source credits. Amount,length and naming evidence stay distinct;uccais/nīcais retain original ai+s across actualak insertion. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 
 Selected5.3.85–87 contract CLOSED on supplied evidence;all unmeasured quantity/comparator/naming interpretation remains Open,not excluded. Next actual5.3.88–91 lexical suffix/gender/attenuation operations. Prior C2-C5/S1-S7 and Claude/native obligations unchanged.
+
+
+### PG554 · Actual lexical diminutive/gender/attenuation contracts
+
+PG554 constructs [lexical diminutives,gender policies and defining-property attenuation](lexical_diminutives_gender_policies_and_defining_property_attenuation/README.md):3morphology contracts10stems;1semantic contract4frames;1kutupa gender-source decision;1primary53091observation;0word increments. Long-vowel/ṭi/n/ṣIT/ṅīṣ owners distinct;Kneuter andSK/Bāla masculine accepted separately;bodythinness not defining-property attenuation. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
+
+Selected5.3.88–91 contracts locally CLOSED;both kutupa genders accepted by named source paths. Original critical gender/ṅIT-text lineage,other senses/case/accent remain Open. Next5.3.95–100meaningandlupworkafterclosed5.3.92–94review. C2-C5/S1-S7/native/Claude unchanged.
