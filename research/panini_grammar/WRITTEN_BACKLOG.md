@@ -1,6 +1,6 @@
-# Written-development backlog at PG620
+# Written-development backlog at PG621
 
-Monty · 2026-11-24 · reviewed current parent 9261c16f35ee5ba8a548eabf91a3e05f76598e5f; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 0b37292f5b7ab40c7db8cf66200f09756ef657a7; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1491,3 +1491,14 @@ Selected142 ubhaya/ubhayatas source traces locally CLOSED; patra interpretation 
 - Closed selected142 ubhayādat witnessed first-long-ā/nuṃ-absence and separate ubhayatodat ACCpl source traces. PG38 generic Vedic scope is not recredited.
 - Open: patradatam exact patra sense/gender/case/nuṃ; original printed-source collation and general āgama-anityatva versus particular chāndasa policy; full Vedic case/accent products.
 - Next143–160 named changes/residual kap, exact13918-member and12813-member registers, two bāhu senses/prohyapadi, older textual/lexical/C2–C5/S1–S7/native/global obligations; Claude execution remains distinct.
+
+
+### PG621 · Named tooth feminines, ordinary feminine options and dat choices
+
+PG621: [Named tooth feminines, ordinary feminine options and dat choices](named_teeth_feminines_optional_ordinary_f_and_dat_choices/README.md). Four formation adapters/28 interfaces; three compound contracts/28 plans; three meaning contracts/18 records; three scope contracts/seven records; five observations/one source decision. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+Selected143–145 source profiles locally CLOSED; original/naming/paradigm and wider gates Open.
+
+- Closed selected143–145 named/ordinary feminine and optional dat/danta source interfaces. Existing PG38 name/option and4.1.55 generic policies receive no recredit.
+- Open: original Nyāsa143 śāsantam microtext, unrestricted145 naming scope, inner roka derivation and all full gender/case/accent panels.
+- Next146–149 kakuda versus kākuda and150–160 residual kap. Prior142 patra case,13918-member and12813-member lists, two bāhu senses/prohyapadi, older textual/lexical/C2–C5/S1–S7/native/global work stay Open; Claude execution distinct.

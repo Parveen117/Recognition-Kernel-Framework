@@ -161,3 +161,19 @@ Selected142 ubhaya/ubhayatas source traces locally CLOSED; patra interpretation 
 - Next143–160 named changes/residual kap, exact13918-member and12813-member registers, two bāhu senses/prohyapadi, older textual/lexical/C2–C5/S1–S7/native/global obligations; Claude execution remains distinct.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG621 · Named tooth feminines, ordinary feminine options and dat choices
+
+Previous publication: 0b37292f5b7ab40c7db8cf66200f09756ef657a7; tree ff872858a46886246d9df560d8fc8f00756b357d. Necessary check: Python 3.12.14, 56 assertions, 1 attempt(s).
+
+PG621: [Named tooth feminines, ordinary feminine options and dat choices](named_teeth_feminines_optional_ordinary_f_and_dat_choices/README.md). Four formation adapters/28 interfaces; three compound contracts/28 plans; three meaning contracts/18 records; three scope contracts/seven records; five observations/one source decision. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+PG521–621 cumulative:938 nominal positions/1,207 readings, zero finite;194 morphology constructions/861 interfaces (695 nominal/stem+10 finite+156 avyaya);86 compound contracts/436 plans;7 accent/27 records;98 semantics/296 records;54 syntax/163 records;21 source-policy decisions after PG555−1;190 observations (6 VCP+35 primary Bhāṣya+27 paired commentary+53 Nyāsa+23 Tattva+31 Bāla+14 K cross-rule+1 primary Bhaṭṭabhāskara). One additive register-provenance correction; no new census effect.
+
+Selected143–145 source profiles locally CLOSED; original/naming/paradigm and wider gates Open.
+- Closed selected143–145 named/ordinary feminine and optional dat/danta source interfaces. Existing PG38 name/option and4.1.55 generic policies receive no recredit.
+- Open: original Nyāsa143 śāsantam microtext, unrestricted145 naming scope, inner roka derivation and all full gender/case/accent panels.
+- Next146–149 kakuda versus kākuda and150–160 residual kap. Prior142 patra case,13918-member and12813-member lists, two bāhu senses/prohyapadi, older textual/lexical/C2–C5/S1–S7/native/global work stay Open; Claude execution distinct.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

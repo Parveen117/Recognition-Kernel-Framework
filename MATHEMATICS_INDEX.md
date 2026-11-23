@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG621: [Named tooth feminines, ordinary feminine options and dat choices](research/panini_grammar/named_teeth_feminines_optional_ordinary_f_and_dat_choices/README.md). Four formation adapters/28 interfaces; three compound contracts/28 plans; three meaning contracts/18 records; three scope contracts/seven records; five observations/one source decision. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
 PG620: [Vedic teeth, Bhaṭṭabhāskara nuṃ absence and distinct first members](research/panini_grammar/vedic_teeth_bhattabhaskara_num_absence_and_distinct_first_members/README.md). Two formation adapters/four interfaces; two compound contracts/three plans; one meaning contract/two records; two scope contracts/four records; three observations/one primary-commentary source decision. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
 
 PG619: [Age teeth dat, ugit nuṃ and short a after cluster loss](research/panini_grammar/age_teeth_dat_ugit_num_and_short_a_after_cluster_loss/README.md). Three formation adapters/eight interfaces; two compound contracts/eight plans; one meaning contract/three records; three scope contracts/six records; four observations. Zero new word/accent/policy credits. Census:51,819 finite;6,716 nominal/7,950 readings.
