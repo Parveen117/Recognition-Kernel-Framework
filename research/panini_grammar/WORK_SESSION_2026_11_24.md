@@ -481,3 +481,19 @@ Selected feminine bahutantrī neck case fibre locally CLOSED; lexical/source/glo
 - Actual K139eight/extended139seven,128variant/inner/142patra and prior C2–C5/S1–S7/native/global work remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG641 · Patradatam accusative request and the gender-conditioned nuṃ fork
+
+Previous publication: 94cc215b642d243f968a01fde47e44b16ca5d7bc; tree e01da2523ed896d1a4e918648e5072ea6a997b39. Necessary check: Python 3.12.14, 54 assertions, 1 attempt(s).
+
+PG641: [Patradatam accusative request and the gender-conditioned nuṃ fork](patradatam_accusative_request_and_gender_conditioned_num_fork/README.md). The K54142 patradatam citation is now source-relatively ACCsg under ālabheta; its N no-n branch is ordinary, while the M branch retains an Open token-specific nuṃ-omission obligation. One semantic/two records, two syntax/six records and one qualified source decision; zero new positions or repeated morphology/source credits. Census 51,819 finite;7,474 nominal/8,709 readings.
+
+PG521–641 cumulative:1,696 nominal positions/1,966 readings, zero finite;228 morphology/994 interfaces (813 nominal/stem+10 finite+171 avyaya);116 compound/569 plans;7 accent/27 records;137 semantics/415 records;97 syntax/266 records;29 source-policy decisions after PG555−1;263 observations. One provenance correction/one proof addendum; no new census correction.
+
+Patradatam ACCsg request locally CLOSED; gender/meaning/source-owner and global gates Open.
+- Closed K54142 patradatam citation case/number as ACCsg and admitted the ordinary N no-n branch; old PG620 stem/source construction receives no repeated credit.
+- Exact patra sense, omitted referent and M/N gender remain Open. The M ACCsg branch requires its own chāndasa nuṃ-omission owner; PG620 ubhayādataḥ commentary is not transferred.
+- Actual K139eight/extended139seven,128variant/inner and prior C2–C5/S1–S7/native/global work remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

@@ -1,6 +1,6 @@
-# Written-development backlog at PG640
+# Written-development backlog at PG641
 
-Monty · 2026-11-24 · reviewed current parent 3639b1d5803cdc4910ab89cb586cc423b5a2c476; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 94cc215b642d243f968a01fde47e44b16ca5d7bc; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1711,3 +1711,14 @@ Selected feminine bahutantrī neck case fibre locally CLOSED; lexical/source/glo
 - Closed selected K159 bahutantrīḥ grīvā feminine neck case fibre; primitiveUṇādiī, nadī and actualṅy/āp remain distinct consumer guards. Old source/NOMsg/inner constructors receive no repeated credit.
 - Other whole-gender/meaning admissions, nonbody string/veena paradigms and complete accent/recitation remain Open; feminine agreement alone does not replace the1.4.3word-meaning premise.
 - Actual K139eight/extended139seven,128variant/inner/142patra and prior C2–C5/S1–S7/native/global work remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+
+### PG641 · Patradatam accusative request and the gender-conditioned nuṃ fork
+
+PG641: [Patradatam accusative request and the gender-conditioned nuṃ fork](patradatam_accusative_request_and_gender_conditioned_num_fork/README.md). The K54142 patradatam citation is now source-relatively ACCsg under ālabheta; its N no-n branch is ordinary, while the M branch retains an Open token-specific nuṃ-omission obligation. One semantic/two records, two syntax/six records and one qualified source decision; zero new positions or repeated morphology/source credits. Census 51,819 finite;7,474 nominal/8,709 readings.
+
+Patradatam ACCsg request locally CLOSED; gender/meaning/source-owner and global gates Open.
+
+- Closed K54142 patradatam citation case/number as ACCsg and admitted the ordinary N no-n branch; old PG620 stem/source construction receives no repeated credit.
+- Exact patra sense, omitted referent and M/N gender remain Open. The M ACCsg branch requires its own chāndasa nuṃ-omission owner; PG620 ubhayādataḥ commentary is not transferred.
+- Actual K139eight/extended139seven,128variant/inner and prior C2–C5/S1–S7/native/global work remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.

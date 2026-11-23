@@ -1,0 +1,115 @@
+{
+  "stage": "PG641",
+  "title": "Patradatam accusative request and the gender-conditioned nuṃ fork",
+  "predecessor_review": "PG620 already constructed the supplied K54142 patra+danta→datṛ/dat Vedic bahuvrīhi stem interface but deliberately left the citation case/gender/nuṃ request Open. PG619 owns datṛ ṛ_IT/ugit and7.1.70; neither formation nor source witness is recredited. PG640 census and all frozen corrections were reviewed before this request analysis.",
+  "source_request": {
+    "citation": "patradatam ālabheta",
+    "source": "K54142",
+    "predicate": "ālabheta",
+    "governed_case": "ACC",
+    "number": "SG",
+    "visible_word": "patradatam",
+    "gender_status": "M_or_N_not_resolved_by_visible_am",
+    "position_credit": 0
+  },
+  "admitted_branches": [
+    {
+      "id": "N_ACC_SG",
+      "gender": "N",
+      "case": "ACC",
+      "number": "SG",
+      "sarvanamasthana": "no_under_1.1.43",
+      "num": "not_triggered",
+      "readout": "patradatam",
+      "status": "Accepted",
+      "history": "patra+danta→patra+datṛ/dat; am is not suṭ-sarvanāmasthāna for neuter"
+    },
+    {
+      "id": "M_ACC_SG",
+      "gender": "M",
+      "case": "ACC",
+      "number": "SG",
+      "sarvanamasthana": "yes_under_1.1.43",
+      "num": "7.1.70_expected_unless_a_specific_chandasa_omission_is_admitted",
+      "readout": "patradatam",
+      "status": "Open_specific_omission_owner",
+      "history": "the visible no-n word would require an independently owned Vedic omission on this masculine branch"
+    }
+  ],
+  "semantic_contracts": [
+    {
+      "id": "ALABH_REQUEST_NOT_PATRA_GLOSS",
+      "records": [
+        "ālabheta supplies a governed singular object request, not a lexical gloss for patra",
+        "exact patra sense and omitted head noun/referent remain Open"
+      ]
+    }
+  ],
+  "syntactic_contracts": [
+    {
+      "id": "CITATION_CASE_NUMBER",
+      "records": [
+        "the visible -am participant is the object of ālabheta",
+        "case=ACC and number=SG close source-relatively",
+        "N NOMsg is excluded by the governed object request even though neuter NOM/ACC are syncretic"
+      ]
+    },
+    {
+      "id": "GENDER_CONDITIONED_NUM",
+      "records": [
+        "N ACCsg:1.1.43 withholds suṭ-sarvanāmasthāna, so7.1.70 does not insert nuṃ",
+        "M ACCsg:am is one of the five suṭ endings, so ugit datṛ would trigger7.1.70",
+        "same patradatam display cannot erase this fork or transfer PG620 ubhayādataḥ commentary automatically"
+      ]
+    }
+  ],
+  "source_policy": {
+    "id": "PATRA_ACC_SG_WITH_UNMERGED_GENDER_HISTORY",
+    "new_policy_credit": 1,
+    "adopted": "Read K patradatam as an ACCsg request governed by ālabheta. Admit the ordinary neuter no-n analysis; retain the masculine analysis only as Open until its specific chāndasa nuṃ-omission owner or omitted masculine head is independently sourced.",
+    "boundary": "Do not infer a patra meaning, choose M/N from the shared -am surface, or globalize Bhaṭṭabhāskara nuṃ absence from ubhayādataḥ."
+  },
+  "controls": [
+    {
+      "id": "PATRA_ACC_SG",
+      "status": "Closed_source_relative"
+    },
+    {
+      "id": "PATRA_EXACT_SENSE",
+      "status": "Open"
+    },
+    {
+      "id": "PATRA_GENDER",
+      "status": "Open_M_or_N"
+    },
+    {
+      "id": "NEUTER_NOM_SG",
+      "status": "Excluded_in_this_citation",
+      "reason": "ālabheta governs the cited object"
+    },
+    {
+      "id": "MASCULINE_FREE_NUM_OMISSION",
+      "status": "Open",
+      "reason": "surface alone does not supply a reusable omission policy"
+    },
+    {
+      "id": "TRANSFER_UBHAYADATAH_POLICY",
+      "status": "Excluded",
+      "reason": "PG620 primary commentary is token-specific"
+    }
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_positions": 0,
+    "new_position_readings": 0,
+    "new_semantic_constructions": 1,
+    "new_semantic_readouts": 2,
+    "new_syntactic_constructions": 2,
+    "new_syntactic_readouts": 6,
+    "new_source_policy_decisions": 1,
+    "new_source_observations": 0
+  }
+}

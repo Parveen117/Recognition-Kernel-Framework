@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG640
+# Pāṇini grammar · current written coverage at PG641
+
+PG641: [Patradatam accusative request and the gender-conditioned nuṃ fork](patradatam_accusative_request_and_gender_conditioned_num_fork/README.md). The K54142 patradatam citation is now source-relatively ACCsg under ālabheta; its N no-n branch is ordinary, while the M branch retains an Open token-specific nuṃ-omission obligation. One semantic/two records, two syntax/six records and one qualified source decision; zero new positions or repeated morphology/source credits. Census 51,819 finite;7,474 nominal/8,709 readings.
 
 PG640: [Bahutantrī neck case fibre and the nadī/affix distinction](bahutantri_neck_case_fibre_and_nadi_affix_distinction/README.md). One source-conditioned feminine neck24-key fibre minus NOMsg control:23 new unique nominal positions/23 readings. Census51,819 finite;7,474 nominal/8,709 readings. Primitiveī keeps NOMsg visarga; technical nadī separately licenses VOC shortening; ordered right-r gives GENpl bahutantrīṇām. Zero additional construction/source/accent credits.
 

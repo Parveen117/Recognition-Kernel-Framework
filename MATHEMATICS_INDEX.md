@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG641: [Patradatam accusative request and the gender-conditioned nuṃ fork](research/panini_grammar/patradatam_accusative_request_and_gender_conditioned_num_fork/README.md). The K54142 patradatam citation is now source-relatively ACCsg under ālabheta; its N no-n branch is ordinary, while the M branch retains an Open token-specific nuṃ-omission obligation. One semantic/two records, two syntax/six records and one qualified source decision; zero new positions or repeated morphology/source credits. Census 51,819 finite;7,474 nominal/8,709 readings.
+
 PG640: [Bahutantrī neck case fibre and the nadī/affix distinction](research/panini_grammar/bahutantri_neck_case_fibre_and_nadi_affix_distinction/README.md). One source-conditioned feminine neck24-key fibre minus NOMsg control:23 new unique nominal positions/23 readings. Census51,819 finite;7,474 nominal/8,709 readings. Primitiveī keeps NOMsg visarga; technical nadī separately licenses VOC shortening; ordered right-r gives GENpl bahutantrīṇām. Zero additional construction/source/accent credits.
 
 PG639: [Niṣpravāṇi cloth masculine short-i case fibre](research/panini_grammar/nispravani_cloth_masculine_short_i_case_fibre/README.md). One24-key literal male cloth short-i fibre minus source NOMsg:23 new unique nominal positions/23 readings, zero finite or additional construction/source/accent credits. Census51,819 finite;7,451 nominal/8,686 readings. Inner pravāṇī versus outer niṣpravāṇi, lexical ṇ versus new dental n remain distinct.
