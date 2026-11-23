@@ -1,4 +1,4 @@
-# Written-development backlog at PG528
+# Written-development backlog at PG529
 
 Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
@@ -801,3 +801,10 @@ Already closed locally: kram/ḍa/whole-ṭi-am deletion, negative retention, cr
 PG528 constructs [Navedas asun pronunciation-u and source-scoped s-stem cases](navedas_asun_pronunciation_u_and_scoped_s_cases/README.md): 70 new nominal positions/73 readings; 72 keys/75 readings minus2old/conservative controls. One morphology adapter/one stem interface; one VCP entry observation; 0 finite additions. Asun-u is pronunciation aid, not ugit; Nplural num independently7.1.72. K na vetti and VCP no-incorrect-knowledge meanings remain distinct. Totals 51,819 finite; 5,987 nominal/6,965 readings; global gates Open.
 
 Already closed locally: vid1020059/asun/non-ugit/rootguṇa formation and VCP-wise tri0 M/F/N72key75reading family. Genuine full unconstructed designated analysis: napuṃsaka (actual prescribed strī/puṃs→puṃsaka and negative retention, source gender semantics). Unresolved Navedas source meaning: K literal na vetti and VCP na viparītaṃ vetti are not silently equated; K-specific head/reference/gender cases stay Open. VCP original Ṛgvedic line/accents remain uncollated. Nakṣatra two source arms and earlier critical/source/sense/gender/case/number/teacher/accent, S1–S7/C2–C5/native/Claude remain Open. No source uncertainty becomes an exclusion.
+
+
+### PG529 · All eleven names have selected local adapters; deeper/source gaps stay Open
+
+PG529 constructs [Napuṃsaka prescribed body and source-qualified outer M/N cases](napumsaka_prescribed_body_and_lexical_gender_cases/README.md): 47 new nominal positions/49 readings; 48 keys/50 readings minus old napuṃsakam. One morphology adapter/one stem interface, one VCP entry-opening observation, 0 finite additions. Named whole-body nipātana retained; no invented ka/root analysis. Outer M/N separate from lexical contrast. Totals 51,819 finite; 6,034 nominal/7,014 readings; deeper/source/global gates Open.
+
+Already closed locally: named puṃsakabhāva/negative-retention adapter and VCP M/N48key50reading case family. Each of the11listed6.3.75names now has a selected positive adapter on explicitly admitted root or nominal-input boundaries; this is not all full root/affix/constituent/sense/gender/case/source-policy coverage. Genuine unconstructed named work remains: Napuṃsaka deeper constituent/puṃs etymology, prior selected lexical families' other case/gender/number/sense contracts and broader C2–C5. Unresolved source readings remain: independent reported Bhāṣya, Navedas K/VCP semantic reconciliation, Nakṣatra Nyāsa critical violence-root. Next positive construction: VCP nakṣ+atran, original five-pāda3.105 (already catalogued), with root-initial n distinct from6.3.75negative n. No old ID/word credit on the shared Nakṣatra case ledger. S1–S7/teacher/accent/native and Claude execution remain separate Open/deferred categories.
