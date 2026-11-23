@@ -1,6 +1,6 @@
-# Written-development backlog at PG615
+# Written-development backlog at PG616
 
-Monty · 2026-11-24 · reviewed current parent 030cd250293a22247f515f2833d46f2f6d3fd756; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 22b3c6909b40b796991f04176c7715e7aa77c700; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1436,3 +1436,14 @@ Six selected numeric/avyaya ūdhas formation extensions locally CLOSED; exact at
 - Closed six PG613-listed numeric/avyaya ūdhas formation adapters; PG45 ṅīp policy and PG614 two case panels remain CLOSED without new credits.
 - Open: exact Nyāsa ati-BV gloss and raw gh/ondhi textual origins; all six new full case/accent panels and broader lexical extensions.
 - Next:134 jāyā final-ā→ni,135–137 gandha; exact128 gaṇa/two bāhu senses/prohyapadi; earlier120–133 critical and source explanations plus older C2–C5/S1–S7/native/global obligations. Claude execution remains distinct.
+
+
+### PG616 · Jāyā final-ā niṅ and the same-wife puṃvad owner
+
+PG616: [Jāyā final-ā niṅ and the same-wife puṃvad owner](jaya_final_a_ning_and_same_wife_pumvad_owner/README.md). One formation adapter/two jāni stems; one compound contract/two plans; one meaning contract/two records; one ownership contract/three records; two observations. Zero new word/accent/policy credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+Two selected134 jāni stem traces locally CLOSED; inner lexical and wider written gates remain Open.
+
+- Closed two selected134 jāyā final-ā→ni, later-y-lopa and same-wife puṃvad traces. Existing PG38 correction/PG52 source ownership receives no repeated credit.
+- Open: exhaustive inner yuvati/yuvan lexical formation and original Nyāsa critical references; full external gender/case/accent products.
+- Next:135–137 gandha intrinsic-property versus commodity, small-quantity and comparison domains; Tattva reported suffix-versus-substitution and strict naturalness policies. Earlier128 exact gaṇa/two bāhu senses/prohyapadi and other source/critical/C2–C5/S1–S7/native/global obligations stay Open; Claude execution distinct.

@@ -81,3 +81,19 @@ Six selected numeric/avyaya ūdhas formation extensions locally CLOSED; exact at
 - Next:134 jāyā final-ā→ni,135–137 gandha; exact128 gaṇa/two bāhu senses/prohyapadi; earlier120–133 critical and source explanations plus older C2–C5/S1–S7/native/global obligations. Claude execution remains distinct.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG616 · Jāyā final-ā niṅ and the same-wife puṃvad owner
+
+Previous publication: 22b3c6909b40b796991f04176c7715e7aa77c700; tree 1328bb4f7f665fe0b042843a0656c23dd7e376c4. Necessary check: Python 3.12.14, 59 assertions, 1 attempt(s).
+
+PG616: [Jāyā final-ā niṅ and the same-wife puṃvad owner](jaya_final_a_ning_and_same_wife_pumvad_owner/README.md). One formation adapter/two jāni stems; one compound contract/two plans; one meaning contract/two records; one ownership contract/three records; two observations. Zero new word/accent/policy credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+PG521–616 cumulative:938 nominal positions/1,207 readings, zero finite;178 morphology constructions/792 interfaces (626 nominal/stem+10 finite+156 avyaya);73 compound contracts/364 plans;7 accent/27 records;88 semantics/253 records;41 syntax/133 records;16 source-policy decisions after PG555−1;168 observations (6 VCP+35 primary Bhāṣya+25 paired commentary+47 Nyāsa+18 Tattva+25 Bāla+12 K cross-rule). One additive register-provenance correction; no new census effect.
+
+Two selected134 jāni stem traces locally CLOSED; inner lexical and wider written gates remain Open.
+- Closed two selected134 jāyā final-ā→ni, later-y-lopa and same-wife puṃvad traces. Existing PG38 correction/PG52 source ownership receives no repeated credit.
+- Open: exhaustive inner yuvati/yuvan lexical formation and original Nyāsa critical references; full external gender/case/accent products.
+- Next:135–137 gandha intrinsic-property versus commodity, small-quantity and comparison domains; Tattva reported suffix-versus-substitution and strict naturalness policies. Earlier128 exact gaṇa/two bāhu senses/prohyapadi and other source/critical/C2–C5/S1–S7/native/global obligations stay Open; Claude execution distinct.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

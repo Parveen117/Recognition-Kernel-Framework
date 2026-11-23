@@ -1,0 +1,130 @@
+{
+  "stage": "PG616",
+  "title": "Jāyā final-ā niṅ and the same-wife puṃvad owner",
+  "predecessor_review": "PG38 134 already records final-ā→ni and corrected y-lopa6.1.66; no repeated correction/policy credit. Actual RELATION/FORMS search found no individual yuvajāni/vṛddhajāni profiles. Reuse PG52/PG606 same-owner puṃvad principle; supplied masculine counterparts, not a new exhaustive inner lexicon.",
+  "frames": [
+    {
+      "id": "YOUNG_WIFE",
+      "source_first": "yuvati (literal K)",
+      "supplied_masculine_counterpart": "yuvan",
+      "first_visible": "yuva",
+      "readout": "yuvajāni",
+      "meaning": "one whose wife is young",
+      "compound": "bahuvrīhi",
+      "first_referent": "the same wife denoted by right jāyā, not external possessor",
+      "right": "jāyā",
+      "replacement": "niṅ",
+      "payload": "ni",
+      "markers": [
+        "ṅ_IT"
+      ],
+      "recipient": "right terminal ā only",
+      "intermediate": "jāyani",
+      "right_output": "jāni",
+      "post_operation": "6.1.66 right y lopa before new ni-n",
+      "outer_gender": null,
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "OLD_WIFE",
+      "source_first": "vṛddhā",
+      "supplied_masculine_counterpart": "vṛddha",
+      "first_visible": "vṛddha",
+      "readout": "vṛddhajāni",
+      "meaning": "one whose wife is old",
+      "compound": "bahuvrīhi",
+      "first_referent": "the same wife denoted by right jāyā, not external possessor",
+      "right": "jāyā",
+      "replacement": "niṅ",
+      "payload": "ni",
+      "markers": [
+        "ṅ_IT"
+      ],
+      "recipient": "right terminal ā only",
+      "intermediate": "jāyani",
+      "right_output": "jāni",
+      "post_operation": "6.1.66 right y lopa before new ni-n",
+      "outer_gender": null,
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    }
+  ],
+  "semantic_contracts": [
+    {
+      "id": "WIFE_AGE",
+      "records": [
+        "one whose wife is young",
+        "one whose wife is old"
+      ]
+    }
+  ],
+  "syntactic_contracts": [
+    {
+      "id": "OWNERS",
+      "records": [
+        "first feminine adjective and right jāyā share wife referent",
+        "ṅ_IT niṅ targets last ā, not whole jāyā",
+        "later y-lopa before ni-n is separate from original-ā replacement"
+      ]
+    }
+  ],
+  "source_observations": [
+    "Nyāsa134 positive niṅ/puṃvad/y-lopa recipe with raw historical cross-references retained",
+    "K actual6.1.66 and6.3.34 addresses distinguish y-lopa and puṃvad from6.1.64 root-ṣ/6.3.33 Vedic pitarāmātarā"
+  ],
+  "controls": [
+    {
+      "id": "WHOLE_JAYA_TO_NI",
+      "status": "Excluded",
+      "reason": "ṅ_IT final segment ā only; jāy retained before later y loss"
+    },
+    {
+      "id": "NEW_I_PRONUNCIATION_ONLY",
+      "status": "Excluded",
+      "reason": "niṅ payload ni contains sounded i; no added affix after retained jāyā"
+    },
+    {
+      "id": "POSSESSOR_AGE",
+      "status": "Excluded_this_frame",
+      "reason": "young/old qualifies wife, not external bearer"
+    },
+    {
+      "id": "PU M VAD_CHANGES_BEARER",
+      "status": "Excluded",
+      "reason": "adjective form changes but same wife referent remains"
+    },
+    {
+      "id": "EXHAUSTIVE_YUVATI_LEXICON",
+      "status": "Open",
+      "reason": "K literal yuvati and supplied yuvan counterpart retained; complete inner feminine formation not reconstructed"
+    },
+    {
+      "id": "ALL_CASE_GENDER_ACCENT",
+      "status": "Open",
+      "reason": "two stems/source citations do not fix all external genders/case/accent"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 2,
+    "new_compound_constructions": 1,
+    "new_compound_readouts": 2,
+    "new_semantic_constructions": 1,
+    "new_semantic_readouts": 2,
+    "new_syntactic_constructions": 1,
+    "new_syntactic_readouts": 3,
+    "new_source_observations": 2,
+    "new_source_policy_decisions": 0,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  }
+}

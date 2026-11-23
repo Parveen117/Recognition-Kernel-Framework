@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG616: [Jāyā final-ā niṅ and the same-wife puṃvad owner](jaya_final_a_ning_and_same_wife_pumvad_owner/README.md). One formation adapter/two jāni stems; one compound contract/two plans; one meaning contract/two records; one ownership contract/three records; two observations. Zero new word/accent/policy credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
 PG615: [Numeric/avyaya ūdhas and intervening vidha ownership](numeric_avyaya_udhas_and_intervening_vidha_owners/README.md). Six selected ūdhas extensions plus one positive tatpuruṣa control:one formation adapter/seven stems, two compound contracts/seven plans, two scope contracts/four records, three observations. Zero new word/accent/policy credits. Census:51,819 finite;6,716 nominal/7,950 readings.
 
 PG614: [Two ūdhas feminine case panels and dental nuṭ](two_udhas_feminine_case_panels_and_dental_nut/README.md). 48 authored keys/readings minus two source NOMsg controls:46 new unique nominal positions/46 readings, zero finite or separate construction/source/accent credits. Census:51,819 finite;6,716 nominal positions/7,950 readings.
