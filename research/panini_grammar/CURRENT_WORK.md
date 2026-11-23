@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG586
+# Pāṇini grammar · current written coverage at PG587
+
+PG587 constructs [pur/pathin plain a and ap initial replacement](pur_pathin_plain_a_and_ap_initial_replacement_ownership/README.md): two formation recipes/ten stems, three compound contracts/ten source plans and two observations. Zero word/accent/policy credits. K1.1.54 fixes actual ap initial-a recipient after samāsānta; plain-a,whole-in-lopa,p and source relations retained. Full cases/exceptions/inner/globalgates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 
 PG586 constructs [named ac extensions,river aggregates and ūrṇā shortening](named_ac_extensions_river_aggregates_and_urna_shortening/README.md): one named-extension adapter/13 stems, two compound contracts/five source plans, one meaning contract/three frames and two observations. Zero word/accent/policy credits. Actual river counts/classes and first-āp versus right-i/ī owners retained; K/Bāla policies and remaining74/inner/globalgates explicit. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 
