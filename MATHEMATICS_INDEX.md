@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG558 constructs [general likeness ḍha origins,yat accent and bhavya dravya](research/panini_grammar/general_likeness_dha_origins_yat_accent_and_bhavya_dravya/README.md):3morphology adapters11stems;1accent adapter5records;1bhavya semantic contract;1positive103yat decision;0word/source increments. ÑIT/vṛddhi/ey+originala/ṅīp owners explicit;104ya/yat staysOpen. Actual101–104likenessscopecorrectsPG557next-labelforecast. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
+
 PG557 constructs [replica-lup livelihood,worship,painting and flag contexts](research/panini_grammar/replica_lup_livelihood_worship_painting_and_flag_contexts/README.md):1morphology adapter12unique stems/14frames;1semantic contract4use classes;1primary53099observation;3salecontrolsretainkan;0word increments. Omodel/Pimage distinct;wider100sale/apanyaand96/97scopeOpen,noblanketexclusion. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 
 PG556 constructs [human-name lup and owned gender/number/adjective channels](research/panini_grammar/human_name_lup_owned_gender_number_and_adjective_channels/README.md):1morphology adapter3stems;1agreement contract3expressions;2primary observations;0word increments. Actual97kan→98wholeLUPretains history;model-wordF/human-number/adjectiveMseparate;nITaccentnotlicensedafterwholelup. Totals51,819finite;6,384nominal/7,583readings;global gates Open.

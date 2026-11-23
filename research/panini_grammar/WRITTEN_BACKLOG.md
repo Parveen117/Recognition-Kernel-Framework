@@ -1,6 +1,6 @@
-# Written-development backlog at PG535
+# Written-development backlog at PG558
 
-Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
+Monty · 23 November 2026 · reviewed current parent e76b32aef0404451432403434d05f98fd3b17266; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1004,3 +1004,10 @@ Selected98humannameconsumerlocallyCLOSED;earlier97human-pendingreferencessuperse
 PG557 constructs [replica-lup livelihood,worship,painting and flag contexts](replica_lup_livelihood_worship_painting_and_flag_contexts/README.md):1morphology adapter12unique stems/14frames;1semantic contract4use classes;1primary53099observation;3salecontrolsretainkan;0word increments. Omodel/Pimage distinct;wider100sale/apanyaand96/97scopeOpen,noblanketexclusion. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 
 Selected99/100common96replicacaseslocallyCLOSED. Wider100sale/apanyainheritanceandK96/97versusBāla96scopecomparisonremainOpen,notExcluded. Othermembers/models/case/accentremainunconstructed. Nextactual101–104afteroldregisterreview;C2-C5/S1-S7/native/Claude unchanged.
+
+
+### PG558 · Actual101–104general-likeness contracts and marker policy
+
+PG558 constructs [general likeness ḍha origins,yat accent and bhavya dravya](general_likeness_dha_origins_yat_accent_and_bhavya_dravya/README.md):3morphology adapters11stems;1accent adapter5records;1bhavya semantic contract;1positive103yat decision;0word/source increments. ÑIT/vṛddhi/ey+originala/ṅīp owners explicit;104ya/yat staysOpen. Actual101–104likenessscopecorrectsPG557next-labelforecast. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
+
+Selected101–104operationslocallyCLOSED;103explicitBālayatdecisiondoesnotrepair104distinctya/yatnipātanawitnesses. Originalprint/unmarkedḍhaF/othergaṇamembersremainOpen. PG557measure/praise/contemptforecastsupersededonlyasnext-label,notfrozencontent/countedit. Nextactual105kuśāgra/106two-comparisoncompound;C2-C5/S1-S7/native/Claudeunchanged.
