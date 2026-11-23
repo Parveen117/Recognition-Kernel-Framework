@@ -990,3 +990,10 @@ Selected5.3.88–91 contracts locally CLOSED;both kutupa genders accepted by nam
 PG555 constructs [disparagement means,replica and resemblance-name roles](disparagement_means_replica_and_resemblance_name_roles/README.md):3semantic contracts8readouts;1positive source-policy decision;1primary53095observation;0morphology/word increments. CitedmeansX versuscensuredY,materialreplica versuswhole-name witness and2Tattvareferenceaccounts explicit;prāgivīyascopeends95. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 
 Selected95means/96replica/97nonhumannameframeslocallyCLOSED. OriginalK53095directkanmicroreadingstillOpen;positiveprimary/Tattvadecisiondoesnotrepairit. Next98humanlupgender-number/adjectiveand99–100replicalupconditions. OtherC2-C5/S1-S7/native/Claude unchanged.
+
+
+### PG556 · Human lup with separate gender/number/agreement channels
+
+PG556 constructs [human-name lup and owned gender/number/adjective channels](human_name_lup_owned_gender_number_and_adjective_channels/README.md):1morphology adapter3stems;1agreement contract3expressions;2primary observations;0word increments. Actual97kan→98wholeLUPretains history;model-wordF/human-number/adjectiveMseparate;nITaccentnotlicensedafterwholelup. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
+
+Selected98humannameconsumerlocallyCLOSED;earlier97human-pendingreferencessupersededonlyonthese3stems/selectednumberpolicy. Criticalvadhri/vardhri/fullLUPcomparisonandothercase/gender/accentremainOpen. Nextactual99–100replicalupconditions. C2-C5/S1-S7/native/Claude unchanged.

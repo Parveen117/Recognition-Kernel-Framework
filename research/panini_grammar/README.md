@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG556 constructs [human-name lup and owned gender/number/adjective channels](human_name_lup_owned_gender_number_and_adjective_channels/README.md):1morphology adapter3stems;1agreement contract3expressions;2primary observations;0word increments. Actual97kan→98wholeLUPretains history;model-wordF/human-number/adjectiveMseparate;nITaccentnotlicensedafterwholelup. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
+
 PG555 constructs [disparagement means,replica and resemblance-name roles](disparagement_means_replica_and_resemblance_name_roles/README.md):3semantic contracts8readouts;1positive source-policy decision;1primary53095observation;0morphology/word increments. CitedmeansX versuscensuredY,materialreplica versuswhole-name witness and2Tattvareferenceaccounts explicit;prāgivīyascopeends95. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 
 PG554 constructs [lexical diminutives,gender policies and defining-property attenuation](lexical_diminutives_gender_policies_and_defining_property_attenuation/README.md):3morphology contracts10stems;1semantic contract4frames;1kutupa gender-source decision;1primary53091observation;0word increments. Long-vowel/ṭi/n/ṣIT/ṅīṣ owners distinct;Kneuter andSK/Bāla masculine accepted separately;bodythinness not defining-property attenuation. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
