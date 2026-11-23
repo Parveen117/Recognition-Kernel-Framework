@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG629: [Kuṇipadī positive reading and three unmerged gaṇa witnesses](kunipadi_positive_reading_and_three_nonmerged_gana_witnesses/README.md). One new kuṇi formation/compound/meaning interface; two scope contracts/four records; three observations/one source decision. K kuṇa stays Open; extended gaṇa witnesses kept separate. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
 PG628: [Nine kumbhapadī lexical domains from Vācaspatyam](nine_kumbhapadi_lexical_domains_from_vacaspatyam/README.md). One formation adapter/nine interfaces; one compound contract/11 plans; three meaning contracts/11 records; three scope contracts/seven records; nine primary VCP observations. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
 
 PG627: [Three inflected gaṇa members and explicit na-kapi protection](three_inflected_urasa_members_and_explicit_na_kapi_guard/README.md). Three formation adapters/15 interfaces; three compound contracts/15 plans; three meaning contracts/six records; three scope contracts/nine records; four observations/one proof addendum. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.

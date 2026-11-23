@@ -289,3 +289,19 @@ Nine actual139 lexical traces locally CLOSED; nine remaining entries/source-affi
 - Next remaining139 then128 exact13 entries/two bāhu senses/prohyapadi;142 patra and older textual/lexical/C2–C5/S1–S7/native/global obligations. Wider written gates Open; Claude execution distinct.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG629 · Kuṇipadī positive reading and three unmerged gaṇa witnesses
+
+Previous publication: 41ce454c783f7e5736b68a44403d0af64e588e00; tree afbd062340ca7d5711cb9faf2438bd6952ba68a9. Necessary check: Python 3.12.14, 59 assertions, 1 attempt(s).
+
+PG629: [Kuṇipadī positive reading and three unmerged gaṇa witnesses](kunipadi_positive_reading_and_three_nonmerged_gana_witnesses/README.md). One new kuṇi formation/compound/meaning interface; two scope contracts/four records; three observations/one source decision. K kuṇa stays Open; extended gaṇa witnesses kept separate. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+PG521–629 cumulative:938 nominal positions/1,207 readings, zero finite;219 morphology constructions/959 interfaces (793 nominal/stem+10 finite+156 avyaya);109 compound contracts/537 plans;7 accent/27 records;124 semantics/377 records;79 syntax/220 records;24 source-policy decisions after PG555−1;228 observations (17 VCP+35 primary Bhāṣya+31 paired commentary+59 Nyāsa+24 Tattva+37 Bāla+22 K cross-rule+1 primary Bhaṭṭabhāskara+1 primary Uṇādi corroboration+1 historical Vasu field). One register-provenance correction/one proof addendum; no new census correction.
+
+Positive kuṇi branch locally CLOSED; K kuṇa/extended witnesses and full written gates Open.
+- Closed positive VCP/Vasu kuṇipadī source-relative lexical branch; K139 kuṇapadī remains unresolved. No frozen source correction or repeated generic-policy credits.
+- Genuine additionalVasu139 candidates: śūlapadī, guṇapadī, sūtrapadī, vipadī, tṛṇapadī, dvipadī, tripadī, ṣaṭpadī, śitipadī, viṣṇupadī, supadī, śucipadī, sūkarapadī, sthūṇāpadī, apadī, sūcīpadī, kalahamsapadī, viṣapadī. Also parenthetical kṛṇapadī/droṇīpadī/sthūlapadī and raw VCP/Vasu critical variants in RELATION remain Open.
+- K remaining-nine register from PG628 remains unchanged. Next complete already constructed selected139 case fibres, then unresolved139/128 semantic/recensional work,142 patra and older C2–C5/S1–S7/native/global gates. Claude execution distinct.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

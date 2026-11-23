@@ -1,6 +1,6 @@
-# Written-development backlog at PG628
+# Written-development backlog at PG629
 
-Monty · 2026-11-24 · reviewed current parent dc0008ed24c7b8b6e7287a46124cb0e74d064185; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 41ce454c783f7e5736b68a44403d0af64e588e00; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1579,3 +1579,14 @@ Nine actual139 lexical traces locally CLOSED; nine remaining entries/source-affi
 - Closed nine PG618-listed139 lexical traces on actual VCP meanings and selectedK139ṅīp. Source affix-label reconciliation remains independently Open; no new alternate-affix policy credit.
 - Genuine139 remaining: mālāpadī, munipadī, gopadī, dāsīpadī, kuṇapadī, śakṛtpadī, sūpapadī, arvapadī, stanapadī. Independent quoted passages, raw VCP NIp/NIz/qIz priority/critical interpretation and all case/accent products remain Open.
 - Next remaining139 then128 exact13 entries/two bāhu senses/prohyapadi;142 patra and older textual/lexical/C2–C5/S1–S7/native/global obligations. Wider written gates Open; Claude execution distinct.
+
+
+### PG629 · Kuṇipadī positive reading and three unmerged gaṇa witnesses
+
+PG629: [Kuṇipadī positive reading and three unmerged gaṇa witnesses](kunipadi_positive_reading_and_three_nonmerged_gana_witnesses/README.md). One new kuṇi formation/compound/meaning interface; two scope contracts/four records; three observations/one source decision. K kuṇa stays Open; extended gaṇa witnesses kept separate. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+Positive kuṇi branch locally CLOSED; K kuṇa/extended witnesses and full written gates Open.
+
+- Closed positive VCP/Vasu kuṇipadī source-relative lexical branch; K139 kuṇapadī remains unresolved. No frozen source correction or repeated generic-policy credits.
+- Genuine additionalVasu139 candidates: śūlapadī, guṇapadī, sūtrapadī, vipadī, tṛṇapadī, dvipadī, tripadī, ṣaṭpadī, śitipadī, viṣṇupadī, supadī, śucipadī, sūkarapadī, sthūṇāpadī, apadī, sūcīpadī, kalahamsapadī, viṣapadī. Also parenthetical kṛṇapadī/droṇīpadī/sthūlapadī and raw VCP/Vasu critical variants in RELATION remain Open.
+- K remaining-nine register from PG628 remains unchanged. Next complete already constructed selected139 case fibres, then unresolved139/128 semantic/recensional work,142 patra and older C2–C5/S1–S7/native/global gates. Claude execution distinct.

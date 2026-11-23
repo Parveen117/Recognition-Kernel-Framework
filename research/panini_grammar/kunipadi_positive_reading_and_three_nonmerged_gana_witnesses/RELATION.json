@@ -1,0 +1,134 @@
+{
+  "stage": "PG629",
+  "title": "Kuṇipadī positive reading and three unmerged gaṇa witnesses",
+  "predecessor_review": "PG628 leaves K139 kuṇapadī unconstructed. Exact pinned VCP kuRipadI head supplies a distinct positive kuṇi first-member reading; frozen PG38 Vasu139 also lists kuṇipadī with parenthetical kṛṇapadī. Read actual archivedVasu field and VCP kumBapadyAdi, not a fresh claim that the whole extended lists are interpreted. K kuṇapadī remains Open; no forced replacement/exclusion.",
+  "frames": [
+    {
+      "id": "KUNI",
+      "readout": "kuṇipadī",
+      "original_first": "kuṇi",
+      "original_last": "pāda",
+      "meaning": "female bearer with foot of impaired action, VCP kriyāmanda-pāda",
+      "route": "Vasu139 named-feminineṅīp branch; final pāda-a lopa; foot-only pād→pad",
+      "source_affix_status": "VCP head says NIz; exact priority/critical relation remains Open",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    }
+  ],
+  "semantic_contracts": [
+    {
+      "id": "KUNI",
+      "records": [
+        "actual VCP impaired-foot source frame; not every similar kuṇa/kuṇi word"
+      ]
+    }
+  ],
+  "syntactic_contracts": [
+    {
+      "id": "FIRST",
+      "records": [
+        "kuṇi first i remains before p",
+        "kuṇa/kuṇi/kuni witnesses not silently merged"
+      ]
+    },
+    {
+      "id": "WITNESS",
+      "records": [
+        "K23, VCP31 tokens and Vasu41 numbered entries are separate source sets",
+        "Vasu parenthetical/short-vowel/malformed VCP tokens retain Open status"
+      ]
+    }
+  ],
+  "source_policy": {
+    "id": "KUNI_READING",
+    "new_policy_credit": 1,
+    "adopted": "Admit VCP/Vasu kuṇipadī on its exact first kuṇi and meaning, while retaining K kuṇapadī unresolved. No correction of K or assertion that both original prefixes mean the same thing."
+  },
+  "source_observations": [
+    "VCP exact kuRipadI head with lexical gloss",
+    "VCP kumBapadyAdi extended list with raw NIz/jala/kuni/guRa-pado readings",
+    "Frozen PG38 Vasu139 actual41 numbered entries and parenthetical variants"
+  ],
+  "additional_vasu_139_candidates": [
+    "śūlapadī",
+    "guṇapadī",
+    "sūtrapadī",
+    "vipadī",
+    "tṛṇapadī",
+    "dvipadī",
+    "tripadī",
+    "ṣaṭpadī",
+    "śitipadī",
+    "viṣṇupadī",
+    "supadī",
+    "śucipadī",
+    "sūkarapadī",
+    "sthūṇāpadī",
+    "apadī",
+    "sūcīpadī",
+    "kalahamsapadī",
+    "viṣapadī"
+  ],
+  "critical_variants": [
+    "K kuṇapadī versus VCP head/Vasu kuṇipadī versus VCP list kunipadI",
+    "Vasu parenthetical kṛṇapadī",
+    "Vasu parenthetical droṇīpadī",
+    "Vasu parenthetical sthūlapadī",
+    "Vasu मुनिपदि short-i token versus K munipadī",
+    "VCP jalapadI versus K/Vasu jālapadī",
+    "VCP guRa-pado split token versus Vasu guṇapadī",
+    "VCP SitapadI versus Vasu śitipadī",
+    "Vasu4.4.130 cross-reference versus actual6.4.130"
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 1,
+    "new_compound_constructions": 1,
+    "new_compound_readouts": 1,
+    "new_semantic_constructions": 1,
+    "new_semantic_readouts": 1,
+    "new_syntactic_constructions": 2,
+    "new_syntactic_readouts": 4,
+    "new_source_observations": 3,
+    "new_source_policy_decisions": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  },
+  "controls": [
+    {
+      "id": "FORCE_K_SOURCE_REPAIR",
+      "status": "Excluded",
+      "reason": "positive variant is not permission to edit frozen kuṇapadī"
+    },
+    {
+      "id": "ALL_VARIANTS_ONE_WORD",
+      "status": "Excluded",
+      "reason": "different actual first vowels and consonants retained"
+    },
+    {
+      "id": "KUNA_MEANING_COMPLETE",
+      "status": "Open",
+      "reason": "VCP kuṇi meaning does not settle K kuṇa"
+    },
+    {
+      "id": "EXTENDED_GANA_REALIZATION",
+      "status": "Open",
+      "reason": "18 additionalVasu candidates and other variants remain individually unconstructed"
+    },
+    {
+      "id": "VCP_VASU_CRITICAL_AFFIX",
+      "status": "Open",
+      "reason": "NIz versus NIp, other raw readings and original recensions unresolved"
+    },
+    {
+      "id": "FULL_CASE_ACCENT",
+      "status": "Open",
+      "reason": "one selected source stem not full paradigms or passages"
+    }
+  ]
+}
