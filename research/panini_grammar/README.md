@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG503 resolves [Nyāsa asamāsa and prospective compound guard](hrdaya_asamasa_nyasa_and_prospective_compound_guard/README.md):1selection/composition construction/2stem readouts,1primary-commentary observation,0finite/nominal additions.Ase=asamāse;intended compound blocks early aṇ,then nañ→ahṛdaya and eligible tva/tal yield ahṛdayatva/ahṛdayatā.Nyāsa63050 idam/aṇ retained separately;PG501/502 frozen.Totals51,819finite;5,133nominal/6,081readings;global gates Open.
+
 PG502 completes [VCP-qualified hārda-karman neuter cases](harda_vcp_karman_neuter_and_source_scoped_gender/README.md):23new nominal positions/24readings,0finite/separate construction credits,1lexical-entry observation.VCP na0 belongs to sneha/prema karma,not all idam/tri-gender senses.Raw hArdda retained;Śākalya single-d and ablative pause t/d explicit.24keys25readings withhold1oldnom.control.Totals51,819finite;5,133nominal/6,081readings;wider gates Open.
 
 PG501 constructs [actual hṛdaya aṇ relation and mantra-yat semantic ownership](hrdaya_an_relation_and_mantra_yat_semantic_ownership/README.md):1morphology construction/1readout hārda plus1semantic contract/1readout hṛdya with reused morphology;0finite/nominal/source credits.Actual aṇ/retained ṇit gives ṛ→ār;4.4.96 ṛṣi=Veda and bandhana=means,not human sage or4.4.95 pleasant-place profile.Totals51,819finite;5,110nominal/6,057readings;global gates Open.

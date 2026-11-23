@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG502
+# Pāṇini grammar · current written coverage at PG503
+
+PG503 resolves [Nyāsa asamāsa and prospective compound guard](hrdaya_asamasa_nyasa_and_prospective_compound_guard/README.md):1selection/composition construction/2stem readouts,1primary-commentary observation,0finite/nominal additions.Ase=asamāse;intended compound blocks early aṇ,then nañ→ahṛdaya and eligible tva/tal yield ahṛdayatva/ahṛdayatā.Nyāsa63050 idam/aṇ retained separately;PG501/502 frozen.Totals51,819finite;5,133nominal/6,081readings;global gates Open.
 
 PG502 completes [VCP-qualified hārda-karman neuter cases](harda_vcp_karman_neuter_and_source_scoped_gender/README.md):23new nominal positions/24readings,0finite/separate construction credits,1lexical-entry observation.VCP na0 belongs to sneha/prema karma,not all idam/tri-gender senses.Raw hArdda retained;Śākalya single-d and ablative pause t/d explicit.24keys25readings withhold1oldnom.control.Totals51,819finite;5,133nominal/6,081readings;wider gates Open.
 

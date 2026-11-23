@@ -1,0 +1,81 @@
+{
+  "stage": "PG503",
+  "input": {
+    "type": "PendingNañHrdayaBhavaFrame",
+    "current_base": "hṛdaya",
+    "currently_compounded": false,
+    "compound_intended": true,
+    "intended_compound": "supplied licensed nañ+hṛdaya",
+    "outer_meaning": "bhāva of completed negative compound,not bare-heart affection or idam relation",
+    "root": "nominal frame,no new verbal root-ID/sense/pada/preverb"
+  },
+  "events": [
+    {
+      "id": "PROSPECTIVE_ASAMASA",
+      "rule": "Nyāsa51130,hṛdayāse viṣayasaptamī",
+      "result": "block premature yuvādi aṇ before pending compound"
+    },
+    {
+      "id": "COMPOUND_FIRST",
+      "rule": "2.2.6 and6.3.73 under supplied compound licence",
+      "before": "nañ|hṛdaya",
+      "after": "a|hṛdaya→ahṛdaya",
+      "owner": "nañ n loss,not hṛdaya h deletion"
+    },
+    {
+      "id": "TVA",
+      "rule": "5.1.119",
+      "before": "ahṛdaya+tva",
+      "after": "ahṛdayatva",
+      "gender": "N"
+    },
+    {
+      "id": "TAL",
+      "rule": "5.1.119",
+      "before": "ahṛdaya+tal",
+      "after": "ahṛdayatā",
+      "gender": "F;owned l_IT loss and outer ṭāp/coalescence via pinned PG479 interface"
+    }
+  ],
+  "readouts": [
+    "ahṛdayatva",
+    "ahṛdayatā"
+  ],
+  "controls": [
+    {
+      "id": "CURRENT_STRING_ONLY_ASAMASA",
+      "status": "Excluded_guard_implementation",
+      "reason": "currently bare base is insufficient when source-qualified compound intent is supplied"
+    },
+    {
+      "id": "UNKNOWN_COMPOUND_INTENT",
+      "status": "Open",
+      "reason": "do not silently treat unknown intent as no compound"
+    },
+    {
+      "id": "IDAM_GLOBAL_REJECTION",
+      "status": "Excluded_source_conflation",
+      "reason": "Nyāsa63050 expressly gives tasyedam/aṇ;51130 concerns competing bhāva/karman selectors"
+    },
+    {
+      "id": "ALL_COMPOUNDS_REJECTED",
+      "status": "Excluded_overgeneralization",
+      "reason": "only this yuvādi aṇ edge is blocked;licensed compound and later abstract routes survive"
+    }
+  ],
+  "source_decisions": {
+    "ase": "asamāse,not a standalone heart-sense suffix",
+    "scope": "prospective compound-domain restriction,not only finished compound membership",
+    "PG502_effect": "noncompound hṛdaya condition now positively sourced;old dictionary affection Npanel untouched",
+    "PG501_effect": "idam source reading retained;do not use idam default as bhāva selector when later affixes govern"
+  },
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 2,
+    "new_source_observations": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  }
+}
