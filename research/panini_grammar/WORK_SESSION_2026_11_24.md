@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG655 · Three extended Vasu139 formal feminine case fibres
+
+Previous publication: e464e5b8258c6ce4cb69988b309f3a3ae2838084; tree e280db38b832a963d88d5952ee9a26c59cdea919. Necessary check: Python 3.12.14, 80 assertions, 1 attempt.
+
+PG655: [Three extended Vasu139 formal feminine case fibres](three_extended_vasu139_formal_feminine_case_fibres/README.md). The final three uninterpreted heads in the actual Vasu41 field receive 72 formal case keys; three inherited NOMsg controls leave 69 new nominal positions/readings. All three lexical meanings remain Open. Census 51,819 finite; 7,958 nominal/9,198 readings.
+
+PG521–655 cumulative: 2,180 nominal positions/2,455 readings, zero finite; 236 morphology/1,011 interfaces (821 nominal/stem+10 finite+180 avyaya); 122 compound/583 plans; 7 accent/27 records; 148 semantics/433 records; 109 syntax/301 records; 36 source-policy decisions after PG555−1; 273 observations. One provenance correction/one proof addendum; no new census correction.
+
+- PG629's exact Vasu41 field and PG634's long-ī case consumer are reused through exact file/commit pins; no construction/source/meaning credit is repeated.
+- Formal closure does not close lexical meaning: sūcīpadī, kalahamsapadī and viṣapadī meanings, accent/corpus and critical priority remain Open; śucipadī is not merged with sūcīpadī.
+- Audit correction: PG632–633 already close the two bāhu meanings and original selected K128 remainder. Only recensional/inner critical variants remain Open; zero recredit here.
+- Six K139 meanings, patradatam lexical/gender/nuṃ and C2–C5/S1–S7/native/global obligations remain Open. Claude execution separate; PG335 correction and PG357–PG363 CLOSED preserved.
+
 ## PG654 · Six remaining K139 formal feminine case fibres
 
 Previous publication: 5bfdfa486150bb655fb82547e51485f85a1e61cd; tree 4f7b3d4132fda596661160e3c6616f28dbd486b3. Necessary check: Python 3.12.14, 80 assertions, 1 attempt.

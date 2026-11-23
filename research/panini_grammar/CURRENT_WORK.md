@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG654
+# Pāṇini grammar · current written coverage at PG655
+
+PG655: [Three extended Vasu139 formal feminine case fibres](three_extended_vasu139_formal_feminine_case_fibres/README.md). The final three uninterpreted heads in the actual 41-entry Vasu 5.4.139 field—sūcīpadī, kalahamsapadī and viṣapadī—now each have a complete ordinary 24-key formal case fibre: 69 new nominal positions/readings after three inherited NOMsg controls. Their lexical meanings remain genuinely Open. Census 51,819 finite; 7,958 nominal/9,198 readings; zero new construction/source/accent credits. PG632–633 already close both bāhu meanings and the original selected K128 remainder; only recensional/inner critical channels remain Open.
 
 PG654: [Six remaining K139 formal feminine case fibres](six_remaining_k139_formal_feminine_case_fibres/README.md). The exact residual Kāśikā 5.4.139 long-ī heads mālāpadī, munipadī, kuṇapadī, sūpapadī, arvapadī and stanapadī now each have a complete ordinary 24-key formal case fibre: 138 new nominal positions/readings after six inherited NOMsg controls. Their lexical meanings and competing source variants remain genuinely Open. Census 51,819 finite; 7,889 nominal/9,129 readings; zero new construction/source/accent credits.
 

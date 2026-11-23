@@ -1,6 +1,6 @@
-# Written-development backlog at PG654
+# Written-development backlog at PG655
 
-Monty · 2026-11-24 · reviewed current parent 5bfdfa486150bb655fb82547e51485f85a1e61cd; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent e464e5b8258c6ce4cb69988b309f3a3ae2838084; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1830,7 +1830,7 @@ PG521–651 cumulative: 1,835 nominal positions/2,106 readings, zero finite; 236
 Selected puṃs/nau ordinary base paradigms locally CLOSED; wider written gates remain Open.
 
 - Already closed targets stay separate: PG242 anaḍuh, PG340/346 actor grids, PG349–352 selected niṣṭhā, PG355–360 bhid passive grid and PG357–363 historical results.
-- Genuine unconstructed/source work: six K139 meanings; three extended139 heads; remaining128 variants/two bāhu senses; patradatam lexical/gender/nuṃ fork; older C2–C5/S1–S7/native/global registers.
+- Genuine unconstructed/source work: six K139 meanings; three extended139 lexical meanings after formal-fibre closure; 128 recensional/inner critical variants (selected list and both bāhu meanings already CLOSED by PG632–633); patradatam lexical/gender/nuṃ fork; older C2–C5/S1–S7/native/global registers.
 - Open readings are not exclusions: pumas distribution, accent/corpus support and competing commentary policies remain explicitly Open. Claude owns grammar execution/generators/untouched suites/certificate replay.
 
 The exact stage publication is the containing commit. Preserve PG335 correction and all frozen predecessors/source pins. Existing review branch only, nonforce; no elapsed-hours or ETA claim.
@@ -1846,7 +1846,7 @@ PG521–652 cumulative: 1,950 nominal positions/2,225 readings, zero finite; 236
 Selected five ordinary base paradigms locally CLOSED; wider written gates remain Open.
 
 - Already closed targets stay separate: PG242 anaḍuh; PG626 compound histories; PG651 puṃs/nau; PG340/346 actor grids; PG349–352 selected niṣṭhā; PG355–360 bhid passive grid; PG357–363 historical results.
-- Genuine unconstructed/source work: six K139 meanings; three extended139 heads; remaining128 variants/two bāhu senses; patradatam lexical/gender/nuṃ fork; older C2–C5/S1–S7/native/global registers.
+- Genuine unconstructed/source work: six K139 meanings; three extended139 lexical meanings after formal-fibre closure; 128 recensional/inner critical variants (selected list and both bāhu meanings already CLOSED by PG632–633); patradatam lexical/gender/nuṃ fork; older C2–C5/S1–S7/native/global registers.
 - Open readings are not exclusions: accent/corpus, Vedic weak śāli/Lakṣmī variants and competing commentary policies remain explicit. Claude owns grammar execution/generators/untouched suites/certificate replay.
 
 The exact stage publication is the containing commit. Preserve PG335 correction and all frozen predecessors/source pins. Existing review branch only, nonforce; no elapsed-hours or ETA claim.
@@ -1862,7 +1862,7 @@ PG521–653 cumulative: 1,973 nominal positions/2,248 readings, zero finite; 236
 Selected antevāsin masculine person paradigm locally CLOSED; wider written gates remain Open.
 
 - Already closed targets stay separate: PG637/PG643 antevāsi channels; PG269 dehin consumer; PG340/346 actor grids; PG349–352 selected niṣṭhā; PG355–360 bhid passive grid; PG357–363 historical results.
-- Genuine unconstructed/source work: six K139 meanings; three extended139 heads; remaining128 variants/two bāhu senses; patradatam lexical/gender/nuṃ fork; older C2–C5/S1–S7/native/global registers.
+- Genuine unconstructed/source work: six K139 meanings; three extended139 lexical meanings after formal-fibre closure; 128 recensional/inner critical variants (selected list and both bāhu meanings already CLOSED by PG632–633); patradatam lexical/gender/nuṃ fork; older C2–C5/S1–S7/native/global registers.
 - Open readings are not exclusions: PWG perhaps-neuter, adjectival/feminine extensions, accent/corpus/Vedic-critical and competing commentary policies remain explicit. Claude owns grammar execution/generators/untouched suites/certificate replay.
 
 The exact stage publication is the containing commit. Preserve PG335 correction and all frozen predecessors/source pins. Existing review branch only, nonforce; no elapsed-hours or ETA claim.
@@ -1878,7 +1878,16 @@ PG521–654 cumulative: 2,111 nominal positions/2,386 readings, zero finite; 236
 Selected six K139 formal feminine case paradigms locally CLOSED; lexical-meaning and wider written gates remain Open.
 
 - Already closed targets stay separate: PG618 formation; PG634/PG650 long-ī consumers; PG340/346 actor grids; PG349–352 selected niṣṭhā; PG355–360 bhid passive grid; PG357–363 historical results.
-- Genuine unconstructed/source work: lexical meanings of all six K139 heads; three extended139 meanings; remaining128 variants/two bāhu senses; patradatam lexical/gender/nuṃ fork; older C2–C5/S1–S7/native/global registers.
+- Genuine unconstructed/source work: lexical meanings of all six K139 heads and all three extended139 heads; 128 recensional/inner critical variants (selected list and both bāhu meanings already CLOSED by PG632–633); patradatam lexical/gender/nuṃ fork; older C2–C5/S1–S7/native/global registers.
+
+### PG655 · Three extended Vasu139 formal feminine case fibres
+
+[PG655](three_extended_vasu139_formal_feminine_case_fibres/README.md) supplies complete ordinary long-ī 24-key fibres for sūcīpadī, kalahamsapadī and viṣapadī: 69 new nominal positions/readings after three source-head NOMsg controls. Exact Vasu membership and PG634's case consumer are reused; zero construction/source/meaning credit is repeated.
+
+- Formal fibres: CLOSED on the selected ordinary feminine domain.
+- Lexical meanings, independent corpus/accent evidence and Vasu/K/VCP critical priority: Open; transparent-looking glosses are not inferred.
+- Current remaining written queue: six K139 lexical meanings; three extended139 lexical meanings; 128 recensional/inner critical variants; patradatam lexical/gender/nuṃ; older C2–C5/S1–S7/native/global registers. Original selected K128/remaining-four and both bāhu meanings are already CLOSED, not current unconstructed work.
+- Census: 51,819 finite; 7,958 nominal positions/9,198 readings. PG521–655 adds 2,180 nominal positions/2,455 readings and zero finite positions.
 - Open readings are not exclusions: Vasu munipadi, kuṇapadī/kuṇipadī/kṛṇapadī priority, accent/corpus/Vedic-critical and competing commentary policies remain explicit. Claude owns grammar execution/generators/untouched suites/certificate replay.
 
 The exact stage publication is the containing commit. Preserve PG335 correction and all frozen predecessors/source pins. Existing review branch only, nonforce; no elapsed-hours or ETA claim.
