@@ -1,6 +1,6 @@
-# Written-development backlog at PG614
+# Written-development backlog at PG615
 
-Monty · 2026-11-24 · reviewed current parent 39f541d6a49ef790ad54838da254dc437e8384ac; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 030cd250293a22247f515f2833d46f2f6d3fd756; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1425,3 +1425,14 @@ Two selected ūdhas feminine case fibres locally CLOSED; full written gates rema
 - Closed two selected ūdhas female24-key panels. Old source NOMsg, PG605 consumer, PG45/PG613 formation and PG335/PG357–363 CLOSED results receive no repeated credit.
 - Genuine remaining: six numeric/avyaya ūdhas realization adapters;134 onward; exact128 thirteen-entry list/two bāhu senses and prohyapadi text; full other gender/case/accent and prior critical/source C2–C5/S1–S7/native/global gates.
 - Claude execution, generators, old/navigation/engine suites and replay remain separately deferred; wider written scope is not complete and is not fully blocked.
+
+
+### PG615 · Numeric/avyaya ūdhas and intervening vidha ownership
+
+PG615: [Numeric/avyaya ūdhas and intervening vidha ownership](numeric_avyaya_udhas_and_intervening_vidha_owners/README.md). Six selected ūdhas extensions plus one positive tatpuruṣa control:one formation adapter/seven stems, two compound contracts/seven plans, two scope contracts/four records, three observations. Zero new word/accent/policy credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+Six selected numeric/avyaya ūdhas formation extensions locally CLOSED; exact ati gloss, case/accent and wider gates Open.
+
+- Closed six PG613-listed numeric/avyaya ūdhas formation adapters; PG45 ṅīp policy and PG614 two case panels remain CLOSED without new credits.
+- Open: exact Nyāsa ati-BV gloss and raw gh/ondhi textual origins; all six new full case/accent panels and broader lexical extensions.
+- Next:134 jāyā final-ā→ni,135–137 gandha; exact128 gaṇa/two bāhu senses/prohyapadi; earlier120–133 critical and source explanations plus older C2–C5/S1–S7/native/global obligations. Claude execution remains distinct.

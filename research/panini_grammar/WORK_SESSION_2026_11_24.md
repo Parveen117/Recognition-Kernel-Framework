@@ -65,3 +65,19 @@ Two selected ūdhas feminine case fibres locally CLOSED; full written gates rema
 - Claude execution, generators, old/navigation/engine suites and replay remain separately deferred; wider written scope is not complete and is not fully blocked.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG615 · Numeric/avyaya ūdhas and intervening vidha ownership
+
+Previous publication: 030cd250293a22247f515f2833d46f2f6d3fd756; tree 4cb436a5c75ef2852546a109e774db5fa13847c0. Necessary check: Python 3.12.14, 46 assertions, 1 attempt(s).
+
+PG615: [Numeric/avyaya ūdhas and intervening vidha ownership](numeric_avyaya_udhas_and_intervening_vidha_owners/README.md). Six selected ūdhas extensions plus one positive tatpuruṣa control:one formation adapter/seven stems, two compound contracts/seven plans, two scope contracts/four records, three observations. Zero new word/accent/policy credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+PG521–615 cumulative:938 nominal positions/1,207 readings, zero finite;177 morphology constructions/790 interfaces (624 nominal/stem+10 finite+156 avyaya);72 compound contracts/362 plans;7 accent/27 records;87 semantics/251 records;40 syntax/130 records;16 source-policy decisions after PG555−1;166 observations (6 VCP+35 primary Bhāṣya+25 paired commentary+46 Nyāsa+18 Tattva+25 Bāla+11 K cross-rule). One additive register-provenance correction; no new census effect.
+
+Six selected numeric/avyaya ūdhas formation extensions locally CLOSED; exact ati gloss, case/accent and wider gates Open.
+- Closed six PG613-listed numeric/avyaya ūdhas formation adapters; PG45 ṅīp policy and PG614 two case panels remain CLOSED without new credits.
+- Open: exact Nyāsa ati-BV gloss and raw gh/ondhi textual origins; all six new full case/accent panels and broader lexical extensions.
+- Next:134 jāyā final-ā→ni,135–137 gandha; exact128 gaṇa/two bāhu senses/prohyapadi; earlier120–133 critical and source explanations plus older C2–C5/S1–S7/native/global obligations. Claude execution remains distinct.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
