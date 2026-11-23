@@ -1035,3 +1035,14 @@ Rahasretaineds/acwithprādi/BV/sourceplacemeanings;taptainnerrootnotinvented. Ac
 PG521–592 cumulative:676nominalpositions/936readings,0finite;117morphologyconstructions/526interfaces(406nominal/stem+10finite+110avyaya);21compoundcontracts/94readouts;7accentconstructions/27records;50semanticcontracts/139readouts;18syntaxcontracts/63readouts;7source-policydecisionsafterPG555−1;92sourceobservations(6VCP+33primaryBhāṣya+16pairedcommentarylocators+25Nyāsa+3Tattva+5Bāla+4Kcrossrule). Census51,819finite;6,454nominal/7,679readings.PG592piniscontainingpublication;prioractualcommitabove. Actual84onward/critical/inner/citation-i/case/accent/member/native/globalgatesOpen;Claudeexecutiondeferred.PreservePG335/PG357–363CLOSED;nonforceexistingreviewbranchonly,no mainmerge,ETA,inferredhours/fullSanskritclaim.
 
 PG592sourceboundary:Nyāsa83rawबाह्रं/तुल्यामामंcarryphrasecriticalOpen,notanewabsolutevehicleexclusion;positiveK/Bālalengthwitnessretained.
+
+
+## PG593 · Relative source size and owned measurement LUK histories
+
+PG592 publishedce1c7a6160488897ed2ab5ce73e2310f0bb297b5,tree630b591cc161b6ac368b17d38498d22f1b22a6c0;Python3.12.14,95assertions,oneattempt. Fetched/alignedcleanparent,noothereditorobserved.
+
+PG593 constructs [relative vedi size,adhvan and aṅguli histories](vedi_relative_size_adhvan_and_anguli_affix_histories/README.md): three recipes/nine interfaces,three compound contracts/11 plans,one scope contract/three frames,two meaning contracts/four frames and two observations. Zero word/accent/policy credits. Oldṅīp/newāp,exceptionalṭi and deletedmātrac/reported-dvayasac/vertical guards retained;wider gates Open. Totals 51,819 finite;6,454 nominal/7,679 readings.
+
+84actualvedi2/3relativekṣetraparimāṇa,notlinearscalingorcomputedcalibration;oldṅīpremovedpuṃvad,exceptionalfinalat_lopa/ac/newāpseparate.85adhvanan-ṭi/firstjunctionandactualprādiscope.86tatpuruṣa/numeral_oravyayafirstguard,actualK mātracLUKvsTattvareportedBāladvayasacLUKwith52037verticalguard;oldinnerṅnotnum. Sourcecriticalritual/nagatyupalakṣaṇa/reportedlineageresiduesretained.0oldword/policycredits.
+
+PG521–593 cumulative:676nominalpositions/936readings,0finite;120morphologyconstructions/535interfaces(415nominal/stem+10finite+110avyaya);24compoundcontracts/105readouts;7accentconstructions/27records;52semanticcontracts/143readouts;19syntaxcontracts/66readouts;7source-policydecisionsafterPG555−1;94sourceobservations(6VCP+33primaryBhāṣya+17pairedcommentarylocators+25Nyāsa+3Tattva+6Bāla+4Kcrossrule). Census51,819finite;6,454nominal/7,679readings.PG593piniscontainingpublication;prioractualcommitabove. Actual87onward/critical/inner/citation-i/case/accent/member/native/globalgatesOpen;Claudeexecutiondeferred.PreservePG335/PG357–363CLOSED;nonforceexistingreviewbranchonly,no mainmerge,ETA,inferredhours/fullSanskritclaim.

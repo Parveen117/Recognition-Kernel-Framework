@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG593 constructs [relative vedi size,adhvan and aṅguli histories](research/panini_grammar/vedi_relative_size_adhvan_and_anguli_affix_histories/README.md): three recipes/nine interfaces,three compound contracts/11 plans,one scope contract/three frames,two meaning contracts/four frames and two observations. Zero word/accent/policy credits. Oldṅīp/newāp,exceptionalṭi and deletedmātrac/reported-dvayasac/vertical guards retained;wider gates Open. Totals 51,819 finite;6,454 nominal/7,679 readings.
+
 PG592 constructs [rahas,uras and cattle-length relations](research/panini_grammar/rahas_uras_and_cattle_length_owned_relations/README.md): three recipes/seven interfaces,five ac and two valid no-ac;two compound contracts/nine plans,one case contract/two frames,two meaning contracts/four frames and three observations. Zero word/accent/policy credits. Actual LOC,length/posterior and suffix-junction histories retained;wider gates Open. Totals 51,819 finite;6,454 nominal/7,679 readings.
 
 PG591 constructs [radiance,darkness and blessing ac layers](research/panini_grammar/radiance_darkness_and_blessing_owned_ac_layers/README.md): four formation recipes/ten interfaces,nine outer and one inner andha;three compound contracts/11 plans,one meaning contract/four frames and three observations. Zero word/accent/policy credits. Actual1100471Curādi-kṛt-ac versus outertaddhita-ac,s-final and blessing/parent histories retained;wider gates Open. Totals 51,819 finite;6,454 nominal/7,679 readings.

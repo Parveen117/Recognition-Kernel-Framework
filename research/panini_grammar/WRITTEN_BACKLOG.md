@@ -1,6 +1,6 @@
-# Written-development backlog at PG592
+# Written-development backlog at PG593
 
-Monty · 23 November 2026 · reviewed current parent 005d74186d0ced20b1a12a8e2dfec9bbee2b9560; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent ce1c7a6160488897ed2ab5ce73e2310f0bb297b5; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1251,3 +1251,10 @@ PG592 constructs [rahas,uras and cattle-length relations](rahas_uras_and_cattle_
 Selected81–83interfaceslocallyCLOSED. Taptafirstnominalinnerroot/niṣṭhā,rahasmeaningintegration,fullcase/accentandactual84onwardremainunconstructed. Earlierdaśabhūmaka/pur/palya/citation-i/critical/lexical/C2–C5/S1–S7/source/native/globalgatesOpen;Claudeexecutionseparate.
 
 Nyāsa83rawबाह्रं/तुल्यामामंphrasecriticalrepairremainsOpen;reportedcattle-carriedreadingnotanewabsoluteguard. K/Bālalengthwitnesspositive.
+
+
+### PG593 · Source-relativevedianddeletedmeasurementaffixowners
+
+PG593 constructs [relative vedi size,adhvan and aṅguli histories](vedi_relative_size_adhvan_and_anguli_affix_histories/README.md): three recipes/nine interfaces,three compound contracts/11 plans,one scope contract/three frames,two meaning contracts/four frames and two observations. Zero word/accent/policy credits. Oldṅīp/newāp,exceptionalṭi and deletedmātrac/reported-dvayasac/vertical guards retained;wider gates Open. Totals 51,819 finite;6,454 nominal/7,679 readings.
+
+Selected84–86interfaceslocallyCLOSED. Ritualmicrotextnotcomputed/repaired;Nyāsa85negationandoriginalBāla86dvayasaclineageOpen. Actual87onwardandpriordaśabhūmaka/pur/palya/citation-i/critical/lexical/C2–C5/S1–S7/source/native/globalwork remains;Claudeexecutionseparate.
