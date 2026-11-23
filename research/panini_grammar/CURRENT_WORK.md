@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG611
+# Pāṇini grammar · current written coverage at PG612
+
+PG612: [Reciprocal ic, named actions and deleted-affix visibility](reciprocal_ic_named_action_frames_and_deleted_suffix_visibility/README.md). Four formation adapters/12 avyaya interfaces (ten selected actions locally closed; two bāhu senses Open); three compound contracts/12 plans; two meaning contracts/ten records; three scope contracts/seven records; five observations/one qualified source decision. Zero new word/accent credits. Census:51,819 finite;6,670 nominal/7,904 readings.
 
 PG611: [Dharma trees, jambha senses and hunter-caused wound](dharma_compound_trees_jambha_senses_and_hunter_wound/README.md). Four formation families/14 stem interfaces; three compound contracts/19 plans; three meaning contracts/12 records; two scope contracts/six records; five observations and one conditional reported-source decision. Zero new word/accent credits. Census:51,819 finite;6,670 nominal positions/7,904 readings.
 
