@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG601
+# Pāṇini grammar · current written coverage at PG602
+
+PG602 constructs [avyayībhāva list,jaras and retained carman branches](avyayibhava_list_jaras_and_retained_carman_branches/README.md): four adapters/20interfaces,three compound contracts/20plans,one scope/case contract/four frames,two meaning contracts/six frames,four observations and one qualified reported parokṣa source decision. Zero word/accent/parokṣamorphology credits;rightN/wholeN,markers and retainedn distinct. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
 
 PG601 constructs [collective dvandva ṭac and first/final sound ownership](collective_dvandva_tac_and_first_final_sound_ownership/README.md): one recipe/14stems,one compound contract/14plans,one guard contract/four frames,one meaning contract/three frames,two observations. Zero word/accent/new-policy credits;actualfirstpada/rightcu-d-ṣ-h/sourceparent/tree retained. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
 

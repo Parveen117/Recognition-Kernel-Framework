@@ -1,6 +1,6 @@
-# Written-development backlog at PG601
+# Written-development backlog at PG602
 
-Monty · 23 November 2026 · reviewed current parent d5e6f6df368caca55c196321cd31180010e5afc6; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent d054ac0854c086b9bf150beca818e9ed1b8abcb0; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1314,3 +1314,10 @@ Selected13ownedprātipadikabrancheslocallyCLOSED. NoṭacbrahmasāmanNOMdisplayb
 PG601 constructs [collective dvandva ṭac and first/final sound ownership](collective_dvandva_tac_and_first_final_sound_ownership/README.md): one recipe/14stems,one compound contract/14plans,one guard contract/four frames,one meaning contract/three frames,two observations. Zero word/accent/new-policy credits;actualfirstpada/rightcu-d-ṣ-h/sourceparent/tree retained. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
 
 Selected14steminterfaceslocallyCLOSED;Ksamidh/SKśamīseparatepositiveparents. Tattva106flat/nestedcorruptwordcriticalreadingremainsOpenaftertwo-enginesearchcopies;noinventedlongā/affixrecipe. Inneriḍ_śamī_goduh/fullcases/accent/107onwardandearlierdaśabhūmaka/pur/palya/citation-i/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
+
+
+### PG602 · Jarasbeforeṭac,rightNandretainedn
+
+PG602 constructs [avyayībhāva list,jaras and retained carman branches](avyayibhava_list_jaras_and_retained_carman_branches/README.md): four adapters/20interfaces,three compound contracts/20plans,one scope/case contract/four frames,two meaning contracts/six frames,four observations and one qualified reported parokṣa source decision. Zero word/accent/parokṣamorphology credits;rightN/wholeN,markers and retainedn distinct. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
+
+Selected20interfaceslocallyCLOSED;PG584uparājamclassprojectionnotrecredited. ParokṣawordacceptedqualifiedBālawholenipātanareport;fullrecipe/primaryBhāṣyaKaiyaṭa/marker/o_au_microtextOpenwith0morphologycredits. Fullgaṇa/pathinsemantics/cases/accent/110–112sourcecompetitionandearlierdaśabhūmaka/pur/palya/citation-i/Tattva106nested/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
