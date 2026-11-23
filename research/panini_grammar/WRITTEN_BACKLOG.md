@@ -1,6 +1,6 @@
-# Written-development backlog at PG565
+# Written-development backlog at PG566
 
-Monty · 23 November 2026 · reviewed current parent 17b4b87212b03f8b9e8b78da34b2f6bcfeff0095; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent ef778d2d8445901bab2021cec53f9ee6d013d49b; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1060,3 +1060,10 @@ Selectedsixunitforms/meaningroleslocallyCLOSED;otherunits/Tattvapolicy/fullcurā
 PG565 constructs [partial niṣṭhā/degree-kan,Sāmi policies and covering bṛhatikā](partial_nistha_degree_kan_sami_policies_and_covering_brhatika/README.md):2morphology adapters5stems;1extent contract3frames;1compound-query contract2sourceaccounts;2primary54004/05observations;0word increments. Closedniṣṭhā/PG536reused;pastcompletion≠patientextent;rawcriticalandBāla/Tattvaeligibilitypoliciespreserved. Totals51,819finite;6,384nominal/7,583readings;PG555−1retained/global gates Open.
 
 Selected4–6localcontractsCLOSED;raw54004critical/reported5rejection/othercompoundpoliciesOpen. Nextactual5.4.3type-gaṇawork,then7–10.PG349–352/536no recredit.C2-C5/S1-S7/prior100/104/106scene/source/native/Claudeunchanged.
+
+
+### PG566 · Actualtype-kanmember/appearance/pāṭhacontracts
+
+PG566 constructs [type-kan member scopes,appearance and textual parent variants](sthula_type_kan_member_scopes_appearance_and_textual_parent_variants/README.md):1morphology adapter19stems;1semantic contract3kinds;2source observations;0word/newpolicycredits. Namedtargetandpāṭha/actual-apparentpropertiesretainowners;combinedtype+ajñātaword/remaininggaṇascopesOpenwithoutguessedka-collapse. Totals51,819finite;6,384nominal/7,583readings;PG555−1retained/global gates Open.
+
+Selected19steminterfacesCLOSED;notwholegaṇaclosure. Pādya/kāla/avadātasurā/Jīrṇaśāli/māṣeṣuparseandcombinedtype+ajñātaword/innerBṛhat/Fcase/accentgenuineOpen. Nextactual7–10;C2-C5/S1-S7/prior100/104/106scene/source/native/Claudeunchanged.

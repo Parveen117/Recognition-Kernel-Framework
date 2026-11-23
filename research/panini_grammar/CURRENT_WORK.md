@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG565
+# Pāṇini grammar · current written coverage at PG566
+
+PG566 constructs [type-kan member scopes,appearance and textual parent variants](sthula_type_kan_member_scopes_appearance_and_textual_parent_variants/README.md):1morphology adapter19stems;1semantic contract3kinds;2source observations;0word/newpolicycredits. Namedtargetandpāṭha/actual-apparentpropertiesretainowners;combinedtype+ajñātaword/remaininggaṇascopesOpenwithoutguessedka-collapse. Totals51,819finite;6,384nominal/7,583readings;PG555−1retained/global gates Open.
 
 PG565 constructs [partial niṣṭhā/degree-kan,Sāmi policies and covering bṛhatikā](partial_nistha_degree_kan_sami_policies_and_covering_brhatika/README.md):2morphology adapters5stems;1extent contract3frames;1compound-query contract2sourceaccounts;2primary54004/05observations;0word increments. Closedniṣṭhā/PG536reused;pastcompletion≠patientextent;rawcriticalandBāla/Tattvaeligibilitypoliciespreserved. Totals51,819finite;6,384nominal/7,583readings;PG555−1retained/global gates Open.
 
