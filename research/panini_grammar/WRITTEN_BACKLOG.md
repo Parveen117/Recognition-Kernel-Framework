@@ -850,3 +850,10 @@ Already closed locally: dhik/hiruk/pṛthak actualjointakac/d with3oldcharcontro
 PG535 constructs [tūṣṇīm mit-kām/śīlaka and owned nasal cases](tusnim_mit_kam_silaka_and_owned_nasal_cases/README.md): 2morphology constructions/4interfaces;23new nominal positions24readings,0finite/source additions. Newkām-mITversusoldwordm distinct;śīlaka retains sourceī againstgenericshortening. Avyayajunctionn andMacc.pln homographicbutdifferentowners. Totals51,819finite;6,080nominal/7,062readings; global gates Open.
 
 Already closed locally: mitkām-afterī/oldmretention with3fixedjunctionoutputs; separateśīlaka/oldm-lopa/sourceī and selectedM24key25reading family. Primary5853/4observationalreadyPG534,0recredit. Othermeaning/gender/teacher/shortening/generalna-yogavibhāga/deepernominal domains remainOpen. Genuine next: primary5856tamādi-beforeka and5857chinnaka ordering, checking existingdegreecontracts beforecredits; do not silently convert priorpriority into final exclusion of all othermeaningcompositions. Rawprimarypronounplacementpolarity and earlierS1–S7/C2–C5/native/Claude/source obligations stayOpen/deferred.
+
+
+### PG536 · Positive degree/ka order and occasional reverse source path
+
+PG536 constructs [degree/ka order and source-qualified case families](degree_ka_ordering_and_source_qualified_case_families/README.md):1morphology adapter4stem interfaces;92new nominal positions96readings,0finite/source increments. Primary5856degree-beforeka versus5857kadācitchinnaka-beforedegree explicit;notuniversalcommutation. Fourfamilies96keys100readingsminus4oldcontrols. Totals51,819finite;6,172nominal/7,158readings;global gates Open.
+
+SelectedMpaṭutaraka/paṭutamakaandNchinnakatara/chinnakatamafamiliesclosedonlyonqualified5856/5857frames. General kadācitclassnotenumeratedOpen;unsourcedordersarenotwholewordexclusions. Next5858one-partcompoundbeforeka,5879namedkancompound,5880dvandvaorderingafteroldregisterreview;innerchinnaproof/othergenders/suffixes/senses/source/critical/nativeandS1-S7/C2-C5stillOpen.

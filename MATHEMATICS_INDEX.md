@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG536 constructs [degree/ka order and source-qualified case families](research/panini_grammar/degree_ka_ordering_and_source_qualified_case_families/README.md):1morphology adapter4stem interfaces;92new nominal positions96readings,0finite/source increments. Primary5856degree-beforeka versus5857kadācitchinnaka-beforedegree explicit;notuniversalcommutation. Fourfamilies96keys100readingsminus4oldcontrols. Totals51,819finite;6,172nominal/7,158readings;global gates Open.
+
 PG535 constructs [tūṣṇīm mit-kām/śīlaka and owned nasal cases](research/panini_grammar/tusnim_mit_kam_silaka_and_owned_nasal_cases/README.md): 2morphology constructions/4interfaces;23new nominal positions24readings,0finite/source additions. Newkām-mITversusoldwordm distinct;śīlaka retains sourceī againstgenericshortening. Avyayajunctionn andMacc.pln homographicbutdifferentowners. Totals51,819finite;6,080nominal/7,062readings; global gates Open.
 
 PG534 constructs [k-final avyaya joint-akac/d and primary grouped dialogue locator](research/panini_grammar/k_final_avyaya_akac_joint_d_and_primary_grouped_dialogue/README.md): 1morphology adapter/6boundary readings on3prototypes,1primaryBhāṣya53072entry observation;0new finite/nominal credits. Originalbasek→d,insertedak-k stays;pause t/d explicit. Primarybodylocatedadjacenttoheading-only53071;rawplacementpolarity/print remainsOpen. Totals unchanged51,819finite;6,057nominal/7,038readings; global gates Open.

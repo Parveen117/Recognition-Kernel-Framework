@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG535
+# Pāṇini grammar · current written coverage at PG536
+
+PG536 constructs [degree/ka order and source-qualified case families](degree_ka_ordering_and_source_qualified_case_families/README.md):1morphology adapter4stem interfaces;92new nominal positions96readings,0finite/source increments. Primary5856degree-beforeka versus5857kadācitchinnaka-beforedegree explicit;notuniversalcommutation. Fourfamilies96keys100readingsminus4oldcontrols. Totals51,819finite;6,172nominal/7,158readings;global gates Open.
 
 PG535 constructs [tūṣṇīm mit-kām/śīlaka and owned nasal cases](tusnim_mit_kam_silaka_and_owned_nasal_cases/README.md): 2morphology constructions/4interfaces;23new nominal positions24readings,0finite/source additions. Newkām-mITversusoldwordm distinct;śīlaka retains sourceī againstgenericshortening. Avyayajunctionn andMacc.pln homographicbutdifferentowners. Totals51,819finite;6,080nominal/7,062readings; global gates Open.
 
