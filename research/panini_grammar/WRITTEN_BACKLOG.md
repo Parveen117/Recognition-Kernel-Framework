@@ -906,3 +906,10 @@ Selected4fixedP2sgordinarycommandprototypes6readoutsclosed;notnewfinitegridposit
 PG543 constructs [Devadatta affectionate affixes/tail lopa and shared cases](devadatta_affectionate_affixes_tail_lopa_and_shared_cases/README.md):1morphology construction5interfaces;23new nominal positions120readings,0finite/source. Mainṭh/ajādītailcutretainssecondvowelbeforeseparatebha-a-lopa;plainkafull/optional-tailpaths distinct. One24key125readingfamilyminus5oldnomreadings,not5positioncounts. Totals51,819finite;6,292nominal/7,391readings;global gates Open.
 
 OnlyselectedDevadattafivebranchMcasefamilyCLOSED;notallsourceaffectionforms.First-member/affixlesssourcepositivepathsremainOpen,notExcluded.Nextu/ṛ-second-vowelthac→kandupainitialaffix/truncationcontractsafteroldregister/STATEreview.Othergenders/accent/print/inner-nameandC2-C5/S1-S7/Claude/nativeunchanged.
+
+
+### PG544 · Current letter target and retained history have different permissions
+
+PG544 constructs [u/ṛ-name tail before ṭhac-k and owned case nasals](u_r_name_tail_before_thac_k_and_owned_case_nasals/README.md):1morphology adapter2stems;46new nominal positions48readings,0finite/source. Tailcutatactualṭhexposesu/ṛbefore7.3.51k;Smṛtinotuniversalalvidhitargetpermission. vāyukan dental/pitṛkaṛ-ownedcaseṇ,padāntanexplicit. Totals51,819finite;6,338nominal/7,439readings;global gates Open.
+
+SelectedVāyudatta/Pitṛdattaṭh-tailcut-kMfamiliesCLOSEDonly;notallaffixes/othernamesoruniversalvisibility.Othertypedgh/ilac/ka/gender/accent/sourcecontractsOpen;damagedBālamicrostringsnotfreevariants.Nextupa-initialandthird/fourth-vowel/first-membercontractsafterclosedregister/STATEreview.C2-C5/S1-S7/Claude/nativeunchanged.

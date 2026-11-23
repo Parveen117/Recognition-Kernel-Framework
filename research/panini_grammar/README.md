@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG544 constructs [u/ṛ-name tail before ṭhac-k and owned case nasals](u_r_name_tail_before_thac_k_and_owned_case_nasals/README.md):1morphology adapter2stems;46new nominal positions48readings,0finite/source. Tailcutatactualṭhexposesu/ṛbefore7.3.51k;Smṛtinotuniversalalvidhitargetpermission. vāyukan dental/pitṛkaṛ-ownedcaseṇ,padāntanexplicit. Totals51,819finite;6,338nominal/7,439readings;global gates Open.
+
 PG543 constructs [Devadatta affectionate affixes/tail lopa and shared cases](devadatta_affectionate_affixes_tail_lopa_and_shared_cases/README.md):1morphology construction5interfaces;23new nominal positions120readings,0finite/source. Mainṭh/ajādītailcutretainssecondvowelbeforeseparatebha-a-lopa;plainkafull/optional-tailpaths distinct. One24key125readingfamilyminus5oldnomreadings,not5positioncounts. Totals51,819finite;6,292nominal/7,391readings;global gates Open.
 
 PG542 constructs [command akac prefix/ending and dhi-before-insertion](command_akac_prefix_ending_and_dhi_before_insertion/README.md):1morphology adapter4prototypes6readouts;0finite/nominal/source increments. āṅ+iṇehaki versusadaddhaki,sourceK64101dhibeforeakac,bhid/chidoptionalclusterbranchesretained. Originalendingi/rooti/prefixseamdistinct;quotationīnotnewending. Totalsunchanged51,819finite;6,269nominal/7,271readings;global gates Open.
