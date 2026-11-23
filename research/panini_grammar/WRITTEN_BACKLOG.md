@@ -1,6 +1,6 @@
-# Written-development backlog at PG587
+# Written-development backlog at PG588
 
-Monty · 23 November 2026 · reviewed current parent a0896cf0649c19cd6199b5650f81d212cb38e1c8; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent cc835fd644536adc36bda8f8ec6f3c4a332260ec; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1214,3 +1214,10 @@ Selected13Kchannelinterfaces locallyCLOSED;ūrṇāshortquantityresolvedbyactual
 PG587 constructs [pur/pathin plain a and ap initial replacement](pur_pathin_plain_a_and_ap_initial_replacement_ownership/README.md): two formation recipes/ten stems, three compound contracts/ten source plans and two observations. Zero word/accent/policy credits. K1.1.54 fixes actual ap initial-a recipient after samāsānta; plain-a,whole-in-lopa,p and source relations retained. Full cases/exceptions/inner/globalgates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 
 Selected74pur/pathin/apteninterfaceslocallyCLOSED;fullMpathacasesnext. Actual63097samāpa/prāpa/parāpaandno-endingexceptionframesgenuinelyremainunconstructed,notexclusions. Purhistoricalroot/gender andotherinner/accent/daśabhūmaka/citation-i/critical/C2–C5/S1–S7/member/source/native/globalgatesOpen;Claudeexecutionseparate.
+
+
+### PG588 · TwoMpathanouncasepanelsCLOSED
+
+PG588 adds [sthala/jala patha masculine cases](sthala_jala_patha_masculine_case_panels/README.md): 48 authored keys/50 readings,withhold two source NOMsg controls;46new unique nominal positions/48readings,zero finite/source/separate construction credits. Inner plain-a,in-lopa,GEN/LOC policies and pause alternatives retained. Totals 51,819 finite;6,454 nominal/7,679 readings;wider gates Open.
+
+Actualsthalapatha/jalapathaM8×3familiesnowclosed. F/NproductsnotlicensedbytheseMsourceanchors. Purfullinner/gender/cases,63097positiveexceptionsandno-endingcontrols,daśabhūmakaandearliercitation-i/critical/lexical/C2–C5/S1–S7/source/native/globalwork remains;Claudeexecutionseparate.

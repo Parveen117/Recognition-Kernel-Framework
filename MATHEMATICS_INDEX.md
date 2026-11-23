@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG588 adds [sthala/jala patha masculine cases](research/panini_grammar/sthala_jala_patha_masculine_case_panels/README.md): 48 authored keys/50 readings,withhold two source NOMsg controls;46new unique nominal positions/48readings,zero finite/source/separate construction credits. Inner plain-a,in-lopa,GEN/LOC policies and pause alternatives retained. Totals 51,819 finite;6,454 nominal/7,679 readings;wider gates Open.
+
 PG587 constructs [pur/pathin plain a and ap initial replacement](research/panini_grammar/pur_pathin_plain_a_and_ap_initial_replacement_ownership/README.md): two formation recipes/ten stems, three compound contracts/ten source plans and two observations. Zero word/accent/policy credits. K1.1.54 fixes actual ap initial-a recipient after samāsānta; plain-a,whole-in-lopa,p and source relations retained. Full cases/exceptions/inner/globalgates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 
 PG586 constructs [named ac extensions,river aggregates and ūrṇā shortening](research/panini_grammar/named_ac_extensions_river_aggregates_and_urna_shortening/README.md): one named-extension adapter/13 stems, two compound contracts/five source plans, one meaning contract/three frames and two observations. Zero word/accent/policy credits. Actual river counts/classes and first-āp versus right-i/ī owners retained; K/Bāla policies and remaining74/inner/globalgates explicit. Totals 51,819 finite; 6,408 nominal/7,631 readings.
