@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG538
+# Pāṇini grammar · current written coverage at PG539
+
+PG539 constructs [dvandva ka member/whole ownership and dual cases](dvandva_ka_member_whole_ownership_and_dual_cases/README.md):1compound contract2interfaces;14new nominal positions/readings,0finite/source increments. Primary5880two-memberka-beforecompoundversusone-wholeka-aftercompound;fixedtwotreesMdual,notautomaticcollectiveN.16keys/readingsminus2oldnom.du. Totals51,819finite;6,232nominal/7,218readings;global gates Open.
 
 PG538 constructs [named-compound kan marker and initial accent](named_compound_kan_marker_and_initial_accent/README.md):1morphology construction3stem interfaces+1accent construction3records;0new finite/nominal/source units. Primary5879wholecompoundbeforeactualkan;silentnITretains6.1.197whole-first-vowelaccent,notgeneric suffixa. Innernava/recitation/casesOpen. Totalsunchanged51,819finite;6,218nominal/7,204readings;global gates Open.
 

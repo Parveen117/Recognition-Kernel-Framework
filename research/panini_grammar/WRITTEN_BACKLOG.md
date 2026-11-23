@@ -871,3 +871,10 @@ OnlyselectedK2.2.2same-wholehalf+5858kaFfamiliesclosed;reportedprimaryredundancy
 PG538 constructs [named-compound kan marker and initial accent](named_compound_kan_marker_and_initial_accent/README.md):1morphology construction3stem interfaces+1accent construction3records;0new finite/nominal/source units. Primary5879wholecompoundbeforeactualkan;silentnITretains6.1.197whole-first-vowelaccent,notgeneric suffixa. Innernava/recitation/casesOpen. Totalsunchanged51,819finite;6,218nominal/7,204readings;global gates Open.
 
 Selectedthreequalified5879compound-to-kan/nitaccentinterfacesclosedonlyonthesuppliedcompoundboundary.Innernavalexicalanalysis,gender/cases,independentprintedaccent/recitationOpen,notconvertedtoexclusions.Next5880dvandvaorderafterpriorregisterreview.C2-C5/S1-S7/Claude/nativeunchanged.
+
+
+### PG539 · Member-ka versus whole-ka, fixed dual domain
+
+PG539 constructs [dvandva ka member/whole ownership and dual cases](dvandva_ka_member_whole_ownership_and_dual_cases/README.md):1compound contract2interfaces;14new nominal positions/readings,0finite/source increments. Primary5880two-memberka-beforecompoundversusone-wholeka-aftercompound;fixedtwotreesMdual,notautomaticcollectiveN.16keys/readingsminus2oldnom.du. Totals51,819finite;6,232nominal/7,218readings;global gates Open.
+
+Selected5880twotreeMdualfamiliesCLOSEDonly;notuniversalcollective/number/kadācitclosure.K8.4.3niyama/vidhicross-memberntheoriesretainedseparately,propername/nativegeneralizationOpen.Primarygrouped5853–5880selectedouteradapterstaken,rawpronounplacementpolarity/innerlexical/sourceprintgapsnotclosed.Nextactual5.3.73feature-ignoranceversuskutsita/anukampāsourcecontractsafteroldregister/STATEreview.C2-C5/S1-S7/Claudeunchanged.
