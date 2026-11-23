@@ -1,0 +1,259 @@
+{
+  "stage": "PG581",
+  "frames": [
+    {
+      "id": "AGNI_CVI",
+      "base": "agni",
+      "readout": "agnī",
+      "suffix": "cvi",
+      "payload": "",
+      "route": "PG580c_IT/i_pronunciation/v_lopa;74026i_lengthening",
+      "domain": "52whole_or53all_with_kṛ_bhū_as_only",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "category": "avyaya_selected_11038",
+      "position_credit": 0
+    },
+    {
+      "id": "UDAKA_CVI",
+      "base": "udaka",
+      "readout": "udakī",
+      "suffix": "cvi",
+      "payload": "",
+      "route": "PG580c_IT/i_pronunciation/v_lopa;74032a_to_ī",
+      "domain": "52whole_or53all_with_kṛ_bhū_as_only",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "category": "avyaya_selected_11038",
+      "position_credit": 0
+    },
+    {
+      "id": "AGNI_SĀTI",
+      "base": "agni",
+      "readout": "agnisāt",
+      "suffix": "sāti",
+      "payload": "sāt_source_given",
+      "route": "retain_i_before_consonants;83111blocks83059ṣatva",
+      "domain": "52whole_or53all;53sam_pad_or_kṛ_bhū_as",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "category": "avyaya_selected_11038",
+      "position_credit": 0
+    },
+    {
+      "id": "UDAKA_SĀTI",
+      "base": "udaka",
+      "readout": "udakasāt",
+      "suffix": "sāti",
+      "payload": "sāt_source_given",
+      "route": "retain_a_before_consonants;no_cvi_ī_on_sāti",
+      "domain": "52whole_or53all;53sam_pad_or_kṛ_bhū_as",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "category": "avyaya_selected_11038",
+      "position_credit": 0
+    },
+    {
+      "id": "RĀJAN_OWNER",
+      "base": "rājan",
+      "readout": "rājasāt",
+      "suffix": "sāti",
+      "payload": "sāt_source_given",
+      "route": "14017pada_before_sATI;not14018bha;82007final_n_lopa",
+      "domain": "54named_owner_as_base;dependent_entity_as_suffix_reference",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "category": "avyaya_selected_11038",
+      "position_credit": 0
+    },
+    {
+      "id": "BRĀHMAṆA_OWNER",
+      "base": "brāhmaṇa",
+      "readout": "brāhmaṇasāt",
+      "suffix": "sāti",
+      "payload": "sāt_source_given",
+      "route": "retain_base_before_sounded_s",
+      "domain": "54owner;55actual_deya_transfer_alternative_sameinterface",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "category": "avyaya_selected_11038",
+      "position_credit": 0
+    },
+    {
+      "id": "BRĀHMAṆA_GIFT",
+      "base": "brāhmaṇa",
+      "readout": "brāhmaṇatrā",
+      "suffix": "trā",
+      "payload": "trā",
+      "route": "retain_base_before_consonant_tr;longā_owned_by_suffix",
+      "domain": "55previously_designated_gift_actually_entrusted_to_recipient",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "category": "avyaya_selected_11038",
+      "position_credit": 0
+    },
+    {
+      "id": "VIPRA_GIFT",
+      "base": "vipra",
+      "readout": "vipratrā",
+      "suffix": "trā",
+      "payload": "trā",
+      "route": "retain_base_before_consonant_tr;Kaumudi_named_synonym",
+      "domain": "55actual_deya_transfer_not_generic_dependence",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "category": "avyaya_selected_11038",
+      "position_credit": 0
+    }
+  ],
+  "semantic_frames": [
+    {
+      "id": "ENTIRE_ONE",
+      "witness": "all_parts_of_one_substrate_assume_result",
+      "rule": "52",
+      "admit": "sāti_or_cvi_with_kṛ_bhū_as"
+    },
+    {
+      "id": "ALL_PARTIAL",
+      "witness": "all_individuals_associated_with_result_even_in_part",
+      "rule": "53",
+      "admit": "sāti_with_sam_pad_or_kṛ_bhū_as;cvi_only_kṛ_bhū_as"
+    },
+    {
+      "id": "ONE_PARTIAL",
+      "witness": "one_cloth_part_whitens_without_whole_or_all_individuals_witness",
+      "rule": "52control",
+      "admit": "cvi50possible;sāti52not_from_this_guard"
+    },
+    {
+      "id": "OWNERSHIP",
+      "witness": "entity_depends_on_named_owner;new_material_state_not_required",
+      "rule": "54",
+      "admit": "sāti_with_kṛ_bhū_as_sam_pad"
+    },
+    {
+      "id": "GIFT",
+      "witness": "previously_known_to_be_due_to_recipient_and_actual_entrustment",
+      "rule": "55",
+      "admit": "trā_or_sāti"
+    },
+    {
+      "id": "NONGIFT",
+      "witness": "king_controls_country_without_deya",
+      "rule": "54_not55trā",
+      "admit": "rājasāt_retained;trā_not_by55"
+    }
+  ],
+  "source_verb_frames": [
+    {
+      "root_id": "1080010",
+      "preverb": null,
+      "pada": "P_selected",
+      "voice": "kartari",
+      "context": "karoti",
+      "admit": "52–55sāti/cvi_as_scoped;55trā"
+    },
+    {
+      "root_id": "1010001",
+      "preverb": null,
+      "pada": "P",
+      "voice": "kartari",
+      "context": "bhavati",
+      "admit": "52–55sāti/cvi_as_scoped;55trā"
+    },
+    {
+      "root_id": "1020060",
+      "preverb": null,
+      "pada": "P",
+      "voice": "kartari",
+      "context": "syāt",
+      "admit": "52–55sāti/cvi_as_scoped;55trā"
+    },
+    {
+      "root_id": "1040065",
+      "preverb": "sam",
+      "sense": "gati",
+      "pada": "A",
+      "voice": "kartari",
+      "context": "sampadyate",
+      "admit": "53sāti_not_cvi;54sāti;55trā_or_sāti"
+    }
+  ],
+  "controls": [
+    {
+      "id": "whole_equals_all",
+      "status": "Excluded_different_quantifier_types"
+    },
+    {
+      "id": "cvi_sam_pad_from_optional53",
+      "status": "Excluded_kṛ_bhū_as_guard_retained_on_cvi"
+    },
+    {
+      "id": "54requires_new_material_state",
+      "status": "Excluded_abhūtatadbhāva_reset_by_new_meaning"
+    },
+    {
+      "id": "55any_dependence_allows_trā",
+      "status": "Excluded_actual_deya_and_entrustment_required"
+    },
+    {
+      "id": "agnisāt_has_ṣ_after_i",
+      "status": "Excluded83111explicit_sāt_exception"
+    },
+    {
+      "id": "sāti_gets_cvi_vowel_ī",
+      "status": "Excluded_different_suffix_owner"
+    },
+    {
+      "id": "rāja_is_from_lopa_of_royal_ā",
+      "status": "Excluded_actual_rājan_finaln_lopa"
+    },
+    {
+      "id": "all_same_trā_is55gift",
+      "status": "Open56differentcase/use_domains_not_constructed_here"
+    },
+    {
+      "id": "sāti_final_citation_i_IT_or_pronunciation",
+      "status": "Open_source_given_sāt_payload;no_fabricated_marker_step"
+    },
+    {
+      "id": "raw_Kaumudi53_jalā_and_last_quantifier_repair",
+      "status": "Open_K_Nyāsa_selected_no_silent_source_repair"
+    },
+    {
+      "id": "all_gati_accent_inner_clause_inference",
+      "status": "Open_selected_context_adapter_only"
+    },
+    {
+      "id": "all_earlier_source_native_global",
+      "status": "Open"
+    }
+  ],
+  "source_observation_units": [
+    "K83111explicit_sāti_dental_s_exception_against83059",
+    "paired_K_Kaumudi54053raw_readout_and_quantifier_divergence"
+  ],
+  "counts": {
+    "new_morphological_constructions": 4,
+    "new_morphological_readouts": 8,
+    "new_semantic_constructions": 2,
+    "new_semantic_readouts": 6,
+    "new_syntactic_constructions": 1,
+    "new_syntactic_readouts": 4,
+    "new_source_observations": 2,
+    "new_source_policy_decisions": 0,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  },
+  "unit_boundary": "8unique avyaya formation interfaces(not8nominalcases or verbparadigms);fourformationadapters;52and53same outputnotdoublecredited;sourcegivensātinputleavescitationiaccountOpen."
+}

@@ -1,6 +1,6 @@
-# Written-development backlog at PG580
+# Written-development backlog at PG581
 
-Monty · 23 November 2026 · reviewed current parent 685b34f44d0c96383fe3aeef30417d7adf83c246; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 36f70d272636582fad06717873d6dcc1a7b26e71; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1165,3 +1165,10 @@ StrictK/Jāyāditya43counterexample is not universaljati exclusion:reportedVāma
 PG580 constructs [cvi zero surface and result-bearer transformation](cvi_zero_surface_and_result_bearer_transformation/README.md):two morphology adapters/13avyaya interfaces;two meaning contracts/six frames;one verb-connection contract/three supplied contexts;three source observations;zero word/accent/new-policy credits. Actual cvi and base/verb/role owners retained;source segmentation/parents and wider gatesOpen. Totals51,819finite;6,408nominal/7,631readings.
 
 Selected50–51interfaces locally CLOSED. Actual52–55quantifier/transfer recipes remain unconstructed;K/Nyāsaī-intermediate and51parent/quantity critical differences remainOpen. Fullavyaya/accent/innerparent work and earlierC2–C5/S1–S7/global/native/sourceobligations retained;Claudeexecution separate.
+
+
+### PG581 · Whole/all and actual owner/gift domains
+
+PG581 constructs [sāti quantifiers, ownership and gift trā](sati_quantifiers_ownership_and_gift_tra/README.md): four formation adapters/eight avyaya interfaces, two meaning contracts/six frames, one verb-domain contract/four supplied contexts and two source observations. Zero word/accent/new-policy credits. Selected relation uses explicit source-given sāt; citation-i and source/global gates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
+
+Selected52–55conditionalinterfaces locally closed;fullupadeśarecipe sāti citation-i remains genuinelyOpen,not an exclusion. K/Nyāsaquantifierchannel selected;rawKaumudi53criticalreadingOpen. 56case-ownedtrā and57–60ḍāc genuinelyunconstructed. PriorC2–C5/S1–S7/lexical/source/native/globalobligations retained;Claudeexecutionseparate.

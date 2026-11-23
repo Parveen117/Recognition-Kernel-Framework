@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG580
+# Pāṇini grammar · current written coverage at PG581
+
+PG581 constructs [sāti quantifiers, ownership and gift trā](sati_quantifiers_ownership_and_gift_tra/README.md): four formation adapters/eight avyaya interfaces, two meaning contracts/six frames, one verb-domain contract/four supplied contexts and two source observations. Zero word/accent/new-policy credits. Selected relation uses explicit source-given sāt; citation-i and source/global gates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 
 PG580 constructs [cvi zero surface and result-bearer transformation](cvi_zero_surface_and_result_bearer_transformation/README.md):two morphology adapters/13avyaya interfaces;two meaning contracts/six frames;one verb-connection contract/three supplied contexts;three source observations;zero word/accent/new-policy credits. Actual cvi and base/verb/role owners retained;source segmentation/parents and wider gatesOpen. Totals51,819finite;6,408nominal/7,631readings.
 
