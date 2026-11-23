@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG557 constructs [replica-lup livelihood,worship,painting and flag contexts](replica_lup_livelihood_worship_painting_and_flag_contexts/README.md):1morphology adapter12unique stems/14frames;1semantic contract4use classes;1primary53099observation;3salecontrolsretainkan;0word increments. Omodel/Pimage distinct;wider100sale/apanyaand96/97scopeOpen,noblanketexclusion. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
+
 PG556 constructs [human-name lup and owned gender/number/adjective channels](human_name_lup_owned_gender_number_and_adjective_channels/README.md):1morphology adapter3stems;1agreement contract3expressions;2primary observations;0word increments. Actual97kan→98wholeLUPretains history;model-wordF/human-number/adjectiveMseparate;nITaccentnotlicensedafterwholelup. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 
 PG555 constructs [disparagement means,replica and resemblance-name roles](disparagement_means_replica_and_resemblance_name_roles/README.md):3semantic contracts8readouts;1positive source-policy decision;1primary53095observation;0morphology/word increments. CitedmeansX versuscensuredY,materialreplica versuswhole-name witness and2Tattvareferenceaccounts explicit;prāgivīyascopeends95. Totals51,819finite;6,384nominal/7,583readings;global gates Open.

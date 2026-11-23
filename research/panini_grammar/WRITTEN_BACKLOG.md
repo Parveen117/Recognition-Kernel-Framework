@@ -997,3 +997,10 @@ Selected95means/96replica/97nonhumannameframeslocallyCLOSED. OriginalK53095direc
 PG556 constructs [human-name lup and owned gender/number/adjective channels](human_name_lup_owned_gender_number_and_adjective_channels/README.md):1morphology adapter3stems;1agreement contract3expressions;2primary observations;0word increments. Actual97kan→98wholeLUPretains history;model-wordF/human-number/adjectiveMseparate;nITaccentnotlicensedafterwholelup. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 
 Selected98humannameconsumerlocallyCLOSED;earlier97human-pendingreferencessupersededonlyonthese3stems/selectednumberpolicy. Criticalvadhri/vardhri/fullLUPcomparisonandothercase/gender/accentremainOpen. Nextactual99–100replicalupconditions. C2-C5/S1-S7/native/Claude unchanged.
+
+
+### PG557 · Actual replica context and whole-LUP contracts
+
+PG557 constructs [replica-lup livelihood,worship,painting and flag contexts](replica_lup_livelihood_worship_painting_and_flag_contexts/README.md):1morphology adapter12unique stems/14frames;1semantic contract4use classes;1primary53099observation;3salecontrolsretainkan;0word increments. Omodel/Pimage distinct;wider100sale/apanyaand96/97scopeOpen,noblanketexclusion. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
+
+Selected99/100common96replicacaseslocallyCLOSED. Wider100sale/apanyainheritanceandK96/97versusBāla96scopecomparisonremainOpen,notExcluded. Othermembers/models/case/accentremainunconstructed. Nextactual101–104afteroldregisterreview;C2-C5/S1-S7/native/Claude unchanged.
