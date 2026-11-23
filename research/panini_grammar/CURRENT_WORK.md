@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG647
+# Pāṇini grammar · current written coverage at PG648
+
+PG648: [Gopadī Rāmāyaṇa short and long accusative readings](gopadi_ramayana_short_and_long_accusative_readings/README.md). One K139 cow-footed feminine ACCsg position is now corpus-grounded: DHIH short gopadīm and two long gopādīm witnesses are retained as two readings with unmerged histories. One new nominal position/two readings; one morphology/two interfaces, one compound/two plans, one semantic/two records, one syntax/four records, three observations and one qualified decision. Census 51,819 finite; 7,475 nominal/8,711 readings.
 
 PG647: [Sapadi Kumārasambhava token and VCP OCR resolution](sapadi_kumarasambhava_primary_token_and_vcp_ocr_resolution/README.md). Two independent Kumārasambhava3.76 witnesses plus Mallinātha confirm sapadi/sapadīti, resolving cached VCP sapAda as source-local OCR while preserving raw bytes and an Open 1955 saṃpadi collation question. One syntax/corpus contract/three records, two observations, one source-analysis record/decision; zero word, morphology or meaning credits. Census 51,819 finite; 7,474 nominal/8,709 readings.
 

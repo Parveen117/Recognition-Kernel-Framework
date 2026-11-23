@@ -593,3 +593,19 @@ KS3.76 sapadi citation locally CLOSED; print-collation/global gates remain Open.
 - K139 seven and extended139 three, remaining128 variants and prior C2–C5/S1–S7/native/global obligations remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
++
+
+## PG648 · Gopadī Rāmāyaṇa short and long accusative readings
+
+Previous publication: 64cc99f15e60f9439bdcba94a78b67670cb4fc40; tree f8acc1b9dccaeb2fba1fc8e25893cad1422807b7. Necessary check: Python 3.12.14, 54 assertions, 1 attempt(s).
+
+PG648: [Gopadī Rāmāyaṇa short and long accusative readings](gopadi_ramayana_short_and_long_accusative_readings/README.md). One K139 cow-footed feminine ACCsg position is now corpus-grounded: DHIH short gopadīm and two long gopādīm witnesses are retained as two readings with unmerged histories. One new nominal position/two readings; one morphology/two interfaces, one compound/two plans, one semantic/two records, one syntax/four records, three observations and one qualified decision. Census 51,819 finite; 7,475 nominal/8,711 readings.
+
+PG521–648 cumulative: 1,697 nominal positions/1,968 readings, zero finite; 236 morphology/1,011 interfaces (821 nominal/stem+10 finite+180 avyaya); 122 compound/583 plans; 7 accent/27 records; 148 semantics/433 records; 109 syntax/301 records; 36 source-policy decisions after PG555−1; 273 observations. One provenance correction/one proof addendum; no new census correction.
+
+Selected gopadī cow-footed ACCsg corpus slot locally CLOSED with two readings; full paradigm/critical/global gates Open.
+- Closed one source-relative gopadī/gopādī cow-footed feminine ACCsg position with two source-labelled readings; only short gopadīm is derived through exact K139.
+- Long gopādīm versus short gopadīm critical priority, full gopadī case/accent paradigm and independent printed/critical collation remain Open; no textual gap became an exclusion.
+- K139 remaining six: mālāpadī, munipadī, kuṇapadī, sūpapadī, arvapadī, stanapadī. Extended139 three remain; antevāsi neuter/full-paradigm, remaining128 and prior C2–C5/S1–S7/native/global obligations stay Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
