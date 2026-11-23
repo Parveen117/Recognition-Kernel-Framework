@@ -1,6 +1,6 @@
-# Written-development backlog at PG630
+# Written-development backlog at PG631
 
-Monty · 2026-11-24 · reviewed current parent f144832270feaf1bea576137799c0d3b3f66c058; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 158e292c896fc69e53ee2bc24201c37367e0466c; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1601,3 +1601,14 @@ Fifteen selected139 case fibres locally CLOSED; lexical/source/global gates Open
 - Closed only fifteen selected139 feminine case fibres; earlier source NOMsg and reused constructors receive no repeated credit. Dental GENpl nuṭ is guarded by actual intervening pad-d, including heads with earlier r/ṣ.
 - Genuine K139 remaining-nine and extended Vasu18 candidates/parentheticals remain Open; kuṇa/kuṇi and VCP affix/text disagreements retain their original source channels. No lexical gap becomes an exclusion.
 - Next remaining139 and128 exact13 entries/two bāhu senses/prohyapadi,142patra and older critical/C2–C5/S1–S7/native/global gates. Claude execution is separately deferred; wider written work remains Open.
+
+
+### PG631 · Four extended padī domains and a distinct Viṣṇupadī source path
+
+PG631: [Four extended padī domains and a distinct Viṣṇupadī source path](four_extended_padi_domains_and_distinct_vishnupadi_source_path/README.md). Four extended139 heads/six meaning interfaces plus distinct VCP Viṣṇupadī ac/ṅīṣ two-meaning path:two formation/compound adapters,eight interfaces/plans;three meaning contracts/eight records;three scope/seven records;six VCP observations. Zero new word/policy/accent credits; census51,819 finite;7,061 nominal/8,295 readings.
+
+Four selected extended139 domains and distinct VCP causal Viṣṇupadī locally CLOSED; source/global gates Open.
+
+- Closed source-relative guṇapadī/tṛṇapadī/dvipadī/tripadī selected139 domains and distinct VCP Viṣṇupadī causal-ac/gaurādiṅīṣ path. No generic-policy/word recredit.
+- Extended Vasu139 candidates still Open: śūlapadī, sūtrapadī, vipadī, ṣaṭpadī, śitipadī, viṣṇupadī, supadī, śucipadī, sūkarapadī, sthūṇāpadī, apadī, sūcīpadī, kalahamsapadī, viṣapadī. K remaining-nine unchanged. Viṣṇupadī139 meaning, ṣaṭpadī corrupted text, VCP affix reconciliation and tripadī other senses remain separate actual obligations.
+- Next unresolved139/128 exact13 entries/two bāhu senses/prohyapadi,142patra and prior C2–C5/S1–S7/native/global work. Claude execution distinct; written scope remains Open.
