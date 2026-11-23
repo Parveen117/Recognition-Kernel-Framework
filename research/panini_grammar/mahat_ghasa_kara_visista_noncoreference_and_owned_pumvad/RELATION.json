@@ -1,0 +1,173 @@
+{
+  "stage": "PG506",
+  "input_scope": {
+    "required": "supplied licensed compound with named right member and known noncoreferential relation",
+    "case_policy": "retain actual supplied original sup owner/case;source-surface mahatyā alone is not unique case evidence",
+    "female_correspondence": "licensed mahatī/mahat pair with supplied inner feminine-history owner;not a newly derived root/feminine affix analysis",
+    "referent": "source first-member referent unchanged by puṃvad;outer head/referent separate",
+    "root": "nominal adapter;no invented verbal root-ID/sense/pada/preverb for first member or inner heads"
+  },
+  "paths": [
+    {
+      "id": "F_GHĀSA",
+      "input_type": "SuppliedLicensedNoncoreferentialMahatMember",
+      "input_gender": "f",
+      "first_form": "mahatī",
+      "right_member": "ghāsa",
+      "output": "mahāghāsa",
+      "gate": "named ghāsa/kara/viśiṣṭa extension;known noncoreference and independent compound licence",
+      "pumvad": "restore supplied corresponding compound stem mahat,retain feminine/referent history",
+      "a_entitlement": "independent explicit mahat-ā extension,not general coreference rule",
+      "trace": [
+        "mahatī→mahat",
+        "mahat final t→ā",
+        "maha+ā coalesces→mahā",
+        "mahā|ghāsa→mahāghāsa"
+      ]
+    },
+    {
+      "id": "F_KARA",
+      "input_type": "SuppliedLicensedNoncoreferentialMahatMember",
+      "input_gender": "f",
+      "first_form": "mahatī",
+      "right_member": "kara",
+      "output": "mahākara",
+      "gate": "named ghāsa/kara/viśiṣṭa extension;known noncoreference and independent compound licence",
+      "pumvad": "restore supplied corresponding compound stem mahat,retain feminine/referent history",
+      "a_entitlement": "independent explicit mahat-ā extension,not general coreference rule",
+      "trace": [
+        "mahatī→mahat",
+        "mahat final t→ā",
+        "maha+ā coalesces→mahā",
+        "mahā|kara→mahākara"
+      ]
+    },
+    {
+      "id": "F_VIŚIṢṬA",
+      "input_type": "SuppliedLicensedNoncoreferentialMahatMember",
+      "input_gender": "f",
+      "first_form": "mahatī",
+      "right_member": "viśiṣṭa",
+      "output": "mahāviśiṣṭa",
+      "gate": "named ghāsa/kara/viśiṣṭa extension;known noncoreference and independent compound licence",
+      "pumvad": "restore supplied corresponding compound stem mahat,retain feminine/referent history",
+      "a_entitlement": "independent explicit mahat-ā extension,not general coreference rule",
+      "trace": [
+        "mahatī→mahat",
+        "mahat final t→ā",
+        "maha+ā coalesces→mahā",
+        "mahā|viśiṣṭa→mahāviśiṣṭa"
+      ]
+    },
+    {
+      "id": "M_GHĀSA",
+      "input_type": "SuppliedLicensedNoncoreferentialMahatMember",
+      "input_gender": "m",
+      "first_form": "mahat",
+      "right_member": "ghāsa",
+      "output": "mahāghāsa",
+      "gate": "named ghāsa/kara/viśiṣṭa extension;known noncoreference and independent compound licence",
+      "pumvad": "already supplied masculine mahat branch,no feminine restoration event",
+      "a_entitlement": "independent explicit mahat-ā extension,not general coreference rule",
+      "trace": [
+        "mahat supplied",
+        "mahat final t→ā",
+        "maha+ā coalesces→mahā",
+        "mahā|ghāsa→mahāghāsa"
+      ]
+    },
+    {
+      "id": "M_KARA",
+      "input_type": "SuppliedLicensedNoncoreferentialMahatMember",
+      "input_gender": "m",
+      "first_form": "mahat",
+      "right_member": "kara",
+      "output": "mahākara",
+      "gate": "named ghāsa/kara/viśiṣṭa extension;known noncoreference and independent compound licence",
+      "pumvad": "already supplied masculine mahat branch,no feminine restoration event",
+      "a_entitlement": "independent explicit mahat-ā extension,not general coreference rule",
+      "trace": [
+        "mahat supplied",
+        "mahat final t→ā",
+        "maha+ā coalesces→mahā",
+        "mahā|kara→mahākara"
+      ]
+    },
+    {
+      "id": "M_VIŚIṢṬA",
+      "input_type": "SuppliedLicensedNoncoreferentialMahatMember",
+      "input_gender": "m",
+      "first_form": "mahat",
+      "right_member": "viśiṣṭa",
+      "output": "mahāviśiṣṭa",
+      "gate": "named ghāsa/kara/viśiṣṭa extension;known noncoreference and independent compound licence",
+      "pumvad": "already supplied masculine mahat branch,no feminine restoration event",
+      "a_entitlement": "independent explicit mahat-ā extension,not general coreference rule",
+      "trace": [
+        "mahat supplied",
+        "mahat final t→ā",
+        "maha+ā coalesces→mahā",
+        "mahā|viśiṣṭa→mahāviśiṣṭa"
+      ]
+    }
+  ],
+  "readouts": [
+    "mahāghāsa",
+    "mahākara",
+    "mahāviśiṣṭa"
+  ],
+  "controls": [
+    {
+      "id": "GENERAL_COREF_GATE_ONLY",
+      "status": "Excluded_incomplete_guard"
+    },
+    {
+      "id": "PUMVAD_IMPLIES_A",
+      "status": "Excluded_operation_conflation"
+    },
+    {
+      "id": "A_ON_FEMALE_FINAL_I",
+      "status": "Excluded_target_owner_error"
+    },
+    {
+      "id": "MASCULINE_NOMINATIVE_MAHAN",
+      "status": "Excluded_stem_type_error"
+    },
+    {
+      "id": "REFERENT_BECOMES_MALE",
+      "status": "Excluded_semantic_error"
+    },
+    {
+      "id": "VA_FREE_OPTION_ON_FIXED_F_INPUT",
+      "status": "Excluded_input_option_conflation"
+    },
+    {
+      "id": "OTHER_NONCOREF_HEAD",
+      "status": "Open_requires_own_licence",
+      "old_control": "PG505 mahatputra remains no-ā on its supplied GEN frame"
+    },
+    {
+      "id": "CASE_FROM_SURFACE_MAHATYA",
+      "status": "Open_source_case_collation"
+    },
+    {
+      "id": "UNKNOWN_RELATION_OR_COMPOUND",
+      "status": "Open"
+    }
+  ],
+  "proof_policies": {
+    "K_SK_BALA": "explicit named-member upasaṃkhyāna supplies both operations beyond same-reference domain",
+    "NYASA": "local yoga-vibhāga explanations retained;not universal priority rules",
+    "not_claimed": "all bhāṣitapuṃska domains,all feminine derivations,or a unique case behind each raw gloss"
+  },
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 3,
+    "retained_input_histories": 6,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0
+  }
+}

@@ -1,6 +1,6 @@
-# Written-development backlog at PG505
+# Written-development backlog at PG506
 
-Monty · 23 November 2026 · reviewed parent ca6c5716869241fa2d7f6e78796253d9d57c0e8b.
+Monty · 23 November 2026 · reviewed parent 0ee70716fcf6ac63672eab44adfc09ad6fdf787c.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -645,3 +645,9 @@ Only PG503 admitted ahṛdaya bhāva tvaN/talF48keys49readings CLOSED;earlier op
 PG505 constructs [mahat terminal ā/internal coreference/source policies](mahat_terminal_a_internal_coreference_and_tadanta_policies/README.md):1morphology/scope adapter/6controlled stem readouts,0finite/nominal/source additions.Terminal t→ā then coalescence;bahuvrīhi internal reference,actual jātīyar,GEN/gauṇa controls and Tattva atimahābāhu extension explicit.Reported competing Vardhamāna policy retained,no global tadanta ban.Totals51,819finite;5,179nominal/6,128readings;global gates Open.
 
 Selected six-frame adapter locally CLOSED;no old sourceword recredit.Next concrete unconstructed6.3.46contracts:ghāsa/kara/viśiṣṭa noncoreferential female-puṃvad/ā extensions and aṣṭan ritual/yoked contexts.Reported Vardhamāna policy/original Bhāṣya-Kaiyaṭa evidence and unknown semantics remain Open;do not conflate suffix-mention query with first-member-ending query.Other lexical/gender/case/teacher/accents,S1-S7/C2-C5/native and Claude execution remain separate.S5fourfields99/103direct unchanged.
+
+## PG506 · Named noncoreferential paired-operation domain
+
+PG506 constructs [noncoreferential mahat ghāsa/kara/viśiṣṭa paired operations](mahat_ghasa_kara_visista_noncoreference_and_owned_pumvad/README.md):1morphology/composition adapter/3stem readouts with6M/F input histories,0finite/nominal/source additions.Named extension separately licenses puṃvad and ā;female mahatī→mahat before terminal t→ā/coalescence,referent unchanged.Raw case/sandhi ambiguity retained.Totals51,819finite;5,179nominal/6,128readings;global gates Open.
+
+PG505 GKV extension pointer superseded only for supplied licensed M/Fframes,3stems6histories.Old sourcewords0recredit;raw mahatyā case/sandhi/source-gloss reconciliation remains Open,not a fabricated unique case.Other lexical/innerfeminine/heads/case/teacher/accents and original policies remain genuine.Next actual6.3.46 contracts:aṣṭan+kapāla ritual versus nonritual control and yoked-go extension with alternate samāsānta histories.S1-S7/C2-C5/native/Claude execution remain separate;S5fourfields99/103direct.
