@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG638
+# Pāṇini grammar · current written coverage at PG639
+
+PG639: [Niṣpravāṇi cloth masculine short-i case fibre](nispravani_cloth_masculine_short_i_case_fibre/README.md). One24-key literal male cloth short-i fibre minus source NOMsg:23 new unique nominal positions/23 readings, zero finite or additional construction/source/accent credits. Census51,819 finite;7,451 nominal/8,686 readings. Inner pravāṇī versus outer niṣpravāṇi, lexical ṇ versus new dental n remain distinct.
 
 PG638: [Three female kap case fibres and two-g memory](three_female_kap_case_fibres_and_two_g_memory/README.md). 72 literal female-āp case keys/readings minus3 source NOMsg controls:69 new unique nominal positions/69 readings, zero finite or additional construction/source/accent credits. Census51,819 finite;7,428 nominal/8,663 readings. Inner plural people, retained i and two vāggmin g tokens keep their owners.
 

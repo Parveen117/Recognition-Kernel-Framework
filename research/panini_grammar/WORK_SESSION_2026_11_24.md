@@ -449,3 +449,19 @@ Three selected female kap case fibres locally CLOSED; lexical/source/global gate
 - Actual K139eight/extended139seven,128variant/inner/142patra and older C2–C5/S1–S7/native/global work remain Open; Claude execution separate.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG639 · Niṣpravāṇi cloth masculine short-i case fibre
+
+Previous publication: 7413496b9bbc8cd1d11b07877f1c351c71dbaa33; tree 8bc0c91bc48f1363518182b456c025642775c57c. Necessary check: Python 3.12.14, 52 assertions, 1 attempt(s).
+
+PG639: [Niṣpravāṇi cloth masculine short-i case fibre](nispravani_cloth_masculine_short_i_case_fibre/README.md). One24-key literal male cloth short-i fibre minus source NOMsg:23 new unique nominal positions/23 readings, zero finite or additional construction/source/accent credits. Census51,819 finite;7,451 nominal/8,686 readings. Inner pravāṇī versus outer niṣpravāṇi, lexical ṇ versus new dental n remain distinct.
+
+PG521–639 cumulative:1,673 nominal positions/1,943 readings, zero finite;228 morphology/994 interfaces (813 nominal/stem+10 finite+171 avyaya);116 compound/569 plans;7 accent/27 records;136 semantics/413 records;95 syntax/260 records;28 source-policy decisions after PG555−1;263 observations. One provenance correction/one proof addendum; no new census correction.
+
+Selected masculine niṣpravāṇi cloth fibre locally CLOSED; source/global gates Open.
+- Closed selected K160 masculine cloth niṣpravāṇi case fibre, reusing PG384ghi consumer at zero genealogy/affix/source-unit credit and withholding source NOMsg.
+- Other genders/meanings, K/Bāla160scope reconciliation, full Vedic/recitation/accent and inner/full source alternatives remain Open.
+- K139eight/extended139seven,128variant/inner/142patra and prior C2–C5/S1–S7/native/global work remain Open; Claude execution separate.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

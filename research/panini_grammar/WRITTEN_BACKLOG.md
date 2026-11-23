@@ -1,6 +1,6 @@
-# Written-development backlog at PG638
+# Written-development backlog at PG639
 
-Monty · 2026-11-24 · reviewed current parent 7c8142d499021e3cf5d8c6fa79a03a8fed16f6b6; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 7413496b9bbc8cd1d11b07877f1c351c71dbaa33; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1689,3 +1689,14 @@ Three selected female kap case fibres locally CLOSED; lexical/source/global gate
 - Closed only PG623three female hall/city/assembly case fibres with original in-n/i, kap/ṭāp and two-g histories; no old source/generic-constructor/NOMsg recredit.
 - Male/neuter and wider in lexicon/meanings, complete accent/recitation/corpus remain Open; the ordinary feminine consumer does not imply all152lexical domains are complete.
 - Actual K139eight/extended139seven,128variant/inner/142patra and older C2–C5/S1–S7/native/global work remain Open; Claude execution separate.
+
+
+### PG639 · Niṣpravāṇi cloth masculine short-i case fibre
+
+PG639: [Niṣpravāṇi cloth masculine short-i case fibre](nispravani_cloth_masculine_short_i_case_fibre/README.md). One24-key literal male cloth short-i fibre minus source NOMsg:23 new unique nominal positions/23 readings, zero finite or additional construction/source/accent credits. Census51,819 finite;7,451 nominal/8,686 readings. Inner pravāṇī versus outer niṣpravāṇi, lexical ṇ versus new dental n remain distinct.
+
+Selected masculine niṣpravāṇi cloth fibre locally CLOSED; source/global gates Open.
+
+- Closed selected K160 masculine cloth niṣpravāṇi case fibre, reusing PG384ghi consumer at zero genealogy/affix/source-unit credit and withholding source NOMsg.
+- Other genders/meanings, K/Bāla160scope reconciliation, full Vedic/recitation/accent and inner/full source alternatives remain Open.
+- K139eight/extended139seven,128variant/inner/142patra and prior C2–C5/S1–S7/native/global work remain Open; Claude execution separate.
