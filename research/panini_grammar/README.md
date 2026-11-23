@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG653: [Antevāsin person complete masculine case fibre](antevasin_person_complete_masculine_case_fibre/README.md). The PG643 source-separated antevāsī/antevāsin pupil-person channel now has a complete ordinary masculine 24-key case fibre: 23 new unique nominal positions/readings after one inherited NOMsg control. Spatial/pupil-state antevāsi and PWG's perhaps-neuter hypothesis remain unmerged Open channels. Census 51,819 finite; 7,751 nominal/8,991 readings; zero new construction/source/accent credits.
+
 PG652: [Five remaining uraḥ-list base case fibres](five_remaining_urasa_base_case_fibres/README.md). The source-grounded payas, lakṣmī, dadhi, madhu and śāli bases now each have a complete 24-key ordinary case fibre: 115 new unique nominal positions/119 readings after five inherited NOMsg controls and four explicit multi-reading positions. PG242/PG651 panels are not duplicated. Census 51,819 finite; 7,728 nominal/8,968 readings; zero new construction/source/accent credits.
 
 PG651: [Puṃs and nau complete base case fibres](pums_and_nau_complete_base_case_fibres/README.md). The source-grounded puṃs/pumān and feminine nau/nauḥ bases now each have a complete 24-key ordinary case fibre: 46 new unique nominal positions/readings after two inherited NOMsg controls. PG242 anaḍvān is not duplicated; pumas remains an unmerged Open critical alternative. Census 51,819 finite; 7,613 nominal/8,849 readings; zero new construction/source/accent credits.

@@ -1,6 +1,6 @@
-# Written-development backlog at PG650
+# Written-development backlog at PG653
 
-Monty · 2026-11-24 · reviewed current parent 9f3638b4d0a7294490185f9db0853f2c49e8319c; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent a8e2d4b8bdc2cf7dffa2ee252f94e93dd232ec2d; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1848,5 +1848,21 @@ Selected five ordinary base paradigms locally CLOSED; wider written gates remain
 - Already closed targets stay separate: PG242 anaḍuh; PG626 compound histories; PG651 puṃs/nau; PG340/346 actor grids; PG349–352 selected niṣṭhā; PG355–360 bhid passive grid; PG357–363 historical results.
 - Genuine unconstructed/source work: six K139 meanings; three extended139 heads; remaining128 variants/two bāhu senses; patradatam lexical/gender/nuṃ fork; older C2–C5/S1–S7/native/global registers.
 - Open readings are not exclusions: accent/corpus, Vedic weak śāli/Lakṣmī variants and competing commentary policies remain explicit. Claude owns grammar execution/generators/untouched suites/certificate replay.
+
+The exact stage publication is the containing commit. Preserve PG335 correction and all frozen predecessors/source pins. Existing review branch only, nonforce; no elapsed-hours or ETA claim.
+
+### PG653 · Antevāsin person complete masculine case fibre
+
+Previous publication: a8e2d4b8bdc2cf7dffa2ee252f94e93dd232ec2d; tree 1b128fe21ddfc5085a3413f26b4ed2fa87e0329c. Necessary check: Python 3.12.14, 70 assertions, 2 attempts; first attempt failed only first-line status-path normalization.
+
+PG653: [Antevāsin person complete masculine case fibre](antevasin_person_complete_masculine_case_fibre/README.md). One 24-key masculine person panel minus the inherited PG643 NOMsg control gives 23 new nominal positions/readings. Census 51,819 finite; 7,751 nominal/8,991 readings; zero new construction/source/accent credits.
+
+PG521–653 cumulative: 1,973 nominal positions/2,248 readings, zero finite; 236 morphology/1,011 interfaces (821 nominal/stem+10 finite+180 avyaya); 122 compound/583 plans; 7 accent/27 records; 148 semantics/433 records; 109 syntax/301 records; 36 source-policy decisions after PG555−1; 273 observations. One provenance correction/one proof addendum.
+
+Selected antevāsin masculine person paradigm locally CLOSED; wider written gates remain Open.
+
+- Already closed targets stay separate: PG637/PG643 antevāsi channels; PG269 dehin consumer; PG340/346 actor grids; PG349–352 selected niṣṭhā; PG355–360 bhid passive grid; PG357–363 historical results.
+- Genuine unconstructed/source work: six K139 meanings; three extended139 heads; remaining128 variants/two bāhu senses; patradatam lexical/gender/nuṃ fork; older C2–C5/S1–S7/native/global registers.
+- Open readings are not exclusions: PWG perhaps-neuter, adjectival/feminine extensions, accent/corpus/Vedic-critical and competing commentary policies remain explicit. Claude owns grammar execution/generators/untouched suites/certificate replay.
 
 The exact stage publication is the containing commit. Preserve PG335 correction and all frozen predecessors/source pins. Existing review branch only, nonforce; no elapsed-hours or ETA claim.

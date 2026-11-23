@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG653 · Antevāsin person complete masculine case fibre
+
+Previous publication: a8e2d4b8bdc2cf7dffa2ee252f94e93dd232ec2d; tree 1b128fe21ddfc5085a3413f26b4ed2fa87e0329c. Necessary check: Python 3.12.14, 70 assertions, 2 attempts; first attempt failed only first-line status-path normalization before the terminal aggregate assertion.
+
+PG653: [Antevāsin person complete masculine case fibre](antevasin_person_complete_masculine_case_fibre/README.md). The positive PG643 antevāsī/antevāsin person channel now receives its complete ordinary masculine 24-key fibre: 23 new nominal positions/readings after one inherited NOMsg control. Census 51,819 finite; 7,751 nominal/8,991 readings.
+
+PG521–653 cumulative: 1,973 nominal positions/2,248 readings, zero finite; 236 morphology/1,011 interfaces (821 nominal/stem+10 finite+180 avyaya); 122 compound/583 plans; 7 accent/27 records; 148 semantics/433 records; 109 syntax/301 records; 36 source-policy decisions after PG555−1; 273 observations. One provenance correction/one proof addendum; no new census correction.
+
+- PG643's Haim person root/sense/affix record and PG269's masculine -in case consumer are reused through exact file/commit pins; no construction/source credit is repeated.
+- Spatial/pupil-state antevāsi stays distinct. PWG perhaps-neuter, adjectival/feminine extensions, accent/corpus/Vedic-critical work remain Open rather than being relabelled Excluded.
+- K139 six unresolved heads, extended139 three, remaining128, patradatam lexical/gender fork and older C2–C5/S1–S7/native/global obligations remain Open. Claude execution separate; PG335 correction and PG357–PG363 CLOSED preserved.
+
+
 ## PG652 · Five remaining uraḥ-list base case fibres
 
 Previous publication: 1718a59454c8f66d8ad5c496cd6233536a62bc85; tree 0f6e3a596244f4fe5808538623e1bd0bdb5a7878. Necessary check: Python 3.12.14, 70 assertions, 1 attempt.
