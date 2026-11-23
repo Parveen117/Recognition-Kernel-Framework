@@ -1,0 +1,447 @@
+{
+  "stage": "PG570",
+  "frames": [
+    {
+      "id": "5.4.21_annamaya",
+      "rule": "5.4.21",
+      "base": "anna",
+      "readout": "annamaya",
+      "suffix": "mayaṭ",
+      "markers": [
+        "ṭ_IT"
+      ],
+      "route": "retain_base_a_before_m;payload_maya",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "gender": "N_direct_or_M_container_as_supplied"
+    },
+    {
+      "id": "5.4.21_apūpamaya",
+      "rule": "5.4.21",
+      "base": "apūpa",
+      "readout": "apūpamaya",
+      "suffix": "mayaṭ",
+      "markers": [
+        "ṭ_IT"
+      ],
+      "route": "retain_base_a_before_m;payload_maya",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "gender": "N_direct_or_M_container_as_supplied"
+    },
+    {
+      "id": "5.4.21_vaṭakamayī",
+      "rule": "5.4.21",
+      "base": "vaṭaka",
+      "readout": "vaṭakamayī",
+      "suffix": "mayaṭ_then_ṅīp",
+      "markers": [
+        "ṭ_IT"
+      ],
+      "route": "retain_base_vowels_before_m;new_ṅīp41015;delete_affix_a64148_before_ī",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "gender": "F_new_ī_not_model_gender_copy"
+    },
+    {
+      "id": "5.4.21_yavāgūmayī",
+      "rule": "5.4.21",
+      "base": "yavāgū",
+      "readout": "yavāgūmayī",
+      "suffix": "mayaṭ_then_ṅīp",
+      "markers": [
+        "ṭ_IT"
+      ],
+      "route": "retain_base_vowels_before_m;new_ṅīp41015;delete_affix_a64148_before_ī",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "gender": "F_new_ī_not_model_gender_copy"
+    },
+    {
+      "id": "5.4.22_maudakika",
+      "rule": "5.4.22",
+      "base": "modaka",
+      "readout": "maudakika",
+      "suffix": "collective_ṭhak_by_42047_atideśa",
+      "markers": [
+        "k_IT"
+      ],
+      "route": "actual_collective_license;first_vowel_grade72118;ṭh→ik73050_plus_original_a;terminal_a_or_ī_lopa64148",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "gender": "N_direct_or_M_container_as_source"
+    },
+    {
+      "id": "5.4.22_śāṣkulika",
+      "rule": "5.4.22",
+      "base": "śaṣkulī",
+      "readout": "śāṣkulika",
+      "suffix": "collective_ṭhak_by_42047_atideśa",
+      "markers": [
+        "k_IT"
+      ],
+      "route": "actual_collective_license;first_vowel_grade72118;ṭh→ik73050_plus_original_a;terminal_a_or_ī_lopa64148",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "gender": "N_direct_or_M_container_as_source"
+    },
+    {
+      "id": "5.4.22_modakamaya",
+      "rule": "5.4.22",
+      "base": "modaka",
+      "readout": "modakamaya",
+      "suffix": "mayaṭ_retained_by_ca",
+      "markers": [
+        "ṭ_IT"
+      ],
+      "route": "no_first_vowel_grade;retain_base_a_or_ī_before_m",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "gender": "N_direct_or_M_container_as_source"
+    },
+    {
+      "id": "5.4.22_śaṣkulīmaya",
+      "rule": "5.4.22",
+      "base": "śaṣkulī",
+      "readout": "śaṣkulīmaya",
+      "suffix": "mayaṭ_retained_by_ca",
+      "markers": [
+        "ṭ_IT"
+      ],
+      "route": "no_first_vowel_grade;retain_base_a_or_ī_before_m",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "gender": "N_direct_or_M_container_as_source"
+    },
+    {
+      "id": "5.4.23_ānantya",
+      "rule": "5.4.23",
+      "base": "ananta",
+      "readout": "ānantya",
+      "suffix": "ñya",
+      "markers": [
+        "ñ_IT"
+      ],
+      "route": "first_vowel_grade72117;terminal_a_lopa64148;payload_ya",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "gender": "N_source_usage",
+      "input_type": "provided_named_nominal_inner_origin_Open",
+      "force": "optional_keep_analytic_source_branch"
+    },
+    {
+      "id": "5.4.23_āvasathya",
+      "rule": "5.4.23",
+      "base": "āvasatha",
+      "readout": "āvasathya",
+      "suffix": "ñya",
+      "markers": [
+        "ñ_IT"
+      ],
+      "route": "first_vowel_grade72117;terminal_a_lopa64148;payload_ya",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "gender": "N_source_usage",
+      "input_type": "provided_named_nominal_inner_origin_Open",
+      "force": "optional_keep_analytic_source_branch"
+    },
+    {
+      "id": "5.4.23_aitihya",
+      "rule": "5.4.23",
+      "base": "iti_ha",
+      "readout": "aitihya",
+      "suffix": "ñya",
+      "markers": [
+        "ñ_IT"
+      ],
+      "route": "first_vowel_grade72117;terminal_a_lopa64148;payload_ya",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "gender": "N_source_usage",
+      "input_type": "oral_tradition_nipāta_group_not_ordinary_prātipadika",
+      "force": "optional_keep_analytic_source_branch"
+    },
+    {
+      "id": "5.4.23_bhaiṣajya",
+      "rule": "5.4.23",
+      "base": "bheṣaja",
+      "readout": "bhaiṣajya",
+      "suffix": "ñya",
+      "markers": [
+        "ñ_IT"
+      ],
+      "route": "first_vowel_grade72117;terminal_a_lopa64148;payload_ya",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "gender": "N_source_usage",
+      "input_type": "provided_named_nominal_inner_origin_Open",
+      "force": "optional_keep_analytic_source_branch"
+    },
+    {
+      "id": "5.4.24_agnidevatya",
+      "rule": "5.4.24",
+      "base": "agnidevatā",
+      "readout": "agnidevatya",
+      "suffix": "yat",
+      "markers": [
+        "t_IT"
+      ],
+      "route": "purpose_DAT_input;terminal_ā_lopa64148;payload_ya_no_ñIT_growth",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "gender": "target_N_stem_interface",
+      "meaning": "intended_for_actual_recipient_deity_under_selected_source_account"
+    },
+    {
+      "id": "5.4.24_pitṛdevatya",
+      "rule": "5.4.24",
+      "base": "pitṛdevatā",
+      "readout": "pitṛdevatya",
+      "suffix": "yat",
+      "markers": [
+        "t_IT"
+      ],
+      "route": "purpose_DAT_input;terminal_ā_lopa64148;payload_ya_no_ñIT_growth",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "gender": "target_N_stem_interface",
+      "meaning": "intended_for_actual_recipient_deity_under_selected_source_account"
+    },
+    {
+      "id": "5.4.24_vāyudevatya",
+      "rule": "5.4.24",
+      "base": "vāyudevatā",
+      "readout": "vāyudevatya",
+      "suffix": "yat",
+      "markers": [
+        "t_IT"
+      ],
+      "route": "purpose_DAT_input;terminal_ā_lopa64148;payload_ya_no_ñIT_growth",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "gender": "target_N_stem_interface",
+      "meaning": "intended_for_actual_recipient_deity_under_selected_source_account"
+    },
+    {
+      "id": "5.4.24_devadevatya",
+      "rule": "5.4.24",
+      "base": "devadevatā",
+      "readout": "devadevatya",
+      "suffix": "yat",
+      "markers": [
+        "t_IT"
+      ],
+      "route": "purpose_DAT_input;terminal_ā_lopa64148;payload_ya_no_ñIT_growth",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "gender": "target_N_stem_interface",
+      "meaning": "intended_for_actual_recipient_deity_under_selected_source_account"
+    },
+    {
+      "id": "5.4.25core_pādya",
+      "rule": "5.4.25core",
+      "base": "pāda",
+      "readout": "pādya",
+      "suffix": "yat",
+      "markers": [
+        "t_IT"
+      ],
+      "route": "actual_purpose_DAT;terminal_a_lopa64148;payload_ya",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "gender": "N_water_target",
+      "meaning": "water_for_feet_or_honouring;not_any_homographic_verbal_root"
+    },
+    {
+      "id": "5.4.25core_arghya",
+      "rule": "5.4.25core",
+      "base": "argha",
+      "readout": "arghya",
+      "suffix": "yat",
+      "markers": [
+        "t_IT"
+      ],
+      "route": "actual_purpose_DAT;terminal_a_lopa64148;payload_ya",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "gender": "N_water_target",
+      "meaning": "water_for_feet_or_honouring;not_any_homographic_verbal_root"
+    }
+  ],
+  "compound_frames": [
+    {
+      "base": "agni",
+      "relation": "source_karmadhāraya_member_X_ca_asau_devatā;pitṛ_plural_account_retained",
+      "output": "agnidevatā",
+      "boundary": "provided_deity_role_not_just_member_of_a_species"
+    },
+    {
+      "base": "pitṛ",
+      "relation": "source_karmadhāraya_member_X_ca_asau_devatā;pitṛ_plural_account_retained",
+      "output": "pitṛdevatā",
+      "boundary": "provided_deity_role_not_just_member_of_a_species"
+    },
+    {
+      "base": "vāyu",
+      "relation": "source_karmadhāraya_member_X_ca_asau_devatā;pitṛ_plural_account_retained",
+      "output": "vāyudevatā",
+      "boundary": "provided_deity_role_not_just_member_of_a_species"
+    },
+    {
+      "base": "deva",
+      "relation": "source_karmadhāraya_member_X_ca_asau_devatā;pitṛ_plural_account_retained",
+      "output": "devadevatā",
+      "boundary": "provided_deity_role_not_just_member_of_a_species"
+    }
+  ],
+  "semantic_frames": [
+    {
+      "id": "DIRECT_PRESENTATION",
+      "domain": "K21_default_Nyāsa",
+      "input": "material_itself_presented_in_abundance",
+      "output": "self_reference_mayaṭ",
+      "boundary": "no_new_percentage_threshold"
+    },
+    {
+      "id": "CONTAINER_PRESENTATION",
+      "domain": "K21_apare_Nyāsa",
+      "input": "material_presented_in_the_named_container/event",
+      "output": "container_reference_mayaṭ",
+      "boundary": "Nyāsa_does_not_require_same_prācurya_qualification_as_default"
+    },
+    {
+      "id": "DEITY_PURPOSE",
+      "domain": "24",
+      "input": "DAT_recipient_devata_and_intended_offering_object",
+      "output": "N_yat_object_not_agent_or_recipient",
+      "boundary": "not_every_pitṛ_is_classified_as_species_deva"
+    },
+    {
+      "id": "FOOT_HONOUR_PURPOSE",
+      "domain": "25core",
+      "input": "water_intended_for_actual_feet_or_argha_honouring",
+      "output": "pādya_or_arghya_water",
+      "boundary": "not_generic_all_nouns_DAT_yat"
+    }
+  ],
+  "controls": [
+    {
+      "id": "21_equals_43_material_vikāra_or_52_ratio",
+      "status": "Excluded_different_rule_meanings_and_affix_history"
+    },
+    {
+      "id": "both21accounts_require_same_majority_percentage",
+      "status": "Excluded_Nyāsa_distinguishes_default_prācurya_and_alternative_presented_material"
+    },
+    {
+      "id": "22copies_any_collective_affix_to_any_base",
+      "status": "Excluded_actual_samūha_suffix_entitlement_required"
+    },
+    {
+      "id": "modaka_plural_forces_outer_plural",
+      "status": "Excluded_source_direct_Nsingular_or_container_controller"
+    },
+    {
+      "id": "23itiha_arbitrary_clause_becomes_nominal",
+      "status": "Excluded_named_nipāta_group_and_oral_tradition_meaning"
+    },
+    {
+      "id": "bheṣaja_āvasatha_full_inner_etymology",
+      "status": "Open_supplied_nominals_not_new_root_derivations"
+    },
+    {
+      "id": "pitṛ_cannot_be_devatā_since_not_species_deva",
+      "status": "Excluded_primary24_resolves_by_functional_div_aiśvarya_account"
+    },
+    {
+      "id": "Nyāsa24raw21035_repaired",
+      "status": "Open_raw_unchanged_actual_quoted_rule21036_located"
+    },
+    {
+      "id": "fullDAT_scope_reinstated_for_all_taddhitas",
+      "status": "Excluded_local24_25purpose_support_only"
+    },
+    {
+      "id": "all54025Vedic_named_extensions_complete",
+      "status": "Open_full_vasvādi/aluk/navanū/pra/dheya/añ/ayavasa_requests_remain"
+    },
+    {
+      "id": "all_gender_case_accent_full_compound_native",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 4,
+    "new_morphological_readouts": 18,
+    "new_compound_constructions": 1,
+    "new_compound_readouts": 4,
+    "new_semantic_constructions": 2,
+    "new_semantic_readouts": 4,
+    "new_source_observations": 4,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  },
+  "source_observation_units": [
+    "Nyāsa54021direct_prācurya_vs_apare_presented_container",
+    "Nyāsa54023oral_teacher_father_itiha_contexts",
+    "Nyāsa54024local_DAT_support_and_actual21036_citation",
+    "primary54024entry2301devata_function_not_species"
+  ],
+  "unit_boundary": "4morphology adapters18 unique stems;1deity-member compound adapter4inputs;2semantic contracts4readouts;4source observations. No word-position,accent or new-policy credit. The full 54025 extension list remains Open."
+}

@@ -1,6 +1,6 @@
-# Written-development backlog at PG569
+# Written-development backlog at PG570
 
-Monty · 23 November 2026 · reviewed current parent 36bcbbce2b1330e8c8e8de4b5528ea0eeedd3ea1; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent dca18d63e773ea14af76fd6dc27aea3fab1db116; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1088,3 +1088,10 @@ Selected11–14 interfaces locally CLOSED. Independent Vedic/accent/Bāla alignm
 PG569 constructs [retained in/aṇ and owned action-occurrence counting](retained_in_an_and_owned_action_occurrence_counting/README.md): three morphology adapters/11 interfaces; one accent adapter/four records; one meaning contract/five readouts; one period-genitive contract/two accounts; four source observations; zero word/new-policy credits. Birth-count,actual suffix markers,one-event and temporal-source policies retain owners. Totals51,819 finite;6,384 nominal/7,583 readings; wider gates Open.
 
 Selected15–20 interfaces locally CLOSED. Earlier forecast dhanus/teacher-family label superseded by actual inun/visārin/frequency sources,not a frozen-result edit. Kūṭa-dāha exact root/inner origin,inner ṇini accounts,primary/K19 anuvṛtti and period-genitive comparison remain Open,as do prior sources/native/global gates. Closeness needs a context witness,no invented clock threshold. Next21–25 after predecessor review. Claude-deferred execution separate.
+
+
+### PG570 · Material presentation and purpose core,extensions still genuine work
+
+PG570 constructs [presented-material mayaṭ, collective transfer and purpose yat](presented_material_mayat_collective_and_purpose_yat/README.md): four morphology adapters/18 stems;one deity-compound adapter/four inputs;two meaning contracts/four readouts;four source observations;zero word/new-policy/accent credits. Two presentation accounts,actual collective entitlement,named particle group and purpose/DAT owners retained;full25extensions Open. Totals51,819 finite;6,384 nominal/7,583 readings;global gates Open.
+
+Selected21–24 and25core locally CLOSED. Next concrete25extensions:Vedic vasvādi/aps_ACCplural aluk,nava→nū plus tnap/tanap/kha,pra-old alternatives,dheya,āgnīdhra/sādhāraṇa añ,ayavasa/marut;none converted to an exclusion. Inner bheṣaja/āvasatha/deity origins and full cases/accent/source comparisons remain Open. Default abundance versus alternative presented-container account remain distinct;no invented majority threshold. Prior C2–C5/S1–S7/native/source frontiers remain Open;Claude execution separate.
