@@ -257,3 +257,19 @@ Six further151 selected adapters locally CLOSED; three named151 entries and full
 - Next three151 entries then actual13918-entry and12813-entry lists/two bāhu senses/prohyapadi.142 patra and all older source/critical/C2–C5/S1–S7/native/global work remain Open; Claude execution distinct.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG627 · Three inflected gaṇa members and explicit na-kapi protection
+
+Previous publication: 4a2017cda859754e53799108bda41a331c2de39b; tree 56828a9323ef6f108c2b87de5338962c43c03049. Necessary check: Python 3.12.14, 59 assertions, 1 attempt(s).
+
+PG627: [Three inflected gaṇa members and explicit na-kapi protection](three_inflected_urasa_members_and_explicit_na_kapi_guard/README.md). Three formation adapters/15 interfaces; three compound contracts/15 plans; three meaning contracts/six records; three scope contracts/nine records; four observations/one proof addendum. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+PG521–627 cumulative:938 nominal positions/1,207 readings, zero finite;217 morphology constructions/949 interfaces (783 nominal/stem+10 finite+156 avyaya);107 compound contracts/525 plans;7 accent/27 records;120 semantics/365 records;74 syntax/209 records;23 source-policy decisions after PG555−1;216 observations (6 VCP+35 primary Bhāṣya+31 paired commentary+59 Nyāsa+24 Tattva+37 Bāla+22 K cross-rule+1 primary Bhaṭṭabhāskara+1 primary Uṇādi corroboration). One additive register-provenance correction and one substantive proof addendum; no new census correction.
+
+Final three151 selected adapters locally CLOSED;139/128 and full written gates Open.
+- Closed final three151 entries for supplied inner SG/DU/PL source frames; all currently enumerated151 entries have selected adapters. Full paradigms/lexicon are not implied.
+- Necessary additive7.4.14 retention guard completes earlier PG624/626 vowel proofs; exact frozen bytes and every census/policy counter unchanged. Puṃs nasal alternatives retained; all full strong-case/accent products remain Open.
+- Next actual13918-entry and12813-entry registers/two bāhu senses/prohyapadi;142 patra and older unresolved source/critical/C2–C5/S1–S7/native/global work. Wider written gates remain Open; Claude execution distinct.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

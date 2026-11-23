@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG627: [Three inflected gaṇa members and explicit na-kapi protection](research/panini_grammar/three_inflected_urasa_members_and_explicit_na_kapi_guard/README.md). Three formation adapters/15 interfaces; three compound contracts/15 plans; three meaning contracts/six records; three scope contracts/nine records; four observations/one proof addendum. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
 PG626: [Listed vowels, Lakṣmī number and artha-after-nañ scope](research/panini_grammar/urasa_list_vowels_laksmi_number_and_artha_nanj_scope/README.md). Three formation adapters/ten interfaces; three compound contracts/11 contexts; three meaning contracts/nine records; three scope contracts/seven records; four observations/one qualified source decision. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
 
 PG625: [Praised brother, Vedic ṛ, body tantrī and finished cloth](research/panini_grammar/praised_brother_vedic_r_body_tantri_and_finished_cloth/README.md). Five formation adapters/14 interfaces; four compound contracts/14 contexts; five meaning contracts/16 records; four scope contracts/nine records; five observations. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.

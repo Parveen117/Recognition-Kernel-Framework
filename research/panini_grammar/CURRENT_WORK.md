@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG626
+# Pāṇini grammar · current written coverage at PG627
+
+PG627: [Three inflected gaṇa members and explicit na-kapi protection](three_inflected_urasa_members_and_explicit_na_kapi_guard/README.md). Three formation adapters/15 interfaces; three compound contracts/15 plans; three meaning contracts/six records; three scope contracts/nine records; four observations/one proof addendum. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
 
 PG626: [Listed vowels, Lakṣmī number and artha-after-nañ scope](urasa_list_vowels_laksmi_number_and_artha_nanj_scope/README.md). Three formation adapters/ten interfaces; three compound contracts/11 contexts; three meaning contracts/nine records; three scope contracts/seven records; four observations/one qualified source decision. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
 
