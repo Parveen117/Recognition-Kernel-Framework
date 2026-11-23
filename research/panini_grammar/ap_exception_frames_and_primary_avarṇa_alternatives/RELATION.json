@@ -1,0 +1,201 @@
+{
+  "stage": "PG589",
+  "frames": [
+    {
+      "id": "SAMĀPA",
+      "readout": "samāpa",
+      "first_member": "source_named_samāpa_or_equal-water_compound_plan",
+      "right_member": "ap_plus_plain_a",
+      "route": "no63097ī_under_named_ground_exception_or_nonprādi_equal-water_account;supplied_named_samāpa_interface",
+      "source_accounts": [
+        "primary63097nameddevayajanaexception",
+        "Kaumudi_Bālaequalwater_vigraha_distinctaccount"
+      ],
+      "suffix": "plain_a_54074",
+      "position_credit": 0,
+      "markers": [],
+      "root_id": null,
+      "preverb": null,
+      "voice": null
+    },
+    {
+      "id": "pra_NO_Ī",
+      "readout": "prāpa",
+      "first_member": "pra",
+      "right_member": "apa",
+      "route": "retaininitiala;61101a_or_ā_plus_a_to_ā",
+      "source_accounts": [
+        "primary63097anavarṇa_restriction",
+        "later_optionalavarṇa_noībranch"
+      ],
+      "suffix": "plain_a_54074",
+      "position_credit": 0,
+      "markers": [],
+      "root_id": null,
+      "preverb": null,
+      "voice": null
+    },
+    {
+      "id": "pra_Ī",
+      "readout": "prepa",
+      "first_member": "pra",
+      "right_member": "apa",
+      "route": "63097initiala_to_ī;61087a_or_ā_plus_ī_to_e",
+      "source_accounts": [
+        "primary14060prepa_parepa_positive_and_finalvachanaprāmāṇya_reply",
+        "Kaumudi_Bāla_Tattvaoptionalavarṇa_ībranch"
+      ],
+      "suffix": "plain_a_54074",
+      "position_credit": 0,
+      "markers": [],
+      "root_id": null,
+      "preverb": null,
+      "voice": null
+    },
+    {
+      "id": "parā_NO_Ī",
+      "readout": "parāpa",
+      "first_member": "parā",
+      "right_member": "apa",
+      "route": "retaininitiala;61101a_or_ā_plus_a_to_ā",
+      "source_accounts": [
+        "primary63097anavarṇa_restriction",
+        "later_optionalavarṇa_noībranch"
+      ],
+      "suffix": "plain_a_54074",
+      "position_credit": 0,
+      "markers": [],
+      "root_id": null,
+      "preverb": null,
+      "voice": null
+    },
+    {
+      "id": "parā_Ī",
+      "readout": "parepa",
+      "first_member": "parā",
+      "right_member": "apa",
+      "route": "63097initiala_to_ī;61087a_or_ā_plus_ī_to_e",
+      "source_accounts": [
+        "primary14060prepa_parepa_positive_and_finalvachanaprāmāṇya_reply",
+        "Kaumudi_Bāla_Tattvaoptionalavarṇa_ībranch"
+      ],
+      "suffix": "plain_a_54074",
+      "position_credit": 0,
+      "markers": [],
+      "root_id": null,
+      "preverb": null,
+      "voice": null
+    }
+  ],
+  "guard_frames": [
+    {
+      "id": "NONAVARṆA",
+      "input": "PG587actualpost-samāsāntaapa_after_non-a/ā-prādi",
+      "output": "ībranch_on_selecteddomain",
+      "boundary": "notanotherlexicalapparentword"
+    },
+    {
+      "id": "PRIMARY_AVARṆA",
+      "input": "primary63097alternativeanavarṇa_guard;pra/parā",
+      "output": "noīprāpa/parāpa",
+      "boundary": "sourcealternative_not_universalrefutationof14060"
+    },
+    {
+      "id": "COMPAT_AVARṆA",
+      "input": "laterSK/Bāla/Tattvaoptionalavarṇa_policy",
+      "output": "prepa/prāpa_and_parepa/parāpa",
+      "boundary": "namedactualsourcecompatibility_notallfreeformāwords"
+    },
+    {
+      "id": "SAMĀPA",
+      "input": "nameddevayajana_or_reportedequalwater_nonprādiplan",
+      "output": "noīwithsourceaccountretained",
+      "boundary": "notall_sam+ap_isbarred;samīparemainsPG587positive"
+    },
+    {
+      "id": "SU_NO_ENDING",
+      "input": "actualpraisesu+ap;69blocksplain_a",
+      "output": "noalready-samāsāntaapa_so63097guardfails",
+      "boundary": "svap/svapī/svāpas_sourcecontrols_notnewderivedcasegrid"
+    }
+  ],
+  "semantic_frames": [
+    {
+      "id": "SPECIAL_GROUND",
+      "witness": "primary63097samāpa_named_devayajana",
+      "policy": "named_exception"
+    },
+    {
+      "id": "EQUAL_WATER",
+      "witness": "Kaumudi_samā_āpo_yasmin",
+      "policy": "nonprādi_equalwater_vigraha_not_same_as_named_primaryexception"
+    },
+    {
+      "id": "PRAISE_WATER",
+      "witness": "showbhana_āpo_yasya_su_frame",
+      "policy": "69absence_of_samāsānta_not_finala_removedretroactively"
+    }
+  ],
+  "controls": [
+    {
+      "id": "samāpa_exception_bans_positive_samīpa",
+      "status": "Excluded_namedframe_notallsam"
+    },
+    {
+      "id": "primary63097alone_provesprepa_impossible",
+      "status": "Excluded_primary14060positiveandfinalreplyretained"
+    },
+    {
+      "id": "14060prepa_is_only_objection_never_accepted",
+      "status": "Excluded_finalvachanaprāmāṇyareply"
+    },
+    {
+      "id": "allprādilabels_are_newverbalupasargas",
+      "status": "Excluded_nominalrelation_noverbalroot"
+    },
+    {
+      "id": "su_noending_then_apply63097to_unsuffixedap",
+      "status": "Excluded_already-samāsānta_guard"
+    },
+    {
+      "id": "svāpaslongā_is_74suffixa",
+      "status": "Excluded_primary11072ordinaryaplengthcontext"
+    },
+    {
+      "id": "samāpa_accounts_criticalunification",
+      "status": "Open_namedritualexception_and_equalwaterframe_distinct"
+    },
+    {
+      "id": "fullsvap_svapī_caseandgenderrecipe",
+      "status": "Open_sourcecontrols_notnewwholeparadigm"
+    },
+    {
+      "id": "alloriginalcommentarylineage_andvariants",
+      "status": "Open_positiveelectronicprimaryaddresses_notcriticaledition"
+    },
+    {
+      "id": "allsource_native_global",
+      "status": "Open"
+    }
+  ],
+  "source_observation_units": [
+    "primary63097entry2956samāpa_and_anavarṇarestriction",
+    "primary14060prādiapplicationprepa_parepa_and_finalvachanaprāmāṇya_reply",
+    "primary11072svāpas_in_aplengthscope_not_new74suffix"
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 5,
+    "new_syntactic_constructions": 1,
+    "new_syntactic_readouts": 5,
+    "new_semantic_constructions": 1,
+    "new_semantic_readouts": 3,
+    "new_source_observations": 3,
+    "new_source_policy_decisions": 0,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  },
+  "unit_boundary": "1exception/optionalformationadapter5interfaces,1prerequisitecontract5frames,1meaningcontract3frames,3primaryobservations.0word/accent/newpolicycredits."
+}

@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG588
+# Pāṇini grammar · current written coverage at PG589
+
+PG589 constructs [ap exception frames and primary a-varṇa alternatives](ap_exception_frames_and_primary_avarṇa_alternatives/README.md): one formation adapter/five stems, one prerequisite contract/five frames, one meaning contract/three frames and three primary observations. Zero word/accent/policy credits. Primary63097 restriction and14060 positive final reply retained;optional/no-ending/named-source histories explicit. Totals 51,819 finite;6,454 nominal/7,679 readings;wider gates Open.
 
 PG588 adds [sthala/jala patha masculine cases](sthala_jala_patha_masculine_case_panels/README.md): 48 authored keys/50 readings,withhold two source NOMsg controls;46new unique nominal positions/48readings,zero finite/source/separate construction credits. Inner plain-a,in-lopa,GEN/LOC policies and pause alternatives retained. Totals 51,819 finite;6,454 nominal/7,679 readings;wider gates Open.
 

@@ -1,6 +1,6 @@
-# Written-development backlog at PG588
+# Written-development backlog at PG589
 
-Monty · 23 November 2026 · reviewed current parent cc835fd644536adc36bda8f8ec6f3c4a332260ec; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent c4c66f4ea8b63789eb1f6cf6e4e9002341579bd1; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1221,3 +1221,10 @@ Selected74pur/pathin/apteninterfaceslocallyCLOSED;fullMpathacasesnext. Actual630
 PG588 adds [sthala/jala patha masculine cases](sthala_jala_patha_masculine_case_panels/README.md): 48 authored keys/50 readings,withhold two source NOMsg controls;46new unique nominal positions/48readings,zero finite/source/separate construction credits. Inner plain-a,in-lopa,GEN/LOC policies and pause alternatives retained. Totals 51,819 finite;6,454 nominal/7,679 readings;wider gates Open.
 
 Actualsthalapatha/jalapathaM8×3familiesnowclosed. F/NproductsnotlicensedbytheseMsourceanchors. Purfullinner/gender/cases,63097positiveexceptionsandno-endingcontrols,daśabhūmakaandearliercitation-i/critical/lexical/C2–C5/S1–S7/source/native/globalwork remains;Claudeexecutionseparate.
+
+
+### PG589 · Positive63097exception/optionalconstruction
+
+PG589 constructs [ap exception frames and primary a-varṇa alternatives](ap_exception_frames_and_primary_avarṇa_alternatives/README.md): one formation adapter/five stems, one prerequisite contract/five frames, one meaning contract/three frames and three primary observations. Zero word/accent/policy credits. Primary63097 restriction and14060 positive final reply retained;optional/no-ending/named-source histories explicit. Totals 51,819 finite;6,454 nominal/7,679 readings;wider gates Open.
+
+Selected5exceptions/alternativestemsandno-endingguardlocallyCLOSED. Primary63097anavarṇaalternativeand14060positiveprepa/parepa_finalreplybothretained;criticalunificationnotclaimed. Samāparitual/equalwateridentificationandfullsvapgender/casesremainOpen;daśabhūmaka,purinner/gender/casesandpriorcitation-i/critical/lexical/C2–C5/S1–S7/member/source/native/globalwork remains;Claudeexecutionseparate.
