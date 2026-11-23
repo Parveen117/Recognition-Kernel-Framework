@@ -1,0 +1,325 @@
+{
+  "stage": "PG545",
+  "affixes": [
+    {
+      "id": "ADAC",
+      "actual": "aḍac",
+      "marker": "c_IT;medialḍnotinitialmarker",
+      "payload": "aḍa",
+      "stem": "upaḍa"
+    },
+    {
+      "id": "VUC",
+      "actual": "vuc",
+      "marker": "c_IT;uteachingpronunciationnotIT/ugit",
+      "payload": "7.1.1qualifiedv/vu-family→aka,notvu+newaka",
+      "stem": "upaka"
+    },
+    {
+      "id": "GHAN",
+      "actual": "ghan",
+      "marker": "n_ITdental",
+      "payload": "initialgh→iywithoriginalsuffixaretained:iy|a",
+      "stem": "upiya"
+    },
+    {
+      "id": "ILAC",
+      "actual": "ilac",
+      "marker": "c_IT",
+      "payload": "ila",
+      "stem": "upila"
+    },
+    {
+      "id": "THAC",
+      "actual": "ṭhac",
+      "marker": "c_IT;actualṭhtargetretained",
+      "payload": "initialṭh→ikwithoriginalsuffixaretained:ik|a",
+      "stem": "upika"
+    },
+    {
+      "id": "KA_FULL",
+      "actual": "ka",
+      "marker": "initialksoundedtaddhitaexception",
+      "payload": "ka",
+      "stem": "upendradattaka"
+    }
+  ],
+  "source_policies": [
+    {
+      "id": "BALA_KECIT_FORMED_E",
+      "input_view": "givenfinished upendradatta,secondvowelesandhyakṣara",
+      "cut": "specialvārttikadeletesfromsecondvoweleitself→up",
+      "attribution": "Bālā53080kecit;K53083namedclause",
+      "original_work_collation": "Open"
+    },
+    {
+      "id": "BALA_REPORTED_SABDENDU",
+      "input_view": "retainedunsandhiedupa|indra|datta",
+      "cut": "reportedjñāpakapreventsearlyprefixcoalescence;cutaboveseconda→upa,thenactualvowelinitialsuffixbha_a_lopa→up",
+      "attribution": "BālāreportofŚabdenduśekhara",
+      "original_work_collation": "Open_not_original"
+    },
+    {
+      "id": "TATTVA_PRE_GUNA_AKRTAVYUHA",
+      "input_view": "retainedunsandhiedupa|indra|datta",
+      "cut": "Tattvaakṛtavyūha/particularjñāpakareportedreasoningbeforeguṇa;upa survivescut,independentbasea_lopabeforevowelinitialsuffix→up",
+      "attribution": "Tattva53080ownattributedaccount",
+      "original_work_collation": "Open_print_reconciliation"
+    }
+  ],
+  "paths": [
+    {
+      "affix_branch": "ADAC",
+      "policy": "BALA_KECIT_FORMED_E",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "input_name": "Upendradatta",
+      "scope": "upa-initialbahvachumanpersonalname+suppliedcompassionorcompatiblenīti",
+      "stem": "upaḍa",
+      "position_credit": 0
+    },
+    {
+      "affix_branch": "ADAC",
+      "policy": "BALA_REPORTED_SABDENDU",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "input_name": "Upendradatta",
+      "scope": "upa-initialbahvachumanpersonalname+suppliedcompassionorcompatiblenīti",
+      "stem": "upaḍa",
+      "position_credit": 0
+    },
+    {
+      "affix_branch": "ADAC",
+      "policy": "TATTVA_PRE_GUNA_AKRTAVYUHA",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "input_name": "Upendradatta",
+      "scope": "upa-initialbahvachumanpersonalname+suppliedcompassionorcompatiblenīti",
+      "stem": "upaḍa",
+      "position_credit": 0
+    },
+    {
+      "affix_branch": "VUC",
+      "policy": "BALA_KECIT_FORMED_E",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "input_name": "Upendradatta",
+      "scope": "upa-initialbahvachumanpersonalname+suppliedcompassionorcompatiblenīti",
+      "stem": "upaka",
+      "position_credit": 0
+    },
+    {
+      "affix_branch": "VUC",
+      "policy": "BALA_REPORTED_SABDENDU",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "input_name": "Upendradatta",
+      "scope": "upa-initialbahvachumanpersonalname+suppliedcompassionorcompatiblenīti",
+      "stem": "upaka",
+      "position_credit": 0
+    },
+    {
+      "affix_branch": "VUC",
+      "policy": "TATTVA_PRE_GUNA_AKRTAVYUHA",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "input_name": "Upendradatta",
+      "scope": "upa-initialbahvachumanpersonalname+suppliedcompassionorcompatiblenīti",
+      "stem": "upaka",
+      "position_credit": 0
+    },
+    {
+      "affix_branch": "GHAN",
+      "policy": "BALA_KECIT_FORMED_E",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "input_name": "Upendradatta",
+      "scope": "upa-initialbahvachumanpersonalname+suppliedcompassionorcompatiblenīti",
+      "stem": "upiya",
+      "position_credit": 0
+    },
+    {
+      "affix_branch": "GHAN",
+      "policy": "BALA_REPORTED_SABDENDU",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "input_name": "Upendradatta",
+      "scope": "upa-initialbahvachumanpersonalname+suppliedcompassionorcompatiblenīti",
+      "stem": "upiya",
+      "position_credit": 0
+    },
+    {
+      "affix_branch": "GHAN",
+      "policy": "TATTVA_PRE_GUNA_AKRTAVYUHA",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "input_name": "Upendradatta",
+      "scope": "upa-initialbahvachumanpersonalname+suppliedcompassionorcompatiblenīti",
+      "stem": "upiya",
+      "position_credit": 0
+    },
+    {
+      "affix_branch": "ILAC",
+      "policy": "BALA_KECIT_FORMED_E",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "input_name": "Upendradatta",
+      "scope": "upa-initialbahvachumanpersonalname+suppliedcompassionorcompatiblenīti",
+      "stem": "upila",
+      "position_credit": 0
+    },
+    {
+      "affix_branch": "ILAC",
+      "policy": "BALA_REPORTED_SABDENDU",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "input_name": "Upendradatta",
+      "scope": "upa-initialbahvachumanpersonalname+suppliedcompassionorcompatiblenīti",
+      "stem": "upila",
+      "position_credit": 0
+    },
+    {
+      "affix_branch": "ILAC",
+      "policy": "TATTVA_PRE_GUNA_AKRTAVYUHA",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "input_name": "Upendradatta",
+      "scope": "upa-initialbahvachumanpersonalname+suppliedcompassionorcompatiblenīti",
+      "stem": "upila",
+      "position_credit": 0
+    },
+    {
+      "affix_branch": "THAC",
+      "policy": "BALA_KECIT_FORMED_E",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "input_name": "Upendradatta",
+      "scope": "upa-initialbahvachumanpersonalname+suppliedcompassionorcompatiblenīti",
+      "stem": "upika",
+      "position_credit": 0
+    },
+    {
+      "affix_branch": "THAC",
+      "policy": "BALA_REPORTED_SABDENDU",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "input_name": "Upendradatta",
+      "scope": "upa-initialbahvachumanpersonalname+suppliedcompassionorcompatiblenīti",
+      "stem": "upika",
+      "position_credit": 0
+    },
+    {
+      "affix_branch": "THAC",
+      "policy": "TATTVA_PRE_GUNA_AKRTAVYUHA",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "input_name": "Upendradatta",
+      "scope": "upa-initialbahvachumanpersonalname+suppliedcompassionorcompatiblenīti",
+      "stem": "upika",
+      "position_credit": 0
+    },
+    {
+      "affix_branch": "KA_FULL",
+      "policy": "FULL_SOURCE_NAME_NO_MAIN_CUT",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "input_name": "Upendradatta",
+      "scope": "upa-initialbahvachumanpersonalname+suppliedcompassionorcompatiblenīti",
+      "stem": "upendradattaka",
+      "position_credit": 0
+    }
+  ],
+  "controls": [
+    {
+      "id": "DELETE_ONLY_AFTER_E_IN_FORMED_SANDHI",
+      "status": "Excluded_selected_special_vowel_cut"
+    },
+    {
+      "id": "MEDIAL_ADAC_DA_IS_ITTARGET",
+      "status": "Excluded_wrong_initial_recipient"
+    },
+    {
+      "id": "VUC_U_IS_UGIT_MARKER",
+      "status": "Excluded_teaching_u_identity"
+    },
+    {
+      "id": "ADD_AKA_AFTER_SOUND_VU",
+      "status": "Excluded_wrong_whole_substitute"
+    },
+    {
+      "id": "GHAN_IY_ERASES_ORIGINAL_A",
+      "status": "Excluded_initial_only_owner"
+    },
+    {
+      "id": "INVERT_ANY_E_TO_UNIQUE_UPA_INDRA",
+      "status": "Excluded_unsupported_desandhi"
+    },
+    {
+      "id": "PRACAM_CURRENT_GEOGRAPHIC_RESTRICTION",
+      "status": "Excluded_source_scope"
+    },
+    {
+      "id": "ORIGINAL_SABDENDU_AND_THREE_POLICY_RECONCILIATION",
+      "status": "Open_report_and_print"
+    },
+    {
+      "id": "OPTIONAL_NONAJADI_KA_DUPLICATE_PATH_FIRST_MEMBER_AFFIXLESS",
+      "status": "Open_positive_other_histories"
+    },
+    {
+      "id": "ALL_UPAKA_WORDS_ARE_THIS_AFFECTIONATE_DERIVATIVE",
+      "status": "Excluded_lexical_identity_collapse"
+    },
+    {
+      "id": "CASE_GENDER_ACCENT_OTHER_UPA_NAMES",
+      "status": "Open_unconstructed"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 6,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0
+  },
+  "output_accounting": {
+    "unique_stem_readouts": 6,
+    "owned_policy_paths": 16,
+    "case_or_finite_positions": 0
+  },
+  "source_boundary": "6sourceoutputsoldcontrols;fivecutbranches×threeattributedpolicies+onefull-source-ka=16ownedhistories,not16newwords. Otherduplicate-sourcekaetcpathsremainOpen. Upakagotraalreadyhasseparateidentityandisnotrecounted."
+}

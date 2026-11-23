@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG544
+# Pāṇini grammar · current written coverage at PG545
+
+PG545 constructs [upa-name affix owners and sandhi-cut source policies](upa_name_affix_owners_and_sandhi_cut_source_policies/README.md):1morphology adapter6unique stem readouts/16ownedhistories;0word/source increments. Formed-e cutversustwoattributedpre-coalescenceaccountsseparate;medialḍsounded,vucteachingunotugit,aka-versusiy|aownershipdistinct. Totalsunchanged51,819finite;6,338nominal/7,439readings;global gates Open.
 
 PG544 constructs [u/ṛ-name tail before ṭhac-k and owned case nasals](u_r_name_tail_before_thac_k_and_owned_case_nasals/README.md):1morphology adapter2stems;46new nominal positions48readings,0finite/source. Tailcutatactualṭhexposesu/ṛbefore7.3.51k;Smṛtinotuniversalalvidhitargetpermission. vāyukan dental/pitṛkaṛ-ownedcaseṇ,padāntanexplicit. Totals51,819finite;6,338nominal/7,439readings;global gates Open.
 
