@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG532
+# Pāṇini grammar · current written coverage at PG533
+
+PG533 constructs [finite akac final-i and retained rudādi iṭ](finite_akac_final_i_and_retained_rudadi_it/README.md): 1morphology adapter/4finite-expression interfaces;0new finite/nominal/source credits. Actualak beforeoriginalendingi gives pacataki/jalpataki/svapitaki/śvasitaki, earlierśap/iṭ retained. Kutsita/anukampā/source same-meaning competition distinct;Bhāṣya53071heading not dialogue. Totals unchanged51,819finite;6,057nominal/7,038readings; global gates Open.
 
 PG532 constructs [nañ-akac partial n-lopa and owned masculine cases](nanj_akac_partial_lopa_and_masculine_case_owners/README.md): 23 new nominal positions/24 readings;24keys25readings minus1conservative source control. One morphology adapter/one stem interface;0finite/source additions. Reuse actualak, n|ak|a→naka then onlyoriginaln-lopa→aka;oldlexicalṇ blocks latercase-n ṇatva. Totals51,819finite;6,057nominal/7,038readings; global gates Open.
 

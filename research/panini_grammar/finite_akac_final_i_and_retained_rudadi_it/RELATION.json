@@ -1,0 +1,154 @@
+{
+  "stage": "PG533",
+  "finite_inputs": [
+    {
+      "id": "PACATI",
+      "root_id": "1011151",
+      "root_sense": "pāka",
+      "word": "pacati",
+      "inner_left": "pac_a_SHAP_t_ENDING",
+      "original_ti": "i_ENDING",
+      "original_lakara": "laṭ",
+      "pada": "P",
+      "person": 3,
+      "number": "sg",
+      "preverb": null,
+      "voice": "active kartṛ supplied source input",
+      "inner_history": "bhvādi śap from3.1.68; original U/aniṭmetadata retained",
+      "semantic_frame": "5.3.74kutsita",
+      "source_word": "pacataki"
+    },
+    {
+      "id": "JALPATI",
+      "root_id": "1010464",
+      "root_sense": "vyaktā vāc",
+      "word": "jalpati",
+      "inner_left": "jalp_a_SHAP_t_ENDING",
+      "original_ti": "i_ENDING",
+      "original_lakara": "laṭ",
+      "pada": "P",
+      "person": 3,
+      "number": "sg",
+      "preverb": null,
+      "voice": "active kartṛ supplied source input",
+      "inner_history": "bhvādi śap; P/seṭroot",
+      "semantic_frame": "5.3.74kutsita",
+      "source_word": "jalpataki"
+    },
+    {
+      "id": "SVAPITI",
+      "root_id": "1020063",
+      "root_sense": "śaya",
+      "word": "svapiti",
+      "inner_left": "svap_i_FROM_IT_AUGMENT_t_ENDING",
+      "original_ti": "i_ENDING",
+      "original_lakara": "laṭ",
+      "pada": "P",
+      "person": 3,
+      "number": "sg",
+      "preverb": null,
+      "voice": "active kartṛ supplied source input",
+      "inner_history": "adādi śap-luk2.4.72; rudādi sārvadhātuka iṭ7.2.76 despite rootaniṭmetadata",
+      "semantic_frame": "5.3.76anukampā",
+      "source_word": "svapitaki"
+    },
+    {
+      "id": "SVASITI",
+      "root_id": "1020064",
+      "root_sense": "prāṇana",
+      "word": "śvasiti",
+      "inner_left": "śvas_i_FROM_IT_AUGMENT_t_ENDING",
+      "original_ti": "i_ENDING",
+      "original_lakara": "laṭ",
+      "pada": "P",
+      "person": 3,
+      "number": "sg",
+      "preverb": null,
+      "voice": "active kartṛ supplied source input",
+      "inner_history": "adādi śap-luk; rudādi sārvadhātuka iṭ7.2.76, P/seṭmetadata",
+      "semantic_frame": "5.3.76anukampā",
+      "source_word": "śvasitaki"
+    }
+  ],
+  "paths": [
+    {
+      "id": "PACATI_AKAC",
+      "input": "PACATI",
+      "placement": "pacat|ak_AK|i_ENDING",
+      "readout": "pacataki"
+    },
+    {
+      "id": "JALPATI_AKAC",
+      "input": "JALPATI",
+      "placement": "jalpat|ak_AK|i_ENDING",
+      "readout": "jalpataki"
+    },
+    {
+      "id": "SVAPITI_AKAC",
+      "input": "SVAPITI",
+      "placement": "svap_i_FROM_IT_AUGMENT_t|ak_AK|i_ENDING",
+      "readout": "svapitaki"
+    },
+    {
+      "id": "SVASITI_AKAC",
+      "input": "SVASITI",
+      "placement": "śvas_i_FROM_IT_AUGMENT_t|ak_AK|i_ENDING",
+      "readout": "śvasitaki"
+    }
+  ],
+  "controls": [
+    {
+      "id": "APPEND_KA_AFTER_FINITE_WORD",
+      "status": "Excluded_53070_finite_class_and_prak_ti"
+    },
+    {
+      "id": "INSERT_BEFORE_WHOLE_TI_SYLLABLE",
+      "status": "Excluded_ti_span_error",
+      "reason": "ṭi starts at lastvowel i, not previous consonantt"
+    },
+    {
+      "id": "INSERT_BEFORE_INNER_IT",
+      "status": "Excluded_original_last_vowel_error"
+    },
+    {
+      "id": "DROP_RUDADI_IT_AFTER_AKAC",
+      "status": "Excluded_wrong_inner_event_erasure"
+    },
+    {
+      "id": "REAPPLY_ROOT_CONJUGATION_TO_FINAL_KI",
+      "status": "Excluded_wrong_ending_query"
+    },
+    {
+      "id": "BOTH_K_AND_AKAC_SAME_SERVED_MEANING",
+      "status": "Excluded_source_same_artha_competition"
+    },
+    {
+      "id": "ALL_NESTED_DIFFERENT_MEANING_AFFIXES_BANNED",
+      "status": "Open_other_semantic_compositions"
+    },
+    {
+      "id": "OTHER_PERSON_LAKARA_PADA_OR_ENDING_VOWEL",
+      "status": "Open_unconstructed"
+    },
+    {
+      "id": "UNSUPPLIED_KUTSITA_OR_ANUKAMPA",
+      "status": "Open_semantic_admission"
+    },
+    {
+      "id": "ORIGINAL_BHASYA_OR_ACCENT_OR_GENERAL_PADA_RESOLVER",
+      "status": "Open_source_runtime_boundary"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 4,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0
+  },
+  "scope": "fourfixedsourcefiniteP3sglaṭexpressions under actual5.3.74kutsita or5.3.76anukampā/5.3.71akac frame; no new full finite conjugation grid",
+  "source_competition": "Nyāsa: different k/akac locations do not permit both on the same already-expressed meaning; finitek independently excluded byK5.3.70",
+  "credit_boundary": "allfourwholewordexamplesoldsourcecontrols,0finite/nominal/sourcecredits; one new ownedfinite-interface adapter, not4newroot/lakārapositions"
+}

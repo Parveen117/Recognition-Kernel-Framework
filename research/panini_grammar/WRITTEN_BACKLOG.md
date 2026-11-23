@@ -1,4 +1,4 @@
-# Written-development backlog at PG532
+# Written-development backlog at PG533
 
 Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
@@ -829,3 +829,10 @@ Already closed locally: two supplied censure inputs/ordinary na-pacasi and na-as
 PG532 constructs [nañ-akac partial n-lopa and owned masculine cases](nanj_akac_partial_lopa_and_masculine_case_owners/README.md): 23 new nominal positions/24 readings;24keys25readings minus1conservative source control. One morphology adapter/one stem interface;0finite/source additions. Reuse actualak, n|ak|a→naka then onlyoriginaln-lopa→aka;oldlexicalṇ blocks latercase-n ṇatva. Totals51,819finite;6,057nominal/7,038readings; global gates Open.
 
 Already closed locally: admitted avyaya-nañ akac insertion/outercompound partialn-lopa and M24key25reading family; old pronoun akac panels/payload/source observation uncredited. Genuine unconstructed next: finite tiṅ-akac positive pacataki/jalpataki inputs under5.3.70–74, with their own finite-pada/actual prāk-ṭi location; no transfer of the negative compound/a-particle path. Other avyaya/meaning/F/N/source-semantic/critical-print domains remain Open. Prior actual source/lexical/number/teacher/accent and S1–S7/C2–C5/native/Claude remain as declared; no open reading converted to exclusion.
+
+
+### PG533 · Finite akac selected final-i/current-ending and inner-iṭ interfaces
+
+PG533 constructs [finite akac final-i and retained rudādi iṭ](finite_akac_final_i_and_retained_rudadi_it/README.md): 1morphology adapter/4finite-expression interfaces;0new finite/nominal/source credits. Actualak beforeoriginalendingi gives pacataki/jalpataki/svapitaki/śvasitaki, earlierśap/iṭ retained. Kutsita/anukampā/source same-meaning competition distinct;Bhāṣya53071heading not dialogue. Totals unchanged51,819finite;6,057nominal/7,038readings; global gates Open.
+
+Already closed locally: fourfixedsourceP3sgfiniteakac interfaces, actualak placement beforeoriginalfinali, retainedśap/rudādiiṭ and supplied kutsita/anukampā frames;0oldword/sourcecredits. Genuine unconstructed domains: otherperson/pada/lakāra/ending classes, general original-ending resolver, nested differing-meaning affixes and automatic intention parsing. Next positive avyaya-akac domain:5.3.72k-final dhik/hiruk/pṛthak with jointly prescribed finalk→d and originalpre-ṭi span, distinct from insertedak'sk. PrimaryBhāṣya53071heading-only witness does not close originalargument/source-accentcolllation. Earlier critical/source/lexical/case/number/gender/native andS1–S7/C2–C5/Claude remain as declared.
