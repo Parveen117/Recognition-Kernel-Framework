@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG547 constructs [primary fourth-vowel ka and homographic i ownership](research/panini_grammar/fourth_vowel_primary_ka_and_homographic_i_ownership/README.md):1morphology adapter8unique stems10histories+1primaryentry observation;0newword positions/readings. PrimarysettlesBṛhaspati/Prajāpatifourth-vowelplainka;thacnewiversuskaretainedi explicit.RegularMconsumerreusedwithoutanothercasecensus. Totalsunchanged51,819finite;6,384nominal/7,583readings;global gates Open.
+
 PG546 constructs [third-vowel unsandhied-name cut and suffix-dependent ṇatva](research/panini_grammar/third_vowel_unsandhied_name_cut_and_suffix_dependent_natva/README.md):1morphology adapter6stems;46new nominal positions144readings,0finite/source. Twoexactsourcehuman-namescountbeforecoalescence/yaṇ;retainedthirdvowellaterbha-lopa.Suparik/iypermitcaseṇ,ilaclsoundedblocksit;losttailrnottrigger. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 
 PG545 constructs [upa-name affix owners and sandhi-cut source policies](research/panini_grammar/upa_name_affix_owners_and_sandhi_cut_source_policies/README.md):1morphology adapter6unique stem readouts/16ownedhistories;0word/source increments. Formed-e cutversustwoattributedpre-coalescenceaccountsseparate;medialḍsounded,vucteachingunotugit,aka-versusiy|aownershipdistinct. Totalsunchanged51,819finite;6,338nominal/7,439readings;global gates Open.
