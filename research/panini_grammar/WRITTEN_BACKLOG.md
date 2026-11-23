@@ -1,6 +1,6 @@
-# Written-development backlog at PG655
+# Written-development backlog at PG656
 
-Monty · 2026-11-24 · reviewed current parent e464e5b8258c6ce4cb69988b309f3a3ae2838084; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 70f8ae25687248b2adb1347304bb6e12f68e2512; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1891,3 +1891,15 @@ Selected six K139 formal feminine case paradigms locally CLOSED; lexical-meaning
 - Open readings are not exclusions: Vasu munipadi, kuṇapadī/kuṇipadī/kṛṇapadī priority, accent/corpus/Vedic-critical and competing commentary policies remain explicit. Claude owns grammar execution/generators/untouched suites/certificate replay.
 
 The exact stage publication is the containing commit. Preserve PG335 correction and all frozen predecessors/source pins. Existing review branch only, nonforce; no elapsed-hours or ETA claim.
+
+### PG656 · Asmad/yuṣmad full cases and post-pada clitics
+
+[PG656](asmad_yusmad_full_cases_and_post_pada_clitics/README.md) constructs 42 new aliṅga nominal positions/60 readings: 21 ordinary independent keys per personal pronoun plus 18 conditioned post-pada anudātta alternatives across exact accusative/dative/genitive number addresses. One morphology construction/18 interfaces and one accent construction/18 records are new; the pinned Kāśikā fields receive zero independent source-observation credit.
+
+- Selected ordinary independent and eligible post-pada fibres: CLOSED. Same-sentence/noninitial scope and direct-particle/non-visual-cognition blockers are retained; clitics are not unconditional synonyms.
+- Vedic yuvam/chandas, compound/akac placement, lexicalized uses, wider discourse prosody and independent recitational traditions: Open.
+- S4 audit: PG121's local same-word aniṭ policy remains selected and projected A entitlement remains a competing Open policy. No cached traditional field directly settles the disputed ām-perfect; 45 licences stay Open, not Excluded.
+- Current genuine residuals still include six K139 and three Vasu139 lexical meanings, 128 recensional/inner critical variants, patradatam lexical/gender/nuṃ, broader C2–C5/S1–S7/native/global inventories and Claude-deferred execution.
+- Census: 51,819 finite; 8,000 nominal positions/9,258 readings. PG521–656 adds 2,222 nominal positions/2,515 readings and zero finite positions.
+
+The exact stage publication is the containing commit. Preserve PG335 correction, PG357–PG363 CLOSED and all frozen predecessor/source pins. Existing review branch only, nonforce; no elapsed-hours or ETA claim.

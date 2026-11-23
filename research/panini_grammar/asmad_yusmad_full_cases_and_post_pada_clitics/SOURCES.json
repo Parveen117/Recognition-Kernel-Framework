@@ -1,0 +1,74 @@
+{
+  "upstream_pins": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kashika.txt",
+      "local_snapshot_name": "kashika.txt",
+      "bytes": 3806703,
+      "sha256": "ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254",
+      "git_blob_sha": "e525df7668835ef1dd7c5988c031da07ce0c162b"
+    }
+  ],
+  "fields": [
+    {"source":"kashika.txt","field":"11027","use":"sarvādi explicitly includes yuṣmad and asmad"},
+    {"source":"kashika.txt","field":"71027","use":"genitive singular a replacement and tava/mama examples"},
+    {"source":"kashika.txt","field":"71028","use":"dative and first/second-case am replacement"},
+    {"source":"kashika.txt","field":"71029","use":"accusative plural n replacement"},
+    {"source":"kashika.txt","field":"71030","use":"dative plural bhyam replacement"},
+    {"source":"kashika.txt","field":"71031","use":"ablative plural at replacement"},
+    {"source":"kashika.txt","field":"71032","use":"ablative singular at replacement"},
+    {"source":"kashika.txt","field":"71033","use":"genitive plural ākam replacement"},
+    {"source":"kashika.txt","field":"72086","use":"ā before unreplaced endings"},
+    {"source":"kashika.txt","field":"72087","use":"ā in accusative"},
+    {"source":"kashika.txt","field":"72088","use":"ordinary nominative-dual ā; Vedic yuvam contrast"},
+    {"source":"kashika.txt","field":"72089","use":"y before vowel-initial unreplaced endings"},
+    {"source":"kashika.txt","field":"72090","use":"residual deletion and explicit genderless status"},
+    {"source":"kashika.txt","field":"72091","use":"m-bound replacement scope"},
+    {"source":"kashika.txt","field":"72092","use":"dual yuv/āv replacements and examples"},
+    {"source":"kashika.txt","field":"72093","use":"plural nominative yūy/vay"},
+    {"source":"kashika.txt","field":"72094","use":"singular nominative tv/ah"},
+    {"source":"kashika.txt","field":"72095","use":"singular dative tubhya/mahya"},
+    {"source":"kashika.txt","field":"72096","use":"singular genitive tava/mama"},
+    {"source":"kashika.txt","field":"72097","use":"singular tv/m replacements"},
+    {"source":"kashika.txt","field":"81017","use":"post-pada inherited domain"},
+    {"source":"kashika.txt","field":"81018","use":"anudātta, whole form and non-pāda-initial inherited guards"},
+    {"source":"kashika.txt","field":"81019","use":"same-sentence condition"},
+    {"source":"kashika.txt","field":"81020","use":"dual acc/dat/gen vām/nau"},
+    {"source":"kashika.txt","field":"81021","use":"plural acc/dat/gen vas/nas"},
+    {"source":"kashika.txt","field":"81022","use":"singular dat/gen te/me"},
+    {"source":"kashika.txt","field":"81023","use":"singular accusative tvā/mā"},
+    {"source":"kashika.txt","field":"81024","use":"direct ca/vā/ha/aha/eva prohibition"},
+    {"source":"kashika.txt","field":"81025","use":"non-visual cognition prohibition and visual-seeing control"}
+  ],
+  "dependency_pins": [
+    {
+      "commit": "70f8ae25687248b2adb1347304bb6e12f68e2512",
+      "path": "research/panini_grammar/three_extended_vasu139_formal_feminine_case_fibres/STATE.json",
+      "bytes": 3982,
+      "sha256": "ae49eec21b3a0e9d27f6411036a3c94dab65d3618ae08f4c3e7c5a17024b22ad",
+      "git_blob_sha": "7377569597e0965086eaf2d0e1713301a3179c8b"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/STATE_AND_COMPOSITION.md",
+      "bytes": 8210,
+      "sha256": "b9164206d5389f91a77bbd90b523dbce40a79e2dbd7983bc5adbad45a7539b99",
+      "git_blob_sha": "593f548f92c6398508db1fa943352fbe23cb51c9"
+    }
+  ],
+  "source_decisions": [
+    "Use the exact genderless ordinary independent forms supplied by the 7.1/7.2 replacement sequence; do not create gender or vocative copies.",
+    "Treat 8.1.20-23 outputs as whole-pronoun anudātta substitutes only in the inherited post-pada same-sentence noninitial domain.",
+    "Retain 8.1.24-25 blockers; a blocked clitic edge leaves the independent form available rather than excluding the request.",
+    "Keep Vedic nominative-dual yuvam outside the selected bhāṣā panel and explicitly Open."
+  ],
+  "source_observation_credit": 0
+}

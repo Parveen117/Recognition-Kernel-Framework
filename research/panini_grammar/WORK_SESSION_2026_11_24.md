@@ -3,6 +3,20 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG656 · Asmad/yuṣmad full cases and post-pada clitics
+
+Previous publication: 70f8ae25687248b2adb1347304bb6e12f68e2512; tree 7514efe7bed6e4889776ec5240bb0b609777e126. Necessary check: Python 3.12.14, 130 assertions, 2 attempts; attempt 1 stopped only at the exact cached 8.1.25 sandhi-token spelling and attempt 2 passed without an authored grammar-result change.
+
+PG656: [Asmad/yuṣmad full cases and post-pada clitics](asmad_yusmad_full_cases_and_post_pada_clitics/README.md). Two aliṅga pronouns supply 42 ordinary case-number keys/42 independent readings; 18 exact post-pada anudātta alternatives yield 60 readings. Same-sentence/noninitial scope and 8.1.24–25 blockers remain part of the request. Census 51,819 finite; 8,000 nominal/9,258 readings.
+
+PG521–656 cumulative: 2,222 nominal positions/2,515 readings, zero finite; 237 morphology/1,029 interfaces (821 nominal/stem+10 finite+180 avyaya+18 pronominal clitic); 122 compound/583 plans; 8 accent/45 records; 148 semantics/433 records; 109 syntax/301 records; 36 source-policy decisions after PG555−1; 273 observations. One provenance correction/one proof addendum; no new census correction.
+
+- Exact Kāśikā 7.1/7.2 replacements construct the two full fibres; 8.1.17–25 owns the conditioned clitic and anudātta trace. No new independent source-observation credit is claimed.
+- Vedic nominative-dual yuvam, compounds/akac, lexicalized uses, broader discourse prosody and independent recitational traditions remain Open.
+- S4 audit preserved PG121's selected same-word aniṭ account and the projected-entitlement alternative: the cached commentaries do not directly settle the disputed ām-perfect, so all 45 traditional licences remain Open rather than being excluded.
+- Six K139 and three Vasu139 lexical meanings, patradatam lexical/gender/nuṃ, C2–C5/S1–S7/native/global obligations remain Open. Claude execution separate; PG335 correction and PG357–PG363 CLOSED preserved.
+
+
 ## PG655 · Three extended Vasu139 formal feminine case fibres
 
 Previous publication: e464e5b8258c6ce4cb69988b309f3a3ae2838084; tree e280db38b832a963d88d5952ee9a26c59cdea919. Necessary check: Python 3.12.14, 80 assertions, 1 attempt.

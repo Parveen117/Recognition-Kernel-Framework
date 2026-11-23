@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG655
+# Pāṇini grammar · current written coverage at PG656
+
+PG656: [Asmad/yuṣmad full cases and post-pada clitics](asmad_yusmad_full_cases_and_post_pada_clitics/README.md). The two genderless personal pronouns now have complete ordinary seven-case, three-number fibres: 42 new nominal positions/60 readings. Eighteen readings are exact eligible post-pada anudātta substitutes, with same-sentence/noninitial and 8.1.24–25 blockers retained; they are not free synonyms. One morphology construction/18 readouts and one accent construction/18 readouts; zero source-observation credit. Census 51,819 finite; 8,000 nominal/9,258 readings. S4's 45 traditional licences remain Open.
 
 PG655: [Three extended Vasu139 formal feminine case fibres](three_extended_vasu139_formal_feminine_case_fibres/README.md). The final three uninterpreted heads in the actual 41-entry Vasu 5.4.139 field—sūcīpadī, kalahamsapadī and viṣapadī—now each have a complete ordinary 24-key formal case fibre: 69 new nominal positions/readings after three inherited NOMsg controls. Their lexical meanings remain genuinely Open. Census 51,819 finite; 7,958 nominal/9,198 readings; zero new construction/source/accent credits. PG632–633 already close both bāhu meanings and the original selected K128 remainder; only recensional/inner critical channels remain Open.
 
