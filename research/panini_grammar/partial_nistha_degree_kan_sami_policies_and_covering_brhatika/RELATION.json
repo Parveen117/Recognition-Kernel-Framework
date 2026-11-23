@@ -1,0 +1,222 @@
+{
+  "stage": "PG565",
+  "partial_frames": [
+    {
+      "id": "bhinna_PARTIAL_KAN",
+      "root_id": "1070002",
+      "base": "bhinna",
+      "inner": "provided_niṣṭhā_kta_patient;bhidPG349reused_chidPG536providedinput",
+      "sense": "vidāraṇa",
+      "preverb": null,
+      "voice": "kta_patient_nonfinite",
+      "pada": null,
+      "coverage": "supplied_non_exhaustive_action_relation_to_relevant_patient_whole",
+      "degree": null,
+      "suffix": "kan_5.4.4",
+      "markers": [
+        "n_IT"
+      ],
+      "payload": "ka",
+      "readout": "bhinnaka",
+      "position_credit": 0
+    },
+    {
+      "id": "chinna_PARTIAL_KAN",
+      "root_id": "1070003",
+      "base": "chinna",
+      "inner": "provided_niṣṭhā_kta_patient;bhidPG349reused_chidPG536providedinput",
+      "sense": "dvaidhīkaraṇa",
+      "preverb": null,
+      "voice": "kta_patient_nonfinite",
+      "pada": null,
+      "coverage": "supplied_non_exhaustive_action_relation_to_relevant_patient_whole",
+      "degree": null,
+      "suffix": "kan_5.4.4",
+      "markers": [
+        "n_IT"
+      ],
+      "payload": "ka",
+      "readout": "chinnaka",
+      "position_credit": 0
+    },
+    {
+      "id": "bhinna_PARTIAL_DEGREE_SELFKAN",
+      "root_id": "1070002",
+      "base": "bhinna",
+      "inner": "same_supplied_kta",
+      "sense": "vidāraṇa",
+      "preverb": null,
+      "voice": "kta_patient_nonfinite",
+      "pada": null,
+      "coverage": "supplied_non_exhaustive_patient_relation",
+      "degree": "tarap_with_supplied_two_or_divided_comparison5.3.57",
+      "order": [
+        "degree_first_under_primary54004pūrvavipratiṣedha",
+        "outer_svārthika_kan_under5902"
+      ],
+      "suffix": "outer_selfkan_not_ordinary5.3.74ka",
+      "markers": [
+        "n_IT"
+      ],
+      "payload": "ka",
+      "readout": "bhinnataraka",
+      "position_credit": 0
+    },
+    {
+      "id": "chinna_PARTIAL_DEGREE_SELFKAN",
+      "root_id": "1070003",
+      "base": "chinna",
+      "inner": "same_supplied_kta",
+      "sense": "dvaidhīkaraṇa",
+      "preverb": null,
+      "voice": "kta_patient_nonfinite",
+      "pada": null,
+      "coverage": "supplied_non_exhaustive_patient_relation",
+      "degree": "tarap_with_supplied_two_or_divided_comparison5.3.57",
+      "order": [
+        "degree_first_under_primary54004pūrvavipratiṣedha",
+        "outer_svārthika_kan_under5902"
+      ],
+      "suffix": "outer_selfkan_not_ordinary5.3.74ka",
+      "markers": [
+        "n_IT"
+      ],
+      "payload": "ka",
+      "readout": "chinnataraka",
+      "position_credit": 0
+    }
+  ],
+  "covering_frame": {
+    "id": "BRHATI_COVER",
+    "base": "bṛhatī",
+    "sense": "specified_covering_cloth_not_metre",
+    "root_id": null,
+    "preverb": null,
+    "voice": null,
+    "pada": null,
+    "suffix": "kan_5.4.6",
+    "markers": [
+      "n_IT"
+    ],
+    "payload": "ka",
+    "operations": [
+      "5doesnotcontinueitsprohibitioninto6",
+      "7.4.13oldterminalī→i_before_actualka",
+      "ṭāp4.1.4newā_with6.1.101"
+    ],
+    "readout": "bṛhatikā",
+    "i_owner": "shortened_original_baseī_not7.3.44a_itva",
+    "last_ā_owner": "newouterṭāp",
+    "position_credit": 0
+  },
+  "sami_query_frames": [
+    {
+      "id": "BALA_KARAKA_ELIGIBLE",
+      "input": "supplied_sāmikṛta_compound",
+      "root_id": "1080010",
+      "root_sense": "karaṇa",
+      "preverb": null,
+      "modifier": "sāmi_avyaya_half_not_sam_upasarga",
+      "source_policy": "Bāla54005",
+      "whole_compound_kta_status": "eligible_via_kriyāviśeṣaṇa_kāraka_and_kṛdgrahaṇa",
+      "partial_kan4": "not_needed/already_partial_by_base_expression",
+      "selfkan5": "prohibited_local_request",
+      "output": "retain_sāmikṛta_no_newkan"
+    },
+    {
+      "id": "TATTVA_NO_GATI_KARAKA",
+      "input": "same_supplied_sāmikṛta_compound",
+      "root_id": "1080010",
+      "root_sense": "karaṇa",
+      "preverb": null,
+      "modifier": "sāmi_avyaya_half_not_sam_upasarga",
+      "source_policy": "Tattva54005",
+      "whole_compound_kta_status": "not_eligible_under_kṛdgrahaṇa_on_this_account",
+      "partial_kan4": "analytic_partial_already_expressed;compound_gate_not_available",
+      "selfkan5": "prohibited_local_request",
+      "output": "retain_sāmikṛta_no_newkan"
+    }
+  ],
+  "semantic_frames": [
+    {
+      "id": "PARTIAL_NONEXHAUSTIVE",
+      "status": "4partialkan_with_relevant_coverage_witness"
+    },
+    {
+      "id": "PARTIAL_PLUS_DEGREE",
+      "status": "54004degree-first_then5902selfkan_both_meanings_retained"
+    },
+    {
+      "id": "EXPLICIT_SAMI_OR_SYNONYM",
+      "status": "partialalreadyexpressed_and_local_selfkan5denied;Bāla/Tattva_ktānta_query_views_distinct"
+    }
+  ],
+  "controls": [
+    {
+      "id": "all_completed_past_bhid_events_exhaust_entire_patient",
+      "status": "Excluded_completion_time_vs_coverage_conflation"
+    },
+    {
+      "id": "full_coverage_to_partialkan4",
+      "status": "Excluded_this_selected_partial_edge_only;plainkta_notbanned"
+    },
+    {
+      "id": "barebhinna_word_proves_world_coverage",
+      "status": "Open_requires_supplied_semantic_frame"
+    },
+    {
+      "id": "54004kan_first_then_degree_asuniversal",
+      "status": "Excluded_selected_primarypriority;PG536differentkutsitakadacit_preserved"
+    },
+    {
+      "id": "54005denies_allkan_on_allpartialwords",
+      "status": "Excluded_localselfkan_scope_not_globalban"
+    },
+    {
+      "id": "Bāla_andTattva_Sāmi_kāraka_policies_are_same",
+      "status": "Excluded_distinct_query_statuses"
+    },
+    {
+      "id": "all_words_receive_free_svārthikakan_from_jñāpaka",
+      "status": "Open_nameddegree/yāvādi/sourceconditionsrequired"
+    },
+    {
+      "id": "54004atyanta_micro-reading_and4901number_repaired",
+      "status": "Open_rawcriticalprint_preserved"
+    },
+    {
+      "id": "Bṛhatī_metre_to6coveringkan",
+      "status": "Excluded_missing_covering_sense_only"
+    },
+    {
+      "id": "bṛhatikā_i_is_new7.3.44affixvowel",
+      "status": "Excluded_original_baseī_shortening"
+    },
+    {
+      "id": "5.4.3all_type_members_now_constructed",
+      "status": "Open_nextactualtype-gaṇawork"
+    },
+    {
+      "id": "other_degree_affixes_cases_accents_and_compound_policies",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 2,
+    "new_morphological_readouts": 5,
+    "new_semantic_constructions": 1,
+    "new_semantic_readouts": 3,
+    "new_syntactic_constructions": 1,
+    "new_syntactic_readouts": 2,
+    "new_source_observations": 2,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  },
+  "source_observation_units": [
+    "primary54004entry2281raw4901and5902partial_degree_order",
+    "primary54005entry2282_5903redundant_partial_prohibition"
+  ],
+  "unit_boundary": "2adapters5stems(partial/degree4+cover1),1coverage-semanticcontract3frames,1compound-querysyntaxcontract2sourceaccounts,2primaryobservations.ProvidedSāmicompounds0newformation/wordcredit;oldniṣṭhā/cases/PG536remainfrozen."
+}

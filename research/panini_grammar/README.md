@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG565 constructs [partial niṣṭhā/degree-kan,Sāmi policies and covering bṛhatikā](partial_nistha_degree_kan_sami_policies_and_covering_brhatika/README.md):2morphology adapters5stems;1extent contract3frames;1compound-query contract2sourceaccounts;2primary54004/05observations;0word increments. Closedniṣṭhā/PG536reused;pastcompletion≠patientextent;rawcriticalandBāla/Tattvaeligibilitypoliciespreserved. Totals51,819finite;6,384nominal/7,583readings;PG555−1retained/global gates Open.
+
 PG564 constructs [numbered distribution-vun,paired lopa and fine-amount roles](numbered_distribution_vun_paired_tail_lopa_and_fine_amount_roles/README.md):1morphology adapter6Fstems;1compound constructor6bases;1meaning contract3frames;1fine-role contract2instantiations;2source observations;0word increments. Coupled_lopaversusordinaryendpoint,pād-member/vun-a/k/āownersandamount-contentversusword-numberexplicit. Totals51,819finite;6,384nominal/7,583readings;PG555−1retained/global gates Open.
 
 PG563 constructs [association-cha,nested aṇ/añ and gotra-yañ/vuñ bridge](association_cha_nested_an_anj_and_gotra_yanj_vunj_bridge/README.md):3composedmorphology adapters9stems;1accent adapter2records;1gotra semantic contract2records;1nested-number contract2frames;1primary53118observation;0word/newpolicycredits. Inner/outerplurality,olda/newa,source/resultgotraandold-y/vuñownersdistinct. Totals51,819finite;6,384nominal/7,583readings;PG555−1correctionretained/global gates Open.
