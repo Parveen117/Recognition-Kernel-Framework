@@ -1,0 +1,116 @@
+{
+  "stage": "PG522",
+  "paths": [
+    {
+      "id": "SATYA_INNER",
+      "input": "source nominal sat with4.4.98saptamī-samartha sādhuframe",
+      "retention": null,
+      "trace": [
+        "actualyat4.4.98;finalt_ITinactive,suffixya retained",
+        "sat|ya→satya;rootetymology of suppliedsat notinvented"
+      ],
+      "readout": "satya"
+    },
+    {
+      "id": "NASATYA_DESIGNATED",
+      "input": "designatedNāsatya identity,not any double negative phrase",
+      "retention": "outernañ only6.3.75",
+      "trace": [
+        "innerordinarynañ|satya→a|satya→asatya6.3.73;consonantsinitialsono nuṭ",
+        "outerdesignatednañ|asatya retainsoldn and a by6.3.75",
+        "outeroldnnotdeleted→6.3.74luptanakaraprerequisitefalse;nonewNaugment",
+        "na|asatya:a+a→ā6.1.101→nāsatya"
+      ],
+      "readout": "nāsatya"
+    },
+    {
+      "id": "NAKULA_DESIGNATED",
+      "input": "designatednakula with source naasyakulamasti analysis",
+      "retention": "nañ6.3.75",
+      "trace": [
+        "keepnañoldn/a",
+        "na|kula→nakula;not every lack-of-family frame gets this lexicalname"
+      ],
+      "readout": "nakula"
+    },
+    {
+      "id": "NAKHA_DESIGNATED",
+      "input": "designatednakha with source naasyakhamasti analysis",
+      "retention": "nañ6.3.75",
+      "trace": [
+        "keepnañoldn/a",
+        "na|kha→nakha;not universalno-opening label"
+      ],
+      "readout": "nakha"
+    },
+    {
+      "id": "NAKA_DESIGNATED",
+      "input": "designatednāka with source naasminakamasti analysis",
+      "retention": "nañ6.3.75",
+      "trace": [
+        "keepnañoldn/a;nuṭprerequisitefalse",
+        "na|aka:a+a→ā→nāka"
+      ],
+      "readout": "nāka"
+    },
+    {
+      "id": "ANRC_PRODUCTIVE_CONTROL",
+      "input": "PG519ordinarylicensednañ|ṛc,not6.3.75designated lexeme",
+      "retention": null,
+      "trace": [
+        "reuseoldn-lopa/rightownednuṭ→anṛc",
+        "do notgeneralizeretentionfromnamedlexemes tothiscontrol"
+      ],
+      "readout": "anṛc"
+    }
+  ],
+  "controls": [
+    {
+      "id": "DOUBLE_NEGATION_SAME_N_OWNER",
+      "status": "Excluded_scope_owner_error"
+    },
+    {
+      "id": "RETAINED_N_STILL_TRIGGERS_NUT",
+      "status": "Excluded_missing_lopa_prerequisite"
+    },
+    {
+      "id": "ALL_ABSENCE_PHRASES_GET_DESIGNATED_NAMES",
+      "status": "Excluded_lexical_scope_error"
+    },
+    {
+      "id": "SADHU_ETHICAL_TRUTH_OR_HITA",
+      "status": "Excluded_44098_sense_error",
+      "reason": "Kcompetent/fit,not benefit/hita,not automatic ethical truth"
+    },
+    {
+      "id": "NASATYA_PLURAL_IS_FIXED_NUMBER",
+      "status": "Excluded_source_number_error",
+      "reason": "Tattvapluralavivakṣita;dualexample alreadyoldsource"
+    },
+    {
+      "id": "NAKULA_NAKA_ALL_GENDERS_FROM_SAME_STEM",
+      "status": "Open_head_sense_source_collation"
+    },
+    {
+      "id": "OTHER_SEVEN_DESIGNATED_FORMS_FULL_DERIVATIONS",
+      "status": "Open_unconstructed"
+    },
+    {
+      "id": "UNKNOWN_DESIGNATED_IDENTITY_OR_INNER_LICENCE",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 6,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0
+  },
+  "scope": "selectedsource-designatedNāsatya/nakula/nakha/nāka plusactualinner satya-yat andPG519control;not all11full derivations",
+  "nominal_policy": "supplied sat/kula/kha/aka nominal identities and exact lexical/source-meaning licence;no invented verbal rootID/pada/voice/preverb",
+  "semantic_boundary": "source rūḍha word analyses;not universal naming rule,Booleannegation theorem or empirical assertion about heavens/creatures",
+  "number_boundary": "sourceNāsatya plural display not a number restriction;no new dual/case credits"
+}

@@ -1,4 +1,4 @@
-# Written-development backlog at PG521
+# Written-development backlog at PG522
 
 Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
@@ -753,3 +753,9 @@ PG517–519unsuffixedc pointer superseded only on sourceNtextKEEPsingular/dual32
 PG521 completes [textKEEP plural num/shortṛ and palatal parasavarṇa](rc_text_keep_plural_num_short_r_and_parasavarna/README.md):16new nominal positions/readings,0finite/source/separate construction credits.Num afterṛ/beforec retains nc-ending,not n-final/s-cluster lengthdomain;ṛshort,n→ṃ→ñ mandatory insideword.Oblique g/c/kṣ ending histories owned.With frozenPG520,selectedNtextKEEP48keys54readings CLOSED.Totals51,819finite;5,794nominal/6,759readings;global gates Open.
 
 PG520pluralnum/length/case pointer superseded on declared2NtextKEEPprofiles only;48keys54readings includes32frozenkeys0recredit.Wider learner-school/person/sourcecritical scope,nañ6.3.75retention/censure/akac/unknownlicences,originaldhurroot/pada/u-ū and S1-S7/C2-C5/native/fullteacher/accent remainOpen.Next actual source-owned contracts:6.3.75designatedretention versus productive6.3.73/74,including double-negative Nāsatya history and stipulated base treatments;review existing prose/factored/state before credits.Claude execution separate.
+
+## PG522 · Selected designated-retention interactions
+
+PG522 constructs [designated nañ retention and nested Nāsatya ownership](designated_nanj_retention_nested_nasatya_and_lexical_scope/README.md):1morphology adapter/6controlled readouts,0finite/nominal/source credits.Actualyat/satya then innerordinarynañ differs from outerretainednañ;no nuṭwithoutdeletedn.Nakula/nakha/nāka source-rūḍha scope explicit,not universalnaming.Tattvapluralnotnumberrestriction;gender/sourcecasefamiliesOpen.Totals51,819finite;5,794nominal/6,759readings;global gates Open.
+
+PG521retentionpointer superseded only for4designatedlexemes/inneractualyat/control interface.Other7fullroot/affix/stipulatedanalyses and full11wordgender/case families remainunconstructed.No old register/word credits.Nāsatya plural restriction positively rejected underTattva,not all-number tableclosure.Concrete next source decisions:exactNamuciUṇādisuffix/root ownership(KkiversusTattvain/kit report);Napat participial/Nnum gate;Nakṣatra competingroot/affix stipulations;widernañcensure/akac/sourcecritical/sourcegender and S1-S7/C2-C5/native/fullteacher/accent/Claude remainOpen.Review priorUṇādiprofilesbeforeanycredit.

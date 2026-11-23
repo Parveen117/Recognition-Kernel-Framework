@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG521
+# Pāṇini grammar · current written coverage at PG522
+
+PG522 constructs [designated nañ retention and nested Nāsatya ownership](designated_nanj_retention_nested_nasatya_and_lexical_scope/README.md):1morphology adapter/6controlled readouts,0finite/nominal/source credits.Actualyat/satya then innerordinarynañ differs from outerretainednañ;no nuṭwithoutdeletedn.Nakula/nakha/nāka source-rūḍha scope explicit,not universalnaming.Tattvapluralnotnumberrestriction;gender/sourcecasefamiliesOpen.Totals51,819finite;5,794nominal/6,759readings;global gates Open.
 
 PG521 completes [textKEEP plural num/shortṛ and palatal parasavarṇa](rc_text_keep_plural_num_short_r_and_parasavarna/README.md):16new nominal positions/readings,0finite/source/separate construction credits.Num afterṛ/beforec retains nc-ending,not n-final/s-cluster lengthdomain;ṛshort,n→ṃ→ñ mandatory insideword.Oblique g/c/kṣ ending histories owned.With frozenPG520,selectedNtextKEEP48keys54readings CLOSED.Totals51,819finite;5,794nominal/6,759readings;global gates Open.
 
