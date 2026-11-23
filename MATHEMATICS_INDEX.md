@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG580 constructs [cvi zero surface and result-bearer transformation](research/panini_grammar/cvi_zero_surface_and_result_bearer_transformation/README.md):two morphology adapters/13avyaya interfaces;two meaning contracts/six frames;one verb-connection contract/three supplied contexts;three source observations;zero word/accent/new-policy credits. Actual cvi and base/verb/role owners retained;source segmentation/parents and wider gatesOpen. Totals51,819finite;6,408nominal/7,631readings.
+
 PG579 constructs [Vedic praise,śas unit policies and case-owned tasi](research/panini_grammar/vedic_praise_sas_unit_policies_and_case_owned_tasi/README.md):three morphology adapters/30interfaces;two syntax contracts/nine frames;one meaning contract/two frames;four source observations;one new qualified Vāmana contextual-unit policy. Zero word/accent credits;root/case/policy owners retained. Totals51,819finite;6,408nominal/7,631readings;wider gates Open.
 
 PG578 constructs [prājña affix/gender contrast and clay-owned i after luk](research/panini_grammar/prajna_affix_gender_contrast_and_clay_owned_i_after_luk/README.md):four morphology adapters/10stems;one price-dvigu compound/one readout;one meaning contrast/three frames;three source observations;zero word/accent/new-policy credits. Root/suffix/gender and inner-i/outer-affix/āp-LUK owners preserved;praise source accounts separate. Totals51,819finite;6,408nominal/7,631readings;wider gates Open.

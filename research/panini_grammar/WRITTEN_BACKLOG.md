@@ -1,6 +1,6 @@
-# Written-development backlog at PG579
+# Written-development backlog at PG580
 
-Monty · 23 November 2026 · reviewed current parent 8f9705001575f755bca777b98890695ac092e2b4; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 685b34f44d0c96383fe3aeef30417d7adf83c246; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1158,3 +1158,10 @@ Selected38core/memberand39–40paths locallyCLOSED underdeclaredaccounts. LargeP
 PG579 constructs [Vedic praise,śas unit policies and case-owned tasi](vedic_praise_sas_unit_policies_and_case_owned_tasi/README.md):three morphology adapters/30interfaces;two syntax contracts/nine frames;one meaning contract/two frames;four source observations;one new qualified Vāmana contextual-unit policy. Zero word/accent credits;root/case/policy owners retained. Totals51,819finite;6,408nominal/7,631readings;wider gates Open.
 
 StrictK/Jāyāditya43counterexample is not universaljati exclusion:reportedVāmanachannelallowsactualcontextualone-unitjātirequests,K71020corroborateskuṇḍaśas/vanaśaswhileblockingdifferentcaseśi. Ghaṭaśasrule-derivedonlyunderthatsuppliedpolicy/witness.41–49selectedinterfaceslocallyCLOSED;fullpronominal/case/independentcritical/accentworkOpen. Priorlargegaṇa/36extensions/kathañcit/aps/toy/rañ-raṇ/praise/source/native/globalgatesremain;Claudeexecutionseparate. Nextactualmemberand50–55afterreview.
+
+
+### PG580 · Zero-sounded cvi retains real transformation history
+
+PG580 constructs [cvi zero surface and result-bearer transformation](cvi_zero_surface_and_result_bearer_transformation/README.md):two morphology adapters/13avyaya interfaces;two meaning contracts/six frames;one verb-connection contract/three supplied contexts;three source observations;zero word/accent/new-policy credits. Actual cvi and base/verb/role owners retained;source segmentation/parents and wider gatesOpen. Totals51,819finite;6,408nominal/7,631readings.
+
+Selected50–51interfaces locally CLOSED. Actual52–55quantifier/transfer recipes remain unconstructed;K/Nyāsaī-intermediate and51parent/quantity critical differences remainOpen. Fullavyaya/accent/innerparent work and earlierC2–C5/S1–S7/global/native/sourceobligations retained;Claudeexecution separate.
