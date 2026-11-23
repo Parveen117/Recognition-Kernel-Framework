@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG567
+# Pāṇini grammar · current written coverage at PG568
+
+PG568 constructs [degree āmu marker guards and reciprocal ṇac/añ feminine ownership](degree_amu_marker_guard_and_reciprocal_nac_anj_feminine/README.md): three morphology adapters/13 interfaces (ten degree/avyaya,three nominal); one meaning contract/four readouts; three source observations; zero word/new-policy/accent credits. Actual suffix identities,degree holders and inner/outer/feminine vowels retained. Totals51,819 finite;6,384 nominal/7,583 readings; wider gates Open.
 
 PG567 constructs [self-sense kha, direction/gender, jāti bearer and station ownership](selfsense_kha_direction_gender_jati_and_station_ownership/README.md): four morphology adapters/22 stem interfaces; one compound adapter/five inputs; one scope contract/six readouts; two source observations; zero word or new-policy credits. Actual suffix/replacement/member/gender and rival source accounts retain owners. Totals 51,819 finite; 6,384 nominal/7,583 readings; wider gates Open.
 

@@ -1,6 +1,6 @@
-# Written-development backlog at PG567
+# Written-development backlog at PG568
 
-Monty · 23 November 2026 · reviewed current parent bfefcee50d202496420bd1079734d799a3275059; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 37cd66d056d6f58a1817890c6c0f738a3ea464fb; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1074,3 +1074,10 @@ Selected19steminterfacesCLOSED;notwholegaṇaclosure. Pādya/kāla/avadātasurā
 PG567 constructs [self-sense kha, direction/gender, jāti bearer and station ownership](selfsense_kha_direction_gender_jati_and_station_ownership/README.md): four morphology adapters/22 stem interfaces; one compound adapter/five inputs; one scope contract/six readouts; two source observations; zero word or new-policy credits. Actual suffix/replacement/member/gender and rival source accounts retain owners. Totals 51,819 finite; 6,384 nominal/7,583 readings; wider gates Open.
 
 5.4.7–10 selected interfaces locally closed. Supplied āśitagu inner kta/go→gu and rāja seam, full añc origin, wider mandatory-family and contextual agreement policies, all cases/accent remain genuine Open work. Next 5.4.11–14 after predecessor review. C2–C5/S1–S7 and prior textual/native frontiers remain Open; no gap converted to an exclusion. Claude-deferred execution is separate.
+
+
+### PG568 · Degree suffix identity and reciprocal whole-prefix recovery
+
+PG568 constructs [degree āmu marker guards and reciprocal ṇac/añ feminine ownership](degree_amu_marker_guard_and_reciprocal_nac_anj_feminine/README.md): three morphology adapters/13 interfaces (ten degree/avyaya,three nominal); one meaning contract/four readouts; three source observations; zero word/new-policy/accent credits. Actual suffix identities,degree holders and inner/outer/feminine vowels retained. Totals51,819 finite;6,384 nominal/7,583 readings; wider gates Open.
+
+Selected11–14 interfaces locally CLOSED. Independent Vedic/accent/Bāla alignment,inner anugādin ṇini source accounts,other time/e-final and reciprocal root/prefix/gender/case requests remain Open. Next15–20 after old-register review. No unresolved source request excluded for completion;C2–C5/S1–S7/prior native/source frontiers remain Open,Claude execution separate.
