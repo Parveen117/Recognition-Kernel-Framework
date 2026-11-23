@@ -209,3 +209,19 @@ Selected150–152 owned source traces locally CLOSED; nine151 entries and wider 
 - Next153–160 actual right-member nadī/ṛ and residual/named/comparative/praise/Vedic/body/named-cloth kap interactions. Prior142 patra/13918-member/12813-member lists/bāhu/prohyapadi and all older textual/lexical/C2–C5/S1–S7/native/global work remain Open. Claude execution distinct.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG624 · Right-member nadī, residual kap and comparative prohibition scope
+
+Previous publication: a311c4cdd0acda3116b3092a18ff78bd3fbcc249; tree cf2ee240dc1287e6cb604a154015d7759481034d. Necessary check: Python 3.12.14, 71 assertions, 1 attempt(s).
+
+PG624: [Right-member nadī, residual kap and comparative prohibition scope](right_member_nadi_residual_kap_and_comparative_prohibition_scope/README.md). Four formation adapters/23 interfaces; four compound contracts/23 plans; four meaning contracts/14 records; four scope contracts/ten records; five observations. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+PG521–624 cumulative:938 nominal positions/1,207 readings, zero finite;206 morphology constructions/910 interfaces (744 nominal/stem+10 finite+156 avyaya);97 compound contracts/485 plans;7 accent/27 records;109 semantics/334 records;64 syntax/184 records;22 source-policy decisions after PG555−1;203 observations (6 VCP+35 primary Bhāṣya+30 paired commentary+59 Nyāsa+23 Tattva+34 Bāla+15 K cross-rule+1 primary Bhaṭṭabhāskara). One additive register-provenance correction; no new census effect.
+
+Selected153–156 owner and prohibition traces locally CLOSED; unknown/textual/inner and full written gates Open.
+- Closed selected153–156 right-owner/residual/155narrow/156wide and protected-feminine traces. PG606 source control and old generic policies receive no repeated credits.
+- Open: unknown competing-rule inputs; suputra/saputra microtext, complete inner dhīvan/śreyas lexicons and all case/gender/accent products.
+- Next157–160 praise/Vedic/body/named cloth kap prohibitions;151 nine entries including singular/Lakṣmī interactions,142 patra,13918-member/12813-member lists/bāhu/prohyapadi and older critical/C2–C5/S1–S7/native/global work remain Open. Claude execution distinct.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

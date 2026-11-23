@@ -1,6 +1,6 @@
-# Written-development backlog at PG623
+# Written-development backlog at PG624
 
-Monty · 2026-11-24 · reviewed current parent bdd518fa3760bd845f732b18727fcfbe32c70044; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent a311c4cdd0acda3116b3092a18ff78bd3fbcc249; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1524,3 +1524,14 @@ Selected150–152 owned source traces locally CLOSED; nine151 entries and wider 
 - Closed selected150–152 friend/ordinary-heart, three listed kap, three outer-F-in and two male source-control traces plus inner vāggmin two-g recipe. Old generic policies not recredited.
 - Genuine151 remaining: pumān, anaḍvān, nauḥ, payaḥ, lakṣmīḥ, dadhi, madhu, śāli; artha after nañ gaṇasūtra. Singular-member scopes/Tattva Lakṣmī interactions, full in lexicon/chattrin, all paradigms/accent stay Open.
 - Next153–160 actual right-member nadī/ṛ and residual/named/comparative/praise/Vedic/body/named-cloth kap interactions. Prior142 patra/13918-member/12813-member lists/bāhu/prohyapadi and all older textual/lexical/C2–C5/S1–S7/native/global work remain Open. Claude execution distinct.
+
+
+### PG624 · Right-member nadī, residual kap and comparative prohibition scope
+
+PG624: [Right-member nadī, residual kap and comparative prohibition scope](right_member_nadi_residual_kap_and_comparative_prohibition_scope/README.md). Four formation adapters/23 interfaces; four compound contracts/23 plans; four meaning contracts/14 records; four scope contracts/ten records; five observations. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+Selected153–156 owner and prohibition traces locally CLOSED; unknown/textual/inner and full written gates Open.
+
+- Closed selected153–156 right-owner/residual/155narrow/156wide and protected-feminine traces. PG606 source control and old generic policies receive no repeated credits.
+- Open: unknown competing-rule inputs; suputra/saputra microtext, complete inner dhīvan/śreyas lexicons and all case/gender/accent products.
+- Next157–160 praise/Vedic/body/named cloth kap prohibitions;151 nine entries including singular/Lakṣmī interactions,142 patra,13918-member/12813-member lists/bāhu/prohyapadi and older critical/C2–C5/S1–S7/native/global work remain Open. Claude execution distinct.

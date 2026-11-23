@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG624: [Right-member nadī, residual kap and comparative prohibition scope](research/panini_grammar/right_member_nadi_residual_kap_and_comparative_prohibition_scope/README.md). Four formation adapters/23 interfaces; four compound contracts/23 plans; four meaning contracts/14 records; four scope contracts/ten records; five observations. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
 PG623: [Friend hṛd, kap consonants and vāggmin two-g ownership](research/panini_grammar/friend_hrd_kap_consonants_and_vaggmin_two_g_owners/README.md). Four formation adapters/13 interfaces (one inner gmini); three compound contracts/12 plans; three meaning contracts/ten records; three scope contracts/six records; four observations. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
 
 PG622: [Kakuda condition, named mountain and kākuda palate owners](research/panini_grammar/kakuda_condition_named_mountain_and_kakuda_palate_owners/README.md). Four formation adapters/13 interfaces; four compound contracts/14 contexts; four meaning contracts/14 records; three scope contracts/five records; four observations/one source decision. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
