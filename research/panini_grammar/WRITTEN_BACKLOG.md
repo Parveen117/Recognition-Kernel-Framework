@@ -1,6 +1,6 @@
-# Written-development backlog at PG598
+# Written-development backlog at PG599
 
-Monty · 23 November 2026 · reviewed current parent 3f43b48a750138dc66d495da43e38a8584c79615; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent bbefd2cc09f7805ecaf4546bd747d96325b6670e; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1293,3 +1293,10 @@ Supersedes PG596 sixMcase-next obligation on these exact sixprofiles only.8.4.11
 PG598 constructs [chief, kind/name, craft and dog-comparison ṭac owners](chief_kind_name_craft_and_dog_comparison_tac_owners/README.md): six recipes/21 stems(22contexts),six compound contracts/22plans,five meaning contracts/14frames,five observations. Zero word/accent/new-policy credits;chiefN,actualṅīp and sourcecomparison/livelihood accounts retained. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
 
 Selected21steminterfaceslocallyCLOSED;wholejāti/sañjñāmembershipunmeasured. Exactsevā/senāparentreading,rawcomparisonreference/alternateheading,innerkauṭa/fullcases/genders/accentOpen. Actual99onwardandearlierdaśabhūmaka/pur/palya/citation-i/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
+
+
+### PG599 · Source-positivehalfkhāriF/NandmeasureLUK
+
+PG599 constructs [boat/measure ṭac choices and half-khārī source genders](boat_measure_tac_choices_and_half_khari_gender_sources/README.md): four recipes/14interfaces,four compound contracts/14plans,one LUK contract/five frames,two meaning contracts/seven frames,six observations and one qualified F/N source decision. Zero word/accent credits;actual price-content,teacher/innerLUK and old/newī owners retained. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
+
+Selected14steminterfaceslocallyCLOSED. HalfkhāriNshort/khārīFlongacceptedsourcebranches;Nyāsa101shortening+ṅīṣcriticalmicrotextOpen,notawordban. Fullcases/accent/outerrūpya_mayaṭ_BVand103onward/earlierdaśabhūmaka/pur/palya/citation-i/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
