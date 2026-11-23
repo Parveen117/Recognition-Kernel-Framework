@@ -1,4 +1,4 @@
-# Written-development backlog at PG522
+# Written-development backlog at PG523
 
 Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
@@ -759,3 +759,10 @@ PG520pluralnum/length/case pointer superseded on declared2NtextKEEPprofiles only
 PG522 constructs [designated nañ retention and nested Nāsatya ownership](designated_nanj_retention_nested_nasatya_and_lexical_scope/README.md):1morphology adapter/6controlled readouts,0finite/nominal/source credits.Actualyat/satya then innerordinarynañ differs from outerretainednañ;no nuṭwithoutdeletedn.Nakula/nakha/nāka source-rūḍha scope explicit,not universalnaming.Tattvapluralnotnumberrestriction;gender/sourcecasefamiliesOpen.Totals51,819finite;5,794nominal/6,759readings;global gates Open.
 
 PG521retentionpointer superseded only for4designatedlexemes/inneractualyat/control interface.Other7fullroot/affix/stipulatedanalyses and full11wordgender/case families remainunconstructed.No old register/word credits.Nāsatya plural restriction positively rejected underTattva,not all-number tableclosure.Concrete next source decisions:exactNamuciUṇādisuffix/root ownership(KkiversusTattvain/kit report);Napat participial/Nnum gate;Nakṣatra competingroot/affix stipulations;widernañcensure/akac/sourcecritical/sourcegender and S1-S7/C2-C5/native/fullteacher/accent/Claude remainOpen.Review priorUṇādiprofilesbeforeanycredit.
+
+
+### PG523 · Named Namuci affix histories and singular case family
+
+PG523 constructs [Namuci ki/in ownership and source-qualified masculine singular](namuci_owned_ki_in_and_source_qualified_singular/README.md): 7 new nominal positions/7 readings after withholding old namuciḥ; 1 morphology adapter/1 stem readout with 2 attributed histories; 1 Vācaspatyam entry observation; 0 finite additions. Actual kit blocks root guṇa, actual śa absent blocks present num; later outer case guṇa remains licensed. Totals 51,819 finite; 5,801 nominal/6,766 readings; wider gates Open.
+
+PG522's Namuci morphology/singular pointer is superseded only on the selected VCP masculine asura profile. Six remaining full 6.3.75 analyses are nabhrāṭ, napat, navedas, napuṃsaka, nakṣatra, nakra. Next: Napat pā-protecting/śatṛ and neuter num guard; Nakṣatra source-specific kṣar/kṣi root and prescribed tra/replacement/deletion histories. Independent ten-pāda ki 1.48 collation, Namuci dual/plural/other senses, earlier four designated full case/source-gender families and S1–S7/C2–C5 remain Open. They are not exclusions or a full-language denominator.

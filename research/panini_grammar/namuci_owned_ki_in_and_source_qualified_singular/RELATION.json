@@ -1,0 +1,212 @@
+{
+  "stage": "PG523",
+  "scope": "VCP28015 masculine Danu-son/asura Namuci, ordinary unaccented singular cases; two attributed Uṇādi histories, one stem/word ledger",
+  "paths": [
+    {
+      "id": "K_NYASA_KI",
+      "source_policy": "K63075/Nyāsa63075",
+      "root_id": "1060166",
+      "root_sense": "mokṣaṇa",
+      "preverb": null,
+      "voice": null,
+      "pada": "nominal affix; U root metadata not an ending choice",
+      "affix": "ki",
+      "marker_history": [
+        "initial k_IT under1.3.8, retained kit witness",
+        "inactive k under1.3.9; sounded i"
+      ],
+      "trace": [
+        "muc|ki → muc|i; root u guṇa blocked1.1.5 by actual kit",
+        "7.1.59 num requires actual śa; absent before Uṇādi ki",
+        "designated nañ retains its own n/a6.3.75",
+        "na|muci → namuci"
+      ],
+      "readout": "namuci"
+    },
+    {
+      "id": "TATTVA_IN_KIT",
+      "source_policy": "Tattva63075, five-pāda4.117/4.119, VCP28015 in",
+      "root_id": "1060166",
+      "root_sense": "mokṣaṇa",
+      "preverb": null,
+      "voice": null,
+      "pada": "nominal affix; U root metadata not an ending choice",
+      "affix": "in",
+      "marker_history": [
+        "final n_IT under1.3.3; inactive1.3.9",
+        "4.119 prescribes kit for ik-upadhā; no sounded k or second suffix"
+      ],
+      "trace": [
+        "muc|in → muc|i; prescribed kit blocks root u guṇa1.1.5",
+        "7.1.59 śa prerequisite false; present muñc- not copied",
+        "designated nañ retains n/a6.3.75",
+        "na|muci → namuci"
+      ],
+      "readout": "namuci"
+    }
+  ],
+  "rows": [
+    {
+      "profile": "NAMUCI_VCP_ASURA_M",
+      "gender": "m",
+      "case": "nom",
+      "number": "sg",
+      "readings": [
+        "namuciḥ"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0,
+      "old_reading_indices": [
+        0
+      ],
+      "trace": "old K63075 nominative withheld; su/s→ru→ḥ at pause"
+    },
+    {
+      "profile": "NAMUCI_VCP_ASURA_M",
+      "gender": "m",
+      "case": "acc",
+      "number": "sg",
+      "readings": [
+        "namucim"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "trace": "am: i+a pūrvarūpa6.1.107; m retained"
+    },
+    {
+      "profile": "NAMUCI_VCP_ASURA_M",
+      "gender": "m",
+      "case": "ins",
+      "number": "sg",
+      "readings": [
+        "namucinā"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "trace": "ghi/nonfeminine Ṭā→nā7.3.120; no ṇatva trigger"
+    },
+    {
+      "profile": "NAMUCI_VCP_ASURA_M",
+      "gender": "m",
+      "case": "dat",
+      "number": "sg",
+      "readings": [
+        "namucaye"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "trace": "ghi ṅe: terminal i→e7.3.111; e+a→ay6.1.78"
+    },
+    {
+      "profile": "NAMUCI_VCP_ASURA_M",
+      "gender": "m",
+      "case": "abl",
+      "number": "sg",
+      "readings": [
+        "namuceḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "trace": "ghi ṅasi: i→e; e+a pūrvarūpa6.1.110; ending s→ru→ḥ"
+    },
+    {
+      "profile": "NAMUCI_VCP_ASURA_M",
+      "gender": "m",
+      "case": "gen",
+      "number": "sg",
+      "readings": [
+        "namuceḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "trace": "ghi ṅas: i→e; e+a pūrvarūpa6.1.110; ending s→ru→ḥ"
+    },
+    {
+      "profile": "NAMUCI_VCP_ASURA_M",
+      "gender": "m",
+      "case": "loc",
+      "number": "sg",
+      "readings": [
+        "namucau"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "trace": "7.3.119 ghi terminal i→a and ṅi→au;6.1.88 coalescence"
+    },
+    {
+      "profile": "NAMUCI_VCP_ASURA_M",
+      "gender": "m",
+      "case": "voc",
+      "number": "sg",
+      "readings": [
+        "namuce"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "trace": "7.3.108 i→e;6.1.69 sambuddhi consonant lopa"
+    }
+  ],
+  "controls": [
+    {
+      "id": "REPLACE_MUC_WITH_PRESENT_MUNC",
+      "status": "Excluded_missing_sa_prerequisite",
+      "reason": "7.1.59 names śa; this is actual ki/in, not a present finite stem"
+    },
+    {
+      "id": "ROOT_1010196_OR_1100272",
+      "status": "Open_other_root_sense",
+      "reason": "idit boasting/talking and curādi causal-affix root have different ownership; no homonym merge"
+    },
+    {
+      "id": "ONE_RAW_AFFIX_FOR_BOTH_WITNESSES",
+      "status": "Excluded_provenance_collapse"
+    },
+    {
+      "id": "KIT_BLOCKS_LATER_CASE_GUNA",
+      "status": "Excluded_wrong_trigger_owner",
+      "reason": "inner kit blocks its own root guṇa; outer ṅit sup and vocative consult terminal nominal i"
+    },
+    {
+      "id": "KANDA_RPA_OR_OTHER_GENDER",
+      "status": "Open_other_lexical_profile"
+    },
+    {
+      "id": "DUAL_PLURAL_ACCENT_OR_VEDIC",
+      "status": "Open_unconstructed"
+    },
+    {
+      "id": "INDEPENDENT_TEN_PADA_KI_148",
+      "status": "Open_primary_collation"
+    },
+    {
+      "id": "UNKNOWN_ROOT_SENSE_OR_LEXICAL_ID",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 7,
+    "new_nominal_readings": 7,
+    "new_source_observations": 1
+  },
+  "source_observation_unit": "one addressed Vācaspatyam lexical entry 28015, not one per gloss/quotation/affix history",
+  "number_policy": "one supplied singular bearer, no claim that the lexical name is restricted to singular or that all numbers are constructed",
+  "native_types": [
+    "NamedMucFrame",
+    "QualifiedAffixFrame",
+    "OwnedMuciFrame",
+    "DesignatedNamuciStem",
+    "NamuciSingularQuery",
+    "NamuciSingularReading"
+  ]
+}

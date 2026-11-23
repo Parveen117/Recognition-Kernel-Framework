@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG522
+# Pāṇini grammar · current written coverage at PG523
+
+PG523 constructs [Namuci ki/in ownership and source-qualified masculine singular](namuci_owned_ki_in_and_source_qualified_singular/README.md): 7 new nominal positions/7 readings after withholding old namuciḥ; 1 morphology adapter/1 stem readout with 2 attributed histories; 1 Vācaspatyam entry observation; 0 finite additions. Actual kit blocks root guṇa, actual śa absent blocks present num; later outer case guṇa remains licensed. Totals 51,819 finite; 5,801 nominal/6,766 readings; wider gates Open.
 
 PG522 constructs [designated nañ retention and nested Nāsatya ownership](designated_nanj_retention_nested_nasatya_and_lexical_scope/README.md):1morphology adapter/6controlled readouts,0finite/nominal/source credits.Actualyat/satya then innerordinarynañ differs from outerretainednañ;no nuṭwithoutdeletedn.Nakula/nakha/nāka source-rūḍha scope explicit,not universalnaming.Tattvapluralnotnumberrestriction;gender/sourcecasefamiliesOpen.Totals51,819finite;5,794nominal/6,759readings;global gates Open.
 
