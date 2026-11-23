@@ -1,0 +1,114 @@
+{
+  "stage": "PG646",
+  "title": "Sapadi full VCP lexicalized avyaya and productive-rule block",
+  "predecessor_review": "PG633 already closes the Pāṇinian/PWG 5.4.128 ic/svarādi immediate-time sapadi route. PG636 separately closes only the VCP inner divādipad1040065 plus Uṇādi4.117 in interface and explicitly leaves the whole VCP saha→sa/composition/avyaya route Open. Reuse those frozen credits and the already observed exact VCP entry; do not count a second word or source observation.",
+  "frames": [
+    {
+      "id": "VCP_SAPADI_WHOLE",
+      "head": "sapadi",
+      "category": "avyaya",
+      "meaning": "at that instant; immediately",
+      "source_vigraha": "saha padyate",
+      "left": "saha",
+      "left_output": "sa",
+      "inner": "pad1040065+Uṇādi4.117in→padi (frozen PG636)",
+      "whole": "sa+padi→sapadi",
+      "affix": "Uṇādi in on the VCP route; not 5.4.128 ic",
+      "root_id": "1040065",
+      "sense": "gatau",
+      "preverb": null,
+      "finite_pada": null,
+      "voice": null,
+      "designation_owner": "VCP explicit avya0; lexicalized whole-route authorization",
+      "position_credit": 0,
+      "status": "Closed_source_relative"
+    }
+  ],
+  "compound_contracts": [
+    {
+      "id": "LEXICALIZED_SA_PADI",
+      "plans": [
+        "VCP supplied saha+padi context→source-specific sa+padi whole",
+        "whole sapadi retains inner pad/in history and explicit avyaya designation"
+      ]
+    }
+  ],
+  "semantic_contracts": [
+    {
+      "id": "IMMEDIATE_TIME",
+      "records": [
+        "tatkṣaṇe: at that instant",
+        "immediate-time reading, not a weapon/action reading"
+      ]
+    }
+  ],
+  "syntactic_contracts": [
+    {
+      "id": "PRODUCTIVITY_BOUNDARY",
+      "records": [
+        "6.3.81 productive avyayībhāva saha→sa is explicitly akāla and cannot license this time expression",
+        "6.3.82 optional bahuvrīhi route is not silently substituted for VCP explicit avyaya analysis",
+        "VCP source-relative lexical authorization closes the whole only for this head"
+      ]
+    },
+    {
+      "id": "HISTORY_SEPARATION",
+      "records": [
+        "VCP pad+in history remains distinct from PG633 5.4.128ic history",
+        "lexical saha is not installed as a verbal preverb of root pad",
+        "VCP citation OCR sapAda is retained as an unresolved display anomaly, not normalized into evidence"
+      ]
+    }
+  ],
+  "source_observations": [],
+  "source_policy": {
+    "id": "ADOPT_VCP_LEXICALIZED_WHOLE_WITH_PRODUCTIVE_BLOCK",
+    "new_policy_credit": 1,
+    "adopted": "Admit the exact VCP sapadi head as a source-authorized lexicalized avyaya with saha→sa and the frozen pad+in inner history.",
+    "boundary": "Do not generalize saha→sa to time-valued avyayībhāvas, merge in with 128ic, install saha as a verbal preverb, or silently repair the citation OCR."
+  },
+  "controls": [
+    {
+      "id": "WHOLE_VCP_SAPADI_IN",
+      "status": "Closed_source_relative"
+    },
+    {
+      "id": "SAHA_TO_SA_GATE_FOR_THIS_VCP_HEAD",
+      "status": "Closed_source_specific"
+    },
+    {
+      "id": "GENERAL_TIME_AVYAYIBHAVA_6_3_81",
+      "status": "Excluded_by_akāle"
+    },
+    {
+      "id": "VCP_IN_EQUALS_P633_IC",
+      "status": "Excluded"
+    },
+    {
+      "id": "VCP_CITATION_SAPADA_NORMALIZATION",
+      "status": "Open"
+    },
+    {
+      "id": "GENERAL_UNADI_PRODUCTIVITY_AND_ACCENT",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_positions": 0,
+    "new_position_readings": 0,
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 1,
+    "new_compound_constructions": 1,
+    "new_compound_readouts": 2,
+    "new_semantic_constructions": 1,
+    "new_semantic_readouts": 2,
+    "new_syntactic_constructions": 2,
+    "new_syntactic_readouts": 6,
+    "new_source_policy_decisions": 1,
+    "new_source_observations": 0
+  }
+}

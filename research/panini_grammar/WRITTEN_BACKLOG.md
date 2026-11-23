@@ -1,6 +1,6 @@
-# Written-development backlog at PG645
+# Written-development backlog at PG646
 
-Monty · 2026-11-24 · reviewed current parent bd74451e0f1ba11261cc1ae45e917455a28b27f7; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 3dcbb30858211ea483d2fc64521cc765070f5a1b; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1766,3 +1766,14 @@ Supadī source-relative meaning/Haim route locally CLOSED; remaining members/glo
 - Closed extended supadī source-relative meaning and Haim route without repeating list/case credits or merging the Pāṇinian/Vasu139 history.
 - K139 remaining seven: mālāpadī, munipadī, gopadī, kuṇapadī, sūpapadī, arvapadī, stanapadī. Extended remaining three: sūcīpadī, kalahamsapadī, viṣapadī. Other senses/cases/accent/critical priority remain Open.
 - Remaining128 and prior C2–C5/S1–S7/native/global obligations stay Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+
+### PG646 · Sapadi full VCP lexicalized avyaya and productive-rule block
+
+PG646: [Sapadi full VCP lexicalized avyaya and productive-rule block](sapadi_full_vcp_lexicalized_avyaya_and_productive_rule_block/README.md). The VCP sapadi whole is now source-relatively closed as lexicalized saha→sa + frozen pad/in and explicit avyaya “at that instant”; Kāśikā 6.3.81 akāle blocks a fabricated productive time route, and PG633ic stays separate. One morphology interface, one compound/two plans, one semantic/two records, two syntax/six records and one decision; zero positions or new source observations. Census 51,819 finite; 7,474 nominal/8,709 readings.
+
+VCP sapadi lexicalized whole locally CLOSED; productive/citation/global gates remain Open.
+
+- Closed the whole VCP sapadi-in composition/avyaya route only for the exact lexical head; reused PG636 inner pad+in and did not repeat PG633 word/ic credits.
+- VCP citation OCR sapAda, unrestricted Uṇādi productivity, accent/corpus detail and cross-history critical priority remain Open. Productive 6.3.81 time use is Excluded by akāle, not treated as an open wildcard.
+- K139 seven and extended139 three remain Open, alongside remaining128 variants and prior C2–C5/S1–S7/native/global obligations. Claude execution separate; PG335/PG357–363 CLOSED preserved.

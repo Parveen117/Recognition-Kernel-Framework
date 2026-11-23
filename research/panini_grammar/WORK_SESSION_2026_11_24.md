@@ -561,3 +561,19 @@ Supadī source-relative meaning/Haim route locally CLOSED; remaining members/glo
 - Remaining128 and prior C2–C5/S1–S7/native/global obligations stay Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG646 · Sapadi full VCP lexicalized avyaya and productive-rule block
+
+Previous publication: 3dcbb30858211ea483d2fc64521cc765070f5a1b; tree 0aa7bcbed24c13051d906f1c9c651e89d15443d5. Necessary check: Python 3.12.14, 53 assertions, 2 attempt(s).
+
+PG646: [Sapadi full VCP lexicalized avyaya and productive-rule block](sapadi_full_vcp_lexicalized_avyaya_and_productive_rule_block/README.md). The VCP sapadi whole is now source-relatively closed as lexicalized saha→sa + frozen pad/in and explicit avyaya “at that instant”; Kāśikā 6.3.81 akāle blocks a fabricated productive time route, and PG633ic stays separate. One morphology interface, one compound/two plans, one semantic/two records, two syntax/six records and one decision; zero positions or new source observations. Census 51,819 finite; 7,474 nominal/8,709 readings.
+
+PG521–646 cumulative: 1,696 nominal positions/1,966 readings, zero finite; 235 morphology/1,009 interfaces (819 nominal/stem+10 finite+180 avyaya); 121 compound/581 plans; 7 accent/27 records; 147 semantics/431 records; 107 syntax/294 records; 34 source-policy decisions after PG555−1; 268 observations. One provenance correction/one proof addendum; no new census correction.
+
+VCP sapadi lexicalized whole locally CLOSED; productive/citation/global gates remain Open.
+- Closed the whole VCP sapadi-in composition/avyaya route only for the exact lexical head; reused PG636 inner pad+in and did not repeat PG633 word/ic credits.
+- VCP citation OCR sapAda, unrestricted Uṇādi productivity, accent/corpus detail and cross-history critical priority remain Open. Productive 6.3.81 time use is Excluded by akāle, not treated as an open wildcard.
+- K139 seven and extended139 three remain Open, alongside remaining128 variants and prior C2–C5/S1–S7/native/global obligations. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG645
+# Pāṇini grammar · current written coverage at PG646
+
+PG646: [Sapadi full VCP lexicalized avyaya and productive-rule block](sapadi_full_vcp_lexicalized_avyaya_and_productive_rule_block/README.md). The VCP sapadi whole is now source-relatively closed as lexicalized saha→sa + frozen pad/in and explicit avyaya “at that instant”; Kāśikā 6.3.81 akāle blocks a fabricated productive time route, and PG633ic stays separate. One morphology interface, one compound/two plans, one semantic/two records, two syntax/six records and one decision; zero positions or new source observations. Census 51,819 finite; 7,474 nominal/8,709 readings.
 
 PG645: [Supadī good-feet reading and unmerged inventory histories](supadi_good_feet_and_unmerged_inventory_histories/README.md). Haim now positively supplies supadī “having good/beautiful feet” and the feminine supāt alternative under a general su+pāda route; the extended139 listed history stays distinct. One morphology/two interfaces, one compound/two plans, one semantic/two records, two syntax/six records, one observation/decision; zero positions. Census 51,819 finite; 7,474 nominal/8,709 readings.
 
