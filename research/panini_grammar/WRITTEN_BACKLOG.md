@@ -1,6 +1,6 @@
-# Written-development backlog at PG612
+# Written-development backlog at PG613
 
-Monty · 2026-11-24 · reviewed current parent 74a9f1dd164103ebe70aa7f5cb007ddd4ce18bc8; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 0f1536b3dec225d4e6d0f254711b86a6097cf008; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1403,3 +1403,14 @@ Ten selected127/128 action interfaces locally CLOSED; two bāhu sense channels/1
 - Closed selected127 four reciprocal and128 six action interfaces. Two deleted-ic bāhu adapters are constructed formally, but exact meaning remains Open. PG43 generic reciprocity and PG38 purpose-DAT policies receive no repeated credit.
 - Genuine remaining exact128 entries: ubhāñjali, ubhayāñjali, ubhākarṇi, ubhayākarṇi, ubhādanti, ubhayādanti, ubhāpāṇi, ubhayāpāṇi, ekapadi, prohyapadi, āḍhyapadi, sapadi, saṃhatapucchi. Short-a prohyapadi versus explicit long-ā prohyapādi, raw Nyāsa negative and Tattva short keśakeśi microtexts stay Open.
 - Next constructive frontier:129–130 jānu→jñu and131–134 final-segment replacements. Full accent, inner nikucya/prohya derivations, prior120/121/122/124/126 critical/semantic work and older C2–C5/S1–S7/native/global obligations remain Open. Claude execution is distinct.
+
+
+### PG613 · Whole jānu replacement and final-s anaṅ ownership
+
+PG613: [Whole jānu replacement and final-s anaṅ ownership](janu_whole_replacement_and_final_s_anang_owners/README.md). Four formation adapters/17 stem interfaces; three compound contracts/15 source plans; one meaning contract/four records; three scope contracts/seven records; six observations/two qualified source decisions. Zero new word/accent credits. Census:51,819 finite;6,670 nominal/7,904 readings.
+
+Selected129–133 owned replacement traces locally CLOSED; numeric/avyaya ūdhas and full written gates remain Open.
+
+- Closed selected129–133 whole-jānu/final-s/owned-vowel traces, including kuṇḍodhnī/ghaṭodhnī and named bow options. Existing PG38/PG45 policies receive no repeated credit.
+- Genuine remaining realization: dvyūdhnī, tryūdhnī, atyūdhnī, nirūdhnī, dvividhodhnī, trividhodhnī with PG45-marked ṅīp. Open: full case/gender/accent products, competing initial-an purpose explanations, exact literary dhṛtadhanuṣam scope and inner śārṅga etymology.
+- Next:134 jāyā final-ā→ni and135–137 intrinsic/quantity/comparison gandha. Exact128 thirteen-member backlog/two bāhu senses, prohyapadi microtext, earlier120/121/122/124/126 and all older C2–C5/S1–S7/native/global obligations stay Open. Claude execution is distinct.

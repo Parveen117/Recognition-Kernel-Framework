@@ -33,3 +33,19 @@ Ten selected127/128 action interfaces locally CLOSED; two bāhu sense channels/1
 - Next constructive frontier:129–130 jānu→jñu and131–134 final-segment replacements. Full accent, inner nikucya/prohya derivations, prior120/121/122/124/126 critical/semantic work and older C2–C5/S1–S7/native/global obligations remain Open. Claude execution is distinct.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG613 · Whole jānu replacement and final-s anaṅ ownership
+
+Previous publication: 0f1536b3dec225d4e6d0f254711b86a6097cf008; tree 424d6eed826e7ac783bdb03fc42453e2d43349cd. Necessary check: Python 3.12.14, 76 assertions, 1 attempt(s).
+
+PG613: [Whole jānu replacement and final-s anaṅ ownership](janu_whole_replacement_and_final_s_anang_owners/README.md). Four formation adapters/17 stem interfaces; three compound contracts/15 source plans; one meaning contract/four records; three scope contracts/seven records; six observations/two qualified source decisions. Zero new word/accent credits. Census:51,819 finite;6,670 nominal/7,904 readings.
+
+PG521–613 cumulative:892 nominal positions/1,161 readings, zero finite;176 morphology constructions/783 interfaces (617 nominal/stem +10 finite +156 avyaya);70 compound contracts/355 plans;7 accent constructions/27 records;87 semantic contracts/251 records;38 syntax contracts/126 records;16 source-policy decisions after PG555−1;163 source observations (6 VCP +35 primary Bhāṣya +24 paired commentary +45 Nyāsa +18 Tattva +24 Bāla +11 K cross-rule observations). One additive register-provenance correction; no census effect.
+
+Selected129–133 owned replacement traces locally CLOSED; numeric/avyaya ūdhas and full written gates remain Open.
+- Closed selected129–133 whole-jānu/final-s/owned-vowel traces, including kuṇḍodhnī/ghaṭodhnī and named bow options. Existing PG38/PG45 policies receive no repeated credit.
+- Genuine remaining realization: dvyūdhnī, tryūdhnī, atyūdhnī, nirūdhnī, dvividhodhnī, trividhodhnī with PG45-marked ṅīp. Open: full case/gender/accent products, competing initial-an purpose explanations, exact literary dhṛtadhanuṣam scope and inner śārṅga etymology.
+- Next:134 jāyā final-ā→ni and135–137 intrinsic/quantity/comparison gandha. Exact128 thirteen-member backlog/two bāhu senses, prohyapadi microtext, earlier120/121/122/124/126 and all older C2–C5/S1–S7/native/global obligations stay Open. Claude execution is distinct.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

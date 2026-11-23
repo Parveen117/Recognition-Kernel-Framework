@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG613: [Whole jānu replacement and final-s anaṅ ownership](research/panini_grammar/janu_whole_replacement_and_final_s_anang_owners/README.md). Four formation adapters/17 stem interfaces; three compound contracts/15 source plans; one meaning contract/four records; three scope contracts/seven records; six observations/two qualified source decisions. Zero new word/accent credits. Census:51,819 finite;6,670 nominal/7,904 readings.
+
 PG612: [Reciprocal ic, named actions and deleted-affix visibility](research/panini_grammar/reciprocal_ic_named_action_frames_and_deleted_suffix_visibility/README.md). Four formation adapters/12 avyaya interfaces (ten selected actions locally closed; two bāhu senses Open); three compound contracts/12 plans; two meaning contracts/ten records; three scope contracts/seven records; five observations/one qualified source decision. Zero new word/accent credits. Census:51,819 finite;6,670 nominal/7,904 readings.
 
 PG611: [Dharma trees, jambha senses and hunter-caused wound](research/panini_grammar/dharma_compound_trees_jambha_senses_and_hunter_wound/README.md). Four formation families/14 stem interfaces; three compound contracts/19 plans; three meaning contracts/12 records; two scope contracts/six records; five observations and one conditional reported-source decision. Zero new word/accent credits. Census:51,819 finite;6,670 nominal positions/7,904 readings.
