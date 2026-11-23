@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG576
+# Pāṇini grammar · current written coverage at PG577
+
+PG577 constructs [kāla,Vinayādi,message-action and prepared auṣadha](kala_vinayadi_message_action_and_prepared_ausadha/README.md):five morphology adapters/19stems;three meaning contracts/five frames;three source observations;zero word/accent/new-policy credits. Member shortening/underlyingd,actual vāc-message/karman-action and non-kind remedy retain owners;kathañcit/36extensions/wider gates Open. Totals51,819finite;6,408nominal/7,631readings.
 
 PG576 adds [dyed lohita-kan feminine cases with two accepted reading branches](lohita_kan_dyed_feminine_case_grid_two_reading_branches/README.md):24newunique nominal keys/48written readings,0finite/source/policy/accent/new-construction credits. Onecase-keyfamily,two readings,three retained Fhistories;ending consumer reused. Totals51,819 finite;6,408 nominal/7,631 readings;selected dyed-Fpanel CLOSED,wider gates Open.
 
