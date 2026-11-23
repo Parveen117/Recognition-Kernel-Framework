@@ -1,6 +1,6 @@
-# Written-development backlog at PG511
+# Written-development backlog at PG512
 
-Monty · 23 November 2026 · reviewed parent f984f94b4a247e9b9a8119be1748f8917e34fda9.
+Monty · 23 November 2026 · reviewed parent 3a8981458139852afa17565e6f0fc4d6a41740b8.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -681,3 +681,9 @@ PG509 positive bahuvrīhi pointer superseded only for these source-qualified3ste
 PG511 completes [counted bahuvrīhi plural M/F/N cases and nasal ownership](counted_bahuvrihi_plural_genders_and_outer_nasal_owners/README.md):69new nominal positions/69readings,0finite/source/separate construction credits.72plural keys/readings minus3oldMnom.pl;ordinary ṭāp distinguishes ḍit from ṭit.Dvitra gen/Nnum ṇ versus padānta acc n;tridaśa r blocked by dental d.PG510 number/source policies retained without double word credits.Totals51,819finite;5,303nominal/6,256readings;global gates Open.
 
 PG510 pluralcase pointer superseded only for supplied counted M/F/Nhead/policy frames at72keys72readings.Other number/meaning/head/nearby/abstract/tatpuruṣa/inner lexical families and fullaccent/Vedic/teacher products remain Open;primary-versus-Nyāsa critical/printed difference not resolved by shared word tables.Next actual source/register contracts include5.4.73 near-count upa/āsanna/adūra/adhika versus pure-number controls and nistrimśa tatpuruṣa extension;review prior prose/factored/state before credit.S1-S7/C2-C5/native/Claude distinct,S5fourfields99/103direct.
+
+## PG512 · Near/crossed-limit stem contracts and primary restriction policy
+
+PG512 constructs [near-count ḍac and crossed-limit tatpuruṣa source policies](near_count_dac_and_nistrimsa_tatpurusa_scope_policies/README.md):2morphology adapters/14stem readouts,1primary electronic Bhāṣya54073 observation;0finite/nominal additions.Near-count2.2.25 differs from restricted nis numeral-tatpuruṣa;an/ti/at targets and6.1.97pararūpa owned.Primary explicit-both/avyaya-sufficient histories retained;same upagaṇa spelling does not proveḍac/accent.Totals51,819finite;5,303nominal/6,256readings;global gates Open.
+
+PG511 near-count/nistrimśa pointers superseded only for supplied12near-count/2crossed-limit stems.Primary54073restriction locator locally CLOSED,not independent print/critical final-alternative resolution.Genuine next:source yearsNversus swordM nistriṃśa cases and right-member semantic membership;near-count external plural gender/cases with known proximity/excess(never invented universal±1bound).Other compound/prefix/head/abstract/bahu-gaṇa/accent/teacher/source policies remain Open.S1-S7/C2-C5/native/Claude separate,S5fourfields99/103direct.

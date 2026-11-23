@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG511
+# Pāṇini grammar · current written coverage at PG512
+
+PG512 constructs [near-count ḍac and crossed-limit tatpuruṣa source policies](near_count_dac_and_nistrimsa_tatpurusa_scope_policies/README.md):2morphology adapters/14stem readouts,1primary electronic Bhāṣya54073 observation;0finite/nominal additions.Near-count2.2.25 differs from restricted nis numeral-tatpuruṣa;an/ti/at targets and6.1.97pararūpa owned.Primary explicit-both/avyaya-sufficient histories retained;same upagaṇa spelling does not proveḍac/accent.Totals51,819finite;5,303nominal/6,256readings;global gates Open.
 
 PG511 completes [counted bahuvrīhi plural M/F/N cases and nasal ownership](counted_bahuvrihi_plural_genders_and_outer_nasal_owners/README.md):69new nominal positions/69readings,0finite/source/separate construction credits.72plural keys/readings minus3oldMnom.pl;ordinary ṭāp distinguishes ḍit from ṭit.Dvitra gen/Nnum ṇ versus padānta acc n;tridaśa r blocked by dental d.PG510 number/source policies retained without double word credits.Totals51,819finite;5,303nominal/6,256readings;global gates Open.
 
