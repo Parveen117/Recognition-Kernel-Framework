@@ -1,4 +1,4 @@
-# Written-development backlog at PG515
+# Written-development backlog at PG516
 
 Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
@@ -717,3 +717,9 @@ PREDECESSOR_REVIEW.md as frozen predecessors,not rewritten coverage.
 PG515 constructs [dhur axle-relation/plain-a and typed unsuffixed controls](dhur_axle_relation_plain_a_and_typed_unsuffixed_controls/README.md):1morphology adapter/4controlled readouts,0finite/nominal/source additions.Relational axle guard handles GENpart and external-bearer frames;plaina versus r-final output types retained.K rājadhurā selected,Nyāsa rājadhūrā critical reading Open.Mahādhura retains internal puṃvad/coreference and externalM.Totals51,819finite;5,614nominal/6,568readings;global gates Open.
 
 PG514dhuradapter pointer superseded only on these4typed frames.PG37/38qualifier register unchanged,no recredit.Concrete remaining:source short-u rājadhurāF/mahādhuraM cases;proper dhur lexical/root/pada evidence before r-final case realization;Nyāsa long-u source-critical decision;ṛc student/school versus sāman/sūkta/kap mechanisms.Source differences remain Open,not excluded to close coverage.S1-S7/C2-C5/native/Claude separate.
+
+## PG516 · Selected non-axle cases closed
+
+PG516 completes [non-axle dhur feminine/masculine cases and owned ṇatva](nonaxle_dhur_feminine_masculine_cases_and_natva/README.md):46new nominal positions/47readings,0finite/source/separate construction credits.48keys49readings minus2old nominatives;selectedKshort-u profiles only.Gen.pl/Mins.sg ṇ versus padānta Macc.pl n;one Mabl.sg t/dpair.Unsuffixed axle-r outputs and Nyāsa long-u source reading remain separate/Open.Totals51,819finite;5,660nominal/6,615readings;global gates Open.
+
+PG515 case pointer superseded only for Kshort-u FGEN/Mbahuvrīhi48keys49readings.Next actual work:independent dhur nominal/root/pada evidence for r-final axle cases,Nyāsa rājadhūrā critical decision,and5.4.74 ṛc student/school versus text/kap mechanisms(not old qualifier recredit).S1-S7/C2-C5/native/fullaccent/teacher and Claude execution separate;no unknownsourcegap excluded to claim completion.

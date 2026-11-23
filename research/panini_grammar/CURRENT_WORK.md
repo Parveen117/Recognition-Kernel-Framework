@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG515
+# Pāṇini grammar · current written coverage at PG516
+
+PG516 completes [non-axle dhur feminine/masculine cases and owned ṇatva](nonaxle_dhur_feminine_masculine_cases_and_natva/README.md):46new nominal positions/47readings,0finite/source/separate construction credits.48keys49readings minus2old nominatives;selectedKshort-u profiles only.Gen.pl/Mins.sg ṇ versus padānta Macc.pl n;one Mabl.sg t/dpair.Unsuffixed axle-r outputs and Nyāsa long-u source reading remain separate/Open.Totals51,819finite;5,660nominal/6,615readings;global gates Open.
 
 PG515 constructs [dhur axle-relation/plain-a and typed unsuffixed controls](dhur_axle_relation_plain_a_and_typed_unsuffixed_controls/README.md):1morphology adapter/4controlled readouts,0finite/nominal/source additions.Relational axle guard handles GENpart and external-bearer frames;plaina versus r-final output types retained.K rājadhurā selected,Nyāsa rājadhūrā critical reading Open.Mahādhura retains internal puṃvad/coreference and externalM.Totals51,819finite;5,614nominal/6,568readings;global gates Open.
 
