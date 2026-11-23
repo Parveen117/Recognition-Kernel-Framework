@@ -1022,3 +1022,16 @@ PG591 constructs [radiance,darkness and blessing ac layers](radiance_darkness_an
 Actual1100471adantaCurādiU/S/Sdṛṣṭyupaghātanityaṇic;finala-lopa64048,sourcepacādi31134kṛtac/64051ṇic-i-lopa→andha,distinctouterac→andhatamasa. Varcasradiance4owners/palyameat-eater,79separateprādiaccounts,80actualblessingandvasunotavascomparativeparent. Sourceśvasru61114+guṇao_beforevversusvisarga/śśbeforeś;raw80ās/āonotrepaired.0oldword/policycredits.
 
 PG521–591 cumulative:676nominalpositions/936readings,0finite;114morphologyconstructions/519interfaces(399nominal/stem+10finite+110avyaya);19compoundcontracts/85readouts;7accentconstructions/27records;48semanticcontracts/135readouts;17syntaxcontracts/61readouts;7source-policydecisionsafterPG555−1;89sourceobservations(6VCP+33primaryBhāṣya+15pairedcommentarylocators+24Nyāsa+3Tattva+4Bāla+4Kcrossrule). Census51,819finite;6,454nominal/7,679readings.PG591piniscontainingpublication;prioractualcommitabove. Actual81onward/critical/inner/citation-i/case/accent/member/native/globalgatesOpen;Claudeexecutiondeferred.PreservePG335/PG357–363CLOSED;nonforceexistingreviewbranchonly,no mainmerge,ETA,inferredhours/fullSanskritclaim.
+
+
+## PG592 · Actual LOC,length and posterior relation guards
+
+PG591 published005d74186d0ced20b1a12a8e2dfec9bbee2b9560,treefccac1b8acbb67207fc42d519970f0536446d5be;Python3.12.14,112assertions,oneattempt. FirstpublicationleasecommandyieldedrunningPTYandwasmistakenforremotechange;pollconfirmedactualparentunchanged. PublishernowwaitscommandcompletionbeforeSHAcomparison;noactualconcurrentedit,sourcechangeorforce. Fetched/alignedcleanparent,noothereditorobserved.
+
+PG592 constructs [rahas,uras and cattle-length relations](rahas_uras_and_cattle_length_owned_relations/README.md): three recipes/seven interfaces,five ac and two valid no-ac;two compound contracts/nine plans,one case contract/two frames,two meaning contracts/four frames and three observations. Zero word/accent/policy credits. Actual LOC,length/posterior and suffix-junction histories retained;wider gates Open. Totals 51,819 finite;6,454 nominal/7,679 readings.
+
+Rahasretaineds/acwithprādi/BV/sourceplacemeanings;taptainnerrootnotinvented. Actual82LOCpratyurasawithacvsvalidnonLOCpratyuraswithout.83anugavaactualsourcevehiclelengthandfinalo→avbeforeacvsanuguaftercows/noac/o→uhrasva;notgavākṣafirst-junctionavaṅ. NewsourceunitsNyāsa81,Bāla81embedded82,andpairedBāla/Nyāsa83.0oldword/policycredits.
+
+PG521–592 cumulative:676nominalpositions/936readings,0finite;117morphologyconstructions/526interfaces(406nominal/stem+10finite+110avyaya);21compoundcontracts/94readouts;7accentconstructions/27records;50semanticcontracts/139readouts;18syntaxcontracts/63readouts;7source-policydecisionsafterPG555−1;92sourceobservations(6VCP+33primaryBhāṣya+16pairedcommentarylocators+25Nyāsa+3Tattva+5Bāla+4Kcrossrule). Census51,819finite;6,454nominal/7,679readings.PG592piniscontainingpublication;prioractualcommitabove. Actual84onward/critical/inner/citation-i/case/accent/member/native/globalgatesOpen;Claudeexecutiondeferred.PreservePG335/PG357–363CLOSED;nonforceexistingreviewbranchonly,no mainmerge,ETA,inferredhours/fullSanskritclaim.
+
+PG592sourceboundary:Nyāsa83rawबाह्रं/तुल्यामामंcarryphrasecriticalOpen,notanewabsolutevehicleexclusion;positiveK/Bālalengthwitnessretained.

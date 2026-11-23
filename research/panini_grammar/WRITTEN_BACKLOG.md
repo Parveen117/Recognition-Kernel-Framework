@@ -1,6 +1,6 @@
-# Written-development backlog at PG591
+# Written-development backlog at PG592
 
-Monty · 23 November 2026 · reviewed current parent 0ce609b647a6fc378a9070664a6f8a1053b0e200; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 005d74186d0ced20b1a12a8e2dfec9bbee2b9560; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1242,3 +1242,12 @@ Selected25core+2extensionslocallyCLOSED;primary/Kcaturglosses,Kaumudidāragāvam
 PG591 constructs [radiance,darkness and blessing ac layers](radiance_darkness_and_blessing_owned_ac_layers/README.md): four formation recipes/ten interfaces,nine outer and one inner andha;three compound contracts/11 plans,one meaning contract/four frames and three observations. Zero word/accent/policy credits. Actual1100471Curādi-kṛt-ac versus outertaddhita-ac,s-final and blessing/parent histories retained;wider gates Open. Totals 51,819 finite;6,454 nominal/7,679 readings.
 
 Selected78–80interfaceslocallyCLOSED. Palyainnerya,prādimultiplemeanings,raw80ās/āocriticalrepairandfullcase/accentworkOpen. Actual81onwardandpriordaśabhūmaka/pur/citation-i/critical/lexical/C2–C5/S1–S7/member/source/native/globalwork remains;Claudeexecutionseparate.
+
+
+### PG592 · Validno-acbranchesarenotwholewordexclusions
+
+PG592 constructs [rahas,uras and cattle-length relations](rahas_uras_and_cattle_length_owned_relations/README.md): three recipes/seven interfaces,five ac and two valid no-ac;two compound contracts/nine plans,one case contract/two frames,two meaning contracts/four frames and three observations. Zero word/accent/policy credits. Actual LOC,length/posterior and suffix-junction histories retained;wider gates Open. Totals 51,819 finite;6,454 nominal/7,679 readings.
+
+Selected81–83interfaceslocallyCLOSED. Taptafirstnominalinnerroot/niṣṭhā,rahasmeaningintegration,fullcase/accentandactual84onwardremainunconstructed. Earlierdaśabhūmaka/pur/palya/citation-i/critical/lexical/C2–C5/S1–S7/source/native/globalgatesOpen;Claudeexecutionseparate.
+
+Nyāsa83rawबाह्रं/तुल्यामामंphrasecriticalrepairremainsOpen;reportedcattle-carriedreadingnotanewabsoluteguard. K/Bālalengthwitnesspositive.

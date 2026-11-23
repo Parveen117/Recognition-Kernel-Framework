@@ -1,0 +1,294 @@
+{
+  "stage": "PG592",
+  "frames": [
+    {
+      "id": "ANU_RAHAS",
+      "first_member": "anu",
+      "right_member": "rahas",
+      "readout": "anurahasa",
+      "suffix": "ac",
+      "markers": [
+        "c_IT"
+      ],
+      "payload": "a",
+      "route": "retainright_s_beforeactualac_a",
+      "domain": "81actualnamedcompound",
+      "status": "Accepted",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "AVA_RAHAS",
+      "first_member": "ava",
+      "right_member": "rahas",
+      "readout": "avarahasa",
+      "suffix": "ac",
+      "markers": [
+        "c_IT"
+      ],
+      "payload": "a",
+      "route": "retainright_s_beforeactualac_a",
+      "domain": "81actualnamedcompound",
+      "status": "Accepted",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "TAPTA_RAHAS",
+      "first_member": "tapta_supplied_nominal",
+      "right_member": "rahas",
+      "readout": "taptarahasa",
+      "suffix": "ac",
+      "markers": [
+        "c_IT"
+      ],
+      "payload": "a",
+      "route": "retainright_s;taptais_sourceconcealmentmetaphornot_newrootproof",
+      "domain": "81actualnamedcompound",
+      "status": "Accepted",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "PRATI_URAS_LOC",
+      "first_member": "prati_LOCmeaning",
+      "right_member": "uras",
+      "readout": "pratyurasa",
+      "suffix": "ac",
+      "markers": [
+        "c_IT"
+      ],
+      "payload": "a",
+      "route": "61077firsti_to_y_before_u;retainright_s_beforeac_a",
+      "domain": "82actualLOCmeaning_avyayībhāva",
+      "status": "Accepted",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "PRATI_URAS_OTHER",
+      "first_member": "prati_gata",
+      "right_member": "uras",
+      "readout": "pratyuras",
+      "suffix": null,
+      "markers": [],
+      "payload": "",
+      "route": "61077firsti_yan;retainconsonantfinaluras;sourceNOMpratyuraḥnotnewcasekey",
+      "domain": "82nonLOCpositivecompound_with_no82ac",
+      "status": "Accepted_different_noac_domain",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "ANU_GO_LENGTH",
+      "first_member": "anu",
+      "right_member": "go",
+      "readout": "anugava",
+      "suffix": "ac",
+      "markers": [
+        "c_IT"
+      ],
+      "payload": "a",
+      "route": "named83lengthnipātana;14018bha_beforeac;61078final_o_to_av_plus_a",
+      "domain": "83sourcecattlelength_vehicleframe",
+      "status": "Accepted",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "ANU_GO_AFTER",
+      "first_member": "anu",
+      "right_member": "go",
+      "readout": "anugu",
+      "suffix": null,
+      "markers": [],
+      "payload": "",
+      "route": "12048upasarjanago_hrasva;11048o_hrasvais_u",
+      "domain": "posterior_aftercows_avyayībhāva21006;not83length",
+      "status": "Accepted_different_noac_domain",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    }
+  ],
+  "compound_frames": [
+    {
+      "id": "81ANU_PRĀDI",
+      "input": "anu+rahas",
+      "class_after": "prādi_compound",
+      "meaning": "anugata_rahas_sourceaccount"
+    },
+    {
+      "id": "81ANU_BV",
+      "input": "anu+rahas",
+      "class_after": "bahuvrīhi",
+      "meaning": "anugata_rahas_asmin"
+    },
+    {
+      "id": "81AVA_PRĀDI",
+      "input": "ava+rahas",
+      "class_after": "prādi_compound",
+      "meaning": "avahīna_rahas_or_rahasā_sourceaccount"
+    },
+    {
+      "id": "81AVA_BV",
+      "input": "ava+rahas",
+      "class_after": "bahuvrīhi",
+      "meaning": "avahīna_rahas_asmin"
+    },
+    {
+      "id": "81TAPTA",
+      "input": "tapta+rahas",
+      "class_after": "karmadhāraya",
+      "meaning": "sourceunperceived/undisclosed_secret"
+    },
+    {
+      "id": "82LOC",
+      "input": "prati+uras",
+      "class_after": "avyayībhāva",
+      "meaning": "urasi_LOCmeaning21006"
+    },
+    {
+      "id": "82NONLOC",
+      "input": "prati+uras",
+      "class_after": "prādi_compound",
+      "meaning": "pratigata_uras_no82ac"
+    },
+    {
+      "id": "83LENGTH",
+      "input": "anu+go",
+      "class_after": "avyayībhāva",
+      "meaning": "actual21016cattlelength_vehicle"
+    },
+    {
+      "id": "83AFTER",
+      "input": "anu+go",
+      "class_after": "avyayībhāva",
+      "meaning": "after_cows21006_no83ac"
+    }
+  ],
+  "case_frames": [
+    {
+      "id": "LOC_SENSE",
+      "input": "urasi_meaning",
+      "output": "pratyurasa_with82ac",
+      "source": "K82_Bāla81embedded82LOC-dyotakaaccount"
+    },
+    {
+      "id": "OTHER_SENSE",
+      "input": "pratigata_uras",
+      "output": "pratyuras_without82ac",
+      "source": "K_Nyāsa82differentcompound"
+    }
+  ],
+  "semantic_frames": [
+    {
+      "id": "SECRECY",
+      "witness": "Nyāsa_Tattvaaprākāśa_nonpublicmeaning",
+      "source": "81"
+    },
+    {
+      "id": "PLACE",
+      "witness": "Bālasecret/unilluminatedplace_description",
+      "source": "81"
+    },
+    {
+      "id": "CATTLE_LENGTH",
+      "witness": "sourcevehicle_equalincattlelength;NyāsarawcarriedphrasecriticalOpen_notnewresolvedguard",
+      "source": "83namednipātana"
+    },
+    {
+      "id": "POSTERIOR",
+      "witness": "following_aftercows_notlength",
+      "source": "83control"
+    }
+  ],
+  "controls": [
+    {
+      "id": "no82ac_means_no_valid_pratiuras_word",
+      "status": "Excluded_positivenonLOCcompoundretained"
+    },
+    {
+      "id": "anyprati_uras_gets82ac",
+      "status": "Excluded_actualLOCmeaningrequired"
+    },
+    {
+      "id": "allanu_go_relations_have83ac",
+      "status": "Excluded_actualsourcevehiclelengthguard"
+    },
+    {
+      "id": "anugava_newverbalroot_or_preverb",
+      "status": "Excluded_nominalsourceframe"
+    },
+    {
+      "id": "gavākṣa_mandatoryavaṅ_equals83suffixav",
+      "status": "Excluded_differentjunctionandbha_ownedcontext"
+    },
+    {
+      "id": "noac_anugu_uses_o_to_av_anyway",
+      "status": "Excluded_actualshortucontrol"
+    },
+    {
+      "id": "tapta_root_niṣṭhā_history_fullyconstructed",
+      "status": "Open_suppliedsourcefirstnominalonly"
+    },
+    {
+      "id": "allrahas_sourceplaces_meaningsunified",
+      "status": "Open_namedacceptedaccountsremainseparate"
+    },
+    {
+      "id": "all83vehicles_or_recitation_and_casegrids",
+      "status": "Open_namedsourceclass_only"
+    },
+    {
+      "id": "fullsource_native_global",
+      "status": "Open"
+    },
+    {
+      "id": "Nyāsa83bāhra_tulyāmāma_carryphrase",
+      "status": "Open_rawphrase_notcriticallyrepaired_or_newabsolute_vehicleexclusion"
+    }
+  ],
+  "source_observation_units": [
+    "Nyāsa81namedconcealment/taptaandprādi_bahuvrīhimeanings",
+    "Bāla81embedded82actualLOCdyotakaexplanation",
+    "paired_Bāla_Nyāsa83finalo_avbeforesuffix_and_namedvehiclelengthrestrictions"
+  ],
+  "counts": {
+    "new_morphological_constructions": 3,
+    "new_morphological_readouts": 7,
+    "new_compound_constructions": 2,
+    "new_compound_readouts": 9,
+    "new_syntactic_constructions": 1,
+    "new_syntactic_readouts": 2,
+    "new_semantic_constructions": 2,
+    "new_semantic_readouts": 4,
+    "new_source_observations": 3,
+    "new_source_policy_decisions": 0,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  },
+  "unit_boundary": "3recipes7interfaces(5ac+2validnoac);2compoundcontracts9plans;1casecontract2frames;2meaningcontracts4frames;3observations.0word/accent/policycredits."
+}
