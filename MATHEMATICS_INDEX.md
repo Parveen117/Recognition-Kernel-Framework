@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG579 constructs [Vedic praise,śas unit policies and case-owned tasi](research/panini_grammar/vedic_praise_sas_unit_policies_and_case_owned_tasi/README.md):three morphology adapters/30interfaces;two syntax contracts/nine frames;one meaning contract/two frames;four source observations;one new qualified Vāmana contextual-unit policy. Zero word/accent credits;root/case/policy owners retained. Totals51,819finite;6,408nominal/7,631readings;wider gates Open.
+
 PG578 constructs [prājña affix/gender contrast and clay-owned i after luk](research/panini_grammar/prajna_affix_gender_contrast_and_clay_owned_i_after_luk/README.md):four morphology adapters/10stems;one price-dvigu compound/one readout;one meaning contrast/three frames;three source observations;zero word/accent/new-policy credits. Root/suffix/gender and inner-i/outer-affix/āp-LUK owners preserved;praise source accounts separate. Totals51,819finite;6,408nominal/7,631readings;wider gates Open.
 
 PG577 constructs [kāla,Vinayādi,message-action and prepared auṣadha](research/panini_grammar/kala_vinayadi_message_action_and_prepared_ausadha/README.md):five morphology adapters/19stems;three meaning contracts/five frames;three source observations;zero word/accent/new-policy credits. Member shortening/underlyingd,actual vāc-message/karman-action and non-kind remedy retain owners;kathañcit/36extensions/wider gates Open. Totals51,819finite;6,408nominal/7,631readings.

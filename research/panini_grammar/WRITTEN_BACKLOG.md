@@ -1,6 +1,6 @@
-# Written-development backlog at PG578
+# Written-development backlog at PG579
 
-Monty · 23 November 2026 · reviewed current parent d6c0dd3fb4c5b1817fbbe33ee74905cfe21227dc; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 8f9705001575f755bca777b98890695ac092e2b4; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1151,3 +1151,10 @@ Selected33–37interfaceslocallyCLOSED. Kathañcit innerṭi-lopa/kādeśa/fullr
 PG578 constructs [prājña affix/gender contrast and clay-owned i after luk](prajna_affix_gender_contrast_and_clay_owned_i_after_luk/README.md):four morphology adapters/10stems;one price-dvigu compound/one readout;one meaning contrast/three frames;three source observations;zero word/accent/new-policy credits. Root/suffix/gender and inner-i/outer-affix/āp-LUK owners preserved;praise source accounts separate. Totals51,819finite;6,408nominal/7,631readings;wider gates Open.
 
 Selected38core/memberand39–40paths locallyCLOSED underdeclaredaccounts. LargePrājñādimembers/36extensions/body-animal/vidan-vidvasinnercontracts remainOpen,notexcluded. K/Tattvamandatorypraise versus Bāla40reportedoptionalobjection,Tattva39rawheading/cases/accent/source/native/global gates Open. Nextactualmemberwork/41–49afterreview;Claude execution distinct.
+
+
+### PG579 · A positive contextual unit policy alongside strict measure scope
+
+PG579 constructs [Vedic praise,śas unit policies and case-owned tasi](vedic_praise_sas_unit_policies_and_case_owned_tasi/README.md):three morphology adapters/30interfaces;two syntax contracts/nine frames;one meaning contract/two frames;four source observations;one new qualified Vāmana contextual-unit policy. Zero word/accent credits;root/case/policy owners retained. Totals51,819finite;6,408nominal/7,631readings;wider gates Open.
+
+StrictK/Jāyāditya43counterexample is not universaljati exclusion:reportedVāmanachannelallowsactualcontextualone-unitjātirequests,K71020corroborateskuṇḍaśas/vanaśaswhileblockingdifferentcaseśi. Ghaṭaśasrule-derivedonlyunderthatsuppliedpolicy/witness.41–49selectedinterfaceslocallyCLOSED;fullpronominal/case/independentcritical/accentworkOpen. Priorlargegaṇa/36extensions/kathañcit/aps/toy/rañ-raṇ/praise/source/native/globalgatesremain;Claudeexecutionseparate. Nextactualmemberand50–55afterreview.
