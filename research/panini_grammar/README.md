@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG504 completes [ahṛdaya bhāva tva N/tal Fcases](ahrdaya_bhava_tva_tal_owned_gender_and_cases/README.md):46new nominal positions/47readings,0finite/source/separate construction credits.48keys49readings withhold2old nominatives.PG503 prospective compound/aṇ guard retained;outer abstract genders,num/nuṭ/ṭāp and Nablative pause t/d owned.Totals51,819finite;5,179nominal/6,128readings;global gates Open.
+
 PG503 resolves [Nyāsa asamāsa and prospective compound guard](hrdaya_asamasa_nyasa_and_prospective_compound_guard/README.md):1selection/composition construction/2stem readouts,1primary-commentary observation,0finite/nominal additions.Ase=asamāse;intended compound blocks early aṇ,then nañ→ahṛdaya and eligible tva/tal yield ahṛdayatva/ahṛdayatā.Nyāsa63050 idam/aṇ retained separately;PG501/502 frozen.Totals51,819finite;5,133nominal/6,081readings;global gates Open.
 
 PG502 completes [VCP-qualified hārda-karman neuter cases](harda_vcp_karman_neuter_and_source_scoped_gender/README.md):23new nominal positions/24readings,0finite/separate construction credits,1lexical-entry observation.VCP na0 belongs to sneha/prema karma,not all idam/tri-gender senses.Raw hArdda retained;Śākalya single-d and ablative pause t/d explicit.24keys25readings withhold1oldnom.control.Totals51,819finite;5,133nominal/6,081readings;wider gates Open.

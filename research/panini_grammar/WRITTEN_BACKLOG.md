@@ -1,6 +1,6 @@
-# Written-development backlog at PG503
+# Written-development backlog at PG504
 
-Monty · 23 November 2026 · reviewed parent ada8e37177a83a34fe1b61196ccdae6eaebffd91.
+Monty · 23 November 2026 · reviewed parent e81dd3d0349d0ae7a4be1a3ffe1ebe1ec931aad3.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -633,3 +633,9 @@ Selected VCP hṛdayasya karma affection N24keys25readings locally CLOSED,not or
 PG503 resolves [Nyāsa asamāsa and prospective compound guard](hrdaya_asamasa_nyasa_and_prospective_compound_guard/README.md):1selection/composition construction/2stem readouts,1primary-commentary observation,0finite/nominal additions.Ase=asamāse;intended compound blocks early aṇ,then nañ→ahṛdaya and eligible tva/tal yield ahṛdayatva/ahṛdayatā.Nyāsa63050 idam/aṇ retained separately;PG501/502 frozen.Totals51,819finite;5,133nominal/6,081readings;global gates Open.
 
 PG502 asamāsa meaning/prospective-compound condition now LOCATED and constructed under Nyāsa51130;raw digital/printed critical collation remains Open.This supersedes only the semantic-qualifier question,not all gaṇa/print obligations.Nyāsa63050 preserves idam reading,so do not globally reject PG501.Closed oldcasegrids receive no new credits.Other intended-compound classes/unknown-intent/priority domains,independent hṛd lexical profiles and S1-S7/C2-C5/native/Claude execution remain Open.S5fourfieldsstill99/103direct.
+
+## PG504 · Source-conditioned abstract gender/case continuation
+
+PG504 completes [ahṛdaya bhāva tva N/tal Fcases](ahrdaya_bhava_tva_tal_owned_gender_and_cases/README.md):46new nominal positions/47readings,0finite/source/separate construction credits.48keys49readings withhold2old nominatives.PG503 prospective compound/aṇ guard retained;outer abstract genders,num/nuṭ/ṭāp and Nablative pause t/d owned.Totals51,819finite;5,179nominal/6,128readings;global gates Open.
+
+Only PG503 admitted ahṛdaya bhāva tvaN/talF48keys49readings CLOSED;earlier open-case pointers superseded on this domain.Unknown prospective intention/other compounds/affix priorities and teacher products stay Open,not excluded to close coverage.Primary-source/critical obligations S1-S7 and unmeasured C2-C5/native/Claude execution remain distinct.Next actual unconstructed domains include other compound-intent classes and independent initial-hṛd histories before wider lexical claims.S5fourfields99/103direct unchanged.
