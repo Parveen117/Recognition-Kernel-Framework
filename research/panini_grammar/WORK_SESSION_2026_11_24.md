@@ -465,3 +465,19 @@ Selected masculine niṣpravāṇi cloth fibre locally CLOSED; source/global gat
 - K139eight/extended139seven,128variant/inner/142patra and prior C2–C5/S1–S7/native/global work remain Open; Claude execution separate.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG640 · Bahutantrī neck case fibre and the nadī/affix distinction
+
+Previous publication: 3639b1d5803cdc4910ab89cb586cc423b5a2c476; tree 70f679c4a9fa0a6a0f2ea8a1aac9159944f4bd61. Necessary check: Python 3.12.14, 47 assertions, 1 attempt(s).
+
+PG640: [Bahutantrī neck case fibre and the nadī/affix distinction](bahutantri_neck_case_fibre_and_nadi_affix_distinction/README.md). One source-conditioned feminine neck24-key fibre minus NOMsg control:23 new unique nominal positions/23 readings. Census51,819 finite;7,474 nominal/8,709 readings. Primitiveī keeps NOMsg visarga; technical nadī separately licenses VOC shortening; ordered right-r gives GENpl bahutantrīṇām. Zero additional construction/source/accent credits.
+
+PG521–640 cumulative:1,696 nominal positions/1,966 readings, zero finite;228 morphology/994 interfaces (813 nominal/stem+10 finite+171 avyaya);116 compound/569 plans;7 accent/27 records;136 semantics/413 records;95 syntax/260 records;28 source-policy decisions after PG555−1;263 observations. One provenance correction/one proof addendum; no new census correction.
+
+Selected feminine bahutantrī neck case fibre locally CLOSED; lexical/source/global gates Open.
+- Closed selected K159 bahutantrīḥ grīvā feminine neck case fibre; primitiveUṇādiī, nadī and actualṅy/āp remain distinct consumer guards. Old source/NOMsg/inner constructors receive no repeated credit.
+- Other whole-gender/meaning admissions, nonbody string/veena paradigms and complete accent/recitation remain Open; feminine agreement alone does not replace the1.4.3word-meaning premise.
+- Actual K139eight/extended139seven,128variant/inner/142patra and prior C2–C5/S1–S7/native/global work remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

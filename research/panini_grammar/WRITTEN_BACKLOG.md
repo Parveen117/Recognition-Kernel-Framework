@@ -1,6 +1,6 @@
-# Written-development backlog at PG639
+# Written-development backlog at PG640
 
-Monty · 2026-11-24 · reviewed current parent 7413496b9bbc8cd1d11b07877f1c351c71dbaa33; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 3639b1d5803cdc4910ab89cb586cc423b5a2c476; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1700,3 +1700,14 @@ Selected masculine niṣpravāṇi cloth fibre locally CLOSED; source/global gat
 - Closed selected K160 masculine cloth niṣpravāṇi case fibre, reusing PG384ghi consumer at zero genealogy/affix/source-unit credit and withholding source NOMsg.
 - Other genders/meanings, K/Bāla160scope reconciliation, full Vedic/recitation/accent and inner/full source alternatives remain Open.
 - K139eight/extended139seven,128variant/inner/142patra and prior C2–C5/S1–S7/native/global work remain Open; Claude execution separate.
+
+
+### PG640 · Bahutantrī neck case fibre and the nadī/affix distinction
+
+PG640: [Bahutantrī neck case fibre and the nadī/affix distinction](bahutantri_neck_case_fibre_and_nadi_affix_distinction/README.md). One source-conditioned feminine neck24-key fibre minus NOMsg control:23 new unique nominal positions/23 readings. Census51,819 finite;7,474 nominal/8,709 readings. Primitiveī keeps NOMsg visarga; technical nadī separately licenses VOC shortening; ordered right-r gives GENpl bahutantrīṇām. Zero additional construction/source/accent credits.
+
+Selected feminine bahutantrī neck case fibre locally CLOSED; lexical/source/global gates Open.
+
+- Closed selected K159 bahutantrīḥ grīvā feminine neck case fibre; primitiveUṇādiī, nadī and actualṅy/āp remain distinct consumer guards. Old source/NOMsg/inner constructors receive no repeated credit.
+- Other whole-gender/meaning admissions, nonbody string/veena paradigms and complete accent/recitation remain Open; feminine agreement alone does not replace the1.4.3word-meaning premise.
+- Actual K139eight/extended139seven,128variant/inner/142patra and prior C2–C5/S1–S7/native/global work remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.

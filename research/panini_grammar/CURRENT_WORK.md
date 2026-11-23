@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG639
+# Pāṇini grammar · current written coverage at PG640
+
+PG640: [Bahutantrī neck case fibre and the nadī/affix distinction](bahutantri_neck_case_fibre_and_nadi_affix_distinction/README.md). One source-conditioned feminine neck24-key fibre minus NOMsg control:23 new unique nominal positions/23 readings. Census51,819 finite;7,474 nominal/8,709 readings. Primitiveī keeps NOMsg visarga; technical nadī separately licenses VOC shortening; ordered right-r gives GENpl bahutantrīṇām. Zero additional construction/source/accent credits.
 
 PG639: [Niṣpravāṇi cloth masculine short-i case fibre](nispravani_cloth_masculine_short_i_case_fibre/README.md). One24-key literal male cloth short-i fibre minus source NOMsg:23 new unique nominal positions/23 readings, zero finite or additional construction/source/accent credits. Census51,819 finite;7,451 nominal/8,686 readings. Inner pravāṇī versus outer niṣpravāṇi, lexical ṇ versus new dental n remain distinct.
 
