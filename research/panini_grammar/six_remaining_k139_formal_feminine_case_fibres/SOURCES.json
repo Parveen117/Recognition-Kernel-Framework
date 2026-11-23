@@ -1,0 +1,69 @@
+{
+  "upstream_pins": [],
+  "new_fields": [],
+  "predecessor_review": "PG618 fixes the exact Kāśikā 5.4.139 listed heads, final-a foot-member loss, feminine-only scope and ṅīp owner. PG634 freezes the ordinary long-ī case consumer. Focused MW/PWG/VCP audit supplies only gaṇa membership for the residual heads, not independent lexical meanings.",
+  "dependency_pins": [
+    {
+      "commit": "85ccd7e5724d8376a5f76abe9dfc63d48c8b0e5c",
+      "path": "research/panini_grammar/pada_final_a_lopa_named_feminines_and_owned_pad_replacement/RELATION.json",
+      "bytes": 11763,
+      "sha256": "f4f226714430eec1b50cd85f9877ce1fa6d812974b54235a905333a7ce1b035c",
+      "git_blob_sha": "c80e99e8522a0c21aae8219742e78e58465f01dd"
+    },
+    {
+      "commit": "85ccd7e5724d8376a5f76abe9dfc63d48c8b0e5c",
+      "path": "research/panini_grammar/pada_final_a_lopa_named_feminines_and_owned_pad_replacement/SOURCES.json",
+      "bytes": 20793,
+      "sha256": "cf5561fbb509c4fb98107741ed37d8a3fde7320a6cb2fbf7e782a7bf726d0d94",
+      "git_blob_sha": "e3cb67a7fa2d928b343517d06cb82047819fa5b4"
+    },
+    {
+      "commit": "85ccd7e5724d8376a5f76abe9dfc63d48c8b0e5c",
+      "path": "research/panini_grammar/pada_final_a_lopa_named_feminines_and_owned_pad_replacement/STATE.json",
+      "bytes": 9300,
+      "sha256": "bf4045841957083cb91452be0a89f462854cdff2b74df18860175ece8308cc92",
+      "git_blob_sha": "60896d0ba3b30a271ea38e9fbb39e54429aced32"
+    },
+    {
+      "commit": "c5b5116ab03c93e749e3d5c552420368eda19b2f",
+      "path": "research/panini_grammar/twelve_additional_feminine_case_fibres_and_inner_number_scope/NOMINAL_FORMS.tsv",
+      "bytes": 11220,
+      "sha256": "0079c90bab501dc814436a53c2487ffa0c83c2d8be8bad83c74f737d5319e8fe",
+      "git_blob_sha": "73861ddab0e768c512fa7781d349749d35583131"
+    },
+    {
+      "commit": "c5b5116ab03c93e749e3d5c552420368eda19b2f",
+      "path": "research/panini_grammar/twelve_additional_feminine_case_fibres_and_inner_number_scope/RELATION.json",
+      "bytes": 47280,
+      "sha256": "5c4dc081ecb6173a83cddaf1e58b297d1041f753cfa1208ab10306bb7ba5e1cf",
+      "git_blob_sha": "d074dd83246cd96540c8e0161954727954f61c61"
+    },
+    {
+      "commit": "c5b5116ab03c93e749e3d5c552420368eda19b2f",
+      "path": "research/panini_grammar/twelve_additional_feminine_case_fibres_and_inner_number_scope/SOURCES.json",
+      "bytes": 8645,
+      "sha256": "8a474307fb0ea1ac935aa92a33c7ca5945cf3b6911edc9ed17d7f2bb529edd27",
+      "git_blob_sha": "e116c05976f970cdd98a2f9b804da0771aa699a3"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/STATE_AND_COMPOSITION.md",
+      "bytes": 8210,
+      "sha256": "b9164206d5389f91a77bbd90b523dbce40a79e2dbd7983bc5adbad45a7539b99",
+      "git_blob_sha": "593f548f92c6398508db1fa943352fbe23cb51c9"
+    }
+  ],
+  "source_decisions": [
+    "Admit only the six exact Kāśikā long-ī headwords to the formal case consumer.",
+    "Keep all six lexical meanings Open; formal case closure is not semantic closure.",
+    "Keep Vasu short-i munipadi and kuṇipadī/kuṇapadī source variants unmerged and unexpanded."
+  ]
+}
+

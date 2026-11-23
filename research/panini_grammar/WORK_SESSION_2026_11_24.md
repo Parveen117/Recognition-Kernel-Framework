@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG654 · Six remaining K139 formal feminine case fibres
+
+Previous publication: 5bfdfa486150bb655fb82547e51485f85a1e61cd; tree 4f7b3d4132fda596661160e3c6616f28dbd486b3. Necessary check: Python 3.12.14, 80 assertions, 1 attempt.
+
+PG654: [Six remaining K139 formal feminine case fibres](six_remaining_k139_formal_feminine_case_fibres/README.md). Six exact K long-ī heads receive 144 formal case keys; six inherited NOMsg controls leave 138 new nominal positions/readings. All six lexical meanings remain Open. Census 51,819 finite; 7,889 nominal/9,129 readings.
+
+PG521–654 cumulative: 2,111 nominal positions/2,386 readings, zero finite; 236 morphology/1,011 interfaces (821 nominal/stem+10 finite+180 avyaya); 122 compound/583 plans; 7 accent/27 records; 148 semantics/433 records; 109 syntax/301 records; 36 source-policy decisions after PG555−1; 273 observations. One provenance correction/one proof addendum; no new census correction.
+
+- PG618's exact Kāśikā heads/formation and PG634's long-ī case consumer are reused through exact file/commit pins; no construction/source/meaning credit is repeated.
+- Formal case closure does not close lexical meaning: six K139 meanings, Vasu munipadi and kuṇapadī/kuṇipadī/kṛṇapadī priority, accent/corpus/critical work stay Open.
+- Extended139 three, remaining128, patradatam lexical/gender fork and older C2–C5/S1–S7/native/global obligations remain Open. Claude execution separate; PG335 correction and PG357–PG363 CLOSED preserved.
+
+
 ## PG653 · Antevāsin person complete masculine case fibre
 
 Previous publication: a8e2d4b8bdc2cf7dffa2ee252f94e93dd232ec2d; tree 1b128fe21ddfc5085a3413f26b4ed2fa87e0329c. Necessary check: Python 3.12.14, 70 assertions, 2 attempts; first attempt failed only first-line status-path normalization before the terminal aggregate assertion.

@@ -1,6 +1,6 @@
-# Written-development backlog at PG653
+# Written-development backlog at PG654
 
-Monty · 2026-11-24 · reviewed current parent a8e2d4b8bdc2cf7dffa2ee252f94e93dd232ec2d; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 5bfdfa486150bb655fb82547e51485f85a1e61cd; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1864,5 +1864,21 @@ Selected antevāsin masculine person paradigm locally CLOSED; wider written gate
 - Already closed targets stay separate: PG637/PG643 antevāsi channels; PG269 dehin consumer; PG340/346 actor grids; PG349–352 selected niṣṭhā; PG355–360 bhid passive grid; PG357–363 historical results.
 - Genuine unconstructed/source work: six K139 meanings; three extended139 heads; remaining128 variants/two bāhu senses; patradatam lexical/gender/nuṃ fork; older C2–C5/S1–S7/native/global registers.
 - Open readings are not exclusions: PWG perhaps-neuter, adjectival/feminine extensions, accent/corpus/Vedic-critical and competing commentary policies remain explicit. Claude owns grammar execution/generators/untouched suites/certificate replay.
+
+The exact stage publication is the containing commit. Preserve PG335 correction and all frozen predecessors/source pins. Existing review branch only, nonforce; no elapsed-hours or ETA claim.
+
+### PG654 · Six remaining K139 formal feminine case fibres
+
+Previous publication: 5bfdfa486150bb655fb82547e51485f85a1e61cd; tree 4f7b3d4132fda596661160e3c6616f28dbd486b3. Necessary check: Python 3.12.14, 80 assertions, 1 attempt.
+
+PG654: [Six remaining K139 formal feminine case fibres](six_remaining_k139_formal_feminine_case_fibres/README.md). One hundred forty-four exact formal keys minus six inherited K head controls give 138 new nominal positions/readings. Census 51,819 finite; 7,889 nominal/9,129 readings; zero new construction/source/accent credits.
+
+PG521–654 cumulative: 2,111 nominal positions/2,386 readings, zero finite; 236 morphology/1,011 interfaces (821 nominal/stem+10 finite+180 avyaya); 122 compound/583 plans; 7 accent/27 records; 148 semantics/433 records; 109 syntax/301 records; 36 source-policy decisions after PG555−1; 273 observations. One provenance correction/one proof addendum.
+
+Selected six K139 formal feminine case paradigms locally CLOSED; lexical-meaning and wider written gates remain Open.
+
+- Already closed targets stay separate: PG618 formation; PG634/PG650 long-ī consumers; PG340/346 actor grids; PG349–352 selected niṣṭhā; PG355–360 bhid passive grid; PG357–363 historical results.
+- Genuine unconstructed/source work: lexical meanings of all six K139 heads; three extended139 meanings; remaining128 variants/two bāhu senses; patradatam lexical/gender/nuṃ fork; older C2–C5/S1–S7/native/global registers.
+- Open readings are not exclusions: Vasu munipadi, kuṇapadī/kuṇipadī/kṛṇapadī priority, accent/corpus/Vedic-critical and competing commentary policies remain explicit. Claude owns grammar execution/generators/untouched suites/certificate replay.
 
 The exact stage publication is the containing commit. Preserve PG335 correction and all frozen predecessors/source pins. Existing review branch only, nonforce; no elapsed-hours or ETA claim.

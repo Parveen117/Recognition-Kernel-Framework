@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG654: [Six remaining K139 formal feminine case fibres](six_remaining_k139_formal_feminine_case_fibres/README.md). The exact residual Kāśikā 5.4.139 long-ī heads mālāpadī, munipadī, kuṇapadī, sūpapadī, arvapadī and stanapadī now each have a complete ordinary 24-key formal case fibre: 138 new nominal positions/readings after six inherited NOMsg controls. Their lexical meanings and competing source variants remain genuinely Open. Census 51,819 finite; 7,889 nominal/9,129 readings; zero new construction/source/accent credits.
+
 PG653: [Antevāsin person complete masculine case fibre](antevasin_person_complete_masculine_case_fibre/README.md). The PG643 source-separated antevāsī/antevāsin pupil-person channel now has a complete ordinary masculine 24-key case fibre: 23 new unique nominal positions/readings after one inherited NOMsg control. Spatial/pupil-state antevāsi and PWG's perhaps-neuter hypothesis remain unmerged Open channels. Census 51,819 finite; 7,751 nominal/8,991 readings; zero new construction/source/accent credits.
 
 PG652: [Five remaining uraḥ-list base case fibres](five_remaining_urasa_base_case_fibres/README.md). The source-grounded payas, lakṣmī, dadhi, madhu and śāli bases now each have a complete 24-key ordinary case fibre: 115 new unique nominal positions/119 readings after five inherited NOMsg controls and four explicit multi-reading positions. PG242/PG651 panels are not duplicated. Census 51,819 finite; 7,728 nominal/8,968 readings; zero new construction/source/accent credits.
