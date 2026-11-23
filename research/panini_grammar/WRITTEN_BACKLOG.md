@@ -1,6 +1,6 @@
-# Written-development backlog at PG644
+# Written-development backlog at PG645
 
-Monty · 2026-11-24 · reviewed current parent 85af6f9ed80ffc52e6bcdde860e974b7d72380db; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent bd74451e0f1ba11261cc1ae45e917455a28b27f7; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1754,4 +1754,15 @@ Four Haim139 comparison meanings locally CLOSED; remaining members/global gates 
 
 - Closed four source-relative Haim comparison meanings without repeating existing list/case/VCP credits; K dāsīpadī remaining register decreases by one and extended Vasu139 by three.
 - K139 remaining seven: mālāpadī, munipadī, gopadī, kuṇapadī, sūpapadī, arvapadī, stanapadī. Extended remaining four: supadī, sūcīpadī, kalahamsapadī, viṣapadī. Other senses/cases/accent/critical priority remain Open.
+- Remaining128 and prior C2–C5/S1–S7/native/global obligations stay Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+
+### PG645 · Supadī good-feet reading and unmerged inventory histories
+
+PG645: [Supadī good-feet reading and unmerged inventory histories](supadi_good_feet_and_unmerged_inventory_histories/README.md). Haim now positively supplies supadī “having good/beautiful feet” and the feminine supāt alternative under a general su+pāda route; the extended139 listed history stays distinct. One morphology/two interfaces, one compound/two plans, one semantic/two records, two syntax/six records, one observation/decision; zero positions. Census 51,819 finite; 7,474 nominal/8,709 readings.
+
+Supadī source-relative meaning/Haim route locally CLOSED; remaining members/global gates Open.
+
+- Closed extended supadī source-relative meaning and Haim route without repeating list/case credits or merging the Pāṇinian/Vasu139 history.
+- K139 remaining seven: mālāpadī, munipadī, gopadī, kuṇapadī, sūpapadī, arvapadī, stanapadī. Extended remaining three: sūcīpadī, kalahamsapadī, viṣapadī. Other senses/cases/accent/critical priority remain Open.
 - Remaining128 and prior C2–C5/S1–S7/native/global obligations stay Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.

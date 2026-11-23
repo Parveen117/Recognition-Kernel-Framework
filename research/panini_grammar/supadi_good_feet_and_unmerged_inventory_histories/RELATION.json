@@ -1,0 +1,115 @@
+{
+  "stage": "PG645",
+  "title": "Supadī good-feet reading and unmerged inventory histories",
+  "predecessor_review": "PG644 left extended-Vasu139 supadī meaning Open because list membership is not a meaning. The newly pinned Haim page independently derives the same display under its general su/number-before-pāda rule and supplies the explicit gloss śobhanau pādau asyāḥ. Existing Vasu/Pāṇinian list membership, generic case fibres and the four PG644 comparisons receive no repeated credit.",
+  "tradition": "Haim 7.3.150 general su/number+pāda history; extended Vasu/Pāṇinian139 membership retained as a distinct source history",
+  "heads": [
+    {
+      "id": "SUPADI",
+      "readout": "supadī",
+      "meaning": "having good or beautiful feet",
+      "first": "su",
+      "first_role": "quality_owner_good_or_beautiful",
+      "right": "pāda→pād/pad",
+      "compound": "su+pāda bahuvrīhi",
+      "gender": "F",
+      "haim_route": "7.3.150 su-before-pāda, feminine optional long-ī branch",
+      "paninian_vasu_route": "extended139 listed/nipātana history",
+      "accepted_alternatives": [
+        "supadī",
+        "supāt (Haim same-rule feminine alternative)"
+      ],
+      "root_id": null,
+      "preverb": null,
+      "finite_pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "status": "Closed_source_relative_meaning_and_Haim_route"
+    }
+  ],
+  "compound_contracts": [
+    {
+      "id": "HAIM_SUPADI",
+      "plans": [
+        "su quality owner+pāda right member→supadī",
+        "same Haim rule records supāt as feminine alternative"
+      ]
+    }
+  ],
+  "semantic_contracts": [
+    {
+      "id": "GOOD_FEET",
+      "records": [
+        "śobhanau pādau asyāḥ",
+        "good/beautiful feet, not a guessed list meaning"
+      ]
+    }
+  ],
+  "syntactic_contracts": [
+    {
+      "id": "OWNER_AND_OUTPUT",
+      "records": [
+        "su owns the good/beautiful quality",
+        "pāda owns the feet being qualified",
+        "whole bahuvrīhi denotes the feminine possessor"
+      ]
+    },
+    {
+      "id": "HISTORY_GUARDS",
+      "records": [
+        "Haim general-rule route and extended139 listed route remain separately tagged",
+        "su is a lexical quality member, not a verbal preverb",
+        "no root, voice or finite pada is introduced"
+      ]
+    }
+  ],
+  "source_observations": [
+    "Haim page565 gives both supadī as a feminine output and śobhanau pādau asyāḥ as its explicit vigraha"
+  ],
+  "source_policy": {
+    "id": "ADOPT_SUPADI_MEANING_WITH_UNMERGED_HISTORIES",
+    "new_policy_credit": 1,
+    "adopted": "Close the source-relative good-feet meaning and Haim route while retaining the Pāṇinian/Vasu listed history as a separate accepted channel.",
+    "boundary": "Do not infer meanings for other139 members, convert lexical su into a verbal preverb, or make the Haim alternative a new Pāṇinian output."
+  },
+  "controls": [
+    {
+      "id": "SUPADI_HAIM_MEANING",
+      "status": "Closed_source_relative"
+    },
+    {
+      "id": "SUPADI_HAIM_ROUTE_EQUALS_VASU139_ROUTE",
+      "status": "Excluded"
+    },
+    {
+      "id": "SUPADI_SU_AS_VERBAL_PREVERB",
+      "status": "Excluded"
+    },
+    {
+      "id": "OTHER_REMAINING139_MEANINGS",
+      "status": "Open"
+    },
+    {
+      "id": "CASE_ACCENT_CORPUS_AND_CRITICAL_PRIORITY",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_positions": 0,
+    "new_position_readings": 0,
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 2,
+    "new_compound_constructions": 1,
+    "new_compound_readouts": 2,
+    "new_semantic_constructions": 1,
+    "new_semantic_readouts": 2,
+    "new_syntactic_constructions": 2,
+    "new_syntactic_readouts": 6,
+    "new_source_policy_decisions": 1,
+    "new_source_observations": 1
+  }
+}

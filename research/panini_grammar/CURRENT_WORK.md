@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG644
+# Pāṇini grammar · current written coverage at PG645
+
+PG645: [Supadī good-feet reading and unmerged inventory histories](supadi_good_feet_and_unmerged_inventory_histories/README.md). Haim now positively supplies supadī “having good/beautiful feet” and the feminine supāt alternative under a general su+pāda route; the extended139 listed history stays distinct. One morphology/two interfaces, one compound/two plans, one semantic/two records, two syntax/six records, one observation/decision; zero positions. Census 51,819 finite; 7,474 nominal/8,709 readings.
 
 PG644: [Four Haim padī comparison domains and distinct Viṣṇu history](four_haim_padi_comparison_domains_and_distinct_vishnu_history/README.md). Four membership-only139 heads now have explicit Haim comparison meanings: dāsīpadī, vipadī, the distinct139 viṣṇupadī and sūkarapadī. Vi is bird-lexical, not a preverb; PG631 Viṣṇu ac/ṅīṣ histories stay separate. One morphology/four interfaces, one compound/four plans, four semantics/four records, two syntax/six records, one observation/decision; zero positions. Census51,819 finite;7,474 nominal/8,709 readings.
 

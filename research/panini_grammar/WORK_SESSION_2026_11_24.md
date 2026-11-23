@@ -545,3 +545,19 @@ Four Haim139 comparison meanings locally CLOSED; remaining members/global gates 
 - Remaining128 and prior C2–C5/S1–S7/native/global obligations stay Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG645 · Supadī good-feet reading and unmerged inventory histories
+
+Previous publication: bd74451e0f1ba11261cc1ae45e917455a28b27f7; tree 9673a1633886178b433056145ebf6f96debf5671. Necessary check: Python 3.12.14, 50 assertions, 1 attempt(s).
+
+PG645: [Supadī good-feet reading and unmerged inventory histories](supadi_good_feet_and_unmerged_inventory_histories/README.md). Haim now positively supplies supadī “having good/beautiful feet” and the feminine supāt alternative under a general su+pāda route; the extended139 listed history stays distinct. One morphology/two interfaces, one compound/two plans, one semantic/two records, two syntax/six records, one observation/decision; zero positions. Census 51,819 finite; 7,474 nominal/8,709 readings.
+
+PG521–645 cumulative: 1,696 nominal positions/1,966 readings, zero finite; 234 morphology/1,008 interfaces (819 nominal/stem+10 finite+179 avyaya); 120 compound/579 plans; 7 accent/27 records; 146 semantics/429 records; 105 syntax/288 records; 33 source-policy decisions after PG555−1; 268 observations. One provenance correction/one proof addendum; no new census correction.
+
+Supadī source-relative meaning/Haim route locally CLOSED; remaining members/global gates Open.
+- Closed extended supadī source-relative meaning and Haim route without repeating list/case credits or merging the Pāṇinian/Vasu139 history.
+- K139 remaining seven: mālāpadī, munipadī, gopadī, kuṇapadī, sūpapadī, arvapadī, stanapadī. Extended remaining three: sūcīpadī, kalahamsapadī, viṣapadī. Other senses/cases/accent/critical priority remain Open.
+- Remaining128 and prior C2–C5/S1–S7/native/global obligations stay Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
