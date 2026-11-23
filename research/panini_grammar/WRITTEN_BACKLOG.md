@@ -1,4 +1,4 @@
-# Written-development backlog at PG524
+# Written-development backlog at PG525
 
 Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
@@ -773,3 +773,10 @@ PG522's Namuci morphology/singular pointer is superseded only on the selected VC
 PG524 constructs [protecting-pā napat, śatṛ and neuter num domains](napat_protecting_satr_and_neuter_num_domains/README.md): 23 new nominal positions/29 readings; 24 keys/30 readings minus old napāt control. One morphology adapter/one stem readout, 0 finite/source additions. Singular no num, dual śī optional, plural śi mandatory; deleted śap cannot license mandatory dual num. Root 1020051 and RV descendant lexeme kept separate. Totals 51,819 finite; 5,824 nominal/6,795 readings; wider gates Open.
 
 The selected Napat morphology/ordinary neuter three-number case gap is now locally CLOSED. Five remaining full designated analyses: nabhrāṭ, navedas, napuṃsaka, nakṣatra, nakra. Next source-grounded formation: Nakṣatra kṣar versus kṣi root identities, actual prescribed tra and r-deletion/i→a; preserve Nyāsa's extra kṣīṣ violence-root versus Tattva's tudādi residence/motion selection. Napat other genders/teachers/Vedic/accent and RV descendant remain separate Open contracts, as do prior source/gender/case questions and S1–S7/C2–C5. No whole-rule lexical or full-language denominator closure.
+
+
+### PG525 · Nakṣatra selected histories/cases, two source arms still Open
+
+PG525 constructs [Nakṣatra tra/root histories and suffix-owned r cases](naksatra_tra_root_histories_and_owned_r_cases/README.md): 23 new nominal positions/24 readings; 24 keys/25 readings minus old nakṣatram. One morphology adapter/one stem readout with kṣar/Tattva-kṣi histories; one VCP entry-opening observation; 0 finite additions. Root-r lopa preserves suffix-r, which licenses case ṇatva. Nyāsa violence-root critical assignment and VCP nakṣ+atran stay Open. Totals 51,819 finite; 5,847 nominal/6,819 readings; global gates Open.
+
+Already closed locally: kṣar root-r lopa/Tattva tudādi kṣi i→a before actual tra, and selected N24key25reading case family. Genuine unconstructed full designated domains: nabhrāṭ, navedas, napuṃsaka, nakra. Unresolved Nakṣatra readings: Nyāsa raw violence-root/bracketed kṣīṣ exact critical assignment; VCP nakṣ+atran positive alternative still requires its own root/affix/operation proof. Neither is an excluded lexical variant or resolved by agreement of surface forms. Next: Nabhrāṭ actual kvip zero-affix/root identity and owned j→ṣ→ḍ/ṭ terminal views; Nakra prescribed ḍa and ṭi-deletion must not be confused with ṭāp or ordinary kram grading. Other prior source/case/gender/number/teacher/accent and S1–S7/C2–C5/native/Claude obligations remain as declared.

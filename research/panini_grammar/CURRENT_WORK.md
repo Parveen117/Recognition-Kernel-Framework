@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG524
+# Pāṇini grammar · current written coverage at PG525
+
+PG525 constructs [Nakṣatra tra/root histories and suffix-owned r cases](naksatra_tra_root_histories_and_owned_r_cases/README.md): 23 new nominal positions/24 readings; 24 keys/25 readings minus old nakṣatram. One morphology adapter/one stem readout with kṣar/Tattva-kṣi histories; one VCP entry-opening observation; 0 finite additions. Root-r lopa preserves suffix-r, which licenses case ṇatva. Nyāsa violence-root critical assignment and VCP nakṣ+atran stay Open. Totals 51,819 finite; 5,847 nominal/6,819 readings; global gates Open.
 
 PG524 constructs [protecting-pā napat, śatṛ and neuter num domains](napat_protecting_satr_and_neuter_num_domains/README.md): 23 new nominal positions/29 readings; 24 keys/30 readings minus old napāt control. One morphology adapter/one stem readout, 0 finite/source additions. Singular no num, dual śī optional, plural śi mandatory; deleted śap cannot license mandatory dual num. Root 1020051 and RV descendant lexeme kept separate. Totals 51,819 finite; 5,824 nominal/6,795 readings; wider gates Open.
 
