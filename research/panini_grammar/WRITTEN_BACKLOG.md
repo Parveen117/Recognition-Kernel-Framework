@@ -1,6 +1,6 @@
-# Written-development backlog at PG600
+# Written-development backlog at PG601
 
-Monty · 23 November 2026 · reviewed current parent eb8e12b838dfe6e7653c65356f636da8be5a1880; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent d5e6f6df368caca55c196321cd31180010e5afc6; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1307,3 +1307,10 @@ Selected14steminterfaceslocallyCLOSED. HalfkhāriNshort/khārīFlongacceptedsour
 PG600 constructs [Vedic an/as and regional brahman ṭac branches](vedic_an_as_and_regional_brahman_tac_history_branches/README.md): three recipes/13prātipadikas,three compound contracts/13plans,one source-domain contract/three frames,two meaning contracts/four frames,four observations. Zero word/accent/new-policy credits;actual an/as,stem/display and sourceN/M senses retained. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
 
 Selected13ownedprātipadikabrancheslocallyCLOSED. NoṭacbrahmasāmanNOMdisplaybrahmasāmanotnewa-stem;Mcountrybrahman-vipradistinctfromVedicN. Nyāsa103caselabel/K104rawbahmaḥcritical,independentVedicfullpassages/accent/regions/fullcasesOpen. Actual106onwardandearlierdaśabhūmaka/pur/palya/citation-i/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
+
+
+### PG601 · Actualcollectiveandfirst/rightsoundowners
+
+PG601 constructs [collective dvandva ṭac and first/final sound ownership](collective_dvandva_tac_and_first_final_sound_ownership/README.md): one recipe/14stems,one compound contract/14plans,one guard contract/four frames,one meaning contract/three frames,two observations. Zero word/accent/new-policy credits;actualfirstpada/rightcu-d-ṣ-h/sourceparent/tree retained. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
+
+Selected14steminterfaceslocallyCLOSED;Ksamidh/SKśamīseparatepositiveparents. Tattva106flat/nestedcorruptwordcriticalreadingremainsOpenaftertwo-enginesearchcopies;noinventedlongā/affixrecipe. Inneriḍ_śamī_goduh/fullcases/accent/107onwardandearlierdaśabhūmaka/pur/palya/citation-i/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.

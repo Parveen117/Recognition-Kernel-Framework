@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG601 constructs [collective dvandva ṭac and first/final sound ownership](collective_dvandva_tac_and_first_final_sound_ownership/README.md): one recipe/14stems,one compound contract/14plans,one guard contract/four frames,one meaning contract/three frames,two observations. Zero word/accent/new-policy credits;actualfirstpada/rightcu-d-ṣ-h/sourceparent/tree retained. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
+
 PG600 constructs [Vedic an/as and regional brahman ṭac branches](vedic_an_as_and_regional_brahman_tac_history_branches/README.md): three recipes/13prātipadikas,three compound contracts/13plans,one source-domain contract/three frames,two meaning contracts/four frames,four observations. Zero word/accent/new-policy credits;actual an/as,stem/display and sourceN/M senses retained. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
 
 PG599 constructs [boat/measure ṭac choices and half-khārī source genders](boat_measure_tac_choices_and_half_khari_gender_sources/README.md): four recipes/14interfaces,four compound contracts/14plans,one LUK contract/five frames,two meaning contracts/seven frames,six observations and one qualified F/N source decision. Zero word/accent credits;actual price-content,teacher/innerLUK and old/newī owners retained. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
