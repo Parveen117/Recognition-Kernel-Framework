@@ -1,6 +1,6 @@
-# Written-development backlog at PG646
+# Written-development backlog at PG647
 
-Monty · 2026-11-24 · reviewed current parent 3dcbb30858211ea483d2fc64521cc765070f5a1b; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 32b305364b55b22ee8ad53e2ea8ee50e698ea43e; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1777,3 +1777,14 @@ VCP sapadi lexicalized whole locally CLOSED; productive/citation/global gates re
 - Closed the whole VCP sapadi-in composition/avyaya route only for the exact lexical head; reused PG636 inner pad+in and did not repeat PG633 word/ic credits.
 - VCP citation OCR sapAda, unrestricted Uṇādi productivity, accent/corpus detail and cross-history critical priority remain Open. Productive 6.3.81 time use is Excluded by akāle, not treated as an open wildcard.
 - K139 seven and extended139 three remain Open, alongside remaining128 variants and prior C2–C5/S1–S7/native/global obligations. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+
+### PG647 · Sapadi Kumārasambhava token and VCP OCR resolution
+
+PG647: [Sapadi Kumārasambhava token and VCP OCR resolution](sapadi_kumarasambhava_primary_token_and_vcp_ocr_resolution/README.md). Two independent Kumārasambhava3.76 witnesses plus Mallinātha confirm sapadi/sapadīti, resolving cached VCP sapAda as source-local OCR while preserving raw bytes and an Open 1955 saṃpadi collation question. One syntax/corpus contract/three records, two observations, one source-analysis record/decision; zero word, morphology or meaning credits. Census 51,819 finite; 7,474 nominal/8,709 readings.
+
+KS3.76 sapadi citation locally CLOSED; print-collation/global gates remain Open.
+
+- Closed the KS3.76 cited token as sapadi from two independent witnesses plus commentary; VCP cached sapAda is Excluded as the cited lexical token but its raw bytes remain preserved.
+- Nirṇayasāgara1955 saṃpadi web transcription versus sapadīti commentary remains Open pending scan-level collation; no critical-edition priority was invented.
+- K139 seven and extended139 three, remaining128 variants and prior C2–C5/S1–S7/native/global obligations remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.

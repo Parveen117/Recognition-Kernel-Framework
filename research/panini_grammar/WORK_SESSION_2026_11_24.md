@@ -577,3 +577,19 @@ VCP sapadi lexicalized whole locally CLOSED; productive/citation/global gates re
 - K139 seven and extended139 three remain Open, alongside remaining128 variants and prior C2–C5/S1–S7/native/global obligations. Claude execution separate; PG335/PG357–363 CLOSED preserved.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG647 · Sapadi Kumārasambhava token and VCP OCR resolution
+
+Previous publication: 32b305364b55b22ee8ad53e2ea8ee50e698ea43e; tree 73c46fb604317a2d26445d777ec55394b7d87a54. Necessary check: Python 3.12.14, 58 assertions, 1 attempt(s).
+
+PG647: [Sapadi Kumārasambhava token and VCP OCR resolution](sapadi_kumarasambhava_primary_token_and_vcp_ocr_resolution/README.md). Two independent Kumārasambhava3.76 witnesses plus Mallinātha confirm sapadi/sapadīti, resolving cached VCP sapAda as source-local OCR while preserving raw bytes and an Open 1955 saṃpadi collation question. One syntax/corpus contract/three records, two observations, one source-analysis record/decision; zero word, morphology or meaning credits. Census 51,819 finite; 7,474 nominal/8,709 readings.
+
+PG521–647 cumulative: 1,696 nominal positions/1,966 readings, zero finite; 235 morphology/1,009 interfaces (819 nominal/stem+10 finite+180 avyaya); 121 compound/581 plans; 7 accent/27 records; 147 semantics/431 records; 108 syntax/297 records; 35 source-policy decisions after PG555−1; 270 observations. One provenance correction/one proof addendum; no new census correction.
+
+KS3.76 sapadi citation locally CLOSED; print-collation/global gates remain Open.
+- Closed the KS3.76 cited token as sapadi from two independent witnesses plus commentary; VCP cached sapAda is Excluded as the cited lexical token but its raw bytes remain preserved.
+- Nirṇayasāgara1955 saṃpadi web transcription versus sapadīti commentary remains Open pending scan-level collation; no critical-edition priority was invented.
+- K139 seven and extended139 three, remaining128 variants and prior C2–C5/S1–S7/native/global obligations remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

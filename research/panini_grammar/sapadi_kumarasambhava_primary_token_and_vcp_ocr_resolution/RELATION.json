@@ -1,0 +1,82 @@
+{
+  "stage": "PG647",
+  "title": "Sapadi Kumārasambhava token and VCP OCR resolution",
+  "predecessor_review": "PG646 closes the VCP whole while retaining its cached citation display sapAda as Open OCR. It takes no independent verse credit. The new external check reads two independent KS3.76 witnesses and the traditional commentary; the already credited word, meaning, inner affix and whole construction are not repeated.",
+  "corpus_frame": {
+    "id": "KS_3_76_SAPADI",
+    "work": "Kumārasambhava",
+    "location": "3.76",
+    "token": "sapadi",
+    "devanagari": "सपदि",
+    "iast": "sapadi",
+    "category": "indeclinable adverb",
+    "verse_context": "sapadi mukulitākṣīṃ rudrasaṃrambhabhītyā",
+    "commentary_lemma": "sapadīti",
+    "vcp_cached_display": "sapAda mukulitAkzIm",
+    "decision": "VCP cached sapAda is a source-local OCR error for this citation",
+    "position_credit": 0,
+    "meaning_credit": 0,
+    "morphology_credit": 0
+  },
+  "syntactic_contracts": [
+    {
+      "id": "CORPUS_TOKEN_ATTACHMENT",
+      "records": [
+        "verse token is indeclinable sapadi, not nominal sapāda",
+        "sapadi supplies immediate clause-level temporal setting in KS3.76",
+        "Mallinātha lemma sapadīti independently targets the same token"
+      ]
+    }
+  ],
+  "source_observations": [
+    "Poorvam KS3.76 Devanāgarī verse plus Sañjīvinī sapadīti commentary",
+    "TITUS KS3.76 transliteration plus explicit sa-padi segmentation"
+  ],
+  "source_policy": {
+    "id": "RESOLVE_VCP_SAPADA_AS_OCR_WITH_CRITICAL_BOUNDARY",
+    "new_policy_credit": 1,
+    "adopted": "Read the cited KS3.76 token as sapadi and treat VCP-cache sapAda as OCR, while preserving the raw VCP bytes and source history.",
+    "boundary": "A Wikisource transcription of a 1955 scan displays saṃpadi; keep that print/transcription question Open pending image-level critical collation."
+  },
+  "controls": [
+    {
+      "id": "KS3_76_SAPADI_TOKEN",
+      "status": "Closed_two_witnesses_plus_commentary"
+    },
+    {
+      "id": "VCP_CACHED_SAPADA_AS_CITED_TOKEN",
+      "status": "Excluded_source_local_OCR"
+    },
+    {
+      "id": "RAW_VCP_BYTES",
+      "status": "Preserved"
+    },
+    {
+      "id": "NIRNAYASAGARA1955_SAMPADI_COLLATION",
+      "status": "Open"
+    },
+    {
+      "id": "NEW_WORD_OR_MEANING_CREDIT",
+      "status": "Excluded_duplicate"
+    }
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_positions": 0,
+    "new_position_readings": 0,
+    "new_morphological_constructions": 0,
+    "new_morphological_readouts": 0,
+    "new_compound_constructions": 0,
+    "new_compound_readouts": 0,
+    "new_semantic_constructions": 0,
+    "new_semantic_readouts": 0,
+    "new_syntactic_constructions": 1,
+    "new_syntactic_readouts": 3,
+    "new_source_policy_decisions": 1,
+    "new_source_observations": 2,
+    "new_source_analysis_records": 1
+  }
+}
