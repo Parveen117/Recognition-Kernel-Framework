@@ -1,4 +1,4 @@
-# Written-development backlog at PG530
+# Written-development backlog at PG531
 
 Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
@@ -815,3 +815,10 @@ Already closed locally: named puṃsakabhāva/negative-retention adapter and VCP
 PG530 constructs [Nakṣatra atran root-n and shared-case bridge](naksatra_atran_root_n_and_shared_case_bridge/README.md): 1 morphology adapter/1 stem interface,0new finite/nominal/source credits. Primary3.105/nakṣ1010752 supplies actual atran; initial ṇ→n is root-owned, no nañ event. Frozen N24keys25readings reused at0credit; VCP arm locally CLOSED, Nyāsa critical root remains Open. Totals unchanged51,819finite;6,034nominal/7,014readings; global gates Open.
 
 PG525/529 VCP-nakṣ+atran pointers are superseded only on exact primary3.105/root1010752/no-preverb profile. Already closed: original two negative arms and the new root-owned-n arm, shared selected N24key25reading consumer with0recredit. Unresolved source reading: Nyāsa violence-root/bracketed kṣīṣ exact critical assignment remains Open. Genuine next construction: K6.3.73finite avakṣepa n-lopa extension versus ordinary na-sentential negation, keeping supplied finite root/lakāra/person and the censure speech frame separate; inspect primary Bhāṣya and old finite/prose grids before credits. Prior other gender/case/number/root/source, Napuṃsaka deeper bodies, K/VCP Navedas semantics and S1–S7/C2–C5/native/Claude obligations remain as declared.
+
+
+### PG531 · Finite censure actual source/particle/speech-frame adapter
+
+PG531 constructs [finite avakṣepa nañ/separate-a source-policy contract](finite_avaksepa_nanj_separate_a_and_source_policies/README.md): 1syntax contract/4controlled expressions,1primaryBhāṣya63073entry observation;0new finite/nominal positions/readings. Censure means sourcekutsitaṃpacasi,not factual event absence;a is a separatepada,not past augment/compound verb. Lexical-a/nañ and ordinaryna histories distinct;originala-authorityOpen. Totals unchanged51,819finite;6,034nominal/7,014readings; global gates Open.
+
+Already closed locally: two supplied censure inputs/ordinary na-pacasi and na-asti controls, actual separate-pada a, attributed nañ-extension/independent-a policies and finite-source/controller preservation. Genuine unconstructed domains: other roots/persons/lakāras/vowel-initial finite requests and automatic speech/particle parsing. Unresolved source readings: independent-a original authority/print lineage remains Open; source vai-present/absent displays are attributed, not a freely optional particle theorem. Next positive nañ construction: actual akac inside nañ before outer negative compound n-lopa, distinguishing the other taddhita nañ4.1.87; review closed akac/gender/source register packets before credits. Earlier Nakṣatracritical/Navedassemantic/Napuṃsakadeeper and S1–S7/C2–C5/native/Claude obligations remain Open/deferred.

@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG530
+# Pāṇini grammar · current written coverage at PG531
+
+PG531 constructs [finite avakṣepa nañ/separate-a source-policy contract](finite_avaksepa_nanj_separate_a_and_source_policies/README.md): 1syntax contract/4controlled expressions,1primaryBhāṣya63073entry observation;0new finite/nominal positions/readings. Censure means sourcekutsitaṃpacasi,not factual event absence;a is a separatepada,not past augment/compound verb. Lexical-a/nañ and ordinaryna histories distinct;originala-authorityOpen. Totals unchanged51,819finite;6,034nominal/7,014readings; global gates Open.
 
 PG530 constructs [Nakṣatra atran root-n and shared-case bridge](naksatra_atran_root_n_and_shared_case_bridge/README.md): 1 morphology adapter/1 stem interface,0new finite/nominal/source credits. Primary3.105/nakṣ1010752 supplies actual atran; initial ṇ→n is root-owned, no nañ event. Frozen N24keys25readings reused at0credit; VCP arm locally CLOSED, Nyāsa critical root remains Open. Totals unchanged51,819finite;6,034nominal/7,014readings; global gates Open.
 

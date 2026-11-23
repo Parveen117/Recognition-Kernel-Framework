@@ -1,0 +1,243 @@
+{
+  "stage": "PG531",
+  "finite_inputs": [
+    {
+      "id": "PAC_P2SG_LAT",
+      "root_id": "1011151",
+      "sense": "pāka",
+      "lakara": "laṭ",
+      "pada": "P",
+      "person": 2,
+      "number": "sg",
+      "voice": "active kartṛ source input",
+      "preverb": null,
+      "word": "pacasi",
+      "entitlement": "source-supplied finite token, original U root metadata retained; no new full conjugation claim"
+    },
+    {
+      "id": "KR_P2SG_LAT",
+      "root_id": "1080010",
+      "sense": "karaṇa",
+      "lakara": "laṭ",
+      "pada": "P",
+      "person": 2,
+      "number": "sg",
+      "voice": "active kartṛ source input",
+      "preverb": null,
+      "word": "karoṣi",
+      "entitlement": "source-supplied finite token, original U root metadata retained; no new full conjugation claim"
+    },
+    {
+      "id": "AS_P3SG_LAT",
+      "root_id": "1020060",
+      "sense": "bhuvi",
+      "lakara": "laṭ",
+      "pada": "P",
+      "person": 3,
+      "number": "sg",
+      "voice": "active source input with supplied singular subject",
+      "preverb": null,
+      "word": "asti",
+      "entitlement": "Tattvaordinaryghaṭonāsti context; not otheras homonyms"
+    }
+  ],
+  "paths": [
+    {
+      "id": "CENSURE_PAC_NANJ",
+      "input_finite": "PAC_P2SG_LAT",
+      "speech_frame": "confirmed avakṣepa/nindā, source kutsitaṃ pacasi",
+      "particle": "actual negative nañ under vārttika-extension policy",
+      "trace": [
+        "ñ_ITinactive; negative-oldn removed6.3.73finiteextension→a",
+        "a remains separatepada; no tiṅ-compound or lakāra/person replacement",
+        "source fixed tvaṃ/jālma address carried, controller second singular unchanged"
+      ],
+      "padas": [
+        "a",
+        "pacasi",
+        "tvam",
+        "jālma"
+      ],
+      "readout": "apacasi tvaṃ jālma",
+      "orthography": "source joined initial a+pacasi, two grammatical padas"
+    },
+    {
+      "id": "CENSURE_KR_NANJ",
+      "input_finite": "KR_P2SG_LAT",
+      "speech_frame": "confirmed avakṣepa/nindā parallel source censure",
+      "particle": "actual negative nañ under vārttika-extension policy",
+      "trace": [
+        "negative-oldn deleted→separatea-pada",
+        "karoṣi currentP2sg unchanged, not augmentedpast",
+        "source tvaṃ/jālma carried with same second-singular controller"
+      ],
+      "padas": [
+        "a",
+        "karoṣi",
+        "tvam",
+        "jālma"
+      ],
+      "readout": "akaroṣi tvaṃ jālma",
+      "orthography": "two grammatical padas at initial a+karoṣi"
+    },
+    {
+      "id": "ORDINARY_NA_PAC",
+      "input_finite": "PAC_P2SG_LAT",
+      "speech_frame": "ordinary supplied sentential negation, avakṣepa-extension not asserted",
+      "particle": "ordinary independent na",
+      "trace": [
+        "no compounduttarapada and no censureextension→no6.3.73n-lopa",
+        "na/pacasi remain separate; negative operator not identified by printeda alone"
+      ],
+      "padas": [
+        "na",
+        "pacasi"
+      ],
+      "readout": "na pacasi"
+    },
+    {
+      "id": "ORDINARY_NA_ASTI",
+      "input_finite": "AS_P3SG_LAT",
+      "speech_frame": "ordinary supplied ghaṭonāsti-type context",
+      "particle": "ordinary independent na",
+      "trace": [
+        "no6.3.73n-lopa; no6.3.74deleted-n premise",
+        "na|asti a+a→ā6.1.101→nāsti; originalparticle n retained"
+      ],
+      "padas": [
+        "na",
+        "asti"
+      ],
+      "readout": "nāsti"
+    }
+  ],
+  "source_policies": [
+    {
+      "id": "VARTTIKA_NANJ_EXTENSION",
+      "sources": [
+        "Bhāṣya63073vārttika6479",
+        "K63073",
+        "Nyāsa63073"
+      ],
+      "admission": "confirmed censure with actual nañ; delete n even though no tiṅ compound",
+      "readouts": [
+        "CENSURE_PAC_NANJ",
+        "CENSURE_KR_NANJ"
+      ]
+    },
+    {
+      "id": "LEXICAL_A_AVAILABLE_BALA",
+      "sources": [
+        "Bāla63074",
+        "Nyāsa63073objection"
+      ],
+      "admission": "independently admitted negative a particle on matched censure frame",
+      "trace": "no originalnañ-n and no n-lopa event; same separatea/finitepadas",
+      "shared_readouts": [
+        "CENSURE_PAC_NANJ",
+        "CENSURE_KR_NANJ"
+      ],
+      "boundary": "source-dependent alternative history, not a new finite word or automatically universal lexicon policy"
+    },
+    {
+      "id": "A_UNAUTHENTICATED_REPORTED_KECIT",
+      "sources": [
+        "Bāla63074kecit"
+      ],
+      "admission": "reported objection to independenta lexicalauthority; vārttika history still available",
+      "boundary": "retain reported dispute; original lexical-authority/print adjudication Open"
+    }
+  ],
+  "controls": [
+    {
+      "id": "CENSURE_MEANS_ABSENCE_OF_COOKING",
+      "status": "Excluded_wrong_source_meaning",
+      "reason": "source explicitlykutsitaṃpacasi, censure of conduct; no Boolean absence-of-event theorem"
+    },
+    {
+      "id": "A_IS_AT_OR_AT_AUGMENT",
+      "status": "Excluded_wrong_lakara_owner",
+      "reason": "currentlaṭsourceinput remains; a is a separateparticlepada"
+    },
+    {
+      "id": "TING_COMPOUND_WITH_A",
+      "status": "Excluded_source_no_samasa"
+    },
+    {
+      "id": "NANJ_UNDELETED_ON_CONFIRMED_EXTENSION",
+      "status": "Excluded_conflicts_with_prescribed_edge",
+      "reason": "not a global rejection of every possible na utterance"
+    },
+    {
+      "id": "WHOLE_63074_NUT_TO_ANY_FINITE_A",
+      "status": "Excluded_missing_compound_uttarapada_scope"
+    },
+    {
+      "id": "TADDHITA_NANJ_41087_IS_NEGATIVE",
+      "status": "Excluded_wrong_affix_role",
+      "reason": "Nyāsa/Tattva straiṇārtha source control; prefix-negative role required, not just identicalnanjsound"
+    },
+    {
+      "id": "EVERY_SENTENCE_WITH_JALMA_IS_CENSURE_FRAME",
+      "status": "Open_semantic_parsing"
+    },
+    {
+      "id": "OTHER_TENSE_PERSON_VOWEL_INITIAL_FINITE",
+      "status": "Open_unconstructed"
+    },
+    {
+      "id": "ORIGINAL_A_LEXICON_PRINT_OR_WHOLE_DIALOGUE_LINEAGE",
+      "status": "Open_source_authority"
+    },
+    {
+      "id": "UNKNOWN_PARTICLE_OR_SPEECH_ACT",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_syntactic_constructions": 1,
+    "new_syntactic_readouts": 4,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 1
+  },
+  "primary_display": {
+    "source": "Bhāṣya63073",
+    "wording": [
+      "apacasi vai tvaṃ jālma",
+      "akaroṣi vai tvaṃ jālma"
+    ],
+    "boundary": "vai-present source display attributed, not another construction/readout credit or unqualifiedvaioption"
+  },
+  "scope": "two fixed censure finite inputs and two ordinarynegative controls, independently admitted particle/source/speech-act labels; no unrestricted negative parser",
+  "finite_credit_boundary": "attested supplied finite tokens unchanged, zero new finite-position/readings; orthographic a+verb not counted as a newly inflected compound stem",
+  "alternative_histories": [
+    {
+      "id": "CENSURE_PAC_LEXICAL_A",
+      "source_policy": "LEXICAL_A_AVAILABLE_BALA",
+      "input_finite": "PAC_P2SG_LAT",
+      "particle": "independent negative a",
+      "trace": [
+        "lexical a admitted before the source censure finite input",
+        "no originalnañ-n/no n-lopa event; same separatepada boundary"
+      ],
+      "readout_ref": "CENSURE_PAC_NANJ",
+      "readout": "apacasi tvaṃ jālma"
+    },
+    {
+      "id": "CENSURE_KR_LEXICAL_A",
+      "source_policy": "LEXICAL_A_AVAILABLE_BALA",
+      "input_finite": "KR_P2SG_LAT",
+      "particle": "independent negative a",
+      "trace": [
+        "lexical a admitted on matched parallel censure frame",
+        "no originalnañ-n/no n-lopa event; finite currentP2sg retained"
+      ],
+      "readout_ref": "CENSURE_KR_NANJ",
+      "readout": "akaroṣi tvaṃ jālma"
+    }
+  ],
+  "accounting_boundary": "4 distinct controlled expression observations,6owned histories; the two independent-a alternatives do not add expression/word credits"
+}
