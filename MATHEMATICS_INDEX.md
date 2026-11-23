@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG607 closes [monthly wage-kan and outer ṭhac recipes](research/panini_grammar/monthly_wage_kan_and_outer_thac_without_kit_grade/README.md): two adapters/four readouts,two compound plans,one meaning contract/two frames,one source observation. Zero word/accent/new-policy credits;base-n/kan-n_ITandinner/righta retained;outercITdoesnotlicensekitvṛddhi. Totals51,819finite;6,670nominal/7,904readings;wider gates Open.
+
 PG606 constructs [principal ordinal nights,star leaders and ap ownership](research/panini_grammar/principal_ordinal_nights_star_leaders_and_owned_ap/README.md): three adapters/eight stems,three compound contracts/eight plans,three meaning contracts/eight frames,three observations. Zero word/accent/new-policy credits;denotedcollection/leaderword/first-rightīandapmarkers retained. Totals51,819finite;6,670nominal/7,904readings;wider gates Open.
 
 PG605 closes [three ṣac feminine case families](research/panini_grammar/three_sac_feminine_case_panels_and_sounded_nasal_triggers/README.md): 72authored keys/readings minus three source NOMsg controls=69new unique nominal positions/69readings. Soundedrightṣversussilentṣ_IT andouterī/nuṭ retained;zero finite/separate construction/source/accent credits. Totals51,819finite;6,670nominal/7,904readings;wider gates Open.

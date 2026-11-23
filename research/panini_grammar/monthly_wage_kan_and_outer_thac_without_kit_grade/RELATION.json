@@ -1,0 +1,185 @@
+{
+  "stage": "PG607",
+  "inner_frames": [
+    {
+      "id": "pañcaka",
+      "readout": "pañcaka",
+      "parent": "pañcan",
+      "relation": "51056NOM_amount_to_GEN_target_wage",
+      "suffix": "kan",
+      "markers": [
+        "n_IT"
+      ],
+      "payload": "ka",
+      "base_n_operation": "14017pada_beforeconsonantk;82007basefinaln_lopa_only",
+      "not_operation": "64144wholean_ṭi_lopa",
+      "grade": "dentalnITnotṇIT_no72117grade",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "daśaka",
+      "readout": "daśaka",
+      "parent": "daśan",
+      "relation": "51056NOM_amount_to_GEN_target_wage",
+      "suffix": "kan",
+      "markers": [
+        "n_IT"
+      ],
+      "payload": "ka",
+      "base_n_operation": "14017pada_beforeconsonantk;82007basefinaln_lopa_only",
+      "not_operation": "64144wholean_ṭi_lopa",
+      "grade": "dentalnITnotṇIT_no72117grade",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    }
+  ],
+  "outer_frames": [
+    {
+      "id": "pañcakamāsika",
+      "readout": "pañcakamāsika",
+      "parent": "pañcakamāsa",
+      "inner_wage_stem": "pañcaka",
+      "compound_class": "sourcewage_first_māsa_bahuvrīhi",
+      "gender": "M",
+      "referent": "sourcekarmakara",
+      "suffix": "ṭhac",
+      "markers": [
+        "c_IT"
+      ],
+      "retained_target": "actualṭh_slot_PG545consumer",
+      "replacement": "73050initialṭh_to_ik_originalsuffixa_retained",
+      "base_lopa": "64148rightmāsa_finala_beforeik;innerkan_aretained",
+      "grade": "no72118becauseoutercITnotkIT;no72117ñIT_ṇIT",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "daśakamāsika",
+      "readout": "daśakamāsika",
+      "parent": "daśakamāsa",
+      "inner_wage_stem": "daśaka",
+      "compound_class": "sourcewage_first_māsa_bahuvrīhi",
+      "gender": "M",
+      "referent": "sourcekarmakara",
+      "suffix": "ṭhac",
+      "markers": [
+        "c_IT"
+      ],
+      "retained_target": "actualṭh_slot_PG545consumer",
+      "replacement": "73050initialṭh_to_ik_originalsuffixa_retained",
+      "base_lopa": "64148rightmāsa_finala_beforeik;innerkan_aretained",
+      "grade": "no72118becauseoutercITnotkIT;no72117ñIT_ṇIT",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    }
+  ],
+  "compound_plans": [
+    {
+      "id": "pañcakamāsa",
+      "class_": "bahuvrīhi",
+      "first": "pañcaka",
+      "right": "māsa",
+      "frame": "sourcepañcako_daśako_māso_asya_karmakaraḥ",
+      "wage_amount": "five",
+      "wage_unit": "supplied_historical_unit_not_moderncurrency",
+      "outside": "worker_salary_month_relation_notnumeralmonthduration"
+    },
+    {
+      "id": "daśakamāsa",
+      "class_": "bahuvrīhi",
+      "first": "daśaka",
+      "right": "māsa",
+      "frame": "sourcepañcako_daśako_māso_asya_karmakaraḥ",
+      "wage_amount": "ten",
+      "wage_unit": "supplied_historical_unit_not_moderncurrency",
+      "outside": "worker_salary_month_relation_notnumeralmonthduration"
+    }
+  ],
+  "semantic_contracts": [
+    {
+      "contract": "WAGE_MONTH",
+      "frames": [
+        "five_unitwage_month_of_sourceworker",
+        "ten_unitwage_month_of_sourceworker"
+      ]
+    }
+  ],
+  "controls": [
+    {
+      "id": "INNER_N_OWNERS",
+      "status": "Excluded_merge",
+      "reason": "basepañcan_daśann_andkan_nITdifferentaddresses/causes"
+    },
+    {
+      "id": "KAN_AS_NIT_RETROFLEX",
+      "status": "Excluded",
+      "reason": "dentalnITnotṇIT"
+    },
+    {
+      "id": "OUTER_THAK",
+      "status": "Excluded_this_recipe",
+      "reason": "actual116ṭhac_notṭhak_no72118initialvṛddhi"
+    },
+    {
+      "id": "WHOLE_AN_LOPA",
+      "status": "Excluded",
+      "reason": "kanstartsconsonantk;padafinalnonly_retaina"
+    },
+    {
+      "id": "PURCHASE_AMOUNT",
+      "status": "Excluded_this_frame",
+      "reason": "51056wageNOM_relation_not51037INSTRpurchase"
+    },
+    {
+      "id": "ANY_FIVE_MONTHS",
+      "status": "Excluded_this_frame",
+      "reason": "bhṛtipratyayafirstmembernecessary_notdurationcount"
+    },
+    {
+      "id": "RUPEE_UNIT",
+      "status": "Open",
+      "reason": "sourcehistoricalunitunspecified_notmodernconversion"
+    },
+    {
+      "id": "FULL_CASE_ACCENT",
+      "status": "Open",
+      "reason": "fourformationreadoutsnotparadigms/recitation"
+    },
+    {
+      "id": "OTHER_WAGE_MONTHS",
+      "status": "Open",
+      "reason": "othernumerals/ti_śatselectorsneedseparateactualframes"
+    }
+  ],
+  "source_observation_units": [
+    "K116wagevārttika_and51056_51022_with14017pada_n_lopa_vsouterṭhac72118gradeboundary"
+  ],
+  "counts": {
+    "new_morphological_constructions": 2,
+    "new_morphological_readouts": 4,
+    "new_compound_constructions": 1,
+    "new_compound_readouts": 2,
+    "new_semantic_constructions": 1,
+    "new_semantic_readouts": 2,
+    "new_source_observations": 1,
+    "new_source_policy_decisions": 0,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  },
+  "unit_boundary": "2formationadapters4readouts(2innerwagekan+2finishedṭhac);1compoundcontract2intermediatewage-monthplans;1meaningcontract2frames;1sourceobservation.0word/accent/newpolicycredits."
+}

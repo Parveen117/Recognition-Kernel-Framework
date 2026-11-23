@@ -1,6 +1,6 @@
-# Written-development backlog at PG606
+# Written-development backlog at PG607
 
-Monty · 23 November 2026 · reviewed current parent 21c3bbb84026fa143d2d05ee60ec6fbba8afe2c5; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent babf5ba0649d15fe768411dc99456a50e79bd593; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1349,3 +1349,10 @@ SupersedesPG604threeFcase-nextonlyonactualdīrghasakthī/jalajākṣī/śobhanā
 PG606 constructs [principal ordinal nights,star leaders and ap ownership](principal_ordinal_nights_star_leaders_and_owned_ap/README.md): three adapters/eight stems,three compound contracts/eight plans,three meaning contracts/eight frames,three observations. Zero word/accent/new-policy credits;denotedcollection/leaderword/first-rightīandapmarkers retained. Totals51,819finite;6,670nominal/7,904readings;wider gates Open.
 
 Selected8interfaceslocallyCLOSED. Actual116wage-monthkan/ṭhacrecipesnext;Somanetrāḥfullcontext/agreementandpramāṇīinnerroot/SmṛtietymologiesOpenwith0credits.118onward/fullcases/genders/accentandearlierdaśabhūmaka/pur/palya/citation-i/parokṣarecipe/Tattva106nested/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
+
+
+### PG607 · PG606twoactualwage-monthrecipesCLOSED
+
+PG607 closes [monthly wage-kan and outer ṭhac recipes](monthly_wage_kan_and_outer_thac_without_kit_grade/README.md): two adapters/four readouts,two compound plans,one meaning contract/two frames,one source observation. Zero word/accent/new-policy credits;base-n/kan-n_ITandinner/righta retained;outercITdoesnotlicensekitvṛddhi. Totals51,819finite;6,670nominal/7,904readings;wider gates Open.
+
+Actualkanwagefirst/rightmāsa/workerroleandouterṭhac→ik|aowned;notṭhakinitialgrade. Otheramount/price/share/wage/numeral/case/accentand118onward,Somanetrāḥcontext/agreement,pramāṇīinner/Smṛtietymologies,earlierdaśabhūmaka/pur/palya/citation-i/parokṣarecipe/Tattva106nested/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
