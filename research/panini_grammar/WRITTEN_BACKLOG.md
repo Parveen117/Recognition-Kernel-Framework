@@ -1,6 +1,6 @@
-# Written-development backlog at PG605
+# Written-development backlog at PG606
 
-Monty · 23 November 2026 · reviewed current parent f887777d5f107d3919462ae90f7fdc4624018bc0; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 21c3bbb84026fa143d2d05ee60ec6fbba8afe2c5; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1342,3 +1342,10 @@ Selected14interfaceslocallyCLOSED;primary41054formaldefinitionplusnonlivingarcā
 PG605 closes [three ṣac feminine case families](three_sac_feminine_case_panels_and_sounded_nasal_triggers/README.md): 72authored keys/readings minus three source NOMsg controls=69new unique nominal positions/69readings. Soundedrightṣversussilentṣ_IT andouterī/nuṭ retained;zero finite/separate construction/source/accent credits. Totals51,819finite;6,670nominal/7,904readings;wider gates Open.
 
 SupersedesPG604threeFcase-nextonlyonactualdīrghasakthī/jalajākṣī/śobhanākṣī. GENpldentalnversussoundedrightṣ-triggeredṇ,not silentmarker. Othergenders/profiles/cases/fullaccent/116onwardandPG604criticalsource/PG593measurelineage/earlierdaśabhūmaka/pur/palya/citation-i/parokṣarecipe/Tattva106nested/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
+
+
+### PG606 · Principalnightcollectionandactualleaderword
+
+PG606 constructs [principal ordinal nights,star leaders and ap ownership](principal_ordinal_nights_star_leaders_and_owned_ap/README.md): three adapters/eight stems,three compound contracts/eight plans,three meaning contracts/eight frames,three observations. Zero word/accent/new-policy credits;denotedcollection/leaderword/first-rightīandapmarkers retained. Totals51,819finite;6,670nominal/7,904readings;wider gates Open.
+
+Selected8interfaceslocallyCLOSED. Actual116wage-monthkan/ṭhacrecipesnext;Somanetrāḥfullcontext/agreementandpramāṇīinnerroot/SmṛtietymologiesOpenwith0credits.118onward/fullcases/genders/accentandearlierdaśabhūmaka/pur/palya/citation-i/parokṣarecipe/Tattva106nested/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
