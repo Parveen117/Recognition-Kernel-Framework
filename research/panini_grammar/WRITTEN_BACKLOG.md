@@ -934,3 +934,10 @@ Selectedtwoexactnamed3affixMcasefamiliesclosedonly;notalllistednames/affixes.Kai
 PG547 constructs [primary fourth-vowel ka and homographic i ownership](fourth_vowel_primary_ka_and_homographic_i_ownership/README.md):1morphology adapter8unique stems10histories+1primaryentry observation;0newword positions/readings. PrimarysettlesBṛhaspati/Prajāpatifourth-vowelplainka;thacnewiversuskaretainedi explicit.RegularMconsumerreusedwithoutanothercasecensus. Totalsunchanged51,819finite;6,384nominal/7,583readings;global gates Open.
 
 Selectedtwoexactfourth-vowelnames/5historieseachCLOSED;previousplainkaquestionpositivelysettledonthisboundary.Otherlongnames/first-member/affixless/gender/accent/sourceoriginalnotuniversallyclosed.RegularMconsumerreused,0newcasecensus.Nextactualfirst-member/affixlesscontractsafterclosedregisterreview.C2-C5/S1-S7/Claude/nativeunchanged.
+
+
+### PG548 · Affixed first-member loss and bare aliases are different operators
+
+PG548 constructs [first-member and affixless-name alias ownership](first_member_and_affixless_name_alias_ownership/README.md):2morphology contracts9unique stems11paths;0word/source increments. Fullnamegatebeforefirstmemberloss,no phantomzero-ka;Devadatta/YajñadattaDattahistoriesdistinct.SKfemaleSatyānewṭāpāversusretainedBhāmāoldāexplicit.SharedM/Fcaseconsumersreused. Totalsunchanged51,819finite;6,384nominal/7,583readings;global gates Open.
+
+Selectedaffixed/barealiaseslocallyclosedonly,0regularcasecensus.Noaffectionatetaddhita≠nofeminine/supgrammar;sourcefemaleSKattributionkept.Innercompound/etymology/printandothernamesOpen.Nextactualu-vowelilacpartial-lopa/reportedṛextensionafterclosedregisterreview.C2-C5/S1-S7/Claude/nativeunchanged.

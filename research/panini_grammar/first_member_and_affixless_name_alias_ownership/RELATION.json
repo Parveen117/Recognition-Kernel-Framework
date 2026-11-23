@@ -1,0 +1,228 @@
+{
+  "stage": "PG548",
+  "affixed_paths": [
+    {
+      "id": "DEVA_THAC",
+      "input_name": "Devadatta",
+      "referent": "q_DEVA",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "actual_affix": "ṭhac",
+      "cut": "deletewholefirstmemberdeva,retainwhole datta",
+      "stem": "dattika",
+      "position_credit": 0
+    },
+    {
+      "id": "DEVA_GHAN",
+      "input_name": "Devadatta",
+      "referent": "q_DEVA",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "actual_affix": "ghan",
+      "cut": "deletewholefirstmemberdeva,retainwhole datta",
+      "stem": "dattiya",
+      "position_credit": 0
+    },
+    {
+      "id": "DEVA_ILAC",
+      "input_name": "Devadatta",
+      "referent": "q_DEVA",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "actual_affix": "ilac",
+      "cut": "deletewholefirstmemberdeva,retainwhole datta",
+      "stem": "dattila",
+      "position_credit": 0
+    },
+    {
+      "id": "DEVA_KA",
+      "input_name": "Devadatta",
+      "referent": "q_DEVA",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "actual_affix": "ka",
+      "cut": "deletewholefirstmemberdeva,retainwhole datta",
+      "stem": "dattaka",
+      "position_credit": 0
+    },
+    {
+      "id": "YAJNA_KA_PRIMARY",
+      "input_name": "Yajñadatta",
+      "referent": "q_YAJNA",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "actual_affix": "ka",
+      "cut": "deletewholefirstmemberyajña,retainwhole datta",
+      "stem": "dattaka",
+      "position_credit": 0
+    }
+  ],
+  "affixless_paths": [
+    {
+      "id": "DEVA_KEEP_DATTA",
+      "input_name": "Devadatta",
+      "referent": "q_DEVA",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "retained_member": "datta",
+      "deleted_member": "deva",
+      "affectionate_taddhita": null,
+      "gender_operation": "none",
+      "stem": "datta",
+      "position_credit": 0
+    },
+    {
+      "id": "DEVA_KEEP_DEVA",
+      "input_name": "Devadatta",
+      "referent": "q_DEVA",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "retained_member": "deva",
+      "deleted_member": "datta",
+      "affectionate_taddhita": null,
+      "gender_operation": "none",
+      "stem": "deva",
+      "position_credit": 0
+    },
+    {
+      "id": "YAJNA_KEEP_DATTA",
+      "input_name": "Yajñadatta",
+      "referent": "q_YAJNA",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "retained_member": "datta",
+      "deleted_member": "yajña",
+      "affectionate_taddhita": null,
+      "gender_operation": "none",
+      "stem": "datta",
+      "position_credit": 0
+    },
+    {
+      "id": "YAJNA_KEEP_YAJNA",
+      "input_name": "Yajñadatta",
+      "referent": "q_YAJNA",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "retained_member": "yajña",
+      "deleted_member": "datta",
+      "affectionate_taddhita": null,
+      "gender_operation": "none",
+      "stem": "yajña",
+      "position_credit": 0
+    },
+    {
+      "id": "SATYA_KEEP_BHAMA",
+      "input_name": "Satyabhāmā",
+      "referent": "q_SATYA",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "f",
+      "retained_member": "bhāmā",
+      "deleted_member": "satya",
+      "affectionate_taddhita": null,
+      "gender_operation": "oldrightmemberāretained",
+      "stem": "bhāmā",
+      "position_credit": 0
+    },
+    {
+      "id": "SATYA_KEEP_SATYA",
+      "input_name": "Satyabhāmā",
+      "referent": "q_SATYA",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "f",
+      "retained_member": "satya",
+      "deleted_member": "bhāmā",
+      "affectionate_taddhita": null,
+      "gender_operation": "newṭāpāafterretainedshortsatya,noaffectionatetaddhita",
+      "stem": "satyā",
+      "position_credit": 0
+    }
+  ],
+  "controls": [
+    {
+      "id": "AFFIX_GATE_RETEST_ONLY_TWO_VOWEL_DATTA",
+      "status": "Excluded_wrong_source_admission_view"
+    },
+    {
+      "id": "DELETE_FIRST_MEMBER_AND_DATTA_TAIL_TOGETHER",
+      "status": "Excluded_cumulative_target_collapse"
+    },
+    {
+      "id": "APRATYAYE_INVENT_ZERO_KA",
+      "status": "Excluded_phantom_affix"
+    },
+    {
+      "id": "WITHOUT_TADDHITA_MEANS_NO_GENDER_OR_SUP",
+      "status": "Excluded_category_collapse"
+    },
+    {
+      "id": "SATYA_NEW_AA_IS_LOST_BHAMA_AA",
+      "status": "Excluded_vowel_owner_collapse"
+    },
+    {
+      "id": "DATTA_SPELLING_UNIQUELY_RECOVERS_FULL_NAME",
+      "status": "Excluded_noninjective_renderer_inverse"
+    },
+    {
+      "id": "ANY_COMPOUND_WORD_CAN_DROP_ANY_MEMBER",
+      "status": "Open_unprovided_name_scope"
+    },
+    {
+      "id": "ORIGINAL_INNER_NAME_COMPOUND_ETYMology_AND_PRINT",
+      "status": "Open_below_input_or_critical"
+    },
+    {
+      "id": "OTHER_NAME_AFFIX_GENDER_ACCENT_AND_PHONETIC_PRODUCTS",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 2,
+    "new_morphological_readouts": 9,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0
+  },
+  "output_accounting": {
+    "affixed_unique_stems": 4,
+    "affixless_unique_stems": 5,
+    "owned_paths": 11,
+    "new_word_positions": 0
+  },
+  "case_consumer_bridge": "ExactregularM-a/Fāconsumersreusedonactualderivedgender/retainedsourceidentity;no freshliteralcasepanel/census.",
+  "source_boundary": "PrimaryentryalreadyPG547counted;allselectedexampleoutputsoldcontrolsand0newwordcredits;sourceSKfemaleexamplesattributedwithoutpretendingquotedprimarycontainsfemaleparagraph."
+}

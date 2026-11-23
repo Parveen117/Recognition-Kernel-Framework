@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG547
+# Pāṇini grammar · current written coverage at PG548
+
+PG548 constructs [first-member and affixless-name alias ownership](first_member_and_affixless_name_alias_ownership/README.md):2morphology contracts9unique stems11paths;0word/source increments. Fullnamegatebeforefirstmemberloss,no phantomzero-ka;Devadatta/YajñadattaDattahistoriesdistinct.SKfemaleSatyānewṭāpāversusretainedBhāmāoldāexplicit.SharedM/Fcaseconsumersreused. Totalsunchanged51,819finite;6,384nominal/7,583readings;global gates Open.
 
 PG547 constructs [primary fourth-vowel ka and homographic i ownership](fourth_vowel_primary_ka_and_homographic_i_ownership/README.md):1morphology adapter8unique stems10histories+1primaryentry observation;0newword positions/readings. PrimarysettlesBṛhaspati/Prajāpatifourth-vowelplainka;thacnewiversuskaretainedi explicit.RegularMconsumerreusedwithoutanothercasecensus. Totalsunchanged51,819finite;6,384nominal/7,583readings;global gates Open.
 
