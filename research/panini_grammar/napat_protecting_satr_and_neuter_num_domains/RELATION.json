@@ -1,0 +1,431 @@
+{
+  "stage": "PG524",
+  "paths": [
+    {
+      "id": "PROTECTING_PA_SATR",
+      "root_id": "1020051",
+      "root_sense": "rakṣaṇa",
+      "preverb": null,
+      "voice": "active kartṛ participial input",
+      "pada": "P root entitlement; no finite-ending credit",
+      "affix": "śatṛ replacing admitted current laṭ",
+      "trace": [
+        "ś and ṛ are it; ṛ gives retained ugit witness; sounded at",
+        "śit→sārvadhātuka; adādi śap luk2.4.72",
+        "pā|at→pāt6.1.101; long ā has root and suffix-vowel ancestries",
+        "6.3.75 designated negative keeps n/a→napāt"
+      ],
+      "readout": "napāt",
+      "output_type": "OwnedTFinalDesignatedStem"
+    }
+  ],
+  "num_queries": [
+    {
+      "id": "N_SINGULAR",
+      "ending": "su/am (luk)",
+      "sarvanamasthana": false,
+      "num": "none",
+      "reason": "1.1.43 excludes N from suṭ; no śi or śī/nadī trigger"
+    },
+    {
+      "id": "N_DUAL_STRONG",
+      "ending": "śī7.1.19",
+      "sarvanamasthana": false,
+      "num": [
+        "KEEP",
+        "INSERT"
+      ],
+      "reason": "7.1.80 ā-before-śatṛ history admits optional num; 7.1.81 śap/śyan mandatory trigger unavailable after śap-luk1.1.63"
+    },
+    {
+      "id": "N_PLURAL_STRONG",
+      "ending": "śi7.1.20",
+      "sarvanamasthana": true,
+      "num": "INSERT",
+      "reason": "1.1.42 actual short-śi; N jhal-final 7.1.72 applies, not optional dual policy"
+    },
+    {
+      "id": "N_OBLIQUE",
+      "ending": "actual remaining sup",
+      "sarvanamasthana": false,
+      "num": "none",
+      "reason": "no strong śi/śī/nadī query; no vocalic-i/u/ṛ stem entitlement for num/nuṭ"
+    }
+  ],
+  "rows": [
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "nom",
+      "number": "sg",
+      "readings": [
+        "napāt",
+        "napād"
+      ],
+      "position_credit": 0,
+      "reading_credit": 1,
+      "old_reading_indices": [
+        0
+      ],
+      "num_query": "N_SINGULAR"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "acc",
+      "number": "sg",
+      "readings": [
+        "napāt",
+        "napād"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "num_query": "N_SINGULAR"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "ins",
+      "number": "sg",
+      "readings": [
+        "napātā"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "num_query": "N_OBLIQUE"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "dat",
+      "number": "sg",
+      "readings": [
+        "napāte"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "num_query": "N_OBLIQUE"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "abl",
+      "number": "sg",
+      "readings": [
+        "napātaḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "num_query": "N_OBLIQUE"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "gen",
+      "number": "sg",
+      "readings": [
+        "napātaḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "num_query": "N_OBLIQUE"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "loc",
+      "number": "sg",
+      "readings": [
+        "napāti"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "num_query": "N_OBLIQUE"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "voc",
+      "number": "sg",
+      "readings": [
+        "napāt",
+        "napād"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "num_query": "N_SINGULAR"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "nom",
+      "number": "du",
+      "readings": [
+        "napātī",
+        "napāntī"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "num_query": "N_DUAL_STRONG"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "acc",
+      "number": "du",
+      "readings": [
+        "napātī",
+        "napāntī"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "num_query": "N_DUAL_STRONG"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "ins",
+      "number": "du",
+      "readings": [
+        "napādbhyām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "num_query": "N_OBLIQUE"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "dat",
+      "number": "du",
+      "readings": [
+        "napādbhyām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "num_query": "N_OBLIQUE"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "abl",
+      "number": "du",
+      "readings": [
+        "napādbhyām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "num_query": "N_OBLIQUE"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "gen",
+      "number": "du",
+      "readings": [
+        "napātoḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "num_query": "N_OBLIQUE"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "loc",
+      "number": "du",
+      "readings": [
+        "napātoḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "num_query": "N_OBLIQUE"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "voc",
+      "number": "du",
+      "readings": [
+        "napātī",
+        "napāntī"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": [],
+      "num_query": "N_DUAL_STRONG"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "nom",
+      "number": "pl",
+      "readings": [
+        "napānti"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "num_query": "N_PLURAL_STRONG"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "acc",
+      "number": "pl",
+      "readings": [
+        "napānti"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "num_query": "N_PLURAL_STRONG"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "ins",
+      "number": "pl",
+      "readings": [
+        "napādbhiḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "num_query": "N_OBLIQUE"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "dat",
+      "number": "pl",
+      "readings": [
+        "napādbhyaḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "num_query": "N_OBLIQUE"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "abl",
+      "number": "pl",
+      "readings": [
+        "napādbhyaḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "num_query": "N_OBLIQUE"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "gen",
+      "number": "pl",
+      "readings": [
+        "napātām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "num_query": "N_OBLIQUE"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "loc",
+      "number": "pl",
+      "readings": [
+        "napātsu"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "num_query": "N_OBLIQUE"
+    },
+    {
+      "profile": "NAPAT_K_NYASA_PROTECTING_N",
+      "gender": "n",
+      "case": "voc",
+      "number": "pl",
+      "readings": [
+        "napānti"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": [],
+      "num_query": "N_PLURAL_STRONG"
+    }
+  ],
+  "controls": [
+    {
+      "id": "DRINKING_PA_1011074",
+      "status": "Excluded_selected_root_sense",
+      "reason": "not the admitted rakṣaṇa identity; independent drinking derivations remain Open"
+    },
+    {
+      "id": "VEDIC_DESCENDANT_NAPAT",
+      "status": "Open_different_lexeme",
+      "reason": "preserve RV nápat/naptṛ source and its irregular/accented readings; do not substitute this participial family"
+    },
+    {
+      "id": "UGIT_ALWAYS_IMPLIES_NUM",
+      "status": "Excluded_missing_ending_prerequisite"
+    },
+    {
+      "id": "LONG_SI_EQUALS_SHORT_SI",
+      "status": "Excluded_ending_identity_error"
+    },
+    {
+      "id": "DELETED_SAP_LICENSES_MANDATORY_DUAL_NUM",
+      "status": "Excluded_luk_anga_query",
+      "reason": "retained history is not operative śap under1.1.63"
+    },
+    {
+      "id": "ALL_NUMBERS_NO_NUM_FROM_SINGULAR_QUOTE",
+      "status": "Excluded_globalization_of_local_query"
+    },
+    {
+      "id": "OBLIQUE_N_FINAL_LENGTH_OR_NUT",
+      "status": "Excluded_wrong_stem_domain"
+    },
+    {
+      "id": "OTHER_GENDER_OR_NON_DESIGNATED_IDENTITY",
+      "status": "Open_unconstructed"
+    },
+    {
+      "id": "ACCENT_VEDIC_TEACHER_OR_UNKNOWN_MEANING",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 23,
+    "new_nominal_readings": 29,
+    "new_source_observations": 0
+  },
+  "scope": "source-designated rakṣaṇa pā śatṛ napat under K/Nyāsa neuter policy; supplied three-number case requests; ordinary unaccented pause readings",
+  "source_boundary": "all new inflected readouts are authored source-rule compositions, not claimed verbatim whole-word attestation; no universal N-sense assignment or RV noun equivalence",
+  "old_control": "K63075 napāt already registered; nominal sg key old, its napād reading new; other23keys new",
+  "number_policy": "number is supplied for admitted designated bearer(s); no automatic parser or empirical assertion of such referents"
+}

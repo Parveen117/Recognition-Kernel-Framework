@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG523
+# Pāṇini grammar · current written coverage at PG524
+
+PG524 constructs [protecting-pā napat, śatṛ and neuter num domains](napat_protecting_satr_and_neuter_num_domains/README.md): 23 new nominal positions/29 readings; 24 keys/30 readings minus old napāt control. One morphology adapter/one stem readout, 0 finite/source additions. Singular no num, dual śī optional, plural śi mandatory; deleted śap cannot license mandatory dual num. Root 1020051 and RV descendant lexeme kept separate. Totals 51,819 finite; 5,824 nominal/6,795 readings; wider gates Open.
 
 PG523 constructs [Namuci ki/in ownership and source-qualified masculine singular](namuci_owned_ki_in_and_source_qualified_singular/README.md): 7 new nominal positions/7 readings after withholding old namuciḥ; 1 morphology adapter/1 stem readout with 2 attributed histories; 1 Vācaspatyam entry observation; 0 finite additions. Actual kit blocks root guṇa, actual śa absent blocks present num; later outer case guṇa remains licensed. Totals 51,819 finite; 5,801 nominal/6,766 readings; wider gates Open.
 

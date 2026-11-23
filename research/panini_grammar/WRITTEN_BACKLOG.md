@@ -1,4 +1,4 @@
-# Written-development backlog at PG523
+# Written-development backlog at PG524
 
 Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
@@ -766,3 +766,10 @@ PG521retentionpointer superseded only for4designatedlexemes/inneractualyat/contr
 PG523 constructs [Namuci ki/in ownership and source-qualified masculine singular](namuci_owned_ki_in_and_source_qualified_singular/README.md): 7 new nominal positions/7 readings after withholding old namuciḥ; 1 morphology adapter/1 stem readout with 2 attributed histories; 1 Vācaspatyam entry observation; 0 finite additions. Actual kit blocks root guṇa, actual śa absent blocks present num; later outer case guṇa remains licensed. Totals 51,819 finite; 5,801 nominal/6,766 readings; wider gates Open.
 
 PG522's Namuci morphology/singular pointer is superseded only on the selected VCP masculine asura profile. Six remaining full 6.3.75 analyses are nabhrāṭ, napat, navedas, napuṃsaka, nakṣatra, nakra. Next: Napat pā-protecting/śatṛ and neuter num guard; Nakṣatra source-specific kṣar/kṣi root and prescribed tra/replacement/deletion histories. Independent ten-pāda ki 1.48 collation, Namuci dual/plural/other senses, earlier four designated full case/source-gender families and S1–S7/C2–C5 remain Open. They are not exclusions or a full-language denominator.
+
+
+### PG524 · Napat owned śatṛ and neuter family
+
+PG524 constructs [protecting-pā napat, śatṛ and neuter num domains](napat_protecting_satr_and_neuter_num_domains/README.md): 23 new nominal positions/29 readings; 24 keys/30 readings minus old napāt control. One morphology adapter/one stem readout, 0 finite/source additions. Singular no num, dual śī optional, plural śi mandatory; deleted śap cannot license mandatory dual num. Root 1020051 and RV descendant lexeme kept separate. Totals 51,819 finite; 5,824 nominal/6,795 readings; wider gates Open.
+
+The selected Napat morphology/ordinary neuter three-number case gap is now locally CLOSED. Five remaining full designated analyses: nabhrāṭ, navedas, napuṃsaka, nakṣatra, nakra. Next source-grounded formation: Nakṣatra kṣar versus kṣi root identities, actual prescribed tra and r-deletion/i→a; preserve Nyāsa's extra kṣīṣ violence-root versus Tattva's tudādi residence/motion selection. Napat other genders/teachers/Vedic/accent and RV descendant remain separate Open contracts, as do prior source/gender/case questions and S1–S7/C2–C5. No whole-rule lexical or full-language denominator closure.
