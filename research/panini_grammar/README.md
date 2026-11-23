@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG562 constructs [Vāhīka ñyaṭ feminine y-lopa and named Vṛka ṭeṇyaṇ owners](vahiika_nyat_feminine_y_lopa_and_vrka_tenyana_owners/README.md):2morphology adapters6M-Fstems;1place/sense contract3records;1coupledNyāsaobservation;0word increments. Pre-lopay-upadhā/oldbasea/suffixa/newī/soundedṇ/markersdistinct;115elsewhere-scopekept. Preciseexclusionmapping/othercasesOpen. Totals51,819finite;6,384nominal/7,583readings;PG555−1policycorrectionretained/global gates Open.
+
 PG561 constructs [pūga/vrāta/cphañ ñya,tadrāja number and retained accent owners](puga_vrata_cphan_nya_tadraja_number_and_retained_accent_owners/README.md):1morphology adapter5stems;1accent adapter4records;1semantic class contract2readouts;1number-owner contract3branches;1Nyāsa observation;0word increments. Additive−1duplicatePG555policycredit;newprimary/semanticunitsunchanged. Outerñya-LUKdoesnoteraseinnercphañ/grade/accent. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 
 PG560 constructs [likeness aṇ/ṭhak/ṭhac/īkak and Vedic thāl/ima origins](likeness_an_thak_thac_ikak_and_vedic_thal_ima_origin/README.md):4morphology adapters12interfaces(8stems,4avyaya);1appearance semantic contract2readouts;1positive ima decision;1Nyāsa locator observation;0word increments. Actualmarkers/grade,borrowedredview,thāl/ā/ima/junctionowners explicit;Bālau/ūandindependentRigcriticalscopeOpen. Totals51,819finite;6,384nominal/7,583readings;global gates Open.

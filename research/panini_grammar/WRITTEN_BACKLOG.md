@@ -1,6 +1,6 @@
-# Written-development backlog at PG561
+# Written-development backlog at PG562
 
-Monty · 23 November 2026 · reviewed current parent 887e5b12239a6ffa289a92e968fd5101cb23876e; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent af4be7858bcbeb8b267abf3ddd44c5f99b60591c; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1032,3 +1032,10 @@ Selected107–111adapterslocallyCLOSED. SourceBālau/ūlength/independentRigando
 PG561 constructs [pūga/vrāta/cphañ ñya,tadrāja number and retained accent owners](puga_vrata_cphan_nya_tadraja_number_and_retained_accent_owners/README.md):1morphology adapter5stems;1accent adapter4records;1semantic class contract2readouts;1number-owner contract3branches;1Nyāsa observation;0word increments. Additive−1duplicatePG555policycredit;newprimary/semanticunitsunchanged. Outerñya-LUKdoesnoteraseinnercphañ/grade/accent. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 
 Selected112–113/119+MownedpluralbrancheslocallyCLOSED;generalNyāsadvandva/F/case/accentnotclosed. PG555newpolicycredit−1becausePG37alreadyadopted74/95distinction;itssemantic3/8andprimary1remainnew. Nextactual114–118group/gotraaffixwork;C2-C5/S1-S7/prior100/104source/native/Claudeunchanged.
+
+
+### PG562 · Selected114–115group/place/feminine owners
+
+PG562 constructs [Vāhīka ñyaṭ feminine y-lopa and named Vṛka ṭeṇyaṇ owners](vahiika_nyat_feminine_y_lopa_and_vrka_tenyana_owners/README.md):2morphology adapters6M-Fstems;1place/sense contract3records;1coupledNyāsaobservation;0word increments. Pre-lopay-upadhā/oldbasea/suffixa/newī/soundedṇ/markersdistinct;115elsewhere-scopekept. Preciseexclusionmapping/othercasesOpen. Totals51,819finite;6,384nominal/7,583readings;PG555−1policycorrectionretained/global gates Open.
+
+Kṣudraka/Mālava/VṛkaselectedM-FcontractsCLOSED;vārkeṇīrule-derivednotnewattestation. KŚālaṅkāyana-rājanyacontrollexicalmapping,othernames/cases/accentremainOpen. Nextactual116–118association/gotra;C2-C5/S1-S7/prior100/104/106scene/native/Claudeunchanged.
