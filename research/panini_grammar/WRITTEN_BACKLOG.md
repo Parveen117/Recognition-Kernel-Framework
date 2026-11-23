@@ -1,6 +1,6 @@
-# Written-development backlog at PG595
+# Written-development backlog at PG596
 
-Monty · 23 November 2026 · reviewed current parent 9a99ce05ff15643105f2fe31ee05ad6ed176f281; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent cbe97e120c2ecba790aa7b68743ebfb0d091a423; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1272,3 +1272,10 @@ Selected87–90interfaceslocallyCLOSED;Tattva88reportedacchanneladoptedwithoutdi
 PG595 closes [remaining ordinary masculine ahorātra cases](ahoratra_ordinary_masculine_remaining_case_closure/README.md): ten missing keys/11readings,withhold quoted NOMsg control;9new unique nominal positions/10readings. With PG448oldM14keys,the ordinaryMfamily is24keys/25readings. Zero finite/source/new-construction credits;N/Vedic/wider gates Open. Totals 51,819 finite;6,463 nominal/7,689 readings.
 
 PG448olddupluralM14keysandNpanelpreserved;new10keysdisjoint,oneNOMsgsourcecontrolwithheld. OrdinaryMall8×3closed;sourcechandasNsingular/vocative/fullaccentremainOpen. Other87–90familiesandactual91onward/daśabhūmaka/pur/palya/citation-i/critical/lexical/C2–C5/S1–S7/source/native/globalwork remains;Claudeexecutionseparate.
+
+
+### PG596 · ActualprospectiveLUKentitlementbeforeelision
+
+PG596 constructs [ṭac base ownership and prospective go-LUK domain](tac_base_ownership_and_prospective_go_luk_domain/README.md): two recipes/13 interfaces,ten ṭac and three valid no-ṭac;two compound contracts/13 plans,one LUKscope/four frames,one meaning/three frames and three observations. Zero word/accent/policy credits. Actual gender/base,adjectivaluttama,purchase/aggregate and prospectivetaddhita-LUK owners retained. Totals 51,819 finite;6,463 nominal/7,689 readings;wider gates Open.
+
+Selected91–92interfaceslocallyCLOSED;6sourceM91a-stemcasefamiliesnext. ProspectiveLUKguardnotafter-the-factemptytapecheck;ordinarysupLUKdoesnotblock. RawNyāsa21050referenceandfullgender/feminine/outercasesOpen. Actual93onwardandpriordaśabhūmaka/pur/palya/citation-i/critical/lexical/C2–C5/S1–S7/source/native/globalwork remains;Claudeexecutionseparate.
