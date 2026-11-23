@@ -1,6 +1,6 @@
-# Written-development backlog at PG643
+# Written-development backlog at PG644
 
-Monty · 2026-11-24 · reviewed current parent 2dd1e5ec4f1335d807072cee2b08d07009bf5a49; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 85af6f9ed80ffc52e6bcdde860e974b7d72380db; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1744,3 +1744,14 @@ Haim spatial antevāsi route locally CLOSED; full neuter/cross-tradition/global 
 - Closed the Haim spatial antevāsi route and its inner nominal antevāsa/ic history; PG637 pupil-state source and root999 person control receive no repeated credits.
 - The person antevāsī channel remains separate. PWG perhaps-neuter as a full paradigm, wider case/accent/corpus and cross-tradition equivalence remain Open; archive has no git commit and that limit is explicit.
 - Actual K139eight/extended139seven, remaining128 variants and prior C2–C5/S1–S7/native/global work remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+
+### PG644 · Four Haim padī comparison domains and distinct Viṣṇu history
+
+PG644: [Four Haim padī comparison domains and distinct Viṣṇu history](four_haim_padi_comparison_domains_and_distinct_vishnu_history/README.md). Four membership-only139 heads now have explicit Haim comparison meanings: dāsīpadī, vipadī, the distinct139 viṣṇupadī and sūkarapadī. Vi is bird-lexical, not a preverb; PG631 Viṣṇu ac/ṅīṣ histories stay separate. One morphology/four interfaces, one compound/four plans, four semantics/four records, two syntax/six records, one observation/decision; zero positions. Census51,819 finite;7,474 nominal/8,709 readings.
+
+Four Haim139 comparison meanings locally CLOSED; remaining members/global gates Open.
+
+- Closed four source-relative Haim comparison meanings without repeating existing list/case/VCP credits; K dāsīpadī remaining register decreases by one and extended Vasu139 by three.
+- K139 remaining seven: mālāpadī, munipadī, gopadī, kuṇapadī, sūpapadī, arvapadī, stanapadī. Extended remaining four: supadī, sūcīpadī, kalahamsapadī, viṣapadī. Other senses/cases/accent/critical priority remain Open.
+- Remaining128 and prior C2–C5/S1–S7/native/global obligations stay Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.

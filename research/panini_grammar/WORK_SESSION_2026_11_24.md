@@ -529,3 +529,19 @@ Haim spatial antevāsi route locally CLOSED; full neuter/cross-tradition/global 
 - Actual K139eight/extended139seven, remaining128 variants and prior C2–C5/S1–S7/native/global work remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG644 · Four Haim padī comparison domains and distinct Viṣṇu history
+
+Previous publication: 85af6f9ed80ffc52e6bcdde860e974b7d72380db; tree 6c1c84e935e0b3e4390cfb6760ce948f4d81d899. Necessary check: Python 3.12.14, 48 assertions, 1 attempt(s).
+
+PG644: [Four Haim padī comparison domains and distinct Viṣṇu history](four_haim_padi_comparison_domains_and_distinct_vishnu_history/README.md). Four membership-only139 heads now have explicit Haim comparison meanings: dāsīpadī, vipadī, the distinct139 viṣṇupadī and sūkarapadī. Vi is bird-lexical, not a preverb; PG631 Viṣṇu ac/ṅīṣ histories stay separate. One morphology/four interfaces, one compound/four plans, four semantics/four records, two syntax/six records, one observation/decision; zero positions. Census51,819 finite;7,474 nominal/8,709 readings.
+
+PG521–644 cumulative:1,696 nominal positions/1,966 readings, zero finite;233 morphology/1,006 interfaces (817 nominal/stem+10 finite+179 avyaya);119 compound/577 plans;7 accent/27 records;145 semantics/427 records;103 syntax/282 records;32 source-policy decisions after PG555−1;267 observations. One provenance correction/one proof addendum; no new census correction.
+
+Four Haim139 comparison meanings locally CLOSED; remaining members/global gates Open.
+- Closed four source-relative Haim comparison meanings without repeating existing list/case/VCP credits; K dāsīpadī remaining register decreases by one and extended Vasu139 by three.
+- K139 remaining seven: mālāpadī, munipadī, gopadī, kuṇapadī, sūpapadī, arvapadī, stanapadī. Extended remaining four: supadī, sūcīpadī, kalahamsapadī, viṣapadī. Other senses/cases/accent/critical priority remain Open.
+- Remaining128 and prior C2–C5/S1–S7/native/global obligations stay Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

@@ -1,0 +1,180 @@
+{
+  "stage": "PG644",
+  "title": "Four Haim padī comparison domains and distinct Viṣṇu history",
+  "predecessor_review": "PG633 left K dāsīpadī and extended Vasu vipadī/viṣṇupadī/sūkarapadī as membership-only meanings. PG631 already owns a separate VCP viṣṇupadī causal ac/ṅīṣ Gaṅgā/solar-ingress history. The new Haim page gives explicit comparison vigrahas for four139 members; no case fibre, list membership or VCP Viṣṇu construction is recredited.",
+  "tradition": "Haim comparison vigrahas; Pāṇinian/Vasu inventory channels retained separately",
+  "heads": [
+    {
+      "id": "DASIPADI",
+      "readout": "dāsīpadī",
+      "first": "dāsī",
+      "comparison": "dāsīvat",
+      "meaning": "feet like those of a maidservant",
+      "inventory": "K139_and_Haim",
+      "status": "Closed_source_relative",
+      "right": "pāda→pad",
+      "gender": "F",
+      "affix": "source-list feminine longī",
+      "root_id": null,
+      "preverb": null,
+      "finite_pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "VISNUPADI139",
+      "readout": "viṣṇupadī",
+      "first": "viṣṇu",
+      "comparison": "viṣṇuvat",
+      "meaning": "feet like those of Viṣṇu",
+      "inventory": "extended_Vasu139_and_Haim",
+      "status": "Closed_source_relative",
+      "right": "pāda→pad",
+      "gender": "F",
+      "affix": "source-list feminine longī",
+      "root_id": null,
+      "preverb": null,
+      "finite_pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "SUKARAPADI",
+      "readout": "sūkarapadī",
+      "first": "sūkara",
+      "comparison": "sūkarasya_iva",
+      "meaning": "feet like those of a boar",
+      "inventory": "extended_Vasu139_and_Haim",
+      "status": "Closed_source_relative",
+      "right": "pāda→pad",
+      "gender": "F",
+      "affix": "source-list feminine longī",
+      "root_id": null,
+      "preverb": null,
+      "finite_pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "VIPADI",
+      "readout": "vipadī",
+      "first": "vi_as_bird_lexeme",
+      "comparison": "vi_pakṣivat",
+      "meaning": "feet like those of a bird",
+      "inventory": "extended_Vasu139_and_Haim",
+      "status": "Closed_source_relative",
+      "right": "pāda→pad",
+      "gender": "F",
+      "affix": "source-list feminine longī",
+      "root_id": null,
+      "preverb": null,
+      "finite_pada": null,
+      "voice": null,
+      "position_credit": 0
+    }
+  ],
+  "compound_contracts": [
+    {
+      "id": "HAIM_PADI_COMPARISONS",
+      "plans": [
+        "dāsī+pāda→dāsīpadī",
+        "viṣṇu+pāda→viṣṇupadī",
+        "sūkara+pāda→sūkarapadī",
+        "vi_as_bird_lexeme+pāda→vipadī"
+      ]
+    }
+  ],
+  "semantic_contracts": [
+    {
+      "id": "DASIPADI",
+      "records": [
+        "dāsīvat"
+      ]
+    },
+    {
+      "id": "VISNUPADI139",
+      "records": [
+        "viṣṇuvat"
+      ]
+    },
+    {
+      "id": "SUKARAPADI",
+      "records": [
+        "sūkarasya_iva"
+      ]
+    },
+    {
+      "id": "VIPADI",
+      "records": [
+        "vi_pakṣivat"
+      ]
+    }
+  ],
+  "syntactic_contracts": [
+    {
+      "id": "COMPARISON_OWNER",
+      "records": [
+        "each first member supplies its own comparison standard",
+        "right pāda supplies the compared feet",
+        "all four selected source outputs are feminine"
+      ]
+    },
+    {
+      "id": "LEXICAL_IDENTITY_GUARDS",
+      "records": [
+        "vipadī vi is the source-glossed bird lexeme, not a verbal preverb",
+        "viṣṇupadī139 foot comparison does not replace PG631 causal ac/ṅīṣ histories",
+        "no root/pada/voice is inferred for any nominal comparison"
+      ]
+    }
+  ],
+  "source_observations": [
+    "Dhundika page292 gives four explicit comparison vigrahas rather than list membership alone"
+  ],
+  "source_policy": {
+    "id": "ADOPT_FOUR_HAIM_COMPARISONS_WITH_UNMERGED_INVENTORIES",
+    "new_policy_credit": 1,
+    "adopted": "Admit the four explicit Haim comparison meanings while retaining K/Vasu membership provenance and the separate VCP Viṣṇu derivation.",
+    "boundary": "Do not extrapolate meanings to other list members, treat vi as a preverb, or merge Viṣṇu comparison with Gaṅgā/solar-ingress ac/ṅīṣ channels."
+  },
+  "controls": [
+    {
+      "id": "FOUR_HAIM_COMPARISONS",
+      "status": "Closed_source_relative"
+    },
+    {
+      "id": "VIPADI_PREVERB_ANALYSIS",
+      "status": "Excluded"
+    },
+    {
+      "id": "VISNUPADI139_EQUALS_VCP_CAUSAL",
+      "status": "Excluded"
+    },
+    {
+      "id": "ALL_139_MEMBERS_INTERPRETED",
+      "status": "Open"
+    },
+    {
+      "id": "CASE_ACCENT_CORPUS",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_positions": 0,
+    "new_position_readings": 0,
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 4,
+    "new_compound_constructions": 1,
+    "new_compound_readouts": 4,
+    "new_semantic_constructions": 4,
+    "new_semantic_readouts": 4,
+    "new_syntactic_constructions": 2,
+    "new_syntactic_readouts": 6,
+    "new_source_policy_decisions": 1,
+    "new_source_observations": 1
+  }
+}

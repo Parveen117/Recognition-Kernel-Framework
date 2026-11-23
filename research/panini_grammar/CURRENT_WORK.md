@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG643
+# Pāṇini grammar · current written coverage at PG644
+
+PG644: [Four Haim padī comparison domains and distinct Viṣṇu history](four_haim_padi_comparison_domains_and_distinct_vishnu_history/README.md). Four membership-only139 heads now have explicit Haim comparison meanings: dāsīpadī, vipadī, the distinct139 viṣṇupadī and sūkarapadī. Vi is bird-lexical, not a preverb; PG631 Viṣṇu ac/ṅīṣ histories stay separate. One morphology/four interfaces, one compound/four plans, four semantics/four records, two syntax/six records, one observation/decision; zero positions. Census51,819 finite;7,474 nominal/8,709 readings.
 
 PG643: [Antevāsi spatial ic and the distinct pupil-agent history](antevasi_spatial_ic_and_distinct_pupil_agent_history/README.md). A Haim witness now positively separates spatial antevāsi tiṣṭhati (nominal ante+vāsa+ic/i) from root999/ṇin antevāsī guroḥ, without overwriting PG637 pupil-state meaning. Two morphology/four interfaces, one compound/two plans, two semantics/four records, two syntax/five records, one observation/one source decision; zero positions. Census 51,819 finite;7,474 nominal/8,709 readings.
 
