@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG608
+# Pāṇini grammar · current written coverage at PG609
+
+PG609 constructs [eight named ac compounds with owned time/foot parents](eight_named_ac_compounds_and_owned_time_foot_parents/README.md): three adapters/eight stems,one compound contract/eight plans,two meaning contracts/six frames,three observations;reportedtime-parentmicrotextOpen,0newpolicycredits. Zero word/accent credits;actualavyaya/righti/padbhāva/homonyms retained. Totals51,819finite;6,670nominal/7,904readings;wider gates Open.
 
 PG608 constructs [whole nāsikā replacements and prādi gra](whole_nasika_replacements_named_nas_and_pradi_gra/README.md): three families/13steminterfaces,two compound contracts/13plans,one target contract/three frames,two meaning contracts/five frames,four observations. Zero word/accent/new-policy credits;nas/gra/ac/noacandprādi/nonverbalowners retained. Totals51,819finite;6,670nominal/7,904readings;wider gates Open.
 

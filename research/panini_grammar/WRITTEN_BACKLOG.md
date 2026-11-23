@@ -1,6 +1,6 @@
-# Written-development backlog at PG608
+# Written-development backlog at PG609
 
-Monty · 23 November 2026 · reviewed current parent b82db8277222c290d99038c6f5272c3db5c44f41; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 8ccc2c694b97478b59d7e4a542f23e0dea1de543; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1363,3 +1363,10 @@ Actualkanwagefirst/rightmāsa/workerroleandouterṭhac→ik|aowned;notṭhakinit
 PG608 constructs [whole nāsikā replacements and prādi gra](whole_nasika_replacements_named_nas_and_pradi_gra/README.md): three families/13steminterfaces,two compound contracts/13plans,one target contract/three frames,two meaning contracts/five frames,four observations. Zero word/accent/new-policy credits;nas/gra/ac/noacandprādi/nonverbalowners retained. Totals51,819finite;6,670nominal/7,904readings;wider gates Open.
 
 Selected13ownedbaseinterfaceslocallyCLOSED;fullagreementnotinferredfromasstemquotes. Nyāsa119whole_nāsikā→graaftervi,notvi-replacement. Otherunnasapresentation/Vedicgender/case/passages/K_Nyāsamicrotext/firstvārdhrīinnerand120onward,earlierSomanetrāḥ/pramāṇī/Smṛti/daśabhūmaka/pur/palya/citation-i/parokṣarecipe/Tattva106nested/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
+
+
+### PG609 · Actualeightnamedacparentsnotoracle
+
+PG609 constructs [eight named ac compounds with owned time/foot parents](eight_named_ac_compounds_and_owned_time_foot_parents/README.md): three adapters/eight stems,one compound contract/eight plans,two meaning contracts/six frames,three observations;reportedtime-parentmicrotextOpen,0newpolicycredits. Zero word/accent credits;actualavyaya/righti/padbhāva/homonyms retained. Totals51,819finite;6,670nominal/7,904readings;wider gates Open.
+
+Selected8sourcebaseinterfaceslocallyCLOSED. Nyāsakarmaaccountpositive;TattvaanyeśaktimatreportconclusionmicrotextOpen,0newpolicycredits;genericcatasṛ/pādaorderingandfullVedicgender/case/accent/sourceconfluenceOpen.121onwardandearlierSomanetrāḥ/pramāṇī/Smṛti/daśabhūmaka/pur/palya/citation-i/parokṣarecipe/Tattva106nested/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
