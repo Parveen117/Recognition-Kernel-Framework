@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG508
+# Pāṇini grammar · current written coverage at PG509
+
+PG509 constructs [numeral compound choices and eighty nonfactorability](numeral_compound_replacement_choices_and_eighty_nonfactorability/README.md):1morphology adapter/27membership frames/42replacement branches/44stem readouts,0finite/nominal/source additions.Lower tens mandatory,higher40/50/60/70/90optional,80excluded for all3members;ordinary aṣṭāśīti uses n-lopa/coalescence.Trayas retains sounded s;independent sound options at60/70 explicit.Totals51,819finite;5,234nominal/6,187readings;global gates Open.
 
 PG508 completes [aṣṭan offering/cart cases and two singular aggregate panels](astan_offering_cart_and_single_aggregate_cases/README.md):55new nominal positions/59readings,0finite/source/separate construction credits.64keys68readings minus9old/conservative controls;offering M24,cart N24,two aggregates N8each.Dental n blocked from initial ṣ by ṭ;four abl.sg pause doublets.Two cart mechanisms retain one word ledger.Totals51,819finite;5,234nominal/6,187readings;global gates Open.
 

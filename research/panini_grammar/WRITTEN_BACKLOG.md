@@ -1,6 +1,6 @@
-# Written-development backlog at PG508
+# Written-development backlog at PG509
 
-Monty · 23 November 2026 · reviewed parent 59782ff8997b6519ada28f5cdecca588fe1b8339.
+Monty · 23 November 2026 · reviewed parent 15194716c3b6e045402385cc0021d4f7e08cfc1d.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -663,3 +663,9 @@ PG506 aṣṭan pointers superseded only on declared five nominal histories.Four
 PG508 completes [aṣṭan offering/cart cases and two singular aggregate panels](astan_offering_cart_and_single_aggregate_cases/README.md):55new nominal positions/59readings,0finite/source/separate construction credits.64keys68readings minus9old/conservative controls;offering M24,cart N24,two aggregates N8each.Dental n blocked from initial ṣ by ṭ;four abl.sg pause doublets.Two cart mechanisms retain one word ledger.Totals51,819finite;5,234nominal/6,187readings;global gates Open.
 
 PG507 selected-case pointers superseded:ritual purōḍāśa-linked M24/cart śakaṭa-linked N24/two singular-aggregate N8panels CLOSED at64keys68readings.9old/conservative source keys withheld;B/Tcart ac/ṭac histories are not duplicate words.Other gender/head/multipleaggregate/innerlexical/Vedic/accent/teacher frames,unknown semantic/compound/lakṣaṇā,original critical/source-case/policies remain Open.Genuine next source/register contract:6.3.47–49 numeral compound ā/trayas/optionalhigher-tens with excluded eighty/hundred/bahuvrīhi and separate Vedic route;check later prose/factored closures before credit.S1-S7/C2-C5/native/Claude remain distinct;S5fourfields99/103direct.
+
+## PG509 · Actual numeral membership/replacement adapter
+
+PG509 constructs [numeral compound choices and eighty nonfactorability](numeral_compound_replacement_choices_and_eighty_nonfactorability/README.md):1morphology adapter/27membership frames/42replacement branches/44stem readouts,0finite/nominal/source additions.Lower tens mandatory,higher40/50/60/70/90optional,80excluded for all3members;ordinary aṣṭāśīti uses n-lopa/coalescence.Trayas retains sounded s;independent sound options at60/70 explicit.Totals51,819finite;5,234nominal/6,187readings;global gates Open.
+
+PG5086.3.47–49adapter pointer superseded only on supplied27 additive membership frames,not full compound/arithmetic/case/Vedic families.Sourcecase examples0recredit.Two optionality owners,all3exclusions and80ordinary coalescence retained.Genuine next unconstructed:source-positive dvitra/dvidaśa/tridaśa bahuvrīhi ḍac/suj-artha composition,independent missing-member licence,external numeral gender/cases with right-member ownership,other numeral rules/fullteacherrecitation.Inherited source/critical/policy/S1-S7/C2-C5/native/Claude obligations remain Open,S5fourfields99/103direct.
