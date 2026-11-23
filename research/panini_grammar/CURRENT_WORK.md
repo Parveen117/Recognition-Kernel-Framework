@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG558
+# Pāṇini grammar · current written coverage at PG559
+
+PG559 constructs [kuśāgra-cha and two-comparison event compounds](kusagra_cha_and_two_comparison_event_compound_ownership/README.md):1morphology adapter4readouts;1compound constructor2bases;2semantic contracts4readouts;1primary53106observation;0word increments. Firstencounterandsecondoutcomeanalogies/models/actualeventsretainowners;andhakavartakīyafullsceneOpen,notinvented/excluded. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 
 PG558 constructs [general likeness ḍha origins,yat accent and bhavya dravya](general_likeness_dha_origins_yat_accent_and_bhavya_dravya/README.md):3morphology adapters11stems;1accent adapter5records;1bhavya semantic contract;1positive103yat decision;0word/source increments. ÑIT/vṛddhi/ey+originala/ṅīp owners explicit;104ya/yat staysOpen. Actual101–104likenessscopecorrectsPG557next-labelforecast. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 

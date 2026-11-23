@@ -1,0 +1,203 @@
+{
+  "stage": "PG559",
+  "kusagra_frames": [
+    {
+      "id": "KUSAGRA_BUDDHI",
+      "base": "kuśāgra",
+      "model": "grass_tip",
+      "target": "B_supplied_intellect",
+      "comparison_aspect": "sūkṣmatva_fineness",
+      "suffix": "cha",
+      "payload": "īya",
+      "initial_ch": "7.1.2īy_replaces_ch_plus_original_a",
+      "base_final_a": "lopa6.4.148",
+      "feminine": "newṭāp4.1.4_then6.1.101a+ā",
+      "readout": "kuśāgrīyā",
+      "gender": "f_from_buddhi",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "position_credit": 0
+    },
+    {
+      "id": "KUSAGRA_SASTRA",
+      "base": "kuśāgra",
+      "model": "grass_tip",
+      "target": "S_supplied_weapon",
+      "comparison_aspect": "sūkṣmatva_fineness",
+      "suffix": "cha",
+      "payload": "īya",
+      "initial_ch": "7.1.2īy_replaces_ch_plus_original_a",
+      "base_final_a": "lopa6.4.148",
+      "feminine": null,
+      "readout": "kuśāgrīya",
+      "gender": "n_from_śastra",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "position_credit": 0
+    }
+  ],
+  "two_comparison_frames": [
+    {
+      "id": "KAKA_TALA",
+      "compound_base": "kākatāla",
+      "model_events": [
+        "M1_crow_arrival",
+        "M2_palm_fruit_fall",
+        "M3_crow_death_caused_by_M2"
+      ],
+      "actual_events": [
+        "A1_Devadatta_arrival",
+        "A2_thief_encounter",
+        "A3_Devadatta_death_caused_by_A2"
+      ],
+      "first_comparison": [
+        [
+          "A1",
+          "M1_crow_arrival"
+        ],
+        [
+          "A2",
+          "M2_palm_fruit_fall"
+        ]
+      ],
+      "first_relation": "accidental_concurrence_analogy_whole_compound",
+      "second_comparison": [
+        "A3",
+        "M3_crow_death_caused_by_M2"
+      ],
+      "second_relation": "consequent_outcome_analogy_not_already_expressed_by_compound",
+      "source_meaning": "atarkitopanata_citrīkaraṇa_supplied",
+      "compound_policies": [
+        "106specific_jñāpaka",
+        "source_supsupā_on_this_106context_only"
+      ],
+      "standalone_compound": "not_unrestricted_Tattva_cha_context",
+      "affix": "cha",
+      "payload": "īya",
+      "operations": [
+        "7.1.2ch_to_īy_plus_original_a",
+        "6.4.148base_final_a_lopa"
+      ],
+      "readout": "kākatālīya",
+      "external_request": "M_qualifies_actual_vadha",
+      "narrative_status": "source_illustration_not_actual_event_claim",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "position_credit": 0
+    },
+    {
+      "id": "AJA_KRPANA",
+      "compound_base": "ajākṛpāṇa",
+      "model_events": [
+        "M1_goat_arrival",
+        "M2_knife_fall",
+        "M3_goat_death_caused_by_M2"
+      ],
+      "actual_events": [
+        "A1_Devadatta_arrival",
+        "A2_thief_encounter",
+        "A3_Devadatta_death_caused_by_A2"
+      ],
+      "first_comparison": [
+        [
+          "A1",
+          "M1_goat_arrival"
+        ],
+        [
+          "A2",
+          "M2_knife_fall"
+        ]
+      ],
+      "first_relation": "accidental_concurrence_analogy_whole_compound",
+      "second_comparison": [
+        "A3",
+        "M3_goat_death_caused_by_M2"
+      ],
+      "second_relation": "consequent_outcome_analogy_not_already_expressed_by_compound",
+      "source_meaning": "atarkitopanata_citrīkaraṇa_supplied",
+      "compound_policies": [
+        "106specific_jñāpaka",
+        "source_supsupā_on_this_106context_only"
+      ],
+      "standalone_compound": "not_unrestricted_Tattva_cha_context",
+      "affix": "cha",
+      "payload": "īya",
+      "operations": [
+        "7.1.2ch_to_īy_plus_original_a",
+        "6.4.148base_final_a_lopa"
+      ],
+      "readout": "ajākṛpāṇīya",
+      "external_request": "M_qualifies_actual_vadha",
+      "narrative_status": "source_illustration_not_actual_event_claim",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "position_credit": 0
+    }
+  ],
+  "positive_unconstructed": {
+    "source_word": "अन्धकवर्तकीयम्",
+    "source": "K53106",
+    "full_scene_status": "Open_not_invented_or_excluded",
+    "position_credit": 0
+  },
+  "controls": [
+    {
+      "id": "kusagra_is_possession_of_grass_tip",
+      "status": "Excluded_missing_105likeness_aspect"
+    },
+    {
+      "id": "any_comparison_compound_gets106cha",
+      "status": "Excluded_requires_second_unexpressed_comparison"
+    },
+    {
+      "id": "single_relation_śastrīśyāmā_or_puruṣavyāghra",
+      "status": "Excluded_source_single_comparison_control"
+    },
+    {
+      "id": "106is_ordinary_dvandva_crow_and_palm",
+      "status": "Excluded_lost_member_reference_and_whole_event_relation"
+    },
+    {
+      "id": "delete_first_or_second_comparison_after_final_word",
+      "status": "Excluded_lost_evidence_channel"
+    },
+    {
+      "id": "same_first_comparison_but_unknown_outcome_link",
+      "status": "Open_second_witness_missing_not_false"
+    },
+    {
+      "id": "unrelated_outcome_with_explicit_no_second_likeness",
+      "status": "Excluded_missing_second_relation_by_positive_contrary_evidence"
+    },
+    {
+      "id": "andhakavartakiya_full_scene",
+      "status": "Open_positiveKword_full_scene_unconstructed"
+    },
+    {
+      "id": "universal_compound_confluence_event_parser_accent",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 4,
+    "new_compound_constructions": 1,
+    "new_compound_readouts": 2,
+    "new_semantic_constructions": 2,
+    "new_semantic_readouts": 4,
+    "new_source_observations": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  },
+  "unit_boundary": "1chamorphologyadapter4uniquestemsinclnamedF;1comparisoncompoundconstructor2bases;2semanticcontracts(105aspect2readouts,106two-level2readouts);1primaryobservation.No newwordcensus."
+}

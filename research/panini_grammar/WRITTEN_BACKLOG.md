@@ -1,6 +1,6 @@
-# Written-development backlog at PG558
+# Written-development backlog at PG559
 
-Monty · 23 November 2026 · reviewed current parent e76b32aef0404451432403434d05f98fd3b17266; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 760724cbdb7a30defd717ff63bed3c410b2baf0d; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1011,3 +1011,10 @@ Selected99/100common96replicacaseslocallyCLOSED. Wider100sale/apanyainheritancea
 PG558 constructs [general likeness ḍha origins,yat accent and bhavya dravya](general_likeness_dha_origins_yat_accent_and_bhavya_dravya/README.md):3morphology adapters11stems;1accent adapter5records;1bhavya semantic contract;1positive103yat decision;0word/source increments. ÑIT/vṛddhi/ey+originala/ṅīp owners explicit;104ya/yat staysOpen. Actual101–104likenessscopecorrectsPG557next-labelforecast. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 
 Selected101–104operationslocallyCLOSED;103explicitBālayatdecisiondoesnotrepair104distinctya/yatnipātanawitnesses. Originalprint/unmarkedḍhaF/othergaṇamembersremainOpen. PG557measure/praise/contemptforecastsupersededonlyasnext-label,notfrozencontent/countedit. Nextactual105kuśāgra/106two-comparisoncompound;C2-C5/S1-S7/native/Claudeunchanged.
+
+
+### PG559 · Actual105aspect/106double-comparison construction
+
+PG559 constructs [kuśāgra-cha and two-comparison event compounds](kusagra_cha_and_two_comparison_event_compound_ownership/README.md):1morphology adapter4readouts;1compound constructor2bases;2semantic contracts4readouts;1primary53106observation;0word increments. Firstencounterandsecondoutcomeanalogies/models/actualeventsretainowners;andhakavartakīyafullsceneOpen,notinvented/excluded. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
+
+Selectedkuśāgrarequestsandkākatāla/ajākṛpāṇatwo-leveltemplateslocallyCLOSED;andhakavartakīyafullsceneandotherrelations/cases/accentunconstructed.Openpositivewordnotexcluded. Nextactual107–111;C2-C5/S1-S7/prior100/104source/native/Claudeunchanged.
