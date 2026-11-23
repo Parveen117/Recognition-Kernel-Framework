@@ -1,0 +1,317 @@
+{
+  "stage": "PG552",
+  "species_name_paths": [
+    {
+      "id": "vyāghra_HUMAN_KAN",
+      "base": "vyāghra",
+      "role": "human_personal_name_from_species_word",
+      "meanings": [
+        "anukampā",
+        "nīti_tadyukta"
+      ],
+      "affix": "kan",
+      "markers": [
+        "n_IT"
+      ],
+      "payload": "ka",
+      "readout": "vyāghraka",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "bahvac_required": false,
+      "position_credit": 0
+    },
+    {
+      "id": "siṃha_HUMAN_KAN",
+      "base": "siṃha",
+      "role": "human_personal_name_from_species_word",
+      "meanings": [
+        "anukampā",
+        "nīti_tadyukta"
+      ],
+      "affix": "kan",
+      "markers": [
+        "n_IT"
+      ],
+      "payload": "ka",
+      "readout": "siṃhaka",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "bahvac_required": false,
+      "position_credit": 0
+    },
+    {
+      "id": "śarabha_HUMAN_KAN",
+      "base": "śarabha",
+      "role": "human_personal_name_from_species_word",
+      "meanings": [
+        "anukampā",
+        "nīti_tadyukta"
+      ],
+      "affix": "kan",
+      "markers": [
+        "n_IT"
+      ],
+      "payload": "ka",
+      "readout": "śarabhaka",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "bahvac_required": false,
+      "position_credit": 0
+    },
+    {
+      "id": "vyāghra_HUMAN_ILAC_USAGE",
+      "base": "vyāghra",
+      "role": "human_personal_name_from_species_word",
+      "meanings": [
+        "anukampā",
+        "nīti_tadyukta"
+      ],
+      "affix": "ilac",
+      "markers": [
+        "c_IT"
+      ],
+      "payload": "ila",
+      "base_final_a": "lopa_6.4.148_after_actual_vowel_initial_affix",
+      "readout": "vyāghrila",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "bahvac_required": false,
+      "usage": "K53081_yathādarsanam_only_supplied_examples",
+      "position_credit": 0
+    },
+    {
+      "id": "siṃha_HUMAN_ILAC_USAGE",
+      "base": "siṃha",
+      "role": "human_personal_name_from_species_word",
+      "meanings": [
+        "anukampā",
+        "nīti_tadyukta"
+      ],
+      "affix": "ilac",
+      "markers": [
+        "c_IT"
+      ],
+      "payload": "ila",
+      "base_final_a": "lopa_6.4.148_after_actual_vowel_initial_affix",
+      "readout": "siṃhila",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "bahvac_required": false,
+      "usage": "K53081_yathādarsanam_only_supplied_examples",
+      "position_credit": 0
+    }
+  ],
+  "whole_member_paths": [
+    {
+      "id": "VYAGHRA_AJINA",
+      "input_name": "Vyāghrājina",
+      "supplied_members": [
+        "vyāghra",
+        "ajina"
+      ],
+      "delete_whole_right": "ajina",
+      "readout": "vyāghraka",
+      "role": "supplied_human_personal_name",
+      "meaning": "anukampā",
+      "affix": "kan",
+      "markers": [
+        "n_IT"
+      ],
+      "payload": "ka",
+      "position_credit": 0,
+      "base_inner_derivation": "supplied_not_newly_completed",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null
+    },
+    {
+      "id": "SIMHA_AJINA",
+      "input_name": "Siṃhājina",
+      "supplied_members": [
+        "siṃha",
+        "ajina"
+      ],
+      "delete_whole_right": "ajina",
+      "readout": "siṃhaka",
+      "role": "supplied_human_personal_name",
+      "meaning": "anukampā",
+      "affix": "kan",
+      "markers": [
+        "n_IT"
+      ],
+      "payload": "ka",
+      "position_credit": 0,
+      "base_inner_derivation": "supplied_not_newly_completed",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null
+    },
+    {
+      "id": "VYAGHRA_MAHAJINA",
+      "input_name": "Vyāghramahājina",
+      "supplied_members": [
+        "vyāghra",
+        "mahājina"
+      ],
+      "right_member_inner_supplied": [
+        "mahat",
+        "ajina"
+      ],
+      "delete_whole_right": "mahājina",
+      "readout": "vyāghraka",
+      "raw_print": "critical_strings_preserved_not_variants",
+      "role": "supplied_human_personal_name",
+      "meaning": "anukampā",
+      "affix": "kan",
+      "markers": [
+        "n_IT"
+      ],
+      "payload": "ka",
+      "position_credit": 0,
+      "base_inner_derivation": "supplied_not_newly_completed",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null
+    }
+  ],
+  "accent_records": [
+    {
+      "stem": "vyāghraka",
+      "role": "human_name",
+      "affix": "kan",
+      "selection": "first_vowel_of_whole_stem",
+      "rule": "6.1.197",
+      "accented": "vyā́ghraka",
+      "kind": "rule_derived_stem_record_not_independent_accented_attestation"
+    },
+    {
+      "stem": "siṃhaka",
+      "role": "human_name",
+      "affix": "kan",
+      "selection": "first_vowel_of_whole_stem",
+      "rule": "6.1.197",
+      "accented": "síṃhaka",
+      "kind": "rule_derived_stem_record_not_independent_accented_attestation"
+    },
+    {
+      "stem": "śarabhaka",
+      "role": "human_name",
+      "affix": "kan",
+      "selection": "first_vowel_of_whole_stem",
+      "rule": "6.1.197",
+      "accented": "śárabhaka",
+      "kind": "rule_derived_stem_record_not_independent_accented_attestation"
+    },
+    {
+      "stem": "vyāghrila",
+      "role": "human_name_usage",
+      "affix": "ilac",
+      "selection": "last_vowel_of_whole_stem",
+      "rule": "6.1.163",
+      "accented": "vyāghrilá",
+      "kind": "rule_derived_stem_record_not_independent_accented_attestation"
+    },
+    {
+      "stem": "siṃhila",
+      "role": "human_name_usage",
+      "affix": "ilac",
+      "selection": "last_vowel_of_whole_stem",
+      "rule": "6.1.163",
+      "accented": "siṃhilá",
+      "kind": "rule_derived_stem_record_not_independent_accented_attestation"
+    },
+    {
+      "base": "vyāghra",
+      "stem": "vyāghraka",
+      "role": "literal_animal_independent_compassion",
+      "affix": "ka",
+      "selection": "first_vowel_of_actual_suffix",
+      "rule": "3.1.3",
+      "accented": "vyāghraká",
+      "kind": "constructed_ordinary_route_control_not_separately_printed_word"
+    },
+    {
+      "base": "siṃha",
+      "stem": "siṃhaka",
+      "role": "literal_animal_independent_compassion",
+      "affix": "ka",
+      "selection": "first_vowel_of_actual_suffix",
+      "rule": "3.1.3",
+      "accented": "siṃhaká",
+      "kind": "constructed_ordinary_route_control_not_separately_printed_word"
+    }
+  ],
+  "controls": [
+    {
+      "id": "literal_animal_to_special_kan81",
+      "status": "Excluded_missing_human_name_gate_only;ordinary5.3.76notexcluded"
+    },
+    {
+      "id": "two_vowels_reject_Vyaghra_Simha",
+      "status": "Excluded_bahvac_not_continued"
+    },
+    {
+      "id": "śarabhila_and_free_all_affix_alternation",
+      "status": "Open_usage_evidence_required"
+    },
+    {
+      "id": "hide_material_string_auto_deletion",
+      "status": "Excluded_missing_propername_member_frame"
+    },
+    {
+      "id": "mahajina_delete_only_ajina",
+      "status": "Excluded_wrong_member_extent"
+    },
+    {
+      "id": "all_inner_bahuvrihi_and_mahat_sandhi_now_proved",
+      "status": "Open_supplied_parent_analysis"
+    },
+    {
+      "id": "nIT_is_retroflex_NIT_vrddhi",
+      "status": "Excluded_marker_conflation"
+    },
+    {
+      "id": "original_print_and_all_name_accent_corpus",
+      "status": "Open"
+    },
+    {
+      "id": "ilac_parent_bahvac_retest_before_usage_override",
+      "status": "Excluded_explicit_usage_witness_ignored"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 5,
+    "new_compound_constructions": 1,
+    "new_compound_readouts": 2,
+    "new_accent_constructions": 1,
+    "new_accent_readouts": 7,
+    "new_source_observations": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  },
+  "unit_boundary": "5unique morphological stems;compound2shared outputs/3parents,not7newstems. Accent7distinctstem/role/affixreadouts. All old nominative examples and regular case consumer reuse0census;no grammar execution.",
+  "source_observation_units": [
+    "Nyāsa53082whole-mahājina-memberargument"
+  ]
+}
