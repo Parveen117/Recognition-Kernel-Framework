@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG573
+# Pāṇini grammar · current written coverage at PG574
+
+PG574 constructs [guest-purpose ñya,devatā,avi and member-owned Yāvādi kan](guest_purpose_devata_avi_and_member_owned_yavadi_kan/README.md): four morphology adapters/22 stems;one qualified-member meaning contract/nine conditions;two source observations;zero word/accent/new-policy credits. Exact suffix/gender/member meanings and gem target retain owners;critical/toy/inner/source/global gates Open. Totals51,819 finite;6,384 nominal/7,583 readings.
 
 PG573 constructs [amuṣya internal GEN,phak and vuñ named derivations](amusya_internal_genitive_phak_and_vunj_named_derivations/README.md): two morphology adapters/three stems;one case-owner contract/two frames;two source observations;zero word/accent/new-policy credits. Exact shortu/firstā and internal-aluk versus outer-sup-luk locally resolved;aps/other source/global gates Open. Totals51,819 finite;6,384 nominal/7,583 readings.
 

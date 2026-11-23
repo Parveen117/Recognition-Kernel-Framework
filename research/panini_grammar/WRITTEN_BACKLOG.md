@@ -1,6 +1,6 @@
-# Written-development backlog at PG573
+# Written-development backlog at PG574
 
-Monty · 23 November 2026 · reviewed current parent e7d46783e6f2a681017dcef42439f3439dda961a; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent afd2438f883b88907fd56fca759c70dba9fd3d90; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1116,3 +1116,10 @@ Prior25pointer superseded only for15yat/2añ/1āvatup interfaces and explicit ap
 PG573 constructs [amuṣya internal GEN,phak and vuñ named derivations](amusya_internal_genitive_phak_and_vunj_named_derivations/README.md): two morphology adapters/three stems;one case-owner contract/two frames;two source observations;zero word/accent/new-policy credits. Exact shortu/firstā and internal-aluk versus outer-sup-luk locally resolved;aps/other source/global gates Open. Totals51,819 finite;6,384 nominal/7,583 readings.
 
 PG572rawआमुष्यायणामुष्यपुत्रिका inner/quantity gap superseded locally by complete K/Bāla63021 plus explicit nāḍādi/manojña recipes,including named āmuṣyakulikā. Exact āmuṣya has firstā/shortu. Internal GEN retained,outer putra/kula sup separately deleted. Primary supporting extension dialogue addressed at54030,not empty54025. Full aps/independent Vedic and all earlier source/native/global gates remain Open;next actual26–30 after prior review;Claude execution separate.
+
+
+### PG574 · Actual named-member meanings,not bare lexical matching
+
+PG574 constructs [guest-purpose ñya,devatā,avi and member-owned Yāvādi kan](guest_purpose_devata_avi_and_member_owned_yavadi_kan/README.md): four morphology adapters/22 stems;one qualified-member meaning contract/nine conditions;two source observations;zero word/accent/new-policy credits. Exact suffix/gender/member meanings and gem target retain owners;critical/toy/inner/source/global gates Open. Totals51,819 finite;6,384 nominal/7,583 readings.
+
+Selected26–30interfaces locally CLOSED. RawBāla26N-example/F-label and Nyāsa29aṇu-putra microtext,kumārī-toy kanduka exact parent/formation remain genuine Open requests,not exclusions. PG566type-kan homographs receive0word recredit. Next actual31–32temporary/dyed-red source and F histories after prior review;all earlier aps/rañ-raṇ/inner/source/native/global gates and Claude-deferred execution distinct.
