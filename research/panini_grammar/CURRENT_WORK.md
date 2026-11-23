@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG641
+# Pāṇini grammar · current written coverage at PG642
+
+PG642: [Ācyapadi Haim action reading and the unmerged Pāṇinian variant](acyapadi_haim_action_reading_and_unmerged_paninian_variant/README.md). Two printed Haim witnesses positively fix parenthetical ācyapadi as a tagged ā+añc105 nonfinite action plus fixed two-foot lying-event adverb, without emending Pāṇinian āḍhyapadi or VCP Adyapadi. Two morphology/four interfaces, one compound/two plans, two semantics/four records, two syntax/five records, two observations and one qualified source decision; zero positions. Census51,819 finite;7,474 nominal/8,709 readings.
 
 PG641: [Patradatam accusative request and the gender-conditioned nuṃ fork](patradatam_accusative_request_and_gender_conditioned_num_fork/README.md). The K54142 patradatam citation is now source-relatively ACCsg under ālabheta; its N no-n branch is ordinary, while the M branch retains an Open token-specific nuṃ-omission obligation. One semantic/two records, two syntax/six records and one qualified source decision; zero new positions or repeated morphology/source credits. Census 51,819 finite;7,474 nominal/8,709 readings.
 

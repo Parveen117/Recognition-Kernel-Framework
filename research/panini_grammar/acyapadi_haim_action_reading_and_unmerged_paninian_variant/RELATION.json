@@ -1,0 +1,128 @@
+{
+  "stage": "PG642",
+  "title": "Ācyapadi Haim action reading and the unmerged Pāṇinian variant",
+  "predecessor_review": "PG633 retained Vasu128 parenthetical ācyapadi as an actual unresolved candidate while K has āḍhyapadi; PG637 kept the candidate Open. The Haim witnesses now provide a positive action reading and inner derivation in a different grammatical tradition. No K/Vasu token, generic128ic rule or older āḍhyapadi interface is corrected or recredited.",
+  "tradition": "Haim/Hemacandra witness; not silently transferred into the Pāṇinian K text",
+  "frames": [
+    {
+      "id": "INNER_ACYA",
+      "readout": "ācya",
+      "root_namespace": "Haim_dhatupatha",
+      "root_id": "105",
+      "root": "añcū",
+      "sense": "gatau ca",
+      "preverb": "ā",
+      "inner_request": "ktvā_nonfinite_absolutive",
+      "replacement": "yap/y",
+      "finite_pada": null,
+      "voice": null,
+      "meaning": "having stretched or reached",
+      "status": "Closed_source_relative",
+      "position_credit": 0
+    },
+    {
+      "id": "OUTER_ACYAPADI",
+      "readout": "ācyapadi",
+      "source_phrase": "ācya pādau ... śete",
+      "compound": "fixed action expression admitted by the Haim gaṇa",
+      "final_member": "pāda→pad on the source-specific outer route",
+      "affix": "ic/i samāsānta",
+      "category": "avyaya/action adverb",
+      "meaning": "lies after stretching/reaching the two feet",
+      "status": "Closed_source_relative",
+      "position_credit": 0
+    }
+  ],
+  "compound_contracts": [
+    {
+      "id": "HAIM_ACYA_PADA",
+      "plans": [
+        "ācya+pādau source action phrase",
+        "fixed ācyapadi ic-samāsānta readout"
+      ]
+    }
+  ],
+  "semantic_contracts": [
+    {
+      "id": "INNER_ACTION",
+      "records": [
+        "prasārya: stretching out",
+        "prāpya: reaching/bringing into position"
+      ]
+    },
+    {
+      "id": "OUTER_LYING_EVENT",
+      "records": [
+        "two feet are the inner action participants",
+        "śete is the external event predicate"
+      ]
+    }
+  ],
+  "syntactic_contracts": [
+    {
+      "id": "NONFINITE_OWNER",
+      "records": [
+        "inner ā+añc105 carries the source-tradition absolutive request",
+        "no finite pada or voice is assigned to the inner nonfinite form",
+        "root ID belongs to the Haim namespace, not Pāṇini dhātu-data numbering"
+      ]
+    },
+    {
+      "id": "FIXED_ADVERBIAL_SCOPE",
+      "records": [
+        "outer ācyapadi modifies the lying event in the quoted usage",
+        "the fixed source action reading does not license arbitrary āḍhya/ācya interchange"
+      ]
+    }
+  ],
+  "source_observations": [
+    "Haim Prakash explicitly pairs ācyapādau with ācyapadi śete",
+    "Dhundika identifies Haim root105 ā+añc, nonfinite replacement and stretch/reach interpretation"
+  ],
+  "source_policy": {
+    "id": "ADOPT_HAIM_ACYAPADI_WITH_TRADITION_TAG",
+    "new_policy_credit": 1,
+    "adopted": "Admit ācyapadi as a positive Haim-tradition fixed action adverb with inner ā+añc105 and the quoted lying event; keep its source namespace on every operator/history state.",
+    "boundary": "Do not emend Pāṇinian K āḍhyapadi, normalize VCP Adyapadi, or treat Haim rule numbers/root IDs as Pāṇinian addresses."
+  },
+  "controls": [
+    {
+      "id": "HAIM_ACYAPADI_ACTION",
+      "status": "Closed_source_relative"
+    },
+    {
+      "id": "PANINIAN_ADHYAPADI_EQUALS_ACYAPADI",
+      "status": "Excluded"
+    },
+    {
+      "id": "VCP_ADYAPADI_NORMALIZATION",
+      "status": "Open"
+    },
+    {
+      "id": "HAIM_TO_PANINI_RULE_NUMBER_TRANSFER",
+      "status": "Excluded"
+    },
+    {
+      "id": "OTHER_ACYAPADI_EVENTS_CASES_ACCENT",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_positions": 0,
+    "new_position_readings": 0,
+    "new_morphological_constructions": 2,
+    "new_morphological_readouts": 4,
+    "new_compound_constructions": 1,
+    "new_compound_readouts": 2,
+    "new_semantic_constructions": 2,
+    "new_semantic_readouts": 4,
+    "new_syntactic_constructions": 2,
+    "new_syntactic_readouts": 5,
+    "new_source_policy_decisions": 1,
+    "new_source_observations": 2
+  }
+}

@@ -497,3 +497,19 @@ Patradatam ACCsg request locally CLOSED; gender/meaning/source-owner and global 
 - Actual K139eight/extended139seven,128variant/inner and prior C2–C5/S1–S7/native/global work remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG642 · Ācyapadi Haim action reading and the unmerged Pāṇinian variant
+
+Previous publication: 1da4c5d1b50b0eaa853bfbf67e5f5a888975bab7; tree d61c0dc15a625565d1b60175ee06c2c879b2a8bc. Necessary check: Python 3.12.14, 54 assertions, 1 attempt(s).
+
+PG642: [Ācyapadi Haim action reading and the unmerged Pāṇinian variant](acyapadi_haim_action_reading_and_unmerged_paninian_variant/README.md). Two printed Haim witnesses positively fix parenthetical ācyapadi as a tagged ā+añc105 nonfinite action plus fixed two-foot lying-event adverb, without emending Pāṇinian āḍhyapadi or VCP Adyapadi. Two morphology/four interfaces, one compound/two plans, two semantics/four records, two syntax/five records, two observations and one qualified source decision; zero positions. Census51,819 finite;7,474 nominal/8,709 readings.
+
+PG521–642 cumulative:1,696 nominal positions/1,966 readings, zero finite;230 morphology/998 interfaces (813 nominal/stem+10 finite+175 avyaya);117 compound/571 plans;7 accent/27 records;139 semantics/419 records;99 syntax/271 records;30 source-policy decisions after PG555−1;265 observations. One provenance correction/one proof addendum; no new census correction.
+
+Haim ācyapadi action reading locally CLOSED; Pāṇinian/VCP variants and global gates Open.
+- Closed the Haim-tradition ācyapadi action reading with explicit archive/root/preverb/nonfinite/outer-affix ownership; no Pāṇinian generic128 or old word credit repeated.
+- Pāṇinian K āḍhyapadi, VCP raw Adyapadi and their critical relationship remain distinct Open channels; the archive supplies no git commit and that provenance limitation remains explicit.
+- Actual K139eight/extended139seven, remaining128 inner/variant work and prior C2–C5/S1–S7/native/global obligations remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

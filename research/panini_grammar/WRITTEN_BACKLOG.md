@@ -1,6 +1,6 @@
-# Written-development backlog at PG641
+# Written-development backlog at PG642
 
-Monty · 2026-11-24 · reviewed current parent 94cc215b642d243f968a01fde47e44b16ca5d7bc; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 1da4c5d1b50b0eaa853bfbf67e5f5a888975bab7; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1722,3 +1722,14 @@ Patradatam ACCsg request locally CLOSED; gender/meaning/source-owner and global 
 - Closed K54142 patradatam citation case/number as ACCsg and admitted the ordinary N no-n branch; old PG620 stem/source construction receives no repeated credit.
 - Exact patra sense, omitted referent and M/N gender remain Open. The M ACCsg branch requires its own chāndasa nuṃ-omission owner; PG620 ubhayādataḥ commentary is not transferred.
 - Actual K139eight/extended139seven,128variant/inner and prior C2–C5/S1–S7/native/global work remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+
+### PG642 · Ācyapadi Haim action reading and the unmerged Pāṇinian variant
+
+PG642: [Ācyapadi Haim action reading and the unmerged Pāṇinian variant](acyapadi_haim_action_reading_and_unmerged_paninian_variant/README.md). Two printed Haim witnesses positively fix parenthetical ācyapadi as a tagged ā+añc105 nonfinite action plus fixed two-foot lying-event adverb, without emending Pāṇinian āḍhyapadi or VCP Adyapadi. Two morphology/four interfaces, one compound/two plans, two semantics/four records, two syntax/five records, two observations and one qualified source decision; zero positions. Census51,819 finite;7,474 nominal/8,709 readings.
+
+Haim ācyapadi action reading locally CLOSED; Pāṇinian/VCP variants and global gates Open.
+
+- Closed the Haim-tradition ācyapadi action reading with explicit archive/root/preverb/nonfinite/outer-affix ownership; no Pāṇinian generic128 or old word credit repeated.
+- Pāṇinian K āḍhyapadi, VCP raw Adyapadi and their critical relationship remain distinct Open channels; the archive supplies no git commit and that provenance limitation remains explicit.
+- Actual K139eight/extended139seven, remaining128 inner/variant work and prior C2–C5/S1–S7/native/global obligations remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
