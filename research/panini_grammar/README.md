@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG573 constructs [amuṣya internal GEN,phak and vuñ named derivations](amusya_internal_genitive_phak_and_vunj_named_derivations/README.md): two morphology adapters/three stems;one case-owner contract/two frames;two source observations;zero word/accent/new-policy credits. Exact shortu/firstā and internal-aluk versus outer-sup-luk locally resolved;aps/other source/global gates Open. Totals51,819 finite;6,384 nominal/7,583 readings.
+
 PG572 constructs [Vedic named yat/añ and sama āvatup boundaries](vedic_named_yat_anj_and_sama_avatup_boundaries/README.md): three morphology adapters/18 interfaces;one retained internal-ACCplural boundary contract/one readout;zero word/accent/source-observation/policy credits. Literal named members,vowel/consonant and suffix owners retained;aps full word/raw patronymic and independent Vedic/source/global gates Open. Totals51,819 finite;6,384 nominal/7,583 readings.
 
 PG571 constructs [nava→nū age alternatives,dheya and homographic añ branches](nava_nu_age_alternatives_dheya_and_homographic_anj/README.md): three morphology adapters/17 stems;one accent adapter/two records;zero new word/source-observation/policy credits. Actual nū/vowel/sounded-n and added-añ/absence/gender histories retained. Remaining25Vedic/inner source/global gates Open;totals51,819 finite;6,384 nominal/7,583 readings.

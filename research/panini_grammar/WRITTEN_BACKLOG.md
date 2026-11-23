@@ -1,6 +1,6 @@
-# Written-development backlog at PG572
+# Written-development backlog at PG573
 
-Monty · 23 November 2026 · reviewed current parent 6ded2582e9529c2994216feba1bf3266381f1404; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent e7d46783e6f2a681017dcef42439f3439dda961a; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1109,3 +1109,10 @@ PG570full25 pointer superseded only for these17stem/2accent interfaces. Remainin
 PG572 constructs [Vedic named yat/añ and sama āvatup boundaries](vedic_named_yat_anj_and_sama_avatup_boundaries/README.md): three morphology adapters/18 interfaces;one retained internal-ACCplural boundary contract/one readout;zero word/accent/source-observation/policy credits. Literal named members,vowel/consonant and suffix owners retained;aps full word/raw patronymic and independent Vedic/source/global gates Open. Totals51,819 finite;6,384 nominal/7,583 readings.
 
 Prior25pointer superseded only for15yat/2añ/1āvatup interfaces and explicit aps retained-ACCplural boundary. Full aps surface/accent,rawआमुष्यायणामुष्यपुत्रिका segmentation/quantities/inner derivation,independent Vedic recitation/accent and inner oka/other lexical/gender/case work remain Open,not excluded. Informal older amūṣya label is not a settled source reading. Prior rañ/raṇ and C2–C5/S1–S7/native/source gates remain Open;Claude execution separate.
+
+
+### PG573 · Positive named patronymic and bhāva source closure
+
+PG573 constructs [amuṣya internal GEN,phak and vuñ named derivations](amusya_internal_genitive_phak_and_vunj_named_derivations/README.md): two morphology adapters/three stems;one case-owner contract/two frames;two source observations;zero word/accent/new-policy credits. Exact shortu/firstā and internal-aluk versus outer-sup-luk locally resolved;aps/other source/global gates Open. Totals51,819 finite;6,384 nominal/7,583 readings.
+
+PG572rawआमुष्यायणामुष्यपुत्रिका inner/quantity gap superseded locally by complete K/Bāla63021 plus explicit nāḍādi/manojña recipes,including named āmuṣyakulikā. Exact āmuṣya has firstā/shortu. Internal GEN retained,outer putra/kula sup separately deleted. Primary supporting extension dialogue addressed at54030,not empty54025. Full aps/independent Vedic and all earlier source/native/global gates remain Open;next actual26–30 after prior review;Claude execution separate.

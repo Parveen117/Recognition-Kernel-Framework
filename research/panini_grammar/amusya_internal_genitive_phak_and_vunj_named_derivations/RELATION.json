@@ -1,0 +1,159 @@
+{
+  "stage": "PG573",
+  "frames": [
+    {
+      "id": "AMUṢYA_PHAK",
+      "input": "amuṣya",
+      "input_type": "adas_GEN_SG_supplied",
+      "inner_case": "GEN_SG_amuṣya",
+      "inner_case_operation": "63021named_aluk_preserves_sup_inside_taddhita",
+      "sense": "source_nadādi_apatya/gotra_frame",
+      "suffix": "phak_41099",
+      "markers": [
+        "k_IT"
+      ],
+      "payload": "āyana_from_initial_ph→āyan71002_plus_original_a",
+      "trace": [
+        "first_a→ā72118",
+        "old_terminal_a_lopa64148_before_āyan",
+        "preserve_internal_GEN_sup_by_named_aluk_despite24071",
+        "sound_n→ṇ84001/02_after_ṣ"
+      ],
+      "readout": "āmuṣyāyaṇa",
+      "source_word": "आमुष्यायण",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "AMUṢYA_PUTRA_VUÑ",
+      "input": "amuṣya_putra",
+      "input_type": "source_GEN_compound",
+      "inner_case": "GEN_SG_amuṣya",
+      "inner_case_operation": "63021named_aluk_before_member_putra",
+      "outer_case_operation": "outer_putra_GEN_sup_luk24071_before_vuñ;inner_sup_not_deleted",
+      "sense": "bhāva_or_source_licensed_karma_of_named_manojña_member",
+      "suffix": "vuñ_51133_then_ṭāp",
+      "markers": [
+        "ñ_IT"
+      ],
+      "payload": "aka_from_whole_vu71001",
+      "trace": [
+        "first_a→ā72117",
+        "old_base_final_a_lopa64148_before_aka",
+        "F_target_from_source_usage_then_ṭāp41004",
+        "73044a_of_aka_before_k→i;original_outer_ā_is_ṭāp"
+      ],
+      "readout": "āmuṣyaputrikā",
+      "source_word": "आमुष्यपुत्रिका",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "AMUṢYA_KULA_VUÑ",
+      "input": "amuṣya_kula",
+      "input_type": "source_GEN_compound",
+      "inner_case": "GEN_SG_amuṣya",
+      "inner_case_operation": "63021named_aluk_before_member_kula",
+      "outer_case_operation": "outer_kula_GEN_sup_luk24071_before_vuñ;inner_sup_not_deleted",
+      "sense": "bhāva_or_source_licensed_karma_of_named_manojña_member",
+      "suffix": "vuñ_51133_then_ṭāp",
+      "markers": [
+        "ñ_IT"
+      ],
+      "payload": "aka_from_whole_vu71001",
+      "trace": [
+        "first_a→ā72117",
+        "old_base_final_a_lopa64148_before_aka",
+        "F_target_from_source_usage_then_ṭāp41004",
+        "73044a_of_aka_before_k→i;original_outer_ā_is_ṭāp"
+      ],
+      "readout": "āmuṣyakulikā",
+      "source_word": "आमुष्यकुलिका",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    }
+  ],
+  "case_frames": [
+    {
+      "id": "PHAK_INTERNAL_GEN",
+      "input": "amuṣya_plus_actual_phak",
+      "retained": "actual_GEN_sup_inside_taddhita",
+      "deleted": "none_by_generic24071_on_this_named_internal_owner",
+      "target": "āmuṣyāyaṇa"
+    },
+    {
+      "id": "VUÑ_TWO_GEN_OWNERS",
+      "input": "[amuṣya_GEN+putra/kula]_outer_GEN_plus_vuñ",
+      "retained": "inner_pronominal_GEN",
+      "deleted": "outer_member_GEN_sup_before_vuñ",
+      "target": "āmuṣyaputrikā/āmuṣyakulikā"
+    }
+  ],
+  "controls": [
+    {
+      "id": "amūṣya_long_u_or_short_initial_a_adopted",
+      "status": "Excluded_exact_complete_source_short_u_firstā"
+    },
+    {
+      "id": "all_genitive_pronouns_take_phak",
+      "status": "Excluded_actual_nadādi_member_and_source_frame_required"
+    },
+    {
+      "id": "internal_and_outer_sup_both_luk",
+      "status": "Excluded_named_aluk_preserves_inner_owner"
+    },
+    {
+      "id": "both_sup_preserved_by_aluk",
+      "status": "Excluded_outer_member_sup_still24071_luk"
+    },
+    {
+      "id": "vuñ_aka_uses_phak_initial_replacement_recipe",
+      "status": "Excluded_whole_vu_versus_initial_ph_different_domain"
+    },
+    {
+      "id": "putrikā_is_new_parent_daughter_derivation",
+      "status": "Excluded_source_bhāva_abstract_not_free_kinship_guess"
+    },
+    {
+      "id": "primary_word_has_to_be_under54025",
+      "status": "Excluded_actual_addressed_primary54030entry2307"
+    },
+    {
+      "id": "all_adas_cases_gender_accent_constructed",
+      "status": "Open_supplied_GEN_input_only"
+    },
+    {
+      "id": "full_aps_ACCplural_surface_accent_and_competing_verse_analysis",
+      "status": "Open_not_settled_by_shared_context"
+    },
+    {
+      "id": "full_case_tables_other_members_universal_native",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 2,
+    "new_morphological_readouts": 3,
+    "new_syntactic_constructions": 1,
+    "new_syntactic_readouts": 2,
+    "new_source_observations": 2,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  },
+  "source_observation_units": [
+    "Bāla63021complete_phak_and_vuñ_internal_GEN_recipes",
+    "primary54030entry2307dialogue_5912and_named_extension_context"
+  ],
+  "unit_boundary": "2morphology adapters3stems;1internal/outer-case owner adapter2frames;2addressed source observations. No new word positions,accent or generic source-policy credit. Selected quantities/inner recipes locally resolved."
+}
