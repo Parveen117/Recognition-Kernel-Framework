@@ -1,6 +1,6 @@
-# Written-development backlog at PG607
+# Written-development backlog at PG608
 
-Monty · 23 November 2026 · reviewed current parent babf5ba0649d15fe768411dc99456a50e79bd593; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent b82db8277222c290d99038c6f5272c3db5c44f41; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1356,3 +1356,10 @@ Selected8interfaceslocallyCLOSED. Actual116wage-monthkan/ṭhacrecipesnext;Soman
 PG607 closes [monthly wage-kan and outer ṭhac recipes](monthly_wage_kan_and_outer_thac_without_kit_grade/README.md): two adapters/four readouts,two compound plans,one meaning contract/two frames,one source observation. Zero word/accent/new-policy credits;base-n/kan-n_ITandinner/righta retained;outercITdoesnotlicensekitvṛddhi. Totals51,819finite;6,670nominal/7,904readings;wider gates Open.
 
 Actualkanwagefirst/rightmāsa/workerroleandouterṭhac→ik|aowned;notṭhakinitialgrade. Otheramount/price/share/wage/numeral/case/accentand118onward,Somanetrāḥcontext/agreement,pramāṇīinner/Smṛtietymologies,earlierdaśabhūmaka/pur/palya/citation-i/parokṣarecipe/Tattva106nested/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
+
+
+### PG608 · Wholemembernas/graandoptionalactualac
+
+PG608 constructs [whole nāsikā replacements and prādi gra](whole_nasika_replacements_named_nas_and_pradi_gra/README.md): three families/13steminterfaces,two compound contracts/13plans,one target contract/three frames,two meaning contracts/five frames,four observations. Zero word/accent/new-policy credits;nas/gra/ac/noacandprādi/nonverbalowners retained. Totals51,819finite;6,670nominal/7,904readings;wider gates Open.
+
+Selected13ownedbaseinterfaceslocallyCLOSED;fullagreementnotinferredfromasstemquotes. Nyāsa119whole_nāsikā→graaftervi,notvi-replacement. Otherunnasapresentation/Vedicgender/case/passages/K_Nyāsamicrotext/firstvārdhrīinnerand120onward,earlierSomanetrāḥ/pramāṇī/Smṛti/daśabhūmaka/pur/palya/citation-i/parokṣarecipe/Tattva106nested/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
