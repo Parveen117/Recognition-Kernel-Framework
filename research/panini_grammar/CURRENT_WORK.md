@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG622
+# Pāṇini grammar · current written coverage at PG623
+
+PG623: [Friend hṛd, kap consonants and vāggmin two-g ownership](friend_hrd_kap_consonants_and_vaggmin_two_g_owners/README.md). Four formation adapters/13 interfaces (one inner gmini); three compound contracts/12 plans; three meaning contracts/ten records; three scope contracts/six records; four observations. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
 
 PG622: [Kakuda condition, named mountain and kākuda palate owners](kakuda_condition_named_mountain_and_kakuda_palate_owners/README.md). Four formation adapters/13 interfaces; four compound contracts/14 contexts; four meaning contracts/14 records; three scope contracts/five records; four observations/one source decision. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
 

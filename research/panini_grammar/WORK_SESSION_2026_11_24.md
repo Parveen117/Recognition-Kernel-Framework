@@ -193,3 +193,19 @@ Selected146–149 hump/palate source traces locally CLOSED; full written gates O
 - Next150–160 residual/named kap with actual interactions; prior142 patra,13918-member and12813-member lists, two bāhu senses/prohyapadi and older textual/lexical/C2–C5/S1–S7/native/global obligations remain Open. Claude execution distinct.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG623 · Friend hṛd, kap consonants and vāggmin two-g ownership
+
+Previous publication: bdd518fa3760bd845f732b18727fcfbe32c70044; tree c432f858e5669df6a0afb0b77d0d834ee7bacdf0. Necessary check: Python 3.12.14, 67 assertions, 1 attempt(s).
+
+PG623: [Friend hṛd, kap consonants and vāggmin two-g ownership](friend_hrd_kap_consonants_and_vaggmin_two_g_owners/README.md). Four formation adapters/13 interfaces (one inner gmini); three compound contracts/12 plans; three meaning contracts/ten records; three scope contracts/six records; four observations. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+PG521–623 cumulative:938 nominal positions/1,207 readings, zero finite;202 morphology constructions/887 interfaces (721 nominal/stem+10 finite+156 avyaya);93 compound contracts/462 plans;7 accent/27 records;105 semantics/320 records;60 syntax/174 records;22 source-policy decisions after PG555−1;198 observations (6 VCP+35 primary Bhāṣya+28 paired commentary+57 Nyāsa+23 Tattva+33 Bāla+15 K cross-rule+1 primary Bhaṭṭabhāskara). One additive register-provenance correction; no new census effect.
+
+Selected150–152 owned source traces locally CLOSED; nine151 entries and wider written gates Open.
+- Closed selected150–152 friend/ordinary-heart, three listed kap, three outer-F-in and two male source-control traces plus inner vāggmin two-g recipe. Old generic policies not recredited.
+- Genuine151 remaining: pumān, anaḍvān, nauḥ, payaḥ, lakṣmīḥ, dadhi, madhu, śāli; artha after nañ gaṇasūtra. Singular-member scopes/Tattva Lakṣmī interactions, full in lexicon/chattrin, all paradigms/accent stay Open.
+- Next153–160 actual right-member nadī/ṛ and residual/named/comparative/praise/Vedic/body/named-cloth kap interactions. Prior142 patra/13918-member/12813-member lists/bāhu/prohyapadi and all older textual/lexical/C2–C5/S1–S7/native/global work remain Open. Claude execution distinct.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

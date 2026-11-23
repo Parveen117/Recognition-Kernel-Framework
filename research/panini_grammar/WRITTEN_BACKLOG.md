@@ -1,6 +1,6 @@
-# Written-development backlog at PG622
+# Written-development backlog at PG623
 
-Monty · 2026-11-24 · reviewed current parent cc3d7aeaf85a5193caccd5d125554108071fae5c; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent bdd518fa3760bd845f732b18727fcfbe32c70044; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1513,3 +1513,14 @@ Selected146–149 hump/palate source traces locally CLOSED; full written gates O
 - Closed selected146–149 hump/condition/specific mountain/palate/optional-full-palate traces. PG38 generic policies receive no repeated credit.
 - Open: original source-age granularity, Nyāsa143 continuation beyond local147, all full case/gender/accent and source-pause products.
 - Next150–160 residual/named kap with actual interactions; prior142 patra,13918-member and12813-member lists, two bāhu senses/prohyapadi and older textual/lexical/C2–C5/S1–S7/native/global obligations remain Open. Claude execution distinct.
+
+
+### PG623 · Friend hṛd, kap consonants and vāggmin two-g ownership
+
+PG623: [Friend hṛd, kap consonants and vāggmin two-g ownership](friend_hrd_kap_consonants_and_vaggmin_two_g_owners/README.md). Four formation adapters/13 interfaces (one inner gmini); three compound contracts/12 plans; three meaning contracts/ten records; three scope contracts/six records; four observations. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+Selected150–152 owned source traces locally CLOSED; nine151 entries and wider written gates Open.
+
+- Closed selected150–152 friend/ordinary-heart, three listed kap, three outer-F-in and two male source-control traces plus inner vāggmin two-g recipe. Old generic policies not recredited.
+- Genuine151 remaining: pumān, anaḍvān, nauḥ, payaḥ, lakṣmīḥ, dadhi, madhu, śāli; artha after nañ gaṇasūtra. Singular-member scopes/Tattva Lakṣmī interactions, full in lexicon/chattrin, all paradigms/accent stay Open.
+- Next153–160 actual right-member nadī/ṛ and residual/named/comparative/praise/Vedic/body/named-cloth kap interactions. Prior142 patra/13918-member/12813-member lists/bāhu/prohyapadi and all older textual/lexical/C2–C5/S1–S7/native/global work remain Open. Claude execution distinct.
