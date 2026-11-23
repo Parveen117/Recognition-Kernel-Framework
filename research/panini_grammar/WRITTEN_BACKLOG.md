@@ -1,6 +1,6 @@
-# Written-development backlog at PG648
+# Written-development backlog at PG649
 
-Monty · 2026-11-24 · reviewed current parent 64cc99f15e60f9439bdcba94a78b67670cb4fc40; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent de2a9a053c977bc55edc294bfc969d5bbc31da49; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1798,3 +1798,13 @@ Selected gopadī cow-footed ACCsg corpus slot locally CLOSED with two readings; 
 - Closed one source-relative gopadī/gopādī cow-footed feminine ACCsg position with two source-labelled readings; only short gopadīm is derived through exact K139.
 - Long gopādīm versus short gopadīm critical priority, full gopadī case/accent paradigm and independent printed/critical collation remain Open; no textual gap became an exclusion.
 - K139 remaining six: mālāpadī, munipadī, kuṇapadī, sūpapadī, arvapadī, stanapadī. Extended139 three remain; antevāsi neuter/full-paradigm, remaining128 and prior C2–C5/S1–S7/native/global obligations stay Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+### PG649 · Gopadī short-route complete feminine case fibre
+
+PG649: [Gopadī short-route complete feminine case fibre](gopadi_short_route_complete_feminine_case_fibre/README.md). The source-grounded short gopadī stem now has a complete 24-key ordinary feminine-ī case fibre: 23 new unique nominal positions/readings after the PG648 ACCsg control. The accepted long gopādīm reading is not propagated beyond its attested slot. Census 51,819 finite; 7,498 nominal/8,734 readings; zero new construction/source/accent credits.
+
+Selected short gopadī full ordinary feminine case fibre locally CLOSED; long-route/accent/global gates Open.
+
+- Closed the selected short gopadī ordinary feminine-ī 24-key fibre with 23 new positions/readings after the PG648 ACCsg control; no old source/morphology/meaning credit repeated.
+- PG648 long gopādīm remains accepted only in its sourced ACCsg slot. A long-stem full paradigm, accent/recitation and independent corpus support remain Open, not inferred.
+- K139 lexical remaining six and extended139 three remain, alongside antevāsi neuter/full-paradigm, remaining128, C2–C5/S1–S7/native/global obligations. Claude execution separate; PG335/PG357–363 CLOSED preserved.

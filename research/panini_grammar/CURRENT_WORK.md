@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG648
+# Pāṇini grammar · current written coverage at PG649
+
+PG649: [Gopadī short-route complete feminine case fibre](gopadi_short_route_complete_feminine_case_fibre/README.md). The source-grounded short gopadī stem now has a complete 24-key ordinary feminine-ī case fibre: 23 new unique nominal positions/readings after the PG648 ACCsg control. The accepted long gopādīm reading is not propagated beyond its attested slot. Census 51,819 finite; 7,498 nominal/8,734 readings; zero new construction/source/accent credits.
 
 PG648: [Gopadī Rāmāyaṇa short and long accusative readings](gopadi_ramayana_short_and_long_accusative_readings/README.md). One K139 cow-footed feminine ACCsg position is now corpus-grounded: DHIH short gopadīm and two long gopādīm witnesses are retained as two readings with unmerged histories. One new nominal position/two readings; one morphology/two interfaces, one compound/two plans, one semantic/two records, one syntax/four records, three observations and one qualified decision. Census 51,819 finite; 7,475 nominal/8,711 readings.
 
