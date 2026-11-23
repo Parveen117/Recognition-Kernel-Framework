@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG611: [Dharma trees, jambha senses and hunter-caused wound](dharma_compound_trees_jambha_senses_and_hunter_wound/README.md). Four formation families/14 stem interfaces; three compound contracts/19 plans; three meaning contracts/12 records; two scope contracts/six records; five observations and one conditional reported-source decision. Zero new word/accent credits. Census:51,819 finite;6,670 nominal positions/7,904 readings.
+
 PG610: [Hali/sakthi options and asic vowel ownership](hali_sakthi_options_and_as_default_vowel_ownership/README.md). Four formation families/27 stem interfaces; three compound contracts/27 plans; three meaning contracts/seven records; two scope contracts/six records; six observations. Zero new word, accent or policy credits. Census: 51,819 finite; 6,670 nominal positions/7,904 readings.
 
 PG609 constructs [eight named ac compounds with owned time/foot parents](eight_named_ac_compounds_and_owned_time_foot_parents/README.md): three adapters/eight stems,one compound contract/eight plans,two meaning contracts/six frames,three observations;reportedtime-parentmicrotextOpen,0newpolicycredits. Zero word/accent credits;actualavyaya/righti/padbhāva/homonyms retained. Totals51,819finite;6,670nominal/7,904readings;wider gates Open.

@@ -1,6 +1,6 @@
-# Written-development backlog at PG610
+# Written-development backlog at PG611
 
-Monty · 23 November 2026 · reviewed current parent 65cecf8a2d5429f4cc624ebf1015c80705f90baf; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 85d60c9065e83be0b58de9ae8caca19e2c68f226; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1381,3 +1381,14 @@ Selected121–123 owned stem interfaces locally CLOSED; global written gates rem
 - Closed selected121–123 interfaces; previously closed PG38 alternate śakti policy and PG604 ordinary svāṅga family receive no recredit.
 - Open: full case/gender/accent products; exact hala/hali commentary reconciliation and Bāla dual microtext; unrestricted gaṇa extensions and independent Vedic passage/recitation.
 - Next constructive frontier:124 dharma compound-tree ownership,125 jambha and126 hunter īrma; prior120 time-parent conclusion, generic foot/number ordering, Somanetrāḥ/pramāṇī/Smṛti/daśabhūmaka/pur/palya/citation-i/parokṣa/Tattva106/other critical and C2–C5/S1–S7/native/global obligations remain Open. Claude execution is separate.
+
+
+### PG611 · Dharma trees, jambha senses and hunter-caused wound
+
+PG611: [Dharma trees, jambha senses and hunter-caused wound](dharma_compound_trees_jambha_senses_and_hunter_wound/README.md). Four formation families/14 stem interfaces; three compound contracts/19 plans; three meaning contracts/12 records; two scope contracts/six records; five observations and one conditional reported-source decision. Zero new word/accent credits. Census:51,819 finite;6,670 nominal positions/7,904 readings.
+
+Selected124–126 owned interfaces locally CLOSED; full written-development gates remain Open.
+
+- Closed selected124–126 stem/tree/sense/cause interfaces. Already closed generic kevala and earlier PG38 contracts are not recredited.
+- Open source/inner work: supplied dharm denominative ṇic/kvip; original Vāli trope context; corrupted/repeated Nyāsa/Bāla text; full gender/case/accent products and unrestricted lexical extensions.
+- Next constructive frontier:127 reciprocal ic and128 fixed ic-purpose words; prior120 time-parent clause,121 hali semantics/122 dual microtext, generic foot/number ordering, earlier Somanetrāḥ/pramāṇī/Smṛti/daśabhūmaka/pur/palya/citation-i/parokṣa/Tattva106 and C2–C5/S1–S7/native/global work remain Open. Claude execution is distinct.
