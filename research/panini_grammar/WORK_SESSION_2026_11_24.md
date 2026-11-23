@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG651 · Puṃs and nau complete base case fibres
+
+Previous publication: f510429a02bb25e8900afebf771704ecad0ed0d9; tree 1dd054ca1865b2dede8489768e8c808be862b927. Necessary check: Python 3.12.14, 66 assertions, 2 attempts; first attempt stopped only at status-path normalization before substantive form/source/count assertions.
+
+PG651: [Puṃs and nau complete base case fibres](pums_and_nau_complete_base_case_fibres/README.md). The source-grounded puṃs/pumān and feminine nau/nauḥ bases now each have a complete 24-key ordinary case fibre: 46 new nominal positions/readings after two inherited NOMsg controls. PG242 anaḍvān is not duplicated; pumas remains an unmerged Open critical alternative. Census 51,819 finite; 7,613 nominal/8,849 readings.
+
+PG521–651 cumulative: 1,835 nominal positions/2,106 readings, zero finite; 236 morphology/1,011 interfaces (821 nominal/stem+10 finite+180 avyaya); 122 compound/583 plans; 7 accent/27 records; 148 semantics/433 records; 109 syntax/301 records; 36 source-policy decisions after PG555−1; 273 observations. One provenance correction/one proof addendum; no new census correction.
+
+- Closed only the two genuinely absent base-word case panels. PG242 anaḍuh and PG627 compound adapters receive no duplicate credit.
+- Ordinary puman is explicitly supported by Kaumudī/Tattvabodhinī; reported pumas distribution, accent and independent corpus attestation remain Open.
+- K139 six unresolved heads, extended139 three, remaining128, patradatam lexical/gender fork, C2–C5/S1–S7/native/global obligations remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+
 ## PG611 · Dharma trees, jambha senses and hunter-caused wound
 
 Previous publication: 85d60c9065e83be0b58de9ae8caca19e2c68f226; tree babca599d8825d5694af23e30b04261b9bb0ebcb. Necessary check: Python 3.12.14, 70 assertions, 1 attempt(s).

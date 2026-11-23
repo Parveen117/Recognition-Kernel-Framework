@@ -1818,3 +1818,19 @@ Selected three-head ordinary feminine case fibres locally CLOSED; accent/corpus/
 - Closed only the three genuinely absent word-level panels; PG634 vipadī/viṣṇupadī panels receive no duplicate credit.
 - K139 lexical remaining six and extended139 three remain genuine Open source targets. No missing meaning became an exclusion.
 - Antevāsi neuter/full-paradigm, remaining128, C2–C5/S1–S7/native/global obligations stay Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+### PG651 · Puṃs and nau complete base case fibres
+
+Previous publication: f510429a02bb25e8900afebf771704ecad0ed0d9; tree 1dd054ca1865b2dede8489768e8c808be862b927. Necessary check: Python 3.12.14, 66 assertions, 2 attempts; first attempt was a status-path normalization failure before substantive assertions.
+
+PG651: [Puṃs and nau complete base case fibres](pums_and_nau_complete_base_case_fibres/README.md). Forty-eight literal keys minus inherited pumān/nauḥ controls give 46 new nominal positions/readings. PG242 anaḍvān is audited as already complete and not duplicated. Census 51,819 finite; 7,613 nominal/8,849 readings; zero new construction/source/accent credits.
+
+PG521–651 cumulative: 1,835 nominal positions/2,106 readings, zero finite; 236 morphology/1,011 interfaces (821 nominal/stem+10 finite+180 avyaya); 122 compound/583 plans; 7 accent/27 records; 148 semantics/433 records; 109 syntax/301 records; 36 source-policy decisions after PG555−1; 273 observations. One provenance correction/one proof addendum.
+
+Selected puṃs/nau ordinary base paradigms locally CLOSED; wider written gates remain Open.
+
+- Already closed targets stay separate: PG242 anaḍuh, PG340/346 actor grids, PG349–352 selected niṣṭhā, PG355–360 bhid passive grid and PG357–363 historical results.
+- Genuine unconstructed/source work: six K139 meanings; three extended139 heads; remaining128 variants/two bāhu senses; patradatam lexical/gender/nuṃ fork; older C2–C5/S1–S7/native/global registers.
+- Open readings are not exclusions: pumas distribution, accent/corpus support and competing commentary policies remain explicitly Open. Claude owns grammar execution/generators/untouched suites/certificate replay.
+
+The exact stage publication is the containing commit. Preserve PG335 correction and all frozen predecessors/source pins. Existing review branch only, nonforce; no elapsed-hours or ETA claim.
