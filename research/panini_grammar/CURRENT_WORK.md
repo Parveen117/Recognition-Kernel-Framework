@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG510
+# Pāṇini grammar · current written coverage at PG511
+
+PG511 completes [counted bahuvrīhi plural M/F/N cases and nasal ownership](counted_bahuvrihi_plural_genders_and_outer_nasal_owners/README.md):69new nominal positions/69readings,0finite/source/separate construction credits.72plural keys/readings minus3oldMnom.pl;ordinary ṭāp distinguishes ḍit from ṭit.Dvitra gen/Nnum ṇ versus padānta acc n;tridaśa r blocked by dental d.PG510 number/source policies retained without double word credits.Totals51,819finite;5,303nominal/6,256readings;global gates Open.
 
 PG510 constructs [dvitra/dvidaśa/tridaśa ḍac and primary number policies](dvitra_dvidasa_tridasa_dac_and_primary_number_policies/README.md):1morphology unit/3stems,1semantic contract/5policy records,1primary electronic Bhāṣya22025 observation;0finite/nominal credits.Uncertainty/five-grounded speech/Nyāsa literal-five kept distinct;no actual suC in compound.Ḍac a follows owned ṭi i/an deletion.PG509 daśa-display label corrected additively,underlying daśan retained.Totals51,819finite;5,234nominal/6,187readings;global gates Open.
 

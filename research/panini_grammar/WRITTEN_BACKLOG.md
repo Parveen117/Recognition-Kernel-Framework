@@ -1,6 +1,6 @@
-# Written-development backlog at PG510
+# Written-development backlog at PG511
 
-Monty · 23 November 2026 · reviewed parent 57be771f74831cabd91d7477d3205e370874d3fc.
+Monty · 23 November 2026 · reviewed parent f984f94b4a247e9b9a8119be1748f8917e34fda9.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -675,3 +675,9 @@ PG5086.3.47–49adapter pointer superseded only on supplied27 additive membershi
 PG510 constructs [dvitra/dvidaśa/tridaśa ḍac and primary number policies](dvitra_dvidasa_tridasa_dac_and_primary_number_policies/README.md):1morphology unit/3stems,1semantic contract/5policy records,1primary electronic Bhāṣya22025 observation;0finite/nominal credits.Uncertainty/five-grounded speech/Nyāsa literal-five kept distinct;no actual suC in compound.Ḍac a follows owned ṭi i/an deletion.PG509 daśa-display label corrected additively,underlying daśan retained.Totals51,819finite;5,234nominal/6,187readings;global gates Open.
 
 PG509 positive bahuvrīhi pointer superseded only for these source-qualified3stem/5policy frames.Primary22025 locator CLOSED locally,not printed/critical consensus with Nyāsa literal-five.External plural gender/cases still unconstructed;other counts/compounds/nearby/tatpuruṣa/abstract/teacher/accent products and unknown chosen policy remain Open.Additive correction preserves PG509 n-final daśan underlying records,visible words/counters frozen.S1-S7/C2-C5/native/Claude obligations separate,S5fourfields99/103direct.
+
+## PG511 · Counted plural head-gender/case family closed
+
+PG511 completes [counted bahuvrīhi plural M/F/N cases and nasal ownership](counted_bahuvrihi_plural_genders_and_outer_nasal_owners/README.md):69new nominal positions/69readings,0finite/source/separate construction credits.72plural keys/readings minus3oldMnom.pl;ordinary ṭāp distinguishes ḍit from ṭit.Dvitra gen/Nnum ṇ versus padānta acc n;tridaśa r blocked by dental d.PG510 number/source policies retained without double word credits.Totals51,819finite;5,303nominal/6,256readings;global gates Open.
+
+PG510 pluralcase pointer superseded only for supplied counted M/F/Nhead/policy frames at72keys72readings.Other number/meaning/head/nearby/abstract/tatpuruṣa/inner lexical families and fullaccent/Vedic/teacher products remain Open;primary-versus-Nyāsa critical/printed difference not resolved by shared word tables.Next actual source/register contracts include5.4.73 near-count upa/āsanna/adūra/adhika versus pure-number controls and nistrimśa tatpuruṣa extension;review prior prose/factored/state before credit.S1-S7/C2-C5/native/Claude distinct,S5fourfields99/103direct.
