@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG651
+# Pāṇini grammar · current written coverage at PG652
+
+PG652: [Five remaining uraḥ-list base case fibres](five_remaining_urasa_base_case_fibres/README.md). The source-grounded payas, lakṣmī, dadhi, madhu and śāli bases now each have a complete 24-key ordinary case fibre: 115 new unique nominal positions/119 readings after five inherited NOMsg controls and four explicit multi-reading positions. PG242/PG651 panels are not duplicated. Census 51,819 finite; 7,728 nominal/8,968 readings; zero new construction/source/accent credits.
 
 PG651: [Puṃs and nau complete base case fibres](pums_and_nau_complete_base_case_fibres/README.md). The source-grounded puṃs/pumān and feminine nau/nauḥ bases now each have a complete 24-key ordinary case fibre: 46 new unique nominal positions/readings after two inherited NOMsg controls. PG242 anaḍvān is not duplicated; pumas remains an unmerged Open critical alternative. Census 51,819 finite; 7,613 nominal/8,849 readings; zero new construction/source/accent credits.
 

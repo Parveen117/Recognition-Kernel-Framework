@@ -1834,3 +1834,19 @@ Selected puṃs/nau ordinary base paradigms locally CLOSED; wider written gates 
 - Open readings are not exclusions: pumas distribution, accent/corpus support and competing commentary policies remain explicitly Open. Claude owns grammar execution/generators/untouched suites/certificate replay.
 
 The exact stage publication is the containing commit. Preserve PG335 correction and all frozen predecessors/source pins. Existing review branch only, nonforce; no elapsed-hours or ETA claim.
+
+### PG652 · Five remaining uraḥ-list base case fibres
+
+Previous publication: 1718a59454c8f66d8ad5c496cd6233536a62bc85; tree 0f6e3a596244f4fe5808538623e1bd0bdb5a7878. Necessary check: Python 3.12.14, 70 assertions, 1 attempt.
+
+PG652: [Five remaining uraḥ-list base case fibres](five_remaining_urasa_base_case_fibres/README.md). One hundred twenty position keys minus five inherited NOMsg controls give 115 new nominal positions; four accepted multi-reading slots give 119 new readings. Census 51,819 finite; 7,728 nominal/8,968 readings; zero new construction/source/accent credits.
+
+PG521–652 cumulative: 1,950 nominal positions/2,225 readings, zero finite; 236 morphology/1,011 interfaces (821 nominal/stem+10 finite+180 avyaya); 122 compound/583 plans; 7 accent/27 records; 148 semantics/433 records; 109 syntax/301 records; 36 source-policy decisions after PG555−1; 273 observations. One provenance correction/one proof addendum.
+
+Selected five ordinary base paradigms locally CLOSED; wider written gates remain Open.
+
+- Already closed targets stay separate: PG242 anaḍuh; PG626 compound histories; PG651 puṃs/nau; PG340/346 actor grids; PG349–352 selected niṣṭhā; PG355–360 bhid passive grid; PG357–363 historical results.
+- Genuine unconstructed/source work: six K139 meanings; three extended139 heads; remaining128 variants/two bāhu senses; patradatam lexical/gender/nuṃ fork; older C2–C5/S1–S7/native/global registers.
+- Open readings are not exclusions: accent/corpus, Vedic weak śāli/Lakṣmī variants and competing commentary policies remain explicit. Claude owns grammar execution/generators/untouched suites/certificate replay.
+
+The exact stage publication is the containing commit. Preserve PG335 correction and all frozen predecessors/source pins. Existing review branch only, nonforce; no elapsed-hours or ETA claim.

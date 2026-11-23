@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG652 · Five remaining uraḥ-list base case fibres
+
+Previous publication: 1718a59454c8f66d8ad5c496cd6233536a62bc85; tree 0f6e3a596244f4fe5808538623e1bd0bdb5a7878. Necessary check: Python 3.12.14, 70 assertions, 1 attempt.
+
+PG652: [Five remaining uraḥ-list base case fibres](five_remaining_urasa_base_case_fibres/README.md). Five absent base panels contribute 115 new nominal positions/119 readings after five NOMsg controls. Dadhi LOCsg/VOCsg, madhu VOCsg and payas LOCpl retain their accepted alternatives as separate readings. Census 51,819 finite; 7,728 nominal/8,968 readings.
+
+PG521–652 cumulative: 1,950 nominal positions/2,225 readings, zero finite; 236 morphology/1,011 interfaces (821 nominal/stem+10 finite+180 avyaya); 122 compound/583 plans; 7 accent/27 records; 148 semantics/433 records; 109 syntax/301 records; 36 source-policy decisions after PG555−1; 273 observations. One provenance correction/one proof addendum; no new census correction.
+
+- Closed only five genuinely absent base case panels; PG242 anaḍuh, PG626 compound outputs and PG651 puṃs/nau receive no duplicate credit.
+- Four same-position alternatives stay explicit. Vedic weak śāli/Lakṣmī variants, accent and corpus attestation remain Open rather than being excluded.
+- K139 six unresolved heads, extended139 three, remaining128, patradatam lexical/gender fork, C2–C5/S1–S7/native/global obligations remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+
 ## PG651 · Puṃs and nau complete base case fibres
 
 Previous publication: f510429a02bb25e8900afebf771704ecad0ed0d9; tree 1dd054ca1865b2dede8489768e8c808be862b927. Necessary check: Python 3.12.14, 66 assertions, 2 attempts; first attempt stopped only at status-path normalization before substantive form/source/count assertions.
