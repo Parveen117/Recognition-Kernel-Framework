@@ -1,4 +1,4 @@
-# Written-development backlog at PG518
+# Written-development backlog at PG519
 
 Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
@@ -735,3 +735,9 @@ PG516ṛc/kap mechanism pointer superseded only on six declared interfaces.Old q
 PG518 completes [ṛc learner/plain-a versus kap-text cases and nasal guards](rc_learner_and_kap_text_cases_with_branch_dependent_natva/README.md):90new nominal positions/94readings,0finite/source/separate construction credits.96keys100readings minus6old controls.Palatalc blocks outerṇ;kap structural kk permits it under8.4.2,with two kowners retained.Four abl.sg t/dpairs;unsuffixedcKEEPcases remainOpen.Totals51,819finite;5,750nominal/6,709readings;global gates Open.
 
 PG517foura-stemcase pointers superseded only on admitted sourceMlearner/school-intersection and Nactualkap-text96keys100readings.Next genuine contracts:unsuffixedc textKEEP case/num/length/pause realization;full nañ/nUḍ inner construction;wider caraṇa/adhyetṛ sourcecritical scope.Originaldhurroot/pada/u-ū questions stayOpen.OtherS1-S7/C2-C5/native/fullteacher/accent/Claude obligations not closed by selected words.No unknown sourcegap converted to exclusion.
+
+## PG519 · Inner anṛc sound contract and primary owner decision
+
+PG519 constructs [inner nañ/ṛc right-owned nuṭ and primary boundary argument](nanj_rc_right_owned_nut_and_primary_boundary_argument/README.md):1morphology adapter/5interfaces,1primary electronic Bhāṣya63074 entry observation;0finite/nominal additions.Oldnañ-n deleted,newn initial inrightmember;BālaṭIT/upronunciationaid distinguished.PG503consonantcontrol/ordinarynaidentity separate.Bālamicro-wordingcriticalcollationOpen.Totals51,819finite;5,750nominal/6,709readings;global gates Open.
+
+PG517/518 fullinnernañpointer superseded only on supplied licensed anṛc domain/selectedidentitycontrols.PG39ownerrow/PG503ahṛdaya preserved and0recredit.Primary63074ownerargument locatorCLOSED locally;Bālamicro-wording/originalprintedcollationOpen.Next actual work:unsuffixedc textKEEP case/num/length/pause;broader6.3.75retention/censure/akac/homonymoussuffixconditions,unknownnegativecompoundlicences and originaldhur/sourcequestions remainOpen.S1-S7/C2-C5/native/fullteacher/accent/Claude separate,not closed by this local bridge.

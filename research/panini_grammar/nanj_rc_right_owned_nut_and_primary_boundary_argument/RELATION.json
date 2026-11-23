@@ -1,0 +1,137 @@
+{
+  "stage": "PG519",
+  "paths": [
+    {
+      "id": "NANJ_RC",
+      "input_kind": "licensed negative-nañ nominal bahuvrīhi",
+      "left_identity": "NEGATIVE_NANJ",
+      "right": "ṛc",
+      "right_initial": "vowel",
+      "old_n": "inactive after6.3.73",
+      "new_n": "nuṭ_n belongs to initial rightmember ṛc6.3.74/1.1.46",
+      "trace": [
+        "upadeśanañ finalñ_ITinactive,identityNEGATIVE_NANJretained",
+        "nañ spokenna:n→lopa,a retained",
+        "rightṛc→n_augment+ṛc",
+        "a|nṛc→anṛc;noa+ṛguṇa acrossactualn"
+      ],
+      "readout": "anṛc",
+      "output_type": "OwnedRcInnerCompoundMember"
+    },
+    {
+      "id": "NANJ_HRDAYA_CONTROL",
+      "input_kind": "PG503licensed nañ tatpuruṣa",
+      "left_identity": "NEGATIVE_NANJ",
+      "right": "hṛdaya",
+      "right_initial": "consonant",
+      "old_n": "inactive after6.3.73",
+      "new_n": null,
+      "trace": [
+        "reusePG503nañ→a",
+        "consonant-initial rightmember,no6.3.74augmentation;continueidentityedge"
+      ],
+      "readout": "ahṛdaya",
+      "output_type": "OwnedConsonantNegativeCompound"
+    },
+    {
+      "id": "NANJ_ASVA_CONTROL",
+      "input_kind": "source licensed nañ nominal compound",
+      "left_identity": "NEGATIVE_NANJ",
+      "right": "aśva",
+      "right_initial": "vowel",
+      "old_n": "inactive after6.3.73",
+      "new_n": "rightmemberinitialnuṭ_n",
+      "trace": [
+        "nañ→a",
+        "aśva→n+aśva",
+        "a|naśva→anaśva"
+      ],
+      "readout": "anaśva",
+      "output_type": "OwnedVowelNegativeCompound"
+    },
+    {
+      "id": "NANJ_EKADHA_CONTROL",
+      "input_kind": "Bāla/Tattva explicitly licensed nañ compound",
+      "left_identity": "NEGATIVE_NANJ",
+      "right": "ekadhā",
+      "right_initial": "vowel",
+      "old_n": "inactive after6.3.73",
+      "new_n": "rightmemberinitialnuṭ_n",
+      "trace": [
+        "nañ→a",
+        "ekadhā→n+ekadhā",
+        "a|nekadhā→anekadhā"
+      ],
+      "readout": "anekadhā",
+      "output_type": "OwnedVowelNegativeCompound"
+    },
+    {
+      "id": "NA_EKADHA_CONTROL",
+      "input_kind": "source ordinary na plus ekadhā expression,not nañ compound",
+      "left_identity": "ORDINARY_NA",
+      "right": "ekadhā",
+      "right_initial": "vowel",
+      "old_n": "active,not6.3.73target",
+      "new_n": null,
+      "trace": [
+        "ordinaryna identity excludesnañ-n-lopa/nuṭ",
+        "sourcea+e→ai6.1.88→naikadhā"
+      ],
+      "readout": "naikadhā",
+      "output_type": "OrdinaryNegativeExpression"
+    }
+  ],
+  "controls": [
+    {
+      "id": "NEW_N_IS_RESTORED_OLD_N",
+      "status": "Excluded_owner_error"
+    },
+    {
+      "id": "AUGMENT_ON_LEFT_MEMBER",
+      "status": "Excluded_source_boundary_error",
+      "reason": "primary proposal rejected by n-lopa/ṅamuṭ objections;actual para-ādi declared"
+    },
+    {
+      "id": "NUT_U_IS_ANUNASIKA_IT",
+      "status": "Excluded_unattested_marker_claim",
+      "reason": "Bāla calls u ucchāraṇārtha,not such anIT"
+    },
+    {
+      "id": "SURFACE_N_AUGMENT_FOR_ALL_NA",
+      "status": "Excluded_lexical_identity_error"
+    },
+    {
+      "id": "NANJ_SUFFIX_4_1_87",
+      "status": "Excluded_wrong_owner_class",
+      "reason": "Nyāsa contrasts derivational nañ suffix versus negative firstmember"
+    },
+    {
+      "id": "ALL_EXCEPTION_WORDS_FORCE_DELETION",
+      "status": "Excluded_scope_error",
+      "reason": "6.3.75designatedprakṛtibhāva remains independent"
+    },
+    {
+      "id": "UNKNOWN_NEGATION_OR_COMPOUND",
+      "status": "Open"
+    },
+    {
+      "id": "BALA_MICROWORDING_PRINT",
+      "status": "Open_source_critical_collation"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 5,
+    "new_source_observations": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  },
+  "marker_policy": {
+    "NANJ": "finalñ_ITinactive but negative lexeme identity survives",
+    "NUT": "ṭ_IT controls initial right-member placement;u is pronunciation aid in Bāla;onlyn sounded"
+  },
+  "scope": "selected known compound/source-expression inputs;not a universal negation parser.No verbal rootID/sense/pada/voice/preverb inferred from nominalṛc or ordinaryna.",
+  "source_policy": "right-owner prescription K/SK/primary;Nyāsa also explains rejected wrong-owner and left-final analyses;unresolved Bāla micro-wording retained raw"
+}
