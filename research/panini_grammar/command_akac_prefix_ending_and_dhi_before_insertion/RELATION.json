@@ -1,0 +1,162 @@
+{
+  "stage": "PG542",
+  "paths": [
+    {
+      "id": "AA_IN_GATI_COMMAND",
+      "root_id": "1020040",
+      "sense": "gati",
+      "aupadeshika": "iṇ",
+      "preverb": "āṅ(soundedā)",
+      "pada": "P",
+      "voice": "activeordinary",
+      "lakara": "loṭ",
+      "person": 2,
+      "number": "sg",
+      "original_ending": "hi fromsip3.4.87,apit/ṅit",
+      "original_command": "ehi",
+      "qualification": "5.3.77compatibleindirectcompassion/nīticommand",
+      "trace": [
+        "adādiśapluk;rooti beforeapithi/ṅitretained",
+        "prefixā+rooti→e6.1.87,notinternalrootguṇa",
+        "originalendingi isṭi,eh|ak|i"
+      ],
+      "readings": [
+        "ehaki"
+      ]
+    },
+    {
+      "id": "AD_EATING_COMMAND",
+      "root_id": "1020001",
+      "sense": "bhakṣaṇa",
+      "aupadeshika": "ad",
+      "preverb": null,
+      "pada": "P",
+      "voice": "activeordinary",
+      "lakara": "loṭ",
+      "person": 2,
+      "number": "sg",
+      "original_ending": "hi→dhi6.4.101",
+      "original_command": "addhi",
+      "qualification": "5.3.77compatibleindirectcompassion/nīticommand",
+      "trace": [
+        "adādiśapluk,actualrootfinald+jhalinitialhi",
+        "hi→dhi,rootdretained→ad|dhi",
+        "originalendingfinaliṭi→addh|ak|i",
+        "8.4.65precedingahalabsent:nocollapse"
+      ],
+      "readings": [
+        "addhaki"
+      ]
+    },
+    {
+      "id": "BHID_DHI_COMMAND",
+      "root_id": "1070002",
+      "sense": "vidāraṇa",
+      "aupadeshika": "bhid",
+      "preverb": null,
+      "pada": "P",
+      "voice": "activeordinary",
+      "lakara": "loṭ",
+      "person": 2,
+      "number": "sg",
+      "original_ending": "hi→dhi6.4.101",
+      "original_command": "bhinddhi/bhindhi",
+      "qualification": "independentlyqualifiedcompatibleprāgivīyaakacframe;K64101positiveprototype",
+      "trace": [
+        "reusePG22weakbhi|n|d/hiinput",
+        "6.4.101dhi first;punarprasangaakac later→bhinddh|ak|i",
+        "optional8.4.65afterhaln:rootdcanlopa beforeendingdh"
+      ],
+      "readings": [
+        "bhinddhaki",
+        "bhindhaki"
+      ]
+    },
+    {
+      "id": "CHID_DHI_COMMAND",
+      "root_id": "1070003",
+      "sense": "dvaidhīkaraṇa",
+      "aupadeshika": "chid",
+      "preverb": null,
+      "pada": "P",
+      "voice": "activeordinary",
+      "lakara": "loṭ",
+      "person": 2,
+      "number": "sg",
+      "original_ending": "hi→dhi6.4.101",
+      "original_command": "chinddhi/chindhi",
+      "qualification": "independentlyqualifiedcompatibleprāgivīyaakacframe;K64101positiveprototype",
+      "trace": [
+        "reusePG22weakchi|n|d/hiinput",
+        "6.4.101dhi first;punarprasangaakac later→chinddh|ak|i",
+        "optional8.4.65afterhaln:rootdcanlopa beforeendingdh"
+      ],
+      "readings": [
+        "chinddhaki",
+        "chindhaki"
+      ]
+    }
+  ],
+  "controls": [
+    {
+      "id": "EH_FROM_STUDY_OR_MEMORY_I_HOMONYM",
+      "status": "Excluded_root_sense_identity"
+    },
+    {
+      "id": "AA_IS_PAST_AAT_AUGMENT",
+      "status": "Excluded_preverb_owner_error"
+    },
+    {
+      "id": "INTERNAL_ROOT_GUNA_BEFORE_NGIT_HI",
+      "status": "Excluded_wrong_grade_history"
+    },
+    {
+      "id": "FINAL_COMMAND_I_IS_ROOT_I",
+      "status": "Excluded_ending_owner_error"
+    },
+    {
+      "id": "INSERT_AKA_AFTER_FULL_WORD",
+      "status": "Excluded_wrong_affix_payload_placement"
+    },
+    {
+      "id": "AKAC_BEFORE_DHI_ON_SELECTED_K64101_TRACE",
+      "status": "Excluded_source_order"
+    },
+    {
+      "id": "ADHAKI_CLUSTER_COLLAPSE_AFTER_VOWEL",
+      "status": "Excluded_84065_hal_guard"
+    },
+    {
+      "id": "NO_COLLAPSE_BRANCH_ON_BHID_CHID",
+      "status": "Excluded_omitted_accepted_option"
+    },
+    {
+      "id": "KII_FROM_KI_ITYATRA_IS_LONG_ENDING",
+      "status": "Excluded_quotation_sandhi_misparse"
+    },
+    {
+      "id": "TAATANG_OR_UNSUPPLIED_COMMAND_INTENTION",
+      "status": "Open_separate_frame"
+    },
+    {
+      "id": "WHOLE_LOT_GRID_OR_GENERAL_SCHEDULER",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 6,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0
+  },
+  "output_accounting": {
+    "prototypes": 4,
+    "literal_readouts": 6,
+    "source_base_or_decorated_controls": "all0wordcredits",
+    "finite_positions": 0
+  },
+  "source_boundary": "PG22/340frozenordinaryimperativesreusedat0credit;selectedfourlateakacinterfacesnotnewfullconjugations;twooptionalclusterreadingsare0finitepositioncredit"
+}

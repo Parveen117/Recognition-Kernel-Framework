@@ -892,3 +892,10 @@ OnlyaśvakaMfamilyandfourqualifiedsemanticframeslocallyclosed.Fullinnerkutsita/a
 PG541 constructs [indirect-compassion dhānā gender and owned vowel choices](indirect_compassion_dhana_gender_and_owned_vowel_choices/README.md):1morphology construction4stems+1semanticmeanscontract/readout;14new nominal positions29readings,0finite/source. F8keys/3correlatedvowels+reportedM8keys=16keys32readingsminus3controls;oldpreka/newṭāpownersdistinct. Totals51,819finite;6,269nominal/7,271readings;global gates Open.
 
 Onlyselectedindirectmeansandplural16key32readingfamilyclosed.BālaFoption/TattvaFdefault-HaradattaMreportreconciliationandoriginalHaradatta/printOpen.K/SK7.3.49teacherāpositivewrittenextension,independentdhānākāattestationOpen;notexcludedtohidegap.Nextactualā+i/adfinitecommandswithpreverb/endingownersafteroldregisterreview.C2-C5/S1-S7/Claude/nativeunchanged.
+
+
+### PG542 · Command endings keep prefix/root and late insertion history
+
+PG542 constructs [command akac prefix/ending and dhi-before-insertion](command_akac_prefix_ending_and_dhi_before_insertion/README.md):1morphology adapter4prototypes6readouts;0finite/nominal/source increments. āṅ+iṇehaki versusadaddhaki,sourceK64101dhibeforeakac,bhid/chidoptionalclusterbranchesretained. Originalendingi/rooti/prefixseamdistinct;quotationīnotnewending. Totalsunchanged51,819finite;6,269nominal/7,271readings;global gates Open.
+
+Selected4fixedP2sgordinarycommandprototypes6readoutsclosed;notnewfinitegridpositions.PG22/340oldordinarygridandcollapsepathsreusedat0credit.Tātaṅ/otherintention/root/accent/universalschedulerOpen.Next5.3.78–84affectionatehuman-nameaffix/truncationafterclosedregister/STATEreview.C2-C5/S1-S7/Claude/nativeunchanged.

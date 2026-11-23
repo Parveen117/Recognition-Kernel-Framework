@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG541
+# Pāṇini grammar · current written coverage at PG542
+
+PG542 constructs [command akac prefix/ending and dhi-before-insertion](command_akac_prefix_ending_and_dhi_before_insertion/README.md):1morphology adapter4prototypes6readouts;0finite/nominal/source increments. āṅ+iṇehaki versusadaddhaki,sourceK64101dhibeforeakac,bhid/chidoptionalclusterbranchesretained. Originalendingi/rooti/prefixseamdistinct;quotationīnotnewending. Totalsunchanged51,819finite;6,269nominal/7,271readings;global gates Open.
 
 PG541 constructs [indirect-compassion dhānā gender and owned vowel choices](indirect_compassion_dhana_gender_and_owned_vowel_choices/README.md):1morphology construction4stems+1semanticmeanscontract/readout;14new nominal positions29readings,0finite/source. F8keys/3correlatedvowels+reportedM8keys=16keys32readingsminus3controls;oldpreka/newṭāpownersdistinct. Totals51,819finite;6,269nominal/7,271readings;global gates Open.
 
