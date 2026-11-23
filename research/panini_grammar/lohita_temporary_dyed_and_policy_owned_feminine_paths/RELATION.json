@@ -1,0 +1,184 @@
+{
+  "stage": "PG575",
+  "paths": [
+    {
+      "id": "M_KAN",
+      "source_policy": "K31or32selected_M",
+      "input": "lohita",
+      "gender": "M",
+      "suffix": "kan",
+      "markers": [
+        "n_IT"
+      ],
+      "steps": [
+        "source_temporary_or_dyed_witness",
+        "kan_payload_ka;retain_base_vowels_before_k"
+      ],
+      "readout": "lohitaka",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "meaning_domain": "selected31temporary_or32dyed_source_frame;not_universal_red"
+    },
+    {
+      "id": "F_KAN_BEFORE_GENDER",
+      "source_policy": "Bāla_prātipadika_special_optional_liṅgabādhana_branch",
+      "input": "lohita",
+      "gender": "F",
+      "suffix": "kan_then_ṭāp",
+      "markers": [
+        "n_IT"
+      ],
+      "steps": [
+        "kan_before_coupled_t→n/ṅīp;now_k_upadhā_blocks_that41039query",
+        "lohitaka_then_new_ṭāp41004",
+        "base_a_before_suffix_k→i73044;new_finalā_āp"
+      ],
+      "readout": "lohitikā",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "meaning_domain": "selected31temporary_or32dyed_source_frame;not_universal_red"
+    },
+    {
+      "id": "F_NĪP_BEFORE_KAN",
+      "source_policy": "Bāla_nonblocking_branch_or_Tattva_genderfirst",
+      "input": "lohita",
+      "gender": "F",
+      "suffix": "ṅīp_then_kan_then_ṭāp",
+      "markers": [
+        "n_IT"
+      ],
+      "steps": [
+        "41039_actual_t_upadhā_anudātta_colour_input;t→n_coupled_with_ṅīp",
+        "old_final_a_lopa64148_before_ī→lohinī",
+        "kan_consonantk;old_ī→i74013",
+        "new_outer_ṭāp;old_i_before_k_is_not_73044a_itva"
+      ],
+      "readout": "lohinikā",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "meaning_domain": "selected31temporary_or32dyed_source_frame;not_universal_red"
+    },
+    {
+      "id": "F_ṬĀP_BEFORE_KAN",
+      "source_policy": "Tattva_subantāt_normal_optional41039_ṭāp_branch",
+      "input": "lohita",
+      "gender": "F",
+      "suffix": "ṭāp_then_kan_then_new_ṭāp",
+      "markers": [
+        "n_IT"
+      ],
+      "steps": [
+        "old_lohita_plus_ṭāp→lohitā",
+        "kan;old_ā→a74013",
+        "new_ṭāp41004;short_a_before_k→i73044"
+      ],
+      "readout": "lohitikā",
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0,
+      "meaning_domain": "selected31temporary_or32dyed_source_frame;not_universal_red"
+    }
+  ],
+  "semantic_frames": [
+    {
+      "id": "TEMPORARY_SAME_SUBSTRATE",
+      "rule": "31",
+      "witness": "red_at_h1_not_red_at_h2_with_same_substrate_retained",
+      "boundary": "not_just_redness_ends_when_substrate_dies;source_anger/pressure_case"
+    },
+    {
+      "id": "DYED_STABLE",
+      "rule": "32",
+      "witness": "red_from_lākṣā_etc_may_persist_through_substrate_life",
+      "boundary": "distinct_admission_when31temporary_test_not_met;source_case_not_physical_claim_all_dyes_permanent"
+    },
+    {
+      "id": "GEM_VERSUS_BORROWED",
+      "rule": "30_vs32_and_other_likeness_sources",
+      "witness": "source_intrinsic_gem_and_borrowed_red_crystal_not_same_history",
+      "boundary": "do_not_force_all_crystal_like_paths_into30"
+    }
+  ],
+  "source_policies": [
+    {
+      "id": "BĀLA_SPECIAL",
+      "premise": "prātipadikāt_and_pratipadavidhāna_apavāda_account",
+      "effect": "kan_can_preempt_41039but_special_optional_gender_blocking_preserves_both_Fresults",
+      "boundary": "not_all_taddhitas_precede_gender"
+    },
+    {
+      "id": "TATTVA_NORMAL",
+      "premise": "subantāt_and_niravakāśa_apavāda_account",
+      "effect": "genderfirst;kan_M_has_avakāśa;special_vārttika_not_needed_for_same_results",
+      "boundary": "do_not_erase_Bāla_account_or_invent_single_global_order"
+    }
+  ],
+  "controls": [
+    {
+      "id": "nitya_colour_requires_eternal_substrate",
+      "status": "Excluded_source_substrate_lifetime_test_not_absolute_eternity"
+    },
+    {
+      "id": "all_dyed_red_temporary_by31",
+      "status": "Excluded_source32stable_case_has_own_license"
+    },
+    {
+      "id": "lohitikā_i_is_shortened_ī",
+      "status": "Excluded_73044a_itva_on_selected_kanfirst_or_oldṭāp_path"
+    },
+    {
+      "id": "lohinikā_i_is73044a_itva",
+      "status": "Excluded_shortened_old_ṅīp_ī74013"
+    },
+    {
+      "id": "dental_n_of_lohinī_is_kan_nIT",
+      "status": "Excluded_41039replacement_n_sounded_vs_suffix_nIT"
+    },
+    {
+      "id": "kanfirst_then_same_later41039createslohinikā",
+      "status": "Excluded_k_upadhā_no_longer_t_upadhā"
+    },
+    {
+      "id": "all_source_policies_have_one_total_order",
+      "status": "Open_named_competing_accounts_retained"
+    },
+    {
+      "id": "rawBāla31duplicate_lohitālabel_repaired",
+      "status": "Open_raw_unchanged_independent_critical_collation_not_done"
+    },
+    {
+      "id": "full_F_case_panels_independent_accent_other_colour_members",
+      "status": "Open_next_actual_selected_lohita_kan_Fcases_if_no_prior_credit"
+    },
+    {
+      "id": "all_source_native_global_gates",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 3,
+    "new_semantic_constructions": 1,
+    "new_semantic_readouts": 3,
+    "new_source_observations": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  },
+  "source_observation_units": [
+    "Nyāsa54032stable_dye_and_substrate_lifetime_argument"
+  ],
+  "unit_boundary": "1owned_colour-kan/Fadapter3uniqueunaccentedstems4orderedpaths;1semanticcontract3frames;1newNyāsaobservation.0word/policy/accentcredits. Two named policy accounts retained."
+}

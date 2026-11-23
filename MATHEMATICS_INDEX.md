@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG575 constructs [temporary/dyed lohita and policy-owned feminine paths](research/panini_grammar/lohita_temporary_dyed_and_policy_owned_feminine_paths/README.md): one morphology adapter/three stems/four paths;one meaning contract/three frames;one Nyāsa observation;zero word/accent/new-policy credits. Substrate-relative colour and different i/ī/a/ā/t-n owners preserved;source priority accounts separate. Totals51,819 finite;6,384 nominal/7,583 readings;Fcases/critical/source/global gates Open.
+
 PG574 constructs [guest-purpose ñya,devatā,avi and member-owned Yāvādi kan](research/panini_grammar/guest_purpose_devata_avi_and_member_owned_yavadi_kan/README.md): four morphology adapters/22 stems;one qualified-member meaning contract/nine conditions;two source observations;zero word/accent/new-policy credits. Exact suffix/gender/member meanings and gem target retain owners;critical/toy/inner/source/global gates Open. Totals51,819 finite;6,384 nominal/7,583 readings.
 
 PG573 constructs [amuṣya internal GEN,phak and vuñ named derivations](research/panini_grammar/amusya_internal_genitive_phak_and_vunj_named_derivations/README.md): two morphology adapters/three stems;one case-owner contract/two frames;two source observations;zero word/accent/new-policy credits. Exact shortu/firstā and internal-aluk versus outer-sup-luk locally resolved;aps/other source/global gates Open. Totals51,819 finite;6,384 nominal/7,583 readings.

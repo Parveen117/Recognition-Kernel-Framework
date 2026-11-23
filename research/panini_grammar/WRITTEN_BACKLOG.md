@@ -1,6 +1,6 @@
-# Written-development backlog at PG574
+# Written-development backlog at PG575
 
-Monty · 23 November 2026 · reviewed current parent afd2438f883b88907fd56fca759c70dba9fd3d90; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent f649380032876197e61c873a8cf9238efb00d507; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1123,3 +1123,10 @@ PG572rawआमुष्यायणामुष्यपुत्रिका in
 PG574 constructs [guest-purpose ñya,devatā,avi and member-owned Yāvādi kan](guest_purpose_devata_avi_and_member_owned_yavadi_kan/README.md): four morphology adapters/22 stems;one qualified-member meaning contract/nine conditions;two source observations;zero word/accent/new-policy credits. Exact suffix/gender/member meanings and gem target retain owners;critical/toy/inner/source/global gates Open. Totals51,819 finite;6,384 nominal/7,583 readings.
 
 Selected26–30interfaces locally CLOSED. RawBāla26N-example/F-label and Nyāsa29aṇu-putra microtext,kumārī-toy kanduka exact parent/formation remain genuine Open requests,not exclusions. PG566type-kan homographs receive0word recredit. Next actual31–32temporary/dyed-red source and F histories after prior review;all earlier aps/rañ-raṇ/inner/source/native/global gates and Claude-deferred execution distinct.
+
+
+### PG575 · Colour-source meaning and three Fderivation paths
+
+PG575 constructs [temporary/dyed lohita and policy-owned feminine paths](lohita_temporary_dyed_and_policy_owned_feminine_paths/README.md): one morphology adapter/three stems/four paths;one meaning contract/three frames;one Nyāsa observation;zero word/accent/new-policy credits. Substrate-relative colour and different i/ī/a/ā/t-n owners preserved;source priority accounts separate. Totals51,819 finite;6,384 nominal/7,583 readings;Fcases/critical/source/global gates Open.
+
+Selected31–32meaning/stems locally CLOSED under named source accounts;four histories/three stems are not four word positions. Next selectedF24casekeys with two accepted reading branches only if prior coverage absent,not duplicatepositions peralternative. Bāla31criticaltext/Tattva-Bālafullpriority,other colour members/independentaccent and all prior source/native/global obligations remain Open;Claude execution separate.
