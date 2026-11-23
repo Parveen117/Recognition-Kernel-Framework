@@ -1,4 +1,4 @@
-# Written-development backlog at PG529
+# Written-development backlog at PG530
 
 Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
@@ -808,3 +808,10 @@ Already closed locally: vid1020059/asun/non-ugit/rootguṇa formation and VCP-wi
 PG529 constructs [Napuṃsaka prescribed body and source-qualified outer M/N cases](napumsaka_prescribed_body_and_lexical_gender_cases/README.md): 47 new nominal positions/49 readings; 48 keys/50 readings minus old napuṃsakam. One morphology adapter/one stem interface, one VCP entry-opening observation, 0 finite additions. Named whole-body nipātana retained; no invented ka/root analysis. Outer M/N separate from lexical contrast. Totals 51,819 finite; 6,034 nominal/7,014 readings; deeper/source/global gates Open.
 
 Already closed locally: named puṃsakabhāva/negative-retention adapter and VCP M/N48key50reading case family. Each of the11listed6.3.75names now has a selected positive adapter on explicitly admitted root or nominal-input boundaries; this is not all full root/affix/constituent/sense/gender/case/source-policy coverage. Genuine unconstructed named work remains: Napuṃsaka deeper constituent/puṃs etymology, prior selected lexical families' other case/gender/number/sense contracts and broader C2–C5. Unresolved source readings remain: independent reported Bhāṣya, Navedas K/VCP semantic reconciliation, Nakṣatra Nyāsa critical violence-root. Next positive construction: VCP nakṣ+atran, original five-pāda3.105 (already catalogued), with root-initial n distinct from6.3.75negative n. No old ID/word credit on the shared Nakṣatra case ledger. S1–S7/teacher/accent/native and Claude execution remain separate Open/deferred categories.
+
+
+### PG530 · Positive nakṣ/atran arm constructed, no repeated case credit
+
+PG530 constructs [Nakṣatra atran root-n and shared-case bridge](naksatra_atran_root_n_and_shared_case_bridge/README.md): 1 morphology adapter/1 stem interface,0new finite/nominal/source credits. Primary3.105/nakṣ1010752 supplies actual atran; initial ṇ→n is root-owned, no nañ event. Frozen N24keys25readings reused at0credit; VCP arm locally CLOSED, Nyāsa critical root remains Open. Totals unchanged51,819finite;6,034nominal/7,014readings; global gates Open.
+
+PG525/529 VCP-nakṣ+atran pointers are superseded only on exact primary3.105/root1010752/no-preverb profile. Already closed: original two negative arms and the new root-owned-n arm, shared selected N24key25reading consumer with0recredit. Unresolved source reading: Nyāsa violence-root/bracketed kṣīṣ exact critical assignment remains Open. Genuine next construction: K6.3.73finite avakṣepa n-lopa extension versus ordinary na-sentential negation, keeping supplied finite root/lakāra/person and the censure speech frame separate; inspect primary Bhāṣya and old finite/prose grids before credits. Prior other gender/case/number/root/source, Napuṃsaka deeper bodies, K/VCP Navedas semantics and S1–S7/C2–C5/native/Claude obligations remain as declared.

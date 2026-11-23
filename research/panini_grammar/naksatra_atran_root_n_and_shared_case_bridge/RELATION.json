@@ -1,0 +1,91 @@
+{
+  "stage": "PG530",
+  "paths": [
+    {
+      "id": "NAKS_ATRAN",
+      "root_id": "1010752",
+      "root_sense": "gati",
+      "aupadeshika": "णक्षँ",
+      "preverb": null,
+      "voice": "source lexical kṛt formation; no finite voice ending",
+      "pada": "P/seṭ root metadata; no finite ending selected",
+      "affix": "atran, five-pāda3.105",
+      "trace": [
+        "final root nasal a_IT1.3.2/9; initial ṇ is not deleted as it",
+        "6.1.65 root-initialṇ→n→nakṣ; original root-n/ṇ ancestry retained",
+        "actual atran finaln_IT1.3.3/9, soundedatra",
+        "nakṣ|atra→nakṣatra, no boundary vowel coalescence; rootṣ retained",
+        "a-initial suffix fails valādi iṭ7.2.35premise despite seṭ root",
+        "no nañ occurrence, no6.3.73n-lopa or6.3.74nuṭ; no6.3.75retention event added"
+      ],
+      "readout": "nakṣatra",
+      "output_type": "OwnedAtranNaksatraStem"
+    }
+  ],
+  "case_bridge": {
+    "output_type": "SharedNaksatraCaseStem",
+    "consumed_fields": [
+      "qualified star/asterism lexical identity",
+      "neuter outer gender",
+      "terminal a with owned provenance",
+      "retained suffix-r before outer nasal operations",
+      "actual supplied number/case/ending and history-specific labels"
+    ],
+    "new_arm": "atran suffix-r, root-initial n",
+    "old_arms": "tra suffix-r, original negative n; root-r-lopa or i→a source policy retained",
+    "frozen_case_relation": {
+      "commit": "a02641c3252a52fadbf6c48ef250fc1f39de6927",
+      "path": "research/panini_grammar/naksatra_tra_root_histories_and_owned_r_cases/RELATION.json",
+      "keys": 24,
+      "readings": 25,
+      "credits": 0
+    },
+    "observation": "equal unaccented stem/case labels do not identify n/affix/root histories or multiply word credits"
+  },
+  "controls": [
+    {
+      "id": "INITIAL_N_IS_ALWAYS_NANJ",
+      "status": "Excluded_wrong_constituent_owner"
+    },
+    {
+      "id": "ROOT_INITIAL_NA_SPLIT_FROM_NAKS",
+      "status": "Excluded_unlicensed_root_segmentation"
+    },
+    {
+      "id": "SOURCE_NAKSI_IS_I_FINAL_ROOT",
+      "status": "Excluded_dhatu_listing_vowel_confusion",
+      "reason": "Uṇādi lists nakṣi; pinned root upadeśa/mūla fixes nakṣ, not invented nakṣi+i phonology"
+    },
+    {
+      "id": "SUFFIX_FINAL_N_IS_NEW_NANJ_OR_NUM",
+      "status": "Excluded_marker_owner_error"
+    },
+    {
+      "id": "OTHER_NEGATIVE_HISTORIES_REMOVED",
+      "status": "Excluded_provenance_collapse"
+    },
+    {
+      "id": "NYASA_VIOLENCE_ROOT_CRITICAL",
+      "status": "Open_independent_source_root_assignment"
+    },
+    {
+      "id": "OTHER_ROOT_PREVERB_ACCENT_VEDIC_FULL_SCOPE",
+      "status": "Open"
+    },
+    {
+      "id": "UNKNOWN_ROOT_OR_LEXICAL_IDENTITY",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0
+  },
+  "scope": "primary3.105 nakṣ/atran morphology on exact root/no-preverb profile and typed reuse of frozen selected Ncase family",
+  "source_boundary": "old row/word/VCP observation not recredited; no independent manuscripts/recitation/accent claim"
+}

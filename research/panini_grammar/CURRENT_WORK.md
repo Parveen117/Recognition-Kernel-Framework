@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG529
+# Pāṇini grammar · current written coverage at PG530
+
+PG530 constructs [Nakṣatra atran root-n and shared-case bridge](naksatra_atran_root_n_and_shared_case_bridge/README.md): 1 morphology adapter/1 stem interface,0new finite/nominal/source credits. Primary3.105/nakṣ1010752 supplies actual atran; initial ṇ→n is root-owned, no nañ event. Frozen N24keys25readings reused at0credit; VCP arm locally CLOSED, Nyāsa critical root remains Open. Totals unchanged51,819finite;6,034nominal/7,014readings; global gates Open.
 
 PG529 constructs [Napuṃsaka prescribed body and source-qualified outer M/N cases](napumsaka_prescribed_body_and_lexical_gender_cases/README.md): 47 new nominal positions/49 readings; 48 keys/50 readings minus old napuṃsakam. One morphology adapter/one stem interface, one VCP entry-opening observation, 0 finite additions. Named whole-body nipātana retained; no invented ka/root analysis. Outer M/N separate from lexical contrast. Totals 51,819 finite; 6,034 nominal/7,014 readings; deeper/source/global gates Open.
 
