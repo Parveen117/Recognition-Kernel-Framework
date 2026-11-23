@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG597 closes [six ṭac masculine case panels](research/panini_grammar/six_tac_masculine_case_panels_and_compound_nasal_options/README.md): 144 authored keys/152 readings; withhold six source NOMsg controls = 138new unique nominal positions/146readings. Paramāha INSsg/GENpl retain optional ṇ/n under8.4.11;zero finite/separate construction/source credits. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
+
 PG596 constructs [ṭac base ownership and prospective go-LUK domain](research/panini_grammar/tac_base_ownership_and_prospective_go_luk_domain/README.md): two recipes/13 interfaces,ten ṭac and three valid no-ṭac;two compound contracts/13 plans,one LUKscope/four frames,one meaning/three frames and three observations. Zero word/accent/policy credits. Actual gender/base,adjectivaluttama,purchase/aggregate and prospectivetaddhita-LUK owners retained. Totals 51,819 finite;6,463 nominal/7,689 readings;wider gates Open.
 
 PG595 closes [remaining ordinary masculine ahorātra cases](research/panini_grammar/ahoratra_ordinary_masculine_remaining_case_closure/README.md): ten missing keys/11readings,withhold quoted NOMsg control;9new unique nominal positions/10readings. With PG448oldM14keys,the ordinaryMfamily is24keys/25readings. Zero finite/source/new-construction credits;N/Vedic/wider gates Open. Totals 51,819 finite;6,463 nominal/7,689 readings.

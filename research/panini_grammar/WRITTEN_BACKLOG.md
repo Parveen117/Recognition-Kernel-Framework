@@ -1,6 +1,6 @@
-# Written-development backlog at PG596
+# Written-development backlog at PG597
 
-Monty · 23 November 2026 · reviewed current parent cbe97e120c2ecba790aa7b68743ebfb0d091a423; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 3f6ae4e8f28cffdabdd9c398213530c32378af4a; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1279,3 +1279,10 @@ PG448olddupluralM14keysandNpanelpreserved;new10keysdisjoint,oneNOMsgsourcecontro
 PG596 constructs [ṭac base ownership and prospective go-LUK domain](tac_base_ownership_and_prospective_go_luk_domain/README.md): two recipes/13 interfaces,ten ṭac and three valid no-ṭac;two compound contracts/13 plans,one LUKscope/four frames,one meaning/three frames and three observations. Zero word/accent/policy credits. Actual gender/base,adjectivaluttama,purchase/aggregate and prospectivetaddhita-LUK owners retained. Totals 51,819 finite;6,463 nominal/7,689 readings;wider gates Open.
 
 Selected91–92interfaceslocallyCLOSED;6sourceM91a-stemcasefamiliesnext. ProspectiveLUKguardnotafter-the-factemptytapecheck;ordinarysupLUKdoesnotblock. RawNyāsa21050referenceandfullgender/feminine/outercasesOpen. Actual93onwardandpriordaśabhūmaka/pur/palya/citation-i/critical/lexical/C2–C5/S1–S7/source/native/globalwork remains;Claudeexecutionseparate.
+
+
+### PG597 · Six selected91 M case families CLOSED
+
+PG597 closes [six ṭac masculine case panels](six_tac_masculine_case_panels_and_compound_nasal_options/README.md): 144 authored keys/152 readings; withhold six source NOMsg controls = 138new unique nominal positions/146readings. Paramāha INSsg/GENpl retain optional ṇ/n under8.4.11;zero finite/separate construction/source credits. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
+
+Supersedes PG596 sixMcase-next obligation on these exact sixprofiles only.8.4.11firstmembertrigger gives optional paramāhaINSsg/GENplnasals;notmandatorygeneric84001. Feminine/othergenders/accent/sourcecritical and93onward/daśabhūmaka/pur/palya/citation-i/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.

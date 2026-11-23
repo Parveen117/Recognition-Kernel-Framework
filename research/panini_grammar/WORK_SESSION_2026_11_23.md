@@ -46,7 +46,7 @@ Actual new24nominal positions/72readings;0finite/source/separate construction un
 
 ## PG495 · Affix history survives identical visible lekha
 
-Fetched/published aligned parent e204458e10ab2b03f5f8b74a4e93ab45bd56b473;one sequential repository,no other active writer/subagent.Read PG39 scope/domain/construction/source policies and relevant register;reviewed exact root/primary fields before construction.
+Fetched/published aligned parent e204458e10ab2b03f5f8b74a4e93ab45bd56b473;one sequential repository,no other active writer/subagent.Read PG41 scope/domain/construction/source policies and relevant register;reviewed exact root/primary fields before construction.
 
 PG495 constructs [hṛdaya+lekha exact-affix replacement](hrdaya_lekha_exact_affix_and_surface_nonfactorability/README.md):1morphology/visibility adapter,2controlled stem readouts,0new finite/nominal positions/readings/source observations.Aṇ lekha gives owned hṛd→hṛl before l;ghañ lekha retains hṛdaya.Missing affix identity stays Open;surface-only guard cannot distinguish the two histories.Source words are old controls,not new credits.Totals51,819finite;5,018nominal/5,888readings;wider gates Open.
 
@@ -54,7 +54,7 @@ Actual new1morphology/visibility adapter/2stem readouts;0new finite/nominal posi
 
 ## PG496 · Actual ṣyañ and replacement-dependent two-member vṛddhi
 
-Fetched aligned parent 710bc73609d0a1fbeffc8c406ad44d700a77daca;one sequential repository,no other writer/subagents.Read PG39/5.1 register and exact source fields;reviewed literal prose/factored/STATE/FORMS before credits.
+Fetched aligned parent 710bc73609d0a1fbeffc8c406ad44d700a77daca;one sequential repository,no other writer/subagents.Read PG41/5.1 register and exact source fields;reviewed literal prose/factored/STATE/FORMS before credits.
 
 PG496 constructs [su-hṛdaya ṣyañ and branch-dependent vṛddhi](suhrdaya_syan_optional_hrd_and_two_member_vrddhi/README.md):1morphological construction/2stem readouts,0new finite/nominal positions/readings/source observations.Actual ṣyañ/ñ_IT and5.1.124 witness retained.Hṛd branch has both-member vṛddhi→sauhārdya;retained hṛdaya has initial vṛddhi and owned a-lopa→sauhṛdayya,with two y owners.Old source controls withheld;totals51,819finite;5,018nominal/5,888readings unchanged.Wider gates Open.
 
@@ -62,7 +62,7 @@ Actual new1morphological construction/2stem readouts;0finite/nominal positions/r
 
 ## PG497 · Positive head-gender evidence and optional ch case grid
 
-Fetched aligned parent f0675e125310d4aa406be47801fea997c48244f3;one sequential repo,no subagents or other writer observed.Reviewed actual PG39/PG43 prose/factored/STATE/FORMS and fresh exact source fields/lexical entries before credits.
+Fetched aligned parent f0675e125310d4aa406be47801fea997c48244f3;one sequential repo,no subagents or other writer observed.Reviewed actual PG41/PG43 prose/factored/STATE/FORMS and fresh exact source fields/lexical entries before credits.
 
 PG497 completes [hṛdaya grief/disease masculine cases with optional ch](hrdaya_soka_roga_cases_and_optional_ch_policy/README.md):46new nominal positions/116readings,0finite/separate construction credits,2lexical-entry observations in one Vācaspatyam work.48keys120readings minus2oldnom.sg keys4readings;new hṛcśokaḥ adds a reading on an old key.Śākalya no-additional-dvitva policy and K/SK optional ch explicit;other teachers Open.Head roga r gives ṇ,śoka dental n.Totals51,819finite;5,064nominal/6,004readings;wider gates Open.
 
@@ -86,7 +86,7 @@ Actual new46nominal positions/53readings,0finite/source/separate construction cr
 
 ## PG500 · Explicit member licence defeats a blanket ghañ filter
 
-Fetched aligned parent bbd81af212a0dd33515d605b184ddff59d71f02c;one target repo sequentially,no subagents/new automation/other writer observed.Read PG39/PG495 exact source/prose/factored records before construction.
+Fetched aligned parent bbd81af212a0dd33515d605b184ddff59d71f02c;one target repo sequentially,no subagents/new automation/other writer observed.Read PG41/PG495 exact source/prose/factored records before construction.
 
 PG500 constructs [named ghañ-lāsa and affix-only guard failure](hrllasa_named_ghan_member_and_affix_only_guard_failure/README.md):1morphology/selector construction/1stem readout,0finite/nominal/source credits.Explicit lāsa ghañ admits hṛd→hṛl before l→hṛllāsa;PG495 ghañ lekha stays blocked locally.Not a blanket ghañ ban or universal suffix-ending expansion.Inner lāsa source-sense/root-ID contract remains Open outside supplied nominal input.Totals51,819finite;5,110nominal/6,057readings;wider gates Open.
 
@@ -1079,3 +1079,14 @@ PG596 constructs [ṭac base ownership and prospective go-LUK domain](tac_base_o
 Six91sourceMstemsṭac/n-an/i-lopa;validMadra+rājñīnoṭac,uttamaadjectivedifferent90listlastpuṇya. Goaggregate/adjectival4gavastemsversus2purchasegucontrols;actualTattva92lugviṣaya_notlukisati_readsprospectiveṭhak/51028LUKentitlementbeforesamāsānta,notsurfaceabsence. Nyāsa92supLUK/KYACcontextnotnewfiniteconstruction;actualundeletedtaddhitadoesnotblock.0oldword/policycredits.
 
 PG521–596 cumulative:685nominalpositions/946readings,0finite;124morphologyconstructions/570interfaces(450nominal/stem+10finite+110avyaya);28compoundcontracts/140readouts;7accentconstructions/27records;54semanticcontracts/150readouts;21syntaxcontracts/75readouts;8source-policydecisionsafterPG555−1;100sourceobservations(6VCP+33primaryBhāṣya+18pairedcommentarylocators+28Nyāsa+4Tattva+6Bāla+5Kcrossrule). Oneadditionalregisterprovenancecorrection,nocounterdelta.Census51,819finite;6,463nominal/7,689readings.PG596piniscontainingpublication;prioractualcommitabove. SixMcasefamilies/93onward/critical/inner/citation-i/accent/member/native/globalgatesOpen;Claudeexecutiondeferred.PreservePG335/PG357–363CLOSED;nonforceexistingreviewbranchonly,no mainmerge,ETA,inferredhours/fullSanskritclaim.
+
+
+## PG597 · Six source ṭac case panels with genuine compound-nasal alternatives
+
+PG596 published3f6ae4e8f28cffdabdd9c398213530c32378af4a,treeeb63eb7db917513caf47c3cc220a3e4c7d4b6bc1;Python3.12.14,102assertions,twoattempts(redundantliteraldisclaimercheckremoved;source/proofunchanged). Fetched/alignedcleanparent,noothereditorobserved.
+
+PG597 closes [six ṭac masculine case panels](six_tac_masculine_case_panels_and_compound_nasal_options/README.md): 144 authored keys/152 readings; withhold six source NOMsg controls = 138new unique nominal positions/146readings. Paramāha INSsg/GENpl retain optional ṇ/n under8.4.11;zero finite/separate construction/source credits. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
+
+Positive8.4.11readingrefinesinitialprovisionalmandatory-ṇideaBEFOREauthoring:triggerinparamafirstmembermeanstwoacceptedbranchesatINSsg/GENpl. Full152readingsincludes6ABLsgt/dextras+2nasalextras;6sourceNOMsgcontrolswithheld. No frozenpredecessorchange ornewpolicycredit;PG41alreadyrecordspolicy.
+
+PG521–597 cumulative:823nominalpositions/1,092readings,0finite;124morphologyconstructions/570interfaces(450nominal/stem+10finite+110avyaya);28compoundcontracts/140readouts;7accentconstructions/27records;54semanticcontracts/150readouts;21syntaxcontracts/75readouts;8source-policydecisionsafterPG555−1;100sourceobservations(6VCP+33primaryBhāṣya+18pairedcommentarylocators+28Nyāsa+4Tattva+6Bāla+5Kcrossrule). Oneadditionalregisterprovenancecorrection,nocounterdelta.Census51,819finite;6,601nominal/7,835readings.PG597piniscontainingpublication;prioractualcommitabove. SixordinaryMfamiliesCLOSED;feminine/othergenders/accent/93onward/critical/inner/citation-i/member/native/globalgatesOpen;Claudeexecutiondeferred.PreservePG335/PG357–363CLOSED;nonforceexistingreviewbranchonly,no mainmerge,ETA,inferredhours/fullSanskritclaim.

@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG596
+# Pāṇini grammar · current written coverage at PG597
+
+PG597 closes [six ṭac masculine case panels](six_tac_masculine_case_panels_and_compound_nasal_options/README.md): 144 authored keys/152 readings; withhold six source NOMsg controls = 138new unique nominal positions/146readings. Paramāha INSsg/GENpl retain optional ṇ/n under8.4.11;zero finite/separate construction/source credits. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
 
 PG596 constructs [ṭac base ownership and prospective go-LUK domain](tac_base_ownership_and_prospective_go_luk_domain/README.md): two recipes/13 interfaces,ten ṭac and three valid no-ṭac;two compound contracts/13 plans,one LUKscope/four frames,one meaning/three frames and three observations. Zero word/accent/policy credits. Actual gender/base,adjectivaluttama,purchase/aggregate and prospectivetaddhita-LUK owners retained. Totals 51,819 finite;6,463 nominal/7,689 readings;wider gates Open.
 
