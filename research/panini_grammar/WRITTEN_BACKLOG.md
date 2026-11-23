@@ -1,4 +1,4 @@
-# Written-development backlog at PG534
+# Written-development backlog at PG535
 
 Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
@@ -843,3 +843,10 @@ Already closed locally: fourfixedsourceP3sgfiniteakac interfaces, actualak place
 PG534 constructs [k-final avyaya joint-akac/d and primary grouped dialogue locator](k_final_avyaya_akac_joint_d_and_primary_grouped_dialogue/README.md): 1morphology adapter/6boundary readings on3prototypes,1primaryBhāṣya53072entry observation;0new finite/nominal credits. Originalbasek→d,insertedak-k stays;pause t/d explicit. Primarybodylocatedadjacenttoheading-only53071;rawplacementpolarity/print remainsOpen. Totals unchanged51,819finite;6,057nominal/7,038readings; global gates Open.
 
 Already closed locally: dhik/hiruk/pṛthak actualjointakac/d with3oldcharcontrols+3writtenvoicedpausealternatives;0finite/nominalcredits. PG533primary-heading pointer superseded only by positive electronic groupedbody53072locator,not fullsource-policy/print reconciliation. Unresolved source reading: rawprimaryanokāra placementpolarity versus later reports remainsOpen; no priorpronounpanel rewritten. Genuine next constructions:5853tūṣṇīmkām mit-afterlastvowel versus5854śīlaka/oldm-lopa; later5856tamādi/kandcompoundkan ordering after checking earlier registers. Other class/lateTripādik/yaṅ/chandas/meaning/source/accent and priorS1–S7/C2–C5/native/Claude remainOpen/deferred.
+
+
+### PG535 · Two tūṣṇīm prescriptions, source ī and nasal-category homograph
+
+PG535 constructs [tūṣṇīm mit-kām/śīlaka and owned nasal cases](tusnim_mit_kam_silaka_and_owned_nasal_cases/README.md): 2morphology constructions/4interfaces;23new nominal positions24readings,0finite/source additions. Newkām-mITversusoldwordm distinct;śīlaka retains sourceī againstgenericshortening. Avyayajunctionn andMacc.pln homographicbutdifferentowners. Totals51,819finite;6,080nominal/7,062readings; global gates Open.
+
+Already closed locally: mitkām-afterī/oldmretention with3fixedjunctionoutputs; separateśīlaka/oldm-lopa/sourceī and selectedM24key25reading family. Primary5853/4observationalreadyPG534,0recredit. Othermeaning/gender/teacher/shortening/generalna-yogavibhāga/deepernominal domains remainOpen. Genuine next: primary5856tamādi-beforeka and5857chinnaka ordering, checking existingdegreecontracts beforecredits; do not silently convert priorpriority into final exclusion of all othermeaningcompositions. Rawprimarypronounplacementpolarity and earlierS1–S7/C2–C5/native/Claude/source obligations stayOpen/deferred.

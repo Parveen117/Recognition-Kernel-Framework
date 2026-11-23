@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG535 constructs [tūṣṇīm mit-kām/śīlaka and owned nasal cases](research/panini_grammar/tusnim_mit_kam_silaka_and_owned_nasal_cases/README.md): 2morphology constructions/4interfaces;23new nominal positions24readings,0finite/source additions. Newkām-mITversusoldwordm distinct;śīlaka retains sourceī againstgenericshortening. Avyayajunctionn andMacc.pln homographicbutdifferentowners. Totals51,819finite;6,080nominal/7,062readings; global gates Open.
+
 PG534 constructs [k-final avyaya joint-akac/d and primary grouped dialogue locator](research/panini_grammar/k_final_avyaya_akac_joint_d_and_primary_grouped_dialogue/README.md): 1morphology adapter/6boundary readings on3prototypes,1primaryBhāṣya53072entry observation;0new finite/nominal credits. Originalbasek→d,insertedak-k stays;pause t/d explicit. Primarybodylocatedadjacenttoheading-only53071;rawplacementpolarity/print remainsOpen. Totals unchanged51,819finite;6,057nominal/7,038readings; global gates Open.
 
 PG533 constructs [finite akac final-i and retained rudādi iṭ](research/panini_grammar/finite_akac_final_i_and_retained_rudadi_it/README.md): 1morphology adapter/4finite-expression interfaces;0new finite/nominal/source credits. Actualak beforeoriginalendingi gives pacataki/jalpataki/svapitaki/śvasitaki, earlierśap/iṭ retained. Kutsita/anukampā/source same-meaning competition distinct;Bhāṣya53071heading not dialogue. Totals unchanged51,819finite;6,057nominal/7,038readings; global gates Open.
