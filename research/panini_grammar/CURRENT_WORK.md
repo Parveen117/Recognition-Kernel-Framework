@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG552
+# Pāṇini grammar · current written coverage at PG553
+
+PG553 constructs [quantity,length,naming and original avyaya ṭi](quantity_length_naming_and_owned_avyaya_final_ti/README.md):1morphology adapter10interfaces(8stems,2avyaya);1semantic contract3domains;4prior pronoun/finite controls reused;0newword/source credits. Amount,length and naming evidence stay distinct;uccais/nīcais retain original ai+s across actualak insertion. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 
 PG552 constructs [species-human names,whole ajina-member loss and marker accent](species_human_names_ajina_whole_member_and_marker_accent/README.md):1morphology adapter/5stems;1member-loss adapter/2shared readouts/3parents;1accent adapter/7rule-derived records;1Nyāsa53082 observation;0newword positions/readings. Human-name kan versus literal-animal ordinary ka,usage-ilac and whole mahājina deletion retain owners. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 

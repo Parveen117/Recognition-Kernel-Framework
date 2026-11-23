@@ -969,3 +969,10 @@ PG550ṣaḍikaselectedoperationalquerynowCLOSEDunderexplicitBāla/Tattva+primar
 PG552 constructs [species-human names,whole ajina-member loss and marker accent](species_human_names_ajina_whole_member_and_marker_accent/README.md):1morphology adapter/5stems;1member-loss adapter/2shared readouts/3parents;1accent adapter/7rule-derived records;1Nyāsa53082 observation;0newword positions/readings. Human-name kan versus literal-animal ordinary ka,usage-ilac and whole mahājina deletion retain owners. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 
 Selected5.3.81–82 adapters locally CLOSED;old register words0recredit. Other species/usage choices,full inner parents and Nyāsa original critical print remain Open. Next actual5.3.85–91 quantity/length/naming and special diminutive operations. C2-C5/S1-S7/native/Claude unchanged.
+
+
+### PG553 · Quantity/length/naming and avyaya class contracts
+
+PG553 constructs [quantity,length,naming and original avyaya ṭi](quantity_length_naming_and_owned_avyaya_final_ti/README.md):1morphology adapter10interfaces(8stems,2avyaya);1semantic contract3domains;4prior pronoun/finite controls reused;0newword/source credits. Amount,length and naming evidence stay distinct;uccais/nīcais retain original ai+s across actualak insertion. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
+
+Selected5.3.85–87 contract CLOSED on supplied evidence;all unmeasured quantity/comparator/naming interpretation remains Open,not excluded. Next actual5.3.88–91 lexical suffix/gender/attenuation operations. Prior C2-C5/S1-S7 and Claude/native obligations unchanged.
