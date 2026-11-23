@@ -353,3 +353,19 @@ Nine selected128 adapters and two bāhu meanings locally CLOSED; four128 and sou
 - Genuine139 K-nine/extended14 and other senses/critical readings,142patra and prior C2–C5/S1–S7/native/global work remain Open. Claude execution separately deferred; no completion/ETA claim.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG633 · Eight padī lexical domains and resolved named128 meanings
+
+Previous publication: 7e6d0ba21f8107d070d80d8b97030cecdec895d9; tree 5eeb8c249cbbb85b669c57a474c9cb4dc3d82a4b. Necessary check: Python 3.12.14, 61 assertions, 1 attempt(s).
+
+PG633: [Eight padī lexical domains and resolved named128 meanings](eight_padi_lexical_domains_and_resolved_named128_meanings/README.md). Eight139 feminine heads/nine meaning interfaces and five128 action/time meaning interfaces;two formation/compound adapters,14 interfaces/plans;three meaning/14 records;four scope/11 records;18 source observations/two source decisions. Zero new word/accent credits; census51,819 finite;7,061 nominal/8,295 readings. Original K128 selected list closed; extended/critical work Open.
+
+PG521–633 cumulative:1,283 nominal positions/1,552 readings, zero finite;225 morphology/990 interfaces (810 nominal/stem+10 finite+170 avyaya);115 compound/568 plans;7 accent/27 records;133 semantics/410 records;89 syntax/246 records;27 source-policy decisions after PG555−1;257 observations (29 VCP+12 MW+4 PWG+35 primary Bhāṣya+31 paired commentary+59 Nyāsa+24 Tattva+37 Bāla+22 K cross-rule+1 primary Bhaṭṭabhāskara+1 primary Uṇādi corroboration+2 historical Vasu). One provenance correction/one proof addendum; no new census correction.
+
+Eight139 domains and original K128 selected lexical list locally CLOSED; extended/source/global gates Open.
+- Closed eight selected139 lexical domains and original K128 remaining-four on positive source meanings, retaining both MW/PWG tail readings and PWG immediate128sapadi. No generic/reused-word credits.
+- K139 actual remaining-eight: mālāpadī, munipadī, gopadī, dāsīpadī, kuṇapadī, sūpapadī, arvapadī, stanapadī. Extended Vasu139 remaining-seven: vipadī, viṣṇupadī, supadī, sūkarapadī, sūcīpadī, kalahamsapadī, viṣapadī. Source membership-only entries do not count as interpreted meanings.
+- Extended128 antevāsi/ācyapadi, VCP raw daṇḍi/Adya variants, āḍhya usage, prohya long/short reconciliation, sapadi-in route and other inner/corpus/accent/case work remain Open. Prior142patra/C2–C5/S1–S7/native/global gates and Claude-deferred execution remain separate.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
