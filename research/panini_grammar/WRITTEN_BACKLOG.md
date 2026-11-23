@@ -1,6 +1,6 @@
-# Written-development backlog at PG560
+# Written-development backlog at PG561
 
-Monty · 23 November 2026 · reviewed current parent 0f1e8ebd362c1fbc4d8152f5e02db7daf9552580; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 887e5b12239a6ffa289a92e968fd5101cb23876e; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1025,3 +1025,10 @@ Selectedkuśāgrarequestsandkākatāla/ajākṛpāṇatwo-leveltemplateslocallyC
 PG560 constructs [likeness aṇ/ṭhak/ṭhac/īkak and Vedic thāl/ima origins](likeness_an_thak_thac_ikak_and_vedic_thal_ima_origin/README.md):4morphology adapters12interfaces(8stems,4avyaya);1appearance semantic contract2readouts;1positive ima decision;1Nyāsa locator observation;0word increments. Actualmarkers/grade,borrowedredview,thāl/ā/ima/junctionowners explicit;Bālau/ūandindependentRigcriticalscopeOpen. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 
 Selected107–111adapterslocallyCLOSED. SourceBālau/ūlength/independentRigandothergaṇa/case/accentremainOpen. Different4.3.91andhakavartīyadoesnotclose106andhakavartakīyascene. Nextactual112–119association/tadrājaownership;C2-C5/S1-S7/prior100/104source/native/Claude unchanged.
+
+
+### PG561 · Actual ñya/tadrāja/number/accent owners and duplicate-credit correction
+
+PG561 constructs [pūga/vrāta/cphañ ñya,tadrāja number and retained accent owners](puga_vrata_cphan_nya_tadraja_number_and_retained_accent_owners/README.md):1morphology adapter5stems;1accent adapter4records;1semantic class contract2readouts;1number-owner contract3branches;1Nyāsa observation;0word increments. Additive−1duplicatePG555policycredit;newprimary/semanticunitsunchanged. Outerñya-LUKdoesnoteraseinnercphañ/grade/accent. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
+
+Selected112–113/119+MownedpluralbrancheslocallyCLOSED;generalNyāsadvandva/F/case/accentnotclosed. PG555newpolicycredit−1becausePG37alreadyadopted74/95distinction;itssemantic3/8andprimary1remainnew. Nextactual114–118group/gotraaffixwork;C2-C5/S1-S7/prior100/104source/native/Claudeunchanged.

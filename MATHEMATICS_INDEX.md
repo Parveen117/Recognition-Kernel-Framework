@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG561 constructs [pūga/vrāta/cphañ ñya,tadrāja number and retained accent owners](research/panini_grammar/puga_vrata_cphan_nya_tadraja_number_and_retained_accent_owners/README.md):1morphology adapter5stems;1accent adapter4records;1semantic class contract2readouts;1number-owner contract3branches;1Nyāsa observation;0word increments. Additive−1duplicatePG555policycredit;newprimary/semanticunitsunchanged. Outerñya-LUKdoesnoteraseinnercphañ/grade/accent. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
+
 PG560 constructs [likeness aṇ/ṭhak/ṭhac/īkak and Vedic thāl/ima origins](research/panini_grammar/likeness_an_thak_thac_ikak_and_vedic_thal_ima_origin/README.md):4morphology adapters12interfaces(8stems,4avyaya);1appearance semantic contract2readouts;1positive ima decision;1Nyāsa locator observation;0word increments. Actualmarkers/grade,borrowedredview,thāl/ā/ima/junctionowners explicit;Bālau/ūandindependentRigcriticalscopeOpen. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
 
 PG559 constructs [kuśāgra-cha and two-comparison event compounds](research/panini_grammar/kusagra_cha_and_two_comparison_event_compound_ownership/README.md):1morphology adapter4readouts;1compound constructor2bases;2semantic contracts4readouts;1primary53106observation;0word increments. Firstencounterandsecondoutcomeanalogies/models/actualeventsretainowners;andhakavartakīyafullsceneOpen,notinvented/excluded. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
