@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG589
+# Pāṇini grammar · current written coverage at PG590
+
+PG590 constructs [25 named compounds and two catur extensions](named_samasanta_25_compounds_and_catur_extensions/README.md): one exact named-formation contract/27 interfaces,one compound-class contract/27 source plans and three observations. Zero word/accent/policy credits. Actual class,nipātana exceptions,su-praise override and ac-versus-ḍac retained;critical/inner/globalgates Open. Totals 51,819 finite;6,454 nominal/7,679 readings.
 
 PG589 constructs [ap exception frames and primary a-varṇa alternatives](ap_exception_frames_and_primary_avarṇa_alternatives/README.md): one formation adapter/five stems, one prerequisite contract/five frames, one meaning contract/three frames and three primary observations. Zero word/accent/policy credits. Primary63097 restriction and14060 positive final reply retained;optional/no-ending/named-source histories explicit. Totals 51,819 finite;6,454 nominal/7,679 readings;wider gates Open.
 

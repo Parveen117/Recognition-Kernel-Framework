@@ -1,6 +1,6 @@
-# Written-development backlog at PG589
+# Written-development backlog at PG590
 
-Monty · 23 November 2026 · reviewed current parent c4c66f4ea8b63789eb1f6cf6e4e9002341579bd1; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 0f5c1527b763cb34e45857ba6eb3866dc9f02c96; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1228,3 +1228,10 @@ Actualsthalapatha/jalapathaM8×3familiesnowclosed. F/Nproductsnotlicensedbythese
 PG589 constructs [ap exception frames and primary a-varṇa alternatives](ap_exception_frames_and_primary_avarṇa_alternatives/README.md): one formation adapter/five stems, one prerequisite contract/five frames, one meaning contract/three frames and three primary observations. Zero word/accent/policy credits. Primary63097 restriction and14060 positive final reply retained;optional/no-ending/named-source histories explicit. Totals 51,819 finite;6,454 nominal/7,679 readings;wider gates Open.
 
 Selected5exceptions/alternativestemsandno-endingguardlocallyCLOSED. Primary63097anavarṇaalternativeand14060positiveprepa/parepa_finalreplybothretained;criticalunificationnotclaimed. Samāparitual/equalwateridentificationandfullsvapgender/casesremainOpen;daśabhūmaka,purinner/gender/casesandpriorcitation-i/critical/lexical/C2–C5/S1–S7/member/source/native/globalwork remains;Claudeexecutionseparate.
+
+
+### PG590 · Exact77namedclassandexceptioncontracts
+
+PG590 constructs [25 named compounds and two catur extensions](named_samasanta_25_compounds_and_catur_extensions/README.md): one exact named-formation contract/27 interfaces,one compound-class contract/27 source plans and three observations. Zero word/accent/policy credits. Actual class,nipātana exceptions,su-praise override and ac-versus-ḍac retained;critical/inner/globalgates Open. Totals 51,819 finite;6,454 nominal/7,679 readings.
+
+Selected25core+2extensionslocallyCLOSED;primary/Kcaturglosses,KaumudidāragāvamandniḥśreyaskapcriticalcomparisonsremainOpen. Exactexceptionrecipeupashunadiffersgosthashva;fullcase/gender/accent/innerlexicalworkunconstructed. Daśabhūmakaouterkaremainsrealreadinggapafteravailableparallelprimarysearch;notexcluded. Actual78onwardandpriorpur/citation-i/critical/lexical/C2–C5/S1–S7/source/native/globalwork remains;Claudeexecutionseparate.
