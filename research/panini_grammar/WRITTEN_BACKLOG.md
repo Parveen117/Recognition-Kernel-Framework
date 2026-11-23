@@ -1,6 +1,6 @@
-# Written-development backlog at PG501
+# Written-development backlog at PG502
 
-Monty · 23 November 2026 · reviewed parent d38fc60c760a72a8ad2745632c30cc8673d2bdd4.
+Monty · 23 November 2026 · reviewed parent 161054da6d467eab42623583586a0929d6c2e360.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -621,3 +621,9 @@ Concrete next unconstructed contracts:6.3.50 actual aṇ hṛdayasya idam/hārda
 PG501 constructs [actual hṛdaya aṇ relation and mantra-yat semantic ownership](hrdaya_an_relation_and_mantra_yat_semantic_ownership/README.md):1morphology construction/1readout hārda plus1semantic contract/1readout hṛdya with reused morphology;0finite/nominal/source credits.Actual aṇ/retained ṇit gives ṛ→ār;4.4.96 ṛṣi=Veda and bandhana=means,not human sage or4.4.95 pleasant-place profile.Totals51,819finite;5,110nominal/6,057readings;global gates Open.
 
 Earlier next-contract pointers to aṇ hārda and4.4.96 mantra are superseded only on these declared supplied domains.No new word credit;the old source controls remain withheld.Next positive work:source-qualified hārda gender/case evidence,independent initial-hṛd lexical paths and full teacher/recitation products.Actual hymn/utterance and missing named-use evidence remain Open;no efficacy conclusion.S1-S7 and unmeasured C2-C5/global/native/Claude execution stay separate.Open S5fourlinks still99/103direct.
+
+## PG502 · Positive gender decision is sense-qualified
+
+PG502 completes [VCP-qualified hārda-karman neuter cases](harda_vcp_karman_neuter_and_source_scoped_gender/README.md):23new nominal positions/24readings,0finite/separate construction credits,1lexical-entry observation.VCP na0 belongs to sneha/prema karma,not all idam/tri-gender senses.Raw hArdda retained;Śākalya single-d and ablative pause t/d explicit.24keys25readings withhold1oldnom.control.Totals51,819finite;5,133nominal/6,081readings;wider gates Open.
+
+Selected VCP hṛdayasya karma affection N24keys25readings locally CLOSED,not original PG501 idam gender transport or dictionary later tri0 senses.Raw K51130 hṛdayāse special qualifier remains Open;selected membership is VCP-qualified.Raw double-d not repaired;other teacher/recitation products/accents and independent original Amara remain Open.Other hṛd lexical histories and S1-S7/C2-C5/native/Claude obligations remain genuine.S5fourlinks99/103direct unchanged.

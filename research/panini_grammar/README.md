@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG502 completes [VCP-qualified hārda-karman neuter cases](harda_vcp_karman_neuter_and_source_scoped_gender/README.md):23new nominal positions/24readings,0finite/separate construction credits,1lexical-entry observation.VCP na0 belongs to sneha/prema karma,not all idam/tri-gender senses.Raw hArdda retained;Śākalya single-d and ablative pause t/d explicit.24keys25readings withhold1oldnom.control.Totals51,819finite;5,133nominal/6,081readings;wider gates Open.
+
 PG501 constructs [actual hṛdaya aṇ relation and mantra-yat semantic ownership](hrdaya_an_relation_and_mantra_yat_semantic_ownership/README.md):1morphology construction/1readout hārda plus1semantic contract/1readout hṛdya with reused morphology;0finite/nominal/source credits.Actual aṇ/retained ṇit gives ṛ→ār;4.4.96 ṛṣi=Veda and bandhana=means,not human sage or4.4.95 pleasant-place profile.Totals51,819finite;5,110nominal/6,057readings;global gates Open.
 
 PG500 constructs [named ghañ-lāsa and affix-only guard failure](hrllasa_named_ghan_member_and_affix_only_guard_failure/README.md):1morphology/selector construction/1stem readout,0finite/nominal/source credits.Explicit lāsa ghañ admits hṛd→hṛl before l→hṛllāsa;PG495 ghañ lekha stays blocked locally.Not a blanket ghañ ban or universal suffix-ending expansion.Inner lāsa source-sense/root-ID contract remains Open outside supplied nominal input.Totals51,819finite;5,110nominal/6,057readings;wider gates Open.
