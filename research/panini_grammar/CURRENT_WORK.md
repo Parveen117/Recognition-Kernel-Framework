@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG571
+# Pāṇini grammar · current written coverage at PG572
+
+PG572 constructs [Vedic named yat/añ and sama āvatup boundaries](vedic_named_yat_anj_and_sama_avatup_boundaries/README.md): three morphology adapters/18 interfaces;one retained internal-ACCplural boundary contract/one readout;zero word/accent/source-observation/policy credits. Literal named members,vowel/consonant and suffix owners retained;aps full word/raw patronymic and independent Vedic/source/global gates Open. Totals51,819 finite;6,384 nominal/7,583 readings.
 
 PG571 constructs [nava→nū age alternatives,dheya and homographic añ branches](nava_nu_age_alternatives_dheya_and_homographic_anj/README.md): three morphology adapters/17 stems;one accent adapter/two records;zero new word/source-observation/policy credits. Actual nū/vowel/sounded-n and added-añ/absence/gender histories retained. Remaining25Vedic/inner source/global gates Open;totals51,819 finite;6,384 nominal/7,583 readings.
 

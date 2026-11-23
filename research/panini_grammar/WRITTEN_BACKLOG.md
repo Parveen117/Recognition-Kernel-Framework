@@ -1,6 +1,6 @@
-# Written-development backlog at PG571
+# Written-development backlog at PG572
 
-Monty · 23 November 2026 · reviewed current parent c1e6568ee2a90eb4640364e2c51c7ed8667ae360; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 6ded2582e9529c2994216feba1bf3266381f1404; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1102,3 +1102,10 @@ Selected21–24 and25core locally CLOSED. Next concrete25extensions:Vedic vasvā
 PG571 constructs [nava→nū age alternatives,dheya and homographic añ branches](nava_nu_age_alternatives_dheya_and_homographic_anj/README.md): three morphology adapters/17 stems;one accent adapter/two records;zero new word/source-observation/policy credits. Actual nū/vowel/sounded-n and added-añ/absence/gender histories retained. Remaining25Vedic/inner source/global gates Open;totals51,819 finite;6,384 nominal/7,583 readings.
 
 PG570full25 pointer superseded only for these17stem/2accent interfaces. Remaining actual25vasvādi/aps_ACCplural_aluk,amūṣyāyana/amūṣyaputrikā,sama āvatup,ayavasa/marut and independent Vedic/case/accent work remain Open. K43120rañ versus Tattva25raṇ/old accent,sādhāraṇa inner histories remain Open;no guessed resolution. C2–C5/S1–S7/prior source/native gates and Claude-deferred execution distinct.
+
+
+### PG572 · Named Vedic interfaces and a positive case-owner frontier
+
+PG572 constructs [Vedic named yat/añ and sama āvatup boundaries](vedic_named_yat_anj_and_sama_avatup_boundaries/README.md): three morphology adapters/18 interfaces;one retained internal-ACCplural boundary contract/one readout;zero word/accent/source-observation/policy credits. Literal named members,vowel/consonant and suffix owners retained;aps full word/raw patronymic and independent Vedic/source/global gates Open. Totals51,819 finite;6,384 nominal/7,583 readings.
+
+Prior25pointer superseded only for15yat/2añ/1āvatup interfaces and explicit aps retained-ACCplural boundary. Full aps surface/accent,rawआमुष्यायणामुष्यपुत्रिका segmentation/quantities/inner derivation,independent Vedic recitation/accent and inner oka/other lexical/gender/case work remain Open,not excluded. Informal older amūṣya label is not a settled source reading. Prior rañ/raṇ and C2–C5/S1–S7/native/source gates remain Open;Claude execution separate.
