@@ -1,6 +1,6 @@
-# Written-development backlog at PG575
+# Written-development backlog at PG576
 
-Monty · 23 November 2026 · reviewed current parent f649380032876197e61c873a8cf9238efb00d507; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent bce339f53a8a1fda28c36c1b9277dcdfa180fd42; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1130,3 +1130,10 @@ Selected26–30interfaces locally CLOSED. RawBāla26N-example/F-label and Nyāsa
 PG575 constructs [temporary/dyed lohita and policy-owned feminine paths](lohita_temporary_dyed_and_policy_owned_feminine_paths/README.md): one morphology adapter/three stems/four paths;one meaning contract/three frames;one Nyāsa observation;zero word/accent/new-policy credits. Substrate-relative colour and different i/ī/a/ā/t-n owners preserved;source priority accounts separate. Totals51,819 finite;6,384 nominal/7,583 readings;Fcases/critical/source/global gates Open.
 
 Selected31–32meaning/stems locally CLOSED under named source accounts;four histories/three stems are not four word positions. Next selectedF24casekeys with two accepted reading branches only if prior coverage absent,not duplicatepositions peralternative. Bāla31criticaltext/Tattva-Bālafullpriority,other colour members/independentaccent and all prior source/native/global obligations remain Open;Claude execution separate.
+
+
+### PG576 · New selected dyed-Fcase keys,not doubled alternative positions
+
+PG576 adds [dyed lohita-kan feminine cases with two accepted reading branches](lohita_kan_dyed_feminine_case_grid_two_reading_branches/README.md):24newunique nominal keys/48written readings,0finite/source/policy/accent/new-construction credits. Onecase-keyfamily,two readings,three retained Fhistories;ending consumer reused. Totals51,819 finite;6,408 nominal/7,631 readings;selected dyed-Fpanel CLOSED,wider gates Open.
+
+PG575selectedFcase pointer superseded only for5.4.32dyed-Fprofile24keys48readings. Full panel locally CLOSED;other temporary/gem/M/N/colour cases/accent/critical/source/native/global requests remain Open. Previous24or48alternative-position ambiguity avoided:only24newkeys. Next actual33–40after prior source/register review;Claude execution separate.

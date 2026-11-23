@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG575
+# Pāṇini grammar · current written coverage at PG576
+
+PG576 adds [dyed lohita-kan feminine cases with two accepted reading branches](lohita_kan_dyed_feminine_case_grid_two_reading_branches/README.md):24newunique nominal keys/48written readings,0finite/source/policy/accent/new-construction credits. Onecase-keyfamily,two readings,three retained Fhistories;ending consumer reused. Totals51,819 finite;6,408 nominal/7,631 readings;selected dyed-Fpanel CLOSED,wider gates Open.
 
 PG575 constructs [temporary/dyed lohita and policy-owned feminine paths](lohita_temporary_dyed_and_policy_owned_feminine_paths/README.md): one morphology adapter/three stems/four paths;one meaning contract/three frames;one Nyāsa observation;zero word/accent/new-policy credits. Substrate-relative colour and different i/ī/a/ā/t-n owners preserved;source priority accounts separate. Totals51,819 finite;6,384 nominal/7,583 readings;Fcases/critical/source/global gates Open.
 
