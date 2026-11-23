@@ -401,3 +401,19 @@ Selected apadī fibre and Vedic NOMdu coalescence locally CLOSED; alternative-in
 - K139eight/extended139seven, additional128 variants/inner meanings,142patra and prior C2–C5/S1–S7/native/global work remain Open. Claude execution distinct; frozen PG335/PG357–363 CLOSED preserved.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG636 · Sapadi inner Uṇādi in and the selected divādi pad root
+
+Previous publication: 43355de2e35a1d8b97d7ae18cc36e2df5fa4cc22; tree 596ceec251d58e35b4e9d1460e2fe17560569874. Necessary check: Python 3.12.14, 63 assertions, 2 attempt(s).
+
+PG636: [Sapadi inner Uṇādi in and the selected divādi pad root](sapadi_inner_unadi_in_and_divadi_pad_root_selection/README.md). One source-grounded inner divādipad1040065+Uṇādi4.117in interface;one meaning frame;two scope/five records;two primary observations. Dental n_IT differs from ṇ_IT and128c_IT. Whole VCP saha→sa/composition/avyaya route remains Open. Zero new word/policy/accent credits; census51,819 finite;7,359 nominal/8,594 readings.
+
+PG521–636 cumulative:1,581 nominal positions/1,851 readings, zero finite;227 morphology/993 interfaces (813 nominal/stem+10 finite+170 avyaya);115 compound/568 plans;7 accent/27 records;135 semantics/412 records;93 syntax/256 records;27 source-policy decisions after PG555−1;262 observations (29 VCP+12 MW+4 PWG+35 primary Bhāṣya+31 paired commentary+59 Nyāsa+24 Tattva+37 Bāla+23 K cross-rule+1 primary Bhaṭṭabhāskara+2 primary Uṇādi records+2 historical Vasu+1 primary Saṃhitā+1 primary Sāyaṇa+1 root contrast). One provenance correction/one proof addendum; no new census correction.
+
+Selected inner pad+in locally CLOSED; full VCP composition/source/global gates Open.
+- Closed only VCP source-relative inner divādipad1040065+Uṇādi4.117in→padi, retaining actual i/n_IT and no guessed śyan/ṇic/iṭ/vṛddhi. Existing128sapadi is frozen/no recredit.
+- Full VCP saha→sa composition and avyaya designation, general Uṇādi productivity, alternate roots/inner derivations, actual accent/cases remain Open; no textual gap becomes an exclusion.
+- K139eight/extended139seven, additional128recensions,142patra and prior C2–C5/S1–S7/native/global obligations remain Open; Claude execution separate.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
