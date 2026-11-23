@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG603
+# Pāṇini grammar · current written coverage at PG604
+
+PG604 constructs [formal svāṅga,ṣac feminines and wood-tool roles](formal_svanga_sac_feminines_and_daru_finger_roles/README.md): four new adapters/14interfaces(includingtwoacextensions),three compound contracts/14plans,three meaning contracts/ten frames,four observations and one qualified Tattva nonorgan decision. Zero word/accent credits;primarynonlivingformalextension,ṣac/ṣa/ac andṅīṣ/ṭāpretained. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
 
 PG603 constructs [primary lexical nadī and policy-owned avyaya options](lexical_nadi_primary_witness_and_policy_owned_avyaya_options/README.md): three recipes/14avyayainterfaces,three compound contracts/14plans,two scope/policy contracts/six frames,one meaning contract/three frames,five observations and one qualified reported strict-source decision. Zero word/accent credits;primarylexicalreply distinctfromlateroptionalityinference. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
 

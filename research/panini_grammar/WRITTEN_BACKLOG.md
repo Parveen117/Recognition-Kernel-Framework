@@ -1,6 +1,6 @@
-# Written-development backlog at PG603
+# Written-development backlog at PG604
 
-Monty · 23 November 2026 · reviewed current parent 63f711c974af89079b038be40740dbe47ff1e209; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 4c6ab132224a7d7eca882641a17f018ce8406c25; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1328,3 +1328,10 @@ Selected20interfaceslocallyCLOSED;PG584uparājamclassprojectionnotrecredited. Pa
 PG603 constructs [primary lexical nadī and policy-owned avyaya options](lexical_nadi_primary_witness_and_policy_owned_avyaya_options/README.md): three recipes/14avyayainterfaces,three compound contracts/14plans,two scope/policy contracts/six frames,one meaning contract/three frames,five observations and one qualified reported strict-source decision. Zero word/accent credits;primarylexicalreply distinctfromlateroptionalityinference. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
 
 PrimaryBhāṣya11023nadīlexical/namesreplylocallyCLOSED;doesnotdirectlyproveTattvaoptional/mandatoryinference.14interfaceswithK_Ny_SK_Bālamainandstrictreportedchannelsretained;Kaiyaṭaregulatedconditions/originalanduniversalpriorityOpen.113onward/fullgaṇa/cases/accentandearlierdaśabhūmaka/pur/palya/citation-i/parokṣarecipe/Tattva106nested/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
+
+
+### PG604 · Formalnonlivingbodyandactualfeminineowners
+
+PG604 constructs [formal svāṅga,ṣac feminines and wood-tool roles](formal_svanga_sac_feminines_and_daru_finger_roles/README.md): four new adapters/14interfaces(includingtwoacextensions),three compound contracts/14plans,three meaning contracts/ten frames,four observations and one qualified Tattva nonorgan decision. Zero word/accent credits;primarynonlivingformalextension,ṣac/ṣa/ac andṅīṣ/ṭāpretained. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
+
+Selected14interfaceslocallyCLOSED;primary41054formaldefinitionplusnonlivingarcāandTattvapratimāpositive. ThreeṣacFcasefamiliesnext. Tattva113qualifiednonorganacdecisionacceptedwithKoldcontrolfrozen/criticalOpen;Bālarawṅīp/nastaddhite,PG593measurelineage/fullaccent/116onwardandearlierdaśabhūmaka/pur/palya/citation-i/parokṣarecipe/Tattva106nested/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
