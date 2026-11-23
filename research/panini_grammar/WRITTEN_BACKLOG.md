@@ -1,6 +1,6 @@
-# Written-development backlog at PG594
+# Written-development backlog at PG595
 
-Monty · 23 November 2026 · reviewed current parent 82bdb28d73f95b25bdf74cfa983da4bcb37ff6d6; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 9a99ce05ff15643105f2fe31ee05ad6ed176f281; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1265,3 +1265,10 @@ Selected84–86interfaceslocallyCLOSED. Ritualmicrotextnotcomputed/repaired;Nyā
 PG594 constructs [night/day compounds and reported ac reinterpretation](night_day_compounds_and_reported_ac_reinterpretation/README.md): two recipes/22 stems,two compound contracts/22 plans,one scope/five frames,one meaning/four frames and three observations. One new qualified reported-ac policy;one additive historical-register attribution correction. Zero word/accent credits;PG448closure preserved. Totals 51,819 finite;6,454 nominal/7,679 readings;wider gates Open.
 
 Selected87–90interfaceslocallyCLOSED;Tattva88reportedacchanneladoptedwithoutdirectprimaryfullpositiveclaim. PG448ahorātraM/NdupluralCLOSED;ordinaryMsingularnext. PuṇyāhaK90displayvsK24018Nsourceboundary,kecitlineage/fullcases/accentOpen. Actualregisterattributioncorrectedadditively:PG37B68–85;PG38file86–160,notPG37Athrough67. Other91onward/daśabhūmaka/pur/palya/citation-i/critical/lexical/C2–C5/S1–S7/source/native/globalwork remains;Claudeexecutionseparate.
+
+
+### PG595 · OrdinaryM ahorātra24/25familyCLOSED
+
+PG595 closes [remaining ordinary masculine ahorātra cases](ahoratra_ordinary_masculine_remaining_case_closure/README.md): ten missing keys/11readings,withhold quoted NOMsg control;9new unique nominal positions/10readings. With PG448oldM14keys,the ordinaryMfamily is24keys/25readings. Zero finite/source/new-construction credits;N/Vedic/wider gates Open. Totals 51,819 finite;6,463 nominal/7,689 readings.
+
+PG448olddupluralM14keysandNpanelpreserved;new10keysdisjoint,oneNOMsgsourcecontrolwithheld. OrdinaryMall8×3closed;sourcechandasNsingular/vocative/fullaccentremainOpen. Other87–90familiesandactual91onward/daśabhūmaka/pur/palya/citation-i/critical/lexical/C2–C5/S1–S7/source/native/globalwork remains;Claudeexecutionseparate.

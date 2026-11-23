@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG594
+# Pāṇini grammar · current written coverage at PG595
+
+PG595 closes [remaining ordinary masculine ahorātra cases](ahoratra_ordinary_masculine_remaining_case_closure/README.md): ten missing keys/11readings,withhold quoted NOMsg control;9new unique nominal positions/10readings. With PG448oldM14keys,the ordinaryMfamily is24keys/25readings. Zero finite/source/new-construction credits;N/Vedic/wider gates Open. Totals 51,819 finite;6,463 nominal/7,689 readings.
 
 PG594 constructs [night/day compounds and reported ac reinterpretation](night_day_compounds_and_reported_ac_reinterpretation/README.md): two recipes/22 stems,two compound contracts/22 plans,one scope/five frames,one meaning/four frames and three observations. One new qualified reported-ac policy;one additive historical-register attribution correction. Zero word/accent credits;PG448closure preserved. Totals 51,819 finite;6,454 nominal/7,679 readings;wider gates Open.
 

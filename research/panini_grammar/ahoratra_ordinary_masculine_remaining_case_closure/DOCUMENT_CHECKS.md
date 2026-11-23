@@ -1,0 +1,7 @@
+# PG595 necessary changed-document/source/count checks
+
+PASS · Python 3.12.14,explicit3.12 assertion · 75assertions · two attempts (checker used actual old words-field schema; source/table unchanged).
+
+ExactconsumedPG448/PG588/source/registerdependenciesincludingactualkashika_24028_addressed_gender_witnessfile;10literalnewkeys11readingsdisjointfromoldM14keys,fullordinaryM24keys25readings,9newpositions10readingsafteroneNOMsgcontrolwithheld. ActualordinaryMsource/ahorātreṇar-trigger/abl.sgt_d/vocativekeys;oldN/chandasnoaddition,TSVrelationequality,actualcensus/inheritedcorrections,typedPG14casefibre/pausezero recovery,newlinks/UTF8/mutationconfinement.
+
+DraftpinpathinitiallylookedforexcerptinsidePG448;correctedtoactualpreservedPG447folderbeforecompletedpacket/check. No Sanskrit generator/grammar execution,untouched/navigation/engine suites or replay. Wider source/native/globalgatesOpen;Claudeexecutiondeferred.
