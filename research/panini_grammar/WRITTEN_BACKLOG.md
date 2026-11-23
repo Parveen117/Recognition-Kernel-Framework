@@ -1,4 +1,4 @@
-# Written-development backlog at PG526
+# Written-development backlog at PG527
 
 Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
@@ -787,3 +787,10 @@ Already closed locally: kṣar root-r lopa/Tattva tudādi kṣi i→a before act
 PG526 constructs [nabhrāj zero-kvip and rule-relative consonant cases](nabhrāj_zero_kvip_and_rule_relative_consonant_cases/README.md): 23 new nominal positions/25 readings; 24 keys/26 readings minus old nabhrāṭ. One morphology adapter/one stem interface, one VCP lexical-entry observation, 0 finite additions. Silent kvip retains affix/marker history; vowel j versus bh ḍ/pause ṭ-ḍ/loc.pl ṭs views owned. Totals 51,819 finite; 5,870 nominal/6,844 readings; global gates Open.
 
 Selected Nabhrāj plain-root/kvip/cloud-M case family locally CLOSED. Genuine full unconstructed designated domains now navedas, napuṃsaka, nakra. Next: Nakra kram prescribed ḍa with owned ṭi-am deletion and surviving suffix a/r versus present krām; crocodile M/F and door/nose N source senses must remain explicit. Nabhrāj ṭu-root/other lexical gender/sense/teacher/accent and independent Hemacandra stay Open; Nakṣatra's two unresolved source arms, earlier critical/case/number contracts and S1–S7/C2–C5/native/Claude remain as declared. No whole-language denominator closure.
+
+
+### PG527 · Nakra selected root/affix and crocodile M/F family
+
+PG527 constructs [Nakra ḍa/ṭi ownership and crocodile M/F cases](nakra_dit_ti_ownership_and_crocodile_gender_cases/README.md): 47 new nominal positions/48 readings; 48 keys/49 readings minus old nakraḥ. One morphology adapter/two stem interfaces; one VCP entry observation; 0 finite additions. Root am deletion leaves r; actual feminine ṅīṣ deletes suffix a, not root r. Door/nose/compound source profiles remain Open. Totals 51,819 finite; 5,917 nominal/6,892 readings; global gates Open.
+
+Already closed locally: kram/ḍa/whole-ṭi-am deletion, negative retention, crocodile feminineṅīṣ and M/F48key49reading family. Genuine full unconstructed designated domains: navedas and napuṃsaka. Next: Navedas actual asun/root-guṇa/s-stem/6.4.14 and source meaning (K na vetti versus VCP na viparītaṃ vetti); retain competing semantic profiles, no unmarked harmonization. Napuṃsaka prescribed strī/puṃs→puṃsaka scope/gender still unconstructed. Nakra other senses/genders/quoted compound head/source collation, Nakṣatra's two source arms and prior S1–S7/C2–C5/native/Claude obligations remain Open. No original-source confirmation or language-wide denominator is invented.
