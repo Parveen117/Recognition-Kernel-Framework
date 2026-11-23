@@ -1,6 +1,6 @@
-# Written-development backlog at PG637
+# Written-development backlog at PG638
 
-Monty · 2026-11-24 · reviewed current parent 5ad363ddbcaeeef7fa9a2f569e7de0abf7d3a9d6; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 7c8142d499021e3cf5d8c6fa79a03a8fed16f6b6; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1678,3 +1678,14 @@ Selected antevāsi adverb locally CLOSED; neuter/inner/source/global gates Open.
 - Closed selected MW/Vasu/PWG named antevāsi adverb, retaining supplied antevāsa+ic ownership; no repeated old membership/generic128/word credits.
 - PWG perhaps-neuter antevāsin hypothesis and supplied antevāsa internal compound/aluk, ācyapadi parenthetical and raw VCP daṇḍi/Adya variants remain actual Open work.
 - K139eight/extended139seven, remaining inner128/142patra and earlier C2–C5/S1–S7/native/global work remain Open. Claude execution separate; frozen PG335/PG357–363 CLOSED preserved.
+
+
+### PG638 · Three female kap case fibres and two-g memory
+
+PG638: [Three female kap case fibres and two-g memory](three_female_kap_case_fibres_and_two_g_memory/README.md). 72 literal female-āp case keys/readings minus3 source NOMsg controls:69 new unique nominal positions/69 readings, zero finite or additional construction/source/accent credits. Census51,819 finite;7,428 nominal/8,663 readings. Inner plural people, retained i and two vāggmin g tokens keep their owners.
+
+Three selected female kap case fibres locally CLOSED; lexical/source/global gates Open.
+
+- Closed only PG623three female hall/city/assembly case fibres with original in-n/i, kap/ṭāp and two-g histories; no old source/generic-constructor/NOMsg recredit.
+- Male/neuter and wider in lexicon/meanings, complete accent/recitation/corpus remain Open; the ordinary feminine consumer does not imply all152lexical domains are complete.
+- Actual K139eight/extended139seven,128variant/inner/142patra and older C2–C5/S1–S7/native/global work remain Open; Claude execution separate.

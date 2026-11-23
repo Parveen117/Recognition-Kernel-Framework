@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG637
+# Pāṇini grammar · current written coverage at PG638
+
+PG638: [Three female kap case fibres and two-g memory](three_female_kap_case_fibres_and_two_g_memory/README.md). 72 literal female-āp case keys/readings minus3 source NOMsg controls:69 new unique nominal positions/69 readings, zero finite or additional construction/source/accent credits. Census51,819 finite;7,428 nominal/8,663 readings. Inner plural people, retained i and two vāggmin g tokens keep their owners.
 
 PG637: [Antevāsi named adverb and an unmerged neuter hypothesis](antevasi_named_adverb_and_unmerged_neuter_hypothesis/README.md). One positive extended128 antevāsi pupil-state adverb interface/compound/meaning frame;two scope/four records;one MW observation/one source decision. PWG perhaps-neuter and lexical antevāsa inner-aluk proof remain Open. Zero new word/accent credits; census51,819 finite;7,359 nominal/8,594 readings.
 

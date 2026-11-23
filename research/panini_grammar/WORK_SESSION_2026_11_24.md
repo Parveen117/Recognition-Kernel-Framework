@@ -433,3 +433,19 @@ Selected antevāsi adverb locally CLOSED; neuter/inner/source/global gates Open.
 - K139eight/extended139seven, remaining inner128/142patra and earlier C2–C5/S1–S7/native/global work remain Open. Claude execution separate; frozen PG335/PG357–363 CLOSED preserved.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG638 · Three female kap case fibres and two-g memory
+
+Previous publication: 7c8142d499021e3cf5d8c6fa79a03a8fed16f6b6; tree c682bdea2c3f0bb132225101e836a2872f513e8a. Necessary check: Python 3.12.14, 45 assertions, 1 attempt(s).
+
+PG638: [Three female kap case fibres and two-g memory](three_female_kap_case_fibres_and_two_g_memory/README.md). 72 literal female-āp case keys/readings minus3 source NOMsg controls:69 new unique nominal positions/69 readings, zero finite or additional construction/source/accent credits. Census51,819 finite;7,428 nominal/8,663 readings. Inner plural people, retained i and two vāggmin g tokens keep their owners.
+
+PG521–638 cumulative:1,650 nominal positions/1,920 readings, zero finite;228 morphology/994 interfaces (813 nominal/stem+10 finite+171 avyaya);116 compound/569 plans;7 accent/27 records;136 semantics/413 records;95 syntax/260 records;28 source-policy decisions after PG555−1;263 observations. One provenance correction/one proof addendum; no new census correction.
+
+Three selected female kap case fibres locally CLOSED; lexical/source/global gates Open.
+- Closed only PG623three female hall/city/assembly case fibres with original in-n/i, kap/ṭāp and two-g histories; no old source/generic-constructor/NOMsg recredit.
+- Male/neuter and wider in lexicon/meanings, complete accent/recitation/corpus remain Open; the ordinary feminine consumer does not imply all152lexical domains are complete.
+- Actual K139eight/extended139seven,128variant/inner/142patra and older C2–C5/S1–S7/native/global work remain Open; Claude execution separate.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
