@@ -241,3 +241,19 @@ Selected157–160 owned traces locally CLOSED; concrete remaining registers and 
 - Next actual backlog151 singular/list/arthan-nañ and Lakṣmī interactions;13918 exact entries,12813 exact entries/two bāhu senses/prohyapadi;142 patra and all older critical/lexical/C2–C5/S1–S7/native/global work. Wider written scope remains Open; Claude execution distinct.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG626 · Listed vowels, Lakṣmī number and artha-after-nañ scope
+
+Previous publication: 2fcabcb88f2e9efe961062aae245041f22c97af8; tree 8fe4bad331c13907c4fca8765890df6c9ba461da. Necessary check: Python 3.12.14, 74 assertions, 1 attempt(s).
+
+PG626: [Listed vowels, Lakṣmī number and artha-after-nañ scope](urasa_list_vowels_laksmi_number_and_artha_nanj_scope/README.md). Three formation adapters/ten interfaces; three compound contracts/11 contexts; three meaning contracts/nine records; three scope contracts/seven records; four observations/one qualified source decision. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+PG521–626 cumulative:938 nominal positions/1,207 readings, zero finite;214 morphology constructions/934 interfaces (768 nominal/stem+10 finite+156 avyaya);104 compound contracts/510 contexts;7 accent/27 records;117 semantics/359 records;71 syntax/200 records;23 source-policy decisions after PG555−1;212 observations (6 VCP+35 primary Bhāṣya+31 paired commentary+59 Nyāsa+24 Tattva+37 Bāla+18 K cross-rule+1 primary Bhaṭṭabhāskara+1 primary Uṇādi corroboration). One additive register-provenance correction; no new census effect.
+
+Six further151 selected adapters locally CLOSED; three named151 entries and full written gates Open.
+- Closed six remaining151 listed/artha-nañ adapters for the stated domains, with singular/plural Lakṣmī source attribution retained. Old generic singular-member policy is not recredited.
+- Genuine151 remaining: pumān, anaḍvān, nauḥ. Original case/number and consonant recipes must be constructed individually; no exclusions. Inner Lakṣmī etymology, global niyama confluence and all case/accent products Open.
+- Next three151 entries then actual13918-entry and12813-entry lists/two bāhu senses/prohyapadi.142 patra and all older source/critical/C2–C5/S1–S7/native/global work remain Open; Claude execution distinct.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

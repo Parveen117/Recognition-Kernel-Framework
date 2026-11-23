@@ -1,0 +1,332 @@
+{
+  "stage": "PG626",
+  "title": "Listed vowels, Lakṣmī number and artha-after-nañ scope",
+  "predecessor_review": "PG623 actual remaining151 register named nine entries; PG625 retained it. Read actual151 K/SK/Bāla/Tattva, PG624153/154 ownership and K1.2.48. Current new constructions close dadhi/madhu/śāli/payas/lakṣmī/artha-nañ entries for the stated source domains; pumān/anaḍvān/nauḥ remain unconstructed. Earlier generic singular-member policy not recredited. Same bahulakṣmīka letters retain two distinct original number histories.",
+  "frames": [
+    {
+      "id": "F1",
+      "readout": "bahudadhika",
+      "original_last": "dadhi",
+      "family": "LIST151",
+      "meaning": "many/much curd supplied frame",
+      "suffix": "kap",
+      "payload": "ka",
+      "markers": [
+        "p_IT"
+      ],
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "F2",
+      "readout": "bahumadhuka",
+      "original_last": "madhu",
+      "family": "LIST151",
+      "meaning": "much honey supplied frame",
+      "suffix": "kap",
+      "payload": "ka",
+      "markers": [
+        "p_IT"
+      ],
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "F3",
+      "readout": "bahuśālika",
+      "original_last": "śāli",
+      "family": "LIST151",
+      "meaning": "much rice supplied frame",
+      "suffix": "kap",
+      "payload": "ka",
+      "markers": [
+        "p_IT"
+      ],
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "F4",
+      "readout": "bahupayaska",
+      "original_last": "payas",
+      "family": "SINGULAR151",
+      "meaning": "much milk, one singular payas member",
+      "suffix": "kap",
+      "payload": "ka",
+      "markers": [
+        "p_IT"
+      ],
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "F5",
+      "readout": "bahulakṣmīka",
+      "original_last": "lakṣmī",
+      "family": "LAXMI_SG151",
+      "meaning": "much/abundant singular Lakṣmī",
+      "suffix": "kap",
+      "payload": "ka",
+      "markers": [
+        "p_IT"
+      ],
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "F6",
+      "readout": "bahulakṣmīka",
+      "original_last": "lakṣmī",
+      "family": "LAXMI_PL_KAP154",
+      "meaning": "many plural Lakṣmī, choose residual kap",
+      "suffix": "kap",
+      "payload": "ka",
+      "markers": [
+        "p_IT"
+      ],
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "F7",
+      "readout": "bahulakṣmī",
+      "original_last": "lakṣmī",
+      "family": "LAXMI_PL_NO_KAP154",
+      "meaning": "many plural Lakṣmī, decline residual kap",
+      "suffix": null,
+      "payload": null,
+      "markers": [],
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "F8",
+      "readout": "anarthaka",
+      "original_last": "artha",
+      "family": "NANJ151",
+      "meaning": "without artha, nañ first",
+      "suffix": "kap",
+      "payload": "ka",
+      "markers": [
+        "p_IT"
+      ],
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "F9",
+      "readout": "apārthaka",
+      "original_last": "artha",
+      "family": "APA_KAP154",
+      "meaning": "artha gone away, apa first, choose kap",
+      "suffix": "kap",
+      "payload": "ka",
+      "markers": [
+        "p_IT"
+      ],
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "F10",
+      "readout": "apārtha",
+      "original_last": "artha",
+      "family": "APA_NO_KAP154",
+      "meaning": "artha gone away, apa first, decline kap",
+      "suffix": null,
+      "payload": null,
+      "markers": [],
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    }
+  ],
+  "compound_contracts": [
+    {
+      "id": "PLAIN151",
+      "frames": [
+        "F1",
+        "F2",
+        "F3",
+        "F4"
+      ]
+    },
+    {
+      "id": "LAKSMI",
+      "frames": [
+        "F5",
+        "F6",
+        "F7",
+        "F5"
+      ],
+      "accounts": [
+        "singular preferred151",
+        "plural residual chosen",
+        "plural residual declined",
+        "singular153 attribution only under Tattva alternative negative-niyama reading"
+      ]
+    },
+    {
+      "id": "ARTHA",
+      "frames": [
+        "F8",
+        "F9",
+        "F10"
+      ]
+    }
+  ],
+  "semantic_contracts": [
+    {
+      "id": "PLAIN",
+      "records": [
+        "many/much curd supplied frame",
+        "much honey supplied frame",
+        "much rice supplied frame",
+        "much milk, one singular payas member"
+      ]
+    },
+    {
+      "id": "LAKSMI",
+      "records": [
+        "quantity of one singular Lakṣmī, original bahvī adjective",
+        "many plural Lakṣmī, different inner number"
+      ]
+    },
+    {
+      "id": "ARTHA",
+      "records": [
+        "without artha, nañ first",
+        "artha gone away, apa first, choose kap",
+        "artha gone away, apa first, decline kap"
+      ]
+    }
+  ],
+  "syntactic_contracts": [
+    {
+      "id": "NUMBER",
+      "records": [
+        "inflected gaṇa member keeps original singular qualification",
+        "bahu amount versus number cannot be read from same first letters"
+      ]
+    },
+    {
+      "id": "LAKSMI",
+      "records": [
+        "151 specific singular restriction controls competing153",
+        "153 attribution for singular requires alternative negative-niyama source policy"
+      ]
+    },
+    {
+      "id": "ARTHA",
+      "records": [
+        "nañ first requires151 kap",
+        "apa first not151 gaṇasūtra;154 independently optional",
+        "old nañ-n lopa and new n-augment are different events"
+      ]
+    }
+  ],
+  "source_policy": {
+    "id": "TATTVA151_SINGULAR_ROUTE_ATTRIBUTION",
+    "new_policy_credit": 1,
+    "adopted": "Tattva prefers151 for singular abundant Lakṣmī due the specific prescription; reports Prāc153 attribution defensible under niyama rules read through negative operation. Preserve these conditional source policies, not unqualified simultaneous independent derivations. Plural Lakṣmī retains only resolved154 option.",
+    "boundary": "No whole-source-policy confluence or universal equivalence of positive/negative niyama theories"
+  },
+  "source_observations": [
+    "Tattva151 quantity/number Lakṣmī and conditional prescription attribution",
+    "Bāla151 nañ-artha versus apa-artha positive contrast",
+    "K1.2.48 explicit atilakṣmīḥ no-shortening witness",
+    "K6.3.73/74 separate old nañ-n loss and new n-augment"
+  ],
+  "remaining_151": [
+    "pumān",
+    "anaḍvān",
+    "nauḥ"
+  ],
+  "controls": [
+    {
+      "id": "ALL_BAHU_IS_PLURAL",
+      "status": "Excluded",
+      "reason": "abundant single mass/wealth can be singular member"
+    },
+    {
+      "id": "PLURAL_LAKSMI_MANDATORY153",
+      "status": "Excluded_this_policy",
+      "reason": "151 singular restriction prevents mandatory153 bypass"
+    },
+    {
+      "id": "ALL_LONG_I_SHORTENS",
+      "status": "Excluded",
+      "reason": "K1.2.48 atilakṣmīḥ explicitly retains primitive ī"
+    },
+    {
+      "id": "APA_EQUALS_NANJ",
+      "status": "Excluded",
+      "reason": "different original first members and kap scope"
+    },
+    {
+      "id": "NANJ_OLD_N_IS_AUGMENT",
+      "status": "Excluded",
+      "reason": "original n removed; following new n has different owner"
+    },
+    {
+      "id": "ALL_151_COMPLETE",
+      "status": "Open",
+      "reason": "three exact remaining gaṇa entries retain individual inner/case operations"
+    },
+    {
+      "id": "NIYAMA_UNIVERSAL_EQUIVALENCE",
+      "status": "Open",
+      "reason": "conditional competing commentary theories not globally proved identical"
+    },
+    {
+      "id": "FULL_PARADIGMS_INNER_LAKSMI",
+      "status": "Open",
+      "reason": "no new exhaustive inner Lakṣmī etymology or all case/accent products"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 3,
+    "new_morphological_readouts": 10,
+    "new_compound_constructions": 3,
+    "new_compound_readouts": 11,
+    "new_semantic_constructions": 3,
+    "new_semantic_readouts": 9,
+    "new_syntactic_constructions": 3,
+    "new_syntactic_readouts": 7,
+    "new_source_observations": 4,
+    "new_source_policy_decisions": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  }
+}
