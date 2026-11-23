@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG549
+# Pāṇini grammar · current written coverage at PG550
+
+PG550 constructs [one-vowel-member lopa/vācika and critical query boundary](one_vowel_member_lopa_vacika_and_critical_query_boundary/README.md):1morphology adapter1exactprototype+1critical-source policydecision;0word/source-observation increments. Wholeāśismemberlopa,currentbhaandretainednominalcproducevācika;renderedgnotprimitive. Rawpada/bhamicro-reading,ṣaḍikacontinuation/otherparentnamesstayOpenwithoutrepairorwordban. Totalsunchanged51,819finite;6,384nominal/7,583readings;global gates Open.
 
 PG549 constructs [u-ilac partial lopa/whole-la and reported ṛ-boundary](u_ilac_partial_lopa_whole_la_and_reported_r_boundary/README.md):1morphology adapter2stems4ownerpaths+1source-policy decision;0word/source-observation increments. Oldilacla versusNyāsanewwholelādeśaownersdistinct.SKṛextension/Bālaobjectionregisteredwithoutfullupstreamlicenceupgradeorwordban. Totalsunchanged51,819finite;6,384nominal/7,583readings;global gates Open.
 

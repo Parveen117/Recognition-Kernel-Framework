@@ -1,0 +1,100 @@
+{
+  "stage": "PG550",
+  "path": {
+    "id": "VAGASIH_WHOLE_MEMBER",
+    "input_name": "Vāgāśīḥ",
+    "root_id": null,
+    "preverb": null,
+    "voice": null,
+    "pada": null,
+    "gender": "m",
+    "source_analysis": "Nyāsavāciāśīrasyeti,qualifiednamedbahuvrīhiframe",
+    "retained_members": [
+      "vāc_nominalspeechbody_with_palatal_c",
+      "āśis/āśīḥ_source_rightnominalmember_withownedendinghistory"
+    ],
+    "first_member_vowels": [
+      "ā"
+    ],
+    "affix": "ṭhac c_IT→ik|a",
+    "qualification": "suppliedhumanpersonalname/bahvac/compassionorcompatiblenīti",
+    "cut": "whole secondāśis-memberinactive;notjustvowelāreplacement",
+    "query": "currentvācbeforeactualvowelinitialika hasbha1.4.18overridingpriorpadaclass;nopadānta/jhalpremisefor8.2.30",
+    "stem": "vācika",
+    "position_credit": 0
+  },
+  "critical_diagnostics": [
+    {
+      "id": "NYASA_PADA_MICROWORDING",
+      "raw_phrase": "स्थानिवद्भावात्पदसंज्ञा न स्यात्",
+      "status": "Open_critical_exact_reading",
+      "decision": "Preserveaswritten;donotsilentlyreplacepadawithbha.Sourcepositivewhole-lopapathandK14018usedinsteadofclaimingtheentirerejected-routeparagraphcriticallyresolved."
+    },
+    {
+      "id": "SADANGULIDATTA_SADIKA",
+      "source_word": "ṣaḍika",
+      "input_quote": "ṣaḍaṅgulidatta",
+      "status": "Open_full_query_and_exact_source_continuation",
+      "decision": "Kpositivewordexists;NyāsafieldendsobjectionandKtailclauseismalformed.Noinventedsixth-vowel/globalnipātanarepairorwholewordexclusion."
+    },
+    {
+      "id": "SRUCIKA_TVACIKA_PARENTS",
+      "reported_words": [
+        "srucika",
+        "tvacika"
+      ],
+      "status": "Open_exact_upstream_parentidentity",
+      "decision": "KnownKoutputs;donotguesscompleteSrugāśis/Tvagāśisparentsfromanalogy.Noextrafullyconstructedreadoutcredit."
+    }
+  ],
+  "controls": [
+    {
+      "id": "RENDERED_G_IS_NEW_PRIMITIVE_FIRST_MEMBER",
+      "status": "Excluded_history_view_loss"
+    },
+    {
+      "id": "WHOLE_MEMBER_LOPA_IS_ONLY_AC_REPLACEMENT",
+      "status": "Excluded_target_type_collapse"
+    },
+    {
+      "id": "RUN_PADANTA_KUTVA_DESPITE_ACTUAL_BHA",
+      "status": "Excluded_query_condition"
+    },
+    {
+      "id": "VAC_NOMINAL_SPEECH_MEMBER_IS_VERBAL_VAC_ROOT",
+      "status": "Excluded_lexical_category"
+    },
+    {
+      "id": "NYASA_DIAGNOSTIC_VAGIKA_IS_UNIVERSALLY_INVALID_WORD",
+      "status": "Excluded_wholeword_ban_inference"
+    },
+    {
+      "id": "SILENT_BHA_REPAIR_OF_RAW_PADA_PHRASE",
+      "status": "Excluded_unpinned_critical_edit"
+    },
+    {
+      "id": "OTHER_ONE_AC_NAMES_PREFIX_GENDER_ACCENT",
+      "status": "Open"
+    },
+    {
+      "id": "FULL_SADIKA_PARENT_OR_CRITICAL_CONTINUATION",
+      "status": "Open"
+    },
+    {
+      "id": "GENERAL_1157_OR_ALL_PADA_BHA_ENGINE",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 1,
+    "new_source_policy_decisions": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0
+  },
+  "case_consumer_bridge": "ReuseregularM-avācikacaseconsumeronactualderivednominal/gender/case/number;no freshliteralpositioncensus.",
+  "source_boundary": "1exactprovidednameprototypeconstructed;ṣaḍika/srucika/tvacikaareknownsourceevidencewithunconstructedexactupstreamorcriticalquery,notadditionalfullrequestreadouts.SourcepolicydecisionisprecisecriticalOpenclassification,nottextexclusion."
+}
