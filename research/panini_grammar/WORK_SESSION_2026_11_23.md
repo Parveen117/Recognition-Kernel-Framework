@@ -261,3 +261,29 @@ Baseline PG5050ee70716fcf6ac63672eab44adfc09ad6fdf787c:51,819finite;5,179nominal
 |PG513|This changed-file checkpoint;use branch commit containing this packet|35/36|40keys41readings minus5old/conservative controls|
 
 All newfinite/nominal additions separated from source/otherconstruction units.Necessary packetchecks only,explicitPython3.12;fullgrammar/generators/untouchedold/navigation/engine suites/replay deferred toClaude.Closed old actor/niṣṭhā/passive/PG357–363/PG335 results preserved.No mainmerge/force/newautomation/subagents.Global source reading obligations remainOpen rather than administrative exclusions.
+
+## PG514 · Twelve near-count head-gender/plural case products
+
+Clean aligned PG513parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c;published tree911752914cd94695c717c3f44101d5260c2aea07.PG513Python3.12.14/153assertions/1attempt.One repository sequential,no agents/new automation/othereditor observed.Prose/factored/STATE/RELATION/TSVreview beforecredit.
+
+PG514 completes [near-count plural head genders with retained an/ti/at histories](near_count_plural_head_genders_and_three_deletion_histories/README.md):276new nominal positions/276readings,0finite/source/separate construction credits.12stems×3genders×8plural cases288keys/readings minus12old/conservative Mnom.pl controls.Known near/excess/head evidence required,no universal±1bound;ṭāp/num/nuṭ and dental n blockers owned.Totals51,819finite;5,614nominal/6,568readings;global gates Open.
+
+Actualnew:0finitepositions/0finitereadings;276nominalpositions/276nominalreadings;0sourceobservations/separateconstructionunits.Cumulative51,819finite;5,614nominal/6,568nominalreadings.12selectedstem×3headgender×8pluralcase288keys/readingsminus12transparentold/conservativeMnom.plslots(3higher-basewholewordattestationsnotclaimed).PG512knowncountrelation/near-bound/headpremises retained;an/ti/at/pararūpa/ḍacownerssurviveouterṭāp/num/nuṭ,innerāsanna-nn/oldṃnotnewcase-n,ś/dblockouterṇ.No singularpause products.PG14typedA/S/Pzerosquareinpacket.Checks inpacket;grammar/generator/old suites/replayClaude-deferred.FrozenPG335/PG357–363 preserved.GlobalwrittencompletionOpen;real source/otherconstruction obligations remain,notconvertedtoexclusions.Fetch/expectedparent/nonforceexistingreviewpublicationonly.
+
+### PG506–PG514 cumulative continuation checkpoint
+
+BaselinePG5050ee70716fcf6ac63672eab44adfc09ad6fdf787c:51,819finite;5,179nominal/6,128nominalreadings.ThroughPG514:0newfinitepositions/0finitereadings;435newnominalpositions/440readings;7newmorphology/selectionunits68stemreadouts;1semanticcontract5policyrecords;2coherentprimaryentryobservations22025/54073inoneBhāṣyawork.PG506–PG512 exactcommit tableabove;PG513exactpublishedcommit3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.PG514isthischanged-filepacket;useitscontainingbranchcommit forpublicationpin.ExactpacketchecksrecordactualPython3.12resultsandjustifiedmatcherretries;noSanskritexecutionclaimed.Nextworkmustreadactualgate/registerfrontiers andnotrecounttheseclosednear-countproducts.AllglobalS1-S7/C2-C5/nativeandClaudeobligationsremainexplicit,noETA/elapsed-hours inference.
+
+### Concrete next source-owned construction
+
+Concrete next register contract after reviewing actual prose/factored references:
+5.4.74 dhur axle versus non-axle owned composition(rājadhurā/mahādhura
+versus akṣadhū/dṛḍhadhūr-akṣa controls).The PG37/PG38 scope row and
+targeted reread are already CLOSED as register evidence;do not credit
+that old qualifier again.Literal STATE/RELATION/TSV/prose search located
+no later addressed dhur suffix/sound/gender-case adapter.The new task is
+that owned composition and source-qualified resulting-word interface,
+then the distinct ṛc student/school versus sāman/sūkta/kap alternatives
+if not closed by a later packet;review every actual dependency first.
+Preserve possession_adverbials/RULES_5_4_B.md and compound_sound_accent/
+PREDECESSOR_REVIEW.md as frozen predecessors,not rewritten coverage.

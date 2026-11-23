@@ -1,6 +1,6 @@
-# Written-development backlog at PG513
+# Written-development backlog at PG514
 
-Monty · 23 November 2026 · reviewed parent fba13da67b12eb31535e578b91a4417cc7d26f4d.
+Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -693,3 +693,21 @@ PG511 near-count/nistrimśa pointers superseded only for supplied12near-count/2c
 PG513 completes [nistriṃśa sword/years head-measure case products](nistrimsa_sword_and_years_head_typed_cases/README.md):35new nominal positions/36readings,0finite/source/separate construction credits.Msword24 plus Nyears30/40plural8each40keys41readings minus5source/conservative controls.Length aṅgula versus year count preserved;ś blocks outer ṇ;one Mabl.sg pause pair.Totals51,819finite;5,338nominal/6,292readings;global gates Open.
 
 PG512 yearsN/swordM case pointer superseded only on source sword30M24 and years30/40Nplural8each.Selected40keys41readings CLOSED;other heads/units/genders/numbers not globally excluded.Next actual unconstructed deliverable:12PG512near-count stems external plural M/F/Ncase products with known source proximity/excess and appropriate heads;ordinaryḍac ṭāp/num/nuṭ ownership required,3right-base deletion histories retained,all source example duplicates withheld.Other numerical/derived/compound semantics,independent printed/critical S1-S7/sourcecase/policy readings,fullaccent/Vedic/teacher and universal native C2-C5 remain Open,Claude execution separate.S5fourfields99/103direct.
+
+## PG514 · Twelve near-count plural panels closed;remaining source and construction gates
+
+PG514 completes [near-count plural head genders with retained an/ti/at histories](near_count_plural_head_genders_and_three_deletion_histories/README.md):276new nominal positions/276readings,0finite/source/separate construction credits.12stems×3genders×8plural cases288keys/readings minus12old/conservative Mnom.pl controls.Known near/excess/head evidence required,no universal±1bound;ṭāp/num/nuṭ and dental n blockers owned.Totals51,819finite;5,614nominal/6,568readings;global gates Open.
+
+PG512/513 near-countcase pointers superseded only for supplied12stem M/F/Nplural products at288keys/readings.All12Mnom.pl withheld conservatively,without inventing3higher-base old whole-word attestations.Real remaining contracts include other approximation/excess/head-number semantics,ḍac/bahu-gaṇa accent boundaries and other compound/metarule/sound/source domains in preserved registers;review source-specific membership before expanding any table.No textual sourcegap or unknown semantic premise changed to exclusion.S1-S7 exact original/print/critical decisions,C2derivedformations/C3root-prefix/C4remainingnominal-compound-syntax-sound-accent/C5universal native written integration remain Open and unmeasured globally;Claude execution separate.S5fourfields99/103direct.
+
+Concrete next register contract after reviewing actual prose/factored references:
+5.4.74 dhur axle versus non-axle owned composition(rājadhurā/mahādhura
+versus akṣadhū/dṛḍhadhūr-akṣa controls).The PG37/PG38 scope row and
+targeted reread are already CLOSED as register evidence;do not credit
+that old qualifier again.Literal STATE/RELATION/TSV/prose search located
+no later addressed dhur suffix/sound/gender-case adapter.The new task is
+that owned composition and source-qualified resulting-word interface,
+then the distinct ṛc student/school versus sāman/sūkta/kap alternatives
+if not closed by a later packet;review every actual dependency first.
+Preserve possession_adverbials/RULES_5_4_B.md and compound_sound_accent/
+PREDECESSOR_REVIEW.md as frozen predecessors,not rewritten coverage.

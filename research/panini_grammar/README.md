@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG514 completes [near-count plural head genders with retained an/ti/at histories](near_count_plural_head_genders_and_three_deletion_histories/README.md):276new nominal positions/276readings,0finite/source/separate construction credits.12stems×3genders×8plural cases288keys/readings minus12old/conservative Mnom.pl controls.Known near/excess/head evidence required,no universal±1bound;ṭāp/num/nuṭ and dental n blockers owned.Totals51,819finite;5,614nominal/6,568readings;global gates Open.
+
 PG513 completes [nistriṃśa sword/years head-measure case products](nistrimsa_sword_and_years_head_typed_cases/README.md):35new nominal positions/36readings,0finite/source/separate construction credits.Msword24 plus Nyears30/40plural8each40keys41readings minus5source/conservative controls.Length aṅgula versus year count preserved;ś blocks outer ṇ;one Mabl.sg pause pair.Totals51,819finite;5,338nominal/6,292readings;global gates Open.
 
 PG512 constructs [near-count ḍac and crossed-limit tatpuruṣa source policies](near_count_dac_and_nistrimsa_tatpurusa_scope_policies/README.md):2morphology adapters/14stem readouts,1primary electronic Bhāṣya54073 observation;0finite/nominal additions.Near-count2.2.25 differs from restricted nis numeral-tatpuruṣa;an/ti/at targets and6.1.97pararūpa owned.Primary explicit-both/avyaya-sufficient histories retained;same upagaṇa spelling does not proveḍac/accent.Totals51,819finite;5,303nominal/6,256readings;global gates Open.
