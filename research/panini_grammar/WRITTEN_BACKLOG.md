@@ -1,6 +1,6 @@
-# Written-development backlog at PG599
+# Written-development backlog at PG600
 
-Monty · 23 November 2026 · reviewed current parent bbefd2cc09f7805ecaf4546bd747d96325b6670e; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent eb8e12b838dfe6e7653c65356f636da8be5a1880; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1300,3 +1300,10 @@ Selected21steminterfaceslocallyCLOSED;wholejāti/sañjñāmembershipunmeasured. 
 PG599 constructs [boat/measure ṭac choices and half-khārī source genders](boat_measure_tac_choices_and_half_khari_gender_sources/README.md): four recipes/14interfaces,four compound contracts/14plans,one LUK contract/five frames,two meaning contracts/seven frames,six observations and one qualified F/N source decision. Zero word/accent credits;actual price-content,teacher/innerLUK and old/newī owners retained. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
 
 Selected14steminterfaceslocallyCLOSED. HalfkhāriNshort/khārīFlongacceptedsourcebranches;Nyāsa101shortening+ṅīṣcriticalmicrotextOpen,notawordban. Fullcases/accent/outerrūpya_mayaṭ_BVand103onward/earlierdaśabhūmaka/pur/palya/citation-i/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
+
+
+### PG600 · Vedicstem/displayandregionalperson-senseowners
+
+PG600 constructs [Vedic an/as and regional brahman ṭac branches](vedic_an_as_and_regional_brahman_tac_history_branches/README.md): three recipes/13prātipadikas,three compound contracts/13plans,one source-domain contract/three frames,two meaning contracts/four frames,four observations. Zero word/accent/new-policy credits;actual an/as,stem/display and sourceN/M senses retained. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
+
+Selected13ownedprātipadikabrancheslocallyCLOSED. NoṭacbrahmasāmanNOMdisplaybrahmasāmanotnewa-stem;Mcountrybrahman-vipradistinctfromVedicN. Nyāsa103caselabel/K104rawbahmaḥcritical,independentVedicfullpassages/accent/regions/fullcasesOpen. Actual106onwardandearlierdaśabhūmaka/pur/palya/citation-i/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
