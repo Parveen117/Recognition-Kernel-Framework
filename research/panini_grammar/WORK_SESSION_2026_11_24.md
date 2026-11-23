@@ -19,6 +19,22 @@ Selected124–126 owned interfaces locally CLOSED; full written-development gate
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
 
 
+## PG650 · Three closed padī heads complete feminine case fibres
+
+Previous publication: 9f3638b4d0a7294490185f9db0853f2c49e8319c; tree ada5fd988186e49f5d12d9492ecf9af38f840406. Necessary check: Python 3.12.14, 61 assertions, 2 attempt(s); first attempt failed only its terminal 60-versus-61 assertion-count guard, with no authored-form or credit change.
+
+PG650: [Three closed padī heads complete feminine case fibres](three_closed_padi_heads_complete_feminine_case_fibres/README.md). dāsīpadī, sūkarapadī and supadī now each have a complete 24-key ordinary feminine-ī case fibre: 69 new unique nominal positions/readings after three source NOMsg controls. supāt remains a separate accepted Haim alternative. Census 51,819 finite; 7,567 nominal/8,803 readings; zero new construction/source/accent credits.
+
+PG521–650 cumulative: 1,789 nominal positions/2,060 readings, zero finite; 236 morphology/1,011 interfaces (821 nominal/stem+10 finite+180 avyaya); 122 compound/583 plans; 7 accent/27 records; 148 semantics/433 records; 109 syntax/301 records; 36 source-policy decisions after PG555−1; 273 observations. One provenance correction/one proof addendum; no new census correction.
+
+Selected three-head ordinary feminine case fibres locally CLOSED; accent/corpus/critical/global gates Open.
+- Closed only the three genuinely absent word-level panels; PG634 vipadī/viṣṇupadī receive no duplicate credit.
+- supāt is retained but not expanded as if it were a supadī case form.
+- K139 six, extended139 three, remaining128, antevāsi and C2–C5/S1–S7/native/global obligations remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
 ## PG612 · Reciprocal ic, named actions and deleted-affix visibility
 
 Previous publication: 74a9f1dd164103ebe70aa7f5cb007ddd4ce18bc8; tree cc9af57d4839ce4ecaa6cb44209a01aeb71528db. Necessary check: Python 3.12.14, 70 assertions, 1 attempt(s).

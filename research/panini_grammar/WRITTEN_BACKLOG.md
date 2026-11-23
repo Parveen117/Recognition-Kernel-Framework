@@ -1,6 +1,6 @@
-# Written-development backlog at PG649
+# Written-development backlog at PG650
 
-Monty · 2026-11-24 · reviewed current parent de2a9a053c977bc55edc294bfc969d5bbc31da49; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 9f3638b4d0a7294490185f9db0853f2c49e8319c; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1808,3 +1808,13 @@ Selected short gopadī full ordinary feminine case fibre locally CLOSED; long-ro
 - Closed the selected short gopadī ordinary feminine-ī 24-key fibre with 23 new positions/readings after the PG648 ACCsg control; no old source/morphology/meaning credit repeated.
 - PG648 long gopādīm remains accepted only in its sourced ACCsg slot. A long-stem full paradigm, accent/recitation and independent corpus support remain Open, not inferred.
 - K139 lexical remaining six and extended139 three remain, alongside antevāsi neuter/full-paradigm, remaining128, C2–C5/S1–S7/native/global obligations. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+### PG650 · Three closed padī heads complete feminine case fibres
+
+PG650: [Three closed padī heads complete feminine case fibres](three_closed_padi_heads_complete_feminine_case_fibres/README.md). Literal 24-key word panels were absent despite generic carrier prose. dāsīpadī, sūkarapadī and supadī now contribute 69 new nominal positions/readings after three NOMsg controls. supāt remains accepted under its distinct Haim history and is not propagated into the supadī fibre. Census 51,819 finite; 7,567 nominal/8,803 readings.
+
+Selected three-head ordinary feminine case fibres locally CLOSED; accent/corpus/critical/global gates Open.
+
+- Closed only the three genuinely absent word-level panels; PG634 vipadī/viṣṇupadī panels receive no duplicate credit.
+- K139 lexical remaining six and extended139 three remain genuine Open source targets. No missing meaning became an exclusion.
+- Antevāsi neuter/full-paradigm, remaining128, C2–C5/S1–S7/native/global obligations stay Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
