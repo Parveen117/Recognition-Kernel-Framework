@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG537
+# Pāṇini grammar · current written coverage at PG538
+
+PG538 constructs [named-compound kan marker and initial accent](named_compound_kan_marker_and_initial_accent/README.md):1morphology construction3stem interfaces+1accent construction3records;0new finite/nominal/source units. Primary5879wholecompoundbeforeactualkan;silentnITretains6.1.197whole-first-vowelaccent,notgeneric suffixa. Innernava/recitation/casesOpen. Totalsunchanged51,819finite;6,218nominal/7,204readings;global gates Open.
 
 PG537 constructs [half-compound before ka and owned feminine cases](half_compound_before_ka_and_owned_feminine_cases/README.md):1compound contract2stem interfaces;46new nominal positions/readings,0finite/source increments. Equalhalf/onewhole andrightFīretainedbeforeka-shortening;newṭāpāseparate. TwoFfamilies48keys/readingsminus2oldcontrols. Totals51,819finite;6,218nominal/7,204readings;global gates Open.
 

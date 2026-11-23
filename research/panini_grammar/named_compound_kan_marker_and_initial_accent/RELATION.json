@@ -1,0 +1,138 @@
+{
+  "stage": "PG538",
+  "paths": [
+    {
+      "id": "NAVAGRAMA",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "inner_nava_analysis": "Open below source-supplied compound boundary",
+      "input_compound": "navagrāma",
+      "head_relation": "uttarapadārthapradhāna",
+      "semantic_conditions": [
+        "source-qualifiedcompatiblekutsita5.3.74",
+        "wholekan-derivedexpressiondenotesnamedentity5.3.75"
+      ],
+      "actual_affix": "kan",
+      "marker": "n_IT_final",
+      "sounded_affix": "ka",
+      "trace": [
+        "wholecompoundbeforekanunderprimary5879",
+        "1.3.3/9suffixnITinactive,initialksounded1.3.8taddhitaexception",
+        "6.1.197nitwholefirstvoweludāttaoverrides3.1.3suffix-initialdefault"
+      ],
+      "stem": "navagrāmaka",
+      "accent_readout": "návagrāmaka",
+      "accent_index": "whole first vowel a; suffix a not accented by generic default on this nit path",
+      "source_word_control": "navagrāmakam",
+      "position_credit": 0
+    },
+    {
+      "id": "NAVARASTRA",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "inner_nava_analysis": "Open below source-supplied compound boundary",
+      "input_compound": "navarāṣṭra",
+      "head_relation": "uttarapadārthapradhāna",
+      "semantic_conditions": [
+        "source-qualifiedcompatiblekutsita5.3.74",
+        "wholekan-derivedexpressiondenotesnamedentity5.3.75"
+      ],
+      "actual_affix": "kan",
+      "marker": "n_IT_final",
+      "sounded_affix": "ka",
+      "trace": [
+        "wholecompoundbeforekanunderprimary5879",
+        "1.3.3/9suffixnITinactive,initialksounded1.3.8taddhitaexception",
+        "6.1.197nitwholefirstvoweludāttaoverrides3.1.3suffix-initialdefault"
+      ],
+      "stem": "navarāṣṭraka",
+      "accent_readout": "návarāṣṭraka",
+      "accent_index": "whole first vowel a; suffix a not accented by generic default on this nit path",
+      "source_word_control": "navarāṣṭrakam",
+      "position_credit": 0
+    },
+    {
+      "id": "NAVANAGARA",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "inner_nava_analysis": "Open below source-supplied compound boundary",
+      "input_compound": "navanagara",
+      "head_relation": "uttarapadārthapradhāna",
+      "semantic_conditions": [
+        "source-qualifiedcompatiblekutsita5.3.74",
+        "wholekan-derivedexpressiondenotesnamedentity5.3.75"
+      ],
+      "actual_affix": "kan",
+      "marker": "n_IT_final",
+      "sounded_affix": "ka",
+      "trace": [
+        "wholecompoundbeforekanunderprimary5879",
+        "1.3.3/9suffixnITinactive,initialksounded1.3.8taddhitaexception",
+        "6.1.197nitwholefirstvoweludāttaoverrides3.1.3suffix-initialdefault"
+      ],
+      "stem": "navanagaraka",
+      "accent_readout": "návanagaraka",
+      "accent_index": "whole first vowel a; suffix a not accented by generic default on this nit path",
+      "source_word_control": "navanagarakam",
+      "position_credit": 0
+    }
+  ],
+  "controls": [
+    {
+      "id": "PLAIN_KA_AND_KAN_SAME_VISIBLE_PAYLOAD",
+      "status": "Accepted_surface_control",
+      "effect": "unaccentedsoundingkaequal,marker/svara/queryhistorydifferent"
+    },
+    {
+      "id": "N_IT_EQUALS_NN_IT_VRDDHI",
+      "status": "Excluded_marker_identity_error"
+    },
+    {
+      "id": "DELETE_N_IT_THEN_FORGET_NIT_ACCENT",
+      "status": "Excluded_history_loss"
+    },
+    {
+      "id": "SUFFIX_INITIAL_ACCENT_ON_SELECTED_NIT_PATH",
+      "status": "Excluded_overridden_default"
+    },
+    {
+      "id": "ANY_NAME_WITHOUT_KUTSITA",
+      "status": "Open_no_supplied_semantic_entitlement"
+    },
+    {
+      "id": "PRIMARY_NAVA_MEANS_NEW_OR_NINE",
+      "status": "Open_no_independentinnerlexicaldecision"
+    },
+    {
+      "id": "COMPOUND_ALTERNATIVE_WITH_NAMED_MEMBER_ONLY",
+      "status": "Open_not_this_wholeownership_contract"
+    },
+    {
+      "id": "ACTUAL_RECITATION_PRINTED_ACCENT_ATTESTATION",
+      "status": "Open_constructedruleaccentnotindependentrecitation"
+    },
+    {
+      "id": "OUTER_GENDER_CASE_PANELS",
+      "status": "Open_unconstructed_for_these_profiles"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 3,
+    "new_accent_constructions": 1,
+    "new_accent_readouts": 3,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0
+  },
+  "source_boundary": "Threeprimarym-endingexamplesoldcontrols;newoutputsstem+ruleaccentinterfaces,notnewcasepositionsorindependentlyobservedaccentedwholewordquotes",
+  "native_query": "suffixmarkerremainsqueryableafterlopa;wholefirst-vowelpositionandgenericaffix-first-vowelpositiondifferentownedindices"
+}
