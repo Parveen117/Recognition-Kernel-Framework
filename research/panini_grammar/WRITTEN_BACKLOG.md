@@ -1,6 +1,6 @@
-# Written-development backlog at PG583
+# Written-development backlog at PG584
 
-Monty · 23 November 2026 · reviewed current parent 594baac7010b3f0a17800ccb59c6df9d9471718c; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 09da566d00cf4109b12e0a8d5121acc6675aa51b; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1186,3 +1186,10 @@ Selected56–60interfaces locally CLOSED. Ḍāc priorrepetition/firstjunction/f
 PG583 extends [source-owned ḍāc action domains](dac_semantic_extensions_with_source_target_policies/README.md): ten additional avyaya interfaces through PG582’s unchanged formation adapter; seven meaning contracts/13 source frames and four source observations. Zero new morphology constructors,word/accent/policy credits. Pomegranate target,transaction accounts and named bhadra extension positive; critical/conditional/global gates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 
 Selected61–67interfaces locallyCLOSED. Critical61targets/vyathana-vyadhana,67conditionalarthagrahaṇa synonyms remainOpen,not exclusions. Actual68onward and earliercitation-i/inner/accent/C2–C5/S1–S7/member/source/native/globalgates genuinelyremain;Claudeexecutionseparate.
+
+
+### PG584 · Compound member/class guards before suffix selection
+
+PG584 constructs [samāsānta membership, scope guards and apatha branches](samasanta_membership_scope_guards_and_apatha_branches/README.md): one compound constructor/five class projections, one guard contract/14 requests, one optional-path formation contract/two source-case interfaces and three source observations. Zero word/accent/new-policy credits. Meaning,class,endpoint,source-order,optional affix and gender owners retained; critical/global gates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
+
+Selected68–72locallyCLOSED. 68source-orderpolicies remain distinct;Nyāsa70scopepositivebutprintedwordrecipesOpen;72sourceheading/differentvigraha andcompletepathin/accentworkOpen. Actual73onward andpriorcitation-i/inner/lexical/C2–C5/S1–S7/source/native/globalwork remains;Claudeexecutionseparate.

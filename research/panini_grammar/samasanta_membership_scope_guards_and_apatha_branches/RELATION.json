@@ -1,0 +1,262 @@
+{
+  "stage": "PG584",
+  "compound_frames": [
+    {
+      "id": "AVYAYĪBHĀVA",
+      "input": "admitted_uparājan_ṭac_plan",
+      "class_after": "avyayībhāva",
+      "source_interface": "uparājam",
+      "consumer": "24083am_interface"
+    },
+    {
+      "id": "DVIGU",
+      "input": "admitted_dvi_pur_a_plan",
+      "class_after": "dvigu",
+      "source_interface": "dvipurī",
+      "consumer": "41021ṅīp"
+    },
+    {
+      "id": "DVANDVA",
+      "input": "admitted_kośa_niṣad_ṭac_plan",
+      "class_after": "dvandva",
+      "source_interface": "kośaniṣadinī",
+      "consumer": "52128ini"
+    },
+    {
+      "id": "TATPURUṢA",
+      "input": "admitted_vi_dhur_a_plan",
+      "class_after": "tatpuruṣa",
+      "source_interface": "vidhura",
+      "consumer": "62002accent_context_not_newaccentcredit"
+    },
+    {
+      "id": "BAHUVRĪHI",
+      "input": "admitted_uccais_dhur_a_plan",
+      "class_after": "bahuvrīhi",
+      "source_interface": "uccairdhura",
+      "consumer": "62001accent_context_not_newaccentcredit"
+    }
+  ],
+  "guard_frames": [
+    {
+      "id": "SU_PRAISE",
+      "first_member": "su",
+      "meaning": "praise",
+      "compound_class": "tatpuruṣa",
+      "prospective_affix_domain": "before54113",
+      "result": "Block",
+      "source": "69specifiedsu/ati"
+    },
+    {
+      "id": "ATI_PRAISE",
+      "first_member": "ati",
+      "meaning": "praise",
+      "compound_class": "tatpuruṣa",
+      "prospective_affix_domain": "before54113",
+      "result": "Block",
+      "source": "69specifiedsu/ati"
+    },
+    {
+      "id": "PARAMA_PRAISE",
+      "first_member": "parama",
+      "meaning": "praise",
+      "compound_class": "tatpuruṣa",
+      "prospective_affix_domain": "before54113",
+      "result": "Pass_to_actual_suffix_rule",
+      "source": "69notallpraisewords"
+    },
+    {
+      "id": "ATI_EXCEED",
+      "first_member": "ati",
+      "meaning": "exceeding_not_praise",
+      "compound_class": "tatpuruṣa",
+      "prospective_affix_domain": "before54113",
+      "result": "Pass_to_actual_suffix_rule",
+      "source": "Bāla69at igava"
+    },
+    {
+      "id": "SU_LIMB_BV",
+      "first_member": "su",
+      "meaning": "praise",
+      "compound_class": "bahuvrīhi",
+      "prospective_affix_domain": "54113ṣac",
+      "result": "Pass_to_actual_suffix_rule",
+      "source": "69endpoint"
+    },
+    {
+      "id": "ATI_LIMB_BV",
+      "first_member": "ati",
+      "meaning": "praise",
+      "compound_class": "bahuvrīhi",
+      "prospective_affix_domain": "54113ṣac",
+      "result": "Pass_to_actual_suffix_rule",
+      "source": "69endpoint"
+    },
+    {
+      "id": "KIM_CENSURE_TP",
+      "first_member": "kim",
+      "meaning": "censure",
+      "compound_class": "tatpuruṣa",
+      "prospective_affix_domain": "54091ṭac",
+      "result": "Block",
+      "source": "70"
+    },
+    {
+      "id": "KIM_QUESTION",
+      "first_member": "kim",
+      "meaning": "question",
+      "compound_class": "tatpuruṣa",
+      "prospective_affix_domain": "54091ṭac",
+      "result": "Pass_to_actual_suffix_rule",
+      "source": "70notcensure"
+    },
+    {
+      "id": "KIM_CENSURE_BV",
+      "first_member": "kim",
+      "meaning": "censure",
+      "compound_class": "bahuvrīhi",
+      "prospective_affix_domain": "source_Nyāsa70scope",
+      "result": "Block_under_named_Nyāsa_policy",
+      "source": "explicitNyāsa70notuniversallexicalrecipe"
+    },
+    {
+      "id": "NAÑ_TP",
+      "first_member": "nañ",
+      "meaning": "negative",
+      "compound_class": "tatpuruṣa",
+      "prospective_affix_domain": "rājan_sakhi_go",
+      "result": "Block",
+      "source": "71"
+    },
+    {
+      "id": "NAÑ_ṚC_BV",
+      "first_member": "nañ",
+      "meaning": "negative",
+      "compound_class": "bahuvrīhi",
+      "prospective_affix_domain": "54074a",
+      "result": "Pass_to_actual_suffix_rule",
+      "source": "71actualcompoundclass"
+    },
+    {
+      "id": "NAÑ_DHUR_BV",
+      "first_member": "nañ",
+      "meaning": "negative",
+      "compound_class": "bahuvrīhi",
+      "prospective_affix_domain": "54074a",
+      "result": "Pass_to_actual_suffix_rule",
+      "source": "71actualcompoundclass"
+    },
+    {
+      "id": "NAÑ_PATHIN_TP",
+      "first_member": "nañ",
+      "meaning": "negative",
+      "compound_class": "tatpuruṣa",
+      "prospective_affix_domain": "54074a",
+      "result": "Optional_Block_or_Pass",
+      "source": "72overrides71absoluteblock"
+    },
+    {
+      "id": "NAÑ_PATHIN_BV",
+      "first_member": "nañ",
+      "meaning": "absence_of_path",
+      "compound_class": "bahuvrīhi",
+      "prospective_affix_domain": "54074a",
+      "result": "Pass_to_actual_suffix_rule",
+      "source": "Bāla72notTP_no72optionalblock"
+    }
+  ],
+  "frames": [
+    {
+      "id": "APATHA_WITH_A",
+      "input": "nañ_plus_pathin_tatpuruṣa",
+      "suffix": "a_54074",
+      "route": "72passbranch;14018bha;64144finalin_ṭi_lopa;add_a;24030neuter",
+      "readout": "apatham",
+      "gender": "n",
+      "case_context": "source_NOM_ACC_sg_display",
+      "source_policy": "K72_K24030",
+      "position_credit": 0
+    },
+    {
+      "id": "APANTHĀ_WITHOUT_A",
+      "input": "nañ_plus_pathin_tatpuruṣa",
+      "suffix": null,
+      "route": "72blockbranch;retain_pathin_innerinflection_history",
+      "readout": "apanthāḥ",
+      "gender": "m",
+      "case_context": "source_NOM_sg_display",
+      "source_policy": "K72;fullpathinconsumer_supplied_not_rederived",
+      "position_credit": 0
+    }
+  ],
+  "controls": [
+    {
+      "id": "suffix_external_detached_from_compoundclass",
+      "status": "Excluded68membernode"
+    },
+    {
+      "id": "allpraisewords_ban_samāsānta",
+      "status": "Excluded69su_ati_meaning_and_endpoint"
+    },
+    {
+      "id": "allkimcompounds_are_censure",
+      "status": "Excluded70actualsense"
+    },
+    {
+      "id": "allnañcompounds_are_tatpuruṣa",
+      "status": "Excluded71actualclass"
+    },
+    {
+      "id": "72option_applies_bahuvrīhi_pathin",
+      "status": "Excluded_inherited_tatpuruṣa_guard"
+    },
+    {
+      "id": "noaffix_means_neuter_always",
+      "status": "Excluded_apatham_vs_apanthāḥ_branches"
+    },
+    {
+      "id": "Nyāsa_Bāla68one_identical_executionchronology",
+      "status": "Open_distinctacceptedreported_orderpolicies"
+    },
+    {
+      "id": "Nyāsa70kindhura_nirdhara_fullwordrecipe",
+      "status": "Open_printedforms_scope_evidence_not_inventedderivation"
+    },
+    {
+      "id": "Bāla72apathim_is_newaccepted_word",
+      "status": "Open_rawheading_not_repaired"
+    },
+    {
+      "id": "Tattva72avyayībhāva_equals_K72nañTP",
+      "status": "Open_different_vigraha_contexts"
+    },
+    {
+      "id": "whole_class_examples_inflections_accents",
+      "status": "Open_suppliedpositiveinterfaces_not5newfullparadigms"
+    },
+    {
+      "id": "whole_source_native_global",
+      "status": "Open"
+    }
+  ],
+  "source_observation_units": [
+    "paired_Nyāsa_Bāla68precompound_vs_simultaneous_order_accounts",
+    "Nyāsa70explicit_censure_bahuvrīhi_scope_distinct_from69endpoint",
+    "paired_Bāla_Tattva72rawheading_and_vigraha_contexts_compared_K24030"
+  ],
+  "counts": {
+    "new_compound_constructions": 1,
+    "new_compound_readouts": 5,
+    "new_syntactic_constructions": 1,
+    "new_syntactic_readouts": 14,
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 2,
+    "new_source_observations": 3,
+    "new_source_policy_decisions": 0,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  },
+  "unit_boundary": "onecompoundmembershipconstructor5typedclassprojections;oneguardcontract14ownedrequests;oneoptionalpathaformationcontract2source-caseinterfaces. Not5+14+2wordpositions;0newword/accent/policycredits."
+}

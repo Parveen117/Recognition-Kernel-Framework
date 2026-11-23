@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG583
+# Pāṇini grammar · current written coverage at PG584
+
+PG584 constructs [samāsānta membership, scope guards and apatha branches](samasanta_membership_scope_guards_and_apatha_branches/README.md): one compound constructor/five class projections, one guard contract/14 requests, one optional-path formation contract/two source-case interfaces and three source observations. Zero word/accent/new-policy credits. Meaning,class,endpoint,source-order,optional affix and gender owners retained; critical/global gates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 
 PG583 extends [source-owned ḍāc action domains](dac_semantic_extensions_with_source_target_policies/README.md): ten additional avyaya interfaces through PG582’s unchanged formation adapter; seven meaning contracts/13 source frames and four source observations. Zero new morphology constructors,word/accent/policy credits. Pomegranate target,transaction accounts and named bhadra extension positive; critical/conditional/global gates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 
