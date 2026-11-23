@@ -885,3 +885,10 @@ Selected5880twotreeMdualfamiliesCLOSEDonly;notuniversalcollective/number/kadāci
 PG540 constructs [unknown-feature/censure cross-compassion and shared cases](unknown_feature_censure_cross_compassion_and_shared_cases/README.md):1morphology construction3stems+1semantic contract4readouts+1primary-entry observation;23new nominal positions24readings,0finite. Twohorse-meaninghistoriesshareoneMfamily,notdoublecredit. Cross-purpose/renewed-wholepoliciesandreferentgender/numberexplicit. Totals51,819finite;6,255nominal/7,242readings;global gates Open.
 
 OnlyaśvakaMfamilyandfourqualifiedsemanticframeslocallyclosed.Fullinnerkutsita/anukampita,othergenders/cases/printedsourceandrenewed-speechactgeneralityOpen;notpronominalauto-decorationorunknown-wordrepair.Next5.3.77indirectcompassionanddhānāgender/itvapolicyafteroldregisterreview.C2-C5/S1-S7/Claude/nativeunchanged.
+
+
+### PG541 · Indirect means and correlated F-vowel/M-report alternatives
+
+PG541 constructs [indirect-compassion dhānā gender and owned vowel choices](indirect_compassion_dhana_gender_and_owned_vowel_choices/README.md):1morphology construction4stems+1semanticmeanscontract/readout;14new nominal positions29readings,0finite/source. F8keys/3correlatedvowels+reportedM8keys=16keys32readingsminus3controls;oldpreka/newṭāpownersdistinct. Totals51,819finite;6,269nominal/7,271readings;global gates Open.
+
+Onlyselectedindirectmeansandplural16key32readingfamilyclosed.BālaFoption/TattvaFdefault-HaradattaMreportreconciliationandoriginalHaradatta/printOpen.K/SK7.3.49teacherāpositivewrittenextension,independentdhānākāattestationOpen;notexcludedtohidegap.Nextactualā+i/adfinitecommandswithpreverb/endingownersafteroldregisterreview.C2-C5/S1-S7/Claude/nativeunchanged.
