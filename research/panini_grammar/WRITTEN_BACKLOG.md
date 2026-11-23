@@ -1,6 +1,6 @@
-# Written-development backlog at PG627
+# Written-development backlog at PG628
 
-Monty · 2026-11-24 · reviewed current parent 4a2017cda859754e53799108bda41a331c2de39b; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent dc0008ed24c7b8b6e7287a46124cb0e74d064185; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1568,3 +1568,14 @@ Final three151 selected adapters locally CLOSED;139/128 and full written gates O
 - Closed final three151 entries for supplied inner SG/DU/PL source frames; all currently enumerated151 entries have selected adapters. Full paradigms/lexicon are not implied.
 - Necessary additive7.4.14 retention guard completes earlier PG624/626 vowel proofs; exact frozen bytes and every census/policy counter unchanged. Puṃs nasal alternatives retained; all full strong-case/accent products remain Open.
 - Next actual13918-entry and12813-entry registers/two bāhu senses/prohyapadi;142 patra and older unresolved source/critical/C2–C5/S1–S7/native/global work. Wider written gates remain Open; Claude execution distinct.
+
+
+### PG628 · Nine kumbhapadī lexical domains from Vācaspatyam
+
+PG628: [Nine kumbhapadī lexical domains from Vācaspatyam](nine_kumbhapadi_lexical_domains_from_vacaspatyam/README.md). One formation adapter/nine interfaces; one compound contract/11 plans; three meaning contracts/11 records; three scope contracts/seven records; nine primary VCP observations. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+Nine actual139 lexical traces locally CLOSED; nine remaining entries/source-affix and full written gates Open.
+
+- Closed nine PG618-listed139 lexical traces on actual VCP meanings and selectedK139ṅīp. Source affix-label reconciliation remains independently Open; no new alternate-affix policy credit.
+- Genuine139 remaining: mālāpadī, munipadī, gopadī, dāsīpadī, kuṇapadī, śakṛtpadī, sūpapadī, arvapadī, stanapadī. Independent quoted passages, raw VCP NIp/NIz/qIz priority/critical interpretation and all case/accent products remain Open.
+- Next remaining139 then128 exact13 entries/two bāhu senses/prohyapadi;142 patra and older textual/lexical/C2–C5/S1–S7/native/global obligations. Wider written gates Open; Claude execution distinct.
