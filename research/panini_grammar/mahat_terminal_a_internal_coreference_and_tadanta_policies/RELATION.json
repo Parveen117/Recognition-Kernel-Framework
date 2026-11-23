@@ -1,0 +1,102 @@
+{
+  "stage": "PG505",
+  "input_scope": "source-qualified nominal compounds/actual jātīyar frames;inner compounds/nominals already licensed,no new verbal root-ID/sense/pada/preverb",
+  "paths": [
+    {
+      "id": "COREF_KARMADHARAYA",
+      "input_type": "SuppliedLiteralMahatDevaCompound",
+      "junction": "mahat|deva",
+      "relation": "mahat and deva corefer internally;supplied licensed compound",
+      "action": "final first-member t→ā;maha+ā coalescence6.1.101",
+      "stem": "mahādeva",
+      "policy": "K_SK_BASIC"
+    },
+    {
+      "id": "INTERNAL_BAHUVRIHI",
+      "input_type": "SuppliedLiteralMahatBahuBahuvrihi",
+      "junction": "mahat|bāhu",
+      "relation": "mahat and bāhu denote the same internal arms;external bearer distinct",
+      "action": "final first-member t→ā;maha+ā coalescence",
+      "stem": "mahābāhu",
+      "policy": "K_SK_BASIC"
+    },
+    {
+      "id": "ACTUAL_JATIYAR",
+      "input_type": "SuppliedMahatPrakaravatJatiyar",
+      "junction": "mahat+jātīyar",
+      "relation": "actual5.3.69 prakāravat suffix,not a nominal uttarapada condition",
+      "action": "retain actual suffix identity after r_IT loss;mahat finalt→ā;coalesce",
+      "stem": "mahājātīya",
+      "policy": "K_SK_BASIC"
+    },
+    {
+      "id": "GENITIVE_CONTROL",
+      "input_type": "SuppliedMahatGenitivePutraCompound",
+      "junction": "mahat|putra",
+      "relation": "mahat genitive dependent,not coreferential with son",
+      "action": "block6.3.46 ā edge;source-qualified retention/char continuation",
+      "stem": "mahatputra",
+      "policy": "K_SK_BASIC"
+    },
+    {
+      "id": "GAUNA_CVI_CONTROL",
+      "input_type": "SuppliedGaunaMahatCviBhutaCompound",
+      "junction": "mahat|bhūta",
+      "relation": "source change-of-state cvi/gati frame,even though coreference holds",
+      "action": "block ā under named gauṇa policy;8.4.53 t→d before voiced bh",
+      "stem": "mahadbhūta",
+      "policy": "K_NYASA_GAUNA"
+    },
+    {
+      "id": "EXTENDED_FIRST_MEMBER",
+      "input_type": "SuppliedAtiMahatBahuFirstMemberFrame",
+      "junction": "[ati|mahat]|bāhu",
+      "relation": "supplied mahat-ending first member/internal arm coreference",
+      "action": "Tattva first-member tadanta permits addressing finalt within atimahat;coalesce",
+      "stem": "atimahābāhu",
+      "policy": "TATTVA_EXTENSION"
+    }
+  ],
+  "policy_channels": {
+    "K_SK_BASIC": "ordinary internal coreference or actual jātīyar;GEN source control retained",
+    "K_NYASA_GAUNA": "named cvi change-of-state example blocks ā despite apparent coreference",
+    "TATTVA_EXTENSION": "mahat-ending first member allowed;atimahābāhu",
+    "VARDHAMANA_REPORTED": "reported opposing general tadanta restriction kept distinct;its wider actual derivation products remain Open,not silently selected or erased"
+  },
+  "controls": [
+    {
+      "id": "REPLACE_ALL_MAHAT_BY_A",
+      "status": "Excluded_target_owner_error"
+    },
+    {
+      "id": "COMPOUND_HEAD_MUST_COREFER",
+      "status": "Excluded_guard_error"
+    },
+    {
+      "id": "UTTARAPADA_GATE_ON_ACTUAL_SUFFIX",
+      "status": "Excluded_type_error"
+    },
+    {
+      "id": "ALL_UTTARAPADA_TADANTA_BANNED",
+      "status": "Excluded_as_Tattva_selected_policy",
+      "reported_alternative": "retained_without_original_adjudication"
+    },
+    {
+      "id": "UNKNOWN_COREFERENCE_OR_GAUNA",
+      "status": "Open"
+    },
+    {
+      "id": "EXTENSIONS_GHASA_KARA_VISISTA_ASTAN",
+      "status": "Open_unconstructed_here"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 6,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0
+  }
+}

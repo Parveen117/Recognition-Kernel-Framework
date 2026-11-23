@@ -1,6 +1,6 @@
-# Written-development backlog at PG504
+# Written-development backlog at PG505
 
-Monty · 23 November 2026 · reviewed parent e81dd3d0349d0ae7a4be1a3ffe1ebe1ec931aad3.
+Monty · 23 November 2026 · reviewed parent ca6c5716869241fa2d7f6e78796253d9d57c0e8b.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -639,3 +639,9 @@ PG502 asamāsa meaning/prospective-compound condition now LOCATED and constructe
 PG504 completes [ahṛdaya bhāva tva N/tal Fcases](ahrdaya_bhava_tva_tal_owned_gender_and_cases/README.md):46new nominal positions/47readings,0finite/source/separate construction credits.48keys49readings withhold2old nominatives.PG503 prospective compound/aṇ guard retained;outer abstract genders,num/nuṭ/ṭāp and Nablative pause t/d owned.Totals51,819finite;5,179nominal/6,128readings;global gates Open.
 
 Only PG503 admitted ahṛdaya bhāva tvaN/talF48keys49readings CLOSED;earlier open-case pointers superseded on this domain.Unknown prospective intention/other compounds/affix priorities and teacher products stay Open,not excluded to close coverage.Primary-source/critical obligations S1-S7 and unmeasured C2-C5/native/Claude execution remain distinct.Next actual unconstructed domains include other compound-intent classes and independent initial-hṛd histories before wider lexical claims.S5fourfields99/103direct unchanged.
+
+## PG505 · Six selected mahat scope/sound frames
+
+PG505 constructs [mahat terminal ā/internal coreference/source policies](mahat_terminal_a_internal_coreference_and_tadanta_policies/README.md):1morphology/scope adapter/6controlled stem readouts,0finite/nominal/source additions.Terminal t→ā then coalescence;bahuvrīhi internal reference,actual jātīyar,GEN/gauṇa controls and Tattva atimahābāhu extension explicit.Reported competing Vardhamāna policy retained,no global tadanta ban.Totals51,819finite;5,179nominal/6,128readings;global gates Open.
+
+Selected six-frame adapter locally CLOSED;no old sourceword recredit.Next concrete unconstructed6.3.46contracts:ghāsa/kara/viśiṣṭa noncoreferential female-puṃvad/ā extensions and aṣṭan ritual/yoked contexts.Reported Vardhamāna policy/original Bhāṣya-Kaiyaṭa evidence and unknown semantics remain Open;do not conflate suffix-mention query with first-member-ending query.Other lexical/gender/case/teacher/accents,S1-S7/C2-C5/native and Claude execution remain separate.S5fourfields99/103direct unchanged.

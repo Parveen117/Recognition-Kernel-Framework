@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG504
+# Pāṇini grammar · current written coverage at PG505
+
+PG505 constructs [mahat terminal ā/internal coreference/source policies](mahat_terminal_a_internal_coreference_and_tadanta_policies/README.md):1morphology/scope adapter/6controlled stem readouts,0finite/nominal/source additions.Terminal t→ā then coalescence;bahuvrīhi internal reference,actual jātīyar,GEN/gauṇa controls and Tattva atimahābāhu extension explicit.Reported competing Vardhamāna policy retained,no global tadanta ban.Totals51,819finite;5,179nominal/6,128readings;global gates Open.
 
 PG504 completes [ahṛdaya bhāva tva N/tal Fcases](ahrdaya_bhava_tva_tal_owned_gender_and_cases/README.md):46new nominal positions/47readings,0finite/source/separate construction credits.48keys49readings withhold2old nominatives.PG503 prospective compound/aṇ guard retained;outer abstract genders,num/nuṭ/ṭāp and Nablative pause t/d owned.Totals51,819finite;5,179nominal/6,128readings;global gates Open.
 
