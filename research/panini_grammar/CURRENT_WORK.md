@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG585
+# Pāṇini grammar · current written coverage at PG586
+
+PG586 constructs [named ac extensions,river aggregates and ūrṇā shortening](named_ac_extensions_river_aggregates_and_urna_shortening/README.md): one named-extension adapter/13 stems, two compound contracts/five source plans, one meaning contract/three frames and two observations. Zero word/accent/policy credits. Actual river counts/classes and first-āp versus right-i/ī owners retained; K/Bāla policies and remaining74/inner/globalgates explicit. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 
 PG585 constructs [sāman/loman ac and non-organ akṣi](saman_loman_ac_and_nonorgan_aksi_source_accounts/README.md): two formation adapters/ten compound-stem interfaces, one compound contract/three plans, one meaning contract/five frames and three source observations. Zero word/accent/policy credits. Actual an/i-lopa and mandatory gavākṣa avaṅ,compound/go-sense histories retained; remaining74/75/source/globalgates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 

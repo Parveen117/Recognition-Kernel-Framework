@@ -1,6 +1,6 @@
-# Written-development backlog at PG585
+# Written-development backlog at PG586
 
-Monty · 23 November 2026 · reviewed current parent 573b88c6c7c9175ad55fe6bd6343e2cea68b5c56; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 8aaa770cb4edcd20ea4b8756ad8bb35ea79176bb; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1200,3 +1200,10 @@ Selected68–72locallyCLOSED. 68source-orderpolicies remain distinct;Nyāsa70sco
 PG585 constructs [sāman/loman ac and non-organ akṣi](saman_loman_ac_and_nonorgan_aksi_source_accounts/README.md): two formation adapters/ten compound-stem interfaces, one compound contract/three plans, one meaning contract/five frames and three source observations. Zero word/accent/policy credits. Actual an/i-lopa and mandatory gavākṣa avaṅ,compound/go-sense histories retained; remaining74/75/source/globalgates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 
 73nearcount/niṣtriṃśaand74dhur/ṛcCLOSEDwithactualPG513–515/517pins. 74pur/ap/pathinremainingdomains and75bhūmi/nadī/Godāvarī/nābhi/rātriextensions genuinelyunconstructed;BālapṛṣodaraversusKrule-splitpoliciesneedpositive source decisions. 76cow/raylexicalaccounts stayseparate;critical/citation-i/inner/gender/case/accent/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutionseparate.
+
+
+### PG586 · Named75extensions with positiveūrṇāquantity andriverclass
+
+PG586 constructs [named ac extensions,river aggregates and ūrṇā shortening](named_ac_extensions_river_aggregates_and_urna_shortening/README.md): one named-extension adapter/13 stems, two compound contracts/five source plans, one meaning contract/three frames and two observations. Zero word/accent/policy credits. Actual river counts/classes and first-āp versus right-i/ī owners retained; K/Bāla policies and remaining74/inner/globalgates explicit. Totals 51,819 finite; 6,408 nominal/7,631 readings.
+
+Selected13Kchannelinterfaces locallyCLOSED;ūrṇāshortquantityresolvedbyactualTattva75/63063. BālapṛṣodarafullinnerhistoryremainsOpen,nofabricatedacabsence. Daśabhūmakaouterrecipe,fullnābhi/rātriinner/gender/accentand74pur/ap/pathin genuinelyremain;earliercitation-i/critical/C2–C5/S1–S7/source/native/globalgatesOpen;Claudeexecutionseparate.
