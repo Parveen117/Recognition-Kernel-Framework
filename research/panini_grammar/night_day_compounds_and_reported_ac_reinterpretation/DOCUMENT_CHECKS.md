@@ -1,0 +1,7 @@
+# PG594 necessary changed-document/source/count checks
+
+PASS · Python 3.12.14,explicit3.12 assertion · 131assertions · two attempts (checker quoting corrected before assertions; source/proof unchanged).
+
+Exactrawbytes/blobs/fields/frozendependenciesincludingactualPG37B/PG38registerandPG448closedpanel;22uniquestems9rātri/8ahna/5aha,actualconditionalacversusṭacmarkers,wholeahnasubstitutionversus64134a-lopaunder64145,aggregate/originandlistlastpuṇya/kecitsourceguards. NewqualifiedreportedTattvapolicy1,directprimaryonlyanarthakyaboundary;K24018NpuṇyāhampositiveversusK90displaycriticalOpen. Additiveregisterattributioncorrection1nofrozenedits/censusdelta;actualunits/unchangedcensus/oldcorrection,typedPG14source/affixrecovery,newlinks/UTF8/mutationconfinement.
+
+No Sanskrit generator/grammar execution,untouched/navigation/engine suites or replay. Wider source/native/globalgatesOpen;Claudeexecutiondeferred.

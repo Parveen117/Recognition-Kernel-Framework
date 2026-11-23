@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG593
+# Pāṇini grammar · current written coverage at PG594
+
+PG594 constructs [night/day compounds and reported ac reinterpretation](night_day_compounds_and_reported_ac_reinterpretation/README.md): two recipes/22 stems,two compound contracts/22 plans,one scope/five frames,one meaning/four frames and three observations. One new qualified reported-ac policy;one additive historical-register attribution correction. Zero word/accent credits;PG448closure preserved. Totals 51,819 finite;6,454 nominal/7,679 readings;wider gates Open.
 
 PG593 constructs [relative vedi size,adhvan and aṅguli histories](vedi_relative_size_adhvan_and_anguli_affix_histories/README.md): three recipes/nine interfaces,three compound contracts/11 plans,one scope contract/three frames,two meaning contracts/four frames and two observations. Zero word/accent/policy credits. Oldṅīp/newāp,exceptionalṭi and deletedmātrac/reported-dvayasac/vertical guards retained;wider gates Open. Totals 51,819 finite;6,454 nominal/7,679 readings.
 
