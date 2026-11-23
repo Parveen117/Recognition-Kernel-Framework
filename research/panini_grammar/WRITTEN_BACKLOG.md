@@ -1,4 +1,4 @@
-# Written-development backlog at PG520
+# Written-development backlog at PG521
 
 Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
@@ -747,3 +747,9 @@ PG517/518 fullinnernañpointer superseded only on supplied licensed anṛc domai
 PG520 completes [textKEEP singular/dual cases with owned c/k/g views](rc_text_keep_singular_dual_and_owned_c_k_g_views/README.md):28new nominal positions/34readings,0finite/source/separate construction credits.32keys38readings minus4old kcontrols;4new greadings onoldkeys.Vowel c/bhyām g/pause k-g retain query-specific ownership;śīdual not śiplural.Pluralnum/length remainsOpen.Totals51,819finite;5,778nominal/6,743readings;global gates Open.
 
 PG517–519unsuffixedc pointer superseded only on sourceNtextKEEPsingular/dual32keys38readings.Fullplural remainsunconstructed:actualNśi/num/nasalassimilation/vowel-length order and oblique/pause words require source-grounded derivation.No whole-paradigm closure.Othernañexception/source-critical/schoolscope/dhur/S1-S7/C2-C5/native/fullteacher/accent and Claude obligations remainOpen.
+
+## PG521 · Selected textKEEP plural/fullcase family closed
+
+PG521 completes [textKEEP plural num/shortṛ and palatal parasavarṇa](rc_text_keep_plural_num_short_r_and_parasavarna/README.md):16new nominal positions/readings,0finite/source/separate construction credits.Num afterṛ/beforec retains nc-ending,not n-final/s-cluster lengthdomain;ṛshort,n→ṃ→ñ mandatory insideword.Oblique g/c/kṣ ending histories owned.With frozenPG520,selectedNtextKEEP48keys54readings CLOSED.Totals51,819finite;5,794nominal/6,759readings;global gates Open.
+
+PG520pluralnum/length/case pointer superseded on declared2NtextKEEPprofiles only;48keys54readings includes32frozenkeys0recredit.Wider learner-school/person/sourcecritical scope,nañ6.3.75retention/censure/akac/unknownlicences,originaldhurroot/pada/u-ū and S1-S7/C2-C5/native/fullteacher/accent remainOpen.Next actual source-owned contracts:6.3.75designatedretention versus productive6.3.73/74,including double-negative Nāsatya history and stipulated base treatments;review existing prose/factored/state before credits.Claude execution separate.

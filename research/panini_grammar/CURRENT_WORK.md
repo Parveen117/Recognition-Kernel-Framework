@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG520
+# Pāṇini grammar · current written coverage at PG521
+
+PG521 completes [textKEEP plural num/shortṛ and palatal parasavarṇa](rc_text_keep_plural_num_short_r_and_parasavarna/README.md):16new nominal positions/readings,0finite/source/separate construction credits.Num afterṛ/beforec retains nc-ending,not n-final/s-cluster lengthdomain;ṛshort,n→ṃ→ñ mandatory insideword.Oblique g/c/kṣ ending histories owned.With frozenPG520,selectedNtextKEEP48keys54readings CLOSED.Totals51,819finite;5,794nominal/6,759readings;global gates Open.
 
 PG520 completes [textKEEP singular/dual cases with owned c/k/g views](rc_text_keep_singular_dual_and_owned_c_k_g_views/README.md):28new nominal positions/34readings,0finite/source/separate construction credits.32keys38readings minus4old kcontrols;4new greadings onoldkeys.Vowel c/bhyām g/pause k-g retain query-specific ownership;śīdual not śiplural.Pluralnum/length remainsOpen.Totals51,819finite;5,778nominal/6,743readings;global gates Open.
 

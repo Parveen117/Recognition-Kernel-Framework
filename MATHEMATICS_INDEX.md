@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG521 completes [textKEEP plural num/shortṛ and palatal parasavarṇa](research/panini_grammar/rc_text_keep_plural_num_short_r_and_parasavarna/README.md):16new nominal positions/readings,0finite/source/separate construction credits.Num afterṛ/beforec retains nc-ending,not n-final/s-cluster lengthdomain;ṛshort,n→ṃ→ñ mandatory insideword.Oblique g/c/kṣ ending histories owned.With frozenPG520,selectedNtextKEEP48keys54readings CLOSED.Totals51,819finite;5,794nominal/6,759readings;global gates Open.
+
 PG520 completes [textKEEP singular/dual cases with owned c/k/g views](research/panini_grammar/rc_text_keep_singular_dual_and_owned_c_k_g_views/README.md):28new nominal positions/34readings,0finite/source/separate construction credits.32keys38readings minus4old kcontrols;4new greadings onoldkeys.Vowel c/bhyām g/pause k-g retain query-specific ownership;śīdual not śiplural.Pluralnum/length remainsOpen.Totals51,819finite;5,778nominal/6,743readings;global gates Open.
 
 PG519 constructs [inner nañ/ṛc right-owned nuṭ and primary boundary argument](research/panini_grammar/nanj_rc_right_owned_nut_and_primary_boundary_argument/README.md):1morphology adapter/5interfaces,1primary electronic Bhāṣya63074 entry observation;0finite/nominal additions.Oldnañ-n deleted,newn initial inrightmember;BālaṭIT/upronunciationaid distinguished.PG503consonantcontrol/ordinarynaidentity separate.Bālamicro-wordingcriticalcollationOpen.Totals51,819finite;5,750nominal/6,709readings;global gates Open.
