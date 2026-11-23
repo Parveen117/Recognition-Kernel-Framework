@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG562
+# Pāṇini grammar · current written coverage at PG563
+
+PG563 constructs [association-cha,nested aṇ/añ and gotra-yañ/vuñ bridge](association_cha_nested_an_anj_and_gotra_yanj_vunj_bridge/README.md):3composedmorphology adapters9stems;1accent adapter2records;1gotra semantic contract2records;1nested-number contract2frames;1primary53118observation;0word/newpolicycredits. Inner/outerplurality,olda/newa,source/resultgotraandold-y/vuñownersdistinct. Totals51,819finite;6,384nominal/7,583readings;PG555−1correctionretained/global gates Open.
 
 PG562 constructs [Vāhīka ñyaṭ feminine y-lopa and named Vṛka ṭeṇyaṇ owners](vahiika_nyat_feminine_y_lopa_and_vrka_tenyana_owners/README.md):2morphology adapters6M-Fstems;1place/sense contract3records;1coupledNyāsaobservation;0word increments. Pre-lopay-upadhā/oldbasea/suffixa/newī/soundedṇ/markersdistinct;115elsewhere-scopekept. Preciseexclusionmapping/othercasesOpen. Totals51,819finite;6,384nominal/7,583readings;PG555−1policycorrectionretained/global gates Open.
 

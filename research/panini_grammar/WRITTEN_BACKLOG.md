@@ -1,6 +1,6 @@
-# Written-development backlog at PG562
+# Written-development backlog at PG563
 
-Monty · 23 November 2026 · reviewed current parent af4be7858bcbeb8b267abf3ddd44c5f99b60591c; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 43871c3407fea5d0f3f119266386cd6d8da59922; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1039,3 +1039,10 @@ Selected112–113/119+MownedpluralbrancheslocallyCLOSED;generalNyāsadvandva/F/c
 PG562 constructs [Vāhīka ñyaṭ feminine y-lopa and named Vṛka ṭeṇyaṇ owners](vahiika_nyat_feminine_y_lopa_and_vrka_tenyana_owners/README.md):2morphology adapters6M-Fstems;1place/sense contract3records;1coupledNyāsaobservation;0word increments. Pre-lopay-upadhā/oldbasea/suffixa/newī/soundedṇ/markersdistinct;115elsewhere-scopekept. Preciseexclusionmapping/othercasesOpen. Totals51,819finite;6,384nominal/7,583readings;PG555−1policycorrectionretained/global gates Open.
 
 Kṣudraka/Mālava/VṛkaselectedM-FcontractsCLOSED;vārkeṇīrule-derivednotnewattestation. KŚālaṅkāyana-rājanyacontrollexicalmapping,othernames/cases/accentremainOpen. Nextactual116–118association/gotra;C2-C5/S1-S7/prior100/104/106scene/native/Claudeunchanged.
+
+
+### PG563 · Selected116–118nested association/gotra constructors
+
+PG563 constructs [association-cha,nested aṇ/añ and gotra-yañ/vuñ bridge](association_cha_nested_an_anj_and_gotra_yanj_vunj_bridge/README.md):3composedmorphology adapters9stems;1accent adapter2records;1gotra semantic contract2records;1nested-number contract2frames;1primary53118observation;0word/newpolicycredits. Inner/outerplurality,olda/newa,source/resultgotraandold-y/vuñownersdistinct. Totals51,819finite;6,384nominal/7,583readings;PG555−1correctionretained/global gates Open.
+
+Selected116cha/117pairedgaṇa/118gotra-yañandābhijitakavujconsumerlocallyCLOSED;unselectedmembers/aliases/innerorigins/F/case/accentremainOpen.Noinventory-wide5.3closure. Nextactual5.4.1–6afteroldregisterreview;C2-C5/S1-S7/prior100/104/106scene/native/Claudeunchanged.
