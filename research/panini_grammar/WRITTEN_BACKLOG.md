@@ -1,6 +1,6 @@
-# Written-development backlog at PG509
+# Written-development backlog at PG510
 
-Monty · 23 November 2026 · reviewed parent 15194716c3b6e045402385cc0021d4f7e08cfc1d.
+Monty · 23 November 2026 · reviewed parent 57be771f74831cabd91d7477d3205e370874d3fc.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -669,3 +669,9 @@ PG507 selected-case pointers superseded:ritual purōḍāśa-linked M24/cart śa
 PG509 constructs [numeral compound choices and eighty nonfactorability](numeral_compound_replacement_choices_and_eighty_nonfactorability/README.md):1morphology adapter/27membership frames/42replacement branches/44stem readouts,0finite/nominal/source additions.Lower tens mandatory,higher40/50/60/70/90optional,80excluded for all3members;ordinary aṣṭāśīti uses n-lopa/coalescence.Trayas retains sounded s;independent sound options at60/70 explicit.Totals51,819finite;5,234nominal/6,187readings;global gates Open.
 
 PG5086.3.47–49adapter pointer superseded only on supplied27 additive membership frames,not full compound/arithmetic/case/Vedic families.Sourcecase examples0recredit.Two optionality owners,all3exclusions and80ordinary coalescence retained.Genuine next unconstructed:source-positive dvitra/dvidaśa/tridaśa bahuvrīhi ḍac/suj-artha composition,independent missing-member licence,external numeral gender/cases with right-member ownership,other numeral rules/fullteacherrecitation.Inherited source/critical/policy/S1-S7/C2-C5/native/Claude obligations remain Open,S5fourfields99/103direct.
+
+## PG510 · Primary number policies and positive bahuvrīhi ḍac
+
+PG510 constructs [dvitra/dvidaśa/tridaśa ḍac and primary number policies](dvitra_dvidasa_tridasa_dac_and_primary_number_policies/README.md):1morphology unit/3stems,1semantic contract/5policy records,1primary electronic Bhāṣya22025 observation;0finite/nominal credits.Uncertainty/five-grounded speech/Nyāsa literal-five kept distinct;no actual suC in compound.Ḍac a follows owned ṭi i/an deletion.PG509 daśa-display label corrected additively,underlying daśan retained.Totals51,819finite;5,234nominal/6,187readings;global gates Open.
+
+PG509 positive bahuvrīhi pointer superseded only for these source-qualified3stem/5policy frames.Primary22025 locator CLOSED locally,not printed/critical consensus with Nyāsa literal-five.External plural gender/cases still unconstructed;other counts/compounds/nearby/tatpuruṣa/abstract/teacher/accent products and unknown chosen policy remain Open.Additive correction preserves PG509 n-final daśan underlying records,visible words/counters frozen.S1-S7/C2-C5/native/Claude obligations separate,S5fourfields99/103direct.

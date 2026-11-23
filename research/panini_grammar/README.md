@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG510 constructs [dvitra/dvidaśa/tridaśa ḍac and primary number policies](dvitra_dvidasa_tridasa_dac_and_primary_number_policies/README.md):1morphology unit/3stems,1semantic contract/5policy records,1primary electronic Bhāṣya22025 observation;0finite/nominal credits.Uncertainty/five-grounded speech/Nyāsa literal-five kept distinct;no actual suC in compound.Ḍac a follows owned ṭi i/an deletion.PG509 daśa-display label corrected additively,underlying daśan retained.Totals51,819finite;5,234nominal/6,187readings;global gates Open.
+
 PG509 constructs [numeral compound choices and eighty nonfactorability](numeral_compound_replacement_choices_and_eighty_nonfactorability/README.md):1morphology adapter/27membership frames/42replacement branches/44stem readouts,0finite/nominal/source additions.Lower tens mandatory,higher40/50/60/70/90optional,80excluded for all3members;ordinary aṣṭāśīti uses n-lopa/coalescence.Trayas retains sounded s;independent sound options at60/70 explicit.Totals51,819finite;5,234nominal/6,187readings;global gates Open.
 
 PG508 completes [aṣṭan offering/cart cases and two singular aggregate panels](astan_offering_cart_and_single_aggregate_cases/README.md):55new nominal positions/59readings,0finite/source/separate construction credits.64keys68readings minus9old/conservative controls;offering M24,cart N24,two aggregates N8each.Dental n blocked from initial ṣ by ṭ;four abl.sg pause doublets.Two cart mechanisms retain one word ledger.Totals51,819finite;5,234nominal/6,187readings;global gates Open.

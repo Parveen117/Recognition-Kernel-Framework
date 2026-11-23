@@ -1,0 +1,188 @@
+{
+  "stage": "PG510",
+  "semantic_policies": [
+    {
+      "id": "BHASYA_UNDETERMINED",
+      "form": "dvitra",
+      "policy": "primary kecit",
+      "meaning": "unknown actual2or3 counted entities;plural while unresolved",
+      "actual_count": "2or3 unresolved",
+      "number": "pl",
+      "source": "bhashya22025 अनिर्ज्ञातेर्थे बहुवचनं"
+    },
+    {
+      "id": "BHASYA_FIVE_GROUNDED_SPEECH",
+      "form": "dvitra",
+      "policy": "primary apara",
+      "meaning": "mention of2evokes3and viceversa;five-grounded utterance supports plural",
+      "actual_count": "not asserted to be5actual entities",
+      "number": "pl",
+      "source": "bhashya22025 सैषा पञ्ञ्चाधिष्ठाना वाक्"
+    },
+    {
+      "id": "NYASA_LITERAL_FIVE_REPORT",
+      "form": "dvitra",
+      "policy": "Nyāsa alternative only",
+      "meaning": "retains literal five-always explanation separately",
+      "actual_count": "5under this reported explanation,not universal dvitra semantics",
+      "number": "pl",
+      "source": "nyaas22025 पञ्चैवात्र सदा भवन्ति"
+    },
+    {
+      "id": "TWO_TENS_COUNTED",
+      "form": "dvidaśa",
+      "policy": "primary/Nyāsa suj-artha expressed by compound",
+      "meaning": "two ten-member counting blocks;counted entities not mere numerical dimension",
+      "actual_count": "20under supplied counting-block partition",
+      "number": "pl",
+      "source": "bhashya22025 द्विर्दश/अभिहितार्थत्वात्;nyaas द्वौ दशकौ"
+    },
+    {
+      "id": "THREE_TENS_COUNTED",
+      "form": "tridaśa",
+      "policy": "primary/Nyāsa suj-artha expressed by compound",
+      "meaning": "three ten-member counting blocks;not additive13",
+      "actual_count": "30under supplied counting-block partition",
+      "number": "pl",
+      "source": "bhashya22025 त्रिदशा;K63048 suj-artha control"
+    }
+  ],
+  "morphology_paths": [
+    {
+      "id": "DVITRA",
+      "compound_input": "dvi|tri on admitted saṃkhyeya2.2.25 bahuvrīhi",
+      "samāsānta": "ḍac5.4.73",
+      "markers": [
+        "ḍ_IT initial1.3.7",
+        "c_IT final1.3.3"
+      ],
+      "ti_target": "i of final tri1.1.64",
+      "ti_rule": "6.4.143 actual ḍit",
+      "stem": "dvitra",
+      "trace": [
+        "retain vā/saṃkhyeya policy and original sup-luk2.4.71",
+        "block first dvi ā6.3.47 on bahuvrīhi",
+        "ḍac markers inactive,suffix a retained with owner S",
+        "dvi|tr[i]→dvi|tr;add S-a→dvitra"
+      ]
+    },
+    {
+      "id": "DVIDASA",
+      "compound_input": "dvi|daśan on admitted counted two-tens2.2.25 bahuvrīhi",
+      "samāsānta": "ḍac5.4.73",
+      "markers": [
+        "ḍ_IT initial1.3.7",
+        "c_IT final1.3.3"
+      ],
+      "ti_target": "whole an of daśan1.1.64",
+      "ti_rule": "6.4.144 n-final bha before actual taddhita;6.4.143 compatible general ḍit entitlement",
+      "stem": "dvidaśa",
+      "trace": [
+        "retain counted suj-artha;no actual suC token in compound",
+        "block dvi ā6.3.47 on bahuvrīhi",
+        "actual ḍac-a gives bha1.4.18;daś[an] ṭi-lopa6.4.144",
+        "dvi|daś+S-a→dvidaśa"
+      ]
+    },
+    {
+      "id": "TRIDASA",
+      "compound_input": "tri|daśan on admitted counted three-tens2.2.25 bahuvrīhi",
+      "samāsānta": "ḍac5.4.73",
+      "markers": [
+        "ḍ_IT initial1.3.7",
+        "c_IT final1.3.3"
+      ],
+      "ti_target": "whole an of daśan1.1.64",
+      "ti_rule": "6.4.144 n-final bha before actual taddhita;6.4.143 compatible general ḍit entitlement",
+      "stem": "tridaśa",
+      "trace": [
+        "retain counted suj-artha;no actual suC token in compound",
+        "block whole tri→trayas6.3.48 on bahuvrīhi",
+        "actual ḍac-a gives bha1.4.18;daś[an] ṭi-lopa6.4.144",
+        "tri|daś+S-a→tridaśa"
+      ]
+    }
+  ],
+  "readouts": [
+    "dvitra",
+    "dvidaśa",
+    "tridaśa"
+  ],
+  "admission": "known source-specific counted-entity request and selected dialogue/commentary policy;known partition for2/3tens;no verbal root-ID,pada,voice,preverb or temporal event series invented",
+  "correction": {
+    "target_commit": "57be771f74831cabd91d7477d3205e370874d3fc",
+    "target_paths": [
+      "research/panini_grammar/numeral_compound_replacement_choices_and_eighty_nonfactorability/RELATION.json",
+      "research/panini_grammar/numeral_compound_replacement_choices_and_eighty_nonfactorability/DERIVATION_AND_NATIVE_RECOVERY.md"
+    ],
+    "target_frames": [
+      "DVI_10",
+      "AṢṬAN_10",
+      "TRI_10"
+    ],
+    "old_label": "finished stem readouts ending daśa",
+    "corrected_label": "source-display/n-lopa-visible readout;underlying right member/whole compound retains n-final daśan history",
+    "correct_underlying_stems": [
+      "dvādaśan",
+      "aṣṭādaśan",
+      "trayodaśan"
+    ],
+    "evidence": "K7.1.22 gives source dash-display under jas/śas-luk,then8.2.7 n-lopa;this is not ṭi-an deletion by ḍac",
+    "effect": "additive query-type/underlying-record correction only;PG509 replacement membership,visible words,zero word credits,counters and frozen bytes unchanged;44readouts are not44fully inflectable terminal lexical stems"
+  },
+  "controls": [
+    {
+      "id": "UNCERTAIN_TWO_REQUIRES_DUAL",
+      "status": "Excluded_policy_error",
+      "reason": "primary uncertainty query remains plural,not a choice of fixed2realization"
+    },
+    {
+      "id": "FIVE_GROUNDED_MEANS_FIVE_ACTUAL",
+      "status": "Excluded_primary_overclaim",
+      "reason": "retain primary speech explanation versus Nyāsa literal report"
+    },
+    {
+      "id": "SUJ_MEANING_IMPLIES_ACTUAL_SUC",
+      "status": "Excluded_affix_invention",
+      "reason": "primary explicit absence because compound already expresses meaning"
+    },
+    {
+      "id": "DASAN_FINAL_N_ONLY_LOPA",
+      "status": "Excluded_owner_error",
+      "reason": "this ḍac path deletes ṭi an;retaining old a gives wrong suffix ancestry"
+    },
+    {
+      "id": "DAC_IS_ORDINARY_AC",
+      "status": "Excluded_marker_loss"
+    },
+    {
+      "id": "SANKHYA_ABSTRACT_NOT_COUNTED",
+      "status": "Open_other_construction",
+      "reason": "2.2.25/5.4.73 local saṃkhyeya gate not satisfied;whole request not excluded"
+    },
+    {
+      "id": "BAHU_GANA_FINAL",
+      "status": "Excluded_local_dac_edge"
+    },
+    {
+      "id": "UNKNOWN_POLICY_OR_COUNTING_BLOCKS",
+      "status": "Open"
+    },
+    {
+      "id": "INDEPENDENT_PRINT_BHASYA_NYASA_COLLATION",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 3,
+    "new_semantic_constructions": 1,
+    "new_semantic_readouts": 5,
+    "new_source_observations": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  },
+  "accent_boundary": "c_IT retained for chit accent entitlement6.1.163;complete inflected accent/teacher product Open,not pronounced c or discarded metadata"
+}
