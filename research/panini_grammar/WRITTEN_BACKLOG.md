@@ -1,6 +1,6 @@
-# Written-development backlog at PG577
+# Written-development backlog at PG578
 
-Monty · 23 November 2026 · reviewed current parent cedb5ca25aca024cfa547c580a26c2f1098b733f; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent d6c0dd3fb4c5b1817fbbe33ee74905cfe21227dc; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1144,3 +1144,10 @@ PG575selectedFcase pointer superseded only for5.4.32dyed-Fprofile24keys48reading
 PG577 constructs [kāla,Vinayādi,message-action and prepared auṣadha](kala_vinayadi_message_action_and_prepared_ausadha/README.md):five morphology adapters/19stems;three meaning contracts/five frames;three source observations;zero word/accent/new-policy credits. Member shortening/underlyingd,actual vāc-message/karman-action and non-kind remedy retain owners;kathañcit/36extensions/wider gates Open. Totals51,819finite;6,408nominal/7,631readings.
 
 Selected33–37interfaceslocallyCLOSED. Kathañcit innerṭi-lopa/kādeśa/fullreading and36Vedic/fixedwordextensions remain genuine Open;not deleted to close Vinayādi or aṇ scope. Actualkarmanword retainsan6.4.167;rawNyāsa6.4.16pointer preserved. Next38–40afterpriorreview;all earlier source/native/globalfrontiers and Claude execution distinct.
+
+
+### PG578 · Distinct knower/possessor and nested-luk recipients
+
+PG578 constructs [prājña affix/gender contrast and clay-owned i after luk](prajna_affix_gender_contrast_and_clay_owned_i_after_luk/README.md):four morphology adapters/10stems;one price-dvigu compound/one readout;one meaning contrast/three frames;three source observations;zero word/accent/new-policy credits. Root/suffix/gender and inner-i/outer-affix/āp-LUK owners preserved;praise source accounts separate. Totals51,819finite;6,408nominal/7,631readings;wider gates Open.
+
+Selected38core/memberand39–40paths locallyCLOSED underdeclaredaccounts. LargePrājñādimembers/36extensions/body-animal/vidan-vidvasinnercontracts remainOpen,notexcluded. K/Tattvamandatorypraise versus Bāla40reportedoptionalobjection,Tattva39rawheading/cases/accent/source/native/global gates Open. Nextactualmemberwork/41–49afterreview;Claude execution distinct.
