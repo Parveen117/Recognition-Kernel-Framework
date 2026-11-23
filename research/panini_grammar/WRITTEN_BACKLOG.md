@@ -1,6 +1,6 @@
-# Written-development backlog at PG506
+# Written-development backlog at PG507
 
-Monty · 23 November 2026 · reviewed parent 0ee70716fcf6ac63672eab44adfc09ad6fdf787c.
+Monty · 23 November 2026 · reviewed parent 995ac7b54fbcbff8c1885087a457dfa129e7d859.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -651,3 +651,9 @@ Selected six-frame adapter locally CLOSED;no old sourceword recredit.Next concre
 PG506 constructs [noncoreferential mahat ghāsa/kara/viśiṣṭa paired operations](mahat_ghasa_kara_visista_noncoreference_and_owned_pumvad/README.md):1morphology/composition adapter/3stem readouts with6M/F input histories,0finite/nominal/source additions.Named extension separately licenses puṃvad and ā;female mahatī→mahat before terminal t→ā/coalescence,referent unchanged.Raw case/sandhi ambiguity retained.Totals51,819finite;5,179nominal/6,128readings;global gates Open.
 
 PG505 GKV extension pointer superseded only for supplied licensed M/Fframes,3stems6histories.Old sourcewords0recredit;raw mahatyā case/sandhi/source-gloss reconciliation remains Open,not a fabricated unique case.Other lexical/innerfeminine/heads/case/teacher/accents and original policies remain genuine.Next actual6.3.46 contracts:aṣṭan+kapāla ritual versus nonritual control and yoked-go extension with alternate samāsānta histories.S1-S7/C2-C5/native/Claude execution remain separate;S5fourfields99/103direct.
+
+## PG507 · Ritual/yoked extension contracts and competing histories
+
+PG507 constructs [aṣṭan ritual kapāla/yoked go with owned affix histories](astan_ritual_kapala_and_yoked_go_owned_extensions/README.md):2morphology/composition adapters/4stem readouts,5retained histories;0finite/nominal/source additions.Ritual aṇ-luk4.1.88 differs from nonritual single aggregate;bahuvrīhi ac differs from aggregate ṭac plus licensed cart-directed transfer.Vedic6.3.126 scope retained independently.Totals51,819finite;5,179nominal/6,128readings;global gates Open.
+
+PG506 aṣṭan pointers superseded only on declared five nominal histories.Four oldsource stems/wholewords0credits.Next unconstructed:ritual purōḍāśa-linked M cases;nonritual kapāla N aggregate singular(8keys,not24);external yoked śakaṭa-linked N cases under preserved ac/ṭac histories.Other gender/head/lexical/Vedic/accent/teacher products,unknown meaning-transfer evidence,original critical/source-case/policy reconciliation remain Open.S1-S7/C2-C5/native/Claude obligations separate;S5fourfields99/103direct.

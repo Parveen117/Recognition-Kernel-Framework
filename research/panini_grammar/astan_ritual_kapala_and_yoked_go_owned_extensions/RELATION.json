@@ -1,0 +1,176 @@
+{
+  "stage": "PG507",
+  "input_scope": "source-qualified eight-member nominal frames;known ritual/yoked/compound premises required;root/sense/pada/voice/preverb not invented for supplied kapāla/go/purōḍāśa/yukta/śakaṭa",
+  "paths": [
+    {
+      "id": "RITUAL_KAPALA",
+      "input_type": "EightKapalaLocativeCookedOffering",
+      "compound": "taddhitārtha dvigu 2.1.51/52",
+      "relation": "aṣṭasu kapāleṣu saṃskṛtaḥ purōḍāśa",
+      "external_referent": "offering P,not aggregate of pots K",
+      "a_entitlement": "named kapāla/havis extension63046",
+      "affixes": [
+        {
+          "owner": "T_cooked",
+          "affix": "aṇ",
+          "meaning": "saṃskṛta bhakṣa4.2.16",
+          "luk": "4.1.88",
+          "anga_effect": "blocked after luk1.1.63"
+        }
+      ],
+      "trace": [
+        "retain plural locative internal sup history;compound sup-luk2.4.71",
+        "actual aṇ4.2.16 via4.1.83;whole aṇ-luk4.1.88",
+        "aṣṭan final n→ā;preceding a+ā→ā6.1.101",
+        "aṣṭā|kapāla→aṣṭākapāla"
+      ],
+      "output": "aṣṭākapāla"
+    },
+    {
+      "id": "NONRITUAL_KAPALA",
+      "input_type": "EightKapalaGenitiveAggregate",
+      "compound": "samāhāra dvigu2.1.51/52",
+      "relation": "aṣṭānāṃ kapālānāṃ samāhāra",
+      "external_referent": "single aggregate K;brahmin ownership is external",
+      "a_entitlement": "no ordinary ritual ā edge",
+      "affixes": [],
+      "trace": [
+        "retain genitive internal sup history;sup-luk2.4.71",
+        "retained pada eligibility1.1.62/1.4.14;final n-lopa8.2.7",
+        "aṣṭa|kapāla→aṣṭakapāla",
+        "aggregate singular2.4.1/neuter2.4.17;Nyāsa pātrādi blocks feminine edge"
+      ],
+      "output": "aṣṭakapāla"
+    },
+    {
+      "id": "YOKED_GO_BAHUVRIHI",
+      "input_type": "EightCattleYokedExternalCart",
+      "compound": "source-qualified three-member bahuvrīhi;expressed aṣṭan/go,understood yukta",
+      "relation": "aṣṭau gāvo yuktā asmin;external cart W",
+      "external_referent": "cart W distinct from cattle G",
+      "a_entitlement": "named ordinary yoked-go extension63046/63126",
+      "affixes": [
+        {
+          "owner": "S_bv",
+          "affix": "ac",
+          "licence": "local yoga-vibhāga5.4.75;not5.4.92 ṭac"
+        }
+      ],
+      "trace": [
+        "retain understood yukta and independent bahuvrīhi licence",
+        "ac final c_IT lopa;go+ac-a→gav-a6.1.78",
+        "aṣṭan final n→ā;preceding a+ā→ā6.1.101",
+        "aṣṭā|gava→aṣṭāgava"
+      ],
+      "output": "aṣṭāgava"
+    },
+    {
+      "id": "YOKED_GO_AGGREGATE_TRANSFER",
+      "input_type": "EightCattleAggregateTransferredToCart",
+      "compound": "samāhāra dvigu tatpuruṣa followed by source-qualified lakṣaṇā/part-expression",
+      "relation": "aṣṭānāṃ gavāṃ samāhāra G;cart W yoked with G",
+      "external_referent": "G aggregate then W cart;transfer retained,not literal identity",
+      "a_entitlement": "yukta meaning independently activates named extension at cart-directed reading",
+      "affixes": [
+        {
+          "owner": "S_tp",
+          "affix": "ṭac",
+          "licence": "5.4.92 go-final tatpuruṣa,not taddhita-luk domain"
+        }
+      ],
+      "trace": [
+        "ṭac initial ṭ_IT/final c_IT lopa;go+ṭac-a→gav-a6.1.78",
+        "ordinary aggregate aṣṭagava has no yoked ā",
+        "retain lakṣaṇā/part-expression witness selecting cart W yoked with G",
+        "yoked ā entitlement:aṣṭan n→ā;a+ā→ā;read aṣṭāgava"
+      ],
+      "output": "aṣṭāgava"
+    },
+    {
+      "id": "NONYOKED_GO_AGGREGATE",
+      "input_type": "EightCattleGenitiveAggregate",
+      "compound": "samāhāra dvigu tatpuruṣa",
+      "relation": "aṣṭānāṃ gavāṃ samāhāra;external brahmin ownership",
+      "external_referent": "single aggregate G,not a yoked cart",
+      "a_entitlement": "no ordinary yoked ā edge",
+      "affixes": [
+        {
+          "owner": "S_tp_control",
+          "affix": "ṭac",
+          "licence": "5.4.92 non-taddhita-luk tatpuruṣa"
+        }
+      ],
+      "trace": [
+        "ṭac→a;go→gav6.1.78",
+        "aṣṭan final n-lopa8.2.7 under retained inner pada history",
+        "aṣṭa|gava→aṣṭagava"
+      ],
+      "output": "aṣṭagava"
+    }
+  ],
+  "readouts": [
+    "aṣṭākapāla",
+    "aṣṭakapāla",
+    "aṣṭāgava",
+    "aṣṭagava"
+  ],
+  "controls": [
+    {
+      "id": "LUK_51028_COOKED_AN",
+      "status": "Rejected_by_Tattva",
+      "reason": "5.1.28 ārhīya-only;4.2.16 aṇ is not ārhīya"
+    },
+    {
+      "id": "AN_ANGAVRDDHI_AFTER_LUK",
+      "status": "Excluded_11063",
+      "reason": "affix history retained but its luk blocks aṅga vṛddhi"
+    },
+    {
+      "id": "TJAC_ON_BAHUVRIHI_BY_54092",
+      "status": "Excluded_wrong_compound_domain",
+      "reason": "tatpuruṣa condition absent;use separately sourced ac"
+    },
+    {
+      "id": "GAVA_ERASES_AFFIX_OR_RELATION",
+      "status": "Excluded_nonfactorable_history",
+      "reason": "same gava/readout not same ac/ṭac or G/W referent"
+    },
+    {
+      "id": "HIDDEN_YUKTA_ALWAYS_INFERRED",
+      "status": "Open_needs_source_licence"
+    },
+    {
+      "id": "UNKNOWN_RITUAL_OR_YOKED_MEANING",
+      "status": "Open"
+    },
+    {
+      "id": "RITUAL_GUARD_VEDIC_GLOBAL_BAN",
+      "status": "Excluded_scope_conflation",
+      "reason": "K6.3.126 independent chandas domain;broader Vedic derivations not constructed here"
+    },
+    {
+      "id": "NYASA_KAPALA_SPELLING_AND_21050",
+      "status": "Open_original_critical_collation"
+    }
+  ],
+  "vedic_boundary": {
+    "source": "K63126",
+    "licence": "independent chandas dīrgha before uttarapada;ordinary yoked-go extension also stated",
+    "status": "scope retained;full Vedic syllable/accent/teacher families Open"
+  },
+  "proof_policies": {
+    "K": "named ordinary extensions/negative controls",
+    "SK_BALA_NYASA": "bahuvrīhi ac or aggregate ṭac plus meaning transfer",
+    "TATTVA": "4.1.88 correct luk;reported5.1.28 explanation rejected"
+  },
+  "counts": {
+    "new_morphological_constructions": 2,
+    "new_morphological_readouts": 4,
+    "retained_input_histories": 5,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0
+  }
+}

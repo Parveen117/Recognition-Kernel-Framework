@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG507 constructs [aṣṭan ritual kapāla/yoked go with owned affix histories](astan_ritual_kapala_and_yoked_go_owned_extensions/README.md):2morphology/composition adapters/4stem readouts,5retained histories;0finite/nominal/source additions.Ritual aṇ-luk4.1.88 differs from nonritual single aggregate;bahuvrīhi ac differs from aggregate ṭac plus licensed cart-directed transfer.Vedic6.3.126 scope retained independently.Totals51,819finite;5,179nominal/6,128readings;global gates Open.
+
 PG506 constructs [noncoreferential mahat ghāsa/kara/viśiṣṭa paired operations](mahat_ghasa_kara_visista_noncoreference_and_owned_pumvad/README.md):1morphology/composition adapter/3stem readouts with6M/F input histories,0finite/nominal/source additions.Named extension separately licenses puṃvad and ā;female mahatī→mahat before terminal t→ā/coalescence,referent unchanged.Raw case/sandhi ambiguity retained.Totals51,819finite;5,179nominal/6,128readings;global gates Open.
 
 PG505 constructs [mahat terminal ā/internal coreference/source policies](mahat_terminal_a_internal_coreference_and_tadanta_policies/README.md):1morphology/scope adapter/6controlled stem readouts,0finite/nominal/source additions.Terminal t→ā then coalescence;bahuvrīhi internal reference,actual jātīyar,GEN/gauṇa controls and Tattva atimahābāhu extension explicit.Reported competing Vardhamāna policy retained,no global tadanta ban.Totals51,819finite;5,179nominal/6,128readings;global gates Open.
