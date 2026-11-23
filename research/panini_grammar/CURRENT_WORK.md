@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG517
+# Pāṇini grammar · current written coverage at PG518
+
+PG518 completes [ṛc learner/plain-a versus kap-text cases and nasal guards](rc_learner_and_kap_text_cases_with_branch_dependent_natva/README.md):90new nominal positions/94readings,0finite/source/separate construction credits.96keys100readings minus6old controls.Palatalc blocks outerṇ;kap structural kk permits it under8.4.2,with two kowners retained.Four abl.sg t/dpairs;unsuffixedcKEEPcases remainOpen.Totals51,819finite;5,750nominal/6,709readings;global gates Open.
 
 PG517 constructs [ṛc learner/text residual kap and owned kutva](rc_learner_text_kap_residue_and_owned_kutva/README.md):1morphology adapter/6controlled interfaces,0finite/nominal/source credits.Student/school-intersection plaina versus text optionalkap/retainedc;kap k sounded,p_ITinactive,c→k beforek retains2owners.Two residual premises exclude automatickap on upabahu.K/Nyāsa versus SK/Bāla scope boundaries retained.Totals51,819finite;5,660nominal/6,615readings;global gates Open.
 
