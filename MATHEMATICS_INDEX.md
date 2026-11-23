@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG617: [Gandha quality, quantity, comparison and suffix histories](research/panini_grammar/gandha_property_quantity_comparison_and_suffix_source_paths/README.md). Four formation adapters/16 interfaces; three compound contracts/19 plans; three meaning contracts/13 records; two scope contracts/five records; five observations/two qualified source decisions. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
 PG616: [Jāyā final-ā niṅ and the same-wife puṃvad owner](research/panini_grammar/jaya_final_a_ning_and_same_wife_pumvad_owner/README.md). One formation adapter/two jāni stems; one compound contract/two plans; one meaning contract/two records; one ownership contract/three records; two observations. Zero new word/accent/policy credits. Census:51,819 finite;6,716 nominal/7,950 readings.
 
 PG615: [Numeric/avyaya ūdhas and intervening vidha ownership](research/panini_grammar/numeric_avyaya_udhas_and_intervening_vidha_owners/README.md). Six selected ūdhas extensions plus one positive tatpuruṣa control:one formation adapter/seven stems, two compound contracts/seven plans, two scope contracts/four records, three observations. Zero new word/accent/policy credits. Census:51,819 finite;6,716 nominal/7,950 readings.

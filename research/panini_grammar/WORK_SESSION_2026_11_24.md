@@ -97,3 +97,19 @@ Two selected134 jāni stem traces locally CLOSED; inner lexical and wider writte
 - Next:135–137 gandha intrinsic-property versus commodity, small-quantity and comparison domains; Tattva reported suffix-versus-substitution and strict naturalness policies. Earlier128 exact gaṇa/two bāhu senses/prohyapadi and other source/critical/C2–C5/S1–S7/native/global obligations stay Open; Claude execution distinct.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG617 · Gandha quality, quantity, comparison and suffix histories
+
+Previous publication: 3c3b4edc3a8edc547a4aa6dc18aadca5763ea7dc; tree 7749a4e90b42142275852c7af22aa8fd3d7b3005. Necessary check: Python 3.12.14, 54 assertions, 1 attempt(s).
+
+PG617: [Gandha quality, quantity, comparison and suffix histories](gandha_property_quantity_comparison_and_suffix_source_paths/README.md). Four formation adapters/16 interfaces; three compound contracts/19 plans; three meaning contracts/13 records; two scope contracts/five records; five observations/two qualified source decisions. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+PG521–617 cumulative:938 nominal positions/1,207 readings, zero finite;182 morphology constructions/808 interfaces (642 nominal/stem+10 finite+156 avyaya);76 compound contracts/383 plans;7 accent/27 records;91 semantics/266 records;43 syntax/138 records;18 source-policy decisions after PG555−1;173 observations (6 VCP+35 primary Bhāṣya+25 paired commentary+48 Nyāsa+20 Tattva+27 Bāla+12 K cross-rule). One additive register-provenance correction; no new census effect.
+
+Selected135–137 gandha interfaces locally CLOSED; source critical/borrowed-quality and wider written gates Open.
+- Closed selected135–137 source stem/meaning interfaces; old generic PG38 contracts and PG612 sugandhi designation control receive no recredit.
+- Open: independent Bhaṭṭi/Jayamaṅgalā original, Nyāsa critical clause, exact borrowed-quality policy boundary; all full external gender/case/accent products.
+- Next138–141 compared pāda, sañjñā/quantities and danta replacements; exact128 gaṇa/bāhu/prohyapadi and prior120–134 textual/lexical issues, C2–C5/S1–S7/native/global gates stay Open. Claude execution is distinct.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

@@ -1,6 +1,6 @@
-# Written-development backlog at PG616
+# Written-development backlog at PG617
 
-Monty · 2026-11-24 · reviewed current parent 22b3c6909b40b796991f04176c7715e7aa77c700; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 3c3b4edc3a8edc547a4aa6dc18aadca5763ea7dc; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1447,3 +1447,14 @@ Two selected134 jāni stem traces locally CLOSED; inner lexical and wider writte
 - Closed two selected134 jāyā final-ā→ni, later-y-lopa and same-wife puṃvad traces. Existing PG38 correction/PG52 source ownership receives no repeated credit.
 - Open: exhaustive inner yuvati/yuvan lexical formation and original Nyāsa critical references; full external gender/case/accent products.
 - Next:135–137 gandha intrinsic-property versus commodity, small-quantity and comparison domains; Tattva reported suffix-versus-substitution and strict naturalness policies. Earlier128 exact gaṇa/two bāhu senses/prohyapadi and other source/critical/C2–C5/S1–S7/native/global obligations stay Open; Claude execution distinct.
+
+
+### PG617 · Gandha quality, quantity, comparison and suffix histories
+
+PG617: [Gandha quality, quantity, comparison and suffix histories](gandha_property_quantity_comparison_and_suffix_source_paths/README.md). Four formation adapters/16 interfaces; three compound contracts/19 plans; three meaning contracts/13 records; two scope contracts/five records; five observations/two qualified source decisions. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+Selected135–137 gandha interfaces locally CLOSED; source critical/borrowed-quality and wider written gates Open.
+
+- Closed selected135–137 source stem/meaning interfaces; old generic PG38 contracts and PG612 sugandhi designation control receive no recredit.
+- Open: independent Bhaṭṭi/Jayamaṅgalā original, Nyāsa critical clause, exact borrowed-quality policy boundary; all full external gender/case/accent products.
+- Next138–141 compared pāda, sañjñā/quantities and danta replacements; exact128 gaṇa/bāhu/prohyapadi and prior120–134 textual/lexical issues, C2–C5/S1–S7/native/global gates stay Open. Claude execution is distinct.
