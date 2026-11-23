@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG539
+# Pāṇini grammar · current written coverage at PG540
+
+PG540 constructs [unknown-feature/censure cross-compassion and shared cases](unknown_feature_censure_cross_compassion_and_shared_cases/README.md):1morphology construction3stems+1semantic contract4readouts+1primary-entry observation;23new nominal positions24readings,0finite. Twohorse-meaninghistoriesshareoneMfamily,notdoublecredit. Cross-purpose/renewed-wholepoliciesandreferentgender/numberexplicit. Totals51,819finite;6,255nominal/7,242readings;global gates Open.
 
 PG539 constructs [dvandva ka member/whole ownership and dual cases](dvandva_ka_member_whole_ownership_and_dual_cases/README.md):1compound contract2interfaces;14new nominal positions/readings,0finite/source increments. Primary5880two-memberka-beforecompoundversusone-wholeka-aftercompound;fixedtwotreesMdual,notautomaticcollectiveN.16keys/readingsminus2oldnom.du. Totals51,819finite;6,232nominal/7,218readings;global gates Open.
 

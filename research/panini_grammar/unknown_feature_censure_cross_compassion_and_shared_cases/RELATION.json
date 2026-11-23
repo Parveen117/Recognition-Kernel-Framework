@@ -1,0 +1,516 @@
+{
+  "stage": "PG540",
+  "semantic_frames": [
+    {
+      "id": "HORSE_OWNER_UNKNOWN",
+      "base": "aśva",
+      "sense": "horse",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "qualification": "knownashorse;ownerrelationshipunknown",
+      "rule": "5.3.73",
+      "stem": "aśvaka",
+      "source_word": "aśvakaḥ",
+      "position_credit": 0
+    },
+    {
+      "id": "HORSE_CENSURED",
+      "base": "aśva",
+      "sense": "horse",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "qualification": "samehorsebase;independentlysuppliedcensure",
+      "rule": "5.3.74",
+      "stem": "aśvaka",
+      "source_word": "aśvakaḥ",
+      "position_credit": 0
+    },
+    {
+      "id": "COMPASSION_OF_CENSURED",
+      "base": "kutsita",
+      "sense": "source-suppliedcensuredreferentadjective",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "qualification": "outeranukampāofalreadycensuredreferent",
+      "rule": "5.3.76+primary53074crosspurpose",
+      "stem": "kutsitaka",
+      "source_word": "kutsitakaḥ",
+      "position_credit": 0
+    },
+    {
+      "id": "CENSURE_OF_PITIED",
+      "base": "anukampita",
+      "sense": "source-suppliedpitiedreferentadjective",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "qualification": "outerkutsāofalreadypitiedreferent",
+      "rule": "5.3.74+primary53074crosspurpose",
+      "stem": "anukampitaka",
+      "source_word": "anukampitakaḥ",
+      "position_credit": 0
+    }
+  ],
+  "stem_interfaces": [
+    "aśvaka",
+    "kutsitaka",
+    "anukampitaka"
+  ],
+  "rows": [
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "nom",
+      "number": "sg",
+      "readings": [
+        "aśvakaḥ"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 0,
+      "reading_credit": 0,
+      "old_reading_indices": [
+        0
+      ]
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "acc",
+      "number": "sg",
+      "readings": [
+        "aśvakam"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "ins",
+      "number": "sg",
+      "readings": [
+        "aśvakena"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "dat",
+      "number": "sg",
+      "readings": [
+        "aśvakāya"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "abl",
+      "number": "sg",
+      "readings": [
+        "aśvakāt",
+        "aśvakād"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "gen",
+      "number": "sg",
+      "readings": [
+        "aśvakasya"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "loc",
+      "number": "sg",
+      "readings": [
+        "aśvake"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "voc",
+      "number": "sg",
+      "readings": [
+        "aśvaka"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "nom",
+      "number": "du",
+      "readings": [
+        "aśvakau"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "acc",
+      "number": "du",
+      "readings": [
+        "aśvakau"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "ins",
+      "number": "du",
+      "readings": [
+        "aśvakābhyām"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "dat",
+      "number": "du",
+      "readings": [
+        "aśvakābhyām"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "abl",
+      "number": "du",
+      "readings": [
+        "aśvakābhyām"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "gen",
+      "number": "du",
+      "readings": [
+        "aśvakayoḥ"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "loc",
+      "number": "du",
+      "readings": [
+        "aśvakayoḥ"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "voc",
+      "number": "du",
+      "readings": [
+        "aśvakau"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "nom",
+      "number": "pl",
+      "readings": [
+        "aśvakāḥ"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "acc",
+      "number": "pl",
+      "readings": [
+        "aśvakān"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "ins",
+      "number": "pl",
+      "readings": [
+        "aśvakaiḥ"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "dat",
+      "number": "pl",
+      "readings": [
+        "aśvakebhyaḥ"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "abl",
+      "number": "pl",
+      "readings": [
+        "aśvakebhyaḥ"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "gen",
+      "number": "pl",
+      "readings": [
+        "aśvakānām"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "loc",
+      "number": "pl",
+      "readings": [
+        "aśvakeṣu"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "ASVAKA_SHARED_M",
+      "gender": "m",
+      "case": "voc",
+      "number": "pl",
+      "readings": [
+        "aśvakāḥ"
+      ],
+      "semantic_paths": [
+        "HORSE_OWNER_UNKNOWN",
+        "HORSE_CENSURED"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    }
+  ],
+  "controls": [
+    {
+      "id": "UNKNOWN_OBJECT_CLASS_OR_UNKNOWN_WORD",
+      "status": "Open_missing_known_nominal_input"
+    },
+    {
+      "id": "INFER_CENSURE_FROM_OWNER_IGNORANCE",
+      "status": "Excluded_semantic_collapse"
+    },
+    {
+      "id": "INFER_OWNER_IGNORANCE_FROM_CENSURE",
+      "status": "Excluded_semantic_collapse"
+    },
+    {
+      "id": "NO_NEW_MEANING_OR_RENEWED_SPEECH_ACT_ON_REPEATED_SUFFIX",
+      "status": "Open_primary_alternative_requires_context"
+    },
+    {
+      "id": "CROSSPURPOSE_AND_RENEWED_WHOLE_ARE_SAME_PROOF",
+      "status": "Excluded_source_policy_collapse"
+    },
+    {
+      "id": "ABSTRACT_CENSURE_FORCE_N_SG",
+      "status": "Excluded_primary_answer"
+    },
+    {
+      "id": "ALL_COREFERENT_IDAM_GETS_AKAC",
+      "status": "Excluded_primary_overgeneration"
+    },
+    {
+      "id": "FULL_INNER_KUTSITA_ANUKAMPITA_ROOT_DERIVATIONS",
+      "status": "Open_below_supplied_nominal_boundary"
+    },
+    {
+      "id": "OTHER_GENDER_SOURCE_ACCENT_AND_UNIVERSAL_INTENTION_PARSER",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 3,
+    "new_semantic_constructions": 1,
+    "new_semantic_readouts": 4,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 23,
+    "new_nominal_readings": 24,
+    "new_source_observations": 1
+  },
+  "primary_policies": [
+    {
+      "id": "CROSS_PURPOSE",
+      "account": "kutsitasyānukampāyām/anukampitasyakutsāyām"
+    },
+    {
+      "id": "RENEWED_WHOLE",
+      "account": "athavā:wordafterownmeaning/gender/number/casecanreenterpriyakutsanādiwithitswhole;notuniversallyidenticaltocrosspurpose"
+    }
+  ],
+  "gender_number_law": "svārthikaaffixinheritsqualifiedreferentbasegender/number;abstractsinglekutsāisnotthereferentcontroller",
+  "source_boundary": "oneaśvaka24key25readingMfamilysharedbytwohistorylabels;not48keys.Twootherprimarystemwordsinterfacesonly,0casecredits.No new pronominal/finite akac panel"
+}
