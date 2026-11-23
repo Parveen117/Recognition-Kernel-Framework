@@ -305,3 +305,19 @@ Positive kuṇi branch locally CLOSED; K kuṇa/extended witnesses and full writ
 - K remaining-nine register from PG628 remains unchanged. Next complete already constructed selected139 case fibres, then unresolved139/128 semantic/recensional work,142 patra and older C2–C5/S1–S7/native/global gates. Claude execution distinct.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG630 · Fifteen named padī feminine case fibres and blocked ṇatva
+
+Previous publication: f144832270feaf1bea576137799c0d3b3f66c058; tree e9dafdcebb40b51090992d545e8569bfd4ad0485. Necessary check: Python 3.12.14, 51 assertions, 1 attempt(s).
+
+PG630: [Fifteen named padī feminine case fibres and blocked ṇatva](fifteen_named_padī_feminine_case_fibres_and_blocked_natva/README.md). 360 literal case keys/readings minus15 source NOMsg controls:345 new unique nominal positions/345 readings, zero finite or separate construction/source/accent credits. Census:51,819 finite;7,061 nominal/8,295 readings.
+
+PG521–630 cumulative:1,283 new nominal positions/1,552 readings, zero finite;219 morphology/959 interfaces (793 nominal/stem+10 finite+156 avyaya);109 compound/537 plans;7 accent/27 records;124 semantics/377 records;79 syntax/220 records;24 source-policy decisions after PG555−1;228 observations. One register-provenance correction/one proof addendum; no new census correction.
+
+Fifteen selected139 case fibres locally CLOSED; lexical/source/global gates Open.
+- Closed only fifteen selected139 feminine case fibres; earlier source NOMsg and reused constructors receive no repeated credit. Dental GENpl nuṭ is guarded by actual intervening pad-d, including heads with earlier r/ṣ.
+- Genuine K139 remaining-nine and extended Vasu18 candidates/parentheticals remain Open; kuṇa/kuṇi and VCP affix/text disagreements retain their original source channels. No lexical gap becomes an exclusion.
+- Next remaining139 and128 exact13 entries/two bāhu senses/prohyapadi,142patra and older critical/C2–C5/S1–S7/native/global gates. Claude execution is separately deferred; wider written work remains Open.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG630: [Fifteen named padī feminine case fibres and blocked ṇatva](research/panini_grammar/fifteen_named_padī_feminine_case_fibres_and_blocked_natva/README.md). 360 literal case keys/readings minus15 source NOMsg controls:345 new unique nominal positions/345 readings, zero finite or separate construction/source/accent credits. Census:51,819 finite;7,061 nominal/8,295 readings.
+
 PG629: [Kuṇipadī positive reading and three unmerged gaṇa witnesses](research/panini_grammar/kunipadi_positive_reading_and_three_nonmerged_gana_witnesses/README.md). One new kuṇi formation/compound/meaning interface; two scope contracts/four records; three observations/one source decision. K kuṇa stays Open; extended gaṇa witnesses kept separate. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
 
 PG628: [Nine kumbhapadī lexical domains from Vācaspatyam](research/panini_grammar/nine_kumbhapadi_lexical_domains_from_vacaspatyam/README.md). One formation adapter/nine interfaces; one compound contract/11 plans; three meaning contracts/11 records; three scope contracts/seven records; nine primary VCP observations. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.

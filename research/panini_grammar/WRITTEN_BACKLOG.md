@@ -1,6 +1,6 @@
-# Written-development backlog at PG629
+# Written-development backlog at PG630
 
-Monty · 2026-11-24 · reviewed current parent 41ce454c783f7e5736b68a44403d0af64e588e00; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent f144832270feaf1bea576137799c0d3b3f66c058; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1590,3 +1590,14 @@ Positive kuṇi branch locally CLOSED; K kuṇa/extended witnesses and full writ
 - Closed positive VCP/Vasu kuṇipadī source-relative lexical branch; K139 kuṇapadī remains unresolved. No frozen source correction or repeated generic-policy credits.
 - Genuine additionalVasu139 candidates: śūlapadī, guṇapadī, sūtrapadī, vipadī, tṛṇapadī, dvipadī, tripadī, ṣaṭpadī, śitipadī, viṣṇupadī, supadī, śucipadī, sūkarapadī, sthūṇāpadī, apadī, sūcīpadī, kalahamsapadī, viṣapadī. Also parenthetical kṛṇapadī/droṇīpadī/sthūlapadī and raw VCP/Vasu critical variants in RELATION remain Open.
 - K remaining-nine register from PG628 remains unchanged. Next complete already constructed selected139 case fibres, then unresolved139/128 semantic/recensional work,142 patra and older C2–C5/S1–S7/native/global gates. Claude execution distinct.
+
+
+### PG630 · Fifteen named padī feminine case fibres and blocked ṇatva
+
+PG630: [Fifteen named padī feminine case fibres and blocked ṇatva](fifteen_named_padī_feminine_case_fibres_and_blocked_natva/README.md). 360 literal case keys/readings minus15 source NOMsg controls:345 new unique nominal positions/345 readings, zero finite or separate construction/source/accent credits. Census:51,819 finite;7,061 nominal/8,295 readings.
+
+Fifteen selected139 case fibres locally CLOSED; lexical/source/global gates Open.
+
+- Closed only fifteen selected139 feminine case fibres; earlier source NOMsg and reused constructors receive no repeated credit. Dental GENpl nuṭ is guarded by actual intervening pad-d, including heads with earlier r/ṣ.
+- Genuine K139 remaining-nine and extended Vasu18 candidates/parentheticals remain Open; kuṇa/kuṇi and VCP affix/text disagreements retain their original source channels. No lexical gap becomes an exclusion.
+- Next remaining139 and128 exact13 entries/two bāhu senses/prohyapadi,142patra and older critical/C2–C5/S1–S7/native/global gates. Claude execution is separately deferred; wider written work remains Open.
