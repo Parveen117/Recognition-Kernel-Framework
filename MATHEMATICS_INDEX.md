@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG551 constructs [pada/bha range cuts and positive ṣaḍika source decision](research/panini_grammar/pada_bha_span_cuts_and_positive_sadika_source_decision/README.md):1morphology adapter2readouts3parentframes+1positivepolicydecision+4source observations(3primaryentries,1pairedcommentarylocator);0word increments. SourceBāla/Tattva53081andprimary14018/53084closePG550ṣaḍikaselectedquery;coextensivebha/pada versusinactivea₂largerrangeexplicit. RawNyāsacriticaltextunchanged. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
+
 PG550 constructs [one-vowel-member lopa/vācika and critical query boundary](research/panini_grammar/one_vowel_member_lopa_vacika_and_critical_query_boundary/README.md):1morphology adapter1exactprototype+1critical-source policydecision;0word/source-observation increments. Wholeāśismemberlopa,currentbhaandretainednominalcproducevācika;renderedgnotprimitive. Rawpada/bhamicro-reading,ṣaḍikacontinuation/otherparentnamesstayOpenwithoutrepairorwordban. Totalsunchanged51,819finite;6,384nominal/7,583readings;global gates Open.
 
 PG549 constructs [u-ilac partial lopa/whole-la and reported ṛ-boundary](research/panini_grammar/u_ilac_partial_lopa_whole_la_and_reported_r_boundary/README.md):1morphology adapter2stems4ownerpaths+1source-policy decision;0word/source-observation increments. Oldilacla versusNyāsanewwholelādeśaownersdistinct.SKṛextension/Bālaobjectionregisteredwithoutfullupstreamlicenceupgradeorwordban. Totalsunchanged51,819finite;6,384nominal/7,583readings;global gates Open.

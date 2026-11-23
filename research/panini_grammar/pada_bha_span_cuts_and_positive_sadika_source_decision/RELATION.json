@@ -1,0 +1,182 @@
+{
+  "stage": "PG551",
+  "frames": [
+    {
+      "id": "VAC_LONG_COEXTENSIVE",
+      "input_name": "Vāgāśīrdatta",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "retained_nominal_member": "vāc",
+      "whole_following_members": [
+        "āśis",
+        "datta"
+      ],
+      "cut": "allfollowingmemberswhole-lopa,notjustlastdatta",
+      "pada_anchor": "I_VAC",
+      "bha_anchor": "I_VAC",
+      "anchor_relation": "equal",
+      "pada_survives": false,
+      "readout": "vācika",
+      "source": "Bāla/Tattva53081andprimary14018/53084",
+      "position_credit": 0
+    },
+    {
+      "id": "SAD_SHORT_DIFFERENT_EXTENTS",
+      "input_name": "Ṣaḍaṅguli",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "retained_nominal_member": "ṣaṣ",
+      "cut": "ordinary5.3.83above2ndvowela2,then6.4.148a2-lopa",
+      "pada_anchor": "I_NUM",
+      "bha_anchor": "J_NUM_A2",
+      "anchor_relation": "I_NUMproper_subspanofJ_NUM_A2",
+      "pada_survives": true,
+      "readout": "ṣaḍika",
+      "source": "primary14018/53084shortparent;Bāla/Tattvaexplicitextentinterpretation",
+      "position_credit": 0
+    },
+    {
+      "id": "SAD_LONG_DIFFERENT_EXTENTS",
+      "input_name": "Ṣaḍaṅgulidatta",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "retained_nominal_member": "ṣaṣ",
+      "cut": "ordinary5.3.83above2ndvowela2,then6.4.148a2-lopa",
+      "pada_anchor": "I_NUM",
+      "bha_anchor": "J_NUM_A2",
+      "anchor_relation": "I_NUMproper_subspanofJ_NUM_A2",
+      "pada_survives": true,
+      "readout": "ṣaḍika",
+      "source": "Bāla/Tattva53081longparent",
+      "position_credit": 0
+    }
+  ],
+  "anchors": {
+    "I_VAC": {
+      "kind": "prakṛti_target_span",
+      "occurrences": [
+        "v_nom",
+        "ā_nom",
+        "c_nom"
+      ]
+    },
+    "I_NUM": {
+      "kind": "prakṛti_target_span",
+      "occurrences": [
+        "ṣ_initial",
+        "a_num",
+        "ṣ_final"
+      ]
+    },
+    "J_NUM_A2": {
+      "kind": "prakṛti_target_span",
+      "occurrences": [
+        "ṣ_initial",
+        "a_num",
+        "ṣ_final",
+        "a2_from_secondmember"
+      ],
+      "a2_sounded": "inactive_after_lopa",
+      "a2_query": "source-licensedsthānivadendpointretained"
+    }
+  },
+  "source_policies": [
+    {
+      "id": "BALA_VASTUTAS_EARLY_THA",
+      "account": "wholefollowingmember-lopaatactualṭhstagebeforeika;earlykutvaasiddha/notcommittedforquery",
+      "default_constructed_trace": true
+    },
+    {
+      "id": "BALA_KECIT_NIVRTTI",
+      "account": "laterika-bhablockspriorpadakutva/jash,sourcecallsnivṛtti;retainasattributedaccountnotgeneralinvertibility",
+      "default_constructed_trace": false
+    },
+    {
+      "id": "TATTVA_TULYAVADHIKA",
+      "account": "wholememberlopa→sameextentbha/pada;ordinaryvowel-lopa→differentextent",
+      "default_constructed_trace": true
+    }
+  ],
+  "source_decision": {
+    "id": "PG550_SADIKA_POSITIVE_RESOLUTION",
+    "status": "CLOSED_selected_source_query",
+    "previous": "PG550diagnosticSADANGULIDATTA_SADIKA",
+    "positive_witnesses": [
+      "Bāla53081",
+      "Tattva53081",
+      "primary14018",
+      "primary53084"
+    ],
+    "reading": "ṣaṣ plusṭhājādi ordinaryrule,notṣaṣṭha/sixthvowel",
+    "still_open": [
+      "Nyāsaexactcriticalmicro-wording/independentprint",
+      "Sruc/Tvacexactparentidentity",
+      "universal1.1.58bhāva/karmasādhanaresolverbeyondtheseframes"
+    ]
+  },
+  "controls": [
+    {
+      "id": "GLOBAL_BHA_BIT_ERASES_EVERY_PADA_SPAN",
+      "status": "Excluded_wrong_coextensivity"
+    },
+    {
+      "id": "TREAT_INACTIVE_A2_RANGE_AS_ABSENT_IN_SADIKA_QUERY",
+      "status": "Excluded_lost_sthanivad_endpoint"
+    },
+    {
+      "id": "ONLY_LAST_DATTA_IS_UTTARAPADA_HERE",
+      "status": "Excluded_named_all_following_members_scope"
+    },
+    {
+      "id": "READ_CORRUPT_SASAS_THA_AS_SIXTH_VOWEL_RULE",
+      "status": "Excluded_unpinned_repair"
+    },
+    {
+      "id": "RESTORE_RAW_NYASA_PADA_TO_BHA_BY_EDIT",
+      "status": "Excluded_frozen_source_mutation"
+    },
+    {
+      "id": "Kecit_nivritti_IS_UNIVERSAL_OPERATOR_INVERSE",
+      "status": "Excluded_policy_upgrade"
+    },
+    {
+      "id": "PRIMARY_11058_UNIVERSAL_DEBATE_NOW_SOLVED",
+      "status": "Open_broader_metarule"
+    },
+    {
+      "id": "NYASA_CRITICAL_ORIGINAL_PRINT_AND_OTHER_NAMES",
+      "status": "Open"
+    },
+    {
+      "id": "CASE_GENDER_ACCENT_GENERAL_INTERVAL_RESOLVER",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 2,
+    "new_source_policy_decisions": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 4
+  },
+  "local_cut_law": "E_P(I,ν)=P(I,ν)*(1-B(I,ν))onlyonadmittedsame-range/queryBHA-over-PADAcompetitions;B(J,ν),J!=I,notasubstituteforB(I,ν)",
+  "source_observation_units": [
+    "primary11058entry",
+    "primary14018entry",
+    "primary53084entry",
+    "onepairedBāla/Tattva53081bodylocatorobservation"
+  ],
+  "source_boundary": "3concreteparentframes2uniquestemreadouts;0wordcensus.Masksarenativesource-qualifieddiagonalstatusfilters,notuniversalcommutativityofnativecutsorall-grammarstatusresolver."
+}
