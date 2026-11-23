@@ -1,6 +1,6 @@
-# Written-development backlog at PG609
+# Written-development backlog at PG610
 
-Monty · 23 November 2026 · reviewed current parent 8ccc2c694b97478b59d7e4a542f23e0dea1de543; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 65cecf8a2d5429f4cc624ebf1015c80705f90baf; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1370,3 +1370,14 @@ Selected13ownedbaseinterfaceslocallyCLOSED;fullagreementnotinferredfromasstemquo
 PG609 constructs [eight named ac compounds with owned time/foot parents](eight_named_ac_compounds_and_owned_time_foot_parents/README.md): three adapters/eight stems,one compound contract/eight plans,two meaning contracts/six frames,three observations;reportedtime-parentmicrotextOpen,0newpolicycredits. Zero word/accent credits;actualavyaya/righti/padbhāva/homonyms retained. Totals51,819finite;6,670nominal/7,904readings;wider gates Open.
 
 Selected8sourcebaseinterfaceslocallyCLOSED. Nyāsakarmaaccountpositive;TattvaanyeśaktimatreportconclusionmicrotextOpen,0newpolicycredits;genericcatasṛ/pādaorderingandfullVedicgender/case/accent/sourceconfluenceOpen.121onwardandearlierSomanetrāḥ/pramāṇī/Smṛti/daśabhūmaka/pur/palya/citation-i/parokṣarecipe/Tattva106nested/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
+
+
+### PG610 · Hali/sakthi options and asic vowel ownership
+
+PG610: [Hali/sakthi options and asic vowel ownership](hali_sakthi_options_and_as_default_vowel_ownership/README.md). Four formation families/27 stem interfaces; three compound contracts/27 plans; three meaning contracts/seven records; two scope contracts/six records; six observations. Zero new word, accent or policy credits. Census: 51,819 finite; 6,670 nominal positions/7,904 readings.
+
+Selected121–123 owned stem interfaces locally CLOSED; global written gates remain Open.
+
+- Closed selected121–123 interfaces; previously closed PG38 alternate śakti policy and PG604 ordinary svāṅga family receive no recredit.
+- Open: full case/gender/accent products; exact hala/hali commentary reconciliation and Bāla dual microtext; unrestricted gaṇa extensions and independent Vedic passage/recitation.
+- Next constructive frontier:124 dharma compound-tree ownership,125 jambha and126 hunter īrma; prior120 time-parent conclusion, generic foot/number ordering, Somanetrāḥ/pramāṇī/Smṛti/daśabhūmaka/pur/palya/citation-i/parokṣa/Tattva106/other critical and C2–C5/S1–S7/native/global obligations remain Open. Claude execution is separate.

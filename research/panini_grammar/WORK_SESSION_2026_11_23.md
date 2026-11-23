@@ -1222,3 +1222,19 @@ PG609 constructs [eight named ac compounds with owned time/foot parents](eight_n
 Su+prātar/śvas/divāactualavyayaṭirecipients,notn-finalshortcut/dog/skyhomonyms. Śāri-firstiretained/rightkukṣii_lopa. Namedcatur/aśriandpād/pādapadbhāvawithsourcego-animalproṣṭhanotfish;notuniversalgeometry/footoracle. Nyāsaactionmetonymypositive;TattvaanyeśaktimatconclusionmicrotextOpenwith0newpolicycredits.0newword/accentcredits.
 
 PG521–609 cumulative:892nominalpositions/1,161readings,0finite;160morphologyconstructions/713interfaces(559nominal/stem+10finite+144avyaya);58compoundcontracts/282readouts;7accentconstructions/27records;78semanticcontracts/218readouts;28syntaxcontracts/100readouts;12source-policydecisionsafterPG555−1;141sourceobservations(6VCP+35primaryBhāṣya+19pairedcommentarylocators+38Nyāsa+14Tattva+19Bāla+10Kcrossrule). Oneadditionalregisterprovenancecorrection,nocounterdelta.Census51,819finite;6,670nominal/7,904readings.PG609piniscontainingpublication;prioractualcommitabove.121onward/fullgaṇa/cases/genders/critical/inner/citation-i/member/native/globalgatesOpen;Claudeexecutiondeferred.PreservePG335/PG357–363CLOSED;nonforceexistingreviewbranchonly,no mainmerge,ETA,inferredhours/fullSanskritclaim.
+
+
+## PG610 · Hali/sakthi options and asic vowel ownership
+
+Previous publication: 65cecf8a2d5429f4cc624ebf1015c80705f90baf; tree a8e6864c67f88ed6d8af089562cf00de7f2ddb64. Necessary check: Python 3.12.14, 70 assertions, 1 attempt(s).
+
+PG610: [Hali/sakthi options and asic vowel ownership](hali_sakthi_options_and_as_default_vowel_ownership/README.md). Four formation families/27 stem interfaces; three compound contracts/27 plans; three meaning contracts/seven records; two scope contracts/six records; six observations. Zero new word, accent or policy credits. Census: 51,819 finite; 6,670 nominal positions/7,904 readings.
+
+PG521–610 cumulative: 892 new nominal positions/1,161 readings, zero finite; 164 morphology constructions/740 interfaces (586 nominal/stem +10 finite +144 avyaya);61 compound contracts/309 readouts;7 accent constructions/27 records;81 semantic contracts/225 records;30 syntax contracts/106 records;12 source-policy decisions after the PG555−1 correction;147 source observations (6 VCP +35 primary Bhāṣya +21 paired commentary +40 Nyāsa +15 Tattva +20 Bāla +10 K cross-rule observations). One additive register-provenance correction, zero census effect.
+
+Selected121–123 owned stem interfaces locally CLOSED; global written gates remain Open.
+- Closed selected121–123 interfaces; previously closed PG38 alternate śakti policy and PG604 ordinary svāṅga family receive no recredit.
+- Open: full case/gender/accent products; exact hala/hali commentary reconciliation and Bāla dual microtext; unrestricted gaṇa extensions and independent Vedic passage/recitation.
+- Next constructive frontier:124 dharma compound-tree ownership,125 jambha and126 hunter īrma; prior120 time-parent conclusion, generic foot/number ordering, Somanetrāḥ/pramāṇī/Smṛti/daśabhūmaka/pur/palya/citation-i/parokṣa/Tattva106/other critical and C2–C5/S1–S7/native/global obligations remain Open. Claude execution is separate.
+
+PG610 publication is the containing commit. Draft authoring resumed after a scratch helper shallow-copy metadata error; no document check had been run, no frozen file changed. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours/ETA claim.
