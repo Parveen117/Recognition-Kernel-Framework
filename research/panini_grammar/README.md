@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG614: [Two ūdhas feminine case panels and dental nuṭ](two_udhas_feminine_case_panels_and_dental_nut/README.md). 48 authored keys/readings minus two source NOMsg controls:46 new unique nominal positions/46 readings, zero finite or separate construction/source/accent credits. Census:51,819 finite;6,716 nominal positions/7,950 readings.
+
 PG613: [Whole jānu replacement and final-s anaṅ ownership](janu_whole_replacement_and_final_s_anang_owners/README.md). Four formation adapters/17 stem interfaces; three compound contracts/15 source plans; one meaning contract/four records; three scope contracts/seven records; six observations/two qualified source decisions. Zero new word/accent credits. Census:51,819 finite;6,670 nominal/7,904 readings.
 
 PG612: [Reciprocal ic, named actions and deleted-affix visibility](reciprocal_ic_named_action_frames_and_deleted_suffix_visibility/README.md). Four formation adapters/12 avyaya interfaces (ten selected actions locally closed; two bāhu senses Open); three compound contracts/12 plans; two meaning contracts/ten records; three scope contracts/seven records; five observations/one qualified source decision. Zero new word/accent credits. Census:51,819 finite;6,670 nominal/7,904 readings.

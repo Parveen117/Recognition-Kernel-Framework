@@ -1,6 +1,6 @@
-# Written-development backlog at PG613
+# Written-development backlog at PG614
 
-Monty · 2026-11-24 · reviewed current parent 0f1536b3dec225d4e6d0f254711b86a6097cf008; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 39f541d6a49ef790ad54838da254dc437e8384ac; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1414,3 +1414,14 @@ Selected129–133 owned replacement traces locally CLOSED; numeric/avyaya ūdhas
 - Closed selected129–133 whole-jānu/final-s/owned-vowel traces, including kuṇḍodhnī/ghaṭodhnī and named bow options. Existing PG38/PG45 policies receive no repeated credit.
 - Genuine remaining realization: dvyūdhnī, tryūdhnī, atyūdhnī, nirūdhnī, dvividhodhnī, trividhodhnī with PG45-marked ṅīp. Open: full case/gender/accent products, competing initial-an purpose explanations, exact literary dhṛtadhanuṣam scope and inner śārṅga etymology.
 - Next:134 jāyā final-ā→ni and135–137 intrinsic/quantity/comparison gandha. Exact128 thirteen-member backlog/two bāhu senses, prohyapadi microtext, earlier120/121/122/124/126 and all older C2–C5/S1–S7/native/global obligations stay Open. Claude execution is distinct.
+
+
+### PG614 · Two ūdhas feminine case panels and dental nuṭ
+
+PG614: [Two ūdhas feminine case panels and dental nuṭ](two_udhas_feminine_case_panels_and_dental_nut/README.md). 48 authored keys/readings minus two source NOMsg controls:46 new unique nominal positions/46 readings, zero finite or separate construction/source/accent credits. Census:51,819 finite;6,716 nominal positions/7,950 readings.
+
+Two selected ūdhas feminine case fibres locally CLOSED; full written gates remain Open.
+
+- Closed two selected ūdhas female24-key panels. Old source NOMsg, PG605 consumer, PG45/PG613 formation and PG335/PG357–363 CLOSED results receive no repeated credit.
+- Genuine remaining: six numeric/avyaya ūdhas realization adapters;134 onward; exact128 thirteen-entry list/two bāhu senses and prohyapadi text; full other gender/case/accent and prior critical/source C2–C5/S1–S7/native/global gates.
+- Claude execution, generators, old/navigation/engine suites and replay remain separately deferred; wider written scope is not complete and is not fully blocked.

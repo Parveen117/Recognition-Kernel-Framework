@@ -49,3 +49,19 @@ Selected129–133 owned replacement traces locally CLOSED; numeric/avyaya ūdhas
 - Next:134 jāyā final-ā→ni and135–137 intrinsic/quantity/comparison gandha. Exact128 thirteen-member backlog/two bāhu senses, prohyapadi microtext, earlier120/121/122/124/126 and all older C2–C5/S1–S7/native/global obligations stay Open. Claude execution is distinct.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG614 · Two ūdhas feminine case panels and dental nuṭ
+
+Previous publication: 39f541d6a49ef790ad54838da254dc437e8384ac; tree 2cd47492af803d1e7a4b253f53a0e4c257b4d407. Necessary check: Python 3.12.14, 86 assertions, 1 attempt(s).
+
+PG614: [Two ūdhas feminine case panels and dental nuṭ](two_udhas_feminine_case_panels_and_dental_nut/README.md). 48 authored keys/readings minus two source NOMsg controls:46 new unique nominal positions/46 readings, zero finite or separate construction/source/accent credits. Census:51,819 finite;6,716 nominal positions/7,950 readings.
+
+PG521–614 cumulative:938 new nominal positions/1,207 readings, zero finite. Other units unchanged from PG613:176 morphology/783 interfaces (617 nominal/stem+10 finite+156 avyaya);70 compound/355 plans;7 accent/27 records;87 semantics/251 records;38 syntax/126 records;16 source-policy decisions after PG555−1;163 observations. Census51,819 finite;6,716 nominal/7,950 readings. One additive register-provenance correction, no new correction.
+
+Two selected ūdhas feminine case fibres locally CLOSED; full written gates remain Open.
+- Closed two selected ūdhas female24-key panels. Old source NOMsg, PG605 consumer, PG45/PG613 formation and PG335/PG357–363 CLOSED results receive no repeated credit.
+- Genuine remaining: six numeric/avyaya ūdhas realization adapters;134 onward; exact128 thirteen-entry list/two bāhu senses and prohyapadi text; full other gender/case/accent and prior critical/source C2–C5/S1–S7/native/global gates.
+- Claude execution, generators, old/navigation/engine suites and replay remain separately deferred; wider written scope is not complete and is not fully blocked.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
