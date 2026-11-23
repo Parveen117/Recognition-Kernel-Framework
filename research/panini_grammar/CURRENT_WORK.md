@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG568
+# Pāṇini grammar · current written coverage at PG569
+
+PG569 constructs [retained in/aṇ and owned action-occurrence counting](retained_in_an_and_owned_action_occurrence_counting/README.md): three morphology adapters/11 interfaces; one accent adapter/four records; one meaning contract/five readouts; one period-genitive contract/two accounts; four source observations; zero word/new-policy credits. Birth-count,actual suffix markers,one-event and temporal-source policies retain owners. Totals51,819 finite;6,384 nominal/7,583 readings; wider gates Open.
 
 PG568 constructs [degree āmu marker guards and reciprocal ṇac/añ feminine ownership](degree_amu_marker_guard_and_reciprocal_nac_anj_feminine/README.md): three morphology adapters/13 interfaces (ten degree/avyaya,three nominal); one meaning contract/four readouts; three source observations; zero word/new-policy/accent credits. Actual suffix identities,degree holders and inner/outer/feminine vowels retained. Totals51,819 finite;6,384 nominal/7,583 readings; wider gates Open.
 

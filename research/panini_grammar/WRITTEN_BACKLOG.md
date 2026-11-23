@@ -1,6 +1,6 @@
-# Written-development backlog at PG568
+# Written-development backlog at PG569
 
-Monty · 23 November 2026 · reviewed current parent 37cd66d056d6f58a1817890c6c0f738a3ea464fb; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 36bcbbce2b1330e8c8e8de4b5528ea0eeedd3ea1; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1081,3 +1081,10 @@ PG567 constructs [self-sense kha, direction/gender, jāti bearer and station own
 PG568 constructs [degree āmu marker guards and reciprocal ṇac/añ feminine ownership](degree_amu_marker_guard_and_reciprocal_nac_anj_feminine/README.md): three morphology adapters/13 interfaces (ten degree/avyaya,three nominal); one meaning contract/four readouts; three source observations; zero word/new-policy/accent credits. Actual suffix identities,degree holders and inner/outer/feminine vowels retained. Totals51,819 finite;6,384 nominal/7,583 readings; wider gates Open.
 
 Selected11–14 interfaces locally CLOSED. Independent Vedic/accent/Bāla alignment,inner anugādin ṇini source accounts,other time/e-final and reciprocal root/prefix/gender/case requests remain Open. Next15–20 after old-register review. No unresolved source request excluded for completion;C2–C5/S1–S7/prior native/source frontiers remain Open,Claude execution separate.
+
+
+### PG569 · Actual in-retention and occurrence-count contracts
+
+PG569 constructs [retained in/aṇ and owned action-occurrence counting](retained_in_an_and_owned_action_occurrence_counting/README.md): three morphology adapters/11 interfaces; one accent adapter/four records; one meaning contract/five readouts; one period-genitive contract/two accounts; four source observations; zero word/new-policy credits. Birth-count,actual suffix markers,one-event and temporal-source policies retain owners. Totals51,819 finite;6,384 nominal/7,583 readings; wider gates Open.
+
+Selected15–20 interfaces locally CLOSED. Earlier forecast dhanus/teacher-family label superseded by actual inun/visārin/frequency sources,not a frozen-result edit. Kūṭa-dāha exact root/inner origin,inner ṇini accounts,primary/K19 anuvṛtti and period-genitive comparison remain Open,as do prior sources/native/global gates. Closeness needs a context witness,no invented clock threshold. Next21–25 after predecessor review. Claude-deferred execution separate.

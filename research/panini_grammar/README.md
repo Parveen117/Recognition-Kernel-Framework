@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG569 constructs [retained in/aṇ and owned action-occurrence counting](retained_in_an_and_owned_action_occurrence_counting/README.md): three morphology adapters/11 interfaces; one accent adapter/four records; one meaning contract/five readouts; one period-genitive contract/two accounts; four source observations; zero word/new-policy credits. Birth-count,actual suffix markers,one-event and temporal-source policies retain owners. Totals51,819 finite;6,384 nominal/7,583 readings; wider gates Open.
+
 PG568 constructs [degree āmu marker guards and reciprocal ṇac/añ feminine ownership](degree_amu_marker_guard_and_reciprocal_nac_anj_feminine/README.md): three morphology adapters/13 interfaces (ten degree/avyaya,three nominal); one meaning contract/four readouts; three source observations; zero word/new-policy/accent credits. Actual suffix identities,degree holders and inner/outer/feminine vowels retained. Totals51,819 finite;6,384 nominal/7,583 readings; wider gates Open.
 
 PG567 constructs [self-sense kha, direction/gender, jāti bearer and station ownership](selfsense_kha_direction_gender_jati_and_station_ownership/README.md): four morphology adapters/22 stem interfaces; one compound adapter/five inputs; one scope contract/six readouts; two source observations; zero word or new-policy credits. Actual suffix/replacement/member/gender and rival source accounts retain owners. Totals 51,819 finite; 6,384 nominal/7,583 readings; wider gates Open.
