@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG528 constructs [Navedas asun pronunciation-u and source-scoped s-stem cases](navedas_asun_pronunciation_u_and_scoped_s_cases/README.md): 70 new nominal positions/73 readings; 72 keys/75 readings minus2old/conservative controls. One morphology adapter/one stem interface; one VCP entry observation; 0 finite additions. Asun-u is pronunciation aid, not ugit; Nplural num independently7.1.72. K na vetti and VCP no-incorrect-knowledge meanings remain distinct. Totals 51,819 finite; 5,987 nominal/6,965 readings; global gates Open.
+
 PG527 constructs [Nakra ḍa/ṭi ownership and crocodile M/F cases](nakra_dit_ti_ownership_and_crocodile_gender_cases/README.md): 47 new nominal positions/48 readings; 48 keys/49 readings minus old nakraḥ. One morphology adapter/two stem interfaces; one VCP entry observation; 0 finite additions. Root am deletion leaves r; actual feminine ṅīṣ deletes suffix a, not root r. Door/nose/compound source profiles remain Open. Totals 51,819 finite; 5,917 nominal/6,892 readings; global gates Open.
 
 PG526 constructs [nabhrāj zero-kvip and rule-relative consonant cases](nabhrāj_zero_kvip_and_rule_relative_consonant_cases/README.md): 23 new nominal positions/25 readings; 24 keys/26 readings minus old nabhrāṭ. One morphology adapter/one stem interface, one VCP lexical-entry observation, 0 finite additions. Silent kvip retains affix/marker history; vowel j versus bh ḍ/pause ṭ-ḍ/loc.pl ṭs views owned. Totals 51,819 finite; 5,870 nominal/6,844 readings; global gates Open.

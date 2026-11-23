@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG527
+# Pāṇini grammar · current written coverage at PG528
+
+PG528 constructs [Navedas asun pronunciation-u and source-scoped s-stem cases](navedas_asun_pronunciation_u_and_scoped_s_cases/README.md): 70 new nominal positions/73 readings; 72 keys/75 readings minus2old/conservative controls. One morphology adapter/one stem interface; one VCP entry observation; 0 finite additions. Asun-u is pronunciation aid, not ugit; Nplural num independently7.1.72. K na vetti and VCP no-incorrect-knowledge meanings remain distinct. Totals 51,819 finite; 5,987 nominal/6,965 readings; global gates Open.
 
 PG527 constructs [Nakra ḍa/ṭi ownership and crocodile M/F cases](nakra_dit_ti_ownership_and_crocodile_gender_cases/README.md): 47 new nominal positions/48 readings; 48 keys/49 readings minus old nakraḥ. One morphology adapter/two stem interfaces; one VCP entry observation; 0 finite additions. Root am deletion leaves r; actual feminine ṅīṣ deletes suffix a, not root r. Door/nose/compound source profiles remain Open. Totals 51,819 finite; 5,917 nominal/6,892 readings; global gates Open.
 

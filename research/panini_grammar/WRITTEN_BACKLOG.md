@@ -1,4 +1,4 @@
-# Written-development backlog at PG527
+# Written-development backlog at PG528
 
 Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
@@ -794,3 +794,10 @@ Selected Nabhrāj plain-root/kvip/cloud-M case family locally CLOSED. Genuine fu
 PG527 constructs [Nakra ḍa/ṭi ownership and crocodile M/F cases](nakra_dit_ti_ownership_and_crocodile_gender_cases/README.md): 47 new nominal positions/48 readings; 48 keys/49 readings minus old nakraḥ. One morphology adapter/two stem interfaces; one VCP entry observation; 0 finite additions. Root am deletion leaves r; actual feminine ṅīṣ deletes suffix a, not root r. Door/nose/compound source profiles remain Open. Totals 51,819 finite; 5,917 nominal/6,892 readings; global gates Open.
 
 Already closed locally: kram/ḍa/whole-ṭi-am deletion, negative retention, crocodile feminineṅīṣ and M/F48key49reading family. Genuine full unconstructed designated domains: navedas and napuṃsaka. Next: Navedas actual asun/root-guṇa/s-stem/6.4.14 and source meaning (K na vetti versus VCP na viparītaṃ vetti); retain competing semantic profiles, no unmarked harmonization. Napuṃsaka prescribed strī/puṃs→puṃsaka scope/gender still unconstructed. Nakra other senses/genders/quoted compound head/source collation, Nakṣatra's two source arms and prior S1–S7/C2–C5/native/Claude obligations remain Open. No original-source confirmation or language-wide denominator is invented.
+
+
+### PG528 · Actual asun marker and independent N num, semantic policy preserved
+
+PG528 constructs [Navedas asun pronunciation-u and source-scoped s-stem cases](navedas_asun_pronunciation_u_and_scoped_s_cases/README.md): 70 new nominal positions/73 readings; 72 keys/75 readings minus2old/conservative controls. One morphology adapter/one stem interface; one VCP entry observation; 0 finite additions. Asun-u is pronunciation aid, not ugit; Nplural num independently7.1.72. K na vetti and VCP no-incorrect-knowledge meanings remain distinct. Totals 51,819 finite; 5,987 nominal/6,965 readings; global gates Open.
+
+Already closed locally: vid1020059/asun/non-ugit/rootguṇa formation and VCP-wise tri0 M/F/N72key75reading family. Genuine full unconstructed designated analysis: napuṃsaka (actual prescribed strī/puṃs→puṃsaka and negative retention, source gender semantics). Unresolved Navedas source meaning: K literal na vetti and VCP na viparītaṃ vetti are not silently equated; K-specific head/reference/gender cases stay Open. VCP original Ṛgvedic line/accents remain uncollated. Nakṣatra two source arms and earlier critical/source/sense/gender/case/number/teacher/accent, S1–S7/C2–C5/native/Claude remain Open. No source uncertainty becomes an exclusion.
