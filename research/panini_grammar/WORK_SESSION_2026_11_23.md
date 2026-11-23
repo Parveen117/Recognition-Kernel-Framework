@@ -287,3 +287,11 @@ then the distinct ṛc student/school versus sāman/sūkta/kap alternatives
 if not closed by a later packet;review every actual dependency first.
 Preserve possession_adverbials/RULES_5_4_B.md and compound_sound_accent/
 PREDECESSOR_REVIEW.md as frozen predecessors,not rewritten coverage.
+
+## PG515 · Relation-owned axle guard and disjoint output interfaces
+
+Fetched clean aligned actual parent 5abafff27603b06cd6d5737c139e606913cacecd;PG514published tree2d822370e64ff6fae8dad6ae978becd6816d64c6.PG514Python3.12.14/435assertions/1attempt.AGENTS,mathindex,PG514STATE/current/handoff and actual preserved registers read.One repository sequential,no agents/new automation/other editing observed.
+
+PG515 constructs [dhur axle-relation/plain-a and typed unsuffixed controls](dhur_axle_relation_plain_a_and_typed_unsuffixed_controls/README.md):1morphology adapter/4controlled readouts,0finite/nominal/source additions.Relational axle guard handles GENpart and external-bearer frames;plaina versus r-final output types retained.K rājadhurā selected,Nyāsa rājadhūrā critical reading Open.Mahādhura retains internal puṃvad/coreference and externalM.Totals51,819finite;5,614nominal/6,568readings;global gates Open.
+
+Actualnew0finitepositions/0finitereadings;0nominalpositions/0nominalreadings;1morphologyadapter4controlled readouts;0sourceobservations.Cumulative51,819finite;5,614nominal/6,568nominalreadings.Tattva/Nyāsa relationguard counters separateakṣa-first/externalheadtests.Nonaxleplaina andFṭāp;sourceordinarymahatpuṃvad/āretainsinner/outergender.Axler-memberoutputsnotcase-readya-stems.Sourceu/ūdifferencekeptOpen.No inventedroot/pada/voice/preverbbehinddhūḥdisplay.PG14E/A/Gtypedzerosquareinpacket.Checksinpacket;grammar/generators/old suites/replayClaude-deferred.PG335/PG357–363frozen.GlobalcompletionOpen.Concreteremaining source/case/ṛc/kap tasks inbacklog.Fetch/expectedparent/nonforceexistingreviewpublicationonly.

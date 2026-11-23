@@ -1,4 +1,4 @@
-# Written-development backlog at PG514
+# Written-development backlog at PG515
 
 Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
@@ -711,3 +711,9 @@ then the distinct ṛc student/school versus sāman/sūkta/kap alternatives
 if not closed by a later packet;review every actual dependency first.
 Preserve possession_adverbials/RULES_5_4_B.md and compound_sound_accent/
 PREDECESSOR_REVIEW.md as frozen predecessors,not rewritten coverage.
+
+## PG515 · Dhur owned adapter,source/word frontiers remain
+
+PG515 constructs [dhur axle-relation/plain-a and typed unsuffixed controls](dhur_axle_relation_plain_a_and_typed_unsuffixed_controls/README.md):1morphology adapter/4controlled readouts,0finite/nominal/source additions.Relational axle guard handles GENpart and external-bearer frames;plaina versus r-final output types retained.K rājadhurā selected,Nyāsa rājadhūrā critical reading Open.Mahādhura retains internal puṃvad/coreference and externalM.Totals51,819finite;5,614nominal/6,568readings;global gates Open.
+
+PG514dhuradapter pointer superseded only on these4typed frames.PG37/38qualifier register unchanged,no recredit.Concrete remaining:source short-u rājadhurāF/mahādhuraM cases;proper dhur lexical/root/pada evidence before r-final case realization;Nyāsa long-u source-critical decision;ṛc student/school versus sāman/sūkta/kap mechanisms.Source differences remain Open,not excluded to close coverage.S1-S7/C2-C5/native/Claude separate.

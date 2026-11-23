@@ -1,0 +1,117 @@
+{
+  "stage": "PG515",
+  "paths": [
+    {
+      "id": "RAJA_GEN_NONAXLE",
+      "input": "supplied rāja|dhur GEN tatpuruṣa,known non-axle source sense,Fhead",
+      "axle_relation": false,
+      "compound_type": "tatpuruṣa",
+      "suffix": "plain a5.4.74,not ac/ḍac",
+      "trace": [
+        "retain GEN/sup-luk and sourceFdhur head",
+        "dhur+S_a→dhura",
+        "ordinary ṭāp4.1.4,6.1.101 a+ā→ā"
+      ],
+      "readout": "rājadhurā",
+      "output_type": "CaseReadyFeminineAStem"
+    },
+    {
+      "id": "MAHATI_BV_NONAXLE",
+      "input": "supplied licensed mahatī/mahat correspondence,internal coreference with non-axle dhur,externalMbearer",
+      "axle_relation": false,
+      "compound_type": "bahuvrīhi",
+      "suffix": "plain a5.4.74,not ac/ḍac",
+      "trace": [
+        "source Nyāsa puṃvad route:restore corresponding mahat,retain female input/referent history",
+        "6.3.46 terminalt→ā then preceding a+ā coalescence givesmahā",
+        "dhur+S_a→dhura;externalMreadoutmahādhura"
+      ],
+      "readout": "mahādhura",
+      "output_type": "CaseReadyMasculineAStem"
+    },
+    {
+      "id": "AKSA_GEN_AXLE",
+      "input": "akṣa|dhur GEN tatpuruṣa;dhur is axle-related part",
+      "axle_relation": true,
+      "compound_type": "tatpuruṣa",
+      "suffix": null,
+      "trace": [
+        "source-qualified axle relation blocks only5.4.74aedge",
+        "retain original r-final dhur member and compound case history"
+      ],
+      "readout": "akṣadhur",
+      "output_type": "UnsuffixedRFinalCompoundMember"
+    },
+    {
+      "id": "DRDHA_BV_AXLE",
+      "input": "dṛḍhā dhūr asya akṣasya;supplied bahuvrīhi,axle external bearer",
+      "axle_relation": true,
+      "compound_type": "bahuvrīhi",
+      "suffix": null,
+      "trace": [
+        "axle-related dhur blocks5.4.74aedge despite first member notakṣa",
+        "retain r-final member and external axle bearer separately"
+      ],
+      "readout": "dṛḍhadhur",
+      "output_type": "UnsuffixedRFinalCompoundMember"
+    }
+  ],
+  "controls": [
+    {
+      "id": "AKSA_FIRST_STRING_TEST",
+      "status": "Excluded_incomplete_guard",
+      "reason": "misses dṛḍhadhur external-axle frame"
+    },
+    {
+      "id": "OUTER_HEAD_AXLE_ONLY",
+      "status": "Excluded_incomplete_guard",
+      "reason": "misses akṣadhur GENpart frame"
+    },
+    {
+      "id": "ALL_BASES_ANAKSA",
+      "status": "Excluded_scope_error",
+      "reason": "axle qualifier belongs to dhur,not all ṛc/pur/ap/pathin"
+    },
+    {
+      "id": "BAHUVRIHI_ONLY",
+      "status": "Excluded_scope_error",
+      "reason": "5.4.74 is general across compound types"
+    },
+    {
+      "id": "AP_IS_AFFIX_AP",
+      "status": "Excluded_parse_error",
+      "reason": "plain a is prescribed;ap water is another listed base"
+    },
+    {
+      "id": "SAME_A_IMPORTS_DAC_MARKERS",
+      "status": "Excluded_owner_error"
+    },
+    {
+      "id": "RAJADHURA_LONG_U",
+      "status": "Open_source_lexical_critical_collation"
+    },
+    {
+      "id": "R_FINAL_CONTROL_IS_CASE_READY_A_STEM",
+      "status": "Excluded_output_type_error"
+    },
+    {
+      "id": "UNKNOWN_AXLE_RELATION",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 4,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0
+  },
+  "input_scope": "known licensed nominal compound,dhur ownership/axle relation,source sense and actual gender/correspondence where needed;no verbal root-ID/sense/pada/voice/preverb inferred",
+  "source_displays": {
+    "AKSA_GEN_AXLE": "K akṣadhūḥ,not newly derived nominative here",
+    "DRDHA_BV_AXLE": "raw dṛḍhadhūrakṣaḥ;Nyāsa explicitly parses dṛḍhā dhūr asya akṣasya;no forced lexical single-token interpretation"
+  },
+  "output_scope": "labelled disjoint CaseReadyFeminineAStem/CaseReadyMasculineAStem/UnsuffixedRFinalCompoundMember;4controlled readouts,not4new inflected words"
+}

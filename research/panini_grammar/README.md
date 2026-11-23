@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG515 constructs [dhur axle-relation/plain-a and typed unsuffixed controls](dhur_axle_relation_plain_a_and_typed_unsuffixed_controls/README.md):1morphology adapter/4controlled readouts,0finite/nominal/source additions.Relational axle guard handles GENpart and external-bearer frames;plaina versus r-final output types retained.K rājadhurā selected,Nyāsa rājadhūrā critical reading Open.Mahādhura retains internal puṃvad/coreference and externalM.Totals51,819finite;5,614nominal/6,568readings;global gates Open.
+
 PG514 completes [near-count plural head genders with retained an/ti/at histories](near_count_plural_head_genders_and_three_deletion_histories/README.md):276new nominal positions/276readings,0finite/source/separate construction credits.12stems×3genders×8plural cases288keys/readings minus12old/conservative Mnom.pl controls.Known near/excess/head evidence required,no universal±1bound;ṭāp/num/nuṭ and dental n blockers owned.Totals51,819finite;5,614nominal/6,568readings;global gates Open.
 
 PG513 completes [nistriṃśa sword/years head-measure case products](nistrimsa_sword_and_years_head_typed_cases/README.md):35new nominal positions/36readings,0finite/source/separate construction credits.Msword24 plus Nyears30/40plural8each40keys41readings minus5source/conservative controls.Length aṅgula versus year count preserved;ś blocks outer ṇ;one Mabl.sg pause pair.Totals51,819finite;5,338nominal/6,292readings;global gates Open.
