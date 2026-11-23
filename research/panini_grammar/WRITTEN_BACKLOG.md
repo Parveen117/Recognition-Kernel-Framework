@@ -1,6 +1,6 @@
-# Written-development backlog at PG512
+# Written-development backlog at PG513
 
-Monty · 23 November 2026 · reviewed parent 3a8981458139852afa17565e6f0fc4d6a41740b8.
+Monty · 23 November 2026 · reviewed parent fba13da67b12eb31535e578b91a4417cc7d26f4d.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -687,3 +687,9 @@ PG510 pluralcase pointer superseded only for supplied counted M/F/Nhead/policy f
 PG512 constructs [near-count ḍac and crossed-limit tatpuruṣa source policies](near_count_dac_and_nistrimsa_tatpurusa_scope_policies/README.md):2morphology adapters/14stem readouts,1primary electronic Bhāṣya54073 observation;0finite/nominal additions.Near-count2.2.25 differs from restricted nis numeral-tatpuruṣa;an/ti/at targets and6.1.97pararūpa owned.Primary explicit-both/avyaya-sufficient histories retained;same upagaṇa spelling does not proveḍac/accent.Totals51,819finite;5,303nominal/6,256readings;global gates Open.
 
 PG511 near-count/nistrimśa pointers superseded only for supplied12near-count/2crossed-limit stems.Primary54073restriction locator locally CLOSED,not independent print/critical final-alternative resolution.Genuine next:source yearsNversus swordM nistriṃśa cases and right-member semantic membership;near-count external plural gender/cases with known proximity/excess(never invented universal±1bound).Other compound/prefix/head/abstract/bahu-gaṇa/accent/teacher/source policies remain Open.S1-S7/C2-C5/native/Claude separate,S5fourfields99/103direct.
+
+## PG513 · Source-head case products;actual remaining near-count queue
+
+PG513 completes [nistriṃśa sword/years head-measure case products](nistrimsa_sword_and_years_head_typed_cases/README.md):35new nominal positions/36readings,0finite/source/separate construction credits.Msword24 plus Nyears30/40plural8each40keys41readings minus5source/conservative controls.Length aṅgula versus year count preserved;ś blocks outer ṇ;one Mabl.sg pause pair.Totals51,819finite;5,338nominal/6,292readings;global gates Open.
+
+PG512 yearsN/swordM case pointer superseded only on source sword30M24 and years30/40Nplural8each.Selected40keys41readings CLOSED;other heads/units/genders/numbers not globally excluded.Next actual unconstructed deliverable:12PG512near-count stems external plural M/F/Ncase products with known source proximity/excess and appropriate heads;ordinaryḍac ṭāp/num/nuṭ ownership required,3right-base deletion histories retained,all source example duplicates withheld.Other numerical/derived/compound semantics,independent printed/critical S1-S7/sourcecase/policy readings,fullaccent/Vedic/teacher and universal native C2-C5 remain Open,Claude execution separate.S5fourfields99/103direct.

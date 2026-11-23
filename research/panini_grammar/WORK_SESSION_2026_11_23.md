@@ -236,3 +236,28 @@ Clean aligned PG511parent 3a8981458139852afa17565e6f0fc4d6a41740b8;published tre
 PG512 constructs [near-count ḍac and crossed-limit tatpuruṣa source policies](near_count_dac_and_nistrimsa_tatpurusa_scope_policies/README.md):2morphology adapters/14stem readouts,1primary electronic Bhāṣya54073 observation;0finite/nominal additions.Near-count2.2.25 differs from restricted nis numeral-tatpuruṣa;an/ti/at targets and6.1.97pararūpa owned.Primary explicit-both/avyaya-sufficient histories retained;same upagaṇa spelling does not proveḍac/accent.Totals51,819finite;5,303nominal/6,256readings;global gates Open.
 
 Actualnew:0finitepositions/0finitereadings;0nominalpositions/0nominalreadings;2morphology/selectionunits14stemreadouts;1coherentprimaryelectronicBhāṣya54073sourceobservation,notindependentsecondwork.Cumulative51,819finite;5,303nominal/6,256nominalreadings.Wholeti6.4.142notfinali;internal6.1.97pararūpanotā;daśan-an/triṃśat-atownedseparately.PrimaryEXPLICIT_BOTHandAVYAYA_SUFFICIENTproofs kept,bothsameselectedextensiondecisions.TPavyayatestdoesnotblockordinarynear-countāsanna/adūra/adhikaBV.Nisnominalprādinotautomaticallyverbalgati/upasarga.Tattvaupagaṇasameword/differentc_ITaccentcontrolretained,fullaccentOpen.PG14typedE/A/L/Qzerosquare inpacket.Checks inpacket;grammar/generators/old suites/replayClaude-deferred.FrozenPG335/PG357–363 preserved.Nextsourceheadcases/near-countpluralpanels genuine,globalgatesOpen.Fetch/expectedparent/nonforceexistingreviewpublicationonly.
+
+## PG513 · Source-head measures,cases and continuation checkpoint
+
+Clean aligned PG512parent fba13da67b12eb31535e578b91a4417cc7d26f4d;published tree3fc53a1974290165fd978f9580b9732937a7779a.PG512Python3.12.14/125assertions/2attempts(first unsandhied source matcher replaced by exact joined clause,no source/grammar claim change).One repository sequential,no agents/new automation/othereditor observed.Prose/factored/STATE/RELATION/TSVreview beforecredit.
+
+PG513 completes [nistriṃśa sword/years head-measure case products](nistrimsa_sword_and_years_head_typed_cases/README.md):35new nominal positions/36readings,0finite/source/separate construction credits.Msword24 plus Nyears30/40plural8each40keys41readings minus5source/conservative controls.Length aṅgula versus year count preserved;ś blocks outer ṇ;one Mabl.sg pause pair.Totals51,819finite;5,338nominal/6,292readings;global gates Open.
+
+Actualnew:0finitepositions/0finitereadings;35nominalpositions/36nominalreadings;0sourceobservations/separateconstructionunits.Cumulative51,819finite;5,338nominal/6,292nominalreadings.Swordlength30aṅgula≠years30/40span/count;sourceheadgender/numberdomainnotcartesianexpanded.Śblocksnewnretroflexion,inneranusvāra≠outernum/nuṭ.OneMabl.sgavasānat/dpair;Nyearspluralnoextra.Worktablesauthoredliteral.PG14dependenthead/measurecaseA/S/Pzerosquareinpacket.Checks inpacket;grammar/generator/untouchedold suites/replayClaude-deferred.PG335/PG357–363 preserved.Nextactualnear-count12stemexternalpluralpanelsandglobalS1-S7/C2-C5/native/source/teacher obligations remainOpen;no completion or blocker manufactured.Fetch/expectedparent/nonforceexistingreview publicationonly.
+
+### PG506–PG513 actual additions in this continuation
+
+Baseline PG5050ee70716fcf6ac63672eab44adfc09ad6fdf787c:51,819finite;5,179nominal/6,128nominalreadings.Through PG513:0newfinitepositions/0finitereadings;159newnominalpositions/164readings;7newmorphology/selectionunits68stemreadouts;1semanticcontract5policyrecords;2coherentprimaryelectronicentryobservations(22025/54073),not2independentworks.GlobalwrittencompletionOpen;no elapsed-hours/ETA claim.
+
+|Stage|Published exact commit before this checkpoint|New nominal positions/readings|Other actual credits|
+|---|---|---|---|
+|PG506|995ac7b54fbcbff8c1885087a457dfa129e7d859|0/0|1morphology3readouts/6M-F histories|
+|PG507|59782ff8997b6519ada28f5cdecca588fe1b8339|0/0|2morphology4readouts/5histories|
+|PG508|15194716c3b6e045402385cc0021d4f7e08cfc1d|55/59|64keys68readings minus9old controls|
+|PG509|57be771f74831cabd91d7477d3205e370874d3fc|0/0|1morphology44readouts/27frames42branches;PG510additivequerycorrection retained|
+|PG510|f984f94b4a247e9b9a8119be1748f8917e34fda9|0/0|1morphology3stems,1semantic5policies,1primary22025observation|
+|PG511|3a8981458139852afa17565e6f0fc4d6a41740b8|69/69|72pluralkeys minus3old Mnom.pl|
+|PG512|fba13da67b12eb31535e578b91a4417cc7d26f4d|0/0|2morphology14stems,1primary54073observation|
+|PG513|This changed-file checkpoint;use branch commit containing this packet|35/36|40keys41readings minus5old/conservative controls|
+
+All newfinite/nominal additions separated from source/otherconstruction units.Necessary packetchecks only,explicitPython3.12;fullgrammar/generators/untouchedold/navigation/engine suites/replay deferred toClaude.Closed old actor/niṣṭhā/passive/PG357–363/PG335 results preserved.No mainmerge/force/newautomation/subagents.Global source reading obligations remainOpen rather than administrative exclusions.
