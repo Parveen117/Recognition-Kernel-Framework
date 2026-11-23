@@ -1,6 +1,6 @@
-# Written-development backlog at PG566
+# Written-development backlog at PG567
 
-Monty · 23 November 2026 · reviewed current parent ef778d2d8445901bab2021cec53f9ee6d013d49b; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent bfefcee50d202496420bd1079734d799a3275059; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1067,3 +1067,10 @@ Selected4–6localcontractsCLOSED;raw54004critical/reported5rejection/othercompo
 PG566 constructs [type-kan member scopes,appearance and textual parent variants](sthula_type_kan_member_scopes_appearance_and_textual_parent_variants/README.md):1morphology adapter19stems;1semantic contract3kinds;2source observations;0word/newpolicycredits. Namedtargetandpāṭha/actual-apparentpropertiesretainowners;combinedtype+ajñātaword/remaininggaṇascopesOpenwithoutguessedka-collapse. Totals51,819finite;6,384nominal/7,583readings;PG555−1retained/global gates Open.
 
 Selected19steminterfacesCLOSED;notwholegaṇaclosure. Pādya/kāla/avadātasurā/Jīrṇaśāli/māṣeṣuparseandcombinedtype+ajñātaword/innerBṛhat/Fcase/accentgenuineOpen. Nextactual7–10;C2-C5/S1-S7/prior100/104/106scene/source/native/Claudeunchanged.
+
+
+### PG567 · Specified self-sense interfaces and actual joint restrictions
+
+PG567 constructs [self-sense kha, direction/gender, jāti bearer and station ownership](selfsense_kha_direction_gender_jati_and_station_ownership/README.md): four morphology adapters/22 stem interfaces; one compound adapter/five inputs; one scope contract/six readouts; two source observations; zero word or new-policy credits. Actual suffix/replacement/member/gender and rival source accounts retain owners. Totals 51,819 finite; 6,384 nominal/7,583 readings; wider gates Open.
+
+5.4.7–10 selected interfaces locally closed. Supplied āśitagu inner kta/go→gu and rāja seam, full añc origin, wider mandatory-family and contextual agreement policies, all cases/accent remain genuine Open work. Next 5.4.11–14 after predecessor review. C2–C5/S1–S7 and prior textual/native frontiers remain Open; no gap converted to an exclusion. Claude-deferred execution is separate.
