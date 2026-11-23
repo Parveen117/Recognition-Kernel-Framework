@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG582 constructs [case-owned trā and repetition before ḍāc](research/panini_grammar/case_owned_tra_and_dac_repetition_before_suffix/README.md): three formation adapters/17 avyaya interfaces, two syntax contracts/five frames, three meaning contracts/seven frames and two source observations. Zero word/accent/new-policy credits. Source case, intended-suffix order, disjoint lopa/junction recipients and nonimitative domains retained; wider gates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
+
 PG581 constructs [sāti quantifiers, ownership and gift trā](research/panini_grammar/sati_quantifiers_ownership_and_gift_tra/README.md): four formation adapters/eight avyaya interfaces, two meaning contracts/six frames, one verb-domain contract/four supplied contexts and two source observations. Zero word/accent/new-policy credits. Selected relation uses explicit source-given sāt; citation-i and source/global gates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 
 PG580 constructs [cvi zero surface and result-bearer transformation](research/panini_grammar/cvi_zero_surface_and_result_bearer_transformation/README.md):two morphology adapters/13avyaya interfaces;two meaning contracts/six frames;one verb-connection contract/three supplied contexts;three source observations;zero word/accent/new-policy credits. Actual cvi and base/verb/role owners retained;source segmentation/parents and wider gatesOpen. Totals51,819finite;6,408nominal/7,631readings.

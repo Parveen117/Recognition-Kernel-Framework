@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG581
+# Pāṇini grammar · current written coverage at PG582
+
+PG582 constructs [case-owned trā and repetition before ḍāc](case_owned_tra_and_dac_repetition_before_suffix/README.md): three formation adapters/17 avyaya interfaces, two syntax contracts/five frames, three meaning contracts/seven frames and two source observations. Zero word/accent/new-policy credits. Source case, intended-suffix order, disjoint lopa/junction recipients and nonimitative domains retained; wider gates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 
 PG581 constructs [sāti quantifiers, ownership and gift trā](sati_quantifiers_ownership_and_gift_tra/README.md): four formation adapters/eight avyaya interfaces, two meaning contracts/six frames, one verb-domain contract/four supplied contexts and two source observations. Zero word/accent/new-policy credits. Selected relation uses explicit source-given sāt; citation-i and source/global gates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 

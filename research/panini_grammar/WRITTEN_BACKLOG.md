@@ -1,6 +1,6 @@
-# Written-development backlog at PG581
+# Written-development backlog at PG582
 
-Monty · 23 November 2026 · reviewed current parent 36f70d272636582fad06717873d6dcc1a7b26e71; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent bc64a2ffe5134af11cba0f775c7b3b456e01e379; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1172,3 +1172,10 @@ Selected50–51interfaces locally CLOSED. Actual52–55quantifier/transfer recip
 PG581 constructs [sāti quantifiers, ownership and gift trā](sati_quantifiers_ownership_and_gift_tra/README.md): four formation adapters/eight avyaya interfaces, two meaning contracts/six frames, one verb-domain contract/four supplied contexts and two source observations. Zero word/accent/new-policy credits. Selected relation uses explicit source-given sāt; citation-i and source/global gates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 
 Selected52–55conditionalinterfaces locally closed;fullupadeśarecipe sāti citation-i remains genuinelyOpen,not an exclusion. K/Nyāsaquantifierchannel selected;rawKaumudi53criticalreadingOpen. 56case-ownedtrā and57–60ḍāc genuinelyunconstructed. PriorC2–C5/S1–S7/lexical/source/native/globalobligations retained;Claudeexecutionseparate.
+
+
+### PG582 · Case trā and actual ḍāc recipes
+
+PG582 constructs [case-owned trā and repetition before ḍāc](case_owned_tra_and_dac_repetition_before_suffix/README.md): three formation adapters/17 avyaya interfaces, two syntax contracts/five frames, three meaning contracts/seven frames and two source observations. Zero word/accent/new-policy credits. Source case, intended-suffix order, disjoint lopa/junction recipients and nonimitative domains retained; wider gates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
+
+Selected56–60interfaces locally CLOSED. Ḍāc priorrepetition/firstjunction/finalṭi recipients explicit;61–67actualsemantics remain unconstructed. Source57kharaṭ/gharaṭ/dam-vamcriticalissues,fullaccent/citation-i and priorC2–C5/S1–S7/member/source/native/globalgatesOpen;Claudeexecutionseparate.
