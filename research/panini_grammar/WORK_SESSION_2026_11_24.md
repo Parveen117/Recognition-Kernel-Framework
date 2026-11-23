@@ -385,3 +385,19 @@ Twelve selected ordinary feminine case fibres locally CLOSED; Vedic/source/globa
 - 142patra, older critical/C2–C5/S1–S7/native/global scope and Claude-deferred execution remain distinct. Frozen predecessors/PG335/PG357–363 CLOSED unchanged; no ETA or full-Sanskrit claim.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG635 · Apadī Vedic dual coalescence and source-owned case fibre
+
+Previous publication: c5b5116ab03c93e749e3d5c552420368eda19b2f; tree d4ed47db40ff9108ead3b1c94419fa6e537c2bde. Necessary check: Python 3.12.14, 66 assertions, 1 attempt(s).
+
+PG635: [Apadī Vedic dual coalescence and source-owned case fibre](apadi_vedic_dual_coalescence_and_source_owned_case_fibre/README.md). One source-owned apadī24-key/25-reading fibre, including attested Vedic NOMdu coalescence:22 new unique nominal positions/23 readings after two source-position controls;one new dual adapter/two interfaces;one meaning frame;two scope/five records;three source observations. Census51,819 finite;7,359 nominal/8,594 readings. Unique Vedic inner analysis/accent and wider gates Open.
+
+PG521–635 cumulative:1,581 nominal positions/1,851 readings, zero finite;226 morphology/992 interfaces (812 nominal/stem+10 finite+170 avyaya);115 compound/568 plans;7 accent/27 records;134 semantics/411 records;91 syntax/251 records;27 source-policy decisions after PG555−1;260 observations (29 VCP+12 MW+4 PWG+35 primary Bhāṣya+31 paired commentary+59 Nyāsa+24 Tattva+37 Bāla+23 K cross-rule+1 primary Bhaṭṭabhāskara+1 primary Uṇādi corroboration+2 historical Vasu+1 primary Saṃhitā+1 primary Sāyaṇa). One provenance correction/one proof addendum; no new census correction.
+
+Selected apadī fibre and Vedic NOMdu coalescence locally CLOSED; alternative-inner/source/global gates Open.
+- Closed selected PG633139ṅīp apadī case fibre and source-attested NOMdu route under6.1.102/106, preserving ordinary apadyau and exact ī/au replacement participants. Actual source NOMsg/NOMdu controls uncredited.
+- Unique historical Vedic inner suffix analysis, consonant-apad alternative strong/weak/bha/ending proof, full Vedic case alternatives/recitation/accent and independent print remain Open; no unsupported generalī-ending analysis adopted.
+- K139eight/extended139seven, additional128 variants/inner meanings,142patra and prior C2–C5/S1–S7/native/global work remain Open. Claude execution distinct; frozen PG335/PG357–363 CLOSED preserved.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

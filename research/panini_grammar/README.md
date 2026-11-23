@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG635: [Apadī Vedic dual coalescence and source-owned case fibre](apadi_vedic_dual_coalescence_and_source_owned_case_fibre/README.md). One source-owned apadī24-key/25-reading fibre, including attested Vedic NOMdu coalescence:22 new unique nominal positions/23 readings after two source-position controls;one new dual adapter/two interfaces;one meaning frame;two scope/five records;three source observations. Census51,819 finite;7,359 nominal/8,594 readings. Unique Vedic inner analysis/accent and wider gates Open.
+
 PG634: [Twelve additional feminine case fibres and inner-number scope](twelve_additional_feminine_case_fibres_and_inner_number_scope/README.md). 288 literal case keys/readings minus12 source NOMsg controls:276 new unique nominal positions/276 readings, zero finite or additional construction/source/accent credits. Census:51,819 finite;7,337 nominal/8,571 readings. Inner numeral counts and source-specific Viṣṇu route retained; apadī Vedic dual Open.
 
 PG633: [Eight padī lexical domains and resolved named128 meanings](eight_padi_lexical_domains_and_resolved_named128_meanings/README.md). Eight139 feminine heads/nine meaning interfaces and five128 action/time meaning interfaces;two formation/compound adapters,14 interfaces/plans;three meaning/14 records;four scope/11 records;18 source observations/two source decisions. Zero new word/accent credits; census51,819 finite;7,061 nominal/8,295 readings. Original K128 selected list closed; extended/critical work Open.

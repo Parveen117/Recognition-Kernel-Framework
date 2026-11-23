@@ -1,6 +1,6 @@
-# Written-development backlog at PG634
+# Written-development backlog at PG635
 
-Monty · 2026-11-24 · reviewed current parent b8778771ad176ca9c920a3f0faeca8d8eabdd96e; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent c5b5116ab03c93e749e3d5c552420368eda19b2f; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1645,3 +1645,14 @@ Twelve selected ordinary feminine case fibres locally CLOSED; Vedic/source/globa
 - Closed twelve selected ordinary feminine case fibres, with twelve source NOMsg controls withheld. Viṣṇupadī uses only its VCPac/ṅīṣ branch; polysemous heads have one counted fibre each.
 - Actual apadī Vedic-dual ending/source/recitation request remains Open, alongside K139eight/extended139seven and additional128 variants/inner semantics; no ordinary-case construction settles those textual gates.
 - 142patra, older critical/C2–C5/S1–S7/native/global scope and Claude-deferred execution remain distinct. Frozen predecessors/PG335/PG357–363 CLOSED unchanged; no ETA or full-Sanskrit claim.
+
+
+### PG635 · Apadī Vedic dual coalescence and source-owned case fibre
+
+PG635: [Apadī Vedic dual coalescence and source-owned case fibre](apadi_vedic_dual_coalescence_and_source_owned_case_fibre/README.md). One source-owned apadī24-key/25-reading fibre, including attested Vedic NOMdu coalescence:22 new unique nominal positions/23 readings after two source-position controls;one new dual adapter/two interfaces;one meaning frame;two scope/five records;three source observations. Census51,819 finite;7,359 nominal/8,594 readings. Unique Vedic inner analysis/accent and wider gates Open.
+
+Selected apadī fibre and Vedic NOMdu coalescence locally CLOSED; alternative-inner/source/global gates Open.
+
+- Closed selected PG633139ṅīp apadī case fibre and source-attested NOMdu route under6.1.102/106, preserving ordinary apadyau and exact ī/au replacement participants. Actual source NOMsg/NOMdu controls uncredited.
+- Unique historical Vedic inner suffix analysis, consonant-apad alternative strong/weak/bha/ending proof, full Vedic case alternatives/recitation/accent and independent print remain Open; no unsupported generalī-ending analysis adopted.
+- K139eight/extended139seven, additional128 variants/inner meanings,142patra and prior C2–C5/S1–S7/native/global work remain Open. Claude execution distinct; frozen PG335/PG357–363 CLOSED preserved.
