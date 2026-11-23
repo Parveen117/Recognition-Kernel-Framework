@@ -1,6 +1,6 @@
-# Written-development backlog at PG597
+# Written-development backlog at PG598
 
-Monty · 23 November 2026 · reviewed current parent 3f6ae4e8f28cffdabdd9c398213530c32378af4a; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 3f43b48a750138dc66d495da43e38a8584c79615; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1286,3 +1286,10 @@ Selected91–92interfaceslocallyCLOSED;6sourceM91a-stemcasefamiliesnext. Prospec
 PG597 closes [six ṭac masculine case panels](six_tac_masculine_case_panels_and_compound_nasal_options/README.md): 144 authored keys/152 readings; withhold six source NOMsg controls = 138new unique nominal positions/146readings. Paramāha INSsg/GENpl retain optional ṇ/n under8.4.11;zero finite/separate construction/source credits. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
 
 Supersedes PG596 sixMcase-next obligation on these exact sixprofiles only.8.4.11firstmembertrigger gives optional paramāhaINSsg/GENplnasals;notmandatorygeneric84001. Feminine/othergenders/accent/sourcecritical and93onward/daśabhūmaka/pur/palya/citation-i/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
+
+
+### PG598 · Meaning/gender/source-tree contracts93–98
+
+PG598 constructs [chief, kind/name, craft and dog-comparison ṭac owners](chief_kind_name_craft_and_dog_comparison_tac_owners/README.md): six recipes/21 stems(22contexts),six compound contracts/22plans,five meaning contracts/14frames,five observations. Zero word/accent/new-policy credits;chiefN,actualṅīp and sourcecomparison/livelihood accounts retained. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
+
+Selected21steminterfaceslocallyCLOSED;wholejāti/sañjñāmembershipunmeasured. Exactsevā/senāparentreading,rawcomparisonreference/alternateheading,innerkauṭa/fullcases/genders/accentOpen. Actual99onwardandearlierdaśabhūmaka/pur/palya/citation-i/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.

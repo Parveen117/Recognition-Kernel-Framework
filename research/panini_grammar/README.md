@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG598 constructs [chief, kind/name, craft and dog-comparison ṭac owners](chief_kind_name_craft_and_dog_comparison_tac_owners/README.md): six recipes/21 stems(22contexts),six compound contracts/22plans,five meaning contracts/14frames,five observations. Zero word/accent/new-policy credits;chiefN,actualṅīp and sourcecomparison/livelihood accounts retained. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
+
 PG597 closes [six ṭac masculine case panels](six_tac_masculine_case_panels_and_compound_nasal_options/README.md): 144 authored keys/152 readings; withhold six source NOMsg controls = 138new unique nominal positions/146readings. Paramāha INSsg/GENpl retain optional ṇ/n under8.4.11;zero finite/separate construction/source credits. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
 
 PG596 constructs [ṭac base ownership and prospective go-LUK domain](tac_base_ownership_and_prospective_go_luk_domain/README.md): two recipes/13 interfaces,ten ṭac and three valid no-ṭac;two compound contracts/13 plans,one LUKscope/four frames,one meaning/three frames and three observations. Zero word/accent/policy credits. Actual gender/base,adjectivaluttama,purchase/aggregate and prospectivetaddhita-LUK owners retained. Totals 51,819 finite;6,463 nominal/7,689 readings;wider gates Open.

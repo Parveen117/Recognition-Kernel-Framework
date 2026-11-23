@@ -1,0 +1,181 @@
+{
+  "schema": "rkf.panini.pg598.state.v1",
+  "author": "Monty",
+  "date": "2026-11-23",
+  "publication_parent": "3f43b48a750138dc66d495da43e38a8584c79615",
+  "baseline": {
+    "commit": "3f43b48a750138dc66d495da43e38a8584c79615",
+    "path": "research/panini_grammar/six_tac_masculine_case_panels_and_compound_nasal_options/STATE.json"
+  },
+  "finite_positions": 51819,
+  "nominal_positions": 6601,
+  "nominal_readings": 7835,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14",
+    "document_check_attempts": 1,
+    "document_check_assertions": 108
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "99onwardandfullcase/gender/accentfamiliesbeyondselected21stemsremainOpen;noalljāti_sañjñāmembershipclosure.",
+    "K_Bāla96sevāversusKaumudi96senā,rawBāla93heading/Nyāsa98referencecriticalreadingsandinnerkauṭaderivationremainOpen;exactnamedcomparisonaccountsretained.",
+    "Priordaśabhūmaka/pur/palya/citation-i/sourcecritical/lexical/C2–C5/S1–S7/native/globalworkremainOpen;Claudeexecutiondeferred."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "local_closure": "Selected93–98twentyoneownedstems22sourcecontextsandconditionalcontractsCLOSEDlocally;namedmembership/critical/inner/fullcases/globalOpen",
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_source_observations": 5,
+  "new_morphological_constructions": 6,
+  "new_morphological_readouts": 21,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "new_syntactic_constructions": 0,
+  "new_syntactic_readouts": 0,
+  "new_accent_constructions": 0,
+  "new_accent_readouts": 0,
+  "new_compound_constructions": 6,
+  "new_compound_readouts": 22,
+  "position_accounting": {
+    "new_morphological_constructions": 6,
+    "new_morphological_readouts": 21,
+    "new_compound_constructions": 6,
+    "new_compound_readouts": 22,
+    "new_semantic_constructions": 5,
+    "new_semantic_readouts": 14,
+    "new_source_observations": 5,
+    "new_source_policy_decisions": 0,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  },
+  "inherited_additive_corrections": [
+    {
+      "target_commit": "8c72fd57b118bcd84dbb68075cf80a0609176045",
+      "path": "research/panini_grammar/determination_six_stems_singular_gender_cases/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "old_attribution": "Ṭā→ina7.1.9",
+      "correct_attribution": "Ṭā→ina7.1.12",
+      "evidence": "K7.1.12 explicitly ṭā/ṅasi/ṅas→ina/āt/sya;7.1.9 is bhis→ais",
+      "effect": "citation-only additive correction; all PG431 words, counts, frozen bytes and source pins unchanged"
+    },
+    {
+      "target_commit": "5a0389753e0eb02a9de45d7ef9ce42756008cf73",
+      "path": "research/panini_grammar/idam_owned_parts_case_pratyahara_and_hal_consumers/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "correction": "References spelling the2.4.32 teaching replacement āś should read aś, short a plus ś_IT; source अनुदात्तोऽशादेशः. Words/counters unchanged; frozen bytes preserved."
+    },
+    {
+      "targets": [
+        {
+          "commit": "1bf985f92577d1541855296fb1f980619e91744a",
+          "path": "research/panini_grammar/akac_yad_tad_three_genders_and_feminine_itva_block/DERIVATION_AND_NATIVE_RECOVERY.md"
+        },
+        {
+          "commit": "bbcfd94906ffed08eb36fd43ec05918b6ae0be38",
+          "path": "research/panini_grammar/akac_idam_feminine_m_retention_and_owned_itva/DERIVATION_AND_NATIVE_RECOVERY.md"
+        }
+      ],
+      "old_attribution": "āp-shortening7.2.107",
+      "correct_attribution": "āp shortening and syāṭ7.3.114",
+      "evidence": "K7.3.114 explicitly syāḍ āgamaḥ hrasvaś ca;K7.2.107 prescribes adas au/su-lopa,not this feminine operation",
+      "effect": "citation-only additive correction,all frozen bytes/word tables/counters unchanged;PG419 already has correct owned7.3.114 proof"
+    },
+    {
+      "target_commit": "5642bad8ddfb1e5add4c09b525461525163b7f6c",
+      "path": "research/panini_grammar/inanimate_bhu_stha_causees_and_pada_guards/SOURCES.json",
+      "field": "upstream_pins entry dhatu/data.txt git_blob_sha",
+      "historical_clean_blob_sha": "d39a41a998199e60e1c69740541dd78f1464e578",
+      "actual_upstream_blob_sha": "b5d0370790598ca969db659e7833ccf0df98a9a4",
+      "upstream_commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "evidence": "GitHub fetch_file metadata at exact commit returned raw blob b5d037;cached full-byte SHA256/length unchanged. git hash-object --no-filters matches raw b5d037;project text=auto cleaning of CRLF yields d39a41.",
+      "effect": "Additive provenance-metadata distinction only;frozen file,source bytes,root record,words and counters unchanged. New consumer uses actual upstream blob and retains historical clean hash explicitly."
+    },
+    {
+      "target_commit": "d25db450c4edfbbb6f320fbafdf60504f9d9a6ba",
+      "path": "research/panini_grammar/taddhita_relations/RULES_4_2_B.md",
+      "row": "4.2.115",
+      "old_reading": "भावत्क / भवतीय",
+      "correct_reading": "भावत्क / भवदीय",
+      "evidence": "K42115 and1.4.16 भवदीयः;actual sit→pada plus8.2.39 t→d",
+      "effect": "Additive authored-register spelling correction only;frozen register/source bytes and old word counters unchanged"
+    },
+    {
+      "target_commit": "57be771f74831cabd91d7477d3205e370874d3fc",
+      "target_paths": [
+        "research/panini_grammar/numeral_compound_replacement_choices_and_eighty_nonfactorability/RELATION.json",
+        "research/panini_grammar/numeral_compound_replacement_choices_and_eighty_nonfactorability/DERIVATION_AND_NATIVE_RECOVERY.md"
+      ],
+      "target_frames": [
+        "DVI_10",
+        "AṢṬAN_10",
+        "TRI_10"
+      ],
+      "old_label": "finished stem readouts ending daśa",
+      "corrected_label": "source-display/n-lopa-visible readout;underlying right member/whole compound retains n-final daśan history",
+      "correct_underlying_stems": [
+        "dvādaśan",
+        "aṣṭādaśan",
+        "trayodaśan"
+      ],
+      "evidence": "K7.1.22 gives source dash-display under jas/śas-luk,then8.2.7 n-lopa;this is not ṭi-an deletion by ḍac",
+      "effect": "additive query-type/underlying-record correction only;PG509 replacement membership,visible words,zero word credits,counters and frozen bytes unchanged;44readouts are not44fully inflectable terminal lexical stems"
+    },
+    {
+      "kind": "source_policy_credit_correction",
+      "target_commit": "b2737fff7665810d6fe79dc6f2fbeeb30096b41d",
+      "target_paths": [
+        "research/panini_grammar/disparagement_means_replica_and_resemblance_name_roles/STATE.json",
+        "research/panini_grammar/disparagement_means_replica_and_resemblance_name_roles/RELATION.json"
+      ],
+      "target_field": "new_source_policy_decisions",
+      "old_credit": 1,
+      "corrected_new_credit": 0,
+      "delta": -1,
+      "evidence_commit": "887e5b12239a6ffa289a92e968fd5101cb23876e",
+      "evidence_paths": [
+        "research/panini_grammar/possession_adverbials/SOURCE_REVIEW.md",
+        "research/panini_grammar/possession_adverbials/RULES_5_3_B.md"
+      ],
+      "reason": "74/95ka-versuskanpolicyalreadyexplicitlyadoptedinPG37;newprimarysupportisnotnewpolicy",
+      "unchanged": "PG5553semanticcontracts8readouts/1primaryobservation/allwordcounters/frozenbytes"
+    },
+    {
+      "kind": "register_path_provenance_correction",
+      "target_stages": [
+        "PG584",
+        "PG585",
+        "PG586",
+        "PG587",
+        "PG590",
+        "PG591",
+        "PG592",
+        "PG593"
+      ],
+      "previous_dependency": "possession_adverbials/RULES_5_4_A.md covers through67",
+      "correct_dependencies": [
+        "possession_adverbials/RULES_5_4_B.md covers68–85",
+        "compound_sound_accent/RULES_5_4.md covers86–160"
+      ],
+      "effect": "Add exact actual historical register pins;raw primary proofs/ownedrelations/words/counters/frozenpredecessorbytes unchanged. PG59386belongsPG38notPG37;no repeated policy credits."
+    }
+  ],
+  "new_provenance_corrections": 0,
+  "new_semantic_constructions": 5,
+  "new_semantic_readouts": 14,
+  "new_source_policy_decisions": 0,
+  "new_source_analysis_records": 0,
+  "new_morphological_permission_readouts": 0,
+  "new_accounting_corrections": 0
+}
