@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG604
+# Pāṇini grammar · current written coverage at PG605
+
+PG605 closes [three ṣac feminine case families](three_sac_feminine_case_panels_and_sounded_nasal_triggers/README.md): 72authored keys/readings minus three source NOMsg controls=69new unique nominal positions/69readings. Soundedrightṣversussilentṣ_IT andouterī/nuṭ retained;zero finite/separate construction/source/accent credits. Totals51,819finite;6,670nominal/7,904readings;wider gates Open.
 
 PG604 constructs [formal svāṅga,ṣac feminines and wood-tool roles](formal_svanga_sac_feminines_and_daru_finger_roles/README.md): four new adapters/14interfaces(includingtwoacextensions),three compound contracts/14plans,three meaning contracts/ten frames,four observations and one qualified Tattva nonorgan decision. Zero word/accent credits;primarynonlivingformalextension,ṣac/ṣa/ac andṅīṣ/ṭāpretained. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
 

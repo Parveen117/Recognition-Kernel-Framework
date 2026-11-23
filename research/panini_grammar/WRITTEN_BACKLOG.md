@@ -1,6 +1,6 @@
-# Written-development backlog at PG604
+# Written-development backlog at PG605
 
-Monty · 23 November 2026 · reviewed current parent 4c6ab132224a7d7eca882641a17f018ce8406c25; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent f887777d5f107d3919462ae90f7fdc4624018bc0; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1335,3 +1335,10 @@ PrimaryBhāṣya11023nadīlexical/namesreplylocallyCLOSED;doesnotdirectlyproveTa
 PG604 constructs [formal svāṅga,ṣac feminines and wood-tool roles](formal_svanga_sac_feminines_and_daru_finger_roles/README.md): four new adapters/14interfaces(includingtwoacextensions),three compound contracts/14plans,three meaning contracts/ten frames,four observations and one qualified Tattva nonorgan decision. Zero word/accent credits;primarynonlivingformalextension,ṣac/ṣa/ac andṅīṣ/ṭāpretained. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
 
 Selected14interfaceslocallyCLOSED;primary41054formaldefinitionplusnonlivingarcāandTattvapratimāpositive. ThreeṣacFcasefamiliesnext. Tattva113qualifiednonorganacdecisionacceptedwithKoldcontrolfrozen/criticalOpen;Bālarawṅīp/nastaddhite,PG593measurelineage/fullaccent/116onwardandearlierdaśabhūmaka/pur/palya/citation-i/parokṣarecipe/Tattva106nested/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
+
+
+### PG605 · ThreeactualṣacFfamilies72/72CLOSED
+
+PG605 closes [three ṣac feminine case families](three_sac_feminine_case_panels_and_sounded_nasal_triggers/README.md): 72authored keys/readings minus three source NOMsg controls=69new unique nominal positions/69readings. Soundedrightṣversussilentṣ_IT andouterī/nuṭ retained;zero finite/separate construction/source/accent credits. Totals51,819finite;6,670nominal/7,904readings;wider gates Open.
+
+SupersedesPG604threeFcase-nextonlyonactualdīrghasakthī/jalajākṣī/śobhanākṣī. GENpldentalnversussoundedrightṣ-triggeredṇ,not silentmarker. Othergenders/profiles/cases/fullaccent/116onwardandPG604criticalsource/PG593measurelineage/earlierdaśabhūmaka/pur/palya/citation-i/parokṣarecipe/Tattva106nested/othercritical/lexical/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutiondeferred.
