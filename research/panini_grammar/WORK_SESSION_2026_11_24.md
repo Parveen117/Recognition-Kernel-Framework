@@ -145,3 +145,19 @@ Selected141 datṛ/nuṃ/feminine traces locally CLOSED;142 and wider written ga
 - Next142 source decisions then143–160 named changes and residual kap. Exact13918-member list,12813-member list/two bāhu senses/prohyapadi and all prior textual/lexical/C2–C5/S1–S7/native/global work remain Open; Claude execution distinct.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG620 · Vedic teeth, Bhaṭṭabhāskara nuṃ absence and distinct first members
+
+Previous publication: 9261c16f35ee5ba8a548eabf91a3e05f76598e5f; tree f642d8176f777b33bf6f3002cf2d62fb4216e5f7. Necessary check: Python 3.12.14, 60 assertions, 1 attempt(s).
+
+PG620: [Vedic teeth, Bhaṭṭabhāskara nuṃ absence and distinct first members](vedic_teeth_bhattabhaskara_num_absence_and_distinct_first_members/README.md). Two formation adapters/four interfaces; two compound contracts/three plans; one meaning contract/two records; two scope contracts/four records; three observations/one primary-commentary source decision. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+PG521–620 cumulative:938 nominal positions/1,207 readings, zero finite;190 morphology constructions/833 interfaces (667 nominal/stem+10 finite+156 avyaya);83 compound contracts/408 plans;7 accent/27 records;95 semantics/278 records;51 syntax/156 records;20 source-policy decisions after PG555−1;185 observations (6 VCP+35 primary Bhāṣya+26 paired commentary+52 Nyāsa+22 Tattva+29 Bāla+14 K cross-rule+1 primary Bhaṭṭabhāskara). One additive register-provenance correction; no new census effect.
+
+Selected142 ubhaya/ubhayatas source traces locally CLOSED; patra interpretation and wider written gates Open.
+- Closed selected142 ubhayādat witnessed first-long-ā/nuṃ-absence and separate ubhayatodat ACCpl source traces. PG38 generic Vedic scope is not recredited.
+- Open: patradatam exact patra sense/gender/case/nuṃ; original printed-source collation and general āgama-anityatva versus particular chāndasa policy; full Vedic case/accent products.
+- Next143–160 named changes/residual kap, exact13918-member and12813-member registers, two bāhu senses/prohyapadi, older textual/lexical/C2–C5/S1–S7/native/global obligations; Claude execution remains distinct.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

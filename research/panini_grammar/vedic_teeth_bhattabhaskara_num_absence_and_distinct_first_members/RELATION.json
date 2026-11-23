@@ -1,0 +1,208 @@
+{
+  "stage": "PG620",
+  "title": "Vedic teeth, Bhaṭṭabhāskara nuṃ absence and distinct first members",
+  "predecessor_review": "PG619 left patradatam case/nuṃ, ubhayādat long ā and separate ubhayatodat parents Open. PG38 already states142 broadens age/numeral restrictions; zero generic-policy recredit. Actual old RELATION/FORMS did not construct these selected profiles. New pinned Bhaṭṭabhāskara commentary positively closes the selected ubhayādataḥ first-length/nuṃ-absence reading; no claim every142 source gap is closed.",
+  "frames": [
+    {
+      "id": "PATRA",
+      "readout": "patradat",
+      "first": "patra_supplied_source",
+      "last": "danta",
+      "source": "K54142 patradatam",
+      "semantic_status": "Open_exact_patra_sense_and_citation_case",
+      "compound": "bahuvrīhi",
+      "register": "chandas",
+      "replacement": "datṛ",
+      "payload": "dat",
+      "markers": [
+        "ṛ_IT_UGIT"
+      ],
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "UBHAYATAS",
+      "readout": "ubhayatodat",
+      "first": "ubhayatas",
+      "last": "danta",
+      "source": "SK/Nyāsa54142 ubhayatodataḥ pratigṛhṇāti",
+      "semantic_status": "both-sided teeth supplied frame",
+      "compound": "bahuvrīhi",
+      "register": "chandas",
+      "replacement": "datṛ",
+      "payload": "dat",
+      "markers": [
+        "ṛ_IT_UGIT"
+      ],
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "UBHAYA_PRE",
+      "readout": "ubhayadat",
+      "first": "ubhaya",
+      "last": "danta",
+      "source": "intermediate before witnessed6.3.137 length",
+      "semantic_status": "both-sided teeth supplied frame",
+      "compound": "bahuvrīhi",
+      "register": "chandas",
+      "replacement": "datṛ",
+      "payload": "dat",
+      "markers": [
+        "ṛ_IT_UGIT"
+      ],
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    },
+    {
+      "id": "UBHAYA_LONG",
+      "readout": "ubhayādat",
+      "first": "ubhaya",
+      "last": "danta",
+      "source": "K54142 and pinned Bhaṭṭabhāskara",
+      "semantic_status": "both-sided teeth supplied frame",
+      "compound": "bahuvrīhi",
+      "register": "chandas",
+      "replacement": "datṛ",
+      "payload": "dat",
+      "markers": [
+        "ṛ_IT_UGIT"
+      ],
+      "root_id": null,
+      "preverb": null,
+      "pada": null,
+      "voice": null,
+      "position_credit": 0
+    }
+  ],
+  "source_word_controls": [
+    {
+      "id": "RV_NOM_PL",
+      "stem": "ubhayādat",
+      "gender": "M",
+      "case": "NOM",
+      "number": "PL",
+      "word": "ubhayādataḥ",
+      "num": "attested omission under Bhaṭṭabhāskara chāndasa account",
+      "credit": 0
+    },
+    {
+      "id": "SK_ACC_PL",
+      "stem": "ubhayatodat",
+      "gender": "M",
+      "case": "ACC",
+      "number": "PL",
+      "word": "ubhayatodataḥ",
+      "num": "śas is outside suṭ sarvanāmasthāna; no special omission needed",
+      "credit": 0
+    }
+  ],
+  "compound_contracts": [
+    {
+      "id": "K142",
+      "frames": [
+        "PATRA",
+        "UBHAYA_LONG"
+      ]
+    },
+    {
+      "id": "SK142",
+      "frames": [
+        "UBHAYATAS"
+      ]
+    }
+  ],
+  "semantic_contracts": [
+    {
+      "id": "BOTH_SIDES_TEETH",
+      "records": [
+        "ubhaya: upper/lower sides per supplied primary commentary",
+        "ubhayatas: on both sides, distinct actual adverb parent"
+      ]
+    }
+  ],
+  "syntactic_contracts": [
+    {
+      "id": "CHANDAS_SCOPE",
+      "records": [
+        "142 does not require141 age indication",
+        "142 does not require numeral/su first member"
+      ]
+    },
+    {
+      "id": "NUM_VISIBILITY",
+      "records": [
+        "M NOMpl ubhayādataḥ has explicit attested Vedic nuṃ absence",
+        "M ACCpl ubhayatodataḥ uses śas outside suṭ; no inferred free nuṃ option"
+      ]
+    }
+  ],
+  "source_observations": [
+    "Nyāsa142 broadens age/numeral subtype and raw śāsanta control",
+    "K/SK142 distinct ubhaya versus ubhayatas source parents",
+    "Pinned Bhaṭṭabhāskara ṭīkā explicitly datṛ,6.3.137 length and chāndasa nuṃ absence"
+  ],
+  "source_policy": {
+    "id": "BHATTABHASKARA_ATTESTED_NUM_ABSENCE",
+    "new_policy_credit": 1,
+    "adopted": "For this supplied Vedic ubhayādataḥ NOMpl branch, retain actual datṛ/ṛ_IT but follow the explicitly attested nuṃ-absence account; do not globally disable ugit or make nuṃ optional everywhere.",
+    "boundary": "independent printed Atharva witness mentions anityam āgamaśāsanam as a search lead only; no new critical collation or full edition attribution beyond consumed pinned label"
+  },
+  "controls": [
+    {
+      "id": "MERGE_FIRST_MEMBERS",
+      "status": "Excluded",
+      "reason": "ubhaya and ubhayatas are different original parents; long ā not sandhi replacement for tas"
+    },
+    {
+      "id": "UNIVERSAL_VEDIC_NUM_OPTION",
+      "status": "Excluded",
+      "reason": "selected primary witness, not arbitrary every-case omission"
+    },
+    {
+      "id": "UGIT_MARKER_ERASED",
+      "status": "Excluded",
+      "reason": "ṛ_IT survives despite selected missing nuṃ"
+    },
+    {
+      "id": "SVARA_COMPLETE",
+      "status": "Open",
+      "reason": "preserved accented text not new independent recitation/accent construction"
+    },
+    {
+      "id": "PATRA_CASE_GENDER",
+      "status": "Open",
+      "reason": "patradatam source case/gender and potential nuṃ interaction not decided by this witness"
+    },
+    {
+      "id": "ALL_NUM_THEORIES_CONFLUENT",
+      "status": "Open",
+      "reason": "specific chāndasa account versus wider āgama-anityatva not proved equivalent"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 2,
+    "new_morphological_readouts": 4,
+    "new_compound_constructions": 2,
+    "new_compound_readouts": 3,
+    "new_semantic_constructions": 1,
+    "new_semantic_readouts": 2,
+    "new_syntactic_constructions": 2,
+    "new_syntactic_readouts": 4,
+    "new_source_observations": 3,
+    "new_source_policy_decisions": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0
+  }
+}

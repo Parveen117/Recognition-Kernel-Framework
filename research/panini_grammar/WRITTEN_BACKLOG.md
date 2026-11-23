@@ -1,6 +1,6 @@
-# Written-development backlog at PG619
+# Written-development backlog at PG620
 
-Monty · 2026-11-24 · reviewed current parent 85ccd7e5724d8376a5f76abe9dfc63d48c8b0e5c; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 9261c16f35ee5ba8a548eabf91a3e05f76598e5f; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1480,3 +1480,14 @@ Selected141 datṛ/nuṃ/feminine traces locally CLOSED;142 and wider written ga
 - Closed selected141 age/datṛ/strong-case-asiddha/six/feminine traces. Old PG38 ugit/age policy and historical corrections are not recredited.
 - Open: full age-stem case/gender/accent panels, original Nyāsa numbering;142 Vedic patradatam case/nuṃ, ubhayādat long-ā and separate ubhayatodat source parents.
 - Next142 source decisions then143–160 named changes and residual kap. Exact13918-member list,12813-member list/two bāhu senses/prohyapadi and all prior textual/lexical/C2–C5/S1–S7/native/global work remain Open; Claude execution distinct.
+
+
+### PG620 · Vedic teeth, Bhaṭṭabhāskara nuṃ absence and distinct first members
+
+PG620: [Vedic teeth, Bhaṭṭabhāskara nuṃ absence and distinct first members](vedic_teeth_bhattabhaskara_num_absence_and_distinct_first_members/README.md). Two formation adapters/four interfaces; two compound contracts/three plans; one meaning contract/two records; two scope contracts/four records; three observations/one primary-commentary source decision. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+Selected142 ubhaya/ubhayatas source traces locally CLOSED; patra interpretation and wider written gates Open.
+
+- Closed selected142 ubhayādat witnessed first-long-ā/nuṃ-absence and separate ubhayatodat ACCpl source traces. PG38 generic Vedic scope is not recredited.
+- Open: patradatam exact patra sense/gender/case/nuṃ; original printed-source collation and general āgama-anityatva versus particular chāndasa policy; full Vedic case/accent products.
+- Next143–160 named changes/residual kap, exact13918-member and12813-member registers, two bāhu senses/prohyapadi, older textual/lexical/C2–C5/S1–S7/native/global obligations; Claude execution remains distinct.
