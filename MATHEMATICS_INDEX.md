@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG534 constructs [k-final avyaya joint-akac/d and primary grouped dialogue locator](research/panini_grammar/k_final_avyaya_akac_joint_d_and_primary_grouped_dialogue/README.md): 1morphology adapter/6boundary readings on3prototypes,1primaryBhāṣya53072entry observation;0new finite/nominal credits. Originalbasek→d,insertedak-k stays;pause t/d explicit. Primarybodylocatedadjacenttoheading-only53071;rawplacementpolarity/print remainsOpen. Totals unchanged51,819finite;6,057nominal/7,038readings; global gates Open.
+
 PG533 constructs [finite akac final-i and retained rudādi iṭ](research/panini_grammar/finite_akac_final_i_and_retained_rudadi_it/README.md): 1morphology adapter/4finite-expression interfaces;0new finite/nominal/source credits. Actualak beforeoriginalendingi gives pacataki/jalpataki/svapitaki/śvasitaki, earlierśap/iṭ retained. Kutsita/anukampā/source same-meaning competition distinct;Bhāṣya53071heading not dialogue. Totals unchanged51,819finite;6,057nominal/7,038readings; global gates Open.
 
 PG532 constructs [nañ-akac partial n-lopa and owned masculine cases](research/panini_grammar/nanj_akac_partial_lopa_and_masculine_case_owners/README.md): 23 new nominal positions/24 readings;24keys25readings minus1conservative source control. One morphology adapter/one stem interface;0finite/source additions. Reuse actualak, n|ak|a→naka then onlyoriginaln-lopa→aka;oldlexicalṇ blocks latercase-n ṇatva. Totals51,819finite;6,057nominal/7,038readings; global gates Open.

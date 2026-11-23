@@ -1,4 +1,4 @@
-# Written-development backlog at PG533
+# Written-development backlog at PG534
 
 Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
@@ -836,3 +836,10 @@ Already closed locally: admitted avyaya-nañ akac insertion/outercompound partia
 PG533 constructs [finite akac final-i and retained rudādi iṭ](finite_akac_final_i_and_retained_rudadi_it/README.md): 1morphology adapter/4finite-expression interfaces;0new finite/nominal/source credits. Actualak beforeoriginalendingi gives pacataki/jalpataki/svapitaki/śvasitaki, earlierśap/iṭ retained. Kutsita/anukampā/source same-meaning competition distinct;Bhāṣya53071heading not dialogue. Totals unchanged51,819finite;6,057nominal/7,038readings; global gates Open.
 
 Already closed locally: fourfixedsourceP3sgfiniteakac interfaces, actualak placement beforeoriginalfinali, retainedśap/rudādiiṭ and supplied kutsita/anukampā frames;0oldword/sourcecredits. Genuine unconstructed domains: otherperson/pada/lakāra/ending classes, general original-ending resolver, nested differing-meaning affixes and automatic intention parsing. Next positive avyaya-akac domain:5.3.72k-final dhik/hiruk/pṛthak with jointly prescribed finalk→d and originalpre-ṭi span, distinct from insertedak'sk. PrimaryBhāṣya53071heading-only witness does not close originalargument/source-accentcolllation. Earlier critical/source/lexical/case/number/gender/native andS1–S7/C2–C5/Claude remain as declared.
+
+
+### PG534 · Joint base-k/d, early-query visibility and actual primary body locator
+
+PG534 constructs [k-final avyaya joint-akac/d and primary grouped dialogue locator](k_final_avyaya_akac_joint_d_and_primary_grouped_dialogue/README.md): 1morphology adapter/6boundary readings on3prototypes,1primaryBhāṣya53072entry observation;0new finite/nominal credits. Originalbasek→d,insertedak-k stays;pause t/d explicit. Primarybodylocatedadjacenttoheading-only53071;rawplacementpolarity/print remainsOpen. Totals unchanged51,819finite;6,057nominal/7,038readings; global gates Open.
+
+Already closed locally: dhik/hiruk/pṛthak actualjointakac/d with3oldcharcontrols+3writtenvoicedpausealternatives;0finite/nominalcredits. PG533primary-heading pointer superseded only by positive electronic groupedbody53072locator,not fullsource-policy/print reconciliation. Unresolved source reading: rawprimaryanokāra placementpolarity versus later reports remainsOpen; no priorpronounpanel rewritten. Genuine next constructions:5853tūṣṇīmkām mit-afterlastvowel versus5854śīlaka/oldm-lopa; later5856tamādi/kandcompoundkan ordering after checking earlier registers. Other class/lateTripādik/yaṅ/chandas/meaning/source/accent and priorS1–S7/C2–C5/native/Claude remainOpen/deferred.

@@ -1,0 +1,152 @@
+{
+  "stage": "PG534",
+  "paths": [
+    {
+      "id": "DHIK_AKAC_D",
+      "input": "dhik",
+      "lexical_class": "avyaya",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": "no finite pada selection",
+      "original_left": "dh",
+      "original_ti": "ik",
+      "affix": "akac actual ak",
+      "joint_replacement": "originalterminalk→d5.3.72",
+      "trace": [
+        "dh|ak_AK|i_OLD k_OLD",
+        "oldk→d,insertedkretained→dhakid",
+        "pada jaś keepsd; optionalcar8.4.56→t atpause"
+      ],
+      "readings": [
+        "dhakit",
+        "dhakid"
+      ]
+    },
+    {
+      "id": "HIRUK_AKAC_D",
+      "input": "hiruk",
+      "lexical_class": "avyaya",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": "no finite pada selection",
+      "original_left": "hir",
+      "original_ti": "uk",
+      "affix": "akac actual ak",
+      "joint_replacement": "originalterminalk→d5.3.72",
+      "trace": [
+        "hir|ak_AK|u_OLD k_OLD",
+        "oldk→d→hirakud;notinsertedk",
+        "optionalpausechar→hirakut"
+      ],
+      "readings": [
+        "hirakut",
+        "hirakud"
+      ]
+    },
+    {
+      "id": "PRTHAK_AKAC_D",
+      "input": "pṛthak",
+      "lexical_class": "avyaya",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": "no finite pada selection",
+      "original_left": "pṛth",
+      "original_ti": "ak",
+      "affix": "akac actual ak",
+      "joint_replacement": "originalterminalk→d5.3.72",
+      "trace": [
+        "pṛth|ak_AK|a_OLD k_OLD",
+        "oldk→d→pṛthakad,insertedakpreserved",
+        "optionalpausechar→pṛthakat"
+      ],
+      "readings": [
+        "pṛthakat",
+        "pṛthakad"
+      ]
+    }
+  ],
+  "controls": [
+    {
+      "id": "D_WITHOUT_ACTUAL_AKAC",
+      "status": "Excluded_missing_sanniyoga"
+    },
+    {
+      "id": "AKAC_WITH_UNCHANGED_ORIGINAL_K",
+      "status": "Excluded_missing_joint_prescription"
+    },
+    {
+      "id": "REPLACE_INSERTED_AK_K",
+      "status": "Excluded_wrong_k_owner"
+    },
+    {
+      "id": "ORDINARY_K_TO_G_INSTEAD_OF_D",
+      "status": "Excluded_ignores_specific_prescription"
+    },
+    {
+      "id": "ANY_VISIBLE_K_FINITE_CLASS",
+      "status": "Excluded_avyaya_class_guard",
+      "reason": "Tattva excludes pronoun/finite continuation atthisrule; wholefinitewordnotgloballyrejected"
+    },
+    {
+      "id": "TRIPADI_ADHOK_K_AS_EARLY_INPUT",
+      "status": "Excluded_rule_relative_visibility",
+      "reason": "Tattvaadhok/adhog k-imageasiddha; not a claim these supplied displays are ungrammatical"
+    },
+    {
+      "id": "YANG_LUK_OR_CHANDAS_SCOPE_UNIVERSAL_REJECTION",
+      "status": "Open_reported_domain_boundary"
+    },
+    {
+      "id": "RAW_PRIMARY_ANOKARA_POLARITY",
+      "status": "Open_source_placement_reconciliation"
+    },
+    {
+      "id": "OTHER_K_FINAL_AVYAYA_OR_UNSUPPLIED_MEANING",
+      "status": "Open_lexical_semantic_input"
+    },
+    {
+      "id": "ORIGINAL_PRINT_ACCENT_OR_UNIVERSAL_SCHEDULER",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 6,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 1
+  },
+  "scope": "threefixedsourcek-finalavyayaprototypes under independently admittedprāgivīyaakac frame, originalk jointd and selectedunaccentedpause",
+  "output_accounting": {
+    "owned_prototypes": 3,
+    "boundary_readings": 6,
+    "source_char_controls": [
+      "dhakit",
+      "hirakut",
+      "pṛthakat"
+    ],
+    "additional_voiced_pause_readings": [
+      "dhakid",
+      "hirakud",
+      "pṛthakad"
+    ],
+    "new_finite_nominal_credits": 0
+  },
+  "primary_locator": {
+    "heading_only_field": "53071",
+    "actual_grouped_body_field": "53072",
+    "entry": "2230",
+    "positive_sections": [
+      "base/wordrecipientdialogue",
+      "5853kām",
+      "5854śīlaka/m-lopa",
+      "5855different-locationutsargaprohibition"
+    ],
+    "boundary": "locator only; rawanokāra polarity, later degree/compound cases and originalprinted lineage remainOpen"
+  }
+}

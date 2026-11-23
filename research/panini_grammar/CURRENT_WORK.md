@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG533
+# Pāṇini grammar · current written coverage at PG534
+
+PG534 constructs [k-final avyaya joint-akac/d and primary grouped dialogue locator](k_final_avyaya_akac_joint_d_and_primary_grouped_dialogue/README.md): 1morphology adapter/6boundary readings on3prototypes,1primaryBhāṣya53072entry observation;0new finite/nominal credits. Originalbasek→d,insertedak-k stays;pause t/d explicit. Primarybodylocatedadjacenttoheading-only53071;rawplacementpolarity/print remainsOpen. Totals unchanged51,819finite;6,057nominal/7,038readings; global gates Open.
 
 PG533 constructs [finite akac final-i and retained rudādi iṭ](finite_akac_final_i_and_retained_rudadi_it/README.md): 1morphology adapter/4finite-expression interfaces;0new finite/nominal/source credits. Actualak beforeoriginalendingi gives pacataki/jalpataki/svapitaki/śvasitaki, earlierśap/iṭ retained. Kutsita/anukampā/source same-meaning competition distinct;Bhāṣya53071heading not dialogue. Totals unchanged51,819finite;6,057nominal/7,038readings; global gates Open.
 
