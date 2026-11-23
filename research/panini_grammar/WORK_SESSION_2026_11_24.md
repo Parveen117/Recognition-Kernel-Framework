@@ -337,3 +337,19 @@ Four selected extended139 domains and distinct VCP causal Viṣṇupadī locally
 - Next unresolved139/128 exact13 entries/two bāhu senses/prohyapadi,142patra and prior C2–C5/S1–S7/native/global work. Claude execution distinct; written scope remains Open.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG632 · Named both-member combat meanings and positive short prohyapadi
+
+Previous publication: 22b57bf1512b779226f81d887743805513f82b4e; tree e9fc3c5b28368c85b3076c81b6fe1d48204f03b2. Necessary check: Python 3.12.14, 60 assertions, 1 attempt(s).
+
+PG632: [Named both-member combat meanings and positive short prohyapadi](named_both_member_combat_senses_and_positive_short_prohyapadi/README.md). Nine new128 avyaya interfaces;two earlier bāhu formal interfaces gain positive combat meanings without recredit. Two formation/compound adapters,nine interfaces/plans;three meaning/11 records;three scope/eight records;five VCP observations/one source decision. Zero new word/accent credits; census51,819 finite;7,061 nominal/8,295 readings.
+
+PG521–632 cumulative:1,283 nominal positions/1,552 readings, zero finite;223 morphology/976 interfaces (801 nominal/stem+10 finite+165 avyaya);113 compound/554 plans;7 accent/27 records;130 semantics/396 records;85 syntax/235 records;25 source-policy decisions after PG555−1;239 observations (28 VCP+35 primary Bhāṣya+31 paired commentary+59 Nyāsa+24 Tattva+37 Bāla+22 K cross-rule+1 primary Bhaṭṭabhāskara+1 primary Uṇādi corroboration+1 historical Vasu). One provenance correction/one proof addendum; no new census correction.
+
+Nine selected128 adapters and two bāhu meanings locally CLOSED; four128 and source/global gates Open.
+- Closed nine selected128 adapters and two formerly Open bāhu combat meanings, with no repeated morphology credits for bāhu. VCP short prohyapadi is positive; K long elephant-driving channel remains frozen.
+- Actual128 remaining-four: ubhāpāṇi, ubhayāpāṇi, sapadi, saṃhatapucchi. Precise āḍhya lexical usage, prohya long/short critical reconciliation and independent inner absolutives remain Open. Sapadi dictionary etymology does not exclude K128.
+- Genuine139 K-nine/extended14 and other senses/critical readings,142patra and prior C2–C5/S1–S7/native/global work remain Open. Claude execution separately deferred; no completion/ETA claim.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

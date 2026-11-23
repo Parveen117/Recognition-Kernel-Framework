@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG631
+# Pāṇini grammar · current written coverage at PG632
+
+PG632: [Named both-member combat meanings and positive short prohyapadi](named_both_member_combat_senses_and_positive_short_prohyapadi/README.md). Nine new128 avyaya interfaces;two earlier bāhu formal interfaces gain positive combat meanings without recredit. Two formation/compound adapters,nine interfaces/plans;three meaning/11 records;three scope/eight records;five VCP observations/one source decision. Zero new word/accent credits; census51,819 finite;7,061 nominal/8,295 readings.
 
 PG631: [Four extended padī domains and a distinct Viṣṇupadī source path](four_extended_padi_domains_and_distinct_vishnupadi_source_path/README.md). Four extended139 heads/six meaning interfaces plus distinct VCP Viṣṇupadī ac/ṅīṣ two-meaning path:two formation/compound adapters,eight interfaces/plans;three meaning contracts/eight records;three scope/seven records;six VCP observations. Zero new word/policy/accent credits; census51,819 finite;7,061 nominal/8,295 readings.
 
