@@ -1,6 +1,6 @@
-# Written-development backlog at PG582
+# Written-development backlog at PG583
 
-Monty · 23 November 2026 · reviewed current parent bc64a2ffe5134af11cba0f775c7b3b456e01e379; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 594baac7010b3f0a17800ccb59c6df9d9471718c; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1179,3 +1179,10 @@ Selected52–55conditionalinterfaces locally closed;fullupadeśarecipe sāti cit
 PG582 constructs [case-owned trā and repetition before ḍāc](case_owned_tra_and_dac_repetition_before_suffix/README.md): three formation adapters/17 avyaya interfaces, two syntax contracts/five frames, three meaning contracts/seven frames and two source observations. Zero word/accent/new-policy credits. Source case, intended-suffix order, disjoint lopa/junction recipients and nonimitative domains retained; wider gates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 
 Selected56–60interfaces locally CLOSED. Ḍāc priorrepetition/firstjunction/finalṭi recipients explicit;61–67actualsemantics remain unconstructed. Source57kharaṭ/gharaṭ/dam-vamcriticalissues,fullaccent/citation-i and priorC2–C5/S1–S7/member/source/native/globalgatesOpen;Claudeexecutionseparate.
+
+
+### PG583 · Named semantic extension through an existing constructor
+
+PG583 extends [source-owned ḍāc action domains](dac_semantic_extensions_with_source_target_policies/README.md): ten additional avyaya interfaces through PG582’s unchanged formation adapter; seven meaning contracts/13 source frames and four source observations. Zero new morphology constructors,word/accent/policy credits. Pomegranate target,transaction accounts and named bhadra extension positive; critical/conditional/global gates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
+
+Selected61–67interfaces locallyCLOSED. Critical61targets/vyathana-vyadhana,67conditionalarthagrahaṇa synonyms remainOpen,not exclusions. Actual68onward and earliercitation-i/inner/accent/C2–C5/S1–S7/member/source/native/globalgates genuinelyremain;Claudeexecutionseparate.

@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG582
+# Pāṇini grammar · current written coverage at PG583
+
+PG583 extends [source-owned ḍāc action domains](dac_semantic_extensions_with_source_target_policies/README.md): ten additional avyaya interfaces through PG582’s unchanged formation adapter; seven meaning contracts/13 source frames and four source observations. Zero new morphology constructors,word/accent/policy credits. Pomegranate target,transaction accounts and named bhadra extension positive; critical/conditional/global gates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 
 PG582 constructs [case-owned trā and repetition before ḍāc](case_owned_tra_and_dac_repetition_before_suffix/README.md): three formation adapters/17 avyaya interfaces, two syntax contracts/five frames, three meaning contracts/seven frames and two source observations. Zero word/accent/new-policy credits. Source case, intended-suffix order, disjoint lopa/junction recipients and nonimitative domains retained; wider gates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 
