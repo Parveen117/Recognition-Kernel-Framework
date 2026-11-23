@@ -1,4 +1,4 @@
-# Written-development backlog at PG519
+# Written-development backlog at PG520
 
 Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
@@ -741,3 +741,9 @@ PG517foura-stemcase pointers superseded only on admitted sourceMlearner/school-i
 PG519 constructs [inner nañ/ṛc right-owned nuṭ and primary boundary argument](nanj_rc_right_owned_nut_and_primary_boundary_argument/README.md):1morphology adapter/5interfaces,1primary electronic Bhāṣya63074 entry observation;0finite/nominal additions.Oldnañ-n deleted,newn initial inrightmember;BālaṭIT/upronunciationaid distinguished.PG503consonantcontrol/ordinarynaidentity separate.Bālamicro-wordingcriticalcollationOpen.Totals51,819finite;5,750nominal/6,709readings;global gates Open.
 
 PG517/518 fullinnernañpointer superseded only on supplied licensed anṛc domain/selectedidentitycontrols.PG39ownerrow/PG503ahṛdaya preserved and0recredit.Primary63074ownerargument locatorCLOSED locally;Bālamicro-wording/originalprintedcollationOpen.Next actual work:unsuffixedc textKEEP case/num/length/pause;broader6.3.75retention/censure/akac/homonymoussuffixconditions,unknownnegativecompoundlicences and originaldhur/sourcequestions remainOpen.S1-S7/C2-C5/native/fullteacher/accent/Claude separate,not closed by this local bridge.
+
+## PG520 · TextKEEP singular/dual closed;plural remains genuine
+
+PG520 completes [textKEEP singular/dual cases with owned c/k/g views](rc_text_keep_singular_dual_and_owned_c_k_g_views/README.md):28new nominal positions/34readings,0finite/source/separate construction credits.32keys38readings minus4old kcontrols;4new greadings onoldkeys.Vowel c/bhyām g/pause k-g retain query-specific ownership;śīdual not śiplural.Pluralnum/length remainsOpen.Totals51,819finite;5,778nominal/6,743readings;global gates Open.
+
+PG517–519unsuffixedc pointer superseded only on sourceNtextKEEPsingular/dual32keys38readings.Fullplural remainsunconstructed:actualNśi/num/nasalassimilation/vowel-length order and oblique/pause words require source-grounded derivation.No whole-paradigm closure.Othernañexception/source-critical/schoolscope/dhur/S1-S7/C2-C5/native/fullteacher/accent and Claude obligations remainOpen.
