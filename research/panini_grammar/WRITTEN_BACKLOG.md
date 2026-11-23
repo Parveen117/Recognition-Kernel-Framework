@@ -1,6 +1,6 @@
-# Written-development backlog at PG618
+# Written-development backlog at PG619
 
-Monty · 2026-11-24 · reviewed current parent f4d8a699cb0fee248255b60cac7aded292b04187; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 85ccd7e5724d8376a5f76abe9dfc63d48c8b0e5c; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1469,3 +1469,14 @@ Selected138–140 foot traces locally CLOSED;18 exact139 entries and full writte
 - Closed selected138–140 foot final-a/139ṅīp/pad-addressed traces. PG38 generic contracts, PG609 fixed padbhāva and4.1.8 old policy receive no repeated credit.
 - Genuine remaining139 K-list: mālāpadī, munipadī, godhāpadī, gopadī, kalaśīpadī, ghṛtapadī, dāsīpadī, niṣpadī, ārdrapadī, kuṇapadī, kṛṣṇapadī, droṇapadī, drupadī, śakṛtpadī, sūpapadī, pañcapadī, arvapadī, stanapadī. Tattva janapadī versus jālapadī, actual aṣṭā naming evidence for the alternate route, all full case/gender/accent products remain Open.
 - Next141–142 danta→datṛ and age/Vedic domains,143–148 named changes,149–160 residual kap gates; earlier128 gaṇa/bāhu/prohyapadi and older textual/lexical/C2–C5/S1–S7/native/global work remain Open; Claude execution distinct.
+
+
+### PG619 · Age teeth dat, ugit nuṃ and short a after cluster loss
+
+PG619: [Age teeth dat, ugit nuṃ and short a after cluster loss](age_teeth_dat_ugit_num_and_short_a_after_cluster_loss/README.md). Three formation adapters/eight interfaces; two compound contracts/eight plans; one meaning contract/three records; three scope contracts/six records; four observations. Zero new word/accent/policy credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+Selected141 datṛ/nuṃ/feminine traces locally CLOSED;142 and wider written gates Open.
+
+- Closed selected141 age/datṛ/strong-case-asiddha/six/feminine traces. Old PG38 ugit/age policy and historical corrections are not recredited.
+- Open: full age-stem case/gender/accent panels, original Nyāsa numbering;142 Vedic patradatam case/nuṃ, ubhayādat long-ā and separate ubhayatodat source parents.
+- Next142 source decisions then143–160 named changes and residual kap. Exact13918-member list,12813-member list/two bāhu senses/prohyapadi and all prior textual/lexical/C2–C5/S1–S7/native/global work remain Open; Claude execution distinct.

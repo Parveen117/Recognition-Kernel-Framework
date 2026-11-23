@@ -129,3 +129,19 @@ Selected138–140 foot traces locally CLOSED;18 exact139 entries and full writte
 - Next141–142 danta→datṛ and age/Vedic domains,143–148 named changes,149–160 residual kap gates; earlier128 gaṇa/bāhu/prohyapadi and older textual/lexical/C2–C5/S1–S7/native/global work remain Open; Claude execution distinct.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG619 · Age teeth dat, ugit nuṃ and short a after cluster loss
+
+Previous publication: 85ccd7e5724d8376a5f76abe9dfc63d48c8b0e5c; tree dbb620e6982c7cfae1bdd9866458a1c5820dc3c0. Necessary check: Python 3.12.14, 68 assertions, 1 attempt(s).
+
+PG619: [Age teeth dat, ugit nuṃ and short a after cluster loss](age_teeth_dat_ugit_num_and_short_a_after_cluster_loss/README.md). Three formation adapters/eight interfaces; two compound contracts/eight plans; one meaning contract/three records; three scope contracts/six records; four observations. Zero new word/accent/policy credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+PG521–619 cumulative:938 nominal positions/1,207 readings, zero finite;188 morphology constructions/829 interfaces (663 nominal/stem+10 finite+156 avyaya);81 compound contracts/405 plans;7 accent/27 records;94 semantics/276 records;49 syntax/152 records;19 source-policy decisions after PG555−1;182 observations (6 VCP+35 primary Bhāṣya+25 paired commentary+51 Nyāsa+22 Tattva+29 Bāla+14 K cross-rule). One additive register-provenance correction; no new census effect.
+
+Selected141 datṛ/nuṃ/feminine traces locally CLOSED;142 and wider written gates Open.
+- Closed selected141 age/datṛ/strong-case-asiddha/six/feminine traces. Old PG38 ugit/age policy and historical corrections are not recredited.
+- Open: full age-stem case/gender/accent panels, original Nyāsa numbering;142 Vedic patradatam case/nuṃ, ubhayādat long-ā and separate ubhayatodat source parents.
+- Next142 source decisions then143–160 named changes and residual kap. Exact13918-member list,12813-member list/two bāhu senses/prohyapadi and all prior textual/lexical/C2–C5/S1–S7/native/global work remain Open; Claude execution distinct.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
