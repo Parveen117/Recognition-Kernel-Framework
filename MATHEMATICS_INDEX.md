@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG564 constructs [numbered distribution-vun,paired lopa and fine-amount roles](research/panini_grammar/numbered_distribution_vun_paired_tail_lopa_and_fine_amount_roles/README.md):1morphology adapter6Fstems;1compound constructor6bases;1meaning contract3frames;1fine-role contract2instantiations;2source observations;0word increments. Coupled_lopaversusordinaryendpoint,pād-member/vun-a/k/āownersandamount-contentversusword-numberexplicit. Totals51,819finite;6,384nominal/7,583readings;PG555−1retained/global gates Open.
+
 PG563 constructs [association-cha,nested aṇ/añ and gotra-yañ/vuñ bridge](research/panini_grammar/association_cha_nested_an_anj_and_gotra_yanj_vunj_bridge/README.md):3composedmorphology adapters9stems;1accent adapter2records;1gotra semantic contract2records;1nested-number contract2frames;1primary53118observation;0word/newpolicycredits. Inner/outerplurality,olda/newa,source/resultgotraandold-y/vuñownersdistinct. Totals51,819finite;6,384nominal/7,583readings;PG555−1correctionretained/global gates Open.
 
 PG562 constructs [Vāhīka ñyaṭ feminine y-lopa and named Vṛka ṭeṇyaṇ owners](research/panini_grammar/vahiika_nyat_feminine_y_lopa_and_vrka_tenyana_owners/README.md):2morphology adapters6M-Fstems;1place/sense contract3records;1coupledNyāsaobservation;0word increments. Pre-lopay-upadhā/oldbasea/suffixa/newī/soundedṇ/markersdistinct;115elsewhere-scopekept. Preciseexclusionmapping/othercasesOpen. Totals51,819finite;6,384nominal/7,583readings;PG555−1policycorrectionretained/global gates Open.

@@ -1,6 +1,6 @@
-# Written-development backlog at PG563
+# Written-development backlog at PG564
 
-Monty · 23 November 2026 · reviewed current parent 43871c3407fea5d0f3f119266386cd6d8da59922; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 38a8745e5977b9a223ba3320205fe90a3439a464; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1046,3 +1046,10 @@ Kṣudraka/Mālava/VṛkaselectedM-FcontractsCLOSED;vārkeṇīrule-derivednotne
 PG563 constructs [association-cha,nested aṇ/añ and gotra-yañ/vuñ bridge](association_cha_nested_an_anj_and_gotra_yanj_vunj_bridge/README.md):3composedmorphology adapters9stems;1accent adapter2records;1gotra semantic contract2records;1nested-number contract2frames;1primary53118observation;0word/newpolicycredits. Inner/outerplurality,olda/newa,source/resultgotraandold-y/vuñownersdistinct. Totals51,819finite;6,384nominal/7,583readings;PG555−1correctionretained/global gates Open.
 
 Selected116cha/117pairedgaṇa/118gotra-yañandābhijitakavujconsumerlocallyCLOSED;unselectedmembers/aliases/innerorigins/F/case/accentremainOpen.Noinventory-wide5.3closure. Nextactual5.4.1–6afteroldregisterreview;C2-C5/S1-S7/prior100/104/106scene/native/Claudeunchanged.
+
+
+### PG564 · Actual5.4.1–2joint-lopa,distribution and fine-role contracts
+
+PG564 constructs [numbered distribution-vun,paired lopa and fine-amount roles](numbered_distribution_vun_paired_tail_lopa_and_fine_amount_roles/README.md):1morphology adapter6Fstems;1compound constructor6bases;1meaning contract3frames;1fine-role contract2instantiations;2source observations;0word increments. Coupled_lopaversusordinaryendpoint,pād-member/vun-a/k/āownersandamount-contentversusword-numberexplicit. Totals51,819finite;6,384nominal/7,583readings;PG555−1retained/global gates Open.
+
+Selectedsixunitforms/meaningroleslocallyCLOSED;otherunits/Tattvapolicy/fullcurādikta/case/accentremainOpen. Nextactual5.4.3–6,reviewclosedbhid/chidniṣṭhābeforecredits.C2-C5/S1-S7/prior100/104/106scene/source/native/Claudeunchanged.
