@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG525
+# Pāṇini grammar · current written coverage at PG526
+
+PG526 constructs [nabhrāj zero-kvip and rule-relative consonant cases](nabhrāj_zero_kvip_and_rule_relative_consonant_cases/README.md): 23 new nominal positions/25 readings; 24 keys/26 readings minus old nabhrāṭ. One morphology adapter/one stem interface, one VCP lexical-entry observation, 0 finite additions. Silent kvip retains affix/marker history; vowel j versus bh ḍ/pause ṭ-ḍ/loc.pl ṭs views owned. Totals 51,819 finite; 5,870 nominal/6,844 readings; global gates Open.
 
 PG525 constructs [Nakṣatra tra/root histories and suffix-owned r cases](naksatra_tra_root_histories_and_owned_r_cases/README.md): 23 new nominal positions/24 readings; 24 keys/25 readings minus old nakṣatram. One morphology adapter/one stem readout with kṣar/Tattva-kṣi histories; one VCP entry-opening observation; 0 finite additions. Root-r lopa preserves suffix-r, which licenses case ṇatva. Nyāsa violence-root critical assignment and VCP nakṣ+atran stay Open. Totals 51,819 finite; 5,847 nominal/6,819 readings; global gates Open.
 

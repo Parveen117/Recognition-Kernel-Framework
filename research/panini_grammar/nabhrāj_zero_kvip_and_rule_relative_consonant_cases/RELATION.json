@@ -1,0 +1,423 @@
+{
+  "stage": "PG526",
+  "paths": [
+    {
+      "id": "BHRĀJ_KVIP_DESIGNATED",
+      "root_id": "1010205",
+      "root_sense": "dīpti",
+      "aupadeshika": "भ्राजृँ",
+      "preverb": null,
+      "voice": "source habitual kartṛ lexical formation; no finite voice ending",
+      "pada": "A root metadata, not an A-ending selection",
+      "affix": "kvip3.2.177",
+      "marker_history": [
+        "initial k_IT1.3.8; final p_IT1.3.3; conventional nasal i_IT1.3.2",
+        "1.3.9 inactive markers retain kit/pit/kṛt history",
+        "remaining single v is apṛkta and lopa6.1.67"
+      ],
+      "trace": [
+        "before v-lopa actual v-initial kṛt blocks iṭ7.2.8; seṭ root does not force iṭ here",
+        "root ā long, so short-vowel pit-kṛt tuk6.1.71 prerequisite false",
+        "sound-zero kvip leaves underlying bhrāj with explicit suffix history",
+        "designated nañ n/a retained6.3.75→underlying nabhrāj"
+      ],
+      "readout": "nabhrāj",
+      "output_type": "OwnedJFinalDesignatedStem"
+    }
+  ],
+  "views": [
+    {
+      "id": "VOWEL_SUP",
+      "condition": "vowel-ending case query, no root-final pada or jhal",
+      "root_readout": "j",
+      "examples": [
+        "nabhrājau",
+        "nabhrājā"
+      ]
+    },
+    {
+      "id": "BH_SUP",
+      "condition": "1.4.17 svādi-pada before bh ending",
+      "trace": [
+        "j→ṣ8.2.36",
+        "ṣ→ḍ8.2.39"
+      ],
+      "root_readout": "ḍ",
+      "examples": [
+        "nabhrāḍbhyām",
+        "nabhrāḍbhiḥ"
+      ]
+    },
+    {
+      "id": "PAUSE",
+      "condition": "completed pada ending, su consonant lopa6.1.68",
+      "trace": [
+        "j→ṣ8.2.36",
+        "ṣ→ḍ8.2.39",
+        "optional8.4.56car→ṭ"
+      ],
+      "root_readout": [
+        "ṭ",
+        "ḍ"
+      ],
+      "examples": [
+        "nabhrāṭ",
+        "nabhrāḍ"
+      ]
+    },
+    {
+      "id": "LOC_PL_SU",
+      "condition": "pada before su",
+      "trace": [
+        "j→ṣ→ḍ",
+        "khar s forces8.4.55car→ṭ",
+        "8.4.42 blocks following s ṣṭutva after padānta ṭ"
+      ],
+      "root_readout": "ṭ",
+      "examples": [
+        "nabhrāṭsu"
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "nom",
+      "number": "sg",
+      "readings": [
+        "nabhrāṭ",
+        "nabhrāḍ"
+      ],
+      "position_credit": 0,
+      "reading_credit": 1,
+      "old_reading_indices": [
+        0
+      ]
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "acc",
+      "number": "sg",
+      "readings": [
+        "nabhrājam"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "ins",
+      "number": "sg",
+      "readings": [
+        "nabhrājā"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "dat",
+      "number": "sg",
+      "readings": [
+        "nabhrāje"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "abl",
+      "number": "sg",
+      "readings": [
+        "nabhrājaḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "gen",
+      "number": "sg",
+      "readings": [
+        "nabhrājaḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "loc",
+      "number": "sg",
+      "readings": [
+        "nabhrāji"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "voc",
+      "number": "sg",
+      "readings": [
+        "nabhrāṭ",
+        "nabhrāḍ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 2,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "nom",
+      "number": "du",
+      "readings": [
+        "nabhrājau"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "acc",
+      "number": "du",
+      "readings": [
+        "nabhrājau"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "ins",
+      "number": "du",
+      "readings": [
+        "nabhrāḍbhyām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "dat",
+      "number": "du",
+      "readings": [
+        "nabhrāḍbhyām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "abl",
+      "number": "du",
+      "readings": [
+        "nabhrāḍbhyām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "gen",
+      "number": "du",
+      "readings": [
+        "nabhrājoḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "loc",
+      "number": "du",
+      "readings": [
+        "nabhrājoḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "voc",
+      "number": "du",
+      "readings": [
+        "nabhrājau"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "nom",
+      "number": "pl",
+      "readings": [
+        "nabhrājaḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "acc",
+      "number": "pl",
+      "readings": [
+        "nabhrājaḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "ins",
+      "number": "pl",
+      "readings": [
+        "nabhrāḍbhiḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "dat",
+      "number": "pl",
+      "readings": [
+        "nabhrāḍbhyaḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "abl",
+      "number": "pl",
+      "readings": [
+        "nabhrāḍbhyaḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "gen",
+      "number": "pl",
+      "readings": [
+        "nabhrājām"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "loc",
+      "number": "pl",
+      "readings": [
+        "nabhrāṭsu"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    },
+    {
+      "profile": "NABHRAJ_VCP_CLOUD_M",
+      "gender": "m",
+      "case": "voc",
+      "number": "pl",
+      "readings": [
+        "nabhrājaḥ"
+      ],
+      "position_credit": 1,
+      "reading_credit": 1,
+      "old_reading_indices": []
+    }
+  ],
+  "controls": [
+    {
+      "id": "ZERO_SOUND_EQUALS_NO_AFFIX",
+      "status": "Excluded_erases_owned_krt_marker_history"
+    },
+    {
+      "id": "SET_ALWAYS_FORCES_IT",
+      "status": "Excluded_72008_override"
+    },
+    {
+      "id": "NABHRAT_IS_ALL_CASE_STEM",
+      "status": "Excluded_wrong_query_view"
+    },
+    {
+      "id": "SUTR_UGIT_NUM_ON_KVIP",
+      "status": "Excluded_marker_class_error",
+      "reason": "kvip i_IT is not uk/ugit; no śatṛ ṛ_IT"
+    },
+    {
+      "id": "LOCATIVE_NABHRATSU_RETROFLEX_S",
+      "status": "Excluded_84042_pada_guard"
+    },
+    {
+      "id": "TU_BHRAJ_1010957",
+      "status": "Open_other_root_identity"
+    },
+    {
+      "id": "ORIGINAL_HEMACANDRA_OR_OTHER_SENSE_GENDER",
+      "status": "Open_independent_lexical_collation"
+    },
+    {
+      "id": "FULL_TEACHER_ACCENT_VEDIC_UNKNOWN_IDENTITY",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 23,
+    "new_nominal_readings": 25,
+    "new_source_observations": 1
+  },
+  "scope": "VCP28000 masculine cloud lexical identity, plain bhrājṛ1010205 actual kvip, ordinary unaccented three-number case requests",
+  "source_boundary": "literal new case words are authored rule compositions, not independent whole-word attestations; original Hemacandra and wider teacher/accent remain Open",
+  "number_policy": "supplied cloud bearers in singular/dual/plural; no unrestricted semantic parsing"
+}
