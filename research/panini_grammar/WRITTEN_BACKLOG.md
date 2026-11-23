@@ -1,6 +1,6 @@
-# Written-development backlog at PG624
+# Written-development backlog at PG625
 
-Monty · 2026-11-24 · reviewed current parent a311c4cdd0acda3116b3092a18ff78bd3fbcc249; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent fd986ff2bf5327235661a5592266d4e83a07e24b; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1535,3 +1535,14 @@ Selected153–156 owner and prohibition traces locally CLOSED; unknown/textual/i
 - Closed selected153–156 right-owner/residual/155narrow/156wide and protected-feminine traces. PG606 source control and old generic policies receive no repeated credits.
 - Open: unknown competing-rule inputs; suputra/saputra microtext, complete inner dhīvan/śreyas lexicons and all case/gender/accent products.
 - Next157–160 praise/Vedic/body/named cloth kap prohibitions;151 nine entries including singular/Lakṣmī interactions,142 patra,13918-member/12813-member lists/bāhu/prohyapadi and older critical/C2–C5/S1–S7/native/global work remain Open. Claude execution distinct.
+
+
+### PG625 · Praised brother, Vedic ṛ, body tantrī and finished cloth
+
+PG625: [Praised brother, Vedic ṛ, body tantrī and finished cloth](praised_brother_vedic_r_body_tantri_and_finished_cloth/README.md). Five formation adapters/14 interfaces; four compound contracts/14 contexts; five meaning contracts/16 records; four scope contracts/nine records; five observations. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+Selected157–160 owned traces locally CLOSED; concrete remaining registers and full written gates Open.
+
+- Closed selected157–160 praise/Vedic/body/nonbody/named cloth traces and root1011161/pra/lyuṭ pravāṇī adapter. Old generic exceptions and Uṇādi3158 lexical reading receive no repeated credits.
+- Open: K nadī versus Bāla śaiṣika prohibition wording; full inner tantri etymology and primitive-ī NOMsg/other case/accent products; independently verified Vedic passages.
+- Next actual backlog151 singular/list/arthan-nañ and Lakṣmī interactions;13918 exact entries,12813 exact entries/two bāhu senses/prohyapadi;142 patra and all older critical/lexical/C2–C5/S1–S7/native/global work. Wider written scope remains Open; Claude execution distinct.

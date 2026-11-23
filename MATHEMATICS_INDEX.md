@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG625: [Praised brother, Vedic ṛ, body tantrī and finished cloth](research/panini_grammar/praised_brother_vedic_r_body_tantri_and_finished_cloth/README.md). Five formation adapters/14 interfaces; four compound contracts/14 contexts; five meaning contracts/16 records; four scope contracts/nine records; five observations. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
 PG624: [Right-member nadī, residual kap and comparative prohibition scope](research/panini_grammar/right_member_nadi_residual_kap_and_comparative_prohibition_scope/README.md). Four formation adapters/23 interfaces; four compound contracts/23 plans; four meaning contracts/14 records; four scope contracts/ten records; five observations. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
 
 PG623: [Friend hṛd, kap consonants and vāggmin two-g ownership](research/panini_grammar/friend_hrd_kap_consonants_and_vaggmin_two_g_owners/README.md). Four formation adapters/13 interfaces (one inner gmini); three compound contracts/12 plans; three meaning contracts/ten records; three scope contracts/six records; four observations. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.

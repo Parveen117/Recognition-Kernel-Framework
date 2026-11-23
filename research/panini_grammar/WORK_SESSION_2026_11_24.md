@@ -225,3 +225,19 @@ Selected153–156 owner and prohibition traces locally CLOSED; unknown/textual/i
 - Next157–160 praise/Vedic/body/named cloth kap prohibitions;151 nine entries including singular/Lakṣmī interactions,142 patra,13918-member/12813-member lists/bāhu/prohyapadi and older critical/C2–C5/S1–S7/native/global work remain Open. Claude execution distinct.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG625 · Praised brother, Vedic ṛ, body tantrī and finished cloth
+
+Previous publication: fd986ff2bf5327235661a5592266d4e83a07e24b; tree 52fcade3e62061899008eb9ba99a52408e2f0d30. Necessary check: Python 3.12.14, 75 assertions, 1 attempt(s).
+
+PG625: [Praised brother, Vedic ṛ, body tantrī and finished cloth](praised_brother_vedic_r_body_tantri_and_finished_cloth/README.md). Five formation adapters/14 interfaces; four compound contracts/14 contexts; five meaning contracts/16 records; four scope contracts/nine records; five observations. Zero new word/policy/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+PG521–625 cumulative:938 nominal positions/1,207 readings, zero finite;211 morphology constructions/924 interfaces (758 nominal/stem+10 finite+156 avyaya);101 compound contracts/499 contexts;7 accent/27 records;114 semantics/350 records;68 syntax/193 records;22 source-policy decisions after PG555−1;208 observations (6 VCP+35 primary Bhāṣya+31 paired commentary+59 Nyāsa+23 Tattva+36 Bāla+16 K cross-rule+1 primary Bhaṭṭabhāskara+1 primary Uṇādi corroboration). One additive register-provenance correction; no new census effect.
+
+Selected157–160 owned traces locally CLOSED; concrete remaining registers and full written gates Open.
+- Closed selected157–160 praise/Vedic/body/nonbody/named cloth traces and root1011161/pra/lyuṭ pravāṇī adapter. Old generic exceptions and Uṇādi3158 lexical reading receive no repeated credits.
+- Open: K nadī versus Bāla śaiṣika prohibition wording; full inner tantri etymology and primitive-ī NOMsg/other case/accent products; independently verified Vedic passages.
+- Next actual backlog151 singular/list/arthan-nañ and Lakṣmī interactions;13918 exact entries,12813 exact entries/two bāhu senses/prohyapadi;142 patra and all older critical/lexical/C2–C5/S1–S7/native/global work. Wider written scope remains Open; Claude execution distinct.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
