@@ -1,0 +1,135 @@
+{
+  "stage": "PG517",
+  "paths": [
+    {
+      "id": "ANRC_LEARNER",
+      "input": "supplied licensed nañ/ṛc absence bahuvrīhi,anṛc inner nominal junction,source māṇavaka M",
+      "scope": "student",
+      "suffix": "plain a5.4.74",
+      "trace": [
+        "select source-qualified plaina;not residual kap",
+        "anṛc+S_a retains c before actual vowel/bha interface"
+      ],
+      "readout": "anṛca",
+      "output_type": "CaseReadyAStem"
+    },
+    {
+      "id": "BAHVRC_SCHOOL_LEARNER",
+      "input": "supplied bahu/ṛc many-verses bahuvrīhi,source ṛkśākhī brāhmaṇa M",
+      "scope": "school-qualified learner intersection",
+      "suffix": "plain a5.4.74",
+      "trace": [
+        "bahu+ṛc→bahvṛc6.1.77 at supplied nominal junction",
+        "source school/learner admission then plaina;retain c"
+      ],
+      "readout": "bahvṛca",
+      "output_type": "CaseReadyAStem"
+    },
+    {
+      "id": "ANRC_SAMAN_KAP",
+      "input": "supplied anṛc absence bahuvrīhi with source sāman Nhead",
+      "scope": "text,not learner",
+      "suffix": "kap5.4.154",
+      "trace": [
+        "source plaina not prescribed on this text profile;ordinary2.2.24śeṣa domain known",
+        "kap p_IT removed1.3.3/9;k sounded because taddhita exception1.3.8",
+        "anṛc+ka:c→k8.2.30 before actual jhal k;terminal char8.4.55 retains kk"
+      ],
+      "readout": "anṛkka",
+      "output_type": "CaseReadyKapAStem"
+    },
+    {
+      "id": "BAHVRC_SUKTA_KAP",
+      "input": "supplied bahu/ṛc many-verses bahuvrīhi with source sūkta Nhead",
+      "scope": "text,not school learner",
+      "suffix": "kap5.4.154",
+      "trace": [
+        "bahu+ṛc→bahvṛc;known ordinaryśeṣa/residual ending domain",
+        "kap→ka;c→k before soundedk→bahvṛkka"
+      ],
+      "readout": "bahvṛkka",
+      "output_type": "CaseReadyKapAStem"
+    },
+    {
+      "id": "ANRC_SAMAN_KEEP",
+      "input": "same admitted sāman profile with kap declined",
+      "scope": "text",
+      "suffix": null,
+      "trace": [
+        "retain lexical c-member anṛc;no fictitious a or k",
+        "terminal padānta citation k/g is separate case/pause consumer,not new lexicalstem here"
+      ],
+      "readout": "anṛc",
+      "output_type": "UnsuffixedCFinalCompoundMember"
+    },
+    {
+      "id": "BAHVRC_SUKTA_KEEP",
+      "input": "same admitted sūkta profile with kap declined",
+      "scope": "text",
+      "suffix": null,
+      "trace": [
+        "retain bahvṛc without optionalkap",
+        "source bare bahvṛk display not a second sounded suffix"
+      ],
+      "readout": "bahvṛc",
+      "output_type": "UnsuffixedCFinalCompoundMember"
+    }
+  ],
+  "controls": [
+    {
+      "id": "MISSING_KAP_ONLY_IS_RESIDUAL",
+      "status": "Excluded_incomplete_guard",
+      "reason": "residual means no applicable prescribed samāsānta,not merely kap absent"
+    },
+    {
+      "id": "UPABAHU_NO_DAC_THEREFORE_KAP",
+      "status": "Excluded_outside_sesa_domain",
+      "reason": "2.2.25 compound distinct from ordinary2.2.24śeṣa;SK/Bāla/Tattva explicit"
+    },
+    {
+      "id": "PLAIN_A_AND_KAP_ON_LEARNER",
+      "status": "Excluded_two_ending_error"
+    },
+    {
+      "id": "KAP_K_IT",
+      "status": "Excluded_taddhita_marker_error"
+    },
+    {
+      "id": "C_KUTVA_BEFORE_PLAIN_A",
+      "status": "Excluded_wrong_sound_domain"
+    },
+    {
+      "id": "TEXT_KEEP_IS_A_STEM",
+      "status": "Excluded_output_type_error"
+    },
+    {
+      "id": "ALL_RC_MEANS_LEARNER_OR_SCHOOL",
+      "status": "Open_requires_source_semantics"
+    },
+    {
+      "id": "UNKNOWN_OTHER_ENDING",
+      "status": "Open_not_residual_proof"
+    },
+    {
+      "id": "WIDER_CARANA_ADHYETR_SCOPE",
+      "status": "Open_source_scope_collation"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 6,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0
+  },
+  "gate": "source-specific plaina eligibility;residual kap requires both no applicable prescribed samāsānta and known śeṣādhikāra ordinarybahuvrīhi;unknown evidence stays Open",
+  "input_boundary": "supplied licensed nominal anṛc inner construction and bahu/ṛc junction;full nañ/nUḍ derivation not newly claimed.No verbal root-ID/pada/voice/preverb inferred from nounṛc.",
+  "source_policies": {
+    "K_NYASA": "student versus caraṇa designation",
+    "SK_BALA": "adhyetṛ with explicit ṛkśākhī brāhmaṇa example",
+    "selected": "school-qualified learner intersection for positive bahvṛca;wider coverage Open"
+  },
+  "output_boundary": "case-ready plaina/kap-a versus unsuffixedc member types distinct;6controlledinterfaces not6newinflectedwords"
+}

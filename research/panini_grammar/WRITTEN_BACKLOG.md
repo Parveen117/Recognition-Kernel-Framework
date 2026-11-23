@@ -1,4 +1,4 @@
-# Written-development backlog at PG516
+# Written-development backlog at PG517
 
 Monty · 23 November 2026 · reviewed parent 3b43335b4b92e2cbd0f3271f3bd837ec9cf0fc9c.
 
@@ -723,3 +723,9 @@ PG514dhuradapter pointer superseded only on these4typed frames.PG37/38qualifier 
 PG516 completes [non-axle dhur feminine/masculine cases and owned ṇatva](nonaxle_dhur_feminine_masculine_cases_and_natva/README.md):46new nominal positions/47readings,0finite/source/separate construction credits.48keys49readings minus2old nominatives;selectedKshort-u profiles only.Gen.pl/Mins.sg ṇ versus padānta Macc.pl n;one Mabl.sg t/dpair.Unsuffixed axle-r outputs and Nyāsa long-u source reading remain separate/Open.Totals51,819finite;5,660nominal/6,615readings;global gates Open.
 
 PG515 case pointer superseded only for Kshort-u FGEN/Mbahuvrīhi48keys49readings.Next actual work:independent dhur nominal/root/pada evidence for r-final axle cases,Nyāsa rājadhūrā critical decision,and5.4.74 ṛc student/school versus text/kap mechanisms(not old qualifier recredit).S1-S7/C2-C5/native/fullaccent/teacher and Claude execution separate;no unknownsourcegap excluded to claim completion.
+
+## PG517 · Ṛc suffix/sound adapter and remaining word domains
+
+PG517 constructs [ṛc learner/text residual kap and owned kutva](rc_learner_text_kap_residue_and_owned_kutva/README.md):1morphology adapter/6controlled interfaces,0finite/nominal/source credits.Student/school-intersection plaina versus text optionalkap/retainedc;kap k sounded,p_ITinactive,c→k beforek retains2owners.Two residual premises exclude automatickap on upabahu.K/Nyāsa versus SK/Bāla scope boundaries retained.Totals51,819finite;5,660nominal/6,615readings;global gates Open.
+
+PG516ṛc/kap mechanism pointer superseded only on six declared interfaces.Old qualifier/register credits0.Next genuine work:source learner M anṛca/bahvṛca cases and sāman/sūktaNkap-case panels;unsuffixedc declension and original nañ/nUḍ inner construction separate.Wider caraṇa-versus-adhyetṛ/sourcecritical/teacher/accent and S1-S7/C2-C5/native obligations Open.Unknown ending evidence not turned into residual proof.Claude execution separate.
