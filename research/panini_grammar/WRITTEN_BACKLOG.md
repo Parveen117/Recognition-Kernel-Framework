@@ -1,6 +1,6 @@
-# Written-development backlog at PG633
+# Written-development backlog at PG634
 
-Monty · 2026-11-24 · reviewed current parent 7e6d0ba21f8107d070d80d8b97030cecdec895d9; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent b8778771ad176ca9c920a3f0faeca8d8eabdd96e; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1634,3 +1634,14 @@ Eight139 domains and original K128 selected lexical list locally CLOSED; extende
 - Closed eight selected139 lexical domains and original K128 remaining-four on positive source meanings, retaining both MW/PWG tail readings and PWG immediate128sapadi. No generic/reused-word credits.
 - K139 actual remaining-eight: mālāpadī, munipadī, gopadī, dāsīpadī, kuṇapadī, sūpapadī, arvapadī, stanapadī. Extended Vasu139 remaining-seven: vipadī, viṣṇupadī, supadī, sūkarapadī, sūcīpadī, kalahamsapadī, viṣapadī. Source membership-only entries do not count as interpreted meanings.
 - Extended128 antevāsi/ācyapadi, VCP raw daṇḍi/Adya variants, āḍhya usage, prohya long/short reconciliation, sapadi-in route and other inner/corpus/accent/case work remain Open. Prior142patra/C2–C5/S1–S7/native/global gates and Claude-deferred execution remain separate.
+
+
+### PG634 · Twelve additional feminine case fibres and inner-number scope
+
+PG634: [Twelve additional feminine case fibres and inner-number scope](twelve_additional_feminine_case_fibres_and_inner_number_scope/README.md). 288 literal case keys/readings minus12 source NOMsg controls:276 new unique nominal positions/276 readings, zero finite or additional construction/source/accent credits. Census:51,819 finite;7,337 nominal/8,571 readings. Inner numeral counts and source-specific Viṣṇu route retained; apadī Vedic dual Open.
+
+Twelve selected ordinary feminine case fibres locally CLOSED; Vedic/source/global gates Open.
+
+- Closed twelve selected ordinary feminine case fibres, with twelve source NOMsg controls withheld. Viṣṇupadī uses only its VCPac/ṅīṣ branch; polysemous heads have one counted fibre each.
+- Actual apadī Vedic-dual ending/source/recitation request remains Open, alongside K139eight/extended139seven and additional128 variants/inner semantics; no ordinary-case construction settles those textual gates.
+- 142patra, older critical/C2–C5/S1–S7/native/global scope and Claude-deferred execution remain distinct. Frozen predecessors/PG335/PG357–363 CLOSED unchanged; no ETA or full-Sanskrit claim.

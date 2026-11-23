@@ -369,3 +369,19 @@ Eight139 domains and original K128 selected lexical list locally CLOSED; extende
 - Extended128 antevāsi/ācyapadi, VCP raw daṇḍi/Adya variants, āḍhya usage, prohya long/short reconciliation, sapadi-in route and other inner/corpus/accent/case work remain Open. Prior142patra/C2–C5/S1–S7/native/global gates and Claude-deferred execution remain separate.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG634 · Twelve additional feminine case fibres and inner-number scope
+
+Previous publication: b8778771ad176ca9c920a3f0faeca8d8eabdd96e; tree add83913d4c15423fea780804c4d35c17133424c. Necessary check: Python 3.12.14, 83 assertions, 2 attempt(s).
+
+PG634: [Twelve additional feminine case fibres and inner-number scope](twelve_additional_feminine_case_fibres_and_inner_number_scope/README.md). 288 literal case keys/readings minus12 source NOMsg controls:276 new unique nominal positions/276 readings, zero finite or additional construction/source/accent credits. Census:51,819 finite;7,337 nominal/8,571 readings. Inner numeral counts and source-specific Viṣṇu route retained; apadī Vedic dual Open.
+
+PG521–634 cumulative:1,559 nominal positions/1,828 readings, zero finite;225 morphology/990 interfaces (810 nominal/stem+10 finite+170 avyaya);115 compound/568 plans;7 accent/27 records;133 semantics/410 records;89 syntax/246 records;27 source-policy decisions after PG555−1;257 observations. One provenance correction/one proof addendum; no new census correction.
+
+Twelve selected ordinary feminine case fibres locally CLOSED; Vedic/source/global gates Open.
+- Closed twelve selected ordinary feminine case fibres, with twelve source NOMsg controls withheld. Viṣṇupadī uses only its VCPac/ṅīṣ branch; polysemous heads have one counted fibre each.
+- Actual apadī Vedic-dual ending/source/recitation request remains Open, alongside K139eight/extended139seven and additional128 variants/inner semantics; no ordinary-case construction settles those textual gates.
+- 142patra, older critical/C2–C5/S1–S7/native/global scope and Claude-deferred execution remain distinct. Frozen predecessors/PG335/PG357–363 CLOSED unchanged; no ETA or full-Sanskrit claim.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
