@@ -1,0 +1,150 @@
+{
+  "stage": "PG549",
+  "paths": [
+    {
+      "name_id": "BHANU",
+      "input_name": "Bhānudatta",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "semantic_frame": "suppliedhumanname/bahvac/compassionorcompatiblenīti",
+      "actual_affix": "ilac",
+      "residual": "bhānu",
+      "tail": "dattaaftersecondvoweluinactive",
+      "source_policy": "PARTIAL_INITIAL_I_LOPA",
+      "la_owner": "oldilac_iinactive;oldilac_l+aretained",
+      "realized_suffix": "la",
+      "stem": "bhānula",
+      "position_credit": 0
+    },
+    {
+      "name_id": "BHANU",
+      "input_name": "Bhānudatta",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "semantic_frame": "suppliedhumanname/bahvac/compassionorcompatiblenīti",
+      "actual_affix": "ilac",
+      "residual": "bhānu",
+      "tail": "dattaaftersecondvoweluinactive",
+      "source_policy": "NYASA_WHOLE_LA_REPLACEMENT",
+      "la_owner": "wholeoldila inactive;newreplacement_l+asounded",
+      "realized_suffix": "la",
+      "stem": "bhānula",
+      "position_credit": 0
+    },
+    {
+      "name_id": "VASU",
+      "input_name": "Vasudatta",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "semantic_frame": "suppliedhumanname/bahvac/compassionorcompatiblenīti",
+      "actual_affix": "ilac",
+      "residual": "vasu",
+      "tail": "dattaaftersecondvoweluinactive",
+      "source_policy": "PARTIAL_INITIAL_I_LOPA",
+      "la_owner": "oldilac_iinactive;oldilac_l+aretained",
+      "realized_suffix": "la",
+      "stem": "vasula",
+      "position_credit": 0
+    },
+    {
+      "name_id": "VASU",
+      "input_name": "Vasudatta",
+      "root_id": null,
+      "preverb": null,
+      "voice": null,
+      "pada": null,
+      "gender": "m",
+      "semantic_frame": "suppliedhumanname/bahvac/compassionorcompatiblenīti",
+      "actual_affix": "ilac",
+      "residual": "vasu",
+      "tail": "dattaaftersecondvoweluinactive",
+      "source_policy": "NYASA_WHOLE_LA_REPLACEMENT",
+      "la_owner": "wholeoldila inactive;newreplacement_l+asounded",
+      "realized_suffix": "la",
+      "stem": "vasula",
+      "position_credit": 0
+    }
+  ],
+  "source_decision": {
+    "id": "R_EXTENSION_SOURCE_DECISION",
+    "status": "CLOSED_disagreement_registration_NOT_closed_fullwordlicence",
+    "reported_words": [
+      "savitriya",
+      "savitṛla"
+    ],
+    "sk_policy": "ṛvarṇādapirecorded;Savitṛcomparison",
+    "bala_policy": "ṛvarṇādapibhāṣyādṛṣṭatvādupekṣyam—attributedsourceobjection",
+    "primary_field": "53083containsu-ilacclause;absencehereisnotuniversalabsenceproof",
+    "local_phonology": [
+      "qualifiedsavitṛ+ghan_iyaframecanshowṛ→r beforei6.1.77",
+      "SKqualifiedsavitṛ+ilacframeusesreportedinitiali_lopa→savitṛ|la"
+    ],
+    "upstream": "Open:exactfullhuman-name/truncation/affixlicenceabove suppliedresidualnotestablishedhere",
+    "word_credit": 0,
+    "fullword_construction_status": "OPEN_NOT_PROMOTED_FROM_REPORTED_WORDS"
+  },
+  "controls": [
+    {
+      "id": "PARTIAL_LOPA_DELETES_WHOLE_ILA",
+      "status": "Excluded_wrong_named_partial_route"
+    },
+    {
+      "id": "LA_ALWAYS_MEANS_SOUND_L_SUBSTITUTION",
+      "status": "Excluded_source_policy_collapse"
+    },
+    {
+      "id": "WHOLE_LA_REPLACEMENT_RETAINS_OLD_ILA_PAYLOAD",
+      "status": "Excluded_wrong_replacement_owner"
+    },
+    {
+      "id": "CURRENT_LA_TREATED_AS_UNCHANGED_VOWELINITIAL_ILA",
+      "status": "Excluded_selected_actual_payload_query"
+    },
+    {
+      "id": "R_OBJECTION_EXCLUDES_ALL_SAVITR_WORDS",
+      "status": "Excluded_wholeword_ban_inference"
+    },
+    {
+      "id": "TWO_REPORTED_R_WORDS_COMPLETE_THEIR_UPSTREAM_NAME_PROOF",
+      "status": "Excluded_licence_upgrade"
+    },
+    {
+      "id": "ORIGINAL_EDITION_NYASA_MICROREADING_R_WITNESS",
+      "status": "Open_critical_reconciliation"
+    },
+    {
+      "id": "UNIVERSAL_EARLIER_BHA_INHERITANCE_OR_LATE_ORDER",
+      "status": "Open_beyond_selected_source_schedule"
+    },
+    {
+      "id": "OTHER_NAMES_GENDER_ACCENT_AND_CASE_PRODUCTS",
+      "status": "Open"
+    }
+  ],
+  "counts": {
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 2,
+    "new_source_policy_decisions": 1,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0
+  },
+  "output_accounting": {
+    "unique_constructed_stem_readouts": 2,
+    "owned_constructed_paths": 4,
+    "reported_r_words_not_full_requests": 2,
+    "new_word_positions": 0
+  },
+  "source_boundary": "Bhānu/Vasuselectedsource-qualifiedouterpathsconstructed;Savitṛwordsevidence/statusrecordswithupstreamOpen,notextramorphologyreadoutcredits.No regularcasecensus/primaryentryrecredit."
+}

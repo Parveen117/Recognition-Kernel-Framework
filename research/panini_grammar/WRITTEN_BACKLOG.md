@@ -941,3 +941,10 @@ Selectedtwoexactfourth-vowelnames/5historieseachCLOSED;previousplainkaquestionpo
 PG548 constructs [first-member and affixless-name alias ownership](first_member_and_affixless_name_alias_ownership/README.md):2morphology contracts9unique stems11paths;0word/source increments. Fullnamegatebeforefirstmemberloss,no phantomzero-ka;Devadatta/YajñadattaDattahistoriesdistinct.SKfemaleSatyānewṭāpāversusretainedBhāmāoldāexplicit.SharedM/Fcaseconsumersreused. Totalsunchanged51,819finite;6,384nominal/7,583readings;global gates Open.
 
 Selectedaffixed/barealiaseslocallyclosedonly,0regularcasecensus.Noaffectionatetaddhita≠nofeminine/supgrammar;sourcefemaleSKattributionkept.Innercompound/etymology/printandothernamesOpen.Nextactualu-vowelilacpartial-lopa/reportedṛextensionafterclosedregisterreview.C2-C5/S1-S7/Claude/nativeunchanged.
+
+
+### PG549 · Constructed u-ilac paths versus reported ṛwords with upstream Open
+
+PG549 constructs [u-ilac partial lopa/whole-la and reported ṛ-boundary](u_ilac_partial_lopa_whole_la_and_reported_r_boundary/README.md):1morphology adapter2stems4ownerpaths+1source-policy decision;0word/source-observation increments. Oldilacla versusNyāsanewwholelādeśaownersdistinct.SKṛextension/Bālaobjectionregisteredwithoutfullupstreamlicenceupgradeorwordban. Totalsunchanged51,819finite;6,384nominal/7,583readings;global gates Open.
+
+Bhānu/Vasuselectedu-ilacouterpathsCLOSED,source-policydecisionCLOSEDasdisagreementrecord. Savitṛfullparentname/truncation/affix-entitlementandindependentṛprimary/printstillOpen;twoexamplesnotpromotedtofullrequestsorExcluded.Nyāsawholelādeśamicrocritical/genericbha-inheritanceschedulesOpen.Nextactualone-vowel-memberwhole-tail/c-kquerycontractsafteroldregisterreview.C2-C5/S1-S7/Claude/nativeunchanged.
