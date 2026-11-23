@@ -1,6 +1,6 @@
-# Written-development backlog at PG617
+# Written-development backlog at PG618
 
-Monty · 2026-11-24 · reviewed current parent 3c3b4edc3a8edc547a4aa6dc18aadca5763ea7dc; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent f4d8a699cb0fee248255b60cac7aded292b04187; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1458,3 +1458,14 @@ Selected135–137 gandha interfaces locally CLOSED; source critical/borrowed-qua
 - Closed selected135–137 source stem/meaning interfaces; old generic PG38 contracts and PG612 sugandhi designation control receive no recredit.
 - Open: independent Bhaṭṭi/Jayamaṅgalā original, Nyāsa critical clause, exact borrowed-quality policy boundary; all full external gender/case/accent products.
 - Next138–141 compared pāda, sañjñā/quantities and danta replacements; exact128 gaṇa/bāhu/prohyapadi and prior120–134 textual/lexical issues, C2–C5/S1–S7/native/global gates stay Open. Claude execution is distinct.
+
+
+### PG618 · Pāda final-a loss, named feminines and foot-owned pad
+
+PG618: [Pāda final-a loss, named feminines and foot-owned pad](pada_final_a_lopa_named_feminines_and_owned_pad_replacement/README.md). Three formation adapters/13 interfaces; three compound contracts/14 plans; two meaning contracts/seven records; three scope contracts/eight records; five observations/one qualified source decision. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+Selected138–140 foot traces locally CLOSED;18 exact139 entries and full written gates Open.
+
+- Closed selected138–140 foot final-a/139ṅīp/pad-addressed traces. PG38 generic contracts, PG609 fixed padbhāva and4.1.8 old policy receive no repeated credit.
+- Genuine remaining139 K-list: mālāpadī, munipadī, godhāpadī, gopadī, kalaśīpadī, ghṛtapadī, dāsīpadī, niṣpadī, ārdrapadī, kuṇapadī, kṛṣṇapadī, droṇapadī, drupadī, śakṛtpadī, sūpapadī, pañcapadī, arvapadī, stanapadī. Tattva janapadī versus jālapadī, actual aṣṭā naming evidence for the alternate route, all full case/gender/accent products remain Open.
+- Next141–142 danta→datṛ and age/Vedic domains,143–148 named changes,149–160 residual kap gates; earlier128 gaṇa/bāhu/prohyapadi and older textual/lexical/C2–C5/S1–S7/native/global work remain Open; Claude execution distinct.

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG618: [Pāda final-a loss, named feminines and foot-owned pad](research/panini_grammar/pada_final_a_lopa_named_feminines_and_owned_pad_replacement/README.md). Three formation adapters/13 interfaces; three compound contracts/14 plans; two meaning contracts/seven records; three scope contracts/eight records; five observations/one qualified source decision. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
 PG617: [Gandha quality, quantity, comparison and suffix histories](research/panini_grammar/gandha_property_quantity_comparison_and_suffix_source_paths/README.md). Four formation adapters/16 interfaces; three compound contracts/19 plans; three meaning contracts/13 records; two scope contracts/five records; five observations/two qualified source decisions. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
 
 PG616: [Jāyā final-ā niṅ and the same-wife puṃvad owner](research/panini_grammar/jaya_final_a_ning_and_same_wife_pumvad_owner/README.md). One formation adapter/two jāni stems; one compound contract/two plans; one meaning contract/two records; one ownership contract/three records; two observations. Zero new word/accent/policy credits. Census:51,819 finite;6,716 nominal/7,950 readings.
