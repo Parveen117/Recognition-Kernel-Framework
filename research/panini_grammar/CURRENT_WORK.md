@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG570
+# Pāṇini grammar · current written coverage at PG571
+
+PG571 constructs [nava→nū age alternatives,dheya and homographic añ branches](nava_nu_age_alternatives_dheya_and_homographic_anj/README.md): three morphology adapters/17 stems;one accent adapter/two records;zero new word/source-observation/policy credits. Actual nū/vowel/sounded-n and added-añ/absence/gender histories retained. Remaining25Vedic/inner source/global gates Open;totals51,819 finite;6,384 nominal/7,583 readings.
 
 PG570 constructs [presented-material mayaṭ, collective transfer and purpose yat](presented_material_mayat_collective_and_purpose_yat/README.md): four morphology adapters/18 stems;one deity-compound adapter/four inputs;two meaning contracts/four readouts;four source observations;zero word/new-policy/accent credits. Two presentation accounts,actual collective entitlement,named particle group and purpose/DAT owners retained;full25extensions Open. Totals51,819 finite;6,384 nominal/7,583 readings;global gates Open.
 

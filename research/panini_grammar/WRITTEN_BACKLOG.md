@@ -1,6 +1,6 @@
-# Written-development backlog at PG570
+# Written-development backlog at PG571
 
-Monty · 23 November 2026 · reviewed current parent dca18d63e773ea14af76fd6dc27aea3fab1db116; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent c1e6568ee2a90eb4640364e2c51c7ed8667ae360; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1095,3 +1095,10 @@ Selected15–20 interfaces locally CLOSED. Earlier forecast dhanus/teacher-famil
 PG570 constructs [presented-material mayaṭ, collective transfer and purpose yat](presented_material_mayat_collective_and_purpose_yat/README.md): four morphology adapters/18 stems;one deity-compound adapter/four inputs;two meaning contracts/four readouts;four source observations;zero word/new-policy/accent credits. Two presentation accounts,actual collective entitlement,named particle group and purpose/DAT owners retained;full25extensions Open. Totals51,819 finite;6,384 nominal/7,583 readings;global gates Open.
 
 Selected21–24 and25core locally CLOSED. Next concrete25extensions:Vedic vasvādi/aps_ACCplural aluk,nava→nū plus tnap/tanap/kha,pra-old alternatives,dheya,āgnīdhra/sādhāraṇa añ,ayavasa/marut;none converted to an exclusion. Inner bheṣaja/āvasatha/deity origins and full cases/accent/source comparisons remain Open. Default abundance versus alternative presented-container account remain distinct;no invented majority threshold. Prior C2–C5/S1–S7/native/source frontiers remain Open;Claude execution separate.
+
+
+### PG571 · Owned age,dheya and nonzero homographic suffix branches
+
+PG571 constructs [nava→nū age alternatives,dheya and homographic añ branches](nava_nu_age_alternatives_dheya_and_homographic_anj/README.md): three morphology adapters/17 stems;one accent adapter/two records;zero new word/source-observation/policy credits. Actual nū/vowel/sounded-n and added-añ/absence/gender histories retained. Remaining25Vedic/inner source/global gates Open;totals51,819 finite;6,384 nominal/7,583 readings.
+
+PG570full25 pointer superseded only for these17stem/2accent interfaces. Remaining actual25vasvādi/aps_ACCplural_aluk,amūṣyāyana/amūṣyaputrikā,sama āvatup,ayavasa/marut and independent Vedic/case/accent work remain Open. K43120rañ versus Tattva25raṇ/old accent,sādhāraṇa inner histories remain Open;no guessed resolution. C2–C5/S1–S7/prior source/native gates and Claude-deferred execution distinct.
