@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG622: [Kakuda condition, named mountain and kākuda palate owners](kakuda_condition_named_mountain_and_kakuda_palate_owners/README.md). Four formation adapters/13 interfaces; four compound contracts/14 contexts; four meaning contracts/14 records; three scope contracts/five records; four observations/one source decision. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
 PG621: [Named tooth feminines, ordinary feminine options and dat choices](named_teeth_feminines_optional_ordinary_f_and_dat_choices/README.md). Four formation adapters/28 interfaces; three compound contracts/28 plans; three meaning contracts/18 records; three scope contracts/seven records; five observations/one source decision. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
 
 PG620: [Vedic teeth, Bhaṭṭabhāskara nuṃ absence and distinct first members](vedic_teeth_bhattabhaskara_num_absence_and_distinct_first_members/README.md). Two formation adapters/four interfaces; two compound contracts/three plans; one meaning contract/two records; two scope contracts/four records; three observations/one primary-commentary source decision. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.

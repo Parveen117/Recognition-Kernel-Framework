@@ -1,6 +1,6 @@
-# Written-development backlog at PG621
+# Written-development backlog at PG622
 
-Monty · 2026-11-24 · reviewed current parent 0b37292f5b7ab40c7db8cf66200f09756ef657a7; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent cc3d7aeaf85a5193caccd5d125554108071fae5c; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1502,3 +1502,14 @@ Selected143–145 source profiles locally CLOSED; original/naming/paradigm and w
 - Closed selected143–145 named/ordinary feminine and optional dat/danta source interfaces. Existing PG38 name/option and4.1.55 generic policies receive no recredit.
 - Open: original Nyāsa143 śāsantam microtext, unrestricted145 naming scope, inner roka derivation and all full gender/case/accent panels.
 - Next146–149 kakuda versus kākuda and150–160 residual kap. Prior142 patra case,13918-member and12813-member lists, two bāhu senses/prohyapadi, older textual/lexical/C2–C5/S1–S7/native/global work stay Open; Claude execution distinct.
+
+
+### PG622 · Kakuda condition, named mountain and kākuda palate owners
+
+PG622: [Kakuda condition, named mountain and kākuda palate owners](kakuda_condition_named_mountain_and_kakuda_palate_owners/README.md). Four formation adapters/13 interfaces; four compound contracts/14 contexts; four meaning contracts/14 records; three scope contracts/five records; four observations/one source decision. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+Selected146–149 hump/palate source traces locally CLOSED; full written gates Open.
+
+- Closed selected146–149 hump/condition/specific mountain/palate/optional-full-palate traces. PG38 generic policies receive no repeated credit.
+- Open: original source-age granularity, Nyāsa143 continuation beyond local147, all full case/gender/accent and source-pause products.
+- Next150–160 residual/named kap with actual interactions; prior142 patra,13918-member and12813-member lists, two bāhu senses/prohyapadi and older textual/lexical/C2–C5/S1–S7/native/global obligations remain Open. Claude execution distinct.

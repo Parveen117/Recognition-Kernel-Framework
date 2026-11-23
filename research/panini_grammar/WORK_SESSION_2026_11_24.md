@@ -177,3 +177,19 @@ Selected143–145 source profiles locally CLOSED; original/naming/paradigm and w
 - Next146–149 kakuda versus kākuda and150–160 residual kap. Prior142 patra case,13918-member and12813-member lists, two bāhu senses/prohyapadi, older textual/lexical/C2–C5/S1–S7/native/global work stay Open; Claude execution distinct.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG622 · Kakuda condition, named mountain and kākuda palate owners
+
+Previous publication: cc3d7aeaf85a5193caccd5d125554108071fae5c; tree ed72e11ff5d75922a5f235bcae7f65c4d334875f. Necessary check: Python 3.12.14, 71 assertions, 1 attempt(s).
+
+PG622: [Kakuda condition, named mountain and kākuda palate owners](kakuda_condition_named_mountain_and_kakuda_palate_owners/README.md). Four formation adapters/13 interfaces; four compound contracts/14 contexts; four meaning contracts/14 records; three scope contracts/five records; four observations/one source decision. Zero new word/accent credits. Census:51,819 finite;6,716 nominal/7,950 readings.
+
+PG521–622 cumulative:938 nominal positions/1,207 readings, zero finite;198 morphology constructions/874 interfaces (708 nominal/stem+10 finite+156 avyaya);90 compound contracts/450 contexts;7 accent/27 records;102 semantics/310 records;57 syntax/168 records;22 source-policy decisions after PG555−1;194 observations (6 VCP+35 primary Bhāṣya+27 paired commentary+56 Nyāsa+23 Tattva+32 Bāla+14 K cross-rule+1 primary Bhaṭṭabhāskara). One additive register-provenance correction; no new census effect.
+
+Selected146–149 hump/palate source traces locally CLOSED; full written gates Open.
+- Closed selected146–149 hump/condition/specific mountain/palate/optional-full-palate traces. PG38 generic policies receive no repeated credit.
+- Open: original source-age granularity, Nyāsa143 continuation beyond local147, all full case/gender/accent and source-pause products.
+- Next150–160 residual/named kap with actual interactions; prior142 patra,13918-member and12813-member lists, two bāhu senses/prohyapadi and older textual/lexical/C2–C5/S1–S7/native/global obligations remain Open. Claude execution distinct.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
