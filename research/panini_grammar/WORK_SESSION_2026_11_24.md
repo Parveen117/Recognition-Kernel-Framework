@@ -513,3 +513,19 @@ Haim ācyapadi action reading locally CLOSED; Pāṇinian/VCP variants and globa
 - Actual K139eight/extended139seven, remaining128 inner/variant work and prior C2–C5/S1–S7/native/global obligations remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG643 · Antevāsi spatial ic and the distinct pupil-agent history
+
+Previous publication: 2dd1e5ec4f1335d807072cee2b08d07009bf5a49; tree ff33b33a8de1d4161397befb7bc08550145806b3. Necessary check: Python 3.12.14, 52 assertions, 1 attempt(s).
+
+PG643: [Antevāsi spatial ic and the distinct pupil-agent history](antevasi_spatial_ic_and_distinct_pupil_agent_history/README.md). A Haim witness now positively separates spatial antevāsi tiṣṭhati (nominal ante+vāsa+ic/i) from root999/ṇin antevāsī guroḥ, without overwriting PG637 pupil-state meaning. Two morphology/four interfaces, one compound/two plans, two semantics/four records, two syntax/five records, one observation/one source decision; zero positions. Census 51,819 finite;7,474 nominal/8,709 readings.
+
+PG521–643 cumulative:1,696 nominal positions/1,966 readings, zero finite;232 morphology/1,002 interfaces (813 nominal/stem+10 finite+179 avyaya);118 compound/573 plans;7 accent/27 records;141 semantics/423 records;101 syntax/276 records;31 source-policy decisions after PG555−1;266 observations. One provenance correction/one proof addendum; no new census correction.
+
+Haim spatial antevāsi route locally CLOSED; full neuter/cross-tradition/global gates Open.
+- Closed the Haim spatial antevāsi route and its inner nominal antevāsa/ic history; PG637 pupil-state source and root999 person control receive no repeated credits.
+- The person antevāsī channel remains separate. PWG perhaps-neuter as a full paradigm, wider case/accent/corpus and cross-tradition equivalence remain Open; archive has no git commit and that limit is explicit.
+- Actual K139eight/extended139seven, remaining128 variants and prior C2–C5/S1–S7/native/global work remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.

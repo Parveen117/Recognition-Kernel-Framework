@@ -1,6 +1,6 @@
-# Written-development backlog at PG642
+# Written-development backlog at PG643
 
-Monty · 2026-11-24 · reviewed current parent 1da4c5d1b50b0eaa853bfbf67e5f5a888975bab7; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 2dd1e5ec4f1335d807072cee2b08d07009bf5a49; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1733,3 +1733,14 @@ Haim ācyapadi action reading locally CLOSED; Pāṇinian/VCP variants and globa
 - Closed the Haim-tradition ācyapadi action reading with explicit archive/root/preverb/nonfinite/outer-affix ownership; no Pāṇinian generic128 or old word credit repeated.
 - Pāṇinian K āḍhyapadi, VCP raw Adyapadi and their critical relationship remain distinct Open channels; the archive supplies no git commit and that provenance limitation remains explicit.
 - Actual K139eight/extended139seven, remaining128 inner/variant work and prior C2–C5/S1–S7/native/global obligations remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.
+
+
+### PG643 · Antevāsi spatial ic and the distinct pupil-agent history
+
+PG643: [Antevāsi spatial ic and the distinct pupil-agent history](antevasi_spatial_ic_and_distinct_pupil_agent_history/README.md). A Haim witness now positively separates spatial antevāsi tiṣṭhati (nominal ante+vāsa+ic/i) from root999/ṇin antevāsī guroḥ, without overwriting PG637 pupil-state meaning. Two morphology/four interfaces, one compound/two plans, two semantics/four records, two syntax/five records, one observation/one source decision; zero positions. Census 51,819 finite;7,474 nominal/8,709 readings.
+
+Haim spatial antevāsi route locally CLOSED; full neuter/cross-tradition/global gates Open.
+
+- Closed the Haim spatial antevāsi route and its inner nominal antevāsa/ic history; PG637 pupil-state source and root999 person control receive no repeated credits.
+- The person antevāsī channel remains separate. PWG perhaps-neuter as a full paradigm, wider case/accent/corpus and cross-tradition equivalence remain Open; archive has no git commit and that limit is explicit.
+- Actual K139eight/extended139seven, remaining128 variants and prior C2–C5/S1–S7/native/global work remain Open. Claude execution separate; PG335/PG357–363 CLOSED preserved.

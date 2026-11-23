@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG642
+# Pāṇini grammar · current written coverage at PG643
+
+PG643: [Antevāsi spatial ic and the distinct pupil-agent history](antevasi_spatial_ic_and_distinct_pupil_agent_history/README.md). A Haim witness now positively separates spatial antevāsi tiṣṭhati (nominal ante+vāsa+ic/i) from root999/ṇin antevāsī guroḥ, without overwriting PG637 pupil-state meaning. Two morphology/four interfaces, one compound/two plans, two semantics/four records, two syntax/five records, one observation/one source decision; zero positions. Census 51,819 finite;7,474 nominal/8,709 readings.
 
 PG642: [Ācyapadi Haim action reading and the unmerged Pāṇinian variant](acyapadi_haim_action_reading_and_unmerged_paninian_variant/README.md). Two printed Haim witnesses positively fix parenthetical ācyapadi as a tagged ā+añc105 nonfinite action plus fixed two-foot lying-event adverb, without emending Pāṇinian āḍhyapadi or VCP Adyapadi. Two morphology/four interfaces, one compound/two plans, two semantics/four records, two syntax/five records, two observations and one qualified source decision; zero positions. Census51,819 finite;7,474 nominal/8,709 readings.
 
