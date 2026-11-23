@@ -1,6 +1,6 @@
-# Written-development backlog at PG636
+# Written-development backlog at PG637
 
-Monty · 2026-11-24 · reviewed current parent 43355de2e35a1d8b97d7ae18cc36e2df5fa4cc22; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 5ad363ddbcaeeef7fa9a2f569e7de0abf7d3a9d6; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1667,3 +1667,14 @@ Selected inner pad+in locally CLOSED; full VCP composition/source/global gates O
 - Closed only VCP source-relative inner divādipad1040065+Uṇādi4.117in→padi, retaining actual i/n_IT and no guessed śyan/ṇic/iṭ/vṛddhi. Existing128sapadi is frozen/no recredit.
 - Full VCP saha→sa composition and avyaya designation, general Uṇādi productivity, alternate roots/inner derivations, actual accent/cases remain Open; no textual gap becomes an exclusion.
 - K139eight/extended139seven, additional128recensions,142patra and prior C2–C5/S1–S7/native/global obligations remain Open; Claude execution separate.
+
+
+### PG637 · Antevāsi named adverb and an unmerged neuter hypothesis
+
+PG637: [Antevāsi named adverb and an unmerged neuter hypothesis](antevasi_named_adverb_and_unmerged_neuter_hypothesis/README.md). One positive extended128 antevāsi pupil-state adverb interface/compound/meaning frame;two scope/four records;one MW observation/one source decision. PWG perhaps-neuter and lexical antevāsa inner-aluk proof remain Open. Zero new word/accent credits; census51,819 finite;7,359 nominal/8,594 readings.
+
+Selected antevāsi adverb locally CLOSED; neuter/inner/source/global gates Open.
+
+- Closed selected MW/Vasu/PWG named antevāsi adverb, retaining supplied antevāsa+ic ownership; no repeated old membership/generic128/word credits.
+- PWG perhaps-neuter antevāsin hypothesis and supplied antevāsa internal compound/aluk, ācyapadi parenthetical and raw VCP daṇḍi/Adya variants remain actual Open work.
+- K139eight/extended139seven, remaining inner128/142patra and earlier C2–C5/S1–S7/native/global work remain Open. Claude execution separate; frozen PG335/PG357–363 CLOSED preserved.

@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG637: [Antevāsi named adverb and an unmerged neuter hypothesis](antevasi_named_adverb_and_unmerged_neuter_hypothesis/README.md). One positive extended128 antevāsi pupil-state adverb interface/compound/meaning frame;two scope/four records;one MW observation/one source decision. PWG perhaps-neuter and lexical antevāsa inner-aluk proof remain Open. Zero new word/accent credits; census51,819 finite;7,359 nominal/8,594 readings.
+
 PG636: [Sapadi inner Uṇādi in and the selected divādi pad root](sapadi_inner_unadi_in_and_divadi_pad_root_selection/README.md). One source-grounded inner divādipad1040065+Uṇādi4.117in interface;one meaning frame;two scope/five records;two primary observations. Dental n_IT differs from ṇ_IT and128c_IT. Whole VCP saha→sa/composition/avyaya route remains Open. Zero new word/policy/accent credits; census51,819 finite;7,359 nominal/8,594 readings.
 
 PG635: [Apadī Vedic dual coalescence and source-owned case fibre](apadi_vedic_dual_coalescence_and_source_owned_case_fibre/README.md). One source-owned apadī24-key/25-reading fibre, including attested Vedic NOMdu coalescence:22 new unique nominal positions/23 readings after two source-position controls;one new dual adapter/two interfaces;one meaning frame;two scope/five records;three source observations. Census51,819 finite;7,359 nominal/8,594 readings. Unique Vedic inner analysis/accent and wider gates Open.

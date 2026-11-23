@@ -417,3 +417,19 @@ Selected inner pad+in locally CLOSED; full VCP composition/source/global gates O
 - K139eight/extended139seven, additional128recensions,142patra and prior C2–C5/S1–S7/native/global obligations remain Open; Claude execution separate.
 
 The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
+
+
+## PG637 · Antevāsi named adverb and an unmerged neuter hypothesis
+
+Previous publication: 5ad363ddbcaeeef7fa9a2f569e7de0abf7d3a9d6; tree b8b98165a1cbfe757295fc7bcc9b850a8f3bf051. Necessary check: Python 3.12.14, 51 assertions, 1 attempt(s).
+
+PG637: [Antevāsi named adverb and an unmerged neuter hypothesis](antevasi_named_adverb_and_unmerged_neuter_hypothesis/README.md). One positive extended128 antevāsi pupil-state adverb interface/compound/meaning frame;two scope/four records;one MW observation/one source decision. PWG perhaps-neuter and lexical antevāsa inner-aluk proof remain Open. Zero new word/accent credits; census51,819 finite;7,359 nominal/8,594 readings.
+
+PG521–637 cumulative:1,581 nominal positions/1,851 readings, zero finite;228 morphology/994 interfaces (813 nominal/stem+10 finite+171 avyaya);116 compound/569 plans;7 accent/27 records;136 semantics/413 records;95 syntax/260 records;28 source-policy decisions after PG555−1;263 observations (29 VCP+13 MW+4 PWG+35 primary Bhāṣya+31 paired commentary+59 Nyāsa+24 Tattva+37 Bāla+23 K cross-rule+1 primary Bhaṭṭabhāskara+2 primary Uṇādi records+2 historical Vasu+1 primary Saṃhitā+1 primary Sāyaṇa+1 root contrast). One provenance correction/one proof addendum; no new census correction.
+
+Selected antevāsi adverb locally CLOSED; neuter/inner/source/global gates Open.
+- Closed selected MW/Vasu/PWG named antevāsi adverb, retaining supplied antevāsa+ic ownership; no repeated old membership/generic128/word credits.
+- PWG perhaps-neuter antevāsin hypothesis and supplied antevāsa internal compound/aluk, ācyapadi parenthetical and raw VCP daṇḍi/Adya variants remain actual Open work.
+- K139eight/extended139seven, remaining inner128/142patra and earlier C2–C5/S1–S7/native/global work remain Open. Claude execution separate; frozen PG335/PG357–363 CLOSED preserved.
+
+The exact stage publication is the containing commit. Preserve PG335 and PG357–363 CLOSED; existing review branch only, nonforce. Grammar execution, generators, old/navigation/engine suites and replay are Claude-deferred. No elapsed-hours or ETA claim.
