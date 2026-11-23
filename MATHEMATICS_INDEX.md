@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG603 constructs [primary lexical nadī and policy-owned avyaya options](research/panini_grammar/lexical_nadi_primary_witness_and_policy_owned_avyaya_options/README.md): three recipes/14avyayainterfaces,three compound contracts/14plans,two scope/policy contracts/six frames,one meaning contract/three frames,five observations and one qualified reported strict-source decision. Zero word/accent credits;primarylexicalreply distinctfromlateroptionalityinference. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
+
 PG602 constructs [avyayībhāva list,jaras and retained carman branches](research/panini_grammar/avyayibhava_list_jaras_and_retained_carman_branches/README.md): four adapters/20interfaces,three compound contracts/20plans,one scope/case contract/four frames,two meaning contracts/six frames,four observations and one qualified reported parokṣa source decision. Zero word/accent/parokṣamorphology credits;rightN/wholeN,markers and retainedn distinct. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
 
 PG601 constructs [collective dvandva ṭac and first/final sound ownership](research/panini_grammar/collective_dvandva_tac_and_first_final_sound_ownership/README.md): one recipe/14stems,one compound contract/14plans,one guard contract/four frames,one meaning contract/three frames,two observations. Zero word/accent/new-policy credits;actualfirstpada/rightcu-d-ṣ-h/sourceparent/tree retained. Totals51,819finite;6,601nominal/7,835readings;wider gates Open.
