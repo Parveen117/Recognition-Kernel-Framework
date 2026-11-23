@@ -857,3 +857,10 @@ Already closed locally: mitkām-afterī/oldmretention with3fixedjunctionoutputs;
 PG536 constructs [degree/ka order and source-qualified case families](degree_ka_ordering_and_source_qualified_case_families/README.md):1morphology adapter4stem interfaces;92new nominal positions96readings,0finite/source increments. Primary5856degree-beforeka versus5857kadācitchinnaka-beforedegree explicit;notuniversalcommutation. Fourfamilies96keys100readingsminus4oldcontrols. Totals51,819finite;6,172nominal/7,158readings;global gates Open.
 
 SelectedMpaṭutaraka/paṭutamakaandNchinnakatara/chinnakatamafamiliesclosedonlyonqualified5856/5857frames. General kadācitclassnotenumeratedOpen;unsourcedordersarenotwholewordexclusions. Next5858one-partcompoundbeforeka,5879namedkancompound,5880dvandvaorderingafteroldregisterreview;innerchinnaproof/othergenders/suffixes/senses/source/critical/nativeandS1-S7/C2-C5stillOpen.
+
+
+### PG537 · Compound priority and two independently owned feminine vowels
+
+PG537 constructs [half-compound before ka and owned feminine cases](half_compound_before_ka_and_owned_feminine_cases/README.md):1compound contract2stem interfaces;46new nominal positions/readings,0finite/source increments. Equalhalf/onewhole andrightFīretainedbeforeka-shortening;newṭāpāseparate. TwoFfamilies48keys/readingsminus2oldcontrols. Totals51,819finite;6,218nominal/7,204readings;global gates Open.
+
+OnlyselectedK2.2.2same-wholehalf+5858kaFfamiliesclosed;reportedprimaryredundancy/karmadhārayaalternativeandNyāsascope/criticalcollationOpen.Severalindividuallyformedhalvesnotuniversallyrejected.Next5879namedkan-compoundand5880dvandvaorderafterclosedregisterreview.C2-C5/S1-S7/Claude/nativeunchanged.
