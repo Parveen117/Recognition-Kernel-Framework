@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG546 constructs [third-vowel unsandhied-name cut and suffix-dependent ṇatva](research/panini_grammar/third_vowel_unsandhied_name_cut_and_suffix_dependent_natva/README.md):1morphology adapter6stems;46new nominal positions144readings,0finite/source. Twoexactsourcehuman-namescountbeforecoalescence/yaṇ;retainedthirdvowellaterbha-lopa.Suparik/iypermitcaseṇ,ilaclsoundedblocksit;losttailrnottrigger. Totals51,819finite;6,384nominal/7,583readings;global gates Open.
+
 PG545 constructs [upa-name affix owners and sandhi-cut source policies](research/panini_grammar/upa_name_affix_owners_and_sandhi_cut_source_policies/README.md):1morphology adapter6unique stem readouts/16ownedhistories;0word/source increments. Formed-e cutversustwoattributedpre-coalescenceaccountsseparate;medialḍsounded,vucteachingunotugit,aka-versusiy|aownershipdistinct. Totalsunchanged51,819finite;6,338nominal/7,439readings;global gates Open.
 
 PG544 constructs [u/ṛ-name tail before ṭhac-k and owned case nasals](research/panini_grammar/u_r_name_tail_before_thac_k_and_owned_case_nasals/README.md):1morphology adapter2stems;46new nominal positions48readings,0finite/source. Tailcutatactualṭhexposesu/ṛbefore7.3.51k;Smṛtinotuniversalalvidhitargetpermission. vāyukan dental/pitṛkaṛ-ownedcaseṇ,padāntanexplicit. Totals51,819finite;6,338nominal/7,439readings;global gates Open.
