@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG584
+# Pāṇini grammar · current written coverage at PG585
+
+PG585 constructs [sāman/loman ac and non-organ akṣi](saman_loman_ac_and_nonorgan_aksi_source_accounts/README.md): two formation adapters/ten compound-stem interfaces, one compound contract/three plans, one meaning contract/five frames and three source observations. Zero word/accent/policy credits. Actual an/i-lopa and mandatory gavākṣa avaṅ,compound/go-sense histories retained; remaining74/75/source/globalgates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 
 PG584 constructs [samāsānta membership, scope guards and apatha branches](samasanta_membership_scope_guards_and_apatha_branches/README.md): one compound constructor/five class projections, one guard contract/14 requests, one optional-path formation contract/two source-case interfaces and three source observations. Zero word/accent/new-policy credits. Meaning,class,endpoint,source-order,optional affix and gender owners retained; critical/global gates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 

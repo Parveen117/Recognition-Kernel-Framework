@@ -1,6 +1,6 @@
-# Written-development backlog at PG584
+# Written-development backlog at PG585
 
-Monty · 23 November 2026 · reviewed current parent 09da566d00cf4109b12e0a8d5121acc6675aa51b; historical closures below retain their exact original pins.
+Monty · 23 November 2026 · reviewed current parent 573b88c6c7c9175ad55fe6bd6343e2cea68b5c56; historical closures below retain their exact original pins.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic
@@ -1193,3 +1193,10 @@ Selected61–67interfaces locallyCLOSED. Critical61targets/vyathana-vyadhana,67c
 PG584 constructs [samāsānta membership, scope guards and apatha branches](samasanta_membership_scope_guards_and_apatha_branches/README.md): one compound constructor/five class projections, one guard contract/14 requests, one optional-path formation contract/two source-case interfaces and three source observations. Zero word/accent/new-policy credits. Meaning,class,endpoint,source-order,optional affix and gender owners retained; critical/global gates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
 
 Selected68–72locallyCLOSED. 68source-orderpolicies remain distinct;Nyāsa70scopepositivebutprintedwordrecipesOpen;72sourceheading/differentvigraha andcompletepathin/accentworkOpen. Actual73onward andpriorcitation-i/inner/lexical/C2–C5/S1–S7/source/native/globalwork remains;Claudeexecutionseparate.
+
+
+### PG585 · Skip closed73/selected74;construct actual75–76parents
+
+PG585 constructs [sāman/loman ac and non-organ akṣi](saman_loman_ac_and_nonorgan_aksi_source_accounts/README.md): two formation adapters/ten compound-stem interfaces, one compound contract/three plans, one meaning contract/five frames and three source observations. Zero word/accent/policy credits. Actual an/i-lopa and mandatory gavākṣa avaṅ,compound/go-sense histories retained; remaining74/75/source/globalgates Open. Totals 51,819 finite; 6,408 nominal/7,631 readings.
+
+73nearcount/niṣtriṃśaand74dhur/ṛcCLOSEDwithactualPG513–515/517pins. 74pur/ap/pathinremainingdomains and75bhūmi/nadī/Godāvarī/nābhi/rātriextensions genuinelyunconstructed;BālapṛṣodaraversusKrule-splitpoliciesneedpositive source decisions. 76cow/raylexicalaccounts stayseparate;critical/citation-i/inner/gender/case/accent/C2–C5/S1–S7/native/globalgatesOpen;Claudeexecutionseparate.
