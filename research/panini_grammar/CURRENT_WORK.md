@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG590
+# Pāṇini grammar · current written coverage at PG591
+
+PG591 constructs [radiance,darkness and blessing ac layers](radiance_darkness_and_blessing_owned_ac_layers/README.md): four formation recipes/ten interfaces,nine outer and one inner andha;three compound contracts/11 plans,one meaning contract/four frames and three observations. Zero word/accent/policy credits. Actual1100471Curādi-kṛt-ac versus outertaddhita-ac,s-final and blessing/parent histories retained;wider gates Open. Totals 51,819 finite;6,454 nominal/7,679 readings.
 
 PG590 constructs [25 named compounds and two catur extensions](named_samasanta_25_compounds_and_catur_extensions/README.md): one exact named-formation contract/27 interfaces,one compound-class contract/27 source plans and three observations. Zero word/accent/policy credits. Actual class,nipātana exceptions,su-praise override and ac-versus-ḍac retained;critical/inner/globalgates Open. Totals 51,819 finite;6,454 nominal/7,679 readings.
 
