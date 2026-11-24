@@ -1,6 +1,8 @@
-# Written-development backlog at PG788
+# Written-development backlog at PG789
 
-Monty · 2026-11-25 · reviewed parent d993eae73512ca93d7e6171250d1fb89502be73c. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 7d872327a6fe142612c5b3125350e46dd61ef5bf. Historical closures below retain their exact pins.
+
+PG789 · [Numeral parts, their whole and surplus hundreds](numeral_parts_wholes_and_surplus_hundreds/README.md). The selected 5.2.42–45 literal surfaces, alternatives, accent recipients and same-unit surplus guards are CLOSED. Complete paradigms, wider accent recitation, historical priority of the two `ubha` analyses and independent corpus histories remain Open. Continue 5.2.46 onward. S5 remains 99/103 direct assignments and S6 retains its independent specific k-it-effect requirement. C2–C5 and S1–S7 remain Open.
 
 PG788 · [Five quantity pronouns, three Vedic comparisons and a question about the gods](five_quantity_pronouns_and_the_number_of_gods/README.md). Further primary witnesses for the nested measure, additional accent histories of these forms, and the historical priority of the two 5.2.40 analyses remain Open. Continue 5.2.42–45 with members and the whole, tayap versus ayac, ritual and nonritual uses and the independently owned numeral relations. C2–C5 and S1–S7 remain Open.
 

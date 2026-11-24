@@ -1,0 +1,39 @@
+{
+  "stage": "PG789",
+  "date": "2026-11-25",
+  "publication_parent": "7d872327a6fe142612c5b3125350e46dd61ef5bf",
+  "baseline": {
+    "commit": "7d872327a6fe142612c5b3125350e46dd61ef5bf",
+    "path": "research/panini_grammar/five_quantity_pronouns_and_the_number_of_gods/STATE.json"
+  },
+  "finite_positions": 52357,
+  "nominal_positions": 21339,
+  "nominal_readings": 24133,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 23,
+  "new_nominal_readings": 26,
+  "new_morphology_constructions": 4,
+  "new_morphology_interfaces": 23,
+  "new_accent_constructions": 2,
+  "new_accent_records": 3,
+  "new_source_observations": 0,
+  "new_source_policy_decisions": 4,
+  "open_obligations": [
+    "Complete paradigms, wider accent recitation, historical priority of the two ubha analyses and independent corpus histories remain Open.",
+    "Continue 5.2.46 onward with the extended numeral endings, ordinal ownership and the distinct target-total restrictions.",
+    "S5 still requires four exact Uṇādi 4.105 primary assignments; S6 still requires an independent specific 5.56 k-it effect."
+  ],
+  "local_closure": "Selected 5.2.42–45 literal surface positions, owned alternatives, mandatory replacement, accent records and surplus guards are CLOSED.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation only. Claude owns grammar execution, generators, untouched suites and certificate replay."
+}

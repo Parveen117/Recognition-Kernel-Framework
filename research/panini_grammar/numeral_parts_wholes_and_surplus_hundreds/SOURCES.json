@@ -1,0 +1,58 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "7d872327a6fe142612c5b3125350e46dd61ef5bf",
+      "path": "research/panini_grammar/five_quantity_pronouns_and_the_number_of_gods/STATE.json",
+      "git_blob_sha": "e3a99ee0ac0ec42c2c844bc997dc83435deaa283",
+      "sha256": "6e4283bf03ddf28820fa6e7c31bd8675aa9b98ff94cc66ab43c218dd32d37e7b",
+      "use": "Published PG788 baseline"
+    },
+    {
+      "commit": "7d872327a6fe142612c5b3125350e46dd61ef5bf",
+      "path": "research/panini_grammar/possession_adverbials/SOURCE_EXCERPTS.json",
+      "git_blob_sha": "56ed94a5eb382934b25425b216cc534504796a3a",
+      "sha256": "b331a2ae11cca694fb978fc08eff91999aedd9be8d4f70039e12f09fd6837fd4",
+      "use": "Frozen complete Kāśikā and Vasu fields for 5.2.42–45 and the 4.1.15 feminine examples"
+    },
+    {
+      "commit": "7d872327a6fe142612c5b3125350e46dd61ef5bf",
+      "path": "research/panini_grammar/possession_adverbials/RULE_REGISTER.json",
+      "git_blob_sha": "a5069519fc22c47e37cb8cecb111cbe670fa624b",
+      "sha256": "f9475d6dfe3ed6c9e8591b0ea126af33187814fef252029ebdc8f6625baeec09",
+      "use": "PG37 bounded contracts explicitly marked not executed and without complete surface derivation"
+    },
+    {
+      "commit": "7d872327a6fe142612c5b3125350e46dd61ef5bf",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "use": "Frozen identities for 1.1.33, 1.1.56, 4.1.15, 5.2.42–45 and 6.1.163"
+    },
+    {
+      "commit": "7d872327a6fe142612c5b3125350e46dd61ef5bf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier and typed zero specialization"
+    }
+  ],
+  "source_fields_reused_without_new_observation_credit": [
+    {
+      "rules": "5.2.42–45",
+      "sources": "Kāśikā and Vasu English",
+      "urls": [
+        "https://ashtadhyayi.com/sutraani/5/2/42",
+        "https://ashtadhyayi.com/sutraani/5/2/43",
+        "https://ashtadhyayi.com/sutraani/5/2/44",
+        "https://ashtadhyayi.com/sutraani/5/2/45"
+      ],
+      "reason": "The literal source fields were already imported and credited by PG37; PG789 completes the unexecuted surface layer."
+    },
+    {
+      "rule": "4.1.15",
+      "source": "Kāśikā",
+      "use": "Direct feminine examples pañcatayī and daśatayī and the tayap-conditioned long ī."
+    }
+  ],
+  "source_observations_new": 0
+}

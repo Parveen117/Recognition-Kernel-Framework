@@ -154,9 +154,16 @@ The starting census at [PG746](https://github.com/Parveen117/Recognition-Kernel-
 | PG785 | [519bd08ce2b0c513490ccefc780921235688cd62](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/519bd08ce2b0c513490ccefc780921235688cd62) | 2 | 2 | 18 | 20 | 1 | 14 | 15 | 5 | — |
 | PG786 | [fc1c29939bb9055a708bc9bfa2c43f3861c5a9b6](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/fc1c29939bb9055a708bc9bfa2c43f3861c5a9b6) | 0 | 0 | 0 | 0 | 0 | 0 | 13 | 4 | — |
 | PG787 | [d993eae73512ca93d7e6171250d1fb89502be73c](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/d993eae73512ca93d7e6171250d1fb89502be73c) | 2 | 2 | 2 | 2 | 1 | 5 | 11 | 4 | 1 accent constructions, 1 accent readings |
-| PG788 | Containing commit | 0 | 1 | 11 | 11 | 1 | 11 | 14 | 5 | — |
+| PG788 | [7d872327a6fe142612c5b3125350e46dd61ef5bf](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/7d872327a6fe142612c5b3125350e46dd61ef5bf) | 0 | 1 | 11 | 11 | 1 | 11 | 14 | 5 | — |
+| PG789 | Containing commit | 0 | 0 | 23 | 26 | 4 | 23 | 0 | 4 | 2 accent constructions, 3 accent records |
 
-Through PG788 the census is 52,357 finite positions, 21,316 nominal positions and 24,107 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
+Through PG789 the census is 52,357 finite positions, 21,339 nominal positions and 24,133 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
+
+## PG789 · Numeral parts, their whole and surplus hundreds
+
+PG789 · [Numeral parts, their whole and surplus hundreds](numeral_parts_wholes_and_surplus_hundreds/README.md). Completes the written surface layer for 5.2.42–45 while reusing PG37's source fields and bounded contracts without duplicate observation credit. 23 new nominal positions and 26 readings. Finite positions and readings both increased by zero. Four morphology constructions/23 interfaces, two accent constructions/three records, zero new source observations and four source decisions. Census: 52,357 finite positions, 21,339 nominal positions and 24,133 nominal readings.
+
+Parent 7d872327a6fe142612c5b3125350e46dd61ef5bf. The containing commit pins this packet. Complete paradigms, wider accent recitation, historical priority of the two `ubha` analyses and independent corpus histories remain Open. Continue 5.2.46 onward. S5 remains 99/103 and S6 retains the independent 5.56 k-it effect requirement. C2–C5 and S1–S7 remain Open. Claude retains execution, generators, untouched suites and certificate replay.
 
 ## PG772 · Two causal predicates and the changing cases of hotrā in Aitareya 6.14
 

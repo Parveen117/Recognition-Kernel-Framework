@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG788
+# Pāṇini grammar · current written coverage at PG789
+
+PG789 · [Numeral parts, their whole and surplus hundreds](numeral_parts_wholes_and_surplus_hundreds/README.md). Completes the previously unexecuted 5.2.42–45 surface layer: `tayap`, optional and obligatory `ayac`, the separately owned accent, and same-unit excess over a hundred or thousand. Census: 52,357 finite positions, 21,339 nominal positions and 24,133 nominal readings.
 
 PG788 · [Five quantity pronouns, three Vedic comparisons and a question about the gods](five_quantity_pronouns_and_the_number_of_gods/README.md). Distinguishes quantity from likeness and numerical inquiry, verifies the three Ṛgvedic quotations, and attaches the Vedic smasi reading to PG8’s existing first plural. Census: 52,357 finite positions, 21,316 nominal positions and 24,107 nominal readings.
 

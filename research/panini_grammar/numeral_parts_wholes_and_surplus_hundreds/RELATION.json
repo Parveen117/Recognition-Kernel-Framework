@@ -1,0 +1,85 @@
+{
+  "stage": "PG789",
+  "morphology_constructions": [
+    {
+      "id": "PARTS",
+      "rule": "5.2.42",
+      "input": "numeral counting constituent members",
+      "affix_history": "tayap",
+      "output_type": "whole possessing those members",
+      "interfaces": ["P5", "P10", "P4", "P4F", "P5F", "P10F"]
+    },
+    {
+      "id": "OPTION",
+      "rule": "5.2.43",
+      "input": "dvi or tri after admitted tayap",
+      "affix_history": "retain tayap or replace it with ayac",
+      "output_type": "two- or three-part whole with sthaanivad history",
+      "interfaces": ["D2A", "D2T", "D3A", "D3T", "D2F", "D3F", "D2PL", "D3PL"]
+    },
+    {
+      "id": "BOTH",
+      "rule": "5.2.44",
+      "input": "ubha in the parts-to-whole relation",
+      "affix_history": "tayap admitted, obligatorily replaced by accented ayac",
+      "output_type": "whole constituted by both members or classes",
+      "interfaces": ["U1", "UN", "UPL"]
+    },
+    {
+      "id": "EXCESS",
+      "rule": "5.2.45",
+      "input": "non-bare numeral ending in dashan, same-unit excess in hundred/thousand target",
+      "affix_history": "dda with marker loss and final an deletion",
+      "output_type": "surplus numeral agreeing with the containing target",
+      "interfaces": ["E11H", "E11K", "E12H", "E12K", "E11C", "E11SK"]
+    }
+  ],
+  "nominal_positions": [
+    {"id":"P5","address":"N NOMsg","readings":["pañcatayam"]},
+    {"id":"P10","address":"N NOMsg","readings":["daśatayam"]},
+    {"id":"P4","address":"N NOMsg","readings":["catuṣṭayam"]},
+    {"id":"P4F","address":"F NOMsg","readings":["catuṣṭayī"]},
+    {"id":"P5F","address":"F NOMsg","readings":["pañcatayī"]},
+    {"id":"P10F","address":"F NOMsg","readings":["daśatayī"]},
+    {"id":"D2A","address":"N NOMsg","readings":["dvayam"]},
+    {"id":"D2T","address":"N NOMsg","readings":["dvitayam"]},
+    {"id":"D3A","address":"N NOMsg","readings":["trayam"]},
+    {"id":"D3T","address":"N NOMsg","readings":["tritayam"]},
+    {"id":"D2F","address":"F NOMsg","readings":["dvayī"]},
+    {"id":"D3F","address":"F NOMsg","readings":["trayī"]},
+    {"id":"D2PL","address":"M NOMpl","readings":["dvaye","dvayāḥ"]},
+    {"id":"D3PL","address":"M NOMpl","readings":["traye","trayāḥ"]},
+    {"id":"U1","address":"M NOMsg","readings":["ubhayaḥ"]},
+    {"id":"UN","address":"N NOMsg","readings":["ubhayam"]},
+    {"id":"UPL","address":"M NOMpl","readings":["ubhaye"]},
+    {"id":"E11H","address":"N NOMsg with shatam","readings":["ekādaśam"]},
+    {"id":"E11K","address":"N NOMsg with sahasram","readings":["ekādaśam"]},
+    {"id":"E12H","address":"N NOMsg with shatam","readings":["dvādaśam"]},
+    {"id":"E12K","address":"N NOMsg with sahasram","readings":["dvādaśam"]},
+    {"id":"E11C","address":"N NOMsg with karshapanashatam","readings":["ekādaśam"]},
+    {"id":"E11SK","address":"N NOMsg with shatasahasram","readings":["ekādaśam: eleven hundreds extra","ekādaśam: eleven thousands extra"]}
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "WHOLE",
+      "decision": "Require a constituent-to-whole relation before tayap. Do not admit mere unrelated counting."
+    },
+    {
+      "id": "REPLACEMENT",
+      "decision": "Treat ayac after dvi/tri as an optional replacement of an already admitted tayap. Preserve feminine and pronominal consequences through the replacement history."
+    },
+    {
+      "id": "UBHA",
+      "decision": "Admit the commentary's two analyses of ubha's numerical status, but in both make ayac obligatory and retain its distinct accent. Exclude only a retained ubhataya branch under this rule."
+    },
+    {
+      "id": "SAME_UNIT",
+      "decision": "Apply the surplus suffix only when excess and target share a denomination and the target is hundred, thousand or their stated combination. Mixed units and other totals remain outside this construction, not outside the language."
+    }
+  ],
+  "blocked_or_open": [
+    "ubhataya is blocked by the obligatory replacement in 5.2.44.",
+    "Five over a hundred, bare ten over a hundred, eleven over thirty and mixed maasha/karshapana input fail different guards of 5.2.45.",
+    "Complete paradigms, wider accent evidence and the historical priority of the two ubha analyses remain Open."
+  ]
+}
